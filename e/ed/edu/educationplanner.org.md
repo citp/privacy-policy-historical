@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationplanner.org privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528113049id_/http%3A//www.aessuccess.org/about/pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationplanner.org privacy policy that was archived on 2005-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051104124432id_/http%3A//www.aessuccess.org/about/pp.shtml) for the most accurate reproduction.*
 
 # AES - Privacy Policy
 
@@ -20,7 +20,7 @@ Return to Privacy Policy Menu
 
 **Notice And Disclosure**
 
-**AES will not sell, trade, nor disclose the personally identifying information of its Website users to any unauthorized third parties.** Because of the many different relationships PHEAA/AES has with the users of its Websites2, it is possible that disclosure of information provided by Website users might be required in the delivery of AES’ services to users in the following circumstances: 
+**AES will not sell, trade, nor disclose the personally identifying information of its Website users to any unauthorized third parties.** Because of the many different relationships AES/PHEAA has with the users of its Websites2, it is possible that disclosure of information provided by Website users might be required in the delivery of AES’ services to users in the following circumstances: 
 
   1. When users have authorized the disclosure of information through certifications on loan applications and promissory notes, the Free Application for Federal Student Aid (FAFSA), and documents held by AES and its partners such as schools, lenders, servicers, United States Department of Education, and guarantors of users’ financial aid. 
   2. When AES needs to share user information to provide services a user has requested.
@@ -35,7 +35,7 @@ Under AES administration of the Federal Family Education Loan Program (FFELP), A
 
 The United States Department of Education has for several years required the disclosure of individuals’ Social Security numbers on applications and other FFELP requisite documents pursuant to published regulations.
 
-AES uses "cookies" to enhance its Website users' experiences on the AES Website. A cookie is a small file that AES transfers to users' computer hard drives. AES' use of cookies enables its Website users to avoid the nuisance of being asked to provide the same information repeatedly while users move from page to page of the site. Cookies also allow AES to ensure that only the user's web browser may exchange information regarding the user's account with AES' servers. Most web browsers are initially set to accept cookies. Additionally, some web browsers may be set to prompt users before it accepts a cookie. Many of the services offered on the AES Website might not function properly when users' set their web browsers to reject cookies.
+AES uses "cookies" to enhance its Website users' experiences on the AES Website. A cookie is a small file that AES transfers to users' computer hard drives. AES' use of cookies enables its Website users to avoid the nuisance of being asked to provide the same information repeatedly while users move from page to page of the site. Cookies also allow AES to ensure that only the user's Web browser may exchange information regarding the user's account with AES' servers. Most Web browsers are initially set to accept cookies. Additionally, some Web browsers may be set to prompt users before it accepts a cookie. Many of the services offered on the AES Website might not function properly when users' set their Web browsers to reject cookies.
 
 Users should be aware that other Websites to which a user links from the AES Website may contain privacy policies, statements, promises, or provisions that differ from the AES Website Privacy Policy and as such users are encouraged to review the applicable privacy policy of any site other than the AES Website. Users are encouraged to fully review the privacy statements of other Websites to determine whether or not the user’s use of the site comports with the user’s desire to maintain the privacy of his/her personally identifying information.
 
@@ -51,7 +51,7 @@ Return to Privacy Policy Menu
 
 **Choice and Consent**
 
-AES provides users access on its Website to users’ individual account, eligibility for financial aid status, and much more personal user level information. AES fully understands and wishes to fully serve its Website users that do not desire to have personally identifying account and status information available on the AES Website. Users may request the deletion of their AES account information available to them on the AES Website by sending an email to [ecomm@aessuccess.org](mailto:ecomm@aessuccess.org%0A) or call 1-877-603-6010. Upon receipt of an email from a user, AES will remove the user’s account information from its Website but will continue to retain all of the information on its computer systems as required by state and federal laws and regulations governing financial aid. 
+AES provides users access on its Website to users’ individual account, eligibility for financial aid status, and much more personal user level information. AES fully understands and wishes to fully serve its Website users that do not desire to have personally identifying account and status information available on the AES Website. Users may request the deletion of their AES account information available to them on the AES Website by sending an email to [ecomm@aessuccess.org](mailto:ecomm@aessuccess.org%0A) or calling 1-877-603-6010. Upon receipt of an email from a user, AES will remove the user’s account information from its Website but will continue to retain all of the information on its computer systems as required by state and federal laws and regulations governing financial aid. 
 
 Unless specifically notified by the user, AES will operate as though the user consents to the user’s account information being available on its Websites. Please review the sections on data security and AES’ privacy commitment for explanations of the security utilized by AES in protecting personal account information from unauthorized disclosure.
 
