@@ -1,10 +1,20 @@
-> *The following text is extracted and transformed from the edmunds.com privacy policy that was archived on 2005-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050320011554id_/http%3A//www.edmunds.com/help/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmunds.com privacy policy that was archived on 2005-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051105035411id_/http%3A//www.edmunds.com/help/about/privacy.html) for the most accurate reproduction.*
 
 # Edmunds Privacy Statement
 
 **Privacy Statement**
 
-We gather certain types of information about the visitors to this Web site and those visitors who use its services, and we believe our visitors should fully understand how we obtain and use that information. This Privacy Statement discloses what information we gather and how we use it. Any comments or questions about this Privacy Statement or our privacy policies should be directed to us though our [Contact Us](http://help.edmunds.com/cgi-bin/edmunds.cfg/php/enduser/ask.php) form.
+**Date Last Revised: 9/7/2005**
+
+We gather certain types of information about the visitors to this Web site and those visitors who use its services, and we believe our visitors should fully understand how we obtain and use that information. This Privacy Statement discloses what information we gather and how we use it.
+
+[](http://www.truste.org/ivalidate.php?url=www.edmunds.com&sealid=101)
+
+Edmunds.com, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.edmunds.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this Privacy Statement, you should contact us though our [Contact Us](http://help.edmunds.com/cgi-bin/edmunds.cfg/php/enduser/ask.php) form. You may also contact us by mail at 2401 Colorado Avenue, Santa Monica, California 90404. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.
+
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this Web site.
 
 **Your Personally Identifiable Information**
 
@@ -12,7 +22,11 @@ The submission by you to Edmunds.com of personally identifiable information (e.g
 
 If you give your consent, this information also may be shared with other entities to help us improve our services or to notify you about other products and services. That is, you may receive information from us or from other companies by e-mail, U.S. mail or other means. However, if we do not have your express consent, our policy is to not provide your personally identifiable information to anyone else, except as provided below. Edmunds.com may disclose personally identifying information, without first notifying you or obtaining your consent, upon receipt of legal process seeking such information, or if Edmunds.com determines that disclosure of such information: (i) is or may be required by law; (ii) is or may be reasonably necessary to enforce the Edmunds.com Membership Agreement (see "Edmunds.com" below) or our [Visitor Agreement](https://web.archive.org/help/about/visitoragreement.html), or to take appropriate action if a visitor is determined by Edmunds.com to have violated either of those agreements; or (iii) is or may be reasonably necessary to protect the rights, property or safety of Edmunds.com, its visitors or other individuals or entities. Edmunds.com may also disclose to third parties, when it determines such disclosure to be appropriate under the circumstances, portions of this Web site’s log files that show which “Internet service provider” a visitor used when on this Web site. That information may enable third parties to discover, through that Internet service provider, the identity of a visitor.
 
-In certain locations on this Web site in which we obtain personally identifiable information from you, we may include “check boxes” for the purpose of soliciting your consent to receive special offers and other information from Edmunds.com and other entities selected by us. By leaving these check boxes “checked,” you are choosing to receive commercial e-mail communications from Edmunds.com and/or those other entities. In that event, you will have the opportunity at any time to “opt-out” of receiving future commercial e-mails from Edmunds.com (on behalf of itself and/or such third parties) either by modifying your My Edmunds account or by following the instructions located at the bottom of the e-mail we send you. (However, please note that opting-out in this manner will not affect the right of such other entities to send e-mails to you independently of Edmunds.com.) 
+In certain locations on this Web site in which we obtain personally identifiable information from you, we may include “check boxes” for the purpose of soliciting your consent to receive special offers and other information from Edmunds.com and other entities selected by us. By leaving these check boxes “checked,” you are choosing to receive commercial e-mail communications from Edmunds.com and/or those other entities. In that event, you will have the opportunity at any time to “opt-out” of receiving future commercial e-mails from Edmunds.com (on behalf of itself and/or such third parties) either (i) by modifying your My Edmunds account, (ii) by following the instructions located at the bottom of the e-mail we send you, (iii) by sending a request to us through our [Contact Us](http://help.edmunds.com/cgi-bin/edmunds.cfg/php/enduser/ask.php) form, or (iv) by sending us a request by mail to 2401 Colorado Avenue, Santa Monica, California 90404; attention: Customer Service. (However, please note that opting-out in this manner will not affect the right of such other entities to send e-mails to you independently of Edmunds.com.) 
+
+**Access to Your Personally Identifiable Information**
+
+If your personally identifiable information changes, or if you would like to delete any of your personally identifiable information, you may correct, update or delete it by either (i) by modifying your My Edmunds account, (ii) by sending a request to us through our [Contact Us](http://help.edmunds.com/cgi-bin/edmunds.cfg/php/enduser/ask.php) form, or (iii) by sending us a request by mail to 2401 Colorado Avenue, Santa Monica, California 90404; attention: Customer Service.
 
 **Your Zip Code**
 
@@ -40,6 +54,16 @@ Newsletters: Edmunds.com uses cookies in connection with the delivery of its new
 
 Advertisements: Edmunds.com's advertising system delivers cookies in order to track ad impressions and click rates. See "Third-Party Ad Servers" below. 
 
+Please note that we do not link the information we store in cookies to any personally identifiable information you submit while on our site 
+
+**Security**
+
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, [click here](http://en.wikipedia.org/wiki/Secure_Sockets_Layer). 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+If you have any questions about security on our Website, please use our our [Contact Us](http://help.edmunds.com/cgi-bin/edmunds.cfg/php/enduser/ask.php) form. 
+
 **Edmunds.com Forums**
 
 In order to post a message in the message boards that are a part of [Edmunds.com Forums](http://www.edmunds.com/insideline/do/ForumsLanding), you must both have a My Edmunds account and have selected a username for use in the Forums. You do not need to register in order to browse or read other members' posts.
@@ -61,7 +85,7 @@ After you post a message, you have 30 minutes to make any changes or delete your
 
 **Electronic Newsletters**
 
-Edmunds.com offers free electronic newsletters that are dispatched by e-mail. Edmunds.com gathers the e-mail addresses of individuals who voluntarily subscribe, as well as demographic information from optional survey questions (see "Surveys" below). Individuals may subscribe, and subscribers may remove themselves from one or more of our mailing lists, through the [Newsletters Page](https://web.archive.org/nlrg/secure/newsletter.do). (Please note that in order to access this page you must first have a [My Edmunds account](https://web.archive.org/apps/dcm/FullLogin.jsp).)
+Edmunds.com offers free electronic newsletters that are dispatched by e-mail. Edmunds.com gathers the e-mail addresses of individuals who voluntarily subscribe, as well as demographic information from optional survey questions (see "Surveys" below). Individuals may subscribe, and subscribers may remove themselves from one or more of our mailing lists, through the [Newsletters Page](https://web.archive.org/nlrg/secure/newsletter.do).
 
 Edmunds.com delivers newsletters, and marketing and product offerings promoted in newsletters, by e-mail only to registered recipients. The e-mail tracking system recognizes the URL that was clicked, and records some information about you and your computer, such as the e-mail address that you provided to us, the browser, operating system and IP address.
 
@@ -95,12 +119,10 @@ Many of the pages of this Web site include a feature that permits visitors to el
 
 **Third-Party Ad Servers**
 
-We use DoubleClick Inc., a third-party advertising company, to serve advertisements for this Web site. DoubleClick may use information (not including your name, address, e-mail address or telephone number) about your visits to Edmunds.com and other Web sites in order to provide advertisements about goods and services of interest to you. Use of their cookies is subject to their own privacy policies. If you would like more information about this practice and to know your choices about not having this information used by DoubleClick, [view DoubleClick's privacy policy](http://www.doubleclick.com/us/about_doubleclick/privacy/).
+We use DoubleClick Inc., a third-party advertising company, to serve advertisements for this Web site. We also sometimes use other third-party advertising companies and advertising networks to serve ads. DoubleClick and these other third-party advertising companies and advertising networks may use information (not including your name, address, e-mail address or telephone number) about your visits to Edmunds.com and other Web sites in order to provide advertisements about goods and services of interest to you. Use of their cookies is subject to their own privacy policies. If you would like more information about this practice and to know your choices about not having this information used by these companies, you may, [view DoubleClick's privacy policy](http://www.doubleclick.com/us/about_doubleclick/privacy/) or visit <http://www.networkadvertising.org/optout_nonppii.asp>.
 
 **Changes to this Privacy Statement**
 
 Edmunds.com reserves the right to change this Privacy Statement at any time. Please check this page periodically for changes. Your continued use of this Web site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
-
-_Revised March 08, 2005_
 
 Back to top
