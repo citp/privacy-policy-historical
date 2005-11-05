@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualphotographystudio.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223234318id_/http%3A//www.virtualphotographystudio.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualphotographystudio.com privacy policy that was archived on 2005-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051105014137id_/http%3A//virtualphotographystudio.com/members/privacy_policy.htm) for the most accurate reproduction.*
 
 # Virtual Photography Studio - Privacy Policy
 
