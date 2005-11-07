@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmersonly.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526123015id_/http%3A//www.farmersonly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmersonly.com privacy policy that was archived on 2005-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051107012251id_/http%3A//www.farmersonly.com/privacy.php) for the most accurate reproduction.*
 
 # FarmersOnly.com
 
