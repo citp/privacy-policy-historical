@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dla.mil privacy policy that was archived on 2004-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041029065446id_/http%3A//www.dla.mil/privacysecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dla.mil privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108002656id_/http%3A//www.dla.mil/privacysecurity.asp) for the most accurate reproduction.*
 
 # Privacy/Security
 
