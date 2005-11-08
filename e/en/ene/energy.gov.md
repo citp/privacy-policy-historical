@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energy.gov privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015162106id_/http%3A//energy.gov/engine/content.do%3FBT_CODE%3DF_P) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energy.gov privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108031710id_/http%3A//www.energy.gov/engine/content.do%3FBT_CODE%3DF_P) for the most accurate reproduction.*
 
 # > energy.gov : Privacy
 
@@ -21,14 +21,21 @@ We collect no personal information about you when you visit a DOE Web site, unle
 the Internet Protocol (IP) address of the domain from which you access the Internet (i.e. 123.456.789.012) whether yours individually or provided as a proxy by your Internet Service Provider (ISP)
 
   * the date and time you access our site
+
   * the pages you peruse (recorded by the text and graphics files that compose that page)
+
   * and, the Internet address of the Website from which you linked directly to our site.
+
 
 
 
 We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas.
 
 This information is NOT shared with anyone beyond the support staff to this home page, except when required by Law Enforcement investigation, and is used only as a source of anonymous statistical information.
+
+## YOUR RIGHTS UNDER THE PRIVACY ACT AND OTHER PRIVACY LAWS
+
+Additional information regarding your rights is available via the FOIA/Privacy Act Reference Materials posted by the Federal Consumer Information Center at [ **www.Firstgov.gov**](http://www.firstgov.gov/Topics/Reference_Shelf.shtml#vgn-freedom-of-information-and-privacy-act-vgn).
 
 ## COMMENTS SENT BY E-MAIL
 
