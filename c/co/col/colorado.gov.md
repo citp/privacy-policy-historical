@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorado.gov privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405235803id_/http%3A//www.colorado.gov/colorado/privacy-security-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorado.gov privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108032234id_/http%3A//www.colorado.gov/colorado/privacy-security-policy.html) for the most accurate reproduction.*
 
 # colorado.gov
 
@@ -14,7 +14,7 @@ Thank you for visiting the Colorado home page and reviewing our Privacy Notice. 
 
 ## Information Collected and How it is Used
 
-We may collect some information about your visit to our web site. This information my include: 
+We may collect some information about your visit to our web site. This information may include: 
 
   1. The Internet Protocol Address and domain name used but not the email address. The Internet Protocol Address is a numerical identifier assigned either to your Internet Service Provider or directly to your computer. We use the Internet Protocol Address to direct Internet traffic to you;
   2. The type of browser you used;
