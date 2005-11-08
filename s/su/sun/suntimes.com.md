@@ -1,40 +1,32 @@
-> *The following text is extracted and transformed from the suntimes.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403200552id_/http%3A//www.suntimes.com/geninfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suntimes.com privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108043133id_/http%3A//www.suntimes.com/geninfo/privacy.html) for the most accurate reproduction.*
 
 # Chicago Sun-Times: Privacy Policy
 
 |  |   
 ---  
-[](http://www.suntimes.com/classifieds/autos) | [**Autos**](http://www.suntimes.com/classifieds/autos)  
-[Reviews & more](http://www.suntimes.com/classifieds/autos)   
+[](http://www.suntimes.com/classified/autos/) | [**Autos**](http://www.suntimes.com/classified/autos/)  
+[Reviews & more](http://www.suntimes.com/classified/autos/)  
   
 [](http://www.suntimes.com/classified/homes/index.html) | [**Homes**](http://www.suntimes.com/classified/homes/index.html)  
 [Homelife news](http://www.suntimes.com/index/hlife.html)  
   
-[](http://www.chicagojobs.com/) | [**Careers**](http://www.chicagojobs.com/)  
+[](http://www.suntimes.com/classified/careers/) | [**Careers**](http://www.suntimes.com/classified/careers/)  
 [News & advice](http://www.suntimes.com/classified/careers/)  
   
 [](http://www.suntimes.com/service/) | [**Subscribe**](http://www.suntimes.com/service/)  
 [Customer service](http://www.suntimes.com/service/)  
   
+[](https://web.archive.org/pwrsearch#yellowpages) | [**Yellow Pages**](https://web.archive.org/pwrsearch#yellowpages)  
+[Local search](https://web.archive.org/pwrsearch#yellowpages)  
   
   
-  [**About the CST**](https://web.archive.org/geninfo/index.html)  
-  [**Terms of use**](https://web.archive.org/geninfo/terms.html)  
-  [**Privacy Policy**](https://web.archive.org/geninfo/privacy.html)  
-  [**Email addresses**](https://web.archive.org/geninfo/email.html)  
-  [**Search the site**](https://web.archive.org/pwrsearch/index.html)  
-  [**Feedback**](https://web.archive.org/geninfo/feedback.html)  
-  [**CST Credit Union**](https://web.archive.org/geninfo/chicago_sun_creditunion.html)  
-  [**Hollinger**](https://web.archive.org/geninfo/hollinger.html)   
-  [**Advertising**](https://web.archive.org/mediakit/)  
-  [**About Us**](https://web.archive.org/geninfo/index.html)  
-  **Subscriptions**  
-  [**Feedback**](https://web.archive.org/geninfo/feedback.html)  
+About Us
 
+Site Information
 
 |  **PRIVACY POLICY**
 
-This "Web Site" is sponsored and hosted by Digital Chicago Inc. (collectively, "Digital Chicago" or "we" or "us"). Click here for a list of the Web Sites governed by Digital Chicago's Privacy Policy and Terms of Use (the "Digital Chicago Web Sites"). This Privacy Policy explains what information Digital Chicago collects on the Digital Chicago Web Sites, how we use your information, and your choices. This Privacy Policy only covers information collected by Digital Chicago at the Digital Chicago Web Sites, and does not cover any information collected offline or elsewhere by Digital Chicago (unless specifically stated), Hollinger International, its or their affiliates or any other company. Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20050403200552id_/http%3A//www.suntimes.com/geninfo/terms.html), which governs your use of the Digital Chicago Web Sites. Your use of our Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. 
+This "Web Site" is sponsored and hosted by Digital Chicago Inc. (collectively, "Digital Chicago" or "we" or "us"). Click here for a list of the Web Sites governed by Digital Chicago's Privacy Policy and Terms of Use (the "Digital Chicago Web Sites"). This Privacy Policy explains what information Digital Chicago collects on the Digital Chicago Web Sites, how we use your information, and your choices. This Privacy Policy only covers information collected by Digital Chicago at the Digital Chicago Web Sites, and does not cover any information collected offline or elsewhere by Digital Chicago (unless specifically stated), Hollinger International, its or their affiliates or any other company. Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20051108043133id_/http%3A//www.suntimes.com/geninfo/terms.html), which governs your use of the Digital Chicago Web Sites. Your use of our Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. 
 
 _**Information Digital Chicago Collects**_
 
@@ -68,7 +60,7 @@ We may combine the information about you that we collect at our Web Sites with i
 
 Unless otherwise disclosed in this Privacy Policy or at the time you provide your information, Digital Chicago will only share your PII with third parties under the following limited circumstances:
 
-**Affiliates.** Digital Chicago reserves the right to share your information with and among the Digital Chicago Web Sites, as well as with our parent and affiliated companies (the "Affiliated Parties"). **Note to California residents:** You may tell us not to share your PII with the Affiliated Parties for the Affiliated Parties' direct marketing purposes by sending notification to: Digital Chicago Inc., Attn: John Cary, 350 N. Orleans, Chicago IL, 60654. 
+**Affiliates.** Digital Chicago reserves the right to share your information with and among the Digital Chicago Web Sites, as well as with our parent and affiliated companies (the "Affiliated Parties"). You may tell us not to share your PII with the Affiliated Parties for the Affiliated Parties' direct marketing purposes by sending notification to: Digital Chicago Inc., Attn: John Cary, 350 N. Orleans, Chicago IL, 60654. 
 
 **Sweepstakes, Contests and Promotions.** If you choose to enter a sweepstakes, contest or other promotion, your PII may be disclosed to third parties in connection with such promotion at least as required by law, including, without limitation, on a winners list. Also, by entering a sweepstakes, contest or other promotion, we may require you to consent to the use of your PII or other information, such as voice or likeness, in advertising, promotional and marketing materials. In addition, we may offer certain promotional content, such as a sweepstakes, sponsored by or co-branded with a third party, who may obtain the PII that you submit, but only where specifically stated on the registration page for such promotion. Please note that Digital Chicago has no control over such a third party's use of this information, and any such third party is not subject to this Privacy Policy.
 
