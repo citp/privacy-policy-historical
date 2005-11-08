@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2005-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050415144528id_/http%3A//www.entergy.com/corp/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108045406id_/http%3A//www.entergy.com/corp/legal/privacy.asp) for the most accurate reproduction.*
 
 # Entergy Corporate | Privacy
 
 ##### **Privacy Policy Statement**
 
-This is the website of Entergy Corporation or one of its affiliates ("Entergy").
+This is the Web site of Entergy Corporation or one of its affiliates ("Entergy").
 
 Our postal address is:
 
 P.O. Box 61000  
 New Orleans, LA 70160
 
-We can also be reached via e-mail at: webmaster@entergy.com
+We can also be reached via e-mail by [clicking here](https://secure.entergy.com/forms/contactus.asp?Section=CORP&topicContactId=207&direct=1).
 
 We understand how important customer privacy is to you. We hope this statement will answer your questions about our information and privacy precautions.
 
