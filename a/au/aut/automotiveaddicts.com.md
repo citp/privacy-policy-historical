@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotiveaddicts.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407040430id_/http%3A//www.automotiveaddicts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotiveaddicts.com privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108053846id_/http%3A//www.automotiveaddicts.com/privacy.html) for the most accurate reproduction.*
 
 # Automotive Addicts
 
@@ -12,6 +12,14 @@ We will guard the personal information you share with us to ensure the content, 
 Beyond our representatives and affiliates, Automotive Addicts does not offer or allow the selling of any user-provided information to third parties. 
 
 If you choose not to register, you can still visit and view the Automotive Addicts Forum; however, you will not have access to post on our forum. Personal information that you post to online forums is accessible by other forum participants whether it be guests or registered users. 
+
+Displayed Image Usage Policy
+
+Automotive Addicts owns and retains the copyrights in all displayed images except as noted. No copyright license (either express or implied) is granted to the user. Images are available for resale and cannot be used for any commercial purposes without permission. 
+
+It is generally illegal to copy, reproduce or distribute copyrighted information or materials (including photographs) without the consent of the owner of such copyright. Generally, the photographer is the owner of the copyright of a photograph or image. Unless otherwise clearly indicated, you should assume that anything and everything you see or read on this site is copyrighted and may not be used or copied by you except as explicitly provided in this site, or by applicable law or otherwise without the express prior written consent of Automotive Addicts or the copyright owner. This prohibition means you may not transmit, mirror, modify or re-distribute any images or text from this site without the express prior written permission of Automotive Addicts or the copyright owner. You may download and print images and text from this site only for your private, non-commercial use. Any other use requires the prior consent of Automotive Addicts or the copyright owner. YOU ALSO REPRESENT THAT YOU ARE THE OWNER OR ARE AUTHORIZED BY THE COPYRIGHT OWNER TO USE ANY COPYRIGHTED MATERIALS SUBMITTED OR PROVIDED BY YOU. UNAUTHORIZED USE MAY BE IN VIOLATION OF THE LAW AND COULD RESULT IN LIABILITY BY YOU. 
+
+Any images contained in or displayed by Automotive Addicts on this site, other than as submitted by you, are the property of Automotive Addicts or are used by Automotive Addicts Staff with the consent of the copyright holder and persons if any, appearing in such images. Subject to paragraph 2 hereof, the use by you of any such images (or any portions thereof) without the express written consent of Automotive Addicts or the copyright holder is prohibited. UNAUTHORIZED USE MAY BE IN VIOLATION OF THE LAW AND COULD RESULT IN LIABILITY BY YOU.
 
 ## The use of log files (cookies) 
 
