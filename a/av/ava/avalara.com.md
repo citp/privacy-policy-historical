@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the avalara.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405112732id_/http%3A//www.avalara.com/index.cfm/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avalara.com privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108060902id_/http%3A//www.avalara.com/index.cfm/page/privacypolicy) for the most accurate reproduction.*
 
-# Avalara.com | Privacy Policy
-
-Privacy Policy
+# State sales tax software calculator for rates -- Avalara.
 
 The Privacy Policy below governs your Avalara account and any information you provide on this site. If you request service from Avalara, you authorize Avalara and 3rd Party Banking institutions to exchange the information you provide in the application form. If you are approved for Avalara service your account will be governed by the Avalara Privacy Policy.
 
@@ -119,7 +117,7 @@ You can review the personal information you provided us and make any desired cha
 F. Contacting Us  
 If you have any questions about this privacy statement, Avalara's information practices, or your dealings with Avalara, you can contact us, call 877-780-4848 Monday through Friday between the hours of 8am and 5pm PST, or write us at Avalara, 900 Winslow Way E. #130, Bainbridge Island, WA 98110. 
 
-[Back to top](http://www.avalara.com/index.cfm/page/privacypolicy#top)
+[Back to top](http://www.avalara.com/page/privacypolicy#top)
 
-  | Copyright © 2004 Advantage Solutions, Inc.  All Rights Reserved    
+  | Copyright © 2005 Advantage Solutions, Inc.  All Rights Reserved    
 ---|---
