@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totaltools.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616040028id_/http%3A//totaltools.com.au/Privacy.html%3Fsesid%3Dc33264a167c3ee78f00cc49bd7a47d4c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltools.com.au privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108112928id_/http%3A//www.totaltools.com.au/Privacy.html) for the most accurate reproduction.*
 
-# Total Tools Industrial - Australia's premier industrial tool supplier group
+# Total Tools Industrial ::: Privacy Policy
 
 Privacy Act 1998 as amended by the Privacy Amendment Private Sector Act 2000
 
