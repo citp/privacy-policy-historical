@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teslamotors.com privacy policy that was archived on 2005-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050413164929id_/http%3A//www.teslamotors.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teslamotors.com privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108192336id_/http%3A//www.teslamotors.com/privacy.htm) for the most accurate reproduction.*
 
 # Telsa Motors, Inc.
 
