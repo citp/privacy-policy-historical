@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2005-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050215232237id_/http%3A//www.oursportscentral.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108011736id_/http%3A//www.oursportscentral.com/about/privacy) for the most accurate reproduction.*
 
 # OurSports Central - Independent and Minor League Sports News from OSC
-
-| 
 
 Privacy Notice Table Of Contents:   
 
@@ -55,10 +53,4 @@ Because we do not collect any personal information, there is nothing that will n
 Should you have other questions or concerns about these privacy policies, please [contact us](http://www.oursportscentral.com/about/contact).
 
   
-  
-|  |  |   
----  
-  
-[Doc’s Sports picks](http://www.docsports.com/ "Doc’s Sports picks") offers football, basketball and baseball picks including free sports picks and analysis. Doc's has been in business for more than 33 years.   
-  
-[ ](http://www.qksrv.net/click-1151752-10300612) [ ](http://www.jdoqocy.com/click-1151752-10357692)
+
