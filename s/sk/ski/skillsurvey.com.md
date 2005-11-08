@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309220617id_/http%3A//www.skillsurvey.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108084445id_/http%3A//www.skillsurvey.com/privacy.php) for the most accurate reproduction.*
 
 # SkillSurvey
 
-|  | [About Us Overview](https://web.archive.org/web/20050309220617id_/http%3A//www.skillsurvey.com/aboutus.php)  
+|  | [About Us Overview](https://web.archive.org/web/20051108084445id_/http%3A//www.skillsurvey.com/aboutus.php)  
 ---|---  
-| [Management Team ](https://web.archive.org/web/20050309220617id_/http%3A//www.skillsurvey.com/mteam.php)  
-| [Contact Us ](https://web.archive.org/web/20050309220617id_/http%3A//www.skillsurvey.com/contactus.php)  
-| [Investor Relations ](https://web.archive.org/web/20050309220617id_/http%3A//www.skillsurvey.com/investors.php)  
-| [Customer Support ](https://web.archive.org/web/20050309220617id_/http%3A//www.skillsurvey.com/support.php)  
-| [Privacy Policy](https://web.archive.org/web/20050309220617id_/http%3A//www.skillsurvey.com/privacy.php)  
+| [Management Team ](https://web.archive.org/web/20051108084445id_/http%3A//www.skillsurvey.com/mteam.php)  
+| [Contact Us ](https://web.archive.org/web/20051108084445id_/http%3A//www.skillsurvey.com/contactus.php)  
+| [Investor Relations ](https://web.archive.org/web/20051108084445id_/http%3A//www.skillsurvey.com/investors.php)  
+| [Customer Support ](https://web.archive.org/web/20051108084445id_/http%3A//www.skillsurvey.com/support.php)  
+| [Privacy Policy](https://web.archive.org/web/20051108084445id_/http%3A//www.skillsurvey.com/privacy.php)  
   
 | 
 
