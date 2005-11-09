@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wanderlist.com privacy policy that was archived on 2005-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050211215914id_/http%3A//www.wanderlist.com/policy/info_usage.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderlist.com privacy policy that was archived on 2005-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051109223129id_/http%3A//www.wanderlist.com/policy/info_usage.cgi) for the most accurate reproduction.*
 
 # w a n d e r l i s t - Privacy & Information Usage Policy
 
