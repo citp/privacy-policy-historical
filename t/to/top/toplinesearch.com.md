@@ -1,75 +1,52 @@
-> *The following text is extracted and transformed from the toplinesearch.com privacy policy that was archived on 2005-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050612024925id_/http%3A//www.toplinesearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toplinesearch.com privacy policy that was archived on 2005-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051109143932id_/http%3A//www.thelifesearch.com/privacy.htm) for the most accurate reproduction.*
 
-# Toplinesearch.com
+# Thelifesearch.com
 
-Toplinesearch.com Privacy Policy 
+**Privacy Policy**
 
-  
-Toplinesearch.com is absolutely committed to the protection of your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. 
+Your online privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we provide a link to it on every page of our website.
 
-We have no acces to the information collected by the Payment Services Providers we use to payout our affiliates. These Payment Services may use cookies and/or personal information recorded from your machine (such as host,e-mail,ip,country). Follow the following links to the privacy policy's of these Payment Services Providers: 
+This privacy notice discloses the privacy practices or the www.thelifesearch.com website .
 
-* Paypal: <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside>
-* E-Gold: <http://www.e-gold.com/unsecure/policy.htm#Privacy>
-* MoneyBookers: <http://www.moneybookers.com/app/help.pl?s=privacy>
+Thelifesearch uses information for the following general purposes:
 
-**Registration**  
-In order to use this Web site, you must first complete the registration form and create a user name and password. During registration you are required to give contact information (such as name and email address and postal address). We only use this information to validate your existence and to contact you when needed for the services we offer. 
+\- to contact you;  
+\- to improve our site and services;  
+\- research;  
+\- anonymous reporting for internal and external clients.
 
-**Uses of Information**  
-Upon registration we request you to give us your full name, your country, your full telephone number and your full postal address. This information will be uses for contact purpose and user validation purpose.  
-We will never give/sell/share any kind of information collected by us from the visitors on Toplinesearch.com.
+Thelifesearch PPC SearchEngine provides links to many other websites that are beyond our control. Websites that we link to may have privacy and security policies that differ from Thelifesearch PPC SearchEngine. Please understand that we are not responsible, in any manner, for the privacy, security practices, or content of such websites.
 
-As a listing partner, we record only ip address, country and hostname from visitors that you send to our site. If you are an xml partner we also record the username from the affiliates that send traffic to us via your engine.
+Thelifesearch does not rent, sell, or share your personal information with any third party, non-affiliated companies, except under the following circumstances:  
+\- we provide information to trusted partners who work on behalf of or with Thelifesearch under strict agreements. These companies may use your information to help Thelifesearch communicate with you about offers from Thelifesearch and our marketing partners;  
+\- when requested by means of a court order or other legal process.
 
-**Communications from the Site**
+Thelifesearch does not provide any individually identifiable information to advertisers.
 
- _Special Offers and Updates_  
-We will occasionally send you information on services, special deals, promotions. _Service-related Announcements_  
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.  
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. _Customer Service_  
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email, in accordance with your wishes 
+ **Cookies**
 
-We share do not share your profile with other third parties. Upon breach of our terms, we share your ip address with third parties. 
+Thelifesearch may set and access Thelifesearch cookies on your computer. Thelifesearch allows advertisers to set and access their cookies on your computer.
 
-**Information Sharing and Disclosure**  
-We share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users.  
-For our services that we offer, we share your country and ip address with our partners(Partners that offer us listings) for proxy,country filtering.
+**Advertising**
 
- _Personally identifiable information:_  
-We DO NOT Share Personally Identifiable Information with Third Parties.
+Thelifesearch may use our own advertising as well as third party advertising agencies on our website. Thelifesearch cannot be held responsible for anything contained within the sites of our partners, members, or advertisers.
 
-**Log Files**  
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users?movements around the site and to gather demographic information about our user base as a whole.
+**Permission To Use Your Content**
 
-We do not link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to protect us from fraudulent activites.
+By transmitting any suggestions, information, identification, material, or other content ("content") to Thelifesearch, you automatically grant us the royalty-free, perpetual, irrevocable, non-exclusive right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, redistribute, transmit, perform and display such content (in whole or part) worldwide and/or to incorporate it in other works in any form, media, or technology now known or later developed for the full term of any rights that may exist in such content. Further, we are free to use any ideas, concepts, know-how, techniques, and suggestions contained in any communications you send to Thelifesearch for any purpose whatsoever, including but not limited to creating, manufacturing and marketing products and/or services using such information.
 
-**Cookies**  
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.  
-We use session cookies to make it easier for you to navigate our site.
+**General**
 
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers.?br> This privacy statement covers the use of cookies by Toplinesearch.com only and does not cover the use of cookies by any advertisers.
+You can edit your Thelifesearch account information at any time. Communications from Thelifesearch, such as service announcements, administrative messages and newsletters, are considered part of Thelifesearch your membership and you may not opt out of receiving them. We limit access to information about you to employees who need to come into contact with that information to provide services to you or in order to do their jobs. Your Thelifesearch account information is password-protected.
 
-**Third Party Advertisers**  
-The ads appearing on this Web site are delivered to users by Clicksor and maMMa, our advertising partners.We share Web site usage information about users with reputable third party "Clicksor" and "maMMa" for the purpose of targeting our Internet banner advertisements on this site.
+**Notification of Changes To The Privacy Policy:**
 
-For more information about our third-party advertisers, or to learn more about the choices available to you regarding this anonymous information, please click [here for clicksor](http://www.clicksor.com/pp.php) and/or [here for maMMa](http://www.mamma.com/info/privacy.html).
+Our privacy policy may change from time to time so please check back periodically. If at some point in the future, Thelifesearch PPC SearchEngine changes the usage practices that affect any of your personally identifiable information, We will notify you by email of the changes. At the time of that message you will be able to opt-out of this information usage by sending an email message to the follow address: webmaster@thelifesearch.com
 
-**Links to Other Sites**  
-This Web site contains links to other sites that are not owned or controlled by Toplinesearch.com. Please be aware that we, Toplinesearch.com, are not responsible for the privacy practices of such other sites.  
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  
-This privacy statement applies only to information collected by this Web site.
+**How You Can Access Or Correct Your Information:**
 
-**Access to Personally Identifiable Information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our [member information page](http://www.toplinesearch.com/cgi-bin/accounts.cgi?action=edit).or by emailing our Customer Support via our online support form.
+You can access all your personally identifiable information that we collect by editing your account information directly using the appropriate control panel on our website. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making changes or corrections to any of your personally identifiable information.
 
-**Business Transitions**  
-In the event Toplinesearch.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
+**How To Contact Us:**
 
-**Changes in this Privacy Statement**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-**Contact Us**  
-If you have any questions or suggestions regarding our privacy policy, please contact us at our support page.
+If you have any questions about the Thelifesearch PPC SearchEngine privacy commitment, the practices of this site, or your dealings with us please contact: **webmaster@thelifesearch.com**
