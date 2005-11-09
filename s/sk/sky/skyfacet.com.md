@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyfacet.com privacy policy that was archived on 2005-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050411124840id_/http%3A//www.skyfacet.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyfacet.com privacy policy that was archived on 2005-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051109024442id_/http%3A//www.skyfacet.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Sky Facet
 
