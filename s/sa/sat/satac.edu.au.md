@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satac.edu.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615120314id_/http%3A//www.satac.edu.au/satac/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satac.edu.au privacy policy that was archived on 2005-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051109033802id_/http%3A//www.satac.edu.au/satac/privacy.htm) for the most accurate reproduction.*
 
 # SATAC Disclaimer
 
