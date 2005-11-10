@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalunderground.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308025046id_/http%3A//www.metalunderground.com/about_us/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalunderground.com privacy policy that was archived on 2005-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051110073447id_/http%3A//metalunderground.com/about_us/privacy_statement) for the most accurate reproduction.*
 
 # Metal Underground . com - About Us - Privacy Statement
 
