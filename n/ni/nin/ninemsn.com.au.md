@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninemsn.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616171404id_/http%3A//a.ninemsn.com.au/b.aspx%3FURL%3Dhttp%253a%252f%252fhelp.ninemsn.com.au%252fsupport%252fprivacy.asp%26_p%3D199_1289_0%26_m%3DFT%26_l%3D8%26_t%3D%26_r%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninemsn.com.au privacy policy that was archived on 2005-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051110170556id_/http%3A//a.ninemsn.com.au/b.aspx%3FURL%3Dhttp%253a%252f%252fhelp.ninemsn.com.au%252fsupport%252fprivacy.asp%26_p%3D199_1289_0%26_m%3DFT%26_l%3D8%26_t%3D%26_r%3D) for the most accurate reproduction.*
 
 # ninemsn support
 
