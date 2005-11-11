@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webscutest.com privacy policy that was archived on 2005-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050426084332id_/http%3A//palbyte.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webscutest.com privacy policy that was archived on 2005-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051111164556id_/http%3A//palbyte.com/language/english/privacy.php) for the most accurate reproduction.*
 
 # Palbyte.com Privacy Policy
 
