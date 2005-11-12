@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tempe.gov privacy policy that was archived on 2005-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050413002008id_/https%3A//www.tempe.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tempe.gov privacy policy that was archived on 2005-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051112032303id_/https%3A//www.tempe.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - City of Tempe
 
@@ -14,6 +14,9 @@ The City of Tempe does not sell, trade, or rent your personal information to oth
 
 **Your consent**  
 By using the Tempe in Touch web site, you consent to the collection and use of this information by the City of Tempe. If we decide to change our privacy policy, we will post those changes on this page so that you always have the opportunity to be aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+**Forms**  
+All forms on our site should be set to automatically run as secured forms.  That means you should see the same security lock indication on your browser as you would if you were in a shopping cart or banking site.  In the event that you find a form that is not secure please report it to [webmaster@tempe.gov](mailto:webmaster@tempe.gov) with the web address of the form.  To make any page on the Tempe.gov web site secure you may add an 's' to the web address right after the http in the address line.  For example, this page would be [ https://www.tempe.gov/privacy.htm](https://www.tempe.gov/privacy.htm) (updated 8/2005)
 
 ****
 
@@ -45,4 +48,4 @@ The City will not use cookies, or any other technology, to track individuals on 
 ****
 
 **Tell us what you think**  
-The City of Tempe welcomes your questions and comments about the privacy policy. Please send e-mail to [webmaster@tempe.gov](https://web.archive.org/web/20050413002008id_/https%3A//www.tempe.gov/webmaster@tempe.gov).
+The City of Tempe welcomes your questions and comments about the privacy policy. Please send e-mail to [webmaster@tempe.gov](https://web.archive.org/web/20051112032303id_/https%3A//www.tempe.gov/webmaster@tempe.gov).
