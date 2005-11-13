@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the work.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403082405id_/http%3A//work.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the work.com privacy policy that was archived on 2005-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051113122935id_/http%3A//www.work.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Work.com
 
