@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525124218id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2005-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051113014548id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
 
 # Lippincott Williams & Wilkins Privacy Policy & Statement, permission marketing
 
