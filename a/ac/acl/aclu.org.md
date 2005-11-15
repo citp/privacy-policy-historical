@@ -1,16 +1,24 @@
-> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528003219id_/http%3A//www.aclu.org/info/info.cfm%3FID%3D17024%26c%3D248) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2005-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051115120459id_/http%3A//www.aclu.org/info/info.cfm%3FID%3D17024%26c%3D248) for the most accurate reproduction.*
 
 # American Civil Liberties Union : <font color="#FFFFFF">Online Privacy Statement</font>
 
-   
+|    
+
+
+   
+
+[](http://www.aclu.org/news/NewsPrint.cfm?ID=17024&c=248)  
+   [](http://www.aclu.org/news/newsemail.cfm?ID=17024&c=248)
+
+| 
+
+|    
 |     
   
 
 
 Online Privacy Statement  
 EFFECTIVE AS OF: APRIL 1, 2005
-
-NOTE: This Statement includes revisions in the sections on "How We Use The Data We Collect" and "Third-Party Sharing" that clarify that personal data is sometimes used (and combined with publicly available data) for the ACLU's own internal marketing, communications, and fundraising purposes. 
 
 The American Civil Liberties Union and the ACLU Foundation (collectively, "ACLU") are committed to protecting the personal information that you provide to us when using the ACLU Site. This Online Privacy Statement describes how we treat all user data collected during your visit to the ACLU Site, both anonymous data and personally-identifying data.
 
@@ -88,4 +96,7 @@ If you have any questions, comments or concerns about this Online Privacy Statem
 
 |    
   
----|---|---
+---|---|---  
+  
+   
+| 
