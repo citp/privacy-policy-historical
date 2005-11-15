@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travidia.com privacy policy that was archived on 2005-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050320085052id_/http%3A//www.travidia.com/home/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travidia.com privacy policy that was archived on 2005-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051115123856id_/http%3A//travidia.com/home/privacy_policy.asp) for the most accurate reproduction.*
 
 # Travidia Inc. – Driving advertising opportunities online - Privacy Policy
 
