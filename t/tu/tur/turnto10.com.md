@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turnto10.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205020706id_/http%3A//www.turnto10.com/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnto10.com privacy policy that was archived on 2005-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051115033017id_/http%3A//www.turnto10.com/news/1176131/detail.html) for the most accurate reproduction.*
 
-# News Channel 10 - News - Online Privacy Statement
+# NBC 10 NEWS - News - Online Privacy Statement
 
 The policy set forth below is applicable to this site and to all of the station web sites operated by Internet Broadcasting Systems, Inc. on behalf of National Broadcasting, Inc., including WJAR-TV(Providence, RI) turnto10.com; WNCN-TV (Raleigh, NC) nbc17.com; WCMH-TV (Columbus, OH) nbc4columbus.com; KNSD-TV (San Diego, CA), nbcsandiego.com; WMAQ-TV (Chicago, IL) nbc5.com; WRC-TV (Washington, D.C.) nbc4.com; KNBC-TV (Los Angeles, CA) nbc4.tv; WNBC-TV (New York, NY) wnbc.com; WCAU-TV (Philadelphia, PA) nbc10.com; WTVJ-TV (Miami, FL) nbc6.net; WVTM-TV (Birmingham, AL) nbc13.com; KXAS-TV (Dallas/Fort Worth, TX) nbc5i.com; WVIT (Hartford, CT) nbc30.com; KNTV (San Jose, CA) nbc11.com. 
 
