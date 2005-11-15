@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traillink.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403165817id_/http%3A//www.traillink.com/TL_info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traillink.com privacy policy that was archived on 2005-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051115034926id_/http%3A//www.traillink.com/TL_info/privacy.asp) for the most accurate reproduction.*
 
 # RTC: Privacy Statement
 
@@ -24,6 +24,16 @@ RTC maintains personal information on our members in order to fulfill membership
 
 **Links**
 
-The RTC Web site contains links to other sites. We do not endorse or otherwise accept responsibility for the content or privacy policies of those sites.  
+The RTC Web site contains links to other sites. We do not endorse or otherwise accept responsibility for the content or privacy policies of those sites. 
+
+**Online Refund Policy**
+
+In the event that your purchase from Rails-to-Trails Conservancy (RTC) via TrailLink, was charged to your credit card or paid by check in error or without your permission, RTC will honor your request to cancel the original transaction and refund your payment in full, as long as the request is made within ninety days of the original transaction, and in the case of merchandise, the merchandise is returned. 
+
+If your original payment was made by credit card, the period of ninety days will begin from the transaction processing date. If payment was made by check, the period of ninety days will begin from the date the check was written. RTC reserves the right to revise this policy at any time. 
+
+**Online Advertising**
+
+In order to conform to IRS requirements for 501(c)(3) nonprofit corporations, and as necessary for compatibility with our mission and values, Rails-to-Trails Conservancy reserves the right to edit the content and format of any advertisement placed on our Web site, or purchased to be placed on our Web site. Fees paid for advertisements are non-refundable, and advertisements will run for 12 months from initial posting.   
   
 ---|---
