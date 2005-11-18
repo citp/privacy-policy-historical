@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martinsoffers.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308103651id_/http%3A//www.martinsoffers.com/pages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinsoffers.com privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119002706id_/http%3A//www.martinsoffers.com/pages/privacy.htm) for the most accurate reproduction.*
 
 # The Work at Home - Privacy Policy
 
