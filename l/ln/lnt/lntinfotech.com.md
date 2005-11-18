@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lntinfotech.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525054314id_/http%3A//www.lntinfotech.com/lntinfotech/ASPFiles/PrivacyPolicy/I1117PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lntinfotech.com privacy policy that was archived on 2005-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051118174929id_/http%3A//www.lntinfotech.com/lntinfotech/ASPFiles/PrivacyPolicy/I1117PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Offshore Outsourcing IT Services Provider | L&T Infotech - Privacy Policy
 
