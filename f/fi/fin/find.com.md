@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the find.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407074602id_/http%3A//www.find.com/Home/About.aspx%3Fpage%3DPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find.com privacy policy that was archived on 2005-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051118190926id_/http%3A//www.find.com/Home/About.aspx%3Fpage%3DPrivacy.htm) for the most accurate reproduction.*
 
 # Find.com - True Business Search
 
-|  |  | 
+  
+|  |  | About  
+---|---  
+  
+|  | 
 
 Privacy
 
@@ -35,7 +39,7 @@ FIND.COM may share information about you with advertisers, business partners, sp
 
 Your consent and changes to the Privacy Policy 
 
-By using the FIND.COM Search Services and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms of Service Policy](https://web.archive.org/web/20050407074602id_/http%3A//www.find.com/Home/About.aspx?page=terms_and_conditions.htm). FIND.COM may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
+By using the FIND.COM Search Services and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms of Service Policy](https://web.archive.org/web/20051118190926id_/http%3A//www.find.com/Home/About.aspx?page=terms_and_conditions.htm). FIND.COM may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
 
 Who can I ask if I have additional questions? 
 
