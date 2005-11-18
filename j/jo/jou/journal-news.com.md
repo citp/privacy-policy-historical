@@ -1,24 +1,23 @@
-> *The following text is extracted and transformed from the journal-news.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801170232id_/http%3A//www.journal-news.com/search/content/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journal-news.com privacy policy that was archived on 2005-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051118155020id_/http%3A//www.journal-news.com/service/content/services/privacypolicy.html) for the most accurate reproduction.*
 
 # Journal-News.com: Privacy Policy
 
-  
-|   | 
-
 **PRIVACY POLICY**
 
-We respect the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Dayton Newspapers, Inc., d/b/a Cox Ohio Publishing, Inc. ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our General Manager: 
+We respect the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by the JournalNews, d/b/a Cox Ohio Publishing, Inc. ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to the individuals below: 
 
-Priscilla Brown  
-Cox Newspapers  
-1150 Sugg Parkway  
-Greenville, North Carolina 27835  
-Fax: (252) 754-8140  
-E-mail: [pbrown@coxnews.com](mailto:pbrown@coxnews.com)
+**User registration:** For information regarding user registration, please read our [frequently asked questions](https://www.journal-news.com/news/userreg/tc/q_faq.jsp). 
+
+You may also direct questions and comments to our customer service center: 
+
+Phone: 1-877-267-0018  
+E-mail: [ur@coxohio.com](mailto:ur@coxohio.com)
+
+For non-user registration privacy policy questions and concerns, please contact site supervisor Ken Paxson at 1-937-225-2435 or e-mail him at [kpaxson@coxnews.com](mailto:kpaxson@coxnews.com). 
 
 **CHILDREN'S PRIVACY**
 
-Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to provide any other personally identifying information. If you’re under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number). 
+Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to provide any other personally identifying information. If you're under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number). 
 
 **TYPES OF INFORMATION WE COLLECT**
 
@@ -58,7 +57,7 @@ We use cookies to help us tailor our site to your needs, to deliver a better, mo
 
 **OPTING OUT**
 
-If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us by [using this form](https://web.archive.org/web/20030801170232id_/http%3A//www.journal-news.com/search/content/notification.html). 
+If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us by [using this form](https://web.archive.org/web/20051118155020id_/http%3A//www.journal-news.com/service/content/services/notification.html). 
 
 If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an email newsletter or by going back to our site). 
 
@@ -71,6 +70,3 @@ All information gathered on our site is stored within a database operated by us 
 **CHANGES TO THIS PRIVACY POLICY**
 
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. 
-
-|   |   
-
