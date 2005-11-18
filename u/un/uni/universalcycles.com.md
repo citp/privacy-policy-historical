@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the universalcycles.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205042958id_/http%3A//www.universalcycles.com/policy_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalcycles.com privacy policy that was archived on 2005-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051118162456id_/http%3A//www.universalcycles.com/policy_privacy.php) for the most accurate reproduction.*
 
 # Universal Cycles - Our Privacy Policy
+
+* * *
+
+* * *
+
+**Shop By Company:**  
+  
+**[Full Company List](https://web.archive.org/company.php)**
+
+* * *
+
+| 
+
+Our Privacy Policy
 
 **Privacy Policy Statement**
 
@@ -8,7 +22,7 @@ Here at Universal Cycles, we're proud of the relationships we've made with our c
 
 If you have any questions regarding this policy, please don't hesitate to contact us at:
 
-5929 N.E. 80th St Portland, OR 97218 or 800 936 5156  fax 503 296 2473 or Email us at mikeuniversal@hotmail.com
+5929 N.E. 80th St Portland, OR 97218 or 800 936 5156  fax 503 296 2473 or Email us at Sales@universalcycles.com
 
 Frequently Asked Questions:
 
