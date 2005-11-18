@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the licor.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525114120id_/http%3A//www.licor.com/corp/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the licor.com privacy policy that was archived on 2005-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051118181058id_/http%3A//www.licor.com/corp/privacy.txt) for the most accurate reproduction.*
 
 # 
 
