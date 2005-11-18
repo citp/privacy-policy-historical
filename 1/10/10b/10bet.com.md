@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10bet.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527065944id_/http%3A//www.10bet.com/10BetClient/InfoCenter/article.aspx%3Fid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10bet.com privacy policy that was archived on 2005-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051118203854id_/http%3A//www.10bet.com/10BetClient/InfoCenter/article.aspx%3Fid%3D5) for the most accurate reproduction.*
 
 # ::: 10BET - The Best You Can Bet ::: - Bet Info
 
