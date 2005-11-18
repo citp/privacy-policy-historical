@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the kingschools.com privacy policy that was archived on 2005-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050402014722id_/http%3A//www.kingschools.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kingschools.com privacy policy that was archived on 2005-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051118151328id_/http%3A//www.kingschools.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	<title>King Schools - FAA Exam Prep Software, Pilot Training DVDs, and Pilot Gear</title>
+	<title>FAA Exam Prep Software, Pilot Training DVDs, Pilot Gear and Business Courses at King Schools</title>
 	<meta name="description" content="Welcome to King Schools, the world's leading producer of aviation and pilot training videos and FAA Knowledge Test preparation software.">
 	<meta name="keywords" content="airplane, gps, aopa training, aviation gps, aviation headset, aviation headsets, aviation plotters, aviation training, aviation watches, 
 		be pilot, become pilot, cessna, commercial exam, commercial rating, commercial written, e6b, e6-b, faa books, faa exam, faa test, faa test prep, faa written exam, 
@@ -15,6 +15,13 @@
 		private pilot training, private pilot written, rod machado, skyhawk, student pilot, transceivers">
 	<meta name="robots" content="index,follow">
 	<link href="/style.css" rel="stylesheet" type="text/css">
+	<script src=" https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-142017-1";
+	urchinTracker();
+	</script>
+
 </head>
 
 <body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" bgproperties="fixed">
@@ -27,7 +34,7 @@
 		window.open("/ProductMini.asp?ITEMNO=" + ItemNo, "ProductDetail", "screenX=75,screenY=75,width=700,height=500,dependent=yes,directories=0,hotkeys=0,location=0,menubar=0,status=0,titlebar=0,toolbar=0,resizable=1,scrollbars=1,alwaysRaised=1");
 	}
 	function popErrMsg(errCode)
-	{
+	{alert("error=" + errCode);
 		var tmpWin = window.open("/ErrorMessage.asp?ERR=" + errCode,"ErrorWin","width=480,height=130,top=100,left=100,alwaysraised=yes,dependent=yes,resizable=yes,directories=no,hotkeys=no,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no");
 	}
 	function OpenDemoWin(NewURL,NewWidth,NewHeight)
@@ -42,6 +49,10 @@
 	function openWingXWin()
 	{
 	  var tmpWin = window.navigate("/WingX/");
+	}
+	function openSportPilotWin(ono,fname,lname)
+	{
+	  var tmpWin = window.navigate("/SportPilot_EAARegistration.asp?orderid=" + ono + "&fname=" + fname + "&lname=" + lname);
 	}
  //-->
  </script>
@@ -73,9 +84,7 @@ End Function
 			   </tr>
 			   <tr>
 			     <td>
-							
-					<a href="/login/?section=OrdStat"><img src="/otherImages/Header_NavOrderStatus.jpg" border="0"></a><br>
-					
+					&nbsp;
 				 </td>
 			     <td>
 							
@@ -129,29 +138,47 @@ End Function
   	<td width="1"><nobr> &nbsp; </nobr></td>
     <td width="160" valign="top"><div align="center">
 	<form name="SearchForm" action="/searchresults.asp" method="post" id="Form1">
-	
 		
 		<img src="/otherImages/BoxTop_Search.jpg" border="0" alt="Search"><table width="160" border="1" cellspacing="0" cellpadding="0" bordercolor="#0055A5" id="Table1">
 			<tbody><tr>
-				<td>
+				<td bgcolor="#f7f7f7">
 					<table width="100%" bgcolor="#f7f7f7" id="Table2">
 						<tbody><tr>
+							<td><font size="1">Enter keyword or product code</font></td>
+						</tr>
+						<tr>
 							<td>
 								<input type="hidden" name="STARTPAGE" value="0001" id="Hidden1">
 								<div align="center">
 									<input type="hidden" name="PAGLEN" value="6" id="Hidden2"><!--									
 									<INPUT type="submit" name="B1" value="GO!">-->
-									<nobr><input type="text" size="15" name="SKW" id="SKW"><input type="image" name="Submit" id="Submit" src="/otherImages/Button_Search.jpg" alt="Search"></nobr>
+									<nobr><input type="text" size="10" name="SKW" id="SKW">&nbsp;<input type="image" name="Submit" id="Submit" src="/otherImages/Button_Search.jpg" alt="Search"></nobr>
 								</div>
 							</td>
 						</tr>
 					</tbody></table>
-				</td>
+					
+					<form name="CatalogSearchForm" action="/SearchResults_Catalog_Interm.asp" method="post" id="Form3">
+					<table width="100%" bgcolor="#f7f7f7" id="Table10">
+						<tbody><tr>
+							<td><font size="1"> or&nbsp;&nbsp;Current Catalog<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fall/Winter 2005</font></td>
+						</tr>
+						<tr>
+							<td>
+								<input type="hidden" name="STARTPAGE" value="0001" id="Hidden5"><input type="hidden" name="CatalogId" value="CA0510" id="Hidden3">
+								<div align="center">
+									<input type="hidden" name="PAGLEN" value="6" id="Hidden6"><!--									
+									<INPUT type="submit" name="B1" value="GO!">-->
+									<nobr>Page: <input type="text" size="3" maxlength="2" name="PageNum" id="Text2">&nbsp;<input type="image" name="Submit" id="Image2" src="/otherImages/Button_Search.jpg" alt="Search"></nobr>
+								</div>
+							</td>
+						</tr>
+					</tbody></table>
+				</form></td>
 			</tr>
 		</tbody></table>
-		</form>
-</div>
-
+	
+</form></div>
 <div align="center"><img src="/otherImages/BoxTop_Categories.jpg" border="0" alt="Categories"><table width="160" border="1" cellspacing="0" cellpadding="0" bordercolor="#0055A5" bgcolor="#003399" id="Table3">
 		<tbody><tr>
 			<td>
@@ -164,7 +191,7 @@ End Function
 						<td valign="top"><a href="/searchResults.asp?SKW=Private&amp;LinkTitle=Private%20Pilot" class="SideBarHeader">Private 
 								Pilot</a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=PPEXAMS&amp;LinkTitle=Private%20Pilot%20-%20King%20Exam%20Courses" class="SideBarLink">
-								<font style="font-weight : normal;">King Exam Courses</font></a><br>
+								<font style="font-weight : normal;"><i>KING</i> Exam Courses</font></a><br>
 							&nbsp; <a href="/productDetail.asp?ITEMNO=CPCKS198K&amp;LinkTitle=Private%20Pilot%20-%20Cessna%20Courses" class="SideBarLink">
 								<font style="font-weight : normal;">Cessna Courses</font></a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=PPCHECKRIDE&amp;LinkTitle=Private%20Pilot%20-%20King%20Checkride%20Courses" class="SideBarLink">
@@ -178,9 +205,10 @@ End Function
 						<td align="right" valign="top">&nbsp;<!-- <IMG name="Image15" border="0" src="/otherImages/bulletOff.jpg"> //--></td>
 						<td valign="top"><a href="/searchResults.asp?SKW=Instrument&amp;LinkTitle=Instrument%20Rating" class="SideBarHeader">Instrument 
 								Pilot</a><br>
-							&nbsp; <a href="/PWILetter.asp" class="SideBarLink"><font style="font-weight : normal;">Benefits</font></a><br>
+							&nbsp; <a href="/PWILetter.asp" class="SideBarLink"><font style="font-weight : normal;">
+									Benefits</font></a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=IPEXAMS&amp;LinkTitle=Instrument%20Rating%20-%20King%20Exam%20Courses" class="SideBarLink">
-								<font style="font-weight : normal;">King Exam Courses</font></a><br>
+								<font style="font-weight : normal;"><i>KING</i> Exam Courses</font></a><br>
 							&nbsp; <a href="/productDetail.asp?ITEMNO=CICKS298K&amp;LinkTitle=Instrument%20Rating%20-%20Cessna%20Courses" class="SideBarLink">
 								<font style="font-weight : normal;">Cessna Courses</font></a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=IPCHECKRIDE&amp;LinkTitle=Instrument%20Rating%20-%20King%20Checkride%20Courses" class="SideBarLink">
@@ -195,7 +223,7 @@ End Function
 						<td valign="top"><a href="/searchResults.asp?SKW=Commercial&amp;LinkTitle=Commercial%20Pilot" class="SideBarHeader">Commercial 
 								Pilot</a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=CPEXAMS&amp;LinkTitle=Commercial%20Pilot%20-%20King%20Exam%20Courses" class="SideBarLink">
-								<font style="font-weight : normal;">King Exam Courses</font></a><br>
+								<font style="font-weight : normal;"><i>KING</i> Exam Courses</font></a><br>
 							&nbsp; <a href="/productDetail.asp?ITEMNO=CCCKS397K&amp;LinkTitle=Commercial%20Pilot%20-%20Cessna%20Courses" class="SideBarLink">
 								<font style="font-weight : normal;">Cessna Courses</font></a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=CPCHECKRIDE&amp;LinkTitle=Commercial%20Pilot%20-%20King%20Checkride%20Courses" class="SideBarLink">
@@ -207,11 +235,19 @@ End Function
 					</tr>
 					<tr>
 						<td align="right" valign="top">&nbsp;<!-- <IMG name="Image15" border="0" src="/otherImages/bulletOff.jpg"> //--></td>
+						<td valign="top"><a href="/SportPilotCourse.asp" class="SideBarHeader">Sport Pilot</a><br>
+							&nbsp; <a href="/SportPilotCourse.asp" class="SideBarLink"><font style="font-weight : normal;">
+									<i>KING</i> Exam Courses</font></a><br>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="2">&nbsp;</td>
+					</tr>
+					<tr>
+						<td align="right" valign="top">&nbsp;<!-- <IMG name="Image15" border="0" src="/otherImages/bulletOff.jpg"> //--></td>
 						<td valign="top"><a href="/searchResults.asp?SKW=MultiEngine&amp;LinkTitle=Multi-Engine%20Flying" class="SideBarHeader">Multi-Engine</a><br>
-							&nbsp; <a href="/searchResults.asp?SKW=MEKING&amp;LinkTitle=Multi-Engine%20-%20King%20Exam%20Courses" class="SideBarLink">
-								<font style="font-weight : normal;">King Exam Courses</font></a><br>
-							&nbsp; <a href="/productDetail.asp?ITEMNO=CMCKS498K&amp;LinkTitle=Multi-Engine%20-%20Cessna%20Courses" class="SideBarLink">
-								<font style="font-weight : normal;">Cessna Courses</font></a><br>
+							&nbsp; <a href="/searchResults.asp?SKW=MultiEngine&amp;LinkTitle=Multi-Engine%20Flying" class="SideBarLink">
+								<font style="font-weight : normal;">Courses</font></a><br>
 						</td>
 					</tr>
 					<tr>
@@ -221,7 +257,7 @@ End Function
 						<td align="right" valign="top">&nbsp;<!-- <IMG name="Image15" border="0" src="/otherImages/bulletOff.jpg"> //--></td>
 						<td valign="top"><a href="/searchResults.asp?SKW=CFI&amp;LinkTitle=Certificated%20Flight%20Instructor" class="SideBarHeader">CFI/FOI</a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=FPEXAMS&amp;LinkTitle=CFI%20-%20King%20Exam%20Courses" class="SideBarLink">
-								<font style="font-weight : normal;">King Exam Courses</font></a><br>
+								<font style="font-weight : normal;"><i>KING</i> Exam Courses</font></a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=FPCHECKRIDE&amp;LinkTitle=CFI%20-%20King%20Checkride%20Courses" class="SideBarLink">
 								<font style="font-weight : normal;">Checkride Courses</font></a><br>
 						</td>
@@ -241,6 +277,8 @@ End Function
 								<font style="font-weight : normal;">A&amp;P Mechanic</font></a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=ATP&amp;LinkTitle=Airline%20Transport%20Pilot" class="SideBarLink">
 								<font style="font-weight : normal;">ATP</font></a><br>
+							&nbsp; <a href="/ProductDetail.asp?ItemNo=OOC%20KSA320" class="SideBarLink">
+								<font style="font-weight : normal;">Cleared for Flying the<br><font style="text-decoration:none;">&nbsp; &nbsp; </font>Garmin G1000</font></a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=Flight%20Engineer&amp;LinkTitle=Flight%20Engineer" class="SideBarLink">
 								<font style="font-weight : normal;">Flight Engineer</font></a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=GPS%20Approaches&amp;LinkTitle=GPS%20Approaches" class="SideBarLink">
@@ -248,11 +286,11 @@ End Function
 							&nbsp; <a href="/Helicopter.asp" class="SideBarLink"><font style="font-weight : normal;">
 									Helicopter</font></a><br>
 							&nbsp; <a href="http://www.KingSchoolsOnline.com" target="EXTERNAL" class="SideBarLink">
-								<font style="font-weight : normal;">RVSM - <em>Online</em></font></a><br>
+								<font style="font-weight : normal;">High Altitude Courses - <br><font style="text-decoration:none;">&nbsp; &nbsp; </font><em>Online</em></font></a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=MILL&amp;LinkTitle=Military%20Competency" class="SideBarLink">
 								<font style="font-weight : normal;">Military Competency</font></a><br>
-							&nbsp; <a href="/SportPilot.asp" class="SideBarLink">
-								<font style="font-weight : normal;">Sport Pilot - NEW!</font></a><br>
+							&nbsp; <a href="/SportPilotCourse.asp" class="SideBarLink"><font style="font-weight : normal;">
+									Sport Pilot</font></a><br>
 							<!-- &nbsp; <a href="/searchResults.asp?SKW=Multi-Engine&LinkTitle=Multi-Engine Flying" class="SideBarLink"><FONT style="font-weight : normal;">Multi-Engine</font></A><br> -->
 						</td>
 					</tr>
@@ -278,22 +316,24 @@ End Function
 						<td align="right" valign="top">&nbsp;<!-- <IMG name="Image15" border="0" src="/otherImages/bulletOff.jpg"> //--></td>
 						<td valign="top">
 							<a href="/pilotgear.asp?LinkTitle=Pilot%20Gear" class="SideBarHeader">Pilot Gear</a><br>
-							&nbsp; <a href="/bags.asp" class="SideBarLink"><font style="font-weight : normal;">Bags</font></a><br>
 							&nbsp; <a href="/books.asp" class="SideBarLink"><font style="font-weight : normal;">Books</font></a><br>
-							<!-- &nbsp; <A href="/cdrom.asp"><FONT style="font-weight : normal;">CD-Rom</FONT></A><BR>-->
+							&nbsp; <a href="/searchResults.asp?SKW=chart&amp;LinkTitle=Pilot%20Gear%20-%20Charts" class="SideBarLink">
+								<font style="font-weight : normal;">Charts</font></a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=DVD&amp;LinkTitle=Pilot%20Gear%20-%20DVD" class="SideBarLink">
 								<font style="font-weight : normal;">DVD</font></a><br>
 							&nbsp; <a href="/SearchResults.asp?SKW=E6BPLOTTERS&amp;LinkTitle=E6-Bs%20and%20Plotters" class="SideBarLink">
 								<font style="font-weight : normal;">E6-Bs &amp; Plotters</font></a><br>
 							&nbsp; <a href="/FAAClassics.asp" class="SideBarLink"><font style="font-weight : normal;">
 									FAA Classics</font></a><br>
+							&nbsp; <a href="/Lights.asp" class="SideBarLink"><font style="font-weight : normal;">Flashlights</font></a><br>
+							&nbsp; <a href="/bags.asp" class="SideBarLink"><font style="font-weight : normal;">Flight 
+									Bags</font></a><br>
 							&nbsp; <a href="/GPS.asp" class="SideBarLink"><font style="font-weight : normal;">GPS</font></a><br>
 							&nbsp; <a href="/Headsets.asp" class="SideBarLink"><font style="font-weight : normal;">Headsets</font></a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=Intercom&amp;LinkTitle=Pilot%20Gear%20-%20Intercoms" class="SideBarLink">
 								<font style="font-weight : normal;">Intercoms</font></a><br>
-							&nbsp; <a href="/Kneeboards.asp" class="SideBarLink">
-								<font style="font-weight : normal;">Kneeboards</font></a><br>
-							&nbsp; <a href="/Lights.asp" class="SideBarLink"><font style="font-weight : normal;">Lights</font></a><br>
+							&nbsp; <a href="/Kneeboards.asp" class="SideBarLink"><font style="font-weight : normal;">
+									Kneeboards</font></a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=Receiver&amp;LinkTitle=Pilot%20Gear%20-%20Receivers" class="SideBarLink">
 								<font style="font-weight : normal;">Receivers</font></a><br>
 							&nbsp; <a href="/searchResults.asp?SKW=Machado&amp;LinkTitle=Rod%20Machado" class="SideBarLink">
@@ -308,8 +348,8 @@ End Function
 							&nbsp; <a href="/searchResults.asp?SKW=Video&amp;LinkTitle=Pilot%20Gear%20-%20Videos" class="SideBarLink">
 								<font style="font-weight : normal;">Videos</font></a><br>
 							&nbsp; <a href="/Watches.asp" class="SideBarLink"><font style="font-weight : normal;">Watches</font></a><br>
-							&nbsp; <a href="/searchResults.asp?SKW=CAT2_O&amp;LinkTitle=Pilot%20Gear%20-%20Miscelaneous" class="SideBarLink">
-								<font style="font-weight : normal;">Other Cool Gear</font></a><br>
+							&nbsp; <a href="/searchResults.asp?SKW=CAT2_O&amp;LinkTitle=Pilot%20Tools" class="SideBarLink">
+								<font style="font-weight : normal;">Pilot Tools</font></a><br>
 							&nbsp; <a href="/DiscontinuedItems.asp" class="SideBarLink"><font style="font-weight : normal; color : maroon;">
 									<em>Discontinued Items</em></font></a><br>
 						</td>
@@ -562,25 +602,21 @@ End Function
   </tr>
 	  <tr><td align="center">
      <p>
-	       <a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','/otherImages/KSFooter_Home_Over.jpg',1)"><img src="/otherImages/KSFooter_Home.jpg" name="Image15" border="0"></a>
-	   <img src="/otherImages/KSFooter_Bar.jpg" border="0">
+	       <a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','/otherImages/KSFooter_Home_Over.jpg',1)"><img src="/otherImages/KSFooter_Home.jpg" name="Image15" border="0" alt="Home"></a>
+	   <img src="/otherImages/KSFooter_Bar.jpg" border="0" alt="">
 	  
-	  <a href="/vote/voteResults.asp?q=31" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','/otherImages/KSFooter_KKV_Over.jpg',1)"><img src="/otherImages/KSFooter_KKV.jpg" name="Image16" border="0"></a>
-	   <img src="/otherImages/KSFooter_Bar.jpg" border="0">
+	  <a href="/vote/voteResults.asp?q=" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','/otherImages/KSFooter_KKV_Over.jpg',1)"><img src="/otherImages/KSFooter_KKV.jpg" name="Image16" border="0" alt="King Kwik Vote"></a>
+	   <img src="/otherImages/KSFooter_Bar.jpg" border="0" alt="">
 	   
-      <a href="/videoTip.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','/otherImages/KSFooter_VTT_Over.jpg',1)"><img src="/otherImages/KSFooter_VTT.jpg" name="Image17" border="0"></a>
-	   <img src="/otherImages/KSFooter_Bar.jpg" border="0">
-      <a href="/Offers/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','/otherImages/KSFooter_KSO_Over.jpg',1)"><img src="/otherImages/KSFooter_KSO.jpg" name="Image18" border="0"></a>
-	   <img src="/otherImages/KSFooter_Bar.jpg" border="0">
-	  
-		<a href="/MemberBenefits.asp?selected=KFC" onmouseover="MM_swapImage('Image19','','/otherImages/KSFooter_KFC_Over.jpg',1);window.status='Learn more about the KING Flying Club';return true;" onmouseout="MM_swapImgRestore();window.status='';" title="Click here to learn more about the KING Flying Club"><img src="/otherImages/KSFooter_KFC.jpg" name="Image19" border="0"></a>
-	  
-	   <img src="/otherImages/KSFooter_Bar.jpg" border="0">
-      <a href="/TradeUpToDVD.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image20','','/otherImages/KSFooter_KCU_Over.jpg',1)"><img src="/otherImages/KSFooter_KCU.jpg" name="Image20" border="0"></a>
-	   <img src="/otherImages/KSFooter_Bar.jpg" border="0">
-      <a href="/premiums.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','/otherImages/KSFooter_PRE_Over.jpg',1)"><img src="/otherImages/KSFooter_PRE.jpg" name="Image21" border="0"></a>
-	   <img src="/otherImages/KSFooter_Bar.jpg" border="0">
-      <a href="/winASkyhawk.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','/otherImages/KSFooter_WAS_Over.jpg',1)"><img src="/otherImages/KSFooter_WAS.jpg" name="Image22" border="0"></a>
+      <a href="/videoTip.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','/otherImages/KSFooter_VTT_Over.jpg',1)"><img src="/otherImages/KSFooter_VTT.jpg" name="Image17" border="0" alt="Video Training Tips"></a>
+	   <img src="/otherImages/KSFooter_Bar.jpg" border="0" alt="">
+      <a href="/Offers/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','/otherImages/KSFooter_KSO_Over.jpg',1)"><img src="/otherImages/KSFooter_KSO.jpg" name="Image18" border="0" alt="King Special Offers"></a>
+	   <img src="/otherImages/KSFooter_Bar.jpg" border="0" alt="">
+      <a href="/TradeUpToDVD.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image20','','/otherImages/KSFooter_KCU_Over.jpg',1)"><img src="/otherImages/KSFooter_KCU.jpg" name="Image20" border="0" alt="King Course Upgrades"></a>
+	   <img src="/otherImages/KSFooter_Bar.jpg" border="0" alt="">
+      <a href="/premiums.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','/otherImages/KSFooter_PRE_Over.jpg',1)"><img src="/otherImages/KSFooter_PRE.jpg" name="Image21" border="0" alt="King Premiums"></a>
+	   <img src="/otherImages/KSFooter_Bar.jpg" border="0" alt="">
+      <a href="/winASkyhawk.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','/otherImages/KSFooter_WAS_Over.jpg',1)"><img src="/otherImages/KSFooter_WAS.jpg" name="Image22" border="0" alt="Win align Cessna Skyhawk"></a>
 	  <!--
       <a href="/winASkyhawk.asp">WIN A SKYHAWK</a>
 	   | 
@@ -607,8 +643,9 @@ End Function
     <td align="center">
 	  <a href="/PrivacyPolicy" class="PPLink" onmouseout="window.status='';return true;" onmouseover="window.status='View the King Schools Privacy Policy';return true;">King Schools Privacy Policy</a>
 	  <br><br>
-	  <font size="1">© 2005 King Schools, Inc. All Rights Reserved </font>
-	 <p></p>
+	  <font size="1">© 2005 King Schools, Inc. All Rights Reserved<br>
+	  3840 Calle Fortunada<br>San Diego, CA 92123<br>
+	  Phone: (800) 854-1001 Fax: (858) 541-2201</font><br><br>
 	  </td></tr>
 	  </tbody></table>
 	  <!-- End Footer -->
