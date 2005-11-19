@@ -1,60 +1,63 @@
-> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308092610id_/http%3A//www.scfederal.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119185915id_/http%3A//scfederal.org/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy Matters
 
 Dear Member:
 
-We know that privacy is a concern for you and all of our membership. Technology has made it easy for organizations to widely share information. We want you to know that South Carolina Federal Credit Union is committed to maintaining the confidentiality of the personal information with which you have entrusted us. 
+You have entrusted us with your personal information. We know that the privacy and security of that information is top priority for you. At S.C. Federal, it’s top priority for us, too. That’s why we never sell or share information — on current or previous members — with non-affiliated organizations. We have strict policies and controls governing employee access to information. We also use the latest technology to secure our online and electronic channels. A more detailed description of the information we collect, how we handle that information, and the precautions we take are addressed below. 
 
-We never sell or share current or former member information with any non-affiliated organizations. You can be confident that your financial privacy is a priority of this credit union. A more detailed description of the information we collect and how we handle that information is addressed below.
+We’re honored that you have chosen us as your financial institution, and we are committed to maintaining the privacy and security of the information with which you have entrusted us.
 
-If you have questions about this issue, please feel free to call us at 797-8300 in Charleston, or toll-free at 1-800-845-0432.
+Sincerely,  
+R. Scott Woods, CPA  
+President and CEO 
 
-**_June 30, 2004_**
+**_June 30, 2005_**
 
-We only collect information about you for lawful business purposes, or as otherwise required by applicable law. We maintain strict security procedures to protect your information. We collect information about individual members from the following sources:
+We only collect information about you for lawful business purposes, or as otherwise required by law, including:
 
   * Information we receive on applications or other information you provide to us
-  * Information about your identity such as name, address, social security number and driver's license number
+  * Information about your identity, such as name, address, social security number and driver’s license number
   * Information about member transactions with us, our affiliates, or others
   * Information we receive from consumer reporting agencies
-  * Certain information when you visit our web site:
+  * Certain information when you visit our website or e-mail us:
 
 
 
-> a. **Web Site Information.** When you visit our web site our server automatically collects non-identifying information in the aggregate. This includes items such as: (1) date and time our site was accessed; (2) domain name and IP address (for example, "aol.com" or "ncua.gov"); (3) web browser used; (4) pages accessed; and (5) city, state and country. This information is retained in the aggregate and is used to find out how many people visit our site. This information helps us continually evaluate our web site usage, and to further assist us in personalizing the experience of using our web site.
+> a. **Website Information.** When you visit our website, our server automatically collects non-identifying information in the aggregate, such as: (1) date and time our site was accessed; (2) domain name and IP address (for example, “aol.com” or “ncua.gov”); (3) web browser used; (4) pages accessed; and (5) city, state and country. This information is used to find out how many people visit our site. This information helps us continually evaluate our website usage and improve our online services.
 > 
-> b. **E-Mail.** When you send us an e-mail, we maintain the e-mail address to respond to questions or comments, or to send information and offers regarding the credit union's services.
+> b. **E-Mail.** When you send us an e-mail, we maintain the e-mail address to respond to questions or comments, or to send information and offers regarding the credit union’s services.
 > 
-> c. **Cookies.** A "cookie" is a small file containing certain pieces of information that a web site creates when you visit the site. Cookies help track user traffic patterns and can store that information about you. You can set your web browser to tell you when a cookie is set or to prevent a cookie from being set. Some sites collect additional information in their cookie files by asking customers to voluntarily provide information, such as when registering before entering a site. We use cookies to collect information. However, we do not collect personal information, information to determine who you are, or your e-mail address through our use of cookies. For your protection, we use cookies for security purposes with on-line transactions and web based applications and communications; therefore, you must accept cookies to conduct these activities. You can access our web site at any time without accepting a cookie. Cookies collected by us do not read data off your hard drive and do not read cookie files created by another web site.
+> c. **Cookies.*** Unlike some companies and organizations, we do not use cookies to collect personal information, information to determine who you are, or your e-mail address. Cookies collected by us do not read data off your hard drive and do not read cookie files created by another website. For your protection, we use cookies for security purposes with online transactions and web-based applications and communications; therefore, you must accept cookies to conduct these activities. You can access our website at any time without accepting a cookie, however.
+> 
+> _*A “cookie” is a small file of information that a website creates when you visit the site._
 
 **Categories of Information We Disclose**
 
-We may share the information we collect with affiliated third parties that perform marketing services on our behalf, service providers or to other institutions with whom we have joint marketing agreements. In all such instances, we will only provide information to parties who meet our security and privacy standards, and who agree in writing to hold all member information confidential. We do not permit these companies to sell our member information to other third parties.
+We may share information with affiliated third parties that perform marketing services on our behalf, or to other institutions with whom we have joint marketing agreements. In all such instances, we will only provide information to parties that meet our strict security and privacy standards and agree — in writing — to hold all member information confidential. We do not permit these companies to sell our member information to other third parties. To conduct the business of the credit union, we may also disclose nonpublic personal information about you under other circumstances as permitted or required by law. These disclosures typically include information to process transactions on your behalf, conduct the operations of our credit union, follow your instructions as you authorize, or protect the security of your financial records.
 
-In order to conduct the business of the credit union, we may also disclose nonpublic personal information about you under other circumstances as permitted or required by law. These disclosures typically include information to process transactions on your behalf, conduct the operations of our credit union, follow your instructions as you authorize, or protect the security of our financial records.
+We have substantial security measures in place to protect against the loss, misuse, or alteration of information that is under our control. We also use the latest firewall and encryption technologies to protect individual identifying information transmitted over the Internet.
 
-We are committed to taking every reasonable precaution to protect individual identifying information that you provide to us. We have security measures in place to protect against the loss, misuse and alteration of information that is under our control. We also employ encryption technologies to protect individual identifying information transmitted over the Internet.
+_NOTE: Regular, non-encrypted e-mail is not secure. Accordingly, we encourage you to exercise caution regarding any e-mails that are sent through your e-mail service. We provide a direct, secure e-mail function on our website for inquiries, which include your personal information._
 
-> NOTE: Regular non-encrypted e-mail is not secure. Accordingly, we encourage you to exercise caution regarding any e-mails that are sent through your e-mail service. We provide a direct, secure e-mail function on our web site for inquiries which include your personal information.
-> 
-> a. **Our Employees' Access to Member Information.** Employees' access is restricted to their need to know such information for business reasons. All employees are trained to respect member privacy, and those who violate our Privacy Policies are subject to disciplinary action.
+ **Our Employees' Access to Member Information.** Employees’ access is restricted to their need to know such information for business reasons. All employees are trained to respect member privacy, and those who violate our Privacy Policies are subject to disciplinary action.
 
-**Links to Third Party Web Sites.** Our web site may contain links to third party web sites. We provide these links as a service. When you link to a third party web site you leave our web site. We want you to be aware that we are not responsible for the privacy practices of any other web site. We encourage you to read the privacy policies of any web site you access, especially if individual identifying information is being collected. We are not affiliated with or an agent of any third party web sites that members link to via our web site.
+**Links to Third Party Websites.** Our website may contain links to third-party websites. We provide these links as a service. We are not affiliated with or an agent of any third-party websites that are linked to our website. We want you to know that when you link to a third-party website, you leave our website, and we are not responsible for the privacy practices of that site. We encourage you to read the privacy policies of any website you access, especially if individual identifying information is being collected.
 
-We do not knowingly solicit data from children, nor do we knowingly market to children. We recognize that protecting children's identities and privacy on-line is important and that the responsibility to do so rests with both the online industry and with parents. From time to time we may promote children's products such as the Clown Club account, or events, such as a coloring contests. In these circumstances we may collect information as outlined in the preceding sections.
+Protecting children’s identities and their privacy online is a major concern for us at S.C. Federal. We recognize that protecting children is the responsibility of both the online industry and parents. We do not solicit data from or market to children. However, we may, on occasion, promote children’s products, such as the Clown Club account, or sponsor events for children. In these instances, we may collect information as outlined in the preceding sections.
 
-**What you can do to help protect your privacy**
+**How You Can Help Protect Your Privacy**
 
-South Carolina Federal Credit Union is committed to protecting the privacy of its members. You can help by following these simple guidelines:
+Following are some simple ways you can help protect your identity and your private information:
 
-  * Protect your account numbers, card numbers, PINs (personal identification numbers) and passwords. Never keep your PIN with your debit or credit card, which can provide free access to your accounts if your card is lost or stolen.
-  * Use caution when disclosing your account numbers, social security numbers, etc. to other persons. If someone calls you, explains the call is on behalf of the credit union and asks for your account number, you should beware. Official credit union staff will have access to your information and will not need to ask for it.
-  * Keep your information with S.C. Federal current. It is important that we have current information about how to reach you. If we detect potentially fraudulent or unauthorized activity or use of an account, we will attempt to contact you immediately. If your address or phone number changes, please let us know.
-
+  * Protect your account numbers, card numbers, PINs (personal identification numbers) and passwords. Never keep your PIN with, or write your PIN on, your debit or credit card.
+  * Use caution when disclosing your account numbers, social security numbers, etc. to other persons.
+  * Never disclose an account number, social security number or other private information to someone who calls or emails you to request it, even if that person claims to be with S.C. Federal (or another organization where you have an account). Remember, we already have that information in our files, so we would never contact you to get it.
+  * If your address, phone number or name changes, please let us know immediately so we can update our records. That will help ensure our ability to stop unauthorized or fraudulent activity on your accounts, and will allow us to contact you immediately if we suspect that such activity has occurred.
 
 
-_If you have questions concerning this notice, please do not hesitate to call us - we are here to serve you._
+
+_If you have questions concerning this notice, please do not hesitate to call us. Serving you is our top priority._
 
 797-8300 in Charleston  
 787-3626 in Columbia  
