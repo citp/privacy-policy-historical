@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618232055id_/http%3A//mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119070543id_/http%3A//mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MexGrocer.com - Privacy Policy
 
-Privacy Policy Overview (Effective Date: 7/16/2004) 
+Privacy Policy Overview (Effective Date: 10/19/2005) 
 
-[](https://www.truste.org/ivalidate.php?url=www.mexgrocer.com)
+[](http://www.truste.org/ivalidate.php?url=www.mexgrocer.com&sealid=101)
 
 MexGrocer.com is strongly committed to protecting the privacy of its customers. We have written this privacy policy to inform you of the specific information that we collect from you, how we use this information, and what options you have in sharing this information with us when you visit our site. Protecting your privacy is a significant part of MexGrocer.com's commitment to providing you with a high quality shopping experience.
 
 MexGrocer.com is a licensee of the TRUSTe Privacy Program. TRUSTe certifies this website’s online gathering and dissemination of information and privacy practices. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices.  Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact our Customer Service Department through any method desired at the end of this policy. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/watchdog.html) directly. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact our Customer Service Department through any method desired at the end of this policy. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) directly. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 Information Collection and Use ** **
 
@@ -32,7 +32,7 @@ MexGrocer will store a persistent cookie so that you may retrieve the products i
 
 Affiliate Programs
 
-We use Commission Junction to run our affiliate program ~~s~~ for advertising purposes to increase MexGrocer’s brand awareness and the store’s existence to larger communities of websites. When a company signs up for an Affiliate Program (apply ONLY to corporations) within the MexGrocer website, the information is collected and stored  by Commission Junction. The usage of this cookie is in no way linked to any personally identifiable information.
+We use Commission Junction to run our affiliate program ~~s~~ for advertising purposes to increase MexGrocer’s brand awareness and the store’s existence to larger communities of websites. When a company signs up for an Affiliate Program (apply ONLY to corporations) within the MexGrocer website, the information is collected and stored  by Commission Junction. The usage of this cookie is in no way linked to any personally identifiable information. Even though the page has the look and the feel of the mexgrocer website.
 
 Log Files ** **
 
@@ -60,7 +60,7 @@ Security ** **
 
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or contact information), that information is encrypted and is protected with 128 bit encryption software from VeriSign - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about SSL, follow this link [VeriSign](http://www.verisign.com/).
+When our registration/order form asks users to enter sensitive information (such as credit card number and/or contact information), that information is encrypted and is protected with 128 bit encryption software from VeriSign - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about SSL, follow this link [VeriSign](http://www.verisign.com/). All sensitive information is collected through the online store hosted by our third party service provider.
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
@@ -72,7 +72,7 @@ You will receive administrative emails that are related to the primary usage of 
 
 Choice/Opt-out 
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to “REMOVE” in the subject line in the email sent out or email us at [info@mexgrocer.com](mailto:info@mexgrocer.com) and let us know that you want to opt-out of further newsletter communications. You may also edit your account under the “My Account” tab at the top of the website, login and click to modify your account. There, you will be able to select to not receive the newsletter any more by selecting “NO” in the designated field. ~~~~
+Users who no longer wish to receive our newsletter may opt-out of receiving these communications by replying to “REMOVE” or “Unsubscribe” in the subject line in the email sent out or email us at [info@mexgrocer.com](mailto:info@mexgrocer.com) and let us know that you want to opt-out of further newsletter communications. ~~~~
 
 Notification of Changes 
 
@@ -93,8 +93,8 @@ Your **** Feedback
 At MexGrocer.com, your privacy is extremely important. If you have any questions about the privacy statement, the practices of this site, or your dealings with MexGrocer, please click [Contact Us](http://store.yahoo.com/mexgrocer/contact-us.html) and let us know or write us by mail at: 
 
 MexGrocer.com LLC  
-P.O. BOX 2888  
-La Jolla, CA 92038  
+7445 Girard Ave, Suite 6  
+La Jolla, CA 92037  
 USA
 
 Phone (858)459-0577  
