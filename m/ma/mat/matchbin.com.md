@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matchbin.com privacy policy that was archived on 2005-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050415160009id_/http%3A//matchbin.com/Pages/General/PrivacyPolicy.html%3F1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchbin.com privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119020446id_/http%3A//www.matchbin.com/Pages/General/PrivacyPolicy.html/%3F1) for the most accurate reproduction.*
 
 # 
 
