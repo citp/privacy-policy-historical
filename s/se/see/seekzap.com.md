@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekzap.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305050422id_/http%3A//www.seekzap.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekzap.com privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119030422id_/http%3A//www.seekzap.com/privacy.asp) for the most accurate reproduction.*
 
 # Seekzap.com - Privacy Policy
 
@@ -30,11 +30,11 @@ Customers may prevent their information from being used for purposes other than 
 
 Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them.
 
-Consumers can access this information by visiting us at [www.seekzap.com/login.asp](https://web.archive.org/web/20050305050422id_/http%3A//www.seekzap.com/www.seekzap.com/login.asp). 
+Consumers can access this information by visiting us at [www.seekzap.com/login.asp](https://web.archive.org/web/20051119030422id_/http%3A//www.seekzap.com/www.seekzap.com/login.asp). 
 
 Upon request we offer visitors the ability to have inaccuracies corrected in unique identifiers.
 
-Consumers can have this information corrected by visiting us at [www.seekzap.com/login.asp](https://web.archive.org/web/20050305050422id_/http%3A//www.seekzap.com/www.seekzap.com/login.asp). 
+Consumers can have this information corrected by visiting us at [www.seekzap.com/login.asp](https://web.archive.org/web/20051119030422id_/http%3A//www.seekzap.com/www.seekzap.com/login.asp). 
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
