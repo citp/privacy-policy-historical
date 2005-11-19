@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the hcsc.net privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405192237id_/http%3A//www.hcsc.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcsc.net privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119123457id_/http%3A//www.hcsc.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
 |   
 ---  
-[](https://web.archive.org/web/20050405192237id_/http%3A//www.hcsc.net/index.htm)  
-[](https://web.archive.org/web/20050405192237id_/http%3A//www.hcsc.net/abouthcsc.htm)  
-[](https://web.archive.org/web/20050405192237id_/http%3A//www.hcsc.net/div_and_subsid.htm)  
-[](https://web.archive.org/web/20050405192237id_/http%3A//www.hcsc.net/newsroom.htm)  
-[](https://web.archive.org/web/20050405192237id_/http%3A//www.hcsc.net/contact_us.htm)  
+[](https://web.archive.org/web/20051119123457id_/http%3A//www.hcsc.net/index.htm)  
+[](https://web.archive.org/web/20051119123457id_/http%3A//www.hcsc.net/abouthcsc.htm)  
+[](https://web.archive.org/web/20051119123457id_/http%3A//www.hcsc.net/div_and_subsid.htm)  
+[](https://web.archive.org/web/20051119123457id_/http%3A//www.hcsc.net/newsroom.htm)  
+[](https://web.archive.org/web/20051119123457id_/http%3A//www.hcsc.net/contact_us.htm)  
 | 
 
 At Health Care Service Corporation, a Mutual Legal Reserve Company (HCSC), we know how important your privacy is to you. Whether you are a current customer or just visiting our Web site, we are committed to attempting to protect the information you provide in the same way that we protect it when you provide it to us over the phone, in person or through the mail. 
@@ -22,7 +22,7 @@ Because we value your relationship with us, we have detailed below our privacy o
 •  | **Surveys and Forms**  
   | You may have the opportunity to provide information to us through online surveys and forms. We use this information to better understand health care needs and to provide quality products, services and other opportunities. 
 
-BCBSIL wants your visit to our Web site to be informative and enjoyable.  We plan to use any information we obtain from you to help us continually improve the content, functionality and overall usefulness of our Web site. 
+HCSC wants your visit to our Web site to be informative and enjoyable.  We plan to use any information we obtain from you to help us continually improve the content, functionality and overall usefulness of our Web site. 
 
 Top of Page  
   
@@ -50,6 +50,6 @@ Top of Page
   
    
 •  | **Updates to the Statement**  
-  | Evolving technology will continue to provide us with new and better ways to collect and use information so that we may better serve your health coverage needs. We may revise or update the BCBSIL Privacy Statement in the future to reflect these technological advances, and we encourage you to return to this page from time to time for any updates. 
+  | Evolving technology will continue to provide us with new and better ways to collect and use information so that we may better serve your health coverage needs. We may revise or update the HCSC Privacy Statement in the future to reflect these technological advances, and we encourage you to return to this page from time to time for any updates. 
 
 Top of Page
