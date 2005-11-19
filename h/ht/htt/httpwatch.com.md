@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the httpwatch.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307001533id_/http%3A//www.httpwatch.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the httpwatch.com privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119160654id_/http%3A//httpwatch.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,4 +38,4 @@ At this Site, there may be links to companies with whom we have a relationship. 
   
 ---|---  
   
-If you have any questions about this privacy statement, please contact [ us](https://web.archive.org/web/20050307001533id_/http%3A//www.httpwatch.com/company). 
+If you have any questions about this privacy statement, please contact [ us](https://web.archive.org/web/20051119160654id_/http%3A//httpwatch.com/company). 
