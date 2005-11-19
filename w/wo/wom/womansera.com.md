@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the womansera.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203213911id_/http%3A//womansera.com/wemag/we.aspx%3Fshow%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womansera.com privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119053239id_/http%3A//womansera.com/wemag/we.aspx%3Fshow%3DPrivacy) for the most accurate reproduction.*
 
 # Woman's Era - The Substance of a Woman today...
 
 |   
   
 ---  
-**February (First) 2005**  
+**November (First) 2005  
+**  
   
 |  | **Registered User**  
 ---|---  
@@ -29,12 +30,14 @@ PASSWORD
   • [Writer's Interface](https://web.archive.org/wemag/we.aspx?show=writer)  
   • [True Incidents](https://web.archive.org/maga/stories/index.aspx)  
   • [Contest - Crossword](https://web.archive.org/maga/contest/index.aspx?show=crossword)  
+  • [Campus Rumpus](https://web.archive.org/maga/contest/index.aspx?show=campus)  
   eBook (PDF)  
   • [Cookery](https://web.archive.org/shop/cookery.aspx)  
   • [Short Stories](https://web.archive.org/shop/stories.aspx)  
   • [Kamasutra](https://web.archive.org/shop/ks.aspx)  
-[](https://web.archive.org/maga/contest/index.aspx?show=campus)  
-|  |  | [](https://web.archive.org/shop/we.aspx?fr=New+Subscription)  
+  Book Review  
+  • [A Thread of Life](https://web.archive.org/review.aspx)  
+|  |  | [](http://womansera.tolshop.com/)  
 ---|---  
   
 
@@ -57,44 +60,44 @@ PASSWORD
     We pay a credit card processing through "suratdiamond.com" to handle all our online transactions. They use the same high level of security that banks use. When you click the PLACE ORDER button, you will be taken to our order page on their secure server.
     You need Acrobat Reader (free program) to open PDF format WOMAN'S ERA. If you don't yet have Acrobat Reader, we have a download link of Acrobat Reader on our home page.
  **Help:**  
-    If you have any further concerns about your privacy while on this site, please let us know: [[CLICK HERE](https://web.archive.org/web/20050203213911id_/http%3A//womansera.com/wemag/WE.ASPX?SHOW=ContactUs)]   
+    If you have any further concerns about your privacy while on this site, please let us know: [[CLICK HERE](https://web.archive.org/web/20051119053239id_/http%3A//womansera.com/wemag/WE.ASPX?SHOW=ContactUs)]   
   
 |  |  |   
   
   
 [](http://comeaskme.com/personalproblem.aspx?catg=Personal%20Problem)  
 |  |  |  Delhi Press Magazines  
-1 [Alive](https://web.archive.org/shop/alive.aspx)  
-2 [Sarita](https://web.archive.org/shop/sarita.aspx)  
-3 [Mukta](https://web.archive.org/shop/mukta.aspx)  
-4 [Champak](https://web.archive.org/shop/champak.aspx)  
-5 [Grihshobha](https://web.archive.org/shop/grihshobha.aspx)  
-6 [Woman's Era](https://web.archive.org/shop/we.aspx)  
-7 [Suman Saurabh](https://web.archive.org/shop/suman.aspx)  
+# [Alive](https://web.archive.org/shop/alive.aspx)  
+# [Sarita](https://web.archive.org/shop/sarita.aspx)  
+# [Mukta](https://web.archive.org/shop/mukta.aspx)  
+# [Champak](https://web.archive.org/shop/champak.aspx)  
+# [Grihshobha](https://web.archive.org/shop/grihshobha.aspx)  
+# [Woman's Era](https://web.archive.org/shop/we.aspx)  
+# [Suman Saurabh](https://web.archive.org/shop/suman.aspx)  
 |  | Problem ? Get Solution.  
-1 [Teenache](https://web.archive.org/maga/problem/index.aspx?fr=teenache)  
-2 [Beauty Queries](https://web.archive.org/maga/problem/index.aspx?fr=beauty+queries)  
-3 [Your Body](https://web.archive.org/maga/problem/index.aspx?fr=your+body)  
-4 [Personal Problem](https://web.archive.org/maga/problem/index.aspx?fr=Personal+problem)  
-5 [Child Challanges](https://web.archive.org/maga/problem/index.aspx?fr=CHILD+CHALLENGES)  
-6 [Kitchen Queries](https://web.archive.org/maga/problem/index.aspx?fr=Kitchen+Queries)  
-7 [I am Pregnant](https://web.archive.org/maga/problem/index.aspx?fr=Pregnant)  
+# [Teenache](https://web.archive.org/maga/problem/index.aspx?fr=teenache)  
+# [Beauty Queries](https://web.archive.org/maga/problem/index.aspx?fr=beauty+queries)  
+# [Your Body](https://web.archive.org/maga/problem/index.aspx?fr=your+body)  
+# [Personal Problem](https://web.archive.org/maga/problem/index.aspx?fr=Personal+problem)  
+# [Child Challanges](https://web.archive.org/maga/problem/index.aspx?fr=CHILD+CHALLENGES)  
+# [Kitchen Queries](https://web.archive.org/maga/problem/index.aspx?fr=Kitchen+Queries)  
+# [I am Pregnant](https://web.archive.org/maga/problem/index.aspx?fr=Pregnant)  
 |  | True Incidents  
-1 [Neighbours All](https://web.archive.org/maga/stories/index.aspx?fr=Neighbours+All)  
-2 [Hubbies Howl(er)s](https://web.archive.org/maga/stories/index.aspx?fr=Hubbies+Howl\(er\)s)  
-3 [How I Was Duped](https://web.archive.org/maga/stories/index.aspx?fr=How+I+Was+Duped)  
-4 [How I Met My Husband](https://web.archive.org/maga/stories/index.aspx?fr=How+I+Met+My+Husband)  
-5 [How I Saved My Marriage](https://web.archive.org/maga/stories/index.aspx?fr=How+I+Saved+My+Marriage)  
-6 [The Incident I can not Forget](https://web.archive.org/maga/stories/index.aspx?fr=THE+INCIDENT+I+CANNOT+FORGET)  
-7 [Unforgettable Experience As a Bride](https://web.archive.org/maga/stories/index.aspx?fr=My+Most+Unforgettable+Experience+As+a+Bride)  
+# [Neighbours All](https://web.archive.org/maga/stories/index.aspx?fr=Neighbours+All)  
+# [Hubbies Howl(er)s](https://web.archive.org/maga/stories/index.aspx?fr=Hubbies+Howl\(er\)s)  
+# [How I Was Duped](https://web.archive.org/maga/stories/index.aspx?fr=How+I+Was+Duped)  
+# [How I Met My Husband](https://web.archive.org/maga/stories/index.aspx?fr=How+I+Met+My+Husband)  
+# [How I Saved My Marriage](https://web.archive.org/maga/stories/index.aspx?fr=How+I+Saved+My+Marriage)  
+# [The Incident I can not Forget](https://web.archive.org/maga/stories/index.aspx?fr=THE+INCIDENT+I+CANNOT+FORGET)  
+# [Unforgettable Experience As a Bride](https://web.archive.org/maga/stories/index.aspx?fr=My+Most+Unforgettable+Experience+As+a+Bride)  
 |  | Magazine Feature  
-1 [Article](https://web.archive.org/maga/article/index.aspx)  
-2 [Fiction](https://web.archive.org/maga/fiction/index.aspx)  
-3 [Fashion](https://web.archive.org/maga/fashion/index.aspx)  
-4 [Cookery](https://web.archive.org/maga/cookery/index.aspx)  
-5 [Poem](https://web.archive.org/maga/poem/index.aspx)  
-6 [Serial Episode](https://web.archive.org/maga/serial/index.aspx)  
-7 [Filmdom](https://web.archive.org/maga/filmdom/index.aspx)  
+# [Article](https://web.archive.org/maga/article/index.aspx)  
+# [Fiction](https://web.archive.org/maga/fiction/index.aspx)  
+# [Fashion](https://web.archive.org/maga/fashion/index.aspx)  
+# [Cookery](https://web.archive.org/maga/cookery/index.aspx)  
+# [Poem](https://web.archive.org/maga/poem/index.aspx)  
+# [Campus Rumpus](https://web.archive.org/maga/stories/index.aspx?fr=campus+RUMPUS)  
+# [Filmdom](https://web.archive.org/maga/filmdom/index.aspx)  
   
 ---|---|---|---|---|---|---|---|---  
 ---  
