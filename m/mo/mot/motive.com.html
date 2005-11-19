@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the motive.com privacy policy that was archived on 2005-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305044122id_/http%3A//motive.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motive.com privacy policy that was archived on 2005-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051119120435id_/http%3A//www.motive.com/privacy.asp) for the most accurate reproduction.-->
 
 <html lang="en,ja"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -202,15 +202,42 @@
 
 	}
 
-	function openFlashWindow(url,width,height) {		
+	function openFlashWindow(url,width,height) {
+		var tempVar;
+		var tempWinVar;		
 		var leftVal = (screen.width - width) / 2;
 		var topVal = (screen.height - height) / 2;		
-		window.open(url,"flashWindow","width=" + width + ",height=" + height + ",left=" + leftVal + ",top=" + topVal);				
+		tempWinVar = window.open(url,"flashWindow","width=" + width + ",height=" + height + ",left=" + leftVal + ",top=" + topVal);				
+		
+	}
+	
+	var flashCode;
+	flashCode = '';
+	
+	function execFlashContent(altContent,altDestination,promptInstall)
+	{
+		var confirmAnswer;
+		
+		confirmAnswer = window.confirm("To view this page as it was intended, would you like to install the Macromedia Flash Player?");
+		if(confirmAnswer){
+			//document.write(flashCode);		
+			document.all.flashContent.innerHTML=flashCode;
+		} else {
+			if(promptInstall == "altContent"){
+				document.all.flashContent.innerHTML=altContent;
+				//document.write(altContent);			
+			} else if(promptInstall == "altDestination"){
+				window.location.href=altDestination;
+			}
+		}
 	}
 
-	function getFlash(flashURL,width,height,name,bgcolor,minFlashVersion,altContent){
-		if(getFlashVersion() >= minFlashVersion){
-			document.write(	'	<OBJECT	classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+	function getFlash(flashURL,width,height,name,bgcolor,minFlashVersion,altContent,altDestination,promptInstall){
+		var confirmAnswer;
+		//var flashCode;
+		var timerVar;
+		
+		flashCode = '	<OBJECT	classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
 							'				codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +
 							'				WIDTH="' + width + '"' +
 							'				HEIGHT="' + height + '"' +
@@ -230,11 +257,35 @@
 							'				HEIGHT="' + height + '"' +
 							'				NAME="' + name + '"' +
 							'				TYPE="application/x-shockwave-flash"' +
-							'				PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>');
-		}
-		else{
-			document.write(	altContent);
-			//'<a href="http://www.motive.com/"><img src="images/logo_ping_motivesmart.gif" border=0></a>');
+							'				PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+		
+		if(getFlashVersion() >= minFlashVersion){
+			document.write(flashCode);
+		} else {
+			if(promptInstall != ""){					
+				if(document.all){		
+					document.write("<div id='flashContent'>"+altContent+"</div>");						
+					window.setTimeout("execFlashContent('"+altContent+"','"+altDestination+"','"+promptInstall+"');",1000);			
+				}else{				
+					confirmAnswer = window.confirm("To view the Motive home page as it was intended, would you like to install the Macromedia Flash Player?");
+					if(confirmAnswer){
+						document.write(flashCode);		
+					} else {
+						if(promptInstall == "altContent"){
+							document.write(altContent);			
+						} else if(promptInstall == "altDestination"){
+							document.write(altContent);
+							window.location.href=altDestination;
+						}
+					}
+				}
+			} else {			
+				if(altContent !=""){
+					document.write(	altContent);			
+				} else {
+					window.location.href=altDestination;
+				}
+			}
 		}
 	}
 
@@ -482,6 +533,22 @@ A  {
 	font-weight : normal;
 	color : 00589E;
 	text-decoration : none;
+}
+
+A.agency  {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : normal;
+	color : 00589E;
+	text-decoration : underline;
+}
+
+a.agency:hover{
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : normal;
+	color : 00589E;
+	text-decoration : underline;
 }
 
 A:hover{
@@ -1048,25 +1115,28 @@ hbx.pec="";//ERROR CODES
 //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
 </script><script language="javascript1.1" defer="" src="/include/hbx/hbx.js"></script>
 <!--END WEBSIDESTORY CODE-->
-		<script type="text/javascript">
-		//HV Menu- by Ger Versluis (http://www.burmees.nl/)
-		//Submitted to Dynamic Drive (http://www.dynamicdrive.com)
-		//Visit http://www.dynamicdrive.com for this script and more
+			<script type="text/javascript">
+			//HV Menu- by Ger Versluis (http://www.burmees.nl/)
+			//Submitted to Dynamic Drive (http://www.dynamicdrive.com)
+			//Visit http://www.dynamicdrive.com for this script and more
+				
+				// added by TH on 7/1/2003
+				// sets path of navigation images, which is determined by language code
+				var navImagePath = "/images/ENG/nav/";
+				var navURLPath = "http://www.motive.com";
+				
+				// used to manually select a top nav button, using the zero based index of the button. -1 = not used
+				//var navOverrideSelectedButton = -1;
+				
+				function Go(){return}
+			</script>
+			<script type="text/javascript" src="/include/navigation/menu_config.js"></script>
 			
-			// added by TH on 7/1/2003
-			// sets path of navigation images, which is determined by language code
-			var navImagePath = "/images/ENG/nav/";
-			var navURLPath = "http://www.motive.com";
+					<script type="text/javascript" src="/include/navigation/menu_arrays_ENG.js"></script>
 			
-			// used to manually select a top nav button, using the zero based index of the button. -1 = not used
-			//var navOverrideSelectedButton = -1;
-			
-			function Go(){return}
-		</script>
-		<script type="text/javascript" src="/include/navigation/menu_config.js"></script>
-		<script type="text/javascript" src="/include/navigation/menu_arrays_ENG.js"></script>
-		<script type="text/javascript" src="/include/navigation/menu_com.js"></script>
-		<noscript>Your browser does not support script</noscript>
+			<script type="text/javascript" src="/include/navigation/menu_com.js"></script>
+			<noscript>Your browser does not support script</noscript>
+		
 		<table width="762" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 				<td width="761" align="left" valign="top">
@@ -1156,13 +1226,15 @@ hbx.pec="";//ERROR CODES
 						<img src="/images/ENG/spacer.gif" height="1" width="1" border="0"><br>
 					</td>
 				
-			</tr></tbody></table>			
+			</tr></tbody></table>	
+			
 			<table width="760" height="22" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr>
 			  		<td width="760" height="22">			  			
 			  			<div id="MenuPos" style="position:relative; width:760; height:22; z-index: 100;"></div></td>
 			  	</tr>
 			</tbody></table>
+			
 			<table width="761" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 					
@@ -1335,6 +1407,7 @@ hbx.pec="";//ERROR CODES
 																
 						</tr>
 					</tbody></table>
+					
 					<table width="761" cellpadding="0" cellspacing="0" border="0">
 						<tbody><tr>
 							<td height="1" align="left" valign="top" bgcolor="#999999">
@@ -1391,6 +1464,7 @@ hbx.pec="";//ERROR CODES
 							</td>
 						</tr>
 					</tbody></table>
+					
 					<table width="761" cellpadding="0" cellspacing="0" border="0">
 						<tbody><tr>
 							<td height="1" align="left" valign="top" bgcolor="#999999">
