@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexbrowsing.com privacy policy that was archived on 2005-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050428044342id_/http%3A//www.sexbrowsing.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexbrowsing.com privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119035825id_/http%3A//www.sexbrowsing.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
