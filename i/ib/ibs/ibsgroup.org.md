@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306000300id_/http%3A//www.ibsgroup.org/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2005-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051120182009id_/http%3A//www.ibsgroup.org/main/privacy.html) for the most accurate reproduction.*
 
 # IBS Self Help and Support Group: Privacy Policy
 
@@ -73,7 +73,7 @@ All reasonable care is taken by our staff in handling your personal information 
 
 ### Changing or Updating Personal Information
 
-If you would like to update or change your user profile on our message boards, [click here](http://www.ibsgroup.org/cgi-local/ubbcgi/ultimatebb.cgi?ubb=my_profile).
+If you would like to update or change your user profile on our message boards, [click here](http://www.ibsgroup.org/eve/ubb.x).
 
 To unsubscribe to our IBS Group Bulletin Board newsletter, please e-mail [ibs@ibsgroup.org](mailto:ibs@ibsgroup.org?subject=NEWSLETTER%20UNSUBSCRIBE) with the subject line "NEWSLETTER UNSUBSCRIBE".
 
