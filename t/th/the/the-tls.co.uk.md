@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-tls.co.uk privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613192936id_/http%3A//www1.the-tls.co.uk/terms_and_policy/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-tls.co.uk privacy policy that was archived on 2005-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051120131906id_/http%3A//www.the-tls.co.uk/terms_and_policy/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Weekly book reviews and literary analysis from the Times Literary Supplement
+# Weekly book reviews and literary criticism from the Times Literary Supplement
 
 We take your privacy seriously. This Privacy Policy explains what we do with data relating to you. If you have any questions about this or about personal information that we may hold about you please contact us by e-mail at [webmaster@the-tls.co.uk](mailto:webmaster@the-tls.co.uk). 
 
