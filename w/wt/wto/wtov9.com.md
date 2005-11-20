@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtov9.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305160303id_/http%3A//www.wtov9.com/station/1953096/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtov9.com privacy policy that was archived on 2005-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051120084004id_/http%3A//www.wtov9.com/station/1953096/detail.html) for the most accurate reproduction.*
 
 # WTOV9.com - WTOV9 - Privacy Policy
 
