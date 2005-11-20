@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiawebdirect.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205190809id_/http%3A//asiawebdirect.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiawebdirect.com privacy policy that was archived on 2005-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051120133137id_/http%3A//asiawebdirect.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to Asia Web Direct
 
