@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icomuk.co.uk privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408013930id_/http%3A//www.icomuk.co.uk/cgi-bin/search.cgi%3Flocation%3D000015%26showitem%3D000001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icomuk.co.uk privacy policy that was archived on 2005-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051120070859id_/http%3A//www.icomuk.co.uk/cgi-bin/search.cgi%3Flocation%3D000015%26showitem%3D000001) for the most accurate reproduction.*
 
 # Icom UK - Privacy Statement
 
