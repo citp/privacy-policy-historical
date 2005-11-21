@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403162747id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2005-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051121094418id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
 
 # iATN - Privacy Policy
 
@@ -16,7 +16,7 @@ Overview](http://www.iatn.net/overviews/tab_basicmembership.asp?navBar=basic)
 
 [Join iATN](http://www.iatn.net/join.asp)
 
-[Shop Finder](http://www.iatn.net/dir/search.asp)
+[Shop Finder](http://www.iatn.net/shopfinder/)
 
 [Member  
 Directory](http://www.iatn.net/dir/)
@@ -184,15 +184,16 @@ This policy and the [Terms of Use](http://www.iatn.net/disclaim.html) will most 
 
 ### Contact Information
 
-> International Automotive Technicians' Network  
->  411 W. Lambert Rd. #409  
->  Brea, CA, USA 92821
+> iATN  
+>  P.O. Box 1599  
+>  Brea, California, USA 92822
 > 
 >   Phone: (714) 257-1335  
 >  Email: [support@iatn.net](mailto:support@iatn.net)
 
 ### **Privacy Policy - History**
 
+  * **Revision 1.0.4 (July 22, 2005)** Updated our mailing address.
   * **Revision 1.0.3 (March 8, 2004)** Removed our FAX number from the contact information to avoid FAX harvesting by spammers. (Please email [support@iatn.net](mailto:support@iatn.net) if you need our FAX number.)
   * **Revision 1.0.2 (December 29, 2003)** We added this revision history section to track changes to our privacy policy. We added links to [our page discussing the email we send](http://www.iatn.net/nospam.html) to this privacy policy.
 
