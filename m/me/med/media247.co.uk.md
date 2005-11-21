@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the media247.co.uk privacy policy that was archived on 2005-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050313171459id_/http%3A//www.media247.co.uk/content/privacy_policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media247.co.uk privacy policy that was archived on 2005-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051121021817id_/http%3A//www.media247.co.uk/content/privacy_policy/index.php) for the most accurate reproduction.*
 
 # Welcome to Media 247
 
