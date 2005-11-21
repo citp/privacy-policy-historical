@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theopenpress.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406005516id_/http%3A//www.theopenpress.com/%3Fa%3Dextra%26name%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theopenpress.com privacy policy that was archived on 2005-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051121083524id_/http%3A//theopenpress.com/%3Fa%3Dextra%26name%3Dprivacy) for the most accurate reproduction.*
 
 # The Open Press - Free Press Release News Wire
 
