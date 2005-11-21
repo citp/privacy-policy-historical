@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockwellcollins.com privacy policy that was archived on 2005-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050511053815id_/http%3A//www.rockwellcollins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwellcollins.com privacy policy that was archived on 2005-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051121033904id_/http%3A//www.rockwellcollins.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
