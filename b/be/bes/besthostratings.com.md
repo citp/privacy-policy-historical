@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the besthostratings.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307193251id_/http%3A//www.besthostratings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthostratings.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123001348id_/http%3A//www.besthostratings.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Best Web hosting Reviews
+# Privacy Policy - Web Hosting Reviews
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following discloses our Privacy Policy.   
 **  
