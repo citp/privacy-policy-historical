@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tribalfootball.com privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623214121id_/http%3A//www.tribalfootball.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribalfootball.com privacy policy that was archived on 2005-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051122150710id_/http%3A//tribalfootball.com/info/privacy.asp) for the most accurate reproduction.*
 
 # tribalfootball.com - Privacy Policy covering tribalfootball.com
 
