@@ -1,67 +1,41 @@
-> *The following text is extracted and transformed from the afrointroductions.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410133246id_/http%3A//afrointroductions.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afrointroductions.com privacy policy that was archived on 2005-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051122160050id_/http%3A//www.afrointroductions.com/Privacy.cfm%3Bjsessionid%3De03011bec912XHj%24E9%243) for the most accurate reproduction.*
 
-# afrointroductions.com - Privacy Policy
+# AfroIntroductions.com - African and Black Dating, Singles and Personals
 
-**Privacy Policy**
+## Information we collect from our Web site
 
-**At afrointroductions.com** **we value your privacy**. We have created this privacy statement in order to demonstrate our firm commitment to your privacy.
+Information that we collect includes the following:
 
-**Our commitment to your privacy.**
-
-  * We will not release personal information about our members or visitors without their permission. 
-  * We will not disseminate, sell, or trade your email address, location, or any personal information with any persons or companies. (Your email address is used solely by us to contact you when you have new messages or matches, to inform you of your account status, and to inform you of any enhancements in our service or of services of our associated businesses). 
-  * Any information that is on your Profile (eg Height, Weight etc) will be available to other members to preview. Your email address and last name will never be available to other members, only the first name you created for your account. 
-  * If you elect to add your phone number and/or address to your profile, then this information will be available to selected afrointroductions.com members. (This could be all Gold members, or members meeting your match requirements, depending on your chosen preference). Please think carefully before adding your address or phone number to your profile.
-  * When you communicate with others online, you should be aware that, when disclosing personal information such as your name, e-mail address, etc., on a web page, or in a chat room, that information may be collected and used by others to send a person unsolicited e-mail. Therefore, in order to protect the privacy of members we do not allow the posting of email addresses or other contact information on member profiles. 
-  * We only give member account passwords to the e-mail address that a given member account is registered to. 
-  * We do not store credit card details.
+  * Profile Information
+  * Contact Information 
+  * Non-personally identifiable information
+  * Financial Information
 
 
 
-**Information we collect from our Website**
+**Profile Information and contact Information:** If you become a member we collect all of the information that you fill out in the registration form. With the exception of your email address and family name, this information is made available to other afrointroductions.com members as part of your profile. In order to assist our members to meet each other we may feature members' profiles in our promotional pages or promotional emails that we send out from time to time to our members. **We do not disclose your email address or family name to other afrointroductions.com members or any other companies, individuals or organizations.**
 
-We use the following information to evaluate our website performance and to improve our service to you:- 
+**Non-personally identifiable information:** We collect the following non personally identifiable information to evaluate our Web site performance and to improve our service to you:- 
 
   * The number of visitors to our site
   * The type of browser used
+  * The referring URL 
   * The IP address
   * The number and type of pages viewed
-  * The date and time of visits 
+  * The date and time of visits
+  * The exit URL 
 
 
 
-If you become a member we collect all of the information that you fill out in the registration form. With the exception of your email address and family name, this information is made available to other **afrointroductions.com** members as part of your profile. **We do not disclose your email address to other afrointroductions.com members or any other companies, individuals or organisations.**
+Like most Web sites, our site uses cookies to keep track of your purchases and other activity on our site and enhance your experience on our site.  
+Third party advertisers on our site may also place or read cookies on your browser. If you wish to disable cookies, the help section on the toolbar on your web browsers will tell you how. However, if you disable cookies, you may not be able to access certain areas or features on our site. 
 
-**How we store your information**
+**Financial Information:** Under some circumstances we may require some additional information, such as, but not limited to credit card details. We use this financial information, including your name, address, and other information to bill you for use of our services. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information on our Web site, you consent to our providing of your financial information.
 
-  * Your personal information is stored electronically. We take reasonable steps to ensure that your email address and family name remain confidential and to prevent misuse, loss, unauthorised access, modification or disclosure.
+## Information other Web sites or parties collect from you
 
+We place links to other Web sites operated by other third parties. When you click on these links and visit these other sites the operators of these other Web sites may collect different kinds of information about you, and may use and disclose that information in different ways than we do. We encourage you to review their privacy policies.
 
+## Information we may provide to law enforcement agencies 
 
-**Accuracy of your personal information**
-
-  * We allow members to change their personal details using a password protected feature. Please contact us if you have any problems using this feature, or if your email address changes. We will then update your information. 
-
-
-
-**Do we disclose any of your personal information or email address to other companies?**
-
-  * No, these details remain confidential. 
-
-
-
-**How to improve your privacy**
-
-  * If you require an added level of privacy, you can use PGP (Pretty Good Privacy at www.pgp.com) or another encryption program. 
-  * Make your password more difficult to crack. Never use your first name or an easily guessable password. Its always better to use a combination of letters and numbers. 
-  * Never give your password out to anyone, including your friends. 
-
-
-
-**Application of our Privacy Statement**
-
-This Privacy Statement was last reviewed in June 2002. It is subject to change from time to time due to developments in technology and new laws.
-
-[Home ](https://web.archive.org/web/20030410133246id_/http%3A//afrointroductions.com/default.htm)
-
- 
+afrointroductions.com cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as intellectual property rights, fraud and other rights. You authorize us to disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability. 
