@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivcc.edu privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403182446id_/http%3A//www.ivcc.edu/contactus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivcc.edu privacy policy that was archived on 2005-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051122073740id_/http%3A//www.ivcc.edu/contactus/privacy) for the most accurate reproduction.*
 
 # IVCC » Contact Us
 
