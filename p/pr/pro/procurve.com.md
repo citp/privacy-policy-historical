@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the procurve.com privacy policy that was archived on 2005-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050125214850id_/http%3A//welcome.hp.com/country/us/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the procurve.com privacy policy that was archived on 2005-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051122012000id_/http%3A//welcome.hp.com/country/us/en/privacy.html) for the most accurate reproduction.*
 
 # HP Online privacy statement
 
 |  HP and its subsidiaries respect your privacy and are committed to protecting it. HP provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We've structured our websites so that, in general, you can visit HP on the Web without identifying yourself or revealing any personal information. We make this notice readily available on our home page and at the bottom of every HP Web page. Some HP Web pages are [P3P-enabled](https://web.archive.org/country/us/en/privacy/p3p_popup.html), which allows you additional control over your personal information. 
 
-HP is a founding sponsor of the Council of Better Business Bureau's [ BBBOnLine](http://www.hp.com/cgi-bin/ghp/gohpweb.pl/ghp/plate.html?http://www.bbbonline.org/) Privacy Program, the "gold standard" for privacy certification. HP privacy practices meet the requirements of the Privacy Program and we are proud to display the BBBOnLine Privacy Seal. 
+HP is a founding sponsor of the Council of Better Business Bureau's [ BBBOnLine](http://www.hp.com/cgi-bin/leaving_hp.cgi?cc=us&lang=en&exit_link=http://www.bbbonline.org/&exit_text=Continue%20to%20BBBOnLine%20Privacy%20Program&area_text=Online%20privacy%20statement&area_link=http://welcome.hp.com/country/us/en/privacy.html&back_text=Return%20to%20Online%20privacy%20statement&back_link=http://welcome.hp.com/country/us/en/privacy.html) Privacy Program, the "gold standard" for privacy certification. HP privacy practices meet the requirements of the Privacy Program and we are proud to display the BBBOnLine Privacy Seal. 
 
-[](http://www.hp.com/cgi-bin/ghp/gohpweb.pl/ghp/plate.html?http://www.bbbonline.org/cnfm.cfm?company=03311999100448)
+[](http://www.hp.com/cgi-bin/leaving_hp.cgi?cc=us&lang=en&exit_link=http://www.bbbonline.org/&exit_text=Continue%20to%20BBBOnLine%20Privacy%20Program&area_text=Online%20privacy%20statement&area_link=http://welcome.hp.com/country/us/en/privacy.html&back_text=Return%20to%20Online%20privacy%20statement&back_link=http://welcome.hp.com/country/us/en/privacy.html)
 
 HP has also self-certified its privacy practices as consistent with U.S.-E.U. Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement. More information about the U.S. Department of Commerce Safe Harbor Program can be found at [http://www.export.gov/safeharbor/](http://www.hp.com/cgi-bin/ghp/gohpweb.pl/ghp/plate.html?http://www.export.gov/safeharbor/).
 
@@ -120,7 +120,7 @@ HP will not use your personal information for a different purpose than the one s
 > #### _Outside the U.S.:_
 > 
 >   
->  Please specify your privacy preferences by writing to the [ HP Privacy Office](http://www.hp.com/cgi-bin/ghp/form.cgi?8) \- be sure to provide your name, e-mail and postal address in all correspondence. 
+>  Please specify your privacy preferences by writing to the [ HP Privacy Office](https://web.archive.org/country/us/en/privacy/privacy_contact.html) \- be sure to provide your name, e-mail and postal address in all correspondence. 
 
 ### Subscription services
 
@@ -128,7 +128,7 @@ To opt-out of receiving communications you have expressly requested (such as e-m
 
   * Select the e-mail "opt-out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication 
   * Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions 
-  * Write to the [ HP Privacy Office](http://www.hp.com/cgi-bin/ghp/form.cgi?8) \- be sure to provide your name, e-mail and postal address, and relevant information about your HP subscriptions and registrations 
+  * Write to the [ HP Privacy Office](https://web.archive.org/country/us/en/privacy/privacy_contact.html) \- be sure to provide your name, e-mail and postal address, and relevant information about your HP subscriptions and registrations 
 
 
 
@@ -161,7 +161,7 @@ If there are updates to the terms of HP's Online Privacy Statement, we will post
 ## 12\. Contacting us
 
   
-We value your opinions. If you have comments or questions about our privacy policy, please send them to the [ HP Privacy Office](http://www.hp.com/cgi-bin/ghp/form.cgi?8) or write to us at the following address:
+We value your opinions. If you have comments or questions about our privacy policy, please send them to the [ HP Privacy Office](http://welcome.hp.com/country/us/en/privacy/privacy_contact.html) or write to us at the following address:
 
 HP Privacy Mailbox  
 20555 SH 249  
