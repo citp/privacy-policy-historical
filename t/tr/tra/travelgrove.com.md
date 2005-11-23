@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404031930id_/http%3A//www.travelgrove.com/html/bottom_bar/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123032615id_/http%3A//www.travelgrove.com/html/bottom_bar/privacy_policy.php%3FidReferral%3D%26adid%3D) for the most accurate reproduction.*
 
-# Advertising Information
+# Travelgrove Privacy Policy
 
-**Currently, we do not store any of your personal information at Travelgrove.**  
+**We only store any of your personal information at Travelgrove if you choose to.**  
 
 
-We are currently working on a member section. Once the member section is complete we will be saving the necessary personal information that you submit, so that you may log into our member section. As a member of Travelgrove Inc, you will be in complete control of your travel-planning needs. This includes controlling the use of information you provide to Travelgrove Inc. We fully understand and respect the privacy of our customers and will keep committed to do so in the future.
+We currently store users' email addresses who have chosen to sign up for our newsletter. We are NOT selling or sharing this information with any third parties and use the newsletter to promote our "Grovezine - Fresh Picked Weekly Deals". Anybody signing up, can unsubscribe from our newsletter and we do not allow double sign ups in order to eliminate spamming and mail bombing. We also run a travel forum, which stores your email address for validation purposes. We do NOT send out any promotional materials to users signing up to the forums unless they select that they want to receive a newsletter. 
+
+We are also currently working on a member section. Once the member section is complete we will be saving the necessary personal information that you submit, so that you may log into our member section. As a member of Travelgrove Inc, you will be in complete control of your travel-planning needs. This includes controlling the use of information you provide to Travelgrove Inc. We fully understand and respect the privacy of our customers and will keep committed to do so in the future.
 
 Because protecting your privacy is important to us, you can be assured that Travelgrove discloses the following:
 
