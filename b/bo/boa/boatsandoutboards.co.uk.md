@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatsandoutboards.co.uk privacy policy that was archived on 2005-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050419010447id_/http%3A//www.boatsandoutboards.co.uk/article/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatsandoutboards.co.uk privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123013012id_/http%3A//www.boatsandoutboards.co.uk/article/privacy_policy) for the most accurate reproduction.*
 
 # BoatsAndOutboards: Help System
 
