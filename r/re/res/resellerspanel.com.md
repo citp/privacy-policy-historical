@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellerspanel.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406004606id_/http%3A//www.resellerspanel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerspanel.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123223937id_/http%3A//resellerspanel.com/privacy.html) for the most accurate reproduction.*
 
 # Web hosting, reseller hosting and domain registration
 
