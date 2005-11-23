@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustmymechanic.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605155845id_/http%3A//www.trustmymechanic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustmymechanic.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123033353id_/http%3A//trustmymechanic.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -18,4 +18,4 @@ Your privacy is important to us.
      Please be aware that Trustmymechanic.com is not responsible for the privacy practices of other sites to which we provide links or with which we have business relationships with. 
 
   
-If you have questions or concerns about our privacy policy, you can contact us at [austin@trustmymechanic.com ](mailto:austin@trustmymechanic.com)
+If you have questions or concerns about our privacy policy, you can contact us at **(replace AT with @) austin AT trustmymechanic.com**
