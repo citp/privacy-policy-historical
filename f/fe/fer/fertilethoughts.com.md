@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fertilethoughts.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528104217id_/http%3A//www.fertilethoughts.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilethoughts.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123173217id_/http%3A//www.fertilethoughts.net/privacystatement.html) for the most accurate reproduction.*
 
 # Fertile Thoughts
 
