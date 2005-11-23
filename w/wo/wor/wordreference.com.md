@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordreference.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406023943id_/http%3A//wordreference.com/english/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordreference.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123050350id_/http%3A//www.wordreference.com/english/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # WordReference.com Privacy Policy
 
@@ -9,10 +9,10 @@ Word
 Reference  
 .com**
 
-[Home](https://web.archive.org/web/20050406023943id_/http%3A//wordreference.com/index.htm) [  
-FAQ](https://web.archive.org/web/20050406023943id_/http%3A//wordreference.com/english/FAQ.htm)  
+[Home](https://web.archive.org/web/20051123050350id_/http%3A//www.wordreference.com/index.htm) [  
+FAQ](https://web.archive.org/web/20051123050350id_/http%3A//www.wordreference.com/english/FAQ.htm)  
 [About Us  
-](https://web.archive.org/web/20050406023943id_/http%3A//wordreference.com/english/Privacy%20Policy.htm)
+](https://web.archive.org/web/20051123050350id_/http%3A//www.wordreference.com/english/Privacy%20Policy.htm)
 
 | a | 
 
