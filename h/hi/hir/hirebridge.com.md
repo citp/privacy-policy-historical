@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173227id_/http%3A//www.hirebridge.com/hirebridgea/hirebridge6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123124816id_/http%3A//hirebridge.com/hirebridgea/hirebridge6.html) for the most accurate reproduction.*
 
 # Hirebridge :: Online Recruiting Staffing & Hiring Management Solutions
 
 **Privacy Statement**
 
-Questions regarding this statement should be directed to our company via email to: privacy@hirebridge.com or via telephone at 1-954.974.2435. We take our obligations to guard your privacy seriously. The purpose of this Privacy Statement is to inform you about (1) the information that is collected about you; (2) how Hirebridge, LLC may use the information that is collected; and (3) how information can be corrected or changed.
+Questions regarding this statement should be directed to our company via email to: support@hirebridge.com or via telephone at 1.954.974.2435. We take our obligations to guard your privacy seriously. The purpose of this Privacy Statement is to inform you about (1) the information that is collected about you; (2) how Hirebridge, LLC may use the information that is collected; and (3) how information can be corrected or changed.
 
 **Information Collection and Use**
 
@@ -41,4 +41,4 @@ Hirebridge may change this privacy policy at its discretion provided that any su
 
 **Changes and Corrections to Your Information**
 
-You can request details of information about you by contacting Hirebridge at: privacy@hirebridge.com or call customer service at 1-877-890-HIRE. You may change or correct any such information, request that Hirebridge not contact you with goods, services, opportunities, or information that may interest you, or request that information by which you may be identified not be used further in any manner, by contacting us as set forth above. 
+You can request details of information about you by contacting Hirebridge at: [support@hirebridge.com](mailto:support@hirebridge.com) or call customer service at 1.954.974.2435. You may change or correct any such information, request that Hirebridge not contact you with goods, services, opportunities, or information that may interest you, or request that information by which you may be identified not be used further in any manner, by contacting us as set forth above. 
