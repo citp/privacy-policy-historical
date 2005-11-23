@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usf.edu privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403170757id_/http%3A//www.usf.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usf.edu privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123185204id_/http%3A//www.usf.edu/privacy.html) for the most accurate reproduction.*
 
 # USF Internet Privacy Policy -
 
