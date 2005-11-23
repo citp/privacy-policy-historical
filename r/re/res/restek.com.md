@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the restek.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204121203id_/http%3A//www.restekcorp.com/about_privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restek.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123182233id_/http%3A//www.restek.com/about_privpol.asp) for the most accurate reproduction.*
 
 # Restek -- Privacy Policy
 
 **What is collected:**  
 Our Web server automatically recognizes and records certain information about users, including domain name, geographic location, computer operating system, Web browser, and aggregate information about pages accessed. We collect information volunteered by users, such as name, telephone number, mailing address, and e-mail address. We use this information to provide more efficient service and improve the content and organization of our Web site. 
 
-Our site uses cookies to simplify online shopping and ordering, and to enable personalized service and features without requiring users to log in. [ _Cookies are small pieces of data recorded on individual users' computers. For more information about cookies, refer to[Cookie Central](http://www.cookiecentral.com/faq/)._] No sensitive data of any kind is stored in the cookies we use. 
+Our sites use cookies to simplify online shopping and ordering, and to enable personalized service and features without requiring users to log in. [ _Cookies are small pieces of data recorded on individual users' computers. For more information about cookies, refer to[Cookie Central](http://www.cookiecentral.com/faq/)._] No sensitive data of any kind is stored in the cookies we use. 
 
 Restek exercises prudence regarding the security of information provided by our visitors, but cannot guarantee that third parties do not intercept transmissions over the Internet. All of our ordering screens use SSL encryption to protect data in-transit. 
 
 **Restek's use of this information:**  
 The information gathered is for Restek's internal use and Restek promotions. 
 
-The information we collect is used to improve our Web site and to contact consumers for marketing purposes. We request identifying information in order to track our contacts with you, which enables us to provide more efficient service. 
+The information we collect is used to improve our Web sites and to contact consumers for marketing purposes. We request identifying information in order to track our contacts with you, which enables us to provide more efficient service. 
 
 If you provide your e-mail address to us, you may receive e-mail from us relating to new products and services or upcoming events. Also, technical assistance may be provided via e-mail, and surveys and questionnaires that help us offer better products and services in the future. You can request that we do not send e-mail to you. 
 
-As a service, Restek publishes and distributes free technical literature in both print and electronic forms. Customers who wish to do so can subscribe to our [eLiterature service](https://web.archive.org/scripts/subscriber.pl) by completing a brief survey. 
+As a service, Restek publishes and distributes free technical literature in both print and electronic forms. Customers who wish to do so can subscribe to our [eLiterature service](https://web.archive.org/web/20051123182233id_/http%3A//www.restek.com/subscriber.asp) by completing a brief survey. 
 
 If you supply us with your telephone number online, you may receive telephone contact from us for order confirmation or technical assistance. Also, you may receive telephone contact from us with information regarding new products and services or upcoming events. You can request that we do not call you. 
 
