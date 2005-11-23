@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the webcredible.co.uk privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325042738id_/http%3A//www.webcredible.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcredible.co.uk privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124005354id_/http%3A//webcredible.co.uk/privacy.shtml) for the most accurate reproduction.*
 
 # Webcredible privacy policy
 
-Webcredible is committed to protecting the privacy of its users under the 1998 Data Protection Act. 
+Webcredible is committed to protecting the privacy of its users under the 1998 Data Protection Act.
 
 ## Your agreement
 
-By using the Webcredible website you automatically agree to this privacy policy. 
+By using the Webcredible website you automatically agree to this privacy policy.
 
 ## Collection of data
 
@@ -24,4 +24,4 @@ Webcredible does not use session files to log your individual browsing patterns;
 
 Webcredible cannot be held responsible for the content or data policies and procedures on external sites.
 
-If you'd like to be informed of any changes we make to our privacy policy then please [contact us](https://web.archive.org/web/20050325042738id_/http%3A//www.webcredible.co.uk/contact-us.shtml). 
+If you'd like to be informed of any changes we make to our privacy policy then please [contact us](https://web.archive.org/web/20051124005354id_/http%3A//webcredible.co.uk/contact-us.shtml).
