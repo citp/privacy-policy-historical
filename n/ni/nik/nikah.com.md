@@ -1,64 +1,6 @@
-> *The following text is extracted and transformed from the nikah.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305122044id_/http%3A//www.nikah.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikah.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123191245id_/http%3A//www.nikah.com/islam/privacy.asp) for the most accurate reproduction.*
 
-# Nikah.com: The No.1 Muslim Matrimonials Service Provider
-
-| 
-
-  
-Nikah.com: The No.1 Muslim Matrimonial Service Provider
-
-| 
-
-| 
-
-  
-Friday, January 31   120   
-  
----|---|---  
-|    
-| 
-
-| 
-
-**Quick Links**
-
-|   
-  
----|---|---  
-  
-| [My Nikah Home](http://www.nikah.com/mynikah/default.asp)  
----|---  
-|   
-| [My Profile](http://www.nikah.com/mynikah/myprofile.asp)  
-|   
-|  [Partner Profile](http://www.nikah.com/mynikah/mypartner.asp)  
-|   
-| [My Mail Box](http://www.nikah.com/mynikah/mymail.asp)  
-|   
-| [My Favourites](http://www.nikah.com/mynikah/myfav.asp)   
-|   
-| [Matching Profiles](http://www.nikah.com/mynikah/nik_maker.asp)  
-|   
-| [Search Partner ](http://www.nikah.com/search.asp)  
-|   
-| [Photo Section](http://www.nikah.com/mynikah/add_photo.asp)  
-|   
-| [Your Account ](http://www.nikah.com/mynikah/myorder.asp)  
-|   
-| [Help Centre ](http://www.nikah.com/help1/default.asp)  
-|   
-  
-**Testimonials**  
-  
----  
-  
-"Thank you for everything i am now married to a wonderful man that we met here in nikah.com i cannot thank you enough. "  
-\- Muslima,UK   
-  
-| Privacy Policy  
----  
-   
-| 
+# Nikah.com :: Muslim Marriage Service ::
 
 Nikah.com is an online matrimonial portal endeavouring constantly to provide you with premium matrimonial services. This privacy statement is common to all the matrimonial sites operated under Nikah.com. Since we are strongly committed to your right to privacy; we have drawn out a privacy statement with regard to the information we collect from you. 
 
@@ -97,11 +39,4 @@ We may change this Privacy Policy from time to time based on your comments or as
 
 If you have any questions regarding our Privacy Statement,  
 please write in to [privacy@nikah.com](mailto:customercare@nikah.com)  
-  
-  
----  
-   
-   
-[Home](http://www.nikah.com/default.asp) | [Success Stories](http://www.nikah.com/success/default.asp) |[Site map](http://www.nikah.com/sitemap.asp) | [Privacy Policy](http://www.nikah.com/privacy.asp) | [Terms and Conditions](http://www.nikah.com/terms.asp) | [Security Advice](http://www.nikah.com/security.asp) | [Help Centre](http://www.nikah.com/help1/default.asp) | [Contact Us ](http://www.nikah.com/contact.asp)  
-  
-Copyright © 2000 - 2004 Nikah.com - Muslim Matrimonials Service Provider - All Rights Reserved
+
