@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2005-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050514105055id_/http%3A//www1.us.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Eck%3Dlf%26%7Esection%3D000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124095018id_/http%3A//www1.us.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
 
 # Dell's Online Policies
 
@@ -6,7 +6,7 @@ Dell respects your privacy. Across our business, around the world, we will only 
 
 Privacy and Data Security
 
-At Dell, your right to privacy and data security is a primary concern. That's why, when you visit dell.com, we help you maintain control over your personal data on the Internet. Below are the guidelines we use for protecting the information you provide us during a visit to our Internet site or when you use our online support offerings such as [support.dell.com](http://support.dell.com/) or support applications loaded on your computer. Please refer to your warranty statement or Dell's Total Satisfaction Policy for policies that apply to information contained on hard drives returned to Dell. [Other Dell and Dell co-branded sites may operate under their own privacy and security policies](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=011). Visit [www.nclnet.org/essentials](http://www.nclnet.org/essentials) to learn more about how to protect your privacy on the Internet through a consumer education campaign called Online E-ssentials, developed by Dell in partnership with the National Consumers League. 
+At Dell, your right to privacy and data security is a primary concern. That's why, when you visit dell.com, we help you maintain control over your personal data on the Internet. Below are the guidelines we use for protecting the information you provide us during a visit to our Internet site or when you use our online support offerings such as [support.dell.com](http://support.dell.com/) or support applications loaded on your computer. Please refer to your warranty statement or Dell's Return Policy for policies that apply to information contained on hard drives returned to Dell. [Other Dell and Dell co-branded sites may operate under their own privacy and security policies](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=011). Visit [www.nclnet.org/essentials](http://www.nclnet.org/essentials) to learn more about how to protect your privacy on the Internet through a consumer education campaign called Online E-ssentials, developed by Dell in partnership with the National Consumers League. 
 
 Dell is a proud participant in the BBB OnLine®  Privacy Program. The BBB _OnLine_ Privacy Program is backed by an organization noted for its expertise and experience in conducting successful national self-regulation programs--the Council of Better Business Bureaus. The mission of BBB OnLine is to promote trust and confidence on the Internet by advocating ethical online business practices. Further information about this program is available at [http://www.bbbonLine.org](http://www.bbbonline.org/cks.asp?id=3151999031006). 
 
@@ -88,11 +88,11 @@ One Dell Way
 
 Round Rock, Texas 78682
 
-You may also click [here](http://support.dell.com/support/topics/global.aspx/support/en/site_feedback?c=us&cs=19&l=en&s=gen) and fill out the e-mail form under the topic: "Privacy Info: Request" 
+You may also click [here](https://support.dell.com/support/topics/global.aspx/support/en/site_feedback?c=us&l=en&s=gen) and fill out the e-mail form under the topic: "Privacy Info: Request" 
 
 Dell wants to help you keep your personal information accurate
 
-You can request the individual information that Dell has collected by submitting a request [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=009). To view or edit the information that has been stored online, please visit the [My Account section](https://membership.dell.com/dellportal/signin.aspx?c=us&l=en&s=dhs) of the Dell Web site.
+You can request the individual information that Dell has collected by submitting a request [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=009). To view or edit the information that has been stored online, please visit the [My Account section](https://membership.dell.com/myaccount/main.aspx?c=us&l=en&s=dhs) of the Dell Web site.
 
 Changes to the Policy
 
