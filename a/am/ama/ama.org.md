@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ama.org privacy policy that was archived on 2005-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050522082614id_/http%3A//www.marketingpower.com/content4740.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ama.org privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124114105id_/http%3A//www.marketingpower.com/content4740.php) for the most accurate reproduction.*
 
 # Privacy Policy - American Marketing Association - www.marketingpower.com
 
