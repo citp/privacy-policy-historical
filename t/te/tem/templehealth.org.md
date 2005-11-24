@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templehealth.org privacy policy that was archived on 2005-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050415162951id_/http%3A//www.health.temple.edu/HIPAA/hipaa.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templehealth.org privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124092128id_/http%3A//www.health.temple.edu/HIPAA/hipaa.html) for the most accurate reproduction.*
 
 # HIPAA
 
@@ -31,13 +31,14 @@ THIS NOTICE DESCRIBES THE POLICIES OF TUHS, HOW MEDICAL INFORMATION ABOUT YOU MA
 
 **TEMPLE UNIVERSITY HEALTH SYSTEM PRACTICES REGARDING MEDICAL INFORMATION:**
 
- TUHS understands that medical information about you and your health is personal.  TUHS is committed to protecting your medical information. A record is created of the care and services you receive as a TUHS patient.  This record is needed to provide you with quality care, document the provision of appropriate medical services, and seek reimbursement for those services.  This notice applies to all of the records of your care generated, or utilized, by TUHS Health Care Professionals to provide you with healthcare services. 
+ TUHS understands that medical information about you and your health is personal.  TUHS is committed to protecting your medical information. A record is created of the care and services you receive as a TUHS  
+patient. This record is needed to provide you with quality care, document the provision of appropriate medical services, and seek reimbursement for those services.  This notice applies to all of the records of your care generated, or utilized, by TUHS Health Care Professionals to provide you with healthcare services. 
 
  The purpose of this notice is to inform you about the ways in which your personal health information may be used and disclosed. It also describes your rights and other obligations regarding the use and disclosure of your personal health information.
 
 **_TEMPLE UNIVERSITY HEALTH SYSTEM IS REQUIRED BY LAW TO:_**
 
-  * ensure that personal heath information is kept private;
+  * ensure that personal health information is kept private;
   * provide you with this notice of our legal duties and privacy practices with respect to your personal health information; and
   * follow the terms of the notice that are currently in effect.
 
