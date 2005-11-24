@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a2hosting.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404091417id_/http%3A//www.a2hosting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2hosting.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124144305id_/http%3A//www.a2hosting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# A2 Web Hosting : Privacy Policy : Unix/Linux Hosting, cPanel Hosting, PHP Hosting, MySQL Hosting
+# A2 Web Hosting : Privacy Policy : PHP 5 Hosting, MySQL 4.1 Hosting, Postgres/PostgreSQL 8.1 Hosting, Ruby on Rails, Linux cPanel Hosting
 
 **Our Commitment To Privacy**
 
@@ -47,4 +47,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 734-222-4678 or open a support ticket at [https://support.a2hosting.com ](https://support.a2hosting.com/)
+Should you have other questions or concerns about these privacy policies, please call us at 1-734-222-4678 or open a support ticket at [https://support.a2hosting.com ](https://support.a2hosting.com/)
