@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405164136id_/http%3A//www.vodafone.ie/terms/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124050106id_/http%3A//www.vodafone.ie/terms/privacy/index.jsp) for the most accurate reproduction.*
 
-# Vodafone Ireland
+# Privacy Policy - Vodafone Ireland
 
 Vodafone Ireland Limited (hereinafter referred to as "Vodafone" "us" "we" or "our") is committed to respecting your privacy and to complying with all applicable data protection and privacy laws. 
 
