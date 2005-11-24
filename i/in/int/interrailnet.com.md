@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interrailnet.com privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617023705id_/http%3A//www.interrailnet.com/privacypolicy.dhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interrailnet.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124122959id_/http%3A//www.interrailnet.com/privacypolicy.dhtml) for the most accurate reproduction.*
 
 # Inter Rail
 
