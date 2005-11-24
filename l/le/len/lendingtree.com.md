@@ -1,22 +1,23 @@
-> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525055526id_/http%3A//www.lendingtree.com/stmrc/privacy.asp%3Finline%3Dtrue%26source%3D23972%26siteid%3D%26esourceid%3D23972) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124054239id_/http%3A//www.lendingtree.com/stmrc/privacy.asp%3Finline%3Dtrue%26source%3D23972%26siteid%3D%26esourceid%3D23972) for the most accurate reproduction.*
 
 # LendingTree -- Privacy Policy
 
 * * *
 
-| [What is LendingTree?](http://www.lendingtree.com/stm3/aboutlt/default.asp?source=23972&siteid=&esourceid=23972)  
+| [What is LendingTree?](https://web.archive.org/stm3/aboutlt/default.asp)  
 ---  
-[Frequently Asked Questions](http://www.lendingtree.com/stm3/education/faqs.asp?source=23972&siteid=&esourceid=23972)  
-[Lender Scorecard](http://www.lendingtree.com/stm3/lenders/scorecard.asp?source=23972&siteid=&esourceid=23972)  
+[Frequently Asked Questions](https://web.archive.org/stm3/education/faqs.asp)  
+[Lender Scorecard](https://web.archive.org/stm3/lenders/scorecard.asp)  
 Privacy Policy  
-[Contact Us](http://www.lendingtree.com/stm3/aboutlt/contactus.asp?source=23972&siteid=&esourceid=23972)  
-[Press Room](http://www.lendingtree.com/stm3/pressroom/pressroom.asp?source=23972&siteid=&esourceid=23972)  
-[Our Leadership](http://www.lendingtree.com/stm3/aboutlt/leadership.asp?source=23972&siteid=&esourceid=23972)  
-[Join Our Lender Network](http://www.lendingtree.com/stm3/aboutlt/join-lender.asp?source=23972&siteid=&esourceid=23972)  
-[Join Our Real Estate Network](http://www.lendingtree.com/stm3/aboutlt/join-realestate.asp?source=23972&siteid=&esourceid=23972)  
-[Post Home Listings](http://www.lendingtree.com/stm3/aboutlt/postlistings.asp?source=23972&siteid=&esourceid=23972)  
-[Advertising/Marketing Opportunities](http://www.lendingtree.com/stm3/aboutlt/advertising.asp?source=23972&siteid=&esourceid=23972)  
-[Directions to LendingTree](http://www.lendingtree.com/stm3/aboutlt/directions.asp?source=23972&siteid=&esourceid=23972)  
+[Contact Us](https://web.archive.org/stm3/aboutlt/contactus.asp)  
+[Press Room](https://web.archive.org/stm3/pressroom/pressroom.asp)  
+[Our Leadership](https://web.archive.org/stm3/aboutlt/leadership.asp)  
+[Get Internet Mortgage Leads from Lending Tree](https://web.archive.org/stm3/aboutlt/join-lender.asp)  
+[Get Internet Mortgage Leads from GetSmart](http://www.getsmart.com/grd/forlenders.asp)  
+[Join Our Real Estate Network](https://web.archive.org/stm3/aboutlt/join-realestate.asp)  
+[Post Home Listings](https://web.archive.org/stm3/aboutlt/postlistings.asp)  
+[Advertising/Marketing Opportunities](https://web.archive.org/stm3/aboutlt/advertising.asp)  
+[Directions to LendingTree](https://web.archive.org/stm3/aboutlt/directions.asp)  
 | 
 
 ### LendingTree Privacy Policy
@@ -35,7 +36,7 @@ Customer Service: 704-944-2110
 Fax: 704-541-1824  
 E-Mail: [customercare@lendingtree.com](mailto:customercare@lendingtree.com)
 
-LendingTree, LLC is a Delaware limited liability company (formerly known as LendingTree, Inc.) with its corporate headquarters in Charlotte, North Carolina. For purposes of this privacy statement, "LendingTree" means LendingTree, LLC.
+LendingTree, LLC is a Delaware limited liability company (formerly known as LendingTree, Inc.) with its corporate headquarters in Charlotte, North Carolina. For purposes of this privacy statement, "LendingTree" means LendingTree, LLC. In Rhode Island, the loan services made available on this site are provided by Home Loan Center, Inc., and all references on this site to LendingTree shall include Home Loan Center, Inc. for Rhode Island customers. However, LendingTree, LLC will still collect your loan request and provide technical services for Home Loan Center, Inc.
 
 If you have questions or concerns regarding this statement, you should first contact the LendingTree site coordinator at our [Customer Care Department](https://web.archive.org/stm3/contactus/contactus-email.asp?source=23972&siteid=&esourceid=23972&partner=). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
@@ -57,7 +58,7 @@ If you have questions or concerns regarding this statement, you should first con
 
   * **Information we receive from you on loan or realty requests.** When you come to a LendingTree site to complete a qualification form you'll need to provide personal and financial information such as your name, phone number, Social Security Number, e-mail address, income and other financial information depending upon your expressed loan or real estate referral preference. More details…
   *  **Supplementary information for your loan or realty request.** When you complete a loan or realty request at a LendingTree site, it may be necessary for us to supplement the information you provide with information from third party sources. More details…
-  *  **Information we collect when you use the LendingTree Home Price Check.** LendingTree and our authorized partners may collect information from you through our Home Price Check Plus service. Participation in this service is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details…
+  *  **Information we collect when you use the LendingTree Home Price Check ®.** LendingTree and our authorized partners may collect information from you through our Home Price Check® Plus service. Participation in this service is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details…
   *  **Technical information we collect.** In order for us to ensure that we are providing the best possible consumer experience on a LendingTree Web site, we collect and track certain user information. More details…
   *  **Information from surveys.** You may complete a survey from LendingTree online. Participation in surveys is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details…
   *  **Information from the "Contact Us" section of a LendingTree Web site.** You may contact LendingTree through the "Contact Us" feature. Participation in this area is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details…
@@ -101,7 +102,7 @@ If we make a change to our Privacy Policy in the future that will affect how we 
 **Information we receive from you on loan or realty requests.** Some of the information you supply to us on the loan or realty request may be optional. If you supply this information, it will not be sold or shared to or with any person or organization except: as authorized by you, to participating Lenders, real estate professionals or other parties involved in your transaction, or as may be required by law or court order.
 
   * **Supplementary information for your loan or realty request.** In order for us to match you with participating Lenders and real estate professionals, we may need to obtain additional data. For example, we may use your name and Social Security Number to request a credit report to help us determine which lenders are best suited to compete for your business.
-  * **Information we collect when you use the LendingTree Home Price Check Plus.** When you use our Home Price Check Plus, we may ask you for personally identifiable information such as your name, mailing address, email address, credit card number, etc. The LendingTree Home Price Check Plus is produced with authorized partners who will only use the information specifically to provide you with the detailed information you have requested. Your information will not be sold or shared with any person or organization for marketing purposes.
+  * **Information we collect when you use the LendingTree Home Price Check ® Plus.** When you use our Home Price Check® Plus, we may ask you for personally identifiable information such as your name, mailing address, email address, credit card number, etc. The LendingTree Home Price Check® Plus is produced with authorized partners who will only use the information specifically to provide you with the detailed information you have requested. Your information will not be sold or shared with any person or organization for marketing purposes.
   * **Technical information we collect.** When you visit a LendingTree Web site, our Web server sends a cookie to your computer. This cookie merely stores a limited amount of information about your site visit. The cookie merely tracks aggregate information on how our site is being used, including session counts, navigation patterns, pages visited, etc. These cookies, however, do not store any personally identifiable information such as your name, email address, phone number, etc. as you browse the site. These cookies cannot be related to you as an individual unless you complete a loan or realty request.
 
 When you complete a loan or realty request, we store your cookie identification in our system. If you request that we remember you during a loan or realty request, we use this cookie to allow our site to recognize you when you return.
@@ -123,6 +124,8 @@ MSN: [http://privacy.msn.com](http://privacy.msn.com/)
 AtlasDMT: <http://www.atlasdmt.com/privacy/general.asp>
 
 AOL: <http://www.aol.com/info/privacy.adp>
+
+24-7 Real Media: <http://www.247media.com/privacy.html>
 
   * **Information from surveys.** Every survey presented to you will include specific instructions regarding how your information may be shared. By clicking the "Submit" button at the end of the survey, you authorize LendingTree to share your data in the manner outlined on the survey.
   * **Information from the "Contact Us" section of a LendingTree Web site.** In the "Contact Us" form, we may ask you for personally identifiable information such as your name, mailing address, email address, etc. This information will not be sold to any person or organization. However, your information may be shared with other parties relevant to your transaction to help resolve any issues you report to us.
@@ -164,7 +167,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 If we make a change to our Privacy Policy in the future that will affect how we treat your information, we will notify you of the change. In that case, your ability to opt out of the new policy will be determined by applicable laws and we will include that information in our notification. If the change impacts how we use your information, we will notify you even if you have requested that we not contact you.
 
-**This Privacy Policy was last updated on January 11, 2005.**
+**This Privacy Policy was last updated on October 5, 2005.**
 
 Download this document in Adobe Acrobat (PDF) format. 
 
