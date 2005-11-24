@@ -1,29 +1,22 @@
-> *The following text is extracted and transformed from the wbshop.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403114744id_/http%3A//www.wbshop.com/content.xml%3Fcid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbshop.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml%3Fcid%3Dprivacy) for the most accurate reproduction.*
 
-# WBShop.com – Exclusive Warner Bros. merchandise from Harry Potter, Tweety, Taz, Batman, Superman, Scooby-Doo, and more. Privacy Policy
+# WBShop.com – Exclusive Warner Bros. merchandise from Harry Potter, Tweety, Taz, Batman, Superman, Scooby-Doo, and more - Privacy Policy
 
-| 
+### Privacy Policy
 
-[Home](https://web.archive.org/) »  **Privacy Policy**  
-  
----  
-   
-  
-
-
-  * [The Information We Collect](https://web.archive.org/web/20050403114744id_/http%3A//www.wbshop.com/content.xml?cid=privacy#collect)
-  * [How We Use the Information](https://web.archive.org/web/20050403114744id_/http%3A//www.wbshop.com/content.xml?cid=privacy#use)
-  * [Third-Party Sites and Sponsors](https://web.archive.org/web/20050403114744id_/http%3A//www.wbshop.com/content.xml?cid=privacy#sponsors)
-  * [Cookies](https://web.archive.org/web/20050403114744id_/http%3A//www.wbshop.com/content.xml?cid=privacy#cookies)
-  * [Our Commitment to Security](https://web.archive.org/web/20050403114744id_/http%3A//www.wbshop.com/content.xml?cid=privacy#commitment)
-  * [How You Can Access or Correct Information](https://web.archive.org/web/20050403114744id_/http%3A//www.wbshop.com/content.xml?cid=privacy#access)
-  * [Special Note for Parents](https://web.archive.org/web/20050403114744id_/http%3A//www.wbshop.com/content.xml?cid=privacy#parents)
-  * [Notification of Updates](https://web.archive.org/web/20050403114744id_/http%3A//www.wbshop.com/content.xml?cid=privacy#updates)
-  * [How to Contact Us](https://web.archive.org/web/20050403114744id_/http%3A//www.wbshop.com/content.xml?cid=privacy#contact)
+  * [The Information We Collect](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#collect)
+  * [How We Use the Information](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#use)
+  * [Third-Party Sites and Sponsors](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#sponsors)
+  * [Cookies](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#cookies)
+  * [Our Commitment to Security](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#commitment)
+  * [How You Can Access or Correct Information](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#access)
+  * [Special Note for Parents](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#parents)
+  * [Notification of Updates](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#updates)
+  * [How to Contact Us](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#contact)
 
 
 
-Thank you for visiting Warner Bros. Online, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [Click here](http://www.warnerbros.com/main/cmp/privacy_sitelist.html) for a list of the Time Warner businesses whose sites are governed by this Privacy Notice.
+Thank you for visiting Warner Bros. Online, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [View a list of the Time Warner businesses whose sites are governed by this Privacy Notice.](http://www.warnerbros.com/main/cmp/privacy_sitelist.html)
 
 **Information We Collect**  
 At some AOL Time Warner sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. 
@@ -53,7 +46,7 @@ Agents and contractors of AOL Time Warner who have access to personally identifi
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. 
 
-Certain Time Warner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here](http://www.warnerbros.com/main/cmp/pr_6.html).
+Certain Time Warner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. [View instructions on how to opt out from such disclosures](http://www.warnerbros.com/main/cmp/pr_6.html).
 
 AOL Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](http://www.warnerbros.com/main/cmp/pr_3.html) for instructions on how to make your request.
 
@@ -64,7 +57,7 @@ Finally, AOL Time Warner sites will not use or transfer personally identifiable 
 
 AOL Time Warner sites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. AOL Time Warner has no control over the third-party's use of this information. The AOL Time Warner site will notify you at the time of requesting personally identifiable information if these third-parties will obtain such information. 
 
-Some AOL Time Warner sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, please [click here.](http://www.warnerbros.com/main/cmp/pr_11.html)
+Some AOL Time Warner sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. [View more information on this site's use of such third-party ad servers](http://www.warnerbros.com/main/cmp/pr_11.html). 
 
 **Cookies**  
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
