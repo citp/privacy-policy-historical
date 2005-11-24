@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velaro.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405165026id_/http%3A//www.velaro.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velaro.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124185347id_/http%3A//www.velaro.com/privacy.htm) for the most accurate reproduction.*
 
 # Live Support by Velaro Live Help Live Customer Support Software
 
