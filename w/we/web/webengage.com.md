@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webengage.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408211659id_/http%3A//www.webengage.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webengage.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124091931id_/http%3A//webengage.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - WebEngage
 
