@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smarthinking.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605230420id_/http%3A//www.smarthinking.com/static/pub_common/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthinking.com privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125093707id_/http%3A//smarthinking.com/static/pub_common/privacy.cfm) for the most accurate reproduction.*
 
-# 
+# SMARTHINKING.COM - Online tutoring and writing services that help students succeed
 
 SMARTHINKING PRIVACY POLICY
 
-The SMARTHINKING website is intended to provide tutoring and college level academic support to students over the age of 13 . The SMARTHINKING Privacy Policy details the commitment of SMARTHINKING, Inc. to our users' privacy. Please review the following policy to understand how the information you provide SMARTHINKING, Inc. ("SMARTHINKING") will be treated. 
+The SMARTHINKING website is intended to provide tutoring and college level academic support to students over the age of 13. The SMARTHINKING Privacy Policy details the commitment of SMARTHINKING, Inc. to our users' privacy. Please review the following policy to understand how the information you provide SMARTHINKING, Inc. ("SMARTHINKING") will be treated. 
 
 I. Who We Are and How to Reach Us  
 SMARTHINKING is the sole provider of this website. You may contact us directly if you have any questions regarding the content and material on this website, or the collection, use, correction or deletion of any personal or non-personal information provided over this website. Please contact us at:
