@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305051527id_/http%3A//www.shrm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125224530id_/http%3A//shrm.org/privacy) for the most accurate reproduction.*
 
-# SHRM Online Privacy Statement
+# SHRM
 
 ### SHRM ONLINE PRIVACY POLICY
 
@@ -98,7 +98,7 @@ Send mail to the following postal address: SHRM, 1800 Duke Street, Alexandria, V
 Call: 703/548-3440 or 800-283-7476. 
 
 **6\. What is the opt-out policy for SHRM Online?**  
-SHRM provides members the opportunity to opt-out of receiving communications from us and our partners. If you no longer wish to receive specific communications or services, you have the following options: 
+SHRM provides members and customers the opportunity to opt-out of receiving communications from us and our partners. If you no longer wish to receive specific communications or services, you have the following options: 
 
 You can send an e-mail to: [shrm@shrm.org](mailto:shrm@shrm.org)
 
