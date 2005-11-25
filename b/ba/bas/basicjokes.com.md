@@ -1,39 +1,37 @@
-> *The following text is extracted and transformed from the basicjokes.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610011407id_/http%3A//www.basics4life.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basicjokes.com privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125191722id_/http%3A//www.basicjokes.com/privacy.php) for the most accurate reproduction.*
 
-# Basics 4 Life Network - Privacy Statement
+# Privacy Policy for Basics 4 Life Sites
 
-**General Information**  
-At Basics 4 Life we're committed to protecting the privacy and safety of our users. We have created this privacy policy to demonstrate our firm commitment to privacy and to explain our information gathering and dissemination practices for the Basics 4 Life Network of web sites (Basic Music, Basic Free Stuff, Basic Weather, Basic Jokes, Basic Eating, Basic Christian Living). 
+**What This Privacy Policy Covers**
 
-Currently, we do not require that anyone become a member of our Network. We do not require anyone to disclose more personal information than is reasonably necessary to participate in any activity and we will not intentionally post, sell, rent or trade your personal information with third parties. 
+This privacy policy covers and is consistant among all the sites in the Basics 4 Life network which currently are Basic Jokes, Basic Music, Basic Quotations, Basic Inspiration, Basic Celebrations, Basic Famous People, Basic Bible Tools, Basic Eating, Basic History Online, and, of course, Basics 4 Life. 
 
-Sometimes, you may also be asked to create a screen name and/or password in order to participate in certain areas or activities. If you are asked to create a screen name, please do not use your real name. Try to think of something special and different that you'll be able to remember. We will not use this information to contact you, only to make your time on the Network easier. 
+Basics 4 Life produced this privacy policy in an effort to demonstrate its firm commitment to privacy. The following discloses the information gathering and dissemination practices of the Basics 4 Life Website Network. 
 
-As with most sites, certain non-personally identifiable information is recorded by the standard operation of our server. Such information may include: the name of the ISP from which you access the Internet, the date and time you accessed the Network, the Internet address of the Web site from which you entered our Network and where you've gone after leaving. This information is used to measure and monitor the use of our web sites and to improve their content. Data that would personally identify a visitor is known only when voluntarily submitted. 
+Basics 4 Life believes in all Internet users' rights to privacy. Basics 4 Life does not engage in any form of distribution or sale of Personally Identifiable information to third parties for their own promotional use, including but not limited to, names, email/postal addresses, and phone numbers. All information collected by the Basics 4 Life Website Network is not personally identifiable as it relates to consumers, nor does Basics 4 Life engage in any form of consumer profiling. 
 
-**Use Of Information**  
-Email addresses that are submitted will only be used for the purpose stated when submitted. 
+**Cookies**
 
-We may also use email addresses for internal Network administration purposes, to respond to specific inquiries initiated by visitors, and to comply with a law or legal action as directed by a court, regulatory agency or other entity acting with governmental authority. 
+A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computer and stored on your computer's hard drive. 
 
-**Cookies**  
-Cookies are small pieces of information stored on your computer which may be used to access information relating to your past use of the Network. The Basic Music Network does not store any personal information in cookies. Our cookies simply contain a unique number for each member that identifies who is visiting our website. The information that the cookie number relates to is what we have gathered from visitors. The cookie number does not relate to any kind of personal tracking, surfing, browsing, clicks, etc. Some features of the Basics 4 Life Network may not function properly if you disable cookies in your browser. Most Internet browsers include preference settings that allow visitors to be notified and control whether cookies are transferred to their computers. Please review your browser's documentation or "help" feature for more information on that functionality. 
+Our advertising networks use cookies for the purposes of tracking when an Internet user has seen an advertisement. These cookies do not and will not provide our advertisers with any Personally Identifiable information. Instead, these cookies are used to inform the ad network if an advertisement has been served to the same computer before, and if so, when the advertisement was served. 
 
-**Security**  
-The Basics 4 Life Network uses industry standard security measures to protect against the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will try our best to make sure that your transmissions to and from the Site are kept secure. 
+We use both session and persistent cookies on our websites. These are needed for site navigation and aggregate analysis of what is viewed on our site. 
 
-**Links**  
-The content of the Basics 4 Life Network is designed to be family friendly. In addition to our own content, we also provide links to many other sites. We do screen the other sites initially, but in the end, we cannot be responsible for what appears on other sites. We are also not responsible for the privacy policies of those other sites. 
+**Opt-Out**
 
-**Contacting Us**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+Internet users have the option to block the use of cookies by changing an Internet browser setting. In addition, users have the option to block the use of JavaScript, which is used by the Basics 4 Life Website Network to display advertisements. For more information, please see the documentation regarding your Internet browser. 
 
-Basics 4 Life  
-110 Northwestern  
-Spring Valley, IL  
-USA  
-privacy@basics4life.com
+**Collection and Use of Non-Personally Identifiable Information**
 
-© 2002 Basics 4 Life, All Rights Reserved
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
 
-Thanks, and we hope your visit to the Basics 4 Life Network is fun, safe and enjoyable! 
+Information collected by advertisers on their websites may contain Personally Identifiable information. However, data such as this is provided by the individual Internet user in the form of online order forms, contests, or otherwise through the advertiser website, not Basics 4 Life. This Personally Identifiable information collected outside the Basics 4 Life Website Network is subject to the privacy policies of the individual advertisers involved. 
+
+**Links to other Sites**
+
+This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. 
+
+**Changes to This Privacy Policy**
+
+Basics 4 Life may find it necessary to update this Privacy Policy from time to time. Any changes will be posted at this site. Except as otherwise required by law, any modifications made to this Privacy Policy will not materially affect the privacy of data collected by Basics 4 Life prior to the effective date of the policy change. 
