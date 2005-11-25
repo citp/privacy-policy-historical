@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the gosection8.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404101455id_/http%3A//www.gosection8.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosection8.com privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125095502id_/http%3A//www.gosection8.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Affordable Housing Network, LLC  
-(“www.GOsection8.com”)  
-Privacy Policy
 
 [www.GOsection8.com](http://www.gosection8.com/) has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
 
@@ -38,5 +34,3 @@ From time to time [www.GOsection8.com](http://www.gosection8.com/) sponsors onli
 
 **Disclaimer**  
 If this site contains links to other sites. [www.GOsection8.com](http://www.gosection8.com/) is not responsible for the content or privacy practices of these sites.
-
-Close
