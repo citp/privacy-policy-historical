@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footlocker-europe.com privacy policy that was archived on 2005-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050511032701id_/http%3A//www.footlocker-europe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlocker-europe.com privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125080416id_/http%3A//www.footlocker-europe.com/privacy) for the most accurate reproduction.*
 
 # Foot Locker Europe: Privacy
 
