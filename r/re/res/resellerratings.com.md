@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406024816id_/http%3A//www.resellerratings.com/statement.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125042237id_/http%3A//resellerratings.com/statement.pl) for the most accurate reproduction.*
 
 # ResellerRatings Customer Ratings and Reviews and Price Comparison Shopping
 
@@ -12,7 +12,7 @@ In order to demonstrate our commitment to your privacy, we have prepared this st
 
 ResellerRatings.com collects certain information from and about its users in three ways -- directly from the user, from our Web server logs, and with cookies. 
 
-User-Supplied Information: When you register for ResellerRatings.com, we may ask you for your name, email address, and some other personal information. The more accurate information you volunteer, the better we are able to customize your ResellerRatings.com experience. 
+User-Supplied Information: When you register for ResellerRatings.com, we may ask you for your name, email address, invoice numbers pertaining to online transactions, and some other personal information. The more accurate information you volunteer, the better we are able to customize your ResellerRatings.com experience. 
 
 Server Log Information: When you visit an Internet Web site, you disclose certain information about yourself, such as your Internet Protocol (IP) address, the time of your visit, and the referring location (e.g., the Site or page that offered a link to a ResellerRatings.com page). All Enthusiast, Inc.'s ResellerRatings.com, like many other sites, records this basic information about visits to its site. 
 
@@ -32,6 +32,8 @@ Cookies: We use cookies to let you use our services more easily and to let us ke
 
 Your Email Address: We use your email address to send you information about your ResellerRatings account, such as your username and password, and confirmations of reviews that you have submitted to the site. From time to time, we may email you to let you know about new site features no more frequently than once per month but generally only a few times per year. Your email address is never sold or otherwise provided to a 3rd party.
 
+Invoice Numbers: When you submit a review of an online merchant to ResellerRatings.com, we ask you to provide an invoice number for your transaction with that merchant as evidence that you did indeed enter into a transaction with that merchant. Merchants have the ability to login to ResellerRatings to view invoice numbers submitted to our site by their customers for any given review of that merchant. Therefore any invoice number that you submit to our website is visible to the merchant to whom your review pertains, but not to any other merchants or users of our website.
+
  **How We Protect Your Information:**
 
 The privacy and protection of your personal information is vitally important to us. ResellerRatings.com does not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding your ResellerRatings.com usage are provided in the aggregate only and do not include any personally identifiable information about any individual user. 
@@ -44,7 +46,7 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be 10
 
 Except as described below, All Enthusiast, Inc.'s ResellerRatings.com will not willfully disclose any individually identifiable information about its users to any third party without first receiving that user's permission. All Enthusiast, Inc.'s ResellerRatings.com may disclose personal information when we believe in good faith that the law requires it or to protect the rights or property of All Enthusiast, Inc.'s ResellerRatings.com. All Enthusiast, Inc.'s ResellerRatings.com will use its best efforts to contact you if All Enthusiast, Inc. is issued a subpoena or other legal process that requests your identity. 
 
-When you are at the ResellerRatings.com site and asked for personal information, you share that information with ResellerRatings.com alone, unless the service is offered in conjunction with another party. For example, some ResellerRatings.com services, such as our online store, are offered in conjunction with another company. In order to provide such co-branded services to you, it is necessary for us to share your personal information with the company offering the co-branded service. If you do not want your data to be shared, you can choose not to allow the transfer of data by not using that particular service. If you choose to share your data with a provider of a co-branded service, you should understand that those providers may have separate privacy and data collection practices. All Enthusiast, Inc. has no control over and accepts no liability for these independent practices. Each provider shouldmore information regarding its privacy and/or use policies. 
+When you are at the ResellerRatings.com site and asked for personal information, you share that information with ResellerRatings.com alone, unless the service is offered in conjunction with another party. For example, some ResellerRatings.com services are offered in conjunction with another company. In order to provide such co-branded services to you, it is necessary for us to share your personal information with the company offering the co-branded service. If you do not want your data to be shared, you can choose not to allow the transfer of data by not using that particular service. If you choose to share your data with a provider of a co-branded service, you should understand that those providers may have separate privacy and data collection practices. All Enthusiast, Inc. has no control over and accepts no liability for these independent practices. Each provider shouldmore information regarding its privacy and/or use policies. 
 
 **Third Party Advertising:**
 
