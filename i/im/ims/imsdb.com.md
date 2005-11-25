@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2005-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050415140330id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125041328id_/http%3A//imsdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Script Database (IMSDb)
 
+  
   
 | Alphabetical   
 ---  
@@ -11,22 +12,39 @@
   
 Genre   
 ---  
-[Action ](https://web.archive.org/genre/Action) | [Adventure](https://web.archive.org/genre/Adventure) | [Animation](https://web.archive.org/genre/Animation)  
+[Action](https://web.archive.org/genre/Action) | [Adventure](https://web.archive.org/genre/Adventure) | [Animation](https://web.archive.org/genre/Animation)  
 [Comedy](https://web.archive.org/genre/Comedy) | [Crime](https://web.archive.org/genre/Crime) | [Drama](https://web.archive.org/genre/Drama)  
-[Family](https://web.archive.org/genre/Family) | [Fantasy](https://web.archive.org/genre/Fantasy) | [Film-Noir ](https://web.archive.org/genre/Film-Noir)  
+[Family](https://web.archive.org/genre/Family) | [Fantasy](https://web.archive.org/genre/Fantasy) | [Film-Noir](https://web.archive.org/genre/Film-Noir)  
 [Horror](https://web.archive.org/genre/Horror) | [Musical](https://web.archive.org/genre/Musical) | [Mystery](https://web.archive.org/genre/Mystery)  
-[Romance](https://web.archive.org/genre/Romance) | [Sci-Fi ](https://web.archive.org/genre/Sci-Fi) | [Short](https://web.archive.org/genre/Short)  
+[Romance](https://web.archive.org/genre/Romance) | [Sci-Fi](https://web.archive.org/genre/Sci-Fi) | [Short](https://web.archive.org/genre/Short)  
 [Thriller](https://web.archive.org/genre/Thriller) | [War](https://web.archive.org/genre/War) | [Western](https://web.archive.org/genre/Western)  
-   
   
-Other sites  
   
+Movie Software   
 ---  
-[](http://movies.entertainzones.com/)  
-[](http://www.awesomefilm.com/)  
-[](http://www.themegahitmovies.com/ "Story design for creating popular Hollywood movies.")  
-[](http://www.aullidos.com/)  
-[](http://www.fortheretarded.com/)  
+[DVD Ripper](https://web.archive.org/software/dvd-ripper)  
+  
+Latest Comments   
+---  
+[Wizard of Oz, The](https://web.archive.org/Movie%20Scripts/Wizard%20of%20Oz,%20The%20Script.html)| 10/10  
+[Constantine](https://web.archive.org/Movie%20Scripts/Constantine%20Script.html)| 7/10  
+[Finding Nemo](https://web.archive.org/Movie%20Scripts/Finding%20Nemo%20Script.html)| 10/10  
+[Nightmare Before Christmas, The](https://web.archive.org/Movie%20Scripts/Nightmare%20Before%20Christmas,%20The%20Script.html)| 6/10  
+[Napoleon Dynamite](https://web.archive.org/Movie%20Scripts/Napoleon%20Dynamite%20Script.html)| 1/10  
+  
+Other sites   
+---  
+  
+[](http://www.avatarist.com/ "Forum Avatars")  
+[Forum Avatars](http://www.avatarist.com/ "Forum Avatars")  
+  
+  
+[](https://web.archive.org/ext.php?id=9992)  
+[](https://web.archive.org/ext.php?id=9993)  
+[](https://web.archive.org/ext.php?id=9999)  
+[](https://web.archive.org/ext.php?id=9998)  
+[](https://web.archive.org/ext.php?id=9995)  
+[](https://web.archive.org/ext.php?id=9994)  
 | 
 
 **_Privacy Policy_**  
