@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the ondotnet.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403212519id_/http%3A//www.ondotnet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondotnet.com privacy policy that was archived on 2005-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051126185210id_/http%3A//www.ondotnet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
 # O'Reilly Network: Privacy Policy
 
 |  |   
-|    | [](https://web.archive.org/lpt/a/14 "Go to a print-friendly version of this page.")| [Print](https://web.archive.org/lpt/a/14 "Go to a print-friendly version of this page.")  
+|  [Print](https://web.archive.org/lpt/a/14 "Go to a print-friendly version of this page.")  
+|     |   
 ---|---|---  
-[](mailto:?subject=Privacy%20Policy&body=http://www.oreillynet.com/pub/a/mediakit/privacy.html "Send a link to this article to a friend.")| [Email article link](mailto:?subject=Privacy%20Policy&body=http://www.oreillynet.com/pub/a/mediakit/privacy.html "Send a link to this article to a friend.")  
-[](https://web.archive.org/pub/a/mediakit/privacy.html?page=last#trackbacks "Trackbacks")| [Trackbacks](https://web.archive.org/pub/a/mediakit/privacy.html?page=last#trackbacks "View trackbacks for this article.")  
-[](http://www.oreillynet.com/cs/user/print/a/14?x-t=blog_this.view "Get info to copy for a weblog post.")| [Blog this](http://www.oreillynet.com/cs/user/print/a/14?x-t=blog_this.view "Get info to copy for a weblog post.")  
+   
+[Bookmark with del.icio.us](http://del.icio.us/post?url=http%3A%2F%2Fwww.oreillynet.com%2Fpub%2Fa%2Fmediakit%2Fprivacy.html&title=Privacy%20Policy)  
+   
   
 ## O'Reilly Media Privacy Policy
 
@@ -80,14 +81,14 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 
 ### How to update, correct, or delete your information
 
-**Email** : To update or unsubscribe from our email newsletters or product announcements, go to elists.oreilly.com. To get help from a human, send email to [help@oreillynet.com](mailto:help@oreillynet.com?subject=) or call 800-998-9938 or 707-829-0515. 
+**Email** : To update or unsubscribe from our email newsletters or product announcements, go to [elists.oreilly.com](http://elists.oreilly.com/). To get help from a human, send email to [help@oreillynet.com](mailto:help@oreillynet.com?subject=) or call 800-998-9938 or 707-829-0515. 
 
 **Snailmail** : To change your address, delete your name from our mailing list (for paper catalogs or brochures) or to opt-out of third-party mail, send email to [catalog@oreilly.com](mailto:catalog@oreilly.com?subject=) or call 800-998-9938 or 707-829-0515.
 
   
 | 
 
-**Sponsored by:**
+Sponsored by:
 
   
 
