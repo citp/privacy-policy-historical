@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2005-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050316040641id_/http%3A//www.nshss.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2005-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051126104827id_/http%3A//www.nshss.org/privacy.asp) for the most accurate reproduction.*
 
 # The National Society of High School Scholars
 
