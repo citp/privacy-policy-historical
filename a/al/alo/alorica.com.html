@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alorica.com privacy policy that was archived on 2004-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208033402id_/http%3A//www.alorica.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alorica.com privacy policy that was archived on 2005-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051126115725id_/http%3A//www.alorica.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- TemplateBeginEditable name="doctitle" --> 
@@ -14,7 +14,12 @@ function MM_swapImgRestore() { //v3.0
 }
 
 function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+  var d=document; 
+    da = new Date();
+  yr = da.getYear();
+  document.all["currentyear"].innerText = yr + " ";
+  document.all["currentyr"].innerText = yr + " ";
+  if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
@@ -445,7 +450,7 @@ function mmLoadMenus() {
                     this Privacy Policy to ensure that you are aware of any such 
                     amendments, modifications, updates, changes or additional 
                     terms to which you are bound. </p>
-                                    <p style="margin-top: 0">Copyright © 1998 - 2004 Alorica 
+                                    <p style="margin-top: 0">Copyright © 1998 - <font id="currentyear">120 </font> Alorica 
                     Inc.® All Rights Reserved<br>
                     <br>
                   </p></td>
@@ -557,7 +562,7 @@ function mmLoadMenus() {
         <a href="helix.html">Helix</a> | <a href="alorica_network.html">The Alorica 
         Network</a> | <a href="news.html">News</a> | <a href="http://jobs.alorica.icims.com/jobs/candidate/intro.jsp">Careers</a> 
         | <a href="contact.html">Contact Us</a></p>
-            <p style="margin-top: 0">Copyright © 1998 - 2004 Alorica Inc. All Rights 
+            <p style="margin-top: 0">Copyright © 1998 - <font id="currentyr">120 </font> Alorica Inc. All Rights 
         Reserved <br>
         <a href="privacy.html">Privacy Statement </a> | <a href="terms.html">Terms 
         &amp; Conditions</a></p></td>
