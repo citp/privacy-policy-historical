@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullhyderabad.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204180627id_/http%3A//www.fullhyderabad.com/htdocs/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullhyderabad.com privacy policy that was archived on 2005-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051126035741id_/http%3A//www.fullhyd.com/htdocs/privacy.phtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,6 +86,12 @@ All sites that are customizable require that you accept cookies. You also must a
 To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel. 
 
 Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties. 
+
+**IN WHAT WAYS CAN THIRD PARTY ADVERTISING WORK?**
+
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit this link: http://www.maxonline.com/privacy_policy/index.php
+
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
 
 **HOW CAN YOU CORRECT INACCURACIES IN THE INFORMATION?**
 
