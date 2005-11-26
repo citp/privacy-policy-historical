@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beestar.org privacy policy that was archived on 2005-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050414193241id_/http%3A//www.beestar.org/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beestar.org privacy policy that was archived on 2005-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051126135222id_/http%3A//beestar.org/general/privacy.jsp) for the most accurate reproduction.*
 
 # Beestar.org - Privacy Policy
 
@@ -7,7 +7,7 @@
 | Last updated March 1, 2004  
 ---|---  
   
-Beestar Educations provides high quality educational programs to grade school students. Beestar is also committed to the privacy and security of our customers. This policy statement tells you how we use the information collected from you. We require all users read and agree our privacy policy before using Beestar services. 
+Beestar Educations provides online educational programs to grade school students. Beestar is committed to the privacy and security of our users. This policy statement tells you how we use the information collected from you. We require all users read and agree our privacy policy before using Beestar services. 
 
 **Parent Permission**
 
@@ -47,4 +47,4 @@ Beestar periodically reviews and enhances this Privacy Policy as necessary. This
 
 **Your Acceptance of These Terms**
 
-By using Beestar sites, you signify your consent to the Beestar's Privacy Policy. If you do not agree to this, please do not use our web sites or services. Your continued use of Beestar web sites or services following the posting of changes to these terms will mean you accept those changes in accordance with our [Terms of Use](https://web.archive.org/web/20050414193241id_/http%3A//www.beestar.org/general/term.jsp). 
+By using Beestar sites, you signify your consent to the Beestar's Privacy Policy. If you do not agree to this, please do not use our web sites or services. Your continued use of Beestar web sites or services following the posting of changes to these terms will mean you accept those changes in accordance with our [Terms of Use](https://web.archive.org/web/20051126135222id_/http%3A//beestar.org/general/term.jsp). 
