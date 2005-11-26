@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alorica.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208033402id_/http%3A//www.alorica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alorica.com privacy policy that was archived on 2005-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051126115725id_/http%3A//www.alorica.com/privacy.html) for the most accurate reproduction.*
 
 # Alorica - Privacy Policy
 
@@ -60,4 +60,4 @@ Our Website contains links to other Websites. Alorica Inc.® is not responsible 
 **Updates and Changes To This Privacy Policy**  
 We reserve the right to amend, modify, update, change or add to this Privacy Policy at any time and without notice by posting such amendments, modifications, updates, changes or additions on our Website. All such amendments, modifications, updates, changes or additions will automatically go into effect after posting on our Website. We encourage you to periodically review this Privacy Policy to ensure that you are aware of any such amendments, modifications, updates, changes or additional terms to which you are bound. 
 
-Copyright © 1998 - 2004 Alorica Inc.® All Rights Reserved
+Copyright © 1998 - 120  Alorica Inc.® All Rights Reserved
