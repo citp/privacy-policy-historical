@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610090629id_/http%3A//www.fullcompass.com/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2005-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051126163833id_/http%3A//www.fullcompass.com/terms/privacy.aspx) for the most accurate reproduction.*
 
 # Full Compass Systems - Privacy Statement
 
