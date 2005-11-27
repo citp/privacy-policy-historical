@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the calastrology.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628001246id_/http%3A//www.calastrology.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calastrology.com privacy policy that was archived on 2005-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051127133359id_/http%3A//calastrology.com/privacypolicy.html) for the most accurate reproduction.*
 
 # California Astrology Association Privacy Policy
 
+|    
+|  We are a Yahoo! Store Merchant. Our website is hosted by Yahoo! Store. We strictly adhere to Yahoo!'s [Yahoo! Store Guidelines](http://store.yahoo.com/guide.html) and [Terms of Service](http://store.yahoo.com/terofser.html). 
+
+Yahoo! Store currently hosts over 24,000 different e-commerce sites. It's the industry leader, and is dependable, safe, and trustworthy.   
   
-We are a Yahoo! Store Merchant. Our website is hosted by Yahoo! Store. We strictly adhere to Yahoo!'s [Merchant Guidelines](http://shopping.yahoo.com/store/shoppingguidelines.html) and [Terms of Service](http://store.yahoo.com/terofser.html). 
-
-Yahoo! Store currently hosts over 24,000 different e-commerce sites. It's the industry leader, and is dependable, safe, and trustworthy. 
-
+---|---  
   
 Any transaction you make with us is completely secure. The credit card and ordering information you provide to us when purchasing our products or services are protected by Yahoo!'s secure servers, using industry-standard SSL encryption. This ensures that your personal information is kept confidential as it travels over the internet. 
 
@@ -14,14 +15,14 @@ Additionally, we use a service called ScanAlert, which continually monitors our 
 
 [](https://scanalert.com/RatingVerify?ref=www.calastrology.com)
 
-Of course, you can always order from us by [ mail or fax](https://web.archive.org/web/20050628001246id_/http%3A//www.calastrology.com/info.html). 
+Of course, you can always order from us by [ mail or fax](https://web.archive.org/web/20051127133359id_/http%3A//calastrology.com/info.html). 
 
   
 Sometimes we may make our mailing list (name & postal address) available to carefully chosen companies whose unique offers may be of interest to you. Although we may group our mailing list by clients who bought similar products, we never release credit card, financial, or personal information to any companies or other organizations. **We will never share your email address with anyone.**
 
-If you prefer that we not include your **name and address** when we share our client list with selected companies, please [click here](https://web.archive.org/web/20050628001246id_/http%3A//www.calastrology.com/contact.html) to use our online contact form. 
+If you prefer that we not include your **name and address** when we share our client list with selected companies, please [click here](https://web.archive.org/web/20051127133359id_/http%3A//calastrology.com/contact.html) to use our online contact form. 
 
-If you would like to be removed from our **email** newsletter mailing list, please [click here](https://web.archive.org/web/20050628001246id_/http%3A//www.calastrology.com/unsubscribe.html). 
+If you would like to be removed from our **email** newsletter mailing list, please [click here](https://web.archive.org/web/20051127133359id_/http%3A//calastrology.com/unsubscribe.html). 
 
 **Additional information from Yahoo!**
 
