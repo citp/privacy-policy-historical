@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpapers.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630003851id_/http%3A//www.freeze.com/snow/info/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapers.com privacy policy that was archived on 2005-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051129033856id_/http%3A//www.freeze.com/snow/info/policy.shtml) for the most accurate reproduction.*
 
 # F r e e z e . c o m : A new degree of free.
 
