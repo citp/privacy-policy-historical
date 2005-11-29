@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the baekdal.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403222622id_/http%3A//www.baekdal.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baekdal.com privacy policy that was archived on 2005-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051129115904id_/http%3A//www.baekdal.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Baekdal.com
+
+_We are currently testing Google Analytics on this site. This means that you IP-address, screen resolution, type browser and operating systems are sent to Google (all the normal statistics stuff). See Google's[Privacy Policy](http://www.google.com/intl/en/privacy.html) _
 
 Baekdal.com fully respects your privacy. That is why we have created this privacy policy to explain what information we collect, why we do it, and how we use it. 
 
