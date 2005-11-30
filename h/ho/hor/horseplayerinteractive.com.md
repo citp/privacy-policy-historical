@@ -1,10 +1,33 @@
-> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607050009id_/http%3A//www.woodbineentertainment.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2005-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051130233557id_/http%3A//www.horseplayerinteractive.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# HorsePlayer Interactive | Privacy Policy
 
-**Privacy Policy**
+  
+[ ](http://www.hpibet.com/)  
+[](https://web.archive.org/web/20051130233557id_/http%3A//www.horseplayerinteractive.com/hpitv_welcome.asp)  
+[](https://hpifund.horseplayerinteractive.com/)  
+  
+[ ](https://web.archive.org/web/20051130233557id_/http%3A//www.horseplayerinteractive.com/login.asp)  
+[](https://web.archive.org/web/20051130233557id_/http%3A//www.horseplayerinteractive.com/join_horseplayer.asp)  
+[ ](https://web.archive.org/web/20051130233557id_/http%3A//www.horseplayerinteractive.com/services-internet.asp)  
+[ ](https://web.archive.org/web/20051130233557id_/http%3A//www.horseplayerinteractive.com/hpirewards.asp)  
+[ ](https://web.archive.org/web/20051130233557id_/http%3A//www.horseplayerinteractive.com/schedules.asp)  
+[ ](https://web.archive.org/web/20051130233557id_/http%3A//www.horseplayerinteractive.com/ivrcodes.asp)  
+[ ](https://web.archive.org/web/20051130233557id_/http%3A//www.horseplayerinteractive.com/newsletter_menu.asp)  
+  
+[ ](http://www.equibase.com/scratch/wos.cfm)  
+[ ](http://www.equibase.com/scratch/wot.cfm)  
+  
+[ ](https://web.archive.org/web/20051130233557id_/http%3A//www.horseplayerinteractive.com/corporate.asp)  
+[ ](https://web.archive.org/web/20051130233557id_/http%3A//www.horseplayerinteractive.com/contact.asp)  
+[ ](https://web.archive.org/web/20051130233557id_/http%3A//www.horseplayerinteractive.com/sitemap.asp)  
 
-This Privacy Policy was last revised January 19, 2004 
+
+[](http://www.woodbineentertainment.com/)
+
+|  | 
+
+****** **This Privacy Policy was last revised January 19, 2004 
 
 Woodbine Entertainment Group ("we" or "our") offers a range of racing, gaming and entertainment products, which are available across North America and worldwide through our various Internet sites.
 
@@ -102,6 +125,7 @@ You may decline to provide us with your Personal Information. However, this choi
 Withdrawing Consent  
 You may withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice. If you wish to withdraw your consent we will inform you of the implications. To withdraw your consent, simply contact us and tell us of the Personal Information which you no longer wish us to collect, use and/or disclose. See below for contact details.
 
+  
 Security and Disclosure of Your Personal Information  
 We recognize your concerns about the security of the Personal Information which you provide to us. Our processes and procedures keep your Personal Information safe and secure. We have different safeguards in place (physical, technological and organizational).
 
@@ -132,7 +156,7 @@ If we are unable to provide you with access to your Personal Information, we wil
 Updating your Personal Information  
 We are committed to maintaining the accuracy of your Personal Information. To help us keep your Personal Information up-to-date we encourage you to notify us of inaccuracies or corrections. Timely notification of a change of address or telephone number helps us in providing you with the best possible service. You can contact us via our Web Site @ [www.woodbineentertainment.com](http://www.woodbineentertainment.com/) or telephone our call centre at (416-675-8886).
 
-We reserve the right to amend this Privacy Policy at any time. If we decides to amend this Privacy Policy, we will provide you with notice of such amended terms [by posting on our Web Site]  so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. All amended terms shall be effective immediately upon such notice.
+We reserve the right to amend this Privacy Policy at any time. If we decides to amend this Privacy Policy, we will provide you with notice of such amended terms [by posting on our Web Site] so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. All amended terms shall be effective immediately upon such notice.
 
   
 Contact Us  
@@ -148,13 +172,7 @@ Please write or e-mail:
 > [privacy@woodbineentertainment.com](mailto:privacy@woodbineentertainment.com)
 
 ____________________________________________________________________  
-For more information on the Woodbine Entertainment Group's commitment to privacy, contact the Woodbine Entertainment Group through our website: [www.WoodbineEntertainment.com](http://www.woodbineentertainment.com/)
-
-For copies of the CSA Model Code for the Protection of Personal Information contact the Canadian Standards Association or visit their Website at [www.csa.ca](http://www.csa.ca/)
-
-For copies of the Personal Information Protection and Electronic Documents Act (PIPEDA) contact the Department of Justice or visit 
-
-[http://laws.justice.gc.ca](http://laws.justice.gc.ca/)  
+  
 
 
- 
+| 
