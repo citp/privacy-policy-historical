@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the a9.com privacy policy that was archived on 2005-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050624003657id_/http%3A//a9.com/-/company/privacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the a9.com privacy policy that was archived on 2005-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051201185516id_/http%3A//a9.com/-/company/privacypolicy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -19,6 +19,7 @@
   var a9IsSafari = false;
   var a9IsOpera = false;
   var a9IsWindows = false;
+  var a9IsMac = false;
   var a9VersionMajor = 0;
   var a9VersionMinor = 0;
   var A9IMAGES = "http://static.a9.com/-/static/images";
@@ -31,7 +32,7 @@
 </script>
 
 
-<link href="http://static.a9.com/-/static/css/a9-sky-medium9.css" type="text/css" rel="stylesheet">
+<link href="http://static.a9.com/-/static/css/a9-sky-mediumb.css" type="text/css" rel="stylesheet">
 
 
 <title>A9.com &gt; Company &gt; Privacy Policy</title>
@@ -42,43 +43,41 @@
 
 <body>
 
-
-
-
-
-
-
-
 <form method="get" action="http://a9.com/" onsubmit="return submitSearch(this)" name="sf" id="sf">
+
   <table width="100%" border="0">
 	<tbody><tr> 
 	  <td valign="top" align="left"> <table height="40" border="0" cellpadding="0" cellspacing="0">
 		  <tbody><tr> 
-			<td><a href="http://a9.com"><img src="http://static.a9.com/-/static/images/logo-a9.gif" alt="A9.com" width="45" height="40" border="0"></a></td>
+			<td nowrap=""><a href="http://a9.com"><img src="http://static.a9.com/-/static/images/logo-a9.gif" alt="A9.com" width="45" height="40" border="0"></a><a href="/-/company/whatsNew.jsp"></a>
+
+                    </td>
 		  </tr>
 		</tbody></table></td>
 	  <td width="100%" nowrap="">
 <table width="100%" border="0">
   <tbody><tr> 
-
-			<td nowrap="nowrap"><strong>&nbsp;Search:</strong> 
+			<td nowrap="nowrap"><strong>&nbsp;Search:&nbsp;</strong> 
 			</td>
 
-	<td width="100%" align="left"> <input style="width:100%;" type="text" name="q" id="SEARCH" size="75" value=""> 
 
-	</td>
+	<td id="qtd" width="100%" align="left"> <input style="width:100%;" type="text" class="text" name="q" id="SEARCH" size="75" value=""></td>
+        <td id="ypsep" valign="middle" nowrap="true" style="display:none"><img src="http://static.a9.com/-/static/images/shim.gif" alt="" width="15" height="1">Near:<img src="http://static.a9.com/-/static/images/shim.gif" alt="" width="5" height="1"></td>
+        <td id="yptd" width="65%" valign="middle" nowrap="true" style="display:none"><input name="ypLoc" autocomplete="off" type="text" class="text" id="ypLoc" style="width:90%"></td>
 	<td> <input type="submit" class="button" value=" GO " align="middle" border="0"> 
 	</td>
   </tr>
-
   <tr>
-	<td nowrap="nowrap"></td>
-	<td align="left"><a class="small" href="/-/search/advSearch">Advanced Search</a></td>
-	<td></td>
-  </tr>
+    <td></td>
 
+    <td align="left"><a class="small" href="/-/search/advSearch">Advanced Web Search</a> </td>
+
+    <td></td>
+    <td id="yphint" style="display:none"><span class="about">Full Address, or just City &amp; State, or just Zip</span></td>
+  </tr>
 </tbody></table> 
 	  </td>
+	  <td width="15"><img src="http://static.a9.com/-/static/images/shim.gif" alt="" width="30" height="25"></td>
 	  <td valign="top" nowrap=""> <table border="0" cellspacing="0" cellpadding="0">
 		  <tbody><tr align="right"> 
 			<td><table border="0" cellspacing="0" cellpadding="5">
@@ -92,7 +91,7 @@
 					
 					| 
 
-<a href="http://a9.com/-/sign-in/SignIn.jsp">Sign In</a> 
+<a href="http://a9.com/-/sign-in/a9SignIn.jsp?ss=1" onclick="return newlink()">Sign In</a> 
 					
 					
 				  </td>
@@ -105,7 +104,7 @@
 		  <tr align="right"> 
 			<td nowrap="" class="std"> 
 			  
-			  Hello, <span class="small"><a href="http://a9.com/-/sign-in/SignIn.jsp">sign in</a> to 
+			  Hello, <span class="small"><a href="http://a9.com/-/sign-in/a9SignIn.jsp?ss=1">sign in</a> to 
 			  enable site features.</span> 
 			  
 			</td>
@@ -113,12 +112,13 @@
 		</tbody></table></td>
 	</tr>
   </tbody></table>
+
 </form>
+
 <script language="javascript">
 <!--
 
   function fixUrl(u) {return u;}
-
 function getSearchUrl(value) {
   if (value == "robots.txt" || value == "favicon.ico" || value == "siteinfo.xml") {
     value = '"' + value + '"';
@@ -130,22 +130,20 @@ function getSearchUrl(value) {
   }
   return fixUrl("http://a9.com/" + value);
 }
-
 function submitSearch(form) {
   var value = form.q.value;
   if (value) {
-
     location.href = getSearchUrl(value);
-
   }
   return false;
 }
-
-
+function newlink(){ 
+  window.location.href = "http://a9.com/-/sign-in/a9SignIn.jsp?ss=1&url=" + document.location.href; 
+  return false; 
+}
 
 //-->
 </script>
-
 
 
 
@@ -274,15 +272,17 @@ function submitSearch(form) {
 
 <br>
 
-<center style="clear: both;">
-  <p class="fn"><a href="/-/company/">About Us</a> |
-       <a href="http://opensearch.a9.com/">OpenSearch</a> |
 
+<span style="display:none" id="_pinf" rid="A867ABB528D263B6"></span>
+
+<center style="clear: both;">
+  <p class="fn"><b>Our other services</b>: <a href="http://yp.a9.com">A9 Yellow Pages</a> | <a href="http://maps.a9.com">A9.com Maps</a></p><br>
+  <p class="fn"><a href="/-/company/">About Us</a> |
+       <a href="/-/company/whatsNew.jsp">What’s New</a> |
 	 <a href="/-/company/media/index.jsp">Media</a> | <a href="/-/company/jobs.jsp"><b>Jobs</b></a> | <a href="http://a9.com/-/feedback/A9">Feedback</a> | <a href="/-/company/help.jsp">Help</a>
-</p>
+<br><a href="/-/company/help/webmasters.jsp"> Webmasters &amp; Developers</a> | <a href="http://opensearch.a9.com/">OpenSearch</a> </p>
   <p class="small">&nbsp;</p>
-  <p class="small">© 2003-2005, A9.com, Inc. or its affiliates.<br>
-  <a href="/-/company/tou.jsp">Conditions of Use</a> | <a href="/-/company/privacypolicy.jsp">Privacy Policy</a></p>
+  <p class="small"><a href="/-/company/tou.jsp">Conditions of Use</a> | <a href="/-/company/privacypolicy.jsp">Privacy Policy</a> © 2003-2005, A9.com, Inc. or its affiliates.</p>
   <p class="small">&nbsp;</p>
   <p><a href="http://www.amazon.com/exec/obidos/redirect?tag=amzna9-1-20"><img src="http://static.a9.com/-/static/images/amazon-company.gif" alt="An Amazon.com Company" border="0" width="160" height="21"></a></p>
 </center>
