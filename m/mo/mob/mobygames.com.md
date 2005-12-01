@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the mobygames.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305013017id_/http%3A//www.mobygames.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobygames.com privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201112820id_/http%3A//www.mobygames.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+All Games
+
+* * *
 
 | 
 
@@ -85,8 +89,8 @@ Users of our site are always notified when their information is being collected 
 MobyGames uses various Ad Networks to resell unsold advertising inventory. Please be aware that we MobyGames are not responsible for the privacy practices of such other Advertising Networks. This privacy statement applies solely to information collected by this Web site. We encourage our users to be aware that these Advertising Networks may have different privacy policies than MobyGames and to read the privacy statements of each and every web site that collects personally identifiable information.   
 
 
-* [ValueClick Privacy Statement](http://www.valueclick.com/privacy.html "ValueClick Privacy Statement")
-
 ## Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.   
+  
+---|---
