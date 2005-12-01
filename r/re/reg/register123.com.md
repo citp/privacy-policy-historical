@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the register123.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305044321id_/http%3A//www.certain.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register123.com privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201024910id_/http%3A//www.certain.com/privacy.htm) for the most accurate reproduction.*
 
-# Certain Software, Register123 Online Event Registration, Meeting Planner Plus Meeting Management Software.
+# Certain Software - Privacy Statement
 
 We at **Certain Software®** are committed to respecting your online privacy and recognize your need for appropriate protection and management of any Personal Information you share with us.
 
@@ -60,6 +60,9 @@ By using this web site, you consent to the terms of our Privacy Policy and to Ce
 
 #### Changes
 
-Certain Software may from time to time update this Privacy Policy, and the date of any revisions will be stated at the top of this web page. If you have any comments or questions about this Privacy Policy, the practices of this site, or your dealings with this web site, please email us at [info@certain.com](mailto:info@certain.com)
+Certain Software may from time to time update this Privacy Policy, and the date of any revisions will be stated at the top of this web page. If you have any comments or questions about this Privacy Policy, the practices of this site, or your dealings with this web site, please email us at [info@certain.com](mailto:info@certain.com)  
+
 
 Our site contains links to other sites. We do not share or exchange any of your personal information with these sites. In addition, Certain Software is not responsible for the content or policies of these Web sites.
+
+Back to top
