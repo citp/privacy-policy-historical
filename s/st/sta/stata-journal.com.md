@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stata-journal.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404015218id_/http%3A//www.stata-journal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stata-journal.com privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201195915id_/http%3A//www.stata-journal.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
