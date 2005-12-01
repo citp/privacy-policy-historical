@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartparenting.com.ph privacy policy that was archived on 2005-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050411020723id_/http%3A//www.smartparenting.com.ph/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartparenting.com.ph privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201022218id_/http%3A//www.smartparenting.com.ph/about/privacy) for the most accurate reproduction.*
 
 # FemaleNetwork.com | My life. My community.
 
