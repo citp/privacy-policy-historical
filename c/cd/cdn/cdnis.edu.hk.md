@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cdnis.edu.hk privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403140630id_/http%3A//www.cdnis.edu.hk/en/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdnis.edu.hk privacy policy that was archived on 2005-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051202120102id_/http%3A//www.cdnis.edu.hk/en/privacy.jsp) for the most accurate reproduction.*
 
-# CDNIS - Privacy Policy
+# Canadian International School of Hong Kong - Privacy Policy
 
 Thank you for visiting Canadian International School's (CDNIS) web site and for reviewing our privacy policy. We collect no personal information about you unless you choose to provide that information to us. 
 
@@ -101,4 +101,4 @@ Restrictions on the collection and use of identity card copy are similar to that
 
 As a security safeguard, except where it is required or permitted by law to the contrary, a data user shall not keep a copy of an identity card unless it is marked clearly and permanently across the entire image of the identity card with the word "copy" or the Chinese equivalent. A copy of the identity card shall be kept under reasonably secure conditions with access restricted to individuals who need to carry out activities related to permitted use of the copy. 
 
-If you have any questions or comments about the information presented here, please [contact us](https://web.archive.org/web/20050403140630id_/http%3A//www.cdnis.edu.hk/en/contactus.jsp). 
+If you have any questions or comments about the information presented here, please [contact us](https://web.archive.org/web/20051202120102id_/http%3A//www.cdnis.edu.hk/en/contactus.jsp). 
