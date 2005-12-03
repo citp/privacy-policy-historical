@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersentai.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404153415id_/http%3A//www.supersentai.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersentai.com privacy policy that was archived on 2005-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051203130642id_/http%3A//www.supersentai.com/privacy.html) for the most accurate reproduction.*
 
 # Super Sentai - Time Capsule
 
