@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410184337id_/http%3A//www.heartinternet.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2005-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051204152936id_/http%3A//www.heartinternet.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,4 +14,20 @@
 
 6\. In order to process credit/debit card transactions, the bank or card processing agency may require to verify your personal details.
 
-7\. If you have any questions about privacy please contact us at [privacy@heartinternet.co.uk](mailto:privacy@heartinternet.co.uk).
+7\. If you have any questions about privacy please contact us at [sales@heartinternet.co.uk](mailto:sales@heartinternet.co.uk).
+
+[ ](https://web.archive.org/web/20051204152936id_/http%3A//www.heartinternet.com/prices-d.shtml)
+
+The UKs lowest price domains - only from Heart Internet.
+
+[ ](https://web.archive.org/web/20051204152936id_/http%3A//www.heartinternet.com/prices-d.shtml)
+
+Take advantage of the lowest price in the UK and you only have to register for ONE year.
+
+[ ](https://web.archive.org/web/20051204152936id_/http%3A//www.heartinternet.com/reseller-h.shtml)
+
+The UKs fastest growing and most advanced reseller package.
+
+[ ](https://web.archive.org/web/20051204152936id_/http%3A//www.heartinternet.com/technology-h.shtml)
+
+We use only the best hardware and network equipment - find out more.
