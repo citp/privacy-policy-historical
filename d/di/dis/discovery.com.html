@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discovery.com privacy policy that was archived on 2005-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050423141922id_/http%3A//corporate.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discovery.com privacy policy that was archived on 2005-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051204231542id_/http%3A//corporate.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>DCI | Privacy Policy</title>
@@ -236,227 +236,115 @@ All information gathered on any Discovery.com Web site is encrypted or protected
 
 
 <!-- include [ browsertag ] -->
-<script language="JavaScript"><!--
-var s_pageName="" 
-var s_server="" 
-var s_channel="" 
-var s_pageType=""
-var s_prop1="" 
-var s_prop2="" 
-var s_prop3="" 
-var s_prop4="" 
-var s_prop5="" 
-var s_prop6="" 
-var s_prop7="" 
-var s_prop8="" 
-var s_prop9="" 
-var s_prop10="" 
+<!-- include [ intercept ] -->
+<!-- requires [ include (/common/includes/esivariablesV5.html) ] -->
+
+
+
+<!-- end include -->
+
+<!-- JAVASCRIPT [ BROWSERTAGGING ] -->
+<script language="JavaScript" type="text/javascript"><!--
+var s_pageName="",s_server="",s_channel="",s_pageType="";
+var s_prop1="",s_prop2="",s_prop3="",s_prop4="",s_prop5="",s_prop6="",s_prop7="",s_prop8="",s_prop9="",s_prop10="";
 /* Commerce Variables */ 
-var s_campaign=""
-var s_events=""
-var s_eVar1=""
-var s_eVar2=""
-var s_eVar3=""
-var s_eVar4=""
-var s_eVar5=""
-var s_eVar6=""
-var s_eVar7=""
-var s_eVar8=""
-var s_eVar9=""
-var s_eVar10=""
+var s_campaign="",s_events="";
+var s_eVar1="",s_eVar2="",s_eVar3="",s_eVar4="",s_eVar5="",s_eVar6="",s_eVar7="",s_eVar8="",s_eVar9="",s_eVar10="";
 //--></script>
-<script language="JavaScript" type="text/javascript" src="/common/javascript/s_code_remote.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.discovery.com/common/javascript/s_code_remote.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
 function sendAnalyticsEvent(accnt) { accnt=accnt?accnt:s_account;void(s_gs(accnt)); }
 function sendLinkEvent(accnt,lnkname,type) {
 	accnt=accnt?accnt:s_account;s_linkType=type?type:"o";s_lnk=true;
-	s_linkName=lnkname?lnkname:s_linkName?s_linkName:"Flash Link Event";
+	s_linkName=lnkname?lnkname:s_linkName?s_linkName:"Custom Link Event";
 	void(s_gs(accnt))
 }
+function pingTrak(url) { var pt = new Image(); pt.src = url; }
+function OmniView( flashID ) {
+//	s_pageName = dProt + '//' + dHost + dPath;
+	s_prop3 = "";
+	s_prop4 = flashID;
+	s_prop5 = "";
+	sendAnalyticsEvent('',flashID);
+}
 
+function OmniTrak( flashID ) {
+//	s_pageName = dProt + '//' + dHost + dPath;
+	s_prop4 = "";
+	s_prop5 = flashID;
+	sendLinkEvent('',flashID);
+}
+
+function OmniStream( videoURL )
+{
+	s_prop3 = s_prop2 + ":Video Stream";
+	s_prop6 = videoURL;
+	sendLinkEvent("","Flash Video");
+}
 //--></script>
 <!-- End SiteCatalyst code version: G.9. -->
 
-<script type="text/javascript" language="JavaScript"><!--
-function pingTrak(url) { var pt = new Image(); pt.src = url; }
-//--></script>
-
-<!-- begin sm -->
-<script type="text/javascript" language="JavaScript">
-<!--
-var st_type = "type:html";
-var st_media = "media:none";
-var st_content = "";
-var st_extra = st_type + "," + st_media + "," + st_content;
-var st_pg = "";
-var st_ai = st_extra;
-var st_v = 1.0;
-var st_ci = "12";
-var st_di = "d001";
-var st_dd = "st.sageanalyst.net";
-var st_tai = "v:1.2.3";
-
-function sageTrak(ainfo,advcall) {
-	var st_iu=st_rs=st_cd=st_rf=st_us=st_hn=st_qs=st_ce="";
-	var d=document; 
-	var l=location;
-	var n=navigator; 
-	st_ce=n.cookieEnabled;
-
-	st_qs=escape(l.search.substring(1)); 
-	st_us=escape(l.pathname);
-	st_hn=l.host;
-	st_rf=escape(d.referrer);
-
-	if(st_v==1.2) { 
-		var s=screen;
-		st_rs=escape(s.width+"x"+s.height);
-		st_cd=s.colorDepth;
-	}
-
-	proto = "http:";
-	if (location.protocol == "https:") { 
-		proto = "https:"; 
-		st_dd = "st.sageanalyst.net";
-	}
-
-	st_iu = proto+"//"+st_dd+"/" + (new Date()).getTime() + "/JS?ci="+st_ci+"&di="+st_di+"&pg="+st_pg+"&us="+st_us+"&qs="+st_qs+"&rf="+st_rf+"&rs="+st_rs+"&cd="+st_cd+"&hn="+st_hn+"&ce="+st_ce+"&jv="+st_v+"&tai="+st_tai+"&ai="+ainfo;
-
-	var SM = new Image(); SM.src = st_iu;
-	if (advcall) { var MM = new Image(); MM.src = advcall; }
-}
-
-//-->
-</script>
-<script type="text/javascript" language="JavaScript1.1">st_v=1.1;</script>
-<script type="text/javascript" language="JavaScript1.2">st_v=1.2;</script>
-<script type="text/javascript" language="JavaScript1.1" src="//st.sageanalyst.net/tag-12.js"></script>
-<script type="text/javascript" language="JavaScript">
-<!--
-if (st_v==1.0) {
-	var st_uj;
-	var st_dn = (new Date()).getTime();
-	var st_rf = escape(document.referrer);
-	st_uj = "//"+st_dd+"/"+st_dn+"/JS?ci="+st_ci+"&di="+st_di+"&pg="+st_pg+"&rf="+st_rf+"&jv="+st_v+"&tai="+st_tai+"&ai="+st_ai;
-	var iXz = new Image();
-	iXz.src = st_uj;
-}
-//-->
-</script><noscript><img src="//st.sageanalyst.net/NS?ci=12&di=d001&pg=&ai="></noscript>
-<!-- end sm -->
+<!-- pending new tag... -->
+<!--script src="http://content.dl-rms.com/rms/3104/nodetag.js"></script>-->
+<script src="http://content.dl-rms.com/rms/mother/518/nodetag.js"></script>
+<!-- end JAVASCRIPT -->
 
 <!-- end include -->
 
 
 <!-- include [ browsertag ] -->
-<script language="JavaScript"><!--
-var s_pageName="" 
-var s_server="" 
-var s_channel="" 
-var s_pageType=""
-var s_prop1="" 
-var s_prop2="" 
-var s_prop3="" 
-var s_prop4="" 
-var s_prop5="" 
-var s_prop6="" 
-var s_prop7="" 
-var s_prop8="" 
-var s_prop9="" 
-var s_prop10="" 
+<!-- include [ intercept ] -->
+<!-- requires [ include (/common/includes/esivariablesV5.html) ] -->
+
+
+
+<!-- end include -->
+
+<!-- JAVASCRIPT [ BROWSERTAGGING ] -->
+<script language="JavaScript" type="text/javascript"><!--
+var s_pageName="",s_server="",s_channel="",s_pageType="";
+var s_prop1="",s_prop2="",s_prop3="",s_prop4="",s_prop5="",s_prop6="",s_prop7="",s_prop8="",s_prop9="",s_prop10="";
 /* Commerce Variables */ 
-var s_campaign=""
-var s_events=""
-var s_eVar1=""
-var s_eVar2=""
-var s_eVar3=""
-var s_eVar4=""
-var s_eVar5=""
-var s_eVar6=""
-var s_eVar7=""
-var s_eVar8=""
-var s_eVar9=""
-var s_eVar10=""
+var s_campaign="",s_events="";
+var s_eVar1="",s_eVar2="",s_eVar3="",s_eVar4="",s_eVar5="",s_eVar6="",s_eVar7="",s_eVar8="",s_eVar9="",s_eVar10="";
 //--></script>
-<script language="JavaScript" type="text/javascript" src="/common/javascript/s_code_remote.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.discovery.com/common/javascript/s_code_remote.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
 function sendAnalyticsEvent(accnt) { accnt=accnt?accnt:s_account;void(s_gs(accnt)); }
 function sendLinkEvent(accnt,lnkname,type) {
 	accnt=accnt?accnt:s_account;s_linkType=type?type:"o";s_lnk=true;
-	s_linkName=lnkname?lnkname:s_linkName?s_linkName:"Flash Link Event";
+	s_linkName=lnkname?lnkname:s_linkName?s_linkName:"Custom Link Event";
 	void(s_gs(accnt))
 }
+function pingTrak(url) { var pt = new Image(); pt.src = url; }
+function OmniView( flashID ) {
+//	s_pageName = dProt + '//' + dHost + dPath;
+	s_prop3 = "";
+	s_prop4 = flashID;
+	s_prop5 = "";
+	sendAnalyticsEvent('',flashID);
+}
 
+function OmniTrak( flashID ) {
+//	s_pageName = dProt + '//' + dHost + dPath;
+	s_prop4 = "";
+	s_prop5 = flashID;
+	sendLinkEvent('',flashID);
+}
+
+function OmniStream( videoURL )
+{
+	s_prop3 = s_prop2 + ":Video Stream";
+	s_prop6 = videoURL;
+	sendLinkEvent("","Flash Video");
+}
 //--></script>
 <!-- End SiteCatalyst code version: G.9. -->
 
-<script type="text/javascript" language="JavaScript"><!--
-function pingTrak(url) { var pt = new Image(); pt.src = url; }
-//--></script>
-
-<!-- begin sm -->
-<script type="text/javascript" language="JavaScript">
-<!--
-var st_type = "type:html";
-var st_media = "media:none";
-var st_content = "";
-var st_extra = st_type + "," + st_media + "," + st_content;
-var st_pg = "";
-var st_ai = st_extra;
-var st_v = 1.0;
-var st_ci = "12";
-var st_di = "d001";
-var st_dd = "st.sageanalyst.net";
-var st_tai = "v:1.2.3";
-
-function sageTrak(ainfo,advcall) {
-	var st_iu=st_rs=st_cd=st_rf=st_us=st_hn=st_qs=st_ce="";
-	var d=document; 
-	var l=location;
-	var n=navigator; 
-	st_ce=n.cookieEnabled;
-
-	st_qs=escape(l.search.substring(1)); 
-	st_us=escape(l.pathname);
-	st_hn=l.host;
-	st_rf=escape(d.referrer);
-
-	if(st_v==1.2) { 
-		var s=screen;
-		st_rs=escape(s.width+"x"+s.height);
-		st_cd=s.colorDepth;
-	}
-
-	proto = "http:";
-	if (location.protocol == "https:") { 
-		proto = "https:"; 
-		st_dd = "st.sageanalyst.net";
-	}
-
-	st_iu = proto+"//"+st_dd+"/" + (new Date()).getTime() + "/JS?ci="+st_ci+"&di="+st_di+"&pg="+st_pg+"&us="+st_us+"&qs="+st_qs+"&rf="+st_rf+"&rs="+st_rs+"&cd="+st_cd+"&hn="+st_hn+"&ce="+st_ce+"&jv="+st_v+"&tai="+st_tai+"&ai="+ainfo;
-
-	var SM = new Image(); SM.src = st_iu;
-	if (advcall) { var MM = new Image(); MM.src = advcall; }
-}
-
-//-->
-</script>
-<script type="text/javascript" language="JavaScript1.1">st_v=1.1;</script>
-<script type="text/javascript" language="JavaScript1.2">st_v=1.2;</script>
-<script type="text/javascript" language="JavaScript1.1" src="//st.sageanalyst.net/tag-12.js"></script>
-<script type="text/javascript" language="JavaScript">
-<!--
-if (st_v==1.0) {
-	var st_uj;
-	var st_dn = (new Date()).getTime();
-	var st_rf = escape(document.referrer);
-	st_uj = "//"+st_dd+"/"+st_dn+"/JS?ci="+st_ci+"&di="+st_di+"&pg="+st_pg+"&rf="+st_rf+"&jv="+st_v+"&tai="+st_tai+"&ai="+st_ai;
-	var iXz = new Image();
-	iXz.src = st_uj;
-}
-//-->
-</script><noscript><img src="//st.sageanalyst.net/NS?ci=12&di=d001&pg=&ai="></noscript>
-<!-- end sm -->
+<!-- pending new tag... -->
+<!--script src="http://content.dl-rms.com/rms/3104/nodetag.js"></script>-->
+<script src="http://content.dl-rms.com/rms/mother/518/nodetag.js"></script>
+<!-- end JAVASCRIPT -->
 
 <!-- end include -->
 
