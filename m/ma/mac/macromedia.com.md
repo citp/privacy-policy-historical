@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the macromedia.com privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629002232id_/http%3A//www.macromedia.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macromedia.com privacy policy that was archived on 2005-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051204221438id_/http%3A//www.macromedia.com/help/privacy.html) for the most accurate reproduction.*
 
 # Macromedia - Privacy & Security
+
+### Flash Player Privacy & Security
+
+Macromedia takes consumers’ privacy very seriously and is committed to protecting the security of individuals’ personal information on the web. The [Flash Player Privacy & Security Center](https://web.archive.org/software/flashplayer/security/) contains information about the Player security model and privacy features.
+
+[Learn more](https://web.archive.org/software/flashplayer/security/)
 
 [](http://www.truste.org/ivalidate.php?url=www.macromedia.com)
 
@@ -77,7 +83,7 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 ## Product Activation and Privacy 
 
-Macromedia products may require activation in order to authenticate licensed users. The Macromedia Product Activation System does not collect or utilize personal information, such as your name and contact information, and does not associate activation data with registration data. For more details, visit the [Macromedia Product Activation Center](https://web.archive.org/software/activation/).
+Macromedia products may require activation in order to authenticate licensed users. The Macromedia Product Activation System does not collect or utilize personal information, such as your name and contact information, and does not associate activation data with registration data. For more details, visit the [Macromedia Product Activation Center](https://web.archive.org/software/activation/privacy_policy.html).
 
 ## Macromedia & Security
 
