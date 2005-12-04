@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sixwise.com privacy policy that was archived on 2005-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050211122630id_/http%3A//www.sixwise.com/index.asp%3FPageAction%3DCustom%26ID%3D39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixwise.com privacy policy that was archived on 2005-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051204041332id_/http%3A//www.sixwise.com/html/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy Summary
+# Sixwise.com
 
-| 
+[ ](mailto:?Subject=Your%20Friend%20Hopes%20You%20will%20Read%20this%20Personal%20Safety%20Article%20from%20SixWise.com&body=Your%20friend%20wanted%20you%20to%20read%20the%20following%20interesting%20and%20worthwhile%20article%20right%20away:%20https%3A//web.archive.org/web/20051204041332id_/http%253A//www.sixwise.com/html/privacy.htm.%20Please%20cut%20and%20paste%20the%20URL%20above%20and%20insert%20it%20into%20your%20Web%20browser,%20then%20hit%20enter%20to%20see%20the%20article%20your%20friend%20wanted%20you%20to%20read.%20And%20do%20not%20forget%20--%20at%20the%20top%20of%20the%20SixWise.com%20page%20you%20go%20to,%20you%20can%20simply%20enter%20your%20main%20email%20address%20to%20subscribe%20to%20the%20complimentary%20SixWise.com%20%22Be%20Safe,%20Live%20Longer%20and%20Prosper%22%20e-newsletter,%20too!%20Every%20week%20you%20will%20get%20important%20articles%20that%20can%20help%20you%20and%20your%20loved%20ones%20improve%20your%20well-being%20while%20protecting%20you%20from%20all%20forms%20of%20danger,%20including%20disease,%20crime,%20financial%20disasters,%20and%20more!)
 
 **Our Privacy Policy Summary**
 
@@ -10,7 +10,7 @@ Our goal is to provide you with the best experience possible. Your privacy is ve
 
 InnerMark, Inc. an Illinois Corporation which owns and operates the www.sixwise.com web site, cares about the privacy of each user of our web site. This privacy statement discloses the privacy practices for www.sixwise.com web site. 
 
-If you have any questions or concerns regarding this statement, you should first contact [webmaster@sixwise.com](mailto:webmaster@sixwise.com). 
+If you have any questions or concerns regarding this statement, you should first contact [webmaster@sixwise.com](mailto:webmaster@sixwise.com).
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact with a copy / attachment of prior email communications to: [jdearlove@innermark.com](mailto:jdearlove@innermark.com)
 
@@ -72,12 +72,10 @@ Every credit card purchase you make at SixWise.com will be safe. Under the Fair 
 
 **_Business Partners and Selected Vendors We Do Not Control_**
 
-  
 We work closely with certain business partners and carefully selected vendors to provide you with access to their product information and offerings or to their online stores (for example, the Partners listed on SixWise.com products available at SixWise.com). We may provides links to their web sites where you choose to share your personal data, including personally identifiable information about you. We may share such information with shipping partners or ours who direct ship your selected merchandise from their facilities or shipping service providers including such business partners or selected vendors, and they may use this information to offer you products and/or services that may be of interest to you through the mail or the internet. If you choose to access the Partners, disclose information to the Partners, place orders from the Partners, and/or grant them permission to collect information about you, then their use of your information is governed by their applicable privacy policies. To prevent our disclosure of your personally identifiable information to one of these third parties, you can choose not use their services or order their products. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services or place orders with them for their products.
 
 **_Agents_**
 
-  
 We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, analyzing data, providing marketing assistance, performing credit checks and approvals, processing credit card payments, collecting on delinquent accounts and providing customer service. They have access to personal information needed to perform their functions, _but may not use it for other purposes_.
 
 ## _Cookies_
@@ -142,13 +140,11 @@ Users of our web site will be notified if, in connection with the use of a parti
 
 **_Business Transfers_**
 
-  
 As we continue to develop our business, we might buy the online and/or off-line retail operations of others. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that SixWise.com or substantially all of its assets are acquired by or transferred to another entity, customer information would likely be one of the transferred assets.
 
 **_Government and Legal Disclosures of Your Information_**
 
-_  
-_ We may disclose information about you to law enforcement or other government officials as we believe necessary in connection with an investigation of illegal activity that may expose you or us to legal liability. In addition, if you have purchased products from us on extended payment terms, it may be necessary for us to file certain information about you with state or local government offices to perfect our security interest in the products so purchased, or to provide certain information about you to collection agencies in the event of non-payment or a payment dispute.
+__We may disclose information about you to law enforcement or other government officials as we believe necessary in connection with an investigation of illegal activity that may expose you or us to legal liability. In addition, if you have purchased products from us on extended payment terms, it may be necessary for us to file certain information about you with state or local government offices to perfect our security interest in the products so purchased, or to provide certain information about you to collection agencies in the event of non-payment or a payment dispute.
 
 **_What Choices Do You Have?_**
 
