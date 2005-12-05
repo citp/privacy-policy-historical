@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iconator.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403075203id_/http%3A//www.iconator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconator.com privacy policy that was archived on 2005-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051205012457id_/http%3A//www.iconator.com/privacy.php) for the most accurate reproduction.*
 
-# iconator.com - buddy icons - away messages - and more!
+# Iconator.com >> Privacy Policy
 
 This is the web site of Iconator.com (Iconator). 
 
-We can be reached via e-mail at webmaster(at)iconator.com or by [sending comments](https://web.archive.org/web/20050403075203id_/http%3A//www.iconator.com/comments.php). 
+We can be reached via e-mail at webmaster(at)iconator.com or by [sending comments](https://web.archive.org/web/20051205012457id_/http%3A//www.iconator.com/comments.php). 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
