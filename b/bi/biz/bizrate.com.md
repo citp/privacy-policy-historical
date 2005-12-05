@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630000802id_/http%3A//www.bizrate.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2005-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051205235931id_/http%3A//www.bizrate.com/content/privacy.html) for the most accurate reproduction.*
 
 # Shop at BizRate: Compare Prices, Reviews and Stores Online
 
@@ -80,7 +80,7 @@ As discussed above, you can always choose not to provide information, although t
 
 If you have registered as a member, you can add or update your registration information (for instance, if your name, email address or zip code changes), or delete your membership account entirely, at any time by visiting the Your Account area. 
 
-We will retain in our files information you have requested to delete in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our [User Agreement](http://www.shopzilla.com/nc/41_-_content--legal). Furthermore, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems. 
+We will retain in our files information you have requested to delete in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our [User Agreement](http://www.shopzilla.com/41_-_content--legal). Furthermore, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems. 
 
 **EMAIL POLICIES**  
 From time to time, Shopzilla may send newsletters and other email to members and others who have agreed to be contacted by Shopzilla. You can always choose not to receive email from Shopzilla. Each of our email messages contains a link at the bottom of the email for the purpose of adjusting your email subscription preferences or to be removed from our mailing list. (If you do not want to receive notice of changes to our User Agreement and other legal notices from us, such as updates to this Privacy Notice, those notices will still govern your use of Shopzilla, and it is your responsibility to review them for changes.) 
