@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2005-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050321164715id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2005-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051206061858id_/http%3A//vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
 
-# VitaDigest - The Vitamins Supplement & Sports Nutrition SuperStore Privacy Policy
+# VitaDigest - The Vitamins Supplement and Sports Nutrition SuperStore Privacy Policy
 
 | | |   
 ---|---|---  
@@ -32,8 +32,8 @@ Questions regarding this Policy should be directed to [privacy@vitadigest.com](m
 
 Attn: Privacy Compliance Officer   
 VITADIGEST.COM, Inc.   
-1820 S. Third Street   
-Alhambra CA 91803
+20687-2 Amar Rd. #258   
+Walnut CA 91789
 If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
 * * *
@@ -172,8 +172,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Attn: Privacy Compliance Officer   
 VITADIGEST.COM, Inc.   
-1820 S. Third Street   
-Alhambra CA 91803
+20687-2 Amar Rd. #258   
+Walnut CA 91789
 You may also contact us by e-mail at [privacy@vitadigest.com](mailto:privacy@vitadigest.com)
 
 Last Updated: 09/24/2004
