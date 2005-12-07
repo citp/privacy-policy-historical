@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classzone.com privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423183531id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classzone.com privacy policy that was archived on 2005-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051207032022id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Houghton Mifflin Privacy Policy
 
@@ -6,9 +6,9 @@ Houghton Mifflin Company recognizes the importance of protecting the information
 
 You should be aware that personal information, such as your name or e-mail address, that you voluntarily disclose on bulletin boards or in chat areas could be collected and disclosed by other users with access to those sites. Houghton Mifflin Company cannot take any responsibility for such collection or disclosure. 
 
-Occasionally, we use "cookies" to store pertinent user information during a session. Cookies are small pieces of information that are stored in a designated file on your computer. Houghton Mifflin only uses cookies for the purpose of holding information during online sessions (for example, to hold answers to online quizzes for short-term storage, or to create an ID for use in a multiple-session assessment). We may also use cookies to track links from an affiliate's websites to our websites. This information is used only for the purpose of tracking commissions that may become due to an affiliate if you purchase a product or service from one of our sites. 
+Occasionally, we use "cookies" to store pertinent user information during a session. Cookies are small pieces of information that are stored in a designated file on your computer. Houghton Mifflin uses cookies for the purpose of holding information during online sessions (for example, to hold answers to online quizzes for short-term storage and to create an ID for use in a multiple-session assessment), and to store user information that helps us to customize our content to enhance your use of our websites. We may also use cookies to track links from an affiliate's websites to our websites. This information is used only for the purpose of tracking commissions that may become due to an affiliate if you purchase a product or service from one of our sites. 
 
-In most cases, users can review and update or request changes to their information by logging into their account or e-mailing the divisional administrator listed at the end of our Children's Privacy Policy. If you have any questions about the Houghton Mifflin privacy policy, please contact Collin Earnst at 617-351-5020. The effective date of this privacy policy is June 30, 2004. Houghton Mifflin Company reserves the right to change this privacy policy without notice to users of or visitors to our websites. 
+In most cases, users can review and update or request changes to their information by logging into their account or e-mailing the divisional administrator listed at the end of our Children's Privacy Policy. If you have any questions about the Houghton Mifflin privacy policy, please contact Collin Earnst at 617-351-5020. This privacy policy was last updated on June 8, 2005. Houghton Mifflin Company reserves the right to change this privacy policy without notice to users of or visitors to our websites. 
 
 Children's Privacy Policy 
 
