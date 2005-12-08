@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the craveonline.com privacy policy that was archived on 2005-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050410084345id_/http%3A//www.craveonline.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the craveonline.com privacy policy that was archived on 2005-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051208092412id_/http%3A//www.craveonline.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Crave Privacy Policy</title>
@@ -24,6 +24,54 @@
 			function popupPlayer(vid) {
 				window.open("/video/popup_player.php?showVideo="+vid,"newwindow","toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=1, copyhistory=no, width=321, height=368, left=250, top=250");
 			}
+
+function xmlhttpcall(url,responsefcn) {
+
+	xmlhttp=false;
+	/*@cc_on @*/
+	/*@if (@_jscript_version >= 5)
+	// JScript gives us Conditional compilation, we can cope with old IE versions.
+	// and security blocked creation of the objects.
+	 try {
+	  xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+	 } catch (e) {
+	  try {
+	   xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+	  } catch (E) {
+	   xmlhttp = false;
+	  }
+	 }
+	@end @*/
+	if (!xmlhttp && typeof XMLHttpRequest!='undefined') {
+	  xmlhttp = new XMLHttpRequest();
+	}
+	
+	 xmlhttp.open("GET", url,true);
+	 xmlhttp.onreadystatechange=function() {
+	  if (xmlhttp.readyState==4) {
+	  	eval(responsefcn);
+	  }
+	 }
+	 xmlhttp.send(null)
+
+}			
+
+function submitRating(rid,rating,uid,anonid) {
+//alert("rid="+rid+"&rating="+rating+"&uid="+uid+"&anonid="+anonid);
+	url = "/inc/ratings_handler.php?rid="+rid+"&rating="+rating+"&uid="+uid+"&anonid="+anonid;
+	xmlhttpcall(url,"ratingsResponse()");
+
+}
+
+function ratingsResponse() {
+
+	document.getElementById('currRank').innerHTML =  xmlhttp.responseText;
+	document.getElementById('totVotes').innerHTML =  "Thanks for voting!";
+	document.getElementById('ratingForm').disabled =  true;
+
+}
+
+
 			</script><script language="JavaScript" type="text/javascript" src="/inc/js/menu_rollover.js"></script>
 
 </head>
@@ -34,20 +82,19 @@
 
 	<div class="craveHeader">
 		<div class="craveLogo">
-	<a href="http://www.craveonline.com" target="_parent"><img src="/images/design/crave_logo_top.gif" border="0" alt="Crave Online: We're satisfying your hunger! Tell us what you Crave!" title="Crave Online: We're satisfying your hunger! Tell us what you Crave!"></a>
-</div>
+		<a href="http://www.craveonline.com" target="_parent"><img src="/images/design/crave_logo_top.gif" border="0" alt="Crave Online: We're satisfying your hunger! Tell us what you Crave!" title="Crave Online: We're satisfying your hunger! Tell us what you Crave!"></a>
+	</div>
 
 <div class="menu">
 	<img src="/images/design/menu_back_01.gif"><a href="/filmtv" target="_top" onclick="MM_nbGroup('down','group1','filmtv','',1)" onmouseover="MM_nbGroup('over','filmtv','/images/design/menu_on_02.gif','',1)" onmouseout="MM_nbGroup('out')"><img name="filmtv" src="/images/design/menu_off_02.gif" border="0" alt="Film/TV" onload=""></a><a href="/games" target="_top" onclick="MM_nbGroup('down','group1','games','',1)" onmouseover="MM_nbGroup('over','games','/images/design/menu_on_03.gif','',1)" onmouseout="MM_nbGroup('out')"><img name="games" src="/images/design/menu_off_03.gif" border="0" alt="Games" onload=""></a><a href="/music" target="_top" onclick="MM_nbGroup('down','group1','music','',1)" onmouseover="MM_nbGroup('over','music','/images/design/menu_on_04.gif','',1)" onmouseout="MM_nbGroup('out')"><img name="music" src="/images/design/menu_off_04.gif" border="0" alt="Music" onload=""></a><a href="/sports" target="_top" onclick="MM_nbGroup('down','group1','sports','',1)" onmouseover="MM_nbGroup('over','sports','/images/design/menu_on_05.gif','',1)" onmouseout="MM_nbGroup('out')"><img name="sports" src="/images/design/menu_off_05.gif" border="0" alt="Sports" onload=""></a><a href="/comics" target="_top" onclick="MM_nbGroup('down','group1','comics','',1)" onmouseover="MM_nbGroup('over','comics','/images/design/menu_on_06.gif','',1)" onmouseout="MM_nbGroup('out')"><img name="comics" src="/images/design/menu_off_06.gif" border="0" alt="Comics" onload=""></a><a href="/gear" target="_top" onclick="MM_nbGroup('down','group1','gear','',1)" onmouseover="MM_nbGroup('over','gear','/images/design/menu_on_07.gif','',1)" onmouseout="MM_nbGroup('out')"><img name="gear" src="/images/design/menu_off_07.gif" border="0" alt="Gear" onload=""></a><a href="/scifi" target="_top" onclick="MM_nbGroup('down','group1','scifi','',1)" onmouseover="MM_nbGroup('over','scifi','/images/design/menu_on_10.gif','',1)" onmouseout="MM_nbGroup('out')"><img name="scifi" src="/images/design/menu_off_10.gif" border="0" alt="Sci-Fi" onload=""></a><a href="http://www.craveonline.com/garage" target="_top" onclick="MM_nbGroup('down','group1','garage','',1)" onmouseover="MM_nbGroup('over','garage','/images/design/menu_on_08.gif','',1)" onmouseout="MM_nbGroup('out')"><img name="garage" src="/images/design/menu_off_08.gif" border="0" alt="Garage" onload=""></a><a href="http://video.craveonline.com/video" target="_top" onclick="MM_nbGroup('down','group1','video','',1)" onmouseover="MM_nbGroup('over','video','/images/design/menu_on_09.gif','',1)" onmouseout="MM_nbGroup('out')"><img name="video" src="/images/design/menu_off_09.gif" border="0" alt="Video" onload=""></a><img src="/images/design/menu_back_03.gif"></div>
 			</div>
 
 	<div class="banner">
-		<div class="bannercontainer" id="728ad"><!-- BEGIN: AdSolution-Website-Tag 4.1 : crave_craveonline.com / ros_exp_468x60_728x90 -->
+		<!-- BEGIN: AdSolution-Website-Tag 4.1 : crave_craveonline.com / ros_exp_468x60_728x90 -->
 	<script language="JavaScript" type="text/javascript">Ads_kid=0;Ads_bid=0;Ads_xl=0;Ads_yl=0;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='[KeyWord]';Ads_prf='';Ads_par='';Ads_cnturl='';Ads_sec=0;
 	</script>
 	<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/njf/41/crave_craveonline.com/ros_exp_468x60_728x90.js"></script>
-	<!-- END:AdSolution-Tag 4.1 --></div>
-		<div id="728ad_loaded" class="loadedBanner"></div>	</div>
+	<!-- END:AdSolution-Tag 4.1 -->	</div>
 
 	<div class="mainTopBevelChan">
 		<a href="/privacy"><img style="float: left;" src="/images/design/page_title_9.gif" border="0" hspace="0" vspace="0"></a>
@@ -60,6 +107,8 @@
 		
 		CRAVE ONLINE MEDIA'S COMMITMENT TO PRIVACY<br>
 <br>
+This policy governs the domains craveonline.com and cravelyrics.com.
+<br><br>
 Crave is firmly committed to protecting the privacy of Internet users and fostering consumer confidence in the Internet, Internet advertising and direct marketing. We invite all users to <a href="/contact">contact us</a> with any questions or concerns.<br>
 <br>
 <strong>What Crave Does </strong><br>
@@ -82,9 +131,9 @@ Deliver a series of advertisements in the proper sequence; <br>
 <br>
 Limit the number of times a browser is delivered the same advertisement;<br>
 <br>
-Login registered Crave user accounts;<br>
+Login registered Crave user accounts; Destruction timetable: user cookies ("users_uid") expire one year after the last time the user successfully logged in to their Crave account.<br>
 <br>
-and Log anonymous visitors to our site for the purposes of identifying whether a visitor is a unique.<br>
+and Log anonymous visitors to our site for the purposes of identifying whether a visitor is a unique. Destruction timetable: anonymous cookies ("tracking_anonid") expire 6 months from the date of the last visit to Crave.<br>
 <br>
 Crave does not use any of the data collected via cookies for purposes other than those described above, nor do we merge personally identifiable information with non--personally identifiable information, or otherwise parse, sort, gather, or aggregate user data for use elsewhere. Non--PII is collected by Crave through session cookies that terminate when the browser is closed.<br>
 <br>
@@ -131,8 +180,8 @@ An online user may request removal of his or her PII information from GNM's Prom
 Any consumer who prefers not to provide this information online, can send regular mail to the following address:<br>
 <br>
 Privacy @ Crave Online<br>
-1524 G Cloverfield Blvd.<br>
-Santa Monica, California 90404<br>
+12910 Culver Blvd Ste. F<br>
+Los Angeles, California 90066<br>
 <br>
 Once a request to opt-out has been received, Crave Online Media will deliver a confirming email message to the user that the user's PII has been successfully opted out of our database. If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. <br>
 <br>
