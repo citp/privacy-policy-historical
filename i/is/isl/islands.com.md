@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the islands.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305225513id_/http%3A//www.islands.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islands.com privacy policy that was archived on 2005-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051208015611id_/http%3A//www.islands.com/privacy.asp) for the most accurate reproduction.*
 
 # Islands.com
 
-**Islands.com Privacy Policy**
+**Islands.com Privacy Policy & Your Privacy Rights**
 
 Islands.com is committed to protecting your privacy. We provide this notice to explain our online information practices and the choices you can make about the way information is collected and used. We will only use the information we collect for the purposes of enhancing your Islands.com experience. At no time will we sell, trade, or rent your personal information to third parties.
 
