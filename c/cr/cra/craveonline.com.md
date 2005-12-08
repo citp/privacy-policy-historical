@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the craveonline.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410084345id_/http%3A//www.craveonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craveonline.com privacy policy that was archived on 2005-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051208092412id_/http%3A//www.craveonline.com/privacy) for the most accurate reproduction.*
 
 # Crave Privacy Policy
 
 CRAVE ONLINE MEDIA'S COMMITMENT TO PRIVACY
+
+This policy governs the domains craveonline.com and cravelyrics.com. 
 
 Crave is firmly committed to protecting the privacy of Internet users and fostering consumer confidence in the Internet, Internet advertising and direct marketing. We invite all users to [contact us](https://web.archive.org/contact) with any questions or concerns.
 
@@ -26,9 +28,9 @@ Deliver a series of advertisements in the proper sequence;
 
 Limit the number of times a browser is delivered the same advertisement;
 
-Login registered Crave user accounts;
+Login registered Crave user accounts; Destruction timetable: user cookies ("users_uid") expire one year after the last time the user successfully logged in to their Crave account.
 
-and Log anonymous visitors to our site for the purposes of identifying whether a visitor is a unique.
+and Log anonymous visitors to our site for the purposes of identifying whether a visitor is a unique. Destruction timetable: anonymous cookies ("tracking_anonid") expire 6 months from the date of the last visit to Crave.
 
 Crave does not use any of the data collected via cookies for purposes other than those described above, nor do we merge personally identifiable information with non--personally identifiable information, or otherwise parse, sort, gather, or aggregate user data for use elsewhere. Non--PII is collected by Crave through session cookies that terminate when the browser is closed.
 
@@ -75,8 +77,8 @@ An online user may request removal of his or her PII information from GNM's Prom
 Any consumer who prefers not to provide this information online, can send regular mail to the following address:
 
 Privacy @ Crave Online  
-1524 G Cloverfield Blvd.  
-Santa Monica, California 90404
+12910 Culver Blvd Ste. F  
+Los Angeles, California 90066
 
 Once a request to opt-out has been received, Crave Online Media will deliver a confirming email message to the user that the user's PII has been successfully opted out of our database. If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. 
 
