@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fantasticfiction.com privacy policy that was archived on 2002-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020810235645id_/http%3A//www.fantasticfiction.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfiction.com privacy policy that was archived on 2005-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051208025410id_/http%3A//www.fantasticfiction.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **Privacy Statement for Fantastic Fiction**
 
-**Fantastic Fiction** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Fantastic Fiction ](http://www.fantasticfiction.co.uk/)
+**Fantastic Fiction** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Fantastic Fiction](http://www.fantasticfiction.co.uk/)
 
 **Information Automatically Logged**
 
-We use your IP address to log which pages you look at. This enables us to compile the "Top 250 Authors" page and the "also looked at" section on our author pages. Your IP address is not used for any other purpose. 
+We use your IP address to log which pages you look at. This enables us to compile the "Top Authors" page and the "also looked at" section on our author pages. Your IP address is not used for any other purpose. 
 
 **Advertisers**
 
@@ -28,19 +28,9 @@ This site contains links to other sites. **Fantastic Fiction** is not responsibl
 
 **Fantastic Fiction** is an associate of the following on-line bookshops: 
 
-Alphabet Street  
 Amazon  
-Amazon UK  
-Barnes and Noble  
-BOL  
-Borders  
-iBS  
-Powells  
-
+Abebooks 
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-
-
-[ webmaster@fantasticfiction.co.uk ](mailto:webmaster@fantasticfiction.co.uk)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@fantasticfiction.co.uk](mailto:webmaster@fantasticfiction.co.uk)
