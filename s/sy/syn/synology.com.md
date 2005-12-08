@@ -1,17 +1,9 @@
-> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204160311id_/http%3A//www.synology.com/enu/privacy/index.php%3Fpage%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2005-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051208084605id_/http%3A//www.synology.com/enu/privacy/index.php%3Fpage%3Dprivacy.html) for the most accurate reproduction.*
 
 # Synology Inc.
 
-|   |    
   
-
-
-Privacy
-
-  
-
-
-Protect your privacy is very important to Synology. We know the value of information and understand your concerns about privacy. Synology respects your privacy and is committed to keep the personal information that you share with us confidential. This privacy policy is designed to inform you about how we collect and use your personal information. Please take a moment to read the policy, and note that this Policy may change from time to time, so please check back periodically. 
+Protect your privacy is very important to Synology. We know the value of information and understand your concerns about privacy. Synology respects your privacy and is committed to keep the personal information that you share with us confidential. This privacy policy is designed to inform you about how we collect and use your personal information. Please take a moment to read the policy, and note that this Policy may change from time to time, so please check back periodically.
 
 **Why do we collect personal information?**
 
@@ -29,7 +21,7 @@ We may also perform statistical analyses of collective customer behavior. Certai
 
 **Will** **we share your information with other companies or people?**
 
-Synology will not disclose, sell, trade, rent, or lease your personal information for marketing purposes. Your personal information is never shared outside without your permission. We will only share information with third-party agents who provide services for our business operation. These agents must comply with our privacy policies and must have a policy that is equal to Synology, and cannot use your personal data for any other purpose. 
+Synology will not disclose, sell, trade, rent, or lease your personal information for marketing purposes. Your personal information is never shared outside without your permission. We will only share information with third-party agents who provide services for our business operation. These agents must comply with our privacy policies and must have a policy that is equal to Synology, and cannot use your personal data for any other purpose.
 
 **Links to Non Synology Websites**
 
@@ -38,4 +30,8 @@ Synology website may contain links to other websites includes distributors and r
 Disclaimer: Synology constantly improving its website by adding new functionality, products, and services. Because of these improvements, along with any changes that may occur in the law, technology, and Synology's business, Synology reserves the right to change, modify, add, or remove portions of our privacy policy at any time. Synology website will always be updated to reflect the latest version of our privacy policy. 
 
   
-|  
+  
+
+
+  
+
