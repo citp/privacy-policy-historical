@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623152600id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2005-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051208050049id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
 
-# Cosmos magazine - The science of everything.
+# Cosmos magazine online subscription.
 
-[Luna Media Pty Ltd](http://www.lunamedia.com.au/) has a firm commitment to privacy in accordance with the Australian Privacy Amendment (Private Sector) Act 2000, which took effect in December 2001.
+Luna Media Pty Ltd has a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which took effect in December 2001.
 
 This privacy policy covers all personal information that we hold.
 
@@ -32,7 +32,7 @@ We will take reasonable steps to ensure that the information that we collect, us
 
 **SECURITY**
 
-We are committed to protecting your privacy and will take reasonable steps to ensure that the information we collect is protected from loss and misuse and from unauthorised access, modification and disclosure. All transactions are processed using 128 bit SSL encryption.
+We are committed to protecting your privacy and will take reasonable steps to ensure that the information we collect is protected from loss and misuse and from unauthorised access, modification and disclosure.
 
 **ACCESS TO THE INFORMATION WE HOLD**
 
@@ -46,10 +46,10 @@ This policy is available upon request. It will be reviewed from time to time and
 
 If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact:
 
-Privacy Manager  
+Privacy manager  
 Luna Media Pty Ltd  
-P.O. Box 302  
-STRAWBERRY HILLS NSW 2012  
+Level 2, 25 Cooper Street  
+SURRY HILLS NSW 2010  
 
 
 Phone +61 2 9219 2500  
@@ -57,3 +57,6 @@ Fax +61 2 9281 2360
 
 
 Email: [privacy@lunamedia.com.au](mailto:privacy@lunamedia.com.au)
+
+  
+
