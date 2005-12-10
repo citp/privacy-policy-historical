@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507133936id_/http%3A//www.bikereg.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210215510id_/http%3A//www.bikereg.com/privacy.asp) for the most accurate reproduction.*
 
 # BikeReg.com - online cycling event registration
 
