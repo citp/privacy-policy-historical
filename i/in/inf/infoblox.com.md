@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401221340id_/http%3A//www.infoblox.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210032850id_/http%3A//www.infoblox.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # Infoblox Privacy Statement
 
+|  | 
+
+Privacy Policy
+
 Infoblox knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting Infoblox's web site, submitting information or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-  
-WHAT DOES THIS PRIVACY POLICY COVER?
-
-  
+**WHAT DOES THIS PRIVACY POLICY COVER?**  
 This Privacy Policy covers Infoblox's treatment of personally identifiable information ("Personal Information") that Infoblox gathers when you are accessing Infoblox's web site and when you use Infoblox services. The types of Personal Information collected include your full name, address, e-mail address, telephone number, and credit card information. Also, this Policy covers Infoblox's treatment of any Personal Information that Infoblox's business partners share with Infoblox. This policy does not apply to the practices of Infoblox's that Infoblox does not own or control, or to individuals that Infoblox does not employ or manage.
 
-  
-WHAT PERSONAL INFORMATION DOES INFOBLOX COLLECT?
-
-  
+**WHAT PERSONAL INFORMATION DOES INFOBLOX COLLECT?**  
 The information we gather from customers enables us to personalize and improve our services. We collect the following types of information from our customers.
 
 **Personal Information You Provide to Us:**  
@@ -37,10 +35,7 @@ We may receive a confirmation when you open an e-mail from Infoblox if your comp
 
 
 
-  
-WILL INFOBLOX SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?
-
-  
+**WILL INFOBLOX SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?**  
 Personal Information about our customers is an important part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only with your consent or to business partners and affiliates as described below.
 
 _Agents:_ We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Infoblox's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
@@ -51,21 +46,15 @@ _Protection of Infoblox and Others:_ We may release Personal Information when we
 
 _With Your Consent_ : Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
 
-  
-IS PERSONAL INFORMATION ABOUT ME SECURE?
-
-  
+ **IS PERSONAL INFORMATION ABOUT ME SECURE?**  
 Your Infoblox account Personal Information is protected by a password for your privacy and security. You need to ensure against unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.  
-Infoblox stores your credit card and other financial information in a secure location.
+Infoblox stores your credit card and other financial information in a secure location.  
 
-  
-WHAT PERSONAL INFORMATION CAN I ACCESS?
 
-  
+**WHAT PERSONAL INFORMATION CAN I ACCESS?**  
 Infoblox may allow you to access certain information about you for the purpose of viewing, and in certain situations, updating that information. The types of information that you can access update will change as our web site changes.
 
-  
-WHAT CHOICES DO I HAVE?
+**WHAT CHOICES DO I HAVE?**
 
   * As stated previously, you can always opt not to disclose information to Infoblox, even though it may be needed to receive services or take advantage of certain Infoblox web site features.
   * You may be able to add or update certain information on pages, such as those that may be listed in the "What Personal Information Can I Access" section above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your Infoblox account by sending an e-mail to info@infoblox.com and responding affirmatively to any confirmation e-mails that we may send. Please note that some information may remain in our records after deletion of your account.
@@ -74,22 +63,14 @@ WHAT CHOICES DO I HAVE?
 
 
 
-  
-EFFECTIVE DATE OF THIS PRIVACY POLICY
+**EFFECTIVE DATE OF THIS PRIVACY POLICY  
+**This Privacy Policy is effective as of January 26, 2004.
 
-  
-This Privacy Policy is effective as of January 26, 2004.
+**CHANGES TO THIS PRIVACY POLICY  
+**Infoblox may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our web site.  
 
-  
-CHANGES TO THIS PRIVACY POLICY
 
-  
-Infoblox may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our web site.
+**QUESTIONS OR CONCERNS  
+**If you have any questions or concerns regarding privacy at Infoblox site, please send us a detailed message to info@infoblox.com. We will make every effort to resolve your concerns. 
 
-  
-QUESTIONS OR CONCERNS
-
-  
-If you have any questions or concerns regarding privacy at Infoblox site, please send us a detailed message to info@infoblox.com. We will make every effort to resolve your concerns. 
-
-top of page
+|  | 
