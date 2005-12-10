@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somd.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305005351id_/http%3A//www.somd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somd.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210180640id_/http%3A//somd.com/privacy) for the most accurate reproduction.*
 
 # Our View on Reader Privacy - Official Privacy Statement for somd.com
 
@@ -37,7 +37,7 @@ This web site contains links to other sites. Please be aware that we [Virtually 
   
 **Newsletters**
 
-If a user wishes to [subscribe to one or more of our newsletters](https://web.archive.org/mailman/), we may ask for contact information such as name, address and email address.  We use a double opt-in confirmation process to ensure that the only people who receive our mailings are ones who specifically requested it.  Once you subscribe to a newsletter, our system will send an email to the address you used to register.  You must click on the validation link contained in the confirmation email in order to validate your registration.
+If a user wishes to [subscribe to one or more of our newsletters](https://web.archive.org/mailmgr/), we may ask for contact information such as name, address and email address.  We use a double opt-in confirmation process to ensure that the only people who receive our mailings are ones who specifically requested it.  Once you subscribe to a newsletter, our system will send an email to the address you used to register.  You must click on the validation link contained in the confirmation email in order to validate your registration.
 
 We do not sell, rent, or share our mailing list with any third party organization.  We only send newsletters to people who have requested to be on our mailing list(s).  Any reader can add or remove their name from the respective mailing list at any time by clicking on the unsubscribe link that will be included in each mailing.
 
