@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxracing.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402071938id_/http%3A//www.foxracing.com/company/privacypolicy.cfm%3Fnav2%3D1%26sportID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxracing.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210094530id_/http%3A//www.foxracing.com/company/privacypolicy.cfm%3Fnav2%3D1%26sportID%3D1) for the most accurate reproduction.*
 
 # Fox Racing, Inc.
 
