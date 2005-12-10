@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exporters.sg privacy policy that was archived on 2005-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050414055040id_/http%3A//www.exporters.sg/info/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exporters.sg privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210063214id_/http%3A//www.exporters.sg/info/privacy_statement.asp) for the most accurate reproduction.*
 
 # Exporters.com.sg - Privacy Statement
 
-Exporters.com.sg is committed to protect your privacy. These following information tells you about our privacy policy and how we make use of the information collected from you.
+Exporters.SG is committed to protect your privacy. These following information tells you about our privacy policy and how we make use of the information collected from you.
 
 Our Privacy Statement covers the following areas:
 
@@ -35,11 +35,11 @@ Our Privacy Statement covers the following areas:
 **1\. Information Collection & Use**
 
 > **Membership Application  
->  **In order to be a member of Exporters.com.sg, you must first complete the membership application form. During application, you are required to give contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest. 
+>  **In order to be a member of Exporters.SG, you must first complete the membership application form. During application, you are required to give contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest. 
 > 
 > As a member, you will received regular email newsletters (Exporters' Despatch and Trade Network Newsletters). In addition, you will also received email announcements on our service updates.
 > 
-> UNET Global Solutions Pte Ltd is the sole owner of the information collected on Exporters.com.sg. UNET Global Solutions Pte Ltd collects personally identifiable information from our users at several different points on Exporters.com.sg.
+> UNET Global Solutions Pte Ltd is the sole owner of the information collected on Exporters.SG. UNET Global Solutions Pte Ltd collects personally identifiable information from our users at several different points on Exporters.SG.
 > 
 > **Orders**  
 >  If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). 
@@ -50,7 +50,7 @@ Our Privacy Statement covers the following areas:
 >  We may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
 > 
 > **Referrals**  
->  If you choose to use our referral service to tell a friend about Exporters.com.sg, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. UNET Global Solutions Pte Ltd stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+>  If you choose to use our referral service to tell a friend about Exporters.SG, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. UNET Global Solutions Pte Ltd stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 > 
 > **Newsletters**  
 >  If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “How You Can Choose To Opt Out” section.
@@ -62,7 +62,7 @@ Our Privacy Statement covers the following areas:
 >  Based upon the personally identifiable information you provide us, we will send you a welcoming email containing your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account.
 > 
 > **Profile**  
->  We store information that we collect through cookies, log files to create a “profile” of your preferences. We tie your personally identifiable information to information in the profile, in order to improve the content of the Exporters.com.sg for you.
+>  We store information that we collect through cookies, log files to create a “profile” of your preferences. We tie your personally identifiable information to information in the profile, in order to improve the content of the Exporters.SG for you.
 
 **2\. Information Sharing & Disclosures**
 
@@ -70,7 +70,7 @@ Our Privacy Statement covers the following areas:
 >  **We share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users. We do not link aggregate user data with personally identifiable information.
 > 
 > **Personally identifiable information  
->  **We DO NOT Share Personally Identifiable Information with Third Parties that are not publicly available in Exporters.com.sg. For example, your email address.
+>  **We DO NOT Share Personally Identifiable Information with Third Parties that are not publicly available in Exporters.SG. For example, your email address.
 > 
 > We do share your company information that is publicly available like company name, company address, business description and contact numbers with trade promoting organisations. For instance [IE Singapore](http://www.iesingapore.com/), [Austrade](http://www.austrade.com.sg/). The purpose of sharing these information is to give a better exposures for our members.
 > 
@@ -84,12 +84,12 @@ Our Privacy Statement covers the following areas:
 >   * **Member Authentication and Verification**  
 >  We use other third parties to provide authentication and verification of members on our site. When you sign up for [Member Authentication and Verification](https://web.archive.org/info/trust_profile/member_authentication.asp) service, we will share information on your company name, address and contact information as necessary for the third party to provide this service.
 >   * **Escrow**  
->  We integrate Escrow.com service into Exporters.com.sg to allow members to transact safely. Please refer to Escrow.com [privacy policy](https://www.escrow.com/resources/privacy_policy.asp) for more information.
+>  We integrate Escrow.com service into Exporters.SG to allow members to transact safely. Please refer to Escrow.com [privacy policy](https://www.escrow.com/resources/privacy_policy.asp) for more information.
 > 
 
 > 
 > **Legal Disclaimer  
-> ** We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on Exporters.com.sg.
+> ** We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on Exporters.SG.
 
 **3\. How You Can Choose To Opt Out**
 
@@ -109,19 +109,19 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. 
 
-We use persistent cookie when you want Exporters.com.sg to remember your email address for your log in. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+We use persistent cookie when you want Exporters.SG to remember your email address for your log in. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
 **6\. About Links to Other Sites**
 
-Exporters.com.sg contains links to other sites that are not owned or controlled by UNET Global Solutions Pte Ltd. Please be aware that we, UNET Global Solutions Pte Ltd, are not responsible for the privacy practices of such other sites.
+Exporters.SG contains links to other sites that are not owned or controlled by UNET Global Solutions Pte Ltd. Please be aware that we, UNET Global Solutions Pte Ltd, are not responsible for the privacy practices of such other sites.
 
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
-This privacy statement applies only to information collected by Exporters.com.sg. 
+This privacy statement applies only to information collected by Exporters.SG. 
 
 **7\. About Discussion Boards/Chat Rooms**
 
-If you use a discussion board or chat room on Exporters.com.sg, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+If you use a discussion board or chat room on Exporters.SG, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
 **8\. Security Of Your Personal Information**
 
@@ -133,7 +133,7 @@ If you have any questions about security on our Web site, you can [contact us](h
 
 **9\. Business Transitions**
 
-In the event UNET Global Solutions Pte Ltd goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on Exporters.com.sg of any such change in ownership or control of your personal information.
+In the event UNET Global Solutions Pte Ltd goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on Exporters.SG of any such change in ownership or control of your personal information.
 
 **10\. Changes in this Privacy Statement**
 
@@ -144,4 +144,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 **Contact Us**  
 If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/info/contact_form.asp?subject=Questions%20on%20Privacy%20Statement).
 
-**Updated on 2nd September 2004**
+**Updated on 4th October 2005**
