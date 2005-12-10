@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walmart.ca privacy policy that was archived on 2004-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040507012028id_/http%3A//walmart.ca/CA-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmart.ca privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210134908id_/http%3A//www.walmart.ca/CA-Privacy.html) for the most accurate reproduction.*
 
 # Welcome to Wal-Mart Stores, Inc., Canada
 
