@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allaboardtoys.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630075334id_/http%3A//www.allaboardtoys.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboardtoys.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210071412id_/http%3A//www.allaboardtoys.com/privacy.asp) for the most accurate reproduction.*
 
-# All Aboard Toys Privacy Policy and Security
+# All Aboard Toys Privacy and Security Policies
 
 All Aboard Toys, LLC ("AAT") created this web site Privacy Policy (the "Privacy Policy") in order to ensure the confidence of visitors and customers ("Users") of and to our www.AllAboardToys.com web site (the "Site"), and to demonstrate our commitment to fair information practices and the protection of privacy. 
 
@@ -43,4 +43,4 @@ The Site may contain links to other web sites. AAT is not responsible for the pr
 
 **8\. Updates and Changes to Privacy Policy**
 
-AAT reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site. AAT welcomes your comments and questions. Please contact us at [Customer Care.](https://web.archive.org/web/20050630075334id_/http%3A//www.allaboardtoys.com/web_feedback/web_feedback.aspx)
+AAT reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site. AAT welcomes your comments and questions. Please contact us at [Customer Care.](https://web.archive.org/web/20051210071412id_/http%3A//www.allaboardtoys.com/web_feedback/web_feedback.aspx)
