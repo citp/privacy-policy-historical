@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batteriesinaflash.com privacy policy that was archived on 2005-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050503111001id_/http%3A//batteriesinaflash.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteriesinaflash.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210082826id_/http%3A//www.batteriesinaflash.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : BatteriesInAFlash.com!, Batteries :: Memory :: Film
 
@@ -56,17 +56,3 @@ You can access all your personally identifiable information that we collect onli
 **How To Contact Us:**
 
 Should you have other questions or concerns about these privacy policies, please send us an email at [service@batteriesinaflash.com](mailto:%20service@batteriesinaflash.com). 
-
-| 
-
-**Privacy Sample Text  ...**
-
-This section of text is from the Define Pages Editor located under Tools in the Admin.
-
-It is different from the /includes/languages/english/xxxxxx.php definitions.
-
-You can use one or the other seperately for this page or, you can use both together.
-
-To remove the language file definition, do not delete the define statement, set it to be blank. Example: define('TEXT_INFORMATION', '');
-
-To remove this section of the text, delete it from the Define Pages Editor located under Tools in the Admin.
