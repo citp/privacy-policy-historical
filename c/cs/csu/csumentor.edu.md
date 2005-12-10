@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the csumentor.edu privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305201303id_/http%3A//www.csumentor.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csumentor.edu privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210065122id_/http%3A//www.csumentor.edu/privacy.asp) for the most accurate reproduction.*
 
 # CSUMentor - Privacy Policy Statement
 
 |  |  |  **The Privacy Policy from the  
 California State University**
-
-The CSU Early Assessment Program is a collaborative effort among the California State University, California Department of Education, and California State Board of Education. Students who do well on the CSU EAP earn exemption from the CSU English and mathematics placement tests required of entering CSU freshmen. With respect to applications for admission to CSU campuses filed between September 30, 2004 and January 14, 2005, the CSU will forward certain information contained in the applications to the Educational Test Services ("ETS") for the purpose of matching applicants with Early Assessment Program exemptions ("EAP Exemptions") and then associating the EAP Exemptions with the appropriate applicants for admission. The forwarded information will include name, date of birth, address, high school, social security number, and gender. ETS, which has comparable information from those students who have sought EAP Exemptions, has agreed to maintain the privacy and confidentiality of the information provided by CSU. To affect the transfer of the application information, CSU will utilize the application files as they reside on the CSUMentor servers and and will utilize Xap as its agent for compiling and transmitting the application information. 
-
-  
-
 
 Effective as of February 15, 2005
 
@@ -108,4 +103,4 @@ Xap may amend this Privacy Policy from time to time. Unless legal obligations re
 If you have any questions about this Privacy Policy and the privacy practices on this site, you may contact us at [privacy@csumentor.edu](mailto:privacy@csumentor.edu). 
 
   
-|  |  |  | 
+|  |  | 
