@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the method123.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403172353id_/http%3A//www.method123.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the method123.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210182315id_/http%3A//www.method123.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Method123 : Project Management templates, free risk tools
 
@@ -37,4 +37,4 @@ Method123 is committed to protecting the privacy of the personal information of 
 
   Under the Privacy Act 1993 (New Zealand), you have the right to request access to your information. We will usually give you full access to your personal information but, in some cases there may be legal or administrative reasons that prevent your access. If we deny access then we will inform you of the reasons why. 
 
-  Please [contact us](https://web.archive.org/web/20050403172353id_/http%3A//www.method123.com/contact.php) if you would like to know more about how you can access or update your personal information. 
+  Please [contact us](https://web.archive.org/web/20051210182315id_/http%3A//www.method123.com/contact.php) if you would like to know more about how you can access or update your personal information. 
