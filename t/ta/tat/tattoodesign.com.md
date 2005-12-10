@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tattoodesign.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410022126id_/http%3A//www.tattoodesign.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoodesign.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210170938id_/http%3A//www.tattoodesign.com/privacy.php) for the most accurate reproduction.*
 
 # TattooDesign.com - Privacy Statement
 
