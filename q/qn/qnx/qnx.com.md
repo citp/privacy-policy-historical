@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the qnx.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306112746id_/http%3A//www.qnx.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnx.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210125933id_/http%3A//www.qnx.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # QNX Software Systems Privacy Statement
 
 ### General
 
-QNX Software Systems Ltd. and its subsidiaries ("QSS" or "we") respect each individual's ("you" or "your") right to privacy. This statement outlines how we collect, use, transfer and safeguard your personal information. To protect your personal information QSS does not sell, rent or trade your personal information except as outlined in this Privacy Statement.
+QNX Software Systems International Corporation and members of the QNX Software Systems Group (as defined below, collectively "QSS" or "we") respect each individual's ("you" or "your") right to privacy. This statement outlines how we collect, use, transfer and safeguard your personal information. To protect your personal information QSS does not sell, rent or trade your personal information except as outlined in this Privacy Statement.
 
 ### The Context for the QSS Privacy Statement
 
 To understand how we are going to use your personal information, you need to understand QSS. 
 
-We are a global organization with subsidiaries, offices, agents, distributors, resellers and business partners throughout the world. Our primary products and services relate to the QNX RTOS and associated development tools (and while we do not anticipate it, this may change). Our primary customers are businesses and, as a result, we do not collect a great deal of "personal information" (specifically, information about an identifiable individual) and almost no sensitive personal information. Of course, to the extent that we do collect personal information we want to respect your privacy. 
+We are a global organization with subsidiaries, offices, agents, distributors, resellers and business partners throughout the world. Two entities are "Affiliated" if one entity, directly or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with, the other entity (with "control" meaning ownership of more than fifty percent (50%) of the voting stock of the entity, or in the case of a non-corporate entity, an equivalent interest).  An entity is a member of the “QNX Software Systems Group” if it is Affiliated with QNX Software Systems International Corporation and contains “QNX” in its name. 
+
+Our primary products and services relate to the QNX RTOS and associated development tools (and while we do not anticipate it, this may change). Our primary customers are businesses and, as a result, we do not collect a great deal of "personal information" (specifically, information about an identifiable individual) and almost no sensitive personal information. Of course, to the extent that we do collect personal information we want to respect your privacy. 
 
 #### Sales & Marketing
 
@@ -42,10 +44,9 @@ In certain areas of the world we do not sell our products and services directly,
 
 To summarize the above, we gather personal information from a variety of sources including: 
 
-  * directly from you, through (a) registration processes (on-line, off-line and otherwise) and (b) all forms of interaction with QSS and its employees. If you provide us with personal information regarding another person, such as a work colleague, we will assume that you have their permission to do so; 
-  * indirectly from: (a) our distribution channel; (b) our partners; (c) credit agencies; and (d) governments. 
+·         directly from you, through (a) registration processes (on-line, off-line and otherwise) and (b) all forms of interaction with QSS and its employees. If you provide us with personal information regarding another person, such as a work colleague, we will assume that you have their permission to do so; 
 
-
+·         indirectly from: (a) our distribution channel; (b) our partners; (c) credit agencies; and (d) governments. 
 
 Any personal information QSS obtains from any of these sources at any time is subject to this Privacy Statement. 
 
@@ -53,23 +54,35 @@ Any personal information QSS obtains from any of these sources at any time is su
 
 QSS collects personal information to run its business as summarized above. The purposes for the information collected that transcend the business functions include: 
 
-  * develop, enhance, market and provide products and services; 
-  * understand your needs and eligibility for products and services; 
-  * recommend particular products and services to meet your needs; 
-  * sell to you and provide you with ongoing products and services from QSS and its partners; 
-  * provide you with information on QSS products & services and complimentary third party products & services; 
-  * receive and respond to your inquiries and requests in any medium; 
-  * tailor web site content and marketing messages; 
-  * compile statistics, reports and conduct market research; 
-  * issue, pay and generally administer invoices, purchase orders and other documents and processes associated with the provision of goods and services; 
-  * report to government bodies; 
-  * do credit checks; 
-  * negotiate, complete, administer and enforce contracts; 
-  * consider you for employment, when your personal information is provided in that context; 
-  * administer contests, to the extent that you enter QSS contests; 
-  * comply with laws. 
+·         develop, enhance, market and provide products and services; 
 
+·         understand your needs and eligibility for products and services; 
 
+·         recommend particular products and services to meet your needs; 
+
+·         sell to you and provide you with ongoing products and services from QSS and its partners; 
+
+·         provide you with information on QSS products & services and complimentary third party products & services; 
+
+·         receive and respond to your inquiries and requests in any medium; 
+
+·         tailor web site content and marketing messages; 
+
+·         compile statistics, reports and conduct market research; 
+
+·         issue, pay and generally administer invoices, purchase orders and other documents and processes associated with the provision of goods and services; 
+
+·         report to government bodies; 
+
+·         do credit checks; 
+
+·         negotiate, complete, administer and enforce contracts; 
+
+·         consider you for employment, when your personal information is provided in that context; 
+
+·         administer contests, to the extent that you enter QSS contests; 
+
+·         comply with laws. 
 
 ### Information Transfers & Sharing 
 
@@ -103,20 +116,20 @@ QSS has implemented industry standard security mechanisms and procedures to prot
 
 If you have questions or concerns regarding this statement or its application, please address them to:
 
-> Personal Information Protection Officer   
->  QNX Software Systems Ltd.  
->  175 Terrence Matthews Crescent  
->  Ottawa, Ontario, Canada K2M-1W8  
->  [privacy@qnx.com](mailto:privacy@qnx.com)
+Personal Information Protection Officer   
+QNX Software Systems    
+175 Terrence Matthews Crescent  
+Ottawa, Ontario, Canada K2M-1W8  
+[privacy@qnx.com](mailto:privacy@qnx.com)
 
 Further, you can withdraw your agreement to this Privacy Statement in writing through the Personal Information Protection Officer. 
 
 ### Changes to the Privacy Statement 
 
-We may change, modify, add or remove portions of the QSS Privacy Statement at any time. We will notify you of any changes by posting notice of such changes on this page, or sending notice via email or postal mail. 
+We may change, modify, add or remove portions of the QSS Privacy Statement at any time. We will notify you of any changes by posting notice of such changes on this page, or sending notice via email or postal mail.   The Privacy Statement was changed in October 2005 (from version QSSPS1_02 to QSSPS2_00) to reflect a change in the corporate operating structure of QNX Software Systems.  There were no substantive changes to the Privacy Statement.
 
-###  The Bottom Line 
+### The Bottom Line 
 
 By agreeing to this Privacy Statement, you are agreeing that QSS can collect, use, transfer and disclose your personal information for the purposes identified consistent with the terms of this Privacy Statement. 
 
-QSS Privacy Statement version: QSSPS1_02
+QSS Privacy Statement version: QSSPS2_00
