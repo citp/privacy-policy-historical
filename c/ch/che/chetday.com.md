@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chetday.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630000512id_/http%3A//chetday.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chetday.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210104332id_/http%3A//chetday.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Health & Beyond Online Privacy Policy
 
@@ -39,7 +39,7 @@ ChetDay.com does not knowingly collect or solicit Personally Identifiable Inform
 
 **Contacting Us.**
 
-You can [click here](https://web.archive.org/web/20050630000512id_/http%3A//chetday.com/feedback.htm) to contact us with our feedback form at ChetDay.com.
+You can [click here](https://web.archive.org/web/20051210104332id_/http%3A//chetday.com/feedback.htm) to contact us with our feedback form at ChetDay.com.
 
 **Changes to this Policy**
 
@@ -54,40 +54,6 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 ChetDay.com is controlled, operated and administered entirely within North Carolina. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.  
 
 
-[**Click Here**](http://chetday.com/cgi-bin/birdcast.cgi) **to recommend this H &B natural health page to a friend and receive a** ** free body detox routine for doing so.**
-
-### Improve Your Health and Have Fun  
-with my Free Newsletters  
-
-
-| **H &B Weekly**  
----  
+[**Click Here**](http://chetday.com/cgi-bin/birdcast.cgi) **to recommend Health & Beyond Online to a friend and receive a** ** free body detox routine for doing so.**  
   
-Better than a soak in a hot tub! With **H &B Weekly**, you'll learn how to lose weight, gain energy, and feel your best with natural health and weight loss articles every Wednesday. Includes book reviews, editorial commentary, letters to the editor, and other fun stuff. Informative and entertaining reading for beginners as well as serious health nuts. You can feel like a kid again.  
-  
-**Crock Pot Recipes**  
-Cash in on time and health. Who has hours to cook these days? I didn't until I discovered crock pot cuisine. Now I spend at most a half hour in the morning putting together a meal that my wife and kids rave about when we pull it out of the crock pot at dinner time. Tasty and easy-to-prepare recipes sent every Tuesday (vegetarian) and Thursday (meat/fish).  
-**Daily Health Tip**  
-**Today's Health Tip** hits your mailbox every Monday through Friday and it features a recommended natural health website, a home remedy that has withstood the test of time, or a summary and link to a natural health news story. Quick and easy to read, this newsletter helps you build health.  
-**Healthy Vegetarian Recipes**  
-Vegetarian, living food, and vegan recipes delivered to your mailbox every Monday. Perfect for those who want to eat more healthfully. Includes kitchen tips, letters to the editor, a thoughtful quote of the day, and more. Have fun with food for a change.  
-**Healthy Salmon Recipes**  
-There's nothing fishy about Chet's Healthy Salmon Recipes, a terrific little newsletter devoted to tasty and easy-to-prepare recipes that I send out every Wednesday. If you like salmon and want to join me in feeling energetic and on top of your game, these recipes will help you meet your goal.  
-**Amazing Cookies and Snackbars**  
-I love cookies and snackbars, but my waistline and desire for a long, healthy life keeps me away from Oreos. So I started **Amazing Cookies** to share every Friday a healthy cookie recipe as well as a more traditional recipe. Feed your sweet tooth without bloating up on sugar. Fun stuff!  
-**Amazing Soups**  
-You don't have to call all over town to find great soup recipes. I love hearty, healthy soup, and I bet you do too. Subscribe to my free soup recipe newsletter, **Amazing Soups** , and I'll send you a great soup recipe every Thursday. For free, too!  
-  
-Subscribe Unsubscribe 
-
-First name  
-
-
-E-mail address  
-  
-  
-**Terms of Service**  
-  
-**Because your privacy is important, no one sees my subscriber lists but me. These health newsletters are supported by sponsor ads and occasional promotional mailings.**  
-  
-**[Click here](https://web.archive.org/web/20050630000512id_/http%3A//chetday.com/privacypolicy.htm) for Privacy Policy.**
+---|---
