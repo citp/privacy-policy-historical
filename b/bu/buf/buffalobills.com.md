@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalobills.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519074407id_/http%3A//www.buffalobills.com/utility/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalobills.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210061719id_/http%3A//www.buffalobills.com/utility/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Buffalo Bills
 
