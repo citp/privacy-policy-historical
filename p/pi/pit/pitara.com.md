@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitara.com privacy policy that was archived on 2005-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050427085128id_/http%3A//pitara.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitara.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210184606id_/http%3A//pitara.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Pitara Kids Network | because kids value fun
 
