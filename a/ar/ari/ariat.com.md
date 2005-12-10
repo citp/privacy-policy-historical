@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ariat.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610154948id_/http%3A//ariat.com/custserv_privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariat.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210065340id_/http%3A//www.ariat.com/custserv_privacypolicy.aspx) for the most accurate reproduction.*
 
 # Ariat International - Privacy Policy
 
