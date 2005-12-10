@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cinescape.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207063238id_/http%3A//www.cinescape.com/0/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinescape.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210081607id_/http%3A//www.cinescape.com/0/privacy_policy.asp) for the most accurate reproduction.*
 
-# Cinescape - Home - Editorial
+# Cinescape – Movies, TV, Comic Books, DVDs, Toys, Video Games, Music and more.
 
 Mania Entertainment LLC takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
