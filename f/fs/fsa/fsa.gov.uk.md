@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsa.gov.uk privacy policy that was archived on 2005-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050509115927id_/http%3A//www.fsa.gov.uk/Pages/Privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsa.gov.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210070455id_/http%3A//www.fsa.gov.uk/Pages/Privacy/index.shtml) for the most accurate reproduction.*
 
 # Privacy policy statement
 
