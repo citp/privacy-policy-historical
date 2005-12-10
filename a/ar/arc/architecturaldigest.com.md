@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the architecturaldigest.com privacy policy that was archived on 2005-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050319023951id_/http%3A//www.architecturaldigest.com/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldigest.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210200342id_/http%3A//www.architecturaldigest.com/services/privacypolicy.html) for the most accurate reproduction.*
 
-# AD : SERVICES
+# AD
 
 |   
 ---  
