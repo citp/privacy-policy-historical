@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilephonesdirect.co.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603005727id_/http%3A//www.mobilephonesdirect.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilephonesdirect.co.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210171940id_/http%3A//www.mobilephonesdirect.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Mobile Phones Direct :: Vodafone, Orange, T-Mobile, 3 & O2 Mobile Phone Shop.
 
@@ -28,4 +28,8 @@ We analyse log files for market research purposes to see how popular our site is
 
 We do change this policy from time to time. When we do we will post the changes on this page.
 
-If you have any questions about our privacy policy or feel we have abused your privacy then please contact us by [clicking here](https://web.archive.org/web/20040603005727id_/http%3A//www.mobilephonesdirect.co.uk/contact.aspx)
+If you have any questions about our privacy policy or feel we have abused your privacy then please contact us by [clicking here](https://web.archive.org/web/20051210171940id_/http%3A//www.mobilephonesdirect.co.uk/contact.aspx)
+
+[ _Popular Searches_](http://www.mobilephonesdirect.co.uk/page.aspx?textid=28)
+
+[ _Nokia Searches_](http://www.mobilephonesdirect.co.uk/page.aspx?textid=34)
