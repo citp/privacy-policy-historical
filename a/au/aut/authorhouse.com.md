@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527080317id_/http%3A//www.authorhouse.com/Terms_Policies/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210063335id_/http%3A//www.authorhouse.com/W3C/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # AuthorHouse Privacy Policy
 
