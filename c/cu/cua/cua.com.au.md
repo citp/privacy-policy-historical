@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cua.com.au privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629124114id_/http%3A//www.cua.com.au/web/cua.nsf/docindex/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cua.com.au privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210061601id_/http%3A//www.cua.com.au/web/cua.nsf/docindex/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # CUA
 
