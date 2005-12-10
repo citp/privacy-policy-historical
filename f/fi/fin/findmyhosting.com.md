@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the findmyhosting.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305061928id_/http%3A//www.findmyhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmyhosting.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210053132id_/http%3A//www.findmyhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-FindMyHosting.com created a privacy policy (described herein) to show our dedication and commitment to the privacy of the users of our website. Please read the following to gain an understanding of our privacy policy. If you have any questions whatsoever regarding this policy, please fill out the following [contact form](https://web.archive.org/web/20050305061928id_/http%3A//www.findmyhosting.com/contact.htm) and a FindMyHosting.com representative will respond to your query as soon as possible.
+FindMyHosting.com created a privacy policy (described herein) to show our dedication and commitment to the privacy of the users of our website. Please read the following to gain an understanding of our privacy policy. If you have any questions whatsoever regarding this policy, please fill out the following [contact form](https://web.archive.org/web/20051210053132id_/http%3A//www.findmyhosting.com/contact.htm) and a FindMyHosting.com representative will respond to your query as soon as possible.
 
 FindMyHosting.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this policy. At FindMyHosting.com.com we do not collect any personal information whatsoever, unless you choose to share such information. If you do choose to share personal information via some form of correspondence, such information will not be shared, sold, or rented to others whatsoever.
 
