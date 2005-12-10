@@ -1,554 +1,623 @@
-<!--The following is the downloaded HTML source of the heinle.com privacy policy that was archived on 2002-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021218101517id_/http%3A//www.heinle.com/cgi-heinle/course_products_hl.pl%3Ffid%3DHS306b) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heinle.com privacy policy that was archived on 2005-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210215852id_/http%3A//www.thomson.com/corp/privacy.jsp) for the most accurate reproduction.-->
 
-<html><head>
-<title>Heinle - Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="javascript" src="/h_scripts.js"></script>
-<link rel="stylesheet" href="/style_heinle.css" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+	<title>Thomson - Privacy Statement</title>
+    <link rel="stylesheet" type="text/css" href="/css/thomson_main.css">
+    <link rel="stylesheet" type="text/css" href="/css/thomson_corp.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script language="javascript" src="/js/layerdisplay.js"></script>
+    <script language="javascript">
+    
+    // for the left nav and home page nav images    
+    var navImgList = new Array(); 
+    var navList;
+    
+    
+    //required for "changeImages()" 
+    var section = 'corp';
+    var subsection = 'null';
+    
+    function searchSubmit(formObj){
+	//<!--CR 282 - Anand 09/14/2005 -->
+	var newUrl = 'http://www.searchlearning.thomson.com/search?q=' + formObj.queryText.value + '&site=tl_col&btnG=Go&as_q=&sort=date%3AD%3AL%3Ad1&output=xml_no_dtd&ie=UTF-8&oe=UTF-8&client=default_frontend&proxystylesheet=default_frontend';
+	//<!--CR 282 - Anand 09/14/2005 -->
+	var selectedOption = formObj.search_area[formObj.search_area.selectedIndex].value;
+	//if thomson.com is selected search the entire site
+	if(selectedOption == "thomson"){
+		formObj.aboutUs.value="on";
+		formObj.pressRoom.value="on";
+		formObj.pressReleases.value="on";
+		formObj.investorRelations.value="on";
+		formObj.careers.value="on";
+		formObj.financial.value="on";
+		formObj.healthcare.value="on";
+		formObj.learning.value="on";
+		formObj.legal.value="on";
+		formObj.scientific.value="on";
+		formObj.taxAndAccounting.value="on";
+	}
+	else if (selectedOption == "financial"){
+		formObj.financial.value="on";
+	}else if (selectedOption == "healthcare"){
+		formObj.healthcare.value="on";
+	}else if (selectedOption == "learning"){
+		//<!--CR 282 - Anand 09/14/2005 -->
+		window.top.location.href = newUrl;
+		window.top.location.href.replace(newUrl);
+		//<!--CR 282 - Anand 09/14/2005 -->
+	}else if (selectedOption == "legal"){
+		formObj.legal.value="on";
+	}else if (selectedOption == "scientific"){
+		formObj.scientific.value="on";
+	}else if (selectedOption == "taxacct"){
+		formObj.taxAndAccounting.value="on";
+	}
+	//<!--CR 282 - Anand 09/14/2005 -->
+	if (selectedOption == "learning"){
+		return false;
+	}
+	//<!--CR 282 - Anand 09/14/2005 -->
+    }
+    function openwin(url, w, h, s) {
+			winstyle = 'top=50,left=50,width='+w+',height='+h;
+			if (s == 'scroll') {
+				winstyle = winstyle + ',scrollbars=yes';
+			}
+			window.open(url,'', winstyle);
+		}
+		
+    function redirect(form)
+        {
+            newPage = form.options[form.selectedIndex].value;
+            if (newPage != "")
+                window.top.location.href = newPage;
+        }
 
+	</script>	
 </head>
-<body bgcolor="#FFFFFF" text="#000000" onload="P7_autoLayers(0,'menuHeinle'); P7_autoHide('services')" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="753" border="0" bordercolor="navy" cellspacing="0" cellpadding="0">
 
-<!--BEGIN topnav -->
- <tbody><tr> 
-    <td colspan="3" align="left" valign="top">
-	  <table width="753" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          
-		  <td width="166" align="left" valign="top" background="/images/bg_head.jpg"><a href="/index.html"><img src="/images/topnav/logo_heinle.gif" width="166" height="75" border="0"></a></td>
-		  <td colspan="6" background="/images/topnav/bg_head.jpg" align="right" valign="top"> 
-            <table border="0" cellspacing="0" cellpadding="0">
-              <form name="search_top" method="get" action="/cgi-heinle/course_products_hl.pl"></form>
-		        <input type="hidden" name="fid" value="H3637">
-		        <input type="hidden" name="discipline_number" value="0">
-		        <input type="hidden" name="server" value="">
-		        <input type="hidden" name="scope" value="">
-		        <input type="hidden" name="search_type" value="union">
-		        <input type="hidden" name="radiobutton" value="all">
-		        <input type="hidden" name="layer" value="menuHeinle">
-                <tbody><tr>
-                  <td height="4">&nbsp;</td>
-				</tr>
-                <tr> 
-                  <td align="left" valign="bottom">
-					<input type="text" name="search_terms" class="txField" size="15" maxlength="50" border="0">
-				  </td>
-				  <td align="left" valign="bottom">&nbsp;
-					<input type="image" src="/images/topnav/searchBtn.jpg" border="0" width="50" height="16">
-					&nbsp;</td>
-				</tr>
-                <tr> 
-                  <td align="left" height="10">
-					<input type="image" src="/images/topnav/advance_search.gif" width="88" height="9" border="0">
-				  </td>
-				  <td></td>
-				</tr>
-              
-			</tbody></table>
-		  </td>
-		</tr>
-        <tr> 
-		  <td valign="top" width="166" height="17" bgcolor="c4d0e0">&nbsp;</td>
-		  <td valign="top" width="84" height="17" bgcolor="c4d0e0"><a href="/cgi-heinle/course_products_hl.pl?fid=HS308" class="topNav">About Us</a></td>
-		  <td valign="top" width="99" height="17" bgcolor="c4d0e0"><a href="/cgi-heinle/course_products_hl.pl?fid=HS304" class="topNav">Contact Us</a></td>
-		  <td valign="top" width="69" height="17" bgcolor="c4d0e0">
-			<div align="center"><a href="#" onclick="MM_openBrWindow('http://repfinder.thomsonlearning.com/heinle/repfinder1.jsp','popit','menubar=yes,scrollbars=yes,resizable=yes,width=620,height=400')" class="topNav">Rep&nbsp;Locator</a></div>
-		  </td>
-		  <td valign="top" width="84" height="17" bgcolor="c4d0e0">
-			<div align="right"><a href="/cgi-heinle/course_products_hl.pl?fid=HS304g" class="topNav">Careers</a></div>
-		  </td>
-		  <td valign="top" width="84" height="17" bgcolor="c4d0e0">
-			<div align="right"><a href="#" class="topNav" onclick="MM_showHideLayers('services','','show')">Services</a></div>
-		  </td>
-		  
-<!-- NOTE: uncommenting the following code will affect the table structure -->
-<!-- 		  <td valign="top" width="84" height="17" bgcolor="c4d0e0"> -->
-<!-- 			<div align="right"><a href="#" class="topNav">Site Map</a></div> -->
-<!-- 		  </td> -->
+<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="#ffffff" onload="preloadImages()">
+<a name="top"></a>
 
-		  <td valign="top" width="167" align="right" height="17" bgcolor="c4d0e0"> 
-			<div align="right" class="breadcrumb"> 
-			  <script language="JavaScript">
-	<!-- Begin
-	var months=new Array(13);
-	months[1]="January";
-	months[2]="February";
-	months[3]="March";
-	months[4]="April";
-	months[5]="May";
-	months[6]="June";
-	months[7]="July";
-	months[8]="August";
-	months[9]="September";
-	months[10]="October";
-	months[11]="November";
-	months[12]="December";
-	var time=new Date();
-	var lmonth=months[time.getMonth() + 1];
-	var date=time.getDate();
-	var year=time.getYear();
-	if (year < 2000)    // Y2K Fix, Isaac Powell
-	year = year + 1900; // http://onyx.idbsu.edu/~ipowell
-	document.write("<left>" + lmonth +" ");
-	document.write(date +", " + year +" </left>");
-	// End -->
-	</script><left>February 22, 2020 </left>
-			  &nbsp;</div>
-		  </td>
-		</tr>
-      </tbody></table>
-	</td>
-  </tr>
-<!--END topnav --> 
 
-<!--BEGIN breadcrumb -->
-   <tr valign="middle" align="left"> 
-	<td colspan="3" height="20" class="breadcrumbCell">
-	<span class="breadcrumb">&nbsp;&nbsp;&nbsp;<a href="/index.html">Heinle</a>
-<!-- IF course_products_t.html  -->	
+
+<script>
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
 	
-<script language="JavaScript1.2">
-<!--
-var contactTxt = "Contact Us";
-var empTXT = "Employment";
-var resTXT = "Professional Resources";
-var title = document.title;
-var flag = 1;
-title = title.slice(9);
-
-
-
-contactARRAY = new Array(
-'Contact Us - ESL',
-'Contact Us - ELT',
-'Contact Us - English',
-'Contact Us - World Languages',
-'Contact Us - International Representatives',
-'Contact Us - Technical Support',
-'Contact Us - Driving Directions',
-'Contact Us - Marketing Managers',
-'Contact Us - Copyright and Permissions'
-)
-
-empARRAY = new Array(
-'Employment - Summary of Benefits',
-'Employment - Internships'
-)
-
-resARRAY = new Array(
-'Professional Resources - AAUSC',
-'Professional Resources - AAUSC - Call for Papers'
-)
-
-aboutARRAY = new Array(
-'About Us - Book Reviews',
-'About Us - Press Room'
-)
-
-pressARRAY = new Array(
-'Press Room - Press Releases'
-)
-
-
-for (i=0; i< contactARRAY.length; i++) { 
-	if (title == contactARRAY[i]) {
-		title = contactARRAY[i].slice(13);
-		document.write(': <a href=\"/cgi-heinle/course_products_hl.pl?fid=HS304\">Contact Us</a>' + ' : ' + title);
-		flag = 0;
-	}
-	else if (title == contactTxt){
-		document.write (': '+title);
-		flag = 0;
-		break;
+	if (document.images && (preloadFlag == true)) {
+		if(changeImages.arguments[2] != subsection){
+			document[changeImages.arguments[0]].src = changeImages.arguments[1];
 		}
+	}
 }
 
-for (i=0; i< resARRAY.length; i++) { 
-	if (title == resARRAY[i]) {
-		title = resARRAY[i].slice(25);
-		document.write(': <a href=\"/cgi-heinle/course_products_hl.pl?fid=HS305wl\">Professional Resources</a>' + ' : ' + title);
-		flag = 0;
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		header_2005_02_over = newImage("/images/header_2005_02-over.gif");
+		header_2005_03_over = newImage("/images/header_2005_03-over.gif");
+		header_2005_04_over = newImage("/images/header_2005_04-over.gif");
+		header_2005_05_over = newImage("/images/header_2005_05-over.gif");
+		header_2005_06_over = newImage("/images/header_2005_06-over.gif");
+		header_2005_07_over = newImage("/images/header_2005_07-over.gif");
+		header_2005_08_over = newImage("/images/header_2005_08-over.gif");
+		preloadFlag = true;
 	}
-	else if (title == resTXT){
-		document.write (': '+title);
-		flag = 0;
-		break;
-		}
 }
 
-for (i=0; i< empARRAY.length; i++) {
-	if (title == empARRAY[i]) {
-		title = empARRAY[i].slice(13);
-		document.write(': <a href=\"/cgi-heinle/course_products_hl.pl?fid=HS304g\">Employment</a>' + ' : ' + title);
-		flag = 0;
+function changeNavImage()
+        {  
+        	if (document.images)
+        	{
+			for (var i=0; i < changeNavImage.arguments.length; i+=2)
+        		{                         
+			document[changeNavImage.arguments[i]].src = navImgList[changeNavImage.arguments[i]].states[changeNavImage.arguments[i+1]].src;
+        		}  
+        	}
+        }
+
+</script>
+
+
+<table width="760" height="21" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td><img src="/images/header_2005_01.gif" width="254" height="21" alt=""></td>
+		<td>
+			<a href="/index.jsp" onmouseover="changeImages('header_2005_02', '/images/header_2005_02-over.gif', 'home'); return true;" onmouseout="changeImages('header_2005_02', '/images/header_2005_02.gif', 'home'); return true;" onmousedown="changeImages('header_2005_02', '/images/header_2005_02-over.gif', 'home'); return true;" onmouseup="changeImages('header_2005_02', '/images/header_2005_02-over.gif', 'home'); return true;">
+				<img name="header_2005_02" src="/images/header_2005_02.gif" width="39" height="21" border="0" alt="Home"></a></td>
+		<td>
+			<a href="/corp/about/ab_home.jsp" onmouseover="changeImages('header_2005_03', '/images/header_2005_03-over.gif', 'about'); return true;" onmouseout="changeImages('header_2005_03', '/images/header_2005_03.gif', 'about'); return true;" onmousedown="changeImages('header_2005_03', '/images/header_2005_03-over.gif', 'about'); return true;" onmouseup="changeImages('header_2005_03', '/images/header_2005_03-over.gif', 'about'); return true;">
+				<img name="header_2005_03" src="/images/header_2005_03.gif" width="56" height="21" border="0" alt="About Us"></a></td>
+		<td>
+			<a href="/corp/products_solutions/ps_home.jsp" onmouseover="changeImages('header_2005_04', '/images/header_2005_04-over.gif', 'products'); toggleDropdown('show'); MM_showHideLayers('topNavDropdown','','show'); return true;" onmouseout="changeImages('header_2005_04', '/images/header_2005_04.gif', 'products'); toggleDropdown('hide'); return true;" onmousedown="changeImages('header_2005_04', '/images/header_2005_04-over.gif', 'products'); toggleDropdown('show'); MM_showHideLayers('topNavDropdown','','show');  return true;" onmouseup="changeImages('header_2005_04', '/images/header_2005_04-over.gif', 'products'); toggleDropdown('hide');  return true;">
+				<img name="header_2005_04" src="/images/header_2005_04.gif" width="117" height="21" border="0" alt="Products &amp; Solutions"></a></td>
+		<td>
+			<a href="/corp/pressroom/pr_home.jsp" onmouseover="changeImages('header_2005_05', '/images/header_2005_05-over.gif', 'pressroom'); return true;" onmouseout="changeImages('header_2005_05', '/images/header_2005_05.gif', 'pressroom'); return true;" onmousedown="changeImages('header_2005_05', '/images/header_2005_05-over.gif', 'pressroom'); return true;" onmouseup="changeImages('header_2005_05', '/images/header_2005_05-over.gif', 'pressroom'); return true;">
+				<img name="header_2005_05" src="/images/header_2005_05.gif" width="67" height="21" border="0" alt="Press Room"></a></td>
+		<td>
+			<a href="/corp/investor_relations/ir_home.jsp" onmouseover="changeImages('header_2005_06', '/images/header_2005_06-over.gif', 'investor_relations'); return true;" onmouseout="changeImages('header_2005_06', '/images/header_2005_06.gif', 'investor_relations'); return true;" onmousedown="changeImages('header_2005_06', '/images/header_2005_06-over.gif', 'investor_relations'); return true;" onmouseup="changeImages('header_2005_06', '/images/header_2005_06-over.gif', 'investor_relations'); return true;">
+				<img name="header_2005_06" src="/images/header_2005_06.gif" width="102" height="21" border="0" alt="Investor Relations"></a></td>
+		<td>
+			<a href="http://www.thomsoncareers.com/" onmouseover="changeImages('header_2005_07', '/images/header_2005_07-over.gif', 'careers'); return true;" onmouseout="changeImages('header_2005_07', '/images/header_2005_07.gif', 'careers'); return true;" onmousedown="changeImages('header_2005_07', '/images/header_2005_07-over.gif', 'careers'); return true;" onmouseup="changeImages('header_2005_07', '/images/header_2005_07-over.gif', 'careers'); return true;">
+				<img name="header_2005_07" src="/images/header_2005_07.gif" width="48" height="21" border="0" alt="Careers"></a></td>
+		<td>
+			<a href="/corp/contact_us/contact_us.jsp" onmouseover="changeImages('header_2005_08', '/images/header_2005_08-over.gif', 'contact_us'); return true;" onmouseout="changeImages('header_2005_08', '/images/header_2005_08.gif', 'contact_us'); return true;" onmousedown="changeImages('header_2005_08', '/images/header_2005_08-over.gif', 'contact_us'); return true;" onmouseup="changeImages('header_2005_08', '/images/header_2005_08-over.gif', 'contact_us'); return true;">
+				<img name="header_2005_08" src="/images/header_2005_08.gif" width="77" height="21" border="0" alt="Contact Us"></a></td>
+	</tr>
+</tbody></table>
+
+
+
+
+<script language="javascript">
+
+    function navImg(baseName)
+    {
+        this.states = new Array();
+        this.states["on"] = new Image(); this.states["on"].src = basePath + baseName + "_on.gif";
+        this.states["off"] = new Image(); this.states["off"].src = basePath + baseName + "_off.gif";
+        this.states["on_over"] = this.states["on"];
+        this.states["off_over"] = this.states["on"];
+    }
+    
+    var basePath;
+
+    	var dropdownState = "hide";
+	var timerID;
+	function toggleDropdown(state)
+	{
+		dropdownState = state;
+		if (state == "show")
+		{
+			changeImages('header_2005_04', '/images/header_2005_04-over.gif', 'products')
+			timerID = setInterval(displayDropdown,1500);
+		} 
+		else if (state == "hide")
+			changeImages('header_2005_04', '/images/header_2005_04.gif', 'products');
 	}
-	else if (title == empTXT){
-		document.write (': '+title);
-		flag = 0;
-		break;
-		}
-}
-
-
-for (i=0; i< aboutARRAY.length; i++) {
-	if (title == aboutARRAY[i]) {
-		title = aboutARRAY[i].slice(11);
-		document.write(': <a href=\"/cgi-heinle/course_products_hl.pl?fid=HS308\">About Us</a>' + ' : ' + title);
-		flag = 0;
-	}
-	else if (title == empTXT){
-		document.write (': '+title);
-		flag = 0;
-		break;
-		}
-}
-
-for (i=0; i< pressARRAY.length; i++) {
-	if (title == pressARRAY[i]) {
-		title = pressARRAY[i].slice(13);
-		document.write(': <a href=\"/cgi-heinle/course_products_hl.pl?fid=HS308a\">Press Room</a>' + ' : ' + title);
-		flag = 0;
-	}
-	else if (title == empTXT){
-		document.write (': '+title);
-		flag = 0;
-		break;
-		}
-}
-
-
-if (flag) {
-	document.write(': '+ title);
-	}
-
-
-
-// -->
-</script>: Privacy Policy
 	
+    function displayDropdown()
+    {
+        MM_showHideLayers('topNavDropdown','',dropdownState);
+		if (dropdownState == "hide")
+			clearInterval(timerID);
+    }
+	
+    basePath = "/images/topnav/dropdown_";
+    var dropdownImgList = new Array();     
+    dropdownList = ["financial", "healthcare", "learning", "legal", "scientific", "tax"];
+    
+    for (var i = 0; i < dropdownList.length; i++)
+    {
+        dropdownImgList[dropdownList[i]] = new navImg(dropdownList[i]);
+    }
+    
+    
+    // preloading images for the dropdown    
+    function changeDropdownImage()
+    {  
+    	if (document.images)
+    	{
+    		for (var i=0; i < changeDropdownImage.arguments.length; i+=2)
+    		{                         
+		       document[changeDropdownImage.arguments[i]].src = dropdownImgList[changeDropdownImage.arguments[i]].states[changeDropdownImage.arguments[i+1]].src;
+    		}  
+    	}
+    }
+</script>
+<div id="topNavDropdown" class="topNavDropdownNew">
+<table width="104" border="0" cellpadding="0" cellspacing="0" onmouseover="toggleDropdown('show');" onmouseout="toggleDropdown('hide');">
+	<tbody><tr>
+	    <td><a href="/financial/financial.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('financial','on');" onmouseout="changeDropdownImage('financial','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_financial_off.gif" width="104" height="14" alt="Financial" name="financial" border="0"></a></td>
+	</tr>
+	<tr>
+	    <td><a href="/healthcare/healthcare.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('healthcare','on');" onmouseout="changeDropdownImage('healthcare','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_healthcare_off.gif" width="104" height="14" alt="Healthcare" name="healthcare" border="0"></a></td>
+	</tr>
+	<tr>
+	    <td><a href="/learning/learning.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('learning','on');" onmouseout="changeDropdownImage('learning','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_learning_off.gif" width="104" height="14" alt="Learning" name="learning" border="0"></a></td>
+	</tr>				
+	<tr>
+	    <td><a href="/legal/legal.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('legal','on');" onmouseout="changeDropdownImage('legal','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_legal_off.gif" width="104" height="14" alt="Legal" name="legal" border="0"></a></td>
+	</tr>                                
+	<tr>
+	    <td><a href="/scientific/scientific.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('scientific','on');" onmouseout="changeDropdownImage('scientific','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_scientific_off.gif" width="104" height="14" alt="Scientific" name="scientific" border="0"></a></td>
+	</tr>
+	<tr>
+	    <td><a href="/taxacct/taxacct.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('tax','on');" onmouseout="changeDropdownImage('tax','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_tax_off.gif" width="104" height="14" alt="Tax and Accounting" name="tax" border="0"></a></td>
+	</tr>
+</tbody></table>
+
+</div>
+   
+<table width="760" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>		
+        <td width="254" align="center"><a href="/index.jsp"><img src="/images/misc/logo_thomson.gif" width="174" height="45" alt="The Thomson Corporation" border="0"></a></td>   
+        <td width="388" align="right" valign="middle">	
+	<!--CR 282 - Anand 09/14/2005 -->
+	<!--<form action="/search/executeSearchQuery.do" method="GET" onSubmit="searchSubmit(this);">-->	
+	<form action="/search/executeSearchQuery.do" method="GET" onsubmit="return searchSubmit(this);">
+	<!--CR 282 - Anand 09/14/2005 -->
+	<input type="text" name="queryText" value="Search" onfocus="if(this.value=='Search')this.value='';">
+			 in 
+	<select name="search_area">
+		<option value="thomson" selected="">Thomson.com</option>
+		<option value="financial">Financial</option>
+		<option value="healthcare">Healthcare</option>
+		<option value="learning">Learning</option>
+		<option value="legal">Legal</option>
+		<option value="scientific">Scientific</option>
+		<option value="taxacct">Tax &amp; Accounting</option>
+	</select>
+		
+
 	 
-    
-    
-	</span>
+		<input type="image" src="/images/buttons/bu_go.gif" width="16" height="14" alt="Go" align="absmiddle" border="0">
+	
+		<!-- DO NOT DELETE CODE BELOW   For Omniture correlated variables -->
 
-	</td>
-  </tr>
+			<input type="hidden" name="section" value="corp">
+ 			
+ 			
+ 			<input type="hidden" name="subsection" value="">
+ 			<input type="hidden" name="ternary" value="">
+ 			
+
+			
+			
+	    <input type="hidden" name="aboutUs" value="off">
+            <input type="hidden" name="legal" value="off">
+            <input type="hidden" name="pressRoom" value="off">
+            <input type="hidden" name="taxAndAccounting" value="off">
+            <input type="hidden" name="pressReleases" value="off">
+            <input type="hidden" name="investorRelations" value="off">
+	    <input type="hidden" name="careers" value="off">
+            <input type="hidden" name="learning" value="off">
+            <input type="hidden" name="financial" value="off">
+            <input type="hidden" name="healthcare" value="off">
+            <input type="hidden" name="scientific" value="off">
+
+
+
+            <!----------------------------Please Don't touch the Code Above  ------------------------->
+
+
+		</form></td>
+        <td width="120" valign="middle">
+            <img src="/images/s.gif" width="10" height="1" alt="" border="0"><a href="/search/advanced_search_corp.jsp?subsection=null">Advanced Search</a>
+        </td>
+    </tr>
+	
+    
+</tbody></table>
+
+
+
+
+    
+
+<table width="760" border="0" cellpadding="0" cellspacing="0" class="bg_topnav">
+    <tbody><tr>
+        <td class="bg_9" colspan="2"><img src="/images/s.gif" width="760" height="1" alt="" border="0"></td>
+    </tr>
+    <tr>
+		
+		<td width="178"><img src="/images/s.gif" width="178" height="20" alt="" border="0"></td>
+		
+        <td width="582"><img src="/images/s.gif" width="582" height="1" alt="" border="0"></td>
+    </tr>
+    <tr>
+        <td class="bg_9" colspan="2"><img src="/images/s.gif" width="760" height="1" alt="" border="0"></td>
+    </tr>
+</tbody></table>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="760">
+    <tbody><tr>
+        
+        <td width="10"><img src="/images/s.gif" width="10" height="1" alt="" border="0"></td>
+        <td width="164" valign="top">
+            <img src="/images/s.gif" width="1" height="8" alt="" border="0"><br>
+            
+
+
+
+    
+
+<script language="javascript">
+    // the variable declarations for nav_list and navImg() are in /includes/header.jsp
+    // preloading images for the navbar images
+    navList = ["about_us", "products_solutions","pressroom", "investor_relations", "careers", "contact_us"];
+    basePath = "/cms/assets/images/corporate/leftnav/leftnav_cp_";
+    for (var i = 0; i < navList.length; i++)
+    {
+        navImgList[navList[i]] = new navImg(navList[i]);
+    }
+	
+</script>
+<table width="164" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
+        <td class="bg_9" rowspan="100"><img src="/images/s.gif" width="1" height="1" alt="" border="0"></td>
+    </tr>
+
+    
+	
+    <tr>
+        <td><a class="leftnav" href="/corp/about/ab_home.jsp" onmouseover="changeNavImage('about_us', 'off_over');" onmouseout="changeNavImage('about_us', 'off');"><img src="/CMS/assets/images/corporate/leftnav/leftnav_cp_about_us_off.gif" name="about_us" width="163" height="16" alt="About Us" border="0"></a></td>
+    </tr>
+    <tr>
+        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
+    </tr>
+
+
+
+	
+    <tr>
+        <td><a class="leftnav" href="/corp/products_solutions/ps_home.jsp" onmouseover="changeNavImage('products_solutions', 'off_over');" onmouseout="changeNavImage('products_solutions', 'off');"><img src="/CMS/assets/images/corporate/leftnav/leftnav_cp_products_solutions_off.gif" name="products_solutions" width="163" height="16" alt="Products &amp; Solutions" border="0"></a></td>
+    </tr>
+    <tr>
+        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
+    </tr>
+
   
+    
+    
+	
+    <tr>		
+        <td><a class="leftnav" href="/corp/pressroom/pr_home.jsp" onmouseover="changeNavImage('pressroom', 'off_over');" onmouseout="changeNavImage('pressroom', 'off');"><img src="/CMS/assets/images/corporate/leftnav/leftnav_cp_pressroom_off.gif" name="pressroom" width="163" height="16" alt="Press Room" border="0"></a></td>
+    </tr>
+    <tr>
+        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
+    </tr>
+
+    
+    
+	
+    <tr>
+        <td><a class="leftnav" href="/corp/investor_relations/ir_home.jsp" onmouseover="changeNavImage('investor_relations', 'off_over');" onmouseout="changeNavImage('investor_relations', 'off');"><img src="/CMS/assets/images/corporate/leftnav/leftnav_cp_investor_relations_off.gif" name="investor_relations" width="163" height="16" alt="Investor Relations" border="0"></a></td>
+    </tr>
+    <tr>
+        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
+    </tr>
+	
+    
+    
+	
+    <tr>
+        <td><a class="leftnav" href="http://www.thomsoncareers.com" onmouseover="changeNavImage('careers', 'off_over');" onmouseout="changeNavImage('careers', 'off');"><img src="/CMS/assets/images/corporate/leftnav/leftnav_cp_careers_off.gif" name="careers" width="163" height="16" alt="Careers" border="0"></a></td>
+    </tr>
+    <tr>
+        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
+    </tr>
+	
+    
+	
+     <tr>
+        <td><a class="leftnav" href="/corp/contact_us/contact_us.jsp" onmouseover="changeNavImage('contact_us', 'off_over');" onmouseout="changeNavImage('contact_us', 'off');"><img src="/CMS/assets/images/corporate/leftnav/leftnav_cp_contact_us_off.gif" name="contact_us" width="163" height="16" alt="Contact Us" border="0"></a></td>
+    </tr>
+    <tr>
+        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
+    </tr>
+</tbody></table>
+
+
+
+        </td>
+        <td width="4"><img src="/images/s.gif" width="4" height="1" alt="" border="0"></td>
+        
+        <td width="388" valign="top">
+			
+            
+
+<table width="388" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+        <td width="1" class="bg_c" rowspan="100"><img src="/images/s.gif" width="1" height="1" alt="" border="0"></td>
+        <td width="13" rowspan="100"><img src="/images/s.gif" width="13" height="8" alt="" border="0"></td>
+        <td width="373"><img src="/images/s.gif" width="373" height="8" alt="" border="0"></td>
+        <td width="1" class="bg_c" rowspan="100"><img src="/images/s.gif" width="1" height="1" alt="" border="0"></td>
+    </tr>
+    <tr>
+        <td>
+            
+			
+
+<span class="breadcrumb">
+	<a href="/index.jsp">Home</a> :
+	
+	
+	
+	
+
+	<br><br>
+</span>
+			
+			<!-- START TITLE GRAPHIC SECTION -->
+            <img src="/images/sections/corp/heading/smhd_cp_privacy_statement.gif" width="373" height="20" alt="Privacy Statement" border="0"><br>
+			<br>
+            <!-- END TITLE GRAPHIC SECTION -->			
+        </td>
+    </tr>
+    <tr>
+        <td>
+			<p>This Privacy Statement relates solely to the online information collection and use practices of our Web site located at www.thomson.com (this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.</p>
+			<p>Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: <a href="mailto:generalinfo@thomson.com">generalinfo@thomson.com</a>.</p>
+			<br>
+			
+			<p><span class="subHead">WHAT INFORMATION ABOUT YOU DO WE COLLECT?</span></p>
+			<p>When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services.</p>
+			
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td width="20"><img src="/images/s.gif" width="20" height="1" alt="" border="0"></td>
+					<td>
+						<p><b>Personally Identifiable Information You Choose to Provide.</b></p>
+						<p>We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving press releases about The Thomson Corporation, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. If you indicate on our E-mail Alert registration form that you are a member of the press, we may also send you information regarding our business. We also request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.</p>
+
+						<p><b>Non-Personally Identifiable Information We Collect.</b></p>
+						<p>Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.</p>
+						<p>You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.</p>
+					</td>
+				</tr>
+			</tbody></table>
+			<br>
+			
+			<p><span class="subHead">HOW DO WE USE THE INFORMATION WE COLLECT?</span></p>
+			<p>We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an email through our "Contact Us" link or use our E-mail Alert form to change your preferences.</p>
+			<p>We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer.</p>
+			<p>We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement.</p>
+			<p>We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.</p>
+			<p>We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.</p>
+			<br>
+
+			<p><span class="subHead">HOW DO YOU ACCESS AND/OR MODIFY YOUR INFORMATION OR CHOICES?</span></p>
+			<p>If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information at any time by visiting the E-mail Alert area where you will have the opportunity to access and revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us" link and sending us an e-mail. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site.</p>
+			<br>
+
+			<p><span class="subHead">PRIVACY PROTECTIONS FOR CHILDREN USING THE INTERNET</span></p>
+			<p>Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records.</p>
+			<br>
+			
+			<p><span class="subHead">DATA SECURITY</span></p>
+			<p>We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.</p>
+			<br>
+
+			<p><span class="subHead">CONSENT TO TRANSFER</span></p>
+			<p>This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.</p>
+			<br>
+
+			<p><span class="subHead">LINKS</span></p>
+			<p>This Web Site contains links to third party sites as well as to other sites owned and/or operated by The Thomson Corporation. Please be aware that The Thomson Corporation is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.</p>
+			<br>
+		</td>
+    </tr>
+    <tr>
+        <td><img src="/images/s.gif" width="1" height="10" alt="" border="0"></td>
+    </tr>
+</tbody></table>
+
+<!-- page anchor -->
+<img src="/images/sections/corp/msc_page_anchor.gif" width="388" height="19" alt="" border="0">
+			
+        </td>
+        <td width="4"><img src="/images/s.gif" width="4" height="1" alt="" border="0"></td>
+        
+        <td width="190" valign="top"><img src="/images/s.gif" width="1" height="8" alt="" border="0"><br>
+			
+        </td>
+    </tr>
+</tbody></table>            
+
+
+
+<br><br>
+
+<table width="760" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+        <td width="175" class="bg_9" colspan="3"><img src="/images/s.gif" width="175" height="1" border="0" alt=""></td>
+        <td width="585" colspan="2"><img src="/images/s.gif" width="585" height="1" border="0" alt=""></td>        
+    </tr>
+    <tr>
+        <td width="10" rowspan="3"><img src="/images/s.gif" width="10" height="1" border="0" alt=""></td>
+        <td width="164" class="footerGrey" rowspan="3" valign="top">
+			<img src="/images/s.gif" width="164" height="5" border="0" alt=""><br>
+            <a href="/corp/copyright.jsp">Copyright Notices</a> | <a href="/corp/terms.jsp">Terms of Use</a> | 
+<a href="/corp/privacy.jsp">Privacy Statement</a><br>
+        </td>
+        <td width="1" class="bg_9" rowspan="2"><img src="/images/s.gif" width="1" height="15" border="0" alt=""></td>
+        <td width="585" colspan="2"><img src="/images/s.gif" width="585" height="14" border="0" alt=""></td>        
+    </tr>
+    <tr>
+        <td width="585" class="bg_9" colspan="2"><img src="/images/s.gif" width="585" height="1" border="0" alt=""></td>
+    </tr>
+    <tr>
+        <td><img src="/images/s.gif" width="1" height="15" border="0" alt=""></td>
+		<td><img src="/images/s.gif" width="15" height="1" border="0" alt=""></td>
+        <td align="left" class="footer">
+            <img src="/images/s.gif" width="569" height="5" border="0" alt=""><br>
+            
+
+
+
 
  
-<!--END breadcrumb -->
+<a href="/index.jsp">Home</a> | <a href="/corp/sitemap.jsp">Site Map</a> | <a href="/corp/about/ab_home.jsp">About Us</a> | <a href="/corp/products_solutions/ps_home.jsp">Products &amp; Solutions</a> |<a href="/corp/pressroom/pr_home.jsp">Press Room</a> | <a href="/corp/investor_relations/ir_home.jsp">Investor Relations</a> | <a href="http://www.thomsoncareers.com">Careers</a> | <a href="/corp/contact_us/contact_us.jsp">Contact Us</a><br>
+<a href="/financial/financial.jsp">Financial</a> | <a href="/healthcare/healthcare.jsp">Healthcare</a> | <a href="/learning/learning.jsp">Learning</a> | <a href="/legal/legal.jsp">Legal</a> | <a href="/scientific/scientific.jsp">Scientific</a> | <a href="/taxacct/taxacct.jsp">Tax &amp; Accounting</a>
+<br>
+<!-- SiteCatalyst code version: G.4.
+Copyright 1997-2003 Omniture, Inc. More info available at
+http://www.omniture.com -->
 
 
-  <!-- BEGIN main body -->
-  <tr> 
-  	<!-- LEFTNAV -->
-  	<td class="midblue" width="173" align="center"><br>
-	<img src="/images/tspacer.gif" width="173" height="485"></td>
-	
-	<!-- GUTTER -->
-	<td width="10" align="top"><img src="/images/tspacer.gif" width="10" height="1"></td>
-	
-	<!-- MAIN CONTENT -->
-	<td width="570" valign="top">
-	  <h1>Privacy Policy</h1>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
 
-      <p class="maintexthead">Heinle/Thomson Learning Internet Privacy Policy</p>
-      
-      <p class="maintext">At Heinle/Thomson Learning, we recognize the importance 
-        of protecting the privacy of our customers. The information that we collect 
-        at this web site is confidential and will be used for internal purposes 
-        only. We will not sell, rent or release any information gathered at this 
-        site to a third party. So that you feel comfortable while browsing our 
-        site, we have outlined below exactly what information we gather and how 
-        it is used. If you have any questions about our privacy policy or our 
-        web procedures, feel free to contact us:</p>
-      <p class="maintext">Heinle<br>
-        Attn: Webmaster<br>
-        25 Thomson Place<br>
-        Boston, MA 02210<br>
-        e-mail: <a href="mailto:reply@heinle.com">reply@heinle.com</a></p>
-      <p class="maintext">The information we collect is used to improve the content 
-        of our Web pages, to notify customers about updates to our Web site, to 
-        improve our products, to contact customers for marketing purposes, and 
-        to receive feedback from customers about the products we publish and related 
-        course and market information. It is not shared with other organizations.</p>
-      <p class="maintext">For each visitor to our Web pages, our Web server automatically 
-        recognizes the consumer's domain name. In general, we collect only the 
-        domain name, not the e-mail address of visitors to our web pages. However, 
-        we do collect e-mail addresses when messages are posted to our bulletin 
-        board, when postings are made to our chat areas, when e-mail addresses 
-        are volunteered on our subscription page, survey pages and/or site registrations, 
-        and when customers communicate with us via e-mail. </p>
-      <p class="maintext">If you supply us with your e-mail address on-line you 
-        may receive periodic e-mail from us with information on new products and 
-        services. If you receive e-mail communication from us and do not want 
-        to continue receiving it in the future, please let us know by contacting 
-        us via e-mail, phone, or mail. Please provide us with your exact name 
-        and e-mail address. </p>
-      <p class="maintext">If you supply us with your postal address on-line you 
-        may receive periodic mailings from us with information on new products 
-        and services or upcoming events. If you do not wish to receive such mailings, 
-        please let us know by contacting us via e-mail, phone or mail. Please 
-        provide us with your exact name and address. </p>
-      <p class="maintext">Persons who supply us with their telephone numbers on-line 
-        may receive telephone contact from us with information regarding orders 
-        they have placed on-line. They also may receive telephone contact from 
-        us with information regarding new products and services or upcoming events. 
-        If you do not wish to receive such telephone calls, please let us know 
-        by contacting us via e-mail, phone or mail.</p>
-      <p class="maintext">We use WebTrends Live to conduct anonymous 
-        web traffic analysis for our site. While WebTrends Live 
-        makes use of cookies, no personal information is ever 
-        collected or analyzed by this service.</p><br>
-
-	</td>
-	
-  </tr>
-
-  <!-- END main body -->
+var s_pageName=""
+var s_server=""
+var s_channel=""
+var s_pageType=""
+var s_prop1=""
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+//var s_prop5=""
+//var s_prop6=""
+//var s_prop7=""
+//var s_prop8=""
+//var s_prop9=""
+var s_prop10=""
+/* E-commerce Variables */
+var s_campaign=""
+var s_state=""
+var s_zip=""
+var s_events=""
+var s_products=""
+var s_purchaseID=""
+var s_eVar1=""
+var s_eVar2=""
+var s_eVar3=""
+var s_eVar4=""
+var s_eVar5=""
+/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
+//-->
+</script>
+<script language="JavaScript" src="/js/s_code_remote.js"></script>
+<!-- End SiteCatalyst code version: G.4. -->
+<script language="JavaScript">
+<!--
+s_wds(s_account); s_ca(s_account);
+function sendAnalyticsEvent(str){
+ns=s_account; if(str!=null)ns+=","+str;void(s_gs(ns));}
+function sendLinkEvent(str,lnkname){
+ns=s_account; if(str!=""&&str!=null)ns+=","+str; s_linkType="o"; s_lnk=true;
+s_linkName=lnkname; void(s_gs(ns));}
+//-->
+</script>
 
 
-<!-- BEGIN footer -->
-  <tr> 
-    <td colspan="3" height="50" valign="top"> 
-      <div align="center" class="copyright">
-      <hr class="footerHR" width="90%">
-      <a href="/index.html">Home</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/cgi-heinle/course_products_hl.pl?fid=HS306b">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/cgi-heinle/course_products_hl.pl?fid=HS306a">Copyright &amp; Terms</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-        <a href="http://www.thomsonlearning.com/default2.asp" target="new">Thomson Learning</a> 
-      </div><br><br>
-	</td>
-  </tr>
-<!-- END footer -->
 
-</tbody></table>
-<!-- BEGIN topnav layers -->
-<div id="services" style="position:absolute; left:534px; top:92px; width:170px; height:167px; z-index:31; visibility: hidden">
-  <table width="170" border="0" cellspacing="0" cellpadding="0" bgcolor="E4EAF5">
-	<tbody><tr>
-		<td colspan="3" width="170" height="2" class="midblue"><img src="/images/tspacer.gif" width="1" height="2" border="0"></td>
-	</tr>
-	<tr>
-		<td colspan="3" width="170" height="5"><img src="/images/topnav/shadow.gif" width="170" height="5" border="0" vspace="0" hspace="0"></td>
-	</tr>
-	<tr>
-		<td rowspan="7"><img src="/images/tspacer.gif" width="10" height="1" border="0"></td>
-		<td colspan="2"><img src="/images/tspacer.gif" width="160" height="5" border="0"></td>
-	</tr>
-	<tr>
-	  <td class="ltblue" width="10" valign="top"><img src="/images/icons_buttons/3x3_blue.gif" width="3" height="3" border="0" vspace="5" hspace="5"></td>
-	  <td class="ltblue" width="150"><a href="/cgi-heinle/course_products_hl.pl?fid=HS304t" class="rightNav">Evaluate Our Products</a></td>
-	</tr>
-	<tr>
-	  <td class="ltblue" width="10" valign="top"><img src="/images/icons_buttons/3x3_blue.gif" width="3" height="3" border="0" vspace="5" hspace="5"></td>
-	  <td class="ltblue" width="150"><a href="/cgi-heinle/course_products_hl.pl?fid=HS304p" class="rightNav">Conferences and Events</a></td>
-	</tr>
-	<tr>
-	  <td class="ltblue" width="10" valign="top"><img src="/images/icons_buttons/3x3_blue.gif" width="3" height="3" border="0" vspace="5" hspace="5"></td>
-	  <td class="ltblue" width="150"><a href="/cgi-heinle/course_products_hl.pl?fid=HS304s" class="rightNav">Test Drive Our Online Tools</a></td>
-	</tr>
-	<tr>
-	  <td class="ltblue" width="10" valign="top" height="9"><img src="/images/icons_buttons/3x3_blue.gif" width="3" height="3" border="0" vspace="5" hspace="5"></td>
-	  <td class="ltblue" width="150" height="9"><a href="http://archive.thomson.com/pam/" class="rightNav" target="new">Build Your Own Text</a></td>
-	</tr>
-	<tr>
-	  <td class="ltblue" width="10" valign="top"><img src="/images/icons_buttons/3x3_blue.gif" width="3" height="3" border="0" vspace="5" hspace="5"></td>
-	  <td class="ltblue" width="150"><a href="#" onclick="MM_openBrWindow('http://repfinder.thomsonlearning.com/heinle/repfinder1.jsp','popit','menubar=yes,scrollbars=yes,resizable=yes,width=620,height=400')" class="rightNav">Find Your Representative</a></td>
-	</tr>
-	<tr>
-	  <td class="ltblue" width="160" valign="top" colspan="2"><img src="/images/tspacer.gif" width="1" height="10" border="0"></td>
-	</tr>
-  </tbody></table>
-</div>
-<!-- END topnav layers -->
-
-<!-- BEGIN leftnav layers --> 
-<div id="menuHeinle" style="position:absolute; width:165px; z-index:30; left: 0px; top: 120px; visibility: hidden">
-	<table width="165" border="0" bordercolor="red" cellspacing="0" cellpadding="0">
-		<!-- ENGLISH  -->
-		<tbody><tr>
-		  <td class="midblue" colspan="2"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=300&amp;layer=menuEnglish" class="leftnavHead"><img src="/images/leftnav/left_nav_bullet.gif" width="8" height="8" border="0" hspace="3">English</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRuleTop"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=300&amp;layer=menuEnglishSub1" class="leftnavSub">Developmental Reading and Writing</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=300&amp;layer=menuEnglishSub2" class="leftnavSub">Composition</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=300&amp;layer=menuEnglishSub3"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></a></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=300&amp;layer=menuEnglishSub3" class="leftnavSub">Literature</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><img src="/images/tspacer.gif" width="1" height="1"></td>
-		  <td class="ltblue" width="149"><a href="/cgi-heinle/course_products_hl.pl?fid=H1&amp;discipline_number=300&amp;heinle_code=1083&amp;layer=menuEnglish" class="leftnavSub">Linguistics</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><img src="/images/tspacer.gif" width="1" height="1"></td>
-		  
-      <td class="ltblue" width="149"><a href="/cgi-heinle/course_products_hl.pl?fid=H1&amp;discipline_number=300&amp;heinle_code=1014&amp;layer=menuEnglish" class="leftnavSub">Professional 
-        and Technical Communication</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=300&amp;layer=menuEnglishSub6" class="leftnavSub"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></a></td>
-		  <td class="ltblue" width="149"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=300&amp;layer=menuEnglishSub6" class="leftnavSub">Professional Development</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="4" class="ltblueRuleBtm"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		
-		
-		<!-- ESL -->
-		<tr>
-		  <td class="midblue" colspan="2"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=301&amp;layer=menuESL" class="leftnavHead"><img src="/images/leftnav/left_nav_bullet.gif" width="8" height="8" border="0" hspace="3">ESL / ELT</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRuleTop"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=301&amp;layer=menuESLSub1"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></a></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=301&amp;layer=menuESLSub1" class="leftnavSub">Core Series: School</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=301&amp;layer=menuESLSub2"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></a></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=301&amp;layer=menuESLSub2" class="leftnavSub">Core Series: Adult</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><img src="/images/tspacer.gif" width="2" height="14"></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H1&amp;discipline_number=301&amp;heinle_code=1021&amp;layer=menuESL" class="leftnavSub">Dictionaries</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><img src="/images/tspacer.gif" width="2" height="14"></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H1&amp;discipline_number=301&amp;heinle_code=1022&amp;layer=menuESL" class="leftnavSub">Grammar</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><img src="/images/tspacer.gif" width="2" height="14"></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H1&amp;discipline_number=301&amp;heinle_code=1023&amp;layer=menuESL" class="leftnavSub">Reading</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><img src="/images/tspacer.gif" width="2" height="14"></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H1&amp;discipline_number=301&amp;heinle_code=1024&amp;layer=menuESL" class="leftnavSub">Writing</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=301&amp;layer=menuESLSub3"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></a></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=301&amp;layer=menuESLSub3" class="leftnavSub">Listening, Speaking, Pronunciation</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=301&amp;layer=menuESLSub4"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></a></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=301&amp;layer=menuESLSub4" class="leftnavSub">Vocabulary and Idioms</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=301&amp;layer=menuESLSub5"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></a></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=301&amp;layer=menuESLSub5" class="leftnavSub">English for Specific Purposes</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=301&amp;layer=menuESLSub6"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></a></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=301&amp;layer=menuESLSub6" class="leftnavSub">Professional Development</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="4" class="ltblueRuleBtm"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		
-		
-		<!-- WORLD LANGUAGES -->
-		<tr>
-		  <td class="midblue" colspan="2"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=302&amp;layer=menuWorld" class="leftnavHead"><img src="/images/leftnav/left_nav_bullet.gif" width="8" height="8" border="0" hspace="3">World Languages</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="4" class="ltblueRuleTop"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-
-		<tr>
-		  <td class="ltblue" width="16"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=302&amp;layer=menuWorldSub2"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></a></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=302&amp;layer=menuWorldSub2" class="leftnavSub">French</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=302&amp;layer=menuWorldSub3"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></a></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=302&amp;layer=menuWorldSub3" class="leftnavSub">German</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=302&amp;layer=menuWorldSub4"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></a></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=302&amp;layer=menuWorldSub4" class="leftnavSub">Italian</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=302&amp;layer=menuWorldSub1"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></a></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=302&amp;layer=menuWorldSub1" class="leftnavSub">Spanish</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="ltblueRule"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td class="ltblue" width="16"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=302&amp;layer=menuWorldSub5"><img src="/images/leftnav/lnav_arrow_closed2.gif" width="7" height="7" hspace="3" border="0"></a></td>
-		  <td class="ltblue" width="184"><a href="/cgi-heinle/course_products_hl.pl?fid=H300&amp;discipline_number=302&amp;layer=menuWorldSub5" class="leftnavSub">Professional Development</a></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="4" class="ltblueRuleBtm"><img src="/images/tspacer.gif" width="2" height="4"></td>
-		</tr>
-		<tr>
-		  <td colspan="2" height="2" class="midblue">&nbsp;<br></td>
-		</tr>
-	  </tbody></table>
   
-</div>
-<!-- END layers -->
+   
+    
+  
+
+        </td>
+    </tr>
+</tbody></table>
+<br><br>
 
 
 
-</body></html>
+
+              </body></html>
