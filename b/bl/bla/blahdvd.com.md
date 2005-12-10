@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blahdvd.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303171243id_/http%3A//www.blahdvd.com/blah/help.aspx%3Fmode%3Dlegal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blahdvd.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210070801id_/http%3A//www.blahdvd.com/blah/help.aspx%3Fmode%3Dlegal) for the most accurate reproduction.*
 
-# Shop @ BlahDVD 4 the cheapest DVDs Films Movies Music CDs UK
+# Shop @ BlahDVD for the cheapest DVDs Films Movies Music CDs UK
 
 **Privacy & Security**
 
@@ -31,5 +31,3 @@ The site is a Verisign Secure Site. To ensure that this is a legitimate Verisign
 Consent to the use of information in the manner described.**
 
 By using the forms on this website and disclosing your personal details you are consenting to the collection, storage and processing of your personal information in the manner described. Should any changes be made to this policy you will be notified by email and relevant pages on the site. At this stage you would have the opportunity to amend your account should you object to any proposed changes prior to their implementation.
-
-[](https://web.archive.org/web/20050303171243id_/http%3A//www.blahdvd.com/blah/default.aspx)
