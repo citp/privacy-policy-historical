@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alliance-leicestercommercialbank.co.uk privacy policy that was archived on 2005-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050210093946id_/http%3A//www.alliance-leicestercommercialbank.co.uk/pages/HP00004.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliance-leicestercommercialbank.co.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210072920id_/http%3A//alliance-leicestercommercialbank.co.uk/content/HP000005.asp) for the most accurate reproduction.*
 
-# Business Banking - Alliance & Leicester Commercial Bank
+# Alliance & Leicester Commercial Bank - Privacy Statement
 
-## privacy statement and use of your information
+## Page content
 
 Alliance & Leicester plc are committed to protecting the privacy of the information We obtain from You. That information shall be obtained on each occasion that You access the Alliance & Leicester website and when You apply for or use any product or service featured in the Website. Alliance & Leicester plc aims to provide a service which meets Your individual requirements and needs. 
 
@@ -22,4 +22,4 @@ You acknowledge the Internet is not a 100% secure medium for communication and, 
 
 D. Use of Cookies
 
-We may use cookies (small files stored on the hard drive of your computer which do not harm your computer) to enable Us to record your preferences. However, We do not store any personal information that other organisations could read and understand about you and We do not monitor your visits to websites not hosted by Us. 
+We may use cookies (small files stored on the hard drive of your computer which do not harm your computer) to enable Us to record your preferences. However, We do not store any personal information that other organisations could read and understand about you and We do not monitor your visits to websites not hosted by Us.
