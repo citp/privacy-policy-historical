@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204111732id_/http%3A//www.journeyed.com/aboutUs.asp%3FPID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210112818id_/http%3A//www.journeyed.com/aboutUs.asp%3FPID%3Dprivacy) for the most accurate reproduction.*
 
 # JourneyEd.com - Academic Software Discounts!
 
