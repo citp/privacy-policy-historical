@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aerosoles.com privacy policy that was archived on 2005-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050610085002id_/http%3A//www.aerosoles.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerosoles.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210082249id_/http%3A//www.aerosoles.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Aerosoles Privacy Policy
 
@@ -13,8 +13,8 @@ If you have any questions about this privacy statement or the content and practi
 Direct Division  
 201 Meadow Road  
 Edison, NJ 08817  
-Email: [catalog@aerosoles.com](mailto:catalog@aerosoles.com)  
-Tel: 1-** **866-632-3120**
+Email: [Customer Service](mailto:catalog@aerosoles.com?subject=privacy%20policy%20questions)   
+Tel: 800-798-9478 **
 
 **Aerogroup International Privacy Policy**   
 **At Aerosoles your privacy is a priority.**
@@ -53,11 +53,11 @@ We use the information we collect for various purposes, including:
 **  
 Information We Share with Others**
 
-**Aerosoles:** We share the information we collect internally to continually evolve and refine the products and services we offer. (relevant catalog companies) 
+**Aerosoles:** We share the information we collect internally to continually evolve and refine the products and services we offer.
 
 **Service Providers:** We provide information to other companies, including banks and companies that process credit cards and checks, to secure the financial transactions necessary to process orders, exchanges, returns, refunds and credits. 
 
-**Third-Party Offers:** Occasionally, we provide your physical mailing address information to responsible outside companies we carefully select so they can let you know about those of their products or services we think might be of interest to you. If you would prefer not to receive offers from outside companies please write to us at Aerosoles Direct Division, PO Box 1916, Edison, NJ 08818-1916 or call us at 866-632-3120.
+**Third-Party Offers:** Occasionally, we provide your physical mailing address information to responsible outside companies we carefully select so they can let you know about those of their products or services we think might be of interest to you. If you would prefer not to receive offers from outside companies please write to us at Aerosoles Direct Division, PO Box 1916, Edison, NJ 08818-1916 or call us at 800-798-9478.
 
 **Others:** On rare occasions, we may be required to disclose customer information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. Also, if the ownership of all or a part of a business within the Aerosoles were to change, customer information pertinent to that business’s operations would likely be transferred to, or licensed for use by, the new owner.
 
@@ -73,7 +73,7 @@ We will make every effort to implement any choice you make as soon as possible.
   
 **Email Communications**
 
-From time to time, we may notify you of Aerosoles promotions, announcements or events via e-mail. If you prefer not to receive these notifications, please write to us at Aerosoles Direct Division, Attn: Customer Service, PO Box 1916, Edison, NJ 08818-1916 or call us at 866-632-3120.
+From time to time, we may notify you of Aerosoles promotions, announcements or events via e-mail. If you prefer not to receive these notifications, please write to us at Aerosoles Direct Division, Attn: Customer Service, PO Box 1916, Edison, NJ 08818-1916 or call us at 800-798-9478.
 
 **Safeguarding the Information We Collect**
 
@@ -86,8 +86,7 @@ We limit the information we provide to outside companies to only the information
 **  
 You can update or correct your name, address, telephone number, or Email address by:   
 writing to us at Aerosoles Direct Division, PO Box 1916, Edison, NJ 08818-1916.  
-calling us at 8666323120   
-Emailing us at [customerservice@aerosoles.com](mailto:customerservice@aerosoles.com)
+calling us at 800-798-9478 or [email](mailto:customerservice@aerosoles.com?subject=update%20your%20account) us. 
 
   
 **The Privacy of Aerosoles.com Customers Transaction Security**
@@ -118,7 +117,10 @@ We do not knowingly collect any personal information from children under the age
 
 While visiting Aerosoles.com, you may link to web sites operated by our business partners or other third parties. When you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the Aerosoles privacy policy. We encourage you to read that policy before submitting any personal information. 
 
-If you would like further information, or have any questions, about our privacy policy:   
-please write to us at Aerosoles Direct Division, PO Box 1916 201 Edison, NJ 08818-1916 Attention: Customer Relations.   
-call us at 866-632-3120.   
-or Email us at [customerservice@aerosoles.com](mailto:customerservice@aerosoles.com)
+If you would like further information, or have any questions, about our privacy policy, please write to us at:
+
+Aerosoles Direct Division  
+PO Box 1916  
+Edison, NJ 08818-1916  
+Attention: Customer Relations. or call us at 800-798-9478.   
+or send us an [email](mailto:customerservice@aerosoles.com?subject=privacy%20policy%20questions).
