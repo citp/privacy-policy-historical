@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlsli.com privacy policy that was archived on 2004-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040203131815id_/http%3A//www.mlsli.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsli.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210181659id_/http%3A//www.mlsli.com/privacy.cfm) for the most accurate reproduction.*
 
 # MLSLI.com - Privacy Policy
 
@@ -71,7 +71,7 @@ Reading this Privacy Policy should help you understand how any information you s
 
 **How do I "opt out"?**
 
-You also have the ability to terminate e-mail newsletter correspondence from us at any time. You will either be given the chance to opt-out of direct mailings when you disclose your e-mail address to us, .you can simply reply to our e-mail typing “Unsubscribe” in the subject line or e-mail the appropriate webmaster below with your request , and we will promptly remove your address from that e-mail service: info@mlslirrealtor.com
+You also have the ability to terminate e-mail newsletter correspondence from us at any time. You will either be given the chance to opt-out of direct mailings when you disclose your e-mail address to us, .you can simply reply to our e-mail typing “Unsubscribe” in the subject line or e-mail the appropriate webmaster below with your request , and we will promptly remove your address from that e-mail service: [info@mlsli.com](mailto:info@mlsli.com)
 
 If you feel concerned about the cookies that are sent between our computers and yours, you may, through your Web browser, either choose to reject them automatically, or have your computer prompt you before accepting them. Generally, this is done by selecting the appropriate cookies setting on your Web browser (usually found in “Internet Options” or “Preferences”). Please note, however, that some of our features and services depend on the use of cookies. Therefore, you will be unable to take advantage of those features if you choose not to accept cookies. 
 
@@ -81,7 +81,7 @@ Whenever personal information about you is stored on our computers, that informa
 
 Since your financial information is especially sensitive, we take special care to keep it secure. We will only transmit or ask for this information over secure Internet connections, using SSL (Secure Sockets Layer)encryption, the currently accepted standard for online security, and security keys. In addition, we require password authentication from any third parties you’ve authorized to receive this information. Finally, your credit card number and financial information are never stored on our servers.  While this means you may have to enter this information more than once, we believe the added security is worth the extra effort. 
 
-Of course, we appreciate your help in safeguarding the integrity of your own and others’ privacy. We hope you’ll use common sense whenever you disclose personal information over the Internet. Just as importantly, we encourage you to let us know immediately if you suspect that the information you share with us is being used in any way contrary to this privacy policy.  To contact us, please send an e-mail to: [info@MLSLI.com](mailto:info@MLSLI.com). 
+Of course, we appreciate your help in safeguarding the integrity of your own and others’ privacy. We hope you’ll use common sense whenever you disclose personal information over the Internet. Just as importantly, we encourage you to let us know immediately if you suspect that the information you share with us is being used in any way contrary to this privacy policy.  To contact us, please send an e-mail to: [info@mlsli.com](mailto:info@MLSLI.com). 
 
 **Scope of This Privacy Policy: Outside Links**
 
@@ -95,4 +95,4 @@ Privacy Administrator - MLSLI.com
 300 Sunrise Highway  
 West Babylon, New York 11704  
 Fax 631-661-5202  
-E-mail: [info@MLSLI.com](mailto:info@MLSLI.com)
+E-mail: [info@mlsli.com](mailto:info@MLSLI.com)
