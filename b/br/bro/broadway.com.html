@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the broadway.com privacy policy that was archived on 2005-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050405210109id_/http%3A//www.broadway.com/gen/general.aspx%3Fci%3D500727) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the broadway.com privacy policy that was archived on 2005-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210104009id_/http%3A//www.broadway.com/gen/general.aspx%3Fci%3D500727) for the most accurate reproduction.-->
 
 <html><head><title>
 	Broadway.com: New York &amp; London Theater Tickets, News, Interviews, Broadway Show Information, Photos &amp; Video, Musicals &amp; Plays
@@ -21,13 +21,13 @@
 		<meta content="Visual Basic .NET 7.1" name="CODE_LANGUAGE">
 		<meta content="JavaScript" name="vs_defaultClientScript">
 		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
-		<link href="http://www.broadway.com/CSS/bway2004.css" type="text/css" rel="stylesheet">
+		<link href="../CSS/bway2004.css" type="text/css" rel="stylesheet">
 		<link href="../css/bway2004.css" type="text/css" rel="stylesheet">
 		<script language="javascript" src="../../JS/JS_Functions.js"></script>
 
 		 
 	</head>
-	<body>
+	<body background="http://www.broadway.com/site_images/sponsor.gif">
 	
 	
 	<form name="form1">
@@ -35,20 +35,70 @@
 		
 
 
-<link href="../CSS/bway2004.css" type="text/css" rel="stylesheet">
+
+<!------ OAS SETUP begin ------>
+
+<script language="JavaScript">
+<!--
+//configuration
+
+
+OAS_url = 'http://oascentral.broadway.com/RealMedia/ads/';
+
+
+
+
+//OAS_sitepage = window.location.hostname + window.location.pathname;
+OAS_sitepage = 'www.broadway.com/programs';
+OAS_listpos = 'Top';
+OAS_query = '';
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+  document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+}
+//-->
+</script>
+
+<script language="JavaScript">
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+  OAS_version = 10;
+if (OAS_version >= 11)
+  document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
+</script><script language="JavaScript1.1" src="http://oascentral.broadway.com/RealMedia/ads/adstream_mjx.ads/www.broadway.com/programs/1486342567@Top?"></script>
+
+<script language="JavaScript">
+<!--
+document.write('');
+function OAS_AD(pos) {
+  if (OAS_version >= 11)
+    OAS_RICH(pos);
+  else
+    OAS_NORMAL(pos);
+}
+//-->
+</script>
+<!------ OAS SETUP end ------>
+
+
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://rss.broadway.com">
+
+
+<link href="http://www.broadway.com/CSS/bway2004.css" type="text/css" rel="stylesheet">
 <script language="javascript">
-function setsection(a,b) {
-
-
-document.cookie = "SiteSection=" + a
-
-document.form1.SiteSection.value =  a
-
-document.form1.action =  b
-
-document.form1.method = "post"
-document.form1.submit();
-
+function setsection(a,b) 
+{
+		document.cookie = "SiteSection=" + a
+		document.forms[0].SiteSection.value =  a
+		document.forms[0].action =  b
+		document.forms[0].method = "post"
+		document.forms[0].submit();
 }
 
 //==================================================================
@@ -61,13 +111,13 @@ function setsection2(vsectionid)
 	switch (vsectionid)
 	{
 	case 6:
-		document.form1.action =  "http://www.broadway.com/Gen/FAQ.aspx"
+		document.forms[0].action =  "../Gen/FAQ.aspx"
 		break;
 
 	}
-	document.form1.SiteSection.value =  vsectionid
-	document.form1.method = "post"
-	document.form1.submit();
+	document.forms[0].SiteSection.value =  vsectionid
+	document.forms[0].method = "post"
+	document.forms[0].submit();
 }
 
 //===================================================================
@@ -76,23 +126,23 @@ function fnCSSubNavLink(vlinkid)
 	switch (vlinkid)
 	{
 		case 1:
-			document.form1.action = "http://www.broadway.com/Gen/Process.aspx"
+			document.forms[0].action = "../Gen/Process.aspx"
 			break;
 
 		case 2:
-			document.form1.action = "http://www.broadway.com/Gen/FAQ.aspx"
+			document.forms[0].action = "../Gen/FAQ.aspx"
 			break;
 
 		case 3:
-			document.form1.action = "http://www.broadway.com/Shared/EmailForm.aspx"
+			document.forms[0].action = "../Shared/EmailForm.aspx"
 			break;
 
 		case 4:
-			document.form1.action = "http://www.broadway.com/Shared/Login.aspx"
+			document.forms[0].action = "../Shared/Login.aspx"
 			break;
 	}
-	document.form1.method = "post"
-	document.form1.submit();
+	document.forms[0].method = "post"
+	document.forms[0].submit();
 }
 
 
@@ -108,27 +158,27 @@ function fnUCTopBanner_MoveForward(vtype)
 	switch(vtype)
 	{
 		case '1':
-			vurl = "http://www.broadway.com/" + "_BWY/GC/Step1.aspx"
+			vurl = "../" + "_BWY/GC/Step1.aspx"
 			break
 			
 		case '3':
-			vurl = "http://www.broadway.com/" + "_BWY/GCR/R_Step1.aspx"	
+			vurl = "../" + "_BWY/GCR/R_Step1.aspx"	
 			break
 		case '2':
-			vurl = "http://www.broadway.com/" + "_BWY/GC/Bulk_Landing.aspx"
+			vurl = "../" + "gen/general.aspx?ci=521449"
 			break
 	}	
 		
-	document.form1.hidGCType_TB.value = vtype
-	document.form1.action = vurl
-	document.form1.method = "post"
-	document.form1.submit()
+	document.forms[0].hidGCType_TB.value = vtype
+	document.forms[0].action = vurl
+	document.forms[0].method = "post"
+	document.forms[0].submit()
 }
 
 //========================================================================================
 function fnSendToSignIn()
 {	
-	document.form1.action = "http://www.broadway.com/shared/Signout.aspx"
+	document.form1.action = "../shared/Signout.aspx"
 	document.form1.method = "post"
 	document.form1.submit()
 }
@@ -138,79 +188,42 @@ function fnSendToSignIn()
 //-->
 </script>
 <script language="javascript">
-function navigate_show() {
-
-
-if (document.form1.selectshow.value != '0' ) 
+function navigate_show() 
+{
+	if (document.forms[0].selectshow.value != '0' ) 
 	{
-
-		document.location = 'http://www.broadway.com/gen/show.aspx?SI=' + document.form1.selectshow.value;
-	} else {
-	alert('Please select a Show')
+		document.location = '../gen/show.aspx?SI=' + document.forms[0].selectshow.value;
+	} 
+	else 
+	{
+		alert('Please select a Show')
 	}
-
 }
 </script>
-<table id="Table1" height="124" cellspacing="0" cellpadding="0" width="778" align="center" background="http://www.Broadway.com/images/dot_gray.gif" border="0">
+
+
+<script>
+	document.body.background = "http://www.broadway.com/site_images/sponsor.gif";
+</script>
+<table id="Table1" height="124" align="center" cellspacing="0" cellpadding="0" width="778" background="../images/dot_gray.gif" border="0">
 	<tbody><tr>
-		<td valign="bottom" width="254" height="90"><a href="http://www.broadway.com/index.aspx"><img height="78" hspace="15" src="http://www.Broadway.com/images/logo_gray_topleft.gif" width="218" border="0"></a></td>
+		<td valign="bottom" width="254" height="90">
+			<a href="../index.aspx"><img height="78" hspace="15" src="../images/logo_gray_topleft.gif" width="218" border="0"></a>
+		</td>
 		<td align="right" width="524" height="90">
 			<table height="90" cellspacing="0" cellpadding="5" width="480" align="right" border="0">
 				<tbody><tr>
 					<td valign="middle">
 						
-
-<!-- VC active -->
-<script language="JavaScript">
-
-// ValueParameters
-ValueHost = "hs0002153";
-ValueLoaded = false;
-ValueID = "pagebuster"; // where this is the cache buster
-ValueVersion = "1.2";
-ValueBannerType = "std";
-
-var ValueWidths_Heights = new Array("468x60"); // where this is the width and height
-
-ValueNoText = 1;
-ValueHCat = ""; // hwere this is the section name so HO is for homepage
-
-var ValueKeyCodes = new Array("kae=", "kgr=", "kshowid=", "kcontentid=", "kpn=");
-
-
-
-// where kae = age, where kgr= gender, where kshowid = show id, where kcontentid = content id
-ValueBannerSizeOrder =  "listed";
-
+<!------ OAS AD position begin ------>
+<script language="javascript">
+<!--
+OAS_AD('Top');
+//-->
 </script>
-<script language="Javascript" src="http://ads.bway.valueclick.net/jsmaster"></script>
-
-
-<script language="JavaScript">
-
-if (ValueLoaded) ValueShowAd();
-
-</script>
-
+<!------ OAS AD position end ------>
 						
 					</td>
-				</tr>
-			</tbody></table>
-			<table id="Table2" style="WIDTH: 495px" height="26" cellspacing="0" cellpadding="0" width="495" border="0">
-				<tbody><tr>
-					<td style="WIDTH: 200px" align="right" width="200" height="26"></td>
-					<td valign="middle" align="right" height="26"><span class="white_mid_txt"> 
-							<!---<table width="495" height="25" border="0" cellpadding="0" cellspacing="0" id="Table3">
-								
-									<tr>
-										<td width="321" align="right" class="white_mid_txtBld">
-											&nbsp;</td>
-										<td width="174" align="right" class="white_mid_txt">
-										
-										</td>
-									</tr>
-									
-							</table>---></span></td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -220,107 +233,127 @@ if (ValueLoaded) ValueShowAd();
 			<table class="black_mid_txt" id="Table4" cellspacing="0" cellpadding="0" align="center" border="0">
 				<tbody><tr>
 					
-					<td align="right"><img height="19" src="http://www.Broadway.com/images/curved_arrow.gif" width="19">
+					<td align="right">
+						<img height="19" src="../images/curved_arrow.gif" width="19">
 					</td>
-					<td class="black_mid_txt" align="right"><select class="show_drop" onchange="javascript:navigate_show();" name="selectshow">
+					<td class="black_mid_txt" align="right">
+						<select class="show_drop" onchange="javascript:navigate_show();" name="selectshow">
 							<option value="0">Select a Show -- We Sell Them All!</option>
 <option value="0"></option>
 <option value="0">Broadway</option>
-<option value="501213">&nbsp;&nbsp;700 Sundays</option>
-<option value="505186">&nbsp;&nbsp;A Streetcar Named Desire</option>
-<option value="507476">&nbsp;&nbsp;Absolutely Fascinating (Off-Broad</option>
-<option value="40028">&nbsp;&nbsp;All Shook Up</option>
-<option value="504296">&nbsp;&nbsp;Altar Boyz (Off-Broadway)</option>
+<option value="514657">&nbsp;&nbsp;A Touch of the Poet</option>
 <option value="28765">&nbsp;&nbsp;Avenue Q</option>
-<option value="508521">&nbsp;&nbsp;B.F.E. (Off-Broadway)</option>
-<option value="507544">&nbsp;&nbsp;Beast on the Moon (Off-Broadway)</option>
+<option value="516205">&nbsp;&nbsp;Barefoot in the Park</option>
 <option value="1230">&nbsp;&nbsp;Beauty and the Beast</option>
-<option value="505373">&nbsp;&nbsp;Belfast Blues (Off-Broadway)</option>
-<option value="1195">&nbsp;&nbsp;Blue Man Group (Off-Broadway)</option>
-<option value="41292">&nbsp;&nbsp;Brooklyn, The Musical</option>
+<option value="504657">&nbsp;&nbsp;Bridge &amp; Tunnel</option>
 <option value="22374">&nbsp;&nbsp;Chicago</option>
+<option value="516863">&nbsp;&nbsp;Chita Rivera: The Dancer's Li</option>
 <option value="39225">&nbsp;&nbsp;Chitty Chitty Bang Bang</option>
-<option value="33861">&nbsp;&nbsp;Cookin' (Off-Broadway)</option>
-<option value="41325">&nbsp;&nbsp;Dame Edna: Back With a Vengeance!</option>
-<option value="39239">&nbsp;&nbsp;Democracy</option>
-<option value="505475">&nbsp;&nbsp;Dessa Rose (Off-Broadway)</option>
 <option value="41337">&nbsp;&nbsp;Dirty Rotten Scoundrels</option>
 <option value="506773">&nbsp;&nbsp;Doubt</option>
 <option value="32516">&nbsp;&nbsp;Fiddler on the Roof</option>
-<option value="508519">&nbsp;&nbsp;Flight (Off-Broadway)</option>
-<option value="27084">&nbsp;&nbsp;Forbidden Broadway: SVU (Off-Broa</option>
-<option value="503835">&nbsp;&nbsp;Glengarry Glen Ross</option>
-<option value="507479">&nbsp;&nbsp;Going to St. Ives (Off-Broadway)</option>
-<option value="41374">&nbsp;&nbsp;Good Vibrations</option>
 <option value="19072">&nbsp;&nbsp;Hairspray</option>
-<option value="505851">&nbsp;&nbsp;Hot 'N' Throbbing (Off-Br</option>
-<option value="509105">&nbsp;&nbsp;Hurlyburly (Off-Broadway)</option>
-<option value="1298">&nbsp;&nbsp;I Love You, You're Perfect, Now C</option>
-<option value="503899">&nbsp;&nbsp;Jackie Mason: Freshly Squeezed</option>
-<option value="42329">&nbsp;&nbsp;Jewtopia (Off-Broadway)</option>
-<option value="503842">&nbsp;&nbsp;Julius Caesar</option>
-<option value="41338">&nbsp;&nbsp;La Cage aux Folles</option>
-<option value="505627">&nbsp;&nbsp;Lazer Vaudeville (Off-Broadway)</option>
-<option value="505205">&nbsp;&nbsp;Lennon</option>
-<option value="40030">&nbsp;&nbsp;Little Women</option>
+<option value="514467">&nbsp;&nbsp;In My Life</option>
+<option value="521792">&nbsp;&nbsp;Jay Johnson: The Two and Only!</option>
+<option value="514165">&nbsp;&nbsp;Jersey Boys</option>
+<option value="516218">&nbsp;&nbsp;Latinologues</option>
+<option value="516207">&nbsp;&nbsp;Lestat</option>
 <option value="1421">&nbsp;&nbsp;Mamma Mia!</option>
-<option value="504366">&nbsp;&nbsp;McReele (Off-Broadway)</option>
-<option value="508473">&nbsp;&nbsp;Memory House (Off-Broadway)</option>
-<option value="502126">&nbsp;&nbsp;Modern Orthodox (Off-Broadway)</option>
 <option value="19093">&nbsp;&nbsp;Movin' Out</option>
-<option value="508146">&nbsp;&nbsp;Naked Boys Singing! (Off-Broadway</option>
-<option value="507864">&nbsp;&nbsp;Nine Parts of Desire (Off-Broadwa</option>
-<option value="504641">&nbsp;&nbsp;On Golden Pond</option>
-<option value="508990">&nbsp;&nbsp;Pith! (Off-Broadway)</option>
-<option value="508267">&nbsp;&nbsp;Privilege (Off-Broadway)</option>
+<option value="518453">&nbsp;&nbsp;Rabbit Hole</option>
 <option value="1257">&nbsp;&nbsp;Rent</option>
-<option value="504591">&nbsp;&nbsp;Shockheaded Peter (Off-Broadway)</option>
-<option value="509180">&nbsp;&nbsp;Slag Heap (Off-Broadway)</option>
-<option value="41373">&nbsp;&nbsp;Slava's Snowshow (Off-Broadway)</option>
+<option value="521278">&nbsp;&nbsp;Ring of Fire</option>
+<option value="516886">&nbsp;&nbsp;Seascape</option>
+<option value="517244">&nbsp;&nbsp;Souvenir</option>
 <option value="41558">&nbsp;&nbsp;Spamalot</option>
-<option value="503840">&nbsp;&nbsp;Steel Magnolias</option>
-<option value="1278">&nbsp;&nbsp;Stomp (Off-Broadway)</option>
+<option value="513979">&nbsp;&nbsp;Sweeney Todd</option>
 <option value="504522">&nbsp;&nbsp;Sweet Charity</option>
+<option value="516158">&nbsp;&nbsp;Tarzan</option>
 <option value="507511">&nbsp;&nbsp;The 25th Annual Putnam County Spe</option>
-<option value="506558">&nbsp;&nbsp;The Awesome 80's Prom (Off-Br</option>
-<option value="1266">&nbsp;&nbsp;The Donkey Show (Off-Broadway)</option>
-<option value="508071">&nbsp;&nbsp;The False Servant (Off-Broadway)</option>
-<option value="504580">&nbsp;&nbsp;The Glass Menagerie</option>
+<option value="514820">&nbsp;&nbsp;The Color Purple</option>
+<option value="521990">&nbsp;&nbsp;The History Boys</option>
 <option value="505167">&nbsp;&nbsp;The Light in the Piazza</option>
 <option value="1263">&nbsp;&nbsp;The Lion King</option>
-<option value="503891">&nbsp;&nbsp;The Mambo Kings</option>
-<option value="503900">&nbsp;&nbsp;The Musical of Musicals: The Musi</option>
-<option value="508515">&nbsp;&nbsp;The Paris Letter (Off-Broadway)</option>
-<option value="507364">&nbsp;&nbsp;The Penis Monologues: Men Speak (</option>
+<option value="510114">&nbsp;&nbsp;The Odd Couple</option>
+<option value="517720">&nbsp;&nbsp;The Pajama Game</option>
 <option value="1235">&nbsp;&nbsp;The Phantom of the Opera</option>
-<option value="505198">&nbsp;&nbsp;The Pillowman</option>
 <option value="1309">&nbsp;&nbsp;The Producers</option>
-<option value="508336">&nbsp;&nbsp;Thom Pain (based on nothing) (Off</option>
-<option value="37085">&nbsp;&nbsp;Tony n' Tina's Wedding (Off-Broad</option>
-<option value="42204">&nbsp;&nbsp;Twelve Angry Men</option>
-<option value="504311">&nbsp;&nbsp;We're Still Hot (Off-Broadway</option>
-<option value="507366">&nbsp;&nbsp;What of the Night (Off-Broadway)</option>
-<option value="503908">&nbsp;&nbsp;Who's Afraid of Virginia Woolf?</option>
+<option value="21029">&nbsp;&nbsp;The Radio City Christmas Spectacu</option>
+<option value="516223">&nbsp;&nbsp;The Threepenny Opera</option>
+<option value="516152">&nbsp;&nbsp;The Wedding Singer</option>
+<option value="514877">&nbsp;&nbsp;The Woman in White</option>
+<option value="516149">&nbsp;&nbsp;Three Days of Rain</option>
+<option value="521455">&nbsp;&nbsp;Well</option>
 <option value="30434">&nbsp;&nbsp;Wicked</option>
-<option value="505607">&nbsp;&nbsp;Woman Before a Glass (Off-Broadwa</option>
+<option value="518949">&nbsp;&nbsp;Wicked: Behind the Emerald Curtai</option>
+<option value="0"></option>
+<option value="0">------------------------------</option>
+<option value="0">Off-Broadway</option>
+<option value="520240">&nbsp;&nbsp;A Broadway Diva Christmas </option>
+<option value="517721">&nbsp;&nbsp;Abigail's Party </option>
+<option value="519477">&nbsp;&nbsp;Almost Heaven </option>
+<option value="521277">&nbsp;&nbsp;Almost, Maine </option>
+<option value="504296">&nbsp;&nbsp;Altar Boyz </option>
+<option value="516569">&nbsp;&nbsp;Belly of a Drunken Piano </option>
+<option value="517384">&nbsp;&nbsp;Bingo </option>
+<option value="1195">&nbsp;&nbsp;Blue Man Group </option>
+<option value="518462">&nbsp;&nbsp;Celebration and The Room </option>
+<option value="518452">&nbsp;&nbsp;Dog Sees God: Confessions of a Te</option>
+<option value="511734">&nbsp;&nbsp;Drumstruck </option>
+<option value="516956">&nbsp;&nbsp;Five Course Love </option>
+<option value="512069">&nbsp;&nbsp;Forbidden Broadway: SVU </option>
+<option value="518445">&nbsp;&nbsp;Hamlet </option>
+<option value="520049">&nbsp;&nbsp;Hilda </option>
+<option value="1298">&nbsp;&nbsp;I Love You, You're Perfect, Now C</option>
+<option value="42329">&nbsp;&nbsp;Jewtopia </option>
+<option value="517722">&nbsp;&nbsp;Miss Witherspoon </option>
+<option value="517695">&nbsp;&nbsp;Mr. Marmalade </option>
+<option value="508146">&nbsp;&nbsp;Naked Boys Singing! </option>
+<option value="514829">&nbsp;&nbsp;One-Man Star Wars Trilogy </option>
+<option value="515629">&nbsp;&nbsp;Orgasms The Play </option>
+<option value="522176">&nbsp;&nbsp;Orson's Shadow </option>
+<option value="520060">&nbsp;&nbsp;RFK: A Portrait of Robert F. Kenn</option>
+<option value="519426">&nbsp;&nbsp;Rope </option>
+<option value="520673">&nbsp;&nbsp;Sarah, Plain and Tall </option>
+<option value="41373">&nbsp;&nbsp;Slava's Snowshow </option>
+<option value="1278">&nbsp;&nbsp;Stomp </option>
+<option value="506558">&nbsp;&nbsp;The Awesome 80's Prom </option>
+<option value="521793">&nbsp;&nbsp;The Broadway Kids Sing Broadway </option>
+<option value="518454">&nbsp;&nbsp;The Little Dog Laughed </option>
+<option value="521471">&nbsp;&nbsp;The Rat Pack Is Back! </option>
+<option value="518463">&nbsp;&nbsp;The Trip to Bountiful </option>
+<option value="516927">&nbsp;&nbsp;Third </option>
+<option value="508336">&nbsp;&nbsp;Thom Pain (based on nothing) </option>
+<option value="520407">&nbsp;&nbsp;Tight Embrace </option>
+<option value="37085">&nbsp;&nbsp;Tony n' Tina's Wedding </option>
 <option value="0"></option>
 <option value="0">------------------------------</option>
 <option value="0">London</option>
+<option value="521517">&nbsp;&nbsp;A Christmas Carol (London)</option>
+<option value="510034">&nbsp;&nbsp;Billy Elliot (London)</option>
 <option value="1355">&nbsp;&nbsp;Blood Brothers (London)</option>
+<option value="518673">&nbsp;&nbsp;Blue Man Group (London)</option>
 <option value="1321">&nbsp;&nbsp;Chicago (London)</option>
-<option value="19395">&nbsp;&nbsp;Chitty Chitty Bang Bang (London)</option>
-<option value="26114">&nbsp;&nbsp;Joseph and the Amazing Technicolo</option>
+<option value="512486">&nbsp;&nbsp;Dancing in the Streets (London)</option>
+<option value="513785">&nbsp;&nbsp;Guys and Dolls (London)</option>
+<option value="521508">&nbsp;&nbsp;Heroes (London)</option>
 <option value="34880">&nbsp;&nbsp;Les Miserables (London)</option>
 <option value="32859">&nbsp;&nbsp;Mamma Mia! (London)</option>
 <option value="34691">&nbsp;&nbsp;Mary Poppins (London)</option>
+<option value="520262">&nbsp;&nbsp;Mary Stuart (London)</option>
+<option value="510037">&nbsp;&nbsp;Saturday Night Fever (London)</option>
+<option value="517928">&nbsp;&nbsp;Scrooge the Musical (London)</option>
+<option value="520255">&nbsp;&nbsp;Sinatra at the London Palladium (</option>
 <option value="26115">&nbsp;&nbsp;Stomp (London)</option>
 <option value="1342">&nbsp;&nbsp;The Lion King (London)</option>
 <option value="1382">&nbsp;&nbsp;The Mousetrap (London)</option>
+<option value="521512">&nbsp;&nbsp;The Night of the Iguana (London)</option>
 <option value="19461">&nbsp;&nbsp;The Phantom of the Opera (London)</option>
 <option value="33741">&nbsp;&nbsp;The Producers (London)</option>
 <option value="1358">&nbsp;&nbsp;The Woman in Black (London)</option>
 <option value="34878">&nbsp;&nbsp;The Woman in White (London)</option>
 <option value="19354">&nbsp;&nbsp;We Will Rock You (London)</option>
+<option value="522415">&nbsp;&nbsp;Who's Afraid of Virginia Wool</option>
 
 						</select>
 					</td>
@@ -329,13 +362,13 @@ if (ValueLoaded) ValueShowAd();
 				</tr>
 			</tbody></table>
 		</td>
-		<td style="HEIGHT: 41px" align="right" height="41"><a href="javascript:setsection(0,'http://www.broadway.com/Index.aspx');"><img src="http://www.Broadway.com/site_images/500245.jpg" border="0"></a><a href="javascript:setsection(1,'http://www.broadway.com/gen/concierge.aspx');"><img src="http://www.Broadway.com/site_images/500246.jpg" border="0"></a><a href="javascript:setsection(2,'http://www.broadway.com/gen/Hotel_Packages.aspx');"><img src="http://www.Broadway.com/site_images/500247.jpg" border="0"></a><a href="javascript:setsection(3,'http://www.broadway.com/_bwy/GC/Landing.aspx');"><img src="http://www.Broadway.com/site_images/500248.jpg" border="0"></a><a href="javascript:setsection(4,'http://www.broadway.com/gen/general.aspx?ci=500261');"><img src="http://www.Broadway.com/site_images/500257.jpg" border="0"></a><a href="javascript:void window.open('http://www.broadwaynewyork.com/?AffiliateID=282');"><img src="http://www.Broadway.com/site_images/500250.jpg" border="0"></a><a href="javascript:setsection2(6);"><img src="http://www.Broadway.com/site_images/500251.jpg" border="0"></a><a href="javascript:setsection(7,'http://www.broadway.com/gen/Buzz_index.aspx');"><img src="http://www.Broadway.com/site_images/500252.jpg" border="0"></a></td>
+		<td style="HEIGHT: 41px" align="right" height="41"><a href="javascript:setsection(0,'../Index.aspx');"><img src="../site_images/500245.jpg" border="0"></a><a href="javascript:setsection(1,'../gen/concierge.aspx');"><img src="../site_images/500246.jpg" border="0"></a><a href="javascript:setsection(2,'../gen/Hotel_Packages.aspx');"><img src="../site_images/500247.jpg" border="0"></a><a href="javascript:setsection(3,'../_bwy/GC/Landing.aspx');"><img src="../site_images/500248.jpg" border="0"></a><a href="javascript:setsection(4,'../gen/general.aspx?ci=500261');"><img src="../site_images/500257.jpg" border="0"></a><a href="javascript:void window.open('http://www.broadwaynewyork.com/?AffiliateID=282');"><img src="../site_images/500250.jpg" border="0"></a><a href="javascript:setsection2(6);"><img src="../site_images/500251.jpg" border="0"></a><a href="javascript:setsection(7,'../gen/Buzz_index.aspx');"><img src="../site_images/500252.jpg" border="0"></a></td>
 	</tr>
-	<tr background="http://www.Broadway.com/images/dot_white.gif">
-		<td align="right" colspan="2" height="28">
+	<tr background="../images/dot_white.gif">
+		<td align="right" colspan="2" height="20">
 			<table id="Uctopbanner_pnlSecondaryNav" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
 	
-				<img height="20" src="http://www.Broadway.com/images/nav_programs_sub.gif" width="778" usemap="#MapPrograms" border="0"><map name="MapPrograms" id="MapPrograms"><area shape="rect" coords="186,1,289,21" href="http://www.BroadwayDivas.com" target="_blank"><area shape="rect" coords="68,0,187,19" href="http://www.broadwayclassroom.com" target="_blank"><area shape="rect" coords="2,1,66,20" href="javascript:setsection(4,'http://www.broadway.com/gen/general.aspx?ci=500470')"><area shape="rect" coords="372,-2,467,20" href="http://www.broadway.com/groups/groups_home.asp"><area shape="rect" coords="468,1,535,25" href="javascript:setsection(6,'http://www.broadway.com/gen/general.aspx?ci=500675')"><area shape="rect" coords="537,2,598,22" href="javascript:setsection(6,'http://www.broadway.com/gen/general.aspx?ci=21587')"><area shape="rect" coords="600,2,690,22" href="javascript:setsection(6,'http://www.broadway.com/gen/general.aspx?ci=500261#Parties')"><area shape="rect" coords="691,2,776,26" href="javascript:setsection(6,'http://www.broadway.com/gen/general.aspx?ci=500393')"><area shape="rect" coords="292,0,371,18" href="http://www.tdi-fit.com/TOLOGIN/TourOp.taf" target="_blank"></map>
+				<img height="20" src="../images/nav_programs_sub.gif" width="778" usemap="#MapPrograms" border="0"><map name="MapPrograms" id="MapPrograms"><area shape="rect" coords="186,1,289,21" href="http://www.BroadwayDivas.com" target="_blank"><area shape="rect" coords="68,0,187,19" href="http://www.broadwayclassroom.com" target="_blank"><area shape="rect" coords="2,1,66,20" href="javascript:setsection(4,'../gen/general.aspx?ci=500470')"><area shape="rect" coords="372,-2,467,20" href="../_grp/groups_home.aspx"><area shape="rect" coords="468,1,535,25" href="javascript:setsection(6,'../gen/general.aspx?ci=500675')"><area shape="rect" coords="537,2,598,22" href="javascript:setsection(6,'../gen/general.aspx?ci=21587')"><area shape="rect" coords="600,2,690,22" href="javascript:setsection(6,'../gen/general.aspx?ci=500261#Parties')"><area shape="rect" coords="691,2,776,26" href="javascript:setsection(6,'../gen/general.aspx?ci=500393')"><area shape="rect" coords="292,0,371,18" href="http://www.tdi-fit.com/TOLOGIN/TourOp.taf" target="_blank"></map>
 			
 </td></tr></tbody></table>
 			
@@ -345,10 +378,136 @@ if (ValueLoaded) ValueShowAd();
 <!-- Line of Business Chrome ------------------------------------------------------- -->
 
 <input id="hidGCType_TB" type="hidden" name="hidGCType_TB"> <input id="SiteSection" type="hidden" name="SiteSection">
+<!-- START OF SDC Advanced Tracking Code -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime: 2005/07/28 12:03:13 $ -->
+<script language="Javascript"><!--
+var gService = true;
+var gTimeZone = -5;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsFPC(offset){
+	if (typeof(offset)=="undefined"){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	if (document.cookie.indexOf(name+"=")!=-1){
+		var id=dcsGetCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
+		}
+		WT.co_f=id;
+		WT.vt_f="0";
+		WT.vt_f_a="0";
+		var dLst=new Date(lv);
+		dSes.setTime(ss);
+		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
+		}
+		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	else{
+		var tmpname=name+"_TMP=";
+		document.cookie=tmpname+"1";
+		if (document.cookie.indexOf(tmpname)!=-1){
+			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+				WT.co_f=gWtId;
+				WT.vt_f="0";
+			}
+			else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+				WT.co_f=gTempWtId;
+				WT.vt_f="1";
+			}
+			else{
+				WT.co_f="2";
+				var cur=dCur.getTime().toString();
+				for (var i=2;i<=(32-cur.length);i++){
+					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+				}
+				WT.co_f+=cur;
+				WT.vt_f="1";
+			}
+			WT.vt_f_a=(typeof(gWtAccountRollup)!="undefined")?"0":"1";
+			WT.vt_f_s="1";
+			WT.vt_f_d="1";
+		}
+		else{
+			WT.vt_f="2";
+			WT.vt_f_a="2";
+			return;
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+dSes.getTime();
+	var expiry="; expires="+dExp.toGMTString();
+	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+}
+
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc="WT_FPC";
+var gWtId="";
+var gTempWtId="";
+if (gService){
+	var gConvert=true;
+}
+
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+}
+
+//-->
+</script>
+<!-- END OF SDC Advanced Tracking Code -->
+
 <!-- START OF SmartSource Data Collector TAG -->
-<!-- © 1999-2004 NetIQ Corporation. All rights reserved. -->
-<!-- V7.0 -->
-<!-- $DateTime: 2003/10/28 16:26:23 $ -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime: 2005/06/29 17:35:36 $ -->
 <script language="Javascript"><!--
 gVersion="1.0";
 //-->
@@ -364,6 +523,20 @@ var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"
 </script>
 <script language="Javascript1.3"><!--
 gVersion="1.3";
+if (window.ActiveXObject){
+	var gFV="";
+	for (var gVer=2;gVer<=10;gVer++){
+		try{
+			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
+			if (gFlash){
+				gFV=gVer+".0";
+				break;
+			}
+		}
+		catch(e){
+		}
+	}
+}
 //-->
 </script>
 <script language="Javascript1.4"><!--
@@ -380,10 +553,17 @@ var gIndex=0;
 var DCS=new Object();
 var WT=new Object();
 var DCSext=new Object();
+var gQP=new Array();
 
 var gDomain="statse.webtrendslive.com";
-var gDcsId="dcss7gubjxu01e26iprg18ny4_9f8g";
+var gDcsId="dcs0pphqp10000oyaaqci6yqj_4u2h";
 
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
+	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
+}
+//-->
+</script><script language="JavaScript" src="https://statse.webtrendslive.com/dcs0pphqp10000oyaaqci6yqj_4u2h/wtid.js"></script>
+<script language="Javascript"><!--
 function dcsVar(){
 	var dCurrent=new Date();
 	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
@@ -393,7 +573,7 @@ function dcsVar(){
 	WT.bh=dCurrent.getHours();
 	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
 	if (typeof(screen)=="object"){
-		WT.cd=screen.colorDepth;
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
 		WT.sr=screen.width+"x"+screen.height;
 	}
 	if (typeof(navigator.javaEnabled())=="boolean"){
@@ -406,12 +586,54 @@ function dcsVar(){
 	if (typeof(gVersion)!="undefined"){
 		WT.jv=gVersion;
 	}
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		if (document.body.connectionType){
+			WT.ct=document.body.connectionType;
+		}
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
+			WT.fi="Yes";
+			WT.fv=gFV;
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				WT.fv=navigator.plugins[i].description.split(" ")[2];
+				break;
+			}
+		}
+	}
 	WT.sp="@@SPLITVALUE@@";
 	DCS.dcsdat=dCurrent.getTime();
 	DCS.dcssip=window.location.hostname;
 	DCS.dcsuri=window.location.pathname;
 	if (window.location.search){
 		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var front=DCS.dcsqry.substring(0,pos);
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
 	}
 	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
 		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
@@ -437,9 +659,19 @@ function dcsEscape(S){
 	}
 }
 
+function dcsLoadHref(evt){
+	if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+		window.location=gHref;
+		gHref="";
+	}
+}
+
 function dcsCreateImage(dcsSrc){
 	if (document.images){
 		gImages[gIndex]=new Image;
+		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+		}
 		gImages[gIndex].src=dcsSrc;
 		gIndex++;
 	}
@@ -449,25 +681,25 @@ function dcsCreateImage(dcsSrc){
 }
 
 function dcsMeta(){
-	var myDocumentElements;
+	var elems;
 	if (document.all){
-		myDocumentElements=document.all.tags("meta");
+		elems=document.all.tags("meta");
 	}
 	else if (document.documentElement){
-		myDocumentElements=document.getElementsByTagName("meta");
+		elems=document.getElementsByTagName("meta");
 	}
-	if (typeof(myDocumentElements)!="undefined"){
-		for (var i=1;i<=myDocumentElements.length;i++){
-			myMeta=myDocumentElements.item(i-1);
-			if (myMeta.name){
-				if (myMeta.name.indexOf('WT.')==0){
-					WT[myMeta.name.substring(3)]=myMeta.content;
+	if (typeof(elems)!="undefined"){
+		for (var i=1;i<=elems.length;i++){
+			var meta=elems.item(i-1);
+			if (meta.name){
+				if (meta.name.indexOf('WT.')==0){
+					WT[meta.name.substring(3)]=meta.content;
 				}
-				else if (myMeta.name.indexOf('DCSext.')==0){
-					DCSext[myMeta.name.substring(7)]=myMeta.content;
+				else if (meta.name.indexOf('DCSext.')==0){
+					DCSext[meta.name.substring(7)]=meta.content;
 				}
-				else if (myMeta.name.indexOf('DCS.')==0){
-					DCS[myMeta.name.substring(4)]=myMeta.content;
+				else if (meta.name.indexOf('DCS.')==0){
+					DCS[meta.name.substring(4)]=meta.content;
 				}
 			}
 		}
@@ -497,17 +729,26 @@ function dcsTag(){
 	dcsCreateImage(P);
 }
 
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
+
 dcsVar();
 dcsMeta();
+dcsFunc("dcsAdv");
 dcsTag();
 //-->
-
 </script>
 
 <noscript>
-<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcss7gubjxu01e26iprg18ny4_9f8g/njs.gif?dcsuri=/nojavascript&WT.js=No">
-</noscript>
 
+
+	<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs0pphqp10000oyaaqci6yqj_4u2h/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+
+
+</noscript>
 <!-- END OF SmartSource Data Collector  TAG -->	
 
 		
@@ -594,7 +835,7 @@ dcsTag();
 		{					
 			if (document.form1.TT.value != 'Search Broadway.com')
 			{		
-				document.form1.action = "http://www.broadway.com/gen/Advanced_Search_resp.aspx"
+				document.form1.action = "../gen/Advanced_Search_resp.aspx"
 				document.form1.method = "post"
 				document.form1.submit()
 			}
@@ -606,54 +847,65 @@ dcsTag();
 		
 			//if(document.form1.select6.value  != "#")
 		//	{
-			document.form1.action = "http://www.broadway.com/gen/Advanced_Search.aspx"
+			document.form1.action = "../gen/Advanced_Search.aspx"
 			document.form1.method = "post"
 			document.form1.submit()
 		//	}
 		}
 		//-->
 </script>
-<table width="778" border="0" align="center" cellpadding="0" cellspacing="0" background="http://www.Broadway.com/images/dot_white.gif">
+<table width="778" border="0" bgcolor="#ffffff" align="center" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td colspan="5"><img src="http://www.Broadway.com/images/dot_gray.gif" width="778" height="3"></td>
+		<td colspan="5" bgcolor="gray" background="../images/dot_gray.gif" height="3">
+		</td>
 	</tr>
 	<tr>
-		<td width="230"><table width="230" border="0" cellspacing="2" cellpadding="3">
+		<td width="230">
+			<table border="0" width="230" cellspacing="2" cellpadding="3">
 				<tbody><tr>
-					<td align="center" class="black_mid_txt">Receive the Broadway.com Newsletter</td>
-				</tr>
-				<tr>
-					<td align="center"><input type="text" name="email" class="form_field" value="E-mail Address" onfocus="javascript:clearfield();" size="25"> <a href="javascript:reg_email();"><img src="http://www.Broadway.com/images/go_sm.gif" width="15" height="15" hspace="3" border="0" alt="Receive the Newsletter"></a></td>
+					<td align="center" class="black_mid_txt">
+						<img id="ucFooter__subscribeImage" src="../images/news_footer2.gif" alt="" align="AbsBottom" border="0">
+						<br>
+						<img id="ucFooter__arrowButton" src="../images/arrow_right.gif" alt="" align="AbsMiddle" border="0">
+						<a id="ucFooter__subscribeLink" href="NewsletterSubscription.aspx"><u>CLICK HERE TO SUBSCRIBE</u></a>
+						<br>
+						<a href="../Gen/NewsletterSubscription.aspx?result=0"><span class="black_Sm_txt">
+								(or unsubscribe)</span></a>
+					</td>
 				</tr>
 			</tbody></table>
 		</td>
-		<td width="4"><img src="http://www.Broadway.com/images/dot_lightgray.gif" width="1" height="60"></td>
+		<td width="4">
+			<img src="../images/dot_lightgray.gif" width="1" height="60"></td>
 		<td width="398" align="center">
 			<table width="400" cellpadding="3" cellspacing="2">
 				<tbody><tr>
-					<td colspan="2" align="left"><strong class="black_mid_txtBld"> </strong><a href="http://www.broadway.com/gen/general.aspx?ci=500726">
-							About Us</a>&nbsp;• <a href="http://www.broadway.com/shared/emailform.aspx">Feedback </a>
-						&nbsp;•&nbsp;<a href="http://www.broadway.com/gen/general.aspx?ci=500727">Privacy Policy</a>&nbsp;•
-						<a href="http://www.broadway.com/gen/general.aspx?ci=500470">Affiliates</a>&nbsp;• <a href="mailto:advertising@broadway.com">
-							<b>Advertise With Us</b></a>
+					<td colspan="2" align="left">
+						<a href="../gen/general.aspx?ci=500726">About Us</a>&nbsp;• <a href="../shared/emailform.aspx">
+							Feedback </a>&nbsp;•&nbsp;<a href="../gen/general.aspx?ci=500727">Privacy 
+							Policy</a>&nbsp;• <a href="../gen/general.aspx?ci=500470">Affiliates</a>&nbsp;•
+						<a href="mailto:advertising@broadway.com"><b>Advertise With Us</b></a>
 					</td>
 				</tr>
 				<tr align="center">
 					<td width="181" height="24" align="left">
 						<input type="text" name="TT" class="form_field" value="Search Site" size="25" onfocus="javascript:clearfield2();">
-						<input type="hidden" name="gotoadvanced" class="form_field" value="1"> <input type="image" alt="General Search" src="http://www.Broadway.com/images/go_sm.gif" border="0" name="go" onclick="fnSearchLink2();">
+						<input type="hidden" name="gotoadvanced" class="form_field" value="1"> <input type="image" alt="General Search" src="../images/go_sm.gif" name="go" onclick="fnSearchLink2();">
 					</td>
-					<td width="197" align="left" class="black_mid_txtBld"><a href="javascript:fnSearchLink();">Advanced 
-							Search<img src="http://www.Broadway.com/images/mag_sm.gif" alt="Advanced Search" width="25" height="15" hspace="1" border="0" align="absMiddle"></a>
+					<td width="197" align="left" class="black_mid_txtBld">
+						<a href="javascript:fnSearchLink();">Advanced Search<img src="../images/mag_sm.gif" alt="Advanced Search" width="25" height="15" hspace="1" border="0" align="absMiddle"></a>
 					</td>
 				</tr>
 			</tbody></table>
 		</td>
-		<td width="4"><img src="http://www.Broadway.com/images/dot_lightgray.gif" width="1" height="60"></td>
-		<td width="182"><a href="http://www.membershiprewards.com/ProcessRedirect.aspx?url=HomePage.aspx%3fSaneId%3d208.18.154.94-106140651191" target="_blank"><img src="http://www.Broadway.com/images/footer_amex.gif" width="84" height="60" hspace="5" vspace="2" border="0"></a><a href="javascript:Rcertify();"><img src="http://www.Broadway.com/images/footer_bbb.gif" width="46" height="60" vspace="2" border="0"></a></td>
+		<td width="4">
+			<img src="../images/dot_lightgray.gif" width="1" height="60"></td>
+		<td width="182">
+			<a href="http://www.membershiprewards.com/ProcessRedirect.aspx?url=HomePage.aspx%3fSaneId%3d208.18.154.94-106140651191" target="_blank"><img src="../images/footer_amex.gif" width="84" height="60" hspace="5" vspace="2" border="0"></a><a href="javascript:Rcertify();"><img src="../images/footer_bbb.gif" width="46" height="60" vspace="2" border="0"></a></td>
 	</tr>
 	<tr>
-		<td height="30" colspan="5" align="center" background="http://www.Broadway.com/images/dot_gray.gif"><span class="white_mid_txt">©2005
+		<td height="30" colspan="5" align="center" background="../images/dot_gray.gif">
+			<span class="white_mid_txt">©2005
 				Broadway.com, Inc.</span></td>
 	</tr>
 </tbody></table>
@@ -688,16 +940,16 @@ dcsTag();
 		
 			if (vpassed)
 			{
-			//	document.form1.action = "http://www.broadway.com/shared/Newsletter.aspx"
+			//	document.form1.action = "../shared/Newsletter.aspx"
 			//	document.form1.method = "post"
 			//	document.form1.submit()			
 	    
-				window2=window.open('http://www.broadway.com/gen/subscribe_pop.asp?EM=' + document.form1.email.value ,'ARD','toolbar=no,scrollbars=0,status=0,resizable=0,width=525,height=375')
+				window2=window.open('../gen/subscribe_pop.asp?EM=' + document.form1.email.value ,'ARD','toolbar=no,scrollbars=0,status=0,resizable=0,width=525,height=375')
 
 			}
 			else
 			{
-				window2=window.open('http://www.broadway.com/gen/subscribe_pop.asp?EM=' + document.form1.email.value ,'ARD','toolbar=no,scrollbars=0,status=0,resizable=0,width=525,height=375')
+				window2=window.open('../gen/subscribe_pop.asp?EM=' + document.form1.email.value ,'ARD','toolbar=no,scrollbars=0,status=0,resizable=0,width=525,height=375')
 			}
 		}
 </script>
@@ -757,18 +1009,6 @@ if (document.layers) document.captureEvents(Event.KEYPRESS);
 
 			
 	</form><!-- Fireclick Netflame -->
-<script language="javascript">
-function handle(){return true;}
-window.onerror=handle;
-var fc_host='www.broadway.com';
-document.write('<scr'+'ipt '
-+'src="'+((location.protocol=='http:')?'http://a644.g.akamai.net/f/644/67/3h/':'https://a248.e.akamai.net/f/248/67/3h/ssl-')
-+'hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
-function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
-var fcfn=window.onload;
-function fcco(){window.setTimeout("fcce();", 100);fcfn();}
-window.onload= null==fcfn ? fcce:fcco;
-</script><script src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.broadway.com"></script>
 <!-- Fireclick Netflame -->
 
 
