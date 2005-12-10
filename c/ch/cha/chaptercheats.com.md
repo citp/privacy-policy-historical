@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207061209id_/http%3A//www.chaptercheats.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210061521id_/http%3A//chaptercheats.com/main/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
-## PRIVACY STATEMENT
+|   
+
+
+CHAPTER CHEATS
+
+MAIN MENU
+
+[](http://join1.winhundred.com/affiliate/link.php?ref=12949&productid=118&cid=1495&sid=chap) |  | 
+
+**PRIVACY STATEMENT**
 
 **Agreement:**  
 By using our website, you state that you understand the following policies and agree to abide by all rules stated. You also understand policies regarding your own personal details. 
@@ -37,3 +46,42 @@ In the course of serving advertisements to this site, our third-party advertiser
 Visit Adtegrity's privacy policy HERE: <http://www.adtegrity.com/privacy.asp>
 
 © 1999-2005, Chaptercheats.com
+
+  
+|   |   
+
+
+**[GamersBrain.com](http://www.gamersbrain.com/)**  
+brings you the latest game news, reviews, previews, screenshots and much more...
+
+**[ChapterCheats.com](http://www.chaptercheats.com/)**  
+web's number one destination for video game console cheats, hints and much more!
+
+**[ChapterCheats.com Forums](http://forums.chaptercheats.com/)**  
+post questions or share secrets that you've found with others on this very popular forum  
+
+
+**AFFILIATES**  
+»[ Cheat Attic](http://www.cheatattic.com/)  
+»[ Cheat Desk](http://www.cheatdesk.com/)  
+»[ CheatFactory](http://www.thecheatfactory.com/)  
+»[ Cheat Platform](http://www.cheatplatform.com/)  
+»[ GameZone](http://www.gamezone.com/)  
+»[ Cheat Solution](http://www.cheatsolution.com/)  
+»[ Starpulse](http://www.starpulse.com/)  
+»[ CaptianCode](http://www.captaincode.com/)  
+»[ Cheat Arsenal](http://www.cheatarsenal.com/)  
+»[ CaptianCode](http://www.captaincode.com/)  
+»[ CheatingDome](http://www.cheatingdome.com/)  
+»[ Cheat Happens](http://www.cheathappens.com/)  
+»[ CheatMasters](http://www.cheatmasters.com/)  
+»[ Activegamer](http://www.activegamer.com/)  
+»[ Cheat Brain](http://www.cheatbrain.com/)  
+»[ Cheats.it](http://www.cheats.it/)  
+»[ ABC Cheats](http://www.abccheats.com/)  
+»[ Abby Cheat](http://www.abby-cheat.com/)  
+»[ Ringtone Desk](http://www.ringtonedesk.com/)  
+»[ CheatSearcher](http://www.cheatsearcher.com/)  
+
+
+|  
