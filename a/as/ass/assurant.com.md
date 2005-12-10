@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assurant.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404074847id_/http%3A//www.assurant.com/inc/assurant/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assurant.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210093214id_/http%3A//www.assurant.com/inc/assurant/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Assurant
 
