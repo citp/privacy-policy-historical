@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the microcenter.com privacy policy that was archived on 2005-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050425074500id_/http%3A//www.microcenter.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microcenter.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210181825id_/http%3A//www.microcenter.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Micro Center Online Privacy Policy
 
-This page discloses the privacy policy of Micro Electronics, Inc., Micro Center and Micro Center Online. We are concerned about your privacy and the security of your important personal information. We want you to be aware of what kind of information we obtain from you, how we use this information, and how you can control its use. By using this site or making purchases at our stores, you consent to this Privacy Policy. You should also review our [Safe Shopping Promise](https://web.archive.org/web/20050425074500id_/http%3A//www.microcenter.com/safe_shopping.html) for online purchases.
+This page discloses the privacy policy of Micro Electronics, Inc., Micro Center and Micro Center Online. We are concerned about your privacy and the security of your important personal information. We want you to be aware of what kind of information we obtain from you, how we use this information, and how you can control its use. By using this site or making purchases at our stores, you consent to this Privacy Policy. You should also review our [Safe Shopping Promise](https://web.archive.org/web/20051210181825id_/http%3A//www.microcenter.com/safe_shopping.html) for online purchases.
 
 Micro Electronics, Inc. operates retail stores and web sites under the names of Micro Center and Micro Center Online. Micro Electronics, Inc. is the parent company of these companies, and as such, when you provide information to any of these entities, this information may be combined or shared between current or future Micro Electronics, Inc. entities and subsidiaries. 
 
@@ -38,50 +38,50 @@ The types of marketing partners with whom we may share your personally identifia
 How do I opt in/out of Micro Center and Micro Center Online emails or postal mailings?  
 There are various methods for letting us know if you would or would not like to receive Micro Center and Micro Center Online postal or email promotions. (Please note that if you opt out of our email marketing communications, you may still receive business-related communications such as order and shipping confirmations, product recall information or other administrative communications.)
 
-  1. Go to our web site ( www.microcenter.com ) and click on the “Sign me up for emails” link on the left side of the home page. This will take you to our [Mail Services page](https://web.archive.org/web/20050425074500id_/http%3A//www.microcenter.com/mailing_lists.phtml) where you can choose to sign up to receive our various marketing promotions or, you can request to no longer receive specified marketing promotions. 
+  1. Go to our website (www.microcenter.com) and click on the “Email Newsletters” link on the left side of the home page. This will take you to our [email options](https://web.archive.org/web/20051210181825id_/http%3A//www.microcenter.com/mailing_list/email.html) page where you can sign up to receive our various marketing promotions or request to no longer receive specified marketing promotions. 
   2. All promotional emails we send you contain a link allowing you to opt out of these specific emails in the future. Click on the relevant link and follow the simple instructions.
   3. Write to us and let us know what you would like to receive or not receive. You can send your letter to:  
 **Email Communication Department**  
 4115 Leap Road  
 Hilliard, Ohio 43026  
-**Note:** Please be sure to include your full name, address, phone number and email address and tell us specifically what type of marketing communications you wish to receive or stop receiving. This will allow us to   
+**Note:** Please be sure to include your full name, address, phone number and email address and tell us specifically which type of marketing communication you wish to receive or stop receiving. This will allow us to   
 correctly identify you in our systems and process your request.
   4. Email us at [csrs@microcenterorder.com](mailto:csrs@microcenterorder.com)   
-**Note:** Please be sure to include your full name, address, phone number and email address and tell us specifically what type of marketing communications you wish to receive or stop receiving. This will allow us to correctly identify you in our systems and process your request.
+**Note:** Please be sure to include your full name, address, phone number and email address and tell us specifically which type of marketing communication you wish to receive or stop receiving. This will allow us to correctly identify you in our systems and process your request.
   5. Call us toll-free at 1-800-634-3478.
   6. While visiting our retail stores, request to get on our mailing lists.
 
 
 
-If you opted out of receiving our postal or email marketing communications, please allow us a reasonable period of time to honor your request, as some promotions may already be in process. For email subscriptions, please allow up to 10 business days for us to make the requested changes. Removal from our print advertising list may take up to 6-8 weeks, depending on the mailing cycle updating process.
+If you opted out of receiving our postal or email marketing communications, please allow us a reasonable period of time to honor your request, as some promotions may already be in process. For email subscriptions, please allow up to 10 business days for us to make the requested changes. Removal from our print advertising list may take up to 4 - 5 weeks, depending on the mailing cycle updating process.
 
-Of course, you always have the option to get back on our mailing lists. Simply, go to our web site ( www.microcenter.com ) and click on the “[Sign me up for emails](https://web.archive.org/web/20050425074500id_/http%3A//www.microcenter.com/mailing_lists.phtml)” link on the left side of the home page. 
+Of course, you always have the option to get back on our mailing lists. Simply, go to our website ( www.microcenter.com ) and click on the [Email Newsletters](https://web.archive.org/web/20051210181825id_/http%3A//www.microcenter.com/mailing_list/email.html) link on the left side of the home page. 
 
 How do I opt in/out of Micro Center Marketing Partner emails?  
 To enhance your computing experience with us, we may sponsor on a limited basis, relevant offers from a very limited number of marketing partners. We provide our marketing partners the names and email addresses of those who opted in to receive marketing partner emails on a per campaign basis (the list of opt in names is not provided for unlimited use by our marketing partners).
 
 There are various methods for letting us know if you would or would not like to receive emails from our marketing partners. ( **Important Note:** if you opt in to receive our marketing partner emails and you later decide to opt out, this means we will no longer provide your email address to them from that point forward. You will need to opt out of their specific email promotions that you no longer want to receive via their opt out processes. Opting out of their email promotions directly will only opt you out of the promotions from them.)
 
-  1. Go to our web site ( www.microcenter.com ) and click on the “Sign me up for emails” link on the left side of the home page. This will take you to our [Mail Services page](https://web.archive.org/web/20050425074500id_/http%3A//www.microcenter.com/mailing_lists.phtml) where you can make the choice to receive or not receive our marketing partner emails. It’s a fast and easy process. 
+  1. Go to our website (www.microcenter.com) and click on the “Email Newsletters” link on the left side of the home page. This will take you to our [email options](https://web.archive.org/web/20051210181825id_/http%3A//www.microcenter.com/mailing_list/email.html) page where you can make the choice to receive or not receive our marketing partner emails. It’s a fast and easy process. 
   2. Write to us and let us know what you would like to receive or not receive. You can send your letter to:  
 **Email Communication Department**  
 4115 Leap Road  
 Hilliard, Ohio 43026  
-**Note:** Please be sure to include your full name, address, phone number and email address and tell us specifically what type of marketing communications you wish to get or stop receiving. This will allow us to correctly identify you in our systems and process your request.
+**Note:** Please be sure to include your full name, address, phone number and email address and tell us specifically which type of marketing communication you wish to get or stop receiving. This will allow us to correctly identify you in our systems and process your request.
   3. Email us at [csrs@microcenterorder.com ](mailto:csrs@microcenterorder.com)  
-**Note:** Please be sure to include your full name, address, phone number and email address and tell us specifically what type of marketing communications you wish to stop receiving. This will allow us to correctly identify you in our systems and process your request.
+**Note:** Please be sure to include your full name, address, phone number and email address and tell us specifically which type of marketing communication you wish to stop receiving. This will allow us to correctly identify you in our systems and process your request.
   4. Call us toll-free at 1-800-634-3478
 
 
 
 We will only share your email address and other personally identifiable information with our marketing partners for emailing purposes if you authorized us by opting in.
 
-Additionally, each email message our partners send you should include similar descriptions of simple opt in and opt out processes to enable you to stop receiving future email and marketing materials from them or their marketing partners. Please be aware that the sites operated by our marketing partners may collect personal information about you and will operate according to their own privacy practices that may differ from our Privacy Policy and our [Safe Shopping Promise](https://web.archive.org/web/20050425074500id_/http%3A//www.microcenter.com/safe_shopping.html). Remember to consult other sites' privacy policies if you are concerned how your information is used by any party other than Micro Electronics, Inc. or Micro Center Online. Also, you need to consult other sites' privacy policies to find out how to choose not to receive marketing information from companies other than Micro Electronics, Inc. or Micro Center Online if that is your desire.
+Additionally, each email message our partners send you should include similar descriptions of simple opt in and opt out processes to enable you to stop receiving future email and marketing materials from them or their marketing partners. Please be aware that the sites operated by our marketing partners may collect personal information about you and will operate according to their own privacy practices that may differ from our Privacy Policy and our [Safe Shopping Promise](https://web.archive.org/web/20051210181825id_/http%3A//www.microcenter.com/safe_shopping.html). Remember to consult other sites' privacy policies if you are concerned how your information is used by any party other than Micro Electronics, Inc. or Micro Center Online. Also, you need to consult other sites' privacy policies to find out how to choose not to receive marketing information from companies other than Micro Electronics, Inc. or Micro Center Online if that is your desire.
 
 How do I unsubscribe from Micro Center Marketing Partner postal promotions?   
 There are various methods for letting us know if you would not like to receive postal mailings from our marketing partners. ( **Important Note:** if you decide to unsubscribe from receiving mail promotions from our marketing partners, this means we no longer provide your address to them. You will need to opt out of their specific promotions that you no longer want to receive via their unsubscribe process. Opting out of partner promotions directly will only opt you out of the promotions from them.)
 
-  1. Go to our web site ( www.microcenter.com ) and click on the “Sign me up for emails” link on the left side of the home page. This will take you to our [Mail Services page](https://web.archive.org/web/20050425074500id_/http%3A//www.microcenter.com/mailing_lists.phtml) where you can go to our Postal Options area and unsubscribe to the postal marketing partners. 
+  1. Go to our website ([www.microcenter.com/mailing_lists.phtml](https://web.archive.org/web/20051210181825id_/http%3A//www.microcenter.com/mailing_lists.phtml)) where you can unsubscribe to the postal marketing partners. 
   2. Write to us and let us know what you would like to receive or not receive. You can send your letter to:  
 **Email Communication Department**  
 4115 Leap Road  
@@ -98,7 +98,7 @@ Micro Electronics, Inc. and Micro Center Online are concerned about your privacy
 
 When we transfer and receive certain types of sensitive information, such as financial information, you will be redirected to a secure server and we will notify you, depending on the type of browser you are using, through a pop-up screen or a yellow "padlock" icon displayed in the lower portion of the browser window. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you via this site.
 
-For complete details, please see our [Safe Shopping Promise](https://web.archive.org/web/20050425074500id_/http%3A//www.microcenter.com/safe_shopping.html).
+For complete details, please see our [Safe Shopping Promise](https://web.archive.org/web/20051210181825id_/http%3A//www.microcenter.com/safe_shopping.html).
 
 How do we handle information related to children?  
 This site is not intended or designed to attract children under the age of 13. We do not knowingly or intentionally obtain any personally identifiable information from any person we know to be under the age of 13.
@@ -114,5 +114,5 @@ Notwithstanding the above policies, we reserve the right to disclose your person
 
 In addition, as we develop our business, we may buy or sell assets or business offerings. Customer information, email addresses, and visitor information are generally among the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution, including, but not limited to, a bankruptcy proceeding.
 
-The effective date of this Privacy Policy is May 28, 2002. It was last updated on September 23, 2004.  
+The effective date of this Privacy Policy is May 28, 2002\. It was last updated on September 21, 2005.  
 
