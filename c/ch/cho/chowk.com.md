@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chowk.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405191834id_/http%3A//www.chowk.com/show_privacy_policy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chowk.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210134933id_/http%3A//www.chowk.com/show_privacy_policy.cgi) for the most accurate reproduction.*
 
 # Chowk: Ideas & Identities of India Pakistan
 
@@ -24,7 +24,7 @@ At the time readers register at Chowk, Chowk asks for a phone number so we can m
 
 Chowk offers an "e-mail a friend " feature, allowing site visitors to send e-mail to friends to inform them about an interesting submission. In order for this feature to function, we ask for e-mail addresses for the recipient (so we know who to mail the message to) and from the sender (so we can tell the recipient who sent the e-mail). We do not store or save these addresses and you will not receive e-mail or other communications from Chowk or its partners as a result of having used this feature.   
 We do not sell or redistribute Chowkwala membership list and will not send you e-mail at the address you provide, except for infrequent announcements relating to Chowk or as needed to resolve issues that may arise with your Chowk account. From time to time, Chowk may also email you about relevant events such as special issues, events etc. Chowk does not reuse or resell the list of registered users.  
-Participants at Chowk are expected to comply with the [InterAct! guidelines](https://web.archive.org/web/20050405191834id_/http%3A//www.chowk.com/show_interact_guidelines.cgi) but we cannot control third parties' use of information you may choose to provide in such a public forum. For more information see the Chowk [registration page](https://web.archive.org/web/20050405191834id_/http%3A//www.chowk.com/paint_new_user_registration_form.cgi).
+Participants at Chowk are expected to comply with the [InterAct! guidelines](https://web.archive.org/web/20051210134933id_/http%3A//www.chowk.com/show_interact_guidelines.cgi) but we cannot control third parties' use of information you may choose to provide in such a public forum. For more information see the Chowk [registration page](https://web.archive.org/web/20051210134933id_/http%3A//www.chowk.com/paint_new_user_registration_form.cgi).
 
 **Other disclosure of personal information**
 
