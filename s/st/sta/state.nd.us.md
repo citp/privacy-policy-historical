@@ -1,30 +1,12 @@
-> *The following text is extracted and transformed from the state.nd.us privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305075755id_/http%3A//discovernd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.nd.us privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210133122id_/http%3A//www.nd.gov/content.htm%3Fid%3DPrivacy) for the most accurate reproduction.*
 
-# DiscoverND - North Dakota's Official Site for Services offered from State Government
+# nd.gov: Official Portal for North Dakota State Government
 
-|   
----  
-[](https://web.archive.org/about/)|   
-[](https://web.archive.org/business/)|   
-[](https://web.archive.org/education/)|   
-[](https://web.archive.org/employment/)|   
-[](https://web.archive.org/government/)|   
-[](https://web.archive.org/egovernment.html)|   
-[](https://web.archive.org/healthsafety/)|   
-[](https://web.archive.org/law/)|   
-[](https://web.archive.org/living/)|   
-[](https://web.archive.org/visiting/)|   
-  
-| » Privacy Policy  
----  
-  
-
-
-**General Information:**
+## General Information:
 
 Records received by the State of North Dakota from web sites are subject to the same controls and uses as records collected by governmental offices visited in person and are open to the public upon request unless otherwise specifically provided by law. You should check with the specific agency you are providing information to, to determine whether the information you provide them will be held in confidence or must be released upon request by a member of the public.
 
-**Domain Information:**
+## Domain Information:
 
 Log analysis tools are used to create summary statistics, used for administering the performance of the web sites, diagnosis of problems and determining which information is of most interest to the public. The following information is collected for analysis only:
 
@@ -39,7 +21,7 @@ Log analysis tools are used to create summary statistics, used for administering
 
 
 
-**Personal Information:**
+## Personal Information:
 
 To protect the information being gathered this site has security measures in place including firewalls, encryption, and authenticated access to internal databases where needed.
 
@@ -47,16 +29,10 @@ Specific information regarding encryption, credit card information, social secur
 
 If you send an email from DiscoverND, the email address will be collected as a means to reply to you. We may forward your message to another agency for appropriate action.
 
-**Retention of Information:**
+## Retention of Information:
 
 The information collected on this site is retained in accordance with the Record Retention Schedules developed by this office.
 
-**Contact Information:**
+## Contact Information:
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at:
-
-North Dakota Information Technology Department  
-600 E. Blvd. Ave. Dept. 112  
-Bismarck, ND 58505-0100  
-telephone: 701.328.3190  
-e-mail: [webmaster@discovernd.com](mailto:webmaster@discovernd.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20051210133122id_/http%3A//www.nd.gov/contactus.htm).
