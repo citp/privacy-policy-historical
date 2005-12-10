@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528103253id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210070619id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
 
 # al.com: Privacy Policy
 
