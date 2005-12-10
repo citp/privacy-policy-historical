@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403122643id_/http%3A//www.naa.org/docpage.cfm%3FDID%3DPRV) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210181738id_/http%3A//naa.org/docpage.cfm%3FDID%3DPRV) for the most accurate reproduction.*
 
 # NAA: Privacy Policy
 
