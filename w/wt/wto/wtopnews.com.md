@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009154905id_/http%3A//www.wtopnews.com/index.php%3Fsid%3D1737%26nid%3D164) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210033657id_/http%3A//wtopnews.com/index.php%3Fsid%3D1737%26nid%3D164) for the most accurate reproduction.*
 
-# WTOP Radio - 1500AM - 820AM - 107.7FM
-
-  
-
+# wtopnews.com
 
 PRIVACY STATEMENT  
 (Last Revised June 4, 2002)
 
-**General**. This web site (the "Site") is operated by WTOP AM/FM, ("Operator"). The following Privacy Statement (the "Statement") supplements the [Terms of Use](https://web.archive.org/web/20041009154905id_/http%3A//policies/terms_of_use.cfm) posted elsewhere at the Site. You should read the Statement and the Terms of Use before you use the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced herein. You should review the Statement from time to time. Operator may change the Statement at any time by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement. If you do not agree to all of the terms and conditions set forth in the Statement, you must exit the Site immediately. 
+**General**. This web site (the "Site") is operated by WTOP AM/FM, ("Operator"). The following Privacy Statement (the "Statement") supplements the [Terms of Use](https://web.archive.org/web/20051210033657id_/http%3A//policies/terms_of_use.cfm) posted elsewhere at the Site. You should read the Statement and the Terms of Use before you use the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced herein. You should review the Statement from time to time. Operator may change the Statement at any time by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement. If you do not agree to all of the terms and conditions set forth in the Statement, you must exit the Site immediately. 
 
 **No Use by Children.** The Site is not directed to, or intended for use by, children (defined as anyone age twelve or younger). Children should not use the Site or submit any information to Operator. 
 
