@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthcam.com privacy policy that was archived on 2005-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050411022433id_/http%3A//www.earthcam.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthcam.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210223236id_/http%3A//www.earthcam.com/company/privacy.html) for the most accurate reproduction.*
 
 # EarthCam - Privacy Policy - Find the Webcam you've been looking for. The best live video pictures from Internet cameras.
 
