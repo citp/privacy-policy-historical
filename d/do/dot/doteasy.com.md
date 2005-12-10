@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doteasy.com privacy policy that was archived on 2005-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050330085949id_/http%3A//www.doteasy.com/Terms/index.cfm%3FT%3DPP%26bodyClass%3DpageCenter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doteasy.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210072906id_/http%3A//doteasy.com/Terms/index.cfm%3FT%3DPP%26bodyClass%3DpageCenter) for the most accurate reproduction.*
 
 # Doteasy - 100MB Free Web Hosting, Free Email, Domain Names for Business and Individuals
 
