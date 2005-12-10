@@ -1,0 +1,356 @@
+<!--The following is the downloaded HTML source of the interflora.co.uk privacy policy that was archived on 2005-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210192439id_/http%3A//www.interflora.co.uk/page.xml%3Fpage_name%3Dprivacy) for the most accurate reproduction.-->
+
+<html><head>
+
+<title>Privacy Policy</title>
+<meta name="description" content="Interflora Privacy Policy">
+<meta name="keywords" content="">
+<meta name="abstract" content="">
+<script language="JavaScript1.2" src="/kernel/utils.js" type="text/javascript"></script><script language="JavaScript1.2" type="text/javascript">
+
+// check whether the site is only accessible from a link of an intranet page
+// if it is, check whether the user is from the intranet
+// if the site only accessible from an intranet link and the user is not from
+// the intranet link, then redirect to access_deny.html
+
+// get the cookie
+var referring_url_required = getcookie("referring_url_required");
+
+// if the site only accessible from an intranet link
+var current_page_name = document.URL.match(/access_deny\.html/);
+if ((referring_url_required != "") && (current_page_name != "access_deny.html") ) {
+	var referring_url_ok = getcookie("referring_url_ok");
+	// first time, set cookie
+	if ((referring_url_ok == "") || (referring_url_ok == 0)) {
+		referring_url_ok = getReferrer().indexOf(referring_url_required);
+		if (referring_url_ok == -1) {
+			referring_url_ok = 0;
+		}
+		else {
+			referring_url_ok = 1;	
+		}
+		setcookie("referring_url_ok", referring_url_ok, "");
+	}
+
+	// redirect to access_deny.html
+	if (referring_url_ok == 0) {
+		document.location.href = "/access_deny.html";	
+	}
+}
+
+
+//set the entry page cookie
+var entry_page = getcookie("entry_page");
+if(entry_page == ''){
+	ref = String(document.location);
+	host = getHost();
+	setcookie('entry_page',ref,host);
+}
+
+// cookie used to show the current users name
+// replace + with ' ' 
+// get rid of website id from the returned cookie value 
+var user = getcookie('vr_user_fname').replace(/\+/g,' ');
+
+
+//set the entry page cookie
+var entry_page = getcookie("entry_page");
+if(entry_page == ''){
+	ref = String(document.location);
+	host = getHost();
+	setcookie('entry_page',ref,host);
+}
+
+// cookie used to show the current users name
+// replace + with ' ' 
+// get rid of website id from the returned cookie value 
+var user = getcookie('vr_user_fname').replace(/\+/g,' ');
+
+
+//set the entry page cookie
+var entry_page = getcookie("entry_page");
+if(entry_page == ''){
+	ref = String(document.location);
+	host = getHost();
+	setcookie('entry_page',ref,host);
+}
+
+// cookie used to show the current users name
+// replace + with ' ' 
+// get rid of website id from the returned cookie value 
+var user = getcookie('vr_user_fname').replace(/\+/g,' ');
+
+	//function to remove SI tab
+	function hideSI() {
+		changeClass('tab_top-left-simply', 'blank');
+		changeClass('tab_top-right-simply', 'blank');
+		changeClass('tab_name-simply', 'blank');
+		changeClass('tab_top_spacer-simply', 'blank');
+		changeClass('tab_spacer-simply', 'blank');
+		
+		changeClass('parentcat_', 'blank');
+		
+	}
+
+	</script><script language="JavaScript1.2" src="/__utm.js" type="text/javascript"></script><link rel="stylesheet" type="text/css" href="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/styles/print.css" media="print">
+<link rel="stylesheet" href="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/styles/interflora.css?designtype=interflora;theme=orange;" type="text/css">
+</head>
+<body>
+<div class="page-body">
+<table class="page-topbanner" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+<td valign="top" class="sd-image_only" id="sd-logo" colspan="1" rowspan="1" width="1000"><a href="/"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/imageload?table=content_images;ttl2=15;key1=fd_img_66_1" width="360" height="83" alt="Interflora.co.uk"></a></td>
+<td valign="top" class="sd-image_only" id="sd-global_promo" colspan="1" rowspan="1" width="1000"><a href="http://int.sitestat.com/interflora/interflora/s?ChristmasBanner&amp;ns_type=clickout"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/imageload?table=content_images;ttl2=15;key1=fd_img_2024006_1" alt="Christmas Gifts"></a></td>
+<td valign="bottom" align="right" width="218">
+<table border="0" cellpadding="5" cellspacing="0" id="page-noscript" style="display: none; width: 200px;">
+<tbody><tr><td>
+<span class="error">Note:</span> Please enable JavaScript in your browser in order to use this site.</td></tr>
+<tr><td align="right" valign="bottom"><a class="txtLink10pt" href="/page.xml?page_name=faq">Need Help? &gt;</a></td></tr>
+</tbody></table>
+<table border="0" cellpadding="5" cellspacing="0" id="page-baskit" style="display: block; width: 200px;">
+<tbody><tr>
+<td><a href="/shopcart"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/icon_basket.gif" alt="basket-icon" width="22" height="22"></a></td>
+<td class="page-baskit">
+<script language="JavaScript" type="text/javascript">
+								var basket_content = getcookie('cart-contents').split(";");
+								var basket_num = basket_content[0];
+								if(basket_num > 0) {
+									document.write(basket_num + ' Item');
+									if(basket_num > 1) document.write('s');
+								} else { document.write('0 Items');}
+							</script>0 Items in your Basket<br>
+							Total 
+							
+									£
+								<script language="JavaScript1.2" type="text/javascript">
+								var basket_content = getcookie('cart-contents').split(";");
+								var basket_total = basket_content[1];
+								if(basket_total > 0) {
+									document.write(basket_total);
+								} else { document.write('0.00');}</script>0.00
+</td>
+</tr>
+<tr><td colspan="2" align="right" valign="bottom"><a class="txtLink10pt" href="/page.xml?page_name=faq">Need Help? &gt;</a></td></tr>
+</tbody></table>
+</td>
+</tr></tbody></table>
+<script language="JavaScript" type="text/javascript">
+			hideElement('page-noscript');
+			hideElement('page-baskit');
+		</script><table cellpadding="0" cellspacing="0" class="page-topmenu">
+<tbody><tr>
+<td class="tab_top-left" style="background-color: #9A5E88;" onclick="window.location='/';"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Lft_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_top-right" style="background-color: #9A5E88;" onclick="window.location='/';"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Right_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_spacer"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="1" width="1" alt="" class="nospace"></td>
+<td class="tab_top-left" onclick="window.location='/catalog/category.xml?category_id=4';" id="tab_top-left-collection" style="background-color:
+				#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Lft_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_top-right" onclick="window.location='/catalog/category.xml?category_id=4';" id="tab_top-right-collection" style="background-color:
+					#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Right_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_spacer" id="tab_top_spacer-collection"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="1" width="1" alt="" class="nospace"></td>
+<td class="tab_top-left" onclick="window.location='/catalog/category.xml?category_id=1000343';" id="tab_top-left-simply" style="background-color:
+				#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Lft_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_top-right" onclick="window.location='/catalog/category.xml?category_id=1000343';" id="tab_top-right-simply" style="background-color:
+					#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Right_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_spacer" id="tab_top_spacer-simply"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="1" width="1" alt="" class="nospace"></td>
+<td class="tab_top-left" onclick="window.location='/catalog/category.xml?category_id=1000323';" id="tab_top-left-christmas" style="background-color:
+				#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Lft_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_top-right" onclick="window.location='/catalog/category.xml?category_id=1000323';" id="tab_top-right-christmas" style="background-color:
+					#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Right_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_spacer" id="tab_top_spacer-christmas"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="1" width="1" alt="" class="nospace"></td>
+<td class="tab_top-left" onclick="window.location='/catalog/category.xml?category_id=2001053';" id="tab_top-left-plants" style="background-color:
+				#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Lft_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_top-right" onclick="window.location='/catalog/category.xml?category_id=2001053';" id="tab_top-right-plants" style="background-color:
+					#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Right_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_spacer" id="tab_top_spacer-plants"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="1" width="1" alt="" class="nospace"></td>
+<td class="tab_top-left" onclick="window.location='/catalog/category.xml?category_id=2001043';" id="tab_top-left-wines" style="background-color:
+				#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Lft_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_top-right" onclick="window.location='/catalog/category.xml?category_id=2001043';" id="tab_top-right-wines" style="background-color:
+					#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Right_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_spacer" id="tab_top_spacer-wines"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="1" width="1" alt="" class="nospace"></td>
+<td class="tab_top-left" style="background-color: #9A5E88;" onclick="window.location='/design';"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Lft_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_top-right" style="background-color: #9A5E88;" onclick="window.location='/design';"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Right_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_spacer"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="1" width="1" alt="" class="nospace"></td>
+<td class="tab_top-left" onclick="window.location='/catalog/category.xml?category_id=2001063';" id="tab_top-left-fauxflowers" style="background-color:
+				#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Lft_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_top-right" onclick="window.location='/catalog/category.xml?category_id=2001063';" id="tab_top-right-fauxflowers" style="background-color:
+					#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Right_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_spacer" id="tab_top_spacer-fauxflowers"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="1" width="1" alt="" class="nospace"></td>
+<td class="tab_top-left" onclick="window.location='/catalog/category.xml?category_id=23';" id="tab_top-left-overseas" style="background-color:
+				#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Lft_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_top-right" onclick="window.location='/catalog/category.xml?category_id=23';" id="tab_top-right-overseas" style="background-color:
+					#9A5E88;"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/tab_Top_Right_Corner.gif" width="6" height="4" border="0"></td>
+<td class="tab_spacer" id="tab_top_spacer-overseas"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="1" width="1" alt="" class="nospace"></td>
+</tr>
+<tr>
+<td class="tab_name" colspan="2" style="background-color: #804C70;" onclick="window.location='/';"><a href="/">
+							Home
+						</a></td>
+<td class="tab_spacer"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="1" width="1" alt="" class="nospace"></td>
+<td class="tab_name" colspan="2" onclick="window.location='/catalog/category.xml?category_id=4'" id="tab_name-collection" style="background-color:
+					#804C70;	
+				"><a href="/catalog/category.xml?category_id=4" class="tab_name">New Collection</a></td>
+<td class="tab_spacer" id="tab_spacer-collection"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="2" width="1" alt="" class="nospace"></td>
+<td class="tab_name" colspan="2" onclick="window.location='/catalog/category.xml?category_id=1000343'" id="tab_name-simply" style="background-color:
+					#804C70;	
+				"><a href="/catalog/category.xml?category_id=1000343" class="tab_name">Simply Interflora - £18 delivered</a></td>
+<td class="tab_spacer" id="tab_spacer-simply"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="2" width="1" alt="" class="nospace"></td>
+<td class="tab_name" colspan="2" onclick="window.location='/catalog/category.xml?category_id=1000323'" id="tab_name-christmas" style="background-color:
+					#804C70;	
+				"><a href="/catalog/category.xml?category_id=1000323" class="tab_name">Christmas Flowers</a></td>
+<td class="tab_spacer" id="tab_spacer-christmas"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="2" width="1" alt="" class="nospace"></td>
+<td class="tab_name" colspan="2" onclick="window.location='/catalog/category.xml?category_id=2001053'" id="tab_name-plants" style="background-color:
+					#804C70;	
+				"><a href="/catalog/category.xml?category_id=2001053" class="tab_name">Plant Gifts</a></td>
+<td class="tab_spacer" id="tab_spacer-plants"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="2" width="1" alt="" class="nospace"></td>
+<td class="tab_name" colspan="2" onclick="window.location='/catalog/category.xml?category_id=2001043'" id="tab_name-wines" style="background-color:
+					#804C70;	
+				"><a href="/catalog/category.xml?category_id=2001043" class="tab_name">Wine Gifts</a></td>
+<td class="tab_spacer" id="tab_spacer-wines"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="2" width="1" alt="" class="nospace"></td>
+<td class="tab_name" colspan="2" style="background-color: #804C70;" onclick="window.location='/design';"><a href="/design">
+							FLOWERS DESIGNED TO ORDER
+						</a></td>
+<td class="tab_spacer"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="1" width="1" alt="" class="nospace"></td>
+<td class="tab_name" colspan="2" onclick="window.location='/catalog/category.xml?category_id=2001063'" id="tab_name-fauxflowers" style="background-color:
+					#804C70;	
+				"><a href="/catalog/category.xml?category_id=2001063" class="tab_name">Faux Flowers</a></td>
+<td class="tab_spacer" id="tab_spacer-fauxflowers"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="2" width="1" alt="" class="nospace"></td>
+<td class="tab_name" colspan="2" onclick="window.location='/catalog/category.xml?category_id=23'" id="tab_name-overseas" style="background-color:
+					#804C70;	
+				"><a href="/catalog/category.xml?category_id=23" class="tab_name">International Flower Delivery</a></td>
+<td class="tab_spacer" id="tab_spacer-overseas"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" height="2" width="1" alt="" class="nospace"></td>
+</tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" class="page-line"><tbody><tr><td class="dashed_line"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" class="page-widener" width="1" height="1"></td></tr></tbody></table>
+<p id="browser-warning" style="display: block; padding: 2px; border: 2px solid #FC9F85; margin: 0px; background-color: #FDFFC4;">
+<b>For your information:</b> This message has appeared because we've noticed your browser doesn't fully support all functions of this site. For further information please <a href="/page.xml?page_name=faq">click here</a>.</p>
+<script language="JavaScript1.2" type="text/javascript">
+			if(is_nav7up || (parseInt(is_moz_ver) >= 1) || is_ie5_5up) {
+				hideElement('browser-warning',0);
+			}
+		</script><table class="body" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+<td class="menu" valign="top">
+<img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" width="190" height="1" border="0" alt=""><br><div class="menusection">
+<a class="menuParent_off" id="parent1" href="/design"><div class="spacer"></div>Flowers Designed to Order<div class="spacer"></div></a><div class="menuChildren" id="menuChildren1"></div>
+<a class="menuParent_off" id="parentcat_2000453" href="/catalog/category.xml?category_id=2000453"><div class="spacer"></div>Winter Flowers<div class="spacer"></div></a><div class="menuChildren" id="menuChildrencat_2000453"></div>
+<a class="menuParent_off" id="parentcat_6" href="/catalog/category.xml?category_id=6"><div class="spacer"></div>Gift Sets<div class="spacer"></div></a><div class="menuChildren" id="menuChildrencat_6"></div>
+<a class="menuParent_off" id="parentcat_13" href="/catalog/category.xml?category_id=13"><div class="spacer"></div>Best Selling Flowers<div class="spacer"></div></a><div class="menuChildren" id="menuChildrencat_13"></div>
+<a class="menuParent_off" id="parentcat_9" href="/catalog/category.xml?category_id=9"><div class="spacer"></div>New Baby Flowers<div class="spacer"></div></a><div class="menuChildren" id="menuChildrencat_9"></div>
+<a class="menuParent_off" id="parentcat_1000373" href="/catalog/category.xml?category_id=1000373"><div class="spacer"></div>Balloon Bouquets<div class="spacer"></div></a><div class="menuChildren" id="menuChildrencat_1000373"></div>
+<a class="menuParent_off" id="parentcat_5" href="/catalog/category.xml?category_id=5"><div class="spacer"></div>Birthday Flowers<div class="spacer"></div></a><div class="menuChildren" id="menuChildrencat_5"></div>
+<a class="menuParent_off" id="parentcat_223" href="/catalog/category.xml?category_id=223"><div class="spacer"></div>Roses<div class="spacer"></div></a><div class="menuChildren" id="menuChildrencat_223"></div>
+<a class="menuParent_off" id="parentcat_11" href="/catalog/category.xml?category_id=11"><div class="spacer"></div>Designer Flowers<div class="spacer"></div></a><div class="menuChildren" id="menuChildrencat_11"></div>
+<a class="menuParent_off" id="parentcat_8" href="/catalog/category.xml?category_id=8"><div class="spacer"></div>Romantic Flowers<div class="spacer"></div></a><div class="menuChildren" id="menuChildrencat_8"></div>
+<a class="menuParent_off" id="parentcat_4" href="/catalog/category.xml?category_id=4"><div class="spacer"></div>New Collection<div class="spacer"></div></a><div class="menuChildren" id="menuChildrencat_4"></div>
+<a class="menuParent_off" id="parentcat_1000323" href="/catalog/category.xml?category_id=1000323"><div class="spacer"></div>Christmas Flowers<div class="spacer"></div></a><div class="menuChildren" id="menuChildrencat_1000323"></div>
+<a class="menuParent_off" id="parentcat_7" href="/catalog/category.xml?category_id=7"><div class="spacer"></div>Sympathy &amp; Funeral Flowers<div class="spacer"></div></a><div class="menuChildren" id="menuChildrencat_7"></div>
+<a class="menuParent_off" id="parentcat_23" href="/catalog/category.xml?category_id=23"><div class="spacer"></div>International Flower Delivery<div class="spacer"></div></a><div class="menuChildren" id="menuChildrencat_23"></div>
+</div>
+<br><form method="get" action="/search/index.xml"><table border="0" cellspacing="0" class="global-search">
+<tbody><tr><td colspan="2"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/label_search.gif" alt="Search" width="32" height="11"></td></tr>
+<tr><td colspan="2"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/spacer.gif" height="2"></td></tr>
+<tr>
+<td width="50%"><input class="text" type="text" name="keywords1" id="search" value="" maxlength="50" size="15"></td>
+<td><input type="image" class="search" src="/kernel/images/button-go.gif" name="search" alt="Go" id="search" value="search" attr="value"></td>
+</tr>
+<tr><td colspan="2"><a href="/search/advanced_search.xml">Advanced Search &gt;</a></td></tr>
+</tbody></table></form>
+<div class="global-myaccount">
+<a href="https://www.interflora.co.uk/myaccount/"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/header-my_account.gif" alt="My Account" width="57" height="15"></a><form method="get" id="global-signin" action="https://www.interflora.co.uk/myaccount/index.xml">
+<input type="hidden" name="goback" value="/myaccount/index.xml"><p>
+				Email Address:<br><input class="text" type="text" name="email_address" id="email_address" value="" maxlength="50" size="15">
+</p>
+<p>
+				Password:<br><input class="text" type="password" name="login_password" id="login_password" value="" maxlength="50" size="15">
+</p>
+<p><input type="image" class="submit" src="/kernel/images/button-login.gif" name="login_submit" id="login_submit" value="Login" alt="Login" attr="value"></p>
+<p><a href="/myaccount/forgotten_password.html">Forgot your password? &gt;</a></p>
+<p><a href="/myaccount/signup.xml">Want to Register? &gt;</a></p>
+</form>
+<form method="get" id="global-loggedin" style="display: none;" action="https://www.interflora.co.uk/myaccount/index.xml">
+<input type="hidden" name="logout" value="1">
+			Welcome back, <script language="JavaScript1.2" type="text/javascript">document.write(user);</script><p><input type="image" class="submit" src="/kernel/images/button-logout.gif" name="logout_submit" id="logout_submit" alt="Log Out" value="Logout" attr="value"></p>
+</form>
+</div>
+<br><table border="0" cellspacing="0" class="global-search">
+<tbody><tr><td colspan="2"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/spacer.gif" height="2"></td></tr>
+<tr><td width="50%">Telesales:<br>0870 366 6555</td></tr>
+<tr><td>Customer Services:<br>0870 904 5459</td></tr>
+</tbody></table>
+</td>
+<td class="content">
+<img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" width="780" height="1" alt=""><br><div class="breadcrumbs"><a href="/">Home</a></div>
+<table cellspacing="0" cellpadding="0" border="0" class="topheader"><tbody><tr><td class="page-header"><h1>Privacy Policy</h1></td></tr></tbody></table>
+<table width="100%" cellspacing="0" class="sd-privacy" id="sd-privacy"><tbody><tr><td valign="top" class="sd-image_text" id="sd-window-0-0" colspan="1" rowspan="1" width="780">
+<div style="float:right;padding:0px 0px 10px 10px;"><img border="0" src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/imageload?table=content_images;ttl2=15;key1=fd_img_2_1"></div><a name="top"></a><p>Interflora British Unit is committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 &amp; subsequent revisions thereof). We collect information about you for three reasons: to process your order (including payment authorisation), to provide you with the best possible service and to assist in developing the sites content. </p>
+<p>When placing an order, information you provide will be shared with our banking services and distribution providers to ensure your order can be successfully processed and delivered. We will only share relevant information with these parties, all such providers are under obligation to ensure your information is kept private. </p>
+<p>We will not e-mail you in the future unless you have given us your consent (unless to confirm orders). </p>
+<p>We will give you the chance to refuse any marketing e-mail from us or from any other third party companies in the future. </p>
+<p>The type of information we will collect about you includes: </p>
+<p>your name<br> 
+        address<br> 
+        phone number (including mobile number)<br> 
+        e-mail address<br> 
+        credit/debit card details<br> 
+        age </p>
+<p>We will never collect sensitive information about you without your explicit consent. </p>
+<p>The information we hold will be accurate and up to date. It is possible to obtain a copy of the information that we hold about you. If you find any inaccuracies we will delete or correct it promptly. A nominal charge of £10 is made to cover administrative costs involved. Should you require a copy of such information, please write to us at: </p>
+<p>Customer Liaison<br> 
+        Interflora British Unit<br> 
+        Interflora House<br> 
+        Sleaford<br> 
+        Lincolnshire NG34 7TB </p>
+<p>The personal information which we hold will be held securely in accordance with our internal security policy and English law. Further information about our site security can be viewed by clicking here. </p>
+<p>If we intend to transfer your information outside the EEA (European Economic Area) for uses other than order fulfilment, we will always obtain your consent first. </p>
+<p>We may use technology to track the patterns of behaviour of registered and non-registered visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening (for example, using Internet Explorer select 'internet options' from the 'tools' menu, then click 'security', followed by 'custom level' and select 'disable cookies'). The information collected in this way can be used to identify you unless you modify your browser settings. We also aggregate this data to perform statistical analyses of the characteristics and behaviour of our registered users and non-registered visitors. Cookies are also used as a further means of ensuring private and secure purchase sessions are operated within the site. </p>
+<p>We may use third-party advertising companies to serve advertisements on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. Your browser can be modified to not accept cookies - guidance for which is provided in the paragraph above. </p>
+<p>Sometimes, we may specifically ask for information about you when you sign up to use a service, for instance, the My Account service, or when you order a product. We will need certain information such as your name, address, credit card number in order to provide you with that service or product. Furthermore, we may also use that information to let you know of additional products or services that we feel may be of interest to you. You can easily choose not to receive such information by letting us know on the registration screen when you sign up for the product or service. </p>
+<p>Every time you connect to our website we store a log of your visit which shows the unique number your machine uses when it is connected to the internet (IP address). This tells us what you looked at; whether the page request was successful or not and which browser you use to view the pages. The use of this data is strictly for statistical purposes only. This helps us to understand which areas of the site are of particular interest and also which pages are not being requested. It also tells how many people are visiting the website in total. </p>
+<p>Data collected during a promotion is typically shared with the sponsor or co-sponsor. If this is the case we will inform you at the point of collection whether your personal data will be shared with others as a result of your participation. </p>
+<p>Interflora may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by email or an announcement on the website. </p>
+<p>If you have any questions/comments about privacy, you should <a href="mailto:sales.enquiries@interflora.co.uk?subject=Privacy Policy">email us</a>. </p></td></tr></tbody></table>
+<img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" width="550" height="1" alt="">
+</td>
+</tr></tbody></table>
+<div class="footer">
+<div class="menu">
+<a href="/myaccount/">My Account</a> | <a href="/myaccount/calendar.html">Reminders</a> | <a href="/page.xml?page_name=faq#ordering1">How to Order</a> | <a href="/contactus.html">Contact Us</a> | <a href="/page.xml?page_name=about">About Interflora</a> | <a href="javascript:MM_openBrWindow('http://www.corporate.interfloraonshow.co.uk','corporate','width=648,height=460')">Corporate</a>
+</div>
+<div class="menu">
+<a href="/page.xml?page_name=security">Security</a> | <a href="javascript:MM_openBrWindow('/page.xml?page_name=terms;popup=1', 'myPopupWindow', 'location=no,toolbar=no,menubar=no,scrollbars=yes,width=800,height=600')">Terms and Conditions</a> | <a href="/page.xml?page_name=privacy">Privacy Policy</a> | <a href="/page.xml?page_name=site_map">Site Map</a>
+</div>
+<table><tbody><tr>
+<td>
+<img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/creditCards.gif" alt="We accept the following credit cards: Visa, Mastercard, Switch, Solo, Amex, Diners and Delta" width="171" height="19"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/speck.gif" width="20"><a href="/page.xml?page_name=security"><img src="http://a80.g.akamai.net/f/80/71/6h/www.interflora.co.uk/kernel/images/lock.gif" alt="Lock Icon" width="19" height="21"></a>
+</td>
+<td class="copyright" valign="middle"><a href="/page.xml?page_name=security">
+					Secure site-shop with confidence</a></td>
+</tr></tbody></table>
+<div id="copyright">© Interflora British Unit All Rights Reserved. Produced by: <a href="http://www.novator.com" target="_blank">Novator Systems Ltd.</a>
+</div>
+</div>
+</div>
+<script language="javascript" type="text/javascript">
+		if(navigator.cookieEnabled && !getcookie('1_hit')) {
+			var win_properties = "height=" + domGetWindowHeight() + ";width=" + domGetWindowWidth() + ";";
+			document.write('<img src="http://www.interflora.co.uk/kernel/hitcount?wid=1;uri=%2Fpage.xml%3Fpage_name%3Dprivacy;' + win_properties + '" width="1" height="1" alt border="0">');
+		}
+	</script><script language="JavaScript1.2" type="text/javascript">
+				// show the logged in user sections of the site
+				if(!((user == '') || (user == ';'))) {
+					// check and make sure these elements exist before doing anything else
+					if(document.getElementById('global-signin') && document.getElementById('global-loggedin')) {
+						// hide the signin form on the global nav left and show the logout button
+						hideElement('global-signin',0);
+						hideElement('global-loggedin',1);
+					}
+					// show "Hello [user]" on the homepage
+					
+				}
+
+				// hide simply interflora cat for referal who don't want it
+				// this will check for SI exclusion
+				if (getcookie('referral_id').indexOf('noSI') >= 0) hideSI();
+			</script>
+
+
+</body></html>
