@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newengland.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528090204id_/http%3A//www.yankeemagazine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newengland.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210134541id_/http%3A//www.yankeemagazine.com/privacy.php) for the most accurate reproduction.*
 
 # Yankee Magazine - Privacy Policy
 
