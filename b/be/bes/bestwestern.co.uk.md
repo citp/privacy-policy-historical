@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestwestern.co.uk privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204185748id_/http%3A//www.bestwestern.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwestern.co.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210094817id_/http%3A//www.bestwestern.co.uk/privacy) for the most accurate reproduction.*
 
 # Best Western Hotels - Great Britain
 
@@ -8,7 +8,7 @@
 Any personal data you give us will be used to send a brochure, fulfil an enquiry or make a booking with a hotel or send you appropriate marketing offers.   
 It will then be stored securely on our database for a reasonable period of time.   
 We promise to only send you relevant and timely marketing communications and we will give you the opportunity to decline to receive some or all of these communications every time we send them.   
-Please see below for more information and [click here](https://web.archive.org/web/20050204185748id_/http://www.bestwestern.co.uk/privacy/default.asp#optout) if you wish to Opt-out to receiving further communications.   
+Please see below for more information and [click here](https://web.archive.org/web/20051210094817id_/http://www.bestwestern.co.uk/privacy/default.asp#optout) if you wish to Opt-out to receiving further communications.   
 Please allow us up to one month to process all data regarding your opt out. 
 
 **Best Western Hotels - controller of your personal data**   
@@ -24,7 +24,7 @@ We use a data services company to analyse data on our behalf, in order for us to
 
 In the event that we are subject to a change of ownership or corporate structure, we may need to disclose your personal data to persons who need to know in order for the transaction to proceed. 
 
-**Your decision to Opt - out** (please [click here](https://web.archive.org/web/20050204185748id_/http://www.bestwestern.co.uk/privacy/default.asp#optout) to Opt-out)   
+**Your decision to Opt - out** (please [click here](https://web.archive.org/web/20051210094817id_/http://www.bestwestern.co.uk/privacy/default.asp#optout) to Opt-out)   
 If you do not want us to do any or all of these things, please let us know as soon as possible. We are entitled to assume you do not object to our doing any of the things mentioned in this statement unless you tell us otherwise in writing or in any other approved manner. However please allow up t one month for us to process all data regarding your privacy choices. 
 
 If you do not opt-out, in all future contact with you in mailings, on-the phone or via e-mail marketing we will give you the opportunity to decline to receive further mailings. Except where expressly permitted by the Data Protection Act, we will only deal with the personal details you give us as set out above unless you agree otherwise. We have appropriate security measures in place to protect this information. 
