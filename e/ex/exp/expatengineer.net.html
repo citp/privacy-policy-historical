@@ -1,0 +1,530 @@
+<!--The following is the downloaded HTML source of the expatengineer.net privacy policy that was archived on 2005-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210061244id_/http%3A//www.expatengineer.net/exe/exedd.nsf/Privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>Privacy Expat Engineering Job Network</title><!-- International Expat Jobs covering the Civil Engineering & Engineering, Oil &amp; Gas, Exploration, Petrochemical, Mining, Building and Construction, Transport and Logistics and Telecommunications sectors -->
+<meta name="description" content="International Expat Jobs covering the Civil Engineering &amp; Engineering, Oil &amp; Gas, Exploration, Petrochemical, Mining, Building and Construction, Transport and Logistics and Telecommunications sectors>
+<META Name=" keywords"="">
+<meta name="distribution" content="GLOBAL">
+<meta name="language" content="uk">
+<meta name="rating" content="general">
+<meta name="revisit-after" content="2 Days">
+<meta name="robots" content="index">
+<meta name="expires" content="never">
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t, h) {
+  var form = document._DominoForm;
+  if (form.onsubmit) {
+     var retVal = form.onsubmit();
+     if (typeof retVal == "boolean" && retVal == false)
+       return false;
+  }
+  var target = document._domino_target;
+  if (o.href != null) {
+    if (o.target != null)
+       target = o.target;
+  } else {
+    if (t != null)
+      target = t;
+  }
+  form.target = target;
+  form.__Click.value = v;
+  if (h != null)
+    form.action += h;
+  form.submit();
+  return false;
+}
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+var isDOM = (document.getElementById ? true : false);
+var isIE4 = ((document.all && !isDOM) ? true : false);
+var isNS4 = (document.layers ? true : false);
+
+function getRef(id) {
+if (isDOM) return document.getElementById(id);
+if (isIE4) return document.all[id];
+if (isNS4) return document.layers[id];
+}
+
+function getSty(id) {
+return (isNS4 ? getRef(id) : getRef(id).style);
+}
+// Hide timeout.
+var popTimer = 0;
+// Array showing highlighted menu items.
+var litNow = new Array();
+function popOver(menuNum, itemNum) {
+clearTimeout(popTimer);
+hideAllBut(menuNum);
+litNow = getTree(menuNum, itemNum);
+changeCol(litNow, true);
+targetNum = menu[menuNum][itemNum].target;
+if (targetNum > 0) {
+thisX = parseInt(menu[menuNum][0].ref.left) + parseInt(menu[menuNum][itemNum].ref.left);
+thisY = parseInt(menu[menuNum][0].ref.top) + parseInt(menu[menuNum][itemNum].ref.top);
+with (menu[targetNum][0].ref) {
+left = parseInt(thisX + menu[targetNum][0].x);
+top = parseInt(thisY + menu[targetNum][0].y);
+visibility = 'visible';
+      }
+   }
+}
+function popOut(menuNum, itemNum) {
+if ((menuNum == 0) && !menu[menuNum][itemNum].target)
+hideAllBut(0)
+else
+popTimer = setTimeout('hideAllBut(0)', 500);
+}
+function getTree(menuNum, itemNum) {
+
+// Array index is the menu number. The contents are null (if that menu is not a parent)
+// or the item number in that menu that is an ancestor (to light it up).
+itemArray = new Array(menu.length);
+
+while(1) {
+itemArray[menuNum] = itemNum;
+// If we've reached the top of the hierarchy, return.
+if (menuNum == 0) return itemArray;
+itemNum = menu[menuNum][0].parentItem;
+menuNum = menu[menuNum][0].parentMenu;
+   }
+}
+
+// Pass an array and a boolean to specify colour change, true = over colour.
+function changeCol(changeArray, isOver) {
+for (menuCount = 0; menuCount < changeArray.length; menuCount++) {
+if (changeArray[menuCount]) {
+newCol = isOver ? menu[menuCount][0].overCol : menu[menuCount][0].backCol;
+// Change the colours of the div/layer background.
+with (menu[menuCount][changeArray[menuCount]].ref) {
+if (isNS4) bgColor = newCol;
+else backgroundColor = newCol;
+         }
+      }
+   }
+}
+function hideAllBut(menuNum) {
+var keepMenus = getTree(menuNum, 1);
+for (count = 0; count < menu.length; count++)
+if (!keepMenus[count])
+menu[count][0].ref.visibility = 'hidden';
+changeCol(litNow, false);
+}
+
+// *** MENU CONSTRUCTION FUNCTIONS ***
+
+function Menu(isVert, popInd, x, y, width, overCol, backCol, borderClass, textClass) {
+// True or false - a vertical menu?
+this.isVert = isVert;
+// The popout indicator used (if any) for this menu.
+this.popInd = popInd
+// Position and size settings.
+this.x = x;
+this.y = y;
+this.width = width;
+// Colours of menu and items.
+this.overCol = overCol;
+this.backCol = backCol;
+// The stylesheet class used for item borders and the text within items.
+this.borderClass = borderClass;
+this.textClass = textClass;
+// Parent menu and item numbers, indexed later.
+this.parentMenu = null;
+this.parentItem = null;
+// Reference to the object's style properties (set later).
+this.ref = null;
+}
+
+function Item(text, href, frame, length, spacing, target) {
+this.text = text;
+this.href = href;
+this.frame = frame;
+this.length = length;
+this.spacing = spacing;
+this.target = target;
+// Reference to the object's style properties (set later).
+this.ref = null;
+}
+
+function writeMenus() {
+if (!isDOM && !isIE4 && !isNS4) return;
+
+for (currMenu = 0; currMenu < menu.length; currMenu++) with (menu[currMenu][0]) {
+// Variable for holding HTML for items and positions of next item.
+var str = '', itemX = 0, itemY = 0;
+
+// Remember, items start from 1 in the array (0 is menu object itself, above).
+// Also use properties of each item nested in the other with() for construction.
+for (currItem = 1; currItem < menu[currMenu].length; currItem++) with (menu[currMenu][currItem]) {
+var itemID = 'menu' + currMenu + 'item' + currItem;
+
+// The width and height of the menu item - dependent on orientation!
+var w = (isVert ? width : length);
+var h = (isVert ? length : width);
+
+// Create a div or layer text string with appropriate styles/properties.
+// Thanks to Paul Maden (www.paulmaden.com) for helping debug this in IE4, apparently
+// the width must be a miniumum of 3 for it to work in that browser.
+if (isDOM || isIE4) {
+str += '<div id="' + itemID + '" style="position: absolute; left: ' + itemX + '; top: ' + itemY + '; width: ' + w + '; height: ' + h + '; visibility: inherit; ';
+if (backCol) str += 'background: ' + backCol + '; ';
+str += '" ';
+}
+if (isNS4) {
+str += '<layer id="' + itemID + '" left="' + itemX + '" top="' + itemY + '" width="' +  w + '" height="' + h + '" visibility="inherit" ';
+if (backCol) str += 'bgcolor="' + backCol + '" ';
+}
+if (borderClass) str += 'class="' + borderClass + '" ';
+
+// Add mouseover handlers and finish div/layer.
+str += 'onMouseOver="popOver(' + currMenu + ',' + currItem + ')" onMouseOut="popOut(' + currMenu + ',' + currItem + ')">';
+
+// Add contents of item (default: table with link inside).
+// In IE/NS6+, add padding if there's a border to emulate NS4's layer padding.
+// If a target frame is specified, also add that to the <a> tag.
+
+str += '<table width="' + (w - 8) + '" border="0" cellspacing="0" cellpadding="' + (!isNS4 && borderClass ? 3 : 0) + '"><tr><td align="left" height="' + (h - 7) + '">' + '<a class="' + textClass + '" href="' + href + '"' + (frame ? ' target="' + frame + '">' : '>') + text + '</a></td>';
+if (target > 0) {
+
+// Set target's parents to this menu item.
+menu[target][0].parentMenu = currMenu;
+menu[target][0].parentItem = currItem;
+
+// Add a popout indicator.
+if (popInd) str += '<td class="' + textClass + '" align="right">' + popInd + '</td>';
+}
+str += '</tr></table>' + (isNS4 ? '</layer>' : '</div>');
+if (isVert) itemY += length + spacing;
+else itemX += length + spacing;
+}
+if (isDOM) {
+var newDiv = document.createElement('div');
+document.getElementsByTagName('body').item(0).appendChild(newDiv);
+newDiv.innerHTML = str;
+ref = newDiv.style;
+ref.position = 'absolute';
+ref.visibility = 'hidden';
+}
+
+// Insert a div tag to the end of the BODY with menu HTML in place for IE4.
+if (isIE4) {
+document.body.insertAdjacentHTML('beforeEnd', '<div id="menu' + currMenu + 'div" ' + 'style="position: absolute; visibility: hidden">' + str + '</div>');
+ref = getSty('menu' + currMenu + 'div');
+}
+
+// In NS4, create a reference to a new layer and write the items to it.
+if (isNS4) {
+ref = new Layer(0);
+ref.document.write(str);
+ref.document.close();
+}
+
+for (currItem = 1; currItem < menu[currMenu].length; currItem++) {
+itemName = 'menu' + currMenu + 'item' + currItem;
+if (isDOM || isIE4) menu[currMenu][currItem].ref = getSty(itemName);
+if (isNS4) menu[currMenu][currItem].ref = ref.document[itemName];
+   }
+}
+with(menu[0][0]) {
+ref.left = x;
+ref.top = y;
+ref.visibility = 'visible';
+   }
+}
+
+// Syntaxes: *** START EDITING HERE, READ THIS SECTION CAREFULLY! ***
+var menu = new Array();
+var defOver = '#E0E0FF', defBack = '#E0E0FF';
+// Default 'length' of menu items - item height if menu is vertical, width if horizontal.
+var defLength = 22;
+
+menu[0] = new Array();
+menu[0][0] = new Menu(false, '', 9, 115, 15, '#E0E0FF', '#E0E0FF', '', 'headingbluebar');
+menu[0][1] = new Item('  Job Seekers', '/exe/exedd.nsf/Job Seekers.html', '', 100, 8, 1);
+menu[0][2] = new Item('  Employers/Recruiters', '/exe/exedd.nsf/Employers.html', '', 145, 12, 2);
+menu[0][3] = new Item('  Advertisers', '/exe/exedd.nsf/mediakit1.html', '', 70, 21, 3);
+menu[0][4] = new Item('  General Information', '#', '', 140, 15, 5);
+
+menu[1] = new Array();
+menu[1][0] = new Menu(true, '>', 0, 22, 160, defOver, 'CCCCFF', 'cell1', 'bodycopy');
+menu[1][1] = new Item('Log In', '/exe/execands.nsf/redirect', '', defLength, 0, 0);
+menu[1][2] = new Item('Lost Login ID/Password','exe/exedd.nsf/CandRetrievePassword', '', defLength, 0, 0);
+menu[1][3] = new Item('HOT/URGENT Jobs', '/exe/exedd.nsf/hotjobs', '', defLength, 0, 0);
+menu[1][4] = new Item('Todays Jobs', '/exe/exedd.nsf/todaysjobs', '', defLength, 0, 0);
+menu[1][5] = new Item('This Weeks Jobs', '/exe/exedd.nsf/thisweeksjobs', '', defLength, 0, 0);
+menu[1][6] = new Item('Jobs By Location', '/exe/exedd.nsf/jobsbylocation', '', defLength, 0, 0);
+menu[1][7] = new Item('Jobs By Industry', '/exe/exedd.nsf/jobsbyindustry', '', defLength, 0, 0);
+menu[1][8] = new Item('Jobs By Company', '/exe/exedd.nsf/jobsbycompany', '', defLength, 0, 0);
+menu[1][9] = new Item('Job Search', '/exe/exedd.nsf/jobs', '', defLength, 0, 0);
+menu[1][10] = new Item('All jobs', '/exe/exevacs.nsf/Allvacancies.html', '', defLength, 0, 0);
+menu[1][11] = new Item('RSS jobs', '/exe/exedd.nsf/rss', '', defLength, 0, 0);
+menu[1][12] = new Item('News', '/exe/exedd.nsf/news', '', defLength, 0, 0);
+menu[1][13] = new Item('Getting Started', '/exe/exedd.nsf/getastart', '', defLength, 0, 4);
+menu[1][14] = new Item('Tools & Advice', '/exe/exedd.nsf/jobseekertools', '', defLength, 0, 6);
+menu[1][15] = new Item('Add Your Details', '/exe/exedd.nsf/addme', '', defLength, 0, 0);
+menu[1][16] = new Item('Help/FAQ', '/exe/exedd.nsf/help', '', defLength, 0, 0);
+
+menu[2] = new Array();
+menu[2][0] = new Menu(true, '>', 0, 22, 160,  defOver, 'CCCCFF', 'cell1', 'bodycopy');
+menu[2][1] = new Item('Log In', '/exe/execo.nsf/redirect', '', defLength, 0, 0);
+menu[2][2] = new Item('Lost Login ID/Password','/exe/exedd.nsf/coretrievepassword', '', defLength, 0, 0);
+menu[2][3] = new Item('Add NEW Job', '/exe/exedd.nsf/instantjobposting', '', defLength, 0, 0);
+menu[2][4] = new Item('Getting Started', '/exe/exedd.nsf/empgetastart', '', defLength, 0, 0);
+menu[2][5] = new Item('Job Posting Options', '/exe/exedd.nsf/jobpostingoptions', "",defLength, 0, 0);
+menu[2][6] = new Item('CV Database', '/exe/exedd.nsf/cvdb', '', defLength, 0, 0);
+menu[2][7] = new Item('Help/FAQ', '/exe/exedd.nsf/emphelp', '', defLength, 0, 0);
+menu[2][8] = new Item('Add New Company', '/exe/exedd.nsf/addnewco', '', defLength, 0, 0);
+menu[2][9] = new Item('Media Kit', '/exe/exedd.nsf/mediakit1', '', defLength, 0, 0);
+menu[2][10] = new Item('Client Testimonials', '/exe/exedd.nsf/cothanks', '', defLength, 0, 0);
+menu[2][11] = new Item('Job Seeker Testimonials', '/exe/exedd.nsf/thanks', '', defLength, 0, 0);
+
+menu[3] = new Array();
+menu[3][0] = new Menu(true, '>', 0, 22, 160, defOver, 'CCCCFF', 'cell1', 'bodycopy');
+menu[3][1] = new Item('Why Advertise with us?', '/exe/exedd.nsf/whyadvertisewithus', '', defLength, 0, 0);
+menu[3][2] = new Item('Why Advertise online?', '/exe/exedd.nsf/whyadvertiseonline', '', defLength, 0, 0);
+menu[3][3] = new Item('Banner Advertising', '/exe/exedd.nsf/banneradvertising', '', defLength, 0, 0);
+menu[3][4] = new Item('Newsletter Advertising', '/exe/exedd.nsf/newsletteradvertising', '', defLength, 0, 0);
+menu[3][5] = new Item('News Broadcast', '/exe/exedd.nsf/newsflash', '', defLength, 0, 0);
+menu[3][6] = new Item('Sponsorship Options', '/exe/exedd.nsf/sponsorship', '', defLength, 0, 0);
+menu[3][7] = new Item('Statistics', '/exe/exedd.nsf/stats', '', defLength, 0, 0);
+
+menu[4] = new Array();
+menu[4][0] = new Menu(true, '>', 165, -20, 180, defOver, 'CCCCFF', 'cell1', 'bodycopy');
+menu[4][1] = new Item('Step 1. - CV/Bio-Data', '/exe/exedd.nsf/step1', '', defLength, 0, 0);
+menu[4][2] = new Item('Step 2. - Where to work', '/exe/exedd.nsf/step2', '', defLength, 0, 0);
+menu[4][3] = new Item('Step 3. - Find Jobs There', '/exe/exedd.nsf/step3', '', defLength, 0, 0);
+menu[4][4] = new Item('Step 4. - Applying for jobs', '/exe/exedd.nsf/step4', '', defLength, 0, 0);
+menu[4][5] = new Item('Step 5. - Short-List', '/exe/exedd.nsf/step5', '', defLength, 0, 0);
+menu[4][6] = new Item('Step 6. - Interviewing', '/exe/exedd.nsf/step6', '', defLength, 0, 0);
+menu[4][7] = new Item('Step 7. - Negotiation', '/exe/exedd.nsf/step7', '', defLength, 0, 0);
+menu[4][8] = new Item('Step 8. - Starting New Job', '/exe/exedd.nsf/step8', '', defLength, 0, 0);
+
+menu[5] = new Array();
+menu[5][0] = new Menu(true, '>', 0, 22, 160, defOver, 'CCCCFF', 'cell1', 'bodycopy');
+menu[5][1] = new Item('Contact Us', '/exe/exedd.nsf/contact', '',defLength, 0, 0);
+menu[5][2] = new Item('About Us', '/exe/exedd.nsf/about', '', defLength, 0, 0);
+menu[5][3] = new Item('Site Map', '/exe/exedd.nsf/sitemap.html', '', defLength, 0, 0);
+menu[5][4] = new Item('Links', '/exe/exedd.nsf/links', '', defLength, 0, 0);
+menu[5][5] = new Item('Privacy', '/exe/exedd.nsf/privacy', '', defLength, 0, 0);
+menu[5][6] = new Item('Terms and Conditions', '/exe/exedd.nsf/terms', '', defLength, 0, 0);
+
+menu[6] = new Array();
+menu[6][0] = new Menu(true, '>', 165, -140, 210, defOver, 'CCCCFF', 'cell1', 'bodycopy');
+menu[6][1] = new Item('Discussion Forum', '/exe/exedd.nsf/discussionforum', '',defLength, 0, 0);
+menu[6][2] = new Item('Job Scams', '/exe/exedd.nsf/jobscams', '', defLength, 0, 0);
+menu[6][3] = new Item('Visa and Migration Services', '/exe/exedd.nsf/visa', '', defLength, 0, 0);
+menu[6][4] = new Item('Offshore Banking and Finance',  '/exe/exedd.nsf/offshorebanking', '', defLength, 0, 0);
+menu[6][5] = new Item('Offshore Services',  '/exe/exedd.nsf/offshoreservices', '', defLength, 0, 0);
+menu[6][6] = new Item('Travel and Accommodation',  '/exe/exedd.nsf/travel', '', defLength, 0, 0);
+menu[6][7] = new Item('TAX advice',  '/exe/exedd.nsf/tax', '', defLength, 0, 0);
+menu[6][8] = new Item('Insurance',  '/exe/exedd.nsf/insurance', '', defLength, 0, 0);
+menu[6][9] = new Item('Overseas Property',  '/exe/exedd.nsf/property', '', defLength, 0, 0);
+menu[6][10] = new Item('Offshore Services',  '/exe/exedd.nsf/offservices', '', defLength, 0, 0);
+menu[6][11] = new Item('Education and Language Schools',  '/exe/exedd.nsf/education', '', defLength, 0, 0);
+menu[6][12] = new Item('Flowers and Gifts',  '/exe/exedd.nsf/gifts', '', defLength, 0, 0);
+menu[6][13] = new Item('Hash House Harriers',  '/exe/exedd.nsf/hhh', '', defLength, 0, 0);
+menu[6][14] = new Item('Rugby Union Links',  '/exe/exedd.nsf/rugby', '', defLength, 0, 0);
+
+
+// *** OPTIONAL CODE FROM HERE DOWN ***
+
+// These two lines handle the window resize bug in NS4. See <body onResize="...">.
+// I recommend you leave this here as otherwise when you resize NS4's width menus are hidden.
+
+var popOldWidth = window.innerWidth;
+nsResizeHandler = new Function('if (popOldWidth != window.innerWidth) location.reload()');
+
+
+// This is a quick snippet that captures all clicks on the document and hides the menus
+// every time you click. Use if you want.
+
+if (isNS4) document.captureEvents(Event.CLICK);
+document.onclick = clickHandle;
+
+function clickHandle(evt)
+{
+ if (isNS4) document.routeEvent(evt);
+ hideAllBut(0);
+}
+
+// This is just the moving command for the example.
+
+function moveRoot()
+{
+ with(menu[0][0].ref) left = ((parseInt(left) < 100) ? 100 : 5);
+}
+//  End -->
+
+
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" onload="writeMenus()" link="#0000FF" alink="#0000FF" vlink="#0000FF" marginheight="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" topmargin="0" class="bodyclass">
+
+<form method="post" action="/exe/exedd.nsf/Privacy.html?OpenForm&amp;Seq=1" name="_DominoForm">
+<input type="hidden" name="__Click" value="0">
+<input name="HTTP_Cookie" type="hidden" value="">
+
+<script language="JavaScript" type="text/javascript" src="/exe/exedd.nsf/JS_lib?OpenJavascriptLibrary">
+</script>
+<style type="text/css">
+@import url(/exe/exedd.nsf/ole.css?OpenCssResource);
+</style>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top"><td class="headingBlackBar" width="100%" colspan="3"><div align="right"><a href="/exe/exedd.nsf/addme" title="Get daily job alerts by e-mail"><b><font color="#FFFFFF">receive jobs by e-mail</font></b></a> | <a href="/exe/exedd.nsf/index.html" title="home page"><b><font color="#FFFFFF">home </font></b></a><b><font color="#FFFFFF">| </font></b><a href="/exe/exedd.nsf/LogIn" title="Employer and Job Seeker Login"><b><font color="#FFFFFF">login</font></b></a><b><font color="#FFFFFF"> | </font></b><a href="/exe/exedd.nsf/Contact" title="Information on how to contact us"><b><font color="#FFFFFF">contact </font></b></a><b><font color="#FFFFFF">| </font></b><a href="/exe/exedd.nsf/about" title="Information about us"><b><font color="#FFFFFF">about</font></b></a><b><font color="#FFFFFF"> | </font></b><a href="/exe/exedd.nsf/MediaKit1.html" title="Advertising and media information"><b><font color="#FFFFFF">advertise</font></b></a><b><font color="#FFFFFF"> | </font></b><a href="/exe/exedd.nsf/SiteMap.html" title="Site Map"><b><font color="#FFFFFF">site map</font></b></a><b><font color="#FFFFFF"> | </font></b><a href="/exe/exedd.nsf/Help.html" title="Help and FAQ"><b><font color="#FFFFFF">help</font></b></a><b><font color="#FFFFFF"> | </font></b><a href="/exe/exedd.nsf/resources.html" title="listing of resources"><b><font c="" color="#FFFFFF">resources</font></b></a> | <a href="/exe/exedd.nsf/links.html" title="links"><b><font c="" color="#FFFFFF">links</font></b></a>   </div></td></tr>
+<tr valign="top"><td class="headingBlueBar1" width="63%" rowspan="2">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top"><td class="headingBlueBar1" width="80" rowspan="2"><img src="/exe/exedd.nsf/ejnicon.jpg?OpenImageResource" width="80" height="68" alt="Expat Engineering Job Network"></td><td class="headingBlueBar3" width="309"><div align="center"><a href="/exe/exedd.nsf/index.html">ExpatEngineer.net</a></div></td></tr>
+<tr valign="top"><td class="headingBlueBar1" width="309"><div align="center">The ExpatEngineering Job Network</div></td></tr>
+</tbody></table>
+</td><td class="headingBlueBar1" width="37%" rowspan="2" colspan="2"><div align="right">
+<span style="font-size: 8px; line-height: 10px; vertical-align: middle;" title="I">
+<a href="/exe/exedd.nsf/SiteSponsorship.html" target="_blank" title="Information on featuring you company or product here">Site Sponsorship</a></span>
+<br><a href="http://www.expatengineer.net/exe/banner/bannerclicks.nsf/(bannerclickthrough)?openagent&amp;bannername=BPBanner" target="_blank" title="SAUDI ARAMCO are holding information sessions in Australia in November 2005, click here to find out more"><img src="/exe/banner/banner.nsf/ bannerlookupbyname/BPBanner/$file/BPBanner.jpg"></a></div></td></tr>
+<tr></tr>
+<tr valign="top"><td class="headingbluebar" width="100%" colspan="3" valign="middle">&nbsp;&nbsp;
+<span title="Please wait while menus load...">
+Job Seekers</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Please wait while menus load...">
+Employers/Recruiters</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Please wait while menus load...">
+Advertisers</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span title="Please wait while menus load...">
+General Information</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/exe/exevacs.nsf/Vacancies.html" title="Click here for a complete list of ALL available Engineering Jobs">3002 Jobs available</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/exe/exedd.nsf/CVDB" title="Click here for a complete list of ALL available Engineering Jobs"> 4264 CV's Online Today</a>&nbsp;&nbsp;<a href="/exe/exedd.nsf/instantjobposting" title="Click here to add a job NOW"> ADD NEW JOB</a></td></tr>
+</tbody></table>
+<br>
+
+<div align="center">
+  <center>
+  <table class="bodycopy" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top">
+      <td class="headingBlueBar" width="120" align="center"><a href="/exe/exedd.nsf/MediaKit1.html" target="_blank" title="Information on advertising in this column">Advertisement</a></td>
+      <td width="10" align="center"></td>
+      <td width="764" align="center" class="headingBlueBar">Privacy
+</td>
+      <td width="10" align="center"></td>
+      <td width="120" align="center" class="headingBlueBar"><a href="/exe/exedd.nsf/MediaKit1.html" target="_blank" title="Information on advertising in this column">Advertisement</a></td>
+    </tr>
+    <tr valign="top">
+      <td width="120" class="blacksolidborder" align="center">
+<a href="/exe/banner/bannerclicks.nsf/(bannerclickthrough)?openagent&amp;bannername=Shell120x60" target="_blank" title="Shell businesses in Australia are committed to providing a range of energy solutions in a sustainable way. Our products include petrol, oils, greases and specialty industrial lubricants."><img src="/exe/banner/banner.nsf/ bannerlookupbyname/Shell120x60/$file/shell logo.jpg"></a><br><br><a href="/exe/banner/bannerclicks.nsf/(bannerclickthrough)?openagent&amp;bannername=Clough120x60" target="_blank" title="With over 35 projects in 10 countries Clough has many world class and diverse professional engineering opportunities available right now"><img src="/exe/banner/banner.nsf/ bannerlookupbyname/Clough120x60/$file/Clough_xpat_120x60.gif"></a><br><br><a href="/exe/banner/bannerclicks.nsf/(bannerclickthrough)?openagent&amp;bannername=RailPersonnel120x60" target="_blank" title="If you're looking for rail industry professionals for your organisation or if you're looking for a job within the rail industry then this site is for you. RailPersonnel is an online search company that matches professional people with some of the rail industry's top positions."><img src="/exe/banner/banner.nsf/ bannerlookupbyname/RailPersonnel120x60/$file/rail personnel120x60 logo.jpg"></a><br><br><a href="http://www.globalspec.com/search/websearch?frmtrk=affiliate&amp;kbid=1397&amp;img=banner_120x60_02.gif">
+<img src="http://www.globalspec.com/pix/affiliate/banner_120x60_02.gif" border="0"></a>
+<img src="http://www.myaffiliateprogram.com/u/globalsp/showban.asp?id=1397&amp;img=banner_120x60_02.gif" border="0"><br><a href="/exe/banner/bannerclicks.nsf/(bannerclickthrough)?openagent&amp;bannername=360HR" target="_blank" title="360HR is an innovative and professional organisation committed to providing the full circle of Human Resources solutions to clients and candidates. 360HR abides by the philosophy “None of us is as smart as all of us!”"><img src="/exe/banner/banner.nsf/ bannerlookupbyname/360HR/$file/360hr.jpg"></a><br><br><a href="/exe/banner/bannerclicks.nsf/(bannerclickthrough)?openagent&amp;bannername=EJA" target="_blank" title="Engineering Job Portal for Australia and New Zealand"><img src="/exe/banner/banner.nsf/ bannerlookupbyname/EJA/$file/EJA120x600.gif"></a><br><br><a href="/exe/banner/bannerclicks.nsf/(bannerclickthrough)?openagent&amp;bannername=KCOFC" target="_blank" title="Feature your company here. Display your 120 x 60 logo with 40 words of text to an International Engineering Audience. Click on the logo for further details"><img src="/exe/banner/banner.nsf/ bannerlookupbyname/KCOFC/$file/Ad_here120x60ani.gif"></a><br><br><br>
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-5060763431244121";
+google_ad_width = 120;
+google_ad_height = 240;
+google_ad_format = "120x240_as";
+google_ad_type = "text_image";
+google_ad_channel ="2929365728";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+      </center></td>
+      <td width="10"></td>
+      <td width="764" class="blacksolidborder">
+
+<p>www.kco.net.au<br>
+www.expatjobs.net<br>
+www.expatengineer.net<br>
+www.jobs-the-engineer.com<br>
+www.engineeringjobs.net.au<br>
+<br>
+This Privacy Policy applies to Kco Pty Ltd,  (ABN 88 087 371 248) "KCO" is a private Australian company. KCO is bound by the National Privacy Principles of the Privacy Act, 1988 (Australia) <br>
+<br>
+KCO, does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. KCO,  only collects personally identifiable information from resume postings, the registration process for posting jobs, and mailing list registrations.<br>
+ <br>
+KCO,  respects your right to privacy. As part of the registration process, we give you the opportunity to decline to receive any mailings from either KCO,  or other parties to whom the KCO,  may provide such information. Your personally identifiable information will not be sold or otherwise transferred to unaffiliated third parties without your approval at the time of collection. <br>
+<br>
+When you look at our web sites, our Internet Service Provider  makes a record of your visit and logs the following information for statistical purposes: <br>
+<br>
+¨	your server address <br>
+¨	your top level domain name (for example .com, .gov, .au, .uk etc) <br>
+¨	the pages you accessed and documents downloaded <br>
+¨	the previous site you have visited <br>
+¨	The type of browser you are using. <br>
+<br>
+Information collected may be used internally to create aggregate information about our users. This aggregate data may be provided to our advertisers and sponsors, without providing any personal user data. <br>
+<br>
+KCO, reserves the right to perform statistical analyses of user behaviour and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. KCO will provide only aggregated data from these analyses to third parties. Also, users should be aware that KCO may sometimes permit third parties to offer subscription and/or registration-based services through an KCO, site. <br>
+<br>
+KCO is not responsible for any actions or policies of such third parties and users should check the applicable privacy policy of such party when providing personally identifiable information. <br>
+<br>
+Users also should be aware that non-personal information and data may be automatically collected through the standard operation of KCO, 's web servers or through the use of "cookies." "Cookies" are small text files a web site can use to recognise repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behaviour and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Users should be aware that KCO cannot control the use of cookies or the resulting information by advertisers or third parties using KCO, to display content. <br>
+<br>
+If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature. <br>
+<br>
+Upon request, KCO,  will allow any user to "opt out" of further promotional contacts at any time. Additionally upon request, KCO,  will use reasonable efforts to allow users to update/correct personal information previously submitted which the user states is erroneous to the extent such activities will not compromise privacy or security interests. Also, upon a user's request, KCO,  will use commercially reasonable efforts to functionally delete the user and his or her personal information from its database; however, it may be impossible to delete a user's entry without some residual information because of backups and records of deletions. <br>
+<br>
+The foregoing policies are effective as of Jan 1, 2002. KCO,  reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. <br>
+<br>
+Any questions about this Privacy Statement can be directed to the KCO,  Network at privacy@kco.net.au. <br>
+<br>
+</p></td>
+      <td width="10"></td>
+      <td width="120" class="blacksolidborder">
+<script type="text/javascript"><!--
+google_ad_client = "pub-5060763431244121";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> 
+<script type="text/javascript"><!--
+google_ad_client = "pub-5060763431244121";
+google_ad_width = 120;
+google_ad_height = 90;
+google_ad_format = "120x90_0ads_al_s";
+google_ad_channel ="2929365728";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+      </td>
+    </tr>
+  </tbody></table>
+</center></div>
+<br><br><div align="center"><a href="/index.html">home </a>| <a href="/exe/exedd.nsf/Log%20In.html">login</a> | <a href="/exe/exedd.nsf/Contact%20Us.html">contact </a>| <a href="/exe/exedd.nsf/About%20Us.html">about</a> | <a href="/exe/exedd.nsf/mediakit1?OpenForm">advertise</a> | <a href="/exe/exedd.nsf/Site%20Map.html">site map</a> | <a href="/exe/exedd.nsf/Help.html">help</a> | <a href="/exe/exedd.nsf/Privacy.html">privacy</a> | <a href="/exe/exedd.nsf/Terms.html">terms &amp; conditions</a></div><br><br><script type="text/javascript"><!--
+google_ad_client = "pub-5060763431244121";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel ="2929365728";
+google_color_border = "336699";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<div align="center"><br>
+</div></form>
+
+
+<div style="position: absolute; visibility: visible; left: 9px; top: 115px;"><div id="menu0item1" style="position: absolute; left: 0; top: 0; width: 100; height: 15; visibility: inherit; background: #E0E0FF; " onmouseover="popOver(0,1)" onmouseout="popOut(0,1)"><table width="92" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="8"><a class="headingbluebar" href="/exe/exedd.nsf/Job Seekers.html">  Job Seekers</a></td></tr></tbody></table></div><div id="menu0item2" style="position: absolute; left: 108; top: 0; width: 145; height: 15; visibility: inherit; background: #E0E0FF; " onmouseover="popOver(0,2)" onmouseout="popOut(0,2)"><table width="137" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="8"><a class="headingbluebar" href="/exe/exedd.nsf/Employers.html">  Employers/Recruiters</a></td></tr></tbody></table></div><div id="menu0item3" style="position: absolute; left: 265; top: 0; width: 70; height: 15; visibility: inherit; background: #E0E0FF; " onmouseover="popOver(0,3)" onmouseout="popOut(0,3)"><table width="62" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="8"><a class="headingbluebar" href="/exe/exedd.nsf/mediakit1.html">  Advertisers</a></td></tr></tbody></table></div><div id="menu0item4" style="position: absolute; left: 356; top: 0; width: 140; height: 15; visibility: inherit; background: #E0E0FF; " onmouseover="popOver(0,4)" onmouseout="popOut(0,4)"><table width="132" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="8"><a class="headingbluebar" href="#">  General Information</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu1item1" style="position: absolute; left: 0; top: 0; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,1)" onmouseout="popOut(1,1)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/execands.nsf/redirect">Log In</a></td></tr></tbody></table></div><div id="menu1item2" style="position: absolute; left: 0; top: 22; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,2)" onmouseout="popOut(1,2)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="exe/exedd.nsf/CandRetrievePassword">Lost Login ID/Password</a></td></tr></tbody></table></div><div id="menu1item3" style="position: absolute; left: 0; top: 44; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,3)" onmouseout="popOut(1,3)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/hotjobs">HOT/URGENT Jobs</a></td></tr></tbody></table></div><div id="menu1item4" style="position: absolute; left: 0; top: 66; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,4)" onmouseout="popOut(1,4)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/todaysjobs">Todays Jobs</a></td></tr></tbody></table></div><div id="menu1item5" style="position: absolute; left: 0; top: 88; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,5)" onmouseout="popOut(1,5)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/thisweeksjobs">This Weeks Jobs</a></td></tr></tbody></table></div><div id="menu1item6" style="position: absolute; left: 0; top: 110; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,6)" onmouseout="popOut(1,6)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/jobsbylocation">Jobs By Location</a></td></tr></tbody></table></div><div id="menu1item7" style="position: absolute; left: 0; top: 132; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,7)" onmouseout="popOut(1,7)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/jobsbyindustry">Jobs By Industry</a></td></tr></tbody></table></div><div id="menu1item8" style="position: absolute; left: 0; top: 154; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,8)" onmouseout="popOut(1,8)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/jobsbycompany">Jobs By Company</a></td></tr></tbody></table></div><div id="menu1item9" style="position: absolute; left: 0; top: 176; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,9)" onmouseout="popOut(1,9)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/jobs">Job Search</a></td></tr></tbody></table></div><div id="menu1item10" style="position: absolute; left: 0; top: 198; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,10)" onmouseout="popOut(1,10)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exevacs.nsf/Allvacancies.html">All jobs</a></td></tr></tbody></table></div><div id="menu1item11" style="position: absolute; left: 0; top: 220; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,11)" onmouseout="popOut(1,11)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/rss">RSS jobs</a></td></tr></tbody></table></div><div id="menu1item12" style="position: absolute; left: 0; top: 242; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,12)" onmouseout="popOut(1,12)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/news">News</a></td></tr></tbody></table></div><div id="menu1item13" style="position: absolute; left: 0; top: 264; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,13)" onmouseout="popOut(1,13)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/getastart">Getting Started</a></td><td class="bodycopy" align="right">&gt;</td></tr></tbody></table></div><div id="menu1item14" style="position: absolute; left: 0; top: 286; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,14)" onmouseout="popOut(1,14)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/jobseekertools">Tools &amp; Advice</a></td><td class="bodycopy" align="right">&gt;</td></tr></tbody></table></div><div id="menu1item15" style="position: absolute; left: 0; top: 308; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,15)" onmouseout="popOut(1,15)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/addme">Add Your Details</a></td></tr></tbody></table></div><div id="menu1item16" style="position: absolute; left: 0; top: 330; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(1,16)" onmouseout="popOut(1,16)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/help">Help/FAQ</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu2item1" style="position: absolute; left: 0; top: 0; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(2,1)" onmouseout="popOut(2,1)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/execo.nsf/redirect">Log In</a></td></tr></tbody></table></div><div id="menu2item2" style="position: absolute; left: 0; top: 22; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(2,2)" onmouseout="popOut(2,2)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/coretrievepassword">Lost Login ID/Password</a></td></tr></tbody></table></div><div id="menu2item3" style="position: absolute; left: 0; top: 44; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(2,3)" onmouseout="popOut(2,3)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/instantjobposting">Add NEW Job</a></td></tr></tbody></table></div><div id="menu2item4" style="position: absolute; left: 0; top: 66; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(2,4)" onmouseout="popOut(2,4)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/empgetastart">Getting Started</a></td></tr></tbody></table></div><div id="menu2item5" style="position: absolute; left: 0; top: 88; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(2,5)" onmouseout="popOut(2,5)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/jobpostingoptions">Job Posting Options</a></td></tr></tbody></table></div><div id="menu2item6" style="position: absolute; left: 0; top: 110; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(2,6)" onmouseout="popOut(2,6)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/cvdb">CV Database</a></td></tr></tbody></table></div><div id="menu2item7" style="position: absolute; left: 0; top: 132; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(2,7)" onmouseout="popOut(2,7)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/emphelp">Help/FAQ</a></td></tr></tbody></table></div><div id="menu2item8" style="position: absolute; left: 0; top: 154; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(2,8)" onmouseout="popOut(2,8)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/addnewco">Add New Company</a></td></tr></tbody></table></div><div id="menu2item9" style="position: absolute; left: 0; top: 176; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(2,9)" onmouseout="popOut(2,9)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/mediakit1">Media Kit</a></td></tr></tbody></table></div><div id="menu2item10" style="position: absolute; left: 0; top: 198; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(2,10)" onmouseout="popOut(2,10)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/cothanks">Client Testimonials</a></td></tr></tbody></table></div><div id="menu2item11" style="position: absolute; left: 0; top: 220; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(2,11)" onmouseout="popOut(2,11)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/thanks">Job Seeker Testimonials</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu3item1" style="position: absolute; left: 0; top: 0; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(3,1)" onmouseout="popOut(3,1)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/whyadvertisewithus">Why Advertise with us?</a></td></tr></tbody></table></div><div id="menu3item2" style="position: absolute; left: 0; top: 22; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(3,2)" onmouseout="popOut(3,2)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/whyadvertiseonline">Why Advertise online?</a></td></tr></tbody></table></div><div id="menu3item3" style="position: absolute; left: 0; top: 44; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(3,3)" onmouseout="popOut(3,3)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/banneradvertising">Banner Advertising</a></td></tr></tbody></table></div><div id="menu3item4" style="position: absolute; left: 0; top: 66; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(3,4)" onmouseout="popOut(3,4)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/newsletteradvertising">Newsletter Advertising</a></td></tr></tbody></table></div><div id="menu3item5" style="position: absolute; left: 0; top: 88; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(3,5)" onmouseout="popOut(3,5)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/newsflash">News Broadcast</a></td></tr></tbody></table></div><div id="menu3item6" style="position: absolute; left: 0; top: 110; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(3,6)" onmouseout="popOut(3,6)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/sponsorship">Sponsorship Options</a></td></tr></tbody></table></div><div id="menu3item7" style="position: absolute; left: 0; top: 132; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(3,7)" onmouseout="popOut(3,7)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/stats">Statistics</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu4item1" style="position: absolute; left: 0; top: 0; width: 180; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(4,1)" onmouseout="popOut(4,1)"><table width="172" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/step1">Step 1. - CV/Bio-Data</a></td></tr></tbody></table></div><div id="menu4item2" style="position: absolute; left: 0; top: 22; width: 180; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(4,2)" onmouseout="popOut(4,2)"><table width="172" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/step2">Step 2. - Where to work</a></td></tr></tbody></table></div><div id="menu4item3" style="position: absolute; left: 0; top: 44; width: 180; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(4,3)" onmouseout="popOut(4,3)"><table width="172" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/step3">Step 3. - Find Jobs There</a></td></tr></tbody></table></div><div id="menu4item4" style="position: absolute; left: 0; top: 66; width: 180; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(4,4)" onmouseout="popOut(4,4)"><table width="172" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/step4">Step 4. - Applying for jobs</a></td></tr></tbody></table></div><div id="menu4item5" style="position: absolute; left: 0; top: 88; width: 180; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(4,5)" onmouseout="popOut(4,5)"><table width="172" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/step5">Step 5. - Short-List</a></td></tr></tbody></table></div><div id="menu4item6" style="position: absolute; left: 0; top: 110; width: 180; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(4,6)" onmouseout="popOut(4,6)"><table width="172" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/step6">Step 6. - Interviewing</a></td></tr></tbody></table></div><div id="menu4item7" style="position: absolute; left: 0; top: 132; width: 180; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(4,7)" onmouseout="popOut(4,7)"><table width="172" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/step7">Step 7. - Negotiation</a></td></tr></tbody></table></div><div id="menu4item8" style="position: absolute; left: 0; top: 154; width: 180; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(4,8)" onmouseout="popOut(4,8)"><table width="172" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/step8">Step 8. - Starting New Job</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu5item1" style="position: absolute; left: 0; top: 0; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(5,1)" onmouseout="popOut(5,1)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/contact">Contact Us</a></td></tr></tbody></table></div><div id="menu5item2" style="position: absolute; left: 0; top: 22; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(5,2)" onmouseout="popOut(5,2)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/about">About Us</a></td></tr></tbody></table></div><div id="menu5item3" style="position: absolute; left: 0; top: 44; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(5,3)" onmouseout="popOut(5,3)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/sitemap.html">Site Map</a></td></tr></tbody></table></div><div id="menu5item4" style="position: absolute; left: 0; top: 66; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(5,4)" onmouseout="popOut(5,4)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/links">Links</a></td></tr></tbody></table></div><div id="menu5item5" style="position: absolute; left: 0; top: 88; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(5,5)" onmouseout="popOut(5,5)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/privacy">Privacy</a></td></tr></tbody></table></div><div id="menu5item6" style="position: absolute; left: 0; top: 110; width: 160; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(5,6)" onmouseout="popOut(5,6)"><table width="152" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/terms">Terms and Conditions</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu6item1" style="position: absolute; left: 0; top: 0; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,1)" onmouseout="popOut(6,1)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/discussionforum">Discussion Forum</a></td></tr></tbody></table></div><div id="menu6item2" style="position: absolute; left: 0; top: 22; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,2)" onmouseout="popOut(6,2)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/jobscams">Job Scams</a></td></tr></tbody></table></div><div id="menu6item3" style="position: absolute; left: 0; top: 44; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,3)" onmouseout="popOut(6,3)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/visa">Visa and Migration Services</a></td></tr></tbody></table></div><div id="menu6item4" style="position: absolute; left: 0; top: 66; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,4)" onmouseout="popOut(6,4)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/offshorebanking">Offshore Banking and Finance</a></td></tr></tbody></table></div><div id="menu6item5" style="position: absolute; left: 0; top: 88; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,5)" onmouseout="popOut(6,5)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/offshoreservices">Offshore Services</a></td></tr></tbody></table></div><div id="menu6item6" style="position: absolute; left: 0; top: 110; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,6)" onmouseout="popOut(6,6)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/travel">Travel and Accommodation</a></td></tr></tbody></table></div><div id="menu6item7" style="position: absolute; left: 0; top: 132; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,7)" onmouseout="popOut(6,7)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/tax">TAX advice</a></td></tr></tbody></table></div><div id="menu6item8" style="position: absolute; left: 0; top: 154; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,8)" onmouseout="popOut(6,8)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/insurance">Insurance</a></td></tr></tbody></table></div><div id="menu6item9" style="position: absolute; left: 0; top: 176; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,9)" onmouseout="popOut(6,9)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/property">Overseas Property</a></td></tr></tbody></table></div><div id="menu6item10" style="position: absolute; left: 0; top: 198; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,10)" onmouseout="popOut(6,10)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/offservices">Offshore Services</a></td></tr></tbody></table></div><div id="menu6item11" style="position: absolute; left: 0; top: 220; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,11)" onmouseout="popOut(6,11)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/education">Education and Language Schools</a></td></tr></tbody></table></div><div id="menu6item12" style="position: absolute; left: 0; top: 242; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,12)" onmouseout="popOut(6,12)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/gifts">Flowers and Gifts</a></td></tr></tbody></table></div><div id="menu6item13" style="position: absolute; left: 0; top: 264; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,13)" onmouseout="popOut(6,13)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/hhh">Hash House Harriers</a></td></tr></tbody></table></div><div id="menu6item14" style="position: absolute; left: 0; top: 286; width: 210; height: 22; visibility: inherit; background: CCCCFF; " class="cell1" onmouseover="popOver(6,14)" onmouseout="popOut(6,14)"><table width="202" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="bodycopy" href="/exe/exedd.nsf/rugby">Rugby Union Links</a></td></tr></tbody></table></div></div></body></html>
