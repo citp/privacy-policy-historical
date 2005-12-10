@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305225012id_/http%3A//www.prometric.com/AboutUs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210181818id_/http%3A//www.prometric.com/AboutUs/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy 
 
-This Privacy Statement relates solely to the online information collection and use practices of our Web site located at [www.prometric.com](http://www.prometric.com/) (this "Web Site"), and to the domains [http://securereg3.prometric.com](http://securereg3.prometric.com/), [www.register.prometric.com](http://www.register.prometric.com/), [www.2test.com](http://www.2test.com/), and [www.prometric-jp.com](http://www.prometric-jp.com/).  We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information.  This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
+This Privacy Statement relates solely to the online information collection and use practices of our Web site located at www.prometric.com (this "Web Site"), and to the domains http://securereg3.prometric.com, www.register.prometric.com, www.2test.com, https://appserv01.prometric.com, and www.prometric-jp.com.  We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information.  This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
 
 Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement.  If you have any questions or concerns regarding this Privacy Statement, please contact: [DataProtectionManager@thomson.com](mailto:DataProtectionManager@thomson.com).
 
