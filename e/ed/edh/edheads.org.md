@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edheads.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305052206id_/http%3A//edheads.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edheads.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210033834id_/http%3A//www.edheads.org/privacy.htm) for the most accurate reproduction.*
 
 # Edheads - Privacy
 
