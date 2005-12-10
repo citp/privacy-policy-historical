@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205192356id_/http%3A//www.chieftain.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210085737id_/http%3A//www.chieftain.com/privacy_statement.php) for the most accurate reproduction.*
 
 # The Pueblo Chieftain Online - Pueblo, Colorado U.S.A
 
@@ -50,17 +50,10 @@ The Pueblo Chieftain Internet Services reserves the right to restrict access to 
 Weather
 
   
-57°  
+20°  
 Fair 
 
-Poll:
-
-Do you think more schools should opt out of No Child Left Behind?  
-[Cast your Vote!](https://web.archive.org/poll/index.php?id=253)
-
-Promotions
-
-[](http://view.chieftain.org/adclick.php?n=a93f1605)
+TopJobs
 
 Ads
 
@@ -71,6 +64,8 @@ Ads
 [ ](http://view.chieftain.org/adclick.php?n=aaedadb7)
 
 [ ](http://view.chieftain.org/adclick.php?n=a41dee2f)
+
+TopHomes
 
 Subscribe  
 [Click here](https://web.archive.org/subscribe) to get your Southern Colorado news!
@@ -83,8 +78,4 @@ Classifieds
 
 The View  
 [One click](http://www.pueblowestview.com/) to read The Pueblo West View Online!  
-
-
-  
-[ ](http://www.spreadfirefox.com/?q=affiliates&id=9557&t=75)   
 
