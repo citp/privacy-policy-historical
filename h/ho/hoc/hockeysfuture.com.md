@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeysfuture.com privacy policy that was archived on 2005-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050514085501id_/http%3A//www.hockeysfuture.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeysfuture.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210165821id_/http%3A//www.hockeysfuture.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Hockey's Future: The Hockey Prospects Resource (Covering the WHL, QMJHL,AHL, OHL, College, The NHL Entry Draft, and All Junior Hockey)
 
