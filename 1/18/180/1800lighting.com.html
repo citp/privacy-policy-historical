@@ -1,0 +1,772 @@
+<!--The following is the downloaded HTML source of the 1800lighting.com privacy policy that was archived on 2005-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210104833id_/http%3A//1800lighting.com/about/privacy.cfm) for the most accurate reproduction.-->
+
+<html><head>
+
+<title>Capitol Lighting</title>
+
+<script language="JavaScript" src="/includes/main.js"></script>
+
+<link href="../includes/style.css" rel="stylesheet">
+
+</head>
+
+<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0">
+
+
+
+<script type="text/javascript">
+
+//Contents for menu 1
+var menu1=new Array()
+menu1[0]='<a href="/about/index.cfm" class="topnav_links">History</a><br>'
+menu1[1]='<a href="/contact/index.cfm?ds=locations" class="topnav_links">Store Locations</a><br>'
+menu1[2]='<a href="/advertising/index.cfm" class="topnav_links">View our Advertising</a><br>'
+menu1[3]='<a href="/contact/index.cfm?ds=contact" class="topnav_links">Contact Us</a><br>'
+menu1[4]='<a href="/testimonials/index.cfm" class="topnav_links">Testimonials</a><br>'
+menu1[5]='<a href="/vendors/index.cfm" class="topnav_links">Brand Directory</a><br><img src="/images/dot_clear.gif" width="50" height="7"><br>'
+
+//Contents for menu 2
+var menu2=new Array()
+
+
+	menu2[0]='<a href="/scripts/vendorlanding.cfm?vendorname=Murray Feiss" class="topnav_links">Murray Feiss</a><br>'
+	
+	menu2[1]='<a href="/scripts/vendorlanding.cfm?vendorname=Hinkley" class="topnav_links">Hinkley</a><br>'
+	
+	menu2[2]='<a href="/scripts/vendorlanding.cfm?vendorname=Schonbek" class="topnav_links">Schonbek</a><br>'
+	
+	menu2[3]='<a href="/scripts/vendorlanding.cfm?vendorname=Fine Art Lamps" class="topnav_links">Fine Art Lamps</a><br>'
+	
+	menu2[4]='<a href="/scripts/vendorlanding.cfm?vendorname=Kichler" class="topnav_links">Kichler</a><br>'
+	
+	menu2[5]='<a href="/scripts/vendorlanding.cfm?vendorname=Quoizel" class="topnav_links">Quoizel</a><br>'
+	
+	menu2[6]='<a href="/scripts/vendorlanding.cfm?vendorname=Minka-Lavery" class="topnav_links">Minka-Lavery</a><br>'
+	
+	menu2[7]='<a href="/scripts/vendorlanding.cfm?vendorname=Kovacs" class="topnav_links">Kovacs</a><br>'
+	
+	menu2[8]='<a href="/scripts/vendorlanding.cfm?vendorname=Forecast" class="topnav_links">Forecast</a><br>'
+	
+	menu2[9]='<a href="/scripts/vendorlanding.cfm?vendorname=Nulco" class="topnav_links">Nulco</a><br>'
+	
+	menu2[10]='<img src="/images/dot_clear.gif" width="50" height="4"><br><img src="/images/dot_white.gif" width="120" height="1" hspace="12" vspace="2"><br><a href="/vendors/index.cfm" class="topnav_links">Brand Directory</a><br>'
+	menu2[11]='<a href="" ></a><img src="/images/dot_clear.gif" width="50" height="7"><br>'
+
+
+//Contents for menu 3
+var menu3=new Array()
+menu3[0]='<a href="/tips/index.cfm" class="topnav_links">FAQ</a><br>'
+menu3[1]='<a href="/articles/ceilingfan.cfm" class="topnav_links">Ceiling Fans</a><br>'
+menu3[2]='<a href="/articles/decorative.cfm" class="topnav_links">Decorative Style</a><br>'
+menu3[3]='<a href="/articles/outdoorlighting.cfm" class="topnav_links">Outdoor Lighting</a><br>'
+menu3[4]='<a href="/articles/lightingbedroom.cfm" class="topnav_links">Bedroom Lighting</a><br>'
+menu3[5]='<a href="/articles/lightingkitchen.cfm" class="topnav_links">Kitchen Lighting</a><br>'
+menu3[6]='<a href="/articles/lightingbathroom.cfm" class="topnav_links">Bathroom Lighting</a><br>'
+menu3[7]='<a href="/articles/lightingdining.cfm" class="topnav_links">Dining Room Lighting</a><br>'
+menu3[8]='<a href="/articles/index.cfm" class="topnav_links">View Advice Database</a><br><img src="/images/dot_clear.gif" width="50" height="7"><br>'
+
+//Contents for menu 4
+var menu4=new Array()
+menu4[0]='<a href="/support/index.cfm" class="topnav_links">Customer Service</a><br>'
+menu4[1]='<a href="/contact/index.cfm?ds=contact" class="topnav_links">Contact Us</a><br><img src="/images/dot_clear.gif" width="50" height="7"><br>'
+
+
+var menuwidth='165px' //default menu width
+var menubgcolor='5F7ABF'  //menu bgcolor
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top=-500
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+</script><div id="dropmenudiv" style="visibility:hidden;width:165px;background-color:5F7ABF" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+
+
+
+<table width="770" cellpadding="0" cellspacing="0" border="0" align="center">
+
+<tbody><tr>
+
+	<td colspan="3" bgcolor="8C9FD1">
+		<img src="/images/dot_clear.gif" width="770" height="5" alt="" border="0"><br>
+	</td>
+	
+</tr>
+
+<tr>
+
+	<td width="180" align="left">
+	
+		<img src="/images/dot_clear.gif" width="180" height="5" alt="" border="0"><br>
+		
+		
+		
+			<a href="/index.cfm"><img src="/images/logo05.gif" width="161" height="90" alt="" border="0"></a><br>
+			
+		
+		
+	</td>
+	
+	<td width="10">
+		<img src="/images/dot_clear.gif" width="10" height="1" alt="" border="0"><br>
+	</td>
+	
+	<td width="580" align="left" class="text_normal">
+	
+		<img src="/images/dot_clear.gif" width="580" height="11" alt="" border="0"><br>
+		
+		<table width="580" cellpadding="0" cellspacing="0" border="0" align="center">
+
+		<tbody><tr>
+
+			<td colspan="3" class="text_small">
+				
+				
+						
+						<b>Welcome to 1800lighting!</b>&nbsp;&nbsp;(If you are a returning customer, <a href="https://www.1800lighting.com/scripts/signin.cfm?ft=1" class="small">click here</a> to login)<br>
+					
+					
+					
+					<img src="/images/dot_clear.gif" width="100" height="5" alt="" border="0"><br>
+			
+				
+				
+			</td>
+			
+			<td rowspan="2" width="15" height="50" align="right">
+				
+				
+					<img src="/images/dot_ltblue.gif" width="1" height="55" alt="" border="0"><br>
+				
+				
+			</td>
+			
+			<td rowspan="2" width="145" align="right">
+				<a href="/support/index.cfm?page=shipping#freeshipping"><img src="/images/fedex.gif" width="124" height="43" alt="" border="0" hspace="5"></a><br>
+			</td>
+			
+		</tr>
+		
+		<tr>
+
+			<td width="135">
+				<img src="/images/dot_clear.gif" width="135" height="1" alt="" border="0" vspace="2"><br>
+				<img src="/images/top_slogan.gif" width="107" height="24" alt="" border="0"><br>
+			</td>
+			
+			<td width="115">
+				
+				
+					<img src="/images/dot_clear.gif" width="115" height="1" alt="" border="0" vspace="2"><br>
+					<a href="/myaccount/wishlist.cfm"><img src="/images/viewwishlist.gif" width="85" height="32" alt="" border="0"></a><br>
+				
+				
+			</td>
+			
+			<td width="170">
+				
+				
+					
+					<img src="/images/dot_clear.gif" width="170" height="6" alt="" border="0"><br>
+					<a href="/scripts/cart.cfm"><img src="/images/viewcart.gif" width="133" height="12" alt="" border="0"></a><br>
+					<img src="/images/dot_clear.gif" width="170" height="1" alt="" border="0"><br>
+					
+					<table width="170" cellpadding="0" cellspacing="0" border="0" align="center">
+	
+					<tbody><tr>
+			
+						<td width="40">
+							<img src="/images/items.gif" width="31" height="9" alt="" border="0"><br>
+						</td>
+						
+						<td width="27" class="text_normal">
+							<b>0</b>
+						</td>
+						
+						<td width="54">
+							<img src="/images/subtotal.gif" width="45" height="9" alt="" border="0"><br>
+						</td>
+						
+						<td width="49" class="text_normal">
+							<b>$0.00</b>
+						</td>
+						
+					</tr>
+					
+					</tbody></table>
+					
+				
+				
+			</td>
+			
+		</tr>
+		
+		</tbody></table>
+		
+		
+		
+		<img src="/images/dot_clear.gif" width="580" height="11" alt="" border="0"><br>
+		
+		<table width="580" height="21" cellpadding="0" cellspacing="0" border="0" background="/images/nav_border.gif">
+
+		<tbody><tr>
+		
+			<td width="154">
+				<a href="" onclick="return clickreturnvalue()" onmouseover="navroll_on('nav_about'); dropdownmenu(this, event, menu1, '140px')" onmouseout="navroll_off('nav_about'); delayhidemenu()"><img src="/images/nav_about.gif" name="nav_about" width="154" height="17" alt="" border="0"></a><br>
+			</td>
+			
+			<td width="66">
+				<a href="" onclick="return clickreturnvalue()" onmouseover="navroll_on('nav_brands'); dropdownmenu(this, event, menu2, '143px')" onmouseout="navroll_off('nav_brands'); delayhidemenu()"><img src="/images/nav_brands.gif" name="nav_brands" width="66" height="17" alt="" border="0"></a><br>
+			</td>
+			
+			<td width="101">
+				<a href="" onclick="return clickreturnvalue()" onmouseover="navroll_on('nav_design'); dropdownmenu(this, event, menu3, '150px')" onmouseout="navroll_off('nav_design'); delayhidemenu()"><img src="/images/nav_design.gif" name="nav_design" width="101" height="17" alt="" border="0"></a><br>
+			</td>
+			
+			<td width="72">
+				<a href="" onclick="return clickreturnvalue()" onmouseover="navroll_on('nav_support'); dropdownmenu(this, event, menu4, '140px')" onmouseout="navroll_off('nav_support'); delayhidemenu()"><img src="/images/nav_support.gif" name="nav_support" width="72" height="17" alt="" border="0"></a><br>
+			</td>
+			
+			<td width="94">
+				<a href="/employment/index.cfm" onmouseover="navroll_on('nav_employment');" onmouseout="navroll_off('nav_employment');"><img src="/images/nav_employment.gif" name="nav_employment" width="94" height="17" alt="" border="0"></a><br>
+			</td>
+			
+			<td width="93">
+				<img src="/images/dot_clear.gif" width="93" height="1" alt="" border="0"><br>
+			</td>
+			
+		</tr>
+		
+		</tbody></table>
+		
+	</td>
+	
+</tr>
+
+<tr>
+
+	<td colspan="3">
+		<img src="/images/dot_clear.gif" width="770" height="7" alt="" border="0"><br>
+	</td>
+	
+</tr>
+
+</tbody></table>
+
+<table width="770" cellpadding="0" cellspacing="0" border="0" align="center">
+
+<tbody><tr>
+
+	<td width="175" align="center" class="text_normal" valign="top">
+	
+		<table width="161" cellpadding="0" cellspacing="0" border="0" align="left">
+		
+		<tbody><tr>
+			
+			<td>
+			
+				
+				
+				<table width="161" cellpadding="0" cellspacing="0" border="0">
+		
+<form action="/scripts/category.cfm" method="POST"></form>
+
+<tbody><tr>
+
+	<td bgcolor="8C9FD1" valign="middle">
+		<img src="/images/search.gif" width="161" height="42" alt="" border="0"><br>
+	</td>
+	
+</tr>
+
+<tr>
+
+	<td class="text_normal" valign="top">
+	
+		
+	
+		<input type="text" name="searchterms" size="19" style="width: 161"><br>
+		
+		<input type="hidden" name="catalogname" value="#cat#">
+		<input type="hidden" name="orderidentifier" value="#orderid#">
+		<input type="hidden" name="startrecord" value="1">
+		
+		<input type="image" src="/images/viewresults.gif" width="161" height="18" vspace="3"><br>
+		
+	</td>
+	
+</tr>
+
+<tr>
+
+	<td bgcolor="8C9FD1" valign="middle">
+		<img src="/images/dot_white.gif" width="161" height="4" alt="" border="0"><br>
+		<img src="/images/dot_clear.gif" width="161" height="3" alt="" border="0"><br>
+		<img src="/images/dot_white.gif" width="161" height="4" alt="" border="0"><br>
+	</td>
+	
+</tr>
+
+</tbody></table>
+
+<img src="/images/dot_clear.gif" width="161" height="7" alt="" border="0"><br>
+<img src="/images/adv_search.gif" width="161" height="20" alt="" border="0"><br>
+
+<img src="/images/dot_clear.gif" width="161" height="12" alt="" border="0"><br>
+<img src="/images/search_fixtures.gif" width="161" height="10" alt="" border="0" vspace="1"><br>
+
+
+
+<select name="s_category" style="width: 161; font-size: 8pt; color: 404040">
+
+	<option value="">All Fixtures
+	
+	
+		</option><option value="2">Bathroom Accessories 
+		</option><option value="1">Bathroom Lighting 
+		</option><option value="3">Ceiling Fans 
+		</option><option value="20">Ceiling Medallions 
+		</option><option value="10">Ceiling Pendants 
+		</option><option value="4">Chandeliers 
+		</option><option value="5">Desk Lamps and Piano Lamps 
+		</option><option value="6">Floor Lamps and Torchiere Lamps 
+		</option><option value="21">Fluorescent Lighting 
+		</option><option value="12">Flush Mounts 
+		</option><option value="32">Hanging Accessories 
+		</option><option value="25">Indoor Spotlights 
+		</option><option value="8">Island Lights and Billiard Lights 
+		</option><option value="29">Kid's Room Lighting 
+		</option><option value="23">Kitchen Cabinet Lighting 
+		</option><option value="22">Landscape Lighting 
+		</option><option value="27">Landscape Transformers 
+		</option><option value="26">Light Lifts 
+		</option><option value="11">Mini Pendants 
+		</option><option value="9">Mirrors 
+		</option><option value="30">Monorail Lighting 
+		</option><option value="17">Outdoor Ceiling Lights 
+		</option><option value="18">Outdoor Post and Pier Lights 
+		</option><option value="28">Outdoor Posts and Piers 
+		</option><option value="16">Outdoor Wall Lights 
+		</option><option value="24">Picture Lighting 
+		</option><option value="19">Pot Racks 
+		</option><option value="13">Semi-Flush Mounts 
+		</option><option value="7">Table Lamps 
+		</option><option value="15">Tiffany Style Lighting 
+		</option><option value="14">Wall Sconces and Wall Lights 
+	
+</option></select>
+
+<img src="/images/dot_clear.gif" width="161" height="12" alt="" border="0"><br>
+<img src="/images/search_brand.gif" width="161" height="10" alt="" border="0" vspace="1"><br>
+
+
+
+<select name="s_manufacturer" style="width: 161; font-size: 8pt; color: 404040">
+
+	<option value="">All Brands
+	
+	
+			</option><option value="2thousanddegrees">2thousanddegrees 
+			</option><option value="Aladdin">Aladdin 
+			</option><option value="Arroyo Craftsman">Arroyo Craftsman 
+			</option><option value="Crystorama">Crystorama 
+			</option><option value="ELK Lighting">ELK Lighting 
+			</option><option value="Fine Art Lamps">Fine Art Lamps 
+			</option><option value="Forecast">Forecast 
+			</option><option value="Framburg">Framburg 
+			</option><option value="Geometrix by Schonbek">Geometrix by Schonbek 
+			</option><option value="Hinkley">Hinkley 
+			</option><option value="Holtkotter">Holtkotter 
+			</option><option value="House Beautiful by Kichler">House Beautiful by Kichler 
+			</option><option value="House of Troy">House of Troy 
+			</option><option value="Justice Design">Justice Design 
+			</option><option value="Kathy Ireland Collection">Kathy Ireland Collection 
+			</option><option value="Kenroy">Kenroy 
+			</option><option value="Kichler">Kichler 
+			</option><option value="Kovacs">Kovacs 
+			</option><option value="Landmark">Landmark 
+			</option><option value="Liora Manne Collection">Liora Manne Collection 
+			</option><option value="Mariner by Metropolitan">Mariner by Metropolitan 
+			</option><option value="Maxim">Maxim 
+			</option><option value="Metropolitan">Metropolitan 
+			</option><option value="Minka Aire">Minka Aire 
+			</option><option value="Minka-Lavery">Minka-Lavery 
+			</option><option value="Murray Feiss">Murray Feiss 
+			</option><option value="Nulco">Nulco 
+			</option><option value="Pacific Coast">Pacific Coast 
+			</option><option value="Quoizel">Quoizel 
+			</option><option value="Schonbek">Schonbek 
+			</option><option value="Tech Lighting">Tech Lighting 
+			</option><option value="The Tracy Porter Collection">The Tracy Porter Collection 
+			</option><option value="WAC Lighting">WAC Lighting 
+			</option><option value="Wilshire">Wilshire 
+			</option><option value="tiella">tiella 
+	
+</option></select>
+
+<img src="/images/dot_clear.gif" width="161" height="12" alt="" border="0"><br>
+<img src="/images/search_style.gif" width="161" height="10" alt="" border="0" vspace="1"><br>
+
+
+
+<select name="s_style" style="width: 161; font-size: 8pt; color: 404040">
+
+	<option value="">All Styles
+	
+	
+		</option><option value="Alabaster">Alabaster 
+		</option><option value="Contemporary">Contemporary 
+		</option><option value="Crystal">Crystal 
+		</option><option value="Lenox">Lenox 
+		</option><option value="Mission/Architectural">Mission/Architectural 
+		</option><option value="Murano Glass">Murano Glass 
+		</option><option value="Porcelain">Porcelain 
+		</option><option value="Tiffany">Tiffany 
+		</option><option value="Traditional">Traditional 
+		</option><option value="Transitional">Transitional 
+	
+</option></select>
+
+<img src="/images/dot_clear.gif" width="161" height="12" alt="" border="0"><br>
+<img src="/images/search_price.gif" width="161" height="10" alt="" border="0" vspace="1"><br>
+
+<input type="text" name="s_pricefrom" style="width: 65; font-size: 8pt; color: 404040" value="Any Price" onfocus="clearDefault(this)"><img src="/images/search_to.gif" width="31" height="19" alt="" border="0" align="middle"><input type="text" name="s_priceto" style="width: 65; font-size: 8pt; color: 404040" value="Any Price" onfocus="clearDefault(this)"><br>
+
+<input type="image" src="/images/viewresults.gif" width="161" height="18" vspace="3"><br>
+
+<table width="161" cellpadding="0" cellspacing="0" border="0">
+
+<tbody><tr>
+
+	<td bgcolor="8C9FD1" valign="middle">
+		<img src="/images/dot_white.gif" width="161" height="4" alt="" border="0"><br>
+		<img src="/images/dot_clear.gif" width="161" height="3" alt="" border="0"><br>
+		<img src="/images/dot_white.gif" width="161" height="7" alt="" border="0"><br>
+	</td>
+	
+</tr>
+
+</tbody></table>
+
+<table width="161" cellpadding="0" cellspacing="0" border="0">
+
+<tbody><tr>
+
+	<td colspan="2" bgcolor="8C9FD1" valign="middle">
+		<img src="/images/catlist.gif" width="161" height="24" alt="" border="0"><br>
+	</td>
+	
+</tr>
+
+<tr>
+
+	<td width="1">
+		<img src="/images/dot_clear.gif" width="1" height="1" alt="" border="0"><br>
+	</td>
+	
+	<td width="160">
+
+		<img src="/images/dot_clear.gif" width="160" height="7" alt="" border="0"><br>
+		
+		<span class="leftmenu_cat">CEILING LIGHTING</span><br>
+		<a href="/scripts/category2.cfm?label=D" class="leftmenu">Chandeliers</a><br>
+		<a href="/scripts/category2.cfm?label=H" class="leftmenu">Island Lights &amp; Billiard Lights</a><br>
+		<a href="/scripts/category2.cfm?label=J" class="leftmenu">Ceiling Pendants</a><br>
+		<a href="/scripts/category2.cfm?label=K" class="leftmenu">Mini Pendants</a><br>
+		<a href="/scripts/category2.cfm?label=DD" class="leftmenu">Monorail Lighting</a><br>
+		<a href="/scripts/category2.cfm?label=Y" class="leftmenu">Spot Lights</a><br>
+		
+		<img src="/images/dot_clear.gif" width="149" height="7" alt="" border="0"><br>
+		
+		<span class="leftmenu_cat">CLOSE TO CEILING LIGHTING</span><br>
+		<a href="/scripts/category2.cfm?label=L" class="leftmenu">Flush Mounts</a><br>
+		<a href="/scripts/category2.cfm?label=M&#9;" class="leftmenu">Semi Flush Mounts</a><br>
+		
+		<img src="/images/dot_clear.gif" width="149" height="7" alt="" border="0"><br>
+		
+		<span class="leftmenu_cat">LAMPS</span><br>
+		<a href="/scripts/category2.cfm?label=G" class="leftmenu">Table Lamps</a><br>
+		<a href="/scripts/category2.cfm?label=F" class="leftmenu">Floor Lamps &amp; Torchiere Lamps</a><br>
+		<a href="/scripts/category2.cfm?label=E" class="leftmenu">Desk Lamps &amp; Piano Lamps</a><br>
+		
+		<img src="/images/dot_clear.gif" width="149" height="7" alt="" border="0"><br>
+		
+		<span class="leftmenu_cat">WALL LIGHTING</span><br>
+		<a href="/scripts/category2.cfm?label=N" class="leftmenu">Wall Sconces &amp; Swing Arms</a><br>
+		<a href="/scripts/category2.cfm?label=X" class="leftmenu">Picture Lighting</a><br>
+		
+		<img src="/images/dot_clear.gif" width="149" height="7" alt="" border="0"><br>
+		
+		<span class="leftmenu_cat">BATHROOM LIGHTING</span><br>
+		<a href="/scripts/category2.cfm?label=A" class="leftmenu">Bath &amp; Vanity Lights</a><br>
+		<a href="/scripts/category2.cfm?label=B" class="leftmenu">Bathroom Hardware</a><br>
+		<a href="/scripts/category2.cfm?label=I" class="leftmenu">Mirrors</a><br>
+		
+		<img src="/images/dot_clear.gif" width="149" height="7" alt="" border="0"><br>
+		
+		<span class="leftmenu_cat">OUTDOOR LIGHTING</span><br>
+		<a href="/scripts/category2.cfm?label=P" class="leftmenu">Outdoor Wall Lights</a><br>
+		<a href="/scripts/category2.cfm?label=Q" class="leftmenu">Outdoor Ceiling Lights</a><br>
+		<a href="/scripts/category2.cfm?label=R" class="leftmenu">Outdoor Post &amp; Pier Lights</a><br>
+		<a href="/scripts/category2.cfm?label=BB" class="leftmenu">Outdoor Posts &amp; Pier Mounts</a><br>
+		<a href="/scripts/category2.cfm?label=V" class="leftmenu">Landscape Lighting</a><br>
+		<a href="/scripts/category2.cfm?label=AA" class="leftmenu">Landscape Transformers</a><br>
+		
+		<img src="/images/dot_clear.gif" width="149" height="7" alt="" border="0"><br>
+		
+		<span class="leftmenu_cat">KITCHEN LIGHTING</span><br>
+		<a href="/scripts/category2.cfm?label=W" class="leftmenu">Undercabinet Lighting</a><br>
+		<a href="/scripts/category2.cfm?label=S" class="leftmenu">Pot Racks</a><br>
+		
+		<img src="/images/dot_clear.gif" width="149" height="7" alt="" border="0"><br>
+		
+		<span class="leftmenu_cat">SPECIALTY LIGHTING</span><br>
+		<a href="/scripts/category2.cfm?label=CC" class="leftmenu">Kid's Room Lighting</a><br>
+		<a href="/scripts/category2.cfm?label=O" class="leftmenu">Tiffany Lighting</a><br>
+		<a href="/scripts/category2.cfm?label=U" class="leftmenu">Flourescent Lighting</a><br>
+		
+		<img src="/images/dot_clear.gif" width="149" height="7" alt="" border="0"><br>
+		
+		<a href="/scripts/category2.cfm?label=C" class="leftmenu_maincat">CEILING FANS</a><br>
+		
+		<img src="/images/dot_clear.gif" width="149" height="7" alt="" border="0"><br>
+		
+		<span class="leftmenu_cat">LIGHTING ACCESSORIES</span><br>
+		<a href="/scripts/category2.cfm?label=T" class="leftmenu">Ceiling Medallions</a><br>
+		<a href="/scripts/category2.cfm?label=Z" class="leftmenu">Light Lifts</a><br>
+		
+	</td>
+	
+</tr>
+
+</tbody></table>
+
+
+				
+			</td>
+			
+		</tr>
+		
+		</tbody></table>
+		
+	</td>
+	
+	<td width="1" bgcolor="#FFFFFF">
+		<img src="/images/dot_clear.gif" width="1" height="1" alt="" border="0"><br>
+	</td>
+	
+	<td width="14">
+		<img src="/images/dot_clear.gif" width="14" height="1" alt="" border="0"><br>
+	</td>
+	
+	<td width="580" align="left" class="text_big" valign="top">
+	
+		
+
+		<b>Privacy Policy</b><br>
+		
+		<p>Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
+		
+		</p><p><b>What Information Do We Collect?</b>
+		
+		</p><p>When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+		
+		</p><p><b>Email Information</b>
+		
+		</p><p>If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
+		
+		</p><p><b>How Do We Use the Information That You Provide to Us?</b>
+		
+		</p><p>Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us.
+		
+		</p><p><b>What Are Cookies?</b>
+		
+		</p><p>A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+		
+		</p><p><b>How Do We Use Information We Collect from Cookies?</b>
+		
+		</p><p>As you shop on our Web site, the site uses its cookies to differentiate you from other shoppers so your shopping cart is only available to you. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
+		
+		</p><p><b>Sharing Information with Third Parties</b>
+		
+		</p><p>We may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with alliances, partnerships or arrangements, we may also provide certain information to third parties if we have determined that the information will be used in a responsible manner by a responsible third party. For example, some of our partners operate stores or provide services on our site, while others power offerings developed by us for your use. We also use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, our partners and other third parties may have access to your personal information for use in connection with business activities. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
+		
+		</p><p><b>Notice of New Services and Changes</b>
+		
+		</p><p>Occasionally, we may also use the information we collect to notify you about important changes to our site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email.
+
+		
+	
+	</p></td>
+	
+</tr>
+
+</tbody></table>
+
+<img src="/images/dot_clear.gif" width="770" height="10" alt="" border="0"><br>
+
+<table width="770" cellpadding="0" cellspacing="0" border="0" align="center">
+
+<tbody><tr> 
+
+	<td height="46" background="/images/footer_bg.gif" bgcolor="8C9FD1" align="right" valign="bottom" class="text_footer">
+		
+		2005 © Capitol Lighting. All rights are reserved.&nbsp;&nbsp;<a href="/about/privacy.cfm" class="footer" style="color: white">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<br>
+		<img src="/images/dot_clear.gif" width="100" height="10" alt="" border="0"><br>
+		
+	</td>
+	
+</tr>
+
+</tbody></table>
+
+<img src="/images/dot_clear.gif" width="100" height="15" alt="" border="0"><br>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+
+<tbody><tr>
+
+	<td class="text_small" align="center">
+	
+		<a href="/index.cfm" class="textlinks">Home</a> - <a href="/about/index.cfm" class="textlinks">About Us</a> – <a href="/contact/index.cfm?ds=contact" class="textlinks">Contact Us</a> - <a href="/support/index.cfm" class="textlinks">Customer Service</a> – <a href="/articles/index.cfm" class="textlinks">Lighting Ideas</a><br>
+		<a href="/vendors/index.cfm" class="textlinks">Brand Directory</a> - <a href="/contact/index.cfm?ds=locations" class="textlinks">Showroom Locations</a> - <a href="/sitemap/index.cfm" class="textlinks">Site Map</a>
+
+	</td>
+	
+</tr>
+
+<tr>
+
+	<td class="text_small" align="left">
+		<br><font color="white">S2
+	</font></td>
+	
+</tr>
+
+</tbody></table>
+
+
+<p>&nbsp;
+
+
+
+
+
+
+
+
+
+</p></body></html>
