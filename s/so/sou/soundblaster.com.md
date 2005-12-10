@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611014952id_/http%3A//www.soundblaster.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211002041id_/http%3A//www.soundblaster.com/legal/privacy.asp) for the most accurate reproduction.*
 
-# SoundBlaster.com - Purest Audio. Richest Sound
+# Sound Blaster - Purest Audio, Richest Sound
 
 **CREATIVE'S ONLINE PRIVACY POLICY**  
 Last revised March 18, 2005
