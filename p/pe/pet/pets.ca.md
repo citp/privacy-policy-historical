@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pets.ca privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305123642id_/http%3A//www.pets.ca/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pets.ca privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210191001id_/http%3A//pets.ca/help/privacy.html) for the most accurate reproduction.*
 
 # Pets.ca - privacy statement
 
@@ -46,9 +46,9 @@ If you have any questions about this privacy statement, the practices of this si
    
   
 [  
-**TRIPLE DOG LEASH HOOK**](http://www.pets.ca/onlinestore/module.php?name=onlinestore&func=viewprod&prodid=74)  
+**Boxer Magnet (Package of 2)**](http://www.pets.ca/onlinestore/module.php?name=onlinestore&func=viewprod&prodid=109)  
   
    
   
 [  
-**Black Lab Magnet (Package of 2)**](http://www.pets.ca/onlinestore/module.php?name=onlinestore&func=viewprod&prodid=81)
+**Siberian Husky Magnet (Package of 2)**](http://www.pets.ca/onlinestore/module.php?name=onlinestore&func=viewprod&prodid=112)
