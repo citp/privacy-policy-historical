@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204020853id_/http%3A//pingo.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210171248id_/http%3A//www.pingo.com/privacy.do) for the most accurate reproduction.*
 
 # Pingo Privacy Policy
 
-_Pingo™ is a service of iBasis™, one of the world's largest carriers of international telephone calls. At iBasis we strive to provide the highest quality international calling service at attractive rates. If you would like to learn more about iBasis please feel free to peruse our corporate web site at[www.ibasis.com](http://www.ibasis.com/). For the purposes of this document, all references to Pingo apply to iBasis, Inc._
+_Pingo ® is a service of iBasis™, one of the world's largest carriers of international telephone calls. At iBasis we strive to provide the highest quality international calling service at attractive rates. If you would like to learn more about iBasis please feel free to peruse our corporate web site at [www.ibasis.com](http://www.ibasis.com/). For the purposes of this document, all references to Pingo apply to iBasis, Inc._
 
 **Our Commitment To Privacy:** Your privacy is important to us. We provide this notice to explain our online information practices and the choices you can make about the way your information is collected and used. By visiting Pingo.com, you are accepting the practices described in this Privacy Notice
 
