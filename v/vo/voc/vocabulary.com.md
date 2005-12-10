@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305035414id_/http%3A//www.vocabulary.com/VUprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/VUprivacy.html) for the most accurate reproduction.*
 
 # Vocabulary University Privacy Policy
 
@@ -28,6 +28,6 @@ Questions regarding the above statement should be directed to [Carey Cook](mailt
 
 * * *
 
-[[Home Page]](https://web.archive.org/web/20050305035414id_/http%3A//www.vocabulary.com/index.html) [[Word City]](https://web.archive.org/web/20050305035414id_/http%3A//www.vocabulary.com/wordcity.html) [[Content Matrix]](https://web.archive.org/web/20050305035414id_/http%3A//www.vocabulary.com/content.html) [[Lesson Plan Puzzles]](https://web.archive.org/web/20050305035414id_/http%3A//www.vocabulary.com/rsvp.html) [[Participating Schools]](https://web.archive.org/web/20050305035414id_/http%3A//www.vocabulary.com/VU_50states.html) [[Links to us]](https://web.archive.org/web/20050305035414id_/http%3A//www.vocabulary.com/VUlinks1298.html) [[About us]](https://web.archive.org/web/20050305035414id_/http%3A//www.vocabulary.com/VUaboutus.html)
+[[Home Page]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/index.html) [[Word City]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/wordcity.html) [[Content Matrix]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/content.html) [[Lesson Plan Puzzles]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/rsvp.html) [[Participating Schools]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/VU_50states.html) [[Links to us]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/VUlinks1298.html) [[About us]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/VUaboutus.html)
 
 ©2000 Vocabulary University®. All Rights Reserved.
