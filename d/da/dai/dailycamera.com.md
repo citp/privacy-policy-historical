@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycamera.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406013954id_/http%3A//web.dailycamera.com/useragreement/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycamera.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210143735id_/http%3A//web.dailycamera.com/useragreement/privacypolicy.html) for the most accurate reproduction.*
 
 # The Daily Camera: News
 
