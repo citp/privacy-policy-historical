@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the operasoftware.com privacy policy that was archived on 2005-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050607000851id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operasoftware.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210165337id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
 # Opera Privacy Statement
 
@@ -12,7 +12,7 @@ The Opera browser offers you excellent features for the protection of your priva
 
 ## Privacy in the opera desktop browser
 
-The advertising banner in Opera was first introduced with the launch of Opera 5 in December 2000. All of Opera's desktop browsers now include this technology. Opera Software has taken much care in the development so that user privacy and security are not compromised. No personal information is collected or shared, and providing ad profile information in the browser is strictly optional. The Opera user's Web usage is not tracked. What is recorded and shared with the advertising service provider is the user's interaction with the relative banner advertising. Please see links below for more information about the company that provides the advertising in Opera.
+Opera Software has taken much care in the development so that user privacy and security are not compromised. No personal information is collected or shared, and providing ad profile information in the browser is strictly optional. The Opera user's Web usage is not tracked. What is recorded and shared with the advertising service provider is the user's interaction with the relative banner advertising. Please see links below for more information about the company that provides the advertising in Opera.
 
 ### Opera's built-in Web search
 
