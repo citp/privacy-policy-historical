@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuse.net privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404052721id_/http%3A//www.cincinnatibell.com/customerservice/resourcecenter/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuse.net privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210063518id_/http%3A//www.cincinnatibell.com/customerservice/resourcecenter/privacy.asp) for the most accurate reproduction.*
 
 # Cincinnati Bell - Customer Service - Resource Center - Privacy Policy
 
@@ -17,7 +17,7 @@ The information we collect depends on what you do when you visit our web site. T
 
 We Protect and Preserve Customer Privacy
 
-We do not sell, trade or rent your personal information to outside companies or marketing firms. We may share this information with other Cincinnati Bell entities (including without limitation our parent company, Cincinnati Bell Inc., it's subsidiaries and it's affiliates). We share personal customer information with our agents and trusted business partners only when required for the specific and limited purpose of providing products or services to you, such as to our shipper in order to fulfill an on-line order. 
+We do not sell, trade or rent your personal information to outside companies or marketing firms. We may share this information with other Cincinnati Bell entities (including without limitation our parent company, Cincinnati Bell Inc., its subsidiaries and its affiliates). We share personal customer information with our agents and trusted business partners only when required for the specific and limited purpose of providing products or services to you, such as to our shipper in order to fulfill an on-line order. 
 
 Use of Cookies
 
