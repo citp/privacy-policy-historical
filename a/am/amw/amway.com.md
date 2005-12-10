@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amway.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527050514id_/http%3A//www.amway.com/en/General/privacy-statement-10182.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amway.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210072159id_/http%3A//www.amway.com/en/General/privacy-statement-10182.aspx) for the most accurate reproduction.*
 
-# Amway.com - Privacy Statement
+# Privacy Statement
 
 Thank you for visiting www.amway.com (our "Site"). We appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect from you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct that information.
 
