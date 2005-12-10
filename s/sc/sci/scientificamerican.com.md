@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the scientificamerican.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605172148id_/http%3A//scientificamerican.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientificamerican.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210173154id_/http%3A//scientificamerican.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # Science & Technology at Scientific American.com: Privacy Policy
 
-[](https://web.archive.org/page.cfm?section=privacy)
+**PRIVACY POLICY**
+
+Effective Date: August 2, 2004 
 
 **Scientific American respects and protects the privacy of our users.**   
 Please read the following statement to understand how your personal information will be treated on ScientificAmerican.com and Scientific American Digital. Note that by using the Services and/or the Sites you signify your agreement to this Privacy Policy. This Privacy Policy may change from time to time. Changes to this Privacy Policy will become effective when those changes are posted to the Site. Your continued use of the Services and the Site subsequent to any changes to this Privacy Policy constitutes your acceptance of the changes. Please review this statement periodically to ensure continuing familiarity with its most current provisions.
@@ -29,7 +31,7 @@ In some instances, advertisers will set cookies on our site. These cookies are n
 
 Many browsers are set to accept cookies. You may prefer to set your browser to refuse cookies. It is possible, however, that some areas of the site will not function properly if you do so. This is especially likely when trying to order a product online. 
 
-Our servers collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, and to measure traffic within our site. 
+Our servers collect limited information about the computer you use to connect to the Internet, including the IP address, when you visit our site. (The IP address is a number that lets servers know where to send data over the Internet -- such as the web pages you view.) The IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, and to measure traffic within our site. 
 
 **How do we use the information we collect?**  
 The information is used for internal marketing purposes and helps us determine how to continually improve our Sites. We contact only those individuals who specifically request that we do so and those who have won a contest or sweepstakes. 
@@ -45,7 +47,7 @@ Scientific American Digital will send email messages in connection with the Fee-
 ScientificAmerican.com includes links to other web sites whose Privacy Policies we do not control. Once you leave ScientificAmerican.com, use of any information you provide is governed by the operator of the site you are visiting. That policy may differ from ours. If you can't find the Privacy Policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. 
 
 **Our Pledge:**  
-We will never sell, exchange, or release your personal information (name, e-mail address, mailing address, credit card data, etc.) without your consent, regardless of its source, to any third parties. When we do give information to our advertisers, it is in the form of grouped statistics compiled from registration data and participants' answers to survey questions. None of the data provided is personally identifiable. Information gathered through the use of cookies is not related to any personally identifiable details. 
+We will never sell, exchange, or release your personal information collected by ScientificAmerican.com and Scientific American Digital (name, e-mail address, mailing address, credit card data, etc.) without your consent to any third parties. When we do give information to our advertisers, it is in the form of grouped statistics compiled from registration data and participants' answers to survey questions. None of the data provided is personally identifiable. Information gathered through the use of cookies is not related to any personally identifiable details. 
 
 **A final note:**   
 If you have any questions or concerns regarding our Privacy Policy, please direct them to [privacy@sciam.com](mailto:privacy@sciam.com). You may also send a letter to: 
