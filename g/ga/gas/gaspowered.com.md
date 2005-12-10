@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2005-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050326192758id_/http%3A//www.gaspowered.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210175602id_/http%3A//www.gaspowered.com/privacy.php) for the most accurate reproduction.*
 
 # Gas Powered Games
 
@@ -126,9 +126,9 @@ As described in detail below, we do not disclose your personal information to th
 
 ### Partners
 
-We don't disclose your personal information to our partners. However, we may share aggregate consumer data � which does not contain any personal information � with our partners.
+We don't disclose your personal information to our partners. However, we may share aggregate consumer data - which does not contain any personal information - with our partners.
 
-We may also use your personal information for other purposes such as "Operational Uses."� For example, we may use your information to send you administrative communications either about your account with us or about features of our Websites, including any future changes to this Privacy Policy.
+We may also use your personal information for other purposes such as "Operational Uses." For example, we may use your information to send you administrative communications either about your account with us or about features of our Websites, including any future changes to this Privacy Policy.
 
 Finally, we may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). Given the nature of this information, no restrictions apply under this Privacy Policy on our right to aggregate or de-personalize your personal information, and we may use and share in any way with third parties the resulting non-personally identifiable information.
 
@@ -186,7 +186,7 @@ top
 
 | 
 
-You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by going to our profile section. Simply click on this link � <http://www.gaspowered.com/subscribe.php>. 
+You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by going to our profile section. Simply click on this link - <http://www.gaspowered.com/subscribe.php>. 
 
 If you forget your password, read the instructions on the start page of the link above to help you recover it. If you need to recover your password, you can also contact us via e-mail at garage@gaspowered.com. Please include information in the e-mail that will help us identify your account so we can assist you with your request. We may also provide you an opportunity to update your contact information by sending you an e-mail or other communication that invites your response.
 
