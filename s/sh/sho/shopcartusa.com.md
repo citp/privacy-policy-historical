@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopcartusa.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233455id_/http%3A//www.shopcartusa.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopcartusa.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210180837id_/http%3A//www.shopcartusa.com/privacy.asp) for the most accurate reproduction.*
 
 # ShopCartUSA.com - Join FREE!
 
