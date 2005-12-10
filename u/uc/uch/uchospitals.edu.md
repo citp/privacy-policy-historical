@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uchospitals.edu privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207121233id_/http%3A//www.uchospitals.edu/visitor/privacy/notice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uchospitals.edu privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210223021id_/http%3A//www.uchospitals.edu/visitor/privacy/notice.html) for the most accurate reproduction.*
 
 # University of Chicago Hospitals: Notice of Privacy Practices
 
@@ -98,9 +98,9 @@ B. _Right to Change Terms of this Notice_. We may change the terms of this Notic
 
 You may contact the Privacy Office at:
 
-University of Chicago Medical Center  
-MC1000, 5841 South Maryland Avenue  
-Chicago, IL 60637  
+University of Chicago Medical Center   
+MC1000, 5841 South Maryland Avenue   
+Chicago, IL 60637   
 Telephone Number: (773) 834-9716
 
 [Acknowledgement of Receipt of Notice of Privacy (PDF)](https://web.archive.org/pdf/uch_002984.pdf)
