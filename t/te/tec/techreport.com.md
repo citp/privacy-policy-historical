@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305030120id_/http%3A//techreport.com/page.x%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210160030id_/http%3A//techreport.com/page.x%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
 
 # The Tech Report
 
 [](https://web.archive.org/)
 
-[](http://techreport.com/phpads/adclick.php?bannerid=313&zoneid=0&source=&dest=http%3A%2F%2Fwww.defenderhosting.com)
-
 [](https://web.archive.org/reviews/)
 
-[TR's CPU decoder ring updated](https://web.archive.org/cpu/)  
+[Chipset Serial ATA and RAID performance compared](https://web.archive.org/reviews/2005q4/chipset-raid/index.x?pg=1)  
   
-[SilverStone's Temjin TJ06 full tower case](https://web.archive.org/reviews/2005q1/silverstone-tj06/index.x?pg=1)  
+[The Tech Report's Christmas 2005 giveaway](https://web.archive.org/etc/2005q4/giveaway/index.x)  
   
-[AOpen's XC Cube EY855-II mini-barebones system](https://web.archive.org/reviews/2005q1/aopen-ey855/index.x?pg=1)  
+[DFI's LANParty UT RDX200 CD-DR motherboard](https://web.archive.org/reviews/2005q4/dfi-rdx200/index.x?pg=1)  
   
-[DFI's LANParty UT NF4 Ultra-D motherboard](https://web.archive.org/reviews/2005q1/dfi-lanpartynf4ultra/index.x?pg=1)  
+[TR's system guide](https://web.archive.org/etc/2005q4/system-guide/index.x?pg=1)  
   
-[TXGF's ATI Ultimate LAN Party](https://web.archive.org/etc/2005q1/txgf/index.x?pg=1)  
+[Abit's Fatal1ty AN8 SLI motherboard](https://web.archive.org/reviews/2005q4/abit-fatal1ty-an8sli/index.x?pg=1)  
   
-[OCZ's DDR Booster](https://web.archive.org/reviews/2005q1/ocz-ddrbooster/index.x?pg=1)  
+[VIA's K8T900 chipset](https://web.archive.org/reviews/2005q4/via-k8t900/index.x?pg=1)  
   
-[Shuttle's XPC SN25P mini-barebones system](https://web.archive.org/reviews/2005q1/shuttle-sn25p/index.x?pg=1)  
+[Asus' A8N32-SLI Deluxe motherboard](https://web.archive.org/reviews/2005q4/asus-a8n32-sli/index.x?pg=1)  
   
 **[More...](https://web.archive.org/reviews/)** | 
 
@@ -67,18 +65,18 @@ damage@techreport.com
 
 | 
 
-[Etc.](https://web.archive.org/redir_comments.x?id=8034)  
+[The Tech Report's Christmas 2005 giveaway](https://web.archive.org/redir_comments.x?id=9113)  
   
-[TXGF's ATI Ultimate LAN Party](https://web.archive.org/redir_comments.x?id=8021)  
+[Chipset Serial ATA and RAID performance compared](https://web.archive.org/redir_comments.x?id=9124)  
   
-[TR's CPU decoder ring updated](https://web.archive.org/redir_comments.x?id=8042)  
+[Spring 2006 target steady for PlayStation 3 launch](https://web.archive.org/redir_comments.x?id=9130)  
   
-[DFI's LANParty UT NF4 Ultra-D motherboard](https://web.archive.org/redir_comments.x?id=8026)  
+[Poll time: Primary voice telecommunication](https://web.archive.org/redir_comments.x?id=9122)  
   
-[ATI cards spotted on milk cartons](https://web.archive.org/redir_comments.x?id=8039)  
+[Dell to intro 30" LCD monitor?](https://web.archive.org/redir_comments.x?id=9109)  
   
-[AOpen's XC Cube EY855-II mini-barebones system](https://web.archive.org/redir_comments.x?id=8031)  
+[Friday Night Topic: Reality TV revisited](https://web.archive.org/redir_comments.x?id=9133)  
   
-[SilverStone's Temjin TJ06 full tower case](https://web.archive.org/redir_comments.x?id=8036)  
+[AMD introduces new interactive roadmap](https://web.archive.org/redir_comments.x?id=9123)  
   
 **[More...](https://web.archive.org/)**
