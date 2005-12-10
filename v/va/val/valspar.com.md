@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valspar.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406021614id_/http%3A//www.valspar.com/etc/priv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valspar.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210191717id_/http%3A//www.valspar.com/etc/priv.htm) for the most accurate reproduction.*
 
 # Valspar Corporation - Legal Information
 
@@ -18,7 +18,7 @@ The Valspar web site may contain links to other sites. We do not endorse or othe
 
 Valspar reserves the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages. 
 
-[Home](https://web.archive.org/val/index.jsp) | [Legal Information](https://web.archive.org/web/20050406021614id_/http%3A//www.valspar.com/etc/leg.htm) | [Privacy Policy](https://web.archive.org/web/20050406021614id_/http%3A//www.valspar.com/etc/priv.htm) | © 2003 Valspar Corporation 
+[Home](https://web.archive.org/val/index.jsp) | [Legal Information](https://web.archive.org/web/20051210191717id_/http%3A//www.valspar.com/etc/leg.htm) | [Privacy Policy](https://web.archive.org/web/20051210191717id_/http%3A//www.valspar.com/etc/priv.htm) | © 2003 Valspar Corporation 
 
   
 
