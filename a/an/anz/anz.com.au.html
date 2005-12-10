@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the anz.com.au privacy policy that was archived on 2005-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050615173402id_/http%3A//www.anz.com.au/australia/support/general/Privacystatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anz.com.au privacy policy that was archived on 2005-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210071024id_/http%3A//www.anz.com.au/australia/support/general/Privacystatement.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>ANZ Web Site Privacy and Security Statement</title>
@@ -12,22 +12,34 @@
 <script language="JavaScript" type="text/javascript" src="/common/code/js/Utils.js"></script>
 <script language="JavaScript" type="text/javascript" src="/common/code/js/OpenWindow.js"></script>
 
+
 <script language="javascript" type="text/javascript">
 
-function openPopupWindow(url, name, width, height, returnWindow, kill)
+function openPopupWindow(url, name, width, height, returnWindow)
 {
 	var horizontalOffset, verticalOffset, offsetAmount, windowToReturn, closethiswindow;
 		
-	offsetAmount = 20;
-
+	offsetAmount = 0;
+	
 	if(width == -1)
 	{
-		width = screen.availWidth;
-	}
+	
+  	if ((screen.Height >= 0) && (screen.Width >= 0)) {
+     		 width = screen.Width - 10;
+ 	 }
+  	else if ((screen.availHeight >= 0) && (screen.availWidth >= 0)) {
+      		 width = screen.availWidth - 10;
+  	}
+	}	
 	
 	if(height == -1)
 	{
-		height = screen.availHeight;
+	if ((screen.Height >= 0) && (screen.Width >= 0)) {
+     		 height = screen.Height - 75;
+    }
+  	else if ((screen.availHeight >= 0) && (screen.availWidth >= 0)) {
+      		 height = screen.availHeight - 45;
+    }
 	}
 	
 	if(navigator.appName == "Microsoft Internet Explorer")
@@ -48,62 +60,44 @@ function openPopupWindow(url, name, width, height, returnWindow, kill)
 	}
 		
 	windowToReturn = window.open(url, name, "toolbar=0,location=0,directories=0,status=yes,menubar=no,scrollbars=1,resizable=yes,screenX=" + horizontalOffset + ",screenY=" + verticalOffset + ",left=" + horizontalOffset + ",top=" + verticalOffset + ",width=" + width + ",height=" + height);
-		
-	if(kill == -1)
-	{
-		closethiswindow = self.close();
-	}
-	
-	if(returnWindow == true)
-		return windowToReturn;
-		
+	//Please do not publish with the return window statement
+	//if(returnWindow)
+	//{
+	//	return(windowToReturn);
+	//}
 }
 </script>
-
-
-
 
 <script language="javascript" type="text/javascript">
 
-function openFullWindow(url, name, width, height, returnWindow)
-{
-	var horizontalOffset, verticalOffset, offsetAmount, windowToReturn;
+function openPopupLocator(country,url)
+ { 
+ //Passing the URL as argument is optional. However country is compulsory
+	var height,width;
+	 if(!(country==null)&&!(country==""))
+		country=country.toUpperCase();
+		switch(country)
+		{ 
+			case 'AUS': width="760";height="645"; 
+				       if ((url==null)||(url==""))
+						url='/australia/aboutanz/anzservices/anzlocator/';		   				   	
+				       break;
+		    case 'NZ': width="760";height="645"; 
+				       if ((url==null)||(url==""))
+						url='/nz/tools/nzlocator/';
+				       break;
+			default:   width="600";height="500"; 
+										  
+		}
 		
-	offsetAmount = 20;
+		if (!(url==null)&&!(url==""))
+			openPopupWindow(url,'locator',width,height,false);
+	 } 
+ 
+</script> 
 
-	if(width == -1)
-	{
-		width = screen.availWidth;
-	}
-	
-	if(height == -1)
-	{
-		height = screen.availHeight;
-	}
-	
-	if(navigator.appName == "Microsoft Internet Explorer")
-	{
-		horizontalOffset = window.screenLeft + offsetAmount;
-		verticalOffset = window.screenTop + offsetAmount;
-	}
-	else
-	{
-		horizontalOffset = window.screenX + offsetAmount;
-		verticalOffset = window.screenY + offsetAmount;
-	}
-	
-	if(horizontalOffset + width > screen.availWidth || verticalOffset + height > screen.availHeight)
-	{
-		horizontalOffset = 0;
-		verticalOffset = 0;
-	}
-		
-	windowToReturn = window.open(url, name, "toolbar=1,location=1,directories=0,status=yes,menubar=yes, scrollbars=1,resizable=yes,screenX=" + horizontalOffset + ",screenY=" + verticalOffset + ",left=" + horizontalOffset + ",top=" + verticalOffset + ",width=" + width + ",height=" + height);
-		
-	if(returnWindow == true)
-		return windowToReturn;
-}
-</script>
+
+
 
 
 
@@ -139,21 +133,21 @@ function tpconfirm(windowURL, windowName, options, windowPopup)
 <table width="780" border="0" cellspacing="0" cellpadding="2" height="51" bgcolor="#0066cc">
 <tbody><tr> 
 	<td width="110"><a href="/default.asp"><img src="/common/img/logos/logoANZ.gif" width="110" height="51" alt="ANZ home" border="0"></a></td>
-	<form action="/HelpCentre/Search/results.asp" method="get" id="search1" name="search1"></form>
+	<form action="/Search/default.asp" method="get" id="search1" name="search1"></form>
 	<td align="right" class="textfooter2" nowrap="">
-<a href="/aus/contact/default.asp" class="textfooter2">contact us</a>
+<a href="/aus/contact/default.asp" class="utilText2">contact us</a>
 <font color="#99CCFF">|</font>
-<a href="javascript:openPopupWindow('/australia/aboutanz/anzservices/anzlocator/default.asp','locator',600,500,false)" class="textfooter2">locate us</a>
+<a href="javascript:openPopupWindow('/australia/aboutanz/anzservices/anzlocator/default.asp','locator',760,645,false)" class="utilText2">locate us</a>
 <font color="#99CCFF">|</font>
-<a href="javascript:openPopupWindow('/helpcentre/helphome.asp','helpcenter',700,600,false)" class="textfooter2">help centre</a>
+<a href="javascript:openPopupWindow('/helpcentre/helphome.asp','helpcenter',700,600,false)" class="utilText2">help</a>
 <font color="#99CCFF">|</font>
-<a href="/australia/aboutanz/default.asp" class="textfooter2">about ANZ</a>
+<a href="/australia/aboutanz/default.asp" class="utilText2">about ANZ</a>
 <font color="#99CCFF">|</font>
-<a href="/australia/aboutanz/investorcentre/default.asp" class="textfooter2">shareholders</a>
+<a href="/australia/aboutanz/investorcentre/default.asp" class="utilText2">shareholders</a>
 <font color="#99CCFF">|</font>
-<a href="/aus/careers/default.asp" class="textfooter2">careers</a>
+<a href="/aus/careers/default.asp" class="utilText2">careers</a>
 <font color="#99CCFF">|</font></td>
-    <td align="right" width="100"><input type="text" style="width:130px" name="qu" size="8" maxlength="40" value="Search ANZ..."></td>
+    <td align="right" width="100"><input type="text" style="width:130px" name="qu" size="8" maxlength="40" value="Search ANZ..." onclick="qu.value=''"></td>
 	<td align="left"><input src="/common/img/buttons/ButtonGo.gif" width="25" height="25" align="absbottom" border="0" type="image" name="Search" alt="Search"></td>
 		
 </tr>
@@ -192,43 +186,81 @@ function tpconfirm(windowURL, windowName, options, windowPopup)
 	<tbody><tr>
 	<td valign="top" width="180" bgcolor="#0066cc">
 		
-<table width="180" border="0" cellspacing="0" cellpadding="0" valign="top" height="140" background="/common/img/misc/leftnavgradient.gif">
-	<tbody><tr> 
-		<td width="180" height="5"><img src="/common/img/misc/trans_dot.gif" width="180" height="5"></td> 
-	</tr>
-<tr>
-<td>
-<table width="180" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+<table width="180" border="0" cellspacing="0" cellpadding="0" valign="top" height="140">
+
 <tbody><tr>
-	<td width="16"></td>
-	<td width="12"></td>
-	<td width="12"></td>
-	<td width="140"></td>
+	<td bgcolor="#0066CC">
+		<table width="180" border="0" cellspacing="0" cellpadding="0" valign="top">
+
+	<tbody><tr><td colspan="2" height="2" bgcolor="#003399"><img src="/common/img/misc/trans_dot.gif" width="1" height="2" alt=""></td></tr>
+	<tr valign="top"><td colspan="2" align="left" bgcolor="#003399">&nbsp;<a href="/australia/support/general/anzwebsite.asp" class="navtext2">ANZ's Web Site</a>&nbsp;</td></tr>
+	<tr><td colspan="2" height="2" bgcolor="#003399"><img src="/common/img/misc/trans_dot.gif" width="1" height="2" alt=""></td></tr>
+	<tr><td colspan="2" height="1" bgcolor="#003366"><img src="/common/img/misc/trans_dot.gif" width="1" height="1" alt=""></td></tr>
+
+		<tr><td height="2" colspan="2" background="/common/img/misc/trans_dot.gif"><img src="/common/img/misc/trans_dot.gif" width="1" height="2" alt=""></td></tr>
+		<tr valign="top">
+			<td width="16" align="center" background="/common/img/misc/trans_dot.gif"><a href="/australia/support/general/disclaimer.asp" class="navtext2">&nbsp;</a></td>
+			<td align="left" width="164" background="/common/img/misc/trans_dot.gif"><a href="/australia/support/general/disclaimer.asp" class="navtext2">Web Site Terms of Use</a>&nbsp;</td>
+		</tr>
+		<tr><td height="2" colspan="2" background="/common/img/misc/trans_dot.gif"><img src="/common/img/misc/trans_dot.gif" width="1" height="2" alt=""></td></tr>
+		<tr><td height="1" colspan="2" bgcolor="#6699FF"><img src="/common/img/misc/trans_dot.gif" width="1" height="1" alt=""></td></tr>
+	
+		<tr><td height="2" colspan="2" background="/common/img/misc/trans_dot.gif"><img src="/common/img/misc/trans_dot.gif" width="1" height="2" alt=""></td></tr>
+		<tr valign="top">
+			<td width="16" align="center" background="/common/img/misc/trans_dot.gif"><a href="/australia/support/general/AboutSite.asp" class="navtext2">&nbsp;</a></td>
+			<td align="left" width="164" background="/common/img/misc/trans_dot.gif"><a href="/australia/support/general/AboutSite.asp" class="navtext2">About this site</a>&nbsp;</td>
+		</tr>
+		<tr><td height="2" colspan="2" background="/common/img/misc/trans_dot.gif"><img src="/common/img/misc/trans_dot.gif" width="1" height="2" alt=""></td></tr>
+		<tr><td height="1" colspan="2" bgcolor="#6699FF"><img src="/common/img/misc/trans_dot.gif" width="1" height="1" alt=""></td></tr>
+	
+		<tr><td height="2" colspan="2" background="/common/img/misc/trans_dot.gif"><img src="/common/img/misc/trans_dot.gif" width="1" height="2" alt=""></td></tr>
+		<tr valign="top">
+			<td width="16" align="center" background="/common/img/misc/trans_dot.gif">&nbsp;</td>
+			<td align="left" width="164" background="/common/img/misc/trans_dot.gif" class="navheader2">ANZ Web Site Security and Privacy Statement&nbsp;</td>
+		</tr>
+		<tr><td height="2" colspan="2" background="/common/img/misc/trans_dot.gif"><img src="/common/img/misc/trans_dot.gif" width="1" height="2" alt=""></td></tr>
+		<tr><td height="1" colspan="2" bgcolor="#6699FF"><img src="/common/img/misc/trans_dot.gif" width="1" height="1" alt=""></td></tr>
+		
+		<tr><td colspan="2" background="/common/img/misc/trans_dot.gif"><img src="/common/img/misc/trans_dot.gif" width="180" height="10"></td></tr>
+		</tbody></table>
+	</td>
+	<td width="1" bgcolor="#0066CC"><img src="/common/img/misc/trans_dot.gif" width="1" height="1"></td>
 </tr>
-<tr><td width="16" align="center"><img src="/common/img/arrows/arrow_12s.gif" width="10" height="10" align="center"></td><td colspan="3" width="164" align="left"><a href="/australia/support/general/anzwebsite.asp" class="subheader2"><font color="#0066cc" face="verdana" size="-4" class="subheader2">ANZ's Web Site</font></a></td></tr><tr><td colspan="4" height="4"><img src="/common/img/misc/trans_dot.gif" height="4" width="180"></td></tr><tr><td width="16" align="center"><img src="/common/img/arrows/arrow_12e.gif" width="10" height="10" align="center"></td><td align="left" colspan="3" width="164"><font color="#CCFF33" face="verdana" size="-4" class="subheader4" style="color:#CCFF33">ANZ Web Site Security and Privacy Statement</font></td></tr><tr><td colspan="4"><img src="/common/img/misc/trans_dot.gif" width="180" height="6"></td></tr>
-</tbody></table></td></tr>
+
 	<tr> 
-		<td width="180" height="100%"><img src="/common/img/misc/trans_dot.gif" width="180" height="5"></td> 
+		<td width="180" height="100%"><img src="/common/img/misc/trans_dot.gif" width="180" height="50"></td> 
 	</tr>
 </tbody></table>
 
 
 <script language="javascript" type="text/javascript">
 
-function openPopupWindow(url, name, width, height, returnWindow, kill)
+function openPopupWindow(url, name, width, height, returnWindow)
 {
 	var horizontalOffset, verticalOffset, offsetAmount, windowToReturn, closethiswindow;
 		
-	offsetAmount = 20;
-
+	offsetAmount = 0;
+	
 	if(width == -1)
 	{
-		width = screen.availWidth;
-	}
+	
+  	if ((screen.Height >= 0) && (screen.Width >= 0)) {
+     		 width = screen.Width - 10;
+ 	 }
+  	else if ((screen.availHeight >= 0) && (screen.availWidth >= 0)) {
+      		 width = screen.availWidth - 10;
+  	}
+	}	
 	
 	if(height == -1)
 	{
-		height = screen.availHeight;
+	if ((screen.Height >= 0) && (screen.Width >= 0)) {
+     		 height = screen.Height - 75;
+    }
+  	else if ((screen.availHeight >= 0) && (screen.availWidth >= 0)) {
+      		 height = screen.availHeight - 45;
+    }
 	}
 	
 	if(navigator.appName == "Microsoft Internet Explorer")
@@ -249,62 +281,44 @@ function openPopupWindow(url, name, width, height, returnWindow, kill)
 	}
 		
 	windowToReturn = window.open(url, name, "toolbar=0,location=0,directories=0,status=yes,menubar=no,scrollbars=1,resizable=yes,screenX=" + horizontalOffset + ",screenY=" + verticalOffset + ",left=" + horizontalOffset + ",top=" + verticalOffset + ",width=" + width + ",height=" + height);
-		
-	if(kill == -1)
-	{
-		closethiswindow = self.close();
-	}
-	
-	if(returnWindow == true)
-		return windowToReturn;
-		
+	//Please do not publish with the return window statement
+	//if(returnWindow)
+	//{
+	//	return(windowToReturn);
+	//}
 }
 </script>
-
-
-
 
 <script language="javascript" type="text/javascript">
 
-function openFullWindow(url, name, width, height, returnWindow)
-{
-	var horizontalOffset, verticalOffset, offsetAmount, windowToReturn;
+function openPopupLocator(country,url)
+ { 
+ //Passing the URL as argument is optional. However country is compulsory
+	var height,width;
+	 if(!(country==null)&&!(country==""))
+		country=country.toUpperCase();
+		switch(country)
+		{ 
+			case 'AUS': width="760";height="645"; 
+				       if ((url==null)||(url==""))
+						url='/australia/aboutanz/anzservices/anzlocator/';		   				   	
+				       break;
+		    case 'NZ': width="760";height="645"; 
+				       if ((url==null)||(url==""))
+						url='/nz/tools/nzlocator/';
+				       break;
+			default:   width="600";height="500"; 
+										  
+		}
 		
-	offsetAmount = 20;
+		if (!(url==null)&&!(url==""))
+			openPopupWindow(url,'locator',width,height,false);
+	 } 
+ 
+</script> 
 
-	if(width == -1)
-	{
-		width = screen.availWidth;
-	}
-	
-	if(height == -1)
-	{
-		height = screen.availHeight;
-	}
-	
-	if(navigator.appName == "Microsoft Internet Explorer")
-	{
-		horizontalOffset = window.screenLeft + offsetAmount;
-		verticalOffset = window.screenTop + offsetAmount;
-	}
-	else
-	{
-		horizontalOffset = window.screenX + offsetAmount;
-		verticalOffset = window.screenY + offsetAmount;
-	}
-	
-	if(horizontalOffset + width > screen.availWidth || verticalOffset + height > screen.availHeight)
-	{
-		horizontalOffset = 0;
-		verticalOffset = 0;
-	}
-		
-	windowToReturn = window.open(url, name, "toolbar=1,location=1,directories=0,status=yes,menubar=yes, scrollbars=1,resizable=yes,screenX=" + horizontalOffset + ",screenY=" + verticalOffset + ",left=" + horizontalOffset + ",top=" + verticalOffset + ",width=" + width + ",height=" + height);
-		
-	if(returnWindow == true)
-		return windowToReturn;
-}
-</script>
+
+
 
 
 	</td>
@@ -312,7 +326,7 @@ function openFullWindow(url, name, width, height, returnWindow)
 		<table border="0" cellspacing="0" cellpadding="0" width="100%">
 			<tbody><tr> 
 				<td>
-							<img src="/common/img/mh/mh_anzwebsite.gif" width="452" height="45" border="0" alt="ANZ Web Site">
+							<img src="/common/img/mh/mh_anzwebsite.gif" width="452" height="45" border="0" alt="ANZ's Web Site">
 		<br>
 
 				</td>	
@@ -322,12 +336,6 @@ function openFullWindow(url, name, width, height, returnWindow)
 			<tbody><tr> 
 				<td valign="top">
 					
-
-<meta http-equiv="Content-Type" content="text/html; charset=unicode">
-
-
-<meta content="MSHTML 6.00.2800.1106" name="GENERATOR">
-
 
 <table cellpadding="8" cellspacing="0" border="0" width="100%">
 <tbody><tr>
@@ -349,11 +357,11 @@ function openFullWindow(url, name, width, height, returnWindow)
 	
 	</p><div align="center"><img height="1" alt="" src="/common/img/misc/dot_000000.gif" width="100%"><br></div>
 	<span class="header3"><a name="About">About This Security and Privacy Statement</a></span>
-	<p>This Security and Privacy Statement applies to this website which is operated by Australia and New Zealand Banking Group Limited (ABN 11 005 357 522) ("ANZ") under the domain name "www.anz.com" ("ANZ website"). The ANZ website is operated on behalf of ANZ and its related bodies corporate (together called the "ANZ Group"). The information described in this Security and Privacy Statement may be shared between members of the ANZ Group.</p>
+	<p>This Security and Privacy Statement applies to this website which is operated by Australia and New Zealand Banking Group Limited (ABN 11 005 357 522) ("ANZ") under the domain name "www.anz.com" ("ANZ website"). The ANZ website is operated on behalf of ANZ and its related bodies corporate (together called the "Australia and New Zealand Banking Group Group"). The information described in this Security and Privacy Statement may be shared between members of the Australia and New Zealand Banking Group.</p>
 	<p>This Security and Privacy Statement may also apply to services offered by ANZ on websites hosted by third parties. If so, express reference to this Security and Privacy Statement will be made on those websites. 
 	</p><p>ANZ understands and appreciates that you, as an ANZ website visitor, are concerned about your privacy and about the confidentiality and security of information we may gain about you online. ANZ is committed to protecting your privacy. This ANZ Security and Privacy Statement explains how your personal information will be treated as you access and interact with the ANZ website. 
 	</p><p>As the ANZ website develops and as technology evolves, ANZ will continue to strive to provide you with better and more customised services and with a more effective website. ANZ encourages you to review the Security and Privacy Statement periodically because the Security and Privacy Statement may change from time to time. 
-	</p><p>ANZ has an <a href="/australia/aboutanz/PrivacyPolicy/">ANZ Privacy Policy</a>, which explains how ANZ generally protects your privacy and confidentiality. The principles set out in this ANZ Privacy Policy also apply to ANZ websites.
+	</p><p>The <a href="/australia/aboutanz/PrivacyPolicy/">ANZ Privacy Policy</a> explains how ANZ generally protects your privacy and confidentiality. The principles set out in the ANZ Privacy Policy also apply to ANZ websites.
 	</p><p>In addition to the provisions of this Security and Privacy Statement, there may also be specific and additional privacy provisions which apply to certain sections of the ANZ website. Because those specific and additional provisions also relate to your privacy protection, you should review them 
 	   wherever they are accessible by you on the ANZ website. In the event of any inconsistency between the provisions of this Security and Privacy Statement and those other specific and additional provisions, the specific and additional provisions will prevail. 
 
@@ -375,11 +383,11 @@ function openFullWindow(url, name, width, height, returnWindow)
 		<tr><td class="header3"><a name="InformationCollected">Information Collected</a><br></td><td align="right"><a class="header1" href="#top"><img height="9" alt="" src="/common/img/arrows/arrow_1n.gif" width="12" border="0">top</a></td></tr>
 	</tbody></table>
 	</div>
-	<p>The information that we will collect about you will depend on how you use the facilities offered by the ANZ website. 
+	<p>The information that ANZ collects about you is dependent on how you use the facilities offered by the ANZ website.
 	</p><p>If you visit an unsecure area of the ANZ website (that is, an area where you are not required to log on) to read, browse or download information, our system will record the date and time of your visit to our site, the pages viewed and any information downloaded. However, our systems will not record any personally identifiable information. 
 	</p><p>The ANZ website offers a number of interactive facilities including tools such as budget planners and home loan calculators, as well as online application forms. 
-	</p><p>If you use any of the tools such as the budget planner or home loan calculator we generally do not capture any personal information that you may enter when using these tools. An exception is where a tool such as a budget planner allows you to suspend or save your plan and retrieve the details at a later time. In that case the information is stored on our systems so that you may recover the information when you resume your plan. Any information stored in a suspended or saved budget planner or other similar tool will not be viewed by ANZ. 
-	</p><p>If you decide to complete an online application form, the information that you enter into the online form will only be collected by us if you submit your online application. If at any stage you cancel your application or log out prior to submitting your application, the information you have entered up to that point will be automatically deleted. If you suspend or save your application, for example because you wish to complete it at another time, the information that you have entered will be retained in our systems so that you may recover the information when you resume your application. You may only recover this information within 30 days. After this time, the information is deleted. Online applications that have been suspended or saved will not be viewed by us and are not processed by us. 
+	</p><p>If you use any of the tools such as the budget planner or home loan calculator we generally do not capture any personal information that you may enter when using these tools. An exception to this is when a tool such as a budget planner allows you to suspend or save your plan and retrieve the details at a later time. In that case the information is stored on our systems so that you may recover the information when you resume your plan. Any information stored in a suspended or saved budget planner or other similar tool will not be viewed by ANZ.
+	</p><p>If you decide to complete an online application form, the information that you enter into the online form will only be collected by ANZ if you submit your online application. If at any stage you cancel your application or log out prior to submitting your application, the information you have entered up to that point will be automatically deleted. If you suspend or save your application, for example because you wish to complete it at another time, the information that you have entered will be retained in our systems so that you may recover the information when you resume your application. You may only recover this information within 30 days. After this time, the information is deleted. Online applications that have been suspended or saved will not be viewed by us and are not processed by us. 
 	</p><p>The ANZ website also contains links to the websites of third party providers of goods and services ("Third Party websites"). If you have accessed Third Party websites through the ANZ website and if those third parties collect information about you, ANZ may also collect or have access to that information as part of our arrangements with those third parties. 
 	</p><p>Where you access a Third Party website from the ANZ website, cookie information, information about your preferences or other information you have provided about yourself may be shared between us and the third party. You cannot usually be identified from the information that is shared; if you can be identified from this information, we will seek your consent before sharing such information.
 	</p><p>Third Party websites should contain their own privacy statements and those third parties are responsible for their own privacy practices. 
@@ -404,8 +412,7 @@ function openFullWindow(url, name, width, height, returnWindow)
 	</p><p>In addition, ANZ also uses the following companies to collect information on how you utilise the ANZ website:
 		</p><ul>
 			<li>Nielsen//NetRatings 
-			</li><li>Memetrics Pty Ltd</li>  	
-		</ul>
+		</li></ul>
 	<p>('tracking companies'). These tracking companies also use cookies to collect information similar to that collected by the advertising company.
 	</p><p>The advertising company and tracking companies ('companies') use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses those analyses to measure advertising effectiveness and relative consumer interest in the various areas of the ANZ website. As a general rule, no personal information is collected by the Companies in this process. If, however, any automatically collected, these companies are required under their arrangements with ANZ to maintain the privacy and confidentiality of that personal information.
 	</p><p>We may disclose the information collected by a Company, in an aggregate form only, to third parties including advertisers or potential advertisers. 
@@ -414,8 +421,7 @@ function openFullWindow(url, name, width, height, returnWindow)
 	</p><p>You can access the Privacy Statements from the Companies here:
 	</p><ul>
 		<li><a href="javascript:tpconfirm('http://www.netratings.com/privacy.jsp?section=leg_scs ','netratings','',true)">Nielsen//NetRatings</a>
-		</li><li><a href="javascript:openPopupWindow('Memetrics_privacy.htm','MemetricsPrivacy','650','500', false)">Memetrics</a></li>
-	</ul>
+	</li></ul>
 	
 	<p>
 	
@@ -439,7 +445,6 @@ function openFullWindow(url, name, width, height, returnWindow)
  	</p><p>ANZ also uses cookies for secure services (that is, an area where you are required to log on) on the ANZ website. These cookies are used for a variety of purposes, including for security and personalisation reasons. If your browser is configured to reject all cookies you will be unable to use secure services on the ANZ website that require cookies in order to participate. Those services include (but are not limited to): 
 		</p><ul>
 			<li>ANZ Internet Banking;
-			</li><li><em>runningmybusiness</em>;
 			</li><li>Online applications;</li>  
 		</ul>
  	<p>You may still be able to use some information-only pages even if you do not accept cookies. 
@@ -476,7 +481,7 @@ function openFullWindow(url, name, width, height, returnWindow)
 	</p><p>This is the current Security and Privacy Statement. It replaces any other Security and Privacy Statement for the ANZ website published on the ANZ website to date. ANZ may at any time vary the Security and Privacy Statement by publishing the varied Security and Privacy Statement on the ANZ website. You accept that by doing this, ANZ has provided you with sufficient notice of the variation. 
 
 		
-	</p><p class="subtext1">Date of Publication - 8 November 2004 - Version 7
+	</p><p class="subtext1">Date of Publication - 5 October 2005 - Version 8 
 	<br class="subtext1">Adobe and Acrobat Reader are trademarks of Adobe Systems Incorporated</p>    
     <p></p>
 </td>
