@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinet.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306200154id_/http%3A//www.chinet.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinet.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210111435id_/http%3A//www.chinet.org/privacy.html) for the most accurate reproduction.*
 
 # CHI: Privacy Statement
 
@@ -66,7 +66,7 @@ Cultural Homestay International**
 
 * * *
 
-[Return to CHI home page](https://web.archive.org/web/20050306200154id_/http%3A//www.chinet.org/index.html). If you have any problem browsing our web site, please contact [webmaster@chinet.org](mailto:webmaster@chinet.org)
+[Return to CHI home page](https://web.archive.org/web/20051210111435id_/http%3A//www.chinet.org/index.html). If you have any problem browsing our web site, please contact [webmaster@chinet.org](mailto:webmaster@chinet.org)
 
 Copyright © 1998-2005, Cultural Homestay International  
-This page was last modified 02/19/2020 21:25:09
+This page was last modified 02/19/2020 21:25:11
