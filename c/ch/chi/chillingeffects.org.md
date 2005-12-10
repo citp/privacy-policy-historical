@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chillingeffects.org privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206170656id_/http%3A//www.chillingeffects.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chillingeffects.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210071026id_/http%3A//www.chillingeffects.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Chilling Effects Clearinghouse
 
@@ -44,7 +44,7 @@ We collect only two kinds of information on the Chilling Effects website: (1) An
 > 
 > _If you send us an email asking for further information:_
 >
->> If you use the email contact addresses for the clinics that are identified on the web site (as listed on the ["about us" page](https://web.archive.org/web/20050206170656id_/http%3A//www.chillingeffects.org/about.cgi)), your email will go directly to an attorney at the clinic. If this email seeks legal advice, we believe that it will be protected by the confidentiality provisions of the attorney-client privilege in the states where the clinics are located. We will not use or disclose this information for any other purpose unless compelled by law. (see below) 
+>> If you use the email contact addresses for the clinics that are identified on the web site (as listed on the ["about us" page](https://web.archive.org/web/20051210071026id_/http%3A//www.chillingeffects.org/about.cgi)), your email will go directly to an attorney at the clinic. If this email seeks legal advice, we believe that it will be protected by the confidentiality provisions of the attorney-client privilege in the states where the clinics are located. We will not use or disclose this information for any other purpose unless compelled by law. (see below) 
 > 
 > _If you want to get information about you that may be in our records, or if you want us to correct or remove such information_ : 
 >
@@ -59,6 +59,7 @@ We collect only two kinds of information on the Chilling Effects website: (1) An
 > For general questions, please contact us at [questions@chillingeffects.org](mailto:questions@chillingeffects.org). The organizations participating in the Chilling Effects project are:
 > 
 > [Berkman Center for Internet & Society](http://cyber.law.harvard.edu/)  
+>  [DePaul University College of Law](http://www.law.depaul.edu/institutes_centers/ciplit/)  
 >  [Electronic Frontier Foundation](http://www.eff.org/)  
 >  [George Washington University Law School](http://www.law.gwu.edu/)  
 >  [Samuelson Law, Technology and Public Policy Clinic](http://www.samuelsonclinic.org/)  
@@ -67,7 +68,7 @@ We collect only two kinds of information on the Chilling Effects website: (1) An
 >  [University of Maine School of Law](http://tlc.usm.maine.edu/)  
 >  [USF Law School - IIP Justice Project](http://www.law.usfca.edu/html/iipjp.html)
 > 
-> Contact information for the individual clinics is listed on the ["about us" page](https://web.archive.org/web/20050206170656id_/http%3A//www.chillingeffects.org/about.cgi). 
+> Contact information for the individual clinics is listed on the ["about us" page](https://web.archive.org/web/20051210071026id_/http%3A//www.chillingeffects.org/about.cgi). 
 > 
 > If you experience technical problems with the operation of this web site, please contact [webmaster@chillingeffects.org](mailto:webmaster@chillingeffects.org). 
 
