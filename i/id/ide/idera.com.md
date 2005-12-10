@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idera.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602185429id_/http%3A//www.idera.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idera.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210185401id_/http%3A//www.idera.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Idera: Tools for Data Management - Privacy Policy
 
