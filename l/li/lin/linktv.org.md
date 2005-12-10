@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linktv.org privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205192123id_/http%3A//www.linktv.org/about/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linktv.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210185508id_/http%3A//linktv.org/about/privacy.php3) for the most accurate reproduction.*
 
 # Link TV - Privacy and Security
 
@@ -15,7 +15,7 @@ We will not use IP addresses when recording any feedback or polling you might of
 
 **Cookies**
 
-A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. The only instances when LinkTV might use cookies is in connection with our daily poll, to insure pop-up information screens display no more than once per day, to help users manage their participation in our chat rooms and to give users control over their browsing experience on the Link TV site. For the polling application, the cookie prevents multiple votes from the same system so we can gauge polls as accurately as possible. For the chat rooms, the cookie remembers the user's handle only. The cookie automatically expires within 24 hours for both the polling applications and pop-up screen control. We do not use cookies to capture personal information, ever. Some of our partners or sponsors may use cookies on their Web sites. Please check the privacy statement of each Web site you visit to determine their usage of cookies. 
+A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. Link TV uses cookies in several instances: to log registration for viewing archived streamed episodes of _Mosaic: World News from the Middle East_ ; to record user-set streaming downloading speed preferences; to record user-set network schedule time zone preferences; and to anonymously record aggregated visitor web page usage patterns. We do not use cookies to capture personal information, ever. Some of our partners or sponsors may use cookies on their web sites. Please check the privacy statement of each site you visit to determine their usage of cookies. 
 
 **Privacy: Feedback, Surveys, Contests**
 
@@ -42,10 +42,10 @@ This site has security measures in place to protect the loss, misuse and alterat
 **Contact Information**
 
 _1.Choice/Opt-Out_  
-This site gives users the following options for removing their information from our database to not receive future communications: Send email to [webmaster@LinkTV.org](mailto:webmaster@LinkTV.org)
+This site gives users the following options for removing their information from our database to not receive future communications: Use e-mail form, [here](https://web.archive.org/about/faqArchive/index.php4). 
 
 _2.Correct/Update_  
-This site gives users the following options for changing and modifying information previously provided: Email: [webmaster@LinkTV.org](mailto:webmaster@LinkTV.org)
+This site gives users the following options for changing and modifying information previously provided: Use e-mail form, [here](https://web.archive.org/about/faqArchive/index.php4). 
 
 **More Info**
 
