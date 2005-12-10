@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305094434id_/http%3A//www.skipton.co.uk/security_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210174604id_/http%3A//www.skipton.co.uk/security_privacy.asp) for the most accurate reproduction.*
 
 # Security and privacy policy - Skipton Building Society
 
-|   
----|---  
-  
 Skipton Building Society is committed to protecting your privacy and keeping your personal information secure. This policy does not extend to external websites accessed from this site –including those of other members of the Skipton Building Society Group. Please read the terms and conditions of any other sites separately.
 
 ## Security
