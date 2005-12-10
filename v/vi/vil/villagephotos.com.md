@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villagephotos.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308100447id_/http%3A//www.villagephotos.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villagephotos.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210181821id_/http%3A//www.villagephotos.com/privacy.asp) for the most accurate reproduction.*
 
 # VillagePhotos-Free photo hosting, free image hosting, picture upload, free picture hosting, eBay selling tools, listing management, picture hosting and image management.
 
@@ -18,7 +18,9 @@ VillagePhotos.com and Ripside Interactive, LLC are wholly owned divisions of Rip
 
 VillagePhotos.com is a licensed eBay developer. VillagePhotos.com is not affiliated with any web sites mentioned on our site except where noted. eBay and the eBay logo are trademarks of eBay Inc. 
 
-Connected to 3, at 3/8/2005 4:08:04 AM. 
+Connected to 3, at 12/10/2005 12:18:11 PM. 
 
-[Free online dating and matchmaking!](http://www.datingdojo.com/ "online dating") |  [ ](http://www.bbbonline.org/cks.asp?id=102080714265425346)  
+[Free online dating and matchmaking!](http://www.datingdojo.com/ "online dating")
+
+|  [ ](http://www.bbbonline.org/cks.asp?id=102080714265425346)  
 ---|---|---
