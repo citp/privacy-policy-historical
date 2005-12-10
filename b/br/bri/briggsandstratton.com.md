@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308140124id_/http%3A//www.briggsandstratton.com/display/AppLinkRedir.asp%3FDocID%3D74934%26LRID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210125229id_/http%3A//www.briggsandstratton.com/display/AppLinkRedir.asp%3FDocID%3D74934%26LRID%3D1) for the most accurate reproduction.*
 
-# Briggs & Stratton - PRIVACY STATEMENT
+# PRIVACY STATEMENT - Briggs & Stratton
 
 [](https://web.archive.org/display/Router.asp?DocID=64103)
 
