@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the anaheim.net privacy policy that was archived on 2004-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040817043537id_/http%3A//www.anaheim.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anaheim.net privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210073130id_/http%3A//www.anaheim.net/privacy.html) for the most accurate reproduction.*
 
-# City of Anaheim's Website -- www.anaheim.net privacy statement
-
-  **
-
-Anaheim.Net Privacy and Disclosure Policy
-
-****__**
+# City of Anaheim - Anaheim.Net Privacy and Disclosure Policy
 
 The following information explains the City of Anaheim’s (City) policy regarding any information you may supply to us when visiting [www.anaheim.net](http://www.anaheim.net/) and affiliated splash pages ([www.anaheimconventioncenter.com](http://www.anaheimconventioncenter.com/), [www.anaheimadvantage.com](http://www.anaheimadvantage.com/), etc.) that are part of the City’s official web site and any information that may be provided to the public by the City’s official site.
 
-_
+ _
 
 City of Anaheim Privacy Statement
 
@@ -45,7 +39,7 @@ The City does _not_ warrant:
 
 The City’s web servers are maintained to provide public access to City information via the Internet. The City’s web services and the content of its web servers and databases are updated on a continual basis. While the City attempts to keep its web information accurate and timely, the City neither warrants nor makes representations or endorsements as to the quality, content, accuracy or completeness of the information, text, graphics, hyperlinks, and other items contained on this server or any other server. Web materials have been compiled from a variety of sources, and are subject to change without notice from the City as a result of updates and corrections. Further, some materials on the City’s web site and related links may be protected by copyright law, therefore, if you have any questions regarding whether you may: a) modify and/or re-use text, images or other web content from a City server, b) distribute the City’s web content, and/or c) "mirror" the City’s information on a non-City server, please contact the City’s [Public Information Officer](mailto:jnicolet@anaheim.net).
 
-_
+ _
 
 Security in General
 
