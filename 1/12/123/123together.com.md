@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123together.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527070303id_/http%3A//www.123together.com/ps.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123together.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210072017id_/http%3A//123together.com/ps.xhtml) for the most accurate reproduction.*
 
 # 123Together - Privacy Statement
 
@@ -33,7 +33,7 @@ Our Site has security measures in place to help protect against the loss, misuse
 123Together.com offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering Services, you change your mind about receiving information from us, send us a request specifying your new choice. Simply send your request to Support@123Together.com.
 
 **Correcting & Updating Your Information:**  
-If customers need to update or change registration information they may so by editing the user or organization record. To update a User Profile, log on to 123Together.com and update the appropriate information. To discontinue the Service and to have data returned, email Support@123Together.com or call 781-328-4113.
+If customers need to update or change registration information they may so by editing the user or organization record. To update a User Profile, log on to 123Together.com and update the appropriate information. To discontinue the Service and to have data returned, email Support@123Together.com or call 781-273-6245.
 
 **Additional Information:**  
 Questions regarding this Statement or the practices of this Site should be directed to 123Together.com by e-mailing such questions to Support@123Together.com .
