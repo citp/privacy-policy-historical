@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405215508id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210072309id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
 
 # Britain Express Privacy Policy
 
   
+
+
 |    | 
 
 Britain Express has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
@@ -26,7 +28,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
   * You can send email to [editor@britainexpress.com](mailto:editor@britainexpress.com)
   * You can visit the following URL: <http://www.britainexpress.com/contact-us.htm>
-  * You can send mail to the following postal address:  Britain Express, 1066 Argenta Road, Argenta, BC, Canada, V0G 1B0 
+  * You can send mail to the following postal address:  Britain Express, Ryecroft House, Glebe Farm, Little Risssington, Cheltenham, Gloucestershire, GL54 2ND 
 
 
 
@@ -36,7 +38,7 @@ We give users the following options for changing and modifying information previ
 
   * email [editor@britainexpress.com](mailto:editor@britainexpress.com)
   * visit <http://www.britainexpress.com/contact-us.htm>
-  * send mail to the following postal address:  Britain Express, 1066 Argenta Road, Argenta, BC, Canada, V0G 1B0 
+  * send mail to the following postal address:  Britain Express, Ryecroft House, Glebe Farm, Little Risssington, Cheltenham, Gloucestershire, GL54 2ND 
 
 
 
@@ -44,16 +46,34 @@ Contacting Britain Express
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with Britain Express, you can contact:
 
-Britain Express   
-1066 Argenta Road   
-Argenta, BC, Canada   
-V0G 1B0 
+Britain Express  
+Ryecroft House  
+Glebe Farm  
+Little Risssington  
+Cheltenham  
+Gloucestershire  
+GL54 2ND 
 
-|    |   
+|    | 
 
+  
+Untitled Document
 
-| Hotels UK - Telephone Bookings  
+| **Free Contest Draw**  
 ---  
   
-Telephone +44 (0)870 240 7060, quoting **'BRE'** as your discount reference to book a hotel room by phone  
+Win Ordnance Survey maps in our User Survey contest
+
+[**CLICK HERE**](https://web.archive.org/survey.htm)  
+  
+  
+  
+
+
+ UK Ordnance Survey Maps  
+---  
+[](https://web.archive.org/Ordnance-Survey-maps.htm)[**Every OS map**](https://web.archive.org/Ordnance-Survey-maps.htm) including  
+Landranger, Explorer, and new Right to Roam. Free UK post and **10% off retail!**  
+  
+  
 
