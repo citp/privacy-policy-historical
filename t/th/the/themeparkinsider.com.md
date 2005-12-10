@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418062104id_/http%3A//www.themeparkinsider.com/news/response.cfm%3FID%3D1676) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210140057id_/http%3A//www.themeparkinsider.com/news/response.cfm%3FID%3D1676) for the most accurate reproduction.*
 
 # Protecting Your Privacy on Theme Park Insider
 
-  
+**[Front Page](http://www.themeparkinsider.com/ "Theme Park Insider") > [Theme Park Discussion](https://web.archive.org/news/) **
+
+May 7, 2004 at 7:54 PM
+
 Our editor reiterates the site's privacy policy, in light of recent news stories about Google's e-mail program and other questions about users' privacy online. 
 
-  
-|  By **[Robert Niles](https://web.archive.org/parks/profile.cfm?username=robert)**  
-Posted via 144.142.21.5 on May 7, 2004 at 7:54 PM (MST)  
-_Statements below are the work of their authors and not necessarily the opinion of Theme Park Insider._
+_By[Robert Niles](https://web.archive.org/parks/profile.cfm?username=robert) (posted via 144.142.21.5)_
 
 Your privacy is important to you, and protecting that privacy is important to me, as a website publisher.
 
@@ -32,15 +32,19 @@ Readers' support
     Again, this site is a community. If you are uncomfortable participating as a public member of an online community, you are welcome to "lurk" and read the content of this site without adding any of your own. Otherwise, please be aware of the policies and practices described on this page before submitting any statements or content to the site.
 Questions?
     If you have any questions about Theme Park Insider or our practices, you can [read more about the site and its history](http://www.themeparkinsider.com/about_tpi/), e-mail me [directly](https://web.archive.org/parks/email.cfm) or post a comment or question below.
-  
+
 Thank you for using Theme Park Insider, and thank you for your support of independent publishing online.  
-\--Robert Niles, Editor  
----|---  
-  
-  
+\--Robert Niles, Editor
 
+Comments in chronological order. Most recent at the bottom. Scroll down to respond.
 
-[ThemeParkInsider.com](http://www.themeparkinsider.com/)™, the site, content and services ©Copyright 1999-2005 [Robert Niles](http://www.robertniles.com/robert/). [Privacy statement](http://www.themeparkinsider.com/news/response.cfm?ID=1676)  
-Questions? Comments? Corrections? [E-mail the editor](https://web.archive.org/parks/email.cfm)!
+**From[David Usndek](https://web.archive.org/parks/profile.cfm?username=davidusndek)**  
+Posted via 67.186.80.7 on November 26, 2005 at 6:44 AM (MST)
+
+please send me e-mails re: new columns.
+
+Theme Park Insider, the site, its content and services are ŠCopyright 1999-2005, Robert Niles.  
+[Privacy Statement](https://web.archive.org/parks/privacy.cfm) • [Guidelines for Writers](https://web.archive.org/ethics/)  
+Questions? Corrections? Concerns? [E-mail the editor](https://web.archive.org/parks/email.cfm)!
 
 These pages are in no way affiliated with nor endorsed by Busch Entertainment, Cedar Fair, Legoland, NBC Universal, Paramount Parks, Tussaud's Group, Six Flags, the Walt Disney Company or any other theme park company. Images and any text trademarks are included here solely for the purpose of eliciting [fair use comment and criticism](http://cyber.law.harvard.edu/metaschool/Fisher/integrity/Links/Cases/newkids.html) from the public.
