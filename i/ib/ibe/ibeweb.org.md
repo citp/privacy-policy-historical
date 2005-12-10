@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibeweb.org privacy policy that was archived on 2005-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050419151626id_/http%3A//www.ibeweb.org/privacy/index.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibeweb.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210180033id_/http%3A//www.ibeweb.org/privacy/index.cgi) for the most accurate reproduction.*
 
 # IBE - Institute of Biological Engineering
 
