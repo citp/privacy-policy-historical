@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creative-weblogging.com privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311052844id_/http%3A//www.creative-weblogging.com/archives/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creative-weblogging.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210071932id_/http%3A//www.creative-weblogging.com/50226711/privacy_policy.php) for the most accurate reproduction.*
 
-# Creative Weblogging - "Serving Great Bloggers"
+# Creative Weblogging - "Serving great bloggers" - Are you at Syndicate?
 
 Creative Weblogging is strongly committed to protect your privacy while you interact with our content. We want to provide a safe and secure environment for you. 
 
@@ -27,3 +27,24 @@ Under no circumstances will Creative Weblogging sell or receive payment for lice
 
 **Complaints about privacy**   
 If you have any complaints relating to online privacy issues on our websites, please notify us at [mail@creative-weblogging.com](mailto:mail@creative-weblogging.com "mail@creative-weblogging.com"). 
+
+Tags:  **Related Entries:**  
+[Generate a Privacy Policy for a Site](http://www.java-entrepreneur.com/50226711/generate_a_privacy_policy_for_a_site.php "Generate a Privacy Policy for a Site")... - _Nov 25, 2005_  
+[Google Privacy Policy Updated](http://www.philoneist.com/50226711/google_privacy_policy_updated.php "Google Privacy Policy Updated")... - _Oct 18, 2005_  
+[Just How Many Consumers Care About Privacy Issues?](http://www.rfid-weblog.com/50226711/just_how_many_consumers_care_about_privacy_issues.php "Just How Many Consumers Care About Privacy Issues?")... - _Sep 09, 2004_  
+[Privacy is Stupid](http://www.mobile-weblog.com/50226711/privacy_is_stupid.php "Privacy is Stupid")... - _Nov 17, 2004_
+
+###### Vote for [privacy policy](http://www.creative-weblogging.com/50226711/privacy_policy.php "privacy policy") now:
+
+  
+
+
+###### Comment on [privacy policy:](http://www.creative-weblogging.com/50226711/privacy_policy.php "privacy policy")
+
+[  
+](http://www.creative-weblogging.com/50226711/privacy_policy.php "privacy policy")[](http://www.creative-weblogging.com/50226711/privacy_policy.php "Comments")
+
+###### Tell a friend about [privacy policy](http://www.creative-weblogging.com/50226711/privacy_policy.php "privacy policy"):
+
+  
+
