@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606100026id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210040018id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
-# Artfact
+# ARTFACT : Your Complete Resource to Research, Price and Find Antiques & Art
+
+**ARTFACT PRIVACY POLICY**
 
 Artfact, Inc. (“Artfact”) is a Rhode Island Corporation whose controlling stockholder is ACK Software LLC (“ACK”), a Delaware Limited Liability Company based in Cambridge, Massachusetts.  Artfact and ACK provide database and software services to parties who participate in, or have an interest in the antiques, art, and traditional auction markets.
 
@@ -28,7 +30,7 @@ The information we gather on our site falls into two categories: (1) tracking in
 
 _Tracking Information_
 
-Tracking information is collected and stored whenever a request is made for any page or image on our servers. We use it for analysis and reporting on site activity. For example, we may want to know how long the average user spends on our site, or which pages or features get the most attention. 
+Tracking information is collected and stored whenever a request is made for any page or image on our servers. This information can be analyzed and presented in the aggregate or organized by user sessions. We use it for analysis and reporting on site activity. For example, we may want to know how long the average user spends on our site, or which pages or features get the most attention. 
 
 _Personally Identifiable Information_
 
@@ -52,13 +54,13 @@ Our primary business is conducted entirely online.  As such, our success will d
 
 _Our Communications Features_
 
-Our site offers registered users the ability to forward along objects of interest to others, and in some cases to communicate with an auction house concerning an object offered in an upcoming auction.  In order to facilitate this communication, a registered user’s email of record must be accessed. We do not store the destination email of an object forwarded to others, or any other information beyond usage tracking.
+Our site offers registered users the ability to forward along objects of interest to others, and in some cases to communicate with an auction house concerning an object offered in an upcoming auction.  In order to facilitate this communication, a registered user’s email of record must be accessed.
 
 As a service to auction houses, we keep track of communications between registered users and auction houses. Not all auction houses permit direct communication with our users.  We may store destination emails sent by users to auction houses with questions or request for more information about an object.  If an auction house requests more information about a user, we may share that information if we determine that is in our interest to do so.  We may disable your capability to communicate with a specific auction house.  We may also revoke your auction house communication privileges at any time without notifying you if we determine that it is in our interest to do so.
 
 _Subscription Billing_
 
-We charge fees for using our subscription level services. At present, these are Artfact Annual  and Artfact Professional subscriptions. To enable the purchase of these products, ACK Software collects and stores billing and credit card information. This information will be shared only with third parties who perform tasks required to complete the purchase transaction. Examples of such tasks include processing credit card payments for new subscriptions, subscription renewals and subscription upgrades. Please see Protection of Your Information for other relevant information.
+We charge fees for using our subscription level services. At present, these are Artfact Basic, Artfact Premium, and Artfact Professional subscriptions. To enable the purchase of these products, ACK Software collects and stores billing and credit card information. This information will be shared only with third parties who perform tasks required to complete the purchase transaction. Examples of such tasks include processing credit card payments for new subscriptions, subscription renewals and subscription upgrades. Please see Protection of Your Information for other relevant information.
 
 You may view your entire transaction history, review each invoice processed, and review or update your Credit Card information through the secure Manage Account page.
 
@@ -74,15 +76,15 @@ While we do not presently, in the future we may use the information you provide 
 
 _Compliance with Legal Process_
 
-We may disclose personal information if we are required to do so by law, or in good faith believe that such action is necessary to: 1) comply with the law or with legal process; 2) protect and defend our rights and property; 3) protect against misuse or unauthorized use of Artfact.com data; or 4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). 
+We may disclose personal information if we are required to do so by law, or in good faith believe that such action is necessary to: 1) comply with the law or with legal process;  2) protect and defend our rights and property; 3) protect against misuse or unauthorized use of Artfact.com data; or 4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). 
 
 _Sharing Your Personally Identifiable Information_
-
-If you supply information relevant to registration or subscription at Artfact.com, we will not sell, rent, swap, or authorize any third party to use any information that specifically identifies you. We may however share this information with our trading partners.  You can see all these services and opt-in or opt-out through the secure Manage Account page. 
 
 In some instances, we use third party companies to help us provide our products and services to you, like a shipping company that delivers a package or an e-mail delivery service that sends out our e-mails or e-newsletters. In those instances we need to share your information with them. We require that those companies use the information only to deliver our product or service. 
 
 ArtFact will share some or all of your personal information with another business entity should we plan to merge with or be acquired by that business entity.  In the event that such a combination occurs, we will require that the new combined entity follow this privacy policy with respect to your personal information.  If your personal information will be used contrary to this policy, you will receive prior notice in as provided in Section 2 above.
+
+If it is clear from the information that you provide us that you are a member of the antiques, art, auction or related trades we may, in our sole discretion list you in directories, or other areas of our site, and may use the name of your firm and your relationship to us in marketing or advertising on our site, or in our promotional materials, paid advertising, or other media in order to promote our services. We will not display the content of your email submissions about our services as testimonials for promotional purposes without your express permission.
 
 **3) HOW YOU CAN CORRECT INFORMATION**
 
@@ -122,4 +124,4 @@ Attention: William M. Peverill
 
 Cambridge, MA 02141.
 
-This policy document 1.20 was last revised April 1, 2004.
+This policy document 1.30 was last revised September 25, 2004.
