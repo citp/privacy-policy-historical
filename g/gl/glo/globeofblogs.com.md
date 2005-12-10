@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403184655id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210064841id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Globe of Blogs ::: Privacy Policy
 
 ### Random Weblog
 
-[Marketing News By Michael Wong](http://www.michaelwong.com/) ::: A marketing news column offering useful and interesting internet marketing news, press releases, statistics, white papers, case studies, product announcements, and discussions for busy internet entrepreneurs, marketers & small business CEOs - with occasional commentary, insights, and tips by Michael Wong.  
+[Art Of Noh, The](http://www.noh.ro/weblog/) ::: A weblog about computer security, antivirus protection and malware protection by Costin Raiu, Kaspersky Labs.  
 
 
 ## Statement of Policy
@@ -68,5 +68,5 @@ If Globe of Blogs should at some point in the future become a directory where us
 
 
 
-Copyright © 2001-2004 H.R., J.M. Dodd, Globe of Blogs. All rights reserved.  
+Copyright © 2001-2005 H.R., J.M. Dodd, Globe of Blogs. All rights reserved.  
 
