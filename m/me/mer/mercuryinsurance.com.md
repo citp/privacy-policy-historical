@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2005-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050620073451id_/http%3A//www.mercuryinsurance.com/FreeQuoteYahoo/BeaconPrivSt.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210043148id_/http%3A//about.mercuryinsurance.com/privacy.asp) for the most accurate reproduction.*
 
 # Mercury Insurance Services
 
-Mercury General Insurance works with Yahoo! to research certain usage and activities on our web site on our behalf. Yahoo! uses web beacons to conduct this research. The information collected through these web beacons is used to find out more about our users, including user demographics and usage patterns, for more accurate reporting and to improve the effectiveness of our marketing. Information recorded through the use of these web beacons is aggregated and then shared with us. No personally identifiable information about you is shared by Yahoo! with Mercury General Insurance as a result of this research. If you prefer that Yahoo! not record information by means of these web beacons on the Mercury General Insurance web site, please visit [Yahoo!](http://privacy.yahoo.com/privacy/us/pixels/details.html) in order to opt out.
+  
+|    
+|    
+Mercury Insurance Group Privacy Statement Mercury General Insurance works with Yahoo!, Google and Overture to research certain usage and activities on our web site on our behalf. Yahoo!, Google and Overture use web beacons to conduct this research. The information collected through these web beacons is used to find out more about our users, including user demographics and usage patterns, for more accurate reporting and to improve the effectiveness of our marketing. Information recorded through the use of these web beacons is aggregated and then shared with us. No personally identifiable information about you is shared by Yahoo!, Google or Overture with Mercury General Insurance as a result of this research. If you prefer that Yahoo!, Google and Overture not record information by means of these web beacons on the Mercury General Insurance web site, please visit [Yahoo!](http://privacy.yahoo.com/privacy/us/pixels/details.html), [Google](http://www.google.com/intl/en/privacy.html), or [Overture](http://docs.yahoo.com/info/privacy/us/yas.html) in order to opt out.
 
 Mercury and its affiliated companies appreciate the trust you place in us when you ask us to help protect you and your assets. You trust us with your private, personal information when you purchase insurance from us. We are committed to protecting your private information. Mercury does not sell information about you to others.
 
@@ -83,3 +86,6 @@ Please be aware that we may periodically update or revise this Statement. Please
 
 **Mercury Select Management Company, Inc.**  
 **All states with the exception of Connecticut, Maine and Maryland**
+
+|    
+
