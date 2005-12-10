@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526114541id_/http%3A//www.blacksexfinder.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210051400id_/http%3A//blacksexfinder.com/public.php%3Fgo%3Dprivacy%26SID%3Da180f2ec94e7c9785e7de2be79941e02) for the most accurate reproduction.*
 
-# Privacy Policy
+# Black Sex - Privacy Policy
 
-**Information Obtained**
+|  |   
+---  
+  
+---  
+  
+Register NOW!  
+  
+[](http://template.aebn.net/tid/28014/index.cfm?tid=28014)
+
+|  **Information Obtained**
 
 When you join blacksexfinder.com, you will create a user identity, which will include a username, personal profile, personal narrative and photograph. You will be asked for some personal information to complete your profile such as body type, personal interests, etc. The information you provide is being made available to the public as part of your personal profile and you should recognize as much prior to providing your information. If there is any information that you do not wish to made available to the public at large, you should not post it in your profile. 
 
@@ -36,4 +45,21 @@ blacksexfinder.com reserves the right to change this privacy policy at any time.
 
 **Contact**
 
-If you have any questions regarding the above Policy Statement, please contact us at webmaster@blacksexfinder.com 
+If you have any questions regarding the above Policy Statement, please contact us at info@blacksexfinder.com 
+
+|  | 
+
+[](https://web.archive.org/register.php?SID=d69d67b48bd980add4045d15f22d9723)
+
+[](https://web.archive.org/rate.php?go=top&p=0&cat=0&SID=d69d67b48bd980add4045d15f22d9723)
+
+[](http://www.adameve.com/AffiliateEntry.asp?bid=15&eid=19&aid=6584)
+
+  
+
+
+|   
+---  
+This website contains adult material, all members and persons appearing on this site have contractually represented to us that they are 18 years of age or older.   
+This site does not contain sexually explicit images as defined in  
+[18 U.S.C. 2256](http://www.blacksexfinder.com/18U_S_C_2257.php). 
