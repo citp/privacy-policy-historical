@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204033104id_/http%3A//www.loudoun.gov/general/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210183643id_/http%3A//www.loudoun.gov/general/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Practices and Security Policy
 
   
 Loudoun County Government respects your privacy! The information below explains how the County gathers information on this web site and the technology the County uses to ensure that your  information is private and secure. 
 
-Collecting Information
+##### Collecting Information
 
 **
   1. What information is collected?
