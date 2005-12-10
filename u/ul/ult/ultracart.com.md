@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultracart.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403163334id_/http%3A//www.ultracart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultracart.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210234331id_/http%3A//ultracart.com/privacy.html) for the most accurate reproduction.*
 
 # UltraCart: About
 
@@ -67,4 +67,4 @@ You can access all your company information that we collect online and maintain 
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 877-399-1199 or send us an email at support@ultracart.com. 
+Should you have other questions or concerns about these privacy policies, please call us at 209-383-9870 or send us an email at support@ultracart.com. 
