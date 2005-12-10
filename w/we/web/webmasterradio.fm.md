@@ -1,27 +1,23 @@
-> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406012451id_/http%3A//www.webmasterradio.fm/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210103758id_/http%3A//webmasterradio.fm/privacy.php) for the most accurate reproduction.*
 
 # Free Internet Radio, just load Webmaster Radio 24/7
 
-|  | ** Privacy Policy Statement **  
----|---  
-Put body here 
-
-This is the web site of **NewGen Broadcasting**.
+This is the web site of **WebmasterRadio.FM, LLC.**.
 
 Our postal address is   
-**2881 E Oakland Park Blvd., Suite 104  
-Fort Lauderdale, Florida**
+**350 Jim Moran Blvd., Suite 101  
+Deerfield Beach, Florida 33442**
 
-We can be reached via e-mail at [support@webmasterradio.fm](mailto:support@webmasterradio.fm)  
-or you can reach us by telephone at 954-315-1779
+We can be reached via e-mail at [brandy@webmasterradio.fm](mailto:brandy@webmasterradio.fm)  
+or you can reach us by telephone at 954-379-1314
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, not shared with other organizations for commercial purposes.
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site or new programs in our schedule, and not shared with other organizations for commercial purposes.
 
-With respect to cookies: We use cookies to store visitors preferences, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
+With respect to cookies: We use cookies to store visitors preferences, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends and also to show a verified user our "Listen Now" links.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
 
