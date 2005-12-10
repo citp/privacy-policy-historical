@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banksa.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615174504id_/http%3A//www.banksa.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banksa.com.au privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210054339id_/http%3A//banksa.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
 
 # BankSA - Privacy & Security
 
@@ -190,8 +190,11 @@ If we disagree as to the accuracy of the information, you may request that we at
 
 If there is anything you would like to discuss, please contact us
 
-In this policy, reference to "we/us" means each member of the St George Group. Members of the St.George Group include companies that are related or owned by St.George Bank Limited, for example Advance Asset Management Limited and St.George Life Limited. Members of the St.George Group may change from time to time. If you have any questions, concerns or complaints about our privacy policy or practices or would like more information about particular members’ privacy policies or practices, please contact us on ****13 13 76**** , 8am - 8pm, 7 days a week.
+In this policy, reference to "we/us" means each member of the St George Group. Members of the St.George Group include companies that are related or owned by St.George Bank Limited, for example Advance Asset Management Limited and St.George Life Limited. Members of the St.George Group may change from time to time. If you have any questions, concerns or complaints about our privacy policy or practices or would like more information about particular members’ privacy policies or practices, please contact us on ****13 13 76**** , 7:30am - 5:30pm, 5 days a week.
 
 We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner or the Australian Banking Industry Ombudsman. We will provide you with their contact details if required.
 
 * * *
+
+  
+
