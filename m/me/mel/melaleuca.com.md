@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305035933id_/http%3A//www.melaleuca.com/wc/index.cfm%3Fm%3D1%26p%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210162927id_/http%3A//www.melaleuca.com/wc/index.cfm%3Fm%3D1%26p%3D24) for the most accurate reproduction.*
 
 # Melaleuca Wellness Center - Privacy Policy
 
