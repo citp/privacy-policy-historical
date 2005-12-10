@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cammodels.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308101114id_/http%3A//www.cammodels.com/docs.php%3Fdoc%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cammodels.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210034622id_/http%3A//cammodels.com/docs.php%3Fdoc%3Dprivacy%26) for the most accurate reproduction.*
 
 # CamModels - Privacy Policy
 
@@ -61,14 +61,14 @@ This site makes chat rooms available to its users. Please remember that any info
 
 Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. CamModels does not knowingly collect contact or personal information from children under 13. Our sites are not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 wherever age related information is requested. 
 
-Members areas of CamModels may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@cammodels.com](https://web.archive.org/web/20050308101114id_/http%3A//www.cammodels.com/contactsupport.php?). 
+Members areas of CamModels may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@cammodels.com](https://web.archive.org/web/20051210034622id_/http%3A//cammodels.com/contactsupport.php?). 
 
 |    
 ---|---|---  
 **Unsolicited Email Received by You**  
 |   | 
 
-CamModels does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from CamModels, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/web/20050308101114id_/http%3A//www.cammodels.com/contactsupport.php?). 
+CamModels does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from CamModels, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/web/20051210034622id_/http%3A//cammodels.com/contactsupport.php?). 
 
 CamModels also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Further, according to our published policy, if CamModels becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, CamModels reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the CamModels program, termination of CamModels services, and forfeiture of all commissions. 
 
@@ -77,7 +77,7 @@ CamModels also does not condone spam by affiliates or chat hosts advertising our
 **Contact**  
 |   | 
 
-If you have any questions about this Privacy Policy, please contact our customer service department at [support@cammodels.com](https://web.archive.org/web/20050308101114id_/http%3A//www.cammodels.com/contactsupport.php?) and provide us with your name, your CamModels login name, and any information you feel is important. 
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@cammodels.com](https://web.archive.org/web/20051210034622id_/http%3A//cammodels.com/contactsupport.php?) and provide us with your name, your CamModels login name, and any information you feel is important. 
 
 The address for correspondence by post is  
 
@@ -93,6 +93,7 @@ The address for correspondence by post is
 ---|---|---  
   
   
-[Support](https://web.archive.org/web/20050308101114id_/http%3A//www.cammodels.com/docs.php?doc=support&) | [Become a Model](mailto:models@nastycast.com) | [Affiliate Program](http://wm.mtree.com/webmasters/) | [Terms & Conditions](https://web.archive.org/web/20050308101114id_/http%3A//www.cammodels.com/docs.php?doc=tandc&) | [Privacy Policy](https://web.archive.org/web/20050308101114id_/http%3A//www.cammodels.com/docs.php?doc=privacy&) | [2257/Custodian of Records](https://web.archive.org/web/20050308101114id_/http%3A//www.cammodels.com/docs.php?doc=usc18&)  
+[Support](https://web.archive.org/docs.php?doc=support&) | [Become a Model](mailto:models@cammodels.com) | [Affiliate Program](http://wm.mtree.com/webmasters/) | [Terms & Conditions](https://web.archive.org/docs.php?doc=tandc&) | [Privacy Policy](https://web.archive.org/docs.php?doc=privacy&)  
+[18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement](https://web.archive.org/docs.php?doc=usc18&)  
   
-© 2003-2004 CamModels Limited. All rights reserved.
+© 2003-2005 CamModels Limited. All rights reserved.
