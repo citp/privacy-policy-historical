@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyp.ph privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305223822id_/http%3A//www.eyp.ph/complete.jsp%3Fpage%3D98) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyp.ph privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210045603id_/http%3A//www.eyp.ph/complete.jsp%3Fpage%3D98) for the most accurate reproduction.*
 
 # EYP. Let your mouse do the walking.
 
