@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petersons.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403112636id_/http%3A//www.petersons.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petersons.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210180427id_/http%3A//petersons.com/common/terms.asp%3Fpath%3Dug.home.overview) for the most accurate reproduction.*
 
-# Thomson Peterson's Privacy Statement
+# Peterson's Terms
 
 This privacy statement is designed to help you understand how we use and safeguard the personal information you provide to us. This privacy statement describes the practices of petersons.com, cyberedit.com, essayedge.com, resumeedge.com, termpaperedge.com, and webresume.com, members of the Thomson Learning family of companies.
 
