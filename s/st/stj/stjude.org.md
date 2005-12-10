@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the stjude.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404143109id_/http%3A//www.stjude.org/legal/0%2C2621%2C588_3178%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stjude.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210232929id_/http%3A//www.stjude.org/legal/0%2C2621%2C588_3178%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 This privacy statement applies to St. Jude Children’s Research Hospital and its fund-raising arm, American Lebanese Syrian Associated Charities (ALSAC). St. Jude and ALSAC respect the privacy of our online visitors and donors.
 
 This site collects information such as the visitor’s domain name, site traffic patterns, and server usage statistics. This information is used to improve the performance and content of our Web pages and to personalize content and layout of our pages for individual visitors. We do not collect your e-mail address unless you choose to communicate with us via e-mail or you volunteer your e-mail address on a form on this site. We do not sell or rent e-mail addresses.
-
-We do not collect personally identifiable data on our sites designed for children.
 
 Third-party personally identifiable information you provide for memorial or honor donations or for merchandise shipping will not be shared.
 
@@ -20,6 +18,8 @@ Stjude.org does not rent or sell customer information to outside marketers. We m
 We use shipping companies to ship merchandise and a credit card processor for merchandise orders and donations. These companies do not share or use personally identifiable information for secondary purposes.
 
 We use cookies to store visitors preferences, alert visitors to new areas of the site, customize Web page content based on visitor interests, and record past activity in order to provide better service. Cookies are small text files that do not damage a visitor’s system or files. Most browsers will allow a user to accept or deny cookies. If a visitor rejects our cookies they may still use our site.
+
+St. Jude, or those acting on our behalf, use web beacons to access St. Jude cookies inside and outside our network of websites. Web pages may contain an electronic file called a web beacon that allows a web site to count users who have visited specific content or sites or to access certain cookies. Cookies allow St. Jude to personalize your experience when you visit St. Jude web sites and those that may precede or follow the stjude.org domain.  This file and technology enables us to target relevant content or information to enhance your user experience. Most browsers will allow a user to accept or deny cookies. If a visitor rejects our cookies they may still use our site.
 
 Our server uses Secure Socket Layer (SSL) encryption to protect credit card and other information submitted via the forms on this site. SSL is the industry standard security protocol. All off-line information is securely stored and is accessible only by authorized staff.
 
