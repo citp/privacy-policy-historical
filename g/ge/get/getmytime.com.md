@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the getmytime.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405142606id_/http%3A//getmytime.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmytime.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210094927id_/http%3A//getmytime.com/privacy.asp) for the most accurate reproduction.*
 
 # Web Based Time Management QuickBooks® Timer, GetMyTime.com _ Privacy Statement
 
-As an Internet user, you no doubt recognize the usefulness of this amazing medium. A medium of such great promise in one-to-one and one-to-many communications does not come without its concerns. Many members of the on-line community are rightfully concerned about maintaining a comfortable level of privacy. As active members of the on-line community, **GetMyTime.com** supports industry self-regulation. We believe all web sites should openly share their policies and practices of collecting and processing information. 
+As an Internet user, you no doubt recognize the usefulness of this amazing medium. A medium of such great promise in one-to-one and one-to-many communications does not come without its concerns. Many members of the on-line community are rightfully concerned about maintaining a comfortable level of privacy. As active members of the on-line community, **GetMyTime.com/GetMyExpense.com** supports industry self-regulation. We believe all web sites should openly share their policies and practices of collecting and processing information. 
 
 **Forms**
 
-We use web-based forms to collect vital information from parties interested in communicating with **GetMyTime.com**. We ask that users share as much information as deemed appropriate. This information is used for the sole purpose of serving our clients better. We will not sell, share or rent this information to any outside parties unless you have so requested. Your company information is encrypted while being uploaded to **GetMyTime.com** using a Thawte SSL Encryption License. 
+We use web-based forms to collect vital information from parties interested in communicating with **GetMyTime.com/GetMyExpense.com**. We ask that users share as much information as deemed appropriate. This information is used for the sole purpose of serving our clients better. We will not sell, share or rent this information to any outside parties unless you have so requested. Your company information is encrypted while being uploaded to **GetMyTime.com/GetMyExpense.com** using a Thawte SSL Encryption License. 
 
 **Billing Information**
 
@@ -14,7 +14,7 @@ We request billing information from the user on our order page. Here a user must
 
 **Cookies**
 
-In many cases cookies are greatly misunderstood. When used as intended, a cookie is simply a reminder that some web sites place on your hard drive. This allows the web site in question to recognize your computer on return visits. For example, in order to view the New York Times web site, you must first register with their service. After registration, a cookie is placed on the user's machine so the web site will recognize their web browser the next time they return and will not prompt them to register again. Most standard browsers have the option of refusing all cookies \- so no web site can force a cookie upon you if you do not want it. **GetMyTime.com** uses cookies to track your "session" or visit to our web site. This allows us to enhance your visit to the web site, and evaluate overall usage of **GetMyTime.com** site. 
+In many cases cookies are greatly misunderstood. When used as intended, a cookie is simply a reminder that some web sites place on your hard drive. This allows the web site in question to recognize your computer on return visits. For example, in order to view the New York Times web site, you must first register with their service. After registration, a cookie is placed on the user's machine so the web site will recognize their web browser the next time they return and will not prompt them to register again. Most standard browsers have the option of refusing all cookies \- so no web site can force a cookie upon you if you do not want it. **GetMyTime.com/GetMyExpense.com** uses cookies to track your "session" or visit to our web site. This allows us to enhance your visit to the web site, and evaluate overall usage of **GetMyTime.com/GetMyExpense.com** site. 
 
 **Server Activity**
 
@@ -37,7 +37,7 @@ This information is helpful in delivering the appropriate content to you, the en
 
 **Links**
 
-This web site may contain links to other sites. Please be aware that **GetMyTime.com** is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This web site may contain links to other sites. Please be aware that **GetMyTime.com/GetMyExpense.com** is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 **Security**
 
@@ -53,6 +53,6 @@ If a user's personally identifiable information changes (such as your e-mail add
 
 **Advertising**
 
-GetMyTime advertises on Google Adwords. Part of the Google technology allows us to know how many people found our site through Google Adwords and eventually signed up for the free trial. It does not tell us WHICH customers found us through Google.
+**GetMyTime.com/GetMyExpense.com** advertises on Google Adwords. Part of the Google technology allows us to know how many people found our site through Google Adwords and eventually signed up for the free trial. It does not tell us WHICH customers found us through Google.
 
 || Back to top
