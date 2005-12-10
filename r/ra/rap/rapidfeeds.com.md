@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidfeeds.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403110429id_/http%3A//www.rapidfeeds.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidfeeds.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210191736id_/http%3A//www.rapidfeeds.com/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy - RapidFeeds
 
@@ -6,7 +6,7 @@ RapidFeeds is committed to protecting your online privacy while providing you wi
 
 How we collect and use personal information
 
-Registering for membership on RapidFeeds gives you access to all of the site’s services. The only information required is your name and e-mail address. With your approval, we occasionally will send e-mail to notify you about important changes to the site, new services, important upgrades and special offers from us, if you would rather not receive these e-mail notifications. RapidFeeds uses the best technology around in preserving your personal information, to prevent unauthorized use of your e-mail address. 
+Registering for membership on RapidFeeds gives you access to all of the site’s services. The only information required is your name and e-mail address. With your approval, we occasionally will send e-mail to notify you about important changes to the site, new services, important upgrades and special offers from us. If you would rather not receive these e-mail notifications, then please use the instructions on the bottom of the e-mail to unsubscribe. RapidFeeds uses the best technology around in preserving your personal information, to prevent unauthorized use of your e-mail address. 
 
 How we protect your personal information
 
@@ -22,7 +22,7 @@ By using our Web site, you give RapidFeeds permission to collect information abo
 
 Tell us what you think
 
-RapidFeeds welcomes your questions and comments about our privacy policy. Please send e-mail to [**feedback@rapidfeeds.com**](mailto:feedback@rapidfeeds.com) or [**click here**](https://web.archive.org/web/20050403110429id_/http%3A//www.rapidfeeds.com/contactus.php?PHPSESSID=12e01d74a1ddf88a21549cf3c0878102) to contact Us. 
+RapidFeeds welcomes your questions and comments about our privacy policy. Please send e-mail to [**feedback@rapidfeeds.com**](mailto:feedback@rapidfeeds.com) or [**click here**](https://web.archive.org/web/20051210191736id_/http%3A//www.rapidfeeds.com/contactus.php?PHPSESSID=e855f6e0767aaad7eb0c6781ae816835) to contact Us. 
 
   
 
