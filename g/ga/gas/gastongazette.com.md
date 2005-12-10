@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the gastongazette.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405230810id_/http%3A//www.gastongazette.com/Portal/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gastongazette.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210065455id_/http%3A//www.gastongazette.com/privacy.asp) for the most accurate reproduction.*
 
-# Gaston Gazette Online
+# The Gaston Gazette Privacy Policy
+
+  
+Freedom Interactive Media  
+Online Privacy Policy
 
 The **GASTON GAZETTE** Web site is maintained by **GASTON GAZETTE, 1893 Remount Road, Gastonia, NC 28054**. We can be reached by e-mail at [ gastongazette@link.freedom.com](mailto:gastongazette@link.freedom.com)
 
