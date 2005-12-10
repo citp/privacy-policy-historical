@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the 4thegame.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171630id_/http%3A//www.4thegame.com/pages/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4thegame.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210102350id_/http%3A//www.4thegame.com/pages/privacy_statement.html) for the most accurate reproduction.*
 
 # Football news, live scores, fixtures and results from 4thegame.com
 
 **_Definitions:_  
 **Us/We:** FastWeb Media Ltd  
-**You:** The user of 4thegame.com / member of Barclaycard Football Club**
+**You:** The user of 4thegame.com / member of 4thegame Members Area**
 
 Fast Web Media Ltd is committed to your right to privacy and will only use your data as set out in our privacy policy below. Please read this information carefully. By using 4thegame.com you agree to us collecting and using your personal information in accordance with the details below. 
 
 1\. What information will we collect about you?  
-We will collect information about you when you register to join the Barclaycard Football Club, when you enter competitions and when you contact us or through the use of cookies. This may include information about how you use the Site. Though the privacy policy below has been developed to take account of the rapid development of Internet technology it is subject to change. Any such changes will be notified on this page. 
+We will collect information about you when you register to join the 4thegame Members Area, when you enter competitions and when you contact us or through the use of cookies. This may include information about how you use the Site. Though the privacy policy below has been developed to take account of the rapid development of Internet technology it is subject to change. Any such changes will be notified on this page. 
 
 2\. What are cookies? Does 4thegame.com use cookies?  
 When you use the 4thegame.com site we may automatically issue your computer with a small piece of code (a 'cookie'). Cookies are files we transfer to your computer's hard disk. Cookies can store information about your preferences on products and services and other information which you access when you visit the Site. We can use cookies to show us how you are using our Site and to collect demographic or statistical information about user behaviour. They allow us to analyse the popularity of the Site and to better manage and improve the service we provide to you. We also use ad servers to serve the advertisements that you see on the pages of our web site. You may also be issued with a cookie as part of this process. For information on changing your cookie settings: [click here](https://web.archive.org/pages/cookies.html)
@@ -17,7 +17,7 @@ When you use the 4thegame.com site we may automatically issue your computer with
 3\. How will we use the information we collect about you?  
 In order to use the 4thegame.com site you are not required to register or provide any personal information about yourself. 
 
-You may however choose to join the Barclaycard Football Club when you must register with us when we will collect and record the data you give us when registering or when you use the Site. Registration may also be necessary to enable you to participate in a competition, give-away or survey. As part of the registration process we may ask you to provide some limited personal information about yourself such as your name, address and e-mail and other information which we will use to better develop our Site to your needs. 
+You may however choose to join the 4thegame Members Area when you must register with us when we will collect and record the data you give us when registering or when you use the Site. Registration may also be necessary to enable you to participate in a competition, give-away or survey. As part of the registration process we may ask you to provide some limited personal information about yourself such as your name, address and e-mail and other information which we will use to better develop our Site to your needs. 
 
 We will use the personal information you provide:  
 
