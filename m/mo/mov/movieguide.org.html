@@ -1,0 +1,721 @@
+<!--The following is the downloaded HTML source of the movieguide.org privacy policy that was archived on 2005-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210203000id_/http%3A//www.movieguide.org/index.php%3Fs%3DPrivacy_Policy%26PHPSESSID%3D2c79c12b233f3b543a7fa997fd2704bc) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title> MovieGuide.org - Ted Baehr's Movieguide® </title>
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+
+
+<script language="Javascript" src="lib/inc/pcal_CalendarPopup.js"></script>
+<script language="Javascript" src="lib/inc/script.js"></script><script>function editor_generate() { return false; }</script>
+<script language="JavaScript" src="lib/inc/tooltips.js"></script>
+<script language="JavaScript" src="lib/inc/mm_menu.js"></script>
+
+<script language="JavaScript">
+<!--
+// Copyright(c) 2004 Symetric Productions
+// Created by Matt Froese (matt@spcan.com) for Movieguide.org
+// Menu Script 1.0
+
+_d = document;
+flg = new Array();
+function hide(lyr)
+{
+	_d.getElementById(lyr).style.display = 'none';
+}
+function show(lyr)
+{
+	_d.getElementById(lyr).style.display = 'list-item';
+}
+
+function Expand(lyr)
+{
+   	if( _d.getElementById(lyr).style.display == 'none' ) {
+   		_d.getElementById(lyr+ "-img").src = "lib/images/sub_dn.gif";
+        show(lyr);
+        flg[lyr]++;
+   	} else if( _d.getElementById(lyr).style.display == 'list-item' ) {
+   		_d.getElementById(lyr+ "-img").src = "lib/images/sub_up.gif";
+        hide(lyr);
+        flg[lyr]--;
+    }
+}
+
+function checkUncheckAll(theElement) {
+     var theForm = theElement.form, z = 0;
+     while (theForm[z].type == 'checkbox' && theForm[z].name != 'checkall') {
+      theForm[z].checked = theElement.checked;
+      z++;
+     }
+}
+function ChangeMenu( layer ) {
+
+	hide('AMabout');
+	hide('AMgeneral');
+	hide('AMreviews');
+	hide('AMmembers');
+	
+	show(layer);
+}
+
+function rS_changeMatch( value ) {
+	var rS_string 	= new Array('title', 'description', 'rating', 'genre', 'stars', 'audience','content','summary','inbrief','reviewer','distributor','producer','directory','execproducer','writer');
+	var rS_date 	= new Array('released');
+	var rS_numeric 	= new Array('quality', 'acceptability','runningtime');
+	
+	for( i = 0; i <= rS_string.length; i++ ) {
+	  if( value == rS_string[i] ) {
+	    _d.getElementById('match_numeric').style.display 	= 'none';
+	    _d.getElementById('match_date').style.display 		= 'none';
+	    _d.getElementById('match_string').style.display 	= 'list-item';
+		break;
+	  }
+	}
+	for( i = 0; i <= rS_date.length; i++ ) {
+	  if( value == rS_date[i] ) {
+	    _d.getElementById('match_numeric').style.display 	= 'none';
+	    _d.getElementById('match_date').style.display 		= 'list-item';
+	    _d.getElementById('match_string').style.display 	= 'none';
+		break;
+	  }
+	}
+	for( i = 0; i <= rS_numeric.length; i++ ) {
+	  if( value == rS_numeric[i] ) {
+	    _d.getElementById('match_numeric').style.display 	= 'list-item';
+	    _d.getElementById('match_date').style.display 		= 'none';
+	    _d.getElementById('match_string').style.display 	= 'none';
+		break;
+	  }
+	}
+}
+function rS_changeValue( value ) {
+	var rS_V_text 			= new Array('title', 'runningtime', 'description', 'rating', 'genre', 'stars', 'audience','content','summary','inbrief','reviewer','distributor','producer','directory','execproducer','writer');
+	var rS_V_date			= new Array('released');
+	var rS_V_quality		= new Array('quality');
+	var rS_V_acceptability	= new Array('acceptability');
+	
+	for( i = 0; i <= rS_V_text.length; i++ ) {
+	  if( value == rS_V_text[i] ) {
+	    _d.getElementById('text').style.display 			= 'list-item';
+	    _d.getElementById('date').style.display 			= 'none';
+	    _d.getElementById('quality').style.display 			= 'none';
+	    _d.getElementById('acceptability').style.display 	= 'none';
+		break;
+	  }
+	}
+	for( i = 0; i <= rS_V_date.length; i++ ) {
+	  if( value == rS_V_date[i] ) {
+	    _d.getElementById('text').style.display 			= 'none';
+	    _d.getElementById('date').style.display 			= 'list-item';
+	    _d.getElementById('quality').style.display 			= 'none';
+	    _d.getElementById('acceptability').style.display 	= 'none';
+		break;
+	  }
+	}
+	for( i = 0; i <= rS_V_quality.length; i++ ) {
+	  if( value == rS_V_quality[i] ) {
+	    _d.getElementById('text').style.display 			= 'none';
+	    _d.getElementById('date').style.display 			= 'none';
+	    _d.getElementById('quality').style.display 			= 'list-item';
+	    _d.getElementById('acceptability').style.display 	= 'none';
+		break;
+	  }
+	}
+	for( i = 0; i <= rS_V_acceptability.length; i++ ) {
+	  if( value == rS_V_acceptability[i] ) {
+	    _d.getElementById('text').style.display 			= 'none';
+	    _d.getElementById('date').style.display 			= 'none';
+	    _d.getElementById('quality').style.display 			= 'none';
+	    _d.getElementById('acceptability').style.display 	= 'list-item';
+		break;
+	  }
+	}
+	
+}
+function rS_setSearchBy( value ) {
+	_d.reviewSearch.rS_SearchBy.value = value;
+}
+function rS_setCondition( value ) {
+	_d.reviewSearch.rS_Condition.value = value;
+}
+function rS_setWhat( value ) {
+	_d.reviewSearch.rS_What.value = value;
+}
+
+function rS_Submit() {
+	var rS_What_ra 	= new Array('text', 'date', 'quality', 'acceptability');
+	for( i = 0; i <= rS_What_ra.length; i++ ) {
+	  if( _d.getElementById( rS_What_ra[i] ).style.display == 'list-item' ) {
+	    rS_setWhat(_d.reviewSearch.elements[rS_What_ra[i] + 'f'].value);
+	    break;
+	  }
+	}
+	var rS_Condition_ra 	= new Array('match_numeric', 'match_string', 'match_date');
+	for( i = 0; i <= rS_Condition_ra.length; i++ ) {
+	  if( _d.getElementById( rS_Condition_ra[i] ).style.display == 'list-item' ) {
+		rS_setCondition(_d.reviewSearch.elements[rS_Condition_ra[i] + 'f'].value);
+	    break;
+	  }
+	}
+    rS_setSearchBy(_d.reviewSearch.searchbyf.value);
+
+}
+
+function mmLoadMenus() {
+  if (window.mm_menu_0223115941_0) return;
+  window.mm_menu_0223115941_0 = new Menu("root",181,20,"Verdana, Arial, Helvetica, sans-serif",12,"#ffffff","#ffffff","#25498e","#5c73ae","left","middle",4,0,500,-5,7,true,true,true,0,true,true);
+  mm_menu_0223115941_0.addMenuItem("Ted's&nbsp;Calendar","location='http://www.movieguide.org/index.php?s=tedscalendar'");
+  mm_menu_0223115941_0.addMenuItem("2004&nbsp;Award&nbsp;Winners","location='http://www.movieguide.org/index.php?s=awardwinner'");
+  mm_menu_0223115941_0.addMenuItem("Contact&nbsp;Us","location='http://www.movieguide.org/index.php?s=contactus'");
+  mm_menu_0223115941_0.addMenuItem("Mission&nbsp;Statement","location='http://www.movieguide.org/index.php?s=missionstatement'");
+  mm_menu_0223115941_0.addMenuItem("Movieguide&nbsp;in&nbsp;the&nbsp;News","location='http://www.movieguide.org/index.php?s=movieguidenews'");
+  mm_menu_0223115941_0.addMenuItem("Letter&nbsp;from&nbsp;President&nbsp;Bush","location='http://www.movieguide.org/index.php?s=letterbush'");
+  mm_menu_0223115941_0.addMenuItem("About&nbsp;Dr.&nbsp;Ted&nbsp;Baehr","location='http://www.movieguide.org/index.php?s=tedbaehr'");
+  mm_menu_0223115941_0.addMenuItem("Board&nbsp;of&nbsp;Reference","location='http://www.movieguide.org/index.php?s=boardofreference'");
+  mm_menu_0223115941_0.addMenuItem("About&nbsp;Movieguide","location='http://www.movieguide.org/index.php?s=aboutmovieguide'");
+  mm_menu_0223115941_0.addMenuItem("Order&nbsp;a&nbsp;Back&nbsp;Issue","location='http://www.movieguide.org/index.php?s=backissue'");
+  mm_menu_0223115941_0.addMenuItem("Suggested&nbsp;Links","location='http://www.movieguide.org/index.php?s=suggestedlinks'");
+
+  mm_menu_0223115941_0.hideOnMouseOut=true;
+   mm_menu_0223115941_0.menuBorder=0;
+   mm_menu_0223115941_0.menuLiteBgColor='#ffffff';
+   mm_menu_0223115941_0.menuBorderBgColor='#ffffff';
+   mm_menu_0223115941_0.bgColor='#ffffff';
+  window.mm_menu_0223120018_1 = new Menu("root",141,20,"Verdana, Arial, Helvetica, sans-serif",12,"#ffffff","#ffffff","#25498e","#5c73ae","left","middle",4,0,500,-5,7,true,true,true,0,true,true);
+  mm_menu_0223120018_1.addMenuItem("Movieguide&nbsp;Glossary","location='http://www.movieguide.org/index.php?s=reviews&sub=glossary'");
+   mm_menu_0223120018_1.hideOnMouseOut=true;
+   mm_menu_0223120018_1.menuBorder=0;
+   mm_menu_0223120018_1.menuLiteBgColor='#ffffff';
+   mm_menu_0223120018_1.menuBorderBgColor='#ffffff';
+   mm_menu_0223120018_1.bgColor='#ffffff';
+  window.mm_menu_0223120206_2 = new Menu("root",119,20,"Verdana, Arial, Helvetica, sans-serif",12,"#ffffff","#ffffff","#25498e","#5c73ae","left","middle",4,0,500,-5,7,true,true,true,0,true,true);
+  mm_menu_0223120206_2.addMenuItem("Annual&nbsp;Report","location='http://www.movieguide.org/index.php?s=annualreport'");
+  mm_menu_0223120206_2.addMenuItem("Review&nbsp;Archive","location='http://www.movieguide.org/index.php?s=reviews'");
+  mm_menu_0223120206_2.addMenuItem("Discussion&nbsp;Board","location='http://www.movieguide.org/index.php?s=msgboard'");
+  mm_menu_0223120206_2.addMenuItem("Video&nbsp;Clips","location='http://www.movieguide.org/index.php?s=videos'");
+   mm_menu_0223120206_2.hideOnMouseOut=true;
+   mm_menu_0223120206_2.menuBorder=0;
+   mm_menu_0223120206_2.menuLiteBgColor='#ffffff';
+   mm_menu_0223120206_2.menuBorderBgColor='#ffffff';
+   mm_menu_0223120206_2.bgColor='#ffffff';
+
+  mm_menu_0223120206_2.writeMenus();
+} // mmLoadMenus()
+
+//-->
+</script>
+
+
+
+
+<style>
+
+/* This is the style for the tooltips. */
+#divTooltip {
+  padding: 0px;
+  margin: 0px;
+  position:absolute;
+  top:0px;
+  width: 130px;
+  height: 64px;
+  background: url('lib/images/tooltips.gif');
+  visibility:hidden;
+  z-index:2;
+}
+.normalStyle    {padding:2px; text-align:left; font-weight:500; width:175px; color:#FFFFFF; top:100px; font-family:arial,helvetica; font-size:11px; background-color:#39599A; layer-background-color:#39599A; border-width:0px; border-style:solid; border-color:#39599A; cursor:default;}
+.netscape4Style {padding:0px; font-weight:500; width:175px; color:#FFFFFF; top:100px; font-family:arial,helvetica; font-size:11px; background-color:#39599A; layer-background-color:#39599A; border:1px solid #000000;}
+
+body
+{
+	background-color: #F0F1F0;
+}
+body, td
+{
+	margin: 0,0,0,0;
+	font-family: arial;
+	font-size: 12px;
+	color: #000000;
+}
+
+.fld-title
+{
+	font-family: Arial;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+}
+.fld-req
+{
+	font-family: Arial;
+	font-size: 10px;
+	color: #000000;
+    text-decoration: italics;
+}
+a.reg-lnk:link, a.reg-lnk:active, a.reg-lnk:visited
+{
+	font-family: Arial;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-weight: none;
+	text-decoration: none;
+}
+a.reg-lnk:hover
+{
+	font-family: arial;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-weight: none;
+	text-decoration: underline;
+}
+
+a.user-menu:link, a.user-menu:active, a.user-menu:visited {
+	font-family: Arial;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: none;
+	text-decoration: none;
+}
+a.user-menu:hover {
+	font-family: arial;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: none;
+	text-decoration: underline;
+}
+
+
+a.nav:link, a.nav:active, a.nav:visited
+{
+	font-family: arial;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.nav:hover
+{
+	font-family: arial;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.search:link, a.search:active, a.search:visited, a.search:hover
+{
+	font-family: arial;
+	font-size: 13px;
+	color: #050D5B;
+
+}
+
+a.leftbar:link, a.leftbar:active, a.leftbar:visited
+{
+	font-family: arial;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.leftbar:hover
+{
+	font-family: arial;
+	font-size: 12px;
+	color: #425F9F;
+	font-weight: bold;
+	text-decoration: none;
+}
+.required
+{
+	font-weight: bold;
+    color: BC6F6F;
+}
+.error-table
+{
+	padding: 5;
+	background-color: #F4E7EA;
+	color: #986265;
+	border: 1px solid #986265;
+}
+.error-name
+{
+	font-family: verdana;
+	font-size: 11px;
+	color: #986265;
+	font-weight: bold;
+}
+.error-description
+{
+	font-family: verdana;
+	font-size: 11px;
+	color: #986265;
+}
+.msb-titles
+{
+	font-family: arial;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.sresult-link:link, a.sresult-link:active, a.sresult-link:visited
+{
+	font-family: arial;
+	font-size: 12px;
+	color: #050D5B;
+	font-weight: none;
+	text-decoration: underline;
+}
+a.sresult-link:hover
+{
+	font-family: arial;
+	font-size: 12px;
+	color: #425F9F;
+	font-weight: none;
+	text-decoration: underline;
+}
+a.msb:link, a.msb:active, a.msb:visited
+{
+	font-family: arial;
+	font-size: 12px;
+	color: #050D5B;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+a.msb:hover
+{
+	font-family: arial;
+	font-size: 12px;
+	color: #425F9F;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.member-name
+{
+	font-family: arial;
+	font-size: 14px;
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+input {
+	border: 1px solid #7F9DB9;
+    padding: 0px;
+}
+</style>
+
+</head>
+
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
+
+<table align="center" cellpadding="0" cellspacing="0">
+ <tbody><tr><td width="10" background="lib/images/site_left_bg.gif">&nbsp;</td>
+ <td bgcolor="#FFFFFF" width="3"></td>
+ <td>
+<table align="center" cellpadding="0" cellspacing="0">
+ <tbody><tr>
+  
+  <td bgcolor="#FFFFFF">
+
+<table width="760" height="97" cellspacing="0" cellpadding="0">
+ <tbody><tr height="67">
+  <td background="lib/images/header_bg.gif"><table width="100%" cellpadding="2">
+  <tbody><tr><td width="230"><a href="index.php?PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae"><img src="lib/images/header_logo.gif" border="0"></a>
+  </td><td>&nbsp;<center><strong>Movieguide is a ministry dedicated to redeeming the values of the mass media according to biblical principles,&nbsp; by influencing entertainment industry executives and helping families make wise media choices.</strong></center>
+<div align="right"><strong><em><font size="1">"Commending those who do right"<br>- 1 Peter 2:14</font></em></strong></div></td></tr></tbody></table>
+  </td>
+  
+ </tr>
+ <tr height="30">
+  <td>
+<script language="JavaScript1.2">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 181px; height: 230px;">
+  <div id="menuLite0" style="position: absolute; z-index: 1; left: 0px; top: 0px; height: 230px; width: 181px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg0" style="position: absolute; left: 0px; top: 0px; height: 230px; width: 181px; background-color: rgb(255, 255, 255);">
+<div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 181px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText0" style="position:absolute;left:5px;top:3px;color:#ffffff;">Ted's&nbsp;Calendar&nbsp;</div>
+<div id="menuItemHilite0" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">Ted's&nbsp;Calendar&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 0px; top: 21px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 181px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText1" style="position:absolute;left:5px;top:3px;color:#ffffff;">2004&nbsp;Award&nbsp;Winners&nbsp;</div>
+<div id="menuItemHilite1" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">2004&nbsp;Award&nbsp;Winners&nbsp;</div></div><div id="menuItem2" style="position: absolute; left: 0px; top: 42px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 181px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText2" style="position:absolute;left:5px;top:3px;color:#ffffff;">Contact&nbsp;Us&nbsp;</div>
+<div id="menuItemHilite2" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">Contact&nbsp;Us&nbsp;</div></div><div id="menuItem3" style="position: absolute; left: 0px; top: 63px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 181px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText3" style="position:absolute;left:5px;top:3px;color:#ffffff;">Mission&nbsp;Statement&nbsp;</div>
+<div id="menuItemHilite3" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">Mission&nbsp;Statement&nbsp;</div></div><div id="menuItem4" style="position: absolute; left: 0px; top: 84px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 181px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText4" style="position:absolute;left:5px;top:3px;color:#ffffff;">Movieguide&nbsp;in&nbsp;the&nbsp;News&nbsp;</div>
+<div id="menuItemHilite4" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">Movieguide&nbsp;in&nbsp;the&nbsp;News&nbsp;</div></div><div id="menuItem5" style="position: absolute; left: 0px; top: 105px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 181px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText5" style="position:absolute;left:5px;top:3px;color:#ffffff;">Letter&nbsp;from&nbsp;President&nbsp;Bush&nbsp;</div>
+<div id="menuItemHilite5" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">Letter&nbsp;from&nbsp;President&nbsp;Bush&nbsp;</div></div><div id="menuItem6" style="position: absolute; left: 0px; top: 126px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 181px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText6" style="position:absolute;left:5px;top:3px;color:#ffffff;">About&nbsp;Dr.&nbsp;Ted&nbsp;Baehr&nbsp;</div>
+<div id="menuItemHilite6" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">About&nbsp;Dr.&nbsp;Ted&nbsp;Baehr&nbsp;</div></div><div id="menuItem7" style="position: absolute; left: 0px; top: 147px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 181px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText7" style="position:absolute;left:5px;top:3px;color:#ffffff;">Board&nbsp;of&nbsp;Reference&nbsp;</div>
+<div id="menuItemHilite7" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">Board&nbsp;of&nbsp;Reference&nbsp;</div></div><div id="menuItem8" style="position: absolute; left: 0px; top: 168px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 181px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText8" style="position:absolute;left:5px;top:3px;color:#ffffff;">About&nbsp;Movieguide&nbsp;</div>
+<div id="menuItemHilite8" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">About&nbsp;Movieguide&nbsp;</div></div><div id="menuItem9" style="position: absolute; left: 0px; top: 189px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 181px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText9" style="position:absolute;left:5px;top:3px;color:#ffffff;">Order&nbsp;a&nbsp;Back&nbsp;Issue&nbsp;</div>
+<div id="menuItemHilite9" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">Order&nbsp;a&nbsp;Back&nbsp;Issue&nbsp;</div></div><div id="menuItem10" style="position: absolute; left: 0px; top: 210px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 181px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:5px;top:3px;color:#ffffff;">Suggested&nbsp;Links&nbsp;</div>
+<div id="menuItemHilite10" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">Suggested&nbsp;Links&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 141px; height: 20px;">
+  <div id="menuLite1" style="position: absolute; z-index: 1; left: 0px; top: 0px; height: 20px; width: 141px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg1" style="position: absolute; left: 0px; top: 0px; height: 20px; width: 141px; background-color: rgb(255, 255, 255);">
+<div id="menuItem11" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 141px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:5px;top:3px;color:#ffffff;">Movieguide&nbsp;Glossary&nbsp;</div>
+<div id="menuItemHilite11" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">Movieguide&nbsp;Glossary&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 119px; height: 83px;">
+  <div id="menuLite2" style="position: absolute; z-index: 1; left: 0px; top: 0px; height: 83px; width: 119px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg2" style="position: absolute; left: 0px; top: 0px; height: 83px; width: 119px; background-color: rgb(255, 255, 255);">
+<div id="menuItem12" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 119px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:5px;top:3px;color:#ffffff;">Annual&nbsp;Report&nbsp;</div>
+<div id="menuItemHilite12" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">Annual&nbsp;Report&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 0px; top: 21px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 119px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:5px;top:3px;color:#ffffff;">Review&nbsp;Archive&nbsp;</div>
+<div id="menuItemHilite13" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">Review&nbsp;Archive&nbsp;</div></div><div id="menuItem14" style="position: absolute; left: 0px; top: 42px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 119px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText14" style="position:absolute;left:5px;top:3px;color:#ffffff;">Discussion&nbsp;Board&nbsp;</div>
+<div id="menuItemHilite14" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">Discussion&nbsp;Board&nbsp;</div></div><div id="menuItem15" style="position: absolute; left: 0px; top: 63px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 119px; height: 20px; background-color: rgb(37, 73, 142); visibility: inherit; cursor: pointer;"><div id="menuItemText15" style="position:absolute;left:5px;top:3px;color:#ffffff;">Video&nbsp;Clips&nbsp;</div>
+<div id="menuItemHilite15" style="position:absolute;left:5px;top:3px;color:#ffffff;visibility:hidden;">Video&nbsp;Clips&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+</span>
+
+<table border="0" cellpadding="0" cellspacing="0" width="759">
+  <tbody><tr>
+   <td><img src="lib/images/menu/spacer.gif" width="99" height="1" border="0" alt=""></td>
+   <td><img src="lib/images/menu/spacer.gif" width="167" height="1" border="0" alt=""></td>
+   <td><img src="lib/images/menu/spacer.gif" width="139" height="1" border="0" alt=""></td>
+   <td><img src="lib/images/menu/spacer.gif" width="122" height="1" border="0" alt=""></td>
+   <td><img src="lib/images/menu/spacer.gif" width="100" height="1" border="0" alt=""></td>
+   <td><img src="lib/images/menu/spacer.gif" width="132" height="1" border="0" alt=""></td>
+   <td><img src="lib/images/menu/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+
+  <tr>
+   <td><a href="#" onmouseout="MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0223115941_0,5,32,null,'aboutus');"><img name="aboutus" src="lib/images/menu/aboutus.gif" width="99" height="30" border="0" alt=""></a></td>
+   <td><a href="http://www.movieguide.org/index.php?s=reviews" onmouseout="MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0223120018_1,5,32,null,'currentreviews');"><img name="currentreviews" src="lib/images/menu/currentreviews.gif" width="167" height="30" border="0" alt=""></a></td>
+   <td><a href="#" onmouseout="MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0223120206_2,6,32,null,'members');"><img name="members" src="lib/images/menu/members.gif" width="139" height="30" border="0" alt=""></a></td>
+   <td><a href="https://www.donation-net.net/MovieGuide/donate.cfm" target="new"><img name="donate" src="lib/images/menu/donate.gif" width="122" height="30" border="0" alt=""></a></td>
+   <td><a href="http://christianmoviesdirect.com/catalog/index.php" target="_blank"><img name="store" src="lib/images/menu/store.gif" width="100" height="30" border="0" alt=""></a></td>
+   <td><a href="http://www.movieguide.org/index.php?s=register"><img name="subscribe" src="lib/images/menu/subscribe.gif" width="132" height="30" border="0" alt=""></a></td>
+   <td><img src="lib/images/menu/spacer.gif" width="1" height="30" border="0" alt=""></td>
+  </tr>
+</tbody></table>
+  </td>
+ </tr>
+ <tr>
+  <td height="3"></td>
+ </tr>
+</tbody></table>
+
+  </td>
+  <td rowspan="2" width="3" bgcolor="#FFFFFF"></td>
+  <td rowspan="2" width="10" background="lib/images/right_bg.gif"></td>
+ </tr>
+ <tr>
+  <td>
+
+<table width="760" height="100%" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+ <tbody><tr height="100%">
+  <td width="183" valign="top" height="100%">
+   <table width="100%" cellspacing="0" cellpadding="0" height="100%">
+    <!-------------------- NEWS ---------------------------------------->
+    <tbody><tr>
+	 <td><img src="lib/images/left_title_news.gif"></td>
+	</tr>
+	<tr>
+	 <td background="lib/images/left_bg.gif" valign="top" style="padding: 6px;"><table border="0" cellspacing="1" cellpadding="3">
+ <tbody><tr>
+  <td> <a href="/index.php?s=news&amp;id=132&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae" class="leftbar">THE LION, THE WITCH AND THE WARDROBE Is Absolutely Thrilling and Enchanting, Says Dr. Ted Baehr, Publisher of MOVIEGUIDE(R)</a> (Dec 9th, 2005)</td>
+ </tr>
+ <tr>
+  <td> <a href="/index.php?s=news&amp;id=131&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae" class="leftbar">New Book, 'NARNIA BECKONS', Offers Profound Insights into THE CHRONICLES OF NARNIA and the Work of C.S. Lewis</a> (Dec 9th, 2005)</td>
+ </tr>
+ <tr>
+  <td> [ <a href="/index.php?s=news&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae" class="leftbar">Show All</a> ]</td>
+ </tr>
+</tbody></table>
+</td>
+	</tr>
+	<!-------------------- /NEWS --------------------------------------->
+	<!-------------------- ARTICLES ------------------------------------>
+    <tr>
+	 <td><img src="lib/images/left_title_articles.gif"></td>
+	</tr>
+	<tr>
+	 <td background="lib/images/left_bg.gif" valign="top" style="padding: 6px;"><table border="0" cellspacing="1" cellpadding="3">
+ <tbody><tr>
+  <td> <a href="?s=articles&amp;id=80&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae" class="leftbar">R-R-ROAR! FINDING GOD IN THE LAND OF NARNIA</a> (Dec 5th, 2005)</td>
+ </tr>
+ <tr>
+  <td> <a href="?s=articles&amp;id=79&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae" class="leftbar">PROTECT YOUR CHILDREN FROM THE EVIL OCCULT POWER OF HARRY POTTER!</a> (Nov 22nd, 2005)</td>
+ </tr>
+ <tr>
+  <td> [ <a href="?s=articles&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae" class="leftbar">Show All</a> ]</td>
+ </tr>
+</tbody></table>
+</td>
+	</tr>
+	<!-------------------- /ARTICLES ----------------------------------->
+	<!-------------------- IClips ------------------------------------>
+    <tr>
+	 <td><img src="lib/images/left_insp_clips.gif"></td>
+	</tr>
+	<tr>
+	 <td background="lib/images/left_bg.gif" valign="top" style="padding: 6px;"><table border="0" cellspacing="1" cellpadding="3">
+ <tbody><tr>
+  <td> <a href="?s=InspirationalClips&amp;id=10&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae" class="leftbar">700 Club Narnia Interview</a> (Dec 8th, 2005)</td>
+ </tr>
+ <tr>
+  <td> <a href="?s=InspirationalClips&amp;id=9&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae" class="leftbar">Dreamer</a> (Oct 21st, 2005)</td>
+ </tr>
+ <tr>
+  <td> [ <a href="?s=InspirationalClips&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae" class="leftbar">Show All</a> ]</td>
+ </tr>
+</tbody></table>
+</td>
+	</tr>
+	<!-------------------- /IClips ----------------------------------->
+	<!-------------------- Book Reviews ------------------------------------>
+    <tr>
+	 <td><img src="lib/images/left_title_books.gif"></td>
+	</tr>
+	<tr>
+	 <td background="lib/images/left_bg.gif" valign="top" style="padding: 6px;"><table border="0" cellspacing="1" cellpadding="3">
+ <tbody><tr>
+  <td valign="top"> <a href="?s=Books&amp;s1=ViewBook&amp;_id=5&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae"><img src="/lib/data/bookreviews/narnia_beckons.jpg" border="0" width="63"></a> </td> <td valign="top"> <b>Narnia Beckons</b><br>(Nov 16th 2005)</td>
+ </tr>
+ <tr>
+  <td valign="top"> <a href="?s=Books&amp;s1=ViewBook&amp;_id=4&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae"><img src="/lib/data/bookreviews/so_you_want_to_be_in_pictures!.jpg" border="0" width="63"></a> </td> <td valign="top"> <b>So You Want to be in Pictures!</b><br>(Nov 10th 2005)</td>
+ </tr>
+ <tr>
+  <td> [ <a href="?s=Books&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae" class="leftbar">Show All</a> ]</td>
+ </tr>
+</tbody></table>
+</td>
+	</tr>
+	<!-------------------- /Book Reviews ----------------------------------->
+	
+	
+	<!-------------------- PRODUCTS ------------------------------------>
+    <tr>
+	 <td><img src="lib/images/left_title_products.gif"></td>
+	</tr>
+	<tr height="100%">
+	 <td height="100%" background="lib/images/left_bg.gif" valign="top"><table border="0" cellspacing="1" cellpadding="3">
+ <tbody><tr>
+  <td valign="top"> <a href="http://christianmoviesdirect.com/catalog/product_info.php?cPath=24&amp;products_id=587" target="new"><img src="/lib/data/products/storesoyou.jpg" border="0" width="63" height="95"></a> </td> <td valign="top"> <b>So You Want to Be in Pictures?</b><br>NEW! Shows Christians how to use their faith to change the culture of Hollywood<br><b>Retail: </b> $19.95<br><b>Our Price:</b> $10.49<br><b><font color="red">You save  $9.46 (47.4%)</font></b></td>
+ </tr>
+ <tr>
+  <td valign="top"> <a href="http://christianmoviesdirect.com/catalog/product_info.php?products_id=40" target="new"><img src="/lib/data/products/mediawise.gif" border="0" width="63" height="95"></a> </td> <td valign="top"> <b>Media-Wise Family DVD Toolkit</b><br>A crash course in media literacy. Great for church groups, schools, and family viewing!<br><b>Retail: </b> $39.99<br><b>Our Price:</b> $29.95<br><b><font color="red">You save  $10.04 (25.1%)</font></b></td>
+ </tr>
+</tbody></table>
+</td>
+	</tr>
+	<!-------------------- /PRODUCTS ------------------------------------>
+   </tbody></table>
+  </td>
+  <td width="3"></td>
+  <td valign="top">
+   <table width="100%" height="100%" cellspacing="0" cellpadding="0">
+    <!-------------------- ADSPACE ---------------------------------------->
+    <tbody><tr>
+	 <td width="100%"><a href="/lib/classes/go.php?id=48&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae" target="_mgbanner"><img src="/lib/data/banners/574x74 (2).jpg" border="0" width="574" height="74" alt="Once upon a Stable"></a></td>
+	</tr>
+	<!-------------------- /ADSPACE ---------------------------------------->
+	<tr height="3">
+	 <td></td>
+	</tr>
+	<tr>
+	 <td>
+	  <table width="100%" cellspacing="0" cellpadding="0">
+	   <tbody><tr>
+	    <td width="387"><img src="/lib/data/headers/spiderman.jpg" alt="Welcome to Movieguide!"></td>
+		<td width="3"></td>
+		<td>
+		 <!------------------ MEMBER LOGIN -------------------------------->
+		 <table width="100%" cellspacing="0" cellpadding="0">
+		  <tbody><tr height="18">
+		   <td><img src="lib/images/title_memlogin.gif"></td>
+		  </tr>
+		  <tr height="181">
+		   <td bgcolor="#050D5B"><font color="#FFFFFF">
+					   <form action="index.php?s=login" method="POST"><input type="hidden" name="PHPSESSID" value="cfdb1ce3f67e3090992b945bf7afc2ae">
+		   &nbsp;Username:<br>&nbsp;&nbsp;<input type="text" name="l_username" size="20">
+		   &nbsp;Password:<br>&nbsp;&nbsp;<input type="password" name="l_password" size="20"><p align="right">
+		   <input type="submit" value="submit">&nbsp;&nbsp;&nbsp;&nbsp;
+		   </p></form>
+		   </font></td>
+		  </tr>
+		 </tbody></table>
+		 <!------------------ /MEMBER LOGIN -------------------------------->
+		</td>
+	   </tr>
+	  </tbody></table>
+	 </td>
+	</tr>
+	<tr height="3">
+	 <td></td>
+	</tr>
+		<tr>
+	 <td background="lib/images/main_title_bg.gif"><img src="lib/images/main_title_privacypolicy.gif"></td>
+	</tr>
+	<tr height="100%">
+	 <td valign="top">
+	  <table width="100%" border="0" cellspacing="1" cellpadding="2">
+	   <tbody><tr>
+	    <td bgcolor="#EEEEEE">
+		<p><b><font face="Verdana" size="2"><span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Verdana">Email Privacy Policy</span></font></b><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">
+		</span></font></p><p></p><p></p>
+		<p><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.
+		</span></font></p><p></p><p></p>
+		<p><b><font face="Verdana" size="2"><span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Verdana">Why did you receive an email from us?</span></font></b><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">
+		</span></font></p><p></p><p></p>
+		<p><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">If you received a mailing from us,
+		</span></font></p><p></p><p></p>
+		<p><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">(a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or
+		</span></font></p><p></p><p></p>
+		<p><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">(b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
+		</span></font></p><p></p><p></p>
+		<p><b><font face="Verdana" size="2"><span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Verdana">How we protect your privacy </span></font></b><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">
+		</span></font></p><p></p><p></p>
+		<p><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">We use security measures to protect against the loss, misuse and alteration of data used by our system.
+		</span></font></p><p></p><p></p>
+		<p><b><font face="Verdana" size="2"><span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Verdana">Sharing and Usage</span></font></b><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">
+		</span></font></p><p></p><p></p>
+		<p><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.
+		</span></font></p><p></p><p></p>
+		<p><b><font face="Verdana" size="2"><span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Verdana">How can you stop receiving email from us?</span></font></b><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">
+		</span></font></p><p></p><p></p>
+		<p><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email.
+		</span></font></p><p></p><p></p>
+		<p><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to </span></font><font face="Verdana"><span style="FONT-FAMILY: Verdana"><a title="mailto:customerservice@movieguide.org" class="msb" href="mailto:customerservice@movieguide.org">customerservice@movieguide.org</a></span></font><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana"> for review.
+		</span></font></p><p></p><p></p>
+		<p><b><font face="Verdana" size="2"><span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Verdana">Privacy Policy Changes</span></font></b><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">
+		</span></font></p><p></p><p></p>
+		<p><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">This policy was created on March 31,2005</span></font></p>
+	    </td>
+	   </tr>
+	  </tbody></table>
+	 </td>
+	</tr>
+
+    <!-------------------- ADSPACE ---------------------------------------->
+    <tr height="3">
+     <td></td>
+    </tr>
+    <tr>
+     <td width="100%"><a href="/lib/classes/go.php?id=20&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae" target="_mgbanner"><img src="/lib/data/banners/banner_archive.jpg" border="0" width="574" height="74" alt="Gala Broadcast"></a></td>
+    </tr>
+    <tr height="3">
+     <td></td>
+    </tr>
+    <!-------------------- /ADSPACE ---------------------------------------->
+   </tbody></table>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="100%"><p>Built by <a href="http://www.willowcreekmarketing.com" class="msb" target="new">Willowcreek Marketing</a> and <a href="http://www.symetricproductions.com" class="msb" target="new">Symetric Productions Inc</a>. 2004 Copyright © All Rights Reserved. <a class="msb" href="index.php?s=Privacy_Policy&amp;PHPSESSID=cfdb1ce3f67e3090992b945bf7afc2ae">Privacy Policy</a></p></td>
+ </tr>
+</tbody></table>
+
+  </td>
+ </tr>
+</tbody></table>
+</td>
+</tr></tbody></table>
+
+<div id="divTooltip" class="normalStyle" style="top: 0px; left: 0px;"></div>
+
+
+
+</body></html>
