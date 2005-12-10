@@ -1,0 +1,804 @@
+<!--The following is the downloaded HTML source of the nasscom.in privacy policy that was archived on 2005-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210192303id_/http%3A//www.nasscom.org/privacypolicy.asp) for the most accurate reproduction.-->
+
+<html><head><script language="javascript">
+
+
+
+function popup1(no)
+	{
+		window.open("smepopup"+no+".asp","newwindow","scrollbars=yes,width=660,height=490");
+	}
+
+function createpopup(page)
+  { 
+  open(page,"newWindow","scrollbars= yes toolbar=no,location=no,width=500, height=375"); 
+  }
+function selecttext(txtname)
+{
+//txtname.select()
+txtname.value=""
+txtname.focus
+}
+function validateSearch(){
+	if ((document.frm1.txtName.value==""||document.frm1.txtName.value=="Company name") && (document.frm1.txtServices.value==""||document.frm1.txtServices.value=="Services") && (document.frm1.txtLocation.value=="")){
+		alert("Please enter the Company Name or Services or the City to search");
+		document.frm1.txtName.focus();
+		return false;
+	}
+return true;
+}
+
+function validateSiteSearch()
+{
+if (Trim(document.frm2.txtsearch.value)=="")
+	{
+		alert("Please enter the search content");
+		document.frm2.txtsearch.focus();
+		document.frm2.txtsearch.select();
+		return false;
+	}
+return true;
+}
+
+function MM_validateForm() {
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    if (val) { nm=val.name; if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') { num = parseFloat(val);
+        if (val!=''+num) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
+
+
+</script>
+
+<script language="javascript">
+function validateLogin(){
+	if (document.frm.txtUName.value==""){
+		alert("Please enter the Username");
+		document.frm.txtUName.focus();
+		return false;
+	}
+
+	if (document.frm.txtPassword.value==""){
+		alert("Please enter the Password");
+		document.frm.txtPassword.focus();
+		return false;
+	}
+return true;
+}
+
+function fn_rbi()
+{
+//alert(document.rbi_form.member_id.value);
+document.rbi_form.method="post";
+document.rbi_form.action ="rbi_form.asp";
+document.rbi_form.submit();
+
+}
+
+/*This function removes all the blank spaces fom the input string*/
+function Trim(Untrimmed) 
+{
+var Trimmed = ''
+for (var i = 0; i < Untrimmed.length; i++) 
+{
+  if 
+    (Untrimmed.charCodeAt(i)!=32) 
+    {
+		Trimmed +=Untrimmed[i]
+	}
+}
+return Trimmed
+}  
+</script>
+
+
+
+
+
+<!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+
+<!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+
+
+
+
+
+<script language="javascript">
+function validatecalsearch()
+{
+
+   if((document.datesrch.startdate.value!="") && (document.datesrch.enddate.value!=""))
+   {
+    	var fmdate;
+    	var sndate;
+    	var diff;
+
+	fmdate =document.datesrch.startdate.value;
+    	sndate =document.datesrch.enddate.value;
+    	fmdate=new Date(fmdate);
+	sndate=new Date(sndate);
+
+    	diff = Math.round((sndate-fmdate)/(1000*60*60*24));
+    	//alert(diff)
+     	if (diff<='0')
+     	{
+       		alert("End date should be greater than start date");
+       		document.datesrch.enddate.value="";
+       		document.datesrch.enddate.focus();
+       		return false
+     	}
+
+	return true
+   }
+
+   if((document.datesrch.startdate.value=="") && (document.datesrch.enddate.value==""))
+   {
+	alert("enter the date values");
+	return false
+   }
+   else
+   	if((document.datesrch.startdate.value=="") && (document.datesrch.enddate.value!=""))
+	{
+		alert("enter the start date ");
+		return false
+	}
+	else
+		if((document.datesrch.startdate.value!="") && (document.datesrch.enddate.value==""))
+		{
+			alert("enter the end date ");
+			return false
+   		}
+}
+</script>
+
+
+
+
+
+<link href="scripts/topnav.css" type="text/css" rel="stylesheet">
+<!--rolling text script comes here-->
+
+	
+
+
+<script language="javascript">
+
+ 
+ 		var arurl9 = new Array();
+		var artxt9 = new Array();
+		
+		 
+		 arTXT8="";
+		 arURL8="";
+		 
+		 
+</script>		 
+	
+		<script src="scripts/roll3.js"></script>
+		<!--ends here-->
+		
+		
+</head>
+<body onload="writeMenus();" bgcolor="#FFFFFF" leftmargin="0" topmargin="0">
+
+
+
+<a name="top"></a>
+
+
+
+
+<title>NASSCOM</title>
+
+<link href="scripts/index.css" type="text/css" rel="stylesheet">
+<link href="scripts/styles.css" type="text/css" rel="stylesheet">
+
+<script language="javascript" src="scripts/nasjumpto.js"></script>
+<script language="JavaScript">
+<!--
+function selectsitesearch()
+{
+	if (document.frm2.q.value=="")
+		{
+			alert("Please enter some search text");
+			return false
+		}		
+	
+	else if (document.frm2.srchsel.value=="SME")
+		{
+			document.frm2.cof.value="S:http://www.nasscom.org;GL:0;VLC:996633;AH:left;BGC:ffffff;LH:70;LC:990033;L:http://www.nasscom.org/images/logo.gif;ALC:990033;BIMG:www.nasscom.org;LW:288;T:000000;AWFID:d099b812103bc482;";
+			document.frm2.domains.value="sme.nasscom.org";
+			document.frm2.sitesearch.value="sme.nasscom.org";
+			document.frm2.method="get";
+			document.frm2.action="http://www.google.com/custom";
+			document.frm2.submit()
+			return true
+		}
+	else if(document.frm2.srchsel.value=="PROD")
+		{
+			document.frm2.cof.value="S:http://www.nasscom.org;GL:0;VLC:996633;AH:left;BGC:ffffff;LH:70;LC:990033;L:http://www.nasscom.org/images/logo.gif;ALC:990033;BIMG:www.nasscom.org;LW:288;T:000000;AWFID:d099b812103bc482;";
+			document.frm2.domains.value="products.nasscom.org";
+			document.frm2.sitesearch.value="products.nasscom.org";
+			document.frm2.method="get";
+			document.frm2.action="http://www.google.com/custom";
+			document.frm2.submit()
+			return true
+		}
+	else if(document.frm2.srchsel.value=="NASS")
+		{
+			document.frm2.cof.value="T:000000;LW:288;BIMG:www.nasscom.org;ALC:990033;L:http://www.nasscom.org/images/logo.gif;LC:990033;LH:70;BGC:ffffff;AH:left;VLC:996633;S:http://www.nasscom.org;AWFID:d099b812103bc482;";
+			document.frm2.domains.value="www.nasscom.org";
+			document.frm2.sitesearch.value="www.nasscom.org";
+			document.frm2.method="get";
+			document.frm2.action="http://www.google.com/custom";
+			document.frm2.submit()
+			return true
+		}
+		else if(document.frm2.srchsel.value=="ALL")
+		{
+			document.frm2.cof.value="S:http://www.nasscom.org;GL:0;VLC:996633;AH:left;BGC:ffffff;LH:70;LC:990033;L:http://www.nasscom.org/images/logo.gif;ALC:990033;BIMG:www.nasscom.org;LW:288;T:000000;AWFID:d099b812103bc482;";
+			document.frm2.domains.value="";
+			document.frm2.sitesearch.value="";
+			document.frm2.method="get";
+			document.frm2.action="http://www.google.com/custom";
+			document.frm2.submit()
+			return true
+		}
+}
+function vote()
+  {
+   open("vote-pop.asp","newWindow","scrollbars= no toolbar=no,location=no,width=300, height=300 top=0 left=10");
+  }
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+
+//-->
+</script>
+
+
+
+
+ 
+
+  <table width="760" border="0" cellspacing="0" cellpadding="0" bgcolor="FEF5E4">
+    <tbody><tr> 
+      <td><a href="default.asp"><img src="images/newlogo.gif" border="0"></a></td>
+      
+      <td valign="top" align="right" height="60" width="9"><img src="Images/1px.gif" width="8" height="19"></td>
+      <td align="right" height="60" width="442"> <table border="0" cellpadding="3" cellspacing="1" bgcolor="#ffcf9a">
+          <form name="frm2" id="Form1"></form>
+						<tbody><tr>
+							<td bgcolor="#FFF7E7"><strong>Search:</strong>
+						<input type="text" name="q" size="13" maxlength="255" value="" id="Text1">
+						<select name="srchsel" id="Select1">
+						 <option value="NASS">NASSCOM</option>
+						 <option value="PROD">PRODUCTS</option>
+						 <option value="SME">SME</option>
+						 <option value="ALL">ALL</option>
+						</select>
+		                <input type="image" src="images/go-red.jpg" width="29" height="17" align="absmiddle" name="sa" value="Search" onclick="javascript:return selectsitesearch()" id="Image1"> 
+		                <input type="hidden" name="cof">
+		                <input type="hidden" name="domains">
+		                <input type="hidden" name="sitesearch">
+              </td>
+            </tr>
+          
+        </tbody></table></td>
+      <td width="10" height="60">&nbsp;</td>
+    </tr>
+  </tbody></table>
+  
+  <!-- Top Tab begins -->
+  
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr bgcolor="FEF5E4">
+		<td valign="bottom">
+			<table cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td bgcolor="FEF5E4" valign="bottom"><img src="images/menu_01.gif" width="11" height="16"></td>
+					<td bgcolor="FEF5E4" valign="bottom"><img src="images/menu_01_over.gif" width="89" height="16"></td>
+					<td bgcolor="FEF5E4" valign="bottom"><img src="images/1px.gif" width="1" height="1"></td>
+					<td bgcolor="FEF5E4" valign="bottom"><a href="http://www.bpo.nasscom.org" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image68','','images/menu_02_over.gif',1)"><img name="Image68" border="0" src="images/menu_02_main.gif" width="94" height="16"></a></td>
+					<td bgcolor="FEF5E4" valign="bottom"><img src="images/1px.gif" width="1" height="1"></td>
+					<td bgcolor="FEF5E4" valign="bottom"><a href="http://www.sme.nasscom.org" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image69','','images/menu_03_over.gif',1)"><img name="Image69" border="0" src="images/menu_03_main.gif" width="98" height="16"></a></td>
+					<td bgcolor="FEF5E4" valign="bottom"><img src="images/1px.gif" width="1" height="1"></td>
+					<td bgcolor="FEF5E4" valign="bottom"><a href="http://www.products.nasscom.org" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image70','','images/menu_04_over.gif',1)"><img name="Image70" border="0" src="images/menu_04_main.gif" width="127" height="16"></a></td>
+					<td bgcolor="FEF5E4" valign="bottom"><img src="images/1px.gif" width="1" height="1"></td>
+					<!--<td bgcolor="FEF5E4"><a href="http://careervantage.nasscom.org" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image71','','images/menu_05_over.gif',1)"><img name="Image71" border="0" src="images/menu_05_main.gif" width="119" height="16"></a></td>
+					<td bgcolor="FEF5E4"><img src="images/1px.gif" width="1" height="1"></td>-->
+					<td bgcolor="FEF5E4" valign="bottom"><a href="http://www.members.nasscom.org/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image72','','images/menu_06_over.gif',1)"><img name="Image72" border="0" src="images/menu_06_main.gif" width="81" height="16"></a></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td>
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					
+					<td bgcolor="FEF5E4" valign="bottom"><img src="images/1px.gif" width="40" height="1"></td>
+					<td align="right" bgcolor="FEF5E4">
+						
+									<font size="1"><b>Welcome</b> - Guest! <br>[ <a href="siteuserDD.asp"><font size="1">Sign-In</font></a> ] [ <a href="siteuserDD.asp#new"><font size="1">New User</font></a> ]</font>
+							
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td width="10"></td>
+	</tr>
+</tbody></table>
+<!-- End of top tab   -->
+ 
+ <!-- *********************** -->
+ <table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="9A0000">
+<tbody><tr height="25"><td></td></tr></tbody></table>
+<!--
+ <table cellpadding="0" cellspacing="0" border="0" width="760">
+			<tr bgcolor="#9A1021">
+				<td colspan="2" height="25"><font color="#ffffff"><b><img src="images/1px.gif" width="12" height="8"><a href="default.asp" class="wht11pxb">Home</a>
+							| <a href="AboutUs.asp" class="wht11pxb">About us</a> | <a href="members.asp" class="wht11pxb">Membership</a>
+							| <a href="trustedsourcing.asp" class="wht11pxb">Trusted Sourcing</a> | <a href="publications.asp" class="wht11pxb">Publications</a>
+							| <a href="events.asp" class="wht11pxb">Events</a> | <a href="mediaroom.asp" class="wht11pxb">Media</a>
+							| <a href="advantageIndia.asp" class="wht11pxb">Advantage India</a> | <a href="resourcecentre.asp" class="wht11pxb">Resource 
+								Centre  </a> | <a href="contactus.asp" class="wht11pxb">Contact</a></b></font></td>
+			</tr>
+		</table>-->
+ <!-- end of sub section -->
+<!--<table width="760" border="0" cellspacing="0" cellpadding="0" bgcolor="9A0000">
+  <tr>
+    <td ><img src="images/1px.gif" width="1" height="1"></td>
+	
+  </tr>
+</table>-->
+
+  
+  <table width="760" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td width="10"><img src="../images/1px.gif" width="10" height="8"></td>
+      <td valign="absmiddle" width="170"><img src="images/hdr-txt-PrivacyPolicy.gif"></td>
+      <td width="420"> 
+        
+        <img src="../Images/1px.gif" width="10" height="8">
+      </td>
+      <td width="150"> 
+        
+      </td>
+      <td width="10"><img src="images/1px.gif" width="10"></td>
+    </tr>
+  </tbody></table>
+  <table width="760" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td width="10" height="1"><img src="images/1px.gif" width="10" height="1"></td>
+      <td height="1" background="images/dot-h.gif"><img src="images/1px.gif" width="1" height="1"></td>
+    </tr>
+  </tbody></table>
+  
+<!--- The main table begins here ---> 
+<div id="main" style="position:absolute; z-index:-1">
+<table width="760" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td width="10"><img src="images/1px.gif" width="10" border="0"></td>
+	<td valign="top"><br>
+        <strong>Privacy Policy </strong>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="FEF5E4">
+        <tbody><tr>
+          <td height="4"><img src="Images/1px.gif" width="1" height="4"></td>
+        </tr>
+      </tbody></table> 
+      
+<p>
+The issue of online privacy is extremely crucial for NASSCOM, which is committed to safeguarding  the information provided by its members and other visitors logging on to its Web site. As an  organization dedicated to creating a secure environment for e-commerce transactions in India,  NASSCOM has been actively promoting the concept of privacy and its relevance for organizations  with a cyber presence. 
+</p>
+<p>
+Respecting the privacy of its online visitors, while providing top-of-the-line services to  customers has remained the core of NASSCOM’s strategy for the Internet. Our Privacy Policy gives  visitors a view of the Privacy Practices followed by NASSCOM and assures them of safe passage  through the organization’s Web site.
+</p>
+
+<p>
+At the same time, NASSCOM would like to make it clear that its site provides links to other Web  sites that are governed by their own Privacy Policies and does not take responsibility for the  security provided by these sites. Visitors to the NASSCOM site are urged to familiarize  themselves with its Privacy Policy as well the policies of the sites with links on  www.nasscom.org , that collect personally identifiable information.
+</p>
+
+<p>
+When you provide us with your personal data, you are agreeing to the rules and regulations  stipulated under our Privacy Policy and are bound by it. If you do not agree to our Policy please  do not use the Site. 
+</p>
+
+The Privacy Policy covers the following areas:
+<ul>
+   <li>  Type of information collected through the Web site</li>
+   <li>  Choice/Opt out</li>
+<li>     Use and Disclosure of personal information</li>
+    <li> Security </li>
+</ul>
+
+<b>Type of information collected through the Web site </b>
+<p><b>
+Personal information </b><br>
+Users registering at the NASSCOM site for specific services are requested to provide some  personally identifiable information which become the property of NASSCOM and can be shared,  disclosed or distributed to third parties only in accordance with the Privacy Policy.<b> It must  be clarified here that registration is not required for visitors to the site who do not require  any specific services. </b>
+</p>
+
+
+The services that need registration include the following:
+<ul>
+<li>	participation in events</li>
+<li>	ordering a publication</li>
+<li>	downloading research reports</li>
+<li>	signing up for membership</li>
+<li>	joining our mailing lists</li>
+<li>	subscribing for NASSCOM Newsletters, i.e. NASSCOM Newsline and BPO Newsline</li>
+<li>	posting a query while seeking a service provider</li>
+</ul>
+
+<p>
+NASSCOM will not sell or rent such personally identifiable information collected. The personally  identifiable information is supplied voluntarily for some of the following purposes: 
+</p>
+
+<p><b>
+<i>Registration Data:</i> </b>If you are merely a visitor to our site, NASSCOM does not collect  any personal information about you, except to the limited extent through the use of cookies, as  described below. If you decide to use certain services offered on the site, you will be asked to  register on www.nasscom.org. During registration you will be requested to complete a registration  form setting out basic online contact information about yourself. 
+</p>
+<p><b>
+<i>Other Optional Information: </i></b> If you wish to subscribe to NASSCOM publications, NASSCOM  Newsline or BPO Newsline, you will be required to fill up certain personal information related to  your email address, name, country, age, choice of password, etc. However, for any of the other  services such as registration for membership, etc. filling up the relevant form is mandatory. 
+</p>
+
+<p><b>
+<i>Credit Card Information: </i></b> If you purchase NASSCOM publications at the Site or register  for an event, you will be required to submit your credit card details, including your name,  account number and the expiration date. The information is used for billing purposes and to  contact you if there are difficulties in processing your order. 
+</p>
+<p>
+NASSCOM uses a credit card processing company to bill users for goods and services which will not  retain, share, store or use personally identifiable information for any secondary purposes. 
+</p>
+<p><b>
+<i>E-mail information: </i></b> When we receive e-mails from you, we may retain the content of  any e-mail messages sent to us, as well as details of your e-mail address.
+</p>
+
+<p>
+<b>Use of web-based tracking mechanisms such as Cookies </b><br>
+Cookies, which enable us to store small amounts of information contained in your Web site  browser, may be used on some areas of our Website. Cookies, that help us track your navigation,  enable us to tailor our offerings to your needs. The kind of information that may be stored on a  cookie includes registration data so that a user does not need to re-enter the information every  time he/she visits a particular area.
+</p>
+<p>
+The information contained on cookies is masked to ensure your privacy and is readable only by the  servers of nasscom.com. 
+</p>
+<p><b>
+Third party Websites which are accessible from our Site via links, click-throughs or banner  advertising may use Cookies. However, it is important for us to inform you that we have no access  or control over such Cookies and do not accept responsibility with regards to them.
+</b></p>
+
+<p>
+<b>Choice/opt out </b><br>
+NASSCOM gives you the choice regarding the collection and usage of your personally identifiable  information. During registration for “joining our mailing list,” we request for contact  information in order to send bulletins and for advertising purposes. Again, it is not necessary  for you to register in order to access and use our Site. You may therefore choose to opt out of  providing such information.
+</p>
+
+<p>
+Further, once you are registered at the NASSCOM site, you will have the option at any stage to  inform us that you no longer wish to receive future e-mails and you may “unsubscribe.” 
+</p>
+
+<p>
+<b>Security</b><br>
+Access to your personal account online is password protected. We will not release your account  password to any person. In the event that you forget your password, you may generate an on-line  request for your password to be sent to you by e-mail at the e-mail address used during  registration. 
+</p>
+
+<p>
+NASSCOM has implemented stringent, internationally acceptable standards of technology and  operational security in order to protect personally identifiable information from loss, misuse,  alteration or destruction. The data resides behind a firewall, with access restricted to  authorized NASSCOM personnel. 
+</p>
+<p>
+NASSCOM cannot be held responsible for any activity in your account which results from your  failure to keep your own password secure 
+</p>
+<p><b>
+Contacting the web site</b><br>
+For questions regarding the privacy statement, practices of the site, or any other transaction  issue, please contact <a href="mailto:webmaster@nasscom.org?subject=PrivacyPolicy" "="">webmaster@nasscom.org </a>
+
+</p>      <br>
+      <br>
+    </td>
+    <td width="10"><img src="images/1px.gif" width="10" border="0"></td>
+	<td width="180" valign="top">
+	
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td height="1"><img src="images/1px.gif" width="1" height="1"></td>
+        </tr><tr>
+          <td>
+          <a href="http://www.nasscom.org/nasscom2006/"><img src="images/bnr-n2k6.jpg" border="0"></a>
+          
+  </td>
+        </tr>
+      </tbody></table>
+<br>
+	<table width="100%" border="0" cellspacing="0" cellpadding="1" bgcolor="FFCC99">
+        <tbody><tr>
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="FFFBF3">
+              <tbody><tr> 
+                
+                <td valign="top" width="100%">
+
+
+<script language="JavaScript" src="scripts/scroll_2.js">
+</script>
+<script language="JavaScript">
+
+// Define the scroller.
+ 
+     
+  // Define the scroller.
+  var i=0;
+//  x, y, width, height, border, padding
+ var arTXT = new Array('Accel Frontline Limited','Akamai Technologies India Pvt Ltd','Capco IT Services India Pvt Ltd','Cerner Healthcare Solutions Pvt Ltd','Epitome Global Services Private Limited','FXLabs Studios Private Limited','Hinditron Infosystems Private Ltd','Genesys Telecommunications Laboratories, Inc. - India Branch Office','Information Kerala Mission (A project of Centre for Development of Imaging Technology, Govt. of Kerala)','Manugistics Software Services (India) Private Limited','Microland Limited','MTech India Pvt Ltd','Network General Software India Pvt Ltd','Pune Customer Operations Pvt Ltd','Quality Engineering and Software Technologies Pvt Ltd','RailTel Corporation of India Limited','SoftPro Systems Limited','SQL STAR International Limited','Synygy India Pvt Ltd','247 Learning Solutions Pvt Ltd');
+ var arURL = new Array('http//:www.accelfrontline.in','http//:www.akamai.com','http//:www.capco.com','http//:www.cerner.com','http//:www.epitomeglobalservices.com','http//:www.faxlabs.com','http//:www.hinditron.com','http//:www.genesyslab.com','http//:www.infokerala.org','http//:www.manu.com','http//:www.microland.net','http//:www.mtechsoft.com','http//:www.networkgeneral.com','http//:www.nasscom.org','http//:www.quest-global.com','http//:www.railtelindia.com','http//:www.softprosys.com','http//:www.sqlstarintl.com','http//:www.synygyindia.com','http//:www.24x7learning.com');
+
+   </script>
+  
+ 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" dwcopytype="CopyTableRow">
+  <tbody><tr>
+    <td colspan="3" bgcolor="ffcc99"><img src="Images/member-head.gif"></td>
+  </tr>
+  <tr> 
+    <td colspan="3"> 
+      <div bgcolor="" id="level5"> 
+        <div align="center"><img id="ph1" name="ph1" src="images/1px.gif" width="160" height="60" border="0" ismap=""></div>
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+</td>
+                
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td height="1"><img src="images/1px.gif" width="1" height="1"></td>
+        </tr>
+        <tr>
+          <td><a href="CompanyFinder.asp"><img src="images/company-finder.gif" width="180" height="30" border="0"></a></td>
+        </tr>
+      </tbody></table>
+      <br>
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+        <tbody><tr> 
+         <!-- <td width="4%" valign="top"><img src="images/menu_left_blank.gif" width="10" height="1"></td>-->
+          <td colspan="2" width="90%"><img src="images/head_quick_links.gif" height="20" width="180"></td>
+          <td width="6%" valign="top"><img src="images/menu_left_blank.gif" width="10" height="1"></td>
+        </tr>
+        <tr> 
+         <!-- <td width="4%" valign="top">&nbsp;</td>-->
+          <td colspan="2" width="90%" bgcolor="#ffffff" valign="top">
+          
+ 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+          
+          
+          <!--<tr valign="top"> 
+                <td colspan="2"><img src="images/menu_left_blank.gif" width="1" height="10"></td>
+              </tr>
+            
+              <tr valign="top"> 
+                <td width="6%"><img src="images/arrow_orange_for_Li.gif" width="17" height="11"></td>
+                <td width="94%"> <a href="javascript:popup1(301)">OpportunITy Nagpur</a></td>
+              </tr>-->
+             
+
+            
+             
+
+              <tbody><tr valign="top"> 
+                <td class="red11px" colspan="2"><img src="images/menu_left_blank.gif" width="1" height="4"></td>
+              </tr>
+              
+              <tr valign="top"> 
+                <td width="6%"><img src="images/arrow_orange_for_Li.gif" width="17" height="11"></td>
+                <td width="94%"> <a href="http://www.nasscom.org/newsline" target="_blank">NASSCOM Newsline</a></td>
+              </tr>
+              <tr valign="top"> 
+                <td class="red11px" colspan="2"><img src="images/menu_left_blank.gif" width="1" height="4"></td>
+              </tr>
+              <tr valign="top"> 
+                <td width="6%"><img src="images/arrow_orange_for_Li.gif" width="17" height="11"></td>
+                <td width="94%"> <a href="http://www.nasscom.org/bponewsline" target="_blank">BPO Newsline</a></td>
+              </tr>
+			  <tr valign="top"> 
+                <td class="red11px" colspan="2"><img src="images/menu_left_blank.gif" width="1" height="4"></td>
+              </tr> <tr valign="top">
+		<td width="6%"><img height="11" src="images/arrow_orange_for_Li.gif" width="17"></td>
+				<td width="94%"><a href="http://www.nasscomfoundation.org" target="_blank">NASSCOM Foundation</a></td>
+				</tr>
+				<tr valign="top"> 
+                <td class="red11px" colspan="2"><img src="images/menu_left_blank.gif" width="1" height="4"></td>
+              </tr>
+				<tr valign="top">
+				<td width="6%"><img height="11" src="bad_home1_files/arrow_orange_for_Li.gif" width="17"></td>
+			<td width="94%"><a href="http://www.moneycontrol.com/cnbc/emergingindia" target="_blank">Emerging India Awards</a></td>
+			</tr>
+			<tr valign="top"> 
+                <td class="red11px" colspan="2"><img src="images/menu_left_blank.gif" width="1" height="4"></td>
+              </tr>
+			<tr valign="top">
+				<td width="6%"><img height="11" src="bad_home1_files/arrow_orange_for_Li.gif" width="17"></td>
+			<td width="94%"><a href="http://www.nasscom.in/artdisplay.asp?cat_id=890" target="_blank">NASSCOM BSA Certificate of Recognition</a></td>
+			</tr>	
+			<tr valign="top">
+				<td width="6%"><img height="11" src="bad_home1_files/arrow_orange_for_Li.gif" width="17"></td>
+			<td width="94%"><a href="http://www.spjimr.org" target="_blank">BhavITva-06</a></td>
+			</tr>						
+			<tr valign="top"> 
+                <td class="red11px" colspan="2"><img src="images/menu_left_blank.gif" width="1" height="4"></td>
+              </tr>		
+             
+
+
+
+              
+              <tr valign="top"> 
+                <td width="6%">&nbsp;</td>
+                <td width="94%">&nbsp;</td>
+              </tr>
+            </tbody></table></td>
+          <td width="6%" valign="top">&nbsp;</td>
+        </tr>
+        
+      </tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	<!--<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="990033" style="border-collapse: collapse" bordercolor="#111111" height="107">
+        <tr> 
+          <td width="100%" bgcolor="#FFFFFF" height="20">
+          <img src="images/hdr-quicklinks.gif" width="180" height="20" ></td>
+        </tr>
+        
+
+        <tr> 
+          <td width="100%" bgcolor="#FFFFFF" valign="top">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+            <tr> 
+          <td colspan="2"  bgcolor="#FEF5E4" bordercolor="#FFFFFF"><img src="images/1px.gif" width="1" height="10"></td>
+        </tr>
+		
+		 <tr>
+          <td width="10" bgcolor="#FEF5E4" valign="top"  bordercolor="#FFFFFF">
+          <img src="images/arrow-orange-single_new.gif" align="top" vspace="3" border="0" hspace="3"></td>
+          <td bgcolor="#FEF5E4" class="articlebody"  bordercolor="#FFFFFF"><a href="http://www.nasscom.org/nasscom2005" target="_blank">NASSCOM 2005</a></td>
+          
+            </tr>
+            
+            <tr>
+          <td width="10" bgcolor="#FEF5E4" valign="top"  bordercolor="#FFFFFF">
+          <img src="images/arrow-orange-single_new.gif" align="top" vspace="3" border="0" hspace="3"></td>
+          <td bgcolor="#FEF5E4" class="articlebody"  bordercolor="#FFFFFF"><a href="javascript:popup1(227)">IT Innovation in India</a></td>
+          
+            </tr>
+			
+			<tr>
+          <td width="10" bgcolor="#FEF5E4" valign="top"  bordercolor="#FFFFFF">
+          <img src="images/arrow-orange-single_new.gif" align="top" vspace="3" border="0" hspace="3"></td>
+          <td bgcolor="#FEF5E4" class="articlebody"  bordercolor="#FFFFFF"><a href="http://www.nasscom.org/eventdetails.asp?id=138">India - US Cybersecurity Conference </a></td>
+          
+            </tr>
+			
+			           
+
+           
+
+                  </table>
+                    
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="FEF5E4">
+<tr>
+	<td width="1"><img src="images/1px.gif" width="1" height="1"><img src="images/1px.gif" width="1" height="1"></td>
+	<td height="11" bgcolor="#FEF5E4" width="100%"><img src="images/1px.gif" width="1" height="1"></td>
+	<td width="11" align="right" ><img src="images/wedge-trans.gif" width="11" height="11"></td>
+</tr>
+<tr> 
+	<td colspan="2" height="1"><img src="images/1px.gif" width="1" height="1"></td>
+	<td width="11" height="1" bgcolor="ffffff"><img src="images/1px.gif" width="11" height="1"></td>
+</tr>
+</table>
+
+
+</td>
+        </tr>
+        
+
+      </table>-->
+
+	 
+
+          
+
+ <table width="100%" border="0" cellspacing="0" cellpadding="3">
+<tbody><tr> 
+<td width="100%"> <a href="postenquiry.asp"><img src="Images/tradeleads-banner.gif" width="175" height="60" border="0"></a></td>
+</tr>
+</tbody></table>   
+
+ 
+   
+
+	</td>
+	<td width="10"><img src="images/1px.gif" width="10" border="0"></td>    
+</tr></tbody></table>
+
+  <table width="760" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" id="Table1">
+   <tbody><tr><td><br></td></tr>
+    <tr> 
+      <td height="5" colspan="4" bgcolor="#9a1021"><img src="images/1px.gif" width="1" height="1"></td>
+    </tr>
+    <tr> 
+      <td class="black10px" height="10" colspan="4"><img src="images/1px.gif" width="1" height="10"></td>
+    </tr>
+    <tr> 
+      <td width="10" class="black10px">&nbsp;</td>
+      <td class="grey11px"> <a href="MemberLogin.asp" class="greyLink10px">NASSCOM Member 
+        Login</a> | 
+        <a href="sitemap.asp" class="greyLink10px">Site map</a> | 
+        <a href="Contactus.asp" class="greyLink10px">Contact us</a> | <a href="mailto:webmaster@nasscom.org?subject=Feedback" class="greyLink10px">Feedback</a> 
+        | <a href="Advertise.asp" class="greyLink10px">Advertise</a> | <a href="terms.asp" class="greyLink10px">Terms of use</a> | <a href="Privacypolicy.asp" class="greyLink10px">Privacy policy 
+</a> | <a href="useful.asp" class="greyLink10px">Useful Links 
+</a></td>
+      <td class="grey11px" rowspan="2"><a href="http://www.nasscom.org/advantageIndia.asp" target="_blank"><img src="Images/footer_logo_india_is_IT.gif" border="0"></a></td>
+	  <td class="grey11px" rowspan="2"><a href="http://www.nasscom.org/trustedsourcing.asp" target="_blank"><img src="Images/footer_logo_trustedSourcing.gif" border="0"></a></td>
+    </tr>
+    <tr> 
+      <td width="10" class="blue10px">&nbsp;</td>
+      <td class="grey10pxb" colspan="3"><font color="#666666">Copyright © 2005, National Association of Software 
+        &amp; Service Companies</font>
+         </td>
+    </tr>
+    <tr> 
+      <td class="black10px" height="10" colspan="4"><img src="images/1px.gif" width="1" height="10"></td>
+    </tr>
+    <tr>
+ <td width="10" class="blue10px">&nbsp;</td>
+ <!-- <td >       powered by <a href="http://www.iwoodapple.com/" target="_blank" ><font color="#666666"><b><u>woodapple</u></b></font></a></td>-->
+ <td><br></td>
+ </tr>
+<tr><td><br></td></tr>
+  </tbody></table>
+
+
+</div><div id="bnr" style="position: absolute; overflow: hidden; top: 182px; left: 580px; width: 150px; height: 60px;"><div id="msg19" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.24x7learning.com">247 Learning Solutions Pvt Ltd</a></div><div id="msg18" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.synygyindia.com">Synygy India Pvt Ltd</a></div><div id="msg17" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.sqlstarintl.com">SQL STAR International Limited</a></div><div id="msg16" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.softprosys.com">SoftPro Systems Limited</a></div><div id="msg15" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.railtelindia.com">RailTel Corporation of India Limited</a></div><div id="msg14" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.quest-global.com">Quality Engineering and Software Technologies Pvt Ltd</a></div><div id="msg13" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.nasscom.org">Pune Customer Operations Pvt Ltd</a></div><div id="msg12" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.networkgeneral.com">Network General Software India Pvt Ltd</a></div><div id="msg11" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.mtechsoft.com">MTech India Pvt Ltd</a></div><div id="msg10" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.microland.net">Microland Limited</a></div><div id="msg9" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.manu.com">Manugistics Software Services (India) Private Limited</a></div><div id="msg8" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.infokerala.org">Information Kerala Mission (A project of Centre for Development of Imaging Technology, Govt. of Kerala)</a></div><div id="msg7" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.genesyslab.com">Genesys Telecommunications Laboratories, Inc. - India Branch Office</a></div><div id="msg6" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.hinditron.com">Hinditron Infosystems Private Ltd</a></div><div id="msg5" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.faxlabs.com">FXLabs Studios Private Limited</a></div><div id="msg4" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.epitomeglobalservices.com">Epitome Global Services Private Limited</a></div><div id="msg3" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.cerner.com">Cerner Healthcare Solutions Pvt Ltd</a></div><div id="msg2" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.capco.com">Capco IT Services India Pvt Ltd</a></div><div id="msg1" style="position: absolute; visibility: hidden; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.akamai.com">Akamai Technologies India Pvt Ltd</a></div><div id="msg0" style="position: absolute; visibility: visible; overflow: hidden; top: 1px; left: 1px; width: 149px;"><a target="_blank" class="scrolltext" href="http//:www.accelfrontline.in">Accel Frontline Limited</a></div></div></body></html>
