@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizfilings.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528074320id_/http%3A//www.bizfilings.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizfilings.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210083710id_/http%3A//bizfilings.com/privacy.htm) for the most accurate reproduction.*
 
 # Online Incorporation - Business Filings Incorporated Privacy Policy
 
@@ -12,11 +12,9 @@ Additionally, Business Filings will not sell, rent, or trade any personal inform
 
 **E-mail Updates and Newsletter**
 
-Customers and website visitors may opt-in to receive Business Filings’ electronic newsletter, The Best Ideas in Business. Business Filings uses a double opt-in procedure to confirm subscriptions requests are valid. Subscribers may choose to opt-out at any time. To opt-out, simply click the Unsubscribe button, which is found both at the top and bottom of the electronic newsletter, or send a blank email to [newsletter@bizfilings.com](mailto:%20newsletter@bizfilings.com). 
+Business Filings Incorporated may occasionally notify you of new services and special offers via e-mail updates. If you would rather not receive any updates from us, please send a request to be removed from our e-mail update list to [info@bizfilings.com](mailto:%20info@bizfilings.com). 
 
-Customers and website visitors may also opt-in to receive special offer emails, which are only sent from Business Filings. Such emails may include announcements of new product or service offerings from Business Filings or promotions from Business Filings’ partners.
-
-**Business Filings values your privacy,** and promises never to sell or rent your email address for your lifetime. 
+Customers who order Business Filings' Complete Formation Service will receive our online newsletter "The Best Ideas in Business". You may opt-out of receiving this email at any time after your first issue is received.
 
 **Identifiable Information**
 
