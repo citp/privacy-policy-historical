@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2005-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050524170003id_/http%3A//www.rsc.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210191501id_/http%3A//rsc.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -10,7 +10,7 @@ The RSC collects personal data when your register or update your personal detail
 
 You can correct or update your personal data using the appropriate online form, by contacting the RSC using the email address on an online form, or if you are not sure whom to contact by emailing webmaster.
 
-The RSC takes care to protect the data it collects about site users, using Secure Site License-approved technology where appropriate. Pages that use this technology are flagged with the symbol opposite. 
+The RSC takes care to protect the data it collects about site users, using Secure Site License-approved technology where appropriate. Pages that use this technology are flagged with a padlock symbol as shown. 
 
 A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
 
@@ -20,7 +20,7 @@ The RSC uses several types of cookie on its websites:  ** _Session Cookies_** a
 
   * To allow you to carry information across pages of our site and avoid having to re-enter information;
   * To allow you to maintain a shopping basket;
-  * Within registration to allow you to access stored information.  
+  * Within registration to allow you to access stored information.   
 
 
 
@@ -28,7 +28,7 @@ The RSC uses several types of cookie on its websites:  ** _Session Cookies_** a
 
   * To help us recognise you as a unique visitor (just a number) when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly;
   * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way;
-  * Within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so.  
+  * Within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so.   
 
 
 
@@ -38,7 +38,7 @@ The RSC uses several types of cookie on its websites:  ** _Session Cookies_** a
   * To control how often you are shown a particular advertisement;
   * To tailor content to your preferences;
   * To count the number of anonymous users of our sites;
-  * To provide security within shopping baskets, e.g. to pay for a membership subscription or a journal pay-per-view.  
+  * To provide security within shopping baskets, e.g. to pay for a membership subscription or a journal pay-per-view.   
 
 
 
