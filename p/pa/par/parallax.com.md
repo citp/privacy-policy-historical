@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parallax.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305062713id_/http%3A//www.parallax.com/html_pages/company/policies/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parallax.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210174221id_/http%3A//www.parallax.com/html_pages/company/policies/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,5 +42,4 @@ Rocklin, CA 95765
 USA
 
 Telephone: (916) 624-8333 or (888) 512-1024 (US only)  
-Fax: (916) 624-8003  
-Email: [info@parallax.com](mailto:info@parallax.com)
+Fax: (916) 624-8003
