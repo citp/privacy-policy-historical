@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisingpower.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405160753id_/http%3A//www.cruisingpower.com/USP/General/PrivacyPolicy.asp%3Fs%3DE21D1CE306%26br%3Dundefined%26agnm%3Dundefined) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisingpower.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210094954id_/http%3A//www.cruisingpower.com/USP/General/PrivacyPolicy.asp%3Fs%3D2104F02B86) for the most accurate reproduction.*
 
 # Privacy Policy
 
