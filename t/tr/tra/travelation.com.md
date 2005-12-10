@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelation.com privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627005225id_/http%3A//www.travelation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelation.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210183445id_/http%3A//www.travelation.com/privacy.html) for the most accurate reproduction.*
 
-# Travelation - Customer Care
+# Discount Airfare and Cheap Tickets | Travelation
 
 Travelation understands that making a purchase online involves a great deal of trust on your part. Your trust is extremely important to us and as such, we make it our highest priority to ensure that we have implemented information handling practices consistent with the highest standards and best practices of organizations currently doing business on the Internet. 
 
@@ -62,4 +62,4 @@ Travelation is committed to safeguarding your personal and confidential informat
 
 **Contact Us.**
 
-If you have any questions or concerns about this policy or our information handling practices, you may contact our Chief Privacy Officer at [privacy@travelation.com](mailto:privacy@Travelation.com). We will attempt to respond to your questions or concerns within two (2) business days after we receive them. 
+If you have any questions or concerns about this policy or our information handling practices, you may contact our Chief Privacy Officer at [privacy@travelation.com](mailto:privacy@travelation.com). We will attempt to respond to your questions or concerns within two (2) business days after we receive them. 
