@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305132749id_/http%3A//www.drivers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210050929id_/http%3A//www.drivers.com/privacy.php) for the most accurate reproduction.*
 
 # Drivers.com: Privacy Statement
 
