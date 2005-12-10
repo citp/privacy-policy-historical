@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1stsitefree.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303084953id_/http%3A//www.1stsitefree.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stsitefree.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210050102id_/http%3A//1stsitefree.com/privacy.htm) for the most accurate reproduction.*
 
 # 1st Site Free - Privacy Policy Statement
 
@@ -26,4 +26,4 @@ Please contact those vendors and others directly if you have any questions about
 
 For any other information email [webmaster](mailto:billgreen@1stsitefree.com)
 
-[Do You Need Help?](https://web.archive.org/web/20050303084953id_/http%3A//www.1stsitefree.com/help.htm) Don't be shy, if you have questions or need help creating your Website, just ask me. I work cheap -- free. The only dumb question is the one not asked!
+[Do You Need Help?](https://web.archive.org/web/20051210050102id_/http%3A//1stsitefree.com/help.htm) Don't be shy, if you have questions or need help creating your Website, just ask me. I work cheap -- free. The only dumb question is the one not asked!
