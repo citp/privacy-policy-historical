@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksontape.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602211704id_/http%3A//www.booksontape.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksontape.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210055012id_/http%3A//www.booksontape.com/privacy.cfm) for the most accurate reproduction.*
 
 # Booksontape.com : Privacy Policy
 
@@ -81,19 +81,17 @@ We ensure that your personal data will not be disclosed to State institutions an
   
 You can ask us, by: 
 
-  * sending an email (botcs@booksontape.com) 
+  * sending an email (botcs@randomhouse.com) 
   * visiting this url (<https://www.booksontape.com/account/index.cfm>) 
   * sending postal mail to this address (P.O. Box 25122, Santa Ana, CA 92799-5122) 
-  * calling this telephone number (1-800-626-3333) 
 
 whether we are keeping personal data about you. 
 
 Upon request, which you can indicate by: 
 
-  * sending an email (botcs@booksontape.com) 
+  * sending an email (botcs@randomhouse.com) 
   * visiting this url (<https://www.booksontape.com/account/index.cfm>) 
   * sending postal mail to this address (P.O. Box 25122, Santa Ana, CA 92799-5122) 
-  * calling this telephone number (1-800-626-3333) 
 
 We will provide you with a readable copy of the personal data which we keep about you, although we may before require proof of your identity. We will provide the information without any charge. 
 
