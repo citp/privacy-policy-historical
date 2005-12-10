@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computing.co.uk privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625024935id_/http%3A//www.computing.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computing.co.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210071542id_/http%3A//www.computing.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Computing - About - Policy
 
@@ -34,7 +34,7 @@ Information collected from site visitors
 
 This statement discloses the privacy policy for the VNU network of sites, which encompasses the following URLs: 
 
-[http://www.accountancyage.com](http://www.accountancyage.com/), [http://www.computeractive.co.uk](http://www.computeractive.co.uk/), [http://www.computercontractor.co.uk](http://www.computercontractor.co.uk/), [http://www.computing.co.uk](http://www.computing.co.uk/), [http://www.financialdirector.co.uk](http://www.financialdirector.co.uk/), [http://www.infomaticsonline.co.uk](http://www.infomaticsonline.co.uk/), [http://www.itweek.co.uk](http://www.itweek.co.uk/), [http://www.iwr.co.uk](http://www.iwr.co.uk/), [http://www.managementconsultancy.co.uk](http://www.managementconsultancy.co.uk/), [http://www.networknews.co.uk](http://www.networknews.co.uk/), [http://www.pcmag.co.uk](http://www.pcmag.co.uk/), [http://www.pcw.co.uk](http://www.pcw.co.uk/), [http://www.vnunet.com](http://www.vnunet.com/), [http://www.vnuservices.co.uk](http://www.vnuservices.co.uk/), [http://www.webactivemagazine.co.uk](http://www.webactivemagazine.co.uk/)   
+[http://www.accountancyage.com](http://www.accountancyage.com/), [http://www.accountancyagejobs.com](http://www.accountancyagejobs.com/), [http://www.activehome.co.uk](http://www.activehome.co.uk/), [http://www.computeractive.co.uk](http://www.computeractive.co.uk/), [http://www.computercontractor.co.uk](http://www.computercontractor.co.uk/), [http://www.computing.co.uk](http://www.computing.co.uk/), [http://www.computingcareers.co.uk](http://www.computingcareers.co.uk/), [http://www.financialdirector.co.uk](http://www.financialdirector.co.uk/), [http://www.infomaticsonline.co.uk](http://www.infomaticsonline.co.uk/), [http://www.itweek.co.uk](http://www.itweek.co.uk/), [http://www.iwr.co.uk](http://www.iwr.co.uk/), [http://www.managementconsultancy.co.uk](http://www.managementconsultancy.co.uk/), [http://www.networknews.co.uk](http://www.networknews.co.uk/), [http://www.pcmag.co.uk](http://www.pcmag.co.uk/), [http://www.pcw.co.uk](http://www.pcw.co.uk/), [http://www.vnunet.com](http://www.vnunet.com/), [http://www.vnuservices.co.uk](http://www.vnuservices.co.uk/), [http://www.webactivemagazine.co.uk](http://www.webactivemagazine.co.uk/)   
 and subdomains of these websites. 
 
 This statement does not extend to sites that are linked to VNU sites but which are not part of the VNU network. You should refer to those sites for further details about their use of your personal information. 
@@ -51,4 +51,4 @@ VNU is not responsible for the content or the privacy policies of third party we
 
 VNU reserves the right to change this privacy policy at any time by posting changes on this page. It is your responsibility to refer to this privacy policy on accessing this site. VNU will however draw your attention to any material changes to this privacy policy by placing a notice on the site.
 
-If you have any general questions or wish to report a technical error, please contact Matthew Gerry, [feedback@vnunet.com](mailto:feedback@vnunet.com)
+If you have any general questions or wish to report a technical error, please visit [Feedback](https://web.archive.org/feedback/).
