@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404220508id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210172059id_/http%3A//xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
 
 # XML.com: O'Reilly & Associates, Inc. Privacy Policy
 
@@ -17,9 +17,11 @@
 [Web](http://www.xml.com/web/)  
 [Web Services](http://webservices.xml.com/)  
   
+
+
+Sponsored By
+
   
-
-
     
 [Annotated XML](https://web.archive.org/pub/a/axml/axmlintro.html)  
 [What is XML?](https://web.archive.org/pub/a/98/10/guide0.html)  
@@ -30,18 +32,18 @@
 [What is XQuery?](https://web.archive.org/pub/a/2002/10/16/xquery.html)  
 [What is RDF?](https://web.archive.org/pub/a/2001/01/24/rdf.html)  
 [What is RSS?](https://web.archive.org/pub/a/2002/12/18/dive-into-xml.html)  
+[What is AJAX?](http://www.xml.com/pub/a/2005/02/09/xml-http-request.html)  
 [What are Topic Maps?](https://web.archive.org/pub/a/2002/09/11/topicmaps.html)  
 [What are Web Services?](http://webservices.xml.com/pub/a/ws/2001/04/04/webservices/index.html)  
 [What are XForms?](https://web.archive.org/pub/a/2001/09/05/xforms.html)  
 [XSLT Recipe of the Day](http://www.xml.com/cookbooks/xsltckbk/solution.csp?day=1)
 
-[Manage Your Account](http://www.xml.com/cs/user/login)  
-[Forgot Your Password?](http://www.xml.com/cs/user/lostpw)
+[Article Archive](https://web.archive.org/pub/a/archive/)  
 
-[ ](https://web.archive.org/pub/a/2001/03/21/xml_com_feed.html)
 
    
 [<taglines/>](https://web.archive.org/pub/at/20)  
+[Agile Web](https://web.archive.org/pub/at/39)  
 [Dive into XML](https://web.archive.org/pub/at/25)  
 [Hacking Congress](https://web.archive.org/pub/at/33)  
 [Hacking the Library](https://web.archive.org/pub/at/30)  
@@ -55,24 +57,10 @@
 [Standards Lowdown](https://web.archive.org/pub/at/31)  
 [The Restful Web](https://web.archive.org/pub/at/34)  
 [Transforming XML](https://web.archive.org/pub/at/16)  
+[XML Annoyances](https://web.archive.org/pub/at/38)  
 [XML Q&A](https://web.archive.org/pub/at/13)  
 [XML Tourist](https://web.archive.org/pub/at/32)  
 [XML-Deviant](https://web.archive.org/pub/at/17)  
-
-
-   
-  
-[Syntax Checker](https://web.archive.org/pub/a/tools/ruwf/check.html)
-
-  
-
-
-[](http://www.oreillynet.com/meerkat/?_fl=atom&t=ALL&c=47)  
-[](http://www.oreillynet.com/meerkat/?_fl=rss10&t=ALL&c=47)
-
-Traveling to a Tech Show?
-
-  
 
 
 |  February 06, 2001  
@@ -137,5 +125,6 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 
 |  |    
 Sponsored By:  
+  
   
 
