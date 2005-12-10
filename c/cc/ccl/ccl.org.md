@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603014315id_/http%3A//www.ccl.org/CCLCommerce/utilities/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210035831id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx%3FpageId%3D1007) for the most accurate reproduction.*
 
 # Center for Creative Leadership - Privacy Commitment
 
-Privacy Commitment
-
-The Center for Creative Leadership is committed to respecting and protecting the privacy of our constituents. CCL subscribes to the American Psychological Association’s code of ethics regarding the use of an individual’s personal data for research; this code is particularly concerned with protecting the rights of the person. In addition, our policies are guided by the U.S. Department of Commerce’s "safe harbor" principles covering data privacy for residents of the European Union. In fact, we strive to extend these more stringent data privacy protections to all Center clients, wherever they reside.
+The Center for Creative Leadership is committed to respecting and protecting the privacy of our constituents. CCL subscribes to the American Psychological Association's code of ethics regarding the use of an individual's personal data for research; this code is particularly concerned with protecting the rights of the person. In addition, our policies are guided by the U.S. Department of Commerce's "safe harbor" principles covering data privacy for residents of the European Union. In fact, we strive to extend these more stringent data privacy protections to all Center clients, wherever they reside.
 
 We do not rent or sell information about you to any outside organizations. Also, we limit the information we collect from you to the minimum necessary to provide outstanding service. All financial information you give us is kept secure.
 
@@ -22,7 +20,7 @@ By providing personal and organizational information to CCL, you agree that the 
 We will not disclose your personal information to third parties except:
 
   * as necessary to fulfill your order(s) for our goods and services and to validate your payment details; 
-  * to subsidiaries or other companies within CCL’s network.
+  * to subsidiaries or other companies within CCL's network.
 
 
 
@@ -43,18 +41,18 @@ We provide constituents the opportunity to opt-out of receiving communications f
 
 
 
-To remove your email address from our electronic newsletters, please visit the [Subscription Management page](https://web.archive.org/CCLCommerce/news/newsletters/managesubscriptions.aspx).
+To remove your email address from our electronic newsletters, please visit the [Subscription Management page](https://web.archive.org/leadership/secure/profile/subscriptionForm.aspx?pageId=1199).
 
 * * *
 
 **Products, Programs and Assessments**  
-The personal and organizational information we collect is used to improve the quality of leadership and to provide essential feedback to participants. For specific details on our security commitment for assessment data, please refer to the ["CCL Privacy Commitment for Assessment Data"](https://web.archive.org/CCLCommerce/utilities/privacyData.aspx). For information on program participant user confidentiality, please refer to the [CCL Privacy Commitment for Program Participants"](https://web.archive.org/CCLCommerce/utilities/privacyProgram.aspx).
+The personal and organizational information we collect is used to improve the quality of leadership and to provide essential feedback to participants. For specific details on our security commitment for assessment data, please refer to the ["CCL Privacy Commitment for Assessment Data"](https://web.archive.org/leadership/utilities/privacyData.aspx). For information on program participant user confidentiality, please refer to the [CCL Privacy Commitment for Program Participants"](https://web.archive.org/leadership/utilities/privacyProgram.aspx).
 
 * * *
 
 **Web-based Submissions**
 
-The following discloses our information gathering and dissemination practices for the Center’s Web site: [http://www.ccl.org](http://www.ccl.org/). By providing us with personal data through our web site, you agree that we may use that data to render requested services and provide you information on new programs, products, services and offerings. People who we contact are provided with a means of updating their information or informing CCL that they would not like to receive such information through the "opt-out" process detailed below. 
+The following discloses our information gathering and dissemination practices for the Center's Web site: [http://www.ccl.org](http://www.ccl.org/). By providing us with personal data through our web site, you agree that we may use that data to render requested services and provide you information on new programs, products, services and offerings. People who we contact are provided with a means of updating their information or informing CCL that they would not like to receive such information through the "opt-out" process detailed below. 
 
 **Forms**
 
@@ -134,7 +132,7 @@ Greensboro, NC 27438-6300
 
 
 
-To remove your email address from our electronic newsletters, please visit the [Subscription Management page](https://web.archive.org/CCLCommerce/news/newsletters/managesubscriptions.aspx).
+To remove your email address from our electronic newsletters, please visit the [Subscription Management page](https://web.archive.org/leadership/secure/profile/subscriptionForm.aspx?pageId=1199).
 
 **Correct/Update**  
 This site gives users the following three options for changing and modifying information previously provided.
