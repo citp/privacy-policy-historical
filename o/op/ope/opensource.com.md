@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opensource.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217065615id_/http%3A//www.opensource.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensource.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210175823id_/http%3A//www.opensource.com/apps/redirect.apm/legal/privacy_statement.html%3Frhpage%3D/index.html/home_footer%2A%2A) for the most accurate reproduction.*
 
-# redhat.com |
+# redhat.com | Privacy Statement
 
 ## Privacy Statement Table of Contents
 
@@ -155,6 +155,6 @@ Red Hat will work with you to resolve any concerns you may have about this State
 
 ### Changes to this Privacy Statement
 
-Red Hat reserves the right to change this policy from time to time. If we do make changes, the revised Privacy Statement will be posted on this site.
+Red Hat reserves the right to change this policy from time to time. If we do make changes, the revised Privacy Statement will be posted on this site. A notice will be posted on our homepage for 30 days whenever this privacy statement is changed in a material way.
 
-This Privacy Statement was last amended on August 4, 2004.
+This Privacy Statement was last amended on July 7, 2005.
