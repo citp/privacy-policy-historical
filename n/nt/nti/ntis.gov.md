@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403210637id_/http%3A//www.ntis.gov/about/policies.asp%3Floc%3D6-6-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210195556id_/http%3A//www.ntis.gov/about/policies.asp%3Floc%3D6-6-0) for the most accurate reproduction.*
 
 # Policies
 
