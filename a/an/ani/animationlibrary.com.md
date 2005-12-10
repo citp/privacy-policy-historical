@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animationlibrary.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527221354id_/http%3A//www.animationlibrary.com/a-l/%3Fn%3Dprivacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animationlibrary.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210040401id_/http%3A//www.animationlibrary.com/a-l/%3Fn%3Dprivacy.php3) for the most accurate reproduction.*
 
 # Animation Library - Thousands of FREE Animations
 
@@ -6,7 +6,7 @@ Animation Library is deeply committed to protecting the privacy of our users. Be
 
 While you surf Animation Library, we do not collect any personal information about you or your computer. The only cases when such information is collected is when you subscribe to Animation Library newsletter, register for the site or send a digital postcard.
 
-If you want to start creating your own animations, then we have just what you need. Our [Animation Tutorial](https://web.archive.org/web/20050527221354id_/http%3A//www.animationlibrary.com/a-l/%3Fn%3Dprivacy.php3?n=Tutorial1.php3) contains simple, easy to understand instructions that will have you making great looking animations in no time at all. 
+If you want to start creating your own animations, then we have just what you need. Our [Animation Tutorial](https://web.archive.org/web/20051210040401id_/http%3A//www.animationlibrary.com/a-l/%3Fn%3Dprivacy.php3?n=Tutorial1.php3) contains simple, easy to understand instructions that will have you making great looking animations in no time at all. 
 
 When you subscribe to the newsletter using the form on the sidebar of this and other pages on Animation Library, your email address is added to a special secure file and you are automatically subscribed to Animaiton Library's monthly newsletter. Animation Library does not sell the email addresses on our list and we only use this list to send monthly newsletters as well as an occasional special mailing containing important news about Animation Library. You can opt-out from our mailing list at any time by following the link in the newsletter.
 
