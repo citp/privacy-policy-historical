@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oldnational.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305174735id_/http%3A//www.oldnational.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldnational.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210184056id_/https%3A//www.oldnational.com/privacy.asp) for the most accurate reproduction.*
 
 # Old National Privacy Policy
 
   
 **What does this Privacy Policy cover?**  
-Our concern for safekeeping your personal information goes far beyond this document. Our Privacy Policy covers the practices of all affiliates within the Old National family* - including our banking, insurance, investment and financial planning, asset management and trust service companies. It appies to all personally identifiable information about you that is obtain by Old National ("personal information"). At any time you decide to close your account or become an inactive customer, we will continue to adhere to the procedures described in this notice and any proper opt-out requests you make. This Privacy Policy also serves as our Privacy notice. This Privacy Policy also contains important information about your choices in relation to certain information sharing and marketing offers within the Old National family of companies. You should be sure to review carefully the "Sharing Information Within Old National" section and your ability to opt out as set forth in this policy.
+Our concern for safekeeping your personal information goes far beyond this document. Our Privacy Policy covers the practices of all affiliates within the Old National family* - including our banking, insurance, investment and financial planning, asset management and trust service companies. It applies to all personally identifiable information about you that is obtain by Old National ("personal information"). At any time you decide to close your account or become an inactive customer, we will continue to adhere to the procedures described in this notice and any proper opt-out requests you make. This Privacy Policy also serves as our Privacy notice. This Privacy Policy also contains important information about your choices in relation to certain information sharing and marketing offers within the Old National family of companies. You should be sure to review carefully the "Sharing Information Within Old National" section and your ability to opt out as set forth in this policy.
 
 **Recognition of a Customer's Expectation of Privacy**   
 You regard your personal information as yours, and so do we. Because we do not sell or share your information with third parties not associated with services or activities of Old National (except as allowed by law), there is no need for you to tell us not to share your private information with non-affiliated third parties.
@@ -56,18 +56,18 @@ Additionally, unless you tell us not to as described below, we may also share ot
 
 **Notice of Your Opportunity to Opt Out of Certain Information Sharing and Marketing Within the Old National Family of Companies.**
 
-If you prefer that we not share non-experience information about you within the Old National family of companies, you may opt out; that is, you may direct us not to share this information by calling us toll-free at 1-800-731-2265.
+If you prefer that we not share non-experience information about you within the Old National family of companies, you may opt out; that is, you may direct us not to share this information by calling us toll-free at 1-800-731-2265 option 0 then option 2.
 
 Note: Your opt out decision in the above paragraph covers certain information about you that we might otherwise share with our corporate family. However, we may share other types of information about you as permitted by law.
 
-You may also limit members of the Old National family of companies from marketing their products or services to you based on information that is shared with them by other Old National companies, such as your income, your account history with us, and your credit score, by calling us toll-free at 1-800-731-2265.
+You may also limit members of the Old National family of companies from marketing their products or services to you based on information that is shared with them by other Old National companies, such as your income, your account history with us, and your credit score, by calling us toll-free at 1-800-731-2265 option 0 then option 2.
 
 Note: Your opt out decision in the above paragraph does not apply in certain circumstances, such as if you currently do business with one of our affiliates or if you ask to receive information or offers from them.
 
 Your decision to opt out will continue until it is revoked by you. For any accounts or loans that you hold jointly with another person, your opt out direction will apply to all of the associated joint account holders.
 
 **USA Patriot Act**  
-To help the government fight the funding of terrorism and money laundering activities, the USA Patriot Act requires all financial institutions to obtain, verify, and record information that identifies each person (including business entities) who opens an account. What this means for you: When you open an account, we will ask for your name, physical address, date of birth, tax payer identification number and other information that will allow us to identify you. We may also ask to see your driver's license or other identifying docuements. We will let you know if additional information is required.
+To help the government fight the funding of terrorism and money laundering activities, the USA Patriot Act requires all financial institutions to obtain, verify, and record information that identifies each person (including business entities) who opens an account. What this means for you: When you open an account, we will ask for your name, physical address, date of birth, tax payer identification number and other information that will allow us to identify you. We may also ask to see your driver's license or other identifying documents. We will let you know if additional information is required.
 
 **Protecting what’s yours.**  
 Personal. Confidential. Private. You share information about yourself in the highest expectation that every fact and figure will remain safe, secure, in your control—and well you should. You own your information as surely as you own a home, a car or the money in your bank account. Be assured Old National regards it exactly the same way.
