@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the daytondailynews.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012074148id_/http%3A//www.daytondailynews.com/service/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytondailynews.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210081120id_/http%3A//www.daytondailynews.com/service/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**PRIVACY POLICY**
 
 LAST UPDATED: February 11, 2004 
 
 We care about your privacy. We will not sell your name or email address to any third party advertisers without your permission. **Please read our privacy policy below for further details.**
 
-daytondailynews.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Dayton Newspapers, Inc., d/b/a Cox Ohio Publishing ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our General Manager:
+DaytonDailyNews.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Dayton Newspapers, Inc., d/b/a Cox Ohio Publishing ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our General Manager:
 
 Kevin Riley  
 Dayton Daily News  
