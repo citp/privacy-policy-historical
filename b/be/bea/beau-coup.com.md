@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beau-coup.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404222442id_/http%3A//www.beau-coup.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beau-coup.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210092318id_/http%3A//www.beau-coup.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Beaucoup Wedding Favors Security & Privacy Policy
 
