@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realsexdates.com privacy policy that was archived on 2005-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050510025207id_/http%3A//www.realsexdates.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realsexdates.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210191319id_/http%3A//realsexdates.com/support/privacy.htm) for the most accurate reproduction.*
 
 # SexDates Affiliate Center | SexDate Network
 
@@ -11,4 +11,4 @@ We do not collect any customer information. Please see our payment processor's P
 
 > This notice applies to all information collected or submitted on All of SexDates Websites  
   
-SexDates Support Center  |  [SexDates Family of Sites](http://www.sexdatenetwork.com/)  | [Anti-Spam Policy](https://web.archive.org/web/20050510025207id_/http%3A//www.realsexdates.com/support/antispam.htm)  |  [ Privacy Policy](https://web.archive.org/web/20050510025207id_/http%3A//www.realsexdates.com/support/privacy.htm)  |  [ 18 U.S.C. 2257](https://web.archive.org/web/20050510025207id_/http%3A//www.realsexdates.com/support/complience.htm)  |  [ Terms Of Service](https://web.archive.org/web/20050510025207id_/http%3A//www.realsexdates.com/support/terms.htm "Terms Of Service")
+SexDates Support Center  |  [SexDates Family of Sites](http://www.sexdatenetwork.com/)  | [Anti-Spam Policy](https://web.archive.org/web/20051210191319id_/http%3A//realsexdates.com/support/antispam.htm)  |  [ Privacy Policy](https://web.archive.org/web/20051210191319id_/http%3A//realsexdates.com/support/privacy.htm)  |  [ 18 U.S.C. 2257](https://web.archive.org/web/20051210191319id_/http%3A//realsexdates.com/support/complience.htm)  |  [ Terms Of Service](https://web.archive.org/web/20051210191319id_/http%3A//realsexdates.com/support/terms.htm "Terms Of Service")
