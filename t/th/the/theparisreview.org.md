@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theparisreview.org privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206211533id_/http%3A//www.theparisreview.org/page.php/prmID/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theparisreview.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210095030id_/http%3A//theparisreview.org/page.php/prmID/13) for the most accurate reproduction.*
 
 # The Paris Review - Privacy Policy
 
@@ -71,10 +71,10 @@ postmaster@theparisreview.org
 
 Or, write to our Postmaster at:  
 The Paris Review Foundation  
-541 East 72nd Street  
-New York, NY 10021  
+62 White Street  
+New York, NY 10013  
 Attn: Postmaster
 
 **BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
 
-Last updated: November 18, 2004 
+Last updated: July 6, 2005 
