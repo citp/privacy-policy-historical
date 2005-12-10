@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebodyshop.co.uk privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402130135id_/http%3A//www.uk.thebodyshop.com/web/tbsuk/legal_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodyshop.co.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210171857id_/http%3A//www.uk.thebodyshop.com/web/tbsuk/legal_privacy.jsp) for the most accurate reproduction.*
 
 # The Body Shop
 
