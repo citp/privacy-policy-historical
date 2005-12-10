@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614071218id_/http%3A//www.acu.edu.au/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210125024id_/http%3A//www.acu.edu.au/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - ACU National Website
 
