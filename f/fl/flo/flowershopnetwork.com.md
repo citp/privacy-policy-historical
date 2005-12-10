@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the flowershopnetwork.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418035325id_/http%3A//www.flowershopnetwork.com/pages/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowershopnetwork.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210070248id_/http%3A//www.flowershopnetwork.com/pages/policies.php) for the most accurate reproduction.*
 
 # Flower Shop Network Privacy Policy
 
 |    
   
   
-| [Flower Tips](https://web.archive.org/pages/tips/)  
----  
-Supply detailed information when ordering flowers.  
   
   
-  
+|    
 **Flower Shop Network's Privacy Policy**
 
 * * *
@@ -39,4 +36,6 @@ Flower Shop Network will only send personal information about you to others when
 
 **Changes to this Privacy Policy**
 
-Flower Shop Network may amend this policy from time to time. Flower Shop Network will prominently display on this website any substantial change in the way we use your personal information. 
+Flower Shop Network may amend this policy from time to time. Flower Shop Network will prominently display on this website any substantial change in the way we use your personal information.   
+  
+---|---
