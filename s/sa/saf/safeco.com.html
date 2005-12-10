@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the safeco.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403160147id_/http%3A//www.safeco.com/legal/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the safeco.com privacy policy that was archived on 2005-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210192343id_/http%3A//safeco.com/legal/default.asp) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript">
 
@@ -212,24 +212,26 @@ a  {
 	a.footer{
 	font-family : Arial, Helvetica, sans-serif;
 	font-size : 10px;
-	color : #9D9FA2;
+	color : black;
 	}
 	
-	#footer{
+	.footer{
 	font-family : Arial, Helvetica, sans-serif;
 	font-size : 10px;
-	color : #9D9FA2;
-	padding-bottom:9px;
-	padding-top:9px;
-	margin-top:9px;
-	margin-bottom:9px;
-	text-align : center;
+	color : black;	 	
 	}
+	
+	#verisign{	 
+	vertical-align : top;
+	padding-right:20px;
+	margin-right:20px;
+   }
+	 
 	
 	 #legalfooter{
 	font-family : Arial, Helvetica, sans-serif;
 	font-size : 10px;
-	color : #9D9FA2;
+	color : black;
 	padding-bottom:9px;	
 	margin-top:9px;
 	margin-bottom:9px;
@@ -313,8 +315,8 @@ a.activetablink:hover{color:white;text-decoration:none;font-size:11px;font-weigh
 
 -->
 </style>
- 
-
+  
+<!-- End style.inc -->
 
 <!--
 Updated: 2/3/05 jengro
@@ -348,9 +350,8 @@ using our ASP variables. These are the CSS files located in the style folder.
 			<a class="graylink" href="/safeco/default.asp">Home</a>&nbsp;&nbsp;
 			<a class="graylink" href="/safeco/contact/default.asp">Contact</a>&nbsp;&nbsp;
 			<a class="graylink" href="/safeco/site_help/sitemap.asp">Site Map</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<input id="searchstring" name="SearchString" type="text" value="Search" onmousedown="this.value='';">
+			<input id="searchstring" name="SearchString" type="text" value="Search" onmousedown="this.value='';" maxlength="50">
 			<input type="image" name="imageSubmit" src="/safeco/images/go_button.gif" height="21" width="21" alt="Search" align="top" title="Search">	
-			<input type="hidden" name="HTMLQueryForm" value="/safeco/default.asp"> <!--this is for the Search Again link on results page - delete?-->
 			</form>
 		</td>
 	</tr>
@@ -367,8 +368,8 @@ using our ASP variables. These are the CSS files located in the style folder.
 		<td onclick="window.location='https://customer.safeco.com/login.asp'" onmouseout="window.status=''" onmouseover="window.status='https://customer.safeco.com/login.asp'" class="tabs">
 			<a class="tablink" href="https://customer.safeco.com/login.asp">Account<br>Services</a>
 		</td>		
-		<td onclick="window.location='/safeco/get_a_quote/default.asp'" onmouseout="window.status=''" onmouseover="window.status='http://' + location.hostname + '/safeco/get_a_quote/default.asp'" class="tabs">
-			<a class="tablink" href="/safeco/get_a_quote/default.asp">Get a<br>Quote</a>
+		<td onclick="window.location='https://quote.safeco.com/consumer/auto/vplaunch.aspx?dc=SA10VP02'" onmouseout="window.status=''" onmouseover="window.status='https://quote.safeco.com/consumer/auto/vplaunch.aspx?dc=SA10VP02'" class="tabs">
+			<a class="tablink" href="https://quote.safeco.com/consumer/auto/vplaunch.aspx?dc=SA10VP02">Get a<br>Quote</a>
 		</td>
 		<td onclick="window.location='/safeco/find_an_agent/default.asp'" onmouseout="window.status=''" onmouseover="window.status='http://' + location.hostname + '/safeco/find_an_agent/default.asp'" class="tabs">
 			<a class="tablink" href="/safeco/find_an_agent/default.asp">Find an<br>Agent</a>
@@ -407,7 +408,7 @@ using our ASP variables. These are the CSS files located in the style folder.
     <tr> 		
       <td id="leftNavSides"><!-- leftnav.inc -->
  
-<div class="leftNavShim"><a class="nav" href="/safeco/legal/default.asp">Consumer Privacy Policy</a></div>
+<div class="navBold">Consumer Privacy Policy</div>
 <div class="leftNavShim"><a class="nav" href="/safeco/legal/licensing.asp">Insurer Licensing Information</a></div>
 <div class="leftNavShim"><a class="nav" href="/safeco/legal/copyright.asp">Legal Information</a></div>
 </td>
@@ -564,7 +565,7 @@ using our ASP variables. These are the CSS files located in the style folder.
 <!-- footer.inc --> 
 
 
-<table width="775" border="0" cellspacing="0" cellpadding="0">
+<table width="775" border="0" cellspacing="0" cellpadding="0" align="center">
    <tbody><tr>
        <td id="footerShim">&nbsp;</td>
  </tr> 
@@ -574,11 +575,28 @@ using our ASP variables. These are the CSS files located in the style folder.
 </tr>
 
 <tr>
-<td id="footer">
-<a href="/safeco/about_safeco/default.asp" class="footer">About Us</a>&nbsp;|&nbsp;<a href="/safeco/in_the_community/default.asp" class="footer">In the Community</a>&nbsp;|&nbsp;<a href="/safeco/claims/default.asp" class="footer">Claims</a>&nbsp;|&nbsp;<a href="/safeco/for_agents/default.asp" class="footer">For Agents</a>&nbsp;|&nbsp;<a href="/safeco/legal/default.asp" class="footer">Privacy Policy</a>&nbsp;|&nbsp;  
+<td valign="top" id="footer"> 
+
+<table cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+	<td valign="top" id="verisign"> 
+	
+	
+ 
+<script src="https://seal.verisign.com/getseal?host_name=www.safeco.com&amp;size=S&amp;use_flash=No&amp;use_transparent=YES&amp;lang=en"></script>
+
+
+
+</td> 
+<td class="footer"> <a href="/safeco/about_safeco/default.asp" class="footer">About Us</a>&nbsp;|&nbsp;<a href="/safeco/in_the_community/default.asp" class="footer">In the Community</a>&nbsp;|&nbsp;<a href="/safeco/claims/default.asp" class="footer">Claims</a>&nbsp;|&nbsp;<a href="/safeco/for_agents/default.asp" class="footer">For Agents</a>&nbsp;|&nbsp;<a href="/safeco/legal/default.asp" class="footer">Privacy Policy</a>&nbsp;|&nbsp;  
 <a href="/safeco/legal/licensing.asp" class="footer">Insurer Licensing Information</a><br>
 <a href="/safeco/legal/copyright.asp" class="footer">Copyright</a>  © 2000–2005  Safeco Insurance Companies.  All Rights Reserved. 
 <a href="/safeco/site_help/default.asp" class="footer">Site Help</a><br>Safeco, the Safeco logo, and Uncomplicate are registered trademarks of Safeco Corporation
+</td>
+</tr>
+</tbody></table>
+
+
  </td>
 </tr>
 
