@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snehatv.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404161623id_/http%3A//www.snehatv.com/htmlcontrol.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snehatv.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210191622id_/http%3A//snehatv.com/htmlcontrol.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Welcome - Sneha TV
 
