@@ -1,242 +1,561 @@
-<!--The following is the downloaded HTML source of the buffzone.com privacy policy that was archived on 2002-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601143335id_/http%3A//www.thedailycamera.com/aboutus/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buffzone.com privacy policy that was archived on 2005-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210143735id_/http%3A//web.dailycamera.com/useragreement/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
-<title>The Daily Camera: About Us</title>
-<meta name="description" content="Daily coverage of the Boulder County region">
-<meta name="keywords" content="Daily Camera, newspaper, Boulder, Colorado, news, headlines, stories, BoulderNews, Broomfield, JonBenet Ramsey, Ramsey, JonBenet, University of Colorado, CU, Buffs, Columbine, community, weather, get out, recreation, hiking, skiing, Bolder, sports, business, opinion, forum, chat">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="Expires" content="Fri, 01 Jan 99 00:00:01 GMT">
+		<title>The Daily Camera: News</title>
+		
 <meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Window-target" content="_top">
-<meta http-equiv="Cache-Control" content="no-cache">
-<meta http-equiv="Last-Modified" content="Fri, 01 Jan 99 00:00:01 GMT">
-<meta http-equiv="REFRESH" content="1200">
-<base target="_top">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-<script language="javascript">
-<!--
-function MakeArray(n) {
- this.length = n
- return this
+		<link rel="stylesheet" href="http://www.dailycamera.com/bdc/cda/styles/sections">
+		<script language="JavaScript">
+
+function popup(url,w,h,menu) {
+	x = Math.floor((screen.width - w) / 2);
+	y = Math.floor((screen.height - h) / 2);        
+	now = new Date();
+	features = "screenx="+x+",screeny="+y+",left="+x+",top="+y+",width="+w+",height="+h+",location=no,resizable=yes"+",directories=no,status=no,scrollbars=yes";
+
+	if (menu != null) {
+		//features += ",menubar=yes,toolbar=yes,scrollbars=yes";
+		features += ",menubar=yes,toolbar=yes";
+	} else {
+		//features += ",menubar=no,toolbar=no,scrollbars=no"; 
+		features += ",menubar=no,toolbar=no"; 
+	}
+	window.open(url,"newwin",features);
 }
-monthNames = new MakeArray(12)
-monthNames[1] = "January"
-monthNames[2] = "February"
-monthNames[3] = "March"
-monthNames[4] = "April"
-monthNames[5] = "May"
-monthNames[6] = "June"
-monthNames[7] = "July"
-monthNames[8] = "August"
-monthNames[9] = "September"
-monthNames[10] = "October"
-monthNames[11] = "November"
-monthNames[12] = "December"
-// -->
-</script>
 
-<script language="javascript">
-<!---
-function DateToday(datetoday) {
-   var theMonth = monthNames[datetoday.getMonth() + 1]
-   var theYear = datetoday.getYear()
-   if (theYear < 1000) {
-      theYear=theYear+1900
+
+function MM_reloadPage(init) {  
+  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {
+    if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+     document.MM_pgW=innerWidth; 
+	 document.MM_pgH=innerHeight;
+	 onresize=MM_reloadPage; 
+    }
+  } else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH)
+    location.reload();
+}
+
+// for Netscape thisdomain = www.scripps.com
+// for other browser thisdomain = scripps.com
+
+thisdomain = document.location + "";
+thisdomain = thisdomain.substring(thisdomain.indexOf('//')+2,thisdomain.length);
+thisdomain = thisdomain.substring(0,thisdomain.indexOf('/'));
+thisdomain = (navigator.appName != "Netscape")? thisdomain.substring(thisdomain.indexOf('.')+1,thisdomain.length): thisdomain;
+
+
+
+function getCookieVal (offset) {
+	var endstr = document.cookie.indexOf(';',offset);
+	if (endstr == -1) {
+		endstr = document.cookie.length;
+	}
+	return unescape(document.cookie.substring(offset,endstr))
+}
+
+
+function SetCookie (name, value, expires, path, domain, secure) {
+	document.cookie = name + "=" + escape (value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+} 
+
+
+function GetCookie (name) {
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+
+	while (i < clen) {
+		var j = i + alen;
+		if (document.cookie.substring(i,j) == arg) {
+			return getCookieVal(j);
+		}
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i==0) break;
+	}
+	return null;  
+}
+
+
+function DeleteCookie (name, path, domain) {
+   if (GetCookie(name)) {
+    document.cookie = name + "=" + ((path) ? "; path=" + path : "") +  ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
    }
-   return theMonth + " " + datetoday.getDate() + ", " + theYear
 }
 
-// -->
+
+function FixCookieDate (date) { 
+	var base = new Date(0); 
+	var skew = base.getTime();
+	if(skew > 0)
+		date.setTime (date.getTime() - skew);     
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function vod (url,streamtitle,customfeatures) {
+	windowFeatures = 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=210,height=480';
+
+	//Browser Detection
+	var browser = "";
+	var browsername = navigator.appName;
+	var browserversion = parseInt(navigator.appVersion);
+	var browserplatform = navigator.userAgent;
+	if (browsername == "Netscape") {
+		browser = "ns" + browserversion;
+	} else {
+		if (browsername == "Microsoft Internet Explorer") {
+			if (browserversion >= 4) {
+				browser = "ie" + browserversion;
+			} else {
+				browser = "ie3";
+			}
+		}
+	}
+
+	if ((customfeatures) && customfeatures != '') {
+		windowFeatures = customfeatures;
+	}
+
+	if (url.indexOf(".rm",(url.length-10)) != -1) {
+		if (browser != 'ie3') {
+			hasplugin = 'false';
+			// Mac Browser (Not Netscape)
+			if ( (browserplatform.indexOf('Mac') !=-1) && ( browsername != "Netscape")) {
+				numPlugins = 0;
+				// Real Strange never goes into the followinf loop
+				// because numPlugins is 0
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.embeds[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			} else {
+				numPlugins = navigator.plugins.length;
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.plugins[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			}
+			if (browser.substring(0,2) == 'ie') {
+				hasplugin = 'true';
+			}
+			if (hasplugin == 'true') {
+				videoWin = window.open (url , 'video', windowFeatures);
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+				videoWin.document.close();              
+			} else {
+				stream = url.substring(0,(url.length-5));
+				location.href=stream + '.ram';
+			}
+		} else {
+			videoWin = window.open (url , 'video', windowFeatures);
+			if (document.images) {
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+			}
+			videoWin.document.close();                      
+		}               
+	} else {
+		videoWin = window.open (url , 'video', windowFeatures);
+		if (document.images) {
+			if (streamtitle != '') {
+				videoWin.streamtitle=streamtitle;
+			}
+		}
+		videoWin.document.close();
+	}
+}
 </script>
 
-</head>
-<body bgcolor="#FFFFFF" background="../graphics/background.gif" text="#000000" vlink="#006600" link="#003300" alink="#FFFFFF" leftmargin="3" marginwidth="3" topmargin="3" marginheight="3">
-<div align="CENTER">
+		
+		<script type="text/javascript" src="http://www.dailycamera.com/bdc/jslib/0,2306,,00.js"></script>		
+		
+		
+		
+		
+		<script type="text/javascript">
+		<!--
+		// Prevent others from including this site
+		var preview = 'no'
+		if (preview != 'yes') {
+			if (top != self) {
+				top.location = location;
+			}
+		}
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-<tbody><tr><td bgcolor="#000000" colspan="2">
-<table border="0" cellpadding="2" align="center">
-<tbody><tr><td rowspan="3">
-<a href="http://www.thedailycamera.com/ads/coupons/index.html"><img src="http://www.thedailycamera.com/graphics/bucksicon.gif" width="85" height="60" alt="Boulder County Bucks"></a>
-</td><td rowspan="3">
-<!-- AdSpace -->
-<iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="000000" src="http://adcenter.scripps.com/html.ng/site=BOU&amp;size=468x60&amp;sitesection=general&amp;keyword=front&amp;pagepos=10">
+		MM_reloadPage(true);
 
-      <SCRIPT LANGUAGE="JavaScript1.1"
-SRC="http://adcenter.scripps.com/js.ng/Params.richmedia=yes&site=BOU&size=468x60&sitesection=general&keyword=front&pagepos=10">
+		if (GetCookie('cookieChk') == null) { 
+			var expdate = new Date ();
 
-      </SCRIPT>
-      <NOSCRIPT>
-<A
-HREF="http://adcenter.scripps.com/click.ng/Params.richmedia=yes&site=BOU&size=468x60&sitesection=general&keyword=front&pagepos=10"><IMG
-SRC="http://adcenter.scripps.com/image.ng/Params.richmedia=yes&site=BOU&size=468x60&sitesection=general&keyword=front&pagepos=10"></A>
+			// Correct for Mac date bug - call only once for given Date object!
+			FixCookieDate (expdate); 
 
-      </NOSCRIPT>
-</iframe>
-<!-- /AdSpace -->
-</td>
+			// expires 30 days from now
+			expdate.setTime (expdate.getTime() + (30 * 24 * 60 * 60 * 1000)); 
+			SetCookie ('cookieChk', 'OK', expdate, '/', thisdomain, null);
+		}
+		// -->
+		</script>
+		</head><body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#333366">
+
+		<!-- AppTap Nov. 19, 2004 -->
+<script src="http://apptap.dailycamera.com/apptap3?site=BDC&amp;app=webdot"></script>
+   	<script>apptap();</script>
+		
+
+	
+	<!-- Vignette V/5 Wed Jan 07 08:57:40 2004 -->
+
+	<table width="760" height="122" cellpadding="0" cellspacing="0" border="0" align="" bgcolor=""><tbody><tr><td><table width="760" height="100" cellpadding="0" cellspacing="0" border="0" align="" bgcolor="" background="http://www.dailycamera.com/bdc/images/headers/header_news.gif"><tbody><tr><td>
+		    <table width="760" cellpadding="0" cellspacing="0" border="0" align="" background=""><tbody><tr><td width="272" height="100"><img src="http://www.dailycamera.com/bdc/images/spacers/spacer.gif" width="1" height="1" border="0"></td><td width="478" height="100" valign="middle" align="left">
+			<table width="468" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" height="60" align="right">
+			<tbody><tr><td valign="top" align="center">
+			<!-- AdSpace adsize=468x60 pos.1 -->
+			<iframe width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/adsize=468x60&amp;site=BDC&amp;vgncontent=NEWS&amp;pagetype=ARTICLE_DETAIL&amp;PagePos=1">
+			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=BDC&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=468x60&PagePos=1'>
+			</script>
+			<noscript>
+			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=BDC&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=468x60&PagePos=1'>
+			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=BDC&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=468x60&PagePos=1' border=0></a>
+			</noscript>
+			</iframe>
+			<!-- /AdSpace --></td>
+			</tr>
+			</tbody></table></td> <!-- Proc:getHorizCtntStack MaxSize (1) --></tr><!-- MaxSize (1) --></tbody></table></td></tr></tbody></table></td><!-- Proc:getHorizCtntStack MaxSize (1) --></tr><tr class="navbarbgcolor"><td width="760" height="22" valign="middle" align="center" class="navbartext2"><a href="http://www.dailycamera.com/bdc/home/0,1713,BDC_2396,00.html" class="navbartext2">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.dailycamera.com/bdc/news/0,1713,BDC_2397,00.html" class="navbartext2">News</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.dailycamera.com/bdc/sports/0,1713,BDC_2398,00.html" class="navbartext2">Sports</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.dailycamera.com/bdc/buffzone/0,1713,BDC_2399,00.html" class="navbartext2">Buffzone</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.dailycamera.com/bdc/business/0,1713,BDC_2400,00.html" class="navbartext2">Business</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.dailycamera.com/bdc/opinion/0,1713,BDC_2401,00.html" class="navbartext2">Opinion</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.dailycamera.com/bdc/entertainment/0,1713,BDC_2402,00.html" class="navbartext2">Entertainment</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.dailycamera.com/bdc/lifestyles/0,1713,BDC_2520,00.html" class="navbartext2">Lifestyles</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.dailycamera.com/bdc/recreation/0,1713,BDC_2403,00.html" class="navbartext2">Recreation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://cfapps.thedailycamera.com/community" class="navbartext2">Community</a><!-- MaxSize (10) --></td><!-- Proc:getHorizCtntStack MaxSize (1) --></tr><!-- MaxSize (2) --></tbody></table><!-- BEGIN TABLE FOR CONTENT AREA -->
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+
+	
+	<!-- BEGIN CELL FOR LEFT SIDE CONTENT -->
+				
+	<td width="160" valign="top" class="lnbbgcolor">
+		
+		<!-- Vignette V6 Tue Nov 09 06:03:45 2004 -->
+
+	<table width="160" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td><table width="160" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td><script language="JavaScript" src="http://cfapps.thedailycamera.com/templates/includes/local_lnb.js">
+</script>	<p>
+
+<table width="154" align="center" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td bgcolor="#336699" class="navbartext2">&nbsp;updates</td></tr>
+<tr>
+<td class="smalltext">
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="35">
+<tbody><tr>
 <td>
-<a href="http://www.thedailycamera.com/aboutus/advertisers.html"><font face="helvetica,arial,sans-serif" size="-2" color="#FFFFFF">Advertiser List</font></a></td></tr>
-<tr><td>
-<a href="http://www.thedailycamera.com/aboutus/advertise.html"><font face="helvetica,arial,sans-serif" size="-2" color="#FFFFFF">Advertise</font></a>
-</td></tr>
-<tr><td>
-<a href="http://www.thedailycamera.com/aboutus/subscribe.html"><font face="helvetica,arial,sans-serif" size="-2" color="#FFFFFF">Subscribe</font></a>
-</td></tr>
-</tbody></table>
+<img src="http://web.dailycamera.com/graphics/email.gif" width="32" height="18" alt="E-mail" border="0">
 </td>
+</tr>
+</tbody></table>
+<span class="relatedlink">» E-mail updates</span><br clear="all">
+&nbsp;• Have DailyCamera.com &nbsp;headlines delivered to your &nbsp;inbox. <a class="lnbarchive" href="http://cfapps.thedailycamera.com/email_push/index.cfm"><b>Click here</b></a> for more details or to sign up or change your subscriptions now.<p>
+</p></td>
 </tr>
 <tr>
-<td align="LEFT" valign="BOTTOM" bgcolor="#FFFFFF" colspan="2">
-<img src="../graphics/aboutus_flag.gif" width="600" height="50" alt="ABOUT US" border="0"></td></tr>
-<tr><td valign="TOP" align="RIGHT" bgcolor="#636363" width="450"><img src="../graphics/greybar.gif" width="450" height="13" border="0" alt="www.TheDailyCamera.com"></td><td bgcolor="#636363" align="right"><font face="helvetica,arial,sans serif" color="#ffffff" size="-2"><b>
-<script language="javascript">
-
-<!--
- document.write(DateToday(new Date()))
-// -->
-
-</script>January 31, 2020&nbsp;</b></font></td></tr></tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-<tbody><tr><td align="RIGHT" valign="TOP" width="124" rowspan="2">
-<img src="../navs/homenav.gif" width="124" height="344" alt="Navigation" usemap="#homenavmap" border="0"> 
-<map name="homenavmap">
-<area shape="rect" coords="0,318,123,343" href="../search" alt="Search">
-<area shape="rect" coords="0,296,123,317" href="../search/contents.html" alt="Table of Contents">
-<area shape="rect" coords="0,274,123,296" href="../weather" alt="Weather">
-<area shape="rect" coords="0,254,123,273" href="../community" alt="Community">
-<area shape="rect" coords="0,231,123,251" href="../food" alt="Food">
-<area shape="rect" coords="0,210,122,231" href="../healthfitness" alt="Health and Fitness">
-<area shape="rect" coords="0,189,122,209" href="../recreation" alt="Recreation">
-<area shape="rect" coords="0,168,123,188" href="../entertainment" alt="Entertainment">
-<area shape="rect" coords="0,147,123,167" href="../livingarts" alt="Living and Arts">
-<area shape="rect" coords="0,127,124,147" href="../opinion" alt="Opinion">
-<area shape="rect" coords="0,105,123,125" href="../science" alt="Science">
-<area shape="rect" coords="0,83,123,104" href="../business" alt="Business">
-<area shape="rect" coords="0,64,123,84" href="../buffzone" alt="BuffZone">
-<area shape="rect" coords="0,42,123,62" href="../sports" alt="Sports">
-<area shape="rect" coords="0,21,123,42" href="../news" alt="News">
-<area shape="rect" coords="0,0,123,20" href="http://www.thedailycamera.com" alt="The Daily Camera's Front Page">
-</map>
-<p>
-
-<!---------begin sidebar----------->
-
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="BOTTOM" align="RIGHT" height="23"><img src="../graphics/resources.gif" width="124" height="23" border="0" alt="Resources"></td></tr><tr><td bgcolor="#FFFFFF">
-<table border="0" cellpadding="2"><tbody><tr><td bgcolor="#FFFFFF">
-
-<font face="arial,helvetica" size="-2">
-<b>
-- <a href="../extra/ramsey"><b>Ramsey Archive</b></a><br>
-- <a href="../extra/chase"><b>Susannah Chase</b></a><br>
-- <a href="../extra/lynx"><b>Return of the Lynx</b></a><br>
-- <a href="../extra/prairiedog"><b>Prairie Dogs</b></a><br>
-- <a href="../extra/election99"><b>Election 1999</b></a><br>
-- <a href="../extra/payroll"><b>Public Payroll</b></a>
-</b></font><p><font face="arial,helvetica" size="-2"><b>
-- <a href="http://www.infospace.com/ews2.bould/redirs_all.htm?pgtarg=funltr&amp;QS=co"><b>Lottery Results</b></a><br>
-- <a href="../community/obituaries.shtml"><b>Obituaries</b></a><br>
-- <a href="http://www.infospace.com/ews2.bould/redirs_all.htm?pgtarg=ylwi">Yellow Pages</a><br>
-</b>
-</font>
-</p></td></tr></tbody></table>
-</td></tr><tr><td valign="TOP" align="RIGHT" height="35"><img src="../graphics/sidebarbottom.gif" alt="" width="124" height="16" border="0"></td></tr></tbody></table></p><p>
-
-<!--------begin extra--------------->
-
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="BOTTOM" align="RIGHT"><img src="../graphics/extra.gif" width="124" height="23" border="0" alt="Extra: "></td></tr><tr><td bgcolor="#FFFFFF"><!-- AdSpace -->
-<iframe width="124" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="000000" src="http://adcenter.scripps.com/html.ng/site=BOU&amp;size=124x90&amp;sitesection=extra&amp;keyword=front&amp;pagepos=15">
-
-      <SCRIPT LANGUAGE="JavaScript1.1"
-SRC="http://adcenter.scripps.com/js.ng/Params.richmedia=yes&site=BOU&size=124x90&sitesection=extra&keyword=front&pagepos=15">
-
-      </SCRIPT>
-      <NOSCRIPT>
-<A
-HREF="http://adcenter.scripps.com/click.ng/Params.richmedia=yes&site=BOU&size=124x90&sitesection=extra&keyword=front&pagepos=15"><IMG
-SRC="http://adcenter.scripps.com/image.ng/Params.richmedia=yes&site=BOU&size=124x90&sitesection=extra&keyword=front&pagepos=15"></A>
-
-      </NOSCRIPT>
-</iframe>
-<!-- /AdSpace --></td></tr><tr><td valign="TOP" align="RIGHT"><img src="../graphics/sidebarbottom.gif" alt="" width="124" height="16" border="0"></td></tr></tbody></table>
-</p><p>
-
-<!---------end sidebar------------->
-
-</p></td><td rowspan="2"><img src="http://www.thedailycamera.com/graphics/one.gif" width="1" height="1" alt=""></td>
-<td valign="TOP" bgcolor="#FFFFFF" rowspan="2">
+<td class="navbartext2" bgcolor="#336699">&nbsp;tips
+</td>
+</tr> 
+<tr>
+<td bgcolor="#cccccc" class="smalltext">
+Have a news tip for us? Email the <a href="mailto:newsroom@dailycamera.com" class="lnbarchive">city desk</a>.<p>
+</p></td></tr>
+<tr>
+<td class="navbartext2" bgcolor="336699">&nbsp;meth
+</td>
+</tr> 
+<tr>
+<td bgcolor="#cccccc" class="smalltext">
 <div align="center">
-<table border="0" width="95%" align="CENTER">
-<tbody><tr><td colspan="2">
-<!----------begin user agreement----->
- 
-<b><font face="Arial, Helvetica, sans-serif" size="+2">Privacy Policy</font></b>
-<p>
-<font face="Arial, Helvetica, sans-serif" size="-1">
-</font></p><p><font face="Arial, Helvetica, sans-serif" size="-1">The purpose of our policy is to inform you about the types of information we gather about you when you visit our sites, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information that you provide to us.
-
-</font></p><p><font face="Arial, Helvetica, sans-serif" size="-1">Our sites may contain links to other web sites, including web sites directed to children.  We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites.  You should check the applicable privacy policy of the web site sponsor when linking to other web sites.  
-
-</font></p><p><font face="Arial, Helvetica, sans-serif" size="-1">Our sites may also contain forums, bulletin boards, chat rooms, and discussion groups in which other individuals may post information that invades the privacy of another person.  We have no control over the privacy practices or the content of posts made by individuals not employed by The Daily Camera, and we take no responsibility for such posts.
-
-</font></p><p align="CENTER"><font face="Arial, Helvetica, sans-serif" size="-1"><b>I.	Information Which We Collect</b></font></p><font face="Arial, Helvetica, sans-serif" size="-1">
-
-<p>	We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games.  If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information.</p>
-
-<p>	Like many other commercial sites, our sites may utilize a standard technology called a "cookie" to collect information about how our site is used.  Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site.  <b>A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address.</b>  Our web sites may use cookies to enhance your visit.  Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart."  Our cookies may collect your domain name and track your selections through our web pages.  We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent.</p>
-
-<p>	We also use cookies in connection with our chat rooms in order to record your preferences.  These cookies store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms.  No additional identifying information is stored on these cookies.  You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site.</p>
-
-<p>	We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site.  For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features.  We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics. </p>
-
-<p>	In addition, users may complete a subscription form online in order to subscribe to the Daily Camera.  To subscribe, users must submit personal information in order for us to send the newspaper to you.  </p>
-
-<p align="CENTER"><b>II.	Use of User Information</b></p>
-
-<p>	We may perform statistical analyses of aggregate user behavior.  This allows us to measure relative consumer interest in the various areas of our web sites for product development purposes. Any information we collect is used for its own internal purposes to improve the content of the web sites, to enhance users' experiences when visiting our sites, to customize the content and/or layout of our pages, and to provide the services required by an individual user.  We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested.  We never send e-mail to you unless you request a particular service, or consent to being contacted by e-mail.  There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent</p>
-
-<p align="CENTER"><b>III.	Disclosure to Third Parties</b></p>
-
-<p>	We do not share personal identifying information with any third party without your permission unless required to do so by law or to prevent harm to the The Daily Camera.  We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners.  In some instances, we operate shared web sites with businesses affiliated with us.  Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission.  PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.</p>
-
-<p align="CENTER"><b>IV.	Accuracy of User Information</b></p>
-
-<p>	In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time.  Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to <a href="mailto:webmaster@thedailycamera.com">webmaster@thedailycamera.com</a>, or you can reach us by telephone at (303)473-1440.  You can also write us at:</p>
-<blockquote>
-Daily Camera<br>
-PO Box 591<br>
-Boulder, CO 80306<br>
-</blockquote>
-<p>	These privacy policies are effective as of January 25, 1999.  We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect.</p>
-
-<p align="CENTER"><b>V.	Security of Information</b></p>
-
-<p>	We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it.</p>
-
-<p align="CENTER"><b>VI.	Opting-out</b></p>
-
-<p>	At any time while assessing our sites, any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our sites).  For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above. </p>
+<a href="http://web.dailycamera.com/time_bomb/index.html" target="new" onclick="window.open('','new','height=540,width=630,scrollbars=yes,resizable=no');"><img src="http://web.dailycamera.com/time_bomb/time_bomb_sm.gif" alt="time bomb" hspace="1" border="0" width="120" height="100"></a><br>
+</div>A look at meth and its destructive effects on a local couple. <a href="http://web.dailycamera.com/time_bomb/index.html" target="new" onclick="window.open('','new','height=540,width=630,scrollbars=yes,resizable=no');" class="lnbarchive">Read it</a>.<p>
+</p></td></tr>
+<tr>
+<td class="navbartext2" bgcolor="336699">&nbsp;calendars
+</td>
+</tr> 
+<tr>
+<td class="lnbarchive" bgcolor="#cccccc">
+<img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://cfapps.thedailycamera.com/Calendar/BrowseByTopic.cfm?SubTopic_ID=Topic5" class="lnbarchive">Arts/Entertainment</a><br>
+<img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://cfapps.thedailycamera.com/Calendar/BrowseByTopic.cfm?SubTopic_ID=Topic3" class="lnbarchive">Business</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://cfapps.thedailycamera.com/Briefcase/" class="lnbarchive">- Briefcase</a><br>
+<img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://cfapps.thedailycamera.com/Calendar/BrowseByTopic.cfm?SubTopic_ID=Topic6" class="lnbarchive">Community</a><br>
+<img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://cfapps.thedailycamera.com/Calendar/BrowseByTopic.cfm?SubTopic_ID=Topic1" class="lnbarchive">Outdoors</a><br>
+<img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://cfapps.thedailycamera.com/Calendar/BrowseByTopic.cfm?SubTopic_ID=Topic2" class="lnbarchive">Religion</a><br>
+<img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://cfapps.thedailycamera.com/Calendar/BrowseByTopic.cfm?SubTopic_ID=Topic8" class="lnbarchive">Schools</a><br>
+<img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://cfapps.thedailycamera.com/Calendar/Submit/" class="lnbarchive">Submit an event</a><br>
+<img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://cfapps.thedailycamera.com/Calendar/" class="lnbarchive">Today's events</a><br>
+</td>
+</tr>
+</tbody></table>	<!-- MaxSize (1) --></p></td></tr></tbody></table><p>
+			<table width="148" border="0" cellspacing="0" cellpadding="3" align="center">
+			<tbody><tr>
+				<td valign="top">
+					<span class="bodytext"><b>Previous News</b></span><br>
+					<img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://www.dailycamera.com/bdc/archive/0,1713,BDC_2397_47861_11-08-2004,00.html" class="lnbarchive">Monday, Nov 8</a><br><img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://www.dailycamera.com/bdc/archive/0,1713,BDC_2397_47861_11-07-2004,00.html" class="lnbarchive">Sunday, Nov 7</a><br><img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://www.dailycamera.com/bdc/archive/0,1713,BDC_2397_47861_11-06-2004,00.html" class="lnbarchive">Saturday, Nov 6</a><br><img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://www.dailycamera.com/bdc/archive/0,1713,BDC_2397_47861_11-05-2004,00.html" class="lnbarchive">Friday, Nov 5</a><br><img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://www.dailycamera.com/bdc/archive/0,1713,BDC_2397_47861_11-04-2004,00.html" class="lnbarchive">Thursday, Nov 4</a><br><img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://www.dailycamera.com/bdc/archive/0,1713,BDC_2397_47861_11-03-2004,00.html" class="lnbarchive">Wednesday, Nov 3</a><br><img src="http://www.dailycamera.com/bdc/images/nav/lnb_bullet.gif" width="3" height="3" vspace="3" border="0" hspace="3"><a href="http://www.dailycamera.com/bdc/archive/0,1713,BDC_2397_47861_11-02-2004,00.html" class="lnbarchive">Tuesday, Nov 2</a><br>
+				</td>
+			</tr>
+			</tbody></table><!-- MaxSize (2) --></p></td></tr></tbody></table> </td>
+	 <!-- END OF CELL FOR LEFT SIDE CONTENT -->
 
 
-<p align="CENTER"><b>VII.	Use of Materials</b></p>
+	<!-- BEGIN CELL FOR CONTENT AREA -->
+	
+	<td width="440" valign="top">
+		<table width="440" border="0" cellspacing="0" cellpadding="12">
+        	<tbody><tr valign="top">
+				<td class="abstracttext" valign="top">
+											    
+						<!-- Vignette V/5 Wed Sep 04 08:49:01 2002 -->
 
+	
+				<table width="416" border="0" cellspacing="0" cellpadding="0" align="center">
+					<tbody><tr valign="top"> 
+						<td class="bodytext">
+			<table border="0" cellspacing="0" cellpadding="3">
+				<tbody><tr>
+					<td class="deeplinks">
+				<a href='javascript:popup("/cr/cda/article_print/1,1250,BDC_2397_1180813,00.html",700,500,1)' class="deeplinks" onmouseover="self.status=&quot;Print this story&quot;;return true" onmouseout="self.status=&quot;&quot;;return true">PRINT THIS STORY</a> | 
+				<a href='javascript:popup("/cr/cda/email/article/1,1249,BDC_2397_1180813,00.html",400,350)' class="deeplinks" onmouseover="self.status=&quot;E-mail this story&quot;;return true" onmouseout="self.status=&quot;&quot;;return true">E-MAIL THIS STORY</a>
+					</td>
+				</tr>
+			</tbody></table><br><span class="headline1">Privacy Policy</span><p><span class="smalltext"><b>May 31, 2002</b></span></p><p><span class="bodytext">The purpose of our policy is to inform you about the types of information we gather about you when you visit our sites, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information that you provide to us. 
 
-<p>The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited.  Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at <a href="mailto:webmaster@thedailycamera.com">webmaster@thedailycamera.com</a>.  To read the full Terms of Use Agreement pertaining to use of our sites, please <a href="user.html">click here</a>.</p>
-<p>
- </p><hr>
-              <!-------begin copyright-------> <font face="Helvetica, Arial, Sans Serif" size="-2">Copyright 
-              2002 The Daily Camera. All rights reserved. Any copying, redistribution, 
-              or retransmission of any of the contents of this service without 
-              the express written consent of The Daily Camera is expressly prohibited.</font></font></td>
-            <!-------end copyright---------> </tr>
-        </tbody></table>
-</div></td>
+</span></p><p>Our sites may contain links to other web sites, including web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the web site sponsor when linking to other web sites. 
+
+</p><p>Our sites may also contain forums, bulletin boards, chat rooms, and discussion groups in which other individuals may post information that invades the privacy of another person. We have no control over the privacy practices or the content of posts made by individuals not employed by The Daily Camera, and we take no responsibility for such posts. 
+
+</p><p><b>I. Information Which We Collect</b>
+
+</p><p>We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games. If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information.
+
+</p><p>Like many other commercial sites, our sites may utilize a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address. Our web sites may use cookies to enhance your visit. Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." Our cookies may collect your domain name and track your selections through our web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent.
+
+</p><p>We also use cookies in connection with our chat rooms in order to record your preferences. These cookies store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms. No additional identifying information is stored on these cookies. You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site.
+
+</p><p>We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics. 
+
+</p><p>In addition, users may complete a subscription form online in order to subscribe to the Daily Camera. To subscribe, users must submit personal information in order for us to send the newspaper to you. 
+
+</p><p><b>II. Use of User Information</b>
+
+</p><p>We may perform statistical analyses of aggregate user behavior. This allows us to measure relative consumer interest in the various areas of our web sites for product development purposes. Any information we collect is used for its own internal purposes to improve the content of the web sites, to enhance users' experiences when visiting our sites, to customize the content and/or layout of our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested. We never send e-mail to you unless you request a particular service, or consent to being contacted by e-mail. There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent
+
+</p><p><b>III. Disclosure to Third Parties</b>
+
+</p><p>We do not share personal identifying information with any third party without your permission unless required to do so by law or to prevent harm to the The Daily Camera. We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared web sites with businesses affiliated with us. Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
+
+</p><p><b>IV. Accuracy of User Information</b>
+
+</p><p>In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to <a href="mailto:webmaster@thedailycamera.com">webmaster@thedailycamera.com</a>, or you can reach us by telephone at (303)473-1440. You can also write us at:
+
+</p><p>Daily Camera
+<br>PO Box 591
+<br>Boulder, CO 80306
+
+</p><p>These privacy policies are effective as of January 25, 1999. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect.
+
+</p><p><b>V. Security of Information</b>
+
+</p><p>We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it.
+
+</p><p><b>VI. Opting-out</b>
+
+</p><p>At any time while assessing our sites, any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our sites). For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above. 
+
+</p><p><b>VII. Use of Materials</b>
+
+</p><p>The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at <a href="mailto:webmaster@thedailycamera.com">webmaster@thedailycamera.com</a>. To read the full Terms of Use Agreement pertaining to use of our sites, please click <a href="http://www.dailycamera.com/bdc/news/article/1,1713,BDC_2397_1180791,00.html">here</a>.
+
+</p><p></p></td></tr></tbody></table>   </td>
+			</tr>
+		</tbody></table>
+	</td>
+	 <!-- END OF CELL FOR CONTENT -->
+
+	<!-- BEGIN CELL THAT HOLDS RIGHT GUTTER INFO -->
+	
+	<td width="160" valign="top" class="gutterbgcolor">
+		<table width="160" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td class="gutterbgcolor">
+			<!-- Vignette V/5 Tue Jun 15 18:09:04 2004 -->
+
+   
+			<!--Preview(no) -->
+			<table width="160" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td><img src="http://www.dailycamera.com/bdc/images/sidebar/search_header.gif" border="0"></td>
+				</tr>
+			</tbody></table>
+
+			<table width="160" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="5" class="guttersearchbg1">&nbsp;</td>
+					<td width="140" class="guttersearchbg2" valign="top" align="center">
+						<table width="130" border="0" cellspacing="0" cellpadding="5">
+							<tbody><tr><td>
+			<table border="0" align="center" cellpadding="0" cellspacing="0">
+				
+				<tbody><tr class="navbartext">
+				
+				<form name="searchForm" action="http://websearch.dailycamera.com/bdc/web/searchResults" method="get"></form>
+					<td class="navbartext">
+						Search site for:
+						<input type="hidden" value="BDC" name="site">
+						<input type="hidden" value="site" name="searchType">
+						<input size="10" name="searchString">
+						<input name="GoSearch" type="image" src="http://www.dailycamera.com/bdc/images/nav/go_search.gif" alt="Go!" border="0">
+						<a href="http://web.dailycamera.com/bdc/useragreement/searchhelp.html" class="navbartext">Search help »</a>
+					</td>
+				
+				
+				</tr>
+			</tbody></table></td></tr>
+						</tbody></table>
+					</td>
+					<td width="5" class="guttersearchbg1">&nbsp;</td>
+				</tr>			
+			</tbody></table>
+			
+			<table width="160" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td><img src="http://www.dailycamera.com/bdc/images/sidebar/extras_footer.gif" border="0"></td>
+				</tr>
+			</tbody></table><p>
+			<table width="160" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td>
+				<!--- Include Market Place File --->
+<script language="JavaScript" src="http://cfapps.thedailycamera.com/templates/includes/marketplace.js">
+</script>
+
+<!-- MaxSize (1) -->
+				</td>
+			</tr>
+			</tbody></table></p><p>
+		<!-- BDC,2397,47856,GUTTER_AD_120x600,no,NEWS -->
+		<!-- --------------------BEGIN ADVERTISER INDEX--------------- --> 
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="http://www.dailycamera.com/bdc/images/sidebar/extras_header.gif" border="0" alt="Site Extras"></td>
+		</tr>
+		</tbody></table>
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td width="5" class="gutteradbg1"><img src="http://www.dailycamera.com/bdc/images/spacers/spacer.gif" border="0" height="1" width="1"></td>
+			<td width="155" class="gutteradbg2" valign="top">
+				<!-- TABLE FOR ADS AND CATEGORIES -->
+				<table width="152" border="0" cellspacing="0" cellpadding="0" align="center">
+				<!-- Begin Dynamic ads -->
+
+				
+					<tbody><tr>
+						<td vspace="6" align="center">
+						
+			<!-- AdSpace vgncontent=NEWS adsize=120x600 pos.1  pagetype=ARTICLE_DETAIL -->
+			<iframe width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=BDC&amp;vgncontent=NEWS&amp;pagetype=ARTICLE_DETAIL&amp;adsize=120x600&amp;PagePos=1">
+			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=BDC&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x600&PagePos=1'>
+			</script>
+			<noscript>
+			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=BDC&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x600&PagePos=1'>
+			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=BDC&vgncontent=NEWS&pagetype=ARTICLE_DETAIL&adsize=120x600&PagePos=1' border=0></a>
+			</noscript>
+			</iframe>
+			<!-- /AdSpace -->
+		
+						</td>
+					</tr>
+
+				<!-- End Dynamic ads -->
+				</tbody></table>
+				<!-- END TABLE FOR ADS AND CATEGORIES -->
+			</td>
+		    <td width="5" class="gutteradbg1"><img src="http://www.dailycamera.com/bdc/images/spacers/spacer.gif" border="0" height="1" width="1"></td>
+		</tr>
+		</tbody></table>
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="http://www.dailycamera.com/bdc/images/sidebar/extras_footer.gif"></td>
+		</tr>
+		</tbody></table></p><p><!-- MaxSize (4) --></p></td>
+		</tr>
+		</tbody></table>
+	</td>
+	 <!-- END CELL THAT HOLDS RIGHT GUTTER INFO -->
 </tr>
 </tbody></table>
+<!-- END OF TABLE FOR CONTENT AREA -->
 
-</div>
+
+	
+	<!-- ----------------------BEGIN SITE FOOTER LIBRARY ----------------------- -->	 
+	<!-- Vignette V/5 Tue Jan 20 10:37:32 2004 -->
+
+  
+			
+			<!-- ----------------------BEGIN SITE FOOTER COMPONENT----------------------- -->
+<table width="760" border="0" cellspacing="0" cellpadding="6" bgcolor="#000000">
+  <tbody><tr valign="top">
+    <td width="30"><a href="http://www.scripps.com" target="_new"><img src="http://www.dailycamera.com/bdc/images/temp/scripp302.gif" width="27" height="26" hspace="0" vspace="2" border="0"></a></td>
+      
+<td class="footertext" width="730">Copyright 2005, The Daily Camera and the E.W. Scripps Company. All rights reserved. Any copying, redistribution, or retransmission of any of the contents of this service without the express written consent of The Daily Camera is expressly prohibited. Users of this site are subject to our <a href="http://web.dailycamera.com/bdc/useragreement/useragreement.html" class="footertext"><b>User Agreement</b></a>. You may also read our <a href="http://www.dailycamera.com/bdc/news/article/1,1713,BDC_2397_1180813,00.html" class="footertext"><b>Privacy Policy</b></a>. Comments? Questions? Suggestions? E-mail us at <a href="mailto:webmaster@dailycamera.com" class="footertext"><b>webmaster@dailycamera.com</b></a>. Click <a href="http://web.dailycamera.com/aboutus/index.html" class="footertext"><b>here</b></a> to contact Daily Camera staff.</td>
+</tr>
+<tr>
+<td valign="top" colspan="2" align="center"><script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/site=BDC&amp;adtype=GOOGLE&amp;PagePos=1"></script></td>
+</tr>
+</tbody></table><!-- MaxSize (1) --> <!-- ----------------------END SITE FOOTER LIBRARY ----------------------- -->
+<!-- Layer tag to support Netscape 4.x for HTML included job ads in gutter -->
+<iframe width="1" height="1" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=BDC&amp;vgncontent=TOP_JOBS&amp;Section=top_jobs&amp;PagePos=2">
+<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=BDC&vgncontent=TOP_JOBS&Section=top_jobs&PagePos=2">
+</script>
+</iframe>
 
 
+		<script language="JavaScript">Tacoda_AMS_DDC_js=1.0</script>
+		<script language="JavaScript1.1">Tacoda_AMS_DDC_js=1.1</script>
+		<script language="JavaScript1.2">Tacoda_AMS_DDC_js=1.2</script>
+		<script language="JavaScript1.3">Tacoda_AMS_DDC_js=1.3</script>
+		<script language="JavaScript">Tacoda_AMS_DDC_addPair("site","BDC")</script>
+		<script language="JavaScript">Tacoda_AMS_DDC_addPair("sectionid","2397")</script>
+		<script language="JavaScript">Tacoda_AMS_DDC_addPair("registrationid",reg_id)</script>
+		<script language="JavaScript">Tacoda_AMS_DDC("http://te.dailycamera.com/blank.gif", Tacoda_AMS_DDC_js, "http://te.scripps.com/blank.gif")</script>
+		<noscript><img src="http://te.dailycamera.com/blank.gif" width="1" height="1" border="0"></noscript>
 
 </body></html>
