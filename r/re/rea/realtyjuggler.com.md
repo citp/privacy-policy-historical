@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629001834id_/http%3A//www.realorganized.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210170646id_/http%3A//www.realorganized.com/privacy_policy.html) for the most accurate reproduction.*
 
 # RealOrganized, Inc. Privacy Policy
 
@@ -17,16 +17,16 @@ RealOrganized, Inc. is the sole owner of the information collected on this site 
 In order to purchase products from our web site, you must first complete the registration form.  The information collected includes name, email address, phone number and credit card number.  This information is used for the sole purpose of providing products and services which you have purchased and follow-up support for those products. Registration is transmitted over the Internet using SSL, the most powerful encryption available for commercial transactions today.
 
 **Contact Us Form**  
-In order to request sales and technical support, customers need to fill out a Contact Us form. The information collected includes name and e-mail address. Supplying a phone number is considered optional. This information is only used to provides sales and technical support for RealOrganized, Inc. products.
+In order to request sales and technical support, customers need to fill out a Contact Us form. The information collected includes name and e-mail address. Supplying a phone number is considered optional. This information is only used to provides sales and technical support for RealOrganized, Inc. products and services.
 
 **Customer Private Information**  
-Our customers use RealOrganized, Inc. software and services to organize and store information (such as contact, datebook and deal information) that they consider personal and private. We respect our customers privacy. This information is for the exclusive use of our customer. It is never shared or used unless explicit permission is granted by our customer. Customer Private Information is transmitted over the Internet using SSL, the most powerful encryption technology available for commercial transactions today.
-
-**Voluntary**  
-All personally identifiable information collected by RealOrganized, Inc. is supplied voluntarily by our customers or visitors.
+Our customers use RealOrganized, Inc. software and services to organize and store information (such as contact, datebook and deal information) that they consider personal and private (Customer Private Information). We respect our customers privacy and consider this information for the exclusive use of our customer. It is never shared or used by RealOrganized, Inc. unless explicit permission is granted by our customer. Customer Private Information is transmitted over the Internet using SSL, the most powerful encryption technology available for commercial transactions today.
 
 **Your Ability to Edit and Delete Your Account Information and Preferences**  
-You can edit or delete your Account Information at any time from our web site by signing in and changing your profile.
+All personally identifiable information RealOrganized, Inc. collects is available for viewing and editing by our customer by accessing their profile. You can edit or delete your Account Information at any time from our web site by signing in and changing your profile.
+
+**Data Retention**  
+RealOrganized, Inc. retains all sales and account information indefinitely. This information is used for accounting and tax purposes. Customer Private Information is retained for a minimum of six months after a subscription has been cancelled or deactivated. This is to permit reactivation of the account by the customer at a later date. Customer Private Information can be explicitly destroyed at any time by the customer by accessing their account and activating the appropriate control setting.
 
 **E-Mail**  
 We may send you an e-mail periodically about important upgrades to products that you own or have made enquiries about. We will not spam you with newsletters or other junk e-mail nor do we share your information with anyone else. You can un-subscribe from these announcements by following the unsubscribe instructions in the e-mail. E-mail's which are considered essential for transacting business with RealOrganized, Inc. cannot be unsubscribed to. For example, notification of a purchase will always be sent to a customer. 
@@ -50,9 +50,16 @@ If a user elects to use our referral service for informing a friend about our si
 RealOrganized, Inc. may update this policy. If it does, it will post changes on its web site.
 
 **Security**  
-The security of your information is important to us. For this reason, we have created an extensive security program to ensure that your information is secure. You can read more about it [**here**.](https://web.archive.org/web/20050629001834id_/http%3A//www.realorganized.com/security_statement.html)
+The security of your information is important to us. For this reason, we have created an extensive security program to ensure that your information is secure. You can read more about it [**here**.](https://web.archive.org/web/20051210170646id_/http%3A//www.realorganized.com/security_statement.html)
 
-Please send any questions about RealOrganized, Inc's. Privacy Policy to: [**support@RealOrganized.com**](mailto:support@RealOrganized.com)
+We invite you to contact us regarding this policy. You may contact us my mail at the following address:
+
+RealOrganized, Inc.  
+813 Melody Court  
+Leesburg, VA 20175  
+USA
+
+You may contact us via e-mail at: [**support@RealOrganized.com**](mailto:support@RealOrganized.com)or via phone at: (800) 681-5089 (USA)
 
 Date Last Modified: June 27, 2005
 
