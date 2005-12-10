@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebook.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403153329id_/http%3A//www.ebook.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebook.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210052930id_/http%3A//ebook.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # eBook software - eBook compiler, eBook publishing
 
