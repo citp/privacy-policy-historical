@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206185128id_/http%3A//www.realbird.com%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210173758id_/http%3A//realbird.com%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
 
 # RealBird - Maps for real estate websites. Aerial photo, street map, topo map and more
 
