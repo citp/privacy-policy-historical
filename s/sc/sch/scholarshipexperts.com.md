@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2005-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050517002823id_/http%3A//www.scholarshipexperts.com/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210182840id_/http%3A//scholarshipexperts.com/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Scholarships
 
@@ -6,7 +6,7 @@
   
 **Use of Personal Data**
 
-Scholarship Experts knows that privacy matters, especially in this information age and the Internet era. We have, therefore, created a website and a scholarship search service that puts the protection of your privacy as our number one priority. We make every effort to maintain your confidentiality and keep your trust. Read on to learn how dedicated we are to keeping your personal information private!  
+Scholarship Experts knows that privacy matters, especially in this information age and the Internet era. We have, therefore, created a website and a scholarship search service with a strict privacy policy in order to maintain your confidentiality and keep your trust. Read on to learn more about the types of information we collect, how the information is collected, how it is used, and how users can restrict its use or disclosure.   
   
 **Information Collection and Use**
 
@@ -14,7 +14,7 @@ Recognizing the fact that matching students with potential scholarships requires
 
 We will collect and store your personal information in order to deliver highly accurate and filtered scholarship search results to you. Matching you with scholarships for which you are potentially eligible cannot happen without this collection and storage of personal data. 
 
-We will **NOT** , however, use that personal data for purposes beyond those just described as necessary to the scholarship search process. We will NOT resell, distribute, or share your personal data with third parties. Scholarship Experts is the sole owner of the information collected on this site.   
+We will not, however, without your explicit permission, use that personal data for purposes beyond those just described as necessary to the scholarship search process. Unless you have given us explicit permission to do so, we will not resell, distribute, or share your personal data with third parties.   
   
   
 **Registration**
@@ -45,11 +45,13 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
 
 We use a credit card processing company to bill users for services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.  
-  
+
+
+We may also share the information that you voluntarily entered, if you explicitly give us permission to do so through the OPT-IN section of your profile. For OPTED-IN users only: We may make your information available to our carefully selected list of partners. These are reputable, leading companies and organizations that provide products and services that are useful and of interest to students and parents. (NOTE: Our partners will never be companies or organizations involved with pornography, tobacco or other objectionable or harmful industries.)   
   
 **Links**
 
-This web site contains links to other sites. Please be aware that we, Scholarship Experts, are not responsible for the accuracy or the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.  
+This web site contains links to other sites. Please be aware that we, Scholarship Experts, are not responsible for the accuracy or the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this website.  
   
   
 **Surveys and Contests**
@@ -58,14 +60,14 @@ From time-to-time our site requests information from users via surveys or contes
   
 **Tell-A-Friend**
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Scholarship Experts will automatically send the friend a one-time email inviting them to visit the site. Scholarship Experts stores this information for the sole purpose of sending this one-time email. The friend may contact Scholarship Experts at [info@scholarshipexperts.com](mailto:info@scholarshipexperts.com) to request the removal of this information from their database.  
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Scholarship Experts will automatically send the friend a one-time email inviting them to visit the site. Scholarship Experts stores this information for the sole purpose of sending this one-time email. The friend may contact Scholarship Experts at [info@scholarshipexperts.com](mailto:info@scholarshipexperts.com) to request the removal of this information from our database.  
   
   
 **Security**
 
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, that information is protected both online and off-line. 
 
-We use the latest firewall technology and a secure transaction page to protect sensitive information online. Because our site requires electronic, credit card transactions, we have taken steps to ensure that your credit card transactions will be secure. All of the customer information we gather is protected against unauthorized access. No third parties have access to your private data. 
+We use the latest firewall technology and Oracle security settings to protect sensitive information online. Because our site requires electronic, credit card transactions, we have taken steps to ensure that your credit card transactions will be secure. All of the customer information we gather is protected against unauthorized access. 
 
 We also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment with limited key-only access. 
 
@@ -74,12 +76,12 @@ If you have any questions about the security at our website, you can send an ema
   
 **Emails for Site and Service Updates**
 
-We send all new members a welcoming email to verify their username and login process. We also send users site and service announcement updates, newsletters, and other appropriate email messages. Members are able to unsubscribe from site and service announcements and other emails by changing their email preferences on [the unsubscribe page](http://www.scholarshipexperts.com/unsubscribemail_form.jsp). We communicate via email with users to provide requested services and for issues relating to their accounts and profiles.  
+We send all new users a welcoming email to verify their username and to explain the login process. We also send users site and service announcement updates, newsletters, and other appropriate email messages. Users are able to opt-out from site and service announcements and other emails by changing their email preferences on [the unsubscribe page](https://web.archive.org/unsubscribemail_form.jsp). We communicate via email with users to provide requested services and for issues relating to their profiles. And for users who have given us explicit permission to do so, we send out customized email offers on behalf of our partners.  
   
   
 **Correction/Updating Personal Information**
 
-If a user's personally identifiable information changes (such as zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by updating your E-Profile on the website or by emailing Customer Support at [info@scholarshipexperts.com](mailto:info@scholarshipexperts.com). Because we want to protect from the loss, misuse and/or alteration of the information under our control, we have authorized only you to update your profile. Please respect this security measure and refrain from sharing your password information to another party.  
+If a user's personally identifiable information changes (such as zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by updating your E-Profile on the website. Because we want to protect you from the loss, misuse and/or alteration of the information under our control, we have authorized only you to update your profile. Please respect this security measure and refrain from sharing your password information to another party.  
   
   
 **Note to Parents and Children under 13**
@@ -89,7 +91,7 @@ Scholarship Experts will not knowingly collect any personal information from or 
   
 **Notification of Changes**
 
-If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. This privacy policy contains the following information:
+If we decide to change our privacy policy, we will post those changes online so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. This privacy policy contains the following information:
 
   1. What personally identifiable information of yours or third party personally identification is collected from you through the web site 
   2. The organization collecting the information
