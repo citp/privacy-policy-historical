@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012023902id_/http%3A//www.alzheimers.org.uk/About_our_work/About_this_website/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210051445id_/http%3A//www.alzheimers.org.uk/About_our_work/About_this_website/privacy.htm) for the most accurate reproduction.*
 
 # About the Alzheimer's Society website - Privacy statement
 
