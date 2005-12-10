@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204193855id_/http%3A//www.govliquidation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210051644id_/http%3A//www.govliquidation.com/privacy.html) for the most accurate reproduction.*
 
-# Government Liquidation Government Surplus Auctions Army Surplus Vehicles Sales
+# Privacy Policy at Government Liquidation
 
 Government Liquidation, LLC, (GL) a wholly owned subsidiary of Liquidity Services, Inc. (LSI), wants you to know that we take your privacy very seriously. Because we do, we have developed the following privacy policy that states what information we collect, how that information is collected (whether it is by GL, its parent company, a vendor working for GL, or some other means), for what purposes we collect information, how that information is used, and under what circumstances that information would be released. Additionally, we want you to know when you have a choice regarding the collection or dissemination of any personal information, and how you can exercise your options. This privacy policy will also explain what steps Government Liquidation is taking to secure your private information and what steps you should take to safeguard that information. Finally, the privacy policy will tell you how to correct any inaccurate information, and who you can contact regarding questions about our privacy policy.
 
@@ -71,6 +71,6 @@ You can always change personal information such as your address, email address, 
 **GOVERNMENT LIQUIDATION, LLC**  
 15051 N. Kierland Blvd. , 3rd Floor • Scottsdale , AZ , 85254 • USA   
 Customer Service Hotline: (480) 367-1300 (phone) • (480) 367-1450 (fax)   
-E-mail: [info@govliquidation.com ](mailto:info@govliquidation.com)• Website: [www.govliquidation.com ](http://www.govliquidation.com/www.govliquidation.com)
+E-mail: [info@govliquidation.com ](mailto:info@govliquidation.com)• Website: [www.govliquidation.com ](http://www.govliquidation.com/)
 
 **Revised July 9th, 2004**
