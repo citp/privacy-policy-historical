@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funmunch.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305034353id_/http%3A//www.funmunch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funmunch.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210235023id_/http%3A//www.funmunch.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Funmunch.com
 
@@ -18,4 +18,4 @@ Funmunch.com also links to a wide variety of other sites. We are not responsible
 
 **Questions or Suggestions**
 
-If you have any questions concerning the privacy policies of Funmunch.com please send email with your questions to [webmaster@funmunch.com](mailto:webmaster@funmunch.com?subject=Privacy%20Statement)
+If you have any questions concerning the privacy policies of Funmunch.com please send email with your questions to [mail@funmunch.com](mailto:mail@funmunch.com?subject=Privacy%20Statement)
