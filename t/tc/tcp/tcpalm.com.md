@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcpalm.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207001259id_/http%3A//web.tcpalm.com/sitetools/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpalm.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210102027id_/http%3A//web.tcpalm.com/sitetools/privacy.html) for the most accurate reproduction.*
 
 # TCPalm.com Network Privacy Policy
 
