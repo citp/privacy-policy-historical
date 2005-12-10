@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flagsimporter.com privacy policy that was archived on 2005-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050324060552id_/http%3A//www.flagsimporter.com/www/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagsimporter.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210215745id_/http%3A//www.flagsimporter.com/www/policy.asp) for the most accurate reproduction.*
 
-# FlagsImporter.com-Car Flags,Message Flags,Checkered Flags,Hand Flags,Military Flags,State Flags,Country Flags,Rebel Flags,Pirate Flags,Germany Flag,War / Peace Flags,Religious Flags,Others Flags,Solid Color Flags,Banners,Latin American,Car Magnets & Banners,Historical Flags,Flag Pole
+# FlagsImporter.com-Car Flag Series,Message Flags,Checkered Flags,Hand Flags,Military Flags,State Flags,Country Flags,Rebel Flags,Pirate Flags,Historical Germany,War / Peace Flags,Religious Flags,Others Flags,Solid Color Flags,Banners,Latin American,USA Novelty,Historical Flags,Flag Poles,String Flags,Rainbow Flags
 
 We ship merchandise via UPS regular ground after your order has been approved. Please allow UPS ground about 5 business days to ship within U.S.A. Please contact us regarding out of country or truckload shipping. All orders must be prepaid before shipping. This can be done by visa, MasterCard, money order, wire payment or check. If payment is made by check, the order will be held until the check is cleared.
 
