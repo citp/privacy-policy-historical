@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkenergygroup.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404184739id_/http%3A//www.thinkenergygroup.com/think.nsf/InfoNFR/Privacy-Security%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkenergygroup.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210183958id_/http%3A//www.thinkenergygroup.com/think.nsf/InfoNFR/Privacy-Security%3FOpenDocument) for the most accurate reproduction.*
 
 # Technical Staffing - Press Release - Atlanta, Georgia, Florida
 
@@ -21,14 +21,29 @@ This site contains links to other sites. ThinkJobs.com is not responsible for th
 ThinkJobs.com strongly encourages users who do not wish to receive employment-related information at their primary e-mail address (e.g. place of work) to open a personal e-mail account at any of the many sites offering free Internet e-mail accounts, such as hotmail.com, yahoo.com and mail.com. 
 
 ******Choice/Opt-Out**  
-This site gives users the option of removing their information from our database, to not receive future communications or to no longer receive our service. You can send e-mail to [_support@ThinkJobs.com_](mailto:Support@ThinkJobs.com).
+This site gives users the option of removing their information from our database, to not receive future communications or to no longer receive our service. By applying to our jobs or emailing 
 
-******Security**  
-ThinkJobs.com takes every precaution to protect user information. When a user submits sensitive information via the Web site, that information is protected both online and off-line. All user information is restricted in our offices, not just the sensitive information to which we refer above. Only employees who need the information to perform their job (for example, a billing clerk or a customer service representative) are granted access to that information. Furthermore, all employees are kept up-to-date on ThinkJobs.com's security and privacy practices. Our employees are notified and/or reminded about the importance we place upon privacy, and what they can do to ensure our customers' information is protected.
+jobs to a friend you agree to Opt-In to our job search agent service, which will email you jobs to your email address or you friends address. If you would choice to Opt-Out of the service please fill in the following form at <http://www.thinkenergygroup.com/think.nsf/cancelagent?OpenForm>  
+or
+
+[_Cancel Emails_](http://www.thinkenergygroup.com/think.nsf/cancelagent?OpenForm)
+
+.
+
+******Security**
 
   
-Finally, the servers where we store personal information are kept in a protected Environment, with multiple, redundant security features.If you have any questions about the security at ThinkJobs.com, please don't hesitate to contact us at: [_support@ThinkJobs.com_](mailto:Support@ThinkJobs.com).  
-******Change/Modify**  
+ThinkJobs.com takes every precaution to protect user information. When a user submits sensitive information via the Web site, that information is protected both online and off-line. All user information is restricted in our offices, not just the sensitive information to which we refer above. Only employees who need the information to perform their job (for example, a billing clerk or a customer service representative) are granted access to that information. Furthermore, all employees are kept up-to-date on ThinkJobs.com's security and privacy practices. Our employees are notified and/or reminded about the importance we place upon privacy, and what they can do to ensure our customers' information is protected.
+
+Finally, the servers where we store personal information are kept in a protected Environment, with multiple, redundant security features.If you have any questions about the security at ThinkJobs.com, please don't hesitate to contact us at: 
+
+[_support@ThinkJobs.com_](mailto:Support@ThinkJobs.com)
+
+.
+
+******Change/Modify**
+
+  
 To change the information in your profile that ThinkJobs.com maintains please call 770.390.0963 or 1.800.659.5639 and speak to one of our Helpdesk representatives. They will be able to update your preferences and other information contained in your profile.
 
 ******Notification of Changes**  
