@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the net-temps.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203200713id_/http%3A//www.net-temps.com/about/index.htm%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net-temps.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210161249id_/http%3A//www.net-temps.com/about/index.htm%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
 # About Net-Temps
 
-**Privacy Statement**  
-Effective June 14, 2004 
+About Net-Temps
 
-[](http://www.truste.org/ivalidate.php?url=www.net-temps.com) Net-Temps is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users. trust and confidence in the Internet by promoting the use of fair information practices. Because Net-Temps wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Net-Temps has agreed to notify you of: 
+**Privacy Statement**  
+Effective November 14, 2005 
+
+[](http://www.truste.org/ivalidate.php?url=www.net-temps.com&sealid=101) Net-Temps is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users. trust and confidence in the Internet by promoting the use of fair information practices. Because Net-Temps wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Net-Temps ([www.net-temps.com](http://www.net-temps.com/)) has agreed to notify you of: 
 
   1. What personally identifiable information of yours or third party personally identifiable information that is collected from you through the website
   2. The organization collecting the information
