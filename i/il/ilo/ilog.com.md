@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ilog.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402092852id_/http%3A//www.ilog.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilog.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210222228id_/http%3A//ilog.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy policy
 
-This document was last updated September 21, 2001. 
+This document was last updated November 19, 2004. 
 
 While you can travel through most of our website without giving us any information about yourself, it is sometimes necessary for us to request information so that we may provide services that you request, and this privacy statement explains our data collection practices and use in those situations. Please read the complete ilog.com privacy statement. 
 
@@ -41,9 +41,16 @@ We will provide you with the means to ensure that your personal information is c
 You may also send us a written request to perform any of the above to: 
 
 Webmaster  
+ILOG SA  
+9 rue de Verdun  
+94253 Gentilly cedex  
+France 
+
+Webmaster  
 ILOG, Inc.   
 1080 Linda Vista Avenue   
-Mountain View, CA. 94043 
+Mountain View, CA. 94043  
+United States 
 
 Security of your Personal Information  
 ilog.com strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
@@ -72,9 +79,16 @@ e-mail address:
 
 [privacy@ilog.com](mailto:privacy@ilog.com)
 
-postal address: 
+postal addresses: 
+
+Webmaster  
+ILOG SA  
+9 rue de Verdun  
+94253 Gentilly cedex  
+France 
 
 Webmaster  
 ILOG, Inc.  
 1080 Linda Vista Avenue  
-Mountain View, CA. 94043 
+Mountain View, CA. 94043  
+United States 
