@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spe.org privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405183920id_/http%3A//spe.org/spe/jsp/basic/0%2C2396%2C1104_1896_0%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spe.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210181505id_/http%3A//spe.org/spe/jsp/basic/0%2C2396%2C1104_1896_0%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ Members and customers may also elect to have SPE not use their email address for
 If you choose to restrict use of your information, you may not receive certain communications from SPE or others that may be of interest to you.   Because of the nature of computer data storage, any information that you restrict will remain stored but will not be accessed in the normal course of business. SPE will comply with any court orders that may be received requiring us to disclose information from our database, regardless of whether you have requested that the information be restricted.
 
   
-SPE members or customers may [change or correct information](https://speonline.spe.org/mbrservices/index.cfm) on their record online. Members and customers may also contact SPE Customer Service to review or request changes to personal information.
+SPE members or customers may [change or correct information](https://web.archive.org/mbrservices/index.cfm) on their record online. Members and customers may also contact SPE Customer Service to review or request changes to personal information.
 
 _SPE reserves the right to modify its privacy policies and practices at any time without notice. This statement is not intended to create any contractual or other legal rights. If you have questions about SPE's Privacy Policy, the practices of the SPE web site, or your interactions with SPE, contact the SPE President at_ [_president@spe.org_](mailto:president@spe.org) _._
 
