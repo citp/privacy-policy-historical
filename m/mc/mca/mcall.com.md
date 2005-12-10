@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418012730id_/http%3A//www.mcall.com/services/newspaper/all-privacypolicy.htmlstory) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210184746id_/http%3A//www.mcall.com/services/newspaper/all-privacypolicy%2C0%2C2559869.htmlstory) for the most accurate reproduction.*
 
-# mcall.com - Privacy Policy
+# Privacy Policy : The Morning Call Online
 
-  |  |  |  _Last Updated: July, 2003_
+|    
+  
+_Last Updated: July, 2003_
 
 mcall.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by mcall.com online and does not impact information collected or used by mcall.com or its affiliates through other means. 
 
@@ -51,6 +53,34 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
+**> > Right to your doorstep! - [Click here to subscribe to The Morning Call](https://web.archive.org/services/newspaper/all-custservsubscribe,0,3467145.customform?coll=all-story-bottom-promo) >> Purchase full page reprints [from today's edition and more ](http://mcall.mycapture.com/mycapture/reprints.asp)** >> Get news on your cell at www.mcall.com [More info](http://www.mcall.com/wireless/local/all-mobile,0,1299305.htmlstory)
+
 Copyright © 2005, [The Morning Call](http://www.mcall.com/)
 
-**> > Right to your doorstep! - [Click here to subscribe to The Morning Call](https://web.archive.org/services/newspaper/all-custservsubscribe,0,3467145.customform?coll=all-story-bottom-promo)** |  | 
+|  | 
+
+[](http://adserver.trb.com/event.ng/Type=click&FlightID=481272&AdID=191570&Custom=pelicanpools&TargetID=57466&Segments=82,85,165,256,673,692,755,1310,1600,2002,2167,2519,3356,3391,3753,3907,4709,4724,5041,6662,6764,6787,52005,52449,52585,52992,53211,53212,54002,54094,54453,54662&Targets=654,52979,2580,2812,57653,5811,7176,57466,53741,53955,54667,55033,56235&Values=34,46,51,63,77,84,86,91,101,110,131,150,287,289,301,328,333,356,388,399,591,834,903,998,1016,1051,1065,1089,1091,1093,1112,1122,1136,1191,1212,1263,1282,1309,1436,1604,1646,1653,1654,1656,1664,1681,1745,1748,1754,1758,1786,1787,1788,1836,1840,1863,1864,1870,1871,1872,1882,1887,1888,1890,1892,1917,1957,1977,1985,1987,2011,2017,2035,2036,2044,2091,2106,2274,2284,2297,2353,2366,2380,2384,2548,2626,2719,2765,2782,2804,2805,2823,2837,2838,2848,2861,2863,2915,2938,2948,2972,2975,3023,3024,3047,3051,3055,3058,3061,3062,3065,3070,3086,3088,3103,3113&RawValues=USERAGENTID%2Cia_archiver&Redirect=)
+
+[](http://adserver.trb.com/event.ng/Type=click&FlightID=481272&AdID=191570&Custom=pelicanpools&TargetID=57466&Segments=82,85,165,256,673,692,755,1310,1600,2002,2167,2519,3356,3391,3753,3907,4709,4724,5041,6662,6764,6787,52005,52449,52585,52992,53211,53212,54002,54094,54453,54662&Targets=654,52979,2580,2812,57653,5811,7176,57466,53741,53955,54667,55033,56235&Values=34,46,51,63,77,84,86,91,101,110,131,150,287,289,301,328,333,356,388,399,591,834,903,998,1016,1051,1065,1089,1091,1093,1112,1122,1136,1191,1212,1263,1282,1309,1436,1604,1646,1653,1654,1656,1664,1681,1745,1748,1754,1758,1786,1787,1788,1836,1840,1863,1864,1870,1871,1872,1882,1887,1888,1890,1892,1917,1957,1977,1985,1987,2011,2017,2035,2036,2044,2091,2106,2274,2284,2297,2353,2366,2380,2384,2548,2626,2719,2765,2782,2804,2805,2823,2837,2838,2848,2861,2863,2915,2938,2948,2972,2975,3023,3024,3047,3051,3055,3058,3061,3062,3065,3070,3086,3088,3103,3113&RawValues=USERAGENTID%2Cia_archiver&Redirect=)
+
+[](http://adserver.trb.com/event.ng/Type=click&FlightID=486845&AdID=183767&Custom=familyfertility&TargetID=56235&Segments=82,85,165,256,673,692,755,1310,1600,2002,2167,3356,3391,3753,3907,4709,4724,5041,6662,6744,6764,6787,51077,52006,52449,52585,52992,53211,53212,54002,54015,54094,54454,54662&Targets=654,52979,2580,2812,5811,7176,51597,53741,53955,54667,55033,56124,56235&Values=34,46,51,63,77,84,86,91,101,110,131,150,287,289,301,328,334,356,388,399,591,834,903,998,1016,1051,1065,1089,1091,1093,1112,1122,1136,1191,1212,1263,1282,1309,1436,1604,1646,1653,1654,1656,1664,1681,1745,1748,1754,1758,1786,1787,1788,1836,1840,1863,1864,1870,1871,1872,1882,1887,1888,1890,1892,1917,1957,1977,1985,1987,2011,2017,2035,2036,2044,2091,2106,2274,2284,2297,2353,2366,2380,2384,2548,2626,2719,2765,2782,2804,2805,2823,2837,2838,2848,2861,2863,2915,2938,2948,2972,2975,3023,3024,3047,3051,3055,3058,3061,3062,3065,3070,3086,3088,3103,3113&RawValues=USERAGENTID%2Cia_archiver&Redirect=)
+
+[](http://adserver.trb.com/event.ng/Type=click&FlightID=486845&AdID=183767&Custom=familyfertility&TargetID=56235&Segments=82,85,165,256,673,692,755,1310,1600,2002,2167,3356,3391,3753,3907,4709,4724,5041,6662,6744,6764,6787,51077,52006,52449,52585,52992,53211,53212,54002,54015,54094,54454,54662&Targets=654,52979,2580,2812,5811,7176,51597,53741,53955,54667,55033,56124,56235&Values=34,46,51,63,77,84,86,91,101,110,131,150,287,289,301,328,334,356,388,399,591,834,903,998,1016,1051,1065,1089,1091,1093,1112,1122,1136,1191,1212,1263,1282,1309,1436,1604,1646,1653,1654,1656,1664,1681,1745,1748,1754,1758,1786,1787,1788,1836,1840,1863,1864,1870,1871,1872,1882,1887,1888,1890,1892,1917,1957,1977,1985,1987,2011,2017,2035,2036,2044,2091,2106,2274,2284,2297,2353,2366,2380,2384,2548,2626,2719,2765,2782,2804,2805,2823,2837,2838,2848,2861,2863,2915,2938,2948,2972,2975,3023,3024,3047,3051,3055,3058,3061,3062,3065,3070,3086,3088,3103,3113&RawValues=USERAGENTID%2Cia_archiver&Redirect=)
+
+|  | 
+
+Top Stories
+
+Most Emailed Stories
+
+My News @ Mcall.com
+
+Your news. Any way you want it.  
+You pick the stories! [**Sign Up**](http://www.mcall.com/mynews/) for [**My News**](http://www.mcall.com/mynews/) now at Mcall.com.
+
+• [ **Register for My News**](http://www.mcall.com/mynews/)
+
+MCall.com Feedback
+
+Questions or comments about MCall.com? [**Contact Us**](https://web.archive.org/services/newspaper/all-feedbackform,0,590242.customform?coll=all-defaultcontentrail-utl)  
+
