@@ -1,0 +1,83 @@
+> *The following text is extracted and transformed from the agnitum.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210070129id_/http%3A//agnitum.com/privacy_policy.php) for the most accurate reproduction.*
+
+# Agnitum Privacy Policy
+
+**Users from the European Union**
+
+Agnitum Ltd complies with the European Union Privacy Principles and this web site meets all of the requirements for the Safe Harbor to the European Union Directive on Data Protection. All customers who are residents of the European Union and use this web site are entitled to all protections and procedural recourses entailed in the European Union Directive on Data Protection. 
+
+**Information Collection and Use**
+
+Agnitum Ltd is the sole owner of the information collected on this web site. We will not sell, share, or rent your information to others without your consent. We will also not sell, share, or rent your information in ways different from those disclosed in this statement. Agnitum Ltd collects information from our users at several different points on our web site, including without limitation, in connection with software registration, event registration, demographic and marketing research, contests, responses to product inquiries, and selected special offers.
+
+**Third Parties**
+
+Agnitum Ltd will not share your personal information with any third party organization without first disclosing the name of the party, the nature of the information that will be shared with the third party, and how that shared information will be used by the third party. In addition, Agnitum will notify you in writing at the email address you provide to us before any information is ever shared. You will have an opportunity to prevent such disclosure through an opt-out procedure. Should you choose to take advantage of contests or special offers made through this web site, some of which are in conjunction with third parties, your information will only be shared with a third party for the purposes of that contest or special event, as the case may be. 
+
+**Opt Out/Opt In Procedures**
+
+Agnitum Ltd will provide you with the opportunity to prevent the disclosure of your personal information to third parties through an opt-out function. In addition, any time you receive a notification email from Agnitum Ltd, you may respond to that email by requesting that your personal information not be shared. Also, for the benefit of those users who are members of trade unions, an opt-in button will be provided when any employer information is requested from any user. Finally, users who no longer desire to receive information from Agnitum Ltd may opt out of receiving those communications. This may be accomplished by email at info@agnitum.com, or by mailing a letter to Marketing Department, Agnitum Ltd, 194044 Russia, St.Petersburg, Bolshoy Sampsonievskiy 60, Liter "A".
+
+. 
+
+**Software and Event Registration**
+
+In order to download certain software programs and register for certain events such as seminars at this web site, a user must first complete a registration form. During registration, users are required to give their contact information such as name, email address, and employer’s name (where relevant). This information is used to contact the user about the services on our web site for which they have expressed interest.
+
+**Information Requests**
+
+In order to provide users with information on our services, we ask that users provide contact information to enable us to respond appropriately. This process requires the user’s name, business telephone number and email address, and employer’s name and geographic location.
+
+**Cookies**
+
+Agnitum Ltd currently uses cookies only to track the number of visitors coming into the web site at different entry points. Cookies are not used to store personal information that you may provide at its web site.
+
+**Log Files**
+
+We use IP addresses to analyze trends, administer the web site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+
+**Sharing**
+
+Agnitum Ltd will not share your personal information with any third party organization without first informing you in writing at the email address you provide to us. From time to time Agnitum Ltd may team with other companies to offer benefits or contests to our customers. Should you take advantage of these offers your information, for the specific use of that event, will be shared with the partner. This will only occur if you choose to participate.
+
+**Links**
+
+This web site contains links to other sites. Please be aware that Agnitum Ltd is not responsible for the privacy practices of such other sites. We encourage our users to be aware of this when they leave our web site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+
+**Referrals**
+
+If a user elects to provide us with contact information for his or her colleagues because he or she feels that those colleagues will benefit from information Agnitum Ltd can provide to them, we will automatically send those individuals a one-time email to provide the information requested on their behalf by their colleague. Agnitum Ltd stores this information for the sole purpose of sending this onetime email. These referred individuals may contact Agnitum Ltd at info@agnitum.com to request the removal of this information from the database.
+
+**Security of your personal information**
+
+Agnitum Ltd takes every precaution to protect our users’ information. When users submit sensitive information via the web site, that information is protected both online and off-line.
+
+**Supplementation of Information**
+
+In order for this web site to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from third party sources. For example, if a user fails to supply a valid telephone number and Agnitum Ltd determines that the most effective way to contact the user is by telephone, various business research tools will be employed to locate a valid telephone number.
+
+**Special Offers**
+
+Visitors who have previously registered contact information at this web site will occasionally receive information on new products or services, special deals, or a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
+
+**Correcting/Updating Personal Information**
+
+If a user’s personally identifiable information changes (such as your telephone number, email address, or your employer’s name), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can be done by emailing us at info@agnitum.com or by mailing a letter to Marketing Department, Agnitum Ltd, 194044 Russia, St.Petersburg, Bolshoy Sampsonievskiy 60, Liter "A". Requests for changes to a user’s personal data and/or requests for removal from any Agnitum Ltd database altogether will be completed as soon as is reasonably practicable.
+
+**Choice/Opt-out**
+
+Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our web site at the point where we ask for the information. For example, our ‘contact us’ message form has an ‘opt-out’ mechanism so users who request information from us, but don’t want any marketing material, can keep their email address off of our lists. Users who no longer wish to receive information from Agnitum Ltd may opt-out of receiving these communications. This can be done by emailing us at info@agnitum.com, or by mailing a letter to Marketing Department, Agnitum Ltd, 194044 Russia, St.Petersburg, Bolshoy Sampsonievskiy 60, Liter "A".
+
+Users of our web site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
+
+**Users Under the Age of 18**
+
+If you are under the age of 18, do not provide any personal data on this web site without the knowledge and permission of your parent or guardian.
+
+**Notification of Changes**
+
+If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, that we disclose it. If at any point we decide to use personal data in a manner different from that stated at the time it was collected, we will notify users by way of an email. 
+
+**Available Enforcement Procedures**
+
+Any user who believes that this Privacy Statement is not being adhered to is entitled to several available enforcement procedures: (1) the first step is to follow the instructions under Correcting/Updating Personal Information above; (2) if Step (1) does not alleviate the problem, then Agnitum Ltd will conduct an internal investigation and report its findings to the aggrieved user; and (3) if the user is not satisfied with the results of Step (2), then the aggrieved user may avail himself or herself of the European Data Protection Authority, who may choose to audit this web site. Ultimately the matter could be addressed under Section 5 of the United States Federal Trade Commission Act. Agnitum Ltd is committed to cooperate with, and will cooperate with, the European Union Data Protection Authority. Agnitum Ltd reserves the right not to investigate any claims it deems to be frivolous. 
