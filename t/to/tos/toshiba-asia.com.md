@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toshiba-asia.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206190032id_/http%3A//pc.toshiba-asia.com/privacyinfo.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba-asia.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210164359id_/http%3A//pc.toshiba-asia.com/privacyinfo.jsp) for the most accurate reproduction.*
 
 # Toshiba :: Asia
 
