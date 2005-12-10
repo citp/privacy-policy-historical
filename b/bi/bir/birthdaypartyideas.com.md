@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdaypartyideas.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208021043id_/http%3A//www.birthdaypartyideas.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaypartyideas.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210055838id_/http%3A//www.birthdaypartyideas.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@
 
 BirthdayPartyIdeas.com is very concerned with protecting our reader's online privacy. 
 
-Although our server can collect IP addresses, we only do so to understand the traffic patterns of our site.  Our traffic pattern analysis allows us to make better site improvements.  Individuals are not identified by our server.
+Although our server can collect IP addresses, we only do so to understand the traffic patterns of our site.  Our traffic pattern analysis allows us to make better site improvements. Individuals are not identified by our server.
 
-BirthdayPartyIdeas.com does collect personal data that is voluntarily submitted by our readers when submitting a party idea.  Most reader submissions are limited to an e-mail address, first name and general location (usually city, state & country). Readers who have won awards submit additional information so that the award can be delivered to the reader. 
+BirthdayPartyIdeas.com does collect personal data that is voluntarily submitted by our readers when submitting a party idea.  Most reader submissions are limited to an e-mail address, first name and general location (usually city, state & country).  Readers who have won awards submit additional information so that the award can be delivered to the reader. 
 
 Reader ideas that are included in the BirthdayPartyIdeas.com site are accompanied with the reader's first name and general location (usually city, state & country).
 
