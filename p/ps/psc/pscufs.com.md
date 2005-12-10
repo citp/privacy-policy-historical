@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pscufs.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305115358id_/http%3A//www.pscufs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pscufs.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210173924id_/http%3A//www.pscufs.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -68,7 +68,7 @@ PSCU Financial Services' web sites are secure sites, meaning that all exchanges 
 
 [](http://www3.trusecure.com/cert_info/certified.shtml?CERTID=082101400)TruSecure™ Certification
 
-TruSecure® Corporation is the worldwide leader in Internet security assurance services, including TruSecure, a comprehensive, multi-disciplinary program that helps hundreds of businesses reduce their information security risks and safely implement new Internet technologies and initiatives. TruSecure's ICSA Labs is the security industry's leading product research and certification facility. Information Security Magazine, published monthly by TruSecure, is the industry's leading source for news, analysis, insight and commentary on today's infosecurity marketplace. Through their certification program, TruSecure reviews PSCU Financial Services' security policies, practices, and physical and technical infrastructure and works with PSCU Financial Services to implement a comprehensive and continuous risk reduction program. To review the TruSecure Perimeter Management & Certification Report, [click here](https://web.archive.org/web/20050305115358id_/http%3A//www.pscufs.com/pdfs/truesecure_report.pdf).
+TruSecure® Corporation is the worldwide leader in Internet security assurance services, including TruSecure, a comprehensive, multi-disciplinary program that helps hundreds of businesses reduce their information security risks and safely implement new Internet technologies and initiatives. TruSecure's ICSA Labs is the security industry's leading product research and certification facility. Information Security Magazine, published monthly by TruSecure, is the industry's leading source for news, analysis, insight and commentary on today's infosecurity marketplace. Through their certification program, TruSecure reviews PSCU Financial Services' security policies, practices, and physical and technical infrastructure and works with PSCU Financial Services to implement a comprehensive and continuous risk reduction program. To review the TruSecure Perimeter Management & Certification Report, [click here](https://web.archive.org/web/20051210173924id_/http%3A//www.pscufs.com/pdfs/truesecure_report.pdf).
 
 Please visit [www.trusecure.com](http://www.trusecure.com/) for additional information.  
 
