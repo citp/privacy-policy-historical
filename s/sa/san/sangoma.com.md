@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sangoma.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206141043id_/http%3A//www.sangoma.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sangoma.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210173416id_/http%3A//www.sangoma.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Sangoma - Privacy
 
