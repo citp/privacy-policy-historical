@@ -1,29 +1,39 @@
-<!--The following is the downloaded HTML source of the thomson.com privacy policy that was archived on 2005-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050308030706id_/http%3A//www.thomson.com/corp/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thomson.com privacy policy that was archived on 2005-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210215852id_/http%3A//thomson.com/corp/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>Thomson - Privacy Statement</title>
+	<title>Thomson - Privacy Statement</title>
     <link rel="stylesheet" type="text/css" href="/css/thomson_main.css">
     <link rel="stylesheet" type="text/css" href="/css/thomson_corp.css">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <script language="javascript" src="/js/layerdisplay.js"></script>
     <script language="javascript">
-    //Method that sets the value of hiddden variables before submission of the form
+    
+    // for the left nav and home page nav images    
+    var navImgList = new Array(); 
+    var navList;
+    
+    
+    //required for "changeImages()" 
+    var section = 'corp';
+    var subsection = 'null';
+    
     function searchSubmit(formObj){
-    	//alert('searchSubmit called');
-    	var selectedOption = formObj.search_area[formObj.search_area.selectedIndex].value;
-	
+	//<!--CR 282 - Anand 09/14/2005 -->
+	var newUrl = 'http://www.searchlearning.thomson.com/search?q=' + formObj.queryText.value + '&site=tl_col&btnG=Go&as_q=&sort=date%3AD%3AL%3Ad1&output=xml_no_dtd&ie=UTF-8&oe=UTF-8&client=default_frontend&proxystylesheet=default_frontend';
+	//<!--CR 282 - Anand 09/14/2005 -->
+	var selectedOption = formObj.search_area[formObj.search_area.selectedIndex].value;
 	//if thomson.com is selected search the entire site
 	if(selectedOption == "thomson"){
 		formObj.aboutUs.value="on";
 		formObj.pressRoom.value="on";
 		formObj.pressReleases.value="on";
 		formObj.investorRelations.value="on";
+		formObj.careers.value="on";
 		formObj.financial.value="on";
 		formObj.healthcare.value="on";
 		formObj.learning.value="on";
 		formObj.legal.value="on";
-		formObj.bizInfoAndNews.value="on";
 		formObj.scientific.value="on";
 		formObj.taxAndAccounting.value="on";
 	}
@@ -32,17 +42,22 @@
 	}else if (selectedOption == "healthcare"){
 		formObj.healthcare.value="on";
 	}else if (selectedOption == "learning"){
-		formObj.learning.value="on";
+		//<!--CR 282 - Anand 09/14/2005 -->
+		window.top.location.href = newUrl;
+		window.top.location.href.replace(newUrl);
+		//<!--CR 282 - Anand 09/14/2005 -->
 	}else if (selectedOption == "legal"){
 		formObj.legal.value="on";
-	}else if (selectedOption == "bizinfo"){
-		formObj.bizInfoAndNews.value="on";
 	}else if (selectedOption == "scientific"){
 		formObj.scientific.value="on";
 	}else if (selectedOption == "taxacct"){
 		formObj.taxAndAccounting.value="on";
 	}
-	
+	//<!--CR 282 - Anand 09/14/2005 -->
+	if (selectedOption == "learning"){
+		return false;
+	}
+	//<!--CR 282 - Anand 09/14/2005 -->
     }
     function openwin(url, w, h, s) {
 			winstyle = 'top=50,left=50,width='+w+',height='+h;
@@ -51,46 +66,101 @@
 			}
 			window.open(url,'', winstyle);
 		}
+		
     function redirect(form)
         {
             newPage = form.options[form.selectedIndex].value;
             if (newPage != "")
                 window.top.location.href = newPage;
         }
-		
-	function clearForm(frm)
-	{
-		for (var i = 0; i < frm.elements.length; i++)
-		{
-			if (frm.elements[i].type=="text" || frm.elements[i].type=="textarea")
-				frm.elements[i].value = "";
-			if (frm.elements[i].type=="checkbox" || frm.elements[i].type=="radio")
-				frm.elements[i].checked = false;
+
+	</script>	
+</head>
+
+<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="#ffffff" onload="preloadImages()">
+<a name="top"></a>
+
+
+
+<script>
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	
+	if (document.images && (preloadFlag == true)) {
+		if(changeImages.arguments[2] != subsection){
+			document[changeImages.arguments[0]].src = changeImages.arguments[1];
 		}
 	}
-    
-    function changeImage()
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		header_2005_02_over = newImage("/images/header_2005_02-over.gif");
+		header_2005_03_over = newImage("/images/header_2005_03-over.gif");
+		header_2005_04_over = newImage("/images/header_2005_04-over.gif");
+		header_2005_05_over = newImage("/images/header_2005_05-over.gif");
+		header_2005_06_over = newImage("/images/header_2005_06-over.gif");
+		header_2005_07_over = newImage("/images/header_2005_07-over.gif");
+		header_2005_08_over = newImage("/images/header_2005_08-over.gif");
+		preloadFlag = true;
+	}
+}
+
+function changeNavImage()
         {  
         	if (document.images)
         	{
-        		for (var i=0; i < changeImage.arguments.length; i+=2)
-        		{                
-    		        document[changeImage.arguments[i]].src = eval(changeImage.arguments[i+1] + ".src");
-        		}  
-        	}
-        }
-    
-    function changeNavImage()
-        {  
-        	if (document.images)
-        	{
-        		for (var i=0; i < changeNavImage.arguments.length; i+=2)
+			for (var i=0; i < changeNavImage.arguments.length; i+=2)
         		{                         
-    		       document[changeNavImage.arguments[i]].src = navImgList[changeNavImage.arguments[i]].states[changeNavImage.arguments[i+1]].src;
+			document[changeNavImage.arguments[i]].src = navImgList[changeNavImage.arguments[i]].states[changeNavImage.arguments[i+1]].src;
         		}  
         	}
         }
-        
+
+</script>
+
+
+<table width="760" height="21" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td><img src="/images/header_2005_01.gif" width="254" height="21" alt=""></td>
+		<td>
+			<a href="/index.jsp" onmouseover="changeImages('header_2005_02', '/images/header_2005_02-over.gif', 'home'); return true;" onmouseout="changeImages('header_2005_02', '/images/header_2005_02.gif', 'home'); return true;" onmousedown="changeImages('header_2005_02', '/images/header_2005_02-over.gif', 'home'); return true;" onmouseup="changeImages('header_2005_02', '/images/header_2005_02-over.gif', 'home'); return true;">
+				<img name="header_2005_02" src="/images/header_2005_02.gif" width="39" height="21" border="0" alt="Home"></a></td>
+		<td>
+			<a href="/corp/about/ab_home.jsp" onmouseover="changeImages('header_2005_03', '/images/header_2005_03-over.gif', 'about'); return true;" onmouseout="changeImages('header_2005_03', '/images/header_2005_03.gif', 'about'); return true;" onmousedown="changeImages('header_2005_03', '/images/header_2005_03-over.gif', 'about'); return true;" onmouseup="changeImages('header_2005_03', '/images/header_2005_03-over.gif', 'about'); return true;">
+				<img name="header_2005_03" src="/images/header_2005_03.gif" width="56" height="21" border="0" alt="About Us"></a></td>
+		<td>
+			<a href="/corp/products_solutions/ps_home.jsp" onmouseover="changeImages('header_2005_04', '/images/header_2005_04-over.gif', 'products'); toggleDropdown('show'); MM_showHideLayers('topNavDropdown','','show'); return true;" onmouseout="changeImages('header_2005_04', '/images/header_2005_04.gif', 'products'); toggleDropdown('hide'); return true;" onmousedown="changeImages('header_2005_04', '/images/header_2005_04-over.gif', 'products'); toggleDropdown('show'); MM_showHideLayers('topNavDropdown','','show');  return true;" onmouseup="changeImages('header_2005_04', '/images/header_2005_04-over.gif', 'products'); toggleDropdown('hide');  return true;">
+				<img name="header_2005_04" src="/images/header_2005_04.gif" width="117" height="21" border="0" alt="Products &amp; Solutions"></a></td>
+		<td>
+			<a href="/corp/pressroom/pr_home.jsp" onmouseover="changeImages('header_2005_05', '/images/header_2005_05-over.gif', 'pressroom'); return true;" onmouseout="changeImages('header_2005_05', '/images/header_2005_05.gif', 'pressroom'); return true;" onmousedown="changeImages('header_2005_05', '/images/header_2005_05-over.gif', 'pressroom'); return true;" onmouseup="changeImages('header_2005_05', '/images/header_2005_05-over.gif', 'pressroom'); return true;">
+				<img name="header_2005_05" src="/images/header_2005_05.gif" width="67" height="21" border="0" alt="Press Room"></a></td>
+		<td>
+			<a href="/corp/investor_relations/ir_home.jsp" onmouseover="changeImages('header_2005_06', '/images/header_2005_06-over.gif', 'investor_relations'); return true;" onmouseout="changeImages('header_2005_06', '/images/header_2005_06.gif', 'investor_relations'); return true;" onmousedown="changeImages('header_2005_06', '/images/header_2005_06-over.gif', 'investor_relations'); return true;" onmouseup="changeImages('header_2005_06', '/images/header_2005_06-over.gif', 'investor_relations'); return true;">
+				<img name="header_2005_06" src="/images/header_2005_06.gif" width="102" height="21" border="0" alt="Investor Relations"></a></td>
+		<td>
+			<a href="http://www.thomsoncareers.com/" onmouseover="changeImages('header_2005_07', '/images/header_2005_07-over.gif', 'careers'); return true;" onmouseout="changeImages('header_2005_07', '/images/header_2005_07.gif', 'careers'); return true;" onmousedown="changeImages('header_2005_07', '/images/header_2005_07-over.gif', 'careers'); return true;" onmouseup="changeImages('header_2005_07', '/images/header_2005_07-over.gif', 'careers'); return true;">
+				<img name="header_2005_07" src="/images/header_2005_07.gif" width="48" height="21" border="0" alt="Careers"></a></td>
+		<td>
+			<a href="/corp/contact_us/contact_us.jsp" onmouseover="changeImages('header_2005_08', '/images/header_2005_08-over.gif', 'contact_us'); return true;" onmouseout="changeImages('header_2005_08', '/images/header_2005_08.gif', 'contact_us'); return true;" onmousedown="changeImages('header_2005_08', '/images/header_2005_08-over.gif', 'contact_us'); return true;" onmouseup="changeImages('header_2005_08', '/images/header_2005_08-over.gif', 'contact_us'); return true;">
+				<img name="header_2005_08" src="/images/header_2005_08.gif" width="77" height="21" border="0" alt="Contact Us"></a></td>
+	</tr>
+</tbody></table>
+
+
+
+
+<script language="javascript">
+
     function navImg(baseName)
     {
         this.states = new Array();
@@ -100,25 +170,20 @@
         this.states["off_over"] = this.states["on"];
     }
     
-    var basePath;    
-    
-    // for the left nav and home page nav images    
-    var navImgList = new Array(); 
-    var navList;
+    var basePath;
 
-	// for the sector menu drop down
-	var dropdownState = "hide";
+    	var dropdownState = "hide";
 	var timerID;
 	function toggleDropdown(state)
 	{
 		dropdownState = state;
 		if (state == "show")
 		{
-			changeImage('explore_thomson','explore_thomson_on');
+			changeImages('header_2005_04', '/images/header_2005_04-over.gif', 'products')
 			timerID = setInterval(displayDropdown,1500);
 		} 
 		else if (state == "hide")
-			changeImage('explore_thomson','explore_thomson_off');
+			changeImages('header_2005_04', '/images/header_2005_04.gif', 'products');
 	}
 	
     function displayDropdown()
@@ -128,9 +193,9 @@
 			clearInterval(timerID);
     }
 	
-	basePath = "/images/topnav/dropdown_";
+    basePath = "/images/topnav/dropdown_";
     var dropdownImgList = new Array();     
-    dropdownList = ["thomson", "biz_info", "financial", "healthcare", "learning", "legal", "scientific", "tax"];
+    dropdownList = ["financial", "healthcare", "learning", "legal", "scientific", "tax"];
     
     for (var i = 0; i < dropdownList.length; i++)
     {
@@ -138,95 +203,103 @@
     }
     
     
-    basePath = "/images/topnav/topnav_explore_thomson_";
-    explore_thomson_on = new Image(); explore_thomson_on.src = basePath + "on.gif";
-    explore_thomson_off = new Image(); explore_thomson_off.src = basePath + "off.gif";
-    	
-    </script> 
-</head>
-
-<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="#ffffff">
-<a name="top"></a>
-<table width="760" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-        <td class="bg_navblue" colspan="3"><img src="/images/s.gif" width="760" height="5" alt="" border="0"></td>        
-    </tr>
-    <tr>
-		<td class="bg_9"><img src="/images/s.gif" width="174" height="1" alt="" border="0"></td>        
-		<td class="bg_9"><img src="/images/s.gif" width="1" height="1" alt="" border="0"></td>        
-        <td class="bg_navblue"><img src="/images/s.gif" width="586" height="1" alt="" border="0"></td>    </tr>
-    <tr>
-        <td class="bg_f" rowspan="2"><img src="/images/s.gif" width="1" height="16" alt="" border="0"></td>        
-		<td class="bg_9"><img src="/images/s.gif" width="1" height="15" alt="" border="0"></td>
-        <td class="bg_navblue">
-            <table width="585" border="0" cellpadding="0" cellspacing="0" class="bg_navblue">
-                <tbody><tr>
-                    <td width="14"><img src="/images/s.gif" width="14" height="1" alt="" border="0"></td>
-					
-<td width="48"><a href="/index.jsp"><img src="/images/topnav/topnav_home_off.gif" width="48" height="14" alt="Home" border="0"></a></td>
-<td width="65"><a href="/corp/about/ab_home.jsp"><img src="/images/topnav/topnav_aboutus_off.gif" width="65" height="14" alt="About Us" border="0"></a></td>
-<td width="75"><a href="/corp/pressroom/pr_home.jsp"><img src="/images/topnav/topnav_pressroom_off.gif" width="75" height="14" alt="Press Room" border="0"></a></td>
-<td width="112"><a href="/corp/investor_relations/ir_home.jsp"><img src="/images/topnav/topnav_ir_off.gif" width="112" height="14" alt="Investor Relations" border="0"></a></td>
-<td width="58"><a href="http://www.thomsoncareers.com"><img src="/images/topnav/topnav_careers_off.gif" width="58" height="14" alt="Careers" border="0"></a></td>
-<td width="72"><a href="/corp/contact_us/contact_us.jsp"><img src="/images/topnav/topnav_contactus_off.gif" width="72" height="14" alt="Contact Us" border="0"></a></td>					
-                    <td width="131" align="right" valign="top"><a href="/index.jsp" onmouseover="changeImage('explore_thomson','explore_thomson_on');toggleDropdown('show');MM_showHideLayers('topNavDropdown','','show');" onmouseout="toggleDropdown('hide');"><img src="/images/topnav/topnav_explore_thomson_off.gif" width="112" height="14" alt="Explore The Thomson Corporation" name="explore_thomson" border="0"></a></td>
-                    <td width="10"><img src="/images/s.gif" width="10" height="1" alt="" border="0"></td>                    
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-    <tr>
-        <td class="bg_9" colspan="2"><img src="/images/s.gif" width="586" height="1" alt="" border="0"></td>
-    </tr>
+    // preloading images for the dropdown    
+    function changeDropdownImage()
+    {  
+    	if (document.images)
+    	{
+    		for (var i=0; i < changeDropdownImage.arguments.length; i+=2)
+    		{                         
+		       document[changeDropdownImage.arguments[i]].src = dropdownImgList[changeDropdownImage.arguments[i]].states[changeDropdownImage.arguments[i+1]].src;
+    		}  
+    	}
+    }
+</script>
+<div id="topNavDropdown" class="topNavDropdownNew">
+<table width="104" border="0" cellpadding="0" cellspacing="0" onmouseover="toggleDropdown('show');" onmouseout="toggleDropdown('hide');">
+	<tbody><tr>
+	    <td><a href="/financial/financial.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('financial','on');" onmouseout="changeDropdownImage('financial','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_financial_off.gif" width="104" height="14" alt="Financial" name="financial" border="0"></a></td>
+	</tr>
+	<tr>
+	    <td><a href="/healthcare/healthcare.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('healthcare','on');" onmouseout="changeDropdownImage('healthcare','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_healthcare_off.gif" width="104" height="14" alt="Healthcare" name="healthcare" border="0"></a></td>
+	</tr>
+	<tr>
+	    <td><a href="/learning/learning.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('learning','on');" onmouseout="changeDropdownImage('learning','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_learning_off.gif" width="104" height="14" alt="Learning" name="learning" border="0"></a></td>
+	</tr>				
+	<tr>
+	    <td><a href="/legal/legal.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('legal','on');" onmouseout="changeDropdownImage('legal','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_legal_off.gif" width="104" height="14" alt="Legal" name="legal" border="0"></a></td>
+	</tr>                                
+	<tr>
+	    <td><a href="/scientific/scientific.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('scientific','on');" onmouseout="changeDropdownImage('scientific','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_scientific_off.gif" width="104" height="14" alt="Scientific" name="scientific" border="0"></a></td>
+	</tr>
+	<tr>
+	    <td><a href="/taxacct/taxacct.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('tax','on');" onmouseout="changeDropdownImage('tax','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_tax_off.gif" width="104" height="14" alt="Tax and Accounting" name="tax" border="0"></a></td>
+	</tr>
 </tbody></table>
+
+</div>
+   
 <table width="760" border="0" cellpadding="0" cellspacing="0">
-    <form action="/search/executeSearchQuery.do" method="GET" onsubmit="searchSubmit(this);"></form>
-    <tbody><tr>
-        <td width="174"><a href="/index.jsp"><img src="/images/misc/logo_thomson.gif" width="174" height="45" alt="The Thomson Corporation" border="0"></a></td>
-        <td width="466" align="right" valign="middle">
-	
+    <tbody><tr>		
+        <td width="254" align="center"><a href="/index.jsp"><img src="/images/misc/logo_thomson.gif" width="174" height="45" alt="The Thomson Corporation" border="0"></a></td>   
+        <td width="388" align="right" valign="middle">	
+	<!--CR 282 - Anand 09/14/2005 -->
+	<!--<form action="/search/executeSearchQuery.do" method="GET" onSubmit="searchSubmit(this);">-->	
+	<form action="/search/executeSearchQuery.do" method="GET" onsubmit="return searchSubmit(this);">
+	<!--CR 282 - Anand 09/14/2005 -->
 	<input type="text" name="queryText" value="Search" onfocus="if(this.value=='Search')this.value='';">
-	 in 
+			 in 
 	<select name="search_area">
 		<option value="thomson" selected="">Thomson.com</option>
 		<option value="financial">Financial</option>
 		<option value="healthcare">Healthcare</option>
 		<option value="learning">Learning</option>
 		<option value="legal">Legal</option>
-		<option value="bizinfo">News &amp; Business Info</option>
 		<option value="scientific">Scientific</option>
 		<option value="taxacct">Tax &amp; Accounting</option>
 	</select>
-	<img src="/images/s.gif" width="10" height="1" alt="" border="0">
-	<input type="image" src="/images/buttons/bu_go.gif" width="16" height="14" alt="Go" align="absmiddle" border="0">
-           	<input type="hidden" name="section" value="corp">
+		
+
+	 
+		<input type="image" src="/images/buttons/bu_go.gif" width="16" height="14" alt="Go" align="absmiddle" border="0">
+	
+		<!-- DO NOT DELETE CODE BELOW   For Omniture correlated variables -->
+
+			<input type="hidden" name="section" value="corp">
+ 			
+ 			
+ 			<input type="hidden" name="subsection" value="">
+ 			<input type="hidden" name="ternary" value="">
+ 			
+
 			
-			<!-- For Omniture correlated variables -->
 			
-			
-			<input type="hidden" name="subsection" value="">
-			<input type="hidden" name="ternary" value="">
-			
-	    
 	    <input type="hidden" name="aboutUs" value="off">
             <input type="hidden" name="legal" value="off">
             <input type="hidden" name="pressRoom" value="off">
             <input type="hidden" name="taxAndAccounting" value="off">
             <input type="hidden" name="pressReleases" value="off">
-            <input type="hidden" name="bizInfoAndNews" value="off">
             <input type="hidden" name="investorRelations" value="off">
+	    <input type="hidden" name="careers" value="off">
             <input type="hidden" name="learning" value="off">
             <input type="hidden" name="financial" value="off">
             <input type="hidden" name="healthcare" value="off">
             <input type="hidden" name="scientific" value="off">
-	   
-	    </td>
+
+
+
+            <!----------------------------Please Don't touch the Code Above  ------------------------->
+
+
+		</form></td>
         <td width="120" valign="middle">
-            <img src="/images/s.gif" width="10" height="1" alt="" border="0"><a href="/search/advanced_search_corp.jsp">Advanced Search</a>
+            <img src="/images/s.gif" width="10" height="1" alt="" border="0"><a href="/search/advanced_search_corp.jsp?subsection=null">Advanced Search</a>
         </td>
     </tr>
+	
     
-</tbody></table>    
+</tbody></table>
+
 
 
 
@@ -250,53 +323,6 @@
 
 
 
-<div id="topNavDropdown" class="topNavDropdown">
-<script language="javascript">
-    // preloading images for the dropdown    
-    function changeDropdownImage()
-    {  
-    	if (document.images)
-    	{
-    		for (var i=0; i < changeDropdownImage.arguments.length; i+=2)
-    		{                         
-		       document[changeDropdownImage.arguments[i]].src = dropdownImgList[changeDropdownImage.arguments[i]].states[changeDropdownImage.arguments[i+1]].src;
-    		}  
-    	}
-    }
-</script>
-<table width="116" border="0" cellpadding="0" cellspacing="0" onmouseover="toggleDropdown('show');" onmouseout="toggleDropdown('hide');">
-	<tbody><tr>
-	    <td><a href="/index.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('thomson','on');" onmouseout="changeDropdownImage('thomson','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_thomson_off.gif" width="116" height="11" alt="The Thomson Corporation" name="thomson" border="0"></a></td>
-	</tr>
-	<tr>
-	    <td><a href="/financial/financial.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('financial','on');" onmouseout="changeDropdownImage('financial','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_financial_off.gif" width="116" height="11" alt="Financial" name="financial" border="0"></a></td>
-	</tr>
-	<tr>
-	    <td><a href="/healthcare/healthcare.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('healthcare','on');" onmouseout="changeDropdownImage('healthcare','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_healthcare_off.gif" width="116" height="11" alt="Healthcare" name="healthcare" border="0"></a></td>
-	</tr>
-	<tr>
-	    <td><a href="/learning/learning.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('learning','on');" onmouseout="changeDropdownImage('learning','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_learning_off.gif" width="116" height="11" alt="Learning" name="learning" border="0"></a></td>
-	</tr>				
-	<tr>
-	    <td><a href="/legal/legal.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('legal','on');" onmouseout="changeDropdownImage('legal','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_legal_off.gif" width="116" height="11" alt="Legal" name="legal" border="0"></a></td>
-	</tr>                                
-	<tr>
-	    <td><a href="/bizinfo/bizinfo.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('biz_info','on');" onmouseout="changeDropdownImage('biz_info','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_biz_info_off.gif" width="116" height="11" alt="News and Business Info" name="biz_info" border="0"></a></td>
-	</tr>
-	<tr>
-	    <td><a href="/scientific/scientific.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('scientific','on');" onmouseout="changeDropdownImage('scientific','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_scientific_off.gif" width="116" height="11" alt="Scientific" name="scientific" border="0"></a></td>
-	</tr>
-	<tr>
-		<td><a href="/taxacct/taxacct.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('tax','on');" onmouseout="changeDropdownImage('tax','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_tax_off.gif" width="116" height="11" alt="Tax and Accounting" name="tax" border="0"></a></td>
-	</tr>
-	<tr>
-		<td class="bg_9"><img src="/images/s.gif" width="116" height="1" alt="" border="0"></td>
-	</tr>
-</tbody></table>
-
-</div>
-
-
 <table border="0" cellpadding="0" cellspacing="0" width="760">
     <tbody><tr>
         
@@ -312,12 +338,13 @@
 <script language="javascript">
     // the variable declarations for nav_list and navImg() are in /includes/header.jsp
     // preloading images for the navbar images
-    navList = ["about_us", "pressroom", "investor_relations", "careers", "contact_us"];
-    basePath = "/images/sections/corp/leftnav_cp_";
+    navList = ["about_us", "products_solutions","pressroom", "investor_relations", "careers", "contact_us"];
+    basePath = "/cms/assets/images/corporate/leftnav/leftnav_cp_";
     for (var i = 0; i < navList.length; i++)
     {
         navImgList[navList[i]] = new navImg(navList[i]);
     }
+	
 </script>
 <table width="164" border="0" cellpadding="0" cellspacing="0">
     <tbody><tr>
@@ -328,18 +355,28 @@
     
 	
     <tr>
-        <td><a href="/corp/about/ab_home.jsp" onmouseover="changeNavImage('about_us', 'off_over');" onmouseout="changeNavImage('about_us', 'off');"><img src="/images/sections/corp/leftnav_cp_about_us_off.gif" name="about_us" width="163" height="15" alt="About Us" border="0"></a></td>
+        <td><a class="leftnav" href="/corp/about/ab_home.jsp" onmouseover="changeNavImage('about_us', 'off_over');" onmouseout="changeNavImage('about_us', 'off');"><img src="/CMS/assets/images/corporate/leftnav/leftnav_cp_about_us_off.gif" name="about_us" width="163" height="16" alt="About Us" border="0"></a></td>
     </tr>
     <tr>
         <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
     </tr>
 
-			
+
+
+	
+    <tr>
+        <td><a class="leftnav" href="/corp/products_solutions/ps_home.jsp" onmouseover="changeNavImage('products_solutions', 'off_over');" onmouseout="changeNavImage('products_solutions', 'off');"><img src="/CMS/assets/images/corporate/leftnav/leftnav_cp_products_solutions_off.gif" name="products_solutions" width="163" height="16" alt="Products &amp; Solutions" border="0"></a></td>
+    </tr>
+    <tr>
+        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
+    </tr>
+
+  
     
     
 	
     <tr>		
-        <td><a href="/corp/pressroom/pr_home.jsp" onmouseover="changeNavImage('pressroom', 'off_over');" onmouseout="changeNavImage('pressroom', 'off');"><img src="/images/sections/corp/leftnav_cp_pressroom_off.gif" name="pressroom" width="163" height="15" alt="Press Room" border="0"></a></td>
+        <td><a class="leftnav" href="/corp/pressroom/pr_home.jsp" onmouseover="changeNavImage('pressroom', 'off_over');" onmouseout="changeNavImage('pressroom', 'off');"><img src="/CMS/assets/images/corporate/leftnav/leftnav_cp_pressroom_off.gif" name="pressroom" width="163" height="16" alt="Press Room" border="0"></a></td>
     </tr>
     <tr>
         <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
@@ -349,7 +386,7 @@
     
 	
     <tr>
-        <td><a href="/corp/investor_relations/ir_home.jsp" onmouseover="changeNavImage('investor_relations', 'off_over');" onmouseout="changeNavImage('investor_relations', 'off');"><img src="/images/sections/corp/leftnav_cp_investor_relations_off.gif" name="investor_relations" width="163" height="15" alt="Investor Relations" border="0"></a></td>
+        <td><a class="leftnav" href="/corp/investor_relations/ir_home.jsp" onmouseover="changeNavImage('investor_relations', 'off_over');" onmouseout="changeNavImage('investor_relations', 'off');"><img src="/CMS/assets/images/corporate/leftnav/leftnav_cp_investor_relations_off.gif" name="investor_relations" width="163" height="16" alt="Investor Relations" border="0"></a></td>
     </tr>
     <tr>
         <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
@@ -359,7 +396,7 @@
     
 	
     <tr>
-        <td><a href="http://www.thomsoncareers.com" onmouseover="changeNavImage('careers', 'off_over');" onmouseout="changeNavImage('careers', 'off');"><img src="/images/sections/corp/leftnav_cp_careers_off.gif" name="careers" width="163" height="15" alt="Careers" border="0"></a></td>
+        <td><a class="leftnav" href="http://www.thomsoncareers.com" onmouseover="changeNavImage('careers', 'off_over');" onmouseout="changeNavImage('careers', 'off');"><img src="/CMS/assets/images/corporate/leftnav/leftnav_cp_careers_off.gif" name="careers" width="163" height="16" alt="Careers" border="0"></a></td>
     </tr>
     <tr>
         <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
@@ -368,7 +405,7 @@
     
 	
      <tr>
-        <td><a href="/corp/contact_us/contact_us.jsp" onmouseover="changeNavImage('contact_us', 'off_over');" onmouseout="changeNavImage('contact_us', 'off');"><img src="/images/sections/corp/leftnav_cp_contact_us_off.gif" name="contact_us" width="163" height="15" alt="Contact Us" border="0"></a></td>
+        <td><a class="leftnav" href="/corp/contact_us/contact_us.jsp" onmouseover="changeNavImage('contact_us', 'off_over');" onmouseout="changeNavImage('contact_us', 'off');"><img src="/CMS/assets/images/corporate/leftnav/leftnav_cp_contact_us_off.gif" name="contact_us" width="163" height="16" alt="Contact Us" border="0"></a></td>
     </tr>
     <tr>
         <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
@@ -495,7 +532,7 @@
         <td width="10" rowspan="3"><img src="/images/s.gif" width="10" height="1" border="0" alt=""></td>
         <td width="164" class="footerGrey" rowspan="3" valign="top">
 			<img src="/images/s.gif" width="164" height="5" border="0" alt=""><br>
-            <a href="/corp/copyright.jsp">Copyright Notices</a> | <a href="/corp/terms.jsp">Terms of Use</a><br>
+            <a href="/corp/copyright.jsp">Copyright Notices</a> | <a href="/corp/terms.jsp">Terms of Use</a> | 
 <a href="/corp/privacy.jsp">Privacy Statement</a><br>
         </td>
         <td width="1" class="bg_9" rowspan="2"><img src="/images/s.gif" width="1" height="15" border="0" alt=""></td>
@@ -515,8 +552,8 @@
 
 
  
-<a href="/index.jsp">Home</a> | <a href="/corp/sitemap.jsp">Site Map</a> | <a href="/corp/about/ab_home.jsp">About Us</a> | <a href="/corp/pressroom/pr_home.jsp">Press Room</a> | <a href="/corp/investor_relations/ir_home.jsp">Investor Relations</a> | <a href="http://www.thomsoncareers.com">Careers</a> | <a href="/corp/contact_us/contact_us.jsp">Contact Us</a><br>
-<a href="/financial/financial.jsp">Financial</a> | <a href="/healthcare/healthcare.jsp">Healthcare</a> | <a href="/learning/learning.jsp">Learning</a> | <a href="/legal/legal.jsp">Legal</a> | <a href="/bizinfo/bizinfo.jsp">News &amp; Business Information</a> | <a href="/scientific/scientific.jsp">Scientific</a> | <a href="/taxacct/taxacct.jsp">Tax &amp; Accounting</a>
+<a href="/index.jsp">Home</a> | <a href="/corp/sitemap.jsp">Site Map</a> | <a href="/corp/about/ab_home.jsp">About Us</a> | <a href="/corp/products_solutions/ps_home.jsp">Products &amp; Solutions</a> |<a href="/corp/pressroom/pr_home.jsp">Press Room</a> | <a href="/corp/investor_relations/ir_home.jsp">Investor Relations</a> | <a href="http://www.thomsoncareers.com">Careers</a> | <a href="/corp/contact_us/contact_us.jsp">Contact Us</a><br>
+<a href="/financial/financial.jsp">Financial</a> | <a href="/healthcare/healthcare.jsp">Healthcare</a> | <a href="/learning/learning.jsp">Learning</a> | <a href="/legal/legal.jsp">Legal</a> | <a href="/scientific/scientific.jsp">Scientific</a> | <a href="/taxacct/taxacct.jsp">Tax &amp; Accounting</a>
 <br>
 <!-- SiteCatalyst code version: G.4.
 Copyright 1997-2003 Omniture, Inc. More info available at
@@ -555,8 +592,19 @@ var s_eVar5=""
 /********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
 //-->
 </script>
-<script language="JavaScript" src="/js/s_code_remote.js"></script><img name="s_i_thcorp" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/thcorp/1/G.5-PD-R/s71574796242610?[AQB]&amp;ndh=1&amp;t=31/0/2020%205%3A44%3A45%205%200&amp;ch=corp&amp;g=https%3A//web.archive.org/web/20050308030706id_/http%253A//www.thomson.com/corp/privacy.jsp&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript" src="/js/s_code_remote.js"></script><img name="s_i_thcorp" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/thcorp/1/G.5-PD-R/s77960710892385?[AQB]&amp;ndh=1&amp;t=31/0/2020%205%3A44%3A48%205%200&amp;ch=corp&amp;g=https%3A//web.archive.org/web/20051210215852id_/http%253A//thomson.com/corp/privacy.jsp&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <!-- End SiteCatalyst code version: G.4. -->
+<script language="JavaScript">
+<!--
+s_wds(s_account); s_ca(s_account);
+function sendAnalyticsEvent(str){
+ns=s_account; if(str!=null)ns+=","+str;void(s_gs(ns));}
+function sendLinkEvent(str,lnkname){
+ns=s_account; if(str!=""&&str!=null)ns+=","+str; s_linkType="o"; s_lnk=true;
+s_linkName=lnkname; void(s_gs(ns));}
+//-->
+</script>
+
 
 
   
