@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308111523id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210220433id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # The AnswerBank: Privacy Policy
 
@@ -12,12 +12,12 @@ In general, we use the personal information that we collect from you to increase
 
 
   * What other personal data does The AnswerBank collect?
-  * Only the user name and password you choose to supply. This is to protect your privacy and ensure that other people cannot sign on to the site in your name without your permission.
+  * Only the name, user name and password you choose to supply. This is to protect your privacy and ensure that other people cannot sign on to the site in your name without your permission.
 
 
 
 If you want to enter a competition or a prize draw or something of that nature where, for example, the prize is being given away by a third party, we will make it clear at the time you enter the draw if the terms of entry for the competition entails your email address being transferred to the third party.  
-We may from time to time send you details of site developments, business developments and promotions but these will come directly from The AnswerBank, and we will not disclose your details to third parties for this purpose.  
+We may from time to time send you details of site developments, business developments and promotions but these will come directly from The AnswerBank.  
 
 
 If we are requested by the police or any regulatory or government authority investigating suspected illegal activities, or in response to a UK court order, to access and disclose individually identifiable information concerning your activities whilst using our website, we shall do so (but we will, where reasonably practicable, notify you in advance of any court order). We also reserve the right to disclose individually identifiable information to third parties where a complaint arises concerning your use of our website, and that use is deemed by us inconsistent with this policy.  
@@ -47,7 +47,3 @@ If we are requested by the police or any regulatory or government authority inve
   * If you wish to email us with any questions or comments about The AnswerBank, then please [click here](https://web.archive.org/Info/ContactUs.asp).
 
 
-
-Find answers
-
-with Ask Jeeves!
