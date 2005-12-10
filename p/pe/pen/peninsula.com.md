@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305033005id_/http%3A//www.peninsula.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210160755id_/http%3A//www.peninsula.com/privacy.html) for the most accurate reproduction.*
 
 # The Peninsula Hotels: Privacy Statement
 
 | [The Peninsula Hotels Home](https://web.archive.org/index.html)|   
 ---|---  
+[Toll Free Global Customer Service](https://web.archive.org/tollfree.html)|   
 [To Plan A Meeting or Event](https://web.archive.org/meetings/index.html)|   
 Portraits of Peninsula|   
+Concierge Choice|   
 [News at The Peninsula](http://newscenter.peninsula.com/)|   
 [E-Brochures](https://web.archive.org/ebrochures.html)|   
 [Your Feedback](https://web.archive.org/email.html)|   
