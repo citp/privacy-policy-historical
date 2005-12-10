@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcfexpress.com privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629073516id_/http%3A//www.tcfexpress.com/Footer/footer_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcfexpress.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210095919id_/http%3A//tcfexpress.com/Footer/footer_privacy.jsp) for the most accurate reproduction.*
 
 # TCF Bank - TCF Privacy Policy
 
@@ -34,11 +34,11 @@ We may also use the information we collect about you to offer you products and s
 
 **Accuracy of Customer Information**
 
-TCF has established audit procedures to maintain the accuracy and integrity of account and personal information. If you believe the account or personal information we maintain is incorrect, or if you would like to review your account or personal information, please [contact us](https://web.archive.org/web/20050629073516id_/http%3A//www.tcfexpress.com/ContactUs/index.jsp).
+TCF has established audit procedures to maintain the accuracy and integrity of account and personal information. If you believe the account or personal information we maintain is incorrect, or if you would like to review your account or personal information, please [contact us](https://web.archive.org/web/20051210095919id_/http%3A//tcfexpress.com/ContactUs/index.jsp).
 
 **Contact for Privacy Concerns**
 
-If you believe TCF has not followed this Privacy Policy or if you have any questions or complaints regarding your privacy at TCF, [contact us](https://web.archive.org/web/20050629073516id_/http%3A//www.tcfexpress.com/ContactUs/index.jsp). You may also write to us at:
+If you believe TCF has not followed this Privacy Policy or if you have any questions or complaints regarding your privacy at TCF, [contact us](https://web.archive.org/web/20051210095919id_/http%3A//tcfexpress.com/ContactUs/index.jsp). You may also write to us at:
 
 TCF Bank  
 Attn: Bank Central  
@@ -51,7 +51,7 @@ If you request information and enter your request in this website, we will respo
 
 **Security**
 
-We use industry standards to safeguard your personal identifying information, such as Secure Socket Layer (SSL) protocol and firewalls. These systems are designed to guard against unauthorized access and use of customer information by unauthorized individuals. We work to upgrade these features on an ongoing basis. See [Internet Security](https://web.archive.org/web/20050629073516id_/http%3A//www.tcfexpress.com/Security/index.jsp) for additional information regarding the steps we have taken to ensure your online banking transactions are secure.
+We use industry standards to safeguard your personal identifying information, such as Secure Socket Layer (SSL) protocol and firewalls. These systems are designed to guard against unauthorized access and use of customer information by unauthorized individuals. We work to upgrade these features on an ongoing basis. See [Internet Security](https://web.archive.org/web/20051210095919id_/http%3A//tcfexpress.com/Security/index.jsp) for additional information regarding the steps we have taken to ensure your online banking transactions are secure.
 
 **Links To Other Web Sites**
 
@@ -96,7 +96,7 @@ We always have the right to share, within the TCF companies, identifying and con
 **Fair Credit Reporting Act Notice  
 Opt-Out of Sharing with TCF Companies**
 
-We always have the right to share, within the TCF companies, identifying and contact information from your application and information about our transactions and experience with your accounts. You may direct us not to share with other TCF companies the other information in your application, such as asset information, and the information in your consumer reports by [contacting us](https://web.archive.org/web/20050629073516id_/http%3A//www.tcfexpress.com/Footer/footer_privacy_optout.jsp).
+We always have the right to share, within the TCF companies, identifying and contact information from your application and information about our transactions and experience with your accounts. You may direct us not to share with other TCF companies the other information in your application, such as asset information, and the information in your consumer reports by [contacting us](https://web.archive.org/web/20051210095919id_/http%3A//tcfexpress.com/Footer/footer_privacy_optout.jsp).
 
 Please note that contacting us does not affect our right to share, within the TCF companies, identification and contact information from your application, as well as information about our transactions and experience with your account. In addition, even if you contact us, we will share all your information within the TCF companies when you ask us to.
 
@@ -106,7 +106,7 @@ A consumer report is any written, oral, or other communication from a consumer r
 
 **Sharing Your Information with Other Companies**
 
-We share your non-public personal information outside the TCF companies for specific reasons. We do not share the information with non-TCF companies if you do not want us to. Simply [contact us](https://web.archive.org/web/20050629073516id_/http%3A//www.tcfexpress.com/Footer/footer_privacy_optout.jsp) if you do not want us to share your information outside the TCF affiliated companies. (Note: There are certain categories of information we will always share even if you ask us not to - See "Sharing Customer Information for Service and Joint Marketing Reasons and When Required by Federal or State Law " below).
+We share your non-public personal information outside the TCF companies for specific reasons. We do not share the information with non-TCF companies if you do not want us to. Simply [contact us](https://web.archive.org/web/20051210095919id_/http%3A//tcfexpress.com/Footer/footer_privacy_optout.jsp) if you do not want us to share your information outside the TCF affiliated companies. (Note: There are certain categories of information we will always share even if you ask us not to - See "Sharing Customer Information for Service and Joint Marketing Reasons and When Required by Federal or State Law " below).
 
 Unless you opt-out, we may share the following kinds of non-public personal information about you with third parties who are not part of the TCF affiliated companies:
 
@@ -162,7 +162,7 @@ TCF maintains physical, electronic, and procedural safeguards that comply with f
 
 **TCF Is Committed To Honoring Your Privacy Requests**
 
-If you prefer that we not share non-public personal information about you with third parties who are not affiliated with TCF, you may opt out of the sharing. That is, you may direct us not to share the information. If you wish to opt-out of sharing information with third parties who are not affiliated with TCF, [contact us](https://web.archive.org/web/20050629073516id_/http%3A//www.tcfexpress.com/Footer/footer_privacy_optout.jsp).
+If you prefer that we not share non-public personal information about you with third parties who are not affiliated with TCF, you may opt out of the sharing. That is, you may direct us not to share the information. If you wish to opt-out of sharing information with third parties who are not affiliated with TCF, [contact us](https://web.archive.org/web/20051210095919id_/http%3A//tcfexpress.com/Footer/footer_privacy_optout.jsp).
 
 **What Happens If You Opt-Out?**
 
