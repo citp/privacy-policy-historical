@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305231301id_/http%3A//www.briantracy.com/main/page.asp%3FPageID%3D13%26B%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210053200id_/http%3A//briantracy.com/main/page.asp%3FPageID%3D13%26B%3D26) for the most accurate reproduction.*
 
 # Brian Tracy International
 
@@ -40,7 +40,7 @@ We reveal only the last five digits of your credit card numbers when confirming 
 **If you are a newsletter subscriber, you always have the option of no longer receiving them. At the bottom of each newsletter there is an opt-out option. Simply click on “Please click here to unsubscribe”.
 
 **Correct/Update  
-** Our customers can correct, access and update pertinent Personally Identifiable Information obtained through the site. Mechanisms include online, email, telephone, postal mail etc. This helps to assure that the information we collect is accurate and up to date. You can correct, access, and update your personal information by e-mailing [aschraga@briantracy.com](mailto:aschraga@briantracy.com). 
+** Our customers can correct, access and update pertinent Personally Identifiable Information obtained through the site. Mechanisms include online, email, telephone, postal mail etc. This helps to assure that the information we collect is accurate and up to date. You can correct, access, and update your personal information by e-mailing [Michelle](mailto:mschiller@briantracy.com). 
 
 **Conditions of Use, Notices, and Revisions  
 ** If you choose to visit Brian Tracy International, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. 
