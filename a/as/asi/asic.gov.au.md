@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614070515id_/http%3A//www.asic.gov.au/asic/asic.nsf/byheadline/Privacy%3FopenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210093052id_/http%3A//asic.gov.au/asic/asic.nsf/byheadline/Privacy%3FopenDocument) for the most accurate reproduction.*
 
 # Privacy - Australian Securities and Investments Commission
 
