@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esl-lounge.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403110547id_/http%3A//www.esl-lounge.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esl-lounge.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210055409id_/http%3A//www.esl-lounge.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ This site makes one or more of the following available to its users: chat rooms,
 
 Our site provides users the opportunity to opt-out of receiving the site newsletter.
 
-You can send e-mail to [the webmaster](https://web.archive.org/web/20050403110547id_/http%3A//www.esl-lounge.com/contact.shtml)
+You can send e-mail to [the webmaster](https://web.archive.org/web/20051210055409id_/http%3A//www.esl-lounge.com/contact.shtml)
 
 ### Data Quality/Access
 
@@ -56,6 +56,4 @@ This site gives users the following options for changing and modifying informati
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20050403110547id_/http%3A//www.esl-lounge.com/contact.shtml)
-
-Go to top of the page
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20051210055409id_/http%3A//www.esl-lounge.com/contact.shtml)
