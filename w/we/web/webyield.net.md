@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305015807id_/http%3A//www.webyield.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210191657id_/http%3A//webyield.net/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -22,20 +22,18 @@
 [Search Engine Submission](https://web.archive.org/submit.html)  
 [Check Search Engine Position](https://web.archive.org/position.html)  
 [Link Popularity Analysis](https://web.archive.org/popularity.html)  
-[Keyword Analyzer](https://web.archive.org/kwa/keyword_analyzer.cgi)  
+[Keyword Analyzer](https://web.archive.org/keyword_analyzer.html)  
 [Web Page Optimizer](https://web.archive.org/builder.html)  
 [Meta Tag Generator](https://web.archive.org/metatags.html)  
 [Robot Tag Generator](https://web.archive.org/robot_tags.html)  
 [Keyword Generator](https://web.archive.org/keywordgenerator.html)  
 [Web page Link Check](https://web.archive.org/link_checker.html)
 
-**SEO Resources**  
+[ ](http://www.kqzyfj.com/jc102kjspjr68DD9C9A6G9CC8AF)
+
+[SEO Resources](https://web.archive.org/tools.html)  
 [Search The Web](https://web.archive.org/searchengine.html)  
 [Search Engine News](https://web.archive.org/news/index.html)  
 [ Domain Name Registration](https://web.archive.org/domainregister.html)  
-[Domain Name Wizard](https://web.archive.org/domain_wizard.html)  
-[Reciprocal Link Generator](https://web.archive.org/linkgenerator.html)  
-[Priority Submit](https://web.archive.org/prioritysubmit.html)
-
-New!  
+[Yahoo Sponsored Search](https://web.archive.org/yahoo_sm.html)  
 [SEO Software](https://web.archive.org/software.html)
