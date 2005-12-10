@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the godubai.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305013436id_/http%3A//www.godubai.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godubai.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210131630id_/http%3A//www.godubai.com/privacy.asp) for the most accurate reproduction.*
 
-# GoDubai : Complete Online Information Guide to Dubai, Dubai Hotels, United Arab Emirates ,UAE Hotels, Online Hotel Booking Reservation
+# Dubai Online Information Guide , Dubai Hotels, Online Hotel Booking, Desert Safari,Dhow Cruise, Reservation,United Arab Emirates ,UAE Hotels
 
 |  | 
 
@@ -26,8 +26,8 @@ We will not send you any unsolicited information from third parties. Registered 
   
 ---  
   
-Site Designed and Hosted by Target Group  
-© 1996-2004, Target Group   
+Site Designed and Hosted by GI  
+© 1996-2004, GI   
 [enquiry@godubai.com](mailto:enquiry@godubai.com)   
 Best Viewed with 800x600 screen resolution  
   
