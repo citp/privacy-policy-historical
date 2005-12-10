@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winebusiness.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615085638id_/http%3A//www.winebusiness.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winebusiness.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210095701id_/http%3A//www.winebusiness.com/privacy.cfm) for the most accurate reproduction.*
 
-# WINE BUSINESS ONLINE - News & Information for Wine Industry Professionals
+# WINE BUSINESS ONLINE - News and Information for Wine Industry Professionals
 
   
 **Winebusiness.com is dedicated to protecting your privacy online and has developed this Privacy Policy to help you understand how your personal information will be treated as you visit our web site and use our services.**
