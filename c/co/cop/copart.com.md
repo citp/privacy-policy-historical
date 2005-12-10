@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copart.com privacy policy that was archived on 2005-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050304005238id_/http%3A//www.copart.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copart.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210085309id_/http%3A//copart.com/privacy.pdf) for the most accurate reproduction.*
 
 # Copart Privacy Policy
 
