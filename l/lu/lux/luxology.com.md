@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the luxology.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603003329id_/http%3A//www.luxology.net/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxology.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210185853id_/http%3A//www.luxology.com/company/privacy.aspx) for the most accurate reproduction.*
 
-# Luxology: Company > Online Privacy Policy
+# Luxology: Company > Privacy Policy
+
+### ONLINE PRIVACY POLICY
 
 At Luxology we take privacy very seriously. We hate SPAM, unless it's fried SPAM®, with a little parmesan on the side and then we just dislike it. Here are some things we will and will not do on our site and with your information.
 
-Luxology WILL:
+#### Luxology WILL:
 
   * Gather information about visitors IP and email addresses as well as domain names when possible so that we may reduce the abuse from pirates, and other "no-goodnicks". This is for our protection and yours.
   * Use gathered information to determine ways to customize and improve our site to fit the needs of our users.
@@ -14,7 +16,7 @@ Luxology WILL:
 
 
 
-Luxology WILL NOT:
+####  Luxology WILL NOT:
 
   * Share your information with any other company or entity.
   * Sell your information to any other company or entity.
@@ -24,4 +26,4 @@ Luxology WILL NOT:
 
 
 
-At Luxology we are just a bunch of computer geeks. We love playing with computers and we love all the advantages in communication that the internet provides. We want to leverage these abilities to better communicate with you. There are companies that will take advantage of these abilities. We are not one of those companies. We just want to hang out and talk about 3D with all of you. If you are ever dissatisfied with our service or security policies and implementation, please contact our President directly. His email is brad@luxology.net. We are serious about these issues. 
+At Luxology we are just a bunch of computer geeks. We love playing with computers and we love all the advantages in communication that the internet provides. We want to leverage these abilities to better communicate with you. There are companies that will take advantage of these abilities. We are not one of those companies. We just want to hang out and talk about 3D with all of you. If you are ever dissatisfied with our service or security policies and implementation, please [contact us](https://web.archive.org/company/contact.aspx). We are serious about these issues. 
