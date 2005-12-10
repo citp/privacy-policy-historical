@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asia1.com.sg privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528073146id_/http%3A//www.asiaone.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asia1.com.sg privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210114556id_/http%3A//www.asiaone.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -31,7 +31,7 @@ Please read carefully our policy on data collection and use of the data collecte
 
 **_Can you opt out?_**
 
-Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may [unsubscribe via this link](http://persia2.asia1.com.sg/NASApp/RegAuth2/en/COUpdateAcct.jsp?lang=en) or by sending us email at [helpdesk@asiaone.com.sg](mailto:helpdesk@asiaone.com.sg). If you do not wish to receive any information of any kind from us at all, you may go to your "[My Account](http://persia2.asia1.com.sg/NASApp/RegAuth2/en/COUpdateAcct.jsp?lang=en)" page and check the "opt out" box or email us at [helpdesk@asiaone.com.sg](mailto:helpdesk@asiaone.com.sg). 
+Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may [unsubscribe via this link](http://persia2.asia1.com.sg/NASApp/RegAuth2/en/COUpdateAcct.jsp?lang=en) or [Email us](http://newslink.asia1.com.sg/contact/index.html). If you do not wish to receive any information of any kind from us at all, you may go to your "[My Account](http://persia2.asia1.com.sg/NASApp/RegAuth2/en/COUpdateAcct.jsp?lang=en)" page and check the "opt out" box or [email us](http://newslink.asia1.com.sg/contact/index.html). 
 
   
 _**Will your personal information be shared with anyone?**_
@@ -56,3 +56,18 @@ All information gathered by SPH is stored in systems that may only be accessed b
 **_Use of cookies_**
 
 SPH uses "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
+
+Like many web site operators, SPH also use the independent company Nielsen//NetRatings to measure and analyse the internet usage across SPH web sites. Nielsen//NetRatings is a leader in the internet industry in interactive measurement technologies and market research. SPH use Nielsen//NetRatings' services to collect the following core information on the usage of our web sites, including: 
+
+  * The number of page views (or page impressions) that occur on SPH web sites; 
+  * The number of unique visitors to SPH web sites; 
+  * How long these unique visitors (on average) spend on SPH web sites when they do visit; and 
+  * Common entry and exit points into SPH web sites. 
+
+
+
+This aggregate, non-personal information is collated by Nielsen//NetRatings and provided to SPH to assist in analysing the usage of SPH web sites. The Nielsen//NetRatings data is also accessible by media organizations and research companies, for the purpose of conducting industry comparisons with other Internet portals. 
+
+All pages on SPH web sites are coded with software provided by Nielsen//NetRatings. This is transparent to the user as the software makes use of an invisible image (via _Javascript) or an invisible Java Applet*, at the bottom of the web page. This software stores a "cookie" in the browser, which contains a unique identifier. This enables Nielsen//NetRatings to track the number of unique visitors to our web sites. This information is collected and aggregated by Nielsen//NetRatings, and in no way does this unique identifier identify a user personally. SPH do not and will not marry any data collected by Nielsen//NetRatings with any personal information collected on SPH web sites. 
+
+Nielsen//NetRatings software code cannot be disabled entirely on SPH web sites, as Nielsen//NetRatings' measure code takes into account all web-browser configurations, including the disabling of Java and Javascript. Nielsen//NetRatings' methods of measuring unique visitors takes into account the proportion of visitors who have disabled cookies in their browser. To learn more about Nielsen//NetRatings' privacy policy, [click here](http://www.netratings.com/privacy.jsp?section=leg_scs). 
