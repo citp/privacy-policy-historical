@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the kumc.edu privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307000612id_/http%3A//www.kumc.edu/Pulse/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kumc.edu privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210125354id_/http%3A//www.kumc.edu/Pulse/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement, University of Kansas Medical Center
 
-[](http://www.kumc.edu/index.html) | [kumc.edu](http://www.kumc.edu/index.html) | [Site Index](http://www.kumc.edu/Pulse/siteindex.jsp) | [Help](https://web.archive.org/Pulse/help.html)   
----|---  
-[](http://www.kumc.edu/index.html) |  |    
-|  |   
-  |  [General Information](http://www.kumc.edu/geninfo.html) | [Academics](http://www.kumc.edu/academics.html) | [Faculty/Staff](http://www.kumc.edu/faculty.html) | [Research](http://www.kumc.edu/research.html)  
-  
 **Notice of Privacy Practices for Patients at KU Medical Center**
 
 Our [Notice of Privacy Practices](https://web.archive.org/hipaa/docs/KUMCNoticeofPrivacyPractices.pdf) (115k [Acrobat](http://www.adobe.com/products/acrobat/readermain.html) file) details the way in which medical information about you may be used and disclosed and how you can get access to this information.
@@ -31,4 +25,4 @@ The University of Kansas Medical Center
 3901 Rainbow Boulevard, Kansas City, KS 66160  
 913-588-5000, 913-588-7963 TDD
 
-[An equal opportunity institution](http://www.kumc.edu/Pulse/eo_statement.html) | [Privacy Statement](http://www.kumc.edu/Pulse/privacy.html) | [About this site](http://www.kumc.edu/Pulse/About_Pulse.html) | [Suggestions](http://www.kumc.edu/suggestions/index.html)
+[An equal opportunity institution](http://www.kumc.edu/Pulse/eo_statement.html) | [Privacy Statement](http://www.kumc.edu/Pulse/privacy.html) | [About this site](http://www.kumc.edu/Pulse/aboutthissite.html) | [Suggestions](http://www.kumc.edu/suggestions/index.html)
