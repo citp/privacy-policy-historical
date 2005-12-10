@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the gsn.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307002003id_/http%3A//www.gsn.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsn.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210114127id_/http%3A//gsn.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # GSN - The Network For Games
+
+**[CLICK HERE FOR YOUR CALIFORNIA PRIVACY RIGHTS](https://web.archive.org/corporate/ca_privacy.php)**
+
+* * *
 
 **GSN.COM PRIVACY POLICY**
 
