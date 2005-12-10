@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the phil-taylor.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404144730id_/http%3A//www.phil-taylor.com/Phil-Taylor/Mambo-Developer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phil-taylor.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210193515id_/https%3A//www.phil-taylor.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D41%26Itemid%3D86) for the most accurate reproduction.*
 
-# Phil Taylor is a mambo developer and creator of Phil-a-form, Mambo, Components, mamboserver - Privacy Policy
+# Joomla Components Mambo Component Phil Taylor - Privacy Policy
 
 **1\. Will Blue Flame ever send SPAM to this address ?**
 
-We do not send SPAM. By entering your email address, you agree to receive email from us about product updates and special deals. We usually send only one message each month. If you wish not to receive these messages, you can remove your email address from our list at anytime by clicking [here ](http://www.phil-taylor.com/). 
+We do not send SPAM. By entering your email address, you agree to receive email from us about product updates and special deals. We usually send only one message each month. If you wish not to receive these messages, you can remove your email address from our list at anytime by using the form on our website - YES IT DOES WORK!. 
 
 **2\. Why do we collect user information when you download ?**
 
