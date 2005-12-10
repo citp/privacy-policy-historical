@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmath.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410001725id_/http%3A//www.coolmath.com/privacyp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmath.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210082415id_/http%3A//www.coolmath.com/privacyp.htm) for the most accurate reproduction.*
 
 # Cool math .com - math lessons, math games, math puzzles - About Us
 
@@ -20,7 +20,7 @@ Remember, always check with your parent or guardian when surfing the net!
 
 **
 
-**Be sure to check out our tips for[safe surfing](https://web.archive.org/web/20050410001725id_/http%3A//www.coolmath.com/safesurf.htm)!PARENTS NOTICE
+**Be sure to check out our tips for[safe surfing](https://web.archive.org/web/20051210082415id_/http%3A//www.coolmath.com/safesurf.htm)!PARENTS NOTICE
 
 It is important for you to talk with your child about using the Internet safely. Here are just a few things to keep in mind when talking to your kids about the Internet:  
 * Remind your child to never give out his or her full name, address, or phone number without your permission.  
@@ -29,7 +29,7 @@ It is important for you to talk with your child about using the Internet safely.
 
 **
 
-**Be sure to visit our tips for[safe surfing](https://web.archive.org/web/20050410001725id_/http%3A//www.coolmath.com/safesurf.htm) with your child and discuss the importance of this with your child.**
+**Be sure to visit our tips for[safe surfing](https://web.archive.org/web/20051210082415id_/http%3A//www.coolmath.com/safesurf.htm) with your child and discuss the importance of this with your child.**
 
 **We will not condition a child's participation in a certain activity on the site on the child's providing more personal information than is necessary in order to allow such participation.**
 
