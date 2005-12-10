@@ -1,204 +1,68 @@
-<!--The following is the downloaded HTML source of the chemindustry.com privacy policy that was archived on 2005-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050405234043id_/http%3A//www.chemindustry.com/info/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chemindustry.com privacy policy that was archived on 2005-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210053026id_/http%3A//www.chemindustry.com/privacy_policy.html) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
-<!--
-function MM_swapImgRestore() { //v2.0
-  if (document.MM_swapImgData != null)
-    for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
-      document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
-}
-
-function MM_preloadImages() { //v2.0
-  if (document.images) {
-    var imgFiles = MM_preloadImages.arguments;
-    if (document.preloadArray==null) document.preloadArray = new Array();
-    var i = document.preloadArray.length;
-    with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#"){
-      preloadArray[i] = new Image;
-      preloadArray[i++].src = imgFiles[j];
-  } }
-}
-
-function MM_swapImage() { //v2.0
-  var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
-  for (i=0; i < (MM_swapImage.arguments.length-2); i+=3) {
-    objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
-    if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
-        (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
-      objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
-    obj = eval(objStr);
-    if (obj != null) {
-      swapArray[j++] = obj;
-      swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
-      obj.src = MM_swapImage.arguments[i+2];
-  } }
-  document.MM_swapImgData = swapArray; //used for restore
-}
-
-function getNextBrowse() {
- document.nextBrowse.submit();
-}
-
-function clearFilters() {
-	country = "All"
-	feature = "All"
-	searchcategory= 0
-	document.nextSearch.country.value = country;
-	document.nextSearch.feature.value = feature;
-	document.nextSearch.searchcategory.value = searchcategory;
-}
-
-function siteSearch() {
-	country = "All"
-	feature = "All"
-	searchcategory= 0
-	document.nextSearch.p0.value = 0;
-	document.nextSearch.p1.value = 10;
-	document.nextSearch.country.value = country;
-	document.nextSearch.feature.value = feature;
-	document.nextSearch.searchcategory.value = searchcategory;
-}
-
-function setChemBy() {
-  var exp = new Date();
-  exp.setTime(exp.getTime() + (10*1000));
-  document.cookie = "chemby" + "=" + escape(document.nextSearch.by.value) + "; path=/; expires=" + exp.toGMTString() ;
-
-}
-
-function setChemByThis(str) {
-  var exp = new Date();
-  exp.setTime(exp.getTime() + (10*1000));
-  document.cookie = "chemby" + "=" + escape(str) + "; path=/; expires=" + exp.toGMTString() ;
-}
-
-function pop(url) {window.open(url,"cta",'scrollbars,resizable,width=365,height=335');}
-
-
-
-// Survey layer
-
-isIE=document.all;
-isNN=!document.all&&document.getElementById;
-isN4=document.layers;
-isHot=false;
-
-function ddInit(e){
-  topDog=isIE ? "BODY" : "HTML";
-  whichDog=isIE ? document.all.theLayer : document.getElementById("theLayer");  
-  hotDog=isIE ? event.srcElement : e.target;  
-  while (hotDog.id!="titleBar"&&hotDog.tagName!=topDog){
-    hotDog=isIE ? hotDog.parentElement : hotDog.parentNode;
-  }  
-  if (hotDog.id=="titleBar"){
-    offsetx=isIE ? event.clientX : e.clientX;
-    offsety=isIE ? event.clientY : e.clientY;
-    nowX=parseInt(whichDog.style.left);
-    nowY=parseInt(whichDog.style.top);
-    ddEnabled=true;
-    document.onmousemove=dd;
-  }
-}
-
-function dd(e){
-  if (!ddEnabled) return;
-  whichDog.style.left=isIE ? nowX+event.clientX-offsetx : nowX+e.clientX-offsetx; 
-  whichDog.style.top=isIE ? nowY+event.clientY-offsety : nowY+e.clientY-offsety;
-  return false;  
-}
-
-function ddN4(whatDog){
-  if (!isN4) return;
-  N4=eval(whatDog);
-  N4.captureEvents(Event.MOUSEDOWN|Event.MOUSEUP);
-  N4.onmousedown=function(e){
-    N4.captureEvents(Event.MOUSEMOVE);
-    N4x=e.x;
-    N4y=e.y;
-  }
-  N4.onmousemove=function(e){
-    if (isHot){
-      N4.moveBy(e.x-N4x,e.y-N4y);
-      return false;
-    }
-  }
-  N4.onmouseup=function(){
-    N4.releaseEvents(Event.MOUSEMOVE);
-  }
-}
-
-function hideMe(){
-  if (isIE||isNN) whichDog.style.visibility="hidden";
-  else if (isN4) document.theLayer.visibility="hide";
-}
-
-function showMe(){
-  if (isIE||isNN) whichDog.style.visibility="visible";
-  else if (isN4) document.theLayer.visibility="show";
-}
-
-document.onmousedown=ddInit;
-document.onmouseup=Function("ddEnabled=false");
-
-//-->
-</script>
-
-
-
-<title>ChemIndustry.com Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-
-
-<style type="text/css">
-<!--
-BODY {background: #FFFFFF}
-H4 {font-size: 18pt; font-family: verdana, arial, helvetica, Times;
-    font-weight: normal}
-H3 {font-size: 14pt; font-family: verdana, arial, helvetica, Times;
-    font-weight: normal}
-H2 {font-size: 10pt; font-family: verdana, arial, helvetica, Times;
-    font-weight: normal}
-H1 {font-size: 8pt; font-family: verdana, arial, helvetica, Times;
-    font-weight: normal}
-#small {font-size: 8pt; font-family: verdana, arial, helvetica, Times}
-#smallest {font-size: 7pt; font-family: verdana, arial, helvetica, Times}
-#medium {font-size: 10pt; font-family: verdana, arial, helvetica, Times}
-#large  {font-size: 12pt; font-family: verdana, arial, helvetica, Times}
-#special {font-size: 9pt; font-family: Arial, Verdana,  Helvetica, sans-serif}
-#special2 {font-size: 8pt; font-family: Arial, Verdana,  Helvetica, sans-serif}
--->
-</style>
+<html><head>
+<title>Privacy Policy</title>
+                     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="description" content="ChemIndustry.com is the search engine of the chemical world. The best place for chemists and chemical industry professionals to find chemicals, equipment, services and chemical resources.">
+<meta name="keywords" content="chemicals, chemical companies, chemical engineering, chemistry, chemical equipment">
+<meta name="ROBOTS" content="ALL">
+<script type="text/javascript" src="/chem.js"></script>
+<link rel="stylesheet" type="text/css" href="/chem.css">
 </head>
-
-<body bgcolor="#FFFFFF" onload="MM_preloadImages('/includes2.0/images/buttons/main/submit_on.gif','#962944282890');MM_preloadImages('/includes2.0/images/buttons/main/newsletter_center_on.gif','#962944308650');MM_preloadImages('/includes2.0/images/buttons/main/login_on.gif','#962944330240');MM_preloadImages('/includes2.0/images/buttons/main/about_on.gif','#962944351000');MM_preloadImages('/includes2.0/images/buttons/main/home_on.gif','#962944367920');MM_preloadImages('/includes2.0/images/buttons/search/search_on.gif','#962949251760');MM_preloadImages('/includes2.0/images/buttons/search/edeals_on.gif','#962949251780');MM_preloadImages('/includes2.0/images/buttons/search/names_on.gif','#962949270020');MM_preloadImages('/includes2.0/images/press_on.gif','#962985436100');MM_preloadImages('/includes2.0/images/new_on.gif','#962985462190');MM_preloadImages('/images/toplevelcategories2_on.gif','#961692835820');MM_preloadImages('/includes2.0/images/help_on.gif','#962949252780');MM_preloadImages('/info/images/contest_on.gif','#962944283030');MM_preloadImages('/includes2.0/images/clearfilters_on.gif','#962944299990')" text="#000000" link="#000099" vlink="#666666">
-
+<body bgcolor="#FFFFFF" text="#000000" link="#000099" vlink="#666666">
 <div align="center">
-
-  <table width="800" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-    <td rowspan="2" valign="top" width="350"><img src="/includes2.0/images/buttons/main/logo.gif" width="150" height="54"></td>
-    <td rowspan="2" valign="top"><img src="/includes2.0/images/buttons/main/left_end_nav_bar.gif" width="42" height="54"></td>
-
-      <td><a href="http://www.chemindustry.com/info/bidinfo/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image3','document.Image3','/includes2.0/images/buttons/main/submit_on.gif','#962944282890')"><img name="Image3" border="0" src="/includes2.0/images/buttons/main/submit_off.gif"></a></td>
-
-      <td><a href="http://chemindustry.tradepub.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image4','document.Image4','/includes2.0/images/buttons/main/newsletter_center_on.gif','#962944308650')"><img name="Image4" border="0" src="/includes2.0/images/buttons/main/newsletter_center_off.gif"></a></td>
-      
-      <td><a href="http://www.chemindustry.com/info/bidinfo/logon.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image5','document.Image5','/includes2.0/images/buttons/main/login_on.gif','#962944330240')"><img name="Image5" border="0" src="/includes2.0/images/buttons/main/login_off.gif"></a></td>
-      
-      <td><a href="http://www.chemindustry.com/info/aboutus.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image6','document.Image6','/includes2.0/images/buttons/main/about_on.gif','#962944351000')"><img name="Image6" border="0" src="/includes2.0/images/buttons/main/about_off.gif"></a></td>
-
-      <td><a href="http://www.chemindustry.com/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image7','document.Image7','/includes2.0/images/buttons/main/home_on.gif','#962944367920')"><img name="Image7" border="0" src="/includes2.0/images/buttons/main/home_off.gif"></a></td>
-
-</tr>
-<tr><td colspan="6" valign="top" align="right"><img src="/includes2.0/images/buttons/main/tagline.gif" width="450" height="25"></td></tr>
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td rowspan="2" valign="top" width="350"><a href="http://www.chemindustry.com/"><img src="/images/buttons/main/logo.gif" width="150" height="54" border="0"></a></td>
+    <td rowspan="2" valign="top"><img src="/images/buttons/main/left_end_nav_bar.gif" width="42" height="54"></td>
+    <td><a href="http://www.chemindustry.com/signup.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('submit','submit','/images/buttons/main/submit_on.gif','1')"><img name="submit" border="0" src="/images/buttons/main/submit_off.gif"></a></td>
+    <td><a href="http://www.chemindustry.com/newsletter/center.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('newsletter_center','','/images/buttons/main/newsletter_center_on.gif','1')"><img name="newsletter_center" border="0" src="/images/buttons/main/newsletter_center_off.gif"></a></td>
+    <td><a href="https://www.chemindustry.com/apps/login" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('login','','/images/buttons/main/login_on.gif','1')"><img name="login" border="0" src="/images/buttons/main/login_off.gif"></a></td>
+    <td><a href="http://www.chemindustry.com/about_us.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','/images/buttons/main/about_on.gif','1')"><img name="about" border="0" src="/images/buttons/main/about_off.gif"></a></td>
+    <td><a href="http://www.chemindustry.com/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/buttons/main/home_on.gif','1')"><img name="home" border="0" src="/images/buttons/main/home_off.gif"></a></td>
+   </tr>
+   <tr><td colspan="6" valign="top" align="right"><img src="/images/buttons/main/tagline.gif" width="450" height="25"></td></tr>
 </tbody></table>
-<table><tbody><tr><td valign="bottom" align="right" colspan="6"><img src="images/privacypolicy_tagline.gif"></td></tr><tr><td valign="top" align="right" colspan="6"> <img src="/info/images/green_line.gif" width="800" height="6"></td></tr><tr><td colspan="6">  <img src="/info/images/spacer.gif" width="600" height="6"></td></tr></tbody></table>
-<div><img src="/gifs/green_table/transparent_pixel.gif" width="1" height="15"><br></div>
-
-<div align="center"><img src="/gifs/green_table/transparent_pixel.gif" width="1" height="10"></div>
+<div align="center"><img src="/images/green_table/transparent_pixel.gif" width="1" height="20"></div>
 
 
+ <!-- end logged in -->
+
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td>
+  <a href="http://www.chemindustry.com/apps/browse" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('search','document.Image101','/images/buttons/search/search_on.gif','2')" onclick="setChemBy()"><img name="search" border="0" src="/images/buttons/search/search_off.gif"></a>
+</td>
+<td>
+  <a href="http://www.chemindustry.com/apps/chemicals" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('names','','/images/buttons/search/names_on.gif','2')" onclick="setChemBy()"><img name="names" border="0" src="/images/buttons/search/names_off.gif"></a>
+</td>
+<td>
+<a href="http://www.marketresearch.com/fp/default.asp?partnerid=825034902&amp;categoryid=91" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('market_research','','/images/buttons/search/market_research_on.gif','2')"><img name="market_research" border="0" src="/images/buttons/search/market_research_off.gif"></a>
+</td>
+<td>
+  <a href="http://www.chemjobs.net/chemjobs.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('jobs','','/images/buttons/search/jobs_on.gif','2')"><img name="jobs" border="0" src="/images/buttons/search/jobs_off.gif"></a>
+</td>
+<td>
+<a href="http://www.chemindustry.com/newsletter/center.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('newsletter','document.Image105','/images/buttons/search/newslettertab_on.gif','2')"><img name="newsletter" border="0" src="/images/buttons/search/newslettertab_off.gif"></a>
+</td>
+<td valign="top"><img src="/images/buttons/search/green_line.gif" width="202" height="23"></td>
+<td valign="top"><a href="http://www.chemindustry.com/signup.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image104','document.Image104','/images/listursite_on.gif','#962944283032')"> <img name="Image104" border="0" src="/images/listursite_off.gif" width="94" height="23"></a></td>
+</tr>
+</tbody></table>
+<div><img src="/images/green_table/transparent_pixel.gif" width="1" height="5"></div>
+
+ <!--- end suppress search bar -->
+
+
+ <!--- end chemicals search bar -->
+
+
+ <!-- end not logged in -->
+
+<!-- open a table for content -->
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td>
 
 
 
@@ -246,51 +110,40 @@ H1 {font-size: 8pt; font-family: verdana, arial, helvetica, Times;
       
       
      
-      <p id="medium"><!--img src="images/line.gif" width="450" height="3"--></p>
+      <p id="medium"><!--img src="/images/line.gif" width="450" height="3"--></p>
       </font></bcorrect></td>
   </tr>
 </tbody></table>
 
+
+</td></tr>
+</tbody></table>
+
+<!-- footer -->
 <center>
 <table width="800" border="0" cellspacing="0" cellpadding="0">
-
-<tbody><tr><td id="special" align="center"><a href="/db/database/suggest/chemindustry.asp" onclick="helpWindow=window.open('/db/database/suggest/chemindustry.asp','contestWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=450'); return false;"><b>Recommend</b></a> <font color="#000099">ChemIndustry.com to your friends.</font>
-<div><img src="/gifs/green_table/transparent_pixel.gif" width="1" height="10"></div>
+<tbody><tr><td id="special" align="center"><a href="http://www.chemindustry.com/apps/recommend" onclick="helpWindow=window.open('/apps/recommend','contestWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=450'); return false;"><b>Recommend</b></a> <font color="#000099">ChemIndustry.com to your friends.</font>
+<div><img src="/images/green_table/transparent_pixel.gif" width="1" height="10"></div>
 </td></tr>
-
 <tr><td align="center" id="special2"><font color="#000099">
-<img src="/2.0work/images/green_pixel.gif" width="100%" height="2" border="0"><br>
-<a href="http://www.chemindustry.com/index.asp">Home</a> |
-<a href="http://www.chemindustry.com/info/bidinfo/index.asp">Advertising</a> |
-<a href="http://www.chemindustry.com/info/jobopportunities.asp">Job Opportunities</a> |
-
-<a href="http://www.chemindustry.com/info/newsletter.asp">Newsletter</a> |
-<a href="http://www.chemindustry.com/info/bidinfo/logon.asp">Manage Accounts</a>
-
+<img src="/images/green_pixel.gif" width="100%" height="2" border="0"><br>
+<a href="http://www.chemindustry.com/index.html">Home</a> |
+<a href="http://www.chemindustry.com/signup.html">Advertising</a> |
+<a href="http://www.chemindustry.com/job_opportunities.html">Job Opportunities</a> |
+<a href="http://www.chemindustry.com/newsletter/newsletter.html">Newsletter</a> |
+<a href="https://www.chemindustry.com/apps/login">Manage Account</a>
 <br>
-<a href="http://www.chemindustry.com/info/privacypolicy.asp">Privacy Policy</a> |
-<a href="http://www.chemindustry.com/info/terms.asp">Terms</a> |
-
-<a href="http://www.chemindustry.com/info/contactus.asp">Contact Us</a> |
-
-<a href="http://www.chemindustry.com/info/editasite.asp">Edit a Free Listing</a> |
-<!--<a href="http://www.chemindustry.com/info/top10.asp">Top 10 Searches</a>-->
+<a href="http://www.chemindustry.com/privacy_policy.html">Privacy Policy</a> |
+<a href="http://www.chemindustry.com/terms.html">Terms</a> |
+<a href="http://www.chemindustry.com/apps/contact_us">Contact Us</a>
 <br>
-<a href="http://www.chemindustry.com/i18n/language.asp?lc=1"><img src="/db/images/footer.gif" border="0"></a> | 
-<a href="http://www.chemindustry.com/i18n/language.asp?lc=2">Français</a> | 
-<a href="http://www.chemindustry.com/i18n/language.asp?lc=3">Deutsch</a>
-
+<a href="http://www.chemindustry.com/apps/lang?l=zh">Chinese</a> | <a href="http://www.chemindustry.com/apps/lang?l=en">English</a>
 <br>
 <br>
-<a href="http://www.chemindustry.com/info/terms.asp">(c) 1999-2005 ChemIndustry.com, Inc. • all_rights_reserved</a>
-
-
+<a href="http://www.chemindustry.com/terms.html">(c) 1999-2005 ChemIndustry.com, Inc. • All Rights Reserved</a>
 </font></td></tr>
 </tbody></table>
 </center>
-
-
-
 
 
 </div></body></html>
