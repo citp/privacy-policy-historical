@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ecommercetemplates.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307092312id_/http%3A//www.ecommercetemplates.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommercetemplates.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210055915id_/http%3A//www.ecommercetemplates.com/privacy.asp) for the most accurate reproduction.*
 
 # Ecommercetemplates.com - ecommerce Web templates for Dreamweaver, Frontpage and GoLive
 
 [Home](https://web.archive.org/default.asp) > Privacy policy
 
-**Dream Software Ltd.** has created this privacy statement in order to demonstrate our firm commitment to privacy.
+**Electronic Shopping Solutions LLC** has created this privacy statement in order to demonstrate our firm commitment to privacy.
 
 **General Statement of Principles**  
 As described in detail below, any information we gather at this web site is strictly for our use and is not shared with any other entity, public or private, for any reason - period. We will not sell or give away any lists or other data that we may retain and we do not purchase such information from other sources. 
@@ -16,4 +16,4 @@ Our servers (as most) track IP addresses and referring pages to help with site m
 With the exception of credit card info, we store the information from your order form to allow us to track consulting issues or refer to a previous order to help provide some customer service. You may elect to have your information completely removed from this system by e-mailing us at [info@ecommercetemplates.com](mailto:info@ecommercetemplates.com) with your request. 
 
 **Information Correction or Removal**  
-If you wish to correct, update or remove any information about you that may be in our records, please send us e-mail at [info@ecommercetemplates.com](mailto:info@ecommercetemplates.com) with the details of your request. If you wish to contact us further, please find complete contact information on our [contact](https://web.archive.org/web/20050307092312id_/http%3A//www.ecommercetemplates.com/contact.asp) page. 
+If you wish to correct, update or remove any information about you that may be in our records, please send us e-mail at [info@ecommercetemplates.com](mailto:info@ecommercetemplates.com) with the details of your request. If you wish to contact us further, please find complete contact information on our [contact](https://web.archive.org/web/20051210055915id_/http%3A//www.ecommercetemplates.com/contact.asp) page. 
