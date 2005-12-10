@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmipartners.com privacy policy that was archived on 2005-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050212183747id_/http%3A//www.dmipartners.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmipartners.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210050349id_/http%3A//dmipartners.com/privacy.asp) for the most accurate reproduction.*
 
 # DMi Partners
 
