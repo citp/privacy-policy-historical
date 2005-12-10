@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copernic.com privacy policy that was archived on 2005-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050514011429id_/http%3A//www.copernic.com/en/company/privacy/privacy-web.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copernic.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210085931id_/http%3A//www.copernic.com/en/company/privacy/privacy-web.html) for the most accurate reproduction.*
 
 # Copernic - Web Site Privacy Policy for www.copernic.com
 
@@ -24,7 +24,7 @@ Copernic Technologies, Inc. shall use reasonable efforts to comply with the term
 
 **Choice/Opt-Out  
 **  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners when we request information about the visitor. This site also allows users to remove themselves from our mailing list at any time. For more information, please go to: [ http://www.copernic.com/unsub/](http://www.copernic.com/unsub/)
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners when we request information about the visitor. This site also allows users to remove themselves from our mailing list at any time. For more information, please go to: <http://www.copernic.com/en/support/form-mailing.html>
 
 **Additional information about privacy  
 **   
