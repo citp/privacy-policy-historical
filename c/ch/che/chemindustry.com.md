@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chemindustry.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405234043id_/http%3A//www.chemindustry.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemindustry.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210053026id_/http%3A//www.chemindustry.com/privacy_policy.html) for the most accurate reproduction.*
 
-# ChemIndustry.com Privacy Policy
+# Privacy Policy
 
 **Privacy Statement for ChemIndustry.com**
 
