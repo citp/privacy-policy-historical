@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ati.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528050804id_/http%3A//ati.com/companyinfo/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ati.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210103759id_/http%3A//ati.com/companyinfo/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
   | 
 
-_Last updated February 10, 2004._
+_Last updated June 28, 2005._
 
 **We take your privacy seriously. We are committed to protecting the privacy of personally identifiable information collected about you. It remains our policy and our commitment not to distribute, sell, rent or in any way make available your name, email address or other personal information to any third party without your prior written consent.**
 
@@ -31,6 +31,8 @@ E-Mail: [privacy@ati.com](mailto:privacy@ati.com)
   * **Control of your Personal Information**
   * **Security of your Personal Information**
   * **Use of Cookies**
+  * **Web Beacons**
+  * **Spotlight Tags**
   * **Parental Consent **
   * **Parental Access**
   * **Enforcement of this Statement**
@@ -63,12 +65,33 @@ ATI.com may, if you choose to receive them, send out periodic emails informing y
 **Security of your Personal Information  
 ** ATI Technologies Inc. is committed to protecting the security of your personal information. We use a variety of advanced security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on secured computer servers that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
+All or most data received through ATI’s online product registration form is collected by ATI Technologies Inc. and is housed with it’s out sourced service provider Parature Inc. in the United States of America. All personal information is encrypted during data transfer and stored using a variety of advanced security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. Your personal information will never be shared or sold to any third party organization without your express consent. Personal information will only collected, stored and used from persons who are thirteen years of age or older.
+
 A password is required to access your ati.com or your ShopATI.com account. It is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always choose to log out before leaving your ati.com account to protect access to your information from subsequent users.
 
 **Use of Cookies  
-** This Web site uses cookies to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+** This Web site uses cookies to help you personalize your online experience. A cookie is a **small** text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
 
-One of the primary purposes of cookies is to tell the web server that you have returned to a specific page, so that when you visit the site again, the experience will be personalized. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to set your computer to accept cookies, you may also choose to be logged into the ati.com site automatically. You may also select a country of your choice as your default home page. This selection is stored in a cookie. 
+One of the primary purposes of cookies is to tell the web server that you have returned to a specific page, so that when you visit the site again, the experience will be personalized. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. 
+
+If you choose to set your computer to accept cookies, you may **also** choose to be automatically logged into the ATI.com Customer Care portal. Your selection is stored in a cookie. 
+
+The ati.com Customer Care portal also makes use of session cookies (also called a “transient cookie”). Session cookies are stored in temporary memory and erased when you close your web browser. Session cookies do not collect information from your computer. The session cookie is used to present relevant self-help information based on your ATI Customer Care profile (for registered users).
+
+We may use cookies to:
+
+  * Keep count of your return visits to our site or our clients' sites 
+  * Accumulate and report anonymous, aggregate, statistical information on web site usage 
+  * Deliver content specific to your interests 
+  * Save your password so you don't have to re-enter it each time you visit our sites. 
+
+
+
+******Web Beacons**  
+ATI uses HBX and HitBox web analytics services which contain electronic image requests (called a "single-pixel gif" or "web beacon" request). We include web beacons in HTML-formatted newsletters that we send to opt-in subscribers in order to count how many newsletters have been read. Our web beacons do not collect, gather, monitor or share any personal information about our web site visitors, they are just the technique we use to compile our anonymous information about web site usage.
+
+******Spotlight Tags**  
+ATI Technologies Inc. uses third party advertising companies for banner placements who in turn use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner. These files enable our ad management partner to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie is placed by us and our ad management partner who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>
 
 **Parental Consent  
 **In order for children under 13 years old to participate in online activities that require registration, we require prior written permission from a parent or guardian (opt-in). A parental consent form is available at <http://www.ati.com/companyinfo/legal/consent.html>. This form must be signed by the child's parent or guardian and returned to 
