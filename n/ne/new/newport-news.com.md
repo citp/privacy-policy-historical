@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newport-news.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233745id_/http%3A//newport-news.com/info/privacy_policy.asp%3Fcat_id%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newport-news.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211121014id_/http%3A//newport-news.com/info/privacy_policy.asp%3Fcat_id%3D12) for the most accurate reproduction.*
 
 # Newport News: Privacy Policy
 
@@ -8,7 +8,7 @@
 **We realize that making purchases at newport-news.com, or any other website, requires trust on your part. We value your trust very highly, and pledge to you, our customer, that we are committed to ensuring the privacy of your personal information and will use any information you give us in a responsible manner. You are very important to us and we are dedicated to providing you with a safe and secure online experience.**
 
 **This privacy Statement describes how we collect and use your information and gives you choices as to how we use it. We suggest that you review this Privacy Statement periodically as we may update it from time to time.  
-This policy was last revised on 05/06/04.**
+This policy was last revised on September 7, 2005.**
 
 What information do we collect?  
 How do we use your information?  
@@ -49,7 +49,9 @@ We may also contact you by mail or telephone if we have questions about your ord
 
 We may provide your name, address and phone number (but not your e-mail address) to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can put you on our "do-not-share" or "do not call" lists. Please Click Here for information on where to contact us if you do not want us to share this information with third parties.
 
-In some instances, we use third party vendors to help us in providing our products and services to you to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these vendors are given access to some or all of the information you provide to us, including your e-mail address, and may use cookies on our behalf. These vendors are contractually restricted from using your information other than in helping us to provide you with the products and services available on our site. For more information about these companies, [Click Here](https://web.archive.org/web/20050401233745id_/http%3A//newport-news.com/info/thirdparties.asp).
+In some instances, we use third party vendors to help us in providing our products and services to you to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these vendors are given access to some or all of the information you provide to us, including your e-mail address, and may use cookies on our behalf. These vendors are contractually restricted from using your information other than in helping us to provide you with the products and services available on our site. For more information about these companies, [Click Here](https://web.archive.org/web/20051211121014id_/http%3A//newport-news.com/info/thirdparties.asp).
+
+Newport News may participate with certain reputable companies who offer you the ability to establish a membership that would enable you to participate in travel and entertainment programs. If you elect to activate a trial membership in the Newport News Insider Pass program we will provide your name, address and credit card information to Encore Marketing International, the Newport News Insider Pass service provider. Newport News is not responsible for the privacy practices of the companies sponsoring these membership programs and we suggest you review the privacy policy of each company with whom you may be considering a membership. 
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
 
@@ -168,11 +170,7 @@ Hampton VA 23630-5100
 
 1.800.759.3950; Monday through Friday, from 8:00 a.m. to midnight, EST.
 
-  * By Phone - Canadian Customer service:
-
-1.800.890.6739; Monday through Friday, from 8:00 a.m. to midnight, EST.
-
-  * By E-mail:[service@csc.newport-news.com](mailto:service@csc.newport-news.com)
+  * By E-mail:[customercare@newport-news.com](mailto:customercare@newport-news.com)
 
 Please note: When you contact us, provide your name and address exactly as it appears on correspondences you have received from us. 
 
@@ -180,6 +178,6 @@ Click here to change your e-mail address or to unsubscribe from Newport News e-m
 
 We are an active member of the Direct Marketing Association. [Click here](http://www.the-dma.org/consumers/index.html) for additional privacy information from the DMA. 
 
-If you feel that this site is not following its stated information privacy policy, you may contact us at the above address(es) or phone number or at [service@csc.newport-news.com](mailto:service@csc.newport-news.com) or you may contact the DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org). 
+If you feel that this site is not following its stated information privacy policy, you may contact us at the above address(es) or phone number or at [customercare@newport-news.com](mailto:customercare@newport-news.com) or you may contact the DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org). 
 
 Return to top.
