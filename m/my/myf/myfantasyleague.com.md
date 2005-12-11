@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2005-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050608023511id_/http%3A//www.myfantasyleague.com/policies.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211212216id_/http%3A//myfantasyleague.com/policies.htm%23privacy) for the most accurate reproduction.*
 
 # My Fantasy League - Our Policies
 
