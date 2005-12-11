@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnsnews.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171508id_/http%3A//www.cnsnews.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnsnews.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211210933id_/http%3A//www.cnsnews.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # CNSNews.com -- Cybercast News Service Privacy Policy
 
