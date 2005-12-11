@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotfrog.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615095021id_/http%3A//www.hotfrog.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfrog.com.au privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211155337id_/http%3A//www.hotfrog.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
