@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527075008id_/http%3A//www.nypost.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211122356id_/http%3A//www.nypost.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # New York Post Online Edition: legal
 
@@ -60,7 +60,7 @@ The Post uses reasonable administrative, technical, personnel and physical measu
 
 **ACCESS:** HOW TO ACCESS, CORRECT OR DELETE YOUR PII 
 
-To review or modify your preferences or to delete the PII that The Post has collected from you via the Post Sites, [click here](http://www.nypost.com/useradmin/useradmin.htm). As an alternative, you may also review or modify your PII by contacting The Post Privacy Officer at the address indicated below under REMEDIES AND COMPLIANCE. 
+To review or modify your preferences or to delete the PII that The Post has collected from you via the Post Sites, [click here](https://www.nypost.com/useradmin/useradmin.htm). As an alternative, you may also review or modify your PII by contacting The Post Privacy Officer at the address indicated below under REMEDIES AND COMPLIANCE. 
 
 To review, modify or delete the PII The Post has collected off-line about you (from reputable third parties, newspaper subscription data, etc.), email us at [onlinehelp@nypost.com](mailto:onlinehelp@nypost.com). 
 
