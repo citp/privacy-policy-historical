@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mammahealth.com privacy policy that was archived on 2005-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050619011651id_/http%3A//www.mamma.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mammahealth.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211225300id_/http%3A//www.mamma.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Mamma.com - The Mother Of All Search Engines
 
@@ -59,4 +59,4 @@ Mamma.com has security measures in place to help protect against the loss, misus
 Children Under 13 Years of Age  
 In light of the concern over protecting children's privacy online, Mamma.com does not knowingly request, collect, or share personally identifiable information from users under the age of 13.
 
-For additional information, or to express your comments or concerns, please [contact us](https://web.archive.org/web/20050619011651id_/http%3A//www.mamma.com/info/help/contact.html).
+For additional information, or to express your comments or concerns, please [contact us](https://web.archive.org/web/20051211225300id_/http%3A//www.mamma.com/info/help/contact.html).
