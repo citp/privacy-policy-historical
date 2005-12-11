@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgp.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403155551id_/http%3A//www.pgp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgp.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211195135id_/http%3A//www.pgp.com/privacy.html) for the most accurate reproduction.*
 
 # PGP Corporation - Privacy
 
@@ -44,7 +44,7 @@ PGP Corporation will not sell, rent, or lease your personal information to third
 PGP Corporation strives to maintain the reliability, accuracy, and completeness of personal information in its databases and to protect the privacy and security of its databases. PGP servers and databases are protected by reliable security technology.
 
 **Your Choices Relating to Your Personal Information**  
-As stated previously, you can always opt not to disclose personal information to PGP Corporation, even though it may be needed to make a purchase or take advantage of certain PGP features. You may request an update or deletion of your PGP account by sending an email to [customersupport at pgp dot com](mailto:customersupport@pgp.com).
+As stated previously, you can always opt not to disclose personal information to PGP Corporation, even though it may be needed to make a purchase or take advantage of certain PGP features. You may request an update or deletion of your PGP account by sending an email to [customersupport@pgp.com](mailto:customersupport@pgp.com).
 
 Please note that some information may remain in backups of the Company's records after deletion of your account, although diligent efforts will be employed to remove your information. However, the Company may retain certain of your information if it believes in good faith that retaining such information is necessary to comply with law; enforce or apply its conditions of use and other agreements; or protect the rights, property, or safety of PGP Corporation, its employees, its users, or others.
 
@@ -52,7 +52,7 @@ Please note that some information may remain in backups of the Company's records
 PGP Corporation occasionally reviews and modifies this Privacy Statement. Therefore, the Company recommends that you review the terms from time to time to ensure that you are aware of how it collects and uses personal information. By using the PGP website, you consent to the collection and use of your personal information as outlined here.
 
 **Further Information**  
-If you have questions regarding our Privacy Statement, please contact us at [customersupport at pgp dot com](mailto:customersupport@pgp.com). For other general questions, please go to our Contact Us page [http://www.pgp.com/company/contact.html](https://web.archive.org/company/contact.html).
+If you have questions regarding our Privacy Statement, please contact us at [customersupport@pgp.com](mailto:customersupport@pgp.com). For other general questions, please go to our Contact Us page [http://www.pgp.com/company/contact.html](https://web.archive.org/company/contact.html).
 
 |  | 
 
