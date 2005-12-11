@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lwn.net privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525101744id_/http%3A//lwn.net/op/Privacy.lwn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lwn.net privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211201932id_/http%3A//lwn.net/op/Privacy.lwn) for the most accurate reproduction.*
 
 # LWN: LWN.net Privacy Statement
 
