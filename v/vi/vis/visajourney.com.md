@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204075843id_/http%3A//www.visajourney.com/forums/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211065539id_/http%3A//www.visajourney.com/forums/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # VisaJourney.com : Marriage and Family Immigration to the USA (K Visa)
 
@@ -38,7 +38,7 @@ VisaJourney.com takes every precaution to protect your information. The server o
 We occasionally send you site and service announcement updates. During registration members are permitted to opt-out of these mailings. Should you choose not to receive these announcements, VisaJourney.com can not be held responsible for notifying you of any any changes made to this policy. 
 
 **Correcting/Updating Personal Information**  
-Your personally identifiable information is always accessible by you and can be changed at any time by visiting your [profile page](http://www.visajourney.com/forums/index.php?act=UserCP&CODE=00). If you no longer wish to be a member of VisaJourney.com, you should contact us [here](http://www.visajourney.com/contact/) to have your information permanently deleted from the site. 
+Your personally identifiable information is always accessible by you and can be changed at any time by visiting your [profile page](http://www.visajourney.com/forums/index.php?act=UserCP&CODE=00). If you no longer wish to be a member of VisaJourney.com, you should contact us [here](http://www.visajourney.com/contact/) to have your account disabled.
 
 **Notification of Changes**  
 Notification of changes to our privacy policy are sent to members by way of email announcements. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. During registration members are permitted to opt-out of administrator mailings. Should you choose not to receive these announcements, VisaJourney.com can not be held responsible for notifying you of any changes made to this policy.
