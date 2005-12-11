@@ -1,11 +1,8 @@
-<!--The following is the downloaded HTML source of the bluebeam.com privacy policy that was archived on 2005-02-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050213194635id_/http%3A//www.bluebeam.com/web03/company/CompanyPrivacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluebeam.com privacy policy that was archived on 2005-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051211120134id_/http%3A//www.bluebeam.com/web03/company/CompanyPrivacy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="javascript" id="clientEventHandlersJS">
 <!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
 
 function MM_findObj(n, d) { //v4.0
   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
@@ -15,11 +12,6 @@ function MM_findObj(n, d) { //v4.0
   if(!x && document.getElementById) x=document.getElementById(n); return x;
 }
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-
 function MM_showHideLayers() { //v3.0
   var i,p,v,obj,args=MM_showHideLayers.arguments;
   for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
@@ -27,141 +19,49 @@ function MM_showHideLayers() { //v3.0
     obj.visibility=v; }
 }
 
-// Toggle navmenu function
+// frame deny
 
-		function toggleMenu(currMenu) {
-			if (document.getElementById) {
-				thisMenu = document.getElementById(currMenu).style
-				if (thisMenu.display == "block") {
-					thisMenu.display = "none"
-				}
-				else {
-					thisMenu.display = "block"
-				}
-				return false
-			}
-			else {
-				return true
-			}
-		}
+if (top.location != self.location){
+	top.location.replace(self.location)
+	}
+	
+//-->
 
-// Products navside image swap functions
-		
-  var img_on = 0; // global variable to see which img is on 
-	function swap_img(obj, original, alternate){ 
-		if(img_on == 0){ 
-			 img_on = 1; 
-			obj.src = alternate; 
-		} 
-		else{ 
-			img_on = 0; 
-			obj.src = original; 
-			} 
-		} 
-	
-  var img_on2 = 0; // global variable to see which img is on	
-	function swap_img2(obj, original, alternate){ 
-		if(img_on2 == 0){ 
-			 img_on2 = 1; 
-			obj.src = alternate; 
-		} 
-		else{ 
-			img_on2 = 0; 
-			obj.src = original; 
-			} 
-		} 
-	
-   var img_on3 = 0; // global variable to see which img is on	
-	function swap_img3(obj, original, alternate){ 
-		if(img_on3 == 0){ 
-			 img_on3 = 1; 
-			obj.src = alternate; 
-		} 
-		else{ 
-			img_on3 = 0; 
-			obj.src = original; 
-			} 
-		}
-		
-   var img_on4 = 0; // global variable to see which img is on	
-	function swap_img4(obj, original, alternate){ 
-		if(img_on4 == 0){ 
-			 img_on4 = 1; 
-			obj.src = alternate; 
-		} 
-		else{ 
-			img_on4 = 0; 
-			obj.src = original; 
-			} 
-		}
-		
-// Support navside image swap functions
-		
-	var img_on5 = 0; // global variable to see which img is on 
-	function swap_img(obj, original, alternate){ 
-		if(img_on == 0){ 
-			 img_on = 1; 
-			obj.src = alternate; 
-		} 
-		else{ 
-			img_on = 0; 
-			obj.src = original; 
-			} 
-		} 
-	
-  var img_on6 = 0; // global variable to see which img is on	
-	function swap_img2(obj, original, alternate){ 
-		if(img_on2 == 0){ 
-			 img_on2 = 1; 
-			obj.src = alternate; 
-		} 
-		else{ 
-			img_on2 = 0; 
-			obj.src = original; 
-			} 
-		} 
-	
-   var img_on7 = 0; // global variable to see which img is on	
-	function swap_img3(obj, original, alternate){ 
-		if(img_on3 == 0){ 
-			 img_on3 = 1; 
-			obj.src = alternate; 
-		} 
-		else{ 
-			img_on3 = 0; 
-			obj.src = original; 
-			} 
-		}
-		
-   var img_on8 = 0; // global variable to see which img is on	
-	function swap_img4(obj, original, alternate){ 
-		if(img_on4 == 0){ 
-			 img_on4 = 1; 
-			obj.src = alternate; 
-		} 
-		else{ 
-			img_on4 = 0; 
-			obj.src = original; 
-			} 
-		}
-		
-	var img_on9 = 0; // global variable to see which img is on	
-	  function swap_img5(obj, original, alternate){ 
-		if(img_on5 == 0){ 
-			 img_on5 = 1; 
-			obj.src = alternate; 
-		} 
-		else{ 
-			img_on5 = 0; 
-			obj.src = original; 
-			} 
-		}
-		
+function newWindowPbPlus() {
+
+PbPlusdemo = window.open("http://www.bluebeam.com/web03/PbPlus_Movie/PbPlusMovie.htm", "thewin", "height=655, width=825, toolbar=no, scrollbars=no")
+
+}
+
+function newWindowBCS() {
+
+BCSdemo = window.open("http://www.bluebeam.com/web03/PbPlus_Movie/BCSmovie.htm", "thewin", "height=655, width=825, toolbar=no, scrollbars=no")
+
+}
+
+function ROIcalc() {
+
+ROIcalcWindow = window.open("http://www.bluebeam.com/web03/products/ROIcalc.htm", "thewin", "height=355, width=775, toolbar=no, scrollbars=no")
+
+}
+
 // Open movie window functions
 		
 function newWindowPbPlus() {
 
 PbPlusdemo = window.open("http://www.bluebeam.com/web03/PbPlus_Movie/PbPlusMovie.htm", "thewin", "height=655, width=825, toolbar=no, scrollbars=no")
+
+}
+
+function newWindowBCS() {
+
+BCSdemo = window.open("http://www.bluebeam.com/web03/PbPlus_Movie/BCSmovie.htm", "thewin", "height=655, width=825, toolbar=no, scrollbars=no")
+
+}
+
+function newWindowBCSResellers() {
+
+BCSdemoResellers = window.open("http://www.bluebeam.com/web03/PbPlus_Movie/BCSmovie-Resellers.htm", "thewin", "height=655, width=825, toolbar=no, scrollbars=no")
 
 }
 
@@ -185,7 +85,13 @@ PbPlusSWdemo = window.open("http://www.bluebeam.com/web03/PbPlus_Movie/PbPlusMov
 
 function newWindowBbLT() {
 
-BbLTdemo = window.open("http://www.bluebeam.com/web03/BluebeamLite_demo/BluebeamLite.htm", "thewin", "height=675, width=825, toolbar=no, scrollbars=no")
+BbLTdemo = window.open("http://www.bluebeam.com/web03/PbPlus_Movie/BbLTmovie.htm", "thewin", "height=655, width=825, toolbar=no, scrollbars=no")
+
+}
+
+function newWindowBbLTResellers() {
+
+BbLTdemoResellers = window.open("http://www.bluebeam.com/web03/PbPlus_Movie/BbLTmovie-Resellers.htm", "thewin", "height=655, width=825, toolbar=no, scrollbars=no")
 
 }
 
@@ -203,597 +109,329 @@ PbPlusSWdemo = window.open("http://www.bluebeam.com/web03/PbPlus_Movie/PbPlusMov
 
 function ROIcalc() {
 
-ROIcalcWindow = window.open("http://www.bluebeam.com/web03/products/ROIcalc.htm", "thewin", "height=335, width=775, toolbar=no, scrollbars=no")
+ROIcalcWindow = window.open("http://www.bluebeam.com/web03/products/ROIcalc.htm", "thewin", "height=355, width=775, toolbar=no, scrollbars=no")
 
 }
 		
 //-->
 
-// frame deny
-
-if (top.location != self.location){
-	top.location.replace(self.location)
-	}
-
 </script>
 
 
 <title>Bluebeam Software, Inc.</title>
-<link rel="stylesheet" href="/web03/css/style_NOTIE_NOTWIN.css" type="text/css">
+<link rel="stylesheet" href="/web03/includes/css/Bluebeam.css" type="text/css">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <title>Bluebeam Software, Inc.</title>
 
-</head><body leftmargin="1" bgcolor="#f5f5f5" topmargin="1">
-	<div align="left" style="POSITION:relative">
-	<table id="Table6" height="93" cellspacing="0" cellpadding="0" border="0" width="100%">
-		<tbody><tr valign="top">
-			<td width="100%">
-			<table border="0" height="20" cellspacing="0" cellpadding="0" id="Table9">
-			<tbody><tr>
-				<td width="800">
-				<object id="IndexHeader" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" height="73" width="800" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" viewastext="">
-					<param name="_cx" value="21167">
-					<param name="_cy" value="1958">
-					<param name="FlashVars" value="">
-					<param name="Movie" value="/web03/includes/Header.swf">
-					<param name="Src" value="/web03/includes/Header.swf">
-					<param name="WMode" value="Window">
-					<param name="Play" value="-1">
-					<param name="Loop" value="-1">
-					<param name="Quality" value="High">
-					<param name="SAlign" value="">
-					<param name="Menu" value="-1">
-					<param name="Base" value="">
-					<param name="AllowScriptAccess" value="always">
-					<param name="Scale" value="ShowAll">
-					<param name="DeviceFont" value="0">
-					<param name="EmbedMovie" value="0">
-					<param name="BGColor" value="FFFFFF">
-					<param name="SWRemote" value="">
-					<param name="MovieData" value="">
-					<embed src="/web03/includes/Header.swf" quality="high" bgcolor="#FFFFFF" width="800" height="73" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
-					
-				</object>
-				</td>
-				<td bgcolor="f5f5f5" width="100%" valign="baseline">
-				</td>
-			</tr>
-			</tbody></table>
+</head><body leftmargin="0" bgcolor="#f5f5f5" topmargin="0">
+	<table id="Table6" cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#ffffff">
+		<tbody><tr>
+			<td height="10"></td>
+		</tr>
+		<tr>
+			<td valign="bottom">
+				<table cellspacing="0" cellpadding="0" border="0" height="50">
+					<tbody><tr>
+						<td><img src="/web03/includes/images/spacer.gif" width="10" height="5"></td>
+						<td valign="bottom"><a href="/web03/index.asp"><img src="/web03/includes/images/tab-home.jpg" border="0" alt="Bluebeam"></a></td>
+						<td valign="bottom"><a href="/web03/products/products.asp"><img src="/web03/includes/images/tab-products.jpg" border="0" alt="Bluebeam Products"></a></td>
+						<td valign="bottom"><a href="/web03/products/industries.asp"><img src="/web03/includes/images/tab-industries.jpg" border="0" alt="Industry Solutions"></a></td>
+						<td valign="bottom"><a href="/web03/support/index.asp"><img src="/web03/includes/images/tab-support.jpg" border="0" alt="Technical Support"></a></td>
+						<td valign="bottom"><a href="/web03/partners/index.asp"><img src="/web03/includes/images/tab-partners.jpg" border="0" alt="Reseller Partners"></a></td>
+						<td valign="bottom"><a href="/web03/products/downloads.asp"><img src="/web03/includes/images/tab-try.jpg" border="0" alt="Free 30-day Trials"></a></td>
+						<td valign="bottom"><a href="/web03/products/purchase.asp"><img src="/web03/includes/images/tab-buy.jpg" border="0" alt="Bluebeam Store"></a></td>
+						<td><img src="/web03/includes/images/spacer.gif" width="10" height="5"></td>
+						<td valign="top"><img src="/web03/includes/images/BluebeamLogo-D.gif"></td>					
+					</tr>
+				</tbody></table>
 			</td>
 		</tr>
 		<tr>
-			<td width="100%">
-				<table border="0" height="20" cellspacing="0" cellpadding="0" id="Table1">
-					<tbody><tr><td width="800">
-					<table border="0" height="20" cellspacing="0" cellpadding="0" id="Table11" class="con1">
+			<td height="20" style="background: url(/web03/includes/images/tab-bar.jpg) repeat-x" valign="top">
+				<table cellspacing="0" cellpadding="0" border="0">
 					<tbody><tr>
-						<td width="84" onmouseover="MM_showHideLayers('Layer2','','show','MenuLayer1','','show','MenuLayer2','','hide','MenuLayer3','','hide','MenuLayer4','','hide','MenuLayer5','','hide','MenuLayer6','','hide','MenuLayer7','','hide')" onmouseout="MM_showHideLayers('Layer2','','hide')" background="/web03/images/BlueGradient.gif"><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;Company<br><img src="/web03/images/spacer.gif" width="1" height="1"></font><div id="MenuLayer1" style="Z-INDEX:9; LEFT:0; VISIBILITY:hidden; POSITION:absolute; TOP:73" onmouseout="MM_showHideLayers('MenuLayer1','','hide','MenuLayer2','','hide','MenuLayer3','','hide','MenuLayer4','','hide','MenuLayer5','','hide','MenuLayer6','','hide','MenuLayer7','','hide')"><table cellpadding="0" cellspacing="0" width="84" height="20" bgcolor="white" class="con1" id="Table12"><tbody><tr><td><font color="#1c2d81"><a class="menuTop" href="#">&nbsp;&nbsp;&nbsp;&nbsp;Company</a></font></td></tr><tr><td height="1" bgcolor="#1c2d81"></td></tr></tbody></table></div></td>
-						<td width="84" onmouseover="MM_showHideLayers('Layer3','','show','MenuLayer2','','show','MenuLayer1','','hide','MenuLayer3','','hide','MenuLayer4','','hide','MenuLayer5','','hide','MenuLayer6','','hide','MenuLayer7','','hide')" onmouseout="MM_showHideLayers('Layer3','','hide')" background="/web03/images/BlueGradient.gif"><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;Products<br><img src="/web03/images/spacer.gif" width="1" height="1"></font><div id="MenuLayer2" style="Z-INDEX:9; LEFT:84; VISIBILITY:hidden; POSITION:absolute; TOP:73" onmouseout="MM_showHideLayers('MenuLayer1','','hide','MenuLayer2','','hide','MenuLayer3','','hide','MenuLayer4','','hide','MenuLayer5','','hide','MenuLayer6','','hide','MenuLayer7','','hide')"><table cellpadding="0" cellspacing="0" width="84" height="20" bgcolor="white" class="con1" id="Table13"><tbody><tr><td><font color="#1c2d81"><a class="menuTop" href="#">&nbsp;&nbsp;&nbsp;&nbsp;Products</a></font></td></tr><tr><td height="1" bgcolor="#1c2d81"></td></tr></tbody></table></div></td>
-						<td width="84" onmouseover="MM_showHideLayers('Layer4','','show','Layer3','','hide','MenuLayer3','','show','MenuLayer1','','hide','MenuLayer2','','hide','MenuLayer4','','hide','MenuLayer5','','hide','MenuLayer6','','hide','MenuLayer7','','hide')" onmouseout="MM_showHideLayers('Layer4','','hide')" background="/web03/images/BlueGradient.gif"><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;Industries<br><img src="/web03/images/spacer.gif" width="1" height="1"></font><div id="MenuLayer3" style="Z-INDEX:9; LEFT:168; VISIBILITY:hidden; POSITION:absolute; TOP:73" onmouseout="MM_showHideLayers('MenuLayer1','','hide','MenuLayer2','','hide','MenuLayer3','','hide','MenuLayer4','','hide','MenuLayer5','','hide','MenuLayer6','','hide','MenuLayer7','','hide')"><table cellpadding="0" cellspacing="0" width="84" height="20" bgcolor="white" class="con1" id="Table14"><tbody><tr><td><font color="#1c2d81"><a class="menuTop" href="#">&nbsp;&nbsp;&nbsp;&nbsp;Industries</a></font></td></tr><tr><td height="1" bgcolor="#1c2d81"></td></tr></tbody></table></div></td>
-						<td width="84" onmouseover="MM_showHideLayers('Layer5','','show','Layer4','','hide','MenuLayer4','','show','MenuLayer1','','hide','MenuLayer2','','hide','MenuLayer3','','hide','MenuLayer5','','hide','MenuLayer6','','hide','MenuLayer7','','hide')" onmouseout="MM_showHideLayers('Layer5','','hide')" background="/web03/images/BlueGradient.gif"><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;Support<br><img src="/web03/images/spacer.gif" width="1" height="1"></font><div id="MenuLayer4" style="Z-INDEX:9; LEFT:252; VISIBILITY:hidden; POSITION:absolute; TOP:73" onmouseout="MM_showHideLayers('MenuLayer1','','hide','MenuLayer2','','hide','MenuLayer3','','hide','MenuLayer4','','hide','MenuLayer5','','hide','MenuLayer6','','hide','MenuLayer7','','hide')"><table cellpadding="0" cellspacing="0" width="84" height="20" bgcolor="white" class="con1" id="Table15"><tbody><tr><td><font color="#1c2d81"><a class="menuTop" href="#">&nbsp;&nbsp;&nbsp;&nbsp;Support</a></font></td></tr><tr><td height="1" bgcolor="#1c2d81"></td></tr></tbody></table></div></td>
-						<td width="84" onmouseover="MM_showHideLayers('Layer6','','show','Layer5','','hide','MenuLayer5','','show','MenuLayer1','','hide','MenuLayer2','','hide','MenuLayer3','','hide','MenuLayer4','','hide','MenuLayer6','','hide','MenuLayer7','','hide')" onmouseout="MM_showHideLayers('Layer6','','hide')" background="/web03/images/BlueGradient.gif"><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;Partners<br><img src="/web03/images/spacer.gif" width="1" height="1"></font><div id="MenuLayer5" style="Z-INDEX:9; LEFT:336; VISIBILITY:hidden; POSITION:absolute; TOP:73" onmouseout="MM_showHideLayers('MenuLayer1','','hide','MenuLayer2','','hide','MenuLayer3','','hide','MenuLayer4','','hide','MenuLayer5','','hide','MenuLayer6','','hide','MenuLayer7','','hide')"><table cellpadding="0" cellspacing="0" width="84" height="20" bgcolor="white" class="con1" id="Table16"><tbody><tr><td><font color="#1c2d81"><a class="menuTop" href="#">&nbsp;&nbsp;&nbsp;&nbsp;Partners</a></font></td></tr><tr><td height="1" bgcolor="#1c2d81"></td></tr></tbody></table></div></td>
-						<td width="84" onmouseover="MM_showHideLayers('Layer7','','show','Layer6','','hide','IndexFlash','','hide','MenuLayer6','','show','MenuLayer1','','hide','MenuLayer2','','hide','MenuLayer3','','hide','MenuLayer4','','hide','MenuLayer5','','hide','MenuLayer7','','hide')" onmouseout="MM_showHideLayers('Layer7','','hide', 'IndexFlash','','show')" background="/web03/images/BlueGradient.gif"><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;Downloads<br><img src="/web03/images/spacer.gif" width="1" height="1"></font><div id="MenuLayer6" style="Z-INDEX:9; LEFT:420; VISIBILITY:hidden; POSITION:absolute; TOP:73" onmouseout="MM_showHideLayers('MenuLayer1','','hide','MenuLayer2','','hide','MenuLayer3','','hide','MenuLayer4','','hide','MenuLayer5','','hide','MenuLayer6','','hide','MenuLayer7','','hide')"><table cellpadding="0" cellspacing="0" width="84" height="20" bgcolor="white" class="con1" id="Table17"><tbody><tr><td><font color="#1c2d81"><a class="menuTop" href="#">&nbsp;&nbsp;&nbsp;&nbsp;Downloads</a></font></td></tr><tr><td height="1" bgcolor="#1c2d81"></td></tr></tbody></table></div></td>
-						<td width="84" onmouseover="MM_showHideLayers('Layer8','','show','Layer7','','hide','IndexFlash','','hide','MenuLayer7','','show','MenuLayer1','','hide','MenuLayer2','','hide','MenuLayer3','','hide','MenuLayer4','','hide','MenuLayer5','','hide','MenuLayer6','','hide')" onmouseout="MM_showHideLayers('Layer8','','hide', 'IndexFlash','','show')" background="/web03/images/BlueGradient.gif"><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;Purchase<br><img src="/web03/images/spacer.gif" width="1" height="1"></font><div id="MenuLayer7" style="Z-INDEX:9; LEFT:504; VISIBILITY:hidden; POSITION:absolute; TOP:73" onmouseout="MM_showHideLayers('MenuLayer1','','hide','MenuLayer2','','hide','MenuLayer3','','hide','MenuLayer4','','hide','MenuLayer5','','hide','MenuLayer6','','hide','MenuLayer7','','hide')"><table cellpadding="0" cellspacing="0" width="84" height="20" bgcolor="white" class="con1" id="Table18"><tbody><tr><td><font color="#1c2d81"><a class="menuTop" href="#">&nbsp;&nbsp;&nbsp;&nbsp;Purchase</a></font></td></tr><tr><td height="1" bgcolor="#1c2d81"></td></tr></tbody></table></div></td>
-						<td><img src="/web03/images/MenuSpacer_new.gif" width="158" height="20"></td>
-					    <td background="/web03/images/BlueGradient.gif" width="44"><a class="menuHome" href="/web03/index.asp">Home</a></td>
-						<td><img src="/web03/images/MenuEnd.gif"></td>
+						<td><img src="/web03/includes/images/spacer.gif" width="15" height="5"></td>
+						<td width="85" align="center"><a href="/web03/company/index.asp"><img src="/web03/includes/images/tab-barText-about.jpg" alt="About Bluebeam" border="0"></a></td>
+						<td width="85" align="center"><a href="/web03/company/news.asp"><img src="/web03/includes/images/tab-barText-news.jpg" alt="News" border="0"></a></td>
+						<td width="85" align="center"><a href="/web03/company/presskit.asp"><img src="/web03/includes/images/tab-barText-presskit.jpg" alt="Press Kit" border="0"></a></td>
+						<td width="85" align="center"><a href="/web03/company/employment.asp"><img src="/web03/includes/images/tab-barText-employ.jpg" alt="Employment" border="0"></a></td>
+						<td width="85" align="center"><a href="/web03/company/contact.asp"><img src="/web03/includes/images/tab-barText-contact.jpg" alt="Contact Us" border="0"></a></td>					
 					</tr>
 				</tbody></table>
 			</td>
 		</tr>
 	</tbody></table>
-		<div id="Layer2" style="Z-INDEX:2; LEFT:0; VISIBILITY:hidden; POSITION:absolute; TOP:93">
-		<table width="140" cellspacing="1" cellpadding="0" id="Table2" bgcolor="Gainsboro" onmouseover="MM_showHideLayers('Layer2','','show','MenuLayer1','','show', 'IndexFlash','','hide')" onmouseout="MM_showHideLayers('Layer2','','hide','MenuLayer1','','hide', 'IndexFlash','','show')">
-			<tbody><tr>
-				<td>
-				<table class="dropdown" width="100%" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-				<td nowrap="" onmouseup="window.location='/web03/company/'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Company Information&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/company/CompanyNews.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;News &amp; Events&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/company/Online-Press-Kit.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Online Press Kit&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/company/CompanyEmployment.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Employment&nbsp;
-				<br>
-				</td></tr>
-				<tr><td nowrap="" onmouseup="window.location='/web03/company/CompanyContactus.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Contact Us&nbsp;
-				</td></tr>
-				</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-	</div>
-	<div id="Layer3" style="Z-INDEX:3; LEFT:84; VISIBILITY:hidden; POSITION:absolute; TOP:93">
-		<table width="153" cellspacing="1" cellpadding="0" id="Table3" bgcolor="Gainsboro" onmouseover="MM_showHideLayers('Layer3','','show', 'Layer2', '','hide','MenuLayer2','','show', 'IndexFlash','','hide')" onmouseout="MM_showHideLayers('Layer3','','hide','MenuLayer2','','hide', 'IndexFlash','','show')">
-			<tbody><tr>
-				<td>
-				<table class="dropdown" width="100%" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Bluebeam Pushbutton Plus for AutoCAD&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/PbPDFSolidWorks.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Bluebeam Pushbutton Plus for SolidWorks&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/BluebeamLite.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Bluebeam Lite for AutoCAD LT&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/BbOfficeUsers.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Bluebeam Lite for Office Users&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/Blueprint.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Bluebeam Blue-print&nbsp;
-				</td></tr>
-				</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-	</div>
-	<div id="Layer4" style="Z-INDEX:4; LEFT:168; VISIBILITY:hidden; POSITION:absolute; TOP:93">
-		<table width="155" cellspacing="1" cellpadding="0" id="Table4" bgcolor="Gainsboro" onmouseover="MM_showHideLayers('Layer4','','show', 'Layer3', '','hide','MenuLayer3','','show', 'IndexFlash','','hide')" onmouseout="MM_showHideLayers('Layer4','','hide','MenuLayer3','','hide', 'IndexFlash','','show')">
-			<tbody><tr>
-				<td>
-				<table class="dropdown" width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/Architects.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Architecture Firms&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/Engineers.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Engineering Firms&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/Business.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Businesses&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/Government.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Government Institutions&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/Educational.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Educational Institutions&nbsp;
-				</td></tr>
-				</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-	</div>
-	<div id="Layer5" style="Z-INDEX:5; LEFT:252; VISIBILITY:hidden; POSITION:absolute; TOP:93">
-		<table width="160" cellspacing="1" cellpadding="0" id="Table5" bgcolor="Gainsboro" onmouseover="MM_showHideLayers('Layer5','','show', 'Layer4', '','hide','MenuLayer4','','show', 'IndexFlash','','hide')" onmouseout="MM_showHideLayers('Layer5','','hide','MenuLayer4','','hide', 'IndexFlash','','show')">
-			<tbody><tr>
-				<td>
-				<table class="dropdown" width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-				<td nowrap="" onmouseup="window.location='/web03/support/Support_PbPlus.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Pushbutton Plus for AutoCAD&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/support/Support_PbPlusSW.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Pushbutton Plus for SolidWorks&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/support/Support_PbPDF.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Pushbutton PDF 2.2.8 &amp; Earlier&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/support/Support_PbPDFSW.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Pushbutton PDF for SolidWorks&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/support/Support_BbLT.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Bluebeam Lite&nbsp;
-				</td></tr>
-				</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-	</div>
-	<div id="Layer6" style="Z-INDEX:6; LEFT:336; VISIBILITY:hidden; POSITION:absolute; TOP:93">
-		<table width="140" cellspacing="1" cellpadding="0" id="Table7" bgcolor="Gainsboro" onmouseover="MM_showHideLayers('Layer6','','show', 'Layer5', '','hide','MenuLayer5','','show')" onmouseout="MM_showHideLayers('Layer6','','hide','MenuLayer5','','hide')">
-			<tbody><tr>
-				<td>
-				<table class="dropdown" width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-				<td nowrap="" onmouseup="window.location='/web03/Partners/index.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Partner Home&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/Partners/ResellerPartners.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Find a Reseller&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/Partners/PartnerInformationPage.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Become a Partner&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/Partners/PartnersLogin.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Partners Login&nbsp;
-				</td></tr>
-				</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-	</div>
-<div id="Layer7" style="Z-INDEX:7; LEFT:420; VISIBILITY:hidden; POSITION:absolute; TOP:93">
-		<table width="100" cellspacing="1" cellpadding="0" id="Table1" bgcolor="Gainsboro" onmouseover="MM_showHideLayers('Layer7','','show', 'Layer6', '','hide', 'MenuLayer6','','show')" onmouseout="MM_showHideLayers('Layer7','','hide','MenuLayer6','','hide')">
-			<tbody><tr>
-				<td>
-				<table class="dropdown" width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-				<td nowrap="" onmouseup="window.location='/web03/download.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Bluebeam Pushbutton Plus for AutoCAD&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/PbPDFSW_download.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Bluebeam Pushbutton Plus for SolidWorks&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/BluebeamLite_download.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Bluebeam Lite&nbsp;
-				</td></tr>
-				</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-	</div>
-<div id="Layer8" style="Z-INDEX:8; LEFT:504; VISIBILITY:hidden; POSITION:absolute; TOP:93">
-		<table width="100" cellspacing="1" cellpadding="0" id="Table8" bgcolor="Gainsboro" onmouseover="MM_showHideLayers('Layer8','','show', 'Layer7', '','hide', 'MenuLayer7','','show')" onmouseout="MM_showHideLayers('Layer8','','hide','MenuLayer7','','hide')">
-			<tbody><tr>
-				<td>
-				<table class="dropdown" width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/PbPdfCatalog.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Bluebeam Pushbutton Plus for AutoCAD&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/PbPdfSWCatalog.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Bluebeam Pushbutton Plus for Solidworks&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/PbPlus_Upgrade.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Upgrade to Pushbutton Plus for AutoCAD&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/PbPlus_SWUpgrade.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Upgrade to Pushbutton Plus for SolidWorks&nbsp;
-				<br>
-				</td></tr>
-				<tr>
-				<td nowrap="" onmouseup="window.location='/web03/products/LTCatalog.asp'" style="cursor:pointer" onmouseover="style.backgroundColor='white'" onmouseout="style.backgroundColor='gainsboro'">
-				&nbsp;Bluebeam Lite&nbsp;
-				</td></tr>
-				</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-</div>
-		<table border="0" width="800" cellpad="0" cellspacing="0" cellpadding="0" bgcolor="white">
-			<tbody><tr>
-				<td colspan="2" height="1"><img src="/web03/images/Company_Splash.jpg" height="75" width="800"></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#1c2d81" height="20" background="/web03/images/BlueGradient.gif">
-					<table id="Table6" height="20" cellspacing="0" cellpadding="0" width="100%" border="0">
-						<tbody><tr>
-							<td valign="top" align="left"><img alt="" src="/web03/images/spacer.gif" width="5"></td>
-							<td class="con1" align="left"><font color="white"><b>Additional Links .:</b></font></td>
-							<td valign="top">
-								<p align="right"><img alt="" src="/web03/images/spacer.gif" width="5"></p>
-							</td>
-						</tr>
-					</tbody></table>
-				</td>
-				<td bgcolor="#1c2d81" background="/web03/images/BlueGradient.gif">
-					<table id="Table4" height="20" cellspacing="0" cellpadding="0" width="100%" border="0">
-						<tbody><tr>
-							<td class="title1" valign="top" align="right" width="7"></td>
-							<td class="title1" align="right">
-								<p class="con1" align="left"><b><font color="white"><b>Privacy Policy</b></font></b></p>
-							</td><td class="title1" valign="top" align="right"><img alt="" src="/web03/images/cornerR.gif" width="5"></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="white">
-					<table border="0" width="210" height="300" cellpad="0" cellspacing="0" cellpadding="0" style="background: url(/web03/images/homebackgradient.gif) repeat-x">
+
+<table id="Table1" cellspacing="0" cellpadding="7" border="0" width="800">
 	<tbody><tr>
 		<td valign="top">
-			<table border="0" cellpad="0" cellspacing="0" cellpadding="0">
+			<table cellpadding="0" cellspacing="0" width="200" border="0">
 				<tbody><tr>
-					<td height="1"><img width="25" height="25" src="/images/spacer.gif"></td>
 					<td>
-						<span class="navside1">
-    <br>
-<br>
-
-    <b>
-								
-								<a class="navbar" href="/web03/Company/index.asp">Company Information</a>
-								
-								<br>
-								<br>
-							</b>
-
-    
-      <a class="navbar" href="/web03/Company/CompanyNews.asp">News &amp; Events</a>
-    
-    <br><br>
-        
-      <a class="navbar" href="/web03/Company/Online-Press-Kit.asp">Online Press Kit</a>
-    
-    <br><br>
-
-    
-      <a class="navbar" href="/web03/Company/CompanyEmployment.asp">Employment</a>
-    
-    <br><br>
-
-    
-      <a class="navbar" href="/web03/Company/CompanyContactus.asp">Contact Us</a>
-    
-    <br><br>
-
-    </span>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-
-				</td>
-				<td valign="top">
-					<table cellspacing="0" cellpadding="0" width="100%" border="0">
-						<tbody><tr>
-							<td style="background: url(/web03/images/PbPDfgradient.gif) repeat-x"><img alt="" src="/web03/images/spacer.gif" width="25"></td>
-							<td class="con1" style="background: url(/web03/images/PbPDfgradient.gif) repeat-x">
-								<br>
-								<br>
-								<p class="con1">
-								Protecting your privacy is important to us at Bluebeam Software Inc. 
-								("Bluebeam"). This Web site ("Site") is a general corporate Web site, through 
-								which we provide information about us and our various products and services, 
-								and make our software products available for download. We use information that 
-								we collect from you to improve your experience in using the Site and our 
-								various products and services, to aid in communications among Bluebeam and you 
-								and other Site users and to notify you of products and services that we think 
-								may be of interest to you. Please read on for more details concerning our 
-								Privacy Policy.
-								</p><p class="title1">
-									What Personal Information Does Bluebeam Collect?
-									</p><ul class="con1">
-										<li>
-											<b>Information You Give Us</b>: We collect information you choose to 
-										provide us through the Site or through email. For example, we obtain 
-										information when you complete a feedback form, contact us requesting 
-										information, complete purchasing and product registration forms, respond to a 
-										survey, enter a contest, or participate in a news group, bulletin board or chat 
-										room. This information may include, for example, your name, email address, 
-										postal address, phone number, company name, job title, and information about 
-										your company including the number of employees, revenue size and the type of 
-										software and hardware the company owns or uses. Purchase order forms may also 
-										request credit card or other billing information. You can choose not to provide 
-										us with certain personal and company information, but then you may not be able 
-										to fully take advantage of the features of our Site and we may not be able to 
-										provide you with requested information about our products and services.
-										</li><li>
-											<b>Automatic Collection of Information</b>: Like many Web sites on the 
-											Internet, we automatically track certain information about you as you use our 
-											Site. This information may include, for example, your IP address, the URLs and 
-											Site pages you’ve visited, the number of times you visited each Site page, what 
-											downloads you made, how long you spent logged-on to particular sections of the 
-											Site and to the Site in general, and your browser type. In addition, we may 
-											employ the use of “cookies” in certain areas of our Site to allow us to provide 
-											information which is targeted to your interests and to make your online 
-											experience more convenient. A cookie is a small amount of data that is sent to 
-											your browser from a Web server and stored on your computer’s hard drive. Most 
-											cookies we may use will be “session cookies,” meaning that they will be 
-											automatically deleted at the end of a Site visit. You are always free to 
-											decline any cookies we use if your browser permits.</li>
-									</ul>
-								<p class="title1">
-								Who is Collecting Your Information?
-								</p><p class="con1">
-								When you provide information through the Site, the information is transmitted 
-								through the Internet and stored on servers owned and maintained by Bluebeam or 
-								its designated service providers which Bluebeam may from time to time engage to 
-								host and maintain the Site, facilitate processing or fulfillment of product and 
-								service orders made through use of the Site, or provide additional Site support 
-								or other services. You will be informed if any third party other than a 
-								Bluebeam service provider is involved in collecting information from you 
-								through use of the Site. In such situations, you can elect not to share the 
-								information requested.
-								</p><p class="con1">
-								Bluebeam affiliates and partners and other entities (such as software companies 
-								and other Web sites that publish online reviews and/or offer online discussion 
-								groups) that have links on the Site may also collect information about you when 
-								you visit their Web sites or otherwise communicate with them. Although we 
-								encourage such third parties to adopt and follow their own consumer privacy 
-								policies, we are not responsible for their collection and use of user 
-								information. The information practices of those Web sites linked to the Site 
-								are not covered by this Privacy Policy. You should refer to the privacy 
-								policies and statements of other Web sites or contact the respective Webmasters 
-								of those Web sites to obtain information regarding their information 
-								collection, use and disclosure policies.
-								</p><p class="title1">
-								With Whom Do We Share Your Information?
-								</p><p class="con1">
-									We are not in the business of collecting user information for sale to others. 
-									We will share the personal or company identifying information we collect from 
-									you only with your consent or under the following circumstances:
-									</p><ul class="con1">
-										<li>
-											<i>Service providers</i>. We may use other companies and individuals to 
-										perform supporting functions for the various products and services offered 
-										through our Site on our behalf. These service providers will not be permitted 
-										to use the information collected from you for any purpose other than performing 
-										the support functions for Bluebeam and/or offering additional services, 
-										promotions or other offers to you.
-										</li><li>
-											<i>Bluebeam affiliates and partners</i>. We work closely with our worldwide 
-										affiliates with whom we may share user information. In addition, we may share 
-										user information with Bluebeam partners and service providers.
-										</li><li>
-											<i>Protection of rights</i>. We will release user information if we believe 
-										that such action is appropriate to: (1) comply with legal process, (2) enforce 
-										the Terms of Use Agreement for the Site, or (3) protect the rights, property, 
-										or personal safety of Bluebeam, its employees, other Site users or others.
-										</li><li>
-											<i>Asset transfers</i>. We continue to develop our business and in doing so 
-											might choose to buy other businesses or assets. User information is generally 
-											one of the transferred assets acquired in such purchases. Also, if we should 
-											choose to sell some or all of our assets, user information, including the 
-											information collected from you through this Site, could be included in the 
-											transferred assets.</li>
-									</ul>
-								<p class="con1">
-								In all other circumstances, if we disclose any user information to a third 
-								party it will be in the form of aggregated statistical data that doesn't 
-								identify any user individually. This non-identifying information may include, 
-								for example, the purchasing patterns, trends, preferences and other collective 
-								characteristics of our users and serves to help us, our affiliates and others 
-								evaluate and tailor our communications, advertisements, products, services and 
-								general business practices.
-								</p><p class="title1">
-								Control of Your Information
-								</p><p class="con1">
-									You can correct and update the information you provide Bluebeam by contacting 
-									our Webmaster at <a href="mailto:support@bluebeam.com">support@bluebeam.com</a>. 
-									From time to time, Bluebeam may provide you through email, postal mail, 
-									telephone solicitations, and/or in-person sales calls information on Bluebeam 
-									or its various products or services. You can opt-out of receiving these types 
-									of communications by contacting our Webmaster at <a href="mailto:support@bluebeam.com">
-										support@bluebeam.com</a>
-								. Please be advised that once your information is disclosed to a Bluebeam 
-								affiliate, partner or service provider in accordance with this Privacy Policy, 
-								we do not provide a means of opting-out of any communications that affiliate, 
-								partner or service provider may send to you and we advise that you contact such 
-								affiliate, partner or service provider directly for more information on any 
-								available opt-out procedures.
-								</p><p class="title1">
-								Bulletin Boards and Chat Rooms
-								</p><p class="con1">
-								We may from time to time provide chat sessions and rooms, forums, message 
-								boards and/or bulletin boards for users to receive information about products 
-								and various topics. Please remember that any information disclosed in these 
-								areas may be viewed by other users of the Site. If you post on any of these 
-								areas, please use care not to disclose any personal or company identifying 
-								information. We are not responsible or liable for the uses that others may make 
-								of the information you post on any of these areas.
-								</p><p class="title1">
-								Security
-								</p><p class="con1">
-								We use technology designed to protect user information and transmissions made 
-								through our Site. The personal or company identifying information that you 
-								provide us is stored on servers, which are located in secured facilities with 
-								restricted access, and protected by protocols and procedures designed to ensure 
-								the security of such information. In addition, all Bluebeam personnel who have 
-								access to such information are trained in the maintenance and security of such 
-								information, and we limit access of such information by our employees to the 
-								information reasonably required in order to provide prompt, high quality 
-								service. However, no data transmission over the Internet can be guaranteed to 
-								be 100% secure. As a result, while we strive to protect user information, we 
-								cannot ensure or warrant the security of any information you transmit to us or 
-								from our Site and you engage in such transmissions at your own risk. Once we 
-								receive a transmission from you, we will attempt to ensure its security on our 
-								systems.
-								</p><p class="title1">
-								Children’s Privacy
-								</p><p class="con1">
-								Our Site is a general audience Web site and no portion of the Site is directed 
-								to children under the age of 13. We do not collect personal identifying 
-								information from any person we actually know is a child under the age of 13.
-								</p><p class="title1">
-								Summary
-								</p><p class="con1">
-									At Bluebeam, protecting your privacy is important to us. By accessing and using 
-									our Site, you consent to the collection, use and disclosure of information by 
-									Bluebeam as described in this Privacy Policy. Although this Privacy Policy is 
-									subject to change from time to time, we will notify you prior to any material 
-									change at least fifteen (15) days prior to implementation of the revised 
-									Privacy Policy. If you have any questions concerning this policy please send an 
-									email to the Bluebeam Webmaster at <a href="mailto:support@bluebeam.com">support@bluebeam.com</a>.
-									<br>
-									<br>
-								</p>
-							</td>
-							<td class="con1" style="background: url(/web03/images/PbPDfgradient.gif) repeat-x"><img alt="" src="/web03/images/spacer.gif" width="15"></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table><table width="100%" bgcolor="f5f5f5" height="2" cellspacing="0" cellpadding="0" border="0" id="Table1">
+						<table cellspacing="0" cellpadding="0" border="0" width="200">
 	<tbody><tr>
-	<td>
-		<table height="10" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-				<td bgcolor="white" width="800"></td>
-				<td bgcolor="whitesmoke"></td>
-			</tr>
-		</tbody></table>
-	</td>
-	</tr> 
-	<tr>
-		<td height="1" background="/web03/images/DotDividerH.gif"></td>
+		<td background="../images/TabLinks-top.jpg" height="45"></td>
 	</tr>
 	<tr>
-		<td height="10"></td>
-	</tr>
-	<tr valign="center" bgcolor="f5f5f5">
-		<td height="40" valign="top" class="con1">
-			<table cellspacing="0" cellpadding="0" width="800" border="0" class="con1">
+		<td background="../images/TabLinks-center.jpg" align="center">
+			<table cellspacing="0" cellpadding="0" border="0" width="88%">
 				<tbody><tr>
-					<td width="15"></td>
-					<td align="left">
-						Copyright © 2005 Bluebeam Software, Inc.
+					<td>
+						&nbsp;&nbsp;Bluebeam
+						<hr>
+						&nbsp;&nbsp;<a href="index.asp">Company Information</a>
 						<br>
-						<a href="/web03/company/CompanyPrivacy.asp">Privacy Policy</a>&nbsp;|&nbsp;<a href="/web03/company/CompanyTermsOfUse.asp">Terms 
-							of Use</a>&nbsp;|&nbsp;<a href="/web03/company/CompanyContactUs.asp">Contact Us</a>&nbsp;|&nbsp;<a href="/web03/SiteMap.asp">Site Map</a>
+						<br>
+						&nbsp;&nbsp;<a href="news.asp">News</a>
+						<br>
+						<br>
+						&nbsp;&nbsp;<a href="presskit.asp">Press Kit</a>
+						<br>
+						<br>
+						&nbsp;&nbsp;<a href="employment.asp">Employment</a>
+						<br>
+						<br>
+						&nbsp;&nbsp;<a href="contact.asp">Contact</a>
 					</td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
+	<tr>
+		<td background="../images/TabLinks-bottom.jpg" height="45"></td>
+	</tr>
 </tbody></table>
-</div></body></html>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>	
+		<td valign="top">
+			<table cellpadding="0" cellspacing="0" width="600" border="0">
+				<tbody><tr>
+					<td background="../images/TabCompany.jpg" height="45"><img src="../images/spacer.gif" height="45" width="1"></td>
+				</tr>
+				<tr>
+					<td background="../images/TabCenter600.jpg" align="center">
+						<table cellpadding="0" cellspacing="0" border="0" width="560">
+							<tbody><tr>
+								<td>
+									<img src="/web03/images/Company-Splash.jpg">
+									<br>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" class="con1">
+									<tbody><tr>
+										<td>
+											<font size="1" color="#333333">
+											<a href="/web03/index.asp">Home</a>&nbsp;&nbsp;<img src="/web03/images/DotPointer.gif">&nbsp;&nbsp;<a href="/web03/company/index.asp">Company</a>&nbsp;&nbsp;<img src="/web03/images/DotPointer.gif">&nbsp;&nbsp;Privacy Policy
+											</font>
+										</td>
+									</tr>
+									</tbody></table>
+									<hr size="1" color="#E1E1E1">
+									<br>
+											<p class="con1">
+											Protecting your privacy is important to us at Bluebeam Software Inc. 
+											("Bluebeam"). This Web site ("Site") is a general corporate Web site, through 
+											which we provide information about us and our various products and services, 
+											and make our software products available for download. We use information that 
+											we collect from you to improve your experience in using the Site and our 
+											various products and services, to aid in communications among Bluebeam and you 
+											and other Site users and to notify you of products and services that we think 
+											may be of interest to you. Please read on for more details concerning our 
+											Privacy Policy.
+											</p><p class="title1">
+												What Personal Information Does Bluebeam Collect?
+												</p><ul class="con1">
+													<li>
+														<b>Information You Give Us</b>: We collect information you choose to 
+													provide us through the Site or through email. For example, we obtain 
+													information when you complete a feedback form, contact us requesting 
+													information, complete purchasing and product registration forms, respond to a 
+													survey, enter a contest, or participate in a news group, bulletin board or chat 
+													room. This information may include, for example, your name, email address, 
+													postal address, phone number, company name, job title, and information about 
+													your company including the number of employees, revenue size and the type of 
+													software and hardware the company owns or uses. Purchase order forms may also 
+													request credit card or other billing information. You can choose not to provide 
+													us with certain personal and company information, but then you may not be able 
+													to fully take advantage of the features of our Site and we may not be able to 
+													provide you with requested information about our products and services.
+													</li><li>
+														<b>Automatic Collection of Information</b>: Like many Web sites on the 
+														Internet, we automatically track certain information about you as you use our 
+														Site. This information may include, for example, your IP address, the URLs and 
+														Site pages you’ve visited, the number of times you visited each Site page, what 
+														downloads you made, how long you spent logged-on to particular sections of the 
+														Site and to the Site in general, and your browser type. In addition, we may 
+														employ the use of “cookies” in certain areas of our Site to allow us to provide 
+														information which is targeted to your interests and to make your online 
+														experience more convenient. A cookie is a small amount of data that is sent to 
+														your browser from a Web server and stored on your computer’s hard drive. Most 
+														cookies we may use will be “session cookies,” meaning that they will be 
+														automatically deleted at the end of a Site visit. You are always free to 
+														decline any cookies we use if your browser permits.</li>
+												</ul>
+											<p class="title1">
+											Who is Collecting Your Information?
+											</p><p class="con1">
+											When you provide information through the Site, the information is transmitted 
+											through the Internet and stored on servers owned and maintained by Bluebeam or 
+											its designated service providers which Bluebeam may from time to time engage to 
+											host and maintain the Site, facilitate processing or fulfillment of product and 
+											service orders made through use of the Site, or provide additional Site support 
+											or other services. You will be informed if any third party other than a 
+											Bluebeam service provider is involved in collecting information from you 
+											through use of the Site. In such situations, you can elect not to share the 
+											information requested.
+											</p><p class="con1">
+											Bluebeam affiliates and partners and other entities (such as software companies 
+											and other Web sites that publish online reviews and/or offer online discussion 
+											groups) that have links on the Site may also collect information about you when 
+											you visit their Web sites or otherwise communicate with them. Although we 
+											encourage such third parties to adopt and follow their own consumer privacy 
+											policies, we are not responsible for their collection and use of user 
+											information. The information practices of those Web sites linked to the Site 
+											are not covered by this Privacy Policy. You should refer to the privacy 
+											policies and statements of other Web sites or contact the respective Webmasters 
+											of those Web sites to obtain information regarding their information 
+											collection, use and disclosure policies.
+											</p><p class="title1">
+											With Whom Do We Share Your Information?
+											</p><p class="con1">
+												We are not in the business of collecting user information for sale to others. 
+												We will share the personal or company identifying information we collect from 
+												you only with your consent or under the following circumstances:
+												</p><ul class="con1">
+													<li>
+														<i>Service providers</i>. We may use other companies and individuals to 
+													perform supporting functions for the various products and services offered 
+													through our Site on our behalf. These service providers will not be permitted 
+													to use the information collected from you for any purpose other than performing 
+													the support functions for Bluebeam and/or offering additional services, 
+													promotions or other offers to you.
+													</li><li>
+														<i>Bluebeam affiliates and partners</i>. We work closely with our worldwide 
+													affiliates with whom we may share user information. In addition, we may share 
+													user information with Bluebeam partners and service providers.
+													</li><li>
+														<i>Protection of rights</i>. We will release user information if we believe 
+													that such action is appropriate to: (1) comply with legal process, (2) enforce 
+													the Terms of Use Agreement for the Site, or (3) protect the rights, property, 
+													or personal safety of Bluebeam, its employees, other Site users or others.
+													</li><li>
+														<i>Asset transfers</i>. We continue to develop our business and in doing so 
+														might choose to buy other businesses or assets. User information is generally 
+														one of the transferred assets acquired in such purchases. Also, if we should 
+														choose to sell some or all of our assets, user information, including the 
+														information collected from you through this Site, could be included in the 
+														transferred assets.</li>
+												</ul>
+											<p class="con1">
+											In all other circumstances, if we disclose any user information to a third 
+											party it will be in the form of aggregated statistical data that doesn't 
+											identify any user individually. This non-identifying information may include, 
+											for example, the purchasing patterns, trends, preferences and other collective 
+											characteristics of our users and serves to help us, our affiliates and others 
+											evaluate and tailor our communications, advertisements, products, services and 
+											general business practices.
+											</p><p class="title1">
+											Control of Your Information
+											</p><p class="con1">
+												You can correct and update the information you provide Bluebeam by contacting 
+												our Webmaster at <a href="mailto:support@bluebeam.com">support@bluebeam.com</a>. 
+												From time to time, Bluebeam may provide you through email, postal mail, 
+												telephone solicitations, and/or in-person sales calls information on Bluebeam 
+												or its various products or services. You can opt-out of receiving these types 
+												of communications by contacting our Webmaster at <a href="mailto:support@bluebeam.com">
+													support@bluebeam.com</a>
+											. Please be advised that once your information is disclosed to a Bluebeam 
+											affiliate, partner or service provider in accordance with this Privacy Policy, 
+											we do not provide a means of opting-out of any communications that affiliate, 
+											partner or service provider may send to you and we advise that you contact such 
+											affiliate, partner or service provider directly for more information on any 
+											available opt-out procedures.
+											</p><p class="title1">
+											Bulletin Boards and Chat Rooms
+											</p><p class="con1">
+											We may from time to time provide chat sessions and rooms, forums, message 
+											boards and/or bulletin boards for users to receive information about products 
+											and various topics. Please remember that any information disclosed in these 
+											areas may be viewed by other users of the Site. If you post on any of these 
+											areas, please use care not to disclose any personal or company identifying 
+											information. We are not responsible or liable for the uses that others may make 
+											of the information you post on any of these areas.
+											</p><p class="title1">
+											Security
+											</p><p class="con1">
+											We use technology designed to protect user information and transmissions made 
+											through our Site. The personal or company identifying information that you 
+											provide us is stored on servers, which are located in secured facilities with 
+											restricted access, and protected by protocols and procedures designed to ensure 
+											the security of such information. In addition, all Bluebeam personnel who have 
+											access to such information are trained in the maintenance and security of such 
+											information, and we limit access of such information by our employees to the 
+											information reasonably required in order to provide prompt, high quality 
+											service. However, no data transmission over the Internet can be guaranteed to 
+											be 100% secure. As a result, while we strive to protect user information, we 
+											cannot ensure or warrant the security of any information you transmit to us or 
+											from our Site and you engage in such transmissions at your own risk. Once we 
+											receive a transmission from you, we will attempt to ensure its security on our 
+											systems.
+											</p><p class="title1">
+											Children’s Privacy
+											</p><p class="con1">
+											Our Site is a general audience Web site and no portion of the Site is directed 
+											to children under the age of 13. We do not collect personal identifying 
+											information from any person we actually know is a child under the age of 13.
+											</p><p class="title1">
+											Summary
+											</p><p class="con1">
+												At Bluebeam, protecting your privacy is important to us. By accessing and using 
+												our Site, you consent to the collection, use and disclosure of information by 
+												Bluebeam as described in this Privacy Policy. Although this Privacy Policy is 
+												subject to change from time to time, we will notify you prior to any material 
+												change at least fifteen (15) days prior to implementation of the revised 
+												Privacy Policy. If you have any questions concerning this policy please send an 
+												email to the Bluebeam Webmaster at <a href="mailto:support@bluebeam.com">support@bluebeam.com</a>.
+											</p>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td background="../images/TabBottom600.jpg" height="45"><img src="../images/spacer.gif" height="45" width="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0" id="Table1">
+	<tbody><tr valign="center">
+		<td valign="top" class="con1">
+			<table cellspacing="0" cellpadding="0" width="100%" border="0" class="con1">
+				<tbody><tr>
+					<td width="10"></td>
+					<td>
+						<table cellpadding="0" cellspacing="0" border="0" width="100%">
+							<tbody><tr>
+								<td align="left">
+									<br>
+									<hr>
+									Copyright © 2005 Bluebeam Software, Inc.
+								</td>
+							</tr>
+							<tr>
+								<td align="left">
+									<a href="/web03/company/CompanyPrivacy.asp">Privacy Policy</a>&nbsp;|&nbsp;<a href="/web03/company/CompanyTermsOfUse.asp">Terms of Use</a>&nbsp;|&nbsp;<a href="/web03/company/contact.asp">Contact Us</a><!--&nbsp;|&nbsp;<a href="/web03/SiteMap.asp">Site Map</a>-->
+								</td>
+							</tr>
+						</tbody></table>
+						<br>
+						<br>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table></body></html>
