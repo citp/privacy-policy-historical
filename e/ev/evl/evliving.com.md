@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evliving.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173359id_/http%3A//www.evliving.com/about.php%3Faction%3Dfullnews%26showcomments%3D1%26id%3D133) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evliving.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211010453id_/http%3A//www.evliving.com/about.php%3Faction%3Dfullnews%26showcomments%3D1%26id%3D133) for the most accurate reproduction.*
 
 # East Valley Living - Your guide to the East Valley - About EVLiving.com, Community Partners, Advertising, Contributors and Forden Gorden Ventures, Inc.
 
