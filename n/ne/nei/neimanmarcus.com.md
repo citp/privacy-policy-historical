@@ -1,45 +1,28 @@
-> *The following text is extracted and transformed from the neimanmarcus.com privacy policy that was archived on 2005-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050520002413id_/http%3A//www.neimanmarcus.com/store/service/nmSecurity.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neimanmarcus.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211043052id_/http%3A//www.neimanmarcus.com/store/service/nmSecurity.jhtml) for the most accurate reproduction.*
 
 # Neiman Marcus Online
 
-| 
+**Security**   
+Personal information provided on the Web Site and online credit card transactions are transmitted through a secure server using Secure Socket Layering (SSL), encryption technology. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area. 
 
-How to Contact Us  
-  
-  
-  
-Phone   
-Call a customer service representative: 1.888.888.4757 E-mail   
-  
-Online Chat   
+You may purchase online merchandise by calling toll-free 1.888.888.4757 -- 24 hours a day, seven days a week. One of our customer service associates will gladly take your order. 
 
-
-  
-|  |  Security & privacy information **Secure ordering**   
-Your online credit card transactions are secure with NeimanMarcus.com. We use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures safe Internet transmission of your personal information. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area. 
-
-Making a credit card purchase is just as safe on our Web site as it is by telephone, but if you prefer the latter, you may purchase online merchandise by calling toll-free 1.888.888.4757 -- 24 hours a day, seven days a week. One of our customer service associates will gladly take your order. 
+We are committed to handling your personal information with high standards of information security. We take appropriate physical, electronic and administrative steps to maintain the security and accuracy of personally identifiable information we collect, including limiting the number of people who have physical access to our database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. Our website uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL encrypts ordering information such as your name, address and credit card number. Our customer service center and stores also operate over a private, secure network. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information. 
 
 **Privacy policy**   
-To help us achieve our goal of providing the highest quality products and services, we use information from our interactions with you and other customers, as well as from other parties. Because we respect your privacy, we have procedures to ensure that your personal information is handled in a safe, secure, and responsible manner. 
+To help us achieve our goal of providing the highest quality products and services, we use information from our interactions with you and other customers, as well as from other parties. Because we respect your privacy, we have implemented procedures to ensure that your personal information is handled in a safe, secure, and responsible manner. 
 
-We have posted this privacy policy to let you know what kind of information we collect, how it is handled, with whom it may be shared, what choices you have regarding our use of your information, and how you may access some of the information you provide to us. 
+We have posted this privacy policy in order to explain our information collection practices and the choices you have about the way information is collected and used. 
 
-As we continue to develop our Web site and take advantage of advances in technology, our privacy policy may change. Please refer to this page frequently for the most up-to-date information. 
+As we continue to develop our Web site and take advantage of advances in technology to improve the services we offer, this privacy policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. 
 
-If you have a Neiman Marcus credit card, a separate privacy policy describes collection, use, and protection of information about you and your account. To obtain a copy of our credit card privacy policy: 
-
-  * Click to [review NM Credit Card policy](https://web.archive.org/store/service/nmShoppingOnline.jhtml;jsessionid=GKW3UZQX4OQYGCQAAJTB5MYKAABGOH4X#nmccuse) online
-  * Call 1.800.685.6695
-  * Write:  
-Neiman Marcus  
-P.O. Box 720937  
-Dallas, TX 75372-0937 
-
-This Privacy Policy has been in effect as of 11/21/2001. 
+If you have a Neiman Marcus or Bergdorf Goodman credit card, click to review Neiman Marcus or Bergdorf Goodman Credit Card privacy statement online.   
+This Privacy Policy was last updated on August 3, 2005. 
 
 **The information we collect**   
-Whenever you shop with Neiman Marcus -- online, through our catalogs, or in our stores -- we obtain from you the information we need to complete your transaction. This may include your name, address, telephone number, driver's license number, birth date, and e-mail address. If you use a credit or debit card or pay by check, it will include your account number. 
+Generally, you may browse the Web Site without providing any personally identifiable information. However, we may ask you to provide personally identifiable information at various times and places on this Web Site. In some cases, if you choose not to provide us with the requested information, you may not be able to access all of this Web Site or participate in all of its features. 
+
+We receive and store any personally identifiable information you enter on the Web Site, whenever you shop with Neiman Marcus -- online, through our catalogs, or in our stores, or information you give us in any other way. For example, we may collect the following personally identifiable information: your name, address, telephone number, driver's license number, birth date, and e-mail address. If you use a credit or debit card or pay by check, we will also include your account number. 
 
 When you register with us as an online customer, we may ask for additional information, such as your favorite designers. 
 
@@ -47,7 +30,7 @@ If you use one of our services, or participate in one of our promotions or sweep
 
 From your purchases and other interactions with us, we obtain information concerning the specific products or services you purchase or use. 
 
-To improve our Web site, we collect non-personal information about how users navigate through the site. We may share this information with our affiliates or other outside companies. 
+When you visit this Web Site, our web server automatically collect anonymous information such as log data and IP addresses. We may use the automatically collected information for a number of purposes, such as improving our site design, product assortments, customer service, and special promotions. 
 
 **How we use the information we collect**   
 We use the information we collect for various purposes, including: 
@@ -61,44 +44,51 @@ We use the information we collect for various purposes, including:
   * to improve our merchandise selections, customer service, and overall shopping experience 
 
 **Others with whom we share your information**   
-The Neiman Marcus Group: We may share the information we collect with our corporate affiliates, including the Horchow catalog and Web site. 
+The Neiman Marcus Group: All of the above information that we collect, as described above, may be shared among all Neiman Marcus entities, including Horchow and Bergdorf Goodman. 
 
-Service providers: We provide information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to manage a database of customer information or assist us in distributing e-mails. 
+Service providers: We also may disclose information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to: (a) manage a database of customer information; (b) assist us in distributing e-mails; (c) assist us with direct marketing and data collection; (d) provide us storage and analysis; (d) provide fraud prevention; and (e) other services designed to assist us in maximizing our business potential. We require that these outside companies agree to keep confidential all information we share with them and to use the information only to perform their obligations in the agreements. 
 
-Other companies: We may provide your information to carefully selected outside companies when we believe their products or services may be of interest to you. 
+Other companies: We may provide information to carefully selected outside companies when we believe their products or services may be of interest to you. 
 
-Business Transitions: We may transfer or share a copy of personal information about you in the event that The Neiman Marcus Group, Neiman Marcus Direct, NeimanMarcus.com, or one of its properties, affiliates or subsidiaries, goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets. You will be notified via email or prominent notice on our web site prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of The Neiman Marcus Group, Neiman Marcus Direct or NeimanMarcus.com to transfer all or part of its business and/or assets to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. The Neiman Marcus Group, Neiman Marcus Direct, or NeimanMarcus.com specifically reserves the right to transfer or share a copy of personally identifiable information collected from its websites to the buyer of that portion of its business relating to that information. 
+Business Transitions: We may transfer or share a copy of personal information about you in the event that Neiman Marcus or one of its properties, affiliates or subsidiaries, goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets. You will be notified via email or prominent notice on our web site prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of Neiman Marcus to transfer all or part of its business and/or assets to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. Neiman Marcus specifically reserves the right to transfer or share a copy of personally identifiable information collected from its websites to the buyer of that portion of its business relating to that information. 
+
+Compliance with Law: We may provide access to information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights or to protect the rights, property or safety of visitors of this Web Site or the public. 
 
 **Your choices regarding use of the information we collect**   
-If you do not want us to share information about you with any company or organization outside The Neiman Marcus Group: 
+We provide you with a number of choices regarding our handling of your nonpublic personally identifiable information. 
 
-  * Call 1-800-NEIMANS (1.800.634.6267) 
-  * Write:  
-Neiman Marcus Direct  
-Marketing Management  
-P. O. Box 650589  
-Dallas, TX 75265-0589 
+Direct Mail or Telephone Marketing: If you shop at the Neiman Marcus or Bergdorf Goodman stores and wish to be removed from the list of customers that receive direct mail or telemarketing calls, please either: 
 
-Please note that many promotions and mailings are completed well in advance, so you may continue to receive some offers after you ask us to stop sharing your information. We appreciate your patience in giving us time to carry out your request. 
+• write to: Neiman Marcus Customer Relations at P.O. Box 650589, Dallas, Texas, 75265-0589 • or call toll-free at 1.888-888-4757 
+
+If you choose to write to us, please include your name, address and credit card account number (if you have one), and state one of the following:  
+• "NO MAIL OFFERS" (if you don't want to receive offers by mail);  
+• "NO PHONE OFFERS" (if you don't want to receive offers by phone); or  
+• "NO PHONE OR MAIL OFFERS" (if you don't want to receive either). 
+
+Because customer lists often are prepared well in advance of an offering (sometimes few months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. We appreciate your patience and understanding in giving us time to carry out your request. 
+
+Please note that we do not offer an opt out from sharing nonpublic personally identifiable information about you among Neiman Marcus Group entities. 
+
+**Your California Privacy Rights**   
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Neiman Marcus Customer Relations, P.O.Box 650589, Dallas, Texas 75265-0589. Please allow 30 days for a response. 
 
 **Cookies and how we use them**   
-A "cookie" is a small data file stored by your Web browser on your computer's hard drive. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. 
+Cookies: A "cookie" is a small data file stored by your Web browser on your computer's hard drive. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. 
 
-We use cookies to identify the pages you click on during your visit to our site and the name of the Web site you visited immediately before clicking to NeimanMarcus.com. We use this information to improve our site design, product assortments, customer service, and special promotions. 
+We use cookies to keep track of what you have in your shopping cart and to remember you when you return to the Web Site as well as to identify the pages you click on during your visit to our site and the name of the Web site you visited immediately before clicking to NeimanMarcus.com. We use this information to improve our site design, product assortments, customer service, and special promotions. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. 
 
 We may contract with third parties who may use cookies and collect information on our behalf or provide services such as credit card processing, shipping, promotional services or data management. We call them our Customer Care Partners. These third parties are prohibited by our contract with them from sharing that information with anyone other than us or our other Customer Care Partners. However, we respect your right to choose whether to be included in such services. If you would like to opt out of these services, please click here. 
 
 **Children's privacy**   
-The Children's Online Privacy Protection Act took effect on April 21, 2000. It imposes certain requirements on Web sites directed at children under 13 that collect information on those children, and on Web sites that knowingly collect information on children under 13. 
+Protecting children's privacy is important to us. Our Web Site is a general audience site. We do not collect or maintain information from those we actually know are under 13, and no part of our Web Site is targeted to attract anyone under 13. We also do not send email correspondence to anyone who tells us that they are under the age of 13 without their parent's consent. Our online sweepstakes are restricted to entrants who are at least 18 years old. 
 
-We do not knowingly collect any personal information from children under the age of 13 on our Web site, and our online sweepstakes are restricted to entrants who are at least 18 years old. 
-
-No one under the age of 15 should submit any personal information to this or any other Web site without the consent of a parent or guardian. 
+Children under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web. 
 
 **Links to other sites**   
-While visiting NeimanMarcus.com, you may link to Web sites operated by our business partners or other third parties. This does not mean that we endorse these Web sites. We do not make any representations or warranties about any Web site you may access through this Web site. They are independent from us, and we have no control over, or responsibility for, their information or activities. You need to make your own independent decisions regarding your interactions or communications with any other Web site. 
+While visiting NeimanMarcus.com, you may link to Web sites operated by our business partners or other third parties. This does not mean that we endorse these Web sites. We do not make any representations or warranties about any Web site you may access through this Web site. They are independent from us, and we have no control over, or responsibility for, their information or activities. 
 
-If you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the Neiman Marcus privacy policy. We encourage you to read that policy before submitting any personal information. 
+In addition, our privacy practices may differ from those of these other sites. If you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the Neiman Marcus privacy policy. Make sure you understand any Web site's privacy policies before providing personal information. 
 
 **Online account registration**   
 To make online shopping faster and easier, you may register with NeimanMarcus.com. As a registered customer, you only have to enter your shipping addresses and billing information once; they will be securely stored with us for your future use. Using your name and a password of your choice, you may access your account online at any time to add, delete, or change information. 
@@ -106,9 +96,10 @@ To make online shopping faster and easier, you may register with NeimanMarcus.co
 If you are using a public computer, we strongly encourage you to LOG OUT at the conclusion of your session. Your information will still be stored with us but it will not be accessible to anyone else from that computer. 
 
 **E-mails**   
-You will receive promotional e-mails from us only if you have asked to receive them. Each time you receive an e-mail from Neiman Marcus, you will be given the opportunity to "opt-out" or stop receiving them. 
+You will receive promotional e-mails from us only if you have asked to receive them. If you do not want to receive email from Neiman Marcus or its affiliates you can click on the unsubscribe link and hit send at the bottom of any email communication sent by us. Please allow us 3 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request. 
 
-If you choose to "opt-out," we will stop sending you e-mails. Please note, however, that some e-mail promotions are prepared well in advance, so you may continue to receive offers after you have chosen to "opt-out." We appreciate your patience in giving us time to carry out your request. 
+**Acceptance**   
+By using this Web Site, you accept the policies set forth in this Privacy Policy. 
 
 **Any questions?**   
 We'll be happy to provide additional information or answer any questions. Please: 
@@ -119,18 +110,13 @@ Customer Relations
 P.O. Box 650589  
 Dallas, TX 75265-0589 
 
-  
-Mac user advisory Macintosh users must have Internet Explorer version 5.0 or greater to place an order at NeimanMarcus.com. Earlier versions of Internet Explorer prevent Mac users from viewing secure pages in the checkout process. NeimanMarcus.com cannot remedy this situation without compromising the high level of security we provide for online transactions. 
+
+
+Macintosh users must have Internet Explorer version 5.0 or greater to place an order at NeimanMarcus.com. Earlier versions of Internet Explorer prevent Mac users from viewing secure pages in the checkout process. NeimanMarcus.com cannot remedy this situation without compromising the high level of security we provide for online transactions. 
 
 To download the latest version of Internet Explorer at no charge, click here.
 
-Warranty informationSome items on our Web site have a manufacturer's warranty; this is noted in the product description. To obtain a written warranty for any of these items, send a specific written request to: 
-
-    Neiman Marcus
-    P.O. Box 650589
-    Dallas, TX 75265-0589
-  
-Conditions of use, notices and disclaimers When you use this Web site, you are automatically agreeing that both your access to the site and your use of it are: 
+When you use this Web site, you are automatically agreeing that both your access to the site and your use of it are: 
 
   * Subject to the terms and conditions in this legal notice, which may change at any time without notice. 
   * Subject to all applicable laws. 
@@ -169,5 +155,3 @@ Any dispute relating in any way to your visit to our Web site or to products pur
 
 **Protecting your information**   
 As part of our ongoing commitment to ensure that your shopping experience with NeimanMarcus.com is protected, NeimanMarcus.com will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law. 
-
-| 
