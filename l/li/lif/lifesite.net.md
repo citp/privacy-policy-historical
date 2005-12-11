@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesite.net privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525084036id_/http%3A//www.lifesite.net/aboutlifesite/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesite.net privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211212110id_/http%3A//www.lifesite.net/aboutlifesite/privacy.html) for the most accurate reproduction.*
 
 # LifeSite - Your Life, Family and Culture Outpost
 
@@ -46,64 +46,70 @@ If you have any additional questions or concerns about our privacy policy, pleas
 ### Breaking News
 
 Last Updated  
-2005-05-24 08:18:05 ET
+2005-12-10 09:55:20 ET
 
-[AFA ends Disney boycott ](http://www.afa.net/disney/default.asp)
+[Peggy Noonan - What does it mean that your first act on entering a country is breaking its laws? ](http://www.opinionjournal.com/columnists/pnoonan/?id=110007648)
 
-[Group Says, 'You Can't be Catholic And be Pro-Abortion' ](http://www.family.org/cforum/fnif/news/a0036631.cfm)
+[UK police warn woman author over comments she did not believe homosexuals should be allowed to adopt ](http://news.telegraph.co.uk/news/main.jhtml?xml=/news/2005/12/10/ngay10.xml)
 
-[Concerned Mass. Parents Mobilizing to Battle Homosexual Agenda in Schools ](http://headlines.agapepress.org/archive/5/afa/242005d.asp)
+[Christmas-prayer rebuke ignites community uproar - Supervisor who denounced mention of Jesus forced to apologize ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=47846)
 
-[Shocking News: U.S. Court of Appeals Upholds the Law ](http://www.cwfa.org/articles/8211/LEGAL/freedom/index.htm)
+['Evil' abortion marketing exposed on MSNBC ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=47844)
 
-[What the ‘Average Joe’ Can Do About Porn…and Why ](http://www.cwfa.org/articles/8210/LEGAL/pornography/index.htm)
+[Hear Him Roar! I Did! - A Review of The Lion, the Witch, and the Wardrobe ](http://headlines.agapepress.org/archive/12/afa/92005a.asp)
 
-[Nuclear Option May Still Be Invoked, Frist Says ](http://www.cnsnews.com//ViewPolitics.asp?Page=\\Politics\\archive\\200505\\POL20050524b.html)
+[Hollywood Revival? Christians keep Hollywood profitable. ](http://www.ncregister.com/articulo2.php?artkod=MTU0)
 
-[Senate Deal Tells Bush to Consult Before Nominating ](http://www.cnsnews.com//ViewNation.asp?Page=\\Nation\\archive\\200505\\NAT20050524b.html)
+['Merry Christmas' Wristbands Find Faithful Audience ](http://www.newsmax.com/archives/ic/2005/12/9/124303.shtml)
 
-[Filibuster agreement: A Standard that Must Be Followed ](http://www.frc.org/get.cfm?i=PR05E09)
+[In a mid-season turnabout, Target stores have pledged to re-introduce Christmas themes into marketing efforts, ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=47838)
 
-[Child Population Dwindles in San Francisco ](http://news.yahoo.com/s/ap/20050524/ap_on_re_us/disappearing_kids_1)
+[CWA Mobilizes Support for Alito ](http://www.cwalac.org/article_289.shtml)
 
-[Pennsylvania Supreme Court Considering Case on Sperm Donors' Responsibility to Future Offspring ](http://www.post-gazette.com/pg/05140/507736.stm)
+[Congressional report calls for investigation of Maurice Strong's role in Oil-for-Food scandal ](http://www.canadafreepress.com/2005/cover120905.htm)
 
-[Radio Shock Jock Holds Abortion 'Contest' ](http://www.catholic.org/featured/headline.php?ID=2181)
+[Belinda: Come clean on the gag law ](http://morefreedom.org/cgi-bin/news.cgi?rm=display&articleID=1134134922&search=&category=1&order=&page=1)
 
-[Investigation into case of abandoned Toronto newborn stalled by holiday ](http://story.news.yahoo.com/s/cpress/20050523/ca_pr_on_na/tto_found_baby)
+[Washington furious over Martin's climate change comments ](http://www.cbc.ca/story/canadavotes2006/national/2005/12/09/katrina-global-warming-bush-martin.html)
 
-[Governor Bush was in daily contact with lawmakers over Schiavo, e-mails show ](http://www.palmbeachpost.com/state/content/state/epaper/2005/05/24/a9a_schiavo_0524.html)
+[AP’s Report on its Own Political Corruption Poll Focuses Problem on GOP ](http://newsbusters.org/node/3145)
 
-[Anti-Christian Bigot Made Department Head at Prestigious Brooklyn College ](http://www.nydailynews.com/front/story/312245p-266952c.html)
+[Narnia & Its Enemies - Sexist, racist, intolerant Lewis? ](http://www.nationalreview.com/seipp/seipp200512090859.asp)
 
-[Conservative Fury Greets 'Centrist Deal' on Filibusters ](http://www.cnsnews.com/ViewNation.asp?Page=/Nation/archive/200505/NAT20050524a.html)
+[Who’s Afraid of C. S. Lewis? - Narnia critics should relax. ](http://www.nationalreview.com/lowry/lowry200512090858.asp)
 
-[Worse than Belinda ](http://www.canoe.ca/NewsStand/Columnists/Calgary/Ezra_Levant/2005/05/23/1052244.html)
+[Canada has culture of violence surrounding its premiere sport - hockey has become national embarrassment ](http://www.canada.com/ottawacitizen/news/editorials/story.html?id=bdaf73f3-e7ff-4004-a313-98a4552473ad)
 
-[Vatican: No plans for Investigation of Legionaries of Christ founder ](http://www.myrtlebeachonline.com/mld/myrtlebeachonline/news/world/11717549.htm)
+[Specter: Tough on Alito but No Filibuster ](http://www.newsmax.com/archives/ic/2005/12/8/154409.shtml)
 
-[Annan out, Bill Clinton in at U.N.? ](http://www.newsmax.com/archives/ic/2005/5/23/134605.shtml)
+[Planned Parenthood is calling South Dakota residents in an effort to pressure Senator Tim Johnson (D-SD) to vote against the nomination of Judge Samuel A. Alito. ](http://www.earnedmedia.org/fidelis1208.htm)
 
-[Pope may visit Canada in 2008 ](http://www.canada.com/national/nationalpost/news/story.html?id=11f843dc-2c86-4fc1-a028-79b413d5980f)
+[Republicans Urge Mel Gibson to Replace Arnold ](http://www.humaneventsonline.com/article.php?print=yes&id=10742)
 
-[Oregon Senate Approves Bill That Would Allow Abortion Causing Morning After Pill To Be Sold Without Doctor's Prescription ](http://www.gazettetimes.com/articles/2005/05/18/news/oregon/wedsta03.txt)
+[Don't you miss Chretien?? He could always be relied upon for comic relief... (requires Realplayer) ](http://www.airfarce.com/video/031114ch.ram)
 
-[California Requiring Abortion Parental Notification on Next Ballot ](http://www.sacbee.com/content/politics/story/12905960p-13754473c.html)
+[The Real Saint Nick - The man behind the legend should be remembered for much more than gifts for children ](http://www.cwfa.org/articles/9635/CWA/misc/index.htm)
 
-[Texas House Approves Bill Requiring Parental Consent, Restricting Access to Third-Trimester Abortion ](http://www.chron.com/cs/CDA/ssistory.mpl/metropolitan/3184969)
+[Pro-Family Pressure Prompts Retailers to Reconsider PC 'Holiday' Policies ](http://headlines.agapepress.org/archive/12/72005b.asp)
 
-[Survey finds almost two-thirds of women have had a one-night stand, but nearly all of them regret it ](http://news.scotsman.com/uk.cfm?id=536422005)
+[Anti-Christian Hostility Driving 'War on Christmas,' Attorney Says ](http://headlines.agapepress.org/archive/12/72005e.asp)
 
-[No Repercussions For St Paul-Minneapolis Parish That Allowed Homosexual Activists Communion ](http://www.365gay.com/newscon05/05/051705minnRC.htm)
+[Tree in the Purdue Memorial Union's Great Hall is once again named in honor of Christmas. ](http://www.purdueexponent.org/index.php/module/Issue/action/Article/article_id/2201)
 
-[Maltese population strongly agrees that abortion is merely murdering the innocent ](http://www.di-ve.com/dive/portal/portal.jhtml?id=183268&pid=1)
+[In Light of the Lionization of John Lennon ](http://www.bpnews.net/bpnews.asp?ID=22231)
 
-[Kansas woman severely brain-injured after an accident in 2002 has begun speaking - to the amazement of her doctor ](http://wnd.com/news/article.asp?ARTICLE_ID=44244)
+[Plan exempts Catholic hospitals from offering morning-after pills ](http://www.catholicnewsagency.com/new.php?n=5600)
 
-[Michigan Senate Approves Bills That Would Prohibit Public Funding for Embryonic Stem Cell Research, Human Cloning ](http://www.freep.com/news/statewire/sw115710_20050512.htm)
+[Israelis to be allowed euthanasia by machine ](http://news.telegraph.co.uk/news/main.jhtml?xml=/news/2005/12/08/weuth08.xml)
 
-[Oklahoma House Approves Bill That Would Require Abortion Informed Consent, Parental Notification ](http://newsok.com/article/1498744/?template=news/main)
+[Dutch 'suicide consultant' jailed ](http://news.bbc.co.uk/2/hi/europe/4509582.stm)
 
-[Oregon House Approves Bill Establishing Criminal Charges for Harming Fetus During Attack on Pregnant Woman ](http://www.katu.com/news/story.asp?ID=77111)
+[Catholics and 'no-fault' divorce ](http://www.renewamerica.us/columns/abbott/051207)
 
-[Michigan Boy Charged With Felony for Helping Girlfriend End Pregnancy Cannot Use Girl's Consent as Defense ](http://www.freep.com/news/locmac/bat13e_20050513.htm)
+[Poll: Political Corruption Seen as Widespread in US ](http://www.newsmax.com/archives/ic/2005/12/8/213701.shtml)
+
+[Germany backs bigger brothels to fight World Cup sex explosion ](http://news.independent.co.uk/europe/article331954.ece)
+
+[Reviewers Call 'Brokeback Mountain' Twisted - Gay love story carries a high "ick" factor ](http://www.family.org/cforum/news/a0038874.cfm)
+
+[Love homosexuals as Jesus would, ex-gays urge at conference ](http://www.bpnews.net/bpnews.asp?ID=22229)
