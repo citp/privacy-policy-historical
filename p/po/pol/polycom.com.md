@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404154422id_/http%3A//www.polycom.com/footer/1%2C1428%2Cpw-133%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211201440id_/http%3A//polycom.com/footer/1%2C1428%2Cpw-133%2C00.html) for the most accurate reproduction.*
 
 # footer: Polycom Worldwide
 
