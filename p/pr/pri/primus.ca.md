@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primus.ca privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604140103id_/http%3A//primustel.ca/en/legal/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primus.ca privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211205637id_/http%3A//www.primus.ca/en/legal/privacypolicy.htm) for the most accurate reproduction.*
 
 # Primus Telecommunicatins Canada
 
@@ -46,7 +46,7 @@ Primus Telecommunications Canada Inc.
 
             5343 Dundas Street West Toronto, ON, M9B 6K5
 
-Facsimile:        (416) 207-7754
+Facsimile:        1-800-340-4919
 
 1.3               Primus Canada is responsible for personal information in its possession or custody, including information that has been transferred to a third party for processing.  Primus Canada will use contractual or other means to provide a comparable level of protection while the information is being processed by a third party.
 
@@ -82,7 +82,7 @@ Primus Canada will identify the purposes for which personal information is colle
 
 2.4               When personal information that has been collected is to be used for a purpose not previously identified, the new purpose will be identified prior to use.  Unless the new purpose is required by law, Primus Canada will obtain the consent of the individual before information is used for that new purpose.
 
-_Occasionally, Primus Canada will communicate to you special bonus and new product offers that we think may be of value to you. If you wish to opt-out of receiving targeted communications from Primus Canada in electronic, printed or verbal format (other than information included with your monthly bills), simply inform us in writing at Privacy Office, Primus Canada 5343 Dundas St. West, Suite 400, Toronto ON, M9B 6K5 or  by _[clicking here](http://www.primustel.ca/optout)_. _
+_Occasionally, Primus Canada will communicate to you special bonus and new product offers that we think may be of value to you. If you wish to opt-out of receiving targeted communications from Primus Canada in electronic, printed or verbal format (other than information included with your monthly bills), simply inform us in writing at Primus Canada 5343 Dundas St. West, Suite 400, Toronto ON, M9B 6K5 or  by _[clicking here](http://www.primustel.ca/optout)_. _
 
 #### PRINCIPLE #3 – CONSENT
 
