@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartraveller.gov.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614070420id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartraveller.gov.au privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211010201id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - The Department - Australian Department of Foreign Affairs and Trade
 
