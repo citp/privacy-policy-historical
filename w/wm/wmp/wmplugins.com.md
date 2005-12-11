@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the wmplugins.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401215037id_/http%3A//www.wmplugins.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmplugins.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211012437id_/http%3A//www.wmplugins.com/Privacy.aspx) for the most accurate reproduction.*
 
 # wmplugins.com - Privacy Statement
 
-_This document was last updated December 18, 2002._
+_This document was last updated September 24, 2004._
 
-Microsoft is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we need information to provide services that you request. This privacy statement explains what data we collect and how we use that data.
-
-This statement applies to WMPlugins.com only; it does not apply to other online or offline Microsoft sites, products, or services. Please read the complete WMPlugins.com privacy statement.
+Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the WMPlugins.com site only; it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
 
 ## Collection of your Personal Information
 
@@ -22,37 +20,33 @@ WMPlugins.com uses .NET Passport as its registration and authentication service.
 
 ## Use of your Personal Information
 
-We use your personal information for the following purposes:
+The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized.
 
-  * To ensure our site is relevant to your needs.
-  * To deliver services, such as newsletters, events, training, or software that you request or purchase.
-  * To help us create and publish content most relevant to you.
-  * To alert you to product upgrades, special offers, updated information, and other new services from Microsoft, if you so request.
-  * To allow you access to limited-entry areas of our site as appropriate.
+In support of these uses, Microsoft may use personal information to provide you with more effective customer service, to improve the Site and any related Microsoft products or services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preference or interests. 
 
+We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, with your permission, we may send you information about other Microsoft products and services, and/or share information with Microsoft partners so they may send you information about their products and services.
 
+We may also use the information we collect to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preference or interests.
 
-We will merge site-visitation data with anonymous demographic information for research purposes, and we may use this information in aggregate to provide more relevant content. In some limited-entry sections of WMPlugins.com, with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won’t merge your personal information with site-visitation data.
+Microsoft occasionally hires other companies to provide limited services on our behalf, such as packaging, mailing and delivering prizes, answering customer questions about products and services, sending postal mail, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.
 
-We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+Microsoft may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Microsoft or the Site; (b) protect and defend the rights or property of Microsoft and our family of Web sites; or (c) act in urgent circumstances to protect the personal safety of Microsoft employees or agents, users of Microsoft products or services, or members of the public.
 
-Microsoft may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Microsoft or the site; (b) protect and defend the rights or property of Microsoft and its family of Web sites, or (c) act in urgent circumstances to protect the personal safety of Microsoft employees, users of Microsoft products or services, or members of the public.
+Personal information collected on the Site may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
-Your information may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+## Control of your Personal Information
 
-Control of your Personal Information 
+Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission.
 
-When you register, or otherwise give us personal information, WMPlugins.com will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
-
-WMPlugins.com may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.
+Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft products or services.
 
 ## Access to your Personal Information
 
-We will provide you with the means to ensure that your personal information is correct and current. This feature is under development and will be available within the next month.
+You can review and edit the personal information and contact preferences you provided at this Site by updating your personal profile once you are logged into the site.
 
 ## Security of your Personal Information
 
-WMPlugins.com is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities.
+Microsoft is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
 ## Protection of Children's Personal Information
 
@@ -72,21 +66,19 @@ If you choose to not have your browser accept cookies from the WMPlugins.com Web
 
 Questions about cookies? [Read more](http://www.microsoft.com/info/cookies.htm).
 
-## Enforcement of this Privacy Statement
+## Links to Other Web Sites
 
-If you have questions regarding this statement, you should first contact WMPlugins.com using [this form](https://web.archive.org/web/20040401215037id_/http%3A//www.wmplugins.com/Contacts.aspx).
-
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at their Web site, <http://www.truste.org/users/users_watchdog.html>. TRUSTe will serve as a liaison with WMPlugins.com to resolve your concerns.
+The Site may contain links to other Web sites. Please be aware that this privacy statement applies solely to the information collected on the Site. We are not responsible for the privacy practices or the content of other Web sites. We encourage you to be aware when you are leaving this Site and read the privacy statements of each and every Web site that you visit before providing any personal information.
 
 ## Changes to this Privacy Statement
 
-WMPlugins.com will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, WMPlugins.com will notify you by placing prominent notice on the Web site.
+We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
 ## Contact Information
 
-Microsoft welcomes your comments regarding this privacy statement; please contact us via [this form](https://web.archive.org/web/20040401215037id_/http%3A//www.wmplugins.com/Contacts.aspx) or by writing to:
+Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us via [this form](https://web.archive.org/web/20051211012437id_/http%3A//www.wmplugins.com/Contacts.aspx) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 WMPlugins.com Privacy  
 Microsoft Corporation  
 One Microsoft Way  
-Redmond, Washington 98052
+Redmond, Washington 98052 
