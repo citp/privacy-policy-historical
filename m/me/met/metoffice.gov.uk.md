@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metoffice.gov.uk privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305103405id_/http%3A//www.metoffice.gov.uk/corporate/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metoffice.gov.uk privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211234134id_/http%3A//www.metoffice.gov.uk/corporate/legal/privacy.html) for the most accurate reproduction.*
 
 # Met Office: Privacy policy
 
@@ -62,8 +62,6 @@ Back to top
    
    
 Like many other web sites, we use 'cookies' on our site. A cookie is a small piece of data that your internet browser stores on your hard drive and is used when you visit the site to tailor your viewing and provide you with customised information. Only the information that you provide, or your preferences while visiting a web site, can be stored in a cookie. For example, the site cannot determine personal details, such as your e-mail address, unless you choose to submit them. 
-
-Our site also uses ad servers (such as DoubleClick) to serve the advertisements that you see on our web pages. Our advertising agent, AdLINK, uses cookies to help target advertisements to you. You can read more about AdLINK's use of cookies, and the information-gathering practices and opt-out procedures on [AdLINK's web site](http://www.adlink.net/company/privacy.php).
 
 Managing cookies  
 For pages which require registration, cookies need to be enabled. You can set your browser to either accept cookies or to prompt to accept cookies so that you can access these pages. The browser you are using should have specific instructions on how to control the acceptance of cookies and also how to delete unwanted cookies from your hard drive.
