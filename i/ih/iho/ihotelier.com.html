@@ -1,0 +1,677 @@
+<!--The following is the downloaded HTML source of the ihotelier.com privacy policy that was archived on 2005-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051211013407id_/http%3A//www.travelclick.net/dmp/public/privacy.cfm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><script language="JavaScript" type="TEXT/JAVASCRIPT">
+<!--
+browserName = navigator.appName;           
+browserVer = parseInt(navigator.appVersion);
+ 
+if ((browserName == "Netscape" && browserVer >= 3) || (browserName == "Microsoft Internet Explorer" && browserVer >= 4)) version = "good";
+else version = "bad";
+
+function popUp(url,width,height,toolbar) {
+	if (arguments.length >= 5) {
+		wndName = arguments[4];
+	} else {
+		wndName = "PopUp";
+	}
+	windOpt = "toolbar=" + toolbar + ",";
+	windOpt += "directories=0,scrollbars=1,status=1,resizable=1,"
+	windOpt += "width=" + width + ",height=" + height;
+	newWind = window.open(url, wndName, windOpt);
+	newWind.focus();
+}
+
+// this function can handle up to three arguments:  template, qry_str, field_label - in that order.  qry_str and/or field_label can be the empty string.  See /help/index.cfm for additional documentation.
+function getHelp(template) {
+	//if no arguments passed...as is the case in header_supplier.html...just figure it out!
+	var field_label = "";
+	var qry_str = "";
+	if (getHelp.arguments.length == 0) {
+		template = window.location.pathname;
+		qry_str = window.location.search;
+		qry_str = qry_str.substr(1,qry_str.length-1);
+	}
+	if (getHelp.arguments.length >= 2) {
+		var qry_str = getHelp.arguments[1];
+		if (getHelp.arguments.length == 3) {
+			var field_label = getHelp.arguments[2];
+		}
+	}
+	url = "/dmp/help/index.cfm?template=" + template + "&field_label=" + field_label + "&qry_str=" + qry_str;
+	helpWind = window.open(url, "Help", "toolbar=0,directories=0,scrollbars=1,status=1,width=400,height=500");
+	helpWind.focus();
+}
+
+
+function pageInit() {
+	wndProgress = null;
+	
+	
+	return true;
+}
+
+function defaultFocus() {
+	if (version == "good") {
+		if (document.forms.length > 0) {
+			var i=0;
+			while (document.forms[0].elements[i] != 'undefined' && 
+					document.forms[0].elements[i].type == 'hidden') {
+				i++;
+			}
+			if (document.forms[0].elements[i] != 'undefined') {
+				document.forms[0].elements[i].focus();
+			}
+		}
+	}
+}
+
+
+
+
+
+function notYet(str) {
+	if (str == "") {
+		str = "Sorry! This feature is not yet available.";
+	}
+	alert(str);
+	return false;
+}
+
+
+//function for counting chars in string, and displaying error if max exceeded
+//str is string to test, limit is max num chars, and fieldName is user-friendly name
+function checkLen(str, limit, fieldName) {
+	if (str.length > limit) {
+		diff = str.length - limit;
+		alert("Your entry in the " + fieldName + " field exceeds the limit of " + limit + " characters by " + diff + " characters.  Please reduce the amount of text in the box.");
+		return false;
+	}
+	return true;
+}
+
+//enable a field
+//reqImg is the name of a required "dot" image that should be populated with red-dot.gif, if any
+function enableField(formName, fieldName, reqImg) {
+	setFieldState(true, formName, fieldName, reqImg, false);
+}
+
+//disable a field
+//bReadOnly, if true, means use READONLY attribute instead of DISABLED
+function disableField(formName, fieldName, reqImg, bReadOnly) {
+	setFieldState(false, formName, fieldName, reqImg, bReadOnly);
+}
+
+//enableField() and disableField() really call this function....so the logic is defined once
+function setFieldState(bEnable, formName, fieldName, reqImg, bReadOnly) {
+	frm = eval("document." + formName);
+	obj = eval("frm." + fieldName);
+	//alert("browser: " + browserName + " ver:" + browserVer); 
+	if ((browserName == "Microsoft Internet Explorer"  && browserVer >= 4) || (browserName == "Netscape" && browserVer >= 5)) {
+		//alert("setting attributes for " + fieldName + ", which is of type " + obj.type);
+		//obj.type undefined means radio buttons
+		if (!obj.type) {
+		//if (obj.length) {
+			for (i=0; i<obj.length; i++) {
+				if (bEnable) {
+					obj[i].disabled = false; 
+					obj[i].readOnly = false; 
+				} else {
+					if (bReadOnly) {
+						obj[i].readOnly = true; 
+					} else {
+						obj[i].disabled = true; 
+					}
+				}
+			}
+		} else {
+			if (bEnable) {
+				obj.disabled = false; 
+				obj.readOnly = false; 
+				obj.style.backgroundColor = "white";
+			} else {
+				obj.style.backgroundColor = "#CCCCCC";
+				if (bReadOnly) {
+					obj.readOnly = true; 
+				} else {
+					obj.disabled = true; 
+				}
+			}
+		}
+	}
+	if (reqImg.length > 0) {
+		if (bEnable) {
+			document.images[reqImg].src = "/dmp/images/red-dot.gif";
+			document.images[reqImg].alt = "Required";
+		} else {
+			document.images[reqImg].src = "/dmp/images/dot.gif";
+			document.images[reqImg].alt = "";
+		}
+	}
+}
+
+function disablePage(formName){
+	frm = eval("document." + formName);
+	for(x=0;x<frm.elements.length;x++) {
+		//don't handle hidden fields or buttons.
+		if (frm.elements[x].type != "button" && frm.elements[x].type != "hidden") {
+			field_name = frm.elements[x].name;
+			obj = eval("frm." + field_name);
+			//set a readonly based on type for maximum readability.
+			// input text
+			//radio buttons and nonunique checkboxes
+			if (!obj.type) {
+			//if (obj.length) {
+				for (i=0; i<obj.length; i++) {
+					obj[i].disabled = true; 
+				}
+			} else{
+				//text and text areas
+				if (obj.type.substr(0,4) == "text"){
+				// dealing with a "borderless" text input?  Then don't change the background.
+					if (obj.style.borderColor != "white"){			
+					  	obj.style.backgroundColor = "#CCCCCC";
+					}
+					obj.disabled = false; 
+					obj.readOnly = true; 
+				}
+				//selects
+				if (obj.type.substr(0,3) == "sel"){
+				// dealing with a "borderless" text input?  Then don't change the background.
+					if (obj.style.borderColor != "white"){			
+						obj.style.backgroundColor = "#CCCCCC";
+					}
+					//in IE the user cannot used the slider in the multiple select to see what has been selected so place multiple selects into a readonly mode.
+					if (obj.type == "select-one"){
+					obj.disabled = true;
+					}else{
+					obj.readonly = true;
+					}
+				}
+				//uniquely named checkboxes.
+				if (obj.type.substr(0,4) == "chec"){
+					obj.disabled = true; 
+				}
+			}
+		}
+	}
+}
+
+
+//the id passed should be assigned to a table, tr, or div
+function showContent(id) {
+	//alert(browserName);
+	//Netscape 6+ and IE 5+ - preferred method
+	//return;
+	if (document.getElementById) {
+		
+		//if (browserName=="Netscape") document.getElementById(id).style.visibility = "visible";
+		//else document.getElementById(id).style.display = "inline";
+		if (document.getElementById(id).style.display == "none") document.getElementById(id).style.display = "";
+	//IE 4
+	} else if (document.all) {
+		document.all[id].style.display = "inline";
+	//Netscape 4
+	} else if (document.layers) {
+		document.layers[id].visibility = "show";
+	}
+}
+
+function hideContent(id) {
+	//Netscape 6+ and IE 5+ - preferred method
+	//return;
+	if (document.getElementById) {
+		//alert("getElementById enabled");
+		//if (browserName=="Netscape") document.getElementById(id).style.visibility = "hidden";
+		document.getElementById(id).style.display = "none";
+	//IE 4
+	} else if (document.all) {
+		document.all[id].style.display = "none";
+	//Netscape 4
+	} else if (document.layers) {
+		document.layers[id].visibility = "hide";
+	}
+}
+
+
+
+
+cf_time = 0;
+num_keepalives = 0;
+
+var imgKeepAlive = new Image();
+imgKeepAlive.src = "/dmp/images/dot.gif";
+function setTimerCFSession() {
+	strCurrentDate = "2005/12/10 19:30:18";
+	strEndDate = "2005/12/11 19:30:18";
+	dtEndDate = Date.parse(strEndDate);
+	dtCurrentDate = Date.parse(strCurrentDate);
+	cf_time = (dtEndDate - dtCurrentDate)/1000;
+	setTimeout( "CountDownCFSession()", 1000 );
+}
+function CountDownCFSession() {
+	lead_secs = 60;
+	if (cf_time>lead_secs)	{
+		//if (cf_time%60==0) {
+			//alert(cf_time.toString() + " seconds remaining in session");
+		//}
+		cf_time = cf_time - 1;
+		//nMins = Math.floor(cf_time/60)%60;
+		//nSecs = Math.floor(cf_time)%60;
+		setTimeout( "CountDownCFSession()", 1000 );
+	} else {
+		//if (confirm("Your user session will expire in " + lead_secs.toString() + " seconds.  Do you need more time?")) {
+		
+		
+		
+			num_keepalives++;
+			var date_seed = new Date();
+			date_seed = date_seed.valueOf();
+			imgKeepAlive.src = "/dmp/includes/keepalive.cfm?num_keepalives=" + num_keepalives.toString() + "&date_seed=" + escape(date_seed);
+			
+			setTimerCFSession();
+			//alert("KeepAlive " + num_keepalives.toString());
+		
+		//} else {
+			//document.location.href="/dmp/logon.cfm?msg=Sorry%2C%20but%20due%20to%20inactivity%2C%20your%20session%20was%20ended%20and%20you%20have%20been%20logged%20out%2E%20%20Please%20log%20in%20again%2E";
+		//}
+	}
+}
+
+
+
+
+
+//another GIF-as-pipe trick....call this JS function to set any client/session/application/server var without navigating away from page
+//see setvar_img.cfm for param descriptions
+function setVar(scope,varname,val,action) {
+	var imgSetVar = new Image();
+	imgSetVar.src = "";
+	cfsrc = "/dmp/includes/setvar_img.cfm";
+	cfsrc += "?scope=" + scope;
+	cfsrc += "&var=" + varname;
+	cfsrc += "&val=" + val;
+	cfsrc += "&action=" + action;
+	imgSetVar.src = cfsrc;
+}
+
+function openProgBar() {
+	if (browserName == "Microsoft Internet Explorer" && browserVer >= 4) {
+		modalAttr = "dialogWidth=350px;dialogHeight=30px;center=yes;help=no;scroll=no;status=no;edge=sunken";
+		wndProgress = window.showModelessDialog("/dmp/includes/progress.cfm", "", modalAttr);
+	}
+}
+
+//close progress bar window
+//this is called in onUnLoad in header.cfm
+function closeProgBar() {
+	wndProgress = null;
+}
+
+
+//-->
+</script>
+
+
+
+
+
+
+
+
+
+	
+	
+	<title>Privacy Policy</title>
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="/dmp_channels/travelclick.css"> 
+		
+	
+	
+</head>
+
+
+	
+
+
+
+
+
+<body onload="pageInit();" onunload=";" class="clsMain" bgcolor="#CCCCCC" style="background-color: rgb(204, 204, 204);">
+
+
+
+
+
+
+
+
+	
+	<!-- about to parse header content in app vars. 15 ms -->
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	<!--- <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html> --->
+
+<script language="javascript">
+<!--
+
+// check the platform - send the correct CSS file
+//if (navigator.platform == "MacPPC") {
+//	document.writeln('<LINK HREF="/util/mac.css" REL="styleSheet" TYPE="text/css">')
+//} else {
+	document.writeln('<LINK HREF="/util/pc.css" REL="styleSheet" TYPE="text/css">')
+//}
+
+//-->
+</script><link href="/util/pc.css" rel="styleSheet" type="text/css">
+
+
+<script language="javascript">
+<!--
+// Ìîäóëü ðàáîòû ñ äèíàìè÷åñêèìè ñëîÿìè (ñ) Âàæåíèí Ìèõàèë 2004
+function by_id(id) // Âîçðàâùàåò îáúåêò DOM ïî id
+{
+	if (document.getElementById(id)) return document.getElementById(id);
+	else if (document.all[id]) return document.all[id];
+	/*s=typeof(document.all);
+	if (s=='undefined')
+	{
+		return document.getElementById(id);
+	}
+	else // Mozila 1.3 íå ïîíèìàåò document.all
+	{
+		return document.all[id];
+	}*/
+}
+function layer_state(id) // Âîçâðàùàåò ñîñòîÿíèå ñëîÿ
+{
+    l=by_id(id);
+    if (typeof(l)=='undefined')
+    {
+        return false;
+    }
+    else
+    {
+        return l.style.display;
+    }
+}
+function layer_change_state(id,st) // Èçìåíÿåò ñïîïîá îòîáðàæåíèÿ ñëîÿ
+{
+    l=by_id(id);
+    if (typeof(l)=='undefined')
+    {
+        return false;
+    }
+    else
+    {
+		l.style.position='absolute';
+        l.style.display=st;
+        return true;
+    }
+}
+function layer_change(id,ipl,imi) // Èçìåíèòü ñîñòîÿíèå ñëîÿ
+{
+	l=by_id("l_"+id);
+	l.style.position='absolute';
+	if (ipl!='') {p=by_id("i_"+id);} // Ðîäèòåëüñêèé ýëåìåíò (èêîíêà)
+	if (l.style.display=="none")
+	{
+		l.style.display="block";
+		if (ipl!='') {p.src=imi;}
+	}
+	else
+	{
+		l.style.display="none";
+		if (ipl!='') {p.src=ipl;}
+	}
+}
+function layer_close_all(pref,ipl,imi) // Çàêðûòü âñå ñëîè  c ïðåôèêñîì $pref + èçìåíèòü ñîñòîÿíèå ïðèâÿçàííûõ èêîíîê
+{
+	e=document.getElementsByTagName("DIV");
+	for (i=0;i<e.length;i++)
+	{
+		if (e[i].id.substr(0,pref.length)==pref) {e[i].style.display="none";}
+	}
+	if (ipl!='')
+	{
+	    for (i=0;i<document.images.length;i++)
+	    {
+		    if (document.images[i].id.substr(0,2)=="i_") {document.images[i].src=ipl;}
+	    }
+    }
+}
+function layer_open_all() // Îòêðûòü âñå ñëîè
+{
+	e=document.getElementsByTagName("DIV");
+	for (i=0;i<e.length;i++)
+	{
+		if (e[i].id.substr(0,2)=="l_") {e[i].style.display="block";}
+	}
+	for (i=0;i<document.images.length;i++)
+	{
+		if (document.images[i].id.substr(0,2)=="i_") {document.images[i].src="img/imi.gif";}
+	}
+}
+// Ðàáîòà ñ ìåíþ
+var cur_menu='';
+function menu_sh(id,sh) 
+{	
+	if (cur_menu!='' && sh==true)
+	{
+		layer_change_state(cur_menu,'none');
+	}
+	if (sh)
+	{
+		layer_change_state(id,'block');
+	}
+	else
+	{
+		layer_change_state(id,'none');
+	}	
+	cur_menu=id;
+}
+
+document.body.style.backgroundColor = "#CCCCCC";
+/*function chgBgColor() {
+	document.bgColor = "#CCCCCC";
+}
+window.onload = new Function("chgBgColor()");*/
+
+//alert(document.bgColor);
+//-->
+</script>
+
+<!--- <head>
+<TITLE>TravelCLICK</TITLE>
+<META name="Description" content="TravelCLICK is the leading provider of solutions that help hotels and other travel industry suppliers maximize profits from electronic distribution channels. The company's iHotelier booking engine platform and website marketing programs enable hotels to better execute strategies that increase business into their own websites. TravelCLICK's competitive benchmarking reports provide hotels with price and booking performance information, and the company's exclusive electronic marketing networks allow hotels and other travel related suppliers to target promotional messages to specific travel agents and consumers when they are booking travel.">
+<META http-equiv="Keywords" content="advertising on google, advertising on yahoo, booking reservation software, consumer network service, Cost per click advertising, CPC, Central reservation, system, Call Center Services, ChannelManager, consumer network service, Data solutions, DataBridge, EMonitor, ETrak, E-Commerce, Global Distribution System, Hotel industry best practices, Hotel website, Hotel media products, Hotel data solutions, Hotel market intelligence, Hotel market information, Hospitality Industry, hotel marketing software, hotel web site marketing, RateView, Hotelligence, HotelPACE, HotelFLASH, internet advertising, internet marketing, internet booking booking, internet reservations, iHotelier, Maximizing Revenue from Electronic Channels, Next Generation Seamless, Online Advertising, OneScreen, optimizing hotel site for search engine, pay per click advertising, PPC, Phaser, Pay-per-click advertising, Promotional Messages in the GDS, Richard Gray, Ray Cohen, Revenue Dashboard, Search Engine Marketing, site design, Single-screen reservations, Search Engine optimiztion, search engine optimization services, SEM, TravelCLICK, Travel agent media, Virtual Agent Services, Website booking engine, Website marketing services, Website booking engine, Website reservations, Website design, Amadeus, Abacus, Galileo, Infini,Sabre, Worldspan, Worldspan Accents, Amadeus Instant Marketing, Amadeus Priority Display, Galileo Headlines, Hotel Spotlight, Sabre Travel Network, MySabre, Text PromoSpots, Graphical PromoSpots, Travel Agent Media, GDS">
+</HEAD>
+
+</HEAD>
+
+<BODY MARGINHEIGHT="0" MARGINWIDTH="0" TOPMARGIN="0" LEFTMARGIN="0" bgcolor="#CCCCCC"> --->
+
+<center><table border="0" cellspacing="0" cellpadding="0" width="796"><tbody><tr><td valign="TOP" bgcolor="FFFFFF">
+<table border="0" cellspacing="0" cellpadding="0" width="796"><tbody><tr><td valign="TOP"><img src="/images/top_flags.gif" width="796" height="19" border="0" usemap="##top_flags_Map"></td></tr><tr><td valign="TOP"><img onmouseover="menu_sh(cur_menu,false)" src="/images/header.gif" width="796" height="113" border="0"></td></tr>
+<tr><td valign="TOP"><table border="0" cellspacing="0" cellpadding="0" width="796" bgcolor="FFFFFF"><tbody><tr><td valign="TOP" width="16"><img src="/images/spacer.gif" width="16" height="15" border="0"></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td>
+
+
+<td valign="TOP"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a onmouseover="menu_sh('l_menu1',true)" href="/about_us/about_us.cfm" class="main_nav">About Us</a></td></tr><tr><td><div class="menu" id="l_menu1" style="display:none"><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/about_us/Today.cfm" class="drop">Today</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/about_us/TC_History.cfm" class="drop">History</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/about_us/Timeline.cfm" class="drop">Timeline</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/about_us/StrategicPartners.cfm" class="drop">Strategic Partners</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/about_us/ExecutiveTeam.cfm" class="drop">Executive Team</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/about_us/BoardOfDirectors.cfm" class="drop">Board of Directors</a></div></td></tr></tbody></table></td><td><img src="/images/spacer.gif" width="15" height="15" border="0"></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td>
+
+<td valign="TOP"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a onmouseover="menu_sh('l_menu3',true)" href="/solutions/solutions.cfm" class="main_nav">Solutions</a></td></tr><tr><td><div class="menu" id="l_menu3" style="display:none"><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/solutions/MarketIntelligence.cfm" class="drop">Market Intelligence</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/solutions/ReservationsServices.cfm" class="drop">Reservations Services</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/solutions/ChannelManager.cfm" class="drop">Distribution Management</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/solutions/MarketingServices.cfm" class="drop">Marketing Services</a></div></td></tr></tbody></table></td><td><img src="/images/spacer.gif" width="15" height="15" border="0"></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td>
+
+<td valign="TOP"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a onmouseover="menu_sh('l_menu2',true)" href="/markets/markets.cfm" class="main_nav">Markets</a></td><td><img src="/images/spacer.gif" width="15" height="15" border="0"></td></tr><tr><td><div class="menu" id="l_menu2" style="display:none"><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/markets/SmallMediumChains.cfm" class="drop">Small/Medium Size Chains</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/markets/OwnershipGroups.cfm" class="drop">Ownership Groups</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/markets/IndependentHotels.cfm" class="drop">Independent Hotels</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/markets/BrandedHotels.cfm" class="drop">Branded Hotels</a></div></td></tr></tbody></table></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td>
+
+
+<td valign="TOP"><a href="/press_room/press_room.cfm" class="main_nav" onmouseover="menu_sh(cur_menu,false)">Press Room</a></td><td><img src="/images/spacer.gif" width="280" height="15" border="0"></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td><td valign="TOP"><a href="/index.cfm" class="main_nav_gr">Home</a></td><td><img src="/images/spacer.gif" width="15" height="15" border="0"></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td><td valign="TOP"><a href="/careers/careers.cfm" class="main_nav_gr">Careers</a></td><td><img src="/images/spacer.gif" width="15" height="15" border="0"></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td><td valign="TOP"><a href="/contact_us/contact_us.cfm" class="main_nav_gr">Contact Us</a></td><td><img src="/images/spacer.gif" width="16" height="15" border="0"></td></tr></tbody></table></td></tr><tr><td valign="top"><img onmouseover="menu_sh(cur_menu,false)" src="/images/nav_bar.gif" width="796" height="14" border="0"></td></tr><tr><td valign="top" colspan="100">
+
+<map name="top_flags_Map">
+<area shape="rect" alt="" coords="721,0,778,18" href="/contact_us/contact_us.cfm">
+<area shape="rect" alt="" coords="653,0,711,18" href="/international/italiano.cfm">
+<area shape="rect" alt="" coords="575,0,640,18" href="/international/francais.cfm">
+<area shape="rect" alt="" coords="504,0,565,18" href="/international/espanol.cfm">
+</map>
+
+<!-- CONTENT START -->
+
+<table border="0" cellspacing="0" cellpadding="0" width="796" bgcolor="#FFFFFF" height="100%"><tbody><tr><td valign="top" width="8"><img src="/images/spacer.gif" width="8" height="15" border="0"></td><td valign="top" width="183" height="100%" onmouseover="menu_sh(cur_menu,false)">
+<table border="0" cellspacing="0" cellpadding="0" width="183" height="100%"><tbody><tr><td valign="top">
+
+
+
+	
+	
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+
+
+
+<tbody><tr><td><img src="/dmp/images/dot.gif" width="500" height="0" border="0"></td></tr><tr>
+
+
+<td valign="top" align="left" style="padding-right:20px; padding-left:20px; padding-bottom:20px;">
+
+
+	
+	
+
+	
+
+	
+	
+		
+	
+	
+	
+	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		
+	
+	<tbody><tr>
+		<td>
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+			
+			
+			<tbody><tr><td class="clsPageTitle">Privacy Policy</td><td></td></tr>
+			
+			
+			</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+	
+	
+
+
+
+
+
+
+
+
+
+<!-- exiting header.cfm. 15 ms -->
+
+
+
+TravelCLICK strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We have established information handling practices that we believe are consistent with the highest standards and best practices of companies doing business on the Internet.
+
+<p></p><div class="clsPageTitle">Summary:</div>
+
+<ul>
+<p></p><li>You can always visit our site without revealing who you are or providing any personal information.  
+
+<p></p></li><li>We will not collect personally identifiable information such as your name, email, phone number without your knowledge and permission.
+</li></ul>
+
+<p>We utilize cookie technology to collect data to identify first time versus return visitors to our site. This information allows us to provide faster data retrieval for return visitors. The information we collect is used to contact current and future customers regarding news and "best practices" in the hospitality industry, and other information that only TravelCLICK can provide due to its exclusive joint partnerships and proprietary database. 
+
+</p><p>We collect personally identifiable information from users through voluntary submissions. We use good faith efforts to make it clear why the information is being collected and what it will be used for.
+
+</p><p>Should you sign up for our email list and then change your mind and no longer wish to receive e-mail or periodic mailings from us in the future, please let us know by sending an e-mail to <a href="mailto:Unsubscribe@travelclick.net">Unsubscribe@travelclick.net</a> with your email address in the subject line, and allow four weeks for the processing.
+
+</p><p>Thank you for sharing our concern with privacy issues. 
+
+
+
+
+
+
+
+	
+	
+
+		
+
+	
+	
+	</p></td>
+	</tr>
+
+	
+	
+	<tr>
+
+	<td colspan="2" align="center">
+
+	
+	
+	
+	
+	
+	
+	
+</td></tr>
+<tr><td valign="top"><img src="/images/footer.gif" width="796" height="24" border="0" usemap="#footer_Map"></td></tr></tbody></table></td></tr></tbody></table>
+<map name="footer_Map">
+<area shape="rect" alt="" coords="717,12,780,23" href="/contact_us/contact_us.cfm">
+<area shape="rect" alt="" coords="629,12,708,23" href="/privacy/privacy.cfm">
+<area shape="rect" alt="" coords="570,12,620,23" href="/sitemap/sitemap.cfm">
+</map>
+<!--- </body>
+</html> --->
+
+
+	
+	
+
+	
+	</td></tr>
+	
+
+
+</tbody></table>
+
+<p class="clsDemoFooter">
+
+
+
+
+	
+		
+		<!-- ServerName:DMPWIN5 -->
+	
+
+</p>
+
+
+
+
+
+
+
+</td></tr></tbody></table></td></tr></tbody></table></center></body></html>
