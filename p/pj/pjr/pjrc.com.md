@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the pjrc.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204025059id_/http%3A//www.pjrc.com/store/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pjrc.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211151454id_/http%3A//pjrc.com/store/privacy.html) for the most accurate reproduction.*
 
 # PJRC Store, Privacy Policy
 
-[Home](https://web.archive.org/) | [MP3 Player](https://web.archive.org/tech/mp3/) | [8051 Tools](https://web.archive.org/tech/8051/) | [All Projects](https://web.archive.org/tech/) | PJRC Store | [Site Map](https://web.archive.org/map.html)  
----|---|---|---|---|---  
   
-## PJRC's Privacy Policy
-
-A quick summary of our privacy policy is: 
+|  |  A quick summary of our privacy policy is: 
 
   1. We will use your personal information only for the purpose you provided it to us. 
   2. We never sell or share personally identifying information with others for marketing/advertising purposes. 
