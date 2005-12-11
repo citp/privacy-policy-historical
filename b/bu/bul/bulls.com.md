@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulls.com privacy policy that was archived on 2005-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050516003417id_/http%3A//www.nba.com/news/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulls.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211203423id_/http%3A//www.nba.com/news/privacy_policy.html) for the most accurate reproduction.*
 
 # NBA.com Network Privacy Policy
 
