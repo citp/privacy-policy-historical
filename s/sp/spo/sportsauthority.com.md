@@ -1,27 +1,24 @@
-> *The following text is extracted and transformed from the sportsauthority.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402011343id_/http%3A//www.thesportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsauthority.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211025227id_/http%3A//www.thesportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
-# The Sports Authority Helpdesk
-
-|   
-| [](https://web.archive.org/helpdesk/index.jsp)
+# Sports Authority Helpdesk
 
 _Updated February 2004_
 
 GSI Commerce Solutions, Inc. has created this Privacy Policy to inform you of the information gathering and dissemination practices for this Web site, www.thesportsauthority.com. Because we want to demonstrate our commitment to your privacy, we want to notify you of:
 
-  1. What personally identifiable information of yours is collected through this Web site; 
-  2. The organization collecting the information; 
-  3. How the information is used; 
-  4. With whom the information may be shared; 
-  5. What choices are available to you regarding collection, use and distribution of the information; 
-  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under Global Sport Interactive's control; and 
-  7. How you can correct any inaccuracies in the information. 
+  1. What personally identifiable information of yours is collected through this Web site;
+  2. The organization collecting the information;
+  3. How the information is used;
+  4. With whom the information may be shared;
+  5. What choices are available to you regarding collection, use and distribution of the information;
+  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under Global Sport Interactive's control; and
+  7. How you can correct any inaccuracies in the information.
 
 
 
 If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email by completing the Customer Feedback Form in the Helpdesk section or by phone at 1.888.801.9164.
 
-Visiting www.thesportsauthority.com
+Visiting www.sportsauthority.com
 
 Your IP address, browser and reference site domain name are logged every time you visit our site. This data is used strictly for the analysis of load information and maximizing the efficiency of our servers. Except as provided in this privacy policy, we will not share this data with anyone in any way. 
 
@@ -39,13 +36,13 @@ Our store locator functionality links to a third party web site. Any data provid
 
 If you have accessed this Web Site through a link from certain of our advertising and marking partners our Site may include a frame of the applicable advertising and marketing partner. The information you provide to us through these framed web pages is collected by us and its use is governed by this privacy policy.
 
-Ordering from www.thesportsauthority.com
+Ordering from www.sportsauthority.com
 
-When you order from www.thesportsauthority.com, we need your name, email address, shipping address and credit card number/expiration date. We use this data to process your order, ship it and send you order and shipping confirmations via email. Except as provided in this privacy policy, we will not sell, rent, or disclose this data to any third party without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.) 
+When you order from www.sportsauthority.com, we need your name, email address, shipping address and credit card number/expiration date. We use this data to process your order, ship it and send you order and shipping confirmations via email. Except as provided in this privacy policy, we will not sell, rent, or disclose this data to any third party without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.) 
 
 From time to time, we use the purchases you make to customize our product recommendations. We also track customer traffic patterns and site usage. Traffic and usage data is used only to improve our site's design and provide our customers with a fulfilling shopping experience.
 
-Opening a www.thesportsauthority.com account
+Opening a www.sportsauthority.com Account
 
 We require your name, billing address, shipping address, email address and telephone number to open an account for you. Except as provided in this privacy policy, this account data is never shared with anyone in any way without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.)
 
@@ -61,7 +58,7 @@ Customer Service
 
 In addition to being able to call our customer service department (1.888.801.9164), you may also email us by completing the Customer Feedback Form in the Helpdesk section. When you email us, your emails are stored within our system so that we may refer to previous emails from you as needed so that we may properly address your questions and concerns. Except as provided in this privacy policy, the information you provide to our customer service department is not shared with anyone without your consent.
 
-Entering contests/sweepstakes
+Entering Contests/Sweepstakes
 
 Whenever we run a contest or sweepstakes relating to our site, it will be accompanied with the rules of the contest/sweepstakes. The rules for each contest/sweepstakes will also detail how the information gathered from you for entry into the contest/sweepstakes will be used. You will find the rules for each contest/sweepstakes by clicking the "rules" link accompanying each contest/sweepstakes. Additionally, we will post if this information will be shared with anyone in addition to those persons and entities provided for in this Privacy Policy, such as a third party sponsoring or managing the contest/sweepstakes. 
 
@@ -79,19 +76,23 @@ Customer Feedback Form
 
 You can use this form to give us any input which we will use to improve our site. The only required data is your name and email address. The remainder of the data is optional. We only use this data to make improvements on our site. Except as provided in this privacy policy, this data is not shared with anyone in any way.
 
-Our Third Party Relationships   
+Our Third Party Relationships
+
+  
 
 We have established several relationships with third parties vendors to best serve our customers.
 
-  * **_Retailer:_** GSI Commerce Solutions operates this Web site pursuant to agreements with The Sports Authority, Inc. ("The Sports Authority"). Pursuant to such agreements, The Sports Authority is entitled to access and use the information collected through this Web site to the same extent and in the same manner as GSI Commerce Solutions. Additionally, The Sports Authority may contact those customers who have agreed to receive promotional offers about offers in its land-based stores. The Sports Authority has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to GSI Commerce Solutions hereunder. 
-  * **_Affiliates:_** From time to time we may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to our site from their sites. These affiliates can only access data about the number of transactions and their resulting earnings. They cannot access our customers' personal data. If you choose to apply to any of our affiliate programs, we use the data you give us strictly for conducting business with you. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information if you are an affiliate of the web site but is restricted to only use such information in connection with its administration of the affiliate programs. 
-  * **_Order Fulfillment:_** Certain vendors of ours provide customer order fulfillment and shipping services on our behalf. These vendors have access only to information needed to accurately fulfill and ship orders, which are processed through such vendors. These vendors have agreed to not use any personally identifiable information of customers for any other purpose. 
-  * **_Credit Card Processing:_** We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes. 
-  * **_Web Site Evaluation:_** From time to time, we engage certain third parties to observe, track and report on the behavior of the users of this Web Site in order to evaluate the performance and features of this Web Site. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose. 
-  * **_Marketing and Promotions:_** From time to time, we engage certain third parties to assist in the dissemination of marketing and promotional offers (i.e. e-mails) to those customers who have agreed to receive such offers. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose. 
-  * **_Additional Third Party Relationships:_** From time to time, we engage other third parties to assist in providing marketing, order processing and fulfillment services. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services. 
+  * **_Retailer:_** GSI Commerce Solutions operates this Web site pursuant to agreements with The Sports Authority, Inc. ("The Sports Authority"). Pursuant to such agreements, The Sports Authority is entitled to access and use the information collected through this Web site to the same extent and in the same manner as GSI Commerce Solutions. Additionally, The Sports Authority may contact those customers who have agreed to receive promotional offers about offers in its land-based stores. The Sports Authority has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to GSI Commerce Solutions hereunder.
+  * **_Affiliates:_** From time to time we may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to our site from their sites. These affiliates can only access data about the number of transactions and their resulting earnings. They cannot access our customers' personal data. If you choose to apply to any of our affiliate programs, we use the data you give us strictly for conducting business with you. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information if you are an affiliate of the web site but is restricted to only use such information in connection with its administration of the affiliate programs.
+  * **_Order Fulfillment:_** Certain vendors of ours provide customer order fulfillment and shipping services on our behalf. These vendors have access only to information needed to accurately fulfill and ship orders, which are processed through such vendors. These vendors have agreed to not use any personally identifiable information of customers for any other purpose.
+  * **_Credit Card Processing:_** We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes.
+  * **_Web Site Evaluation:_** From time to time, we engage certain third parties to observe, track and report on the behavior of the users of this Web Site in order to evaluate the performance and features of this Web Site. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose.
+  * **_Marketing and Promotions:_** From time to time, we engage certain third parties to assist in the dissemination of marketing and promotional offers (i.e. e-mails) to those customers who have agreed to receive such offers. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose.
+  * **_Additional Third Party Relationships:_** From time to time, we engage other third parties to assist in providing marketing, order processing and fulfillment services. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services.
 
-Additionally, from time to time, we share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes. That is, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.Security Policy
+Additionally, from time to time, we share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes. That is, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.
+
+Security Policy
 
 We use Secure Socket Layer (SSL) encryption technology to protect your personal information. The only time you are required to sign on our site is when you are making a purchase. On the Checkout page, you will be asked to access your existing account or create a new one. Existing account holders are prompted for their ID (your email address) and password. This password is for your protection. If you don't have your password, there is a link that reads "Lost your password?" Click on this for instructions on how to get your password.
 
