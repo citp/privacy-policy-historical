@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the bluebeam.com privacy policy that was archived on 2005-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050213194635id_/http%3A//www.bluebeam.com/web03/company/CompanyPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebeam.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211120134id_/http%3A//www.bluebeam.com/web03/company/CompanyPrivacy.asp) for the most accurate reproduction.*
 
 # Bluebeam Software, Inc.
 
-| 
+  
+
+
+* * *
 
 Protecting your privacy is important to us at Bluebeam Software Inc. ("Bluebeam"). This Web site ("Site") is a general corporate Web site, through which we provide information about us and our various products and services, and make our software products available for download. We use information that we collect from you to improve your experience in using the Site and our various products and services, to aid in communications among Bluebeam and you and other Site users and to notify you of products and services that we think may be of interest to you. Please read on for more details concerning our Privacy Policy. 
 
@@ -51,6 +54,3 @@ Our Site is a general audience Web site and no portion of the Site is directed t
 Summary 
 
 At Bluebeam, protecting your privacy is important to us. By accessing and using our Site, you consent to the collection, use and disclosure of information by Bluebeam as described in this Privacy Policy. Although this Privacy Policy is subject to change from time to time, we will notify you prior to any material change at least fifteen (15) days prior to implementation of the revised Privacy Policy. If you have any questions concerning this policy please send an email to the Bluebeam Webmaster at [support@bluebeam.com](mailto:support@bluebeam.com). 
-
-|   
----|---|---
