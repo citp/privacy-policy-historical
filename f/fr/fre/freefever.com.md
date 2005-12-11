@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefever.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207034525id_/http%3A//www.designandcreate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefever.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211153406id_/http%3A//www.designandcreate.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Design And Create . Com - Graphics, Web Hosting & webmaster resources
 
