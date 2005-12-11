@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etnies.com privacy policy that was archived on 2005-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050520035018id_/http%3A//www.soletechnology.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etnies.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211112457id_/http%3A//www.soletechnology.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Sole Technology Online Privacy Statement.
 
