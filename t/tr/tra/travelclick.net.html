@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the travelclick.net privacy policy that was archived on 2003-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602171655id_/http%3A//travelclick.net/dmp/public/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelclick.net privacy policy that was archived on 2005-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051211013407id_/http%3A//www.travelclick.net/dmp/public/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><script language="JavaScript" type="TEXT/JAVASCRIPT">
 <!--
@@ -11,7 +11,7 @@ else version = "bad";
 
 function popUp(url,width,height,toolbar) {
 	if (arguments.length >= 5) {
-		wndName = arguments[5];
+		wndName = arguments[4];
 	} else {
 		wndName = "PopUp";
 	}
@@ -47,6 +47,7 @@ function getHelp(template) {
 function pageInit() {
 	wndProgress = null;
 	
+	
 	return true;
 }
 
@@ -64,6 +65,9 @@ function defaultFocus() {
 		}
 	}
 }
+
+
+
 
 
 function notYet(str) {
@@ -137,10 +141,10 @@ function setFieldState(bEnable, formName, fieldName, reqImg, bReadOnly) {
 	}
 	if (reqImg.length > 0) {
 		if (bEnable) {
-			document.images[reqImg].src = "/dmp_channels/travelclick/usenglish/images/red-dot.gif";
+			document.images[reqImg].src = "/dmp/images/red-dot.gif";
 			document.images[reqImg].alt = "Required";
 		} else {
-			document.images[reqImg].src = "/dmp_channels/travelclick/usenglish/images/dot.gif";
+			document.images[reqImg].src = "/dmp/images/dot.gif";
 			document.images[reqImg].alt = "";
 		}
 	}
@@ -177,7 +181,12 @@ function disablePage(formName){
 					if (obj.style.borderColor != "white"){			
 						obj.style.backgroundColor = "#CCCCCC";
 					}
-					obj.disabled = true; 
+					//in IE the user cannot used the slider in the multiple select to see what has been selected so place multiple selects into a readonly mode.
+					if (obj.type == "select-one"){
+					obj.disabled = true;
+					}else{
+					obj.readonly = true;
+					}
 				}
 				//uniquely named checkboxes.
 				if (obj.type.substr(0,4) == "chec"){
@@ -191,10 +200,14 @@ function disablePage(formName){
 
 //the id passed should be assigned to a table, tr, or div
 function showContent(id) {
+	//alert(browserName);
 	//Netscape 6+ and IE 5+ - preferred method
+	//return;
 	if (document.getElementById) {
-		//alert("getElementById enabled");
-		document.getElementById(id).style.display = "inline";
+		
+		//if (browserName=="Netscape") document.getElementById(id).style.visibility = "visible";
+		//else document.getElementById(id).style.display = "inline";
+		if (document.getElementById(id).style.display == "none") document.getElementById(id).style.display = "";
 	//IE 4
 	} else if (document.all) {
 		document.all[id].style.display = "inline";
@@ -206,8 +219,10 @@ function showContent(id) {
 
 function hideContent(id) {
 	//Netscape 6+ and IE 5+ - preferred method
+	//return;
 	if (document.getElementById) {
 		//alert("getElementById enabled");
+		//if (browserName=="Netscape") document.getElementById(id).style.visibility = "hidden";
 		document.getElementById(id).style.display = "none";
 	//IE 4
 	} else if (document.all) {
@@ -227,8 +242,8 @@ num_keepalives = 0;
 var imgKeepAlive = new Image();
 imgKeepAlive.src = "/dmp/images/dot.gif";
 function setTimerCFSession() {
-	strCurrentDate = "2003/06/02 12:12:46";
-	strEndDate = "2003/06/03 12:12:46";
+	strCurrentDate = "2005/12/10 19:30:18";
+	strEndDate = "2005/12/11 19:30:18";
 	dtEndDate = Date.parse(strEndDate);
 	dtCurrentDate = Date.parse(strCurrentDate);
 	cf_time = (dtEndDate - dtCurrentDate)/1000;
@@ -267,11 +282,6 @@ function CountDownCFSession() {
 
 
 
-function spellCheck(frm,fld) {
-	u = "/dmp/includes/spellcheck_popup.cfm?frm=" + frm + "&fld=" + fld;
-	popUp(u,500,400,false);
-}
-
 //another GIF-as-pipe trick....call this JS function to set any client/session/application/server var without navigating away from page
 //see setvar_img.cfm for param descriptions
 function setVar(scope,varname,val,action) {
@@ -308,10 +318,17 @@ function closeProgBar() {
 
 
 
+
+
 	
 	
 	<title>Privacy Policy</title>
-	<link rel="stylesheet" type="text/css" href="/dmp_channels/travelclick.css">
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="/dmp_channels/travelclick.css"> 
+		
 	
 	
 </head>
@@ -321,15 +338,19 @@ function closeProgBar() {
 
 
 
-<body onload="pageInit();" onunload="" class="clsMain" bgcolor="#FFFFFF">
+
+
+<body onload="pageInit();" onunload=";" class="clsMain" bgcolor="#CCCCCC" style="background-color: rgb(204, 204, 204);">
 
 
 
 
 
 
+
+
 	
-	<!-- about to parse header content in app vars. 297 ms -->
+	<!-- about to parse header content in app vars. 15 ms -->
 
 	
 	
@@ -341,124 +362,174 @@ function closeProgBar() {
 	
 	
 	
-	<table border="0" cellpadding="0" cellspacing="0" width="780">
-  <tbody><tr>
-    <td width="780" colspan="2" valign="top" align="left">
-	
-	<!--- this is from TopBorder.htm --->
-	<script language="JavaScript">
-	function dummyForImgs() {
-		dummy.src = "http://www.travelclick.net/images/tmEspanolA.gif"
-		dummy.src = "http://www.travelclick.net/images/tmFranciasA.gif"
-		dummy.src = "http://www.travelclick.net/images/tmItalianoA.gif"
-		dummy.src = "http://www.travelclick.net/images/tmNewsA.gif"
-		dummy.src = "http://www.travelclick.net/images/tmContactA.gif"
+	<!--- <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html> --->
+
+<script language="javascript">
+<!--
+
+// check the platform - send the correct CSS file
+//if (navigator.platform == "MacPPC") {
+//	document.writeln('<LINK HREF="/util/mac.css" REL="styleSheet" TYPE="text/css">')
+//} else {
+	document.writeln('<LINK HREF="/util/pc.css" REL="styleSheet" TYPE="text/css">')
+//}
+
+//-->
+</script><link href="/util/pc.css" rel="styleSheet" type="text/css">
+
+
+<script language="javascript">
+<!--
+// Ìîäóëü ðàáîòû ñ äèíàìè÷åñêèìè ñëîÿìè (ñ) Âàæåíèí Ìèõàèë 2004
+function by_id(id) // Âîçðàâùàåò îáúåêò DOM ïî id
+{
+	if (document.getElementById(id)) return document.getElementById(id);
+	else if (document.all[id]) return document.all[id];
+	/*s=typeof(document.all);
+	if (s=='undefined')
+	{
+		return document.getElementById(id);
 	}
-	
-	function imgActivate(imgSrc) {
-		imgSrc.src = "http://www.travelclick.net/images/" + imgSrc.name + "A.gif"
+	else // Mozila 1.3 íå ïîíèìàåò document.all
+	{
+		return document.all[id];
+	}*/
+}
+function layer_state(id) // Âîçâðàùàåò ñîñòîÿíèå ñëîÿ
+{
+    l=by_id(id);
+    if (typeof(l)=='undefined')
+    {
+        return false;
+    }
+    else
+    {
+        return l.style.display;
+    }
+}
+function layer_change_state(id,st) // Èçìåíÿåò ñïîïîá îòîáðàæåíèÿ ñëîÿ
+{
+    l=by_id(id);
+    if (typeof(l)=='undefined')
+    {
+        return false;
+    }
+    else
+    {
+		l.style.position='absolute';
+        l.style.display=st;
+        return true;
+    }
+}
+function layer_change(id,ipl,imi) // Èçìåíèòü ñîñòîÿíèå ñëîÿ
+{
+	l=by_id("l_"+id);
+	l.style.position='absolute';
+	if (ipl!='') {p=by_id("i_"+id);} // Ðîäèòåëüñêèé ýëåìåíò (èêîíêà)
+	if (l.style.display=="none")
+	{
+		l.style.display="block";
+		if (ipl!='') {p.src=imi;}
 	}
-	
-	function imgDeactivate(imgSrc) {
-		imgSrc.src = "http://www.travelclick.net/images/" + imgSrc.name + ".gif"
+	else
+	{
+		l.style.display="none";
+		if (ipl!='') {p.src=ipl;}
 	}
-	
-	function popUp(URL) {
-		day = new Date();
-		id = day.getTime();
-		eval("page" + id + " = window.open(URL, '" + id + "', 'toolbars=0, scrollbars=yes, location=0, statusbars=1, menubars=0, resizable=1, width=620, height=600, left = 0, top = 0');");
+}
+function layer_close_all(pref,ipl,imi) // Çàêðûòü âñå ñëîè  c ïðåôèêñîì $pref + èçìåíèòü ñîñòîÿíèå ïðèâÿçàííûõ èêîíîê
+{
+	e=document.getElementsByTagName("DIV");
+	for (i=0;i<e.length;i++)
+	{
+		if (e[i].id.substr(0,pref.length)==pref) {e[i].style.display="none";}
 	}
-	</script>
-	<table border="0" cellpadding="0" cellspacing="0" width="780">
-	  <tbody><tr>
-	    <td width="780" colspan="8"><map name="FPMap0">
-	      <area href="/" shape="circle" coords="48, 45, 44"></map><img border="0" src="http://www.travelclick.net/images/Header.jpg" usemap="#FPMap0" width="780" height="98"></td>
-	  </tr>
-	  <tr>
-	    <td width="182" valign="top" align="left"><img border="0" src="http://www.travelclick.net/images/tmLeft.gif" width="182" height="41"></td>
-	    <td width="80" valign="top" align="left"><a href="/Espanol/"><img name="tmEspanol" border="0" onmouseover="imgActivate(this)" onmouseout="imgDeactivate(this)" src="http://www.travelclick.net/images/tmEspanol.gif" width="80" height="41"></a></td>
-	    <td width="84" valign="top" align="left"><a href="/Francais/"><img name="tmFrancias" border="0" onmouseover="imgActivate(this)" onmouseout="imgDeactivate(this)" src="http://www.travelclick.net/images/tmFrancias.gif" width="84" height="41"></a></td>
-	    <td width="82" valign="top" align="left"><a href="/Italiano/"><img name="tmItaliano" border="0" onmouseover="imgActivate(this)" onmouseout="imgDeactivate(this)" src="http://www.travelclick.net/images/tmItaliano.gif" width="82" height="41"></a></td>
-	    <td width="175" valign="top" align="left"><img border="0" src="http://www.travelclick.net/images/tmMid.gif" width="175" height="41"></td>
-	    <td width="54" valign="top" align="left"><a href="/News/"><img name="tmNews" border="0" onmouseover="imgActivate(this)" onmouseout="imgDeactivate(this)" src="http://www.travelclick.net/images/tmNews.gif" width="54" height="41"></a></td>
-	    <td width="98" valign="top" align="left"><a href="/About/ContactUs.shtm"><img name="tmContact" border="0" onmouseover="imgActivate(this)" onmouseout="imgDeactivate(this)" src="http://www.travelclick.net/images/tmContact.gif" width="98" height="41"></a></td>
-	    <td width="25" valign="top" align="left"><img border="0" src="http://www.travelclick.net/images/tmRight.gif" width="25" height="41"></td>
-	  </tr>
-	</tbody></table>
-	<!--- end TopBorder.htm --->
-	
-	</td>
-  </tr>
-  <tr>
-    <td width="168" valign="top" align="left">
-	
-	<!--- this is from LeftBorder.htm --->
-	<script language="JavaScript">
-	function dummyForImgsM() {
-		dummy.src = "http://www.travelclick.net/images/mHomeA.gif"
-		dummy.src = "http://www.travelclick.net/images/mAboutA.gif"
-		dummy.src = "http://www.travelclick.net/images/mDataSolA.gif"
-		dummy.src = "http://www.travelclick.net/images/mMediaNetA.gif"
-		dummy.src = "http://www.travelclick.net/images/mTravelAgentA.gif"
-		dummy.src = "http://www.travelclick.net/images/mConsumerA.gif"
-		dummy.src = "http://www.travelclick.net/images/mGroupA.gif"
+	if (ipl!='')
+	{
+	    for (i=0;i<document.images.length;i++)
+	    {
+		    if (document.images[i].id.substr(0,2)=="i_") {document.images[i].src=ipl;}
+	    }
+    }
+}
+function layer_open_all() // Îòêðûòü âñå ñëîè
+{
+	e=document.getElementsByTagName("DIV");
+	for (i=0;i<e.length;i++)
+	{
+		if (e[i].id.substr(0,2)=="l_") {e[i].style.display="block";}
 	}
-	
-	function imgmActivate(imgSrc) {
-		imgSrc.src = "http://www.travelclick.net/images/" + imgSrc.name + "A.gif"
+	for (i=0;i<document.images.length;i++)
+	{
+		if (document.images[i].id.substr(0,2)=="i_") {document.images[i].src="img/imi.gif";}
 	}
-	
-	function imgmDeactivate(imgSrc) {
-		imgSrc.src = "http://www.travelclick.net/images/" + imgSrc.name + ".gif"
+}
+// Ðàáîòà ñ ìåíþ
+var cur_menu='';
+function menu_sh(id,sh) 
+{	
+	if (cur_menu!='' && sh==true)
+	{
+		layer_change_state(cur_menu,'none');
 	}
-	</script>
+	if (sh)
+	{
+		layer_change_state(id,'block');
+	}
+	else
+	{
+		layer_change_state(id,'none');
+	}	
+	cur_menu=id;
+}
 
-	<table border="0" cellpadding="0" cellspacing="0" width="168">
-	  <tbody><tr>
-	    <td bgcolor="#003366"><a href="/"><img border="0" name="mHome" onmouseover="imgmActivate(this)" onmouseout="imgmDeactivate(this)" src="http://www.travelclick.net/images/mHome.gif" width="137" height="18"></a></td>
-	  </tr>
-	  <tr>
-	    <td bgcolor="#003366"><img border="0" src="http://www.travelclick.net/images/pixel.gif" width="5" height="5"></td>
-	  </tr>
-	  <tr>
-	    <td bgcolor="#003366"><a href="/About/"><img border="0" name="mAbout" onmouseover="imgmActivate(this)" onmouseout="imgmDeactivate(this)" src="http://www.travelclick.net/images/mAbout.gif" width="137" height="18"></a></td>
-	  </tr>
-	  <tr>
-	    <td bgcolor="#003366"><img border="0" src="http://www.travelclick.net/images/pixel.gif" width="5" height="5"></td>
-	  </tr>
-	  <tr>
-	    <td bgcolor="#003366"><a href="/DataSolutions/"><img border="0" name="mDataSol" onmouseover="imgmActivate(this)" onmouseout="imgmDeactivate(this)" src="http://www.travelclick.net/images/mDataSol.gif" width="137" height="18"></a></td>
-	  </tr>
-	  <tr>
-	    <td bgcolor="#003366"><img border="0" src="http://www.travelclick.net/images/pixel.gif" width="5" height="5"></td>
-	  </tr>
-	  <tr>
-	    <td bgcolor="#003366"><a href="/MediaNetworks/"><img border="0" name="mMediaNet" onmouseover="imgmActivate(this)" onmouseout="imgmDeactivate(this)" src="http://www.travelclick.net/images/mMediaNet.gif" width="137" height="18"></a></td>
-	  </tr>
-	  <tr>
-	    <td bgcolor="#003366"><img border="0" src="http://www.travelclick.net/images/pixel.gif" width="5" height="5"></td>
-	  </tr>
-	  <tr>
-	    <td bgcolor="#003366"><a href="/MediaNetworks/TravelAgent.shtm"><img border="0" name="mTravelAgent" onmouseover="imgmActivate(this)" onmouseout="imgmDeactivate(this)" src="http://www.travelclick.net/images/mTravelAgent.gif" width="136" height="15"></a></td>
-	  </tr>
-	  <tr>
-	    <td bgcolor="#003366"><a href="/MediaNetworks/Consumer.shtm"><img border="0" name="mConsumer" onmouseover="imgmActivate(this)" onmouseout="imgmDeactivate(this)" src="http://www.travelclick.net/images/mConsumer.gif" width="136" height="15"></a></td>
-	  </tr>
-	  <tr>
-	    <td bgcolor="#003366"><a href="/MediaNetworks/Group.shtm"><img border="0" name="mGroup" onmouseover="imgmActivate(this)" onmouseout="imgmDeactivate(this)" src="http://www.travelclick.net/images/mGroup.gif" width="136" height="15"></a></td>
-	  </tr>
-	  <tr>
-	    <td bgcolor="#003366"><img border="0" src="http://www.travelclick.net/images/pixel.gif" width="5" height="105"></td>
-	  </tr>
-	  <tr>
-	    <td><img border="0" src="http://www.travelclick.net/images/Left_btm_cr.gif" width="168" height="30"></td>
-	  </tr>
-	  
-	</tbody></table>
-	<!--- end LeftBorder.htm --->
-	
-	</td>
-    <td width="612" valign="top" align="left">
+document.body.style.backgroundColor = "#CCCCCC";
+/*function chgBgColor() {
+	document.bgColor = "#CCCCCC";
+}
+window.onload = new Function("chgBgColor()");*/
+
+//alert(document.bgColor);
+//-->
+</script>
+
+<!--- <head>
+<TITLE>TravelCLICK</TITLE>
+<META name="Description" content="TravelCLICK is the leading provider of solutions that help hotels and other travel industry suppliers maximize profits from electronic distribution channels. The company's iHotelier booking engine platform and website marketing programs enable hotels to better execute strategies that increase business into their own websites. TravelCLICK's competitive benchmarking reports provide hotels with price and booking performance information, and the company's exclusive electronic marketing networks allow hotels and other travel related suppliers to target promotional messages to specific travel agents and consumers when they are booking travel.">
+<META http-equiv="Keywords" content="advertising on google, advertising on yahoo, booking reservation software, consumer network service, Cost per click advertising, CPC, Central reservation, system, Call Center Services, ChannelManager, consumer network service, Data solutions, DataBridge, EMonitor, ETrak, E-Commerce, Global Distribution System, Hotel industry best practices, Hotel website, Hotel media products, Hotel data solutions, Hotel market intelligence, Hotel market information, Hospitality Industry, hotel marketing software, hotel web site marketing, RateView, Hotelligence, HotelPACE, HotelFLASH, internet advertising, internet marketing, internet booking booking, internet reservations, iHotelier, Maximizing Revenue from Electronic Channels, Next Generation Seamless, Online Advertising, OneScreen, optimizing hotel site for search engine, pay per click advertising, PPC, Phaser, Pay-per-click advertising, Promotional Messages in the GDS, Richard Gray, Ray Cohen, Revenue Dashboard, Search Engine Marketing, site design, Single-screen reservations, Search Engine optimiztion, search engine optimization services, SEM, TravelCLICK, Travel agent media, Virtual Agent Services, Website booking engine, Website marketing services, Website booking engine, Website reservations, Website design, Amadeus, Abacus, Galileo, Infini,Sabre, Worldspan, Worldspan Accents, Amadeus Instant Marketing, Amadeus Priority Display, Galileo Headlines, Hotel Spotlight, Sabre Travel Network, MySabre, Text PromoSpots, Graphical PromoSpots, Travel Agent Media, GDS">
+</HEAD>
+
+</HEAD>
+
+<BODY MARGINHEIGHT="0" MARGINWIDTH="0" TOPMARGIN="0" LEFTMARGIN="0" bgcolor="#CCCCCC"> --->
+
+<center><table border="0" cellspacing="0" cellpadding="0" width="796"><tbody><tr><td valign="TOP" bgcolor="FFFFFF">
+<table border="0" cellspacing="0" cellpadding="0" width="796"><tbody><tr><td valign="TOP"><img src="/images/top_flags.gif" width="796" height="19" border="0" usemap="##top_flags_Map"></td></tr><tr><td valign="TOP"><img onmouseover="menu_sh(cur_menu,false)" src="/images/header.gif" width="796" height="113" border="0"></td></tr>
+<tr><td valign="TOP"><table border="0" cellspacing="0" cellpadding="0" width="796" bgcolor="FFFFFF"><tbody><tr><td valign="TOP" width="16"><img src="/images/spacer.gif" width="16" height="15" border="0"></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td>
+
+
+<td valign="TOP"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a onmouseover="menu_sh('l_menu1',true)" href="/about_us/about_us.cfm" class="main_nav">About Us</a></td></tr><tr><td><div class="menu" id="l_menu1" style="display:none"><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/about_us/Today.cfm" class="drop">Today</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/about_us/TC_History.cfm" class="drop">History</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/about_us/Timeline.cfm" class="drop">Timeline</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/about_us/StrategicPartners.cfm" class="drop">Strategic Partners</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/about_us/ExecutiveTeam.cfm" class="drop">Executive Team</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/about_us/BoardOfDirectors.cfm" class="drop">Board of Directors</a></div></td></tr></tbody></table></td><td><img src="/images/spacer.gif" width="15" height="15" border="0"></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td>
+
+<td valign="TOP"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a onmouseover="menu_sh('l_menu3',true)" href="/solutions/solutions.cfm" class="main_nav">Solutions</a></td></tr><tr><td><div class="menu" id="l_menu3" style="display:none"><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/solutions/MarketIntelligence.cfm" class="drop">Market Intelligence</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/solutions/ReservationsServices.cfm" class="drop">Reservations Services</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/solutions/ChannelManager.cfm" class="drop">Distribution Management</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/solutions/MarketingServices.cfm" class="drop">Marketing Services</a></div></td></tr></tbody></table></td><td><img src="/images/spacer.gif" width="15" height="15" border="0"></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td>
+
+<td valign="TOP"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a onmouseover="menu_sh('l_menu2',true)" href="/markets/markets.cfm" class="main_nav">Markets</a></td><td><img src="/images/spacer.gif" width="15" height="15" border="0"></td></tr><tr><td><div class="menu" id="l_menu2" style="display:none"><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/markets/SmallMediumChains.cfm" class="drop">Small/Medium Size Chains</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/markets/OwnershipGroups.cfm" class="drop">Ownership Groups</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/markets/IndependentHotels.cfm" class="drop">Independent Hotels</a><br><img src="/images/drop_arrow.gif" width="3" height="6" border="0"> <a href="/markets/BrandedHotels.cfm" class="drop">Branded Hotels</a></div></td></tr></tbody></table></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td>
+
+
+<td valign="TOP"><a href="/press_room/press_room.cfm" class="main_nav" onmouseover="menu_sh(cur_menu,false)">Press Room</a></td><td><img src="/images/spacer.gif" width="280" height="15" border="0"></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td><td valign="TOP"><a href="/index.cfm" class="main_nav_gr">Home</a></td><td><img src="/images/spacer.gif" width="15" height="15" border="0"></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td><td valign="TOP"><a href="/careers/careers.cfm" class="main_nav_gr">Careers</a></td><td><img src="/images/spacer.gif" width="15" height="15" border="0"></td><td valign="TOP"><img src="/images/arrow_top_nav.gif" width="6" height="15" border="0"></td><td valign="TOP"><a href="/contact_us/contact_us.cfm" class="main_nav_gr">Contact Us</a></td><td><img src="/images/spacer.gif" width="16" height="15" border="0"></td></tr></tbody></table></td></tr><tr><td valign="top"><img onmouseover="menu_sh(cur_menu,false)" src="/images/nav_bar.gif" width="796" height="14" border="0"></td></tr><tr><td valign="top" colspan="100">
+
+<map name="top_flags_Map">
+<area shape="rect" alt="" coords="721,0,778,18" href="/contact_us/contact_us.cfm">
+<area shape="rect" alt="" coords="653,0,711,18" href="/international/italiano.cfm">
+<area shape="rect" alt="" coords="575,0,640,18" href="/international/francais.cfm">
+<area shape="rect" alt="" coords="504,0,565,18" href="/international/espanol.cfm">
+</map>
+
+<!-- CONTENT START -->
+
+<table border="0" cellspacing="0" cellpadding="0" width="796" bgcolor="#FFFFFF" height="100%"><tbody><tr><td valign="top" width="8"><img src="/images/spacer.gif" width="8" height="15" border="0"></td><td valign="top" width="183" height="100%" onmouseover="menu_sh(cur_menu,false)">
+<table border="0" cellspacing="0" cellpadding="0" width="183" height="100%"><tbody><tr><td valign="top">
+
 
 
 	
@@ -486,20 +557,23 @@ function closeProgBar() {
 		
 	
 	
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
+	
+	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		
+	
+	<tbody><tr>
 		<td>
-		
-		
-		<div class="clsPageTitle" align="center" width="100%">Privacy Policy</div>
-		
-		
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+			
+			
+			<tbody><tr><td class="clsPageTitle">Privacy Policy</td><td></td></tr>
+			
+			
+			</tbody></table>
 		</td>
-		
-		
-		
-		</tr>
-		</tbody></table>
+	</tr>
+	</tbody></table>
+	
 	
 
 
@@ -507,7 +581,10 @@ function closeProgBar() {
 
 
 
-<!-- exiting header.cfm. 297 ms -->
+
+
+
+<!-- exiting header.cfm. 15 ms -->
 
 
 
@@ -528,6 +605,10 @@ TravelCLICK strives to offer its visitors the many advantages of Internet techno
 </p><p>Should you sign up for our email list and then change your mind and no longer wish to receive e-mail or periodic mailings from us in the future, please let us know by sending an e-mail to <a href="mailto:Unsubscribe@travelclick.net">Unsubscribe@travelclick.net</a> with your email address in the subject line, and allow four weeks for the processing.
 
 </p><p>Thank you for sharing our concern with privacy issues. 
+
+
+
+
 
 
 
@@ -553,17 +634,17 @@ TravelCLICK strives to offer its visitors the many advantages of Internet techno
 	
 	
 	
-	</td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top" align="center">
 	
-	<font size="2" face="Arial" color="#6699CC">© 2002 TravelCLICK Inc. All Rights Reserved.  <a href="/dmp/public/privacy.cfm" style="color:#6699CC">Privacy Policy</a></font>
-	
-	
-	</td>
-  </tr>
-</tbody></table>
+</td></tr>
+<tr><td valign="top"><img src="/images/footer.gif" width="796" height="24" border="0" usemap="#footer_Map"></td></tr></tbody></table></td></tr></tbody></table>
+<map name="footer_Map">
+<area shape="rect" alt="" coords="717,12,780,23" href="/contact_us/contact_us.cfm">
+<area shape="rect" alt="" coords="629,12,708,23" href="/privacy/privacy.cfm">
+<area shape="rect" alt="" coords="570,12,620,23" href="/sitemap/sitemap.cfm">
+</map>
+<!--- </body>
+</html> --->
+
 
 	
 	
@@ -582,7 +663,7 @@ TravelCLICK strives to offer its visitors the many advantages of Internet techno
 
 	
 		
-		<!-- ServerName:DMPWIN1 -->
+		<!-- ServerName:DMPWIN5 -->
 	
 
 </p>
@@ -593,4 +674,4 @@ TravelCLICK strives to offer its visitors the many advantages of Internet techno
 
 
 
-</body></html>
+</td></tr></tbody></table></td></tr></tbody></table></center></body></html>
