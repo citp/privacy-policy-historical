@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ni.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618102341id_/http%3A//www.ni.com/legal/privacy/unitedstates/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ni.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211190605id_/http%3A//www.ni.com/legal/privacy/unitedstates/us) for the most accurate reproduction.*
 
 # National Instruments Privacy Statement - Legal Information - National Instruments
 
@@ -43,7 +43,7 @@ We have invested time and resources to ensure that our online and internal secur
 If you do not feel comfortable submitting your payment information online, we do offer a print and fax purchasing option by which you can print the contents of your shopping cart and fax your order to us. You also can contact us to place your order via phone, fax, or e-mail. 
 
 **Is my information shared with third parties?**  
-To keep your information confidential, NI does not release your personal information, except as we describe below or as required by law. We only use the personal information we collect to support and develop your relationship with NI, our affiliates, and our strategic business partners. Some of these partners and affiliates may be located in other countries. NI will not release your personal information to our strategic business partners unless they are bound by a data protection nondisclosure agreement. 
+To keep your information confidential, NI does not release your personal information, except as we describe below or as required by law. We only use the personal information we collect to support and develop your relationship with NI, our affiliates, and our strategic business partners. Some of these partners and affiliates may be located in other countries. 
 
 _NI Alliance Program_  
 Because our [Alliance Program](https://web.archive.org/alliance/) members are specialized experts, we may ask an Alliance Program member to contact you regarding a service or product you request. In this case, we share only the appropriate information with the Alliance Program members or other integrators. The Alliance Program member then contacts you regarding your request. 
