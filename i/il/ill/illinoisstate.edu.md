@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illinoisstate.edu privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408023438id_/http%3A//www.illinoisstate.edu/home/privacy/web_privacy_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illinoisstate.edu privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211164524id_/http%3A//www.illinoisstate.edu/home/privacy/web_privacy_notice.pdf) for the most accurate reproduction.*
 
 # Web Privacy Notice and Practices
 
