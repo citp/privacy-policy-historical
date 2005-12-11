@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wibw.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206232201id_/http%3A//www.wibw.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wibw.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211085411id_/http%3A//www.wibw.com/unclassified/647.html) for the most accurate reproduction.*
 
 # WIBW | GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
@@ -100,7 +100,7 @@ By using a GTGI website, you signify your agreement to the terms of our privacy 
 
 If we decide to change this privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
 
-If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to [lisa.bishop@gray.tv](mailto:lisa.bishop@gray.tv.com) or send a letter to the following address:
+If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to [lisa.bishop@gray.tv](mailto:lisa.bishop@gray.tv) or send a letter to the following address:
 
 Gray Television Group, Inc.  
 Attn: Lisa Bishop  
@@ -139,4 +139,4 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
 
 This Privacy Policy was last updated on Dec. 20, 2004 and is effective immediately.
 
-Copyright © 2004 Gray Television Group, Inc. All rights reserved.
+Copyright © 2005 Gray Television Group, Inc. All rights reserved.
