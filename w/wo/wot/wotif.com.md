@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623130723id_/http%3A//www.wotif.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212001414id_/http%3A//www.wotif.com/Privacy.jsp) for the most accurate reproduction.*
 
 # Wotif.com: Privacy
 
@@ -8,7 +8,7 @@ At Wotif.com ("Wotif") we are committed to protecting the privacy and security o
 
 This privacy policy explains how Wotif handles and protects your PII in accordance with commonly accepted privacy principles. This policy was last adjusted on 17 May 2004. 
 
-Wotif reserves the right to modify or amend this policy at any time and for any reason. Any material changes to this privacy policy will be posted prior to their implementation. Questions regarding this policy should be emailed to [privacy@wotif.com](mailto:privacy@wotif.com?subject=\[privacy%20policy\]) or sent via postal mail to: Wotif.com Pty. Ltd., Attention: Privacy Officer, 13 Railway Terrace, Milton, QLD, 4064, Australia.
+Wotif reserves the right to modify or amend this policy at any time and for any reason. Any material changes to this privacy policy will be posted prior to their implementation. Questions regarding this policy should be emailed to [privacy@wotif.com](mailto:privacy@wotif.com?subject=\[privacy%20policy\]) or sent via postal mail to: Wotif.com Pty Ltd, Attention: Privacy Officer, 13 Railway Terrace, Milton, Qld, 4064, Australia.
 
 What information we collect
     In an effort to keep our service as simple and easy as possible we do not create, use or store profiles of our customers. We only record PII and other information that we reasonably require to do business with you. more info
