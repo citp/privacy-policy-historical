@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forumco.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405192049id_/http%3A//www.forumco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumco.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211190317id_/http%3A//www.forumco.com/privacy.html) for the most accurate reproduction.*
 
 # ForumCo Privacy Statement
 
@@ -18,11 +18,9 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 You can send email to info@forumco.com 
 
-We use a number of advertising networks on our website, you may view their privacy statements here,
+We use Google AdSense on our website, you may view their privacy statement here,
 
-[Amazingmedia Privacy Statement](http://www.amazingmedia.com/coinfo/policies.jsp)
-
-[Dimeclicks Privacy Statement](http://www.dimeclicks.com/privacy.html)
+[Google Privacy Statement](http://www.google.com/privacy.html)
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact,
 
