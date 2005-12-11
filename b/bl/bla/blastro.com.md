@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blastro.com privacy policy that was archived on 2005-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050317090423id_/http%3A//www.blastro.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastro.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211184750id_/http%3A//www.blastro.com/policy.html) for the most accurate reproduction.*
 
 # Music Videos on BLASTRO - the best Rap, Hip Hop, R&B, Pop, Dance and Rock videos
 
@@ -53,4 +53,4 @@ If you would like to change or modify information you previously provided to us,
 Send your request via post to: 609 W. 18th Street, Suite C, Austin, Texas 78701 
 
 Contacting the Website   
-If you have any questions regarding this privacy statement, the practices of this site or your dealings with this Website, you may contact: 
+If you have any questions regarding this privacy statement, the practices of this site or your dealings with this Website, you may contact: [info@blastro.com](mailto:info@blastro.com)
