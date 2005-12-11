@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618075342id_/http%3A//anz.com/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211182919id_/http%3A//anz.com/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
 
 # ANZ Web Site Privacy and Security Statement
 
@@ -20,7 +20,7 @@ ANZ Website Security and Privacy Statement
 
 About This Security and Privacy Statement
 
-This Security and Privacy Statement applies to this website which is operated by Australia and New Zealand Banking Group Limited (ABN 11 005 357 522) ("ANZ") under the domain name "www.anz.com" ("ANZ website"). The ANZ website is operated on behalf of ANZ and its related bodies corporate (together called the "ANZ Group"). The information described in this Security and Privacy Statement may be shared between members of the ANZ Group.
+This Security and Privacy Statement applies to this website which is operated by Australia and New Zealand Banking Group Limited (ABN 11 005 357 522) ("ANZ") under the domain name "www.anz.com" ("ANZ website"). The ANZ website is operated on behalf of ANZ and its related bodies corporate (together called the "Australia and New Zealand Banking Group Group"). The information described in this Security and Privacy Statement may be shared between members of the Australia and New Zealand Banking Group.
 
 This Security and Privacy Statement may also apply to services offered by ANZ on websites hosted by third parties. If so, express reference to this Security and Privacy Statement will be made on those websites. 
 
@@ -28,7 +28,7 @@ ANZ understands and appreciates that you, as an ANZ website visitor, are concern
 
 As the ANZ website develops and as technology evolves, ANZ will continue to strive to provide you with better and more customised services and with a more effective website. ANZ encourages you to review the Security and Privacy Statement periodically because the Security and Privacy Statement may change from time to time. 
 
-ANZ has an [ANZ Privacy Policy](https://web.archive.org/australia/aboutanz/PrivacyPolicy/), which explains how ANZ generally protects your privacy and confidentiality. The principles set out in this ANZ Privacy Policy also apply to ANZ websites. 
+The [ANZ Privacy Policy](https://web.archive.org/australia/aboutanz/PrivacyPolicy/) explains how ANZ generally protects your privacy and confidentiality. The principles set out in the ANZ Privacy Policy also apply to ANZ websites. 
 
 In addition to the provisions of this Security and Privacy Statement, there may also be specific and additional privacy provisions which apply to certain sections of the ANZ website. Because those specific and additional provisions also relate to your privacy protection, you should review them wherever they are accessible by you on the ANZ website. In the event of any inconsistency between the provisions of this Security and Privacy Statement and those other specific and additional provisions, the specific and additional provisions will prevail. 
 
@@ -36,15 +36,15 @@ ANZ takes reasonable steps to preserve the security of cookie and personal infor
 
 ANZ regularly reviews developments in security and encryption technologies. Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although ANZ strives to protect such information, ANZ cannot ensure or warrant the security of any information you transmit to us or from our online products or services and you do so at your own risk. Once we receive your transmission, we take reasonable steps to preserve the security of the information in our own systems. 
 
-The information that we will collect about you will depend on how you use the facilities offered by the ANZ website. 
+The information that ANZ collects about you is dependent on how you use the facilities offered by the ANZ website. 
 
 If you visit an unsecure area of the ANZ website (that is, an area where you are not required to log on) to read, browse or download information, our system will record the date and time of your visit to our site, the pages viewed and any information downloaded. However, our systems will not record any personally identifiable information. 
 
 The ANZ website offers a number of interactive facilities including tools such as budget planners and home loan calculators, as well as online application forms. 
 
-If you use any of the tools such as the budget planner or home loan calculator we generally do not capture any personal information that you may enter when using these tools. An exception is where a tool such as a budget planner allows you to suspend or save your plan and retrieve the details at a later time. In that case the information is stored on our systems so that you may recover the information when you resume your plan. Any information stored in a suspended or saved budget planner or other similar tool will not be viewed by ANZ. 
+If you use any of the tools such as the budget planner or home loan calculator we generally do not capture any personal information that you may enter when using these tools. An exception to this is when a tool such as a budget planner allows you to suspend or save your plan and retrieve the details at a later time. In that case the information is stored on our systems so that you may recover the information when you resume your plan. Any information stored in a suspended or saved budget planner or other similar tool will not be viewed by ANZ. 
 
-If you decide to complete an online application form, the information that you enter into the online form will only be collected by us if you submit your online application. If at any stage you cancel your application or log out prior to submitting your application, the information you have entered up to that point will be automatically deleted. If you suspend or save your application, for example because you wish to complete it at another time, the information that you have entered will be retained in our systems so that you may recover the information when you resume your application. You may only recover this information within 30 days. After this time, the information is deleted. Online applications that have been suspended or saved will not be viewed by us and are not processed by us. 
+If you decide to complete an online application form, the information that you enter into the online form will only be collected by ANZ if you submit your online application. If at any stage you cancel your application or log out prior to submitting your application, the information you have entered up to that point will be automatically deleted. If you suspend or save your application, for example because you wish to complete it at another time, the information that you have entered will be retained in our systems so that you may recover the information when you resume your application. You may only recover this information within 30 days. After this time, the information is deleted. Online applications that have been suspended or saved will not be viewed by us and are not processed by us. 
 
 The ANZ website also contains links to the websites of third party providers of goods and services ("Third Party websites"). If you have accessed Third Party websites through the ANZ website and if those third parties collect information about you, ANZ may also collect or have access to that information as part of our arrangements with those third parties. 
 
@@ -68,7 +68,6 @@ When you access the ANZ website after viewing an ANZ advertisement on a Third Pa
 In addition, ANZ also uses the following companies to collect information on how you utilise the ANZ website: 
 
   * Nielsen//NetRatings 
-  * Memetrics Pty Ltd
 
 
 
@@ -85,7 +84,6 @@ Find out more about Nielsen//NetRatings.
 You can access the Privacy Statements from the Companies here: 
 
   * Nielsen//NetRatings 
-  * Memetrics
 
 
 
@@ -109,7 +107,6 @@ Accordingly, if you wish to make full use of the ANZ website, it is required tha
 ANZ also uses cookies for secure services (that is, an area where you are required to log on) on the ANZ website. These cookies are used for a variety of purposes, including for security and personalisation reasons. If your browser is configured to reject all cookies you will be unable to use secure services on the ANZ website that require cookies in order to participate. Those services include (but are not limited to): 
 
   * ANZ Internet Banking; 
-  * _runningmybusiness_ ; 
   * Online applications;
 
 
@@ -124,5 +121,5 @@ You acknowledge and accept that your use of the ANZ website indicates your accep
 
 This is the current Security and Privacy Statement. It replaces any other Security and Privacy Statement for the ANZ website published on the ANZ website to date. ANZ may at any time vary the Security and Privacy Statement by publishing the varied Security and Privacy Statement on the ANZ website. You accept that by doing this, ANZ has provided you with sufficient notice of the variation. 
 
-Date of Publication - 8 November 2004 - Version 7   
+Date of Publication - 5 October 2005 - Version 8   
 Adobe and Acrobat Reader are trademarks of Adobe Systems Incorporated
