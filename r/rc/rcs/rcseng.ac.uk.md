@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rcseng.ac.uk privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208024234id_/http%3A//www.rcseng.ac.uk/legal/privacy_html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcseng.ac.uk privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211114050id_/http%3A//www.rcseng.ac.uk/footer/privacy.html) for the most accurate reproduction.*
 
-# The Royal College of Surgeons of England : Privacy Statement
+# Privacy statement — The Royal College of Surgeons of England
 
 The website of The Royal College of Surgeons of England does not store or capture personal information, but merely logs the user’s IP address which is automatically recognised by the Web server.
 
@@ -29,5 +29,3 @@ If you are connected to the Internet your computer will have an IP address. For 
 ### Web Server
 
 A computer that hosts a website and delivers (serves up) web pages to your personal computer.
-
-Page last updated: 20 November 2003
