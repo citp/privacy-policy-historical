@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpaonline.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305083821id_/http%3A//www.findaccountingsoftware.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaonline.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211141417id_/http%3A//www.findaccountingsoftware.com/support/privacy) for the most accurate reproduction.*
 
 # Find Accounting Software :: Subscribe to inSITE Direct
 
