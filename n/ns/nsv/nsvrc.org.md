@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsvrc.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305051735id_/http%3A//www.nsvrc.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsvrc.org privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211122224id_/http%3A//www.nsvrc.org/privacy.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -10,7 +10,7 @@ Our postal address is
 123 N. Enola Dr.  
 Enola, PA 17025
 
-We can be reached via e-mail at [resources@nsvrc.org](mailto:resources@nsvrc.org)  
+We can be reached via e-mail at [resources@nsvrc.org](mailto:resources@nsvrc.org)   
 or you can reach us by telephone at 717-909-0710.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name (if possible), but not the e-mail address .
