@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogoshopper.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205161043id_/http%3A//www.gogoshopper.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogoshopper.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211154356id_/http%3A//www.gogoshopper.com/privacy.htm) for the most accurate reproduction.*
 
 # GoGoShopper.com Privacy Statement
 
@@ -14,7 +14,7 @@ Anytime you visit, we will NOT collect and store any of the following informatio
 
 The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or harvard.edu, if you are connecting from Harvard University's domain); the date and time; the Internet address of the web site you left to visit us; the names of the pages you visit while at our site; and the Internet address of the web site you then visit. 
 
-Note: We do have two online site statistical tools: hitbox and sitemeter. This information allows us to improve the site and make it more useful. But we never collect and store any of your information. We promise that.   
+Note: We do have an online site statistical tool: addfreestats. This information allows us to improve the site and make it more useful. But we never collect and store any of your information. We promise that.   
 
 
 * * *
