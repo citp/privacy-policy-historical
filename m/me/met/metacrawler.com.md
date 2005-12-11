@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208232703id_/http%3A//www.metacrawler.com/info.metac/search/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211215037id_/http%3A//www.metacrawler.com/info.metac/search/help/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - MetaCrawler
 
- | |  **Privacy Policy**  
----  
+**Privacy Policy**  
    
 InfoSpace, Inc. ("InfoSpace") owns and operates a number of different sites on the Web (each, an "InfoSpace Site"). InfoSpace is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information InfoSpace may gather about individuals who visit the InfoSpace Sites, how that information is used, and InfoSpace's disclosure practices. Please note that this policy applies only to the InfoSpace Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the InfoSpace Sites.  
  **Anonymous User Information**  
@@ -21,10 +20,7 @@ The InfoSpace Site located at www.go2net.com offers customization capabilities. 
  **Directory Services**  
    
 InfoSpace offers certain personalization services within its directory services (i.e., White Pages and Yellow Pages) that enable you to give us your geographic location so we can remember it for you when you return to use our service. For example, if we know that you are searching from Bellevue, Washington for a particular company, we will pre-populate the city and state fields with Bellevue and Washington. While you are not required to use this feature of the directory services, the information enables us to provide you with a more efficient experience on the InfoSpace Sites. In addition, InfoSpace allows you to update, correct any errors in the listings, or include yourself in the directory services. In order to make these modifications, you may provide InfoSpace with certain individual user information that InfoSpace will use, along with its affiliates and third party service providers, to modify and update your information in the directory services database. Yellow Pages listings are supplied by Verizon SuperPages. To add or update your existing free basic Yellow Pages listing, please go to the following web site: https://snap.superpages.com/NASApp/Listing/control/ViewListing. To delete your listing, please call the customer service department at 1-800-428-8722, stay on the line without pushing any prompts, and a representative will assist you. You may update or delete your White Pages listing by [searching the White Pages](http://www.metacrawler.com/info.metac/white-pages) or [e-mail search](http://www.metacrawler.com/info.metac/wp/email/index.htm) to find your listing. Once you have located it, simply click the update or remove link. To verify your request, InfoSpace will send an e-mail message to the address that you provide. Once you confirm the request, your listing will be updated or deleted. Please allow approximately 24 hours for the update to become active after we receive your confirmation.  
- **Public Records Services**  
-   
-When you register to use the InfoSpace Public Records service, you provide InfoSpace with an e-mail address, birth date, zip code, billing address, and credit card information. If you choose not to provide the requested information, InfoSpace may not be able to offer you the Public Records services that depend on this type of information to function. The credit card information is used to process any payments authorized by you for the Public Records services. We require personal information for billing purposes only. This information is only used to complete a transaction and will not be added to any of the Public Records Search databases.Our databases are extracted from public records compiled from existing databases all over the United States. InfoSpace does not actually create these records. We simply give you the ability to search them. InfoSpace cannot add or delete records form the public databases displayed through the Public Records service. To successfully remove your information, you must remove it from the underlying public record database. If you have questions about the Public Records service please go to the following website: <http://www.metacrawler.com/info.metac/tads/help/contactus.htm>  
-**User Groups**  
+ **User Groups**  
    
 When you register for a user group on any of the InfoSpace Sites, you are asked for your individual user information. The individual user information may be collected and stored by a third party partner. This partner will store your individual user information on their servers for a period of time at which InfoSpace will assume such storage responsibilities and your information will be deleted from their servers. The partner will not have InfoSpace's permission to use your individual user information for secondary purposes. If you choose to participate in a user group, your individual user information will be used to qualify you and to contact you for various projects at InfoSpace's discretion. InfoSpace may share your individual user information with a third party with whom InfoSpace has entered into an agreement to support such user group projects. You may opt out at any time by following the opt out provisions of this privacy policy.  
  **Tell-A-Friend**  
@@ -47,8 +43,8 @@ Though we make every effort to preserve your privacy, we may need to disclose pe
 In the event InfoSpace goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.  
  **Choice/Opt-out**  
    
-We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please email us at [privacy@infospace.com](mailto:privacy@infospace.com)If you have questions about public record information available through the Public Records service, please go to the following web site for additional information: <http://www.metacrawler.com/info.metac/tads/help/contactus.htm>  
-**Notification of Changes**  
+We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please email us at [privacy@infospace.com](mailto:privacy@infospace.com)  
+ **Notification of Changes**  
    
 If we decide to change our privacy policy, we will post those changes to this privacy statement in places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use Individually Identifiable Information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days   
 **Special Notification with respect to Children's Privacy (Users under the age of 13)**  
@@ -64,5 +60,4 @@ InfoSpace, Inc.
 Bellevue, Washington 98004 USA   
 \+ (1) 425.201.6100 phone   
 \+ (1) 425.201.6150 fax   
-E-mail: [kidsprivacy@infospace.com](mailto:kidsprivacy@infospace.com)  
- 
+E-mail: [kidsprivacy@infospace.com](mailto:kidsprivacy@infospace.com)
