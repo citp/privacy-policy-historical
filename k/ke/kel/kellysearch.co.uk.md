@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2005-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050522235547id_/http%3A//www.kellysearch.co.uk/infozone/resources/privpolicy.asp%3Fsearch-location%3Dgb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211210752id_/http%3A//www.kellysearch.co.uk/infozone/resources/privpolicy.asp%3Fsearch-location%3Dgb) for the most accurate reproduction.*
 
 # Kellysearch - Privacy policy
 
@@ -43,7 +43,7 @@ Changes to this policy will be posted here.
    
  **To alter your details**  
    
-If your personal information changes you can alter the details we hold by accessing the [My Kellysearch](http://my.kellysearch.com/mykellysearch/login.aspx) service  
+If your personal information changes you can alter the details we hold by accessing the [My Kellysearch](http://my.kellysearch.com/login.aspx) service  
    
  **Your comments**  
    
