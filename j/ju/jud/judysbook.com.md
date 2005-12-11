@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206195404id_/http%3A//www.judysbook.com/corp/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211163521id_/http%3A//seattle.judysbook.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Judy's Book
 
 Judy's Book is committed to protecting the privacy of our users. This privacy policy explains when and how personal information is collected, used, disclosed and protected with respect to our web site located at www.judysbook.com (the "Site"). By using the Site, you consent to the privacy practices described in this Policy, as modified from time to time by us. Please carefully review this policy so you understand our data privacy practices. 
 
@@ -82,6 +82,3 @@ If you terminate your account or delete/change your data or content, we usually 
 We reserve the right to change this Policy at any time. We may use personal information for new, unanticipated uses not previously disclosed in this privacy policy. If our privacy practices change we will post the policy changes to our web site and notify you by indicating the date the privacy policy was last updated. We will also provide you with the ability to opt out of these new uses. We encourage you to check back at our web site periodically if you are concerned about how your information is used. 
 
 ##### Last Updated: August, 2004
-
-  
-
