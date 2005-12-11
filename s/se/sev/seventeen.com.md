@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seventeen.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307225156id_/http%3A//www.seventeen.com/about/spc/0%2C15216%2C625917_627722%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seventeen.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211222127id_/http%3A//www.seventeen.com/about/spc/0%2C%2C625917_627722%2C00.html) for the most accurate reproduction.*
 
 # Seventeen.com Privacy Policy
 
@@ -84,7 +84,7 @@ This policy was last updated on Januray 1, 2005.
 **Contacting us**   
 If you have any questions about our privacy policy, the practices of this site or your dealings with it, you can contact:   
 **Seventeen.com**   
-1440 Broadway, 20th Floor   
+1440 Broadway, 13th Floor   
 New York, NY 10018 
 
 [webfeedback@seventeen.com](mailto:webfeedback@seventeen.com)
