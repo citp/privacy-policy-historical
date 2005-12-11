@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotels-rates.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205020323id_/http%3A//www.hotels-rates.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels-rates.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211095935id_/http%3A//www.hotels-rates.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Hotels-Rates.com
 
