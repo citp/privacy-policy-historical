@@ -1,11 +1,16 @@
-> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203204436id_/http%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211145105id_/http%3A//indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
 
 # Privacy Policy : SF Bay Area Indymedia
 
 [](https://web.archive.org/calendar/) [](http://www.enemycombatantradio.net/) [](https://web.archive.org/news/2003/12/1665904.php)
 
+$3.00 donated in past month
+
   
 **africa**
+
+  
+**asia**
 
   
 **canada**
@@ -88,10 +93,12 @@ To secure site integrity, the SF Bay Area IMC employs measures including but not
 
 #### ENFORCEMENT
 
-In the event that the SF Bay Area IMC becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to law enforcement activities or external security attacks, the SF Bay Area IMC shall take reasonable measures which it deems appropriate, including internal investigation and, if required, cooperation with our web host, Transbay.Net.
+In the event that the SF Bay Area IMC becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to law enforcement activities or external security attacks, the SF Bay Area IMC shall take reasonable measures which it deems appropriate, including internal investigation and, if required, cooperation with our web hosts, Transbay.net and Communitycolo.net.
 
 If the SF Bay Area IMC becomes aware that a user's personal information provided to the SF Bay Area IMC has been disclosed in a manner not permitted by this Privacy Policy, the SF Bay Area IMC shall make reasonable efforts to notify the affected user, as soon as reasonably possible, of what information has been disclosed, to the extent that the SF Bay Area IMC knows this information.
 
 #### UPDATES TO THE PRIVACY POLICY
 
 To update the privacy policy, we will post the changed version and its effective date at <http://www.indybay.org/>.
+
+> Cameryn Boyd was murdered. The police continue to kill young blacks and continue to justify themselves , because they are the "Police".... and that gives them the right (in their heads) to do whatever they think they can get away with...which is pretty much anything. These murders need to stop. Whoever wrote that Cameryn Boyd was a punk, is probably a cop. And whoever likened his Mother to the Wendy's finger lady is off their rocker. The police murdered a double amputee in cold blooded murder. They are getting paid to murder , torture and beat citizens. The police departments need to be ridden of the officers that do more harm than good. I don't know the answers. But I, as a Mom, I am overwhelmed with grief, and tired of going to young peoples funerals . Young people are not supposed to die... it's supposed to be the old folks!! And I support Marilyn . Maybe she will be the Mom that makes the difference...these murders must end!!! And I for one, I won't call a cop when there's a problem, because they (the cops) are so scarey. And I'm white! 
