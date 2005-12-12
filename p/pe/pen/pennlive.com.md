@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305010048id_/http%3A//www.pennlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212044751id_/http%3A//www.pennlive.com/privacypolicy) for the most accurate reproduction.*
 
 # PennLive.com: Privacy Policy
 
@@ -63,7 +63,7 @@ Privacy Policy Coordinator
 Harrisburg, PA 17110 
 
 |  |    
-[](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/537135928/SponsorRight/default/empty.gif/64316564656561643432323930346330)   
+  
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
 » [Media Kit](https://web.archive.org/mediakit/)  
@@ -74,6 +74,11 @@ INSIDE
   
   
   
+| **FROM OUR ADVERTISERS**  
+---  
+>>   
+>>    
+>>   
   
   
 
