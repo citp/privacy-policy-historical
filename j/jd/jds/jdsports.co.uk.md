@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdsports.co.uk privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206181930id_/http%3A//www.jdsports.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdsports.co.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141649id_/http%3A//www.jdsports.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # JD Sports - Privacy
 
