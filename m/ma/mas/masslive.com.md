@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masslive.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305015918id_/http%3A//www.masslive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masslive.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212154551id_/http%3A//www.masslive.com/privacypolicy) for the most accurate reproduction.*
 
 # MassLive.com: Privacy Policy
 
@@ -62,7 +62,7 @@ Privacy Policy Coordinator
 41 Taylor Street  
 Springfield, MA 01103 
 
-|  | [](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.masslive.com/showcase/sliding.ssf/NQS/1652896601/SponsorRight/default/empty.gif/64316564656561643432323931323730)   
+|  |    
   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
@@ -72,7 +72,11 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.masslive.com/privacypolicy/index.ssf/NQS/948274487/Tile1/MASSLIVE/MA_JOBFAIR_03/jobfair_190_05.gif/64316564656561643432323931323730)   
+  
+| **FROM OUR ADVERTISERS**  
+---  
+>>   
+>>   
   
   
 
