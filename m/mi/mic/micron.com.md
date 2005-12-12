@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404011016id_/http%3A//www.micron.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212092756id_/http%3A//www.micron.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**This Privacy Policy applies to all Web sites owned and operated by Micron Technology, Inc. and its subsidiaries ("Micron"), other than Micron's Crucial Technology division whose Privacy Policy may be viewed[here](http://www.crucial.com/store/security.asp).**
+**This Privacy Policy applies to all Web sites owned and operated by Micron Technology, Inc. and its subsidiaries ("Micron"), other than Micron's Crucial Technology division whose Privacy Policy may be viewed[here](http://www.crucial.com/store/privacy.asp).**
 
 Micron is committed to protecting your right to privacy when visiting our Web sites. We recognize that when you share your personal information with us, you expect us to treat that information in a serious and responsible manner. This Privacy Policy discloses what information we gather, how we use that information, and how you can correct or change that information.
 
@@ -39,6 +39,11 @@ We may use your IP address to help diagnose problems with our servers, administe
 **Cookies**  
 Our Web servers may place small bits of text or "cookies" onto your computer's hard drive and memory. Cookies enable us to identify you so you do not have to re-enter certain information each time you visit our sites and allow us to keep track of your shopping choices.
 
+Often we use third-party services to help us measure the effectiveness of our Web site. Specifically, we use WebSideStory. This company may place third-party cookies on your hard drive to help us analyze the traffic on our Web site and better meet our customers' needs. This does not give Micron or any other company access to your personal information or other information on your computer. We do not track or store any personally identifiable information. If you are concerned, you can set your browser to decline third-party cookies, or you can delete these cookies from your hard drive. To learn more about our partnership and their privacy policies, or to opt out of receiving cookies from them, go to [http://websidestory.com/privacy](https://web.archive.org/leaving.aspx?go=websidestory)
+
+**Agents**  
+We may employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and providing customer service. 
+
 **Supplemental Information**  
 We may supplement the information that you provide with information that is received from third parties. For example, Micron may use information that we purchase from a database marketing information firm to enhance our understanding of the information that you provide.
 
@@ -55,7 +60,7 @@ If you want to change or modify information you have previously provided to us, 
 If you have any questions about Micron's Privacy Policy or the privacy practices of our sites, please contact us by sending an email to [privacy@micron.com](mailto:privacy@micron.com). 
 
 **Updates/Effective Date**  
-Micron reserves the right to amend this Privacy Policy from time to time. Changes to the Policy will apply to information we have already received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web site to view the most current Policy. The effective date of this version of the Privacy Policy is: July 1, 2004.  
+Micron reserves the right to amend this Privacy Policy from time to time. Changes to the Policy will apply to information we have already received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web site to view the most current Policy. The effective date of this version of the Privacy Policy is: September 28, 2005.  
 
 
   
