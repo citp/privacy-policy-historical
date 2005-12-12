@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the planetfootball.com privacy policy that was archived on 2004-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040810145630id_/http%3A//www.skysports.com/skysports/disclaimer/privacy/0%2C%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetfootball.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212132606id_/http%3A//home.skysports.com/articlefp.asp%3Fhlid%3D299447) for the most accurate reproduction.*
 
 # Sky Sports - The Best Sport Coverage From Around The World
 
-This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.sky.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.
+## Privacy Statement
+
+By Sky Sports - Created on 5th May 2005
+
+This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.sky.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details. 
 
 "You" shall mean you, the user of the Site. "We/Us" means British Sky Broadcasting Ltd and any member of the British Sky Broadcasting Group of companies "Users" means the users of the Site collectively and/or individually as the context allows. 
 
 We process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation.
 
-**Data Collection**
+### Data Collection
 
 When using the Site You may encounter areas such as games, competitions, chat forums, shopping or video services where You may be asked to enter User Information. Such User Information will only be used for the purposes for which it was collected, for any other purposes specified at the collection point and in accordance with this Privacy Policy.
 
-**How we may use your data**
+### How we may use your data
 
 By entering Your User Information, You accept that we may retain Your User Information and that it may be held by Us or any third party company which processes it on Our behalf.
 
@@ -26,28 +30,28 @@ We shall be entitled to use Your User Information for the following purposes:
 
 **For your convenience you can withdraw consent by replying to the "unsubscribe" link in e-mails from us.**
 
-Please also note that we do not disclose your personal information to third parties to enable them to send you direct marketing without your permission to do so. 
+Please also note that we do not disclose your personal information to third parties to enable them to send you direct marketing without your permission to do so.
 
-**Cookies**
+### Cookies
 
 You should be aware that information and data may be automatically collected through the use of Cookies. "Cookies" are small text files that store basic information that a web site can use to recognise repeat site visits and as an example, recall your name if this has been previously supplied. We may use this to observe behaviour and compile aggregate data in order to improve the Site, target the advertising and assess general effectiveness of such advertising.
 
 Cookies do not attach to Your system and damage Your files. If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookie feature. Note, however, that "personalised" services may be affected if the cookie option is disabled.
 
-If you wish to disable the setting of cookies in your browser, please click here for instructions.
+If you wish to disable the setting of cookies in your browser, please see below .
 
-**Security and Data Retention**
+### Security and Data Retention
 
 Security is very important to Us. Secure Socket Layer ("SSL") encryption technology is used for protection of information in transit for any sensitive transactions such as payments. Additional security procedures are in place to protect the confidentiality, integrity and availability of Your User information.
 
 We will comply with all relevant Data Protection legislation in relation to the period for which We retain any information You disclose to us.
 
-**Updates**
+### Updates
 
 You may notify Us of any updates, amendments and corrections to previously collected User Information by using the Feedback Form link in the Contact Us section of the site.
 
 We may change this privacy policy from time to time and you should check these regularly. Your use of the Sky Site will be deemed an acceptance of the privacy policy existing at that time.
 
-**Contact**
+### Contact
 
 Any site that you may connect to from here is not covered by this Privacy Policy.
