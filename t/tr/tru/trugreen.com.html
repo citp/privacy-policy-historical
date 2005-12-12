@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trugreen.com privacy policy that was archived on 2005-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050408082218id_/http%3A//www.trugreen.com/tg/privacy.dsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trugreen.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212134521id_/http%3A//trugreen.com/tg/privacy.dsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -151,8 +151,10 @@ function onLoad() {
 
 
 		<div id="footer" style="text-align: center; padding-top: 0;">
+	<!-- <div id="right"><a href="/tg/privacy.dsp">ServiceMaster Privacy Policy</a> | <a href="/tg/siteMap.dsp" title="View the site map">Site Map</a><p class="copyright">&#169; 2000&ndash;<span id="cdate"></span>  TruGreen Companies L.L.C.  All rights reserved.</p></div>
+	<div id="left"><a href="http://corporate.servicemaster.com/"><img src="/media/logoFooter.gif" width="136" height="24" alt="ServiceMaster" border="0" /></a></div> -->
 <a href="http://corporate.servicemaster.com/"><img src="/media/logoFooter.gif" alt="" width="136" height="24" border="0" style="padding-top: 8px; float: right;"></a>
-	<a href="/tg/privacy.dsp">ServiceMaster Privacy Policy</a> | <a href="/tg/siteMap.dsp" title="View the site map">Site Map</a> | <a href="/lawn-care.asp">Lawn Care Directory</a> | © 2000–<span id="cdate">2020</span>  TruGreen Companies L.L.C.  All rights reserved. 
+	<a href="/tg/privacy.dsp">ServiceMaster Privacy Policy</a> | <a href="/tg/siteMap.dsp" title="View the site map">Site Map</a> | © 2000–<span id="cdate">2020</span>  TruGreen Companies L.L.C.  All rights reserved. 
 
 </div>
 
@@ -186,7 +188,7 @@ document.getElementById("cdate").innerHTML = now.getFullYear();
 <!-- © 1996-2005 NetIQ Corporation. All rights reserved.-->
 <!-- $DateTime: 2005/02/02 09:00:00 $ -->
 <script language="Javascript"><!--
-gVersion="1.1";
+gVersion="1.0";
 //-->
 </script>
 <script language="Javascript1.1"><!--
@@ -258,10 +260,10 @@ function dcsVar(){
 	DCS.dcsdat=dCurrent.getTime();
 	DCS.dcssip=window.location.hostname;
 	DCS.dcsuri=window.location.pathname;
-	if (window.location.serach){
+	if (window.location.search){
 		DCS.dcsqry=window.location.search;
 	}
-	if ((window.document.referref!="")&&(window.document.referrer!="-")){
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
 		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
 			DCS.dcsref=window.document.referrer;
 		}
@@ -284,7 +286,7 @@ function dcsVar(){
 	DCSext.flash_ver='0.0';
 	
 	if (navigator.plugins && navigator.plugins.length) {			//Dig through Netscape-compatible plug-ins first.
-		for (x=0; x < navigaotr.plugins.length; x++) {
+		for (x=0; x < navigator.plugins.length; x++) {
 			if (navigator.plugins[x].name.indexOf('Shockwave Flash') != -1) {
 				DCSext.flash_ver = navigator.plugins[x].description.split('Shockwave Flash ')[1];
 				DCSext.flash_ins = "y";
@@ -294,7 +296,7 @@ function dcsVar(){
 	}else if (window.ActiveXObject) {						//then, dig through ActiveX-style plugins afterwords
 		for (x = 2; x <= flash_versions; x++) {
 			try {
-				oFlash = eval("new ActiveXObject('ShockwaveFlash.ShockWaveFlash." + x + "');");
+				oFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash." + x + "');");
 				if(oFlash) {
 					DCSext.flash_ver = x + '.0';
 					DCSext.flash_ins = "y";
