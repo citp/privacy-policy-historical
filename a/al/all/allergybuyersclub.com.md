@@ -1,49 +1,28 @@
-> *The following text is extracted and transformed from the allergybuyersclub.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527110543id_/http%3A//www.allergybuyersclub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allergybuyersclub.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141614id_/http%3A//www.allergybuyersclub.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Information from Allergy Buyers Club Home
 
-**Privacy Statement for www.allergybuyersclub.com**
+Privacy Statement for AllergyBuyersClub.com
 
-The Tapping Institute has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.allergybuyersclub.com. 
+AllergyBuyersClub.com (ABC) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website: www.allergybuyersclub.com.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. 
+**Contact Information**  
+The customer's contact information is used to get in touch with the customer when necessary and for delivering the product. We use your e-mail address only when we are confirming your order or notifying you of the status of your order unless we have permission to send you updated information about ABC to your email address. We also have put in place privacy protection control systems designed to ensure that your personal data including your billing and account information remain safe and private. We do occasionally share customer information with other reliable and reputable companies. If you prefer that we not share your name or mailing address, please email us at [marketing@allergybuyersclub.com](mailto:marketing@allergybuyersclub.com) with your request.
 
-Our site uses cookies to keep track of your shopping cart. We use cookies to save your password so you don't have to re-enter it each time you visit our site. 
+**Navigational History/Cookies**  
+ABC uses aggregate information from demographic surveys and traffic patterns to customize our site. State-of-the-art comparison technology allows us to use this information to make recommendations based on previous traffic patterns and purchases. ABC uses information only on an aggregate level and does not track information about individuals. Aggregate information may be shared with partners of ABC to plan advertising promotions and offer enhanced web customer service. We do not share any individual information. In addition, ABC only uses cookies to help provide our visitors with a better experience on our site. A cookie is a small piece of information that web sites use to remember information about users. ABC uses two types of cookies to recognize our members and remember shopping list items: (1) transient cookies provide continuity from page to page and store information such as your shopping list to simplify checkout but not personally identifying information; (2) persistent cookies identify members after their first visit and remain on the hard drive of a PC to allow a user to enter our site without having to log in on every visit. You can disable your cookies at any time through your browser options.
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We do not sell unique demographic information, i.e. we will not sell your name, address and/or email address. 
+**Members Mailing List**  
+For those of you who opted in to join the Allergy Buyers Club, we do not make our email list available to other companies. We publish an email newsletter once or twice a month full of informational articles about allergy control, indoor air quality, and our latest allergy control product research. We also make you aware of this month's new or featured products in our online store. We let you know about any money saving "member's specials" in our store or pass along any free offers that manufacturers want to offer to our membership. There is an "opt out" website link at the bottom of each newsletter if you decide that you do not want to receive any further issues. 
 
-This site contains links to other sites. **www.allergybuyersclub.com** is not responsible for the privacy practices or the content of such Web sites. 
+**Order Security**  
+All online transactions in our store are handled with industry-standard Secure Sockets Layer (SSL) encryption. When you enter your credit card number and personal information into the order form, it is transmitted across the Internet in an encrypted (scrambled) form, then decoded when it gets to us. This provides a secure online shopping environment for you, our valued customer. We also provide a [fax form](http://www.allergybuyersclubshopping.com/faxorderform.html) that you can print, fill in and send to our fax at 1-781-890-3560. You may also call in an order by dialing our toll free number 1-888-236-7231 (Mon-Fri 9-5 Eastern time). 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Financial information that is collected is used to bill the user for products and services. 
+**Payment Methods/Shopping Guarantee**   
+Allergy Buyers Club accepts VISA, Mastercard, Discover and American Express credit cards for online payment of merchandise and will accept checks from recognized non-profit organizations (contact ABC for details). We guarantee that every online transaction you make will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, we will only cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
-## Public Forums
+**Your Comments**  
+Sometimes our customers are inspired to tell us about a product that they purchased from the Allergy Buyers Club that they really thought made a difference in their lives. We encourage this, as we love to hear from you, and your comments help us improve our service and product offerings. We occasionally share comments we receive via our website; rest assured, we do not publish any last names or specific address information that may identify you. We also take note of any problems that you may have encountered with a product or service and either get the problem fixed if possible or remove the product from our offerings. We will remove products from our store if the workmanship or quality is less than what we want to offer our customers. 
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-## Security
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. (*Please elaborate on the security measures that you have in place.) 
-
-## Choice/Opt-Out
-
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-  1. You can check a box on the registration form 
-
-
-
-## Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. You can edit your online profile 
-
-
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-Mercia Tapping, President AllergyBuyersClub.com 486 Totten Pond Rd. Waltham, MA 02451 merciamail@[this.domain.name]
+**Other Site Links**  
+This site contains links to other sites. www.allergybuyersclub.com is not responsible for the privacy practices or the content of such websites.
