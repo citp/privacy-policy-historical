@@ -1,65 +1,112 @@
-> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406035620id_/http%3A//iphantom.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212152330id_/http%3A//www.iphantom.com/privacyStatement.html) for the most accurate reproduction.*
 
-# 
+# Phantom Technologies
 
-**SearchPort Privacy Statement**
+**iPhantom.com Privacy Statement**  
+---  
+   
+Last updated: 04/25/2005  
+   
+|  [](http://www.truste.org/ivalidate.php?url=www.iphantom.com&sealid=101) | 
 
-_**POLICY OVERVIEW**_
+Phantom Technologies LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.iphantom.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
+  
+---|---  
+  
+If you have questions or concerns regarding this statement, you should first contact our support team at support@iphantom.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-Welcome to SearchPort’s privacy policy. We at NetVisibilty view the protection of individual privacy as critically important, and we are committed to maintaining the highest standards in the industry. It is our fundamental goal at NetVisibilty to remain a leader in internet-enabled marketing and advertising, while maintaining our commitment to these standards.
+Welcome to the online Privacy Statement page for the iPhantom.com website. We take your privacy seriously and are committed to protecting your personal information while using our website.
 
-The following is SearchPort’s overall company policy related to privacy, as well as a summary of your choice to Opt-Out of our information collection practices. This policy is open to comment and is meant to provide an evolving framework from which we at NetVisibilty can address any concerns of the Internet community.
+We encourage you to review the privacy policies described below in this Privacy Statement. By visiting this website, you are consenting to the personal information practices described in this Privacy Statement.   
+  
+**Privacy Statement Index**  
+|  |  Contact Information   
+---|---  
+|  Providing Users with Anonymous Access  
+|  Collection of your Personal Information  
+|  Use of your Personal Information  
+|  Access to your Personal Information  
+|  Security of your Personal Information  
+|  Use of Cookies  
+|  Protection of Children's Personal Information  
+|  Joint or Co-Branded Products  
+|  Enforcement of this Privacy Policy  
+|  Changes to this Statement  
+**Contact Information**  
+  
+This is the web site of **Phantom Technologies LLC.**  
 
-For more information, or if you have questions or concerns regarding SearchPort’s Privacy Statement, please send us an e-mail at info@netvisibility.com or you can send correspondence to the following address:
 
-Privacy  
-SearchPort.  
-7700 Irvine Center Drive  
-Suite 800  
-Irvine CA 92618
+Our postal address is:  
+**5703 Oberlin Drive, Suite 106  
+San Diego, CA 92121**
 
-_**COMPANY PRACTICES**_
+  
+We can be reached via e-mail at [support@iphantom.com](mailto:support@iphantom.com)  
+or you can reach us by telephone at **1.877.PHANTECH (742.6832)**  
+  
+Return to the top  
+**Providing Users with Anonymous Access**  
+You can access our Web site home page and browse our site without disclosing your personal data.   
+Return to the top  
+**Collection of your Personal Information**  
+  
+For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
-The following statement describes the overall company practices of Searchport.com, including advertising on our network of websites, as well as across other internal sites, and products and services that are offered by Searchport.com.
+We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. We do not log IP addresses of users that visit our site. 
 
-**INFORMATION COLLECTED BY SEARCHPORT**
+We do not partner with or have special relationships with any ad server companies. 
 
-**_Non-Personally Identifiable Consumer Data_**
+We collect the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information, customer support, and/or order processing information. Order processing information that is collected through our website includes mailing and billing addresses, credit card information, and contact information such as email and phone number that are used strictly for order confirmation purposes.   
+  
+Return to the top  
+**Use of your Personal Information**  
+  
+We use personal information for order processing and customer support. 
 
-At SearchPort we collect what is known as "Click Stream Data." Click Stream Data is anonymous, and includes information such as a web surfer's IP address, web pages which have been viewed by a web surfer, date and time, domain type, and responses by a web surfer to an advertisement delivered by us.
+Persons who supply us with their telephone numbers or email address on-line for order processing will receive telephone or email contact from us with information regarding orders they have placed on-line. 
 
-As a part of the registration process, we may request and collect additional non-personally identifiable information about the visitor. Examples of the non-personally identifiable data that may be requested include age, gender, and interests. None of the foregoing information (collectively referred to as "non-personally identifiable data"), by itself, or together, can by its nature be tracked to a specific individual. Web surfers may elect not to provide Click Stream Data by following the Cookie Opt-Out procedures set forth below. In addition, web surfers who have provided registration data may elect to have their data deleted from our files, or kept from being used for purposes other than for the service requested.
+The information we collect is not shared with other organizations for commercial purposes. 
 
-**_Personally-Identifiable Consumer Data_**
+This site utilizes a third party to process and authorize credit card information. This third party does not use the information it is provided for promotional purposes. 
 
-SearchPort will on occasion ask people to register to receive additional information or so that we may contact the individual for follow up. This information is never sold to any other agency or individual for any other use. Examples of personally-identifiable data that may be requested include name, address, and e-mail address.
+We reserve the right to disclose your personally identifiable information if required by law and/or when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.   
+  
+Return to the top  
+**Access to your Personal Information**  
+  
+Upon request we provide site visitors with access to financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them, a description of information that we maintain about them. 
 
-**HOW COLLECTED INFORMATION IS USED**
+Consumers can access this information by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address. 
 
-The non-personally identifiable data that SearchPort collects is used for marketing and sales efforts to better target advertisements and other content to individuals in an effort to create a personally relevant experience for each person. The data is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals.
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site. 
 
-If a consumer elects to provide SearchPort with personally-identifiable data, we may utilize such data for marketing purposes. In addition, that data may be combined with information collected from other sources to assist with targeting ads to that consumer's preferences and behaviors.
+Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, or writing to us at the above address. Consumers can expect a response to such a request after no more than 10 working days.   
+  
+Return to the top  
+**Security of your Personal Information**  
+We use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.   
+Return to the top  
+**Use of Cookies**  
+  
+We use cookies to record session information, such as items that consumers add to their shopping cart. 
 
-**SHARING WITH THIRD-PARTIES**
+We do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals.   
+  
+Return to the top  
+**Collection of Children's Personal Information**  
+We do not knowingly collect or store any personal information from children.  
+Return to the top  
+**Joint or Co-Branded Products**  
+  
+Examples of current businesses that we may offer joint or co-branded products are Freescale Semiconductor Inc.
 
-All personally-identifiable data provided by individuals is maintained in strict confidence by SearchPort and will be treated with the same level of respect and care that SearchPort treats its other proprietary information and trade secrets.
-
-In the event that NetVisibilty or part(s) of the company, may one day be purchased by, or merged with, another company. If that's the case, the acquiring (or merging) company will have access to your information.
-
-Finally, SearchPort may share information on individuals as it deems necessary to comply and cooperate with government and law enforcement officials.
-
-**CONSUMER CHOICE**
-
-**_Changes To Our Privacy Policy_**
-
-The issue of privacy is an evolving one. NetVisibilty is committed to the constant monitoring and examination of its privacy practices, and may, from time to time, institute changes to its privacy policy. In the event that any material changes are made to the company's privacy practices, we will promptly make changes to this privacy policy that discloses the changes.
-
-**_Contacting Us_**
-
-For more information, or if you have questions or concerns regarding SearchPort’s privacy practices, please send us an e-mail at [info@netvisibilty.com](mailto:info@netvisibilty.com), or you can send correspondence to the following address:
-
-Privacy  
-SearchPort.  
-7700 Irvine Center Drive  
-Suite 800  
-Irvine CA 92618
+We do not exchange or share consumers' personal information with our joint or co-branded affiliates.   
+  
+Return to the top  
+**Enforcement of this Privacy Policy**  
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.   
+Return to the top  
+**Changes to this Statement**  
+We may occasionally update or make changes to this privacy statement. We take your privacy seriously and will not adjust our policy to intentionally compromise your personal information. The "last updated" date at the top of the statement will reflect the last date at which the changes were made. Additionally, we may post notices regarding policy changes on the homepage or other pages on our website. We encourage you to check back periodically to review any changes to the policy that may have been made.   
+Return to the top
