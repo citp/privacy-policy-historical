@@ -1,48 +1,44 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206231351id_/http%3A//www.rocklandtrust.com/about/a_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212153110id_/http%3A//www.rocklandtrust.com/privacy.html) for the most accurate reproduction.*
 
-# Rockland Trust: Privacy Policy
+# Rockland Trust : Rockland Trust Company Privacy Information
 
-  |  | [About](https://web.archive.org/web/20041206231351id_/http%3A//www.rocklandtrust.com/about/a_welcome.html)  
----  
-[Branch/ATM Locator](https://web.archive.org/web/20041206231351id_/http%3A//www.rocklandtrust.com/about/a_locator.html)  
-[Site Map](https://web.archive.org/web/20041206231351id_/http%3A//www.rocklandtrust.com/about/a_map.html)  
-[Contact](https://web.archive.org/web/20041206231351id_/http%3A//www.rocklandtrust.com/about/a_contact.html)  
-[Careers](http://company.monster.com/rockland/)  
-[**Privacy Policy**](https://web.archive.org/web/20041206231351id_/http%3A//www.rocklandtrust.com/about/a_privacy.html)  
-[Shareholders](http://www.snl.com/interactive/ir/corp.asp?IID=100325)  
-[News](https://web.archive.org/web/20041206231351id_/http%3A//www.rocklandtrust.com/about/a_news.html)  
+  
+  
+
+
+[](https://web.archive.org/personal/onlinebanking.html)
+
+  
 | 
 
-Rockland Trust Company Privacy Information
+This page includes Rockland Trust's Privacy Notice, Website Privacy Statement, and Privacy: Frequently Asked Questions.
 
-This page includes Rockland Trust's Privacy Notice, Website Privacy Statement, and Privacy: Frequently Asked Questions. Click a blue link to jump to that section or scroll down and read the entire document.
-
-Privacy Notice
+## Privacy Notice
 
 **Rockland Trust - Guardian Of Your Privacy**  
 Rockland Trust Company is devoted to protecting your privacy. We have prepared this notice to outline the measures we take to protect your privacy.
 
-**The Information We Have About You  
-**In the normal course of business we receive information about you ("Your Information"), some of which may not be publicly available. Your Information may include:
+**The Information We Have About You**  
+In the normal course of business we receive information about you ("Your Information"), some of which may not be publicly available. Your Information may include:
 
-  * your name and address, Social Security number, and information about your job, income, other debt, credit references, and other information which we receive from you on applications, forms, in person, by telephone, electronically, or by other means;
-  * information about your transactions, including information about your account balances with us and other institutions, payment history, and account usage;
-  * information we receive from consumer reporting agencies, including information about your creditworthiness; and
-  * information from public sources, such as real estate records and telephone numbers.
+  * Your name and address, Social Security number, and information about your job, income, other debt, credit references, and other information which we receive from you on applications, forms, in person, by telephone, electronically, or by other means;
+  * Information about your transactions, including information about your account balances with us and other institutions, payment history, and account usage;
+  * Information we receive from consumer reporting agencies, including information about your creditworthiness; and
+  * Information from public sources, such as real estate records and telephone numbers.
 
 
 
-**What We Do With Your Information**  
+**Your Information**  
 We use Your Information to protect you by, for example, confirming your identity at the time of a transaction. We may also use Your Information to serve you better by identifying products or services that may be of interest to you. As a consequence, we may disclose all of Your Information, as described above, to service providers that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.
 
 We do not otherwise disclose Your Information, or nonpublic information about our former customers, to anyone, except as required or permitted by law, such as when responding to a subpoena or other court order, complying with regulatory requests, or providing information to consumer reporting agencies.
 
-**The Steps We Take To Protect Your Privacy**  
-We restrict access to Your Information to only those employees who need to know it to provide products or services to you. All of our employees must adhere to strict policies designed to prevent any misuse of Your Information. We maintain physical, electronic, and procedural safeguards to guard Your Information.
+**Protect Your Privacy**  
+We restrict access to Your Information to only those employees who need it to provide products or services to you. All of our employees must adhere to strict policies designed to prevent any misuse of Your Information. We maintain physical, electronic, and procedural safeguards to guard Your Information.
 
 :: Top of the page ::
 
-Website Privacy
+## Website Privacy
 
 We invite you to review this statement so you'll know exactly how we handle any information we learn about you as a result of your visit to our Web site:
 
@@ -55,7 +51,7 @@ We thank you for visiting our Web site and assure you we are committed to protec
 
 :: Top of the page ::
 
-Privacy: Frequently Asked Questions
+## Privacy: Frequently Asked Questions
 
 These questions and answers are designed to prepare our employees to answer questions regarding our Privacy Notice and to otherwise assist customers who express privacy concerns.
 
@@ -78,7 +74,7 @@ We use IFMG Securities, a Sun Life financial company, to provide investment and 
 The kind of information we collect depends upon your financial needs and the products and services you request. For example, when you apply for a loan or open an account with us, we need information about your financial status - such as your place of employment, income, monthly expenses and personal assets and debts outstanding - to process your requests. In addition, in order to make your banking as convenient and efficient as possible, we maintain information about your transactions with us, your account balance and repayment history. 
 
 **How do you obtain the information?**  
-We collect information from many sources. Much of the information comes directly from you when you complete a loan or account application. For a loan application, we also obtain information from credit bureaus and other creditors regarding your credit and repayment history. We retain communications from you (such as letters or e-mails) in order to handle questions you may have and to keep records of your request or concerns regarding our products and services. We also use your letters or e-mails to measure how effectively we have addressed your concerns. If you use our online banking service, we record your online sessions so that we can process and confirm your transactions and provide you with automatic online reports. We also obtain demographic and household information from outside sources such as database information firms. 
+We collect information from many sources. Much of the information comes directly from you when you complete a loan or account application. For a loan application, we also obtain information from credit bureaus and other creditors regarding your credit and repayment history. We retain communications from you (such as letters or e-mails) in order to handle questions you may have and to keep records of your request or concerns regarding our products and services. We also use your letters or e-mails to measure how effectively we have addressed your concerns. If you use our online banking service, we record your online sessions so that we can process and confirm your transactions and provide you with automatic online reports. We also obtain demographic and household information from outside sources such as database information firms.
 
 **Who has access to customer information?**  
 We have strict internal policies against unauthorized use or disclosure of customer information. Customer information is accessible only to employees who need it to conduct your financial affairs. We emphasize the importance of confidentiality through our Code of Conduct, employee training, and operating procedures. We maintain physical, electronic and procedural safeguards according to established security standards to protect our customers' information.
@@ -94,8 +90,8 @@ We are also required by laws and regulations to gather certain information. For 
 We work to ensure that your information is current, accurate, and as complete as possible. If you see any inaccuracy in your statements or in any other communications from us, please write to us at:
 
 Rockland Trust Company  
-Attention: Deposit Services,   
-288 Union Street, Rockland, MA 02370;
+Attention: Deposit Services,  
+288 Union Street, Rockland, MA 02370; 
 
 or contact our Customer Information Center Representatives at **1-800-222-2299**.
 
@@ -120,18 +116,19 @@ We do not sell, nor rent information to marketers or any third party. We do not 
 **How can I reduce direct marketing from other companies?**  
 If you would like to reduce the amount of advertising you receive from companies other than Rockland Trust Company, you may request that the Direct Marketing Association (DMA) delete your name from telephone, mailing and e-mail lists used by their members in marketing products and services to you. Information on these lists is normally obtained from public sources. Your request lasts for five years and includes all versions of your name in which you currently receive information, your address and your telephone number.
 
-To remove your name from many national or direct mail lists write to:   
+To remove your name from many national or direct mail lists write to:  
 DMA Mail Preference Service  
 P.O. Box 9008  
-Farmingdale, NY 11735-9008
+Farmingdale, NY 11735-9008 
 
 To avoid unwanted calls from many national marketers, send your name, address and telephone number to:  
 DMA Telephone Preference Service  
 P.O.Box 9014  
-Farmingdale, NY 11735-9014
+Farmingdale, NY 11735-9014 
 
 For more information visit: [www.the-dma.org](http://www.the-dma.org/).
 
 :: Top of the page ::
 
-|  
+  
+
