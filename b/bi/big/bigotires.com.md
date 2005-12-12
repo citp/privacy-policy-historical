@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigotires.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404003626id_/http%3A//www.bigotires.com/index.asp%3FPG%3D01%26Sub%3D04) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigotires.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212132241id_/http%3A//www.bigotires.com/index.asp%3FPG%3D01%26Sub%3D04) for the most accurate reproduction.*
 
 # Big O Tires - Changing the way people purchase tires and automotive services
 
