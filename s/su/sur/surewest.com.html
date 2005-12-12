@@ -1,10 +1,199 @@
-<!--The following is the downloaded HTML source of the surewest.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403173547id_/http%3A//www.surewest.com/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the surewest.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212094921id_/http%3A//www.surewest.com/legal/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>SureWest - Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="javascript" src="/ref/js/site_functions.js"></script></head>
+<script language="javascript" src="/ref/js/site_functions.js"></script>
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- WebTrends SmartSource Data Collector                  -->
+<!-- © 1996-2004 NetIQ Corporation.  All rights reserved.  -->
+<!-- $DateTime: 2004/05/03 13:43:43 $ -->
+<script language="Javascript"><!--
+gVersion="1.0";
+//-->
+</script>
+<script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script>
+<script language="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</script>
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
+<script language="JavaScript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+
+var gDomain="sdc.surewest.com";
+var gDcsId="";
+// Add customizations here
+//WT.sp="@@SPLITVALUE@@";
+
+// WebTrends SmartSource Data Collector
+// © 1996-2004 NetIQ Corporation.  All rights reserved. 
+// $DateTime: 2004/05/03 13:43:43 $
+
+function dcsMultiTrack(){
+	for (var i=0;i<arguments.length;i++){
+		if (arguments[i].indexOf('WT.')==0){
+				WT[arguments[i].substring(3)]=arguments[i+1];
+				i++;
+		}
+		if (arguments[i].indexOf('DCS.')==0){
+				DCS[arguments[i].substring(4)]=arguments[i+1];
+				i++;
+		}
+		if (arguments[i].indexOf('DCSext.')==0){
+				DCSext[arguments[i].substring(7)]=arguments[i+1];
+				i++;
+		}
+	}
+	var dCurrent=new Date();
+	DCS.dcsdat=dCurrent.getTime();
+	dcsTag();
+}
+	
+
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var myDocumentElements;
+	if (document.all){
+		myDocumentElements=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		myDocumentElements=document.getElementsByTagName("meta");
+	}
+	if (typeof(myDocumentElements)!="undefined"){
+		for (var i=1;i<=myDocumentElements.length;i++){
+			myMeta=myDocumentElements.item(i-1);
+			if (myMeta.name){
+				if (myMeta.name.indexOf('WT.')==0){
+					WT[myMeta.name.substring(3)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCSext.')==0){
+					DCSext[myMeta.name.substring(7)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCS.')==0){
+					DCS[myMeta.name.substring(4)]=myMeta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+dcsVar();
+dcsMeta();
+dcsTag();
+//-->
+</script>
+
+<noscript>
+<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://sdc.surewest.com/njs.gif?dcsuri=/nojavascript&WT.js=No">
+</noscript>
+<!-- END OF Data Collection Server TAG -->	
+</head>
 <body bgcolor="#EBEBDE" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" rightmargin="0">
 <div align="center">
 <table width="780" align="center" border="0" cellspacing="0" cellpadding="0">
@@ -21,7 +210,7 @@
   <tbody><tr>
     <td width="173" height="63"><a href="/"><img src="/graphics/header/SureWest_logo.jpg" alt="Return to SureWest Homepage" width="173" height="63" border="0"></a></td>
     <td><img src="/graphics/spacer.gif"></td>
-    <td align="right" valign="top"><span class="standardlinkdtv"><a href="http://www.surewest.com"></a><a href="http://personal.surewest.com">Residential</a>&nbsp;|&nbsp;<a href="http://business.surewest.com">Business</a>&nbsp;|&nbsp;<a href="/wireless/">Wireless</a>&nbsp;|&nbsp;<a href="http://www.surewest.com/directories/">Yellow Pages</a> |&nbsp;<a href="http://www.surw.com" target="_blank">Corporate</a>&nbsp;|&nbsp;<a href="/support/">Support</a>&nbsp;&nbsp;</span></td>
+    <td align="right" valign="top"><span class="standardlinkdtv"><a href="http://personal.surewest.com">Residential</a>&nbsp;|&nbsp;<a href="http://business.surewest.com">Business</a>&nbsp;|&nbsp;<a href="http://support.surewest.com">Support Center</a>&nbsp;|&nbsp;<a href="http://www.surw.com" target="_blank">Corporate</a>&nbsp;|&nbsp;<a href="http://www.surewest.com/contact/">Contact Us</a>&nbsp;&nbsp;</span></td>
   </tr>
   <tr>
     <td colspan="3" bgcolor="#CC0000" height="7"><img src="/graphics/spacer.gif"></td>
@@ -29,7 +218,11 @@
   <tr>
     <td colspan="3" bgcolor="#FFFFFF" valign="middle" align="right"><span class="standardlinkdtv">&nbsp;</span></td>
   </tr>
-</tbody></table></td>
+</tbody></table>
+<!--** START NAVSTUDIO MENU TAGS (770649) **-->
+<script language="JavaScript" vqptag="doc_level_settings" is_vqp_html="1" vqp_datafile0="index.js" vqp_uid0="770649">cdd__codebase = "http://www.surewest.com/ref/inc/topnav/";cdd__codebase770649 = "http://www.surewest.com/ref/inc/topnav/";</script>
+<script language="JavaScript" vqptag="datafile" src="http://www.surewest.com/ref/inc/topnav/index.js"></script><script vqptag="placement" vqp_menuid="770649" language="JavaScript">create_menu(770649)</script>
+<!--** END NAVSTUDIO MENU TAGS **--></td>
 	</tr><tr>
 		<td valign="top">
 		<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" background="/graphics/black_background_fill.gif">
@@ -47,99 +240,57 @@
                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
                       <tbody><tr> 
                         <td><img src="/graphics/spacer.gif" width="10" height="4"><br>
-<table align="center" cellpadding="0" cellspacing="0" border="0" bordercolor="CCCCCC">
+<table width="162" align="center" cellpadding="0" cellspacing="0" border="0" bordercolor="CCCCCC">
   <tbody><tr>
-    <td colspan="3" class="textblack"><img src="http://www.surewest.com/graphics/nav_new/product_services.gif" width="170" height="15"></td>
+    <td class="borders_top_pod" colspan="3"><div align="center"><a href="http://www.surewest.com/">SureWest Services</a></div></td>
   </tr>
   <tr>
-    <td background="/graphics/nav_new/left_side_1x6.gif" width="6"><img src="/graphics/nav_new/left_side_1x6.gif" width="6" height="1"></td>
-    <td width="162" bgcolor="#FFFFFF">
-		  <table border="0" cellpadding="1" cellspacing="0">
-              <tbody><tr>
-                <td><span class="standardlink"><img src="/graphics/nav_new/carrot_red.gif"><a href="http://personal.surewest.com/"><strong>Residential</strong></a></span>
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr>
-                        <td class="standardlink" align="right" valign="top" width="20"><img src="/graphics/nav_new/carrot_red.gif"></td>
-                        <td class="standardlink"><a href="http://personal.surewest.com/internet/">Internet Services</a> </td>
-                      </tr>
-                      <tr>
-                        <td class="standardlink" align="right" valign="top" width="20"><img src="/graphics/nav_new/carrot_red.gif"></td>
-                        <td class="standardlink"><a href="http://personal.surewest.com/digital_tv/">Digital Entertainment</a></td>
-                      </tr>
-                      <tr>
-                        <td class="standardlink" align="right" valign="top" width="20"><img src="/graphics/nav_new/carrot_red.gif"></td>
-                        <td class="standardlink"><a href="http://personal.surewest.com/telephone/">Telephone Services</a> </td>
-                      </tr><!--<tr>
-                        <td class='standardlink' align='right' valign='top' width='20'><img src='/graphics/nav_new/carrot_red.gif'></td>
-                        <td class='standardlink'><a href='http://personal.surewest.com/infinitaccess/'>InfinitAccess</a> </td>
-						  </tr>-->
-                  </tbody></table></td>
-        </tr>
-    </tbody></table></td>
-    <td background="/graphics/nav_new/right_side_1x2.gif" width="2"><img src="/graphics/nav_new/right_side_1x2.gif" width="2" height="1"></td>
+    <td bgcolor="ffffff" class="borders_left" width="5"><img src="/graphics/spacer.gif" width="5" height="1"></td>
+    <td colspan="2" bgcolor="ffffff" class="borders_right"><span class="standardlink"><a href="http://personal.surewest.com/">Residential</a></span></td>
+  </tr><tr>
+    <td width="5" bgcolor="ffffff" class="borders_left"><img src="/graphics/spacer.gif" width="5" height="1"></td>
+    <td width="10" bgcolor="ffffff" class="borders_top_no_bg"><img src="/graphics/nav_new/carrot_red.gif" width="11" height="11"></td>
+	<td width="100%" bgcolor="ffffff" class="borders_right"><span class="standardlink"><a href="http://personal.surewest.com/digital_tv/">Digital TV </a></span></td>
+  </tr><tr>
+    <td width="5" bgcolor="ffffff" class="borders_left"><img src="/graphics/spacer.gif" width="5" height="1"></td>
+    <td width="10" bgcolor="ffffff" class="borders_top_no_bg"><img src="/graphics/nav_new/carrot_red.gif" width="11" height="11"></td>
+	<td width="100%" bgcolor="ffffff" class="borders_right"><span class="standardlink"><a href="http://personal.surewest.com/internet/">Internet Services</a></span></td>
+  </tr><tr>
+    <td width="5" bgcolor="ffffff" class="borders_left"><img src="/graphics/spacer.gif" width="5" height="1"></td>
+    <td width="10" bgcolor="ffffff" class="borders_top_no_bg"><img src="/graphics/nav_new/carrot_red.gif" width="11" height="11"></td>
+	<td width="100%" bgcolor="ffffff" class="borders_right"><span class="standardlink"><a href="http://personal.surewest.com/telephone/">Telephone Services</a></span></td>
+  </tr><tr>
+    <td width="5" bgcolor="ffffff" class="borders_left"><img src="/graphics/spacer.gif" width="5" height="1"></td>
+    <td width="10" bgcolor="ffffff" class="borders_top_no_bg"><img src="/graphics/nav_new/carrot_red.gif" width="11" height="11"></td>
+	<td width="100%" bgcolor="ffffff" class="borders_right"><span class="standardlink"><a href="http://www.surewest.com/wireless/">Wireless</a></span></td>
+  </tr><tr>
+    <td width="5" bgcolor="ffffff" class="borders_left"><img src="/graphics/spacer.gif" width="5" height="1"></td>
+    <td width="10" bgcolor="ffffff" class="borders_top_no_bg"><img src="/graphics/nav_new/carrot_red.gif" width="11" height="11"></td>
+	<td width="100%" bgcolor="ffffff" class="borders_right"><span class="standardlink"><a href="http://www.surewest.com/directories/">Yellow Pages</a></span></td>
+  </tr><tr>
+    <td bgcolor="ffffff" class="borders_left"><img src="/graphics/spacer.gif" width="5" height="1"></td>
+    <td colspan="2" bgcolor="ffffff" class="borders_right"><span class="standardlink"><a href="http://business.surewest.com/">Business</a></span></td>
   </tr>
-  <tr>
-    <td background="/graphics/nav_new/left_side_1x6.gif" width="6"><img src="/graphics/nav_new/left_side_1x6.gif" width="6" height="1"></td>
-    <td background="/graphics/nav_new/one_pixel_line_fill.gif"><img src="/graphics/nav_new/one_pixel_line_fill.gif" width="1" height="1"></td>
-    <td width="2"><img src="/graphics/nav_new/right_side_1x2.gif"></td>
-  </tr>
-  <tr>
-    <td background="/graphics/nav_new/left_side_1x6.gif" width="6"><img src="/graphics/nav_new/left_side_1x6.gif" width="6" height="1"></td>
-    <td width="162" bgcolor="#FFFFFF"><table border="0" cellpadding="1" cellspacing="0">
-      <tbody><tr>
-        <td><img src="/graphics/nav_new/carrot_red.gif"><span class="standardlink"><a href="http://business.surewest.com/"><strong>Business</strong></a></span>
-            <table width="100%" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td class="standardlink" align="right" valign="top" width="20"><img src="/graphics/nav_new/carrot_red.gif"></td>
-                <td class="standardlink"><a href="http://business.surewest.com/internet/">Internet Services</a> </td>
-              </tr><tr>
-                <td class="standardlink" align="right" valign="top" width="20"><img src="/graphics/nav_new/carrot_red.gif"></td>
-                <td class="standardlink"><a href="http://business.surewest.com/telephone/">Telephone Services</a> </td>
-              </tr><!--<tr>
-                <td class='standardlink' align='right' valign='top' width='20'><img src='/graphics/nav_new/carrot_red.gif'></td>
-                <td class='standardlink'><a href='http://business.surewest.com/infinitaccess/'>InfinitAccess</a> </td>
-              </tr>-->
-          </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-    <td background="/graphics/nav_new/right_side_1x2.gif" width="2"><img src="/graphics/nav_new/right_side_1x2.gif" width="2" height="1"></td>
-  </tr>
-  <tr>
-    <td background="/graphics/nav_new/left_side_1x6.gif" width="6"><img src="/graphics/nav_new/left_side_1x6.gif" width="6" height="1"></td>
-    <td background="/graphics/nav_new/one_pixel_line_fill.gif"><img src="/graphics/nav_new/one_pixel_line_fill.gif" width="1" height="1"></td>
-    <td width="2"><img src="/graphics/nav_new/right_side_1x2.gif"></td>
-  </tr>
-  <tr>
-    <td background="/graphics/nav_new/left_side_1x6.gif" width="6"><img src="/graphics/nav_new/left_side_1x6.gif" width="6" height="1"></td>
-    <td width="162" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td><img src="/graphics/nav_new/carrot_red.gif"><span class="standardlink"><a href="http://www.surewest.com/wireless/"><strong>Wireless</strong></a></span></td>
-        </tr>
-    </tbody></table></td>
-    <td background="/graphics/nav_new/right_side_1x2.gif" width="2"><img src="/graphics/nav_new/right_side_1x2.gif" width="2" height="1"></td>
-  </tr>
-  <tr>
-    <td background="/graphics/nav_new/left_side_1x6.gif" width="6"><img src="/graphics/nav_new/left_side_1x6.gif" width="6" height="1"></td>
-    <td background="/graphics/nav_new/one_pixel_line_fill.gif"><img src="/graphics/nav_new/one_pixel_line_fill.gif" width="1" height="1"></td>
-    <td width="2"><img src="/graphics/nav_new/right_side_1x2.gif"></td>
-  </tr>
-  <tr>
-    <td background="/graphics/nav_new/left_side_1x6.gif" width="6"><img src="/graphics/nav_new/left_side_1x6.gif" width="6" height="1"></td>
-    <td width="162" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td><img src="/graphics/nav_new/carrot_red.gif"><span class="standardlink"><a href="http://www.surewest.com/directories/"><strong>Yellow Pages</strong></a></span></td>
-            </tr>
-          </tbody></table></td>
-        </tr>
-    </tbody></table></td>
-    <td background="/graphics/nav_new/right_side_1x2.gif" width="2"><img src="/graphics/nav_new/right_side_1x2.gif" width="2" height="1"></td>
-  </tr>
-  <tr>
-    <td background="/graphics/nav_new/left_side_1x6.gif" width="6"><img src="/graphics/nav_new/left_side_1x6.gif" width="6" height="1"></td>
-    <td background="/graphics/nav_new/one_pixel_line_fill.gif"><img src="/graphics/nav_new/one_pixel_line_fill.gif" width="1" height="1"></td>
-    <td width="2"><img src="/graphics/nav_new/right_side_1x2.gif"></td>
+  <!--tr>
+    <td width="5" bgcolor='ffffff' class="borders_left"><img src="/graphics/spacer.gif" width="5" height="1"></td>
+    <td width="10" bgcolor='ffffff' class="borders_top_no_bg"><img src="/graphics/nav_new/carrot_red.gif" width="11" height="11"></td>
+	<td width="100%" bgcolor='ffffff' class="borders_right"><span class='standardlink'><a href='#'>Digital TV </a></span></td>
+  </tr--><tr>
+    <td width="5" bgcolor="ffffff" class="borders_left"><img src="/graphics/spacer.gif" width="5" height="1"></td>
+    <td width="10" bgcolor="ffffff" class="borders_top_no_bg"><img src="/graphics/nav_new/carrot_red.gif" width="11" height="11"></td>
+	<td width="100%" bgcolor="ffffff" class="borders_right"><span class="standardlink"><a href="http://business.surewest.com/internet/">Internet Services</a></span></td>
+  </tr><tr>
+    <td width="5" bgcolor="ffffff" class="borders_left"><img src="/graphics/spacer.gif" width="5" height="1"></td>
+    <td width="10" bgcolor="ffffff" class="borders_top_no_bg"><img src="/graphics/nav_new/carrot_red.gif" width="11" height="11"></td>
+	<td width="100%" bgcolor="ffffff" class="borders_right"><span class="standardlink"><a href="http://business.surewest.com/telephone/">Telephone Services</a></span></td>
+  </tr><tr>
+    <td width="5" bgcolor="ffffff" class="borders_left"><img src="/graphics/spacer.gif" width="5" height="1"></td>
+    <td width="10" bgcolor="ffffff" class="borders_top_no_bg"><img src="/graphics/nav_new/carrot_red.gif" width="11" height="11"></td>
+	<td width="100%" bgcolor="ffffff" class="borders_right"><span class="standardlink"><a href="http://www.surewest.com/wireless/">Wireless</a></span></td>
+  </tr><tr>
+    <td width="5" bgcolor="ffffff" class="borders_left"><img src="/graphics/spacer.gif" width="5" height="1"></td>
+    <td width="10" bgcolor="ffffff" class="borders_top_no_bg"><img src="/graphics/nav_new/carrot_red.gif" width="11" height="11"></td>
+	<td width="100%" bgcolor="ffffff" class="borders_right"><span class="standardlink"><a href="http://www.surewest.com/directories/">Yellow Pages</a></span></td>
   </tr>
 </tbody></table> </td>
                       </tr>
@@ -466,7 +617,7 @@
       				<td>
 					<div align="center"><span class="copyright">
 					<a href="http://www.surewest.com">SureWest.com</a> | <a href="http://www.surw.com/careers/">Careers</a> | 
-					<a href="http://www.surewest.com/care">Customer Care</a> | <a href="http://www.surw.com">Corporate</a>
+					<a href="http://support.surewest.com/">Support Center</a> | <a href="http://www.surw.com">Corporate</a>
 					<br>
 					© SureWest Communications - all rights reserved worldwide | 
 					<a href="/legal/">Terms &amp; Conditions</a> | <a href="/legal/privacy.php">Privacy</a> | <a href="mailto:webmaster@surewest.com">webmaster</a></span></div>
