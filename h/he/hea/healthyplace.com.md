@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207211401id_/http%3A//www.healthyplace.com/Site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212121045id_/http%3A//www.healthyplace.com/Site/privacy.asp) for the most accurate reproduction.*
 
 # Healthyplace.com Privacy Statement and Policy
 
@@ -49,7 +49,7 @@ This statement discloses the privacy practices for the HealthyPlace.com Web site
 
 Questions regarding this statement should be directed to the HealthyPlace.com site coordinator at [info@healthyplace.com](mailto:info@healthyplace.com)
 
-Read more [about us and our editorial policy](https://web.archive.org/web/20050207211401id_/http%3A//www.healthyplace.com/Site/editorial_policy.asp), [advertising policy](https://web.archive.org/web/20050207211401id_/http%3A//www.healthyplace.com/Site/advertising_policy.asp), [privacy policy](https://web.archive.org/web/20050207211401id_/http%3A//www.healthyplace.com/Site/privacy.asp), [terms of use](https://web.archive.org/web/20050207211401id_/http%3A//www.healthyplace.com/Site/terms.asp) and [disclaimer](https://web.archive.org/web/20050207211401id_/http%3A//www.healthyplace.com/Site/disclaimer.asp)
+Read more [about us and our editorial policy](https://web.archive.org/web/20051212121045id_/http%3A//www.healthyplace.com/Site/editorial_policy.asp), [advertising policy](https://web.archive.org/web/20051212121045id_/http%3A//www.healthyplace.com/Site/advertising_policy.asp), [privacy policy](https://web.archive.org/web/20051212121045id_/http%3A//www.healthyplace.com/Site/privacy.asp), [terms of use](https://web.archive.org/web/20051212121045id_/http%3A//www.healthyplace.com/Site/terms.asp) and [disclaimer](https://web.archive.org/web/20051212121045id_/http%3A//www.healthyplace.com/Site/disclaimer.asp)
 
 top ~ [send this page to a friend](https://web.archive.org/cgi-bin/EMAILLINKScript/EMAILLINKScriptForm.asp)
 
