@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the walrusmagazine.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308021239id_/http%3A//www.walrusmagazine.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walrusmagazine.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212133246id_/http%3A//www.walrusmagazine.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | Login  
 ---  
   
-**Join now** and be eligible to win one of several copies of Linda McQuaig's _It's the Crude, Dude_ , donated by Random House Canada. 
+**Join now** and be eligible to win one of several copies of Kim Bolan's _Loss of Faith_ , donated by McClelland and Stewart. 
 
 Signing up is fast, free and gives you access to online journals, newsletters, and more! 
 
