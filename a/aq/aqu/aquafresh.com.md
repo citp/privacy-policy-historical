@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquafresh.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306202930id_/http%3A//www.aquafresh.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquafresh.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212145931id_/http%3A//www.aquafresh.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # GlaxoSmithKline Internet Privacy Statement - ©2005
 
@@ -20,7 +20,7 @@ Your Choices:
 
   * You can always choose not to provide information, even though it might be needed to take advantage of GSK offers or website features.
   * You can add or update certain information that you send to us. When you update information, we usually keep a copy of the prior version for our records.
-  * If you do not want to receive e-mail or other mail from us, please e-mail us at Unsubscribe.2.chus@gsk.com.
+  * You will always be given the opportunity to unsubscribe from future email communication.
 
 Access to Your Information 
 
