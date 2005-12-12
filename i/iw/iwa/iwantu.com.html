@@ -1,16 +1,105 @@
-<!--The following is the downloaded HTML source of the iwantu.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403150841id_/http%3A//www.iwantu.com/privacy.love%3Fid%3D) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iwantu.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212100735id_/http%3A//iwantu.com/privacy.love%3Fid%3D) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>IwantU.com Adult Personals - Where you are wanted!</title>
-<link rel="shortcut icon" href="/images/favicon.ico">
+<title>IwantU.com adult Personals - Where you are wanted!</title>
+<meta name="keywords" content="swingers,adult chat,adult personals,adult chat rooms,adult dating,adult video chat,swinger,iwantu,free adult chat rooms,swingers clubs,adult personal ads,adult swingers,swinger clubs,swingers party,swingers board,matchmaking">
+<meta name="description" content="Live out your sexual fantasies and discover a new playmate with IwantU.com Adult Personals. If you are looking for a one night stand or a casual encounter, then the Adult Club is where the game is played.Join now for free!">
+<meta name="robots" content="index,follow">
+<meta name="robots" content="all">
+<meta name="revisit-after" content="15 days">
+
+<link rel="shortcut icon" href="/images/en_favicon.ico">
 <link href="/css/1.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="/js/functions_magazine.js"> </script>
+<script language="JavaScript">
+
+    var expDays = 1;
+    var page = "http://www.iwantulive.com";
+    var windowprops = "width=780,height=520,location=yes,toolbar=yes,menubar=yes,scrollbars=yes,resizable=yes";
+	
+    function GetCookie (name)
+    {
+        var arg = name + "=";
+        var alen = arg.length;
+        var clen = document.cookie.length;
+        var i = 0;
+        while (i < clen) {
+            var j = i + alen;
+            if (document.cookie.substring(i, j) == arg) return getCookieVal (j);
+            i = document.cookie.indexOf(" ", i) + 1;
+            if (i == 0) break;
+        }
+        return null;
+    }
+
+    function SetCookie (name, value)
+    {
+        var argv = SetCookie.arguments;
+        var argc = SetCookie.arguments.length;
+        var expires = (argc > 2) ? argv[2] : null;
+        var path = (argc > 3) ? argv[3] : null;
+        var domain = (argc > 4) ? argv[4] : null;
+        var secure = (argc > 5) ? argv[5] : false;
+        document.cookie = name + "=" + escape (value) + ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + ((path == null) ? "" : ("; path=" + path)) + ((domain == null) ? "" : ("; domain=" + domain)) + ((secure == true) ? "; secure" : "");
+    }
+
+    function DeleteCookie (name)
+    {
+        var exp = new Date(); exp.setTime (exp.getTime() - 1);
+        var cval = GetCookie (name);
+        document.cookie = name + "=" + cval + "expires=" + exp.toGMTString();
+    }
+    var exp = new Date();
+    exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+
+    function amt() {
+        var count = GetCookie('count');
+        if(count == null) {
+            SetCookie('count','1');
+            return 1;
+        }
+        else {
+            var newcount = parseInt(count) + 1;
+            DeleteCookie('count');
+            SetCookie('count',newcount,exp);
+            return count;
+        }
+    }
+
+    function getCookieVal(offset)
+    {
+        var endstr = document.cookie.indexOf(";", offset);
+        if (endstr == -1) endstr = document.cookie.length;
+        return unescape(document.cookie.substring(offset, endstr));
+    }
+
+    function checkCount()
+    {
+        var count = GetCookie('count');
+
+        if (count == null) {
+            count=1;
+            SetCookie('count', count, exp);
+            win2=window.open(page, "", windowprops);
+            win2.blur();
+            window.focus();
+        }
+        else {
+            count++;
+            SetCookie('count', count, exp);
+        }
+    }
+
+</script>
 </head>
 
 <body>
 
-<!-- BEGGINS THE HEADER-->
+
+
+<!-- HEADER START -->
 
 <table id="table_container" width="780" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
@@ -21,6 +110,7 @@
 			  <tbody><tr align="center">
 				<td><div><a href="/index.love?id=">Home</a></div>&nbsp;</td>
 				<td><div><a href="/tour1.love?id=">Tour</a></div>&nbsp;</td>
+<!--				<td><div><a href="/my/magazine.love?id=">Magazine</a></div> </td> -->
 				<td><div id="sign_up"><a href="/join.love?id=">JOIN NOW FREE!!!</a></div>&nbsp;</td>
 				<td><div><a href="/login.love?id=">Login</a></div>&nbsp;</td>
 				<td><div><a href="http://affiliates.iwantu.com/index.ring?id=">Webmasters $$$</a></div>&nbsp;</td>
@@ -30,10 +120,15 @@
 			<div id="logo">&nbsp;</div>
 			<div id="sponsor">&nbsp;</div>
 	  </div>
+	  
 	</td>
   </tr>
-  <tr>
-    <td>
+  <!-- HEADER END -->
+  
+  
+
+<!-- privacy start -->	
+<tr><td>	   
 	<div id="container">
 	<img src="images/truste_white.gif">
 	  <h1>
@@ -117,16 +212,22 @@
 	
 	</td>
   </tr>
-  <tr>
-<td>	<div id="footer" align="center">
+<!-- privacy end -->	
+
+
+
+<!-- FOOTER START-->
+<tr>
+  <td>	<div id="footer" align="center">
       <table width="100%" cellspacing="4">
         <tbody><tr>
-          <td align="center"><a href="http://support.iwantu.com/contact.love?id=" target="_blank">Contact Us</a> <a href="/success.love?id=">Success Stories</a> <a href="/privacy.love?id=">Privacy Policy</a> <a href="/terms.love?id=">Terms &amp; Conditions</a> <a href="http://affiliate.iwantu.com/?id=" target="_blank">Webmasters</a> <a href="/site_map.love?id=">Site Map</a> </td>
+          <td align="center"><a href="http://support.iwantu.com/contact.love?id=" target="_blank">Contact Us</a> <a href="/success.love?id=">Success Stories</a> <a href="/privacy.love?id=">Privacy Policy</a> <a href="/terms.love?id=">Terms &amp; Conditions</a> <a href="http://affiliate.iwantu.com/?id=" target="_blank">Webmasters</a> <a href="/site_map.love?id=">Site Map</a> <a href="/2257.love?id=">US2257</a></td>
         </tr>
         <tr>
-          <td align="center">Copyright © 1996-2005 IwantU.com <br>
-Disclaimer: This website contains adult material, all members and persons appearing <br>
-on this site have contractually represented to us that they are 18 years of age or older.</td>
+          <td align="center"><a href="#" onclick="set_cookie_lang('en'); window.location.reload();">English</a> - <a href="#" onclick="set_cookie_lang('sp'); window.location.reload();">Español</a>
+            <p>Copyright © 1996-2005 IwantU.com <br>
+    Disclaimer: This website contains adult material, all members and persons appearing <br>
+    on this site have contractually represented to us that they are 18 years of age or older.</p></td>
         </tr>
       </tbody></table>
     </div>
@@ -134,8 +235,19 @@ on this site have contractually represented to us that they are 18 years of age 
   </tr>
 </tbody></table>&nbsp;
 <div align="center">
-  <a href="/privacy.love?id="><img src="/images/truste.gif" alt="TRUSTe Site privacy statement" border="0"></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.wisol.com/?id=" target="_blank"><img src="/images/wisol.gif" alt="Powered by Wisol" border="0"></a>
+  <a href="/privacy.love?id="><img src="/images/truste.gif" title="TRUSTe Site privacy statement" alt="TRUSTe Site privacy statement" border="0"></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.wisol.com/?id=" target="_blank"><img src="/images/wisol.gif" title="Powered by Wisol" alt="Powered by Wisol" border="0"></a>
 </div>
+<script language="javascript">  
+
+<!--
+function set_cookie_lang(lang)
+{
+    document.cookie='lang=' + lang +'; path=/; domain=.IwantU.com; expires=Saturday, 31-Dec-10 00:00:00 GMT';
+}
+
+//-->
+
+</script>
 
 
 </body></html>
