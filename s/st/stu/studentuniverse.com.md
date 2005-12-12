@@ -1,84 +1,8 @@
-> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2005-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050612084601id_/http%3A//www.studentuniverse.com/aboutus/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212120535id_/http%3A//studentuniverse.com/aboutus/privacy.jsp) for the most accurate reproduction.*
 
 # Cheap Tickets and Student Travel Airfare Deals
 
-  
-| [](http://www.studentuniverse.com/aboutus/)  
----  
-|   
-
-
-> [TALK TO US](http://www.studentuniverse.com/aboutus/contactUs.jsp)
-
-|   
-|   
-
-
-> [COMPANY INFO](http://www.studentuniverse.com/aboutus/background.jsp)
-
-|   
-| 
-
-[company background](http://www.studentuniverse.com/aboutus/background.jsp)
-
-|   
-| 
-
-[partners](http://www.studentuniverse.com/aboutus/partners.jsp)
-
-|   
-| 
-
-[careers](http://www.studentuniverse.com/aboutus/careers.jsp)
-
-|   
-| 
-
-[affiliate program](http://affiliate.studentuniverse.com/affsignup.php)
-
-|   
-| 
-
-[campus ambassador](http://www.studentuniverse.com/aboutus/ambassador.jsp)
-
-|   
-| 
-
-[privacy policy](http://www.studentuniverse.com/aboutus/privacy.jsp)
-
-|   
-| 
-
-[terms of use](http://www.studentuniverse.com/aboutus/terms.jsp)
-
-|   
-| 
-
-[registered seller of travel](http://www.studentuniverse.com/aboutus/registered.jsp)
-
-|   
-| 
-
-> [SITE INDEX](http://www.studentuniverse.com/aboutus/siteIndex.jsp)
-
-|   
-  
-......................................
-
-  
-
-
-| convert  
----|---  
-Currency Converter  
-up to date & accurate  
-  
-......................................
-
-[](http://www.adobe.com/products/acrobat/readstep2.html)
-
-|  |  |    
-
+|  | 
 
 **Privacy Policy for StudentUniverse.com**  
 Our privacy policy is very important to us and governs our actions regarding your information at StudentUniverse.com. This document will tell you what information we collect from you, what we are going to do with the information, and your rights concerning the information. The information we receive depends on what you do when you visit our site.
@@ -103,10 +27,10 @@ No personally identifiable information will be shared with our partners except a
 
 As we continue to develop our business, we might sell or buy companies or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that StudentUniverse.com or substantially all of its assets are acquired, customer information could be one of the transferred assets.
 
-Except as set forth in the [Terms of Use](http://www.studentuniverse.com/aboutus/terms.jsp) and this Privacy Policy, we will not willfully disclose personal data about you to any third party without first receiving your permission.
+Except as set forth in the [Terms of Use](http://studentuniverse.com/aboutus/terms.jsp) and this Privacy Policy, we will not willfully disclose personal data about you to any third party without first receiving your permission.
 
 **Spam**  
-We take extreme efforts to not involve ourselves with junk mail companies. Our mail is as targeted as we can make it, and we allow you to opt out at any time. If you feel we aren't living up to our promise, please [click here](http://www.studentuniverse.com/aboutus/feedbackform) to send us an email.
+We take extreme efforts to not involve ourselves with junk mail companies. Our mail is as targeted as we can make it, and we allow you to opt out at any time. If you feel we aren't living up to our promise, please [click here](http://studentuniverse.com/aboutus/feedbackform) to send us an email.
 
 We occasionally run contests on our site in which we ask visitors for contact information (like your email address). We use contact data from our contests to alert winners of their status, and to send users information about our company and promotional material from some of our partners. Users have the option of not receiving future mailings; see the choice/opt-out section below.
 
@@ -121,11 +45,11 @@ Children 17 and under are not permitted to create an account at StudentUniverse.
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
-If you want to remove your information from our database, to not receive future communications, or to no longer receive our service, you can opt-out online on our homepage by clicking on "Get our DealAlerts" and completing the opt-out form, or by [clicking here](http://www.studentuniverse.com/aboutus/feedbackForm.jsp) to send us an email.
+If you want to remove your information from our database, to not receive future communications, or to no longer receive our service, you can opt-out online on our homepage by clicking on "Get our DealAlerts" and completing the opt-out form, or by [clicking here](http://studentuniverse.com/aboutus/feedbackForm.jsp) to send us an email.
 
 **Correct/Update**  
 You can correct or update your account profile information at any time by visiting:  
-[https://www.studentuniverse.com/register?actionvar=ViewProfileAction](https://www.studentuniverse.com/register/update).
+[https://studentuniverse.com/register?actionvar=ViewProfileAction](https://studentuniverse.com/register/update).
 
 **Partner Websites**  
 This site contains links to other websites. StudentUniverse.com is not responsible for the privacy practices or the content of other websites. 
