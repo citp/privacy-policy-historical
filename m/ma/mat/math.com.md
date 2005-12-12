@@ -1,20 +1,8 @@
-> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403220625id_/http%3A//math.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212162211id_/http%3A//math.com/privacy.html) for the most accurate reproduction.*
 
 # Math.com Privacy Policy
 
-|  | **Resources** |   
----|---|---  
-|  **·  **[Cool Tools](https://web.archive.org/students/tools.html)  
-**·  **[Formulas & Tables](https://web.archive.org/tables/index.html)  
-**·  **[References](https://web.archive.org/students/references.html)  
-**·  **[Test Preparation](https://web.archive.org/students/testprep.html)  
-**·  **[Study Tips](https://web.archive.org/students/advice.html)  
-**·  **[Wonders of Math](https://web.archive.org/students/wonders.html)  
-   
-| **Search** |   
-|   
-  
-   | 
+|    | 
 
 Privacy Policy For Math.com
 
