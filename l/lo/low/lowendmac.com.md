@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525074946id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212150356id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -23,38 +23,32 @@ Our site logs track IP addresses, as well as the browser and operating system us
 
 We do not use any type of cookies on Low End Mac, although BackBeat Media (which handles our display ads) and advertisers may use cookies and track additional information for their own purposes. This information is collected and maintained by these organizations under their own privacy policies, which may be different from Low End Mac's policy.
 
-[Dan Knight](mailto:dan_knight@mac.com) , publisher, Low End Mac 
+[Dan Knight](mailto:low_end_mac@yahoo.com) , publisher, Low End Mac 
 
   
 
 
 ### Low End Mac Reader Specials
 
-[ **Memory To Go Special:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/417/clickHTML?ajkey=3C066C81D8162D25D1EDEEB000002496000026FB00000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFFCFBE2BD6) G5: 1GB kit $96, 2GB kit $216 | PowerBook G4 / iBook G4: 1GB $152, 512mb $58 | Mac Mini / Imac G5: 1GB $108 512mb $48 | G4 PC133: 512mb $83 256mb $36 | Flat Imac / Titanium: 512mb $102 256mb $39 | FLASH MEMORY FOR CAMERAS AVAILABLE
+[ **Memory To Go Special:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/901/clickHTML?ajkey=5E664998D8162D25D1EDEEB200002496000026FB00000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFFD7262280) New G5 DDR2 2GB Kit $172 1GB Kit $90.00 | New P. Book DDR2 1GB $87 512mb $47.00 | G5 DDR400 2GBKit $192 1GB kit $96 | Power Book G4 / iBook G4: 1GB $128, 512mb $52 | Mac Mini / Imac G5: 1GB $96 512mb $48 | G4 PC133: 512mb $74 256mb $32 | Flat Imac / Titanium: 512mb $96 256mb $39 | Hard Drives AVAILABLE
 
-[ **Download Typestyler,**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/704/clickHTML?ajkey=B025A923D8162D25D1EDEEB000001BAC00001B2200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFF2CB4D16A) still the Ultimate Styling Tool for Internet, Print and Video Graphics. Works great in Classic with a Native OS X Version on the way. [Free Tryout: www.typestyler.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/704/clickHTML?ajkey=B025A923D8162D25D1EDEEB000001BAC00001B2200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFF2CB4D16A)
+[ **Download Typestyler,**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/442/clickHTML?ajkey=31E8F1F2D8162D25D1EDEEB200001BAC00001B2200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFFCCC7874E) still the Ultimate Styling Tool for Internet, Print and Video Graphics. Works great in Classic with a Native OS X Version on the way. [Free Tryout: www.typestyler.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/442/clickHTML?ajkey=31E8F1F2D8162D25D1EDEEB200001BAC00001B2200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFFCCC7874E)
 
-[ **Other World Computing:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/634/clickHTML?ajkey=2803F72ED8162D25D1EDEEB0000018C000001EC400001EC700001B6AFFFFFF91FFFFFF91FFFFFFFFCABD5B89) FasterMac.Net Nationwide 56K Internet Access from under $8/Month! 5 E-Mails, 10 Megs Web Space, Spam blocking, & More!
+ **[LA Computer Company:](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/525/clickHTML?ajkey=8E91DAE5D8162D25D1EDEEB2000021150000288200001A5800001B6AFFFFFF91FFFFFF91FFFFFFFF231BFB14)** Specials on PowerBooks, Apple Displays, Power Mac and AppleCare. Apple Original Airport Cards in stock. iPod batteries starting at $8.95. Call 1-800-941-7654 or [Click Here. ](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/525/clickHTML?ajkey=8E91DAE5D8162D25D1EDEEB2000021150000288200001A5800001B6AFFFFFF91FFFFFF91FFFFFFFF231BFB14)
 
- **[FastMac:](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/219/clickHTML?ajkey=D40AA7CFD8162D25D1EDEEB0000020EF000020F000001EC800001B6AFFFFFF91FFFFFF91FFFFFFFF35BD7CEE)** Performance Upgrades Designed to Extend the Life of Your Current Mac. Easy to Install. Easy to Afford. Hard to Live Without. Painless Evolution. [Click here.](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/219/clickHTML?ajkey=D40AA7CFD8162D25D1EDEEB0000020EF000020F000001EC800001B6AFFFFFF91FFFFFF91FFFFFFFF35BD7CEE)
+[**Other World Computing:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/865/clickHTML?ajkey=05BEC7ABD8162D25D1EDEEB200001EBB00001EC400001EC700001B6AFFFFFF91FFFFFF91FFFFFFFFC1D27008) NewerTech miniStack - Elegant High-Speed FireWire/USB2 Storage up to 500GBs just for Mac mini! Auto-Power on/off with your mini, integrated FireWire/USB2 hub gives you more ports too. Only 1.5" high, fits under mini.
 
-[ **Computer RAM Memory**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/450/clickHTML?ajkey=2695AC60D8162D25D1EDEEB000002475000024770000247A00001B6AFFFFFF91FFFFFF91FFFFFFFFC91AE92F) Need RAM Memory? ArchMemory.com stocks guaranteed compatible Mac memory and ships it for FREE! Give your machine what it needs most, more memory from [ ArchMemory.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/450/clickHTML?ajkey=2695AC60D8162D25D1EDEEB000002475000024770000247A00001B6AFFFFFF91FFFFFF91FFFFFFFFC91AE92F)
-
-Entire [Low End Mac](https://web.archive.org/index.shtml) site copyright ©1997-2005 by [Cobweb Publishing, Inc.](http://cobwebpublishing.com/), unless otherwise noted. All rights reserved. Advice presented in good faith, but what works for one may not work for all. Please report errors to [the webmaster](mailto:webmaster@lowendmac.com).  
+Entire [Low End Mac](https://web.archive.org/index.shtml) site copyright ©1997-2005 by [Cobweb Publishing, Inc.](http://cobwebpublishing.com/), unless otherwise noted. All rights reserved. Advice presented in good faith, but what works for one may not work for all. Please report errors to [webmaster](mailto:low_end_mac@yahoo.com) .  
   [LINKS](https://web.archive.org/link.shtml): We allow and encourage links to any public page as long as the linked page does not appear within a frame that prevents bookmarking it.  
-  Access our RSS news feed at <http://lowendmac.com/rss.txt>.  
+  Access our RSS news feed at <http://lowendmac.com/feed.xml>.  
   Email may be published at our discretion; email addresses will not be published without permission. If you prefer your message not be published, mark it "not for publication." Letters may be edited for length, context, and to match [house style](https://web.archive.org/styleguide/index.shtml).  
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)  
-  [Low End Mac](https://web.archive.org/index.shtml) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Computer. Apple, the Apple logo, Macintosh, iBook, iMac, eMac, iPod, and PowerBook are [registered trademarks of Apple Computer, Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged. 
-
-| 
-
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/962/clickHTML?ajkey=9C55384ED8162D25D1EDEEB00000246800001ED9000003BB00001B6BFFFFFF91FFFFFF91FFFFFFFF27AB3F44)
+  [Low End Mac](https://web.archive.org/index.shtml) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Computer. Apple, the Apple logo, Macintosh, iBook, iMac, eMac, iPod, and PowerBook are [registered trademarks of Apple Computer, Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  | 
 
 **Mac of the Day**  
- [Power Mac 9500/120](https://web.archive.org/ppc/9500.shtml) **  
+ [Dynamac](https://web.archive.org/clones/dynamac.html) **  
 List of the Day**  
- [PowerBooks](http://lowendmac.com/lists/powerbooks.shtml)  
+ [LisaList](http://lowendmac.com/lists/lisa.html)  
  **Channels**  
  [Power Macs](https://web.archive.org/ppc/index.shtml)  
  [iMac Channel](https://web.archive.org/imac/index.shtml)  
