@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagetraffic.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308094454id_/http%3A//www.pagetraffic.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagetraffic.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212101512id_/http%3A//www.pagetraffic.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # PAGE TRAFFIC PRIVACY POLICY - A Search Engine Optimization Web Promotion Company of india
 
@@ -122,15 +122,25 @@ Consistent with the Federal Children's Online Privacy Protection Act of 1998 (CO
 [](https://web.archive.org/search-engine-optimization.htm) | [Pagetraffic RankPro](https://web.archive.org/search-engine-optimization.htm)  
 [](https://web.archive.org/search-engine-positioning.htm) | [Pagetraffic RankPlus](https://web.archive.org/search-engine-ranking.htm)  
 **[Link Popularity Campaign](https://web.archive.org/link-popularity-service.htm)**  
-**Dedicated Team Offerings:**  
-[](https://web.archive.org/search-engine-optimisation.htm) | [Dedicated SEO](https://web.archive.org/web/20050308094454id_/http%3A//www.pagetraffic.com/search-engine-optimization-consultants.htm)  
+[](https://web.archive.org/search-engine-optimisation.htm) | [Reciprocal link building](https://web.archive.org/web/20051212101512id_/http%3A//www.pagetraffic.com/reciprocal-links.htm)  
   
 [](https://web.archive.org/search-engine-optimization.htm)
 
-| [Dedicated Link Builder](https://web.archive.org/web/20050308094454id_/http%3A//www.pagetraffic.com/dedicated-link-builder.htm)  
-[](https://web.archive.org/search-engine-positioning.htm) | [Dedicated PHP-Perl Web Developer](https://web.archive.org/web/20050308094454id_/http%3A//www.pagetraffic.com/dedicated-php-developer.htm)  
-[](https://web.archive.org/search-engine-optimisation.htm) | [Dedicated ASP Web Developer](https://web.archive.org/web/20050308094454id_/http%3A//www.pagetraffic.com/dedicated-web-developer.htm)  
-[](https://web.archive.org/search-engine-positioning.htm) | [Dedicated Web Designer](https://web.archive.org/web/20050308094454id_/http%3A//www.pagetraffic.com/dedicated-web-designer.htm)  
+| [Non Reciprocal link building](https://web.archive.org/web/20051212101512id_/http%3A//www.pagetraffic.com/one-way-links.htm)  
+[](https://web.archive.org/search-engine-positioning.htm) | [Link Popularity FAQ](https://web.archive.org/link-popularity-faq.htm)  
+**Offshore Outsourcing Offerings:**  
+[](https://web.archive.org/search-engine-optimisation.htm) | [Dedicated SEO Consultant](https://web.archive.org/web/20051212101512id_/http%3A//www.pagetraffic.com/search-engine-optimization-consultants.htm)  
+[](https://web.archive.org/search-engine-positioning.htm) | [Dedicated PPC Specialist](https://web.archive.org/ppc-consultant.htm)  
+  
+[](https://web.archive.org/search-engine-optimization.htm)
+
+| [Dedicated Link Builder](https://web.archive.org/web/20051212101512id_/http%3A//www.pagetraffic.com/dedicated-link-builder.htm)  
+[](https://web.archive.org/search-engine-positioning.htm) | [Dedicated PHP-Perl Web Developer](https://web.archive.org/web/20051212101512id_/http%3A//www.pagetraffic.com/dedicated-php-developer.htm)  
+[](https://web.archive.org/search-engine-optimisation.htm) | [Dedicated ASP Web Developer](https://web.archive.org/web/20051212101512id_/http%3A//www.pagetraffic.com/dedicated-web-developer.htm)  
+[](https://web.archive.org/search-engine-positioning.htm) | [Dedicated Web Designer](https://web.archive.org/web/20051212101512id_/http%3A//www.pagetraffic.com/dedicated-web-designer.htm)  
+**[Search Engine Registration](https://web.archive.org/search-engine-registration.htm)**  
+| [Search Engine Submission](https://web.archive.org/search_engine_submission.htm)  
+| [Directory Submission Services](https://web.archive.org/directory_submission.htm)  
 **[Pay Per Click Management:](https://web.archive.org/pay-per-click-marketing.htm)**  
 | [PPC Bid Management](https://web.archive.org/ppc-bid-management.htm)  
   
@@ -138,8 +148,8 @@ Consistent with the Federal Children's Online Privacy Protection Act of 1998 (CO
 | [PPC Copywriting](https://web.archive.org/ppc-copywriting.htm)  
 | [ROI Tracking](https://web.archive.org/ppc-roi-tracking.htm)  
 | [Pay Per Click Programs](https://web.archive.org/ppc-management.htm)  
-**[Search Engine Registration](https://web.archive.org/search-engine-registration.htm)**  
 **[Request a Quote](https://web.archive.org/request-seo-quote.asp)**  
+**[Testimonials](https://web.archive.org/testimonials.htm)**  
 **[Partner with Us](https://web.archive.org/search-engine-optimization-company.asp)**  
   
 * * *
