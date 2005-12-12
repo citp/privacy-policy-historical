@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the newhomesource.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208205257id_/http%3A//www.newhomesource.com/sitehelp/SiteHelp.aspx%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhomesource.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212154700id_/http%3A//www.newhomesource.com/sitehelp/SiteHelp.aspx%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # New homes for sale, home builders and house plans.
 
 Builder Homesite is committed to safeguarding your privacy online whenever you use any of our Websites, including (but not limited to) NewHomeSource.com. We encourage you to review the following Privacy Policy so that you may understand how your personal information will be treated as you make full use of our many offerings. 
 
-**What personally identifiable information about me do you collect?  
-** We may collect different types of information in several different ways from our Websites. 
+**What personally identifiable information about me do you collect?**  
+We may collect different types of information in several different ways from our Websites.
 
 As an initial matter, you may browse our Websites without submitting any personal information. If you choose to take advantage of some of our specific products and services that are available only to registered users, however, you will be asked to register with us. As part of your registration, we may ask for personally identifiable information, such as your name, address, email address, birth date, gender, occupation, industry, family information, and personal interests. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience on our sites. We keep all of your personally identifiable information in secure online and offline facilities. Once you register, your use of our Websites will no longer be anonymous and you will be able to take full advantage of the many specialized offerings on our Websites. 
 
@@ -38,7 +38,7 @@ The information 24/7 Real Media processes on behalf of NewHomeSource.com belongs
 **How do you use my information?**  
 Our primary goal in collecting personally identifiable and other information is to provide you, the user, with a customized experience on our Websites. This includes personalization services and many other types of services. By knowing a little about you, we are able to deliver more relevant advertisements and content, and hence a better and more valuable service, to you. For example, the more we know about the type of home or community in which you are interested, the more appropriate information we can deliver to you.
 
-In our role of delivering targeted advertisements, we play the middleman. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, males over 35 years old). We and/or our advertising server agency take the advertisement and display or transmit it to users meeting those criteria. In this process, the advertiser never has access to individual account information. Only we have access to individuals' accounts. This kind of advertisement targeting is done with banner ads, as well as by promotional emails. You will only receive special offers via email from us if you have indicated in your account preferences that you would like to receive them. Of course, you may review or change [your account preferences](http://newhomesource.com/) at any time.
+In our role of delivering targeted advertisements, we play the middleman. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, males over 35 years old). We and/or our advertising server agency take the advertisement and display or transmit it to users meeting those criteria. In this process, the advertiser never has access to individual account information. Only we have access to individuals' accounts. This kind of advertisement targeting is done with banner ads, as well as by promotional emails. You will only receive special offers via email from us if you have indicated in your account preferences that you would like to receive them. Of course, you may review or change [your account preferences](http://www.newhomesource.com/) at any time. If you no longer wish to receive newsletters, [click here](http://www.newhomesource.com/login/unsubscribe.aspx) and enter the email address you used to subscribe.
 
 In addition, we do research on our users' demographics, interests, and behavior based on the information provided to us upon registration, during a promotion, from our server log files, or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis and may be shared with advertisers or business partners. We also collect IP addresses for system administration and to report aggregate, nonpersonally identifiable information to our advertisers and partners. For this purpose, no personally identifiable information will be linked to any information that can identify any individual person. 
 
@@ -66,7 +66,7 @@ Third Party Data and Aggregated Data: Under confidentiality agreements, we may m
 Other: We may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Use or may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, the rights of our users or other parties, or anyone else that could be harmed by such activities. We may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. We also may disclose your personally identifiable information in connection with the sale of our company's business or assets. 
 
 **What are my choices regarding your collection, use, and distribution of my information?**  
-We may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from our partners and us, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only we (or companies with whom we contract and who agree to keep your information confidential) will prepare these direct mailings and only if you indicated that you do not object to receiving these offers. If you do not want to receive or continue receiving such mailings, simply tell us when you give us your personal information or change [your account preferences](http://newhomesource.com/).
+We may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from our partners and us, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only we (or companies with whom we contract and who agree to keep your information confidential) will prepare these direct mailings and only if you indicated that you do not object to receiving these offers. If you do not want to receive or continue receiving such mailings, simply tell us when you give us your personal information or change [your account preferences](http://www.newhomesource.com/). If you no longer wish to receive newsletters, [click here](http://www.newhomesource.com/login/unsubscribe.aspx) and enter the email address you used to subscribe.
 
 On some of our promotions, we will ask for your email address in order to update you on your score, entries, and status in prize drawings. When you participate in these types of promotions, you automatically receive promotion-related email, unless you choose the no-email option that some promotions offer. Occasionally these promotion-related email messages may include targeted advertisements. You may also be required to provide personally identifiable information to collect your prize when you win one of our promotions or contests. 
 
@@ -74,13 +74,13 @@ You also have choices with respect to cookies. By modifying your Internet browse
 
 We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests. 
 
-You also may edit your personally identifiable information by following the instructions found in [your account preferences](http://newhomesource.com/).
+You also may edit your personally identifiable information by following the instructions found in [your account preferences](http://www.newhomesource.com/).
 
 You may also request that we delete or deactivate your account at any time, but doing so will result in not being able to access certain areas of our Websites. Please contact us at [support@newhomesource.com](mailto:support@newhomesource.com) for further instructions about deleting or deactivating your account with us. It may take us a few days to delete or deactivate your account following your request and we may maintain certain residual information about your account in our archives. 
 
 If you are participating in one of our promotions and you wish to update your email address for the promotions mailing list or to stop participating in one of the promotions, please contact us at [support@newhomesource.com](mailto:support@newhomesource.com). 
 
-Again, remember, you can review or modify [your account preferences](http://newhomesource.com/) at any time.
+Again, remember, you can review or modify [your account preferences](http://www.newhomesource.com/) at any time. If you no longer wish to receive newsletters, [click here](http://www.newhomesource.com/login/unsubscribe.aspx) and enter the email address you used to subscribe.
 
 **How do you protect my personal financial information?**  
 Keeping your personal financial information private is vitally important to us. 
@@ -100,6 +100,17 @@ The safety of children is very important to us. We maintain general audience Web
 We encourage parents to create a safe place for children on the Internet. Parental control protections (such as computer hardware, software or filtering services) are commercially available that may assist parents in limiting access to content that may be harmful to minors. We also encourage parents to monitor their child's use of the Internet and teach them not to disclose any personally identifiable information (including their age, appearance, school, grade, etc.) about themselves in emails, chat rooms, or on other sites, except with your knowledge and approval. 
 
 **Where can you get additional information about us or our Websites?**  
-Our Websites are owned and operated by Builder Homesite, Inc., 5300 Riata Park Ct., Bldg. A, Suite 100, Austin, TX 78727. For further information about our company, please visit our company's [Website](http://www.builderhomesite.com/).
+Our Websites are owned and operated by Builder Homesite, Inc., 5300 Riata Park Court, Building A, Suite 100, Austin, Texas 78727. For further information about our company, please visit our company's [Website](http://www.builderhomesite.com/).
 
 Additionally, if you have any questions about this Privacy Policy, please contact [support@newhomesource.com](mailto:support@newhomesource.com)
+
+  
+
+
+**Your California Privacy Rights**  
+California enacted the "Shine the Light" law (California Civil Code Section 1798.83) that permits customers of Builder Homesite who are California residents to request certain information regarding its disclosure of personal information during the past year to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@newhomesource.com](mailto:support@newhomesource.com) or write us at: 
+
+Attn: NHS Privacy Policy  
+5300 Riata Park Court  
+Building A, Suite 100  
+Austin, TX 78727
