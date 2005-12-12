@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rif.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306195621id_/http%3A//www.rif.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rif.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212142801id_/http%3A//www.rif.org/privacy) for the most accurate reproduction.*
 
 # Reading Is Fundamental | Calendar
 
@@ -16,7 +16,7 @@
 
 RIF uses the collected information to improve the content of the RIF website, notify RIF visitors of web updates, and validate visitors' RIF affiliation to allow them to access select RIF resources.  
 
-RIF does not share this information with other organizations for commercial purposes and does not engage in email marketing. Please be aware, however, that websites linked to our site may collect information about you when you arrive on their sites. The information practices of those websites linked to the RIF site are not covered by this privacy statement. 
+Please be aware that websites linked to our site may collect information about you when you arrive on their sites. The information practices of those websites linked to the RIF site are not covered by this privacy statement. 
 
 Security Precautions   
 In addition to the security measures in place for protecting your personal data (as mentioned above), RIF provides protection to those who are using online credit card transactions to donate to RIF. 
@@ -47,4 +47,4 @@ Reading Is Fundamental, Inc.
 1825 Connecticut Avenue NW, Suite 400  
 Washington, DC 20009
 
-We can be reached via email at [contactus@rif.org](mailto:contactus@rif.org) or by telephone at (202) 673-0020 or toll free at 1-877-RIF-READ.
+We can be reached via email at [contactus@rif.org](mailto:contactus@rif.org) or by telephone toll free at 1-877-RIF-READ.
