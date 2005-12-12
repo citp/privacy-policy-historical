@@ -1,33 +1,33 @@
-> *The following text is extracted and transformed from the sonicwall.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicwall.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/company/privacy.html) for the most accurate reproduction.*
 
 # SonicWALL - Privacy Statement
 
-| [](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/index.html)  
+| [](https://web.archive.org/)  
 ---  
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/products/index.html)  
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/applications/index.html)  
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/industries/index.html)  
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/support/index.html)  
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/alert/index.html)  
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/howtobuy/index.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/products/index.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/applications/index.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/industries/index.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/support/index.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/alert/index.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/howtobuy/index.html)  
 [](http://www.sonicwall.com/channel_partners/index.asp)  
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/company/index.html)  
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/company/mgmt.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/company/index.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/company/mgmt.html)  
   
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/company/investor.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/company/investor.html)  
   
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/company/jobs.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/company/jobs.html)  
   
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/company/events.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/company/events.html)  
   
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/company/corporate_governance.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/company/corporate_governance.html)  
   
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/company/contact.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/company/contact.html)  
   
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/company/strategic.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/company/strategic.html)  
   
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/newsroom/index.html)  
-[](https://web.archive.org/web/20050205184223id_/http%3A//www.sonicwall.com/intl/index.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/newsroom/index.html)  
+[](https://web.archive.org/web/20051212131323id_/http%3A//www.sonicwall.com/intl/index.html)  
 ---  
 |  |  |  |   
 |  |  |  |   
@@ -36,7 +36,7 @@
 |  |   
 |  |   
 |    
-
+Privacy Statement
 
 This privacy statement is applicable to sonicwall.com and all its affiliates. 
 
