@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretgeek.net privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretgeek.net privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,11 +8,13 @@ I do not rent, sell, or share personal information about you with other people o
 
 I abhor spam.
 
-If you choose to join my mailing list, then you'll receive my irregular newsletter. If you are not on the mailing list, then I won't email you the newsletter. If you tell me you want to leave the mailing list, then you'll be removed from it. Each newsletter includes clear instructions on how you can leave the mailing list. 
+I gather traffic information on an anonymous basis and exclusively use this for analysing the effectiveness of my site. I don't make this information available to anyone else. I don't use 'Web Bugs' or other tricks.
 
-The newsletter is light weight, does not include advertisements, and intends to be useful and informative. If it doesn't make you laugh, then I recommend you unsubscribe. I won't punish you.
+The site now contains advertisements. In particular there are 'google ads' down the right hand side of the page. In future I might put these ads in a more prominent location, since you slackers don't seem to click on them often enough. A contract with google prevents me from disclosing how much money I make from the ads. I think it's okay for me to admit this much though: to date it's not enough to cover hosting costs.
 
-I gather traffic information on an anonymous basis and exclusively use this for analysing the effectiveness of my site. I don't make this information available to anyone else. I don't use 'Web Bugs' or other tricks. The site is advertisement free. 
+I also use the 'Amazon Referer' program in a futile attempt to make serious money. When I mention a book I sometimes provide a link to "Amazon.com." If such a link contains the word 'secretGeek' then you can be certain I'm out to make a few bucks on the quick. I only recommend books that I actually like, though, so if I say "Go and buy this book" then it's motivated by one part greed and one part honesty. If I were a little less greedy I would say "Go and borrow this book from a library." I like libraries and I think more people should use them.
+
+Also, publishers send me books, gratis, and I review them here. I only publish review for book that I like, or that I find interesting. This is an offshoot of my general philosophy: If you can't think of anything nice to say, then shut the f*ck up. You should know that at least a small part of my honesty in these reviews must be affected by my bibliophilic wish to keep getting free books. Still, I'm proud to encourage people to read books. Books are better than web sites. Go read one now.
 
 If you wish, you may request a copy of any personal information which I hold about you at any time. If you are aware of any inaccuracies in such personal information then I will take any steps necessary to correct those inaccuracies. I can destroy any private information I hold about you, If you so choose. 
 
@@ -21,46 +23,41 @@ If you have any concerns about this privacy policy, please contact me.
   
 
 
-[Add or view comments about this page](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/Comments_privacy.asp)
+[Add or view comments about this page](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/Comments_privacy.asp)
 
-|  [ Web App of Evil](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/webappconfigproblem.asp)  
-[ MP3s and Moods](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/mp3moods.asp)  
-[ del.icio.us](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/delicious_people.asp)  
-[ Dev While U Wait](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/dey_while_u_wait.asp)  
-[ Best Kept Secrets in .NET](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/BestKeptSecrets.asp)  
-[ Goals: 2005](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/goals2005.asp)  
-[ Tsunami!](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/tsunami.asp)  
-[ podcast pain](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/podcast_pain.asp)  
-[ Used Pizza Podcast](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/podcast_20041224.asp)  
-[ Xmas with the Scobles!](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/scoble_Xmas.asp)  
-[ code quiz](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/codequiz.asp)  
-[ windows search](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/ms_search.asp)  
-[ baby named blog](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/baby_named_blog.asp)  
-[ scoble hack](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/scoble_hack.asp)  
-[ Linkblog Added](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/new_linkblog.asp)  
-[ Soft v Hard](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/soft_hard.asp)  
-[ Bilbo, Keys](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/bilbo_key_idea.asp)  
+|  [ Get Currency Symbol](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/GetCurrencySymbol.asp)  
+[ Amazon Refers](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/amazon_ref.asp)  
+[ Kitchen Kanban](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/kitchenKanban.asp)  
+[ Check-In Watcher](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/checkinWatcher.asp)  
+[ Ruby, Netwar, Admin, Icons and Ajax](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/picks_20051208.asp)  
+[ Game of life](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/gameoflife_.asp)  
 
 
 * * *
 
-[ Older articles...](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/blogarchive.asp)  
+[ TimeSnapper.com ](http://timesnapper.com/)  
+[ Best of secretGeek](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/bestof.asp)  
+[ Archives](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/blogarchive.asp)  
 
 
 * * *
 
 * * *
 
-[ How to be depressed](https://web.archive.org/web/20050204032947id_/http%3A//www.secretgeek.net/depression_is_easy.asp)  
+[ World's 2nd Simplest Code Generator](http://secretgeek.net/w2scg.asp)  
+[ Gradient Maker](http://secretgeek.net/GradientMaker.asp)  
+[ How to be depressed](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/depression_is_easy.asp)  
 [ You are not inadequate.](http://secretgeek.net/inadequate.asp)  
 
 
 * * *
 
+* * *
+
 ## Recommended Reading
 
-[Best Kept Secrets in .NET](http://www.amazon.com/exec/obidos/redirect?tag=thesecretgeek-20&path=tg%2Fdetail%2F-%2F1590594266%3Fv%3Dglance)  
-[Coder To Developer](http://www.amazon.com/exec/obidos/ASIN/078214327X/secretgeek-20)
+[The Best Software Writing I](http://www.amazon.com/exec/obidos/redirect?link_code=ur2&camp=1789&tag=secretgeek-20&creative=9325&path=tg/detail/-/1590595009/qid=1119292089/sr=8-3/ref=pd_bbs_3?v=glance%26s=books%26n=507846 "The Best Software Writing I: Selected and Introduced by Joel Spolsky")  
+[Coder To Developer](http://www.amazon.com/exec/obidos/ASIN/078214327X/secretgeek-20 "Coder to Developer: Tools and Strategies for Delivering Your Software, by Mike Gunderloy,")
 
 * * *
 
@@ -70,7 +67,7 @@ If you have any concerns about this privacy policy, please contact me.
 
 * * *
 
-## Some good blogs
+## Recommended blogs
 
 [ Mike Gunderloy](http://www.larkware.com/)  
 [ Julia Lerman](http://www.thedatafarm.com/blog/)  
@@ -82,8 +79,8 @@ If you have any concerns about this privacy policy, please contact me.
 [ Frank Arrigo](http://blogs.msdn.com/frankarr/)  
 [ Joel Spolsky](http://www.joelonsoftware.com/)  
 [ Robert Scoble](http://radio.weblogs.com/0001011/)  
-[ Scoble Linkblog](http://www.kunal.org/scoble/)  
+[ Scoble Linkblog](http://www.scobleizer.com/linkblog/)  
 [ Dilbert](http://dwlt.net/tapestry/dilbert.rdf)  
 [ The Daily WTF](http://thedailywtf.com/)  
-[gmail](http://gmail.google.com/gmail)  
+[ gmail](http://gmail.google.com/gmail)  
 
