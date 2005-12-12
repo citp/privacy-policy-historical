@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concrete.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403224030id_/http%3A//www.concrete.org/GENERAL/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concrete.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212033357id_/http%3A//www.concrete.org/GENERAL/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # American Concrete Institute Privacy Policy
 
@@ -67,7 +67,7 @@ This policy may change over time as the institute modifies or expands its servic
   
 Correct/Update Personal Information  
 
-ACI allows you to change or modify your personal information by visiting [http://www.concrete.org/MEMBERS/MEM_addchange.asp](https://web.archive.org/MEMBERS/MEM_addchange.asp)
+ACI allows you to change or modify your personal information by visiting [ACI's address change form](https://web.archive.org/MEMBERS/MEM_addchange_member.asp). 
 
   
 Questions  
