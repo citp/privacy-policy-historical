@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306233550id_/http%3A//www.bidclerk.com/projects/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212154413id_/http%3A//www.bidclerk.com/content/privacy.jsp) for the most accurate reproduction.*
 
-# Construction Project Leads for 1000’s of U.S. Projects - Updated Daily
+# Construction Leads for 1000's of U.S. Projects - Updated Daily
 
 Privacy Policy
 
@@ -144,4 +144,4 @@ Postal Address: 111 W. Washington Street Suite 450
 Chicago, IL. 60602  
 Attn: BidClerk Customer Support  
 Support Department ([support@bidclerk.com](mailto:support@bidclerk.com))  
-or <http://www.bidclerk.com/projects/contactus.jsp>
+or <http://www.bidclerk.com/content/contactus.jsp>
