@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the simplyaudiobooks.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418051345id_/http%3A//www.simplyaudiobooks.com/processInterfaceAction.php%3FpId%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyaudiobooks.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212153944id_/http%3A//www.simplyaudiobooks.com/processInterfaceAction.php%3FpId%3D116) for the most accurate reproduction.*
 
 # Simply Audiobooks - Privacy Policy
+
+Privacy Policy
 
 Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of Simply Audiobooks' services, you agree to these terms.
 
@@ -16,7 +18,7 @@ When you register at Simply Audiobooks, we ask you for personal information. We 
 
 When you first register at Simply Audiobooks, we ask for your email address and a password. When you place your first order for the Simply Audiobooks Service, we ask you for your full name, physical address, telephone number and credit card number so we can ship your order. We use your telephone number only if there is an order-related issue, not for marketing purposes. You must certify that you are at least 18 years old. (People under 18 cannot use Simply Audiobooks's services.)
 
-Our server stores this information so that placing future orders will be quicker and easier. If you want to update your address or change credit cards, go to Your Account and make the appropriate changes. You must be signed in to access Your Account.
+Our server stores this information so that placing future orders will be quicker and easier. If you want to update your address or change credit cards, go to Your Account and make the appropriate changes. You must be logged in to access Your Account.
 
 Simply Audiobooks also offers an Affiliate program, where affiliate members direct customers to Simply Audiobooks through links on their Web sites. We ask affiliates for their site name (URL), mailing address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a site will be included in our Affiliate Network. You can email us at info@simplyaudiobooks.com for more details. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes.
 
@@ -50,7 +52,7 @@ Customers should check back for updates to this policy. Simply Audiobooks will o
 
 For transmitting your personal information to us, we use a secure server (SSL), which encrypts all of your personal information. This encryption process ensures that the information you give us is protected against unauthorized access.
 
-You can access Your Account from every page on the site to update and correct your name, email address, password, postal address, credit cards, and mailing list preferences. Please note that you must be signed in to Simply Audiobooks to access this information.
+You can access Your Account from every page on the site to update and correct your name, email address, password, postal address, credit cards, and mailing list preferences. Please note that you must be logged in to Simply Audiobooks to access this information.
 
 We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk.
 
