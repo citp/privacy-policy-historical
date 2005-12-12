@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206063712id_/http%3A//www.brinkster.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141921id_/http%3A//www.brinkster.com/AboutUs/PrivacyStatement7-13-04.aspx) for the most accurate reproduction.*
 
-# Brinkster :: web hosting to the extreme
+# Web Hosting, Free Web Site Builder & Domain Name, Web Hosting Made Easy By Brinkster
 
-* * *
+Effective Date of July 9th, 2004
 
-  
-
-
-* * *
-
-  
-Brinkster Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Brinkster.
+Brinkster has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Brinkster.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
 
@@ -22,14 +16,8 @@ This site contains links to other sites. Brinkster is not responsible for the pr
 
 We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are or may be collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies.
 
-**Public Forums**
-
+**Public Forums**  
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**Security**
-
+**Security**  
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [info@brinkster.com](mailto:info@brinkster.com).
