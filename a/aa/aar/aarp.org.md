@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aarp.org privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615081528id_/http%3A//www.aarp.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarp.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212033123id_/http%3A//www.aarp.org/privacy.html) for the most accurate reproduction.*
 
 # AARP Privacy Policy
 
@@ -23,7 +23,7 @@ Lakewood, CA 90712
 [member@aarp.org](mailto:member@aarp.org)  
 1-888-OUR-AARP (1-888-687-2277) 
 
-Privacy and www.aarp.org: Questions and Answers 
+##  Privacy and www.aarp.org: Questions and Answers 
 
 The following Questions and Answers address AARP and www.aarp.org privacy issues in more detail. We want to make sure that you understand the types of information that are collected at www.aarp.org, the ways in which that information is used and protected, and the choices that you have about this collection and use. Specifically, this privacy policy answers the following frequently asked questions:
 
@@ -63,7 +63,7 @@ Unless you have already provided us with personal information on www.aarp.org or
 
 AARP has also contracted with a vendor ([ DoubleClick](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&)) to place AARP-approved banner advertisements on www.aarp.org. The cookies allow AARP to manage the delivery of these ads - for example, by counting the number of times a visitor has viewed different banners. If a visitor has viewed the same banner a number of times, AARP can use the vendor's system to automatically display different banners in the next visit. AARP has complete control over the banners that are placed on www.aarp.org through this system. 
 
-We use another vendor ([WebTrends](http://www.webtrendslive.com/wtl_marcom/privacy_policy.htm)) to collect aggregate information about www.aarp.org usage - such as the most visited pages and features. This vendor also uses cookies and transparent images called "web bugs" to collect this information. Like cookies, web bugs do not allow us or the vendor to identify you by name or other personal characteristics. These vendors do not collect any personal information from members on www.aarp.org, and they do not share the non-personal information collected on www.aarp.org with anyone else for any other purpose. 
+We use another vendor ([WebSideStory](http://www.websidestory.com/privacy/overview.html)) to collect aggregate information about www.aarp.org usage - such as the most visited pages and features. This vendor also uses cookies and transparent images called "web bugs" to collect this information. Like cookies, web bugs do not allow us or the vendor to identify you by name or other personal characteristics. These vendors do not collect any personal information from members on www.aarp.org, and they do not share the non-personal information collected on www.aarp.org with anyone else for any other purpose. 
 
 If you are uncomfortable allowing cookies to be placed on your computer, a feature on Computers and Technology will teach you how to set your browser so that it will not accept these cookies, or so that it will notify you whenever a web site is trying to use cookies. If you choose not to accept cookies, however, you may not be able to use certain features of www.aarp.org or linked sites. You will still be able to visit the general www.aarp.org pages on an anonymous basis, just as you have in the past. 
 
