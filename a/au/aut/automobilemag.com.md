@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the automobilemag.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203222931id_/http%3A//media.primediamags.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobilemag.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212131552id_/http%3A//automobilemag.com/corporate/privacy) for the most accurate reproduction.*
 
-# Primedia Consumer Privacy Policy
+# Automobile Magazine Privacy Policy
+
+|  | 
+
+Automobile Magazine Privacy Policy
+
+  
+
 
 **PRIMEDIA CONSUMER PRIVACY POLICY**
 
@@ -154,3 +161,10 @@ Or you can fax us at (212) 745-0131, Att: Privacy Coordinator
 _
 
 Updated July 30, 2002 
+
+  
+  
+  | 
+
+  
+
