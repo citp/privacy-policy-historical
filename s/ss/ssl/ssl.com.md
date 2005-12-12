@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssl.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403112939id_/http%3A//www.ssl.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssl.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212103646id_/http%3A//www.ssl.com/privacy.jsp) for the most accurate reproduction.*
 
 # SSL Repository - Privacy Policy
 
