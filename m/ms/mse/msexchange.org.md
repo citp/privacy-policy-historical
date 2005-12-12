@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msexchange.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306122335id_/http%3A//www.msexchange.org/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msexchange.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212132517id_/http%3A//www.msexchange.org/pages/privacy.asp) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -18,3 +18,5 @@ Microsoft, ISA Server, Internet Security and Information Server, Microsoft Excha
 
 Should you have any question about the privacy issues here at MSExchange.org, please [contact us](mailto:info@msexchange.org), and we will take measures to correct any problems.   
 
+
+## Featured Links*
