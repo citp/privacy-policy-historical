@@ -1,18 +1,19 @@
-> *The following text is extracted and transformed from the gandermountain.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171440id_/http%3A//www.gandermountain.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gandermountain.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212091715id_/http%3A//www.gandermountain.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Gander Mountain™ > We Live Outdoors - Hunting, Fishing, Camping, Outdoor Recreation, Apparel & Footwear, Gunsmithing
 
 ### OUR COMMITMENT TO PRIVACY AND SECURITY
 
-We respect the privacy of our customers and their personal information. This Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and assist you in making informed decisions when using the Gander Mountain Website at [www.gandermountain.com](http://www.gandermountain.com/) (the "Site"). We only collect personally identifiable information when you choose to reveal it to us. Please be assured that none of the personally identifiable information you submit on the Site is shared with any third party except our credit card transaction processing service provider when you use your credit card to order gift cards and to a company that assists us with the Gander Guide. This statement will be periodically assessed against new technologies, business practices and our customers needs and we, therefore, encourage you to periodically view this policy.
+We respect the privacy of our customers and their personal information. This Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and assist you in making informed decisions when using the Gander Mountain Website at [http://www.gandermountain.com](http://www.gandermountain.com/) (the "Site"). We only collect personally identifiable information when you choose to reveal it to us. Please be assured that none of the personally identifiable information you submit on the Site is shared with any third party except our credit card transaction processing service provider when you use your credit card to order gift cards and to a company that assists us with the Gander Guide. This statement will be periodically assessed against new technologies, business practices and our customers needs and we, therefore, encourage you to periodically view this policy.
 
-If you have any questions or concerns regarding this policy statement, please contact us by telephone at 1-888-635-2614 or by email at [ customercommentline@gandermountain.com](mailto:customercommentline@gandermountain.com). If you prefer to write us, our postal address is:
+If you have any questions or concerns regarding this policy statement, please contact us by telephone at 1-888-635-2614 or by email at [customercommentline@gandermountain.com](mailto:customercommentline@gandermountain.com). If you prefer to write us, our postal address is:
 
 Gander Mountain Company  
+Attention: Customer Service  
 180 East 5th Street  
 St.Paul, MN 55101
 
-By visiting the Site you agree to be bound by the terms and conditions of this Privacy Policy. By accepting the Privacy Policy, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the [Site Terms & Conditions](https://web.archive.org/terms.asp). If you do not agree to the terms of this Privacy Policy or the Site Terms & Conditions, please do not use or access our Site.
+By visiting the Site you agree to be bound by the terms and conditions of this Privacy Policy. By accepting the Privacy Policy, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Site Terms & Conditions located at <http://www.gandermountain.com4/terms.asp>. If you do not agree to the terms of this Privacy Policy or the Site Terms & Conditions, please do not use or access our Site.
 
 The content of any comments, suggestions, questions, information and feedback received by Gander Mountain shall be deemed to be non-confidential. Any comments or materials sent to Gander Mountain through this Site, including all feedback, questions, comments, suggestions, questionnaires and the like, shall become the sole property of Gander Mountain. Gander Mountain shall be free to use any such suggestions, comments, concepts and the like for any and all purposes of its sole choosing, without payment of any compensation.
 
@@ -28,9 +29,13 @@ _Employment Applications_. When you submit an employment application to Gander M
 
 _Email Inquiries_. When you email an inquiry to us, we receive your email address and any other information you choose to include in your email. The content of any email inquiries received by Gander Mountain shall be deemed to be non-confidential. Any inquiries or materials sent to Gander Mountain through this Site shall become the sole property of Gander Mountain. Gander Mountain shall be free to use any such inquiries or materials for any and all purposes of its sole choosing, without payment of any compensation.
 
-_Gander Guide_. When you visit the Site you have the opportunity to sign up for Gander Mountain's Gander Guide, an on-line newsletter. The newsletter will only be sent to you if you choose to place your name on our mailing list. Please note that we use a third-party company to authenticate and validate the information provided by our customers to make sure our content arrives successfully. We have legally binding agreements with the third-party service provider that prohibits them from using your information for any purpose other than what Gander Mountain instructs them to do with it.
+_Direct Mail_. When you visit the Site you have the opportunity to sign up for Gander Mountain's Gander Guide, an on-line newsletter. The personal information submitted to Gander Mountain shall become the sole property of Gander Mountain. This information will be complied and also used for Gander Mountain's direct mailings. Direct mailings will only be sent to you if you choose to place your name on our mailing list. Please note that we use a third-party company to authenticate and validate the information provided by our customers to make sure our content arrives successfully. We have legally binding agreements with the third-party service provider that prohibits them from using your information for any purpose other than what Gander Mountain instructs them to do with it.
 
-If you wish to discontinue the e-mail newsletter, please let us know by removing your name from the mailing list or by writing us at the above postal address and telling us that you do not want to receive e-mail from our company. [Click here](https://secure.clickaction.net/ClickAction?func=S_unsubscribeMe&page=/a16686&localestring=en) to remove your name from the mailing list online.
+If you wish to discontinue receiving mail from Gander Mountain Company, please let us know by removing your name from the mailing list or by writing us at the above postal address and telling us that you do not want to receive mail from our company. 
+
+[Click here](https://secure.clickaction.net/ClickAction?func=S_unsubscribeMe&page=/a16686&localestring=en) to remove your name from the mailing list online.
+
+_Sweepstakes and Other Promotions_. When you participate in a sweepstakes or other promotion through the Site, we may receive your email address, name, address and any other information you choose to include or are required to include in connection with such participation. Such information shall be deemed to be non-confidential and shall become the sole property of Gander Mountain. Gander Mountain shall be free to use any such inquiries, materials or personally identifiable information for any and all purposes of its sole choosing, without payment of any compensation, including e-mail, facsimile or direct mail communications from Gander Mountain to you. Such information may also be shared with a third party adminstrator of a sweepstakes or other promotion for purposes of such administration. If you do not want to consent to such use, please do not participate in such sweepstakes or other promotions. 
 
 **Automatic Information**
 
@@ -68,9 +73,7 @@ SECURITY
 
 Our Site uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. Because we use SSL, placing an order online at our Site is just as safe as giving your credit card number over the phone.
 
-We have also obtained a VeriSign digital security certificate for the purchase of our gift card. VeriSign is an independent third party that authenticates the identity of others on the Internet. By registering with VeriSign, we provide you a method of independently authenticating that the entity you are dealing with over the Internet is actually Gander Mountain.
-
-Finally, the security of data transmitted over the Internet can never be completely guaranteed. Although Gander Mountain will use its best efforts to protect the security of the information, the company makes no warranties, express or implied, that no third-party will gain access to information that you transmit over the Internet.
+We have also obtained a Thawte digital security certificate for the purchase of our gift card. Thawte is an independent third party that authenticates the identity of others on the Internet. By registering with Thawte, we provide you a method of independently authenticating that the entity you are dealing with over the Internet is actually Gander Mountain.
 
 ### 
 
@@ -90,4 +93,4 @@ CHILDREN
 
 The Site is not directed nor targeted to children under the age of 13, and we do not use the Site to knowingly solicit data from or market to children under the age of 13. Because our software does not automatically distinguish visitors under 13 from other visitors, Gander Mountain requires users under 13 years of age to obtain the consent of a parent or guardian to use the Site. If Gander Mountain learns that a child has provided personally identifiable information to the Site, it will use reasonable efforts to remove such information from its files.
 
-Last updated November 24th, 2003
+Last updated September 30, 2005
