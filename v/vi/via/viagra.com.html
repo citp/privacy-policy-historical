@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the viagra.com privacy policy that was archived on 2005-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050629081411id_/http%3A//www.viagra.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viagra.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212131358id_/http%3A//www.viagra.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	
@@ -51,7 +51,7 @@ hbx.dcmp="";//DYNAMIC CAMPAIGN ID
 hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
 hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
 hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
+//hbx.hra="";//RESPONSE ATTRIBUTE					<-- removed 8/2/2005 due to 28+ char limit
 hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
 hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
 hbx.hlt="";//LEAD TRACKING
@@ -80,10 +80,17 @@ function _II(a,b,c){return a.indexOf(b,c?c:0)}
 function _IS(a,b,c){return b>a.length?"":a.substring(b,c!=null?c:a.length)}
 function _GQT(i){var qVar="o",qTok="|",a=unescape(location.search);var b=_II(a,"?"+qVar+"=");b=b<0?_II(a,"&"+qVar+"="):b;if(b<0)return "";
 var c=_II(a,"&",b+3);c=c<0?a.length:c;var d=_IS(a,b+3,c);var t1=_II(d,qTok);var t2=_II(d,qTok,t1+1);t2=(t2<0)?d.length:t2;var t3=_II(d,qTok,t2+1);t3=(t3<0)?d.length:t3;if(i==3){return _IS(d,t2+1,t3)}else if(i==2){return _IS(d,t1+1,t2);}else{return _IS(d,0,t1)}}
-var _dcmptemp=_GQT(1);
-if (_dcmptemp != "") {
-hbx.dcmp=_GQT(1)+'-'+_GQT(2)+'-'+_GQT(3);
+//var _dcmptemp=_GQT(1);					
+//if (_dcmptemp != "") {					
+//hbx.dcmp=_GQT(1)+'-'+_GQT(2)+'-'+_GQT(3);	
+
+var _dcmptemp=_GQT(1);			
+if (_dcmptemp != "") {			
+hbx.dcmp=_GQT(1)+'-'+_GQT(2);	
+hbx.hra = _GQT(3);				
 }//DYNAMIC CAMPAIGN ID
+
+
 //End custom code
 //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
 </script><script language="javascript1.1" defer="" src="scripts/hbx.js"></script>
@@ -95,7 +102,7 @@ hbx.dcmp=_GQT(1)+'-'+_GQT(2)+'-'+_GQT(3);
 <a id="top" name="top"></a>
 <table width="760" border="0" cellspacing="0" cellpadding="0" height="79">
 	<tbody><tr height="79">
-		<td valign="middle" width="270" height="79" background="images/headers/subTile.gif"><a href="index.asp"><img src="images/headers/subLogo3.gif" alt="VIAGRA Erectile Dysfunction Treatment" height="79" width="270" border="0"></a></td>
+		<td valign="middle" width="270" height="79" background="images/headers/subTile.gif"><a href="index.asp"><img src="images/headers/subLogo.gif" alt="VIAGRA Erectile Dysfunction Treatment" height="79" width="270" border="0"></a></td>
 		<td valign="middle" height="79" background="images/headers/subTile.gif">
 			<div align="right">
 			<form name="search_frm" method="get" action="search/results.asp">
@@ -294,24 +301,25 @@ Information in our data centers is backed up routinely, in order to aid in the r
 		<td valign="top" width="12"><img src="images/misc/shim.gif" height="10" width="12" border="0"></td>
 		<td valign="top" class="footer"><img src="images/misc/shim.gif" height="10" width="12" border="0">
 			
-			<p>
-</p><div align="left">
+				<p></p><div align="left">
 	<div align="left">
 		<p>VIAGRA is prescribed to treat erectile dysfunction (ED).</p>
-		<p>We know that no medicine is for everyone. If you use nitrate drugs, often used for chest pain (known as angina), don’t take VIAGRA. Taking these drugs at the same time could cause your blood pressure to drop to an unsafe level. Talk with your doctor first. Make sure you are healthy enough to have sex. If you have chest pain, nausea, or other discomforts during sex, seek medical help right away. Although erections lasting for more than four hours may occur rarely with all ED treatments in this drug class, it is important to seek immediate medical attention. Erections lasting more than six hours can result in long-term loss of potency.</p>
-<p>The most common side effects of VIAGRA are headache, facial flushing, and upset stomach. Less common are bluish or blurred vision, or being sensitive to light. These may occur for a short time.</p>
-		<p>VIAGRA does not protect you from diseases that can be passed on through sex. Make sure to protect yourself and your partner.</p>
-		<p>If you take an alpha blocker drug for high blood pressure or prostate problems, talk to your doctor. You should not take more than 25 mg of VIAGRA and an alpha blocker within 4 hours of each other.</p>
-		<p>The lowest dose of VIAGRA is 25 mg. Your doctor may start you at this dose if any of these apply to you.</p>
+		<p>We know that no medicine is for everyone. If you use nitrate drugs, often used for chest pain (known as angina), don’t take VIAGRA. Taking these drugs at the same time could cause your blood pressure to drop to an unsafe level.</p>
+		<p>Talk with your doctor first. Make sure you are healthy enough to have sex. If you have chest pain, nausea, or other discomforts during sex, seek medical help right away.</p>
+		<p>The most common side effects of VIAGRA are headache, facial flushing, and upset stomach. Less common are bluish or blurred vision, or being sensitive to light. These may occur for a short time.</p>
+		<p>In rare instances, men taking PDE5 inhibitors (oral erectile dysfunction medicines, including VIAGRA) reported a sudden decrease or loss of vision in one or both eyes. It is not possible to determine whether these events are related directly to these medicines or to other factors.  If you experience sudden decrease or loss of vision, stop taking PDE5 inhibitors, including VIAGRA, and call a doctor right away.</p>
+		<p>Although erections lasting for more than four hours may occur rarely with all ED treatments in this drug class, it is important to seek immediate medical attention. Erections lasting more than six hours can result in long-term loss of potency.</p>
+		<p>The lowest dose of VIAGRA is 25 mg. Your doctor may start you at this dose if any of these apply to you:</p>
 		<ul>
 			<li>You are age 65 or older</li>
 			<li>You have severe liver or kidney problems</li>
 			<li>You take protease inhibitors, drugs for HIV. If you do take them, your doctor may also limit how often you take VIAGRA. Your doctor may tell you to take no more than 1 dose within a 2-day (48-hour) time period</li>
 		</ul>
+		<p>If you take an alpha blocker drug for high blood pressure or prostate problems, talk to your doctor. You should not take more than 25 mg of VIAGRA and an alpha blocker within 4 hours of each other.</p>
+		<p>VIAGRA does not protect you from diseases that can be passed on through sex. Make sure to protect yourself and your partner.</p>
 	</div>
 </div>
-
-			<p></p>
+<p></p>
 			
 			<p></p><p><a class="blue" href="http://pfizer.com/download/uspi_viagra.pdf" target="_blank">Please see full prescribing information for VIAGRA (25-mg, 50-mg, 100-mg) tablets</a>.</p>
 <p class="footer"><a class="blue" href="#top">Back to top</a></p>
@@ -325,7 +333,7 @@ Information in our data centers is backed up routinely, in order to aid in the r
 	<p>
 		<img src="images/misc/shim.gif" height="10" width="12" border="0"><br>
 		<span class="pe">
-			VG194532I
+			VG194532U
 			
 		</span><br>
 		<img src="images/misc/shim.gif" height="10" width="12" border="0">
