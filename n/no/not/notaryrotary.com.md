@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the notaryrotary.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305074111id_/http%3A//www.notaryrotary.com/privacystatement.asp%3Fid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notaryrotary.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151000id_/http%3A//www.notaryrotary.com/privacystatement.asp%3Fid%3D) for the most accurate reproduction.*
 
-# Notary Rotary™ - Find a Mobile Notary, Become a Signing Agent, Buy Notary Supplies
+# Notary Rotary™ - Find a Notary Signing Agent, Buy Notary Supplies
 
 **INTRODUCTION**
 
