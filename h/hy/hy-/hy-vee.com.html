@@ -1,302 +1,411 @@
-<!--The following is the downloaded HTML source of the hy-vee.com privacy policy that was archived on 2005-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305222758id_/http%3A//www.hy-vee.com/default.asp%3Fp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hy-vee.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212140009id_/http%3A//www.hy-vee.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-	<title>Hy-Vee
-		 - Privacy
-	</title>
-	<style>
-	<!--
-		A:link { color: #FF0000; text-decoration: none; }
-		A:visited { color: #FF0000; text-decoration: none; }
-		A:active { color: #FF0000; text-decoration: none; }
-		A:hover { color: #FF0000; text-decoration: underline; }
-	-->
-	</style>
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('../images/leftnav/leftnav-specials2.gif','../images/leftnav/leftnav-onlineshopping2.gif','../images/leftnav/leftnav-pharmacy2.gif','../images/leftnav/leftnav-coupons2.gif','../images/leftnav/leftnav-specfoods2.gif','../images/leftnav/leftnav-floral2.gif','../images/leftnav/leftnav-giftcards2.gif','../images/leftnav/leftnav-banking2.gif','../images/leftnav/leftnav-products2.gif','../images/leftnav/leftnav-about2.gif','../images/leftnav/leftnav-whatsnew2.gif','../images/leftnav/leftnav-careers2.gif','../images/leftnav/leftnav-storelocator2.gif','../images/leftnav/leftnav-mediacenter2.gif','../images/leftnav/leftnav-contactus2.gif','../images/leftnav/leftnav-recipes2.gif','../images/leftnav/leftnav-links2.gif','../images/leftnav/leftnav-search2.gif','../images/leftnav/leftnav-health2.gif','../images/leftnav/leftnav-vhs2.gif')">
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td align="left" valign="top" width="111"><script language="JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
+<title>Hy-Vee :: About</title>
 
-<!-- Begin
-function formHandler(form){
-var URL = document.form.site.options[document.form.site.selectedIndex].value;
-window.location.href = URL;
-}
-// End -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="hy-vee hy vee hyvee about history">
+<meta name="description" content="About Hy-Vee.">
+	<script language="javascript" src="/includes/hvslideout.js"></script>
+	<script language="javascript">
 
-</script>
+		// the number you pass to initLeft doesn't matter since it will get
+		// changed onactivate
+		var myMenu1 = new hvSlideOutMenu("menu1", "down", -1000, 110, 180, 300)
+		var myMenu2 = new hvSlideOutMenu("menu2", "down", -1000, 110, 180, 200)
+		var myMenu3 = new hvSlideOutMenu("menu3", "down", -1000, 110, 180, 200)
+		var myMenu4 = new hvSlideOutMenu("menu4", "down", -1000, 110, 180, 200)
 
-<style type="text/css">
-<!--
-.dropdown {  font-family: Tahoma, Arial; font-size: 9px; font-style: normal; font-weight: normal; color: #000000; background-color: #FFFFFF}
--->
+    // for each menu, we set up hte onactivate event to call repositionMenu with the amount offset from center, in pixels
+		myMenu1.onactivate = function() { repositionMenu(myMenu1, -240); }
+		myMenu2.onactivate = function() { repositionMenu(myMenu2, -111); }
+		myMenu3.onactivate = function() { repositionMenu(myMenu3, 11); }
+		myMenu4.onactivate = function() { repositionMenu(myMenu4, 151); }
+
+    // this function repositions a menu to the speicified offset from center
+		function repositionMenu(menu, offset)
+		{
+      // the new left position should be the center of the window + the offset
+			var newLeft = getWindowWidth() / 2 + offset;
+
+      // setting the left position in netscape is a little different than IE
+			menu.container.style ? menu.container.style.left = newLeft + "px" : menu.container.left = newLeft;
+		}
+
+    // this function calculates the window's width - different for IE and netscape
+		function getWindowWidth()
+		{
+			return window.innerWidth ? window.innerWidth : document.body.offsetWidth;
+		}
+
+
+    hvSlideOutMenu.writeCSS();
+	</script><style type="text/css">
+#menu1Container{visibility:hidden;left:-1000px;top:110px;overflow:hidden;z-index:10000;}#menu1Container,#menu1Content{position:absolute;width:180px;height:300px;clip:rect(0 180 300 0);}
+#menu2Container{visibility:hidden;left:-1000px;top:110px;overflow:hidden;z-index:10000;}#menu2Container,#menu2Content{position:absolute;width:180px;height:200px;clip:rect(0 180 200 0);}
+#menu3Container{visibility:hidden;left:-1000px;top:110px;overflow:hidden;z-index:10000;}#menu3Container,#menu3Content{position:absolute;width:180px;height:200px;clip:rect(0 180 200 0);}
+#menu4Container{visibility:hidden;left:-1000px;top:110px;overflow:hidden;z-index:10000;}#menu4Container,#menu4Content{position:absolute;width:180px;height:200px;clip:rect(0 180 200 0);}
 </style>
 
-<script language="JavaScript">
+	<script language="JavaScript">
 <!--
-function MM_findObj(n, d) { //v4.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && document.getElementById) x=document.getElementById(n); return x;
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
 }
-//-->
-</script>
+MM_reloadPage(true);
+// -->
+</script><link rel="stylesheet" href="/styles.css" type="text/css">
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td><a href="default.asp"><img src="images/leftnav/leftnav-logo.gif" width="111" height="63" border="0"></a></td>
-	</tr>
-  <tr>
-    <td>
-      <table width="111" border="0" cellspacing="0" cellpadding="0">
+</head>
+<body bgcolor="#C6D7DE" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<table width="780" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr> 
+    <td width="9" valign="top" background="../images/common/background_gradient_left.gif"><img src="../images/common/spacer.gif" width="9" height="1"></td>
+    <td width="762"> 
+      <table width="762" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+        <tbody><tr> 
+          <td> 
+            <table width="762" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="8"><img src="/images/common/internal_top_01.gif" width="8" height="88"></td>
+    <td width="141" valign="middle" align="center" background="/images/common/internal_top_background.gif"><a href="/default.asp"><img src="/images/common/internal_logo.gif" width="96" height="34" border="0" alt="Hy-Vee, Inc."></a></td>
+    <td width="9"><img src="/images/common/internal_top_02.gif" width="9" height="88"></td>
+    <td valign="middle" width="604" background="/images/common/internal_top_red_background.jpg">
+      <table width="604" border="0" cellspacing="0" cellpadding="0" height="88">
         <tbody><tr>
-          <td align="left" valign="top"><img src="images/leftnav/leftnav-shim1.gif" width="3" height="6"></td>
-          <td align="left" valign="top"> 
-            <table width="93" border="0" cellspacing="0" cellpadding="0">
-              
-              <tbody><tr align="left" valign="top"> 
-                <td><img src="images/leftnav/leftnav-shim2.gif" width="5" height="9"></td>
+          <td>
+
+<img src="/images/headers/about.gif" width="460" height="47">
+
+          </td>
+          <td width="144">
+            <table width="144" border="0" cellspacing="0" cellpadding="0" height="88">
+              <tbody><tr>
+                <td height="30" valign="middle" align="right">
+                  <table border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td><a href="/shop/cart.asp"><img src="/images/internal/icon_cart.gif" width="16" height="12" border="0" alt="View my shopping cart"></a></td>
+                      <td><img src="/images/common/spacer.gif" width="3" height="1"></td>
+                      <td class="small_text_white"><a href="/shop/cart.asp"><b>CART</b>:
+                      0 items
+                      </a></td>
+                      <td><img src="/images/common/spacer.gif" width="10" height="1"></td>
+                    </tr>
+                  </tbody></table>
+                </td>
               </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','images/leftnav/leftnav-home2.gif',1)"><img src="images/leftnav/leftnav-home.gif" width="93" height="12" border="0" name="Image1"></a></td>
+              <tr>
+                <td height="28" align="right"><img src="/images/common/spacer.gif" width="1" height="28"></td>
               </tr>
-              
-              <tr align="left" valign="top"> 
-                <td><img src="images/leftnav/leftnav-shim2.gif" width="5" height="9"></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><img src="images/leftnav/leftnav-shopping.gif" width="93" height="16"></td>
-              </tr>
-              <tr> 
-                <form name="form"></form>
-                  <td> 
-                    <select name="site" onchange="javascript:formHandler()" class="dropdown">
-                      <option value="default.asp" selected="">online shopping:</option>
-                      <option value="default.asp?p=onlineshopping">new customers</option>
-                      <option value="http://www.shopouraisles.com">existing customers</option>
-                    </select>
-                  </td>
-                
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><img src="images/leftnav/leftnav-shim3.gif" width="5" height="5"></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=weeklyspecials" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','images/leftnav/leftnav-specials2.gif',1)"><img src="images/leftnav/leftnav-specials.gif" width="93" height="12" border="0" name="Image2"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=drugstore" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','images/leftnav/leftnav-pharmacy2.gif',1)"><img src="images/leftnav/leftnav-pharmacy.gif" width="93" height="12" border="0" name="Image4"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=coupons" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','images/leftnav/leftnav-coupons2.gif',1)"><img src="images/leftnav/leftnav-coupons.gif" width="93" height="12" border="0" name="Image5"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=floral" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','images/leftnav/leftnav-floral2.gif',1)"><img src="images/leftnav/leftnav-floral.gif" width="93" height="12" border="0" name="Image7"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=giftcards" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','images/leftnav/leftnav-giftcards2.gif',1)"><img src="images/leftnav/leftnav-giftcards.gif" width="93" height="12" border="0" name="Image8"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=internetbanking" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','images/leftnav/leftnav-banking2.gif',1)"><img src="images/leftnav/leftnav-banking.gif" width="93" height="12" border="0" name="Image9"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=onlinerefills" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('onlinerefills','','images/leftnav/leftnav-onlinerefills_f2.gif',1)"><img src="images/leftnav/leftnav-onlinerefills.gif" border="0" name="onlinerefills"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><img src="images/leftnav/leftnav-shim3.gif" width="5" height="9"></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><img src="images/leftnav/leftnav-resources.gif" width="93" height="16"></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=abouthyvee" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','images/leftnav/leftnav-about2.gif',1)"><img src="images/leftnav/leftnav-about.gif" width="93" height="12" border="0" name="Image11"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=whatsnew" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','images/leftnav/leftnav-whatsnew2.gif',1)"><img src="images/leftnav/leftnav-whatsnew.gif" width="93" height="12" border="0" name="Image12"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=careers" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','images/leftnav/leftnav-careers2.gif',1)"><img src="images/leftnav/leftnav-careers.gif" width="93" height="12" border="0" name="Image13"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=storelocator" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image14','','images/leftnav/leftnav-storelocator2.gif',1)"><img src="images/leftnav/leftnav-storelocator.gif" width="93" height="12" border="0" name="Image14"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=mediacenter" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','images/leftnav/leftnav-mediacenter2.gif',1)"><img src="images/leftnav/leftnav-mediacenter.gif" width="93" height="12" border="0" name="Image15"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=recipes" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','images/leftnav/leftnav-recipes2.gif',1)"><img src="images/leftnav/leftnav-recipes.gif" width="93" height="12" border="0" name="Image17"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="health/weeklymenu.pdf" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('menu','','images/leftnav/leftnav-menu2.gif',1)"><img src="images/leftnav/leftnav-menu.gif" width="93" height="12" border="0" name="menu"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=health" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image20','','images/leftnav/leftnav-health2.gif',1)"><img src="images/leftnav/leftnav-health.gif" width="93" height="12" border="0" name="Image20"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=links" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','images/leftnav/leftnav-links2.gif',1)"><img src="images/leftnav/leftnav-links.gif" width="93" height="12" border="0" name="Image18"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=contactus" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','images/leftnav/leftnav-contactus2.gif',1)"><img src="images/leftnav/leftnav-contactus.gif" width="93" height="12" border="0" name="Image16"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=search" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','images/leftnav/leftnav-search2.gif',1)"><img src="images/leftnav/leftnav-search.gif" width="93" height="12" border="0" name="Image19"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="default.asp?p=kidzone" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('kidszone','','images/leftnav/leftnav-kidszone2.gif',1)"><img src="images/leftnav/leftnav-kidszone.gif" width="93" height="12" border="0" name="kidszone"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><img src="images/leftnav/leftnav-shim3.gif" width="5" height="9"></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><a href="http://prints.picturecenter.kodak.com/hyvee" target="_blank"><img src="images/leftnav/photoprocessing.gif" border="0"></a></td>
-              </tr>
-              <tr align="left" valign="top"> 
-                <td><img src="images/leftnav/leftnav-shim3.gif" width="5" height="9"></td>
+              <tr>
+                <td height="30">
+                  <table width="144" border="0" cellspacing="0" cellpadding="0" height="30" background="/images/common/internal_storefinder_container.gif">
+                    <tbody><tr>
+                      <td width="16"><img src="/images/common/internal_storefinder_corner.jpg" width="16" height="30"></td>
+                      <td width="50"><img src="/images/common/internal_storefinder_text.gif" width="50" height="5"></td>
+                      <td width="11"><img src="/images/common/internal_storefinder_divider.gif" width="11" height="13"></td>
+                      <form name="storelocator" method="post" action="/storefinder/storefinder_results.asp"></form>
+                        <td width="2">
+                          <input type="text" onfocus="if(this.value=='zip')this.value='';" onblur="if(this.value=='')this.value='zip';" name="pg_zip" size="5" maxlength="5" class="form_elements" value="zip">
+                        </td>
+                        <td><img src="/images/common/spacer.gif" width="1" height="1"></td>
+                        <td><input type="image" src="/images/common/button_go.gif" width="15" height="15" border="0"></td>
+                      
+                    </tr>
+                  </tbody></table>
+                </td>
               </tr>
             </tbody></table>
+
           </td>
         </tr>
       </tbody></table>
     </td>
   </tr>
-</tbody></table></td>
-		<td width="99%" valign="top">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td background="images/topnav/topnav-background2.gif" width="100%" align="left" colspan="2" valign="top">
-							
-								<table width="589" height="63" cellspacing="0" cellpadding="0" background="images/topnav/topnav-background2.gif" border="0">
-							
-							<tbody><tr> 
-								<td width="61" cellspacing="0" cellpadding="0" valign="top"><img src="images/topnav/topnav-sq1.gif" width="61" height="55" border="0"></td>
-								<td width="175" cellspacing="0" cellpadding="0" valign="top"><img src="images/topnav/full1-1.jpg" width="175" height="55" border="0"></td>
-								<td width="353" cellspacing="0" cellpadding="0" valign="top"><img src="images/topnav/topnav-helpfulsmile.gif" width="353" height="55" border="0"></td>		
-								
-										<td width="111" cellspacing="0" cellpadding="0" valign="top"></td>
-								
-								
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					
-						<td width="100%" valign="top">
-							<table width="589" border="0" cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td width="429" valign="top"><img src="images/shim1.gif" width="14" height="16"><br>
-<table width="429" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td align="left" valign="top" width="429"><img src="images/privacy/header-privacy.gif" width="247" height="17"><br>
-      <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><br>
-      Hy-Vee will take all appropriate steps to keep any personal 
-      information you share with us on our site confidential. Hy-Vee 
-      will not sell, rent, or give away personal information gathered 
-      from this site for use in selling other company’s products or 
-      services. <br>
-      <br>
-      Any information we do gather will be used to improve our relationships 
-      with customers. We may sometimes use e-mail to communicate with 
-      customers. If you get e-mail from us and would rather not be 
-      on our distribution list, let us know and we’ll take your name 
-      off. <br>
-      <br>
-      If you have questions about this privacy policy, just <a href="mailto:info@hy-vee.com">send 
-      us a note</a>.<br>
-      </font></td>
-  </tr>
-</tbody></table></td>
-									<td width="31"><img src="images/shim1.gif" border="0" width="31" height="16"><br></td>
-									<td width="129" valign="top"><img src="images/shim1.gif" width="14" height="16"><br>
-<table width="129" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-      <td><a href="default.asp?p=WeeklySpecials"><img src="images/rightnav/roto.gif" width="115" height="70" border="0" alt="Click here for Hy-Vee's weekly specials"></a></td>
-  </tr>
-<tr> 
-    <td><img src="images/rightnav/rtshim.gif" width="20" height="9"></td>
-  </tr>
-  <tr> 
-      <td><a href="default.asp?p=recipes"><img src="images/rightnav/rightnav-recipes.gif" width="129" height="41" border="0" alt="Hy-Vee's Featured Recipes"></a></td>
-  </tr>
-  <tr> 
-    <td><img src="images/rightnav/rtshim.gif" width="20" height="9"></td>
-  </tr>
-<tr>
-      <td><a href="default.asp?p=internetbanking"><img src="images/rightnav/mhbank.gif" border="0" alt="Midwest Heritage Bank: A Hy-Vee Company"></a></td>
-  </tr>
-  <tr> 
-    <td><img src="images/rightnav/rtshim.gif" width="20" height="9"></td>
-  </tr>
-  <tr> 
-    <td>
-        <table width="115" border="0" cellspacing="0" cellpadding="0" bgcolor="#D6D6D6">
-          <tbody><tr>
-            <td><a href="default.asp?p=storelocator"><img src="images/rightnav/storelocator1.gif" width="115" height="40" border="0"></a></td>
+</tbody></table>
+
+          </td>
         </tr>
-        <tr align="center">
-          <td valign="middle">
-						<form name="frmRightSearch" action="default.asp" method="get">
-						<input type="hidden" name="p" value="storelocator">
-						<input type="text" name="txtZip" size="5" maxlength="5" style="font-size: 8pt; font-family: Verdana">
-						<a href="javascript:document.location='default.asp?p=storelocator&amp;txtZip='+document.frmRightSearch.txtZip.value"><img src="images/rightnav/storelocatorgo.gif" width="18" height="13" border="0"></a></form></td>
-						
+        <tr> 
+          <td> 
+             <table width="762" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td bgcolor="#E1081E">
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td><img src="/images/common/spacer.gif" width="21" height="1"></td>
+          <td class="navbar_link"><a href="/default.asp">HOME</a></td>
+          <td><img src="/images/common/navbar_divider.gif" width="21" height="23"></td>
+          <td class="navbar_link"><a href="/myhyvee/myhyvee.asp">MY HY-VEE</a></td>
+          <td><img src="/images/common/navbar_divider.gif" width="21" height="23"></td>
+          <td class="navbar_link"><a href="javascript:;" onmouseover="hvSlideOutMenu.showMenu('menu1');" onmouseout="hvSlideOutMenu.hideMenu('menu1')">SIMPLE SHOPPING</a></td>
+          <td><img src="/images/common/navbar_arrow_down.gif" width="11" height="23"></td>
+          <td><img src="/images/common/navbar_divider.gif" width="21" height="23"></td>
+          <td class="navbar_link"><a href="javascript:;" onmouseover="hvSlideOutMenu.showMenu('menu2');" onmouseout="hvSlideOutMenu.hideMenu('menu2')">HEALTHY LIVING</a></td>
+          <td><img src="/images/common/navbar_arrow_down.gif" width="11" height="23"></td>
+          <td><img src="/images/common/navbar_divider.gif" width="21" height="23"></td>
+          <td class="navbar_link"><a href="javascript:;" onmouseover="hvSlideOutMenu.showMenu('menu3');" onmouseout="hvSlideOutMenu.hideMenu('menu3')">HELPFUL RESOURCES</a></td>
+          <td><img src="/images/common/navbar_arrow_down.gif" width="11" height="23"></td>
+          <td><img src="/images/common/navbar_divider.gif" width="21" height="23"></td>
+          <td class="navbar_link"><a href="javascript:;" onmouseover="hvSlideOutMenu.showMenu('menu4');" onmouseout="hvSlideOutMenu.hideMenu('menu4')">COMPANY INFO</a></td>
+          <td><img src="/images/common/navbar_arrow_down.gif" width="11" height="23"></td>
+          <td><img src="/images/common/navbar_divider.gif" width="21" height="23"></td>
+          <td class="navbar_link"><a href="/contact/contact.asp">CONTACT US</a></td>
+        </tr>
+      </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+
+<div id="menu1Container" style="position:absolute; width:200px; height:300px; z-index:1; visibility: hidden"> 
+  <div id="menu1Content" style="top: -300px;">
+    <table border="0" cellspacing="1" cellpadding="5" bgcolor="#E1081E">
+      <tbody><tr> 
+        <td class="menu_slideout"><a href="/weeklyspecials/weeklyspecials.asp">Weekly 
+          Specials</a></td>
+      </tr>
+      <tr> 
+        <td class="menu_slideout"><a href="/onlineshopping/onlineshopping.asp">Online 
+          Shopping</a></td>
+      </tr>
+      <tr> 
+        <td class="menu_slideout"><a href="/holidaydinners/holidaymeals.asp">Holiday Meals</a></td>
+      </tr>
+      <tr> 
+        <td class="menu_slideout"><a href="/floral/floral.asp">Floral Shop</a></td>
+      </tr>
+      <tr> 
+        <td class="menu_slideout"><a href="/bakery/bakery.asp">Bakery</a></td>
+      </tr>
+      <tr> 
+        <td class="menu_slideout"><a href="/catering/catering.asp">Catering</a></td>
+      </tr>
+      <tr> 
+        <td class="menu_slideout"><a href="/photos/photos.asp">Photos</a></td>
+      </tr>
+      <tr>
+        <td class="menu_slideout"><a href="/giftcards/giftcards.asp">Gift Cards</a></td>
+      </tr>
+      <tr>
+        <td class="menu_slideout"><a href="/coupons/coupons.asp">Coupons</a></td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
+
+<div id="menu2Container" style="position:absolute; width:200px; height:300px; z-index:2; visibility: hidden"> 
+  <div id="menu2Content" style="top: -200px;">
+    <table border="0" cellspacing="1" cellpadding="5" bgcolor="#E1081E">
+      <tbody><tr> 
+        <td class="menu_slideout"><a href="/recipes/recipes.asp">Recipes</a></td>
+      </tr>
+      <tr> 
+        <td class="menu_slideout"><a href="/weeklymenu/weeklymenu.asp">Weekly 
+          Menu</a></td>
+      </tr>
+      <tr> 
+        <td class="menu_slideout"><a href="/health/health.asp">Health &amp; Wellness</a></td>
+      </tr>
+      <tr> 
+        <td class="menu_slideout"><a href="/pharmacy/pharmacy.asp">Pharmacy</a></td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
+
+<div id="menu3Container" style="position:absolute; width:200px; height:300px; z-index:3; visibility: hidden"> 
+  <div id="menu3Content" style="top: -200px;">
+    <table border="0" cellspacing="1" cellpadding="5" bgcolor="#E1081E">
+      <tbody><tr> 
+        <td class="menu_slideout"><a href="/storefinder/storefinder.asp">Store Finder</a></td>
+      </tr>
+      <tr>
+        <td class="menu_slideout"><a href="/wine/wine.asp">Wine &amp; Spirits</a></td>
+      </tr>
+      <tr> 
+        <td class="menu_slideout"><a href="/baby/baby.asp">Baby</a></td>
+      </tr>
+      <tr>
+        <td class="menu_slideout"><a href="/pets/pets.asp">Pets</a></td>
+      </tr>
+      <tr> 
+        <td class="menu_slideout"><a href="/onlinebanking/onlinebanking.asp">Online Banking</a></td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
+
+<div id="menu4Container" style="position:absolute; width:200px; height:300px; z-index:4; visibility: hidden"> 
+  <div id="menu4Content" style="top: -200px;">
+    <table border="0" cellspacing="1" cellpadding="5" bgcolor="#E1081E">
+      <tbody><tr> 
+        <td class="menu_slideout"><a href="/contact/contact.asp">Contact Us</a></td>
+      </tr>
+      <tr> 
+        <td class="menu_slideout"><a href="/careers/careers.asp">Careers</a></td>
+      </tr>
+	        <tr> 
+        <td class="menu_slideout"><a href="/careers/scholarships.asp">Scholarships</a></td>
+      </tr>
+      <tr> 
+        <td class="menu_slideout"><a href="/about/about.asp">About Hy-Vee</a></td>
+      </tr>
+      <tr>
+        <td class="menu_slideout"><a href="/news/news.asp">News</a></td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
+          </td>
+        </tr>
+        <tr> 
+          <td> 
+            <table width="762" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td width="158" valign="top" bgcolor="#eeeeee"> 
+                  <table width="158" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      
+    <td><img src="../images/left_photos/about.jpg" width="158" height="202"></td>
+                    </tr>
+                    <tr> 
+                      <td bgcolor="#FFFFFF"><img src="../images/common/spacer.gif" width="1" height="10"></td>
+                    </tr>
+                    <tr> 
+                      <td align="center" bgcolor="#eeeeee" class="td_left_gradient"> 
+                        <table width="100" border="0" cellspacing="0" cellpadding="0">
+                          <tbody><tr> 
+                            
+          <td><img src="../images/internal/left_copy_helpfulsmile.gif" width="121" height="52"></td>
+                          </tr>
+                          <tr> 
+                            
+          <td class="body_text_small_leftnav"><a href="/myhyvee/myhyvee.asp">Savings 
+            in your inbox</a><br>
+            Enjoy home delivery.<br>
+            Get our weekly specials sent right to your e-mail.<br>
+            <br>
+            <a href="/recipes/recipes.asp">Try something<br>
+            different tonight</a><br>
+            Search through our database featuring thousands of delicious recipes.</td>
+                          </tr>
+                        </tbody></table>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td><img src="../images/common/spacer.gif" width="1" height="19"></td>
+                    </tr>
+                  </tbody></table>
+                
+                </td>
+                <td valign="top" width="28" background="../images/common/left_divider.jpg"><img src="../images/common/left_divider_top.jpg" width="28" height="7"></td>
+                <td valign="top" width="576"> 
+                  <table width="576" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      <td colspan="3" background="../images/common/navbar_gradient.gif"><img src="../images/common/spacer.gif" width="8" height="21"></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="3"><img src="../images/common/spacer.gif" width="1" height="16"></td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" class="body_text_medium_darkgray"><p><span class="body_text_medium_red_bold">Hy-Vee.com Privacy Policy</span><br><br><span class="headline_orange">Our Commitment to Privacy</span><br><br>Hy-Vee, Inc. is committed to respecting and protecting your privacy as a visitor to our Web site at www.Hy-Vee.com. We take the issue of privacy very seriously and value the trust you place in us each time you use our services and access this Web site. This privacy statement describes the practices and policies we have put into place to safeguard your personal information that may be gathered and used as you visit our Web site.<br><br>These provisions may be changed from time to time and without notice at Hy-Vee, Inc. sole discretion and as provided by applicable law. You should check this privacy statement frequently for any such changes, but, in any case, your continued access or use of the site shall constitute acceptance of any modifications of the privacy statement. If you have any questions about our privacy policies, we encourage you to contact us using any of the methods outlined at the end of our privacy statement.<br><br><span class="headline_orange">Who is Collecting the Information?</span><br><br>Hy-Vee, Inc. is collecting information on this Web site as outlined in this privacy statement.<br><br><span class="headline_orange">What Information do we Collect?</span><br><br><i>Automatic Collection of Information:</i><br><br>If you do nothing during your visit but browse through the Web site or download information, our system will automatically gather and store certain information about your visit. This information does not identify you personally and is used in an aggregate way to help us improve our Web site and tell us the number of visitors to our site each day. Our Web server automatically collects and records the following information: </p><ul><li>The visitor’s domain name, but not the e-mail address. </li><li>The visitor’s IP address. </li><li>Aggregate information on what pages are accessed. </li><li>The name and release number of Web browser software used. </li><li>The operating system used. </li><li>The date and time you access our site. </li><li>The address of the Web site that linked to us (referral URL). </li></ul><p></p><i>Permission-based Collection of Information:</i><br><br>At different places on our site, depending upon the feature you use (i.e. shopping cart), you may be asked to volunteer personal information such as your name, credit card information, e-mail address, mailing address and telephone number. We also collect the e-mail addresses of those who communicate with us via e-mail.<br><br><span class="headline_orange">How do we use the Information we Collect?</span><br><br>The information we gather automatically and with your permission during your visit to our Web site is used in the following ways: <ul><li>Monitor, review, measure, and analyze Web site utilization. </li><li>Modify and enhance the Web site. </li><li>Improve the content and design of our Web site. </li><li>Respond to your requests. </li><li>Fulfill orders. </li><li>Distribute news and other information requested by Web visitors. </li><li>Verify your identity. </li></ul><span class="headline_orange">With Whom Will the Information be Shared?</span><br><br>The personally identifiable information gathered during your visit to this Web site is shared with organizations affiliated with Hy-Vee, Inc., and with third parties through which we either fulfill your order or information request.<br><br>We will not rent, sell, exchange or provide personally identifiable information to any third-party organization.<br><br>We may disclose information when legally compelled to do so.<br><br><span class="headline_orange">Opt-out Transfer and Correction of Information</span><br><br>Individuals may notify us that they wish to opt-out and prevent the transfer of their personally identifiable information to organizations affiliated with Hy-Vee, Inc., or correct such information by writing to us at the contact address at the end of this privacy statement. If you opt-out we may not be able to fulfill your order or answer your information request.<br><br><span class="headline_orange">Our use of Cookies</span><br><br>Many Web sites now use "cookies" to provide useful features to their visitors by providing customizable and personalized services. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer’s hard drive. For example, a Web site may use cookies to store and sometimes track information about you, your preferences, or the pages you last visited. Your browser software can be set to reject all cookies, or to ask you if you would like to accept or decline a cookie from a particular site before it is set. Most browsers offer instructions on how to reset the browser to reject cookies in the Help section of the toolbar. You should know, however, that if you reject a cookie, certain functions and conveniences of a site may not work properly. We use cookies on our Web site to store and sometimes track visitor preferences. We will not link the cookie to any of your personal information.<br><br><span class="headline_orange">Our Children’s Privacy Policy</span><br><br>Our site does not feature information and services of interest to children 13 years and under, and we do not collect personal information from anyone we know is a child under 13.<br><br><span class="headline_orange">Registration for Access</span><br><br>Some Web sites require you to provide some personal information through a registration process in order to take advantage of certain Web site features and to access content areas. For example, a registration form might request your name, telephone number and e-mail address.<br><br>Some of the features on this Web site may require registration and the disclosure of some personal information, which may include a specialized registration process for certain programs and events.<br><br><span class="headline_orange">Links to Other Sites</span><br><br>Web sites often provide a number of links that offer direct access to other useful or interesting Web sites holding potential value to site visitors. Inclusion of the other sites by links does not imply any endorsement of the material or information on the other sites. Users are encouraged to review the privacy policy of each linked site before sharing personal information.<br><br>This site includes links to non-affiliated external Web sites. We encourage users to review the privacy policy of each linked site, as we cannot be responsible for the privacy practices of other sites.<br><br><span class="headline_orange">Changes in Our Privacy Policy</span><br><br>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes. If you are concerned about how your information is used, you should check back at our Web site periodically.<br><br><span class="headline_orange">Web Site Contact Information</span><br><br>If you have questions about our privacy policy, or feel that this site is not following its stated information policy, please contact us.<br><br>Hy-Vee, Inc.<br>Internet Relations<br>5820 Westown Parkway<br>West Des Moines, Iowa 50266<br><br>Or call our Consumer Information Line toll free at: <br>1-800-289-8343 <br>Hours of Operation: <br>9 a.m. to 4 p.m. central time Monday through Friday (except holidays).<br><br><span class="headline_orange">Modification Date</span><br><br>This privacy statement was last modified on <b>October 1, 2005</b>.<br><br><br>
+                      </td>
+                      <td width="19" valign="top"><img src="../images/common/spacer.gif" width="28" height="1"></td>
+                      <td width="135" valign="top"> 
+                        <table width="104" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      <td class="sidenav_link"><span class="sidenav_header">Simple 
+                        Shopping</span><br>
+                        <span class="sidenav_link_callout">! <a href="/weeklyspecials/weeklyspecials.asp">Weekly Specials</a></span><br>
+                        <a href="/onlineshopping/onlineshopping.asp">Online Shopping</a><br>
+      <a href="/holidaydinners/holidaymeals.asp">Holiday Meals</a><br>
+      <a href="/floral/floral.asp">Floral Shop</a><br>
+      <a href="/bakery/bakery.asp">Bakery</a><br>
+      <a href="/catering/catering.asp">Catering</a><br>
+      <a href="/photos/photos.asp">Photos</a><br>
+      <a href="/giftcards/giftcards.asp">Gift Cards</a><br>
+      <a href="/coupons/coupons.asp">Coupons</a></td>
+                    </tr>
+                    <tr> 
+                      <td class="sidenav_link"><img src="/images/common/spacer.gif" width="1" height="5"></td>
+                    </tr>
+                    <tr> 
+                      
+    <td class="sidenav_link"><span class="sidenav_header">Healthy Living</span><br>
+                        <a href="/recipes/recipes.asp">Recipes</a><br>
+                        <a href="/weeklymenu/weeklymenu.asp">Weekly Menu</a><br>
+      <a href="/health/health.asp">Health &amp; Wellness</a><br>
+      <a href="/pharmacy/pharmacy.asp">Pharmacy</a></td>
+                    </tr>
+                    <tr> 
+                      <td class="sidenav_link"><img src="/images/common/spacer.gif" width="1" height="5"></td>
+                    </tr>
+                    <tr> 
+                      <td class="sidenav_link"><span class="sidenav_header">Helpful 
+                        Resources</span><br>
+      <a href="/storefinder/storefinder.asp">Store Finder</a><br>
+      <a href="/wine/wine.asp">Wine &amp; Spirits</a><br>
+      <a href="/baby/baby.asp">Baby</a><br>
+      <a href="/pets/pets.asp">Pets</a><br>
+      <a href="/onlinebanking/onlinebanking.asp">Online Banking</a></td>
+                    </tr>
+                    <tr> 
+                      <td class="sidenav_link"><img src="/images/common/spacer.gif" width="1" height="5"></td>
+                    </tr>
+                    <tr> 
+                      <td class="sidenav_link"><span class="sidenav_header">Company 
+                        Info</span><br>
+                        <a href="/contact/contact.asp">Contact Us</a><br>
+                        <a href="/careers/careers.asp">Careers</a><br>
+						<a href="/careers/scholarships.asp">Scholarships</a><br>
+                        <a href="/about/about.asp">About Hy-Vee</a><br>
+      <a href="/news/news.asp">News</a><br><br></td>
+                    </tr>
+                  </tbody></table>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
         </tr>
         <tr>
-          <td><img src="images/rightnav/storelocator2.gif" width="115" height="9"></td>
+          <td bgcolor="#999999"><img src="../images/common/spacer.gif" width="1" height="1"></td>
+        </tr>
+        <tr> 
+          <td> 
+            <table width="762" border="0" cellspacing="0" cellpadding="8">
+              <tbody><tr> 
+                <td> 
+                                          <table border="0" cellspacing="0" cellpadding="0">
+                          <tbody><tr>
+                            
+    <td class="footer">Copyright © 2005 <a href="/default.asp">Hy-Vee, Inc.</a> 
+      | <a href="/about/privacy.asp">Privacy</a> | <a href="/HIPAAnotice.doc" target="_blank">HIPAA 
+      Notice</a> | <a href="/about/security.asp">Security</a> | <a href="/about/terms.asp">Terms 
+      of Use</a> | <a href="http://hyveenet.hy-vee.com" target="_blank">For Employees</a></td>
+                          </tr>
+                        </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr>
+          <td background="../images/common/footer_redbar.gif"><img src="../images/common/spacer.gif" width="1" height="16"></td>
         </tr>
       </tbody></table>
     </td>
+    <td width="9" valign="top" background="../images/common/background_gradient_right.gif"><img src="../images/common/spacer.gif" width="9" height="1"></td>
   </tr>
 </tbody></table>
-<img src="images/shim1.gif" width="14" height="16"><br></td>
-								</tr>
-							</tbody></table>
-						</td>
-					
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr bgcolor="#CC3333"> 
-    <td><img src="images/middle/shim4.gif" width="129" height="5"></td>
-  </tr>
-	<tr>
-	    <td><img src="images/middle/shim4.gif" width="129" height="5"></td>
-	</tr>
-</tbody></table>
-<table width="700" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr align="left" valign="top"> 
-    <td width="355"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">© 
-      2002 Hy-Vee, Inc. | <a href="default.asp?p=termsofuse">Terms of use</a> | <a href="default.asp?p=privacy">Privacy</a> 
-      | <a href="http://hyveenet.hy-vee.com/">For employees</a></font></td>
-    <td align="right"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Web 
-      site development by: </font></td>
-    <td align="right" width="126"><a href="http://www.outofthebox.com" target="_blank"><img src="images/middle/mplogo.gif" border="0" alt="Meyocks &amp; Priebe Advertising, Inc."></a></td>
-  </tr>
-</tbody></table>
-
 
 
 </body></html>
