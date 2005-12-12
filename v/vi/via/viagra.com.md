@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viagra.com privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629081411id_/http%3A//www.viagra.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagra.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212131358id_/http%3A//www.viagra.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Pfizer Privacy Policy
 
 | 
 
-[Home](https://web.archive.org/web/20050629081411id_/http%3A//www.viagra.com/index.asp) > Privacy policy
+[Home](https://web.archive.org/web/20051212131358id_/http%3A//www.viagra.com/index.asp) > Privacy policy
 
 The privacy of your personal information is important to Pfizer. To better protect your privacy, we provide you with our Privacy Policy so that you will understand both our commitment to you and to your privacy. This Privacy Policy describes what information we may collect about you; how we use your information; how we protect it; and what choices you have on how that information is used. At Pfizer, we understand that health is a very personal, private subject, and we want you to feel as comfortable as possible visiting our various Web sites and using their respective services.
 
@@ -27,7 +27,7 @@ When we refer to ourselves as "we" or "Pfizer," we mean our entire company, incl
 
 This Privacy Policy only applies to the TRUSTe-certified Pfizer Web sites. You should read the Privacy Policy at each Web site that you visit after you leave one of our sites. Pfizer is not responsible for how other Web sites treat your privacy once you leave a Pfizer site. 
 
-  * To review definitions of keywords, click here: [Glossary](https://web.archive.org/web/20050629081411id_/http%3A//www.viagra.com/privacy_policy_glossary.asp)
+  * To review definitions of keywords, click here: [Glossary](https://web.archive.org/web/20051212131358id_/http%3A//www.viagra.com/privacy_policy_glossary.asp)
 
 
 
@@ -130,7 +130,7 @@ You can always contact us in order to (i) remove the personal information that y
 **VI. Children's privacy**  
 We are committed to protecting the privacy of children. We do not collect personally identifiable information from any person we actually know is a child under the age of 13.
 
-See also our [Terms of Use](https://web.archive.org/web/20050629081411id_/http%3A//www.viagra.com/terms_of_use.asp).
+See also our [Terms of Use](https://web.archive.org/web/20051212131358id_/http%3A//www.viagra.com/terms_of_use.asp).
 
 Pfizer Inc. Privacy Policy updated  _November 15, 2004_.
 
