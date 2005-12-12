@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flukenetworks.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308093329id_/http%3A//www.flukenetworks.com/us/_about%2Bus/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flukenetworks.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212155040id_/http%3A//www.flukenetworks.com/us/_about%2Bus/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Fluke Networks: privacy policy
 
@@ -108,4 +108,21 @@ To opt-out of receiving all or part of the email communications that you have ex
 
 **Email Delivery Engine**  
 Fluke Networks uses a third party to execute email communications, and this third party abides by strict privacy and anti-SPAM guidelines. Their privacy policy conforms to Fluke Networks privacy guidelines. See it at <http://www.tailoredmail.com/website3/about.htm#privacy>   
+****
 
+**Email Fraud Security Notice  
+** Fluke Networks does not permit:
+
+  * Spamming: sending unsolicited advertising to those with whom Fluke does not have an existing business relationship; posting off-topic advertising in newsgroups.  
+
+  * Spoofing: using a return email address that is not the sender’s valid reply address; sending an email message that does not contain enough information to enable the recipient to identify the sender.  
+
+  * Passive Spamming: promoting a website hosted by Fluke by spamming from another source.  
+
+  * Trolling: posting controversial messages in newsgroups to generate responses.  
+
+  * Mail Bombing: Inundating a user with email without any serious intent to correspond; sending large or multiple files to a user.
+
+If you suspect that you have been the victim of any of these types of conduct, please email [info@flukenetworks.com](mailto:info@flukenetworks.com).
+
+_Fluke Networks reserves the right to seek the imposition of criminal and civil penalties for any unacceptable online activities, including punitive damages, under any applicable law, including the Computer Fraud and Abuse Act (18 U.S.C. § 1030), the Electronic Communications Privacy Act (18 U.S.C. § 2511), the Lanham Act (15 U.S.C. § 1125(a), 15 U.S.C. § 1114), the Uniform Trade Secrets Act (RCW 19.108.010), the Unsolicited Electronic E-mail Act, and the Washington Unfair Business-Consumer Protection Act._
