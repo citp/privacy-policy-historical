@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afternic.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527222332id_/http%3A//www.afternic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afternic.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212132257id_/http%3A//www.afternic.com/privacy.php) for the most accurate reproduction.*
 
 # Afternic Privacy Statement
 
@@ -8,7 +8,7 @@
 
 Your privacy is very important to Afternic. As part of the normal operation of our business services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what may happen to that information. The privacy policies of this notice apply to http://www.Afternic.com (hereafter, the Site).
 
-As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the Membership Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC Membership Agreement](https://web.archive.org/web/20050527222332id_/http%3A//www.afternic.com/agreement.php).
+As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the Membership Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC Membership Agreement](https://web.archive.org/web/20051212132257id_/http%3A//www.afternic.com/agreement.php).
 
 AFTERNIC reserves the right to change its privacy policy from time to time.
 
