@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandilove.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403103401id_/http%3A//www.brandilove.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandilove.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212142024id_/http%3A//www.brandilove.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for NR Media, Inc.
 
