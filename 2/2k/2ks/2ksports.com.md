@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2ksports.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420084628id_/http%3A//www.take2games.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2ksports.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212145152id_/http%3A//www.take2games.com/pp.php) for the most accurate reproduction.*
 
 # TAKE TWO INTERACTIVE’S ONLINE PRIVACY STATEMENT
 
@@ -25,11 +25,12 @@ Whenever you visit a Web site that displays the ESRB Privacy Online certificatio
 
 This Privacy Policy currently applies to the following websites operated by Take Two Interactive: 
 
-• www.take2games.com   
-• www.rockstargames.com   
-• www.2kgames.com  
-• www.globalstarsoftware.com  
-• www.gathering.com  
+  * www.take2games.com
+  * www.rockstargames.com 
+  * www.2kgames.com
+  * www.globalstarsoftware.com
+  * www.gathering.com
+
 
 
 In addition, Take Two Interactive may also own several other domain names that point to the websites listed above, and we may from time to time add new sites. 
