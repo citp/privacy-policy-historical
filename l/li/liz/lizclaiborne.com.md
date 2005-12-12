@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lizclaiborne.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525114147id_/http%3A//www.lizclaiborne.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lizclaiborne.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212095022id_/http%3A//www.lizclaiborne.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Liz Claiborne Helpdesk
 
-[](https://web.archive.org/helpdesk/index.jsp) **Privacy Policy**
+Privacy Policy
 
 Effective Date March 9, 2004 
 
@@ -10,7 +10,7 @@ GSI-Chelsea Solutions, Inc. ("GSI") operates this Web site, www.lizclaiborne.com
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our Customer Service Department in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means. 
 
-If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at [customersupport@lizclaiborne.com](mailto:customersupport@lizclaiborne.com). 
+If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at [customersupport@lizclaiborne.com](mailto:customersupport@lizclaiborne.com?subject=Privacy%20Policy%20Inquiry). 
 
 **What Information About Me Is Collected and Stored?**
 
@@ -40,7 +40,7 @@ As with any business, it is possible that as our business develops, we might sel
 
 **What Steps Are Taken To Keep Personal Information Secure?**
 
-We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at [customersupport@lizclaiborne.com](mailto:customersupport@lizclaiborne.com) or by phone at 1-866-549-7467. 
+We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at [customersupport@lizclaiborne.com](mailto:customersupport@lizclaiborne.com?subject=Privacy%20Policy%20Inquiry) or by phone at 1-866-549-7467. 
 
 **How Can I Access, Correct and Update Personal Information?**
 
@@ -48,7 +48,7 @@ You can access, correct and update certain personal information that you have pr
 
 **Can I Indicate Whether or Not I Want To Receive Promotional Communications?**
 
-There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may email us at [customersupport@lizclaiborne.com](mailto:customersupport@lizclaiborne.com) or call us at 1-866-549-7467 or write to us at Liz Claiborne, Inc., Consumer Relations, One Claiborne Ave, North Bergen, NJ 07047. Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order. 
+There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may email us at [customersupport@lizclaiborne.com](mailto:customersupport@lizclaiborne.com?subject=Privacy%20Policy%20Inquiry) or call us at 866.549.7467 or write to us at Liz Claiborne., Consumer Relations, One Claiborne Ave, North Bergen, NJ 07047. Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order. 
 
 **What Happens When I Link To or From Another Web Site?**
 
