@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the conceptcarz.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212010818id_/http%3A//www.conceptcarz.com/privacyPolicy.asp%3Fd%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptcarz.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212150158id_/http%3A//www.conceptcarz.com/info/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# Concept Cars - Prototype Vehicles
+# Privacy Policy
 
-   
+  
 **Privacy Policy**
 
 * * *
@@ -35,5 +35,5 @@ Our Privacy Policy was developed as an extension of our commitment to combine th
 
 From time to time you may notice offers from outside companies advertised on our Web site. We take measures to select product or service providers that are responsible and afford privacy protections to their customers. However, we cannot make any representations about the practices and policies of these companies. 
 
-
+   
 
