@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305023213id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212144736id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
 
-# CyberAstro -Privacy Policy
+# Free Indian Astrology Sites : Cyber Astro
 
 At Cyber Astro, Ltd. we take the privacy of the information you provide us very seriously. This statement demonstrates our firm commitment to our privacy policy. Please read this carefully to understand how we use any information you provide us at [www.cyberastro.com](http://www.cyberastro.com/). 
 
