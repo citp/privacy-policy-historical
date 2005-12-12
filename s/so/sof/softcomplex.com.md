@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softcomplex.com privacy policy that was archived on 2005-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050329020152id_/http%3A//www.softcomplex.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softcomplex.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212043736id_/http%3A//www.softcomplex.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Softcomplex - Privacy Policy
 
@@ -83,8 +83,8 @@ Forum uses Cookies for personalization features such as: 'New posts in this foru
 
 Softcomplex receives online orders via well known and trusted payment options:
 
-  * PayPal [read privacy policy]
-  * ShareIt [read privacy policy]
+  * PayPal [[read privacy policy](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside "PayPal")]
+  * ShareIt [[read privacy policy](http://www.shareit.com/privacy_statement.html "ShareIt")]
 
 
 
