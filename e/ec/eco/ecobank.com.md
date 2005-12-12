@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecobank.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404034246id_/http%3A//www.ecobank.com/IBK/English/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecobank.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212035053id_/http%3A//www.ecobank.com/IBK/English/privacy_statement.htm) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
