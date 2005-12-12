@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the iqos.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203194440id_/http%3A//packeteer.com/online_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqos.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212154807id_/http%3A//www.packeteer.com/online_privacy.cfm) for the most accurate reproduction.*
 
 # Packeter > Company > Board
+
+Privacy Policy
 
 This document sets forth the Packeteer Online Privacy Policy (the "Privacy Policy") for this Web site (the "Site"). If you have objections to the Privacy Policy, you should not access or use this Site.
 
