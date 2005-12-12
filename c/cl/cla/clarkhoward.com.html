@@ -1,447 +1,491 @@
-<!--The following is the downloaded HTML source of the clarkhoward.com privacy policy that was archived on 2005-01-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050112092139id_/http%3A//clarkhoward.com/clarkhoward/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clarkhoward.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212111608id_/http%3A//clarkhoward.com/inside/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<html><head>
+<!--/htdig_noindex-->
+<title>clarkhoward.com: About Us
 
-	<title>
-
-clarkhoward.com  </title>
-
-
-
-<link rel="stylesheet" type="text/css" href="/common/images/clark.css">
+</title>
+<!--htdig_noindex-->
 
 
+<script language="JavaScript" type="text/javascript"> 
+<!--//
+function css() {
+if (screen.width == 544){
+document.write ("<link REL='stylesheet' HREF='/templates/local_640.css' TYPE='text/css'>");
+/*alert("webtv")*/
+}
+else if (screen.width == 640){
+document.write ("<link REL='stylesheet' HREF='/templates/local_640.css' TYPE='text/css'>");
+/*alert("640")*/
+}
+else if (screen.width == 800){
+document.write ("<link REL='stylesheet' HREF='/templates/local.css' TYPE='text/css'>");
+/*alert("800")*/
+}
+else if (screen.width == 832){
+document.write ("<link REL='stylesheet' HREF='/templates/local.css' TYPE='text/css'>");
+/*alert("832")*/
+}
+else if (screen.width == 1024){
+document.write ("<link REL='stylesheet' HREF='/templates/local_1024.css' TYPE='text/css'>");
+/*alert("1024")*/
+}
+else if (screen.width == 1152){
+document.write ("<link REL='stylesheet' HREF='/templates/local.css' TYPE='text/css'>");
+/*alert("1152")*/
+}
+else if (screen.width == 1280){
+document.write ("<link REL='stylesheet' HREF='/templates/local.css' TYPE='text/css'>");
+/*alert("1280")*/
+}
+else {
+document.write ("<link REL='stylesheet' HREF='/templates/local.css' TYPE='text/css'>");
+/*alert("other")*/
+}
+}
 
-<script language="JavaScript" type="text/javascript">
+window.name="main";
+if (document.layers)
+ss = "global_nn.css";
+else ss = "global.css";
+document.write ('<link rel=stylesheet type="text/css" href="/common/templates/' + ss + '">')
 
-
-
-<!--
-
-
-
-     NS4 = (document.layers);
-
-
-
-     IE4 = (document.all);
-
-
-
-    ver4 = (NS4 || IE4);
-
-
-
-     IE5 = (IE4 && navigator.appVersion.indexOf("5.")!=-1);
-
-
-
-   isMac = (navigator.appVersion.indexOf("Mac") != -1);
-
-
-
-  isMenu = (NS4 || (IE4 && !isMac) || (IE5 && isMac));
-
-
-
-
-
-
-
-function popUp(){return};
-
-
-
-function popDown(){return};
-
-
-
-
-
-
-
-if (!ver4) event = null;
-
-
-
-
-
-
+function echeck(str) {
+ 
+  var at="@"
+  var dot="."
+  var lat=str.indexOf(at)
+  var lstr=str.length
+  var ldot=str.indexOf(dot)
+  if (str.indexOf(at)==-1){
+     alert("Please enter your primary email address.")
+     return false
+  }
+ 
+  if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+     alert("Please enter your primary email address.")
+     return false
+  }
+ 
+  if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+      alert("Please enter your primary email address.")
+      return false
+  }
+ 
+   if (str.indexOf(at,(lat+1))!=-1){
+      alert("Please enter your primary email address.")
+      return false
+   }
+ 
+   if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+      alert("Please enter your primary email address.")
+      return false
+   }
+ 
+   if (str.indexOf(dot,(lat+2))==-1){
+      alert("Please enter your primary email address.")
+      return false
+   }
+  
+   if (str.indexOf(" ")!=-1){
+      alert("Please enter your primary email address.")
+      return false
+   }
+ 
+    return true     
+ }
+ 
+function ValidateForm(){
+ var emailID=document.emailform.user_email_address
+ 
+ if ((emailID.value==null)||(emailID.value=="")){
+  alert("Please enter your primary email address.")
+  emailID.focus()
+  return false
+ }
+ if (echeck(emailID.value)==false){
+  emailID.value=""
+  emailID.focus()
+  return false
+ }
+ return true
+ }
+if(navigator.appVersion.indexOf("AOL") > -1)
+ {          
+ //AOL      
+ var opt1 = 'width=472,height=257';         
+ var opt2 = 'width=472,height=257';         
+ } else if(navigator.platform.indexOf("Win") > -1)         
+ {          
+ //IE and NS Windows      
+ var opt1 = 'width=472,height=257,top=420,left=520,screenY=420,screenX=520'; 
+ var opt2 = 'width=472,height=257,top=250,left=300,screenY=250,screenX=300'; 
+ } else if(navigator.platform.indexOf("Mac") > -1)         
+ {          
+ //IE and NS Mac          
+ if(navigator.appName.indexOf("Microsoft") > -1)           
+ {          
+ var opt1 = 'width=455,height=240,top=420,left=520,screenY=420,screenX=520'; 
+ var opt2 = 'width=455,height=240,top=250,left=300,screenY=250,screenX=300'; 
+ } else if(navigator.appName.indexOf("Netscape") > -1)     
+ {          
+ var opt1 = 'width=472,height=257,top=420,left=520,screenY=420,screenX=520'; 
+ var opt2 = 'width=472,height=257,top=250,left=300,screenY=250,screenX=300'; 
+ }          
+ }          
+ function openPlayer(URL) 
+    {       
+    if(screen.width >= 1000)                
+ {          
+ window.open(URL,'Streamaudio_Player',opt1);
+ }          
+    if(screen.width <= 800)                 
+ {window.open(URL,'Streamaudio_Player',opt2);              
+ }          
+}                 
+window.onLoad = css();
 
 //-->
-
-
-
-</script>
+<!--/htdig_noindex-->
+</script><link rel="stylesheet" type="text/css" href="/common/templates/global.css"><link rel="stylesheet" href="/templates/local.css" type="text/css">
+<noscript> <link REL='stylesheet' HREF='/templates/local.css' TYPE='text/css'> </noscript>
 
 </head>
-
-
-
-
-
-
-
-<body bgcolor="#ffffff">
-
-
-
-<table width="760" cellspacing="0" cellpadding="0" border="0">
-
+<body background="/templates/bg.gif" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" id="main" valign="top">
+<tbody><tr> <td colspan="3" class="bline"></td></tr>
+<tr><td>
+<table width="100%" border="0" cellspacing="1" cellpadding="0">
 <tbody><tr>
+<td rowspan="3" valign="top" class="leftrail" align="center">
+<table cellspacing="0" cellpadding="0" border="0" class="leftrail">
+<tbody><tr><td align="center" valign="top" class="logo">&nbsp;<br> 
+      <a href="/"><img src="/templates/station_logo.gif" width="150" height="74" alt="clarkhoward.com" border="0"></a>
 
-    <td colspan="3" width="760">
+Save more, spend less and avoid ripoffs<br><br>
+<img src="/common/templates/images/trans.gif" width="126" height="1" border="0"></td></tr>
+	<tr><td class="navhed" valign="middle" align="left">
+	<img src="/images/clark_main/house_new.gif" width="16" height="11" border="0" alt="">&nbsp;Clarkhoward.com</td></tr>
+<tr><td valign="top" align="left">
+&nbsp;<a href="/index.html" class="lftnav">Home</a><br><br>
+</td></tr>
 
-			<table width="760" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-    <td width="318">
-	<a href="/index.html">
-	<img src="/templates/clark_logo.jpg" width="318" height="43" border="0" alt=""></a></td>
-    <td width="292" valign="middle" align="center" class="size">
-	<a href="/clarkhoward/radio_list.html">Find Your Radio Station</a><br> 
-	<a href="/index.html">Back to Homepage</a></td>
-	<td width="150" valign="bottom">
-	<span style="font-size: 8pt; text-decoration: underline; font-family: Arial, Helvetica, sans-serif;">
+<tr><td valign="top" align="left">
 	
-<form class="tb" method="post" action="/cgi-bin/htdig/htsearch">
+	
+	<img src="/images/clark_main/headphones.gif" width="16" height="10" border="0" alt=""><span class="navhed">&nbsp;Listen live</span><br><span class="navtxt">Hear Clark live Monday -
+Friday from 1 p.m. - 
+4 p.m. Eastern Time on</span><br>
+<span class="lftnav"><a class="lftnav" href="javascript:openPlayer('http://www.streamaudio.com/stations/player/pages/index.asp?headertext=News-Talk%20750%20WSB&amp;Station=WSB_AM',' ','%20');">WSB-AM</a> | <a href="/listen/audio_help.html" class="lftnav">audio help</a><br>
+<a href="/listen/find_a_station_near_you.html" class="lftnav">Find a station near you</a></span></td></tr>
+	<tr><td align="center" valign="top">
+	
+	<br>
+
+	</td></tr>
+		<tr><td class="navhed" valign="middle" align="left"><img src="/images/clark_main/finger.gif" width="16" height="15" border="0" alt="Clark's Advice icon">&nbsp;Clark's advice</td></tr>
+	<tr><td class="lftnav" valign="middle" align="left"><a href="/shownotes/index.html" class="lftnav">Today's show notes</a><br>
+<a href="/shownotes/clarchives.html" class="lftnav">Clarchives</a><br>
+<a href="/topics/greatesthits.html" class="lftnav">Clark's Greatest Hits</a><br>
+<a href="/inside/ask_team_clark.html" class="lftnav">Ask Team Clark </a><br>
+</td></tr>
+<tr><td align="center" valign="top">
+	
+	<br>
+
+	</td></tr>
+	<tr><td class="navhed" valign="middle" align="left"><img src="/images/clark_main/arrow.gif" width="16" height="10" border="0" alt="Quick Links Image">&nbsp;Quick links</td></tr>
+	<tr><td class="lftnav" valign="middle" align="left">
+<a href="/inside/newsletter.html" class="lftnav">Newsletters</a><br>
+<a href="/p/boards/ch/wwwthreads.pl" class="lftnav">Message boards</a><br>
+<a href="/inside/about_us.html" class="lftnav">About us</a><br>
+<!--<a href="/inside/about_us.html" class=lftnav >Store</a><br> -->
+</td></tr>
+	<tr><td align="center" valign="top">
+	
+	<br>
+
+	</td></tr>
+	<tr><td class="navhed" valign="middle" align="left"><img src="/images/clark_main/tv.gif" width="16" height="10" border="0" alt="Clark Media Image">&nbsp;Clark media<br></td></tr>
+	<tr><td class="lftnav" valign="middle" align="left">
+<a href="/clarkmedia/clark_appearances.html" class="lftnav">Appearances</a><br>
+<a href="/clarkmedia/clarks_books.html" class="lftnav">Books</a><br>
+<a href="/clarkmedia/clark_photos.html" class="lftnav">Photos</a><br>
+<a href="/clarkmedia/clark_tv.html" class="lftnav">TV</a><br></td></tr>
+<tr><td class="navhed" valign="middle" align="left"><br>Contact Us<br></td></tr>
+<tr><td class="lftnav" valign="middle" align="left">Call 1 to 4p EST:<br> (877) 87-CLARK&nbsp; <br>or (404) 872-0750<br></td></tr>
+<tr><td class="navhed" valign="middle" align="left"><br>Consumer Action Center<br></td></tr>
+<tr><td class="lftnav" valign="middle" align="left">Call 10a to 7p EST:<br>(404) 892-8227</td></tr> 
+
+
+</tbody></table>
+</td>
+<td colspan="3" align="center" valign="middle" background="/templates/bg.gif">
+<table width="488" cellspacing="0" cellpadding="10" border="0">
+<tbody><tr>
+<td align="center" valign="middle">
+<span class="small">Advertisement</span>
+<div align="left" style="float: none; left: 0px; top: 0px; position: relative; width: 468px;"> 
+                <a href="/p/boards/ch/wwwthreads.pl"><img src="/includes/ads/inhouse/clark468x60_mb.gif" width="468" height="60" alt="Clark Howard" border="0"></a>
+
+
+ </div>
+
+</td>
+</tr>
+</tbody></table>
+</td></tr>
+<tr><td colspan="3" align="left" valign="top" bgcolor="#ffffff">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff">
+<tbody><tr>
+<td bgcolor="#FFFFFF" align="left" height="100%" valign="top" colspan="3">
+<table cellspacing="0" width="100%" cellpadding="0" border="0" valign="top" bgcolor="#E9D886">
+<!--htdig_noindex-->
+<form action="/cgi-bin/clark/search.cgi" method="get" name="ncgForm1" class="search_clark"></form>
+<tbody><tr>
+<td colspan="6" bgcolor="#FFFFFF" valign="middle" align="right" class="wline"></td></tr>
+<tr>
+<td rowspan="2" bgcolor="#FFFFFF" valign="top" align="right" width="44"><img src="/images/clark_main/search_clark2.gif" width="44" height="36" border="0" alt="Ask Clark"></td>
+<td align="left" valign="top" colspan="4" class="search_clark_text"><b>&nbsp;ASK CLARK:</b>&nbsp;Find answers to all your consumer questions! Just enter your keywords below.
+</td>
+<td rowspan="4" valign="top" bgcolor="#FFFFFF" width="2%"></td>
+</tr>
+<tr>
+<td align="right" class="search_clark_box"><input type="text" name="words" maxlength="20" value="" size="15" class="search_clark_box">
 <input type="hidden" name="config" value="clark">
-<input type="hidden" name="restrict" value="clarkhoward.com">
 <input type="hidden" name="exclude" value="">
 <input type="hidden" name="method" value="and">
 <input type="hidden" name="format" value="builtin-long">
 <input type="hidden" name="sort" value="score">
-<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="120" align="center" class="tb">
-<font face="arial,helvetica" size="1">
-<b>Search clarkhoward.com:</b></font></td></tr>
-<tr><td class="tb" align="center"><input type="text" size="15" maxlength="80" name="words" value=""></td><td class="tb" align="center"><input type="submit" value="go"></td></tr></tbody></table></form>
+<input type="hidden" name="query" value="keyword">
+</td>
 
+<td align="left" valign="middle" class="search_clark_box">
+<select name="restrict" class="search_clark">
+    <option value="0" selected="" class="search_clark">All Categories</option>
+    <option value="5" class="search_clark">Cars</option>
+    <option value="8" class="search_clark">Computers &amp; The Internet</option>
+    <option value="12" class="search_clark">Consumer Awareness &amp; Alerts</option>
+    <option value="1" class="search_clark">Education, Employment &amp; The Military</option>
+    <option value="11" class="search_clark">Health &amp; Healthcare</option>
+    <option value="4" class="search_clark">Homes &amp; Real Estate</option>
+    <option value="9" class="search_clark">Insurance</option>
+    <option value="3" class="search_clark">Life &amp; Family</option>
+    <option value="7" class="search_clark">Personal Finance</option>
+    <option value="6" class="search_clark">Scams &amp; Ripoffs</option>
+    <option value="155" class="search_clark">Telephones &amp; Television</option>
+    <option value="10" class="search_clark">Travel</option>
 
-</span></td>
-</tr>
-</tbody></table></td>
+</select>
+</td>
+<td align="right" valign="bottom" width="42">
+<input type="IMAGE" src="/images/clark_main/go_back.gif" width="42" height="21" border="0" alt="GO" name="submit">
+</td>
+<td class="search_clark_text" align="right" nowrap="">
+<a href="/inside/search_help.html">search help</a> | <a href="/inside/site_map.html">sitemap</a>| <a href="/inside/advanced_search.html">advanced search</a>&nbsp;</td>
 </tr>
 <tr>
-    <td colspan="3" width="760">
-	
-	<table align="center" width="760" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-    <td width="760" align="center" valign="top">
-
-<table width="760" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td width="760">
-			<table width="760" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr><td bgcolor="#99cccc" width="760"><img src="/templates/spacer.gif" width="760" height="8"></td>
-</tr><tr><td width="760" bgcolor="#ffcc99"><img src="/templates/spacer.gif" width="760" height="4"></td></tr>
-</tbody></table></td>
-</tr></tbody></table>
-
-
-	</td>
-
-</tr>
-
-<tr>
-
-    <td width="760" align="center" valign="top">
-
-	<script language="JavaScript1.2" src="/templates/HM_Loader2.js" type="text/javascript"></script><script language="JavaScript1.2" src="/templates/HM_Arrays.js" type="text/javascript"></script><script language="JavaScript1.2" src="/templates/HM_ScriptDOM.js" type="text/javascript"></script><br>
-
-	</td>
-
-</tr>
-
-<tr>
-
-    <td width="760" align="center" valign="top">
-
-	<img src="/templates/spacer.gif" width="759" height="20">
-
-	</td>
-
-</tr>
-
+<td bgcolor="#ffffff" valign="top" align="right" width="44"></td>
+<td colspan="4" bgcolor="#FFFFFF" valign="middle" class="popsrchtxt" align="right"><b>Popular Searches:</b>
+<a href="/cgi-bin/clark/search.cgi?words=credit%20report&amp;config=clark&amp;exlude=&amp;method=and&amp;format=builtin-long&amp;sort=score&amp;query=keyword&amp;restrict=0&amp;cnt=N">credit report</a> | <a href="/cgi-bin/clark/search.cgi?words=cell%20phones&amp;config=clark&amp;exlude=&amp;method=and&amp;format=builtin-long&amp;sort=score&amp;query=keyword&amp;restrict=0&amp;cnt=N">cell phones</a> | <a href="/cgi-bin/clark/search.cgi?words=Natural%20Gas&amp;config=clark&amp;exlude=&amp;method=and&amp;format=builtin-long&amp;sort=score&amp;query=keyword&amp;restrict=0&amp;cnt=N">Natural Gas</a> | <a href="/cgi-bin/clark/search.cgi?words=free%20credit%20report&amp;config=clark&amp;exlude=&amp;method=and&amp;format=builtin-long&amp;sort=score&amp;query=keyword&amp;restrict=0&amp;cnt=N">free credit report</a> </td></tr>
+<!--/htdig_noindex-->
 </tbody></table>
-
-
-
-	</td>
-
-</tr>
-
-<tr>
-
-    <td width="150" align="center" valign="top">
-<br>
-	<table bgcolor="#000000" width="150" cellspacing="0" cellpadding="1" border="0" align="center"><tbody><tr><td width="150" align="center"><table bgcolor="#FFFFFF" width="148" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="148" valign="top" class="size">
-<table align="center" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="148" bgcolor="#99cccc" class="size"><font size="-1" face="arial,helvetica" color="#000000">
-&nbsp;&nbsp;<b>Speak to the team!</b></font></td></tr><tr><td bgcolor="#ffcc99"><img src="/templates/spacer.gif" width="145" height="5"></td></tr><tr><td valign="top" class="size" bgcolor="#ffffff">
-<p></p><table width="150" cellpadding="2" border="0">
-<tbody><tr><td width="150"> Send us a consumer question using our <br><a href="http://clarkhoward.com/advice/teamclark_questions.html">e-mail form</a>. If you are in Atlanta, call us at <br><font color="red"><b>404-892-8227</b></font>. </td></tr></tbody></table>
-
-<!--<table width=150 cellpadding=2 border=0>
-<tr><p><td width=150>Team Clark is off for a few weeks, enjoying the holidays. Please visit us again Jan. 4, 2005, when we will take your e-mail submissions again. Thanks and Happy New Year!</font> </td></tr></table>-->
-
- 
-
-
-
-</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
-<p></p><p>
-<table bgcolor="#000000" width="150" cellspacing="0" cellpadding="1" border="0" align="center"><tbody><tr><td width="150" align="center"><table bgcolor="#FFFFFF" width="148" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="148" valign="top" class="size">
-<table align="center" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="148" bgcolor="#99cccc" class="size"><font size="-1" face="arial,helvetica" color="#000000">
-&nbsp;&nbsp;<b>Got a question?</b></font></td></tr><tr><td bgcolor="#ffcc99"><img src="/templates/spacer.gif" width="145" height="5"></td></tr><tr><td valign="top" class="size" bgcolor="#ffffff">
-<p></p><table width="150" cellpadding="2" border="0">
-<tbody><tr><td width="150">
-Clark will take your consumer questions<br> 
-<font color="red">1 to 4pm, EST, M - F</font><br>
-<b>(404) 872-0750</b> <font size="-2">(Atlanta)</font><br>
-or <b>1-877-87-CLARK</b> <font size="-2"></font><br>
-• <a href="http://www.streamaudio.com/listen/cox.asp?station=wsb_am">Listen to the show</a><br>
-<font size="-2"><b>(1p to 4p EST only) <font color="red">new time!</font></b></font></td></tr></tbody></table>
-</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
-	<br>
-	
-	 
-
-	
-	<br>
-	<table bgcolor="#000000" width="150" cellspacing="0" cellpadding="1" border="0" align="center"><tbody><tr><td width="150" align="center"><table bgcolor="#FFFFFF" width="148" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="148" valign="top" class="size"><table align="center" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="148" bgcolor="#99cccc" class="size"><font size="-1" face="arial,helvetica" color="#000000"><b>&nbsp;Your Opinion</b></font></td></tr><tr><td bgcolor="#ffcc99"><img src="/templates/spacer.gif" width="145" height="5"></td></tr><tr><td valign="top" class="size" bgcolor="#ffffff">
-<table width="146" cellpadding="2" border="0"><tbody><tr><td width="146">Tell us what you think:<br>
-
-• <a href="http://www.clarkhoward.com/clarkhoward/poll.html">Vote in our poll</a><br>
-
-<!--• <a href="/cgi-bin/boards/postlist.pl?Cat=4,5&Board=clarkhowardcars">Cars</a><br>
-• <a href="/cgi-bin/boards/postlist.pl?Cat=4,5&Board=clarkhowardclarkstinks">Clark Stinks</a><br>
-• <a href="/cgi-bin/boards/postlist.pl?Cat=4,5&Board=clarkhowardmoney">Money</a><br>
-• <a href="/cgi-bin/boards/postlist.pl?Cat=4,5&Board=clarkhowardtravel">Travel</a><br>
-• <a href="/cgi-bin/boards/postlist.pl?Cat=4,5&Board=clarkhowardtechnology">Technology</a><br>
-• <a href="http://www.clarkhoward.com/cgi-bin/boards/postlist.pl?Board=clarkhowardcustomernoservice">Customer No Service</a><br>
-• <a href="/cgi-bin/boards/postlist.pl?Board=clarkhowardrealestate">Real Estate</a><br>-->
-• <a href="http://www.clarkhoward.com/cgi-bin/boards/wwwthreads.pl">Vent in our forums</a><br>
-• Our <a href="/boards/board_help.html">Q&amp;A page</a> helps you get started </td></tr></tbody></table></td></tr></tbody></table></td>
-</tr></tbody></table></td></tr></tbody></table>
-
-	</p></td>
-
-    <td width="460" align="center" valign="top">
-
-	<table width="450" cellspacing="0" cellpadding="5" border="0">
-
-<tbody><tr>
-
-    <td width="450" valign="top" class="size">
-
-	<h3>Clark:  </h3><!--beginheadline--> 
- <h3>    Privacy policy
-      </h3> <!--endheadline--> 
- 
-Cox Radio respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices.  
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;  
-&nbsp; <br> We make no guarantees about the quality or validity of the companies sponsoring this site. Anyone wishing to use information on this site must first contact radio officials to request permission.
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;   
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;  Questions regarding privacy issues should be directed to Cox Radio to the attention of the General Manager. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with any of our sites or to access those features that require registration.  
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;   
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;  The information gathered by Cox Radio falls into two categories: (1) information voluntarily supplied by visitors to our website through optional registration or e-commerce transactions, and (2) tracking information gathered as visitors navigate through our site. Third party service providers on or linked to by our website, such as vendors of products and services offered through our site, may be gathering the same kinds of information.  
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;   
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;  To make use of certain features on our website (such as our message boards) visitors need to register and to provide certain information as part of the registration process. We may also ask visitors for certain information with respect to our e-commerce services (such as in connection with the purchase of products/services on our website). (We may ask, for example, for your name, email address, sex, age, zip code and credit card information). The information you supply will help us make the site more useful to you, and to process e-commerce transactions.    
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;   
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;  To help make our site more responsive to the needs of our visitors, we invoke a standard feature of browser software, called a "cookie," to assign each visitor a unique, random number, a sort of user ID, if you will, that resides on your computer. The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won't know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can't read unrelated data off your hard drive. Our advertisers and third party service providers may also assign their own cookies to your browser, a process that we don't control.  
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;   
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;  We also use cookies to avoid showing you the same ad, repeatedly, during a single visit. In addition, we may use cookies to track the pages on our site visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our site.  
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;   
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;  Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.)  To make our site more valuable to our visitors, we offer some features in conjunction with other providers. Our site includes links to plenty of other websites, and provides access to products and services offered by third parties, whose privacy policies we don't control. When you access another website, use of any information you provide is governed by the privacy policy of the operator of that site. And when you provide information in the course of obtaining products or services through our site, use of any information you provide may be governed by the privacy policy of the provider of those products or services, even if it appears that you’re on Cox Radio-branded pages throughout the transaction. The provider’s privacy policy may differ from ours. If you can't find the privacy policy of any of our provider partners via a link either from the site's homepage or from the pages on which the products or services are offered, you should contact the provider directly for more information.  
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;   
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;  When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites -- it is usually in the form of aggregated statistics on traffic to various pages within our site. From time to time, we may share either individual or aggregated information on visitors to our site with third parties that provide services on or are linked to by our website, and with those marketing products and services that we believe may be of interest to you. Please indicate on our registration form if you'd prefer we not share such information with them. If you want to change your election (or to review, update, or delete the information you provided on registering), just return to the registration form, enter the changes you want to make, and re-submit the form. Please note that we cannot guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any chatroom, forum or other public posting area is available to anyone with Internet access. If you don't want people to know your email address, for example, don't include it in any message you post publicly.  
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;   
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;  We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.  
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;   
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;  A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.  
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;   
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;  Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.  
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;   
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;  
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp;  &nbsp; 
-&nbsp; <br> &nbsp;  &nbsp;  
-&nbsp; <br> &nbsp;  &nbsp;  &nbsp; 
-&nbsp; <br> &nbsp;  
-&nbsp; <br> &nbsp;  &nbsp; 
-&nbsp; <br> 
-&nbsp; <br> &nbsp; <br>	</td>
-
-</tr>
-
-</tbody></table>
-
-
-
-	
-
-	</td>
-
-    <td width="150" align="center" valign="top">
-
-	
-
-	<font face="arial,helvetica" size="1">Advertisement</font><br>
-
-<a href="/library/rolodex/index.html"><img src="/includes/ads/inhouse/clarkrolodex120.gif" width="120" height="90" alt="Clark's Rolodex" border="0"></a>
-
-
-
-<br>
-
-	<br>
-
-	
-
-	<table bgcolor="#000000" width="150" cellspacing="0" cellpadding="1" border="0" align="center"><tbody><tr><td width="150" align="center"><table bgcolor="#FFFFFF" width="148" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="148" valign="top" class="size">
-<table align="center" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="148" bgcolor="#99cccc" class="size"><font size="-1" face="arial,helvetica" color="#000000">
-&nbsp;&nbsp;&nbsp;<b>Clark's Shortcuts</b></font></td></tr><tr><td bgcolor="#ffcc99"><img src="/templates/spacer.gif" width="145" height="5"></td></tr><tr><td valign="top" class="size" bgcolor="#ffffff">
-<table width="146" cellpadding="2" border="0"><tbody><tr><td width="146">
-• <a href="/advice/index.html">Contact the team!</a><br>
-<font color="red"><b>New!</b></font> • <a href="/topics/529_guide.html">Clark's 529 "Honor Roll" &amp; Guide</a> <br>
-• <a href="/advice/book_signings.html">Clark's appearances</a><br> 
-• <a href="/advice/books/index.html">Get Clark's books</a><br>
-• <a href="http://www.bankrate.com/brm/rate/calc_home.asp">Calculators</a><br>
-• <a href="/topics/cellphones.html">Cell phone rates</a><br>
-• <a href="/topics/internet_deals.html">Internet Deals</a><br>
-•  <a href="/topics/long_distance.html">Long distance</a><br>
-• <a href="/topics/newsletter/index.html">Newsletters</a><br>
-• <a href="/clarkhoward/poll.html">Weekly Poll</a><br>
-• <a href="/advice/sample_letters.html">Sample Letters</a><br>
-• <a href="/library/rolodex/index.html">Rolodex</a><br>
-• <a href="/clarkhoward/sitemap.html">Site Map</a><br>
-• <a href="/library/websites.html">Web sites</a></td><td></td></tr></tbody></table> </td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
-
-<p></p><p>
-<!--<table bgcolor="#000000" width="150" cellspacing="0" cellpadding="1" border="0" align="center"><tr><td width="150" align="center"><table bgcolor="#FFFFFF" width="148" cellspacing="0" cellpadding="0" border="0" align="center"><tr><td width="148" valign="top" class="size">
-<table align="center" width="100%" cellspacing="0" cellpadding="0"><tr><td valign=top width=148 bgcolor=#99cccc class="size"><font size="-1" face="arial,helvetica" color="#000000"><b></b></font></td></tr><tr><td bgcolor=#ffcc99><img src="/templates/spacer.gif" width=145 height=5></td></tr><tr><td valign="top" class="size" bgcolor="#ffffff"><table width=150 cellpadding=2 border=0>
-<tr><td width=150></td></tr></table>
-</td></tr></table></td></tr></table></td></tr></table>-->
-
-
-
-</p></td>
-
-</tr>
-
-<tr>
-
-    <td colspan="3" width="760" valign="top">
-
-	
-
-	<table width="760" cellspacing="0" cellpadding="0" border="0" align="center">
-
-
-
-<tbody><tr>
-
-
-
-    <td width="140"><img src="/templates/spacer.gif" width="140" height="60"></td>
-
-
-
-    <td width="468" align="center">
-
-<font face="arial,helvetica" size="1">Advertisement</font><br>
-
-	
-
-
-
-	<a href="/travel/tips/todays_tip.html"><img src="/includes/ads/inhouse/travel_tips_b468redo.gif" width="468" height="60" alt="Travel Tips" border="0"></a>
-
-
-
-
-
-
-	</td>
-
-
-
-    <td width="140"><img src="/templates/spacer.gif" width="140" height="60"></td>
-
-
-
-</tr>
-
-<tr><td colspan="3" width="100%" class="size" align="center">
-
-
-
-
-
-
-
-<b><font face="arial, helvetica, sans-serif" size="2">
-
-<a href="/index.html">Home</a> |
-
-<a href="http://www.streamaudio.com/listen/cox.asp?station=wsb_am">Listen</a> | 
-
-<a href="/shownotes/index.html">Show Notes</a> | 
-
- <a href="/travel/index.html">Travel</a> | 
-
- <a href="/topics/index.html">Hot Topics</a> | 
-
-<a href="/library/index.html">Clark's Library</a> | <a href="/p/boards/ch/wwwthreads.pl">Message Boards</a> | 
-
-<a href="/advice/index.html">Consumer Advice</a> | 
-
-<a href="/about_us/help.html">Help</a></font></b> <br>
-
-<font size="1" face="arial, helvetica, sans-serif">Copyright ©2005 Cox Radio Interactive &amp; 
-
-<a href="http://www.coxradio.com" target="docwin">Cox Radio</a>
-
- All rights reserved.<br>
-
-<a href="/clarkhoward/privacy_policy.html">Privacy Policy</a> | 
-By using this website, you accept the terms of our 
-<a href="/about_us/visitor_agreement.html">Visitor Agreement</a>.  Please read it.
- | <a href="http://clarkhoward.com/cgi-bin/streaming_help.cgi">
-Technical problems?</a> </font>
-
-
-
-
 </td></tr>
+<!-- END HEADER2 -->
 
-</tbody></table>
+<tr><td colspan="3" valign="middle" bgcolor="#000000" align="left" class="bline"></td></tr>
+<tr><td class="breadcrumbs" valign="middle" align="left">
+<a href="/index.html">Home</a>&nbsp; <span class="small">&gt;</span>Privacy Policy</td>
+<td class="bline" bgcolor="#ffffff"></td>
+<td align="right" class="help" valign="middle"><a href="/inside/help.html">help</a></td></tr>
+<tr><td colspan="3" valign="middle" bgcolor="#000000" align="left" class="bline"></td></tr>
+
+<tr>
+<td valign="top">
+<table width="100%" cellspacing="0" cellpadding="10" border="0" id="main_table">
+<tbody><tr>
+<td align="left" valign="top">
+<div id="content_header">
+Privacy policy 
+</div>
+<span> 
+<div class="content"> 
+
+ <br>
+
+Cox Radio respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices.  
+
+<br> &nbsp;  &nbsp;  &nbsp;  
+
+<br> We make no guarantees about the quality or validity of the companies sponsoring this site. Anyone wishing to use information on this site must first contact radio officials to request permission.
+
+<br> &nbsp;  &nbsp;  &nbsp;   
+
+<br>
+
+Questions regarding privacy issues should be directed to Cox Radio to the attention of the General Manager. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with any of our sites or to access those features that require registration.  
+
+<br> &nbsp;  &nbsp;  &nbsp;   
+
+<br>
+
+The information gathered by Cox Radio falls into two categories: (1) information voluntarily supplied by visitors to our website through optional registration or e-commerce transactions, and (2) tracking information gathered as visitors navigate through our site. Third party service providers on or linked to by our website, such as vendors of products and services offered through our site, may be gathering the same kinds of information.  
+
+<br> &nbsp;  &nbsp;  &nbsp;   
+
+<br>
+
+To make use of certain features on our website (such as our message boards) visitors need to register and to provide certain information as part of the registration process. We may also ask visitors for certain information with respect to our e-commerce services (such as in connection with the purchase of products/services on our website). (We may ask, for example, for your name, email address, sex, age, zip code and credit card information). The information you supply will help us make the site more useful to you, and to process e-commerce transactions.    
+
+<br> &nbsp;  &nbsp;  &nbsp;   
+
+<br>
+
+To help make our site more responsive to the needs of our visitors, we invoke a standard feature of browser software, called a "cookie," to assign each visitor a unique, random number, a sort of user ID, if you will, that resides on your computer. The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won't know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can't read unrelated data off your hard drive. Our advertisers and third party service providers may also assign their own cookies to your browser, a process that we don't control.  
+
+ <br> &nbsp;  &nbsp;  &nbsp;   
+
+<br>
+
+We also use cookies to avoid showing you the same ad, repeatedly, during a single visit. In addition, we may use cookies to track the pages on our site visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our site.  
+
+<br> &nbsp;  &nbsp;  &nbsp;   
+
+<br>
+
+Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.)  To make our site more valuable to our visitors, we offer some features in conjunction with other providers. Our site includes links to plenty of other websites, and provides access to products and services offered by third parties, whose privacy policies we don't control. When you access another website, use of any information you provide is governed by the privacy policy of the operator of that site. And when you provide information in the course of obtaining products or services through our site, use of any information you provide may be governed by the privacy policy of the provider of those products or services, even if it appears that you're on Cox Radio-branded pages throughout the transaction. The provider's privacy policy may differ from ours. If you can't find the privacy policy of any of our provider partners via a link either from the site's homepage or from the pages on which the products or services are offered, you should contact the provider directly for more information.  
+
+<br> &nbsp;  &nbsp;  &nbsp;   
+
+<br>
+
+When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites -- it is usually in the form of aggregated statistics on traffic to various pages within our site. From time to time, we may share either individual or aggregated information on visitors to our site with third parties that provide services on or are linked to by our website, and with those marketing products and services that we believe may be of interest to you. Please indicate on our registration form if you'd prefer we not share such information with them. If you want to change your election (or to review, update, or delete the information you provided on registering), just return to the registration form, enter the changes you want to make, and re-submit the form. Please note that we cannot guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any chatroom, forum or other public posting area is available to anyone with Internet access. If you don't want people to know your email address, for example, don't include it in any message you post publicly.  
+
+ <br> &nbsp;  &nbsp;  &nbsp;   
+
+<br>
+
+We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.  
+
+<br> &nbsp;  &nbsp;  &nbsp;   
+
+<br>
+
+A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.  
+
+&nbsp; <br> &nbsp;  &nbsp;  &nbsp;   
+
+&nbsp; <br>
+
+Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.  
+
+&nbsp; <br> &nbsp;  &nbsp;  &nbsp;   
 
 
 
-
-
-	</td>
+</div></span>  </td>
 
 </tr>
+</tbody></table><!-- BEGIN FOOTER -->
+</td>
+<td rowspan="2" class="bline2" bgcolor="#000000"> </td>
+<td bgcolor="#FFFFFF" width="120" align="left" valign="top">
+<table width="120" cellspacing="0" cellpadding="0" border="0" bgcolor="#000000">
+<tbody><tr>
+<td bgcolor="#FFFFFF" align="left" height="100%" valign="top">
+<img src="/common/templates/images/trans.gif" width="120" height="6"><br>
+<table width="120" cellspacing="0" cellpadding="5" border="0" align="center">
+<tbody><tr>
+<td align="center" valign="top" class="txtspons">
+<span class="small">Advertisement</span>
+<div align="center" style="float: none; left: 0px; top: 0px; position: relative; width: 120px;">
+<nolayer> <iframe src="http://ad.doubleclick.net/adi/cxri.clarkhoward/inside;pg=/inside/privacy_policy.html;mkt=atl;sz=120x90;tile=3;ord=Q51b9woAAHQAAFvKVUM?" width="120" height="90" frameborder="0" border="0" marginheight="0" marginwidth="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cxri.clarkhoward/inside;pg=/inside/privacy_policy.html;mkt=atl;sz=120x90;tile=3;ord=Q51b9woAAHQAAFvKVUM?"><img src="http://ad.doubleclick.net/ad/cxri.clarkhoward/inside;pg=/inside/privacy_policy.html;mkt=atl; sz=120x90;tile=3;ord=Q51b9woAAHQAAFvKVUM?" height=90 width=120 border=0></A></iframe></nolayer><ilayer id="ph120901" visibility="hidden" width="120" height="90"></ilayer>
 
+<br><br>
+<table class="poll">
+<tbody><tr>
+<th class="poll_header" bgcolor="#E9D886">This week's poll</th></tr>
+<tr><td><!--htdig_noindex--></td></tr><tr>
+<td align="center" class="content"> <form action="/cgi-bin/vpolls/pollVote.cgi" name="pollForm" method="post" target="pollpopup">
+  <table border="0">
+    <tbody><tr>
+      <td colspan="2"><b class="storyhed">Have you started your holiday shopping?</b></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" width="4%"><input type="radio" name="answer" value="1"></td>
+      <td halign="left">Already done!</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" width="4%"><input type="radio" name="answer" value="2"></td>
+      <td halign="left">In the thick of it!</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" width="4%"><input type="radio" name="answer" value="3"></td>
+      <td halign="left">Struggling through!</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" width="4%"><input type="radio" name="answer" value="4"></td>
+      <td halign="left">It's too early!</td>
+    </tr>
 </tbody></table>
+<input type="hidden" value="8757" name="poll">
+<input type="submit" value="Vote" onclick="pollSubPop('','pollpopup','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=510,height=430'); this.pollForm.submit();">
+<input type="submit" value="See Results" name="disabled" onclick="pollSubPop('','pollpopup','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=510,height=430'); this.pollForm.submit();">
+</form>
+<script language="JavaScript"><!--
+// this will open a new window, submit the poll form,
+// and send the results to the popup window
+function pollSubPop (url, name, widgets, specialsURL)
+{
+popupWin = window.open(url, name, widgets);
+popupWin.focus();
+}
+// -->
+</script>
+
+<a href="/inside/weekly_polls.html">see previous polls</a><!--htdig_noindex--></td></tr>
+</tbody></table>
+<br><br>
+<span class="small">Advertisement</span>
+<nolayer><iframe src="http://ad.doubleclick.net/adi/cxri.clarkhoward/inside;pg=/inside/privacy_policy.html;mkt=atl;sz=120x400;tile=2;ord=Q51b9woAAHQAAFvKVUM?" width="120" height="400" frameborder="0" border="0" marginheight="0" marginwidth="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cxri.clarkhoward/inside;pg=/inside/privacy_policy.html;mkt=atl;sz=120x400;tile=2;ord=Q51b9woAAHQAAFvKVUM?"><img src="http://ad.doubleclick.net/ad/cxri.clarkhoward/inside;pg=/inside/privacy_policy.html;mkt=atl; sz=120x400;tile=2;ord=Q51b9woAAHQAAFvKVUM?" height=400 width=120 border="0"></A></iframe></nolayer><ilayer id="ph1204001" visibility="hidden" width="120" height="400"></ilayer>
 
 
 
+</div>
+</td></tr></tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td bgcolor="#FFFFFF" align="left" valign="middle" class="footer_clark">
+  <!--!!BEGIN_PFRIENDLY-->
+<table width="100%" align="center" cellspacing="0" cellpadding="10" border="0">
+<tbody><tr><td align="right" valign="top" nowrap=""><img src="/common/templates/images/email_ico15.gif" width="15" height="15" alt="" border="0" align="middle">&nbsp;<a href="/cgi-bin/email_page/e2f.cgi" class="small">email this page to a friend</a></td>
+<td align="left" valign="top" nowrap=""><img src="/common/templates/images/print_ico15.gif" width="15" height="15" alt="" border="0" align="middle">&nbsp;<a href="/cgi-bin/printer.cgi" target="new" class="small">get a printer-friendly version</a></td>
+</tr></tbody></table>
+                <!--!!END_PFRIENDLY-->
+<hr>
+
+Copyright © 2005 <a href="http://www.coxradio.com" target="_blank">Cox Radio, Inc.</a> and Cox Radio Interactive. All rights reserved. By using this website, you accept the terms of our <a href="/inside/visitor_agreement.html">Visitor Agreement</a>. <a href="/inside/privacy_policy.html">Privacy Policy.</a><br>&nbsp;
+
+</td>
+<td>&nbsp;</td>
+</tr>
+</tbody></table>
+</td></tr></tbody></table>
+<layer src="http://ad.doubleclick.net/adl/cxri.clarkhoward/inside;pg=/inside/privacy_policy.html;mkt=atl;sz=468x60;tile=1;ord=Q51b9woAAHQAAFvKVUM?" width="468" height="60" visibility="hidden" onload="moveToAbsolute(ph468601.pageX,ph468601.pageY); visibility='show';"></layer> 
+ 
+<layer src="http://ad.doubleclick.net/adl/cxri.clarkhoward/inside;pg=/inside/privacy_policy.html;mkt=atl;sz=120x400;tile=2;ord=Q51b9woAAHQAAFvKVUM?" width="120" height="400" visibility="hidden" onload="moveToAbsolute(ph1204001.pageX,ph1204001.pageY); visibility='show';"></layer>
+ 
+<layer src="http://ad.doubleclick.net/adl/cxri.clarkhoward/inside;pg=/inside/privacy_policy.html;mkt=atl;sz=120x90;tile=3;ord=Q51b9woAAHQAAFvKVUM?" width="120" height="90" visibility="hidden" onload="moveToAbsolute(ph120901.pageX,ph120901.pageY); visibility='show';"></layer>
+ 
+<layer src="http://ad.doubleclick.net/adl/cxri.clarkhoward/inside;pg=/inside/privacy_policy.html;mkt=atl;sz=120x90;tile=4;ord=Q51b9woAAHQAAFvKVUM?" width="120" height="90" visibility="hidden" onload="moveToAbsolute(ph120902.pageX,ph120902.pageY); visibility='show';"></layer>
+ 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="HM_Menu2" style="position: absolute; visibility: visible; left: 11px; top: 75px; width: 754px; border-width: 2px; border-color: rgb(153, 204, 204); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 16px;"><div id="HM_Item2_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px; font: bold 8pt Arial, sans-serif; border-right: 2px solid rgb(153, 204, 204); width: 120px; top: 0px; left: 0px; height: 16px;">Show Notes</div><div id="HM_Item2_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px; font: bold 8pt Arial, sans-serif; border-right: 2px solid rgb(153, 204, 204); width: 120px; top: 0px; left: 126px; height: 16px;">Travel</div><div id="HM_Item2_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px; font: bold 8pt Arial, sans-serif; border-right: 2px solid rgb(153, 204, 204); width: 120px; top: 0px; left: 252px; height: 16px;">Hot Topics</div><div id="HM_Item2_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px; font: bold 8pt Arial, sans-serif; border-right: 2px solid rgb(153, 204, 204); width: 120px; top: 0px; left: 378px; height: 16px;">Clark's Library</div><div id="HM_Item2_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px; font: bold 8pt Arial, sans-serif; border-right: 2px solid rgb(153, 204, 204); width: 120px; top: 0px; left: 504px; height: 16px;">Message Boards</div><div id="HM_Item2_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px; font: bold 8pt Arial, sans-serif; width: 120px; top: 0px; left: 630px; height: 16px;">Consumer Advice</div></div><div id="HM_Menu2_1" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 124px; border-width: 2px; border-color: rgb(153, 204, 204); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 34px;"><div id="HM_Item2_1_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 0px;">Clarchives</div><div id="HM_Item2_1_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; width: 108px; left: 0px; top: 18px;">Yesterday's Show</div></div><div id="HM_Menu2_2" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 124px; border-width: 2px; border-color: rgb(153, 204, 204); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 52px;"><div id="HM_Item2_2_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 0px;">Travel Tips</div><div id="HM_Item2_2_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 18px;">Booking FAQ</div><div id="HM_Item2_2_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; width: 108px; left: 0px; top: 36px;">Travel Forum</div></div><div id="HM_Menu2_3" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 124px; border-width: 2px; border-color: rgb(153, 204, 204); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 34px;"><div id="HM_Item2_3_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 0px;">Newsletters</div><div id="HM_Item2_3_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; width: 108px; left: 0px; top: 18px;">TV Reports</div></div><div id="HM_Menu2_4" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 124px; border-width: 2px; border-color: rgb(153, 204, 204); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 34px;"><div id="HM_Item2_4_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 0px;">Clark's Rolodex</div><div id="HM_Item2_4_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; width: 108px; left: 0px; top: 18px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -7px; float: right;">Cliff Notes</div></div><div id="HM_Menu2_4_2" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 124px; border-width: 2px; border-color: rgb(153, 204, 204); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 232px;"><div id="HM_Item2_4_2_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 0px;">Basics</div><div id="HM_Item2_4_2_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 18px;">Cars</div><div id="HM_Item2_4_2_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 36px;">Insurance</div><div id="HM_Item2_4_2_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 54px;">Money</div><div id="HM_Item2_4_2_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 72px;">Commerce</div><div id="HM_Item2_4_2_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 90px;">Education</div><div id="HM_Item2_4_2_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 108px;">Employment</div><div id="HM_Item2_4_2_8" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 126px;">Health</div><div id="HM_Item2_4_2_9" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 144px;">Ripoffs</div><div id="HM_Item2_4_2_10" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 162px;">Real Estate</div><div id="HM_Item2_4_2_11" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 180px;">Technology</div><div id="HM_Item2_4_2_12" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 198px;">Travel</div><div id="HM_Item2_4_2_13" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; width: 108px; left: 0px; top: 216px;">More Notes</div></div><div id="HM_Menu2_5" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 124px; border-width: 2px; border-color: rgb(153, 204, 204); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 178px;"><div id="HM_Item2_5_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 0px;">Yes Service</div><div id="HM_Item2_5_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 18px;">Cars</div><div id="HM_Item2_5_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 36px;">No Service</div><div id="HM_Item2_5_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 54px;">General Discussion</div><div id="HM_Item2_5_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 72px;">Insurance</div><div id="HM_Item2_5_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 90px;">Money</div><div id="HM_Item2_5_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 108px;">Real Estate</div><div id="HM_Item2_5_8" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 126px;">Clark Stinks</div><div id="HM_Item2_5_9" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 144px;">Msg Board Help</div><div id="HM_Item2_5_10" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; width: 108px; left: 0px; top: 162px;">More Boards</div></div><div id="HM_Menu2_6" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 124px; border-width: 2px; border-color: rgb(153, 204, 204); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 34px;"><div id="HM_Item2_6_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; border-bottom: 2px solid rgb(153, 204, 204); width: 108px; left: 0px; top: 0px;">Clark's Book</div><div id="HM_Item2_6_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); padding: 2px 14px 2px 2px; font: bold 8pt Arial, sans-serif; width: 108px; left: 0px; top: 18px;">Team Clark</div></div></body></html>
+</td></tr></tbody></table></body></html>
