@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the funny-videos.co.uk privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206025134id_/http%3A//www.funny-videos.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-videos.co.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212142520id_/http%3A//www.funny-videos.co.uk/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statment for Funny Videos
-
-| 
-
-**Privacy Statment**
+# Privacy Statement for Funny Videos
 
 **Privacy Statement for Funny-Videos.co.uk  
 ** Funny-videos.co.uk has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: 
@@ -24,6 +20,8 @@ This site contains links to other sites, VeryFunnyDownloads.com is not responsib
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by emailing us at [info@Funny-Videos.co.uk](mailto:support@funny-videos.co.uk).
 
-|   
-  
-Funny-Videos © 2004. All rights Reserved 
+**[Submit Video](https://web.archive.org/web/20051212142520id_/http%3A//www.funny-videos.co.uk/submit.php) **| **[Privacy Policy](https://web.archive.org/web/20051212142520id_/http%3A//www.funny-videos.co.uk/privacy.php) **| **[Contact Us](mailto:support@funny-videos.co.uk)**
+
+Current Videos: 363  
+Average rating 4.51 (out of 5) from 72247 votes.  
+Copyright Funny-Videos.co.uk 2005. All Rights Reserved.
