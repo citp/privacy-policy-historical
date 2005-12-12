@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404112935id_/http%3A//www.comics.com/uminfo/um_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212154311id_/http%3A//www.comics.com/uminfo/um_privacy_policy.html) for the most accurate reproduction.*
 
 # Comics.com Privacy Policy
 
-|  |  | [](http://www.comics.com/) |   
----|---  
-  
-|  [](https://web.archive.org/whatsnew/index.html) |  [](http://www.comics.com/) |  [](https://web.archive.org/categories/index.html) |  [](https://web.archive.org/editoons/) |  [](https://web.archive.org/store/index.html) |  [](https://web.archive.org/ecards/index.html) |  [](https://members.comics.com/members/registration/giftSubStart.do) |   
----|---|---|---|---|---|---|---  
+|  |  |  | 
+
+|  |  [](https://web.archive.org/whatsnew/) |  [](https://web.archive.org/) |  [](https://web.archive.org/categories/index.html) |  [](https://web.archive.org/editoons/) |  [](https://web.archive.org/columns) |  [](https://web.archive.org/crossword/) |  [](https://web.archive.org/store/index.html) |  [](https://web.archive.org/ecards/index.html) |   
+---|---|---|---|---|---|---|---|---  
 |  |   
 |  | [](https://web.archive.org/uminfo/index.html)  
 ---  
