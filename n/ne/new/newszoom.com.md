@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newszoom.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305124230id_/http%3A//www.newszoom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newszoom.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212130722id_/http%3A//newszoom.com/privacy.php) for the most accurate reproduction.*
 
 # NewsZoom.com Privacy Policy
 
   
   
-| 
+[](http://casalemedia.com/referral?referredBy=101188) | 
 
 **Personal Information**  
     NewsZoom is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our web site. In order to enhance your experience at our sites we gather certain personal information about you that helps us customize our content to your tastes and preferences. We may ask for your name, e-mail address, zip code, and country. The more information you share with us (and the more accurate it is), the better we are able to enhance and customize your experience on our sites.   
