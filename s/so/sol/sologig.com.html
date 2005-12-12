@@ -1,15 +1,23 @@
-<!--The following is the downloaded HTML source of the sologig.com privacy policy that was archived on 2005-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050406075501id_/http%3A//www.sologig.com/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sologig.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212094828id_/http%3A//www.sologig.com/legal/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><script src="/__utm.js" type="text/javascript"></script>
 
 
 <title>
    Privacy</title>
-<link rel="Stylesheet" href="/resources/css/sologig.css">
-<link rel="Stylesheet" href="/resources/base/form/css/Form.css">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<!--link rel="Stylesheet" href="/resources/css/sologig.css"-->
+<!--link rel="Stylesheet" href="/resources/base/form/css/Form.css"-->
+<link rel="Stylesheet" href="/resources/css/styles.css">
 <script language="javascript" src="/resources/base/form/js/Form.js" type="text/javascript"></script>
 <script language="javascript" src="/resources/js/BaseLib.js" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct="UA-67875-2";
+urchinTracker();
+</script>
 </head>
 <!-- page: legal_privacy -->
 <!-- logged_in:  -->
@@ -17,10 +25,79 @@
 
 <body>
 
-<table border="0" cellpadding="3" cellspacing="0" width="100%" style="background-color:#999999">
-<tbody><tr>
-<td valign="top" width="100%" align="center" height="100" background="/resources/images/AdBackground.gif">
+ 
+	
+<script>
+/*
+	if (document.cookie.indexOf("flashPopUpWasLaunched") == -1) {
+		// in case flash pop-up has not been launched yet
+		window.onload = function(){
+			// setting cookie so to check later whether the flash pop-up has been already launched
+			document.cookie = "flashPopUpWasLaunched";
+			alert("Cookie Set");
+			// launching the flash pop-up
+			var flashDiv = document.getElementById('flash_container');
+			flashDiv.style.visibility='visible';
+			flashDiv.style.position='absolute';
+			flashDiv.style.left=(document.body.clientWidth-492)/2+"px";
+			flashDiv.style.top="200px";
+		}
+	}
+*/
 
+	
+	window.onload = function(){
+		if (document.cookie.indexOf("flashWasShown=true") == -1) {
+			// setting cookie in case flash pop-up has not been shown yet
+			document.cookie = "flashWasShown=true; path=/";
+			// launching the flash pop-up
+			var flashDiv = document.getElementById('flash_container');
+			flashDiv.style.visibility='visible';
+			flashDiv.style.position='absolute';
+			flashDiv.style.left=(document.body.clientWidth-492)/2+"px";
+			flashDiv.style.top="200px";
+		}
+	}
+</script>
+<div id="flash_container" style="position: absolute; top: 200px; left: 437px; visibility: visible;">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="492" height="379" id="popup" align="middle">
+		<param name="MOVIE" value="/resources/flash/popup.swf">
+		<param name="PLAY" value="false">
+		<param name="LOOP" value="false">	
+		<param name="QUALITY" value="high">
+		<param name="SCALE" value="SHOWALL">
+		<param name="wmode" value="Transparent">
+<embed src="/resources/flash/popup.swf" name="popup" align="middle" swliveconnect="true" width="492" height="379" play="false" loop="false" quality="high" scale="SHOWALL" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+</div>
+<script>
+	function popup_DoFSCommand(command, args) {
+		var flashDiv = document.getElementById('flash_container');
+		if (command == "sendValues") {
+			var argArr = args.split(';');
+			document.location="/?user_name="+argArr[0]+"&email="+argArr[1]+"&zip="+argArr[2]+"&email2="+argArr[1];
+		}
+		if (command == "closeWindow") {
+			flashDiv.style.visibility = 'hidden';
+		}
+	}
+</script>
+
+<script language="VBScript">
+	Sub popup_FSCommand(ByVal command, ByVal args)
+		call popup_DoFSCommand(command, args)
+	end sub
+</script>
+
+<table border="0" cellpadding="3" cellspacing="0" width="100%" style="background-color:#FFFFFF">
+<tbody><tr>
+<td valign="top" align="left">
+
+<a href="/" alt="Sologig.com logo"><img src="/resources/images/sologig_logo.gif" width="194" height="56" border="0"></a></td>
+<td valign="top" align="right">
+<img src="/resources/images/spacer.gif" alt="" width="1" height="5"><br>
+</td>
+<td valign="top" align="right">
 <script language="JavaScript1.1" src="http://oascentral.careerbuilder.com/RealMedia/ads/adstream_jx.ads/careerbuilder.com/Sologig/js_login/84200353619@Top" type="text/javascript" charset="iso-8859-1"></script>
 <script language="JavaScript" type="text/javascript" charset="iso-8859-1">
 _version=10;
@@ -39,124 +116,148 @@ if (navigator.appVersion.indexOf('MSIE 3') != -1){
 // -->
 
 </script>
-<br>
-<div style="color:#000000">ADVERTISEMENT</div>
+<!--br>
+<div style="color:#000000">ADVERTISEMENT</div-->
 
 </td>
 </tr>
 </tbody></table>
 
 <!-- Master Table -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#FFFFFF">
-<tbody><tr>
-<td valign="top" width="100%">
+<!--gfy-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr bgcolor="#006666">
+    <td colspan="5"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td align="center" id="nav">
+        			        <a href="/">Home</a> &nbsp;|&nbsp; 
+							        <a href="/soloist/">Freelancers</a> &nbsp;|&nbsp; 
+        			<a href="/employer/">Employers</a> &nbsp;|&nbsp; 
+		               		<a href="/about_us/">About Us</a> &nbsp;|&nbsp; 
+		        <a href="/resource_center/">Resource Center</a> &nbsp;|&nbsp;
+    		    <a href="http://sologig.employ.com/">Video Center</a> &nbsp;|&nbsp;
+        		<a href="/about_us/contact_us.php">Contact Us</a>
+        	        </td>
+      </tr>
+    </tbody></table>
+      </td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#DCECE1"><img src="/resources/images/spacer.gif" alt="" width="180" height="20"><!--img src="/resources/images/logo_bottom.gif" width="180" height="13"--></td>
+    <td><img src="/resources/images/spacer.gif" alt="" width="15" height="20"></td>
+    <td width="100%">&nbsp;</td>
+    <td><img src="/resources/images/spacer.gif" alt="" width="15" height="1"></td>
+    <td valign="top" bgcolor="#DCECE1">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#DCECE1"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td>
+        
+        
+<!--img src="/resources/images/TopLeftGutter.gif" alt="TopLeftGutter.gif" width="162" height="13" border="0"-->
 
-<!-- Top bar -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td valign="top"><a href="/"><img src="/resources/images/SoloGigLogo.gif" alt="Sologig.com - freelance, contract and part-time jobs" title="Sologig" width="236" height="72" border="0"></a></td>
-
-<!--
-<td valign="top"><a href="/soloist/"><img src="/resources/images/SoloistsOff.gif" alt="Sologig.com - Soloist Home: Find freelance, contract and part-time jobs" width="116" height="72" border="0"></a></td>
-<td valign="top"><a href="/employer/"><img src="/resources/images/EmployersOff.gif" alt="Sologig.com - Employer Home: Post freelance, contract and part-time jobs" width="125" height="72" border="0"></a></td>
--->
-<td colspan="3" valign="top" width="100%">
-
-<!-- Expansion bit -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td valign="top" width="100%" style="background-color: #BED9C5"><img src="/resources/images/TopGreenSpacer.gif" alt="TopGreenSpacer.gif" width="4" height="58" border="0"></td>
-<td valign="top"><img src="/resources/images/TopGradient.gif" alt="-" width="76" height="58" border="0"></td>
-</tr><tr>
-<td valign="top" style="background-color:#FFFFFF"><img src="/resources/images/spacer.gif" alt="spacer.gif" width="1" height="14" border="0"></td>
-<td valign="top" style="background-color:#FFFFFF"><img src="/resources/images/spacer.gif" alt="spacer.gif" width="1" height="14" border="0"></td>
-</tr>
-</tbody></table>
-<!-- /Expansion bit -->
-
-</td>
-</tr>
-</tbody></table>
-<!-- /Top bar -->
-
-<!-- Content table -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#FFFFFF">
-<tbody><tr>
-<td valign="top"><img src="/resources/images/LeftGutter.gif" alt="LeftGutter.gif" width="12" height="90" border="0"></td>
-<td valign="top">
-
-
-<img src="/resources/images/TopLeftGutter.gif" alt="TopLeftGutter.gif" width="162" height="13" border="0">
+<table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#EEEEEE"><img src="/resources/images/box_sm_UL.gif" alt="" width="13" height="18"></td>
+            <td width="100%" class="box_top">&nbsp;</td>
+            <td align="right" valign="top" bgcolor="#EEEEEE"><img src="/resources/images/box_sm_UR.gif" alt="" width="13" height="18"></td>
+          </tr>
+          <tr>
+            <td class="box_leftside">&nbsp;</td>
+            <td bgcolor="#EEEEEE">
 <!-- login form -->
 <form name="login_form" method="POST" action="/login/index.php">
-	<table border="0" cellpadding="1" cellspacing="0" width="100%" bgcolor="#CCCCCC">
-		<tbody><tr>
-			<td valign="top">
-				<table border="0" cellpadding="3" cellspacing="0" width="100%" bgcolor="#339999">
-					<tbody><tr>
-						<td valign="top" style="color:#FFFFFF; font-weight: bold">
-							Login 
-						</td>
-					</tr>
-				</tbody></table>
-				<table border="0" cellpadding="4" cellspacing="0" bgcolor="#EEEEEE" width="100%">
-					<tbody><tr>
-						<td valign="middle">
-							<div id="caption" class="CaptionWidget">
-								Email 
-							</div>
-							<input id="input" type="text" class="TextInputWidget" name="login_form__email__input" maxlength="255" size="20" value=""> 
-						</td>
-					</tr>
-					<tr>
-						<td valign="middle">
-							<div id="caption" class="CaptionWidget">
-								Password 
-							</div>
-							<input id="input" type="password" class="PasswordWidget" name="login_form__password__input" maxlength="24" size="10" value=""> 
-						</td>
-					</tr>
-					<tr bgcolor="#CCCCCC">
-						<td>
-                                                <input type="image" border="0" value="Login" name="Login to Sologig.com " src="/resources/images/b_login.gif">
-						<!--a href="javascript:document.forms['login_form'].submit();"><img src="/resources/images/b_login.gif" alt="Search freelance, contract and part-time jobs - Login to Sologig.com " border="0" /></a-->
-<!--
-                        <input id="input" type="submit" class="SubmitWidget" name="login_form__submit__input" value="Login" /> 
--->
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-	</tbody></table>
-&nbsp;&nbsp;·&nbsp;<a href="/login/forgot_password.php">Forgot password?</a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td class="level2_hdr">Sign in</td>
+              </tr>
+              <tr>
+                <td class="half_height">&nbsp;</td>
+              </tr>
+              <tr>
+                <td><b>Email</b></td>
+              </tr>
+              <tr>
+                <td><b>
+                  <input name="login_form__email__input" type="text" id="email" style="width: 120px; height: 12px; font-size: 10px;">
+                </b></td>
+              </tr>
+              <tr>
+                <td class="half_height">&nbsp;</td>
+              </tr>
+              <tr>
+                <td><b>Password</b></td>
+              </tr>
+              <tr>
+                <td><b>
+                  <input name="login_form__password__input" type="password" id="password" style="width: 120px; height: 12px; font-size: 10px;">
+                </b></td>
+              </tr>
+              <tr>
+                <td class="notes"><a href="/login/forgot_password.php">Forgot password?</a></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="center"><table border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td id="btn"><a href="javascript:document.login_form.submit();">Sign in</a></td>
+                  </tr>
+                </tbody></table>                  </td>
+              </tr>
+            </tbody></table>
 </form>
-<!-- /login form -->
-<!-- Spacer -->
-<img src="/resources/images/LeftBoxSpacer.gif" alt="LeftBoxSpacer.gif" width="162" height="31" border="0">
-<!-- /Spacer -->
-
-
-
-
-
-
-
-
-
 
 </td>
-<td valign="top"><img src="/resources/images/LeftContentGutter.gif" alt="LeftContentGutter.gif" width="21" height="208" border="0"></td>
-<td valign="top" width="100%">
-<!-- Content Spacer -->
-<img src="/resources/images/TopLeftGutter.gif" alt="TopLeftGutter.gif" width="162" height="13" border="0">
+            <td class="box_rightside">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="bottom" bgcolor="#EEEEEE"><img src="/resources/images/box_sm_LL.gif" alt="" width="13" height="18"></td>
+            <td class="box_bottom">&nbsp;</td>
+            <td align="right" valign="bottom" bgcolor="#EEEEEE"><img src="/resources/images/box_sm_LR.gif" alt="" width="13" height="18"></td>
+          </tr>
+        </tbody></table>
+        <br><br>
+
+
+
+<!-- Spacer -->
+<!--img src="/resources/images/LeftBoxSpacer.gif" alt="LeftBoxSpacer.gif" width="162" height="31" border="0"-->
+<!-- /Spacer -->
+                                        
+            
+            
+            </td>
+      </tr>
+      <tr>
+        <td>
+        
+        
+    
+      
+
+      
+
+      
+        
+        </td>
+      </tr>
+    
+      
+            
+    </tbody></table></td>
+    <td>&nbsp;</td>
+    <td valign="top"><p>
+    <!--gfy-->
 
 
 
 
 
 
-<h1>Privacy</h1>
+</p><h1>Privacy</h1>
 
 <h3>Your Privacy is Our Priority!</h3>
 These days, we all need to be smart about the way we use our own personal data. Sologig.com has always been on the forefront of privacy issues, and we're constantly refining our Privacy Policy to ensure that you can get your job done. So that you can be smarter about the way you manage your career, Sologig.com continues to strive to provide the safest possible environment for you to search and apply to jobs.
@@ -191,70 +292,30 @@ Sologig.com cannot ensure that all of your private communications and other pers
 
 
 <!-- /Page Content -->
+
+
+
+
+<!--gfy footer-->
 </td>
-<td valign="top"><img src="/resources/images/RightContentGutter.gif" alt="RightContentGutter.gif" width="18" height="218" border="0"></td>
-
-</tr>
-</tbody></table>
-<!-- /Content table -->
-
-</td>
-<td valign="top" style="background-color:#FFFFFF" width="143">
-<img src="/resources/images/TopPhoto.jpg" alt="Sologig.com - Find &amp; post freelance, contract and part-time jobs" width="143" height="58" border="0"><br>
-
-<table cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr><td>
-<div id="navcontainer">
-<ul id="navlist">
-<li><a href="/soloist/" class="GlobalNavSmall">Job Seeker</a></li>
-<li><a href="/employer/" class="GlobalNavSmall">Employer</a></li>
-<li><a href="/about_us/" class="GlobalNavSmall">About Us</a></li>
-<li><a href="/resource_center/index.php" class="GlobalNavSmall">Resource Center</a></li>
-<li><a href="/about_us/contact_us.php" class="GlobalNavSmall">Contact Us</a></li>
-</ul>
-</div>
-</td></tr>
-</tbody></table>
-
-<!-- Right Content Container -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td valign="top">
-
-
-
-</td>
-</tr>
-<tr><td valign="top">
-
-</td>
-</tr>
-</tbody></table>
-<!-- Right Content Container -->
-
-
-</td>
-</tr>
-</tbody></table>
-<!-- /Master Table -->
-
-
-<!-- bottom spacer for content area -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td valign="top" style="background-color:#FFFFFF"><img src="/resources/images/spacer.gif" alt="spacer.gif" width="20" height="35" border="0"></td>
-</tr>
-</tbody></table>
-<!-- /bottom spacer for content area -->
-
-
-<!-- Footer Table -->
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
-<tbody><tr>
-<td valign="top" class="FooterText">
-© 2005 Sologig.com / CareerBuilder. All Rights Reserved.
-</td>
-<td valign="top">
+    <td>&nbsp;</td>
+    <td valign="top" bgcolor="#DCECE1" width="179">
+		
+		
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#DCECE1">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td height="20">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td valign="top" bgcolor="#DCECE1">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#DCECE1">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td align="center" id="footer"><a href="/about_us/" class="FooterNavLink">About Us</a>
+&nbsp;&nbsp;&nbsp;
 <a href="/site_map/" class="FooterNavLink">Site Map</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/legal/terms_conditions.php" class="FooterNavLink">Terms of Use</a>
@@ -267,26 +328,46 @@ Sologig.com cannot ensure that all of your private communications and other pers
 &nbsp;&nbsp;&nbsp;
 <nobr><a href="/job_index/" class="FooterNavLink">Job Index</a></nobr>
 &nbsp;&nbsp;&nbsp;
+<nobr><a href="/about_us/contact_us.php" class="FooterNavLink">Contact Us</a></nobr>
+&nbsp;&nbsp;&nbsp;
 <nobr><a href="http://myresume.com" class="FooterNavLink">Resume Writing</a></nobr>
 &nbsp;&nbsp;&nbsp;
 <nobr><a href="http://www.careers.com" class="FooterNavLink">Careers</a></nobr>
 &nbsp;&nbsp;&nbsp;
 <nobr><a href="http://www.jobsearch.com" class="FooterNavLink">Job Search</a></nobr>
+&nbsp;&nbsp;&nbsp;
+<nobr>For Employers - <a href="http://www.intelligenthire.com/pages.aspx/services" class="FooterNavLink">Recruiting</a></nobr>
 <script language="JavaScript" type="text/javascript">
-	var clientidvar = 39;
-	var wTrackerOn = 1;
+   var clientidvar = 39;
+   var wTrackerOn = 1;
 </script>
-<!-- This code may not be used without express permission by PrairieWeb Internet Marketing Inc.-->
-<script language="JavaScript" src="http://www.1st-chicago-web-design.com/wtracker_js_shared/set_wtracker.js" type="text/javascript"></script>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" class="FooterText">
-<a href="http://www.pwim.com" class="FooterText" target="_blank">Internet Marketing</a> <a href="http://www.pwim.com" class="FooterText" target="_blank">Chicago Web Development</a> by PrairieWeb
-</td>
-</tr>
+	<br>
+    <br>
+    © 2005 Sologig.com/CareerBuilder. All Rights Reserved. <a href="http://www.fastroot.com" target="_blank">Hosting</a></td>
+    <td>&nbsp;</td>
+    <td valign="top" bgcolor="#DCECE1">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td valign="top" bgcolor="#DCECE1">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td align="center" id="footer"></td>
+    <td>&nbsp;</td>
+    <td valign="top" bgcolor="#DCECE1">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td valign="top" bgcolor="#DCECE1">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td height="20">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td valign="top" bgcolor="#DCECE1">&nbsp;</td>
+  </tr>
 </tbody></table>
-<!-- /Footer Table -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script> 
+<script type="text/javascript"> _uacct = "UA-67875-2"; urchinTracker(); </script>
+
 
 
 
