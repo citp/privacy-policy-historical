@@ -1,33 +1,6 @@
-> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402003755id_/http%3A//www.herbalremedies.com/privacypolicy.html%231) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212112939id_/http%3A//www.herbalremedies.com/privacypolicy.html%231) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-[](https://www.scanalert.com/RatingVerify?ref=www.herbalremedies.com) **100% Satisfaction  
-Guarantee
-
-**Customer Service**  
-[Email us](mailto:information@herbalremedies.com) or  
-Call Toll-Free  
-1-866-467-6444  
-Mon-Fri 10am to 6pm MST
-
-[](https://www.scanalert.com/RatingVerify?ref=www.herbalremedies.com)
-
-[ ](http://www.bbbonline.org/cks.asp?id=101050910263916759)
-
-****Shipping Rates  
-At or Under 1lb**  
-US USPS Priority, $5.49  
-US FedEx Ground $5.99  
-US FedEx 3 Bus days $7.99  
-US FedEx 2 Bus days $9.99  
-US FedEx Overnight $18.99  
-Worldwide FedEx $20.99 - up **
-
-****
-
-**| | [](https://web.archive.org/web/20050402003755id_/http%3A//www.herbalremedies.com/index.html)
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
@@ -58,7 +31,9 @@ ___________________________________________
 
 ## Security
 
-Herbal Remedies and Yahoo also takes seriously the issue of security. Every time you send us your credit card number and your billing and shipping information, we use the industry-standard Secure Sockets Layer (SSL) and Verisign technology to prevent the information from being intercepted. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. You can be confident that your personal and financial information is well protected at Herbal Remedies USA. Back to Top  
+Herbal Remedies and Yahoo also takes seriously the issue of security. Every time you send us your credit card number and your billing and shipping information, we use the industry-standard Secure Sockets Layer (SSL) and Verisign technology to prevent the information from being intercepted. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. You can be confident that your personal and financial information is well protected at Herbal Remedies USA. 
+
+Back to Top  
 ___________________________________________
 
 ## Choice/Opt-Out
@@ -75,7 +50,7 @@ ___________________________________________
   1. You can send mail to the following postal address:  Herbal Remedies USA LLC  
 225 N Wolcott  
 Casper, Wyoming 82601  
-e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)   
+e-mail us at[ information@herbalremedies.com.](mailto:hremedies@qwest.net)*   
 Fax us at: (1-307-577-6464) 
   2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday from 10AM to 6PM MST). 
 
@@ -90,7 +65,7 @@ This site gives users the following options for changing and modifying informati
   1. You can send mail to the following postal address:  Herbal Remedies USA LLC  
 225 N Wolcott  
 Casper, Wyoming 82601  
-e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)   
+e-mail us at[ information@herbalremedies.com.](mailto:hremedies@qwest.net)*   
 Fax us at: (1-307-577-6464) 
   2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday from 10AM to 6PM MST) 
 
@@ -105,7 +80,7 @@ If you have any questions about this privacy statement, the practices of this si
   1. You can send mail to the following postal address:  Herbal Remedies USA LLC  
 225 N Wolcott  
 Casper, Wyoming 82601  
-e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)   
+e-mail us at[ information@herbalremedies.com.](mailto:hremedies@qwest.net)*   
 Fax us at: 1-307-577-6464 
   2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday from 10AM to 6PM MST). 
 
@@ -121,27 +96,15 @@ Unless otherwise indicated, the statements contained on the Herbal Remedies USA 
 
 The information on this Web site is designed for educational purposes only. It is not intended to be a substitute for informed medical advice or care. You should not use this information to diagnose or treat any health problems or illnesses without consulting your pediatrician or family doctor. Please consult a doctor with any questions or concerns you might have regarding your or your child's condition.
 
-©2001,2002,2003,2004 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Informational material and representations have been provided by the manufacturers of the listed products. For assistance or to purchase products by phone call TOLL FREE in the USA 1-866-467-6444 or WORLDWIDE 1-307-577-6444 or e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)
+©2001,2002,2003,2004 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Informational material and representations have been provided by the manufacturers of the listed products. For assistance or to purchase products by phone call TOLL FREE in the USA 1-866-467-6444 or WORLDWIDE 1-307-577-6444 or e-mail us at[ information@herbalremedies.com.](mailto:hremedies@qwest.net)* 
 
-Back to Top
+_* NOTE: If you email through an internet service provider such as aol.com that uses a spam-blocker or if you use spam-blocking software you may not receive a reply. We attempt to provide prompt replies to every email but are unable to 100% of the time because our emails may be blocked. If you have emailed us but received no reply within 5 business days please retry sending from (or providing us) an alternate email address or by calling our toll free customer service number (in the USA) or our international customer service number._
 
-Type in What You Want or select an item from a "Scrolling Menu" below and click "GO".  
   
-Results will display below search box.   
 | 
 
-|   |   
----|---  
-  
-|   |   
----|---  
-  
-|   |   
----|---  
-  
-|   |   
----|---  
-  
+|  |  |   
+---|---|---|---  
 [Review Cart or Check Out](http://order.store.yahoo.com/cgi-bin/wg-order?herbal-remedies-usa) \- Translate This Site \- [Free Health Newsletter](http://order.store.yahoo.com/cgi-bin/wg-request-catalog?herbal-remedies-usa) \- [ Customer Testimonials!](http://www.herbalremedies.com/tesabourprod.html)
 
 **Shipping Information:**  
@@ -172,27 +135,15 @@ $20.99+*
 *[Click here for full shipping info and rules.](http://www.herbalremedies.com/shippolandra.html)  
   
 To "Order" by phone call toll free in the USA 1-866-467-6444 or World Wide 1-307-577-6444.  
-For other Assistance or Questions please E-mail us at [information@herbalremedies.com](mailto:information@herbalremedies.com).  
+For other Assistance or Questions please E-mail us at [information@herbalremedies.com](mailto:hremedies@qwest.net)*.  
 Due to the volume of email received, we usually reply within 24 to 48 hours. 
 
-[ ](http://www.bbbonline.org/cks.asp?id=101050910263916759) |  |  [ ](https://www.paypal.com/affil/pal=info%40herbalremedies.com) |  [ ](http://stores.search.shopping.yahoo.com/search/store?p=herbal-remedies-usa)  
----|---|---|---  
-  
 VISA * MASTERCARD * DISCOVER CARD * AMERICAN EXPRESS * OPTIMA * [PAYPAL](https://www.paypal.com/affil/pal=info%40herbalremedies.com) * YAHOO PAYDIRECT * WESTERN UNION * MONEY ORDERS * CASHIERS CHECKS * PERSONAL CHECKS  
 * The statements regarding these products have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. The information on this Web site or in emails is designed for educational purposes only. It is not intended to be a substitute for informed medical advice or care. You should not use this information to diagnose or treat any health problems or illnesses without consulting your pediatrician or family doctor. Please consult a doctor with any questions or concerns you might have regarding you or your child's condition. Informational material and representations have been provided by the manufacturers of the listed products. [Disclaimer](http://www.herbalremedies.com/privacypolicy.html#7) , [Privacy Policy](http://www.herbalremedies.com/privacypolicy.html#1) , [Yahoo & Verisign SSL Security](http://www.herbalremedies.com/privacypolicy.html#2) , [About Us](http://www.herbalremedies.com/info.html) , [Payment , Shipping , Returns](http://www.herbalremedies.com/shippolandra.html) , [Contact Information](http://www.herbalremedies.com/privacypolicy.html#4)
 
   
 ©2001, 2002, 2003, 2004 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Reproduction or reuse of information or materials from this web site is strictly prohibited and against U.S. and international law.   
 
-
-Select a Language below to translate this site:  
-  
-  
-
-
-[Diet & Weight Loss](http://herbalremedies.com/losthatweigf.html) \- [Cosmetics](http://herbalremedies.com/lavcos.html) \- [Lotions](http://herbalremedies.com/skinfacclean.html) \- [Herbs](http://herbalremedies.com/hersinforchi.html) \- [Vitamins](http://herbalremedies.com/vitamins.html) \- [Minerals](http://herbalremedies.com/miracle-waters.html) \- [Herbal Tea](http://herbalremedies.com/hertonel.html) \- [Aromatherapy](http://herbalremedies.com/precar.html) \- [Essential Oils](http://herbalremedies.com/essentialoils.html) \- [Health Books](http://herbalremedies.com/booknatheal.html)
-
-Back to Top
 
 Some Partner sites:
 
