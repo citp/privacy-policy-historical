@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50webs.com privacy policy that was archived on 2005-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050607005751id_/http%3A//www.50webs.com/web-hosting-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50webs.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141623id_/http%3A//www.50webs.com/web-hosting-privacy.html) for the most accurate reproduction.*
 
 # Free Web Hosting, Domain Hosting - 50webs.com Reseller Program, Affiliates, Reliable Provider, PHP, MySQL, Linux, Ecommerce, Inexpensive, Low Cost, Affordable
 
