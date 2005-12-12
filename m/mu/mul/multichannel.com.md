@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multichannel.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308104627id_/http%3A//www.multichannel.com/index.asp%3Flayout%3Dcontentinfodetail%26articleid%3DCA318737) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multichannel.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212135328id_/http%3A//www.multichannel.com/index.asp%3Flayout%3Dcontentinfodetail%26articleid%3DCA318737) for the most accurate reproduction.*
 
 # Multichannel News: The Cable Industry Book-of-Record
 
