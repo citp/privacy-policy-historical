@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2005-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050610021009id_/http%3A//www.ebgames.com/ebx/help/privacy/privacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212124443id_/http%3A//www.ebgames.com/ebx/help/privacy/privacyStatement.asp) for the most accurate reproduction.*
 
 # EBgames.com - Electronics Boutique
 
 Privacy Statement
 
-Last updated: June 30, 2004 
+Last updated: July 15, 2005 
 
 EBgames.com is aware of your concerns about use of your personal information. We attempt to use and share personal information that we collect online carefully and sensibly. This notice describes our privacy policy. By visiting EBgames.com, you are accepting the practices described in this privacy notice. 
 
-Our online privacy policy applies only to information that we collect from customers online who visit EBgames.com; it does not apply to any information collected at our retail stores and outlets. This website contains links to other websites. EBgames.com is not responsible for the privacy practices or the content of such other websites. 
+Our online privacy policy applies only to information that we collect from customers online who visit EBgames.com or the EB Games Mobile Store (collectively, "the website"); it does not apply to any information collected at our retail stores and outlets. This website contains links to other websites. EBgames.com is not responsible for the privacy practices or the content of such other websites. 
 
-**We Gather the Following Personal Information About Customers:
+In this document, the word "computer" means any device used to connect to EBgames.com or the EB Games Mobile Store, including, but not limited to, mobile devices. 
 
-Information That You Give Us:
+**We Gather the Following Personal Information About Customers:**
 
-** We receive and store any information you enter on our website or that you give us in any other way. You can choose not to provide certain information, but this will limit your ability to purchase products offered on the website, or to take advantage of some of our features for website customers. 
+**Information That You Give Us:** We receive and store any information you enter on our website or that you give us in any other way. You can choose not to provide certain information, but this will limit your ability to purchase products offered on the website, or to take advantage of some of our features for website customers. 
 
 When you place an order with us, your contact information is used to communicate related information, such as order and shipment confirmation, release date changes and requests for more information to facilitate the processing of your order. You may opt-out of these communications by canceling your order.
 
@@ -37,7 +37,7 @@ The information we receive or can determine from your interaction with our websi
 **Information from Other Sources:** If we receive any information about you from other sources, we may add it to our account information. For example, if we receive a list of subscribers to a gaming publication, and we note that you are a subscriber, we may include that information in the account information that we store about you. Other examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records; account information, purchase or redemption information, and page-view information from business partners who operate their own websites or for which we provide any services; search term and search result information from searches conducted through the website; and credit history information from credit bureaus, which we use to help prevent and detect fraud.
 
 **An Explanation of "Cookies"**  
-Cookies are alphanumeric identifiers that are placed by us on your computer's hard drive through your web browser to enable our systems to recognize your browser when you make future visits to our website, and to store certain information (such as items placed in your shopping cart) between visits. 
+Cookies are alphanumeric identifiers that are placed by us on your computer's storage system through your web browser to enable our systems to recognize your browser when you make future visits to our website, and to store certain information (such as items placed in your shopping cart) between visits. 
 
 You can stop your computer from storing cookies if you want to. Most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You should look in the "help" area shown on your browser's toolbar. Because cookies allow you to have the benefit of our personalized features, we recommend that you leave them turned on. 
 
@@ -112,6 +112,6 @@ Terms and Conditions of Use may be found by clicking [here](http://www.ebgames.c
 Still Have a Question?
 
   
-If you didn't find what you needed here, feel free to call our Customer Service center at 1-877-432-9675 to speak with a Customer Service Representative. If you prefer, [contact us by e-mail](javascript:atOnce\(\);). Hours of operation: Open 7 days a week, 8:00 am to midnight EST. 
+If you didn't find what you needed here, feel free to contact our customer service center by sending an email to [help@ebgames.com](javascript:atOnce\(\);). Hours of operation: Open 7 days a week, 8:00 am to midnight EST. 
 
-[Back to Main Menu](https://web.archive.org/web/20050610021009id_/http%3A//www.ebgames.com/ebx/help/default.asp)
+[Back to Main Menu](https://web.archive.org/web/20051212124443id_/http%3A//www.ebgames.com/ebx/help/default.asp)
