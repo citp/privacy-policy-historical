@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the phillyburbs.com privacy policy that was archived on 2005-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050404092217id_/http%3A//www.phillyburbs.com/pb-dyn/page.cfm%3Fname%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phillyburbs.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212094043id_/http%3A//www.phillyburbs.com/pb-dyn/page.cfm%3Fname%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>phillyBurbs.com | Privacy</title>
@@ -7,12 +7,10 @@
 <base href="http://www.phillyburbs.com/pb-dyn/">
 <link rel="stylesheet" type="text/css" href="images/default/template/default2.css">
 <script language="JavaScript" src="images/default/javascript/cookies.js" type="text/javascript"></script>
-<script language="JavaScript" src="images/default/javascript/pb_var04.js" type="text/javascript"></script>
 <script language="JavaScript" src="../weather/weather.js" type="text/javascript"></script>
-<script language="JavaScript" src="images/default/menu/menu04.js" type="text/javascript"></script>
+<script language="JavaScript" src="images/default/javascript/pb_var04.js" type="text/javascript"></script>
 <script language="JavaScript" type="text/javascript">
 OAS_version = 11;
-OAS_url = 'http://adserver.phillyburbs.com/RealMedia/ads/';
 OAS_sitepage = 'www.phillyburbs.com/' + sitepage + '/news';
 OAS_listpos = 'Top,TopRight,Right,Bottom,BottomLeft,BottomRight';
 OAS_query = '';
@@ -34,71 +32,196 @@ function DisplayAds(pos) {
 </head>
 <body bgcolor="#003366" text="#000000" leftmargin="0" topmargin="0">
 <a name="top"></a>
-<table width="750" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
-<td width="5" class="type10">&nbsp;</td><td width="170">
-<script language="JavaScript" type="text/javascript">document.write('<a href="http://www.phillyburbs.com/"><img src="http://www.phillyburbs.com/pb-dyn/images/default/template/' + paperImage + '" width="170" height="81" border="0" onmouseover="popUp(\'elMenu' + menuNo + '\',event)" onmouseout="popDown(\'elMenu' + menuNo + '\')"></a>');</script></td><td width="575" background="http://www.phillyburbs.com/pb-dyn/images/default/template/menuback.gif"><table width="575" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
-<table width="575" height="81" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td height="15">
-<table width="565" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td class="menu10" nowrap="">
-<script language="JavaScript" type="text/javascript">
+<script language="JavaScript">
+//build personal stuff
+var p = '<em>';
 if (firstname == 'undefined' || firstname=='Anonymous' || firstname == null || firstname == "")
-document.write('<a href="http://www.phillyburbs.com/pb-dyn/login.cfm" class="menu10">Login</a>');
+p+='<a href="http://www.phillyburbs.com/pb-dyn/login.cfm">Login</a>';
 else
-document.write('Welcome&nbsp;' + firstname + '&nbsp;-&nbsp;<a href="http://www.phillyburbs.com/pb-dyn/logout.cfm" class="menu10">Logoff</a>');
-document.write('&nbsp;|&nbsp;' + edition + '&nbsp;Edition');
-</script>
-|&nbsp;<a href="http://www.phillyburbs.com/pb-dyn/welcome.cfm" class="menu10">Edit</a></td>
-<td align="right" class="menu10" nowrap="">
-<script language="JavaScript" type="text/javascript">
-document.write(sitedate + " &#149; ");
+p+='Welcome&nbsp;' + firstname + '<a href="http://www.phillyburbs.com/pb-dyn/logout.cfm"> - Logoff</a>';
+p+='&nbsp;|&nbsp;' + edition + '&nbsp;Edition';
+p+='|&nbsp;<a href=\"http://www.phillyburbs.com/pb-dyn/welcome.cfm\">Edit</a></em>' + sitedate + ' • ';
 if (_condition != "undefined")
-document.write(_condition);
-document.write("&nbsp;|&nbsp;<a href=\"http://weather.phillyburbs.com/adcbin/phillyburbs/weather.asp?zipcode=" + zipcode + "\" class=\"menu10\">Forecast</a>");
+p+=_condition;
+else
+p+="";
+p+=' | <a href="http://weather.phillyburbs.com/adcbin/phillyburbs/weather.asp?zipcode=' + zipcode + '">Forecast</a>';
 </script>
-</td></tr></tbody></table></td></tr><tr><td height="46">
-<table width="575" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
-<td width="90" class="type10"><div align="center"><a href="http://ads.phillyburbs.com/" class="vert11">AdSearch</a><br><font color="#584A27">Newspaper ads<br>and Classifieds</font></div></td>
-<td width="88" class="type10"><div align="center"><a href="http://cars.phillyburbs.com/" class="vert11">CarSearch</a><br><font color="#584A27">Search 15,000<br>LOCAL cars</font></div></td>
-<td width="89" class="type10"><div align="center"><a href="http://jobs.phillyburbs.com/" class="vert11">JobSearch</a><br><font color="#584A27">Search jobs<br>Post a resume</font> </div></td>
-<td width="87" class="type10"><div align="center"><a href="http://homes.phillyburbs.com/" class="vert11">HomeSearch</a><br><font color="#584A27">Search 6,000<br>LOCAL Homes</font></div></td>
-<td width="6" class="vert10">&nbsp;</td>
-<td width="82" class="vert10">
-<a href="http://mall.phillyburbs.com/" class="vert10"><img src="http://www.phillyburbs.com/pb-dyn/images/default/template/topbullet.gif" width="6" height="5" border="0" align="absmiddle">Shop Online</a><br>
-<a href="http://ads.phillyburbs.com/" class="vert10"><img src="http://www.phillyburbs.com/pb-dyn/images/default/template/topbullet.gif" width="6" height="5" border="0" align="absmiddle">Shop Local</a><br>
-<a href="http://personals.phillyburbs.com/" class="vert10"><img src="http://www.phillyburbs.com/pb-dyn/images/default/template/topbullet.gif" width="6" height="5" border="0" align="absmiddle">Personals</a>
-</td>
-<td width="62" class="type10">
-<a href="http://guides.phillyburbs.com/dining-out" class="vert10"><img src="http://www.phillyburbs.com/pb-dyn/images/default/template/topbullet.gif" width="6" height="5" border="0" align="absmiddle">Dining</a><br>
-<a href="http://coupons.phillyburbs.com/microsite/SignInB.asp?pid=10458&amp;ZID=zo24" class="vert10"><img src="http://www.phillyburbs.com/pb-dyn/images/default/template/topbullet.gif" width="6" height="5" border="0" align="absmiddle">Coupons</a><br>
-<a href="http://guides.phillyburbs.com/travel-tourism" class="vert10"><img src="http://www.phillyburbs.com/pb-dyn/images/default/template/topbullet.gif" width="6" height="5" border="0" align="absmiddle">Travel</a>
-</td>
-<td width="74" class="type10">
-<script language="JavaScript" type="text/javascript">
-document.write('<a href=\"' + subscribe + '\" class=\"vert10\">');
-</script><img src="http://www.phillyburbs.com/pb-dyn/images/default/template/topbullet.gif" width="6" height="5" border="0" align="absmiddle"><strong>Subscribe</strong><br>
-<a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=advertise&amp;tmpl=advertise" class="vert10"><img src="http://www.phillyburbs.com/pb-dyn/images/default/template/topbullet.gif" width="6" height="5" border="0" align="absmiddle"><strong>Advertise</strong></a><br>
-<a href="http://www.phillyburbs.com/pb-dyn/feedback.cfm?tmpl=interact" class="vert10"><img src="http://www.phillyburbs.com/pb-dyn/images/default/template/topbullet.gif" width="6" height="5" border="0" align="absmiddle"><strong>Contact Us</strong></a>
-</td></tr></tbody></table>
-</td></tr><tr><td bgcolor="#FEFFDA"><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=111&amp;tmpl=news" onmouseover="popUp('elMenu4',event)" onmouseout="popDown('elMenu4')" class="butns2">&nbsp;News</a><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=9&amp;tmpl=sports" "sports"="" onmouseover="popUp('elMenu5',event)" onmouseout="popDown('elMenu5')" class="butns2">Sports</a><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=7&amp;tmpl=money" onmouseover="popUp('elMenu6',event)" onmouseout="popDown('elMenu6')" class="butns2">Money</a><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=8&amp;tmpl=ent" onmouseover="popUp('elMenu7',event)" onmouseout="popDown('elMenu7')" class="butns2">Entertainment</a><a href="http://guides.phillyburbs.com" onmouseover="popUp('elMenu8',event)" onmouseout="popDown('elMenu8')" class="butns2">Guides</a><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=contactus" onmouseover="popUp('elMenu9',event)" onmouseout="popDown('elMenu9')" class="butns2">Interact</a><a href="http://www.phillyburbs.com/pb-dyn/search.cfm" onmouseover="popUp('elMenu10',event)" onmouseout="popDown('elMenu10')" class="butns2">Search</a><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=help" onmouseover="popUp('elMenu11',event)" onmouseout="popDown('elMenu11')" class="butns2">?</a><a href="http://shop.phillyburbs.com/" onmouseover="popUp('elMenu12',event)" onmouseout="popDown('elMenu12')" class="butnend">Shopping</a></td>
-</tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
-<div id="Layer2" style="position:absolute; left:479px; top:88px; width:254px; height:60px; z-index:0"><script language="JavaScript">
+<div id="Layer2" style="position:absolute; left:479px; top:0px; width:254px; height:90px; z-index:0;"><script language="JavaScript">
 DisplayAds("TopRight");
-</script></div>
-<div class="buffer">
-<table width="750" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr> 
-<td>
-<div id="Layer1" style="position:relative; left:5px; top:0px;  width:468px; z-index:1; overflow: visible; visibility: visible;"> 
-          <table border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr> 
-              <td><script language="JavaScript">
+</script></div><div class="buffer06"><table width="750" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><div id="Layer1" style="position:relative; left:5px; top:0px;  width:468px; z-index:1; overflow: visible; visibility: visible;"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><script language="JavaScript">
 DisplayAds("Top");
-</script></td>
-            </tr>
-          </tbody></table>
-        </div></td>
-<td width="11" align="center" valign="middle" bgcolor="#666666"><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=advertise&amp;tmpl=advertise"><img src="http://www.phillyburbs.com/pb-dyn/images/default/template/leaderboardadv.gif" width="7" height="51" border="0"></a></td></tr></tbody></table></div>
+</script></td></tr></tbody></table></div></td><td width="11" align="center" valign="middle" bgcolor="#666666"><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=advertise&amp;tmpl=advertise"><img src="http://www.phillyburbs.com/pb-dyn/images/default/template/leaderboardadv.gif" width="7" height="51" border="0"></a></td></tr></tbody></table></div>
+<div id="menuwrap06">
+<script>
+if(sectionId == 113)
+document.write('<div id="menuright06"><div id="menurightwrap"><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=113&tmpl=local_news"><img src="http://www.phillyBurbs.com/pb-dyn/images/default/template/cnilogo06.gif" border="0"></a></p><p><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=subcni" target="_blank">Subscribe</a></p><p><a href="http://www.phillyburbs.com/nie/cni/index.shtml" target="_blank">NIE</a></p><p><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=advertise&tmpl=advertise">Advertise</a><br><a href="http://www.phillyburbs.com/pb-dyn/feedback.cfm?tmpl=interact">Contact Us</a></p></div></div>');
+else if(sectionId == 112)
+document.write('<div id="menuright06"><div id="menurightwrap"><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=112&tmpl=local_news"><img src="http://www.phillyBurbs.com/pb-dyn/images/default/template/bctlogo06.gif" border="0"></a><br><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=sub" target="_blank">Subscribe</a> | <a href="http://www.phillyburbs.com/nie/bct/index.shtml" target="_blank">NIE</a><br><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=BCTstores&tmpl=news" target="_blank">Pickup Locations</a><p><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=advertise&tmpl=advertise">Advertise</a> | <a href="http://www.phillyburbs.com/pb-dyn/feedback.cfm?tmpl=interact">Contact Us</a></p></div></div>');
+else if (sectionId == 111)
+document.write('<div id="menuright06"><div id="menurightwrap"><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=111&tmpl=local_news"><img src="http://www.phillyBurbs.com/pb-dyn/images/default/template/ctilogo06.gif" border="0"></a><p><a href="https://www.formrouter.net/circulation@BUCKS/index.htm" target="_blank">Customer Service</a> | <a href="http://www.phillyburbs.com/nie/cti/index.shtml" target="_blank">NIE</a></p><p><a href="https://www.phillyburbs.com/onlineedition/" target="_blank">Online Edition</a>:<br><a href="https://www.phillyburbs.com/onlineedition/subscribe.asp" target="_blank">Subscribe</a> | <a href="http://activepaper.olivesoftware.com/daily/skins/calkins/welcome.asp?QS=BP=OK" target="_blank">Sign in</a></p><p><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=advertise&tmpl=advertise">Advertise</a> | <a href="http://www.phillyburbs.com/pb-dyn/feedback.cfm?tmpl=interact">Contact Us</a></div></div>');
+else
+document.write('<div id="menuright06"><div id="menurightwrap"><p><font color="#FF0000">SELECT AN EDITION:</font></p><p><a href="javascript: _skip(\'19059,4,Levittown,111\')">Bucks County Courier Times</a></p><p><a href="javascript: _skip(\'08016,6,Burlington,112\')">Burlington County Times</a></p><p><a href="javascript: _skip(\'18901,2,Doylestown,113\')">The Intelligencer</a></p><br class="spacefive"><p><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=advertise&tmpl=advertise">Advertise</a> | <a href="http://www.phillyburbs.com/pb-dyn/feedback.cfm?tmpl=interact">Contact Us</a></p></div></div>');
+</script>
+<div id="menuinfo06"><script language="javascript">document.write(p);</script><em></em></div><em>
+<div id="menucenter06"><div id="cnavwrap"><a href="http://www.phillyburbs.com/"><img src="http://www.phillyburbs.com/pb-dyn/images/default/template/pb_logo06.gif" border="0"></a><ul id="cnav"><li id="vert1"><a href="http://www.newspaperads.com/phillyburbs/">&nbsp;</a></li><li id="vert2"><a href="http://biz.phillyburbs.com">&nbsp;</a></li><li id="vert3"><a href="http://cars.phillyburbs.com">&nbsp;</a></li><li id="vert4"><a href="http://jobs.phillyburbs.com">&nbsp;</a></li><li id="vert5"><a href="http://homes.phillyburbs.com">&nbsp;</a></li></ul></div></div>
+<!--Start Menu--><div id="butnwrap">
+<ul id="nav">
+<li style="width:55px;"><a id="butns06" href="http://www.phillyburbs.com">Home</a>
+<ul id="btnstyle" style="width:90px;">
+<br class="space3">
+<a href="http://www.phillyburbs.com">Homepage</a><br class="spacefive">
+<a href="http://www.phillyburbs.com/pb-dyn/feedback.cfm?tmpl=interact">Contact Us</a>
+<a href="http://www.phillyburbs.com/pb-dyn/login.cfm">Login/Logout</a>
+<a href="http://www.phillyburbs.com/pb-dyn/welcome.cfm">Change Edition</a>
+<a href="http://www.phillyburbs.com/pb-dyn/profile.cfm">My Profile</a>
+<br class="spacefive">
+<a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=advertise&amp;tmpl=advertise">Advertise</a>
+<a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=sub">Subscribe</a>
+<a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=privacy">Privacy Policy</a><br class="space3">
+</ul>
+</li>
+<li style="width:51px;"><a id="butns06" href="javascript:window.location='http://www.phillyburbs.com/pb-dyn/section.cfm?id='+sectionId+'&amp;tmpl=news';">News</a>
+<ul id="btnstyle" style="width:250px;"><div id="leftmenu"><br class="space3">
+<a href=""><strong>Local</strong></a><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=111&amp;tmpl=local_news">&nbsp;&nbsp;Courier Times</a><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=112&amp;tmpl=local_news">&nbsp;&nbsp;Burlington &nbsp;&nbsp;County Times</a><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=113&amp;tmpl=local_news">&nbsp;&nbsp;The Intelligencer</a><br class="spacefive"><a href="http://www.phillyburbs.com/pb-dyn/local.cfm?tmpl=home_news">Hometown</a><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=103&amp;tmpl=news">Pennsylvania</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=104&amp;tmpl=news">New Jersey</a>
+    <br class="spacefive"><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=1&amp;tmpl=news">National</a>
+ <a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=2&amp;tmpl=intl">World</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=94&amp;tmpl=news">Health</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=5&amp;tmpl=news">Washington</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=3&amp;tmpl=news">Features</a>
+<br class="space3"></div>
+<div id="menuright"><br class="space3"><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=117&amp;tmpl=columnists"><strong>Columnists</strong></a><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=219&amp;tmpl=columnists_sub">&nbsp;&nbsp;J.D. Mullane</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=257&amp;tmpl=columnists_sub">&nbsp;&nbsp;Kate Fratti</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=220&amp;tmpl=columnists_sub">&nbsp;&nbsp;Laura Nachman</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=137&amp;tmpl=columnists_sub">&nbsp;&nbsp;Lou Sessinger</a>
+<br class="spacefive"><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=obits"><strong>Obituaries</strong></a><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=222&amp;tmpl=local_news">&nbsp;&nbsp;Courier Times</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=223&amp;tmpl=local_news">&nbsp;&nbsp;Burlington &nbsp;&nbsp;County Times</a><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=224&amp;tmpl=local_news">&nbsp;&nbsp;The Intelligencer<br><br class="space3"></a><a href="http://blogs.phillyburbs.com/news-politics">News Blog</a>
+<a href="http://www.phillyburbs.com/lottery/">Lotteries</a>
+<a href="http://weather.phillyburbs.com/adcbin/phillyburbs/weather.asp">Weather</a><br class="space3">
+  </div>
+</ul>
+</li>
+<li style="width:59px;"><a id="butns06" href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=9&amp;tmpl=sports">Sports</a>
+<ul id="btnstyle" style="width:250px;">
+<div id="leftmenu"><br class="space3"><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=9&amp;tmpl=sports">Sports Home</a><br class="spacefive">
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=108&amp;tmpl=local_sports">Courier Times</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=109&amp;tmpl=local_sports">Burlington County Times</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=110&amp;tmpl=local_sports">The Intelligencer</a><br class="spacefive">
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=99&amp;tmpl=eagles">Eagles</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=100&amp;tmpl=sixers">Sixers</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=101&amp;tmpl=flyers">Flyers</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=102&amp;tmpl=phils">Phillies</a><br class="spacefive">
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=269&amp;tmpl=penn_state">Penn State</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=42&amp;tmpl=sports_college">Area Colleges</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=61&amp;tmpl=sports">National Colleges</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=118&amp;tmpl=sportscol">Columnists</a><br class="space3"></div>
+<div id="menuright"><br class="space3">
+<a href=""><b>Latest News</b></a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=51&amp;tmpl=sports">Baseball</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=66&amp;tmpl=sports">Football</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=55&amp;tmpl=sports">Basketball</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=72&amp;tmpl=sports">Hockey</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=76&amp;tmpl=sports">Soccer</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=61&amp;tmpl=sports">AP College Sports</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=70&amp;tmpl=sports">Golf</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=78&amp;tmpl=sports">Tennis</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=49&amp;tmpl=sports">Auto Racing</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=59&amp;tmpl=sports">Boxing</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=47&amp;tmpl=sports">Other Sports</a><br class="spacefive"><a href="http://blogs.phillyburbs.com/sports">Sports Blog</a><br class="space3"></div>
+</ul>
+</li>
+<li style="width:60px;"><a id="butns06" href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=7&amp;tmpl=money">Money</a>
+<ul id="btnstyle" style="width:110px;">
+<br class="space3"><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=7&amp;tmpl=money">Money Home</a><br class="spacefive">
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=24&amp;tmpl=money">Business News</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=147&amp;tmpl=money">Local Business</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=213&amp;tmpl=money">Your Money</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=95&amp;tmpl=money">Technology</a><br class="spacefive">
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=25&amp;tmpl=money">Consumer Affairs</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=157&amp;tmpl=money">Your Career</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=164&amp;tmpl=money">Columnists</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=11&amp;tmpl=money">Market News</a><br class="space3">
+  </ul>
+</li>
+<li style="width:112px;"><a id="butns06" href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=8&amp;tmpl=ent">Entertainment</a>
+<ul id="btnstyle" style="width:145px;">
+<br class="space3"><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=8&amp;tmpl=ent">Entertainment Home</a>
+<br class="spacefive"><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=80&amp;tmpl=ent">Movie News</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=82&amp;tmpl=ent">TV News</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=81&amp;tmpl=ent">Music News</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=83&amp;tmpl=ent">More News</a>
+<br class="spacefive">
+<a href="http://www.phillyburbs.com/movieguide/">Must-have movies</a>
+<a href="http://www.phillyburbs.com/musicguide/">Must-have music</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=95&amp;tmpl=ent">Online Culture/Games</a><a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=145&amp;tmpl=reality">reality</a><br class="spacefive">
+<a href="http://blogs.phillyburbs.com/pop-culture">Pop Culture Blog</a>
+<a href="http://www.phillyburbs.com/beer">Beer Primer</a>
+<a href="http://www.phillyburbs.com/lottery/">Lotteries</a>
+<a href="http://www.phillyburbs.com/ggc/">Games</a>
+<br class="spacefive">
+<a href="http://personals.phillyburbs.com/">Personals</a>
+<a href="http://www.phillyburbs.com/pb-dyn/section.cfm?id=270&amp;tmpl=personals" target="_top">Relationships w/ Wayne &amp; Tamara</a><br class="space3">
+</ul>
+</li>
+<li style="width:62px;"><a id="butns06" href="http://guides.phillyburbs.com/">Guides</a>
+<ul id="btnstyle" style="width:110px;">
+<br class="space3"><a href="http://guides.phillyburbs.com/diet-fitness">Diet &amp; Fitness</a>
+<a href="http://guides.phillyburbs.com/dining-out">Dining Out</a>
+<a href="http://guides.phillyburbs.com/education">Education</a>
+<a href="http://guides.phillyburbs.com/food-entertaining">Food &amp; Entertaining</a><br class="spacefive">
+<a href="http://guides.phillyburbs.com/health-wellness">Health &amp; Wellness</a>
+<a href="http://guides.phillyburbs.com/home-improvement">Home Improvement &amp; Decor</a><a href="http://guides.phillyburbs.com/lawn-garden">Lawn &amp; Garden</a>
+<a href="http://guides.phillyburbs.com/legal">Legal</a><br class="spacefive">
+<a href="http://guides.phillyburbs.com/outdoor">Outdoor</a>
+<a href="http://guides.phillyburbs.com/shopping-gift">Shopping &amp; Gift</a>
+<a href="http://guides.phillyburbs.com/shore">Shore</a>
+<a href="http://guides.phillyburbs.com/travel-tourism">Travel &amp; Tourism</a><br class="space3">
+</ul>
+</li>
+<li style="width:72px;"><a id="butns06" href="http://www.phillyburbs.com/pb-dyn/feedback.cfm?tmpl=interact">Interact</a>
+<ul id="btnstyle" style="width:100px;">
+<br class="space3"><a href="http://www.phillyburbs.com/pb-dyn/feedback.cfm?tmpl=interact">Contact Us</a><br class="spacefive">
+<a href="http://blogs.phillyburbs.com/">Burbs Blogs</a>
+<a href="http://www.e-thepeople.org/a-phillyburbs">E-The People</a><a href="http://personals.phillyburbs.com/">Personals</a>
+<br class="spacefive">
+<a href="http://www.phillyburbs.com/pb-dyn/login.cfm">Login/Logout</a>
+<a href="http://www.phillyburbs.com/pb-dyn/welcome.cfm">Change Edition</a>
+<a href="http://www.phillyburbs.com/pb-dyn/profile.cfm">My Profile</a>
+<br class="spacefive">
+<a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=advertise&amp;tmpl=advertise">Advertise</a>
+<a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=sub">Subscribe</a><br class="space3">
+</ul>
+</li>
+<li style="width:62px;"><a id="butns06" href="http://search.phillyburbs.com/">Search</a>
+<ul id="btnstyle" style="width:100px;">
+<br class="space3"><a href="http://search.phillyburbs.com/">phillyBurbs</a>
+<a href="http://www.phillyburbs.com/pb-dyn/archive.cfm">Newspaper Archives</a>
+<a href="http://ads.phillyburbs.com">Ads/Classifieds</a><br class="spacefive">
+<a href="http://biz.phillyburbs.com">Businesses</a>
+<a href="http://cars.phillyburbs.com">Cars</a>
+<a href="http://jobs.phillyburbs.com">Jobs</a>
+<a href="http://homes.phillyburbs.com">Homes</a><br class="spacefive">
+<a href="http://www.phillyburbs.com/search/google.asp">The Internet</a>
+<a href="http://www.mypublicnotices.com/">Public Notices</a><a href="http://personals.phillyburbs.com/">Personals</a><a href="http://biz.phillyburbs.com/bin/cgidir.dll?MEM=1378">Yellow Pages</a><br class="space3">
+</ul>
+</li>
+<li style="width:55px;"><a id="butnend06" href="http://shop.phillyburbs.com/">Shopping</a>
+<ul id="btnstyle" style="width:95px;margin-left:-17px;">
+<br class="space3"><a href="http://ads.phillyburbs.com">AdSearch</a><a href="http://biz.phillyburbs.com">BizSearch</a>
+<a href="http://cars.phillyburbs.com">CarSearch</a>
+<a href="http://homes.phillyburbs.com">HomeSearch</a>
+<a href="http://jobs.phillyburbs.com">JobSearch</a>
+<br class="spacefive"><a href="http://blogs.phillyburbs.com">BizBlogs</a>
+<a href="http://mall.phillyburbs.com">Browser’s Mall</a>
+<a href="http://coupons.phillyburbs.com">Coupons</a>
+<a href="http://www.phillyburbs.com/websites">Web Sites</a><br class="spacefive">
+<a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=advertise&amp;tmpl=advertise">Advertise</a><a href="http://www.newspaperads.com/phillyburbs/">Classifieds</a><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=sub">Subscribe</a><br class="space3">
+</ul>
+</li>
+</ul>
+</div>
+</em></div><!--End Menu--><em>
 <!--Start Second Table-->
 <table width="750" height="100%" cols="4" border="0" cellspacing="1" cellpadding="0">
 <tbody><tr valign="top"> 
@@ -111,9 +234,9 @@ DisplayAds("Top");
 <span class="spacefive">&nbsp;<br></span>
 &nbsp;&nbsp;<a href="http://www.phillyburbs.com/" class="col_lt_child">Homepage</a><br>
 &nbsp;&nbsp;<a href="http://www.phillyburbs.com/pb-dyn/feedback.cfm?tmpl=interact" class="col_lt_child">Contact Us</a><br>
-&nbsp;&nbsp;<a href="page.cfm?name=help" class="col_lt_child">Help</a><br>
-&nbsp;&nbsp;<a href="page.cfm?name=privacy" class="col_lt_child">Privacy Policy</a><br>
-&nbsp;&nbsp;<a href="welcome.cfm" class="col_lt_child">Change Town</a><br>
+&nbsp;&nbsp;<a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=help" class="col_lt_child">Help</a><br>
+&nbsp;&nbsp;<a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=privacy" class="col_lt_child">Privacy Policy</a><br>
+&nbsp;&nbsp;<a href="http://www.phillyburbs.com/pb-dyn/welcome.cfm" class="col_lt_child">Change Town</a><br>
 <img src="http://www.phillyburbs.com/pb-dyn/images/default/template/bluerule.gif" border="0" width="118" height="18"><br></span><br>
 &nbsp;
 </td>
@@ -124,7 +247,11 @@ DisplayAds("Top");
 <br><script language="JavaScript" src="images/default/javascript/pulldown.js" type="text/javascript"></script>
 </td></tr></tbody></table>
 </td>
-<td width="487" height="100%" bgcolor="#FFFFFF" align="left" valign="top">
+<td width="487" height="100%" bgcolor="#FFFFFF" align="center" valign="top">
+<table width="100%" height="100%" border="0" align="center" cellpadding="1" cellspacing="0">
+        	<tbody><tr> 
+<td>&nbsp;</td>
+<td valign="top">
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr><td height="5" colspan="3"></td></tr>
 <tr>
@@ -152,6 +279,10 @@ DisplayAds("Top");
 </tr>
 </tbody></table>
 </td>
+<td>&nbsp;</td>
+</tr>
+</tbody></table>
+</td>
 <td width="138" height="100%" align="center" valign="top" bgcolor="#D9D9E3">
 <table width="138" height="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
@@ -161,6 +292,16 @@ DisplayAds("Top");
   <script language="JavaScript" type="text/javascript">
  document.write('\<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://www.phillyburbs.com/pb-dyn/images/sda/' + sectionId + 'right.js"\>\<\/SCRIPT\>');
  </script>
+ <br class="spacefive">
+ <script type="text/javascript"><!--
+google_ad_client = "pub-3942272507830985";
+google_ad_width = 110;
+google_ad_height = 32;
+google_ad_format = "110x32_as_rimg";
+google_cpa_choice = "CAAQ0ZGazgEaCNfGe9Y_ARDqKPmNxXQ";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 </td>
 </tr>
 <tr>
@@ -173,13 +314,7 @@ DisplayAds("Top");
 </td>
 </tr>
 </tbody></table>
-<div align="center" class="copy11" style="width: 749;"><br><a href="http://www.phillyburbs.com/" class="copy11"><font color="#59A0E8">Home</font></a> 
-<font color="#CCCCCC">|</font><a href="http://www.phillyburbs.com/pb-dyn/feedback.cfm?tmpl=interact" class="copy11"><font color="#59A0E8">Contact 
-Us</font></a><font color="#CCCCCC">|</font><a href="http://www.phillyburbs.com/pb-dyn/welcome.cfm" class="copy11"><font color="#59A0E8">Change 
-Town</font></a><font color="#CCCCCC">|</font><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=privacy" class="copy11"><font color="#59A0E8">Privacy 
-Policy</font></a><font color="#CCCCCC">|</font><a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=advertise&amp;tmpl=advertise" class="copy11"><font color="#59A0E8">Advertise</font></a>
-<font color="#CCCCCC">|</font><a href="http://www.phillyburbs.com/siteindex.html" class="copy11"><font color="#59A0E8">Site Map</font></a>
-<font color="#CCCCCC">|</font><a href="http://www.phillyburbs.com/syndication/" class="copy11"><font color="#59A0E8">Syndication</font></a><br>&nbsp;</div>
+<div align="center" id="botnavline" style="width: 749;"><br><a href="http://www.phillyburbs.com/" id="botnavline">Home</a> | <a href="http://www.phillyburbs.com/pb-dyn/feedback.cfm?tmpl=interact" id="botnavline">Contact Us</a> | <a href="http://www.phillyburbs.com/pb-dyn/welcome.cfm" id="botnavline">Change Town</a> | <a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=privacy" id="botnavline">Privacy Policy</a> | <a href="http://www.phillyburbs.com/pb-dyn/page.cfm?name=advertise&amp;tmpl=advertise" id="botnavline">Advertise</a> | <a href="http://www.phillyburbs.com/siteindex.html" id="botnavline">Site Map</a> | <a href="http://www.phillyburbs.com/syndication/" id="botnavline">Syndication</a><br>&nbsp;</div>
 
 
 <script language="JavaScript" type="text/javascript">
@@ -201,4 +336,4 @@ document.layers[whichLayer].visibility = "visible";
 
 
 
- </body></html>
+ </em></body></html>
