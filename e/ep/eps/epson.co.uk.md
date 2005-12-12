@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2005-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050302201829id_/http%3A//www.epson.co.uk/corporate/details/EUL_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212154708id_/http%3A//www.epson.co.uk/corporate/details/EUL_privacy.htm) for the most accurate reproduction.*
 
 # EPSON privacy policy
 
@@ -31,6 +31,11 @@ Herts
 HP2 7TJ 
 
 Alternatively, you can e-mail any questions/comments using [this form](https://web.archive.org/contact/general_enquiry.htm). 
+
+If you would like to view Epson's privacy and customer protection policy, please click the links below to download the relevant files:-
+
+  * [EMEA Customer Information Protection Policy.pdf](https://web.archive.org/web/20051212154708id_/http%3A//www.epson.co.uk/corporate/details/EMEA_Customer_Information_Protection_Policy.pdf)
+  * [EMEA standard Privacy Policy Web Tel.pdf](https://web.archive.org/web/20051212154708id_/http%3A//www.epson.co.uk/corporate/details/Appendix1_EMEA_standard_Privacy_Policy_Web_Tel.pdf)
 
 |   
 ---|---
