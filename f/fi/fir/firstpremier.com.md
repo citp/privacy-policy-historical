@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstpremier.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407100139id_/http%3A//www.firstpremier.com/fpb/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstpremier.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212161644id_/http%3A//www.firstpremier.com/fpb/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
