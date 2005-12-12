@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gmu.edu privacy policy that was archived on 2005-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050511085229id_/http%3A//www.gmu.edu/mlnavbar/webdev/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmu.edu privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160258id_/http%3A//www.gmu.edu/mlnavbar/webdev/privacy) for the most accurate reproduction.*
 
 # Web Development -- Privacy - George Mason University
 
-[](https://web.archive.org/web/20050511085229id_/http%3A//www.gmu.edu/mlnavbar/webdev/index.html)
+[](https://web.archive.org/web/20051212160258id_/http%3A//www.gmu.edu/mlnavbar/webdev/index.html)
 
 ##  Internet Privacy Statement
 
-The following information explains the Internet Privacy Policy which George Mason has adopted for its website (web pages at addresses beginning with "http://www.gmu.edu"). The following is intended to explain our current Internet privacy practices but shall not[](https://web.archive.org/web/20050511085229id_/http%3A//www.gmu.edu/mlnavbar/webdev/index.html) be construed as a contractual promise. We reserve the right to amend our Internet Privacy Policy Statement at any time without notice. 
+The following information explains the Internet Privacy Policy which George Mason has adopted for its website (web pages at addresses beginning with "http://www.gmu.edu"). The following is intended to explain our current Internet privacy practices but shall not[](https://web.archive.org/web/20051212160258id_/http%3A//www.gmu.edu/mlnavbar/webdev/index.html) be construed as a contractual promise. We reserve the right to amend our Internet Privacy Policy Statement at any time without notice. 
 
 ##  Virginia Law
 
@@ -66,27 +66,27 @@ Web Site Design and Resources**
   * [Web Identity Guide](http://logo.gmu.edu/webguide)   
 (includes logos & templates)
   * [Design Tips ](http://designtips.html/)
-  * [Outside Mason Web Resources](https://web.archive.org/web/20050511085229id_/http%3A//www.gmu.edu/mlnavbar/webdev/resources.html)
+  * [Outside Mason Web Resources](https://web.archive.org/web/20051212160258id_/http%3A//www.gmu.edu/mlnavbar/webdev/resources.html)
   * [Search Engine Meta Tags](http://www.gmu.edu:8765/help/meta.html)
-  * [Web Design Basics ](https://web.archive.org/web/20050511085229id_/http%3A//www.gmu.edu/mlnavbar/webdev/designbasics.html)
+  * [Web Design Basics ](https://web.archive.org/web/20051212160258id_/http%3A//www.gmu.edu/mlnavbar/webdev/designbasics.html)
   * [Accessible Design](http://www.gmu.edu/accessibility)
   * [Universal Access Validator](http://condor.gmu.edu/validator)
-  * [Servers Available](https://web.archive.org/web/20050511085229id_/http%3A//www.gmu.edu/mlnavbar/webdev/servers.html)
-  * [Vendor Information](https://web.archive.org/web/20050511085229id_/http%3A//www.gmu.edu/mlnavbar/webdev/vendorinfo.html)
+  * [Servers Available](https://web.archive.org/web/20051212160258id_/http%3A//www.gmu.edu/mlnavbar/webdev/servers.html)
+  * [Vendor Information](https://web.archive.org/web/20051212160258id_/http%3A//www.gmu.edu/mlnavbar/webdev/vendorinfo.html)
 
 
 
 **Statements, Policies and Disclosures**
 
-  * [Mission Statement](https://web.archive.org/web/20050511085229id_/http%3A//www.gmu.edu/mlnavbar/webdev/missionstmt.html)
-  * [Mason Web Procedures](https://web.archive.org/web/20050511085229id_/http%3A//www.gmu.edu/mlnavbar/webdev/procedures)
-  * [Accessibility](https://web.archive.org/web/20050511085229id_/http%3A//www.gmu.edu/mlnavbar/webdev/accessibility.html)
-  * [Copyright](https://web.archive.org/web/20050511085229id_/http%3A//www.gmu.edu/mlnavbar/webdev/copyright.html)
-  * [Disclaimer](https://web.archive.org/web/20050511085229id_/http%3A//www.gmu.edu/mlnavbar/webdev/disclaimer.html)
+  * [Mission Statement](https://web.archive.org/web/20051212160258id_/http%3A//www.gmu.edu/mlnavbar/webdev/missionstmt.html)
+  * [Mason Web Procedures](https://web.archive.org/web/20051212160258id_/http%3A//www.gmu.edu/mlnavbar/webdev/procedures)
+  * [Accessibility](https://web.archive.org/web/20051212160258id_/http%3A//www.gmu.edu/mlnavbar/webdev/accessibility.html)
+  * [Copyright](https://web.archive.org/web/20051212160258id_/http%3A//www.gmu.edu/mlnavbar/webdev/copyright.html)
+  * [Disclaimer](https://web.archive.org/web/20051212160258id_/http%3A//www.gmu.edu/mlnavbar/webdev/disclaimer.html)
   * Internet Privacy 
   * [Responsible Use of Computing](http://www.gmu.edu/facstaff/policy/newpolicy/1301gen.html)
   * [VA's Internet and Systems Policy](http://itu.gmu.edu/internetpolicy.htm)
-  * [Student Information Disclosure](https://web.archive.org/web/20050511085229id_/http%3A//www.gmu.edu/mlnavbar/webdev/sisdisclose.html)
+  * [Student Information Disclosure](https://web.archive.org/web/20051212160258id_/http%3A//www.gmu.edu/mlnavbar/webdev/sisdisclose.html)
 
 
 
