@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sec.gov privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305084719id_/http%3A//www.sec.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sec.gov privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212155831id_/http%3A//sec.gov/privacy.htm) for the most accurate reproduction.*
 
 # On the SEC Site: Your Privacy
 
@@ -7,7 +7,7 @@
 
 At various places on our web site, we tell you how to contact us, and we encourage you to give us some personal details about yourself. You do not have to give us personal information to visit our site. We collect personal information from you only if you choose to give it to us.
 
-When we ask you to provide information to us voluntarily, the Privacy Act of 1974 requires us to tell you how we can use the information. Under the Act, we cannot sanction you if you fail to provide all or any part of the information to us. Sanctions may apply if you provide information to us and you know it is false or misleading.
+When we ask you to provide information to us voluntarily, the [Privacy Act of 1974](https://web.archive.org/cgi-bin/goodbye.cgi?www.usdoj.gov/foia/privstat.htm) requires us to tell you how we can use the information. Under the Act, we cannot sanction you if you fail to provide all or any part of the information to us. Sanctions may apply if you provide information to us and you know it is false or misleading.
 
 ## A. Our Authority for Requesting Your Information
 
@@ -59,11 +59,9 @@ The information you give the SEC may be used against you in any federal, state, 
 
 The Freedom of Information Act (FOIA) generally allows the SEC to make your information available to the public upon request. You may request that your information not be released to the public by writing a letter asking that it remain confidential under one of the exemptions described in FOIA (see 5 U.S.C. 552). The SEC determines whether your claim of an exemption is valid when someone requests your information under FOIA.
 
-Rule 83 of the SEC's Rules on Information and Requests, (17 CFR 200.83) explains how you should make your request for confidentiality. Your letter may be sent or faxed to our FOIA Officer at 450 Fifth Street, N.W., MS 0-5, Washington, DC 20549 or fax number (202) 942-9633. Alternatively, you may follow the instructions on our [on-line FOIA pages](https://web.archive.org/foia.shtml).
+Rule 83 of the SEC's Rules on Information and Requests, (17 CFR 200.83) explains how you should make your request for confidentiality. Your letter may be sent or faxed to our FOIA Officer at 100 F Street, NE, MS 0-5, Washington, DC 20549 or fax number (703) 914-1149. Alternatively, you may follow the instructions on our [on-line FOIA pages](https://web.archive.org/foia.shtml).
 
-_http://www.sec.gov/privacy.htm  
-_
+_http://www.sec.gov/privacy.htm_   
+
 
 * * *
-
-__
