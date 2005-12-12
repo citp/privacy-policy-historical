@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the templatetuning.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418060301id_/http%3A//www.templatetuning.com/support/privacy-and-security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatetuning.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212043704id_/http%3A//www.templatetuning.com/support/privacy-and-security.php) for the most accurate reproduction.*
 
-# Web Templates Customization
+# Web Templates Customization by Template Tuning
 
 TemplateTuning, Inc. (hereafter referred to as TemplateTuning) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users. 
 
@@ -14,7 +14,7 @@ This privacy policy does not apply to the practices of companies that TemplateTu
 
 You can visit the websites of TemplateTuning without revealing any personal information. However, TemplateTuning needs certain personal information if you wish to purchase our products, register for an affiliate account, receive TemplateTuning newsletter, or use certain TemplateTuning services. 
 
-Where required, this information may include your personal contact information and/or your company contact information. TemplateTuning will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member?s account, and to contact you regarding new products and services. 
+Where required, this information may include your personal contact information and/or your company contact information. TemplateTuning will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member's account, and to contact you regarding new products and services. 
 
 By accessing the services of TemplateTuning and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy. 
 
@@ -37,11 +37,11 @@ TemplateTuning may otherwise disclose your personal information when:
 
 **Consent**
 
-If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to TemplateTuning. If you have provided personal information to TemplateTuning and no longer consent to its use or disclosure as outlined herein, please notify TemplateTuning at [info@templatetuning.com](mailto:info@templatetuning.com). 
+If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to TemplateTuning. If you have provided personal information to TemplateTuning and no longer consent to its use or disclosure as outlined herein, please notify TemplateTuning at [support@templatetuning.com](mailto:support@templatetuning.com). 
 
 **Security**
 
-Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your TemplateTuning Information protected for your privacy and security. In certain areas of our websites, as identified on the site, TemplateTuning uses industry-standard SSL-encryption to protect data transmissions. 
+Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your TemplateTuning Information is protected for your privacy and security. In certain areas of our websites, as identified on the site, TemplateTuning uses industry-standard SSL-encryption to protect data transmissions. 
 
 We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures. 
 
@@ -53,4 +53,4 @@ TemplateTuning may at any time, without notice to you and in its sole discretion
 
 **Questions or Suggestions**
 
-If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [info@templatetuning.com](mailto:info@templatetuning.com). 
+If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [support@templatetuning.com](mailto:support@templatetuning.com). 
