@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607043423id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212105230id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
 
-# LONG ISLAND WEDDINGS ™
+# LI Wedding
 
 INTERNET PRIVACY POLICY
 
-Long Island Weddings, Inc ("LIWeddings.com") has developed this privacy statement for you, the visitor, to demonstrate our commitment to privacy on the Internet. The following discloses our information gathering and dissemination practices for www.LIWeddings.com and all other Web sites owned and operated by LIWeddings.com.
+Long Island Weddings ™, Inc ("LIWeddings.com") has developed this privacy statement for you, the visitor, to demonstrate our commitment to privacy on the Internet. The following discloses our information gathering and dissemination practices for www.LIWeddings.com and all other Web sites owned and operated by LIWeddings.com.
 
 LIWeddings.com can be contacted by mail at:
 
 Attention Legal Department  
-Long Island Weddings, Inc.  
-646 Main Street  
+Long Island Weddings ™, Inc.  
+646-13 Main Street  
 3rd Floor  
 Port Jefferson, NY 11777  
 United States of America
 
-by phone at (631)331-5703 or
+by phone at (631) 331-5703 or
 
 by e-mail [_here_](https://web.archive.org/contact/).
 
@@ -29,7 +29,7 @@ When a visitor performs a search within LIWeddings.com' Web site, LIWeddings.com
 
 2\. Use of Personal Data Collected
 
-Personal data collected by LIWeddings.com may be used by LIWeddings.com for editorial and feedback purposes, for marketing and promotional purposes, for a statistical analysis of users’ behavior, for product development, for content improvement, to inform advertisers as to how many visitors have seen or clicked on their advertisements, or to customize the content and layout of LIWeddings.com' site. Aggregate data on visitors’ home servers may be used for internal purposes or provided to third parties such as advertisers. Individually identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information which visitors voluntarily provide to LIWeddings.com may be (i) added to LIWeddings.com' databases and used for future calls and mailings regarding site updates, new products and services, upcoming events, and status of orders placed online, or (ii) provided to reputable third parties who provide products and services which LIWeddings.com believes that visitors may be interested in purchasing or obtaining, with prior notice to the visitor.
+Personal data collected by LIWeddings.com may be used by LIWeddings.com for editorial and feedback purposes, for marketing and promotional purposes, for a statistical analysis of users’ behavior, for product development, for content improvement, to inform advertisers as to how many visitors have seen or clicked on their advertisements, or to customize the content and layout of LIWeddings.com' site. Aggregate data on visitors’ home servers may be used for internal purposes or provided to third parties such as advertisers. Individually identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information which visitors voluntarily provide to LIWeddings.com may be (i) added to LIWeddings.com' databases and used for future calls and mailings regarding site updates, new products and services, upcoming events, and status of orders placed online, or (ii) provided to reputable third parties who provide products and services which LIWeddings.com believes that visitors may be interested in purchasing or obtaining, with prior notice to the visitor. LI Wedding
 
 3\. Disclosure of Personal Data to Third Parties
 
@@ -41,7 +41,7 @@ LIWeddings.com has implemented numerous security features to prevent the unautho
 
 5\. Opt-Out Right
 
-Visitors may opt out of having their personal information collected by LIWeddings.com, used by LIWeddings.com for secondary purposes, disclosed to third parties, or used by LIWeddings.com or third parties to send promotional correspondences to the visitor, by contacting LIWeddings.com via postal mail, e-mail, or telephone at the addresses above, or by checking the appropriate box.
+Visitors may opt out of having their personal information collected by LIWeddings.com, used by LIWeddings.com for secondary purposes, disclosed to third parties, or used by LIWeddings.com or third parties to send promotional correspondences to the visitor, by contacting LIWeddings.com via postal mail, e-mail, or telephone at the addresses above, or by checking the appropriate box. LI Wedding
 
 6\. Access to and Ability to Correct Personal Data
 
@@ -51,10 +51,10 @@ Upon request via postal mail, e-mail, or phone, LIWeddings.com will provide to v
 
 To the extent LIWeddings.com is able to determine the age of users by their submissions to or communications with LIWeddings.com' Web site, LIWeddings.com will not knowingly (i) collect or post information from individuals under the age of sixteen ("children") without their parent’s or guardian’s consent, or (ii) provide any personally identifying information collected from children, regardless of its source, to any third party for any purpose whatsoever. If registration is required for any services on the LIWeddings.com Site, and a user submits information to LIWeddings.com' Web site as part of the registration process which indicates that such user is a child, the child’s parent or guardian will receive an e-mail alerting them to the child’s registration and providing instructions on how the parent can delete the child’s registration, if so desired. No information collected through LIWeddings.com' Web site from users self- identified as children will knowingly be used for any marketing or promotional purposes whatsoever, either inside or outside LIWeddings.com. If there are no age restrictions on a contest which requires registration, and if a child wins, notification and prizes will be sent to the parent(s) or guardian(s) identified in the initial registration process.
 
-8\. LIWeddings.com' Right to Contact User
+8\. LIWeddings.com's Right to Contact User
 
 LIWeddings.com reserves the right to contact site visitors regarding account status and changes to the subscriber agreement, privacy policy, or any other policies or agreements relevant to site visitors.
 
-9\. LIWeddings.com' Right to Change Privacy Policy
+9\. LIWeddings.com's Right to Change Privacy Policy
 
-The foregoing policy is effective as of December 11, 1995. LIWeddings.com reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy. By entering the LIWeddings.com website you are accepting all terms and conditions outlined in the above Long Island Weddings, Inc Internet Privacy Policy.
+The foregoing policy is effective as of December 11, 1995. LIWeddings.com reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy. By entering the LIWeddings.com website you are accepting all terms and conditions outlined in the above Long Island Weddings ™, Inc Internet Privacy Policy.
