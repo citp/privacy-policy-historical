@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawinfo.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525183411id_/http%3A//www.lawinfo.com/index.cfm/fuseaction/Client.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawinfo.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212094124id_/http%3A//www.lawinfo.com/index.cfm/fuseaction/Client.privacy) for the most accurate reproduction.*
 
 # LawInfo: Privacy Policy
 
@@ -8,7 +8,7 @@ At LawInfo.com and LawSmart.com we respect your privacy. Our policy is to allow 
 
 Our sites contain links to other sites. We are not responsible for the privacy practices of other sites that are linked to us. Remember that any information you voluntarily post on the discussion boards or elsewhere may be accessible by other users and is public information. Please use caution when disclosing personal information on our sites. And NEVER send personal information to us by email.
 
-If you have any questions regarding this privacy statement or your dealings with our websites, please email [netlaw@lawinfo.com](mailto:netlaw@lawinfo.com).
+If you have any questions regarding this privacy statement or your dealings with our websites, please [email](http://www.lawinfo.com/index.cfm/fuseaction/Client.contact).
 
 ## Usage Statement
 
