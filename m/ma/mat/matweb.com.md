@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matweb.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306000652id_/http%3A//www.matweb.com/reference/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matweb.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212143821id_/http%3A//www.matweb.com/reference/privacy.asp) for the most accurate reproduction.*
 
 # MatWeb - Privacy Statement
 
@@ -25,17 +25,17 @@ Automation Creations, Inc. and its partners may use information in the following
 
 
 
-You will have the opportunity to opt out of receiving e-mail from us during the registration process. You may change your e-mail preference in the future through our registration page or by contacting us at the above address.
+MatWeb maintains a list of users who have agreed to receive email updates directly from us regarding MatWeb and/or our partners. You may change your e-mail update preference and opt in or out of this list through the account tab when logged into MatWeb or by contacting us at the above address. We will not sell or share your email address or other personal information with other parties beyond our control.
 
-If you supply us with your postal address you may receive periodic mailings from us with information on new products and services or upcoming events. You will have the opportunity to opt out of receiving postal mail from us during the registration process. You may change your postal mail preference in the future through our registration page. We will not share your postal address with third parties except in response to specific requests from you.
+If you supply us with your postal address you may receive periodic mailings from us with information on new products and services or upcoming events. You will have the opportunity to opt out of receiving postal mail from us through the account tab when logged into MatWeb or by contacting us at the above address. We will not share your postal address with third parties except in response to specific requests from you.
 
 Persons who supply us with their telephone numbers will only receive telephone contact from us with information regarding specific questions or requests. We will not share your telephone number with third parties except in response to specific requests from you.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. We will also notify you via e-mail. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them, and/or a description of information that we maintain about them. Consumers can access this information through our user administration page or by contacting us at the above address.
+Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them, and/or a description of information that we maintain about them. Consumers can access this information through our user account page or by contacting us at the above address.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected through our user administration page or by contacting us at the above address.
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected through our user account page or by contacting us at the above address.
 
 We provide links to other Web sites from MatWeb. These other Web sites are not subject to our Privacy Policy.
 
