@@ -1,869 +1,652 @@
-<!--The following is the downloaded HTML source of the lovefilm.com privacy policy that was archived on 2005-03-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050306032127id_/http%3A//www.lovefilm.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lovefilm.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212094148id_/http%3A//www.lovefilm.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	  <title>LOVEFiLM - Online DVD Rental UK</title>
-        <link rel="stylesheet" type="text/css" href="/common.css">
-	<link rel="stylesheet" type="text/css" href="/lovefilm.css">
-	    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <meta name="description" content="LOVEFiLM: Rent unlimited DVDs in the UK for only 9.99 per month. All postage paid. No late fees. No due dates. No strings. No fuss. Free trial period.">
-    <meta name="keywords" content="rental, dvd rental, rent dvd, rent movie, rent movies, rental dvd uk, rent dvd uk, film, love film, films, love films, lovefilm, LOVEFiLM">
-    <meta name="lfmn" content="">
-
-    
-<script src="/javascript/dial_rating.js" type="text/javascript"></script>
-
-<script language="javascript" type="text/javascript">
+	<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<title>LOVEFiLM | Europe's No.1 online DVD rental service</title>
+<meta name="description" content="LOVEFiLM : Rent unlimited DVDs in the UK for only 9.99 per month. All postage paid. No late fees. No due dates. No strings. No fuss. Free trial period.">
+<meta name="keywords" content="rental, dvd rental, rent dvd, rent movie, rent movies, rental dvd uk, rent dvd uk, film, love film, films, love films, lovefilm, LOVEFiLM">
+<meta name="revisit-after" content="5 days">
+<meta name="lfmn" content="cl-an-4.lovefilm.com">
+	<link rel="P3Pv1" href="http://www.lovefilm.com/w3c/p3p.xml">
+	
+	<script language="javascript" type="text/javascript">
 <!--
-
-
-    loadTime = new Date().getTime();
-
-	/**
-	* imageType: 1 - Preorder
-	*            2 - Rent
-	*            3 - Queued
-	*            4 - Free trial
-	*            5 - Shipped
-	*/
-	function RentButton_onclick(dt_id, origImageType, logRec)
-	{
-		var timeout = 1200 * 1000;
-
-		// If a shipped button, the link is to the queue page, so don't do any of this
-		// malarky.
-		if (origImageType == 5) {                      // Shipped
-			location.href = '/view_queue.php?SID=997fd7641e81f756022bc1abd88698d7';
-			return;
-		}
-
-		// Check that session timeout hasn't passed
-		if ( (loadTime + timeout) < (new Date().getTime()) ) {
-			alert('Alert! Your session may have timed out. Please refresh the page, and try again.');
-			return;
-		}
-
-		if (!document.getElementById && document.all) {
-			document.getElementById = document.all;
-		}
-
-		if (document.getElementById) {
-			// A little entropy to ensure no caching takes place
-			var date    = new Date();
-			var entropy = String(date.getHours()) + String(date.getMinutes()) + String(date.getSeconds()) + String(date.getMilliseconds());
-
-			// Create a new Image object, and set the source to the rent script
-			// In effect calls the rent script to register the queued/unqueued title
-			var rentScriptImg = new Image();
-			rentScriptImg.src = '/rent.php?ca_id=&dt_id=' + dt_id + '&rec=' + logRec + '&entropy=' + entropy + '&SID=997fd7641e81f756022bc1abd88698d7';
-
-			// Grab image object...
-			var rentButtonImgObject = document.getElementById('rentButtonImg_' + dt_id);
-
-			// If the rent button object was successfully retrieved...
-			if (rentButtonImgObject) {
-				// Grab the current image src, and get the filename from it
-				if (rentButtonImgObject.src.indexOf('/') != -1) {
-					var pos = rentButtonImgObject.src.lastIndexOf('/');
-					var filename = rentButtonImgObject.src.substring(pos + 1);
-				} else {
-					var filename = rentButtonImgObject.src;
-				}
-
-				// Determine the new filename based on the current filename
-				var newFilename;
-				var newAltText;
-
-				if (filename == 'button_rent.gif' || filename == 'button_preorder.gif') {
-					newFilename = '/images/button_queued.gif';
-					newAltText  = 'Remove from Queue';
-
-				} else if (filename == 'button_queued.gif') {
-
-					if (origImageType == 1) {
-						newFilename = '/images/button_preorder.gif';
-                        newAltText  = 'Click to Pre-order';
-					} else {
-						newFilename = '/images/button_rent.gif';
-                        newAltText  = 'Click to Rent';
-					}
-				}
-
-				rentButtonImgObject.src = newFilename;
-				rentButtonImgObject.alt = newAltText;
-			}
-
-			// Update the "You have x items Queued" text at the topright of the
-			// page if possible and only if this is not a preorder.
-			var updateTotal   = (origImageType == 2);
-			var dvdsQueuedDiv = document.getElementById('num_dvds_queued');
-
-			if (dvdsQueuedDiv && updateTotal) {
-				var numToAdd  = (newFilename == '/images/button_queued.gif' ? 1 : -1);
-
-                var currItems = dvdsQueuedDiv.innerHTML.match(/([0-9]+) items?/i);
-                dvdsQueuedDiv.innerHTML = dvdsQueuedDiv.innerHTML.replace(dvdsQueuedDiv.innerHTML, (Number(currItems[1]) + numToAdd)  + ' items');
-			}
-
-		// For browser not supporting document.getElementById call the old rentPopup functionality
-		} else {
-			rentPopup(dt_id);
-		}
-	}
-
-	/**
-	* Old function here to handle situations when user has rating limit set
-	* and title is rated too high, and also older browsers.
-	*/
-	function rentPopup(dt_id) {
-		var popup = window.open('/rent.php?ca_id=&dt_id=' + dt_id + '&SID=997fd7641e81f756022bc1abd88698d7', 'rentPopup', 'width=250,height=130,left=437,top=364');
-		popup.focus();
-	}
-
-
-	var win=null;
-	function NewWindow(mypage,myname,w,h,scroll,pos)
-	{
-		if(pos=="center"){LeftPosition=(screen.availWidth)?(screen.availWidth-w)/2:50;TopPosition=(screen.availHeight)?(screen.availHeight-h)/2:50;}
-		settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no';
-		win=window.open(mypage,myname,settings);
-		if(win.focus){win.focus();}
-	}
-	function CloseNewWin(){if(win!=null && win.open)win.close()}
-	window.onfocus=CloseNewWin;
-
-
-	function popUp(url) {
-		sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0, status=1,menubar=1,scrollbars=1,resizable=1,width=510,height=450');
-		self.name = "mainWin";
-	}
-
-
-
-
-
-
-
-
-	function helpful(re_id,re_helpful,dt_id) {
-		window.open('/helpful.php?SID=997fd7641e81f756022bc1abd88698d7&re_id=' + re_id +'&re_helpful='+ re_helpful + '&dt_id=' + dt_id , 'helpful', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=250,height=20,left = 437,top = 364');
-	}
-
-
-	function ratereview(re_id,rra_rating,dt_id) {
-		window.open('/ratereview.php?SID=997fd7641e81f756022bc1abd88698d7&re_id=' + re_id +'&rra_rating='+ rra_rating + '&dt_id=' + dt_id , 'ratereview', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=250,height=20,left = 437,top = 364');
-	}
-
-// -->
+var g_timeout=1200000;
+var g_caid='';
+var g_img_queued='/images/button_queued.gif';
+var g_img_preorder='/images/button_preorder.gif';
+var g_img_rent='/images/button_rent.gif';
+-->
 </script>
+<script src="/javascript/dial_rating.js" type="text/javascript"></script>
+<script src="/javascript/topv2.js" type="text/javascript"></script>
+<script src="/javascript/utilities.js" type="text/javascript"></script>
+<script src="/javascript/http_request.js" type="text/javascript"></script>
+<script src="/javascript/xmlhelper.js" type="text/javascript"></script>
+<script src="/javascript/bonusrental.js" type="text/javascript"></script>
+<script type="text/javascript" src="/javascript/flash_detect.js">
+//<![CDATA[
+function getFlashVersion() { return null; };
+//]]>
+</script>
+	<style type="text/css" media="screen">@import "/css/lovefilm.css";</style>
+	
+   	<link rel="stylesheet" type="text/css" href="/common.css">
+	<link rel="stylesheet" type="text/css" href="/lovefilm.css">
+			
+		<script language="JavaScript" src="/javascript/m3_core.js"></script><script language="JavaScript" type="text/javascript" src="https://web.archive.org/web/20060414235454/http://d.m3.net/fc.php?MAX_type=spc&amp;zones=143|171|277|304|305|306|397|398|399|&amp;channel=LOV&amp;r=49845804&amp;loc=https%3A//web.archive.org/web/20051212094148id_/http%253A//www.lovefilm.com/privacypolicy.php"></script>
 </head>
-<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+	<body>
 
-<table border="0" cellpadding="0" cellspacing="0" width="778" align="center">
+	
+	<table id="container" border="0" cellpadding="0" cellspacing="0" width="780" align="center" bgcolor="#FFFFFF">
+		<tbody><tr>
+			<td>
+				<a name="top" id="top"></a>
+				
+				<div id="skip">
+					<p><a href="#startcontent" accesskey="2">Skip over navigation</a> (2)</p>
+				</div>
+			
+				<div id="wrap">
+										
+																		
+											    
+							<table width="100%" border="0" cellpadding="0" cellspacing="0" id="header">
+								<tbody><tr>
+									<td>
+										<a href="/index.php?nosplash=1" title="LOVEFiLM home" accesskey="1" id="logo"><h2>LOVEFiLM</h2></a>
+									</td>
+									<td style="text-align:right;padding:10px 10px 0 0" width="500" valign="top">
+										<div id="utils">            <a href="/loginrequired.php" title="Sign in to your LOVEFiLM account">Sign in
+    	    		</a>
+    	        &nbsp;|&nbsp;
+    	<a href="/helpcentre.php" title="Frequently asked questions">Help</a>
+		 <p></p>
+		
 
-    <tbody><tr>
-        <td colspan="3" bgcolor="#9AA178">
-            <table cellspacing="0" cellpadding="4" border="0">
-                <tbody><tr>
-                    <td width="223" valign="bottom" style="padding-bottom:10px">
-                        <a href="http://www.lovefilm.com/index.php?SID=997fd7641e81f756022bc1abd88698d7" title="LOVEFiLM Homepage"><img src="/images/header_logo_drop.gif" alt="LOVEFiLM" border="0" style="margin-left:5px"></a>
-                    </td>
-                    <td valign="bottom" width="244">
-                        <img src="/images/header_no1_drop.gif" width="244" height="26" alt="The UKs Number 1 DVD rental service" style="margin-bottom:5px; margin-right:15px">
-                    </td>
-                    <td align="right" class="header" nowrap="" style="padding-bottom:10px; padding-right:10px" width="100%">
-                            
-                <table width="165" border="0" cellspacing="0" cellpadding="0">
-                <form method="post" name="login" action="https://www.lovefilm.com/privacypolicy.php?SID=997fd7641e81f756022bc1abd88698d7" autocomplete="on"></form>
-                    <input name="logindest" type="hidden" value="/privacypolicy.php">
-                    <input type="hidden" name="logincmd" value="login">
-            
-
-                  <tbody><tr>
-                    <td class="headersmall">&nbsp;</td>
-                    <td colspan="2" width="65">&nbsp;<img src="/images/image_header_login_xmas.gif" width="52" height="17" border="0" alt="Login"></td>
-                  </tr>
-                  <tr> 
-                    <td class="headersmall" style="font-size:8pt" width="100" align="right">Email:&nbsp;</td>
-                    <td colspan="2" style="padding-left:5px">
-                        <input tabindex="1" type="text" name="email" style="width:150px; height:20px; font-family: verdana, helvetical, sans-serif; font-size: 7pt;" value="">
-                    </td>
-                  </tr>
-                  <tr><td colspan="3" height="2"><img src="/images/spacer.gif" width="1" height="2" alt=""></td></tr>
-                  <tr> 
-                    <td class="headersmall" width="100" style="font-size:8pt; padding-top:2px" align="right">Password:&nbsp;</td>
-                    <td colspan="2" style="padding-left:5px">
-                        <input tabindex="2" type="password" name="password" style="width:103px; height:20px; font-family: verdana, helvetical, sans-serif; font-size: 7pt;" value="">
-						<input tabindex="3" type="image" src="/images/button_header_go_xmas.gif" border="0" alt="Go" align="absbottom">
-                    </td>
-                  </tr>
-                  <tr><td colspan="3" height="2"><img src="/images/spacer.gif" width="1" height="2" alt=""></td></tr>
-                  <tr> 
-                    <td class="headersmall" width="100" nowrap="" align="right">Keep me logged in&nbsp;</td>
-                    <td align="left"><input tabindex="4" type="checkbox" name="autologin" value="1" style="padding:0px; margin:0px"></td>
-                    <td align="right"><a href="/lostpw.php" title="Forgotten password?" class="headersmallund">Forgotten password?</a></td>
-                  </tr>
-                 
-                </tbody></table>
-                    </td>
-                </tr>
-            </tbody></table>
-        </td>
-
-    </tr>
-
-
-    <!-- Spacer row -->
-    <tr>
-        <td colspan="3"><!-- gutter --><img src="/images/spacer.gif" width="1" height="1" alt=""></td>
-    </tr>
-
-
-    <!-- Main Nav bar -->
-    
-<tr bgcolor="black" height="20">
+</div>
+										<img src="/images/spacer.gif" width="1" height="1" alt="">
+									</td>
+								</tr>
+							</tbody></table>
+						
+										
+					<div id="mnav"><table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr bgcolor="black" height="20">
 	<td colspan="3">
 		<div id="main_nav">
 			<table width="780" cellspacing="0" cellpadding="0" border="0" bgcolor="#000000" style="border-collapse:collapse">
 				<tbody><tr>
 																	<td>&nbsp;</td>
-																		<td class="nav_content" style="width:57px"><a href="http://www.lovefilm.com/index.php?howwework=1&amp;SID=997fd7641e81f756022bc1abd88698d7" class="mainnav_white">INTRO</a></td>
+																		<td class="nav_content" style="width:66px"><a href="http://www.lovefilm.com/index.php?howwework=1" class="mainnav_white">HOME</a></td>
 						<td>&nbsp;</td>
 																	<td style="border-left:1px solid white">&nbsp;</td>
-																		<td class="nav_content" style="width:55px"><a href="http://www.lovefilm.com/index.php?nosplash=1&amp;SID=997fd7641e81f756022bc1abd88698d7" class="mainnav_white">HOME</a></td>
+																		<td class="nav_content" style="width:123px"><a href="http://www.lovefilm.com/index.php?nosplash=1" class="mainnav_white">BROWSE TITLES</a></td>
 						<td>&nbsp;</td>
 																	<td style="border-left:1px solid white">&nbsp;</td>
-																		<td class="nav_content" style="width:103px"><a href="http://www.lovefilm.com/howitworks.php?SID=997fd7641e81f756022bc1abd88698d7" class="mainnav_white">LEARN MORE</a></td>
+																		<td class="nav_content" style="width:123px"><a href="http://www.lovefilm.com/howitworks.php" class="mainnav_white">LEARN MORE</a></td>
 						<td>&nbsp;</td>
 																	<td style="border-left:1px solid white">&nbsp;</td>
-																		<td class="nav_content" style="width:215px"><a href="https://www.lovefilm.com/signup1.php?SID=997fd7641e81f756022bc1abd88698d7" class="mainnav_white">START YOUR FREE TRIAL NOW</a></td>
+																		<td class="nav_content" style="width:123px"><a href="http://www.lovefilm.com/features/" class="mainnav_white">FILM EXTRAS</a></td>
 						<td>&nbsp;</td>
 																	<td style="border-left:1px solid white">&nbsp;</td>
-																		<td class="nav_content" style="width:53px"><a href="http://www.lovefilm.com/faqs.php?SID=997fd7641e81f756022bc1abd88698d7" class="mainnav_white">HELP</a></td>
+																		<td class="nav_content" style="width:215px"><a href="https://www.lovefilm.com/signup1.php" class="mainnav_white">START YOUR FREE TRIAL</a></td>
+						<td>&nbsp;</td>
+																	<td style="border-left:1px solid white">&nbsp;</td>
+																		<td class="nav_content" style="width:70px"><a href="http://www.lovefilm.com/gifts/" class="mainnav_white">GIFTS</a></td>
 						<td>&nbsp;</td>
 									</tr>
 			</tbody></table>
 		</div>
 	</td>
 </tr>
+</tbody></table></div>
+					
+					<div id="crumb" class="breadcrumb"><a href="index.php">Home</a> &gt; <a href="privacypolicy.php">Privacy Policy</a></div>
+					<table border="0" cellpadding="0" cellspacing="0" width="780" align="center">
+						    <tbody><tr>
+						        						            <td width="132" valign="top">
+						                <div id="snav">
+    <div id="search">
+		<form action="http://www.lovefilm.com/search.php" method="get" name="flickFinda" title="LOVEFiLM search">
+			<h2><label for="searchbox">Search</label></h2>
+			<input name="dvdsearch" type="text" value="" accesskey="4" id="searchbox"><br>
+			<select name="searchtype" id="searchoptions">
+				<option value="all">Search all</option><option value="genre">By genre</option><option value="title">By title</option><option value="description">By description</option><option value="language">By language</option><option value="studio">By studio</option><option value="actor">By actor</option><option value="director">By director</option>			</select>
+			<select name="searchplatforms" id="searchplatforms">
+				 
+	  <option value="N13">Search all platforms</option>
+	  <option value="1">DVDs only</option>
+	  <option value="2,10">UMDs only</option>
+				</select>
+			<p><input type="submit" value="Search" id="searchbutton" class="submit"></p>
+		</form>
+	</div>
+    <div id="genres">
+        <form name="categorySelectFormLevel1" action="category.php" method="get">
+            <h2><a href="/all-categories.php" title="See all">Genres</a></h2>
+            <select style="name=" ca_id"="" onchange="goGenre(this)">
+                <option value="">Select...</option>
+                															<option value="1">Action</option>
+										<option value="2">Adult</option>
+										<option value="3">Animation</option>
+										<option value="18">Bollywood</option>
+										<option value="7">Children</option>
+										<option value="5">Comedy</option>
+										<option value="19">Documentary</option>
+										<option value="6">Drama</option>
+										<option value="32">Family</option>
+										<option value="25">Fantasy</option>
+										<option value="14">Foreign Language</option>
+										<option value="33">Futuristic</option>
+										<option value="193">Gay / Lesbian</option>
+										<option value="20">General Interest</option>
+										<option value="8">Horror</option>
+										<option value="21">Living World</option>
+										<option value="9">Martial Arts</option>
+										<option value="30">Miscellaneous</option>
+										<option value="22">Music</option>
+										<option value="24">Mystery</option>
+										<option value="250">Romantic Comedy</option>
+										<option value="12">Science Fiction</option>
+										<option value="23">Sports</option>
+										<option value="17">Television</option>
+										<option value="13">Thriller</option>
+										<option value="16">War</option>
+										<option value="15">Western</option>
+														            </select>
+        </form>
+        <p class="more"><a href="/all-categories.php">see all genres</a></p>
+    </div>
+    
+    <!-- end genres table -->
 
-
-    <!-- Breadcrumb navigation -->
-    <tr>
-        <td colspan="3"><div class="breadcrumb">
-	<a href="index.php">Home</a> &gt; <a href="privacypolicy.php">Privacy Policy</a></div>
-</td>
-    </tr>
-
-
-    <!-- Spacer row -->
-    <tr>
-        <td colspan="3"><img src="/images/spacer.gif" width="778" height="4" alt=""></td>
-    </tr>
-
-
-    <tr>
-        <!-- Left Navigation -->
-                    <td width="132" valign="top">
-                	<!-- search table -->
-	<table width="132" cellspacing="0" cellpadding="0" border="0" bgcolor="#9A81B8">
-		<form action="http://www.lovefilm.com/search.php?SID=997fd7641e81f756022bc1abd88698d7" method="get" name="flickFinda"></form>
-		<tbody><tr>
-			<td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-			<td width="122" style="padding-bottom:5px">
-				<img src="/images/nav_text_search.gif" width="61" height="13" alt="Search" vspace="8"><br>
-				Know what you're looking for?<br><br>
-				<input name="dvdsearch" type="text" value="" size="14" style="width:120px; font-family: verdana, helvetica, arial; font-size: 9pt;"><br>
-				<select name="searchtype" style="width:120px; font-family: verdana, helvetica, arial; font-size: 9pt;">
-					<option value="all">Search all</option><option value="genre">By genre</option><option value="title">By title</option><option value="description">By description</option><option value="language">By language</option><option value="studio">By studio</option><option value="actor">By actor</option><option value="director">By director</option>				</select>
-				<input type="image" src="/images/button_go_purple.gif" alt="Go Search" border="0" align="right" style="margin-top: 5px; margin-right: 3px;">
-				
-			</td>
-			<td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-		</tr>
-		
-	</tbody></table>
-	
-	
-	<!-- end search table -->
-	<!-- genres table -->
-	<table width="132" cellspacing="0" cellpadding="0" border="0" bgcolor="#958A74">
-		<tbody><tr>
-			<td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-			<td width="122">
-				<form name="categorySelectFormLevel1" action="category.php" method="get">
-				<table cellpadding="0" cellspacing="0" border="0" width="122">
-					<tbody><tr>
-						<td colspan="2"><img src="/images/nav_text_genres.gif" width="61" height="12" alt="Genres" vspace="8"></td>
-					</tr>
-					<tr>
-						<td colspan="2">
-							<select style="width: 120px; font-family: verdana, helvetica, arial; font-size: 9pt;" name="ca_id">
-								<option value="">Select...</option>
-																	<option value="1">Action</option>
-																	<option value="2">Adult</option>
-																	<option value="3">Animation</option>
-																	<option value="18">Bollywood</option>
-																	<option value="7">Children</option>
-																	<option value="5">Comedy</option>
-																	<option value="19">Documentary</option>
-																	<option value="6">Drama</option>
-																	<option value="32">Family</option>
-																	<option value="25">Fantasy</option>
-																	<option value="14">Foreign Language</option>
-																	<option value="33">Futuristic</option>
-																	<option value="193">Gay / Lesbian</option>
-																	<option value="20">General Interest</option>
-																	<option value="8">Horror</option>
-																	<option value="21">Living World</option>
-																	<option value="9">Martial Arts</option>
-																	<option value="30">Misc</option>
-																	<option value="22">Music</option>
-																	<option value="24">Mystery</option>
-																	<option value="250">Romantic Comedy</option>
-																	<option value="12">Sci-Fi</option>
-																	<option value="23">Sports</option>
-																	<option value="13">Thriller</option>
-																	<option value="17">TV</option>
-																	<option value="16">War</option>
-																	<option value="15">Western</option>
-															</select>
-						</td>
-					</tr>
-					<tr>
-						<td><a href="http://www.lovefilm.com/all-categories.php?SID=997fd7641e81f756022bc1abd88698d7" title="See all Genres" class="subtitle" style="color:white">see all...</a></td>
-						<td align="right" style="padding-right:3px">
-														<input type="image" name="submitButton" value="Go" src="/images/button_go_brown.gif" width="39" height="19" alt="Go to Genre" border="0" vspace="8" align="center">
+   	<div id="quickpicks">
+    	<dl>
+			<dt>Quick picks</dt>
+			<dd>
+				<ul>
+		        							<li><a href="http://www.lovefilm.com/collection.php?cl_id=161">UK top 50 chart</a></li>
+						<li><a href="http://www.lovefilm.com/new-releases.php">New releases</a></li>
+						<li><a href="http://www.lovefilm.com/static.php?tpl=best-of-tv">Top TV</a></li>
+						<li><a href="http://www.lovefilm.com/coming-soon.php">Coming soon</a></li>
+						<li><a href="http://www.lovefilm.com/editorials.php">Editors choice</a></li>
+						<li><a href="http://www.lovefilm.com/highest-ranked.php">Top rated</a></li>
+						<li><a href="http://www.lovefilm.com/most-popular.php">Most popular</a></li>
+						<li><a href="http://www.lovefilm.com/collection.php?cl_id=59">Indie films</a></li>
 						
-                        </td>
-					</tr>
-				</tbody></table>
-                
-            </form></td>
-			<td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-		</tr>
-		
-	</tbody></table>
-    <a href="/giftpurchase.php"><img src="/images/mother-of-all-gifts.gif" border="0" alt="06 March - The mother of all gifts"></a><br>
-	<!-- end genres table -->
+												<li><a href="/collection.php?cl_id=184">PSP films</a> <span style="font-size:10px;color:#B50C00;">NEW!</span></li>
+																</ul>
+			</dd>
+		</dl>
+	</div>
+	
+        <!-- games table -->
+    <div id="games">
+		<dl>
+			<dt>Games <span style="font-size:10px;color:#B50C00;">NEW!</span></dt>
+			<dd>
+				<ul>
+					<li><a href="/collection.php?cl_id=171">PS2 games</a></li>
+					<li><a href="/collection.php?cl_id=185">PSP games (UMD)</a></li>
+				</ul>
+			</dd>
+		</dl>
+	</div>		
+	
     
-   	<!-- quick picks table -->
-    <table width="132" cellspacing="0" cellpadding="0" border="0" bgcolor="#C2B497">
-        <tbody><tr>
-            <td width="5"><!-- gutter --><img src="images/spacer.gif" width="5" height="1" alt=""></td>
-            <td width="122" style="padding-bottom:15px">
-                <img src="/images/nav_text_quickpicks.gif" width="96" height="12" alt="Quick Picks" vspace="8" align="absmiddle"><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=124&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more UK Top 50 Chart">UK Top 50 Rental Chart</a><span class="subtitlebold" style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New!</span><br>
-				<a href="http://www.lovefilm.com/new-releases.php?SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more New Releases">New Releases</a><br>
-				<a href="http://www.lovefilm.com/coming-soon.php?SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more films that are Coming Soon">Coming Soon</a><br>
-				<a href="http://www.lovefilm.com/editorials.php?SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more films in Editors Choice">Editors Choice</a><br>
-				<a href="http://www.lovefilm.com/highest-ranked.php?SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more Top Rated films">Top Rated</a><br>
-				<a href="http://www.lovefilm.com/most-popular.php?SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more Most Popular films">Most Popular</a><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=59&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more Indie Films">Indie Films</a><br>
-                	        </td>
-            <td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-        </tr>
-    </tbody></table>
-<!-- end quick picks table -->
-	   
-
-    <!-- moods table -->
-    <table width="132" cellspacing="0" cellpadding="0" border="0" bgcolor="#F6E9C1">
-        <tbody><tr>
-            <td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-            <td width="122">
-                <a href="http://www.lovefilm.com/moods.php?SID=997fd7641e81f756022bc1abd88698d7" title="see all moods"><img src="/images/nav_text_moods.gif" width="55" height="13" alt="Moods" vspace="8" align="absmiddle" border="0"></a><br>
-                                    <a href="http://www.lovefilm.com/collection.php?cl_id=94&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Love disaster?"><span style="white-space: nowrap">Love disaster?</span></a><br>
-                                    <a href="http://www.lovefilm.com/collection.php?cl_id=102&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Love cults?"><span style="white-space: nowrap">Love cults?</span></a><br>
-                                    <a href="http://www.lovefilm.com/collection.php?cl_id=57&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Love conspiracy?"><span style="white-space: nowrap">Love conspiracy?</span></a><br>
-                                    <a href="http://www.lovefilm.com/collection.php?cl_id=118&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Love school?"><span style="white-space: nowrap">Love school?</span></a><br>
-                                    <a href="http://www.lovefilm.com/collection.php?cl_id=106&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Love sport?"><span style="white-space: nowrap">Love sport?</span></a><br>
-                                    <a href="http://www.lovefilm.com/collection.php?cl_id=55&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Love to fight?"><span style="white-space: nowrap">Love to fight?</span></a><br>
-                                <br>
-                <a href="http://www.lovefilm.com/moods.php?SID=997fd7641e81f756022bc1abd88698d7" class="subtitle" title="see all moods">see all...</a>
-                <img src="/images/line_black.gif" alt="" width="122" height="1" vspace="5"><br>
-            </td>
-            <td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-        </tr>
-    </tbody></table>
-    <!-- end moods table -->
-    <!-- collections table -->
-    <table width="132" cellspacing="0" cellpadding="0" border="0" bgcolor="#F6E9C1">
-        <tbody><tr>
-            <td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-            <td width="122" style="padding-bottom:8px">
-				<img src="/images/nav_text_collections.gif" width="103" height="13" alt="Collections" vspace="8"><br>
-				<span class="subtitlebold">Members' Choice</span><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=89&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more of Tuula Halls choices">Tuula Hall</a><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=113&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more of Al Reids choices">Al Reid</a><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=64&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more of Stephen Hayes choices">Stephen Hayes</a><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=49&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more of Helen Cowleys choices">Helen Cowley</a><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=50&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more of Max Pughs choices">Max Pugh</a><br><br>
-				<span class="subtitlebold">Top 100 Lists</span><br>
-                <a href="http://www.lovefilm.com/collection.php?cl_id=143&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more of the C4 ultimate 100">C4 ultimate</a><span class="subtitlebold" style="font-size:7pt;">&nbsp;&nbsp;New!</span><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=66&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more of the Time Out Readers collection">TO Readers</a><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=85&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more of the Channel 4 top 100">C4 Top 100</a><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=2&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more of the American Film Insitutes top 100">AFI Top 100</a><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=1&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more of the British Film Institutes top 100">BFI Top 100</a><br>
-				            	<br>
-			</td>
-            <td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-        </tr>
-    </tbody></table>
-    <!-- end collections table -->
-	<!-- cinema table -->
-	 <table width="132" cellspacing="0" cellpadding="0" border="0" bgcolor="#F6E9C1">
-        <tbody><tr>
-            <td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-            <td width="122">
-				<img src="/images/nav_text_incinemas.gif" alt="In Cinemas" width="82" height="14" align="middle" style="margin-bottom:8px;"><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=115&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more films Now Showing in cinemas">Now Showing</a><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=148&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more 2004 cinema film releases">2004 Releases</a><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=88&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more 2003 cinema film releases">2003 Releases</a><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=87&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more 2002 cinema film releases">2002 Releases</a><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=86&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more 2001 cinema film releases">2001 Releases</a><br>
-				<br>
-			</td>
-            <td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-        </tr>
-    </tbody></table>
-    <!-- end cinema table -->
-	<!-- editorials table -->
-    <table width="132" cellspacing="0" cellpadding="0" border="0" bgcolor="#BBA389">
-        <tbody><tr>
-            <td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-            <td width="122">
-				<img src="/images/nav_text_editorials.gif" alt="Editorials" width="82" height="14" vspace="8"><br>
-				by <a href="http://www.lovefilm.com/collection.php?cl_id=108&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="see more of Tom Charitys favourite films">Tom Charity</a><br><br>
-				
-                <a href="http://www.lovefilm.com/static.php?tpl=editorial_willsmith&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Read more about Will Smith">Will Smith </a><br>
-                <a href="http://www.lovefilm.com/static.php?tpl=editorial_shakespeare&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more about Shakespeare in Film">Shakespeare</a><br>
-                <a href="http://www.lovefilm.com/static.php?tpl=editorial_huckabees&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more about I Heart Huckabees">Huckabees</a><br>
-                <a href="http://www.lovefilm.com/static.php?tpl=editorial_spiderman2&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more about Spiderman 2">Spiderman 2</a><br>
-                <a href="http://www.lovefilm.com/static.php?tpl=editorial_theincredibles&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more about The Incredibles">The Incredibles</a><br>
-				<a href="http://www.lovefilm.com/static.php?tpl=editorial_bridgetjones&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="See more about Renée Zellweger">Renée Zellweger</a><br>
-                
-				<br>
-			</td>
-            <td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-        </tr>
-    </tbody></table>
-	<!-- end editorials table -->
-    <!-- festivals table -->
-	<table width="132" cellspacing="0" cellpadding="0" border="0" bgcolor="#80A7D0">
-		<tbody><tr>
-			<td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-			<td width="122">
-				<img src="/images/nav_text_bluefestivals.gif" alt="Festivals" vspace="8" border="0"><br>
-                <a href="http://www.lovefilm.com/static.php?tpl=berlin2005_5&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Berlin Film Festival 2005">Berlin 2005</a>&nbsp;<span class="subtitlebold" style="font-size:7pt;">New!</span><br>
-				<a href="http://www.lovefilm.com/static.php?tpl=editorial_sundance&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Sundance Film Festival 2005">Sundance 2005</a><br>
-				<a href="http://www.lovefilm.com/static.php?tpl=whistler_summary&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="London Film Festival 2004">Whistler 2004</a><br>
-                <a href="http://www.lovefilm.com/static.php?tpl=london_day16&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="London Film Festival 2004">London 2004</a><br>
-				<a href="http://www.lovefilm.com/static.php?tpl=vancouver_summary&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Vancouver International Film Festival 2004">Vancouver 2004</a><br>
-				<a href="http://www.lovefilm.com/static.php?tpl=toronto_day1&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Toronto International Film Festival 2004">Toronto 2004</a><br>
-				<a href="http://www.lovefilm.com/static.php?tpl=venice_summary&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Venice International Film Festival 2004">Venice 2004</a><br>
-				<a href="http://www.lovefilm.com/eiff180804.php?SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Edinburgh International Film Festival 2004">Edinburgh 2004</a><br>
-				<a href="http://www.lovefilm.com/awardscannes230504.php?SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Cannes Diary">Cannes Diary 2004</a><br>
-				<a href="http://www.lovefilm.com/awardscanneswinners.php?SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Palme d'Or Winners">Palme d'Or Winners</a><br>
-				<a href="http://www.lovefilm.com/collection.php?cl_id=109&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Cannes Collection">Cannes Collection</a><br>
-				<a href="http://www.lovefilm.com/awardsoscars0470.php?SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Oscar Winners">Oscar Winners</a><br>
-				<img src="/images/spacer.gif" width="5" height="5" alt=""><br><br>
-			</td>
-			<td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-		</tr>
-	</tbody></table>
-    <!-- end festivals table -->
-	<table cellpadding="0" cellspacing="0" border="0" width="132">
-		<tbody><tr>
-			<td>
-		   		<a href="/static.php?tpl=editorial_metropolitanfilmschool"><img src="/images/graphic_rightnav_met.gif" width="132" height="150" border="0" alt="Metropolitan Film School"></a>
-			</td>
-		</tr>
-	</tbody></table>
-    <br><br>
-
-
-            </td>
-            <td><img src="/images/spacer.gif" width="18" height="1"></td>
-            <td width="630" valign="top"><!-- main body -->
+    <div id="moods">
+        <dl>
+            <dt><a href="/moods.php" title="See more moods">Moods</a></dt>
+            <dd>
+                <ul>
+                                            <li><a href="http://www.lovefilm.com/collection.php?cl_id=97">Love your girlfr'nds</a></li>
+                                            <li><a href="http://www.lovefilm.com/collection.php?cl_id=70">Love road movies?</a></li>
+                                            <li><a href="http://www.lovefilm.com/collection.php?cl_id=117">Close encounters?</a></li>
+                                            <li><a href="http://www.lovefilm.com/collection.php?cl_id=69">Love a thief?</a></li>
+                                            <li><a href="http://www.lovefilm.com/collection.php?cl_id=106">Love sport?</a></li>
+                                            <li><a href="http://www.lovefilm.com/collection.php?cl_id=101">Love the desert?</a></li>
+                                    </ul>
+            </dd>
+        </dl>
+        <p class="more"><a href="/moods.php" title="See more moods">more</a></p>
+   </div>
+    
+    <div id="tophundred">
+        <dl>
+            <dt>Top 100 lists</dt>
+            <dd>
+                <ul>
+                    <li><a href="http://www.lovefilm.com/collection.php?cl_id=143">C4 ultimate</a></li>
+                    <li><a href="http://www.lovefilm.com/collection.php?cl_id=66">TO readers</a></li>
+                    <li><a href="http://www.lovefilm.com/collection.php?cl_id=85">C4 top 100</a></li>
+                    <li><a href="http://www.lovefilm.com/collection.php?cl_id=2">AFI top 100</a></li>
+                    <li><a href="http://www.lovefilm.com/collection.php?cl_id=1">BFI top 100</a></li>
+                                    </ul>
+            </dd>
+        </dl>
+    </div>
+    
+    <div id="cinemas">
+        <dl>
+            <dt>In cinemas</dt>
+            <dd>
+                <ul>
+                    <li><a href="http://www.lovefilm.com/collection.php?cl_id=115">Now showing</a></li>
+					<li><a href="http://www.lovefilm.com/collection.php?cl_id=181">UK Box office</a></li>
+					<li><a href="http://www.lovefilm.com/collection.php?cl_id=180">US Box office</a></li>
+                    <li><a href="http://www.lovefilm.com/collection.php?cl_id=148">2004 releases</a></li>
+                    <li><a href="http://www.lovefilm.com/collection.php?cl_id=88">2003 releases</a></li>
+                    <li><a href="http://www.lovefilm.com/collection.php?cl_id=87">2002 releases</a></li>
+                    <li><a href="http://www.lovefilm.com/collection.php?cl_id=86">2001 releases</a></li>
+                </ul>
+            </dd>
+        </dl>
+    </div>
+    
+    <div id="editorials">
+        <dl>
+            <dt>Film Extras</dt>
+            <dd>
+                <ul>
+                    <li><a href="http://www.lovefilm.com/collection.php?cl_id=187">Short films</a></li>
+                    <li><a href="http://www.lovefilm.com/newsletters.php">Newsletters</a></li>
+                    <li><a href="http://www.lovefilm.com/static.php?tpl=film-quizzes">Quizzes</a></li>
+                    <li><a href="http://www.lovefilm.com/static.php?tpl=interviews">Interviews</a></li>
+                    <li><a href="http://www.lovefilm.com/static.php?tpl=film-festivals">Film festivals</a></li>
+                    <li><a href="http://www.lovefilm.com/collection.php?cl_id=188">Film trailers</a></li>
+                    <li><a href="http://www.lovefilm.com/static.php?tpl=award-ceremonies">Awards ceremonies</a></li>
+                </ul>
+            </dd>
+        </dl>
+    </div>
+    
+              <a href="/static.php?tpl=editorial_metropolitanfilmschool" title="Metropolitan Film School"><img src="/images/graphic_rightnav_met.gif" width="132" height="150" border="0" alt="Metropolitan Film School"></a>
             
-    
-<table width="152" border="0" align="right" cellspacing="0" cellpadding="0">
+</div>
+						            </td>
+						            <td><img src="/images/spacer.gif" width="18" height="1" alt=""></td>
+						            <td width="630" valign="top">
+						        						    
+						    	<table width="152" border="0" align="right" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td width="20"><!-- gutter --><img src="/images/spacer.gif" width="20" height="1" alt=""></td>
-		<td width="132">	
-	                    <table width="132" cellspacing="0" cellpadding="0" border="0" bgcolor="#9A81B8"><!-- promo code table -->
-            <form action="https://www.lovefilm.com/signup1.php?SID=997fd7641e81f756022bc1abd88698d7" method="GET"></form>
-                <tbody><tr>
-					<td width="5" rowspan="2"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-					<td width="122">
-                        <img src="/images/nav_text_promocode.gif" width="100" height="11" alt="Promo Code" vspace="8"><br>
-					    Have a promotion or gift code?<br><br>
+		<td width="132">
+		
+			<div id="onav">
+				
+			                    <script language="JavaScript" type="text/javascript">
+                <!--
+                M3_writeAd('Lovefilm.com - Button - 132x120');
+                //-->
+                </script>
+                <noscript>
+                <a target='_blank' href='http://d.m3.net/ck.php?n=ac74592'><img border='0' alt='' src='http://d.m3.net/avw.php?zoneid=171&n=ac74592' /></a>
+                </noscript>
+                				
+				<!---->
+				
+						
+				
+				<!--
+				 
+				-->
 
-                                                
-                        Code
-
-                        <input name="tp_code" type="text" class="avg" size="9" value=""><br>
-					</td>
-					<td width="5" rowspan="2"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-				</tr>
-                <tr>
-					<td width="122" align="right"><input type="image" src="/images/button_go_purple.gif" width="39" height="19" alt="Go Promo Code" border="0" vspace="8"></td>
-				</tr>
-            
-            </tbody></table>
-            <!-- end  promo code table -->
-                
-        
-	    <!-- (Cross) Category A-Z Links -->
-	    <table border="0" bgcolor="#958A74" width="132" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="5"><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-        <td width="122" align="left">
-        <img src="/images/nav_text_byletter.gif" alt="view titles by alphabetical listing" vspace="8"><br>
-        <table cellpadding="0" cellspacing="0" width="115">
-              <tbody><tr>
-                <td>
-                                      <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=0-9&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">0-9</a>
-                
-                                                              <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=A&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">A</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=B&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">B</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=C&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">C</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=D&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">D</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=E&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">E</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=F&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">F</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=G&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">G</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=H&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">H</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=I&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">I</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=J&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">J</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=K&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">K</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=L&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">L</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=M&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">M</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=N&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">N</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=O&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">O</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=P&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">P</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=Q&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">Q</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=R&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">R</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=S&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">S</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=T&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">T</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=U&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">U</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=V&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">V</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=W&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">W</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=X&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">X</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=Y&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">Y</a>
-                                                                                    <a href="http://www.lovefilm.com/a-z.php?SID=997fd7641e81f756022bc1abd88698d7?az=Z&amp;ca_id=&amp;rangestart=&amp;rangeend=" class="a2z">Z</a>
-                                                      </td>
-              </tr>
-        </tbody></table>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" height="10">&nbsp;</td>
-      </tr>
+			   	<table cellpadding="0" cellspacing="0" width="132">
+	<tbody><tr>
+		<td>
+			<div id="atoz">
+				<h2>By letter</h2>
+				<div>
+									<a href="http://www.lovefilm.com/a-z.php?az=0-9&amp;ca_id=&amp;rangestart=&amp;rangeend=">0-9</a>
+								
+															<a href="http://www.lovefilm.com/a-z.php?az=A&amp;ca_id=&amp;rangestart=&amp;rangeend=">A</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=B&amp;ca_id=&amp;rangestart=&amp;rangeend=">B</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=C&amp;ca_id=&amp;rangestart=&amp;rangeend=">C</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=D&amp;ca_id=&amp;rangestart=&amp;rangeend=">D</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=E&amp;ca_id=&amp;rangestart=&amp;rangeend=">E</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=F&amp;ca_id=&amp;rangestart=&amp;rangeend=">F</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=G&amp;ca_id=&amp;rangestart=&amp;rangeend=">G</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=H&amp;ca_id=&amp;rangestart=&amp;rangeend=">H</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=I&amp;ca_id=&amp;rangestart=&amp;rangeend=">I</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=J&amp;ca_id=&amp;rangestart=&amp;rangeend=">J</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=K&amp;ca_id=&amp;rangestart=&amp;rangeend=">K</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=L&amp;ca_id=&amp;rangestart=&amp;rangeend=">L</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=M&amp;ca_id=&amp;rangestart=&amp;rangeend=">M</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=N&amp;ca_id=&amp;rangestart=&amp;rangeend=">N</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=O&amp;ca_id=&amp;rangestart=&amp;rangeend=">O</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=P&amp;ca_id=&amp;rangestart=&amp;rangeend=">P</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=Q&amp;ca_id=&amp;rangestart=&amp;rangeend=">Q</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=R&amp;ca_id=&amp;rangestart=&amp;rangeend=">R</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=S&amp;ca_id=&amp;rangestart=&amp;rangeend=">S</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=T&amp;ca_id=&amp;rangestart=&amp;rangeend=">T</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=U&amp;ca_id=&amp;rangestart=&amp;rangeend=">U</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=V&amp;ca_id=&amp;rangestart=&amp;rangeend=">V</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=W&amp;ca_id=&amp;rangestart=&amp;rangeend=">W</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=X&amp;ca_id=&amp;rangestart=&amp;rangeend=">X</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=Y&amp;ca_id=&amp;rangestart=&amp;rangeend=">Y</a>
+																				<a href="http://www.lovefilm.com/a-z.php?az=Z&amp;ca_id=&amp;rangestart=&amp;rangeend=">Z</a>
+													</div>
+			</div>
+		</td>
+	</tr>
 </tbody></table>
-
-
-    	<!-- (Cross) Category Decade viewing -->
-	    <table border="0" bgcolor="#C2B497" width="132" cellspacing="0" cellpadding="0">
+       
+			
+			    <table border="0" width="132" cellspacing="0" cellpadding="0">
     <tbody><tr>
-        <td width="5"><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-        <td width="122">
-            <img src="/images/nav_text_bydecade.gif" alt="view titles by decade" vspace="8"><br>
-            <table cellpadding="0" cellspacing="0" width="122" border="0">
-                <tbody><tr>
-                    <td>
-                        <a href="http://www.lovefilm.com/decades.php?SID=997fd7641e81f756022bc1abd88698d7?ca_id=&amp;rangestart=2000&amp;rangeend=2009" class="decade">2000s</a>
-                                                <a href="http://www.lovefilm.com/decades.php?SID=997fd7641e81f756022bc1abd88698d7?ca_id=&amp;rangestart=1990&amp;rangeend=1999" class="decade">1990s</a>
-                        <a href="http://www.lovefilm.com/decades.php?SID=997fd7641e81f756022bc1abd88698d7?ca_id=&amp;rangestart=1980&amp;rangeend=1989" class="decade">1980s</a>
-                                                <a href="http://www.lovefilm.com/decades.php?SID=997fd7641e81f756022bc1abd88698d7?ca_id=&amp;rangestart=1970&amp;rangeend=1979" class="decade">1970s</a>
-                        <a href="http://www.lovefilm.com/decades.php?SID=997fd7641e81f756022bc1abd88698d7?ca_id=&amp;rangestart=1960&amp;rangeend=1969" class="decade">1960s</a>
-                                                <a href="http://www.lovefilm.com/decades.php?SID=997fd7641e81f756022bc1abd88698d7?ca_id=&amp;rangestart=1950&amp;rangeend=1959" class="decade">1950s</a>
-                        <a href="http://www.lovefilm.com/decades.php?SID=997fd7641e81f756022bc1abd88698d7?ca_id=&amp;rangestart=1940&amp;rangeend=1949" class="decade">1940s</a>
-                                                <a href="http://www.lovefilm.com/decades.php?SID=997fd7641e81f756022bc1abd88698d7?ca_id=&amp;rangestart=1930&amp;rangeend=1939" class="decade">1930s</a>
-                        <a href="http://www.lovefilm.com/decades.php?SID=997fd7641e81f756022bc1abd88698d7?ca_id=&amp;rangestart=1920&amp;rangeend=1929" class="decade">1920s</a>
-                                            </td>
-                </tr>
-            </tbody></table>
+        <td width="132">
+	       	<div id="decade">
+				<h2>By decade</h2>
+				<div>
+				<a href="http://www.lovefilm.com/decades.php?ca_id=&amp;rangestart=2000&amp;rangeend=2009">2000s</a>
+									<a href="http://www.lovefilm.com/decades.php?ca_id=&amp;rangestart=1990&amp;rangeend=1999">1990s</a>
+					<a href="http://www.lovefilm.com/decades.php?ca_id=&amp;rangestart=1980&amp;rangeend=1989">1980s</a>
+									<a href="http://www.lovefilm.com/decades.php?ca_id=&amp;rangestart=1970&amp;rangeend=1979">1970s</a>
+					<a href="http://www.lovefilm.com/decades.php?ca_id=&amp;rangestart=1960&amp;rangeend=1969">1960s</a>
+									<a href="http://www.lovefilm.com/decades.php?ca_id=&amp;rangestart=1950&amp;rangeend=1959">1950s</a>
+					<a href="http://www.lovefilm.com/decades.php?ca_id=&amp;rangestart=1940&amp;rangeend=1949">1940s</a>
+									<a href="http://www.lovefilm.com/decades.php?ca_id=&amp;rangestart=1930&amp;rangeend=1939">1930s</a>
+					<a href="http://www.lovefilm.com/decades.php?ca_id=&amp;rangestart=1920&amp;rangeend=1929">1920s</a>
+								</div>
+			</div>
         </td>
-    </tr>
-    <tr>
-        <td colspan="2" height="10"></td>
     </tr>
 </tbody></table>
 
-
-                    <!-- new releases table -->
-			<table width="132" cellspacing="0" cellpadding="0" border="0" bgcolor="#F6E9C1">
-				<tbody><tr>
-					<td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-					<td width="122"><a href="http://www.lovefilm.com/new-releases.php?SID=997fd7641e81f756022bc1abd88698d7" title="More new releases"><img src="/images/nav_text_newreleases.gif" width="114" height="12" alt="New releases" vspace="8" border="0"></a><br>
-
-			            					        <a href="http://www.lovefilm.com/view_dvd.php?dt_id=26729&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Old Boy (Disc 1)">Old Boy (Disc 1)</a><br>
-			            					        <a href="http://www.lovefilm.com/view_dvd.php?dt_id=27130&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Man On Fire">Man On Fire</a><br>
-			            					        <a href="http://www.lovefilm.com/view_dvd.php?dt_id=25007&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="The Motorcycle Diaries ">The Motorcycle...</a><br>
-			            					        <a href="http://www.lovefilm.com/view_dvd.php?dt_id=23813&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Zatoichi  (Disc 1)">Zatoichi  (Disc...</a><br>
-			            					        <a href="http://www.lovefilm.com/view_dvd.php?dt_id=26750&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Bambi (Disc 1)">Bambi (Disc 1)</a><br>
-			             
-                        
-					<img src="/images/spacer.gif" width="1" height="10" alt=""><br>
-					<div align="right"><a href="http://www.lovefilm.com/new-releases.php?SID=997fd7641e81f756022bc1abd88698d7" class="subtitle" title="More new releases">and more...</a></div><br>
-
-					<img src="/images/line_black.gif" alt="" width="122" height="1" vspace="5"><br>
-					</td>
-					<td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-				</tr>
-			</tbody></table>
-            <!-- end new releases table -->
-        
-			<table width="132" cellspacing="0" cellpadding="0" border="0" bgcolor="#F6E9C1"><!-- You Love table -->
-				<tbody><tr>
-					<td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-					<td width="122"><img src="/images/nav_text_youlove.gif" width="84" height="12" alt="You Love..." vspace="8"><br>
-										<a href="http://www.lovefilm.com/highest-ranked.php?SID=997fd7641e81f756022bc1abd88698d7" title="More highest ranked  films" class="subtitlebold" style="text-decoration: none">Highest ranked</a><br><img src="/images/spacer.gif" width="1" height="10" alt=""><br>
-											<a href="http://www.lovefilm.com/view_dvd.php?dt_id=22571&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="The Shawshank Redemption  (10th Anniversary Edition) (Disc 1)">The Shawshank R...</a><br>
-											<a href="http://www.lovefilm.com/view_dvd.php?dt_id=2014&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Pulp Fiction (Disc 1)">Pulp Fiction (D...</a><br>
-											<a href="http://www.lovefilm.com/view_dvd.php?dt_id=17658&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Schindler's List">Schindler's List</a><br>
-											<a href="http://www.lovefilm.com/view_dvd.php?dt_id=1009&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="The Usual Suspects ">The Usual Suspe...</a><br>
-											<a href="http://www.lovefilm.com/view_dvd.php?dt_id=19577&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="The Lord Of The Rings  - The Return Of The King">The Lord Of The...</a><br>
-										<img src="/images/spacer.gif" width="1" height="10" alt=""><br>
-					<div align="right"><a href="http://www.lovefilm.com/highest-ranked.php?SID=997fd7641e81f756022bc1abd88698d7" class="subtitle" title="More highest ranked films">and more...</a></div><br>
-										<img src="/images/spacer.gif" width="1" height="5" alt="">
-
-
-					<br>
-
-																		<a href="http://www.lovefilm.com/most-popular.php?mc_caid=0&amp;SID=997fd7641e81f756022bc1abd88698d7" title="More popular films" class="subtitlebold" style="text-decoration: none">Most popular</a><br><img src="/images/spacer.gif" width="1" height="10" alt=""><br>
-															<a href="http://www.lovefilm.com/view_dvd.php?dt_id=27101&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Bourne Supremacy, The">The Bourne Supr...</a><br>
-															<a href="http://www.lovefilm.com/view_dvd.php?dt_id=27248&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Terminal, The (Disc 1)">The Terminal  (...</a><br>
-															<a href="http://www.lovefilm.com/view_dvd.php?dt_id=28032&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Shark Tale">Shark Tale</a><br>
-															<a href="http://www.lovefilm.com/view_dvd.php?dt_id=26194&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Collateral">Collateral</a><br>
-															<a href="http://www.lovefilm.com/view_dvd.php?dt_id=27695&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Wimbledon">Wimbledon</a><br>
+						
+		        					<div id="newreleases">
+						<dl><dt><a href="/new-releases.php" title="See more new releases">New releases</a></dt>
+							<dd>
+								<ul>
+																			<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=35374">West Wing - Sea...</a></li>
+																			<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=35894">Crime Scene Inv...</a></li>
+																			<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=47869">Lost - Series 1...</a></li>
+																			<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=34657">The Simpsons  -...</a></li>
+																			<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=35793">Shameless - Ser...</a></li>
+																	</ul>
+							</dd>
+						</dl>
+						<p class="more"><a href="/new-releases.php" title="See more new releases">more</a></p>
+					</div>
+						
+									<div id="ranked">
+						<dl><dt><a href="/highest-ranked.php" title="See more highest ranked">Highest ranked</a></dt>
+							<dd>
+								<ul>
+																			<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=48394">Batman Begins</a></li>
+																			<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=49217">Charlie And The...</a></li>
+																			<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=32359">Alexander (Dire...</a></li>
+																			<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=32523">Constantine</a></li>
+																			<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=31028">Million Dollar...</a></li>
+																	</ul>
+							</dd>
+						</dl>
+						<p class="more"><a href="/highest-ranked.php" title="See more highest ranked">more</a></p>
+					</div>		
 							
-							<img src="/images/spacer.gif" width="1" height="10" alt=""><br>
-							<div align="right"><a href="http://www.lovefilm.com/most-popular.php?mc_caid=0&amp;SID=997fd7641e81f756022bc1abd88698d7" class="subtitle" title="More popular films">and more...</a></div><br>
-												<img src="/images/line_black.gif" alt="" width="122" height="1" vspace="5"><br>
-					
-
-					</td>
-					<td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-				</tr>
-			</tbody></table><!-- end You Love table -->
-
-        			<table width="132" cellspacing="0" cellpadding="0" border="0" bgcolor="#F6E9C1"><!-- We Love table -->
-				<tbody><tr>
-					<td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-					<td width="122">
-                        <img src="/images/nav_text_welove.gif" width="78" height="12" alt="We Love..." vspace="8"><br>
-    					<font class="subtitlebold"><a href="http://www.lovefilm.com/editorials.php?SID=997fd7641e81f756022bc1abd88698d7" class="subtitlebold">Editors' Choice</a></font><br><img src="/images/spacer.gif" width="1" height="10" alt=""><br>
-                        
-                                                    <a href="http://www.lovefilm.com/view_dvd.php?dt_id=1811&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="A Nightmare on Elm Street ">A Nightmare on...</a><br>
-                                                    <a href="http://www.lovefilm.com/view_dvd.php?dt_id=1359&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Angel Heart">Angel Heart</a><br>
-                                                    <a href="http://www.lovefilm.com/view_dvd.php?dt_id=1918&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Beautiful Girls">Beautiful Girls</a><br>
-                                                    <a href="http://www.lovefilm.com/view_dvd.php?dt_id=13311&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Repulsion">Repulsion</a><br>
-                                                    <a href="http://www.lovefilm.com/view_dvd.php?dt_id=1358&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Three Colours Blue (Trilogy Disc 1)">Three Colours B...</a><br>
-                                                <img src="/images/spacer.gif" width="1" height="10" alt=""><br>
-                        <div align="right"><a href="http://www.lovefilm.com/editorials.php?SID=997fd7641e81f756022bc1abd88698d7" class="subtitle" title="More Editor's Choice">and more...</a></div>
-                        
-                        <img src="/images/spacer.gif" width="1" height="15" alt=""><br>
-    
-                                                    <br>
-                            <a href="http://www.lovefilm.com/topdirectors.php?SID=997fd7641e81f756022bc1abd88698d7" title="More Top Directors" class="subtitlebold" style="text-decoration: none">Top Directors</a><br><img src="/images/spacer.gif" width="1" height="10" alt=""><br>
-                                                            <a href="http://www.lovefilm.com/director.php?dr_id=215&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Bernardo Bertolucci">Bernardo Bertolucci</a><br>
-                                                            <a href="http://www.lovefilm.com/director.php?dr_id=570&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Francis Ford Coppola">Francis Ford Coppola</a><br>
-                                                            <a href="http://www.lovefilm.com/director.php?dr_id=2284&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Jean Renoir">Jean Renoir</a><br>
-                                                            <a href="http://www.lovefilm.com/director.php?dr_id=2200&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Michael Powell">Michael Powell</a><br>
-                                                            <a href="http://www.lovefilm.com/director.php?dr_id=4687&amp;SID=997fd7641e81f756022bc1abd88698d7" class="avg" title="Quentin Tarantino">Quentin Tarantino</a><br>
-                                                        <img src="/images/spacer.gif" width="1" height="10" alt=""><br>
-                            <div align="right"><a href="http://www.lovefilm.com/topdirectors.php?SID=997fd7641e81f756022bc1abd88698d7" class="subtitle" title="More Top Directors">and more...</a></div>
-                            <br><img src="/images/spacer.gif" width="1" height="5" alt=""><br>
-                        					</td>
-                    
-					<td width="5"><!-- gutter --><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-				</tr>
-			</tbody></table>
-            <!-- end We Love table -->
-        			
+															<div id="popular">
+							<dl><dt><a href="/most-popular.php?mc_caid=0" title="See more most popular">Most popular</a></dt>
+								<dd>
+									<ul>
+																					<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=48394">Batman Begins</a></li>
+																					<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=49217">Charlie And The...</a></li>
+																					<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=32359">Alexander (Dire...</a></li>
+																					<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=32523">Constantine</a></li>
+																					<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=31028">Million Dollar...</a></li>
+																			</ul>
+								</dd>
+							</dl>
+							<p class="more"><a href="/most-popular.php?mc_caid=0" title="See more most popular">more</a></p>
+						</div>
+											
+									<div id="editors">
+						<dl><dt>Editors choice</dt>
+							<dd>
+								<ul>
+								    								    	<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=987">Thelma &amp; Louise</a></li>
+								    								    	<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=5964">Spike Lee - Do...</a></li>
+								    								    	<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=7967">The Wolves </a></li>
+								    								    	<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=6881">Nothing Sacred</a></li>
+								    								    	<li><a href="http://www.lovefilm.com/view_dvd.php?dt_id=928">Mississippi Bur...</a></li>
+								    								</ul>
+							</dd>
+						</dl>
+					</div>
+								
+											<div id="directors">            
+					    	<dl><dt><a href="/topdirectors.php" title="See more top directors">Top Directors</a></dt>
+								<dd>
+									<ul>
+															        				<li><a href="http://www.lovefilm.com/director.php?dr_id=809">Sergei Eisenstein</a></li>
+					       									        				<li><a href="http://www.lovefilm.com/director.php?dr_id=4687">Quentin Tarantino</a></li>
+					       									        				<li><a href="http://www.lovefilm.com/director.php?dr_id=215">Bernardo Bertolucci</a></li>
+					       									        				<li><a href="http://www.lovefilm.com/director.php?dr_id=523">Joel Coen</a></li>
+					       									        				<li><a href="http://www.lovefilm.com/director.php?dr_id=2587">Steven Spielberg</a></li>
+					       													</ul>
+								</dd>
+							</dl>
+							<p class="more"><a href="/topdirectors.php" title="See more top directors">more</a></p>
+						</div>
+												
+			</div>
         </td>
     </tr>
 </tbody></table>
+    						    	<a name="startcontent" id="startcontent"></a>
+<table width="474" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td>
+			<div id="content">
+				<h1>LOVEFiLM Privacy Policy</h1>
+				<style>
+p{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+}
 
-<br>
+h2{
+font-family: Arial, Helvetica, sans-serif;
+font-size:16px;
 
-	    <table border="0" bgcolor="black" width="474" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-            <td class="titlebar" valign="center">&nbsp;Privacy &amp; Security Policy</td>
-            <td valign="top"></td>
-        </tr>
-    </tbody></table>
-	<br><br>
-	<table border="0" cellpadding="0" cellspacing="0" width="474"> 
+}
+
+#priv ol li{
+font-weight:bold;
+}
+#priv ol li ul{
+margin:0;
+padding:0;
+list-style:none;
+}
+#priv ol ol{
+margin:0 0 0 20px;
+padding:0;
+}
+#priv ol li ol li{
+font-weight:normal;
+}
+#priv li{
+padding:5px 0;
+}
+li{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+</style>
+
+	<table border="0" cellpadding="0" cellspacing="0" width="360"> 
 		<tbody><tr>
 			<td>
-			<div class="medium">Summary</div>
-			
-            <p>We pride ourselves in being respectful of your privacy and treat your data with the same level of care 
-            and security that we would ourselves expect as customers of other businesses. We consider it central to 
-            how we conduct our business and treat our customers. </p>
-            
-            <p>We hate spam e-mail as much as you do, and will never pass on your contact information to third parties 
-            without your consent. The only exception to this policy applies when we need to furnish others with essential 
-            information to provide the LOVEFiLM service (e.g. for postal delivery, account payment, etc). </p>
-             
-			<div class="medium">The Details</div><br>
-			
-            <p>LOVEFiLM complies with current Data Protection legislation. </p>
-            <p>LOVEFiLM (formerly known as DVDsOnTap.com) is owned and operated by Online Rentals Limited.</p>
-            <p>The information you supply to us is used in the following ways:</p>
-            
-            <div class="copysmallredbold">Subscription Service</div>
-                <p>Personal information such as your name and address, which you provide during the registration process, 
-                is used to: 
-                    </p><ul type="disk">
-                        <li>Provide you with the core DVD rental service including sending you DVDs, communicating with you 
-                        regarding your account and other areas related to our service</li>
-                        <li>Tell you about changes to our service</li>
-                        <li>Suggest DVDs that you may like to rent</li>
-                        <li>We may also include within our communications (for instance, within an email we would normally 
-                        send you as part of our service, or as an insert in the envelope used for posting DVDs), information 
-                        from companies that provide products or services that you may find useful</li>
-                    </ul>
-                When you visit the site, we may collect information related to your use of the site such as the DVDs you view 
-                and rent, your ratings and reviews of DVDs, and areas of the site you may visit. We use this information to: 
-                    <ul type="disk">
-                        <li>Send you your DVD selections</li>
-                        <li>Recommend additional DVDs that you might want to rent</li>
-                        <li>Improve the usability of our site</li>
-                    </ul>
-                <p></p>
-            
-            <div class="copysmallredbold">Payment Information</div>
-            <p>Your credit /debit card details are encrypted on a secure server and are used by us to process the payment for your 
-            regular monthly subscription. </p>
-                
-			<div class="copysmallredbold">Use by Third Parties</div>
-            <p>Your details are used by us only and are not disclosed to any third party, except where we are required by law to do 
-            so, or where such disclosure is necessary to provide you with our service (e.g. for postal delivery, account payment, 
-            or to a supplier of technology). Other than for the reasons described above, we will never pass on your personal 
-            information to a third party without your consent. </p>
-            
-			<div class="copysmallredbold">Aggregate Information </div>
-            <p>We may provide aggregate statistical information (e.g. number of customers in each post code, most popular DVD titles 
-            rented, etc) to suppliers or other partners in order to improve our service and business. Such information does not 
-            include data that may identify you. </p>
-            
-			<div class="copysmallredbold">Security </div>
-            <p>LOVEFiLM uses Secure Sockets Layer (SSL) technology to encrypt your details as they are being transmitted to us.  
-            This keeps your card and personal details private.</p>
-            
-            <p>We let you store your card details with us, so that you can continue your subscription without needing to type your 
-            details in.  We only ever show you the last four digits of your card number on our public Internet site and of course, 
-            this information is 'for your eyes only'.</p>
-            
-            <p>Your payment details are held in a secure server which is not accessible from the Internet.</p>
-            
-			<div class="copysmallredbold">Access to Data </div>
-            <p>You have certain rights under the Data Protection Acts 1984 and 1988. You have the right to be told what personal information 
-            we hold about you on our database. If you wish to use that right, you should write to us at:<br>
-            
-			 Online Rentals Limited <br>
-			
-			PO BOX 7021 <br>
-			HARLOW <br>
-			CM19 5WR<br>
-			</p>
-            
-            <div class="copysmallredbold">Cookies</div>
-            <p>A cookie is a small file that we place on your machine to allow us to remember you and your details.</p>
-            <p>Cookies make the website easier to use, and it is only your browser that we recognise and not you personally. 
-            In order to protect your privacy, we suggest you log out when you have finished browsing the site - this is 
-            particularly important when you are using a shared computer in a public location (e.g. a library, web cafe or 
-            other location).</p>
-            <p>If you wish, you can adjust your browser so that your computer does not accept cookies. If you do this, you 
-            will still be able to view the homepage.  You will not be able to use registration with LOVEFiLM or use certain 
-            facilities like 'remember me' where cookies are used.</p>
-            
-            <div class="copysmallredbold">Email marketing and opting out of emails</div>
-            <p>By becoming a subscriber of LOVEFiLM and providing us with your email address you consent to receive emails from us 
-            regarding your account.  We also send out regular newsletters, offers and updates.   If you do not wish to receive marketing 
-            emails from us we recommend that you visit <a href="/accountemailprefs.php">Your Account &gt; General Preferences</a>, where you 
-            can tailor the information you receive from us.</p>
+				<p><strong>Summary</strong></p>
+				<p>We respect your privacy.  This policy sets out what personal information we gather about you when you visit our 
+				website, how we may use that information and with whom we may share it.</p>
+				 
+				<p><strong>What we collect</strong></p>
+				<p>General information:  LOVEFiLM is owned and operated by Online Rentals Limited.  When you visit the LOVEFiLM website, 
+				we automatically retrieve general information related to your use of the site, including the DVDs you view and rent, your 
+				ratings and reviews of DVDs, areas of the site you may visit, your IP address, and the domain name and browser that you are 
+				accessing the internet from.  None of this information personally identifies you to us or to any other party.</p>  
+				
+				<p>Personal information:  if you wish to join LOVEFiLM and use our service, you need to provide us with personal information, 
+				including your name, email address, physical address, and credit card details.</p>  
+				
+				<p>How we use the information</p>
+				<p>The information you supply to us is used in the following ways:</p>
+				<p>We use personal information to:</p>
+				<ul>
+					<li>Provide you with the core DVD rental service including sending you DVDs, communicating with you regarding your account and other areas related to our service.</li>
+					<li>Tell you about changes to our service.</li>
+					<li>Suggest DVDs that you may like to rent.</li>
+					<li>We may also include within our communications (for instance, within an email we would normally send you as part of our service, or as an insert in the envelope used for posting discs), information from companies that provide products or services that you may find useful.  If you indicate, by marking the "opt-in" box when you provide us with your financial details, you confirm your preference to receive promotional information from such companies.  Even if you "opt-in", we will not sell or disclose your personal information to a third party without your consent.</li>
+				</ul>
+				<p>Your personal information is used by us only.  We will not sell or disclose your personal information to any third party 
+				without your permission, except where we are required or permitted by law to do so.  You agree that we may disclose your personal 
+				information to relevant authorities, parties and or applicable intellectual property rights holders (or their representatives) 
+				if we have reasonable grounds to believe that you have breached our Terms and Conditions, or to anyone to whom we transfer or 
+				may transfer our rights and obligations under this agreement.</p> 
+				  
+				<p>We use general information collected to:</p>
+				<ul>
+					<li>Send you your DVD selections</li>
+					<li>Recommend additional DVDs that you might want to rent</li>
+					<li>Improve the usability of our site</li>
+				</ul> 
+				
+				<p>We may provide aggregate statistical information (e.g. number of customers in each post code, most popular DVD titles 
+				rented, etc) to suppliers or other partners in order to improve our service and business. Such information will never include 
+				data that may identify you personally.</p>
+				
+				<p><strong>Storage and Security</strong></p>
+				<p>LOVEFiLM uses Secure Sockets Layer (SSL) technology to encrypt your details as they are being transmitted to us. This 
+				keeps your card and personal details private.</p>
+				
+				<p>We make every effort to ensure that your personal information is stored securely.  However, no data transmission over the 
+				Internet can be guaranteed to be 100% secure.  Consequently, any information that you send to us over the internet is sent at 
+				your own risk.  Similarly, you are responsible for keeping your login password private and secure.  You should contact us 
+				immediately if you believe there has been any unauthorised use of your account or your login password has become known to 
+				someone else.</p>  
+				
+				<p>We let you store your card details with us, so that you can continue your subscription without needing to re-type your 
+				details in. We only ever show you the last four digits of your card number on our public Internet site and of course, this 
+				information is 'for your eyes only'.</p>
+				
+				<p>Your payment details are held in a secure server in the UK that is not accessible from the Internet.</p>
+				 
+				<p>We will retain your personal information for a period after the cancellation of your membership with LOVEFiLM.  
+				This is required for accounting and taxation purposes.  We will hold your information only for as long as we are required 
+				to retain that information.</p> 
+				
+				<p><strong>Payment Information</strong></p>
+				<p>Your credit /debit card details are encrypted on a secure server and are used by us to process the payment for your 
+				regular monthly subscription.</p> 
+				
+				<p><strong>Access to Data</strong></p>
+				<p>You have certain rights under the Data Protection Act 1998.  You have the right to be told what personal information we 
+				hold about you on our database. If you wish to use that right, you should write to us at:</p>
+				<p>Customer Services<br>
+				Online Rentals Limited<br>
+				PO BOX 7021<br> 
+				HARLOW<br> 
+				CM19 5WR</p>
+				
+				<p><strong>Cookies</strong></p>
+				<p>A cookie is a small file that we place on your machine to allow us to remember you and your details.</p>
+				
+				<p>Cookies make the website easier to use, and it is only your browser that we recognise and not you personally. 
+				In order to protect your privacy, we suggest you log out when you have finished browsing the site - this is particularly 
+				important when you are using a shared computer in a public location (e.g. a library, web cafe or other location).</p>
+				
+				<p>If you wish, you can adjust your browser so that your computer does not accept cookies. If you do this, you will still 
+				be able to view the homepage. You will not be able to use registration with LOVEFiLM or use certain facilities like 'remember me' 
+				where cookies are used.  To find out how to enable/disable cookies, please click <a href="http://www.allaboutcookies.org/manage-cookies">here</a>.</p>
+				
+				<p><strong>Email marketing and opting out of emails</strong></p>
+				<p>By becoming a subscriber of LOVEFiLM and providing us with your email address you consent to receive emails from us 
+				regarding your account. We also send out regular newsletters, offers and updates. If you do not wish to receive marketing 
+				emails from us we recommend that you visit <a href="/account.php">Your Account</a> &gt; General Preferences, where you can tailor the information you receive 
+				from us or opt out of receiving any information.</p>
+				
+				<p><strong>Your ability to edit and cancel your account</strong></p>
+				<p>You can access your account from My Account to update and correct the personal details that we gathered when you subscribed. 
+				You must be logged in to access this information. All information is password-protected so no one can access the information 
+				but you. You may also cancel your membership from this area.</p>
+				
+				<p><strong>Changes to the Privacy Policy</strong></p>
+				<p>We may modify or update this privacy policy from time to time.  Any changes to the privacy policy will be posted here.</p>
+				
+				<p><strong>Your comments, questions, concerns</strong></p>
+				<p>Please send any questions or comments about this privacy policy to Customer Services at 
+				<a href="mailto:privacy@lovefilm.com">privacy@lovefilm.com</a></p>
+		</td>
+	</tr>
+</tbody></table>
 
-            <div class="copysmallredbold">Your ability to edit and cancel your account</div>
-            <p>You can access your account from My Account to update and correct the personal details that we gathered when you subscribed. 
-            You must be logged in to access this information. All information is password-protected so no one can access the information but 
-            you. You may also cancel your membership from this area.</p>
-            
-			<div class="copysmallredbold">Changes to the Privacy Policy </div>
-            <p>Any changes to the privacy policy will be posted here.</p>
-            
-			<div class="copysmallredbold">Your Comments, Questions, Concerns</div>
-            <p>Please send any questions or comments about this privacy policy to Customer Services 
-            at <a href="mailto:privacy@lovefilm.com" class="und" title="send any questions or comments about this privacy policy to Customer Services">privacy@lovefilm.com</a>.
-			</p>
-            
-            <p>Version 1.1.4, February 21, 2005</p>
-			</td>
-		</tr>
-	</tbody></table><!-- $Id: footer.php,v 1.6 2005/01/17 16:08:22 richard Exp $ -->
-
-	    <!-- end main body -->
-        <br clear="right"><br>
-        </td>
-    </tr>
-
-    <!-- footer -->
-    <tr>
-        <td colspan="3">
-            <img src="/images/spacer.gif" width="1" height="4" alt="">
-        </td>
-    </tr>
-
-    
-<tr bgcolor="black" height="20">
+<br>			</div>
+		</td>
+	</tr>
+</tbody></table>
+<!-- $Id: footer.php,v 1.9 2005/12/07 11:57:42 kewan Exp $ -->
+						<!-- closes content div -->
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+		<hr class="none">
+		<div id="bnav"><table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr bgcolor="black" height="20">
 	<td colspan="3">
 		<div id="main_nav">
 			<table width="780" cellspacing="0" cellpadding="0" border="0" bgcolor="#000000" style="border-collapse:collapse">
 				<tbody><tr>
 																	<td>&nbsp;</td>
-																		<td class="nav_content" style="width:57px"><a href="http://www.lovefilm.com/index.php?howwework=1&amp;SID=997fd7641e81f756022bc1abd88698d7" class="mainnav_white">INTRO</a></td>
+																		<td class="nav_content" style="width:66px"><a href="http://www.lovefilm.com/index.php?howwework=1" class="mainnav_white">HOME</a></td>
 						<td>&nbsp;</td>
 																	<td style="border-left:1px solid white">&nbsp;</td>
-																		<td class="nav_content" style="width:55px"><a href="http://www.lovefilm.com/index.php?nosplash=1&amp;SID=997fd7641e81f756022bc1abd88698d7" class="mainnav_white">HOME</a></td>
+																		<td class="nav_content" style="width:123px"><a href="http://www.lovefilm.com/index.php?nosplash=1" class="mainnav_white">BROWSE TITLES</a></td>
 						<td>&nbsp;</td>
 																	<td style="border-left:1px solid white">&nbsp;</td>
-																		<td class="nav_content" style="width:103px"><a href="http://www.lovefilm.com/howitworks.php?SID=997fd7641e81f756022bc1abd88698d7" class="mainnav_white">LEARN MORE</a></td>
+																		<td class="nav_content" style="width:123px"><a href="http://www.lovefilm.com/howitworks.php" class="mainnav_white">LEARN MORE</a></td>
 						<td>&nbsp;</td>
 																	<td style="border-left:1px solid white">&nbsp;</td>
-																		<td class="nav_content" style="width:215px"><a href="https://www.lovefilm.com/signup1.php?SID=997fd7641e81f756022bc1abd88698d7" class="mainnav_white">START YOUR FREE TRIAL NOW</a></td>
+																		<td class="nav_content" style="width:123px"><a href="http://www.lovefilm.com/features/" class="mainnav_white">FILM EXTRAS</a></td>
 						<td>&nbsp;</td>
 																	<td style="border-left:1px solid white">&nbsp;</td>
-																		<td class="nav_content" style="width:53px"><a href="http://www.lovefilm.com/faqs.php?SID=997fd7641e81f756022bc1abd88698d7" class="mainnav_white">HELP</a></td>
+																		<td class="nav_content" style="width:215px"><a href="https://www.lovefilm.com/signup1.php" class="mainnav_white">START YOUR FREE TRIAL</a></td>
+						<td>&nbsp;</td>
+																	<td style="border-left:1px solid white">&nbsp;</td>
+																		<td class="nav_content" style="width:70px"><a href="http://www.lovefilm.com/gifts/" class="mainnav_white">GIFTS</a></td>
 						<td>&nbsp;</td>
 									</tr>
 			</tbody></table>
 		</div>
 	</td>
 </tr>
-
-    <tr height="32">
-        <td colspan="3"><!-- gutter --><img src="/images/spacer.gif" width="1" height="32" alt=""></td>
-    </tr>
-
-    <tr>
-        <td colspan="3">
-            <img src="/images/bt_securesite.gif" width="48" height="57" alt="BT Secure Site" align="right">
-            <a href="/privacypolicy.php" title="Privacy Policy" class="und">PRIVACY POLICY</a> | 
-			<a href="./tsandcs.php" onclick="NewWindow(this.href,'tsandcs','400','600','yes','center');return false" onfocus="this.blur()" title="Terms and conditions" class="und">TERMS &amp; CONDITIONS</a> | 
-			<a href="/affiliates/" title="Affiliate Program" class="und">AFFILIATE PROGRAM</a> | 
-			<a href="/static.php?tpl=aboutus" class="und">ABOUT US</a> | 
-			<a href="/contactus.php" class="und">CONTACT US</a>
-			<br><br>
-            © Copyright Online Rentals 2004
-            <br clear="right">
-        </td>
-    </tr>
+</tbody></table></div>
+        
+	    <!-- footer -->
+		<hr class="none">
+	    <div id="footer">
+						<a href="/static.php?tpl=about-us-press-release-070405"><img src="/images/bva.jpg" width="66" height="60" alt="BVA rental success of the year"></a>
+				    	<img src="/images/web-user-gold-award.gif" width="46" height="60" alt="Web User Gold Award">
+			<img src="/images/bt_securesite.gif" width="51" height="60" alt="BT Secure Site">
+			<p><a href="/privacypolicypop.php" onclick="NewWindow(this.href,'privacypolicy','500','600','yes','center');return false" onfocus="this.blur()">Privacy policy</a> | 
+			<a href="/tsandcs.php" onclick="NewWindow(this.href,'tsandcs','500','600','yes','center');return false" onfocus="this.blur()">Terms &amp; conditions</a> | 
+			
+					
+			<a href="/affiliates/" target="_blank">Affiliate program</a> | 
+						<a href="/static.php?tpl=about-us">About us</a> | 
+			<a href="/static.php?tpl=about-us-contact">Contact us</a></p>
+						<p>© 2005 Online Rentals</p>
+		</div>
+	
+		
+			
+		</td>
+	</tr>
 </tbody></table>
-
 
 
 </body></html>
