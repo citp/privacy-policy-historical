@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2004-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040428200445id_/http%3A//commissionsoup.com/publicHTML/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212155455id_/http%3A//www.commissionsoup.com/publicHTML/privacy.aspx) for the most accurate reproduction.*
 
-# privacy
+# CommissionSoup Privacy Policy
+
+### CommissionSoup Privacy Policy
 
 CommissionSoup is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our system. 
 
@@ -11,7 +13,7 @@ CommissionSoup is serious about protecting your online privacy. This Privacy Sta
 We automatically collect and/or track the following: 
 
   1. web page http headers (home server domain names, IP address, type of client computer, and type of Web browser); 
-  2. information knowingly provided by you through on-line forms, registration forms, surveys, and or other entries, such as email addresses, personal, financial or demographic information; 
+  2. information knowingly provided by you through on-line forms, registration forms, surveys, and or other entries, such as e-mail addresses, personal, financial or demographic information; 
   3. information, user specific or aggregate, on what pages our visitors access and 
   4. the e-mail addresses of visitors that communicate with CommissionSoup via e-mail.
 
@@ -29,7 +31,7 @@ This site contains links to other sites and we are not responsible for the priva
 
 **Section 4.** Your Opt-Out Rights 
 
-You may opt-out of receiving communications from us and or our partners when we request your information. We also allow you to remove your information from our database. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondences to you. You can remove your information by writing to us via postal mail at the address below, by sending an email requesting removal to csservice@creditsoup.com, by visiting CommissionSoup and requesting your profile be deleted through our opt out procedures or by clicking here.
+You may opt-out of receiving communications from us and or our partners when we request your information. We also allow you to remove your information from our database. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondences to you. You can remove your information by writing to us via postal mail at the address below, by sending an e-mail requesting removal to csservice@creditsoup.com, by visiting CommissionSoup and requesting your profile be deleted through our opt out procedures or by clicking here.
 
 **Section 5.** Your Rights To Your Personal Data 
 
@@ -54,4 +56,4 @@ CommissionSoup
 Madison, SD. 57042  
 or contact us
 
-Copyright © 2004 CommissionSoup
+©2005 CommissionSoup
