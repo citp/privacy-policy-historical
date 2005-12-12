@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phschool.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205084745id_/http%3A//www.phschool.com/about_ph/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phschool.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212154551id_/http%3A//www.phschool.com/about_ph/privacy.html) for the most accurate reproduction.*
 
 # PHSchool - Privacy Statement
 
@@ -8,7 +8,7 @@ THIS PAGE PROVIDES GENERAL INFORMATION ABOUT THE PRIVACY POLICY OF THIS WEBSITE.
 
 This website (the "Site") is brought to you by Pearson Education, Inc. ("Pearson"), publishing as Pearson Prentice Hall. At Pearson we are serious about protecting your privacy, and this Privacy Statement discloses how we collect, protect, use, and share the personal information gathered on this Site.
 
-Your use of this Site is subject to the Terms of Use posted on this website (which includes this Privacy Statement). The Terms of Use (including this Privacy Statement) or any part thereof may be revised from time to time through an updated posting, and therefore you should check the Terms of Use (including this Privacy Statement) periodically. Revisions are effective upon posting and your continued use of this website following the posting of revisions to the Terms of Use (including this Privacy Statement) will indicate your acceptance of such revisions. If you have any questions concerning the Terms of Use (including this Privacy Statement), please contact us by telephone or email. Our telephone number is (800) 848-9500. Our email address is phwebmaster@phschool.com. You may also use the "Contact Us" form to send us an email message: www.phschool.com/forms/contactph.cfm. Our mailing address is Pearson Education, Inc., One Lake Street, Upper Saddle River, New Jersey 07458, Attention: Webmaster.
+Your use of this Site is subject to the Terms of Use posted on this website (which includes this Privacy Statement). The Terms of Use (including this Privacy Statement) or any part thereof may be revised from time to time through an updated posting, and therefore you should check the Terms of Use (including this Privacy Statement) periodically. Revisions are effective upon posting and your continued use of this website following the posting of revisions to the Terms of Use (including this Privacy Statement) will indicate your acceptance of such revisions. If you have any questions concerning the Terms of Use (including this Privacy Statement), please contact us by telephone or email. Our telephone number is (800) 848-9500. You may also use the "Contact Us" form to send us an email message: http://www.k12pearson.com/contactus/contact_default.cfm?cmpy=PH. Our mailing address is Pearson Education, Inc., One Lake Street, Upper Saddle River, New Jersey 07458, Attention: Webmaster.
 
 AS A GENERAL MATTER, YOU SHOULD ALWAYS CHECK WITH YOUR TEACHER AND YOUR PARENTS BEFORE SHARING ANY PERSONAL INFORMATION ABOUT YOURSELF OR OTHER STUDENTS ON ANY INTERNET SITE.
 
@@ -54,11 +54,11 @@ This Site is owned and operated by Pearson and the contents of this Site are pro
 
 ## ADDITIONAL INFORMATION ABOUT PRIVACY
 
-If you have any concerns or questions about privacy on this Site, please contact us by telephone or email. Our telephone number is (800) 848-9500. Our email address is phwebmaster@phschool.com. You may also use the "Contact Us" form to send us an email message: www.phschool.com/forms/contactph.cfm. Our mailing address is Pearson Education, Inc., One Lake Street, Upper Saddle River, New Jersey 07458, Attention: Webmaster.
+If you have any concerns or questions about privacy on this Site, please contact us by telephone or email. Our telephone number is (800) 848-9500. You may also use the "Contact Us" form to send us an email message: http://www.k12pearson.com/contactus/contact_default.cfm?cmpy=PH. Our mailing address is Pearson Education, Inc., One Lake Street, Upper Saddle River, New Jersey 07458, Attention: Webmaster.
 
 Pearson Education, Inc. (Revised – October 2003)
 
-[Forward to Terms of Use](https://web.archive.org/web/20050205084745id_/http%3A//www.phschool.com/about_ph/privacy2.html)
+[Forward to Terms of Use](https://web.archive.org/web/20051212154551id_/http%3A//www.phschool.com/about_ph/privacy2.html)
 
   
 
