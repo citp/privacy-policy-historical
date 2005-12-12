@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jsexnetwork.com privacy policy that was archived on 2005-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050412005616id_/http%3A//www.jsexnetwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jsexnetwork.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212143151id_/http%3A//www.jsexnetwork.com/privacy.html) for the most accurate reproduction.*
 
 # JSN
 
