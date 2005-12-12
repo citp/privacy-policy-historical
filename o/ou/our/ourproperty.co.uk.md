@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourproperty.co.uk privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618085223id_/http%3A//www.ourproperty.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourproperty.co.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212101617id_/http%3A//www.ourproperty.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Your privacy - OurProperty.co.uk
 
@@ -36,7 +36,7 @@ Your information will never be shared with any third party. The information we g
 
 You can change, modify or delete information previously provided by logging into your OurProperty.co.uk account. You may also deactivate your account and delete your information from the OurProperty.co.uk database by contacting us - please include your login name, full name, address and contact information in order to allow OurProperty.co.uk to verify the user's identity. 
 
-OurProperty.co.uk will also send occasional emails to registered users notifying them of new issues, special offers and new features on our web site. Please check the [FAQs](https://web.archive.org/web/20050618085223id_/http%3A//www.ourproperty.co.uk/faq-registering.html#q5) for information about Our Property contacting you. A user may opt-out of receiving these mailings by doing one of the following steps: At the bottom of each e-mail you receive from OurProperty.co.uk, you will find an unsubscribe link. Click on this link and you will be taken to a page where you will be able to unsubscribe from all future OurProperty.co.uk e-mails. Alternatively you can e-mail OurProperty.co.uk and request to be taken off the OurProperty.co.uk mailing list. 
+OurProperty.co.uk will also send occasional emails to registered users notifying them of new issues, special offers and new features on our web site. Please check the [FAQs](https://web.archive.org/web/20051212101617id_/http%3A//www.ourproperty.co.uk/faq-registering.html#q5) for information about Our Property contacting you. A user may opt-out of receiving these mailings by doing one of the following steps: At the bottom of each e-mail you receive from OurProperty.co.uk, you will find an unsubscribe link. Click on this link and you will be taken to a page where you will be able to unsubscribe from all future OurProperty.co.uk e-mails. Alternatively you can e-mail OurProperty.co.uk and request to be taken off the OurProperty.co.uk mailing list. 
 
 ##### How is customer information protected?
 
@@ -44,4 +44,4 @@ We use a secure server to protect all the information you provide us with. All i
 
 ##### Contacting OurProperty.co.uk
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you may [contact us.](https://web.archive.org/web/20050618085223id_/http%3A//www.ourproperty.co.uk/contact-us.html)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you may [contact us.](https://web.archive.org/web/20051212101617id_/http%3A//www.ourproperty.co.uk/contact-us.html)
