@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ucreditu.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308030553id_/http%3A//www.ucreditu.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucreditu.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212050033id_/http%3A//www.ucreditu.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # University of Utah Credit Union : Privacy Policy
 
   
 **Information Collection and Use**  
-[PRINT FRIEDNLY COPY](https://web.archive.org/web/20050308030553id_/http%3A//www.ucreditu.com/privacypolicy.txt)
+[PRINT FRIEDNLY COPY](https://web.archive.org/web/20051212050033id_/http%3A//www.ucreditu.com/privacypolicy.txt)
 
 University of Utah Credit Union is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. University of Utah Credit Union collects information from our users at several different points on our website. The Credit Union does not knowingly solicit or collect data from children and does not knowingly market to children online. 
 
@@ -68,5 +68,5 @@ Users of our site are always notified when their information is being collected 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
-More privacy policy information is available on our [Disclosures page](https://web.archive.org/web/20050308030553id_/http%3A//www.ucreditu.com/disclosures.htm).  
+More privacy policy information is available on our [Disclosures page](https://web.archive.org/web/20051212050033id_/http%3A//www.ucreditu.com/disclosures.htm).  
 
