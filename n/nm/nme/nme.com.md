@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the nme.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212121332id_/http%3A//nme.com/privacy) for the most accurate reproduction.*
+
+# NME.COM
+
+## PRIVACY POLICY
+
+IPC Media Limited will use the information provided by you in the course of our dealing with you to process your requests and orders and in order to provide a more personalised web-surfing and shopping experience. 
+
+We may collect anonymous information about your use of this website from cookies and by the use of pixel tags. We may match this information with any other data you have given us for the purposes of fulfilling your orders and other requests, tailoring our site to help you, sending you appropriate marketing communications and maintaining our records. A cookie is a short piece of data which is sent from a web server to a web browser when that browser visits the server's site. Pixel tags are used to read cookies. Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser. However some of the cookies sent to your browser will help us to save you time, for example by remembering your contact details when you are making an order for the second time – this means that you will not have to complete your contact details section again unless they have changed. In addition you may find that some parts of the site will not function properly if you refuse cookies. 
+
+We may share your information with other members of the AOL Time Warner Group of companies, including certain offices in the United States for internal management and administration purposes. We may also share your information with certain reputable third parties in order to fulfil your order or request or in order to obtain professional advice. If you would like details of who these companies are, please write to Company Secretariat, Room 0820, King’s Reach Tower, Stamford Street, London SE1 9LS. 
+
+It is possible that IPC Media could merge or be acquired by another business. If this happens, we may share the information that relates to you. You will be sent notice of such an event. 
+
+This website contains various "opt-out" boxes on the relevant pages where you provide your personal information. If you do not want us to provide your personal information to trusted third parties as may be described on the pages of the Web Site or herein, then you should tick the relevant box(es) on such pages of the Web Site and we will not transfer it to those parties, similarly if you do not want us to send you information as described where relevant, you should tick the opt out boxes and we will refrain from sending you such materials. 
+
+This website also contains various “opt-in” boxes on the relevant pages where you provide your personal information in the form of an email address. IPC Media Limited will not provide your email address to any third parties unless you specifically opt in to them by ticking a relevant box to hear from a specified third party. Similarly if you have not ticked the opt-in box we will not email you information as described. 
+
+Please note that clicking on to links and banner advertisements may result in your transferral to another website, where data privacy practices may be different to that of IPC Media Limited. Visitors should consult the other website’s privacy policies as we are not responsible for, and have no control over, information that is submitted to or collected by these third parties. 
+
+This privacy policy may be changed by IPC Media Limited at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. IPC Media Limited will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data. 
+
+[](http://www.dma.org.uk%20border%3D/)   
