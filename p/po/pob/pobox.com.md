@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pobox.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305004948id_/http%3A//www.pobox.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pobox.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212143724id_/http%3A//www.pobox.com/privacy.mhtml) for the most accurate reproduction.*
 
 # Pobox Lifetime Email
 
@@ -19,7 +19,7 @@ Because we do not derive income from advertising, we do not aggregate your perso
 We do not sell, loan, lease, give away, share or in any other way make your personal information or your Pobox address available to parties other than IC Group, Inc. and its affiliates, except: 
 
   * when you have given us permission (example: to deal with another company on your behalf); 
-  * when you have violated our [Terms of Service](https://web.archive.org/web/20050305004948id_/http%3A//www.pobox.com/user_agreement.html), and misused your Pobox account for spam or other prohibited uses; 
+  * when you have violated our [Terms of Service](https://web.archive.org/web/20051212143724id_/http%3A//www.pobox.com/user_agreement.html), and misused your Pobox account for spam or other prohibited uses; 
   * in the event of a merger or a transfer of all or substantially all our assets to a third party, provided that we will notify you before personal information becomes subject to a different privacy policy; and 
   * to comply with law or legal process (subpoenas), or to establish or exercise our legal rights or defend against legal claims. 
 
