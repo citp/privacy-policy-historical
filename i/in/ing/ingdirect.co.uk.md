@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405202413id_/http%3A//www.ingdirect.co.uk/html/footer/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212140143id_/http%3A//www.ingdirect.co.uk/html/footer/privacypolicy.html) for the most accurate reproduction.*
 
 # ING Direct > Privacy Policy
 
@@ -25,6 +25,8 @@ Microsoft Internet Explorer: Choose Internet Options from the Tool menu. Choose 
 
 **Spotlight Tags**  
 In order to improve our website and understand how it, and links to it, are used, we are working with third parties to track usage on our website. These third parties use pixel tags, also known as beacons or spotlight tags, to improve our understanding of web traffic, visitor behaviour and response to promotional campaigns. Pixel tags can be disabled by modifying the settings on your browser. For more information please contact your internet provider.
+
+The third party advertising technology that we employ to serve adverts uses a separate persistent cookie, in conjunction with the pixel tags that we place on our site. We transmit non-personal information about your visit to the servers of this advertising technology company, for the purpose of targeting our Internet advertisements on other sites. By clicking [here](http://www.doubleclick.com/us/about_doubleclick/privacy/), you can obtain an "opt out" cookie that will prevent your non-personal information from being used to target adverts. 
 
 Changes to our privacy policy  
 This privacy policy may be modified from time to time. Any changes to our privacy policy will be indicated on this page so you may want to check back here periodically.
