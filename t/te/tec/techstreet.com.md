@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303172312id_/http%3A//www.techstreet.com/sec_priv.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212031843id_/http%3A//www.techstreet.com/sec_priv.tmpl) for the most accurate reproduction.*
 
-# Techstreet.com :
+# Techstreet Security and Privacy Policies
 
 When searching and ordering at Techstreet, you don't have to take risks or give up your personal privacy.  We are committed to maximizing the security of your transactions and keeping your information safe.  Please read on for more details.
 
