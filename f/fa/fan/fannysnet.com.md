@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fannysnet.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307094311id_/http%3A//www.fannysnet.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fannysnet.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212150008id_/http%3A//www.fannysnet.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
