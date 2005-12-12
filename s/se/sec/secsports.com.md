@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the secsports.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206091711id_/http%3A//www.secsports.com/new/local/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secsports.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212155159id_/http%3A//www.secsports.com/index.php%3Fs%3D%26change_well_id%3D2%26url_article_id%3D5921) for the most accurate reproduction.*
 
-# 
+# www.secsports.com
 
-**SECSports.com Privacy Policy**  
-
-
-* * *
+SECSports.com Privacy Policy   
+****
 
 At SECSports.com, we are committed to safeguarding your privacy online. SECSports.com does not solicit any personally identifiable information from children under the age of 13. Accordingly, children under 13 years old may be restricted from participating in certain activities, contests, and transactions on SECSports.com. 
 
