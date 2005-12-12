@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sologig.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406075501id_/http%3A//www.sologig.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sologig.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212094828id_/http%3A//www.sologig.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
-|  |  | 
+|   | 
 
 ### Your Privacy is Our Priority!
 
@@ -44,4 +44,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 #### What You Should Know
 
-Sologig.com cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. As a user of the Site, you understand and agree that you assume all responsibility and risk for your use of the Site, the internet generally, and the documents you post or access and for your conduct on and off the Site.  | 
+Sologig.com cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. As a user of the Site, you understand and agree that you assume all responsibility and risk for your use of the Site, the internet generally, and the documents you post or access and for your conduct on and off the Site.  |   | 
