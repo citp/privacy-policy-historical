@@ -1,42 +1,8 @@
-> *The following text is extracted and transformed from the woodalls.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604044239id_/http%3A//www.woodalls.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodalls.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212030056id_/http%3A//www.woodalls.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # Woodall's...Camping & RVing in the Great Outdoors!
 
-We are committed to helping you make the most of your free time on the Internet within a trusted environment. Because we respect your privacy, we are letting you know about our online privacy policies. This privacy policy discloses how we collect, protect, use, and share information gathered about you on our family of Web sites which includes all of the sites listed below.. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet. [www.affinitygroup.com](http://www.affinitygroup.com/)  
-[www.affinityroadandtravel.com](http://www.affinityroadandtravel.com/)  
-[www.archerybusiness.com](http://www.archerybusiness.com/)  
-[www.atvgearzone.com](http://www.atvgearzone.com/)  
-[www.atvnews.com](http://www.atvnews.com/)  
-[www.bassandwalleyeboats.com](http://www.bassandwalleyeboats.com/)  
-[www.boating-industry.com](http://www.boating-industry.com/)  
-[www.bowhuntingworld.com](http://www.bowhuntingworld.com/)  
-[www.campinglife.com](http://www.campinglife.com/)  
-[www.campingworld.com](http://www.campingworld.com/)  
-[www.coastresorts.com](http://www.coastresorts.com/)  
-[www.coastaffiliates.com](http://www.coastaffiliates.com/)  
-[www.cvponline.com](http://www.cvponline.com/)  
-[www.cwrvi.com](http://www.cwrvi.com/)  
-[www.ehlertpowersports.com](http://www.ehlertpowersports.com/)  
-[www.golfcard.com](http://www.golfcard.com/)  
-[www.goodsamclub.com](http://www.goodsamclub.com/)  
-[www.motorhomeamericaclub.com](http://www.motorhomeamericaclub.com/)  
-[www.motorhomemagazine.com](http://www.motorhomemagazine.com/)  
-[www.riderreport.com](http://www.ridermagazine.com/)  
-[www.rv.net](http://www.rv.net/)  
-[www.rvbg.com](http://www.rvbg.com/)  
-[www.rvbusiness.com](http://www.rvbusiness.com/)  
-[www.rvdoctor.com](http://www.rvdoctor.com/)  
-[www.rvroadservice.com](http://www.rvroadservice.com/)  
-[www.rvsearch.com](http://www.rvsearch.com/)  
-[www.rvtoday.tv](http://www.rvtoday.tv/)  
-[www.snowmobilenews.com](http://www.snowmobilenews.com/)  
-[www.thunderpress.com](http://www.thunderpress.com/)  
-[www.tldirectory.com](http://www.tldirectory.com/)  
-[www.trailerboats.com](http://www.trailerboats.com/)  
-[www.trailerlife.com](http://www.trailerlife.com/)  
-[www.watercraftnews.com](http://www.watercraftnews.com/)  
-[www.woodalls.com](http://www.woodalls.com/)
-
+  
 **Types of information we collect and how we collect it.**
 
 The majority of the product and service information posted on our sites is offered without our collecting any personally identifiable information from you. You can surf the Web sites and view much of our content anonymously. 
@@ -69,6 +35,8 @@ One of the most valuable assets of our business is you. We aren't in the busines
 
 Sometimes we use third party companies to help us provide products or services. In those instances, we need to share your information with them to deliver products to you, assist us in collecting and managing customer information, to fulfill promotions and/orders and/or to communicate with you. Some of these companies are given access to some or all of the information you provide to us, and some may use cookies or other technologies on our behalf. These companies are restricted from using your information in any manner other than in helping us to provide you with our products and services. On occasion, we offer promotions -- like sweepstakes or free subscriptions -- in conjunction with a sponsor. We may share your information with the sponsors if they need it to send you a product, such as a magazine subscription. We may share your information with those sponsors so that they can send you other special promotions they offer. In addition, we will occasionally send e-mail promotions out to our users on behalf of third-party sponsors to conduct promotions regarding lifestyle-related products or services. 
 
+On occasion, we offer promotions -- like sweepstakes or free subscriptions -- in conjunction with a sponsor. We may share your information with the sponsors if they need it to send you a product, such as a magazine subscription. We may share your information with those sponsors so that they can send you other special promotions they offer. In addition, we will occasionally send e-mail promotions out to our users on behalf of third-party sponsors to conduct promotions regarding lifestyle-related products or services. 
+
 **Content Providers**
 
 On some of our sites, we provide content that is created by a third-party Web site. In some instances the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances the information collected is shared between our third-party sponsors and us. 
@@ -89,7 +57,9 @@ We will give out personal information as required by law, for example, to comply
 
 **Choices You Have About Our Collecting, Using, and Sharing Your Information**
 
-It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity -- at the time we collect your information -- to limit e-mail communications from us and from our third-party partners. You can request at any time that we not send future e-mail to you either by unsubscribing from the communication or by contacting us at info@affinitygroup.com or calling us at (303) 728-2267, with respect to all of our sites except Camping World. You can request at any time that that we do not send future email to you from Camping World by either unsubscribing from the communication or by contacting us at cs@campingworld.com or calling at (866) 642-1328. 
+It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity -- at the time we collect your information -- to limit e-mail communications from us and from our third-party partners. You can request at any time that we not send future e-mail to you either by unsubscribing from the communication or by contacting us at info@affinitygroup.com or calling us at (303) 728-2267. 
+
+You also have the option of requesting and electing that we not share your personal information with any third parties for direct marketing purposes. Upon electing this option, we will not share your personal information with any third parties for direct marketing purposes. You can request at any time that we not share your personal information with any third parties for direct marketing purposes by contacting us at info@affinitygroup.com or calling us at (303) 728-2267. 
 
 **The Type of Security We Provide**
 
@@ -114,4 +84,4 @@ Fax us at: (303) 728-7306
 
 Call us at: (303) 728-2267 
 
-Please note: Due to the rapidly changing nature of the Internet, we may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. This Privacy Policy is effective as of 05/10/2004 and has not been revised since such effective date. All changes to this policy are immediately effective. In the event of any material changes to this Privacy Policy, we will notify users of our site of the applicable changes for a period of thirty (30) days following the effective date of such changes by providing a link on our web site to the "recent updates" to our Privacy Policy. 
+Please note: Due to the rapidly changing nature of the Internet, we may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. This Privacy Policy is effective as of 05/10/2004 and has not been revised in any material respect since such effective date. All changes to this policy are immediately effective. In the event of any material changes to this Privacy Policy, we will notify users of our site of the applicable changes for a period of thirty (30) days following the effective date of such changes by providing a link on our web site to the "recent updates" to our Privacy Policy. 
