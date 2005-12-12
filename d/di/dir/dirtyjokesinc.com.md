@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dirtyjokesinc.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402074058id_/http%3A//www.dirtyjokesinc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtyjokesinc.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212155638id_/http%3A//www.dirtyjokesinc.com/privacy.htm) for the most accurate reproduction.*
 
 # Jokes - The Ultimate Joke Directory! Read them and laugh! - Privacy Policy
 
-[](http://www.dirtyjokesinc.com/submit.htm)
+[](http://www.dirtyjokesinc.com/breast-implants.php)
 
 Privacy is a very serious subject. Therefore, our privacy policy is quite simple:
 
@@ -16,4 +16,4 @@ No. We only collect personally identifiable information when people voluntarily 
 
 If you have any other questions or concerns about your privacy on Dirtyjokesinc.com, please feel free to contact us by clicking the link below.
 
-[_Contact Us_](https://web.archive.org/web/20050402074058id_/http%3A//www.dirtyjokesinc.com/contact_page.htm)
+[_Contact Us_](https://web.archive.org/web/20051212155638id_/http%3A//www.dirtyjokesinc.com/contact_page.htm)
