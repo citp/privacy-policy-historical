@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616081345id_/http%3A//www.infolink.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160106id_/http%3A//www.infolink.com.au/privacypolicy.asp) for the most accurate reproduction.*
 
 # Infolink Australia : Privacy Policy
 
