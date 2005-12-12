@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sircon.com privacy policy that was archived on 2005-03-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050313155536id_/http%3A//www.sircon.com/resources/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sircon.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212233932id_/http%3A//www.sircon.com/resources/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -137,7 +137,7 @@ function ehandler(event,theobj){
 }
 				
 function closesubnav(event){
-  if ((event.clientY <48)||(event.clientY > 107)){
+  if ((event.clientY <70)||(event.clientY > 180)){
     for (var i=1; i<= numofitems; i++){
       var shutdiv =eval('menuitem'+i+'.thediv');
       shutdiv.style.visibility='hidden';
@@ -179,46 +179,82 @@ function MM_showHideLayers() { //v6.0
 <div id="pageedges">
 <div id="page">
   <div id="header">
-       <div id="logo"><img src="/images/header.gif" width="547" height="50"></div>
-<div id="search">
-<img src="/images/loginarrow.gif" width="182" height="35"></div>
-</div>
+     <style type="text/css">
+<!--
+.style1 {
+	color: #990000;
+	font-weight: bold;
+}
+-->
+</style>
+<div id="logo"><img src="/images/header.gif" width="547" height="50"></div>
 <div id="mainnavbar">
+<div id="mainlogin">
+  <div id="loginflash">
+  <div id="loginwindow">
+  	<form name="loginForm" method="post" action="/ComplianceExpress/login.do" id="loginForm">
+	  <div id="logintextdivides"><span class="logintextlabels">Account ID:</span><input name="accountId" type="text" class="logintextinput" value="" size="20" maxlength="9"></div>
+      <div id="logintextdivides"><span class="logintextlabels">Login Name:</span><input name="loginName" type="text" class="logintextinput" value="" size="20" maxlength="24"></div>       
+      <div id="logintextdivides"><span class="logintextlabels">Password:</span><input name="password" type="password" class="logintextinput" value="" size="20" maxlength="16"></div> 
+      <div class="logintextlabels"><a href="#" onclick="MM_showHideLayers('loginwindow','','hide')">close login window</a></div>
+      <input value="Login" border="0" type="submit" class="loginbutton">
+  	</form>
+	<br><br>
+     <span class="logintextlabels"><a href="/producers/workbench.jsp">Apply for a license and more...</a></span>
+	</div>
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="81" height="25">
+      <param name="movie" value="/flash/loginnew.swf">
+	  <param name="menu" value="false">
+      <param name="quality" value="high">
+      <embed src="/flash/loginnew.swf" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="81" height="25">
+    </object>
+</div>
+  <div id="login"><a href="#" onclick="MM_showHideLayers('loginwindow','','show')">Account Login</a></div>
+</div>
+</div>
+
+  </div>
+  <div id="header">
+     <style type="text/css">
+<!--
+.style2 {
+	color: #076396;
+	font-weight: bold;
+}
+.style3 {color: #076396}
+-->
+</style>
+<div id="mainnavbar2">
 <div id="mainlinks">
       <div id="globalNav"> 
       <a href="/index.jsp" id="gl1" class="glink" onmouseover="ehandler(event,menuitem1);">Home</a><span class="separators"> | </span>
-	  <a href="#" id="gl2" class="glink" onmouseover="ehandler(event,menuitem2);">Services</a><span class="separators"> | </span>
+	  <a href="/services/index.jsp" id="gl2" class="glink" onmouseover="ehandler(event,menuitem2);">Services</a><span class="separators"> | </span>
 	  <a href="/customers/case.jsp" id="gl3" class="glink" onmouseover="ehandler(event,menuitem3);">Customers</a><span class="separators"> | </span>
-	  <a href="#" id="gl4" class="glink" onmouseover="ehandler(event,menuitem4);">About Us</a><span class="separators"> | </span>
-	  <a href="/news/archives.jsp" id="gl5" class="glink" onmouseover="ehandler(event,menuitem5);">News</a><span class="separators"> | </span>
-	  <a href="#" id="gl6" class="glink" onmouseover="ehandler(event,menuitem6);">Careers</a><span class="separators"> | </span>
-	  <a href="#" id="gl7" class="glink" onmouseover="ehandler(event,menuitem7);">Contact Us</a> 
-    </div> 
+	  <a href="/about/corporate.jsp" id="gl4" class="glink" onmouseover="ehandler(event,menuitem4);">About Us</a><span class="separators"> | </span>
+	  <a href="/news/archives.jsp" id="gl5" class="glink" onmouseover="ehandler(event,menuitem5);">News &amp; Events</a><span class="separators"> | </span>
+	  <a href="/careers/index.jsp" id="gl6" class="glink" onmouseover="ehandler(event,menuitem6);">Careers</a><span class="separators"> | </span>
+	  <a href="/contact/customersupport.jsp" id="gl7" class="glink" onmouseover="ehandler(event,menuitem7);">Contact Us</a> 
+    </div>
       <div id="subglobal1" class="subglobalNav" style="visibility: hidden;"> 
 
   </div> 
   <div id="subglobal2" class="subglobalNav" style="visibility: hidden;"> 
-    <a href="/services/index.jsp">Services Overview</a> | <a href="/services/ComplianceExpress/">Compliance Express</a> | <a href="/services/ProducerExpress/">Producer Express</a> | <a href="/services/ProducerManager/">Producer Manager</a> | <a href="/services/SirconStates/">Sircon for States</a> | <a href="/services/index.jsp">More...</a>
+    <a href="/services/index.jsp">Services Overview</a> | <a href="/services/ComplianceExpress/">Compliance Express</a> | <a href="/services/ProducerExpress/">Producer Express</a> | <a href="/services/ProducerManager/">Producer Manager</a> | <a href="/services/SirconStates/">Sircon for States</a>
   </div> 
   <div id="subglobal3" class="subglobalNav" style="visibility: hidden;"> 
-
-  </div> 
+  </div>    
   <div id="subglobal4" class="subglobalNav" style="visibility: hidden;"> 
     <a href="/about/corporate.jsp">Corporate Information</a> | <a href="/about/executive.jsp">Executive Bios</a> | <a href="/about/community.jsp">Community Initiatives</a>
   </div> 
   <div id="subglobal5" class="subglobalNav" style="visibility: hidden;"> 
-
+    <a href="/news/archives.jsp">Press Releases</a> | <a href="/news/events.jsp">Events</a> | <a href="/news/articles.jsp">Articles</a> | <a href="/news/webinars/">Webinars</a>
   </div> 
   <div id="subglobal6" class="subglobalNav" style="visibility: hidden;"> 
-    <a href="/careers/jobs.jsp">Job Opportunities</a> | <a href="/careers/apply.jsp">Apply Online</a> | <a href="/careers/benefits.jsp">Benefits</a>
+    <a href="/careers/index.jsp">Job Opportunities</a> | <a href="/careers/benefits.jsp">Benefits</a> | <a href="/careers/apply.jsp">Apply Online</a>
   </div> 
   <div id="subglobal7" class="subglobalNav" style="visibility: hidden;"> 
-    <a href="/contact/">Information Request Form</a> | <a href="/contact/directions.jsp">Directions to Sircon</a>
-  </div> 
-  <div id="subglobal8" class="subglobalNav"> 
-    <a href="#">subglobal8 link</a> | <a href="#">subglobal8 link</a> | <a href="#">subglobal8
-    link</a>
-  </div> 
+    <a href="/contact/customersupport.jsp">Customer Support Request</a> | <a href="/contact/">Information Request Form</a> | <a href="/contact/directions.jsp">Directions to Sircon</a>
+  </div>
   <script type="text/javascript">
     <!--
       var menuitem1 = new menu(7,1,"hidden");
@@ -229,41 +265,18 @@ function MM_showHideLayers() { //v6.0
 			var menuitem6 = new menu(7,6,"hidden");
 			var menuitem7 = new menu(7,7,"hidden");
     // -->
-    </script>  
-</div>
-<div id="mainlogin">
-	
-  <div id="loginflash">
-  <div id="loginwindow">
-  	<form name="loginForm" method="post" action="/ComplianceExpress/login.do" id="loginForm">
-      <div id="logintextdivides"><span class="logintextlabels">Account ID:</span><input name="accountId" type="text" class="logintextinput" value="" size="20" maxlength="9"></div>
-      <div id="logintextdivides"><span class="logintextlabels">Login Name:</span><input name="loginName" type="text" class="logintextinput" value="" size="20" maxlength="24"></div>       
-      <div id="logintextdivides"><span class="logintextlabels">Password:</span><input name="password" type="password" class="logintextinput" value="" size="20" maxlength="16"></div> 
-      <div class="logintextlabels"><a href="#" onclick="MM_showHideLayers('loginwindow','','hide')">close login window</a></div>
-      <input value="Login" border="0" type="submit" class="loginbutton">
-  	</form>
-	<br>
-     <div id="loginproducerslink"><a href="/producers/workbench.jsp">Individual Producers click here</a></div>
-	</div>
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="81" height="25">
-      <param name="movie" value="/flash/login.swf">
-	  <param name="menu" value="false">
-      <param name="quality" value="high">
-      <embed src="/flash/login.swf" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="81" height="25">
-    </object>
-</div>
-  <div id="login"><a href="#" onclick="MM_showHideLayers('loginwindow','','show')">Account Login</a></div>
+    </script>   
 </div>
 </div>
-	<div id="headerspacer">
 		<div id="announcetext">&nbsp;</div>
-		<div id="logintext">If you are an individual producer, <a href="/producers/workbench.jsp">click here</a> </div>
+		<div id="logintext">Apply for a license and more, <a href="/producers/workbench.jsp">click here!</a></div>
 
-	</div>
+  </div>
 	<div id="mainwrapper">
 			<div id="headlinecontent">
-			<div id="headlinetitle"> Headlines - 
-			    <script>
+			<div id="headlinetitle"> 
+Headlines -
+    <script>
 				var mydate=new Date()
 				var year=mydate.getYear()
 				if (year < 1000)
@@ -275,19 +288,18 @@ function MM_showHideLayers() { //v6.0
 				var daym=mydate.getDate()
 				document.write(month+"/"+daym+"/"+year)
 				</script>1/30/2020
-</div>
+  </div>
 <div id="headlinetext">
-		
-<a href="/news/12_02_04.jsp"><strong>12.2.04</strong> --Georgia &amp; Mississippi Choose Sircon for States...</a><br>
-      <br>
-<a href="/news/11_21_04.jsp"><strong>11.21.04</strong> -- Innovative IT Changes Name to Sircon...</a><br>
-<br>
-      
-<a href="/news/10_30_04.jsp"><strong>10.30.04</strong> -- Sircon.db 3.0 Brings Increased Functionality...</a><br>
-<br>
-      
-<a href="/news/8_26_04.jsp"><strong>8.26.04</strong> -- Major US Insurer Chooses Sircon® for Licensing ...</a><br>
+
+  <a href="/news/11_1_05.jsp"><strong>11.1.05</strong> - Compliance Express™ 7.0 Released...</a><br>
   <br>
+  <a href="/news/10_25_05.jsp"><strong>10.25.05</strong> - Minnesota Signs Up with Sircon Corporation...</a><br>
+  <br>
+  <a href="/news/10_3_05.jsp"><strong>10.3.05</strong> - VP of E-Government Speaking At Major Insurance Industry Annual Conference...</a><br>
+  <br>
+  <a href="/news/9_12_05.jsp"><strong>9.12.05</strong> - Support for Mississippi Insurance Department...</a><br>
+
+  
 </div>
 
 	  		</div>
@@ -333,20 +345,21 @@ Sircon may send out periodic e-mails informing you of technical service or secur
 			</div>
 
   		    <div id="leftcontent">
-			  <div id="leftcontenttitleback">
-  		    <div id="leftcontenttitle">Case Study</div>
+			 <div id="leftcontenttitleback">
+  		    <div id="leftcontenttitle">Mississippi Support</div>
   		  </div>
-		  <div id="leftcontenttext"><a href="/customers/geico.jsp"><img src="/images/graphic_geico.gif" alt="GEICO Case Study" width="165" height="105" border="0"></a></div>
+		  <div id="leftcontenttext"><a href="/resources/mississippi.jsp"><img src="/images/graphic_mississippi.gif" alt="Mississippi Adjuster Licensing" width="165" height="105" border="0"></a></div>
+	  
 	  
 			</div>
 
   		<div id="leftcontent">
 		  		  <div id="leftcontenttitleback">
-  		    <div id="leftcontenttitle">Feedback Please.... </div>
+  		    <div id="leftcontenttitle">Minnesota Signs On!</div>
   		  </div>
 <div id="leftcontenttext">
-  <p>We're looking for your feedback on your new website!</p>
-  <p>Please send us your suggestions on features that you find  valuable to you, by emailing us at <a href="mailto:info@sircon.com">info@sircon.com</a>.</p>
+  <p><a href="../news/10_25_05.jsp"><img src="/images/graphic_minnesota.gif" width="165" height="105" border="0"></a><br>
+  </p>
 </div>
 	  
 		</div>
@@ -354,11 +367,10 @@ Sircon may send out periodic e-mails informing you of technical service or secur
         <div id="filler">&nbsp;</div>
 	</div>
         <div id="footer">
-		    <a href="/about/corporate.jsp">Company</a> | <a href="/resources/privacy.jsp">Privacy Statement </a> | <a href="/contact/index.jsp">Contact Us</a>
+		    <a href="/about/corporate.jsp">Company</a> | <a href="/resources/privacy.jsp">Privacy Statement</a> | <a href="/careers/index.jsp">Careers</a> | <a href="/contact/index.jsp">Contact Us</a>
             <br>
             <br>
-            © Copyright 2005 Sircon Corporation | 2112 University Park Drive Okemos, MI 48864 | 877.876.4430 | info@sircon.com
-<script type="text/javascript">
+            ©Copyright 2005 Sircon Corporation | 2112 University Park Drive |  Okemos, MI 48864 | 877.876.4430 | <a href="mailto:info@sircon.com">info@sircon.com</a><script type="text/javascript">
 <!--
 // forces https for all links to Compliance Express
 var nonSecureProtocol = "http://";
