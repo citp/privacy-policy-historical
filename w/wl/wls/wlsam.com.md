@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wlsam.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204234119id_/http%3A//www.wlsam.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlsam.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212144337id_/http%3A//www.wlsam.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# Connected with Chicago, NewsTalk890, WLS
+# WLS Radio - Chicago's NewsTalk 890, WLS!
 
 Any person accessing this site agrees to the following: 
 
