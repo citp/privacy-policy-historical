@@ -1,0 +1,481 @@
+<!--The following is the downloaded HTML source of the mobihand.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212133205id_/http%3A//mobihand.com/privacy.asp) for the most accurate reproduction.-->
+
+<html><head><script>
+function modify_value(idName,valoare)
+{
+	document.getElementById(idName).value=valoare;
+}
+
+
+function selectall(value)
+{
+	var oInputs = frm.getElementsByTagName("input");
+	n = oInputs.length;
+	for(i = 0; i < n; i++)
+		if  (oInputs[i].type=="checkbox")  oInputs[i].checked=value;
+}
+
+
+function confirmDelete(redirectPage,confirmMessage)
+{
+	i=confirm(confirmMessage);
+	if (i) window.navigate(redirectPage);
+}
+
+
+function validateForm(formID)
+{
+	var a = Array();
+	var oInputs = formID.getElementsByTagName("input");
+	n = oInputs.length;
+	for(i = 0; i < n; i++)
+	{
+		if (oInputs[i].type == "text" && (oInputs[i].className).substr(0,8) == "required")
+		{
+		if (oInputs[i].value=="") 
+			{
+				alert ("Please enter all the required fields" );
+				oInputs[i].focus();
+				return 0;
+			}
+		switch (oInputs[i].className)
+			{
+			case "required_numeric":
+				if (isNaN(oInputs[i].value))
+				{
+					alert ("Please enter number in " + oInputs[i].id);
+					oInputs[i].focus();
+					return 0;
+				}
+				break;
+			case "required_mail":
+				 if ((oInputs[i].value).search("@")==-1 || (oInputs[i].value).search(".")==-1)
+				 {
+					alert ("Please enter a valid mail address in " + oInputs[i].id);
+					oInputs[i].focus();
+					return 0;
+				 }
+				 break;
+			case "required_phone":
+				 if (isNaN(oInputs[i].value).replace("-",""))
+				{
+					alert ("Please enter a valid phone number in " + oInputs[i].id);
+					oInputs[i].focus();
+					return 0;
+				}
+				break;
+			}
+			
+		}
+		else if  (oInputs[i].type=="checkbox" && (oInputs[i].className).substr(0,14) == "required_group")
+		{
+			alert("da")
+			if (a[oInputs[i].className]==undefined || a[oInputs[i].className]==false) 
+				a[oInputs[i].className]=oInputs[i].checked;
+			
+		}
+	}
+	 
+	
+	var oSel =  formID.getElementsByTagName("SELECT");
+	n = oSel.length;
+	for(i = 0; i < n; i++)
+	{
+		if (oSel[i].className == "required" && oSel[i].selectedIndex == 0)
+		{
+		alert ("Please enter all the required fields" );
+		oSel[i].focus();
+		return 0;
+		}
+	}
+	
+	var oText = formID.getElementsByTagName("TEXTAREA")
+	n = oText.length;
+	for(i = 0; i < n; i++)
+		if (oText[i].className == "required" && oText[i].value == "")
+		{
+			alert ("Please enter all the required fields");
+			oText[i].focus();
+			return 0;	
+		}
+	
+	
+	
+	return 1;
+}
+
+
+
+</script>
+
+	
+		<title>Palm, Pocket PC, Symbian, Windows Smartphone software and games</title>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	<body bgcolor="#FFFFFF" topmargin="0">
+		<table border="0" width="780" cellspacing="0" cellpadding="0" id="Table1" align="center">
+  <tbody><tr>
+    <td width="100%" align="center">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" id="Table2">
+        <tbody><tr>
+          <td width="60%"><a href="home.asp"><img src="images/logo.gif" border="0" align="absBottom"></a></td>
+          <td class="small" nowrap=""> <a href="https://www.mobihand.com/cart1.asp?posid=1">My Cart</a>: 
+<font class="cartcontents">
+$0.00 (0 item) </font>
+
+	<select name="courencyCode" class="cartcontents" onchange="javascript:location.href = '/privacy.asp?ccode='+this.value">
+	
+<option value="USD" selected="">$</option>
+<option value="CAD">CAD</option>
+<option value="AUD">A$</option>
+<option value="SGN">SGD</option>
+<option value="HKD">HK$</option>
+<option value="JPY">¥</option>
+<option value="GBP">£</option>
+<option value="EUR">€</option>
+<option value="DKN">DKK</option>
+<option value="NZD">NZ$</option>
+<option value="NKN">NOK</option>
+<option value="SAR">R</option>
+<option value="SKN">SEK</option>
+<option value="SFR">SF</option>
+<option value="BRR">R$</option>
+<option value="CSK">Kč</option>
+</select>
+ l <a href="myaccount.asp">MobiPass Account</a> l <a href="support.asp">Customer Support</a> l <a href="http://mobile.mobihand.com">Mobile l </a><a href="rssfeed.asp"><img src="https://www.mobihand.com/images/xml.gif" border="0"> </a><a href="rssfeed.asp">Store Feeds</a></td>
+          </tr>
+      </tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" id="Table2">
+            <tbody><tr> 
+                <td width="50"></td>
+                <td valign="top" class="tabhome" width="11"><img height="38" src="images/tabs/tableft.gif" width="11"></td>
+                <td class="tabhomecenter" nowrap="nowrap" align="middle"><a href="home.asp" class="linkcenter">Home</a></td> 
+                <td valign="top" class="tabhome" width="11"><img height="38" src="images/tabs/tabright.gif" width="11"></td>
+
+                <td valign="top" class="tabneutral" width="11"><img height="38" src="images/tabs/tableft.gif" width="11"></td>
+                <td class="tabneutralcenter" nowrap="nowrap" align="middle"><a href="platformMain.asp?platform=1" class="linkcenter2">Palm OS Software</a></td>
+                <td valign="top" class="tabneutral" width="11"><img height="38" src="images/tabs/tabright.gif" width="11"></td>
+
+                <td valign="top" class="tabneutral" width="11"><img height="38" src="images/tabs/tableft.gif" width="11"></td>
+                <td class="tabneutralcenter" align="center" valign="middle"><a href="platformMain.asp?platform=2" class="linkcenter2">Pocket PC Software</a></td>
+                <td valign="top" class="tabneutral" width="11"><img height="38" src="images/tabs/tabright.gif" width="11"></td>
+
+                <td valign="top" class="tabneutral" width="11"><img height="38" src="images/tabs/tableft.gif" width="11"></td>
+                <td class="tabneutralcenter" align="center" valign="middle"><a href="platformMain.asp?platform=3" class="linkcenter2">Windows Mobile Smartphone Software</a></td>
+                <td valign="top" class="tabneutral" width="11"><img height="38" src="images/tabs/tabright.gif" width="11"></td>
+
+                <td valign="top" class="tabneutral" width="11"><img height="38" src="images/tabs/tableft.gif" width="11"></td>
+                <td class="tabneutralcenter" align="center" valign="middle"><a href="platformMain.asp?platform=4" class="linkcenter2">Symbian Software</a></td>
+                <td valign="top" class="tabneutral" width="11"><img height="38" src="images/tabs/tabright.gif" width="11"></td>
+
+                <td valign="top" class="tabneutral" width="11"><img height="38" src="images/tabs/tableft.gif" width="11"></td>
+                <td class="tabneutralcenter" align="center" valign="middle"><a href="platformMain.asp?platform=5" class="linkcenter2">BlackBerry Software</a></td>
+                <td valign="top" class="tabneutral" width="11"><img height="38" src="images/tabs/tabright_end.gif" width="11"></td>
+
+                <td width="50"></td>
+
+
+            </tr>
+        </tbody>
+    </table>
+</td>
+  </tr>
+  <tr>
+    <td align="center" height="28" valign="middle" class="tabhome">
+    
+    
+
+
+    </td>
+  </tr> 
+  <tr>
+    <td valign="middle" align="center" class="home">
+
+<table cellspacing="0" cellpadding="2" width="100%">
+<form method="get" action="home.asp" name="searchform" id="Form1"></form>
+
+		<tbody><tr><td align="right">
+	<select name="platform" id="Select1" class="search">
+		<option value="0" selected="">Select OS</option>
+		
+		<option value="1">Palm OS Software</option>
+		
+		<option value="2">Pocket PC Software</option>
+		
+		<option value="3">Windows Smartphone</option>
+		
+		<option value="4">Symbian OS Software</option>
+		
+		<option value="5">BlackBerry Software</option>
+		
+		<option value="-1">Don't Know</option>
+	</select>
+
+			</td>
+	
+		  <td>
+				<input type="text" name="sString" size="13" id="ssearch"> 
+                <input type="submit" name="submit" class="buttonsubmit" value="Go">
+</td>
+		</tr>
+
+</tbody></table>
+		
+</td>
+  </tr>
+ <tr>
+    <td valign="bottom" height="20" align="left">
+<span class="breadcrumb">
+<a class="breadcrumb" href="Home.asp">Store Home</a><a>
+</a></span><a>
+<br>
+
+</a></td>
+  </tr>
+ </tbody></table>
+		<br>
+		<table width="780" cellpadding="0" cellspacing="0" border="0" id="Table7" align="center">
+			<tbody><tr valign="top">
+				<td width="174">
+				<table border="0" width="174" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td class="bgbox"><img src="images/corner_t_left.gif" alt=""></td>
+					<td width="166" class="bgbox" style="border-top-color:#D7D7D7; border-top-style:solid; border-top-width:1px;"><img src="/clear.gif" height="1" alt=""></td>
+					<td class="bgbox"><img src="images/corner_t_right.gif"></td>
+				</tr>
+				<tr>
+					<td class="bgbox" style="border-left-color:#D7D7D7; border-left-style:solid; border-left-width:1px;"><img src="/clear.gif" height="1" alt=""></td>
+					<td class="bgbox">
+						<table width="100%" cellspacing="6" class="normal">
+						<tbody><tr><td>
+
+<font class="header">My Devices</font>
+<br>
+
+
+
+<script language="JavaScript" type="text/JavaScript">
+	function openSelectDevice(url)
+	{
+		    wwin=window.open(url,'wwin','width=400,height=600,resizable=1,scrollbars=1,menubar=0,toolbars=0,titlebar=0,statusbar=0,top=5,left=5');
+		    wwin.focus();
+	}
+	</script>
+
+<table cellpadding="2" cellspacing="0" id="Table14" width="100%" class="mydevices">
+
+	<tbody><tr><td align="center"><img src="http://www.mobihand.com/images/nodevice.gif"><br><br>
+		Shop for your device
+	</td></tr>
+
+</tbody></table>
+<center>
+<select name="manId" onchange="javascript: if (this.value != '0') window.location.href = 'home.asp?do=add&amp;manId=' + this.value;" class="choosedevice">
+<option selected="" value="0">Select Manufacturer</option>
+
+	<option value="100">Acer</option>
+	
+	<option value="138">AnexTEK</option>
+	
+	<option value="136">Arima</option>
+	
+	<option value="131">Assus</option>
+	
+	<option value="101">Audiovox</option>
+	
+	<option value="137">BenQ</option>
+	
+	<option value="102">Casio</option>
+	
+	<option value="103">Dell</option>
+	
+	<option value="132">Dopod</option>
+	
+	<option value="104">Fujitsu</option>
+	
+	<option value="105">Garmin</option>
+	
+	<option value="106">GSL</option>
+	
+	<option value="107">Handspring</option>
+	
+	<option value="108">Hitachi</option>
+	
+	<option value="109">HP</option>
+	
+	<option value="110">HTC</option>
+	
+	<option value="147">i-mate</option>
+	
+	<option value="111">Kyocera</option>
+	
+	<option value="135">Lenovo</option>
+	
+	<option value="112">Mexmal</option>
+	
+	<option value="113">MiTAC</option>
+	
+	<option value="114">Motorola</option>
+	
+	<option value="115">NEC</option>
+	
+	<option value="116">Nokia</option>
+	
+	<option value="117">O2</option>
+	
+	<option value="118">Orange</option>
+	
+	<option value="119">Palm</option>
+	
+	<option value="134">Panasonic</option>
+	
+	<option value="120">Razor</option>
+	
+	<option value="133">RIM</option>
+	
+	<option value="121">Samsung</option>
+	
+	<option value="122">Sendo</option>
+	
+	<option value="123">Siemens</option>
+	
+	<option value="124">Sony</option>
+	
+	<option value="125">Sony Ericsson</option>
+	
+	<option value="126">T-Mobile</option>
+	
+	<option value="127">Tapwave</option>
+	
+	<option value="128">Toshiba</option>
+	
+	<option value="129">ViewSonic</option>
+	
+
+</select>
+</center>
+
+<br>
+
+<font class="header">Customer Support</font>
+<br><br>
+<a href="support.asp">Customer Support</a>
+<br>
+<a href="contactsupport.asp">Contact Support</a>
+<br>
+<a href="returns.asp">Return Policy</a>
+<br>
+<a href="privacy.asp">Privacy Policy</a>
+
+						</td></tr>
+						</tbody></table>
+					</td>
+					<td class="bgbox" style="border-right-color:#D7D7D7; border-right-style:solid; border-right-width:1px;"><img src="/clear.gif" height="1" alt=""></td>
+				</tr>
+				<tr>
+					<td class="bgbox"><img src="images/corner_b_left.gif" alt=""></td>
+					<td width="166" class="bgbox" style="border-bottom-color:#D7D7D7; border-bottom-style:solid; border-bottom-width:1px;"><img src="/clear.gif" height="1" alt=""></td>
+					<td class="bgbox"><img src="images/corner_b_right.gif"></td>
+				</tr>
+			</tbody></table>
+	
+				</td>
+				<td width="10">&nbsp;</td>
+				<td>
+					<table class="normal" id="Table9" cellspacing="0" cellpadding="3" width="100%">
+						<tbody><tr>
+							<td>
+							
+						<table width="100%" border="0" cellspacing="0" cellpadding="0" class="privacy">
+												<tbody><tr>
+													<td>
+<b>What This Privacy Policy Covers</b>
+<br><br>
+This policy covers how MobiHand treats personal information that MobiHand collects and receives, including information related to your past use of MobiHand products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+<br><br>
+This policy does not apply to the practices of companies that MobiHand does not own or control, or to people that MobiHand does not employ or manage. 
+<br><br>
+<b>Information Collection and Use</b>
+<br><b>General</b> 
+<br><br>
+MobiHand collects personal information when you register with MobiHand, when you use or buy MobiHand products or services, when you visit MobiHand pages or the pages of certain MobiHand partners, and when you enter promotions or sweepstakes. MobiHand may combine information about you that we have with information we obtain from business partners or other companies. 
+<br><br>
+When you register we ask for information such as your name, email address, zip code, occupation, industry, and personal interests. Once you register with MobiHand and sign in to our services, you are not anonymous to us. 
+<br><br>MobiHand collects information about your transactions with us and with some of our business partners. MobiHand automatically receives and records information on our server logs from your browser, including your IP address, MobiHand cookie information, and the page you request. 
+<br><br>
+MobiHand uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+<br><br>
+MobiHand does not rent, sell, or share personal information about you with other people or companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+<br><br>
+Many downloadable software applications that we sell require the software developers to provide the customer with a registration code to convert trial versions into full versions. In these cases, we must provide the software developers with relevant customer information in order for them to generate a registration code and email it to the customer. Although we strongly encourage software developers to follow strict privacy policies, we cannot be responsible for the privacy practices that each of the software companies follow. If you are concerned about the privacy policy of a certain developer or software company, you may contact them directly or visit their individual web sites.
+<br><br>
+We provide the information to trusted partners who work on behalf of or with MobiHand under confidentiality agreements. These companies may use your personal information to help MobiHand communicate with you about offers from MobiHand and our marketing partners. However, these companies do not have any independent right to share this information. 
+<br><br>
+We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
+<br><br>
+We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of MobiHand's terms of use, or as otherwise required by law. 
+<br><br>
+We transfer information about you if MobiHand is acquired by or merged with another company. In this event, MobiHand will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+<br><br>
+MobiHand does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+<br><br>
+<b>Cookies</b>
+<br><br>MobiHand may set and access MobiHand cookies on your computer. Cookies are small information files stored by your browser on your hard drive that allow us to provide advanced features such as content and shopping cart personalization. The cookies we use do not contain any personal information. If you wish, you can change your browser settings to disable cookies, but please note that cookies must be enabled on your browser in order to make a purchase at our web site.
+<br><br>
+<b>Your Ability to Edit and Delete Your Account Information and Preferences</b>
+ <br><br><b>General</b>
+<br><br>
+You can edit your MobiHand Account Information, including your marketing preferences, at any time. 
+New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
+<br><br>We reserve the right to send you certain communications relating to the MobiHand service, such as service announcements or administrative messages, that are considered part of your MobiHand account, without offering you the opportunity to opt-out of receiving them. 
+<br><br>
+<b>Confidentiality and Security</b> 
+<br><br>
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+<br><br>
+<b>Changes to this Privacy Policy</b>
+<br><br>MobiHand may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your MobiHand account or by placing a prominent notice on our site. 
+<br><br>
+<b>Questions and Suggestions</b>
+
+<br><br>
+
+If you have any questions and comments about our Privacy Policy please contact our <a href="contactsupport.asp">customer support</a>.
+<br><br>
+Effective Date: November 15,2004 
+
+
+											</td>
+												</tr>
+											</tbody></table>
+
+										
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		<br clear="all">
+		<table border="0" width="780" cellpadding="1" cellspacing="0" id="Table53" align="center">
+			<tbody><tr>
+				<td>
+					<br>
+<table width="780" border="0" cellspacing="0" cellpadding="2" class="small" align="center">
+	<tbody><tr>
+		<td align="center">
+<a href="home.asp">Home</a> | 
+<a href="http://corporate.mobihand.com">About Us</a> | 
+<a href="http://corporate.mobihand.com/business1.asp">Software Developers</a> | 
+<a href="privacy.asp">Privacy Policy</a><br><br>
+Copyright © 2005 MobiHand, Inc. All rights reserved. MobiHand is a trademark of MobiHand, Inc. 
+			</td>
+		</tr>
+</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+	
+
+</body></html>
