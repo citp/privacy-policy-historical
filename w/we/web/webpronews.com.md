@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webpronews.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203191705id_/http%3A//www.webpronews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpronews.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212145603id_/http%3A//www.webpronews.com/privacy.html) for the most accurate reproduction.*
 
 # WebProNews Privacy Policy - Breaking eBusiness News
 
