@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2005-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050516003727id_/http%3A//www.ontrack.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212112408id_/http%3A//www.ontrack.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
