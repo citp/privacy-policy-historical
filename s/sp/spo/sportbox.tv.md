@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportbox.tv privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306035724id_/http%3A//www.sportbox.tv/football/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportbox.tv privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212145926id_/http%3A//www.sportbox.tv/privacy.php) for the most accurate reproduction.*
 
-# SPORTBOX.tv | Football Fixtures
+# 
 
 **Privacy**
 
