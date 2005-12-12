@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gazette.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403105527id_/http%3A//www.gazette.net/gazetteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazette.net privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212155709id_/http%3A//www.gazette.net/livepages/2.shtml) for the most accurate reproduction.*
 
-# Privacy statement for Gazette.Net
+# Gazette.Net
 
 **Privacy statement for Gazette.Net**
 
@@ -25,5 +25,4 @@ If you are having trouble with our Web site, please contact [editor@gazette.net]
 
 **Questions and comments**   
 If you have questions or comments on this privacy policy, please e-mail [editor@gazette.net](mailto:editor@gazette.net).   
-  
 
