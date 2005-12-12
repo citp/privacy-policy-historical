@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ip2location.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403181327id_/http%3A//www.ip2location.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip2location.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212132409id_/http%3A//www.ip2location.com/privacy.htm) for the most accurate reproduction.*
 
 # Map IP Address to Geographical Location for the Internet - IP2Location™
 
