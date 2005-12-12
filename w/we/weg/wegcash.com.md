@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wegcash.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171952id_/http%3A//wegcash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegcash.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212100846id_/http%3A//wegcash.com/privacy.html) for the most accurate reproduction.*
 
 # WEGCash.com
 
-([Click here](https://web.archive.org/web/20050403171952id_/http%3A//wegcash.com/terms.html)) to view our terms and conditions. 
+([Click here](https://web.archive.org/web/20051212100846id_/http%3A//wegcash.com/terms.html)) to view our terms and conditions. 
 
 The following is our privacy statement regarding our gathering and dissemination of information practices for this website.
 
