@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ewatches.com privacy policy that was archived on 2005-03-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050318214941id_/http%3A//www.ewatches.com/Information/PrivacySecurity.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ewatches.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212094109id_/http%3A//www.ewatches.com/Information/PrivacySecurity.html) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="generator" content="ShopSite Pro 7.1.4.1 (data - PageTemplate.html)">
@@ -8,690 +8,105 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<meta name="revisit-after" content="3 days">
+
 <meta name="robots" content="index,follow">
-<link rel="schema.dc" href="http://dublincore.org/2002/08/13/dces">
-<meta name="dc.title" lang="en" content="eWatches - Privacy &amp; Security Policies">
-<meta name="dc.subject" lang="en" content="">
-<meta name="dc.description" lang="en" content=" ">
-<meta name="dc.identifier" content="http://www.eWatches.com">
-<meta name="dc.creator" content="eWatches.com ">
-<meta name="dc.contributor" content="eboz.com">
-<link href="/ewatches.css" rel="stylesheet" type="text/css">
-<script language="javascript">
-function DisplayMiniCart(name,style) {
-  var cookies=document.cookie;  //read in all cookies
-  var start = cookies.indexOf(name + "=");  //set start to beginning of ss_cart cookie
-  var cartvalues = "";
-  var linecount = 0;
-  var start1;
-  var end1;
-  var tmp;
 
-  // Start Output
-  document.write("<div class=\"MiniCart\">\n");
+<link href="http://www.ewatches.com/ewatches.css" rel="stylesheet" type="text/css">
+<script language="JavaScript1.2" src="http://www.ewatches.com/minicart.js"></script>
+<script language="JavaScript" type="Text/Javascript">
 
-  if (style == "Detail")
+<!--
+
+ var urlAddress = "http://www.ewatches.com/Information/PrivacySecurity.html";
+ var pageName = "eWatches - Privacy & Security Policies";
+function addToFavorites()
+ {
+  if (window.external)
   {
-    document.write("<table class=\"MiniCart\" border=\"0\">\n");
-    document.write("<tr>\n");
-    document.write("<th class=\"MiniCart\" colspan=\"3\">");
-    document.write("<a class=\"MiniCart\" href=\"/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&function=show\">");
-    document.write("Your Shopping Cart");
-    document.write("</a></th></tr>");
-  }
-  else if (style == "Summary")
-  {
-    document.write("<a class=\"MiniCart\" href=\"/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&function=show\">");
-    document.write("Your Shopping Cart");
-    document.write("</a>");
+   window.external.AddFavorite(urlAddress,pageName)
   }
   else
-  {
-    document.write("<a class=\"MiniCart\" href=\"/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&function=show\">");
-    document.write("<img src=\"http://www.ewatches.com/media/themesmedia/cart-white.gif\" border=\"0\" name=\"cart\" align=\"top\">");
-    document.write("</a>&nbsp;");
+  { 
+   alert("To add this page to your bookmarks, click Bookmarks>Add Bookmark");
   }
-
-  if (start == -1)  //No cart cookie
-  {
-    if (style == "Detail")
-    {
-      document.write("</table>\n");
-    }
-    else if ((style == "ItemCount") || (style == "Subtotal"))
-    {
-      document.write("<a class=\"MiniCart\" href=\"/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&function=show\">");
-      document.write("0 Items");
-      document.write("</a>&nbsp;");
-      document.write("</div>\n");
-    }
-    else
-    {
-      document.write("</div>\n");
-    }      
-  }
-  else   //cart cookie is present
-  {
-    start = cookies.indexOf("=", start) +1;  
-    var end = cookies.indexOf(";", start);  
-    if (end == -1)
-    {
-      end = cookies.length;
-    }
-    cartvalues = unescape(cookies.substring(start,end)); //read in just the cookie data
-
-    start = 0;
-    while ((start = cartvalues.indexOf("|", start)) != -1)
-    {
-      start++;
-      end = cartvalues.indexOf("|", start);
-      if (end != -1)
-      {
-        linecount++;
-
-/* none of the styles use the number of line items
-        if ((linecount == 1) && (style != "Detail"))  // Number of Line Items
-        {
-          tmp = cartvalues.substring(start,end);
-          colon = tmp.indexOf(":", 0);
-          if ((style == "ItemCount") || (style == "Subtotal"))
-          {
-            document.write("<a class=\"MiniCart\" href=\"/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&function=show\">");
-          }
-
-          if (style == "Summary")
-          {
-            document.write("<br>Contains <b>");
-          } 
-          document.write(tmp.substring(colon+1,end - start));
-          if (style == "Summary")
-          {
-            document.write("</b>");
-          }
-          if ((tmp.substring(colon+1,end - start)) == 1 )
-          {
-            document.write(" Item");
-          }
-          else
-          {
-            document.write(" Items");
-          }
-          if (style == "ItemCount")
-          {
-            document.write("</a>");
-          } 
-          else if (style == "Subtotal")
-          {
-            document.write(": ");
-          } 
-          else if (style == "Summary")
-          {
-            document.write("<br>Subtotal: <b>");
-          }
-        }
-*/
-
-        if ((linecount == 2) && (style != "Detail"))  // Total Quantity of Items
-        {
-          tmp = cartvalues.substring(start,end);
-          colon = tmp.indexOf(":", 0);
-          if ((style == "ItemCount") || (style == "Subtotal"))
-          {
-            document.write("<a class=\"MiniCart\" href=\"/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&function=show\">");
-          }
-
-          if (style == "Summary")
-          {
-            document.write("<br>Contains <b>");
-          } 
-          document.write(tmp.substring(colon+1,end - start));
-          if (style == "Summary")
-          {
-            document.write("</b>");
-          }
-          if ((tmp.substring(colon+1,end - start)) == 1 )
-          {
-            document.write(" Item");
-          }
-          else
-          {
-            document.write(" Items");
-          }
-          if (style == "ItemCount")
-          {
-            document.write("</a>");
-          } 
-          else if (style == "Subtotal")
-          {
-            document.write(": ");
-          } 
-          else if (style == "Summary")
-          {
-            document.write("<br>Subtotal: <b>");
-          }
-        }
-
-
-
-
-        if (linecount == 3)  // Product Subtotal
-        {
-          if ((style == "Subtotal") || (style == "Summary"))
-          {
-            tmp = cartvalues.substring(start,end);
-            colon = tmp.indexOf(":", 0);
-            document.write(tmp.substring(colon+1,end - start));
-            if (style == "Summary") 
-            {
-              document.write("</b>");
-            }
-            else
-            {
-            document.write("</a>");
-            }
-          }
-          else if (style == "Detail")
-          {
-            start1 = start;
-            end1 = end;
-            document.write("<tr><td class=\"MiniCartHead\">Qty</td>");
-            document.write("<td class=\"MiniCartHead\">Product</td>");
-            document.write("<td class=\"MiniCartHead\">Price</td></tr>\n");
-          }
-        }
-
-        if ((linecount > 3) && (style == "Detail"))  // individual products
-        {
-          tmp = cartvalues.substring(start,end);
-          colon = tmp.indexOf(":", 0);
-          document.write("<tr>");
-          document.write("<td class=\"MiniCartQty\">");
-          document.write(tmp.substring(0,colon));
-          document.write("</td><td class=\"MiniCartProduct\">");
-          colon2 = tmp.indexOf(":", colon+1);
-          document.write(tmp.substring(colon2+1,end - start));
-          document.write("</td><td class=\"MiniCartPrice\">");
-          document.write(tmp.substring(colon+1,colon2));
-          document.write("</td></tr>\n");
-        }
-        start = end;
-      }
-      else
-        break;
-    } // end while loop
-
-    //close minicart HTML
-    if (style != "Detail")
-    {
-      document.write("</div>\n");
-    }    else
-    {
-      document.write("<tr>");
-      document.write("<td class=\"MiniCartSubtotalText\" colspan=\"2\">Subtotal</td>");
-      document.write("<td class=\"MiniCartSubtotal\">");
-      tmp = cartvalues.substring(start1,end1);
-      colon = tmp.indexOf(":", 0);
-      document.write(tmp.substring(colon+1,end1 - start1));
-      document.write("</td>");
-      document.write("</tr>");
-      document.write("</table>\n");
-      document.write("</div>\n");
-    }
-  }
-}
-
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-}
-//-->
+ }
+-->
+</script>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-58681-4";
+urchinTracker();
 </script>
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<!--BEGIN ROI TRACKING Code-->
-<script language="javascript" src="http://roi.gotoast.com/roi/track.asp?ROIID=932841107284116"></script>
-<script language="javascript">
-<!--
-if (typeof(ROIID) + '' != 'undefined')
-{
-	TrackEvent('LandingPage', 0);
-}
-//-->
-</script>
-<!--END ROI TRACKING Code-->
+
 <h1>eWatches - Privacy &amp; Security Policies</h1>
- <table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td><img src="/images/spacer.gif" width="159" height="1"></td>
-    <td width="100%"><img src="/images/spacer.gif" width="396" height="1"></td>
-    <td><img src="/images/spacer.gif" width="95" height="1"></td>
-    <td><img src="/images/spacer.gif" width="54" height="1"></td>
+ 
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td><img src="http://www.ewatches.com/images/spacer.gif" width="159" height="1"></td>
+    <td width="100%"><img src="http://www.ewatches.com/images/spacer.gif" width="396" height="1"></td>
+    <td><img src="http://www.ewatches.com/images/spacer.gif" width="95" height="1"></td>
+    <td><img src="http://www.ewatches.com/images/spacer.gif" width="54" height="1"></td>
   </tr>
-  <tr>
+  <tr> 
     <td colspan="4"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-        
         <tbody><tr> 
-          <td><img src="/images/spacer.gif" width="12" height="1"></td>
-          <td><img src="/images/spacer.gif" width="111" height="1"></td>
-          <td><img src="/images/spacer.gif" width="36" height="1"></td>
-          <td width="100%"><img src="/images/spacer.gif" width="1" height="1"></td>
-          <td><img src="/images/spacer.gif" width="105" height="1"></td>
-          <td><img src="/images/spacer.gif" width="150" height="1"></td>
+          <td><img src="http://www.ewatches.com/images/spacer.gif" width="12" height="1"></td>
+          <td><img src="http://www.ewatches.com/images/spacer.gif" width="111" height="1"></td>
+          <td><img src="http://www.ewatches.com/images/spacer.gif" width="36" height="1"></td>
+          <td width="100%"><img src="http://www.ewatches.com/images/spacer.gif" width="1" height="1"></td>
+          <td><img src="http://www.ewatches.com/images/spacer.gif" width="105" height="1"></td>
+          <td><img src="http://www.ewatches.com/images/spacer.gif" width="150" height="1"></td>
           <td></td>
         </tr>
         <tr> 
-          <td colspan="3"> <a href="/"><img src="/images/ewatches_01.gif" alt="eWatches.com" width="159" height="71" border="0"></a></td>          <td align="center" class="GoldLinksTopArea"> &gt;&gt; <a href="/Information/Shipping.html">FREE SHIPPING!</a> | <a href="/Information/Sizing.html">FREE SIZING</a>
- | <a href="/Information/PriceGuarantee.html">LOW PRICE GUARANTEE</a> &lt;&lt;</td><td colspan="2"><img src="/images/ewatches_03.jpg" alt="Seiko Watch Picture" width="255" height="71"></td>
-          <td><img src="/images/spacer.gif" width="1" height="71"></td>
-        </tr>
-      </tbody></table> </td>
-  </tr>
-  <tr align="right" bgcolor="#CDD4E5">
-    <td colspan="4" class="BrandNameMenu"><img src="/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="/AllBrands.html"><span class="BrandNameMenu-Gold">TOP BRANDS</span></a><img src="/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="/Bulova/index.html">BULOVA</a><img src="/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="/Citizen/index.html">CITIZEN</a><img src="/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="/Hamilton/index.html">HAMILTON</a><img src="/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="/Luminox/index.html">LUMINOX</a><img src="/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="/Seiko/index.html">SEIKO</a><img src="/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="/Skagen/index.html">SKAGEN</a><img src="/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="/SwissArmy/index.html">SWISS ARMY</a><img src="/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="/Tissot/index.html">TISSOT</a><img src="/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="/Specials.html">SPECIALS!</a>&nbsp; </td></tr>
-  <tr>
-    <td colspan="4"><img src="/images/slice-dice_03.gif" width="704" height="1"></td>
-  </tr>
-  <tr bgcolor="#002675">
-    <td colspan="4"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td class="WhiteTopMenuItems"><a href="/">Home</a> &gt; Information Privacy &amp; Security</td>
-          <td><div align="right"><span class="TopMenuItems"><a href="/">HOME</a> 
-              | <a href="/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&amp;function=show">SHOPPING CART</a> | <a href="/Information/Resources.html">HELP CENTER</a></span></div></td>
-        </tr>
+          <td colspan="3"> <a href="http://www.ewatches.com/"><img src="http://www.ewatches.com/images/ewatches_01.gif" alt="eWatches.com" width="159" height="71" border="0"></a></td>
+          <td align="center" class="GoldLinksTopArea"> &gt;&gt; <a href="http://www.ewatches.com/Information/Shipping.html">FREE 
+            SHIPPING!</a> | <a href="http://www.ewatches.com/Information/Sizing.html">FREE SIZING</a> 
+            | <a href="http://www.ewatches.com/Information/PriceGuarantee.html">LOW PRICE GUARANTEE</a> 
+            &lt;&lt;<br><a href="javascript:addToFavorites()">Bookmark This Page</a></td>
+          <td colspan="2"><img src="http://www.ewatches.com/images/ewatches_03.jpg" alt="Watches" width="255" height="71"></td>
+           
+          <td><img src="http://www.ewatches.com/images/spacer.gif" width="1" height="71"></td>        </tr>
       </tbody></table></td>
-  </tr>
-  <tr>
-    <td><img src="/images/slice-dice_05.gif" width="159" height="1"></td>
-    <td colspan="2"><img src="/images/slice-dice_06.gif" width="491" height="1"></td>
-    <td><img src="/images/slice-dice_07.gif" width="54" height="1"></td>
-  </tr>
-  <tr>
-    <td width="159" valign="top" bgcolor="#F0F3FA"><form action="http://www.ewatches.com/cgi/sc/productsearch.cgi?storeid=*186ee091dd1ff42e0266be864192" method="post">
-
-<input type="hidden" name="storeid" value="*186ee091dd1ff42e0266be864192"><table width="159" border="0" cellpadding="0" cellspacing="0">
-
-        <tbody><tr>
-          <td><img src="/images/spacer.gif" height="1" width="12"></td>
-          <td><img src="/images/spacer.gif" height="1" width="100%"></td>
-          <td><img src="/images/spacer.gif" height="1" width="36"></td>
-        </tr>
-        <tr>
-          <td colspan="3"><img src="/images/ewatches_07.gif" width="159" height="1"></td>
-        </tr>
-        <tr>
-          <td width="12" rowspan="3" valign="middle" bgcolor="#F0F3FA"><img src="/images/ewatches_10.gif" alt="GoldTriangle" width="12" height="62"></td>
-          <td colspan="2" valign="top" bgcolor="#F0F3FA"><img src="/images/ewatches_11.gif" alt="Search eWatches.com" width="147" height="21"></td>
-        </tr>
-        <tr>
-          <td align="right" valign="bottom" bgcolor="#F0F3FA">
-<input type="text" class="SearchBox" name="search_field" size="14" value=""></td>
-          <td width="36" align="right" valign="bottom" bgcolor="#F0F3FA"><input type="image" src="/images/ewatches_15.gif" border="0" width="36" height="25"></td>
-        </tr>
-        <tr>
-          <td colspan="2" align="right" valign="top" bgcolor="#F0F3FA"><img src="/images/ewatches_16.gif" width="147" height="16"></td>
-        </tr>
-        <tr>
-          <td colspan="3" valign="top" bgcolor="#F0F3FA"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-        </tr>
-      </tbody></table>
-</form><a href="/AllBrands.html"><img src="/images/ewatches_17.gif" alt="Shop by Brand" width="159" height="19" border="0"></a> 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-		 			 
-
-<tbody><tr>
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Accutron/index.html">Accutron Watches by Bulova</a></td>
-
-</tr>
-
-<tr>
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 
-
-<tr>
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Bulova/index.html">Bulova Watches</a></td>
-
-</tr>
-
-<tr>
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 
-
-<tr>
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Chase-Durer/index.html">Chase-Durer Watches</a></td>
-
-</tr>
-
-<tr>
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 
-
-<tr>
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Citizen/index.html">Citizen Watches</a></td>
-
-</tr>
-
-<tr>
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 
-
-<tr>
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/ESQ/index.html">ESQ Watches by Movado</a></td>
-
-</tr>
-
-<tr>
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 
-
-<tr> 
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Hamilton/index.html">Hamilton Watches</a></td>
-
-</tr>
-
-<tr> 
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 
-
-<tr>
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Luminox/index.html">Luminox Watches</a></td>
-
-</tr>
-
-<tr>
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 <tr>
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Seiko/index.html">Seiko Watches</a></td>
-</tr>
-<tr>
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-		 			 
-
-<tr>
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Skagen/index.html">Skagen Watches</a></td>
-
-</tr>
-
-<tr>
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 <tr> 
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Specials.html">Special Deals and Closeouts!</a></td>
-</tr>
-<tr> 
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-		 			 
-
-<tr> 
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Suunto/index.html">Suunto Wrist-Top Computers</a></td>
-
-</tr>
-
-<tr> 
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 
-
-<tr> 
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/SwissArmy/index.html">Swiss Army Watches</a></td>
-
-</tr>
-
-<tr> 
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 
-
-<tr> 
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/TechnoMarine/index.html">TechnoMarine Watches</a></td>
-
-</tr>
-
-<tr> 
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 
-
-<tr> 
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Tissot/index.html">Tissot Watches</a></td>
-
-</tr>
-
-<tr> 
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 
-
-<tr>
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/TommyBahama/index.html">Tommy Bahama Watches</a></td>
-
-</tr>
-
-<tr>
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 
-
-<tr>
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Torgoen/index.html">Torgoen Watches</a></td>
-
-</tr>
-
-<tr>
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 			 
-
-<tr>
-
-  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Yes/index.html">Yes Watches</a></td>
-
-</tr>
-
-<tr>
-
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-
-</tr>
-
-		 	 </tbody></table>
-<br><a href="/Features.html"><img src="/images/ewatches_22.gif" alt="Shop by Features" width="159" height="27" border="0"></a> 
-      <table width="159" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-  <td valign="top" class="MenuItems"><a href="/Automatic.html">Automatic Watches</a></td>
-</tr>
-<tr> 
-  <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-<tr> 
-  <td valign="top" class="MenuItems"><a href="/Aviation.html">Aviation Watches</a></td>
-</tr>
-<tr> 
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-<tr> 
-  <td valign="top" class="MenuItems"><a href="/Chronograph.html">Chronograph Watches</a></td>
-</tr>
-<tr> 
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-<tr> 
-  <td valign="top" class="MenuItems"><a href="/Dive.html">Dive Watches</a></td>
-</tr>
-<tr> 
-  <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-<tr> 
-  <td valign="top" class="MenuItems"><a href="/FitnessTraining.html">Fitness Training Watches</a></td>
-</tr>
-<tr> 
-  <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-<tr> 
-  <td valign="top" class="MenuItems"><a href="/Gold.html">Gold Watches</a></td>
-</tr>
-<tr> 
-  <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-<tr> 
-  <td valign="top" class="MenuItems"><a href="/Military.html">Military Watches</a></td>
-</tr>
-<tr> 
-  <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-<tr> 
-  <td valign="top" class="MenuItems"><a href="/Racing.html">Racing Watches</a></td>
-</tr>
-<tr> 
-  <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-<tr> 
-  <td valign="top" class="MenuItems"><a href="/Sailing.html">Sailing Watches</a></td>
-</tr>
-<tr> 
-  <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-<tr> 
-  <td valign="top" class="MenuItems"><a href="/SkiingSnowboard.html">Skiing / Snowboard Watches</a></td>
-</tr>
-<tr> 
-  <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-<tr> 
-  <td valign="top" class="MenuItems"><a href="/Titanium.html">Titanium Watches</a></td>
-</tr>
-<tr> 
-  <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-<tr> 
-  <td><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-</tr>
-</tbody></table><a href="/PriceRange.html"><img src="/images/ewatches_26.gif" alt="Shop by Price" width="159" height="28" border="0"></a><font size="2" face="Arial, Helvetica, sans-serif"> 
-      <table width="159" border="0" cellspacing="0" cellpadding="0">
+  </tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr align="right" bgcolor="#CDD4E5"> 
+    <td colspan="4" class="BrandNameMenu"><img src="http://www.ewatches.com/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="http://www.ewatches.com/Blog/"><span class="BrandNameMenu-Gold">BLOG</span></a><img src="http://www.ewatches.com/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="http://www.ewatches.com/Bulova/">BULOVA</a><img src="http://www.ewatches.com/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="http://www.ewatches.com/Citizen/">CITIZEN</a><img src="http://www.ewatches.com/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="http://www.ewatches.com/Hamilton/">HAMILTON</a><img src="http://www.ewatches.com/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="http://www.ewatches.com/Luminox/">LUMINOX</a><img src="http://www.ewatches.com/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="http://www.ewatches.com/Seiko/">SEIKO</a><img src="http://www.ewatches.com/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="http://www.ewatches.com/Skagen/">SKAGEN</a><img src="http://www.ewatches.com/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="http://www.ewatches.com/SwissArmy/">SWISS      ARMY</a><img src="http://www.ewatches.com/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="http://www.ewatches.com/Tissot/">TISSOT</a><img src="http://www.ewatches.com/images/white-divider.gif" width="1" height="20" hspace="6" align="absmiddle"><a href="http://www.ewatches.com/Specials.html">SPECIALS!</a>&nbsp; 
+    </td>
+  </tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td colspan="4"><img src="http://www.ewatches.com/images/slice-dice_03.gif" width="704" height="1"></td>
+  </tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr bgcolor="#002675"> <td colspan="4"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
-          <td valign="top" class="MenuItems"><a href="/PriceUnder100.html">Under 
-            $100 </a></td>
+          <td class="WhiteTopMenuItems"><a href="http://www.ewatches.com/">Home</a> &gt; Information Privacy &amp; Security</td>
+          <td><div align="right"><span class="TopMenuItems"><a href="http://www.ewatches.com/">HOME</a> 
+              | <a href="http://www.ewatches.com/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&amp;function=show">SHOPPING 
+              CART</a> | <a href="http://www.ewatches.com/Information/Resources.html">HELP CENTER</a></span></div></td>
         </tr>
-        <tr> 
-          <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-        </tr>
-        <tr> 
-          <td valign="top" class="MenuItems"><a href="/Price100to150.html">$100 
-            - $150</a></td>
-        </tr>
-        <tr> 
-          <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-        </tr>
-        <tr> 
-          <td valign="top" class="MenuItems"><a href="/Price150to200.html">$151 
-            - $200</a></td>
-        </tr>
-        <tr> 
-          <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-        </tr>
-        <tr> 
-          <td valign="top" class="MenuItems"><a href="/Price200to300.html">$201 
-            - $300</a></td>
-        </tr>
-        <tr> 
-          <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-        </tr>
-        <tr> 
-          <td valign="top" class="MenuItems"><a href="/Price300to400.html">$301 
-            - $400</a></td>
-        </tr>
-        <tr> 
-          <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-        </tr>
-        <tr> 
-          <td valign="top" class="MenuItems"><a href="/Price400to500.html">$401 
-            - $500</a></td>
-        </tr>
-        <tr> 
-          <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-        </tr>
-        <tr> 
-          <td valign="top" class="MenuItems"><a href="/Price500to1000.html">$501 
-            - $1000</a></td>
-        </tr>
-        <tr> 
-          <td height="1" valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-        </tr>
-        <tr> 
-          <td valign="top" class="MenuItems"><a href="/Price1000plus.html">$1000+</a></td>
-        </tr>
-        <tr> 
-          <td valign="top"><img src="/images/ewatches_21.gif" width="159" height="1"></td>
-        </tr>
-      </tbody></table>
-      </font></td>
-    <td align="center" valign="top"> <span class="eWatchesContent"> </span> 
- <table width="90%" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>          <td colspan="3"><span class="eWatchesContent"> <br> <p class="MsoNormal"><font face="Arial" size="5" color="#0000A0">eWatches.com 
+      </tbody></table></td>  </tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td><img src="http://www.ewatches.com/images/slice-dice_05.gif" width="159" height="1"></td>
+    <td colspan="2"><img src="http://www.ewatches.com/images/slice-dice_06.gif" width="491" height="1"></td>
+    <td><img src="http://www.ewatches.com/images/slice-dice_07.gif" width="54" height="1"></td>
+  </tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td valign="top" bgcolor="#F0F3FA"><img src="http://www.ewatches.com/images/slice-dice_05.gif" width="159" height="1"></td>
+    <td rowspan="2" align="center" valign="top"> <span class="eWatchesContent"> 
+      </span> <table width="90%" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td colspan="3"><span class="eWatchesContent">
+
+<div align="center"><a href="http://www.ewatches.com/Information/ReturnPolicy.html" target="_blank"><img src="http://www.ewatches.com/logos/Banners/Holiday-Return-Policy.jpg" title="Holiday Return Policy" border="0"></a>
+</div>
+
+
+
+ <br>
+            <p class="MsoNormal"><font face="Arial" size="5" color="#0000A0">eWatches.com 
 Privacy &amp; Security</font></p>
 <hr><p>eWatches.com takes your <b>Privacy </b>&amp;<b> Security</b> seriously. 
 Please read the following to learn more about our privacy and security policies.
@@ -758,211 +173,660 @@ the likelihood that a security incident may occur.&nbsp; </p>
 comments feel free to contact us via
 <a href="mailto:customerservice@ewatches.com">email</a> or call us toll free 
 at 1-866-799-2824.</p>
-</span></td>
+  </span></td>
         </tr>
         <tr> 
-          <td width="12"><img src="/images/productinfo_02.gif" width="12" height="25"></td>
-          <td width="100%" bgcolor="#F0F3FA" class="BrandNameMenu"> <div align="center"><a href="/Information/Sizing.html">FREE SIZING</a>
- |  
-<a href="/Information/Shipping.html">FREE SHIPPING</a>
- | 
-<a href="/Information/Warranty.html">WARRANTY</a>
- | 
-QUESTIONS 1-866-799-2824</div></td>
-          <td width="14"><img src="/images/productinfo_04.gif" width="14" height="25"></td>
+          <td width="12"><img src="http://www.ewatches.com/images/productinfo_02.gif" width="12" height="25"></td>
+          <td width="100%" bgcolor="#F0F3FA" class="BrandNameMenu"> <div align="center"><a href="http://www.ewatches.com/Information/Sizing.html">FREE 
+              SIZING</a> | <a href="http://www.ewatches.com/Information/Shipping.html">FREE SHIPPING</a> 
+              | <a href="http://www.ewatches.com/Information/Warranty.html">WARRANTY</a> | QUESTIONS 
+              1-866-799-2824</div></td>
+          <td width="14"><img src="http://www.ewatches.com/images/productinfo_04.gif" width="14" height="25"></td>
         </tr>
-        <tr valign="top">          <td colspan="3"><span class="eWatchesContent">
-<!-- Empty field [Text2]  --><br>
-
- </span>
-            <p class="eWatchesContent"></p>
-            <span class="eWatchesContent"> 
-			 
-			</span><table cellpadding="0" cellspacing="0" border="0" width="100%">
-                          </table>
-<table width="100%" border="0" cellspacing="2" cellpadding="3">
-               
+        <tr valign="top"> 
+          <td colspan="3"><span class="eWatchesContent"> <!-- Empty field [Text2]  --><br>
+                         </span> <p class="eWatchesContent"></p>			 <table cellpadding="0" cellspacing="0" border="0" width="100%">
+              <tbody><tr align="center" valign="top">
+                <td><img src="http://www.ewatches.com/images/spacer.gif" alt="" width="160" height="1"></td>
+                <td><img src="http://www.ewatches.com/images/spacer.gif" alt="" width="160" height="1"></td>
+                <td><img src="http://www.ewatches.com/images/spacer.gif" alt="" width="160" height="1"></td>
+              </tr>              
+			  			  </tbody></table> 
+<table width="100%" border="0" cellspacing="2" cellpadding="3"> 
             </table>
-            <span class="eWatchesContent"> 
-             
-     <p class="eWatchesContent"></p>
-             
-	</span>	<a name="Information Privacy &amp; Security"></a><span class="eWatchesContent"><!-- Empty field [Text3]  --> </span><br>
-          </td>
-
+            <span class="eWatchesContent">  
+            <p class="eWatchesContent"></p>
+             </span> <a name="Information Privacy &amp; Security"></a><span class="eWatchesContent"><!-- Empty field [Text3]  --> 
+            </span><br> </td>
         </tr>
-
-            </tbody></table></td>
-    <td colspan="2" valign="top" bgcolor="#F0F3FA"> <table border="0" cellpadding="0" cellspacing="0">
-
+      </tbody></table></td>
+    <td colspan="2" rowspan="2" valign="top" bgcolor="#F0F3FA" align="right" width="150"><table border="0" cellpadding="0" cellspacing="0">
         <tbody><tr> 
-
-          <td colspan="2"><img src="/images/LoginWhiteTop.gif" width="150" height="4"></td>
-
+          <td colspan="2"><img src="http://www.ewatches.com/images/LoginWhiteTop.gif" width="150" height="4"></td>
         </tr>
-
         <tr> 
-
-          <td height="74" valign="top"><a href="/member/"><img src="/images/Login.gif" width="144" height="74" border="0"></a></td>
-
-          <td valign="top" bgcolor="#D48C00"><img src="/images/RightCurveTop.gif" width="6" height="74"></td>
-
+          <td height="74" valign="top"><a href="http://www.ewatches.com/member/"><img src="http://www.ewatches.com/images/Login.gif" width="144" height="74" border="0"></a></td>
+          <td valign="top" bgcolor="#D48C00"><img src="http://www.ewatches.com/images/RightCurveTop.gif" width="6" height="74"></td>
         </tr>
-
         <tr> 
-
-          <td height="11" valign="top"><img src="/images/ShoppingCartWhiteTop.gif" width="144" height="11"></td>
-
-          <td rowspan="3" bgcolor="#D48C00"><img src="/images/RightMenuFill.gif" width="6" height="86"></td>
-
+          <td height="11" valign="top"><img src="http://www.ewatches.com/images/ShoppingCartWhiteTop.gif" width="144" height="11"></td>
+          <td rowspan="3" bgcolor="#D48C00"><img src="http://www.ewatches.com/images/RightMenuFill.gif" width="6" height="86"></td>
         </tr>
-
         <tr> 
-
-          <td height="46" valign="top"><a href="http://www.ewatches.com/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&amp;function=show"><img src="/images/ShoppingCartIcon.gif" width="144" height="46" border="0"></a></td>
-
+          <td height="46" valign="top"><a href="http://www.ewatches.com/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&amp;function=show"><img src="http://www.ewatches.com/images/ShoppingCartIcon.gif" width="144" height="46" border="0"></a></td>
         </tr>
-
         <tr> 
+          <td valign="top" align="center" class="MiniCart"><div align="center"> 
+              <script language="JavaScript" type="text/JavaScript">DisplayMiniCart("ss_cart_0001201259","Detail");</script>
+            </div></td>
+        </tr>
+        <tr> 
+          <td height="85" valign="top"><a href="http://www.ewatches.com/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&amp;function=show"><img src="http://www.ewatches.com/images/CheckoutIcon.gif" width="144" height="85" border="0"></a></td>
+          <td bgcolor="#D48C00"><img src="http://www.ewatches.com/images/CheckoutRightMenu.gif" width="6" height="85"></td>
+        </tr>
+        <tr> 
+          <td colspan="2"><img src="http://www.ewatches.com/images/DottedBottomMenu.gif" width="150" height="1"></td>
+        </tr>
+      </tbody></table><br><a href="http://www.ewatches.com/"><img src="http://www.ewatches.com/images/ewatches_24.gif" alt="eWatches.com" width="150" height="48" border="0"></a> 
+	 <table width="150" cellpadding="0" cellspacing="0" border="0">
+		 			 <tbody><tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/AbouteWatches.html">About eWatches.com</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/Affiliate.html">Affiliate Program</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Blog.html">Blog</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/ContactUs.html">Contact eWatches.com</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/CopyrightLegal.html">Copyright and Legal</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/Testimonials.html">Customer Testimonials</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/FreeGifts.html">Free Gifts</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/Shipping.html">Free Shipping</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/Gift_Options.html">Gift Options</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/Resources.html">Help Center</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/InventoryStatus.html">Inventory Status</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Links.html">Links</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/PriceGuarantee.html">Price Guarantee</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/PrivacySecurity.html">Privacy &amp; Security</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/ReturnPolicy.html">Return Policy</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/SiteMapTEMP.html">Site Map</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/Sizing.html">Sizing your Watch</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Information/Warranty.html">Warranties</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Watch-Education.html">Watch Education</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 		<tr> 
+          <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/member/">Where's My Order?</a></td>
+        </tr>
+        <tr> 
+          <td valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="150" height="1"></td>
+        </tr>		
+		 </tbody></table>
+      <p align="center"><span class="MenuItems"><a href="http://www.bbbonline.org/cks.asp?id=10404146514341262" target="_blank"><img src="http://www.ewatches.com/logos/bbbreliability_seal.gif" width="105" height="160" border="0"></a></span><br>
+        <br>
+        <!-- GeoTrust True Site [tm] Smart Icon tag. Do not edit. -->
+        <script language="JavaScript" type="text/javascript" src="http://smarticon.geotrust.com/si.js"></script>
+        <br>
+        <br>
+        <!-- end GeoTrust Smart Icon tag -->
+	     <img src="http://www.ewatches.com/logos/bbb-visa.gif" width="150" height="18"></p>
+      <p></p>
 
-          <td valign="top" align="center" class="MiniCart"><div align="center">
-              <script language="JavaScript" type="text/JavaScript">DisplayMiniCart("ss_cart_0001201259","Detail");</script><div class="MiniCart">
-<table class="MiniCart" border="0">
-<tbody><tr>
-<th class="MiniCart" colspan="3"><a class="MiniCart" href="/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&amp;function=show">Your Shopping Cart</a></th></tr></tbody></table>
+</td>
+  </tr>
+  <tr> 
+    <td width="159" valign="top" bgcolor="#F0F3FA"><form action="http://www.ewatches.com/cgi/sc/productsearch.cgi?storeid=*186ee091dd1ff42e0266be864192" method="post">
+        <input type="hidden" name="storeid" value="*186ee091dd1ff42e0266be864192">
+        <table width="159" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr> 
+            <td><img src="http://www.ewatches.com/images/spacer.gif" height="1" width="12"></td>
+            <td><img src="http://www.ewatches.com/images/spacer.gif" height="1" width="100%"></td>
+            <td><img src="http://www.ewatches.com/images/spacer.gif" height="1" width="36"></td>
+          </tr>
+          <tr> 
+            <td colspan="3"><img src="http://www.ewatches.com/images/ewatches_07.gif" width="159" height="1"></td>
+          </tr>
+          <tr> 
+            <td width="12" rowspan="3" valign="middle" bgcolor="#F0F3FA"><img src="http://www.ewatches.com/images/ewatches_10.gif" alt="GoldTriangle" width="12" height="62"></td>
+            <td colspan="2" valign="top" bgcolor="#F0F3FA"><img src="http://www.ewatches.com/images/ewatches_11.gif" alt="Search eWatches.com" width="147" height="21"></td>
+          </tr>
+          <tr> 
+            <td align="right" valign="bottom" bgcolor="#F0F3FA"> <input type="text" class="SearchBox" name="search_field" size="14" value=""></td>
+            <td width="36" align="right" valign="bottom" bgcolor="#F0F3FA"><input type="image" src="http://www.ewatches.com/images/ewatches_15.gif" border="0" width="36" height="25"></td>
+          </tr>
+          <tr> 
+            <td colspan="2" align="right" valign="top" bgcolor="#F0F3FA"><img src="http://www.ewatches.com/images/ewatches_16.gif" width="147" height="16"></td>
+          </tr>
+          <tr> 
+            <td colspan="3" valign="top" bgcolor="#F0F3FA"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="159" height="1"></td>
+          </tr>
+        </tbody></table>
+      </form>
+      <a href="http://www.ewatches.com/AllBrands.html"><img src="http://www.ewatches.com/images/ewatches_17.gif" alt="Shop by Brand" width="159" height="19" border="0"></a> 
+            	
+	 <table width="100%" cellpadding="0" cellspacing="0" border="0">
+		 			 <tbody><tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Accutron/index.html">Accutron</a></td>
+</tr>
+<tr> 
+  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 
 
-            </div></div></td>
+<tr>
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Bariloche/index.html">Bariloche Pocket Watches</a></td>
 
 </tr>
 
-        <tr> 
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
 
-          <td height="85" valign="top"><a href="http://www.ewatches.com/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&amp;function=show"><img src="/images/CheckoutIcon.gif" width="144" height="85" border="0"></a></td>
+</tr>
 
-          <td bgcolor="#D48C00"><img src="/images/CheckoutRightMenu.gif" width="6" height="85"></td>
+		 			 
 
-        </tr>
+<tr>
 
-        <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Bulova/index.html">Bulova</a></td>
 
-          <td colspan="2"><img src="/images/DottedBottomMenu.gif" width="150" height="1"></td>
+</tr>
 
-        </tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
 
-      </tbody></table>
-      <br>
-            <a href="/"><img src="/images/ewatches_24.gif" alt="eWatches.com" width="150" height="48" border="0"></a> 
-      <p> <span class="MenuItems"><a href="/Information/AbouteWatches.html">About 
-        Us</a></span><br>
-        <span class="MenuItems"><a href="/Information/Affiliate.html">Affiliate 
-        Program</a></span><br>
-        <span class="MenuItems"><a href="/Information/Clasps.html">Clasps</a></span><br>
-        <span class="MenuItems"><a href="/Information/ContactUs.html">Contact 
-        Us</a></span><br>
-        <span class="MenuItems"><a href="/Links.html">eWatches 
-        Links</a></span><br>
-        <span class="MenuItems"><a href="/Information/Shipping.html">Free Shipping</a></span><br>
-        <span class="MenuItems"><a href="/Information/Glossary.html">Glossary</a></span><br>
-        <span class="MenuItems"><a href="/Information/Resources.html">HELP CENTER</a></span><br>
-        <span class="MenuItems"><a href="/member/">Login</a></span><br>
-        <span class="MenuItems"><a href="/Information/PriceGuarantee.html">Low Price Guarantee</a></span><br>
-        <span class="MenuItems"><a href="/Information/PrivacySecurity.html">Privacy 
-        Policy</a></span><br>
-        <span class="MenuItems"><a href="/Information/ReturnPolicy.html">Return 
-        Policy</a></span><br>
-        <span class="MenuItems"><a href="/cgi/sc/order.cgi?storeid=*1c2560f4917e0d17e02146bb0dfe2252&amp;function=show">Shopping 
-        Cart</a></span><br>
-        <span class="MenuItems"><a href="/Information/SiteMapTEMP.html">Site 
-        Map</a></span><br>
-        <span class="MenuItems"><a href="/Information/Sizing.html">Sizing</a></span><br>
-        <span class="MenuItems"><a href="/Information/Testimonials.html">Testimonials</a></span><br>
-        <span class="MenuItems"><a href="/Information/Warranty.html">Warranties</a></span><br><span class="MenuItems"><a href="/member/">Where's My Order?</a> <br>
-        </span></p>
-      <p align="center"><span class="MenuItems"><img src="/logos/bbbreliability_seal.gif" width="105" height="160"><br><br><!-- GeoTrust True Site [tm] Smart Icon tag. Do not edit. --><script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script><br><br><!-- end GeoTrust Smart Icon tag --><img src="/logos/bbb-visa.gif" width="150" height="18"> </span></p>
-      <p></p> </td>
+</tr>
+
+		 			 
+
+<tr>
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Clocks/Bulova/index.html">Bulova Clocks</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 
+
+<tr>
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Chase-Durer/index.html">Chase-Durer</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 
+
+<tr>
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Citizen/index.html">Citizen</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 
+
+<tr>
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/ESQ/index.html">ESQ Swiss by Movado</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Ecclissi/index.html">Ecclissi</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 
+
+<tr>
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Festina/index.html">Festina</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Giantto/index.html">Giantto</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 
+
+<tr> 
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Hamilton/index.html">Hamilton</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Kenneth-Cole/index.html">Kenneth Cole</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Longines/index.html">Longines</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 
+
+<tr>
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Luminox/index.html">Luminox</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/M-H-Bertucci/index.html">M.H. Bertucci</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Mondaine/index.html">Mondaine</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Movado/index.html">Movado</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Oceanus/index.html">Oceanus</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Pulsar/index.html">Pulsar</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Reactor/index.html">Reactor</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr>
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Seiko/index.html">Seiko</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 
+
+<tr>
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Clocks/Seiko/index.html">Seiko Clocks</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 
+
+<tr>
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Skagen/index.html">Skagen</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Specials.html">Special Deals and Closeouts!</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 
+
+<tr> 
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Suunto/index.html">Suunto Wrist-Top Computers</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 
+
+<tr> 
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/SwissArmy/index.html">Swiss Army</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 
+
+<tr> 
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/TechnoMarine/TechnoMarineGeneve.html">TechnoMarine Geneve</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 
+
+<tr> 
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/TechnoMarine/TechnoMarineSport.html">TechnoMarine Sport</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 
+
+<tr> 
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Tissot/index.html">Tissot</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 
+
+<tr>
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/TommyBahama/index.html">Tommy Bahama</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Torgoen/index.html">Torgoen</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Wittnauer/index.html">Wittnauer</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 
+
+<tr>
+
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Yes/index.html">Yes</a></td>
+
+</tr>
+
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+
+</tr>
+
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Zodiac/index.html">Zodiac</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 	 </tbody></table>
+      <br>   	
+	 <a href="http://www.ewatches.com/Features.html"><img src="http://www.ewatches.com/images/ewatches_22.gif" alt="Shop by Features" width="159" height="27" border="0"></a> 
+      	 <table width="100%" cellpadding="0" cellspacing="0" border="0">
+		 			 <tbody><tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Automatic.html">Automatic </a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Aviation.html">Aviation/Pilot</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Chronograph.html">Chronograph</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com//Diamond.html">Diamond</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Dive.html">Dive</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Gold.html">Gold</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Military.html">Military</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/PerpetualCalendar.html">Perpetual Calendar</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Pocket.html">Pocket</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Racing.html">Racing</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Sailing.html">Sailing</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Sports.html">Sports</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		 			 <tr> 
+  <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/Titanium.html">Titanium</a></td>
+</tr>
+<tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+</tr>
+		   <tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
   </tr>
-  <tr>
-    <td colspan="4"><img src="/images/slice-dice_11.gif" width="704" height="2"></td>
+  <tr> 
+    <td><img src="http://www.ewatches.com/images/ewatches_21.gif" width="159" height="1"></td>
   </tr>
-  <tr bgcolor="#CDD4E5">
-    <td colspan="4" align="center"><span class="MenuItems">| <a href="/Information/AbouteWatches.html">About 
-        eWatches</a> | <a href="/Information/SiteMapTEMP.html">Site Map</a> 
-        | <a href="/Information/Testimonials.html">Testimonials</a> | <a href="/Information/Warranty.html">Warranties</a> 
-        | <a href="/Information/Sizing.html">Sizing</a> | <a href="/Information/ReturnPolicy.html">Return 
-        Policy</a> | <a href="/Information/Glossary.html">Glossary</a> | 
-        <a href="/Information/PrivacySecurity.html">Privacy &amp; Security</a> 
-        |</span></td>
-  </tr> <tr align="center">
-
-    <td colspan="4"><table width="100%" border="0" cellpadding="1" cellspacing="5">
-  <tbody><tr align="center" valign="middle"> 
-    <td width="18%"><a href="/Accutron/index.html"><font size="2" face="Arial, Helvetica, sans-serif"><img border="0" src="/logos/accutron.gif" width="94" height="14"></font></a></td>
-    <td width="18%"> <font size="2" face="Arial, Helvetica, sans-serif"><a href="/Bulova/index.html"><img border="0" src="/logos/bulova.gif" width="56" height="56"></a><br>
-      </font></td>
-    <td width="18%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Chase-Durer/index.html"><img border="0" src="/logos/chase-durer.gif" width="94" height="9"></a></font></td>
-    <td width="18%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Citizen/index.html"><img border="0" src="/logos/citizen1.gif" width="75" height="18"></a></font></td>
-    <td width="18%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="/ESQ/index.html"><img border="0" src="/logos/esq.gif" width="56" height="56"></a><br>
-      </font></td>
-    <td width="18%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Hamilton/index.html"><img border="0" src="/logos/hamilton.gif" width="94" height="25"></a></font></td>
-  </tr>
-  <tr align="center" valign="middle"> 
-    <td><a href="/Accutron/index.html"><font size="2" face="Arial, Helvetica, sans-serif">Accutron</font></a></td>
-    <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Bulova/index.html">Bulova</a></font></td>
-    <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Chase-Durer/index.html">Chase-Durer</a></font></td>
-    <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Citizen/index.html">Citizen</a></font></td>
-    <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="/ESQ/index.html">ESQ 
-      Swiss Watches</a></font></td>
-    <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Hamilton/index.html">Hamilton 
-      </a></font></td>
-  </tr>
-  <tr align="center" valign="middle"> 
-    <td width="18%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Luminox/index.html"><img border="0" src="/logos/luminox1.gif" width="48" height="56"></a></font></td>
-    <td width="18%"><p><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Seiko/index.html"><img border="0" src="/logos/seiko.gif" width="56" height="56"></a></font></p></td>
-    <td width="18%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Skagen/index.html"><img border="0" src="/logos/skagen.gif" width="94" height="39"></a></font></td>
-    <td width="18%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Suunto/index.html"><img border="0" src="/logos/suunto.gif" width="94" height="40"></a></font></td>
-    <td width="18%"><font size="2" face="Arial, Helvetica, sans-serif"><a href="/SwissArmy/index.html"><img border="0" src="/logos/swiss_army_victorinox.gif" width="94" height="60"></a></font></td>
-    <td width="18%"><a href="/TechnoMarine/index.html"><font size="2" face="Arial, Helvetica, sans-serif"><img border="0" src="/logos/technomarine_montres.gif" width="94" height="45"></font></a></td>
-  </tr>
-  <tr align="center" valign="middle"> 
-    <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Luminox/index.html">Luminox</a></font></td>
-    <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Seiko/index.html">Seiko</a></font></td>
-    <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Skagen/index.html">Skagen 
-      </a></font></td>
-    <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="/Suunto/index.html">Suunto 
-      </a></font></td>
-    <td><font size="2" face="Arial, Helvetica, sans-serif"><a href="/SwissArmy/index.html">Swiss 
-      Army</a></font></td>
-    <td><a href="/TechnoMarine/index.html"><font size="2" face="Arial, Helvetica, sans-serif">TechnoMarine 
-      </font></a></td>
-  </tr>
-  <tr align="center" valign="middle"> 
-    <td width="18%">&nbsp;</td>
-    <td width="18%"><a href="/Tissot/index.html"><font size="2" face="Arial, Helvetica, sans-serif"><img border="0" src="/logos/tissot.gif" width="94" height="37"><br>
-      </font></a></td>
-    <td width="18%"><a href="/TommyBahama/index.html"><font size="2" face="Arial, Helvetica, sans-serif"><img border="0" src="/logos/tommybahama.gif" width="94" height="16"></font></a></td>
-    <td width="18%"><a href="/Torgoen/index.html"><font size="2" face="Arial, Helvetica, sans-serif"><img src="/logos/torgoen1.gif" width="111" height="31" vspace="10" border="0"></font></a></td>
-    <td width="18%"><a href="/Yes/index.html"><font size="2" face="Arial, Helvetica, sans-serif"><img border="0" src="/logos/yes_pic.gif" width="61" height="29"></font></a></td>
-    <td width="18%">&nbsp;</td>
-  </tr>
-  <tr align="center" valign="middle"> 
-    <td>&nbsp;</td>
-    <td><a href="/Tissot/index.html"><font size="2" face="Arial, Helvetica, sans-serif">Tissot 
-      </font></a></td>
-    <td><a href="/TommyBahama/index.html"><font size="2" face="Arial, Helvetica, sans-serif">Tommy 
-      Bahama</font></a></td>
-    <td><a href="/Torgoen/index.html"><font size="2" face="Arial, Helvetica, sans-serif">Torgoen 
-      </font></a></td>
-    <td><a href="/Yes/index.html"><font size="2" face="Arial, Helvetica, sans-serif">Yes 
-      </font></a></td>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table><br>
-<a href="http://www.ewatches.com/Information/CopyrightLegal.html" class="MenuItems">Copyright © eWatches.com - All Rights Reserved</a>
-      <br>
-    </td>
-
-  </tr><tr><td height="1"><img src="/images/spacer.gif" alt="" width="159" height="1"></td><td></td><td><img src="/images/spacer.gif" alt="" width="95" height="1"></td><td><img src="/images/spacer.gif" alt="" width="54" height="1"></td></tr>
-
 </tbody></table>
+      <a href="http://www.ewatches.com/PriceRange.html"><img src="http://www.ewatches.com/images/ewatches_26.gif" alt="Shop by Price" width="159" height="28" border="0"></a><font size="2" face="Arial, Helvetica, sans-serif"> 
+      <table width="159" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/cgi/sc/productsearch.cgi?storeid=*186ee091dd1ff42e0266be864192&amp;search_field=under100">Under $100 </a></td>
+        </tr>
+        <tr> 
+          <td valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="159" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/cgi/sc/productsearch.cgi?storeid=*186ee091dd1ff42e0266be864192&amp;search_field=100to150">$100 - $150</a></td>
+        </tr>
+        <tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/cgi/sc/productsearch.cgi?storeid=*186ee091dd1ff42e0266be864192&amp;search_field=151to200">$151 - $200</a></td>
+        </tr>
+        <tr> 
+          <td valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="159" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/cgi/sc/productsearch.cgi?storeid=*186ee091dd1ff42e0266be864192&amp;search_field=201to300">$201  - $300</a></td>
+        </tr>
+        <tr> 
+          <td valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="159" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/cgi/sc/productsearch.cgi?storeid=*186ee091dd1ff42e0266be864192&amp;search_field=301to400">$301  - $400</a></td>
+        </tr>
+        <tr> 
+          <td valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="159" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/cgi/sc/productsearch.cgi?storeid=*186ee091dd1ff42e0266be864192&amp;search_field=401to500">$401  - $500</a></td>
+        </tr>
+        <tr> 
+          <td valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="159" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/cgi/sc/productsearch.cgi?storeid=*186ee091dd1ff42e0266be864192&amp;search_field=501to1000">$501 - $1000</a></td>
+        </tr>
+        <tr>  <td height="1" valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="100%" height="1"></td>
+        </tr>
+        <tr> 
+          <td valign="top" class="MenuItems"><a href="http://www.ewatches.com/cgi/sc/productsearch.cgi?storeid=*186ee091dd1ff42e0266be864192&amp;search_field=1000plus">$1000+</a></td>
+        </tr>
+        <tr> 
+          <td valign="top"><img src="http://www.ewatches.com/images/ewatches_21.gif" width="159" height="1"></td>
+        </tr>
+      </tbody></table>
+      </font>
+	 
+</td>
+  </tr>
+  </tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr> 
+    <td colspan="4"><img src="http://www.ewatches.com/images/slice-dice_11.gif" width="704" height="2"></td>
+  </tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0">
+   <tbody><tr bgcolor="#CDD4E5">
+    <td colspan="4" align="center">
+   <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tbody><tr><td width="159"><span class="MenuItems"><font size="-2">Phone orders mention: <font color="red"><b>264320</b></font></font></span></td>
+    <td align="center"><span class="MenuItems">| <a href="http://www.ewatches.com/Information/AbouteWatches.html">About 
+      eWatches</a> | <a href="http://www.ewatches.com/Information/SiteMapTEMP.html">Site Map</a> | <a href="http://www.ewatches.com/Information/Testimonials.html">Testimonials</a> 
+      | <a href="http://www.ewatches.com/Information/Warranty.html">Warranties</a> | <a href="http://www.ewatches.com/Information/Sizing.html">Sizing</a> 
+      | <a href="http://www.ewatches.com/Information/ReturnPolicy.html">Return Policy</a> | <a href="http://www.ewatches.com/Information/Glossary.html">Glossary</a> 
+      | <a href="http://www.ewatches.com/Information/PrivacySecurity.html">Privacy &amp; Security</a> 
+      |</span></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr align="center"> 
+    <td colspan="4">
+      <br> <a href="http://www.ewatches.com/Information/CopyrightLegal.html" class="MenuItems">Copyright 
+      © eWatches.com - All Rights Reserved</a> <br> </td>
+  </tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td height="1"><img src="http://www.ewatches.com/images/spacer.gif" alt="" width="159" height="1"></td>
+    <td></td>
+    <td><img src="http://www.ewatches.com/images/spacer.gif" alt="" width="95" height="1"></td>
+    <td><img src="http://www.ewatches.com/images/spacer.gif" alt="" width="54" height="1"></td>
+  </tr>
+</tbody></table>
+
 
 </body></html>
