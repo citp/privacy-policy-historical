@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306114238id_/http%3A//www.thirdage.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160011id_/http%3A//thirdage.com/about/privacy.html) for the most accurate reproduction.*
 
 # ThirdAge - About Us - Privacy Statement
-
-|     
-
-
-**Privacy Policy for www.ThirdAge.com**
 
 **1\. General**  
 ThirdAge Inc. (hereinafter "ThirdAge") respects the privacy of every individual who visits www.thirdage.com (hereinafter the "Web Site"). This Privacy Policy outlines the information ThirdAge will collect and how we will use that information. This Policy will also instruct you on what to do if you do not want your personal information collected or shared. 
@@ -18,10 +13,9 @@ When you do provide us with personally-identifiable information, ThirdAge may:
   * Store and process that information to better understand your needs and how we can improve our products and services;
   * Use that information to contact you for informational, marketing and promotional purposes;
   * Disclose that information to third parties when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with the rights or property (either intentionally or unintentionally) of ThirdAge, other members or users of the Web Site, or anyone else that could be harmed by such activities;
-  * Disclose that information to third parties when we believe in good faith that the law requires it; and
-  * Disclose that information to third parties when we believe in good faith that such action is necessary to enforce the [Terms of Service](http://www.thirdage.com/about/terms.html). 
-
-
+  * Disclose that information to third parties when we believe in good faith that the law requires it;
+  * Disclose that information to third parties when we believe in good faith that such action is necessary to enforce the [Terms of Service](http://www.thirdage.com/about/terms.html); and
+  * Disclose that information when we contract with a third party to deliver e-mail on our behalf or provide other services involving list update or list maintenance.
 
 Except as stated in this Privacy Policy, or as otherwise stated at the time personally-identifiable information is gathered, we will not provide personally-identifiable information to third parties, although certain non-personally-identifiable user information may be provided in aggregate form to third parties. 
 
@@ -61,6 +55,13 @@ By using the Web Site, you signify your assent to the ThirdAge Privacy Policy an
 If you have questions or concerns regarding this Privacy Policy, the practice of this Web Site, your dealings with this Web Site, or would like to notify us of an alleged infringement of copyrights, you should contact ThirdAge by mail at: ThirdAge Inc., 25 Stillman Street, Suite 102, San Francisco, CA 94107-1309; or through our [contact form](http://thirdage.com/research/help/). 
 
 **12\. Ad Serving**  
-The ads appearing on ThirdAge.com are delivered to you by DoubleClick, our Web advertising partner. In the course of serving advertisements onto ThirdAge.com, DoubleClick may also place or recognize unique Cookies on your browser. Information about your visit to ThirdAge.com, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies and how to "opt-out," please click [here](http://www.doubleclick.net/us/corporate/privacy). 
-
-| 
+The ads appearing on ThirdAge.com are delivered to you by DoubleClick, our Web advertising partner. In the course of serving advertisements onto ThirdAge.com, DoubleClick may also place or recognize unique Cookies on your browser. Information about your visit to ThirdAge.com, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies and how to "opt-out," please click [here](http://www.doubleclick.net/us/corporate/privacy).   
+  
+---  
+|  Must-See on ThirdAge   
+|  | [Meet Your Soul Mate Here and Now!](http://ad.doubleclick.net/clk;22768590;12096942;p?http://www.eharmony.com/core/eharmony?cmd=thirdage&cid=1235&aid=5310) |   
+|  | [The Top Male Health Concerns](http://www.thirdage.com/health/mens/guys/diabetes.html) |    
+|  | [Should You Get Screened for Osteoporosis?](http://www.thirdage.com/healthgate/files/19935.html) |    
+|  | [Dreams Come True! Take the Class](http://www.vcampus.com/thirdsemester/catalog/offering/?coid=76716) |    
+|  | [Are You Prepared for Cold and Flu Season?](http://blog.thirdage.com/?p=234) |    
+|  |  | 
