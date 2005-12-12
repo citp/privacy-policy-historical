@@ -1,0 +1,30 @@
+> *The following text is extracted and transformed from the worldcarfans.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212111832id_/http%3A//www.worldcarfans.com/privacy.cfm) for the most accurate reproduction.*
+
+# WorldCarFans.com Terms of Service
+
+The following are the terms of the privacy statement of Black Falcon Media Group ("BFMG") regarding use of BFMG's web site www.AmericanCarFans.com ("The Site").
+
+BFMG collects certain information in various ways from The Site and uses that information in various ways. Sensitive information such as credit card numbers and account numbers are encrypted and are not intentionally shared with any other parties but BFMG will not be liable for any inadvertent disclosure. BFMG may, however, use or provide to third parties statistics about members, traffic patterns and related information including but not limited to personally identifying information such as names, addresses, emails and the like as well as information gathered from the use of "cookie" or other technologies, whether from advertisements on The Site or otherwise. However, such information will not intentionally include such credit card information or account numbers except for the limited purpose of collecting payments, communicating with credit card companies and the like but BFMG will not be liable for any inadvertent disclosure. Such information may be used by BFMG in the aggregate or individually and may be combined with other information and may be in connection with marketing of such information or as part of a transaction related to any aspect of the business of BFMG including but not limited to sales, mergers, acquisitions, bankruptcies and the like. You agree that BFMG may use and provide to third parties the said information that you provide except as indicated. If you do not agree with the provisions of this paragraph, you should not provide any information to BFMG.
+
+**_Partnerships, Affiliates, Advertisers and Other Links_ :** Through BFMG you may be introduced to a variety of third-party vendors and sites. The privacy polices of these third parties are not under BFMG's control and may differ from BFMG's and you should read the privacy policies of those vendors carefully. The use of any information that you may provide to any third party, or the use of "cookie" technology by any third party, will be governed by the privacy policy of the operator of the site that you are visiting. In some cases these third parties may share the information that they collect about you with BFMG. If you have any doubts about the privacy of the information you are providing on another site, BFMG recommends that you contact that site directly for more information and review their privacy policy. BFMG is not now and never will be responsible for the actions of such third parties in any manner whatsoever, including but not limited to any violation of such privacy policies or otherwise.
+
+BFMG may use information from or provide information to such third parties including but not limited to statistics about members, traffic patterns and related information including but not limited to personally identifying information such as names, addresses, emails and the like as well as information gathered from the use of "cookie" or other technologies, whether from advertisements on The Site or otherwise but will not intentionally include such credit card information or account numbers, except as set forth above but BFMG will not be liable for any inadvertent disclosure. Such information may be used by BFMG in the aggregate or individually and may be combined with other information and may be in connection with marketing of such information or as part of a transaction related to any aspect of the business of BFMG including but not limited to sales, mergers, acquisitions, bankruptcies and the like. You agree that BFMG may use and provide to such third parties the said information that you provide except as indicated. If you do not agree with the provisions of this paragraph, you should not provide any information to BFMG.
+
+**_Third Party Advertising_ :** We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+
+**_Third Party Cookies_ :** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+**_Your Rights to Opt Out and Change or Delete Your Information_ :** If you do not wish to receive e-mail or other correspondence related to BFMG's or third parties' promotions or products, or you do not wish to have BFMG be entitled to use the information that BFMG may use as indicated in this statement, simply indicate your preference when you are asked to provide the information or send BFMG email at the address indicated below.
+
+**_BFMG's Rights To Change._** BFMG may change this privacy statement or any aspect of it by publicly posting such changes on The Site but without any individual notice to you. Notwithstanding anything else in this privacy statement, BFMG may release information when it believes that such release is reasonably necessary to (1) comply with law, (2) enforce or apply terms of any of agreement between you and BFMG or (3) protect the rights, property or safety of BFMG, other users, or others.
+
+**_General Provisions._** Please keep in mind that whenever you voluntarily disclose personal information online (for example on message boards, through email, or in chat areas), that information can be collected and used by BFMG and by third parties and may result in unsolicited messages. 
+
+**_Contact Information:_**
+
+Via email: feedback@blackfalconmedia.com
+
+Black Falcon Media Group  
+Kalkkihiekantie 10 A 12  
+00980 Helsinki   
+Finland
