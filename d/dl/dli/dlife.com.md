@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305201811id_/http%3A//www.dlife.com/dLife/do/ShowContent/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212140202id_/http%3A//www.dlife.com/dLife/do/ShowContent/policy/privacy.html) for the most accurate reproduction.*
 
-# dlife.com - For Your Diabetes Life: Privacy Policy
+# Privacy Policy - dLife.com - For Your Diabetes Life
 
 **dLife Web Site Privacy Policy  
 ** [Effective Date: January 14, 2005]
@@ -72,6 +72,6 @@ If you have any questions about the dLife.com Privacy Policy, please email us at
 
  _DLife  
 a LifeMed Marketing Company  
-15 Ketchum Street  
+101 Franklin Street  
 Westport, CT 06880  
 _
