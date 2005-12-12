@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pridenation.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307160724id_/http%3A//www.pridenation.com/members/pnnpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pridenation.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212052700id_/http%3A//www.pridenation.com/members/pnnpolicy.htm) for the most accurate reproduction.*
 
 # PrideNation Mobile
 
@@ -22,7 +22,7 @@ We do not use or disclose information about your individual visits or informatio
 
 Pridenation.com is concerned about the safety and privacy of young people using our services. If you are under the age of 18, you may not use our site without the guidance and/or participation of a parent or guardian. Pridenation.com has made the commitment to not include any pornography or any adult website material on our main pages.  We encourage parents to participate in your child's online experience and to use web filtering software to prevent access to any unwanted areas of the web. Pridenation does not allow anyone under the age of 18 to use any of our media services including radio programming, tv programming and after-hours pay-per-view programming. These services require a subscription sign-up which is limited to members 18 years of age or older (21 years of age in some states), and requires a password. 
 
-**[click here to go back home](https://web.archive.org/web/20050307160724id_/http%3A//www.pridenation.com/members/newindex2.html)**
+**[click here to go back home](https://web.archive.org/web/20051212052700id_/http%3A//www.pridenation.com/members/newindex2.html)**
 
 | 
 
@@ -35,7 +35,7 @@ by: **
 
 [](http://www.inndulge.com/)
 
-[](https://web.archive.org/web/20050307160724id_/http%3A//www.pridenation.com/members/advertise.htm)
+[](https://web.archive.org/web/20051212052700id_/http%3A//www.pridenation.com/members/advertise.htm)
 
 would you pay three  
 cents to advertise to  
