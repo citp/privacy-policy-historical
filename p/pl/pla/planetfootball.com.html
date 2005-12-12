@@ -1,393 +1,418 @@
-<!--The following is the downloaded HTML source of the planetfootball.com privacy policy that was archived on 2004-08-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040810145630id_/http%3A//www.skysports.com/skysports/disclaimer/privacy/0%2C%2C%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the planetfootball.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212132606id_/http%3A//home.skysports.com/articlefp.asp%3Fhlid%3D299447) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Sky Sports - The Best Sport Coverage From Around The World</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="/skysports/skysports.css" type="text/css">
-<script language="JavaScript" src="/skysports/skysports.js" type="text/JavaScript"></script>
-
-
-<script language="JavaScript">
-
-// This is the function that performs form verification. It will be invoked
-// from the onSubmit() event handler. The handler should return whatever
-// value this function returns.
-function isChecked(f)
-{
-
-    // Loop through the elements of the form, looking for all
-    // checkbox elements that have their check property set to true.
-	// If the checkbox is set to true, exist the function returning true.
-	// Otherwise, display an appropriate error message to the user and
-	// return false to indicate that none of the check boxes have
-	// been selected.
-
-    for(var i = 0; i < f.elements.length; i++) {
-        var e = f.elements[i];
-		// Check to see that we have a radio button
-		
-		if (e.type == "radio") {
-			// Now check to see that it is checked.
-			// As soon as we find one that is checked
-			// exit the proc.
-			if (e.checked == "1") {
-				//alert(e.checked);
-				return true;
-			}
-		}
-	}
-	
-	// Check box not checked so return false
-	alert('Please select an Answer');
-	return false;
-}
-
-
-// A utility function that returns true if a string contains only
-// whitespace characters.
-function isblank(s)
-{
-	for(var i = 0; i < s.length; i++) {
-        var c = s.charAt(i);
-        if ((c != ' ') && (c != '\n') && (c != '\t')) return false;
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <!--
+      now = 12/12/2005 13:22:24
+    //-->
+    <script language="javascript">
+    <!--
+    // asp doesn't pick up the referrer correctly to do the redirect for football
+    document.write ('<!-- referrer = '+document.referrer+' -->');
+    if(document.referrer.toLowerCase().indexOf('msn.skysports.com') > -1) {
+      location.href = 'http://msnsport.skysports.com' + '/articlefp.asp?' + 'hlid=299447';
     }
-    return true;
-}
+    //-->
+    </script><!-- referrer =  -->
+    
+      <title>Sky Sports - The Best Sport Coverage From Around The World</title>
+ 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <script language="javascript">
+  <!-- 
+    GROUP = '42';
+    adCatString = 'homepage';
+    var sstext = '#ffffff';
+  //-->
+  </script> 
+   
+<link href="/includes/css/sIFR-screen.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/includes/css/print.css" rel="stylesheet" type="text/css" media="print">
+<link href="/includes/css/menutabs.css" rel="stylesheet" type="text/css" media="screen" title="Default">
+<link href="/includes/css/home.css?a=1" rel="stylesheet" type="text/css" media="screen" title="Default">
+<link href="/includes/css/high.css?a=1" rel="alternate stylesheet" type="text/css" title="High Contrast" media="screen">
 
 
-function displayPopUp(f) {
+  <link href="/includes/css/tphone.css" rel="stylesheet" type="text/css" media="screen" title="Default">
 
-	var bFound = 0;
+<!--
+<script src="http://www.edge-a.co.uk/survey/overlayWizard/aop/6/interval.js"></script>
+<script src="/includes/js/aopsurveyoverlay.js"></script>
+-->
+<script language="JavaScript" type="text/javascript" src="/includes/js/home.js?v=2"></script>
+<script src="/includes/js/sifr.js?v=1&gt;" type="text/javascript"></script>
+<script language="JavaScript" src="/commonscripts/formvalidation.js" type="text/JavaScript"></script>
+<script language="JavaScript" src="/commonscripts/cookies.js" type="text/JavaScript"></script>
 
-	// Loop through the form controls
-	for(var i = 0; i < f.elements.length; i++) {
-        var e = f.elements[i];
-		// Check to see that we have a radio button
-		if (e.type == "radio") {
-			// Now check to see that it is checked.
-			// As soon as we find one that is checked
-			// Set a flag to indicate that we can proceed
-			if (e.checked == "1") {
-				bFound = 1;
-				// Get its value
-				var ans = e.value;
-			}
-		} else {
-			// QID is a hidden input field that contains the question ID passed into the Tcl proc
-			if (e.name == "QID") {
-				// Get it's value
-				var qid = e.value;
-				} else {
-			// CID is a hidden input field that contains the channelID passed into the Tcl proc
-   		    if (e.name == "CID") {
-			    // Get it's value
-			    var cid = e.value;
-				}		
-		    }
-	  	}
-	}
 
-	// If the user has selected an answer then display the results of the poll in a new pop-up window
-	// Else notify the user via an appropriate error message and return back to the voting screen
-	if (bFound == "1") {
-		//alert("/skysports/home/skysports/polls/save2?QID=" + qid + "&ANS=" + ans + "&poll_voted=true&CID=" + cid + ");
-		//w = window.open("/skysports/polls/save2?CID=" + cid + "&QID=" + qid + "&ANS=" + ans + "&poll_voted=true", "NewWin", "menubar=no,Status=yes,location=no,resizable=yes,scrollbars=yes,toolbar=no,height=452,width=338");
-		// return false;
-	} else {
-		alert('Please select an answer !');
-		return false;
-	}
 
-}
+<!-- BEGIN WEBSIDESTORY CODE v9.1.0 (11up) -->
+<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
+<script language="javascript" id="_hbc">
+var _acct="DM530528JGAV71EN3;DM53111942ZM";	//account number(s)
+var _pn="PUT+PAGE+NAME+HERE"; //page name(s)
+var _mlc="CONTENT+CATEGORY"; //multi-level content category
+var _seg="1,-2,-3,-4,-5"; // visitor segmentation
+var _cmp=""; // campaign id
+var _gp="";  // campaign goal
+var _cmpn="";// campaign id in query
+var _gpn=""; // campaign goal in query
+var _fnl=""; // funnels
+var _pec=""; // error codes
+var _fv="";  // form validation function name
+var _dcmp="";// dynamic campaign
+var _dcmpn="";//dynamic campaign in query
+var _hra=""; // response attribute
+var _hcn=""; // conversion
+var _hcv=""; // conversion value
+var _hlt=""; // lead tracking
+var _hla=""; // lead attribute
+var _hqsr="";// response attribute in referrer query
+var _hqsp="";// response attribute in query
+var _hc1=""; // custom 1
+var _hc2=""; // custom 2
+var _hc3=""; // custom 3
+var _hc4=""; // custom 4
+var _lt="none";  // link tracking
+var _ci="";  // customer id
+var _cp="null"; // campaign
+var _cpd=""; // campaign domain
+var _pndef="title"; //default page name
+var _ctdef="full"; //default content category
+var _dlf="n"; //download filter
+var _elf="n"; //exit link filter
+var _dft="n"; // download file tracker variable, set to y to use the name reference
+var _hrf=""; // custom referrer. use valid url or param name
+var _epg="n"; //event page identifier
+var _vpc="090100r";
+var _gn="ehg-bskyb.hitbox.com",_mn="we56"; //gateway & machine name
+</script><script language="javascript1.1" defer="" src="/CommonScripts/hbe-11up.js">
+</script><script language="javascript">if(navigator.appName!='Netscape'&&parseInt(
+navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
+<img src="http://ehg-bskyb.hitbox.com/HG?hc=we56&cd=1&hv=6&ce=u&hb=DM530528JGAV71EN3;DM53111942ZM&n=ScriptingNotEnabled&vcon=UnknownPage&seg=&cmp=&gp=&fnl=&pec=&dcmp=&ra=&gn=&cv=&ld=&la=&c1=&c2=&c3=&c4=&vpc=090100rn" border="0" width="1" height="1" alt=""/>
+</noscript><!--//-->
+
+<!-- END WEBSIDESTORY CODE  -->
+
+<!-- Start Websidestory code //-->
+
+<script language="javascript">
+<!--
+
+	_pn = 'articlefp (hlid = 299447)';
+_hc1 = 'Article - 299447';
+_mlc='skysports_home_page';
+
+	
+	_mlc ="/"+_mlc+";/Sports/"+_mlc;
+	
+//-->
 </script>
+
+
 </head>
-<body id="skysports" leftmargin="0" topmargin="0" rightmargin="0" marginheight="0" marginwidth="0">
 
- <script language="JavaScript1.1">
-	    <!--
-	     categories = 'cat1=sportshome'
-	     
-	     var time = new Date();
-	     randnum= (time.getTime());
-	
-	     CompletePath = location.pathname;
-	     BreakPoint = CompletePath.indexOf ('.htm');
-		 IsMSN = CompletePath.indexOf ('msn.');
-	
-	     if (BreakPoint != -1)  {
-	     // i.e a .htm or .html extension was found,
-	      CorrectedPath = CompletePath.substring (0, BreakPoint);
-	     } else {
-	      CorrectedPath = CompletePath;
-	     }
+<body id="article" class="basic">
+<div id="cm8sticky" style="width: 100%; height: 100%; position: absolute;">
+    <!--accesibilty statement --><div class="none"><p>You are viewing this message because you do not have a modern web browser. <br>
+     
+    Please follow these links to download a standards compliant browser. <a href="http://www.microsoft.com/windows/ie/downloads/default.mspx" target="blank">Internet Explorer download</a> | <a href="http://www.mozilla.org/products/firefox/" target="blank">Firefox download</a> | <a href="http://www.opera.com/download/" target="blank">Opera 8 download</a> | <a href="http://www.apple.com/safari/download" target="blank">Safari download (Mac only)</a></p>
+    <hr><p>
+    <a href="#globalnavigation">Skip to main navigation</a> | <a href="#searchbox">Skip to search box</a> | <a href="#content">Skip to content</a></p></div>
+    <!--accesibilty statement -->
+     
+    <!--switch back to default view-->
+    <div class="switchToNormal"><p>You are viewing this message because you are not using the default styles.  <a href="#" onclick="setActiveStyleSheet('Default'); return false;">Click here to switch back to the default view</a>.</p></div>
+    <!--switch back to default view-->
+    
+<div id="container">
+<div id="topAd">
+<script language="JavaScript" type="text/javascript" src="http://home.skysports.com/includes/js/topAds.js"></script>
+<link href="http://home.skysports.com/includes/css/topAds.css" rel="stylesheet" type="text/css" media="screen">
 
-	     if (document.domain == "msn.skysports.com") {
-	      thispage = 'msn.skysports.com' + CorrectedPath;
-	     } else {
-	      thispage = 'www.skysports.co.uk' + CorrectedPath;
-	     }		
-		 
-	
-	     var adserverurl = 'ad.uk.doubleclick.net';
-	
-		function GetAdServerHREF (action, width, height, tile, ptile)
-		{
-		 if (typeof ptile == 'undefined') {
-		     if (width == 468 && height == 60 && tile == 1){
-		      interstitial = "dcopt=ist;abr=!webtv;";
-		     } else {
-		      interstitial = "";
-		     }
-		      href = "http://" +  adserverurl + "/" +
-		         action + "/" + thispage + ";" +
-		         categories + ";" + interstitial + "sz=" + width + "x" +
-		         height + ";tile=" + tile + ";ord=" +
-		         randnum + "?";
-		 } else {
-		     if (width == 468 && height == 60 && tile == 1 && ptile == 1){
-		      interstitial = "dcopt=ist;abr=!webtv;";
-		     } else {
-		      interstitial = "";
-		     }
-		      href = "http://" +  adserverurl + "/" +
-		         action + "/" + thispage + ";" +
-		         categories + ";" + interstitial + "sz=" + width + "x" +
-		         height + ";tile=" + tile + ";ptile=" + ptile + ";ord=" +
-		         randnum + "?";				 
-		 }
-		return (href);
-		}
 
-		function InsertDoubleClickAd(width, height, tile, ptile)
-		{
-		 //ADJ
-		 var adjlink = GetAdServerHREF ("adj", width, height, tile, ptile);
-		 var adjlink2="<SCRIPT language='JavaScript' SRC=" + adjlink + ">";
-		 document.write(adjlink2);
-		 //JUMP
-		 var link = GetAdServerHREF ("jump", width, height, tile, ptile);
-		 var nlink="<a target=_blank href=" + link + ">";
-		 document.write(nlink);
-		 //AD
-		 var width2=width;
-		 var height2=height;
-		 document.write('<IMG WIDTH=' + width2 + ' HEIGHT=' +
-		        height2 + ' BORDER=0 SRC=' +
-	        GetAdServerHREF ("ad",width,height,tile,ptile) + '>');
-		 document.write('</A>');
-		 document.write('</SCRIPT>');
-		}
-	      //-->
-	     </script>
-	  <script>
-	if (document.domain == "msn.skysports.com") {
-	    document.write('<IFRAME NAME="iframe1" SRC="/skysports/msn/top/0,,,00.html" align="top" width="100%" height="70" frameborder="0" scrolling="no" topmargin="0" leftmargin="0"></IFRAME>');
+<div class="topAd1">
+
+<a href="javascript:showHide('topAd1Body','','hide','topAd2Body','','show');">
+<img src="http://home.skysports.com/images/topads/sky_banner_2.gif?" alt="Sky Offer" width="380" height="38" border="0">
+</a>
+</div>
+
+<div class="topAd2">
+<a href="javascript:showHide('topAd1Body','','show','topAd2Body','','hide');">
+<img src="http://home.skysports.com/images/topads/dell08.gif" alt="Dell" width="380" height="38" border="0">
+</a>
+
+</div>
+
+</div>
+
+<div id="topAd1Body">
+<object type="application/x-shockwave-flash" data="http://home.skysports.com/images/topads/topads.swf?path=http://home.skysports.com/images/topads/delldec08.swf?a=110805" width="760" height="140">
+<param name="movie" value="http://home.skysports.com/images/topads/topads.swf?path=http://home.skysports.com/images/topads/delldec08.swf?a=110805">
+<a href="http://adfarm.mediaplex.com/ad/ck/2397-20706-1996-4" target="blank"><img src="http://home.skysports.com/images/topads/dellAlt.gif" alt="Click here to find out more at orange.co.uk" border="0"></a>
+<a href="javascript:showHide('topAd1Body','','hide','topAd2Body','','hide');">close</a>
+</object>
+
+
+</div>
+
+<div id="topAd2Body">
+<object type="application/x-shockwave-flash" data="http://home.skysports.com/images/topads/topads.swf?path=http://home.skysports.com/images/topads/IDODec7_2.swf?b=110805" width="760" height="140">
+<param name="movie" value="http://home.skysports.com/images/topads/topads.swf?path=http://home.skysports.com/images/topads/IDODec7_2.swf?b=110805">
+<a href="http://ad.uk.doubleclick.net/clk;23299210;12151333;q?http://www.sky.com/ordersky/home" target="blank"><img src="http://home.skysports.com/images/topads/skyAlt.gif" alt="Click here to find out more at sky.co.uk" border="0"></a>
+<a href="javascript:showHide('topAd1Body','','hide','topAd2Body','','hide');">close</a>
+</object>
+
+		
+</div>
+<!-- Last Modified on 12/12/2005 12:54:03-->
+<!-- Rebuilt at 12/12/2005 13:05:51 (/UserIncludes/ads/TopAd.html-->
+<!-- xmlReBuildHTML is set to true -->
+
+    <div id="Top">
+      <div id="logo"><h1><a href="/home/"><img height="61" alt="Sky Sports" src="/images/skylogo_default.gif" width="291" border="0"></a></h1></div>
+
+    <!-- Code here needs to be determined  -->
+    <div id="banner">
+<!--JavaScript Tag with JS Keywords //Tag for the network 500: Sky media // Website: Skysports // Page: Home // Placement: Home Top (1003419) //created at: May 11, 2005 6:35:36 PM-->
+<script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|500|1003419|0|1|ADTECH;loc=100;target=_blank;key=' + adCatString + ';grp=' +GROUP+ ';misc='+new Date().getTime()+'"></scr'+'ipt>');
+//-->
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|500|1003419|0|1|ADTECH;loc=100;target=_blank;key=homepage;grp=42;misc=1580443657076"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|500|1003419|0|1|ADTECH;loc=300;" target="_blank">
+<img src="http://adserver.adtech.de/adserv|3.0|500|1003419|0|1|ADTECH;loc=300;" border="0" width="468" height="60"></a></noscript>
+<!-- End of JavaScript Tag --><script src="http://content.dl-rms.com/rms/2850/nodetag.js"></script>
+<!-- Last Modified on 12/12/2005 12:54:03-->
+<!-- Rebuilt at 12/12/2005 13:05:51 (/UserIncludes/files/channel/TopAD_1003419.html-->
+<!-- xmlReBuildHTML is set to true -->
+
+    </div>
+        
+    </div><!--Top-->
+
+  <div id="subContainer">
+
+<div id="leftNav">
+<!--headpic = 305874--><div id="TopPlayer">
+<div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="115" height="182" id="playerhead" align="middle"><param name="movie" value="/flash/playerheads/playerhead.swf">
+<param name="quality" value="high">
+<param name="bgcolor" value="#ffffff">
+<param name="wmode" value="transparent">
+<param name="menu" value="false">
+<param name="flashVars" value="plid=5543&amp;cpid=&amp;clid=35&amp;url=&amp;adswf=&amp;sport=Football"><embed src="/flash/playerheads/playerhead.swf" width="115" height="182" align="middle" quality="high" bgcolor="#ffffff" name="playerhead" flashvars="plid=5543&amp;cpid=8&amp;clid=35&amp;url=&amp;adswf=&amp;sport=Football" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" menu="false"></object></div>
+</div>
+
+<!-- Last Modified on 12/12/2005 11:25:00-->
+<!-- Rebuilt at 12/12/2005 11:29:06 (/UserIncludes/files/channel/head/headpic_305874.html-->
+<!-- xmlReBuildHTML is set to true -->
+<div class="dropDown">
+<h2 class="none"><a name="globalnavigation"></a><label for="skywebsites" accesskey="w">Navigation:</label></h2>
+            <form name="skywebsites" method="post" action="/includes/selectdirect.asp">
+	         <select name="url" onchange="surfto(this.value)">
+<option value="0l" selected="selected">Sky websites</option> 
+<option value="02">-----------</option> 
+<option value="http://www.sky.com">Sky.com</option>
+<option value="http://www.sky.com/ordersky">Joining Sky Tv</option> 
+<option value="http://www.sky.com/movies">Sky Movies</option> 
+<option value="http://www.sky.com/news">Sky News</option> 
+<option value="http://www.sky.com/skyone">Sky One</option> 
+<option value="http://www.sky.com/showbiz">Sky Showbiz</option> 
+<option value="http://www.sky.com/sports">Sky Sports</option> 
+<option value="http://home.skysports.com/broadband">Sky Sports Broadband</option> 
+<option value="http://www.sky.com/skycom/tvguide">TV Guide</option> 
+
+<option value="03">-----------</option> 
+<option value="http://www.sky.com/accessibility">Accessibility Information</option> 
+<option value="http://www.sky.com/corporate">BSkyB Corporate</option> 
+<option value="http://www.sky.com/existing">Existing Sky Customers</option> 
+<option value="http://www.reachforthesky.co.uk">Reach for the Sky</option> 
+<option value="http://www.sky.com/ireland">Republic of Ireland</option> 
+<option value="http://www.skyactive.tv/">Sky Active</option> 
+<option value="http://www.skybet.com?aff=303/">Sky Bet</option> 
+<option value="http://www.skybetvegas.com/cust">SkyBetVegas</option> 
+<option value="http://www.sky.com/business">Sky Business</option> 
+<option value="http://www.sky.com/hd">Sky HD</option> 
+<option value="http://www.skyinteractive.com/sky/home/default.htm">Sky Interactive</option> 
+<option value="http://www.sky.com/jobs">Sky Jobs</option> 
+<option value="http://www1.sky.com/media">Sky Media Sales</option> 
+<option value="http://www.skytextholidays.com">Sky Text Holidays</option> 
+<option value="http://www.skytravel.co.uk">Sky Travel</option> 
+<option value="04">-----------</option> 
+<option value="http://www.sky.com/skycom/article/0,,90000-1079033,00.html ">A-Z of Sky sites</option>
+<option value="05">-----------</option> 
+</select> 
+<noscript><input type="submit" value="go"></noscript>
+</form>
+</div>
+
+<div id="navList">
+  <ul class="MnavSport navSport1">
+    <li><a href="/index.asp">HOME</a></li>
+    <li><a href="/shows">Sky Sports Shows</a></li>
+    <li><a href="/experts">Sky Sports Experts</a></li>
+    <li><a href="/football">Football</a></li>
+    <li><a href="/cricket">Cricket</a></li>
+    <li><a href="/rugbyunion">Rugby Union</a></li>
+    <li><a href="/rugbyleague">Rugby League</a></li>
+    <li><a href="/golf">Golf</a></li>
+    <li><a href="/tennis">Tennis</a></li>
+    <li><a href="/boxing">Boxing</a></li>
+    <li><a href="/a1">A1 Racing</a></li>
+    <li><a href="/formula1">Formula One</a></li>
+    <li><a href="/horseracing">Horse Racing</a></li>
+    <li><a href="/superbikes">Superbikes</a></li>
+    <li><a href="/speedway">Speedway</a></li>
+    <li><a href="/darts">Darts</a></li>
+    <li><a href="/snooker">Snooker</a></li>
+    <li><a href="/ussports">US Sports</a></li>
+    <li><a href="/league.asp?cpid=101">Irish Sports</a></li>
+    <li><a href="/sportinbrief">Sport in Brief</a></li>
+    <li><a href="http://www.skysports.com/skysports/yourview">Your View</a></li>
+  </ul>
+  
+<ul class="MnavSport navSport2">
+   <li><a href="/broadband">Broadband Video</a></li>
+    <li><a href="/bettingguide">Betting Guide</a></li>
+   <li><a href="/articlefp.asp?hlid=299407">News Alerts</a></li>
+   <li><a href="/articlefp.asp?hlid=299436"><img src="/images/rss.gif" width="24" height="10" border="0">News Feeds</a></li>
+   <li><a href="/competitions">Competitions</a> </li>
+   <li><a href="/mobile/mobile.asp">Sky Mobile</a> </li>
+   <li><a href="/ido">Get Sky Sports</a> </li>
+   <li><a href="/skycustomers/">Sky Customers</a> </li>
+   <li><a href="http://www.skysportsgamesstore.com/" target="blank">Game Store</a></li>
+   <li><a href="http://www.skysportsdvdshop.co.uk/catalog/index.php">DVD Store</a></li>
+   <li><a href="http://www1.sky.com/sky_asx/radio/sport.asx">Audio Reports</a> </li>
+   <li><a href="http://www.skysports.com/skysports/article/0,,621-1005531,00.html">TV Guide</a> </li>
+   <li><a href="/pressinfo">Press Info</a> </li>
+
+</ul>
+
+
+  <ul class="MnavSport navSport3">
+    <li><a href="http://skysports.allsportgallery.co.uk/" target="blank">Buy Sports Pix</a> </li>
+    <li><a href=" http://www.skybet.com/skybet?aff=183" target="blank">Sky Bet</a> </li>
+    <li><a href="http://www.sky.com/photo" target="blank">Sky Photos</a> </li>
+  </ul>
+
+</div>
+
+<!-- Last Modified on 12/12/2005 12:54:03-->
+<!-- Rebuilt at 12/12/2005 13:05:52 (/UserIncludes/files/channel/Left_Navigation_Left_Navigation_-_Home.html-->
+<!-- xmlReBuildHTML is set to true -->
+<div id="poll_SKP4_0" style="display: block;">
+<div class="header"><h2>Sky Sports Vote</h2></div>
+<div class="poll">
+<form class="form" action="/CommonFiles/poll.asp" method="post"><input type="hidden" name="CallingSite" value="SKP4"><input type="hidden" name="Question_id" value="66662"><input type="hidden" name="form_id" value="SKP4"><strong>Will Arsenal finish in the top four?</strong><ul>
+<li><input id="radio214638" value="214638" name="answer" type="radio"><label for="radio214638">Yes</label></li>
+<li><input id="radio214639" value="214639" name="answer" type="radio"><label for="radio214639">No</label></li>
+</ul>
+<div class="button"><input value="vote now" name="vote now" type="submit"></div>
+</form>
+</div>
+</div><script language="javascript"><!--
+    if (getCookie('SKP4') != '' &&  getCookie('SKP4') != null )
+      {
+        if(document.getElementById('poll_SKP4_1')) document.getElementById('poll_SKP4_1').style.display="block";
+      }
+      else
+      {
+        if(document.getElementById('poll_SKP4_0')) document.getElementById('poll_SKP4_0').style.display="block"; 
+      }
+         
+  --></script><div id="poll_SKP4_1" style="display:none;">
+<div class="header"><h2>Sky Sports Vote</h2></div>
+<div class="poll">
+<form class="form" action="/CommonFiles/poll.asp" method="post"><input type="hidden" name="CallingSite" value="SKP4"><input type="hidden" name="Question_id" value="66662"><input type="hidden" name="form_id" value="SKP4"><strong>Will Arsenal finish in the top four?</strong><ul>
+<li>Yes<br><img src="/images/eurochamp/votebar.gif" alt="" width="29%" height="12">&nbsp;58%<br></li>
+<li>No<br><img src="/images/eurochamp/votebar.gif" alt="" width="21%" height="12">&nbsp;42%<br></li>
+</ul>
+</form>
+</div>
+</div><script language="javascript"><!--
+    if (getCookie('SKP4') != '' &&  getCookie('SKP4') != null )
+      {
+        if(document.getElementById('poll_SKP4_1')) document.getElementById('poll_SKP4_1').style.display="block";
+      }
+      else
+      {
+        if(document.getElementById('poll_SKP4_0')) document.getElementById('poll_SKP4_0').style.display="block"; 
+      }
+         
+  --></script>
+</div>
+
+    <div id="mainContent">
+
+  <div id="topMast">
+
+  </div><!--topMast-->
+  <div id="topMastClear"><br></div>
+<div id="utilityBar">
+
+<script language="javascript">
+	<!--
+	function clearDefault(el) {
+	  if (el.defaultValue==el.value) el.value = ""
 	}
+	//-->
 </script>
 
- <script language="JavaScript" type="text/JavaScript">
-function hideAdlayer() {
-	sendto=document.getElementById("adlayer");
-	sendto.style.display="none";
-}
+<!-- ***************** start tab menu ****************** -->
+<div id="tabtastic">
+<ul>
+<li><a class="xmenu2 ONx1" href="/messageboard.asp"><b class="xsnazzy"><b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b><span class="xboxcontent">
+Forums</span></b></a></li>
 
-function showAdlayer() {
-	sendto=document.getElementById("adlayer");
-	sendto.style.display="block";
-}
+<li><a class="xmenu2 ONx2" href="/scores"><b class="xsnazzy"><b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b><span class="xboxcontent">
+Score Centre</span></b></a></li>
 
-function hideAdlayer2() {
-	sendto=document.getElementById("adlayer2");
-	sendto.style.display="none";
-}
+<li><a class="xmenu2 ONx3" href="/articlefp.asp?hlid=299407"><b class="xsnazzy"><b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b><span class="xboxcontent">
+News Alerts</span></b></a></li>
 
-function showAdlayer2() {
-	sendto=document.getElementById("adlayer2");
-	sendto.style.display="block";
-}
-</script>
+<li><a class="xmenu2 ONx4" href="/broadband.asp"><b class="xsnazzy"><b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b><span class="xboxcontent">
+Free Video</span></b></a></li>
 
-<table cellspacing="0" cellpadding="0" width="760" border="0">
-<tbody>
-	<tr><td><a onclick="showAdlayer()" href="#"><img height="38" alt="" src="http://static.sky.com/images/pictures/1232536.gif" width="380" border="0"></a></td>
-		<td><a onclick="showAdlayer2()" href="#"><img alt="" src="http://static.sky.com/images/pictures/1220256.gif" border="0"></a></td>
-	</tr>
-</tbody>
-</table>
-<div id="adlayer" style="DISPLAY: none; POSITION: relative">
-<table cellspacing="2" cellpadding="4" width="760" bgcolor="#003399" border="0">
-<tbody>
-	<tr><td width="582" rowspan="2"><img src="http://static.sky.com/images/pictures/1163447.gif" alt="" width="104" height="80" align="left"><font face="Arial, Helvetica, sans-serif" color="#FFFFFF"><b>Exclusive online deal on Desktops &amp; Notebooks<br>
-      </b><font size="2">Free printer &amp; dbl memory plus extra 5% off
-<br> on selected desktops &amp; notebooks
-</font><b><br>
-      <a href="http://adfarm.mediaplex.com/ad/ck/2397-20706-1996-4" target="_new"><font size="2" color="#FFCC00">Only online for a limited time</font></a><br>
-      </b> </font></td>
-      <td width="156" valign="bottom">
+<li><a class="xmenu2 ONx5" href="http://www.adm02.com/marketer/bskyb/skysports/sky_sportzine/sportzine.html"><b class="xsnazzy"><b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b><span class="xboxcontent">
+Ezine</span></b></a></li>
+</ul>
+</div> 
+<!-- ***************** end tab menu ****************** -->
 
-      <div align="center"><img src="http://static.sky.com/images/pictures/1163452.gif" alt="" width="74" height="60"> </div>
-
-      </td>
-    </tr>
-    <tr>
-      <td width="156" valign="top" align="center"><font face="Arial, Helvetica, sans-serif" color="#FFFFFF"><font size="2"><a href="#" onclick="hideAdlayer()"><font color="#FFCC00"><b>Close
-        advert</b></font></a></font></font></td>
-    </tr>
-  </tbody></table>
-		</div>
-<div id="adlayer2" style="DISPLAY: none; POSITION: relative">
-<table cellspacing="2" cellpadding="4" width="760" bgcolor="#00BAEF" border="0">
-<tbody>
-	<tr><td valign="center" width="582" rowspan="2"><img src="http://static.sky.com/images/pictures/1220336.gif" alt="" width="104" height="80" align="left"><font face="Arial, Helvetica, sans-serif" color="#FFFFFF"><b>Download MSN Toolbar 
-
-FREE<br>
-      </b><font size="2">Search the internet from any webpage.  Block unwanted pop-up ads.  No 
-
-personal information required. Launch MSN Hotmail, MSN Messenger and My MSN directly from MSN 
-
-Toolbar.</font><b><br>
-      <a href="http://clk.atdmt.com/UMC/go/skynlmsn00900024umc/direct/01/" target="_new"><font size="2" color="#003399">Find out more - click here</font></a><br>
-      </b> </font></td>
-  </tr>
-  <tr>
-    <td></td><td width="156" valign="bottom" align="middle"><font face="Arial, Helvetica, sans-serif" size="2">  <a href="#" onclick="hideAdlayer2()"><b><font color="#003399">Close 
-
-advert</font></b></a></font></td>
-  </tr>
-</tbody></table>
-</div> <script>
-function surfto(form) {
-       var myindex=form.select1.selectedIndex
-       if (form.select1.options[myindex].value != "0") {
-        location=form.select1.options[myindex].value;}
-}
-</script>
-<!-- start logo/banner -->
-<table width="760" cellpadding="0" cellspacing="0" class="mblue">
-  <tbody><tr> 
-    <td width="292"><div align="center"><a href="http://www.skysports.com"><img src="http://static.sky.com/images/skysports/skylogo.gif" alt="Sky Sports.com" width="283" height="50" border="0"></a></div></td>
-    <td width="468" valign="top">
-	 <script>InsertDoubleClickAd(468,60,1);</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/www.skysports.co.uk/web/20040810145630id_/http%3A//www.skysports.com/skysports/disclaimer/privacy/0%2C%2C%2C00;cat1=sportshome;dcopt=ist;abr=!webtv;sz=468x60;tile=1;ord=1580443651321?"><a target=_blank href=http://ad.uk.doubleclick.net/jump/www.skysports.co.uk/web/20040810145630id_/http%3A//www.skysports.com/skysports/disclaimer/privacy/0%2C%2C%2C00;cat1=sportshome;dcopt=ist;abr=!webtv;sz=468x60;tile=1;ord=1580443651321?><IMG WIDTH=468 HEIGHT=60 BORDER=0 SRC=http://ad.uk.doubleclick.net/ad/www.skysports.co.uk/web/20040810145630id_/http%3A//www.skysports.com/skysports/disclaimer/privacy/0%2C%2C%2C00;cat1=sportshome;dcopt=ist;abr=!webtv;sz=468x60;tile=1;ord=1580443651321?></A></script>  </td>
-  </tr>
-  <tr> 
-    <td height="1" colspan="2" class="mblue"></td>
-  </tr>
-</tbody></table>
-<!-- end logo/banner -->
-
-
-<table width="760" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td width="115" valign="top">
-      <!-- start nav football home -->
-	  
-
-
-        <table border="0" cellspacing="0" cellpadding="0" class="dblue">
-          <tbody><tr> 
-            <td width="3"> </td>
-            <td width="112" height="30">
-		        <form name="form1">
-	            <select name="select1" onchange="surfto(this.form)" class="field">
-                <option selected="selected" value="0">Sky websites</option>
-                <option value="0">-----------</option>
-	
-		<option value="http://www.sky.com/">Sky.com </option>
-	
-		<option value="http://www.ordersky.com">How to order Sky</option>
-	
-		<option value="http://www.sky.com/skymovies">Sky Movies</option>
-	
-		<option value="http://www.sky.com/skynews">Sky News</option>
-	
-		<option value="http://www.skyone.co.uk">Sky One</option>
-	
-		<option value="http://www.sky.com/skysports">Sky Sports</option>
-	
-		<option value="http://www.sky.com/skysportsbroadband">Sky Sports Broadband</option>
-	
-		<option value="http://www.sky.com/skycom/tvguide">TV Guide</option>
-	
-		<option value="http://www.sky.com">----------------------</option>
-	
-		<option value="http://www.sky.com/corporate">BSkyB Corporate</option>
-	
-		<option value="http://www.sky.com/disability">Disability Information</option>
-	
-		<option value="http://www.sky.com/skyactive">Sky Active</option>
-	
-		<option value="http://skybuy.sky.com">Sky Buy</option>
-	
-		<option value="http://www.sky.com/jobs">Sky Jobs</option>
-	
-		<option value="http://www.skytextholidays.com">Sky Text Holidays</option>
-	
-		<option value="http://www.sky.com">----------------------</option>
-	
-		<option value="http://www.sky.com/skycom/article/0,,90000-1079033,00.html ">A-Z of Sky sites</option>
-	
-              </select>
-			  </form>
-
-			  </td>
-          </tr>
-          <tr> 
-            <td></td>
-            <td height="1" class="white"> </td>
-          </tr>
-        </tbody></table>
-		<script language="javascript">
-		<!--		
-		// This function will check that there is a query in the search box. If not, it will not submit.
-		function validate() {
-			var queryString = document.search.QUERY.value;
-			if (queryString!='') {
-				return true;
-			} else {
-				return false;
-			}
-		}
-		//  End -->
-		</script>
-		 <table width="115" cellspacing="0" cellpadding="0" border="0" class="topmenu"> <tbody><tr> <td width="90" height="30" class="dblue"> <form name="search" action="http://search.sky.com/search/skysports/results/1,,,00.html" onsubmit="return(validate());" method="get"> <input name="QUERY" type="text" class="field" value=" search" onclick="clearDefault(this)" maxlength="120"> <input type="hidden" name="CID" value="1"> </form></td> <td width="25" class="dblue"><input type="image" src="http://static.sky.com/images/skysports/go.gif" alt="Go" width="25" height="18" border="0"></td>  </tr> </tbody></table> <table width="115" border="0" cellspacing="0" cellpadding="0"> <tbody><tr><td><div id="leftnav"><a href="/skysports/home">&nbsp;HOME</a></div> 
-	 <div id="leftnav"><a href="http://olympics.skysports.com">&nbsp;Olympics</a></div>  <div id="leftnav"><a href="/skysports/shows">&nbsp;Sky Sports Shows</a></div>  <div id="leftnav"><a href="/skysports/experts">&nbsp;Sky Sports Experts</a></div>  <div id="leftnav"><a href="http://skysports.planetfootball.com">&nbsp;Football</a></div>  <div id="leftnav"><a href="/skysports/cricket">&nbsp;Cricket</a></div>  <div id="leftnav"><a href="http://www.skysports.com/skysports/rugbyunion">&nbsp;Rugby Union</a></div>  <div id="leftnav"><a href="http://www.skysports.com/skysports/rugbyleague">&nbsp;Rugby League</a></div>  <div id="leftnav"><a href="/skysports/golf">&nbsp;Golf</a></div>  <div id="leftnav"><a href="/skysports/tennis">&nbsp;Tennis</a></div>  <div id="leftnav"><a href="/skysports/boxing">&nbsp;Boxing</a></div>  <div id="leftnav"><a href="/skysports/formulaone">&nbsp;Formula One</a></div>  <div id="leftnav"><a href="/skysports/speedway">&nbsp;Speedway</a></div>  <div id="leftnav"><a href="/skysports/superbikes">&nbsp;Superbikes</a></div>  <div id="leftnav"><a href="/skysports/horseracing">&nbsp;Horse Racing</a></div>  <div id="leftnav"><a href="/skysports/snooker">&nbsp;Snooker</a></div>  <div id="leftnav"><a href="/skysports/external/popup?url=http://www.planetdarts.co.uk">&nbsp;Darts</a></div>  <div id="leftnav"><a href="/skysports/nfl">&nbsp;NFL</a></div>  <div id="leftnav"><a href="/skysports/pressinfo">&nbsp;Press Info</a></div>  <label for="moresports" class="label">more sports:<br></label> <select name="select2" class="selectfield" id="moresports" onchange="if (this.value != 0) {document.location.href=this.value}"> <option selected="selected" value="0">More sports - </option>  <option value="http://olympics.skysports.com">Olympics</option>  <option value="/skysports/shows">Sky Sports Shows</option>  <option value="/skysports/experts">Sky Sports Experts</option>  <option value="http://skysports.planetfootball.com">Football</option>  <option value="/skysports/cricket">Cricket</option>  <option value="http://www.skysports.com/skysports/rugbyunion">Rugby Union</option>  <option value="http://www.skysports.com/skysports/rugbyleague">Rugby League</option>  <option value="/skysports/golf">Golf</option>  <option value="/skysports/tennis">Tennis</option>  <option value="/skysports/boxing">Boxing</option>  <option value="/skysports/formulaone">Formula One</option>  <option value="/skysports/speedway">Speedway</option>  <option value="/skysports/superbikes">Superbikes</option>  <option value="/skysports/horseracing">Horse Racing</option>  <option value="/skysports/snooker">Snooker</option>  <option value="/skysports/external/popup?url=http://www.planetdarts.co.uk">Darts</option>  <option value="/skysports/nfl">NFL</option>  <option value="/skysports/pressinfo">Press Info</option>  </select>  <div id="leftnavred"><a href="http://skyscape.sky.com/?clubSiteCode=MSITE01">&nbsp;Free Video</a></div>  <div id="leftnavred"><a href="http://skysports.planetfootball.com/fungames.asp?article=79449">&nbsp;Fun and Games</a></div>  <div id="leftnavred"><a href="/skysports/article/0,,1-1005531,00.html">&nbsp;TV Guide</a></div>  <div id="leftnavred"><a href="http://www1.sky.com/sky_asx/radio/sport.asx">&nbsp;Audio</a></div>  <div id="leftnavred"><a href="/skysports/article/0,,1-1104464,00.html">&nbsp;Desktop Alerts</a></div>  <div id="leftnavred"><a href="/skysports/article/0,,29-1101368,00.html">&nbsp;SMS Alerts</a></div>  <div id="leftnavred"><a href="http://www.skysports.com/skysports/article/0,,0-1064220,00.html">&nbsp;Newsletter</a></div>  <div id="leftnavred"><a href="/skysports/competitions">&nbsp;Competitions</a></div>  <div id="leftnavred"><a href="/skysports/fantasygames">&nbsp;Fantasy Games</a></div>  <div id="leftnavred"><a href="/skysports/picturegalleries">&nbsp;Picture Galleries</a></div>  <div id="leftnavred"><a href="/skysports/postcards">&nbsp;Post Cards</a></div>  <div id="leftnavred"><a href="/skysports/yourview">&nbsp;Your View</a></div>  <div id="leftnavred"><a href="http://www.iconaphone.co.uk/sky/sky_sports_site/default.asp">&nbsp;Tones and Games</a></div>  <div id="leftnavred"><a href="mailto:feedback@skysports.com?">&nbsp;Feedback</a></div>  <div id="leftnavwhite"><a href="/skysports/skybet">&nbsp;Sky Bet</a></div>  <div id="leftnavwhite"><a href="/skysports/external/popup?url=http://skysports.allsportgallery.co.uk/">&nbsp;Buy Sports Pix</a></div> <br><br> <iframe src="/skysports/pollleftnav/0,,1,00.html" width="115" height="385" border="0" framespacing="0" frameborder="0" scrolling="no"></iframe>    <br> </td></tr></tbody></table>  <!-- end nav football home -->
-    </td>
-    <td width="15"><img src="/x/x.gif" alt=" " width="15" height="1"></td>
-    <td width="622" valign="top">
-		 
-			      <!--start breadcrumb nav--><table width="100%" cellspacing="0" cellpadding="0" class="breadcrumb">
-			        <tbody><tr>
-			          <td height="34">You are in: <a href="/skysports/home/">Home</a> &gt; Privacy Statement</td>
-			        </tr>
-			      </tbody></table><!--start breadcrumb nav-->
-				 <table width="609" cellspacing="0" cellpadding="0" border="0"> <tbody><tr> <td width="450" valign="top"> 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tbody><tr>
-  <td valign="top"> <div class="headmain">PRIVACY POLICY</div><br></td>
-</tr>
-<tr>
-  <td valign="top">
-      <div class="main">
+<div id="searchPanel">
+<form name="MainNavForm" method="post" action="/search.asp?sport=1">
+<h2 class="none"><label for="searchBox" accesskey="q">Search:</label></h2>
+<input name="Query" type="text" id="searchBox" onfocus="clearDefault(this);" accesskey="q" value="Search Sky Sports.com">
+<input type="submit" id="searchButton" value="Search" class="submit" name="submit2">
+</form>
+</div>
+</div>
+<!-- Last Modified on 12/12/2005 12:54:03-->
+<!-- Rebuilt at 12/12/2005 13:05:53 (/UserIncludes/files/channel/tab/Sky_Sports_-_Tab_Bar.html-->
+<!-- xmlReBuildHTML is set to true -->
+<div class="colCradle"><a name="content"></a><div id="articleHead"><h2>Privacy Statement</h2>
+<div class="subarticleHead">By Sky Sports - Created on 5th May 2005</div></div>
+<div id="articleBody">
+<p class="big">
 	  This Privacy Policy is applicable to any personal information, which is given by You
 	  to Us ("User Information") via the web site located at www.sky.com ("Site"). This Policy
-	  is devised to help you feel more confident about the privacy and security of your personal details.<br>
-      <p>
+	  is devised to help you feel more confident about the privacy and security of your personal details.
+</p>
+	  <p>
 	  "You" shall mean you, the user of the Site. "We/Us" means British Sky Broadcasting Ltd and any
 	  member of the British Sky Broadcasting Group of companies "Users" means the users of the Site
 	  collectively and/or individually as the context allows. </p>
+
       <p>
 	  We process personal data only in strict compliance with the Data Protection Act 1998 and
 	  associated legislation.</p>
-	  <br><br>
-      <p><b>Data Collection</b></p>
+	<h3>Data Collection</h3>
       <p>
 	  When using the Site You may encounter areas such as games, competitions, chat forums, shopping or
 	  video services where You may be asked to enter User Information. Such User Information will only be
 	  used for the purposes for which it was collected, for any other purposes specified at the collection
 	  point and in accordance with this Privacy Policy.</p>
-	  <br><br>
-      <p><b>How we may use your data</b></p>
+	    <h3>How we may use your data</h3>
 	  <p>
 	  By entering Your User Information, You accept that we may retain Your User Information and that it
 	  may be held by Us or any third party company which processes it on Our behalf.</p>
@@ -396,17 +421,20 @@ function surfto(form) {
 			<li>market research, including statistical analysis of user behaviour which we may disclose to
 			third parties in depersonalised, aggregated form.</li>
 			<li>in order to enable Us to comply with any requirements imposed on us by law.</li>
+
 			<li>in order to send You periodic communications (this may include e-mail), about features,
 			products and services, events and special offers. Such communications from Us may include
 			advertising for third party companies or organisations.</li>
 		</ol>
-		<b>For your convenience you can withdraw consent by replying to the "unsubscribe" link in e-mails from us.</b>
-		<br><br>
-		Please also note that we do not disclose your personal information to third parties to enable
-		them to send you direct marketing without your permission to do so.
-		<br><br>
-		<p><b>Cookies</b></p>
+		
+<p><strong>For your convenience you can withdraw consent by replying to the "unsubscribe" link in e-mails from us.</strong></p>
+		
+		<p>Please also note that we do not disclose your personal information to third parties to enable
+		them to send you direct marketing without your permission to do so.</p>
+		
+		<h3>Cookies</h3>
 		<p>
+
 		You should be aware that information and data may be automatically collected through the use of Cookies.
 		"Cookies" are small text files that store basic information that a web site can use to recognise repeat
 		site visits and as an example, recall your name if this has been previously supplied. We may use this to
@@ -417,11 +445,47 @@ function surfto(form) {
 		through the use of Cookies, there is a simple procedure in most browsers that allows
 		You to deny or accept the Cookie feature. Note, however, that "personalised" services may be
 		affected if the cookie option is disabled.</p>
-		<p>If you wish to disable the setting of cookies in your browser, please click
-		<a href="javascript:window.open('/skycom/disclaimer/cookies','privacy','width=410,height=515,history=no,resizable=no,status=no,scrollbars=yes,menubar=no'); void('');">here</a>
-		for instructions.</p>
-		<br><br>
-		<p><b>Security and Data Retention</b></p>
+		<p>If you wish to disable the setting of cookies in your browser, please see below
+		.</p>
+
+<script type="text/javascript">
+	 <!--
+	 	if (is_ie && is_win) {
+			document.write('<h4>Internet Explorer 6</h4><ol><li>Select Tools</li><li>Select "Internet Options"</li><li>Select the Privacy tab.</li><li>Select Advanced</li><li>Check the "Override automatic cookie handling" box</li><li>Click the block option</li><li>Click OK</li></ol>');
+		} else if (is_ffx && is_win) {
+			document.write('<h4>Firefox</h4><ol><li>Select Tools</li><li>Select "Options"</li><li>Select the Privacy tab.</li><li>Click the Cookies dropwdown</li><li>Untick "Allow sites to set cookies"</li><li>Click OK</li></ol>');
+		} else if (is_nav && is_win) {
+			document.write('<h4>Netscape</h4><ol><li>Select Edit</li><li>Select Preferences</li><li>Select "Privacy and Security"</li><li>Select Cookies</li><li>Select "Disable cookies"</li><li>Select OK</li></ol>');
+		} else if (is_ie && is_mac) {
+			document.write('<h4>Internet Explorer</h4><ol><li>Click Edit</li><li>Select Preferences</li<li>Under the Receiving Files option, select Cookies</li><li>Under "When receiving cookies:" select the desired level of cookie acceptance</li><li>Under "When receiving cookies:" select the desired level of cookie acceptance</li><li>Click OK</li></ol>');
+		} else if (is_ffx && is_mac) {
+			document.write('<h4>Firefox</h4><ol><li>Select Tools</li><li>Select "Options"</li><li>Select the Privacy tab.</li><li>Click the Cookies dropdown</li><li>Untick "Allow sites to set cookies"</li><li>Click OK</li></ol>');
+		} else if (is_saf && is_mac) {
+			document.write('<h4>Safari</h4><ol><li>Select Safari</li><li>Select "Options"</li><li>Select "Preferences"</li><li>Click the Security Tab</li><li>Tick "Never" under the Accept Cookies section.</li></ol>');
+		} else if (is_opera && is_win) {
+			document.write('<h4>Opera</h4><ol><li>Select File</li><li>Select "Preferences"</li><li>Click the Privacy Tab</li><li>Untick "Enable Cookies".</li><li>Click  "Enable "Apply" then "OK".</li></ol>');
+		}
+	 //-->
+	 </script>
+<noscript>
+<h4>Internet Explorer 6</h4><ol><li>Select Tools</li><li>Select "Internet Options"</li><li>Select the Privacy tab.</li><li>Select Advanced</li><li>Check the "Override automatic cookie handling" box</li><li>Click the block option</li><li>Click OK</li></ol>
+
+<h4>Firefox</h4><ol><li>Select Tools</li><li>Select "Options"</li><li>Select the Privacy tab.</li><li>Click the Cookies dropwdown</li><li>Untick "Allow sites to set cookies"</li><li>Click OK</li></ol>
+
+<h4>Netscape</h4><ol><li>Select Edit</li><li>Select Preferences</li><li>Select "Privacy and Security"</li><li>Select Cookies</li><li>Select "Disable cookies"</li><li>Select OK</li></ol>
+
+<h4>Internet Explorer (Mac)</h4><ol><li>Click Edit</li><li>Select Preferences</li<li>Under the Receiving Files option, select Cookies</li><li>Under "When receiving cookies:" select the desired level of cookie acceptance</li><li>Under "When receiving cookies:" select the desired level of cookie acceptance</li><li>Click OK</li></ol>
+
+<h4>Firefox (Mac)</h4><ol><li>Select Tools</li><li>Select "Options"</li><li>Select the Privacy tab.</li><li>Click the Cookies dropdown</li><li>Untick "Allow sites to set cookies"</li><li>Click OK</li></ol>
+
+<h4>Safari</h4><ol><li>Select Safari</li><li>Select "Options"</li><li>Select "Preferences"</li><li>Click the Security Tab</li><li>Tick "Never" under the Accept Cookies section.</li></ol>
+
+'<h4>Opera</h4><ol><li>Select File</li><li>Select "Preferences"</li><li>Click the Privacy Tab</li><li>Untick "Enable Cookies".</li>
+			<li>Click  "Enable "Apply" then "OK".</li></ol>
+ </noscript>
+		
+
+		<h3>Security and Data Retention</h3>
 		<p>
 		Security is very important to Us. Secure Socket Layer ("SSL") encryption technology is used
 		for protection of information in transit for any sensitive transactions such as payments.
@@ -430,148 +494,91 @@ function surfto(form) {
 		<p>
 		We will comply with all relevant Data Protection legislation in relation to the period
 		for which We retain any information You disclose to us.</p>
-		<br><br>
-		<p><b>Updates</b></p>
+		
+		<h3>Updates</h3>
+
 		<p>
 		You may notify Us of any updates, amendments and corrections to previously collected User
 		Information by using the Feedback Form link in the Contact Us section of the site.</p>
 		<p>
 		We may change this privacy policy from time to time and you should check these regularly.
 		Your use of the Sky Site will be deemed an acceptance of the privacy policy existing at that time.</p>
-		<br><br>
-		<p><b>Contact</b></p>
-		<p>Any queries or comments about this policy should be forwarded to:<br><br>
-        <a href="mailto:DPOFFICE@BSKYB.COM">DPOFFICE@BSKYB.COM</a></p>
-		<p>Any site that you may connect to from here is not covered by this Privacy Policy.</p>
-		<br><br>
-      </div>
-  </td></tr>
-</tbody></table>
-<script language="JavaScript">
-<!--
-var wssArticleTitle = 'Privacy Statement';
-//-->
-</script>
-<br> <p> <img src="/x/x.gif" height="1" width="450"> </p></td> <td width="8"><img src="/x/x.gif" alt="" width="8" height="1"></td> <td width="151" valign="top"> <div class="artbox">  <table width="100%" cellspacing="0" cellpadding="0"> <tbody><tr> <td valign="top"><table width="135" border="0" cellpadding="0" cellspacing="0" class="active_alt"> <tbody><tr> <td><a href="http://www1.sky.com/videolounge/skyscape.html"><img src="http://static.sky.com/images/skysports/active_logo_2.gif" alt="Sky Scape" width="135" height="50" border="0"></a><br> <br>  <img src="http://static.sky.com/images/skysports/vid.gif" alt="play" width="8" height="10"><a href="http://www1.sky.com/videolounge/skyscape.html"> Friendly highlights</a><br>  <img src="http://static.sky.com/images/skysports/vid.gif" alt="play" width="8" height="10"><a href="http://www1.sky.com/videolounge/skyscape.html"> Premiership highlights!</a><br>  <img src="http://static.sky.com/images/skysports/vid.gif" alt="play" width="8" height="10"><a href="http://skyscape.sky.com/?clubSiteCode=MSITE01"> FREE video site - NEW!</a><br>  </td> </tr> <tr> <td height="18" valign="middle"><img src="http://static.sky.com/images/skysports/btn_bluearrow.gif" alt=" " width="9" height="9"><a href="http://www1.sky.com/videolounge/skyscape.html">Sky Sports video</a></td> </tr> </tbody></table></td> </tr> <tr> <td class="mblue"> </td> </tr> <tr> <td height="8"> </td> </tr> </tbody></table>  <table width="151" cellspacing="0" cellpadding="0" border="0"> <tbody><tr> <td valign="top"> <table width="100%" cellpadding="0" cellspacing="0" class="headers"> <tbody><tr> <td> <img src="http://static.sky.com/images/pictures/10049972.gif" alt="Sky Sports Experts" height="18"> </td> </tr> </tbody></table>  <table width="100%" cellspacing="0" cellpadding="0" class="experts_alt"> <tbody><tr> <td width="45" valign="top"> <img src="http://static.sky.com/images/pictures/1221536.jpg" alt="MARTIN TYLER" width="40" height="40"></td> <td valign="top"><a href="/skysports/article/0,,101-1146522,00.html"><strong>MARTIN TYLER</strong></a><br> <a href="/skysports/article/0,,101-1146522,00.html">Premiership stats and facts&nbsp;
-</a></td> </tr> </tbody></table>  <table width="100%" cellspacing="0" cellpadding="0" class="experts_alt"> <tbody><tr> <td width="45" valign="top"> <img src="http://static.sky.com/images/pictures/1184916.jpg" alt="CHRIS KAMARA" width="40" height="40"></td> <td valign="top"><a href="/skysports/article/0,,101-1146340,00.html"><strong>CHRIS KAMARA</strong></a><br> <a href="/skysports/article/0,,101-1146340,00.html">On the Football League
-</a></td> </tr> </tbody></table>  <table width="100%" cellspacing="0" cellpadding="0" class="experts_alt"> <tbody><tr> <td width="45" valign="top"> <img src="http://static.sky.com/images/pictures/1094814.jpg" alt="ANDY GRAY" width="40" height="40"></td> <td valign="top"><a href="/skysports/article/0,,101-1084211,00.html"><strong>ANDY GRAY</strong></a><br> <a href="/skysports/article/0,,101-1084211,00.html">Answers your questions.</a></td> </tr> </tbody></table>  <table width="100%" cellspacing="0" cellpadding="0" class="experts_alt"> <tbody><tr> <td width="45" valign="top"> <img src="http://static.sky.com/images/pictures/1157740.jpg" alt="RODNEY MARSH" width="40" height="40"></td> <td valign="top"><a href="/skysports/article/0,,101-1146323,00.html"><strong>RODNEY MARSH</strong></a><br> <a href="/skysports/article/0,,101-1146323,00.html">On the live Premiership games.
-</a></td> </tr> </tbody></table>  <table width="100%" cellspacing="0" cellpadding="0" class="experts_alt"> <tbody><tr> <td width="45" valign="top"> <img src="http://static.sky.com/images/pictures/1068161.jpg" alt="JEFF STELLING" width="40" height="40"></td> <td valign="top"><a href="/skysports/article/0,,101-1099897,00.html"><strong>JEFF STELLING</strong></a><br> <a href="/skysports/article/0,,101-1099897,00.html">His view on the football scene.
-</a></td> </tr> </tbody></table>  <table width="100%" cellspacing="0" cellpadding="0" class="experts_alt"> <tbody><tr> <td width="45" valign="top"> <img src="http://static.sky.com/images/pictures/1168535.jpg" alt="GUILLEM BALAGUE" width="40" height="40"></td> <td valign="top"><a href="/skysports/article/0,,101-1106391,00.html"><strong>GUILLEM BALAGUE</strong></a><br> <a href="/skysports/article/0,,101-1106391,00.html">Our La Liga expert.
-</a></td> </tr> </tbody></table>  </td> </tr> </tbody></table>  <table width="100%" cellspacing="0" cellpadding="0"> <tbody><tr> <td valign="top"> <table width="100%" cellpadding="0" cellspacing="0" class="headers"> <tbody><tr> <td><img src="http://static.sky.com/images/pictures/1200232.gif" alt=" " height="18"></td> </tr> </tbody></table>  </td> </tr> </tbody></table>  <table width="151" cellspacing="0" cellpadding="0"> <tbody><tr> <td valign="top"> <table width="100%" cellpadding="0" cellspacing="0" class="headers"> <tbody><tr> <td><img src="http://static.sky.com/images/pictures/10049969.gif" alt="Sky Sports Features" height="18"></td> </tr> </tbody></table>  <table width="100%" cellspacing="0" cellpadding="0" class="cc_feat"> <tbody><tr> <td valign="top"><img src="http://static.sky.com/images/skysports/btn_feature.gif" alt=" " width="9" height="9"><a href="/skysports/article/0,,101-1116593,00.html">Football Review 2003</a><br> Read Skysports' <strong>Football Review of the Year</strong> for 2003 - January to June.
- </td> </tr> </tbody></table>  </td> </tr> </tbody></table>  </div> </td> </tr> </tbody></table>  </td>
-    <td width="8"> </td>
-  </tr>
-</tbody></table>
-<!-- start footer --><br>
-<table width="622" border="0" cellspacing="0" cellpadding="0" class="footer">
-  <tbody><tr> 
-    <td><br>
-      
- <a href="http://olympics.skysports.com" class="leftnav">Olympics</a>  |  <a href="http://skyscape.sky.com/?clubSiteCode=MSITE01" class="leftnav">Free Video</a>  |  <a href="http://skysports.planetfootball.com/fungames.asp?article=79449" class="leftnav">Fun and Games</a>  |  <a href="/skysports/shows" class="leftnav">Sky Sports Shows</a>  |  <a href="/skysports/experts" class="leftnav">Sky Sports Experts</a>  |  <a href="/skysports/home" class="leftnav">Home</a>  |  <a href="http://skysports.planetfootball.com" class="leftnav">Football</a>  |  <a href="/skysports/cricket" class="leftnav">Cricket</a>  |  <a href="http://www.skysports.com/skysports/rugbyunion" class="leftnav">Rugby Union</a>  |  <a href="http://www.skysports.com/skysports/rugbyleague" class="leftnav">Rugby League</a>  |  <a href="/skysports/golf" class="leftnav">Golf</a>  |  <a href="/skysports/tennis" class="leftnav">Tennis</a>  |  <a href="/skysports/boxing" class="leftnav">Boxing</a>  |  <a href="/skysports/formulaone" class="leftnav">Formula One</a>  |  <a href="/skysports/speedway" class="leftnav">Speedway</a>  |  <a href="/skysports/superbikes" class="leftnav">Superbikes</a>  |  <a href="/skysports/horseracing" class="leftnav">Horse Racing</a>  |  <a href="/skysports/snooker" class="leftnav">Snooker</a>  |  <a href="/skysports/external/popup?url=http://www.planetdarts.co.uk" class="leftnav">Darts</a>  |  <a href="/skysports/nfl" class="leftnav">NFL</a>  |  <a href="/skysports/skybet" class="leftnav">Sky Bet</a>  |  <a href="/skysports/article/0,,1-1005531,00.html" class="leftnav">TV Guide</a>  |  <a href="http://www1.sky.com/sky_asx/radio/sport.asx" class="leftnav">Audio</a>  |  <a href="/skysports/article/0,,1-1104464,00.html" class="leftnav">Desktop Alerts</a>  |  <a href="/skysports/article/0,,29-1101368,00.html" class="leftnav">SMS Alerts</a>  |  <a href="http://www.skysports.com/skysports/article/0,,0-1064220,00.html" class="leftnav">Newsletter</a>  |  <a href="/skysports/competitions" class="leftnav">Competitions</a>  |  <a href="/skysports/fantasygames" class="leftnav">Fantasy Games</a>  |  <a href="/skysports/picturegalleries" class="leftnav">Picture Galleries</a>  |  <a href="/skysports/postcards" class="leftnav">Post Cards</a>  |  <a href="/skysports/yourview" class="leftnav">Your View</a>  |  <a href="/skysports/pressinfo" class="leftnav">Press Info</a>  |  <a href="/skysports/external/popup?url=http://skysports.allsportgallery.co.uk/" class="leftnav">Buy Sports Pix</a>  |  <a href="http://www.iconaphone.co.uk/sky/sky_sports_site/default.asp" class="leftnav">Tones and Games</a>  |  <a href="mailto:feedback@skysports.com?" class="leftnav">Feedback</a>  <br> <br> <br> © 2004 BSkyB | <a href="/skysports/disclaimer/privacy/0,,,00.html">Privacy Statement</a> | <a href="/skysports/disclaimer/termsconditions/0,,,00.html">Terms and Conditions</a> | <a href="http://www.sky.com/accessibility">Accessibility Information</a> | <a href="/skysports/feedback/enquiry/0,,,00.html" onclick="popUp(this.href,'elastic',640,640);return false;" target="_blank">Feedback</a><br> <br> <br> 
-<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-
-<script language="javascript" id="_hbc">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-bskyb.hitbox.com";
 		
-if (typeof wssArticleTitle == 'undefined') {
-hbx.pn="HomePage"; //page name(s)
-}
-else
-{
-	if (wssArticleTitle=='nbsp' || wssArticleTitle=='' || wssArticleTitle=='+') {
-		hbx.pn="HomePage"; //page name(s)
-	}
-	else {
-		hbx.pn=wssArticleTitle; //page name(s)
-	}
-}
-hbx.mlc="Home"; //multi-level content category
-			
-var regHome = /(.*home.*)/i;
-if (regHome.exec(hbx.pn)!=null || regHome.exec(hbx.mlc)!=null) {
-	lt_var = 'auto';
-}
-else {
-	lt_var = 'none';
-}
+		<h3>Contact</h3>
+		<p>Any queries or comments about this policy should be forwarded to:<br>
+		  <br>
 
-hbx.acct="DM530528JGAV;DM53111942ZM";
-hbx.pndef="title";
-hbx.ctdef="full";
+<a href="mailto:DPOFFICE@BSKYB.COM">DPOFFICE@BSKYB.COM</a></p>
+		<p>Any site that you may connect to from here is not covered by this Privacy Policy.</p>
+</div>
+<!-- Last Modified on -->
+<!-- Err.Description (after xtrans creation) = A connection with the server could not be established
+ //--><!-- Rebuilt at 09/11/2005 00:10:24 (/UserIncludes/files/article/299447.html-->
+  </div> <!--colCradle-->   
+    </div> <!--mainContent-->
+    <br clear="all">
+  </div> <!--SubContainer-->
+<div id="footer">
 
-hbx.fv="";
-hbx.lt=lt_var;
-hbx.dlf="n";
-hbx.dft="n";
-hbx.elf="n";
-
-hbx.seg="";
-hbx.fnl="";
-
-hbx.cmp="";
-hbx.cmpn="";
-hbx.dcmp="";
-hbx.dcmpn="";
-hbx.dcmpe="";
-hbx.dcmpre="";
-hbx.hra="";
-hbx.hqsr="";
-hbx.hqsp="";
-hbx.hlt="";
-hbx.hla="";
-hbx.gp="";
-hbx.gpn="";
-hbx.hcn="";
-hbx.hcv="";
-hbx.cp="null";
-hbx.cpd="";
-</script>
-<!--<script language="javascript1.1" defer src="/sky/js/hbe-11up/0,,,00.js"></script>-->
-<script language="javascript1.1" defer="" src="/sky/js/hbx/0,,,00.js"></script>
-<noscript>
-<img src="http://ehg-bskyb.hitbox.com/HG?hc=we10&cd=1&hv=6&ce=u&hb=DM530528JGAV;DM53111942ZM&n=Non+JavaScript+Browsers&vcon=Non+JavaScript+Browsers&seg=&cmp=&gp=&fnl=&pec=&dcmp=&ra=&gn=&cv=&ld=&la=&c1=&c2=&c3=&c4=&vpc=090101rn" border="0" width="1" height="1">
-</noscript>
-<!-- END WEBSIDESTORY CODE  -->
-		 
-
-
-<br>
-      <br>
-	  <br>
-    </td>
-  </tr>
-</tbody></table><!-- end footer -->
-      
- <!--start of msn ifram --> <span id="explorerSpan" style="position: absolute; top: 0px; left: 760px;"> <script> if (document.domain == "msn.skysports.com") { document.write('<IFRAME NAME="iframe2" SRC="/skysports/msn/right/0,,,00.html" align="top" width="150" height="516" frameborder="0" scrolling="no"></IFRAME>'); } </script> <table border="0" cellpadding="0" cellspacing="0" width="150" height="902"> <tbody><tr> <td width="150" align="center" valign="top"> <div align="left">  <title>Sidebar</title> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> <link href="/skysports/msn.css" rel="stylesheet" type="text/css">   <table width="150" height="19" border="0" cellpadding="0" cellspacing="0"> <tbody><tr> <td> </td> </tr> </tbody></table> <table cellspacing="0" cellpadding="0" width="150" border="0"> <!-- <tr> <td height="34" valign="top"><img height="30" src="http://static.sky.com/images/skysports/msntop_bar_bg.gif" width="100%" /></td> </tr> --> <tbody><tr> <td> <div class="msnheader">
-					 
-					 </div><table cellspacing="0" cellpadding="0" border="0"> <tbody><tr> <td><img height="1" src="/x/x.gif" width="150"></td> </tr>  </tbody></table><table border="0"><tbody><tr><td><img height="1" alt="" src="/x/x.gif" width="8"></td><td><script>InsertDoubleClickAd(120,600,1);</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/www.skysports.co.uk/web/20040810145630id_/http%3A//www.skysports.com/skysports/disclaimer/privacy/0%2C%2C%2C00;cat1=sportshome;sz=120x600;tile=1;ord=1580443651321?"><a target=_blank href=http://ad.uk.doubleclick.net/jump/www.skysports.co.uk/web/20040810145630id_/http%3A//www.skysports.com/skysports/disclaimer/privacy/0%2C%2C%2C00;cat1=sportshome;sz=120x600;tile=1;ord=1580443651321?><IMG WIDTH=120 HEIGHT=600 BORDER=0 SRC=http://ad.uk.doubleclick.net/ad/www.skysports.co.uk/web/20040810145630id_/http%3A//www.skysports.com/skysports/disclaimer/privacy/0%2C%2C%2C00;cat1=sportshome;sz=120x600;tile=1;ord=1580443651321?></A></script></td></tr></tbody></table>
-				 
-
-<script language="JavaScript1.2" type="text/javascript">
+<img src="/images/skysports_small.gif" alt="Copyright BSkyB" height="16" width="93">
+<ul>
+<li>© 
+<script type="text/javascript" language="JavaScript">
 <!--
+var now = new Date();
+document.write (now.getFullYear());
+//--></script>2020
+ BSkyB |</li> 
+<li><a href="/articlefp.asp?hlid=299447">Privacy Statement</a></li> 
+<li><a href="/articlefp.asp?hlid=299443">Terms and Conditions</a></li> 
+<li><a href="/articlefp.asp?hlid=299403">Accessibility</a></li> 
+<li><a href="/contactus" class="emailIcon">Contact Us</a></li>
+</ul><br clear="all">
+<ul class="selectstyle"><h3>Select stylesheet:&nbsp;</h3>  
+<li><a href="#" onclick="setActiveStyleSheet('High Contrast'); 
+return false;">High Contrast</a> <a href="#">(?)</a></li>
+<li><a href="#" onclick="setActiveStyleSheet('Default'); 
+return false;">Default version</a></li></ul>
+<br clear="all">
+<div id="skipTo"><a href="#">Top</a></div>
+</div>
 
- function showHideExplorer(){
-  if(document.body) var iWidth = document.body.clientWidth;
-  if(iWidth > 910)
-		{
-		document.all.explorerSpan.style.display = "";
-		}
-		else
-		{
-			 document.all.explorerSpan.style.display = 'none';
-		}
- }
- showHideExplorer();
-//--></script>
-<script language="JavaScript1.2" type="text/javascript" for="window" event="onresize">
-<!--
- showHideExplorer();
+<!-- Last Modified on 12/12/2005 13:22:01-->
+<!-- Rebuilt at 12/12/2005 13:22:19 (/UserIncludes/files/channel/footer.html-->
+<!-- xmlReBuildHTML is set to true -->
+<div id="rightArea">
+
+<div class="tower"><!--JavaScript Tag with JS Keywords //Tag for the network 500: Sky media // Website: Skysports // Page: Home // Placement: Home Sky1 (1003744) //created at: May 11, 2005 6:35:37 PM-->
+<script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|500|1003744|0|168|ADTECH;loc=100;target=_blank;key=' + adCatString + ';grp=' +GROUP+ ';misc='+new Date().getTime()+'"></scr'+'ipt>');
 //-->
-</script>
-<!-- end of msn ifram-->
-	<br>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|500|1003744|0|168|ADTECH;loc=100;target=_blank;key=homepage;grp=42;misc=1580443657276"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|500|1003744|0|168|ADTECH;loc=300;" target="_blank">
+<img src="http://adserver.adtech.de/adserv|3.0|500|1003744|0|168|ADTECH;loc=300;" border="0" width="120" height="600"></a></noscript>
+<!-- End of JavaScript Tag -->
+<!-- Last Modified on 12/12/2005 13:22:01-->
+<!-- Rebuilt at 12/12/2005 13:22:19 (/UserIncludes/files/channel/Skyscraper1_1003744.html-->
+<!-- xmlReBuildHTML is set to true -->
+</div>
+
+</div>
+	
+	<!--JavaScript Tag with JS Keywords //Tag for the network 500: Sky media // Website: Sky Sports // Page: Home // Placement: Home RichMedia (1004089) //created at: Sep 14, 2005 11:11:38 AM-->
+<script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|500|1004089|0|16|ADTECH;loc=100;target=_blank;key=' + adCatString + ';grp=' +GROUP+ ';misc='+new Date().getTime()+'"></scr'+'ipt>');
+//-->
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|500|1004089|0|16|ADTECH;loc=100;target=_blank;key=homepage;grp=42;misc=1580443657287"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|500|1004089|0|16|ADTECH;loc=300;" target="_blank">
+<img src="http://adserver.adtech.de/adserv|3.0|500|1004089|0|16|ADTECH;loc=300;" border="0" width="1" height="1"></a></noscript>
+<!-- End of JavaScript Tag -->
+<!-- Last Modified on 12/12/2005 13:22:01-->
+<!-- Rebuilt at 12/12/2005 13:22:20 (/UserIncludes/files/channel/RichMedia_1004089.html-->
+<!-- xmlReBuildHTML is set to true -->
+
+</div> <!--container-->
+
+<!-- LoadTime = 3.6719 seconds -->
+</div><!--cm8sticky-->
 
 
-</td></tr></tbody></table></div></td></tr></tbody></table></span></body></html>
+
+
+</body></html>
