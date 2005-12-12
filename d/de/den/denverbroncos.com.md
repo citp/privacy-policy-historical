@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404210852id_/http%3A//www.denverbroncos.com/page.php%3Fid%3D101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212153740id_/http%3A//www.denverbroncos.com/page.php%3Fid%3D101) for the most accurate reproduction.*
 
-# DenverBroncos.com -- Official Web Site of the Denver Broncos
+# DenverBroncos.com – Official Web Site of the Denver Broncos
+
+| 
 
 This privacy policy is applicable to the Website accessible at www.denverbroncos.com (collectively the "Site"), which is operated pursuant to a strategic relationship between the Denver Broncos Football Club and ClearBlue Technologies (collectively, the "PROVIDERS", "we", "our", or "us"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
