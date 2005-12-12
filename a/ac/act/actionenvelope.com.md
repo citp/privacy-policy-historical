@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionenvelope.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402054343id_/http%3A//www.actionenvelope.com/ae/control/view/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionenvelope.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212133715id_/http%3A//www.actionenvelope.com/ae/control/view/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security - ActionEnvelope.com
 
