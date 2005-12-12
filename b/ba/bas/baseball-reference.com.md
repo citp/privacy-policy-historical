@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the baseball-reference.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210223255id_/http%3A//www.sports-reference.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseball-reference.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212161507id_/http%3A//www.baseball-reference.com/about/privacy.shtml) for the most accurate reproduction.*
 
-# Sports-Reference.com
+# Privacy Statement - SPORTS REFERENCE, Inc. - Baseball-Reference.com
 
-|  |  |  | 
-
-A combination of sites providing top notch statistics and resources for sports fans everywhere. 
-
-## SPORTS REFERENCE, INC. - Privacy Statement
+A combination of sites providing top-notch statistics and resources for sports fans everywhere. 
 
 This Privacy Statement sets forth the information-gathering, use, and dissemination practices of Sports Reference, Inc., its subsidiaries, and affiliates (collectively referred to as "SRI") in connection with the World Wide Web sites located at www.sports-reference.com, www.baseball-reference.com, www.pro-football-reference.com, www.basketball-reference.com, www.baseballbooks.net, and all other Web sites owned or operated by SRI (the "Site"). This Privacy Statement addresses SRI's practices regarding information collected only directly through or from the Site \- it does not address or govern any information gathering, use, or dissemination practices related to information collected other than directly through or from the Site, including, without limitation, from or via telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. SRI can be contacted by mail, phone, facsimile, or by e-mail at SRI, as provided in Paragraph 3 of this Privacy Statement. 
 
@@ -22,7 +18,7 @@ When a visitor performs a search within the Site, SRI may record information ide
 
 ##  2\. Payment Information
 
-We use third-party payment service providers such as Amazon.com® and PayPal® to handle any monetary transactions. SRI does not store any of your private payment information provided by you directly to these service providers. 
+We use third-party payment service providers such as Amazon.com� and PayPal� to handle any monetary transactions. SRI does not store any of your private payment information provided by you directly to these service providers. 
 
 ## 3\. Comments, Notices and Chat Rooms
 
@@ -33,11 +29,11 @@ Comments posted to any of our Web pages are public. All other notices sent to SR
          P.O. Box 18984
          Philadelphia, PA  19119
          Fax 800/660-5292
-         Phone 215/753-9393
+         Phone 215/301-9181
          sf@sports-reference.com
     
 
-With respect to chat rooms, SRI does not, and is not obligated to, monitor or review any areas on the Site, or the content therein, where users transmit or post communications or communicate with each other regarding SRI or Content (see [Terms and Conditions](https://web.archive.org/web/20041210223255id_/http%3A//www.sports-reference.com/termsofuse.shtml)) on the Site, including but not limited to, communications in chat rooms, bulletin boards or other user forums. As such, SRI assumes no liability for the accuracy of such information, no duty to update or correct such information, and no liability for such communications arising under the laws of copyright, libel, privacy, obscenity, or otherwise. 
+With respect to chat rooms, SRI does not, and is not obligated to, monitor or review any areas on the Site, or the content therein, where users transmit or post communications or communicate with each other regarding SRI or Content (see [Terms and Conditions](https://web.archive.org/web/20051212161507id_/http%3A//www.baseball-reference.com/about/termsofuse.shtml)) on the Site, including but not limited to, communications in chat rooms, bulletin boards or other user forums. As such, SRI assumes no liability for the accuracy of such information, no duty to update or correct such information, and no liability for such communications arising under the laws of copyright, libel, privacy, obscenity, or otherwise. 
 
 ## 4\. Use of Personal Data Collected
 
@@ -45,7 +41,7 @@ Personal data collected by SRI may be used by SRI for many reasons, for example,
 
 With respect to visitor e-mail addresses, we allow users to post their e-mail address on comments or in sponsorships, in the event that they wish to allow others to reach them easily. Visitor e-mail addresses from comments are not used by SRI to generate mailing lists. 
 
-SRI also may use Site visitor data to contact the Site visitors regarding account status and changes to the [Terms and Conditions](https://web.archive.org/web/20041210223255id_/http%3A//www.sports-reference.com/termsofuse.shtml), any subscriber agreement, this Privacy Statement, and any other policies or agreements relevant to Site visitors. 
+SRI also may use Site visitor data to contact the Site visitors regarding account status and changes to the [Terms and Conditions](https://web.archive.org/web/20051212161507id_/http%3A//www.baseball-reference.com/about/termsofuse.shtml), any subscriber agreement, this Privacy Statement, and any other policies or agreements relevant to Site visitors. 
 
 ## 5\. Disclosure of Personal Data to Third Parties
 
@@ -76,3 +72,6 @@ SRI may change this Privacy Statement at any time. Notice of any new or revised 
 ## Effective Date: October 1, 2004
 
 ## Last Updated: October 28, 2004
+
+Copyright © 2000-2005 Sports Reference, Inc. All rights reserved.  
+[A Sports Reference, Inc. Site](http://www.sports-reference.com/) : [About BR](https://web.archive.org/about/) | [Privacy Statement](https://web.archive.org/about/privacy.shtml) | [Conditions & Terms of Service](https://web.archive.org/about/termsofuse.shtml)
