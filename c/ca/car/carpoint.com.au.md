@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carpoint.com.au privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630015027id_/http%3A//ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpoint.com.au privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212111104id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
 
 # ninemsn support
 
