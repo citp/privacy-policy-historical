@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ct.gov privacy policy that was archived on 2005-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050515082834id_/http%3A//www.ct.gov/ctportal/cwp/view.asp%3Fa%3D843%26q%3D246588) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ct.gov privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212134439id_/http%3A//www.ct.gov/ctportal/cwp/view.asp%3Fa%3D843%26q%3D246588) for the most accurate reproduction.*
 
 # CT.gov: Privacy Statement
 
@@ -18,7 +18,7 @@ While State of Connecticut Agencies and Branches may adopt and publish privacy p
 
 **Privacy Policy**
 
-CT.gov policy is to respect and protect the privacy of our website users, consistent with the applicable laws of the United States and the State of Connecticut, including the [Connecticut Freedom of Information Act ](http://www.state.ct.us/foi/2001FOIA/2001FOIAStatutoryIndex.htm)and the [Connecticut Personal Data Act](https://web.archive.org/web/20050515082834id_/http%3A//www.ct.gov/ctportal/cwp/view.asp?a=843&q=246648). We do not collect, use or disclose any information about our users without their knowledge and approval. We do not share user information with third parties unless we have informed users about the disclosures or when we have prior consent.
+CT.gov policy is to respect and protect the privacy of our website users, consistent with the applicable laws of the United States and the State of Connecticut, including the [Connecticut Freedom of Information Act ](http://www.state.ct.us/foi/2001FOIA/2001FOIAStatutoryIndex.htm)and the [Connecticut Personal Data Act](https://web.archive.org/web/20051212134439id_/http%3A//www.ct.gov/ctportal/cwp/view.asp?a=843&q=246648). We do not collect, use or disclose any information about our users without their knowledge and approval. We do not share user information with third parties unless we have informed users about the disclosures or when we have prior consent.
 
 Visitors should be aware that the State of Connecticut may be required to disclose personal information in response to valid legal process, such as a search warrant, subpoena, or court order, or pursuant to the [Connecticut Freedom of Information Act](http://www.state.ct.us/foi/2001FOIA/2001FOIAStatutoryIndex.htm). All record keepers face the possibility that disclosure of their records may be compelled in some civil, criminal, or administrative matters. Disclosures may also be necessary to protect the State’s legal rights or during emergencies if physical safety is believed to be at risk.  These events are unlikely, but possible.
 
