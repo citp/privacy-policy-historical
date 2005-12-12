@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203185310id_/http%3A//www.studyabroad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212110519id_/http%3A//www.studyabroad.com/privacy.html) for the most accurate reproduction.*
 
 # Studyabroad.com Privacy Policy
 
@@ -49,9 +49,9 @@ Users who choose option (3) or (4) above are allowing their profiles to be searc
 
 We provide users with 24 hour access to their personal information after it has been collected. You may also wish to amend or correct inaccuracies on information provided; Information can be accessed through our password protected access facility at [http://saprofile.studentprospector.com](http://saprofile.studentprospector.com/). If you wish to have your profile deleted from our server, you should contact support@studentprospector.com. Removal from the EDU server does not guarantee that your profile will be removed from third party records. Any information gathered is to the best of our knowledge collected lawfully and fairly through our website, all information is assumed accurate and up to date and only information which is adequate and not excessive to our purpose for collection is obtained.
 
- **Children under 18 years of age**
+ **Children under 16 years of age**
 
-Educational Directories Unlimited, Inc. does not intend to collect information from children. All profiles stored are for those stating their age to be 18 years or older. 
+Educational Directories Unlimited, Inc. does not intend to collect information from children. All profiles stored are for those stating their age to be 16 years or older. 
 
 **Aggregate Information about our users**
 
@@ -65,7 +65,7 @@ We use cookie technology within our StudentProspector.com site. We use cookies f
 
 When you submit your information to Educational Directories Unlimited, whether it be your name, address, email or phone number, we do our utmost to ensure that information is protected against loss, misuse, alteration, destruction or unauthorized access. Educational Directories Unlimited uses standard encryption tools such as SSL (Secure Socket Layer) to help protect your personal information and to keep information collected secure.
 
->  _Encryption can be used after your data has left your internal system. Encryption renders your data unreadable using a mathematical formulae known as the key. Your data is turned back into readable form, i.e. deciphered, by applying the correct key_
+>  _Encryption can be used after your data has left your internal system. Encryption renders your data unreadable using a mathematical formulae known as the key. Your data is turned back into readable form, i.e. deciphered, by applying the correct key._
 
 Due to the nature of this technology, there is always a remote danger of information interception no matter what barriers are in place.
 
@@ -85,7 +85,7 @@ Contact Name: Educational Directories Unlimited, Inc.
 Address: 1350 Edgmont Avenue, Suite 1100, Chester, PA 19013 USA  
 PH: 1-610-499-9200  
 FAX: 1-610-499-9205  
-E-mail: [privacy@studentprospector.com](mailto:privacy@studentprospector.com)  
-URL: [www.edudirectories.com](http://www.edudirectories.com/)
+E-mail: [privacy@StudentProspector.com](mailto:privacy@studentprospector.com)  
+URL: [www.EDUdirectories.com](http://www.edudirectories.com/)
 
 Educational Directories Unlimited, Inc. reserves the right to modify or supplement this Privacy Policy statement at any time. 
