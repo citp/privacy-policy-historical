@@ -1,33 +1,27 @@
-> *The following text is extracted and transformed from the ugoto.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403153628id_/http%3A//www.ugoto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugoto.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151546id_/http%3A//www.ugoto.com/privacy) for the most accurate reproduction.*
 
-# uGoto.com: Flash Games, Cartoons, Jokes, Humor, Links, News, Weblogs
+# uGoto.com: Funny Videos, Flash Games, Cartoons, Jokes, Humor, Links, News
 
-Privacy Policy 
+### Privacy Policy 
 
 * * *
 
-We respect your privacy, and we want you to feel comfortable using our website. This policy will help you better understand how we collect information about you, what we do with your information, and who, other than us may also receive your information.
+We respect your privacy, and we want you to feel comfortable using the uGoto web site. Therefore, we are providing you with this privacy policy so you can better understand how we collect information about you, what we do with your information, and who, other than uGoto.com may also receive your information. 
 
-**Use of Information** :
+LogicStart, LLC. d/b/a uGoto.com does collect certain personally identifiable information that may be used to provide you with customized services, content, networking opportunities, industry information and/or advertisements. Personally identifiable information is collected when you register to receive certain uGoto.com services, products or offers. uGoto.com may also request personally identifiable information when the user elects to participate in other uGoto.com affiliated or sponsored programs, including, but not limited to, sweepstakes, contests, and/or other such promotions.
 
-Once we obtain your Information (through a newsletter subscription or account registration), it is added to a database used only by uGoto.com. We may disclose your Information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our website; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). Other than as stated in this Privacy Policy, we will not release your Information to unknown or unaffiliated third parties.
+The uGoto.com site provides users the opportunity to opt out of receiving communications from us. Users may unsubscribe from our email newsletter if they wish to no longer receive communications. You may unsubscribe from newsletter mailings at anytime by following the directions on the bottom of the e-mail sent to you or by contacting us directly for help. 
 
-**Choice/Opt-Out** :
+uGoto.com may share the collected personally identifiable information with a sponsor or other third party that may be interested in serving you. uGoto.com will request and verify your consent before any personally identifiable information is provided to sponsors or third parties. You may also inform uGoto.com at any time not to share your personally identifiable information with third parties by sending an e-mail message to us using the [contact page](https://web.archive.org/contact) and requesting that your personally identifiable information not be released to third parties.
 
-The uGoto.com site provides users the opportunity to opt out of receiving communications from us.
+uGoto.com may use your personally identifiable information to provide you with any of our present and future services. We may also use this information to notify you or contact you with regard to any problem with, or the expiration of such services. For this reason, uGoto.com may find it necessary to disclose your personally identifiable information to one or more uGoto.com agents and/or contractors and their subcontractors, but such agents, contractors, and subcontractors will be required to agree to use any personally identifiable information obtained from uGoto.com for only such purposes.
 
-Users may unsubscribe from our email newsletter if they wish to no longer receive communications.
+Personally identifiable information also may be disclosed to the proper authorities in special situations where uGoto.com has reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with uGoto.com's rights, property, users, or anyone else who may be harmed by such activities. uGoto.com may reveal personally identifiable information when we have been informed by law enforcement authorities or have established a good faith belief that the law requires uGoto.com to do so.
 
-You may unsubscribe from newsletter mailings at anytime by following the directions on the bottom of the e-mail sent to you or by contacting us directly for help.
-
-**Changes to Our Privacy Policy** :
-
-As our subscribers' needs change, we may find it necessary to amend or revise this Privacy Policy. Any such revisions or additions will be posted on this page. Please re-visit this page from time to time to make sure that you are aware of any additions or revisions to this policy. If you have any concern about privacy, please send a thorough description via e-mail and we try to resolve it. 
+We reserve the right to change our privacy policy at any time by posting revisions on the uGoto.com web site. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party.
 
 [
 
-### Sign Up for Our Daily Newsletter
+### _Sign Up for Our Daily Newsletter_
 
 ](http://mailinglist.ugoto.com/)
-
-* * *
