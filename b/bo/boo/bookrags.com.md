@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307114702id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212133512id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
 
-# BookRags - Privacy Policy
+# About BookRags: Privacy Policy
 
 | 
 
@@ -21,14 +21,6 @@ Links to Other Sites
 | 
 
 BookRags is not responsible for the privacy policies of other web sites it is linked to.  
-  
-| 
-
-Age Policy  
-  
-| 
-
-BookRags is a service for all ages.  
   
 | 
 
@@ -61,6 +53,14 @@ Security
 | 
 
 If you do register, your information is kept safely and securely within BookRags. If you have any specific concerns or questions, please don’t hesitate to contact us.  
+  
+| 
+
+Age Policy  
+  
+| 
+
+BookRags is a service for students over the age of 13 years old. If you are less than 13, you are not permitted to register on BookRags.com.  
   
 | 
 
