@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the insureme.com privacy policy that was archived on 2005-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050612005502id_/http%3A//www.insureme.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insureme.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212133606id_/http%3A//www.insureme.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # InsureMe.com :: Fast, Free Insurance Quotes
 
 This is the privacy policy ("Privacy Policy") for the InsureMe.com :: Fast, Free Insurance Quotes Web site (the "Site"). This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy. 
 
-This Privacy Policy is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/web/20050612005502id_/http%3A//www.insureme.com/SiteTerms.asp?L=&Refby=), which govern your use of the Site in general.
+This Privacy Policy is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/web/20051212133606id_/http%3A//www.insureme.com/SiteTerms.asp?L=&Refby=), which govern your use of the Site in general.
 
 **Age Requirement for Use of Site:** This Site is not intended for use by persons under the age of 18 years old. You must be 18 years old or older to provide any personal information to the Site, or to us through the Site.
 
