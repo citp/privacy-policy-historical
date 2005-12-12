@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the vitamix.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405011832id_/http%3A//www.vitamix.com/household/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitamix.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212101155id_/http%3A//www.vitamix.com/household/privacy.html) for the most accurate reproduction.*
 
 # Vita-Mix Privacy Statement
 
+  
 **Privacy Policy Statement** **  
 **  
 This is the web site of **Vita-Mix Corp.**
