@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173702id_/http%3A//www.rotary.org/resources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212135841id_/http%3A//www.rotary.org/resources/privacy.html) for the most accurate reproduction.*
 
 # Rotary International: Privacy
 
@@ -19,6 +19,7 @@ As part of its effort to assist clubs and districts and facilitate communication
   * Providing guidance to clubs and districts in their public relations efforts
   * Communicating key organizational messages and information to district leaders for dissemination at the club level
   * Facilitating convention and special event planning 
+  * Communicating information to Rotary clubs, districts and district leaders by officially licensed vendors under RI's licensing system 
 
 
 
