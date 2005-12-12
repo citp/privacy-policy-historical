@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the texastech.edu privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206204927id_/http%3A//www.texastech.edu/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texastech.edu privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212115033id_/http%3A//www.texastech.edu/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement-- Texas Tech University System, Lubbock, Texas
 
-texas tech university system privacy policy  
-[  
-](http://www.art.ttu.edu/artdept/lndmrk.html)
-
-Texas Tech University System maintains its web sites as an information resource and service for the public, and this privacy policy applies to all pages of this site that are maintained by TEXAS TECH UNIVERSITY or TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER (pages containing www.texastech.edu, www.ttu.edu, or www.ttuhsc.edu).
+Texas Tech University System maintains its web sites as an information resource and service for the public, and this privacy policy applies to all pages of this site that are maintained by TEXAS TECH UNIVERSITY or TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER (pages containing [www.texastech.edu](http://www.texastech.edu/), [www.ttu.edu](http://www.ttu.edu/), or [www.ttuhsc.edu](http://www.ttuhsc.edu/)).
 
 **DISCLAIMER**. Texas Tech University System maintains its web sites on an on-going basis, but it does not represent, guarantee or warrant that all information provided is accurate, complete, current or suitable for the viewer's purposes. Texas Tech University System specifically disclaims any and all liability for claims or damages that may result from its web sites or information contained therein, including any web sites maintained by third parties and linked to Texas Tech University System web sites, for which responsibility lies with the entity providing the information. A link from Texas Tech University System web sites in no way implies authorization or endorsement of that site by Texas Tech University System.
 
@@ -44,6 +40,4 @@ For site management functions, information is collected for analysis and statist
 
 **LINKS**. This web site contains links to other sites, and Texas Tech University System is not responsible for privacy policies on those sites.
 
-Questions about this privacy policy may be directed to the respective Webmaster for each site (www.texastech.edu, www.ttu.edu, or www.ttuhsc.edu).
-
-privacy policy
+Questions about this privacy policy may be directed to the respective Webmaster for each site ([www.texastech.edu](http://www.texastech.edu/), [www.ttu.edu](http://www.ttu.edu/), or [www.ttuhsc.edu](http://www.ttuhsc.edu/)).
