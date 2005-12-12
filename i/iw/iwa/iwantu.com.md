@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403150841id_/http%3A//www.iwantu.com/privacy.love%3Fid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212100735id_/http%3A//iwantu.com/privacy.love%3Fid%3D) for the most accurate reproduction.*
 
-# IwantU.com Adult Personals - Where you are wanted!
+# IwantU.com adult Personals - Where you are wanted!
 
 Effective On: August 27th, 2004 
 
