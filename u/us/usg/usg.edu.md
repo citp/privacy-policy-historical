@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usg.edu privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305035940id_/http%3A//www.usg.edu/siteinfo/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usg.edu privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212150032id_/http%3A//www.usg.edu/siteinfo/privacy.phtml) for the most accurate reproduction.*
 
 # USG: Privacy Policy for WWW.USG.EDU
 
