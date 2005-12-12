@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filecloud.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306154626id_/http%3A//www.filecloud.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecloud.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212023152id_/http%3A//www.filecloud.com/privacy.php) for the most accurate reproduction.*
 
-# Filecloud - Beyond Gaming Files - Privacy
+# Filecloud - Privacy
 
 * Filecloud is committed to respecting your privacy. Once you choose to provide personally identifiable information, it will only be used in the context of your customer relationship with Filecloud. 
 
