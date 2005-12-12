@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305055237id_/http%3A//www.mediapost.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151837id_/http%3A//www.mediapost.com/privacy.htm) for the most accurate reproduction.*
 
 # MediaPost Help
 
 |   |    
 ---|---  
 | []() **Personal/Company Information.**  
-  | To operate our services, MediaPost Communications asks for personal and company information in the member's registration form, such as your name, title, your company name, company address, and other company only identifying information. We do this, for example, when you register your company (or yourself) as an [immediabuy](http://www.mediapost.com/immediabuy/) Member, Buyer or Partner on our site. We use this individual company information to notify you of the results of a Buy Offer, to deliver member only newsletters, and other service-related purposes only your company contact information is made available to other members in the member directory. 
+  | To operate our services, MediaPost Communications asks for personal and company information in the member's registration form, such as your name, title, your company name, company address, and other company only identifying information. We do this, for example, when you register your company (or yourself) as a [MediaPost](http://www.mediapost.com/) Member on our site. We use this individual company information to deliver member only newsletters, and other service-related purposes only your company contact information is made available to other members in the member directory. 
 
 MediaPost Communications may also automatically collect information such as your web browser type or IP address. This information is used to ensure our website displays properly on most commonly used browsers. This information is also used to help identify you on the service and to gather broad demographic information.   
    
   
 | []() **Updating or Opting-Out**  
-  |  If you want to change or update your registration information please visit [www.mediapost.com](http://www.mediapost.com/) and select 'my profile' from the menu, and update your information. If you would like to opt-out as a member of MediaPost Communications, please send an email to [adam@mediapost.com](mailto:adam@mediapost.com) or call us at 212-204-2008. We will delete you from our database.  
+  |  If you want to change or update your registration information please visit [www.mediapost.com](http://www.mediapost.com/) and select 'my profile' from the menu, and update your information. If you would like to opt-out as a member of MediaPost Communications, please send an email to [remove@mediapost.com](mailto:remove@mediapost.com) or call us at 212-204-2000. We will delete you from our database.  
    
 | []() **Cookies**  
   | MediaPost Communications may place a "cookie" in the browser files of your computer. A cookie is a file that identifies you as a unique user. The cookie itself does not contain any individual information about you, although it will enable MediaPost Communications to relate your use of our site to information that you have specifically provided to us. We may use cookies to provide you with information, to save your password so that you do not have to re-enter it each time you visit our site, for retaining you selections between screens during a session, and for other purposes. The first time you register on to our site, you may be asked to accept a cookie. The cookie will remember your user name and password every time you access the site. You do not need to accept this cookie to use our services, but you will have to enter your name and password every time you visit the site.  
@@ -26,5 +26,5 @@ Your individual [MediaPost](http://www.mediapost.com/) user information is passw
 
 MediaPost Communications will NOT disclose any personal information except as described above, as required by law or to protect our interests. MediaPost Communications does disclose user information, including demographic data, in an aggregated form that does not identify individual users in order to describe its services to prospective partners, advertisers and other third parties and for other lawful purposes. 
 
-If at any time you believe that MediaPost Communications has not adhered to these principles, please notify us promptly by email to [adam@mediapost.com](mailto:adam@mediapost.com), or via our contact informations below.  
+If at any time you believe that MediaPost Communications has not adhered to these principles, please notify us promptly by email to [jeff@mediapost.com](mailto:jeff@mediapost.com), or via our contact informations below.  
  
