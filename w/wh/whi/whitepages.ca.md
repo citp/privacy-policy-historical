@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the whitepages.ca privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311072850id_/http%3A//www.whitepages.ca/10002/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.ca privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212121603id_/http%3A//www.whitepages.ca/10002/privacy) for the most accurate reproduction.*
 
 # WhitePages.ca - Canadian Online Directory Assistance
 
-**LAST REVISION: November 11, 2004**  
+**LAST REVISION: 3/31/2005**  
 Privacy Policy Glossary
 
-WhitePages.com Network respects your right to privacy and we are committed to protecting it. We believe it is a commitment crucial to our continued success as a trusted consumer brand. Accordingly, we abide by the following privacy principles for all the Personal Information we collect from you: 
+[](http://www.truste.org/ivalidate.php?url=www.whitepages.ca&sealid=101) WhitePages.com respects your right to privacy and we are committed to protecting it. We believe it is a commitment crucial to our continued success as a trusted consumer brand. Accordingly, we abide by the following privacy principles for all the Personal Information we collect from you: 
 
   * You maintain ownership rights to Your Information, even if there is a business transition. 
   * You may access or modify Your Information at any time. 
@@ -16,16 +16,16 @@ WhitePages.com Network respects your right to privacy and we are committed to pr
 
 Below is the Short Version of the policies we have put in place to carry out these principles. We pledge to follow them in our day-to-day operations. 
 
-As our business grows and changes, we expect to revise or enhance these policies. We will communicate our updated policies to our users and the public by posting a notice on our Web sites or some other reasonable means. 
+As our business grows and changes, we expect to revise or enhance these policies. We will communicate our updated policies to our users and the public by posting a notice on our Sites or some other reasonable means. 
 
-If you have any questions, you can view a longer version of our policy that provides a detailed discussion about each of the "Short Policy" statements. Click here to view our [Long Privacy Policy](https://web.archive.org/10002/privacy?policy=long). 
+If you want to add, edit or remove your listing from our database, please visit our [customer support page](http://www.whitepages.com/corporate/contact_us). If you have any other privacy related questions, you can view a longer version of our policy that provides a detailed discussion about each of the "Short Policy" statements. Click here to view our [Long Privacy Policy](https://web.archive.org/10002/privacy?policy=long). 
 
-You can also contact our Chief Privacy Officer, Rob Voce, by e-mail at [privacy@w3data.com](mailto:privacy@w3data.com) or by mail at 1301 Fifth Ave, Suite 1600, Seattle, WA 98101. 
+You can also contact our Chief Privacy Officer, Rob Voce, by e-mail at [privacy@whitepages.com](mailto:privacy@whitepages.com) or by mail at 1301 Fifth Ave, Suite 1600, Seattle, WA 98101. 
 
 **WhitePages.com Network's Short Privacy Policy**
 
   1. **WHAT INFORMATION WE COLLECT**  
-We do not collect any Personal Information about you from our Web sites unless you choose to provide it to us. This means you can visit our Web sites without telling us who you are or revealing any Personally Identifiable Information about yourself. As you browse the Web sites, our Web servers do collect information about your visit, but not about you personally. None of the information about how you navigate the sites is combined with your personal identifiers. [[More info](https://web.archive.org/10002/privacy?policy=long#1)] 
+We do not collect any Personal Information about you from our Sites unless you choose to provide it to us. This means you can visit our Sites without telling us who you are or revealing any Personally Identifiable Information about yourself. As you browse the Sites, our Web servers do collect information about your visit, but not about you personally. None of the information about how you navigate the sites is combined with your personal identifiers. [[More info](https://web.archive.org/10002/privacy?policy=long#1)] 
 
   2. **HOW WE USE THE PERSONAL INFORMATION WE DO COLLECT**  
 When you supply information about yourself for a specific purpose, we use such Personal Information for that purpose. For example, you may be asked to give us Personal Information to purchase a product or service, receive information, register for an account, or apply for a job. [[More info](https://web.archive.org/10002/privacy?policy=long#2)] 
@@ -42,7 +42,7 @@ We apply high data security protections to safeguard your personal information. 
 
 
 
-NOTE: This privacy policy applies only to the privacy of users of the WhitePages.com Network. By using the WhitePages.com Network you agree to the terms of this privacy policy. If you move from WhitePages.com Network Web sites to other company Web sites, you should check the privacy policies of such Web sites carefully as the terms by which the company manages your Personal Information obtained from such Web sites could differ from how the company manages your Personal Information obtained via the WhitePages.com Network. 
+NOTE: This privacy policy applies only to the privacy of users of the WhitePages.com Network. By using the WhitePages.com Network you agree to the terms of this privacy policy. If you move from WhitePages.com Network Web sites to other WhitePages.com sites, you should check the privacy policies of such Web sites carefully as the terms by which the company manages your Personal Information obtained from such Web sites could differ from how the company manages your Personal Information obtained via the WhitePages.com Network. 
 
   
 
@@ -57,15 +57,14 @@ NOTE: This privacy policy applies only to the privacy of users of the WhitePages
 
 "Registration Information" means your name, e-mail address, and password. 
 
-"WhitePages.com" means the [www.whitepages.com](http://www.whitepages.com/) Web site or the business unit "WhitePages.com", a division of W3 Data, Inc., a Washington corporation. 
+"WhitePages.com" means WhitePages.com, Inc., a Washington corporation. 
 
-"WhitePages.com Network" means [www.whitepages.com](http://www.whitepages.com/), [www.whitepages.ca](http://www.whitepages.ca/), [www.411.com](http://www.411.com/), [www.phonenumber.com](http://www.phonenumber.com/) and Web sites that incorporate the content of www.whitepages.com. 
+"WhitePages.com Network" or "Sites" means the Web sites located at [www.whitepages.com](http://www.whitepages.com/), [www.whitepages.ca](http://www.whitepages.ca/), [www.411.com](http://www.411.com/), [www.phonenumber.com](http://www.phonenumber.com/) and Web sites that incorporate the content of www.whitepages.com. 
 
 "Your Information" means your Registration Information, Contacts and Contact Information. 
 
 [Back to top]   
   
 Copyright © 1996-2005 WhitePages.ca. All rights reserved.   
-[Privacy Policy](https://web.archive.org/10002/privacy "Privacy policy"), [Legal Notice](https://web.archive.org/10002/legal_notice "Legal notice") and [Terms](https://web.archive.org/10002/terms "Terms") under which this service is provided to you. 
-
+[Privacy Policy](https://web.archive.org/10002/privacy "Privacy policy"), [Legal Notice](https://web.archive.org/10002/legal_notice "Legal notice") and [Terms](https://web.archive.org/10002/terms "Terms") under which this service is provided to you.   
 [](https://web.archive.org/10002/privacy)    [](http://www.bbbonline.org/cks.asp?id=20104091129015251)
