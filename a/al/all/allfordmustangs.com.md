@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfordmustangs.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527210538id_/http%3A//www.allfordmustangs.com/forums/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfordmustangs.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212135304id_/http%3A//www.allfordmustangs.com/forums/privacy.php) for the most accurate reproduction.*
 
 # All Ford Mustang Forums - Privacy Policy
 
@@ -24,7 +24,7 @@ AllFordMustangs.Com offers User Reviews & Ratings and Discussion boards. AllFord
 
 AllFordMustangs.Com may provide links to its partners and other Internet sites. These sites have separate data and privacy practices independent of AllFordMustangs.Com, and AllFordMustangs.Com disclaims any responsibility or liability for their policies or actions. 
 
-Correcting and Updating Your Information. You can view and make changes to the information you have previously provided to AllFordMustangs.Com, by contacting us at [staff@allfordmail.com](https://web.archive.org/web/20050527210538id_/http%3A//www.allfordmustangs.com/forums/staff@allfordmail.com)
+Correcting and Updating Your Information. You can view and make changes to the information you have previously provided to AllFordMustangs.Com, by contacting us at [staff@allfordmail.com](https://web.archive.org/web/20051212135304id_/http%3A//www.allfordmustangs.com/forums/staff@allfordmail.com)
 
 ## Security.
 
