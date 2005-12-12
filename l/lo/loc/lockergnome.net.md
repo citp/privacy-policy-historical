@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockergnome.net privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525170723id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.net privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212150814id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
 
 # Lockergnome's Privacy Policy - Your Top Technology Resource
 
@@ -68,4 +68,4 @@ Lockergnome
 Encino, CA 91316-3516   
 1.888.472.0483 
 
-Mega Monty: Mix a roulette wheel with a slot machine and a little bit of draw poker and what do you get? BoxerJam's Mega Monty, a high-energy game of skill, strategy, and of course, luck. Climb through more and more challenging levels as you search for the winning score in a quest for "cash" and points. Mega Monty: the casinos never had it so good! But where's the Rat Pack when you need 'em? [Screenshot] [Download Shareware]... [[Click Here to Download](http://windows.fileoftheday.com/archives/games_mega_monty.html)] 
+e-motional Greeting Card Creator v1.20: E-mail personalized greeting cards using your photos, recorded voice message, sound effects, and text. Import images directly from your scanner or digital camera. Ideal for birthdays, wedding invitations, baby showers, or keeping in touch with loved ones. You may create an unlimited number of cards. e-motional Greeting Cards never expire or include unwanted ads, and can be e-mailed directly to your loved ones. The recipient can save the card and extract the image for... [[Click Here to Download](http://windows.fileoftheday.com/archives/email_emotional_greeting_card_creator_v120.html)] 
