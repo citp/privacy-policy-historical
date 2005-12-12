@@ -1,61 +1,45 @@
-> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410092354id_/http%3A//www.transamerica.com/portal/disclaimer/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212111130id_/http%3A//www.transamerica.com/portal/disclaimer/privacy_policy.asp) for the most accurate reproduction.*
 
 # Transamerica.com
 
-## Legal Disclosure: Transamerica.com is subject to the Privacy Policy and Terms of Use of Transamerica Corporation.
+[Privacy Policy](https://web.archive.org/portal/disclaimer/privacy_policy.asp)    [FAQ](https://web.archive.org/portal/disclaimer/privacy_policy_faq.asp)
 
-### Transamerica Corporation Legal Statement
+Information Only - No Response Necessary
 
-TRANSAMERICA PRIVACY POLICY and TERMS OF USE: Transamerica Corporation is concerned about the privacy rights of visitors to its Web sites ("Site") and the security of their data. Accordingly, it has adopted this Privacy Policy and Terms of Use ("Statement") for this Site to ensure responsible use of the information you share with Transamerica (for the purpose of this statement, the term "Transamerica" includes Transamerica Corporation and all of its affiliated and subsidiary companies, including without limitation Transamerica Occidental Life Insurance Company, Transamerica Life Insurance and Annuity Company, and Transamerica Financial Life Insurance Company ). Transamerica may at any time revise this Statement by updating the Site. You are bound by any such revisions and should therefore periodically visit this page to review the most current Statement.
+Protecting your privacy is very important to us. We want you to understand what information we collect and how we use it. We collect and use "nonpublic personal information" in order to provide our customers with a broad range of financial products and services as effectively and conveniently as possible. We treat nonpublic personal information in accordance with our Privacy Policy.
 
-## Privacy Policy
+### What Information We Collect and From Whom We Collect It
 
-### Basic Definitions:
+We may collect nonpublic personal information about you from the following sources:
 
-_"Personal Data"_ is personal and/or confidential information that relates to you and your policy or contract with Transamerica.
+  * Information we receive from you on applications or other forms;
+  * Information about your transactions with us, our affiliates, or others;
+  * Information we receive from non-affiliated third parties, including consumer reporting agencies.
 
-_"Communications"_ are any non-confidential and or non-proprietary communications information, except for Personal Data, that you transmit to the Site by electronic mail or otherwise, including data, questions, comments and/or suggestions.
 
-_"Personal Information"_ is any Communication where you knowingly enter your personal information such as your name, address, Social Security number, and telephone number.
 
-_"Non-Personal Information"_ is any Communication derived from your connection to the Site, such as your Internet browser, domain name and referring link.
+"Nonpublic personal information" is nonpublic information about you that we obtain in connection with providing a financial product or service to you.
 
-All Communications, _except for Personal Data_ , will be treated as non-confidential and non-proprietary, will become the property of Transamerica and may be used for the purposes described herein.
+### What Information We Disclose and To Whom We Disclose It
 
-Top of Page
+We do not disclose any nonpublic personal information about you to either our "affiliates" or non-affiliates without your express consent, except as permitted by law. We may disclose the nonpublic personal information we collect, as described above, to persons or companies that perform services on our behalf and to other financial institutions with which we have joint marketing agreements.
 
-### What information is collected?
+"Our affiliates" are companies with which we share common ownership and which offer life and health insurance and pension and savings products.
 
-In general, you can visit the Site while remaining anonymous by not providing any Personal Information. In some cases, Non-Personal Information may be automatically collected, such as your Internet browser, computer operating system, domain name of your Internet service provider and/or the Web site from which you linked to our Site.
+### Your Right to Verify Accuracy of Information We Collect
 
-Personal Information about you (e.g., your name, address, telephone number, Social Security number, and/or e-mail address) will not be collected unless you provide it to us voluntarily. For example, Transamerica retains e-mail addresses of visitors who respond to the Site's e-mail forms, online forms, registration forms, and surveys and contest entries. Transamerica also retains information about the frequency of Site visits, length of time of each visit, and aggregate information on which Site page visitors access.
+Keeping your information accurate and up to date is very important to us. You may access and correct nonpublic personal information about you that we collect, except for information relating to a claim or a criminal or civic proceeding.
 
-Transamerica sends all Internet visitors "cookies", a small data file sent by the Site to your browser, which may then be stored on your hard drive. Transamerica's cookie enables the Site to recognize you if you have a Transamerica policy or contract, or have utilized certain Site features. In addition, the cookie may recall information so that you do not have to resubmit it, and also automatically updates Site information. If available, you may program your browser software to notify you of attempts to send cookies and/or you may decline to accept or delete them.
+### Our Security Procedures
 
-When you perform a search with Transamerica's search engine, Transamerica does not record information identifying you or linking you to the search performed. As necessary to provide service, Transamerica does record limited information for every search request and uses that information only to solve technical problems with the Site, to calculate overall usage statistics and to improve the structure and content of the Site.
+We restrict access to your nonpublic personal information and only allow disclosures to persons and companies as permitted by law to assist in providing products or services to you. We maintain physical, electronic, and procedural safeguards to protect your nonpublic personal information. Should your relationship with us end, we will maintain and only disclose nonpublic personal information that we have about you in accordance with this Privacy Policy.
 
-Top of Page
+### Request for More Detailed Information
 
-### Use of the Information Collected
+This Notice is a summary of our Privacy Policy. If you would like a more detailed explanation of our information practices, please send your request in writing to us at P.O. Box 419521, Kansas City, Missouri 64141-6521.
 
-Transamerica will primarily use Communications to respond to your request(s). Transamerica may use Personal Information for editorial and feedback purposes, marketing and promotional purposes, reproduction, disclosure, transmission, publication, broadcast or posting, and for a statistical analysis of user behavior. Furthermore, Transamerica retains the right to use ideas, concepts, know-how or techniques contained in any Communications you send to the Site for any purpose whatsoever, including but not limited to developing and marketing products using such information. Non-Personal Information may be aggregated for internal review and used to improve the Site's content and structure. This information will be discarded.
+Effective as of March 18, 2005.
 
-### Transamerica does not distribute Personal Data or Communications to third parties
-
-Transamerica will not voluntarily share, rent, sell or otherwise disclose information obtained from visitors to the Site (whether Personal Data or Communications) to third parties.
-
-Top of Page
-
-### When you choose not to provide Personal Information
-
-When you choose not to provide a personally identifiable Communication, we may not be able to respond to your request. You may receive an error message displayed on your browser.
-
-### Information Shared with Transamerica
-
-Transamerica will take appropriate steps to protect all information you share with us. Whenever you provide the Site with Personal Data, Transamerica will take commercially reasonable steps to establish a secure connection with your Web browser.
-
-ALTHOUGH SOME PORTIONS OF THIS SITE ARE SECURE, INHERENT IN THE USE OF THE INTERNET AND INTERNET-RELATED TECHNOLOGIES IS SOME RISK OF DISCLOSURE OF INFORMATION, INCLUDING WITHOUT LIMITATION, PERSONAL DATA YOU SUPPLY. YOUR USE OF THE SITE AND YOUR ENTRY OF INFORMATION IS AT YOUR OWN RISK. TRANSAMERICA CANNOT ACCEPT RESPONSIBILITY AND EXPRESSLY DISCLAIMS ALL LIABILITY FOR DAMAGE OR INJURY THAT YOU MAY INCUR OR THAT MAY RESULT FROM YOUR USE OF THE SITE OR THE INTERCEPTION OF INFORMATION YOU PROVIDE, INCLUDING WITHOUT LIMITATION, PERSONAL DATA, BY A THIRD PARTY.
-
-Effective as of July 1, 2004
+EBM 399 0305
 
 Top of Page
