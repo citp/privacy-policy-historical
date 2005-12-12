@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipidpc.com privacy policy that was archived on 2005-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050318170459id_/http%3A//tipidpc.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipidpc.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213004056id_/http%3A//tipidpc.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
@@ -12,7 +12,10 @@ All information collected by TipidPC will be used to: resolve disputes; troubles
 
 Upon your account's creation, all of your information is protected from other users by the provided login name and password. You are responsible for keeping your login information confidential and undisclosed. 
 
-TPC warrants that it shall exercise diligence of a good father of a family to ensure privacy of any information collected from users.
+**UPDATED June 24, 2005**  
+TPC warrants that it shall exercise diligence of a good father of a family to ensure privacy of any information collected from users. 
+
+_However, TPC has the exclusive discretion as regards fair use of all content/data that passes through or is hosted by TPC, including the data that is transmitted via the Private Messaging tool; and TPC will not hesitate to report any content/data that promote the sale, purchase, or swap of pirated materials to the appropriate governmental office/s._
 
 You agree that TipidPC may use personal information about you to analyze site usage, improve content and product offerings, and customize the site's layout and services. 
 
