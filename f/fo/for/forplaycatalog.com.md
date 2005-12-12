@@ -1,35 +1,45 @@
-> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303213333id_/http%3A//www.forplaycatalog.com/store/util/privacy%3FArgs%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212135226id_/http%3A//www.forplaycatalog.com/store/util/privacy%3FArgs%3D) for the most accurate reproduction.*
 
 # Forplay Catalog - Privacy Policy
 
-|  | _Search_  
+|    
+| _Search_  
   
 ---  
-[Advanced search](http://www.forplaycatalog.com/store/util/gift_finder?Args=)  
-[Accessories](http://www.forplaycatalog.com/store/Accessories?Args=&page_number=1)  
+[Advanced search](http://www.forplaycatalog.com/store/util/gift_finder?Args=&sblid=gift_finder)  
+[Holiday 2005](http://www.forplaycatalog.com/store/Holiday_2005_p_1?Args=&sblid=Holiday_2005)  
   
-[Bikini Sets](http://www.forplaycatalog.com/store/Bikini_Sets?Args=&page_number=1)  
+[New Arrivals](http://www.forplaycatalog.com/store/New_Arrivals_p_1?Args=&sblid=New_Arrivals)  
   
-[Clearance](http://www.forplaycatalog.com/store/Clearance?Args=&page_number=1)  
+[Clubwear](http://www.forplaycatalog.com/store/Clubwear_p_1?Args=&sblid=Clubwear)  
   
-[Clubwear](http://www.forplaycatalog.com/store/Clubwear?Args=&page_number=1)  
+[Dancewear](http://www.forplaycatalog.com/store/Dancewear_p_1?Args=&sblid=Dancewear)  
   
-[Halloween Costumes](http://www.forplaycatalog.com/store/Halloween_Costumes?Args=&page_number=1)  
+[Lingerie](http://www.forplaycatalog.com/store/Lingerie_p_1?Args=&sblid=Lingerie)  
   
-[Dancewear](http://www.forplaycatalog.com/store/Dancewear?Args=&page_number=1)  
+[Mini Dresses](http://www.forplaycatalog.com/store/Mini_Dresses_p_1?Args=&sblid=Mini_Dresses)  
   
-[Gowns & Robes](http://www.forplaycatalog.com/store/Gowns___Robes?Args=&page_number=1)  
+[Shop By Collection](http://www.forplaycatalog.com/store/Shop_By_Collection_p_1?Args=&sblid=Shop_By_Collection)  
   
-[Lingerie](http://www.forplaycatalog.com/store/Lingerie?Args=&page_number=1)  
+[Swimsuits](http://www.forplaycatalog.com/store/Swimsuits_p_1?Args=&sblid=Swimsuits)  
   
-[Shoes](http://www.forplaycatalog.com/store/Shoes?Args=&page_number=1)  
+[Tops](http://www.forplaycatalog.com/store/Tops_p_1?Args=&sblid=Tops)  
   
-[Boots](http://www.forplaycatalog.com/store/Boots?Args=&page_number=1)  
+[Accessories](http://www.forplaycatalog.com/store/Accessories_p_1?Args=&sblid=Accessories)  
   
-[Shop By Collection](http://www.forplaycatalog.com/store/Shop_By_Collection?Args=&page_number=1)  
+[Specials](http://www.forplaycatalog.com/store/Specials_p_1?Args=&sblid=Specials)  
   
-[Specials](http://www.forplaycatalog.com/store/Specials?Args=&page_number=1)  
+[Clearance](http://www.forplaycatalog.com/store/Clearance_p_1?Args=&sblid=Clearance)  
   
+[Costumes](http://www.forplaycatalog.com/store/Costumes_p_1?Args=&sblid=Costumes)  
+  
+[Shoes](http://www.forplaycatalog.com/store/Shoes_p_1?Args=&sblid=Shoes)  
+  
+[Boots](http://www.forplaycatalog.com/store/Boots_p_1?Args=&sblid=Boots)  
+  
+  
+  
+[]()  
 |  |  |  |   
 ---|---|---|---  
 |  |  |   
