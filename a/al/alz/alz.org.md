@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618081220id_/http%3A//www.alz.org/aboutsite.asp%23sapp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212140230id_/http%3A//www.alz.org/aboutsite.asp%23sapp) for the most accurate reproduction.*
 
 # About This Site
 
@@ -14,32 +14,26 @@ Page outline
 
 Permission to use material from this Web site / Reprints / Copyright
 
-The Alzheimer’s Association retains copyright on the content of this site, unless otherwise noted. Information and materials copyrighted by the Alzheimer’s Association are for noncommercial use only.
+The Alzheimer’s Association retains copyright on the content of this site, unless otherwise noted. Information and materials copyrighted by the Alzheimer’s Association are for noncommercial use only. 
 
 > Reprint or reuse of information from this site without change
 > 
-> Individuals or organizations may reprint or reuse information on this site, provided:
+> To request permission to use information without change from this Web site, send an e-mail describing intended use and duration to [copyright@alz.org.](mailto:copyright@alz.org)
 > 
->   * The information is used without change.
+> Logos and graphics
 > 
->   * The following credit is included:  
->  _Reproduced with the permission of the Alzheimer's Association.  
->  Copyright 2004 Alzheimer’s Association, [www.alz.org](http://www.alz.org/), 800.272.3900_  
+> Using any of the Alzheimer’s Association’s registered trademarks without the Association’s prior consent is strictly prohibited. Please send written permission requests to [brandhelp@alz.org](mailto:brandhelp@alz.org).
 > 
+>   
+>  Photographs
 > 
+> The photographs on our Web site are not available for reproduction. 
 > 
-
-
-> Logos, graphics and photographs
-> 
-> Using any of the Alzheimer’s Association’s registered logos or graphics without the Association’s prior consent is strictly prohibited. Please send written permission requests to [brandhelp@alz.org](mailto:brandhelp@alz.org).
-> 
-> The photographs on our Web site are not available for reproduction.
-
 > Translations and adaptations
 > 
-> Translations or adaptations of Alzheimer’s Association content must be reviewed and approved by the Alzheimer’s Association. Please send queries to [brandhelp@alz.org](mailto:brandhelp@alz.org). 
-
+> Translations or adaptations of Alzheimer’s Association content must be reviewed and approved by the Alzheimer’s Association. Please send queries to [brandhelp@alz.org](mailto:brandhelp@alz.org).   
+> 
+> 
 > Press releases
 > 
 > Reprint of Alzheimer’s Association content or references to Alzheimer’s Association contact information in an organization’s press release must be approved by the public relations director of the Association. Please send queries to [media@alz.org](mailto:media@alz.org).  
@@ -49,19 +43,17 @@ Back to top
 
 Linking policy
 
-When linking to the Alzheimer’s Association Web site, Web managers should be aware that the Alzheimer’s Association brandmark and sub-brandmarks are not available for posting or replication on third party Web sites without a formal legal or financial agreement with the Association. 
+When linking to the Alzheimer’s Association Web site, Web managers should be aware that the Alzheimer’s Association trademarks are not available for posting or replication on third party Web sites without a written agreement with the Association. As part of the permission agreement for Web linking, third parties must post the following with any trademark or content used from an Association Web site:
 
-The Alzheimer’s Association is not responsible for information or advice provided by others, including those we link to from this site.
-
-Please direct any questions to [weblink@alz.org](mailto:weblink@alz.org).
+> _The Alzheimer’s Association is not responsible for information or advice provided by others, including those we link to from this site. Please direct any questions to[weblink@alz.org](mailto:weblink@alz.org)._
 
 Back to top
 
-Security and Privacy Policy
+Security and privacy policy
 
 The Alzheimer’s Association is committed to protecting your privacy when you visit our Web site. Information we collect from you is used to improve our site, provide you a better experience, and respond to your questions and requests.
 
-Information Collection
+Information collection
 
 We collect two types of information on our Web site:
 
@@ -72,25 +64,25 @@ We collect two types of information on our Web site:
 
 
 
-Use of Personal Information
+Use of personal information
 
 The Alzheimer's Association collects information from different points on our Web site. We do not sell, trade or rent our Web site visitor’s personal information to others other than those outlined in this section. If you willingly provide us your personal information, the Alzheimer’s Association may use it in the following ways:
 
-_Donations._ When you make an on-line donation to us, it’s possible your name may be on some mailing lists shared with other reputable organizations. As a donor, you may request to have your name removed from these mailing lists. See the Your Choice section below to learn how.
+_Donations._ When you make an online donation to us, it’s possible your name may be on some mailing lists shared with other reputable organizations. As a donor, you may request to have your name removed from these mailing lists. See the Your Choice section below to learn how.
 
 _E-mail Information Requests and Questions._ When we respond to your e-mail requests or questions, we may collect your e-mail address and send you Alzheimer’s Association e-mail bulletins or news. To opt out and remove your name from future e-mails, follow the unsubscribe instructions in the message. 
 
-_Event Registration._ The Association provides on-line registration for our major events, such as the education and research conferences and our Memory Walk. We may collect your e-mail address and send you Alzheimer’s Association e-mail bulletins or news. To opt out and remove your name from future e-mails, follow the unsubscribe instructions in the message. 
+_Event Registration._ The Association provides online registration for our major events, such as the education and research conferences and our Memory Walk. We may collect your e-mail address and send you Alzheimer’s Association e-mail bulletins or news. To opt out and remove your name from future e-mails, follow the unsubscribe instructions in the message. 
 
 _Write Congress:_ We track the number of letters sent to members of Congress on a password-protected Web site. At this time, we do not use personal information you provide us.
 
 _Message Boards._ Please remember that any information you disclose on the message boards becomes public information.
 
-Your Consent
+Your consent
 
 By using the Alzheimer's Association Web site, you consent to the collection and use of the information described above. Any changes to this policy will be posted prior to their implementation.
 
-Your Choice
+Your choice
 
 We respect your privacy and recognize that you may wish to limit the ways in which we contact you. Simply send an e-mail to [info@alz.org](mailto:info@alz.org) with the following information:
 
@@ -105,7 +97,7 @@ We respect your privacy and recognize that you may wish to limit the ways in whi
 
 Security
 
-We take every precaution to protect your personal information. At the Alzheimer’s Association, your personal information is kept confidential and stored in a secure environment. Access to your information is restricted only to authorized staff with a legitimate and specific business purpose. For example, our finance employees need access to information to process on-line donations. If you have any questions about the security at our Web site, send an e-mail to [webmaster@alz.org](mailto:webmaster@alz.org).
+We take every precaution to protect your personal information. At the Alzheimer’s Association, your personal information is kept confidential and stored in a secure environment. Access to your information is restricted only to authorized staff with a legitimate and specific business purpose. For example, our finance employees need access to information to process online donations. If you have any questions about the security at our Web site, send an e-mail to [webmaster@alz.org](mailto:webmaster@alz.org).
 
 Cookies
 
@@ -117,7 +109,7 @@ We use IP addresses to analyze trends, administer the site, track visitors’ mo
 
 Pixels
 
-The Alzheimer's Association uses pixels, or transparent GIF files, to help manage on-line advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our Web site. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or e-mail address. For more information about DoubleClick, including information about how to opt out of these technologies, go to: <http://www.doubleclick.net/us/corporate/privacy>.
+The Alzheimer's Association uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our Web site. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or e-mail address. For more information about DoubleClick, including information about how to opt out of these technologies, go to: <http://www.doubleclick.net/us/corporate/privacy>.
 
 Back to top
 
