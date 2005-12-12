@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 43things.com privacy policy that was archived on 2005-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050621082033id_/http%3A//www.43things.com/about/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 43things.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213005849id_/http%3A//www.43things.com/about/view/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on 43 Things
 
