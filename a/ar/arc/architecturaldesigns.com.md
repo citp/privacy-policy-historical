@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2005-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050529114537id_/http%3A//www.architecturaldesigns.com/about/priva.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212140337id_/http%3A//www.architecturaldesigns.com/about/priva.asp) for the most accurate reproduction.*
 
 # House Plans & Home Designs from Architectural Designs - Privacy Policy
 
@@ -9,7 +9,7 @@
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-|  **[House Plans](http://www.architecturaldesigns.com/)** |  |  **About  Us** |  |  **Services** |  |  **House  Plans Include** |  |  **Contact  Us** |  |  **Help** |  |  **Affiliates** |  |  **Builders** |  |  **[Site Map](http://www.architecturaldesigns.com/sitemap.asp)** |  |  |  |  |   
+|  **[House Plans](http://www.architecturaldesigns.com/)** |  |  **House  Plans Include** |  |  **About  Us** |  |  **Services** |  |  **Contact  Us** |  |  **Help** |  |  **Affiliates** |  |  **Builders** |  |  **[Site Map](http://www.architecturaldesigns.com/sitemap.asp)** |  |  |  |  |   
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
 |  |  |  |  |  |  |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---  
