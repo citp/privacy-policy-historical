@@ -1,643 +1,417 @@
-<!--The following is the downloaded HTML source of the toptable.co.uk privacy policy that was archived on 2005-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050418060141id_/http%3A//www.toptable.co.uk/feature.cfm%3FfID%3D8%26fromnav%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toptable.co.uk privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212114915id_/http%3A//www.toptable.co.uk/feature.cfm%3FfID%3D8%26lid%3D95) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-	
-		
-	
-	
+<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+<link rel="stylesheet" media="all" href="/styles/newStyles.css" type="text/css">
 
-<title>privacy statement - online London restaurant booking and guide from toptable.co.uk</title>
+	<link rel="stylesheet" media="all" href="/styles/alt_layout.css" type="text/css">
+
+
+<script language="javascript1.2" src="/includes/drag.cfm" type="text/javascript"></script>
+<script language="JavaScript" src="/script/wz_dragdrop.js" type="text/javascript"></script>
+<script language="JavaScript1.2">//quicksearch checker
+function checksearch(aForm) {
+	if ((aForm.search.value == '') || (aForm.search.value == 'search')){
+		eerrorCenter('Sorry, please could you enter something into the quick search box. Thanks');
+	}
+	else {
+		aForm.submit();
+	}
+	return false;
+}
+
+function menu_mouseOver(menuName) {
+	picCell = document.getElementById(menuName + 'picCell');
+	picCell.style.backgroundColor = '#666666';
+}
+
+function menu_mouseLeave(menuName) {
+	picCell = document.getElementById(menuName + 'picCell');
+	picCell.style.backgroundColor = '';		
+}	
+
+function ResetTime(time) {
+	if (time == "Exact") {
+		document.frmBook.TimeExact.value = "";
+	} 
+	else {
+		document.frmBook.from.value = "";
+		document.frmBook.to.value = "";
+	}
+}
+
+function IsNumeric(strString) {
+   var strValidChars = "0123456789.-";
+   var strChar;
+   var blnResult = true;
+   if (strString.length == 0) return false;
+   //  test strString consists of valid characters listed above
+   for (i = 0; i < strString.length && blnResult == true; i++)
+      {
+      strChar = strString.charAt(i);
+      if (strValidChars.indexOf(strChar) == -1)
+         {
+         blnResult = false;
+         }
+      }
+   return blnResult;
+}
+
+function checkRestFinder(frm) {
+	var frmyear = frm.Month.value.substring(0,4);
+	var frmmonth = frm.Month.value.substring(4, 6);
+	var frmday = frm.Day.value;
+	var today = new Date();
+
+	if ((frmyear == today.getYear) && (frmmonth == (today.getMonth + 1)) && (frmday < today.getDay)) {
+			eerrorCenter('Sorry, please can you choose a diferent date becuase you cannot search for a date in the past. Thanks');
+	}
+	else if (IsNumeric(frm.size.value) == false) {
+		try {
+			eerrorCenter('Sorry, please could you enter the number of people you\'d like to search for. Thanks');
+		}
+		catch (ex) {
+			alert(ex.message);
+		}
+	}
+	else {
+		frm.submit();
+	}
+	return false;
+}
+
+function submitLoginForm() {
+	aForm = document.loginForm;
+	if (aForm.email.value == '') {
+		eerrorCenter('Sorry, please could you enter your email. Thanks');
+		aForm.email.focus();
+		return false;
+	}
+	else if (aForm.password.value == '') {
+		eerrorCenter('Sorry, please could you enter your password. Thanks');
+		aForm.password.focus();
+		return false;
+	}
+	else {
+		aForm.submit();
+	}
+}
+
+function left(str, n){
+	if (n <= 0)
+	    return "";
+	else if (n > String(str).length)
+	    return str;
+	else
+	    return String(str).substring(0,n);
+}
+function right(str, n){
+    if (n <= 0)
+       return "";
+    else if (n > String(str).length)
+       return str;
+    else {
+       var iLen = String(str).length;
+       return String(str).substring(iLen, iLen - n);
+    }
+}
+
+function popupxy(url,x,y) {
+
+	leftPos = 0;
+	topPos = 0;
+	if (screen) {
+		leftPos = (screen.width / 2) - (x/2);
+		topPos = (screen.height / 2) - (y/2);
+	}
+	
+	if (left(url, 1) != '/') {
+		window.open('http://www.toptable.co.uk/' + url,'','width=' + x + ',height=' + y + ',left='+leftPos+',top='+topPos+',toolbar=none,scrollbars=none');
+	}
+	else {	
+		window.open('http://www.toptable.co.uk' + url,'','width=' + x + ',height=' + y + ',left='+leftPos+',top='+topPos+',toolbar=none,scrollbars=none');
+	}
+	
+}
+
+window.name = "main";
+
+var currentTopFiveSection = 'booked';
+
+function showTopFiveSection(section) {
+	hideTopFiveSection();
+	document.getElementById('topFive_' + section).style.display = '';
+	document.getElementById('topFive_' + section + '_header').className = 'topFive_active';
+	currentTopFiveSection = section;		
+}
+
+function hideTopFiveSection() {
+	document.getElementById('topFive_' + currentTopFiveSection).style.display = 'none';
+	document.getElementById('topFive_' + currentTopFiveSection + '_header').className = 'topFive_inactive';
+	currentTopFiveSection = '';
+}
+
+var currentGroupsTopFiveSection = 'rated';
+
+function showGroupsTopFiveSection(section) {
+	hideGroupsTopFiveSection();
+	document.getElementById('groupsTopFive_' + section).style.display = '';
+	document.getElementById('groupsTopFive_' + section + '_header').className = section + '_active';
+	currentGroupsTopFiveSection = section;		
+}
+
+function hideGroupsTopFiveSection() {
+	document.getElementById('groupsTopFive_' + currentGroupsTopFiveSection).style.display = 'none';
+	document.getElementById('groupsTopFive_' + currentGroupsTopFiveSection + '_header').className = currentGroupsTopFiveSection + '_inactive';
+	currentGroupsTopFiveSection = '';
+}
+
+function checkEnter(e){ //e is event object passed from function invocation
+var characterCode //literal character code will be stored in this variable
+if(e && e.which){ //if which property of event object is supported (NN4)
+e = e
+characterCode = e.which //character code is contained in NN4's which property
+}
+else { e = event
+characterCode = e.keyCode //character code is contained in IE's keyCode property
+}
+if(characterCode == 13){ //if generated character code is equal to ascii 13 (if enter key)
+document.forms[0].submit() //submit the form
+return false } else {return true }
+}</script>
+<script language="JavaScript" src="/script/errScripts.cfm" type="text/javascript"></script>
+<script language="JavaScript" src="/script/bikky.js" type="text/javascript"></script>
+<script language="JavaScript" src="/script/tracking.js" type="text/javascript"></script>
+
+<title>privacy statement - Online UK and London Restaurants Booking and Guide from toptable.co.uk</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="keywords" content="privacy statement, london restaurant guide, online restaurant booking, business lunches, restaurant special offers, spanish, japanese, italian, indian, private room, pre-theatre, greek, chinese, vegetarian, thai, paris, west end, london">
-<meta name="description" content="Find and book quality Restaurants online throughout the UK, Paris and Dublin with toptable">
+<meta name="description" content="Find, view and book quality Restaurants online in London and throughout the UK, Paris and Dublin with toptable.co.uk">
 
-
-<link href="/styles.css" rel="stylesheet" type="text/css">
-
-<script>
-//Preload corners...
-img1 = new Image();
-img2 = new Image();
-img3 = new Image();
-img4 = new Image();
-img5 = new Image();
-img6 = new Image();
-img7 = new Image();
-img8 = new Image();
-img9 = new Image();
-img10 = new Image();
-img11 = new Image();
-img12 = new Image();
-img13 = new Image();
-img14 = new Image();
-img15 = new Image();
-img16 = new Image();
-img17 = new Image();
-img18 = new Image();
-img19 = new Image();
-img1.src = "/img/top_left.gif";
-img2.src = "/img/top_right.gif";
-img3.src = "/img/bottom_left.gif";
-img4.src = "/img/bottom_right.gif";
-img5.src = "/img/top_panel.gif";
-img6.src = "/img/bottom_panel.gif";
-img7.src = "/img/step_button_left.gif";
-img8.src = "/img/step_button_middle.gif";
-img9.src = "/img/step_button_right.gif";
-img10.src = "/img/top_left2.gif";
-img11.src = "/img/top_right2.gif";
-img12.src = "/img/bottom_left2.gif";
-img13.src = "/img/bottom_right2.gif";
-img14.src = "/img/top_panel2.gif";
-img15.src = "/img/bottom_panel2.gif";
-img16.src = "/img/panel_left.gif";
-img17.src = "/img/panel_right.gif";
-img18.src = "/img/panel_left2.gif";
-img19.src = "/img/panel_right2.gif";
-</script>
-<link rel="stylesheet" type="text/css" href="/dhtml/v1/main.css">
-<script language="JavaScript" type="text/javascript" src="/dhtml/v1/nav.js"></script>
-<script language="JavaScript">
-<!--
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-	if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-		document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-	else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+<script language="javascript" type="text/javascript">
+function docLoaded() {
+	/*writeTracking();*/
+	
 }
-MM_reloadPage(true);
-// -->
 </script>
 
-
-
-
-
-
-
-
-
-<script language="JavaScript1.2">
-//
-// this browseria_archiver
-//
-
-//drag drop function for NS 4////
-/////////////////////////////////
-var dragswitch=0
-var nsx
-var nsy
-var nstemp
-function drag_dropns(name){
-temp=eval(name)
-temp.captureEvents(Event.MOUSEDOWN | Event.MOUSEUP)
-temp.onmousedown=gons
-temp.onmousemove=dragns
-temp.onmouseup=stopns
-}
-function gons(e){
-temp.captureEvents(Event.MOUSEMOVE)
-nsx=e.x
-nsy=e.y
-}
-function dragns(e){
-if (dragswitch==1){
-temp.moveBy(e.x-nsx,e.y-nsy)
-return false
-}
-}
-function stopns(){
-temp.releaseEvents(Event.MOUSEMOVE)
-}
-
-</script>
-</head><body onload="init();"><div style="display:none "><form id="refreshForm" name="refreshForm" action="/feature.cfm?fID=8&amp;fromnav=1" method="post"></form></div>
-
-<style>.errbox {visibility:hidden; position:absolute; top:200;left:100; background: #ffffff; padding: 0px; font-family: verdana,helvetica,arial; font-size: 9pt; z-index: 33; border-bottom:2px solid #999999;border-right:2px solid #999999; widows:}</style>
-<div id="err" class="errbox">
-<table style="border: 2px solid #790F50; background-color:white;" width="200" cellpadding="4" cellspacing="0" id="errBoxTable"><tbody><tr bgcolor="#790F50"><td width="100%" onmousedown="initializedragie()" onmouseover="drag_dropns(err);" onmouseout="dragswitch=0" style="color:#ffffff;"><img src="/img/headererror.gif" alt="error!"></td><td align="right"><a href="javascript: ehide('err');"><font color="#CCCCCC"><b>X</b></font></a></td></tr><tr><td colspan="2" style="color:#009092;"><div id="2"><span id="errText">asdf</span><span id="closeMe" style="font-size:7pt "><br><a href="javascript: ehide('err');">...close me</a></span></div></td></tr></tbody></table></div>
-
-<script>
-function eshow() { document.getElementById('err').style.visibility = "visible"; document.getElementById('eframe').style.visibility = "visible";}
-function eshowNS() { document.getElementById('err').style.visibility = "visible";}
-function ehide() { document.getElementById('err').style.visibility = "hidden"; try{document.getElementById('eframe').style.visibility = "hidden";}catch(ex) {} }
-function eerror(errtext) {
-eerrorCenter(errtext);
-/*document.getElementById(2).innerHTML = errtext + '<br><span style="text-align:right; width:190px;"><a href="javascript: ehide(err);" style="font-size: 7pt;">...close me</a></span>';
-	document.getElementById('eframe').style.top = document.getElementById('err').style.top;
-	document.getElementById('eframe').style.left = document.getElementById('err').style.left;
-eshow();*/
-}
-
-	function clientWidth() {
-		var myWidth = 0;
-		if( typeof( window.innerWidth ) == 'number' ) {
-			//Non-IE
-			myWidth = window.innerWidth;
-		} 
-		else if( document.documentElement &&
-		  ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
-			//IE 6+ in 'standards compliant mode'
-			myWidth = document.documentElement.clientWidth;
-		} 
-		else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
-			//IE 4 compatible
-			myWidth = document.body.clientWidth;
-		}
-		return myWidth;
-	}
-	
-	function clientHeight() {
-		var myHeight = 0;
-		if( typeof( window.innerWidth ) == 'number' ) {
-			//Non-IE
-			myHeight = window.innerHeight;
-		} 
-		else if( document.documentElement &&
-		  ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
-			//IE 6+ in 'standards compliant mode'
-			myHeight = document.documentElement.clientHeight;
-		} 
-		else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
-			//IE 4 compatible
-			myHeight = document.body.clientHeight;
-		}
-		return myHeight;
-	}
-
-function eerrorCenter(errtext) {
-	try {
-		var modErrText = errtext.replace("Sorry please", "Sorry, please");
-	}
-	catch (ex) {
-	}
-	
-	try {	
-			var errBox = document.getElementById('err');
-			var errContainer = document.getElementById(2);
-			var oldErr = document.getElementById('errText');
-			var newErr = document.createElement("span");
-			var errBoxTable = document.getElementById('errBoxTable');
-			var oldText = modErrText;
-			var newText = modErrText;
-			var myBR = new RegExp("<br[^>]*>", "i");
-			var myLI = new RegExp("<li[^>]*>", "i");
-			var myEndLI = new RegExp("<//li>", "i");
-			var myEndTD = new RegExp("<//td>", "i");
-			var myEndTR = new RegExp("<//tr>", "i");
-			var remaining = false;
-			var linkRegEx = new RegExp('<([aA])[^>]*>.*?</[aA]>');
-			var hrefRegEx = new RegExp('href\s*=\s*[\'|/"]([^\'|"]*)[\'|/"][^>]*>([^<]*)<');
-			
-			//remove the old text from the box
-			oldErr = errContainer.removeChild(oldErr);
-			
-			//set the new text's id to errText
-			newErr.id = 'errText';
-			
-			do {
-				oldText = newText;
-				newText = newText.replace(myBR, '\n');
-				newText = newText.replace(myLI, ' &bull; ');
-				newText = newText.replace(myEndLI, '\n');
-				newText = newText.replace(myEndTD, '\n');
-				newText = newText.replace(myEndTR, '\n');
-			}
-			while (oldText != newText);
-			
-			if (newText.match(linkRegEx) != null) {
-				links = newText.match(linkRegEx)[0];
-				
-				newText = newText.replace(linkRegEx, '|');
-				
-				if (links.match(hrefRegEx) != null) {
-					var linkInfo = links.match(hrefRegEx);		
-				}
-			}
-
-			var myRE = new RegExp("<[^>]*>", "i");
-			do {
-				oldText = newText;
-				newText = newText.replace(myRE, '');
-			}
-			while (oldText != newText);
-			
-			crntErrText = newText;
-			remainingText = newText;
-			pos = 0;
-			lpos = 0;
-			
-			do {
-				crntErrText = remainingText;
-				pos = crntErrText.indexOf('\n');
-				lpos = crntErrText.indexOf('|');
-				
-				if ((lpos != -1) && (lpos < pos)) {
-					if (lpos < crntErrText.length) {
-						remainingText = crntErrText.substring(lpos + 1, (crntErrText.length - lpos - 1));
-						crntErrText = crntErrText.substring(0, lpos);
-						remaining = true;
-					}
-					else {
-						remaining = false;
-					}
-					newErrText = document.createTextNode(crntErrText);
-					newErr.appendChild(newErrText);
-					
-					var aTag = document.createElement("a");
-					aTag.href=linkInfo[linkInfo.length-2];
-					newErrText = document.createTextNode(linkInfo[linkInfo.length-1]);
-					aTag.appendChild(newErrText);
-					newErr.appendChild(aTag);
-				}
-				else {
-					if (pos >= 0) {
-						if (pos < crntErrText.length) {
-							remainingText = crntErrText.substr(pos + 1, (crntErrText.length - pos - 1));
-							crntErrText = crntErrText.substr(0, pos);
-							remaining = true;
-						}
-						else {
-							remaining = false;
-						}
-						newErrText = document.createTextNode(crntErrText);
-						newErr.appendChild(newErrText);
-						newBR = document.createElement("br");
-						newErr.appendChild(newBR);
-					}
-					else {
-						newErrText = document.createTextNode(crntErrText);
-						newErr.appendChild(newErrText);
-						remaining = false;
-					}
-				}
-			}
-			while (remaining == true);
-			
-			errContainer.insertBefore(newErr, document.getElementById('closeMe'));
-			
-			errBox.style.width = errBoxTable.style.width;
-			errBox.style.height = errBoxTable.style.height;
-			
-			y = (document.documentElement.scrollTop + ((clientHeight() - errBox.offsetHeight) / 2));
-			x = (document.documentElement.scrollLeft + ((clientWidth()  - errBox.offsetWidth) / 2));
-			dd.elements.err.moveTo(x,y);
-			eshowNS();
-	}
-	catch(ex) {
-		//alert(ex.message);
-	}
-	
-
-}
-// use error to call code which must be entered and show the popup. 
-//error('hello');
-</script>
-
-
-
-
-<base href="http://www.toptable.co.uk:80">
-
-
-
-<script language="JavaScript"> 
-<!-- 
-if (window.location.toString().indexOf("bbcam=") > -1) 
-{ 
-r=document.referrer; 
-document.write("<IMG SRC=http://rs0.co.uk/gif.php?bbcid=1147&bbact=a1&bbval='0'&bbref='",r,"' height=1 width=1 border=0>"); 
-} 
-//--> 
-</script>
-<table width="760" height="60" border="0" align="center" cellpadding="0" cellspacing="0" style=" margin-bottom:1px ">
-  <tbody><tr>
-    <td width="172"><a href="/index.cfm">
-      
-        <img src="/img/new_logo.gif" width="180" height="36" border="0">
-      
-      </a></td>
-    <td align="center" valign="top"><table width="468" border="0" cellspacing="0" cellpadding="0" height="60">
-        <tbody><tr>
-          <td align="center"> 
-
-	
-	
-		
-		
-		
-		
-		
-			
-			
-			
-				
-			
-			
-		
-		
-			
-			
-			
-				
-				
-			
-			
-		
-		
-			
-			
-			
-				
-				
-			
-			
-		
-		
-			
-			
-			
-				
-			
-			
-		
-	
-<a href="http://www.toptable.co.uk/feature.cfm?fid=184&amp;log_bidclk=259"><img name="banner1" src="/img/links/french_gite_banner1.gif" border="0" alt=""></a> </td>
-        </tr>
-      </tbody></table></td>
-    <td width="100" valign="middle" align="right"><table border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td><a href="/atoz.cfm"><img src="/img/header_listings.gif" width="94" height="17" border="0" alt="a to z restaurant listing"></a></td>
-        </tr>
-        <tr>
-          <td><a href="/feature.cfm?fID=105"><img src="/img/header_onlinehelp.gif" width="94" height="17" border="0" alt="online help"></a></td>
-        </tr>
-        <tr>
-          <td><a href="/feature.cfm?fID=7"><img src="/img/header_telephone.gif" width="94" height="17" border="0" alt="contact us"></a></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>
-  <script type="text/javascript" src="/wz_dragdrop.js"></script><noscript>
+</head>
+<body>
+<noscript>
 <p>Your browser does not appear to support Javascript.</p>
 <ul>
-<li><a href="/feature.cfm?fid=40">West end Restaurants</a></li>
 <li><a href="/search_results.cfm/qs/bftID|41/">Private Restaurant Rooms</a></li>
-<li><a href="/search_results.cfm/qs/bftID|23/">Business Lunches</a></li>
+<li><a href="/search_results.cfm/qs/bftID|92/">Business Lunches</a></li>
 <li><a href="/atoz.cfm">Restaurant Guide</a></li>
 <li><a href="/search_results.cfm/qs/bftID|40/">Pre Theatre Restaurants</a></li>
 <li><a href="/specialoffers.cfm">Restaurant Special Offers</a></li>
 <li><a href="/features/paris.cfm">Restaurants in Paris</a></li>
 <li><a href="/search_results.cfm/qs/bftID|90/">American restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|1/">British restaurants</a></li>
-<li><a href="/search_results.cfm/qs/search|chinese/type|cuisine/">Chinese restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|3/">French restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|60/">Fusion restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|4/">Greek restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|5/">Halal restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|85/">Healthy eating restaurants</a></li>
-<li><a href="/search_results.cfm/qs/search|indian/type|cuisine/">Indian restaurants</a></li>
-<li><a href="/search_results.cfm/qs/search|italian/type|cuisine/">Italian restaurants</a></li>
-<li><a href="/search_results.cfm/qs/search|japanese/type|cuisine/">Japanese restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|8/">Kosher restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|10/">Mexican restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|13/">Middle eastern restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|11/">Modern european restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|12/">North african restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|59/">Oriental restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|14/">Seafood restaurants</a></li>
-<li><a href="/search_results.cfm/qs/search|spanish/type|cuisine/">Spanish restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|61/">Steak restaurants</a></li>
-<li><a href="/search_results.cfm/qs/search|thai/type|cuisine/">Thai restaurants</a></li>
-<li><a href="/search_results.cfm/qs/search|vegetarian/type|cuisine/">Vegetarian restaurants</a></li>
-</ul></noscript>
+<li><a href="/search_results.cfm/qs/bftID|1/">british restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|2/">chinese restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|3/">french restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|60/">fusion restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|4/">greek restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|5/">halal restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|85/">healthy eating restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|6/">indian restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|7/">italian restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|9/">japanese restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|8/">kosher restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|10/">mexican restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|13/">middle eastern restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|11/">modern european restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|12/">north african restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|59/">oriental restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|14/">seafood restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|91/">spanish restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|61/">steak restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|15/">thai restaurants</a></li>
+<li><a href="/search_results.cfm/qs/bftID|16/">vegetarian restaurants</a></li>
+</ul>
+</noscript> <div id="err" class="errbox" style="width: 200px; height: 83px; top: 4px; left: 0px; z-index: 302; cursor: auto;">
+	<table cellpadding="0" cellspacing="0" style="border:3px solid #CC0066; width:200px " id="errBoxTable">
+		<tbody><tr>
+			<td class="pinkBg" style="padding:0px 0px 0px 0px; height:25px; text-align:left " onmousedown="initializedragie();" onmouseover="drag_dropns(err);" onmouseout="dragswitch=0">
+				<a href="javascript: ehide('err');" title="close"><img src="/img/errClose.gif" style="float:right; border:0px none "></a>
+				<h2 style="margin:0px 0px 0px 0px ">&nbsp;</h2>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding:5px 5px 5px 5px; text-align:left; background-color:white ">
+				<div id="2">
+					<span id="errText" class="normal"><h3 style="margin:0px 0px 0px 0px;">Sorry, please can you enter your password. Thanks</h3></span>
+					<span id="closeMe" class="normal"><a href="javascript: ehide('err');" class="black">close me...</a></span>
+				</div>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
 
-  
-<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr valign="top">
-    <td>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100">
+		<div id="bodycontent">
+			<div id="header">
+<table width="100%" border="0" align="center">
+  <tbody><tr>
+  	  
+    <td width="154" style="padding:0px;">
+	<a href="/?lid=91" title="Online London Restaurants Booking and Guide from toptable.co.uk">
+        <img src="/img/tt_logo_christmas05.gif" width="158" height="66" border="0">
+      </a>
+	</td>
+    <td align="left" valign="top" style="padding:0px "><div id="banner"> <a href="http://www.toptable.co.uk/feature.cfm?fid=299&amp;log_bidclk=314"><img name="banner1" src="/img/links/imode_toptable_468x60_live2.gif" id="bannerImage" border="0" alt=""></a> </div></td>
+    <td width="114" valign="middle" align="left" style="padding:0px; "><table border="0" cellspacing="0" cellpadding="0" style="width:50px ">
         <tbody><tr>
-		
-		 
-			  <td width="120" align="left" valign="top">		  
-			  			  
-			  	<img src="/img/f/corner/napkins.jpg" width="120" height="102">
-			  
-			  </td>
-			  <td align="left" valign="top">
+          <td style="padding:0px; text-align:left"><a href="/atoz.cfm?lid=82" title="restaurant list"><img src="/img/restList_button.gif" border="0" alt="a to z restaurant listing" style="margin:0px 0px 2px 0px "></a></td>
+        </tr>
+        <tr>
+          <td style="padding:0px; text-align:left "><a href="/feature.cfm?fID=105&amp;lid=83" title="online help"><img src="/img/onlineHelp_button.gif" border="0" alt="online help" style="margin:2px 0px 2px 0px "></a></td>
+        </tr>
+        <tr>
+          <td style="padding:0px; text-align:left "><a href="/feature.cfm?fID=7&amp;lid=84" title="contact us"><img src="/img/phoneNumber_button.gif" border="0" alt="contact us" style="margin:2px 0px 0px 0px "></a></td>
+        </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table></div>
+			<div id="nav">
+				<img src="/img/f/corner/napkins.jpg" width="120" height="102">
 
-			  
+<span class="menus">
+<table cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<th id="menu1picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+	<td id="menu1cell"><a href="/?lid=1" title="home" onmouseover="menu_mouseOver('menu1');" onmouseout="menu_mouseLeave('menu1');">home</a></td>
+</tr>
+<tr>
+	<th id="menu13picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+	<td id="menu13cell"><a href="/?lid=2" title="search" onmouseover="menu_mouseOver('menu13');" onmouseout="menu_mouseLeave('menu13');">search</a></td>
+</tr>	
+<tr>
+	<th id="menu8picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+	<td><a href="/destination/?lid=344" title="Global Bookings" onmouseover="menu_mouseOver('menu8');" onmouseout="menu_mouseLeave('menu8');">global booking</a></td>
+</tr>
+<tr>
+	<th id="menu2picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+	<td><a href="/specialOffers.cfm?lid=3" title="special offers" onmouseover="menu_mouseOver('menu2');" onmouseout="menu_mouseLeave('menu2');">special offers</a></td>
+</tr>
+<tr>
+	<th id="menu3picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+		<td><a href="/bestfor.cfm?lid=4" title="best for..." onmouseover="menu_mouseOver('menu3');" onmouseout="menu_mouseLeave('menu3');">best for...</a></td>
+</tr>
+<tr>
+	<th id="menu4picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+	<td><a href="/groups.cfm?lid=5" title="booking an event?" onmouseover="menu_mouseOver('menu4');" onmouseout="menu_mouseLeave('menu4');">parties &amp; events</a></td>
+</tr>
+<tr>
+	<th id="menu5picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+	<td><a href="/feature.cfm?fID=96&amp;lid=6" title="dinner and theatre" onmouseover="menu_mouseOver('menu5');" onmouseout="menu_mouseLeave('menu5');">dinner &amp; theatre</a></td>
+</tr>
 
-<script language="JavaScript">
-function popupxy(url,x,y) {
-	window.open('http://www.toptable.co.uk/' + url,'','width=' + x + ',height=' + y + ',toolbar=none,scrollbars=none');
-}
-window.name = "main";
+<tr>
+	<th id="menu15picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+	<td><a href="/features/groups_christmas.cfm?lid=174" title="Christmas bookings" onmouseover="menu_mouseOver('menu15');" onmouseout="menu_mouseLeave('menu15');">Christmas parties</a></td>
+</tr>
+
+<tr>
+	<th id="menu7picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+	<td><a href="/feature.cfm?fID=45&amp;lid=8" title="new restaurants" onmouseover="menu_mouseOver('menu7');" onmouseout="menu_mouseLeave('menu7');">new to toptable</a></td>
+</tr>
+
+<tr>
+	<th id="menu9picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+	<td><a href="/feature.cfm?fID=60&amp;lid=237" title="News &amp; Gossip" onmouseover="menu_mouseOver('menu9');" onmouseout="menu_mouseLeave('menu9');">news &amp; gossip</a></td>
+</tr>
+<tr>
+	<th id="menu10picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+	<td><a href="/mytoptable.cfm?lid=11" title="my toptable" onmouseover="menu_mouseOver('menu10');" onmouseout="menu_mouseLeave('menu10');">my toptable</a></td>
+</tr>
+
+<tr>
+	<th id="menu11picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+	<td><a href="/feature.cfm?fid=200&amp;lid=118" title="Top Rewards" onmouseover="menu_mouseOver('menu11');" onmouseout="menu_mouseLeave('menu11');">top rewards</a></td>
+</tr>
+<tr>
+	<th id="menu12picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+	<td><a href="/feature.cfm?fID=56&amp;lid=13" title="competitions" onmouseover="menu_mouseOver('menu12');" onmouseout="menu_mouseLeave('menu12');">competitions</a></td>
+</tr>
+<tr>
+	<th id="menu14picCell"><p><img src="/img/mbt.gif" border="0" width="5px" height="17px"></p></th>
+	<td><a href="/feature.cfm?fID=13&amp;lid=231" title="Restaurateurs" onmouseover="menu_mouseOver('menu14');" onmouseout="menu_mouseLeave('menu14');">restaurateurs</a></td>
+</tr>
+</tbody></table>
+</span> <div id="login" class="lightGreenBgAlt">
+<script language="javascript" type="text/javascript">
+	function checkEnter(evt) {
+		evt = evt || window.event;
+		var key = evt.keyCode;
+		if (key == 13) {
+			submitLoginForm(); return false;
+		}
+	}
 </script>
 
+		<h2>log in</h2>
+		<form action="/feature.cfm?fID=8&amp;lid=95" method="post" name="loginForm" onsubmit="submitLoginForm(); return false;">
+		<h4>email:</h4>
+		<input name="email" type="text" class="login" value="" style="width:95px"><br>
+		<h4>password:</h4>
+		<input name="password" type="password" class="login" style="width:95px;margin-bottom:0px" onkeypress="checkEnter(event)"><br>
+		<a href="javascript:popupxy('forgottenPassword.cfm',285,120);" class="forgot">Forgotten password?</a><br>
+		<input type="image" src="/img/buttonLogin.gif" class="login" style="margin-top:12px; margin-bottom:2px; height:13px; width:100px "><br>
+		<a href="/register.cfm" title="register"><img src="/img/buttonRegister.gif" class="login"></a><br>
+		<a href="/myToptable.cfm" title="change a booking"><img src="/img/buttonCancel.gif" class="login"></a><br><input name="action" type="hidden" value="login"></form>
 
-
-  
-
-  	
-  
-  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="102">           
-    <tbody><tr>           
-      <td align="center" valign="middle" bgcolor="#b1dec2"><table width="500" border="0" cellspacing="0" cellpadding="0">              
-          <tbody><tr><td height="25" align="left" valign="top"><h1>
-		  
-		  
-		  			
+</div> <a name="poll"></a><span class="pinkBg">
+<div id="poll" class="pinkBg">
+	
+				<form action="/feature.cfm#poll" method="get">
+				
+						<input type="hidden" name="FID" value="8">
+					
+						<input type="hidden" name="NOCACHE" value="0">
+					
+				<input type="hidden" name="lid" value="78">
 			
-				privacy statement
-			
-		
-		  
-		  
-		  </h1></td></tr>            
-          <tr>               
-            <td height="62" align="left" valign="middle" class="menus">
-			
-			
-			
-			
-			
+			<h2>diner poll</h2>
+			<p>What will you be doing this New Year's Eve?<br>
+				<br>
 				
-					
+					<input type="radio" name="pollanswerid" value="316">
+					Dinner out<br>
 				
-			 
-			toptable.co.uk Limited is committed to ensuring that your privacy is protected. This policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
-			</td>
-          </tr>          
-        </tbody></table>
-      </td>
-    </tr>
-  </tbody></table>
-  
-			
-		</td>
-        </tr>
-        <tr valign="top">
-          <td width="120" valign="top" height="254">
-		  
-          	
-	
-		
-	
-	
-	
-	
-		
-		
-	
-	
-		
-		
-		
-		
-			
-			
-		
-			
+					<input type="radio" name="pollanswerid" value="317">
+					Party in<br>
+				 </p>
+			<p align="right">
+				<input type="image" src="/img/pollvote.gif">
+			</p>
+			</form>
+		<a href="/pollarchive.cfm?lid=77" title="view all past polls">view all past polls</a> </div>
+<br>
+</span>
+			</div>
+			<div id="mainContent">
 				
-				
-				
-					
-					
-				
-					
-					
-						
-					
-		
-		
-	
-	
+<div id="intro" class="lightGreenBg">
 
-	
+<div id="denOffer" style="float:right; display:none"><img src="/img/denOffer.gif" width="98" height="11"></div>
+<h1>privacy statement</h1>
+<hr>
+<h4> toptable.co.uk Limited is committed to ensuring that your privacy is protected. This policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.</h4>
+</div> 
+				<div id="insideContent">
 
+<div id="feature">
 
-<style>
-	.mC {border-bottom: dotted 1px #c0c0c0;height: 15px;width: 115px;padding: 3px;}
-</style>
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" height="185" class="parent_table" style="margin-bottom:3px">
-	<tbody><tr> 
-		<td valign="middle" height="150" bgcolor="#FFFFFF">
-			
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				<div id="menu_1" style="width: 120px; left: 120px; background-color: #FFFFFF; top: -13px; z-index: 90" class="layer_window" onmouseover="stop();" onmouseout="start();"><table border="0" cellpadding="0" cellspacing="0" class="menus_left"><tbody><tr><td height="3"><img src="/img/window_space.gif" width="120" height="10"></td></tr><tr><td class="mSpace2"></td></tr><tr><td class="mC"><a href="/index.cfm?fromnav=1">home</a></td></tr><tr><td class="mC"><a href="/index.cfm?fromnav=1">search &amp; book</a></td></tr><tr><td class="mC"><a href="/atoz.cfm?fromnav=1">a to z</a></td></tr><tr><td class="mC"><a href="/features/paris.cfm?fromnav=1">destination paris</a></td></tr><tr><td class="mC"><a href="/bestfor.cfm?fromnav=1">best for</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=16&amp;fromnav=1">unbookables</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=96&amp;fromnav=1">Theatre and Dinner packages</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=18&amp;fromnav=1">toptable top ten</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=21&amp;fromnav=1">Conran</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=22&amp;fromnav=1">Late Night London</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=23&amp;fromnav=1">private dining at The Savoy</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=27&amp;fromnav=1">Radisson Edwardian restaurants</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=25&amp;fromnav=1">Marco Pierre White restaurants</a></td></tr></tbody></table></div><div id="menu_2" style="width: 120px; left: 120px; background-color: #FFFFFF; top: 9px; z-index: 90" class="layer_window" onmouseover="stop();" onmouseout="start();"><table border="0" cellpadding="0" cellspacing="0" class="menus_left"><tbody><tr><td height="3"><img src="/img/window_space.gif" width="120" height="10"></td></tr><tr><td class="mSpace2"></td></tr><tr><td class="mC"><a href="/groups.cfm?fromnav=1">groups &amp; events</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=15&amp;fromnav=1">unique venues</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=33&amp;fromnav=1">meet your mates</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=39&amp;fromnav=1">pubs &amp; bars</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=1&amp;fromnav=1">stag &amp; hen</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=61&amp;fromnav=1">celebrating a birthday</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=30&amp;fromnav=1">larger venues for 100+</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=43&amp;fromnav=1">dine like the a-listers</a></td></tr></tbody></table></div><div id="menu_11" style="width: 120px; left: 120px; background-color: #FFFFFF; top: 31px; z-index: 90" class="layer_window" onmouseover="stop();" onmouseout="start();"><table border="0" cellpadding="0" cellspacing="0" class="menus_left"><tbody><tr><td height="3"><img src="/img/window_space.gif" width="120" height="10"></td></tr><tr><td class="mSpace2"></td></tr><tr><td class="mC"><a href="/specialoffers.cfm?fromnav=1">all special offers</a></td></tr><tr><td class="mC"><a href="/specialoffers.cfm?locality=1&amp;fromnav=1">Westend</a></td></tr><tr><td class="mC"><a href="/specialoffers.cfm?locality=2&amp;fromnav=1">City</a></td></tr><tr><td class="mC"><a href="/specialoffers.cfm?locality=3&amp;fromnav=1">other London</a></td></tr><tr><td class="mC"><a href="/specialoffers.cfm?locality=4&amp;fromnav=1">out of London</a></td></tr><tr><td class="mC"><a href="/specialoffers.cfm?locality=6&amp;fromnav=1">£15 and under</a></td></tr><tr><td class="mC"><a href="/specialoffers.cfm?locality=7&amp;fromnav=1">50% off</a></td></tr><tr><td class="mC"><a href="/specialoffers.cfm?locality=8&amp;fromnav=1">Lunch</a></td></tr></tbody></table></div><div id="menu_16" style="width: 120px; left: 120px; background-color: #FFFFFF; top: 53px; z-index: 90" class="layer_window" onmouseover="stop();" onmouseout="start();"><table border="0" cellpadding="0" cellspacing="0" class="menus_left"><tbody><tr><td height="3"><img src="/img/window_space.gif" width="120" height="10"></td></tr><tr><td class="mSpace2"></td></tr><tr><td class="mC"><a href="/mytoptable.cfm?fromnav=1">my toptable</a></td></tr><tr><td class="mC"><a href="/register.cfm?fromnav=1">register</a></td></tr><tr><td class="mC"><a href="/edit_profile.cfm?fromnav=1">edit my profile</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=116&amp;fromnav=1">top rewards</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=46&amp;fromnav=1">vip</a></td></tr><tr><td class="mC"><a href="/mytoptable.cfm?mode=clubs&amp;fromnav=1">clubs &amp; partners</a></td></tr></tbody></table></div><div id="menu_21" style="width: 120px; left: 120px; background-color: #FFFFFF; top: 75px; z-index: 90" class="layer_window" onmouseover="stop();" onmouseout="start();"><table border="0" cellpadding="0" cellspacing="0" class="menus_left"><tbody><tr><td height="3"><img src="/img/window_space.gif" width="120" height="10"></td></tr><tr><td class="mSpace2"></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=60&amp;fromnav=1">table talk</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=45&amp;fromnav=1">new restaurants</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fid=183&amp;fromnav=1">tasting evenings</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fid=147&amp;fromnav=1">Taste of London 2005</a></td></tr><tr><td class="mC"><a href="feature.cfm?fid=170&amp;fromnav=1">Toast 2005</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=103&amp;fromnav=1">Restaurants Against Hunger</a></td></tr></tbody></table></div><div id="menu_27" style="width: 120px; left: 120px; background-color: #FFFFFF; top: 97px; z-index: 90" class="layer_window" onmouseover="stop();" onmouseout="start();"><table border="0" cellpadding="0" cellspacing="0" class="menus_left"><tbody><tr><td height="3"><img src="/img/window_space.gif" width="120" height="10"></td></tr><tr><td class="mSpace2"></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=56&amp;fromnav=1">all competitions</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=20&amp;fromnav=1">winners</a></td></tr></tbody></table></div><div id="menu_31" style="width: 120px; left: 120px; background-color: #FFFFFF; top: 119px; z-index: 90" class="layer_window" onmouseover="stop();" onmouseout="start();"><table border="0" cellpadding="0" cellspacing="0" class="menus_left"><tbody><tr><td height="3"><img src="/img/window_space.gif" width="120" height="10"></td></tr><tr><td class="mSpace2"></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=105&amp;fromnav=1">customer support</a></td></tr><tr><td class="mC"><a href="/recommend.cfm?fromnav=1">recommend a restaurant</a></td></tr></tbody></table></div><div id="menu_36" style="width: 120px; left: 120px; background-color: #FFFFFF; top: 141px; z-index: 90" class="layer_window" onmouseover="stop();" onmouseout="start();"><table border="0" cellpadding="0" cellspacing="0" class="menus_left"><tbody><tr><td height="3"><img src="/img/window_space.gif" width="120" height="10"></td></tr><tr><td class="mSpace2"></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=6&amp;fromnav=1">about us</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=7&amp;fromnav=1">contact us</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=8&amp;fromnav=1">privacy statement</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=9&amp;fromnav=1">charter</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=10&amp;fromnav=1">terms &amp; conditions</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=11&amp;fromnav=1">advertising</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=12&amp;fromnav=1">become an affiliate</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=38&amp;fromnav=1">jobs at toptable</a></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=63&amp;fromnav=1">useful links</a></td></tr></tbody></table></div><div id="menu_46" style="width: 120px; left: 120px; background-color: #FFFFFF; top: 163px; z-index: 90" class="layer_window" onmouseover="stop();" onmouseout="start();"><table border="0" cellpadding="0" cellspacing="0" class="menus_left"><tbody><tr><td height="3"><img src="/img/window_space.gif" width="120" height="10"></td></tr><tr><td class="mSpace2"></td></tr><tr><td class="mC"><a href="/feature.cfm?fID=13&amp;fromnav=1">restaurateurs</a></td></tr></tbody></table></div> <table border="0" cellspacing="0" cellpadding="0" height="120" width="118" class="menus_left"><tbody><tr><td colspan="2" height="2"><img src="/img/white_spacer.gif" width="1" height="1"></td></tr><tr onmouseover="hideAll(); show('menu_1'); stop()" onmouseout="start();"><td colspan="2" class="mC"><img src="/img/left_menu_arrow.gif" width="7" height="6" align="absmiddle"> <a href="/index.cfm?fromnav=1">search, book &amp; home</a></td></tr><tr onmouseover="hideAll(); show('menu_2'); stop()" onmouseout="start();"><td colspan="2" class="mC"><img src="/img/left_menu_arrow.gif" width="7" height="6" align="absmiddle"> <a href="/groups.cfm?fromnav=1">groups &amp; events</a></td></tr><tr onmouseover="hideAll(); show('menu_11'); stop()" onmouseout="start();"><td colspan="2" class="mC"><img src="/img/left_menu_arrow.gif" width="7" height="6" align="absmiddle"> <a href="/specialoffers.cfm?fromnav=1">special offers</a></td></tr><tr onmouseover="hideAll(); show('menu_16'); stop()" onmouseout="start();"><td colspan="2" class="mC"><img src="/img/left_menu_arrow.gif" width="7" height="6" align="absmiddle"> <a href="/mytoptable.cfm?fromnav=1">my toptable</a></td></tr><tr onmouseover="hideAll(); show('menu_21'); stop()" onmouseout="start();"><td colspan="2" class="mC"><img src="/img/left_menu_arrow.gif" width="7" height="6" align="absmiddle"> <a href="/feature.cfm?fID=60&amp;fromnav=1">news &amp; gossip</a></td></tr><tr onmouseover="hideAll(); show('menu_27'); stop()" onmouseout="start();"><td colspan="2" class="mC"><img src="/img/left_menu_arrow.gif" width="7" height="6" align="absmiddle"> <a href="/feature.cfm?fID=56&amp;fromnav=1">competitions</a></td></tr><tr onmouseover="hideAll(); show('menu_31'); stop()" onmouseout="start();"><td colspan="2" class="mC"><img src="/img/left_menu_arrow.gif" width="7" height="6" align="absmiddle"> <a href="/feature.cfm?fID=105&amp;fromnav=1">customer support</a></td></tr><tr onmouseover="hideAll(); show('menu_36'); stop()" onmouseout="start();"><td colspan="2" class="mC"><img src="/img/left_menu_arrow.gif" width="7" height="6" align="absmiddle"> <a href="/feature.cfm?fID=6&amp;fromnav=1">about us</a></td></tr><tr onmouseover="hideAll(); show('menu_46'); stop()" onmouseout="start();"><td colspan="2" class="mC"><img src="/img/left_menu_arrow.gif" width="7" height="6" align="absmiddle"> <a href="/feature.cfm?fID=13&amp;fromnav=1">restaurateurs</a></td></tr><tr><td colspan="2" height="2"><img src="/img/border.gif" width="1" height="1"></td></tr></tbody></table>
-		</td>
-	</tr>
-</tbody></table><table width="110" border="0" cellpadding="0" cellspacing="0" bgcolor="#A6D5DD">
-	
-  <form name="frmSignin" method="post" action="/feature.cfm?fID=8&amp;fromnav=1"></form>
-    <input name="action" type="hidden" value="login">
-    <tbody><tr>
-      <td colspan="3"><img src="/img/signin_top1.gif" width="110" height="14"></td>
-    </tr>
-	
-      <tr>
-	  	<td width="10" rowspan="6" align="left" valign="top" background="/img/signin_left.gif">&nbsp;</td>		  
-        <td align="left" valign="bottom" class="menus_9">&nbsp;email</td>
-		<td width="13" rowspan="6" align="right" valign="top" background="/img/signin_right.gif">&nbsp;</td>
-      </tr>
-      <tr>  
-        <td align="left" valign="bottom">
-          
-			<input name="email" type="text" class="signin_boxes" id="email2">
-	    </td>
-      </tr>
-		
-      <tr>
-		  
-        <td align="left" valign="bottom" class="menus_9">password</td>
-      </tr>
-		
-      <tr>
-		  
-        <td align="left" valign="top">
-          
-			<input name="password" type="password" class="signin_boxes" id="password2">
-	    </td>
-      </tr>
-		
-      <tr>
-		  
-        <td width="91" valign="middle" align="left" height="24"><input name="imageField" type="image" src="/img/sign_in_button.gif" width="47" height="18" border="0"></td>
-      </tr>
-<script language="JavaScript">function popupxy(url,x,y) {
-	window.open('http://www.toptable.co.uk/' + url,'','width=' + x + ',height=' + y + ',toolbar=none,scrollbars=none');
-}</script>		
-      <tr>
-        <td width="92" valign="bottom" align="left"><a href="/register.cfm" class="signin"><img src="/img/button_regforfree.gif" alt="For a FREE account click here" border="0"></a><img src="/img/spacer.gif" width="50" height="2"><br>
-		
-		<a href="mytoptable.cfm"><img src="/img/btn_changebooking.gif" alt="change a booking" border="0"></a><br>
-		
-		<a href="javascript:popupxy('forgottenPassword.cfm.cfm',225,170);" class="signin" style="font-size:7pt;">Forgotten password?</a></td>
-      </tr>
-	  
-	
-    <tr>
-      <td colspan="3" align="left" valign="top" background="/img/signin_left.jpg"><img src="/img/signin_bottom1.gif" width="110" height="14"></td>
-    </tr>
-  
-  
-</tbody></table>
-
-          </td>
-          <td align="left" height="254">
-		  
-			  	
-	
-
-
-
-
-	
-		
-	
-	
-	
-		
-			<a name="24"></a>
-			 
-				
-
-
-<table border="0">
+<div id="textBlock" style="float:left;">
+<a name="24"></a>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td>
-<table border="0">
-
-
-
 	
-	
-		
-		
-			<tbody><tr valign="top">
-				<td colspan="2" width="50%"> <table width="100%" border="0" cellspacing="0" cellpadding="10" class="stippled_border" style="margin-bottom:5px">
-					<tbody><tr><td align="left" valign="top"><span class="green_12pt">Privacy Statement<br></span><span class="menus">By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of, the Terms and Conditions, which govern your use of the site in general. We will use your information for the purposes set out in paragraph 5 below. You will have an opportunity to unsubscribe whenever we communicate with you. To unsubscribe from toptable.co.uk communications please send an email to <a href="mailto:info@toptable.co.uk" class="gLink">info@toptable.co.uk</a> with 'unsubscribe' in the subject box.
+	<div id="textBlockItem" no="" style=""> <h2 no="" style="">Privacy Statement</h2><p>By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of, the Terms and Conditions, which govern your use of the site in general. We will use your information for the purposes set out in paragraph 5 below. You will have an opportunity to unsubscribe whenever we communicate with you. To unsubscribe from toptable.co.uk communications please send an email to <a href="mailto:info@toptable.co.uk" class="gLink">info@toptable.co.uk</a> with 'unsubscribe' in the subject box.
 <br>
 <br>We may need to update this privacy statement from time to time. We recommend that you regularly check this page to ensure that you have read the most recent version.
 <br>
@@ -701,74 +475,55 @@ window.name = "main";
 <br>
 <br><b>5. Your details and contacting us</b>
 <br>
-<br>You can check what personal information we hold about you, update your information, ask us to remove your information, correct any inaccuracies in such personal information or ask us questions about our Privacy Statement, by contacting us at <a href="mailto:info@toptable.co.uk" class="gLink">info@toptable.co.uk</a> We will make every effort to respond to your request in a timely manner. </span></td></tr></tbody></table></td>
-				
-				
-			</tr>
-		
-		
-
-
-</tbody></table>
+<br>You can check what personal information we hold about you, update your information, ask us to remove your information, correct any inaccuracies in such personal information or ask us questions about our Privacy Statement, by contacting us at <a href="mailto:info@toptable.co.uk" class="gLink">info@toptable.co.uk</a> We will make every effort to respond to your request in a timely manner. </p><div style="clear:both;"></div>
+				</div>
+			
 </td>
 
 
-</tr>
+
+
+</tr>	
 </tbody></table>
-			
-		
-	
+</div>
 
 
 
+</div>
 
-          </td>
-        </tr>
-    </tbody></table></td>
-      <td width="120" align="right">
-	
-		
-          <a href="/index.cfm"><img src="/img/new_site_top_button2.gif" width="120" height="102" border="0"></a>
-		 
-    	
-	
+				</div>
+			</div>
+			<div id="adBar">
+				<div id="smallQuickSearch" class="lightGreenBg">
+<form name="frmSmallQuicksearch" method="get" action="/search_results.cfm" onsubmit="return checksearch(this);">
+<h2>quick search</h2>
+<input type="text" name="search" value="" onfocus="this.value='';" size="15" style="margin-bottom:3px;"><br>
+<select name="type" style="margin-bottom:6px; width:106px ">
+		<option value="name">restaurant</option>
+		<option value="area">area</option>
+		<option value="street">street</option>
+		<option value="cuisine">cuisine</option>
+		<option value="postcode">postcode</option>
+		<option value="tube_station">tube station</option>
+		<option value="tourist_attraction">tourist attraction</option>
+	</select><br>
+<p style="text-align:right "><input type="image" src="/img/buttons/green/go.gif" style="margin-right:4px; "></p>
+</form>
+</div> <div id="carrots"><a href="/specialoffers.cfm?sort=n&amp;offerDay=all&amp;locality=7&amp;imageField.x=28&amp;imageField.y=4&amp;lid=181" title=""><img src="/img/carrots/50(2)1.gif" alt="" border="0"></a><a href="/details.cfm?rid=1713&amp;lid=362" title="sketch Lecture Room"><img src="/img/carrots/sketch(lectureroom).gif" alt="sketch Lecture Room" border="0"></a><a href="/details.cfm?rid=1755&amp;lid=378" title="Patterson"><img src="/img/carrots/pattersons(2).gif" alt="Patterson's" border="0"></a><a href="/features/nye.cfm?lid=360" title="New Years Eve"><img src="/img/carrots/new_year.gif" alt="New Years Eve" border="0"></a><a href="http://www.toptable.co.uk/partyPlanner.cfm?lid=189" title=""><img src="/img/carrots/party_planner.gif" alt="" border="0"></a><a href="http://www.toptable.co.uk/search_results.cfm/qs/bftID|151/lid|376/" title=""><img src="/img/carrots/christmas_day.jpg" alt="" border="0"></a><a href="/details.cfm?rid=1291&amp;lid=379" title="Sugar Hut"><img src="/img/carrots/sugar_hut(2).gif" width="120" height="70" alt="Sugar Hut" border="0"></a><a href="/details.cfm?rid=9&amp;lid=375" title="Kilo"><img src="/img/carrots/kilo.gif" width="120" height="70" alt="Kilo" border="0"></a><a href="/feature.cfm?fid=290&amp;lid=359" title="go local this Christmas"><img src="/img/carrots/local_xmas2.gif" width="120" height="70" alt="go local this Christmas" border="0"></a></div>
+			</div>
+		</div>
+		<div id="footer">
+			<h4><a href="/press/?lid=230" title="press room" class="grnLink">press room</a> | <a href="/feature.cfm?fID=105&amp;lid=92" title="customer support" class="grnLink">customer support</a> | <a href="/feature.cfm?fID=6&amp;lid=93" title="company info" class="grnLink">company info</a> | <a href="/feature.cfm?fID=8&amp;lid=95" title="privacy policy" class="grnLink">privacy</a> | <a href="/feature.cfm?fID=10&amp;lid=96" title="terms and conditions" class="grnLink">ts &amp; cs</a> | <a href="/feature.cfm?fID=197&amp;lid=97" title="partnerships" class="grnLink">partnerships</a><br><a href="/feature.cfm?fID=63&amp;lid=98" title="links" class="grnLink">links</a> | <a href="/feature.cfm?fid=38&amp;lid=99" title="jobs at toptable.co.uk" class="grnLink">jobs at toptable.co.uk</a> | <a href="/modSitemap.cfm?lid=100" title="sitemap" class="grnLink">site map</a> | <a href="/recommend.cfm?lid=101" title="recommend a restaurant" class="grnLink">recommend a restaurant</a> | <a href="javascript:addToFav();" class="grnLink">add to favourites</a></h4>
 
-	
-
-
-<table width="118" border="0" cellspacing="0" cellpadding="1">
-<tbody><tr><td width="8">&nbsp;</td><td align="right">
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td align="center" valign="middle"><img src="/img/divider_horiz_110.jpg" width="110" height="7"></td></tr><tr valign="top"><td height="60" align="center" valign="middle"><a href="/details.cfm?rid=1841&amp;carrot=226"><img src="/img/c/greigs.gif" alt="" width="110" height="60" border="0"></a></td></tr></tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td align="center" valign="middle"><img src="/img/divider_horiz_110.jpg" width="110" height="7"></td></tr><tr valign="top"><td height="60" align="center" valign="middle"><a href="/feature.cfm?fid=147&amp;carrot=221"><img src="/img/c/TOL_carrot2.jpg" alt="" width="110" height="60" border="0"></a></td></tr></tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td align="center" valign="middle"><img src="/img/divider_horiz_110.jpg" width="110" height="7"></td></tr><tr valign="top"><td height="60" align="center" valign="middle"><a href="/features/paris.cfm?carrot=218"><img src="/img/c/Destination_paris(carrot).gif" alt="" width="110" height="60" border="0"></a></td></tr></tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td align="center" valign="middle"><img src="/img/divider_horiz_110.jpg" width="110" height="7"></td></tr><tr valign="top"><td height="60" align="center" valign="middle"><a href="/feature.cfm?fid=184&amp;carrot=222"><img src="/img/c/french_gite_carrot.jpg" alt="" width="110" height="60" border="0"></a></td></tr></tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td align="center" valign="middle"><img src="/img/divider_horiz_110.jpg" width="110" height="7"></td></tr><tr valign="top"><td height="60" align="center" valign="middle"><a href="/details.cfm?rid=748&amp;carrot=207"><img src="/img/c/groups_quo_vadis.jpg" alt="" width="110" height="60" border="0"></a></td></tr></tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td align="center" valign="middle"><img src="/img/divider_horiz_110.jpg" width="110" height="7"></td></tr><tr valign="top"><td height="60" align="center" valign="middle"><a href="/details.cfm?rid=394&amp;carrot=206"><img src="/img/c/groups_dover_st.gif" alt="" width="110" height="60" border="0"></a></td></tr></tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td align="center" valign="middle"><img src="/img/divider_horiz_110.jpg" width="110" height="7"></td></tr><tr valign="top"><td height="60" align="center" valign="middle"><a href="/details.cfm?rid=2052&amp;carrot=208"><img src="/img/c/groups_bankside.gif" alt="" width="110" height="60" border="0"></a></td></tr></tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td align="center" valign="middle"><img src="/img/divider_horiz_110.jpg" width="110" height="7"></td></tr><tr valign="top"><td height="60" align="center" valign="middle"><a href="/details.cfm?rid=737&amp;carrot=216"><img src="/img/c/groups_sound.gif" alt="" width="110" height="60" border="0"></a></td></tr></tbody></table>
-
-</td></tr>
-</tbody></table>
-
-	</td>
-  </tr>
-</tbody></table>
-<table width="760" border="0" align="center" cellpadding="0" cellspacing="0"><tbody><tr> <td width="120" align="left" valign="bottom" class="menus"><a href="#"><img src="/img/footer_icon_email.gif" width="13" height="8" border="0"></a> <a href="mailto:?subject=I%27ve%20found%20a%20great%20website%2C%20I%20thought%20you%27d%20like%20it%20too%2E%2E%2E&amp;body=http://www.toptable.co.uk">email to a friend</a> </td><td class="menus" align="left" valign="middle"><a href="javascript:window.external.addFavorite('http://www.toptable.co.uk','toptable.co.uk');">add to favourites</a><img src="/img/green_divide.gif" width="8" height="13"><a href="/feature.cfm?fID=8">privacy</a><img src="/img/green_divide.gif" width="8" height="13"><a href="/feature.cfm?fID=7">contact us</a><img src="/img/green_divide.gif" width="8" height="13"><a href="/feature.cfm?fID=105">help</a><img src="/img/green_divide.gif" width="8" height="13"><a href="/feature.cfm?fID=10">t&amp;c's</a><img src="/img/green_divide.gif" width="8" height="13"><a href="/feature.cfm?fID=12">affiliates</a><img src="/img/green_divide.gif" width="8" height="13"><a href="/recommend.cfm">recommend a restaurant</a><img src="/img/green_divide.gif" width="8" height="13"><a href="/feature.cfm?fID=63">links</a><img src="/img/green_divide.gif" width="8" height="13"><a href="/feature.cfm?fID=13">restaurant sign up</a><img src="/img/green_divide.gif" width="8" height="13"><a href="/feature.cfm?fID=38">jobs</a><img src="/img/green_divide.gif" width="8" height="13"><a href="/sitemap.cfm">site map</a></td></tr><tr><td align="left" valign="bottom" class="menus">site design by J2</td><td class="menus" align="right" valign="middle">&nbsp;</td></tr></tbody></table>
+		</div>
+<script type="text/javascript">
+<!--
+SET_DHTML('err');
+//SET_DHTML('eframe');
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+//-->
+</script>
 
 
 <!-- START RedSheriff Measurement V5.01 -->
@@ -805,46 +560,71 @@ document.write(_rsCL);
 
 
 
-
-
-
-
-
-
-
 <!-- END OF SmartSource Data Collector  TAG dcswd99thlcwenmjoju0iuzxz_3u5n-->	
 	
 
 
 
-<map name="xmasMap">
-  <area shape="rect" coords="28,27,110,51" href="/feature.cfm?fID=126">
-  <area shape="rect" coords="29,58,92,71" href="/feature.cfm?fID=116">
-  <area shape="rect" coords="29,74,102,100" href="/feature.cfm?fID=125">
-</map>
+<!-- IonMail -->
 
-<script type="text/javascript">
-<!--
-SET_DHTML('err');
-//SET_DHTML('eframe');
+	<script type="text/javascript">
+	<!--
+	
+	var pageRef = 'feature page'; //which page
+	
+		//date: format - yyyymmdd
+	var bkDate1='';
+	var bkDate2='';
+	
+	//numeric: format - (accepts period) i.e. "1.50"
+	var bkFloat1='';
+	var bkFloat2='';
+	
+	//numeric: format - (no period) i.e. "100"
+	var bkNumber1='';
+	var bkNumber2='';
+	
+	//string: format - (Alpha Numeric A-Z a-z 0-9)
+	var bkString1='';
+	var bkString2='';
+	-->
+	</script>
+	<script type="text/javascript" src="/script/ionMail_tags.js"></script>
+	<!-- / IonMail -->
 
-
-//-->
+	<script language="JavaScript"> 
+<!-- 
+if (window.location.toString().indexOf("bbcam=") > -1) 
+{ 
+r=document.referrer; 
+document.write("<IMG SRC=http://rs0.co.uk/gif.php?bbcid=1147&bbact=a1&bbval='0'&bbref='",r,"' height=1 width=1 border=0>"); 
+} 
+//--> 
 </script>
 
-<noscript><IMG SRC="http://rs0.co.uk/gif.php?bbcid=1147&bbact=a1&bbval='0'" height=1 width=1 border=0></noscript>
 
 
+<script language="JavaScript">
+var now = new Date();
+var nIndex = now.getTime();
+document.write('<s' + 'cript src="http://www.utarget.co.uk/scriptinject.aspx?h=237&nocache=' + nIndex + '">');
+document.write('</' + 's' + 'cript>');
+</script><script src="http://www.utarget.co.uk/scriptinject.aspx?h=237&amp;nocache=1580495156310"></script>
 
-
-
-
- 
-
-
-
-
-
+	<script language="javascript">
+		document.write('<img src="/tracking/record.cfm?v=1ECD981A%2DC8D1%2D5317%2D0DE9725C7DE99E7B&ur=&bi=&bt=&cv=&ri=&ev=0&ap=&si=1ECD9829%2DA22F%2D8A6C%2D25C6C5AE6027FEB9&hr=&sn=%2Ffeature%2Ecfm&dn=www%2Etoptable%2Eco%2Euk&up=SEARCH%3D%26C20%3D%26FID%3D8%26TYPE%3D%26LID%3D95%26NOCACHE%3D0&pr=&nlRef=&bp=&li=95&g=' + createGuid() + '" width=1 height=1 border=0>');
+		function addToFav() {
+			var img = new Image;
+			img.src = '/tracking/record.cfm?v=1ECD981A%2DC8D1%2D5317%2D0DE9725C7DE99E7B&ur=&sn=%2Ffeature%2Ecfm&dn=www%2Etoptable%2Eco%2Euk&up=SEARCH%3D%26C20%3D%26FID%3D8%26TYPE%3D%26LID%3D95%26NOCACHE%3D0&si=1ECD9829%2DA22F%2D8A6C%2D25C6C5AE6027FEB9';
+			window.external.addFavorite('http://www.toptable.co.uk','toptable.co.uk');
+		}
+	</script><img src="/tracking/record.cfm?v=1ECD981A%2DC8D1%2D5317%2D0DE9725C7DE99E7B&amp;ur=&amp;bi=&amp;bt=&amp;cv=&amp;ri=&amp;ev=0&amp;ap=&amp;si=1ECD9829%2DA22F%2D8A6C%2D25C6C5AE6027FEB9&amp;hr=&amp;sn=%2Ffeature%2Ecfm&amp;dn=www%2Etoptable%2Eco%2Euk&amp;up=SEARCH%3D%26C20%3D%26FID%3D8%26TYPE%3D%26LID%3D95%26NOCACHE%3D0&amp;pr=&amp;nlRef=&amp;bp=&amp;li=95&amp;g=A7CDE315-D66D-23CB-6867-509BC3E441B9" width="1" height="1" border="0">
+	<noscript>/tracking/record.cfm?v=1ECD981A%2DC8D1%2D5317%2D0DE9725C7DE99E7B&ur=&bi=&bt=&cv=&ri=&ev=0&ap=js:no|&si=1ECD9829%2DA22F%2D8A6C%2D25C6C5AE6027FEB9&hr=&sn=%2Ffeature%2Ecfm&dn=www%2Etoptable%2Eco%2Euk&up=SEARCH%3D%26C20%3D%26FID%3D8%26TYPE%3D%26LID%3D95%26NOCACHE%3D0&pr=&nlRef=&bp=&li=95" width=1 height=1 border=0></noscript>
+<!-- BEGIN Aperture tag -->
+<script src="/rwtag.js"></script>
+<script language="javascript">rwTag();</script>
+<noscript><img border="0" name="rwtag" width="1" height="1" alt="rwtag" src="http://www.sptag2.com/rwtag.gif?rw.pf=toptable&rw.st=nojavascript"></noscript>
+<!-- END Aperture tag --> 
 
 
 </body></html>
