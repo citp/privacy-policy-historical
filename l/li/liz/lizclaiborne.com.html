@@ -1,34 +1,40 @@
-<!--The following is the downloaded HTML source of the lizclaiborne.com privacy policy that was archived on 2005-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050525114147id_/http%3A//www.lizclaiborne.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lizclaiborne.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212095022id_/http%3A//www.lizclaiborne.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 	
 	<title>Liz Claiborne Helpdesk</title>
 	<script language="Javascript">
-	function emailCheck(type)
+function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
+{
+    if (!validateEmail(document.emailForm.emailAddress.value))
 	{
-	var EmailOk  = true
-	var Temp     = document.emailForm.emailAddress.value
-	var AtSym    = Temp.indexOf('@')
-	var Period   = Temp.lastIndexOf('.')
-	var Space    = Temp.indexOf(' ')
-	var Length   = Temp.length - 1   // Array is from 0 to length-1
-
-	if ((AtSym < 1) ||                     // '@' cannot be in first position
-	    (Period <= AtSym+1) ||             // Must be atleast one valid char btwn '@' and '.'
-	    (Period == Length ) ||             // Must be atleast one valid char after '.'
-	    (Space  != -1))                    // No empty spaces permitted
-	   {
-	      EmailOk = false;
-	      alert('Please enter a valid e-mail address.');
-	      return false;
-	   }
-		if(type == 1)
-		{
-		document.emailForm.submit();
-		}
+        alert('Please enter a valid e-mail address.');
+        return false;
+    }
+	if(type == 1)
+	{
+        document.emailForm.submit();
 	}
+}
+
+function validEmail(email)
+{
+    var vAtSym    = email.indexOf('@')
+    var vPeriod   = email.lastIndexOf('.')
+    var vSpace    = email.indexOf(' ')
+    var vLength   = email.length - 1   // Array is from 0 to length-1
+
+    if (vAtSym < 1 ||                     // '@' cannot be in first position
+    	vPeriod <= vAtSym + 1 ||          // Must be atleast one valid char btwn '@' and '.'
+    	vPeriod == vLength  ||            // Must be atleast one valid char after '.'
+    	vSpace  != -1)                    // No empty spaces permitted
+	{
+        return false;
+    }
+	return true;
+}
 
 
 
@@ -68,34 +74,32 @@ function jump(url)
 <body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
 <a name="pageTop()"><!-- --></a>
 
-<table width="755" cellpadding="0" cellspacing="0" border="0" align="center" <tr="">
-	<tbody><tr><td height="85" width="197"><a href="/home/index.jsp"><img src="http://LIZC.imageg.net/images/LIZC_liz_logo.gif" width="197" height="85" border="0"></a></td>
-	<td width="558" align="right" valign="top" class="topnav"><br><a href="https://www.lizclaiborne.com/coreg/index.jsp?step=register" class="topnav">Sign In</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.lizclaiborne.com/coreg/index.jsp?step=ot" class="topnav">Track Order</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/helpdesk/index.jsp" class="topnav">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/cart/index.jsp" class="topnav">View My Cart</a> &nbsp;(0 items)<img src="http://LIZC.imageg.net/images/cart.gif" width="16" height="10"><br><br><form action="/searchHandler/index.jsp" name="search">
-	<input type="text" size="18" name="keywords" align="middle" style="font-size:10px;font-family:verdana;" value="" onfocus="this.value=''"><input type="image" src="http://LIZC.imageg.net/images/btn_search.gif" border="0" align="absmiddle">
-</form></td>
-</tr>
-</tbody></table>
-<table width="755" cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr>
-	<td height="18" align="center" valign="center" width="88" class="topnavlink" bgcolor="#AFB0B2"><a href="/shop/index.jsp?categoryId=1759667" class="topnavlink">MISSES</a></td>
-	<td width="1" bgbcolor="#FFFFFF"><img src="http://LIZC.imageg.net/images/pixel.gif" width="1" height="1"></td>
-	<td height="18" align="center" valign="center" width="95" class="topnavlink" bgcolor="#AFB0B2"><a href="/shop/index.jsp?categoryId=1888998" class="topnavlink">PETITES</a></td>
-	<td width="1" bgbcolor="#FFFFFF"><img src="http://LIZC.imageg.net/images/pixel.gif" width="1" height="1"></td>		 
-	<td height="18" align="center" valign="center" width="96" class="topnavlink" bgcolor="#AFB0B2"><a href="/shop/index.jsp?categoryId=1889687" class="topnavlink">PLUS SIZES</a></td>
-	<td width="1" bgbcolor="#FFFFFF"><img src="http://LIZC.imageg.net/images/pixel.gif" width="1" height="1"></td>
-	<td height="18" align="center" valign="center" width="77" class="topnavlink" bgcolor="#AFB0B2"><a href="/shop/index.jsp?categoryId=1452397" class="topnavlink">GOLF</a></td>
-	<td width="1" bgbcolor="#FFFFFF"><img src="http://LIZC.imageg.net/images/pixel.gif" width="1" height="1"></td>
-	<td height="18" align="center" valign="center" width="73" class="topnavlink" bgcolor="#AFB0B2"><a href="/shop/index.jsp?categoryId=1452393" class="topnavlink">MEN</a></td>
-	<td width="1" bgbcolor="#FFFFFF"><img src="http://LIZC.imageg.net/images/pixel.gif" width="1" height="1"></td>
-	<td height="18" align="center" valign="center" width="122" class="topnavlink" bgcolor="#AFB0B2"><a href="/shop/index.jsp?categoryId=1744843" class="topnavlink">ACCESSORIES</a></td>
-	<td width="1" bgbcolor="#FFFFFF"><img src="http://LIZC.imageg.net/images/pixel.gif" width="1" height="1"></td>
-	<td height="18" align="center" valign="center" width="124" class="topnavlink" bgcolor="#AFB0B2"><a href="/shop/index.jsp?categoryId=1759669" class="topnavlink">FOR THE HOME</a></td>
-	<td width="1" bgbcolor="#FFFFFF"><img src="http://LIZC.imageg.net/images/pixel.gif" width="1" height="1"></td>
-	<td height="18" align="center" valign="center" width="73" class="topnavlink" bgcolor="#AFB0B2"><a href="/shop/index.jsp?categoryId=1452399" class="topnavlink">SALE</a></td>
-</tr>
-</tbody></table>
-<div style="display:none;">
 
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="756" align="center">
+<tbody><tr>
+	<td width="145" height="40" valign="bottom" rowspan="2" colspan="2">
+		<table cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr>
+				<td bgcolor="#CCCCCC"><img src="http://LIZC.imageg.net/images/pixel.gif" height="1" width="1"></td>
+				<td>
+					<img src="http://LIZC.imageg.net/images/pixel.gif" height="10" width="1"><br>
+					<a href="/home/index.jsp"><img src="http://LIZC.imageg.net/images/logo.gif" alt="" border="0"></a>
+				</td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td nowrap="" height="40" align="right" valgin="top">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td height="19" colspan="3"><img src="http://LIZC.imageg.net/images/pixel.gif" height="19" width="1"></td>
+			</tr>
+			<tr>
+				<td width="100" align="left" valign="middle">
+					<div style="display:none;">
 	<!-- Start of SearchMarketing.com Natural Pixel Tag: Please do not remove-->
 	<script language="JavaScript"><!--
 	{
@@ -105,13 +109,25 @@ function jump(url)
 	</script><img src="http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=153&amp;x=" width="1" height="1">
 	<!-- End SearchMarketing.com Natural Pixel Tag -->
 
-
 </div>
-
-
-
-<table width="755" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#ffffff">
+					<span class="topnavlink">866.549.7467</span>
+				</td>
+				<td align="right" valign="middle">
+					<a href="https://www.lizclaiborne.com/coreg/index.jsp?step=register" class="topnavlink">Sign In</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.lizclaiborne.com/coreg/index.jsp?step=ot" class="topnavlink">Track Order</a><!--&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/corp/index.jsp?page=storeLocator" class="topnavlink">Store Locator</a>-->&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/helpdesk/index.jsp" class="topnavlink">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/cart/index.jsp" class="topnavlink">Shopping Bag&nbsp;(0 items)</a>
+				</td>
+				<td valign="center"><a href="/cart/index.jsp" class="topnavlink"><img src="http://LIZC.imageg.net/images/hd_cart.gif" border="0"></a><img src="http://LIZC.imageg.net/images/pixel.gif" height="1" width="12"></td>
+			</tr>
+		</tbody></table>
+	</td>
+	<td width="1" bgcolor="#CCCCCC"><img src="http://LIZC.imageg.net/images/pixel.gif" height="1" width="1"></td>
+</tr>
+<tr>
+	<td height="1" bgcolor="#CCCCCC" colspan="3"><img src="http://LIZC.imageg.net/images/pixel.gif" height="1" width="1" border="0" alt=""></td>
+</tr>
+</tbody></table>
+<table width="756" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#ffffff">
 <tbody><tr>
+	<td width="1" bgcolor="#CCCCCC" rowspan="5"><img src="http://LIZC.imageg.net/images/pixel.gif" height="1" width="1"></td>
 	<td bgcolor="#ffffff" height="25" class="breadcrumb" colspan="2"><table cellpadding="6" border="0" width="100%">
     <tbody><tr><td>
         <a href="/home/index.jsp" class="breadcrumb">
@@ -128,66 +144,141 @@ function jump(url)
 
 
 </td>
-	<td width="13" rowspan="2"><img src="http://LIZC.imageg.net/images/pixel.gif" width="13"></td>	
+	<td width="1" bgcolor="#CCCCCC" rowspan="5"><img src="http://LIZC.imageg.net/images/pixel.gif" height="1" width="1"></td>
 </tr>
-<tr>
+<!--tr>
 	<td width="767" valign="top" bgcolor="white" align="center">
-<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr><td valign="top" width="5%">
+	<table width="100%" cellpadding="4" cellspacing="0" border="0">
+		<tr-->
+			<tr><td> 
+			
+			
+			
+			
+	<!-- *********************************** STOREMAN HELPDESK STARTS************************************** -->
+		 
+
+				
+							
+
+<table width="100%" border="0">
+	<tbody><tr>
+		<td width="200" valign="top">
+<!-- navigation -->
+
+			<table width="200" border="0" cellpadding="0" cellspacing="0">
+
+				<tbody><tr>
+					<td bgcolor="" height="20" valign="middle" colspan="2" align="center">
+					<font class="subnavHeader">Safety, Security, and Privacy</font></td>
+				</tr>
+				<tr>
+					<td><img src="../images/pixel.gif" width="5"></td>
+				</tr>
+				
+				<tr>
+					
+					
+						
+									<td><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="hd_pagelink">Secure Shopping Guarantee</a></td>
+							 
+					
+				</tr>
+				<tr>
+					<td><img src="../images/pixel.gif" width="5"></td>
+				</tr>
+				
+				<tr>
+					
+					
+						
+									<td><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hd_pagelink">Privacy Policy</a></td>
+							 
+					
+				</tr>
+				<tr>
+					<td><img src="../images/pixel.gif" width="5"></td>
+				</tr>
+				
+				<tr>
+					
+					
+						
+									<td><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="hd_pagelink">Terms &amp; Conditions</a></td>
+							 
+					
+				</tr>
+				<tr>
+					<td><img src="../images/pixel.gif" width="5"></td>
+				</tr>
+				
+				<tr>
+					
+					
+						
+									<td><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard&amp;topic=vbv" class="hd_pagelink">Verified by Visa</a></td>
+									
+					
+				</tr>
+				<tr>
+					<td><img src="../images/pixel.gif" width="5"></td>
+				</tr>
+				
+				<tr>
+					
+					
+						
+									<td><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard&amp;topic=securecode" class="hd_pagelink">MasterCard SecureCode</a></td>
+								
+					
+				</tr>
+				<tr>
+					<td><img src="../images/pixel.gif" width="5"></td>
+				</tr>
+				
+			
+				
+			</tbody></table>
+		</td>
+		<td>
+			<img src="/images/pixel.gif" width="10" height="1">
+		</td>
+		<td valign="top">
+			<table border="0">
+				<tbody><tr>
+					<td><a href="/helpdesk/index.jsp"><img src="../images/hd/help_desk.gif" border="0"></a></td>	
+				</tr>
+				<tr>
+				<td>
+						<img src="/images/pixel.gif" height="3">
+				</td>
+				</tr>
+				<tr>
+					<td valign="top">
+						<!-- panel -->
+					
+						<!--here is panelId::2034183-->
+<!--here is pd::null-->
+<!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 2034183 with pd:null-->
+<!--STOREMAN PANEL: helpdesk/LIZC_safetySecurityAndPrivacy_10-3.17406.jsp-->
+
+								<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
+
+<smpanel xmlns:sm="http://engineering.gspt.net/storeman/sm-DTDinfo.html">
+<table width="98%" border="0" cellpadding="0" cellspacing="0">
+   <tbody><tr>
+       
+              <td valign="top">
+<p class="header">Privacy Policy</p>
 
 
-
-
-	
-<table border="0" cellpadding="0" cellspacing="0" width="220">
-
-<tbody><tr class="hdSubNav">
-	<td valign="middle" width="1%"><img src="../images/pixel.gif" width="16" height="20"></td>
-	<td valign="middle" width="99%" class="hdSubNav">Safety, Security, and Privacy</td>
-</tr>
-<tr>
-	<td>&nbsp;</td>
-
-	<td>
-	<span class="subheadNumber">»</span><a href="index.jsp;jsessionid=CUk7KPR0TCXwUDe3jB0tOcElDDAXc6CQAHZQJcJW5gs65QXA7u0h!-1742791392?display=safety&amp;subdisplay=secure" class="hd_pagelink">Secure Shopping Guarantee</a><br>
-	<span class="subheadNumber">»</span><a href="index.jsp;jsessionid=CUk7KPR0TCXwUDe3jB0tOcElDDAXc6CQAHZQJcJW5gs65QXA7u0h!-1742791392?display=safety&amp;subdisplay=terms" class="hd_pagelink">Terms &amp; Conditions</a><br>
-	<span class="subheadNumber">»</span><a href="index.jsp;jsessionid=CUk7KPR0TCXwUDe3jB0tOcElDDAXc6CQAHZQJcJW5gs65QXA7u0h!-1742791392?display=safety&amp;subdisplay=privacy" class="hd_pagelink">Privacy Policy</a><br>
-					 <span class="subheadNumber">»</span><a href="index.jsp;jsessionid=CUk7KPR0TCXwUDe3jB0tOcElDDAXc6CQAHZQJcJW5gs65QXA7u0h!-1742791392?display=safety&amp;subdisplay=3dSecure&amp;topic=vbv" class="hd_pagelink">Verified by Visa </a><br><span class="subheadNumber">»</span><a href="index.jsp;jsessionid=CUk7KPR0TCXwUDe3jB0tOcElDDAXc6CQAHZQJcJW5gs65QXA7u0h!-1742791392?display=safety&amp;subdisplay=3dSecure&amp;topic=securecode" class="hd_pagelink">MasterCard SecureCode</a><br></td>
-</tr>
-</tbody></table></td><td width="1%"><img src="../images/pixel.gif" width="10" height="10"></td>
-	<td valign="top" width="84%"><a href="/helpdesk/index.jsp"><img src="../images/hd/help_desk.gif" border="0"></a>
-		
-	
-
-
-
-
-	
-<br><br>
-<!--You are running on prod3_webstore_prod3app4_1-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-<font class="header"><b>Privacy Policy</b></font>
 <br><br>Effective Date March 9, 2004
 <br><br>
 GSI-Chelsea Solutions, Inc. ("GSI") operates this Web site, www.lizclaiborne.com, pursuant to agreements with LCI Holdings, Inc. ("Liz"). Both GSI and Liz ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site.
 <br><br>
 Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our Customer Service Department in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
 <br><br>
-If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at <a href="mailto:customersupport@lizclaiborne.com" class="pagelink">customersupport@lizclaiborne.com</a>.
+If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at <a href="mailto:customersupport@lizclaiborne.com?subject=Privacy Policy Inquiry" class="pagelink">customersupport@lizclaiborne.com</a>.
 <br><br>
 <b>What Information About Me Is Collected and Stored?</b>
 <br><br>
@@ -217,7 +308,7 @@ As with any business, it is possible that as our business develops, we might sel
 <br><br>
 <b>What Steps Are Taken To Keep Personal Information Secure?</b>
 <br><br>
-We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at <a href="mailto:customersupport@lizclaiborne.com" class="pagelink">customersupport@lizclaiborne.com</a> or by phone at 1-866-549-7467.
+We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at <a href="mailto:customersupport@lizclaiborne.com?subject=Privacy Policy Inquiry" class="pagelink">customersupport@lizclaiborne.com</a> or by phone at 1-866-549-7467.
 <br><br>
 <b>How Can I Access, Correct and Update Personal Information?</b>
 <br><br>
@@ -225,7 +316,7 @@ You can access, correct and update certain personal information that you have pr
 <br><br>
 <b>Can I Indicate Whether or Not I Want To Receive Promotional Communications?</b>
 <br><br>
-There are several ways in which you can tell us whether or not you want to receive promotional communications from us.  When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard.  You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you.  Additionally you may email us at <a href="mailto:customersupport@lizclaiborne.com" class="pagelink">customersupport@lizclaiborne.com</a> or call us at 1-866-549-7467 or write to us at Liz Claiborne, Inc., Consumer Relations, One Claiborne Ave, North Bergen, NJ  07047.  Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective.  Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.
+There are several ways in which you can tell us whether or not you want to receive promotional communications from us.  When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard.  You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you.  Additionally you may email us at <a href="mailto:customersupport@lizclaiborne.com?subject=Privacy Policy Inquiry" class="pagelink">customersupport@lizclaiborne.com</a> or call us at 866.549.7467 or write to us at Liz Claiborne., Consumer Relations, One Claiborne Ave, North Bergen, NJ  07047.  Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective.  Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.
 <br><br>
 <b>What Happens When I Link To or From Another Web Site?</b>
 <br><br>
@@ -246,110 +337,144 @@ We may from time to time conduct on-line surveys.  When you complete an online s
 If we make any material changes to this Privacy Policy, we will post a notice on this Web site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web site periodically to see if any recent changes to this Privacy Policy have occurred.
 
 
+<br><br>
+        </td>
+    </tr>
+</tbody></table>
+</smpanel><!--END STOREMAN PANEL helpdesk/LIZC_safetySecurityAndPrivacy_10-3.17406.jsp-->
+<!--END STOREMAN GENERATION-->
 
-</td>
+							
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+				
+
+
+
+<!-- *********************************** STOREMAN HELPDESK ENDS************************************** --> 
+					
+			</td>
+		</tr>
+		</tbody></table>
+	
+
+	
+
+
+<table width="756" cellpadding="0" cellspacing="0" border="0" align="center">
+<tbody><tr>
+	<td width="1" bgcolor="#CCCCCC"><img src="http://LIZC.imageg.net/images/pixel.gif" height="1" width="1"></td>
+	<td>
+	
+	<br><br><table cellpadding="0" cellspacing="0" border="0" width="756" align="center">
+<tbody><tr>
+	
+	<td height="56" width="143" valign="top"><table width="143" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td height="56" style="background-color:#F5F5F5;"><img src="http://LIZC.imageg.net/images/pixel.gif" height="27" width="146"></td></tr><tr><td style="background-color:#FFFFFF;">&nbsp;</td></tr></tbody></table></td>
+	<td rowspan="2" width="610"><img name="s_i_gsiclizc" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/gsiclizc/1/G.9-Pd-R/s54759295611892?[AQB]&amp;ndh=1&amp;t=30/0/2020%2023%3A34%3A2%204%200&amp;pageName=Help%20Desk%20-%20Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20051212095022id_/http%253A//www.lizclaiborne.com/helpdesk/index.jsp%253Fdisplay%253Dsafety%2526subdisplay%253Dprivacy&amp;ch=Home&amp;server=www.lizclaiborne.com&amp;cc=USD&amp;v19=22095771232&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+	<td colspan="3"><img src="http://LIZC.imageg.net/images/pixel.gif" height="1"></td>
+</tr>
+
+<script language="JavaScript">
+
+/* Non-commerce Variables */
+
+var s_server = 'www.lizclaiborne.com';
+var s_pageName = 'Help Desk - Privacy Policy';
+var s_eVar20 = '';
+var s_hier1 = '';
+var s_events = '';
+var s_channel = 'Home';
+var s_eVar19 = '22095771232';
+</script>
+
+	<!--//********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************///-->
+	<script language="JavaScript">
+	/* Specify the Report Suite ID(s) to track here */
+	var s_account="gsiclizc";
+	</script><script language="JavaScript" src="/include/omniture.js"></script>
+	<!-- End SiteCatalyst code version: G.9. -->
+
+
+
+
+<tr>
+	<td colspan="3" height="56" bgcolor="#F5F5F5"><table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td width="65"><img src="http://LIZC.imageg.net/images/pixel.gif" height="1" width="65"></td>
+		<td width="272"><form action="/searchHandler/index.jsp" name="search" style="margin:0px;display:inline;"><img src="http://LIZC.imageg.net/images/btn_search.gif" border="0" align="absmiddle"><input type="text" size="18" name="keywords" align="middle" style="font-size:10px;font-family:verdana;border:1px solid #333333;" value="" onfocus="this.value=''"><input type="image" src="http://LIZC.imageg.net/images/btn_search2.gif" border="0" align="absmiddle"></form></td>
+		<td><!--start email capture-->
+		<form name="emailForm" action="/emailHandler/index.jsp" onsubmit="return emailCheck(0);" method="post" style="margin:0px;display:inline;">
+	
+<input type="hidden" name="contest" value="lizc_nocontest">
+<input type="hidden" name="targetPage" value="/emailThanks/index.jsp"><img src="http://LIZC.imageg.net/images/receive.gif" border="0" align="absmiddle"><input type="text" name="emailAddress" size="18" id="formitems" class="pagetext" style="font-size:9px;border:1px solid #333333;" value="enter email address" onfocus="this.value=''"><input type="image" src="http://LIZC.imageg.net/images/btn_search2.gif" align="absmiddle" border="0" onclick="return emailCheck(1);"><input type="hidden" name="emailPref" value="Y">
+</form><!--end email capture--></td>
+	</tr>
+	</tbody></table></td>
+</tr>
+<tr>
+	<td colspan="2" height="12"><img src="http://LIZC.imageg.net/images/pixel.gif" height="12" width="1"></td>
+</tr>
+<tr>
+	<td colspan="2"><table cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+						<td width="15"><img src="http://LIZC.imageg.net/images/pixel.gif" height="1" width="15"></td>
+						<td width="139" valign="top">
+							<span class="footerlinkbold">HELP</span><br>
+							<a href="../helpdesk/index.jsp?display=store&amp;subdisplay=contact" class="footerlink">Contact Us</a><br>
+							<a href="/helpdesk/index.jsp?display=ship&amp;subdisplay=shipMethods" class="footerlink">Shipping</a><br>
+							<a href="../checkout/index.jsp?process=orderTrackingLogin" class="footerlink">Track Order</a><br>
+							<a href="../helpdesk/index.jsp?display=returns&amp;subdisplay=returns" class="footerlink">Returns</a><br>
+							<a href="../helpdesk/index.jsp" class="footerlink">More Info...</a><br>
+						</td>
+						<td width="140" valign="top">
+							<span class="footerlinkbold">YOUR ACCOUNT</span><br>
+							<a href="../helpdesk/index.jsp?display=account&amp;subdisplay=open" class="footerlink">Opening an Account</a><br>
+							<a href="../helpdesk/index.jsp?display=account&amp;subdisplay=manage" class="footerlink">Manage Your Account</a><br><br>
+							<span class="footerlinkbold">GIFT CENTER</span><br>
+							<a href="../helpdesk/index.jsp?display=gift&amp;subdisplay=ogc" class="footerlink">Online Gift Certificates</a><br>
+							<a href="../helpdesk/index.jsp?display=gift&amp;subdisplay=gw" class="footerlink">Gift Wrap</a><br>
+						</td>
+						<td width="141" valign="top">
+							<span class="footerlinkbold">SHOPPING GUIDE</span><br>
+							<a href="http://www.dealerlocate.com/bin/wkx?HTMLForms+LIZ.DLR.GEN" class="footerlink">Store Locator</a><br>
+							<a href="javascript:showCustomPopUp('/info/infoPop.jsp?categoryId=2036379&amp;infoType=infosport','sizechart','width=548,height=345,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=yes');" class="footerlink">Size Chart</a><br>
+							<a href="javascript:showCustomPopUp('/info/infoPop.jsp?categoryId=2034898&amp;infoType=infosport','fabric','width=548,height=345,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=yes');" class="footerlink">Fabric Glossary</a><br>
+						</td>
+						<td width="141" valign="top">
+							<span class="footerlinkbold">CORPORATE INFO</span><br>
+							<a href="http://www.lizclaiborneinc.com/default.asp" class="footerlink" target="_blank">About Liz Claiborne Inc</a><br>
+							<a href="http://www.lizclaiborneinc.com/careers/default.asp" class="footerlink" target="_blank">Careers</a><br>
+							<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="footerlink">Terms &amp; Conditions</a><br>
+							<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="footerlink">Privacy Policy</a><br><br>
+						<a href="/home/jump.jsp" class="footerlinkbold2">Shop Elisabeth.com</a></td>
+					</tr>
+					</tbody></table>
+					</td>
 </tr>
 </tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td align="center"><img src="http://LIZC.imageg.net/images/pixel.gif" height="52" width="1"><br>
+<span class="copyright">©&nbsp;2005&nbsp;Liz Claiborne</span></td>
+	</tr>
+</tbody></table>
+
 <br><br></td>
 </tr>
+<tr>
+	<td><img src="http://LIZC.imageg.net/images/pixel.gif" height="1" width="1"></td>
+</tr>
 </tbody></table>
-
-<table cellpadding="0" cellspacing="0" border="0" width="755" align="center">
-     <tbody><tr>
-         <td height="14" valign="top" align="center" class="footerlink"><a href="../helpdesk/index.jsp?display=store&amp;subdisplay=contact&amp;botnav_contact_txt" class="footerlink">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-		 
-		  <a href="/giftCertificates/index.jsp" class="footerlink">Gift Certificates</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/helpdesk/index.jsp" class="footerlink">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../infodept/index.jsp?categoryId=1751899&amp;botnav_sizing_txt" class="footerlink">Sizing &amp; Fit</a><!--&nbsp;&nbsp;|&nbsp;&nbsp;
-  		 
-		  <a href="http://www.lizbuzz.com/glossary/default.asp" class="footerlink" target="new">Fabric Glossary</a>-->
-		  &nbsp;&nbsp;|&nbsp;&nbsp;<a href="/affiliate/index.jsp" class="footerlink">Affiliate Program</a>
-  		 		  
-		  &nbsp;&nbsp;|&nbsp;&nbsp;
-		  <a href="http://www.dealerlocate.com/bin/wkx?HTMLForms+LIZ.DLR.GEN" class="footerlink" target="new">Store Locator</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dealerlocate.com/bin/wkx?HTMLForms+LIZ.OTL.GEN" class="footerlink" target="new">Outlet Locator</a>
-		  
-		  </td>
-			
-     </tr>
-	 <tr>
-         <td height="1" bgcolor="#D6D6DA"><img src="http://LIZC.imageg.net/images/pixel.gif" width="1" height="1"></td>
-     </tr>
-	 <tr>
-         <td height="13" valign="bottom"><table cellpadding="0" cellspacing="0" border="0" width="100%">
-						     <tbody><tr>
-						         <td width="260" class="bottomnav" valign="bottom"><b>Customer Service: 1-866-549-7467</b></td>
-								 <td class="bottomnav" align="right">
-								 	
-								 <a href="http://www.lizclaiborneinc.com/default.asp" class="bottomnav" target="new">About the Company</a>&nbsp;|&nbsp;<a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=LIZ&amp;script=2100" class="bottomnav" target="new">Investor Relations</a>&nbsp;|&nbsp;<a href="http://www.lizclaiborneinc.com/careers/default.asp" class="bottomnav" target="new">Careers</a>&nbsp;|&nbsp;
-								 
-								 <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="bottomnav">Privacy</a>&nbsp;|&nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="bottomnav">Terms of Use</a></td>
-						     </tr>
-						</tbody></table></td>
-     </tr>
+	</td>
+	<td width="1" bgcolor="#CCCCCC"><img src="http://LIZC.imageg.net/images/pixel.gif" height="1" width="1"></td>
+</tr>
 </tbody></table>
-<br>
-<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-elisabeth.hitbox.com";
-var _lp=(location.protocol.toLowerCase()=="https:"?"https://":"http://"); 
-
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM540106MNMD93EN3";//ACCOUNT NUMBER(S)
-hbx.pn="helpdesk";//PAGE NAME(S)
-hbx.mlc="/Help";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-
-//SEGMENTS AND FUNNELS
-hbx.seg="1,-2,-3";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" defer="" src="/include/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
-
 
 
 
