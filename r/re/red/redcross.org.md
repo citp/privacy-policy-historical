@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2005-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050505221821id_/http%3A//www.redcross.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212144136id_/http%3A//www.redcross.org/privacy) for the most accurate reproduction.*
 
 # American Red Cross
 
@@ -22,7 +22,7 @@ We are available to answer your questions or hear your concerns.
 The American Red Cross uses its best efforts to respect and protect the privacy of our online visitors and donors. We will not share your e-mail address with third parties.  
 
 
-The American Red Cross may share _financial donor_ postal mailing lists with other non-profits for a one-time use by the other non-profit. If you are a financial donor to the American Red Cross, you may request that we withhold your mailing information from any list exchanges with other non-profits. Please e-mail us at [findev@usa.redcross.org](mailto:findev@usa.redcross.org). In the subject field, type "Mailing List Opt Out" and provide us your name, e-mail or postal address depending on how you made your contribution to our organization. American Red Cross lists are never sold to third parties.  
+The American Red Cross may share _financial donor_ postal mailing lists with other non-profits for a one-time use by the other non-profit. If you are a financial donor to the American Red Cross, you may request that we withhold your mailing information from any list exchanges with other non-profits. Please e-mail us at [findev@usa.redcross.org](mailto:findev@usa.redcross.org). In the subject field, type "Do Not Exchange" and provide us your name, e-mail or postal address depending on how you made your contribution to our organization. American Red Cross lists are never sold to third parties.  
 
 
 **Is Credit Card Information Secure?**  
