@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233302id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212131155id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.*
 
 # eVitamins - Privacy Policy
 
@@ -17,7 +17,7 @@ Shelby Twp., MI
 
 If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (
 
-[ _http://www.truste.org/watchdog.html_](http://www.truste.org/watchdog.html)). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+[ _http://www.truste.org/watchdog.html_](http://www.truste.org/consumers/watchdog_complaint.php)). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
 eVitamins respects and is committed to protecting your privacy. We use the information we collect on the site to make shopping at eVitamins possible and to enhance your overall shopping and health experience. **We do not sell, trade, rent or loan your personal information to others, unless instructed by a court of law.** If you do not want to receive any announcements or special offers from us, email us at [promotions@evitamins.com](mailto:promotions@evitamins.com?subject=Remove%20Me) and tell us to remove you.
 
@@ -40,11 +40,11 @@ We may also use the information we collect to occasionally notify you about new 
 
 **How does eVitamins services protect customer information?**
 
-To place an order on our site, your browser must except SSL. We use some of the strongest encrypting technology available to safely secure your information. We also protect customer information simply by **never** **selling,** **trading, loaning or renting your personal information to others (EVER!).** eVitamins is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities. We also run proactive server, network and facility security audits, proprietary encryption algorithms for database storage, redundant systems, and data backup. For more information on our security procedures, please [click here](https://web.archive.org/web/20050401233302id_/http%3A//www.evitamins.com/security.asp)
+To place an order on our site, your browser must except SSL. We use some of the strongest encrypting technology available to safely secure your information. We also protect customer information simply by **never** **selling,** **trading, loaning or renting your personal information to others (EVER!).** eVitamins is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities. We also run proactive server, network and facility security audits, proprietary encryption algorithms for database storage, redundant systems, and data backup. For more information on our security procedures, please [click here](https://web.archive.org/web/20051212131155id_/http%3A//www.evitamins.com/security.asp)
 
 **What about "cookies"?**
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies may contain personally identifying information. Most Web browsers automatically accept cookies. You will need to enable cookies on your web browser in order to complete the checkout process. Cookies are small pieces of information, limited to 4K that are stored as text files. Cookies are not stored as a script thus, there is no chance of a cookie causing a virus (a common myth about cookies). If you still do not wish to accept cookies, you can always complete your order by calling our toll-free number at 1-888-222-6056 between 9:00 a.m. - 5:00 p.m. Mon-Fri.
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies may contain personally identifying information. Most Web browsers automatically accept cookies. You will need to enable cookies on your web browser in order to complete the checkout process. Cookies on our site also allow us to maintain login information and session state. Cookies can help us track you across our website to show you the most relevent information to help enhance your shopping experience. Cookies are small pieces of information, limited to 4K that are stored as text files. Cookies are not stored as a script thus, there is no chance of a cookie causing a virus (a common myth about cookies). If you still do not wish to accept cookies, you can always complete your order by calling our toll-free number at 1-888-222-6056 between 9:00 a.m. - 5:00 p.m. Mon-Fri.
 
 **Will eVitamins disclose the information it collects to outside parties?**
 
@@ -59,3 +59,5 @@ If we decide to change our privacy policy, we will post those changes to this pr
 Ste. 101  
 Shelby Township, MI  
 48316
+
+ **Last Updated:** 11/21/2005
