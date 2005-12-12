@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classyauto.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303172709id_/http%3A//www.classyauto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classyauto.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212110510id_/http%3A//classyauto.com/privacy.php) for the most accurate reproduction.*
 
 # ClassyAuto.com - Muscle Cars For Sale, Classic Cars For Sale, Used Cars, Street Rods, Hot Rods, Customs, Exotic Cars, Trucks, Imports, Antique Cars, Classifieds For Sale By Owner
 
@@ -38,4 +38,4 @@ Local Phone: 402-342-1570
 
 Place your secure, on-line order today!
 
-[](https://web.archive.org/web/20050303172709id_/http%3A//www.classyauto.com/order.php)
+[](https://web.archive.org/web/20051212110510id_/http%3A//classyauto.com/order.php)
