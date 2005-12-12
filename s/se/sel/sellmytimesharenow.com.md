@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2005-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212153652id_/http%3A//www.sellmytimesharenow.com/privacy.php) for the most accurate reproduction.*
 
 # timeshare resales and rentals, buy and sell timeshare fast and easy
 
@@ -52,69 +52,7 @@ We also permit other companies that show advertisements on some of our pages to 
 ** Should you have any questions, concerns or comments, please email us at   
 [info@SellMyTimeShareNOW.com](mailto:info@sellmytimesharenow.com)
 
-**Sell My Timeshare Now is your[timeshares](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/index.php) and [timeshare resales](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/index.php) specialist. We are the quick, safe, and hassle-free way to buy, rent or sell [timeshare](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/index.php)!**
+**Sell My Timeshare Now is your[timeshares](https://web.archive.org/web/20051212153652id_/http%3A//www.sellmytimesharenow.com/index.php) and [timeshare resales](https://web.archive.org/web/20051212153652id_/http%3A//www.sellmytimesharenow.com/index.php) specialist. We are the quick, safe, and hassle-free way to buy, rent or sell [timeshare](https://web.archive.org/web/20051212153652id_/http%3A//www.sellmytimesharenow.com/index.php)!**
 
   
-|  |   
----  
-| | FEATURED ADS|   
----|---|---  
-  
-  
-
-
-[Oyster Bay Beach Resort  
-$9,000(sale)  
-](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=57845)
-
-[Grandview at Las Vegas  
-$950 NEG ***SUMMERTIME IN VEGAS***(rent)  
-](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=57814)  
-  
-  
-  
-
-
-[Breezy Point Timeshare  
-$4,999 ***SPRINGTIME ON PELICAN LAKE***(sale)  
-](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=57778)
-
-[Grandview at Las Vegas  
-$11,495 **THREE WEEKS WITH PURCHASE**(sale)  
-](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=57459)  
-  
-  
-  
-
-
-[Silverleaf's Ozark Mountain Resort  
-$10,000 (NEG)(sale)  
-](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=57029)
-
-[Fairmont Vacation Villas at Hillside  
-$6,800 ***GOLFERS PARADISE VALLEY***(sale)  
-](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=56995)  
-  
-  
-  
-
-
-[Grand Mayan Riviera Maya  
-Grand Master Suite: $1,995/wk, Grand Suite: $1,395/wk, Grand Master Room: $795/wk(rent)  
-](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=56699)
-
-[Grand Mayan Puerto Penasco  
-Grand Master Suite: $1,995/wk, Grand Suite: $1,395/wk, Grand Master Room: $795/wk(rent)  
-](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=56693)  
-  
-  
-  
-
-
-[Grand Mayan Nuevo Vallarta  
-Grand Master Suite: $1,995/wk, Grand Suite: $1,395/wk, Grand Master Room: $795/wk(rent)  
-](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=56692)
-
-[Oak 'n Spruce Resort  
-$4,500(sale)  
-](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=56676)
+| 
