@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the checksinthemail.com privacy policy that was archived on 2004-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040705055603id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksinthemail.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212094509id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
 
-# Checks In The Mail, Personal Bank Checks, Bill Payment Supplies
+# Checks In The Mail - Personal Checks, Business Checks, Address Labels, Photo Checks.
 
 ** Online Privacy Statement for  
 ****Checks In The Mail, Inc. **   
@@ -20,12 +20,12 @@ Our online surveys ask visitors for contact information (like their email addres
 
 Our online store uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers (like their social security number), and financial information (like their bank account or credit card information). This confidential financial information is collected solely for fulfilling orders and to properly bill the user for products and services. Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. 
 
-The CITM online store contains links to other sites. **Checks In The Mail, Inc.** is not responsible for the privacy practices or the content of other Web sites.
+The CITM™ online store contains links to other sites. **Checks In The Mail, Inc.** is not responsible for the privacy practices or the content of other Web sites.
 
 
 
 
-## Checks In The Mail Privacy Policy 
+## Our Privacy Policy 
 
 Providing you, our customer, with the best possible service is our primary objective. In order to assure this, we believe you need to understand our Information Policies and provide you with the rights to request us not to share certain information about you. These policies regarding your privacy are in regards to all financial products and services we offer to customers.
 
@@ -44,7 +44,7 @@ Providing you, our customer, with the best possible service is our primary objec
 
 * * *
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. The following measures are in place to protect customers from unauthorized use of their information. The online store uses SSL Encryption to scramble sensitive information (like bank account and credit card data) that is being sent back and forth from the CITM web server to the customer's web browser. Checks In The Mail is a secured facility and all phone calls, faxes, mail and e-mail are handled by authorized personnel. In addition, all computer systems are physically secured. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. The following measures are in place to protect customers from unauthorized use of their information. The online store uses SSL Encryption to scramble sensitive information (like bank account and credit card data) that is being sent back and forth from the CITM™ web server to the customer's web browser. Checks In The Mail is a secured facility and all phone calls, faxes, mail and e-mail are handled by authorized personnel. In addition, all computer systems are physically secured. 
 
   
 **The Checks In The Mail** online store protects your transactions with the highest levels of security. 
@@ -59,14 +59,14 @@ The VeriSign Secure Site service, is one of the most recognized symbols of trust
 
 If you have received the "Certificate Authority is Expired" message, visit Verisign.com to read their frequently asked questions and more about how to respond to the alert. You may need to upgrade your web browser. 
 
-**Verify CITM's Certificate!**   
+**Verify Our Certificate!**   
 Click the image below to view the certificate information provided at Verisign's website.   
 
 
 
 
 
-> **Test CITM's Secure Connection!**  
+> **Test Our Secure Connection!**  
 >  You can be sure that transactions are secured by looking for the following cues: - The URL in the browser window displays "https" at the beginning, instead of http.
 
   * In **Netscape Communicator** : The padlock in the lower left corner of the Navigator window will be closed instead of open. Netscape users can also follow these steps to see what level of encryption is protecting their transactions with your site: - Go to the Web site you want to check. - Click the Security button in the Navigator's toolbar. The Security Info dialog box indicates whether the Web site uses encryption. - If it does, click the Open Page Info button to display more information about the site's security features, including the type of encryption used.
@@ -76,12 +76,7 @@ Click the image below to view the certificate information provided at Verisign's
 
 * * *
 
-> Should customers need to modify personal or financial information you may do so by contacting us: 
-
-    1. E-mail [info@citm.com](mailto:info2@citm.com)
-    2. Call the following telephone number: (877) 200-3772
-
-
+> Should customers need to modify personal or financial information you may do so by contacting us: E-mail [info@citm.com](mailto:info2@citm.com)
 
 * * *
 
