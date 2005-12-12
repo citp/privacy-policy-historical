@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaydemon.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403155748id_/http%3A//www.gaydemon.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydemon.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141758id_/http%3A//gaydemon.com/privacy.htm) for the most accurate reproduction.*
 
 # gaydemon - privacy policy
 
