@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the democracyforamerica.com privacy policy that was archived on 2005-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050122231406id_/http%3A//www.democracyforamerica.com/features/2004/03/10/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democracyforamerica.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212140157id_/http%3A//www.democracyforamerica.com/features/2004/03/10/privacy_policy.php) for the most accurate reproduction.*
 
 # Democracy For America
 
 ## Privacy Policy
 
-  
 At Democracy for America, we are committed to protecting your online privacy and the security of the information that you might provide to us. 
 
 Our privacy policy explains the information practices we use at democracyforamerica.com related to: 
@@ -22,11 +21,11 @@ Our privacy policy explains the information practices we use at democracyforamer
 
 **How we use the information you provide Democracy for America:**
 
-We will potentially use this information to send you news and information about Democracy for America. When you volunteer online we may ask you to give us contact information (such as your name and e-mail address) and geographic information (such as your zip code and state). We may ask you to tell us how you would like to help the campaign. We may use this information to send you material about the campaign and to help match your interests to campaign activities. If you provide your phone number, we may call you. You may update your information by emailing us at info@democracyforamerica.com. Democracy for America may share information with its successor organizations, if any. 
+We will potentially use this information to send you news and information about Democracy for America. When you volunteer online we may ask you to give us contact information (such as your name and e-mail address) and geographic information (such as your zip code and state). We may ask you to tell us how you would like to help the campaign. We may use this information to send you material about the campaign and to help match your interests to campaign activities. If you provide your phone number, we may call you. You may update your information by emailing us at [info@democracyforamerica.com](mailto:info@democracyforamerica.com). Democracy for America may share information with its successor organizations, if any. 
 
 **Information on Children:**
 
-The Democracy for America website does not ask children 13 or under for any information that can be used to identify the child. We do not knowingly collect personally identifiable information from children 13 or under. Persons under the age of 18 and under are not permitted to contribute via the website. ****
+The Democracy for America website does not ask children 13 or under for any information that can be used to identify the child. We do not knowingly collect personally identifiable information from children 13 or under. Persons under the age of 18 are not permitted to contribute via the website. ****
 
 **Linking to other sites:**
 
@@ -47,13 +46,13 @@ Democracy for America does use postal mailing lists it acquires from other organ
 
 **When you subscribe for updates:**
 
-We will use your email address to send you updates. You may remove your name from our mailing lists at anytime by e-mailing us at unsubscribe@democracyforamerica.com. ****
+We will use your email address to send you updates. You may remove your name from our mailing lists at anytime by e-mailing us at [info@democracyforamerica.com](mailto:info@democracyforamerica.com). ****
 
 **When you sign up for our mailing lists:**
 
 We collect your e-mail address, state, and zip code. 
 
-We use your e-mail address to send you Democracy for America updates. We may use your zip code and state to send you e-mail messages about upcoming campaign events in your area. You may remove your e-mail address from our lists by emailing us at unsubscribe@democracyforamerica.com. We do not share our mailing lists with non-political third parties; however, we may share your information with other like-minded Democratic candidates and organizations. 
+We use your e-mail address to send you Democracy for America updates. We may use your zip code and state to send you e-mail messages about upcoming campaign events in your area. You may remove your e-mail address from our lists by emailing us at [info@democracyforamerica.com](mailto:info@democracyforamerica.com). We do not share our mailing lists with non-political third parties; however, we may share your information with other like-minded Democratic candidates and organizations. 
 
   We log IP addresses, or the location of your computer network on the Internet, for systems administrations and troubleshooting purposes. We also may use IP addresses in the aggregate to track which pages people visit in order to improve the quality of the site. We do not use these data to develop profiles of individual visitors to our web site. ****
 
@@ -66,17 +65,17 @@ At Democracy for America, we are putting forth every effort to ensure the securi
 
   **Choice/Unsubscribe:**
 
-We provide you the opportunity to opt-out of receiving communications from us easily and promptly. E-mail us at unsubscribe@democracyforamerica.com. Our unsubscribe requests are processed weekly. To comply with Federal election law, our contribution records will be continuously maintained in a separate secure database. ****
+We provide you the opportunity to opt-out of receiving communications from us easily and promptly. E-mail us at [info@democracyforamerica.com](mailto:info@democracyforamerica.com). Our unsubscribe requests are processed weekly. To comply with Federal election law, our contribution records will be continuously maintained in a separate secure database. ****
 
 **Correcting Your Information:**
 
-If you need to correct the information you have provided to us, please send us an email to info@democracyforamerica.com. 
+If you need to correct the information you have provided to us, please send us an email to [info@democracyforamerica.com](mailto:info@democracyforamerica.com). 
 
 If you need to change your email address, you can unsubscribe from our mailing list and sign up again using your new information. ****
 
 **Contacting us about privacy:**
 
-If you have any questions about our privacy policy, the information we have collected from you online, the practices of this site, or your interaction with this web site, send email to: webmaster@democracyforamerica.com. 
+If you have any questions about our privacy policy, the information we have collected from you online, the practices of this site, or your interaction with this web site, send email to: [webmaster@democracyforamerica.com](mailto:webmaster@democracyforamerica.com). 
 
 You can also reach us via US Mail at: 
 
