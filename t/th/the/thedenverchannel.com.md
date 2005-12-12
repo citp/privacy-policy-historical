@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the thedenverchannel.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204123123id_/http%3A//www.thedenverchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedenverchannel.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212140931id_/http%3A//www.thedenverchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
-# TheDenverChannel.com - News
-
-  
-
+# TheDenverChannel.com - Local News
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.TheDenverChannel.com](http://www.thedenverchannel.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
 
 **Information Collection and Use**  
 This website makes use of browser "cookies". Cookies are files written to a user's hard disk and read by the server programs to inform a website if the user has previously visited that site. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. We often use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with ads are not being collected by us and we do not have access to this information. Cookies can be rejected by you and if so none of the functions listed above will be performed. 
+
+**Are you an E-mail Subscriber?**  
+If you would like to unsubscribe from an e-mail newsletter or alert [click here](https://web.archive.org/emailnewsletters/).  
+If you have e-mail subscription questions, try our [FAQ page](https://web.archive.org/station/3932645/detail.html). **Note: Do not use any of the e-mail addresses on this page to unsubscribe. The respondents are not able to process those requests.
 
 We collect information from website visitors who must register for certain services on-line, from users who agree to participate in on-line surveys, from users who wish to make certain on-line information requests from us and from users who wish to participate in on-line contests and promotions sponsored by us. Because participation in these activities is completely voluntary, the user has a choice whether or not to disclose this information. The type of information so requested or collected by us includes user contact information (like their name and email address) and user demographic information (like gender or age). Contact information will be used to notify contest winners and award prizes and, in some instances may be shared with the contest or survey sponsor. Anonymous survey information will be used for purposes of reporting survey results and monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes. The visitor's contact information will be used to contact the visitor when the visitor has expressed interest in being contacted (visitors can opt-out of receiving future mailings by complying with the choice/output requirements noted below). The user demographic information so collected will be used by us to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying content according to their preferences. If a user elects to use our referral service for informing a friend about our site or to send an e-card through our site, we ask them for the friend's name and email address. IBS will automatically send the friend a one-time email inviting them to visit the site or sending an e-card, as the case may be. IBS stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact [security@ibsys.com](mailto:security@ibsys.com) to request the removal of this information from our database. We use your IP address to help diagnose problems with our server, and to administer our website. We track and record IP addresses that access our site for reporting and profiling purposes only. We also gather anonymous browsing habits of our visitors to better identify content preferences. User demographic information is shared with advertisers on an aggregate basis in a manner which will not personally identify the individual submitting such information. We may also share personally identifiable user information with governmental authorities when legally required to do so, and to cooperate with such authorities investigating claims of illegal activity such as (but not limited to) illegal transfer of copyrighted material, or user website postings or email messages that contain threats of violence. We may also disclose personally identifiable information in other cases where we have reason to believe that disclosure is necessary to enforce compliance with our Terms of Use. Other than these specific exceptions noted, we do not sell, rent or provide access to any data collected about or from our users. 
 
@@ -54,14 +55,3 @@ Mendota Heights, MN 55120
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
 Last Revised 11/03 
-
-| | 
-
-|   
----  
-  
-[](http://thedenverchannel.premiumweather.com/info/?c=IBS-newstory-11-17-04)
-
-How will the weather affect you? Know for sure. Monitor storms, animate your forecast, create personal alerts! [Try it now! ](http://thedenverchannel.premiumweather.com/info/?c=IBS-newstory-11-17-04)or [Log in here.](http://thedenverchannel.premiumweather.com/)  
-  
-
