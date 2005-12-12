@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reyrey.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305212027id_/http%3A//www.reyrey.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reyrey.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141951id_/http%3A//www.reyrey.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Reynolds and Reynolds Privacy Policy
 
@@ -8,9 +8,9 @@
 
 Regarding Reynolds' responses to the GLB/FTC Safeguards Rule: 
 
-  * For Reynolds' business customers, view our [Gramm-Leach-Bliley Service Provider Safeguards Commitment](https://web.archive.org/web/20050305212027id_/http%3A//www.reyrey.com/Standalone_FTC_Safeguards_Language.pdf).
-  * View our Frequently Asked Questions: [General FAQ](https://web.archive.org/web/20050305212027id_/http%3A//www.reyrey.com/Reynolds_GLB_FAQ.pdf) and [Product-Specific FAQ](https://web.archive.org/web/20050305212027id_/http%3A//www.reyrey.com/Reynolds_GLB_FAQ_ERA.pdf).
-  * View Reynolds’ Update on Complying with the [Gramm-Leach-Bliley Act Privacy and Safeguards Rules](https://web.archive.org/web/20050305212027id_/http%3A//www.reyrey.com/Gramm_Leach_Bliley_Act.pdf).  
+  * For Reynolds' business customers, view our [Gramm-Leach-Bliley Service Provider Safeguards Commitment](https://web.archive.org/web/20051212141951id_/http%3A//www.reyrey.com/Standalone_FTC_Safeguards_Language.pdf).
+  * View our Frequently Asked Questions: [General FAQ](https://web.archive.org/web/20051212141951id_/http%3A//www.reyrey.com/Reynolds_GLB_FAQ.pdf) and [Product-Specific FAQ](https://web.archive.org/web/20051212141951id_/http%3A//www.reyrey.com/Reynolds_GLB_FAQ_ERA.pdf).
+  * View Reynolds’ Update on Complying with the [Gramm-Leach-Bliley Act Privacy and Safeguards Rules](https://web.archive.org/web/20051212141951id_/http%3A//www.reyrey.com/Gramm_Leach_Bliley_Act_Brochure.pdf).  
 
 
 
@@ -56,7 +56,7 @@ We may disclose individual information to comply with legal process, such as a s
 **Changes to this Privacy Policy**
 
   * If we make any material change to this Privacy Policy, we will provide at least 30 days advance notice on this page and on our corporate home page at [www.reyrey.com](http://www.reyrey.com/).
-  * If we make any material change to the privacy policy associated with any Reynolds consumer technology, we will provide 30 days advance notice on this page, on our corporate home page at [www.reyrey.com](http://phx.corporate-ir.net/phoenix.zhtml?c=84204&p=IROl-SingleRelease&t=Regular&id=642335&), and on the home page and privacy policy page of the particular Reynolds consumer technology. 
+  * If we make any material change to the privacy policy associated with any Reynolds consumer technology, we will provide 30 days advance notice on this page, on our corporate home page at [www.reyrey.com](http://www.reyrey.com/), and on the home page and privacy policy page of the particular Reynolds consumer technology. 
   * If we make any material change to a Reynolds privacy policy, previously collected information will con-tinue to be governed by the protections of the privacy policy in effect at the time the information was col-lected. 
 
 
@@ -97,15 +97,15 @@ View more information about the [Networkcar system](http://www.networkcar.com/) 
 
 Contact Information
 
-email us at [privsec@reyrey.com](mailto:privsec@reyrey.com) or contact us at:  
+E-Mail us at [privsec@reyrey.com](mailto:privsec@reyrey.com) or contact us at:  
 Director of Privacy  
 Legal Department  
 Reynolds and Reynolds  
 One Reynolds Way  
 Dayton, OH 45430 
 
-Tel: (937) 485-9635  
-Fax: (866) 246-0507  
+**Phone:** 937.485.9635  
+**Fax:** 866.246.0507  
 
 
 _updated on September 16, 2004_
