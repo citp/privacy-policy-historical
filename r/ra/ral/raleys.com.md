@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the raleys.com privacy policy that was archived on 2005-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050524074225id_/http%3A//www.raleys.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raleys.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160345id_/http%3A//www.raleys.com/privacy.jsp) for the most accurate reproduction.*
 
-# Welcome to Raley's and Bel Air
+# Raley's and Bel Air: Your Privacy
 
-  
-**RALEY’S FAMILY OF FINE STORES WEB SITE PRIVACY POLICY** In this age of information, you value your privacy more than ever before, and so does Raley’s. You deserve to know how Raley’s treats your private information gathered on these web sites. We encourage you to read these paragraphs so that you can learn more about Raley’s web site privacy policy. 
+In this age of information, you value your privacy more than ever before, and so does Raley’s. You deserve to know how Raley’s treats your private information gathered on these web sites. We encourage you to read these paragraphs so that you can learn more about Raley’s web site privacy policy. 
 
 BY USING THESE WEB SITES, YOU AGREE TO THE TERMS AND CONDITIONS OF THIS WEB SITE PRIVACY POLICY. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, DO NOT USE THE RALEY’S FAMILY OF FINE STORES WEB SITES. 
 
@@ -13,7 +12,7 @@ Raley’s and its affiliated companies are the sole owners of the information co
 
 _Registration_
 
-To use some of the features of this web site, you must first complete a registration form and create a user name and password. During registration, you are required to give contact information (such as name and address or email address). We may use this information to contact you about the services on our site in which you have expressed interest. 
+To use some of the features of this web site, you must first complete a registration form and create a user name and password. During registration, you are required to give contact information (such as name and address or email address). We may use this information to contact you about the services on our site in which you have expressed interest and/or about products and special offers from our stores. 
 
 After you submit a completed registration form, you may receive a communication acknowledging our receipt of the registration. 
 
@@ -73,7 +72,7 @@ We use an outside shipping company to fulfill orders, and a credit card processi
 
 _Service Providers_
 
-We use other third parties to provide information on our site about promotions in your vicinity. For example, if you voluntarily provide you ZIP Code, we will share the ZIP Code as necessary for the third party to provide that service. These third parties, however, do not receive any other personally identifying information about you when you provide your ZIP Code for that purpose. 
+We use other third parties to provide information on our site about promotions in your vicinity. For example, if you voluntarily provide your ZIP Code, we will share the ZIP Code as necessary for the third party to provide that service. These third parties, however, do not receive any other personally identifying information about you when you provide your ZIP Code for that purpose. 
 
 _Legal Disclaimer_
 
@@ -105,7 +104,7 @@ If you reject cookies, you may still use our site, but your ability to use some 
 
 This web site contains links to other sites that are not owned or controlled by Raley’s and its affiliated companies. Please be aware that we, Raley’s and its affiliated companies, are not responsible for the privacy practices of such other sites. 
 
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifying information. For example, you have left our web sites when you click on the links to UNICRU, e-cart, ValuPage, Upromise, Diabetes Center, our community calendar links and other similar links. 
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifying information. For example, you have left our web sites when you click on the links to UNICRU, e-cart, Upromise, Healthnotes, Diabetes Center, our community calendar links and other similar links. 
 
 This privacy statement applies only to information collected by us from the raleys.com and nobhill.com web sites. 
 
