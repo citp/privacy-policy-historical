@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525210443id_/http%3A//www.landandfarm.com/lf/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212112358id_/http%3A//www.landandfarm.com/lf/about/privacy.asp) for the most accurate reproduction.*
 
 # LandAndFarm.com - Land for sale, Farms for sale, Rural Property for sale
 
