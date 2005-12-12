@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valenciacc.edu privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404001027id_/http%3A//valenciacc.edu/AboutUs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valenciacc.edu privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141820id_/http%3A//valenciacc.edu/AboutUs/privacy.asp) for the most accurate reproduction.*
 
 # Who We Are - Privacy Statement - Valencia Community College
 
