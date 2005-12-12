@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bimmerfest.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404191641id_/http%3A//www.bimmerfest.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bimmerfest.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212153714id_/http%3A//www.bimmerfest.com/privacy.php) for the most accurate reproduction.*
 
 # bimmerfest Privacy Policy
 
@@ -37,4 +37,4 @@ We are Internet users ourselves; in fact, you might go so far as to say we love 
 
 ###  On a serious note 
 
-This is not a legally binding document. This is us, performanceIX, letting you know how we truly feel about your privacy online. If you have no sense of humor, please read [this version](https://web.archive.org/web/20050404191641id_/http%3A//www.bimmerfest.com/privacy_serious.php), which essentially says the same thing only without the hilarious wit. 
+This is not a legally binding document. This is us, performanceIX, letting you know how we truly feel about your privacy online. If you have no sense of humor, please read [this version](https://web.archive.org/web/20051212153714id_/http%3A//www.bimmerfest.com/privacy_serious.php), which essentially says the same thing only without the hilarious wit. 
