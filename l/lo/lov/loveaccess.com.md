@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the loveaccess.com privacy policy that was archived on 2005-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050518101136id_/http%3A//www.loveaccess.com/privacy.htm%3Fbrief%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveaccess.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212111329id_/http%3A//www.loveaccess.com/privacy.htm%3Fbrief%3D1) for the most accurate reproduction.*
 
 # Dating Service at Love Access - Free Personals, Chat, Webcams
 
-This web site is a product of **LifeAccess.com Inc.**
+LoveAccess.com is a product of LifeAccess.com Inc. 
 
 Our postal address is   
-**189 State St, 5th Floor  
+**183 State St, 5th Floor  
 Boston, MA 02109**
 
 We can be reached via e-mail at [info@LoveAccess.com](mailto:info@LoveAccess.com)
 
-LifeAccess.com, Inc. ("LifeAccess" or the "Company") is committed to protecting your privacy. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information. This privacy policy may be modified in the future and will be posted on our website. 
+LoveAccess.com is committed to protecting your privacy. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information. This privacy policy may be modified in the future and will be posted on our website. 
 
-This website is a product of LifeAccess.com, Inc. (d/b/a [RoommateAccess.com](http://www.roommateaccess.com/) or [ApartmentAccess.com](http://www.apartmentaccess.com/) or [LoveAccess.com](http://www.loveaccess.com/sitemap/pid_102/kw_sitemap/index.htm) You may have reached this website from a LifeAccess affiliate, in which case their name may appear at the top of the page. If so, please be aware that this website was customized by LifeAccess.com, Inc. for the affiliate, that LifeAccess may share your information with the affiliate and that during your visit to this website the affiliate may independently collect other information from you. You should make note of the affiliate's privacy policy for your own knowledge and protection. 
+LoveAccess.com is a product of LifeAccess.com, Inc. (d/b/a [RoommateAccess.com](http://www.roommateaccess.com/) or [ApartmentAccess.com](http://www.apartmentaccess.com/) or [LoveAccess.com](http://www.loveaccess.com/)). You may have reached this website from a LifeAccess affiliate, in which case their name may appear at the top of the page. If so, please be aware that this website was customized by LifeAccess.com, Inc. for the affiliate, that LifeAccess may share your information with the affiliate and that during your visit to this website the affiliate may independently collect other information from you. You should make note of the affiliate's privacy policy for your own knowledge and protection. 
 
 In addition to the information we collect directly from you, we also monitor and track usage of our website, viewing and traffic patterns, customer behavior, and other similar information. We use this information, as well as all of your personal information, for internal business and administrative purposes to improve our website, our product and service offerings, our operations, and our customer service. We may also use your personal information from time to time to send you special offers, new products, services, promotions, and other similar information. 
 
