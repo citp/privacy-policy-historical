@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clove.co.uk privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407194621id_/http%3A//www.clove.co.uk/generic/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clove.co.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212210948id_/http%3A//clove.co.uk/generic/privacy.asp) for the most accurate reproduction.*
 
 # Clove Technology - Privacy Statement
 
@@ -26,7 +26,7 @@ It may be that you provide us details of credit or debit cards or bank accounts 
 
 We may use personal information collected about you to help us develop the layout of our website to ensure that our site is as useful and enjoyable as possible.  
   
-2.8| We may use personal information collected about you to let you know about functions on our Web site or changes to our [terms and conditions](https://web.archive.org/web/20050407194621id_/http%3A//www.clove.co.uk/generic/terms.asp) of use.  
+2.8| We may use personal information collected about you to let you know about functions on our Web site or changes to our [terms and conditions](https://web.archive.org/web/20051212210948id_/http%3A//clove.co.uk/generic/terms.asp) of use.  
   
 3.0 - Traffic data  
 We may provide aggregate statistics about sales, customers, traffic patterns and information to third parties, but these statistics will not include any information that identifies you.
