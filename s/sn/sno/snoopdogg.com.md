@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the snoopdogg.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205195635id_/http%3A//www.snoopdogg.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snoopdogg.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212153957id_/http%3A//www.snoopdogg.com/privacy.asp) for the most accurate reproduction.*
 
-# Snoop Dogg : Official Site
+# UNIVERSAL MUSIC GROUP PRIVACY POLICY
 
 December 1, 2004
-
-## UNIVERSAL MUSIC GROUP PRIVACY POLICY
 
 [ Universal Music Group](http://www.universalmusicgroup.com/) and this site care about your privacy. Universal Music Group consists of: [ Interscope Records, A&M Records](http://www.interscope.com/), [ Geffen Records](http://www.geffen.com/), [Dreamworks Records](http://www.dreamworksrecords.com/), [ Island](http://www.islandrecords.com/) [ Def Jam Music Group](http://www.defjam.com/), [ Lost Highway Records](http://www.losthighwayrecords.com/), [ MCA Nashville](http://www.mca-nashville.com/), [ Mercury Records](http://www.mercurynashville.com/), [ Motown Records](http://www.motown.com/), [ Universal Records](http://www.universalrecords.com/), [ Verve Music Group](http://www.vervemusicgroup.com/), [ Universal Classics](http://www.iclassics.com/) and [ Universal Music Enterprises](http://www.universalmusicenterprises.com/) as well as a multitude of record labels owned or distributed by its record company subsidiaries around the world. This privacy policy tells you what information we collect at our web sites and how we use it. If you choose to visit any of the Universal Music Group web sites, your visit is subject to this privacy policy, and you agree to the terms of it.
 
@@ -79,4 +77,6 @@ If you have any questions about our privacy practices, please feel free to conta
 
 **UMG Privacy Officer**  
 2220 Colorado Avenue, Santa Monica , CA 90404  
-(310) 865-5000 or email us at: [privacy-office@umusic.com](mailto:privacy-office@umusic.com?subject=Privacy%20Policy)
+(310) 865-5000 or email us by [ clicking here](http://privacypolicy.umusic.com/email/default.asp).
+
+(2) 
