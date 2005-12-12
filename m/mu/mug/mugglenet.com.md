@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305035132id_/http%3A//www.mugglenet.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160230id_/http%3A//www.mugglenet.com/privacy.shtml) for the most accurate reproduction.*
 
 # MuggleNet | Privacy Policy
 
@@ -38,11 +38,12 @@ MuggleNet is an unofficial fan site and the staff has a mortal fear of lawyers -
 [Privacy Policy](https://web.archive.org/privacy.shtml) | [COPPA Policy](http://www.mugglenet.com/coppa.shtml) | [Feedback](http://www.mugglenet.com/feedback/) | [Credits](http://www.mugglenet.com/credits.shtml)  
 [Random Addresses](http://www.mugglenet.com/junk.php)
 
-| 
+2,538 muggles currently online
 
-3,613 muggles currently online
-
-|   
----|---|---  
   
-[](http://top.addfreestats.com/cgi-bin/main.cgi?usr=00123908P000)     [ ](http://www.usatoday.com/life/cyber/2001/11/01/hotsites.htm)     [ ](http://topsites.mugglenet.com/)
+
+
+[](http://top.addfreestats.com/cgi-bin/main.cgi?usr=00123908P000)
+
+|  | [](http://www.usatoday.com/life/cyber/2001/11/01/hotsites.htm) |  | [](http://topsites.mugglenet.com/)  
+---|---|---|---|---
