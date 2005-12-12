@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestdesigns.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403205724id_/http%3A//www.thebestdesigns.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestdesigns.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160852id_/http%3A//www.thebestdesigns.com/privacy.shtml) for the most accurate reproduction.*
 
 # The Best Designs - [TheBestDesigns.com] - Recognizing The Best of Web Design
 
