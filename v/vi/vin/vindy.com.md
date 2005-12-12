@@ -1,15 +1,7 @@
-> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418082511id_/http%3A//www.vindy.com/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212133316id_/http%3A//www.vindy.com/legal/privacy/index.php) for the most accurate reproduction.*
 
-# Vindy.com - Privacy Policy
+# Vindy.com - Privacy Statement
 
-PRIVACY STATEMENT
-
-| 
-
-Vindy Basic  
-  
----|---  
-  
 **Please read this entire notice.**   The purpose of our privacy policy is to inform you that we do collect certain kinds of information about your use of Vindy.com and Vindicator.com (for purposes of this Policy, these shall be called “the Sites”); what kinds of information we gather; how we may use that information; whether we disclose it to anyone; and the choices you have regarding our use of, and your ability to correct, the information.   The Vindicator Printing Company (referred to as “The Vindicator” in this policy) owns and operates the Sites.
 
 By using either Site, you signify your assent to our privacy policy.  If you do not agree with any of the terms of this policy, please do not use our Sites. 
@@ -66,7 +58,7 @@ The Sites’ privacy policy does not extend to anything that is inherent in the 
 
 ###  **VII. Use of Materials.**
 
-The right to download and store or output the materials in our Sites is granted for the user's personal use only, and materials may not be reproduced in any edited form.  Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited.  To link to the full Terms of Use Agreement pertaining to use of our Sites, please [click here](http://www.vindy.com/terms/tos.php). 
+The right to download and store or output the materials in our Sites is granted for the user's personal use only, and materials may not be reproduced in any edited form.  Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited.  To link to the full Terms of Use Agreement pertaining to use of our Sites, please [click here](https://web.archive.org/legal/tou/index.php). 
 
 ### ****VIII. Accuracy of User Information.****
 
