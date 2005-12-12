@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624001946id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212171347id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # The Motley Fool UK: Privacy and Cookie Statement
 
@@ -28,6 +28,7 @@ At The Motley Fool, cookies are used the following ways:
 
   * To automatically access your previously stored account information and deliver more personalised services such as the My Fool feature. 
   * To estimate our audience size and usage patterns. 
+  * In the course of serving advertisements to this site, our Web advertising partner, DoubleClick, may place or recognize a unique cookie on your browser. For more on how to opt-out of these cookies, please see below. 
   * Advertising networks that serve ads onto our site may also use cookies but please note that we neither control nor have access to those cookies. These advertisers' uses of cookies are subject to their own privacy policies and not that of the Motley Fool's.
 
 
@@ -80,13 +81,15 @@ If you register with The Motley Fool or sign up for or buy any of our products o
 
 **Deactivating Your Account or Editing Your Information**
 
-You have the ability to edit your information and preferences at any time, including whether you want us to contact you about our various products and services. If you would rather not hear from us, you can let us know on our [never mail page](https://web.archive.org/community/nevermail.htm). Another way is to simply to [click the unsubscribe link](http://www.fool.com/community/nevermail.htm), which you will find on our email messages.
+You have the ability to edit your information and preferences at any time, including whether you want us to contact you about our various products and services. If you would rather not hear from us, you can let us know on our [never mail page](https://web.archive.org/community/nevermail.htm). Another way is to simply to [click the unsubscribe link](http://www.fool.co.uk/community/freemail/emailenter.htm), which you will find on our email messages.
 
 If you want to correct or change the information in your Profile, or any other information we have about you, please go to [ http://boards.fool.co.uk/editsettings.asp](http://boards.fool.co.uk/editsettings.asp). You will either be able to make your changes right there, or we'll give you instructions as to how to do what you want.
 
 If you want to change your email address for delivery of your email subscriptions or unsubscribe, you should go to [ http://www.fool.co.uk/community/freemail/emailenter.htm](http://www.fool.co.uk/community/freemail/emailenter.htm) and follow the prompts.
 
 **Other Data Processors**
+
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to Fool.co.uk, such as the number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick and how to opt-out of their tracking methods, please click [here](http://www.doubleclick.net/us/corporate/privacy).
 
 Many of our advertisers or partners, such as brokerages and merchants, link from our site to areas on their own sites where they sell their own goods and services. If you follow these links from our site to theirs, you should be aware that these other sites have their own privacy and data processing practices. The Motley Fool has no responsibility or liability for these independent policies. For more information regarding a site and its privacy policies, check that site.
 
@@ -95,12 +98,8 @@ Many of our advertisers or partners, such as brokerages and merchants, link from
 The Fool may amend this Privacy and Cookie Statement from time to time. If we make any substantive changes to this policy, we'll announce it on our site.
 
   
-
-
-[](http://click.fool.com/16062/46986/127/http%3A%2F%2Fwww.joincreditexpert.com%2Ffreecreditreport%2F%3Fsc%3D404300%26bcd%3Dmfoolgoodc23460ostri)
-
   
 |  |    
 
 
-[](http://click.fool.com/16411/47097/1718/https%3A%2F%2Facctcentre.msdwcard.com%2Fservlet%2FProcessAdvertisement%3Fid%3D5583029)
+[](http://click.fool.com/18341/51646/1718/http%3A%2F%2Fwww.easy-forex.com%2FGateway.aspx%3Fgid%3D1923)
