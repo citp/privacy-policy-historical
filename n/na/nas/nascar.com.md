@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2005-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050530005654id_/http%3A//www.nascar.com/guides/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212131545id_/http%3A//www.nascar.com/guides/about/privacy.html) for the most accurate reproduction.*
 
 # NASCAR.COM : privacy policy
 
@@ -60,21 +60,21 @@ We may use a reputable third party to present or serve the advertisements that y
 
 Our Commitment to Security
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
 How You can Access or Correct Information
 
 For instructions on how you can access the personally identifiable information that this site has collected about you online, or how to correct factual errors in such information, please click here.
 
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
 Special Note for Parents
 
-The site you are visiting is considered a general audience site. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested. 
+The site you are visiting is considered a general audience site. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
 
 How to Contact Us
 
-If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [privacy.nascar@turner.com](mailto:privacy.nascar@turner.com). 
+If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [privacy.nascar@turner.com](mailto:privacy.nascar@turner.com).
 
 Updates & Effective Date
 
@@ -84,7 +84,7 @@ The Privacy Notice posted on this site was updated on or about May 27, 2004.
 
 Unsubscribing from e-mail lists 
 
-If you have signed up to receive our emails and prefer not to receive marketing information from this site, follow the "unsubscribe" instructions provided on any marketing e-mail you receive from this site. 
+If you have signed up to receive our emails and prefer not to receive marketing information from this site, follow the "unsubscribe" instructions provided on any marketing e-mail you receive from this site.
 
 Third Party Ad Servers
 
