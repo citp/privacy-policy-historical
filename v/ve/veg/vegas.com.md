@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204230727id_/http%3A//vegas.com/about/privacy.html%3Fvc1%3D1%26vc2%3Dftr_txt_prv_3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151049id_/http%3A//www.vegas.com/about/privacy.html%3Fvc1%3D1%26vc2%3Dftr_txt_prv_3) for the most accurate reproduction.*
 
 # VEGAS.com: Privacy Policy
 
@@ -109,7 +109,7 @@ Additionally, VEGAS.com may use your information, including personally identifia
   * In disclosures to law-enforcement agencies and/or credit card companies in cases of customer fraud or in other cases where an individual poses a threat to the interests of VEGAS.com or its customers. 
   * To resolve customer or credit card company disputes. 
 
-In some cases, we may choose to buy or sell assets. In these business transfers, customer information, including personally identifiable information, is typically one of the business assets that is transferred. Moreover, if Vegas.com, or substantially all of its assets were acquired, or in the unlikely event that VEGAS.com goes out of business or enters bankruptcy, customer information, including personally identifiable information, would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Vegas.com may continue to use your personally identifiable information as set forth in this policy.
+In some cases, we may choose to buy or sell assets. In these business transfers, customer information, including personally identifiable information, is typically one of the business assets that is transferred. Moreover, if Vegas.com, or substantially all of its assets were acquired, or in the unlikely event that VEGAS.com goes out of business or enters bankruptcy, customer information, including personally identifiable information, would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Vegas.com may continue to use your personally identifiable information as set forth in this policy.
 
  ** _What you'll receive from VEGAS.com_**
 
