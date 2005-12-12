@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technovelgy.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308111133id_/http%3A//technovelgy.com/ct/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technovelgy.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212154024id_/http%3A//www.technovelgy.com/ct/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -26,4 +26,4 @@ If you leave a site comment, that information will be retained in our database. 
 
 It is the intention of the Technovelgy.com website to adhere strictly to both the letter and the spirit of "fair use" in quoting from an author's works. Some quotes are from works in the public domain, and may be longer.
 
-However, if an author or intellectual property owner feels that any quote is not "fair use", please [contact us](https://web.archive.org/web/20050308111133id_/http%3A//technovelgy.com/ct/contactus.asp) immediately, and we will work with you to rectify the situation immediately.
+However, if an author or intellectual property owner feels that any quote is not "fair use", please [contact us](https://web.archive.org/web/20051212154024id_/http%3A//www.technovelgy.com/ct/contactus.asp) immediately, and we will work with you to rectify the situation immediately.
