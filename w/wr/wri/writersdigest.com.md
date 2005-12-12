@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the writersdigest.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404005626id_/http%3A//www.writersdigest.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writersdigest.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212143827id_/http%3A//www.writersdigest.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # WritersDigest.com
 
 At writersdigest.com, your online privacy is our highest priority. We appreciate your confidence in us and will continue to work diligently to uphold that trust and provide you with a safe and secure environment in which to use and enjoy our services. 
 
 Writersdigest.com is owned and posted by [F&W Publications](http://www.fwpublications.com/).
-
-Writersdigest.com promises to never sell, trade, rent, barter or share personally identifiable information collected during your use of our site without your prior permission. 
 
 **Information We Collect**
 
@@ -15,8 +13,6 @@ Like most internet companies, writersdigest.com automatically tracks certain gen
 In order to process, fulfill and service your book, magazine and school orders, we require your email address, postal address, credit card number and credit card expiration date. We keep this information strictly private and confidential. Our security is provided from Verisign, the leading internet security firm, and we use SSL (secure sockets layer) technology to encrypt your information when it's transmitted over the internet, ensuring that credit card numbers and other information can only be read by their intended recipient. This technology is used any time you purchase something with a credit card via our site. 
 
 We may ask for personal information when you use certain features of our site, including but not limited to: when you enter a contest or drawing; when you sign up for our e-mail newsletter; or when you sign up for e-mail service. We also sometimes ask users to complete surveys used for internal research purposes. If we ask for any specific demographic information, it is only to help us tailor the information, products and services we provide on our site to better fit your needs and interests. Occasionally we may share non-individual statistical or demographic information in aggregate form with third parties, but this is only done to improve the quality and content of our site. We never share your personal information with third parties -- only general information about the site's entire user base. 
-
-We also never sell, trade, rent or release our e-mail lists to any interested third parties. We may occasionally send information provided by outside companies to our email users and subscribers, but only if those users and subscribers have already given us specific permission to do so during their initial registration for the services of our site. This third-party information will always come to you directly from our servers and will be identified as a mailing from us, ensuring that no third party will ever have access to our emailing lists. 
 
 **What About "Cookies"?**
 
