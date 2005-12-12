@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525122804id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212162756id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Lids.com: Lids Online has an extensive selection of hats, apparel and accessories for your favorite teams
 
@@ -32,7 +32,9 @@
   |   
   |   
   |   
+  
 [](http://www.lidscyo.com/trafficlink.html)  
+[Create Your Own Hat](http://www.lidscyo.com/trafficlink.html)  
 |    
 |  | 
 
@@ -131,6 +133,7 @@ LIDS, HATWORLD and THE HAT ZONE are concerned with the protection and privacy of
   
   
   
+[](http://www.lids.com/index.html)  
   
 |  |   
 |    
