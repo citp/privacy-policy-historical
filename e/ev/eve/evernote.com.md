@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306231355id_/http%3A//www.evernote.com/en/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212140424id_/http%3A//www.evernote.com/en/about/privacy.php) for the most accurate reproduction.*
 
 # EverNote - Privacy Policy
 
@@ -42,7 +42,7 @@ If EverNote ever changes its policy regarding the sharing and disclosure of info
 
 ## Changing or Deleting Your Information and Preferences
 
-You can update your information on the riteMail registration page at any time. You may close your riteMail account by sending an email to info@evernote.com.
+You can update your information on the riteMail registration page at any time. You may close your riteMail account by sending an email to [](mailto:info@evernote.com).
 
 ## Links
 
@@ -52,4 +52,4 @@ EverNote web site may contain links to other sites. EverNote is not responsible 
 
 EverNote takes reasonable precautions to protect your information stored on our servers. Your registration information is password-protected for your privacy and security.
 
-EverNote is not a website directed to children, nor does EverNote knowingly solicit personal information from children or send them requests for personal information. However, if your child is under 13 and is interested in using this site, please give your permission by email to info@evernote.com; please include your full name, your child's full name and email address (if different from your own email address) and your credit card number as an evidence that you are an adult. The email we receive your message from will be considered your identification email. If you do not share credit card numbers by email and still want your child to participate in the activities conducted on this site, please fax your signed permission and the above information about you and your child (without the credit card number) to 408.746.9901.
+EverNote is not a website directed to children, nor does EverNote knowingly solicit personal information from children or send them requests for personal information. However, if your child is under 13 and is interested in using this site, please give your permission by email to [](mailto:info@evernote.com); please include your full name, your child's full name and email address (if different from your own email address) and your credit card number as an evidence that you are an adult. The email we receive your message from will be considered your identification email. If you do not share credit card numbers by email and still want your child to participate in the activities conducted on this site, please fax your signed permission and the above information about you and your child (without the credit card number) to 408.746.9901.
