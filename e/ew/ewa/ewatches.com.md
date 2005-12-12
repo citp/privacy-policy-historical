@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ewatches.com privacy policy that was archived on 2005-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050318214941id_/http%3A//www.ewatches.com/Information/PrivacySecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewatches.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212094109id_/http%3A//www.ewatches.com/Information/PrivacySecurity.html) for the most accurate reproduction.*
 
 # eWatches - Privacy & Security Policies
+
+[](http://www.ewatches.com/Information/ReturnPolicy.html)
 
 eWatches.com Privacy & Security
 
