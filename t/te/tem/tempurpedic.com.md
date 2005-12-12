@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402005232id_/http%3A//www.tempurpedic.com/tempurcmsvb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212134539id_/http%3A//www.tempurpedic.com/tempurcmsvb/privacy) for the most accurate reproduction.*
 
 # Tempur-Pedic: Privacy Policy
 
@@ -10,13 +10,9 @@ When you request a video, catalog, place an order, enter a contest or join our e
 
 We also collect usage information from you when you visit us.  Web site usage information is not personally identifiable information.  It describes how our web site is used and navigated, including the number and frequency of visitors to each web page and the length of their stay.  Website usage information also includes the domain names of browsers that visit our web site, time of day the web site was visited and other non-personally identifiable information.
 
-The personal information you have provided us, and the information about your order will 
+The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources.  This information will be used to make our future marketing efforts more efficient.  This information may also be shared with other marketers to bring you offers of interest.  If you prefer that we do not share your name and address with other marketers, please email us at [marketing@tempurpedic.com](mailto:marketing@tempurpedic.com?subject=Please%20Do%20Not%20Share%20Name/Address). 
 
-_not_
-
-be shared with third parties.  This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources.  This information will be used to make our future marketing efforts more efficient.
-
-If you agreed to receive email from Tempur-Pedic we will not share your personal information with our marketing partners.  You will only receive Tempur-Pedic offers for products and services that may be of interest to you.  We will only send you e-mails if you have opted in by checking the box on the registration page, subscribe page or new account pages.  Additionally, each email we send you will include a description of the simple opt out process to enable you to stop receiving future e-mail and include a link to our privacy policy.
+If you agreed to receive email from Tempur-Pedic we will not share your email address with our marketing partners.  You will only receive Tempur-Pedic email offers for products and services that may be of interest to you.  We will only send you e-mails if you have opted in by checking the box on the registration page, subscribe page or new account pages.  Additionally, each email we send you will include a description of the simple opt out process to enable you to stop receiving future e-mail and include a link to our privacy policy.
 
  **What are Cookies?**  
 Tempur-Pedic makes use of browser cookies.  We use cookies to enhance your web viewing experience.  A cookie is a small identifier, similar to a license plate.  It is pieces of data sent by a web server to a web browser that can later be read by that server.  Cookies are used to personalize your viewing experience.  They are also used to target advertising and marketing offers to your particularized interests and to avoid showing you duplicate ads.  Cookies cannot be used to get data from your hard drive, your e-mail, or any other personal data about you.
