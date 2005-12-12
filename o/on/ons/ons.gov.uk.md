@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ons.gov.uk privacy policy that was archived on 2005-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050301193645id_/http%3A//www.statistics.gov.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ons.gov.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212145958id_/http%3A//www.statistics.gov.uk/privacy.asp) for the most accurate reproduction.*
 
-# Copyright Statement
+# National Statistics Online - privacy - copyright statement
 
 **National Statistics** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: 
 
