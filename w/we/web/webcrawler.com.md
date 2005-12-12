@@ -1,20 +1,11 @@
-> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404101705id_/http%3A//www.webcrawler.com/info.wbcrwl/search/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212152112id_/http%3A//www.webcrawler.com/info.wbcrwl/search/help/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - WebCrawler
 
- | | [](http://www.webcrawler.com/info.wbcrwl/)  
----  
-| |  Web Search  | | | | | |   
----|---|---|---|---|---|---|---  
-| [Yellow Pages](http://www.webcrawler.com/info.wbcrwl/yellow-pages)| |  [White Pages](http://www.webcrawler.com/info.wbcrwl/white-pages)| |   
-|   
----  
-Web Pages  Images  Audio  Video  News | [Advanced Web Search](http://msxml.webcrawler.com/info.wbcrwl/search/advanced/web.htm?)  
-[Preferences](http://msxml.webcrawler.com/info.wbcrwl/search/preferences.htm?ver=601)  
-[Tools & Tips](http://msxml.webcrawler.com/info.wbcrwl/search/help/index.htm?)  
-|    |   
-Exact Phrase   
  | |   
+[](http://www.webcrawler.com/info.wbcrwl/)  
+---  
+|   
 ---  
 |  **Privacy Policy**  
 ---  
@@ -76,5 +67,4 @@ Bellevue, Washington 98004 USA
 \+ (1) 425.201.6100 phone   
 \+ (1) 425.201.6150 fax   
 E-mail: [kidsprivacy@infospace.com](mailto:kidsprivacy@infospace.com)  
-   
  
