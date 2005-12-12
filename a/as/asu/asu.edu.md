@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528041402id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141159id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
 # Arizona State University | Privacy Statement
 
@@ -62,6 +62,6 @@ Under the [Computer, Internet and Electronic Communications Policy](http://www.a
 
 **Contact Information**
 
-If you have additional questions about online privacy or security, you can contact Jake Kupiec via e-mail to [jake.kupiec@asu.edu](mailto:jake.kupiec@asu.edu), by phone (480) 965-4995, or you can send an inquiry by mail to PO Box 872803, Tempe, AZ 85287-2803. 
+If you have additional questions about online privacy or security, send an email to [Linda.Pedersen@asu.edu](mailto:Linda.Pedersen@asu.edu).
 
 **6-26-01**
