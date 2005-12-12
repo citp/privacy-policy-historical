@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305230547id_/http%3A//www.tophosts.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212085103id_/http%3A//www.tophosts.com/pages/privacy.html) for the most accurate reproduction.*
 
-# Web Hosting Resource and Directory - Tophosts.com
+# Web Hosting Resource and Directory since 1997 - Tophosts.com
 
 | 
 
@@ -80,27 +80,25 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
   
 [ ](https://www.tophosts.com/store/THS/order.step0.php)  
   
-[](https://web.archive.org/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1153481329/Right/earthlink-skyscraper-th/160x600_orange.gif/64316564656562313432326133623430)  
+[](https://web.archive.org/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/887691962/Right/gate-sky-th/gate_160x600_final.gif/64316564656561643433396433396630)  
   
-[**iPowerWeb**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/561885674/Middle1/ipowerweb-sponsor-th/ipowerweb-sponsor-th.html/64316564656562313432326133623430)  
-•$7.95/mo. Web Hosting! Powerful, Affordable Solution Free Setup & Free Domain
+[**Aplus.Net**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/830140159/Middle1/aplus-sponsorlink-th/roslink.html/64316564656561643433396433396630)  
+•Hosting from $5.95. Ranked in the TOP 5 by Tophost. Take their word not ours.
 
-[**Earthlink Web Hosting**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1374678639/Middle2/earthlink-sponsorlinknew-th/link.html/64316564656562313432326133623430)  
-•6 months half price & FREE Setup - 1.800.863.6400.
+[ **Hostmysite**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1553815136/Middle2/hostmysite-sponsor-th/host_link.html/64316564656561643433396433396630)  
+•Hostmysite.com Dedicated Servers - 100% uptime guarantee CALL 1-888-894-4678
 
-[**HostExcellence**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1424111888/Middle3/hostexcellence-sponsorlink-th/link.html/64316564656562313432326133623430)  
-•Prices from $2.95! Get hosted today!
+[**Earthlink Web Hosting**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1271457965/Middle3/earthlink-sponsorlinknew-th/link.html/64316564656561643433396433396630)  
+• **EarthLink® Web Hosting** \- 6 months half price & FREE Setup - **1-800-863-6400**.
 
-[**Superb Hosting**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/38735261/Frame1/superb-sponsorlink-th/superb-sponsorlink-th.html/64316564656562313432326133623430)  
-•Free Domain & Setup  
-50GB traffic, 1GB web  
-250 emails, 10 domains  
-Only $7.50/m  
+[**Start Logic**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/477604214/Frame1/startlogic-sponsorlink-th/startlogic-sponsorlink-textlink-160304.html/64316564656561643433396433396630)  
+•StartLogic Web Site Hosting for 6.50/mo  
+FREE DOMAIN & FREE SETUP - Learn More!  
   
-TopHosts Poll | Who's performing your SEO?  
+TopHosts Poll | What frustrates you most about your Web host?  
 ---  
-I'm doing it in-house  
-My hosting provider takes care of it  
-It's contracted out to an SEO firm  
-Im not engaging in SEO  
+Customer Service  
+Price  
+Website Downtime  
+All of the above  
 [Click here to view previous polls](http://www.tophosts.com/pages/pastpolls.html)
