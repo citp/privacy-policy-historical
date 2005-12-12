@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interfacelift.com privacy policy that was archived on 2005-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050524012633id_/http%3A//interfacelift.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interfacelift.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212110238id_/http%3A//interfacelift.com/site/privacy.html) for the most accurate reproduction.*
 
 # InterfaceLIFT - Free GUI Enhancements for Mac OS X and Windows XP
 
@@ -12,6 +12,7 @@ We use third-party advertising companies to serve ads when you visit our web sit
 
 Below are links to the privacy policies of the advertising networks used by InterfaceLIFT:
 
+  * [CasaleMedia.com](https://casalemedia.com/privacy.html)
   * [Fastclick.com](http://www.fastclick.com/co_privacy.html)
   * [Google.com](http://www.google.com/privacy.html)
   * [TribalFusion.com](http://tribalfusion.com/www/about/privacy.html)
