@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creationent.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403172850id_/http%3A//www.creationent.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creationent.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151114id_/http%3A//www.creationent.com/privacy.htm) for the most accurate reproduction.*
 
 # Creation Entertainment - Star Trek - Stargate SG-1 - Xena - LOTR - Conventions & Merchandise
 
