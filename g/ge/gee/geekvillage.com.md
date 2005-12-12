@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekvillage.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205183300id_/http%3A//www.geekvillage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekvillage.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141800id_/http%3A//www.geekvillage.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy For GeekVillage.com
 
