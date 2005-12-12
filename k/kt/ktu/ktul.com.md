@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2004-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041104011729id_/http%3A//www2.ktul.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212153620id_/http%3A//www2.ktul.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # NewsChannel 8 - Privacy Statement
 
