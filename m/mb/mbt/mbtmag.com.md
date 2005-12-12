@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbtmag.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308183022id_/http%3A//www.mbtmag.com/reader_services/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtmag.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212142622id_/http%3A//www.mbtmag.com/reader_services/privacypolicy.asp) for the most accurate reproduction.*
 
 # Manufacturing Business Technology
 
