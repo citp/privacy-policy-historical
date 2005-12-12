@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicurean.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403215702id_/http%3A//www.epicurean.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicurean.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212142214id_/http%3A//www.epicurean.com/policy.html) for the most accurate reproduction.*
 
 # Epicurean.com
 
@@ -18,9 +18,6 @@ We use an outside ad company to display ads on our site. These ads may contain c
 Registration Forms
 
 Our site's registration form requires users to give us contact information, such as like name, email, and postal address. 
-
-Contact information from the registration forms is used to ship purchases, information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers, and to get in touch with the customer when necessary.  
-
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
