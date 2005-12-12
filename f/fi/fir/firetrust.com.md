@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the firetrust.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404102156id_/http%3A//www.firetrust.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firetrust.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212155422id_/http%3A//www.firetrust.com/firetrustprivacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Email Security, Anti-spam, Anti Virus Software, MailWasher creators:
 
 |  | 
 
 **Firetrust website policy**
 
-We believe it is important that you know how we treat information about you which we receive via the Internet. Our commitment to personal privacy is paramount - none of our products contain any form of Adware or Spyware. 
+We believe it is important that you know how we treat information about you which we receive via the Internet. Our commitment to personal privacy is paramount - none of our products contain any form of Adware of Spyware. 
 
-Firetrust Limited lets you visit the Firetrust website without revealing any personal information about yourself. We will ask you when we need information that personally identifies (personal information) you. Firetrust requests personal information from our users at several different points on our website. We may ask you for your email address prior to downloading evaluation software. The personal information we collect is used only to respond to your inquiry, process an order, allow you to access specific account information, or advise you of special promotions, discounts, updates and new products. 
+Firetrust Limited lets you visit the Firetrust website without revealing any personal information about yourself. We will ask you when we need information that personally identifies (personal information) you. Firetrust requests personal information from our users at several different points on our website. The personal information we collect is used only to respond to your inquiry, process an order, allow you to access specific account information, or advise you of special promotions, discounts, updates and new products. 
 
 Firetrust is the sole owner of the information collected on this site. We will not use or disclose this information for purposes other than those set out in this statement or in our end user agreement. 
 
@@ -18,11 +18,11 @@ By using this site or any services provided through the site, you expressly cons
 
 **Order and Credit Card Information**
 
-Firetrust uses WorldPay, a third-party provider of e-commerce solutions, to power the Firetrust.com store and in doing so, collects information about users, including credit card information. When a user purchases a product from the Firetrust.com store, WorldPay provides information about the customer, including name, address and email address, to Firetrust. Firetrust uses this information as set out in the end user agreement, agreed to by purchasers at the time of purchase. In particular, Firetrust uses the information to license the software to you, support the software and send you information about updates, upgrades and new works or services provided by Firetrust. 
+Firetrust uses "element5", a third-party provider of e-commerce solutions, to power the Firetrust.com store and in doing so, collects information about users, including credit card information. When a user purchases a product from the Firetrust.com store, element5 provides information about the customer, including name, address and email address, to Firetrust. Firetrust uses this information as set out in the end user agreement, agreed to by purchasers at the time of purchase. In particular, Firetrust uses the information to license the software to you, support the software and send you information about updates, upgrades and new works or services provided by Firetrust. 
 
-WorldPay requests information from the user on the order form, viewed by the user as a page hosted on the WorldPay web server. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used as explained above. For example, if we have trouble processing an order, contact information is used to get in touch with the user. 
+element5 requests information from the user on the order form, viewed by the user as a page hosted on their element5 web server. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used as explained above. For example, if we have trouble processing an order, contact information is used to get in touch with the user. 
 
-Your credit card information does not pass through the WorldPay sites under the terms of Firetrust's agreement with WorldPay. WorldPay does not share credit card information with Firetrust. WorldPay keeps your credit card information confidential and protect your credit card information through the use of industry-standard Secure Sockets (SSL) encryption technology. 
+Your credit card information does not pass through the element5 site under the terms of Firetrust's agreement with element5. element5 does not share credit card information with Firetrust. element5 keeps your credit card information confidential and protects your credit card information through the use of industry-standard Secure Sockets (SSL) encryption technology. 
 
 We also use PayPal as a third-party payment provider. 
 
@@ -34,9 +34,9 @@ The Firetrust website may contain links to other websites. Please note that when
 
 **Cookies**
 
-"Cookies " are small pieces of information that your browser stores on your computer on behalf of a website that you have visited. Session (temporary) cookies may be used from time-to-time to enhance navigation within the website. These cookies are destroyed when the user closes their web browser. Our e-commerce provider, WorldPay, use session cookies and other cookies to facilitate access to customer account information in the shopping cart on their site. However, Firetrust has no access to or control over these cookies. 
+"Cookies " are small pieces of information that your browser stores on your computer on behalf of a website that you have visited. Session (temporary) cookies may be used from time-to-time to enhance navigation within the website. These cookies are destroyed when the user closes their web browser. Our e-commerce provider, element5, uses session cookies and other cookies to facilitate access to customer account information in the shopping cart on their site. However, Firetrust has no access to or control over these cookies. 
 
-WorldPay's cookies are used only to identify the customer, not to identify any specific customer traits. This allows WorldPay to maintain consistency in the shopping cart and enable a more pleasant shopping experience. 
+element5's cookies are used only to identify the customer, not to identify any specific customer traits. This allows element5 to maintain consistency in the shopping cart and enable a more pleasant shopping experience. 
 
 **Log files**
 
