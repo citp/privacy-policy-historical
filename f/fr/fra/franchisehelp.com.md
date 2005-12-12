@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407073055id_/http%3A//www.franchisehelp.com/execfb/public.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212135150id_/http%3A//www.franchisehelp.com/execfb/public.privacy) for the most accurate reproduction.*
 
-# Franchise Information - FranchiseHelp: Privacy Policy
+# Privacy Policy
 
 **
 
