@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsatcost.ca privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406004742id_/http%3A//www.domainsatcost.ca/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsatcost.ca privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212112950id_/http%3A//www.domainsatcost.ca/privacy-statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement | Domainsatcost.ca
 
@@ -94,7 +94,7 @@ Our trusted vendors and business partners are responsible for processing or hand
 
 If you feel that Domainsatcost.ca, or any of our agents, representatives or employees, is violating this Privacy Statement, please contact us via e-mail at [service@Domainsatcost.ca](mailto:service@Domainsatcost.ca), by telephone at +1-613-768-5125, or by postal mail at:
 
-43 Auriga Drive  
-Nepean, Ontario  
+26 Auriga Drive  
+Ottawa, Ontario  
 Canada  
-K2E 7Y8
+K2E 8B7
