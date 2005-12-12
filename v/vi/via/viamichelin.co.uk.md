@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viamichelin.co.uk privacy policy that was archived on 2005-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050320015845id_/http%3A//www.viamichelin.co.uk/viamichelin/gbr/tpl/psg/divers/htm/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viamichelin.co.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212144702id_/http%3A//www.viamichelin.co.uk/viamichelin/gbr/tpl/psg/divers/htm/privacypolicy.htm) for the most accurate reproduction.*
 
 # ViaMichelin - Privacy Policy
 
@@ -29,6 +29,6 @@ Our website uses the AdLINK ad server to display the advertisements seen on our 
 
 As this privacy policy is designed to become more comprehensive over time, we will ensure that it develops in line with your requirements and expectations.
 
-We are therefore open to all questions and suggestions related to our privacy policy. Please feel free to send us your comments in the [Contact us](https://web.archive.org/web/20050320015845id_/http%3A//www.viamichelin.co.uk/viamichelin/gbr/dyn/controller/contact) section. 
+We are therefore open to all questions and suggestions related to our privacy policy. Please feel free to send us your comments in the [Contact us](https://web.archive.org/web/20051212144702id_/http%3A//www.viamichelin.co.uk/viamichelin/gbr/dyn/controller/contact) section. 
 
 If you have any other questions, please check with our online Help-FAQ section as we may have already answered them.
