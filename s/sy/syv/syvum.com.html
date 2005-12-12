@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the syvum.com privacy policy that was archived on 2005-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050405192427id_/http%3A//syvum.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the syvum.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212024909id_/http%3A//syvum.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <html><head><title> Syvum Privacy Policy </title><meta name="author" content="Syvum"><meta name="copyright" content="Syvum Technologies Inc."><meta name="publisher" content="Syvum"></head><body bgcolor="#FFFFFF" text="#000000" link="#ff0000" vlink="#0000ff" alink="#FF0000">
 
 <!-- addtopbar -->
  
+<!-- my_nis -->
 <script language="JavaScript">
    function getVar(x) { var ci = 0; var clen = x.length; var tclen = document.cookie.length; while (ci < tclen) { cj = ci + clen; if (document.cookie.substring(ci,cj) == x) { ce = document.cookie.indexOf(";", cj); if (ce == -1) ce = tclen; return document.cookie.substring(cj+1,ce); } ci++; } return "";
       }
@@ -12,44 +13,174 @@
    function getads() { return getVar("ShowAd"); }
    var ads;
    if (window.oads && oads == 1){ads="no"} else {ads = getads();}
-</script>
-<table cellpadding="0" cellspacing="0" border="0" bgcolor="#ff9d3c" width="100%">
-<tbody><tr><td colspan="2"><font face="arial" size="-2" color="#000000"><a href="/" style="color:maroon;">Syvum Home</a> | 
-<a href="/squizzes/" style="color:maroon;">K-12</a> |
-<a href="/gmat/" style="color:maroon;">GMAT</a> |
-<a href="/gre/" style="color:maroon;">GRE</a> |
-<a href="/sat/" style="color:maroon;">SAT</a> |
-<a href="/squizzes/lang/" style="color:maroon;">Languages</a> |
-<a href="/teasers/" style="color:maroon;">Puzzles</a> |
-<a href="/download.html" style="color:maroon;">Downloads</a> |
-<a href="/webshop/shop.html" style="color:maroon;">Web Shop</a> |
-<a href="/cgi/order.cgi" style="color:maroon;">Shopping Cart</a>
-</font></td>
-<td>&nbsp;</td>
-<td align="right" valign="top" width="127" rowspan="3"><a href="/"><img src="/images/topname5.gif" width="127" height="75" alt="Go to Syvum Home Page" border="0"></a></td>
-</tr>
-<tr>
-<td bgcolor="#ffc68c"><font face="arial"><script language="JavaScript">
+   var syvum_cs = getVar("Syvum_BGColor");
+   var syvum_bs = getVar("Syvum_Border_Colors");
+   if (syvum_bs == null || syvum_bs.length == 0)
+     syvum_bs = " , , ";
+   if (syvum_cs == null || syvum_cs.length == 0)
+     syvum_cs = " ";
+   syvum_bs_a = syvum_bs.split(",");
+   if (syvum_cs != null && syvum_cs.length == 7)
+       document.bgColor = syvum_cs;
+   if (syvum_bs_a[0] == null || syvum_bs_a[0].length != 7)
+     syvum_bs_a[0] = "#ff9d3c";
+   if (syvum_bs_a[1] == null || syvum_bs_a[1].length != 7)
+     syvum_bs_a[1] = "#ffc68c";
+   if (syvum_bs_a[2] == null || syvum_bs_a[2].length != 7)
+     syvum_bs_a[2] = "#800040";
+
+   var randomSyvumTip = new Array;
+   var randomSyvumTipUrl = new Array;
+   randomSyvumTip[0] = "opposite of pugnacious";
+   randomSyvumTip[1] = "capital of Poland";
+   randomSyvumTip[2] = "largest human organ";
+   randomSyvumTip[3] = "grade 8 chemistry";
+   randomSyvumTip[4] = "biology quizzes";
+   randomSyvumTip[5] = "algebra problems";
+   randomSyvumTip[6] = "Grandpa's age puzzle";
+   randomSyvumTip[7] = "usa map quiz";
+   randomSyvumTip[8] = "GRE verbal ability";
+
+   for (var i = 0; i < randomSyvumTip.length; i++)
+     {
+       randomSyvumTipUrl[i] = randomSyvumTip[i];
+       randomSyvumTipUrl[i] = randomSyvumTipUrl[i].replace(/ /g, "+");
+     }
+
+   var randomSyvumTipNumber = Math.floor(randomSyvumTip.length * Math.random());
+   
+   document.writeln('<table cellpadding=0 cellspacing=0 border=0 bgcolor=' + syvum_bs_a[1] + ' width=100%>');
+</script><noscript><table cellpadding=0 cellspacing=0 border=0 bgcolor=#ff9d3c width=100%></noscript><table cellpadding="0" cellspacing="0" border="0" bgcolor="#ffc68c" width="100%">
+
+
+ <form name="syvum_top_search" method="get" action="/cgi/search.cgi"></form>
+<tbody><tr>
+<td valign="top" width="127" rowspan="2"><a href="/"><img src="/images/topname5.gif" width="127" height="75" alt="Go to Syvum Home Page" border="0"></a></td>
+<td align="right"><font face="arial" size="-2" color="#000000"> 
+<a href="/squizzes/"><font color="navy">K-12</font></a> |
+<a href="/gmat/"><font color="navy">GMAT</font></a> |
+<a href="/gre/"><font color="navy">GRE</font></a> |
+<a href="/sat/"><font color="navy">SAT</font></a> |
+<a href="/quiz/us/"><font color="navy">USA</font></a> |
+<a href="/learn/languages/English_Spanish/"><font color="navy">Learn Spanish</font></a> |
+<a href="/quiz/"><font color="navy">Quiz</font></a> |
+<a href="/teasers/"><font color="navy">Puzzles</font></a> |
+<a href="/iq/"><font color="navy">IQ</font></a> |
+<a href="/download.html"><font color="navy">Downloads</font></a> |
+<a href="/cgi/order.cgi"><font color="navy">Shopping Cart</font></a> |
+<script language="JavaScript">
     var uid = getuid();
     if (uid.length > 1)
       {
-        document.write('<b><a href=/cgi/members/home.cgi style="color:maroon;">'+uid+'\'s Syvum</a></b> | <a href=/cgi/members/logout.cgi style="color:maroon;">Sign Off</a>');
+        document.write('<b><a href=/cgi/members/home.cgi><font color=navy>'+uid+'\'s Syvum</font></a></b> | <a href=/cgi/members/logout.cgi><font color=navy>Sign Off</font></a></font>');
       }
     else
       {
-        document.write('<b><a href=/members/ style="color:maroon;">Sign In</a> / <a href=/cgi/order.cgi?club12 style="color:maroon;">Register as Syvum Member</a></b>');
+        document.write('<b><a href=/members/><font color=navy>Sign In</font></a> / <a href=/cgi/order.cgi?club12><font color=navy>Register as Member</font></a></b></font>');
       }
-</script><b><a href="/members/" style="color:maroon;">Sign In</a> / <a href="/cgi/order.cgi?club12" style="color:maroon;">Register as Syvum Member</a></b><noscript>
-<a href=/cgi/members/home.cgi>Syvum Members</a> | <a href=/cgi/members/logout.cgi>Sign off</a>
-</noscript></font></td>
-<td bgcolor="#ffc68c" align="right"><a href="/search/"><font size="-1" color="maroon" face="arial">Search this site</font></a></td>
-<td valign="top" align="right" bgcolor="#ffc68c"><img src="/images/quadrant6.gif" width="38" height="38" border="0"></td>
+</script><b><a href="/members/"><font color="navy">Sign In</font></a> / <a href="/cgi/order.cgi?club12"><font color="navy">Register as Member</font></a></b></font><noscript>
+<a href=/cgi/members/home.cgi><font color=navy>Syvum Members</font></a> | <a href=/cgi/members/logout.cgi><font color=navy>Sign off</font></a></font>
+</noscript>
+</td></tr>
+<tr>
+<script language="JavaScript">
+document.writeln('<td bgcolor='+syvum_bs_a[1]+' align=right>');
+</script><td bgcolor="#ffc68c" align="right">
+<noscript><td bgcolor=#ffc68c align=right></noscript>
+<input type="text" size="40" maxlength="80" name="words"> &nbsp; <input type="submit" value="Search">&nbsp;<br>
+<font size="-2" color="navy" face="arial">Search Syvum web site for information or quizzes of your interest. <script language="JavaScript">document.writeln('Example: <a href=/cgi/search.cgi?words='+randomSyvumTipUrl[randomSyvumTipNumber]+'><font color=navy>'+randomSyvumTip[randomSyvumTipNumber]+'</font></a>');</script>Example: <a href="/cgi/search.cgi?words=usa+map+quiz"><font color="navy">usa map quiz</font></a>
+&nbsp;</font></td>
 </tr>
-<tr bgcolor="#800040"><td colspan="3" valign="middle"><font size="-1" face="arial" color="white"><a href="/whatsnew/"><img src="/images/newin6.gif" border="0" align="bottom" alt="NEW!" width="32" height="12"></a> &nbsp;<a href="/squizzes/lang/"><font color="yellow"><b>Language Learning</b></font></a>, &nbsp;<a href="/squizzes/cpp/"><font color="white">C++</font></a>, &nbsp;<a href="/gmat/"><font color="white">GMAT</font></a>, &nbsp;<b><a href="/contests/"><font color="yellow">Trivia Contest</font></a></b>, &nbsp;<a href="/whatsnew/"><font color="white">More...</font></a></font></td></tr></tbody></table>
-<table width="100%" cellpadding="1" cellspacing="0" border="0">
-<tbody><tr>
-<td width="100%" valign="top">
+</tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td colspan="3" bgcolor="#c9d7f2"><img alt="" height="1" width="1"></td></tr>
+<tr>
+<td valign="top">
+<p><font face="arial" size="-1"><a href="http://es.syvum.com/" target="_blank"><font color="#0000ff"><b>ES.Syvum.com</b></font></a></font><br><font color="navy" size="-2" face="arial">in Spanish</font><br><font face="arial" size="-1"><a href="http://br.syvum.com/" target="_blank"><font color="#0000ff"><b>BR.Syvum.com</b></font></a></font><br><font color="navy" size="-2" face="arial">in Portuguese</font><br><img src="/images/phone.jpg" height="32" width="17" alt="Syvum On Your Cell Phone" align="right"><font face="arial" size="-1"><a href="/mobile.html"><font color="#0000ff"><b>Syvum Mobile</b></font></a></font><br><font color="navy" size="-2" face="arial">on your cell phone!</font></p>
+<p style="color: #800000; font-family: arial; font-size=70%;">Special Features:
+<br><a href="/fun/christmas/"><b>Christmas Games</b></a>
+<br><a href="/fun/christmas/#recipes"><b>Christmas Recipes</b></a>
+<br><a href="/fun/music/"><b>Music Quizzes</b></a>
+<br><a href="/learn/"><b>Foreign Languages</b></a><br>
+ - <a href="/learn/phrases/">Phrases</a><br>
+ - <a href="/learn/languages/">Words</a>
+</p>
 
+<script language="JavaScript">
+<!--
+if (document.all)
+  {
+    if (ads == "no")
+      {
+        document.writeln('<p><span style="cursor:pointer;" onclick="document.all.syvum_g_sky.style.display = \'none\' == document.all.syvum_g_sky.style.display ? \'\' : \'none\';"><font color=blue face=arial size=-1><b>See ads related to this topic</b></font></span>');
+        document.writeln('<div id="syvum_g_sky" style="display:none">');
+      }
+  }
+// -->
+</script>
+<script language="JavaScript">
+  google_ad_client = "pub-0582656916058535";
+  google_alternate_ad_url = "http://www.syvum.com/cgi/showad.cgi?/home/syvum/public_html/legal/privacy.html&ad=sky_ad";
+  google_ad_width = 120;
+  google_ad_height = 600;
+  google_ad_format = "120x600_as";
+  google_ad_type = "text_image";
+  google_ad_channel ="9034378402";
+  google_color_border = "FFFFFF";
+  google_color_bg = "FFFFFF";
+  google_color_link = "0000FF";
+  google_color_url = "008000";
+  google_color_text = "000000";
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<script language="JavaScript">
+<!--
+if (document.all)
+  {
+    if (ads == "no")
+      {
+        document.writeln('</div>');
+      }
+  }
+// -->
+</script>
+
+
+<p>
+<script language="JavaScript1.2">
+function gIn(x){ if(document.getElementById||(document.all && !(document.getElementById))){ x.style.backgroundColor=syvum_bs_a[1]; } }
+function gOut(x){ if(document.getElementById||(document.all && !(document.getElementById))){ x.style.backgroundColor=""; } }
+</script>
+<noscript><tr><td onMouseOver="gIn(this);" onMouseOut="gOut(this);"><a href=/webshop/banners.html>Hide ALL ADS</a></td></tr></noscript><table width="100%" border="0" cellpadding="3" cellspacing="0" style="font: normal 9pt arial;">
+<script language="JavaScript">
+if (ads == "no")
+  {
+  }
+else
+  {
+    document.writeln('<tr><td onMouseOver="gIn(this);" onMouseOut="gOut(this);"><a href=/webshop/banners.html>Hide ALL ADS</a></td></tr>');
+  }
+</script><tbody><tr><td onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/webshop/banners.html">Hide ALL ADS</a></td></tr>
+
+
+<tr><td onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/translation/">Online Translation - Dictionary</a></td></tr>
+<tr><td onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/translation/services.html">Translation Services</a></td></tr>
+<tr><td onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/cgi/redirect.cgi?syvumclickv">One-Click Lookups</a></td></tr>
+<tr><td onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/translation/translation_services.html">Language Translation Services</a></td></tr>
+</tbody></table>
+</p><p>
+<table width="120">
+<tbody><tr><td><img alt="" width="1" height="1"></td></tr>
+</tbody></table>
+<table bgcolor="#ffdddd" width="100%">
+<tbody><tr><td align="center">
+<b><a href="/cgi/redirect.cgi?http://www.syvum.com/contests/">
+<font color="maroon" size="-1" face="arial">$$$ WIN $$$</font><br><font color="maroon" size="-1" face="arial">Syvum Quizenius<br>Trivia Contest!</font></a></b>
+</td></tr></tbody></table>
+</p></td>
+<td bgcolor="#c9d7f2" width="1"><img height="1" width="1" alt=""></td>
+<td width="100%" valign="top">
 <center>
 <script language="JavaScript">
 <!--
@@ -58,27 +189,17 @@
      }
    else
      {
-       var ccl_syvum;
-       ccl_syvum = getVar("Cl_Syvum_c5");
-       if (ccl_syvum != null && ccl_syvum != "" && ccl_syvum == "11")
-         {
-         }
-       else
+       var ccl9_syvum;
+       ccl9_syvum = getVar("Cl_Syvum_c9");
+       if (ccl9_syvum == null || ccl9_syvum == "")
          {
            document.writeln('<scr' + 'ipt language="JavaScript" src="http://dist.belnk.com/4/placement/1389/"></script>');
-           if (ccl_syvum == null)
-             {
-               ccl_syvum = 1;
-             }
-           else
-             {
-               ccl_syvum += 1;
-             }
-
-           var expDate = new Date();
-           expDate.setTime(expDate.getTime() + 600000);
-           document.cookie = "Cl_Syvum_c5="+ ccl_syvum + "; expires=" + expDate.toGMTString() + "; path=/";
+               ccl9_syvum = 1;
          }
+
+       var expDate = new Date();
+       expDate.setTime(expDate.getTime() + 43200000);
+       document.cookie = "Cl_Syvum_c9="+ ccl9_syvum + "; expires=" + expDate.toGMTString() + "; path=/";
 
        if (document.body)
          {
@@ -94,34 +215,57 @@
       }
     else
       {
-        document.writeln('<scr' + 'ipt type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/dlv/aslmain.js"></script>');
-        document.writeln('<scr' +="" 'ipt="" type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/dlv/aslsubs111.js">');
-        document.writeln('<scr' +="" 'ipt="" type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/dlv/asleffects.js">');
+        document.writeln('<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=468 HEIGHT=60 SRC="http://ad.yieldmanager.com/imp?z=4&s=74&t=3"></IFRAME>');
       }
-// --&gt;
-
-<script language="JavaScript">
-<!--
-   if (ads == "no")
-      {
-      }
-    else
-      {
-        document.writeln('<iframe src="http://a.as-us.falkag.net/dat/dlv/aslframe.html?dat=76992&xl=468&yl=60&wrd=&prf=" width=468 height=60 noresize scrolling=no hspace=0 vspace=0 frameborder=0 marginheight=0 marginwidth=0>');
-        document.writeln('<scr' + 'ipt language="javascript" type="text/javascript">');
-        document.writeln("Ads_kid=0;Ads_bid=0;Ads_xl=468;Ads_yl=60;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='';Ads_prf='';Ads_par='';Ads_cnturl='';Ads_sec=0;Ads_channels='';");
-        document.writeln('</scr' + 'ipt>');
-        document.writeln('<scr' + 'ipt type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/07/69/92.js"></script>');
-        document.write('<br><font size="-2">Click banner to visit sponsor &nbsp; | &nbsp; <a href="/cgi/order.cgi?club12">Hide ads</a> &nbsp; | &nbsp; <a href="/biz/">Advertise here</a></font><br>');
-      }
-// --&gt;
+// -->
+</script><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="468" height="60" src="http://ad.yieldmanager.com/imp?z=4&amp;s=74&amp;t=3"></iframe>
 
 <noscript>
-<a href="http://c4.maxserving.com/adclick/site=5650/area=ros/aamsz=banner/PageID=" target="_blank">
-<img src="http://c4.maxserving.com/iserver/site=5650/area=ros/aamsz=banner/PageID=" border="0"></A>
+<a href="http://c4.maxserving.com/adclick/site=5650/area=ros/aamsz=banner/PageID=5972117916" target="_blank">
+<img src="http://c4.maxserving.com/iserver/site=5650/area=ros/aamsz=banner/PageID=5972117916" border="0"></A>
 </noscript>
+<br>
+<script language="JavaScript">
+<!--
+if (document.all)
+  {
+    if (ads == "no")
+      {
+        document.writeln('<span id="syvum_span_link" style="cursor:pointer;" onclick="document.all.syvum_g_link.style.display = \'none\' == document.all.syvum_g_link.style.display ? \'\' : \'none\';document.all.syvum_span_link.style.display = \'none\';"><font color=blue face=arial size=-1><b>See ads related to this topic</b></font></span>');
+        document.writeln('<div ID="syvum_g_link" style="display:none">');
+      }
+  }
+// -->
+</script>
+<script type="text/javascript">
+    google_ad_client = "pub-0582656916058535";
+    google_ad_width = 728;
+    google_ad_height = 15;
+    google_ad_format = "728x15_0ads_al";
+    google_ad_channel ="9034378402";
+    google_color_border = "FFFFFF";
+    google_color_bg = "FFFFFF";
+    google_color_link = "0000FF";
+    google_color_url = "008000";
+    google_color_text = "000000";
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<script language="JavaScript">
+<!--
+if (document.all)
+  {
+    if (ads == "no")
+      {
+        document.writeln('</div>');
+      }
+  }
+// -->
+</script>
 
-</scr'></scr'></center>
+
+</center>
+<!-- my_nie -->
  
  
 
@@ -266,77 +410,69 @@ Thank you for your support of these policies and of Syvum Technologies.
 
 <!-- addbotbar -->
  
-<center>
+<!-- my_nis -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><script language="JavaScript">
+<!--
+if (document.all)
+  {
+    if (ads == "no")
+      {
+        document.writeln('<p><span id="syvum_span_bot" style="cursor:pointer;" onclick="document.all.syvum_g_bot.style.display = \'none\' == document.all.syvum_g_bot.style.display ? \'\' : \'none\';"><font color=blue face=arial size=-1><b>See ads related to this topic</b></font></span>');
+        document.writeln('<div id="syvum_g_bot" style="display:none">');
+      }
+  }
+// -->
+</script>
+<script type="text/javascript">
+google_ad_client = "pub-0582656916058535";
+google_alternate_ad_url = "http://www.syvum.com/cgi/showad.cgi";
+google_ad_width = 336;
+google_ad_height = 280;
+google_ad_format = "336x280_as";
+google_ad_type = "text";
+google_ad_channel ="9034378402";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 <script language="JavaScript">
+<!--
+if (document.all)
+  {
+    if (ads == "no")
+      {
+        document.writeln('</div>');
+      }
+  }
+// -->
+</script>
+</td><td>&nbsp;&nbsp;</td><td><script language="JavaScript">
 <!--
    if (ads == "no")
       {
       }
     else
       {
-        document.writeln('<iframe src="http://a.as-us.falkag.net/dat/dlv/aslframe.html?dat=76990&xl=468&yl=60&wrd=&prf=" width=468 height=60 noresize scrolling=no hspace=0 vspace=0 frameborder=0 marginheight=0 marginwidth=0>');
-        document.writeln('<scr' + 'ipt language="javascript" type="text/javascript">');
-        document.writeln("Ads_kid=0;Ads_bid=0;Ads_xl=468;Ads_yl=60;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='';Ads_prf='';Ads_par='';Ads_cnturl='';Ads_sec=0;Ads_channels='';");
-        document.writeln('</scr' + 'ipt>');
-        document.writeln('<scr' + 'ipt type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/07/69/90.js"></script>');
-
-        document.write ('<br><font size="-2">Click banner to visit Sponsor &nbsp; | &nbsp; <a href="/cgi/order.cgi?club12">Hide ads</a> &nbsp; | &nbsp; <a href="/biz/">Advertise here</a></font><br>');
+        document.writeln('<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=300 HEIGHT=250 SRC="http://ad.yieldmanager.com/imp?z=2&s=74&t=3"></IFRAME>');
       }
-// --&gt;
-
-
-</center>
-</td>
-<td bgcolor="#800040"><img src="/images/1.gif" height="1" width="2"></td>
-<td bgcolor="#ff9d3c" valign="top"><img src="/images/1.gif" width="125" height="1">
-<table bgcolor="#008000" border="1" width="100%">
-<tbody><tr><td align="center">
-<b><a href="/cgi/redirect.cgi?http://www.syvum.com/contests/">
-<img src="/images/newin6.gif" border="0" alt="NEW!" width="32" height="14"><br><font color="yellow">$$$ WIN $$$ PRIZES</font><br><font color="white">Enter Syvum Quizenius<br>Trivia Contest NOW !</font></a></b>
-</td></tr></tbody></table>
-<p>
-<script>
-fiSearchFormMaxObj=new Object();
-fiSearchFormMaxObj.type=1;
-fiSearchFormMaxObj.clrBdr='#800000';
-fiSearchFormMaxObj.clrBg='#FFFF00';
-fiSearchFormMaxObj.clrTtlTxt='#800000';
-fiSearchFormMaxObj.clrTagTxt='#800000';
-fiSearchFormMaxObj.width='120';
-fiSearchFormMaxObj.noBorder=false;
-</script>
-<script>fiSearchFormMaxSetId='AX005650';</script>
-<script src="http://bfc.myway.com/search/fiSearchMax.js"></script>
-</p><p>
-<!-- vertad1 -->
-</p><p>
-<script language="JavaScript1.2">
-function gIn(x){ if(document.getElementById||(document.all && !(document.getElementById))){ x.style.backgroundColor="#ffffff"; } }
-function gOut(x){ if(document.getElementById||(document.all && !(document.getElementById))){ x.style.backgroundColor="#ff9d3c"; } }
-</script>
-<table width="125" border="0" cellpadding="3" cellspacing="0" style="font: normal 9pt arial;">
-<tbody><tr><td align="center" onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/webshop/banners.html"><font color="maroon"><b>Suppress Pop-ups</b><font></font></font></a></td></tr>
-<tr><td align="center" onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/translation/">Online Translation - Dictionary</a></td></tr>
-<tr><td align="center" onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/translation/services.html">Translation Services</a></td></tr>
-<tr><td align="center" onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/cgi/redirect.cgi?syvumclickv">One-Click Lookups</a></td></tr>
-</tbody></table>
-</p><p>
-<script language="JavaScript">
-<!--
- if (ads == "no")
-{
-}
-else
-{
- document.writeln('<iframe src="http://a.as-us.falkag.net/dat/dlv/aslframe.html?dat=76995&xl=120&yl=600&wrd=&prf=" width=120 height=600 noresize scrolling=no hspace=0 vspace=0 frameborder=0 marginheight=0 marginwidth=0><script language="javascript" type="text/javascript">Ads_kid=0;Ads_bid=0;Ads_xl=120;Ads_yl=600;Ads_xp="";Ads_yp="";Ads_opt=0;Ads_wrd="";Ads_prf="";Ads_par="";Ads_cnturl="";Ads_sec=0;Ads_channels="";</script><script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/07/69/95.js"></script></iframe>');
-}
 // -->
-</script><iframe src="http://a.as-us.falkag.net/dat/dlv/aslframe.html?dat=76995&amp;xl=120&amp;yl=600&amp;wrd=&amp;prf=" width="120" height="600" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0"><script language="javascript" type="text/javascript">Ads_kid=0;Ads_bid=0;Ads_xl=120;Ads_yl=600;Ads_xp="";Ads_yp="";Ads_opt=0;Ads_wrd="";Ads_prf="";Ads_par="";Ads_cnturl="";Ads_sec=0;Ads_channels="";</script><script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/07/69/95.js"></script></iframe>
+</script><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="300" height="250" src="http://ad.yieldmanager.com/imp?z=2&amp;s=74&amp;t=3"></iframe>
 
+<noscript>
+<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=300 HEIGHT=250 SRC="http://ad.yieldmanager.com/imp?z=2&s=74&t=3"></IFRAME>
+</noscript>
+</td></tr></tbody></table>
 
+<p align="right">
+<font size="-2" face="verdana">Syvum in other languages: <a href="http://es.syvum.com/" target="_blank"><font color="red">Spanish / Español</font></a>, <a href="http://br.syvum.com/" target="_blank"><font color="red">Portuguese / Português</font></a></font>
 </p></td>
 </tr>
-<tr><td colspan="3"><table width="100%" bgcolor="maroon" cellspacing="0" border="0" style="font: normal 10pt arial;">
+<tr><td colspan="3"><script language="JavaScript">document.write('<table width="100%" bgcolor='+syvum_bs_a[2]+' cellspacing=0 border=0 style="font: normal 10pt arial;">');</script><noscript><table width="100%" bgcolor=#800040 cellspacing=0 border=0 style="font: normal 10pt arial;"></noscript><table width="100%" bgcolor="#800040" cellspacing="0" border="0" style="font: normal 10pt arial;">
 <tbody><tr><td width="33%"><a href="/contact.html"> <font color="white" size="-2">Contact Info</font></a></td>
 <td align="center" width="33%"><font color="white" size="-2"> © 1999-2005, Syvum Technologies Inc. </font></td>
 <td align="right" width="33%">
@@ -345,7 +481,7 @@ else
 </tr>
 </tbody></table>
 </td></tr></tbody></table>
-
+<!-- my_nie -->
  
  
 
