@@ -1,23 +1,10 @@
-> *The following text is extracted and transformed from the prophet.net privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406001020id_/http%3A//www.prophet.net/forms/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prophet.net privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212154717id_/http%3A//www.prophet.net/forms/privacy.jsp) for the most accurate reproduction.*
 
 # Prophet.Net | Home | Privacy Policy
 
-| 
+|  |  | 
 
-|   
----  
-  
-[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=33&CampaignID=318&AdvertiserID=40&BannerID=825&SiteID=0&RandomNumber=81338)
-
-|  | 
-
-[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=34&CampaignID=60&AdvertiserID=21&BannerID=151&SiteID=0&RandomNumber=43454)  
-  
-Share the power to profit! Email a friend to tell them about Prophet.Net.
-
-You can earn free service by referring your friends to Prophet through our membership referral program.
-
-| 
+ Privacy Statement of Prophet Financial Systems 
 
 Prophet Financial Systems, Inc. ("Prophet") is firmly committed to preserving your privacy. We do not, except under certain limited conditions described below, sell or distribute personal information regarding our customers or visitors to our website to third parties, though we reserve the right to transfer our customer list and customer information in connection with a purchase of our company, or of the business relating to those customers, or a corporate merger or similar transaction. 
 
@@ -41,7 +28,7 @@ This site gives users the following options for removing their information from 
 Palo Alto, CA 94301  
 
   3. Call:  
-1-650-322-4183 
+800.772.8040 (toll free) or 801.816.6080 
 
 
 
@@ -65,8 +52,3 @@ Prophet Financial Systems
 Palo Alto, CA 94301 
 
 [contact our support team](https://web.archive.org/help/contact.jsp?subject=TECHSUPPORT)
-
-|  | 
-
-[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=50&CampaignID=312&AdvertiserID=44&BannerID=739&SiteID=0&RandomNumber=93234)  
-| 
