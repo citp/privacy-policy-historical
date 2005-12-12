@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207014934id_/http%3A//web.naplesnews.com/sections/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212112459id_/http%3A//web.naplesnews.com/sections/help/privacy.html) for the most accurate reproduction.*
 
 # naplesnews.com | Privacy Policy
 
