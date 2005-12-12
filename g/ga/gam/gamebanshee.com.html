@@ -1,14 +1,70 @@
-<!--The following is the downloaded HTML source of the gamebanshee.com privacy policy that was archived on 2005-02-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050204062330id_/http%3A//www.gamebanshee.com/sitefeatures/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamebanshee.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212051248id_/http%3A//gamebanshee.com/sitefeatures/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Site Features @ GameBanshee</title>
-<script src="/javascript/popups.js" type="text/javascript" language="JavaScript1.2"></script>
+<script language="Javascript" src="/hostPageScript.js"></script>
 <script src="/javascript/dropdown.js" type="text/javascript" language="JavaScript1.2"></script>
 <script src="/javascript/showshot.js" type="text/javascript" language="JavaScript1.2"></script>
+<!-- begin popup code -->
+<script language="JavaScript">
+<!--
+function getCookieValue(cookieName)
+{
+   var  cookieValue = document.cookie;
+   var cookieStartsAt = cookieValue.indexOf(" " + cookieName + "=");
+   if (cookieStartsAt == -1)
+   {
+       cookieStartsAt = cookieValue.indexOf(cookieName + "=");
+   }
+   if (cookieStartsAt == -1)
+   {
+       cookieValue = null;
+   }
+   else
+   {
+       cookieStartsAt = cookieValue.indexOf("=",  cookieStartsAt) + 1;
+       var cookieEndsAt = cookieValue.indexOf(";",  cookieStartsAt);
+       if (cookieEndsAt == -1)
+       {
+            cookieEndsAt = cookieValue.length;
+       }
+       cookieValue = unescape(cookieValue.substring(cookieStartsAt, cookieEndsAt));
+   }
+   return cookieValue;
+}
+function setCookie(cookieName, cookieValue, cookiePath, cookieExpires)
+{
+     cookieValue = escape(cookieValue);
+     if (cookieExpires == "")
+     {
+         var nowDate = new Date();
+         nowDate.setMinutes(nowDate.getMinutes() + 60);
+         cookieExpires = nowDate.toGMTString();
+     }
+     if (cookiePath != "")
+     {
+        cookiePath = ";Path=" + cookiePath;
+     }
+     document.cookie = cookieName + "=" + cookieValue + ";expires=" + cookieExpires + cookiePath;
+}
+//-->
+</script>
+<script language="JavaScript">
+<!--
+var popCap = getCookieValue("PopCap");
+if (popCap == null)
+{
+    var nowDate = new Date();
+    document.write('<scr' + 'ipt language="javascript1.1" src="http://mediamgr.ugo.com:80/js.ng/Network=ugo&size=1x1&adtype=under&affiliate=gamebanshee&suba=gamebanshee&channel=games&subchannel=pc&category=rpg&PT=ct&CR=ti&pez=tic"></scr' + 'ipt>');
+    setCookie("PopCap", nowDate.toGMTString(),"/","");
+}
+//-->
+</script>
+<!-- end popup code -->
 <link rel="stylesheet" type="text/css" href="/banshee.css">
 <meta name="Keywords" content="game, banshee, microsoft, xbox, sony, playstation, ps1, ps2, sega, dreamcast, nintendo, gamecube, game boy, games, gamer, gamers, gaming, cheat, cheats, code, codes, RPG, rpg, role, playing, forum, preview, previews, review, reviews, search, searchable, database, equipment, item, items, spell, spells, quest, quests, forums, message board, screenshot, screenshots, magic, dungeons, dragons, bestiary, faq, strategy, strategies, walkthrough">
-<meta name="Description" content="Daily news, reviews, interviews, previews, screenshots, walkthroughs, databases, cheats, and more for PC, Xbox, GameCube, Playstation, and Game Boy Advance.">
+<meta name="Description" content="The most comprehensive RPG coverage on the internet!  Daily news, interviews, reviews, previews, walkthroughs, databases, and more for PC, Xbox, and Playstation.">
 </head>
 <body background="/images/bg.gif" bgcolor="#000000" text="#FFFFFF" link="#FFE28B" vlink="#FFE28B" alink="#FFE28B" leftmargin="0" marginwidth="0" topmargin="7" bottommargin="7" marginheight="10">
 <table width="760" border="0" cellpadding="1" cellspacing="0" align="center" bgcolor="#444444">
@@ -18,25 +74,35 @@
 
 <!-- begin gamebanshee login -->
 <table width="215" height="60" border="0" cellspacing="0" cellpadding="1" align="center" bgcolor="#202020">
-<form action="http://www.gamebanshee.com/forums/login.php" method="post" name="submit_form" onsubmit="md5hash(vb_login_password,vb_login_md5password)"></form>
-<script type="text/javascript" src="/forums/clientscript/vbulletin_md5.js"></script>
-<tbody><tr height="8" valign="top"><td colspan="2" align="center">
-<img src="/images/login.gif" height="8" width="215"></td></tr>
-<tr valign="top"><td width="50%" align="center"><input type="text" class="gb10" name="vb_login_username" id="navbar_username" size="10" style="height:18" accesskey="u" tabindex="1" value="User Name" onfocus="if (this.value == 'User Name') this.value = '';"></td><td width="50%" align="center"><input type="password" class="button" name="vb_login_password" size="10" style="height:18" accesskey="p" tabindex="2"></td></tr>
-<tr valign="middle"><td align="center" colspan="2"><a href="http://www.gamebanshee.com/forums/register.php"><span class="gb11">Register</span></a>&nbsp;&nbsp;<span class="gb11">:</span>&nbsp;&nbsp;<a href="http://www.gamebanshee.com/forums/login.php?do=lostpw"><span class="gb11">Lost Password</span></a>&nbsp;&nbsp;<span class="gb11">:</span>&nbsp;&nbsp;<input type="submit" class="gb12" value="Go!" title="Enter your username and password in the boxes provided to login." style="height:20"></td></tr>
-<input type="hidden" name="cookieuser" value="1" id="cb_cookieuser_navbar">
-<input type="hidden" name="s" value="">
-<input type="hidden" name="do" value="login">
-<input type="hidden" name="forceredirect" value="1">
-<input type="hidden" name="vb_login_md5password">
-
-</tbody></table>
-<!-- end gamebanshee login -->
+	
+		<!-- login form -->
+		<form action="http://www.gamebanshee.com/forums/login.php" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)"></form>
+		<script type="text/javascript" src="http://www.gamebanshee.com/forums/clientscript/vbulletin_md5.js"></script>
+		<tbody><tr height="8" valign="top"><td colspan="2" align="center"><img src="/images/login.gif" height="8" width="215"></td></tr>
+		<tr valign="top">
+			<td width="50%" align="center"><input type="text" class="gb10" name="vb_login_username" id="navbar_username" size="10" style="height:18" accesskey="u" tabindex="10" value="User Name" onfocus="if (this.value == 'User Name') this.value = '';"></td>
+			<td width="50%" align="center"><input type="password" class="button" name="vb_login_password" size="10" style="height:18" accesskey="p" tabindex="11"></td>
+		</tr>
+		<tr valign="middle">
+			<td align="center" colspan="2">
+				<a href="http://www.gamebanshee.com/forums/register.php"><span class="gb11">Register</span></a>&nbsp;&nbsp;<span class="gb11">:</span>&nbsp;&nbsp;<a href="http://www.gamebanshee.com/forums/login.php?do=lostpw"><span class="gb11">Lost Password</span></a>&nbsp;&nbsp;<span class="gb11">:</span>&nbsp;&nbsp;<input type="submit" class="gb12" value="Go!" title="Enter your username and password in the boxes provided to login." style="height:20">
+			</td>
+		</tr>
+		<input type="hidden" name="s" value="c2f2815ddac8753703692d326572a730">
+		<input type="hidden" name="do" value="login">		
+		<input type="hidden" name="vb_login_md5password">
+		<input type="hidden" name="vb_login_md5password_utf">
+		
+		<!-- / login form -->
+		
+		
+	
+	</tbody></table><!-- end gamebanshee login -->
 
 </td></tr><tr height="1"><td width="100%" colspan="5"><img src="/images/pixel.gif" width="100%" height="1"></td></tr><tr valign="middle" height="19"><td width="1" height="19" align="right"><img src="/images/pixel.gif" width="1" height="19"></td><td align="left" colspan="3" width="673" bgcolor="#000000"><iframe width="673" height="18" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" src="http://www.ugo.com/syndicatedContent/todayOnUGO/680x18_IframeContent.asp?channel=games&amp;site=gamebanshee&amp;bgcolor=000000&amp;fontcolor=ffffff"></iframe></td></tr><tr><td width="100%" colspan="5"><img src="/images/pixel.gif" width="100%" height="1"></td></tr></tbody></table>
 <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#000000"><tbody><tr height="8"><td></td></tr>
 <!-- begin 728 x 90 advertisement -->
-<tr><td align="center"><!-- AdSpace Network=ugo size=728x90 adtype=under affiliate=gamebanshee suba=gamebanshee channel=games subchannel=pc category=rpg PT=ct CR=ti pez=tic --> <iframe width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://mediamgr.ugo.com:80/html.ng/Network=ugo&amp;size=728x90&amp;adtype=under&amp;affiliate=gamebanshee&amp;suba=gamebanshee&amp;channel=games&amp;subchannel=pc&amp;category=rpg&amp;PT=ct&amp;CR=ti&amp;pez=tic"><script language="javascript1.1" src="http://mediamgr.ugo.com:80/js.ng/params.richmedia=yes&Network=ugo&size=728x90&adtype=under&affiliate=gamebanshee&suba=gamebanshee&channel=games&subchannel=pc&category=rpg&PT=ct&CR=ti&pez=tic"></script><noscript><a target='_blank' href="http://gamebanshee.com/phpAdsNew/adclick.php?bannerid=1&amp;zoneid=1&amp;source=&amp;dest=http%3A%2F%2Fmediamgr.ugo.com%3A80%2Fclick.ng%2Fparams.richmedia%3Dyes%26UID%3D%24random%24%26Network%3Dugo%26size%3D728x90%26adtype%3Dunder%26affiliate%3Dgamebanshee%26suba%3Dgamebanshee%26channel%3Dgames%26subchannel%3Dpc%26category%3Drpg%26PT%3Dct%26CR%3Dti%26pez%3Dtic&amp;ismap="><img src="http://mediamgr.ugo.com:80/image.ng/params.richmedia=yes&UID=$random$&Network=ugo&size=728x90&adtype=under&affiliate=gamebanshee&suba=gamebanshee&channel=games&subchannel=pc&category=rpg&PT=ct&CR=ti&pez=tic" border=0></a></noscript></iframe><!-- /AdSpace --><div id="beacon_1" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://gamebanshee.com/phpAdsNew/adlog.php?bannerid=1&amp;clientid=2&amp;zoneid=1&amp;source=&amp;block=0&amp;capping=0&amp;cb=46b3f47bdc187d0bff4689343f7948dc" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td></tr>
+<tr><td align="center"><!-- AdSpace Network=ugo size=728x90 adtype=under affiliate=gamebanshee suba=gamebanshee channel=games subchannel=pc category=rpg PT=ct CR=ti pez=tic --> <iframe width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://mediamgr.ugo.com:80/html.ng/Network=ugo&amp;size=728x90&amp;adtype=under&amp;affiliate=gamebanshee&amp;suba=gamebanshee&amp;channel=games&amp;subchannel=pc&amp;category=rpg&amp;PT=ct&amp;CR=ti&amp;pez=tic"><script language="javascript1.1" src="http://mediamgr.ugo.com:80/js.ng/params.richmedia=yes&Network=ugo&size=728x90&adtype=under&affiliate=gamebanshee&suba=gamebanshee&channel=games&subchannel=pc&category=rpg&PT=ct&CR=ti&pez=tic"></script><noscript><a target='_blank' href="http://www.gamebanshee.com/phpAdsNew/adclick.php?bannerid=1&amp;zoneid=1&amp;source=&amp;dest=http%3A%2F%2Fmediamgr.ugo.com%3A80%2Fclick.ng%2Fparams.richmedia%3Dyes%26UID%3D%24random%24%26Network%3Dugo%26size%3D728x90%26adtype%3Dunder%26affiliate%3Dgamebanshee%26suba%3Dgamebanshee%26channel%3Dgames%26subchannel%3Dpc%26category%3Drpg%26PT%3Dct%26CR%3Dti%26pez%3Dtic&amp;ismap="><img src="http://mediamgr.ugo.com:80/image.ng/params.richmedia=yes&UID=$random$&Network=ugo&size=728x90&adtype=under&affiliate=gamebanshee&suba=gamebanshee&channel=games&subchannel=pc&category=rpg&PT=ct&CR=ti&pez=tic" border=0></a></noscript></iframe><!-- /AdSpace --><div id="beacon_1" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.gamebanshee.com/phpAdsNew/adlog.php?bannerid=1&amp;clientid=2&amp;zoneid=1&amp;source=&amp;block=0&amp;capping=0&amp;cb=721068f40f0382ebb58075b4fecc2b4a" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td></tr>
 <tr height="8"><td></td></tr>
 <!-- end 728 x 90 advertisement -->
 <tr><td width="100%"><img src="/images/pixel.gif" width="100%" height="1"></td></tr></tbody></table>
@@ -65,37 +131,48 @@
 </option><option value="/beyonddivinity/">Beyond Divinity
 </option><option value="/championsofnorrath/">Champions of Norrath
 </option><option value="/championsreturntoarms/">Champions: RtA
+</option><option value="/curseoftheazurebonds/">Crse of the Azre Bnds
 </option><option value="/dndheroes/">D&amp;D Heroes
 </option><option value="/dndonline/">D&amp;D Online
 </option><option value="/darkageofcamelot/">Dark Age of Camelot
+</option><option value="/demonstone/">Demon Stone
 </option><option value="/deusex/">Deus Ex
 </option><option value="/deusexinvisiblewar/">Deus Ex: Invisible War
 </option><option value="/diablo/">Diablo
 </option><option value="/diabloii/">Diablo II
 </option><option value="/divinedivinity/">Divine Divinity
+</option><option value="/dragonshard/">Dragonshard
 </option><option value="/dragonage/">Dragon Age
+</option><option value="/dungeonlords/">Dungeon Lords
 </option><option value="/dungeonsiege/">Dungeon Siege
 </option><option value="/dungeonsiegeii/">Dungeon Siege II
-</option><option value="/fable/">Fable
+</option><option value="/morrowind/">ES III: Morrowind
+</option><option value="/oblivion/">ES IV: Oblivion
+</option><option value="/fable/">Fable + TLC
 </option><option value="/fallout/">Fallout
 </option><option value="/fallout2/">Fallout 2
 </option><option value="/fallout3/">Fallout 3
 </option><option value="/falloutbos/">Fallout: BoS
 </option><option value="/freedomforce/">Freedom Force
 </option><option value="/freedomforcevsthethirdreich/">FF vs. the Third Reich
+</option><option value="/hellgatelondon/">Hellgate: London
 </option><option value="/icewinddale/">Icewind Dale
 </option><option value="/icewinddaleii/">Icewind Dale II
 </option><option value="/jadeempire/">Jade Empire
 </option><option value="/lionheart/">Lionheart
-</option><option value="/morrowind/">Morrowind
+</option><option value="/masseffect/">Mass Effect
 </option><option value="/neverwinternights/">Neverwinter Nights
+</option><option value="/neverwinternights2/">Neverwinter Nights 2
 </option><option value="/planescapetorment/">Planescape: Torment
 </option><option value="/poolofradiance/">Pool of Radiance
+</option><option value="/poolofradianceromd/">Pool of Radiance: RoMD
 </option><option value="/starwarskotor/">Star Wars: KotOR
 </option><option value="/starwarskotorii/">Star Wars: KotOR II
 </option><option value="/templeofelementalevil/">Temple of Elmntl Evil
+</option><option value="/thewitcher/">The Witcher
 </option><option value="/vampirebloodlines/">Vampire: Bloodlines
 </option><option value="/vampireredemption/">Vampire: Redemption
+</option><option value="/wizardswarriors/">Wizards &amp; Warriors
 </option><option value="/worldofwarcraft/">World of Warcraft
 </option><option value="/xmenlegends/">X-Men Legends
 </option></select>
@@ -108,7 +185,23 @@
 <tr>
 </tr>
 <tr bordercolor="#444444" valign="top">
-<td bgcolor="#000000"><center><!-- AdSpace Network=ugo size=120x600 adtype=under affiliate=gamebanshee suba=gamebanshee channel=games subchannel=pc category=rpg PT=ct CR=ti pez=tic --> <iframe width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://mediamgr.ugo.com:80/html.ng/Network=ugo&amp;size=120x600&amp;adtype=under&amp;affiliate=gamebanshee&amp;suba=gamebanshee&amp;channel=games&amp;subchannel=pc&amp;category=rpg&amp;PT=ct&amp;CR=ti&amp;pez=tic"><script language="javascript1.1" src="http://mediamgr.ugo.com:80/js.ng/params.richmedia=yes&Network=ugo&size=120x600&adtype=under&affiliate=gamebanshee&suba=gamebanshee&channel=games&subchannel=pc&category=rpg&PT=ct&CR=ti&pez=tic"></script><noscript><a target='_blank' href="http://gamebanshee.com/phpAdsNew/adclick.php?bannerid=2&amp;zoneid=2&amp;source=&amp;dest=http%3A%2F%2Fmediamgr.ugo.com%3A80%2Fclick.ng%2Fparams.richmedia%3Dyes%26UID%3D%24random%24%26Network%3Dugo%26size%3D120x600%26adtype%3Dunder%26affiliate%3Dgamebanshee%26suba%3Dgamebanshee%26channel%3Dgames%26subchannel%3Dpc%26category%3Drpg%26PT%3Dct%26CR%3Dti%26pez%3Dtic&amp;ismap="><img src="http://mediamgr.ugo.com:80/image.ng/params.richmedia=yes&UID=$random$&Network=ugo&size=120x600&adtype=under&affiliate=gamebanshee&suba=gamebanshee&channel=games&subchannel=pc&category=rpg&PT=ct&CR=ti&pez=tic" border=0></a></noscript></iframe><!-- /AdSpace --><div id="beacon_2" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://gamebanshee.com/phpAdsNew/adlog.php?bannerid=2&amp;clientid=3&amp;zoneid=2&amp;source=&amp;block=0&amp;capping=0&amp;cb=eaccc33fe34d24e5438891044feb3001" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></center></td>
+<td align="left" bgcolor="#202020"><span class="gb12bold">&nbsp;Banshee Swag</span></td>
+</tr>
+<tr bordercolor="#444444" valign="top">
+<td bgcolor="#202020">
+<span class="gb11">
+<center>
+<a href="http://www.jinx.com/GameBanshee"><img src="/images/gamebansheetshirt.jpg" border="0"></a>
+</center>
+</span>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr bordercolor="#444444" valign="top">
+<td bgcolor="#000000"><center><a href="http://www.gamebanshee.com/phpAdsNew/adclick.php?bannerid=44&amp;zoneid=2&amp;source=&amp;dest=http%3A%2F%2Fwww.klipsch.com%2Fclicks.aspx%3Fid%3D13" target="_blank"><img src="http://www.gamebanshee.com/phpAdsNew/adimage.php?filename=120x600_gamebanshee.gif&amp;contenttype=gif" width="120" height="600" alt="" title="" border="0"></a><div id="beacon_44" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.gamebanshee.com/phpAdsNew/adlog.php?bannerid=44&amp;clientid=30&amp;zoneid=2&amp;source=&amp;block=86400&amp;capping=0&amp;cb=6860487d30892ecc84dfae8ffd6b59a3" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></center></td>
 </tr>
 <tr>
 </tr>
