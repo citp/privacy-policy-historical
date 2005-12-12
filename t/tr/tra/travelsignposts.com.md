@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404235013id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160041id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
 
 # Travel Signposts
 
@@ -13,35 +13,31 @@ Our Privacy Statement  |
 
 ##### 
 
-[](http://216.92.159.120/Destinations/Siena/italy_0139)  
-A fish-eye view of Piazza del Campo [Siena - Italy]  
- _From:_[Siena](http://216.92.159.120/Destinations/Siena)
-
 | 
 
 Travel Signposts Forums Latest  
   
 ---  
   
-| [**We Need Your Help**](http://www.travelsignposts.com/forums/index.php?showtopic=9) in [Other European Touring Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**Sheldon**](http://www.travelsignposts.com/forums/index.php?showuser=13) at **Mar 21 2005, 03:33 AM** )  
+| [**On the...**](http://www.travelsignposts.com/forums/index.php?showtopic=30) in [On The Road Advice](http://www.travelsignposts.com/forums/index.php?) (Started by [**moroccooverlandtours.com**](http://www.travelsignposts.com/forums/index.php?showuser=29) at **Dec 11 2005, 10:50 PM** )  
 ---  
-Replies: **0** :: Views: **23** :: Last comment by **[Sheldon](http://www.travelsignposts.com/forums/index.php?showuser=13)** at **Mar 21 2005, 03:33 AM**  
+Replies: **0** :: Views: **2** :: Last comment by **[moroccooverlandtours.com](http://www.travelsignposts.com/forums/index.php?showuser=29)** at **Dec 11 2005, 10:50 PM**  
   
-[**Travel to Russia**](http://www.travelsignposts.com/forums/index.php?showtopic=8) in [Other European Touring Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**maria**](http://www.travelsignposts.com/forums/index.php?showuser=11) at **Feb 14 2005, 03:29 AM** )  
+[**lets stay.....**](http://www.travelsignposts.com/forums/index.php?showtopic=29) in [Let's Stay In Touch](http://www.travelsignposts.com/forums/index.php?) (Started by [**moroccooverlandtours.com**](http://www.travelsignposts.com/forums/index.php?showuser=29) at **Dec 11 2005, 10:49 PM** )  
 ---  
-Replies: **0** :: Views: **115** :: Last comment by **[maria](http://www.travelsignposts.com/forums/index.php?showuser=11)** at **Feb 14 2005, 03:29 AM**  
+Replies: **0** :: Views: **2** :: Last comment by **[moroccooverlandtours.com](http://www.travelsignposts.com/forums/index.php?showuser=29)** at **Dec 11 2005, 10:49 PM**  
   
-[**Apartment for rent Odessa, Ukraine**](http://www.travelsignposts.com/forums/index.php?showtopic=7) in [Other European Touring Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**odessacity**](http://www.travelsignposts.com/forums/index.php?showuser=9) at **Jan 24 2005, 03:36 PM** )  
+[**All Venice hotels**](http://www.travelsignposts.com/forums/index.php?showtopic=28) in [European Coach Tour Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**Izaura**](http://www.travelsignposts.com/forums/index.php?showuser=0) at **Dec 7 2005, 06:42 AM** )  
 ---  
-Replies: **0** :: Views: **185** :: Last comment by **[odessacity](http://www.travelsignposts.com/forums/index.php?showuser=9)** at **Jan 24 2005, 03:36 PM**  
+Replies: **0** :: Views: **9** :: Last comment by **[Izaura](http://www.travelsignposts.com/forums/index.php?showuser=0)** at **Dec 7 2005, 06:42 AM**  
   
-[**Photos - what format and where to post**](http://www.travelsignposts.com/forums/index.php?showtopic=6) in [Photography](http://www.travelsignposts.com/forums/index.php?) (Started by [**ampphoto**](http://www.travelsignposts.com/forums/index.php?showuser=7) at **Nov 4 2004, 04:27 PM** )  
+[**Where to stay in Milan?**](http://www.travelsignposts.com/forums/index.php?showtopic=27) in [Pre-Trip Advice](http://www.travelsignposts.com/forums/index.php?) (Started by [**Traveler**](http://www.travelsignposts.com/forums/index.php?showuser=28) at **Dec 6 2005, 07:34 AM** )  
 ---  
-Replies: **0** :: Views: **312** :: Last comment by **[ampphoto](http://www.travelsignposts.com/forums/index.php?showuser=7)** at **Nov 4 2004, 04:27 PM**  
+Replies: **0** :: Views: **6** :: Last comment by **[Traveler](http://www.travelsignposts.com/forums/index.php?showuser=28)** at **Dec 6 2005, 07:34 AM**  
   
-[**The European Alpine Region**](http://www.travelsignposts.com/forums/index.php?showtopic=5) in [List Your Vacation Photo Album](http://www.travelsignposts.com/forums/index.php?) (Started by [**ampphoto**](http://www.travelsignposts.com/forums/index.php?showuser=7) at **Nov 4 2004, 02:34 PM** )  
+[**Planning a trip to Vienna? Looking for a hotel?**](http://www.travelsignposts.com/forums/index.php?showtopic=26) in [Pre-Trip Advice](http://www.travelsignposts.com/forums/index.php?) (Started by [**Snoopy**](http://www.travelsignposts.com/forums/index.php?showuser=27) at **Nov 23 2005, 07:49 AM** )  
 ---  
-Replies: **0** :: Views: **321** :: Last comment by **[ampphoto](http://www.travelsignposts.com/forums/index.php?showuser=7)** at **Nov 4 2004, 02:34 PM**  
+Replies: **0** :: Views: **19** :: Last comment by **[Snoopy](http://www.travelsignposts.com/forums/index.php?showuser=27)** at **Nov 23 2005, 07:49 AM**  
   
   
   
