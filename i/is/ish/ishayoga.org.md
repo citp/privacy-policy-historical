@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishayoga.org privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309131313id_/http%3A//www.ishayoga.org/copyright.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishayoga.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212121319id_/http%3A//www.ishayoga.org/home/copyright.asp) for the most accurate reproduction.*
 
 # Isha Yoga for effortless living
 
