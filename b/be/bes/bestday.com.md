@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623082606id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212110535id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy - www.bestday.com
 
 Viajes Beda S.A. de C.V. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Bestday.com.
 
@@ -29,9 +29,9 @@ Contact Data
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Viajes Beda S.A. de C.V.   
-Blvd. Kukulcán Km. 5.5 Edif.A Local 1   
-Sótano Hotel Gran Caribe Real  
-Z.H. Cancún Q.Roo México C.P. 77500
+Boulevard Kukulcan km. 4.5 Lote D 7 Secc. Res. D   
+Zona Hotelera  
+Cancun Q.Roo Mexico C.P. 77500
 
 [_Contact Us_ ](https://web.archive.org/ContactUs)  
 
