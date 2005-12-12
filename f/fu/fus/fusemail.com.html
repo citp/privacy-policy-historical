@@ -1,20 +1,196 @@
-<!--The following is the downloaded HTML source of the fusemail.com privacy policy that was archived on 2005-03-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050307223956id_/http%3A//www.fusemail.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fusemail.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212131433id_/http%3A//www.fusemail.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>FuseMail </title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>FuseMail, the Business Email Hosting Services Provider  </title>
 
-<meta name="Description" content="FuseMail allows you to check all of your email accounts from any computer using your favorite mail client.  All mail is stored on our reliable servers where it can be accessed from anywhere.  Store your MS Outlook Address Books, Calendar, Notes, Task List, and Journal on our servers and access anywhere. The perfect complete email business solution.">
-<meta name="Keywords" content="consolidated mail anywhere imap mail hosting anti-virus protection centralized address book notes journal contact list task list business mail business e-mail business mail group group e-mail webmail client email client">
+<meta name="Description" content="Email Hosting - Business Email - Email Service - FuseMail allows you to check all of your email accounts from any computer using your favorite mail client.  The perfect solution for business email and email hosting needs.  All mail is stored on our reliable servers where it can be accessed from anywhere.  Store your MS Outlook Address Books, Calendar, Notes, Task List, and Journal on our servers and access anywhere. The perfect complete email business solution.">
+<meta name="Keywords" content="business email email service email hosting consolidated mail anywhere imap mail hosting anti-virus protection centralized address booknotes journal contact list task list business mail business e-mail business mail group group e-mail webmail client email client">
 <meta name="Title" content="FuseMail ">
 <meta name="Channel" content="FuseMail">
 <meta name="Author" content="FuseMail, LLC">
-<meta name="Date" content="2005-03-01">
+<meta name="Date" content="2005-12-12">
 <meta name="Copyright" content="2005 FuseMail, LLC">
-<meta name="robots" content="ALL">
+<meta name="robots" content="Index All">
+<meta name="revisit" content="10 days">
+<meta name="distribution" content="Global">
 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<link href="/styles.css" rel="stylesheet" type="text/css">
 <script language="JavaScript" type="text/JavaScript">
 <!--
+
+
+var agt=navigator.userAgent.toLowerCase();
+var is_major = parseInt(navigator.appVersion);
+var is_minor = parseFloat(navigator.appVersion);
+var is_safari = (agt.indexOf("safari") != -1);
+var is_nav = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
+&& (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
+&& (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1)
+&& (!is_safari) );
+var is_nav2 = (is_nav && (is_major == 2));
+var is_nav3 = (is_nav && (is_major == 3));
+var is_nav4 = (is_nav && (is_major == 4)); 
+var is_nav4up = (is_nav && (is_major >= 4));
+var is_navonly = (is_nav && ((agt.indexOf(";nav") != -1) ||
+(agt.indexOf("; nav") != -1)) );
+var is_nav6 = (is_nav && (is_major == 5));
+var is_nav6up = (is_nav && (is_major >= 5));
+var is_gecko = (agt.indexOf('gecko') != -1);
+var is_ie = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1)
+&& (!is_safari) );
+var is_ie3 = (is_ie && (is_major < 4));
+var is_ie4 = (is_ie && (is_major == 4) && (agt.indexOf("msie 4")!=-1) );
+var is_ie4up = (is_ie && (is_major >= 4));
+var is_ie5 = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) );
+var is_ie5_5 = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.5") !=-1));
+var is_ie5up = (is_ie && !is_ie3 && !is_ie4);
+var is_ie5_5up =(is_ie && !is_ie3 && !is_ie4 && !is_ie5);
+var is_ie6 = (is_ie && (is_major == 4) && (agt.indexOf("msie 6.")!=-1) );
+var is_ie6up = (is_ie && !is_ie3 && !is_ie4 && !is_ie5 && !is_ie5_5);
+var is_opera = (agt.indexOf("opera") != -1);
+var is_mac = (agt.indexOf("mac")!=-1);
+var is_iemac = (is_ie && is_mac);
+
+current = '://webmail.fusemail.com/sq/src/webmail.php';
+changessl = 0;
+function changeSSL(obj) {
+        var formobj = document.getElementById('myform2');
+                
+        var thisnew = 'https';
+        if(obj.checked != true)
+                thisnew = 'http';
+  
+        formobj.action = thisnew + current;
+        changessl = 1;
+}
+function doSubmit() {
+        //set or not set cookie  
+        if(document.getElementById('public').checked != true) {
+                Set_Cookie("FuseLastUser",document.getElementById('user').value);
+        }else{
+                Delete_Cookie("FuseLastUser");
+        }               
+        if(changessl == 1) {
+                Set_Cookie("FuseLastSSL",document.getElementById('SSL').checked);
+	}
+        if(changeversion == 1) {
+                Set_Cookie("FuseLastVersion",document.getElementById('myversion').selectedIndex);
+	}
+	if(document.getElementById('public').checked == true) {
+		Delete_Cookie("FuseLastPublic");
+                Set_Cookie("FuseLastPublic",1);
+	}else{
+		Delete_Cookie("FuseLastPublic");
+//                Set_Cookie("FuseLastPublic",0);
+	}
+}                       
+changeversion = 0;
+function changeVersion(obj) {
+        var pre = 'https';
+        if(document.getElementById('SSL').checked != true)
+                pre = 'http';
+ 
+        if(obj.selectedIndex == 0)
+                current =  "://webmail.fusemail.com/sq/src/webmail.php";
+        else if(obj.selectedIndex == 1)
+                current = "://www.fusemail.com/sq/src/webmail.php";
+        else if(obj.selectedIndex == 2)
+                current = "://www.fusemail.com/mobile/src/redirect.php";
+        
+        document.getElementById('myform2').action = pre + current;
+        changeversion = 1;
+} 
+function Get_Cookie(name) {
+    var start = document.cookie.indexOf(name+"=");   
+    var len = start+name.length+1;
+    if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
+    if (start == -1) return null;
+    var end = document.cookie.indexOf(";",len);
+    if (end == -1) end = document.cookie.length;
+    return unescape(document.cookie.substring(len,end));
+}
+                        
+function Set_Cookie(name,value,expires,path,domain,secure) {
+        if(!expires) {
+                var expires = new Date();
+                expires.setTime(expires.getTime() + 86400*30*1000);
+        }
+                        
+    document.cookie = name + "=" +escape(value) +
+        ( (expires) ? ";expires=" + expires.toGMTString() : "") +
+        ( (path) ? ";path=" + path : "") +
+        ( (domain) ? ";domain=" + domain : "") +
+        ( (secure) ? ";secure" : "");
+}
+
+        
+function Delete_Cookie(name,path,domain) {
+    if (Get_Cookie(name)) document.cookie = name + "=" +
+       ( (path) ? ";path=" + path : "") +
+       ( (domain) ? ";domain=" + domain : "") +
+       ";expires=Thu, 01-Jan-70 00:00:01 GMT";
+}       
+function loadLogin() {
+        var lastUser = Get_Cookie("FuseLastUser");
+        var lastVers = Get_Cookie("FuseLastVersion");
+        var lastSSL = Get_Cookie("FuseLastSSL");
+        var lastToggle = Get_Cookie("FuseLastToggle");
+        var lastPublic = Get_Cookie("FuseLastPublic");
+//alert(lastSSL);
+//alert(lastToggle);
+//	toggleLogin();
+	    
+
+        if(lastVers == null) {   
+                if(is_ie5up || is_nav6up) {
+                        current = "://webmail.fusemail.com/sq/src/webmail.php";
+                        document.getElementById('myversion').selectedIndex = 0;
+                }else{  
+                        current = "://www.fusemail.com/sq/src/webmail.php";
+                        document.getElementById('myversion').selectedIndex = 1;
+                }
+        }else{  
+                document.getElementById('myversion').selectedIndex = lastVers;
+                if(lastVers == 1)
+                        current = "://www.fusemail.com/sq/src/webmail.php";
+                else if(lastVers == 2)
+                        current = "://www.fusemail.com/mobile/src/redirect.php";
+        
+        
+        }
+ 
+        var pre = 'https';
+        if(lastSSL != null) {
+                if(lastSSL != 'true') {
+                        pre = 'http';
+                        document.getElementById('SSL').checked = false;
+		}
+        }
+
+        if(lastPublic == '1') {
+		document.getElementById('public').checked = true;
+        }
+	if(isLoginOpen == 1) {
+	        if(lastUser != null) {
+        	        document.getElementById('user').value = lastUser;
+                	document.getElementById('password').focus();
+	        }else
+        	        document.getElementById('user').focus();
+        }
+
+        var formobj = document.getElementById('myform2');  
+        formobj.action = pre + current;
+        if(is_ie5up || is_nav6up) {
+                if(document.getElementById('demourl'))
+                        document.getElementById('demourl').innerHTML = "<a target = '_new2' title = \"Demo the powerful unique FuseMail Web Application Client\" href=\"http://webmail.fusemail.com/sq/src/webmail.php?user=demo&password=demo&DoLogin=Y\" onmouseover=\"MM_swapImage('demo','','images/home/demo_over.gif',1)\" onmouseout=\"MM_swapImgRestore()\"><img src=\"images/home/demo.gif\" name=\"demo\" width=\"167\" height=\"25\" border=\"0\" id=\"demo\" /></a>";
+        }
+
+
+}
+
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
@@ -37,220 +213,144 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
+
+function MM_jumpMenuGo(selName,targ,restore){ //v3.0
+  var selObj = MM_findObj(selName); if (selObj) MM_jumpMenu(targ,selObj,restore);
+}
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
 //-->
-
-var agt=navigator.userAgent.toLowerCase();
-var is_major = parseInt(navigator.appVersion);
-var is_minor = parseFloat(navigator.appVersion);
-var is_safari = (agt.indexOf("safari") != -1);
-var is_nav = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
-&& (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
-&& (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1)
-&& (!is_safari) );
-var is_nav2 = (is_nav && (is_major == 2));
-var is_nav3 = (is_nav && (is_major == 3));
-var is_nav4 = (is_nav && (is_major == 4));
-var is_nav4up = (is_nav && (is_major >= 4));
-var is_navonly = (is_nav && ((agt.indexOf(";nav") != -1) ||
-(agt.indexOf("; nav") != -1)) );
-var is_nav6 = (is_nav && (is_major == 5));
-var is_nav6up = (is_nav && (is_major >= 5));
-var is_gecko = (agt.indexOf('gecko') != -1);
-var is_ie = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1)
-&& (!is_safari) );
-var is_ie3 = (is_ie && (is_major < 4));
-var is_ie4 = (is_ie && (is_major == 4) && (agt.indexOf("msie 4")!=-1) );
-var is_ie4up = (is_ie && (is_major >= 4));
-var is_ie5 = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) );
-var is_ie5_5 = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.5") !=-1));
-var is_ie5up = (is_ie && !is_ie3 && !is_ie4);
-var is_ie5_5up =(is_ie && !is_ie3 && !is_ie4 && !is_ie5);
-var is_ie6 = (is_ie && (is_major == 4) && (agt.indexOf("msie 6.")!=-1) );
-var is_ie6up = (is_ie && !is_ie3 && !is_ie4 && !is_ie5 && !is_ie5_5);
-var is_opera = (agt.indexOf("opera") != -1);
-var is_mac = (agt.indexOf("mac")!=-1);
-var is_iemac = (is_ie && is_mac);
-
-
-current = '://webmail.fusemail.com/sq/src/webmail.php';
-changessl = 0;
-function changeSSL(obj) {
-	var formobj = document.getElementById('formobj');
-
-	var thisnew = 'https';
-	if(obj.checked != true)
-		thisnew = 'http';
-
-	formobj.action = thisnew + current;
-	changessl = 1;
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
 }
-function doSubmit() {
-	//set or not set cookie
-	if(document.getElementById('public').checked != true) {
-		Set_Cookie("FuseLastUser",document.getElementById('user').value);
-	}else{
-		Delete_Cookie("FuseLastUser");
-	}
-	if(changessl == 1)
-		Set_Cookie("FuseLastSSL",document.getElementById('SSL').checked);
-	if(changeversion == 1)
-		Set_Cookie("FuseLastVersion",document.getElementById('myversion').selectedIndex);
+MM_reloadPage(true);
 
+function P7_Snap() { //v2.67 by PVII
+ var g,x,y,ox,bx,oy,p,tx,a,b,k,d,da,e,el,tw,q0,xx,yy,w1,pa='px',args=P7_Snap.arguments;a=parseInt(a);
+ if(document.layers||window.opera){pa='';}for(k=0;k<(args.length);k+=4){
+ if((g=MM_findObj(args[k]))!=null){if((el=MM_findObj(args[k+1]))!=null){
+ a=parseInt(args[k+2]);b=parseInt(args[k+3]);x=0;y=0;ox=0;oy=0;p="";tx=1;
+ da="document.all['"+args[k]+"']";if(document.getElementById){
+ d="document.getElementsByName('"+args[k]+"')[0]";if(!eval(d)){
+ d="document.getElementById('"+args[k]+"')";if(!eval(d)){d=da;}}
+ }else if(document.all){d=da;}if(document.all||document.getElementById){while(tx==1){
+ p+=".offsetParent";if(eval(d+p)){x+=parseInt(eval(d+p+".offsetLeft"));y+=parseInt(eval(d+p+".offsetTop"));
+ }else{tx=0;}}ox=parseInt(g.offsetLeft);oy=parseInt(g.offsetTop);tw=x+ox+y+oy;
+ if(tw==0||(navigator.appVersion.indexOf("MSIE 4")>-1&&navigator.appVersion.indexOf("Mac")>-1)){
+  ox=0;oy=0;if(g.style.left){x=parseInt(g.style.left);y=parseInt(g.style.top);}else{
+  w1=parseInt(el.style.width);bx=(a<0)?-5-w1:-10;a=(Math.abs(a)<1000)?0:a;b=(Math.abs(b)<1000)?0:b;
+  x=document.body.scrollLeft+event.clientX+bx;y=document.body.scrollTop+event.clientY;}}
+ }else if(document.layers){x=g.x;y=g.y;q0=document.layers,dd="";for(var s=0;s<q0.length;s++){
+  dd='document.'+q0[s].name;if(eval(dd+'.document.'+args[k])){x+=eval(dd+'.left');y+=eval(dd+'.top');
+  break;}}}e=(document.layers)?el:el.style;xx=parseInt(x+ox+a),yy=parseInt(y+oy+b);
+ if(navigator.appVersion.indexOf("MSIE 5")>-1 && navigator.appVersion.indexOf("Mac")>-1){
+  xx+=parseInt(document.body.leftMargin);yy+=parseInt(document.body.topMargin);}
+ e.left=xx+pa;e.top=yy+pa;}}}
 }
-changeversion = 0;
-function changeVersion(obj) {
-	var pre = 'https';
-	if(document.getElementById('SSL').checked != true)
-		pre = 'http';
 
-	if(obj.selectedIndex == 0)
-		current =  "://webmail.fusemail.com/sq/src/webmail.php";
-	else if(obj.selectedIndex == 1)
-		current = "://www.fusemail.com/sq/src/webmail.php";
-	else if(obj.selectedIndex == 2)
-		current = "://www.fusemail.com/mobile/src/redirect.php";
-
-	document.getElementById('formobj').action = pre + current;
-	changeversion = 1;
+var isLoginOpen = 0;
+function detectSubmit(mye) {
+        if(mye.keyCode == 13) {
+                document.getElementById('loginImage').focus();
+                document.getElementById('myform2').submit();  
+        }
 }
-function Get_Cookie(name) {
-    var start = document.cookie.indexOf(name+"=");
-    var len = start+name.length+1;
-    if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
-    if (start == -1) return null;
-    var end = document.cookie.indexOf(";",len);
-    if (end == -1) end = document.cookie.length;
-    return unescape(document.cookie.substring(len,end));
-}
-                        
-function Set_Cookie(name,value,expires,path,domain,secure) {
-    document.cookie = name + "=" +escape(value) +
-        ( (expires) ? ";expires=" + expires.toGMTString() : "") +
-        ( (path) ? ";path=" + path : "") +
-        ( (domain) ? ";domain=" + domain : "") +
-        ( (secure) ? ";secure" : "");
-}
-                        
-function Delete_Cookie(name,path,domain) {
-    if (Get_Cookie(name)) document.cookie = name + "=" +
-       ( (path) ? ";path=" + path : "") +
-       ( (domain) ? ";domain=" + domain : "") +
-       ";expires=Thu, 01-Jan-70 00:00:01 GMT";
-}
-function loadLogin() {
-	var formobj = document.getElementById('formobj');
+function toggleLogin() {
+	if(isLoginOpen == 0) {
+		//document.getElementById('loginbox').style.visibility = 'visible';  
+		document.getElementById('loginbox').style.display = 'block';
+		//document.getElementById('loginbox').style.display = 'inline';
+		isLoginOpen = 1;
 
-	var lastUser = Get_Cookie("FuseLastUser");
-	var lastVers = Get_Cookie("FuseLastVersion");
-	var lastSSL = Get_Cookie("FuseLastSSL");
-	
-	if(lastVers == null) {
-		if(is_ie5up || is_nav6up) {
-			current = "://webmail.fusemail.com/sq/src/webmail.php";
-			document.getElementById('myversion').selectedIndex = 0;
-		}else{
-			current = "://www.fusemail.com/sq/src/webmail.php";
-			document.getElementById('myversion').selectedIndex = 1;
-		}
-	}else{
-		document.getElementById('myversion').selectedIndex = lastVers;
-		if(lastVers == 1)
-			current = "://www.fusemail.com/sq/src/webmail.php";
-		else if(lastVers == 2)
-			current = "://www.fusemail.com/mobile/src/redirect.php";
-
-			
-	}
-
-	var pre = 'https';
-	if(lastSSL != null) {
-		if(lastSSL != true) {
-			pre = 'http';
-			document.getElementById('SSL').checked = false;
-		}
-	}
-	if(lastUser != null) {
-		document.getElementById('user').value = lastUser;
-		document.getElementById('password').focus();
-	}else	
 		document.getElementById('user').focus();
 
-	formobj.action = pre + current;
-}
-</script>
-<link href="/styles.css" rel="stylesheet" type="text/css">
+		Delete_Cookie("FuseLastToggle");
+		Set_Cookie("FuseLastToggle",1);
+	}else{
+		isLoginOpen = 0;
+		//document.getElementById('loginbox').style.visibility = 'hidden';  
+		document.getElementById('loginbox').style.display = 'none';  
 
+		Delete_Cookie("FuseLastToggle");
+		//Set_Cookie("FuseLastToggle",1);
+	}
+}
+//-->
+</script>
 </head>
 
-<body bgcolor="#808080" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="loadLogin();MM_preloadImages('/images/home-over.gif','/images/about-over.gif','/images/services-over.gif','/images/support-over.gif','/images/viewdemo-button-over.gif','/images/createaccount-button-over.gif')"><!-- DHTML Menu Builder Loader Code START --><script language="JavaScript" type="text/javascript">
-var navVer = navigator.appVersion;
-if(navVer.substr(0,3) >= 4)
-if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
-document.write('<' + 'script language="JavaScript" type="text/javascript" src="/scripts/nsmenu2.js"><\/script\>');
-} else {
-document.write('<' + 'script language="JavaScript" type="text/javascript" src="/scripts/iemenu2.js"><\/script\>');
-}</script><script language="JavaScript" type="text/javascript" src="/scripts/iemenu2.js"></script><div id="dmbTBBack1" style="position: absolute; overflow: hidden; z-index: 998; visibility: hidden; width: 199px; height: 20px; background-color: rgb(238, 158, 65); border: 0px solid rgb(238, 158, 65); left: 0px; top: 0px;"></div><div id="dmbTB1" style="position: absolute; z-index: 999; visibility: hidden; width: 199px; height: 20px; left: 0px; top: 0px;"><div id="N1001" style="position:absolute;top:0px;left:0px;width:49px;height:20px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" onmouseover="hsHoverSel(0,this);cFrame.ShowMenu('grp01',1,0,false,'',-1);window.status=cFrame._purl('Home');"><div style="position:absolute;top:3px;width:39px;left:5px;" align="left">grp01</div></div><div id="O1001" style="position:absolute;top:0px;left:0px;width:49px;height:20px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" onmouseover="cFrame.ShowMenu('grp01',1,0,false,'',-1);window.status=cFrame._purl('Home');"><div style="position:absolute;top:3px;width:39px;left:5px;" align="left"></div></div><div id="N1002" style="position:absolute;top:0px;left:50px;width:49px;height:20px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" onmouseover="hsHoverSel(0,this);cFrame.ShowMenu('grp02',2,0,false,'',-1);window.status=cFrame._purl('About');"><div style="position:absolute;top:3px;width:41px;left:4px;" align="left">grp02</div></div><div id="O1002" style="position:absolute;top:0px;left:50px;width:49px;height:20px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" onmouseover="cFrame.ShowMenu('grp02',2,0,false,'',-1);window.status=cFrame._purl('About');"><div style="position:absolute;top:3px;width:41px;left:4px;" align="left"></div></div><div id="N1003" style="position:absolute;top:0px;left:100px;width:49px;height:20px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" onmouseover="hsHoverSel(0,this);cFrame.ShowMenu('grp03',3,0,false,'',-1);window.status=cFrame._purl('Services');"><div style="position:absolute;top:3px;width:41px;left:4px;" align="left">grp03</div></div><div id="O1003" style="position:absolute;top:0px;left:100px;width:49px;height:20px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" onmouseover="cFrame.ShowMenu('grp03',3,0,false,'',-1);window.status=cFrame._purl('Services');"><div style="position:absolute;top:3px;width:41px;left:4px;" align="left"></div></div><div id="N1004" style="position:absolute;top:0px;left:150px;width:49px;height:20px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" onmouseover="hsHoverSel(0,this);cFrame.ShowMenu('grp04',4,0,false,'',-1);window.status=cFrame._purl('Support');"><div style="position:absolute;top:3px;width:41px;left:4px;" align="left">grp04</div></div><div id="O1004" style="position:absolute;top:0px;left:150px;width:49px;height:20px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" onmouseover="cFrame.ShowMenu('grp04',4,0,false,'',-1);window.status=cFrame._purl('Support');"><div style="position:absolute;top:3px;width:41px;left:4px;" align="left"></div></div></div><div id="grp01" style="position:absolute;top:0px;left:0px;width:137px;height:157px;visibility:hidden;-moz-opacity:0.93;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=93)"><div id="grp01frmt" style="position:absolute;top:0px;left:0px;width:137px;height:157px;background-color:#E08214;border-left:#EE9E41 1px solid;border-right:#EE9E41 1px solid;border-top:#EE9E41 1px solid;border-bottom:#EE9E41 1px solid;"><div style="position:absolute;top:2px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N0" onmouseover="cFrame.HoverSel(0,this);"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Saved Search Folders</div></div><div style="position:absolute;top:2px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O0" onclick="cFrame.execURL('/services/searchfolder.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:21px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N1" onmouseover="cFrame.HoverSel(0,this);"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Desktop Notification</div></div><div style="position:absolute;top:21px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O1" onclick="cFrame.execURL('/features/notification.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:40px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N2" onmouseover="cFrame.HoverSel(0,this);"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">RSS/News Folders</div></div><div style="position:absolute;top:40px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O2" onclick="cFrame.execURL('/features/rss.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:59px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N3" onmouseover="cFrame.HoverSel(0,this);"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Webmail Client</div></div><div style="position:absolute;top:59px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O3" onclick="cFrame.execURL('/features/webmail.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:78px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N4" onmouseover="cFrame.HoverSel(0,this);"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Outlook Plug-in</div></div><div style="position:absolute;top:78px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O4" onclick="cFrame.execURL('/about/outlook.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:97px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N5" onmouseover="cFrame.HoverSel(0,this);"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Anti-Spam Protection</div></div><div style="position:absolute;top:97px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O5" onclick="cFrame.execURL('/features/spam.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:116px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N6" onmouseover="cFrame.HoverSel(0,this);"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">How FuseMail Works</div></div><div style="position:absolute;top:116px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O6" onclick="cFrame.execURL('/about/howitworks.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:135px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N7" onmouseover="cFrame.HoverSel(0,this);"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">More Features</div></div><div style="position:absolute;top:135px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O7" onclick="cFrame.execURL('/services/featurelist.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div></div></div><div id="grp02" style="position:absolute;top:0px;left:0px;width:137px;height:138px;visibility:hidden;-moz-opacity:0.93;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=93)"><div id="grp02frmt" style="position:absolute;top:0px;left:0px;width:137px;height:138px;background-color:#E08214;border-left:#EE9E41 1px solid;border-right:#EE9E41 1px solid;border-top:#EE9E41 1px solid;border-bottom:#EE9E41 1px solid;"><div style="position:absolute;top:2px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N8" onmouseover="cFrame.HoverSel(0,this);window.status=cFrame._purl('Who We Are');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Who We Are</div></div><div style="position:absolute;top:2px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O8" onclick="cFrame.execURL('/about/who.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:21px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N9" onmouseover="cFrame.HoverSel(0,this);window.status=cFrame._purl('Contact');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Contact</div></div><div style="position:absolute;top:21px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O9" onclick="cFrame.execURL('/about/contact.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:40px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N10" onmouseover="cFrame.HoverSel(0,this);"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">3 Step Process</div></div><div style="position:absolute;top:40px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O10" onclick="cFrame.execURL('/stepdetail.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:59px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N11" onmouseover="cFrame.HoverSel(0,this);"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">How FuseMail Works</div></div><div style="position:absolute;top:59px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O11" onclick="cFrame.execURL('/about/howitworks.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:78px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N12" onmouseover="cFrame.HoverSel(0,this);"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Earn Free Service</div></div><div style="position:absolute;top:78px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O12" onclick="cFrame.execURL('/refer.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:97px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N13" onmouseover="cFrame.HoverSel(0,this);"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">What People Say</div></div><div style="position:absolute;top:97px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O13" onclick="cFrame.execURL('/about/peoplesay.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:116px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N14" onmouseover="cFrame.HoverSel(0,this);"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Press &amp; News</div></div><div style="position:absolute;top:116px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O14" onclick="cFrame.execURL('/about/press.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div></div></div><div id="grp03" style="position:absolute;top:0px;left:0px;width:137px;height:81px;visibility:hidden;-moz-opacity:0.93;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=93)"><div id="grp03frmt" style="position:absolute;top:0px;left:0px;width:137px;height:81px;background-color:#E08214;border-left:#EE9E41 1px solid;border-right:#EE9E41 1px solid;border-top:#EE9E41 1px solid;border-bottom:#EE9E41 1px solid;"><div style="position:absolute;top:2px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N15" onmouseover="cFrame.HoverSel(0,this);window.status=cFrame._purl('Fused Personal');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Fused Personal</div></div><div style="position:absolute;top:2px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O15" onclick="cFrame.execURL('/email_service.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:21px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N16" onmouseover="cFrame.HoverSel(0,this);window.status=cFrame._purl('Fused Group');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Fused Group</div></div><div style="position:absolute;top:21px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O16" onclick="cFrame.execURL('/email_business.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:40px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N17" onmouseover="cFrame.HoverSel(0,this);window.status=cFrame._purl('Fused Platform');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Fused Platform</div></div><div style="position:absolute;top:40px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O17" onclick="cFrame.execURL('/services/platform.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:59px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N18" onmouseover="cFrame.HoverSel(0,this);window.status=cFrame._purl('Plan Comparison');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Plan Comparison</div></div><div style="position:absolute;top:59px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O18" onclick="cFrame.execURL('/services/compare.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div></div></div><div id="grp04" style="position:absolute;top:0px;left:0px;width:137px;height:81px;visibility:hidden;-moz-opacity:0.93;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=93)"><div id="grp04frmt" style="position:absolute;top:0px;left:0px;width:137px;height:81px;background-color:#E08214;border-left:#EE9E41 1px solid;border-right:#EE9E41 1px solid;border-top:#EE9E41 1px solid;border-bottom:#EE9E41 1px solid;"><div style="position:absolute;top:2px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N19" onmouseover="cFrame.HoverSel(0,this);window.status=cFrame._purl('FAQ');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">FAQ</div></div><div style="position:absolute;top:2px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O19" onclick="cFrame.execURL('/support/faq.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:21px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N20" onmouseover="cFrame.HoverSel(0,this);window.status=cFrame._purl('Contact');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Contact</div></div><div style="position:absolute;top:21px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O20" onclick="cFrame.execURL('/support/contact.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:40px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N21" onmouseover="cFrame.HoverSel(0,this);window.status=cFrame._purl('Forums');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Forums</div></div><div style="position:absolute;top:40px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O21" onclick="cFrame.execURL('/forums','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div><div style="position:absolute;top:59px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#E08214;" id="N22" onmouseover="cFrame.HoverSel(0,this);window.status=cFrame._purl('Tutorials');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left">Tutorials</div></div><div style="position:absolute;top:59px;left:2px;width:131px;height:18px;white-space:nowrap;font-family:Arial;font-size:11px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;background-color:#EE9E41;cursor:pointer;visibility:hidden;" id="O22" onclick="cFrame.execURL('/support/tutorials.html','_self');"><div style="position:absolute;top:2px;width:123px;left:4px;" align="left"></div></div></div></div>
-<!-- DHTML Menu Builder Loader Code END -->
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="loadLogin();MM_preloadImages('/images/topnav/about_over.gif','/images/topnav/technology_over.gif','/images/topnav/features_over.gif','/images/topnav/solutions_over.gif','/images/topnav/support_over.gif','/images/login_over.gif','/images/faq_more_over.gif','/images/subnav/solutions_2-over.gif','/images/subnav/solutions_3.gif','/images/subnav/solutions_1-on.gif','/images/subnav/solutions_1_1-over.gif','/images/subnav/solutions_1_2-over.gif','/images/subnav/solutions_1_3-over.gif')">
 
-<br>
-<table width="777" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr> 
-    <td colspan="2"><table width="777" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td colspan="4"><table width="500" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td><a href="/"><img border="0" src="/images/logo.gif" width="185" height="113"></a></td>
-                <td><img src="/images/slogan.gif" width="364" height="113"></td>
-              </tr>
-            </tbody></table></td>
-          <td width="228" height="144" rowspan="2" background="/images/loginbg.gif">
-		<table border="0" align="center" cellpadding="2" cellspacing="0">
-              <form method="POST" name="myform" id="formobj" onsubmit="doSubmit()" action="https://www.fusemail.com/sq/src/webmail.php"></form>
-		<input type="hidden" name="DoLogin" value="Y"><tbody><tr>
-                <td class="login">&nbsp;&nbsp;Username:</td>
-                <td><input name="user" type="text" class="formelement" id="user" size="18" value=""></td>
-              </tr>
-              <tr>
-                <td class="login">&nbsp;&nbsp;Password:</td>
-                <td><input name="password" type="password" class="formelement" id="password" size="18"></td>
-              </tr>
-              <tr>
-                <td class="login">&nbsp;&nbsp;Version:</td>
-		<td class="login" nowrap=""><select class="formelement" id="myversion" name="myversion" onchange="changeVersion(this)"><option>2.0</option><option>1.0 Classic</option><option>FuseMobile</option></select> </td>
-              </tr>
-              <tr>
-                <td class="login" colspan="2" align="right"><input type="checkbox" id="public">Do not save username&nbsp;&nbsp;<input onchange="changeSSL(this)" type="checkbox" name="type" checked="" id="SSL">SSL&nbsp;&nbsp;&nbsp;</td>
-              </tr>
-              <tr>
-                <td align="right" class="login" nowrap="">&nbsp;<a href="/lost.html">lost password?</a></td>
-                <td class="loginsmall" align="right"><input name="imageField" type="image" src="/images/login-button.gif" alt="Login" width="72" height="19" border="0" value="Login">
-		</td>
-              </tr>
-
-
-            </tbody></table></td>
-        </tr>
-        <tr> 
-          
-          <td><a href="javascript:;" onmouseover="cFrame.ShowMenu('grp02', 0, 0, false,'about|3',0);MM_swapImage('about','','/images/about-over.gif',1)" onmouseout="cFrame.tHideAll();MM_swapImgRestore()"><img src="/images/about.gif" name="about" width="137" height="31" border="0" id="about"></a></td>
-		  <td><a href="javascript:;" onmouseover="cFrame.ShowMenu('grp01', 0, 0, false,'features|3',0);MM_swapImage('features','','/images/features-over.gif',1)" onmouseout="cFrame.tHideAll();MM_swapImgRestore()"><img src="/images/features.gif" name="features" width="137" height="31" border="0" id="features"></a></td>
-          <td><a href="javascript:;" onmouseover="cFrame.ShowMenu('grp03', 0, 0, false,'services|3',0);MM_swapImage('services','','/images/services-over.gif',1)" onmouseout="cFrame.tHideAll();MM_swapImgRestore()"><img src="/images/services.gif" name="services" width="137" height="31" border="0" id="services"></a></td>
-          <td><a href="javascript:;" onmouseover="cFrame.ShowMenu('grp04', 0, 0, false,'support|3',0);MM_swapImage('support','','/images/support-over.gif',1)" onmouseout="cFrame.tHideAll();MM_swapImgRestore()"><img src="/images/support.gif" name="support" width="138" height="31" border="0" id="support"></a></td>
-        </tr>
-      </tbody></table></td>
+<table width="755" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td colspan="2"><img src="/images/spacer.gif" width="1" height="10"></td>
   </tr>
-  <tr> 
-    <td width="519" valign="top" bgcolor="#FFFFFF"><br>
-      <table width="500" border="0" align="right" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td>
-            
+  <tr>
+    <td width="171" rowspan="2" align="left" valign="bottom"><a href="http://www.fusemail.com" title="FuseMail, the Business Email Hosting Services Provider"><img src="/images/logo.gif" width="171" height="90" border="0"></a></td>
+    <td width="584" align="right" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td><img src="/images/header_links_bullet.gif" width="9" height="9"></td>
+        <td class="headerlink"><a href="http://www.fusemail.com/" title="FuseMail, the Business Email Hosting Service Provider">Home</a></td>
+        <td><img src="/images/spacer.gif" width="8" height="1"></td>
+        <td><img src="/images/header_links_bullet.gif" width="9" height="9"></td>
+        <td class="headerlink"><a href="http://www.fusemail.com/solutions/contactus.html">Contact Us</a> </td>
+        <td><img src="/images/spacer.gif" width="8" height="1"></td>
+        <td><img src="/images/header_links_bullet.gif" width="9" height="9">
 
 
 
-<font class="strongorange">Privacy Policy</font><br>
+
+
+</td>
+        <td class="headerlink"><a href="https://www.fusemail.com/order/order.html" title="Get started today, with free 10 day trial"><b>Sign Up</b></a></td>
+        <td><img src="/images/spacer.gif" width="8" height="1"></td>
+        <td><img src="/images/header_links_bullet.gif" width="9" height="9"></td>
+        <td class="headerlink">1.877.888.FUSE</td>
+        <td><img src="/images/spacer.gif" width="20" height="1"></td>
+        <td align="right"><a href="javascript:toggleLogin()" onmouseover="MM_swapImage('login','','/images/login_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/login.gif" name="login" width="70" height="20" border="0" id="login" onload="P7_Snap('login','loginbox',-145,19)"></a>
+</td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td align="right" valign="bottom"><table border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td><a href="http://www.fusemail.com/about/index.html" onmouseover="MM_swapImage('about','','/images/topnav/about_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/topnav/about.gif" name="about" width="110" height="41" border="0" id="about"></a></td>
+        <td><a href="http://www.fusemail.com/technology/index.html" onmouseover="MM_swapImage('technology','','/images/topnav/technology_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/topnav/technology.gif" name="technology" width="110" height="41" border="0" id="technology"></a></td>
+        <td><a href="http://www.fusemail.com/features/index.html" onmouseover="MM_swapImage('features','','/images/topnav/features_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/topnav/features.gif" name="features" width="110" height="41" border="0" id="features"></a></td>
+        <td><a href="http://www.fusemail.com/solutions/index.html" onmouseover="MM_swapImage('solutions','','/images/topnav/solutions_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/topnav/solutions.gif" name="solutions" width="110" height="41" border="0" id="solutions"></a></td>
+        <td><a href="http://www.fusemail.com/support/index.html" onmouseover="MM_swapImage('support','','/images/topnav/support_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/topnav/support.gif" name="support" width="110" height="41" border="0" id="support"></a></td>
+        <td><img src="/images/topnav/topnav_right.gif" width="1" height="41"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="/images/header_line.gif" width="755" height="10"></td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><table width="755" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr><td colspan="3"><img src="/images/spacer.gif" height="3" width="1"></td></tr>
+      <tr>
+        <td width="205" align="left" valign="top"><img src="/images/subnav_alt.gif"><table width="201" border="0" cellspacing="0" cellpadding="0">        </table></td>
+        <td valign="top"><img src="/images/image_legal.jpg">
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/images/spacer.gif" width="10" height="1"></td><td width="100%" colspan="2"><h1>Privacy Policy</h1>
+
+
+
 <i>(Adopted August 8th, 2003)</i><br>
-<i>(Updated January 5th, 2004)</i>
+<!--<i>(Updated January 5th, 2004)</i><br>-->
+<i>(Updated May 15th, 2005)</i><br>
 <br><br>
 This Privacy Policy governs the manner in which FuseMail, LLC  ("FuseMail") collects, uses, maintains and discloses
 information collected from users of the FuseMail service (each, a "User").
@@ -277,134 +377,119 @@ other online services.
 <br><br>
 <b>How We Use Information</b><br>
 FuseMail may use personally identifiable information collected through our Web Site to 
-contact Users regarding products and services offered by FuseMail and its trusted 
-affiliates, independent contractors and business partners, and otherwise to 
-enhance Users' experience with FuseMail and such affiliates, independent 
-contractors and business partners. FuseMail will not release customer lists or
-other private and personal personal information knowingly to any 3rd party for the purposes
-of direct unrelated marketing (such as 3rd party unsolicited messages).
+contact Users regarding current and planned future products and services offered by FuseMail and its trusted 
+independent contractors and business partners, and otherwise to 
+enhance Users' experience with FuseMail and such independent 
+contractors and business partners. <b>FuseMail will at no time release or sell customer lists or
+other private and personal information (such as email, name, address, and telephone number) to any 3rd party for the purposes
+of marketing of any kind, such as 3rd party unsolicited email (SPAM).</b> FuseMail will
+not access or release private and personal information on your account, except in the case of:
 <br><br>
+
+<ul><li> Comply with a court order, subpoena, or other legal instrument from a Government Authority of competent jurisdiction.
+</li><li> Enforce the FuseMail Terms of Service. 
+</li><li> Administer, maintain, and improve the service.
+</li><li> Providing customer service to User (such as investigating an User related bug)
+</li><li> Protect and defend the rights or property of FuseMail and its members or others.
+</li></ul>
+<br>
 FuseMail may also use information collected 
 through our Web Site for research regarding the effectiveness of the Web Site 
-and the marketing, advertising and sales efforts of FuseMail, its trusted affiliates, 
-independent contractors and business partners.
+and the marketing, advertising and sales efforts of FuseMail, its independent contractors and business partners.
 <br><br>
-<b>Disclosure of Information</b>
-FuseMail may disclose information collected from Users to trusted affiliates, independent contractors
- and business partners who will use the information for the purposes outlined above. We may also
+<b>Disclosure of Information</b><br>
+FuseMail may disclose information collected from Users to independent contractors
+ and business partners who will use the information only for the purposes outlined above. We may also
 disclose aggregate, anonymous data based on information collected from Users to investors and potential
 partners.  Finally, we may transfer information collected from Users in connection with a sale of
 FuseMail's business.
 <br><br>
-<b>Maintenance of Information</b>
+<b>Maintenance of Information</b><br>
 Information about Users that is maintained on our systems is protected using industry standard security
 measures.  However, we cannot guarantee that the information submitted to, maintained on, or transmitted
 from our systems will be completely secure.
 <br><br>
 <b>Questions</b><br>
-Users may direct questions concerning this Privacy Policy by email to <a href="mailto:privacy@fusemail.com">privacy@fusemail.com</a>.
+Users may direct questions concerning this Privacy Policy by email to fuseprivacy fusemail.com.
 
-            <br>
+<script>
+function ShowAnswer(x) {
+	if(document.getElementById('answer' + x).style.display != 'block')
+		document.getElementById('answer' + x).style.display = 'block';
+	else
+		document.getElementById('answer' + x).style.display = 'none';
+}
+</script>
+</td><td><img src="/images/spacer.gif" width="10" height="1"></td></tr></tbody></table>
+          <br> </td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="/images/footer_line.gif" width="755" height="29"></td>
+  </tr>
+  <tr align="center">
+    <td colspan="2"><a href="http://www.fusemail.com/">Home</a> | <a href="http://www.fusemail.com/about/index.html">About</a> | <a href="http://www.fusemail.com/technology/index.html">Technology</a> | <a href="http://www.fusemail.com/features/index.html">Features</a> | <a href="http://www.fusemail.com/solutions/index.html">Solutions</a> | <a href="http://www.fusemail.com/support/index.html">Support</a> <br>
+      <a href="http://www.fusemail.com/privacy.html">Privacy</a> | <a href="http://www.fusemail.com/terms.html">Terms of Use</a> | Copyright © 2005 FuseMail, LLC. All rights reserved. </td>
+  </tr>
+</tbody></table>      
+
+<div id="loginbox" style="position:absolute; left:0px; top:0px; width:215px; height:164px; z-index:1; display: none;">
+<form method="POST" name="myform2" id="myform2" action="https://www.fusemail.com/sq/src/webmail.php" onsubmit="doSubmit()">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td background="/images/loginbox_bg.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td rowspan="2"><img src="/images/loginbox_left.gif" width="9" height="164"></td>
+    <td align="right"><img src="/images/loginbox_topright.gif" width="69" height="9"></td>
+    <td rowspan="2" align="right"><img src="/images/loginbox_right.gif" width="9" height="164"></td>
+  </tr>
+  <tr>
+    <td width="100%" height="155" valign="top"><table border="0" align="center" cellpadding="1" cellspacing="0">
+        <input type="hidden" name="FailURL" value=" https://www.fusemail.com/login.html">
+<input type="hidden" name="DoLogin" value="Y">
+        <tbody><tr>
+          <td class="login"><strong>Username:</strong>&nbsp;</td>
+          <td><input name="user" type="text" class="formelement" id="user" size="18" value="" onkeydown="detectSubmit(event)"></td>
+        </tr>
+        <tr>
+          <td class="login"><strong>Password:</strong>&nbsp;</td>
+          <td><input name="password" type="password" class="formelement" id="password" size="18" onkeydown="detectSubmit(event)"></td>
+        </tr>
+        <tr>
+          <td class="login"><strong>Version:</strong>&nbsp;</td>
+          <td class=" login" nowrap=""><select class=" formelement" id="myversion" name="myversion" onchange="changeVersion(this)">
+              <option>2.0</option>
+              <option>1.0 Classic</option>
+              <option>FuseMobile</option>
+            </select>
           </td>
         </tr>
-      </tbody></table></td>
-    <td width="258" valign="top" background="/images/columnbg.gif">
-<table width="258" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td background="/images/subnavbg3.gif" class="subnav"><br>
-      <table border="0" align="center" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td class="subnav"><img src="/images/subnav_bullet3.gif" width="14" height="11" align="absmiddle"><a href="/services/compare.html">Compare Service Plans</a> </td>
-      </tr>
-      <tr>
-        <td class="subnav"><img src="/images/subnav_bullet3.gif" width="14" height="11" align="absmiddle"><a href="/features/webmail.html">Webmail Client</a> </td>
-      </tr>
-      <tr>
-        <td class="subnav"> <img src="/images/subnav_bullet3.gif" width="14" height="11" align="absmiddle"><a href="/about/howitworks.html">How FuseMail Works</a></td>
-      </tr>
-      <tr>
-        <td class="subnav"><img src="/images/subnav_bullet3.gif" width="14" height="11" align="absmiddle"><a href="/about/peoplesay.html">What People Are Saying</a> </td>
-      </tr>
-      <tr>
-        <td class="subnav"><img src="/images/subnav_bullet3.gif" width="14" height="11" align="absmiddle"><a href="/features/notification.html">Desktop Notification Client</a> </td>
-      </tr>
-      <tr>
-        <td class="subnav"><img src="/images/subnav_bullet3.gif" width="14" height="11" align="absmiddle"><a href="/refer.html">Refer Friends &amp; Free Service</a> </td>
-      </tr>
-    </tbody></table>
-      <br></td>
-  </tr>
-</tbody></table>
-<table width="258" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          <td height="112" align="right" valign="top" background="/images/demobg.gif"><table height="90" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr> 
-                <td align="right" valign="bottom"><a href="http://www.fusemail.com/sq/src/webmail.php?user=demo&amp;password=demo&amp;DoLogin=Y" target="_newwindow" onmouseover="MM_swapImage('demo','','/images/viewdemo-button-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/viewdemo-button.gif" alt="View Demo" name="demo" width="100" height="23" border="0" id="demo"></a></td>
-                <td width="20">&nbsp;</td>
-              </tr>
-            </tbody></table></td>
+        <tr align="left">
+          <td class="login" colspan="2"><input name="checkbox" type="checkbox" id="public">Do not save username
+            <br>
+            <input onchange="changeSSL(this)" type="checkbox" name="type" checked="" id="SSL">SSL</td>
         </tr>
-        <tr> 
-          <td height="88" align="right" valign="top" background="/images/createaccountbg.gif"><table height="75" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr> 
-                <td align="right" valign="bottom"><a href="https://www.fusemail.com/order/order.html?personal2=Create" onmouseover="MM_swapImage('account','','/images/createaccount-button-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/createaccount-button.gif" alt="Create Account" name="account" width="116" height="27" border="0" id="account"></a></td>
-                <td width="20">&nbsp;</td>
+        <tr align="left">
+          <td colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td class="greylink"><a href="http://www.fusemail.com/lost.html">lost password?</a>&nbsp;&nbsp;</td>
+                <td align="right"><input name="imageField" id="loginImage" type="image" src="/images/loginbox_button.gif" alt="Login" width="72" height="21" border="0" value=" Login"></td>
               </tr>
-            </tbody></table></td>
-        </tr>
-      </tbody></table> 
-      <table width="258" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="30">&nbsp;</td>
-          <td width="228" valign="top">
-<table width="228" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td colspan="2"><img src="/images/statstitle.gif" width="228" height="25"></td>
-  </tr>
-  <tr> 
-    <td height="67" valign="top" background="/images/statsbg.gif"><table width="228" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="143">&nbsp;</td>
-          <td width="85" align="center"><table width="76" border="0" cellspacing="2" cellpadding="1">
-              <tbody><tr> 
-                <td bgcolor="#F3A91B" class="stats"><center>
-                    85,504</center></td>
-              </tr>
-              <tr> 
-                <td bgcolor="#F3A91B" class="stats"><center>
-                    39,708</center></td>
-              </tr>
-              <tr> 
-                <td bgcolor="#F3A91B" class="stats"><center>
-                   42,520,889
-                  </center></td>
-              </tr>
-            </tbody></table></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
+            </tbody></table>            </td>
+          </tr>
+    </tbody></table></td>
+    </tr>
 </tbody></table>
 </td>
-        </tr>
-      </tbody></table></td>
   </tr>
-  <tr valign="top"> 
-    <td height="45" colspan="2" background="/images/footerbg.gif"><table width="777" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td colspan="2" height="15"></td>
-        </tr>
-        <tr> 
-<td width="2%">&nbsp;</td>
-          <td class="footer" width="65%">Copyright © 2004 FuseMail, LLC.
-            All rights reserved.<br>
+</tbody></table>
+</form>
+</div>
 
-</td>
-          <td align="right" class="footer" valign="top"><a href="/">Home</a> &nbsp;| &nbsp;<a href="/privacy.html">Privacy</a> &nbsp;| &nbsp;<a href="/terms.html">Terms 
-            of Use</a>&nbsp;&nbsp;&nbsp;
-</td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>
+
+
+
 
 </body></html>
