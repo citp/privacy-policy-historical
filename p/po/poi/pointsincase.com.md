@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointsincase.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507162207id_/http%3A//www.pointsincase.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointsincase.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151548id_/http%3A//www.pointsincase.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy :: Points in Case.com
 
@@ -18,19 +18,19 @@ We at Pointsincase.com ("website") agree to provide you with information and oth
 
 Our website uses cookies, but they are not used to store personal information about users, they will not be shared with anyone else, and they will not be used to contact you.
 
-The major evidence of your visit is in the form of an access log, a text file that records certain facts about your visit, such as what page you looked at, what kind of browser you were using, and in some cases what page you came from to get here. This is standard information provided by your browser and it is collected by nearly every website out there, even the Pope's. This information doesn't contain your address, your credit card number, the number of children you have or any similar personal information. In other words, we can't use this information to say "Hey, Marion Webster from Kansas State College saw our quote section last Wednesday, maybe we should call him up and see if he wants to buy us a gift on his VISA!"  More like, "IP 92.734.531 visited quotes.htm at 8:34PM and viewed 10 pages on Pointsincase.com."
+The major evidence of your visit is in the form of an access log, a text file that records certain facts about your visit, such as what page you looked at, what kind of browser you were using, and in some cases what page you came from to get here. This is standard information provided by your browser and it is collected by nearly every website out there, even the Pope's. This information does NOT contain your address, your credit card number, the number of children you have, or any similar personal information. Data collected is used to determine things like, "IP address 92.734.531 visited quotes.htm at 8:34PM and viewed 10 pages on Pointsincase.com."
+
+We use these website logs to improve the value of our website, such as personalizing and customizing your experience on our website. This information will be treated with the same sensitivity as personal information you give us and will not be shared (except at the aggregate level) with any third parties. In the rare case of website abuse, we may use web log data to personally identify users and report them to the appropriate authorities.
 
 We sometimes ask for a name and e-mail address. We do not share your e-mail address with anyone. We don't use it ourselves, except to alert winners or tell people about problems. We generally announce winners by name, though, and we may display all entries with names, so if that makes you uncomfortable, use a pseudonym.
 
-We do have a single mailing list which we use to send out our weekly e-zine. We never add people to this unless they explicitly tell us to (i.e. sign up online).
-
-We constantly analyze our website logs to improve the value of our website. We may utilize this information internally for the purposes of personalizing and customizing your experience on our website. This information will be treated with the same sensitivity as personal information you give us and will not be shared (except at the aggregate level) with any third parties. In the rare case of website abuse, we may use web log data to personally identify users and report them to the appropriate authorities. 
+We do have a single mailing list which we use to send out our [weekly e-zine](http://www.pointsincase.com/e-zine.htm). We never add people to this unless they explicitly tell us to (i.e. sign up online).
 
 * * *
 
 **Site Contact**
 
-If you use any instant messaging system to send instant messages (IM's) to the AOL Instant Messenger screenname "courtjester49," you agree to have the entirety of your messages published **_with your screenname_**. If you are under 13 years of age, or do not wish your instant messages to be published, please do not send messages at all.  We reserve the right to edit IM's for brevity, clarity, grammar and spelling.
+If you use any instant messaging system to send instant messages (IM's) to the AOL Instant Messenger screenname "courtjester5000," you agree to have the entirety of your messages published **_with your screenname_**. If you are under 13 years of age, or do not wish your instant messages to be published, please do not send messages at all.  We reserve the right to edit IM's for brevity, clarity, grammar and spelling.
 
 If you send e-mail to any "AT pointsincase.com" email address, we assume you are permitting your email and/or attachments to be published with your name and your email address. We reserve the right to edit emails and attachments for brevity, clarity, or grammar and spelling. All submissions become copyright of HotIron Media.
 
@@ -38,7 +38,8 @@ If you send e-mail to any "AT pointsincase.com" email address, we assume you are
 
 **Public Feedback**
 
-Personal information collected through our public feedback system on columns and articles is not shared with anyone else, nor is it used in any way other than to be displayed with your post. Our feedback system is moderated however. We reserve the right to edit and/or delete comments at any time. This is usually done only when we feel a particular posting is especially vulgar, hateful, or otherwise inappropriate. Please, keep it civil, it's only a humor site.
+Personal information collected through our public feedback system on columns and articles is not shared with anyone else, nor is it used in any way other than to be displayed with your post. Our feedback system IS moderated however. We reserve the right to edit and/or delete comments at any time. This is usually done only when we feel a particular posting is especially vulgar, hateful, or otherwise inappropriate. Please, keep it civil, it's only a humor site.  
+ 
 
 * * *
 
