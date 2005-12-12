@@ -1,298 +1,658 @@
-<!--The following is the downloaded HTML source of the wilsonsleather.com privacy policy that was archived on 2003-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030408023244id_/http%3A//wilsonsleather.com/custserv/custcare.jsp%3FruleID%3D329%26itemID%3D2%26itemType%3DCONTENT_FOLDER) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wilsonsleather.com privacy policy that was archived on 2005-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212151948id_/http%3A//www.wilsonsleather.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.-->
 
-<html><head>
-          
-		<meta http-equiv="Keywords" name="Keywords" content="accessories, agendas, apparel, belt bags, biker coats, business cases, carry on bags, cashmere lined gloves, club wear, computer cases, computer sleeves, corporate gifts, day partners, day planners, dayrunners, deerskin gloves, driving gloves, duffels, duffles, executive briefs, executive accessories, fannypacks, fashion leather, filofax refills, franklin planners, gift ideas, italian leather, ladies coats, lambskin, leather, leather accessories, leather backpacks, leather belts, leather briefcases, leather care, leather conditioner, leather cleaner, leather coats, leather duffel bags, leather experts, leather fashion, leather garments, leather goods, leather gifts, leather gloves, leather handbags, leather jackets, leather jeans, leather mini skirts, leather organizers, leather pants, leather products, leather protector, leather travel bags, leather purses, leather shirts, leather shorts, leather skirts, leather sports coats, leather spray, leather store, leather vests, leather apparel, laptop accessories, leather luggage, leather suitcases, leather wallets, mens leather coats, mens leather jackets, mjulian, maxima, motorcycle jackets, mens accessories, mens fashion, nascar jackets, nba jackets, nfl jackets, palm pilots, palm pilot cases, pda cases, pelle studio, phone cases, planners, phone accessories, softsided briefcases, sport bags, suede coats, team jackets, the leather experts, travel bags, urban clothing, urban wear, wheeled luggage, wilson, wilsons, wilson leather, wilsons leather, wilsonsleather, wilsonleather, womens accessories, womens coats, womens executive">
-		<meta http-equiv="Description" name="Description" content="Wilsons Leather apparel and accessories are designed in today's latest fashions. Style. Quality. And value. Looks you'll love from Wilsons Leather. ">
-<title>Wilsons Leather</title>
-<link rel="stylesheet" type="text/css" href="/includes/style.css" title="style">
-<script src="/includes/flyopen.js"></script>
-<style>A:link {color:#666666;}A:visited {color:#666666;}A:hover {color:#CC0000;} </style>
-<meta http-equiv="Cache-Control" content="no-cache">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="0">
-     </head>
-<body bgcolor="#FFFFFF" marginwidth="2" marginheight="2" topmargin="2" leftmargin="2">
-	<!-- Content Wrap Start -->
-<table border="0" width="736" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td colspan="3">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 
-
-
-
-
-<!--
-<script LANGUAGE="JavaScript1.2" SRC="/inc/dhtmlinitscript.inc"></script>
-<script LANGUAGE="JavaScript1.2" SRC="/inc/menu.inc"></script>
-<script LANGUAGE="JavaScript1.2" SRC="/inc/menustyles.inc"></script>
-<script LANGUAGE="JavaScript1.2" SRC="/inc/menus.inc"></script>
--->
-
-<script language="JavaScript"><!--
-
-// If body onload functionality is needed on a page, add method initPage() to that page.
-//  If the function exists, initNavHeader will call it.
-function initNavHeader()
+	<title>Wilsons Leather Customer Care</title>
+	<script language="Javascript">
+function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
 {
-  if ( typeof(window["initPage"])=="function" ){
-      // Function exists in the browser
-	  initPage();
-  }
+    if (!validateEmail(document.emailForm.emailAddress.value))
+	{
+        alert('Please enter a valid e-mail address.');
+        return false;
+    }
+	if(type == 1)
+	{
+        document.emailForm.submit();
+	}
 }
-//-->
+
+function validEmail(email)
+{
+    var vAtSym    = email.indexOf('@')
+    var vPeriod   = email.lastIndexOf('.')
+    var vSpace    = email.indexOf(' ')
+    var vLength   = email.length - 1   // Array is from 0 to length-1
+
+    if (vAtSym < 1 ||                     // '@' cannot be in first position
+    	vPeriod <= vAtSym + 1 ||          // Must be atleast one valid char btwn '@' and '.'
+    	vPeriod == vLength  ||            // Must be atleast one valid char after '.'
+    	vSpace  != -1)                    // No empty spaces permitted
+	{
+        return false;
+    }
+	return true;
+}
+
+
+
+
+
+function showCustomPopUp(thisUrl,thisName,theseParams)
+{
+	remote = open(thisUrl, thisName, theseParams);
+}
+
+
+// WE SHOULD NOT NEED THESE jh
+
+
+
+//	verisign POP-UP WINDOW
+function popUp(url)
+{
+	sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
+	self.name = "mainWin";
+}
+
+function jump(url)
+{
+	if (url != "" && url != null)
+	{
+		self.location.href = url;
+	}
+}
 </script>
-<!-- Nav Header Start-->
+
+   <link rel="stylesheet" type="text/css" href="../include/store.css">
+</head>
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" bgcolor="#C8C8C8">
+<a name="pageTop()"><!-- --></a>
+<!-- header begin -->
+<table cellpadding="0" cellspacing="0" border="0" width="763" align="center" bgcolor="#FFFFFF">
+<tbody><tr>
+	<td bgcolor="#FFFFFF" height="42">
+		
 
 
 
 
+<script language="JavaScript1.2">
+/*
+Ahmed Bakran - 08/19/05 - Wilson Menu Enhancements
+GSi Commerce, Inc.
+- Added timeout delay for mouseover menu options
+- Added timeout delay when there is no menu activity
+*/
+//note with global variables: ALL MUST BE SET FOR MENU TO FUNCTION
+//global constants
+var DIV_NAME = 'subtext'; //name of div on page (submenu text)
+var TIMEOUT_DELAY = 5000; //timeout delay in milliseconds when no menu activity exists
+var TRIGGER_ON_DELAY = 250; //mouseover delay in milliseconds from mouseover main menu option to another option
+var MENU_OPTIONS = 8; //number of main menu options
 
 
+//local variables
+var checkItMain;
+var checkItSub;
+var init_main;
+var init_sub;
+var thispage = -1;
+var s_thispage = "-1";
+
+function initDelay(num) {
+	imgOn("image"+num);
+	reset(num);
+}
+
+function initDelaySelected(num) {
+    if (checkItMain) clearTimeout(checkItMain);
+    if (checkItSub) clearTimeout(checkItSub);
+	reset(num);
+}
+
+function triggerDelaySelected(num,message) {
+  
+  var s = "initDelaySelected("+num+")";
+  var m = "writeSubnav('"+DIV_NAME+"','"+message+"')";
+  
+  if(init_main) clearTimeout(init_main);
+    init_main = setTimeout(s,TRIGGER_ON_DELAY);
+  if(init_sub) clearTimeout(init_sub);
+    init_sub = setTimeout(m,TRIGGER_ON_DELAY);
+
+}
+
+function triggerDelay(num,message) {
+  
+  var s = "initDelay("+num+")";
+  var m = "writeSubnav('"+DIV_NAME+"','"+message+"')";
+   
+  if(init_main) clearTimeout(init_main);
+    init_main = setTimeout(s,TRIGGER_ON_DELAY);
+  if(init_sub) clearTimeout(init_sub);
+    init_sub = setTimeout(m,TRIGGER_ON_DELAY);
+}
+
+function delayOff() {
+
+	//if(imgName.name)imgName=imgName.name;
+    if(init_main) clearTimeout(init_main);
+    if(init_sub) clearTimeout(init_sub);
+
+	string = "writeSubnav('"+DIV_NAME+"','')";
+	if (checkItMain) clearTimeout(checkItMain);
+		checkItMain = setTimeout(string,TIMEOUT_DELAY);
+	if (checkItSub) clearTimeout(checkItSub);
+		checkItSub = setTimeout("timeout()",TIMEOUT_DELAY);
+
+}
+
+function delayOffSelected(imgName) {
+
+	if(imgName.name)imgName=imgName.name;
+    if(init_main) clearTimeout(init_main);
+    if(init_sub) clearTimeout(init_sub);
+//alert('qq');
+	string = "writeSubnav('"+DIV_NAME+"','')";
+	if (checkItMain) clearTimeout(checkItMain);
+		checkItMain = setTimeout(string,TIMEOUT_DELAY);
+	if (checkItSub) clearTimeout(checkItSub);
+		checkItSub = setTimeout("reset("+imgName+")",TIMEOUT_DELAY);
+
+}
+
+function writeSubnav(name, message) {
+
+    if (document.layers) {
+       with(document.layers[name].document)
+       {
+       		open();
+       		write(message);
+       		close();
+       	}
+    } else {
+        if (document.all) {
+            eval("document.all." + name + ".innerHTML='" + message + "'");
+        } else {
+            document.getElementById(name).innerHTML = message;
+        }
+    }
+}
+
+ if (document.images) {
+
+		image1on = new Image();
+		image1on.src = "/images/women_on_new.gif";
+		image2on = new Image();
+		image2on.src = "/images/men_on_new.gif";
+		image3on = new Image();
+		image3on.src = "/images/kids_on_new.gif";
+		image4on = new Image();
+		image4on.src = "/images/extended_sizes_on_new.gif";
+		image5on = new Image();
+		image5on.src = "/images/pets_on_new.gif";
+		image6on = new Image();
+		image6on.src = "/images/handbags_on_new.gif";
+		image7on = new Image();
+		image7on.src = "/images/accessories_on_new.gif";
+		image8on = new Image();
+		image8on.src = "/images/business_travel_on_new.gif";
+		image9on = new Image();
+		image9on.src = "/images/home_goods_on.gif";
+		
+		image1off = new Image(); 
+		image1off.src = "/images/women_new.gif"; 
+		image2off = new Image(); 
+		image2off.src = "/images/men_new.gif";
+		image3off = new Image();
+		image3off.src = "/images/kids_new.gif";
+		image4off = new Image();
+		image4off.src = "/images/extended_sizes_new.gif";
+		image5off = new Image();
+		image5off.src = "/images/pets_new.gif";
+		image6off = new Image();
+		image6off.src = "/images/handbags_new.gif";
+		image7off = new Image();
+		image7off.src = "/images/accessories_new.gif";
+		image8off = new Image();
+		image8off.src = "/images/business_travel_new.gif";
+		image9off = new Image();
+		image9off.src = "/images/home_goods.gif";
+		
+		//new topnav
+		image1on_s = new Image();
+		image1on_s.src = "/images/team_store_on_s.jpg";
+		image2on_s = new Image();
+		image2on_s.src = "/images/gift_center_on_s.jpg";
+		image3on_s = new Image();
+		image3on_s.src = "/images/clearance_on_s.jpg";
+		
+		image1off_s = new Image();
+		image1off_s.src = "/images/team_store_s.jpg";
+		image2off_s = new Image();
+		image2off_s.src = "/images/gift_center_s.jpg";
+		image3off_s = new Image();
+		image3off_s.src = "/images/clearance_s.jpg";
+
+}
+
+function imgOn(imgName) {
+	if (document.images) {
+		if(imgName.name)imgName=imgName.name;
+		if (checkItMain) clearTimeout(checkItMain);
+		if (checkItSub) clearTimeout(checkItSub);
+	    if(document[imgName]) {
+		  if(imgName.toString().indexOf(s_thispage) == -1)
+		    document[imgName].src = eval(imgName + "on.src");
+		}
+	}
+}
+
+function imgOff(imgName) {
+
+	if (document.images) {
+      if(document[imgName]) {
+		if(imgName.toString().indexOf(thispage) == -1)
+	  	  document[imgName].src = eval(imgName + "off.src");
+	  }
+	}
+}
+
+function timeout() { 
+	for(var i=1;i<MENU_OPTIONS+1;i++) {
+	  if(i!=thispage)
+	   imgOff("image"+i);
+	}
+} 
+
+function reset(except) 
+{ 
+	for(var i=1;i<MENU_OPTIONS+1;i++) {
+	  if(i!=except && i!=thispage)
+	   imgOff("image"+i);
+	}
+} 
+
+function selectedClear() {
+	if (checkItMain) clearTimeout(checkItMain);
+	if (checkItSub) clearTimeout(checkItSub);
+}
+
+function changeSub(picName,imgName)
+ {
+   if (document.images)
+    {
+      d_imgOn=eval(imgName + ".src");
+      document[picName].src= d_imgOn;
+    }
+ }
+</script>
 
 
-<table width="736" border="0" cellspacing="0" cellpadding="0">	<tbody><tr>		<td><a href="/index.jsp"><img src="/images/topnav/logo.gif" border="0" alt="Wilsons Leather" width="128" height="60"></a></td>		<td><table width="607" border="0" cellspacing="0" cellpadding="0">			<tbody><tr>				<td><img src="/images/global/spacer.gif" width="1" height="19" border="0"></td>				<td align="right"><table border="0" cellspacing="0" cellpadding="0">					<tbody><tr>						                <td><a href="/account/newaccount/newaccountmain.jsp?gate=acct"><img src="/images/topnav/register.gif" border="0" alt="Sign In" width="42" height="19"></a></td>						                <td><a href="/account/login/loginmain.jsp?gate=acct&amp;toURL=/account/accountmain.jsp"><img src="/images/topnav/myaccount.gif" border="0" alt="Sign In" width="68" height="19"></a></td>						<td><a href="JavaScript:showStoreLocator('http://wilsons.know-where.com/wilsons/')"><img src="/images/topnav/storeloc.gif" border="0" alt="Sign In" width="73" height="19"></a></td>						<td><a href="/basket/basketmain.jsp?gate=cart"><img src="/images/topnav/mycart.gif" border="0" width="53" height="19" alt="My Cart"></a></td>					</tr>				</tbody></table></td>			</tr>			<tr>				<td align="right" colspan="2"><table border="0" cellpadding="0" cellspacing="0">				<tbody><tr>				   <td><a href="/jump.jsp?itemID=23&amp;itemType=CATEGORY&amp;iMainCat=23&amp;cmCat=WO" onmouseover="rollover('women_top','/images/topnav/women_on.gif');" onmouseout="rollover('women_top','/images/topnav/women_off.gif');"><img name="women_top" src="/images/topnav/women_off.gif" width="73" height="23" border="0" alt="Women"></a></td>				   <td><a href="/jump.jsp?itemID=4&amp;itemType=CATEGORY&amp;iMainCat=4&amp;cmCat=ME" onmouseover="rollover('men_top','/images/topnav/men_on.gif');" onmouseout="rollover('men_top','/images/topnav/men_off.gif');"><img name="men_top" src="/images/topnav/men_off.gif" width="46" height="23" border="0"></a></td>				   <td><a href="/jump.jsp?itemID=142&amp;itemType=CATEGORY&amp;iMainCat=142&amp;cmCat=AP" onmouseover="rollover('apparel_top','/images/topnav/apparel_on.gif');" onmouseout="rollover('apparel_top','/images/topnav/apparel_off.gif');"><img name="apparel_top" src="/images/topnav/apparel_off.gif" width="64" height="23" border="0" alt="Apparel"></a></td>				   <td><a href="/jump.jsp?itemID=143&amp;itemType=CATEGORY&amp;iMainCat=143&amp;cmCat=AC" onmouseover="rollover('access_top','/images/topnav/access_on.gif');" onmouseout="rollover('access_top','/images/topnav/access_off.gif');"><img name="access_top" src="/images/topnav/access_off.gif" width="87" height="23" border="0" alt="Accessories"></a></td>				   <td><a href="/jump.jsp?itemID=145&amp;itemType=CATEGORY&amp;iMainCat=145&amp;cmCat=SB" onmouseover="rollover('shopbrand_top','/images/topnav/shopbrand_on.gif');" onmouseout="rollover('shopbrand_top','/images/topnav/shopbrand_off.gif');"><img name="shopbrand_top" src="/images/topnav/shopbrand_off.gif" width="100" height="23" border="0" alt="Shop by Brand"></a></td>				   <td><a href="/jump.jsp?itemID=147&amp;itemType=CATEGORY&amp;iMainCat=147&amp;cmCat=SC" onmouseover="rollover('shopcat_top','/images/topnav/shopcat_on.gif');" onmouseout="rollover('shopcat_top','/images/topnav/shopcat_off.gif');"><img name="shopcat_top" src="/images/topnav/shopcat_off.gif" width="113" height="23" border="0" alt="Shop by Category"></a></td>				   <td><a href="/jump.jsp?itemID=148&amp;itemType=CATEGORY&amp;iMainCat=148&amp;cmCat=HD" onmouseover="rollover('hotdeals_top','/images/topnav/hotdeals_on.gif');" onmouseout="rollover('hotdeals_top','/images/topnav/hotdeals_off.gif');"><img name="hotdeals_top" src="/images/topnav/hotdeals_off.gif" width="73" height="23" border="0" alt="Hot Deals"></a></td>				   <td><a href="/jump.jsp?itemID=149&amp;itemType=CATEGORY&amp;iMainCat=149&amp;cmCat=GF" onmouseover="rollover('gifts_top','/images/topnav/gifts_on.gif');" onmouseout="rollover('gifts_top','/images/topnav/gifts_off.gif');"><img name="gifts_top" src="/images/topnav/gifts_off.gif" width="50" height="23" border="0" alt="Gifts"></a></td>				</tr>				</tbody></table></td>			</tr>			<tr>				<td><img src="/images/global/spacer.gif" width="1" height="18" border="0"></td>				<td align="right"><font class="normal"><a href="/custserv/custcare.jsp?ruleID=338&amp;itemID=2&amp;itemType=CONTENT_FOLDER">Customer Care</a><img src="/images/global/spacer.gif" width="10" height="1" border="0"><a href="/custserv/track.jsp?gate=trac">Track My Order</a><img src="/images/global/spacer.gif" width="10" height="1" border="0"><a href="/custserv/custcare.jsp?ruleID=323&amp;itemID=2&amp;itemType=CONTENT_FOLDER">FAQs</a><img src="/images/global/spacer.gif" width="10" height="1" border="0"><a href="/custserv/custcare.jsp?ruleID=378&amp;itemID=2&amp;itemType=CONTENT_FOLDER">Site Map</a><img src="/images/global/spacer.gif" width="3" height="1" border="0"></font></td>			</tr>		</tbody></table></td>	</tr></tbody></table>
-
-<!-- Nav Header End--></td>
+<table cellpadding="0" cellspacing="0" border="0" width="763" align="center">
+<tbody><tr>
+	<td height="7" bgcolor="#C8C8C8"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="7"></td>
 </tr>
 <tr>
-	<td><img src="/images/global/spacer.gif" width="129" height="11" border="0"></td>
-	<td><img src="/images/global/spacer.gif" width="15" height="11" border="0"></td>
-	<td><img src="/images/global/spacer.gif" width="592" height="11" border="0"></td>
+	<td width="598">
+		<table cellpadding="0" cellspacing="0" border="0" width="763" align="center" bgcolor="#FFFFFF">
+		<tbody><tr>
+			<td width="144" height="69" valign="top"><a href="/home/index.jsp"><img src="http://WIL.imageg.net/images/logo.gif" width="144" height="69" border="0"></a></td>
+			<td width="620" valign="top" align="right"><table cellpadding="0" cellspacing="0" border="0" width="100%" height="22">
+							     <tbody><tr>
+							         <td height="22" bgcolor="#F0F0F0" valign="center" align="right"><a href="/helpdesk/index.jsp" class="topnavlink">Customer Care</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.wilsonsleather.com/coreg/index.jsp?step=ot" class="topnavlink">Track Order</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../cartHandler/index.jsp?action=changeQuantity&amp;wlName=default&amp;clickid=topnav_wishList_txt" class="topnavlink">Wish List</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.wilsonsleather.com/coreg/index.jsp?step=register" class="topnavlink">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/cart/index.jsp?clickid=topnav_cart_txt" class="topnavlink">Shopping Cart</a>&nbsp;(0 items)</td>
+							     	<td width="12" bgcolor="#F0F0F0"><img src="http://WIL.imageg.net/images/pixel.gif" width="12" height="22" border="0"></td>
+								 </tr>
+							</tbody></table><br>
+							<table cellpadding="0" cellspacing="0" border="0" align="right">
+							<tbody><tr>
+								<td align="right">
+							<form action="/searchHandler/index.jsp" name="search" style="margin:0px;display:inline;"><input type="text" size="26" name="keywords" style="font-size:10px;"><input type="image" src="http://WIL.imageg.net/images/search.gif" hspace="0" border="0" align="absmiddle" name="">
+						</form></td>
+						</tr>
+						<tr>
+						  <td>
+						    <img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="1"><!--<span class="topnavtext">enter style, SKU, or search word(s)</span>-->
+						    <img src="http://WIL.imageg.net/images/pixel.gif" width="32" height="1">
+						  </td>
+						</tr>
+					</tbody></table>
+				</td>
+		</tr>
+		</tbody></table> 
+		<table cellpadding="0" cellspacing="0" border="0" width="763" align="center" bgcolor="#FFFFFF">
+		<tbody><tr>
+		  <td align="center"><a href="/shop/index.jsp?categoryId=2096379" onmouseover="changeSub('img1','image1on_s');" onmouseout="changeSub('img1','image1off_s')"><img src="http://WIL.imageg.net/images/team_store_s.jpg" name="img1" border="0"></a><a href="/shop/index.jsp?categoryId=1842139" onmouseover="changeSub('img2','image2on_s');" onmouseout="changeSub('img2','image2off_s')"><img src="http://WIL.imageg.net/images/gift_center_s.jpg" name="img2" border="0"></a><a href="/category/index.jsp?categoryId=1855947" onmouseover="changeSub('img3','image3on_s');" onmouseout="changeSub('img3','image3off_s')"><img src="http://WIL.imageg.net/images/clearance_s.jpg" name="img3" border="0"></a></td>
+		</tr>
+		</tbody></table>
+		<table cellpadding="0" cellspacing="0" border="0" width="763" align="center" bgcolor="#E0E3EA">
+		<tbody><tr>
+				<td height="30"><a href="/shop/index.jsp?categoryId=1855603" onmouseout="delayOff(image1);" onmouseover="triggerDelay(1,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=2066927&amp;cp=1855603 class=nav>Womens Hot Picks</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=2013549&amp;cp=1855603 class=nav>View All Jackets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/category/index.jsp?categoryId=2013553&amp;cp=1855603 class=nav>Jackets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=2013616&amp;cp=1855603 class=nav>Womens Cycle</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=1995935&amp;cp=1855603 class=nav>Suede</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=1995936&amp;cp=1855603 class=nav>Womens NASCAR®</a></font>')"><img src="http://WIL.imageg.net/images/women_new.gif" name="image1" height="30" border="0"></a><a href="/shop/index.jsp?categoryId=1855604" onmouseout="delayOff(image2);" onmouseover="triggerDelay(2,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/family/index.jsp?categoryId=2066926&amp;cp=1855604 class=nav>Mens Hot Picks</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/family/index.jsp?categoryId=2013496&amp;cp=1855604 class=nav>View All Jackets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/category/index.jsp?categoryId=2013488&amp;cp=1855604 class=nav>Jackets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/family/index.jsp?categoryId=2011943&amp;cp=1855604 class=nav>Mens Cycle</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/family/index.jsp?categoryId=2112314&amp;cp=1855604 class=nav>Mens NASCAR®</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/category/index.jsp?categoryId=1855607&amp;cp=1855604 class=nav>Accessories</a></font>')"><img src="http://WIL.imageg.net/images/men_new.gif" height="30" name="image2" border="0"></a><a href="/category/index.jsp?categoryId=1855605" onmouseout="delayOff(image3);" onmouseover="triggerDelay(3,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image3) onmouseout=delayOff(image3) href=/family/index.jsp?categoryId=1831970&amp;cp=1855605 class=nav>Girls</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image3) onmouseout=delayOff(image3) href=/family/index.jsp?categoryId=1831971&amp;cp=1855605 class=nav>Boys</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image3) onmouseout=delayOff(image3) href=/family/index.jsp?categoryId=1855981&amp;cp=1855605 class=nav>Clearance</a></font>')"><img src="http://WIL.imageg.net/images/kids_new.gif" height="30" name="image3" border="0"></a><a href="/shop/index.jsp?categoryId=2101302" onmouseout="delayOff(image4);" onmouseover="triggerDelay(4,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image4) onmouseout=delayOff(image4) href=/family/index.jsp?categoryId=2106748&amp;cp=2101302 class=nav>Womens</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image4) onmouseout=delayOff(image4) href=/family/index.jsp?categoryId=2106749&amp;cp=2101302 class=nav>Mens</a></font>')"><img src="http://WIL.imageg.net/images/extended_sizes_new.gif" height="30" name="image4" border="0"></a><a href="/category/index.jsp?categoryId=2151891" onmouseout="delayOff(image5);" onmouseover="triggerDelay(5,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151892&amp;cp=2151891 class=nav>Active</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151893&amp;cp=2151891 class=nav>Cold Weather</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151894&amp;cp=2151891 class=nav>Princess</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151895&amp;cp=2151891 class=nav>Western</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151896&amp;cp=2151891 class=nav>Rebel</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2156846&amp;cp=2151891 class=nav>Coats</a></font>')"><img src="http://WIL.imageg.net/images/pets_new.gif" height="30" name="image5" border="0"></a><a href="/shop/index.jsp?categoryId=1855606" onmouseout="delayOff(image5);" onmouseover="triggerDelay(6,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2163822&amp;cp=1855606 class=nav>Handbags Hot Picks</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=1831982&amp;cp=1855606 class=nav>View All Handbags</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2018685&amp;cp=1855606 class=nav>Novelty</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2018686&amp;cp=1855606 class=nav>Totes</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2018687&amp;cp=1855606 class=nav>Shoulder</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2018688&amp;cp=1855606 class=nav>Hobo</a></font>')"><img src="http://WIL.imageg.net/images/handbags_new.gif" height="30" name="image6" border="0"></a><a href="/category/index.jsp?categoryId=1855607" onmouseout="delayOff(image7);" onmouseover="triggerDelay(7,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/family/index.jsp?categoryId=1831967&amp;cp=1855607 class=nav>Belts</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/category/index.jsp?categoryId=2158211&amp;cp=1855607 class=nav>Gloves</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/category/index.jsp?categoryId=2158212&amp;cp=1855607 class=nav>Hats</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/family/index.jsp?categoryId=1837878&amp;cp=1855607 class=nav>Womens Footwear</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/category/index.jsp?categoryId=1832081&amp;cp=1855607 class=nav>Wallets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/family/index.jsp?categoryId=1831991&amp;cp=1855607 class=nav>Watches</a></font>')"><img src="http://WIL.imageg.net/images/accessories_new.gif" height="30" name="image7" border="0"></a><a href="/category/index.jsp?categoryId=2101303" onmouseout="delayOff(image8);" onmouseover="triggerDelay(8,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019559&amp;cp=2101303 class=nav>Mens Executive</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019560&amp;cp=2101303 class=nav>Womens Executive</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2018890&amp;cp=2101303 class=nav>Briefcases</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019569&amp;cp=2101303 class=nav>Messengers / Backpacks</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019584&amp;cp=2101303 class=nav>Portfolios</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019585&amp;cp=2101303 class=nav>Planners / Organizers</a></font>')"><img src="http://WIL.imageg.net/images/business_travel_new.gif" height="30" name="image8" border="0"></a><a href="/category/index.jsp?categoryId=2150898" onmouseout="delayOff(image9);" onmouseover="triggerDelay(9,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151886&amp;cp=2150898 class=nav>Accents</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151887&amp;cp=2150898 class=nav>Global  Bazaar</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151888&amp;cp=2150898 class=nav>Loft</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151889&amp;cp=2150898 class=nav>Table Top</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151890&amp;cp=2150898 class=nav>Travel/Games</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2156863&amp;cp=2150898 class=nav>Bowls/Vases</a></font>')"><img src="http://WIL.imageg.net/images/home_goods.gif" height="30" name="image9" border="0"></a>
+			</td>
+		</tr>	
+			<tr>
+				<td height="19" bgcolor="#E0E3EA" colspan="7"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="19">
+				<div align="center" id="subtext" style="width:763px;height:19px;top:124px;position:absolute;z-index:2;text-align:left;">
+				</div>
+				
+	<!-- Start of SearchMarketing.com Natural Pixel Tag: Please do not remove-->
+	<script language="JavaScript"><!--
+	{
+		document.write("<img src=http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=170&x=" +escape(document.referrer) +  " width=1 height=1>");
+	}
+	//-->
+	</script><img src="http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=170&amp;x=" width="1" height="1">
+	<!-- End SearchMarketing.com Natural Pixel Tag -->
+
+
+				</td>
+			</tr>
+		</tbody></table>
+	</td>
 </tr>
-<tr valign="top">
-	<td width="129" bgcolor="#f9f5ea" rowspan="2">
+</tbody></table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="763" align="center">
+	<tbody><tr>
+		<td align="right" style="background-image: url(http://WIL.imageg.net/images/WIL_header_banner_bg.gif);"><a href="http://oas.imageg.net/O/a/s/www.wilsonsleather.com/helpdesk/index.jsp/211125555/Top1/default/empty.gif/61633134303531323433396439353130" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/default/empty.gif" width="2" height="2" alt="" border="0"></a></td>
+	</tr>
+</tbody></table>
+
+
+		<table cellpadding="6" border="0" width="100%">
+    <tbody><tr><td>
+        <a href="/home/index.jsp" class="breadcrumb">
+       Return to shopping</a>&nbsp;
+|&nbsp;
+
+    <a class="breadcrumb" href="/helpdesk/index.jsp">Customer Care</a>
+
+    </td></tr>
+</tbody></table>
+<br>
+
+
+
+
+</td>
+</tr>
+</tbody></table>
+
+
+	<table cellpadding="0" cellspacing="0" border="0" width="763" align="center" bgcolor="#FFFFFF">
+	<tbody><tr>
+	<td width="220" valign="top">
+	<!-- navigation -->
+	<table width="200" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+		<td bgcolor="#DCE3E9" height="18" valign="middle" colspan="2">
+		&nbsp;&nbsp;&nbsp;<font class="footerlink2">Safety, Security and Privacy</font></td>
+	</tr>
+		
+
+		
+				<tr>
+				
+									<td valign="top" width="30"></td><td valign="top" width="170"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="footerlink2">Secure Shopping Guarantee</a><br><img src="/images/pixel.gif" width="1" height="3"><br></td>
+								
+				</tr><tr>
+				
+									<td valign="top" width="30"></td><td valign="top" width="170"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="footerlink2">Terms &amp; Conditions</a><br><img src="/images/pixel.gif" width="1" height="3"><br></td>
+								
+				</tr><tr>
+				
+									<td valign="top" width="30"></td><td valign="top" width="170"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="footerlink2">Privacy Policy</a><br><img src="/images/pixel.gif" width="1" height="3"><br></td>
+								
+				</tr><tr>
+				
+									<td valign="top" width="30"></td><td valign="top" width="170"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard&amp;topic=securecode" class="footerlink2">MasterCard SecureCode</a><br><img src="/images/pixel.gif" width="1" height="3"><br></td>
+								
+				</tr><tr>
+				
+									<td valign="top" width="30"></td><td valign="top" width="170"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=vbv&amp;topic=vbv" class="footerlink2">Verified by Visa</a><br><img src="/images/pixel.gif" width="1" height="3"><br></td>
+									
+		
+
+	
+</tr></tbody></table>
+	</td>
+	<td><img src="/images/pixel.gif" width="20" height="1"></td>
+	<td valign="top"><a name="_top"></a><!-- panel -->
+	<!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 1853503 with pd:null-->
+<!--STOREMAN PANEL: helpdesk/WIL_safety_security_privacy_9-3-1.4279.jsp-->
+
+			<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
+
+<smpanel xmlns:sm="http://engineering.gspt.net/storeman/sm-DTDinfo.html">
+
+<table border="0" cellspacing="0" cellpadding="0" width="90%">
+	<tbody><tr>
+		<td valign="top">
+			<p class="footerlink2"><b>Privacy Policy</b></p></td>
+</tr>
+<tr>
+<td>
+<br>
+
+GSI Commerce Solutions, Inc. ("GSI", "we" or "us") operates this Web site, www.wilsonsleather.com. We recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site.<br><br>
+Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our Customer Service Department in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.<br><br>
+If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by e-mail at <a href="mailto:customercare@wilsonsleather.com" class="pagelink">customercare@wilsonsleather.com</a>.<br><br>
+<br><br>
+
+<u>What Information About Me Is Collected and Stored?</u><br>
+
+We collect and store information that you enter into this Web site or that you provide to our Customer Service Department.  For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, e-mail address, telephone number, credit card number and expiration date. This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. This information also may be used to contact you about sales, special offers and new site features, unless you have <u>opted</u> not to receive promotional communications in connection with this Web site.<br><br>
+We collect and store certain other information automatically whenever you interact with this Web site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web site and to provide our customers with a fulfilling shopping experience.<br><br>
+Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and to optimize their shopping experience.  Cookies also allow us to hold selections in a shopping cart when a user leaves this Web site without checking out. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web site.<br><br>
+We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.<br><br>
+
+
+<u>Is Information Collected From Children?</u><br>
+
+We do not sell or ship any items ordered through this Web site directly to anyone who we know to be under the age of 18, nor do we collect any personal information from anyone who we know to be under the age of 18. If you are under the age of 18, you should use this Web site only with the involvement of a parent or guardian and should not submit any personal information to us.<br><br>
+ 
+<u>With Whom Do You Share Information?</u><br>
+
+We do not share with others any personal information that you provide to us through this Web site or through our Customer Service Department, except with your consent or as described in this Privacy Policy.<br><br>
+We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing.  We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform.<br><br>
+We also may offer you the opportunity to purchase products and services provided by third parties, such as magazine subscriptions and extended warranty plans. If you purchase any of these products or services, we will provide your personal information to the third parties that provide them, but we authorize these third parties to use this information only in connection with the products and services they provide.<br><br>
+We may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of GSI or any of our affiliates, business partners, customers or others.<br><br>
+We may share non-personal information with our marketing partners, advertisers and others from time to time.  Examples of such non-personal information include the number of users who visited this Web site during a specific time period or purchased a specific product through this Web site.  This information generally is shared in an aggregated form.<br><br>
+As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that GSI or substantially all of our assets are acquired by a third party, such information may be one of the transferred assets (unless the information was collected under a previous Privacy Policy that did not permit such disclosure).  Under such circumstances, we would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy.<br><br>
+
+
+<u>What Steps Are Taken To Keep Personal Information Secure?</u><br>
+
+We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an e-mail address and password. You must provide an appropriate e-mail address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by e-mail at customercare@wilsonsleather.com or by phone at 1-866-305-4704.<br><br>
+
+<u>How Can I Access, Correct and Update Personal Information?</u><br>
+
+You can access, correct and update certain personal information that you have provided to us by clicking on "Manage Your Account" within the Help Desk area of this Web site.<br><br>
+
+
+<u>Can I Indicate Whether or Not I Want To Receive Promotional Communications?</u><br>
+
+There are several ways in which you can tell us whether or not you want to receive promotional communications from us.  When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard.  You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you.<br><br>
+
+
+<u>What Happens When I Link To or From Another Web Site?</u><br>
+
+This Web site may contain links to Web sites operated by third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites. We encourage you to be aware of when you leave this Web site and to read the privacy policies of each and every Web site that you visit.<br><br>
+If you have accessed this Web site through a link from certain of our advertising or marketing partners, this Web site may include a frame of the applicable advertising or marketing partner. Nevertheless, the information you provide to us through these framed Web pages is collected by us, and our use of this information is governed by this Privacy Policy.<br><br>
+
+
+<u>What About Contests and Sweepstakes?</u><br>
+
+When we run a contest or sweepstakes relating to this Web site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed.<br><br>
+
+
+<u>How Will I Be Informed About Changes Regarding This Privacy Policy?</u><br>
+
+If we make any material changes to this Privacy Policy, we will post a notice on this Web site notifying users of the changes. In some cases, we also may send an e-mail notifying users of the changes. You should check this Web site periodically to see if any recent changes to this Privacy Policy have occurred.
+
+</td>
+</tr>
+</tbody></table>
+<br><br>
+</smpanel>
+
+
+
+<!--END STOREMAN PANEL helpdesk/WIL_safety_security_privacy_9-3-1.4279.jsp-->
+<!--END STOREMAN GENERATION-->
+
+
+		
+	</td>
+	</tr></tbody></table>
+	
+<!-- Begin Footer -->
 
 <script language="JavaScript">
 
 
-<!--
-  function rollover(name,source){
-    document.images[name].src=source;
-  }	
-
-  function checkFieldsSearch(frmName) {
-
-	var frmName = frmName;
-	var textcheck = "";
-	var textSKUcheck = "";
-
-	textcheck = document.searchForm.sSearch.value;
-	//trim off trailing spaces
-	while(''+textcheck.charAt(textcheck.length-1)==' '){
-		textcheck=textcheck.substring(0,textcheck.length-1);
+function emailWindow(url) {
+  	theWindow = window.open(url,
+  	'mapWin', 'width=515,height=298,left=0,top=0,scrollbars=yes,resizable=yes,left=300,top=250')
+	theWindow.focus();
 	}
-
-	//trim off leading spaces
-	while(''+textcheck.charAt(0)==' '){
-		textcheck=textcheck.substring(1,textcheck.length);
+	
+function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
+{
+    if (!validateEmail(document.emailForm.emailAddress.value))
+	{
+        alert('Please enter a valid e-mail address.');
+        return false;
+    }
+	if(type == 1)
+	{
+        document.emailForm.submit();
 	}
+}
 
-	textcheck = textcheck.toLowerCase();
-	textSKUcheck = textcheck.toLowerCase();
+function validateEmail(email)
+{
+    var vAtSym    = email.indexOf('@')
+    var vPeriod   = email.lastIndexOf('.')
+    var vSpace    = email.indexOf(' ')
+    var vLength   = email.length - 1   // Array is from 0 to length-1
 
-	if (textcheck == "") {
-		alert("\nPlease enter Search Information!");
-		return false;
-	} else if(textcheck =="the" || textcheck=="and" || textcheck =="or"){
-			alert("\n\"" + textcheck + "\" is not a valid keyword.")
-			return false;
-	} else if (textcheck.length <= 2) {
-			alert("\nPlease enter a value longer than two characters.")
-			return false;
-	} else {
-		for(var i=0; i<textcheck.length; i++){
-			if(textcheck.charAt(i) != " "){
-				return true
-			}
-		}
-		alert("\nPlease enter a valid keyword to search.")
-		return false;
-      }
-  }
-
-  function NRrollover(name,source){
-      document.images[name].src=source;
-  }
-//-->
+    if (vAtSym < 1 ||                     // '@' cannot be in first position
+    	vPeriod <= vAtSym + 1 ||          // Must be atleast one valid char btwn '@' and '.'
+    	vPeriod == vLength  ||            // Must be atleast one valid char after '.'
+    	vSpace  != -1)                    // No empty spaces permitted
+	{
+        return false;
+    }
+	return true;
+}
 </script>
-<!--   -------------- Search  ------------------------------   -->
-<table cellpadding="0" cellspacing="0" border="0" width="129">
-<tbody><tr>
-	<td colspan="3"><img src="/images/global/spacer.gif" width="1" height="5" border="0"></td>
-</tr>
-<tr>
-	<td><img src="/images/global/spacer.gif" width="4" height="1" border="0"></td>
-	<td bgcolor="#FFFFFF"><table width="120" border="0" cellspacing="0" cellpadding="0">
-		<form name="searchForm" method="get" action="/shopping/browse/directory4upmain.jsp?itemID=0&amp;itemType=INDEX&amp;iMainCat=0&amp;iSubCat=0" onsubmit="return checkFieldsSearch('searchForm')"></form>
-		<tbody><tr>
-			<td colspan="4" bgcolor="#999999"><img src="/images/global/spacer.gif" width="120" height="1" border="0"></td>
-		</tr>
-		<tr>
-			<td bgcolor="#999999"><img src="/images/global/spacer.gif" width="1" height="5" border="0"></td>
-			<td bgcolor="#FFFFFF"><img src="/images/global/spacer.gif" width="5" height="1" border="0"></td>
-			<td bgcolor="#FFFFFF"><img src="/images/global/spacer.gif" width="113" height="1" border="0"></td>
-			<td bgcolor="#999999"><img src="/images/global/spacer.gif" width="1" height="1" border="0"></td>
-		</tr>
-		<tr>
-			<td bgcolor="#999999"><img src="/images/global/spacer.gif" width="1" height="5" border="0"></td>
-			<td bgcolor="#FFFFFF"><img src="/images/global/spacer.gif" width="5" height="1" border="0"></td>
-			<td bgcolor="#FFFFFF"><font class="normalb">Search</font></td>
-			<td bgcolor="#999999"><img src="/images/global/spacer.gif" width="1" height="1" border="0"></td>
-		</tr>
-		<tr>
-			<td bgcolor="#999999"><img src="/images/global/spacer.gif" width="1" height="5" border="0"></td>
-			<td bgcolor="#FFFFFF"><img src="/images/global/spacer.gif" width="5" height="1" border="0"></td>
-			<td bgcolor="#FFFFFF"><table border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td><font face="Verdana" size="1"><input type="text" name="sSearch" size="9"></font></td>
-					<input type="hidden" name="sSearchFlag" value="search">
-					<td><input type="image" name="simpleSearch" src="/images/topnav/go.gif" border="0" value="GO"></td>
-				</tr>
-			</tbody></table></td>
-			<td bgcolor="#999999"><img src="/images/global/spacer.gif" width="1" height="1" border="0"></td>
-		</tr>
-		<tr>
-			<td bgcolor="#999999"><img src="/images/global/spacer.gif" width="1" height="5" border="0"></td>
-			<td bgcolor="#FFFFFF"><img src="/images/global/spacer.gif" width="5" height="1" border="0"></td>
-			<td bgcolor="#FFFFFF"><font class="small"><a href="/shopping/search/advancedsearchmain.jsp">advanced search</a></font></td>
-			<td bgcolor="#999999"><img src="/images/global/spacer.gif" width="1" height="1" border="0"></td>
-		</tr>
-		<tr>
-			<td bgcolor="#999999"><img src="/images/global/spacer.gif" width="1" height="5" border="0"></td>
-			<td bgcolor="#FFFFFF"><img src="/images/global/spacer.gif" width="5" height="1" border="0"></td>
-			<td bgcolor="#FFFFFF"><img src="/images/global/spacer.gif" width="113" height="1" border="0"></td>
-			<td bgcolor="#999999"><img src="/images/global/spacer.gif" width="1" height="1" border="0"></td>
-		</tr>
-		<tr>
-			<td colspan="4" bgcolor="#999999"><img src="/images/global/spacer.gif" width="120" height="1" border="0"></td>
-		</tr>
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="763" align="center" bgcolor="#FFFFFF">
+
+
 		
-	</tbody></table></td>
-	<td><img src="/images/global/spacer.gif" width="5" height="1" border="0"></td>
-</tr>	
-<tr>
-	<td colspan="3"><img src="/images/global/spacer.gif" width="1" height="5" border="0"></td>
-</tr>
-<tr>
-	<td><img src="/images/global/spacer.gif" width="4" height="1" border="0"></td>
-	<td>
 
-
-
-
-
-<script language="JavaScript">     function showPopUp(URL, PopUpProperties){          var PopUp = window.open(URL, "PopUp", PopUpProperties);          if (PopUp.focus){               PopUp.focus()          }     }</script><a href="JavaScript:showPopUp('http://www.cheetahmail.com/cgi-bin/subscribers/edit.cgi?aid=162428934&amp;r=1&amp;AFF=AFF','toolbar=no,menubar=no,status=no,scrollbars=yes,resizable=yes,width=650,height=530')"><img src="/images/kickers/homepage/2003_Refreshs/03_31_03_Refresh/0331_email.gif" width="121" height="22" border="0" alt="Sign Up For E-mail"></a></td>
-	<td><img src="/images/global/spacer.gif" width="5" height="1" border="0"></td>
-</tr>
-
-
-<!-- start subnavigation -->
-	<!--   -------------- Categories Menu ------------------------------   -->
-
-	
-	
-	<!--   -------------- End Categories Menu --------------------------   -->
-	
-	
-	<!--   -------------- fillSlotPromo2 50% off  ------------------------------   -->
-<!-- end subnavigation -->
-
-<tr>
-	<td><img src="/images/global/spacer.gif" width="4" height="1" border="0"></td>
-	<td>
-
-
-
-
-
-<img border="0" src="/images//kickers/homepage/2003_Refreshs/03_09_03_Refresh/spacer.gif"></td>
-	<td><img src="/images/global/spacer.gif" width="5" height="1" border="0"></td>
-</tr>
-<tr>
-	<td><img src="/images/global/spacer.gif" width="4" height="1" border="0"></td>
-	<td>
-
-
-
-
-
-<a href="/jump.jsp?itemID=143&amp;itemType=CATEGORY&amp;iMainCat=143&amp;cmCat=k1"><img src="/images/kickers/homepage/2003_Refreshs/03_31_03_Refresh/0331_prime-05.gif" width="121" height="180" border="0" alt="buy 1 Get 1 All Accessories"></a></td>
-	<td><img src="/images/global/spacer.gif" width="5" height="1" border="0"></td>
-</tr>
-<tr>
-	<td><img src="/images/global/spacer.gif" width="4" height="1" border="0"></td>
-	<td>
-
-
-
-
-
-<img src="spacer.gif" width="100" height="5"><br><img src="/images/kickers/homepage/2003_Refreshs/03_31_03_Refresh/0331_final.gif" width="121" height="47" usemap="#Map" border="0" alt="Final Clearance"><map name="Map"><area shape="rect" coords="58,28,97,46" href="/jump.jsp?itemID=271&amp;itemType=INDEX&amp;iMainCat=151&amp;iSubCat=271&amp;cmCat=k4"><area shape="rect" coords="24,29,54,45" href="/jump.jsp?itemID=272&amp;itemType=INDEX&amp;iMainCat=166&amp;iSubCat=272&amp;cmCat=k3"></map></td>
-	<td><img src="/images/global/spacer.gif" width="5" height="1" border="0"></td>
-</tr>
-<tr>
-	<td><img src="/images/global/spacer.gif" width="4" height="1" border="0"></td>
-	<td>
-
-
-
-
-
-<br><a href="http://www.confidencethemovie.com/contest_bigscore.html"><img src="/images/kickers/homepage/2003_Refreshs/03_31_03_Refresh/big_score_sweeps.gif" width="120" height="40" border="0" alt="Sweeps"></a></td>
-	<td><img src="/images/global/spacer.gif" width="5" height="1" border="0"></td>
-</tr>
-<tr>
-	<td><img src="/images/global/spacer.gif" width="4" height="1" border="0"></td>
-	<td>
-
-
-
-
-
-<img border="0" src="/images//kickers/spacer.gif"></td>
-	<td><img src="/images/global/spacer.gif" width="5" height="1" border="0"></td>
-</tr>
-</tbody></table>
-</td>
-	<td width="15" rowspan="2"><img src="/images/global/spacer.gif" width="15" height="1" border="0"></td>
-	<td width="592">
-	<!-- Content Block Start -->	 
-    
-    <table border="0" cellpadding="0" cellspacing="0" width="592">
+<form method="post" name="emailForm" onsubmit="return emailCheck(0);" style="display:iniline;margin:0px;"></form>
+			<input type="hidden" name="contest" value="wil_nocontest">
+			<input type="hidden" name="emailPref" value="Y">
+			<input type="hidden" name="refURL" value="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footer_privacyPolicy_img">
+<tbody><tr>
+	<td width="764" valign="top" align="center">
+	<table cellpadding="0" cellspacing="0" border="0" width="742">
+	<tbody><tr>
+		<td height="17"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="17"></td>
+	</tr>
+	<tr>
+		<td height="1" bgcolor="#D8D8D8"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td height="5"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="5"></td>
+	</tr>
+	<tr>
+		<td>
+		<table cellpadding="0" cellspacing="0" border="0">
 		<tbody><tr>
-			<td><table width="592" border="0" cellpadding="0" cellspacing="0">	<tbody><tr>		<td align="right"><img src="/images/head/main_hd/header_customerserv.gif" border="0"></td>	</tr>	<tr>		<td width="592"><img src="/images/top_line.gif" width="592" border="0" height="1"></td>	</tr>	<tr>	<td align="left" valign="top" width="592"><!-- content area --><img src="/images/d.gif" height="10" width="1"><br><div style="margin-left: 30px; margin-right: 20px; list-style-position: inside;"><font class="normal">&lt;&lt;&nbsp;</font><a href="javascript:history.back();" class="normal">Back</a><br><img src="/images/d.gif" height="30" width="375"><br><font class="head">Privacy and Security</font><br><br><font class="normal">Our goal at wilsonsleather.com is to provide a safe, secure, and pleasant shopping experience.  We are committed to protecting your privacy and security as a customer.  To show our commitment, we created this privacy and security statement to disclose our information-gathering and usage practices for wilsonsleather.com.  Bottom line, we only collect information that you give us, and <i>we do not rent or sell your personal information to anyone.</i><br><br>			<font class="Head&quot;">When and why do we collect information, and how do we use it?</font><br>				We use third-party service providers to gather and analyze information about our customers to help us better deliver our products and services for our customers. This information may include personally identifiable information you provide to us, such as your first name and email address. We provide you the option to deactivate wilsonsleather.com's ability to analyze your browsing and purchase behavior through the use of these third-party services. To find out more about our service providers, including their privacy policies and how to opt out, go to the opting out section below.<br><br>			We also use third parties to help us maintain and manage our customer information, to fulfill promotions, and to communicate with our customers. Wilsonsleather.com, or its contracted third-party partners, may contact you via email, direct mail, telephone, or in person. We do not authorize any of those third parties to make any other use of this information.<br>			We use aggregate demographic and site-traffic data internally, and we may provide this anonymous aggregate information about our customers, sales, traffic patterns, and related site information to trusted third-party vendors.<br>			Our registration form asks you to give us contact information (like name, mailing address, and email address). We use this information to speed up the order process, and to contact you when you request or when it's necessary (for example, if there's a problem fulfilling your order).<br><br>			We collect personal information from you in the following places:<br>			<ul style="margin: 0px; list-style-position: inside">				<li><font class="normalb">When you place an order,</font> we request your name, e-mail address, mailing address, phone number, credit card number and expiration date. We use this information to process and deliver your order, and to update you on order status. <br><br>				</li><li><font class="normalb">When you register for an account,</font> we ask for your name, mailing address, telephone number, e-mail address and password. You may also add your credit card information by visiting <a href="https://www.wilsonsleather.com/account/login/loginmain.jsp?gate=acct&amp;toURL=/account/accountmain.jsp" "="" class="normal">My Account</a> after you have registered. This data is stored securely, and you don't have to re-enter it with each visit to our web site. It's also used to recognize you as a repeat customer so we can personalize your shopping experience. Once you have registered with wilsonsleather.com you will have access to our special features, including a personal address book, which conveniently stores your address or those of your friends and family. <br><br></li><li><font class="normalb">When you join the Wilsons Leather E-mail List,</font> we request your e-mail address to send you e-mail on the latest sales, special promotions, advanced notice of sweepstakes and events, and special offers.<br><br>To deliver this information to you, we use CheetahMail, an e-mail marketing service that helps us to conduct targeted permission-based email campaigns. When registering for our e-mail program, <i>CheetahMail may collect and store the personal information that you provide on our behalf. CheetahMail will not share, rent, sell, trade or provide any of this information to parties other than Wilsons Leather.</i> To learn more about CheetahMail's privacy policy, go to <a href="http://www.cheetahmail.com/privacy/privacy.html" class="normal">http://www.cheetahmail.com/privacy/privacy.html.</a> If you are no longer interested in receiving Wilsons Leather E-mail, instructions for removal from the list are included in every e-mail that we send you.<br><br>            				</li><li><font class="normalb">When you visit wilsonsleather.com, you are identified by a unique numeric id, not by personal information,</font> allowing us to record your shopping behavior anonymously.  Wilsonsleather.com uses eLuminate" by Coremetrics", an eMarketing data gathering and analysis service, to ensure visitors to this site receive relevant information and promotions that will improve your shopping experience. The primary purpose for such an analysis tool is to provide a shopping environment that saves you time, is easy, and most importantly, protects your privacy. 				Wilsonsleather.com uses the information to suggest new products that will complement your purchases, or show you sales promotions pertaining to what you currently have in your shopping cart, so that you don't have to navigate through multiple pages to find what you need.				Coremetrics has adopted privacy guidelines set by the Federal Trade Commission. Wilsonsleather.com relies on Coremetrics Privacy Standards and encourages you to learn more by visiting <a href="http://www.coremetrics.com/privacy.html" class="normal">http://www.coremetrics.com/privacy.html</a>. 						If you choose not to benefit from the improved shopping experience enabled by this service, you have the option to deactivate the site's abilities to analyze your web browsing and purchasing behavior. Please view the Coremetrics Opt-Out Standard, by visiting <a href="http://www.coremetrics.com/info_eluminate.html" class="normal">http://www.coremetrics.com/info_eluminate.html</a>, where you will find detailed information on data collection and instructions for selecting the various levels of privacy and confidentiality that you desire, while still improving your online shopping experience.<br><br>			</li></ul>			<font class="head">How do we protect kid's privacy?</font><br>			Wilsonleather.com is concerned about the safety of children when they use the Internet.  Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent.<br><br>			If we become aware that a subscriber is under the age of 13 and has registered without prior verifiable personal consent, we will remove his or her personally identifiable registration information from our files.  Please note: we may maintain a record of that person's name and address in a "do not register file" to avoid subsequent registration by a child under the age of 13.<br><br>			<font class="head">What are cookies and how do we use them?</font><br>			A cookie is a small data file that Web sites often store on your computer's hard drive when you visit their sites.  We do not store personally identifiable information in your cookie.<br><br>			We use cookies to improve your shopping experience.  When you visit wilsonsleather.com, your cookie helps us keep track of your order as you shop at our site.  If you are a registered customer, your cookie allows us to recognize you when you return to our site and provides you with access to your account information.  If you register with or order from us, we also use cookies to monitor and maintain information about your use of our site.  If you have not registered with or ordered from us, we may monitor and maintain information about your use of our Web site in a manner that does not identify you.  In either case, this information helps us serve you better by improving our site design, as well as our products, services, contests, and promotions.<br><br>			You can refuse cookies by turning them off in your browser.  If you turn off cookies, though, we will not be able to track your order to enable you to make a purchase from our site.  Nor will we be able to recognize you as a registered user to allow you to access to your account information.<br><br>			<font class="head">How do we protect your security?</font><br>Protecting your order information is a priority.  We use SSL (Secure Sockets Layer) technology to protect the security of your online order information.  With SSL, information sent via the Internet is encrypted in a way that only wilsonsleather.com can decode.  Your password is also protected, so only you can access your account information.  We recommend that you keep your password private and always sign-out of your account and close your browser when you are finished shopping.  Although no data transmitted over the Internet is completely secure, we believe SSL technology and password protection will help guarantee your privacy and ensure that your order information is protected.<br><br>			<font class="head">How do I correct or update my information?</font><br>	        1.     Go to "My Account." Go to "View/Edit Profile" and make the necessary changes or modifications. <br>	        2.     Contact us at <a href="/custserv/feedbackmain.jsp?gate=cust" class="normal">customercare@wilsonsleather.com</a><br>	        3.     Call 1-800-236-9976<br><br>			<font class="head">Changes in the wilsonsleather.com Privacy Policy</font><br>If we decide to change the wilsonsleather.com privacy policy, we will post those changes here so you will always know what information we gather, how we use it, and whether we share it with anyone.  If you have any questions or comments, we would like to hear from you. Please call us at 	l us at 1-800-236-9976 or write to:<br><br>			E-Commerce Customer Care<br>P.O. Box 1009<br>Minneapolis, MN.  55440<br><br>			--OR--<br><br>			<a href="/custserv/feedbackmain.jsp?gate=cust" class="normal">customercare@wilsonsleather.com</a></font></div>			<br>			<br>			<br>		</td>	</tr></tbody></table></td>
+
+		  <!-- page one login  1 -->
+			<td width="245" valign="center" class="footerlink" height="50">Sign up to Receive Email Updates:<br>
+			<img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="3"><br>
+			<input type="text" name="emailAddress" size="28" id="formitems" value=" Enter Email Address" onclick="if(this.value==' Enter Email Address')this.value=''" style="font-size:10px;" onblur="if(this.value=='')this.value=' Enter Email Address'">
+			<a href="#" onclick="return emailCheck(1);"><img src="http://WIL.imageg.net/images/sign_up.jpg" width="53" height="17" border="0" align="absmiddle"></a>
+			</td>
+			<td width="2"><img src="http://WIL.imageg.net/images/pixel.gif" width="2" height="10"></td>
+	      
+	  
+
+		
+			<td width="1" bgcolor="#D8D8D8"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="10"></td>
+			<td width="245" valign="bottom" align="center" height="50"><a href="/family/index.jsp?categoryId=1835416&amp;cp=1855607"><img src="http://WIL.imageg.net/images/wil_leather_pyi.jpg" border="0"></a></td><td width="1" bgcolor="#D8D8D8"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="10"></td>
+			<td valign="center" align="center" height="50">
+			<a href="/product/index.jsp?productId=1843032&amp;cp=1842139.1842620&amp;parentPage="><img src="http://WIL.imageg.net/images/wil_gift_fits.jpg" border="0" width="247"></a></td>
 		</tr>
-    </tbody></table>
-		<!-- Content Block End -->
-	</td>
-</tr>
-<tr>
-	<td valign="bottom"><!-- Nav Footer Start--><script language="JavaScript">
-<!--
-/* Pageview Data-Tag v2.4.5, 08/29/2000
-COPYRIGHT 1999-2000 COREMETRICS, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. */
-var date = new Date();
-var cm_rdm = date.getTime() % 10000000;
-cm_Display = "<img width=\"1\" height=\"1\" src=\"http://data.coremetrics.com/eluminate?pt%3DC%26vn1%3De2.4.5%26vn2%3De2.4%26ci%3D30000123%26rf%3D%26ul%3Dhttp%253A%252F%252Fwww.wilsonsleather.com%252Fcustserv%252Fcustcare.jsp%253FruleID%253D329%2526itemID%253D2%2526itemType%253DCONTENT_FOLDER%26pn%3DCOSTUMER%2BSERVICE-FAQ%26pi%3DCOSTUMER%2BSERVICE-FAQ%26se%3D%26sl%3DN%26nw%3DN%26pc%3DYes%26ts%3DYes%26tp%3DYes%26rnd%3D" + cm_rdm + "\">";
-document.write(cm_Display);
-//-->
-</script><img width="1" height="1" src="http://data.coremetrics.com/eluminate?pt%3DC%26vn1%3De2.4.5%26vn2%3De2.4%26ci%3D30000123%26rf%3D%26ul%3Dhttp%253A%252F%252Fwww.wilsonsleather.com%252Fcustserv%252Fcustcare.jsp%253FruleID%253D329%2526itemID%253D2%2526itemType%253DCONTENT_FOLDER%26pn%3DCOSTUMER%2BSERVICE-FAQ%26pi%3DCOSTUMER%2BSERVICE-FAQ%26se%3D%26sl%3DN%26nw%3DN%26pc%3DYes%26ts%3DYes%26tp%3DYes%26rnd%3D8239634">
-<noscript>
-<img width="1" height="1" src="http://data.coremetrics.com/eluminate?pt%3DC%26vn1%3De2.4.5%26vn2%3De2.4%26ci%3D30000123%26rf%3D%26ul%3Dhttp%253A%252F%252Fwww.wilsonsleather.com%252Fcustserv%252Fcustcare.jsp%253FruleID%253D329%2526itemID%253D2%2526itemType%253DCONTENT_FOLDER%26pn%3DCOSTUMER%2BSERVICE-FAQ%26pi%3DCOSTUMER%2BSERVICE-FAQ%26se%3D%26sl%3DN%26nw%3DN%26pc%3DYes%26ts%3DYes%26tp%3DYes%26rnd%3D9144208">
-</noscript>
+		</tbody></table></td>
+	</tr>
 
 
+	</tbody></table></td>
 
 
+</tr></tbody></table><table cellpadding="0" cellspacing="0" border="0" width="763" align="center" bgcolor="#FFFFFF">
+<tbody><tr>
+	<td width="764" valign="top" align="center">
+	<table cellpadding="0" cellspacing="0" border="0" width="742">
+	<!--
+	<tr>
+		<td height="5"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="5"></td>
+	</tr>
+	-->
+	<tbody><tr>
+		<td height="1" bgcolor="#D8D8D8"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td height="5"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="5"></td>
+	</tr>
+	<tr>
+		<td height="35">
+		<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td width="247" valign="center" class="footerlink">©&nbsp;Wilsons Leather. All rights reserved.</td>
+			<td width="1" bgcolor="#D8D8D8"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="35"></td>
+			<td width="9"><img src="http://WIL.imageg.net/images/pixel.gif" width="9" height="1"></td>
+			
 
-
-<script language="JavaScript">     function showPopUp(URL, PopUpProperties){          var PopUp = window.open(URL, "PopUp", PopUpProperties);          if (PopUp.focus){               PopUp.focus()          }     }</script><table width="592" border="0" cellspacing="0" cellpadding="0">	  <tbody><tr>		    <td><img src="/images/global/spacer.gif" width="1" height="5" border="0"></td>  </tr>	  <tr>		    <td bgcolor="#B23F3F"><img src="/images/global/spacer.gif" width="592" height="2" border="0"></td>  </tr>	  <tr>		    <td><img src="/images/global/spacer.gif" width="1" height="5" border="0"></td>  </tr>	  <tr>		    <td align="center"><a href="/custserv/custcare.jsp?ruleID=371&amp;itemID=2&amp;itemType=CONTENT_FOLDER"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Contact Us</font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><img src="/images/global/spacer.gif" width="10" height="1" border="0"><a href="/custserv/custcare.jsp?ruleID=365&amp;itemID=2&amp;itemType=CONTENT_FOLDER">About Us</a><img src="/images/global/spacer.gif" width="10" height="1" border="0"><a href="/custserv/custcare.jsp?ruleID=378&amp;itemID=2&amp;itemType=CONTENT_FOLDER">Site Map</a><img src="/images/global/spacer.gif" width="10" height="1" border="0"><a href="javascript:showStoreLocator('http://wilsons.know-where.com/wilsons/')">Store Locator</a><img src="/images/global/spacer.gif" width="10" height="1" border="0"><a href="/custserv/custcare.jsp?ruleID=329&amp;itemID=2&amp;itemType=CONTENT_FOLDER">Privacy Policy</a><img src="/images/global/spacer.gif" width="10" height="1" border="0"><a href="/custserv/custcare.jsp?ruleID=370&amp;itemID=2&amp;itemType=CONTENT_FOLDER">Career Opportunities</a></font></td>  </tr>	  <tr>		    <td><img src="/images/global/spacer.gif" width="10" height="2" border="0"></td>  </tr>	  <tr>		    <td align="center"><a href="/custserv/custcare.jsp?ruleID=337&amp;itemID=2&amp;itemType=CONTENT_FOLDER"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">About Leather Care</font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><img src="/images/global/spacer.gif" width="10" height="1" border="0"><!-- <a href="">Corporate Sales</a><img src="/images/global/spacer.gif" width="10" height="1" border="0"> --><a href="/custserv/custcare.jsp?ruleID=338&amp;itemID=2&amp;itemType=CONTENT_FOLDER">Customer Care</a></font></td>  </tr>  <tr>    <td align="center" height="5"><img src="/images/global/spacer.gif" width="10" height="5" border="0"></td>  </tr>  <tr>    <td align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">© Wilsons Leather 2002-2003.&nbsp;All rights reserved.</font></td>  </tr>	</tbody></table></td>
+			<td width="106" valign="center"><a href="../corp/index.jsp?page=storeLocator" class="footerlink2">Store Locator</a><br>
+			<img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="3"><br>
+		
+			<a href="../info/index.jsp?categoryId=1837229" class="footerlink2">Leather Care</a><br></td>
+			<td width="130" valign="center"><a href="../corp/index.jsp?page=aboutus" class="footerlink2">About Us</a><br>
+			<img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="3"><br>
+			<a href="http://sourcing.wilsonsleather.com/erecruit/Careers/Careershome.asp" class="footerlink2">Career Opportunities</a><br></td>
+			
+			<td width="1" bgcolor="#D8D8D8"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="35"></td>		
+			<td width="9"><img src="http://WIL.imageg.net/images/pixel.gif" width="9" height="1"></td>	
+			<td width="114" valign="center"><a href="https://www.connectcommerce.com/secure/partner_app.html?ccmid=K23243" class="footerlink2" target="_blank">Affiliate Programs</a><br>
+			<img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="3"><br>
+			<a href="/groupsales/index.jsp" class="footerlink2">Group Sales</a><br></td>
+			<td width="9"><img src="http://WIL.imageg.net/images/pixel.gif" width="9" height="1"></td>
+			<td width="114" valign="center"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footer_privacyPolicy_img" class="footerlink2">Privacy Policy</a><br>
+			<img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="3"><br>
+			<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="footerlink2">Terms &amp; Conditions</a><br></td>
+		</tr>    
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td height="7"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="7"></td>
+	</tr>
+	</tbody></table></td>
 </tr>
 </tbody></table>
-<!-- Content Wrap End -->
+<img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="7"><br>
+
 
 
 </body></html>
