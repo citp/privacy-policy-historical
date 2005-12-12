@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the enfamil.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403162225id_/http%3A//www.enfamil.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enfamil.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212104022id_/http%3A//www.enfamil.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |  |  |  |   
-|  |  |  | [](https://web.archive.org/web/20050403162225id_/http%3A//www.enfamil.com/index.html) |  |  | 
+|  |  |  | [](https://web.archive.org/web/20051212104022id_/http%3A//www.enfamil.com/index.html) |  |  | 
 
   
   
@@ -45,19 +45,19 @@ Use of Registration Information
   
   
 ---  
-[](https://web.archive.org/web/20050403162225id_/http%3A//www.enfamil.com/products/index.html)  
-[](https://web.archive.org/web/20050403162225id_/http%3A//www.enfamil.com/programs/index.html)  
-[](https://web.archive.org/web/20050403162225id_/http%3A//www.enfamil.com/shop/index.html)  
+[](https://web.archive.org/web/20051212104022id_/http%3A//www.enfamil.com/products/index.html)  
+[](https://web.archive.org/web/20051212104022id_/http%3A//www.enfamil.com/programs/index.html)  
+[](https://web.archive.org/web/20051212104022id_/http%3A//www.enfamil.com/shop/index.html)  
   
   
   
-[](https://web.archive.org/web/20050403162225id_/http%3A//www.enfamil.com/babys_develop/index.html)  
-[](https://web.archive.org/web/20050403162225id_/http%3A//www.enfamil.com/nutrition/index.html)  
-[](https://web.archive.org/web/20050403162225id_/http%3A//www.enfamil.com/feeding/index.html)  
-[](https://web.archive.org/web/20050403162225id_/http%3A//www.enfamil.com/baby_care/index.html)  
-[](https://web.archive.org/web/20050403162225id_/http%3A//www.enfamil.com/moms/index.html)  
-[](https://web.archive.org/web/20050403162225id_/http%3A//www.enfamil.com/family/index.html)  
-[](https://web.archive.org/web/20050403162225id_/http%3A//www.enfamil.com/activities/index.html)  
+[](https://web.archive.org/web/20051212104022id_/http%3A//www.enfamil.com/babys_develop/index.html)  
+[](https://web.archive.org/web/20051212104022id_/http%3A//www.enfamil.com/nutrition/index.html)  
+[](https://web.archive.org/web/20051212104022id_/http%3A//www.enfamil.com/feeding/index.html)  
+[](https://web.archive.org/web/20051212104022id_/http%3A//www.enfamil.com/baby_care/index.html)  
+[](https://web.archive.org/web/20051212104022id_/http%3A//www.enfamil.com/moms/index.html)  
+[](https://web.archive.org/web/20051212104022id_/http%3A//www.enfamil.com/family/index.html)  
+[](https://web.archive.org/web/20051212104022id_/http%3A//www.enfamil.com/activities/index.html)  
   
   
   
