@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talis.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205190130id_/http%3A//www.talis.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talis.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213211042id_/http%3A//www.talis.com/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy policy for the Talis web site
 
