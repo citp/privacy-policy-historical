@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachmyass.com privacy policy that was archived on 2005-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050324024824id_/http%3A//teachmyass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachmyass.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214000612id_/http%3A//teachmyass.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
