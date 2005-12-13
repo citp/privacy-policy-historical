@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626073312id_/http%3A//www.webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213194419id_/http%3A//webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Web Host Directory: The best free source of web hosting services in a searchable web host directory. Powerful web host search engines, reviewed web hosts, awards, news and much more!
 
@@ -59,57 +59,38 @@ If you have any questions about this privacy policy or the practices of this web
 
 [ValueWeb:](http://www.webhostdir.com/banners/banman.asp?ZoneID=12&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Award Winning Hosting! FREE Setup + FREE Web Design software & tools for small to mid-size businesses. Call 1-800-WE-HOST-U. 
 
-[Ace-Host.net:](http://www.webhostdir.com/banners/banman.asp?ZoneID=22&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $3.95 Web Hosting Special, 5000 MB Space, 50 GB Bandwidth, Free Templates, Unlimited Email & 100's of Features! 
+[WebIntellects:](http://www.webhostdir.com/banners/banman.asp?ZoneID=21&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Tired of bait and switch hosting? Low cost gimmicks? So are we. See why we are the provider of choice in over 80 countries world-wide! 
 
-[Start Logic web hosting:](http://www.webhostdir.com/banners/banman.asp?ZoneID=23&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Get a Free Domain, Free Setup, 5000 MB of web space, 100 GB of Data Transfer, Unlimited Email Accounts, 24/7 customer phone & live chat support, 30 Day Full Money Back Guarantee. 
+[Ace-Host.net:](http://www.webhostdir.com/banners/banman.asp?ZoneID=22&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $3.95 Web Hosting Special, 5000 MB Space, 100 GB Bandwidth, Free Templates, Unlimited Email & FREE DOMAIN NAME! 
+
+[BlueWaveHosting.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=23&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 24x7x365 Live Chat, Phone Support And Email Support. $250 To Help Market Your Site. 46 Auto Install Scripts. Starting At $4.99. Instant Account Activation 
 
 [I X Web Hosting.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=24&Task=Click&Mode=HTML&SiteID=1&PageID=4527) As low as $1.99/mo per hosted domain name! FREE Domain Registration, 500mb to UNLIMITED Web Space & Website Builder! 
 
-[Globat.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=25&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 5000MB & 75GB for only $4.95!: Ranked #1 WEB HOST in 2004 Globat offers huge hosting for less. Free Web Builder & Free Marketing. Risk Free Money back Guarantee. Call 877-245-6228 
+[AIT.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=25&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 191,448 happy customers. Free shopping cart, free domain reg. 24/7 live toll-free support. Plans for any size business. 
 
 [SuperbHosting.Net:](http://www.webhostdir.com/banners/banman.asp?ZoneID=26&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Free Set-up, Free Domain, 50GB/m traffic, 1GB web space, 10 Domains, 250 Email accounts & 5 mySQL. Awarding-winning 24x7 service. 
 
-[Omnis Network:](http://www.webhostdir.com/banners/banman.asp?ZoneID=55&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Award Winning Hosting! Over 170,000+ accounts since 1999. FREE Setup + FREE Domain with every $6.95 account. Call 1-877-393-HOST 
+[Bluehost.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=55&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $6.95/Month - Free Domain, Host 6 Domains on 1 Account, 10000 MB Space, 250 GB Traffic, 2500 Emails, Perl, PHP, MySQL, Imap! Call Today - (888) 401-HOST 
 
-[$5 Web Hosting:](http://www.webhostdir.com/banners/banman.asp?ZoneID=56&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 750mb Webspace - Free Domain Name, Free Set up, 24/7 Support, 50GB transfer, 99.9% Uptime. Call us at 1-866-301-5699 
+[$5 Web Hosting::](http://www.webhostdir.com/banners/banman.asp?ZoneID=56&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 750mb Webspace - Free Domain Name, Free Set up, 24/7 Support, 50GB transfer, 99.9% Uptime. Call us at 1-866-301-5699 
 
-[Lunarpages:](http://www.webhostdir.com/banners/banman.asp?ZoneID=57&Task=Click&Mode=HTML&SiteID=1&PageID=4527) #1 in Uptime, Customer Support & Features. Host Multiple Domains on 1 Account. $7.95/mo; 3GB Space, 40 GB bandwidth. Web Builder, Blogs, eCommerce & More! 
+[Lunarpages:](http://www.webhostdir.com/banners/banman.asp?ZoneID=57&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Lunarpages: #1 in Uptime, Customer Support & Features. Host Multiple sites on 1 Account. $7.95/mo; 3GB Space, 400 GB bandwidth. FREE DOMAIN, Blogs, eCommerce & More! 
 
-[HostExcellence.Com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=58&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $2.95/mo - Superior Service with Excellent 24/7 Toll Free Support, Live Chat, and Email. Linux AND Windows packages!!! 
+[$5.95/mo – 6 MONTHS FREE:](http://www.webhostdir.com/banners/banman.asp?ZoneID=58&Task=Click&Mode=HTML&SiteID=1&PageID=4527) FREE DOMAIN NAME + FREE SETUP. 15,000 MB WEBSPACE!!!!!!, UNLIMITED BANDWIDTH, FREE Site Builder + Money Back Guarantee! 
 
-[NetPivotal Web Hosting:](http://www.webhostdir.com/banners/banman.asp?ZoneID=59&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 2000MB Webspace @ $7.49/mo - FREE DOMAIN NAME, FREE SETUP - NO HIDDEN CHARGES including FrontPage & DreamWeaver Support, FREE 24/7 Tech Support. 
+[NetPivotal Web Hosting:](http://www.webhostdir.com/banners/banman.asp?ZoneID=59&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 4000MB Webspace @ $7.49/mo - Free Domain Name, Free Setup - No Hidden Charges - DOUBLE DISKSPACE NOW 4000MB - OFFER ENDS THIS MONTH 
 
-[EasyHost:](http://www.webhostdir.com/banners/banman.asp?ZoneID=17&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Hosting as low as $4.09/month with a free domain name and no setup fees. 
+[Unlimited sites >$10>>:](http://www.webhostdir.com/banners/banman.asp?ZoneID=17&Task=Click&Mode=HTML&SiteID=1&PageID=4527) UNLIMITED SITES FOR $9.95 A MONTH! >> CALL NOW 1-866-96-GATOR >> 24/7PHONE AND CHAT SUPPORT >> FREE SETUP >> TONS OF SPACE!! 
 
-[IPower.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=18&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 240,000 sites hosted. The world’s web hosting leader. Multiple packages; Unix, windows, dedicated & virtual + domains for only $5.50 
+[IPower.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=18&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $7.95 Hosting Package - 10,000MB Storage, 250GB Transfer, 2500 Email accounts. Host 6 domains in 1. Free domain and setup, web builder, Google and Yahoo Search credits. 
 
-[Surfspeedy.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=19&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $4.95 Web Hosting - FREE SETUP - 2000 MB Space / 65 GB Transfer , 24/7 LIVE Phone/Chat/Email Support, $50 in FREE Marketing, Unlimited Email Accounts, 100's of FREE Features 
-
-[WebIntellects:](http://www.webhostdir.com/banners/banman.asp?ZoneID=21&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Tired of bait and switch hosting? Low cost gimmicks? So are we. See why we are the provider of choice in over 80 countries world-wide! 
+[ApolloHosting.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=20&Task=Click&Mode=HTML&SiteID=1&PageID=4527) CNET & Web Host Magazine Editor's Choice ---- $6.95/mo ---- Multiple websites on 1 account ---- Free site builder ---- 24/7 support ---- Call 877-525-HOST(4678) 
 
 |   
 ---|---|---  
     
   
-  
----  
-  
-| 
-
-[NetPivotal Web Hosting](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=88&CountryID=US)  
-2000mb Webspace, 80gb bandwidth - $7.49/mo! Free Domain Name FREE Setup, Microsoft FrontPage Support, FREE 24/7 Tech Support & _[...more](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=88&CountryID=US)_
-
-|  | 
-
-[HostEasier Inc.](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=4380&CountryID=US)  
-30$ for 12 months. 50mb web space, 5gb traffic. 30 days money back guarantee, 99.9% uptime guarantee, 365/7/24 live support, _[...more](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=4380&CountryID=US)_
-
-|  | 
-
-[Myqth.com](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=4490&CountryID=US)  
-1000MB disk space and 40GB per month data transfer for $5.95 per month or $48 per year. Includes Frontpage, PHP, Mysql and Cpanel _[...more](http://www.webhostdir.com/hostsearches/searchclick.aspx?bidID=4490&CountryID=US)_  
-  
----|---|---|---|---  
   
   
   | 
