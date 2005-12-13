@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616010059id_/http%3A//www.adpost.com/us/%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213214244id_/http%3A//www.adpost.com/us/%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
 
-# Classifieds @ Adpost.com Classifieds > USA > Classifieds,free
+# American Classifieds @ Adpost.com Classifieds > USA > American Classifieds,free
 
 |  Find |  |  in |  |   
 ---|---|---|---|---  
