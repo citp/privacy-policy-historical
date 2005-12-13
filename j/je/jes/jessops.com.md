@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204114108id_/http%3A//www.jessops.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213211710id_/http%3A//www.jessops.com/privacy.cfm) for the most accurate reproduction.*
 
-# Camera, digital camera, digital dv camcorder and accessories - Jessops
+# Digital camera, camera, digital dv camcorder and accessories - Jessops
 
 **Privacy Policy**
 
@@ -51,7 +51,7 @@ _Clubfinder_
 We hold details of UK camera clubs in our Camera Club database, which is available to the public via our web site. These details sometimes include a contact name and address for the club. If these details change, or the contact no longer wishes to be listed on the site, we will remove them. Please notify our Clubs Administrator, Rachel Markham - rmarkham@jessops.com or telephone 0116 232 6000.
 
 _Cookies_  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. [Provide a link to information on cookies.]
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. More information on cookies can be found here: <http://www.allaboutcookies.org/>
 
 By setting a cookie on our site, the site can 'remember' who you are, if you are a "Member" of our "Member's Area". Persistent cookies enable the site to "remember" what you have in your trolley. No personal information is recorded in these cookies - only the contents of your trolley.
 
