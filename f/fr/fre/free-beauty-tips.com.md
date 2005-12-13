@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-beauty-tips.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404153322id_/http%3A//www.free-beauty-tips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-beauty-tips.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214004608id_/http%3A//free-beauty-tips.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,16 +22,16 @@ Furthermore, Free-Beauty-Tips does not divulge any information regarding the use
 
 |  |  **Health Tips**  
 ---  
-[**Healthy You**](https://web.archive.org/web/20050404153322id_/http%3A//www.free-beauty-tips.com/health.html)  
+[**Healthy You**](https://web.archive.org/web/20051214004608id_/http%3A//free-beauty-tips.com/health.html)  
 **Special Care**  
-**[ Acne Problems](https://web.archive.org/web/20050404153322id_/http%3A//www.free-beauty-tips.com/acne.html)**  
+**[ Acne Problems](https://web.archive.org/web/20051214004608id_/http%3A//free-beauty-tips.com/acne.html)**  
   
 **Cosmetics**  
-[**Cosmetics**](https://web.archive.org/web/20050404153322id_/http%3A//www.free-beauty-tips.com/cosmetics.html)  
+[**Cosmetics**](https://web.archive.org/web/20051214004608id_/http%3A//free-beauty-tips.com/cosmetics.html)  
 **Fun & Beauty**  
-[**Girls Night**](https://web.archive.org/web/20050404153322id_/http%3A//www.free-beauty-tips.com/girls-night.html)  
+[**Girls Night**](https://web.archive.org/web/20051214004608id_/http%3A//free-beauty-tips.com/girls-night.html)  
 **Free Samples**  
-[**Samples of Free Beauty Products**](https://web.archive.org/web/20050404153322id_/http%3A//www.free-beauty-tips.com/samples.html)  
+[**Samples of Free Beauty Products**](https://web.archive.org/web/20051214004608id_/http%3A//free-beauty-tips.com/samples.html)  
   
 **Fun Stuff**  
 [**Free Greeting Cards**](http://www.1lovecards.com/)  
@@ -39,7 +39,7 @@ Furthermore, Free-Beauty-Tips does not divulge any information regarding the use
 [**Fitness**](http://www.wholefitness.com/)  
 [**Love Poems**](http://www.1lovepoems.com/)  
 **Resources**  
-[**Related Websites**](https://web.archive.org/web/20050404153322id_/http%3A//www.free-beauty-tips.com/resources.html)  
+[**Related Websites**](https://web.archive.org/web/20051214004608id_/http%3A//free-beauty-tips.com/resources.html)  
   
   
 Be good to yourself. Enjoy every day.
