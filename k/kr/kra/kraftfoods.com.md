@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kraftfoods.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403111954id_/http%3A//www.kraftfoods.com/kf/about/legalprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftfoods.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213203415id_/http%3A//kraftfoods.com/kf/about/legalprivacy) for the most accurate reproduction.*
 
 # Kraft Foods Privacy Policy
 
-_How To Contact Us_
+[_How To Contact Us_](https://web.archive.org/kf/About/legalprivacy.htm#howto)
 
 #### Types Of Information We Collect
 
@@ -122,6 +122,8 @@ Attention: Consumer Relations Group
 1-800-543-5335  
 9 a.m. - 5 p.m. Eastern Time, Monday through Friday, excluding holidays.
 
-[E-mail](http://www.kraftfoods.com/main.aspx?m=contact_us/cu_form1) us. 
+[E-mail](https://web.archive.org/main.aspx?m=contact_us/cu_form1) us. 
 
 We would be happy to answer your questions or hear your concerns.
+
+© 2004 KF Holdings.
