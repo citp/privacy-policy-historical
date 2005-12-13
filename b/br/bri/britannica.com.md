@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2005-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050521234626id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213012106id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
 
 # Encyclopædia Britannica, Inc. Corporate Site
 
@@ -45,8 +45,14 @@ There will also be opportunities for subscribers to provide us with demographic 
 
 If a User visits _Britannica.com_ and submits an e-mail address to Britannica but fails to complete the registration process, we may use such "prospect" information to contact the prospective User from time to time with Britannica offers and information about new features, new services, and special discounts we think they may see as valuable. Similarly, if a User forwards a Britannica e-mail to a friend, we may use the "referral" information provided to contact the friend from time to time with Britannica offers and information about new features, new services, and special discounts we think the friend may see as valuable. All of our "prospect" and "referral" communications contain clearly marked opt-out instructions. The types of personally identifiable information that may be collected in relation to "prospects" or "referrals" include: name and e-mail addresses. We do not sell or rent any contact information for such "prospects" or "referrals."
 
-  * **Cookies.**  
-To help you personalize your online experience, Britannica uses "Cookies." "Cookies" are pieces of information that Britannica transfers to the hard drives of Users for record-keeping purposes. One of the primary purposes of Cookies is to provide a convenience feature to save you time. For example, Cookies allow us to recognize you when you re-enter a Britannica site so that you will not have to log in each time you visit. Cookies also allow us to count the number of unique and return visitors who use the Britannica sites. In addition, Britannica places Cookies with Users visiting from advertising banners and hyperlinks on other Web sites to track the success of a particular advertising campaign or marketing program. Most browsers are initially set up to accept Cookies. If you prefer, you can reset your browser to notify you when you've received a Cookie or, alternatively, to refuse to accept Cookies. It is important to note that you may not be able to use certain features on a Britannica site if you choose not to accept Cookies. The use of Cookies is an industry standard and occurs at most major Web sites. 
+  * **Cookies.**
+
+To help you personalize your online experience, Britannica uses "Cookies." "Cookies" are pieces of information that Britannica transfers to the hard drives of Users for record-keeping purposes. One of the primary purposes of Cookies is to provide a convenience feature to save you time. For example, Cookies allow us to recognize you when you re-enter a Britannica site so that you will not have to log in each time you visit. Cookies also allow us to count the number of unique and return visitors who use the Britannica sites. In addition, Britannica places Cookies with Users visiting from advertising banners and hyperlinks on other Web sites to track the success of a particular advertising campaign or marketing program. Most browsers are initially set up to accept Cookies. If you prefer, you can reset your browser to notify you when you've received a Cookie or, alternatively, to refuse to accept Cookies. It is important to note that you may not be able to use certain features on a Britannica site if you choose not to accept Cookies. The use of Cookies is an industry standard and occurs at most major Web sites.
+
+  * **Beacons.**
+
+We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes pages visited, search terms, referrers, campaigns, anonymous user identifier, and anonymous account identifier. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out” of this website analysis tool by clicking [here](http://sitecatalyst.omniture.com/privacy/optout.html).
+
 
 
 
@@ -80,7 +86,7 @@ We only use Usage Data in the aggregate -- that is, we look at the data on a col
 
 **Disclosure Exceptions.**
 
-We will disclose information we maintain when required to do so by law; for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.We will disclose information we maintain when required to do so by law; for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+We will disclose information we maintain when required to do so by law; for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
 **Subscriber Communications.**  
 As a benefit of membership, Britannica site subscribers may receive the following communications from us:
@@ -121,8 +127,9 @@ Monday - Friday, 8:00 a.m. to 6:00 p.m. (U.S. Central Time).
   * **Send a fax to:** (312) 294-2104
   * **Write us at:**   
 Britannica Customer Service, Attn: Removal from Mailing List  
-310 South Michigan Avenue   
-Chicago, IL 60604 
+331 North La Salle Street  
+Chicago, IL 60610  
+
 
 
 
@@ -135,4 +142,4 @@ The Britannica sites use the services of third parties to present or target the 
 The Britannica sites each contain links to other Web sites. Britannica is not responsible for the privacy practices or content of these third-party Web sites. We urge all Britannica site Users to follow safe Internet practices: Do not supply personal information to these Web sites unless you have verified their security and privacy policies.
 
 **Your Consent and Changes to Privacy Policy.**  
-This Privacy Policy was last changed on May 1, 2003. By using any one of the Britannica sites, you consent to the collection and use of your information by Britannica in the manner specified in this Privacy Policy. Britannica reserves the right to change or amend this Privacy Policy at any time by posting the revised Privacy Policy on the Britannica sites. Britannica encourages each Britannica site User to periodically review this Privacy Policy to be informed of how we are protecting their information.
+This Privacy Policy was last changed on June 29, 2005. By using any one of the Britannica sites, you consent to the collection and use of your information by Britannica in the manner specified in this Privacy Policy. Britannica reserves the right to change or amend this Privacy Policy at any time by posting the revised Privacy Policy on the Britannica sites. Britannica encourages each Britannica site User to periodically review this Privacy Policy to be informed of how we are protecting their information.
