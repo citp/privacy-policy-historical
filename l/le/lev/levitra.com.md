@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levitra.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405213904id_/http%3A//www.levitra.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levitra.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213203336id_/http%3A//www.levitra.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Get Levitra Bayer information and important advice on how to talk to your doctor about erectile dysfunction
 
@@ -16,7 +16,7 @@ BAYER, Schering-Plough and GSK and/or the companies we hire will use this inform
 
 **_Opt Out_**
 
-You may stop receiving future communications about Levitra that are initiated by Bayer, Schering-Plough or GSK, at any time. To cancel these further communications, please complete the following form: [Levitra.com Opt-out](https://web.archive.org/web/20050405213904id_/http%3A//www.levitra.com/consumer/opt_out.jsp). From time to time, this site may allow visitors to the site to send “e-card” communications or messages that refer friends to the site. Because the site does not collect or retain the email addresses of the recipients of these types of messages, opt-out from these communications is not possible. If you have any concerns or questions regarding these messages, please contact Customer Response Center at 1-888-825-5249.
+You may stop receiving future communications about Levitra that are initiated by Bayer, Schering-Plough or GSK, at any time. To cancel these further communications, please complete the following form: [Levitra.com Opt-out](https://web.archive.org/web/20051213203336id_/http%3A//www.levitra.com/consumer/opt_out.jsp). From time to time, this site may allow visitors to the site to send “e-card” communications or messages that refer friends to the site. Because the site does not collect or retain the email addresses of the recipients of these types of messages, opt-out from these communications is not possible. If you have any concerns or questions regarding these messages, please contact Customer Response Center at 1-888-825-5249.
 
 **_Cookies and Internet Tags_**
 
