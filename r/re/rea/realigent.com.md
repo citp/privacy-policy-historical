@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the realigent.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403145329id_/http%3A//www.realigent.com/page.jsp%3FpageID%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realigent.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213195846id_/http%3A//www.realigent.com/page.jsp%3FpageID%3D24) for the most accurate reproduction.*
 
 # Privacy Statement
-
-Privacy Statement
-
-Terms of use including Privacy Policy
 
 This policy may be updated by us from time to time, so please check here frequently. 
 
@@ -24,7 +20,7 @@ We use customer contact information from registration forms to send you informat
 
 Demographic information and site usage data is also collected on our sites. We use this data to tailor your experience, allowing us to provide content related to your preferences and information on products or services we think you may be interested in.
 
-Email Services - If you take advantage of any email notification features on our sites, you will receive email updates as described in the service. The Realigent™ family of sites provides users the opportunity to opt-out of receiving communications from us and our partners. Users can remove their personal information from the database of a particular site by sending a request by email to [customerservice@realigent.com](https://web.archive.org/web/20050403145329id_/http%3A//www.realigent.com/customerservice@realigent.com). 
+Email Services - If you take advantage of any email notification features on our sites, you will receive email updates as described in the service. The Realigent™ family of sites provides users the opportunity to opt-out of receiving communications from us and our partners. Users can remove their personal information from the database of a particular site by sending a request by email to [customerservice@realigent.com](https://web.archive.org/web/20051213195846id_/http%3A//www.realigent.com/customerservice@realigent.com). 
 
 Contests and Surveys - Online, we may also survey visitors for contact information, unique identifiers and demographic information. You are never required to answer these questions. The information you submit may be used for analyzing overall site demographics, user preferences and tastes, and similar "getting to know our customers" purposes. We may disclose this data to third parties in an aggregated form (such as summary reports for our advertisers) but never with user data or identification assigned to the information provided. 
 
