@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618084552id_/http%3A//www.pcworld.com/resource/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213233159id_/http%3A//www.pcworld.com/resource/privacy.asp) for the most accurate reproduction.*
 
 # PCWorld.com - Privacy Policy
 
@@ -28,7 +28,7 @@ Customer Service
 PC World.com  
 501 Second Street  
 San Francisco, CA 94107  
-e-mail: [webmaster@pcworld.com ](https://web.archive.org/web/20050618084552id_/http%3A//www.pcworld.com/resource/webmaster@pcworld.com)
+e-mail: [webmaster@pcworld.com ](https://web.archive.org/web/20051213233159id_/http%3A//www.pcworld.com/resource/webmaster@pcworld.com)
 
 If you do not receive acknowledgment of your inquiry, or your questions have not been satisfactorily addressed, you should then contact TRUSTe: <http://www.truste.org/users/users_watchdog.html>
 
