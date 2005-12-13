@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sohh.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403120230id_/http%3A//www.sohh.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sohh.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214001451id_/http%3A//www.sohh.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Legal : SOHH.com
 
