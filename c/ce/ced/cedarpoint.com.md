@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cedarpoint.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401170219id_/http%3A//www.cedarpoint.com/public/general/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedarpoint.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213210155id_/http%3A//cedarpoint.com/public/general/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy Information, Cedar Point
-
-NOINDEX | 
 
 > Cedarpoint.com is committed to protecting your privacy and helping you make the most of your experience on the Internet.  This policy explains how we collect, protect, use and share information gathered about you on this website. 
 > 
