@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicalarchives.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207031649id_/http%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicalarchives.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213194608id_/http%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.*
 
 # CLASSICAL MUSIC ARCHIVES Privacy Policy
 
@@ -41,13 +41,13 @@ This information is collected when you subscribe and is added to our demographic
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-You can access all your personally identifiable information that we collect online and maintain [there.](http://www.prs.net/secure/settings.html) You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error [there.](http://www.prs.net/email_feedback.html) To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+You can access all your personally identifiable information that we collect online and maintain [there.](https://secure.classicalarchives.com/settings.html) You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error [there.](https://secure.classicalarchives.com/feedback.html) To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 
   
 Anti-Spam
 
-It is not the policy or the practice of our company, its affiliates, or personnel to send unsolicited email and in particular email containing advertising or other objectionable material. If you have received email which contains solicitations or objectionable content and which used one of our domain names in its return address — it is most certainly a forgery or they have placed a link to our website without our permission. 
+Although we may communicate to our members and subscribers with regards to their membership status or about special offers for subscription to our site, it is not the policy or the practice of our company, its affiliates, or personnel to send unsolicited email and in particular email containing advertising or other objectionable material. If you have received email which contains solicitations or objectionable content and which used one of our domain names in its return address — it is most certainly a forgery or they have placed a link to our website without our permission. 
 
 Although there is little we and other legitimate companies can do to stop the appropriation of our name by fraudulent email web sites, we sincerely regret the distress this may cause you. 
 
@@ -55,9 +55,9 @@ When we learn of such activity we do make an effort to trace the source of fraud
 
 There are two special circumstances in which legitimate email does originate from our website: 
 
-  1. Email may be sent by one individual to another with a link to the web site. The person receiving that email might incorrectly interpret the email as unsolicited mass email if they did not recognize the sender as a friend or acquaintance of theirs. If someone is inappropriately using this feature of our web site and repeatedly sending you email, let us know their email address and we will do our best to block the sender. 
-  2. In order to communicate to our subscribers we occasionally send mail to inform them of their subscription status. Note that our subscribers indicate at subscription time that we may or may not contact them and we respect their wishes. This list is limited to our paid subscribers and is used only by our web site when permission has been given. The subscriber list is held in confidence and is not shared with any other web site, company, or organization. 
+  1. In order to communicate to our members and subscribers we occasionally send mail to inform them of their subscription status or special offers to subscribe. The member and subscriber lists are held in strict confidence and are not shared with any other web site, company, or organization. 
+  2. Email may be sent by one individual to another with a link to the web site. The person receiving that email might incorrectly interpret the email as unsolicited mass email if they did not recognize the sender as a friend or acquaintance of theirs. If someone is inappropriately using this feature of our web site and repeatedly sending you email, let us know their email address and we will do our best to block the sender. 
 
 
 
-Should you have other questions or concerns about these privacy policies, please call us at 1-650-330-8050 or [send us an email through our feedback form.](http://www.prs.net/email_feedback.html)
+Should you have other questions or concerns about these privacy policies, please call us at 1-650-330-8050 or [send us an email through our feedback form.](https://secure.classicalarchives.com/feedback.html)
