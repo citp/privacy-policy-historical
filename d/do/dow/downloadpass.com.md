@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the downloadpass.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305040813id_/http%3A//www.mdmbill.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpass.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213211137id_/http%3A//www.mdmbill.com/privacy.html) for the most accurate reproduction.*
 
-# MDM Bill Services Limited Privacy Policy Statement
+# HOH Limited Privacy Policy Statement
 
 **PRIVACY POLICY STATEMENT**
 
-This website (the "Site") is owned by **MDM Bill Services Limited**
+This website (the "Site") is operated by **HOH Limited**
 
 Our postal address is:  
-28 EVRIPIDOU STREET  
-LARNACA, NA 6036  
-CY  
-357 22 678944
+12 Dervis Street,  
+Palais D'Ivoir Building,  
+1066 -Nicosia,  
+Cyprus
 
-We can be reached via e-mail at [privacy@mdmbill.com](mailto:privacy@mdmbill.com)
+We can be reached via e-mail at [privacy@hohsupport.com](mailto:privacy@hohsupport.com)
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscribers and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site.
 
@@ -49,11 +49,9 @@ _**There may be occasions when a subscriber will be presented with special offer
 "OPT-OUT" -- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
 **_"OPT-OUT" Revocation Procedure.  
-_**The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by going to <http://www.mdmbill.com/remove>, and entering in the exact email address to be "Opted-Out".
+_**The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by emailing [remove@hohsupport.com](mailto:remove@hohsupport.com), and entering in the exact email address to be "Opted-Out".
 
 **_Terms and Conditions of Membership.  
 _**Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers. 
 
-In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.   
-  
-© Copyright 2004, MDM Bill Services Limited All Rights Reserved. 
+In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
