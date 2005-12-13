@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwombat.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624024800id_/http%3A//www.webwombat.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwombat.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214002800id_/http%3A//www.webwombat.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Web Wombat: Privacy Policy
 
@@ -42,6 +42,6 @@ We may change this Privacy Policy from time to time at our discretion and withou
 
 **Further information**
 
-Please feel free to contact us if you have any questions, comments or would like more information. Our email address is [michael@webwombat.com](mailto:michael@webwombat.com).
+Please feel free to contact us if you have any questions, comments or would like more information. You can contact the Web Wombat team [here](http://www.webwombat.com.au/email_form.htm).
 
 This Privacy Statement is version 1.0, and replaces all previous versions.
