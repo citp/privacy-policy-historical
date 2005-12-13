@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616231333id_/http%3A//www.thrifty.com/about/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213084840id_/http%3A//www.thrifty.com/about/privacystatement.aspx) for the most accurate reproduction.*
 
 # Thrifty Rent A Car. Rent a car with our easy online reservation system.
 
-###### Thrifty knows how serious you are about your personal privacy.  We value our customer relationship with you and we keep your privacy in mind.  You have a right to know how we use the personal data we collect to rent you a car. 
+######  Thrifty knows how serious you are about your personal privacy.  We value our customer relationship with you and we keep your privacy in mind.  You have a right to know how we use the personal data we collect to rent you a car. 
 
-|    
----|---  
-  
 The following represents our privacy policy regarding the collection, handling, and distribution of your personal data.
 
 The information we collect is used:
@@ -81,6 +78,6 @@ If you want us to limit the use of your personal information, you may request th
   
   Tulsa, OK 74153-0250  
   
-or by sending an email to: [privacy@thrifty.com](mailto:privacy@thrifty.com).
+or by sending an email to:  [privacy@thrifty.com](mailto:privacy@thrifty.com) .
 
 If you opt out, Thrifty will not share your personal information with anyone other than our franchisees who need that information to provide you a rental car. However, we reserve the right to pass this information to third parties to enforce collection efforts against you as a result of the breach of any agreement with us or our franchisees. 
