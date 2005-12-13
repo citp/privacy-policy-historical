@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303171004id_/http%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213202847id_/http%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | Sweetwater.com
 
