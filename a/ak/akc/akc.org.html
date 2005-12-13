@@ -1,58 +1,222 @@
-<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2004-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040611015741id_/http%3A//akc.org/akc/privacystatement.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2005-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214001112id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>AKC Web site Privacy Statement</title>
-
-<meta http-equiv="DESCRIPTION" content="AKC Web site Privacy Statement">
-
-<meta http-equiv="KEYWORDS" content="AKC Web site Privacy Statement">
-
+<html><head><script language="JavaScript">
+<!--
+  function getProto(){
+    var vProto = document.location.protocol ;
+    if( null != vProto && 0 < vProto.length ){
+      if( ':' != vProto.charAt( vProto.length - 1 ) ){
+        vProto = vProto + ':' ;
+      }
+    }else{
+      vProto = 'http:' ;
+    }
+    return vProto;
+  }
+  function getOasServer( inProto ){
+    if( inProto != null && 0 < inProto.length && 0 == inProto.toLowerCase().indexOf( "https" ) ){
+      return 'oasc04.247realmedia.com' ;
+    }
+    return 'oascentral.akc.org' ;
+  }
+  function getPx( inPx ){
+    if( null == inPx || 0 == inPx.length ){
+        return window.location.pathname ;
+    }
+    return '/' + inPx ;
+  }
+//-->
+</script>
+<script language="JavaScript"> <!--
+  jsVer=10; //-->
+</script>
+<script language="JavaScript1.1"> <!--
+  jsVer=11; // -->
+</script>
+<script language="JavaScript">
+<!--
+  function sendOAS( slotId, px, vProto, vServ, randId ){
+    var str = null;
+    if( -1 != navigator.appVersion.indexOf( 'MSIE 3' ) ){
+      str = '<IFRAME WIDTH=460 HEIGHT=120 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" ' ;
+      str = str + ' SRC="' + vProto + '//' + vServ + '/RealMedia/ads/adstream_sx.ads/' + vHost + px + '/' + randId + '@' + slotId + '">' ;
+      str = str + '</IFRAME>' ;
+    }else if( jsVer < 11 ){
+      str = '<a href="http://oascentral.akc.org/RealMedia/ads/click_nx.ads/' + vHost + px + '/' + randId + '@' + slotId + '">' ;                                                               
+      str = str + '<img src="' + vProto + '//' + vServ + '/RealMedia/ads/adstream_nx.ads/' + vHost + px + '/' + randId + '@' + slotId + '" border="0">' ;
+      str = str + '</a>' ;document.write( str );
+    }else{
+      str = '<SCR' + 'IPT LANGUAGE="JavaScript1.1" ';
+      str = str + ' SRC="' + vProto + '//' + vServ + '/RealMedia/ads/adstream_jx.ads/' + vHost + px + '/' + randId + '@' + slotId  + '">' ;
+      str = str + '</SCR' + 'IPT>'
+    }
+    if( null != str ){
+      document.write( str );
+    }
+  }
+// -->
+</script>
 
 <script language="JavaScript">
-  var time = new Date();
-  var randnum= (time.getTime());
+  <!--
+    function newRand(){
+      return Math.min( Math.round( Math.max( 0, 2147483647 * Math.random() ) ), 2147483647 );
+    }
+    var randId = newRand();
+    var vHost = window.location.hostname;
+    var vPath = window.location.pathname;
+    function jsAd( slotId ){ 
+      if( "BottomRight" == slotId ){ 
+        var px     = getPx( '' );
+        var vProto = getProto();
+        var vServ  = getOasServer( vProto );
+        sendOAS( slotId, px, vProto, vServ, randId );
+      }else if( "Frame1" == slotId ){ 
+        var px     = getPx( '' );
+        var vProto = getProto();
+        var vServ  = getOasServer( vProto );
+        sendOAS( slotId, px, vProto, vServ, randId );
+      }else if( "Frame2" == slotId ){ 
+        var px     = getPx( '' );
+        var vProto = getProto();
+        var vServ  = getOasServer( vProto );
+        sendOAS( slotId, px, vProto, vServ, randId );
+      }else if( "Right" == slotId ){ 
+         document.write( '<a href="/events/certified_list_awards.cfm"><img src="/images/ads/cert_awards180x160.jpg" width="180" height="160" alt="" border="0"></a>' );
+      }else if( "Right1" == slotId ){ 
+         document.write( '<!-' + '-<a href="http://checksyourway.com/htm/web_pages/dog_check_1thru50_gallery.htm"><img src="/images/ads/CYW-300x250.jpg" width="300" height="250" alt="Checks Your Way" border="0"></a>-' + '->' );
+         document.write( '<a href="http://www.akcpethealthcare.com/"><img src="/images/ads/ppi.jpg" width="300" height="250" alt="Pet Partners Inc." border="0"></a>' );
+      }
+    }
+  //-->
+</script>
+<!-- post jsAd html -->
+<script language="JavaScript">
+<!--
+  vHost = "www.akc.org";
+  // -->
 </script>
 
-<script language="Javascript">
-function msover(img,ref){
-		document.images[img].src = ref;
-}
+ 
 
-function msout(img,ref) {
-		document.images[img].src = ref;
-}
 
-function preLoad() {       // loads the images for quicker viewing.
 
-	loadList = new Array("/images/template/top_nav_breeds_on.gif",
-	"/images/template/top_nav_love_on.gif",
-	"/images/template/top_nav_dic_on.gif",
-	"/images/template/top_nav_store_on.gif",
-	"/images/template/top_nav_reg_on.gif",
-	"/images/template/top_nav_yourakc_on.gif",
-	"/images/template/top_nav_news_on.gif",
-	"/images/template/top_nav_inside_on.gif");   
 
-	onImages = new Array(); 
 
-	for (field in loadList) {               
-		onImages[field] = new Image();          
-		onImages[field].src = loadList[field];  
-	};
-};
-</script>
 
-<script language="javascript">
-function openWin( windowURL, windowName, windowFeatures ) { 
-	return window.open( windowURL, windowName, windowFeatures ) ; 
-}
-</script>
 
-<link rel="STYLESHEET" type="text/css" href="/akc.css">
-<link rel="SHORTCUT ICON" href="http://www.akc.org/akc.gif"> 
+
+
+
+
+
+
+
+
+
+	
+		
+			<style type="text/css">
+			@import url(http://www.akc.org/layouts/Standard/styles/div_ids.css);
+			@import url(http://www.akc.org/layouts/Standard/styles/classes.css);
+			@import url(http://www.akc.org/layouts/Standard/styles/elements.css);
+			</style>
+		
+	
+
+
+
+
+
+		
+		
+			
+	
+			
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>American Kennel Club - AKC Web Site Privacy Statement</title>
+<meta name="Keywords" content="AKC Web Site Privacy Statement">
+<meta name="Description" content="AKC Web Site Privacy Statement">
+
+<script src="/__utm.js" type="text/javascript"></script>
+<script language="JavaScript1.1" src="/js/Layout.js" type="text/javascript"></script>
+
 </head>
-<body background="/images/template/akc_bgimage.gif" bgcolor="000000" onload="preLoad()" link="ff9933" vlink="cc99cc" alink="000000" text="000000" leftmargin="11" marginwidth="11" topmargin="4" marginheight="4"> 
+
+
+
+<body style="margin-top: 8px; margin-left: 10px; margin-bottom: 0px; margin-right: 0px;">
+<table width="758" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" height="775">
+<tbody><tr valign="top" background="/layouts/Standard/images/leftnav_bkg.gif"><td colspan="2" valign="top" background="/layouts/Standard/images/leftnav_bkg.gif" bgcolor="#00ffff" class="whitebody">
+
+
+
+
+
+
+
+<table width="758" height="103" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr height="103"><td valign="top" bgcolor="#00ffff" height="103"><a href="/index.cfm?nav_area=homepage"><img src="/layouts/Standard/images/header_main.gif" width="531" height="103" border="0"></a></td>
+<td valign="top" bgcolor="#00ffff" height="103">
+
+
+<a href="/breeds/dandie_dinmont_terrier/index.cfm"><img src="/images/rotating/dandie_dinmont_terrier.jpg" width="227" height="103" border="0"></a></td></tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" height="26"><tbody><tr><td><a href="/index.cfm?nav_area=homepage" target="_top"><img src="/layouts/Standard/images/con_nav/off_home.gif" alt="" border="0" name="" width="76" height="26" onmouseover="src='/layouts/Standard/images/con_nav/on_home.gif';" onmouseout="src='/layouts/Standard/images/con_nav/off_home.gif';"></a></td><td><a href="/breeds/index.cfm?nav_area=breeds" target="_top"><img src="/layouts/Standard/images/con_nav/off_breeds.gif" alt="" border="0" name="" width="67" height="26" onmouseover="src='/layouts/Standard/images/con_nav/on_breeds.gif';" onmouseout="src='/layouts/Standard/images/con_nav/off_breeds.gif';"></a></td><td><a href="/events/index.cfm?nav_area=events"><img src="/layouts/Standard/images/con_nav/off_events.gif" border="0" name="fancy" width="64" height="26" onmouseover="src='/layouts/Standard/images/con_nav/on_events.gif';" onmouseout="src='/layouts/Standard/images/con_nav/off_events.gif';"></a></td><td><a href="/breeders/index.cfm?nav_area=breeders" target="_top"><img src="/layouts/Standard/images/con_nav/off_breeders.gif" alt="" border="0" width="83" height="26" onmouseover="src='/layouts/Standard/images/con_nav/on_breeders.gif';" onmouseout="src='/layouts/Standard/images/con_nav/off_breeders.gif';"></a></td><td><a href="/dog_owners/index.cfm?nav_area=dog_owners" target="_top"><img src="/layouts/Standard/images/con_nav/off_dog_owner.gif" alt="" border="0" width="113" height="26" onmouseover="src='/layouts/Standard/images/con_nav/on_dog_owner.gif';" onmouseout="src='/layouts/Standard/images/con_nav/off_dog_owner.gif';"></a></td><td><a href="/future_dog_owner/index.cfm?nav_area=future_dog_owners" target="_top"><img src="/layouts/Standard/images/con_nav/off_future_owner.gif" alt="" border="0" name="" width="166" height="26" onmouseover="src='/layouts/Standard/images/con_nav/on_future_owner.gif';" onmouseout="src='/layouts/Standard/images/con_nav/off_future_owner.gif';"></a></td><td><a href="/clubs/index.cfm?nav_area=clubs" target="_top"><img src="/layouts/Standard/images/con_nav/off_clubs.gif" alt="" border="0" name="" width="60" height="26" onmouseover="src='/layouts/Standard/images/con_nav/on_clubs.gif';" onmouseout="src='/layouts/Standard/images/con_nav/off_clubs.gif';"></a></td><td><a href="/kids_juniors/index.cfm?nav_area=kids_juniors" target="_top"><img src="/layouts/Standard/images/con_nav/off_kids.gif" alt="" border="0" name="" width="129" height="26" onmouseover="src='/layouts/Standard/images/con_nav/on_kids.gif';" onmouseout="src='/layouts/Standard/images/con_nav/off_kids.gif';"></a></td></tr></tbody></table>
+</td></tr>
+
+
+					  <tr height="100%" background="#Request.layout#/images/leftnav_bkg.gif"><td width="149" valign="top" height="100%" background="#Request.layout#/images/leftnav_bkg.gif">
+
+<table width="149" height="100%" border="0" cellpadding="0" cellspacing="0" background="/layouts/Standard/images/leftnav_bkg.gif">
+<tbody><tr width="149" height="100%" id="leftnav" background="/layouts/Standard/images/leftnav_bkg.gif">
+<td width="149" height="100%" id="leftnav" background="/layouts/Standard/images/leftnav_bkg.gif">
+	
+
+	
+  <table width="140" border="0" cellspacing="0" cellpadding="0" align="left" id="leftnav">
+    <tbody><tr align="left" width="140" id="leftnav">
+    <td align="left" width="140" height="25" id="leftnav">
+	
+	
+
+
+
+
+<a href="/index.cfm"><img src="/layouts/Standard/images/portal/homepage/rotate_dogny2.gif" border="0"></a>
+
+
+		
+	
+	</td></tr>
+    <tr align="left" width="140" id="leftnav">
+    <td align="left" width="140" id="leftnav"> 
+	
+	
 <script type="text/javascript">
 
 //HV Menu- by Ger Versluis (http://www.burmees.nl/)
@@ -64,227 +228,158 @@ function Go(){return}
 </script>
 
 
- <script type="text/javascript" src="/menuhv/exmplmenu_var2.js"></script>
-<script type="text/javascript" src="/menuhv/menu_com.js"></script>
-<noscript>Your browser does not support script</noscript>
- 
 
-<!--Ryan-->
-<table width="721" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-<td valign="top">
-<table width="721" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-          <td colspan="3"><img src="/images/homepage/akc_home_banner_aNEW.gif" alt="American Kennel Club" width="721" height="106" border="0" usemap="#newsletter"><map name="newsletter" id="newsletter"><area shape="rect" coords="549,59,703,103" href="/enewsletter/general/signup.cfm"></map></td>
-</tr>
-<tr> 
-          <td width="495"><img src="/images/homepage/akc_home_banner_bNEW.gif" alt="American Kennel Club" width="495" height="26" border="0"></td>
-<td class="right" width="215" bgcolor="#000000" align="right">
-<!-- start search form ***************************************** -->
-<table border="0" height="19" cellpadding="0" cellspacing="0" width="215">
-<form method="GET" action="/search"></form>
-<tbody><tr>
-<td align="right"><font face="sans-serif,arial" color="white" size="1"><b> SEARCH</b></font><b>&nbsp; 
-                
-                   <input type="text" name="q" size="15">
-                        
-                  <input type="image" src="/images/template/akc_gobutton.gif" align="absmiddle" alt="Go" border="0" width="21" height="15">
-           
-				  <input type="hidden" name="btnG" value="Google Search">
-                  <input type="hidden" name="site" value="www">
-                  <input type="hidden" name="output" value="xml_no_dtd">
-                  <input type="hidden" name="client" value="www">
-                  <input type="hidden" name="proxystylesheet" value="www"></b></td></tr>
-				 
-	
+<script type="text/javascript" src="/leftnav/contact_portal.js"></script>
+ 
+<script type="text/javascript" src="/leftnav/menu_com.js"></script>
+
+
+
+
+		
+	</td></tr>
+
 	</tbody></table>
-<!-- end search form ***************************************** --></td>
-<td width="11" bgcolor="#FFFFFF"><img src="/images/template/clear_pixel.gif" width="11"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
 
-<!--RyanEnd-->
-<!-- masthead table start*****************************************************-->
 
-<!-- masthead table end*******************************************************-->
 
-
-<table width="721" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-<tbody><tr> 
-<td valign="top" bgcolor="#FFFFFF" width="11"><img src="/images/template/clear_pixel.gif" width="11" height="1"></td>
-<td valign="top" width="699" bgcolor="#660066">
-
-<table width="699" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td><a href="http://www.akc.org/breeds/index.cfm" onmouseover="msover('breeds','/images/template/top_nav_breeds_on.gif')" onmouseout="msout('breeds','/images/template/top_nav_breeds_off.gif')"><img src="/images/template/top_nav_breeds_off.gif" border="0" alt="Breeds" name="breeds"></a></td>
-<td><a href="http://www.akc.org/life/index.cfm" onmouseover="msover('love','/images/template/top_nav_love_on.gif')" onmouseout="msout('love','/images/template/top_nav_love_off.gif')"><img src="/images/template/top_nav_love_off.gif" border="0" alt="Life with Dogs" name="love"></a></td>
-<td><a href="http://www.akc.org/dic/index.cfm" onmouseover="msover('events','/images/template/top_nav_events_on.gif')" onmouseout="msout('events','/images/template/top_nav_events_off.gif')"><img src="/images/template/top_nav_events_off.gif" border="0" alt="Dog Events" name="events"></a></td>
-<td><a href="http://www.akc.org/dic/clubs/index.cfm" onmouseover="msover('clubs','/images/template/top_nav_clubs_on.gif')" onmouseout="msout('clubs','/images/template/top_nav_clubs_off.gif')"><img src="/images/template/top_nav_clubs_off.gif" border="0" alt="Clubs" name="clubs"></a></td>
-<td><a href="http://www.akc.org/store/index.cfm" onmouseover="msover('store','/images/template/top_nav_store_on.gif')" onmouseout="msout('store','/images/template/top_nav_store_off.gif')">
-<img src="/images/template/top_nav_store_off.gif" border="0" alt="Shop AKC" name="store"></a></td>
-<td><a href="http://www.akc.org/registration/index.cfm" onmouseover="msover('reg','/images/template/top_nav_reg_on.gif')" onmouseout="msout('reg','/images/template/top_nav_reg_off.gif')"><img src="/images/template/top_nav_reg_off.gif" border="0" alt="Registration" name="reg"></a></td>
-<td><a href="http://www.akc.org/news/index.cfm" onmouseover="msover('news','/images/template/top_nav_news_on.gif')" onmouseout="msout('news','/images/template/top_nav_news_off.gif')"><img src="/images/template/top_nav_news_off.gif" border="0" alt="News" name="news"></a></td>
-<td><a href="http://www.akc.org/insideAKC/index.cfm" onmouseover="msover('inside','/images/template/top_nav_inside_on.gif')" onmouseout="msout('inside','/images/template/top_nav_inside_off.gif')"><img src="/images/template/top_nav_inside_off.gif" border="0" alt="Inside AKC" name="inside"></a></td>
-<td><a href="http://www.akc.org/store/account/index.cfm" onmouseover="msover('yourakc','/images/template/top_nav_yourakc_on.gif')" onmouseout="msout('yourakc','/images/template/top_nav_yourakc_off.gif')"><img src="/images/template/top_nav_yourakc_off.gif" alt="YourAKC" name="yourakc" id="yourakc" border="0"></a></td>
-</tr>
-</tbody></table>
-</td>
-<td valign="top" bgcolor="#FFFFFF" width="11"><img src="/images/template/clear_pixel.gif" width="11" height="1"></td>
-</tr>
-
-</tbody></table>
-
-
-
-
-<table width="721" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-<tbody><tr> 
-	<td valign="top" width="11" bgcolor="#FFFFFF"><img src="/images/template/clear_pixel.gif" width="11" height="8"></td>
-    <td bgcolor="#669900" height="15" width="699">
-		<!-- Cookie Crumbs here -->
-		 &nbsp;&nbsp;<a class="headline" href="/">AKC Home</a><img src="/images/template/clear_pixel.gif" width="1" height="19" border="0" alt="">
-	</td>
-	<td valign="top" bgcolor="#FFFFFF" width="11"><img src="/images/template/clear_pixel.gif" width="11" height="8"></td>
-</tr>
-</tbody></table> <table width="721" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td valign="top" bgcolor="#FFFFFF" width="11"><img src="/images/template/clear_pixel.gif" width="11" height="1"></td>
-
-
-
-<td bgcolor="#990033" width="16"><img src="/images/template/clear_pixel.gif" width="16" height="6">
-
-	
-
-
-
-
-	
-
-
- 
-
-
-
-
-
-
-
-
-          
-		  
-
-	
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-
-
-
-	
- 
- 
- 
-	
-
-
-
-
-
-
-
-	
-
-	
-	
-		
-			
-			
-		
-		
-	
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-	 
-
-		
 
 
 </td>
-<td valign="top" bgcolor="#FFFFFF" width="667"> 
-<!-- Body Content here -->
-<center>
-<table width="657" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
+</tr>
+<tr height="100%" id="leftnav" background="/layouts/Standard/images/leftnav_bkg.gif">
+<td height="100%" id="leftnav" background="/layouts/Standard/images/leftnav_bkg.gif">&nbsp;
+
+</td></tr>
+</tbody></table>
+<table height="100%" width="149" border="0" cellpadding="0" cellspacing="0" background="/layouts/Standard/images/leftnav_bkg.gif">
+<tbody><tr height="100%" width="149" id="leftnav" background="/layouts/Standard/images/leftnav_bkg.gif">
+<td width="149" height="100%" id="leftnav" background="/layouts/Standard/images/leftnav_bkg.gif">&nbsp;
+
+</td></tr>
+</tbody></table>
+	  </td>
+    <td valign="top" bgcolor="#FFFFFF">
+	<table width="609" height="27" border="0" cellpadding="0" cellspacing="0" bgcolor="#B2BFC4">
+        <tbody><tr bgcolor="#B2BFC4"> 
+          <td bgcolor="#B2BFC4">
+<table height="25" width="609" border="0" cellpadding="0" cellspacing="0" id="content_structure">
+<tbody><tr height="25" bgcolor="#B2BFC4" width="609">
+<td height="25" valign="middle">
+<a href="/press_center/index.cfm?nav_area=press_center" target="_top">
+
+<img src="/layouts/Standard/images/off_secnav_press.gif" alt="" border="0" name="" width="78" height="25" onmouseover="src='/layouts/Standard/images/on_secnav_press.gif';" onmouseout="src='/layouts/Standard/images/off_secnav_press.gif';">
+
+</a>
+</td>
 <td>
+<a href="/shop/index.cfm?nav_area=online_store" target="_top">
+
+<img src="/layouts/Standard/images/off_secnav_store.gif" alt="" border="0" name="" width="40" height="25" onmouseover="src='/layouts/Standard/images/on_secnav_store.gif';" onmouseout="src='/layouts/Standard/images/off_secnav_store.gif';">
 
 
-				
-		
+</a>
+</td>
+<td>
+<a href="/contact/index.cfm?nav_area=contact_akc" target="_top">
+
+<img src="/layouts/Standard/images/off_secnav_contact.gif" alt="" border="0" name="" width="78" height="25" onmouseover="src='/layouts/Standard/images/on_secnav_contact.gif';" onmouseout="src='/layouts/Standard/images/off_secnav_contact.gif';">
+
+</a>
+</td>
+<td>
+<a href="/about/index.cfm?nav_area=about_akc" target="_top">
+
+<img src="/layouts/Standard/images/off_secnav_about.gif" alt="" border="0" name="" width="69" height="25" onmouseover="src='/layouts/Standard/images/on_secnav_about.gif';" onmouseout="src='/layouts/Standard/images/off_secnav_about.gif';">
+
+</a>
+</td>
+<td>
+<a href="/reg/index.cfm?nav_area=registration" target="_top">
+
+<img src="/layouts/Standard/images/off_secnav_registration.gif" alt="" border="0" name="" width="73" height="25" onmouseover="src='/layouts/Standard/images/on_secnav_registration.gif';" onmouseout="src='/layouts/Standard/images/off_secnav_registration.gif';">
+
+
+</a>
+</td>
+<td>
+<a href="/online_services/index.cfm?nav_area=online_services" target="_top">
+
+<img src="/layouts/Standard/images/off_secnav_online.gif" alt="" border="0" name="" width="93" height="25" onmouseover="src='/layouts/Standard/images/on_secnav_online.gif';" onmouseout="src='/layouts/Standard/images/off_secnav_online.gif';">
+
+</a>
+</td>
+
+<td class="searchform">
+
+
+
+<form method="get" action="http://akc.mondosearch.com/cgi-bin/MsmFind.exe" id="Form1">
 
 
 
 
-
- <a class="smred" href="JavaScript:newWindow = openWin( '/store/account/pop_login.cfm?form_page=all', 'login', 		'width=450,height=300,toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=0,resizable=1' );newWindow.focus();"><img src="/images/template/yourAKClogo_sm.gif" border="0" align="right" alt="Login to your AKC to add links!"></a>
-
-
-
-
-
-
-
-<table width="460" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><img src="privacy_banner.gif" width="433" height="115"></td>
-  </tr>
+<img src="/layouts/Standard/images/search.gif" border="0">
+          <input type="text" name="query" style="width:90px">
+<input name="search_button" type="image" src="/layouts/Standard/images/search_button.gif">
+</form>
+</td>
+</tr>
 </tbody></table>
+</td>
+        </tr></tbody></table>
+		<table width="609" height="27" border="0" cellpadding="5" cellspacing="0">
+        <tbody><tr> 
+<td valign="top" bgcolor="#FFFFFF">
 
-<table width="667" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
+<div style="width: 599px; text-align: center; ">
+
+<div id="ad" style="margin-left: 0px;margin-right: 0px;margin: 5px;">
+<script language="JavaScript">
+<!--
+jsAd( "Top")
+//-->
+</script>
+</div>
+</div>
+<div id="content">
 
 
 
-<table width="660" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr>
-    <td>
+<div id="ad" style="margin-top: 40px; margin-bottom: 20px;margin-left: 0px;margin-right: 0px;float:right; ">
+<script language="JavaScript">
+<!--
+jsAd( "Right")
+//-->
+</script><a href="/events/certified_list_awards.cfm"><img src="/images/ads/cert_awards180x160.jpg" width="180" height="160" alt="" border="0"></a>
+</div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<font class="title">AKC Web Site Privacy Statement</font><br><br>
+
+
 At The American Kennel Club, 
   we are committed to protecting your privacy. We use the information we collect 
   about you on our Web site to process your orders, respond to information requests, 
   provide a more personalized experience while you are browsing or shopping in 
   our Online Store, and create a better experience for our Web site users. Please 
-  read on for more details about our Web site privacy policy.<p></p>
-<p> <b>What information do 
-  we collect? How do we use it?</b><br>
+  read on for more details about our Web site privacy policy.
+<br><br>
+
+ <b>What information do 
+  we collect? How do we use it?</b><br><br>
   An account is required for you to utilize certain services on our Web site, 
   such as making purchases in our Online Store, using Your AKC, and donating to 
   the AKC CAR Canine Support and Relief Fund. When you create an account, we ask 
@@ -295,33 +390,48 @@ At The American Kennel Club,
   We also ask for other non-personally identifiable information, such as whether 
   you own an AKC registered dog. We use the information we collect to customize 
   your experience and provide services and features that most likely meet your 
-  needs so that your use of our Web site is more enjoyable.</p>
-<p>In addition to creating an account with us, we may ask you for personally identifiable information at other times, including when you sign up for email message groups and newsletters. We use this information to send you the email newsletters you request, to notify you of changes to our Web site, of new products in our Online Store and of other promotions.</p>
-      <p>We will ask you for personally identifiable information when you take out a subscription to our magazines.  AKC uses a reputable third party service provider to collect your personally identifiable information to process and fulfill your subscription request.  This third party service provider collects and stores this information in a secure, password-protected database.  Your personally identifiable information will only be used by the third party service provider to process and fulfill your subscription request and other uses only as directed by AKC. 
-        <!-- 
-        If you would like to know more abut the information gathering practices 
-        of our third party service provider, please <a class="white" href="http://www.kable.com/legal/priv.html">click 
-        here</a>.--></p>
-<p>If you send us email, we 
+  needs so that your use of our Web site is more enjoyable.
+<br><br>
+
+In addition to creating an account with us, we may ask you for personally identifiable information at other times, including when you sign up for email message groups and newsletters. We use this information to send you the email newsletters you request, to notify you of changes to our Web site, of new products in our Online Store and of other promotions.
+	  <br><br>
+	  
+	  We will ask you for personally identifiable information when you take out a subscription to our magazines.  AKC uses a reputable third party service provider to collect your personally identifiable information to process and fulfill your subscription request.  This third party service provider collects and stores this information in a secure, password-protected database.  Your personally identifiable information will only be used by the third party service provider to process and fulfill your subscription request and other uses only as directed by AKC. 
+        
+<br><br>
+
+
+If you send us email, we 
   may collect and store such information. We use the information to reply to your 
-  email communication.</p>
-<p>We may also use the information 
+  email communication. If you register a litter or dog using our online system, we may collect and store this information.  We use this information to process your application.
+<br>
+<br>
+
+We may also use the information 
   we collect to occasionally notify you about important functionality changes 
   to the Web site, new AKC services, and special offers we think you'll find valuable. 
   If you would rather not receive this information, you may indicate your preference 
-  by <a class="white" href="/store/index.cfm">updating your AKC account</a>.</p>
-<p>AKC uses a reputable third 
+  by <a class="white" href="/account/">updating your AKC account</a>.
+<br>
+<br>
+
+AKC uses a reputable third 
   party to serve some of the advertisements that you see on the pages of our Web 
   site. If you would like to know more about the information gathering practices 
-  and "opt-out" procedure of our third party ad server, please <a class="white" href="http://www.doubleclick.com/us/">click 
-  here</a>.</p>
-<p><b>How does AKC protect 
-  customer information?</b><br>
+  and "opt-out" procedure of our third party ad server, please <a class="white" href="http://247realmedia.com/privacy.html">click 
+  here</a>.
+<br>
+<br>
+
+<b>How does AKC protect 
+  customer information?</b><br><br>
   When you place orders or access account information, we use a secure server. 
   We use secure socket layer (SSL) software to encrypt all information you input 
   before it is sent to us. Further, all of the customer data we collect and store 
-  is protected against unauthorized access.</p>
-<p> <b>What about "cookies?"</b><br>
+  is protected against unauthorized access.
+<br><br>
+
+<b>What about "cookies?"</b><br><br>
   A "cookie" is a small data file stored by your browser on your computer's 
   hard drive. Cookies contain a unique identifier which allows us to match your 
   computer with the information we store for you in our database. Our cookies 
@@ -334,70 +444,85 @@ At The American Kennel Club,
   such as Your AKC. We also use cookies to alert you of new areas that we think 
   might be of interest to you when you return to our Web site, record past activity 
   at our Web site, analyze usage of our Web site, target advertisements, or customize 
-  Web page content, layout and services.</p>
-<p>Most Web browsers automatically 
+  Web page content, layout and services.
+<br><br>
+
+Most Web browsers automatically 
   accept cookies, but you can usually change your browser to prevent that. By 
   accepting cookies from our Web site, you allow us to maintain the preferences 
   stored in your AKC accounts and to utilize our online information services. 
   If you choose not to accept cookies from our Web site, personalization and purchasing 
   of online information are not possible from our Web site. However, if you choose 
   not to accept cookies, you may be able to use other features of our Web site 
-  which do not involve personalization and making purchases.</p>
-<p>
+  which do not involve personalization and making purchases.
+  <br><br>
+  
   <b>Will AKC disclose the information it collects on its Web site to outside 
-  parties?</b><br>
-  We may share your personally identifiable information collected on our Web site 
-  to reputable third parties for use by third parties and by us. If you prefer 
-  that AKC not release this information, you may indicate your preference by <a class="white" href="/store/index.cfm">updating 
-  your AKC account</a>.</p>
-<p>In addition, some of your 
+  parties?</b><br><br>
+  
+  We may share your personally identifiable information collected on our Web site to reputable third parties for use by third parties and by us. If you prefer that AKC not release this information, you may indicate your preference by <a class="white" href="/account/">updating 
+  your AKC account</a>.
+If you register a dog or litter using the AKC's online systems, you must contact AKC customer service at <a href="mailto:info@akc.org">info@akc.org</a>  or 919-233-9767 to request that your name and address not be released to our third party partners.<br>
+<br>
+
+In addition, some of your 
   personally identifiable information is disclosed to third party service providers, 
   vendors or manufacturers when you order certain products or merchandise from 
   our Online Store or subscribe to our magazines. Your personally identifiable 
   information is disclosed so that these third parties can process and fulfill 
   your orders. Therefore, by ordering certain products or merchandise from our 
   Online Store, you are indicating your consent to the release of your personally 
-  identifiable information to third parties.</p>
-<p>You may indicate your preference 
+  identifiable information to third parties.
+<br><br>
+
+You may indicate your preference 
   that AKC not release to third parties your personally identifiable information 
   collected when you subscribe to our magazines by checking the appropriate box 
   on the subscription invoice form or subscription renewal form that we mail to 
-  you.</p>
-<p>AKC also will disclose personally 
+  you.
+<br><br>
+
+AKC also will disclose personally 
   identifiable information if legally required to do so through, for example, 
   subpoena, search warrant or other legal process. In this instance, disclosure 
-  may take place without your consent.</p>
-<p>
-  <b>How can you access, edit or delete your information?</b><br>
-  You may access, edit or delete your personally identifiable information by <a class="white" href="/store/index.cfm">updating 
+  may take place without your consent.
+  <br><br>
+  
+  <b>How can you access, edit or delete your information?</b><br><br>
+  You may access, edit or delete your personally identifiable information by <a class="white" href="/account/">updating 
   your AKC account</a>. For magazine subscribers, you may edit your postal mailing 
-  address at the <a class="white" href="/pubs/changemyaddress.html">Change My Address page</a>.</p>
-<p>
+  address at the <a class="white" href="https://www.kable.com/pub/agzt/coa.asp">Change My Address page</a>.
+<br>
+<br>
+
+
   <b>What about privacy policies of Web sites linked to the AKC Web site?</b><br>
   Our Web site contains links to other, third party Web sites. Please note that 
   once you access another Web site, you are subject to the privacy policy of that 
   Web site. We do not represent or guarantee that those Web site policies conform 
-  to our own.</p>
-      <p> <b>Your consent</b><br>
+  to our own.
+	  <br><br>
+	  
+	  <b>Your consent</b><br>
         By using our Web site, you consent to the collection and use of this information 
         by AKC. If we decide to change our privacy policy, we will post those 
         changes on this page so that you are always aware of what information 
         we collect, how we use it, and under what circumstances we disclose it. 
         <br>
         <br>
-        <a name="kids"></a><strong>Kids Privacy Policy</strong><br>
+        <a name="kids"></a><strong>Kids Privacy Policy</strong><br><br>
         
         The AKC Web site is a general audience Web site. This policy applies only 
-        to information collected at AKC’s Web site and not to information collected 
+        to information collected at AKC's Web site and not to information collected 
         by the AKC through other means. The only instances in which the AKC knowingly 
-        collects information from children under thirteen are email to “Dear 
-        Bailey” and a request to receive the AKC Junior e-newsletter.<br>
+        collects information from children under thirteen are email to �Dear 
+        Bailey� and a request to receive the AKC Junior e-newsletter.<br>
         <br>
-        <strong>Junior e-newsletter</strong><br>
+        <strong>Junior e-newsletter</strong><br><br>
         
         The AKC collects email addresses from children under thirteen in order 
         to send them a Junior e-newsletter. In order to send the Junior e-newsletter 
-        the child’s email address will be sent to a third party to process the 
+        the child's email address will be sent to a third party to process the 
         request and send the newsletter. This third party is restricted by contract 
         from using the email address for any other purpose other than sending 
         the e-newsletter. Prior to sending the Junior e-newsletter to a child 
@@ -406,11 +531,12 @@ At The American Kennel Club,
         Junior e-newsletter. Parents or legal guardians may request to review 
         the information that has been collected, find out how the information 
         collected has been used, and, if you choose, prohibit us from making further 
-        use of your child’s information and that your child’s information be deleted. 
+        use of your child's information and that your child's information be deleted. 
         Additionally, if you request the deletion of the collected information 
         it will also be deleted by the third party. <br>
         <br>
-        <strong>Dear Bailey</strong> <br>
+		
+        <strong>Dear Bailey</strong> <br><br>
         
         "Dear Bailey" email connects your child with the American Kennel Club. 
         If your child sends us an email with a question or comment or enters 
@@ -423,79 +549,431 @@ At The American Kennel Club,
         else to us which is posted at our site, he or she will be identified by 
         first name, age and state. <br>
         <br>
+		
         You and your child's use of this site are conditioned on your having accepted 
         these terms. You should check back at this policy frequently, since it 
         is subject to change from time to time, and your continued use of the 
         site is conditioned upon your acceptance of any modification hereto.<br>
         <br>
+		
         In order to review the information collected and to request deletion, 
         a parent or child may email <a class="white" href="mailto:master@akc.org">master@akc.org</a> 
         write privacy policy in the message space or contact us at the address 
         or phone number listed below.<br>
         <br>
+		
         Mailing Address: <br>
         <br>
-        Robert Keely<br>
+		
+        Robert Burns <br>
         Privacy Policy<br>
         American Kennel Club <br>
         5580 Centerview Drive<br>
         Raleigh, NC 27606-3390 <br>
         <br>
+		
         Our Customer Service Department is open from 8:30 am to 5:00 PM Eastern 
         Time <br>
         Phone number: 919-233-9767 <br>
         <br>
         <b>Tell us what you think</b><br>
         AKC welcomes your questions and comments about privacy and our Web site. 
-        Please send email to <a class="white" href="mailto:info@akc.org">info@akc.org</a>.</p></td>
+        Please send email to <a class="white" href="mailto:info@akc.org">info@akc.org</a>.
+
+		
+
+
+		</div></td>
+        </tr>
+      </tbody></table><div style="width: 599px; text-align: center; ">
+
+<div id="ad" style="margin-left: 0px;margin-right: 0px;margin: 5px;">
+<script language="JavaScript">
+<!--
+jsAd( "Bottom")
+//-->
+</script>
+</div>
+</div>
+	 </td>
   </tr>
 </tbody></table>
+ 
 
 
+	
 
 
+		
+<table width="758" height="9" border="0" cellpadding="0" cellspacing="0" bgcolor="#024877">
+  <tbody><tr> 
+    <td width="149">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table> 
+<table width="758" border="0" align="left" id="bottomnavbar" bgcolor="#024877">
 
-<br><br clear="all">
-<br>
 
+<tbody><tr height="5">
+<td height="5">
+</td>
+</tr>
+<tr align="center" id="bottomnavbar">
+<td align="center" id="bottomnavbar">
+	
+		<a href="http://www.akc.org/index.cfm" class="footer">AKC Homepage</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	    <a href="http://www.akc.org/about/site/about.cfm" class="footer">About this Site</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="http://www.akc.org/about/jobs.cfm" class="footer">Employment</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	    <a href="http://www.akc.org/contact/index.cfm" class="footer">Contact AKC</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	    <a href="http://www.akc.org/about/site/advertising.cfm" class="footer">Corporate Advertising</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	    <a href="http://www.akc.org/about/site/privacystatement.cfm" class="footer">Privacy Statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="http://www.akc.org/about/california_privacy.cfm" class="footer">Your California Privacy Rights</a>
+	
+</td>
+</tr>
+<tr align="center" id="footnote">
+<td align="center" id="footnote">
+
+
+<div align="center"></div><a href="http://www.akc.org/about/site/copy.cfm" class="footer">© 2005 American Kennel Club® (AKC Copyright and Trademark Statement)</a>
 
 </td>
 </tr>
 </tbody></table>
-
-</center></td>
-<td bgcolor="#990033" width="16"><img src="/images/template/clear_pixel.gif" width="16" height="6"></td>
-<td valign="top" bgcolor="#FFFFFF" width="11"><img src="/images/template/clear_pixel.gif" width="11" height="1"></td>
-</tr>
-</tbody></table>
-
-<table width="721" border="0" cellspacing="0" cellpadding="0">
-
-
-<tbody><tr valign="top"> 
-<td><img src="/images/template/akc_bottom2.gif"></td>
-</tr>
-
-
-<tr valign="top" bgcolor="#000000"> 
-<td height="10"><img src="/images/template/clear_pixel.gif" width="1" height="10"></td>
-</tr>
-<tr> 
-    <td class="center" valign="top" bgcolor="#000000" align="center"> <a class="blink" href="/">Home</a> 
-      &nbsp;|&nbsp; <a class="blink" href="/breeds/index.cfm">Breeds</a> &nbsp;|&nbsp; 
-      <a class="blink" href="/life/">Life with Dogs</a> &nbsp;|&nbsp; 
-      <a class="blink" href="/dic/events/">Dog Events</a> &nbsp;|&nbsp; <a class="blink" href="/dic/clubs/index.cfm">Clubs</a> 
-      &nbsp;|&nbsp; <a class="blink" href="/store/index.cfm">Shop AKC</a> &nbsp;|&nbsp; 
-      <a class="blink" href="/registration/index.cfm">Registration</a> &nbsp;|&nbsp; 
-      <a class="blink" href="/news/index.cfm">News</a> &nbsp;|&nbsp; <a class="blink" href="/insideAKC/index.cfm">Inside 
-      AKC</a><br>
-							<a class="blink" href="/akc/copy.cfm">© 2004 American Kennel Club</a> &nbsp;|&nbsp; <a class="blink" href="/insideAKC/customer_care.cfm">Contact AKC</a> &nbsp;
-|&nbsp; <a class="blink" href="/insideAKC/advertising.cfm">Corporate Advertising</a> &nbsp;
-|&nbsp; <a class="blink" href="/akc/privacystatement.cfm">Privacy Statement</a> &nbsp;|&nbsp; <a class="blink" href="/love/about.cfm">About This Site</a>
 <br>
-</td>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+	
+
+
+<div id="sidebar_main">
+<table border="0" cellpadding="0" cellspacing="0" background="/layouts/Standard/images/sidebar/border_sides.gif" id="sidebar_table">
+	<tbody><tr>
+		<td><img src="/layouts/Standard/images/sidebar/border_top.gif" border="0"></td>
+	</tr>
+	<tr id="sidebar_table">
+		<td id="sidebar_table">
+			<div align="center">
+				<img src="/layouts/Standard/images/sidebar/header.gif" border="0" width="173">
+			</div>
+			 
+			&nbsp;&nbsp;"Your AKC" eNewsletter<br>
+&nbsp;&nbsp;<a href="/enewsletter/index.cfm?newslist=yourakc" class="sidebar_href">More Information</a>
+			
+			
+			
+			
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<hr id="sidebar_hr" align="center">
+			
+
+
+<style>
+<!--
+#foldheader{cursor:pointer;cursor:hand;}
+#foldinglist{list-style-type:none;}
+//-->
+</style>
+<script language="JavaScript1.2">
+<!--
+
+//Smart Folding Menu tree- By Dynamic Drive (rewritten 03/03/02)
+//For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+//This credit MUST stay intact for use
+
+var head="display:''"
+
+var ns6=document.getElementById&&!document.all
+var ie4=document.all&&navigator.userAgent.indexOf("Opera")==-1
+
+function checkcontained(e){
+var iscontained=0
+cur=ns6? e.target : event.srcElement
+i=0
+if (cur.id=="foldheader")
+iscontained=1
+else
+while (ns6&&cur.parentNode||(ie4&&cur.parentElement)){
+if (cur.id=="foldheader"||cur.id=="foldinglist"){
+iscontained=(cur.id=="foldheader")? 1 : 0
+break
+}
+cur=ns6? cur.parentNode : cur.parentElement
+}
+
+if (iscontained){
+var foldercontent=ns6? cur.nextSibling.nextSibling : cur.all.tags("UL")[0]
+if (foldercontent.style.display=="none"){
+foldercontent.style.display=""
+}
+else{
+foldercontent.style.display="none"
+}
+}
+}
+
+if (ie4||ns6)
+document.onclick=checkcontained
+
+//-->
+</script>
+
+
+<ul id="sidebar_list">
+   <li id="foldheader">AKC News</li>
+   <ul id="foldinglist" style="display:none">
+      <li><a href="/news/index.cfm" class="sidebar_href">News Homepage</a></li>
+	  <li><a href="/news/sections/legislative_alerts.cfm" class="sidebar_href">Legislative Alerts</a></li>
+      <li><a href="/news/news_archive.cfm" class="sidebar_href">News Archive</a></li>
+   </ul>
+
+</ul>
+
+
+			<hr id="sidebar_hr" align="center">
+			&nbsp;&nbsp;
+			<a href="/news/sections/legislative_alerts.cfm" class="sidebar_main_link" style="color:B7A47D;text-decoration:none;">Legislative Alerts</a>
+			
+			<hr id="sidebar_hr" align="center">
+			
+
+<ul id="sidebar_list">
+   <li id="foldheader">Translate This Page</li>
+   <ul id="foldinglist" style="display:none">
+      <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Ces&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Español</a></li>
+      <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Cfr&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Français</a></li>
+      <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Cde&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Deutsch</a></li>
+	  	  <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Cpt&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Portugese</a></li>
+	  
+   </ul>
+</ul>
+
+
+
+
+			
+			
+			
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+<style type="text/css">
+
+  .submitLink {
+	font-family : arial, helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: normal;
+	color: #CC6633;
+	background-color: transparent;
+	text-decoration: none;
+	border: none;
+	cursor: pointer;
+	cursor: hand;
+	height:20px;	
+	margin-left:-3px;	
+	padding-left:8px;
+  }
+
+  .submitLinkhover {
+font-family : arial, helvetica, sans-serif;
+font-size: 8pt;
+font-weight: normal;
+color: CCCCCC;
+background-color: transparent;
+text-decoration: underline;
+border: none;
+cursor: pointer;
+cursor: hand;
+height:20px;
+	margin-left:-3px;	
+	padding-left:8px;
+  }
+  .submitLinkSmall {
+   color: CC6633;
+   background-color: transparent;
+   text-decoration: none;
+   border: none;
+   cursor: pointer;
+   cursor: hand;
+   height:14px;
+	width:475px;
+  }
+
+  .submitLinkhoverSmall {
+   color: CC6633;
+   background-color: transparent;
+   text-decoration: underline;
+   border: none;
+   cursor: pointer;
+   cursor: hand;
+   height:14px;
+	width:475px;
+  }
+</style>
+			
+     		
+			<hr id="sidebar_hr" align="center">
+			
+	
+<table cellpadding="0" cellspacing="0" border="0" width="165" id="sidebar_table">
+	<tbody><tr>
+		<td colspan="2">
+			&nbsp;&nbsp;<b>Quick Poll:</b><br>
+		</td>
+	</tr>
+<tr>
+	<td colspan="2">
+		<table cellpadding="5" cellspacing="0" border="0" id="sidebar_table">
+			<tbody><tr>
+				<td>
+					Does your dog like to watch television?<br>
+				</td>
+			</tr>
+		</tbody></table>
+	</td>
 </tr>
+	<form action="/poll/akc_quick_poll.cfm" method="post"></form>
+		<input name="cde_poll" type="hidden" value="20050812045408">
+		
+			<tr>
+				<td width="20">
+					
+						<input name="cde_answer" type="radio" value="200508120454081">
+					
+			  </td>
+				<td>
+					Yes, and really enjoys it<br>
+				</td>
+			</tr>
+		
+			<tr>
+				<td width="20">
+					
+						<input name="cde_answer" type="radio" value="200508120454082">
+					
+			  </td>
+				<td>
+					Yes, but barks at other dogs on TV<br>
+				</td>
+			</tr>
+		
+			<tr>
+				<td width="20">
+					
+						<input name="cde_answer" type="radio" value="200508120454083">
+					
+			  </td>
+				<td>
+					No, because I don't let him/her<br>
+				</td>
+			</tr>
+		
+			<tr>
+				<td width="20">
+					
+						<input name="cde_answer" type="radio" value="200508120454084">
+					
+			  </td>
+				<td>
+					No, because he/she isn't visually interested<br>
+				</td>
+			</tr>
+		
+		<tr align="right">
+			<td colspan="2">
+				<input type="image" name="Submit" onclick="Javascript:this.form.submit();" src="/layouts/Standard/images/sidebar/go.gif" id="sidebar_go">
+		  </td>
+		</tr>
+	
 </tbody></table>
+
+
+			
+			
+			
+			</td>
+	</tr>
+	<tr>
+		<td><img src="/layouts/Standard/images/sidebar/border_bottom.gif" border="0"></td>
+	</tr>
+</tbody></table>
+
+
+
+<br>
+
+<div id="ad" style="margin-bottom: 10px;margin-left: 0px;margin-right: 0px;float:left; ">
+<script language="JavaScript">
+<!--
+jsAd( "Frame1")
+//-->
+</script><script language="JavaScript1.1" src="https://oasc04.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20051214001112id_/http%3A//www.akc.org/about/site/privacystatement.cfm/2073619515@Frame1"></script>
+</div>
+
+
+
+<div id="ad" style="margin-bottom: 10px;margin-left: 0px;margin-right: 0px;float:left; ">
+<script language="JavaScript">
+<!--
+jsAd( "Frame2")
+//-->
+</script><script language="JavaScript1.1" src="https://oasc04.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20051214001112id_/http%3A//www.akc.org/about/site/privacystatement.cfm/2073619515@Frame2"></script>
+</div>
+
+
+
+<div id="ad" style="margin-left: 0px;margin-right: 0px;float:left; ">
+<script language="JavaScript">
+<!--
+jsAd( "BottomRight")
+//-->
+</script><script language="JavaScript1.1" src="https://oasc04.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20051214001112id_/http%3A//www.akc.org/about/site/privacystatement.cfm/2073619515@BottomRight"></script>
+</div>
+
+
+
+</div>
+<div id="slogan_box"><div id="slogan_text"><img src="/layouts/Standard/images/tagline.gif"></div></div>
 
 
 
@@ -506,4 +984,5 @@ At The American Kennel Club,
  
 
 
-<div style="position: absolute; visibility: visible; background-color: rgb(102, 0, 102); width: 689px; height: 20px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: bold; font-style: normal; font-size: 8pt; z-index: 101; top: 133px; left: 22px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; background-image: url(&quot;/images/template/top_nav_breeds_off.gif&quot;); width: 70px; height: 18px; left: 1px; top: 1px;"><img src="/images/template/top_nav_breeds_off.gif" name="Menu1i"><img src="/images/tridown2.gif" style="position: absolute; width: 0px; height: 0px; top: 16px; left: 68px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; background-image: url(&quot;/images/template/top_nav_love_off.gif&quot;); width: 102px; height: 18px; left: 72px; top: 1px;"><img src="/images/template/top_nav_love_off.gif" name="Menu2i"><img src="/images/tridown2.gif" style="position: absolute; width: 0px; height: 0px; top: 16px; left: 100px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; background-image: url(&quot;/images/template/top_nav_events_off.gif&quot;); width: 90px; height: 18px; left: 175px; top: 1px;"><img src="/images/template/top_nav_events_off.gif" name="Menu3i"><img src="/images/tridown2.gif" style="position: absolute; width: 0px; height: 0px; top: 16px; left: 88px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; background-image: url(&quot;/images/template/top_nav_clubs_off.gif&quot;); width: 51px; height: 18px; left: 266px; top: 1px;"><img src="/images/template/top_nav_clubs_off.gif" name="Menu4i"><img src="/images/tridown2.gif" style="position: absolute; width: 0px; height: 0px; top: 16px; left: 49px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; background-image: url(&quot;/images/template/top_nav_store_off.gif&quot;); width: 79px; height: 18px; left: 318px; top: 1px;"><img src="/images/template/top_nav_store_off.gif" name="Menu5i"><img src="/images/tridown2.gif" style="position: absolute; width: 0px; height: 0px; top: 16px; left: 77px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; background-image: url(&quot;/images/template/top_nav_reg_off.gif&quot;); width: 88px; height: 18px; left: 398px; top: 1px;"><img src="/images/template/top_nav_reg_off.gif" name="Menu6i"><img src="/images/tridown2.gif" style="position: absolute; width: 0px; height: 0px; top: 16px; left: 86px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; background-image: url(&quot;/images/template/top_nav_news_off.gif&quot;); width: 53px; height: 18px; left: 487px; top: 1px;"><img src="/images/template/top_nav_news_off.gif" name="Menu7i"><img src="/images/tridown2.gif" style="position: absolute; width: 0px; height: 0px; top: 16px; left: 51px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; background-image: url(&quot;/images/template/top_nav_inside_off.gif&quot;); width: 84px; height: 18px; left: 541px; top: 1px;"><img src="/images/template/top_nav_inside_off.gif" name="Menu8i"><img src="/images/tridown2.gif" style="position: absolute; width: 0px; height: 0px; top: 16px; left: 82px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; background-image: url(&quot;/images/template/top_nav_yourakc_off.gif&quot;); width: 62px; height: 18px; left: 626px; top: 1px;"><img src="/images/template/top_nav_yourakc_off.gif" name="Menu9i"><img src="/images/tridown2.gif" style="position: absolute; width: 0px; height: 0px; top: 16px; left: 60px;"></div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 152px; height: 169px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: bold; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">By Name</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">By Group</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">Featured Breed</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 64px;">Breeder Referral</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 85px;">Breeder Education</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 106px;">National Breed Clubs</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 127px;">Breed Rescue Groups</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 148px;">About AKC Breeds</div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 152px; height: 211px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: bold; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">In the Family</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">In Good Health</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">In Training</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 64px;">In Words</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 85px;">In the World</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 106px;">Home Insurance</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 127px;">Breeder Education</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 148px;">Public Education</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 169px;">AKC Gallery</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 190px;">Canine Good Citizen</div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 152px; height: 232px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: bold; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Online Plans</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">For Fanciers</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">Event Information</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 64px;">Companion Dog Events<img src="/images/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 85px;">Conformation Events</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 106px;">Performance Events</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 127px;">Judges</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 148px;">Handlers Program</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 169px;">Junior Showmanship</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 190px;">Results &amp; Reports</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 211px;">Televised AKC Events</div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 152px; height: 127px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: bold; font-style: normal; font-size: 8pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Agility</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">CGC</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">Obedience</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 64px;">Tracking</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 85px;">What's New</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 106px;">Training Resources</div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 152px; height: 148px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: bold; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Club Communications</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">Club Search</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">Form a Club</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 64px;">Club Services</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 85px;">Club Insurance</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 106px;">Seminars</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 127px;">Breed Rescue Groups</div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 152px; height: 127px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: bold; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Enter Store</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">Free Online Services</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">Featured Products</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 64px;">Personalized Products</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 85px;">Magazines</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 106px;">Classifieds</div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 162px; height: 211px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: bold; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 157px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Why Register With AKC</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 157px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">Register a Dog</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 157px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">Register a Litter</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 157px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 64px;">Downloadable Forms</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 157px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 85px;">Rules &amp; Regulations</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 157px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 106px;">Fee Schedule</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 157px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 127px;">Special Registry Services</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 157px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 148px;">DNA</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 157px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 169px;">Artificial Insemination</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 157px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 190px;">Registration Statistics</div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 152px; height: 127px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: bold; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Front Page</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">Legislative Alerts</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">Event Results</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 64px;">Archive</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 85px;">New on our Site</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 106px;">Press Center</div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 182px; height: 295px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: bold; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Minutes &amp; Reports</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">Board Policy Manual</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">Structure</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 64px;">World of AKC</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 85px;">Magazines</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 106px;">Customer Care</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 127px;">Employment</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 148px;">FAQs</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 169px;">Canine Health Foundation</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 190px;">Companion Animal Recovery</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 211px;">Museum of the Dog</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 232px;">Rules &amp; Regulations</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 253px;">AKC/CAR Fund</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 177px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 274px;">DOGNY</div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 162px; height: 64px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: bold; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 157px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Manage Your Account</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 157px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">My AKC Links</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(102, 0, 102); text-align: left; width: 157px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">Login</div></div></body></html>
+
+</body></html>
