@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the securityinfowatch.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207011414id_/http%3A//www.securityinfowatch.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityinfowatch.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213201905id_/http%3A//www.securityinfowatch.com/privacy.jsp) for the most accurate reproduction.*
 
-# Security Info Watch
+# Privacy Policy @ SecurityInfoWatch.com
 
 **Information Collection and Use**
 
