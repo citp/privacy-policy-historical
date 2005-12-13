@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newtek.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528075039id_/http%3A//www.newtek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtek.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213235021id_/http%3A//newtek.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - NewTek
+# NewTek
 
 This privacy policy covers information collected by NewTek, including all the associated NewTek group of sites.
 
