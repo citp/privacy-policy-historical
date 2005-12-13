@@ -1,18 +1,24 @@
-> *The following text is extracted and transformed from the backcountryoutlet.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404031352id_/http%3A//www.backcountryoutlet.com/outlet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backcountryoutlet.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213235721id_/http%3A//www.backcountryoutlet.com/outlet/privacy.html) for the most accurate reproduction.*
 
 # Backcountryoutlet.com | Privacy Policy
 
 Your Personal Information  
-Backcountryoutlet.com will not sell, loan, rent, lease, barter or publish your personal information to a third party. All data that we keep on you is kept strictly for Backcountryoutlet.com business use to assist you in your current or future purchases or in analyzing sales trends. No customer data is stored on servers that are accessible to the Internet. All data is downloaded and deleted from our Web server many times a day. Cookies and IP Numbers  
+Backcountryoutlet.com will not sell, loan, rent, lease, barter or publish your personal information to a third party. All data that we keep on you is kept strictly for Backcountryoutlet.com business use to assist you in your current or future purchases or in analyzing sales trends. No customer data is stored on servers that are accessible to the Internet. All data is downloaded and deleted from our Web server many times a day. 
+
+Please be aware that signing up for the Bill Me Later payment option automatically subscribes you to a weekly Bill Me Later marketing email as stated in the Bill Me Later Privacy Policies. If you enroll in Bill Me Later but do not wish to receive promotional messages from Bill Me Later, you should opt out by logging into your [Bill Me Later](http://www.bill-me-later.com/) account. 
+
+Cookies and IP Numbers  
 Backcountryoutlet.com's privacy policy shows our firm commitment to customer privacy. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. Our site uses cookies to keep track of your shopping cart. 
 
 We use cookies for other purposes such as site personalization. You can reject cookies and still use the Backcountryoutlet.com site, however, it will disable the ability for the site to recognize your cart, your account and any personalization efforts.
 
 External Links  
-This site contains links to other sites. Backcountryoutlet.com is not responsible for the privacy practices or the content of such Web sites.Address Information  
-Our site uses an order form for customers to request information, products and services. We collect visitor's contact information including but not limited to addresses, email addresses, phone numbers and financial information (account or credit card numbers). Information is gathered by Backcountryoutlet.com for the sole benefit of Backcountryoutlet.com. Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings. 
+This site contains links to other sites. Backcountryoutlet.com is not responsible for the privacy practices or the content of such Web sites.
 
-Financial information that is collected is used to bill the user for products and services. Our online surveys ask visitors for contact information (typically the customer's email address) and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user promotional material from Backcountryoutlet.com. 
+Address Information  
+Our site uses an order form for customers to request information, products and services. We collect visitor's contact information including but not limited to addresses, email addresses, phone numbers and financial information (account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings. Information is gathered by Backcountryoutlet.com for the sole benefit of Backcountryoutlet.com, with the exception of Bill Me Later. if you choose to enroll in Bill Me Later, we will share your email address with Bill Me Later in order to facilitate the enrollment process. In accordance with Bill Me Later's Privacy Policy, your information will be strictly protected and you may opt out of any promotional email communications at any time by logging into your [Bill Me Later](http://www.bill-me-later.com/) account. 
+
+Financial information that is collected by Backcountryoutlet.com is used to bill the user for products and services. Our online surveys ask visitors for contact information (typically the customer's email address) and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user promotional material from Backcountryoutlet.com. 
 
 Customer information is considered to be an asset of Backcountryoutlet.com and as such may be transferred to another company as part of an acquisition of Backcountryoutlet.com. 
 
