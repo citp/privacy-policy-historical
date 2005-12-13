@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the binghamton.edu privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405193626id_/http%3A//computing.binghamton.edu/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binghamton.edu privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213221817id_/http%3A//computing.binghamton.edu/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |  |  |  |   
 ---|---|---|---|---  
-| [](https://web.archive.org/web/20050405193626id_/http%3A//computing.binghamton.edu/accounts/index.html) |   
+| [](https://web.archive.org/web/20051213221817id_/http%3A//computing.binghamton.edu/accounts/index.html) |   
 |   
 [](http://training.binghamton.edu/) |   
 |   
-[](https://web.archive.org/web/20050405193626id_/http%3A//computing.binghamton.edu/email/index.html) |   
+[](https://web.archive.org/web/20051213221817id_/http%3A//computing.binghamton.edu/email/index.html) |   
 |   
-[](https://web.archive.org/web/20050405193626id_/http%3A//computing.binghamton.edu/facilities/index.html) |   
+[](https://web.archive.org/web/20051213221817id_/http%3A//computing.binghamton.edu/facilities/index.html) |   
 |   
-[](https://web.archive.org/web/20050405193626id_/http%3A//computing.binghamton.edu/network/index.html) |   
+[](https://web.archive.org/web/20051213221817id_/http%3A//computing.binghamton.edu/network/index.html) |   
 |   
-[](https://web.archive.org/web/20050405193626id_/http%3A//computing.binghamton.edu/security/index.html) |   
+[](https://web.archive.org/web/20051213221817id_/http%3A//computing.binghamton.edu/security/index.html) |   
 |   
-[](https://web.archive.org/web/20050405193626id_/http%3A//computing.binghamton.edu/software/index.html) |   
+[](https://web.archive.org/web/20051213221817id_/http%3A//computing.binghamton.edu/software/index.html) |   
 |   
-[](https://web.archive.org/web/20050405193626id_/http%3A//computing.binghamton.edu/web/index.html) |   
+[](https://web.archive.org/web/20051213221817id_/http%3A//computing.binghamton.edu/web/index.html) |   
 |   
   |    
   
