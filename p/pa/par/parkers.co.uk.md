@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615023658id_/http%3A//www.parkers.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213201258id_/http%3A//www.parkers.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Parker's - Car prices, car reviews, news, buying guides, finance and insurance advice. Parkers.co.uk has the most comprehensive and accurate valuations for cars and vans in the UK.
 
