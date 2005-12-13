@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fineliving.com privacy policy that was archived on 2005-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050518031937id_/http%3A//fineliving.com/fine/about_the_site/article/0%2C1663%2CFINE_1459_974467%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fineliving.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213223007id_/http%3A//fineliving.com/fine/about_the_site/article/0%2C1663%2CFINE_1459_974467%2C00.html) for the most accurate reproduction.*
 
-# FINELIVING: About This Site
+# About Us : About This Site : Privacy Policy : Fine Living
 
   
 Privacy Policy
@@ -39,10 +39,9 @@ If you send us an email with questions or comments, we may use your personal inf
 In the future, FineLiving.com may create a FineLiving.com store or stores. If you make a purchase through our online stores, we may use the information you provide to send you important announcements and updates regarding our websites or online products. You may also receive periodic mailings regarding new products and services. However, you may opt-out from receiving future mailings by contacting [privacy@FineLiving.com](mailto:privacy@FineLiving.com) or: 
 
 FINE LIVING Network   
-Attn: Web Privacy Policy Department   
-5757 Wilshire Blvd.   
-Suite 220   
-Los Angeles, CA 90036 
+Attn: Website Privacy Policy Department   
+Post Office Box 50970   
+Knoxville, TN 37950 
 
 When you provide us with your personal information to make a purchase through our online stores, we use this information to process your online order and credit card number. We also use your address and billing information to bill you and provide associated support. 
 
@@ -78,9 +77,8 @@ Any questions you may have regarding our Privacy Policy, the accuracy of your pe
 
 FINE LIVING Network   
 Attn: Website Privacy Policy Department   
-5757 Wilshire Blvd.   
-Suite 220   
-Los Angeles, CA 90036 
+Post Office Box 50970   
+Knoxville, TN 37950 
 
 After receiving a request to change your information, we will make reasonable efforts to ensure that all of your personal information stored in databases we actively use to operate our website will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active website databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our terms of use. In addition, it is not technologically possible to remove each and every record of the information you have provided to us. A copy of your personal information may exist in a non-erasable form that will be difficult or impossible for us to locate. 
 
