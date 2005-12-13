@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citycosmetics.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206172425id_/http%3A//www.citycosmetics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citycosmetics.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213200702id_/http%3A//www.citycosmetics.com/privacy.html) for the most accurate reproduction.*
 
-# CITYcosmetics.com One-of-a-kind skin care treatments that TURN BACK YEARS in 30 days!
+# CITYcosmetics - Privacy Policy
 
 CITY Lips Privacy Policy
 
@@ -26,15 +26,13 @@ Sharing of Information
 We do not sell, rent or trade any personally identifiable information you provide when using this website. We do not collect any personally identifiable information about you (such as your name or email address) when you use our website unless you place an order, subscribe to our Newsletter, or enter one of our contests.
 
 Copyright Information  
-CITY Lips™ and CITY Lips™ are registered trademarks under license of CL Cosmetics. All of our trademarks, logos, web pages, images, or other distinctive features are protected by applicable trademark, copyright, and other intellectual property laws. If you would like to use any of our features on your website, in an advertisement, in an article or book, or reproduce them anywhere else, you must first receive our permission. 
+CITY Lips� and CITY Face � are registered trademarks under license of CL Cosmetics. All of our trademarks, logos, web pages, images, or other distinctive features are protected by applicable trademark, copyright, and other intellectual property laws. If you would like to use any of our features on your website, in an advertisement, in an article or book, or reproduce them anywhere else, you must first receive our permission. 
 
 Feel free to contact us at the mailing address below with any questions or concerns:
 
-CITY Cosmetics — Privacy Policy   
-3945 S. Wasatch Blvd. Suite 305   
-Salt Lake City, Utah 84124   
-United States 
+CITY Cosmetics-Privacy Policy   
+90 Park Avenue 16th Floor   
+NY, NY 10022   
+
 
 **CITY Lips reserves the right to change this policy at any time.**
-
-[](https://web.archive.org/order)
