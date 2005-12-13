@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406015527id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213202501id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,6 +7,7 @@
 [ ](https://web.archive.org/nano_intro.htm)  
 [ ](https://web.archive.org/current-months-news.htm)  
 [ ](https://web.archive.org/current-months-press.htm)  
+[ ](https://web.archive.org/submit-press.cgi)  
 [ ](https://web.archive.org/products/)  
 [ ](https://web.archive.org/directory.htm)  
 [ ](https://web.archive.org/Press_Kit/)  
@@ -16,14 +17,13 @@
 [ ](https://web.archive.org/best_of.htm)  
 [ ](http://nanotech-now.tinytechjobs.com/)  
 [ ](https://web.archive.org/nanotechnology-glossary-N.htm)  
-[ ](https://web.archive.org/possible_futures.htm)  
 [ ](https://web.archive.org/about_us.htm)  
 [ ](https://web.archive.org/advertise.htm)  
 [ ](https://web.archive.org/accounts/)  
   
 [](https://web.archive.org/banners/track.pl?banner_id=47)
 
-[Home](https://web.archive.org/web/20050406015527id_/http%3A//www.nanotech-now.com/) > Privacy
+[Home](https://web.archive.org/web/20051213202501id_/http%3A//www.nanotech-now.com/) > Privacy
 
 **Privacy Notice:**
 
@@ -50,18 +50,24 @@ We use these summary statistics to help us make our site more useful to visitors
 [](https://web.archive.org/products/nanonewsnow/)  
 |  Keep up with the rapid changes in nanotech   
  [Learn More](https://web.archive.org/products/nanonewsnow/) |   
-|   [Free Past Reports](https://web.archive.org/products/nanonewsnow/Past-Reports.htm) |   
+|   
    
 [](https://web.archive.org/products/nanotechtransfer/)  
   |  University Technology Transfer & Patents   
  [Learn More](https://web.archive.org/products/nanotechtransfer/) |   
+   
+[](https://web.archive.org/products/nanonewscustom/)  
+  |  Only the news you want to read!   
+ [Learn More](https://web.archive.org/products/nanonewscustom/) |   
    
 [](https://web.archive.org/NanoStrategies.htm)  
   |  Full-service, expert consulting   
  [Learn More](https://web.archive.org/NanoStrategies.htm) |   
    
 [](https://web.archive.org/products/newsdigest/)  
-|  The latest news from around the world, free   
+  |  The latest news from around the world, free   
   
 |   
+   
+  | [Additional Products](https://web.archive.org/products/) |   
  
