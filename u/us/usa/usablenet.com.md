@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usablenet.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618114748id_/http%3A//www.usablenet.com/customer_support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usablenet.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213202852id_/http%3A//www.usablenet.com/customer_support/privacy.html) for the most accurate reproduction.*
 
 # UsableNet - Privacy Policy
 
@@ -26,7 +26,7 @@ Whether you are a free user or subscription user, you can be assured that if you
 
 This site has security measures in place to protect the loss, misuse and alteration of your personal information. Access to computer data and files at UsableNet, Inc. are secured by firewalls and password coding to prevent unauthorized access. UsableNet utilizes industry standard SSL encryption when accepting your credit card information during our online checkout process. SSL encryption is a method by which information transmitted across the internet is encoded to defeat theft by anyone who should intercept the data before it reaches its destination. Our security and privacy policies are periodically updated and enhanced as necessary, and only authorized individuals have access to the information provided by our customers.
 
-All credit cards processing supported by UsableNet's site is implemented in a way that credit card numbers and data are not stored in UsableNet's database, but are directly passed (in a secure encrypted way) to a bank service that processes them. Therefore in the unlikely situation that third parties can get access to UsableNet's database, this information won't be available at all. For more details please read the [Safe Transactions](https://web.archive.org/web/20050618114748id_/http%3A//www.usablenet.com/customer_support/safe_transaction.html) page. 
+All credit cards processing supported by UsableNet's site is implemented in a way that credit card numbers and data are not stored in UsableNet's database, but are directly passed (in a secure encrypted way) to a bank service that processes them. Therefore in the unlikely situation that third parties can get access to UsableNet's database, this information won't be available at all. For more details please read the [Safe Transactions](https://web.archive.org/web/20051213202852id_/http%3A//www.usablenet.com/customer_support/safe_transaction.html) page. 
 
 ## E-mail Management
 
