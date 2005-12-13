@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfstation.com privacy policy that was archived on 2005-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050312001413id_/http%3A//www.sfstation.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfstation.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213205601id_/http%3A//www.sfstation.com/legal/privacy.html) for the most accurate reproduction.*
 
 # SF Station : Terms & Conditions
 
@@ -10,7 +10,7 @@ World Cafe Productions, Inc. (SFStation.com) Privacy Policy
 
 SFStation.com, a division of World Cafe Productions, Inc., is strongly committed to protecting the privacy of its users. All Products and Services on SF Station (as defined in our Terms and Conditions) are made available subject to this Privacy Policy. By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable on the SFStation.com Web site and to receive any required legal notices regarding our privacy practices through the continuous posting of a clear and conspicuous link to the current version of this Privacy Policy throughout SFStation.com near the bottom of most pages.
 
-This Privacy Policy governs the use and collection of information from you by World Cafe Producitons, Inc., d/b/a SF Station ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our [Terms & Conditions](https://web.archive.org/web/20050312001413id_/http%3A//www.sfstation.com/legal/terms.html) Agreement.
+This Privacy Policy governs the use and collection of information from you by World Cafe Producitons, Inc., d/b/a SF Station ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our [Terms & Conditions](https://web.archive.org/web/20051213205601id_/http%3A//www.sfstation.com/legal/terms.html) Agreement.
 
 IP ADDRESSES:
 
