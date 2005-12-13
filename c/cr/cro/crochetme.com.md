@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crochetme.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171548id_/http%3A//www.crochetme.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crochetme.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213225531id_/http%3A//crochetme.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Crochet me Magazine Privacy Policy
 
