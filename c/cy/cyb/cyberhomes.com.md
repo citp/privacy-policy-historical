@@ -1,22 +1,38 @@
-> *The following text is extracted and transformed from the cyberhomes.com privacy policy that was archived on 2000-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001109201000id_/http%3A//www.top-agent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberhomes.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213202315id_/http%3A//www.buybankhomes.com/Default.asp%3F_URL_%3D/Special/Privacy.asp) for the most accurate reproduction.*
 
-# CyberHomes Privacy Statement
+# Locate and Bid on Bank-Owned REO and Pre Foreclosure Properties for FREE at Buy Bank Homes.
 
-**CyberHomesŽ Privacy Statement**
+**Your security and privacy is everything to us.**
 
-CyberHomes is committed to respecting your privacy. We have structured our website so that you can visit CyberHomes without identifying yourself or revealing any personal information. We want to make sure our visitors feel comfortable in dealing with CyberHomes. In this spirit, we have developed the following policy regarding the privacy of the information we collect from CyberHomes visitors. 
+We recognize and respect the privacy expectations of today's consumers and the requirements of applicable federal and state privacy laws. We believe that making you aware of how we use your non-public personal information ("Personal Information"), and to whom it is disclosed, will form the basis for a relationship of trust between us and the public that we serve. This Privacy Statement provides that explanation. We reserve the right to change this Privacy Statement from time to time consistent with applicable privacy laws. 
 
-When you browse CyberHomes, you do so anonymously. Personal information is not collected. We use your IP address to help diagnose problems with our server and to administer our web site.We use DoubleClick and other third party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, email, address or telephone number) about your visits to this and other Web Sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. 
+**In the course of our business, we may collect Personal Information about you from the following sources:**
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, out third party advertiser may place or recognize a unique cookie on your browser. Cookies sent with banner ads are collected by our ad company and we do not have access to this information. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus or capture your e-mail address. 
+From applications or other forms we receive from you or your authorized representative;  
+From your transactions with, or from the services being performed by, us, our affiliates, or others;  
+From your transactions with, or from the services being performed by, us, our affiliates, or others;  
+From our internet web sites;  
+From the public records maintained by governmental entities that we either obtain directly from those entities, or from our affiliates or others; and From consumer or other reporting agencies. 
 
-Some pages on CyberHomes, such as SchoolMatch® and Homes by Email may request that you voluntarily supply us with personal information, but we ask only for the information we need to provide the service you have requested. For Homes by Email we need your e-mail address, for detailed SchoolMatch reports online we need your e-mail address and credit card information. Users may cancel their subscription to Homes by Email by responding to the URL on the bottom of the e-mail message or by sending the URL from the message, along with a "deactivate my subscription" message to [cyberservice@vistainfo.com](mailto:cyberservice@vistainfo.com). CyberHomes will not sell, rent, lease, or otherwise provide your personally identifiable information to others without your express permission. 
+  * 
 
-CyberHomes is also committed to ensuring the security of your information. When collecting credit card information for online purchases, we retain a third-party secured server that encrypts your information in transit to stop someone from intercepting and misusing it. Credit card numbers are used only for payment processing and are not retained for other purposes. 
 
-Our site contains links to other sites not affiliated with CyberHomes. These sites have their own policies and practices regarding online privacy and CyberHomes cannot be responsible for the privacy practices or the content of these web sites. CyberHomes is an online home listing source, we are not a part of any transactions or communications between you and a broker or agent. 
+Our Policies Regarding the Protection of the Confidentiality and Security of Your Personal Information:   
+We maintain physical, electronic and procedural safeguards to protect your Personal Information from unauthorized access or intrusion. We limit access to the Personal Information only to those employees who need such access in connection with providing products or services to you or for other legitimate business purposes. 
 
-If you have any comments or questions about our privacy policy, please send them to this e-mail address: [Cyberservice@vistainfo.com](mailto:cyberservice@vistainfo.com)
+Our Policies Regarding the Protection of the Confidentiality and Security of Your Personal Information:   
+We may share your Personal Information with our affiliates, such as insurance companies, brokers/agents, and other real estate settlement service providers. 
 
-[DoubleClick Privacy Policy](http://www.doubleclick.net:8080/privacy_policy/)
+**We also may disclose your Personal Information:**
+
+to brokers/agents or representatives to provide you with services you have requested;  
+to third-party contractors or service providers who provide services or perform marketing or other functions on our behalf; and to others with whom we enter into joint marketing agreements for products or services that we believe you may find of interest. 
+
+In addition, we will disclose your Personal Information when you direct or give us permission, when we are required by law to do so, or when we suspect fraudulent or criminal activities. We also may disclose your Personal Information when otherwise permitted by applicable privacy laws such as, for example, when disclosure is needed to enforce our rights arising out of any agreement, transaction or relationship with you. 
+
+One of the important responsibilities of some of our affiliated companies is to record documents in the public domain. Such documents may contain your Personal Information. 
+
+Right to Access Your Personal Information and Ability To Correct Errors Or Request Changes Or Deletion:   
+Certain states afford you the right to access your Personal Information and, under certain circumstances, to find out to whom your Personal Information has been disclosed. Also, certain states afford you the right to request correction, amendment or deletion of your Personal Information. We reserve the right, where permitted by law, to charge a reasonable fee to cover the costs incurred in responding to such requests. 
+
+This site contains links to other sites. **BuyBankHomes** is not responsible for the privacy practices or the content of such Web sites. 
