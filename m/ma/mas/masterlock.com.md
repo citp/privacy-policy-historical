@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233758id_/http%3A//www.masterlock.com/general/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213200924id_/http%3A//www.masterlock.com/general/privacy.shtml) for the most accurate reproduction.*
 
 # Master Lock: Privacy Notice
 
@@ -25,6 +25,6 @@ Master Lock reserves the right to change or update this policy at any time by po
 
 Please see the Master Lock Company's 
 
-[legal notice](https://web.archive.org/web/20050401233758id_/http%3A//www.masterlock.com/general/legal.shtml) for more information.  
+[legal notice](https://web.archive.org/web/20051213200924id_/http%3A//www.masterlock.com/general/legal.shtml) for more information.  
   
 
