@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528052324id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/PrivacyOptOut.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213194640id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/PrivacyOptOut.asp) for the most accurate reproduction.*
 
 # AmeriCredit: Privacy
 
@@ -170,14 +170,10 @@ You have the right to ask us not to share some of the information listed earlier
 
 This opt-out does not allow you to opt-out of disclosures necessary in servicing your account, such as collection activities or reporting your information to credit reporting agencies.
 
-If you wish to opt-out of disclosures, you must do so by using one of the following methods:
+If you wish to opt-out of disclosures, you must do so by:
 
-  * Complete in full the [attached form](https://web.archive.org/web/20050528052324id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/OptOutForm.pdf), and return it to us at: 
-    * **AmeriCredit Financial Services, Inc.  
-P. O. Box 183621  
-Arlington, Texas 76096-3621**
-  * Call this toll-free number: **1-888-249-2763**
-  * Click the Opt-Out button below.
+  * Calling this toll-free number: 1-888-249-2763; or
+  * Clicking the Opt-Out button below
 
 If you have a joint account, an opt-out instruction given by one participant of such account will affect all others who participate in the account. 
 
@@ -198,5 +194,5 @@ If you use our toll-free telephone number, it will help if you have the followin
   * City, State, ZIP Code; and
   * E-mail Address.
 
-Privacy Policy effective June 2004.   
-[](https://digitalid.verisign.com/as2/66f9a47d528402b57ba8a4363ded0422)   [](http://www.bbbonline.org/cks.asp?id=101032216521615661) | 
+Privacy Policy effective June 2005.   
+[](https://digitalid.verisign.com/as2/2c53e061e8d0d4a81f9a571a58e72693)   [](http://www.bbbonline.org/cks.asp?id=101032216521615661) | 
