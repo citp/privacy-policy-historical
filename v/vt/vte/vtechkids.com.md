@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vtechkids.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623154324id_/http%3A//www.vtechkids.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtechkids.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213201915id_/http%3A//www.vtechkids.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - VTech Kids
-
-**VTech Industries, LLC Online Privacy Policy**
+# VTech Electronic Learning Products - Privacy Statements
 
 Thank you for spending time with VTech by visiting our web site. We hope that you have found it helpful and that you will return frequently. Consumer satisfaction with our products is paramount at VTech, and this continues on to your satisfaction with our website. Please notify our [webmaster](mailto:webmaster@vtechkids.com) should you be concerned about anything you have seen on our website.
 
@@ -10,7 +8,7 @@ In this age of technology, VTech is very concerned about the ongoing security an
 
 Because of this we have a clear policy of not selling or releasing any personally identifiable information gathered on our website to any third parties. All information gathered online will be used only by VTech for internal marketing analysis and to improve our products, services, and improve and administer our website. If you give us permission to contact you in the future by email in order to share news about products, services or our website, we will do so -- but only with your permission.
 
-VTech does ask you to offer some personal information when you register with our site; submit feedback survey; enter our sweepstakes, or place an order \-- but this information is strictly voluntary and will never be secured without your knowledge. You may be asked to supply personal information such as your full name and e-mail address, mailing address and demographic information such as your birth date, gender, the birth dates and genders of children in your household. We ask that children under the age of 18 refrain from completing our online surveys and sweepstakes entries. 
+VTech does ask you to offer some personal information when you register with our site; submit feedback survey; enter our sweepstakes, or place an order -- but this information is strictly voluntary and will never be secured without your knowledge. You may be asked to supply personal information such as your full name and e-mail address, mailing address and demographic information such as your birth date, gender, the birth dates and genders of children in your household. We ask that children under the age of 18 refrain from completing our online surveys and sweepstakes entries. 
 
 We use "cookie" technology to provide you with a better Internet experience when visiting our site. Cookies are pieces of information that we place on your computer when you visit our site and lets us understand how many consumers visit our site, how often they visit, and what content is viewed most often. We do track the total number of visitors to our site in the aggregate form to allow us to learn more about our customers and offer them products, services, and a website that better meets their needs. Personally identifiable information is not extracted during this aggregate data collection and cookies are never used to identify who or where you are. 
 
@@ -24,6 +22,6 @@ It is our desire to comply with the requirements of the Children's Online Privac
 
 If you do not want VTech to send you communications about our website, products and/or promotions, you can opt-out at the time you register with our site or at the time we collect your information. If you later elect to no longer receive communications from us you can choose to opt-out and have your name removed from our mailing list by contacting our webmaster or calling VTech at 800-521-2010 .
 
-VTech supports efforts to make the Internet safe for children and consumers and due to the rapidly changing nature of technology, we reserve the right to update this policy from time-to-time. Notice of policy updates will be posted to this page and therefore we recommend visiting this page every so often to check for updates. Please also visit our [Terms and Conditions of Use page.](https://web.archive.org/web/20030623154324id_/http%3A//www.vtechkids.com/terms.jsp)
+VTech supports efforts to make the Internet safe for children and consumers and due to the rapidly changing nature of technology, we reserve the right to update this policy from time-to-time. Notice of policy updates will be posted to this page and therefore we recommend visiting this page every so often to check for updates. Please also visit our [Terms and Conditions of Use page](http://www.vtechkids.com/Terms.htm).
 
-**Kids - VTech intends that its web site be used by adults. Be sure to ask your parents for permission before sending any information about yourself over the Internet to us or to anyone else!**
+Kids - VTech intends that its web site be used by adults. Be sure to ask your parents for permission before sending any information about yourself over the Internet to us or to anyone else!
