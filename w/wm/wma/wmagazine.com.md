@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wmagazine.com privacy policy that was archived on 2005-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050421081405id_/http%3A//www.style.com/services/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmagazine.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213195255id_/http%3A//www.style.com/services/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Style.com: Legal
 
 Untitled
 
-In addition to reviewing this privacy policy, please read our [UserAgreement](https://web.archive.org/web/20050421081405id_/http%3A//www.style.com/services/legal/user_agreement.html). Your use of STYLE.com constitutes agreement to itsterms and conditions.
+In addition to reviewing this privacy policy, please read our [UserAgreement](https://web.archive.org/web/20051213195255id_/http%3A//www.style.com/services/legal/user_agreement.html). Your use of STYLE.com constitutes agreement to itsterms and conditions.
 
 STYLE.com is produced by CondéNet, Inc. This policy does not cover information collected on sites linked to from STYLE.com.
 
