@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lhh.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618085437id_/http%3A//lhh.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhh.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214004429id_/http%3A//www.lhh.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy | Global Career Services | Lee Hecht Harrison
 
@@ -88,4 +88,4 @@ Woodcliff Lake, New Jersey 07677 USA
 Via e-mail:  
   
 |  [info@lhh.com](mailto:info@lhh.com)  
-If you have any questions or comments about our legal statement, please [contact us](https://web.archive.org/web/20040618085437id_/http%3A//lhh.com/contact/index.cfm).
+If you have any questions or comments about our legal statement, please [contact us](https://web.archive.org/web/20051214004429id_/http%3A//www.lhh.com/contact/index.cfm).
