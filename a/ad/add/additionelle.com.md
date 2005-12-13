@@ -1,31 +1,60 @@
-> *The following text is extracted and transformed from the additionelle.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401210626id_/http%3A//about.netster.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the additionelle.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213022730id_/http%3A//www.addition-elle.com/privacy.htm) for the most accurate reproduction.*
 
-# Netster®
+# Privacy Policy
 
-   |  **Netster® Privacy Policy and Terms of Use**
+ 
 
-By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection Privacy Policy related to services offered directly by Netster.com. Please note that Netster.com contains links to other sites and may allow those sites to be co-branded with the Netster® name. Web sites that are linked to Netster.com may have privacy policies that differ from that of the Netster.com This privacy policy only covers services offered by Netster.com. 
+ADDITION ELLE 
 
-This privacy statement does not cover the privacy policies of Third party advertisers and or affiliates that advertise or list their products and services on Netster.com. Netster.com allows other companies that are presenting advertisements on some of our web pages to transmit, set and access their cookies on your computer. **Therefore, the following policies are those of Netster.com only**. 
+**PRIVACY POLICY**
 
-When you visit Netster® and/or use any of the Netster® offered search services, The Netster® (Netster.com) collects certain statistical data. At this point The Netster® cannot identify you personally, but rather only collect statistical information on the usage, and pattern of usage of its services. This information is automatically received by Netster.com from your browser and is kept on our server logs. This information includes your I.P. address, our cookies, time and date of your visit, web pages as well as search queries requested by you. The Netster® uses this information to improve its services to its users, which includes you. The Netster®, further uses this information to custom tailor its content and advertising and to analyze our traffic in aggregate. Recent browser releases allow you to reconfigure and set your browser in such a manner that will greatly limit the amount data Netster.com as well as other websites are able to collect. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be extremely limited and some features may not work properly. Please refer to the help section of your browser to learn how you can configure your browser so not to allow cookies to be placed on your computer. 
+Welcome to the Addition Elle website (the “Site”). At Addition Elle, we value our customers and respect your privacy. We collect information in an effort to improve your shopping experience and to communicate with you about our products, services, contests and special promotions. Addition Elle recognizes that it must maintain and use your personal information responsibly. We have created this privacy policy to demonstrate our firm commitment to your privacy and security, and to advise you about the possible uses we will make of personal information collected during your visit to our Site.   
 
-**Cookies and single-pixel gifs**  
-Only the information that you provide, or the choices you make while visiting a Web site, can be stored in a cookie, (in addition to time, day of your visit and your I.P. address). Our site cannot determine your e-mail address unless you choose to type it in. The Netster® does not have access to the rest of your computer. The Netster®, its advertisers and or affiliates, may use single-pixel gif images, also called web beacons, to count Web page accesses and gather some general statistical information. Again, The Netster® does **not** gather personal information through the use of these images. The Netster® or our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer if the user has chosen to previously provide Netster® and/or its advertiser with such personal information. 
 
-In addition to collecting anonymous statistical data, Netster.com also collects Personally Identifiable Information if you have chosen to provide The Netster® with such information. This information data tells us specifically who you are, i.e.; Your Name, E-Mail Address, Postal Address, etc. This Personally Identifiable Information is only collected, if YOU have chosen to provide it to The Netster®. This information is collected at the time **you** have **chosen** to sign-up for certain Netster.com products or services, such as e-mail, weather and financial personalized settings, browser updates, participation in a sweepstake or special offer. Netster.com uses this information to better understand your personal needs and in addition may use this information to send you product and service offers in the future. We may also use this information to provide to companies who work for or on behalf of Netster.com to provide special offers on product and services. 
+**What Information is Collected on our Website**  
+Every time you visit the Site, the following non-personally identifiable information is automatically obtained and compiled: the internet protocol (IP) address, the domain name registry information associated with the IP address, your internet browser, operating system and hardware platform, the date and time of your visit, the name and address (URL) of the web page you viewed immediately prior to accessing the current page, your entire query (if any) that was entered into a search engine which led you to the current site and any other “click stream” data. This information is stored in our log files. Occasionally, if your browser is not configured to prevent disclosure of such information, the following information may also be revealed: your name, e-mail address, home and work addresses, telephone and fax numbers and any plain text commentary. Additionally, the complete record of your actions at the website including all pages visited, time spent at each page, the information sent or received and the names of all files uploaded or downloaded are available. This tracking information may be compiled by us in the aggregate and made available to third parties primarily to identify demographic data regarding our customers. 
 
-The sites displayed as search results or linked to by Netster.com and/or its affiliates are developed by third parties over whom The Netster® has no control. Third party affiliates or service providers, whom in some instances use complete automation, index most of the search results that appear on The Netster® results pages. The Netster® does not screen or censor any of this information, nor does The Netster® screen or censor any of the listings. The Internet is a worldwide system of computer networks in which any person can post information on their individual computer, which if connected to the Internet can be accessed by others, or, if they have permission, on the computers or computer networks of others. Today, the most popular portion of the Internet is the World Wide Web. This portion of the Internet is readily accessed with the use of a web browser. It is the goal of Netster.com to return to you the most relevant information and links to the web sites your search query has called for. However, we cannot guarantee that your search will not locate unintended or objectionable content. Further, certain materials accessible on the Internet is **NOT** appropriate for minors. The Netster® is concerned about your child's safety and does not accept banner advertisements containing adult content, however, has no control over your children's search queries, and the subsequent results of those queries. To limit and / or prevent your children's access to such materials, The Netster® suggest that you install commercially available hardware and/or software that has the ability to filter out such content. Such hardware / software products may be set to filter out content on weapons, sexual adult content, hate and racist content as well as violent content. They may also be set to disable chat sites, e-mail and message board forums. Netster.com and / or its affiliated companies assume no responsibility for your decision to utilize any "hyperlinks" to sites found on Netster.com results pages, or for the accuracy or usefulness of any materials contained in such sites. 
-
-**THE SERVICES ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. NETSTER.COM DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.**
-
-Netster.com may amend this Agreement at any time, and at it sole discretion, by posting the amended terms on its Web site. All amended terms are automatically effective 7 days after they are initially posted. This Agreement may not be otherwise amended except in a written document signed by you and Netster.com 
-
-**CHILDREN'S PRIVACY**  
-Protecting the privacy of children is an extremely important issue. For that reason we do not structure any part of our subscriber or affiliate services to attract anyone under the age of 13. If parents believe their child (any age under 18) has accessed our system without their permission, they can contact our customer service department by e-mail at [emailsupport@netster.net](mailto:emailsupport@netster.net) **Visit** <http://www.ftc.gov/kidzprivacy> **for information from the Federal Trade Commission about protecting children's privacy online**. 
-
-* * *
+It is important to note that IP addresses do not necessarily reveal the identity of an individual visitor. Since most individuals connect through an internet service provider at home, the IP address would identify the internet service provider and not that actual person. Users should refer to these specific instructions accompanying their browsers to ensure that personal information is not automatically being provided without their agreement.
 
   
+**How Is Your Personal Information Used?**  
+In order to better serve you, we may combine information you give us on-line, in our stores or through print media, with information about your product interests and purchases. We may also combine these with readily available demographic information in order to enhance and personalize your shopping experience with us and to enable us to communicate with you, by e mail or otherwise, about our products, promotions, contests or related third party products or services which we believe may be of interest to you. We gather this information in order to: i) maintain contact with you and provide you with ongoing personalized service; ii) better understand and respond to your needs; and iii) develop, improve and market products and services. We also use this information to measure interest in the various areas of our Site, to ensure that links on the Site facilitate easy navigation and to help make the Site more interesting and informative. Any personal information that we disclose to third parties is done in the aggregate on a non-personally identifiable basis and is used primarily to identify demographic data regarding our customers. 
+
+Customers electing to register to join the reitmans.com com.munity are asked to provide personal information prior to acquiring access to the com.munity. Occasionally, we may also collect information volunteered by the customer, such as survey information or contest entries.   
+By accessing this Site, you hereby agree to all of the terms and conditions of this Privacy Policy. If you do not wish to receive marketing or promotional communication in electronic, printed or verbal format, please inform us in writing or by e-mail at the addresses found below.
+
+**What Are “Cookies” and How Do We Use Cookies On Our Website?**  
+Cookies are pieces of information that a website stores on your computer’s hard drive or in random access memory when you are viewing the website. A cookie may contain information such as a unique user ID that can be used to track the pages of the website you’ve visited, login or registration information and user preferences. In certain cases, this information is only kept during the session and is deleted when you close your browser. In other cases, the information is stored on your hard drive and, upon your next visit to the website, the cookies are used to recall such information. Cookies identify your computer or browser and do not contain any personally identifiable information. 
+
+We use cookies in order to improve your on-line experience. Your cookies help us keep track of your interests and, if you are a registered customer, your cookies allow us to recognize you when you return to the Site. If you register on our Site, your cookies also help us to monitor and maintain information about your use of our Site. If you have not registered with us, your cookies may be used in order to monitor and maintain non-personally identifiable information about your use of our Site.
+
+You can choose either to have your computer warn you each time a cookie is being sent or to turn off all cookies. This is done through your browser settings. However, if you disable the cookie function, your experience on the Site might be limited as, amongst other things, we will not recognize you as a past visitor or a registered user.
+
   
+**Privacy Policy Changes**  
+If we decide to change our Privacy Policy, we will post these changes on our Site so that you can be updated as to what information we gather, how that information may be used and whether (and how) it may be disclosed to any third parties.
+
+  
+**Other Terms**   
+Your use of this Site is subject to our Terms of Use.
+
+  
+**Limitation Of Liability**  
+In no event, in regard to this Site or any other hyperlinked website, will Addition Elle be liable to you or anyone else for any damages or injury whatsoever (including but not limited to direct, indirect, incidental, special, consequential, exemplary or punitive damages) arising out of or in connection with your use or inability to use the Site and, without limitation, any lost profits, business interruption, loss of programs or other data on your information handling system or otherwise, even if we are expressly advised of the possibility of such damages.   
+Your sole and exclusive remedy is to discontinue using and accessing this Site. To the extent that the jurisdiction to which you are subject does not allow any part of such limitation, such part does not apply to you.
+
+  
+**How to contact us**  
+If you have any questions about our privacy policy, please contact us at [info@Addition-Elle.com](mailto:info@addition-elle.com), and we will be pleased to respond to your inquiry promptly. You may also contact us in writing at: 
+
+  
+Reitmans (Canada) Limited / Addition Elle Division  
+250 Sauvé Street West  
+Montreal, Quebec  
+H3L 1Z2  
+Attention: Marketing, Addition Elle Division 
+
+  
+Addition Elle will remove any personal information from our database pursuant to a written request from you. Please e-mail such request to us, identifying your full name and e-mail address to   
+[info@Addition-Elle.com](mailto:info@Addition-Elle.com) and please type "remove" in the subject line of your email.  
 
