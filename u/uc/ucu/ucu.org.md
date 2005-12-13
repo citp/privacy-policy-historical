@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucu.org privacy policy that was archived on 2005-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050312080527id_/http%3A//www.ucu.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucu.org privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213194016id_/http%3A//www.ucu.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - University Credit Union, Los Angeles, CA
 
@@ -95,7 +95,7 @@ For site security purposes and to ensure that this service remains available to 
 UCU also uses software programs to collect statistical information about the use of UCU's Web site and applications contained therein. Programs are used to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. No personal information, such as your name or address is collected or used for this analysis. We collect no information that would identify you personally, unless you give your authorization for us to retain that information. Any data automatically stored is kept as the confidential records of the credit union and is not sold or distributed in part or whole to any third party. 
 
 **Use of Cookies on the UCU Web Site**  
-UCU only utilizes the use of [cookies](https://web.archive.org/web/20050312080527id_/http%3A//www.ucu.org/hb_faq.htm#4) in its Home Branch application. For each logon session, a cookie is maintained only to verify that the user receiving the information is the user that logged on. Once you terminate your session on Home Branch, the cookie is no longer valid. 
+UCU only utilizes the use of [cookies](https://web.archive.org/web/20051213194016id_/http%3A//www.ucu.org/hb_faq.htm#4) in its Home Branch application. For each logon session, a cookie is maintained only to verify that the user receiving the information is the user that logged on. Once you terminate your session on Home Branch, the cookie is no longer valid. 
 
 UCU contracts with affiliated parties to provide other Web-based applications. These services, usually housed on the affiliate servers, may employ the use of cookies to administer their application. 
 
