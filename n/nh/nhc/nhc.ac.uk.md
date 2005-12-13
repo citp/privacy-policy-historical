@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhc.ac.uk privacy policy that was archived on 2005-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050219204831id_/http%3A//www.nhc.ac.uk/site/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhc.ac.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214002511id_/http%3A//www.nhc.ac.uk/site/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement of North Hertfordshire College
 
