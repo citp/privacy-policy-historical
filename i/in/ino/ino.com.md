@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ino.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205082837id_/http%3A//www.ino.com/helpline/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ino.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213211417id_/http%3A//www.ino.com/helpline/%3Fprivacy) for the most accurate reproduction.*
 
 # INO Help
 
