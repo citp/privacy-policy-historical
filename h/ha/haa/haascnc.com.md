@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the haascnc.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213211638id_/http%3A//www.haascnc.com/Main_privacy.asp) for the most accurate reproduction.*
+
+# CNC - Haas Automation, Inc. - Privacy Statement
+
+Haas Automation respects your privacy and is committed to safeguarding your privacy online. While information is the cornerstone of our ability to provide superior customer service, our most important asset is our customers‘ trust. That is why keeping customer information secure is a top priority at Haas. The information received from you is regarded and treated as confidential business information for use only by Haas, Haas Factory Outlets (HFOs) and the Haas network of dealers. We provide information to our HFOs in order to provide a better response to your needs. But at no time will information be shared with third parties or anyone outside the Haas family. 
+
+Please take a few minutes to read our complete privacy statement (“Details” below) so that you understand how information is used and the measures we take to protect your personal information. 
+
+1\. What information does Haas collect?  
+Haas does not collect personally identifying information about any individual Haascnc.com website user except when it is knowingly provided by the individual. You can choose not to provide certain information, but then we may not be able to help with your request or problem. Haas collects the following information: name, company name, position, job function, address, country, phone number, e-mail address, types of machines used, types of machines intended to purchase, type of company, number of employees, comments and questions as well as serial numbers and models of Haas machines. You always have the option not to provide the information we request. Some of the required fields may include your name, e-mail address and country. The information gathered in the online questionnaires helps us determine who our customer base is and what your needs are. By compiling this data we can work to improve customer experiences with the company.   
+2\. Which departments at Haas collect information?  
+The following departments at Haas collect information: Sales, Service, distributors, Call Center, and Customer Advocate.   
+3\. How does Haas use the information?  
+Haas uses the information our website visitors provide to answer questions, fill requests, provide literature, and market Haas products and services. By contacting us, you agree that any information or comments you provide may be shared between Haas, its affiliated companies and dealers, and it maybe used, without restriction, to process customer orders and improve or market our products and services.   
+4\. Who does Haas share information with?  
+Haas shares the information with its distributors, the Call Center, and departments at the company headquarters. No other companies or third parties will receive information. Information submitted by you is used only for the intended purpose stated at the time the information is collected. You may receive updates about Haas products and services via surface mail and e-mail. You can unsubscribe by contacting Haas at webmaster@haascnc.com.   
+Information is not shared with other parties for secondary or unrelated purposes. To further protect your privacy, employee access to information is restricted. Only selected employees with an absolute need to use that information, in order to better serve you, are able to view any details submitted. We take steps to make all information received from you online as secure as possible against unauthorized access and use. We will always maintain control over the confidentiality of our customer information.   
+6\. What types of security procedures are in place?  
+We temporarily store customer information online, in a secure database. The information you submit is then downloaded and stored on our corporate network at Haas.   
+7\. How can users correct any inaccuracies in their information?  
+You can easily change any of the information you have submitted by contacting us at webmaster@haascnc.com. You can also permanently remove your information from the Haas database by contacting webmaster@haascnc.com. 
+
+We do revise and update our privacy practices from time to time and we reserve the right to do so without any notice. Please visit this page, at least once every thirty days, to review our then-current privacy practices because they are binding on you. All updates will be published at this site. You may direct any privacy policy questions to webmaster@haascnc.com.
