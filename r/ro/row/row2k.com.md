@@ -1,9 +1,24 @@
-> *The following text is extracted and transformed from the row2k.com privacy policy that was archived on 2004-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040825153929id_/http%3A//www.row2k.com/policy.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the row2k.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213202042id_/http%3A//row2k.com/policy.cfm%23privacy) for the most accurate reproduction.*
 
 # Rowing and Sculling for Rowers and Scullers - row2k.com
 
-|    
-|  |  | 
+|  | **row2k**  
+---  
+  \- [Submit Results!](https://web.archive.org/results/submit.cfm)  
+  \- [Submit your races](https://web.archive.org/calendar/calendar.cfm)  
+  \- [CLASSIFIEDS](https://web.archive.org/classifieds/)  
+  \- [SPECIAL COVERAGE](https://web.archive.org/specialcoverage.cfm)  
+  \- [about](https://web.archive.org/about.cfm)  
+  
+  
+**Mailing list**  
+  
+subscribe  
+unsubscribe  
+  
+[](http://www.row2k.com/rowingmall/Products/supportrow2k.shtml)  
+  
+|  | 
 
 ## row2k Copyright Notice  
   
