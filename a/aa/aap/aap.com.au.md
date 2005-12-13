@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aap.com.au privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626000155id_/http%3A//aap.com.au/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aap.com.au privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213232403id_/http%3A//aap.com.au/privacy-statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,9 +8,9 @@ Australian Associated Press Pty Ltd (AAP) respects the privacy of its customers,
 
 This policy outlines the personal information which AAP collects and how AAP handles that information. The policy also outlines how you may access and seek correction of personal information which AAP holds about you. This policy reflects AAP's obligations under the National Privacy Principles (NPPs) which are contained in the Privacy Act 1988. 
 
-With the exception of AAP's editorial department, this policy applies to all of AAP's business units and AAP's subsidiaries, AAP Communications Services Pty Ltd (AAPCS) and Pagemasters Pty Ltd. 
+This policy outlines the personal information which AAP collects and how AAP handles that information. The policy also outlines how you may access and seek correction of personal information which AAP holds about you. This policy reflects AAP's obligations under the National Privacy Principles (NPPs) which are contained in the Privacy Act 1988 
 
-This policy does not apply to AAP's journalists, to the extent that they engage in acts or practices in the course of journalism. When AAP's journalists are engaged in acts or practices in the course of journalism, AAP will expect them to comply with the Australian Press Council's privacy code (Code). A copy of the Code is available at [www.presscouncil.org.au\pcsite\priv_stand.html.](http://www.presscouncil.org.au/pcsite/priv_stand.html)
+With the exception of AAP's editorial department, this policy applies to all of AAP's business units and AAP's subsidiaries such as Pagemasters Pty Ltd 
 
 **1\. AAP's Products and Services**
 
@@ -20,7 +20,7 @@ AAP is one of Australia's largest content originators and aggregators. AAP provi
   * financial information products; 
   * real time and archive photographic services; 
   * racing and pedigree information; and 
-  * media release distribution service, provided across a range of technology platforms including by facsimile, broadcast, Internet and new technology mediums. AAP's subsidiary, AAPCS, delivers communications infrastructure and ATM solutions to corporate clients.
+  * media release distribution service, provided across a range of technology platforms including by facsimile, broadcast, Internet and new technology mediums.
 
 For the purposes of this policy, the products and services described in this section will be referred to as "our products and services". 
 
@@ -81,11 +81,11 @@ AAP may disclose personal information to third party contractors and service pro
 **(c) Disclosures Required for Legal Reasons**  
 For legal reasons, other disclosures may need to be made to law enforcement agencies, government agencies, courts or external advisors. AAP's policy is to only make such disclosures in accordance with the Privacy Act. 
 
-**5\. Access and Correction**
+**5\. How secure if your info and how can you opt out?**
 
 Under the Privacy Act, you have a right to seek access to information which AAP holds about you (although there are some exceptions to this). You also have the right to ask us to correct information about you which is inaccurate, incomplete or out of date. 
 
-If you wish to exercise your right under the Privacy Act to seek access to or correct the personal information that AAP holds about you, we ask that you contact AAP's Privacy Officer by e-mail at [privacy@aap.com.au](mailto:privacy@aap.com.au), or by mail to Locked Bag 21, Grosvenor Place, Sydney NSW 2001. When contacting AAP's Privacy Officer, please provide as much detail as possible to assist us to follow-up your request. 
+If you wish to exercise your right under the Privacy Act to seek access to or correct the personal information that AAP holds about you, we ask that you contact AAP's Privacy Officer by e-mail at [privacy@aap.com.au](mailto:privacy@aap.com.au), or by mail to PO Box 3411, Rhodes Waterside, Rhodes NSW 2138. When contacting AAP's Privacy Officer, please provide as much detail as possible to assist us to follow-up your request. 
 
 In the first instance, we will generally provide you with a summary of the information we hold about you. We will assume (unless you tell us otherwise) that your request relates to our current records about you. These current records will include personal information about you which is included in our computers, databases and in paper files, and which may be used by AAP on a day to day basis. 
 
@@ -111,12 +111,12 @@ If you have any questions or comments about this privacy policy, or if you have 
 
 **Mail:**
 
-> Locked Bag 21,   
->  Grosvenor Place,   
->  Sydney NSW 2001. 
+> PO Box 3411,  
+>  Rhodes Waterside,   
+>  Rhodes NSW 2138. 
 
 **8\. Changes to this Privacy Policy**
 
-This privacy policy may change from time to time. This policy was last updated on 18 July 2002. 
+This privacy policy may change from time to time. This policy was last updated on 2 December, 2005. 
 
 | 
