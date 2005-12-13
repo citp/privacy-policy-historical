@@ -1,547 +1,76 @@
-<!--The following is the downloaded HTML source of the brassring.com privacy policy that was archived on 2005-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305012955id_/http%3A//www.brassring.com/en/html/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brassring.com privacy policy that was archived on 2005-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051213204158id_/http%3A//www.brassring.com/en/html/constants/privacy.asp) for the most accurate reproduction.-->
 
-<html><!-- InstanceBegin template="/Templates/level4-about.dwt" codeOutsideHTMLIsLocked="false" --><head>
-<script>
-function BrowserInfo() {
-  var agent = navigator.userAgent.toLowerCase();
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 
-  this.major = parseInt(navigator.appVersion);
-  this.minor = parseFloat(navigator.appVersion);
-  this.ns    = ((agent.indexOf('mozilla') != -1) &&
-                (agent.indexOf('spoofer') == -1) &&
-                (agent.indexOf('compatible') == -1) &&
-                (agent.indexOf('opera') == -1) &&
-                (agent.indexOf('webtv') == -1));
-  this.ns4   = (this.ns && (this.major == 4));
-  this.ns6   = (this.ns && (this.major >= 5));
-  this.ie    = ((agent.indexOf("msie") != -1) &&
-                (agent.indexOf("opera") == -1));
-  this.ie3   = (this.ie && (this.major < 4));
-  this.ie4   = (this.ie && (this.major >= 4));
-  this.ie5   = (this.ie && (this.major ==  4) &&
-                (agent.indexOf("msie 5.0") != -1));
-  this.ie6   = (this.ie && (this.major == 4) &&
-                (agent.indexOf("msie 6.") != -1));
-  this.ieX   = (this.ie && !this.ie3 && !this.ie4);
-  this.opera = (agent.indexOf('opera') != -1);
+<title>BrassRing: Privacy Policy</title>
 
-  this.mac   = (agent.indexOf("mac") != -1);
-}
-
-var browserInfo = new BrowserInfo();
-
-if (browserInfo.mac) {
-  if (browserInfo.ns6) document.writeln("<link rel='stylesheet' href='/en/html/stylesheets/mac_ns6.css' type='text/css'>");
-  else if (browserInfo.ns) document.writeln("<link rel='stylesheet' href='/en/html/stylesheets/mac_ns.css' type='text/css'>");
-  else document.writeln("<link rel='stylesheet' href='/en/html/stylesheets/mac_ie.css' type='text/css'>");
-} else {
-  if (browserInfo.ns6) document.write("<link rel='stylesheet' href='/en/html/stylesheets/windows_ns6.css' type='text/css'>");
-  else if (browserInfo.ns) document.write("<link rel='stylesheet' href='/en/html/stylesheets/windows_ns.css' type='text/css'>");
-  else document.write("<link rel='stylesheet' href='/en/html/stylesheets/windows_ie.css' type='text/css'>");
-}
-
-function getParametersMap()
-{
-  var paramMap = new Object();
-  var query = location.search.substring(1);
-  var pairs = query.split("&");
-  for(var i = 0; i < pairs.length; i++) {
-    var pos = pairs[i].indexOf('=');
-    if (pos == -1) continue;
-    var argname = pairs[i].substring(0,pos);
-    var value = pairs[i].substring(pos+1);
-    paramMap[argname] = unescape(value);
-  }
-  return paramMap;
-}
-
-function getParameter(param)
-{
-  var paramMap = getParametersMap();
-  return paramMap[param];
-}
-
-function adjustTableHeight(elementId, height)
-{
-  if (document.getElementById) {
-    var element = document.getElementById(elementId);
-  } else if (document.all) {
-    var element = document.all[elementId];
-  }
-  element.height = height;
-}
-</script><link rel="stylesheet" href="/en/html/stylesheets/windows_ns6.css" type="text/css">
-
-<script language="JavaScript">
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
+<link rel="stylesheet" href="/en/html/css/main2.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/en/html/css/print.css" type="text/css" media="print">
 
 
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-}
-MM_reloadPage(true);
-</script>
-<!-- #BeginEditable "doctitle" --> 
-<title>BrassRing: Legal/Privacy Notice</title>
-<!--
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 
--->
-<!-- #EndEditable -->
-<script>
-var itemNumber = 0; // Do not edit.
+<meta name="Description" content="">
+<meta name="Keywords" content="">
 
-// This defines the maximum level to which to display navigation bread crumb.
-// Numbering begins at 0.
-// Use -1 to specify infinite depth.
-var maxCrumbLevel = -1;
-var currentCrumbLevel = -1; // Do not edit.
-
-// Specify style classes for different cases.
-var nonLinkedCrumbClass = "arial-8pt";
-var linkedCrumbClass = "arial-8pt-khaki";
-//var crumbArrowClass = "";
-
-// Convenience function for write out a line.
-function print(line) {
-  document.write(line);
-}
-
-// Convenience function for write out a line with a linefeed.
-function println(line) {
-  document.write(line + "\n");
-}
-
-function menuItem(showInTrail, url, breadCrumbText) {
-  itemNumber++;
-  this.showInTrail = showInTrail;
-  this.url = url;
-  this.breadCrumbText = breadCrumbText;
-  this.subMenu = new Array();
-}
-
-/* this function is intended to be used to show the breadcrumb trail
-   usage: showTrail(2,1)
-   that means that you want to see the trail from the third item on the first level,
-   second item on the second level
-*/
-function showTrail() {
-  var separator = "<img src=\"/en/img/global/arrow_crumbs.gif\" border=\"0\">";
-  var itemText = "top";
-  var maxDepth = arguments.length;
-  if (maxCrumbLevel != -1) {
-    maxDepth = maxCrumbLevel + 1;
-  }
-
-  for (var i = 0; i < maxDepth; i++) {
-    itemText += ".subMenu[" + arguments[i] + "]";
-    var thisItem = eval(itemText);
-    if (thisItem.showInTrail) {
-      if (i > 0) {
-        //print('<span class="' + crumbArrowClass + '">' + separator + '</span>');
-        print(separator);
-      }
-      if (i == maxDepth - 1) {
-        print('<span class="' + nonLinkedCrumbClass + '">' + thisItem.breadCrumbText + '</span>');
-      } else {
-        print('<a href="'+thisItem.url+'" class="' + linkedCrumbClass + '">' + thisItem.breadCrumbText + '</a>');
-      }
-    }
-  }
-} 
- 
-/*
-This is purely for debugging.
-For display of all menu items from the top down:
-usage: showAll()
-*/
-function showAll(item, level) {
-  if (!level) {
-    level = 0;
-  }
-  if (!item) {
-    item = top;
-  }
-
-  var spacerString = "+-";
-  //var spacerString = "&nbsp;&nbsp;";
-  var spacer = "";
-  for (var i = 0; i < level; i++) {
-	spacer += spacerString;
-  }
-
-  var subMenu = item.subMenu;
-
-  for (var i = 0; i < subMenu.length; i++) {
-    println(spacer + '<a href="' + subMenu[i].url + '" class="' + linkedCrumbClass + '">' + subMenu[i].breadCrumbText + '</a><br>');
-    if (subMenu[i].subMenu != null) {
-      showAll(subMenu[i], level + 1);
-    }
-  }
-}
-</script><script>
-/*
-Key to parameters of the menuItem object:
-menuItem(showInTrail, url, breadCrumbText)
-  showInTrail
-    parameter type: boolean
-    possible values: true, false
-    function: specifies whether or not to the show menu item in the bread crumb trail
-  url
-    parameter type: string
-    example value: "/sales_mktg/index.html"
-    function: specifies the url to which to link from the bread crumb trail
-  breadCrumbText
-    parameter type: string
-    example value: "Sales and Marketing"
-    function: specifies the text in the bread crumb trail
-*/
-
-// Set up the menu object.
-var top = new menuItem(); // the "root" of the menu, not a real item
-
-// /Solutions/
-top.subMenu[0] = new menuItem(true, "/en/html/index.asp", "Home");
-top.subMenu[0].subMenu[0] = new menuItem(true, "/en/html/solutions/index_new.asp", "Our Solutions");
-top.subMenu[0].subMenu[0].subMenu[0] = new menuItem(true, "/en/html/solutions/software/index.asp", "<em>Enterprise</em> 7");
-top.subMenu[0].subMenu[0].subMenu[0].subMenu[0] = new menuItem(true, "/en/html/solutions/software/engage.asp", "Engage");
-top.subMenu[0].subMenu[0].subMenu[0].subMenu[1] = new menuItem(true, "/en/html/solutions/software/recruit.asp", "Recruit");
-top.subMenu[0].subMenu[0].subMenu[0].subMenu[2] = new menuItem(true, "/en/html/solutions/software/search.asp", "Search");
-top.subMenu[0].subMenu[0].subMenu[0].subMenu[3] = new menuItem(true, "/en/html/solutions/software/collaborate.asp", "Collaborate");
-top.subMenu[0].subMenu[0].subMenu[0].subMenu[4] = new menuItem(true, "/en/html/solutions/software/analyze.asp", "Analyze");
-top.subMenu[0].subMenu[0].subMenu[0].subMenu[5] = new menuItem(true, "/en/html/solutions/software/configure.asp", "Configure");
-top.subMenu[0].subMenu[0].subMenu[0].subMenu[6] = new menuItem(true, "/en/html/solutions/software/integrate.asp", "Integrate");
-top.subMenu[0].subMenu[0].subMenu[0].subMenu[7] = new menuItem(true, "/en/html/solutions/software/protect.asp", "Protect");
-top.subMenu[0].subMenu[0].subMenu[0].subMenu[8] = new menuItem(true, "/en/html/solutions/software/control.asp", "Control");
-
-top.subMenu[0].subMenu[0].subMenu[1] = new menuItem(true, "/en/html/solutions/services/index.asp", "Recruitment Services");
-top.subMenu[0].subMenu[0].subMenu[1].subMenu[0] = new menuItem(true, "/en/html/solutions/services/managed.asp", "Managed");
-top.subMenu[0].subMenu[0].subMenu[1].subMenu[1] = new menuItem(true, "/en/html/solutions/services/Express.asp", "Express");
-
-top.subMenu[0].subMenu[0].subMenu[2] = new menuItem(true, "/en/html/solutions/roi.asp", "Return on Investment");
-
-top.subMenu[0].subMenu[0].subMenu[3] = new menuItem(true, "/en/html/solutions/case_studies.asp", "Case Studies");
-top.subMenu[0].subMenu[0].subMenu[3].subMenu[3] = new menuItem(true, "/en/html/solutions/case_studies/boehringer.asp", "Boehringer Ingelheim Corporation");
-top.subMenu[0].subMenu[0].subMenu[3].subMenu[4] = new menuItem(true, "/en/html/solutions/case_studies/ch2mhill.asp", "CH2M Hill");
-top.subMenu[0].subMenu[0].subMenu[3].subMenu[5] = new menuItem(true, "/en/html/solutions/case_studies/pioneer.asp", "Pioneer Hi-Bred International");
-top.subMenu[0].subMenu[0].subMenu[3].subMenu[6] = new menuItem(true, "/en/html/solutions/case_studies/rrdonnelley.asp", "RR Donnelley");
-top.subMenu[0].subMenu[0].subMenu[3].subMenu[7] = new menuItem(true, "/en/html/solutions/case_studies/unisys.asp", "Unisys");
-top.subMenu[0].subMenu[0].subMenu[3].subMenu[8] = new menuItem(true, "/en/html/solutions/case_studies/heller_ehrman.asp", "Heller Ehrman");
-top.subMenu[0].subMenu[0].subMenu[3].subMenu[9] = new menuItem(true, "/en/html/solutions/case_studies/baxter.asp", "Baxter Healthcare Corporation");
-top.subMenu[0].subMenu[0].subMenu[3].subMenu[10] = new menuItem(true, "/en/html/solutions/case_studies/christiana.asp", "Christiana Care");
-top.subMenu[0].subMenu[0].subMenu[3].subMenu[12] = new menuItem(true, "/en/html/solutions/case_studies/brown_forman.asp", "Brown-Forman Corporation");
-top.subMenu[0].subMenu[0].subMenu[3].subMenu[13] = new menuItem(true, "/en/html/solutions/case_studies/credence.asp", "Credence Systems Corporation");
-top.subMenu[0].subMenu[0].subMenu[3].subMenu[14] = new menuItem(true, "/en/html/solutions/case_studies/mantech.asp", "ManTech");
-
-// resume database
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[0] = new menuItem(true, "/en/html/solutions/talent_acquisition/resume_database/index.asp", "Specialty Talent Pools");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[0].subMenu[0] = new menuItem(true, "/en/html/solutions/talent_acquisition/resume_database/it_technical.asp", "IT/Technical");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[0].subMenu[1] = new menuItem(true, "/en/html/solutions/talent_acquisition/resume_database/engineering.asp", "Engineering");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[0].subMenu[2] = new menuItem(true, "/en/html/solutions/talent_acquisition/resume_database/diversity.asp", "Diversity");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[0].subMenu[3] = new menuItem(true, "/en/html/solutions/talent_acquisition/resume_database/healthcare_biotech.asp", "Healthcare/Biotech");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[0].subMenu[4] = new menuItem(true, "/en/html/solutions/talent_acquisition/resume_database/sales_marketing.asp", "Sales/Marketing/Finance");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[0].subMenu[5] = new menuItem(true, "/en/html/solutions/talent_acquisition/resume_database/mba_profs.asp", "MBA Professionals");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[0].subMenu[6] = new menuItem(true, "/en/html/solutions/talent_acquisition/resume_database/res_database_request.asp", "Request Access");
-// end resume database
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[1] = new menuItem(true, "/en/html/solutions/talent_acquisition/talent_conferences/index.asp", "Career Events and Talent Conferences");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[2] = new menuItem(true, "/en/html/solutions/talent_acquisition/training/index.asp", "Training and Education");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[3] = new menuItem(true, "/en/html/solutions/talent_acquisition/recruitment_advertising/index.asp", "Recruitment Advertising");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[3].subMenu[0] = new menuItem(true, "/en/html/solutions/talent_acquisition/recruitment_advertising/job_posting/index.asp", "Job Posting");
-//job posting
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[3].subMenu[0].subMenu[0] = new menuItem(true, "/en/html/solutions/talent_acquisition/recruitment_advertising/job_posting/it_technical.asp", "IT/Technical");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[3].subMenu[0].subMenu[1] = new menuItem(true, "/en/html/solutions/talent_acquisition/recruitment_advertising/job_posting/diversity.asp", "Diversity");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[3].subMenu[0].subMenu[2] = new menuItem(true, "/en/html/solutions/talent_acquisition/recruitment_advertising/job_posting/engineering.asp", "Engineering");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[3].subMenu[0].subMenu[3] = new menuItem(true, "/en/html/solutions/talent_acquisition/recruitment_advertising/job_posting/healthcare_biotech.asp", "Healthcare/Biotech");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[3].subMenu[0].subMenu[4] = new menuItem(true, "/en/html/solutions/talent_acquisition/recruitment_advertising/job_posting/mba_profs.asp", "MBA Professionals");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[3].subMenu[0].subMenu[5] = new menuItem(true, "/en/html/solutions/talent_acquisition/recruitment_advertising/job_posting/sales_finance.asp", "Sales/Marketing/Finance");
-top.subMenu[0].subMenu[0].subMenu[2].subMenu[3].subMenu[0].subMenu[6] = new menuItem(true, "/en/html/solutions/talent_acquisition/recruitment_advertising/job_posting/job_posting_form.asp", "Post a Job");
-// end job posting
-
-// end Solutions
-
-// /About/
-top.subMenu[1] = new menuItem(true, "/en/html/index.asp", "Home");
-top.subMenu[1].subMenu[0] = new menuItem(true, "/en/html/about/index.asp", "About BrassRing");
-top.subMenu[1].subMenu[0].subMenu[0] = new menuItem(true, "/en/html/about/careers/index.asp", "Careers at BrassRing");
-top.subMenu[1].subMenu[0].subMenu[0].subMenu[0] = new menuItem(true, "/en/html/about/careers/benefits.asp", "Benefits");
-top.subMenu[1].subMenu[0].subMenu[0].subMenu[1] = new menuItem(true, "/en/html/about/careers/hiringprocess.asp", "Hiring Process");
-top.subMenu[1].subMenu[0].subMenu[1] = new menuItem(true, "/en/html/about/events/index.asp", "Events");
-top.subMenu[1].subMenu[0].subMenu[1].subMenu[0] = new menuItem(true, "/en/html/about/events/archived_web_seminars.asp", "Recorded Web Seminars");
-top.subMenu[1].subMenu[0].subMenu[1].subMenu[1] = new menuItem(true, "/en/html/about/events/web_seminars.asp", "Web Seminars");
-top.subMenu[1].subMenu[0].subMenu[1].subMenu[2] = new menuItem(true, "/en/html/about/events/tradeshows.asp", "Tradeshows");
-top.subMenu[1].subMenu[0].subMenu[1].subMenu[3] = new menuItem(true, "/en/html/about/events/live_seminars.asp", "Seminars");
-top.subMenu[1].subMenu[0].subMenu[1].subMenu[4] = new menuItem(true, "/en/html/about/events/user_conference.asp", "BrassRing User Conferences");
-top.subMenu[1].subMenu[0].subMenu[2] = new menuItem(true, "/en/html/about/news/index.asp", "Newsroom");
-top.subMenu[1].subMenu[0].subMenu[2].subMenu[0] = new menuItem(true, "/en/html/about/news/presskits.asp", "Press kits");
-top.subMenu[1].subMenu[0].subMenu[2].subMenu[0].subMenu[0] = new menuItem(true, "", "Enterprise 5.5 Announcement at a Glance");
-top.subMenu[1].subMenu[0].subMenu[2].subMenu[1] = new menuItem(true, "/en/html/about/news/pressreleasearchive.asp", "Press Release Archive");
-top.subMenu[1].subMenu[0].subMenu[2].subMenu[1].subMenu[0] = new menuItem(false, "", "Archived Press Release");
-top.subMenu[1].subMenu[0].subMenu[3] = new menuItem(true, "/en/html/about/advisory_board.asp", "Advisory Board");
-top.subMenu[1].subMenu[0].subMenu[4] = new menuItem(true, "/en/html/about/board_dir.asp", "Board of Directors");
-top.subMenu[1].subMenu[0].subMenu[5] = new menuItem(true, "/en/html/about/management.asp", "Management Team");
-top.subMenu[1].subMenu[0].subMenu[6] = new menuItem(true, "/en/html/about/partners/index.asp", "Partners");
-top.subMenu[1].subMenu[0].subMenu[7] = new menuItem(true, "/en/html/about/office_locations.asp", "Office Locations");
-top.subMenu[1].subMenu[0].subMenu[6].subMenu[0] = new menuItem(true, "/en/html/about/partners/partner_resource.asp", "Partner Resource Center");
-top.subMenu[1].subMenu[0].subMenu[6].subMenu[1] = new menuItem(true, "/en/html/about/partners/become_partner.asp", "Become a Partner");
-top.subMenu[1].subMenu[0].subMenu[6].subMenu[2] = new menuItem(true, "/en/html/about/partners/consulting_partners.asp", "Consulting Partners");
-top.subMenu[1].subMenu[0].subMenu[6].subMenu[3] = new menuItem(true, "/en/html/about/partners/application_partners.asp", "Application Partners");
-top.subMenu[1].subMenu[0].subMenu[6].subMenu[4] = new menuItem(true, "/en/html/about/partners/sourcing_partners.asp", "Sourcing Partners");
-top.subMenu[1].subMenu[0].subMenu[6].subMenu[5] = new menuItem(true, "/en/html/about/partners/content_partners.asp", "Content Partners");
-top.subMenu[1].subMenu[0].subMenu[6].subMenu[6] = new menuItem(true, "/en/html/about/partners/posting_partners.asp", "Posting Partners");
-top.subMenu[1].subMenu[0].subMenu[6].subMenu[7] = new menuItem(true, "/en/html/about/partners/consortium_members.asp", "Consortium Members");
-top.subMenu[1].subMenu[0].subMenu[8] = new menuItem(true, "/en/html/about/awards/index.asp", "Awards");
-top.subMenu[1].subMenu[0].subMenu[9] = new menuItem(true, "/en/html/about/our_philosophy_TRM/index.asp", "Our Philosophy - TRM");
-top.subMenu[1].subMenu[0].subMenu[9].subMenu[0] = new menuItem(true, "/en/html/about/our_philosophy_TRM/goingbeyond.asp", "Going Beyond Web-Entry");
-top.subMenu[1].subMenu[0].subMenu[9].subMenu[1] = new menuItem(true, "/en/html/about/our_philosophy_TRM/preflight.asp", "A Pre-flight Checklist for TRM");
-top.subMenu[1].subMenu[0].subMenu[9].subMenu[2] = new menuItem(true, "/en/html/about/our_philosophy_TRM/restructuring.asp", "If You're Restructuring or Downsizing");
-top.subMenu[1].subMenu[0].subMenu[9].subMenu[3] = new menuItem(true, "/en/html/about/our_philosophy_TRM/whatistrm.asp", "What is Talent Relationship Management?");
-top.subMenu[1].subMenu[0].subMenu[9].subMenu[4] = new menuItem(true, "/en/html/about/our_philosophy_TRM/whattalentshortage.asp", "What Talent Shortage?");
-top.subMenu[1].subMenu[0].subMenu[9].subMenu[5] = new menuItem(true, "/en/html/about/our_philosophy_TRM/evolving.asp", "Evolving the Employee Lifecycle");
-top.subMenu[1].subMenu[0].subMenu[10] = new menuItem(true, "/en/html/about/mission.asp", "Mission, Values &amp; Vision");
-
-// /accesspass/ NOT USED
-top.subMenu[2] = new menuItem(true, "/en/html/index.asp", "Home");
-
-
-// /Client Support/
-top.subMenu[3] = new menuItem(true, "/en/html/index.asp", "Home");
-top.subMenu[3].subMenu[0] = new menuItem(true, "/en/html/client_support/index.asp", "Support");
-top.subMenu[3].subMenu[0].subMenu[0] = new menuItem(true, "/en/html/client_support/job_posting.asp", "Job Posting");
-top.subMenu[3].subMenu[0].subMenu[1] = new menuItem(true, "/en/html/client_support/brassring_enterprise.asp", "BrassRing Enterprise");
-top.subMenu[3].subMenu[0].subMenu[2] = new menuItem(true, "/en/html/client_support/htc_magazine.asp", "HTC Magazine");
-top.subMenu[3].subMenu[0].subMenu[3] = new menuItem(true, "/en/html/client_support/resume_database.asp", "Specialty Talent Pools");
-top.subMenu[3].subMenu[0].subMenu[4] = new menuItem(true, "/en/html/client_support/mba_support.asp", "MBA Product Support");
-top.subMenu[3].subMenu[0].subMenu[5] = new menuItem(true, "/en/html/client_support/talent_conf.asp", "Career Events and Talent Conferences");
-top.subMenu[3].subMenu[0].subMenu[6] = new menuItem(true, "/en/html/client_support/support_contactinfo.asp", "Contact Information for Professional Societies & Associations");
-top.subMenu[3].subMenu[0].subMenu[7] = new menuItem(true, "/en/html/client_support/jobseeker_faq.asp", "Job Seeker FAQ");
-top.subMenu[3].subMenu[0].subMenu[8] = new menuItem(true, "/en/html/client_support/implementation/steps/index.asp", "Implementation");
-top.subMenu[3].subMenu[0].subMenu[8].subMenu[0] = new menuItem(true, "/en/html/client_support/implementation/steps/executives_involved.asp", "Get HR Executives Involved");
-top.subMenu[3].subMenu[0].subMenu[8].subMenu[1] = new menuItem(true, "/en/html/client_support/implementation/steps/assemble_team.asp", "Assemble Your Implementation Team");
-top.subMenu[3].subMenu[0].subMenu[8].subMenu[2] = new menuItem(true, "/en/html/client_support/implementation/steps/kickoff_meeting.asp", "Schedule an Orientation  Meeting");
-top.subMenu[3].subMenu[0].subMenu[8].subMenu[3] = new menuItem(true, "/en/html/client_support/implementation/steps/field_recruiting_survey.asp", "Conduct Field Recruiting Process Survey");
-top.subMenu[3].subMenu[0].subMenu[8].subMenu[4] = new menuItem(true, "/en/html/client_support/implementation/steps/best_practices.asp", "Best Practices Team Meeting");
-top.subMenu[3].subMenu[0].subMenu[8].subMenu[5] = new menuItem(true, "/en/html/client_support/implementation/steps/project_plan.asp", "Develop Your Project Plan");
-top.subMenu[3].subMenu[0].subMenu[8].subMenu[6] = new menuItem(true, "/en/html/client_support/implementation/steps/system_configuration.asp", "Define Your System Configuration");
-top.subMenu[3].subMenu[0].subMenu[8].subMenu[7] = new menuItem(true, "/en/html/client_support/implementation/steps/change_management.asp", "Hold a Change Management Planning Meeting");
-top.subMenu[3].subMenu[0].subMenu[8].subMenu[8] = new menuItem(true, "/en/html/client_support/implementation/steps/success.asp", "Celebrate Success");
-
-
-// /International
-top.subMenu[4] = new menuItem(true, "/en/html/index.asp", "Home");
-top.subMenu[4].subMenu[0] = new menuItem(true, "/en/html/global_sites/index.asp", "Global Sites");
-
-// /Search/
-top.subMenu[5] = new menuItem(true, "/en/html/index.asp", "Home");
-top.subMenu[5].subMenu[0] = new menuItem(true, "/en/html/search/searchResults.asp", "Search");
-
-// /Misc Pages/
-top.subMenu[6] = new menuItem(true, "/en/html/index.asp", "Home");
-top.subMenu[6].subMenu[0] = new menuItem(true, "/en/html/site_map/index.asp", "Site Map");
-top.subMenu[6].subMenu[1] = new menuItem(true, "/en/html/privacy.asp", "Privacy");
-top.subMenu[6].subMenu[2] = new menuItem(true, "/en/html/terms.asp", "Terms of Use");
-
-</script>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<!--
-
--->
-<script language="JavaScript">
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-
-
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-}
-MM_reloadPage(true);
-
-
-</script>
 </head>
-<body text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="/en/img/global/bg_khaki_20.gif" onload="MM_preloadImages('/en/img/global/arrow_close_f2.gif','/en/img/global/arrow_back_f2.gif','/en/img/global/arrow_top_f2.gif','/en/img/global/nav/button_go_f2.gif')" link="#3366CC" vlink="#660099" alink="#3366CC">
-<!-- #BeginEditable "misc" --><!-- #EndEditable --> 
-<table width="100%" height="100%" border="0" cellspacing="10" cellpadding="1">
-  <tbody><tr> 
-    <td background="/en/img/global/shim.gif" bgcolor="#b2c3c9" valign="top"><table border="0" cellspacing="0" bgcolor="#FFFFFF" width="100%" cellpadding="0" height="100%" background="/en/img/global/shim.gif">
-        <tbody><tr>
-          <td valign="top" align="center">
-            <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#b2c3c9">
-              <tbody><tr>
-                <td colspan="3"><img src="/en/img/global/shim.gif" width="1" height="3"></td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td valign="top" align="center" height="100%"> 
-            <table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
-              <tbody><tr> 
-                <td colspan="3"><a name="top"><img src="/en/img/global/shim.gif" width="100" height="15"></a></td>
-              </tr>
-              <tr> 
-                <td valign="top"><img src="/en/img/global/shim.gif" width="15" height="15"></td>
-                <td valign="top"><table border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="99%">
-      
-      <a href="/en/html/index.asp"><img src="/en/img/global/logo_brassring_follow.gif" width="175" height="46" border="0" alt="BrassRing"></a>
-      
-    </td>
-    <td>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="150"><img src="/en/img/global/shim.gif" width="150" height="1"></td>
-          <td>
-            
-            <a href="/en/html/solutions/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('solutionsf2','','/en/img/global/nav/nav_top_solutions_f2.gif',1)"><img src="/en/img/global/nav/nav_top_solutions.gif" alt="Our Solutions" name="solutionsf2" width="83" height="39" border="0"></a>
-            
-          </td>
-          <td><img src="/en/img/global/shim.gif" width="8" height="1"></td>
-          <td>
-            
-            <a href="/en/html/about/index.asp"><img src="/en/img/global/nav/nav_top_about_f3.gif" alt="About BrassRing" name="aboutf3" width="83" height="39" border="0"></a>
-            
-          </td>
-          <td><img src="/en/img/global/shim.gif" width="8" height="1"></td>
-          <td>
-            
-            <a href="/en/html/client_support/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('supportf2','','/en/img/global/nav/nav_top_support_f2.gif',1)"><img src="/en/img/global/nav/nav_top_support.gif" alt="Support" name="supportf2" width="83" height="39" border="0"></a>
-            
-          </td>
-          <td><img src="/en/img/global/shim.gif" width="8" height="1"></td>
-          <td>
-            
-            <a href="http://brinfo.brassring.com/sales/inforequest.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contactf2','','/en/img/global/nav/nav_top_contact_f2.gif',1)"><img src="/en/img/global/nav/nav_top_contact.gif" alt="Contact us" name="contactf2" width="83" height="39" border="0"></a>
-            
-          </td>
-          <td><img src="/en/img/global/shim.gif" width="8" height="1"></td>
-          <td>
-            
-            <a href="/en/html/global_sites/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('globalf2','','/en/img/global/nav/nav_top_globalsites_f2.gif',1)"><img src="/en/img/global/nav/nav_top_globalsites.gif" alt="Global Sites" name="globalf2" width="83" height="39" border="0"></a>
-            
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table></td>
-                <td align="right"><img src="/en/img/global/shim.gif" width="15" height="15"></td>
-              </tr>
-              <tr> 
-                <td colspan="3"><img src="/en/img/global/shim.gif" width="30" height="35"></td>
-              </tr>
-              <tr> 
-                <td valign="bottom">&nbsp;</td>
-                <td valign="bottom"> 
-                  <table width="100%" border="0" cellspacing="0" cellpadding="0" align="right">
-                    <tbody><tr>
-                      <td width="99%" valign="bottom"><!-- InstanceBeginEditable name="cookiecrumb" --><script>showTrail(6,1);</script><!-- InstanceEndEditable --></td>
-                      <td><img src="/en/img/global/shim.gif" width="30" height="30"></td>
-                      <td align="right" valign="top"> 
-                        <table border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
-                            <td valign="middle"><img src="/en/img/global/nav/nav_top_search.gif" width="44" height="20"></td> 
-                            <td> 
-                              <form id="searchForm" name="searchForm" action="/en/html/search/searchResults.asp" method="post">
-                                <input type="text" name="searchTerms" size="15">
-                              </form>
-                            </td>
-                            <td valign="middle"><a href="javascript:window.document.searchForm.submit()" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','/en/img/global/nav/button_go_f2.gif',1)"><img src="/en/img/global/nav/button_go.gif" width="24" height="20" alt="Go" border="0" name="Image1"></a></td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                  
-                </td>
-                <td valign="top">&nbsp;</td>
-              </tr>
-              <tr> 
-                <td valign="top" colspan="3"><img src="/en/img/global/shim.gif" width="30" height="2"></td>
-              </tr>
-              <tr> 
-                <td valign="top" height="99%">&nbsp;</td>
-                <td valign="top"> 
-                  <table width="100%" height="100%" border="0" cellpadding="6" cellspacing="0" bgcolor="#b3c2c9" id="bordertable">
-                    <tbody><tr> 
-                      <td valign="top"> 
-                        <table border="0" cellspacing="0" cellpadding="0" background="/en/img/global/shim.gif" height="100%" bgcolor="#ffffff" width="100%" id="innertable">
-                          <tbody><tr> 
-                            <td background="/en/img/global/shim.gif" rowspan="7" bgcolor="#ffffff"><img src="/en/img/global/shim.gif" name="leftshim" width="10" height="350" id="leftshim"></td>
-                            <td colspan="2" background="/en/img/global/shim.gif" bgcolor="#ffffff"><img src="/en/img/global/shim.gif" width="380" height="5"></td>
-                            <td rowspan="7" background="/en/img/global/shim.gif" bgcolor="#ffffff"><img src="/en/img/global/shim.gif" width="10" height="250"></td>
-                          </tr>
-                          <tr> 
-                            <td background="/en/img/global/shim.gif" colspan="2" valign="top" bgcolor="#ffffff"><img src="/en/img/global/shim.gif" width="1" height="1"><!-- #BeginEditable "header" -->&nbsp;<!-- #EndEditable --></td>
-                          </tr>
-                          <tr> 
-                            <td background="/en/img/global/shim.gif" colspan="2"><img src="/en/img/global/shim.gif" width="380" height="5"></td>
-                          </tr>
-                          <tr> 
-                            <td background="/en/img/global/shim.gif" valign="top" class="arial-9pt" bgcolor="#ffffff"><img src="/en/img/global/shim.gif" width="2" height="220"></td>
-                            <td background="/en/img/global/shim.gif" width="99%" height="99%" valign="top" class="arial-9pt" bgcolor="#ffffff"><!-- #BeginEditable "content" -->
+<body>
 
-<p><strong>BrassRing LLC Privacy Policy</strong></p>
 
-<p><a href="https://www.truste.org/ivalidate.php?url=www.brassring.com"><img src="/en/img/clicksealwhitebckgrnd.gif" alt="" width="91" height="73" border="0" align="right"></a><strong>I.  Introduction</strong><br>
+<div id="container">
+<div id="constants"><a href="/en/html/company/news_events.asp">NEWS &amp; EVENTS</a> <img src="/en/img/nav/constants_dots.gif" alt="" width="5" height="5" border="0"> <a href="/en/html/constants/contact.asp">CONTACT</a> <img src="/en/img/nav/constants_dots.gif" alt="" width="5" height="5" border="0"> <a href="/en/html/constants/site_map.asp">SITE MAP</a></div><div id="banner" align="right"><!--- only for print version --->
+<img src="/en/img/blasts/logo_brassring_follow.gif" alt="BrassRing" width="175" height="46" border="0">
+</div>
+
+
+<table id="primary_nav" width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td style="background-image:url(/en/img/nav/nav_constants_bg.jpg); background-position: top left; background-repeat: no-repeat;" width="440"><a href="/en/html/index.asp"><img src="/en/img/nav/logo/brassring_constants.jpg" alt="BrassRing Home" width="128" height="29" border="0" style="float: left; padding-left: 37px; padding-top: 4px;"></a></td>	
+						  
+		<td><a href="/en/html/offerings/index.asp"><img src="/en/img/nav/nav_constants_offerings_off.jpg" alt="Offerings" width="90" height="42" border="0"></a></td>
+				
+		<td><a href="/en/html/results/index.asp"><img src="/en/img/nav/nav_constants_results_off.jpg" alt="Results" width="90" height="42" border="0"></a></td>
+				
+		<td><a href="/en/html/company/index.asp"><img src="/en/img/nav/nav_constants_company_off.jpg" alt="Company" width="90" height="42" border="0"></a></td>
+				
+		<td><a href="/en/html/careers/index.html"><img src="/en/img/nav/nav_constants_careers_off.jpg" alt="Careers" width="90" height="42" border="0"></a></td>
+</tr>
+</tbody></table>
+
+<table id="secondary_nav" width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td style="background-image:url(/en/img/nav/constants_main_static.jpg); height: 120px; border-bottom: 6px solid #7FA81C;">&nbsp;</td>
+	</tr>
+</tbody></table>
+
+
+
+
+<div id="tertiary_nav">
+&nbsp;
+</div><!-- end sidebar -->
+
+<div id="content">
+<h1>BrassRing LLC Privacy Policy</h1>
+
+<h4>I.  Introduction</h4>
+<p><a href="https://www.truste.org/ivalidate.php?url=www.brassring.com"><img src="/en/img/logos/clicksealwhitebckgrnd.gif" alt="" width="91" height="73" border="0" align="right"></a>
 The following sets forth BrassRing LLC's privacy policy, which contains four separate sections as follows:</p>
 
-<p><strong>I.	This Introduction;</strong><br>
-<strong>II.	BrassRing Online Privacy Policy, which addresses the privacy practices applicable to usage of the BrassRing website;</strong><br>
-<strong>III.	BrassRing's ASP Privacy Policy, which addresses the privacy practices applicable to information processed by BrassRing in its role as an ASP provider;</strong><br>
-<strong>IV.	A General Section, which applies to all of our privacy policies. </strong></p>
+<ol>
+	<li style="list-style: upper-roman;">This Introduction;</li>
+	<li style="list-style: upper-roman;">BrassRing Online Privacy Policy, which addresses the privacy practices applicable to usage of the BrassRing website;</li>
+	<li style="list-style: upper-roman;">BrassRing's ASP Privacy Policy, which addresses the privacy practices applicable to information processed by BrassRing in its role as an ASP provider;</li>
+	<li style="list-style: upper-roman;">A General Section, which applies to all of our privacy policies.</li>
+</ol>
 
 <p>BrassRing respects individual privacy.  BrassRing strives to collect and use personal information in a manner consistent with the laws of the countries in which it does business.  BrassRing abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission.</p>  
 
 <p>BrassRing LLC is a licensee of the TRUSTe Privacy Program and the TRUSTe EU Safe Harbor Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. </p>
 
-<p><strong>II.	BRASSRING ONLINE PRIVACY POLICY</strong><br>
-This Online Privacy Policy covers use of the site <a href="http://www.brassring.com">www.brassring.com</a> and our on-line URC site available only to clients of BrassRing. All information you disclose to us on this web site on our on-line URC site is subject to our Online Privacy Policy. Information you disclose on the BrassRing job board portion of the site powered by Career Builder is covered by the Career Builder privacy statement linked to that page.</p>
+<h4>II.	BRASSRING ONLINE PRIVACY POLICY</h4>
+<p>This Online Privacy Policy covers use of the site <a href="http://www.brassring.com">www.brassring.com</a> and our on-line URC site available only to clients of BrassRing. All information you disclose to us on this web site on our on-line URC site is subject to our Online Privacy Policy. Information you disclose on the BrassRing job board portion of the site powered by Career Builder is covered by the Career Builder privacy statement linked to that page.</p>
 
 <p>With respect to data received through its websites, BrassRing will, at its own discretion:</p>
 
@@ -550,24 +79,26 @@ This Online Privacy Policy covers use of the site <a href="http://www.brassring.
 	<li>From time to time send our visitors and/or clients e-mail messages with new site feature announcements, enhancements, maintenance information and general updates.</li>
 	<li>Collect and store information generated through use of our on-line business services.  We may use some of this information in the aggregate for marketing research, such as, for example, in compiling statistics on BrassRing's website visitors, base, and in assessing clients' business needs. If we decide to mention a particular client on the site, we will take reasonable steps to gain that client's assent before posting.</li>
 	<li>Collect and store information provided directly or indirectly to us through participation in online contests and/or client satisfaction surveys and the like.</li>
+
 	<li>Create standard usage logs through our web server, such as IP address, browser type, and access times.</li>
 	<li>Collect prospective employee information through use of our own application for internal job placement.  That information will be treated according to local regulations governing employment practices.</li>
 	<li>Tie standard usage logs and cookie (session ID and persistent) information to personally identifiable information. Cookies are information generated by our servers for use with your browser for site navigation and application delivery. Cookies are required to log into the services we provide on the site.</li>
 	<li>Use our web server to recognize your domain name and track your use of the website.</li>
 	<li>Request certain information from you (such as your name, address, telephone number, e-mail address or business requirements) to help us evaluate our site traffic and overall usage, improve our on-line services, and build better websites. We may add information from third parties to this collected information, for instance to research prospective clients</li>
 	<li>Provide access via a hyperlink in an email or a web page or through on-line support when you need to update or correct your contact information or, for clients, to report a bug or problem with your system.</li>
+
 	<li>Provide users who no longer wish to receive promotional communications the ability to an opt -out of receiving these communications.</li>
 	<li>Only use client data to provide the services or information that a client has requested.  We take industry and reasonable steps to keep business information confidential</li>
 	<li>Communicate with users on a regular basis to provide requested services and in response to issues relating to your account via email or phone.</li>
 	<li>When you place an order online, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. BrassRing uses a service company to process its credit card transactions. For further information on this company's privacy and security practices, please go to: http://www.verisign.com/truste/index.html.</li>
 </ol>
 
-<p>BrassRing has a Privacy Officer who is responsible for BrassRing's compliance with and enforcement of this Policy.  BrassRing's Privacy Officer, Ronald Poore, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices.  BrassRing's Privacy Officer may be contacted by email at <a href="mailto:Rpoore@brassring.com">Rpoore@brassring.com</a>, by telephone at 781.530.5155 or by mail at BrassRing, 343 Winter Street, Waltham, MA 02451. If users have questions or concerns regarding this statement, they should first contact Ronald Poore.   If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the <a href="http://www.truste.org/watchdog.html">TRUSTe Watchdog Dispute Resolution Process</a> (<a href="http://www.truste.org/watchdog.html">http://www.truste.org/watchdog.html</a>). TRUSTe will serve as a liaison with BrassRing to resolve users' concerns.  The BrassRing Web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by the BrassRing Web site.</p>
+<p>BrassRing has a Privacy Officer who is responsible for BrassRing's compliance with and enforcement of this Policy.  BrassRing's Privacy Officer, Ronald Poore, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices.  BrassRing's Privacy Officer may be contacted by email at <a href="mailto:Rpoore@brassring.com">Rpoore@brassring.com</a>, by telephone at 781.530.5155 or by mail at BrassRing, 343 Winter Street, Waltham, MA 02451. If users have questions or concerns regarding this statement, they should first contact Ronald Poore.   If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the <a href="http://www.truste.org/watchdog.html">TRUSTe Watchdog Dispute Resolution Process</a>. TRUSTe will serve as a liaison with BrassRing to resolve users' concerns.  The BrassRing Web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by the BrassRing Web site.</p>
 
 <p>Please see Section IV. General, for additional provisions that related to brassring.com web site privacy practices.</p>
 
-<p><strong>III.	BrassRing's ASP Privacy Policy</strong><br>
-This ASP Privacy Policy applies only to all transfers of personally identifiable information ("Personal Information") received by BrassRing in any format through its hosted recruitment software (<em>Enterprise</em>, and/or <em>Talent Gateways</em>™), whether supplied directly by BrassRing customers or by candidates for employment at BrassRing customers anywhere in the world, including transfers from the European Economic Area (EEA) to the United States.  Any other visitors to BrassRing.com should refer to the On-Line Privacy Policy which covers non-ASP BrassRing.com website use. </p>
+<h4>III.	BrassRing's ASP Privacy Policy</h4>
+<p>This ASP Privacy Policy applies only to all transfers of personally identifiable information ("Personal Information") received by BrassRing in any format through its hosted recruitment software (<em>Enterprise</em>, and/or <em>Talent Gateways</em>™), whether supplied directly by BrassRing customers or by candidates for employment at BrassRing customers anywhere in the world, including transfers from the European Economic Area (EEA) to the United States.  Any other visitors to BrassRing.com should refer to the On-Line Privacy Policy which covers non-ASP BrassRing.com website use. </p>
 
 <p>BrassRing abides by the EU Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the European Union.  As such we operate as a data processor for our hosted recruitment software customers.  Our hosted recruitment software customers fill the role of data controller.  Individual users involved in recruitment activities usually interact directly with BrassRing's customers rather than with BrassRing.  BrassRing provides its customers the option of disclosing their relationship with us by providing notice to individual employees and candidates of the customer about the BrassRing technology that they use.  BrassRing maintains only that information related to the candidate recruitment process, which our customers' have asked us to process.  This ASP Privacy Policy does not reflect the privacy practices of BrassRing's customers and BrassRing is not responsible for its customers' privacy policies or practices.  BrassRing does not review, comment upon or monitor its customers' compliance with their respective privacy policies, nor does BrassRing review its customer instructions to determine whether they are in compliance with or conflict with the terms of a customer's published privacy policy.</p>
 
@@ -593,7 +124,7 @@ BrassRing has a Privacy Officer who is responsible for BrassRing's compliance wi
 <p>For human resources data we have agreed to cooperate with Data Protection Authorities.
 Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted recruitment software customer for whom BrassRing processes data should be addressed to that customer.</p>
 
-<p><strong>IV.	General</strong></p>
+<h4>IV.	General</h4>
 <ol>
 	<li><strong>Security</strong><br>
 	BrassRing has implemented reasonable technical and organizational measures designed to secure personal information collected on our website as well as Personal Data processed on behalf of its customers from accidental loss and from unauthorized access, use, alteration or disclosure including, in appropriate circumstances, the use of firewalls, restricted access, and encrypted transmissions. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.</li>
@@ -605,139 +136,21 @@ Any questions, comments or complaints about the data practices (including withou
 	BrassRing committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. BrassRing does not knowingly collect information from children under the age of 13 and BrassRing does not target its website or its products to children under 13.</li>
 </ol> 
 
-<p>See also: <a href="/en/html/terms.asp">BrassRing Terms of Use</a></p>
-<p align="right">Last updated on: 29 December 2003</p>
-<div align="center"><img src="/en/img/safeharbormark.gif" alt="" width="116" height="41" border="0"></div>
+<p>See also: <a href="/en/html/constants/terms.asp">BrassRing Terms of Use</a></p>
+<p align="right">Last updated on: 26 August 2003</p>
+<div align="center"><img src="/en/img/logos/safeharbormark.gif" alt="" width="116" height="41" border="0"></div>
+
+<p>© 2005 BrassRing LLC. All Rights Reserved</p>
+
+</div> <!-- end #content -->
+
+<div id="footer">
+<a href="/en/html/offerings/index.asp">OFFERINGS</a> | <a href="/en/html/results/index.asp">RESULTS</a> | <a href="/en/html/company/index.asp">COMPANY</a> | <a href="/en/html/careers/index.html">CAREERS</a> | <a href="/en/html/constants/terms.asp">TERMS OF USE</a> | <a href="/en/html/constants/privacy.asp">PRIVACY</a> | <a href="http://brinfo.brassring.com/Newsletter/Subscribe.aspx">NEWSLETTER</a><p>BrassRing's HR solutions include human resources software, HR outsourcing, targeted candidate slates, job posting, contract recruiting and recruiter training. BrassRing's recruiting software improves your career website brand, applicant tracking, workforce management, assessment and talent management. 
+
+© 2005 BrassRing LLC. All Rights Reserved</p>
+</div> <!-- end #footer -->
+
+</div> <!-- end #container -->
 
 
-                            <!-- #EndEditable --></td>
-                          </tr>
-                          <tr align="right">
-                            <td valign="bottom" colspan="2"><img src="/en/img/global/shim.gif" width="100" height="10"></td>
-                          </tr>
-                          <tr align="right"> 
-                            <td valign="bottom" colspan="2"><!-- InstanceBeginEditable name="backtotop" --><a href="#top" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image42','','/en/img/global/arrow_top_f2.gif',1)"><img name="Image42" border="0" src="/en/img/global/arrow_top.gif" width="117" height="12" alt="Back to Top"></a><!-- InstanceEndEditable --></td>
-                          </tr>
-                          <tr> 
-                            <td colspan="2"><img src="/en/img/global/shim.gif" width="100" height="5"></td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-                <td valign="top">&nbsp;</td>
-              </tr>
-              <tr> 
-                <td valign="top" colspan="3"><img src="/en/img/global/shim.gif" width="100" height="15"></td>
-              </tr>
-              <tr> 
-                <td valign="top">&nbsp;</td>
-                <td valign="top"> 
-                  <table border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr>
-                      <td class="arial-8pt"><a href="/en/html/index.asp">Home</a></td>
-                      <td width="15" class="arial-8pt"><div align="center">|</div>
-                      </td>
-                      <td class="arial-8pt"><a href="/en/html/solutions/index.asp">Our&nbsp;Solutions</a></td>
-                      <td width="15" class="arial-8pt"><div align="center">|</div>
-                      </td>
-                      <td class="arial-8pt"><a href="/en/html/about/index.asp">About&nbsp;BrassRing</a></td>
-                      <td width="15" class="arial-8pt"><div align="center">|</div>
-                      </td>
-                      <td class="arial-8pt"><a href="/en/html/client_support/index.asp">Support</a></td>
-                      <td width="15" class="arial-8pt"><div align="center">|</div>
-                      </td>
-                      <td class="arial-8pt"><a href="http://brinfo.brassring.com/sales/InfoRequest.html">Contact&nbsp;Us</a></td>
-                      <td width="15" class="arial-8pt"><div align="center">|</div>
-                      </td>
-                      <td class="arial-8pt"><a href="/en/html/about/careers/index.asp">Careers&nbsp;at&nbsp;BrassRing</a></td>
-                      <td width="15" class="arial-8pt"><div align="center">|</div>
-                      </td>
-                      <td class="arial-8pt"><a href="http://info.brassring.com/Apps/DCS/mcp?q=ST1hxDTFZMAQ5I">Newsletters</a></td>
-                      <td width="15" class="arial-8pt"><div align="center">|</div>
-                      </td>
-                      <td class="arial-8pt"><a href="/en/html/site_map/index.asp">Site&nbsp;Map</a></td>
-                      <td width="15" class="arial-8pt"><div align="center">|</div>
-                      </td>
-                      <td class="arial-8pt"><a href="/en/html/privacy.asp">PRIVACY</a></td>
-					  <td width="15" class="arial-8pt"><div align="center">|</div>
-                      </td>
-					<td class="arial-8pt"><a href="/en/html/terms.asp">Terms of Use</a></td>
-                    </tr>
-                  </tbody></table>
-
-                </td>
-                <td valign="top">&nbsp;</td>
-              </tr>
-              <tr> 
-                <td valign="top">&nbsp;</td>
-                <td valign="top" class="arial-7pt">
-                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr>
-                      <td class="arial-7pt"><img src="/en/img/global/shim.gif" width="100" height="5"></td>
-                    </tr>
-                    <tr> 
-                      <td height="50" valign="top" class="arial-7pt"><!-- #BeginEditable "tagline" -->BrassRing
-                          offers HR software that improves applicant tracking,
-                          workforce management, and employee management. BrassRing’s
-                          HR solutions also include HR consulting, targeted resume
-                          databases, job posting, career events, recruiting services
-                          and recruiter training.<!-- #EndEditable --> 
-                         © 2005 BrassRing LLC. All Rights Reserved
-
-                      </td>
-                    </tr>
-                  </tbody></table>
-                  <div align="right"></div>
-                </td>
-                <td valign="top">&nbsp;</td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td valign="bottom" align="center" background="/en/img/global/shim.gif" bgcolor="#ffffff">&nbsp; 
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-<script>
-  if (browserInfo.ie && browserInfo.mac) {
-    adjustTableHeight("innertable", "95%");
-  }
-    if (browserInfo.ns) {
-    adjustTableHeight("leftshim", "350");
-  }
-</script>
-<!-- START RedSheriff Measurement V5.01 -->
-<!-- COPYRIGHT 2002 RedSheriff Limited -->
-<script language="JavaScript" type="text/javascript"><!--
-  var _rsCI="us-brassring";
-  var _rsCG="0";
-  var _rsDT=0;
-  var _rsSI=escape(window.location);
-  var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
-  var _rsRP=escape(document.referrer);
-  var _rsND=_rsLP+'//server-us.imrworldwide.com/';
-
-  if (parseInt(navigator.appVersion)>=4) {
-    var _rsRD=(new Date()).getTime();
-    var _rsSE=1;
-    var _rsSV="";
-    var _rsSM=0.0;
-    _rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v5.js"></scr'+'ipt>';
-  } else {
-    _rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
-  }
-  document.write(_rsCL);
-//--></script><script language="JavaScript" type="text/javascript" src="https://server-us.imrworldwide.com/v5.js"></script>
-<noscript>
-<img src="//server-us.imrworldwide.com/cgi-bin/m?ci=us-brassring&amp;cg=0" alt="">
-</noscript>
-<!-- END RedSheriff Measurement V5.01 -->
-
-<!-- InstanceEnd -->
 </body></html>
