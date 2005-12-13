@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverfronttimes.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307083742id_/http%3A//www.riverfronttimes.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverfronttimes.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213210810id_/http%3A//www.riverfronttimes.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # riverfronttimes.com | About
 
