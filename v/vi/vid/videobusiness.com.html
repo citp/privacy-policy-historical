@@ -1,590 +1,1185 @@
-<!--The following is the downloaded HTML source of the videobusiness.com privacy policy that was archived on 2005-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050405004421id_/http%3A//www.videobusiness.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the videobusiness.com privacy policy that was archived on 2005-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051213204211id_/http%3A//videobusiness.com/info/CA624820.html) for the most accurate reproduction.-->
 
-<html><head>
-		<title>Video Business Online</title><meta name="keywords" content="Video, Business, Video, Business, Video Business magazine, production, marketing, distribution, DVD, VHS, prerecorded DVD, prerecorded VHS, pay-per-view, video-on-demand, Internet video, digital video">
-<meta name="description" content="Video Business is a leading business-to-business provider of news, perspective and data relating to the creation and delivery of home entertainment content. The magazine covers the production, marketing, distribution and sales of prerecorded DVD and VHS; pay-per-view and video-on-demand; Internet video; and digital video.">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+
+<title>Video Business Online - Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="en-us">
+<meta content="MSHTML 6.00.2715.400" name="GENERATOR">
+<meta name="robots" content="index, follow, noarchive">
+
+<script language="JavaScript" type="text/javascript">
+function AddCommas(num){
+// Check to see if the number needs any commas
+num = num + '';
+if (num.length > 3) {
+// Figure out how many commas need to go in
+var count;
+var numcommas;
+
+count = 0;
+numcommas = 0;
+while (count < num.length) {
+count = count + 3;
+if (count < num.length) {
+numcommas = numcommas + 1;
+}
+}
+
+// Put the commas in.
+var NewNumber;
+var TempNumber;
+
+count = 0;
+TempNumber = num;
+NewNumber = '';
+for(count = 0; count < numcommas; count++) {
+NewNumber = ',' + TempNumber.substring(TempNumber.length - 3,TempNumber.length) + NewNumber;
+TempNumber = TempNumber.substring(0, TempNumber.length - 3);
+}
+NewNumber = TempNumber + NewNumber;
+document.write(NewNumber);
+} else {
+// Number is less then 3 and doesnt need any commas.
+// Just print the number.
+document.write(num);
+}
+}
+
+// Read Cookie
+function getCookie(Name) {
+	var search = Name + "=";
+	if (document.cookie.length > 0) {
+	  	offset = document.cookie.indexOf(search);
+			if (offset != -1) {
+      			offset += search.length;	// set index of beginning of value         
+		      	end = document.cookie.indexOf(";", offset);  // set index of end of cookie value         
+      			if (end == -1) end = document.cookie.length;
+		      	return unescape(document.cookie.substring(offset,end));
+		}
+	}
+}
+
+// Set Cookie
+function setCookie(name, value, expire) {  
+	document.cookie = name + "=" + escape(value)   + ((expire == null) ? "" : ("; expires=" + expire.toGMTString()))
+}
 
 
-		<link href="styles.css" rel="stylesheet" media="screen">
+function makeCookie(name,value,days)
+{
+	if (days)
+	{
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = ""; 
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function deleteCookie(name)
+{
+	makeCookie(name,"",-1);
+}
+
+function getCookie(name)
+{
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++)
+	{
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+</script>
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+
+sfHover = function() {
+	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+//--><!]]></script>
+
+<script language="JavaScript">
+function appendLocation(theLink) {
+    var thisPage = "" + location;
+    var bits = thisPage.split("&");
+    var s = ""
+    for (var i = 0; i < bits.length; i++) {
+      s += bits[i] + "^"
+    }
+    if (s == "") {
+      theLink.href = theLink.href + "&refPage=" + thisPage
+     } else {
+       theLink.href = theLink.href + "&refPage=" + s
+    }
+    return true;
+}
+</script>
+<script language="JavaScript">
+
+function CheckForm(){
+
+mystr = document.emailArticle.mailTo.value;
+varArr = new Array();
+varArr = mystr.split(";");
+
+for (j=0; j<=varArr.length-1; j++){
+     
+     if(!ValidEmail(varArr[j]))
+     {strMsg = "The Colleague email address you typed is invalid.";            
+     alert(strMsg);
+     document.emailArticle.mailTo.focus();
+     return false;
+     }
+}
+
+if (!ValidEmail(document.emailArticle.mailFrom.value))
+   {strMsg = "The email address you typed as yours is invalid.";            
+    alert(strMsg);
+    document.emailArticle.mailFrom.focus();
+    return false;
+   }
+
+addRefPage();
+}
+
+function ValidEmail(email) {
+
+var invalidChars = " /:,;";
+var invalidChar;
+
+if (email == "") {
+   return false;
+}
+
+for (i=0; i<invalidChars.length; i++) {
+     invalidChar = invalidChars.charAt(i)
+     if (email.indexOf(invalidChar,0) != -1) {
+         return false;
+     }
+     }
+     atPos = email.indexOf("@",1)
+     if (atPos == -1) {
+        return false;
+     }
+     if (email.indexOf("@",atPos+1) != -1) {
+        return false;
+     }
+     periodPos = email.indexOf(".",atPos)
+     if (periodPos == -1) {
+        return false;
+     }
+     if (periodPos+3 > email.length) {
+        return false;
+     }       
+
+     return true;
+}
+
+function addRefPage() {
+     var loc = "" + location
+     if (loc.indexOf("&refPage") == -1) 
+     return  
+     var ref = loc.substring( loc.indexOf("&refPage=") + 9, loc.length );
+     document.emailArticle.refPage.value = ref
+     return true;}
+// End -->
 
 
-	</head>
-
-	<body bgcolor="#333399" link="#cc0000" vlink="#cc0000" alink="#ff9900" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
-
-		
+</script>
 
 <script language="JavaScript">
 <!--
-function Add_A_Favorite() {
-
-// if the browser is IE open the add favorite window
-	if (window.external) {
-		external.AddFavorite(location.href, document.title)
-		// Add the document location and title to the AddFavorite window
-	}else {
-		// Display and alert box for any other browser.
-		alert("Sorry, your browser doesn't support this feature.\nPlease use the bookmark feature of your browser to save the location of this page.");
+function urlMenu(that) {
+	theURL = that.options[that.selectedIndex].value; 
+	if (theURL) {
+		window.location = theURL;
 	}
 }
-// -->
-</script>
-
-
-<table id="Table_01" width="780" height="101" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr height="44">
-		<td colspan="2" rowspan="3" width="121" height="100"><a href="index.asp"><img src="graphics/vblogo.gif" width="121" height="100" alt="" border="0"></a></td>
-		<td colspan="6" width="659" height="44" background="graphics/masthead.gif">
-			<div align="right">
-				<table width="80" border="0" cellspacing="2" cellpadding="0" height="100%">
-					<tbody><tr>
-						<td valign="middle" nowrap=""><font size="-2" color="white" face="Verdana, Arial, Helvetica, sans-serif"><b>
-
-						<a href="login.asp"><font color="white">Registered users, <u>login here</u></font></a>
-
-						</b></font></td>
-					</tr>
-					<tr>
-						<td align="right" valign="middle" nowrap="">
-							<div align="right">
-								<font size="-2" color="white" face="Verdana, Arial, Helvetica, sans-serif"><b><a href="javascript:Add_A_Favorite()"><font color="white">Make VideoBusiness.com Your Home Page</font></a></b></font></div>
-						</td>
-					</tr>
-				</tbody></table>
-			</div>
-		</td>
-	</tr>
-	<tr height="27">
-		<td colspan="2" width="181" height="27"><img src="graphics/searchbarslug.gif" width="181" height="27" alt=""></td>
-		<form action="searchResults.asp" method="get"></form>
-		<td align="center" valign="middle" width="204" height="27" background="graphics/searchbar.gif"><font size="-2" color="white" face="Verdana, Arial, Helvetica, sans-serif"><b>SEARCH: <input type="text" name="query" value="" size="14"> <input type="image" src="graphics/go.gif" alt="" height="26" width="35" align="absmiddle" border="0"></b></font></td>
-		
-		<td align="left" valign="middle" width="106" height="27" background="graphics/searchbar.gif">
-			<div align="left">
-				<a href="adv_search.asp"><img src="graphics/advancedsearch.gif" alt="" height="9" width="97" border="0"></a></div>
-		</td>
-		<td width="6" height="27"><img src="graphics/searchspacer.gif" width="6" height="26" alt=""></td>
-		<td align="center" valign="middle" width="162" height="27" background="graphics/date.gif">
-			<div align="center">
-				<font size="-2" color="white" face="Helvetica, Geneva, Arial, SunSans-Regular, sans-serif">Monday, April 04, 2005</font></div>
-		</td>
-	</tr>
-	<tr height="29">
-		<td width="79" height="29"><img src="graphics/news_nav.gif" width="79" height="29" alt=""></td>
-		<td colspan="5" valign="bottom" width="580" height="29">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr height="25">
-					<td align="center" valign="middle" width="8" height="25"><font size="-3" face="Verdana, Arial, Helvetica, sans-serif"><img src="graphics/tabcapleft.gif" alt="" height="25" width="8" align="absmiddle" border="0"></font></td>
-					<td align="center" valign="middle" height="25" background="graphics/tabbackground.gif">
-						<div align="center">
-							<a href="news.asp?catID=4"><img src="graphics/dvd_tab.gif" alt="" height="20" width="22" align="absbottom" border="0"></a></div>
-					</td>
-					<td align="center" valign="middle" width="15" height="25"><font size="-3" face="Verdana, Arial, Helvetica, sans-serif"><img src="graphics/tabcapmiddle.gif" alt="" height="25" width="16" align="absmiddle" border="0"></font></td>
-					<td align="center" valign="middle" height="25" background="graphics/tabbackground.gif">
-						<div align="center">
-							<a href="news.asp?catID=30"><img src="graphics/retail_tab.gif" alt="" height="19" width="120" align="absbottom" border="0"></a></div>
-					</td>
-					<td align="center" valign="middle" width="15" height="25"><font size="-3" face="Verdana, Arial, Helvetica, sans-serif"><img src="graphics/tabcapmiddle.gif" alt="" height="25" width="16" align="absmiddle" border="0"></font></td>
-					<td align="center" valign="middle" height="25" background="graphics/tabbackground.gif">
-						<div align="center">
-							<a href="news.asp?catID=14"><img src="graphics/studios_tab.gif" alt="" height="20" width="46" align="absbottom" border="0"></a></div>
-					</td>
-					<td align="center" valign="middle" width="15" height="25"><font size="-3" face="Verdana, Arial, Helvetica, sans-serif"><img src="graphics/tabcapmiddle.gif" alt="" height="25" width="16" align="absmiddle" border="0"></font></td>
-					<td align="center" valign="middle" height="25" background="graphics/tabbackground.gif">
-						<div align="center">
-							<a href="news.asp?catID=6"><img src="graphics/videogames_tab.gif" alt="" height="19" width="69" align="absbottom" border="0"></a></div>
-					</td>
-					<td align="center" valign="middle" width="15" height="25"><font size="-3" face="Verdana, Arial, Helvetica, sans-serif"><img src="graphics/tabcapmiddle.gif" alt="" height="25" width="16" align="absmiddle" border="0"></font></td>
-					<td align="center" valign="middle" height="25" background="graphics/tabbackground.gif">
-						<div align="center">
-							<a href="news.asp?catID=3"><img src="graphics/vod_tab.gif" alt="" height="20" width="22" align="absbottom" border="0"></a></div>
-					</td>
-					<td align="center" valign="middle" width="15" height="25"><font size="-3" face="Verdana, Arial, Helvetica, sans-serif"><img src="graphics/tabcapmiddle.gif" alt="" height="25" width="16" align="absmiddle" border="0"></font></td>
-					<td align="center" valign="middle" height="25" background="graphics/tabbackground.gif">
-						<div align="center">
-							<a href="news.asp?catID=5"><img src="graphics/satellite_tab.gif" alt="" height="19" width="82" align="absbottom" border="0"></a></div>
-					</td>
-					<td align="center" valign="middle" width="15" height="25"><font size="-3" face="Verdana, Arial, Helvetica, sans-serif"><img src="graphics/tabcapmiddle.gif" alt="" height="25" width="16" align="absmiddle" border="0"></font></td>
-					<td align="center" valign="middle" height="25" background="graphics/tabbackground.gif">
-						<div align="center">
-							<a href="news.asp?catID=1"><img src="graphics/internet_tab.gif" alt="" height="20" width="52" align="absbottom" border="0"></a></div>
-					</td>
-					<td align="center" valign="middle" width="8" height="25"><font size="-3" face="Verdana, Arial, Helvetica, sans-serif"><img src="graphics/tabcapright.gif" alt="" height="25" width="8" border="0"></font></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr height="1">
-		<td width="26" height="1"><img src="graphics/spacer.gif" width="26" height="1" alt=""></td>
-		<td width="95" height="1"><img src="graphics/spacer.gif" width="95" height="1" alt=""></td>
-		<td width="79" height="1"><img src="graphics/spacer.gif" width="79" height="1" alt=""></td>
-		<td width="102" height="1"><img src="graphics/spacer.gif" width="102" height="1" alt=""></td>
-		<td width="204" height="1"><img src="graphics/spacer.gif" width="204" height="1" alt=""></td>
-		<td width="106" height="1"><img src="graphics/spacer.gif" width="106" height="1" alt=""></td>
-		<td width="6" height="1"><img src="graphics/spacer.gif" width="6" height="1" alt=""></td>
-		<td width="162" height="1"><img src="graphics/spacer.gif" width="162" height="1" alt=""></td>
-	</tr>
-</tbody></table><table width="780" border="0" cellspacing="0" cellpadding="0" height="99">
-	<tbody><tr height="99">
-		<td bgcolor="black" width="26" height="99"><img src="graphics/advertisement.gif" alt="" height="99" width="26" border="0"></td>
-		<td align="left" valign="middle" bgcolor="black" width="754" height="99"><script src="http://ads.vpi.net/ad.php?aloc=26"></script></td>
-
-	</tr>
-</tbody></table>
-
-
-
-<table border="0" cellspacing="0" cellpadding="0" height="14">
-	<tbody><tr>
-		<td align="center" valign="top" bgcolor="silver" width="142"><img src="graphics/spacer.gif" alt="" height="14" width="142" border="0"></td>
-		<td align="right" valign="top" bgcolor="#dcdcdc" width="496"><img src="graphics/spacer.gif" alt="" height="14" width="482" border="0"><img src="graphics/contentcorner.gif" alt="" height="14" width="14" border="0"></td>
-		<td align="center" valign="top" bgcolor="#990000" width="142"><img src="graphics/spacer.gif" alt="" height="14" width="14" border="0"></td>
-	</tr>
-</tbody></table>
-
-
-		<table width="780" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td align="center" valign="top" bgcolor="silver" width="142">
-				<!-- begin left nav -->
-					<div align="center">
-
-					<script language="JavaScript" type="text/javascript">
-<!--
-     NS4 = (document.layers);
-     IE4 = (document.all);
-    ver4 = (NS4 || IE4);
-	 IE5 = (IE4 && navigator.appVersion.indexOf("5.")!=-1);
-   isMac = (navigator.appVersion.indexOf("Mac") != -1);
-  isMenu = (NS4 || (IE4 && !isMac) || (IE5 && isMac));
-function popUp(){return};
-function popDown(){return};
-if (!ver4) event=null;
 //-->
 </script>
-<script language="javascript" src="menus.js"></script>
 
-<form action="subscribe.asp" method="get" name="FormName">
-	<table width="120" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr height="20">
-			<td valign="middle" height="20" background="graphics/sidebarheader.gif"><img src="graphics/spacer.gif" alt="" height="19" width="4" align="absmiddle" border="0"><b><font size="-2" color="white" face="Verdana">Subscribe to:</font></b></td>
-		</tr>
-	</tbody></table>
-	<table width="120" border="0" cellspacing="0" cellpadding="1" bgcolor="black">
-		<tbody><tr>
-			<td align="center" valign="middle">
-				<table width="118" border="0" cellspacing="0" cellpadding="4" bgcolor="white">
-					<tbody><tr>
-						<td colspan="2" align="center" valign="top" bgcolor="#990000"><a href="subscribe.asp" target="_blank"><img src="graphics/videobusinesscover.gif" alt="" height="140" width="108" border="0"></a><br>
-							<table border="0" cellspacing="0" cellpadding="2">
-								<tbody><tr>
-									<td valign="middle"><input type="radio" name="subTo" value="Magazine" border="0"></td>
-									<td valign="middle"><b><font size="-2" color="white" face="Verdana">Magazine<br>
-											</font></b></td>
-								</tr>
-								<tr>
-									<td valign="middle"><input type="radio" name="subTo" value="eLetter" border="0"></td>
-									<td valign="middle"><b><font size="-2" color="white" face="Verdana">E-Newsletter</font></b></td>
-								</tr>
-							</tbody></table>
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-	</tbody></table>
-	<table width="120" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td align="right" valign="top">
-				<div align="right">
-					<input type="image" src="graphics/gobutton.gif" alt="" border="0" height="17" width="41"></div>
-			</td>
-		</tr>
-	</tbody></table>
-</form>
 
-<form action="searchResults.asp" method="get">
-	<div align="left">
-		<table width="134" border="0" cellspacing="0" cellpadding="6">
-			<tbody><tr>
-				<td background="graphics/sidebarnavbackground.gif">
-					<div align="right">
-						<a href="index.asp"><b><font size="-2" color="white" face="Verdana">HOME</font></b></a><br>
-						<img src="graphics/redrule.gif" alt="" height="8" width="122" border="0"><br><a href="http://www.dvdexclusive.com/" target="_blank"><b><font size="-2" color="white" face="Verdana">DVD EXCLUSIVE</font></b></a><br>
-						<img src="graphics/redrule.gif" alt="" height="8" width="122" border="0"><br><a href="marketdata.asp" onmouseout="MM_swapImgRestore(), popDown('elMenu3')" onmouseover="MM_swapImage('document.Image2','document.Image2',''), popUp('elMenu3',event)"><b><font size="-2" color="white" face="Verdana">MARKET DATA</font></b></a><br>
-						<!--<img src="graphics/redrule.gif" alt="" height="8" width="122" border="0"><br><a href="reviews.asp" onMouseOut="MM_swapImgRestore(), popDown('elMenu2')" onMouseOver="MM_swapImage('document.Image2','document.Image2',''), popUp('elMenu2',event)"><b><font size="-2" color="white" face="Verdana">PRODUCT DIGEST</font></b></a><br>-->
-						<img src="graphics/redrule.gif" alt="" height="8" width="122" border="0"><br><a href="reviews.asp"><b><font size="-2" color="white" face="Verdana">TIPSHEET REVIEWS</font></b></a><br>
+  <script language="JavaScript">
+<!--
+function checkSearch() 
+{ 
+  if (document.SearchForm.text.value == "")
+  {
+    window.alert("Please enter a text value to be searched for.");
+    return false;
+  }
 
-						<!--<img src="graphics/redrule.gif" alt="" height="8" width="122" border="0"><br><a href="newReleases.asp"><b><font size="-2" color="white" face="Verdana">NEW RELEASES</font></b></a><br>-->
-						<img src="graphics/redrule.gif" alt="" height="8" width="122" border="0"><br><a href="newReleases.asp" onmouseout="MM_swapImgRestore(), popDown('elMenu2')" onmouseover="MM_swapImage('document.Image2','document.Image2',''), popUp('elMenu2',event)"><b><font size="-2" color="white" face="Verdana">NEW RELEASES</font></b></a><br>
+  document.SearchForm.text.value = trim(document.SearchForm.text.value.toLowerCase());
+  return true;
+ 
+}
 
-						<img src="graphics/redrule.gif" alt="" height="8" width="122" border="0"><br><a href="resources.asp"><b><font size="-2" color="white" face="Verdana">RESOURCES</font></b></a><br>
-						<img src="graphics/redrule.gif" alt="" height="8" width="122" border="0"><br><a href="commentary.asp" onmouseout="MM_swapImgRestore(), popDown('elMenu1')" onmouseover="MM_swapImage('document.Image2','document.Image2',''), popUp('elMenu1',event)"><b><font size="-2" color="white" face="Verdana">COMMENTARY</font></b></a><br>
-						<img src="graphics/redrule.gif" alt="" height="8" width="122" border="0"><br><a href="article.asp?articleID=3226&amp;catID=19"><b><font size="-2" color="white" face="Verdana">EVENTS</font></b></a><br>
-						<img src="graphics/redrule.gif" alt="" height="8" width="122" border="0"><br><a href="classifieds.asp"><b><font size="-2" color="white" face="Verdana">CLASSIFIEDS</font></b></a><br>
-						<img src="graphics/redrule.gif" alt="" height="8" width="122" border="0"><br><a href="http://reed4success.com/default.asp?magid=144&amp;promocode=WCB97XX8" target="_blank"><b><font size="-2" color="white" face="Verdana">FREE PRINT<br>SUBSCRIPTIONS</font></b></a><br>
-						<img src="graphics/redrule.gif" alt="" height="8" width="122" border="0"><br><a href="aboutus.asp" onmouseout="MM_swapImgRestore(), popDown('elMenu5')" onmouseover="MM_swapImage('document.Image2','document.Image2',''), popUp('elMenu5',event)"><b><font size="-2" color="white" face="Verdana">ABOUT US</font></b></a><br>
-						<img src="graphics/redrule.gif" alt="" height="8" width="122" border="0"><br><a href="http://www.varietycareers.com/" target="_blank"><b><font size="-2" color="white" face="Verdana">INDUSTRY JOBS</font></b></a><br>
-						<br><b><font size="-2" color="white" face="Verdana">SEARCH:</font></b><br>
-								<input type="text" name="query" value="" size="10"><br>
-								<img src="graphics/spacer.gif" alt="" height="5" border="0"><br>
-								<select name="catType">
-								<option value="">All</option>
-								<option value="NEWS">News</option>
-								<option value="COMMENTARY">Commentary</option>
-								<option value="REVIEWS">Reviews</option>
-								<option value="AUTHORS">By Author</option>
-								</select><br><a href="adv_search.asp" title="Click here for advanced search"><font size="-2" color="white" face="Verdana"><u>Advanced Search</u></font></a>
-								</div>
-				</td>
-			</tr>
-		</tbody></table>
-		<table width="134" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td align="right" valign="top"><input type="image" src="graphics/gobutton.gif" alt="" border="0" height="17" width="41"></td>
-			</tr>
-		</tbody></table>
-	</div>
-</form>
-<!--form action="subscribe.asp" method="get" name="FormName">
-	<table width="120" border="0" cellspacing="0" cellpadding="0">
-		<tr height="20">
-			<td valign="middle" height="20" background="graphics/sidebarheader.gif"><img src="graphics/spacer.gif" alt="" height="19" width="4" align="absmiddle" border="0"><b><font size="-2" color="white" face="Verdana">Subscribe to:</font></b></td>
-		</tr>
-	</table>
-	<table width="120" border="0" cellspacing="0" cellpadding="1" bgcolor="black">
-		<tr>
-			<td align="center" valign="middle">
-				<table width="118" border="0" cellspacing="0" cellpadding="4" bgcolor="white">
-					<tr>
-						<td colspan="2" align="center" valign="top" bgcolor="#990000"><a href="subscribe.asp"><img src="graphics/videobusinesscover.gif" alt="" height="140" width="108" border="0"></a><br>
-							<table border="0" cellspacing="0" cellpadding="2">
-								<tr>
-									<td valign="middle"><input type="radio" name="subTo" value="Magazine" border="0"></td>
-									<td valign="middle"><b><font size="-2" color="white" face="Verdana">Magazine<br>
-											</font></b></td>
-								</tr>
-								<tr>
-									<td valign="middle"><input type="radio" name="subTo" value="eLetter" border="0"></td>
-									<td valign="middle"><b><font size="-2" color="white" face="Verdana">E-Newsletter</font></b></td>
-								</tr>
-							</table>
-						</td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-	</table>
-	<table width="120" border="0" cellspacing="0" cellpadding="0">
-		<tr>
-			<td align="right" valign="top">
-				<div align="right">
-					<input type="image" src="graphics/gobutton.gif" alt="" border="0" height="17" width="41"></div>
-			</td>
-		</tr>
-	</table>
-</form-->
-<!-- Begin Left 120x180 Ad -->
-<!--a href="http://www.411publishing.com/cahners/index.asp" target="_blank"><img src="graphics/Agents-120x180.gif" alt="" height="180" width="120" border="0"></a-->
-<!--script src="http://ads.vpi.net/ad.php?aloc=11"></script-->
-<!-- End Left 120x180 Ad -->
+function trim(psText) 
+{
+	psText = psText.replace(/^[\s]+/g,"");
+	psText = psText.replace(/[\s]+$/g,"");
+	return psText;
+}
 
-<!--<a href="http://www.dvdexclusive.com/article.asp?articleID=1814" target="_blank"><img src="graphics/DVDXAwards_Poster.jpg" alt="" border="0"></a><br><br>-->
-<a href="http://www.dvdexclusive.com" target="_blank"><img src="graphics/DVDPremieresOnline.gif" alt="" height="62" width="120" border="0"></a><br><br>
+function magazineSelect()
+{
+for (var i=0; i < document.magazineForm.magazine.length; i++)
+   {
+   if (document.magazineForm.magazine[i].checked)
+      {
+      var magazine = document.magazineForm.magazine[i].value;
+      }
+   }
+    if (magazine == "VB Magazine")
+      {
+      window.location.replace("http://reed4success.com/default.asp?magid=144&promocode=WCB97XX8");
+      }
+    else 
+      {
+      window.location.replace("subscribe.asp?returnURL=/subscribe.asp"); 
+      }
+    return false;
+}
 
-<!-- Begin Left 120x180 Ad 1-->
-<!--script src="http://ads.vpi.net/ad.php?aloc=24"></script-->
-<!-- End Left 120x180 Ad 1-->
+//-->
+</script>
+<script language="JavaScript">
 
+function CheckEventForm(ThisForm)
+{
+var x;
+var count;
+var vertnum;
+var temp;
+        
+	if (ThisForm.mail_Email.value == "")
+	{
+		alert("Email address is required.");
+		ThisForm.mail_Email.focus();
+		return false;
+	}
+	else if (!ValidEmail(ThisForm.mail_Email.value)) 
+	{
+		strMsg = "The Email address you typed is invalid.";		
+		alert(strMsg);
+		ThisForm.mail_Email.focus();
+                                return false;
+	}
+
+	if (ThisForm.mail_FirstName.value == "")
+	{
+		alert("Your first name is required.");
+		ThisForm.mail_FirstName.focus();
+		return false;
+	}
+
+	if (ThisForm.mail_LastName.value == "")
+	{
+		alert("Your last name is required.");
+		ThisForm.mail_LastName.focus();
+		return false;
+	}
+
+	if (ThisForm.mail_Company.value == "")
+	{
+		alert("Your Company is required.");
+		ThisForm.mail_Company.focus();
+		return false;
+	}
+	
+	if (ThisForm.mail_Country.value == "")
+	{
+		alert("Your Country is required.");
+		ThisForm.mail_Country.focus();
+		return false;
+	}
+
+	if (ThisForm.mail_Event.value == "")
+	{
+		alert("Event is required.");
+		ThisForm.mail_Event.focus();
+		return false;
+	}
+
+	if (ThisForm.mail_Description.value == "")
+	{
+		alert("Description is required.");
+		ThisForm.mail_Description.focus();
+		return false;
+   }
+   
+   if ((ThisForm.mail_StartDate.value == "")||(ThisForm.mail_StartDate.value == "mm/dd/yyyy"))
+	{
+		alert("Start Date is required.");
+		ThisForm.mail_StartDate.focus();
+		return false;
+   }
+   else if (!CheckDate(ThisForm.mail_StartDate.value)) 
+	{
+		strMsg = "The start date is invalid. (format should be MM/DD/YYYY)";		
+                                alert(strMsg);
+		ThisForm.mail_StartDate.focus();
+                                return false;
+	}
+
+   if ((ThisForm.mail_EndDate.value == "")||(ThisForm.mail_EndDate.value == "mm/dd/yyyy"))
+	{
+		alert("End Date is required.");
+		ThisForm.mail_EndDate.focus();
+		return false;
+	}
+   else if (!CheckDate(ThisForm.mail_EndDate.value)) 
+	{
+		strMsg = "The end date is invalid. (format should be MM/DD/YYYY)";	
+		alert(strMsg);
+		ThisForm.mail_EndDate.focus();
+      return false;
+	}
+	
+	ToDay = new Date();
+	month1 = ToDay.getMonth()+1;
+	day1   = ToDay.getDate();
+	if (month1 < 10) month1 = '0'+month1;
+        if (day1 <10) day1 = '0'+day1;
+	var TodayDate = month1 + '/' + day1 + '/' + ToDay.getFullYear();
+	if ( !CheckDiffDate(TodayDate,ThisForm.mail_StartDate.value) )
+	{
+		strMsg = "You entered a start date which is earlier than today's date";	
+		alert(strMsg);
+		ThisForm.mail_StartDate.focus();
+      return false;
+	}
+	
+
+	if (!CheckDiffDate(ThisForm.mail_StartDate.value,ThisForm.mail_EndDate.value) )
+	{
+		strMsg = "You entered an end date which is earlier than the start date";	
+		alert(strMsg);
+		ThisForm.mail_EndDate.focus();
+      return false;
+	}
+
+ThisForm.mailFrom.value = ThisForm.mail_Email.value;
+}
+
+
+function CheckDate(sDate) 
+{
+	var flag;
+	var dYear = (new Date());
+	var splitString = sDate.split("/");
+	var MM = splitString[0];
+	var DD = splitString[1];
+	var YY = splitString[2];
+
+	dYear = dYear.getYear();
+	flag = 1;
+   if ((typeof(MM) == 'undefined') || (typeof(DD) == 'undefined') || (typeof(YY) == 'undefined')) {return false;} 
+
+	if (MM.length !== 2) {return false;}
+	if (DD.length !== 2) {return false;}
+	if (YY.length !== 4) {return false;}
+	if ( isNaN(MM) || isNaN(DD) || isNaN(YY) ) {return false;}
+	if ( MM.charAt(0) == '0' ) { MM = MM.substring(1,2); }
+	if ( DD.charAt(0) == '0' ) { DD = DD.substring(1,2); }
+	
+	var IntMM = parseInt(MM);
+	var IntDD = parseInt(DD);
+	if (IntDD > 0)
+	{
+		if (IntDD < 29) 
+			{flag = 0;}
+		else if ( ( IntMM==1 || IntMM==3 || IntMM==5 || IntMM==7 || IntMM==8 || IntMM==10 || IntMM==12 ) && IntDD<32 ) 
+			{flag = 0;}
+		else if ( ( IntMM==4 || IntMM==6 || IntMM==9 || IntMM==11 ) && IntDD<31 ) 
+			{flag = 0;}
+		else if ( IntMM==2 && parseInt(YY / 4) == parseFloat(YY / 4) && IntDD==29 ) {flag = 0;}
+	}
+	if (flag == 1) {return false;}
+	return true;   
+}
+
+
+function CheckDiffDate(sDate,eDate) 
+{
+	var splitString = sDate.split("/");
+	var Start = splitString[2] + splitString[0] + splitString[1];
+	splitString = eDate.split("/");
+	var End = splitString[2] + splitString[0] + splitString[1];
+	
+	if ( Start>End ) {return false;}
+	return true;
+}
+// End -->
+</script>
+
+
+<style type="text/css">
+/*Global Structure*/
+body {margin: 0px; padding:0px; background-color: #fff;}
+#bodycontainer {width: 1002px; border:1px solid #000; margin:0px; padding:0px;}
+#bodyPrint{width: 600px; margin:0px; padding:5px; border: 0;}
+#bodytable {width: 100%; padding:0px; margin:1px 0px 1px 0px;}
+.leftcol {width: 169px; margin:0px; padding:0px; background-color: #FFE39A; border-right: 1px solid #BBB4B4; border-left: 1px solid #fff;}
+.centercol {width: 702px; margin:0px; padding:0px; border-left: 1px solid #000;}
+.rightcol {width: 129px; margin:0px; padding:0px; border-left: 1px solid #000;}
+#leftcolcontainer {margin:0px; padding:0px; width: 100%;}
+#centercolcontainer {padding: 3px 6px 3px 6px;}
+#rightcolcontainer {padding: 2px 2px 2px 3px; margin:0px; text-align:center;}
+
+/*Global Styles*/
+body, p, td {font: 11px verdana, sans-serif; color: #000; line-height: 15px;}
+a {color: #800401;}
+a:hover {color: #666;}
+.byline {font: 9px verdana, sans-serif; color: #767475;}
+#topstory {padding: 3px; font: 12px verdana, sans-serif; line-height: 19px;}
+#topstory p {padding: 0px; margin:5px 0px 5px 0px; font: 12px verdana, sans-serif; line-height: 19px;}
+.more {font: 11px verdana, sans-serif; color: #800401;}
+.uppercase {text-transform:uppercase;}
+h1.headLarge, h1.headlarge, .headLarge {font: bold 13px verdana, sans-serif; color:#9B1F1C; text-transform: uppercase;margin: 0px;padding:0px; line-height: 18px;}
+h2.nib {font: bold 11px verdana, sans-serif; color:#9B1F1C; margin: 0px; padding:0px;line-height: 16px;}
+h3.byline {font: bold 11px verdana, sans-serif; color:#9B1F1C; margin: 0px 0px 15px 0px; padding:0px;line-height: 16px;}
+#centerhead {color: #890D0B; border-bottom: 1px solid #530F0C; text-transform:uppercase; font: bold 10px verdana, sans-serif;}
+.red {color: #810505;}
+#more {text-align:right; font: normal 10px verdana, sans-serif;}
+#more a, #more a:visited {color: #7D7C7A; text-decoration: none;}
+#more a:hover {color: #666;}
+.head {font-weight: bold;}
+#breadcrumb {font: normal 10px verdana, sans-serif;margin-bottom:10px;}
+#newssubhead {margin:5px 12px; 0 12px;}
+#newssubhead td {color: #890D0B; border-bottom: 1px solid #530F0C; text-transform:uppercase; font: bold 10px verdana, sans-serif;padding:5px 0 1px 0;text-align:center;}
+#newssubhead td a {text-decoration:none;}
+
+
+/*Archive Images*/
+#articleimage {margin-left:5px;width:150px;}
+#articleimage tr td {font-size:10px;line-height:12px;}
+
+/*Articles*/
+#articlecontent {padding: 10px 7px 10px 7px; margin:0px;}
+#articleleftcol {border-right: 1px solid #9B1F1C; padding: 0px 3px 3px 3px;text-align:center; width:84px;}
+#articlerightcol {padding:0px 6px 6px 6px;}
+#articleprint {border-top:1px solid #9B1F1C; border-bottom:1px solid #9B1F1C;}
+#articleemail {border-bottom:1px solid #9B1F1C;}
+#articlecolumnist {text-align:left;}
+#articlecolumnist p {margin:0px; padding:5px; font-size: 10px; line-height: 12px;}
+#articlebox {background-color: #FDF5E2; border: 1px solid #FDE5A9;margin-top: 2px; margin-bottom: 2px;padding: 3px;font: 10px verdana, sans-serif;}
+#articletalkback {border: 1px solid #AFA8A8;background-color: #F3F1F1;}
+#articletalkbackhead {margin:1px; border: 1px solid #706767; background: url(http://www.broadcastingcable.com/contents/images/vbHeaderGrayBg.gif) repeat-x top left;); font: bold 10px verdana, sans-serif; color: #fff; text-indent: 5px; padding:0px; }
+#articletalkbackhead span {color: #FFE39A; font-style:italic}
+#articletalkbackhead a {text-decoration:none; color: #fff;}
+#articletalkbackcontent {padding:7px; font: 10px verdana, sans-serif; color: #655E5E; line-height: 17px;}
+#articletalkbackcontent a {font: 10px verdana, sans-serif; color: #655E5E; line-height: 17px;}
+#articletalkbackcontent a:hover {color: #333;}
+
+/*Boxes*/
+#boxblack {border: 1px solid #000; margin-bottom: 5px;}
+#boxwhite {border: 1px solid #fff;}
+#boxyellow {border: 1px solid #DE8503;}
+#boxgray {border: 1px solid #AFA8A8;background-color:#F3F1F1;}
+#boxpeach {background-color: #FDF5E2; border: 1px solid #FDE5A9;margin-top: 2px; margin-bottom: 2px;padding: 3px;}
+#boxhead {background: url(http://www.broadcastingcable.com/contents/images/vbHeaderBg.gif) repeat-x bottom left; height:15px;font: bold 10px verdana, sans-serif; text-transform: uppercase; padding-left: 5px;color: #800401}
+#boxcontent {padding: 3px; margin:0px;}
+#boxmore {background-color:#FFBD11; border-top: 1px solid #fff; padding-left:3px;}
+#boxmore a, #boxmore a:visited {color: #fff;}
+#boxmore a:hover {color: #666;}
+
+/*Classifieds*/
+.classifiedtitle {font-weight: bold;}
+.classifieddesc p {padding-top:0;margin-top:0;}
+.classified {background-color:#FDF5E2;padding:5px;border:1px solid #FDE5A9;}
+.classifiedimg img {border:1px solid black;margin-right:10px;}
+
+/*Commentary*/
+#homecommentary {padding:3px; font: 10px verdana, sans-serif; height: 1%;}
+.homecommleft {float:left; width:85px;}
+.homecommright {float:right; width: 152px;}
+#homecommentary hr {height: 1px; color: #000;}
+#commentary {padding: 3px; margin:0px;}
+#commentary .head {border-right: 1px solid #fff; width: 33%;}
+#commentary .grayline {border-right: 2px solid #7F7677;}
+#commentary .top {border-bottom: 1px solid #000; height: 300px;}
+#commentary p {margin:0px; padding:2px;}
+#homereviews p {margin:0px;padding:0px;}
+
+/*Events*/
+#events {padding:0px;}
+#events td p {padding-top:0px;margin-top:0px;}
+#events td.eventsleft {border: 1px solid #F8E599; background-color: #FFEEC8; text-align:center; font-weight: bold;}
+#events td.eventsright {border: 1px solid #F8E599; background-color: #FDF4E2;}
+ul.events {margin:0px; padding-left: 30px;}
+ul.events li a {text-decoration:none; font: bold 10px verdana, sans-serif;}
+
+/*Footer*/
+#footer {background-color: #000;width:1000px; voice-family: "\"}\""; voice-family:inherit; width: 1002px;}
+#footer div {text-align:center; font: 10px arial, sans-serif; color: #fff; padding: 10px;}
+#footer a {color: #E48F00; text-decoration:none;}
+#footer a:hover {color: #fff;}
+
+/*Header*/
+#header {margin:0px; padding:0px; background-color: #9B1F1C; height: 139px; border-bottom:1px solid #000; font: normal 11px arial,sans-serif; color: #fff; width:1000px; voice-family: "\"}\""; voice-family:inherit; width: 1002px}
+#headerLeft {background: url(/contents/images/vblogo_text.gif) no-repeat top left; height:137px; float:left;margin:0px; padding:0px; position: relative; width: 268px;}
+#headerRight {height:137px; float:right; margin:0px; padding:0px; width:732px; voice-family: "\"}\""; voice-family:inherit; width: 734px;}
+#leaderboard {background-color: #800401; padding: 0px;  margin:0px;}
+#leaderboard div {padding: 5px 0px 5px 0px; text-align:left;}
+
+/*Header Logo Links*/
+#headerLeft .reedlogo {top: 92px; left: 140px; width: 120px; height: 15px; position:absolute; display:block; cursor: pointer; text-decoration:none; text-indent: -99999px;}
+#headerLeft .logo {top: 15px; left: 6px; width: 120px; height: 105px; position:absolute; display:block; cursor: pointer; text-decoration:none; text-indent: -99999px;}
+#headerLeft .varietylogo {top: 110px; left: 138px; width: 124px; height: 15px; position:absolute; display:block; cursor: pointer; text-decoration:none; text-indent: -99999px;}
+
+/*Header Search and Date*/
+#search {background: url(/contents/images/vbSearchBorderBg.gif) no-repeat top left; height: 37px; margin:0px; padding:0px; border-top:1px solid #fff;}
+#search2 {margin-left:2px; padding:5px 0px 0px 0px; border-top:1px solid #53110F; color: #fff;vertical-align:middle;}
+#searchnavcontent {float: left;width: 83%; padding:2px; margin:0px;}
+#date {float: right; width: 14%; padding: 6px 0px 0px 0px; margin:0px; text-align:middle;}
+#searchform {margin:0px; padding:0px 0px 0px 20px; font-weight:bold;}
+#searchform img {margin:0px; padding:0px; vertical-align:middle;}
+#searchform input{padding: 0px;margin:2px;vertical-align:middle;}
+#searchform .searchtext {border: 1px solid #353453; width: 310px; padding:1px;}
+#searchform .searchselect {border: 1px solid #353453; padding:0px; margin:0px; font: 11px arial, sans-serif; color: #000; vertical-align:middle; width: 120px;}
+#searchform .searchsubmit {margin: 2px 0px 0px 2px; padding:0px; }
+
+/*Home*/
+#boxpoll {background-color: #F3F1F2;border: 1px solid #ADA9AA;margin-top: 3px; padding: 3px;}
+#boxpollspons {font-size: 9px;border:1px solid #ACAAAB; border-top: none;padding:5px 0;}
+#varietyCareer {margin-top: 5px; border: 1px solid #000; padding: 5px; text-align:center; font: 10px verdana, sans-serif; color: #666;}
+#varietyCareer a, #varietyCareer a:visited {font: 10px verdana, sans-serif; color: #666;}
+#varietyCareer a:hover {font: 10px verdana, sans-serif; color: #333;}
+
+/*Left Nav*/
+#nav {border-bottom: 1px solid #000;}
+#nav, #nav ul {padding: 0; margin: 0; list-style: none; float: left; background-color: #FFE39A; width: 169px;} /* 1st level ul */
+#nav li {position: relative; color: #800401; font: bold 10px verdana, sans-serif; text-transform: uppercase; padding: 3px; border-bottom: 1px solid #BBB4B4;  border-top: 1px solid #000;} /* 1st level li */
+#nav li a {color: #800401; text-decoration:none; display:block}
+#nav li ul {margin: 0px; padding: 0px; list-style: none; position : absolute; left: -999em; background-color: #FFE39A; border: solid 1px #000;
+border-top:none;} /* 2nd level ul */
+#nav li li {position: relative; color: #000; font: bold 10px verdana, sans-serif;} /* 2nd level li */ 
+#nav li li a {display: block; color: #800401; text-decoration: none;}
+#nav li:hover, #nav li a:hover, #nav li.sfhover {background-color: #FFD05A;}
+#nav li li:hover, #nav li li a:hover, #nav li li.sfhover {background-color: #FFD05A;}
+#nav li:hover ul ul, #nav li.sfhover ul ul {left: -999em;}
+/* lists nested under hovered list items */
+#nav li:hover ul, #nav li li:hover ul, #nav li.sfhover ul, #nav li li.sfhover ul {top: 0px; left: 15.0em; voice-family: "\"}\""; voice-family:inherit; left: 16.6em; z-index: 1;}
+#nav .listtop {border-top:none}
+#nav #assocpub {border-top:1px solid #000; margin:0px;padding:0px;}
+#nav #assocpub2 {padding:top:0px; margin:0px;border:1px solid #fff; border-left: none;background-color: #7F7574; color: #fff; text-align: center;font:  bold 10px verdana, sans-serif;text-transform:uppercase;}
+#nav #listspecial {background: #FFD15A url(http://www.broadcastingcable.com/contents/images/vbLeftColSpecial.gif) no-repeat left;}
+#nav #listspecial a {display:block;}
+
+/*Left Subscribe */
+#subscribe {margin:1px 0 0 0; padding:0 0 5px 0;text-align:left; border-bottom: 1px solid #000; border-top: 1px solid #000;}
+#subscribeHeader {color: #fff; background-color:#810505; text-align:center;  padding:2px;text-transform: uppercase; font-weight: bold;border-bottom: 1px solid #fff;}
+#subscribeContent {padding:2px;line-height:24px;}
+#subscribe form {margin:0px;padding:0px 0px 0px 0px;text-align:left;}
+#subscribe .newsletter {padding:0px 0px 0px 5px;}
+#subscribe .signup {padding:0px 0px 0px 0px;}
+
+/*Market Data*/
+.marketheader {border:2px solid #fff;padding:4px;}
+td.marketheader {color:#fff;font:bold 10px Tahoma, Arial, sans-serif;background-color:#800401;}
+td.marketheader a {color:#fff;font:bold 10px Tahoma, Arial, sans-serif;}
+td.marketheader a:hover{color:#fff;font:bold 10px Tahoma, Arial, sans-serif;text-decoration:none;}
+.marketdataeven {border:2px solid #fff;padding:4px;}
+.marketdataeven {background-color:#FEEEC6;}
+.marketdataodd {border:2px solid #fff;padding:4px;}
+.marketdataodd {background-color:#FDF5E2;}
+#marketdatahome, #marketdatahome p, #marketdatahome td, #marketdatahome div {font: 10px verdana, sans-serif;}
+#marketdatahome .source {color: #7A7879;}
+
+/*New Releases*/
+#newreleases {background-color: #FDF5E2; border: 1px solid #FDE5A9;margin-top: 2px; margin:3px;padding: 3px;}
+#newreleases p {margin:0px; padding:3px;}
+#newreleases .title {font-size: 12px;}
+
+/*Polls*/
+#pollheader {color: #890D0B; border-bottom: 1px solid #530F0C; text-transform:uppercase; font: bold 10px verdana, sans-serif;}
+#pollquestion {padding: 0px 0px 0px 5px;}
+.pollanswer {font: bold 11px verdana, sans-serif; color: #890D0B;}
+
+/*Research*/
+#researchboxtop {background-color:#FDEEC5; font-weight: bold;padding:5px 5px 2px 5px;}
+#researchboxtop1 {padding-bottom: 2px; border-bottom: 1px dashed #000;}
+#researchboxcontent {border: 1px solid #FDEEC5; background-color: #FDF5E2; margin-top: -1px;padding-bottom: 3px;}
+#researchboxcontent ul {margin:0px; padding-left: 20px;}
+#researchboxcontent ul li {padding: 3px;}
+#researchboxbottom {margin-top: -2px; margin-bottom: 10px; background-color:#FDEEC5; font-weight: bold;padding:1px 5px 2px 5px;}
+#researchboxbottom1 {border-bottom: 1px dashed #000; padding: 1px;}
+#researchtoplinks a, #researchtoplinks a:visited {font: bold 10px verdana, sans-serif;text-decoration:none; color: #800402;}
+#researchtoplinks a:hover {color: #666;}
+
+/*Resources*/
+.resourcesub {border: 1px solid #F8E599; background-color: #FDF4E2;padding:7px;font-weight: bold;text-transform:uppercase;margin:6px;}
+.resourcelist {border: 1px solid #F8E599; background-color: #FFEDC5;padding:7px;font-weight: bold;margin:6px 6px 12px 6px;}
+.resourcelist ul {margin:15px;padding:0;}
+.resourcetitle {font-weight: bold;}
+.resourcetitle {font-weight: bold;}
+.resourcedesc p {;color:#800401;}
+.resourceabstract {color:#800401;}
+.resourceodd {padding:5px;border:1px solid black;background-color:#eee;}
+.resourceeven {padding:5px;}
+
+/*Reviews*/
+#reviewstoc a, #reviewstoc a:visited {font-weight: bold;}
+
+/*Search Results*/
+.searchheadleft {display:inline; float:left; }
+.searchheadright {display:inline; float:right; width: 210px;text-transform:none; font-weight:normal;text-align:right;}
+.normal {text-transform:none; font-weight:normal; padding-left: 50px;}
+#searchmore {margin-bottom: 20px}
+#searchresources {margin-bottom: 5px}
+#searchresources p {margin:0px; padding: 0px;}
+
+/*Registraion*/
+.normalred {FONT: bold 12px Arial, Helvetica, Geneva, sans-serif; COLOR: #ff0000}
+
+/*Google Ads*/
+#google {
+	margin: 5px 0px 0px 0px;
+	padding: 0px 0px 5px 0px;
+	background-color: #fff;
+	border: 1px solid #000;
+	text-align: left;
+}
+div.googleSponsor {
+	margin: 0px;
+	padding: 2px 0px 20px 0px;
+	text-align: center;
+	color: #000000;
+	font: normal 10px verdana, arial,sans-serif;
+	text-decoration: underline;
+}
+div.googleAd {
+	margin: 0px;
+	padding: 5px 2px 0px 2px;
+	color: #840400; 
+	font: bold 10px verdana, arial,sans-serif;
+	text-decoration: underline;
+}
+div.googleAdText {
+	margin: 0px;
+	padding: 0px 2px 0px 2px;
+	font: normal 10px verdana, arial,sans-serif; 
+	color: #000000;
+}
+div.googleAdURL {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 2px 20px 2px;
+	color: #840400;
+	font: normal 10px arial,sans-serif; 
+}
+
+
+</style>
+
+
+</head>
+
+<body>
+
+<div id="bodycontainer"><div id="header">
+		<div id="headerLeft"><a href="http://www.videobusiness.com/" class="logo" title="Video Business Online">Video Business Online</a><br><a href="http://www.reedbusiness.com/" title="Reed Business Information" class="reedlogo">Reed Business Information</a><br><a href="http://www.variety.com" title="A Variety Group Publication" class="varietylogo">A Variety Group Publication</a></div>
+		<div id="headerRight">
+			<div id="leaderboard"><div align="right" style="padding-right:2px;"><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/vb.rbi/;dcopt=ist;lay=contentinfodetail;desc=CA624820;sz=728x90;u=1085320987|534700762|965009754|0|contentinfodetail|CA624820||;ord=1134495742?"></script><script><!--
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0))
+{
+document.write('<a href="http://ad.doubleclick.net/jump/vb.rbi/;lay=contentinfodetail;desc=CA624820;sz=728x90;u=1085320987|534700762|965009754|0|contentinfodetail|CA624820||;ord=1134495742?">');
+document.write('<img src="http://ad.doubleclick.net/ad/vb.rbi/;lay=contentinfodetail;desc=CA624820;sz=728x90;u=1085320987|534700762|965009754|0|contentinfodetail|CA624820||;ord=1134495742?" width="728" height="90" border="0"></a>');
+}
+//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/vb.rbi/;lay=contentinfodetail;desc=CA624820;sz=728x90;u=1085320987|534700762|965009754|0|contentinfodetail|CA624820||;ord=1134495742?"><img src="http://ad.doubleclick.net/ad/vb.rbi/;lay=contentinfodetail;desc=CA624820;sz=728x90;u=1085320987|534700762|965009754|0|contentinfodetail|CA624820||;ord=1134495742?" width="728" height="90" border="0"></a></noscript></div></div>
+			<div id="search">
+				<div id="search2">
+					<div id="searchnavcontent">
+<form id="searchform" name="SearchForm" onsubmit="return checkSearch()" action="http://www.videobusiness.com/index.asp" method="get"><input type="hidden" value="searchResults" name="layout">Search VB:<script language="javascript" type="text/javascript">
+function stripQts2(name){
+var newName = "";
+var test = name.split(unescape("%27%27")); //split the field on ascii code for double ''
+for(i=0;i<test.length;i++){
+	if(i!=(test.length - 1)){		
+		newName = newName + test[i] + "'"  // put it back together with an "'" 
+	}
+	else{
+		newName = newName + test[i] // make sure end of string has no "'"
+	}
+}
+	userQuery = newName;
+}
+
+var tempQuery="";
+userQuery = "";
+
+for (i = 0; i < tempQuery.length; i++)
+  if ((tempQuery.charAt(i)=='%') &&
+     (tempQuery.charAt(i+1)=='2') &&
+     (tempQuery.charAt(i+2)=='2'))
+       {userQuery = userQuery + '&quot;';
+        i=i+2;
+       }
+  else
+       {if (tempQuery.charAt(i)=="+")
+	     userQuery = userQuery + " "
+		else
+		 userQuery = userQuery + tempQuery.charAt(i);
+       }
+
+userQuery=unescape(userQuery);
+stripQts2(userQuery);
+document.write('<input type="text" name="text" value="' + userQuery + '"  class="searchtext" />')
+</script><input type="text" name="text" value="" class="searchtext">
+
+<select name="content" class="searchselect">
+<option value="all" selected="">Entire Site</option>
+<option value="articles">All Articles</option>	
+<option value="commentary">Commentary</option>
+<option value="resources">Resources</option>
+<option value="events">Events</option>
+<option value="newreleases">New Releases</option>
+</select>
+<input type="image" src="http://a330.g.akamai.net/7/330/2540/20050520210656/www.videobusiness.com/contents/images/vbSearchGo.gif" width="28" height="22" class="searchsubmit">
+					</form>
 					</div>
-				<!-- end left nav -->
-				</td>
+					<div id="date"><script language="JavaScript">var now = new Date();
+var monNames = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+document.write("" + monNames[now.getMonth()] + " " + now.getDate() + ", " + now.getFullYear());</script>January 31, 2020</div>
+					<div style="clear:both"></div>
+				</div><!-- end search2-->
+			</div><!--end search-->
+		</div><!--end headerRight-->
+		<div style="clear:both"></div>
+	</div> <!-- end header-->
+	<table cellpadding="0" cellspacing="0" border="0" id="bodytable">
+		<tbody><tr>
+			<td class="leftcol" valign="top">
+				<div id="leftcolcontainer">
+				<div id="subscribe" align="left">
+<div id="subscribeHeader">Subscribe for free</div>
+							<div id="subscribeContent"><a href="http://www.videobusiness.com/subscribe.asp"><img src="http://a330.g.akamai.net/7/330/2540/20050714143904/www.videobusiness.com/contents/images/vbIssueCover.gif" width="68" height="88" alt="Subscribe to Video Business" border="0" align="right" style="padding-left:5px;"></a>
+							<form name="magazineForm" onsubmit="return magazineSelect();">
+								<div style="padding:9px  0;"><input type="radio" name="magazine" value="VB Magazine"><b><span style="color:#810505;letter-spacing:-1px;">VB Magazine</span></b><br></div>
+								<div class="newsletter"><b>eNewsletters</b></div>										<div style="padding-bottom:6px;"><input type="radio" name="magazine" value="Weekly Summary"> Weekly Summary<br></div>
+								<div style="padding-bottom:6px;"><input type="radio" name="magazine" value="Indie Film"> Indie Film Guide<br></div>
 
-				<td align="center" valign="top" bgcolor="#dcdcdc" width="496">
-				<!-- begin content section -->
+	<div style="padding-bottom:6px;"><input type="radio" name="magazine" value="TV DVD Enews"> TV DVD Enews<br></div>
 
-				<table width="98%" align="center" border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr height="20">
-						<td valign="bottom" bgcolor="#333399" width="6" height="20"><img src="graphics/spacer.gif" alt="" height="16" width="6" border="0"></td>
-						<td valign="middle" bgcolor="#333399" width="400" height="20"><font size="-1" color="white" face="Verdana"><b>VIDEOBUSINESS.COM - PRIVACY POLICY</b></font></td>
-						<td valign="bottom" width="74" height="20"><img src="graphics/headercap.gif" alt="" height="20" width="20" border="0"></td>
-					</tr>
-				</tbody></table>
-				<table width="98%" border="0" cellspacing="0" cellpadding="1" bgcolor="#333399">
-					<tbody><tr>
-						<td align="center" valign="middle">
-							<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
-								<tbody><tr>
-									<td colspan="3" valign="top" bgcolor="white">
-										<table width="100%" border="0" cellspacing="0" cellpadding="2">
-											<tbody><tr>
-												<td>
+								<div align="center"><input type="image" src="http://a330.g.akamai.net/7/330/2540/20050715170617/www.videobusiness.com/contents/images/vbSignUp.gif" class="signup"></div>
+							</form>
+							</div>
+		
+				</div> <!-- end subscribe -->
+<div id="nav">
+					<ul>
+						<li class="listtop"><a href="http://www.videobusiness.com/index.asp?layout=newsBreaking&amp;starting=1" style="display:inline">News</a>
+							<ul>
+						   	<li><a href="http://www.videobusiness.com/community/893/Studios+%2F+Suppliers/43292.html">Studios / Suppliers</a></li>
+						   	<li><a href="http://www.videobusiness.com/community/893/Retail/43291.html">Retail</a></li>
+						   	<li><a href="http://www.videobusiness.com/community/893/Video+Distributors/43293.html">Video Distributors</a></li>
+							<li><a href="http://www.videobusiness.com/community/893/New+Tech/43290.html">New Tech</a></li>
+							<li><a href="http://www.videobusiness.com/community/893/VOD/43295.html">VOD</a></li>
+							<li><a href="http://www.videobusiness.com/community/893/Videogames/43294.html">Videogames</a></li>
+							</ul><img src="http://a330.g.akamai.net/7/330/2540/20050531204708/www.videobusiness.com/contents/images/vbLeftColArrow.gif" width="4" height="8" alt="" style="padding-left: 120px;">
+						</li>
+						<li><a href="http://www.videobusiness.com/index.asp?layout=marketData" style="display:inline">Market Data</a>
+					
+		<ul>
+						   	<li><a href="http://www.videobusiness.com/index.asp?layout=marketData&amp;content=topvideorenters">Top Renters</a></li>
+	<li><a href="http://www.videobusiness.com/index.asp?layout=marketData&amp;content=toptvrenters">Top TV Renters</a></li>
+	<li><a href="http://www.videobusiness.com/index.asp?layout=marketData&amp;content=topmusicrenters">Top Music Renters</a></li>
+	<li><a href="http://www.videobusiness.com/index.asp?layout=marketData&amp;content=topdvdpremiererenters">Top DVD Premiere Renters</a></li>
+	<li><a href="http://www.videobusiness.com/index.asp?layout=marketData&amp;content=topforeignrenters">Top Foreign Renters</a></li>
+	<li><a href="http://www.videobusiness.com/index.asp?layout=marketData&amp;content=topanimerenters">Top Anime Renters</a></li>
+	<li><a href="http://www.videobusiness.com/index.asp?layout=marketData&amp;content=topchildrensrenters">Top Children’s Renters</a></li>
+	<li><a href="http://www.videobusiness.com/index.asp?layout=marketData&amp;content=topgamerenters">Top Game Renters</a></li>
 
-	<table width="100%" border="0" bordercolor="#112d01"><tbody><tr><td><font face="arial" size="-1">
+	<li><a href="http://www.videobusiness.com/topTVSellers.asp">Top TV Sellers</a></li>
+	<li><a href="http://www.videobusiness.com/topDVDSellers.asp">Top DVD Sellers</a></li>
+							<li><a href="http://www.videobusiness.com/index.asp?layout=marketData&amp;content=topgamesellers">Top Game Sellers</a></li>
 
-	<b>Overview</b>
-	<p>
-	This Privacy Policy describes the policies of Reed Business Information ("RBI" or "we"), a division of Reed Elsevier Inc. ("Reed Elsevier"), regarding the collection, use, disclosure and protection of the following types of information:
-	</p><p>
-	</p><li>Information obtained when you and other users ("you" or "Users") visit the [www.videobusiness.com] Web site (the "Site").
-	</li><li>Information obtained through e-mail communications with you related to the Site.
-	<p>
-	This privacy policy does not apply to information that we may collect from you by other means (including offline) or from other sources.  Your use of this Site constitutes your acceptance of all of the terms and conditions contained in this Privacy Policy and your consent to any action we take with respect to your information that is in compliance with this Privacy Policy.
-	</p><p>
-	We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time.  Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.
-	</p><p>
-	If you do not agree to this Privacy Policy, as modified from time to time, please do not visit this Site.
-	</p><p>
-	<b>Information We Collect and How We Collect It</b>
-	</p><p>
-	<b>General</b>
-	</p><p>
-	We require you to provide us with certain information about yourself when you register with this Site and when you request products and services.  We also collect information from you when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site, such as moderated discussions and bulletin boards.
-	</p><p>
-	The information we collect may include information from which you may be personally identified ("Personally Identifiable Information"), such as name, postal address, telephone number, fax number and e-mail address, and also may include certain business information, such as employer name, occupation, job function, job title and buying information (e.g., preferences or history).  We also will collect credit card and related information when you request a product or service (including registering for the Site) for which there is a charge.  This Site only collects Personally Identifiable Information with your knowledge.
-	</p><p>
-	<b>Automatic Data Collection</b>
-	</p><p>
-	When you visit this Site, we may collect the IP address of your computer.
-	</p><p>
-	We also automatically record other information that identifies your computer to this Site and tracks your behavior on the Site.  For example, we may record how many times you visit this Site and your navigation within the Site.  We do not collect Personally Identifiable Information in this manner; however, if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
-	</p><p>
-	Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons").  A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive.  Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site.   A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message.  A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message.
-	</p><p>
-	Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include those described in the preceding paragraph. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. You may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at www.privacychoices.org.
-	</p><p>
-	<b>How We Use Your Information</b>
-	</p><p>
-	<b>General</b>
-	</p><p>
-	We use Personally Identifiable Information that we collect on this Site for the following purposes:
-	</p><p>
-	</p></li><li>To provide you with this Site and other products and services, such as electronic and print publications and newsletters.
-	</li><li>To respond to your inquiries and contact you about changes regarding the Site.
-	</li><li>To provide you with e-mail, fax and other notices (such as expiration and renewal notices) and inquiries regarding your account and the products or services that you are receiving, and for billing and collection purposes.
-	</li><li>For any other purpose disclosed at the time the information is collected or to which you consent.
-	</li></font><li><font face="arial" size="-1">As otherwise specifically described in this Privacy Policy.
-	<p>
-	We also may use your information to better understand the needs of our Users and to improve our Site.  For example, we may use this information to determine what portions of the Site are most popular and the demographics of our Users generally.  Cookies and other User information also enable us to customize your experience on the Site.
-	</p><p>
-	We may use IP addresses to help diagnose problems with our servers or to administer our Site.  We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of the Site.
-	</p><p>
-	<b>Newsletters and Offers</b>
-	</p><p>
-	We may use the information you provide us to send you e-mail, fax and other communications on behalf of RBI or other Reed Elsevier divisions.  These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other RBI and Reed Elsevier services.  All of these communications will include instructions explaining how you can request that we not send you ("opt out" of) future communications of the same type.
-	</p><p>
-	We also may use your information to send you e-mail, fax and other communications on behalf of unaffiliated third parties.  When you register with and provide information to this Site you will be given an opportunity to opt out of our sending you offers on behalf of third parties.  In addition, each of these communications will include instructions for opting out of receiving future third party offers from us.  You may also opt out of receiving third party offers from this Web Site at any time [on the registration page of this Site or] by sending an e-mail to <a href="mailto:privacymanager@reedbusiness.com">privacymanager@reedbusiness.com</a> with the subject line "opt out – third party."
-	</p><p>
-	<b>Our Disclosure of Your Information</b>
-	</p><p>
-	We will not disclose your information to anyone outside of RBI or other Reed Elsevier divisions, except as described in this section.
-	</p><p>
-	We may disclose aggregated anonymous statistics about many Users to advertisers, content and service providers and other affiliated and unaffiliated companies.
-	</p><p>
-	We sometimes engage third parties to perform services for us, including in connection with this Site, that require us to disclose Users’ Personally Identifiable Information to them.  If we make any such disclosure, we will require such parties to keep the information confidential and to use it only to perform the services.
-	</p><p>
-	We also may disclose your information to third parties that wish to market products or services that may be of interest to you.  We will require these parties to keep any Personally Identifiable Information provided by us confidential and use it only to market and provide their products or services or with your approval.  When you register with and provide information to this Site, you will be given an opportunity to opt out of our disclosing your Personally Identifiable Information as described in this paragraph.  You may also opt out of such disclosures at any time [on the registration page of this Site or] by sending an e-mail to <a href="mailto:eletters@reedbusiness.com">eletters@reedbusiness.com</a> with the subject line "do not disclose."
-	</p><p>
-	The only other times we may disclose your Personally Identifiable Information collected on this Site are as follows:
-	</p><p>
-	</p><ul>
-	<li>In the event of an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site, we may transfer some or all User information, including Personally Identifiable Information, to the successor company.
-	</li><li>We will disclose your Personally Identifiable Information when we believe such disclosure is required by law or for the protection of persons or property.
-	</li><li>We may disclose your Personally Identifiable Information with your consent, as well as when disclosure is necessary to accomplish the purpose for which you provide it.  For example, when you request information from advertisers in the "Reader Services" section of our publications, we will disclose your Personally Identifiable Information to the advertisers you specify.
-	</li></ul>
-	<p>
-	<b>Security</b>
-	</p><p>
-	We use reasonable security safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure.  However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
-	</p><p>
-	<b>Right to Access and Change Information</b>
-	</p><p>
-	You may view and update information that you previously submitted to this Site by sending an e-mail to <a href="mailto:privacymanager@reedbusiness.com">privacymanager@reedbusiness.com</a>.  However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information.  Requests to view or change personal information may take a few days to process.
-	</p><p>
-	<b>Opt-Out</b>
-	</p><p>
-	This Privacy Policy describes certain opportunities you will have to opt out of our using or disclosing your Personally Identifiable Information.
-	</p><p>
-	Typically, an opt out request will be specific to a particular service or product.  For example, if you opt out of receiving third party offers from this Site, you may continue to receive third party offers from other RBI web sites or publications not associated with this Site.  Similarly, opting out of our disclosing Personally Identifiable Information collected on this Site will not apply to information collected on other RBI web sites.  We cannot guarantee that we will be able to accommodate opt out requests that apply to multiple web sites, products or services, but we will try to do so to the extent feasible. If you wish to opt out of the use or disclosure of Personally Identifiable Information collected by more than one RBI web site, the best way of accomplishing this is to provide a separate opt out request for each web site, product or service.
-	</p><p>
-	Any opt out request will only be effective after a reasonable period of time for processing.
-	</p><p>
-	<b>Links</b>
-	</p><p>
-	This Site contains content, services, advertising and other materials that link to Web sites operated by third parties.  We have no control over those other sites, and this Privacy Policy does not apply to them.  We encourage you to refer to the privacy policies, if any, of those sites.
-	</p><p>
-	<b>This Site is operated by:</b>
-	</p><p>
-	Reed Business Information<br>
-	360 Park Avenue South<br>
-	New York, NY 10010
-	</p><p>
-	Email: <a href="mailto:privacymanager@reedbusiness.com">privacymanager@reedbusiness.com</a>
-	</p></font><p><font face="arial" size="-1">
-	</font>
-	</p></li></td></tr></tbody></table>
+							<li><a href="http://www.variety.com/bo">Variety Box Office</a></li>
+							</ul><img src="http://a330.g.akamai.net/7/330/2540/20050531204708/www.videobusiness.com/contents/images/vbLeftColArrow.gif" width="4" height="8" alt="" style="padding-left: 71px;">
+						</li>
+						<li><a href="http://www.videobusiness.com/index.asp?layout=reviews">Tipsheet Reviews</a></li>
+						
 
 
-												</td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>
-						</td>
-					</tr>
-				</tbody></table>
+<li><a href="http://www.videobusiness.com/index.asp?layout=newReleases">New Releases</a></li>
+
+
+
+
+						<li><a href="http://www.videobusiness.com/index.asp?layout=columnists">Commentary</a></li>
+						<li><a href="http://www.videobusiness.com/toc-events">Events</a></li>
+<li><a href="http://www.videobusiness.com/info/CA631088.html">Year-end Market Research</a></li>
+						<li id="listspecial"><a href="http://www.videobusiness.com/info/CA625604.html">Resources /<br> Classifieds</a></li>
+					</ul>
+				
+				<br clear="all">
+					<div id="assocpub">
+					<div id="assocpub2"><a href="http://www.varietycareers.com/" target="_blank"><img src="http://a330.g.akamai.net/7/330/2540/20050520230932/www.videobusiness.com/contents/images/vbVarietyCareers.gif" border="0" width="169" height="37" alt="Variety Careers"></a></div>
+				</div>								
+
+<ul>
+						<li><a href="http://www.videobusiness.com/subscribe.asp?returnURL=/subscribe.asp">Newsletters</a></li>
+						<li><a href="http://reed4success.com/default.asp?magid=144&amp;promocode=WCB97XX8" target="_blank">Print Subscription</a></li>
+						<li><a href="http://www.videobusiness.com/info/CA608651.html">About Us</a></li>
+						<li><a href="http://www.videobusiness.com/archive">Archives</a></li>
+						<li><a href="http://www.videobusiness.com/">Home</a></li>
+					</ul>
+				
+				<br clear="all">				
 
 				<p>
-					<!-- Begin Bottom 468x60 Banner -->
-<!--script src="http://ads.vpi.net/ad.php?aloc=8"></script-->
-<!-- End Bottom 468x60 Banner -->
-<br>
+</p><table style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 2px; BORDER-LEFT: #000000 1px solid; WIDTH: 164px; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 186px" cellspacing="2" cellpadding="1" bgcolor="#ffffff" border="0" valign="top">
+<tbody>
+<tr>
+<td align="middle"><!-- Edit content below here --><a href="http://www.dvdexclusive.com/video_sizzle.asp" target="_new"><img height="102" alt="" src="http://a330.g.akamai.net/7/330/2540/20050831161516/www.videobusiness.com/contents/images/dvdtitle-2.jpg" width="154" border="0"></a><br><a href="http://www.dvdexclusive.com/video_sizzle.asp" target="_new"><font face="Arial" size="2">Click to see</font></a><font face="Arial" size="2"> <em>VB</em>/<em>DVDX</em> staffers as top industry experts on TV, radio and in major publications.</font><!-- Stop Editing here--></td></tr></tbody></table><p></p>
+				<div id="assocpub">
+					<div id="assocpub2">Associated Publications</div>
+				</div>
 
-					<br>
-
-				<!-- end content section -->
-				</p></td>
-
-				<td align="center" valign="top" bgcolor="#990000" width="142">
-				<!-- begin right nav -->
-
+				<ul>
+<li><a href="http://www.dvdexclusive.com" target="new">DVD Exclusive</a></li>
+					<li><a href="http://www.tradeshowweek.com/" target="new">Tradeshow Week</a></li>
+					<li><a href="http://www.la411.com/" target="new">LA411</a></li>
+					<li><a href="http://www.newyork411.com/" target="new">NY411</a></li>
 					
-<a href="midyearend_reports.asp"><img src="graphics/Midyear-YearEnd.gif" alt="Midyear/Year-end Market Research Reports" border="0"></a>
+					<li><a href="http://www.broadcastingcable.com/" target="new">B&amp;C</a></li>
+					<li><a href="http://www.multichannel.com/" target="new">Multichannel News</a></li>
+					<li><a href="http://www.variety.com/" target="new">Variety</a></li>
+				</ul>
+				
+					
+				</div><!-- end nav-->
+				<br clear="all"><br>
+<img src="http://a330.g.akamai.net/7/330/2540/20030730163916/www.videobusiness.com/contents/images/spacer.gif" border="0" width="169" height="1">
+				</div><!-- end leftcolcontainer-->
+			</td>
+			<td class="centercol" valign="top">
+				<div id="centercolcontainer">
+				
+<div id="boxblack">
+<div id="boxwhite">
+<div id="boxyellow">
 
-<hr>
+<div id="boxhead">Privacy Policy</div>
+<div id="boxcontent">
+<h2 class="nib"></h2>
+<br><p class="kicker">Last updated: July 17, 2002</p><p></p><p class="headLarge">Overview</p><p></p><p class="copy">This Privacy Policy describes the policies of Reed Business Information ("RBI" or "we"), a division of Reed Elsevier Inc. ("Reed Elsevier"), regarding the collection, use, disclosure and protection of the following types of information:</p><p>      </p><ul class="copy"><p>       </p><li>Information obtained when you and other users ("you" or "Users") visit the Video Business web site (the "Site"). <a href="http://www.videobusiness.com">http://www.videobusiness.com</a></li><p>		</p><li>Information obtained through e-mail communications with you related to the Site. </li><p>      </p></ul><p>      </p><p class="copy">This privacy policy does not apply to information that we may collect from you by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of all of the terms and conditions contained in this Privacy Policy and your consent to any action we take with respect to your information that is in compliance with this Privacy Policy.</p><p>      </p><p class="copy">We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.</p><p>      </p><p class="copy">If you do not agree to this Privacy Policy, as modified from time to time, please do not visit this Site.</p><p>      </p><p class="headLarge">Information We Collect and How We Collect It</p><p>      </p><p class="head">General</p><p>	  </p><p class="copy">We require you to provide us with certain information about yourself when you register with this Site and when you request products and services. We also collect information from you when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site, such as moderated discussions and bulletin boards.</p><p>      </p><p class="copy">The information we collect may include information from which you may be personally identified ("Personally Identifiable Information"), such as name, postal address, telephone number, fax number and e-mail address, and also may include certain business information, such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.</p><p>      </p><p class="head">Automatic Data Collection</p><p>	  </p><p class="copy">When you visit this Site, we may collect the IP address of your computer.</p><p>      </p><p class="copy">We also automatically record other information that identifies your computer to this Site and tracks your behavior on the Site. For example, we may record how many times you visit this Site and your navigation within the Site. We do not collect Personally Identifiable Information in this manner; however, if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.</p><p>      </p><p class="copy">Methods used to collect this information may include 'cookies' and 'clear GIFs' (also known as 'pixel tags' or 'beacons'). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer's hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message.</p><p>      </p><p class="copy">Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include those described in the preceding paragraph. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. You may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at <a href="http://www.privacychoices.org" target="_blank">www.privacychoices.org</a>.</p><p>      </p><p class="headLarge">How We Use Your Information</p><p>      </p><p class="head">General</p><p>	  </p><p class="copy">We use Personally Identifiable Information that we collect on this Site for the following purposes:</p><p>      </p><ul class="copy"><p>        </p><li>To provide you with this Site and other products and services, such as electronic and print publications and newsletters. <p>        </p></li><li>To respond to your inquiries and contact you about changes regarding the Site. <p>        </p></li><li>To provide you with e-mail, fax and other notices (such as expiration and renewal notices) and inquiries regarding your account and the products or services that you are receiving, and for billing and collection purposes. <p>        </p></li><li>For any other purpose disclosed at the time the information is collected or to which you consent. <p>        </p></li><li>As otherwise specifically described in this Privacy Policy.</li><p>      </p></ul><p>      </p><p class="copy">We also may use your information to better understand the needs of our Users and to improve our Site. For example, we may use this information to determine what portions of the Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site.</p><p>      </p><p class="copy">We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of the Site.</p><p>      </p><p class="head">Newsletters and Offers</p><p>	  </p><p class="copy">We may use the information you provide us to send you e-mail, fax and other communications on behalf of RBI or other Reed Elsevier divisions. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other RBI and Reed Elsevier services. All of these communications will include instructions explaining how you can request that we not send you ("opt out" of) future communications of the same type.</p><p>      </p><p class="copy">We also may use your information to send you e-mail, fax and other communications on behalf of unaffiliated third parties. When you register with and provide information to this Site you will be given an opportunity to opt out of our sending you offers on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Web Site at any time on the registration page of this Site or by sending an e-mail to <a href="mailto:privacymanager@reedbusiness.com" target="_blank">privacymanager@reedbusiness.com</a> with the subject line "opt out - third party."</p><p>      </p><p class="headLarge">Our Disclosure of Your Information</p><p>      </p><p class="copy">We will not disclose your information to anyone outside of RBI or other Reed Elsevier divisions, except as described in this section.</p><p>      </p><p class="copy">We may disclose aggregated anonymous statistics about many Users to advertisers, content and service providers and other affiliated and unaffiliated companies.</p><p>      </p><p class="copy">We sometimes engage third parties to perform services for us, including in connection with this Site, that require us to disclose Users' Personally Identifiable Information to them. If we make any such disclosure, we will require such parties to keep the information confidential and to use it only to perform the services.</p><p>      </p><p class="copy">We also may disclose your information to third parties that wish to market products or services that may be of interest to you. We will require these parties to keep any Personally Identifiable Information provided by us confidential and use it only to market and provide their products or services or with your approval. When you register with and provide information to this Site, you will be given an opportunity to opt out of our disclosing your Personally Identifiable Information as described in this paragraph. You may also opt out of such disclosures at any time on the registration page of this Site or by sending an e-mail to <a href="mailto:eletters@reedbusiness.com" target="_blank">eletters@reedbusiness.com</a> with the subject line "do not disclose."</p><p>      </p><p class="copy">The only other times we may disclose your Personally Identifiable Information collected on this Site are as follows:</p><p>      </p><ul class="copy"><p>        </p><li>In the event of an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site, we may transfer some or all User information, including Personally Identifiable Information, to the successor company. <p>        </p></li><li>We will disclose your Personally Identifiable Information when we believe such disclosure is required by law or for the protection of persons or property. <p>        </p></li><li>We may disclose your Personally Identifiable Information with your consent, as well as when disclosure is necessary to accomplish the purpose for which you provide it. For example, when you request information from advertisers in the 'Reader Services' section of our publications, we will disclose your Personally Identifiable Information to the advertisers you specify.</li><p>      </p></ul><p>      </p><p class="headLarge">Security</p><p>      </p><p class="copy">We use reasonable security safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.</p><p>      </p><p class="headLarge">Right to Access and Change Information</p><p>      </p><p class="copy">You may view and update information that you previously submitted to this Site by visiting the registration page for this Site or by sending an email to <a href="mailto:privacymanager@reedbusiness.com">privacymanager@reedbusiness.com</a>.</p><p>      </p><p class="headLarge">Opt-Out</p><p>      </p><p class="copy">This Privacy Policy describes certain opportunities you will have to opt out of our using or disclosing your Personally Identifiable Information.</p><p>      </p><p class="copy">Typically, an opt out request will be specific to a particular service or product. For example, if you opt out of receiving third party offers from this Site, you may continue to receive third party offers from other RBI web sites or publications not associated with this Site. Similarly, opting out of our disclosing Personally Identifiable Information collected on this Site will not apply to information collected on other RBI web sites. We cannot guarantee that we will be able to accommodate opt out requests that apply to multiple web sites, products or services, but we will try to do so to the extent feasible. If you wish to opt out of the use or disclosure of Personally Identifiable Information collected by more than one RBI web site, the best way of accomplishing this is to provide a separate opt out request for each web site, product or service.</p><p>      </p><p class="copy">Any opt out request will only be effective after a reasonable period of time for processing.</p><p>      </p><p class="headLarge">Links</p><p>      </p><p class="copy">This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.</p><p>      </p><p class="headLarge">This site is operated by</p><p>      </p><p class="copy">Reed Business Information<br>360 Park Avenue South<br>New York, NY 10010<br>E-Mail: <a href="mailto:privacymanager@reedbusiness.com" target="_blank">privacymanager@reedbusiness.com</a></p><br><br><br>
+</div>
+</div>
+</div>
+</div>
+<br clear="all"><div align="center">
 
-<!-- Begin Right 120x180 Ad 1-->
-<script src="http://ads.vpi.net/ad.php?aloc=25"></script>
-<!-- End Right 120x180 Ad 1-->
+<script language="JavaScript" type="text/javascript">
+<!--
+  function google_ad_request_done(google_ads) {
+    /*
+     * This function is required and is used to display
+     * the ads that are returned from the JavaScript
+     * request. You should modify the document.write
+     * commands so that the HTML they write out fits
+     * with your desired ad layout.
+     */
+    var s = '';
+    var i;
 
-<hr>
-<!-- Begin Right 120x180 Ad 2-->
-<script src="http://ads.vpi.net/ad.php?aloc=22"></script>
-<!-- End Right 120x180 Ad 2-->
-<hr><hr>
+    /*
+     * Verify that there are actually ads to display.
+     */
+    if (google_ads.length == 0) {
+      return;
+    }
+    /*
+     * If an image or Flash ad is returned, display that ad.
+     * Otherwise, build a string containing all of the ads and
+     * then use a document.write() command to print that string.
+     */
 
-<!-- Begin Right 120x180 Ad 1-->
-<!--a href="http://www.variety.com/bounty?code=9PETBRT" target="_blank"><img src="graphics/bart-120x180-98.gif" alt="" height="180" width="120" border="0"></a-->
-<script src="http://ads.vpi.net/ad.php?aloc=17"></script>
-<!-- End Right 120x180 Ad 1-->
+    if (google_ads[0].type == "flash") {
+      s += '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+              ' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +
+              ' WIDTH="' + google_ad.image_width +
+              '" HEIGHT="' + google_ad.image_height + '">' +
+              '<PARAM NAME="movie" VALUE="' + google_ad.image_url + '">'
+              '<PARAM NAME="quality" VALUE="high">'
+              '<PARAM NAME="AllowScriptAccess" VALUE="never">'
+              '<EMBED src="http://www.videobusiness.com/' + google_ad.image_url +
+              '" WIDTH="' + google_ad.image_width +
+              '" HEIGHT="' + google_ad.image_height + 
+              '" TYPE="application/x-shockwave-flash"' + 
+              ' AllowScriptAccess="never" ' + 
+              ' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
 
+    } else if (google_ads[0].type == "image") {
+      s += '<a hre' + 'f=\"' + google_ads[0].url +
+              '" target="_top" title="go to ' + google_ads[0].visible_url +
+              '"><img border="0" src="http://www.videobusiness.com/' + google_ads[0].image_url +
+              '"width="' + google_ads[0].image_width +
+              '"height="' + google_ads[0].image_height + '"></a>';
+
+    } else {
+      s += '<div id=\"google\"><div class=\"googleSponsor\">Ads By Google</div>';
+      if (google_ads.length == 1) {
+        /*
+         * Partners should adjust text sizes
+         * so ads occupy the majority of ad space.
+         */
+        s += '<a hre' + 'f=\"' + google_ads[0].url + '" ' +
+                          'onmouseout="window.status=\'\'" ' +
+                          'onmouseover="window.status=\'go to ' +
+                          google_ads[0].visible_url + '\'" ' +
+                          'style="text-decoration:none">' +
+                          '<div class=\"googleAd\">' + google_ads[0].line1 + '</div>' +
+						  '<div class=\"googleAdText\">' + google_ads[0].line2 + 
+						  '&nbsp;' + google_ads[0].line3 + '</div>' +
+                          '<div class=\"googleAdURL\">' +
+                          google_ads[0].visible_url + '</div></a></div>';
+      } else if (google_ads.length > 1) {
+        /*
+         * For text ads, append each ad to the string.
+         */
+        for(i=0; i < google_ads.length; ++i) {
+          s += '<a hre' + 'f=\"' + google_ads[i].url + '" ' +
+                            'onmouseout="window.status=\'\'" ' +
+                            'onmouseover="window.status=\'go to ' +
+                            google_ads[i].visible_url + '\'" ' +
+                            'style="text-decoration:none">' +
+                            '<div class=\"googleAd\">' + google_ads[i].line1 + '</div>' + 
+                            '<div class=\"googleAdText\">' + google_ads[i].line2 + 
+							'&nbsp;' + google_ads[i].line3 + '</div>' +
+                            '<div class=\"googleAdURL\">' +
+                            google_ads[i].visible_url + '</div></a>';
+
+        }
+s += '</div>';
+      }
+    }
+
+    document.write(s);
+    return;
+  }
+
+// -->
+</script>
+<script type="text/javascript" language="javascript">
+<!-- 	
+var url = window.location.href;
+
+function getUrlStripped(url) { 
+var stripParams = new Array('nid', 'rid', 'returnurl', 'rme', 'cfd', 'regopt', 'text', 'display', 'referral', 'cache', 'preview', 'stt', 'screen', 's', 'source');
+var questionMarkPosition = url.indexOf('?');
+
+	if (questionMarkPosition != -1) {
+		queryString = url.substr(questionMarkPosition + 1);
+	
+		if (queryString.length > 0) {
+			queryString = '&' + queryString;
+		
+			for (var i = 0; i < stripParams.length; i++) {
+				queryString = queryString.replace(new RegExp('[\&]' + stripParams[i] + '=[^\&]*', 'ig'), '');
+			}
+		
+			url = url.substr(0, url.indexOf('?') + 1);
+	
+			if (queryString.length > 1)
+				url += queryString.substr(1);
+		}
+	}
+//document.write(url); 
+return url;
+}
+
+  // This script sets the attributes for requesting ads.
+  google_ad_client = 'ca-reed_site_a_js';         
+  google_ad_output = 'js';
+  google_adtest = 'off';         
+  google_max_num_ads = 2;         
+  google_safe     = 'high';
+  google_feedback = 'off';
+  google_ad_type  = 'text';
+  google_page_url = getUrlStripped(url);          
+-->
+</script>
+
+
+
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+
+</div>
+				</div><!--end centercolcontainer-->
+			</td>
+			<td class="rightcol" valign="top">
+				<div id="rightcolcontainer">
+					<script language="Javascript1.1" src="http://ad.doubleclick.net/adj/vb.rbi/;lay=contentinfodetail;desc=CA624820;sz=120x600;u=1085320987|534700762|965009754|0|contentinfodetail|CA624820||;ord=1134495742?"></script><script><!--
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0))
+{
+document.write('<a href="http://ad.doubleclick.net/jump/vb.rbi/;lay=contentinfodetail;desc=CA624820;sz=120x600;u=1085320987|534700762|965009754|0|contentinfodetail|CA624820||;ord=1134495742?">');
+document.write('<img src="http://ad.doubleclick.net/ad/vb.rbi/;lay=contentinfodetail;desc=CA624820;sz=120x600;u=1085320987|534700762|965009754|0|contentinfodetail|CA624820||;ord=1134495742?" width="120" height="600" border="0"></a>');
+}
+//--></script><noscript><!-- for non JavaScript browsers and Netscape 2.x --><a href="http://ad.doubleclick.net/jump/vb.rbi/;lay=contentinfodetail;desc=CA624820;sz=120x600;u=1085320987|534700762|965009754|0|contentinfodetail|CA624820||;ord=1134495742?"><img src="http://ad.doubleclick.net/ad/vb.rbi/;lay=contentinfodetail;desc=CA624820;sz=120x600;u=1085320987|534700762|965009754|0|contentinfodetail|CA624820||;ord=1134495742?" width="120" height="600" border="0"></a></noscript>
 <br>
-<!-- Begin Right Google Ad -->
+<div align="center">
+<script language="JavaScript" type="text/javascript">
+<!--
+  function google_ad_request_done(google_ads) {
+    /*
+     * This function is required and is used to display
+     * the ads that are returned from the JavaScript
+     * request. You should modify the document.write
+     * commands so that the HTML they write out fits
+     * with your desired ad layout.
+     */
+    var s = '';
+    var i;
 
+    /*
+     * Verify that there are actually ads to display.
+     */
+    if (google_ads.length == 0) {
+      return;
+    }
+    /*
+     * If an image or Flash ad is returned, display that ad.
+     * Otherwise, build a string containing all of the ads and
+     * then use a document.write() command to print that string.
+     */
+
+    if (google_ads[0].type == "flash") {
+      s += '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+              ' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +
+              ' WIDTH="' + google_ad.image_width +
+              '" HEIGHT="' + google_ad.image_height + '">' +
+              '<PARAM NAME="movie" VALUE="' + google_ad.image_url + '">'
+              '<PARAM NAME="quality" VALUE="high">'
+              '<PARAM NAME="AllowScriptAccess" VALUE="never">'
+              '<EMBED src="http://www.videobusiness.com/' + google_ad.image_url +
+              '" WIDTH="' + google_ad.image_width +
+              '" HEIGHT="' + google_ad.image_height + 
+              '" TYPE="application/x-shockwave-flash"' + 
+              ' AllowScriptAccess="never" ' + 
+              ' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+
+    } else if (google_ads[0].type == "image") {
+      s += '<a hre' + 'f=\"' + google_ads[0].url +
+              '" target="_top" title="go to ' + google_ads[0].visible_url +
+              '"><img border="0" src="http://www.videobusiness.com/' + google_ads[0].image_url +
+              '"width="' + google_ads[0].image_width +
+              '"height="' + google_ads[0].image_height + '"></a>';
+
+    } else {
+      s += '<div id=\"google\"><div class=\"googleSponsor\">Ads By Google</div>';
+      if (google_ads.length == 1) {
+        /*
+         * Partners should adjust text sizes
+         * so ads occupy the majority of ad space.
+         */
+        s += '<a hre' + 'f=\"' + google_ads[0].url + '" ' +
+                          'onmouseout="window.status=\'\'" ' +
+                          'onmouseover="window.status=\'go to ' +
+                          google_ads[0].visible_url + '\'" ' +
+                          'style="text-decoration:none">' +
+                          '<div class=\"googleAd\">' + google_ads[0].line1 + '</div>' +
+						  '<div class=\"googleAdText\">' + google_ads[0].line2 + 
+						  '&nbsp;' + google_ads[0].line3 + '</div>' +
+                          '<div class=\"googleAdURL\">' +
+                          google_ads[0].visible_url + '</div></a></div>';
+      } else if (google_ads.length > 1) {
+        /*
+         * For text ads, append each ad to the string.
+         */
+        for(i=0; i < google_ads.length; ++i) {
+          s += '<a hre' + 'f=\"' + google_ads[i].url + '" ' +
+                            'onmouseout="window.status=\'\'" ' +
+                            'onmouseover="window.status=\'go to ' +
+                            google_ads[i].visible_url + '\'" ' +
+                            'style="text-decoration:none">' +
+                            '<div class=\"googleAd\">' + google_ads[i].line1 + '</div>' + 
+                            '<div class=\"googleAdText\">' + google_ads[i].line2 + 
+							'&nbsp;' + google_ads[i].line3 + '</div>' +
+                            '</a>';
+
+        }
+s += '</div>';
+      }
+    }
+
+    document.write(s);
+    return;
+  }
+
+// -->
+</script>
+<script type="text/javascript" language="javascript">
+<!-- 	
+var url = window.location.href;
+
+function getUrlStripped(url) { 
+var stripParams = new Array('nid', 'rid', 'returnurl', 'rme', 'cfd', 'regopt', 'text', 'display', 'referral', 'cache', 'preview', 'stt', 'screen', 's', 'source');
+var questionMarkPosition = url.indexOf('?');
+
+	if (questionMarkPosition != -1) {
+		queryString = url.substr(questionMarkPosition + 1);
 	
+		if (queryString.length > 0) {
+			queryString = '&' + queryString;
+		
+			for (var i = 0; i < stripParams.length; i++) {
+				queryString = queryString.replace(new RegExp('[\&]' + stripParams[i] + '=[^\&]*', 'ig'), '');
+			}
+		
+			url = url.substr(0, url.indexOf('?') + 1);
+	
+			if (queryString.length > 1)
+				url += queryString.substr(1);
+		}
+	}
+//document.write(url); 
+return url;
+}
 
-	<iframe src="http://ad.doubleclick.net/adi/vb.rbi/;type=button;pos=1;uri=%2Fprivacy%2Easp;sz=120x90;ord=3844613305017351?" name="button" width="120" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-	<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/vb.rbi/;abr=!ie;type=button;pos=1;uri=%2Fprivacy%2Easp;sz=120x90;ord=3844613305017351?">
-	</script>
-	<noscript>
-	<a href="http://ad.doubleclick.net/jump/vb.rbi/;abr=!ie;type=button;pos=1;uri=%2Fprivacy%2Easp;sz=120x90;ord=3844613305017351?">
-	<img src="http://ad.doubleclick.net/ad/vb.rbi/;abr=!ie;type=button;pos=1;uri=%2Fprivacy%2Easp;sz=120x90;ord=3844613305017351?" border="0" width="120" height="90"></a>
-	</noscript>
-	</iframe>
+  // This script sets the attributes for requesting ads.
+  google_ad_client = 'ca-reed_site_a_js';         
+  google_ad_output = 'js';
+  google_adtest = 'off';         
+  google_max_num_ads = 4;         
+  google_safe     = 'high';
+  google_feedback = 'off';
+  google_ad_type  = 'text';
+  google_page_url = getUrlStripped(url);          
+-->
+</script>
 
-<!-- End Right Google Ad -->
 
-<br><br>
-<form action="subscribe.asp" method="get" name="FormName">
-	<table width="120" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr height="20">
-			<td valign="middle" height="20" background="graphics/sidebarheader.gif"><img src="graphics/spacer.gif" alt="" height="19" width="4" align="absmiddle" border="0"><b><font size="-2" color="white" face="Verdana">Subscribe to:</font></b></td>
-		</tr>
-	</tbody></table>
-	<table width="120" border="0" cellspacing="0" cellpadding="1" bgcolor="black">
-		<tbody><tr>
-			<td align="center" valign="middle">
-				<table width="118" border="0" cellspacing="0" cellpadding="4" bgcolor="white">
-					<tbody><tr>
-						<td colspan="2" align="center" valign="top" bgcolor="#990000"><a href="subscribe.asp" target="_blank"><img src="graphics/videobusinesscover2.gif" alt="" height="140" width="108" border="0"></a><br>
-							<table border="0" cellspacing="0" cellpadding="2">
-								<tbody><tr>
-									<td valign="middle"><input type="radio" name="subTo" value="Magazine" border="0"></td>
-									<td valign="middle"><b><font size="-2" color="white" face="Verdana">Magazine<br>
-											</font></b></td>
-								</tr>
-								<tr>
-									<td valign="middle"><input type="radio" name="subTo" value="eLetter" border="0"></td>
-									<td valign="middle"><b><font size="-2" color="white" face="Verdana">E-Newsletter</font></b></td>
-								</tr>
-							</tbody></table>
-						</td>
-					</tr>
-				</tbody></table>
+
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+				</div>
 			</td>
 		</tr>
 	</tbody></table>
-	<table width="120" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td align="right" valign="top">
-				<div align="right">
-					<input type="image" src="graphics/gobutton.gif" alt="" border="0" height="17" width="41"></div>
-			</td>
-		</tr>
-	</tbody></table>
-</form>
-
-				<!-- end right nav -->
-				</td>
-			</tr>
-		</tbody></table>
-
-		<table width="780" border="0" cellspacing="0" cellpadding="6" bgcolor="#990000">
-	<tbody><tr>
-		<td valign="middle" bgcolor="#990000" width="768" background="graphics/masthead.jpg">
-			<div align="center">
-
-<a href="index.asp"><b><font size="-2" color="white" face="Verdana">Home</font></b></a>
-
-<b><font size="-2" color="white" face="Verdana"> | </font></b>
-
-<a href="subscribe.asp"><b><font size="-2" color="white" face="Verdana">Subscribe to Print</font></b></a>
-
-<b><font size="-2" color="white" face="Verdana"> | </font></b>
-
-<a href="http://www.dvdexclusive.com" target="_blank"><b><font size="-2" color="white" face="Verdana">DVD Exclusive</font></b></a>
-
-<b><font size="-2" color="white" face="Verdana"> | </font></b>
-
-<a href="marketdata.asp"><b><font size="-2" color="white" face="Verdana">Market Data</font></b></a>
-
-<b><font size="-2" color="white" face="Verdana"> | </font></b>
-
-<a href="reviews.asp"><b><font size="-2" color="white" face="Verdana">Product Digest</font></b></a>
-
-<b><font size="-2" color="white" face="Verdana"> | </font></b>
-
-<a href="resources.asp"><b><font size="-2" color="white" face="Verdana">Resources</font></b></a>
-
-<b><font size="-2" color="white" face="Verdana"> | </font></b>
-
-<a href="commentary.asp"><b><font size="-2" color="white" face="Verdana">Commentary</font></b></a>
-
-<b><font size="-2" color="white" face="Verdana"> | </font></b>
-
-<a href="article.asp?articleID=3226&amp;catID=19"><b><font size="-2" color="white" face="Verdana">Events</font></b></a>
-
-<b><font size="-2" color="white" face="Verdana"> | </font></b>
-
-<a href="classifieds.asp"><b><font size="-2" color="white" face="Verdana">Classifieds</font></b></a>
-
-<b><font size="-2" color="white" face="Verdana"> | </font></b><br>
-
-<a href="aboutus.asp"><b><font size="-2" color="white" face="Verdana">About Us</font></b></a><b><font size="-2" color="white" face="Verdana">
-
-<b><font size="-2" color="white" face="Verdana"> | </font></b>
-
-<a href="privacy.asp"><font size="-2" color="white" face="Verdana">Privacy Policy</font></a>
-
-<br></font></b>
-
-<font size="-2" color="white" face="Arial">Copyright © 2002 Reed Business Information, a division of Reed Elsevier Inc. All rights reserved.</font></div>
-		</td>
-	</tr>
-</tbody></table>
-
-	
-
+	<div id="footer">
+		<div><b>NEWS:</b> <a href="http://www.videobusiness.com/community/893/Studios+%2F+Suppliers/43292.html">Studio/Suppliers</a> | <a href="http://www.videobusiness.com/community/893/Retail/43291.html">Retail</a> | <a href="http://www.videobusiness.com/community/893/Video+Distributions/43293.html">Video Distributors</a> | <a href="http://www.videobusiness.com/community/893/New+Tech/43290.html">New Technology</a> | <a href="http://www.videobusiness.com/community/893/VOD/43295.html">VOD</a> | <a href="http://www.videobusiness.com/community/893/Videogames/43294.html">Videogames</a><br><a href="http://www.videobusiness.com/">Home</a> | <a href="http://reed4success.com/default.asp?magid=144&amp;promocode=WCB97XX8">Subscribe to Print</a> | <a href="http://www.dvdexclusive.com">DVD Exclusive</a> | <a href="http://www.videobusiness.com/index.asp?layout=marketData">Market Data</a> | <a href="http://www.videobusiness.com/index.asp?layout=reviews">Product Digest</a> | <a href="http://www.videobusiness.com/index.asp?layout=resources">Resources</a> | <a href="http://www.videobusiness.com/index.asp?layout=columnists">Commentary</a> | <a href="http://www.videobusiness.com/toc-events">Events</a> | <a href="http://www.videobusiness.com/index.asp?layout=resources">Classifieds</a> | <a href="http://www.videobusiness.com/info/CA608651.html">About Us</a> | <a href="http://www.videobusiness.com/info/CA624820.html">Privacy Policy</a><br><br>
+© 2005 <a href="http://www.reedbusiness.com/index.asp?layout=cahnerscom">Reed Business Information,</a> a division of <a href="http://www.reedelsevier.com/">Reed Elsevier Inc.</a><br>
+All rights reserved.  Use of this web site is subject to its <a href="http://www.videobusiness.com/info/CA621730.html">Terms and Conditions of Use.</a>  View our <a href="http://www.videobusiness.com/info/CA621705.html">Privacy Policy.</a>
+		</div>
+	</div><!-- end footer--></div> <!-- end bodycontainer-->
 </body></html>
