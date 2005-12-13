@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickflix.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615060541id_/http%3A//www.quickflix.com.au/public/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickflix.com.au privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213201222id_/http%3A//www.quickflix.com.au/public/home/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Quickflix DVD rental Australia: the smart way to rent DVDs : Privacy policy
 
@@ -73,6 +73,10 @@ We have implemented technology and security features, as well as strict internal
 
 Furthermore Quickflix takes reasonable steps to destroy or permanently de-identify personal information if it is no longer needed for any purpose. 
 
+## Surveys
+
+We do not collect personally identifiable information about you in our surveys except when you specifically provide this information on a voluntary basis. Information is stored and used in anonymous non-traceable form. Quickflix reserves the right to perform statistical analysis of customer behaviour and characteristics. 
+
 ## Changes to our privacy policy
 
 Quickflix reserves the right from time to time to change this policy at its sole discretion. We will notify you of any updates by email. The most current version of the privacy policy will supersede all previous versions and can be reviewed by clicking on the "Privacy policy" hyperlink located at the bottom of the pages of the Quickflix website. 
@@ -90,3 +94,6 @@ Western Australia 6850
 or use the ["Contact us"](https://web.archive.org/Public/Home/ContactUs.aspx) form available on the Quickflix website.
 
 More information on Australian privacy legislation is available from the Office of the Federal Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/)
+
+|   
+---|---
