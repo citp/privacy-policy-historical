@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trolltech.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403170809id_/http%3A//www.trolltech.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trolltech.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213204033id_/http%3A//www.trolltech.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Trolltech - Trolltech Privacy Policy
 
@@ -58,4 +58,4 @@ Trolltech will amend this policy from time to time. If we make any substantial c
 
 If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [privacy@trolltech.com](mailto:privacy@trolltech.com). 
 
-This document was last updated February 24, 2004 
+This document was last reviewed on June 20, 2005 
