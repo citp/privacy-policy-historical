@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403151803id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213221238id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
-[](https://web.archive.org/web/20050403151803id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20050403151803id_/http%3A//www.w3schools.com/about/default.asp)
+[](https://web.archive.org/web/20051213221238id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20051213221238id_/http%3A//www.w3schools.com/about/default.asp)
 
 * * *
 
@@ -58,7 +58,7 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-[](https://web.archive.org/web/20050403151803id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20050403151803id_/http%3A//www.w3schools.com/about/default.asp)   
+[](https://web.archive.org/web/20051213221238id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20051213221238id_/http%3A//www.w3schools.com/about/default.asp)   
 
 
 * * *
@@ -67,24 +67,48 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-## Today's birthday
+## Want To Be A Web Master?
 
-Today's birthday is a free service of [The Free Dictionary](http://www.thefreedictionary.com/lookup.htm#sitecontent)
+If you want to be a Web Master, you will have to host your web site with an ISP (Internet Service Provider).
 
-**Click[here](http://www.thefreedictionary.com/lookup.htm#sitecontent) to get free daily content for your website.**
+Founded in 1996 in North Carolina, AIT Inc. provides web hosting and ecommerce services to more than 190,000 domains in 107 countries. Shared, dedicated, and colocated hosting plans for both Linux and Windows users are available along with the industry's most lucrative reseller program. AIT has won acclaim as one of the fastest growing technology companies in North America by Inc. Magazine and by Deloitte & Touche.
 
+As low as $39.95 per month for Dedicated Hosting! Choose from managed or fully managed options. Plans begin with an 80 GB hard drive and 1 terabyte of data transfer. AIT hosting packages are the ideal environment for web developers, designers, hosting resellers, entrepreneurs, and business IT departments to house your servers off site.
+
+[Visit AIT](https://web.archive.org/spotlights_dir.asp?site=aitspot)
+
+* * *
+
+## The Web Design Business Kit
+
+Brendon Sinclair has a unique philosophy that everyone from Freelancers to the huge International Web Design Shops can learn from:
+
+  * Your Web Design and Development skills don't matter!
+  * You don't have to be the cheapest bidder to win!
+  * Charging by the hour is the worst thing you can do!
+  * Your clients are everywhere!
+  * When the project finishes, your income should not!
+
+
+
+Want to know more...?
+
+[ Click Here to Download a Free Sample!](http://www.sitepoint.com/launch/3a9053/2/4)
+
+|   
+---|---  
+  
 * * *
 
 * * *
 
 ## We Help You For Free. You Can Help Us!
 
-  * [Make a small donation](https://web.archive.org/about/about_free.asp)
-  * [Tell your newsgroup or mailing list](https://web.archive.org/tellyourgroup.htm)
-  * [Link to us from your pages](https://web.archive.org/about/about_linking.asp)
-  * [Help us correct errors and broken links](https://web.archive.org/about/about_helpers.asp)
-  * [Help us with spelling and grammar](https://web.archive.org/about/about_helpers.asp)
-  * [Validate the XHTML code of this page](http://validator.w3.org/check/referer)
+  * [Make a donation. Help us stay free.](https://web.archive.org/about/about_free.asp)
+  * [Tell your newsgroup or mailing list.](https://web.archive.org/tellyourgroup.htm)
+  * [Link to us from your pages.](https://web.archive.org/about/about_linking.asp)
+  * [Help us correct errors and broken links.](https://web.archive.org/about/about_helpers.asp)
+  * [Help us with spelling and grammar.](https://web.archive.org/about/about_helpers.asp)
 
 
 
@@ -98,11 +122,13 @@ Jump to: **Top of Page** or [**HOME**](https://web.archive.org/default.asp) or [
 
 Does the world know about us? Check out these places:
 
-[Google](http://www.google.com/search?q=W3Schools&safe=active)  [Yahoo](http://search.yahoo.com/search?p=w3schools&vm=r)  [Alta Vista](http://www.altavista.com/web/results?q=w3schools)  [MSN](http://search.msn.com/results.asp?q=W3Schools)  [Lycos](http://search.lycos.com/main/?query=W3Schools)  [Excite](http://search.excite.com/search.gw?search=W3Schools)  [Ask Jeeves](http://www.ask.com/main/askJeeves.asp?ask=W3Schools)  [HotBot](http://www.hotbot.com/default.asp?query=w3schools)
+[Google](http://www.google.com/search?q=W3Schools&safe=active)  [Yahoo](http://search.yahoo.com/search?p=W3schools&vm=r)  [Alta Vista](http://www.altavista.com/web/results?q=W3schools)  [MSN](http://search.msn.com/results.asp?q=W3Schools)  [Lycos](http://search.lycos.com/main/?query=W3Schools)  [Excite](http://search.excite.com/search.gw?search=W3Schools)  [Ask Jeeves](http://www.ask.com/main/askJeeves.asp?ask=W3Schools)  [HotBot](http://www.hotbot.com/default.asp?query=W3schools)
+
+[ World Wide Web Traffic Rank](http://www.alexa.com/data/details/traffic_details?&range=2y&size=large&compare_sites=&y=t&url=w3schools.com/cgi-bin/classifieds/classifieds.cgi)
 
 * * *
 
-W3Schools is for training only. We do not warrant the correctness of the content. The risk of using it remains entirely with the user. While using this site, you agree to have read and accepted our [terms of use](https://web.archive.org/about/about_copyright.asp) and [privacy policy](https://web.archive.org/about/about_privacy.asp).
+W3Schools provides material for training only. We do not warrant the correctness of its contents. The risk from using it lies entirely with the user. While using this site, you agree to have read and accepted our [terms of use](https://web.archive.org/about/about_copyright.asp) and [privacy policy](https://web.archive.org/about/about_privacy.asp). 
 
 [Copyright 1999-2005](https://web.archive.org/about/about_copyright.asp) by Refsnes Data. All Rights Reserved.
 
