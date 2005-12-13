@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the we-energies.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204011604id_/http%3A//www.we-energies.com/home/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the we-energies.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213202626id_/http%3A//we-energies.com/home/privacy_policy.htm) for the most accurate reproduction.*
 
 # We Energies Business | Water Service
 
