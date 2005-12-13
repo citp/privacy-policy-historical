@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the progress.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405075610id_/http%3A//www.progress.com/privacy/index.ssp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progress.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213084627id_/http%3A//www.progress.com/privacy/index.ssp) for the most accurate reproduction.*
 
 # Privacy Policy: Progress Software
 
