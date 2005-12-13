@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the publicityinsider.com privacy policy that was archived on 2005-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050308213006id_/http%3A//www.publicityinsider.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the publicityinsider.com privacy policy that was archived on 2005-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051213204003id_/http%3A//www.publicityinsider.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Statement, Publicity Insider - Publicity Secrets for Savvy
@@ -70,13 +70,12 @@ function cm_bwcheck(){
 var bw=new cm_bwcheck()
                  
 function submitform(myform) {
-
 //	if (bw.ns4) {
 //	    em=myform.email.value;
 //  	} else {
 //    	em=myform.email.value;
 //	}
-	if (emailCheck (myform.email.value)) {
+	if (emailCheck (myform.e.value)) {
 		nextpage="http://www.publicityinsider.com/freesecret.asp";
 		myform.onsubmit="";
 		//myform.action="http://www.topica.com/f/p.html";
@@ -89,7 +88,7 @@ function submitform(myform) {
 function minisubcheck1() {
 var emailField;
 
-   	emailField=document.bodySubscribe1.email.value;
+   	emailField=document.bodySubscribe1.e.value;
 
 	if (emailCheck (emailField)) {
 		if (emailField=='') {
@@ -106,18 +105,12 @@ var emailField;
 function writetable() {
 
   if (bw.ns4) {
-  		document.writeln('<form action="http://www.topica.com/f/p.html" method="GET" name="topicaform2" onSubmit="return submitform(this)">');
-	document.writeln('<INPUT TYPE="HIDDEN" NAME="lid" VALUE="800025205">');
-	document.writeln('<INPUT TYPE="HIDDEN" NAME="fid" VALUE="800015351">');
-	document.writeln('<INPUT TYPE="HIDDEN" NAME="f#31" VALUE="TEXT:Email%20Address">');
-  		document.writeln('<table border="0" width="190" height="100" cellspacing="0" cellpadding="1" bgcolor="#E8E5Ba">');
+	document.writeln('<form action="/ConfirmSubscription.asp" method="post" name="ccoptin" onSubmit="return submitform(this)">');
+	document.writeln('<table border="0" width="190" height="100" cellspacing="0" cellpadding="1" bgcolor="#E8E5Ba">');
   	document.writeln('<tr><td valign="center">');
   	document.writeln('<table width="188" height="95" bgcolor="white" align="center">');
   } else {
-  		document.writeln('<form action="http://www.topica.com/f/p.html" method="GET" name="topicaform2"  onSubmit="return submitform(this)">');
-	document.writeln('<INPUT TYPE="HIDDEN" NAME="lid" VALUE="800025205">');
-	document.writeln('<INPUT TYPE="HIDDEN" NAME="fid" VALUE="800015351">');
-	document.writeln('<INPUT TYPE="HIDDEN" NAME="f#31" VALUE="TEXT:Email%20Address">');
+  		document.writeln('<form action="/ConfirmSubscription.asp" method="post" name="ccoptin"  onSubmit="return submitform(this)">');
   		document.writeln('<table border="3" bordercolor="#E8E5BA" width="190" height="100" cellspacing="0" cellpadding="0">');
   }
   
@@ -131,14 +124,13 @@ function writetable() {
   }
   	document.writeln('Breaking news, cool tips, great resources...sign up for our free Publicity Insider Update e-zine!!<br>');
   document.writeln('    </font>');
-  	document.writeln('<INPUT TYPE="hidden" NAME="redirect" VALUE="http://www.publicityinsider.com/ConfirmSubscription.asp">');
 
   if (bw.ns4) {
-	  	document.writeln('<center><input type="TEXT" name="f:31" size="15" CLASS="textInput"><br>')
-	  	document.writeln('<input type="submit" onclick="nextpage=555" value="Subscribe now!" name="Submit"></center>');
+	  	document.writeln('<center><input type="TEXT" name="e" size="15" CLASS="textInput"><br>')
+	  	document.writeln('<input type="submit" onclick="nextpage=555" value="Subscribe now!" name="go"></center>');
   } else {
-	  	document.writeln('         <input type="TEXT" name="f:31" size="25" CLASS="textInput"><br>');
-	  	document.writeln('      <input class="subscribeButton" onClick="nextpage=555;" type="submit" value="Subscribe now!" name="Submit">');
+	  	document.writeln('         <input type="TEXT" name="e" size="25" CLASS="textInput"><br>');
+	  	document.writeln('      <input class="subscribeButton" onClick="nextpage=555;" type="submit" value="Subscribe now!" name="go">');
   }
   document.writeln('    </p></td>');
   document.writeln('  </tr>');
@@ -161,10 +153,7 @@ if (document.layers) {
 }
 
 // -->
-</script><div style="position:absolute; top:10; left:560"><form action="http://www.topica.com/f/p.html" method="GET" name="topicaform2" onsubmit="return submitform(this)">
-<input type="HIDDEN" name="lid" value="800025205">
-<input type="HIDDEN" name="fid" value="800015351">
-<input type="HIDDEN" name="f#31" value="TEXT:Email%20Address">
+</script><div style="position:absolute; top:10; left:560"><form action="/ConfirmSubscription.asp" method="post" name="ccoptin" onsubmit="return submitform(this)">
 <table border="3" bordercolor="#E8E5BA" width="190" height="100" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td>
@@ -172,9 +161,8 @@ if (document.layers) {
 	<font class="tiny">
 Breaking news, cool tips, great resources...sign up for our free Publicity Insider Update e-zine!!<br>
     </font>
-<input type="hidden" name="redirect" value="http://www.publicityinsider.com/ConfirmSubscription.asp">
-         <input type="TEXT" name="f:31" size="25" class="textInput"><br>
-      <input class="subscribeButton" onclick="nextpage=555;" type="submit" value="Subscribe now!" name="Submit">
+         <input type="TEXT" name="e" size="25" class="textInput"><br>
+      <input class="subscribeButton" onclick="nextpage=555;" type="submit" value="Subscribe now!" name="go">
     </p></td>
   </tr>
 </tbody></table>
@@ -451,7 +439,8 @@ a:visited.links { font-family: Veranda, Arial, Sans-Serif, Helvetica; font-size:
 <br><br>
 <a target="_blank" href="http://publicityinsider.prwebdirect.com/about.php">
 <img src="prwebimage.gif"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a onclick="nextpage=this.href" target="_blank" href="http://prntoolkit.prnewswire.com/publicityinsider/"><img border="0" src="images/PRnewswireLogo.jpg"></a><br><br>
+<a target="_blank" href="http://prntoolkit.prnewswire.com/publicityinsider/">
+<img src="Newswire_rgb.jpg" width="132" height="71"></a><br><br>
 <a onclick="nextpage=this.href" href="recommend.asp">Recommend This Page To A Friend</a> | <a onclick="nextpage=this.href" href="Link2Us.asp">Link To 
 Publicity Insider !</a><br><br>
 <a onclick="nextpage=this.href" class="links" title="Publicity Insider privacy statement" href="privacy.asp">Privacy Statement</a> | <a onclick="nextpage=this.href" class="links" title="Publicity Insider disclaimer/copyright" href="disclaimer.asp">
