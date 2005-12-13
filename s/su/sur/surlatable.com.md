@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surlatable.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616224622id_/http%3A//www.surlatable.com/general/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surlatable.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213195910id_/http%3A//www.surlatable.com/general/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Sur La Table
+# Sur La Table - The Art and Soul of Cooking
 
 Privacy Policy  
    
@@ -70,20 +70,10 @@ Send e-mail to [customerservice@surlatable.com ](mailto:customerservice@surlatab
 
 Send standard mail to the following postal address: 
 
-Customer Service   
-1765 Sixth Avenue South   
-Seattle, WA. 98134   
-3\. Call our customer service department at 1.800.243.0852  
-  
-   
-BSELECT Privacy Information  
-   
-  
-  
-The Profile Control Panel(PCP) offers you the opportunity to review and if necessary delete the data that has been recorded on your behalf. In addition you have the right to opt out of receiving personalized content across all Be Free enabled web sites.
+Customer Service 
 
-To visit the Profile Control Panel please select the image below.
+Seattle Design Center  
+5701 Sixth Avenue South, Suite 486  
+Seattle, WA 98108 
 
-[](http://www.yourcontrolpanel.com/mypage/pcp.html)  
-  
- 
+Call our customer service department at 1-800-243-0852
