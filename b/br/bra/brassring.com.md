@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the brassring.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305012955id_/http%3A//www.brassring.com/en/html/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brassring.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213204158id_/http%3A//www.brassring.com/en/html/constants/privacy.asp) for the most accurate reproduction.*
 
-# BrassRing: Legal/Privacy Notice
+# BrassRing: Privacy Policy
 
-| 
+#### I. Introduction
 
-**BrassRing LLC Privacy Policy**
+[](https://www.truste.org/ivalidate.php?url=www.brassring.com) The following sets forth BrassRing LLC's privacy policy, which contains four separate sections as follows:
 
-[](https://www.truste.org/ivalidate.php?url=www.brassring.com)**I. Introduction**  
-The following sets forth BrassRing LLC's privacy policy, which contains four separate sections as follows:
+  1. This Introduction;
+  2. BrassRing Online Privacy Policy, which addresses the privacy practices applicable to usage of the BrassRing website;
+  3. BrassRing's ASP Privacy Policy, which addresses the privacy practices applicable to information processed by BrassRing in its role as an ASP provider;
+  4. A General Section, which applies to all of our privacy policies.
 
-**I. This Introduction;**  
-**II. BrassRing Online Privacy Policy, which addresses the privacy practices applicable to usage of the BrassRing website;**  
-**III. BrassRing's ASP Privacy Policy, which addresses the privacy practices applicable to information processed by BrassRing in its role as an ASP provider;**  
-**IV. A General Section, which applies to all of our privacy policies.**
+
 
 BrassRing respects individual privacy. BrassRing strives to collect and use personal information in a manner consistent with the laws of the countries in which it does business. BrassRing abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission.
 
 BrassRing LLC is a licensee of the TRUSTe Privacy Program and the TRUSTe EU Safe Harbor Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
 
-**II. BRASSRING ONLINE PRIVACY POLICY**  
+#### II. BRASSRING ONLINE PRIVACY POLICY
+
 This Online Privacy Policy covers use of the site [www.brassring.com](http://www.brassring.com/) and our on-line URC site available only to clients of BrassRing. All information you disclose to us on this web site on our on-line URC site is subject to our Online Privacy Policy. Information you disclose on the BrassRing job board portion of the site powered by Career Builder is covered by the Career Builder privacy statement linked to that page.
 
 With respect to data received through its websites, BrassRing will, at its own discretion:
@@ -40,11 +40,12 @@ With respect to data received through its websites, BrassRing will, at its own d
 
 
 
-BrassRing has a Privacy Officer who is responsible for BrassRing's compliance with and enforcement of this Policy. BrassRing's Privacy Officer, Ronald Poore, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices. BrassRing's Privacy Officer may be contacted by email at [Rpoore@brassring.com](mailto:Rpoore@brassring.com), by telephone at 781.530.5155 or by mail at BrassRing, 343 Winter Street, Waltham, MA 02451. If users have questions or concerns regarding this statement, they should first contact Ronald Poore. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/watchdog.html) (<http://www.truste.org/watchdog.html>). TRUSTe will serve as a liaison with BrassRing to resolve users' concerns. The BrassRing Web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by the BrassRing Web site.
+BrassRing has a Privacy Officer who is responsible for BrassRing's compliance with and enforcement of this Policy. BrassRing's Privacy Officer, Ronald Poore, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices. BrassRing's Privacy Officer may be contacted by email at [Rpoore@brassring.com](mailto:Rpoore@brassring.com), by telephone at 781.530.5155 or by mail at BrassRing, 343 Winter Street, Waltham, MA 02451. If users have questions or concerns regarding this statement, they should first contact Ronald Poore. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with BrassRing to resolve users' concerns. The BrassRing Web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by the BrassRing Web site.
 
 Please see Section IV. General, for additional provisions that related to brassring.com web site privacy practices.
 
-**III. BrassRing's ASP Privacy Policy**  
+#### III. BrassRing's ASP Privacy Policy
+
 This ASP Privacy Policy applies only to all transfers of personally identifiable information ("Personal Information") received by BrassRing in any format through its hosted recruitment software ( _Enterprise_ , and/or _Talent Gateways_ ™), whether supplied directly by BrassRing customers or by candidates for employment at BrassRing customers anywhere in the world, including transfers from the European Economic Area (EEA) to the United States. Any other visitors to BrassRing.com should refer to the On-Line Privacy Policy which covers non-ASP BrassRing.com website use. 
 
 BrassRing abides by the EU Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the European Union. As such we operate as a data processor for our hosted recruitment software customers. Our hosted recruitment software customers fill the role of data controller. Individual users involved in recruitment activities usually interact directly with BrassRing's customers rather than with BrassRing. BrassRing provides its customers the option of disclosing their relationship with us by providing notice to individual employees and candidates of the customer about the BrassRing technology that they use. BrassRing maintains only that information related to the candidate recruitment process, which our customers' have asked us to process. This ASP Privacy Policy does not reflect the privacy practices of BrassRing's customers and BrassRing is not responsible for its customers' privacy policies or practices. BrassRing does not review, comment upon or monitor its customers' compliance with their respective privacy policies, nor does BrassRing review its customer instructions to determine whether they are in compliance with or conflict with the terms of a customer's published privacy policy.
@@ -70,7 +71,7 @@ We participate in the EU Safe Harbor Privacy Framework as set forth by the Unite
 
 For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted recruitment software customer for whom BrassRing processes data should be addressed to that customer.
 
-**IV. General**
+#### IV. General
 
   1. **Security**  
 BrassRing has implemented reasonable technical and organizational measures designed to secure personal information collected on our website as well as Personal Data processed on behalf of its customers from accidental loss and from unauthorized access, use, alteration or disclosure including, in appropriate circumstances, the use of firewalls, restricted access, and encrypted transmissions. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
@@ -83,6 +84,8 @@ BrassRing committed to protecting the privacy needs of children and we encourage
 
 
 
-See also: [BrassRing Terms of Use](https://web.archive.org/en/html/terms.asp)
+See also: [BrassRing Terms of Use](https://web.archive.org/en/html/constants/terms.asp)
 
-Last updated on: 29 December 2003
+Last updated on: 26 August 2003
+
+© 2005 BrassRing LLC. All Rights Reserved
