@@ -1,35 +1,58 @@
-> *The following text is extracted and transformed from the identityguard.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609190234id_/http%3A//www.identityguard.com/gs/english/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identityguard.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213204425id_/http%3A//www.identityguard.com/gs/english/Privacy.asp) for the most accurate reproduction.*
 
-# Identity Guard
+# Identity Guard®
 
-**Intersections, Inc. Privacy Policy**
+**INTERSECTIONS INC. CUSTOMER PRIVACY POLICY**
 
-**Intersections is committed to protecting the privacy of consumers. For this reason, Intersections does not use cookies. We will not disclose any information about you to any outside third party unless it is for the express purpose of delivering our products and services to you or unless it is required by law. Therefore, we will not disclose, sell, resell or share your credit information, nor any data derived in our interaction with you, to other organizations and/or individuals for any purpose, including advertising.**
+At Intersections, protecting your identity and personal information is our mission. We provide this policy statement because we want you to be fully informed about how we protect the privacy of your information.
 
-Intersections is fully committed to protecting your personal information, and in so doing we provide the above guarantee. By using our Web site, you consent to the collection and use of information as it is disclosed in this Privacy and Security Policy Statement.
+As part of our products and services, we may, based on the authorization you have provided, retrieve your credit report information from consumer reporting agencies on your behalf and provide that information to you. We also may, based on your instructions, retrieve and report to you additional personal information about you from various sources, such as Web sites and other available data sources. We do not disclose that credit report information or other personal information to anyone but you, except for our service providers who help us provide our products and services to you. We also may disclose that information:
 
-We recognize and share the privacy and security concerns of visitors to our Web site. The following Online Privacy and Security Policy provides our Web site visitors with key information as it relates to this important topic: the type of information we collect and its security, how we use the collected information, the benefits to you from the information we do collect, and its disclosure.
+  * in accordance with your express instructions or consent, or the express instructions or consent of your authorized representative;
+  * to carry out transactions requested by you;
+  * for fraud prevention;
+  * to comply with federal or state legal requirements, or as otherwise provided by law.
 
-**What information does Intersections collect?**
 
-Intersections asks for information necessary to provide our products and services to you. To ensure that we protect your personal credit data, we ask questions to authenticate who you are. During the credit order process, we need the following information in order to process your membership and fulfill your benefits: your name, social security number, e-mail address, mailing address, date of birth, credit card type, credit card number and credit card expiration date.
 
-To ensure the authenticity of the individuals who order our credit information products, we always require a social security number in addition to the customer information mentioned above. This is necessary for us to be absolutely certain that we identify you correctly when credit information is pulled from the credit reporting agencies.
+In addition to your credit report information as described above, we collect other personal information in order to:
 
-Members assign their own user name and password to our restricted, members-only section. In addition, we may contact you by e-mail to confirm enrollment or check the accuracy of supplied information as well as to send you notices about special offers, new products, services, promotions and other similar information. Should you wish not to receive e-mails from us, please advise us by e-mail. We will respect your wishes regarding the methods we use to communicate with you.
+  * process your application for our products and services.
+  * verify your identity and retrieve your credit report information.
+  * provide our products and services to you, including customer service and payment processing.
 
-In addition to the information we collect directly from you, we also gather information such as general usage of our Web site, viewing and traffic patterns, customer behavior and other similar information that is not specific to any one person. We use this compiled information solely for the improvement of our Web site, our product and service offerings, our operations and our customer service. We do not share this information with any other organization.
 
-**How secure is this information?**
 
-Intersections Inc. uses the most advanced technology available. 128-bit encrypted Secure Sockets Layer (SSL) keeps your personal information, including credit card numbers, secure from unauthorized access. SSL is supported by Netscape 4.0+, Microsoft IE 4.0+, and most frame-enabled browsers.
+For those purposes, we may collect such information as your name, Social Security number, mailing address, e-mail address, phone number, date of birth, credit card or other payment information, and service records. We may disclose that information to our service providers. We also may disclose that information:
 
-To further ensure that our efforts in implementing our security policy are valid, we engaged ICSA.net, a nationally recognized security firm, to conduct a security audit known as a TruSecure assessment, which concluded that Intersections Inc. met or exceeded all requirements for ICSA.net certification. The following is a quote from their certification letter: “Intersections Inc. has a superior overall security posture. Intersections Inc. abides strictly by the Fair Credit Reporting Act, and is in compliance with the processing, privacy and security requirements of the national credit reporting agencies (Equifax, Experian and TransUnion).”
+  * in accordance with your express instructions or consent, or the express instructions or consent of your authorized representative;
+  * to carry out transactions requested by you;
+  * for fraud prevention;
+  * to comply with federal or state legal requirements; or
+  * as otherwise provided by law.
 
-**Does Intersections Inc. disclose the information it collects to outside parties?**
 
-No, we do not disclose and/or sell any confidential customer information that is obtained or derived from our online interaction with you. However, we must cooperate fully should a situation arise whereby we are REQUIRED by law or legal process to provide information about a customer.
 
-**How does Intersections Inc. update its Privacy and Security Policy?**
+If you became a customer for our products and services through a financial institution with whom we have a joint marketing agreement, we may disclose your information – but not your credit report information – to that financial institution for use in connection with our jointly offered products and services.
 
-Any changes to our Privacy and Security Policy will be posted on this page so that you are always aware of what information we collect and how we use it, as well as the latest updates on how we maintain the secure portions of our Web sites.
+We also may use that information to contact you about our products and services and those of our financial institution partners. By responding to offers by our financial institution partners, you may be disclosing your nonpublic personal information directly to them.
+
+You may notice that we do not offer an “opt-out” of disclosure to third parties for marketing purposes. We do not offer an opt-out because we only disclose your information as described above. Companies who offer an “opt-out” may sell, rent or lease your information to direct marketers, or otherwise provide your information to third parties for marketing purposes, unless you follow the opt-out procedure. 
+
+If you access our Web site, we may use “ session cookies”.  Session cookies are small bits of computer code that we install on your computer for use only during a one-time “session” at our Web site. We use session cookies to make your visit to our Web site easier, and to collect information such as traffic, viewing and usage patterns, but only on an anonymous basis.
+
+We do not use “persistent cookies,” which recognize your computer when you return to our Web site. Because we do not use persistent cookies, you will have to enter your personal information each time you return to a members-only area on our Web site.
+
+To access your personal information on our Web site, you are required to select a user name and password. It is your responsibility to restrict access to your user name and password so that only you may gain entry to your personal information online.
+
+We recognize the importance of advanced security for your information. We maintain physical, electronic and procedural safeguards to protect your personal information. We also undergo both an annual Web certification and quarterly scans or tests by a nationally recognized computer security firm. 
+
+You may access our Web site through other Web sites. We are not responsible for the collection of information by those other Web sites, and are not bound by any policies or statements made on such sites. Other Web sites, Internet search engines and marketing companies through which you access our Web site may use persistent or session cookies and collect information such as traffic, viewing and usage patterns.
+
+Our Web site, and our products and services, are designed for use only by individuals who are 13 years or older.  We do not knowingly solicit or retain information from individuals who are less than 13 years old.
+
+We will not change these policies until those changes are posted on our Web site. If you use our Website, you agree that we may notify you of changes to our privacy policy by updating this Web site.
+
+If you have questions or comments about our privacy policy, please contact us at the customer service number posted on our Web site or provided in your materials.
+
+## Last Updated September 26, 2004
