@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stata.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305014222id_/http%3A//www.stata.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stata.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213212741id_/http%3A//stata.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 ---|---  
 | 
 
-##  Stata.com Privacy Policy
+## Stata.com Privacy Policy
 
   * We do not maintain a web database of customer names, addresses, or credit cards. 
   * Customer information for those customers residing in countries for which we have a distributor is shared with the distributor for their country. Note that we sell Stata directly to customers in the US and Canada. 
