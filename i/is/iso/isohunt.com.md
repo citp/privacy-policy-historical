@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625002111id_/http%3A//www.isohunt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213220748id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
 
-# isoHunt - search BitTorrent » Privacy Policy
+# Privacy Policy | isoHunt - the P2P search engine
+
+Online torrents seen from websites and trackers over the last 5 days, with seeds or leeches
 
 Privacy Policy
 
-isoHunt.com values your privacy. I know this maybe BS to you, but we truely do. In short, we will not make available your personal information (email address, etc.) to any third parties, without your permission.
+isoHunt.com values your privacy. This maybe BS to you, but we truely do. In essence, we will never disclose your personal information (email address, etc.) or activity on this website to any third party, without your permission.
 
-This privacy statement is currently incomplete, but is accurate to our current stance, as of August 8, 2004.
+This privacy statement is currently incomplete, but is accurate to our stance.
 
 ### Third Party Advertising
 
@@ -30,9 +32,4 @@ READ! | [Smileys](https://web.archive.org/privacy.php?smiley)
   
   
   
-[](http://www.spreadfirefox.com/?q=affiliates&id=46279&t=64)
 
-[](https://secure.bmtmicro.com/opera/buy-opera.html?AID=891228)
-
-Sister site:  
-[TorrentBox.com](http://www.torrentbox.com/)
