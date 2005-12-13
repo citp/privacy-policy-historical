@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolrunning.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404023136id_/http%3A//www.coolrunning.com/engine/5/5_8/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolrunning.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214001211id_/http%3A//www.coolrunning.com/engine/5/5_8/index.shtml) for the most accurate reproduction.*
 
 # Cool Running :: Privacy Policy
 
@@ -17,8 +17,6 @@ Contact information from the registration forms is used to ship purchases, infor
 
 Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-The information that you provide will not be shared with any third party without your permission.
-
 Surveys  
 Our occasional online surveys may track visitors' answers to their unique user names. These surveys are used to collect demographic and profile data (like age, gender, and income level) to be shared with advertisers on an aggregate basis. No individual information is ever given out to a third party without your permission. We link users' answers to their unique user names only so that we may automatically fill out the survey with their last answers should the users visit the survey page a second time. 
 
@@ -26,9 +24,9 @@ External Links
 This site contains links to other sites. Cool Sports, Inc is not responsible for the privacy practices or the content of such Web sites. 
 
 Our Partner Sites  
-The Cool Running site also includes links to sites owned by our commerce partners. These sites are not covered by our privacy policy. We do not share any user information with these sites. Any information provided to our partners, including ordering information, is governed by the privacy policy of the partner sites. 
+The Cool Running site also includes links to sites owned by our commerce partners (including, but not limited to, Amazon.com and SignMeUpSports.com). These sites are not covered by our privacy policy. We do not share any user information with these sites. Any information provided to our partners, including ordering information, is governed by the privacy policy of the partner sites. 
 
-Likewise, any exchange of information that takes place during race registration conducted from the Cool Running race calendar is governed by the privacy policy of the relevant race registration firm (including, but not limited to ActiveUSA.com, and SignMeUpSports.com). 
+Likewise, any exchange of information that takes place during race registration conducted from the Cool Running race calendar is governed by the privacy policy of the relevant race registration firm (including, but not limited to, Racegate.com, ActiveUSA.com, and SignMeUpSports.com). 
 
 Public Forums  
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
@@ -60,7 +58,7 @@ This site gives users the following options for changing and modifying informati
   * You can send us e-mail by visiting us at [our contact page](http://www.coolrunning.com/engine/5/5_3/index.shtml) and selecting general feedback department 
   * You can edit your profile by visiting the following URL: <http://www.coolrunning.com/cgi-bin/register/prefs.cgi>
   * You can send mail to the following postal address:  
-Cool Sports, Inc, PO Box 299, Londonderry, NH 03053.
+Cool Sports, Inc, 22 Winsor Drive, Dracut, Massachusetts 01826 
 
 
 
