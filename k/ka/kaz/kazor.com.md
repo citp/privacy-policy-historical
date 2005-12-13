@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kazor.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406005856id_/http%3A//www.kazor.com/admin/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kazor.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213015537id_/http%3A//www.kazor.com/admin/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement kazor.com
 
@@ -39,7 +39,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   1. You can send email to [sales@kazor.com](mailto:sales@kazor.com)
-  2. You can visit the following URL: [http://kazor.com/administration.htm/](https://web.archive.org/web/20050406005856id_/http%3A//www.kazor.com/admin/index.htm)
+  2. You can visit the following URL: [http://kazor.com/administration.htm/](https://web.archive.org/web/20051213015537id_/http%3A//www.kazor.com/admin/index.htm)
   3. You can send mail to the following postal address: 
   4. 410 South Ware Blvd.  
 Suite 619-F   
@@ -53,7 +53,7 @@ Tampa, FL 33619 
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. email [sales@kazor.com](mailto:sales@kazor.com)
-  2. visit [http://kazor.com/administration.htm/](https://web.archive.org/web/20050406005856id_/http%3A//www.kazor.com/admin/index.htm)
+  2. visit [http://kazor.com/administration.htm/](https://web.archive.org/web/20051213015537id_/http%3A//www.kazor.com/admin/index.htm)
   3. send mail to the following postal address: 
   4. 410 South Ware Blvd.  
 Suite 619-F   
