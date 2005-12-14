@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626074026id_/http%3A//www.forbes.com/fdc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214234805id_/http%3A//www.forbes.com/fdc/privacy.html) for the most accurate reproduction.*
 
-# Forbes.com
+# 
 
 ### FORBES.COM PRIVACY STATEMENT
 
-_Revised and posted as of: May 1, 2005_
+_Revised and posted as of: November18, 2005_
 
 Forbes.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Forbes.com Web site. The Forbes.com Web site is owned and operated by Forbes.com Inc.
 
@@ -12,18 +12,18 @@ If you have any questions regarding our privacy statement, please feel free to c
 
 #### Summary
 
-Our primary goal in collecting user information is to enhance your experience on our Web site. We use aggregated (gathered up data across all user accounts) information to develop content targeted to users' interests and to better the Web site user experience. Forbes.com is committed to your privacy and will not share any personal information with any third party at any time, unless required by law.
+Our primary goal in collecting user information is to enhance your experience on our Web site. We use aggregated (gathered up data across all user accounts) information to develop content targeted to users' interests and to better the Web site user experience. Forbes.com is committed to your privacy and other than as provided herein or after receiving your specific consent, Forbes.com will not share any personal information with any third party at any time, unless required by law.
 
 #### What this Privacy Policy Covers
 
-This privacy policy covers the Web site Forbes.com. Forbes.com charges a nominal fee to access Forbes magazine content that is aged fourteen days or older. Formatted versions of Forbes lists and subscriptions to investment newsletters also require payments. This privacy policy covers all these transactions as well. Other Forbes.com sites linked to from this Web site, including Forbesautos.com, have their own privacy statements which can be viewed on those sites.
+This privacy policy covers the Web site Forbes.com. Formatted versions of Forbes lists and subscriptions to investment newsletters also require payments. This privacy policy covers all these transactions as well. Other Forbes.com sites linked to from this Web site, including Forbesautos.com, have their own privacy statements which can be viewed on those sites.
 
 Please be aware that Forbes.com sponsors, advertisers, co-branded Web site or Web sites that have links on our site may collect personally identifiable information about you on their Web sites. The information practices of those parties are not covered by this privacy statement. Forbes.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others.
 
 #### Gathering of Information
 
 **Voluntary Submission**  
-Forbes.com does not collect personally identifying information about any individual Forbes.com Web site user except when knowingly provided by such individual. For example, we may ask you for information, such as your e-mail address, zip code and the country in which you are viewing the Web site when you register to become a member of Forbes.com, to customize your Attaché or other personalization applications, to enter a contest or complete a survey or to receive a newsletter. When you purchase aged articles or subscriptions to investment newsletters, you will be asked for additional personal information, such as your address, telephone number and credit card information, in order to complete the purchase. You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still visit most of the Forbes.com Web site, but you may be unable to access certain options and services.
+Forbes.com does not collect personally identifying information about any individual Forbes.com Web site user except when knowingly provided by such individual. For example, we may ask you for information, such as your e-mail address, zip code and the country in which you are viewing the Web site when you register to become a member of Forbes.com, to customize your Attachal personal information, such as your address, telephone number and credit card information, in order to complete the purchase. You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still visit most of the Forbes.com Web site, but you may be unable to access certain options and services.
 
 **Cookies**  
 A cookie is a data file that certain Web sites write to your computer's hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited. Forbes.com uses cookies to track user traffic patterns throughout the Forbes.com Web site and to remember your passwords and video plug-in preferences so that you don't have to reset them each time you visit the Web site. We use this data on an anonymous basis and we do not correlate this information with personal data of any user. Business partners of Forbes.com and vendors providing hosting and other services for Forbes.com., as well as advertisers who contract directly with a third-party service to serve their advertisements, may set their own cookies which may collect similar anonymous information.
@@ -57,7 +57,10 @@ When you are on an area of Forbes.com and are asked for personal information, yo
 Forbes.com derives the majority of its revenue from advertising and sharing information is essential to keeping our services affordable to users. In order to attract and retain advertisers we use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. We do not disclose personally identifying information about our users to these parties.
 
 **As Necessary to Provide Services to You**  
-We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of newsletter mailings, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. In some instances, one of these companies may collect information directly from you (such as for credit card processing for purchase of archived articles). In these cases, you will be notified of the involvement of the external service provider. In all cases, these companies are subject to agreements that require them to maintain the confidentiality of your information and they are prohibited from using that information for any other purpose.
+We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of newsletter mailings, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. In some instances, one of these companies may collect information directly from you (such as for credit card processing for purchase of archived articles). In these cases, you will be notified of the involvement of the external service provider. In all cases, these companies are subject to agreements that require them to maintain the confidentiality of your information and they are prohibited from using that information for any other purpose. If you join the Forbes.com / Morrell Wine Club, the personal information that you provide will be shared with our partner Morrell & Company and subject to the terms of their privacy policy, which can be found at <http://store.morrellwine.com//generic.jsp?id=FAQ>
+
+**In The Event of Sale or Bankruptcy**  
+The ownership of Forbes.com may change at some point in the future. Should that occur, we want this site to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy or other change in control of Forbes Inc. and/or Forbes.com your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information. 
 
 **As Required By Law**  
 Forbes.com may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to conform to the edicts of the law or comply with legal process served on Forbes.com or to protect and defend the rights or property of Forbes.com.
@@ -74,11 +77,7 @@ If you have any questions regarding our privacy statement, please feel free to c
 **How Will I Know if the Privacy Policy Is Changed?**  
 This statement may change from time to time, so please check back periodically. [If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail.]
 
-© 2005 Forbes.com Inc. All Rights Reserved.
-
-#### DEFINITIONS:
-
-**IP address:** Every computer connected to the Internet has a numeric address called an "IP address." This may or may not correspond uniquely to a particular computer. In some cases, IP addresses can be resolved to domain names, which may indicate a site visitor's Internet service provider, employer, university, etc. As part of its database analysis Forbes.com resolves IP addresses to domain names.
+te visitor's Internet service provider, employer, university, etc. As part of its database analysis Forbes.com resolves IP addresses to domain names.
 
 **Browser type:** A user's browser is a software program running on a computer that allows users to access documents on the World Wide Web. Browsers can be either text or graphic. They read HTML coded pages that reside on a server and interpret the coding into what the user sees as Web pages. Netscape Navigator and Microsoft Internet Explorer are examples of Web browsers. Browser type typically discloses hardware platform, operating system, and browser software and version.
 
