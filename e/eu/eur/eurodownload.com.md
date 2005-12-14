@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurodownload.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403184546id_/http%3A//www.eurodownload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurodownload.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214034106id_/http%3A//www.eurodownload.com/privacy.php) for the most accurate reproduction.*
 
 # Download - Software, freeware, shareware
 
@@ -43,4 +43,4 @@ The Euro Download.com site contains many hyperlinks to other Web sites and from 
 **Your Consent to This Agreement**  
 By using our Web site, you consent to the collection and use of information by Euro Download.com and agree to receive communications from Euro Download.com as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-Please send any questions about Euro Download.com's Privacy Policy here: [contact us](https://web.archive.org/web/20050403184546id_/http%3A//www.eurodownload.com/contact.php). 
+Please send any questions about Euro Download.com's Privacy Policy here: [contact us](https://web.archive.org/web/20051214034106id_/http%3A//www.eurodownload.com/contact.php). 
