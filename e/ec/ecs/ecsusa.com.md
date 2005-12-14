@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ecsusa.com privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311083951id_/http%3A//www.ecsusa.com/aboutUs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecsusa.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214031824id_/http%3A//www.ecsusa.com/aboutUs/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[About ECS](https://web.archive.org/web/20050311083951id_/http%3A//www.ecsusa.com/aboutUs/index.html) > Privacy Policy 
+[About ECS](https://web.archive.org/web/20051214031824id_/http%3A//www.ecsusa.com/aboutUs/index.html) > Privacy Policy 
 
 ECS Elitegroup Computer Systems Inc. and its subsidiaries respect your privacy and are committed to protecting it. ECS Elitegroup Computer Systems Inc. provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We've structured our websites so that, in general, you can visit ECS Elitegroup Computer Systems Inc. on the Web without identifying yourself or revealing any personal information. We make this notice readily available on our home page and at the bottom of every ECS Elitegroup Computer Systems Inc. Web page. 
 
