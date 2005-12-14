@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204072600id_/http%3A//midphase.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214101851id_/http%3A//midphase.com/html_files/privacy_policy.php) for the most accurate reproduction.*
 
-# midPhase - The Best Value in Web Hosting.
+# midPhase - Unmetered Bandwidth™
 
-**Privacy Policy Statement**
+  
+**Privacy Policy**
 
 This is the web site of midPhase Services, Inc. (midphase.com)
 
 Our postal for legal and privacy issues is satellite office:
 
 midPhase Services, Inc.  
-Privacy Policy Statement  
-117 E. Palatine Rd. Suite 104  
-Palatine, IL 60067 USA
+223 West Jackson Blvd. Suite 600  
+Chicago, IL 60606
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
