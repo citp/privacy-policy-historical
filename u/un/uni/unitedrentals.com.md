@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unitedrentals.com privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622083517id_/http%3A//www.unitedrentals.com/index.php/notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedrentals.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215005344id_/http%3A//www.unitedrentals.com/index.php/notices/privacy) for the most accurate reproduction.*
 
-# United Rentals Privacy Policy and Terms of Use
+# United Rentals - Privacy Policy
 
 Protecting your information online is of the utmost importance to United Rentals, Inc. (together with its affiliated companies, "United Rentals"). This Privacy Policy explains how we will and will not use the information you entrust to us through the United Rentals website located at http://www.ur.com, http://www.urdata.ur.com, and http://www.unitedrentals.com (collectively, the "Site"). 
 
