@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403183605id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214154734id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
 
 # bakersfield.com | Privacy Policy
 
-[Super Bowl TXT Challenge](http://www.bakersfield.net/forms/superbowl)
+| 
 
 SEARCH
 
@@ -164,4 +164,6 @@ Bakersfield.com
 1707 Eye St. (P.O. Bin 440)  
 Bakersfield CA 93302  
 661-395-7500  
-e-mail: [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com)
+e-mail: [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com)  
+  
+---|---
