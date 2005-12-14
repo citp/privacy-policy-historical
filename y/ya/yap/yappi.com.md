@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yappi.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403194702id_/http%3A//www.yappi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yappi.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214054429id_/http%3A//www.yappi.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
