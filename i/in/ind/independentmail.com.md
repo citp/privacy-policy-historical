@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305112330id_/http%3A//www.independentmail.com/and/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214212654id_/http%3A//www.independentmail.com/and/privacy_policy) for the most accurate reproduction.*
 
 # Anderson Independent Mail: Privacy Policy
 
@@ -53,4 +53,4 @@ At any time while assessing our sites, any user while online may "opt-out" of fu
 
 **Use of Materials**
 
-The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at gouchjk@andersonsc.com. For more complete information regarding the use our sites, please link to User Agreement.
+The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at online@andersonsc.com. For more complete information regarding the use our sites, please link to User Agreement.
