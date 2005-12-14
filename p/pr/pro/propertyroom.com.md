@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyroom.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611082013id_/http%3A//www.propertyroom.com/cgi-bin/ncommerce3/ExecMacro/static/privacy.d2w/report%3Fwl%3D31895249) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyroom.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214093015id_/http%3A//www.propertyroom.com/cgi-bin/ncommerce3/ExecMacro/static/privacy.d2w/report%3Fwl%3D31895249) for the most accurate reproduction.*
 
 # propertyroom.com Privacy policy
 
