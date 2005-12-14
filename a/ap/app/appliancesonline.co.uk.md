@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliancesonline.co.uk privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308192711id_/http%3A//www.appliancesonline.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliancesonline.co.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214052420id_/http%3A//www.appliancesonline.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Appliances Online Privacy Statement
 
