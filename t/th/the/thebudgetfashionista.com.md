@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402054141id_/http%3A//www.thebudgetfashionista.com/bf/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214131734id_/http%3A//www.thebudgetfashionista.com/bf/policy.php) for the most accurate reproduction.*
 
-# The Budget Fashionista :: PRIVACY POLICY and DISCLAIMER
+# The Budget Fashionista: Shopping Tips, Fashion Advice, Beauty Reviews, Online Coupons for REAL Women
 
 ##  The Budget Fashionista PRIVACY POLICY and DISCLAIMER 
 
@@ -78,8 +78,8 @@ The material that you read in this site is provided solely for entertainment, pr
 The Budget Fashionista welcomes your questions and comments about privacy. 
 
 Our postal address is:  
-P.O. Box 3005   
-Exton, PA 19341  
+318 Pavonia Ave #683   
+Jersey City, NJ 07310  
 
 
 Question and comments can be sent to the following address: info@thebudgetfashionista.com 
