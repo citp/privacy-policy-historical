@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classicdriver.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207141926id_/http%3A//www.classicdriver.com/uk/service/6600.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicdriver.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214235241id_/http%3A//www.classicdriver.com/uk/service/6600.asp) for the most accurate reproduction.*
 
-# Classic Driver - Contact & Information - Privacy Policy
+# Classic Driver - CONTACT - Privacy Policy
 
 **At Classic Driver we aim to be your long-term partner when you look for a car. As your requirements change over the years we want to be there to help you and we are committed to building and creating a product and service available to you 24 hours a day, seven days a week that will help you find your ideal car.
 
