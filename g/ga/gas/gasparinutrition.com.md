@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gasparinutrition.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207124910id_/http%3A//www.gasparinutrition.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gasparinutrition.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214083215id_/http%3A//www.gasparinutrition.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Gaspari Nutrition - Training & Diet Information, Sports Supplements by Rich Gaspari - IFBB Pro
 
@@ -14,7 +14,7 @@ Gaspari Nutrition respects the privacy of every individual who visits its Web Si
 
 **How We Use Email** After you place an order on our site, you will receive an email confirmation and, in most cases, an email with package tracking information. We send the Gaspari Newsletter, our email update on sales and products, who we think might be interested in receiving this information. Unsubscribe instructions are included in each edition of the email. We do not sell or share email addresses with other companies. 
 
-**How to Contact Gaspari** If you have submitted information to Gaspari through its Web Site and you would like Gaspari to delete that information from its records please contact Gaspari at (732) 918-9260 (8am to 6pm, Monday through Friday, Eastern Standard Time). Gaspari will make reasonable efforts to delete your personal information from its files. 
+**How to Contact Gaspari** If you have submitted information to Gaspari through its Web Site and you would like Gaspari to delete that information from its records please contact Gaspari at 1.888.742.7727 (8am to 6pm, Monday through Friday, Eastern Standard Time). Gaspari will make reasonable efforts to delete your personal information from its files. 
 
 †These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat or prevent any disease. Gaspari Nutrition does not condone the use of illegal anabolic steroids. Oxavar, M-One-T and Methyl-D are NOT intended to be stacked 
 
