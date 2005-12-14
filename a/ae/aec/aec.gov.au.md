@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615135452id_/http%3A//www.aec.gov.au/_content/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214113220id_/http%3A//www.aec.gov.au/_content/help/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
