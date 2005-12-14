@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remotelyanywhere.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404032725id_/http%3A//www.remotelyanywhere.com/template.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remotelyanywhere.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214094417id_/http%3A//www.remotelyanywhere.com/template.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # RemotelyAnywhere - Remote Access Solutions
 
