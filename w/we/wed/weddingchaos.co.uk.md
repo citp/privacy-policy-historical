@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the weddingchaos.co.uk privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206015205id_/http%3A//www.weddingchaos.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingchaos.co.uk privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215000256id_/http%3A//www.weddingchaos.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# Wedding Chaos - plan your wedding, venues, photographers, cakes, caterer, wedding dresses, we have help for it all!
-
-## Privacy Policy
+# Wedding Chaos - Privacy Policy
 
 We are committed to protecting your right to privacy. Wedding Chaos respects your privacy and we will use our best efforts to ensure that the information you provide to us remains private. Information provided will only be stored on computers based in the UK.
 
