@@ -1,18 +1,33 @@
-> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305102159id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214183142id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # Runner's World - Privacy Policy
 
-| | |  | | | 
-
-  **TERMS AND CONDITIONS**  
-
-| |        
----|---|---|---  
-   
+|   
   
+---  
+  
+Ten Of The Best: National Highlights
+
+| **22/1** | [Folksworth 15, Cambs](https://web.archive.org/events/viewevent.asp?EN=27953)  
+---|---  
+**5/2** | [Alsager 5, Cheshire](https://web.archive.org/events/viewevent.asp?EN=30046)  
+**5/2** | [Asics Watford Half-Marathon, Herts](https://web.archive.org/events/viewevent.asp?EN=28027)  
+**5/2** | [Blackmore Vale Half-Marathon, Dorset](https://web.archive.org/events/viewevent.asp?EN=27181)  
+**5/2** | [SiS Longleat 10K, Wilts](https://web.archive.org/events/viewevent.asp?EN=28031)  
+**11/2** | [London Valentines 10K Love Run, London](https://web.archive.org/events/viewevent.asp?EN=28039)  
+**12/2** | [Liversedge Half-Marathon, W Yorks](https://web.archive.org/events/viewevent.asp?EN=27257)  
+**12/2** | [Meon Valley Plod 19.5, Hants](https://web.archive.org/events/viewevent.asp?EN=27388)  
+**12/2** | [Wokingham Half-Marathon, Berks](https://web.archive.org/events/viewevent.asp?EN=28115)  
+**26/2** | [Great North West Half-Marathon, Lancs](https://web.archive.org/events/viewevent.asp?EN=29333)  
+| [More races](https://web.archive.org/entry)  
+  
+[](https://web.archive.org/asicsonlineentrypod)  
+  
+| | 
+
 PRIVACY POLICY
 
-**As the publishers of Runner's World, Natmag-Rodale Ltd is committed to respecting the privacy of its users. However, we do collect and use various bits of information about you through your use of this website, and this policy sets out the basis on which your personal data will be collected, stored and processed. The data collector for this website is Natmag-Rodale Ltd, with its registered office at 33 Broadwick St, London W1F 0DQ. Please note that this policy only addresses our activities, and other sites to which this website links may have their own privacy policies and practices, which we do not control.** 1.| Collection  
+**As the publishers of Runner's World, Natmag-Rodale Ltd is committed to respecting the privacy of its users. However, we do collect and use various bits of information about you through your use of this website, and this policy sets out the basis on which your personal data will be collected, stored and processed. The data collector for this website is Natmag-Rodale Ltd, with its registered office at 33 Broadwick St, London W1F 0DQ. Please note that this policy only addresses our activities, and other sites to which this website links may have their own privacy policies and practices, which we do not control.** | 1.| Collection  
 ---|---  
  | We shall ask you to supply personal information (data) to us in the following circumstances: 
 
