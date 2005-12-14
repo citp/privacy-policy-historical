@@ -1,58 +1,81 @@
-> *The following text is extracted and transformed from the wwg.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622090440id_/http%3A//www.intellisync.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwg.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214103725id_/http%3A//www.intellisync.com/pages/_utility/privacy) for the most accurate reproduction.*
 
-# Intellisync Corporation: Online Privacy Policy
+# 
 
-## Intellisync Corporation's Online Privacy Policy
+Announcing
 
-**What this Privacy Policy Covers**
+Wireless Email Express
 
-This document sets forth Intellisync Corporation's Online Privacy Policy (the "Privacy Policy") for this Web site, www.pumatech.com (the "Site"). If you have objections to the Privacy Policy, you should not access or use this Site.
+|  | 
 
-This policy does not apply to the practices of companies that Intellisync Corporation does not own or control, or to people that Intellisync Corporation does not employ or manage. The Site contains links to other sites at which personal information is collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site. You should review the privacy policy of such sites before using the sites.
+Ideal for the smaller enterprise - your ticket to fast, low-hassle wireless email!  
+  
+---|---  
+  
+  
 
-**Information Collection**
 
-All personal information (any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains) that we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of such collection. Intellisync Corporation collects personally identifiable information when you purchase product from our Web store, and during product registration including: your name, address, email, billing information (such as credit card), or other information from which your identity may be reasonably ascertained. The personal information collected from users during these processes is used for billing purposes, setup of products and services requested, and product support. 
+## Privacy Policy
 
-When ordering products or services on the Site, you may be asked to provide a credit card number and, depending on the activity, some of the information we ask you to provide is mandatory and voluntary. If you do not provide the mandatory data with respect to the online activity, you will not be able to engage in that activity.
+Intellisync believes strongly that every person has the right to privacy. When using our website, services and/or products, you may give us information. Intellisync asks for and maintains information on its visitors and customers to provide a better, more personal experience.   
+Privacy is very important to Intellisync. This privacy statement describes the conduct and practices of Intellisync as it applies to our clients and visitors.  
 
-Occasionally, we conduct online surveys on the Site that are entirely voluntary. The information collected here is used to improve our understanding of customer needs and product development.
 
-**Information Use**
+Information Collection
 
-Intellisync Corporation uses the information collected for these general purposes: to administer billing, to register your rights, if any, to technical support or other benefits that may be made available to registered users. If you voluntarily enter a contest, information is collected to qualify entry and contact you in regards to applicable awards. Your personal information is also used to keep you informed of product upgrades, special offers, and important changes to products or services rendered. Upon receipt of these communications, users are provided the option to unsubscribe from receiving future communications from Intellisync Corporation.
+Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, a home, postal or other physical address, other contact information, title, birth date, gender, occupation, industry, personal interests, other information when needed to provide a service you requested.  
+When you browse our website, you do so anonymously, unless you have previously indicated that you wish Intellisync to remember your login and password. We don't automatically collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there. But we do not link your IP address to any personal information unless you have logged in to our website. Like many other commercial websites, the Intellisync website may use a standard technology called a "cookie" to collect information about how you use the site. Please go to "Cookies and Tracking Technology" below for more information.  
+Intellisync collects personal information when you register with Intellisync for an Intellisync account, when you use certain Intellisync products or services, when you register to attend a seminar or participate in an online survey, when you ask to be included in an email or other mailing list, or you submit an entry for a sweepstakes or other promotions, or when you submit your personal information to Intellisync for any other reason. From time to time, Intellisync receives personal information from business partners and vendors. Intellisync only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Policy and applicable laws.  
+Access to certain Intellisync web pages require a login and a password. The use of those web pages, and the information or programs downloadable from those sites, may be governed by a written agreement between your employer and Intellisync. Unless you request deletion of your personal information as specified below, your personal information may be retained by Intellisync to verify compliance with the agreement, log software licenses granted, to track software downloaded from those pages, or track usage of other applications available on those pages.
 
-Users of the My Mind-it and Mind-it for Webmasters services will receive notification alerts when a Web page they are tracking changes, is moved or is no longer available, and/or when the Web page they are tracking does not have any activity for 30 days. Due to the nature of their services, a separate Privacy Policy has been posted and can be viewed at [_www.mymindit.com/privacy.html_](http://www.mymindit.com/privacy.html). 
+Notice
 
-**Information Sharing and Disclosure**
+When personal information is collected, we will inform you at the point of collection the purpose for the collection. Intellisync will not transfer your personal information to third parties without your consent, except under the limited conditions described under the discussion entitled "Information Sharing and Disclosure" below.  
+If you choose to provide us with your personal information, we may only transfer that information, within Intellisync or to Intellisync's third party service providers with your permission. Upon receiving your permission, we may transfer your information across borders and from your country or jurisdiction to other countries or jurisdictions around the world.  
+We will always give you the opportunity to "opt out" of receiving direct marketing or market research information. This means we assume you have given us your consent to collect and use your information in accordance with this Policy unless you take affirmative action to indicate that you do not consent, for instance by clicking or checking the appropriate option or box at the point of collection. In some cases, when applicable, we will provide you with the opportunity to "opt in." This means we will require your affirmative action to indicate your consent before we use your information for purposes other than the purpose for which it was submitted.
 
-Intellisync Corporation occasionally conducts online surveys that will ask you to voluntarily disclose your demographic and other profile information (such as your first and last name, mailing address, email and other personal information). Your personally identifiable information will be used internally by Intellisync Corporation for the purpose of improving our product and service offerings and will not be shared with any third party. However, aggregated statistical usage information, like the number of users and services used, may be shared with third parties such as potential advertisers and partners. 
+Cookies and Tracking Technology
 
-Intellisync Corporation will send personally identifiable information about you to other companies or people when: (a) reasonably required to do so in order to maintain, update or otherwise implement data security measures, equipment, technical operations and the like on the Site, (b) reasonably necessary to identify, contact or bring legal action against persons or entities to preserve and/or enforce Intellisync Corporation's rights or (c) reasonably necessary to respond to subpoenas, court orders or legal process. If Intellisync Corporation sells assets (or the assets of a division or subsidiary) to another entity, or Intellisync Corporation (or a division or subsidiary) is acquired by, or merged with, another entity, Intellisync Corporation may provide to such entity customer information that is related to that part of our business that was sold to or merged with the other entity without your consent. 
+Intellisync employs cookies in order for its server to recognize a return visitor as a unique user. Cookies are small text files placed in the 'Cookies' folder on a visitor's hard disk and allow for Intellisync to remember the visitor. The cookies placed by the Intellisync server are readable only by Intellisync, and cookies cannot access, read or modify any other data on a computer. All web-browsers offer the option to refuse any cookie, and if a visitor refuses the Intellisync cookie then Intellisync does not gather any information on that visitor.
 
-Any information you post to a public bulletin board or chat room, such as the Intellisync MobileApp Designer Message Board or Intellisync MobileApp Designer Yahoo Groups (the "Forums"), is available to all persons accessing that location. Your e-mail address will not automatically be posted on the Forums unless you modify the default setting to permit that. Your e-mail address would then be available to all persons accessing the Forums. In addition, you should be aware that some of the Forums offer a service in which subscribers are e-mailed a copy of all messages posted to the Forums on a particular topic. Consequently, if you post a message to the Forums, your e-mail address will be sent to those subscribers that have indicated an interest in the topic of your message.
+Information Collected
 
-**Cookies and How We Use Them**
+The Intellisync system will gather information such as what kind of browser a visitor is on, what operating system they are using, their IP address, and their clickstream information (for example, which pages they have viewed and how long they have been there). Note that information is only gathered while the visitor is on the website in question -- in this case [www.Intellisync.com](http://www.intellisync.com/). Intellisync monitors how a visitor arrives at the website, but cannot and will not gather information about other sites the visitor has been on. 
 
-A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. Visitors can browse the Site and access important information without revealing your identity. Session cookies are used when purchases are made from the Intellisync Corporation Web Store, and are automatically deleted once the user leaves www.pumatech.com. Other Intellisync Corporation services such as My Mind-it, Mind-it for Webmasters, and corporate Maintenance subscriptions use cookies to identify users with an encrypted password and/or license key to ensure the security of their information and allow access to services rendered.
+At times, Intellisync may ask for more specific contact information to be entered as a means of registration before accessing a certain part of the site. Intellisync uses this information to understand its visitors and, with permission, to provide visitors with updates on the company and its products. A visitor may always option to not enter any information about themselves.  
 
-**Changes to this Privacy Policy**
 
-Intellisync Corporation reserves the right to change this policy at any time, and will provide notice of material changes on the home page of the Site.
+Information Usage
 
-**Security**
+Intellisync collects identifying information when you use certain Intellisync products or services, when you visit Intellisync.com web pages or microsite web pages, or when you enter promotions or contests.  
+Intellisync also automatically receives and records information on our server logs from your browser including your IP address, cookie information, time stamp (time page accessed as well as time spent per web page), as well as the specific pages you requested.   
+The only time Intellisync, its partners, subsidiaries, agents, officers or employees would provide specific information to anyone is if required to do so by law, and even then only to the proper authorities.
 
-Intellisync Corporation has security measures in place to protect the loss, misuse and alteration of your information that is under our control. 
+Information Sharing and Disclosure
 
-**Questions**
+Because Intellisync is a global company, your personal information may be shared with other Intellisync offices or subsidiaries around the world. All such entities are governed by this Privacy Policy or are bound by the appropriate confidentiality and data transfer agreements.  
+Your personal information is never shared outside Intellisync without your permission, except under conditions explained below. Inside Intellisync, data is stored in controlled servers with limited access. Your information may be stored and processed in the United States or any other country where Intellisync, its subsidiaries, affiliates or agents are located.  
+Intellisync may send your personal information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of Intellisync to provide a product or service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners (unless you have opted out of these types of communications). We will also disclose your personal information if required to do so by law, to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our websites.
 
-Intellisync Corporation takes its users' privacy concerns seriously. If you believe that Intellisync Corporation has not complied with this Online Privacy Policy with respect to your personal information or you have other related inquiries or concerns, you contact Intellisync Corporation at [privacy@intellisync.com](mailto:privacy@intellisync.com) or write to: 
+Data Security
 
-Intellisync Corporation  
-Attn. Legal Department  
-2550 North First Street, Suite #500  
-San Jose, CA 95131
+Your Intellisync account information is password-protected for your privacy and security. Intellisync safeguards the security of the data you send us with physical, electronic, and managerial procedures. In certain areas of our websites, Intellisync uses industry-standard SSL-encryption to enhance the security of data transmissions. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
 
-In your correspondence, be sure to include your name, address, and/or email address, and please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Intellisync Corporation Online Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly.
+Children and Privacy
 
-Last updated: 05-01-2002
+Our websites do not target and are not intended to attract children under the age of 13. Intellisync does not knowingly solicit personal information from children under the age of 13 or send them requests for personal information.
+
+Third Party Sites
+
+Intellisync's website contains links to other sites. Intellisync does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.  
+Our website may contain links to websites operated by other companies. Some of these third-party sites may be co-branded with a Intellisync logo, even though they are not operated or maintained by Intellisync. Although we choose our business partners carefully, Intellisync is not responsible for the privacy practices of web sites operated by third parties that are linked to our site. Once you have left our website, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you.
+
+Changes to this Privacy Policy
+
+Intellisync will amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on this site.
+
+Questions or Suggestions
+
+If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [privacy@Intellisync.com](mailto:privacy@Intellisync.com).  
+This document was last updated October 14, 2004  
+
