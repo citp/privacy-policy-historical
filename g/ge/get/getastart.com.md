@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the getastart.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305061508id_/http%3A//www.getastart.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getastart.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215004141id_/http%3A//getastart.com/privacy.htm) for the most accurate reproduction.*
 
-# getastart.com - content
+# Privacy Policy - getAstart.com
+
+## Privacy Policy
 
 This is the web site of [www.getastart.com](http://www.getastart.com/).
 
@@ -24,3 +26,5 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.  
 
+
+* * *
