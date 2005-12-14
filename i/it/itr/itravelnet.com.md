@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itravelnet.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305100846id_/http%3A//www.itravelnet.com/info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itravelnet.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214123700id_/http%3A//itravelnet.com/info/privacypolicy.html) for the most accurate reproduction.*
 
 # iTravelnet: Privacy Policy
 
