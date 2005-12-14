@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michigan.gov privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308114633id_/http%3A//michigan.gov/som/0%2C1607%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michigan.gov privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214164130id_/http%3A//michigan.gov/som/0%2C1607%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
 
 # Michigan Privacy Policy
 
@@ -24,7 +24,7 @@ In order to customize your browsing experience, Michigan uses "cookies". Cookies
   3. If you choose to register with Michigan to personalize the site and wish to be remembered, Michigan uses permanent cookies that remain on your computer's hard drive as small text files. These permanent cookies allow Michigan to recognize you when you return to our site. When you register with Michigan, we ask you to identify yourself by your name and email address. This allows Michigan to customize the presentation of information for you based upon what you have asked for and/or voluntarily provided during previous visits. Michigan only uses permanent cookies with the permission of the user.
   4. If you choose to register with Michigan to personalize the site but do not wish to be remembered, Michigan uses session cookies that are destroyed when you close your browser.
 
-Michigan has links to other web sites outside of state government. When you link to one of these sites, Michigan cannot control their use of cookies and this privacy policy will not apply. [Click here to view the Michigan Linking Policy](http://www.michigan.gov/emi/1,1303,7-102----LP,00.html). 
+Michigan has links to other web sites outside of state government. When you link to one of these sites, Michigan cannot control their use of cookies and this privacy policy will not apply. [Click here to view the Michigan Linking](http://www.michigan.gov/uia/0,1607,7-118-1543-2089--,00.html) [Policy](http://www.michigan.gov/emi/1,1303,7-102----LP,00.html). 
 
 If you choose to do so, you can configure your browser to notify you when a new cookie is received. You can also prevent your browser from accepting any new cookies, view and delete existing cookies or disable cookies altogether. Click here to link to directions on how to do this.
 
