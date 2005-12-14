@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the musicmazaa.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010120852id_/http%3A//musicmazaa.com/docs/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicmazaa.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214120826id_/http%3A//musicmazaa.com/docs/privacypolicy.php) for the most accurate reproduction.*
 
-# » MusicMazaa.com- Telugu
+# Privacy Policy » MusicMazaa.com
+
+  
+
 
 MusicMazaa has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:   
 **Information Automatically Logged**   
@@ -17,5 +20,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 Children's Guidelines ( Children under 13 ) **   
 This site collects and uses personally identifiable information without prior verifiable parental consent. This site allows children to post or distribute any personally identifiable information without first obtaining verifiable parental consent.   
 **Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [Contact us.](mailto:privacy@MusicMazaa.com?subject=Privacy%20Statement)   
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [Contact us.](mailto:privacy@MusicMazaa.com?subject=Privacy%20Statement)
