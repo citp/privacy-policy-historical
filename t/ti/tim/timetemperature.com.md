@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403203712id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214231403id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -34,4 +34,4 @@ To try and bring you offers that are of interest to you, we have relationships w
 
 **Comments or Questions** If you have any comments or suggestions about the information presented here please [contact](http://www.timetemperature.com/contact.html) us. 
 
-[Return to Home Page](https://web.archive.org/web/20050403203712id_/http%3A//www.timetemperature.com/index.html)
+[Return to Home Page](https://web.archive.org/web/20051214231403id_/http%3A//www.timetemperature.com/index.html)
