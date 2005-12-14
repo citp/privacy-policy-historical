@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nola.com privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423101544id_/http%3A//www.nola.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nola.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214111306id_/http%3A//www.nola.com/privacypolicy) for the most accurate reproduction.*
 
 # NOLA.com: Privacy Policy
 
@@ -65,13 +65,17 @@ New Orleans, LA 70130
   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
-» [Media Kit](https://web.archive.org/media_kit)  
+» [Media Kit](https://web.archive.org/mediakit)  
 » [Our Affiliates](https://web.archive.org/affiliates/)  
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
   
-  
+| **FROM OUR ADVERTISERS**  
+---  
+>>   
+>>    
+>>   
   
   
 
