@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the hometownquotes.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303004653id_/http%3A//www.hometownquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometownquotes.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214180135id_/http%3A//www.hometownquotes.com/privacy.html) for the most accurate reproduction.*
 
 # HometownQuotes.Com :: Free Online Quotes for All of Your Insurance Needs - Auto, Home, Life, Health and More!
 
 At HometownQuotes.Com, we value your privacy. You trust us and our members to serve your insurance needs and we take this responsibility very seriously. Our privacy policy is simple: HometownQuotes.Com and its affiliates respect your right to confidentiality and do not share your personally identifiable information unless it is at your request to carry out a transaction or provide a service, with your authorization, or as permitted by law. Even in that case, when you submit information to HometownQuotes.Com, you authorize us to share this information only with the qualified network of HometownQuotes.Com members. Accordingly, we will continue to do everything we can to ensure that your personally identifiable information remains private.
 
-By submitting the information you are asked for, you are authorizing the recipients of your information (the agents) to use it in a manner deemed necessary to provide you with an accurate quote on your insurance.  This may include, but is not limited to, credit checks, driving history, and insurance claims history.
+By submitting the information you are asked for, you are authorizing the recipients of your information (the agents) to use it in a manner deemed necessary to provide you with an accurate [quote on your insurance](http://www.hometownquotes.com/).  This may include, but is not limited to, credit checks, driving history, and insurance claims history.
 
-HometownQuotes.Com may notify you of special promotions offered by the insurance agents and underwriters in our network or related service providers. No personal information about you will be supplied to the promotion sponsors unless you express an interest in the offer by e-mail or by phone. You have the option to decline such offers and be removed from e-mail promotion lists at any time. To make this request, please [contact us](https://web.archive.org/web/20050303004653id_/http%3A//www.hometownquotes.com/contactus.html).
+By submitting a form with your telephone number you are consenting for HometownQuotes.Com and all authorized agents to contact you even if your name is on a Federal or State "Do not call List".
+
+HometownQuotes.Com may notify you of special promotions offered by the insurance agents and underwriters in our network or related service providers. No personal information about you will be supplied to the promotion sponsors unless you express an interest in the offer by e-mail or by phone. You have the option to decline such offers and be removed from e-mail promotion lists at any time. To make this request, please [contact us](https://web.archive.org/web/20051214180135id_/http%3A//www.hometownquotes.com/contactus.html).
 
 **Confidentiality and Security**
 
@@ -18,4 +20,4 @@ SSL technology ensures that only you, HometownQuotes.Com and our insurance agent
 
 **HometownQuotes.Com's Commitment to Fair Information Practices**
 
-HometownQuotes.Com believes in the power of information technology and is pleased to provide consumers with an exclusive lender referral and screening service. Likewise, we are committed to fair information practices in e-commerce. We freely disclose our privacy policies to every HometownQuotes.Com user and our participating agents and underwriters, and continually evaluate our practices and the latest technologies to ensure our users and network the highest level of security and protection of privacy. 
+We are committed to fair information practices in e-commerce. We freely disclose our privacy policies to every HometownQuotes.Com user and our participating agents and underwriters, and continually evaluate our practices and the latest technologies to ensure our users and network the highest level of security and protection of privacy. 
