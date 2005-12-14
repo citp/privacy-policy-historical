@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serence.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403204438id_/http%3A//www.serence.com/site.php%3Faction%3Dser_legal%2Clegal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serence.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214135017id_/http%3A//www.serence.com/site.php%3Faction%3Dser_legal%2Clegal_privacy) for the most accurate reproduction.*
 
 # serence | company | privacy policy
 
