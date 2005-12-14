@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinepoker.net privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527190718id_/http%3A//www.australianmedia.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinepoker.net privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214094402id_/http%3A//www.australianmedia.com/privacystatement.htm) for the most accurate reproduction.*
 
 # AustralianMedia.com: Privacy Statement.
 
