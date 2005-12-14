@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualitynet.net privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406002429id_/http%3A//www.qualitynet.net/index.php%3Fpage%3Dinner%26action%3Dpages_show%26id%3D10752) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitynet.net privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214153951id_/http%3A//www.qualitynet.net/index.php%3Fpage%3Dinner%26action%3Dpages_show%26id%3D10752) for the most accurate reproduction.*
 
 # Qualitynet
 
@@ -32,23 +32,23 @@ Qualitynet reserve the right to send you certain communications relating to its 
 ** When you view the Site, we might store some information on your computer. This information will be in the form of a â€œ **Cookie** â€ or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a website as easily as possible. We use cookies to deliver content specific to your interests and to prevent you from reentering all your registration data at each connection. Most browsers are set to accept cookies, however, if you prefer, you can set yours to refuse them.
 
 **Non-Disclosure of Personal Information to Outside Parties:**   
-Qualitynet does not share, sell or rent its customerâ€™s information to anyone. We take your trust very seriously.
+Qualitynet does not share, sell or rent its customer´s information to anyone. We take your trust very seriously.
 
 **Links to third party websites  
 ** When you click on links that take you to third party websites, you will be subject to the third parties Privacy Policies. While we support the protection of privacy on the Internet, Qualitynet cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any website.  **Update or Change of Personal information:  
-** If at any time, you would like to change, amend or update any personal information in your account, just go to the **My Account** link under Memberâ€™s Area (your personalized page). Here you can change your login password and or update other personal information.
+** If at any time, you would like to change, amend or update any personal information in your account, just go to the **My Account** link under Member´s Area (your personalized page). Here you can change your login password and or update other personal information.
 
 **Use of IP Addresses**   
 We use your IP address to help diagnose problems with our server, any fraud or abuse of the services, and to administer our website.
 
 **Right of Access and Correction  
-** Qualitynet may revise this Privacy and Security policy at any time, effective upon posting the revised Terms and Conditions on the Site. Continue access or use by User of the Site after posting of the revisions by Qualitynet, shall constitute Userâ€™s acceptance and agreement to the changes in the Terms and Conditions. 
+** Qualitynet may revise this Privacy and Security policy at any time, effective upon posting the revised Terms and Conditions on the Site. Continue access or use by User of the Site after posting of the revisions by Qualitynet, shall constitute User´s acceptance and agreement to the changes in the Terms and Conditions. 
 
-**Respect of Customer's Privacy  
+**Respect of Customer´s Privacy  
 ** Your trust is important to us. We are committed to protecting your privacy, whether you do business with us in person, online, by telephone or mail. Our aim is to continue to provide our customers with services, with the highest standards of quality and maximum customer benefits. We look forward to serving you. 
 
 **Contacting us  
-** Should you have any questions about this Privacy and Security Policy, its practices or your dealings with Qualitynetâ€™s website, you can contact us at the following addresses:
+** Should you have any questions about this Privacy and Security Policy, its practices or your dealings with Qualitynet´s website, you can contact us at the following addresses:
 
 **Customer support:**    
  **Tel** : 804444   
