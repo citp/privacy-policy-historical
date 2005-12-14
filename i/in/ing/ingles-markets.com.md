@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingles-markets.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403182545id_/http%3A//www.ingles-markets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingles-markets.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214181646id_/http%3A//www.ingles-markets.com/privacy.php) for the most accurate reproduction.*
 
 # Ingles Markets -Online Privacy Policy
 
