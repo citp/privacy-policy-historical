@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conferenceplus.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603095904id_/http%3A//www.conferenceplus.com/conferenceplus/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conferenceplus.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214094011id_/http%3A//www.conferenceplus.com/conferenceplus/legal/privacy.aspx) for the most accurate reproduction.*
 
-# ConferencePlus | Resources
+# ConferencePlus | Privacy Policy
 
 Conference Plus, Inc. ("ConferencePlus") wants you to know that it respects your right to privacy in connection with personal information you may provide to us as a visitor to or registered with the ConferencePlus.com web site (the "Site"). Your use of the Site implies your agreement with the provisions of this Privacy Statement. If you do not agree with the ConferencePlus Privacy Statement, please do not use the Site. Please note that your use of the Site and services provided on the Site is subject to ConferencePlus' Terms and Conditions of Use. 
 
