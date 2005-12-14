@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305033004id_/http%3A//www.carquest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214081524id_/http%3A//www.carquest.com/privacy.htm) for the most accurate reproduction.*
 
 # CARQUEST Auto Parts - Privacy Notice
 
-Thank you for visiting a CARQUEST Auto Parts affliated website (CARQUEST.com, CARQUEST.ca, techauto.com, ctitraining.org) and reviewing our privacy policy. Our privacy policy is clear: We will collect **no** personal information about you when you visit our website unless you choose to provide that information to us. Here is how we handle information about your visit to our website:
+Thank you for visiting a CARQUEST Auto Parts affiliated website (CARQUEST.com, CARQUEST.ca, techauto.com, ctitraining.org) and reviewing our privacy policy. Our privacy policy is clear: We will collect **no** personal information about you when you visit our website unless you choose to provide that information to us. Here is how we handle information about your visit to our website:
 
 **Information Collected and Stored Automatically  
 **If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does **not** identify you personally. We automatically collect and store **only** the following information about your visit:
@@ -11,7 +11,7 @@ Thank you for visiting a CARQUEST Auto Parts affliated website (CARQUEST.com, CA
   2. The type of browser and operating system used to access our site;
   3. The date and time you access our site;
   4. The pages you visit; and
-  5. If you linked to a CARQUEST affliated website from another website, the address of that website.
+  5. If you linked to a CARQUEST affiliated website from another website, the address of that website.
 
 
 
