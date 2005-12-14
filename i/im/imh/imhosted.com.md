@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imhosted.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306114818id_/http%3A//www.imhosted.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imhosted.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214100546id_/http%3A//imhosted.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy :: Imhosted.com :: The world's web hosting solution.
 
