@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paretologic.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403110633id_/http%3A//paretologic.com%3Fw%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paretologic.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214082233id_/http%3A//www.paretologic.com%3Fw%3D3) for the most accurate reproduction.*
 
-# XoftSpy Spyware Removal by ParetoLogic
+# XoftSpy by ParetoLogic
 
 **PARETOLOGIC INC - PRIVACY POLICY**
 
