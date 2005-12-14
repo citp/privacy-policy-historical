@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403112652id_/http%3A//www.keil.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214122037id_/http%3A//www.keil.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Keil Software Privacy Statement
 
@@ -54,7 +54,7 @@ When you register your product we also collect the following additional informat
   * Operating System Used
   * Internet Connection Speed
   * Technologies Used  
-(C++, CAN, I2C, FLASH, USB, TCP/IP)
+(C++, CAN, I²C, FLASH, USB, TCP/IP)
   * Number of Embedded Applications Created
   * Magazines Read
   * How You Heard About Keil Software
@@ -133,9 +133,9 @@ We partner with other embedded tools companies and chip manufacturers to provide
 
 ### What Security Precautions are in Effect?
 
-[](https://digitalid.verisign.com/as2/1678cb42d3edf49b1a3255bf15684bbc) **Keil Software** takes every precaution to protect your information. When you submit sensitive information via the website, that information is protected both online and off-line. 
+**Keil Software** takes every precaution to protect your information. When you submit sensitive information via the website, that information is protected both online and off-line. 
 
-All forms on this web site are available in both non-secure and secure formats. Secure forms encrypt and protect information with the best encryption software in the industry -- SSL. While on a secure page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just _surfing_. To learn more about SSL, refer to [http://www.verisign.com](http://www.verisign.com/). 
+All forms on this web site are available in both non-secure and secure formats. Secure forms encrypt and protect information with the best encryption software in the industry -- SSL. While on a secure page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just _surfing_. To learn more about our SSL certificate, refer to [http://www.keil.com/company/cert_ssl.htm](https://web.archive.org/company/cert_ssl.htm). 
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our accounts receivable clerk or technical support personnel) are granted access to personally identifiable information. All database access is password-protected. Our employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure, locked environment. 
 
