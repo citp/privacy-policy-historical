@@ -1,24 +1,71 @@
-<!--The following is the downloaded HTML source of the choa.org privacy policy that was archived on 2005-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050310071537id_/http%3A//www.choa.org/default.aspx%3Fid%3D1564) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the choa.org privacy policy that was archived on 2005-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214235816id_/http%3A//www.choa.org/default.aspx%3Fid%3D1564) for the most accurate reproduction.-->
 
 <html><head>
-
-
-<title>Children's Healthcare of Atlanta:  - Privacy</title>
-	<!-- Created with Octane8 --> <link rel="stylesheet" href="scripts/x8webtop_scripts/x8editor.css" type="text/css">
+<title>Privacy - Children's Healthcare of Atlanta</title>
 
 <link media="all" href="templates/aboutus/scripts/stylesheet.css" type="text/css" rel="stylesheet">
 <link media="print" href="templates/aboutus/scripts/print.css" type="text/css" rel="stylesheet">
-
+<script type="text/javascript" src="scripts/x8webtop_scripts/octane8.js"></script>
 <script src="templates/aboutus/scripts/mm.js" type="text/javascript"></script>
-	<script type="text/javascript" src="scripts/x8webtop_scripts/octane8.js"></script>
+
+<script language="javascript">
+function populate(objForm,selectIndex) {
+timeA = new Date(objForm.year.options[objForm.year.selectedIndex].text, objForm.month.options[objForm.month.selectedIndex].value,1);
+timeDifference = timeA - 86400000;
+timeB = new Date(timeDifference);
+var daysInMonth = timeB.getDate();
+for (var i = 0; i < objForm.day.length; i++) {
+objForm.day.options[0] = null;
+}
+for (var i = 0; i < daysInMonth; i++) {
+objForm.day.options[i] = new Option(i+1);
+}
+document.forms[0].day.options[0].selected = true;
+}
+function populate2(objForm,selectIndex) {
+timeA = new Date(objForm.year2.options[objForm.year2.selectedIndex].text, objForm.month2.options[objForm.month2.selectedIndex].value,1);
+timeDifference = timeA - 86400000;
+timeB = new Date(timeDifference);
+var daysInMonth = timeB.getDate();
+for (var i = 0; i < objForm.day2.length; i++) {
+objForm.day2.options[0] = null;
+}
+for (var i = 0; i < daysInMonth; i++) {
+objForm.day2.options[i] = new Option(i+1);
+}
+document.forms[0].day2.options[0].selected = true;
+}
+function getYears() {
+
+// You can easily customize what years can be used
+var years = new Array(2002,2003,2004,2005)
+
+for (var i = 0; i < document.forms[0].tyear.length; i++) {
+document.forms[0].year.options[0] = null;
+document.forms[0].year2.options[0] = null;
+}
+timeC = new Date();
+currYear = timeC.getFullYear();
+for (var i = 0; i < years.length; i++) {
+document.forms[0].year.options[i] = new Option(years[i]);
+document.forms[0].year2.options[i] = new Option(years[i]);
+}
+document.forms[0].year.options[2].selected=true;
+document.forms[0].year2.options[2].selected=true;
+}
+window.onLoad = getYears;
+//  End -->
+
+</script>
+	
 </head>
-<body onload="MM_preloadImages('/images/GN_Home_Selected.gif','/images/GN_AboutChildrens_Selected.gif','/images/GN_OurServices_Selected.gif','/images/GN_WellnessAndSafety_Selected.gif','/images/GN_Contact_Selected.gif','/images/AudienceNav_CareerRO.gif','/images/AudienceNav_ProfessionalsRO.gif','/images/AudienceNav_SupportingRO.gif','/images/AudienceNav_PatientRO.gif')" bgcolor="">
+<body bgcolor="">
 <script src="templates/aboutus/scripts/topnav.js" type="text/javascript"></script>
 <script src="scripts/includes/menu_elem.js" type="text/javascript"></script>
 <script src="templates/aboutus/scripts/menu_com.js" type="text/javascript"></script>
 <form name="__aspnetForm" method="post" action="default.aspx?id=1564" id="__aspnetForm">
-<input type="hidden" name="__VIEWSTATE" value="dDwyMzg1MDkwODQ7Oz5M8S3YEHToyRtQhiZZIBkN/HHr2g==">
+<input type="hidden" name="__VIEWSTATE" value="dDwyMzg1MDkwODQ7Oz7DSePy59IqfQKNephqxu34krGpUw==">
 
 
 
@@ -29,7 +76,7 @@
   <tbody>
   <tr>
     <td valign="top" width="176"><a href="default.aspx"><img height="68" alt="Children's Healthcare of Atlanta Logo" src="templates/aboutus/images/LogoInterior.gif" width="176" border="0"></a></td>
-    <td valign="top" align="right" width="509"><img height="18" alt="spacer" src="templates/aboutus/images/spacer.gif" width="509"><br><div id="donateButton"><a href="default.aspx?id=13"><img height="33" alt="Donate Now" src="templates/aboutus/images/BtnDonateNowInterior.gif" width="108" border="0"></a></div></td>
+    <td valign="top" align="right" width="509"><img height="18" alt="spacer" src="templates/aboutus/images/spacer.gif" width="509"><br><div id="donateButton"><a href="/campaign/"><img height="33" alt="Donate Now" src="templates/aboutus/images/BtnDonateNowInterior.gif" width="108" border="0"></a></div></td>
     <td valign="top" width="19"><img height="68" alt="spacer" src="templates/aboutus/images/spacer.gif" width="19"></td>
 	</tr>
 	</tbody>
@@ -46,19 +93,26 @@
     <td valign="top"><a onmouseover="MM_swapImage('Contact','','templates/aboutus/images/GN_Contact_Selected.gif',1)" onmouseout="MM_swapImgRestore()" href="default.aspx?id=10"><img id="Contact" height="31" alt="Contact" src="templates/aboutus/images/GN_Contact.gif" width="71" border="0" name="Contact"></a></td>
     <td valign="top"><img height="31" alt="spacer" src="templates/aboutus/images/GN_Color.gif" width="106"></td></tr></tbody></table></div>
 <div id="brand">
+<script src="templates/aboutus/scripts/rotate.js" type="text/javascript"></script>
+
 <table height="160" cellspacing="0" cellpadding="0" width="704" border="0">
   <tbody>
   <tr>
-    <td valign="top" width="176"><img height="160" alt="" src="templates/aboutus/images/MainBrand_About_Left.jpg" width="176" border="0"></td>
-    <td valign="top" width="528"><img height="160" alt="" src="templates/aboutus/images/MainBrand_About_Right.jpg" width="529" border="0"></td></tr></tbody></table></div>
+ <td valign="top"><script type="text/javascript">document.write('<img src=\"'+ranimage+'\" border="0" ');</script><img src="images/headers/AboutChld_3.jpg" border="0" <="" td="">
+    </td><td valign="top"><script type="text/javascript">document.write('<img src=\"'+ranimage2+'\" border="0" ');</script><img src="images/headers/AboutChld_4.jpg" border="0" <="" td="">
+
+</td></tr>
+
+</tbody></table></div>
 <div>
 <table cellspacing="0" cellpadding="0" border="0">
   <tbody>
   <tr>
     <td valign="top">
-   <div id="leftColumn">
-          <div id="search">
-      	  <table cellspacing="0" cellpadding="0" border="0">
+  <div id="leftColumn">
+ <div id="search">
+   
+	  <table cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr valign="top">
 		<td>
 			<input style="border-left-color: gray; border-bottom-color: gray; border-top-color: gray; 
@@ -93,9 +147,11 @@ function fnTrapKD(btn)
 	} 
 }
 </script>
-</div><img height="25" alt="Submenu Header" src="templates/aboutus/images/SubmenuHeader_AboutChildrens.gif" width="176"> 
+</div>
+
+<a href="default.aspx?id=7"><img height="25" alt="Submenu Header" src="templates/aboutus/images/SubmenuHeader_AboutChildrens.gif" width="176" border="0"></a> 
             <div id="submenu">
-    <div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=15" title="History">History</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=16" title="Mission, Vision &amp; Values">Mission, Vision &amp; Values</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=17" title="Media">Media</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="?id=538" title="Events">Events</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="?id=14" title="Career Opportunities">Career Opportunities</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=19" title="Locations">Locations</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="/applications/findaphysician/" title="Find a Physician">Find a Physician</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="?id=537" title="Stores">Stores</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="?id=10" title="Contact Us">Contact Us</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=108" title="Virtual Tours">Virtual Tours</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=22" title="Community Report">Community Report</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=826" title="Child Health Promotion Report">Child Health Promotion Report</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=633" title="Construction Updates">Construction Updates</a></td></tr></tbody></table></div></div>
+    <div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=19" title="Locations &amp; Directions">Locations &amp; Directions</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=1486" title="Find a Job">Find a Job</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=1583" title="Find a Doctor">Find a Doctor</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=17" title="Online Newsroom">Online Newsroom</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=2343" title="Community Events">Community Events</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=2375" title="Children's Leadership">Children's Leadership</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=15" title="History">History</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=16" title="Mission, Vision &amp; Values">Mission, Vision &amp; Values</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=633" title="Facility Expansions">Facility Expansions</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=2399" title="Online Stores">Online Stores</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=108" title="Virtual Tours">Virtual Tours</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=2410" title="Donor Report">Donor Report</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=2556" title="Child Health Promotion Report">Child Health Promotion Report</a></td></tr></tbody></table></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=23" title="Contact Us">Contact Us</a></td></tr></tbody></table></div><div class="SubmenuHighlight"><div class="SubmenuNoRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="images/interface/arrowright.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><b><a class="link0" href="default.aspx?id=1564" title="Privacy">Privacy</a></b></td></tr></tbody></table></div></div><div class="SubmenuRules"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="14"><img src="templates/supportingchildrens/images/spacer.gif" alt="spacer" width="14" height="14" border="0"></td><td valign="top"><a class="link0" href="default.aspx?id=1565" title="Terms of Use">Terms of Use</a></td></tr></tbody></table></div></div>
 
 
 							
@@ -110,11 +166,12 @@ function fnTrapKD(btn)
 <td><a onmouseover="MM_swapImage('ForProfessionals','','images/interface/AudienceNav_ProfessionalsRO.gif',1)" onmouseout="MM_swapImgRestore()" href="default.aspx?id=12">
 <img id="ForProfessionals" height="20" alt="For Professionals" src="images/interface/AudienceNav_Professionals.gif" width="174" border="0" name="ForProfessionals"></a> </td></tr>
 <tr>
-<td><a onmouseover="MM_swapImage('SupportingChildrens','','images/interface/AudienceNav_SupportingRO.gif',1)" onmouseout="MM_swapImgRestore()" href="default.aspx?id=13">
+<td><a onmouseover="MM_swapImage('SupportingChildrens','','images/interface/AudienceNav_SupportingRO.gif',1)" onmouseout="MM_swapImgRestore()" href="/campaign/">
 <img id="SupportingChildrens" height="20" alt="Supporting Children's" src="images/interface/AudienceNav_Supporting.gif" width="174" border="0" name="SupportingChildrens"></a> </td></tr>
 <tr>
 <td><a onmouseover="MM_swapImage('CareerOpportunities','','images/interface/AudienceNav_CareerRO.gif',1)" onmouseout="MM_swapImgRestore()" href="default.aspx?id=14">
-<img id="CareerOpportunities" height="20" alt="Career Opportunities" src="images/interface/AudienceNav_Career.gif" width="174" border="0" name="CareerOpportunities"></a></td></tr></tbody></table></div>
+<img id="CareerOpportunities" height="20" alt="Career Opportunities" src="images/interface/AudienceNav_Career.gif" width="174" border="0" name="CareerOpportunities"></a></td></tr></tbody></table>
+</div>
 					</td>
 					<td valign="top" width="1" bgcolor="#CCCCCC"><img src="templates/aboutus/images/spacer.gif" alt="spacer graphic" width="1" height="10" border="0"></td>
 					<td valign="top">					  
@@ -124,20 +181,16 @@ function fnTrapKD(btn)
 	
 &nbsp;
 
+
 </div>
          &nbsp;
+
+
  <h1>Children’s Healthcare of Atlanta’s Privacy Statement </h1>
 <h2>Our Commitment To Privacy </h2>
-<p>Your privacy is very important to us. To help protect your privacy we provide 
-this notice explaining our online information practices and the choices you can 
-make about how your information is collected and used by Children’s Healthcare 
-of Atlanta®. To make this notice easy to find, we make it available on our home 
-page and at every point where we request your personal information. </p>
+<p>Your privacy is very important to us. To help protect your privacy we provide this notice explaining our online information practices and the choices you can make about how your information is collected and used by Children’s Healthcare of Atlanta®. To make this notice easy to find, we make it available on our home page and at every point where we request your personal information. </p>
 <h2>The Information We Collect</h2>
-<p>This notice applies to all information collected or submitted on the Children’s 
-Healthcare of Atlanta (http://www.choa.org) Web site. On some pages, you can make 
-a donation, order products or register to receive materials. The types of personal 
-information collected on these pages are: </p>
+<p>This notice applies to all information collected or submitted on the Children’s Healthcare of Atlanta (http://www.choa.org) Web site. On some pages, you can make a donation, order products or register to receive materials. The types of personal information collected on these pages are: </p>
 <ul>
 <li>Name </li>
 <li>Address </li>
@@ -145,76 +198,46 @@ information collected on these pages are: </p>
 <li>Phone number </li>
 <li>Credit/Debit card information </li></ul>
 <h2>The Way We Use Information</h2>
-<p>We use the information you provide about yourself only to complete the transaction. 
-We never share this information with outside parties. </p>
-<p>We use return email addresses to answer the email we receive. Such addresses 
-are not used for any other purpose and are never shared with outside parties. 
-</p>
-<p>We use non-identifying and combined information to better design our Web site 
-and to share with advertisers. For example, we may tell an advertiser that X number 
-of individuals visited a certain area on our Web site, or that Y number of men 
-and Z number of women filled out our registration form, but we would not use anything 
-that could identify those individuals. </p>
-<p>Finally, we never use or share the personal information provided to us online 
-in ways unrelated to the ones described above without also providing you with 
-an opportunity to prohibit such unrelated uses. </p>
+<p>We use the information you provide about yourself only to complete the transaction. We never share this information with outside parties. </p>
+<p>We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are never shared with outside parties. </p>
+<p>We use non-identifying and combined information to better design our Web site and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our Web site, or that Y number of men and Z number of women filled out our registration form, but we would not use anything that could identify those individuals. </p>
+<p>Finally, we never use or share the personal information provided to us online in ways unrelated to the ones described above without also providing you with an opportunity to prohibit such unrelated uses. </p>
 <h2>Donations<strong>&nbsp;</strong></h2>
-<p>Credit card donations will be made through the <strong>Children’s Healthcare of Atlanta</strong> "foundation.choa.org" site. You will be asked to enter your name, credit card 
-number and billing information. This information allows us to process and fulfill 
-your donation and to provide you with an email receipt. </p>
-<p>As a donor, you can choose to give anonymously (without giving your name) or 
-to provide Children’s with your personal information. </p>
-<p>Be aware that you will not receive a tax deduction with respect to charitable 
-contributions of $250 or more unless you receive recognition of your donation 
-from<strong> Children’s Healthcare of Atlanta.</strong> The mailings will provide for a method to let us know if you do not wish to 
-receive additional mailings. Once you have received acknowledgment, your name 
-automatically will be included in Children’s mailing list. If you wish to receive 
-your recognition, but remain anonymous, please let us know. </p>
-<p><strong>Children’s Healthcare of Atlanta</strong> works with a third-party credit card company, as do many e-commerce Web sites. 
-This partner manages all customer data in accordance with consumer data protection 
-law on worldwide storage and security (including data handling). <strong>Children’s Healthcare of Atlanta</strong> does<strong> NOT </strong>store usable credit card numbers on its own servers. </p>
+<p>Credit card donations will be made through the <strong>Children’s Healthcare of Atlanta</strong> "foundation.choa.org" site. You will be asked to enter your name, credit card number and billing information. This information allows us to process and fulfill your donation and to provide you with an email receipt. </p>
+<p>As a donor, you can choose to give anonymously (without giving your name) or to provide Children’s with your personal information. </p>
+<p>Be aware that you will not receive a tax deduction with respect to charitable contributions of $250 or more unless you receive recognition of your donation from<strong> Children’s Healthcare of Atlanta.</strong> The mailings will provide for a method to let us know if you do not wish to receive additional mailings. Once you have received acknowledgment, your name automatically will be included in Children’s mailing list. If you wish to receive your recognition, but remain anonymous, please let us know. </p>
+<p><strong>Children’s Healthcare of Atlanta</strong> works with a third-party credit card company, as do many e-commerce Web sites. This partner manages all customer data in accordance with consumer data protection law on worldwide storage and security (including data handling). <strong>Children’s Healthcare of Atlanta</strong> does<strong> NOT </strong>store usable credit card numbers on its own servers. </p>
 <h2>Our Commitment To Data Security </h2>
-<p>To prevent unauthorized access, maintain data accuracy and ensure the correct 
-use of information, we have put in place appropriate physical, electronic and 
-managerial procedures to secure the information we collect online. Credit card 
-information is not stored on our Web site for additional security. </p>
-<h2>About Cookies</h2>
-<p>Cookies, or small text files recorded in a user’s hard drive, are employed by 
-thousands of sites to enhance user’s Web viewing experience. Cookies cannot damage 
-user files, nor can they read information from a user’s hard drive. Cookies allow 
-Web sites to "remember" users across pages of a Web site and across multiple visits 
-to a Web site. We use cookies for remembering preferences and maintaining information 
-about whether you are currently logged into our systems. Because of our use of 
-cookies, we can deliver faster service, consistent, updated results and a more 
-personalized site experience. Cookies in and of themselves do not personally identify 
-users, although they do identify a user’s computer. Most browsers are initially 
-set to accept cookies. If you prefer, you can set your browser to refuse cookies. 
-However, you may not be able to take full advantage of a Web site’s functionality 
-if you do so. </p>
+<p>To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to secure the information we collect online. Credit card information is not stored on our Web site for additional security. </p><a style="text-decoration: none;" name="cookies">
+<h2>About Cookies</h2></a>
+<p>Cookies, or small text files recorded in a user’s hard drive, are employed by thousands of sites to enhance user’s Web viewing experience. Cookies cannot damage user files, nor can they read information from a user’s hard drive. Cookies allow Web sites to "remember" users across pages of a Web site and across multiple visits to a Web site. We use cookies for remembering preferences and maintaining information about whether you are currently logged into our systems. Because of our use of cookies, we can deliver faster service, consistent, updated results and a more personalized site experience. Cookies in and of themselves do not personally identify users, although they do identify a user’s computer. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of a Web site’s functionality if you do so. </p>
 <h2>Our Commitment To Children’s Privacy </h2>
-<p>Protecting the privacy of children is especially important. For that reason, 
-we never collect or maintain information at our Web site from those we know are 
-under age 13, and no part of our Web site is structured to attract anyone under 
-13. </p>
+<p>Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our Web site from those we know are under age 13, and no part of our Web site is structured to attract anyone under 13. </p>
 <h2>How You Can Access Or Correct Your Information </h2>
-<p>You can access all personal information that we collect online and maintain by 
-contacting Children’s at <a href="mailto:info@choa.org">info@choa.org</a> and requesting this information. We use this procedure to better safeguard your 
-information. You can correct errors in your personal information online or by 
-sending us a request that shows the error(s). To protect your privacy and security, 
-we will also take reasonable steps to verify your identity before granting access 
-or making corrections. </p>
+<p>You can access all personal information that we collect online and maintain by contacting Children’s at <a href="mailto:choawebmaster@choa.org">choawebmaster@choa.org</a> and requesting this information. We use this procedure to better safeguard your information. You can correct errors in your personal information online or by sending us a request that shows the error(s). To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. </p>
 <h2>How To Contact Us</h2>
-<p>Should you have other questions or concerns about these privacy policies send 
-us an email at <a href="mailto:info@choa.org">info@choa.org.</a></p> 
+<p>Should you have other questions or concerns about these privacy policies send us an email at <a href="mailto:choawebmaster@choa.org">choawebmaster@choa.org</a>.</p> 
 &nbsp;
+
 	</div>
 					</td>
 				</tr>
 			</tbody></table>
 		</div>
 	</div><div id="footer">
-<p>404-250-kids | <a href="default.aspx?id=1564">Privacy</a> | <a href="default.aspx?id=1565">Terms &amp; Conditions</a> | <a href="default.aspx?id=1563">Disclaimer</a> | <a href="default.aspx?ID=17">News &amp; Media Center</a> | <a href="default.aspx?ID=19">Locations &amp; Directions</a> 
-<br>Copyright ©2005 Children's Healthcare of Atlanta. All Rights Reserved. </p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td align="center">
+<p align="center"><a title="About Us (Working)" href="default.aspx?id=7">
+<img title="Top 10 Children's Hospital" alt="Top 10 Children's Hospital" src="images/logos/childmag_small.gif" border="0"></a></p></td>
+<td valign="top">
+<div align="left">
+<p>404-250-KIDS | <a href="default.aspx?id=1564">Privacy</a> | <a href="default.aspx?id=1565">Terms &amp; Conditions</a> | <a href="default.aspx?ID=17">Online Newsroom</a> | <a href="default.aspx?ID=19">Locations &amp; Directions</a> 
+<br>Copyright ©2005 Children's Healthcare of Atlanta. All Rights Reserved.</p></div></td>
+<td align="center"><a title="US News " href="default.aspx?id=7">
+<img title="America's Best Children's Hospitals" height="106" alt="America's Best Children's Hospitals" src="images/logos/usnews_2005.gif" width="65" border="0"></a></td></tr></tbody></table>
+
 </div>
 	
 </div>
