@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamecreators.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307100116id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamecreators.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214104918id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy) for the most accurate reproduction.*
 
 # The Game Creators - Privacy Policy
 
@@ -12,7 +12,7 @@ Our site's registration form requires users to give us contact information (like
 
 Contact information from the registration forms is used to get in touch with the customer when necessary.
 
-No mailings will be sent to you other than ones to do with your order. If you wish to opt-in to our mailing list you can do so by [clicking here](https://web.archive.org/web/20050307100116id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter).
+No mailings will be sent to you other than ones to do with your order. If you wish to opt-in to our mailing list you can do so by [clicking here](https://web.archive.org/web/20051214104918id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter).
 
 Financial information that is collected is used to bill the user for products and services by the Share-It and PayPal services. At no time does The Game Creators Limited see your card or bank details.
 
@@ -20,7 +20,7 @@ Our site uses an order form for customers to request information, products, and 
 
 Contact information from the order forms is used to get in touch with the visitor when necessary.
 
-No mailings will be sent to you other than ones to do with your order. If you wish to opt-in to our mailing list you can do so by [clicking here](https://web.archive.org/web/20050307100116id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter).
+No mailings will be sent to you other than ones to do with your order. If you wish to opt-in to our mailing list you can do so by [clicking here](https://web.archive.org/web/20051214104918id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter).
 
 This site contains links to other sites. The Game Creators Limited are not responsible for the privacy practices or the content of such Web sites and you visit them at your own risk.
 
@@ -30,6 +30,6 @@ This site gives users the following options for changing and modifying informati
 
 You can edit your details by using the User Control Panel after logging into the site. If you do not have a User Account then no details can be changed.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using our [feedback form](https://web.archive.org/web/20050307100116id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?m=contact_feedback).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using our [feedback form](https://web.archive.org/web/20051214104918id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?m=contact_feedback).
 
 Last Updated: 24 July 2003
