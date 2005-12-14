@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the amtamassage.org privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207145501id_/http%3A//www.amtamassage.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amtamassage.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214114812id_/http%3A//www.amtamassage.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+|  |  |   |  |   |   
+---|---|---|---|---|---  
+  | 
 
 Privacy Policy
 
@@ -13,3 +17,5 @@ AMTA reserves the right to study members' and other visitors' movement throughou
 Unless otherwise expressly stated, no confidential relationship is established when any user of this site voluntarily provides comments, e-mail addresses, and/or other information to AMTA or posts the same in conference rooms, on profile pages, or in other interactive programs and features that may be developed and placed on-line from time-to-time. Such information shall be considered non-confidential, and AMTA shall be free to reproduce, publish, or otherwise use such information for any purposes whatsoever. 
 
 _Use of this site constitutes agreement to abide by these policies._
+
+|  
