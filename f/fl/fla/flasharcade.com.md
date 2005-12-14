@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the flasharcade.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204210324id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flasharcade.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214085348id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
 
-# CleverMedia Privacy Statement
+# CleverMedia : Privacy Policy
+
+CleverMedia Privacy Statement
 
 CleverMedia, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. We do not collect information for any marketing purposes at all. No membership or sign-up is required for playing any of the games on our sites.
 
-High Score Board Names (Old System): When you get a high score in a game, you may be asked for a name that will appear in the high score board. You will always have the ability to either not submit your score, or enter an alias. The alias you enter is only kept in the database for 48 hours. It is not used for any other purpose.
-
-High Score Board Names (New System): Under our new system, you can submit your score as a guest using any name or alias. No other information is recorded. If you wish, you can sign up for a reserved name, which can be an alias. This means that no one else can use your name or alias on the high score boards from that point on. To do this, you must provide an email address. This is used to email a password to you. it is also used to verify that you have not signed up for a reserved name before -- we want there to be only one reserved name per person. We do not use this email address for any other purpose. We do not resell this email address or use it to send any announcements, newsletters or advertisements. Optionally, you can provide your location from a list of counties and states. This is to allow us to show high score boards sorted by location. It is not used in conjunction with your email address for any other purpose.
+High Score Board Names: Under our new system, you can submit your score as a guest using any name or alias. No other information is recorded. If you wish, you can sign up for a reserved name, which can be an alias. This means that no one else can use your name or alias on the high score boards from that point on. To do this, you must provide an email address. This is used to email a password to you. it is also used to verify that you have not signed up for a reserved name before -- we want there to be only one reserved name per person. We do not use this email address for any other purpose. We do not resell this email address or use it to send any announcements, newsletters or advertisements. Optionally, you can provide your location from a list of counties and states. This is to allow us to show high score boards sorted by location. It is not used in conjunction with your email address for any other purpose.
 
 Multiplayer Game Names: Users are asked for an alias when they enter a multiplayer game area. This alias is used to identifiy the players in the game. No other information is collected. These aliases are not used for any other purpose.
 
@@ -16,7 +16,8 @@ Advertisements: CleverMedia uses a variety of Web advertising companies. These c
 
 CleverMedia does not collect email addresses or any other information about our visitors except where specified above.
 
-COPPA Compliance:  
+**COPPA Compliance** :
+
 CleverMedia is required by law to provide you with the following information:  
 
 
@@ -35,13 +36,11 @@ Some ads at our sites are served by Tribal Fusion. Read their privacy statement 
 
 Some ads at our sites are served by ValueClick. Read their privacy statement at <http://www.valueclick.com/privacy.html>.
 
-Some ads at our sites are served by WebSponsors. Read their privacy statement at <http://www.websponsors.com/privacy.htm>.
-
 Some ads at our sites are served by Commission Junction. Read their privacy statement at <http://www.cj.com/privacy.asp>.
 
-Some ads at our sites are served by Commission Junction. Read their privacy statement at <http://www.cj.com/privacy.asp>.
+Some ads at our sites are served by 24/7 Media. Read their privacy policy at <http://www.247media.com/privacy.html>.
 
-Some ads at our sites areserved by 24/7 Media. Read their privacy policy at <http://www.247media.com/privacy.html>.
+Some ads at our sites are served by MaxOnline. Read their privacy policy at <http://www.maxonline.com/privacy_policy/index.php>.
 
 **Privacy at Flash Arcade:**
 
@@ -55,6 +54,6 @@ If you have any further questions, please [contact us](http://clevermedia.com/em
 
 According to law, we must provide complete contact information in our privacy policay. This information is provided for privacy policy issues ONLY. If you use this to SPAM us or send us unsolicited mail or make unsolicited phone calls, we will take appropriate action.
 
-Email address: We have provided a link to a form where you can [email us](http://clevermedia.com/emailform-general.html). Use this form. However, because the law is unclear whether this is enough, we need to provide an email address here. Because SPAM software will search this page, pick up this email address, and SPAM us, we will provide a special email address only for privacy policy inquiries: privacy1@clevermedia.com. If anyone uses this special email address to send us SPAM, we will take appropriate action according to state laws.
+Email address: We have provided a link to a form where you can [email us](http://clevermedia.com/emailform-general.html). Use this form. However, because the law is unclear whether this is enough, we need to provide an email address here. Because SPAM software will search this page, pick up this email address, and SPAM us, we will provide a special email address only for privacy policy inquiries: privacy2(at)clevermedia(dot)com. Notice that I have replaced the @ symbol with (at) and the . with (dot) so that the email can't be harvested by spammers from this page. If anyone uses this special email address to send us SPAM, we will take appropriate action according to federal and state laws.
 
 Mailing address: CleverMedia, 1022 N. Speer Blvd., Denver, CO 80204. Do not send us junk mail.
