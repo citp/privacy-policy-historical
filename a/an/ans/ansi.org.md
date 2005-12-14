@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405084430id_/http%3A//www.ansi.org/about_ansi/privacy_policy/privacy.aspx%3Fmenuid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214235917id_/http%3A//www.ansi.org/about_ansi/privacy_policy/privacy.aspx%3Fmenuid%3D1) for the most accurate reproduction.*
 
 # Privacy Statement for ANSI Online
 
-**Privacy Statement for ANSI Online** | [Español](https://web.archive.org/web/20050405084430id_/http%3A//www.ansi.org/about_ansi/privacy_policy/privacy_sp.aspx?menuid=1)  
+**Privacy Statement for ANSI Online** | [Español](https://web.archive.org/web/20051214235917id_/http%3A//www.ansi.org/about_ansi/privacy_policy/privacy_sp.aspx?menuid=1)  
 ---|---  
   
 The following sets forth the information gathering and disclosure practices for [ **ANSI Online http://www.ansi.org**](http://www.ansi.org/)
@@ -26,8 +26,8 @@ In addition to providing ANSI staff contact information, ANSI Online does contai
   * U.S. Participation in ISO Activities and U.S. Participation in ISO/IEC JTC1 Activities 
   * U.S. National Committee of IEC 
   * ANSI Accredited Standards Developers 
-  * Quality Systems Registrars accredited by the ANSI Registrar Accreditation Board (RAB) 
-  * Environmental Management System Registrars accredited by the ANSI Registrar Accreditation Board (RAB) 
+  * Quality Management Systems Registrars accredited by the ANSI-ASQ National Accreditation Board (ANAB) 
+  * Environmental Management System Registrars accredited by the ANSI-ASQ National Accreditation Board (ANAB) 
   * ANSI Accredited Certification Programs
 
 For news items, meetings and special event announcements posted on ANSI Online, ANSI may provide contact information for individuals identified as a point of contact to the extent they have agreed to such disclosure. 
@@ -38,6 +38,6 @@ Members/Constituents who have questions or concerns relative to the disclosure o
 
 **Questions/Comments**
 
-Questions or comments about this privacy statement or our practices may be submitted via e-mail to the web site administrator via [ **our Feedback Page**](https://web.archive.org/web/20050405084430id_/http%3A//www.ansi.org/contact_us/contact_us.aspx?)
+Questions or comments about this privacy statement or our practices may be submitted via e-mail to the web site administrator via [ **our Feedback Page**](https://web.archive.org/web/20051214235917id_/http%3A//www.ansi.org/contact_us/contact_us.aspx?)
 
 ANSI Online contains links to other web sites. ANSI makes no claim regarding nor accepts responsibility for the privacy practices or the content of such other web sites to which it may link except in cases where ANSI manages the linked web site in which case the privacy practices for that site will be disclosed thereon. 
