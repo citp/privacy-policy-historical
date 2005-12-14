@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2005-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050603075955id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214024850id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
 
 # AmericanGreetings.com - thousands of greetings for you to send.
 
@@ -6,12 +6,6 @@
 GENERAL MATTERS  
 Overview  
 At AmericanGreetings.com ("AG"), protecting our users' privacy and security is a top priority. For this reason, we have adopted the following policy to advise you of our use of your personal information online and your choices regarding that use. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it.
-
-[](https://www.truste.org/validate/4542)
-
-  
-TRUSTe Licensee: Contact Information  
-AG is a licensee of the TRUSTe Privacy Program. If you have questions or concerns regarding this Policy, you should first email AmericanGreetings.com [Customer Service](http://www.americangreetings.com/customer/emailus.pd) or contact us by mail at AmericanGreetings.com, One American Road, Cleveland, OH 44144. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [http://www.truste.org](http://www.truste.org/). TRUSTe will then serve as a liaison with the Site to resolve your concerns.
 
 Scope of Policy  
 This Policy applies to all AG-branded sites, including the AG organic sites as well as our co-branded sites including AG-AOL sites, Kidzonks, and the AG-MSN sites. This Policy does not apply to other companies’ or organizations’ web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information.
