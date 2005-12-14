@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc-7.com privacy policy that was archived on 2005-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050421023948id_/http%3A//abc-7.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc-7.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214145641id_/http%3A//www.abc-7.com/privacy.asp) for the most accurate reproduction.*
 
 # ABC7 Online - Privacy Statement
 
