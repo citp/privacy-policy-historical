@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2005-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050601085803id_/http%3A//www.covers.com/covers/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214074557id_/http%3A//www.covers.com/covers/about/privacy.asp) for the most accurate reproduction.*
 
 # covers.com sports betting odds, lines, gambling free picks
 
