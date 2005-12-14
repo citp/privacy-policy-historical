@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bunnyherolabs.com privacy policy that was archived on 2005-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050515015133id_/http%3A//bunnyherolabs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnyherolabs.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214220938id_/http%3A//bunnyherolabs.com/privacy.php) for the most accurate reproduction.*
 
 # privacy policy - bunnyhero labs
 
@@ -48,8 +48,8 @@ If you feel that this site is not following its stated information policy, you m
 Privacy Policy version history: 
 
   * 2005-02-05: added information about e-card information use
-  * 2005-01-08: [updated mailing address](https://web.archive.org/web/20050515015133id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20050108.php)
-  * 2004-04-11: [more detail in "cookies" section, covering polls and games](https://web.archive.org/web/20050515015133id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040411.php)
-  * 2004-04-07: [initial version](https://web.archive.org/web/20050515015133id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040407.php)
+  * 2005-01-08: [updated mailing address](https://web.archive.org/web/20051214220938id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20050108.php)
+  * 2004-04-11: [more detail in "cookies" section, covering polls and games](https://web.archive.org/web/20051214220938id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040411.php)
+  * 2004-04-07: [initial version](https://web.archive.org/web/20051214220938id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040407.php)
 
 
