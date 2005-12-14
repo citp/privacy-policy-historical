@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longandfoster.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603035011id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longandfoster.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214113042id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Long & Foster - Privacy Policy
 
@@ -43,7 +43,7 @@ We do not partner with or have special relationships with any ad server companie
 
 Changes & Corrections
 
-From time to time, we make our customer e-mail list available to Long & Foster's Prestige Partners® (such as Prosperity Mortgage and Long & Foster Insurance) whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other Long & Foster companies, simply choose to "opt out" of these mailing by unchecking the appropriate box when providing your email address to us. If you already submitted our email address and did not opt-out of further mailing you may do so by letting us know by sending us an e-mail at [ privacy@longandfoster.com](mailto:privacy@longandfoster.com). 
+From time to time, we make our customer e-mail list available to Long & Foster's Prestige Partners® (such as Prosperity Mortgage and Long & Foster Insurance) whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other Long & Foster Real Estate, Inc, simply choose to "opt out" of these mailing by unchecking the appropriate box when providing your email address to us. If you already submitted our email address and did not opt-out of further mailing you may do so by letting us know by sending us an e-mail at [ privacy@longandfoster.com](mailto:privacy@longandfoster.com). 
 
 If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending us an e-mail at the address listed above. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with our partners. 
 
