@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nutritionexpress.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402072549id_/http%3A//www.nutritionexpress.com/pls/ne/nut_exp%3FID%3D%26treq%3Dps%26mid%3D%26sub%3D%26itm%3D%26dgp%3D%26pg%3D%26ent%3D1070) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionexpress.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214011159id_/http%3A//www.nutritionexpress.com/pls/ne/nut_exp%3FID%3D%26treq%3Dps%26mid%3D%26sub%3D%26itm%3D%26dgp%3D%26pg%3D%26ent%3D1070) for the most accurate reproduction.*
 
 # Nutrition Express Privacy Statement
 
   
   
-The privacy of Nutrition Express online customers is treated with utmost respect. The personally identifiable information on you and your purchases will not be sold, rented or given away to any other company or agency without your explicit permission. This document should answer any questions you may have regarding user privacy and our web site. _(Please see our_ [Terms of Use Agreement](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=a27521807299000&treq=tu&mid=&sub=&itm=&dgp=&pg=) _for information on use and liability.)_
+The privacy of Nutrition Express online customers is treated with utmost respect. The personally identifiable information on you and your purchases will not be sold, rented or given away to any other company or agency without your explicit permission. This document should answer any questions you may have regarding user privacy and our web site. _(Please see our_ [Terms of Use Agreement](http://www.nutritionexpress.com/pls/ne/nut_exp?treq=tu&mid=&sub=&itm=&dgp=&pg=) _for information on use and liability.)_
 
 **Information Collection and Use**  
 Nutrition Express is the sole owner of the information collected on this site. We will not sell, share, rent or give this information to others in ways different from what is disclosed in this statement. Nutrition Express collects information from our users at several different points on our web site. 
