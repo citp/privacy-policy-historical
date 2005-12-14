@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2004-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041228215728id_/http%3A//pages.ebay.co.uk/help/community/png-priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214165747id_/http%3A//pages.ebay.co.uk/help/community/png-priv.html%3FssPageName%3Df%3Af%3AUK) for the most accurate reproduction.*
 
 # eBay UK: Help : Topics : Policies and Guidelines : Privacy Policies
 
@@ -8,11 +8,9 @@
 
 **Privacy Policy**
 
-**Welcome to the privacy policy ("Privacy Policy") for eBay.co.uk.** The services available at [http://www.ebay.co.uk](http://www.ebay.co.uk/) are provided by eBay International A.G. ("eBay", "we", "us" or "our") located at Helvetiastrasse 15/17, 3005 Bern, Switzerland. 
+**Welcome to the privacy policy ("Privacy Policy") for eBay.co.uk.** The services available at [http://www.ebay.co.uk](http://pages.ebay.co.uk/) are provided by eBay International A.G. ("eBay", "we", "us" or "our") located at Helvetiastrasse 15/17, 3005 Bern, Switzerland. 
 
-Your privacy is very important to us. Please read this Privacy Policy to learn about the ways in which we use and protect your personal information. If you have additional questions about eBay's general privacy principles, please either read the pages at our [Privacy Central](http://pages.ebay.co.uk/help/privacycentral1.html) section available or [contact Customer Support](http://pages.ebay.co.uk/help/contact_inline/index.html). 
-
-If eBay does not respond or your inquiry has not been satisfactorily addressed please [contact TRUSTe](http://www.truste.org/users/users_watchdog.html). For more information on TRUSTe, please go to [www.truste.org](http://www.truste.org/). 
+Your privacy is very important to us. Please read this Privacy Policy to learn about the ways in which we use and protect your personal information. If you have additional questions about eBay's general privacy principles, please either read the pages at our Privacy Central section available or [contact Customer Support](http://pages.ebay.co.uk/help/contact_inline/index.html). 
 
 This Privacy Policy applies from 9 December 2003 for new registering users and applies from 8 January 2004 for all users registered prior to 9 December 2003. 
 
@@ -24,7 +22,7 @@ This Privacy Policy contains a number of references to other pages on our Site a
 
 Please note that your Information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws applicable to the UK but eBay will hold and transmit your information in a safe, confidential and secure environment. eBay will never sell or rent your personal information to third parties for their marketing purposes without your explicit consent. 
 
-This Privacy Policy applies to the [www.ebay.co.uk](http://www.ebay.co.uk/) website (the "Site"). All other eBay websites worldwide operate under similar privacy practices as described in this Privacy Policy and, subject to the requirements of applicable local law, we strive to provide a consistent set of privacy practices throughout the global eBay trading community. Their specific privacy policies are available from our [Privacy Central](http://pages.ebay.co.uk/help/privacycentral1.html) pages but where inconsistent, this Privacy Policy takes precedence. 
+This Privacy Policy applies to the [www.ebay.co.uk](http://www.ebay.co.uk/) website (the "Site"). All other eBay websites worldwide operate under similar privacy practices as described in this Privacy Policy and, subject to the requirements of applicable local law, we strive to provide a consistent set of privacy practices throughout the global eBay trading community. Their specific privacy policies are available from our Privacy Central pages but where inconsistent, this Privacy Policy takes precedence. 
 
 **Contents**
 
@@ -127,7 +125,7 @@ You are responsible for all actions taken with your User ID and password, includ
 **6.  ** |  **Accessing, Reviewing and Changing Your Personally Identifiable Information.**  
   | 
 
-We offer you the ability to automatically review and change the information you submit to us by logging into the Site and entering in the new information yourself. Generally, we will not modify your personal information based on your request because it is very difficult to authenticate your account manually. You can change your User ID, password, contact information, financial information, postal address and user preferences by going the "preferences" section in [My eBay](http://cgi1.ebay.co.uk/aw-cgi/eBayISAPI.dll?MyEbayLogin). You must promptly update your personal information if it changes or is inaccurate. Once posted, you may not be able to change or remove any public postings made on the Site including our chat rooms or other message areas or the feedback area. 
+We offer you the ability to automatically review and change the information you submit to us by logging into the Site and entering in the new information yourself. Generally, we will not modify your personal information based on your request because it is very difficult to authenticate your account manually. You can change your User ID, password, contact information, financial information, postal address and user preferences by going the "preferences" section in [My eBay](http://my.ebay.co.uk/ws/eBayISAPI.dll?MyeBay). You must promptly update your personal information if it changes or is inaccurate. Once posted, you may not be able to change or remove any public postings made on the Site including our chat rooms or other message areas or the feedback area. 
 
 Upon your written request, we will deactivate your account, contact information, and financial information from our active databases. To make this request, please contact [Customer Support](http://pages.ebay.co.uk/help/contact_inline/index.html). Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law. 
 
