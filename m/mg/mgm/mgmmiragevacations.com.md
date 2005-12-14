@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgmmiragevacations.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207032709id_/http%3A//www.mgmmiragevacations.com//privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgmmiragevacations.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214235657id_/http%3A//www.mgmmiragevacations.com//privacy.asp) for the most accurate reproduction.*
 
 # MGM MIRAGE Vacations - Las Vegas vacation travel packages Las Vegas attractions MGM Grand, Bellagio, New York-New York, Treasure Island, Mirage Hotel & Casino, Las Vegas strip hotels special deal wedding package golf package Las Vegas air/hotel package
 
