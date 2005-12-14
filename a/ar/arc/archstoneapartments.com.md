@@ -1,50 +1,83 @@
-> *The following text is extracted and transformed from the archstoneapartments.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309021452id_/http%3A//www.archstoneapartments.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archstoneapartments.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214043527id_/http%3A//www.archstoneapartments.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ArchstoneApartments.com
 
-Privacy Policy  
+Privacy Policy - Effective April 1, 2005  
   
----  
-  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices, including how we collect, use, and safeguard the information you may provide to us on this site, and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where we request personally identifiable information. This statement may be revised from time to time, so please revisit this page to remain fully informed of our commitment.
+**How Our Privacy Policy Applies**
 
-This notice applies to all information collected or submitted on our Web sites. To provide you with our services, such as reserving or leasing apartment homes, applying for a job, or signing up for our e-mail alerts, we may request that you provide us personal information including you name, address, e-mail address, phone number, credit/debit card information, employment information, and other such personal information.
+This Privacy Policy explains how we collect, use, and disclose the Personal Information You may provide to us through this Site and all sites of Archstone-Smith (collectively, the “Site”), and other Personal Information that you provide to us offline. This statement may be revised from time to time, so please revisit this page to remain fully informed of our commitment (see “Consent” Section below).
 
-In order to personalize and enhance your experience on our Web site, we also may collect information through "cookies." Cookies are small strings of text that are sent by our site to your browser and then stored by your browser on your computer's hard drive. Our cookies allow us to personalize your experience on our site, make your visit more convenient, and understand how you and others are using our site so that we can improve your experience on the site. We use cookies to identify repeat visitors to our site and to determine whether you visited our site from a particular Internet link or advertisement. We do not use cookies that store personal information or associate cookie information with personal information you may provide us. Most Web browsers automatically accept cookies, but it is possible to change your browser setup so that it does not accept cookies. In order to create a profile on our Web site you must have your cookies on.
+Your provision of Personal Information to us indicates Your consent to this Privacy Policy as modified from time to time. 
 
-**How We Use Information**  
+**Types of Personal Infformation We Collect**  
+
+In this Privacy Policy, " **Personal Information** " means any information by which You can be personally identified, and includes Your name and address, age or date of birth, Your electronic mail address, number of children, Your occupation, employment information, telephone number, education, the kind of service provided to You, Your social security number, real property purchased, leased, or rented, bank account number, debit card number, bank or investment account, debit card, or credit card balance, payment history, and information pertaining to Your creditworthiness, assets, income or liabilities. ** __**
+
+If You are applying for employment at Archstone-Smith, these additional categories of information will also be deemed to be Personal Information:
+
+·        Race
+
+·        Credit checks ** __**
+
+·        Background report. ** __**
+
+·        Results of drug screenings ** __**
+
+·        Employment Verification
+
+We intend to implement this Privacy Policy in a manner consistent with applicable employment laws.  To the extent that such applicable employment laws are in conflict with this Privacy Policy, we will act in accordance with such applicable employment laws.
+
+**How We Use and Disclose Personal Information**
+
+We collect, retain, and use Personal Information for the reasons stated below:
+
+  * to complete the leasing process;
+  * to request a credit report in connection with leasing or job applications;
+  * to process job applications;
+  * to contact you in response to your inquiries, comments and suggestions;
+  * to contact you otherwise when necessary; 
+  * for the specific purpose for which it was volunteered (for example, to receive notice from us, etc.); 
+  * to track our visitors' use of the Site for internal market research;
+  * to improve the Site and the services Archstone-Smith promotes or provides through the Site or through other means;
+  * for special promotions, contests or survey registrations;
+  * to customize the content and/or layout of our Site for each individual visitor;
+  * to ask for Your participation in brief surveys;
+  * to complete any purchases or other transactions you may perform at the Site;
+  * to notify visitors about updates to the Sites or services;
+  * to notify You about promotions, special offers, etc., regarding products and services provided by us or our affiliates or partners;
+  * to be provided to third party service providers on behalf of Archstone-Smith;
+  * as required by law or regulation, or as requested by government authorities;
+  * in connection with an acquisition, merger, sale or other transfer of all or any portion of our business; and 
+  * for our internal business purposes.
 
 
-We collect, retain, and use customer information for legitimate business purposes only. For example, we use the information you provide about yourself to process your application and complete a lease agreement. We do not share this information with outside parties except to the extent necessary to complete the lease process (for example, we will share your application information with our credit-verification provider). We also use job application information to process your job application, and we use E-mail addresses to answer the E-mail we receive, and to provide information about us. Such addresses are used only for our business purposes and are not shared with outside parties. We also may use the information we collected to occasionally notify you regarding important functionality changes to the Web site or to send you announcements and promotions related to our business. If you would rather not receive such correspondence please E-mail us to that effect at [customers@archstonesmith.com](mailto:customers@archstonesmith.com) or call 1-800-272-4786.
 
-We do not use or share the personally identifiable information provided to us online in ways unrelated to our business purposes without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+We do not disclose Personal Information to third parties for their marketing purposes.
 
-**When We May Disclose Information**  
-We share non-identifying, aggregate statistical information regarding visitors to our site with our partners, affiliates, and advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area of our Web site, or that Y number of men and Z number of women filled out an application form, but we would not disclose anything that could be used to identify those individuals. This practice serves to improve the design of our Web site and provide marketing information to our advertisers.
+**Cookies**
 
-In addition, we will disclose information we maintain when required to do so by law, or may disclose such information in response to a request from a law enforcement agency or authority.
+In order to personalize and enhance Your experience on our Site, we also may collect information through "cookies." Cookies are small strings of text that are sent by our Site to Your browser and then stored by Your browser on Your computer's hard drive. Our cookies allow us to personalize Your experience on our Site, make Your visit more convenient, and understand how You and others are using our Site so that we can improve Your experience on the Site. We use cookies to identify repeat visitors to our Site and to determine the paths visitors take on our Site. We also use cookies to determine whether You visited our Site from a particular Internet link or advertisement. We do not use cookies that store personal information or associate cookie information with personal information You may provide us. Most Web browsers automatically accept cookies, but it is possible to change Your browser setup so that it does not accept cookies. In order to create a profile on our Site You must have Your cookies on.
 
-**Our Commitment To Data Security**  
-To prevent unauthorized access, maintain data security, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. "Hard copies" of all application and lease contract documents are maintained in our property offices.
+**Our Commitment Children's Privacy**
 
-We provide various security safeguards to protect your information. We use state-of-the-art technology to protect your data from disclosure to unauthorized third parties. Currently we use firewall and intrusion prevention technologies to protect your data and secure your transactions. Secure Socket Layer encrypts/encodes all of your personal information (including your name, address, social security number, salary information, etc.) as it is transmitted over the Internet.
-
-We otherise limit the disclosure of your information. We do not sell, trade, or rent your personally identifiable information to others. When we do provide information to others, as noted above, it is either to provide you with services or we share such information only in aggregate, statistical form. 
-
-Protecting the privacy of the very young is especially important. For that reason, we do not collect or maintain information at our Web site from those we know are under 13, and we do not permit children under 13 years of age to become registered users of our Web site. No part of our Web site is structured to attract anyone under 13. By using our site you represent that you are not under 13 years of age.
+We do not collect or maintain information at our Site from those we know are under 13, and we do not permit children under 13 years of age to become registered users of our Site. No part of our Site is structured to attract anyone under 13. By using our Site You represent that You are not under 13 years of age.
 
 **Links  To Third Party Web Sites**  
 Our site may offer links to other Web sites which may have information policies and practices different from ours. We do not control and are not responsible for the privacy policies or practices or the content of any third party Web sites. 
 
-Once you obtain a personal access code (after you lease an apartment on-site or online, or register as a job applicant), you may access all of your personally identifiable information that we collect. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+**How To Contact Us**  
 
-**How To Contact Us** **, How We Contact You**  
+Should You have other questions or concerns about these privacy policies, please call us at 1-877-272-4786 or send us an E-mail at  [customers@archstonesmith.com](mailto:customers@archstonesmith.com).
 
-Should you have other questions or concerns about these privacy policies, please call us at 1-877-272-4786 or send us an email at [customers@archstonesmith.com](mailto:customers@archstonesmith.com).  
+**Consent**
+
+By using this Site, You consent to our collection and use of Personal Information. Archstone-Smith reserves the right, at its discretion, to change, modify, add or remove portions of this Privacy Policy from time to time. The amended Privacy Policy will be effective upon posting on the Site. Your continued use of the Site and/or the services means that You agree to the revised Privacy Policy and our use of Your Personal Information in accordance with the revised policy. Archstone-Smith may, but is under no obligation to, provide You notice of such modifications to this Privacy Policay via email or other communication.   
   
-In the event that we need to notify you of any developments, send you legal notices, or to request that you permit us to share your information as described above, we will contact you in the way you have indicated you prefer to be contacted when you registered with our Web site.
+**E-mail Consent**  
+Your provision of Personal Information through any of our resident portal Sites (currently myArchstone.com, my SmithAdvantage.com and other similar Sites) constitutes Your affirmative consent that we may contact you by e-mail to provide you with information and notices relating to the property where you reside, and various services available to you at or through that property. 
 
-**Consent**  
-By using this site, you consent to our collection and use of personal information you may provide us. We reserve the right, at any time, to modify, alter, or update this statement, and any such modifications, alterations, or updates will be effective upon posting.
+**Non-U.S. Residents  
+** If You do not reside in the U.S. and are visiting our Site, if You provide Personal Information to us it may be transferred to and processed on computers in the U.S. and other countries. Do not provide Your Personal Information to us if You do not want this information to be transferred outside of Your country, or if the laws in Your country restrict these types of transfers. Instead, please call us at 1-877-272-4786 to make your inquiry. Your provision of Personal Information to us will be handled in accordance with this Privacy Policy. Your provision of Personal Information to us through this Site means that you agree to the terms of this Privacy Policy. 
 
-**This Privacy Policy is effective as of November 17, 2003 and may be modified from time to time.**
+**This Privacy Policy is effective as of  April 1, 2005 and may be modified from time to time.**
