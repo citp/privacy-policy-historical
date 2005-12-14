@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamhsc.edu privacy policy that was archived on 2005-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050315050942id_/http%3A//www.tamhsc.edu/web/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamhsc.edu privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214084132id_/http%3A//www.tamhsc.edu/web/privacy.php) for the most accurate reproduction.*
 
 # HSC Privacy Statement
 
