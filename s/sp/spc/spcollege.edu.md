@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spcollege.edu privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403104458id_/http%3A//www.spcollege.edu/webcentral/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spcollege.edu privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214132214id_/http%3A//spcollege.edu/webcentral/privacy.htm) for the most accurate reproduction.*
 
 # SPC Internet Privacy Policy
 
@@ -13,4 +13,4 @@ In addition, we gather information regarding the volume and timing of access to 
 
 If you choose to share personal information with us--by sending us a message or filling out an electronic form with personal information--we will use the information only for the purposes you authorized. Some of the information may be saved for a designated period of time to comply with Florida's archiving policies, but we will not disclose the information to third parties or other government agencies, unless required to do so by state or federal law.
 
-If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to contact us at [Information@spcollege.edu](mailto:information@spcollege.edu) or (727)345-SPJC(7752).
+If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to contact us at [Information@spcollege.edu](mailto:information@spcollege.edu) or (727)341-4772.
