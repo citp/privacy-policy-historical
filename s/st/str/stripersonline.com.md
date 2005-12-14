@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404003553id_/http%3A//www.stripersonline.com/Pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214071425id_/http%3A//www.stripersonline.com/Pages/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - StripersOnline.com - Privacy Promise
 
@@ -73,8 +73,8 @@ For all [StripersOnline Online Catalog](http://www.stripersonline.net/cart/shop/
 [**Conservation**](https://web.archive.org/Pages/clubs_and_conservation/conservation_main.shtml "Fishing conservation, RFA, JCAA, HRFANJ, NCMC, recreational fishing alliance, jersey coast anglers association, Hudson River Fishermens Association, National Coalition for Marine Conservation") | [**Weather**](https://web.archive.org/Pages/weather_tide.shtml "Marine weather forecasts, radar images, tide differences, tidal influence, how weather affects fishing.") | [**Striped Bass Length Weight Charts**](https://web.archive.org/Pages/weight_length/ "Striped bass weight and length charts, length weight charts, original length and weight charts.") | [**Guest Book**](http://www.stripersonline.net/forms/guest_book.htm "StripersOnline Guest Book - drop by and say hello.") | [**Marine Forecast**](http://www.stripersonline.com/Pages/marine_forecasts.shtml) | [**Weekend Warrior**](https://web.archive.org/Pages/warrior/ "Weekend Warrior columns by John Budish - stories about surf fishing, saltwater fishing, striped bass fishing and surf fishing Island Beach State Park, JCAA tournaments and more.")  
 ---|---|---|---|---|---  
   
-Copyright � **Tim Surgent** and **www.stripersonline.com** 1999-2004. All rights reserved.  
+Copyright � **Tim Surgent** and **www.stripersonline.com** 1999-2005. All rights reserved.  
 StripersOnline.com - We'll help you catch more fish!  
-This page was last updated on September 17, 2004   
+This page was last updated on April 8, 2005   
 We take your privacy very seriously.  
 See our [**Privacy Notice**](https://web.archive.org/Pages/privacy.shtml "StripersOnline Privacy Policy - we care about your privacy very much.") for details. 
