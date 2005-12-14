@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2005-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050529062926id_/http%3A//www.abdn.ac.uk/diss/docu/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214132032id_/http%3A//www.abdn.ac.uk/diss/docu/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy for the University of Aberdeen Web Site
 
-  * You can also download this policy [as Word](https://web.archive.org/web/20050529062926id_/http%3A//www.abdn.ac.uk/diss/docu/privacy_policy.doc) or as [Adobe PDF](https://web.archive.org/web/20050529062926id_/http%3A//www.abdn.ac.uk/diss/docu/privacy_policy.pdf)
+  * You can also download this policy [as Word](https://web.archive.org/web/20051214132032id_/http%3A//www.abdn.ac.uk/diss/docu/privacy_policy.doc) or as [Adobe PDF](https://web.archive.org/web/20051214132032id_/http%3A//www.abdn.ac.uk/diss/docu/privacy_policy.pdf)
 
 
 
@@ -27,7 +27,19 @@ The University of Aberdeen's central web server1 tracks requests made of it to c
 
 Information gathered is used for server system administration, identifying broken links, and for producing usage statistics. Logged information may be kept indefinitely. Log files do not contain any personal information.
 
-The University also generates statistics2 on which operating systems are in use on PCs across campus
+The University of Aberdeen also uses the Sitestat 4.0 service from Nedstat2 on its web site to measure and analyse visitor information. 
+
+Examples of data collected automatically from all users include:
+
+  * the Internet protocol (IP) address; 
+  * computer and connection information such as browser type and version, operating system, and platform; 
+  * Uniform Resource Locator (“URL”) click stream data, including date and time, and content viewed or searched for on the Site. 
+
+
+
+For more information on Nedstat and the kind of information that SiteStat collects and processes, please visit [Nedstat’s web site](http://www.nedstat.com/) and its [SiteStat privacy policy](http://www.nedstat.com/privacypolicy_sitestat.html).
+
+The University also generates statistics3 on which operating systems are in use on PCs across campus
 
 ### 2. Cookies
 
@@ -69,6 +81,7 @@ Email: [d.jones@abdn.ac.uk](mailto:d.jones@abdn.ac.uk)
 ## Footnotes
 
   1. <http://www.abdn.ac.uk/>
-  2. <http://www.abdn.ac.uk/diss/ie5/osl.php>
+  2. <http://www.nedstat.com/>
+  3. <http://www.abdn.ac.uk/diss/ie5/osl.php>
 
 
