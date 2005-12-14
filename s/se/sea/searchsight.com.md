@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchsight.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204060651id_/http%3A//searchsight.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchsight.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214081628id_/http%3A//searchsight.com/privacy.htm) for the most accurate reproduction.*
 
 # SearchSight.com Privacy Statement
 
@@ -7,7 +7,7 @@ Posted January 1, 2004
 
 SearchSight.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the SearchSight.com Web site. The SearchSight.com Web site is owned and operated by IcoLogic, Inc.
 
-If you have any questions regarding our privacy statement, please feel free to contact us though our [Comments Page.](https://web.archive.org/web/20050204060651id_/http%3A//searchsight.com/comments.htm)
+If you have any questions regarding our privacy statement, please feel free to contact us though our [Comments Page.](https://web.archive.org/web/20051214081628id_/http%3A//searchsight.com/comments.htm)
 
  **Gathering of Information**
 
@@ -17,7 +17,7 @@ SearchSight.com does not collect personally identifying information about any in
 
 Each SearchSight.com search engine listing allows for an email address to be associated with it, which is provided by the person who submits the URL for listing at the time of submission.  SearchSight.com sends a welcome email after the submitted URL has been added or updated in our search engine listings.  Occasionally SearchSight.com sends email notifications to the those who have listings in the SearchSight.com search engine to the associated email addresses.
 
-At any time, a person who has an email address associated with one or more listings may opt to remove their email address from all listings.  This is done [here](https://web.archive.org/web/20050204060651id_/http%3A//searchsight.com/SpecialOffers/dne.htm).  Note:  If a URL is submitted at a future time with a removed email address, the email address will once again receive email notifications for the submitted listing.
+At any time, a person who has an email address associated with one or more listings may opt to remove their email address from all listings.  This is done [here](https://web.archive.org/web/20051214081628id_/http%3A//searchsight.com/SpecialOffers/dne.htm).  Note:  If a URL is submitted at a future time with a removed email address, the email address will once again receive email notifications for the submitted listing.
 
 **Cookies**
 
@@ -47,11 +47,11 @@ Kids under 13: Do not send any information about yourself to us, including infor
 
 **E-Mail**
 
-SearchSight respects the privacy of its readers and shall not disclose, distribute or rent its e-mail subscriber newsletter list to any third party, nor shall it permit anyone else to do so. Advertisers may change the email associated with their listing at any time by following the procedure outlined in our [Webmaster Frequently Asked Questions](https://web.archive.org/web/20050204060651id_/http%3A//searchsight.com/faqs.htm). 
+SearchSight respects the privacy of its readers and shall not disclose, distribute or rent its e-mail subscriber newsletter list to any third party, nor shall it permit anyone else to do so. Advertisers may change the email associated with their listing at any time by following the procedure outlined in our [Webmaster Frequently Asked Questions](https://web.archive.org/web/20051214081628id_/http%3A//searchsight.com/faqs.htm). 
 
 **How to Contact Us**
 
-If you have any questions regarding our privacy statement, please feel free to contact us though our [Comments Page.](https://web.archive.org/web/20050204060651id_/http%3A//searchsight.com/comments.htm)
+If you have any questions regarding our privacy statement, please feel free to contact us though our [Comments Page.](https://web.archive.org/web/20051214081628id_/http%3A//searchsight.com/comments.htm)
 
 This statement may change from time to time, so please check back periodically. 
 
