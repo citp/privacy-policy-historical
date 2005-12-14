@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iopus.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403161624id_/http%3A//www.iopus.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iopus.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214182206id_/http%3A//iopus.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - iOpus Web Automation Software
 
@@ -12,7 +12,7 @@ iOpus does not sell or use your private information (name, address, phone, email
 You will receive a confirmation email immediately after you order. In a second email you will receive the activation key. Your email address is not used for any other purpose. To receive notifications of future updates, you need to subscribe to our newsletter. 
 
 **Newsletter**  
-If you subscribe to our [newsletter](https://web.archive.org/web/20050403161624id_/http://iopus.com/newsletter/), your email address will be used only to send you the iOpus Newsletter and not for any other purpose. We do not sell or give email addresses of newsletter subscribers to third parties. If you are subscribed to our newsletter, you can [ unsubscribe](https://web.archive.org/web/20050403161624id_/http://iopus.com/newsletter/) at any time.
+If you subscribe to our [newsletter](https://web.archive.org/web/20051214182206id_/http://www.iopus.com/newsletter/), your email address will be used only to send you the iOpus Newsletter and not for any other purpose. We do not sell or give email addresses of newsletter subscribers to third parties. If you are subscribed to our newsletter, you can [ unsubscribe](https://web.archive.org/web/20051214182206id_/http://www.iopus.com/newsletter/) at any time.
 
 **Web Site  **  
 We use IP addresses, web server logs, and cookie data to analyze trends, administer the site, track page popularity, and gather information for aggregate use. We will not attempt to identify individual users through their IP addresses or cookie data. 
@@ -21,4 +21,4 @@ We use IP addresses, web server logs, and cookie data to analyze trends, adminis
 This site contains links to other sites. iOpus is not responsible for the privacy practices or the content of such Web sites. 
 
 **Contacting the Web Site**    
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us via email](https://web.archive.org/web/20050403161624id_/http://iopus.com/service/contact/). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us via email](https://web.archive.org/web/20051214182206id_/http://www.iopus.com/service/contact/). 
