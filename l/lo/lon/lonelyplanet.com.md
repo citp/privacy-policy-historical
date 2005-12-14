@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528232739id_/http%3A//www.lonelyplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214051844id_/http%3A//www.lonelyplanet.com/privacy) for the most accurate reproduction.*
 
 # Lonely Planet | Privacy Policy
 
@@ -15,13 +15,13 @@ Complaints, comments or corrections?
 
 So who are we?
 
-Lonely Planet operates through different companies around the world that are all part of the [Lonely Planet family](https://web.archive.org/web/20050528232739id_/http://lonelyplanet.com/privacy/lp_family.htm). Individual Lonely Planet companies sometimes need to share personal information with other companies in the group to let us provide the quality products and standard of service you've come to expect of us. If corporate structure excites you, click [here](https://web.archive.org/web/20050528232739id_/http://lonelyplanet.com/privacy/lp_family.htm) to learn more about the Lonely Planet family of companies. 
+Lonely Planet operates through different companies around the world that are all part of the [Lonely Planet family](https://web.archive.org/web/20051214051844id_/http://www.lonelyplanet.com/privacy/lp_family.htm). Individual Lonely Planet companies sometimes need to share personal information with other companies in the group to let us provide the quality products and standard of service you've come to expect of us. If corporate structure excites you, click [here](https://web.archive.org/web/20051214051844id_/http://www.lonelyplanet.com/privacy/lp_family.htm) to learn more about the Lonely Planet family of companies. 
 
 back to top
 
 What do we collect and why do we collect it?
 
-There will be situations in which it is necessary for us to collect information about individuals. We collect and hold personal information such as names, addresses, e-mail addresses, and phone numbers. If customers choose to purchase Lonely Planet products or services, we collect credit card details and other identifying information in order to process orders and provide customer service. Our writers (some of whom work on contract to us) may also collect personal information in the course of gathering material for inclusion in our publications (although you won't always know who they are at the time as we need to get the real story!) Click here to read our [Media Privacy Policy](https://web.archive.org/web/20050528232739id_/http://lonelyplanet.com/privacy/privacy_media.htm). The types of purposes for which we collect information about individuals include the following (we'll generally explain more about why we collect personal information when we actually collect it - but there are some exceptions): 
+There will be situations in which it is necessary for us to collect information about individuals. We collect and hold personal information such as names, addresses, e-mail addresses, and phone numbers. If customers choose to purchase Lonely Planet products or services, we collect credit card details and other identifying information in order to process orders and provide customer service. Our writers (some of whom work on contract to us) may also collect personal information in the course of gathering material for inclusion in our publications (although you won't always know who they are at the time as we need to get the real story!) Click here to read our [Media Privacy Policy](https://web.archive.org/web/20051214051844id_/http://www.lonelyplanet.com/privacy/privacy_media.htm). The types of purposes for which we collect information about individuals include the following (we'll generally explain more about why we collect personal information when we actually collect it - but there are some exceptions): 
 
   * obtaining and responding to feedback from travellers
   * allowing people to share their experiences with fellow travellers on our bulletin boards
