@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2005-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050625083742id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2005-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214060444id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
 
 <html><head><title>GlobalSpec - Privacy Policy</title>
 	<link rel="stylesheet" type="text/css" href="http://www.globalspec.com/css/stylesheet.css">
@@ -43,6 +43,7 @@
  </head>
 
 <body bgcolor="#ffffff">
+
 
 
 <table class="bannerArea" width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -99,41 +100,42 @@ blueGoMouseDown.src = "/pix/buttons/HeaderGo_Down_blue.gif";
 var blueGoMouseUp = new Image();
 blueGoMouseUp.src = "/pix/buttons/HeaderGo_Out_blue.gif";
 
-function DoSearchBoxSubmit() {
-	var gotoURL;
+
+	function DoSearchBoxSubmit() {
+		var gotoURL;
+		
+		var searchterm = document.FindIn.query.value;
 	
-	var searchterm = document.FindIn.query.value;
-
-	if (searchterm == "") {
-		alert("Please enter a search term");
-	} else {
-		switch (document.FindIn.SearchMode.value) {
-
-			case "Products":	gotoURL = "http://www.globalspec.com/ProductFinder/FindProducts?query=" + escape(searchterm); break;
-			case "Services":	gotoURL = "http://www.globalspec.com/ProductFinder/FindProducts?query=" + escape(searchterm) + "&mode=Services"; break;
-			case "Suppliers":	gotoURL = "http://www.globalspec.com/SpecSearch/SupplierByNameSearch?query=" + escape(searchterm); break;
-			case "FeaturedProducts":	gotoURL = "http://www.globalspec.com/FeaturedProducts/SearchResults?criteria=" + escape(searchterm); break;
-			case "SearchEngineTotal":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=total"; break;
-			case "SearchEnginePartNumbers": gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=partnumbers"; break;
-			case "SearchEngineCompanySites":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=companysites"; break;
-			case "SearchEngineAppNotes":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=appnotes"; break;
-			case "SearchEnginePatents":		searchterm = searchterm + buildExtraPatentSearchTerms(); gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=patents"; break;
-			case "SearchEngineStandards":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=standards"; break;
-			case "SearchEngineMaterials":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=materials"; break;
-			default: gotoURL = "http://www.globalspec.com/ProductFinder/FindProducts?query=" + escape(searchterm);
+		if (searchterm == "") {
+			alert("Please enter a search term");
+		} else {
+			switch (document.FindIn.SearchMode.value) {
+	
+				case "Products":	gotoURL = "http://search.globalspec.com/ProductFinder/FindProducts?query=" + escape(searchterm); break;
+				case "Services":	gotoURL = "http://search.globalspec.com/ProductFinder/FindProducts?query=" + escape(searchterm) + "&mode=Services"; break;
+				case "Suppliers":	gotoURL = "http://www.globalspec.com/SpecSearch/SupplierByNameSearch?query=" + escape(searchterm); break;
+				case "FeaturedProducts":	gotoURL = "http://www.globalspec.com/FeaturedProducts/SearchResults?criteria=" + escape(searchterm); break;
+				case "SearchEngineTotal":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=total"; break;
+				case "SearchEnginePartNumbers": gotoURL = "http://part-numbers.globalspec.com/Search?query=" + escape(searchterm) + "&show=partnumbers"; break;
+				case "SearchEngineCompanySites":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=companysites"; break;
+				case "SearchEngineAppNotes":	gotoURL = "http://application-notes.globalspec.com/Search?query=" + escape(searchterm) + "&show=appnotes"; break;
+				case "SearchEnginePatents":		searchterm = searchterm + buildExtraPatentSearchTerms(); gotoURL = "http://patents.globalspec.com/Search?query=" + escape(searchterm) + "&show=patents"; break;
+				case "SearchEngineStandards":	gotoURL = "http://engineering-standards.globalspec.com/Search?query=" + escape(searchterm) + "&show=standards"; break;
+				case "SearchEngineMaterials":	gotoURL = "http://material-properties.globalspec.com/Search?query=" + escape(searchterm) + "&show=materials"; break;
+				default: gotoURL = "http://search.globalspec.com/ProductFinder/FindProducts?query=" + escape(searchterm);
+				
+			}
 			
+			// append a URL parameter for tracking that indicates we are hitting the page
+			// from the search box in the skin
+			gotoURL = gotoURL + "&frmtrk=topnav";
+	
+			
+			
+						
+			top.location.href = gotoURL;
 		}
-		
-		// append a URL parameter for tracking that indicates we are hitting the page
-		// from the search box in the skin
-		gotoURL = gotoURL + "&frmtrk=topnav";
-
-		
-		
-					
-		top.location.href = gotoURL;
 	}
-}
 
 function buildExtraPatentSearchTerms() {
 	var extraStuff = "";
@@ -161,7 +163,7 @@ function searchModeKeyDown(evt) {
 </script>
 
 
-<table cellpadding="0" cellspacing="0" border="0" align="center">
+<table cellpadding="0" cellspacing="0" border="0">
 	<form name="FindIn" method="get" onsubmit="DoSearchBoxSubmit(); return false;"></form>
 	<tbody><tr>
 		<td align="center">
@@ -173,16 +175,17 @@ function searchModeKeyDown(evt) {
 				</tr>
 				<tr>
 				
-				
-					<td align="right">Find:&nbsp;</td>
-				
-					<td align="left" valign="middle" nowrap="">
+				<td align="right">Find:&nbsp;</td> 
 						
-						<input name="query" type="text" value="" size="30"><img src="/pix/dot.gif" width="1" height="1" hspace="1">
-					</td>
-					<td align="left" valign="center" nowrap="">
-						
-						<select name="SearchMode" onchange="searchDropDownChange()" onkeydown="return searchModeKeyDown(event)" onkeyup="return searchDropDownChange(event)">
+
+						<td align="left" valign="middle" nowrap="">
+							
+							<input name="query" type="text" value="" size="30">
+								<img src="/pix/dot.gif" width="1" height="1" hspace="1">
+						</td>
+						<td align="left" valign="center" nowrap="">
+							
+							<select name="SearchMode" onchange="searchDropDownChange()" onkeydown="return searchModeKeyDown(event)" onkeyup="return searchDropDownChange(event)">
 <option value="Products" selected="">Products &amp; Suppliers</option>
 <option value="Services">Service Providers</option>
 <option value="Suppliers">A Company by Name</option>
@@ -196,8 +199,8 @@ function searchModeKeyDown(evt) {
 <option value="SearchEngineCompanySites">Supplier Web Sites</option>
 </select>
 						
-						<img src="/pix/dot.gif" width="1" height="1" hspace="1">
-					</td>												
+							<img src="/pix/dot.gif" width="1" height="1" hspace="1">
+						</td>
 					
 				</tr>
 
@@ -208,13 +211,16 @@ function searchModeKeyDown(evt) {
 		</td>
 		
 		
-		<td>
+		<td nowrap="">
 			<img src="/pix/dot.gif" width="1" height="1" vspace="8"><br>
 			<img src="/pix/dot.gif" width="1" height="1" hspace="2">
 		
 			<input type="image" src="/pix/buttons/HeaderGo_Out.gif" alt="Search now!" border="0" onclick="DoSearchBoxSubmit(); return false;" onmouseover="this.src='/pix/buttons/HeaderGo_Over.gif'" onmouseout="this.src='/pix/buttons/HeaderGo_Out.gif'" onmousedown="this.src='/pix/buttons/HeaderGo_Down.gif'">
 		
 		</td>
+														
+		
+
 	</tr>
 	
 </tbody></table>
@@ -228,8 +234,9 @@ function searchModeKeyDown(evt) {
 	</tbody></table>
 	</td></tr>
 
-</tbody></table> 
-	<p class="headerGold">GlobalSpec Privacy Policy</p>
+</tbody></table>
+
+<p class="headerGold">GlobalSpec Privacy Policy</p>
 
 <div class="content">
 GlobalSpec has one primary goal: to help the engineering and technical community quickly find products and services meeting their specifications. We're proud to offer this free service which is the largest of its kind.  We understand the reluctance Web users have about providing user information, so we have instituted the following PRIVACY POLICY to address this issue: 
@@ -261,9 +268,9 @@ GlobalSpec has one primary goal: to help the engineering and technical community
 
 	
 	<br>
-	<hr width="90%">
 	
 	
+		<hr width="90%">
 		<hr width="90%">
 	 
 			<table>
@@ -292,6 +299,7 @@ GlobalSpec has one primary goal: to help the engineering and technical community
 		  	 	</tr>
 			</tbody></table>
 		
+	
 
 	©1999-2005 GlobalSpec.&nbsp; All rights reserved.&nbsp; GlobalSpec, the GlobalSpec logo and SpecSearch are registered trademarks of GlobalSpec, Inc.&nbsp; 
 	<br>
@@ -306,9 +314,10 @@ GlobalSpec has one primary goal: to help the engineering and technical community
 		
     <a href="http://www.globalspec.com/SiteMap/Directory/"><img border="0" src="/pix/dot.gif"></a> 
 	<a href="http://search.globalspec.com/Search/WebSearch"><img border="0" src="/pix/dot.gif"></a> 
-	
-	
-	 
+
+		
+	<div style="text-align:right;"><a href="http://www.globalspec.com/Test/control?location=%2Fhelp%2Fprivacy" style="color:#DDDDDD;font-size:1em;" rel="nofollow">control</a></div>
+ 
 
 </div>
 
