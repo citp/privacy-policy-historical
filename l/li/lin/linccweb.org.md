@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525095747id_/http%3A//www.linccweb.org/faqs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214170823id_/http%3A//www.linccweb.org/faqs/privacy.asp) for the most accurate reproduction.*
 
 # LINCCWeb - Privacy Statement
 
@@ -54,7 +54,7 @@ To support local library operations, CCLA collects and temporarily stores inform
 >> 
 >> **Links to Other Web Sites**
 >> 
->> Transactions within the CCLA/LINCC network are transmitted within a protected environment. Once you link from CCLA's Web sites to another site, you are subject to the privacy policy and security practices of the new site. Such linking does not constitute CCLA's endorsement of the new site's privacy policy. Please refer to [CCLA's Terms of Use Statement](https://web.archive.org/web/20050525095747id_/http%3A//www.linccweb.org/faqs/terms_of_use.asp) for more information about links from CCLA's Web sites to other Web sites.
+>> Transactions within the CCLA/LINCC network are transmitted within a protected environment. Once you link from CCLA's Web sites to another site, you are subject to the privacy policy and security practices of the new site. Such linking does not constitute CCLA's endorsement of the new site's privacy policy. Please refer to [CCLA's Terms of Use Statement](https://web.archive.org/web/20051214170823id_/http%3A//www.linccweb.org/faqs/terms_of_use.asp) for more information about links from CCLA's Web sites to other Web sites.
 >> 
 >> Back to Top
 >> 
