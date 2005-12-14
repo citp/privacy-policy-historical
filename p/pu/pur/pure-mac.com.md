@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206092726id_/http%3A//www.pure-mac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214023839id_/http%3A//www.pure-mac.com/privacy.html) for the most accurate reproduction.*
 
 # Pure Mac - Software For Macintosh
 
