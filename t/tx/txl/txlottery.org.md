@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txlottery.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607054801id_/http%3A//txlottery.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txlottery.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214103059id_/http%3A//www.txlottery.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # TxLottery: Privacy Policy
 
