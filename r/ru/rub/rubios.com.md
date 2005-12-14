@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubios.com privacy policy that was archived on 2005-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050415073354id_/http%3A//www.rubios.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubios.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214095217id_/http%3A//rubios.com/privacy.html) for the most accurate reproduction.*
 
 # Rubio's
 
