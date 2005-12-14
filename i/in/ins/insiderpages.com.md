@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2005-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050608003949id_/http%3A//www.insiderpages.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214134334id_/http%3A//www.insiderpages.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Insider Pages - Join Today to see Find Customer Reviews of Local Businesses on Insider Pages
 
