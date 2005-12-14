@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617081956id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214092844id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
-
-| 
+# Australian Broadcasting Corporation: Privacy Policy
 
 ABC Online is strongly committed to protecting your privacy while interacting with our content, products and services. We want to provide a safe and secure environment for you and your children.
 
@@ -36,9 +34,12 @@ ABC Online will only use the personal information you have chosen to provide us 
 
 ## Cookies
 
+For information about cookies on ABC Online see [this page](http://www.abc.net.au/about/cookies.htm).
+
 The ABC Shop site currently uses cookies. For more information about how the ABC Shop uses cookies, please visit the ABC Shop's privacy policy at <http://www.abcshop.com.au/help/privacy.shtm>
 
-For more information about cookies on other parts of ABC Online see [this page](http://www.abc.net.au/about/cookies.htm).
+  
+
 
 ## Disclosure
 
@@ -54,7 +55,7 @@ There are many interactive features on ABC Online that you can contribute to. Th
 
 When interacting with ABC Online, we suggest that you use your discretion and exercise caution when providing your personal information.
 
-Note that whenever you post personal information in publicly accessible places, such as chat rooms or message boards, this information becomes available to anyone with access to the internet. This information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Therefore, we recommend that you refrain from posting any information that you do not want seen in these public areas. For example, when participating in an ABC forum, guest book or chat area, your name will appear on the message board. If you do not want your real name to appear use a false name but do not under any circumstances use somebody else's name.
+Note that whenever you post personal information in publicly accessible places, such as chat rooms or message boards, this information becomes available to anyone with access to the internet. This information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Therefore, we recommend that you refrain from posting any information that you do not want seen in these public areas. For example, when participating in an ABC forum, guest book or chat area, your name will appear on the message board. The ABC recommends that applicants registering online do not use their real names, but a pen name or pseudonym. You must not intentionally use the name of another living person.
 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any personal information. Be responsible whenever you are online.
 
@@ -73,5 +74,3 @@ If you have any complaints relating to online privacy issues on our websites, pl
 ## Changes to ABC Online privacy policy
 
 If we decide to change the ABC Online Privacy Policy, we will post those changes here.
-
-* * *
