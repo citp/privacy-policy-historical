@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihserc.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403165505id_/http%3A//www.ihserc.com/about-ihs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihserc.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215001006id_/http%3A//www.ihserc.com/about-ihs/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for IHS
 
@@ -47,19 +47,3 @@ IHS
 Englewood, CO 80112
 
 |  | 
-
-About IHS
-
-[Corporate Profile](https://web.archive.org/about-ihs/index.html)
-
-[History](https://web.archive.org/about-ihs/history.html)
-
-[Executive Team](https://web.archive.org/about-ihs/executive-team.html)
-
-[Careers](https://web.archive.org/employment/career-ihs.html)
-
-[News Releases](https://web.archive.org/news/press-releases/index.html)
-
-[Events](https://web.archive.org/events/index.html)
-
-[CEO Message](https://web.archive.org/about-ihs/ceo-message.html)
