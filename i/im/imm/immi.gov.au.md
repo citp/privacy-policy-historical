@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immi.gov.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614073637id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immi.gov.au privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214193538id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
 
 # Immigration Department Website: Privacy Statement
 
@@ -75,11 +75,11 @@ You can find more information from the [Privacy Commissioner's website](http://w
 If at any time you believe we have not adhered to the principles referred to in this privacy statement or have any other comments on these principles, please contact:
 
 > DIMIA Privacy Officer  
->  Email: [opfoi@immi.gov.au](mailto:opfoi@immi.gov.au)
+>  Email: [privacy@immi.gov.au](mailto:privacy@immi.gov.au)
 
 Please note the Privacy Officer will only respond to queries on privacy matters. Inquiries about other matters will not be answered. 
 
-**[ Return to Previous Page ]**
+**[ Return to previous page ]**
 
   
-Last update: 09 June 2005 at 12:00 AEST 
+Last update: 06 October 2005 at 11:14 AEST 
