@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the runboard.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624083213id_/http%3A//www.runboard.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runboard.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215005417id_/http%3A//www.runboard.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # runboard.com - Free message boards, free forums, remotely hosted online
 
-[**Home**](http://www.runboard.com/)    [**Create  your message board**](http://www.runboard.com/create_community)    [**About  runboard.com**](http://www.runboard.com/about_us)    [**Sign  up**](http://www.runboard.com/create_user)    [**Login**](http://www.runboard.com/login)    [**FAQ**](http://www.runboard.com/faq)    [**Help**](http://www.runboard.com/support/)    [**Link  to us**](http://www.runboard.com/linktous)    [**Blogs**](http://blog.runboard.com/)  
-
+[runboard.com](http://www.runboard.com/)    [Create your message board](http://www.runboard.com/create_community)    [Sign up](http://www.runboard.com/create_user)    [Login](http://www.runboard.com/login)   
 
 * * *
 
@@ -32,7 +31,7 @@ Any opinions in messages posted in any forums located on our service are not nec
 
 When posting a message to a forum hosted by DATAHIT, your IP address is automatically logged with your post. The administrator of the board you are posting in has the option to have IP addresses displayed publicly when reading the posts in the forum. Even if not shown next to posts, IP addresses are always shown to the Head Administrator of the board and to DATAHIT. This is common practice of most board hosts.  
 Upgraded "Purchased" Account  
-Users may choose to purchase an upgraded account giving them benefits as listed on our homepage. We use an external payment service in Tel4money.com. The User phones a toll number to get a code, then entering it on the site gains the User 62 days of upgraded status. Current prices are listed on our homepage. No personal information is given to Tel4money about users.  
+Users may choose to purchase an upgraded account giving them benefits as listed on our homepage. We use an external payment service. Current prices are listed on our web site.  
 Cookies  
 This Web site uses cookies to store usernames and passwords for message boards that are visited. Please be aware that once logged into a board you will be logged in indefinitely until such time as the cookies are deleted from that computer.  
 If you are using a public computer, please ensure that upon leaving any page hosted by DATAHIT that you log out, thus preventing any unauthorised use of your Account or Services.  
@@ -46,5 +45,5 @@ Last Updated: 10th October 2003
 
 * * *
 
-You are not logged in ([login](http://www.runboard.com/login))      Board's time is 6/24/2005, 8:32 am  |   
+You are not logged in ([login](https://web.archive.org/login))      Board's time is 12/15/2005, 12:54 am  |   
 ---|---
