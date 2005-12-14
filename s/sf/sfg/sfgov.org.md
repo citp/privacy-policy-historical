@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfgov.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403213143id_/http%3A//sfgov.org/site/mainpages_index.asp%3Fid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfgov.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214105618id_/http%3A//sfgov.org/site/mainpages_index.asp%3Fid%3D37) for the most accurate reproduction.*
 
 # San Francisco SFGov: Privacy Policy
 
