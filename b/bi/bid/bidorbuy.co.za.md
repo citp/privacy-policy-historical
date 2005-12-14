@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307085920id_/http%3A//www.bidorbuy.co.za/static/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214100522id_/http%3A//www.bidorbuy.co.za/static/Privacy.html) for the most accurate reproduction.*
 
 # bidorbuy Privacy Statement
 
