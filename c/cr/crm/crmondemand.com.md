@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crmondemand.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204200822id_/http%3A//www.crmondemand.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crmondemand.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214233644id_/http%3A//www.crmondemand.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -25,10 +25,8 @@ Last update: May 1, 2004
 
 | 
 
-[](https://web.archive.org/about/notification_reg.jsp)
+[ ](https://web.archive.org/about/howtobuy_reg.jsp) [](https://web.archive.org/products/ondemandvideo_reg.jsp)
 
-##   Video Demonstration
-
-##   Best Practices Web Seminars
+##   Product Tours
 
 ##   Product Brochure
