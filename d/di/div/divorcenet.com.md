@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the divorcenet.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403194934id_/http%3A//www.divorcenet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divorcenet.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214171744id_/http%3A//www.divorcenet.com/privacy) for the most accurate reproduction.*
 
 # DivorceNet - DivorceNet Privacy Statement
 
-##### Zip Code Search
+  
 
-Find professionals in your area:
-
- 
-
-| 
 
 **Our Online Data Collection and Use Practices**  
 This statement explains the online data collection and use practices of DivorceNet.com; the statement and its description of our online data practices does not apply to other online sites or to other services provided by Lawtek Media Group, LLC. This statement does not apply to the offline data collection and use practices of Lawtek Media Group, LLC. Please be aware that this privacy statement and the choices you make on this site will not necessarily apply to personal information you may have provided or will provide to Lawtek in other settings.
@@ -38,11 +33,3 @@ By using our website, you agree to the conditions of this privacy statement. We 
 
 **How to Contact Us**  
 Should you have other questions or concerns about this privacy statement or our data collection practices, please write to us at 321 Walnut Street, Suite 440, Newton, MA 02460 or call us at 1-617-527-9777.
-
-| 
-
-##### weekly user poll
-
-If you are going through a divorce, have you considered mediation?
-
- 
