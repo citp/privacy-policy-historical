@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mec.ca privacy policy that was archived on 2005-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050511075820id_/http%3A//www.mec.ca/Main/content_text.jsp%3FbmLocale%3Den%26FOLDER%253C%253Efolder_id%3D70079) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mec.ca privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214223122id_/http%3A//www.mec.ca/Main/content_text.jsp%3FbmLocale%3Den%26FOLDER%253C%253Efolder_id%3D2534374302093759) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,9 @@ Mountain Equipment Co-operative respects your personal privacy. We believe ensur
 
 For additional information on privacy, security, and use of information at MEC please view the following information:
 
-**»**   Read the [Website Terms of Use](http://www.mec.ca/Main/content_text.jsp;jsessionid=CB7cewlNMs4GhBAVnGnK4qAdgXunzb337UVVgVzSWslHMOSCF2ii!329698393!170918944!2003!7002?CONTENT%3C%3Ecnt_id=8851&FOLDER%3C%3Efolder_id=86607&bmUID=1115798300722)  
-**»**   Download the   [MEC Privacy Fact Sheet PDF](https://web.archive.org/media/Images/pdf/privacy_factsheet_en.pdf) (100KB)  
-**»**   Download the   [MEC Privacy Code PDF](https://web.archive.org/media/Images/pdf/MEC_privacy_code.pdf) (31KB)
+**»**   Read the [Website Terms of Use](http://www.mec.ca/Main/content_text.jsp;jsessionid=DgLny77JwHTVDVjd9mP7gBrNfzmMn2M2JsJ8FTpQqt8cv4lTB1vC!-1804728575?CONTENT%3C%3Ecnt_id=10134198673220243&FOLDER%3C%3Efolder_id=2534374302110287&bmUID=1134578671362)  
+**»**   Download the   [MEC Privacy Fact Sheet PDF](http://images.mec.ca/media/Images/pdf/privacy_factsheet_en_v1_m56577569830538410.pdf) (100KB)  
+**»**   Download the   [MEC Privacy Code PDF](http://images.mec.ca/media/Images/pdf/MEC_privacy_code_v1_m56577569830533314.pdf) (31KB)
 
 ## Information Collection, Use, and Disclosure
 
@@ -47,7 +47,7 @@ If you place an order online, we only request the information needed to complete
 
 We use appropriate security safeguards to protect your personal information against loss, theft, and unauthorized access. Any personal information you provide to Mountain Equipment Co-operative is exchanged on a secure server. We use one of today's most advanced security systems, the Secure Sockets Layer (SSL) protocol, to encrypt, or encode, information you send to us in the order process. The encryption process protects information, such as your credit card number, and billing and shipping information by scrambling it before it is sent from your computer. Only once we receive your information is it decoded, and we make all reasonable efforts to ensure its security on our own systems.
 
-**Warning:** e-mail is not a secure means to send personal information, as it is not encrypted. We strongly encourage you to use our secure ordering process when ordering online. For general correspondence we also have our secure Contact Us page at [www.mec.ca/contact](http://www.mec.ca/Apps/contactUs/contactUs.jsp;jsessionid=CB7cewlNMs4GhBAVnGnK4qAdgXunzb337UVVgVzSWslHMOSCF2ii!329698393!170918944!2003!7002?bmUID=1115798300722).
+**Warning:** e-mail is not a secure means to send personal information, as it is not encrypted. We strongly encourage you to use our secure ordering process when ordering online. For general correspondence we also have our secure Contact Us page at [www.mec.ca/contact](http://www.mec.ca/Apps/contactUs/contactUs.jsp;jsessionid=Dgd1VycnmFXVS2hvnfghKCvJ5KrmNGFVfk6G7nJly2PhNS5Lv20D!-1804728575?bmUID=1134599477644).
 
 ## MEC Membership Information
 
@@ -65,11 +65,11 @@ The information contained in the database can only be used for corporate purpose
 
 ### Updating Membership Data
 
-Membership information previously provided to MEC can be up updated online at [www.mec.ca/update](http://www.mec.ca/Membership/login_update.jsp;jsessionid=CB7cewlNMs4GhBAVnGnK4qAdgXunzb337UVVgVzSWslHMOSCF2ii!329698393!170918944!2003!7002?FOLDER%3C%3Efolder_id=617707&bmUID=1115798300723), or by calling Membership Services at 1.800.474.7704 (Canada and U.S.) or 604.872.6630 (Local and International).
+Membership information previously provided to MEC can be up updated online at [www.mec.ca/update](http://www.mec.ca/Membership/login_update.jsp;jsessionid=Dgd1VycnmFXVS2hvnfghKCvJ5KrmNGFVfk6G7nJly2PhNS5Lv20D!-1804728575?FOLDER%3C%3Efolder_id=1408474395798763&FOLDER%3C%3EbrowsePath=1408474395798763&bmUID=1134599477644), or by calling Membership Services at 1.800.474.7704 (Canada and U.S.) or 604.872.6630 (Local and International).
 
 #### Opting Out
 
-If you wish to have any of your personal information removed from our databases, or if you no longer want us to send any further communications to you, please send an e-mail to Membership Services at [info@mec.ca](http://www.mec.ca/Apps/contactUs/contactUs.jsp;jsessionid=CB7cewlNMs4GhBAVnGnK4qAdgXunzb337UVVgVzSWslHMOSCF2ii!329698393!170918944!2003!7002?bmUID=1115798300724).
+If you wish to have any of your personal information removed from our databases, or if you no longer want us to send any further communications to you, please send an e-mail to Membership Services at [info@mec.ca](http://www.mec.ca/Apps/contactUs/contactUs.jsp;jsessionid=Dgd1VycnmFXVS2hvnfghKCvJ5KrmNGFVfk6G7nJly2PhNS5Lv20D!-1804728575?bmUID=1134599477645).
 
 Please note, however, that as a co-operative we are required by law to maintain certain information about our members, as noted above in Information, Collection, Use & Disclosure, which we are required by law to maintain even after a member has terminated his or her membership.
 
@@ -79,11 +79,13 @@ Visitors to our site may choose to opt in to receive our email newsletters. They
 
 ### Newsletter Subscription
 
-Newsletters are sent only to users who choose to provide us with their email address. Our newsletter subscriber database is never sold, rented or loaned to any other parties. Subscribers wishing to update their contact information, or opt out of receiving newsletters, can use our online subscriber services at [www.mec.ca/subscriptions](http://www.mec.ca/Apps/mecMail/mecMailSubscribe.jsp;jsessionid=CB7cewlNMs4GhBAVnGnK4qAdgXunzb337UVVgVzSWslHMOSCF2ii!329698393!170918944!2003!7002?bmUID=1115798300725).
+Newsletters are sent only to users who choose to provide us with their email address. Our newsletter subscriber database is never sold, rented or loaned to any other parties. Subscribers wishing to update their contact information, or opt out of receiving newsletters, can use our online subscriber services at [www.mec.ca/subscriptions](http://www.mec.ca/Apps/mecMail/mecMailSignIn.jsp;jsessionid=Dgd1VycnmFXVS2hvnfghKCvJ5KrmNGFVfk6G7nJly2PhNS5Lv20D!-1804728575?bmUID=1134599477645).
+
+We collect aggregate information regarding open rates, page views, and generated sales from our HTML email newsletters. Aggregate information does not personally identify individuals. No aggregate information is collected from text-only newsletters. Subscribers concerned about collection of aggregate information may change their newsletter format to text-only at [www.mec.ca/subscriptions](http://www.mec.ca/Apps/mecMail/mecMailSignIn.jsp;jsessionid=Dgd1VycnmFXVS2hvnfghKCvJ5KrmNGFVfk6G7nJly2PhNS5Lv20D!-1804728575?bmUID=1134599477645).
 
 ### Gear Swap and Events Listings
 
-Visitors choosing to use our free online gear swap or events listings are bound by the user-provided content guidelines set out in our [Terms of Use](http://www.mec.ca/Main/content_text.jsp;jsessionid=CB7cewlNMs4GhBAVnGnK4qAdgXunzb337UVVgVzSWslHMOSCF2ii!329698393!170918944!2003!7002?CONTENT%3C%3Ecnt_id=8851&FOLDER%3C%3Efolder_id=86607&bmUID=1115798300726). Gear Swap posting data is stored for a maximum 15 days. Events Listings data is stored from the time the posting is made until the user-defined expiration date.
+Visitors choosing to use our free online gear swap or events listings are bound by the user-provided content guidelines set out in our [Terms of Use](http://www.mec.ca/Main/content_text.jsp;jsessionid=DgLny77JwHTVDVjd9mP7gBrNfzmMn2M2JsJ8FTpQqt8cv4lTB1vC!-1804728575?CONTENT%3C%3Ecnt_id=10134198673220243&FOLDER%3C%3Efolder_id=2534374302110287&bmUID=1134578671362). Gear Swap posting data is stored for a maximum 15 days. Events Listings data is stored from the time the posting is made until the user-defined expiration date.
 
 ## Fraud Prevention
 
@@ -104,4 +106,4 @@ At your request, we will provide to you a statement explaining the extent to whi
 This page will be updated if information about the collection and use of your personal data changes.
 
   
-[](http://www.mec.ca/Main/content_text.jsp;jsessionid=CB7cewlNMs4GhBAVnGnK4qAdgXunzb337UVVgVzSWslHMOSCF2ii!329698393!170918944!2003!7002?CONTENT%3C%3Ecnt_id=8867&FOLDER%3C%3Efolder_id=70079&printFriendly=y&bmUID=1115798300727)
+[](http://www.mec.ca/Main/content_text.jsp;jsessionid=Dgd1VycnmFXVS2hvnfghKCvJ5KrmNGFVfk6G7nJly2PhNS5Lv20D!-1804728575?CONTENT%3C%3Ecnt_id=10134198673220259&FOLDER%3C%3Efolder_id=2534374302093759&printFriendly=y&bmUID=1134599477647)
