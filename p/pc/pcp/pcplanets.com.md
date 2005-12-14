@@ -1,104 +1,55 @@
-> *The following text is extracted and transformed from the pcplanets.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305123408id_/http%3A//www.pcplanets.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcplanets.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214122659id_/http%3A//www.pcplanets.com/privacy.shtml) for the most accurate reproduction.*
 
-# PC Planets Privacy Policies
+# Free Music Video Codes | Thousands of Free Music Videos For MySpace, Xanga, or any Website
 
-|   
----  
-Do you shop online?[](http://www.webwizguide.info/)  
-Yes I shop online.  
-I only search for new products online.  
-I compare prices online and buy from stores.  
-I only do research on product features online.  
-[View Results](javascript:openWin\('poll/weekly_poll.asp?ID=5','poll','toolbar=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,width=505,height=400'\))[](http://www.webwizguide.info/)  
-  
-Information About Privacy on PcPlanets.com
+This is the web site of **PcPlanets.com**.
 
-  
-** PcPlanets.com Privacy Statement** **  
-This document was last updated December 3, 2002.
+Our postal address is   
+**150 Oak Lane  
+State Road, NC 28676**
 
-Pc Planets is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. This privacy statement only applies to PcPlanets.com; it does not apply to other online or offline Pc Planets sites, products or services. Please read the complete PcPlanets.com privacy statement.
+We can be reached via e-mail at [info@pcplanets.com](mailto:info@pcplanets.com)  
+or you can reach us by telephone at 612-501-2548
 
-** ** Collection of your Personal Information** **  
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are registering before entering a contest, ordering e-mail newsletters, joining a limited-access premium site, signing up for an event or training, or when purchasing and/or registering Pc Planets products. Personal information collected by PcPlanets.com often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested.
+This Policy is effective on August 1, 2005
 
-For example: If you choose a service or transaction that requires payment, such as making a purchase in the 
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
-[Shop area](http://www.pcplanets.com/) of the Web site, we will request personal information necessary for billing and/or shipping, such as: name, address, telephone number, and credit card number.
+We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, payment information (e.g., credit card number and billing address).
 
-When you buy and install a new product, we may ask you to register your purchase electronically. We keep this registration information on file with any information you've already given us on previous visits to our Web site.
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, not shared with other organizations for commercial purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site and applicable laws or to protect against misuse or unauthorized use of our Web site, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Web site.
 
-PcPlanets.com also collects certain information about your computer hardware and software. This information may include: your IP address, browser type, operating system, domain name, access times and referring Web site addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of PcPlanets.com.
+With respect to cookies: We use cookies to ensure that visitors are not repeatedly sent the same banner ads.
 
-PcPlanets.com also collects information about which pages our customers visit within PcPlanets.com. This site visitation data is identified only by a unique ID number, and it is never linked with personal information.
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
 
-**** Use of your Personal Information** **  
-We use your personal information for the following purposes: **
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
 
-  * ** To ensure our site is relevant to your needs.  **
+From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
 
-  * ** To deliver services, such as newsletters, events, training or software, that you request or purchase.  **
+If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
-  * ** To help us create and publish content most relevant to you.  **
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-  * ** To alert you to product upgrades, special offers, updated information and other new services from Pc Planets, if you so request.  **
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
 
-  * ** To allow you access to limited-entry areas of our site as appropriate.  **
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+http://www.paypopup.com/privacy.php
 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address, calling us at the above telephone number, writing to us at the above address.
 
+Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them.
 
-** We will merge site-visitation data with anonymous demographic information for research purposes, and we may use this information in aggregate to provide more relevant content. In some limited-entry sections of PcPlanets.com, with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won�t merge your personal information with site-visitation data.
+Consumers can access this information by sending us e-mail us at the above address, calling us at the above telephone number, writing to us at the above address.
 
-We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site.
 
-Pc Planets may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Pc Planets or the site; (b) protect and defend the rights or property of Pc Planets and its family of Web sites, or (c) act in urgent circumstances to protect the personal safety of Pc Planets employees, users of Pc Planets products or services, or members of the public.
+Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
 
-Your information may be stored and processed in the Canada or any other country in which Pc Planets or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. Pc Planets abides by the safe harbor framework as set forth by the Canadian Department of Commerce regarding the collection, use, and retention of data from the European Union.
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-**** Control of your Personal Information** **  
-When you register, or otherwise give us personal information, PcPlanets.com will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
-Registering also allows you to tell us how or whether you want PcPlanets.com to communicate with you. After registering, go to  Contact Options sections. There, you can decide what information you want to receive and how you want to receive it. Or you can tell us not to contact you by removing check marks from the contact option boxes. If you buy software through www.PcPlanets.com, and do not want to receive such information, do not check the box on the Checkout page (or on other pages where personal information is collected) which says: Yes, I would like to receive other offers through www.PcPlanets.com.
-
-PcPlanets.com occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you should uncheck the box in the Contact Options section stating, "Pc Planets partners can send me postal mail about their services or products." If you buy products through www.PcPlanets.com and do not want to receive these offers, do not check the box on the Checkout page (or other pages where personal information is collected), which says: Yes, I would like to receive other offers from non-Pc Planets companies.
-
-PcPlanets.com may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.
-
-**** Access to your Personal Information** **  
-We will provide you with the means to ensure that your personal information is correct and current.
-
-If you register on a PcPlanets.com or subscribe to a newsletter, you can review and edit your personal information . You will be asked to enter your user name and password password before viewing your personal information.
-
-**
-
-  * ** View and edit personal information you have already given us at PcPlanets.com.  **
-
-  * ** Tell us whether you want PcPlanets.com to send you marketing information.  **
-
-  * ** Choose whether you want third parties to send you their offers by postal mail.  **
-
-  * ** Subscribe, or cancel subscriptions, to newsletters about our services and products.  **
-
-
-
-
-** Some services offered on PcPlanets.com may collect information that is not accessible via the Profile Center. However, in such cases, you can access your personal information by contacting PcPlanets.com as described at the bottom of this statement, or through alternative means of access described by the service. For example, if you buy Products through www.PcPlanets.com, you can review and edit your personal information by contacting one of our Customer Service representatives  [ CustomerService@PcPlanets.com](mailto:CustomerService@PcPlanets.com) **** Security of your Personal Information** **  
-PcPlanets.com is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities. When we transmit sensitive information (such as a credit card number) over the internet, we protect it through the use of encryption. **** Protection of Children's Personal Information** **  
-PcPlanets.com is a general audience site and does not knowingly collect any personal information from children. **** Use of Cookies** **  
-When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously. One use of cookies is to assist in the collection of the site visitation statistics described above.
-
-We also use cookies to collect information on which newsletter links are clicked by customers. This information is used to ensure we are sending information customers want to read. It is collected in aggregate form and never linked with your personal information.
-
-Web beacons, also known as clear gif technology, or action tags, may be used to assist in delivering the cookie on our site. This technology tells us how many visitors clicked on key elements (such as links or graphics) on a PcPlanets.com Web page. We do not use this technology to access your personally identifiable information on PcPlanets.com; it is a tool we use to compile aggregated statistics about PcPlanets.com Web site usage. We may share aggregated site statistics with partner companies but do not allow other companies to place clear gifs on our sites.
-
-If you choose to not have your browser accept cookies from the PcPlanets.com Web site, you will be able to view the text on the screens, however you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site.
-
-**** Enforcement of this Privacy Statement** **  
-If you have questions regarding this statement, you should first contact PcPlanets.com by ****[ e-mail](mailto:CustomerService@PcPlanets.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed **** Changes to this Statement** **  
-PcPlanets.com will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, PcPlanets.com will notify you by placing prominent notice on the Web site. **** Contact Information  
-Pc Planets welcomes your comments regarding this privacy statement, please contact us by [e-mail](mailto:CustomerService@PcPlanets.com), or postal mail.PcPlanets.com PrivacyLast Updated: Tuesday, December  03, 2002 - 12:10 a.m. Eastern Time  
-**  
-
-
-|  
+For instructions on how to insert free music video codes into your web site please click [here](https://web.archive.org/instructions.shtml)
