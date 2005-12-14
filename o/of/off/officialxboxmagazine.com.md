@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the officialxboxmagazine.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208115103id_/http%3A//www.officialxboxmagazine.com/issues/magazine2002-06-03a.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialxboxmagazine.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214215644id_/http%3A//www.officialxboxmagazine.com/issues/magazine2002-06-03a.htm) for the most accurate reproduction.*
 
 # Privacy Warning
 
 **Statement of Privacy  
-Last Updated on June 3, 2002 
+Last Updated on December 14, 2004 
 
 At Official Xbox Magazine, we are committed to protecting your privacy. But sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations. Please read the complete privacy statement. 
 
@@ -16,6 +16,8 @@ We use your personal information for two primary purposes:
 \--To help us create and deliver content most relevant to you.
 
 \--To alert you to special offers, updated information and other services. 
+
+Future Network USA may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you.
 
 We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration.  We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
@@ -37,6 +39,6 @@ If you have questions regarding this statement, you should contact webmaster@off
 
 We will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, we will notify you by placing prominent notice on the Web site. 
 
-We welcomes your comments regarding this Statement of Privacy, please contact us by e-mail, or postal mail at Official Xbox Magazine, Attention: Webmaster, 150 North Hill Drive, Brisbane, CA 94005.
+We welcomes your comments regarding this Statement of Privacy, please contact us by e-mail, or postal mail at Official Xbox Magazine, Attention: Webmaster, 150 North Hill Drive Suite 40, Brisbane, CA 94005.
 
 **
