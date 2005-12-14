@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flightlevel350.com privacy policy that was archived on 2005-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050531225830id_/http%3A//www.flightlevel350.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightlevel350.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214121251id_/http%3A//www.flightlevel350.com/privacy.php) for the most accurate reproduction.*
 
-# Flightlevel350.com - Aviation Videos - Airplane Videos - Loudest place on the web!
+# Flightlevel350.com: Privacy Policy
 
 How To Contact Us
 
@@ -16,7 +16,7 @@ If you decide to post a message in one of our forums or on the video comments se
 
 **The Way We Use Information:**
 
-We do not share this information with outside parties. When you send us a video, the visitors to the site will be able to contact you using a contact form. However, your email address will not be revealed to them. If you don't want anyone to find out your email simply don't respond to these messages. If you do not wish to receive emails from our visitors let us know using the [contact form](https://web.archive.org/web/20050531225830id_/http%3A//www.flightlevel350.com/contact.php). We will never send you spam or unsolicited emails. 
+We do not share this information with outside parties. When you send us a video, the visitors to the site will be able to contact you using a contact form. However, your email address will not be revealed to them. If you don't want anyone to find out your email simply don't respond to these messages. If you do not wish to receive emails from our visitors let us know using the [contact form](https://web.archive.org/web/20051214121251id_/http%3A//www.flightlevel350.com/contact.php). We will never send you spam or unsolicited emails. 
 
 **Our Commitment To Data Security**
 
@@ -34,4 +34,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, send us an email using the [contact form](https://web.archive.org/web/20050531225830id_/http%3A//www.flightlevel350.com/contact.php). 
+Should you have other questions or concerns about these privacy policies, send us an email using the [contact form](https://web.archive.org/web/20051214121251id_/http%3A//www.flightlevel350.com/contact.php). 
