@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcw.edu privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403101826id_/http%3A//mcw.edu/display/router.asp%3FDocID%3D113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcw.edu privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215002252id_/http%3A//mcw.edu/display/router.asp%3FDocID%3D113) for the most accurate reproduction.*
 
 # Medical College of Wisconsin - Privacy
 
@@ -122,13 +122,12 @@ P.O. Box 26509
 8701 Watertown Plank Road  
 Milwaukee, WI 53226-0509  
 USA **Public Affairs Telephone**  
-(414) 456-4700 **Public Affairs Fax and E-mail**  
-(414) 456-6166  
-[ **webmaster@mcw.edu**](mailto:webmaster@mcw.edu) **Web Site Address**  
-[ **www.mcw.edu**](http://www.mcw.edu/)
+(414) 456-4700 **Public Affairs Fax  **  
+(414) 456-6166
+
+**E-mail:**[ **webmaster@mcw.edu**](mailto:webmaster@mcw.edu) **Web Site Address:**[ **www.mcw.edu**](http://www.mcw.edu/)[Web Site Technical Information](https://web.archive.org/web/20051215002252id_/http%3A//mcw.edu/display/router.asp?docid=9523)
 
 **For more contact information  
-**[ **College Contacts**](https://web.archive.org/web/20050403101826id_/http%3A//mcw.edu/display/router.asp?docid=106)  
+**[ **College Contacts**](https://web.archive.org/web/20051215002252id_/http%3A//mcw.edu/display/router.asp?docid=106)  
   
- **More information about the Medical College of Wisconsin  
-**[ **Facts 2004**](https://web.archive.org/web/20050403101826id_/http%3A//mcw.edu/display/router.asp?docid=399)
+ **[More information about the Medical College of Wisconsin](https://web.archive.org/web/20051215002252id_/http%3A//mcw.edu/display/router.asp?docid=3297)**
