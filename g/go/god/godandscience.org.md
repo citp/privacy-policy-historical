@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404185154id_/http%3A//www.godandscience.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214040541id_/http%3A//www.godandscience.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Evidence for God from Science
 
@@ -16,7 +16,7 @@ We invite you to contact us if you have questions about this policy. You may con
     USA
     
 
-You may contact us by e-mail by [clicking here](https://web.archive.org/web/20050404185154id_/http%3A//www.godandscience.org/contact/contact.php?Rich). 
+You may contact us by e-mail by [clicking here](https://web.archive.org/web/20051214040541id_/http%3A//www.godandscience.org/contact/contact.php?Rich). 
 
 ## Dispute Resolution and Privacy Seals
 
@@ -156,5 +156,5 @@ PRE |  Preference information is collected.
   
 << back
 
-https://web.archive.org/web/20050404185154id_/http%3A//www.godandscience.org/privacy.html   
+https://web.archive.org/web/20051214040541id_/http%3A//www.godandscience.org/privacy.html   
 Last Modified April 8, 2004
