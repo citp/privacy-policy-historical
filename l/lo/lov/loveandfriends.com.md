@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveandfriends.com privacy policy that was archived on 2005-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050503061533id_/http%3A//www.loveandfriends.com/privacystatement.asp%3FUNme%3D%26ID%3D%26CDI%3D%26SCode%3D%26WL%3D%26NoFr%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandfriends.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214225205id_/http%3A//loveandfriends.com/privacystatement.asp%3FUNme%3D%26ID%3D%26CDI%3D%26SCode%3D%26WL%3D%26NoFr%3D) for the most accurate reproduction.*
 
 # Love and Friends : Internet dating for thinking people . . . And it's free
 
