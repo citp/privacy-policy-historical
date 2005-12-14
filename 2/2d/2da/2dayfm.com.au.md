@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the 2dayfm.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615084152id_/http%3A//www.2dayfm.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dayfm.com.au privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214144635id_/http%3A//2dayfm.com.au/footer/privacy_policy) for the most accurate reproduction.*
 
-# "The Kyle and Jackie O Show" on 2DayFM
+# 2DayFM - Privacy Policy
 
   
 This Privacy Policy applies to the collection of Personal Information by or on behalf of Austereo Pty Ltd, Consolidated Broadcasting System (WA) Pty Ltd, Perth FM Radio Pty Ltd and all other members of the Austereo Pty Ltd group of companies (“Austereo”). 
 
 On some occasions we may conduct a promotion or other activity which has its own specific Privacy Policy. In this case, notice of that policy will be provided at the time any Personal Information is sought and that policy will apply to that promotion or activity and will override this policy to the extent of any inconsistency.
 
-INTRODUCTION  
+**INTRODUCTION**  
 Austereo operates a number of broadcast radio stations throughout Australia. Through our varied operations, we gather information for a variety of reasons, for example to enable us to improve the nature of the services we provide and to facilitate the running of various competitions.
 
 We collect personal information from you in various ways, for example, when you enter competitions, advertise with us, supply goods or services to us or send us your comments or other correspondence. For the purposes of this Privacy Policy all parties we deal with are referred to as “Individuals”. The personal information we collect from you may include your contact details, buying habits, opinions, product preferences, transactional details or other information which may lead you to be identified (herein referred to as “PI”).
@@ -16,13 +16,13 @@ We are committed to the protection of PI in a manner which is fair and unobtrusi
 
 This policy may be reviewed from time to time so it is best to read it at any time you are proposing to supply us with PI. By using our website or providing PI, you agree to be bound by the terms of this Privacy Policy and consent to any use of PI that is in accordance with this policy. Any proposed use of PI that is not covered by this policy will be disclosed at or prior to the time of collection and where practicable, your consent will be obtained.
 
-ANONYMITY  
+**ANONYMITY**  
 In accordance with the NPPs, you may deal with us on an anonymous basis where practical. However, as a provider of a wide range of services, we find that it is often necessary to collect PI from you during the course of transactions, for example, to facilitate the running of a competition.
 
-CONSENT  
+**CONSENT**  
 Wherever practical, we will obtain your express consent when collecting PI. In some situations, we will interpret your actions as indicating your consent to the collection of PI. For example, this may occur when you have provided PI for a particular purpose and that purpose cannot be achieved without using your PI.
 
-WHY WE COLLECT PERSONAL INFORMATION  
+**WHY WE COLLECT PERSONAL INFORMATION**  
 We collect PI for a number of reasons, including:
 
 • to provide you with our products or services;   
@@ -37,17 +37,17 @@ We collect PI for a number of reasons, including:
 
 If our relationship with you is not solely one of broadcaster-listener, we may use your information in other ways, for example, to assess goods or services that you supply or to pay your account.
 
-COMPETITIONS  
+**COMPETITIONS**  
 If you provide us with PI as part of an entry into a competition then we will use that information to contact you in connection with the competition and in accordance with this Privacy Policy. 
 
 Depending on the nature of the competition or offer, we will ask for your personal details such as your name, address, email address, age, telephone number/s and/or gender. Sometimes in relation to a particular competition we may also seek additional information.
 
 PI collected during competitions will be governed by the terms set out in this Privacy Policy unless otherwise stated in the conditions of entry for the competition, or an alternate Privacy Policy applies.
 
-CONSEQUENCES OF NOT PROVIDING ALL REQUIRED INFORMATION  
+**CONSEQUENCES OF NOT PROVIDING ALL REQUIRED INFORMATION**  
 We may not be able to provide a complete service to you if PI is not provided upon request. For example, providing incomplete information could render a competition entry invalid.
 
-HOW WE COLLECT PERSONAL INFORMATION  
+**HOW WE COLLECT PERSONAL INFORMATION**  
 We primarily collect PI directly from you through written and/or verbal means of communication. However, PI may be collected in a variety of ways, including:
 
 • competition entry forms;  
@@ -72,7 +72,7 @@ We may also obtain details about you or your business from sources that are publ
 
 We may also collect anonymous information through the use of cookies on our website. Cookies are pieces of information that are stored on your computer’s hard disk. Most web-browsers are set to accept cookies but you can set your web-browser to refuse cookies. Cookies themselves do not identify users personally but they do allow the tracking of an Individual’s use of a website. Cookies have become commonplace.
 
-THE TYPE OF INFORMATION WE HOLD ABOUT YOU  
+**THE TYPE OF INFORMATION WE HOLD ABOUT YOU**  
 We only hold information about you that is relevant to our relationship with you. Generally, the PI we hold will include (where relevant) your name, contact details, membership/card/account number/s, records of correspondence, subscription and payment details, type of business and billing statements.
 
 If our relationship with you is not solely one of broadcaster-listener, we may collect other information that we consider necessary in the circumstances, such as the nature of the products or services that you supply, quotes that you provide, your credit details and, if you are a non-profit organisation that we have agreed to assist, how you make use of the products or services that we provide you. 
@@ -85,10 +85,10 @@ Sensitive information includes information about your race or ethnic origins, po
 • the collection is necessary to lessen a serious or imminent threat to the health or safety or any person; or  
 • the collection of the information is necessary for the establishment, exercise or defence of a legal claim.
 
-HOW WE HOLD YOUR PERSONAL INFORMATION  
+**HOW WE HOLD YOUR PERSONAL INFORMATION**  
 Depending on the circumstances, we may hold PI in hardcopy or electronic form, or both. Generally, we keep hardcopies of all correspondence that we enter into and maintain details about Individuals that we interact with in our electronic database/s. 
 
-HOW WE SECURE YOUR PERSONAL INFORMATION  
+**HOW WE SECURE YOUR PERSONAL INFORMATION**  
 We hold all hardcopy and electronic records of PI in a secure manner to ensure that it is protected from loss, misuse, unauthorised access, modification or disclosure. PI held in hardcopy form is, wherever practical, kept under lock and key. Pl held in electronic form is, wherever practical, password protected and/or encrypted.
 
 Our staff follows strict information handling procedures and only those whose tasks require use of your information are able to access it.
@@ -96,7 +96,7 @@ Our staff follows strict information handling procedures and only those whose ta
 We regularly de-identify and/or destroy PI in a secure manner, for example by using shredding machines and/or secure disposal units, once it is no longer needed or required to be kept by law.   
 Where possible and practical, we endeavour to comply with recognised Australian and international standards relating to information security.
 
-USE AND DISCLOSURE OF PERSONAL INFORMATION  
+**USE AND DISCLOSURE OF PERSONAL INFORMATION**  
 We will only disclose your PI in certain, limited circumstances.
 
 In general, only our officers, employees or contractors who require the information in order to perform their functions may access PI. 
@@ -129,13 +129,13 @@ The demographic make-up of our database is researched on an aggregated basis to 
 
 We will not sell your name or contact details to a third party without your permission, but we may provide advertisers with general information concerning, for example, the demographic make-up of our listener base and/or traffic to our website. This information does not enable you to be identified as it is aggregated.
 
-OTHER SITES  
+**OTHER SITES**  
 Please note that our website contains links to other websites which are not administered by us. If you click on a link to another website and subsequently leave our website, our Privacy Policy will no longer apply, and we suggest that you refer to the privacy policy relating to the other website. 
 
-ADVERTISEMENTS  
+**ADVERTISEMENTS**  
 Advertisers or sponsors on our websites may collect information when you view or click on their advertisements. We do not have any control over this data collection.
 
-YOUR RIGHT OF ACCESS  
+**YOUR RIGHT OF ACCESS**  
 You may request access to your PI at any time by written request to Austereo’s Privacy Officer by mail at GPO Box 107.1 Adelaide South Australia 5000, or by email to privacy@austereo.com.au.
 
 We may impose a reasonable charge for providing access to Personal Information in accordance with the Act.
@@ -154,20 +154,20 @@ Access to PI may be withheld in several circumstances, including where:
 • providing access could prejudice the investigation, detection or prosecution by Austereo or by a government body of possible unlawful activity or serious or improper misconduct, or is likely to cause damage to the security of Australia.  
 Where we are unable to provide you with access to PI, we will provide written reasons and may instead, at our discretion, choose to give you a summary of that information. We may also consider, at our discretion, whether the provision of access to an independent third party will meet both of our requirements. 
 
-YOU MAY CORRECT YOUR PERSONAL INFORMATION  
-We regularly monitor the quality and accuracy of PI that we maintain and, where practicable, update that information. In addition, you may request that your PI be updated at any time. 
+**YOU MAY CORRECT YOUR PERSONAL INFORMATION  
+** We regularly monitor the quality and accuracy of PI that we maintain and, where practicable, update that information. In addition, you may request that your PI be updated at any time. 
 
 If your PI is out-of-date or otherwise incorrect, please contact Austereo’s Privacy Officer with your written advice regarding the inaccuracy of the information and we will endeavour to correct it for you wherever possible. 
 
 In the unlikely event that we disagree about the accuracy of the information such that we are unable to change it, you may provide us with a statement that you dispute its accuracy and we will associate the statement with your information in such a manner that it will be brought to the attention of each person who uses that information. 
 
-YOUR RIGHT TO LODGE A COMPLAINT  
+**YOUR RIGHT TO LODGE A COMPLAINT**  
 If you are not satisfied with the manner in which we have handled your PI, you may lodge a complaint in writing with Austereo’s Privacy Officer. We will inform you as to who will handle your complaint.
 
-PROMOTIONAL INFORMATION  
+**PROMOTIONAL INFORMATION**  
 We would like to send you promotional information about goods and services that we believe may be of interest to you. However, we understand that you may not wish to receive such material. You will have an opportunity to “opt in” and/or “opt out” (as applicable) in connection with promotions except in some cases where you would be notified that opting in was a condition of participation. If this is the case, please inform our Privacy Officer and we will promptly remove your name from our mailing list. 
 
-DIRECT MARKETING  
+**DIRECT MARKETING**  
 PI collected for direct marketing purposes will only be collected, used or disclosed with your consent as provided for in this Privacy Policy. 
 
 In circumstances where we cannot practicably obtain your consent, we may still engage in direct marketing to you, but will:
@@ -178,13 +178,13 @@ In circumstances where we cannot practicably obtain your consent, we may still e
 
 You may be removed from any Austereo mailing list at any time. Simply send a written request to Austereo’s Privacy Officer.
 
-WE MAY NEED TO CHANGE OUR PRIVACY POLICY FROM TIME TO TIME  
+**WE MAY NEED TO CHANGE OUR PRIVACY POLICY FROM TIME TO TIME**  
 Due to changing business circumstances and legal requirements, we may need to amend this Privacy Policy from time to time. If so, we will publish the revised policy on our website/s. Any action that was undertaken prior to the policy change will continue to be regulated by the policy as it existed at the time the action was taken. 
 
-FURTHER INFORMATION  
+**FURTHER INFORMATION**  
 Further information about privacy may be obtained from the Office of the Federal Privacy Commissioner of Australia at: http://www.privacy.gov.au.
 
-CONTACT US  
+**CONTACT US**  
 If you have any queries about this Privacy Policy, please contact Austereo’s Privacy Officer by mail at GPO Box 107.1 Adelaide South Australia 5000 or by email to privacy@austereo.com.au.
 
 Contact details for of our radio stations can be found below.
@@ -241,5 +241,4 @@ Ph: 08 9382 0929
 Perth FM Radio Pty Ltd (ABN 22 077 569 110) trading as MIX94.5  
 PO Box 945  
 Subiaco WA 6904  
-Ph: 08 9382 0945  
-
+Ph: 08 9382 0945
