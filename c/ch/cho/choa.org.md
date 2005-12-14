@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the choa.org privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310071537id_/http%3A//www.choa.org/default.aspx%3Fid%3D1564) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choa.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214235816id_/http%3A//www.choa.org/default.aspx%3Fid%3D1564) for the most accurate reproduction.*
 
-# Children's Healthcare of Atlanta: - Privacy
+# Privacy - Children's Healthcare of Atlanta
 
  
 
@@ -50,14 +50,14 @@ Cookies, or small text files recorded in a user’s hard drive, are employed by 
 
 ## Our Commitment To Children’s Privacy 
 
-Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our Web site from those we know are under age 13, and no part of our Web site is structured to attract anyone under 13\. 
+Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our Web site from those we know are under age 13, and no part of our Web site is structured to attract anyone under 13. 
 
 ## How You Can Access Or Correct Your Information 
 
-You can access all personal information that we collect online and maintain by contacting Children’s at [info@choa.org](mailto:info@choa.org) and requesting this information. We use this procedure to better safeguard your information. You can correct errors in your personal information online or by sending us a request that shows the error(s). To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+You can access all personal information that we collect online and maintain by contacting Children’s at [choawebmaster@choa.org](mailto:choawebmaster@choa.org) and requesting this information. We use this procedure to better safeguard your information. You can correct errors in your personal information online or by sending us a request that shows the error(s). To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies send us an email at [info@choa.org.](mailto:info@choa.org)
+Should you have other questions or concerns about these privacy policies send us an email at [choawebmaster@choa.org](mailto:choawebmaster@choa.org).
 
  
