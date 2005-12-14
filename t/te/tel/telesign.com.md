@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telesign.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306052910id_/http%3A//www.telesign.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telesign.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214234505id_/http%3A//www.telesign.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # TeleSign - Privacy Policy
 
@@ -19,5 +19,5 @@ TeleSign collects this information in order to record and support your participa
 Protecting Your Privacy  
 We will take appropriate steps to protect your privacy. We will also take reasonable security measures to protect your personal information in storage. For example, access to personally identifiable information is limited to individuals needing such access to perform their job function.  
 Your Feedback  
-If you wish to remove your personal information from our marketing files, modify your personal information or comment on our privacy policy, please send an email to [info@telesign.com](mailto:info@telesign.com) with the following subject line:  
+If you wish to remove your personal information from our marketing files, modify your personal information or comment on our privacy policy, please send an email to [info@telesign.com](mailto:info@telesign.com).  
 TeleSign welcomes comments and questions on this policy. We are dedicated to protecting your personal information and will make every reasonable effort to keep that information secure. Due to the rapidly evolving technologies on the Internet, we may occasionally update this policy. All revisions will be posted to this site.
