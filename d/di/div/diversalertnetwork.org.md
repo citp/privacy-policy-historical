@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403195818id_/http%3A//www.diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214062601id_/http%3A//www.diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
 
 # DAN Divers Alert Network : Privacy Policy
 
@@ -11,7 +11,7 @@ DAN is committed to protecting your privacy and uses your personal information o
 
 What information do we collect? How do we use it? 
 
-  * When you order a product or sign up for a membership, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your orders and to notify you of your order status. 
+  * When you order a product or sign up for membership, we need to know your name, e-mail address, mailing address, and payment information. This allows us to process and fulfill your orders and to notify you of your order status. 
   * When you enter a contest or other promotional feature, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. 
   * We also monitor traffic patterns and site usage to help us improve our site and identify problems. 
   * We may also use the information we collect to occasionally notify you about important functionality changes to our website, new DAN services, and announcements we think you will find valuable. 
@@ -57,8 +57,8 @@ Other than DAN, what companies provide DAN membership benefits?
 
 **Tell Us What You Think**
 
-  * DAN welcomes your questions and comments about privacy. Please send e-mail to [webmaster@diversalertnetwork.org](mailto:webmaster@diversalertnetwork.org). 
+  * DAN welcomes your questions and comments about privacy. To send feedback, [click here](https://web.archive.org/contact/email.asp?RE=Website). 
 
 
 
-[](mailto:?subject=Interesting%20Page%20on%20DAN%20Site&body=http%3A%2F%2Fwww%2EDiversAlertNetwork%2Eorg%2Fprivacy%2Easp%3F%26ASIMPR%3D23%26ASTAGS%3DAd%2ESize%2EBanner%2Bhome)
+[](mailto:?subject=Interesting%20Page%20on%20DAN%20Site&body=http%3A%2F%2Fwww%2EDiversAlertNetwork%2Eorg%2Fprivacy%2Easp%3F%26ASIMPR%3D24%26ASTAGS%3DAd%2ESize%2EBanner%2Bhome)
