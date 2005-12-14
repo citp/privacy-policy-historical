@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umd.edu privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308110755id_/http%3A//www.nethics.umd.edu/dive-in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umd.edu privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215002735id_/http%3A//www.nethics.umd.edu/dive-in/privacy.html) for the most accurate reproduction.*
 
 # Project Nethics - OIT
 
@@ -6,7 +6,7 @@
 
 | 
 
-This statement pertains exclusively to the collection of personal information on official university web sites. Official university web sites  use the domain names "umd.edu" and "maryland.edu" and are controlled, operated, and maintained by university personnel in connection with university business. All uses of university computing resources, however, are subject to the _Guidelines for the Acceptable Use of University Computing Resources_ available at [http://www.nethics.umd.edu/aug](https://web.archive.org/web/20050308110755id_/http%3A//www.nethics.umd.edu/aug/index.html).   
+This statement pertains exclusively to the collection of personal information on official university web sites. Official university web sites  use the domain names "umd.edu" and "maryland.edu" and are controlled, operated, and maintained by university personnel in connection with university business. All uses of university computing resources, however, are subject to the _Guidelines for the Acceptable Use of University Computing Resources_ available at [http://www.nethics.umd.edu/aug](https://web.archive.org/web/20051215002735id_/http%3A//www.nethics.umd.edu/aug/index.html).   
 
 
 ## Collection of Personal Information 
@@ -57,6 +57,6 @@ Room 4411 Computer & Space Sciences Building
 College Park, Maryland 20742   
 Telephone: 301.405.8787   
 Fax: 301.405.0720   
-Email: [NEThics@umail.umd.edu ](mailto:NEThics@umail.umd.edu)
+Email: [NEThics@umd.edu ](mailto:NEThics@umail.umd.edu)
 
 |  
