@@ -1,49 +1,187 @@
-> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402015105id_/http%3A//www.selectcomfort.com/customercenter/privacy.cfm%3Fcmref%3Dfooternav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214045051id_/http%3A//www.selectcomfort.com/customercenter/privacy.cfm%3Fcmref%3Dfooternav) for the most accurate reproduction.*
 
 # Select Comfort -->Privacy & Security
 
-At Select Comfort, we recognize and respect our customers' privacy. The data we collect about our customers is used solely to better meet our customer's needs through more efficient order fulfillment and improved marketing efforts. On occasion we may share customer information with other reputable organizations whose products and services may be of interest to our customers. We do not share customer billing information. We adhere to all state and federal regulations regarding personal data distribution.
+**OUR PRIVACY COMMITMENT TO OUR CUSTOMERS**  
+Select Comfort Corporation 
 
-Select Comfort may share non-personal aggregate or summary information regarding its customers, sales, Web site traffic patterns, and related Web site information with partners or third-party vendors.
+At Select Comfort, we recognize and respect our customers' privacy. 
 
-If we decide to change our Privacy and Security Policy, we will update this Policy so you are aware of what information we collect, how we use it, and under what circumstances we disclose it.
+We value the relationship we have with our customers and are committed to respecting the confidentiality of your personal information. 
 
-This site contains links to other sites. Select Comfort is not responsible for the privacy practices or the content of these other sites. 
+We do not sell or rent personal information to third parties. 
 
-**_Why do we ask for an e-mail address?_**  
-Your e-mail address is collected at the time of purchase so we can easily and quickly communicate with you regarding the status of your order. Additionally, you will receive our e-mail newsletter. If you do not wish to receive our complimentary newsletter, every issue gives you the opportunity to be removed from our e-mail list. E-mail newsletters update you on special offers, new products, "Comfort Club," changes to the Web site and newsletter only specials. If you're not already registered, simply complete our [sign-up form](https://web.archive.org/customercenter/contactus/requestform.cfm) to receive these special messages. If at any time you would like to unsubscribe from Select Comfort's e-mail, please follow the removal instructions located at the bottom of each message. Asking to be removed from Select Comfort e-mail will not prevent you from receiving e-mail confirmations for any order you place at selectcomfort.com. Select Comfort uses a third party to send e-mail on our behalf. If you would like to know more about our e-mail vendor and its privacy policies, please [click here](http://postfuture.com/pfweb/privacy.asp). 
+**SELECT COMFORT PRIVACY POLICY**  
+The following privacy policy describes the information and privacy practices for Select Comfort® retail stores, web site and all other locations, occasions or events where your personal information is collected by or on behalf of Select Comfort. When providing your personal information to Select Comfort, you consent to the information practices described in this policy. Our web site contains links to other sites that are operated by third parties. This privacy policy does not apply to privacy practices or the content of these other sites. Please read the privacy policies of the other sites to learn how third parties collect, use, share and secure your personal information. 
 
-**_Do we use cookies and what are they?_**  
-Select Comfort uses a feature of your Internet Web browser called a "cookie" to assign a unique identification to your computer. Cookies are files that your Web browser places on your computer's hard drive. Select Comfort creates and uses these cookie files to track clicks as you go through the Select Comfort Web site. This form of tracking is used to continuously improve our Web site to better meet our customers needs and make for a better site experience.
+The following privacy policy will cover: 
 
-Select Comfort does not and cannot use cookies to retrieve personal information from your computer unless you knowingly and willingly provide such information. Select Comfort will not use cookies to store personal information, such as credit card numbers, nor can any Web site other than ours read the information we store in the cookie. 
+  * When is information collected?
+  * What information is collected?
+  * How is this information used?
+  * Is this information shared with partners or third parties?
+  * What are my choices regarding the use of my information?
+  * How secure is my personal information?
+  * Does Select Comfort collect information from children?
+  * Will this Privacy Policy change?
+  * How can I sign up for e-mail updates from Select Comfort?
+  * Does Select Comfort use cookies or pixel tags and what are they?
+  * Contact Select Comfort
+  * Privacy Policy Updates
 
-In some instances, we use third party companies to help us provide our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these companies are given access to some or all of the information you provide to us, and some may use cookies on our behalf. These companies are contractually-restricted from using your information in any manner other than in helping us to provide you with the products and services available from Select Comfort. For more information about these companies, click here. 
 
-**SITE SECURITY**  
-We understand that you may be concerned about providing your personal information and credit card information online. Please be assured that we have taken precautions to ensure your shopping experience is safe and secure. When you place an online order it is transmitted via industry standard secure protocol commonly referred to as SSL (secure socket layer). The SSL technology that works with Netscape Navigator, Microsoft Internet Explorer, and America Online encrypts (scrambles) the information you input when placing an order, to protect against unauthorized access when the data is transmitted over the Internet. Furthermore, all of the customer data we collect is protected against unauthorized access.
 
-**_Contact Us Any Time_**  
-If you feel more comfortable ordering over the phone or would like to modify your order or request a change to your contact information, you may call us anytime at **  1-800-548-7231 **. If you have questions regarding the Select Comfort Privacy and Security Policy please [e-mail](https://web.archive.org/customerCenter/contactus/contactusForm.cfm?department=webSiteComments) or contact us at: 
+* * *
 
-**Select Comfort Corporation  
+  
+**When is information collected?**  
+We receive and may store data when you are: 
+
+  * Placing an order 
+  * Scheduling delivery 
+  * Registering with Select Comfort 
+  * Participating in a sweepstakes, promotion or survey 
+  * Applying for financing 
+  * Visiting a Select Comfort® store or website. See our Cookies policy for further information 
+  * Completing a warranty card 
+  * Sending an e-mail 
+  * Calling Select Comfort with questions or concerns 
+  * Participating in other activities with Select Comfort
+
+When submitting personal information online, we will identify which fields are required in order to fulfill your request. 
+
+**What information is collected?**  
+We may collect personal information such as your: 
+
+  * Name 
+  * Mailing address 
+  * Shipping address 
+  * E-mail address 
+  * Phone number 
+  * Credit card information 
+  * Name and address of the individual you have your purchase shipped to, if other than yourself 
+  * Information you provide to us on a financing application 
+  * Information you provide to Select Comfort to allow your participation in a partner's loyalty program 
+  * Personal preference information you provide to us 
+  * Information obtained from cookies. See Cookies policy for further information
+
+This information may include any personal preference information you provide as well as any information that you submit about other people. Information that is provided for other people is only used for the specific reason it was provided, for example, for our referral program. 
+
+**How is this information used?**  
+Any information about our customers is used solely to better serve our customers and may be shared only with our vendors and partner companies. We use the information you provide in order to: 
+
+  * Fulfill requests for products, services or information 
+  * Facilitate promotions (loyalty programs, referral programs, sweepstakes, surveys and other promotions) 
+  * Provide effective customer service 
+  * Develop new and improved products and services 
+  * Conduct research and analysis 
+  * Send marketing communications 
+  * Perform other business activities 
+  * Process financing 
+  * Allow you, upon your request, to participate in partner's loyalty programs
+
+**Is this information shared with partners or third parties?**  
+Select Comfort shares information with carefully selected vendors and business partners such as agents, trusted service providers, contractors and representatives acting on our behalf for limited purposes. 
+
+Most common services performed by vendors and business partners on behalf of Select Comfort include: 
+
+  * Sending Select Comfort marketing communications 
+  * Delivering packages 
+  * Assisting in managing customer information 
+  * Fulfilling information requests 
+  * Fulfilling promotions 
+  * Conducting research, analysis or administering surveys 
+  * Processing financing applications 
+  * Allowing you, upon your request, to participate in a partner's loyalty program
+
+These vendors and business partners are only authorized to use your information to perform the service for which they were hired. As part of our agreement, they are required to follow Select Comfort's privacy policy and to take reasonable measures to ensure your personal information is secure. 
+
+From time to time, we may be required to share personal information in response to a valid court order, subpoena, government investigation or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may share certain personal information when we believe that such release is reasonably necessary to protect the rights, property and safety of others and ourselves. We may also transfer personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event. 
+
+Select Comfort may share personal aggregate or summary information regarding its customers, sales, traffic patterns and related information with vendors or business partners to help improve the marketing efforts of Select Comfort. 
+
+We may share non-personal, aggregated demographic and general trend information with any third party. 
+
+On a regular basis, Select Comfort may send some or all of the information to Coremetrics, a company that assists in analyzing the information for Select Comfort. This service allows us to better meet our customers' product and/or service needs. If you would like more information from Coremetrics about these services, including how to opt out, please [go here](http://www.coremetrics.com/privacy/privacy.html). 
+
+**What are my choices regarding the use of my information?**  
+Once your information is received, we may send you marketing communications that contain valuable offers, promotions, product updates and other messages. You always have the option to opt-in or opt-out of receiving future marketing communications from Select Comfort. 
+
+To opt-out or discontinue receiving marketing communications by mail, e-mail or phone from Select Comfort, contact Select Comfort using one of the following options: 
+
+  1. Follow the instructions on a marketing e-mail from us. All marketing e-mails from Select Comfort will tell you how to stop receiving them. 
+  2. Call 1-888-580-9237 
+  3. Send an e-mail to: unsubscribe@selectcomfort.com 
+  4. Send a request to:   
+Select Comfort Corporation  
+Attn: DM Sales Support  
+6105 Trenton Lane North  
+Minneapolis, MN 55442
+
+Be sure to include your current contact information, including your full name, address, phone number and e-mail address. Indicate specifically what type of marketing communication(s) you wish to stop receiving. This will ensure we identify you correctly in our systems and accurately process your request. 
+
+Select Comfort will take the appropriate steps to implement your request. Please note that due to production, mailing and system timelines, in order to remove you from our marketing lists, it may take up to: 
+
+  * 10 business days for e-mail 
+  * 30 days for phone calls 
+  * 10 weeks for direct mail
+
+Until the change takes effect, you may continue to receive marketing communications from us. 
+
+Also, please note that even though you have opted out of receiving marketing communications, you may still receive business-related communications such as order confirmations, product recall information, loyalty program membership status/updates or other organization-related communications. 
+
+**How secure is my personal information?**  
+Whether you are shopping in our stores or online, please be assured that we have appropriate physical, electronic and procedural security safeguards in place and take reasonable precautions to protect against the loss, misuse and unauthorized access of your personal information under our control. 
+
+**Does Select Comfort collect information from children?**  
+Select Comfort will not knowingly or intentionally collect personal information online from children under the age of 13. We are committed to protecting the privacy of children. 
+
+**Will this Privacy Policy change?**  
+By using our Web site, you consent to our use of information that is collected or submitted as described in this privacy policy. We may change or add to this privacy policy so we encourage you to review it periodically. To help you track changes, we will include a history of material changes at the end of this privacy policy. 
+
+**How secure is my online purchase from www.selectcomfort.com?**  
+When you place an online order it is transmitted via industry standard secure protocol commonly referred to as SSL (secure socket layer). The SSL technology that works with Netscape Navigator, Microsoft Internet Explorer, America Online and other browsers, encrypts (scrambles) the information you input when placing an order to protect against unauthorized access when the data is transmitted over the Internet. 
+
+SelectComfort.com does store credit card information for the limited purpose of insuring proper credit if a product is returned. Access to that information is strictly controlled. 
+
+**How can I sign up for e-mail updates from Select Comfort?**  
+You will automatically receive e-mail updates from us if we receive your e-mail address. If you aren't already receiving those updates from us and would like to, [click here](https://web.archive.org/customerCenter/contactus/contactusForm.cfm?department=emailupdates). 
+
+E-mail updates from Select Comfort are sent a minimum of once a month to inform you of valuable offers, promotions, product updates and company announcements. 
+
+To learn how to opt-out or discontinue receiving e-mail updates from Select Comfort, go here. 
+
+**Does Select Comfort use cookies or pixel tags and what are they?**  
+Select Comfort uses a feature of your Internet Web browser called a "cookie" to assign a unique identification to your computer. Cookies are small data files that a Web site or e-mail may send to your browser, which may be stored on your hard drive. 
+
+Select Comfort does not use cookies to retrieve personal information from your computer unless you knowingly and willingly provide such information. Select Comfort will not use cookies to store personal information, such as credit card numbers, nor can any other Web site read the information we store in the cookie. 
+
+On the Internet, our vendors gather data and information concerning movement through our web sites for the purpose of enhancing your experience on our site. Cookies may be used for this purpose. 
+
+We also use pixel tags, which are tiny graphic images, to tell us what parts of our Web site you have visited or to measure the effectiveness of any searches you may do on our site. Pixel tags also let us know when you have opened an e-mail message from us. 
+
+Select Comfort also partners with companies which perform analysis for us. These companies aggregate navigational information about where visitors go on our site. This information helps us improve the quality of our visitors' shopping experience. It also allows Select Comfort to determine which offers, features and products visitors prefer. 
+
+Select Comfort partners with one or more companies that facilitate relationships we have with other companies (our affiliates) that promote Select Comfort on their web sites. These facilitator companies, along with our affiliate partners, utilize cookies to gather information concerning customer referrals from affiliate Web sites to www.selectcomfort.com. This information is used to help us fulfill our contractual obligations to the third party affiliates. Use of these cookies is not linked to personally identifiable information. 
+
+You may choose to set your Web browser to not accept cookies. If your cookies are disabled, you can still view our site, but you will not be able to create an account or make purchases. 
+
+**CONTACT SELECT COMFORT**  
+If you feel more comfortable ordering over the phone or would like to modify your order or request a change to your contact information, you may call us anytime at 1-800-548-7231. 
+
+If you have questions regarding the Select Comfort Privacy Policy please [e-mail](https://web.archive.org/customerCenter/contactus/contactusForm.cfm?department=webSiteComments) or contact us at: 
+
+Select Comfort Corporation  
 6105 Trenton Lane N  
-Minneapolis, MN 55442  
-**
+Minneapolis, MN 55442 
 
-We use third parties to help us in providing you with our products and services. We may share your personal information with our agents, representatives and trusted service providers and contractors for limited purposes. For example, when you place an order, in order to fulfill it, we may use the United States Postal Service, the United Parcel Service or Federal Express to deliver your merchandise. We also use an e-mail service provider to send you communications from Select Comfort about our products and services. These third parties are contractually restricted from using your information for any purpose other than helping us to provide you with our products and services. 
+Our site does contain links to other sites. Select Comfort is not responsible for the privacy practices or the content of such websites. 
 
-**_How do third parties use information collected on behalf of Select Comfort?_**  
-When you are in contact with Select Comfort and are asked for personal information, you are sharing that information with us or one of our third party vendors. 
+**PRIVACY POLICY UPDATES**  
+Any changes to this privacy policy will be posted on the Select Comfort web site. Your continued use of this site following changes to the privacy policy constitutes acceptance of those changes going forward. 
 
-On the Internet, our third party vendors gather data and information concerning movement through our web sites for the purpose of bettering your experience on our sites. Some of these third party vendors use cookies. 
+Last Update:   
+July 31, 2005 - Updated policy to provide additional specificity regarding the collection, storage and use of information. 
 
-Select Comfort contracts with a third party analysis company. This company aggregates navigational information about where visitors go on our site. This information helps us improve the quality of our visitors shopping experience. It also allows us to offer features and products that visitors prefer. If you would like to know more about the privacy policies of this analysis company, please [Click here](http://www.coremetrics.com/privacy/privacy.html). 
-
-Select Comfort contracts with one or more companies that facilitate relationships we have with other companies (our third party affiliates) that promote Select Comfort on their web sites. These facilitator companies, along with our third party affiliates, utilize cookies to gather information concerning customer referrals from the third-party-affiliated Web sites to the selectcomfort.com site. This information is used to help us fulfill our contractual obligations to the third party affiliates. Use of these cookies is not linked to personally identifiable information. 
-
-If you are visiting Select Comfort through AOL Shopping, information about your visit through the pages within AOL and your purchasing experience on our site will be accessed by AOL Shopping. If you would like to review the AOL privacy policy, please [click here](http://www.aol.com/info/privacy.html). 
-
-We may participate with certain companies that offer you the ability to establish a membership that would enable you to participate in digital wallets, payment services or rewards programs. In this regard, if you elect to establish membership in a program sponsored by one of these companies, we would disclose only the information to them required to make their programs work and support your membership with them (typically, name of the user and amount of purchases made on selectcomfort.com). Select Comfort is not responsible for the privacy practices of the companies sponsoring these membership programs and we suggest you review the privacy policy of each company with which you may be considering a membership. 
-
-_Effective Date: 6/29/2004_
+Previous Updates:  
+April 2005 - Removal of Avenue A. 
