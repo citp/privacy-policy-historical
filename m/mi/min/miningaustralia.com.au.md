@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the miningaustralia.com.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208212830id_/http%3A//miningaustralia.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miningaustralia.com.au privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214113922id_/http%3A//www.ferret.com.au/privacypolicy.asp) for the most accurate reproduction.*
 
-# Mining Australia : Privacy Policy
+# ferret.com.au : Privacy Policy
 
-Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which takes effect in December 2001.
+Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which took effect in December 2001.
 
 This privacy policy covers all personal information that we hold.
 
@@ -20,10 +20,10 @@ Disclosing information
 
 We will only disclose personal information in accordance with the Act. This means that it will be disclosed if:
 
-  * we told you when collecting it that it would be disclosed for that purpose or for a related purpose that you would reasonably expect;
-  * we have your consent;
-  * it is part of business assets which we are selling;
-  * we are required by law to disclose it; or
+  * we told you when collecting it that it would be disclosed for that purpose or for a related purpose that you would reasonably expect; 
+  * we have your consent; 
+  * it is part of business assets which we are selling; 
+  * we are required by law to disclose it; or 
   * it is otherwise permitted under the Act
 
 
@@ -62,5 +62,3 @@ AUSTRALIA
 
 Phone 02 9422 2002   
 Fax 02 9422 2682
-
-Email: [mary-alice.bannister@reed-elsevier.com.au](mailto:mary-alice.bannister@reed-elsevier.com.au)
