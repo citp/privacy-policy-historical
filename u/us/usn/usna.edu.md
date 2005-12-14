@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usna.edu privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203175824id_/http%3A//www.usna.edu/warning.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usna.edu privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214141316id_/http%3A//www.usna.edu/warning.htm) for the most accurate reproduction.*
 
 # US Naval Academy - Privacy Policy
 
@@ -10,7 +10,7 @@ Unauthorized attempts to upload information or change information on this Web si
 
 For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
-Except for authorized law enforcement investigation and to maintain required correspondence files, no other attempts are made to identify individual users or their usage habits. [Raw data logs](https://web.archive.org/web/20050203175824id_/http%3A//www.usna.edu/logfiles.htm) are used to simply determine how many users are accessing the site, which pages are the most popular, and, from time to time, from which top level domain users are coming. This data is scheduled for regular destruction in accordance with National Archives and Records Administration guidelines. 
+Except for authorized law enforcement investigation and to maintain required correspondence files, no other attempts are made to identify individual users or their usage habits. [Raw data logs](https://web.archive.org/web/20051214141316id_/http%3A//www.usna.edu/logfiles.htm) are used to simply determine how many users are accessing the site, which pages are the most popular, and, from time to time, from which top level domain users are coming. This data is scheduled for regular destruction in accordance with National Archives and Records Administration guidelines. 
 
 Any information submitted by email or electronic forms will be used exclusively for the expressed purposes stated and will not be used for any other function. Use of information submitted via the Naval Academy web site is subject to the provisions of the Privacy Act of 1974.   
  
