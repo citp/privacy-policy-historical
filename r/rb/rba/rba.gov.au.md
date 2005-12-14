@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615002821id_/http%3A//www.rba.gov.au/PrivacyStatement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214115758id_/http%3A//www.rba.gov.au/PrivacyStatement/index.html) for the most accurate reproduction.*
 
 # RBA: Privacy Statement
 
@@ -15,7 +15,7 @@ The Reserve Bank of Australia (RBA) is committed to respecting the privacy of vi
 
 ### Collection of Information
 
-_Logged Information_
+#### Logged Information
 
 When you connect to our website, our Internet service provider (ISP) logs the following information, provided by your browser, for statistical purposes:
 
@@ -35,11 +35,11 @@ In addition, our server logs the following information:
 
 Information from ISP logs will only be disclosed if the RBA is required by law to do so.
 
-_E-mail Addresses_
+#### E-mail Addresses
 
-We will record your e-mail address if:
+We will record your e-mail address if you:
 
-  * you send us an e-mail message;
+  * send us an e-mail message;
   * purchase a publication via our online Publication Form;
   * apply for registration as a public user of the Bank's archives;
   * apply for a job; 
@@ -48,15 +48,15 @@ We will record your e-mail address if:
 
 
 
-Your e-mail address will only be used for the purpose for which you provide it, and will not be added to a mailing list or provided to a third party unless you request that this be done. We will not disclose your e-mail address or personal information without your consent.
+Your e-mail address will only be used for the purpose for which you provide it, and will not be added to a mailing list or provided to a third party unless you request that this be done. We will not disclose your e-mail address or personal information without your consent. __
 
-_E-mail Service (Subscriptions)_
+#### E-mail Service (Subscriptions)
 
 Some pages of this website provide the facility for visitors to join our free e-mail notification service. To join, visitors must provide a valid e-mail address.
 
 Personal details provided for the purpose of our e-mail service are stored on a separate server owned and managed by our e-mail list management service provider L-Soft international, Inc. Your e-mail details can only be accessed by authorised L-Soft and authorised RBA staff.
 
-_Job Applications_
+#### Job Applications
 
 If you apply for a job at the RBA, you will be asked to supply your personal information. Your personal information will be used only for the purpose for which you provided it.
 
@@ -72,17 +72,17 @@ RBA staff will use the information you have provided to:
 
 All personal information, which you provide, associated with job applications including any supporting documents, will be stored securely. Only authorised RBA staff will have access to it. Unsuccessful applications may be destroyed.
 
-_Search terms and phrases_
+#### Search terms and phrases
 
 Search terms and phrases that you use to reach our website, including those used via the RBA website search facility, are collected, but are not associated with any other information that we collect. We use these search terms to find out what visitors look for on our website, and to improve our services.
 
-_Cookies_
+#### Cookies
 
 The RBA does not use 'cookies' to get information about you or your use of our website. A 'cookie' is a file that could be placed on your hard drive by a website without your knowledge to allow it to monitor how the site is used.
 
 Any changes to our ‘cookies’ policy will be notified on this page.
 
-_Links to other sites_
+#### Links to other sites
 
 Links to other websites are provided to help us meet your needs but the RBA is not responsible for the content or privacy policies of those sites. Our [Disclaimer](https://web.archive.org/Disclaimer/index.html) provides further information.
 
@@ -90,7 +90,7 @@ Links to other websites are provided to help us meet your needs but the RBA is n
 
 If you provide the RBA with personal information via e-mail or any other means, your information may become part of the records of the RBA. The RBA takes all reasonable care to secure personal information and protect it against unauthorised access and misuse. If you are submitting personal or other information over the Internet please note that, while all attempts are made to ensure security of information transmitted to this site, there is a possibility that information you send could be seen by a third party while it is in transit.
 
-Personal information from our ISP logs will only be disclosed if the RBA is required by law to do so.
+Personal information from our ISP logs will only be disclosed if the RBA is required by law to do so. ****
 
 ### Access to Information
 
@@ -102,7 +102,7 @@ When required by law, e.g. search warrant or subpoena, personal information requ
 
 If you wish to amend or correct personal information that you have submitted via the RBA website you can forward your request to:
 
-_For amendments to job applications:_
+####  For amendments to job applications:
 
   | **E-mail** | [recruitment@rba.gov.au](mailto:recruitment@rba.gov.au)  
 ---|---|---  
@@ -121,7 +121,7 @@ GPO Box 3947
 SYDNEY NSW 2001  
 AUSTRALIA   
   
-_For amendments to all other information:_
+#### For amendments to all other information:
 
   | **E-mail** | [rbainfo@rba.gov.au](mailto:rbainfo@rba.gov.au)  
 ---|---|---  
@@ -133,7 +133,7 @@ Phone** |
 +61 2 9551 9721  
   | **  
 Fax** |   
-+61 2 9551 9706  
++61 2 9221 5528   
   | **  
 Post** |   
 Senior Information Officer  
