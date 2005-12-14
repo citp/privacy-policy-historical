@@ -1,107 +1,87 @@
-> *The following text is extracted and transformed from the campingworld.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605073255id_/http%3A//www.campingworld.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campingworld.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214235929id_/http%3A//www.campingworld.com/help/privacy.cfm) for the most accurate reproduction.*
 
-# Camping World - Home Page
-
-Shopping online has changed our lives. At Camping World, your trust and satisfaction is of the utmost importance. Because we respect your privacy, we are letting you know about our online policies, which are intended to ensure that your personally identifiable information is handled in a safe and responsible manner. Unless otherwise stated, this Privacy Statement does not cover offline data processes. 
-
-We suggest that you review this Privacy Statement periodically as we may update if from time to time. This policy was last revised on 02/10/03. 
-
-**What information does Camping World collect about me?**
-
-**How do we use this information?**
-
-**Who do we share this information with?**
-
-**What are cookies and how does Camping World use them?**
-
-**Third-Party Websites**
-
-**What about Children?**
-
-**How do I know my information is secure?**
-
-**Contact us**
-
+# Privacy Policy - Camping World
 
   
-**What information does Camping World collect about me?**   
-
+**Types of information we collect and how we collect it.**
 
 The majority of the product and service information posted on our sites is offered without our collecting any personally identifiable information from you. You can surf the Web sites and view much of our content anonymously. 
 
-Every time you visit our website, we automatically collect certain non-personally identifiable information from your browser, such as your Internet service provider's address, the web page from which you came, and a record of your activity on our site. 
+**Information You Provide**
 
-We also collect the personally identifiable information that you provide to us when you 1) purchase from Camping World; 2) Request a catalog; 3) Sign up for our newsletter; 4) Register for "My Account"; 4) Participate in a contest or sweepstakes; or 5) Fill out a survey or questionnaire. 
+There are a few activities on our sites where the collection of personally identifiable information is necessary. Those activities include things like entering a contest or sweepstakes, making a purchase, requesting a catalog, newsletter or other information, registering to our sites or the Open Roads Forum, filling out a survey or questionnaire or contacting us. We do not market to, seek to solicit information from or knowingly collect information from children.. 
 
+When personally identifiable information is collected, you will know because you will have to provide such information to us. For most activities, we collect only your name, e-mail address, street address, zip code, birth date, and RV type. When you make a purchase, we also collect your billing address, your phone number, and credit card information. 
 
-**How do we use this information?**   
+**Information Collected from You with Technology**
 
+Our sites collect some information about you using technology, so it may not be readily apparent to you that it is being collected. For instance, when you visit our site, we automatically collect certain non-personally identifiable information from your browser, such as your Internet service provider's address, the web page from which you came, and a record of your activity on our site. This information is not personally identifiable. Our sites use information collected through technology to: make our sites more interesting and useful to you; helping advertisers on our site design advertisements our users might like; help us generally improve the content and layout of our web site; notify you about updates to our web site; and contact you for marketing purposes. 
 
-    * To generally improve the content and layout of our web site. 
-    * To improve the content and layout of our web site for individual visitors 
-    * To notify you about updates to our web site 
-    * To contact you for marketing purposes 
-    * In some instances, shared with other organizations for marketing purposes. 
-    * For internal review 
+**Description of Cookies, and How We Use Them**
 
-When you supply us with personally identifiable information , the information you provide is added to our customer file. You may receive periodic mailings or telephone contact from us with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not want to receive such mailings or telephone contact from us, then please Click here for information on where to reach us to remove yourself from our contact list. 
+Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. These pieces of information allow the Web sites to remember important information that will make your use of those sites more useful. Our sites and other Web sites use cookies for a variety of purposes. As a result of your accessing our site, we may use third party cookies and other technologies and may receive information about your browsing and buying activity on our web site. 
 
-We may also send you e-mail with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not wish to receive such email in the future, please Click here for information on where to contact us to remove yourself from our email list or, simply click on the "opt out" link on any email you receive from us. Please note that when you make a purchase and provide us with your email address, we may send you confirmation of your order via email even if you have chosen not to receive future email from us about our products and services. We may also contact you by mail or telephone if we have questions about your order. 
-
-
-**Who we share our information with?**   
-
-
-The most valuable asset of our business is you. We aren't in the business of selling information about our customers. However, we may provide your name, address, and phone number to a select group of companies whose products we feel you may find of interest to you. In addition, we may provide your email address to our parent (www.affinitygroup.com) and/or partner companies for marketing use only. To opt out of direct mail or email solicitation from these companies, Click here. 
-
-We may also share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: 1) permitted or required by law; or 2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or 3) investigating fraud which has already taken place; or 4) when requested by valid order of a court or other valid authority. 
-
-In some instances we use third party companies to help us provide our products and services to you, to assist us in collecting and managing customer information, to fulfill promotions and/or to communicate with you. Some of these companies are given access to some or all of the information you provide to us, and some may use cookies or other technologies on our behalf. These companies are contractually restricted from using your information in any manner other than in helping us to provide you with the products and services available from Camping World. For more information about certain of these companies, Click here. 
-
-As we continue to develop our business, we may sell certain portions of our assets. In such transactions, visitor information (including personally identifiable information) may constitute a part of the transferred business assets. Also, in the event that CWI, Inc., any of its affiliates, or substantially all of their assets is acquired, visitor information (including personally identifiable information) likely will be an asset that is reviewed and transferred. 
-
-
-**What are cookies and how does Camping World use them?**   
-
-
-A "cookie" is a small piece of information stored by your browser on your computer's hard drive. At Camping World, we place a unique identifier in the cookies that we set and use the cookies to connect your browser with the information we store for you in our database. Some examples of the data we store in our database include your account preferences, items added to your shopping cart, user-specific information on pages accessed, and previous visits to our site. 
-
-Through the use of cookies, we may: alert you to new areas that we think might be of interest to you, record past activity at our site; or, customize web page content. Your information is stored in a safe and secure database. We do not use cookies to store any of your financial information on your computer. 
+We contract with one or more third party site analysis service partners to provide us with a data collection and reporting service. As a result of your accessing our site, such a third party site analysis service partner may use cookies and other technologies on our behalf and may receive information about your browsing and buying activity on our web site. Any such third party site analysis service partner would be contractually restricted from using this information in any manner, other than to help us provide you with the products and services available on or through our site. 
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many of our features that make your Web experience more efficient. 
 
+**How We Use the Personally Identifiable Information that We Collect**
 
-**Third-Party Websites**   
+When you supply us with personally identifiable information, the information you provide is added to our customer file. We use personally identifiable information in a limited number of ways. We use the information to complete transactions. For instance, we use your information to process your order, or if you contact us for help we will use the information to contact you. We use information collected to notify you if you've won a game or contest. Information we collect is also used to send you: e-mail updates related to clubs, products and services, discounts, upcoming events and newsletters about our sites; RV or other e-mail promotions and special offers from our third-party sponsors; periodic mailings or telephone contact related to clubs, products and services, discounts, upcoming events, newsletters about our sites; periodic mailings related to RV or other promotions and special offers from our third-party sponsors. 
 
+**Who We Share our Information With**
 
-We allow you to link directly to web sites of certain companies that are not affiliated with Camping World. Once you have left our site, our privacy policy no longer applies. You may want to read the privacy policy of any of these companies' sites to see how your information will be handled there.   
+One of the most valuable assets of our business is you. We aren't in the business of selling information about our users. However, we may provide information to a select group of companies whose products we feel you may find of interest. We will also share information for security reasons. 
 
-**Children**   
+Sometimes we use third party companies to help us provide products or services. In those instances, we need to share your information with them to deliver products to you, assist us in collecting and managing customer information, to fulfill promotions and/orders and/or to communicate with you. Some of these companies are given access to some or all of the information you provide to us, and some may use cookies or other technologies on our behalf. These companies are restricted from using your information in any manner other than in helping us to provide you with our products and services. On occasion, we offer promotions -- like sweepstakes or free subscriptions -- in conjunction with a sponsor. We may share your information with the sponsors if they need it to send you a product, such as a magazine subscription. We may share your information with those sponsors so that they can send you other special promotions they offer. In addition, we will occasionally send e-mail promotions out to our users on behalf of third-party sponsors to conduct promotions regarding lifestyle-related products or services. 
 
+On occasion, we offer promotions -- like sweepstakes or free subscriptions -- in conjunction with a sponsor. We may share your information with the sponsors if they need it to send you a product, such as a magazine subscription. We may share your information with those sponsors so that they can send you other special promotions they offer. In addition, we will occasionally send e-mail promotions out to our users on behalf of third-party sponsors to conduct promotions regarding lifestyle-related products or services. 
 
-Camping World does not market to, seek to solicit information from, or knowingly collect information from anyone under the age of thirteen.   
+**Content Providers**
 
-**How do you know your personal information is secure?**   
+On some of our sites, we provide content that is created by a third-party Web site. In some instances the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances the information collected is shared between our third-party sponsors and us. 
 
+**Third-Party Advertisers and Network Advertisers**
 
-The importance of security for all personally identifiable information associated with our users is of utmost concern to us. We take technical, contractual, administrative, and physical security steps to protect all visitors' information. When you provide us with credit card information, we use secure socket layer (SSL) encryption to protect it. 
+To help increase privacy protections for our users, we allow advertising on our sites from only those companies that have their own privacy policy. Once you've clicked on an advertisement and have left our sites, our privacy policy no longer applies. You must read the privacy policy of the advertiser to see how your personal information will be handled on their site. 
 
-There are some things that you can do to help protect the security of your information as well. For instance, never give out your password, since this is what is used to access all of your account information. Also remember to sign out of your account and close your browser window when you finish surfing the Web so that other people using the same computer won't have access to your information. 
+In addition, many business advertisements are managed and placed on our site by third-party companies. These companies are called "network advertisers." Network advertisers collect information when you click on or scan one of their banner advertisements. The information is collected using technology, so you may not realize it is being collected. The network advertisers collect this information so that they can show you ads that are more relevant and interesting to you. 
 
+**Sale of Businesses**
 
-**Contact Us**   
+As we continue to develop our business, we may sell certain portions of our assets. In such transactions, visitor information (including personally identifiable information) may constitute a part of the transferred business assets. Also, in the event that we, or any of our affiliates, or substantially all of our or their assets are acquired, visitor information (including personally identifiable information) likely will be an asset that is reviewed and transferred. 
 
+**Organizations That Help Protect the Security and Safety of our Users and our Sites**
 
-Feel free to contact us for any reason, including a request to be added to or taken off a list, to disable our ability to collect your personally-identifiable information, or if you have any questions or concerns.  |  By Postal Mail:   
----  
-  |  Camping World  
-Attn: Customer Service  
-650 Three Springs Rd.  
-Bowling Green, KY. 42104   
-By Phone:   
-  |  1-866-642-1328  
-(Mon thru Sat, 8am -7pm central time)   
-By Email:   
-  |  [cs@campingworld.com](mailto:cs@campingworld.com)  
+We will give out personal information as required by law, for example, to comply with a court order or subpoena; to enforce our Terms of Service, or site or game rules; or to protect the safety and security of users and our sites. 
 
+**Choices You Have About Our Collecting, Using, and Sharing Your Information**
 
+It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity -- at the time we collect your information -- to limit e-mail communications from us and from our third-party partners. You can request at any time that we not send future e-mail to you either by unsubscribing from the communication or by contacting us at info@affinitygroup.com or calling us at (303) 728-2267. 
+
+You also have the option of requesting and electing that we not share your personal information with any third parties for direct marketing purposes. Upon electing this option, we will not share your personal information with any third parties for direct marketing purposes. You can request at any time that we not share your personal information with any third parties for direct marketing purposes by contacting us at info@affinitygroup.com or calling us at (303) 728-2267. 
+
+**The Type of Security We Provide**
+
+The importance of security for all personally identifiable information associated with our users is of utmost concern to us. We take technical, contractual, administrative, and physical security steps to protect all visitors' information. When you provide credit card information, we use secure socket layer (SSL) encryption to protect it. There are some things that you can do to help protect the security of your information as well. For instance, never give out your password, since this is what is used to access all of your account information. Also remember to sign out of your account and close your browser window when you finish surfing the Web so that other people using the same computer won't have access to your information. 
+
+**How You Can Access Your Account Information**
+
+You can contact us via email by clicking "Contact Us" on any of our Web pages or send an email directly to info@affinitygroup.com . Please include information in the email that will help us identify your account so we can assist you with your inquiry or request. 
+
+**Who You Can Contact With Questions or Concerns About This Privacy Policy**
+
+If you need further assistance, you can: 
+
+Send an email with your questions or comments to info@affinitygroup.com 
+
+Write us at:   
+RV.NET   
+PO Box 6888   
+Englewood, CO 80155-6888 
+
+Fax us at: (303) 728-7306 
+
+Call us at: (303) 728-2267 
+
+Please note: Due to the rapidly changing nature of the Internet, we may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. This Privacy Policy is effective as of 05/10/2004 and has not been revised in any material respect since such effective date. All changes to this policy are immediately effective. In the event of any material changes to this Privacy Policy, we will notify users of our site of the applicable changes for a period of thirty (30) days following the effective date of such changes by providing a link on our web site to the "recent updates" to our Privacy Policy. 
