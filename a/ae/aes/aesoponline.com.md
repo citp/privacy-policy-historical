@@ -1,22 +1,34 @@
-> *The following text is extracted and transformed from the aesoponline.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804014357id_/http%3A//www.aesoponline.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aesoponline.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214231936id_/http%3A//www.frontlineplacement.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# AESOP (Automated Educational Substitute Operator) - Replacement Automation for Substitutes and Teachers
+# Frontline Placement Technologies - Automated Replacement Technology
 
-**Privacy Policy**  
-The Internet is a powerful medium that allows communication all over the globe, quickly and easily. However, it requires protection and guidelines to be safe and secure. FrontLine Data, Inc., the owner and exclusive distributor of AESOP, is dedicated to providing you, the user, with a secure and useful experience on the Internet. FrontLine Data adheres to the following policies regarding your private information.   
+December
+
+  * 1-2 MASPA
+  * 7-9 Savannah, GA
+  * 7-9 TASPA
 
 
-**FrontLine Data will not provide your information to a third party vendor.**
+
+  
+[](https://web.archive.org/web/20051214231936id_/http%3A//www.frontlineplacement.com/press/Patent_151_Press_Release.pdf) | 
+
+Privacy Policy 
+
+  
+The Internet is a powerful medium that allows communication all over the globe, quickly and easily. However, it requires protection and guidelines to be safe and secure. Frontline Placement Technologies, Inc., the owner and exclusive distributor of Aesop, is dedicated to providing you, the user, with a secure and useful experience on the Internet. FrontLine Data adheres to the following policies regarding your private information. 
+
+**Frontline Placement Technologies, Inc. will not provide your information to a third party vendor.**
 
 We believe that your information is private, and as such we will not disclose information to any outside source. The information that you provide online will be sent to the school district(s) for which you work, but will not divulge any information to marketing groups or list vendors. 
 
-**FrontLine Data does provide security for online transactions.**
+**Frontline Placement Technologies, Inc. does provide security for online transactions.**
 
-FrontLine Data uses secure logon via SSL to prevent access to your information. Your login id and PIN is required to gain access to your personal information. Additionally, FrontLine Data uses industry standard encryption protocols to safeguard your personal information in transit over the Internet. 
+Frontline Placement Technologies, Inc. uses secure logon via SSL to prevent access to your information. Your login id and PIN is required to gain access to your personal information. Additionally, Frontline Placement Technologies, Inc. uses industry standard encryption protocols to safeguard your personal information in transit over the Internet. 
 
-**FrontLine Data is dedicated to following and enforcing our standards.**
+**Frontline Placement Technologies, Inc. is dedicated to following and enforcing our standards.**
 
-We want to ensure that we are providing you with the level of security that you need, while still providing a useful interface to your personal information. If you have any questions, comments or issues pertaining to the adherence of FrontLine Data to these policies, please e-mail the webmaster at [info@AesopOnline.com](mailto:info@AesopOnline.com), please include the words Privacy Policy in the subject of the e-mail.   
+We want to ensure that we are providing you with the level of security that you need, while still providing a useful interface to your personal information. If you have any questions, comments or issues pertaining to the adherence of Frontline Placement Technologies, Inc. to these policies, please e-mail the webmaster at [info@AesopOnline.com](mailto:info@AesopOnline.com), please include the words Privacy Policy in the subject of the e-mail.   
 
 
 **Cookies**
