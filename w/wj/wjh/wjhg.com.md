@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjhg.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403110334id_/http%3A//www.wjhg.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjhg.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214191956id_/http%3A//www.wjhg.com/unclassified/647.html) for the most accurate reproduction.*
 
 # WJHG | GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
@@ -139,4 +139,4 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
 
 This Privacy Policy was last updated on Dec. 20, 2004 and is effective immediately.
 
-Copyright © 2004 Gray Television Group, Inc. All rights reserved.
+Copyright © 2005 Gray Television Group, Inc. All rights reserved.
