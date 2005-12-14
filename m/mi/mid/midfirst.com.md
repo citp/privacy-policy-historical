@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midfirst.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306002812id_/http%3A//www.midfirst.com/Inside/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midfirst.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214131810id_/http%3A//midfirst.com/Inside/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - MidFirst Bank
 
