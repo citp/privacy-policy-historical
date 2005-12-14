@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the realtor.org privacy policy that was archived on 2005-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050406003052id_/http%3A//realtor.org/realtororg.nsf/pages/PrivacyPolicy%3FOpenDocument) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realtor.org privacy policy that was archived on 2005-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214223807id_/http%3A//www.realtor.org/realtororg.nsf/pages/PrivacyPolicy%3FOpenDocument) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <style type="text/css">
@@ -127,7 +127,7 @@ if (isNav4) {
 </script>
 </head>
 <body text="#000000" bgcolor="#FFFFFF">
-<script language="javascript" src="/roresources.nsf/header.js"></script><script language="javascript" src="/generalfc.nsf/generalfc.js"></script><link type="text/css" rel="stylesheet" href="/roresources.nsf/ROGlobal.css"><link type="text/css" rel="stylesheet" href="/roresources.nsf/ROStyleSheet.css"><link rel="stylesheet" type="text/css" href="/roresources.nsf/Print.css" media="print">
+<script language="javascript" src="/roresources.nsf/header.js"></script><script language="javascript" src="/generalfc.nsf/generalfc.js"></script><link type="text/css" rel="stylesheet" href="/roresources.nsf/ROGlobal.css"><link type="text/css" rel="stylesheet" href="/roresources.nsf/ROStyleSheet.css"><link type="text/css" rel="stylesheet" href="/roresources.nsf/Realtor_org.css"><link rel="stylesheet" type="text/css" href="/roresources.nsf/Print.css" media="print"><link rel="shortcut icon" href="/rodesign.nsf/favicon.ico" type="image/x-icon">
 <!-- AW Added 4/12/04 for WEBTrends reporting - START OF SmartSource Data Collector TAG -->
 <!-- Copyright 2002 NetIQ Corporation -->
 <!-- V6.1 -->
@@ -143,7 +143,8 @@ gVersion="1.1";
 </script>
 <script language="Javascript1.2"><!--
 gVersion="1.2";
-var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+/*var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};*/
+var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
 //-->
 </script>
 <script language="Javascript1.3"><!--
@@ -165,9 +166,38 @@ var DCS=new Object();
 var WT=new Object();
 var DCSext=new Object();
 var gDomain="webtrsdc.realtors.org";
- var gDcsId="@@DCSID@@";
+ var gDcsId="";
 // Add customizations here
 //WT.sp="@@SPLITVALUE@@";
+//Added 8/24/05 to track Groups and SubGroups
+var tmp=""
+if (tmp != "") {
+	WT.cg_n="";
+	WT.cg_s="";
+	DCSext.xxx="";
+} else {
+	var contentStr="";
+	var contentStrArray=contentStr.split(" ");
+	var i=0;
+	var WTprimary = "";
+	var WTsecondary = "";
+	if(contentStrArray[i] != "") {	
+		while (i < contentStrArray.length) {
+//			alert(contentStrArray[i]);
+			posC = contentStrArray[i].indexOf("c=");
+			posS = contentStrArray[i].indexOf("s=");
+  			if (posC >= 0) {
+  				WTprimary += contentStrArray[i].substring(posC+2) + ";";
+  			} else {
+  	     			WTsecondary += contentStrArray[i].substring(posS+2) + ";";
+  			}
+			i += 1;
+		}
+		WT.cg_n=WTprimary;
+		WT.cg_s=WTsecondary;
+	}
+} 
+// End Groups and SubGroups
 function dcsVar(){
 	var dCurrent=new Date();
 	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
@@ -189,7 +219,8 @@ function dcsVar(){
 	}
 	DCS.dcsdat=dCurrent.getTime();
 	DCS.dcssip=window.location.hostname;
-	DCS.dcsuri=window.location.pathname;
+	DCS.dcsuri= window.location.pathname;
+	
 	if (window.location.search){
 		DCS.dcsqry=window.location.search;
 	}
@@ -203,6 +234,7 @@ function A(N,V){
 	return "&"+N+"="+dcsEscape(V);
 }
 function dcsEscape(S){
+/*alert ("escape "+S);*/
 	if (typeof(RE)!="undefined"){
 		var retStr = new String(S);
 		for (R in RE){
@@ -219,9 +251,11 @@ function dcsCreateImage(dcsSrc){
 		gImages[gIndex]=new Image;
 		gImages[gIndex].src=dcsSrc;
 		gIndex++;
+//alert("NOT writing = "+dcsSrc);
 	}
 	else{
 		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+//alert("writing = "+dcsSrc);
 	}
 }
 function dcsMeta(){
@@ -272,6 +306,7 @@ function dcsTag(){
 	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
 		P=P.substring(0,2040)+"&WT.tu=1";
 	}
+//alert(" P after = "+P);
 	dcsCreateImage(P);
 }
 dcsVar();
@@ -287,15 +322,15 @@ dcsTag();
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top"><td width="107%" colspan="3"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""><br>
 
-<table class="globalnav"><tbody><tr valign="middle"><td><a href="/rocms.nsf/Home/ROHome?OpenDocument"><img src="/roresources.nsf/logo_realtordotorg.gif" alt="REALTOR.org Logo" border="0"></a></td><td align="right"><!-- BEGIN BAN AD TAG --> <script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/HOMS.ROG/homepage;pos=BAN;dcopt=ist;sz=468x60;ptile=1;ord=1234567890?"></script> <script> <!-- if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0) || (navigator.userAgent.indexOf("WebTV")>= 0))  { document.write('<A HREF="http://ad.doubleclick.net/jump/HOMS.ROG/homepage;pos=BAN;dcopt=ist;sz=468x60;ptile=1;ord=1234567890?" TARGET="_blank">'); document.write('<IMG SRC="http://ad.doubleclick.net/ad/HOMS.ROG/homepage;pos=BAN;dcopt=ist;sz=468x60;ptile=1;ord=1234567890?" WIDTH="468" HEIGHT="60" BORDER="0" ALT=""></A>'); } // --> </script> <noscript><A HREF="http://ad.doubleclick.net/jump/HOMS.ROG/homepage;pos=BAN;dcopt=ist;sz=468x60;ptile=1;ord=1234567890?" TARGET="_blank"><IMG SRC="http://ad.doubleclick.net/ad/HOMS.ROG/homepage;pos=BAN;dcopt=ist;sz=468x60;ptile=1;ord=1234567890?" WIDTH="468" HEIGHT="60" BORDER="0" ALT="" /></A> </noscript> <!-- END BAN AD TAG --></td></tr></tbody></table><!-- *********BEGIN GLOBAL NAV ********* --> <table class="globalnav"><tbody><tr class="globalnav"><td class="globalnav"><img src="/roresources.nsf/banner_nar.gif" alt="National Association of REALTORS" align="left"></td> 		 <td class="globalnav"><a href="/roreg.nsf/pages/myaccount?OpenDocument&amp;Login" target="_top">Login/My Account</a> | <a href="/rodesign.nsf/pages/CustomerSupport?OpenDocument" target="_top">Need Help?</a> | <a href="/rocms.nsf/pages/libraryctr" target="_top">Library</a> | <a href="/prodser.nsf/StoreHome/REALTORStore?OpenDocument" target="_top">Store</a> | <a href="/rodesign.nsf/pages/RealtorDirectory?OpenDocument" target="_top">Directories</a>&nbsp;&nbsp;</td> 	</tr></tbody></table><table cellspacing="0" class="globalnav"><tbody><tr class="google"> <!-- *********BEGIN GOOGLE SEARCH ********* -->  <td class="google" width="129"><img src="/roresources.nsf/search_realtor.gif" alt="Search powered by Google"></td> <td class="google"><form style="margin:0; padding:0;" name="frmGoogleSearch" method="GET" action="http://google.realtors.org/search"><input type="text" class="google" name="q" size="20" maxlength="256" value="" onkeypress="javascript: entSubmitForm(event,this.form)"><a href="" onclick="document.frmGoogleSearch.submit(); return false;"><img class="google" border="0" src="/roresources.nsf/btn_go.gif"></a><img class="google" border="0" src="/roresources.nsf/search_google2.gif"><div width="1" height="1"><input type="hidden" name="ie" value=""><input type="hidden" name="site" value="REALTOR_org">    	<input type="hidden" name="output" value="xml_no_dtd">    	<input type="hidden" name="client" value="REALTOR_org">    	<input type="hidden" name="lr" value="">    	<input type="hidden" name="proxystylesheet" value="REALTOR_org">    	<input type="hidden" name="oe" value=""> </div></form></td> <!-- *********BEGIN SUBSCRIBE AREA ********* --> <td align="right" class="subscribe"><select name="selSubscribe" class="subscribe" onchange="activateBoxLink(this)"><option selected="true" value="">Subscribe to Site News...</option><option value="/roreg.nsf/emailprofile?OpenForm&amp;Login#NARListserv">Customized Weekly News</option><option value="/roreg.nsf/emailprofile?OpenForm&amp;Login#RMONews">REALTOR Magazine News</option></select></td> 	</tr></tbody></table>
+<table class="globalnav"><tbody><tr valign="middle"><td><a href="http://www.realtor.org"><img src="/roresources.nsf/logo_realtordotorg.gif" alt="REALTOR.org Logo" border="0"></a></td><td align="right"><!-- BEGIN BAN AD TAG --> <script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/HOMS.ROG/homepage;pos=BAN;dcopt=ist;sz=468x60;ptile=1;ord=1234567890?"></script> <script> <!-- if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0) || (navigator.userAgent.indexOf("WebTV")>= 0))  { document.write('<A HREF="http://ad.doubleclick.net/jump/HOMS.ROG/homepage;pos=BAN;dcopt=ist;sz=468x60;ptile=1;ord=1234567890?" TARGET="_blank">'); document.write('<IMG SRC="http://ad.doubleclick.net/ad/HOMS.ROG/homepage;pos=BAN;dcopt=ist;sz=468x60;ptile=1;ord=1234567890?" WIDTH="468" HEIGHT="60" BORDER="0" ALT=""></A>'); } // --> </script> <noscript><A HREF="http://ad.doubleclick.net/jump/HOMS.ROG/homepage;pos=BAN;dcopt=ist;sz=468x60;ptile=1;ord=1234567890?" TARGET="_blank"><IMG SRC="http://ad.doubleclick.net/ad/HOMS.ROG/homepage;pos=BAN;dcopt=ist;sz=468x60;ptile=1;ord=1234567890?" WIDTH="468" HEIGHT="60" BORDER="0" ALT="" /></A> </noscript> <!-- END BAN AD TAG --></td></tr></tbody></table><font size="2"><!-- *********BEGIN GLOBAL NAV ********* --> <table class="globalnav"><tbody><tr class="globalnav"><td class="nar">NATIONAL ASSOCIATION OF REALTORS®</td><td class="globalnav"><a href="/prodser.nsf/StoreHome/REALTORStore?OpenDocument" target="_top">Store</a> | <a href="/library/index.html" target="_top">Library</a> | <a href="/directories/index.html" target="_top">Directories</a> | <a href="/rodesign.nsf/pages/CustomerSupport?OpenDocument" target="_top">Need Help?</a>&nbsp;&nbsp;</td></tr></tbody></table></font><font size="2"><table cellspacing="0" class="globalnav"><tbody><tr class="google"> <!-- *********BEGIN GOOGLE SEARCH ********* -->  <td class="google" width="150">Search REALTOR.org</td> <td class="google"><form style="margin:0; padding:0;" name="frmGoogleSearch" method="GET" action="http://google.realtors.org/search"><input type="text" class="google" name="q" size="20" maxlength="256" value="" onkeypress="javascript: entSubmitForm(event,this.form)"><a href="" onclick="document.frmGoogleSearch.submit(); return false;"><img class="google" border="0" src="/roresources.nsf/btn_go.gif"></a><div width="1" height="1"><input type="hidden" name="ie" value=""><input type="hidden" name="site" value="REALTOR_org">    	<input type="hidden" name="output" value="xml_no_dtd">    	<input type="hidden" name="client" value="REALTOR_org">    	<input type="hidden" name="lr" value="">    	<input type="hidden" name="proxystylesheet" value="REALTOR_org">    	<input type="hidden" name="oe" value=""> </div></form></td> <!-- *********BEGIN GLOBAL LINKS LEVEL 2 ********* --> <td align="right" class="google"><span><!-- Register &  Login Links--><a class="google" href="https://reg.realtor.org/roreg.nsf/prepreg?Openform">Register</a>&nbsp;|&nbsp;<a class="google" href="/domcfg.nsf/Login?OpenForm">Login</a><!-- My Account &  NRDS Links-->&nbsp;|&nbsp;<a class="google" href="https://reg.realtor.org/roreg.nsf/pages/MyAccount?OpenDocument&amp;Login">My Account</a>&nbsp;|&nbsp;<a class="google" href="/nrdslogi.nsf/LoginUserInfo">NRDS</a></span>&nbsp;&nbsp;</td> </tr><tr><td><!-- WHITE SEPARATOR BAR--><img src="/roresources.nsf/white_spacer.gif" width="160" height="1" style="border-bottom-width: 0px;border-bottom-style: solid;border-bottom-color: #ffffff;padding-bottom: 0px;"></td></tr></tbody></table></font>
 </td></tr>
 
 <tr valign="top"><td width="1%" bgcolor="#336699"><img src="/icons/ecblank.gif" border="0" height="1" width="159" alt=""><br>
-<div class="mainnav"><a href="/rocms.nsf/pages/aboutnar" target="_top">About NAR</a></div> <div class="mainnav"><a href="/prodser.nsf" target="_top">Member Benefits</a></div> <div class="mainnav"><a href="/rocms.nsf/pages/governmentaffairsctr" target="_top">Government Affairs</a></div> <div class="mainnav"><a href="/rocms.nsf/pages/researchctr" target="_top">Research</a></div> <div class="mainnav"><a href="/rocms.nsf/pages/lawpolicyctr" target="_top">Law &amp; Policy</a></div> <div class="mainnav"><a href="/rocms.nsf/pages/technologyctr" target="_top">Technology</a></div> <div class="mainnav"><a href="/rocms.nsf/pages/educationctr" target="_top">Education</a></div> <div class="mainnav"><a href="/rocms.nsf/pages/nargovernancectr" target="_top">NAR Governance</a></div> <div class="mainnav"><a href="/rocms.nsf/pages/meetingsexpoctr?OpenDocument" target="_top">Meetings &amp; Expo</a></div><div class="mainnavbottom">&nbsp;</div>
-<table class="popularlinks"><tbody><tr><td><div class="popularlinkstitle">Popular Links</div> <div class="popularlinksdropdown"><select name="selPopularLinks" onchange="activateBoxLink(this)"><option value="">Please Select ...</option><option value="/nrdslogi.nsf/LoginUserInfo">NRDS/Member Profile</option><option value="/ecommenu.nsf/ecommenu?OpenForm&amp;Login">Pay Dues Online</option><option value="/rmodaily.nsf?OpenDatabase">REALTOR® Magazine</option><option value="/rodesign.nsf/pages/FS_2005PublicAware?OpenDocument">Public Awareness Campaign</option><option value="/mempolweb.nsf/pages/onlineethicstraining?OpenDocument">Code of Ethics Training</option><option value="http://www.realtor.org/rpacweb.nsf?OpenDatabase">RPAC</option><option value="http://www.realtor.org/gapublic.nsf/pages/keepbanksout">Banks Out of Real Estate</option><option value="http://www.realtor.org/housopp.nsf?OpenDatabase">Housing Opportunity</option></select></div>  <div class="popularlinkstitle">Your Business Tools</div> <div class="popularlinksdropdown"><select name="selBusinessTools" onchange="activateBoxLink(this)"><option value="">Please Select ...</option><option value="/vlibrary.nsf/pages/top10">Top 20 Field Guides</option><option value="/rmomag.NSF/pages/archindex?OpenDocument">Architecture Guide</option><option value="/rmotoolkits.nsf/pages/prospectmain?OpenDocument&amp;ExpandView">Prospecting Tools</option><option value="/rmotoolkits.nsf/pages/buyermain?OpenDocument&amp;ExpandView">Working with Buyers</option><option value="/rmotoolkits.nsf/pages/consumermain?OpenDocument&amp;ExpandView">Handouts for Consumers</option><option value="/rmotoolkits.nsf/pages/salesmeetmain?OpenDocument&amp;Start=1&amp;Count=1000&amp;Expand=2">Sales Meeting Support</option><option value="/libweb.nsf/pages/fg006">Quick Real Estate Statistics</option><option value="/prodser.nsf/pages/OfficeManagementZipform?OpenDocument">Real Estate Forms</option><option value="/realtororg.NSF/pages/LogosGraphicStandards?OpenDocument">REALTOR® Logo Usage</option></select></div>  <div class="popularlinkstitle">Especially for</div><div class="popularlinksdropdown"><select name="selEspeciallyItems" onchange="activateBoxLink(this)"><option value="">Choose a speciality ...</option><option value="/rodesign.nsf/pages/agenthome?OpenDocument">Residential Sales</option><option value="/rodesign.nsf/pages/resbrokerhome?OpenDocument">Brokerage</option><option value="/rocms.nsf/pages/AECtr">Association Executives</option><option value="/rocms.nsf/pages/commercialctr?OpenDocument">Commercial</option><option value="/rocms.nsf/pages/InternationalCtr?OpenDocument">International</option><option value="/rodesign.nsf/pages/BuyerRepCtr?OpenDocument">Buyer Representation</option><option value="/rodesign.nsf/pages/AppraisalCtr?OpenDocument">Appraisal</option><option value="/rodesign.nsf/pages/AuctionCtr?OpenDocument">Auction</option><option value="/rocms.nsf/pages/ResortCtr?OpenDocument">Resorts</option><option value="/rodesign.nsf/pages/PropMgmtHome?OpenDocument">Property Management</option><option value="/rodesign.nsf/pages/consumerhome?OpenDocument">Home Buyers &amp; Sellers</option></select></div><div class="popularlinkstitlebottom">&amp;nbsp;</div></td></tr></tbody></table>
-<div class="navoffer"><a class="cmsFontLBoldNone" href="https://www.realtor.org/roreg.nsf/prepreg?Openform" target="_top"><b>Register Now!</b></a><br> <span align="" class="cmsFontMNormalNone">Receive customized<br>news and, for <br>REALTORS®, <br>full site access.</span><br><br> <a href="/prodser.nsf/pages/VIPHome?OpenDocument" target="_top"><img align="" src="/roresources.nsf/logo_realtorvip.gif" alt="realtor vip" border="0"></a><br> <a class="cmsFontLNormalNone" href="/prodser.nsf/pages/VIPHome?OpenDocument" target="_top"><b>Purchase products</b></a><br> <span align="" class="cmsFontMNormalNone">from REALTOR VIP® <br>Alliance Partners and <br>leverage NAR's group <br>buying power.</span><br></div></td><td width="2%"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""><br>
+<font size="2"><div class="mainnav"><span><!-- RESOURCES FOR HEADER--></span></div><div class="nav_header"><font class="nav_header">RESOURCES FOR</font></div> <div class="mainnav"><a href="/realtors/index.html" target="_top">REALTORS® &amp; Business Specialties</a></div> <div class="mainnav"><a href="/association_executives/index.html" target="_top">Association Executives</a></div> <div class="mainnav"><a href="/press_room/index.html" target="_top">News Media</a></div> <div class="mainnav"><a href="/home_buyers_and_sellers/index.html" target="_top">Home Buyers &amp; Sellers</a></div> <div class="mainnav"><span><!-- WHITE SEPARATOR BAR--></span></div><img src="/roresources.nsf/white_spacer.gif" width="160" height="2" class="nav_hr"> <div class="mainnav"><span><!-- SITE BY TOPIC HEADER--></span></div><div class="nav_header"><font class="nav_header">SITE BY TOPIC</font></div> <div class="mainnav"><a href="/about_nar/index.html" target="_top">About NAR</a></div> <div class="mainnav"><a href="/education/index.html" target="_top">Education</a></div> <div class="mainnav"><a href="/government_affairs/index.html" target="_top">Government Affairs</a></div> <div class="mainnav"><a href="/law_and_policy/index.html" target="_top">Law &amp; Policy</a></div> <div class="mainnav"><a href="/meetings_and_expo/index.html" target="_top">Meetings &amp; Expo</a></div> <div class="mainnav"><a href="/nar_governance/index.html" target="_top">NAR Governance</a></div> <div class="mainnav"><a href="/realtor_benefits/index.html" target="_top">REALTOR® Benefits</a></div> <div class="mainnav"><a href="/research/index.html" target="_top">Research</a></div> <div class="mainnav"><a href="/technology/index.html" target="_top">Technology</a></div> <div class="mainnav"><span><!-- WHITE SEPARATOR BAR--></span></div><img src="/roresources.nsf/white_spacer.gif" width="160" height="2" class="nav_hr"> <div class="mainnav"><span><!-- REGISTER NOW HEADER &#38; COPY--></span></div><div class="nav_header"><font class="nav_header">REGISTER NOW</font></div><!-- REGISTER COPY--><div class="nav_copy" style="padding-top:6px;"><span class="class2">Access <a href="https://reg.realtor.org/roreg.nsf/prepreg?Openform">exclusive features</a> and sign up for newsletters.</span></div> <div class="mainnav"><span><!-- WHITE SEPARATOR BAR--></span></div><img src="/roresources.nsf/white_spacer.gif" width="160" height="2" class="nav_hr"> <div class="mainnav"><span><!-- REALTOR® BENEFITS HEADER &#38; COPY--></span></div><div class="nav_header"><font class="nav_header">REALTOR® BENEFITS</font></div><!-- REALTOR® BENEFITS COPY--><div class="nav_copy" style="padding-top:4px;"><span class="class2">Purchase discounted products and services from <a href="/realtor_benefits/index.html">REALTOR Benefits(SM) Partners</a></span></div> <div class="mainnav"><span><!-- REALTOR® BENEFITS LOGO--></span></div><span class="class2"> <a href="/realtor_benefits/index.html"><img src="/roresources.nsf/realtor_benefits_rev.jpg" class="realtor_benefits_logo" alt="REALTOR Benefits(sm) logo" border="0"></a></span></font>
+<br>
+</td><td width="2%"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""><br>
 <font size="2" face="Verdana"><b>&nbsp;</b></font></td><td width="98%"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""><br>
-<font class="blck10">12/04/2003</font><br><br>
+<font class="blck10">11/28/2005</font><br><br>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top"><td width="528"><b><font size="2" face="Verdana">Privacy Policy</font></b><br>
 <br>
@@ -306,7 +341,7 @@ dcsTag();
 <ul>
 <li type="disc"><font size="2" face="Verdana">Contact information you provide (for example, your personal and business addresses, phone and fax numbers, firm affiliations and titles). </font>
 </li><li type="disc"><font size="2" face="Verdana">Tracking information which our Web server automatically recognizes each time you visit one of our sites or communicate with us by e-mail (for example, your domain name, your e-mail address, and what pages you visit); and</font>
-</li><li type="disc"><font size="2" face="Verdana">Information you volunteer, via applications or surveys (for example, education, designations, specialties, affiliations with other real estate organizations and general demographic data).</font><br>
+</li><li type="disc"><font size="2" face="Verdana">Information you volunteer, via applications or surveys (for example, education, designations, specialties, affiliations with other real estate organizations and general demographic data).</font></li></ul>
 <br>
 <font size="2" face="Verdana">2.	We use this information to:</font><br>
 
@@ -317,9 +352,9 @@ dcsTag();
 </li><li type="disc"><font size="2" face="Verdana">Notify you of upcoming events and programs. </font>
 </li><li type="disc"><font size="2" face="Verdana">Compile specialty directories about which you will be made aware.</font>
 </li><li type="disc"><font size="2" face="Verdana">Track usage of our sites.</font>
-</li><li type="disc"><font size="2" face="Verdana">Assist local and state REALTOR</font><sup><font size="2" face="Verdana">®</font></sup><font size="2" face="Verdana"> associations and affiliated Institutes, Societies and Councils in membership tracking and for their use for purposes similar to those listed above.</font><br>
+</li><li type="disc"><font size="2" face="Verdana">Assist local and state REALTOR</font><sup><font size="2" face="Verdana">®</font></sup><font size="2" face="Verdana"> associations and affiliated Institutes, Societies and Councils in membership tracking and for their use for purposes similar to those listed above.</font></li></ul>
 <br>
-<font size="2" face="Verdana">3. 	NAR does not share, sell or trade e-mail addresses, but may provide you with on-line informational or marketing messages that have been approved by NAR for the purposes described in Part 4 of this policy.</font><br>
+<font size="2" face="Verdana">3. NAR does not share, sell or trade e-mail addresses, but may provide you with on-line informational or marketing messages that have been approved by NAR for the purposes described in Part 4 of this policy.</font><br>
 <br>
 <br>
 <font size="2" face="Verdana">4.	We will not share, sell or otherwise provide other information about you to third parties, except for: </font><br>
@@ -329,7 +364,7 @@ dcsTag();
 </li><li type="disc"><font size="2" face="Verdana">Exhibitors at REALTOR</font><sup><font size="2" face="Verdana">®</font></sup><font size="2" face="Verdana"> trade shows for the limited purpose of contacting you one time immediately before and after trade shows, through marketing vehicles approved by NAR.</font>
 </li><li type="disc"><font size="2" face="Verdana">Other vendors for the limited purpose of contacting targeted groups of members, through marketing vehicles approved by NAR.</font>
 </li><li type="disc"><font size="2" face="Verdana">When required by law or valid legal process, or to protect the personal safety of our members or the public.</font>
-</li><li type="disc"><font size="2" face="Verdana">Some or all of the data collected during promotions or contests on our sites that are sponsored by third parties may be shared with the sponsor for the limited purpose of a one-time marketing follow-up by the sponsor. If information about you will be shared with a sponsor you will be notified prior to your participation in the promotion or contest and you can decide not to participate in the promotion or contest. </font><br>
+</li><li type="disc"><font size="2" face="Verdana">Some or all of the data collected during promotions or contests on our sites that are sponsored by third parties may be shared with the sponsor for the limited purpose of a one-time marketing follow-up by the sponsor. If information about you will be shared with a sponsor you will be notified prior to your participation in the promotion or contest and you can decide not to participate in the promotion or contest. </font></li></ul>
 <br>
 <font size="2" face="Verdana">5.	Credit information that you and credit authorizers provide when you make payments by credit card or electronic check for products, dues or other services via the REALTOR</font><sup><font size="2" face="Verdana">®</font></sup><font size="2" face="Verdana"> Electronic Commerce Network (“E-Commerce Network”) will only be used to process the transactions you request. This information will be provided to and maintained by reputable credit reporting databases, but will never be sold, shared or provided to other third parties. </font><br>
 <br>
@@ -339,10 +374,7 @@ dcsTag();
 <br>
 <font size="2" face="Verdana">8.	You may edit your personal contact information directly in the NRDS system or by contacting your local REALTOR</font><sup><font size="2" face="Verdana">®</font></sup><font size="2" face="Verdana"> association.</font><br>
 <br>
-<font size="2" face="Verdana">9. 	Some of our sites contain advertising placed by advertising networks pursuant to agreements between the National Association and the advertising network. We do not control these advertising networks, the sites of third parties reached through links on our site or their information collection practices and the National Association will not be responsible for the activities of these third parties. The advertising network uses cookies to collect certain non-personally identifiable information when you click on the banner ads appearing on our sites. This information is collected by the advertising network for purposes of measuring and reporting on the advertising to advertisers and the National Association. The advertising network may also aggregate the information for certain other statistical and reporting purposes.</font></li></ul>
-</li></ul>
-</li></ul>
-</td></tr>
+<font size="2" face="Verdana">9. Some of our sites contain advertising placed by advertising networks pursuant to agreements between the National Association and the advertising network. We do not control these advertising networks, the sites of third parties reached through links on our site or their information collection practices and the National Association will not be responsible for the activities of these third parties. The advertising network uses cookies to collect certain non-personally identifiable information when you click on the banner ads appearing on our sites. This information is collected by the advertising network for purposes of measuring and reporting on the advertising to advertisers and the National Association. The advertising network may also aggregate the information for certain other statistical and reporting purposes.</font></td></tr>
 </tbody></table>
 </td></tr>
 
@@ -352,7 +384,7 @@ dcsTag();
 <tbody><tr valign="top"><td width="509"><div class="pageToolsButton"><a href="" onclick="javascript: openPrint(); return false;"><img border="0" src="/roresources.nsf/articleTools_print.gif" alt="Print Format" title="make this page easy to print"></a></div><div class="pageToolsButton"><a href="javascript:openMailEntryForm();"><img border="0" src="/roresources.nsf/articleTools_email.gif" alt="E-Mail Article" title="Email this page to a friend"></a></div>
 </td></tr>
 
-<tr valign="top"><td width="509"><!-- ************************************************ --> <!-- BEGIN COPYRIGHT DETAILS --> 		 	<div class="copyright"><hr style="width:425px;text-align:left;margin-left: 3px;"><span class="cmsFontESNormalNone">Copyright NATIONAL ASSOCIATION OF REALTORS®<br>Headquarters: 430 North Michigan Avenue, Chicago, IL. 60611-4087<br>DC Office: 500 New Jersey Avenue, NW, Washington, DC 20001-2020<br>1-800-874-6500</span><br><br><a class="copyright" href="/roreg.nsf/pages/license?OpenDocument">License Agreement</a> | <a class="copyright" href="/realtororg.nsf/pages/PrivacyPolicy?OpenDocument">Privacy Policy</a> | <a class="copyright" href="http://www.realtor.com" target="_top">REALTOR.com</a> | <a class="copyright" href="/Icreqonl.nsf/Feedback?OpenForm" target="_top">Contact NAR</a><br></div> 	<div class="fourpix"></div> 	<!-- END COPYRIGHT DETAILS --> <!-- ************************************************ --><script language="JavaScript"> changeTDcolor(0) </script><form method="post" action="/generalfc.NSF/fcEntry?OpenForm&amp;Seq=1" name="__fcEntry" target="PTWindow"> <input type="hidden" name="__Click" value="0"> <input type="hidden" name="Link" value="http://www.realtor.org/realtororg.nsf/pages/PrivacyPolicy?OpenDocument"> <input type="hidden" name="LinkAlias" value="NAR's Privacy Policy Statement"></form></td></tr>
+<tr valign="top"><td width="509"><!-- ************************************************ --> <!-- BEGIN COPYRIGHT DETAILS --> 		 	<br><br><div class="copyright"><img src="/roresources.nsf/lt_blue_spacer.gif" width="650" height="2" style="text-align:left;"><div class="fourpix"></div><br> <span class="cmsFontESNormalNone">Copyright NATIONAL ASSOCIATION OF REALTORS®<br>Headquarters: 430 North Michigan Avenue, Chicago, IL. 60611-4087<br>DC Office: 500 New Jersey Avenue, NW, Washington, DC 20001-2020<br>1-800-874-6500</span><br><a class="copyright" href="/roreg.nsf/pages/license?OpenDocument">License Agreement</a> | <a class="copyright" href="/realtororg.nsf/pages/PrivacyPolicy?OpenDocument">Privacy Policy</a> | <a class="copyright" href="http://www.realtor.com" target="_top">REALTOR.com</a> | <a class="copyright" href="/Icreqonl.nsf/Feedback?OpenForm" target="_top">Contact NAR</a><br></div> 	<div class="fourpix"></div> 	<!-- END COPYRIGHT DETAILS --> <!-- ************************************************ --><script language="JavaScript"> changeTDcolor(0) </script><form method="post" action="/generalfc.NSF/fcEntry?OpenForm&amp;Seq=1" name="__fcEntry" target="PTWindow"> <input type="hidden" name="__Click" value="0"> <input type="hidden" name="Link" value="http://www.realtor.org/realtororg.nsf/pages/PrivacyPolicy?OpenDocument"> <input type="hidden" name="LinkAlias" value="NAR's Privacy Policy Statement"></form></td></tr>
 </tbody></table>
 </td></tr>
 </tbody></table>
