@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203020857id_/http%3A//teletextholidays.co.uk/privacy.asp%3Farea%3Doverseas) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214083900id_/http%3A//www.teletextholidays.co.uk/commonpages/privacy.asp%3Farea%3Dadvice) for the most accurate reproduction.*
 
 # Teletext Holidays
 
+  
 Teletext is committed to protecting your right to privacy and ensuring your enjoyment of our website. This Privacy Policy covers Teletext's use of any personal information you provide us with when using any part of the Teletext website and also any data that we share with our business partners and other carefully selected third parties. It does not apply to your use of the Internet outside of the Teletext website and we would advise that you review third party policies when using other websites. 
 
 **What information do we collect about you?**
@@ -40,4 +41,6 @@ Teletext reserves the right to make changes to this policy from time to time. An
 
 **Links to other sites**
 
-Links to other websites are provided for information only. Teletext accepts no responsibility in respect of your access to such websites or any material found on them.
+Links to other websites are provided for information only. Teletext accepts no responsibility in respect of your access to such websites or any material found on them. 
+
+^ to top
