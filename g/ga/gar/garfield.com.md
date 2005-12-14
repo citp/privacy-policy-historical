@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305121429id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214081807id_/http%3A//garfield.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -118,7 +118,7 @@ Remember to sign off our Site and close your browser window when you are finishe
 
 **Security.** uclick has security measures in place to protect the loss, misuse and alteration of the information under our control. These include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. We will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption. We use [thawte](https://www.thawte.com/home.html) SSL Web Server Certificates to offer secure communications by encrypting all data to and from the site. thawte has checked and verified the company registration documents and the site's registered domain name. [Consumer Guidelines: How to know whether a site is secure](https://www.thawte.com/siteseal/index.html)
 
-**Chat Rooms and Other Public Areas.** uclick may offer chat, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by uclick's [Terms of Service](https://web.archive.org/web/20050305121429id_/http%3A//www.garfield.com/termsofuse.html). 
+**Chat Rooms and Other Public Areas.** uclick may offer chat, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by uclick's [Terms of Service](https://web.archive.org/web/20051214081807id_/http%3A//garfield.com/termsofuse.html). 
 
 **Refer a Friend.** If a user elects to use our referral service for informing a friend about our site or particular features or content, we ask them for the friend's name and e-mail address. uclick will automatically send the friend a one-time email inviting them to visit an uclick Site. uclick stores this information for the sole purpose of sending this one-time email. The friend may contact uclick to request the removal of this information from their database. 
 
@@ -142,6 +142,6 @@ Kansas City, MO 64111 USA
 
 **_Acceptance of Privacy Statement._**
 
-Your use of the uclick Sites, including any dispute concerning privacy, is subject to this Privacy Statement and uclick's Terms and Conditions of Use. [By using the uclick Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use](https://web.archive.org/web/20050305121429id_/http%3A//www.garfield.com/termsofuse.html). We reserve the right to modify this Privacy Statement at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the uclick Sites following posting of the updated Privacy Statement will constitute your acceptance of the changes. 
+Your use of the uclick Sites, including any dispute concerning privacy, is subject to this Privacy Statement and uclick's Terms and Conditions of Use. [By using the uclick Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use](https://web.archive.org/web/20051214081807id_/http%3A//garfield.com/termsofuse.html). We reserve the right to modify this Privacy Statement at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the uclick Sites following posting of the updated Privacy Statement will constitute your acceptance of the changes. 
 
 © 2005 Paws. All Rights Reserved.
