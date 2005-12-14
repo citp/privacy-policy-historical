@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the midfirst.com privacy policy that was archived on 2005-03-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050306002812id_/http%3A//www.midfirst.com/Inside/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the midfirst.com privacy policy that was archived on 2005-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214131810id_/http%3A//midfirst.com/Inside/Privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script language="JavaScript" type="text/javascript">
 <!--
@@ -14,45 +14,64 @@
 <script language="JavaScript">
 //send to function for graphic "app" for loan application and "mort" for MortgageBot link or "" for close only graphic
 function openWin(win,graphic) {
-	window.open("/Calculators/Calcm2.asp?openWin=" + win + "&graphic=" + graphic,"MidFirst","left=25,top=5,width=525,height=550,scrollbars=yes,resizable=yes");
+	window.open("http://www.midfirst.com/Calculators/Calcm2.asp?openWin=" + win + "&graphic=" + graphic,"MidFirst","left=25,top=5,width=525,height=550,scrollbars=yes,resizable=yes");
 }
 function openVisa(x){
 	//more information link
 	//window.open("http://www.firstusa.com/cgi-bin/webcgi/webserve.cgi?partner_dir_name=midfirst&page=cont&mkid=" + x,"FirstVISA","","");
 	if (x == "6QX1"){
-		window.open("/Exit/MoreVisaInformation.htm","FirstVISA","","");
+		window.open("http://www.midfirst.com/Exit/MoreVisaInformation.htm","FirstVISA","","");
 	}
 	if (x == "6QX2"){
-		window.open("/Exit/MoreVisaInformation2.htm","FirstVISA","","");
+		window.open("http://www.midfirst.com/Exit/MoreVisaInformation2.htm","FirstVISA","","");
 	}
 }
 function openVisa2(){
 	//apply link
 	//window.open("https://app.firstusa.com/ICBatch/?PID=MFB1&SPID=5YQH&CELL=6QX1&AFFID=&CLICK=&CID=&PROMO=DF01","FirstVISA","","");
-	window.open("/Exit/PersonalVisaApplication.htm","FirstVISA","","");
+	window.open("http://www.midfirst.com/Exit/PersonalVisaApplication.htm","FirstVISA","","");
 }
 function exitToOnlineBanking()
 {
-	window.open("https://cib.ibanking-services.com/cib/login.jsp?FIORG=731&FIFID=303087995", "OnlineBanking","location=yes,status=yes,toolbar=yes, url=yes,scrollbars=yes, menu=yes, width=800, height=600, resizable=yes");
-	//this.location = "https://cib.ibanking-services.com/cib/login.jsp?FIORG=731&FIFID=303087995";
+	window.open("https://www.midfirst.com/OnlineBanking/Login.asp", "OnlineBanking","location=yes,status=yes,toolbar=yes, url=yes,scrollbars=yes, menu=yes, width=800, height=600, resizable=yes");
+	//this.location = "https://www.midfirst.com/OnlineBanking/Login.asp";
 }
 
 function exitCapitalConnect()
 {
-	window.open("/Exit/CapitalConnect.htm", "CapitalConnect");
+	window.open("http://www.midfirst.com/Exit/CapitalConnect.htm", "CapitalConnect");
 }
 function openLoanPage(strURL)
 {
-	window.open("/Loans/Details/" + strURL, "Loans");
+	window.open("http://www.midfirst.com/Loans/Details/" + strURL, "Loans");
+
+}
+function openPage(strURL)
+{
+	location.href = "http://www.midfirst.com" + strURL;
 
 }
 function openAccountApp()
 {
-	window.open("/AccountApplication/Index.aspx","AccountApp","menu=no, width=750, scrollbars=yes, height=650, resizable=yes, status=yes");
+	window.open("https://www.midfirst.com/AccountApplication/Index.aspx","AccountApp","menu=no, width=750, scrollbars=yes, height=650, resizable=yes, status=yes");
+
+}
+function ftnGoToSecurity()
+{
+	window.location = "http://www.midfirst.com/Security/Index.asp";
 
 }
 
+function openStateDetail(strDetail)
+{
+	window.open('/Details/Index.asp?ID=' + strDetail,'StateSelect','width=400,height=300,title=no,menubar=no,toolbar=no,scrollbars=no,directories=no,status=no,address=no');
+}
+function openAZ()
+{
+	window.open('/Details/AZATM.asp?','AZ','width=400,height=300,title=no,menubar=no,toolbar=no,scrollbars=no,directories=no,status=no,address=no');
+}
 </script>
+
 <script language="JavaScript1.2" type="text/javascript">
 <!--
 
@@ -144,7 +163,7 @@ a:hover {color:Red}
 
 -->
 </style>
-</head><body link="#0000FF" vlink="#800080" onload="javascript:document.frmLogin.userid.focus();" bgcolor="White" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><input type="Hidden" name="subs" size="20" value="Iinside">
+</head><body link="#0000FF" vlink="#800080" bgcolor="White" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><input type="Hidden" name="subs" size="20" value="Iinside">
 <script>
 
 // (C) 2000 www.CodeLifter.com
@@ -206,6 +225,11 @@ if (parent.frames.length > 0) {
 	function remitOne()
 	{
 		window.open('/Exit/RemitOne.htm', 'remitONE');	
+	}
+	function payrollCards()
+	{
+		window.open('/Exit/OnlinePaycard.htm', 'PayRollCards');	
+	
 	}
 </script>
 <script language="JavaScript">
@@ -280,11 +304,11 @@ if (parent.frames.length > 0) {
 	</tr>
 	<tr valign="top">
 		<td><img src="/images/shim.gif" width="3" height="1" border="0"></td>
-		<!--td width="125"  background="/images/background4.jpg" height=700><p align="center"><img src="/Rotation/pic07.jpg"><br-->
-		<!--td width="125" background="/images/bar.gif" height=700><p align="center"><img src="/Rotation/pic07.jpg"><br-->
-		<td width="125" bgcolor="navy" height="700"><p align="center"><img src="/Rotation/pic04.jpg"><br>
-		<font face="Times New Roman" color="white" size="1">Saturday, March 05, 2005<br></font>
-		<font face="Times New Roman" color="white" size="1">6:31:43 PM&nbsp;CST</font></p>
+		<!--td width="125"  background="/images/background4.jpg" height=700><p align="center"><img src="/Rotation/pic06.jpg"><br-->
+		<!--td width="125" background="/images/bar.gif" height=700><p align="center"><img src="/Rotation/pic05.jpg"><br-->
+		<td width="125" bgcolor="navy" height="700" valign="top"><p align="center"><img src="/Rotation/pic03.jpg"><br>
+		<font face="Times New Roman" color="white" size="1">Wednesday, December 14, 2005</font>
+		<!--font face="Times New Roman" color="white" size="1">&nbsp;</FONT--></p>
 
 			<script language="javascript">
 function demoLogin()
@@ -296,19 +320,20 @@ function demoLogin()
 
 function submitToOnlineBanking()
 {
-	if (document.frmLogin.userid.value=="")
-		{
-			alert("You must provide your Internet Banking ID to login to Online Banking");
-			document.frmLogin.userid.focus();
-			return false;
-		}
-	if (document.frmLogin.password.value=="")
-		{
-			alert("You must provide your Password to login to Online Banking");
-			document.frmLogin.password.focus();
-			return false;
-		
-		}
+
+//	if (document.frmLogin.userid.value=="")
+//		{
+//			alert("You must provide your Internet Banking ID to login to Online Banking");
+//			document.frmLogin.userid.focus();
+//			return false;
+//		}
+//	if (document.frmLogin.password.value=="")
+//		{
+//			alert("You must provide your Password to login to Online Banking");
+//			document.frmLogin.password.focus();
+//			return false;
+//		
+//		}
 	document.frmLogin.submit();
 }
 function imageIn()
@@ -366,49 +391,57 @@ if (key == "13")
 		return false;
 	}	
 	else
+	
 	{
 		document.frmLogin.submit();	
 	}
 }
 }
 </script>
-
-
-<form name="frmLogin" id="frmLogin" method="Post" action="https://cib.ibanking-services.com/cib/login.jsp?FIORG=731&amp;FIFID=303087995">
+<span class="MenuHeadingCenter">iManage</span>
+<span class="MenuHeading">&nbsp;Internet Banking</span>
+<br>&nbsp;&nbsp;&nbsp;<a href="http://www.midfirst.com/Demo/OnlineBanking/" target="_blank" class="nav">Demo</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="https://cib.ibanking-services.com/cib/themes/cib_enroll/enroll/enroll.jsp?FIORG=731&amp;FIFID=303087995" class="nav">Apply Online</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="http://www.midfirst.com/More/faq.asp" class="nav">FAQ</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="javascript:ftnGoToSecurity();" onmouseover="javascript:window.status='Protect yourself from identity theft!';return true;" onmouseout="javascript:window.status='';return true;" class="nav">Internet Security</a>
+<table border="0" width="100%" class="Login-Form">
+<!--<form name="frmLogin" id="frmLogin" Method="Post" Action="https://www.midfirst.com/OnlineBanking/Login.asp">
 	<input type="hidden" name="action" id="action" value="validate">
-	<table border="0" width="100%" class="Login-Form">
-		<tbody><tr>
+	
+		
+		<tr>
 			<td>Internet Banking ID:</td>
 		</tr>	
 		<tr>
-			<td align="Center"><input type="Text" name="userid" id="userid" onkeypress="javascript:keyPress('userid');" size="16" class="Small-Textbox" tabindex="1"></td>
+			<td align="Center"><input type="Text" name="userid" ID="userid" onKeyPress="javascript:keyPress('userid');" size="16" class="Small-Textbox" tabindex="1" AUTOCOMPLETE="off"></td>
 		</tr>
 		<tr>
 			<td>Password:</td>
 		</tr>
-			
-			<tr><td align="center"><input type="password" onkeypress="javascript:keyPress('password');" name="password" id="password" size="16" class="Small-Textbox" tabindex="2"></td>
+		</tr>	
+			<td align="center"><input type="password" onKeyPress="javascript:keyPress('password');" name="password" id="password" size="16" class="Small-Textbox" tabindex="2" AUTOCOMPLETE="off"></td>
 		</tr>
-		<tr>
+	</form>	-->
+	
+		<tbody><tr>
 			<td align="center">
 				<table border="0" width="100%">
 					<tbody><tr>
 						<td width="33%">&nbsp;</td>
 						<td width="33%" align="center">
-							<img name="imgButton" id="imgButton" class="ImageLink" tabindex="3" src="/Images/OnLineBanking/LoginButton2.jpg" lowsrc="/images/OnlineBanking/LoginButtonPush.jpg" onmouseout="javascript:imageIn();" onblur="javascript:imageIn();" onmousedown="javascript:imageOut();" onkeypress="javascript:imageOut();submitToOnlineBanking();return false;" onclick="javascript:submitToOnlineBanking();return false;" width="59" height="26">
+							<a href="https://www.midfirst.com/OnlineBanking/Login.asp">
+							<img name="imgButton" id="imgButton" class="ImageLink" tabindex="1" src="/Images/OnLineBanking/LoginButton2.jpg" lowsrc="/images/OnlineBanking/LoginButtonPush.jpg" border="0" width="59" height="26">
+							<!--<img name="imgButton" id="imgButton" class="ImageLink" tabindex="3" src="/Images/OnLineBanking/LoginButton2.jpg" lowsrc="/images/OnlineBanking/LoginButtonPush.jpg" onMouseout="javascript:imageIn();" onBlur="javascript:imageIn();" onMouseDown="javascript:imageOut();" onKeyPress="javascript:imageOut();submitToOnlineBanking();return false;" onClick="javascript:submitToOnlineBanking();return false;" WIDTH="59" HEIGHT="26">-->
+							</a>
 						</td>
-						<td width="33%" align="center"><img src="/images/OnLineBanking/LOCK5.jpg" border="0" onclick="javascript:openSecurity();" class="ImageLink" width="15" height="19"></td>
+						<td width="33%" align="center"><!--<img SRC="/images/OnLineBanking/LOCK5.jpg" border="0" onClick="javascript:openSecurity();" class="ImageLink" WIDTH="15" HEIGHT="19">--></td>
 					</tr>
 				</tbody></table>			
 			</td>
 		</tr>			
-	</tbody></table>
-</form>
-<span class="MenuHeading">Internet Banking</span>
-<br>&nbsp;&nbsp;&nbsp;<a href="/Demo/OnlineBanking/" target="_blank" class="nav">Demo</a>
-<br>&nbsp;&nbsp;&nbsp;<a href="https://cib.ibanking-services.com/cib/themes/cib_enroll/enroll/enroll.jsp?FIORG=731&amp;FIFID=303087995" class="nav">Apply Online</a>
-<br>&nbsp;&nbsp;&nbsp;<a href="/More/faq.asp" class="nav">FAQ</a>
-<br>
+	
+
+</tbody></table>
 
 <br>
 <span class="MenuHeading">&nbsp;Inside MidFirst</span>
@@ -452,9 +485,9 @@ if (key == "13")
 
    </td>
    <td valign="top">
-		<span><img src="/images/topbar.jpg" width="449" height="13"><a href="/index.asp"><img src="/images/search.jpg" width="59" height="13" border="0"></a><a href="/More/Contact.asp"><img src="/images/contact.jpg" width="79" height="13" border="0"></a><a href=" "><img src="/images/login.jpg" width="63" height="13" border="0" onmouseover="popUp('elMenu7',event); " onmouseout="popDown('elMenu7');"></a></span><br>
-      <img name="area1" src="/images/area01a.jpg" width="134" height="80" border="0"><a href="/index.asp" target="_top"><img name="area2" src="/images/area02a.jpg" width="127" height="80" border="0"><img name="area3" src="/images/area03a.jpg" width="127" height="80" border="0"><img name="area4" src="/images/area04a.jpg" width="128" height="80" border="0"><img name="area5" src="/images/area05a.jpg" width="134" height="80" border="0"><br>  
-		</a><a href="/PersonalBanking/index.asp" onmouseover="popUp('elMenu1',event); selectA1();" onmouseout="popDown('elMenu1'); selectA1z();"><img name="button1" src="/images/button1a.jpg" height="23" border="0"></a><a href="/business/" onmouseover="popUp('elMenu2',event); selectA2();" onmouseout="popDown('elMenu2'); selectA2z();"><img src="/images/button2a.jpg" height="23" border="0" name="button2"></a><a href="/investments/" onmouseover="popUp('elMenu3',event); selectA3();" onmouseout="popDown('elMenu3'); selectA3z();"><img src="/images/button3a.jpg" height="23" border="0" name="button3"></a><a href="/loans/" onmouseover="popUp('elMenu4',event); selectA4();" onmouseout="popDown('elMenu4'); selectA4z();"><img src="/images/button4a.jpg" height="23" border="0" name="button4"></a><a href="/Inside/" onmouseover="popUp('elMenu5',event); selectA5();" onmouseout="popDown('elMenu5'); selectA5z();"><img src="/images/button5b.jpg" height="23" border="0" name="button5"></a><a href="/More/" onmouseover="popUp('elMenu6',event); selectA6();" onmouseout="popDown('elMenu6'); selectA6z();"><img src="/images/button6a.jpg" height="23" border="0" name="button6"></a><br> 
+		<span><img src="/images/topbar.jpg" width="449" height="13"><a href="http://www.midfirst.com/index.asp"><img src="/images/search.jpg" width="59" height="13" border="0"></a><a href="http://www.midfirst.com/More/Contact.asp"><img src="/images/contact.jpg" width="79" height="13" border="0"></a><a href="/OnlineBanking/Login.asp "><img src="/images/login.jpg" width="63" height="13" border="0" onmouseover="popUp('elMenu7',event); " onmouseout="popDown('elMenu7');"></a></span><br>
+      <img name="area1" src="/images/area01a.jpg" width="134" height="80" border="0"><a href="http://www.midfirst.com/index.asp" target="_top"><img name="area2" src="/images/area02a.jpg" width="127" height="80" border="0"><img name="area3" src="/images/area03a.jpg" width="127" height="80" border="0"><img name="area4" src="/images/area04a.jpg" width="128" height="80" border="0"><img name="area5" src="/images/area05a.jpg" width="134" height="80" border="0"><br>  
+		</a><a href="http://www.midfirst.com/PersonalBanking/index.asp" onmouseover="popUp('elMenu1',event); selectA1();" onmouseout="popDown('elMenu1'); selectA1z();"><img name="button1" src="/images/button1a.jpg" height="23" border="0"></a><a href="http://www.midfirst.com/business/" onmouseover="popUp('elMenu2',event); selectA2();" onmouseout="popDown('elMenu2'); selectA2z();"><img src="/images/button2a.jpg" height="23" border="0" name="button2"></a><a href="http://www.midfirst.com/investments/" onmouseover="popUp('elMenu3',event); selectA3();" onmouseout="popDown('elMenu3'); selectA3z();"><img src="/images/button3a.jpg" height="23" border="0" name="button3"></a><a href="http://www.midfirst.com/loans/" onmouseover="popUp('elMenu4',event); selectA4();" onmouseout="popDown('elMenu4'); selectA4z();"><img src="/images/button4a.jpg" height="23" border="0" name="button4"></a><a href="http://www.midfirst.com/Inside/" onmouseover="popUp('elMenu5',event); selectA5();" onmouseout="popDown('elMenu5'); selectA5z();"><img src="/images/button5b.jpg" height="23" border="0" name="button5"></a><a href="http://www.midfirst.com/More/" onmouseover="popUp('elMenu6',event); selectA6();" onmouseout="popDown('elMenu6'); selectA6z();"><img src="/images/button6a.jpg" height="23" border="0" name="button6"></a><br> 
   
       <table width="620" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
@@ -637,15 +670,18 @@ adhere to the information practices as described in this notice.</i></p>
 
 <table width="745" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
-      <td width="100%" align="center" valign="middle"><font size="1" face="Arial, Helvetica, sans-serif"><a href="/index.asp">Home
-        Page</a> | <a href="/PersonalBanking/">Personal Banking</a> | <a href="/Business/">Business Banking</a>
-        | <a href="/Loans/">Rapid Loans</a> | <a href="/Investments/">Investment Services</a> | <a href="/Inside/">Inside MidFirst</a>
-        | <a href="/More/">More...</a><br><a href="/More/Contact.asp">Contact Us</a> |
-        <a href="https://cib.ibanking-services.com/cib/login.jsp?FIORG=731&amp;FIFID=303087995" target="_blank">Login</a> | <a href="/Inside/Privacy.asp">Privacy Statement</a> | <a href="/Inside/Terms.asp">Terms of Use</a><br><br> </font></td>
+      <td width="100%" align="center" valign="middle"><font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.midfirst.com/index.asp">Home
+        Page</a> | <a href="http://www.midfirst.com/PersonalBanking/">Personal Banking</a> | <a href="http://www.midfirst.com/Business/">Business Banking</a>
+        | <a href="http://www.midfirst.com/Loans/">Rapid Loans</a> | <a href="http://www.midfirst.com/Investments/">Investment Services</a> | <a href="http://www.midfirst.com/Inside/">Inside MidFirst</a>
+        | <a href="http://www.midfirst.com/More/">More...</a><br><a href="http://www.midfirst.com/CareerCenter/">Career Center</a> | <a href="http://www.midfirst.com/More/Contact.asp">Contact Us</a> |
+        <a href="https://www.midfirst.com/OnlineBanking/Login.asp">Login</a> | <a href="http://www.midfirst.com/Inside/Privacy.asp">Privacy Statement</a> | <a href="http://www.midfirst.com/Inside/Terms.asp">Terms of Use</a><br><br> </font></td>
     </tr>
 </tbody></table>
 
+ 
   <table border="0" cellpadding="0" cellspacing="0" width="750" align="left">
+  
+
     <tbody><tr>
       <td>
         <p align="center"><font face="Verdana" size="1" color="#000080">Copyright © 2005
