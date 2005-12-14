@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the amd.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611202343id_/http%3A//www.amd.com/us-en/Privacy/0%2C%2C1435_1437%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amd.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214123030id_/http%3A//www.amd.com/us-en/Privacy/0%2C%2C1435_1437%2C00.html) for the most accurate reproduction.*
 
 # Privacy
 
 **Privacy**
 
- **Privacy**
+Last revised August 1, 2002
 
 **Advanced Micro Devices Privacy Overview**   
-Advanced Micro Devices (AMD) is committed to respecting your privacy. In general, you can visit amd.com without revealing any information about yourself. AMD and its analytic vendors do collect information regarding visitors to our Web site, such as domain name, number of visits, and average time spent, to measure use and improve the content of our site. We analyze this data for trends and statistics to help us provide you with better service. 
+Advanced Micro Devices (AMD) is committed to respecting your privacy. In general, you can visit amd.com without revealing any information about yourself. AMD and its analytic vendors do collect information regarding visitors to our Web site, such as domain name, number of visits,and average time spent to measure use and improve the content of our site. We analyze this data for trends and statistics to help us provide you with better service. 
 
 Our Web site may provide links to third party sites. Since we do not control those Web sites, we encourage you to review the privacy policies of these third party sites. AMD is not responsible for the privacy practices or content of third party web sites. 
 
@@ -28,5 +28,5 @@ Some AMD Web sites may also use “Web beacon” technologies. When a visitor ac
 If you turn off cookies, Web beacon technologies will still detect anonymous visits, but the notices they generate cannot be associated with other anonymous information or personally-identifiable information and are disregarded. 
 
 **Oversight or Questions**   
-AMD welcomes comments and questions on this policy. As stated above, we are dedicated to protecting your privacy and will make every reasonable effort to keep your information secure. Due to the rapidly evolving changes on the Internet, we may update this policy. All revisions will be posted to this site. Questions regarding our policy should be directed to [web.feedback@amd.com](mailto:web.feedback@amd.com).   
+AMD welcomes comments and questions on this policy. As stated above, we are dedicated to protecting your privacy and will make every reasonable effort to keep your information secure. Due to the rapidly evolving changes on the Internet, we may update this policy. All revisions will be posted to this site. Comments and questions regarding our policy should be directed to [privacy.policy@amd.com](mailto:privacy.policy@amd.com).   
 
