@@ -1,38 +1,6 @@
-> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223112158id_/http%3A//www.prepme.com/privPol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214201417id_/http%3A//www.prepme.com/about/privacy.htm) for the most accurate reproduction.*
 
-# PREPME.COM :: Privacy Policy
-
-  
-|   
----  
-|  |  |  |   
-|  | 
-
-Tip of the Day 
-
-Get recommendations mainly from 11th and 12th grade teachers. Only get recs from previous teachers, coaches, mentors, or supervisors if your performance in their presence was exceptional. 
-
-|  |   
-|  |  |  |   
-  
-  
----  
-|  |  |  |   
-|  | 
-
-Featured Article: 
-
-[The College Visit](https://web.archive.org/web/20041223112158id_/http%3A//www.prepme.com/articles/the_college_visit.html)  
-
-
-Find out why visiting colleges is important and how to have a successful trip.
-
-  
-|  |   
-|  |  |  |   
-|  |  | 
-
-PRIVACY POLICY
+# PrepMe - Test Prep
 
 We at PrepMe Corporation and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information you share with us. 
 
@@ -43,5 +11,3 @@ PrepMe's services are not intended to be used by children under 13 years of age 
 If you choose to provide us with your personal information on this site, we may transfer that information within PrepMe, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. 
 
 PrepMe strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, we intend to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
-
-| 
