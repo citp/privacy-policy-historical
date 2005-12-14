@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech4learning.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207120856id_/http%3A//www.tech4learning.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech4learning.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214112824id_/http%3A//www.tech4learning.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Tech4Learning - Privacy Policy
 
