@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303170933id_/http%3A//www.cutleryandmore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214100926id_/http%3A//www.cutleryandmore.com/privacy.asp) for the most accurate reproduction.*
 
 # CutleryAndMore.com: Wusthof Knives, All Clad Cookware, Henckels Cutlery, Calphalon, Le Creuset, John Boos & More.
 
@@ -6,16 +6,18 @@
 ---|---|---  
 | 
 
-| [](https://web.archive.org/cutlery/)| [](https://web.archive.org/kitchenware.htm)| [](https://web.archive.org/cookware.htm)| | [](https://web.archive.org/bakeware/)| | [](https://web.archive.org/tools/)| | [](https://web.archive.org/electrics/)| | [](https://web.archive.org/barware/) |   
----|---|---|---|---|---|---|---|---|---|---|---|---  
+| [](https://web.archive.org/cutlery/)| [](https://web.archive.org/kitchenware.htm)| [](https://web.archive.org/cookware.htm)| | [](https://web.archive.org/bakeware/)| | [](https://web.archive.org/tools/)| | [](https://web.archive.org/electrics/)| | [](https://web.archive.org/barware/) |  |    
+---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |  |   
 ---  
+[](https://web.archive.org/shop/brands.asp)  
+   
   
 
 
-[](https://web.archive.org/details.asp?SKU=6089)  
+[](https://web.archive.org/sabatier.htm)  
   
-| [](https://web.archive.org/shipping.asp)
+|  [](https://web.archive.org/shipping.asp)
 
 CutleryAndMore.com: Wusthof Knives, All Clad Cookware, Henckels Cutlery, Calphalon, Le Creuset, John Boos & More. | 
 
@@ -45,8 +47,11 @@ CutleryAndMore.com
 Elk Grove, IL 60007  
 [info@cutleryandmore.com](mailto:info@cutleryandmore.com)  
   
-[](http://www.bizrate.com/ratings_guide/cust_reviews__mid--19684.html)   
- 
+  
+[](http://www.bizrate.com/merchant/coe__mid--19684.html)  
+[](http://www.bizrate.com/ratings_guide/cust_reviews__mid--19684.html)
 
 |   
-© 2004 CutleryAndMore.com| | 
+| |   
+| |   
+© 2005 CutleryAndMore.com| | 
