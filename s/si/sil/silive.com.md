@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418061709id_/http%3A//www.silive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215004036id_/http%3A//www.silive.com/privacypolicy) for the most accurate reproduction.*
 
 # SILive.com: Privacy Policy
 
@@ -74,7 +74,7 @@ INSIDE
   
   
   
-| **FROM OUR SPONSORS**  
+| **SPONSORED LINKS**  
 ---  
 >>    
 >>    
