@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the economist.com privacy policy that was archived on 2002-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021127131124id_/http%3A//www.economist.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economist.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214192521id_/http%3A//www.economist.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Economist.com
 
@@ -23,9 +23,17 @@
 |  |  [Articles by subject](https://web.archive.org/research/articlesBySubject/)  
 [Backgrounders](https://web.archive.org/research/backgrounders/)  
 [Surveys](https://web.archive.org/surveys/)  
+[Economics A-Z](https://web.archive.org/research/Economics/)  
 [Style guide](https://web.archive.org/research/StyleGuide/)  
-[Internet guide](https://web.archive.org/research/InternetGuide/)  
-[Business database](https://web.archive.org/businessDatabase)  
+  
+|  |   
+---|---|---|---|---  
+  
+[ ](https://web.archive.org/business/globalexecutive/)  
+|  |  [Management  
+Reading](https://web.archive.org/business/globalexecutive/reading)  
+[Business Education](https://web.archive.org/business/globalexecutive/education)  
+[Executive Dialogue](https://web.archive.org/business/globalexecutive/dialogue)  
   
 |  |   
 ---|---|---|---|---  
@@ -33,37 +41,74 @@
 [](https://web.archive.org/printedition/)  
 |  |  [](https://web.archive.org/printedition/)  
 [Full contents](https://web.archive.org/printedition/)  
-[Subscriptions](https://web.archive.org/subscriptions)  
+[Past issues](https://web.archive.org/printedition/cover_index.cfm)  
   
 |  |   
 ---|---|---|---|---  
   
-[ ](https://web.archive.org/globalexecutive/)  
-|  |  Executive thinking, business education and more. [Click here](https://web.archive.org/globalexecutive/)  
+  
+|  |  [Free registration](https://web.archive.org/about/moreinfo.cfm)  
+[Web subscriptions](https://web.archive.org/subscriptions/)  
+[Print subscriptions](https://web.archive.org/subscriptions/?print=yes)  
+[Academic offers](https://web.archive.org/academic/)  
+[Gift vouchers](https://web.archive.org/gift/buy_voucher.cfm)  
+[Mobile editions](https://web.archive.org/mobile/)  
+[E-mail alerts](https://web.archive.org/email/)  
+[RSS feeds](https://web.archive.org/rss/)  
   
 |  |   
 ---|---|---|---|---  
   
-[](http://www.economistshop.com/)  
+[](http://www.economistshop.com/asp/default.asp?promotion_code=EW00)  
 |  |  [  
-Books, diaries and more](http://www.economistshop.com/)  
+Books, diaries and more](http://www.economistshop.com/asp/default.asp?promotion_code=EW00)  
   
 |  |   
 ---|---|---|---|---  
   
 [](https://web.archive.org/classifieds/)  
-|  |  Business education, recruitment, business and personal: [click here](https://web.archive.org/classifieds)  
+|  |  Business Recruitment, Tenders, Franchise Opportunities, Properties: [click here](https://web.archive.org/classifieds)  
   
 |  |   
 ---|---|---|---|---  
   
-[](https://web.archive.org/index.cfm)  
+  
+|  |  [](http://www.economistgroup.com/)  
+[The Economist Intelligence Unit](http://store.eiu.com/index.asp)
+
+[Economist Conferences](http://www.economistconferences.com/)
+
+[The World In](http://www.theworldin.com/)
+
+[Intelligent Life](https://web.archive.org/intelligentlife)
+
+[CFO](http://www.cfo.com/)
+
+[Roll Call](http://www.rollcall.com/)
+
+[European Voice](http://www.european-voice.com/)
+
+[Economist Diaries and Business Gifts](http://www.economistshop.com/)  
+
+
+|  |   
+---|---|---|---|---  
+  
+[](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_The_Economist)  
 |  |  [Economist.com](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_Economistcom)  
 [The Economist](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_The_Economist)  
 [Global Agenda](https://web.archive.org/help/DisplayHelp.cfm?folder=663358#What_is_The_Global_Agenda)  
 [Contact us](https://web.archive.org/help/DisplayHelp.cfm?folder=663392)  
+[Media Directory](https://web.archive.org/mediadirectory)  
 [Advertising info](http://ads.economist.com/)  
-[](http://mmm.economist.com/jobs)  
+[Job opportunities](http://mmm.economist.com/jobs/index.html)  
+  
+|  |   
+---|---|---|---|---  
+  
+[](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_The_Economist)  
+|  |  [Media Directory](https://web.archive.org/mediadirectory)  
+[Staff Books](https://web.archive.org/mediadirectory/books.cfm)  
   
 |  |   
 ---|---|---|---|---  
@@ -74,15 +119,6 @@ Books, diaries and more](http://www.economistshop.com/)
 Economist.com, part of The Economist Newspaper Limited, is committed to protecting the privacy of its users. The following outlines our privacy and data protection policy. 
 
 Third party partners of Economist.com and other websites you may access via Economist.com have different privacy policies and are not subject to this privacy policy. We recommend that you read the privacy statement of each such website to find out how they protect your personal information. 
-
-**Economist.com Business Marketplace**   
-The [Economist.com Business Marketplace](http://b2b.economist.com/) is provided by [Newmediary, Inc.](http://www.newmediary.com/) and is covered by their privacy policy which you can find here: 
-
-<http://b2b.economist.com/help/privacy.asp>. 
-
-Its use is governed by their usage rules which you can find here: 
-
-<http://b2b.economist.com/help/usage.asp>. 
 
 **Collection and Use of User Details**   
 When you register at Economist.com, we collect personal details about you. 
@@ -152,20 +188,6 @@ Given that the Internet is a global environment, using the Internet to collect a
 
 **Updating Customer Details**  
 It is important to us that we have your correct contact information so that you don't miss out on further correspondence or experience problems with the delivery of products. 
-
-**Global Executive Self-Assessment Questionnaires**  
-If you complete a Global Executive Self-Assessment questionnaire, we will collect personal details about you and the answers you submit. This is to enable us to provide scores and personalised reports and to enable you to re-start the questionnaire within 24 hours of first taking the test. 
-
-After 24 hours, your answers will be anonymised and they may then be used for research and analysis purposes, particularly to help us and our suppliers improve the quality of the questionnaires. 
-
-Should you want to anonymise your data sooner, a link is provided throughout the Self-Assessment pages for this purpose.
-
-****
-
-**Forums**  
-Economist.com works with a third party, Infopop Corporation ([http://www.infopop.com](http://www.infopop.com/)), to bring you forums on different parts of the site. The forums operate on Infopop's computers and when you use them, you are actually on an Infopop website that has been customised for users of Economist.com and is managed by Economist.com. 
-
-In order to post comments and responses on the forum, you must be registered and logged into Economist.com and also logged into Infopop. To achieve this, Economist.com must pass your name and e-mail address to the Infopop site where you will be automatically logged in. If you just wish only to read the forums, you can do so via a "View messages" link and in that case, none of your registration details will be passed to Infopop. Whether you are posting in or just reading a forum, Infopop will place cookies on your computer to understand better how the service is used and from that be able to improve the product. The information collected using these cookies will not identify you personally. You can find more information on Infopop's privacy policy [here](http://www.infopop.com/aboutus/legal.html).
 
 **Children Under 13**  
 The Economist Group does not intentionally collect any personally identifiable information from individuals under the age of 13. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected. 
