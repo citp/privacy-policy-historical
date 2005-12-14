@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the advanstarhealthcare.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527052122id_/http%3A//www.advanstarhealthcare.com/hcg/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanstarhealthcare.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214194844id_/http%3A//www.advanstarhealthcare.com/hcg/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Healthcare Group - Privacy Policy
-
-| 
 
 **Advanstar Communications Inc.** (“Advanstar”) has created this privacy statement to demonstrate our firm commitment to fully disclosing the information collection and use practices applicable to this website. This privacy statement discloses what information we collect via this website and how we use it. 
 
@@ -61,7 +59,3 @@ Advanstar reserves the right, at any time and without notice, to add to, change,
 ###  **Your Acceptance of these Terms**
 
 By using our website, products or services, you signify your acceptance of the terms of the Advanstar Privacy Policy. If you do not agree to the terms of the Advanstar Privacy Policy, please do not use the website, products and/or services and exit the site immediately. 
-
-|   
-  
----|---|---
