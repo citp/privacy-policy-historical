@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovefreegames.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624031913id_/http%3A//lovefreegames.aavalue.com/lfg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovefreegames.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214101857id_/http%3A//lovefreegames.aavalue.com/lfg/privacy.html) for the most accurate reproduction.*
 
 # Advertisers Clearinghouse™ Privacy Policy
 
@@ -46,6 +46,6 @@ LoveFreeGames™ is committed to strict compliance with the Children's Online Pr
 
 **Your Acceptance of this Privacy Policy**
 
-By using this Website, you agree to the LoveFreeGames™ Privacy Policy. We reserve the right, at our sole discretion, to change, modify, add or remove portions of this policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check this page periodically for changes. Your continued use of the LoveFreeGames™ Website or acceptance of e-mails following the posting of changes to these terms will mean that you accept such changes. If you do not agree to the terms of this Privacy Policy, you may not use and/or access the Website. 
+By using this Website, you agree to the LoveFreeGames™ Privacy Policy. We reserve the right, at our sole discretion, to change, modify, add or remove portions of this policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check this page periodically for changes. Your continued use of the LoveFreeGames™ Website or acceptance of e-mails following the posting of changes to these terms will mean that you accept such changes. If you do not agree to the terms of this Privacy Policy, you may not use and/or access the Website. You may unsubscribe at any time by sending an email to [unsubscribe@lovefreegames.com](mailto:unsubscribe@lovefreegames.com). 
 
 For questions solely relating to this Privacy Policy or LoveFreeGames™'s privacy practices, please contact us at: [privacy@traffixinc.com](mailto:privacy@traffixinc.com). 
