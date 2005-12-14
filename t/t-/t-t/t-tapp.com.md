@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the t-tapp.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/faq/showquestion.asp%3Ffaq%3D3%26fldAuto%3D25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-tapp.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/faq/showquestion.asp%3Ffaq%3D3%26fldAuto%3D25) for the most accurate reproduction.*
 
 # Help Desk - T-Tapp.com
 
 | 
 
-**[home](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/home)  
-[cellulite control](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/home/cellulite.asp)  
-[the workout](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/home/weightloss.asp)  
-[articles & exercises](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/articles/)  
-[success stories](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/success/)  
-[newsletter](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/newsletter/)  
-[mommy fitness](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/mommyfitness/default.asp)  
-[t-tapp team](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/team/)  
-[forums](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/forum/default.asp)  
-[events](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/events/default.asp)  
-[help desk](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/help/)  
-[store](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/store/default.asp)  
+**[home](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/home)  
+[cellulite control](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/home/cellulite.asp)  
+[the workout](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/home/weightloss.asp)  
+[articles & exercises](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/articles/)  
+[success stories](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/success/)  
+[newsletter](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/newsletter/)  
+[mommy fitness](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/mommyfitness/default.asp)  
+[t-tapp team](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/team/)  
+[forums](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/forum/default.asp)  
+[events](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/events/default.asp)  
+[help desk](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/help/)  
+[store](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/store/default.asp)  
 ** |  | 
 
   
@@ -58,4 +58,4 @@ Safety Harbor, FL 34695
 
 [webmaster@T-Tapp.com](mailto:webmaster@t-tapp.com)
 
-[<<< Back to Help Desk](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/faq/showfaq.asp?fldAuto=3)
+[<<< Back to Help Desk](https://web.archive.org/web/20051214235916id_/http%3A//www.t-tapp.com/faq/showfaq.asp?fldAuto=3)
