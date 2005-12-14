@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrdc.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305220043id_/http%3A//www.nrdc.org/action/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrdc.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214042354id_/http%3A//www.nrdc.org/action/privacy.asp) for the most accurate reproduction.*
 
 # NRDC Privacy Policy
 
