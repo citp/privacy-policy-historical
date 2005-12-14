@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyusa.gov privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407220440id_/http%3A//www.buyusa.gov/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyusa.gov privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214115333id_/http%3A//www.buyusa.gov/home/privacy.html) for the most accurate reproduction.*
 
 # U.S. Commercial Service Your Global Business Partner: Privacy Policy
 
