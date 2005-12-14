@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biblegateway.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420000854id_/http%3A//www.biblegateway.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblegateway.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214094841id_/http%3A//biblegateway.com/privacy.php) for the most accurate reproduction.*
 
-# BibleGateway.com: Privacy policy
+# BibleGateway.com: A searchable online Bible in over 35 languages and 50 versions.- Privacy policy
 
 The Bible Gateway respects your privacy, and will never share your email address or other personal information with any third party. 
 
