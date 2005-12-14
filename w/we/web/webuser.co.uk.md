@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webuser.co.uk privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404173546id_/http%3A//www.webuser.co.uk/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuser.co.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214113323id_/http%3A//www.webuser.co.uk/about/privacy.php) for the most accurate reproduction.*
 
 # Web-User - The UK's biggest selling internet magazine
 
