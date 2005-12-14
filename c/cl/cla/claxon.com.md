@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claxon.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407001314id_/http%3A//www.claxon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claxon.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214234210id_/http%3A//claxon.com/privacy.html) for the most accurate reproduction.*
 
 # Claxon Media
 
@@ -12,7 +12,11 @@ The websites owned or controlled by Claxon Media may ask for and collect persona
 Questions or comments about Claxon Media or about our privacy policy should be directed as follows:  
 by e-mail: [privacy@claxon.com](mailto:privacy@claxon.com)  
 by writing to us at:  
-Claxon Media 51 North Third St. PO Box 169 Philadelphia, PA 19106 Attention: Privacy 
+Claxon Media  
+14000 Commerce Parkway  
+Suite G  
+Mt Laurel, NJ 08054  
+Attention: Privacy 
 
 **SECURITY:**  
 We respect our visitors' privacy. Personally identifiable information can be accessed and updated by the visitor during and after the registration process with the assistance of a Claxon Media customer service representative. Security is provided concerning credit card information, names, addresses, e-mail addresses and any other personal information that visitors may provide. Although "guaranteed security" does not exist either on or off the Internet, we safeguard our visitors' personally identifiable information by using industry standard practices. Currently, our websites utilize a variety of different security measures designed to protect personally identifiable information from unauthorized access by users both inside and outside Claxon Media, including the use of 56-bit encryption based on a Class 3 Digital Certificate issued by Thawte. This allows for utilization of Secure Sockets Layer, which is a method for encrypting data. This protects confidential information - such as credit card numbers, online forms, and financial data - from loss, misuse, interception and hacking. Third party websites that are accessed through links on our websites have separate privacy and data collection practices, and security measures. We have no responsibility or liability for the practices, policies and security measures implemented by third parties on their websites. We encourage you to contact them to ask questions about their privacy practices, policies and security measures before disclosing personal information. 
@@ -21,9 +25,9 @@ Questions or comments about Claxon Media or about our privacy policy should be d
 by e-mail: [privacy@claxon.com](mailto:privacy@claxon.com)  
 by writing to us at:  
 Claxon Media  
-51 North Third St.  
-PO Box 169  
-Philadelphia, PA 19106  
+14000 Commerce Parkway  
+Suite G  
+Mt Laurel, NJ 08054  
 Attention: Privacy 
 
 **COOKIES AND INVISIBLE PIXELS:**  
@@ -41,9 +45,9 @@ Questions or comments about Claxon Media or about our privacy policy should be d
 by e-mail: [privacy@claxon.com](mailto:privacy@claxon.com)  
 by writing to us at:  
 Claxon Media  
-51 North Third St.  
-PO Box 169  
-Philadelphia, PA 19106  
+14000 Commerce Parkway  
+Suite G  
+Mt Laurel, NJ 08054  
 Attention: Privacy 
 
 **EMAIL:**  
@@ -51,11 +55,11 @@ From time to time, Claxon Media asks visitors for their email address in order t
 
 Claxon Media offers our visitors the option to decline these communications. Visitors may contact us to opt-out of such communications as follows:  
 by e-mail: [claxon@claxon.com](mailto:claxon@claxon.com)  
-by phone: 1-215-967-4468  
+by phone: 1-856-642-0130  
 by writing to us at: Claxon Media  
-51 North Third St.  
-PO Box 169  
-Philadelphia, PA 19106
+14000 Commerce Parkway  
+Suite G  
+Mt Laurel, NJ 08054
 
 Once a visitor has opted out, they can choose to opt-in again by changing their profile online or by contacting us in any of the above ways. In cases when a visitor voluntarily provides personal information in response to an email (a survey or purchase form, for example, Claxon Media (or a third party engaged by Claxon Media) will inform the visitor how this information will be used. For example, information may be used so visitors can receive the goods, services or information that was requested. Claxon Media may also use this information in aggregate form to get a better understanding of the type of individuals responding to specific offers. 
 
@@ -66,9 +70,9 @@ Claxon Media offers our visitors the option to decline these communications.
 Visitors may contact us to opt-out of such communications as follows: by e-mail: [privacy@claxon.com](mailto:privacy@claxon.com)  
 by writing to us at:  
 Claxon Media  
-51 North Third St.  
-PO Box 169  
-Philadelphia, PA 19106  
+14000 Commerce Parkway  
+Suite G  
+Mt Laurel, NJ 08054  
 Attention: Privacy 
 
 **SWEEPSTAKES / CONTESTS:**  
@@ -77,9 +81,9 @@ All Claxon Media sweepstakes/contests entry forms will provide a way for partici
 
 Questions or comments about Claxon Media or about our privacy policy should be directed as follows: by e-mail: [privacy@claxon.com](mailto:privacy@claxon.com) by writing to us at:  
 Claxon Media  
-51 North Third St.  
-PO Box 169  
-Philadelphia, PA 19106  
+14000 Commerce Parkway  
+Suite G  
+Mt Laurel, NJ 08054  
 Attention: Privacy 
 
 **RESEARCH:**  
@@ -93,9 +97,9 @@ Questions or comments about Claxon Media or about our privacy policy should be d
 by e-mail: [privacy@claxon.com](mailto:privacy@claxon.com)  
 by writing to us at:  
 Claxon Media  
-51 North Third St.  
-PO Box 169  
-Philadelphia, PA 19106  
+14000 Commerce Parkway  
+Suite G  
+Mt Laurel, NJ 08054  
 Attention: Privacy 
 
 **PERIODIC REVIEW AND MODIFICATIONS:**  
