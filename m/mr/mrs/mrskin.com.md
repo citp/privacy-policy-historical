@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173443id_/http%3A//www.mrskin.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214071605id_/http%3A//www.mrskin.com/privacy.htm) for the most accurate reproduction.*
 
 # Mr. Skin's Privacy Policy
 
@@ -29,11 +29,11 @@ We use this information as follows:
 
 **3.** We ask for your phone number (but it's not required) in the event that our customer service representatives need to contact you and cannot reach you by email. We save the information about products you purchased to provide you with the best possible customer service and the most up-to-date information about your order. Mr. Skin will never call you!
 
-**4.** We use your mailing address not only to ship your orders to you but also to tell you about special offers, available only to MrSkin.com customers and members, that we think will interest you. You can always tell us that you don't want to receive these updates through our [customer service form](https://web.archive.org/web/20050403173443id_/http%3A//www.mrskin.com/contact.htm), and we will remove your name from our mailing list.
+**4.** We use your mailing address not only to ship your orders to you but also to tell you about special offers, available only to MrSkin.com customers and members, that we think will interest you. You can always tell us that you don't want to receive these updates through our [customer service form](https://web.archive.org/web/20051214071605id_/http%3A//www.mrskin.com/contact.htm), and we will remove your name from our mailing list.
 
-**5.** Credit card information is used to bill you for products you have ordered and to track sales. We use iBill, Inc. for these transactions. They are one of the largest and oldest e-commerce billing companies today. Their expertise in making sure that your transaction over the Internet is secure and confidential is unsurpassed in the industry. MrSkin.com will always use the most secure methods for payment available for the safety and comfort of our valued members and visitors.
+**5.** Credit card information is used to bill you for products you have ordered and to track sales. We use CCBill.com, Paycom.net, VXSBill.com and 2000charge.net for these transactions. They are one of the largest and oldest e-commerce billing companies today. Their expertise in making sure that your transaction over the Internet is secure and confidential is unsurpassed in the industry. MrSkin.com will always use the most secure methods for payment available for the safety and comfort of our valued members and visitors.
 
-**6.** The e-mail address members supply us with is never sold to any other website owner or merchant. We hate junk mail as much as you. This is why we will only send you e-mail about items that we feel you should know about. This includes special promotional items that Mr. Skin personally endorses, membership changes, terms and conditions changes, Holiday cards, and as always, the latest happenings on MrSkin.com. If you would like not to be notified by e-mail or would like to change you e-mail address, please send us a note with the [customer service form](https://web.archive.org/web/20050403173443id_/http%3A//www.mrskin.com/contact.htm) and let us know how we can best serve you.
+**6.** The e-mail address members supply us with is never sold to any other website owner or merchant. We hate junk mail as much as you. This is why we will only send you e-mail about items that we feel you should know about. This includes special promotional items that Mr. Skin personally endorses, membership changes, terms and conditions changes, Holiday cards, and as always, the latest happenings on MrSkin.com. If you would like not to be notified by e-mail or would like to change you e-mail address, please send us a note with the [customer service form](https://web.archive.org/web/20051214071605id_/http%3A//www.mrskin.com/contact.htm) and let us know how we can best serve you.
 
 **Credit Card Processing and Security**
 
@@ -45,7 +45,7 @@ Credit-card transactions are handled by a third-party financial institution, whi
 
 **Special Promotional Offers**
 
-From time to time MrSkin.com would like to share with you special promotional offers from other companies, which have been specially screened by us. These offers would provide valuable savings to you. All MrSkin.com customers will be given the opportunity to not receive these offers if they prefer, simply send us a note with the [customer service form](https://web.archive.org/web/20050403173443id_/http%3A//www.mrskin.com/contact.htm) and let us know you would not like to be notified of special offers and promotions.
+From time to time MrSkin.com would like to share with you special promotional offers from other companies, which have been specially screened by us. These offers would provide valuable savings to you. All MrSkin.com customers will be given the opportunity to not receive these offers if they prefer, simply send us a note with the [customer service form](https://web.archive.org/web/20051214071605id_/http%3A//www.mrskin.com/contact.htm) and let us know you would not like to be notified of special offers and promotions.
 
 **How does _MrSkin.com_ protect the privacy of children younger than 18?**
 
