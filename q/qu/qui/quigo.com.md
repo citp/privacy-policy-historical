@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quigo.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404221107id_/http%3A//www.quigo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quigo.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214042935id_/http%3A//quigo.com/privacy.htm) for the most accurate reproduction.*
 
 # Quigo Technologies, Inc. - Content-Targeted Ad Serving and Search Engine Marketing Solutions
 
-Quigo Technologies, Inc. places the utmost importance on the privacy of our clients and their businesses. Below are a few common questions and policies regarding privacy and security that we strictly adhere to. If you have any questions, comments or concerns, please do not hesitate to contact us at [support@quigo.com](mailto:support@quigo.com).
+Quigo, Inc. places the utmost importance on the privacy of our clients and their businesses. Below are a few common questions and policies regarding privacy and security that we strictly adhere to. If you have any questions, comments or concerns, please do not hesitate to contact us at [support@quigo.com](mailto:support@quigo.com).
 
 ### What information does Quigo collect?
 
@@ -36,7 +36,7 @@ Quigo does not share information that is of a personally identifiable nature. We
 
 ### Your consent and changes to the Privacy Policy
 
-By using any of the Quigo services and our Web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms of Service](https://web.archive.org/web/20050404221107id_/http%3A//www.quigo.com/terms.htm). Quigo may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are aware of the information we collect, how we use it, and under what circumstances we disclose it.
+By using any of the Quigo services and our Web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms of Service](https://web.archive.org/web/20051214042935id_/http%3A//quigo.com/terms.htm). Quigo may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
 ### Questions?
 
