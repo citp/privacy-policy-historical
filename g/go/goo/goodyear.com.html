@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goodyear.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403161906id_/http%3A//www.goodyear.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goodyear.com privacy policy that was archived on 2005-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214081440id_/http%3A//www.goodyear.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Goodyear Tire U.S. || Privacy Policy</title>
@@ -18,7 +18,7 @@
 
 			<!-- START HEADER INCLUDE // ROW1.TXT // Contains logo, quick links, search form -->
 			<table id="header_banner" border="0" width="100%" height="30" cellspacing="0" cellpadding="0" bgcolor="#0C1C62">			
-				<form action="" method="post" enctype="multipart/form-data"></form>
+				<form action="http://search.goodyear.com/search" method="GET" name="gs"></form>
 				<tbody><tr>
 					<td width="107" align="left" nowrap=""><a href="http://www.goodyear.com/"><img src="/shared/img/logo_corp.gif" title="Goodyear" alt="Goodyear" height="30" width="107" border="0"></a></td>		
 					<td width="20" align="center" nowrap=""><span class="banner_text">|</span></td>
@@ -26,10 +26,17 @@
 					<td width="62" align="right" nowrap=""><a class="banner_text" href="http://www.goodyear.com/email/index.html">Contact&nbsp;Us</a></td>
 					<td width="20" align="center" nowrap=""><span class="banner_text">|</span></td>
 					<td width="75" align="right" nowrap=""><a class="banner_text" href="http://www.goodyear.com/quicklinks/quicklinks_en.html">Quick&nbsp;Links</a>&nbsp;&nbsp;</td>
-					<!-- <td width="20" align="center" nowrap><span class="banner_text">|</span></td>					
-					 <td width="50" align="left" nowrap><span class="banner_text">Search</span></td>
-					<td align="right" nowrap><input type="text" name="search" value="" size="10" align="bottom">&nbsp;<input name="submit_search" type="image" title="GO" value="GO" src="/shared/img/search_go.gif" alt="GO" align="absmiddle" border="0">&nbsp;</td> -->
-				</tr>			
+					<td width="10" align="center" nowrap=""><span class="banner_text">|</span></td>					
+					<td align="left" nowrap=""><span class="banner_text">Search Corporate</span></td>
+					<td align="right" nowrap=""><input type="text" name="q" value="" size="15" align="bottom">&nbsp;<a href="javascript:document.gs.submit();"><img src="/shared/img/search_go.gif" alt="GO" align="absmiddle" border="0"></a>&nbsp;</td> 
+				</tr>
+				<input value="xml_no_dtd" name="output" type="hidden">
+				    <input value="date:D:L:d1" name="sort" type="hidden">
+				    <input value="UTF-8" name="ie" type="hidden">
+				    <input value="CORP" name="client" type="hidden">
+				    <input value="UTF-8" name="oe" type="hidden">
+				    <input value="CORP" name="proxystylesheet" type="hidden">
+    				    <input value="corporate_col" name="site" type="hidden">
 			
 			</tbody></table>
 			<!-- END HEADER -->
@@ -211,6 +218,92 @@
 						<div align="center" class="lower_links"><a href="http://www.goodyear.com/legal/privacy.html">Privacy Policy</a> | <a href="http://www.goodyear.com/legal/copyright.html">Copyright</a> | <a href="http://www.goodyear.com/email/index.html">Contact Us</a></div>
 						<br>
 						<!-- END FOOTER -->
+
+
+
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/shared/nav/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+// Set these up here because they can get overwritten in the following code
+s.pageName=document.title;
+s.pageType=""
+
+/* Added code to set channel for goodyear.com sections. */
+var x;
+x = location.pathname;
+
+s.channel = "";
+
+// Make sure there even is a path to compare
+if (x.length > 1 )
+{
+	var channel = "";
+	
+	// Start at the beginning of the path (intentionally skipping the first slash)
+	// and find where the second slash is so that you have the correct channel that we
+	// are looking for - store the result in the variable channel. This also parses off the slashes.
+	for (var i=1;i<x.length;i++)
+	{
+		var c = x.charAt(i);
+					
+		// if we find a slash, we go too far, or the channel is search - quit
+		if (c == '/' || i == 16 || channel == 'search' || channel == '404-error.html')
+			break;
+		else
+			channel += c;
+	}
+	
+
+	// See if the channel is one of our special monitored channels, set the var s.channel if it is
+	if (channel == 'corporate')
+		s.channel = "corporate";
+	else if (channel == 'media')
+		s.channel = "media";
+	else if (channel == 'investor')
+		s.channel = "investor";
+	else if (channel == 'careers')
+		s.channel = "careers";
+	else if (channel == 'search')
+		s.channel = "search";
+	else if (channel == '404-error.html')
+	{
+		s.pageType = "errorPage";
+		s.pageName = "";
+	}
+	else
+		{} // do nothing because it was already initiated to null
+}
+
+s.server=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+/* E-commerce Variables */
+s.campaign=""
+s.events=""
+s.products=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.1. -->
+
+
+
+
+
+
 
 
 
