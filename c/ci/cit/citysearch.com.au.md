@@ -1,77 +1,115 @@
-> *The following text is extracted and transformed from the citysearch.com.au privacy policy that was archived on 2005-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050214092121id_/http%3A//national.citysearch.com.au/feature/824/%3Ffeature_name%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysearch.com.au privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214125255id_/http%3A//about.sensis.com.au/legal/privacy.php) for the most accurate reproduction.*
 
-# national.citysearch.com.au >
+# Sensis - A Leading directory, advertising and information provider
 
-  
-**This policy sets out how CitySearch ® Australia Pty Ltd ('CitySearch®') uses your personal information and explains:**
+Protecting your privacy
 
-  * What kind of personal information CitySearch® collects and how it is collected 
-  * How CitySearch® uses the information you provide 
-  * Disclosure 
-  * How CitySearch® treats sensitive information 
-  * Management and security of personal information 
-  * Updating personal information 
-  * Seeking access to the personal information CitySearch® holds about you 
-  * Are my children at risk using the CitySearch® sites?
-  * Third Party Sites
-  * How to contact CitySearch®
+Updated August 2004 
 
-This policy applies to CitySearch® and explains how CitySearch® uses personal information collected through the CitySearch® sites. CitySearch® is owned, and the CitySearch® sites are operated on its behalf, by Sensis Pty Ltd, a wholly owned subsidiary of Telstra Corporation Limited.
+Sensis Pty Ltd ("Sensis") is committed to providing you with the highest levels of customer service. This includes protecting your privacy. Sensis is bound by the Privacy Act 1988 (Cth), which sets out a number of principles concerning the protection of your personal information. 
 
-CitySearch® is bound by the National Privacy Principles contained in the Commonwealth Privacy Act 1988. CitySearch® may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to CitySearch®'s operations. All personal information held by CitySearch® will be governed by CitySearch®'s most recent policy, posted on this site 
+Set out below is information that Sensis is required to communicate to our customers. We recommend that you keep this information for future reference. This information does not restrict Sensis' rights under the Privacy Act in any way. 
 
-**What kind of personal information CitySearch ® collects and how it is collected**  
-CitySearch® may collect personal information about users, merchants, advertisers and other businesses, which access or are displayed on the CitySearch® site. Information about businesses that appear in the CitySearch® directory, including personal information of individuals within those businesses, may be generally collected by CitySearch® to manage the services or products that the business purchases from CitySearch®.
+**Sensis**  
+Sensis, is a wholly owned subsidiary of Telstra Corporation Limited ("Telstra"), and is responsible for Yellow Pages® and White Pages® directories and related print, voice, electronic, wireless and online products, as well as a range of advertising, media, content, location and other business services. 
 
-In general, the personal information CitySearch® collects may include (but is not limited to) name, address, contact details, gender, occupation, in some cases membership of professional associations and, where relevant, financial information, including credit card information, banking details and income information. 
+**Your personal information**  
+Personal information held by Sensis may include your name, date of birth, current and previous addresses, telephone/mobile phone number, e-mail address, bank account or credit card details, preferences for using our websites, occupation, driver's licence number and your Sensis password. We also hold details of your Sensis services, including their status, as well as certain details about your personal interests. 
 
-Personal Information you provide: We store the personal information you enter on the CitySearch® site or otherwise give to CitySearch®. We obtain most personal information through the CitySearch® membership registration process and updates to membership details. You may provide information when you request or acquire a product or service from CitySearch® , provide a product or service to CitySearch®, complete a survey or questionnaire, enter a competition, participate in forums or when you communicate with CitySearch® by e-mail, telephone or in writing (for example if you contact customer service or provide feedback). 
+If you choose not to provide us with certain personal information, we may not be able to provide you with the services you require, or the level of service on which we pride ourselves. 
 
-Automatic collection: Cookies: We may use a feature of your browser called a cookie to assign your computer a 'User ID'. Cookies do not contain information by which CitySearch® can identify you. They identify your computer to our servers. You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies. CitySearch® may use information contained in cookies to make assumptions about the user of the computer and to provide users of that computer with focused advertising which CitySearch® believes may be of interest, based on that information. To disable your cookies, please refer to the help menu within your Internet browser.
+Occasionally, you may need to provide personal information about other individuals to Sensis (eg about your authorised representatives). If so, we rely on you to inform those individuals that you are providing their personal information to Sensis and advise them that we can be contacted for further information (see 'How to contact us' below). 
 
-Indirect collection: CitySearch® endeavours to collect personal information about an individual only from that individual. In some circumstances CitySearch® may obtain personal information from a third party. If you provide personal information about another person to CitySearch®, CitySearch® requires that you inform that person you have done so and provide them with a copy of this policy. 
+**How we collect personal information**   
+Sensis collects personal information in a number of ways, including: 
 
-**How Citysearch ® uses the information you provide**  
-CitySearch® may use information it collects from you for the primary purpose for which it is collected and for such other secondary purposes that are related to the primary purpose of collection. 
+  * directly from you, when you provide information by phone, in marketing coupons or application forms or when you submit information to us through our websites (eg by email or [cookies](https://web.archive.org/web/20051214125255id_/http%3A//about.sensis.com.au/legal/cookies.php)); 
+  * from third parties such as our related companies, carriage service providers, credit reporting agencies or your representatives; 
+  * from publicly available sources of information; 
+  * from the organisations identified below under "When we disclose your personal information"; 
+  * from our own records of how you use our services; or 
+  * when legally required to do so. 
 
-CitySearch® generally uses personal information to: 
-  * provide you with products or services you have requested; 
-  * personalise and customise your experiences on the CitySearch® sites; 
-  * help CitySearch® manage and enhance its services; 
-  * communicate with you; 
-  * provide you with ongoing information about opportunities on the CitySearch® sites in which CitySearch® believes you may be interested; and 
-  * give you the opportunity from time to time to receive e-mail and 'e-newsletters' from CitySearch®. 
+**How we use your personal information**   
+Your personal information may be used in order to: 
 
-In most cases where CitySearch® asks you to provide information about yourself, if you do not provide CitySearch® with that information, CitySearch® will not be able to provide you with the requested product or service. 
+  * verify your identity; 
+  * assist you to subscribe to our services; 
+  * provide the services you require, including directory services, through a number of media; 
+  * administer and manage those services, including charging, billing and collecting debts; 
+  * make changes to your profile; 
+  * respond to any queries or feedback you may have; 
+  * inform you of ways the services provided to you could be improved; 
+  * conduct appropriate checks for credit-worthiness and for fraud; 
+  * research and develop our services; 
+  * gain an understanding of your information and communication needs in order for us to provide you with a better service; 
+  * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems. 
 
-If you do not wish CitySearch® to contact you regarding other services or marketing, please call 1800 039 059. 
+Also, your personal information is collected so Sensis can promote and market its services to you. We do this to keep you informed of our products, services, special offers or products we believe you will find valuable. If you do not want us to promote and market our products, services and special offers to you please call 1800 736 747. In relation to marketing and promotional material sent by email, we will only send such material if you elect to receive it (ie opt-in) or if it is provided in response to your request. You can indicate your opt-in preferences on our web sites or our marketing coupons (where provided). 
 
-**Disclosure**  
-CitySearch® may disclose personal information to Sensis, Telstra or related companies which may only use it as set out above. CitySearch® may also disclose personal information about persons within businesses that appear in the CitySearch® directory to third parties, including CitySearch®'s advertisers, business partners and information brokers. 
+**When we disclose your personal information**   
+In order to deliver the services you require and for the purposes set out above, Sensis may disclose your personal information to organisations outside Sensis. Your personal information is disclosed to these organisations only in relation to Sensis providing our services to you. These organisations may carry out our: 
 
-If you contact a merchant appearing in the CitySearch® directory, including via e-mail, this policy does not apply to such communications and CitySearch® accepts no responsibility for any transaction entered into between you and the relevant merchant.
+  * customer enquiries; 
+  * mailing systems; 
+  * billing and debt-recovery functions; 
+  * information technology services; 
+  * marketing, telemarketing and sales services; 
+  * market research; and 
+  * web site usage analysis. 
 
-CitySearch® uses DoubleClick International Asia B.V. to deliver the e-mails and e-newsletters you may ask to receive. If you would like to know more about the information gathering practices and 'opt-out' procedures of DoubleClick International, visit:http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=& CitySearch® shares web site usage information about visitors to the CitySearch® sites who have received a targeted promotional e-mail campaign, with DoubleClick International B.V. for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, CitySearch® and its third-party advertising company will keep information on the email campaign and some of the pages you visit on the CitySearch® sites through the use of pixel tags (also called clear gifs). For more information about our advertising company, visit www.privacychoices.org. To opt out of the targeting program, please visit www.privacychoices.org/optout.htm If CitySearch® sells part of its business, personal information may be part of the assets transferred to the purchaser. 
+Sensis takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information. 
 
-The CitySearch® sites contain features where you are invited to send personal information to organisations other than CitySearch®. The choice to send such information to these organisations is entirely yours. You should be aware that any such information you choose to send will not be bound by this policy. 
+In addition, we may disclose your personal information to: 
 
-**How Citysearch ® treats sensitive information**  
-"Sensitive Information" means information relating to a person's racial or ethnic origin, membership of political bodies, religion, membership of a trade union or professional or trade association, sexual preferences, criminal record and health. 
+  * your authorised representatives or legal advisers (when requested by you to do so); 
+  * credit-reporting and fraud-checking agencies; 
+  * credit providers (for credit related purposes such as creditworthiness, credit rating, credit provision and financing); 
+  * Telstra and our related companies; 
+  * our professional advisers, including our accountants, auditors and lawyers; 
+  * government and regulatory authorities and other organisations, as required or authorised by law; 
+  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (eg securitisation); and 
+  * other telecommunication and information service providers (eg if you obtain services from other providers, we may need to disclose your information for billing purposes). 
 
-CitySearch® may use and disclose Sensitive Information only for the purpose for which it was provided or a directly related secondary purpose or as allowed by law unless you have agreed otherwise. 
+**Sensis' web sites**  
+Sensis provides products and services via our various web sites. When you visit our sites, our web servers record anonymous information such as the time, date and URL of the request. This information assists us to improve the structure of our web sites and monitor their performance. 
 
-**Management and security of personal information**   
-CitySearch® protects the personal information it holds from misuse, loss, unauthorised access, modification or disclosure by various means including firewalls, password access, secure servers and encryption of credit card transactions.  **Updating personal information**  
-CitySearch® endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. You can update your CitySearch® membership information via the 'Update your details' section on any of the CitySearch® sites. 
+Sensis may use '[cookies](https://web.archive.org/web/20051214125255id_/http%3A//about.sensis.com.au/legal/cookies.php)' on various web sites. [Cookies](https://web.archive.org/web/20051214125255id_/http%3A//about.sensis.com.au/legal/cookies.php) are an industry standard and most major web sites use them. A cookie is a small text file that our web sites may place on your computer. Usually, cookies are used as a means for our web sites to remember your preferences. As such, cookies are designed to improve your experience of our web sites. 
 
-You can generally update personal information that is not membership information on the website of the CitySearch® site where you submitted that information. Where personal information is no longer required by CitySearch®, it will be destroyed or de-identified. 
+In some cases, cookies may collect and store personal information about you. Sensis extends the same privacy protection to your personal information, whether gathered via cookies or from other sources. Most internet browsers are pre-set to accept cookies, however you can adjust your Internet browser to disable cookies or to warn you when cookies are being used. However, if you disable cookies, you may not be able to access certain areas of our web sites or take advantage of the improved web site experience that cookies offer. 
 
-**Seeking access to the personal information Citysearch ® holds about you**  
-You have the right to seek access the personal information held about you and to advise CitySearch® of any inaccuracy. There are some exceptions to this right set out in the Privacy Act. 
+Sensis also collects Internet Protocol (IP) addresses. IP addresses are assigned to computers on the internet to uniquely identify them within the global network. Sensis collects and manages IP addresses as part of the service of providing internet session management and for security purposes. 
 
-If you make an access request, CitySearch® will ask you to verify your identity and specify what information you require. CitySearch® may charge a fee to cover the costs of meeting your request. Membership information: CitySearch® Members can access the membership information CitySearch® holds about them at any time via the 'Update your details' section on any of the CitySearch® sites. 
+**Acts in the course of journalism**  
+Sensis commits to the Australian Press Council Privacy Standards (available at <http://www.presscouncil.org.au/>) in relation to material prepared by Sensis, its employees and its agents in the course of journalism.. Sensis publishes some material which is licensed to it by other organisations. Sensis will take reasonable steps to ensure that each organisation which supplies it with material for publication has publicly committed to standards for the purpose of section 7B(4)(b) of the Privacy Act 1988. If Sensis receives a privacy related complaint relating to any material supplied to it by another organisation, then it will formally request that organisation to deal with the privacy complaint in a fair and efficient manner. 
 
-**Are my children at risk using the CitySearch ® sites?**  
-The safety of children is very important to us. We ask that children under the age of 16 have a parent or guardian verify their registration on web sites and the submission of online forms. While CitySearch® and its affiliation sites will make every reasonable effort to ensure that children's privacy and other rights are not compromised, it is ultimately the responsibility of parents or guardians to monitor their children's internet usage. Children should always ask a parent before sending any transmission over the internet.  **Third Party Sites**  
-CitySearch® acknowledges that you will click through to third party sites from our sites, and thus recommends that you refer to the privacy statement of the sites you visit. CitySearch®'s privacy statement is applicable for CitySearch® and its affiliate sites (as listed above), and assumes no responsibility for information and content of third party sites.  **How to contact Citysearch ®**  
-To make an access request, please contact us on 1800 039 059 or write to the Privacy Officer at Locked Bag 5782, Melbourne, VIC, 8100. 
+**Third party sites**  
+You may click-through to third party sites from our sites in which case we recommend that you refer to the privacy statement of the sites you visit. Sensis' collection statement and privacy policy apply to Sensis' web sites only and Sensis assumes no responsibility for information and content of third party sites. 
+
+**Help us to ensure we hold accurate information**   
+Sensis takes all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. However, the accuracy of that information depends to a large extent on the information you provide. That's why we recommend that you: 
+
+  * let us know if there are any errors in your personal information; and 
+  * keep us up to date with changes to personal information such as your name or address. 
+
+by contacting us (see "How to contact us" below) 
+
+**You can access your personal information**  
+You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons. 
+
+Sensis reserves the right to charge a fee for searching for, and providing access to, your information. 
+
+**How to contact us**  
+If you have any questions in relation to privacy, please contact us between 9.00am and 5.00pm, Monday to Friday. 
+
+Tel: 1800 736 747  
+Please note that this number is not for general service enquiries. 
+
+Post: Privacy Manager, Locked Bag 2910, Melbourne, VIC 3001
+
+Email: privacy@sensis.com.au.
+
+**Further information**  
+Further information on privacy is available at the [website](http://www.privacy.gov.au/) of the Office of the Federal Privacy Commissioner. 
+
+| 
