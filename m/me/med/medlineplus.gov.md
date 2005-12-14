@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307085558id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214080607id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
 
 # MedlinePlus: Privacy Policy
 
@@ -22,7 +22,7 @@ Of the information we learn about you from your visit to NLM Web sites, we store
 
 #### Cookies
 
-A "cookie" is a small file that a Web site transfers to your computer's hard disk allowing our server to "remember" specific information about your session. While visiting certain NLM sites you may occasionally encounter a Web page that employs cookies to make it easier to use the dynamic features of these Web pages. PubMed® and TOXNET® use "session" cookies for certain functions. The cookie and the information about your session will be destroyed automatically shortly after you close your browser-it is not permanently stored on your computer. You can set your browser to disable cookies or prompt you before a cookie is accepted. If you do not want to receive cookies, you will still be able to use the NLM sites, but will be unable to use cookie-dependent features.
+A "cookie" is a small file that a Web site transfers to your computer's hard disk allowing our server to "remember" specific information about your session. While visiting certain NLM sites you may occasionally encounter a Web page that employs cookies to make it easier to use the dynamic features of these Web pages. PubMed® and TOXNET® use "session" cookies for certain functions. The cookie and the information about your session will be destroyed automatically shortly after you close your browser-it is not permanently stored on your computer. You can set your browser to disable cookies or prompt you before a cookie is accepted. If you do not want to receive cookies, you will still be able to use the NLM sites, but will be unable to use cookie-dependent features. In [exceptional circumstances](http://www.nlm.nih.gov/cookies.html) persistent cookies may be employed, but they are never used for tracking users' queries or navigation through the site.
 
 #### Personally Provided Information
 
