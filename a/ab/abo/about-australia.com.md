@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the about-australia.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403191451id_/http%3A//www.about-australia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the about-australia.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214064854id_/http%3A//www.about-australia.com/privacy.php) for the most accurate reproduction.*
 
 # About Australia Website Privacy Policy - About Australia Online
 
@@ -59,7 +59,7 @@ CHANGE IN PRIVACY POLICY
 AS WE PLAN TO ENSURE OUR PRIVACY POLICY REMAINS CURRENT, THIS POLICY IS SUBJECT TO CHANGE. PLEASE RETURN PERIODICALLY TO REVIEW OUR PRIVACY POLICY. 
 
 How to contact us  
-If you have any questions or concerns regarding our Privacy Policy or our use of your information, please use the contact form available [HERE](https://web.archive.org/web/20050403191451id_/http%3A//www.about-australia.com/media-centre/contact.php) or use the following address:
+If you have any questions or concerns regarding our Privacy Policy or our use of your information, please use the contact form available [HERE](https://web.archive.org/web/20051214064854id_/http%3A//www.about-australia.com/media-centre/contact.php) or use the following address:
 
 **About Australia Online Pty Limited**  
 PO Box 7549   
