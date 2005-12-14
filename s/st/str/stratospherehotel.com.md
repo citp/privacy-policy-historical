@@ -1,15 +1,11 @@
-> *The following text is extracted and transformed from the stratospherehotel.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207042757id_/http%3A//www.stratospherehotel.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratospherehotel.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214190005id_/http%3A//www.stratospherehotel.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| 
-
-| 
+|  | 
 
   
 
-
-##  PRIVACY POLICY 
 
 This Privacy Policy is effective as of May 1, 2003.
 
@@ -78,15 +74,9 @@ This Privacy Policy was posted on May 1, 2003. Stratosphere reserves the right t
 
 If you have any questions regarding this Privacy Policy, please contact webmaster@stratospherehotel.com.
 
-|    
+|   
   
----|---  
+---|---|---  
   
-  
-  
-
-
-[](http://www.stratospherehotel.com/banner.php/850/13)
-
   
 
