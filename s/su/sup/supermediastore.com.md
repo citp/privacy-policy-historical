@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermediastore.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308132633id_/http%3A//www.supermediastore.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermediastore.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214194517id_/http%3A//supermediastore.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ We collect IP addresses for the purposes of system administration, gathering bro
 When you order from us, we collect personally identifiable information from you. If you order one of our products or any services, we will collect your name, e-mail address, billing address, shipping address, telephone number, product information, payment information, order number, referring URL, IP address and a password. We collect such information in order to fill your order, and also in order to get in contact with you regarding your order and/or to send you promotional materials. Before submit your order, you will have the opportunity to review the order and make any changes in addition to the information it has already contained. Such changes might be automatically kept for future use. **We do not accept any walk-in or will call orders. All order must be shipped.**  
 
 
-[](https://web.archive.org/web/20050308132633id_/http%3A//www.supermediastore.com/ssl) Security Measurement All online transactions at Yahoo! Stores are processed with 128-bit industry-standard SSL encryption held by Yahoo Store SSL Authorization Certification Encyption Key. When you enter your private information into the order form, it is transmitted across the Internet in an 128-bit high encrypted (scrambled) form, then decoded when it gets to Yahoo! Store (where your information will be kept). When viewing your data, your information is also been protected by store password, store secure key and will be encrypted until gets to us. For more security issues regarding transations please contact Yahoo! Store for more information. 
+Security Measurement All online transactions at Yahoo! Stores are processed with 128-bit industry-standard SSL encryption held by Yahoo Store SSL Authorization Certification Encyption Key. When you enter your private information into the order form, it is transmitted across the Internet in an 128-bit high encrypted (scrambled) form, then decoded when it gets to Yahoo! Store (where your information will be kept). When viewing your data, your information is also been protected by store password, store secure key and will be encrypted until gets to us. For more security issues regarding transations please contact Yahoo! Store for more information. 
 
 * * *
 
