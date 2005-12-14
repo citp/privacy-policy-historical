@@ -1,59 +1,39 @@
-> *The following text is extracted and transformed from the regent.edu privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602170523id_/http%3A//www.regent.edu/history/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regent.edu privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214095830id_/http%3A//www.regent.edu/general/legal/privacy_notice.cfm) for the most accurate reproduction.*
 
-# Regent University, Website Access Statistics
+# Regent University -> Privacy Notice
 
-By accessing or using the Regent University Web Site, you agree to the terms of the Regent University Web Site Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. Regent University reserves the right to change the Online Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the most current version of the Online Privacy Policy at the time of such use.  
- 
+Privacy Notice
 
-**Collection of Personal Information**
+Regent University understands that our users are concerned about submitting personal information either through our website or other means. Our users' individual privacy rights are important to us. For this reason, we provide this explanation of our data handling practices. 
 
-When you engage in certain activities on this site, such as reviewing or ordering information, making donations, sending requests to Regent University, downloading forms, or requesting newsletter or email subscriptions etc., the Regent University Web Site may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, the Regent University Web Site may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), E-mail address, employer, job title and department, telephone and facsimile numbers, and other personal identifying information. If you do not provide the requested data with respect to a particular activity, you will not be able to engage in that activity.  
- 
+Our privacy guidelines are solely governed by Virginia statutes including, but not limited to, the Virginia Privacy Protection Act of 1976, the Virginia Freedom of Information Act, and any and all applicable federal legislation. 
 
-**How Your Personal Information is Used**
+This notice in no manner serves to represent a contract between Regent University and (you) the reader or any person who submits, in any form, information to Regent University. 
 
-The Regent University Web Site collects your information in order to record and support your participation in the activities you select.   
- 
+### How We Gather Information
 
-**Use of Personal Information**
+Here at Regent University, we have many ways that our users can submit data to us. One of the most convenient ways is to complete a web form. These forms collect information from our users and send it to the proper recipient within Regent University. In addition, we also collect information via other means such as electronic mail (Email), telephone calls, and postal mail. 
 
-The Regent University Web Site recognizes and appreciates the importance of responsible use of information collected on this site. For this reason, Regent University reserves the option of contacting you from time to time.  
- 
+While using the Internet to connect to Regent University, some technical information is automatically collected for statistical reference. Though these items may not necessarily identify an individual, we want our users to know that this information is recorded without any causal action on their behalf. These items are as follows: 
 
-**Protection of Your Personal Information**
+  * The Internet address (IP address) of the machine our users are using to connect to regent.edu. This may also produce a coordinating host and domain name for our users' computers.
+  * The type of Internet Browser our users are using to connect to regent.edu. Also, the pages our users are requesting from our site.
+  * The site from which our users immediately left when visiting regent.edu. Also, any 'cookie' related information as described in this notice.
 
-The personal information that you provide in connection with making a donation to Regent University using the Regent University Web Site, classifies your data as Donor Registration Information. Donor Registration Information is protected in several ways. First, it resides on a secure server that only selected Regent University Web Site personnel and its authorized users have access to via password. Second, the Regent University Web Site encrypts your personal information and thereby prevents unauthorized parties from viewing it. Personal information that you provide when registering for a petition, or corresponding with Regent University, for example, also resides on a secure server and is only accessible via password, however it is not encrypted.   
- 
 
-**Use of Cookies**
 
-The Regent University Web Site may use cookies to provide a better user experience.  
- 
+### What are [Internet Browser] 'Cookies'?
 
-**Updating Your Personal Information**
+Cookies are files that exist on client computers that contain information to help us better serve our users' needs. They may help us to remember customized settings so that each time a user returns to regent.edu, we create a custom view just for that user. For our users' personal security, browsers have settings that allow each user to control how cookies are stored and when and how they are removed. Any information gained from cookies is governed by the same guidelines as information our users purposely submit to Regent University. 
 
-You have the right to access and correct your personal information at any time. With respect to Donor or Registration Information, this may be accomplished by contacting us. 
+### How We Use Information
 
-You may also access and correct your personal information and privacy preferences by writing or calling Regent University at:
+Information we gain from any person is used for official Regent University purposes only. We do not share, sell, or loan data to any organization for purposes not relating to our direct efforts. There are times that we may share data to meet federal regulations, to facilitate large campaigns, comply with law enforcement, or distribute special offers to our users. As such, no user should have any reasonable expectation of absolute privacy (see our Acceptable Use Policy for further guidance). In the course of general business, employees and partner's employees will have access to data our users submit. For this reason, we take precautions to ensure that we protect our users' data while in our control or while in the control of one of our campaign partners. 
 
-Regent University  
-1000 Regent University Drive  
-Virginia Beach, VA 23464  
-(757) 226-4000  
- 
+### Your Information, Your Choice
 
-**Privacy Related Complaints**
+Because our users' information belongs to them and can individually identify each one of them, we remind our users that they are not required to share such information with Regent University. In doing so, our users will still be able to freely navigate our website without submitting any information to us. However, if a user desires to purchase items, apply for employment, apply for admission, or any other service which requires us to collect information, that user must submit in some manner his/her information to us. Should that user not provide in full the requested information, he/she may not be eligible to receive his/her requested service. 
 
-If you believe that the Regent University Web Site has not complied with this Online Privacy Policy with respect to your personal information, you may write the Regent University Web Site Privacy Officer at the address indicated above. 
+### Our Commitment to Data Security
 
-In your letter, please describe in as much detail as possible the ways in which you believe that Regent University has not complied with the Official Web Site Online Privacy Policy. We will investigate your complaint promptly.
-
-Please note that if you provide the Regent University Web Site with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), Regent University cannot guarantee that your most recent privacy preference will be honored.
-
-Also, please note that the Regent University Web Site is not responsible for the content or privacy practices of non-Regent University Web sites to which we may link.  
- 
-
-Regent University © 2003  
-[1000 Regent University Drive](http://maps.yahoo.com/py/maps.py?Pyt=Tmap&addr=1000+Regent+Drive%2C+Regent+University&city=Virginia+Beach&state=VA&slt=36.804500&sln=-76.195600&zip=23464-5037&country=us&mag=9&cs=9&BFClient=&BFCat=&map.x=230&map.y=240), Virginia Beach, VA 23464  
-Toll Free: 800-373-5504, Phone: 757-226-4127, Fax: 757-226-4381  
-[General Contact Email](mailto:admissions@regent.edu), [Contact Webmaster](http://www.regent.edu/search.html)
+At Regent University we utilize considerable security protections in order to collect and protect users' information. Where necessary, we employ Secure Sockets Layer (SSL) in order to facilitate an encrypted connection between the user's computer and our web server. We encourage our users to become familiar with secure means by which to submit information to Regent University. Our users should understand that Email is an insecure medium and that we discourage transmission of personally identifiable information via this means. In order to protect the data we store and to ensure our users' privacy is safeguarded, we employ numerous security controls, follow secure processes, and execute internal audit procedures. Our users' confidential information and personal privacy is of utmost importance to us. We strive to protect our users' information in a manner consistent with the laws and regulations of the state of Virginia and with all applicable federal legislation. 
