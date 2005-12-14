@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news.com.au privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624091145id_/http%3A//www.news.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news.com.au privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214224953id_/http%3A//www.news.com.au/privacy) for the most accurate reproduction.*
 
 # NEWS.com.au | Privacy Policy
 
@@ -8,7 +8,7 @@ We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in
 
 ## Personal Information
 
-We collect personal information when we provide our services to you. Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information.
+We collect personal information when we provide our services to you. Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information. 
 
 We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents.
 
