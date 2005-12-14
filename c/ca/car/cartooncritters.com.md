@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartooncritters.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519090218id_/http%3A//www.cartooncritters.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartooncritters.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215000201id_/http%3A//www.cartooncritters.com/privacy.htm) for the most accurate reproduction.*
 
 # Cartoon Critters - coloring pages,learn to draw,online games
 
@@ -25,9 +25,11 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 Ads on this site are served by:
 
- Advertising.com [ click here to see their privacy policy](http://www.advertising.com/privacy/privacy.html).
+Advertising.com [ click here to see their privacy policy](http://www.advertising.com/privacy/privacy.html).
 
 Fastclick. \- [www.fastclick.com](http://www.fastclick.com/)
+
+Casale Media - www.casalemedia.com
 
 Affiliates of cartooncritters.com:
 
