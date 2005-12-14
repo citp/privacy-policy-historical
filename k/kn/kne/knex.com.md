@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205190701id_/http%3A//www.knex.com/parentzone/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214184506id_/http%3A//www.knex.com/include/knex_launcher.php%3Flink_id%3D24%26from%3D/index.php) for the most accurate reproduction.*
 
-# K'NEX | Parent Zone
+# K'NEX | About K'NEX | Privacy Policy
 
-[](https://web.archive.org/parentzone/index.php)  
-[](https://web.archive.org/parentzone/index.php)  
-[](https://web.archive.org/parentzone/activitycenter.php)  
-[](https://web.archive.org/parentzone/birthdays.php)  
-[](https://web.archive.org/parentzone/articles.php)  
-| 
+PARENTS PRIVACY POLICY
 
-PARENT ZONE PRIVACY POLICY
-
-The Parents Zone section of www.knex.com is committed to offering you, the parent, helpful and educational information regarding building sets, K'NEX products and the K'NEX website. This section of the site also offers you the opportunity to enter contests and giveaways, and to enroll for email updates that will inform you of new content and offers recently added to the [Parent Zone](https://web.archive.org/parentzone/index.php) and [Catalog](http://www.knex.com/customer/home.php) sections of the site. 
+The Parents section of www.knex.com is committed to offering you, the parent, helpful and educational information regarding building sets, K'NEX products and the K'NEX website. This section of the site also offers you the opportunity to enter contests and giveaways, and to enroll for email updates that will inform you of new content and offers recently added to the [Parents](https://web.archive.org/parents/index.php) and [Catalog](https://web.archive.org/customer/home.php) sections of the site. 
 
 Please know that any information collected in conjunction with any of these opportunities will be strictly used for only the intention it was collected. Never, in any case, do we sell or distribute information gathered to anyone, nor do we make our mailing lists available to anyone. We might, however, use this information in conjunction with a marketing partner, where we control when and how we use the information. Any information used in this specific manner would be in the categorized and generic format, and not individual names, email addresses, etc.
 
@@ -105,6 +98,4 @@ So unless you intend to share your idea or model with us as a gift, please do no
 K'NEX Consumer Services  
 P.O. Box 700  
 Hatfield, PA 19440  
-  
-  
----|---
+
