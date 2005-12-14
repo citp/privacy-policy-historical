@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfes.gov.uk privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404004448id_/http%3A//www.dfes.gov.uk/copyright/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfes.gov.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214233008id_/http%3A//www.dfes.gov.uk/copyright/privacy.shtml) for the most accurate reproduction.*
 
 # DfES, The Department for Education and Skills policy statements
 
@@ -12,4 +12,4 @@ If you register to receive updates your information will be held on a secure ser
 
 This site is taking part in a pilot project sharing campaign material across government. The pilot uses cookies to avoid you seeing the same campaign repeated over and over, and to gauge the number of people viewing a campaign or particular web page. These cookies are pieces of data created when you visit a site, and contain a unique, anonymous number. They are restored in the cookie directory of your hard drive, and do not expire at the end of your session. 
 
-[Download the Public Services Guarantee in PDF Format.](https://web.archive.org/web/20050404004448id_/http%3A//www.dfes.gov.uk/copyright/pdf/psg-english1.pdf)
+[Download the Public Services Guarantee in PDF Format.](https://web.archive.org/web/20051214233008id_/http%3A//www.dfes.gov.uk/copyright/pdf/psg-english1.pdf)
