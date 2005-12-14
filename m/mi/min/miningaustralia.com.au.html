@@ -1,17 +1,16 @@
-<!--The following is the downloaded HTML source of the miningaustralia.com.au privacy policy that was archived on 2004-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208212830id_/http%3A//miningaustralia.com.au/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the miningaustralia.com.au privacy policy that was archived on 2005-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214113922id_/http%3A//www.ferret.com.au/privacypolicy.asp) for the most accurate reproduction.-->
 
-<html><head>
-	<title>
-		Mining Australia : Privacy Policy
-	</title>	
-<meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
-<link rel="stylesheet" type="text/css" href="style/newUI.css">
-</head>
-
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="images/back_01.gif">
-
-<script language="javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+		<title>ferret.com.au : Privacy Policy</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<link rel="stylesheet" type="text/css" href="style/newUI.css">
+	<script language="javascript">
+	<!--
+		window.open("http://www.ferret.com.au/POPUNDER.ASP","FerretAD","toolbar=no,status=no,location=no,directories=no,menubar=no,width=201,height=201");
+		window.focus();
+	//-->
+	</script><script language="javascript">
 <!--
 	// SUBMITS SEARCH FROM LEFT HAND SIDE
 	function SubmitSearch()
@@ -33,6 +32,25 @@
 		return false;
 	}
 	
+	function SubmitInfoSearch()
+	{
+		var sURL;
+		var squ;
+		squ = document.frmSearchInfo.txtSearchInfoTerm.value;
+		sURL = '/searchinfo.asp?in=' + escape(squ);
+		
+		if (squ.length >= 2)
+		{
+			window.location.href = sURL;
+		}
+		else
+		{
+			alert('Please enter a valid term to search on');
+			document.frmSearchInfo.txtSearchInfoTerm.focus();
+		}
+		return false;
+	}
+	
 	function SubmitHomePageSearch()
 	{
 		var sURL;
@@ -43,9 +61,8 @@
 		sURL = sURL + '&chkBrandNames=' + document.frmHomePageSearch.chkBrandNames.checked;
 		sURL = sURL + '&chkProductTypes=' + document.frmHomePageSearch.chkProductTypes.checked;
 		sURL = sURL + '&chkProductNews=' + document.frmHomePageSearch.chkProductNews.checked;
-		sURL = sURL + '&chkIndustryNews=' + document.frmHomePageSearch.chkProductNews.checked;
-		
-		
+		sURL = sURL + '&chkIndustryNews=' + document.frmHomePageSearch.chkIndustryNews.checked;
+		sURL = sURL + '&chkCompanyServices=' + document.frmHomePageSearch.chkCompanyServices.checked;
 		
 		if (squ.length >= 2)
 		{
@@ -113,9 +130,15 @@
 		
 		return blnReturnValue
 	}
+	
+	function  WebsiteRedirect(url) 
+	{
+		window.open (url)
+		//window.location.href = url
+		return false;
+	}
 //-->
-</script>
-<script language="javascript">
+</script><script language="javascript">
 <!--
 	function LogMailToClick(intListingID,strRedirect) 
 	{
@@ -129,456 +152,409 @@
 		var newwindow = window.open(strURL,"Details","toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=400,height=380");
 	}
 //-->
-</script>
+</script></head>	
+	
+	
+	
+	
 
+<!--include file="functions.asp"-->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+	
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#cccccc">
+	<table width="780" border="0" cellspacing="0" cellpadding="0" id="Table1" align="center" bgcolor="white">
+		<!--Header-->
+		<tbody><tr>
+			<td width="7" valign="top" background="/images/back_03.jpg"><img src="/images/ferret_head_01aa.jpg" width="7" height="63" hspace="0" vspace="0"></td>
+			<td valign="top">
+				<table width="100%" border="0" cellpadding="0" cellspacing="0" background="/images/back_01.jpg" id="Table2">
+					<tbody><tr valign="top">
+						<td width="253"><a href="/default.asp"><img src="/images/ferret_head_01a.jpg" width="253" height="63" hspace="0" vspace="0" border="0"></a></td>
+						<td width="250" align="right"><img src="/images/ferret_head_02a.gif" width="216" height="63"></td>
+						<td background="/images/back_04.jpg"><img src="/images/ferret_head_01b.jpg" width="150" height="63"></td>
+					</tr>
+					<tr valign="top">
+						<td width="253" background="/images/back_05.jpg"><a href="/default.asp"><img src="/images/ferret_head_01c.jpg" width="253" height="32" hspace="0" vspace="0" border="0"></a></td>
+						<td align="right" background="/images/back_05.jpg">
+						<!--searchbox-->
+							<table width="250" border="0" cellspacing="0" cellpadding="0">
+								<form name="frmSearch" onsubmit="return SubmitSearch();" action="/search.asp?qu=" method="POST"></form>
+								<tbody><tr valign="top">
+								<td align="right">
+								<input type="text" name="txtSearchTerm"></td>
+								<td width="59"><input type="image" src="/images/go_01.gif" width="59" height="24" hspace="0" vspace="0" border="0" id="image1" name="image1"></td>
+								</tr>
+																
+							</tbody></table>
+						<!--end searchbox-->
+						</td>
+						<td background="/images/back_05.jpg">&nbsp;</td>
+					</tr>
+				</tbody></table>
+			</td>
+			<td width="6" valign="top" background="/images/back_02.jpg"><img src="/images/spacer.gif" width="6" height="6" hspace="0" vspace="0"></td>
+		</tr>
+		<!--End Header-->
+		<!--Body Content-->
+		<!--Main-->
+		<tr>
+			<td width="7" valign="top" background="/images/back_03.jpg"><img src="/images/spacer.gif" width="7" height="7" hspace="0" vspace="0"></td>
+			<td valign="top">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr valign="top">
+						<td width="127" bgcolor="EDEDE8" valign="top">
+							<!--Left Main Menu-->
+							<table width="127" border="0" cellspacing="0" cellpadding="0" id="Table5">
 	<tbody><tr>
-		<td width="100%" colspan="5" valign="top"> 
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr align="middle" valign="top"> 
-					<td colspan="2" align="middle" valign="top">
-						<table width="100%" border="0" cellspacing="0" cellpadding="0" height="18">
-	<tbody><tr> 
-		<td> 
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" height="60" bgcolor="#993200">
-				<tbody><tr valign="middle"> 
-					<td width="500" valign="middle" align="right" background="/images/SiteUI/head_mi_02.gif" nowrap="" bgcolor="#993200">
-						<font face="Verdana, Arial, Helvetica, sans-serif" color="#ffffff" size="-2">
-							
-						</font>
-					</td>
-					<td width="100%" bgcolor="#993200">&nbsp;</td>
+		<td valign="top"><img src="/images/subhead_01a.jpg" width="127" height="23"></td>
+	</tr>
+	<tr>
+		<td align="center" valign="top">
+			<table width="115" border="0" cellspacing="0" cellpadding="3" id="Table6">
+				<tbody><tr>
+					<td valign="top"><a href="/default.asp" class="navlink"><b>Home</b></a></td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
-	<tr bgcolor="#FFFFFF"> 
-		<td><img src="/images/clear.gif" width="10" height="1"></td>
+	<tr>
+		<td valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
 	</tr>
-	<tr valign="middle"> 
-		<td height="18" class="topnavtext" background="/images/SiteUI/dots_01.gif">
-			&nbsp;&nbsp;
-			<a href="/default.asp" class="topnavtext">Home</a>
-			&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="/browse_company.asp" class="topnavtext">Companies</a>
-			&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="/careers.asp" class="topnavtext">Careers</a>
+	<tr>
+		<td align="center" valign="top">
+			<table width="115" border="0" cellspacing="0" cellpadding="2" id="Table7">
+				<tbody><tr>
+					<td valign="top"><b><font class="ferrettext">Suppliers</font></b>
+							<br>
+							<a href="/Directory/" class="navlink">By Product Type</a>
+							<br>
+							<a href="/Companies/A" class="navlink">By Name</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+		<td align="center" valign="top">
+			<table width="115" border="0" cellspacing="0" cellpadding="2" id="Table8">
+				<tbody><tr>
+					<td valign="top"><font class="ferrettext"><b>Products</b></font>
+							<br>
+							<a href="/product.asp" class="navlink">By Product Type</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+		<td align="center" valign="top">
+			<table width="115" border="0" cellspacing="0" cellpadding="2" id="Table8">
+				<tbody><tr>
+					<td valign="top">
+						
+							<a href="/careers.asp" class="ferrettext"><b>Careers</b></a>
+							
+							
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" valign="top"><img src="/images/spacer.gif" width="6" height="6" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+		<td align="center" valign="top"><img src="/images/subhead_01b.jpg" width="127" height="23"></td>
+	</tr>
+</tbody></table>
+								
+<table border="0" cellpadding="0" cellspacing="0" id="Table1" width="100%">
+	<tbody><tr>
+		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/electronics/">Electronics</a><font class="navlink"> - <font color="red">New</font></font></td>
+	</tr>
+
+	<tr>
+		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+		<td valign="middle" height="17">&nbsp;&nbsp;<a class="ferrettext" href="/mining/">Mining</a></td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/food/">Food</a></td>
+	</tr>
+
+	<tr>
+		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/metal-working/">Metal Working</a></td>
+	</tr>
+
+	<tr>
+		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/process-control/">Process &amp; Control</a></td>
+	</tr>
+
+	<tr>
+		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/packaging/">Packaging</a></td>
+	</tr>
+
+	<tr>
+		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/health-safety/">Health &amp; Safety</a></td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/logistics/">Logistics</a></td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+	</tr>																																			
+</tbody></table>
+								
+<table width="127" border="0" cellspacing="0" cellpadding="0" id="Table5">
+	<tbody><tr>
+		<td align="center" valign="top"><img src="/images/spacer.gif" width="6" height="6" hspace="0" vspace="0"></td>
+	</tr>								
+	<tr>
+		<td valign="top"><img src="/images/subhead_01c.jpg" width="127" height="23"></td>
+	</tr>
+</tbody></table>								
+
+<table width="127" border="0" cellspacing="0" cellpadding="1" bgcolor="" align="center" id="Table1">
+	<tbody><tr>
+		<td>
+			<table width="100%" border="0" cellspacing="0" cellpadding="3" bgcolor="" id="Table3">
+				<tbody><tr align="center" valign="middle">
+					<form name="frmSearchInfo" method="POST" action="/search.asp?qu=" onsubmit="return SubmitInfoSearch();" id="Form1"></form>
+						<td colspan="2" class="defaulttext">
+							<table cellpadding="0" cellspacing="0" width="100%" id="Table4">
+								<tbody><tr>
+									<td valign="middle"><input type="text" name="txtSearchInfoTerm" class="defaulttext" size="8" style="width:80" value="" id="Text1"></td>
+									<td valign="middle"><input type="image" src="/images/go_02.gif" name="imgSearch" width="30" id="Image1"></td>
+								</tr>
+								<tr>
+									<td colspan="2"><img src="/images/clear.gif" height="5" width="1" border="0"></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="right"><a href="/searchinfo_about.asp" class="ferrettext"><u>What's 
+												this?</u></a></td>
+								</tr>
+								<tr>
+									<td colspan="2"><img src="/images/clear.gif" height="5" width="1" border="0"></td>
+								</tr>
+							<tr>
+								<td align="center" valign="top" bgcolor="CFCFCF" colspan="2"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+							</tr>										
+										
+							</tbody></table>
+						</td>
+					
+				</tr>
+			</tbody></table>
 		</td>
 	</tr>
 </tbody></table>
-					</td>
-				</tr>
-				<tr valign="middle" bgcolor="#FFFFFF"> 
-					<td colspan="2"><img src="/images/clear.gif" width="1" height="1"></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>	
-	<tr valign="top" height="100%"> 
-		<td width="125" bgcolor="#E9E9E9" valign="top">
-			<table width="125" border="0" cellspacing="0" cellpadding="0" valign="top" height="100%">
-				<tbody><tr height="100%" valign="top"> 
-					<td width="125" valign="top"><table width="125" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr valign="top" bgcolor="#FFFFFF"> 
-		<td colspan="2"><img src="/images/clear.gif" width="125" height="4"></td>
-	</tr>
-	
-	<tr valign="top"> 
+								
+<table width="127" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr valign="top"> 
 		<td colspan="2"><img src="/images/clear.gif" width="125" height="7"></td>
 	</tr>
 	<tr valign="top"> 
-		<td colspan="2"> 
-			<table width="125" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr> 
-					<td colspan="2" valign="top"> 
-						<table border="0" cellpadding="0" cellspacing="0" class="leftnav" width="100%">
-							<tbody><tr valign="top"> 
-								<td colspan="2"> 
-									<table width="115" border="0" cellspacing="0" cellpadding="1" bgcolor="#CCCCCC" align="center">
-										<tbody><tr bgcolor="#004B7E"> 
-											<td> 
-												<table width="100%" border="0" cellspacing="0" cellpadding="4" background="/images/SiteUI/gradient_01.gif">
-													<tbody><tr> 
-														<td width="21"><img src="/images/Arrow_01.gif" width="13" height="10"></td>
-														<td width="105" class="sidenavheading">
-															Search Site
-														</td>
-													</tr>
-												</tbody></table>
-											</td>
-										</tr>
-										<tr> 
-											<td width="100%"> 
-												<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#999999">
-													<form name="frmSearch" method="POST" action="/search.asp?qu=" onsubmit="return SubmitSearch();"></form>
-													<tbody><tr> 
-														<td> 
-															<table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#FFFFFF">
-																<tbody><tr> 
-																	<td align="center" width="100%"> 
-																		<input type="text" name="txtSearchTerm" class="defaulttext" size="10" style="width:95" value=""><br>
-																		<img src="/images/clear.gif" height="5" width="1" border="0"><br>
-																		<input type="image" src="/images/go_2.gif" name="imgSearch" width="22" height="18">
-																		<img src="/images/clear.gif" height="5" width="1" border="0">
-																	</td>
-																</tr>
-															</tbody></table>
-														</td>
-													</tr>
-													
-												</tbody></table>
-											</td>
-										</tr>
-									</tbody></table>
-								</td>
-							</tr>
-							<tr valign="top"> 
-								<td colspan="2"><img src="/images/clear.gif" width="125" height="1"></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	
-	<tr valign="top"> 
-		<td colspan="2"> 
-			<table width="125" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr> 
-					<td colspan="2" valign="top"><img src="/images/clear.gif" width="125" height="7"></td>
-				</tr>
+		<td colspan="2" valign="center" align="center"><p> 
+			<table border="0" cellspacing="0" cellpadding="0" bgcolor="E9E9E9">
+				<tbody><tr>
+					<td height="1"><img src="/images/clear.gif" width="1" height="5"></td></tr>
+					
 				<tr> 
-					<td colspan="2" valign="top"> 
-						<table border="0" cellpadding="0" cellspacing="0" class="leftnav" width="100%">
-							<tbody><tr valign="top"> 
-								<td colspan="2"> 
-									<table width="115" border="0" cellspacing="0" cellpadding="1" bgcolor="#CCCCCC" align="center">
-										<tbody><tr bgcolor="#004B7E"> 
-											<td> 
-												<table width="100%" border="0" cellspacing="0" cellpadding="4" background="/images/SiteUI/gradient_01.gif">
-													<tbody><tr> 
-														<td width="21"><img src="/images/Arrow_01.gif" width="13" height="10"></td>
-														<td width="105"><a href="/browse_directory.asp" class="sidenavheading">
-															Directory
-														</a></td>
-													</tr>
-												</tbody></table>
-											</td>
-										</tr>
-										
-											<tr> 
-												<td width="100%"> 
-													<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-														<tbody><tr> 
-															<td><img src="/images/clear.gif" border="0" width="6"></td>
-															<td align="center" valign="middle"><img src="/images/bullet_01.gif" width="6" height="6"></td>
-															<td><img src="/images/clear.gif" border="0" width="3"></td>
-															<td valign="middle" width="100"><img src="/images/clear.gif" border="0" width="100" height="3"><br>
-																<a href="/browse_directory.asp?dirid=1" class="defaulttext" title="Computers and Software">
-																Computers and Software
-																</a>
-																<br><img src="/images/clear.gif" border="0" width="100" height="3"></td>
-														</tr>
-													</tbody></table>
-												</td>
-											</tr>
-											
-											<tr> 
-												<td width="100%"> 
-													<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-														<tbody><tr> 
-															<td><img src="/images/clear.gif" border="0" width="6"></td>
-															<td align="center" valign="middle"><img src="/images/bullet_01.gif" width="6" height="6"></td>
-															<td><img src="/images/clear.gif" border="0" width="3"></td>
-															<td valign="middle" width="100"><img src="/images/clear.gif" border="0" width="100" height="3"><br>
-																<a href="/browse_directory.asp?dirid=2" class="defaulttext" title="Control and Measurement">
-																Control and Measurement
-																</a>
-																<br><img src="/images/clear.gif" border="0" width="100" height="3"></td>
-														</tr>
-													</tbody></table>
-												</td>
-											</tr>
-											
-											<tr> 
-												<td width="100%"> 
-													<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-														<tbody><tr> 
-															<td><img src="/images/clear.gif" border="0" width="6"></td>
-															<td align="center" valign="middle"><img src="/images/bullet_01.gif" width="6" height="6"></td>
-															<td><img src="/images/clear.gif" border="0" width="3"></td>
-															<td valign="middle" width="100"><img src="/images/clear.gif" border="0" width="100" height="3"><br>
-																<a href="/browse_directory.asp?dirid=3" class="defaulttext" title="Electrical">
-																Electrical
-																</a>
-																<br><img src="/images/clear.gif" border="0" width="100" height="3"></td>
-														</tr>
-													</tbody></table>
-												</td>
-											</tr>
-											
-											<tr> 
-												<td width="100%"> 
-													<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-														<tbody><tr> 
-															<td><img src="/images/clear.gif" border="0" width="6"></td>
-															<td align="center" valign="middle"><img src="/images/bullet_01.gif" width="6" height="6"></td>
-															<td><img src="/images/clear.gif" border="0" width="3"></td>
-															<td valign="middle" width="100"><img src="/images/clear.gif" border="0" width="100" height="3"><br>
-																<a href="/browse_directory.asp?dirid=4" class="defaulttext" title="Electronics">
-																Electronics
-																</a>
-																<br><img src="/images/clear.gif" border="0" width="100" height="3"></td>
-														</tr>
-													</tbody></table>
-												</td>
-											</tr>
-											
-											<tr> 
-												<td width="100%"> 
-													<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-														<tbody><tr> 
-															<td><img src="/images/clear.gif" border="0" width="6"></td>
-															<td align="center" valign="middle"><img src="/images/bullet_01.gif" width="6" height="6"></td>
-															<td><img src="/images/clear.gif" border="0" width="3"></td>
-															<td valign="middle" width="100"><img src="/images/clear.gif" border="0" width="100" height="3"><br>
-																<a href="/browse_directory.asp?dirid=5" class="defaulttext" title="Materials Handling">
-																Materials Handling
-																</a>
-																<br><img src="/images/clear.gif" border="0" width="100" height="3"></td>
-														</tr>
-													</tbody></table>
-												</td>
-											</tr>
-											
-											<tr> 
-												<td width="100%"> 
-													<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-														<tbody><tr> 
-															<td><img src="/images/clear.gif" border="0" width="6"></td>
-															<td align="center" valign="middle"><img src="/images/bullet_01.gif" width="6" height="6"></td>
-															<td><img src="/images/clear.gif" border="0" width="3"></td>
-															<td valign="middle" width="100"><img src="/images/clear.gif" border="0" width="100" height="3"><br>
-																<a href="/browse_directory.asp?dirid=6" class="defaulttext" title="Metalworking">
-																Metalworking
-																</a>
-																<br><img src="/images/clear.gif" border="0" width="100" height="3"></td>
-														</tr>
-													</tbody></table>
-												</td>
-											</tr>
-											
-											<tr> 
-												<td width="100%"> 
-													<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-														<tbody><tr> 
-															<td><img src="/images/clear.gif" border="0" width="6"></td>
-															<td align="center" valign="middle"><img src="/images/bullet_01.gif" width="6" height="6"></td>
-															<td><img src="/images/clear.gif" border="0" width="3"></td>
-															<td valign="middle" width="100"><img src="/images/clear.gif" border="0" width="100" height="3"><br>
-																<a href="/browse_directory.asp?dirid=7" class="defaulttext" title="Packaging">
-																Packaging
-																</a>
-																<br><img src="/images/clear.gif" border="0" width="100" height="3"></td>
-														</tr>
-													</tbody></table>
-												</td>
-											</tr>
-											
-											<tr> 
-												<td width="100%"> 
-													<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-														<tbody><tr> 
-															<td><img src="/images/clear.gif" border="0" width="6"></td>
-															<td align="center" valign="middle"><img src="/images/bullet_01.gif" width="6" height="6"></td>
-															<td><img src="/images/clear.gif" border="0" width="3"></td>
-															<td valign="middle" width="100"><img src="/images/clear.gif" border="0" width="100" height="3"><br>
-																<a href="/browse_directory.asp?dirid=8" class="defaulttext" title="Process Systems &amp; Equipment">
-																Process Systems &amp; Equipment
-																</a>
-																<br><img src="/images/clear.gif" border="0" width="100" height="3"></td>
-														</tr>
-													</tbody></table>
-												</td>
-											</tr>
-											
-											<tr> 
-												<td width="100%"> 
-													<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-														<tbody><tr> 
-															<td><img src="/images/clear.gif" border="0" width="6"></td>
-															<td align="center" valign="middle"><img src="/images/bullet_01.gif" width="6" height="6"></td>
-															<td><img src="/images/clear.gif" border="0" width="3"></td>
-															<td valign="middle" width="100"><img src="/images/clear.gif" border="0" width="100" height="3"><br>
-																<a href="/browse_directory.asp?dirid=9" class="defaulttext" title="General Equipment consumables">
-																General Equipment
-																</a>
-																<br><img src="/images/clear.gif" border="0" width="100" height="3"></td>
-														</tr>
-													</tbody></table>
-												</td>
-											</tr>
-											
-											<tr> 
-												<td width="100%"> 
-													<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-														<tbody><tr> 
-															<td><img src="/images/clear.gif" border="0" width="6"></td>
-															<td align="center" valign="middle"><img src="/images/bullet_01.gif" width="6" height="6"></td>
-															<td><img src="/images/clear.gif" border="0" width="3"></td>
-															<td valign="middle" width="100"><img src="/images/clear.gif" border="0" width="100" height="3"><br>
-																<a href="/browse_directory.asp?dirid=10" class="defaulttext" title="Safety &amp; Security">
-																Safety &amp; Security
-																</a>
-																<br><img src="/images/clear.gif" border="0" width="100" height="3"></td>
-														</tr>
-													</tbody></table>
-												</td>
-											</tr>
-											
-									</tbody></table>
-								</td>
-							</tr>
-							<tr valign="top"> 
-								<td colspan="2"><img src="/images/clear.gif" width="125" height="1"></td>
-							</tr>
-						</tbody></table>
+					<td> 
+						<iframe marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="/common/adclicksystem/placead.asp?Type=2&amp;AdID=1728&amp;ad=407796_tile_v3.swf&amp;altAd=407796_tile_v3.gif&amp;URL=%2Fcommon%2Fclickthrough2%2Easp%3FintType%3D2%26strTarget%3Dhttp%253A%252F%252Fwww%252Eenerpac%252Ecom%26intOrigin%3D5%26strID%3D1728%26strReferer%3D%252Fprivacypolicy%252Easp%253F&amp;width=125&amp;height=125&amp;z=2005%2D12%2D14%3A10%3A39%3A21" width="125" height="125"><SCRIPT LANGUAGE="JavaScript1.1" SRC="/common/adclicksystem/placead.asp?Type=2&AdID=1728&ad=407796_tile_v3.swf&altAd=407796_tile_v3.gif&URL=%2Fcommon%2Fclickthrough2%2Easp%3FintType%3D2%26strTarget%3Dhttp%253A%252F%252Fwww%252Eenerpac%252Ecom%26intOrigin%3D5%26strID%3D1728%26strReferer%3D%252Fprivacypolicy%252Easp%253F&width=125&height=125&z=2005%2D12%2D14%3A10%3A39%3A21"></SCRIPT><NOSCRIPT><A HREF="/common/clickthrough2.asp?intType=2&strTarget=http%3A%2F%2Fwww%2Eenerpac%2Ecom&intOrigin=5&strID=1728&strReferer=%2Fprivacypolicy%2Easp%3F" target="_blank"><IMG SRC="/common/adclicksystem/ads/407796_tile_v3.gif" BORDER="0" width="125" height="125&z=2005%2D12%2D14%3A10%3A39%3A21"></A></NOSCRIPT></iframe>
 					</td>
 				</tr>
-				<tr valign="top" align="center"> 
-					<td colspan="2">&nbsp;</td>
-				</tr>
-				<tr valign="top"> 
-					<td colspan="2" valign="center" align="center"> 
-						<table border="0" cellspacing="0" cellpadding="0" bgcolor="E9E9E9">
-							<tbody><tr> 
-								<td>
-									<table width="100%" cellpaccing="0" cellspacing="0"><tbody><tr><td width="100%" align="center"><a href="/common/clickthrough2.asp?intType=2&amp;strTarget=http%3A%2F%2Fwww%2Eseek%2Ecom%2Eau&amp;intOrigin=5&amp;strID=296&amp;strReferer=%2Fprivacypolicy%2Easp%3F" target="_blank"><img src="/common/AdClickSystem/placead.asp?Type=1&amp;strImage=seekbutton.gif&amp;intPosID=2&amp;AdID=296&amp;z=2004%2D12%2D09%3A8%3A25%3A25" border="0" alt="" width="120" height="60"></a></td></tr></tbody></table>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr valign="top" align="center"> 
-					<td colspan="2">&nbsp;</td>
-				</tr>
-				<tr valign="top"> 
-					<td colspan="2" valign="center" align="center"> 
-						<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-							<tbody><tr> 
-								<td> 
-									
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr valign="top" align="center"> 
-					<td colspan="2">&nbsp;</td>
-				</tr>
-				<tr valign="top"> 
-					<td colspan="2" valign="center" align="center"> 
-						<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-							<tbody><tr> 
-								<td> 
-									
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr valign="top" align="center"> 
-					<td colspan="2">&nbsp;</td>
-				</tr>
-				<tr valign="top"> 
-					<td colspan="2" valign="center" align="center"> 
-						<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-							<tbody><tr> 
-								<td> 
-									
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
+			</tbody></table></p>
 		</td>
 	</tr>
-</tbody></table></td>
-				</tr>
-			</tbody></table>
-			<table width="1" border="0" cellspacing="0" cellpadding="0" height="1" valign="top">
-				<tbody><tr valign="top"> 
-					<td>  
-						<center>
-						<table border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr> 
-								<td width="1" bgcolor="#BFBFBF"><img src="/images/clear.gif" height="1" width="1"></td>
-							</tr>
-							<tr> 
-								<td height="1" bgcolor="#BFBFBF"><img src="/images/clear.gif" height="1" width="1"></td>
-							</tr>
-						</tbody></table>
-						</center>
+	<tr valign="top"> 
+		<td colspan="2" valign="center" align="center"><p> 
+			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
+				<tbody><tr>
+					<td height="1"><img src="/images/clear.gif" width="1" height="5"></td></tr>
+					
+				<tr> 
+					<td> 
+						<iframe marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="/common/adclicksystem/placead.asp?Type=2&amp;AdID=1459&amp;ad=406443_tile3.swf&amp;altAd=406443_tile.gif&amp;URL=%2Fcommon%2Fclickthrough2%2Easp%3FintType%3D2%26strTarget%3Dhttp%253A%252F%252Fwww%252Ersaustralia%252Ecom%26intOrigin%3D5%26strID%3D1459%26strReferer%3D%252Fprivacypolicy%252Easp%253F&amp;width=125&amp;height=125&amp;z=2005%2D12%2D14%3A10%3A39%3A21" width="125" height="125"><SCRIPT LANGUAGE="JavaScript1.1" SRC="/common/adclicksystem/placead.asp?Type=2&AdID=1459&ad=406443_tile3.swf&altAd=406443_tile.gif&URL=%2Fcommon%2Fclickthrough2%2Easp%3FintType%3D2%26strTarget%3Dhttp%253A%252F%252Fwww%252Ersaustralia%252Ecom%26intOrigin%3D5%26strID%3D1459%26strReferer%3D%252Fprivacypolicy%252Easp%253F&width=125&height=125&z=2005%2D12%2D14%3A10%3A39%3A21"></SCRIPT><NOSCRIPT><A HREF="/common/clickthrough2.asp?intType=2&strTarget=http%3A%2F%2Fwww%2Ersaustralia%2Ecom&intOrigin=5&strID=1459&strReferer=%2Fprivacypolicy%2Easp%3F" target="_blank"><IMG SRC="/common/adclicksystem/ads/406443_tile.gif" BORDER="0" width="125" height="125&z=2005%2D12%2D14%3A10%3A39%3A21"></A></NOSCRIPT></iframe>
 					</td>
 				</tr>
-			</tbody></table>
+			</tbody></table></p>
 		</td>
-		<td width="10" valign="top"><img src="/images/clear.gif" width="10" height="10"></td>
-		<td width="100%" valign="top">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%" valign="top">
-				<tbody><tr valign="top"> 
-					<td width="100%" valign="top">
-						<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" valign="top">
-							<tbody><tr height="100%" valign="top">
-								<td width="100%" valign="top">
-									<table width="100%" border="0" cellspacing="0" cellpadding="0" valign="top">
-										<tbody><tr valign="top"> 
-											<td><img src="/images/clear.gif" width="125" height="10"></td>
-										</tr>
-										<tr valign="top" align="center"> 
-											<td width="100%" align="center">
-												<iframe marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="/common/adclicksystem/placead.asp?Type=3&amp;strImage=Google Ad Filler_Mining.htm&amp;AdID=1117&amp;URL=%2Fcommon%2Fclickthrough2%2Easp%3FintType%3D2%26strTarget%3D%26intOrigin%3D5%26strID%3D1117%26strReferer%3D%252Fprivacypolicy%252Easp%253F&amp;width=468&amp;height=60" width="468" height="60&amp;z=2004%2D12%2D09%3A8%3A25%3A26"></iframe>
-											</td>
-										</tr>
-										<tr valign="top"> 
-											<td><img src="/images/clear.gif" width="125" height="10"></td>
-										</tr>
-									</tbody></table>
-									<!--START CONTENT--><br><table border="0" cellspacing="0" cellpadding="1" bgcolor="CBD2D0" vspace="0" hspace="0" width="100%"><tbody><tr valign="top"><td><table width="100%" border="0" cellspacing="0" cellpadding="4" background="/images/SiteUI/gradient_01.gif"><tbody><tr><td align="left" valign="middle"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><font color="#FFFFFF"><img src="/images/arrow_01.gif">&nbsp;&nbsp;Privacy Policy</font></font></td></tr></tbody></table></td></tr></tbody></table><br><table width="100%" border="0" cellspacing="0" cellpadding="6">
-	<tbody><tr> 
-		<td>
-			<p><font class="defaulttext">&nbsp;</font></p><font class="defaulttext">
-			<p>Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which takes effect in December 2001.</p>
+	</tr>
+	<tr valign="top"> 
+		<td colspan="2" valign="center" align="center"><p> 
+			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
+				<tbody><tr>
+					<td height="1"><img src="/images/clear.gif" width="1" height="5"></td></tr>
+					
+				<tr> 
+					<td> 
+						<table width="100%" cellpaccing="0" cellspacing="0"><tbody><tr><td width="100%" align="center"><a href="/common/clickthrough2.asp?intType=2&amp;strTarget=http%3A%2F%2Fwww%2Erohs%2Einfo%2Fau%2F&amp;intOrigin=5&amp;strID=1797&amp;strReferer=%2Fprivacypolicy%2Easp%3F" target="_blank"><img src="/common/AdClickSystem/placead.asp?Type=1&amp;strImage=409720_tile.gif&amp;intPosID=4&amp;AdID=1797&amp;z=2005%2D12%2D14%3A10%3A39%3A21" border="0" alt="" width="125" height="125"></a></td></tr></tbody></table>
+					</td>
+				</tr>
+			</tbody></table></p>
+		</td>
+	</tr>
+	<tr valign="top"> 
+		<td colspan="2" valign="center" align="center"><p> 
+			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
+				<tbody><tr>
+					<td height="1"><img src="/images/clear.gif" width="1" height="5"></td></tr>
+					
+				<tr> 
+					<td> 
+						<iframe marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="/common/adclicksystem/placead.asp?Type=2&amp;AdID=1551&amp;ad=407009_tile.swf&amp;altAd=&amp;URL=%2Fcommon%2Fclickthrough2%2Easp%3FintType%3D2%26strTarget%3Dhttp%253A%252F%252Fwww%252Eccg%252Ecom%252Eau%26intOrigin%3D5%26strID%3D1551%26strReferer%3D%252Fprivacypolicy%252Easp%253F&amp;width=125&amp;height=125&amp;z=2005%2D12%2D14%3A10%3A39%3A21" width="125" height="125"><SCRIPT LANGUAGE="JavaScript1.1" SRC="/common/adclicksystem/placead.asp?Type=2&AdID=1551&ad=407009_tile.swf&altAd=&URL=%2Fcommon%2Fclickthrough2%2Easp%3FintType%3D2%26strTarget%3Dhttp%253A%252F%252Fwww%252Eccg%252Ecom%252Eau%26intOrigin%3D5%26strID%3D1551%26strReferer%3D%252Fprivacypolicy%252Easp%253F&width=125&height=125&z=2005%2D12%2D14%3A10%3A39%3A21"></SCRIPT><NOSCRIPT><A HREF="/common/clickthrough2.asp?intType=2&strTarget=http%3A%2F%2Fwww%2Eccg%2Ecom%2Eau&intOrigin=5&strID=1551&strReferer=%2Fprivacypolicy%2Easp%3F" target="_blank"><IMG SRC="/common/adclicksystem/ads/" BORDER="0" width="125" height="125&z=2005%2D12%2D14%3A10%3A39%3A21"></A></NOSCRIPT></iframe>
+					</td>
+				</tr>
+			</tbody></table></p>
+		</td>
+	</tr>
+	<tr valign="top"> 
+		<td colspan="2" valign="center" align="center"> <p>
+			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
+				<tbody><tr>
+					<td height="1"><img src="/images/clear.gif" width="1" height="5"></td></tr>
+					
+				<tr> 
+					<td> 
+						<table width="100%" cellpaccing="0" cellspacing="0"><tbody><tr><td width="100%" align="center"><a href="/common/clickthrough2.asp?intType=2&amp;strTarget=http%3A%2F%2Fwww%2Engclark%2Ecom%2Eau&amp;intOrigin=5&amp;strID=430&amp;strReferer=%2Fprivacypolicy%2Easp%3F" target="_blank"><img src="/common/AdClickSystem/placead.asp?Type=1&amp;strImage=332710_button2.gif&amp;intPosID=22&amp;AdID=430&amp;z=2005%2D12%2D14%3A10%3A39%3A21" border="0" alt="" width="120" height="60"></a></td></tr></tbody></table>
+					</td>
+				</tr>
+			</tbody></table></p>
+		</td>
+	</tr>
+	<tr valign="top"> 
+		<td colspan="2" valign="center" align="center"> <p>
+			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
+				<tbody><tr>
+					<td height="1"><img src="/images/clear.gif" width="1" height="5"></td></tr>
+					
+				<tr> 
+					<td> 
+						<table width="100%" cellpaccing="0" cellspacing="0"><tbody><tr><td width="100%" align="center"><a href="/common/clickthrough2.asp?intType=2&amp;strTarget=http%3A%2F%2Fwww%2Ecapsandclosures%2Ecom%2Eau&amp;intOrigin=5&amp;strID=1778&amp;strReferer=%2Fprivacypolicy%2Easp%3F" target="_blank"><img src="/common/AdClickSystem/placead.asp?Type=1&amp;strImage=408033_tile.gif&amp;intPosID=37&amp;AdID=1778&amp;z=2005%2D12%2D14%3A10%3A39%3A21" border="0" alt="" width="125" height="125"></a></td></tr></tbody></table>
+					</td>
+				</tr>
+			</tbody></table></p>
+		</td>
+	</tr>
+</tbody></table>
+							<!--End Left Menu-->
+						</td>
+						<td width="1" bgcolor="757475" valign="top"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+						<td valign="top">							
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+									<td valign="top">
+										<!--Start Display Banner-->
+										<table width="100%" border="0" cellspacing="0" cellpadding="6" id="Table16" valign="top">
+											<tbody><tr>
+												<td valign="top" align="center"><table width="100%" cellpaccing="0" cellspacing="0"><tbody><tr><td width="100%" align="center"><a href="/common/clickthrough2.asp?intType=2&amp;strTarget=http%3A%2F%2Fwww%2Esumitomo%2Ddrive%2Ecom%2Eau&amp;intOrigin=5&amp;strID=1330&amp;strReferer=%2Fprivacypolicy%2Easp%3F" target="_blank"><img src="/common/AdClickSystem/placead.asp?Type=1&amp;strImage=405290_banner.gif&amp;intPosID=1&amp;AdID=1330&amp;z=2005%2D12%2D14%3A10%3A39%3A21" border="0" alt="Sumitomo Drive Technologies" width="468" height="60"></a></td></tr></tbody></table></td>
+											</tr>
+										</tbody></table>
+										<!--End Display Banner-->
+										<!--Start Page Content-->
+										<table width="100%" border="0" cellpadding="6" cellspacing="0" bordercolor="yellow">
+											<tbody><tr>
+												<td>
+													<!-- Start Page Content -->
+													
+													<table width="100%" border="0" cellpadding="0" cellspacing="0">
+														<!--Start Page Heading-->
+														<tbody><tr>		
+															<td colspan="5" valign="top">	
+																
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td colspan="2" valign="top" bgcolor="9A9997"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+		</tr>
+		<tr height="15">
+			<td height="15" valign="top" bgcolor="EDEDE8" align="left">
+			  <font class="redtext">&nbsp;&nbsp;<strong>Privacy Policy</strong></font>
+			</td>
+			<td height="15" valign="top" bgcolor="EDEDE8" align="right">
+			  <font class="redtext"><strong></strong>&nbsp;&nbsp;</font>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" valign="top" bgcolor="9A9997"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
+		</tr>
+	</tbody></table>
+	
+															</td>
+														</tr>
+														<tr height="5" colspan="5"><td></td></tr>
+														<!--End Page Heading-->
+														
+	
+	<!--Start Page Content-->
+		<tr>
+			<td>
+
+<meta http-equiv="Content-Type" content="text/html; charset=unicode">
+<meta content="MSHTML 6.00.2800.1400" name="GENERATOR">
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+  <tbody><tr> 
+    <td>
+<font class="defaulttext">
+			<p>Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which took effect in December 2001.</p>
 			<p>This privacy policy covers all personal information that we hold.</p>
-			<p><font class="newsheading">Collection of information</font></p>
+			<p><font class="subheading">Collection of information</font></p>
 			<p>Whenever we collect personal information from you we will do so in a lawful and fair way. We will also advise you how and where to contact us.</p>
 			<p>If we collect the information from a third party we will take reasonable steps to advise you of that collection promptly.</p>
 			<p>We will tell you why we are collecting the information and the third parties to whom we usually disclose that information.</p>
 			<p>If you do not wish to provide the information we request, we will tell you what impact this will have.</p>
-			<p><font class="newsheading">Disclosing information </font></p>
+			<p><font class="subheading">Disclosing information </font></p>
 			<p>We will only disclose personal information in accordance with the Act. This means that it will be disclosed if:</p>
 			<ul type="square">
-				<li>we told you when collecting it that it would be disclosed for that purpose or for a related purpose that you would reasonably expect;</li>
-				<li>we have your consent;</li>
-				<li>it is part of business assets which we are selling;</li>
-				<li>we are required by law to disclose it; or</li>
-				<li>it is otherwise permitted under the Act</li>
+				<li>we told you when collecting it that it would be 
+        disclosed for that purpose or for a related purpose that you would 
+        reasonably expect; 
+        
+				</li><li>we have your consent; 
+        
+				</li><li>it is part of business assets which we are 
+        selling; 
+        
+				</li><li>we are required by law to disclose it; or 
+        
+				</li><li>it is otherwise permitted under the Act</li>
 			</ul>
-			<p><font class="newsheading">Opt Out</font></p>
+			<p><font class="subheading">Opt Out</font></p>
 			<p>We will provide you with a low cost way of contacting us if you wish to opt out from receiving further marketing offers. </p>
 			<p>In accordance with the Act, direct marketing offers will contain an opportunity to opt out.</p>
-			<p><font class="newsheading">Quality of information </font></p>
+			<p><font class="subheading">Quality of information </font></p>
 			<p>We will take reasonable steps to ensure that the information that we collect, use and disclose is accurate, complete and up to date.</p>
-			<p><font class="newsheading">Security</font></p>
+			<p><font class="subheading">Security</font></p>
 			<p>We are committed to protecting your privacy and will take reasonable steps to ensure that the information we collect is protected from loss and misuse and from unauthorised access, modification and disclosure.  </p>
-			<p><font class="newsheading">Access to the information we hold</font></p>
+			<p><font class="subheading">Access to the information we hold</font></p>
 			<p>You can access your personal information upon request. However, there are occasions when this access may be denied under the exemptions contained in the Act.</p>
-			<p><font class="newsheading">Availability of policy</font></p>
+			<p><font class="subheading">Availability of policy</font></p>
 			<p>This policy is available upon request. It will be reviewed from time to time and any  amendments will be included in the updated policy.</p>
-			<p><font class="newsheading">Privacy inquiries </font></p>
+			<p><font class="subheading">Privacy inquiries </font></p>
 			<p>If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact:</p>
 			<p>Mary Alice Bannister
 				<br>Reed Elsevier Australia Pty Limited
@@ -588,224 +564,75 @@
 			<p>Phone 02 9422 2002
 				<br>Fax 02 9422 2682</p>
 
-			<p>Email: <a href="mailto:mary-alice.bannister@reed-elsevier.com.au">mary-alice.bannister@reed-elsevier.com.au</a></p>
-		</font></td>
-	</tr>
-</tbody></table>											<!--END CONTENT-->
-											</td>
-										</tr>
-										<tr>
-											<td width="100%" valign="bottom" align="center">
-												<p></p><hr noshade="" width="100%" size="1"><p></p>
-
-<table width="100%"><tbody><tr><td width="33%" align="center"></td><td width="33%" align="center"></td><td width="33%" align="center"></td><td width="33%" align="center"></td></tr></tbody></table>
-
-<center>
-<p align="center" width="100%" class="defaulttext">
-	<a href="/default.asp" class="defaulttext">Home</a>&nbsp;|&nbsp;
-	<a href="/articlelist.asp" class="defaulttext">News Archive</a>&nbsp;|&nbsp;
-	<a href="/listing.asp" class="defaulttext">Add My Company</a>&nbsp;|&nbsp;
-	<a href="/publications.asp" class="defaulttext">Publications</a>&nbsp;|&nbsp;
-	<a href="/advertisers.asp" class="defaulttext">Advertising</a>&nbsp;|&nbsp;
-	<a href="/contacts.asp" class="defaulttext">Contact Us</a>&nbsp;|&nbsp;
-	<a href="/about.asp" class="defaulttext">About Us</a>&nbsp;|&nbsp;
-	<a href="/privacypolicy.asp" class="defaulttext">Privacy Policy</a>
-</p>
-</center>
-
-<p align="justify">
-	<font class="defaulttext">
-	Copyright © Reed Business Information. All material on this site is subject to copyright. All rights reserved.
-	No part of this material may be reproduced, translated, transmitted, framed or stored in a retrieval system for public or private use without the written permission of the publisher.
-	</font>
-</p>
-											</td>
-										</tr>
-									</tbody></table>
-								</td>
-								<td width="10"><img src="/images/clear.gif" width="10" height="10"></td>
-								<td width="125" align="right" valign="top">
-									<table width="125" border="0" cellspacing="0" cellpadding="0" align="right" vspace="0" hspace="0">
-	<tbody><tr valign="top"> 
-		<td><img src="/images/clear.gif" width="125" height="4"></td>
-	</tr>
-	<tr valign="top"> 
-		<td> 
-			<table width="125" border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-					<tbody><tr bgcolor="#004B7E"> 
-						<td> 
-							<table width="100%" border="0" cellspacing="0" cellpadding="4" background="/images/SiteUI/gradient_01.gif">
-								<tbody><tr> 
-									<td width="21"><img src="/images/Arrow_01.gif" width="13" height="10"></td>
-									<td width="105" class="sidenavheading">
-										<a href="/enewsletter2.asp?action=1" class="sidenavheading">E-Newsletter</a>
+			</font>
+    </td>
+  </tr>
+</tbody></table>
+</td>
+		</tr>
+	</tbody></table>
+	
+														<!-- End Page Content -->
+												</td>
+											</tr>
+										</tbody></table>
 									</td>
 								</tr>
-							</tbody></table>
+							</tbody></table>	
 						</td>
-					</tr>
-					<tr> 
-						<td> 
-							<table width="100%" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFFFFF">
-								<tbody><tr align="center" valign="middle"> 
-									<form name="frmENewsletter" method="POST" onsubmit="return SubmitENewsletter();"></form>
-									<td colspan="2" class="defaulttext">
-										&nbsp; 
-										<input type="text" name="strEmailAddress" class="defaulttext" size="10" style="width:80" alt="Enter your e-mail here to receive breaking news each day with the free Dialinfolink daily e-newsletter" value="">
-										<input type="image" src="/images/go_2.gif" name="imgENewsletter" width="22" height="18"><br>
-										enter email to register
-									</td>
-									
-								</tr>
-							</tbody></table>
-						</td>
+						<!--Right Column-->
+						
+			<!--No right Content-->
+			
+						<!--end Right Column-->
 					</tr>
 				</tbody></table>
 			</td>
+			<td width="6" valign="top" background="/images/back_02.jpg"><img src="/images/spacer.gif" width="6" height="6" hspace="0" vspace="0"></td>
 		</tr>
-		<tr valign="top"> 
-		<td><img src="/images/clear.gif" width="125" height="15"></td>
-	</tr>
-	<tr valign="top"> 
-		<td> 
-			<table width="125" border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-				<tbody><tr bgcolor="#004B7E"> 
-					<td> 
-						<table width="100%" border="0" cellspacing="0" cellpadding="4" background="/images/SiteUI/gradient_01.gif">
-							<tbody><tr> 
-								<td width="21"><img src="/images/Arrow_01.gif" width="13" height="10"></td>
-								<td width="105" class="sidenavheading">
-									Resources
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td width="100%"> 
-						<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-							<tbody><tr> 
-								<td><img src="/images/clear.gif" border="0" width="6"></td>
-								<td align="center" valign="middle"><img src="/images/bullet_01.gif" width="6" height="6"></td>
-								<td><img src="/images/clear.gif" border="0" width="3"></td>
-								<td valign="middle" width="100"><img src="/images/clear.gif" border="0" width="100" height="3"><br>
-									<a href="/industryindex.asp" class="rightnavtext">
-										Industry Links 
-									</a>
-									<br><img src="/images/clear.gif" border="0" width="100" height="3"></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td width="100%"> 
-						<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-							<tbody><tr> 
-								<td><img src="/images/clear.gif" border="0" width="6"></td>
-								<td align="center" valign="middle"><img src="/images/bullet_01.gif" width="6" height="6"></td>
-								<td><img src="/images/clear.gif" border="0" width="3"></td>
-								<td valign="middle" width="100"><img src="/images/clear.gif" border="0" width="100" height="3"><br>
-									<a href="/events.asp" class="rightnavtext">
-										Events 
-									</a>
-									<br><img src="/images/clear.gif" border="0" width="100" height="3"></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr valign="top"> 
-		<td><img src="/images/clear.gif" width="125" height="15"></td>
-	</tr>
-	<tr valign="top"> 
-		<td> 
-			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-				<tbody><tr> 
-					<td> 
-						
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr valign="top" align="center"> 
-		<td>&nbsp;</td>
-	</tr>
-	<tr valign="top"> 
-		<td> 
-			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-				<tbody><tr> 
-					<td> 
-						
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr valign="top" align="center"> 
-		<td>&nbsp;</td>
-	</tr>
-	<tr valign="top"> 
-		<td> 
-			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-				<tbody><tr> 
-					<td> 
-						
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr valign="top" align="center"> 
-		<td>&nbsp;</td>
-	</tr>
-	<tr valign="top"> 
-		<td> 
-			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-				<tbody><tr> 
-					<td> 
-						
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	
-	<tr valign="top" align="center"> 
-		<td>&nbsp;</td>
-	</tr>
-	<tr valign="top"> 
-		<td> 
-			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-				<tbody><tr> 
-					<td> 
-						<script type="text/javascript"><!--
-						google_ad_client = "pub-4546863730414053";
-						google_ad_width = 120;
-						google_ad_height = 600;
-						google_ad_format = "120x600_as";
-						google_ad_channel ="9778112420";
-						//--></script>
-						<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-						</script>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	
-</tbody></table>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		
-	
-
+		<!--End Main-->	
+					
+		<!--Footer-->
+		<tr>
+			<td width="7" valign="top" background="/images/back_03.jpg"><img src="/images/spacer.gif" width="7" height="7" hspace="0" vspace="0"></td>
+			<td valign="top"><img src="/images/dots_02.gif" width="100%" height="1" hspace="0" vspace="0" border="0"></td>
+			<td width="6" valign="top" background="/images/back_02.jpg"><img src="/images/spacer.gif" width="6" height="6" hspace="0" vspace="0"></td>
+		</tr>
+		<tr>
+			<td width="7" valign="top" background="/images/back_03.jpg"><img src="/images/spacer.gif" width="7" height="7" hspace="0" vspace="0"></td>
+			<!--<td width="7" valign="top"><img src="/images/bottom_01.gif" width="7" height="1" hspace="0" vspace="0"></td>-->
+			<td valign="top">
+				<table width="100%" border="0" cellspacing="4" cellpadding="4">
+					<tbody><tr>
+						<td><center>
+	<a href="/default.asp" class="ferrettext">Home</a>&nbsp;|&nbsp;
+	<a href="/affiliate.asp" class="ferrettext">Affiliate</a>&nbsp;|&nbsp;
+	<a href="/articlelist.asp" class="ferrettext">News Archive</a>&nbsp;|&nbsp;
+	<a href="/newsletter.asp" class="ferrettext">Email Alerts</a>&nbsp;|&nbsp;	
+	<a href="/listing.asp" class="ferrettext">Free Listing</a>&nbsp;|&nbsp;
+	<a href="/publications.asp" class="ferrettext">Publications</a>&nbsp;|&nbsp;
+	<a href="/advertisers.asp" class="ferrettext">Advertising</a>&nbsp;|&nbsp;
+	<a href="/forms/" class="ferrettext">Online Forms</a>&nbsp;|&nbsp;		
+	<a href="http://www.reedbusiness.com.au/default.asp?sect=10" class="ferrettext">Disclaimer</a>&nbsp;|&nbsp;
+	<a href="/contacts.asp" class="ferrettext">Contact Us</a>&nbsp;|&nbsp;
+	<a href="/about.asp" class="ferrettext">About Us</a>&nbsp;|&nbsp;
+	<a href="/privacypolicy.asp" class="ferrettext">Privacy Policy</a>&nbsp;|&nbsp;
+	<a href="/FerretAwards/AwardsDefault.asp" class="ferrettext">Industry Awards</a>
+</center>
+<p align="justify">
+	<font class="ferrettext">
+	Copyright © Reed Business Information. All material on this site is subject to copyright. All rights reserved.
+	No part of this material may be reproduced, translated, transmitted, framed or stored in a retrieval system for public or private use without the written permission of the publisher.
+	</font>
+</p></td>
+					</tr>
+				</tbody></table>
+			</td>
+			<!--<td width="6" valign="top"><img src="/images/bottom_02.gif" width="6" height="1" hspace="0" vspace="0"></td>-->
+			<td width="6" valign="top" background="/images/back_02.jpg"><img src="/images/spacer.gif" width="6" height="6" hspace="0" vspace="0"></td>
+		</tr>
+		<!--End Footer-->
+	</tbody></table>
 
 
 
