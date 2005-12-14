@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalzoom.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525185212id_/http%3A//www.legalzoom.com/universal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalzoom.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214184445id_/http%3A//www.legalzoom.com/universal/privacy.html) for the most accurate reproduction.*
 
 # Privacy - We incorporate strict privacy policies to keep your personal and financial information secure.
 
@@ -38,6 +38,6 @@ IF FOR ANY REASON YOU BELIEVE THAT YOUR PRIVACY HAS BEEN BREACHED THROUGH THE US
 |   
 ---|---  
 |  |   
-[Home](https://web.archive.org/web/20050525185212id_/http%3A//www.legalzoom.com/index.html) [About Us](https://web.archive.org/web/20050525185212id_/http%3A//www.legalzoom.com/universal/aboutus.html) [Contact](https://web.archive.org/web/20050525185212id_/http%3A//www.legalzoom.com/universal/contact.html) [Press](https://web.archive.org/web/20050525185212id_/http%3A//www.legalzoom.com/universal/press.html) [Privacy](https://web.archive.org/web/20050525185212id_/http%3A//www.legalzoom.com/universal/privacy.html) [Disclaimer](https://web.archive.org/web/20050525185212id_/http%3A//www.legalzoom.com/universal/disclaimer.html) [Bookstore](http://www.legal.com/shop/?affilid=1002)  
+[Home](https://web.archive.org/web/20051214184445id_/http%3A//www.legalzoom.com/index.html) [About Us](https://web.archive.org/web/20051214184445id_/http%3A//www.legalzoom.com/universal/aboutus.html) [Contact](https://web.archive.org/web/20051214184445id_/http%3A//www.legalzoom.com/universal/contact.html) [Press](https://web.archive.org/web/20051214184445id_/http%3A//www.legalzoom.com/universal/press.html) [Privacy](https://web.archive.org/web/20051214184445id_/http%3A//www.legalzoom.com/universal/privacy.html) [Disclaimer](https://web.archive.org/web/20051214184445id_/http%3A//www.legalzoom.com/universal/disclaimer.html) [Bookstore](http://www.legal.com/shop/?affilid=1002)  
   
 
