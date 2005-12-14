@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403110405id_/http%3A//www.photoxels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214170637id_/http%3A//www.photoxels.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - Photoxels
 
@@ -20,7 +20,7 @@ This website contains links to other sites that operate independently and are no
 
 Our website uses contact forms for customers to request information and send feedback. Some spammer companies may maliciously use our email address or contact forms to make it look like their spam originates from Photoxels. We have no affiliation with these spamware and scumware companies. Please report all misuse of our email address and contact forms to us.
 
-We maintain a private list of subscribers to our newsletters, which is never made available or sold to outside companies. Our newsletter is strictly opt-in, i.e. you have to request it to receive it. It is very easy to [unsubscribe](https://web.archive.org/web/20050403110405id_/http%3A//www.photoxels.com/subscribe.html#unsubscribe).
+We maintain a private list of subscribers to our newsletters, which is never made available or sold to outside companies. Our newsletter is strictly opt-in, i.e. you have to request it to receive it. It is very easy to [unsubscribe](https://web.archive.org/web/20051214170637id_/http%3A//www.photoxels.com/subscribe.html#unsubscribe).
 
 For further information, please contact us.
 
