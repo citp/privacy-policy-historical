@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azdes.gov privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629023724id_/http%3A//www.azdes.gov/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azdes.gov privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214114042id_/http%3A//www.azdes.gov/privacy/default.asp) for the most accurate reproduction.*
 
 # 
 
@@ -23,7 +23,7 @@ The Department of Economic Security web site has links to other web sites. These
 
 **Contact Information **  
 To offer comments about the DES web site, or about the information presented in this Privacy Statement, contact us:   
-By Email: [webmaster@mail.de.state.az.us](mailto:webmaster@mail.de.state.az.us)   
+By Email: [webmaster@azdes.gov](mailto:webmaster@azdes.gov)   
 By Telephone: (602) 542-4296   
 By Fax: (602) 254-8457   
 By Mail: Department of Economic Security   
