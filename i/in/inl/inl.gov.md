@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inl.gov privacy policy that was archived on 2005-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050218013239id_/http%3A//www.inl.gov/securityprivacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inl.gov privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214115647id_/http%3A//www.inl.gov/securityprivacy/index.shtml) for the most accurate reproduction.*
 
 # The Idaho National Laboratory - Security/Privacy Statement
 
@@ -24,8 +24,8 @@ Parts of our site use cookies to improve your experience. A cookie contains info
 
 For additional information about cookie usage on Federal web sites, please visit the following: 
 
-  * [Department of Energy's computer Incident Advisory Capability (CIAC) Bulletin I-034: Internet Cookies](http://www.inel.gov/x-web/other/framed.shtml?http://www.ciac.org/ciac/bulletins/i-034.shtml)
-  * [OMB Memorandum 99-18 "Privacy Policies on Federal Web Sites dated June 2, 1999](http://www.inel.gov/x-web/other/framed.shtml?http://www.whitehouse.gov/omb/memoranda/m99-18attach.html)
+  * [Department of Energy's computer Incident Advisory Capability (CIAC) Bulletin I-034: Internet Cookies](http://www.ciac.org/ciac/bulletins/i-034.shtml)
+  * [OMB Memorandum 99-18 "Privacy Policies on Federal Web Sites dated June 2, 1999](http://www.whitehouse.gov/omb/memoranda/m99-18attach.html)
 
 
 
