@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305234112id_/http%3A//www.superbreak.com/info/privacyinfo.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214121527id_/http%3A//www.superbreak.com/info/privacyinfo.htm) for the most accurate reproduction.*
 
 # Superbreak > Hotel Bookings, Reservations & Short Break Holidays
 
@@ -16,7 +16,7 @@ If you have a complaint to make, please contact our Customer Relations Manager a
 
 #### Cancellations and Conditions
 
-Full details of Superbreaks terms and conditions can be found [here](https://www.secure-serve.com/superbreak/info/termspopup.htm?w=500&h=350&sbar=yes)
+Full details of Superbreaks terms and conditions can be found [here](https://www.superbreak.com/info/termspopup.htm?w=500&h=350&sbar=yes)
 
 Superbreak's standard cancellation policy is as follows;
 
