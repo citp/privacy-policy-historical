@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox59.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607113131id_/http%3A//fox59.trb.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox59.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214125338id_/http%3A//fox59.trb.com/go/services/privacy) for the most accurate reproduction.*
 
 # FOX59.com | WXIN-TV | Indianapolis | Privacy Policy
 
@@ -14,7 +14,7 @@ Like most Web sites, FOX59.com also collects information automatically and throu
 
 We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on FOX59.com to communicate with you regarding our [Terms of Service](https://web.archive.org/services/wxin-terms.htmlstory) and privacy policy, products and services offered by FOX59.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on FOX59.com to communicate with you regarding our [Terms of Service](https://web.archive.org/services/wxin-terms,0,1277054.htmlstory) and privacy policy, products and services offered by FOX59.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
 
 Personally Identifiable Information collected by FOX59.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
 
@@ -41,8 +41,8 @@ FOX59.com does not knowingly collect or solicit Personally Identifiable Informat
 We can be reached by contacting:
 
 **FOX59.com.  
-1440 N. Meridian St.,  
-Indianapolis, IN 46202  
+6910 Network Place  
+Indianapolis, IN 46278   
 [kkrebs@tribune.com](mailto:kkrebs@tribune.com), [bmaupin@tribune.com](mailto:bmaupin@tribune.com)**
 
   
