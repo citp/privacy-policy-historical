@@ -1,17 +1,64 @@
-<!--The following is the downloaded HTML source of the rei.com privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202184630id_/http%3A//rei.com/rei/privacy.html%3Fstat%3Dfooter_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rei.com privacy policy that was archived on 2005-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<!-- nav.css -->
-<link rel="stylesheet" href="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/rei/css/nav.css" type="text/css">
-<!-- end nav.css -->
+<html xmlns:fo="http://www.w3.org/1999/XSL/Format"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script type="text/javascript" language="javascript">
 
-<title>REI: Privacy Policy and Security Statement</title>
-</head>
-<body bgcolor="#ffffff" marginheight="0" topmargin="0" marginwidth="0" leftmargin="0">
+function chooseSKU(prod_num) {
+    if (prod_num == "LABEL") {
+        alert( "Please choose a color/size before adding this item to your shopping basket." );
+        return false;
+    } else {
+        return true;
+    }
+}
 
- 
- <!-- Header -->
+</script><script type="text/javascript" language="javascript">
+			var url = window.location.toString();
+			var loc = url.indexOf("storeId=");
+			var storeId = url.substring(loc+8,loc+12);
+			function addStoreId() {
+				var pageLinks = document.getElementsByTagName('a');
+				for(i=0; i<pageLinks.length; i++){
+					var href = pageLinks[i].href
+					var hasQuery = href.indexOf('?');
+					var toLoc = href.indexOf('storeId=');
+					var isHelp = href.indexOf('/shared/help/');
+					if(toLoc == -1 && isHelp > -1){
+						if(loc == -1){
+							storeId = 8000;
+						}
+						if(hasQuery > -1){
+							href = href + '&storeId=' + storeId;
+						}
+						if(hasQuery == -1){
+							href = href + '?storeId=' + storeId;
+						}
+						document.getElementsByTagName('a')[i].href = href;
+					}
+				}
+			}
+</script><script type="text/javascript" language="javascript">
+if(storeId == "8001") {
+  document.write('<link rel="stylesheet" href="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outlet/css/outnav.css" type="text/css">');
+} else {
+  document.write('<link rel="stylesheet" href="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/rei/css/nav.css" type="text/css">');
+}
+		</script><link rel="stylesheet" href="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/rei/css/nav.css" type="text/css">
+        <link type="text/css" rel="stylesheet" href="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/rei/css/help.css">
+        <title>Help: Privacy and Security</title>
+        <style type="text/css"></style>
+    </head>
+    <body topmargin="0" marginwidth="0" marginheight="0" leftmargin="0" id="Privacy and Security" class="help" bgcolor="#ffffff"><div id="header">
+<script language="JavaScript" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/rei/javascript/gr_cookie.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/rei/javascript/querystring.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/javascript/coremetrics/rei/env/env.js"></script>
+<script type="text/javascript" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/rei/javascript/coremetrics/eluminate.js"></script>
+<script type="text/javascript" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/rei/javascript/coremetrics/cmdatatagutils.js"></script>
+<script type="text/javascript" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/rei/javascript/coremetrics/rei/rei.js"></script>
+<script type="text/javascript" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/rei/javascript/querystring.js"></script>
 
 <script language="javascript" type="text/javascript">
 // sitedocs/rei/include/reihdr.inc
@@ -23,6 +70,7 @@ function logout(){
     setCookie("SESSION_ID","");
     setCookie("loggedin","0");
     setCookie("rei_cart","0");
+    setCookie("GiftRegistrySetup","0");
 
  }
 function getCookieVal(offset) {
@@ -32,7 +80,7 @@ function getCookieVal(offset) {
     return unescape(document.cookie.substring(offset, endstr));
 }
 
-function getCookie(name) { 
+function getCookie(name) {
     var arg = name + "=";
     var alen = arg.length;
     var clen = document.cookie.length;
@@ -71,339 +119,788 @@ var numOfItems = getCookie("rei_cart");
 var loggedIn = getCookie("loggedin");
 if (!numOfItems ) numOfItems = 0;
 if( numOfItems == 1 ) multipleItems = "";
- 
-</script> 
 
-
-
-
-<table width="734" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="149" rowspan="3" class="bgColBlk"><a href="/index.jsp?stat=header_rei"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/rei_logo.gif" width="149" height="90" border="0" alt="www.rei.com"></a></td>
-<td width="585" colspan="3" class="bgColYel"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="585" height="1" border="0" alt=""><br>
-<form method="get" action="/online/store/Search" name="psearch">
-<input value="7889" name="stat" type="hidden"><input value="-1" name="langId" type="hidden"><input value="8000" name="storeId" type="hidden">
-
-<table width="585" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="27"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="27" height="17" border="0" alt=""></td>
-<td width="248" valign="bottom"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/search.gif" width="153" height="17" border="0" alt="Search REI.com"></td>
-<td width="310" colspan="3" valign="top"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="310" height="17" border="0" alt=""></td>
-</tr>
-<tr>
-<td width="27" rowspan="2"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="27" height="24" border="0" alt=""></td>
-<td width="248" valign="top" rowspan="2" class="smText">
-<table width="150" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td class="smText"><input type="text" name="textQuery" value="Enter a word or item #" onfocus="javascript:document.psearch.textQuery.value='';" size="23" maxlength="60"></td><td><input type="image" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/button_go.gif" border="0" alt="GO"></td></tr></tbody></table></td>
-<td width="130" align="center" valign="middle" class="smText"><a href="/online/store/ShoppingBasket?storeId=8000&amp;langId=-1&amp;catalogId=40000008000&amp;stat=header_cart"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/button_sc.gif" width="130" height="22" border="0" alt="Shopping Cart"></a></td>
-<script language="javascript" type="text/javascript">
-if(loggedIn == 1){
-document.write('<td width="130" align="center" valign="middle" class="smText"><a href="/online/store/YourAccountInfoInView?storeId=8000&langId=-1&catalogId=40000008000&stat=header_account"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/button_ya.gif" width="106" height="22" border="0" alt="Your Account"></a></td>');
-}else{
-document.write('<td width="130" align="center" valign="middle" class="smText"><a href="/online/store/YourAccountInfoOutView?storeId=8000&langId=-1&catalogId=40000008000&stat=header_account"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/button_ya.gif" width="106" height="22" border="0" alt="Your Account"></a></td>');
-}
-</script><td width="130" align="center" valign="middle" class="smText"><a href="/online/store/YourAccountInfoOutView?storeId=8000&amp;langId=-1&amp;catalogId=40000008000&amp;stat=header_account"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/button_ya.gif" width="106" height="22" border="0" alt="Your Account"></a></td>
-<script language="javascript" type="text/javascript">
-if (loggedIn == 1) {
-  document.write('<td width="50" align="center" valign="middle" rowspan="2" class="smText"><a href="/online/store/REILogoffCmd?storeId=8000&langId=-1&catalogId=40000008000&URL=' + location.href + '">Log out');
-} else {
-  document.write('<td width="50" align="center" valign="middle" rowspan="2" class="smText"><a href="https://' + location.host + '/online/store/YourAccountLoginView?catalogId=40000008000&storeId=8000&langId=-1&URL=' + location.href + '">Log in');
-}
-document.write('</a><br><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="50" height="15" border="0" alt=""></td></tr><tr>');
-
-
-if(document.title != "REI.com: Shopping Basket"){
-document.write('<td width="130" align="center" valign="middle" class="smText">(contains ' + numOfItems + ' item' + multipleItems + ')</td>');
-}
-else{
-document.write('<td width="130" align="center" valign="middle" class="smText"></td>');
-}
-
-
-
-if(loggedIn == 1){
-document.write('<td width="130" align="center" valign="middle" class="smText">You are logged in.</td>');
-}
-else{
-document.write('<td width="130" align="center" valign="middle" class="smText">You are not logged in.</td>');
-}
-</script><td width="50" align="center" valign="middle" rowspan="2" class="smText"><a href="https://web.archive.org/online/store/YourAccountLoginView?catalogId=40000008000&amp;storeId=8000&amp;langId=-1&amp;URL=https://web.archive.org/web/20031202184630id_/http%3A//rei.com/rei/privacy.html%3Fstat%3Dfooter_privacy">Log in</a><br><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="50" height="15" border="0" alt=""></td></tr><tr><td width="130" align="center" valign="middle" class="smText">(contains 0 items)</td><td width="130" align="center" valign="middle" class="smText">You are not logged in.</td>
-
-</tr>
-</tbody></table>
-
-</form></td></tr>
-<tr>
-<td width="585" colspan="3" valign="bottom" class="bgColYel"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="585" height="5" border="0" alt="spacer"></td></tr>
-<tr>
-<td width="585" colspan="3" valign="bottom" class="bgColYel">
-<table width="405" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="14"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="14" height="26" border="0" alt=""></td>
-<td width="69"><a href="/index.jsp?stat=header_rei"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_rei2.gif" width="69" height="26" border="0" alt="REI.com"></a></td>
-<td width="113"><a href="/outlet/index.html?stat=header_outlet"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_outlet2.gif" width="113" height="26" border="0" alt="REI-OUTLET.com"></a></td>
-<td width="104"><a href="/adventures/index.html?stat=header_adventures"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_adventures2.gif" width="104" height="26" border="0" alt="REI Adventures"></a></td>
-<td width="105"><a href="/stores/index.jsp?stat=header_stores"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_stores2.gif" width="105" height="26" border="0" alt="Stores &amp; Events"></a></td></tr>
-</tbody></table>
-</td></tr>
-
-<tr>
-<td width="585" colspan="3" class="bgColDGr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="585" height="1" border="0" alt=""></td></tr>
-
-<tr>
-<td width="149" rowspan="2" class="bgSmTopo"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="149" height="20" border="0" alt=""></td>
-<td class="bgColGr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="1" height="10" border="0" alt=""></td>
-<td width="585" class="bgColGr"><table width="585" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="15"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="15" height="1" border="0" alt=""></td>
-<td width="49" align="center" class="smWhText"><a href="/index.jsp?stat=header_home" class="white">Home</a></td>
-
-<td width="5" align="center" class="smWhText">|</td>
-<td width="118" align="center" class="smText"><a href="/rei/gearshop/index.jsp?stat=header_shop_all" class="white">Shop All Categories</a></td>
-<td width="5" align="center" class="smWhText">|</td>
-<td width="118" align="center" class="smText"><a href="/rei/help/orderhelp.html?stat=header_ordering" class="white">Ordering Questions</a></td>
-<td width="5" align="center" class="smWhText">|</td>
-<td width="96" align="center" class="smWhText"><a href="/rei/help/shipping.html?stat=header_shipping" class="white">Shipping Info</a></td>
-<td width="5" align="center" class="smWhText">|</td>
-<td width="73" align="center" class="smText"><a href="/rei/help/feedback/feedback.html?stat=header_contact" class="white">Contact Us</a></td>
-<td width="5" align="center" class="smWhText">|</td>
-<td width="50" align="center" class="smText"><a href="/rei/help/hintro.html?stat=header_help" class="white">Help</a></td>
-<td width="45"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="45" height="1" border="0" alt=""></td></tr>
-</tbody></table>
-</td>
-<td class="bgColDGr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="1" height="21" border="0" alt=""></td></tr>
-
-<tr>
-<td width="585" colspan="3" class="bgColDGr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="585" height="1" border="0" alt=""></td></tr>
-
-</tbody></table>
-
-
-<!-- End Header -->
- 
-
-
-
-<table width="734" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td width="149" valign="top" class="bgTopo">
-<!-- Sidebar -->
-
-
-<table width="149" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="14"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="14" height="1" border="0" alt=""></td>
-<td width="135" valign="top">
-<table width="135" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="135" valign="top" class="regBText"><font class="fakeActive">Gear Shops<br></font></td></tr>
-<tr><td width="135" class="regBText"><a href="/rei/gearshop/index.jsp?specialty_shop=Camping&amp;stat=side_1" class="yellow">Camping/Hiking</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Climbing&amp;stat=side_2" class="yellow">Climbing</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Cycling&amp;stat=side_3" class="yellow">Cycling</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Paddling&amp;stat=side_4" class="yellow">Paddling</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Alpine_ski&amp;stat=side_5" class="yellow">Alpine Skiing</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Snowboard&amp;stat=side_5" class="yellow">Snowboard</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Nordic_snowshoe&amp;stat=side_5" class="yellow">Nordic/Snowshoe</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Crosstrain&amp;stat=side_8" class="yellow">Cross Training</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Travel&amp;stat=side_10" class="yellow">Travel</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Timetoolsoptics&amp;stat=side_11" class="yellow">Time, Tools &amp; Optics</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=REI&amp;stat=side_15" class="yellow">REI Gear</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Books_maps&amp;stat=side_17" class="yellow">Books/Maps</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Racks&amp;stat=side_18" class="yellow">Car Racks</a><br><br></td></tr>
-
-<tr><td width="135" valign="top" class="regBText"><font class="fakeActive">Clothing &amp; Footwear<br></font></td></tr>
-<tr><td width="135" class="regBText"><a href="/rei/gearshop/index.jsp?specialty_shop=Mens_clothing&amp;stat=side_12" class="yellow">Men's Clothing</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Womens_clothing&amp;stat=side_13" class="yellow">Women's Clothing</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Kids_clothing&amp;stat=side_14" class="yellow">Kids' Shop</a><br>
-<a href="/rei/gearshop/index.jsp?specialty_shop=Footwear&amp;stat=side_16" class="yellow">Footwear</a><br><br></td></tr>
-
-<tr><td width="135" valign="top" class="regBText"><font class="fakeActive">Gift Services<br></font></td></tr>
-<tr><td width="135" class="regBText"><a href="/rei/gearshop/index.jsp?specialty_shop=Gifts&amp;stat=side_19" class="yellow">Gift Shop</a><br>
-<a href="/online/store/PrepareGiftCertificatesView?storeId=8000&amp;langId=-1&amp;stat=side_20" class="yellow">Gift Certificates/Cards</a><br><a href="/rei/help/registry/giftbox.html?stat=side_40" class="yellow">Gift Boxes</a><br><br></td></tr>
-
-<tr><td width="135" valign="top" class="regBText"><font class="fakeActive">Bargains<br></font></td></tr>
-<tr><td width="135" class="regBText"><a href="/rei/sales_and_events/GREATBUYS.html?stat=side_21" class="yellow">On Sale</a><br>
-<a href="/outlet/index.html?stat=side_23" class="yellow">REI-OUTLET.com</a><br><br></td></tr>
-
-<tr><td width="135" valign="top" class="regBText"><font class="fakeActive">Shopping Tools &amp; Help<br></font></td></tr>
-<tr><td width="135" class="regBText"><a href="/rei/sales_and_events/brands.html?stat=side_37" class="yellow">Shop by Brand</a><br>
-<a href="/rei/gearshop/index.jsp?stat=side_22" class="yellow">Shop All Categories</a><br>
-<a href="/rei/gearshop/sizefinder/mens_sf.html?stat=side_38" class="yellow">Size Finder</a><br>
-<a href="/rei/help/shopping.html?stat=side_39" class="yellow">Shopping Help</a><br>
-<a href="/online/store/LearnShareArticlesList?storeId=8000&amp;langId=-1&amp;categoryId=Learn&amp;stat=side_28" class="yellow">Learn &amp; Share</a><br><br></td></tr>
-
-<tr><td width="135" valign="top" class="regBText"><font class="fakeActive">REI Stores &amp; Sites<br></font></td></tr>
-<tr><td width="135" class="regBText"><a href="/stores/index.jsp?stat=side_26" class="yellow">Retail Stores &amp; Events</a><br>
-<a href="/adventures/index.html?stat=side_24" class="yellow">REI Adventures</a><br>
-<a href="/outlet/index.html?stat=side_23" class="yellow">REI-OUTLET.com</a><br>
-<a href="/cgs/index.html?stat=side_25" class="yellow">Corporate Sales</a><br><br></td></tr>
-
-<tr><td width="135" valign="top" class="regBText"><font class="fakeActive">Services &amp; Membership</font></td></tr>
-<tr><td width="135" class="regBText"><script language="javascript">document.write('<a href="https://' + window.location.hostname + '/rei/help/membership.html?stat=side_31" class="yellow">');</script><a href="https://web.archive.org/rei/help/membership.html?stat=side_31" class="yellow">Membership</a><br>
-<a href="/webservices/rei/DisplayGearMailSignup?stat=side_27" class="yellow">E-mail Newsletters</a><br>
-<a href="/rei/affiliates/index.html?stat=side_35" class="yellow">Affiliates</a><br>
-<a href="/webservices/rei/ExternalLink?stat=side_36&amp;url=http://www.reivisa.com/rei32" class="yellow">Apply for an REI&nbsp;Visa®<br><br></a></td></tr>
-
-<tr><td width="135" valign="top" class="regBText"><font class="fakeActive">Company Info<br></font></td></tr>
-<tr><td width="135" class="regBText"><a href="/aboutrei/about_rei.html?stat=side_30" class="yellow">About REI</a><br>
-<a href="/aboutrei/gives02.html?stat=side_32" class="yellow">REI Gives</a><br>
-<a href="/jobs/index.html?stat=side_33" class="yellow">Jobs</a><br><br></td></tr>
-</tbody></table>
-</td></tr>
-<tr><td width="149" colspan="2">
-<br>
-<img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="149" height="1" border="0" alt="">
-<br>
-</td></tr>
-</tbody></table>
-
-<!-- end Sidebar -->
-</td>
-
-<!-- rule -->
-<td width="1" class="bgColDGr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="1" height="20" border="0" alt=""></td>
-<!-- end rule -->
-<!-- gutter -->
-<td width="14"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="14" height="20" border="0" alt=""></td>
-<!-- end gutter -->
-
-<td valign="top">
-<font size="2">
-<p>&nbsp;<br><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/privacy.gif" width="490" height="33" alt="REI Privacy Policy and Security Statement"></p>
-
-<p>We respect the privacy of our customers. This official Privacy and Security Statement is designed to help you understand what information we gather and how we use it. In our ongoing effort to improve the services and features we provide to our customers, REI will continue to implement new technologies from time to time. As a result, this policy is subject to change without prior notice. We encourage you to review our privacy policy periodically.</p>
-
-<p><b>ONLINE PRIVACY—THE INFORMATION WE GATHER</b></p>
-
-<p>The type of information we gather online falls into five general categories:</p>
-<ul>
-	<li>Aggregate Site Usage Information</li>
-	<li>Online Order Information</li>
-	<li>Voluntary Registered Shopper Information</li> 
-	<li>Click-Stream Data</li>  
-	<li>Subscription Preferences</li>
-</ul>
-
-<p><b>AGGREGATE SITE USAGE INFORMATION</b></p>
-
-<p>We collect and store information about the pages viewed by all of our website visitors. We then use this data in aggregate form to identify overall visitor behavior patterns. Our goal in using this information is to improve our site by making it more responsive to the needs and preferences of our users.</p>
-
-<p>Our Web servers automatically collect information about each visitor who requests REI Web pages, including your computer's internet protocol (IP) address. This IP address allows us to identify your computer on the internet so that the Web content you request from us can be sent to you.</p>
-
-<p>From time to time, we may provide portions of this aggregate site behavior information to vendors, consultants, potential advertisers or news agencies. We typically do this in order to demonstrate the amount of interest in our sites and/or to plan for technical infrastructure improvements.</p>
-
-<p><b>ONLINE ORDER INFORMATION</b></p>
-
-<p>If you choose to purchase products from any of REI's websites, we require the following information in order to fulfill your order:</p>
-
-<ul>
-	<li>Name</li>
-	<li>Contact phone number(s)</li> 
-	<li>Address</li> 
-	<li>E-mail address</li> 
-	<li>Credit card account information</li> 
-</ul>
-
-<p>We use this information to process your order and to make sure that it is delivered to you. Aggregated order information is also used to track and analyze overall shopping trends, which allows REI to improve product offerings and services to its members and customers.</p>
-
-<p>We request an e-mail address during the order process so that we can send an e-mail confirmation message acknowledging the receipt of your order. This message contains your name, address, REI membership number (if applicable), the list of items you purchased, an order reference number, a confirmation of your shipping method, and the total amount of items requested. Please note that this confirmation e-mail does NOT contain your credit card number.</p>
-
-<p><b>VOLUNTARY REGISTERED SHOPPER INFORMATION (REI.COM ONLY)</b></p>
-
-<p>Shopper registration is an optional service provided on the REI.com website. You do not have to register as a shopper in order to shop online with us. However, registering allows us to speed up the shopping process for you and lets us offer you access to special features and promotions. Please note that this is not the same as an REI membership. <script language="javascript">document.write("<a href='https://" + location.host + "/rei/help/membership.html'>");</script><a href="https://web.archive.org/rei/help/membership.html"><noscript><a href="https://www.rei.com/rei/help/membership.html"></noscript>Click here</a> for information on REI Membership.</p>
-
-<p>In order to register on REI.com, you must provide:</p>
-
-<ul>
-	<li><b>First and last name</b>—We require this information in order to differentiate your registration profile from others at REI.com.  We also use it to automatically populate checkout forms to save you time and effort while shopping.</li>
-	<li><b>Mailing address</b>—We store your mailing address for you so that we can automatically populate shipping information forms during the checkout process. We also add your address to our overall customer information database, which helps us offer products and services specifically designed for you and customers like you.  For example, your zip code helps us identify the REI store nearest you, so that we can tell you about specials events that are taking place there. Zip code information can also help us deliver online content that's most appropriate to your part of the country.</li> 
-	<li><b>E-mail address</b>—This allows us to send you an e-mail confirming your registration on our site. It also allows us to send you a new account password by e-mail should you forget yours.</li> 
-	<li><b>Daytime phone number</b>—We require a phone number in case there is a problem with your order. We will not telemarket to you, nor will we provide your telephone number to any other entity for telemarketing purposes.  We may, however, call and ask you to participate in an optional REI telephone survey designed to help us improve your shopping experience and/or our product assortment.</li>
-	<li><b>User Name and Password</b>—We require a unique User ID and password combination for every registered shopper account. This information allows you secure access to your user profile and preferences. If you forget your password, we can send a new one to the e-mail address supplied in your profile, at your request.</li>
-</ul> 
-
-<p><b>A Note on Updating Registered Shopper Information</b><br>
-If you ever need to view, change, update or delete any of your registration information, simply click on the "Your Account" link at the bottom of your screen and log in to your account. Your information will then be available for editing.</p>
-
-<p><b>CLICK-STREAM DATA (AND COOKIE TECHNOLOGY)</b></p>
-
-<p>In order to register on—or purchase products from—REI's websites, your browser must be set to accept "cookies." A cookie is a small piece of data housed in a text file or folder on your computer's hard drive that helps us recognize you when you visit our sites. We use cookies to help us remember things such as the following: (1) the profile facts you tell us about yourself, (2) your specified areas of interest on our sites, (3) the items you've placed in your shopping basket, and/or (4) the pages you visit as you shop.</p>
-
-<p><b>The only personal information our REI cookie can contain is information that you supply yourself.</b> Our cookies cannot read data from other parts of your computer. If you would like more technical information about how cookies work, take a look at <a href="http://www.cookiecentral.com">http://www.cookiecentral.com</a>.</p>
-
-<p>As stated above, you must enable cookies on your Web browser for REI.com to function correctly. If you are concerned about information contained in your REI.com cookie, you may delete the file(s) at the end of each browser session. View your browser's help file for more information on cookies.</p>
-
-<p>Click-stream data is information that describes the page-by-page paths you take as you browse through our websites. Using cookies, we track and store this information to help us positively customize your shopping experience. We may use click-stream data in the aggregate to provide improved services to groups of shoppers who behave similarly. We may also use it on an individual basis to improve your specific shopping experience. For example, if during a visit to REI.com you read an online article about how to choose the right tent, we may during a subsequent visit present you with a how-to article on cleaning your tent or point you toward a new product related to tent repair.</p>
-
-<p><b>SUBSCRIPTION PREFERENCES</b></p>
-
-<p>When you visit REI's websites you receive an opportunity to sign up for REI's e-mail newsletter services. These newsletters (REI Gearmail, REI-Outlet Hot Values, Bargain Sleuth, etc.) will be sent to you only if you choose to place your name on our mailing list. In order to deliver these newsletters, REI may need to supply your name and e-mail address to specific service providers who distribute content for us.  We also use third-party companies to authenticate and validate the information provided by our shoppers to make sure our content arrives successfully. <b>We have legally binding agreements with these third-party service providers that prohibit them from using your information for any purpose other than what REI instructs them to do with it. Therefore, if you sign up for any of REI's e-mail newsletters, you do not need to worry about receiving unsolicited e-mails from other companies as a result of REI releasing your information.</b></p>
-
-<p>If you decide at any time that you no longer wish to receive the e-mail newsletters you sign up for, please <a href="http://preferences.rei.com/rei/rei_PrefCtr.asp">click here</a> and update your preferences, or simply click the "unsubscribe" link on the Gearmail or Hot Values e-mail you receive from us.</p>
-
-<p>Please note: In order to process your purchases, we may still send you a confirmation e-mail, or we may contact you by mail or telephone if we have questions about your order.</p>
-
-<p><b>COMMUNICATIONS FROM REI AND OTHER COMPANIES</b></p>
-
-<p>Whenever you purchase products from REI or request a catalog, we collect and store the information that you volunteer-information such as your name, e-mail address, postal address and phone number. The information you supply is added to our customer database. You may receive periodic printed or e-mail communications from us about new products and services, discounts, special promotions or upcoming events.</p>
-
-<p>In some instances, we use third-party companies to help us provide products and services to you, to assist us in managing customer information, or to fulfill promotions and communicate with you. Some of these companies are given access to some or all of the information you provide to us. These companies are contractually restricted from using your information in any manner other than in helping us to provide you with the products and services available from REI.</p>
-
-<p>In addition to the REI mailings above, we provide customer names and postal addresses (but not your e-mail address or phone number) to a group of companies we believe may interest you. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please <script language="javascript">document.write("<a href='https://" + location.host + "/rei/help/mailing.html#discontinue'>");</script><a href="https://web.archive.org/rei/help/mailing.html#discontinue"><noscript><a href="https://www.rei.com/rei/help/mailing.html#discontinue"></noscript>click here</a> for information.</p>
-
-<p><b>If you want to be removed from all REI marketing, choose one of the following options:  <a href="mailto:service@rei.com">Click here</a> to send an e-mail and type REMOVE FROM ALL MARKETING in the subject line; call 1-800-426-4840 (US and Canada) or 1-253-891-2500 (outside the US and Canada); or send your request by mail to REI Membership Services, Sumner, WA 98352-0001. Remember to include your name, address, membership number (if applicable) and phone number in the request.</b></p>
-
-<p><b>OTHER REI PRIVACY NOTES</b></p>
-
-<ul>
-	<li>Links to or From Other Sites—REI may provide links to websites outside of REI.com as an added convenience to the user. There are also affiliates that link to REI.com. Any link included does not imply or convey endorsement of the other company or organization, its site, or its products or services. REI is not responsible for the privacy, terms of use, or other policies of any other website.</li>
-	<li>REI's Children's Policy—Except for membership data applicable to children, we do not intend to collect any personally identifiable information from children through our websites. Please do not allow children under the age of 13 to provide any personally identifiable information or participate in the bulletin board sections of REI's websites.</li> 
-</ul>
-  
-<p><b>REI'S ONLINE SECURITY STATEMENT</b></p>
-
-<p>We understand that many consumers are concerned about Internet security. REI employs industry-leading technologies to store sensitive information and protect it while in transit over the Internet. The following Security Statement describes the technologies we use and provides additional details about how we handle sensitive data like credit card information. We want you to be able to shop at REI with complete confidence. If for any reason you feel uncomfortable shopping with us online, we invite you to stop by a local <a href="/stores/index.jsp">REI store</a> or call us and order by phone: 1-800-426-4840, Mon. through Sun., 4 a.m. through 11 p.m. Pacific Time.</p>
-
-<p><b>THE TRANSMISSION OF SENSITIVE DATA</b></p>
-
-<p>We work hard to protect the information that you send to us while it is en route to and from our sites. To provide secure transmission, REI employs Secure Sockets Layer technology (SSL) on those pages that involve sensitive information such as credit card numbers. SSL, which is supported by a vast majority of Internet browsers available today, is the most commonly employed method of secure, encrypted communication used on the Internet.</p>
-
-<p>We have also obtained Verisign™ digital security certificates for all of our websites. Verisign™ is an independent third party that authenticates the identity of others on the Internet. By registering with Verisign™, we provide you a method of independently authenticating that the entity you are dealing with over the Internet is actually REI.</p>
-
-<p><b>WHAT HAPPENS TO MY INFORMATION AFTER REI RECEIVES IT?</b></p>
-
-<p>SSL protects information en route to us. Verisign™ certificate technology helps ensure that REI is the actual recipient of this information. But we don't stop there—we also work very hard to make sure the information you send us is stored and managed securely once we receive it. All data collected is stored on site and is protected by multiple levels of data and structural security. This information is only accessible to Recreational Equipment, Inc. and trusted, contracted third-party service providers.</p>
-
-</font>
-
-<!-- Footer -->
-
-<script language="javascript" type="text/javascript">
-// sitedocs/rei/include/reiftr.inc
-if(loggedIn == 1){
-	var yaView = "<a href=\"/online/store/YourAccountInfoInView?storeId=8000&langId=-1&catalogId=40000008000&stat=footer_account\" target=\"_parent\">Your Account</a>";
-} else {
-	var yaView = "<a href=\"/online/store/YourAccountInfoOutView?storeId=8000&langId=-1&catalogId=40000008000&stat=footer_account\" target=\"_parent\">Your Account</a>";
-}
 </script>
 
-<table width="570" border="0" cellpadding="0" cellspacing="5">
-<tbody><tr>
-<td width="570" align="center" class="regGrText"><br>
-<img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="560" height="1" border="0" alt="">
-<br>
-<a href="/index.jsp?stat=footer_home" target="_parent">REI.com Home</a>&nbsp; | &nbsp;<a href="/online/store/ShoppingBasket?storeId=8000&amp;langId=-1&amp;catalogId=40000008000&amp;stat=footer_cart" target="_parent">Shopping Cart</a>&nbsp; | &nbsp;<script language="javascript" type="text/javascript">
-document.write(yaView);</script><a href="/online/store/YourAccountInfoOutView?storeId=8000&amp;langId=-1&amp;catalogId=40000008000&amp;stat=footer_account" target="_parent">Your Account</a>&nbsp; | &nbsp;<a href="/webservices/rei/ExternalLink?stat=footer_visa&amp;url=http://www.reivisa.com/rei32" target="_parent">Apply for an REI Visa®</a></td></tr>
-<tr>
-<td width="570" align="center" class="regGrText"><a href="/rei/help/hintro.html?stat=footer_help" target="_parent">Help</a>&nbsp; | &nbsp;<a href="/rei/help/feedback/feedback.html?stat=footer_contact" target="_parent">Contact Us</a>&nbsp; | &nbsp;<a href="/rei/livehelp/genstart.html" target="_parent">Live Help</a>&nbsp; | &nbsp;<a href="/rei/help/feedback/feedback.html?stat=footer_email#email" target="_parent">E-mail</a>&nbsp; | &nbsp;<a href="/rei/help/feedback/feedback.html?stat=footer_phone#phone" target="_parent">Phone/Fax/Mail</a></td></tr>
-<tr>
-<td width="570" align="center" class="regGrText"><a href="/outlet/index.html?stat=footer_outlet" target="_parent">REI-OUTLET.com</a>&nbsp; | &nbsp;<a href="/adventures/index.html?stat=footer_adventures" target="_parent">REI Adventures</a>&nbsp; | &nbsp;<a href="/cgs/index.html?stat=footer_corp_sales" target="_parent">Corporate Sales</a>&nbsp; | &nbsp;<a href="/stores/index.jsp?stat=footer_store" target="_parent">Find an REI Store</a></td></tr>
-<tr>
-<td width="570" align="center" class="regGrText"><a href="/rei/copyright.html?stat=footer_copyright" target="_parent">Copyright © REI 2003</a>&nbsp; | &nbsp;<a href="/rei/privacy.html?stat=footer_privacy" target="_parent">Privacy Policy</a>&nbsp; | &nbsp;<a href="/rei/help/returns.html?stat=footer_100#guarantee" target="_parent">100% Satisfaction Guarantee</a></td></tr></tbody></table>
+<script type="text/javascript" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/rei/javascript/autocomplete.js"></script>
+<iframe id="iFrameIEHack" style="position:absolute;display:none;" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/rei/javascript/blank.html"></iframe>
 
-<!-- End Footer -->
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+  		document.write('<table width="734" border="0" cellpadding="0" cellspacing="0"><tr><td width="149" rowspan="3" class="bgColBlue"><a href="/outlet/index.html"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/rei_logo.gif" width="149" height="90" border="0" alt="rei-outlet.com"></a></td><td width="585" colspan="3" class="bgColYel"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="585" height="1" border="0" alt=""><br>');
+		} else {
+		document.write('<table width="734" border="0" cellpadding="0" cellspacing="0"><tr><td width="149" rowspan="3" class="bgColBlk"><a href="/index.jsp"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/rei_logo.gif" width="149" height="90" border="0" alt="www.rei.com"></a></td><td width="585" colspan="3" class="bgColYel"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="585" height="1" border="0" alt=""><br>');
+}
+</script><table width="734" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="149" rowspan="3" class="bgColBlk"><a href="/index.jsp"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/rei_logo.gif" width="149" height="90" border="0" alt="www.rei.com"></a></td><td width="585" colspan="3" class="bgColYel"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="585" height="1" border="0" alt=""><br>
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+        document.write('<form method="get" action="/online/store/Search" name="psearch"><input type="hidden" name="vcat" value="OUTLET_SEARCH"><input value="8265" name="stat" type="hidden"><input value="-1" name="langId" type="hidden"><input value="8001" name="storeId" type="hidden"><table width="585" border="0" cellpadding="0" cellspacing="0"><tr><td width="27"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="27" height="17" border="0" alt=""></td>');
+		} else {
+        document.write('<form method="get" action="/online/store/Search" name="psearch"><input type="hidden" name="vcat" value="REI_SEARCH"><input value="7889" name="stat" type="hidden"><input value="-1" name="langId" type="hidden"><input value="8000" name="storeId" type="hidden"><table width="585" border="0" cellpadding="0" cellspacing="0"><tr><td width="27"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="27" height="17" border="0" alt=""></td>');
+}
+</script><form method="get" action="/online/store/Search" name="psearch"><input type="hidden" name="vcat" value="REI_SEARCH"><input value="7889" name="stat" type="hidden"><input value="-1" name="langId" type="hidden"><input value="8000" name="storeId" type="hidden"><table width="585" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="27"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="27" height="17" border="0" alt=""></td>
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+  		document.write('<td width="227" valign="bottom"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/search.gif" width="153" height="17" border="0" alt="Search REI-OUTLET.com"></td><td width="82" valign="top"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="82" height="17" border="0" alt=""></td><td width="137" valign="top"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="137" height="17" border="0" alt=""></td>');
+		} else {
+		document.write('<td width="227" valign="bottom"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/search.gif" width="153" height="17" border="0" alt="Search REI.com"></td><td width="82" valign="top"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="82" height="17" border="0" alt=""></td><td width="137" valign="top"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="137" height="17" border="0" alt=""></td>');
+}
+</script><td width="227" valign="bottom"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/search.gif" width="153" height="17" border="0" alt="Search REI.com"></td><td width="82" valign="top"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="82" height="17" border="0" alt=""></td><td width="137" valign="top"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="137" height="17" border="0" alt=""></td>
+<script language="javascript" type="text/javascript">
+if (loggedIn == 1) {
+  document.write('<td width="112" align="center" valign="top" class="smText"><a href="/online/store/REILogoffCmd?storeId=' + storeId +  '&langId=-1&catalogId=40000008000&URL=' + location.href + '">Log out</a></td></tr>');
+} else {
+  document.write('<td width="112" align="center" valign="top" class="smText"><a href="https://' + location.host + '/online/store/YourAccountLoginView?catalogId=40000008000&storeId=' + storeId +  '&langId=-1&URL=' + location.href + '">Log in</a></td></tr>');
+}
+</script><td width="112" align="center" valign="top" class="smText"><a href="https://web.archive.org/online/store/YourAccountLoginView?catalogId=40000008000&amp;storeId=/web&amp;langId=-1&amp;URL=https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000">Log in</a></td></tr>
 
-</td></tr>
-</tbody></table>
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+  		document.write('<tr><td width="27" rowspan="2"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="27" height="24" border="0" alt=""></td><td width="227" valign="top" rowspan="2" class="smText"><table width="150" border="0" cellpadding="0" cellspacing="0"><tr><td class="smText"><input type="text" name="query" id="headerQuery" value="Enter a word or item #" onfocus="javascript:if(document.getElementById(\'headerQuery\').value==\'Enter a word or item #\') document.getElementById(\'headerQuery\').value=\'\';" size="23" maxlength="60"></td><td><input type="image" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/button_go.gif" border="0" alt="GO"></td></tr><input class="autocomplete" type="hidden" id="headerQuery-autocomplete" value="/online/servlet/autocomplete?storeId=8001&entry=" disabled="true"></table></td><td width="82" align="center" valign="middle" class="smText">');
+		} else {
+		document.write('<tr><td width="27" rowspan="2"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="27" height="24" border="0" alt=""></td><td width="227" valign="top" rowspan="2" class="smText"><table width="150" border="0" cellpadding="0" cellspacing="0"><tr><td class="smText"><input type="text" name="query" id="headerQuery" value="Enter a word or item #" onfocus="javascript:if(document.getElementById(\'headerQuery\').value==\'Enter a word or item #\') document.getElementById(\'headerQuery\').value=\'\';" size="23" maxlength="60"></td><td><input type="image" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/button_go.gif" border="0" alt="GO"></td></tr><input class="autocomplete" type="hidden" id="headerQuery-autocomplete" value="/online/servlet/autocomplete?storeId=8000&entry=" disabled="true"></table></td><td width="82" align="center" valign="middle" class="smText">');
+}
+</script><tr><td width="27" rowspan="2"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="27" height="24" border="0" alt=""></td><td width="227" valign="top" rowspan="2" class="smText"><table width="150" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="smText"><input type="text" name="query" id="headerQuery" value="Enter a word or item #" onfocus="javascript:if(document.getElementById('headerQuery').value=='Enter a word or item #') document.getElementById('headerQuery').value='';" size="23" maxlength="60"></td><td><input type="image" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/button_go.gif" border="0" alt="GO"></td></tr><input class="autocomplete" type="hidden" id="headerQuery-autocomplete" value="/online/servlet/autocomplete?storeId=8000&amp;entry=" disabled="true"></tbody></table></td><td width="82" align="center" valign="middle" class="smText">
+<script language="javascript" type="text/javascript">
+ 	if(storeId == "8001") {
+ document.write('<img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="82" height="17" border="0">');
+} else {
+   var setup_cook_obj = ReadGRCookie("GiftRegistrySetup");
+if (setup_cook_obj !=null && loggedIn == 1) {
+   document.write('<a href="http://' + window.location.hostname + '/online/store/GiftRegistryEditProductsDisplay?registryId=' + setup_cook_obj.id + '&URL=GiftRegistryManage&errorViewName=GiftRegistryErrorView"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/btn_reg.gif" width="72 " height="22" border="0" alt="Back to Registry List"></a>');
+} else {
+  document.write('<img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="82" height="17" border="0">');
+}
+}
+</script>
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+  		document.write('</td><td width="137" align="center" valign="middle" class="smText"><a href="/online/store/ShoppingBasket?storeId=8001&langId=-1&catalogId=40000008001&stat=otcart"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/btn_sc.gif" width="127" height="22" border="0" alt="Shopping Cart"></a></td>');
+		} else {
+		document.write('</td><td width="137" align="center" valign="middle" class="smText"><a href="/online/store/ShoppingBasket?storeId=8000&langId=-1&catalogId=40000008000&stat=header_cart"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/btn_sc.gif" width="127" height="22" border="0" alt="Shopping Cart"></a></td>');
+}
+</script></td><td width="137" align="center" valign="middle" class="smText"><a href="/online/store/ShoppingBasket?storeId=8000&amp;langId=-1&amp;catalogId=40000008000&amp;stat=header_cart"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/btn_sc.gif" width="127" height="22" border="0" alt="Shopping Cart"></a></td>
+
+<script language="javascript" type="text/javascript">
+if(loggedIn == 1){
+document.write('<td width="112" align="center" valign="middle" class="smText"><a href="/online/store/YourAccountInfoInView?storeId=' + storeId +  '&langId=-1&catalogId=40000008000&stat=header_account"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/btn_ya.gif" width="102" height="22" border="0" alt="Your Account"></a></td></tr>');
+}else{
+document.write('<td width="112" align="center" valign="middle" class="smText"><a href="/online/store/YourAccountInfoOutView?storeId=' + storeId +  '&langId=-1&catalogId=40000008000&stat=header_account"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/btn_ya.gif" width="102" height="22" border="0" alt="Your Account"></a></td></tr>');
+}
+</script><td width="112" align="center" valign="middle" class="smText"><a href="/online/store/YourAccountInfoOutView?storeId=/web&amp;langId=-1&amp;catalogId=40000008000&amp;stat=header_account"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/btn_ya.gif" width="102" height="22" border="0" alt="Your Account"></a></td></tr>
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+  		document.write('<tr><td width="82" valign="top"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="82" height="17" border="0" alt=""></td>');
+		} else {
+		document.write('<tr><td width="82" valign="top"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="82" height="17" border="0" alt=""></td>');
+}
+</script><tr><td width="82" valign="top"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="82" height="17" border="0" alt=""></td>
+<script language="javascript" type="text/javascript">
+if(document.title != "REI.com: Shopping Basket"){
+document.write('<td width="137" align="center" valign="middle" class="smText">(contains ' + numOfItems + ' item' + multipleItems + ')</td>');
+}
+else{
+document.write('<td width="137" align="center" valign="middle" class="smText"></td>');
+}
+
+if(loggedIn == 1){
+document.write('<td width="112" align="center" valign="middle" class="smText">You are logged in.</td></tr>');
+}
+else{
+document.write('<td width="112" align="center" valign="middle" class="smText">You are not logged in.</td></tr>');
+}
+</script><td width="137" align="center" valign="middle" class="smText">(contains 0 items)</td><td width="112" align="center" valign="middle" class="smText">You are not logged in.</td></tr>
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+        document.write('</table></td></tr></form><tr><td width="585" colspan="3" valign="bottom" class="bgColYel"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="585" height="5" border="0" alt="spacer"></td></tr><tr><td width="585" colspan="3" valign="bottom" class="bgColYel"><table width="492" border="0" cellpadding="0" cellspacing="0"><tr><td width="14"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="14" height="26" border="0" alt=""></td><td width="69"><a href="/index.jsp"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/tab_rei4.gif" width="69" height="26" border="0" alt="REI.com"></a></td><td width="113"><a href="/outlet/index.html"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/tab_outlet4.gif" width="113" height="26" border="0" alt="REI-OUTLET.com"></a></td><td width="104"><a href="/adventures/index.html"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/tab_adventures4.gif" width="104" height="26" border="0" alt="REI Adventures"></a></td><td width="105"><a href="/stores/index.jsp"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/tab_stores4.gif" width="105" height="26" border="0" alt="Stores & Events"></a></td><td width="87"><a href="/online/store/GiftRegistryHomeView?storeId=8000"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_giftreg4.gif" width="87" height="26" border="0" alt="Gift Registry"></a></td></tr></table>');
+		} else {
+		document.write('</table></td></tr></form><tr><td width="585" colspan="3" valign="bottom" class="bgColYel"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="585" height="5" border="0" alt="spacer"></td></tr><tr><td width="585" colspan="3" valign="bottom" class="bgColYel"><table width="492" border="0" cellpadding="0" cellspacing="0"><tr><td width="14"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="14" height="26" border="0" alt=""></td><td width="69"><a href="/index.jsp"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_rei4.gif" width="69" height="26" border="0" alt="REI.com"></a></td><td width="113"><a href="/outlet/index.html"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_outlet4.gif" width="113" height="26" border="0" alt="REI-OUTLET.com"></a></td><td width="104"><a href="/adventures/index.html"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_adventures4.gif" width="104" height="26" border="0" alt="REI Adventures"></a></td><td width="105"><a href="/stores/index.jsp"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_stores4.gif" width="105" height="26" border="0" alt="Stores & Events"><td width="87"><a href="/online/store/GiftRegistryHomeView?storeId=8000"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_giftreg4.gif" width="87" height="26" border="0" alt="Gift Registry"></td></td></tr></table>');
+}
+</script></tbody></table></form></td></tr><tr><td width="585" colspan="3" valign="bottom" class="bgColYel"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="585" height="5" border="0" alt="spacer"></td></tr><tr><td width="585" colspan="3" valign="bottom" class="bgColYel"><table width="492" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="14"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="14" height="26" border="0" alt=""></td><td width="69"><a href="/index.jsp"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_rei4.gif" width="69" height="26" border="0" alt="REI.com"></a></td><td width="113"><a href="/outlet/index.html"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_outlet4.gif" width="113" height="26" border="0" alt="REI-OUTLET.com"></a></td><td width="104"><a href="/adventures/index.html"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_adventures4.gif" width="104" height="26" border="0" alt="REI Adventures"></a></td><td width="105"><a href="/stores/index.jsp"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_stores4.gif" width="105" height="26" border="0" alt="Stores &amp; Events"></a></td><td width="87"><a href="/online/store/GiftRegistryHomeView?storeId=8000"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/tab_giftreg4.gif" width="87" height="26" border="0" alt="Gift Registry"></a></td></tr></tbody></table>
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+  		document.write('</td></tr><tr><td width="585" colspan="3" class="bgColBlack"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="585" height="1" border="0" alt=""></td></tr><tr><td width="149" rowspan="2" class="bgSmTopo"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="149" height="20" border="0" alt=""></td><td class="bgColOr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="1" height="10" border="0" alt=""></td><td width="585" class="bgColOr"><table width="585" border="0" cellpadding="0" cellspacing="0"><tr><td width="15"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="15" height="1" border="0" alt=""></td><td width="44" align="center" class="smWhText"><a href="/outlet/index.html" class="white">Home</a></td><td width="5" align="center" class="smWhText">|</td><td width="90" align="center" class="smText"><a href="/outlet/gearshop/sizefinder/mens.html" class="white">Size Finder</a></td><td width="5" align="center" class="smWhText">|</td>');
+		} else {
+		document.write('</td></tr><tr><td width="585" colspan="3" class="bgColDGr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="585" height="1" border="0" alt=""></td></tr><tr><td width="149" rowspan="2" class="bgSmTopo"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="149" height="20" border="0" alt=""></td><td class="bgColGr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="1" height="10" border="0" alt=""></td><td width="585" class="bgColGr"><table width="462" border="0" cellpadding="0" cellspacing="0"><tr><td width="15"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="15" height="1" border="0" alt=""></td><td width="49" align="center" class="smWhText"><a href="/index.jsp" class="white">Home</a></td><td width="5" align="center" class="smWhText">|</td><td width="118" align="center" class="smText"><a href="/rei/gearshop/index.jsp" class="white">Shop All Categories</a></td><td width="5" align="center" class="smWhText">|</td>');
+}
+</script></td></tr><tr><td width="585" colspan="3" class="bgColDGr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="585" height="1" border="0" alt=""></td></tr><tr><td width="149" rowspan="2" class="bgSmTopo"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="149" height="20" border="0" alt=""></td><td class="bgColGr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="1" height="10" border="0" alt=""></td><td width="585" class="bgColGr"><table width="462" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="15"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="15" height="1" border="0" alt=""></td><td width="49" align="center" class="smWhText"><a href="/index.jsp" class="white">Home</a></td><td width="5" align="center" class="smWhText">|</td><td width="118" align="center" class="smText"><a href="/rei/gearshop/index.jsp" class="white">Shop All Categories</a></td><td width="5" align="center" class="smWhText">|</td>
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+  		document.write('<td width="100" align="center" class="smText"><a href="/webservices/outlet/DisplayGearMailSignup" class="white">E-Mail Sign-Up</a></td><td width="5" align="center" class="smWhText">|</td><td width="90" align="center" class="smText"><a href="/shared/help/shipping.html?storeId=8001" class="white">Shipping Info</a></td><td width="5" align="center" class="smWhText">|</td><td width="44" align="center" class="smText"><a href="/outlet/help/helpintro.html" class="white">Help</a></td><td width="180"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="106" height="1" border="0" alt=""></td></tr></table></td><td class="bgColBlack"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="1" height="21" border="0" alt=""></td></tr><tr><td width="585" colspan="3" class="bgColBlack"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="585" height="1" border="0" alt=""></td></tr></table>');
+		} else {
+		document.write('<td width="96" align="center" class="smWhText"><a href="/shared/help/shipping.html?storeId=8000" class="white">Shipping Info</a></td><td width="5" align="center" class="smWhText">|</td><td width="73" align="center" class="smText"><a href="/shared/help/feedback/feedback.html?storeId=8000" class="white">Contact Us</a></td><td width="5" align="center" class="smWhText">|</td><td width="50" align="center" class="smText"><a href="/rei/help/hintro.html" class="white">Help</a></td><td width="45"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="45" height="1" border="0" alt=""></td></tr></table></td><td class="bgColDGr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="1" height="21" border="0" alt=""></td></tr><tr><td width="585" colspan="3" class="bgColDGr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="585" height="1" border="0" alt=""></td></tr></table>');
+}
+</script><td width="96" align="center" class="smWhText"><a href="/shared/help/shipping.html?storeId=8000" class="white">Shipping Info</a></td><td width="5" align="center" class="smWhText">|</td><td width="73" align="center" class="smText"><a href="/shared/help/feedback/feedback.html?storeId=8000" class="white">Contact Us</a></td><td width="5" align="center" class="smWhText">|</td><td width="50" align="center" class="smText"><a href="/rei/help/hintro.html" class="white">Help</a></td><td width="45"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="45" height="1" border="0" alt=""></td></tr></tbody></table></td><td class="bgColDGr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="1" height="21" border="0" alt=""></td></tr><tr><td width="585" colspan="3" class="bgColDGr"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="585" height="1" border="0" alt=""></td></tr></tbody></table>
+</div>
+<table width="734" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+                <td width="149" valign="top" class="bgTopo">
+<div id="sidebar" class="regBText">
+<!--Clothing & Footwear /gifts rei(both sites)-->
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+  		document.write('<table width="149" border="0" cellpadding="0" cellspacing="0"><tr><td width="14"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="14" height="1" border="0" alt=""></td><td width="135" valign="top"><table width="135" border="0" cellpadding="0" cellspacing="0"><tr><td width="135" class="regBText"><font class="fakeActive">Clothing &amp; Outerwear</font></td></tr><tr><td width="135" class="regBText"><a href="/outlet/category/22000007.htm" class="yellow">Men&#39s Clothing</a><br><a href="/outlet/category/22000011.htm" class="yellow">Women&#39s Clothing</a><br><a href="/outlet/category/22000006.htm" class="yellow">Kids&#39 Clothing &amp; Gear</a><br><a href="/outlet/category/22000056.htm" class="yellow">Footwear</a><br><br></td></tr>');
+		} else {
+		document.write('<div id="sbGift"><div class="navHead">Gift Services<br></div><a href="/shop/Gifts.htm" class="yellow">Gift Shop</a><br><a href="/online/store/PrepareGiftCertificatesView?storeId=8000&langId=-1&catalogId=40000008000" class="yellow">Gift Cards</a><br><a href="/online/store/GiftRegistryHomeView?storeId=8000" class="yellow">Gift Registry</a><br><a href="/shared/help/registry/giftbox.html?storeId=8000" class="yellow">Gift Boxes</a><br><br></div><div id="sbClothing"><div class="navHead">Clothing &amp; Outerwear<br></div><a href="/shop/Mens_clothing.htm" class="yellow">Men\'s Clothing</a><br><a href="/shop/Womens_clothing.htm" class="yellow">Women\'s Clothing</a><br><a href="/shop/Kids_clothing.htm" class="yellow">Kids\' Clothing &amp; Gear</a><br><a href="/shop/Footwear.htm" class="yellow">Footwear</a><br><a href="/rei/gearshop/sizefinder/mens_sf.html" class="yellow">Size Finder</a><br><br></div>');
+}
+</script><div id="sbGift"><div class="navHead">Gift Services<br></div><a href="/shop/Gifts.htm" class="yellow">Gift Shop</a><br><a href="/online/store/PrepareGiftCertificatesView?storeId=8000&amp;langId=-1&amp;catalogId=40000008000" class="yellow">Gift Cards</a><br><a href="/online/store/GiftRegistryHomeView?storeId=8000" class="yellow">Gift Registry</a><br><a href="/shared/help/registry/giftbox.html?storeId=8000" class="yellow">Gift Boxes</a><br><br></div><div id="sbClothing"><div class="navHead">Clothing &amp; Outerwear<br></div><a href="/shop/Mens_clothing.htm" class="yellow">Men's Clothing</a><br><a href="/shop/Womens_clothing.htm" class="yellow">Women's Clothing</a><br><a href="/shop/Kids_clothing.htm" class="yellow">Kids' Clothing &amp; Gear</a><br><a href="/shop/Footwear.htm" class="yellow">Footwear</a><br><a href="/rei/gearshop/sizefinder/mens_sf.html" class="yellow">Size Finder</a><br><br></div>
+<!--Gear Shops (Outlet)/ Snow(REI)-->
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+  		document.write('<tr><td width="135" valign="top" class="regBText"><font class="fakeActive">Gear Shops</font></td></tr><tr><td width="135" class="regBText"><a href="/outlet/category/22000001.htm" class="yellow">Camping &amp; Hiking</a><br><a href="/outlet/category/29289813.htm" class="yellow">Family Camping</a><br><a href="/outlet/category/22000002.htm" class="yellow">Climbing</a><br><a href="/outlet/category/22000003.htm" class="yellow">Cycling</a><br><a href="/outlet/category/22000005.htm" class="yellow">Outdoor Fitness</a><br><a href="/outlet/category/22000010.htm" class="yellow">Luggage &amp; Travel</a><br><a href="/outlet/category/22000009.htm" class="yellow">Skiing &amp; Snowboarding</a><br><a href="/outlet/category/22000008.htm" class="yellow">Kayaking &amp; Canoeing</a><br><br></td></tr>');
+		} else {
+		document.write('<div id="sbSnow"><div class="navHead">Snow Sports<br></div><a href="/shop/Ski.htm" class="yellow">Skiing</a><br><a href="/shop/Snowboard.htm" class="yellow">Snowboarding</a><br><a href="/shop/Crosscountry.htm" class="yellow">Cross-Country Skiing</a><br><a href="/shop/Snowshoe.htm" class="yellow">Snowshoeing</a><br><br></div>');
+}
+</script><div id="sbSnow"><div class="navHead">Snow Sports<br></div><a href="/shop/Ski.htm" class="yellow">Skiing</a><br><a href="/shop/Snowboard.htm" class="yellow">Snowboarding</a><br><a href="/shop/Crosscountry.htm" class="yellow">Cross-Country Skiing</a><br><a href="/shop/Snowshoe.htm" class="yellow">Snowshoeing</a><br><br></div>
+<!--Gifts (Outlet)/ Gear Shops (REI)-->
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+  		document.write('<tr><td width="135" class="regBText"><font class="fakeActive">Gifts</font></td></tr><tr><td width="135" class="regBText"><a href="/online/store/PrepareGiftCertificatesView?storeId=8001&langId=-1&catalogId=40000008001" class="yellow">Gift Cards</a><br><a href="/shared/help/registry/giftbox.html?storeId=8001&langId=-1&catalogId=40000008001" class="yellow">Gift Boxes</a><br><br></td></tr>');
+		} else {
+		document.write('<div id="sbGear"><div class="navHead">Gear Shops<br></div><a href="/shop/Camping.htm" class="yellow">Camping &amp; Hiking</a><br><a href="/shop/Climbing.htm" class="yellow">Climbing</a><br><a href="/shop/Cycling.htm" class="yellow">Cycling</a><br><a href="/shop/Womens_gear.htm" class="yellow">Women\'s Gear</a><br><a href="/shop/Paddling.htm" class="yellow">Kayaking &amp; Canoeing</a><br><a href="/shop/Crosstrain.htm" class="yellow">Outdoor Fitness</a><br><a href="/shop/Travel.htm" class="yellow">Luggage &amp; Travel</a><br><a href="/shop/GPS.htm" class="yellow">GPS &amp; Electronics</a><br><a href="/shop/Timetoolsoptics.htm" class="yellow">Watches &amp; Sunglasses</a><br><a href="/shop/REI.htm" class="yellow">REI Brand Gear</a><br><a href="/shop/Books_maps.htm" class="yellow">Books &amp; Maps</a><br><a href="/shop/Racks.htm" class="yellow">Car Racks</a><br><a href="/category/40003658.htm" class="yellow">Pets, Toys &amp; Picnicking</a><br><br></div>');
+}
+</script><div id="sbGear"><div class="navHead">Gear Shops<br></div><a href="/shop/Camping.htm" class="yellow">Camping &amp; Hiking</a><br><a href="/shop/Climbing.htm" class="yellow">Climbing</a><br><a href="/shop/Cycling.htm" class="yellow">Cycling</a><br><a href="/shop/Womens_gear.htm" class="yellow">Women's Gear</a><br><a href="/shop/Paddling.htm" class="yellow">Kayaking &amp; Canoeing</a><br><a href="/shop/Crosstrain.htm" class="yellow">Outdoor Fitness</a><br><a href="/shop/Travel.htm" class="yellow">Luggage &amp; Travel</a><br><a href="/shop/GPS.htm" class="yellow">GPS &amp; Electronics</a><br><a href="/shop/Timetoolsoptics.htm" class="yellow">Watches &amp; Sunglasses</a><br><a href="/shop/REI.htm" class="yellow">REI Brand Gear</a><br><a href="/shop/Books_maps.htm" class="yellow">Books &amp; Maps</a><br><a href="/shop/Racks.htm" class="yellow">Car Racks</a><br><a href="/category/40003658.htm" class="yellow">Pets, Toys &amp; Picnicking</a><br><br></div>
+<!--More REI Sites (Outlet)/Expert Advice (REI)-->
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+  		document.write('<tr><td width="135" class="regBText"><font class="fakeActive">More REI Sites</font></td></tr><tr><td width="135" class="regBText"><a href="/index.jsp" class="yellow">REI.com</a><br><a href="/adventures/index.html" class="yellow">REI Adventures</a><br><br></td></tr>');
+		} else {
+		document.write('<div id="sbEa"><div class="navHead">How to Choose Gear<br></div><a href="/online/store/LearnShareArticlesList?storeId=8000&langId=-1&categoryId=Learn" class="yellow">Expert Advice</a><br><br></div>');
+}
+</script><div id="sbEa"><div class="navHead">How to Choose Gear<br></div><a href="/online/store/LearnShareArticlesList?storeId=8000&amp;langId=-1&amp;categoryId=Learn" class="yellow">Expert Advice</a><br><br></div>
+<!--email (Outlet)/Gifts (REI)-->
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+  		document.write('<tr><td width="135" valign="top" class="regBText"><font class="fakeActive">REI E-Mail Center</font></td></tr><tr><td width="135" class="regBText"><a href="/email/miniforms/quick.html" class="yellow">E-Mail Sign-Up</a><br><a href="/webservices/rei/DisplayGearMailSignup" class="yellow">Update Preferences</a><br><br></td></tr>');
+		} else {
+		document.write('<div id="sbMore">');
+}
+</script><div id="sbMore">
+<!--Membership (Outlet)/More Shopping (REI)-->
+<script language="javascript" type="text/javascript">
+	if(storeId == "8001") {
+  		document.write('<tr><td width="135" valign="top" class="regBText"><font class="fakeActive">REI Membership</font></td></tr><tr><td width="135" class="regBText"><a href="/shared/help/membership_join.html?storeId=8001" class="yellow">Become an REI Member</a><br><a href="https://' + window.location.hostname + '/shared/help/membership.html?storeId=8001" class="yellow">Member Help</a><br><a href="/webservices/outlet/ExternalLink?stat=otsbvisaurl=http://www.reivisa.com/61rei" class="yellow">Apply for an REI&nbsp;Visa&reg;<br><br></a></td></tr>');
+		} else {
+		document.write('<div class="navHead">More Ways to Shop<br></div><a href="/online/store/Search?langId=-1&storeId=8000&query=it3275&link=1" class="yellow">On Sale</a><br><a href="/outlet/index.html" class="yellow">REI-OUTLET.com</a><br><a href="/rei/sales_and_events/brands.html" class="yellow">Shop by Brand</a><br><a href="/rei/gearshop/index.jsp" class="yellow">Shop All Categories</a><br><a href="/cgs/index.html" class="yellow">Corporate Sales</a><br><a href="https://' + window.location.hostname + '/online/store/CatalogRequest?storeId=8000&langId=-1" class="yellow">Catalog Sign-Up</a><br><br></div>');}
+</script><div class="navHead">More Ways to Shop<br></div><a href="/online/store/Search?langId=-1&amp;storeId=8000&amp;query=it3275&amp;link=1" class="yellow">On Sale</a><br><a href="/outlet/index.html" class="yellow">REI-OUTLET.com</a><br><a href="/rei/sales_and_events/brands.html" class="yellow">Shop by Brand</a><br><a href="/rei/gearshop/index.jsp" class="yellow">Shop All Categories</a><br><a href="/cgs/index.html" class="yellow">Corporate Sales</a><br><a href="https://web.archive.org/online/store/CatalogRequest?storeId=8000&amp;langId=-1" class="yellow">Catalog Sign-Up</a><br><br></div>
+<!--Company Info (Outlet)/Rest of REI Sidebar-->
+<script language="javascript">
+		if(storeId == "8001") {
+			document.write('<tr><td width="135" valign="top" class="regBText"><font class="fakeActive">Company Info<br></font></td></tr><tr><td width="135" class="regBText"><a href="/aboutrei/about_rei.html" class="yellow">About REI</a><br><a href="/aboutrei/gives02.html" class="yellow">REI Gives</a><br><a href="/jobs/index.html" class="yellow">Jobs at REI</a><br><a href="/shared/affiliates/index.html?storeId=8001" class="yellow">Become an REI Affiliate</a><br><br></td></tr></table></td></tr></table>'); 
+	}	else {
+			document.write('<div id="sbMember"><div class="navHead">REI Membership</div><a href="/shared/help/membership_join.html?storeId=8000" class="yellow">Become an REI Member</a><br><a href="https://' + window.location.hostname + '/shared/help/membership.html?storeId=8000" class="yellow">Member Help</a><br><a href="/webservices/rei/ExternalLink?stat=side_36&url=http://www.reivisa.com/61rei" class="yellow">Apply for an REI Visa&reg;</a><br><br></div><div id="sbPartner"><div class="navHead">Partner Program<br></div><a href="/shared/affiliates/index.html?storeId=8000" class="yellow">Become an REI Affiliate</a><br><br></div>');
+}
+</script><div id="sbMember"><div class="navHead">REI Membership</div><a href="/shared/help/membership_join.html?storeId=8000" class="yellow">Become an REI Member</a><br><a href="https://web.archive.org/shared/help/membership.html?storeId=8000" class="yellow">Member Help</a><br><a href="/webservices/rei/ExternalLink?stat=side_36&amp;url=http://www.reivisa.com/61rei" class="yellow">Apply for an REI Visa®</a><br><br></div><div id="sbPartner"><div class="navHead">Partner Program<br></div><a href="/shared/affiliates/index.html?storeId=8000" class="yellow">Become an REI Affiliate</a><br><br></div>
+</div>
+</td><td width="1" class="bgColDGr"><img width="1" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" height="20" border="0" alt=""></td><td width="14"><img width="14" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" height="20" border="0" alt=""></td><td width="570" valign="top">
+                    <div style="width:570px;margin:20px 0 30px 0px;padding: 0 0 0 2px;" class="regText">
+                        <p class="regText">
+                            <script type="text/javascript" language="javascript">
+		if(storeId == "8001") {
+		  document.write('<a href="http://' + window.location.hostname + '/outlet/help/helpintro.html">Help</a> >  Privacy and Security');
+		} else {
+		  document.write('<a href="http://' + window.location.hostname + '/rei/help/hintro.html">Help</a> >  Privacy and Security');
+		}
+		</script><a href="http://web.archive.org/rei/help/hintro.html">Help</a> &gt;  Privacy and Security
+                        </p>
+                        <h1>Privacy and Security</h1>
+                        <ul style="width:265; float:left;padding:5px 20px 0 20px;margin:0;" class="list">
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#1?storeId=8000">We Protect Your Privacy</a>
+                            </li>
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#2?storeId=8000">Personal Information</a>
+                            </li>
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#3?storeId=8000">The Information We Gather</a>
+                            </li>
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#4?storeId=8000">Aggregate Data and Information Usage</a>
+                            </li>
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#5?storeId=8000">Voluntary Registered Shopper Information</a>
+                            </li>
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#6?storeId=8000">Click-Stream Data (and Cookie Technology)</a>
+                            </li>
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#7?storeId=8000">Subscription Preferences</a>
+                            </li>
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#8?storeId=8000">Communications from REI and Other Companies</a>
+                            </li>
+                        </ul>
+                        <ul style="width:245; float:left;padding:5px 0px 0 20px;margin:0;" class="list">
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#9?storeId=8000">Other REI Privacy Notes</a>
+                            </li>
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#10?storeId=8000">Privacy Policy Changes</a>
+                            </li>
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#11?storeId=8000">Secure Shopping and Personal Information</a>
+                            </li>
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#12?storeId=8000">The Transmission Of Sensitive Data</a>
+                            </li>
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#13?storeId=8000">What Happens To My Information After REI Receives It?</a>
+                            </li>
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#14?storeId=8000">REI's No-Risk Shopping Guarantee</a>
+                            </li>
+                            <li>
+                                <a href="https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#15?storeId=8000">Credit Card Security</a>
+                            </li>
+                        </ul>
+                        <div style="clear:both; padding:0 0 10 0;"></div>
+                        <a name="1"></a>
+                        <h2>We Protect Your Privacy</h2>
+                        <text>
+
+                            <p>
+We respect the privacy of our customers. This Privacy Policy is designed to 
+help you understand what information we gather and how we use it. In our 
+ongoing effort to improve the products, services and features we provide to 
+our customers, REI will continue to implement new technologies from time to 
+time. As a result, this policy is subject to change without prior notice and 
+we will post any revision on this web site. We encourage you to review our 
+privacy policy periodically. When you do business with us or use our website, 
+you accept this Privacy Policy.
+</p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="2"></a>
+                        <h2>Personal Information</h2>
+                        <text>
+
+                            <p>
+Personal information is information about a specific person, including the 
+person's name, address, telephone number, email address, credit card number, 
+birth date, information about the person's activities and purchases, and, if 
+applicable, member number.
+</p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="3"></a>
+                        <h2>The Information We Gather</h2>
+                        <text>
+
+                            <p>
+When you become an REI member, and whenever you purchase products from REI, 
+become a registered shopper, participate in our gift registry or request a 
+catalog, we collect and store your personal and transactional information in 
+our customer database. This information is generally used to process your 
+transactions, respond to your requests, and, if you are a member, calculate 
+your member dividend. You may also receive periodic printed or e-mail 
+communications from us about new products and services, discounts, special 
+promotions or upcoming events.
+</p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="4"></a>
+                        <h2>Aggregate Data and Information Usage</h2>
+                        <text>
+
+                            <p>
+In addition to personal information, we collect and store information about 
+the products purchased by channel and the pages viewed by all of our website 
+visitors. We then use this data in aggregate form to identify overall customer 
+behavior patterns. Our goal in using this information is to improve your 
+experience at REI by being more responsive to the needs and preferences of our 
+customers.
+</p>
+
+                            <p>
+Our Web servers automatically collect information about each visitor who 
+requests REI Web pages, including your computer's internet protocol (IP) 
+address. This IP address allows us to identify your computer on the internet 
+so that the Web content you request from us can be sent to you.
+</p>
+
+                            <p>
+We provide portions of this aggregate site behavior information to vendors, 
+consultants, potential advertisers or news agencies. We typically do this in 
+order to demonstrate the amount of interest in REI and to plan for product and 
+service improvements.
+</p>
+
+                            <p>
 
 
+                            </p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="5"></a>
+                        <h2>Voluntary Registered Shopper Information</h2>
+                        <text>
+
+                            <p>
+Your REI Online Account is an optional service provided on REI's websites. You 
+do not have to register for Your REI Online Account in order to shop online 
+with us. However, registering allows us to speed up the shopping process for 
+you and lets us offer you access to special features and promotions. <a href="http://www.rei.com/online/store/YourAccountInfoOutView?storeId=8000&amp;langId=-1&amp;catalogId=40000008000" onmouseover="if(storeId==8001){href='http://www.rei.com/online/store/YourAccountInfoOutView?storeId=8001&amp;langId=-1&amp;catalogId=40000008000';}">Learn 
+more about REI Online Accounts.</a> Please note that this is not the same as 
+an REI membership. <a href="/shared/help/membership_join.html?storeId=8000" onmouseover="if(storeId==8001){href='/shared/help/membership_join.html?storeId=8001';}">Click here</a> for information on REI Membership.
+</p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="6"></a>
+                        <h2>Click-Stream Data (and Cookie Technology)</h2>
+                        <text>
+
+                            <p>
+We use this information to process your order and to make sure that it is 
+delivered to you. Aggregated order information is also used to track and 
+analyze overall shopping trends, which allows REI to improve product offerings 
+and services to its members and customers.
+</p>
+
+                            <p>
+In order to register on—or purchase products from—REI's websites, your browser 
+must be set to accept "cookies." A cookie is a small piece of data housed in a 
+text file or folder on your computer's hard drive that helps us recognize you 
+when you visit our sites. We use cookies to help us remember things such as 
+the following: (1) the profile facts you tell us about yourself, (2) your 
+specified areas of interest on our sites, (3) the items you've placed in your 
+shopping basket, and/or (4) the pages you visit as you shop.
+</p>
+
+                            <p>
+
+                                <b>The only personal information our cookie can contain is information that 
+you supply yourself.</b> Our cookies cannot read data from other parts of your 
+computer.
+</p>
+
+                            <p>
+Click-stream data is information that describes the page-by-page paths you 
+take as you browse through our websites. REI partners with Coremetrics, a 
+service provider, to help us gather and analyze information about your 
+browsing or purchase behavior on our website. The role of Coremetrics is to 
+help us conduct our business and deliver the most relevant products and 
+services to our customers. We may use click-stream data in the aggregate to 
+provide improved services to groups of shoppers who behave similarly. We may 
+also use this data on an individual basis to improve your specific shopping 
+experience. For example, if during a visit to REI.com you read an online 
+article about how to choose the right tent, we may during a subsequent visit 
+present you with a how-to article on cleaning your tent or point you to a new 
+product related to tent repair.
+</p>
+
+                            <p>
+If you would like to opt-out of having your personal information available to 
+Coremetrics, or if you would like to view or change your current Opt-out 
+status, please <a href="https://web.archive.org/shared/help/opt_out.html?storeId=8000">click here</a>.
+</p>
+
+                            <p>
+
+
+                            </p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="7"></a>
+                        <h2>Subscription Preferences</h2>
+                        <text>
+
+                            <p>
+When you provide REI with your email address you will receive REI's email 
+newsletters. You may choose at any time to discontinue receiving REI 
+newsletters by opting out or unsubscribing.
+</p>
+
+                            <p>
+We often state that <b>"REI will not share your e-mail address."</b> 
+That statement is our promise to you that we will not rent, sell, or give your 
+e-mail address to any other organization for the purposes of marketing or 
+solicitation.
+</p>
+
+                            <p>
+However, in order to deliver our e-mail newsletters REI will need to supply 
+your e-mail address to specific service providers who deliver e-mail on our 
+behalf. We also use service providers to authenticate and validate the 
+information provided by our customers to help assure that our e-mail is 
+successfully delivered.<b> We have legally binding agreements with these 
+third-party service providers that prohibit them from using your information 
+for any purpose other than in accordance with the terms of their agreements 
+with REI. Therefore, if you sign up for REI's e-mail newsletters, you should 
+not receive unsolicited e-mails from other companies as a result of the 
+release of your information by REI.</b>
+
+                            </p>
+
+                            <p>
+A second statement we make is <b>"You can opt-out at any time."</b> 
+This statement is our promise to you that we will respect a decision to stop 
+receiving REI e-mail newsletters. Every e-mail you receive from REI will 
+include a link that allows you to quickly and easily unsubscribe from any or 
+all REI e-mail newsletters. Alternatively, you may <a href="http://preferences.rei.com/rei/rei_PrefCtr.asp">click 
+here</a> to unsubscribe or to update your e-mail newsletter preferences.
+</p>
+
+                            <p>
+Please note: In order to process your purchases, we may still send you a 
+confirmation e-mail, or we may contact you by mail or telephone if we have 
+questions about your order.
+</p>
+
+                            <p>
+
+
+                            </p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="8"></a>
+                        <h2>Communications from REI and Other Companies</h2>
+                        <text>
+
+                            <p>
+In some instances, we use third-party companies to help us provide products 
+and services to you, to assist us in market research, managing customer 
+information, or to fulfill promotions and communicate with you. Some of these 
+companies are given access to some or all of the information you provide to 
+us. These companies are contractually restricted from using your information 
+in any manner other than in helping us to provide you with the products and 
+services available from REI.
+</p>
+
+                            <p>
+REI has partnered with WeddingChannel.com to provide our customers with the 
+ability to aggregate wedding or commitment ceremony registries with multiple 
+retailers. If you participate in REI's Gift Registry program for purposes of a 
+wedding or commitment ceremony, you will be given the ability to "opt-in" to 
+WeddingChannel.com during your registration process. If you choose to "opt-in" 
+to WeddingChannel.com, REI will share the following items of your personally 
+identifiable information to WeddingChannel.com: name, co-registrant's name, 
+email address, mailing address, event type, event date, and registry ID. You 
+may be asked to provide additional personally identifiable information to 
+WeddingChannel.com. Once you "opt-in" to WeddingChannel.com, the information 
+shared by REI as well as any other information you provide directly, is 
+subject to the WeddingChannel.com privacy policy 
+(http://wedding.weddingchannel.com/help/privacy_policy.asp). We encourage you 
+to read the WeddingChannel.com privacy policy to understand the types of 
+information collected and how that information is used by WeddingChannel.com.
+</p>
+
+                            <p>
+In addition to the REI mailings above, we make available customer names and 
+postal addresses (not your e-mail address or phone number), in combination 
+with transactional data to other select companies. If you do not want us to 
+share this information with these companies, we can add your name to our 
+"do-not-share" list. Please <a href="https://www.rei.com/shared/help/mailing.html?storeId=8000">click 
+here</a> for information.
+</p>
+
+                            <p>
+
+                                <b>If you want to be removed from all REI marketing, choose one of the 
+following options: visit our Contact Us page to send an e-mail; call 
+1-800-426-4840 (US and Canada) or 1-253-891-2500 (outside the US and Canada); 
+or send your request by mail to REI Membership Services, Sumner, WA 
+98352-0001. Remember to include your name, address, membership number (if 
+applicable) and phone number in the request.</b>
+
+                            </p>
+
+                            <p>
+
+
+                            </p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="9"></a>
+                        <h2>Other REI Privacy Notes</h2>
+                        <text>
+
+                            <ul>
+
+                                <li>
+
+                                    <p>
+Links to or From Other Sites—REI may provide links to websites outside of 
+REI.com as an added convenience to the user. There are also affiliates that 
+link to REI.com. Any link included does not imply or convey endorsement of the 
+other company or organization, its site, or its products or services. REI is 
+not responsible for the privacy, terms of use, or other policies of any other 
+website.
+</p>
+
+                                </li>
+
+                                <li>
+
+                                    <p>
+REI's Children's Policy—Except for membership data applicable to children, we 
+do not intend to collect any personally identifiable information from children 
+through our websites. Please do not allow children under the age of 18 to 
+provide any personally identifiable information or participate in the bulletin 
+board sections of REI's websites. If you have concerns about a member under 
+the age of 18 receiving mail from companies other than REI, you can add the 
+member's name to our "do not share" list. Please click here for information.
+</p>
+
+                                </li>
+
+                                <li>
+
+                                    <p>
+Protection of REI and Others—We release account and other personal information 
+when we believe release is appropriate to comply with the law, or protect the 
+rights, property, or safety of REI, our users, or others.
+</p>
+
+                                </li>
+
+                            </ul>
+
+                            <p>
+
+
+                            </p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="10"></a>
+                        <h2>Privacy Policy Changes</h2>
+                        <text>
+
+                            <p>
+This Privacy Policy replaces all previous disclosures we may have provided you 
+about our information practices. We reserve the right to change this policy 
+and to apply any changes to previously collected information as permitted by 
+law. If our information practices change in the future, we will notify you by 
+posting the changes on our website. This Privacy Policy was last updated on 
+05/24/05.
+</p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="11"></a>
+                        <h2>Secure Shopping and Personal Information</h2>
+                        <text>
+
+                            <p>
+We understand that many consumers are concerned about Internet security. REI 
+employs industry-leading technologies to store sensitive information and 
+protect it while in transit over the Internet. The following Security 
+Statement describes the technologies we use and provides additional details 
+about how we handle sensitive data like credit card information. We want you 
+to be able to shop at REI with complete confidence. If for any reason you feel 
+uncomfortable shopping with us online, we invite you to stop by a local <a href="/stores/index.jsp">REI 
+store</a> or call us and order by phone: 1-800-426-4840, Mon. through Sun., 4 
+a.m. through 11 p.m. Pacific Time.
+</p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="12"></a>
+                        <h2>The Transmission Of Sensitive Data</h2>
+                        <text>
+
+                            <p>
+We work hard to protect the information that you send to us while it is en 
+route to and from our sites. To provide secure transmission, REI employs 
+Secure Sockets Layer technology (SSL) on those pages that involve sensitive 
+information such as credit card numbers. SSL, which is supported by a vast 
+majority of Internet browsers available today, is the most commonly employed 
+method of secure, encrypted communication used on the Internet.
+</p>
+
+                            <p>
+We have also obtained Verisign™ digital security certificates for all of our 
+websites. Verisign™ is an independent third party that authenticates the 
+identity of others on the Internet. By registering with Verisign™, we provide 
+you a method of independently authenticating that the entity you are dealing 
+with over the Internet is actually REI.
+</p>
+
+                            <p>
+
+
+                            </p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="13"></a>
+                        <h2>What Happens To My Information After REI Receives It?</h2>
+                        <text>
+
+                            <p>
+SSL protects information en route to us. Verisign™ certificate technology 
+helps ensure that REI is the actual recipient of this information. But we 
+don't stop there—we also work very hard to make sure the information you send 
+us is stored and managed securely once we receive it. All data collected is 
+stored on site and is protected by multiple levels of data and structural 
+security. This information is only accessible to Recreational Equipment, Inc. 
+and trusted, contracted third-party service providers.
+</p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="14"></a>
+                        <h2>REI's No-Risk Shopping Guarantee</h2>
+                        <div style="padding: 0pt 0pt 10px 10px; float: right;">
+                            <img vspace="0" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/graphics/help/secureflag.gif" hspace="0" border="0" alt=""></div>
+                        <text>
+
+                            <p>
+We guarantee that every transaction you make at REI will be secure. Should any 
+unauthorized charges ever be made to your card as a result of shopping here, 
+you would pay nothing.
+</p>
+
+                            <p>
+
+                                <b>REI Pays Your $50 Credit Card Liability</b>
+                                <br>Per the Fair Credit 
+Billing Act, your bank cannot hold you liable for more than $50 of fraudulent 
+charges. REI will cover the $50 if the unauthorized use of your credit card 
+resulted from purchases made through our site while using our secure server.
+</p>
+
+                            <p>
+Remember, in the event of unauthorized use of your credit card number, you 
+must notify your credit provider in accordance to the reporting rules and 
+procedures listed in your account agreement.
+</p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                        <a name="15"></a>
+                        <h2>Credit Card Security</h2>
+                        <text>
+
+                            <p>
+You can shop online with confidence, knowing that the financial and personal 
+information you submit is secure. Just be sure to follow these three easy 
+steps.
+</p>
+
+                            <ol>
+
+                                <li>
+Make sure the sites you buy from use secure commerce technology. At REI, 
+security is provided by the best Internet commerce technology available. We 
+use Verisign as our SSL (Secure Socket Layer) digital certificate provider, 
+allowing our customers the strongest certificate services around. Your credit 
+card information is encrypted while traveling the Internet. As a Visa Shop 
+Smart participant, REI offers you the safest online transactions.
+</li>
+
+                                <li>
+You'll know your transaction is secure when a "complete key" icon appears in 
+the lower left-hand corner of your Netscape Navigator screen, or a "closed 
+lock" icon appears in the lower right-hand corner of your Internet Explorer 
+screen.
+</li>
+
+                                <li>
+NOTE—E-mail is not secure. Please remember, your e-mail correspondence should 
+never include sensitive information you would not like to share with the 
+general public as e-mail is never a secure environment on the Internet.
+</li>
+
+                                <li>
+Buy from merchants you know you can trust. What makes a merchant trustworthy?
+</li>
+
+                                <li>
+History—REI has been supplying quality outdoor gear and customer service since 
+1938.
+</li>
+
+                                <li>
+Guarantee—REI offers a 100% repair or replacement guarantee on every product 
+sold.
+</li>
+
+                                <li>
+Easy Access—If you have any questions regarding your REI purchase, please 
+contact us via e-mail, at our toll-free number (1-800-426-4840), or by 
+visiting the REI store nearest you.
+</li>
+
+                                <li>
+
+                                    <p>
+Keep records. When you purchase a product and check out, print the screen so 
+you have a paper record of your purchase. A paper record will be extremely 
+helpful if you ever need to contact us.
+</p>
+
+                                </li>
+
+                            </ol>
+
+                            <p>
+
+
+                            </p>
+
+                            <p>
+
+
+                            </p>
+
+                        </text>
+                        <div style="clear:both;"></div>
+                    </div>
+
+<script language="javascript" type="text/javascript">
+if(storeId == "8001") {
+document.write ('<a href="/email/miniforms/quick.html"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/graphics/email/miniforms/em3572signup.gif" width="569" height="34" border="0" alt="Sign Up For REI e-mail"></a><table width="570" border="0" cellpadding="0" cellspacing="5">\n<tr>\n<td width="570" align="center" class="regBlText"><br><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/outcommon/white.gif" width="560" height="1" border="0" alt=""><br>\n<a href="http://' + window.location.hostname + '/outlet/index.html" class="blue">REI-OUTLET Home</a>&nbsp; | &nbsp;<a href="http://' + window.location.hostname + '/online/store/ShoppingBasket?storeId=8001&langId=-1&catalogId=40000008001&stat=otcart" class="blue">Shopping Cart</a>&nbsp; | &nbsp;<a href="http://' + window.location.hostname + '/outlet/help/helpintro.html" class="blue">Help</a>&nbsp; | &nbsp;<a href="http://' + window.location.hostname + '/shared/help/feedback/feedback.html?storeId=8001" class="blue">E-Mail Us</a>&nbsp; | &nbsp;<a href="http://' + window.location.hostname + '/jobs/index.html" class="blue">Jobs</a></td></tr>\n<tr>\n<td width="570" align="center" class="regBlText"><a href="http://' + window.location.hostname + '/index.jsp" class="blue">REI.com</a>&nbsp; | &nbsp;<a href="http://' + window.location.hostname + '/adventures/index.html" class="blue">REI Adventures</a>&nbsp; | &nbsp;<a href="http://' + window.location.hostname + '/cgs/index.html" class="blue">Corporate Sales</a></td></tr>\n<tr>\n<td width="570" align="center" class="regGrText" valign="bottom"><table width="570" border="0" cellpadding="0" cellspacing="0"><tr><td width="570"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/white.gif" width="560" height="3" border="0" alt=""></td></tr>\n<tr><td width="570" align="center" class="regGrText" valign="bottom"><a href="http://' + window.location.hostname + '/shared/help/copyright.html?storeId=8001" target="_parent"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/footer_copyright.gif" width="94" height="11" border="0" alt="&#169; 1996-2005 REI"></a>&nbsp; | &nbsp;<a href="http://' + window.location.hostname + '/shared/help/privacy.html?storeId=8001" target="_parent"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/footer_privacy_policy.gif" width="73" height="11" border="0" alt="Privacy Policy"></a>&nbsp; | &nbsp;<a href="http://' + window.location.hostname + '/shared/help/returns.html?storeId=8001#guarantee" target="_parent"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/footer_guarantee.gif" width="160" height="11" border="0" alt="100% Guarantee"></a></td></tr>\n</table>\n</td></tr></table>');
+} else {
+document.write ('<div style="clear:both; height:0"></div><div id="footer">\n<br><br><div id="columnHelp">\n<div class="columnHead">Help</div>\n<div class="columnBody"><a href="http://' + window.location.hostname + '/rei/help/hintro.html?storeId=8000" target="_parent">Help Section</a><br>\n<a href="http://' + window.location.hostname + '/shared/help/feedback/feedback.html?storeId=8000" target="_parent">Contact Us</a><br>\n<a href="http://' + window.location.hostname + '/rei/livehelp/genstart.html" target="_parent">Live Help</a><br>\n<a href="http://' + window.location.hostname + '/shared/help/tracking.html?storeId=8000" target="_parent">Order Tracking</a><br>\n<a href="http://' + window.location.hostname + '/shared/help/returns.html?storeId=8000" target="_parent">Returns</a><br>\n<a href="http://' + window.location.hostname + '/shared/help/shipping.html?storeId=8000" target="_parent">Shipping Info</a><br></div></div>\n<div id="columnCompany">\n<div class="columnHead">Company Info</div>\n<div class="columnBody"><a href="http://' + window.location.hostname + '/aboutrei/about_rei.html" target="_parent">About REI</a><br>\n<a href="http://' + window.location.hostname + '/aboutrei/gives02.html" target="_parent">REI Gives</a><br>\n<a href="http://' + window.location.hostname + '/jobs/index.html" target="_parent">Jobs at REI</a><br>\n<a href="http://' + window.location.hostname + '/shared/help/guarantee.html?storeId=8000" target="_parent">100% Guarantee</a><br>\n<a href="http://' + window.location.hostname + '/shared/help/privacy.html?storeId=8000" target="_parent">Privacy Policy</a><br>\n<a href="http://' + window.location.hostname + '/shared/help/copyright.html?storeId=8000" target="_parent" id="copyrightA">&#169; 1996-2005 REI</a><br>\n<a href="http://' + window.location.hostname + '/shared/help/copyright.html?storeId=8000" target="_parent" id="copyrightB">&#169; 1996-2006 REI</a><br></div></div>\n<div id="columnMember">\n<div class="columnHead">Member Benefits</div>\n<div class="columnBody"><a href="http://' + window.location.hostname + '/shared/help/membership_join.html?storeId=8000" target="_parent"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/it4238_card.gif" width="95" height="62" border="0" alt="Member Card"></a><br>\n<a href="http://' + window.location.hostname + '/shared/help/membership_join.html?storeId=8000" target="_parent">Join the Co-op!</a><br>\n<a href="https://' + window.location.hostname + '/shared/help/membership.html?storeId=8000"  target="_parent">Member Help</a><br>\n<a href="http://' + window.location.hostname + '/webservices/rei/ExternalLink?stat=footer_visa&url=http://www.reivisa.com/62rei" target="_parent">Apply for an REI Visa&reg;</a><br>\n</div></div><div id="columnGift"><div class="columnHead">Gift-Giving Center</div><div class="columnBody"><a href="http://' + window.location.hostname + '/online/store/PrepareGiftCertificatesView?storeId=8000&langId=-1&catalogId=40000008000" target="_parent"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/it4238_giftcard.gif" width="95" height="62" border="0" alt="Gift Card"></a><br><a href="http://' + window.location.hostname + '/online/store/PrepareGiftCertificatesView?storeId=8000&langId=-1&catalogId=40000008000" target="_parent">Gift Cards</a><br><a href="http://' + window.location.hostname + '/shop/Gifts.htm" target="_parent">Gift Shop</a><br><a href="http://' + window.location.hostname + '/online/store/GiftRegistryHomeView?storeId=8000" target="_parent">Gift Registry</a><br></div></div><div id="columnPromo"><div class="columnHead">Special Offer</div><div class="columnBody"><div style="line-height:1.3;"><a href="http://' + window.location.hostname + '/299ship" target="_parent"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/299_ship.gif" width="109" height="60" border="0" alt="2.99 Shipping"></a><br><a href="http://' + window.location.hostname + '/299ship" target="_parent">$2.99 US Standard Shipping on orders totaling $150 or more.</a><br></div></div></div>\n<div id="columnGearmail">\n<div class="columnHead">REI Gearmail&#174;</div>\n<div class="columnBody"><a href="http://' + window.location.hostname + '/email/miniforms/quick.html" target="_parent">Sign up for e-mail updates</a><br>featuring news, deals and more. After you subscribe, we\'ll e&#150;mail you a coupon for 10% off your next purchase at REI.<br><br>\n<a href="http://' + window.location.hostname + '/webservices/rei/DisplayGearMailSignup">Update E&#150;Mail Preferences</a><br></div></div></div>\n<br><br>');
+}
+</script><div style="clear:both; height:0"></div><div id="footer">
+<br><br><div id="columnHelp">
+<div class="columnHead">Help</div>
+<div class="columnBody"><a href="http://web.archive.org/rei/help/hintro.html?storeId=8000" target="_parent">Help Section</a><br>
+<a href="http://web.archive.org/shared/help/feedback/feedback.html?storeId=8000" target="_parent">Contact Us</a><br>
+<a href="http://web.archive.org/rei/livehelp/genstart.html" target="_parent">Live Help</a><br>
+<a href="http://web.archive.org/shared/help/tracking.html?storeId=8000" target="_parent">Order Tracking</a><br>
+<a href="http://web.archive.org/shared/help/returns.html?storeId=8000" target="_parent">Returns</a><br>
+<a href="http://web.archive.org/shared/help/shipping.html?storeId=8000" target="_parent">Shipping Info</a><br></div></div>
+<div id="columnCompany">
+<div class="columnHead">Company Info</div>
+<div class="columnBody"><a href="http://web.archive.org/aboutrei/about_rei.html" target="_parent">About REI</a><br>
+<a href="http://web.archive.org/aboutrei/gives02.html" target="_parent">REI Gives</a><br>
+<a href="http://web.archive.org/jobs/index.html" target="_parent">Jobs at REI</a><br>
+<a href="http://web.archive.org/shared/help/guarantee.html?storeId=8000" target="_parent">100% Guarantee</a><br>
+<a href="http://web.archive.org/shared/help/privacy.html?storeId=8000" target="_parent">Privacy Policy</a><br>
+<a href="http://web.archive.org/shared/help/copyright.html?storeId=8000" target="_parent" id="copyrightA">© 1996-2005 REI</a><br>
+<a href="http://web.archive.org/shared/help/copyright.html?storeId=8000" target="_parent" id="copyrightB">© 1996-2006 REI</a><br></div></div>
+<div id="columnMember">
+<div class="columnHead">Member Benefits</div>
+<div class="columnBody"><a href="http://web.archive.org/shared/help/membership_join.html?storeId=8000" target="_parent"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/it4238_card.gif" width="95" height="62" border="0" alt="Member Card"></a><br>
+<a href="http://web.archive.org/shared/help/membership_join.html?storeId=8000" target="_parent">Join the Co-op!</a><br>
+<a href="https://web.archive.org/shared/help/membership.html?storeId=8000" target="_parent">Member Help</a><br>
+<a href="http://web.archive.org/webservices/rei/ExternalLink?stat=footer_visa&amp;url=http://www.reivisa.com/62rei" target="_parent">Apply for an REI Visa®</a><br>
+</div></div><div id="columnGift"><div class="columnHead">Gift-Giving Center</div><div class="columnBody"><a href="http://web.archive.org/online/store/PrepareGiftCertificatesView?storeId=8000&amp;langId=-1&amp;catalogId=40000008000" target="_parent"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/it4238_giftcard.gif" width="95" height="62" border="0" alt="Gift Card"></a><br><a href="http://web.archive.org/online/store/PrepareGiftCertificatesView?storeId=8000&amp;langId=-1&amp;catalogId=40000008000" target="_parent">Gift Cards</a><br><a href="http://web.archive.org/shop/Gifts.htm" target="_parent">Gift Shop</a><br><a href="http://web.archive.org/online/store/GiftRegistryHomeView?storeId=8000" target="_parent">Gift Registry</a><br></div></div><div id="columnPromo"><div class="columnHead">Special Offer</div><div class="columnBody"><div style="line-height:1.3;"><a href="http://web.archive.org/299ship" target="_parent"><img src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/common/nav/299_ship.gif" width="109" height="60" border="0" alt="2.99 Shipping"></a><br><a href="http://web.archive.org/299ship" target="_parent">$2.99 US Standard Shipping on orders totaling $150 or more.</a><br></div></div></div>
+<div id="columnGearmail">
+<div class="columnHead">REI Gearmail®</div>
+<div class="columnBody"><a href="http://web.archive.org/email/miniforms/quick.html" target="_parent">Sign up for e-mail updates</a><br>featuring news, deals and more. After you subscribe, we'll e–mail you a coupon for 10% off your next purchase at REI.<br><br>
+<a href="http://web.archive.org/webservices/rei/DisplayGearMailSignup">Update E–Mail Preferences</a><br></div></div></div>
+<br><br>
+
+<script type="text/javascript" src="http://a1072.g.akamai.net/f/1072/2062/1h/gallery.rei.com/rei/javascript/coremetrics/rei/rei_basic.js"></script>
+
+</td>
+            </tr>
+        </tbody></table>
+        <script type="text/javascript">
+	addStoreId();
+</script>
+    
 
 </body></html>
