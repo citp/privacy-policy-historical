@@ -1,0 +1,29 @@
+> *The following text is extracted and transformed from the costumeexpress.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214055348id_/http%3A//www.costumeexpress.com/companyinfo/privacypolicy.aspx) for the most accurate reproduction.*
+
+# Costume Express Privacy Policy
+
+This statement discloses the privacy practices for the Costume Express Web site. Questions regarding this statement should be directed to the Costume Express Customer Service department by sending an e-mail to [CustomerCare@CostumeExpress.com](mailto:customercare@costumeexpress.com). 
+
+  Costume Express is highly concerned about the protection of online privacy for all our Web site visitors. Although we track the total number of visitors to our site in an aggregate form, to allow us to update and improve our site, personally identifiable information is not extracted in this process. Additionally, customers may use our "Tell A Friend" feature to forward an e-mail to friends about Costume Express, and be assured that we do not retain e-mail addresses in this process. 
+
+  Our Web site uses Microsoft Site Server technology that allows IP Addresses to be collected and used for administrative purposes, and to analyze traffic patterns for this site. However, no single individual is identified in this analysis of Web traffic. This technology also includes the use of cookies that benefit visitors by saving information so they don't have to re-type it on subsequent visits to our site. It is possible for the user to disable cookies, but then the user will not be able to order products from our site. The reason is that our shopping cart function requires the use of cookies to operate. Orders can always be phoned in by calling 1-800-926-3886. 
+
+  We make it our top priority to safeguard the privacy of our online customers, and we take great care in making sure that your personal information is secure. We limit access to personally identifiable information to a very small number of employees who are committed to our privacy and security policies, and need access to the information in order to perform their jobs. All employees are required to sign a nondisclosure agreement. Any employee who violates our privacy and/or security policies is subject to immediate disciplinary action. 
+
+  Costume Express only collects personally identifiable data, such as names, addresses, e-mail addresses, and the like, if voluntarily submitted by visitors. We also ask parents/guardians to provide their child's birth month and year so that we may send a Birthday Express catalog at the appropriate time to help customers with party planning. 
+
+  We collect payment information in order to bill shoppers for items they've ordered. Before an order is shipped we verify credit card numbers with a qualified financial institution that uses secure encryption technology. 
+
+  In some instances, when an e-mail address has been provided by the visitor (age 18 or older), we'll send notices to the visitor, usually in the form of e-mail. These periodic notices will announce the status of an order or Web site changes. While we may communicate with visitors via e-mail about their orders, we won't send promotional e-mails unless the visitor has specifically chosen to receive such messages. We also don't share e-mail addresses with third parties. 
+
+  When providing your telephone number, please include the area code. Persons who supply us with their telephone number(s) will only receive calls from us, if necessary, regarding orders they have placed. Your phone number will not be shared with anyone. 
+
+  When you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services. If you don't wish to receive such mailings, please [click here](https://web.archive.org/customercare/unsubscribe.aspx), and we'll remove you from our mailing list. If you've placed an order with our company, you may also receive mailings from other reputable companies whose products we think you might find interesting. However, if you'd like to have your name put on our do-not-share list, [click here](https://web.archive.org/customercare/unsubscribe.aspx) and we won't share your address with other carefully selected organizations. 
+
+  If you do not wish to receive marketing-related e-mail from us, you may opt-out by [clicking here](https://web.archive.org/customercare/unsubscribe.aspx) and we will quickly honor your request. You may also opt-out by sending your request to Costume Express, 11220 120th Avenue NE, Kirkland, WA 98033, or by phoning our Customer Care department at 1-800-926-3886. Online contests and sweepstakes may have alternate rules regarding contact information. Please refer to the individual guidelines posted for each promotion. 
+
+  To make changes to the personally identifiable information you previously submitted to us, (e.g. your name or address), you may send an e-mail with the revised information to [CustomerCare@CostumeExpress.com](mailto:customercare@costumeexpress.com), or call our Customer Care department at 1-800-926-3886. 
+
+  Parents and guardians: We want to help you guard your children's privacy. Costume Express doesn't collect any personal information on those sections of the site that may be considered designed for the use of children under the age of 13. We encourage you to talk to your children about safe and responsible use of their personal information while using the Internet. 
+
+  We reserve the right to change this policy at any time by notifying guests of the existence of a new privacy policy. If we change the way we use personally identifiable information, we'll notify you via e-mail within 30 days and wait for your response before taking further action. If we don't hear back from you within 30 days, we will proceed in implementing the new privacy policy. 
