@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528083637id_/http%3A//www.adcouncil.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214173901id_/http%3A//www.adcouncil.org/about/privacy) for the most accurate reproduction.*
 
 # The Ad Council : Privacy Policy
 
