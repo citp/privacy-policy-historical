@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinemart.co.uk privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403222109id_/http%3A//www.machinemart.co.uk/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinemart.co.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214233434id_/http%3A//www.machinemart.co.uk/w3c/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -36,7 +36,7 @@ We use this information to process your order, and communicate with you in respe
 
 We also collect information when you request a catalogue, enter a competition or register for email updates. 
 
-We provide a regular updates service to inform you about new products, money saving offers, news and changes to our website and web service.  At each point where you are asked to provide us with personal information you will be given the opportunity to request this service.  If you later decide that you no-longer wish to receive such information from Machine Mart, you can "Unsubscribe" from our updates at any time (see "Unsubscribing"). 
+We may use the information collected to notify you about new products, money saving offers, news and changes to our website and web service. At each point where you are asked to provide us with personal information you will be given the opportunity to tell us that you do not want your personal information to be used in this way. If you later decide that you no-longer wish to receive such information from Machine Mart, you can "Unsubscribe" from our updates at any time (see "Unsubscribing").
 
 We may also store and use information for the purposes of website and system administration, and fulfilment of customer service.  For example, we keep details of your purchase in order to maintain records relating to product warranties etc. 
 
