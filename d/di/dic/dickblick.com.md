@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303175353id_/http%3A//www.dickblick.com/customerservice/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214090819id_/http%3A//www.dickblick.com/customerservice/privacy) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -50,6 +50,8 @@ We do no "direct telemarketing" by telephone or fax, and we will never offer you
   
 If you are on online customer, and you have created an account here on this website, you can notify us automatically through the Internet, by managing your "privacy" settings online. If you have never been our customer, but you request a catalog, we offer you the same options on our Catalog Request page.   
   
+In the event that DickBlick.com or substantially all of its assets are acquired or merged with another company, all of the customer information that we have collected may be transferred to the new company.   
+  
 #####  What if I don't want e-mail or catalogs?  
   
   
@@ -78,17 +80,22 @@ Cookies are bits of information that your browser stores on your computer to hel
   
 ---  
   
-We use cookies in order to improve your shopping experience. When you visit dickblick.com, your cookie helps us keep track of your order as you shop at our site. If you are a Preferred Customer, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. We may monitor and maintain information about your use of our Web site in a manner that does not identify you. In either case, this information helps us serve you better by improving our site design, as well as our products, services, contests, and promotions.   
+We use cookies in order to improve your shopping experience. When you visit dickblick.com, your cookie helps us keep track of your order as you shop at our site. If you are a Registered Customer, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. We may monitor and maintain information about your use of our Web site in a manner that does not identify you. In either case, this information helps us serve you better by improving our site design, as well as our products, services, contests, and promotions.   
   
 We also use cookies to track and maintain the identity of the Web site you visited immediately prior to ours to further improve our site design and to fulfill contracts with our business partners. We do not otherwise track any information about your use of other Web sites.   
   
 Although there are firms that track Internet users via cookies, we do not buy, sell, exchange, or offer this information to them. Nor do we use any such information on our own site.   
   
-You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order or enable you to make a purchase from our site. Nor will we be able to recognize you as a Preferred Customer to allow you access to your account information.   
+You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order or enable you to make a purchase from our site. Nor will we be able to recognize you as a Registered Customer to allow you access to your account information.   
   
 If you are concerned about cookies, and you want to avoid keeping them on your machine, we urge you to use or purchase one of the many excellent "Cookie Eliminator" programs that are available. Other than forcing you to log in again, using a cookie cleaning program will not affect your use of our site.   
   
 #####  What other information do you collect?  
   
   
-As you browse and order on our site, our servers log your activity and your path through our site, recording each request for a page or other information. Dick Blick's collects and analyzes data about how visitors use this website, but we do not use this information to identify or contact individual users, nor do we supply any data that could identify individual users to a third party. We use this data only to improve our site and our services. We do nothing with this information, other than analyze it in aggregate, or diagnose occasional problems. 
+As you browse and order on our site, our servers log your activity and your path through our site, recording each request for a page or other information. Dick Blick's collects and analyzes data about how visitors use this website, but we do not use this information to identify or contact individual users, nor do we supply any data that could identify individual users to a third party. We use this data only to improve our site and our services. We do nothing with this information, other than analyze it in aggregate, or diagnose occasional problems.   
+  
+##### Policy Changes
+
+  
+Dick Blick provides its services to you subject to the preceeding policies which may be updated and/or revised from time to time by Dick Blick without notice to you, and which become effective when posted. Please refer to this page to review our most current policies and terms of use. 
