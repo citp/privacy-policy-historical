@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotels.ca privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308185456id_/http%3A//www.hotels.ca/index.jsp%3Fcid%3D70991%26pageName%3Dprivacy%26language%3Den%26locale%3Den_CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.ca privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214145517id_/http%3A//www.hotels.ca/index.jsp%3Fcid%3D74983%26pageName%3Dprivacy%26language%3Den%26locale%3Den_CA) for the most accurate reproduction.*
 
-# hotels.com -- infocenter
+# Hotel.ca -- infocenter
 
 |  |   
 ---  
