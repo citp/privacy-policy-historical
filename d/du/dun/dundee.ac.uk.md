@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dundee.ac.uk privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305070119id_/http%3A//www.dundee.ac.uk/general/privacycode.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dundee.ac.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214111234id_/http%3A//www.dundee.ac.uk/general/privacycode.htm) for the most accurate reproduction.*
 
 # University of Dundee: Disclaimer and Copyright Notice
 
