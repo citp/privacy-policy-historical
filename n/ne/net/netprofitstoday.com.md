@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netprofitstoday.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630021936id_/http%3A//netprofitstoday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netprofitstoday.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214091511id_/http%3A//netprofitstoday.com/privacy.html) for the most accurate reproduction.*
 
 # RosalindGardner.com - Privacy Statement
 
@@ -18,13 +18,13 @@ This site may make chat rooms, forums, message boards, and/or news groups availa
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to NetProfitsToday.com by [clicking here.](https://web.archive.org/web/20050630021936id_/http%3A//netprofitstoday.com/contact.html)
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to NetProfitsToday.com by [clicking here.](https://web.archive.org/web/20051214091511id_/http%3A//netprofitstoday.com/contact.html)
 
 **Correct/Update**
 
-This site gives users the following options for changing and modifying information previously provided. Change or modify information [here](https://web.archive.org/web/20050630021936id_/http%3A//netprofitstoday.com/contact.html).
+This site gives users the following options for changing and modifying information previously provided. Change or modify information [here](https://web.archive.org/web/20051214091511id_/http%3A//netprofitstoday.com/contact.html).
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact [contact us.](https://web.archive.org/web/20050630021936id_/http%3A//netprofitstoday.com/contact.html)  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact [contact us.](https://web.archive.org/web/20051214091511id_/http%3A//netprofitstoday.com/contact.html)  
 
