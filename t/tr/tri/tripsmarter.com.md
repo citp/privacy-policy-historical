@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tripsmarter.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405001654id_/http%3A//tripsmarter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripsmarter.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214075657id_/http%3A//tripsmarter.com/privacy.htm) for the most accurate reproduction.*
 
 # TripSmarter.Com - About Us - Privacy Policy
 
-TripSmarter.Com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; TripSmarter.com.Com.
+TripSmarter.Com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; TripSmarter.Com.
 
 This site contains links to other sites. TripSmarter.com.Com is not responsible for the privacy practices or the content of such Web sites. 
 
