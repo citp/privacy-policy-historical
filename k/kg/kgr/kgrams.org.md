@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgrams.org privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205010622id_/http%3A//kgrams.org/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgrams.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214173315id_/http%3A//www.kgrams.org/main/privacy.html) for the most accurate reproduction.*
 
 # K-grams -- Privacy Policy
 
@@ -28,7 +28,7 @@ Our policy regarding this information is simple: except as provided in this stat
 
 **Users under 13**
 
-Children under 13 may not register for K-grams, enter our online contests or sweepstakes, or use any K-grams services that require personally identifiable information, unless we have written and signed parental permission. If we learn that we have inadvertently collected information from anyone under 13 without the appropriate permission, we will immediately remove that information. For questions or other issues regarding the protection of children's privacy, please [contact us](https://web.archive.org/web/20050205010622id_/http%3A//kgrams.org/about/contact.html).
+Children under 13 may not register for K-grams, enter our online contests or sweepstakes, or use any K-grams services that require personally identifiable information, unless we have written and signed parental permission. If we learn that we have inadvertently collected information from anyone under 13 without the appropriate permission, we will immediately remove that information. For questions or other issues regarding the protection of children's privacy, please [contact us](https://web.archive.org/web/20051214173315id_/http%3A//www.kgrams.org/about/contact.html).
 
 **Cookies**
 
