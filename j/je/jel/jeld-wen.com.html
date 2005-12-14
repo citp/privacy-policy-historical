@@ -1,190 +1,55 @@
-<!--The following is the downloaded HTML source of the jeld-wen.com privacy policy that was archived on 2004-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607032345id_/http%3A//www.jeld-wen.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jeld-wen.com privacy policy that was archived on 2005-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214020143id_/http%3A//jeld-wen.com/about/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>JELD-WEN Privacy Policy</title>
 	<meta name="description" content="JELD-WEN Privacy Policy">
-	<meta name="keyword" content="JELD-WEN, Privacy, Policy">
-	<link rel="stylesheet" type="text/css" href="/_inc/css/style.css">
-	<script src="_inc/js/browserObject.js"></script>
-	<script>
-var W_NUMLAYERS = 4;
-var w_curLayer=W_NUMLAYERS;  //no layer selected
-var layerArray = new Array(W_NUMLAYERS);
-var b_init = false;
-var w_lastLayer = 0;
-var str_primNavArr = new Array(W_NUMLAYERS);
-var obj_primNavArr = new Array(W_NUMLAYERS);
-var str_windowsDefault = "/_images/topnav/windows.gif";
-var str_exteriordoorsDefault = "/_images/topnav/exterior_doors.gif";
-var str_interiordoorsDefault = "/_images/topnav/interior_doors.gif";
-var str_otherproductsDefault = "/_images/topnav/other_products.gif";
-var w_ignoreIndex;
-str_primNavArr[0] = str_windowsDefault;
-str_primNavArr[1] = str_exteriordoorsDefault;
-str_primNavArr[2] = str_interiordoorsDefault;
-str_primNavArr[3] = str_otherproductsDefault;
-
-
-
-
-
-
-function init(){
+	<meta name="keywords" content="JELD-WEN, Privacy, Policy">
 	
-	if(is.ns){
-		layerArray[0]= document.layers["container_layer"].document.layers["flyout_win"];
-		layerArray[1]= document.layers["container_layer"].document.layers["flyout_ext"];
-		layerArray[2]= document.layers["container_layer"].document.layers["flyout_int"];
-		layerArray[3]= document.layers["container_layer"].document.layers["flyout_oth"];
-	}
-	else if(is.ns6){
-		layerArray[0]=document.getElementById("flyout_win");
-		layerArray[1]=document.getElementById("flyout_ext");
-		layerArray[2]=document.getElementById("flyout_int");
-		layerArray[3]=document.getElementById("flyout_oth");
-	}
-	else{
-		layerArray[0]=window.flyout_win;
-		layerArray[1]=window.flyout_ext;
-		layerArray[2]=window.flyout_int;
-		layerArray[3]=window.flyout_oth;
-	}
-	obj_primNavArr[0] = document.images["windows"];
-	obj_primNavArr[1] = document.images["exteriordoors"];
-	obj_primNavArr[2] = document.images["interiordoors"];
-	obj_primNavArr[3] = document.images["otherproducts"];
-	
-	b_init=true;
-	
+
+
+
+
+
+
+	<style>
+body {
+	color: #000000;
+	font-family: Arial,Verdana,Geneva,Helvetica,sans-serif;
+	font-size:12px;
+	line-height:16px;
+	background-color: #FFFFFF;
 }
-
-function showlayer(lyr_index){
-	w_curLayer=lyr_index;
-	if(is.ie || is.ns6){
-		for(w_temp = 0; w_temp<W_NUMLAYERS; w_temp++){
-			if(w_temp!=lyr_index){
-				layerArray[w_temp].style.visibility = "hidden";
-			}/*
-			if(lyr_index == 1)
-				document.images["windows"].src = str_windowsDefault;
-			else if(lyr_index == 2)
-				document.images["exteriordoors"].src = str_exteriordoorsDefault;
-			else if(lyr_index == 3)
-				document.images["interiordoors"].src = str_interiordoorsDefault;
-			else if(lyr_index == 4)
-				document.images["otherproducts"].src = str_otherproductsDefault;*/
-		}
-		layerArray[w_curLayer].style.visibility = "visible";
-	}
-	else if(is.ns){
-		for(w_temp = 0; w_temp < W_NUMLAYERS; w_temp++){
-			if(w_temp!=lyr_index){
-				layerArray[w_temp].visibility = "hide";
-			}/*
-			if(lyr_index == 1)
-				document.images["windows"].src = str_windowsDefault;
-			else if(lyr_index == 2)
-				document.images["exteriordoors"].src = str_exteriordoorsDefault;
-			else if(lyr_index == 3)
-				document.images["interiordoors"].src = str_interiordoorsDefault;
-			else if(lyr_index == 4)
-				document.images["otherproducts"].src = str_otherproductsDefault;*/
-		}
-		layerArray[w_curLayer].visibility = "show";
-	}
+p,td,th,table,dl,ol,ul,font,text {
+	color: #000000;
+	font-family: Arial,Verdana,Geneva,Helvetica,sans-serif;
+	font-size:12px;
+	line-height:16px;
 }
+.small,select,input { color: #000000; font-family: Arial,Verdana,Geneva,Helvetica,sans-serif; font-size:11px; line-height:15px}
+.red { color: #9E0B0E; font-family: Arial,Verdana,Geneva,Helvetica,sans-serif; font-size:12px; line-height:16px;}
+.white { color: #FFFFFF; font-family: Arial,Verdana,Geneva,Helvetica,sans-serif; font-size:12px; line-height:16px;}
 
-function hideAllLayers(){
-	if(w_curLayer==W_NUMLAYERS){
-		if(is.ie || is.ns6){
-			for(w_temp = 0; w_temp<W_NUMLAYERS; w_temp++){
-				layerArray[w_temp].style.visibility = "hidden";
-			}
-		}
-		else if(is.ns){
-			for(w_temp = 0; w_temp<W_NUMLAYERS; w_temp++){
-				layerArray[w_temp].visibility = "hide";
-			}
-		}
-		//swap images back
-		for(w_temp = 0; w_temp < W_NUMLAYERS; w_temp++){
-			if(w_temp != w_ignoreIndex)
-				obj_primNavArr[w_temp].src = str_primNavArr[w_temp];
-		}
-		/*
-		if(is.ie || is.ns6){
-			document.images["windows"].src = str_windowsDefault;
-			document.images["exteriordoors"].src = str_exteriordoorsDefault;
-			document.images["interiordoors"].src = str_interiordoorsDefault;
-			document.images["otherproducts"].src = str_otherproductsDefault;
-		}
-		else{
-			document.images["windows"].src = str_windowsDefault;
-			document.images["exteriordoors"].src = str_exteriordoorsDefault;
-			document.images["interiordoors"].src = str_interiordoorsDefault;
-			document.images["otherproducts"].src = str_otherproductsDefault;
-		}
-		*/
-	}
-	else
-		setTimeout("hideAllLayers()", 500);
-}
-
-function hideLayer(){
-	var x = 0;
-	if(w_curLayer==0)
-		x=1;
-	if(is.ie || is.ns6){
-		layerArray[x].style.visibility = "hidden";
-	}
-	else if(is.ns){
-		layerArray[x].visibility = "hide";
-	}
-
-}
-
-function mouseExit(){
-	if(!b_init)
-		return;
-	w_curLayer=W_NUMLAYERS;
-	setTimeout("hideAllLayers()", 500);
-}
+.headline { color: #9E948D; font-family: Arial,Verdana,Geneva,Helvetica,sans-serif; font-size:12px; line-height:16px } 
+.large { color: #000000; font-family: Arial,Verdana,Geneva,Helvetica,sans-serif; font-size:16px; line-height:16px } 
+.point14 { color: #000000; font-family: Arial,Verdana,Geneva,Helvetica,sans-serif; font-size:16px; line-height:16px } 
+.styleheadline { color: #695D54; font-family: Arial,Verdana,Geneva,Helvetica,sans-serif; font-size:12px; line-height:16px }
+.normaltable { line-height: 0px }
+.blue { color: #3366CC; font-family: Arial,Verdana,Geneva,Helvetica,sans-serif; font-size:12px; line-height:16px;}
+.blacknav { color: #000000; font-family: Arial,Verdana,Geneva,Helvetica,sans-serif; font-size:11px; line-height:15px; text-decoration: none }
+a:visited	{ color: #9E948D; text-decoration: none }
+a:link		{ color: #3366CC; text-decoration: none }
+a:hover		{ color: #3366CC; text-decoration: none }
 
 
-function mouseEnter(w_layerIndex){
-	if(!b_init){
-		return;
-	}
-	w_curLayer=w_layerIndex;
-	for(w_temp = 0; w_temp < W_NUMLAYERS; w_temp++){
-		if((w_temp != w_layerIndex) && (w_temp != w_ignoreIndex))
-			obj_primNavArr[w_temp].src = str_primNavArr[w_temp];
-	}
-	showlayer(w_layerIndex);
-	
-}
+</style>
 
-function hideLayersNoWait(){
-	if(is.ie || is.ns6){
-		for(w_temp = 0; w_temp<W_NUMLAYERS; w_temp++){
-			layerArray[w_temp].style.visibility = "hidden";
-		}
-	}
-	else if(is.ns){
-		for(w_temp = 0; w_temp<W_NUMLAYERS; w_temp++){
-			layerArray[w_temp].style.visibility = "hide";
-		}
-	}
-}
-</script>
-	
-	<script src="_inc/js/cssSelector.js"></script><link rel="stylesheet" href="/_inc/css/pc_ns6_flyout_style.css">
-	<script src="_inc/js/swapImage.js"></script>
-	<script src="_inc/js/popupWindow.js"></script>
+
+	<script src="/_inc/js/swapImage.js"></script>
+	<script src="/_inc/js/popupWindow.js"></script>
 </head>
 
-<body onload="init()" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 
 <script>
@@ -196,80 +61,88 @@ function popupGallery(){
 function donothing(){
 	
 }
+	
+     if (document.images)
+        {
+			homepage = new Image();
+			homepage.src = "/_images/topnav/nav_home_o.gif";
+			about = new Image();
+			about.src = "/_images/topnav/nav_about_o.gif";
+			resources = new Image();
+			resources.src = "/_images/topnav/nav_resources_o.gif";
+			gallery = new Image();
+			gallery.src = "/_images/topnav/nav_gallery_o.gif";
+			findsupplier = new Image();
+			findsupplier.src = "/_images/topnav/nav_findsupplier_o.gif";
+			brochures = new Image();
+			brochures.src = "/_images/topnav/nav_brochures_o.gif";
+			press = new Image();
+			press.src = "/_images/topnav/nav_press_o.gif";
+			windows = new Image();
+			windows.src = "/_images/topnav/nav_windows_o.gif";
+			extdoors = new Image();
+			extdoors.src = "/_images/topnav/nav_extdoors_o.gif";
+			intdoors = new Image();
+			intdoors.src = "/_images/topnav/nav_intdoors_o.gif";
+			garagedoors = new Image();
+			garagedoors.src = "/_images/topnav/nav_garagedoors_o.gif";
+			newproducts = new Image();
+			newproducts.src = "/_images/topnav/nav_newproducts_o.gif";
+       }
 -->
 </script>
+
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td bgcolor="#487A93"><img src="/_images/spacer.gif" width="1" height="8"></td></tr>
-<tr><td><img src="/_images/spacer.gif" width="1" height="16"></td></tr>
-<tr>
-<td align="center">
-	<table border="0" cellpadding="0" cellspacing="0" width="760">
-	<tbody><tr>
-		<td><img src="/_images/spacer.gif" width="7" height="1"><a href="/index.cfm"><img src="/_images/topnav/jeld-wenlogo.gif" width="172" height="58" border="0" alt="JELD-WEN Windows &amp; Doors"></a></td>
-		<td valign="top">
-			<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr><td width="580" colspan="8" align="right"><a href="/about/index.cfm" onmouseover="swapImages('about', '/_images/topnav/about-o.gif'); return true;" onmouseout="swapImages('about', '/_images/topnav/about.gif'); return true;"><img src="/_images/topnav/about.gif" alt="about JELD-WEN" name="about" width="103" height="22" hspace="0" vspace="0" border="0"></a><a href="/resources/index.cfm" onmouseover="swapImages('resources', '/_images/topnav/resources-o.gif'); return true;" onmouseout="swapImages('resources', '/_images/topnav/resources.gif'); return true;"><img name="resources" src="/_images/topnav/resources.gif" width="63" height="22" alt="resources" hspace="0" vspace="0" border="0"></a><a href="javascript:popupGallery();" onmouseover="swapImages('gallery', '/_images/topnav/gallery-o.gif'); return true;" onmouseout="swapImages('gallery', '/_images/topnav/gallery.gif'); return true;"><img name="gallery" src="/_images/topnav/gallery.gif" width="49" height="22" alt="gallery" hspace="0" vspace="0" border="0"></a><a href="/findsupplier/index.cfm" onmouseover="swapImages('findasupplier', '/_images/topnav/findasupplier-o.gif'); return true;" onmouseout="swapImages('findasupplier', '/_images/topnav/findasupplier.gif'); return true;"><img name="findasupplier" src="/_images/topnav/findasupplier.gif" width="86" height="22" alt="find a supplier" hspace="0" vspace="0" border="0"></a><a href="/pressroom/index.cfm" onmouseover="swapImages('pressroom', '/_images/topnav/pressroom-o.gif'); return true;" onmouseout="swapImages('pressroom', '/_images/topnav/pressroom.gif'); return true;"><img name="pressroom" src="/_images/topnav/pressroom.gif" width="71" height="22" alt="press room" hspace="0" vspace="0" border="0"></a><a href="/brochure/index.cfm" onmouseover="swapImages('brochures', '/_images/topnav/brochures-o.gif'); return true;" onmouseout="swapImages('brochures', '/_images/topnav/brochures.gif'); return true;"><img name="brochures" src="/_images/topnav/brochures.gif" width="67" height="22" alt="brochures" hspace="0" vspace="0" border="0"></a><a href="/search.cfm" onmouseover="swapImages('search', '/_images/topnav/search-o.gif'); return true;" onmouseout="swapImages('search', '/_images/topnav/search.gif'); return true;"><img name="search" src="/_images/topnav/search.gif" width="55" height="22" alt="search" hspace="0" vspace="0" border="0"></a></td></tr>
-			<tr>
-				<td width="157"><a href="javascript:donothing();" onmouseover="mouseEnter(0);swapImage('windows', '/_images/topnav/windows-o.gif', 'container_layer')" onmouseout="mouseExit()"><img src="/_images/topnav/windows.gif" width="157" height="19" border="0" alt="windows &amp; patio doors" name="windows"></a></td>
-				<td width="8"><img src="/_images/spacer.gif" width="8" height="1"></td>
-				<td width="132"><a href="javascript:donothing();" onmouseover="mouseEnter(1);swapImage('exteriordoors', '/_images/topnav/exterior_doors-o.gif', 'container_layer')" onmouseout="mouseExit()"><img src="/_images/topnav/exterior_doors.gif" width="132" height="19" border="0" alt="exterior doors" name="exteriordoors"></a></td>
-				<td width="8"><img src="/_images/spacer.gif" width="8" height="1"></td>
-				<td width="132"><a href="javascript:donothing();" onmouseover="mouseEnter(2);swapImage('interiordoors', '/_images/topnav/interior_doors-o.gif', 'container_layer')" onmouseout="mouseExit()"><img src="/_images/topnav/interior_doors.gif" width="132" height="19" border="0" alt="interior doors" name="interiordoors"></a></td>
-				<td width="8"><img src="/_images/spacer.gif" width="8" height="1"></td>
-				<td width="127"><a href="javascript:donothing();" onmouseover="mouseEnter(3);swapImage('otherproducts', '/_images/topnav/other_products-o.gif', 'container_layer')" onmouseout="mouseExit()"><img src="/_images/topnav/other_products.gif" width="127" height="19" border="0" alt="other products" name="otherproducts"></a></td>
-
-				<td width="8"><img src="/_images/spacer.gif" width="8" height="1"></td></tr>
-			</tbody></table>
-
-			
-
-			<div id="container_layer" class="container">				
-				<div id="flyout_win" class="fly_win">
-				<table border="0" cellpadding="0" cellspacing="0" class="normaltable">
-					<tbody><tr><td height="19" class="normaltable"><a href="/windows/wood/index.cfm" onmouseover="mouseEnter(0);swapFlyoutImageA('/_images/topnav/windows_wood-o.gif', 'woodwindows')" onmouseout="mouseExit();swapFlyoutImageA('/_images/topnav/windows_wood.gif', 'woodwindows')"><img src="/_images/topnav/windows_wood.gif" width="157" height="19" border="0" name="woodwindows" alt="wood and clad wood"></a></td></tr>
-					<tr><td height="19" class="normaltable"><a href="/windows/vinyl/index.cfm" onmouseover="mouseEnter(0);swapFlyoutImageA('/_images/topnav/windows_vinyl-o.gif', 'vinyl')" onmouseout="mouseExit();swapFlyoutImageA('/_images/topnav/windows_vinyl.gif', 'vinyl')"><img src="/_images/topnav/windows_vinyl.gif" width="157" height="19" border="0" name="vinyl" alt="vinyl"></a></td></tr>
-					<tr><td height="19" class="normaltable"><a href="/windows/aluminum/index.cfm/material_id/3" onmouseover="mouseEnter(0);swapFlyoutImageA('/_images/topnav/windows_aluminum-o.gif', 'aluminum')" onmouseout="mouseExit();swapFlyoutImageA('/_images/topnav/windows_aluminum.gif', 'aluminum')"><img src="/_images/topnav/windows_aluminum.gif" width="157" height="19" border="0" name="aluminum" alt="aluminum"></a></td></tr>
-				</tbody></table>
-				</div>
-				<div id="flyout_ext" class="fly_ext">
-				<table border="0" cellpadding="0" cellspacing="0" class="normaltable">
-					<tbody><tr><td class="normaltable"><a href="/exteriordoors/wood/index.cfm" onmouseover="mouseEnter(1);swapFlyoutImageV('/_images/topnav/exterior_doors_wood-o.gif', 'woodexterior')" onmouseout="mouseExit();swapFlyoutImageV('/_images/topnav/exterior_doors_wood.gif', 'woodexterior')"><img src="/_images/topnav/exterior_doors_wood.gif" width="132" height="19" border="0" name="woodexterior" alt="wood and clad wood"></a></td></tr>
-					<tr><td class="normaltable"><a href="/exteriordoors/fiberglass/index.cfm" onmouseover="mouseEnter(1);swapFlyoutImageV('/_images/topnav/exterior_doors_fiberglass-o.gif', 'fiberglass')" onmouseout="mouseExit();swapFlyoutImageV('/_images/topnav/exterior_doors_fiberglass.gif', 'fiberglass')"><img src="/_images/topnav/exterior_doors_fiberglass.gif" width="132" height="19" border="0" name="fiberglass" alt="fiberglass"></a></td></tr>
-					<tr><td class="normaltable"><a href="/exteriordoors/woodcomposite/alterna/index.cfm" onmouseover="mouseEnter(1);swapFlyoutImageV('/_images/topnav/exterior_doors_woodcomp-o.gif', 'woodcomposite')" onmouseout="mouseExit();swapFlyoutImageV('/_images/topnav/exterior_doors_woodcomp.gif', 'woodcomposite')"><img src="/_images/topnav/exterior_doors_woodcomp.gif" width="132" height="19" border="0" name="woodcomposite" alt="wood composite"></a></td></tr>
-					<tr><td class="normaltable"><a href="/exteriordoors/steel/index.cfm" onmouseover="mouseEnter(1);swapFlyoutImageV('/_images/topnav/exterior_doors_steel-o.gif', 'steel')" onmouseout="mouseExit();swapFlyoutImageV('/_images/topnav/exterior_doors_steel.gif', 'steel')"><img src="/_images/topnav/exterior_doors_steel.gif" width="132" height="19" border="0" name="steel" alt="steel"></a></td></tr>
-				</tbody></table>
-				</div>
-				<div id="flyout_int" class="fly_int">
-				<table border="0" cellpadding="0" cellspacing="0" class="normaltable">
-					<tbody><tr><td class="normaltable"><a href="/interiordoors/wood/index.cfm" onmouseover="mouseEnter(2);swapFlyoutImageC('/_images/topnav/interior_doors_wood-o.gif', 'woodinterior')" onmouseout="mouseExit();swapFlyoutImageC('/_images/topnav/interior_doors_wood.gif', 'woodinterior')"><img src="/_images/topnav/interior_doors_wood.gif" width="132" height="19" border="0" name="woodinterior" alt="wood"></a></td></tr>
-					<tr><td class="normaltable"><a href="/interiordoors/routercarved/index.cfm" onmouseover="mouseEnter(2);swapFlyoutImageC('/_images/topnav/interior_doors_router-o.gif', 'router')" onmouseout="mouseExit();swapFlyoutImageC('/_images/topnav/interior_doors_router.gif', 'router')"><img src="/_images/topnav/interior_doors_router.gif" width="132" height="19" border="0" name="router" alt="router carved"></a></td></tr>
-					<tr><td class="normaltable"><a href="/interiordoors/molded/jeld-wen/index.cfm" onmouseover="mouseEnter(2);swapFlyoutImageC('/_images/topnav/interior_doors_molded-o.gif', 'molded')" onmouseout="mouseExit();swapFlyoutImageC('/_images/topnav/interior_doors_molded.gif', 'molded')"><img src="/_images/topnav/interior_doors_molded.gif" width="132" height="19" border="0" name="molded" alt="molded"></a></td></tr>
-					<tr><td class="normaltable"><a href="/interiordoors/flush/jeld-wen/index.cfm" onmouseover="mouseEnter(2);swapFlyoutImageC('/_images/topnav/interior_doors_flush-o.gif', 'flush')" onmouseout="mouseExit();swapFlyoutImageC('/_images/topnav/interior_doors_flush.gif', 'flush')"><img src="/_images/topnav/interior_doors_flush.gif" width="132" height="19" border="0" name="flush" alt="flush"></a></td></tr>
-				</tbody></table>
-				</div>
-				<div id="flyout_oth" class="fly_oth">
-				<table border="0" cellpadding="0" cellspacing="0" class="normaltable">
-					<tbody><tr><td class="normaltable"><a href="/otherproducts/garagedoors/jeld-wen/product.cfm/product_id/117" onmouseover="mouseEnter(3);swapFlyoutImageD('/_images/topnav/other_products_garage-o.gif', 'garagedoors')" onmouseout="mouseExit();swapFlyoutImageD('/_images/topnav/other_products_garage.gif', 'garagedoors')"><img src="/_images/topnav/other_products_garage.gif" width="127" height="19" border="0" name="garagedoors" alt="garage doors"></a></td></tr>
-				</tbody></table>
-				</div>
-			</div>
-		</td>
-	</tr>
-	</tbody></table>
-	
-</td>
+<tbody><tr>
+	<td bgcolor="#487A93"><img src="/_images/spacer.gif" width="1" height="8"></td>
 </tr>
-</tbody></table>
-<script>
-	if((is.ns) || is.ns6 || ((is.ie) && (is.mac))){
-		document.write("<br><img src='/_images/spacer.gif' width='100' height='60'><br>");
-	}
-</script><br><img src="/_images/spacer.gif" width="100" height="60"><br>
-
+<tr>
+	<td><img src="/_images/spacer.gif" width="1" height="16"></td>
+</tr>
+<tr>
+	<td background="/_images/topnav/nav_bar.gif" align="center">
+		<table border="0" cellpadding="0" cellspacing="0" width="720">
+		<tbody><tr>
+			<td bgcolor="#FFFFFF" rowspan="2"><img src="/_images/spacer.gif" width="8" height="1"></td>
+			<td><a href="/index.cfm"><img src="/_images/topnav/jeld-wenlogo.gif" width="172" height="43" border="0" alt="JELD-WEN Windows &amp; Doors"></a></td>
+			<td valign="bottom" align="right">
+				<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td><a href="/index.cfm" onmouseover="swapImages('home', '/_images/topnav/nav_home_o.gif'); return true;" onmouseout="swapImages('home', '/_images/topnav/nav_home.gif'); return true;"><img src="/_images/topnav/nav_home.gif" name="home" width="50" height="23" hspace="0" vspace="0" border="0"></a></td>
+					<td><a href="/about/index.cfm"><img src="/_images/topnav/nav_about_o.gif" name="about" width="53" height="23" hspace="0" vspace="0" border="0"></a></td>
+					<td><a href="/resources/index.cfm" onmouseover="swapImages('resources', '/_images/topnav/nav_resources_o.gif'); return true;" onmouseout="swapImages('resources', '/_images/topnav/nav_resources.gif'); return true;"><img src="/_images/topnav/nav_resources.gif" name="resources" width="70" height="23" hspace="0" vspace="0" border="0"></a></td>
+					<td><a href="/designcenter/index.cfm;" onmouseover="swapImages('gallery', '/_images/topnav/nav_gallery_o.gif'); return true;" onmouseout="swapImages('gallery', '/_images/topnav/nav_gallery.gif'); return true;"><img src="/_images/topnav/nav_gallery.gif" name="gallery" width="98" height="23" hspace="0" vspace="0" border="0"></a></td>
+					<td><a href="/findsupplier/index.cfm" onmouseover="swapImages('findsupplier', '/_images/topnav/nav_findsupplier_o.gif'); return true;" onmouseout="swapImages('findsupplier', '/_images/topnav/nav_findsupplier.gif'); return true;"><img src="/_images/topnav/nav_findsupplier.gif" name="findsupplier" width="100" height="23" hspace="0" vspace="0" border="0"></a></td>
+					<td><a href="/brochure/index.cfm" onmouseover="swapImages('brochures', '/_images/topnav/nav_brochures_o.gif'); return true;" onmouseout="swapImages('brochures', '/_images/topnav/nav_brochures.gif'); return true;"><img src="/_images/topnav/nav_brochures.gif" name="brochures" width="73" height="23" hspace="0" vspace="0" border="0"></a></td>
+					<td><a href="/pressroom/index.cfm" onmouseover="swapImages('press', '/_images/topnav/nav_press_o.gif'); return true;" onmouseout="swapImages('press', '/_images/topnav/nav_press.gif'); return true;"><img src="/_images/topnav/nav_press.gif" name="press" width="81" height="23" hspace="0" vspace="0" border="0"></a></td>		
+				</tr>
+				</tbody></table></td>
+				<td bgcolor="#FFFFFF" rowspan="2"><img src="/_images/spacer.gif" width="8" height="1"></td>
+		</tr>
+		<tr>
+			<td colspan="2" bgcolor="#5D99B3"><img src="/_images/spacer.gif" width="8" height="1" hspace="0" vspace="0" border="0" align="left">
+			<table border="0" cellpadding="0" cellspacing="0" bgcolor="#5D99B3" width="736">
+				<tbody><tr>
+					<td><a href="/windows/" onmouseover="swapImages('windows', '/_images/topnav/nav_windows_o.gif'); return true;" onmouseout="swapImages('windows', '/_images/topnav/nav_windows.gif'); return true;"><img src="/_images/topnav/nav_windows.gif" name="windows" width="155" height="25" hspace="0" vspace="0" border="0"></a></td>
+					<td><a href="/exteriordoors/" onmouseover="swapImages('extdoors', '/_images/topnav/nav_extdoors_o.gif'); return true;" onmouseout="swapImages('extdoors', '/_images/topnav/nav_extdoors.gif'); return true;"><img src="/_images/topnav/nav_extdoors.gif" name="extdoors" width="95" height="25" hspace="0" vspace="0" border="0"></a></td>
+					<td><a href="/interiordoors/" onmouseover="swapImages('intdoors', '/_images/topnav/nav_intdoors_o.gif'); return true;" onmouseout="swapImages('intdoors', '/_images/topnav/nav_intdoors.gif'); return true;"><img src="/_images/topnav/nav_intdoors.gif" name="intdoors" width="95" height="25" hspace="0" vspace="0" border="0"></a></td>
+					<td><a href="/otherproducts/garagedoors/" onmouseover="swapImages('garagedoors', '/_images/topnav/nav_garagedoors_o.gif'); return true;" onmouseout="swapImages('garagedoors', '/_images/topnav/nav_garagedoors.gif'); return true;"><img src="/_images/topnav/nav_garagedoors.gif" name="garagedoors" width="93" height="25" hspace="0" vspace="0" border="0"></a></td>
+					<td><a href="/newproducts/index.cfm" onmouseover="swapImages('newproducts', '/_images/topnav/nav_newproducts_o.gif'); return true;" onmouseout="swapImages('newproducts', '/_images/topnav/nav_newproducts.gif'); return true;"><img src="/_images/topnav/nav_newproducts.gif" name="newproducts" width="93" height="25" hspace="0" vspace="0" border="0"></a></td>
+					<td width="150" align="right"><form action="http://db1.spiderline.com/exec/search" method="get" name="sendinfo" style="margin-bottom:0"><input type="text" size="20" name="q" value="Keyword Search" onfocus="this.value=''"><input type="hidden" name="a" value="15985">&nbsp;</form></td>
+					<td><a href="javascript:document.forms['sendinfo'].submit()" onmouseover="document.images['bttn_submit'].src='/_images/topnav/nav_go_o.gif';" onmouseout="document.images['bttn_submit'].src='/_images/topnav/nav_go.gif';"><img name="bttn_submit" src="/_images/topnav/nav_go.gif" width="30" height="25" border="0"></a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+		
+		
+		
+		</tbody></table></td>
+</tr>
+</tbody></table><img src="/_images/spacer.gif" width="1" height="8"><br>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
-		<td align="center" valign="top" background="/_images/double_bar.gif">
+		<td align="center" valign="top">
 	
 			<table width="760" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
@@ -293,19 +166,19 @@ function donothing(){
 					<table width="700" border="0">
 						<tbody><tr>
 							<td valign="top">
-							<img src="_images/arrow.gif"><a href="#Cookies">Use of Cookies</a><br>
-							<img src="_images/arrow.gif"><a href="#IP_Addresses">Use of Internet Protocol IP Addresses</a><br>
-							<img src="_images/arrow.gif"><a href="#Information">Information Collection</a><br>
-							<img src="_images/arrow.gif"><a href="#Forms">Forms</a></td>
+							<img src="/_images/arrow.gif"><a href="#Cookies">Use of Cookies</a><br>
+							<img src="/_images/arrow.gif"><a href="#IP_Addresses">Use of Internet Protocol IP Addresses</a><br>
+							<img src="/_images/arrow.gif"><a href="#Information">Information Collection</a><br>
+							<img src="/_images/arrow.gif"><a href="#Forms">Forms</a></td>
 							<td valign="top">
-							<img src="_images/arrow.gif"><a href="#Child_Use">Child Use of Sites</a><br>
-							<img src="_images/arrow.gif"><a href="#Notifications">Notifications and Verifications</a><br>
-							<img src="_images/arrow.gif"><a href="#Sharing">Sharing Information</a><br>
-							<img src="_images/arrow.gif"><a href="#Supplementation">Data Supplementation</a></td>
+							<img src="/_images/arrow.gif"><a href="#Child_Use">Child Use of Sites</a><br>
+							<img src="/_images/arrow.gif"><a href="#Notifications">Notifications and Verifications</a><br>
+							<img src="/_images/arrow.gif"><a href="#Sharing">Sharing Information</a><br>
+							<img src="/_images/arrow.gif"><a href="#Supplementation">Data Supplementation</a></td>
 							<td valign="top">
-							<img src="_images/arrow.gif"><a href="#Third_Party">Third Party and Aggregate Data</a><br>
-							<img src="_images/arrow.gif"><a href="#Safeguarding">Safeguarding Customer Information</a><br>
-							<img src="_images/arrow.gif"><a href="#Acceptance">Your Acceptance of these terms</a></td>
+							<img src="/_images/arrow.gif"><a href="#Third_Party">Third Party and Aggregate Data</a><br>
+							<img src="/_images/arrow.gif"><a href="#Safeguarding">Safeguarding Customer Information</a><br>
+							<img src="/_images/arrow.gif"><a href="#Acceptance">Your Acceptance of these terms</a></td>
 						</tr>
 					</tbody></table>
 					</p>
@@ -424,23 +297,36 @@ By using this site, you signify your agreement to <b>JELD-WEN, inc.</b>  and/or 
 <br>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
-	<td bgcolor="#CAD9E2"><img src="/_images/spacer.gif" width="8" height="1"></td>
-	<td bgcolor="#CAD9E2" align="center">
+	<td bgcolor="#B7ADA4"><img src="/_images/spacer.gif" width="8" height="1"></td>
+	<td bgcolor="#B7ADA4" align="center">
 	<table border="0" cellpadding="0" cellspacing="0" width="742">
 	<tbody><tr>
-		<td bgcolor="#CAD9E2" height="23">
-		<a href="/index.cfm">Home</a>
+		<td bgcolor="#B7ADA4" height="14" align="right"><img src="/_images/topnav/footer.gif" width="230" height="14" hspace="0" vspace="0" border="0"></td>
+	</tr>
+	</tbody></table></td>
+	<td bgcolor="#B7ADA4"><img src="/_images/spacer.gif" width="8" height="1"></td>
+</tr>
+<tr><td colspan="3"><img src="/_images/spacer.gif" width="1" height="3"></td>
+</tr>
+<tr>
+	<td><img src="/_images/spacer.gif" width="8" height="1"></td>
+	<td align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="742">
+	<tbody><tr>
+		<td height="23" class="small">
+		<a href="/about/contact.cfm">Contact Us</a>
 		&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="/privacy.cfm">Privacy Policy</a>
+		<a href="/about/privacy.cfm">Privacy Policy</a>
 		&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="/trademark.cfm">Trademark and Copyright</a>
+		<a href="/about/trademark.cfm">Trademark and Copyright</a>
 		&nbsp;&nbsp;|&nbsp;&nbsp;
 		© 2003 JELD-WEN, inc. All rights reserved.</td>
 	</tr>
 	</tbody></table></td>
-	<td bgcolor="#CAD9E2"><img src="/_images/spacer.gif" width="8" height="1"></td>
+	<td><img src="/_images/spacer.gif" width="8" height="1"></td>
 </tr>
-<tr><td colspan="3" bgcolor="#00436E"><img src="/_images/spacer.gif" width="1" height="8"></td></tr>
+<tr><td colspan="3"><img src="/_images/spacer.gif" width="1" height="8"></td>
+</tr>
 </tbody></table>
 
 
