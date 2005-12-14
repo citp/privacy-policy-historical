@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rasmussenreports.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113133id_/http%3A//www.rasmussenreports.com/our_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rasmussenreports.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214104306id_/http%3A//www.rasmussenreports.com/our_privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
