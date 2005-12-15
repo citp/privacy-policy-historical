@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the limogesjewelry.com privacy policy that was archived on 2005-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050525114529id_/http%3A//www.limogesjewelry.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the limogesjewelry.com privacy policy that was archived on 2005-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051216001516id_/http%3A//www.limogesjewelry.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="javascript">
 var varservername="http://www.limogesjewelry.com/";
@@ -148,6 +148,13 @@ myRemote = launch("http://www.limogesjewelry.com/" + "ExpressShip_popup.asp?rate
 myRemote.focus();
 }
 
+// for Catalog Coupon pop-up
+function launchRemote17() {
+myRemote = launch("http://www.limogesjewelry.com/catalog_popup.asp","myRemote","height=580,width=530,alwaysLowered=0,alwaysRaised=0,channelmode=0,dependent=0,directories=0,fullscreen=0,hotkeys=1,location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=1,toolbar=0,z-lock=0","myWindow");
+myRemote.focus();
+}
+
+
 //end hide -->
 
 // function to close the window if open or not
@@ -156,8 +163,87 @@ if (!myRemote || myRemote.closed){
 } else {myRemote.close()}
 }
 //end hide -->
-</script>
 
+
+<!--
+///////////////////////////////////////////////////////////////////////////
+//     This script was designed by plx Web Studio  //
+//                                                                                             //
+//     For more info: http://plxwebdev.com                  //
+//     Contact Email: admin@plxwebdev.com          //
+/////////////////////////////////////////////////////////////////////////
+
+		
+		var desitnayionurl = 'http://www.limogesjewelry.com/winback_pop.asp'; //the page loaded in the popup window or in the floating layer
+		var usefarewellpop = 1; // 0=no; 1=yes
+
+
+		var usepopup = 1; // 0=no; 1=yes
+		var popup_one_time = 1; // Load new PopUp only once per browser session? (0=no, 1=yes); 
+		var popup_timed = 5; // timed popup in seconds; use 0 to pop on load
+		// Specify the width and height of new popup window (in pixels).
+		var popup_width = '420'; 
+		var popup_height = '250';
+		// set any of these appearance settings as you wish
+		var popup_props = 'scrollbars=no,resizable=no,toolbar=no,' + 
+		'menubar=no,status=no,location=no,left=0,top=0,height=' + 
+		popup_height + ',width=' + popup_width;
+
+		function get_cookie(Name) {
+   		// set expiration date to 1 month
+   		var exp = new Date()
+   		var oneMonthFromNow = exp.getTime() + (30 * 24 * 60 * 60 * 1000)
+   		exp.setTime(oneMonthFromNow)
+			var search = Name + "="
+			var returnvalue = "";
+			if (document.cookie.length > 0) {
+				offset = document.cookie.indexOf(search)
+				if (offset != -1) { // if the cookie exists
+					offset += search.length
+					end = document.cookie.indexOf(";", offset);
+				if (end == -1)
+					end = document.cookie.length;
+					returnvalue=unescape(document.cookie.substring(offset, end))
+				}
+			}
+			return returnvalue;
+		}
+		
+		// making popup
+		function popup_loadornot(){
+			if (get_cookie('popup')==''){
+				load_pop_up()
+				// put cookie together
+				// set expiration date to 1 month
+   		   var exp = new Date()
+   		   var oneMonthFromNow = exp.getTime() + (30 * 24 * 60 * 60 * 1000)
+   		   exp.setTime(oneMonthFromNow)
+				document.cookie="popup=yes; expires=" + exp.toGMTString()
+			}
+		}
+		function load_pop_up(){
+			if (!usepopup) return;
+			window.open(desitnayionurl, "popup", popup_props);
+		}
+		function GoLoadPopUp() {
+			if (popup_one_time==0) load_pop_up();
+			else popup_loadornot();
+			if (popup_timed) clearTimeout(popuptimer);
+		}
+
+		function GeneralLoader(wentunload) {
+   		//alert(self.screenTop);
+   		if (screenTop > 10000) {
+				GoLoadPopUp();
+				return;
+			}
+		}
+
+
+ -->
+ 
+ 
+ </script>
 
 
 <title>Limoges Jewelry Privacy Policy</title>
@@ -224,7 +310,7 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
 
 </head>	
 
-<body text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF">
+<body text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" onunload="GeneralLoader(1);">
 <!-- top banner navigation -->
 
 <style>
@@ -250,7 +336,7 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
 	font-family : Arial, Helvetica, sans-serif;
 	font-size : 9px;
 	font-weight: normal;
-	*/holiday green color*/
+	/*holiday green color*/
 	color: #2F5B40;
 	line-height: 11px;
 }
@@ -261,7 +347,17 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
 	color: #666666;
 	line-height: 10px;
 }
+.input_search {
+	font-family : "MS Sans Serif", Geneva, sans-serif;
+	font-size: 10px;
+	border-top : 1px solid #A9A9A9;
+	border-right : 1px solid #A9A9A9;
+	border-bottom : 1px solid #A9A9A9;
+	border-left : 1px solid #A9A9A9;
+	width: 130px;
+}
 </style>
+
 
 
 <table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
@@ -269,8 +365,8 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
     <td colspan="4"><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="8" height="14" align="texttop"></td>
   </tr>
   <tr> 
-    <td width="220" rowspan="3" align="left" valign="top"><a href="http://www.limogesjewelry.com/Default.asp"><img src="//www.limogesjewelry.com/images/ban_logo.gif" alt="Limoges Jewelry" width="220" height="46" vspace="0" border="0"></a></td>
-   <td rowspan="3" valign="top"> <!-- <a href="#" OnClick="closeMyRemote();launchRemoteSweeps()"> --><a href="http://www.limogesjewelry.com/102005sweeps_pop.asp"><img src="//www.limogesjewelry.com/images/sweeps/springSweeps_Button2.gif" width="96" height="84" border="0" align="top"></a> <!-- <a href="whyshop.asp"><img src="homepg/holiday_gifttag.gif" width="84" height="48" border="0"></a> --></td> <td colspan="2"> <div align="right"><a href="http://www.limogesjewelry.com/shoppingcart/myaccount.asp" class="ban">My 
+    <td width="230" rowspan="3" align="left" valign="top"><a href="http://www.limogesjewelry.com/Default.asp"><img src="//www.limogesjewelry.com/images/ban_logo_holiday.gif" alt="Limoges Jewelry" width="230" height="51" vspace="0" border="0"></a></td>
+   <td rowspan="3" valign="top"> <!-- <a href="#" OnClick="closeMyRemote();launchRemoteSweeps()"> --><a href="http://www.sweepstakesonline.com/hawaii/?pid=1" target="_blank"><img src="//www.limogesjewelry.com/images/sweeps/hawaii_96x84_d1.gif" width="96" height="84" border="0" align="top"></a><img src="http://www.sweepstakesonline.com/hawaii/sumr.php?pid=1" height="1" width="1"> <!-- <a href="whyshop.asp"><img src="homepg/holiday_gifttag.gif" width="84" height="48" border="0"></a> --></td> <td colspan="2"> <div align="right"><a href="http://www.limogesjewelry.com/shoppingcart/myaccount.asp" class="ban">My 
         Account</a><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="22" height="8"><a href="http://www.limogesjewelry.com/shoppingcart/order_stat.asp" class="ban">Order 
         Status</a><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="22" height="8"><a href="http://www.limogesjewelry.com/service.asp" class="ban"><img src="//www.limogesjewelry.com/images/ban_service.gif" width="12" height="14" border="0" align="absmiddle">Customer 
         Service</a><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="22" height="8"><a href="http://www.limogesjewelry.com/jewelryinfo.asp" class="ban">Jewelry 
@@ -282,7 +378,7 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
   </tr>
   <tr> 
     <td width="292" align="right" valign="top"> <!-- <form name="search" action="" method="GET"> 
-		 <input type="hidden" name="new" value="y"><input name="key" type="text" size="10" maxlength="30" class="input"> -->
+		 <input type="hidden" name="new" value="y"><input name="key" type="text" size="10" maxlength="30" class="input" > -->
 		<!-- Search Box code for linking to Atomz search engine for Limoges  -->
 		 <form name="search" action="http://search.limogesjewelry.com/" method="GET">
         <table width="95%" height="23" border="0" align="right" cellpadding="0" cellspacing="0">
@@ -290,10 +386,13 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
             <td width="1">&nbsp;</td>
             <td width="3" class="ban">&nbsp;</td>
             <td width="172" class="ban"> <div align="right">Search&nbsp;&nbsp;</div></td>
-            <td width="60"><input name="q" type="text" size="10">  
+            <td width="60"><input name="q" type="text" class="input_search" value=""> 
             </td>
            <td width="42" align="left"><input name="image" type="image" src="//www.limogesjewelry.com/images/ban_go.gif" align="absmiddle" width="35" height="22" border="0" value="Search">	
        	</td>
+          </tr>
+          <tr>
+            <td colspan="6" align="center"><img src="//www.limogesjewelry.com/images/canada-graphic.gif" alt="Limoges Jewelry is now shipping to Canada" width="134" height="23" vspace="0" border="0"></td>
           </tr>
      </tbody></table>
       </form></td>
@@ -303,16 +402,26 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
 			<input TYPE="hidden" NAME="activepage" VALUE="sdredirect">
 			<input TYPE="hidden" NAME="m" VALUE="uwwckrv7">
 			<input TYPE="hidden" NAME="p" VALUE="oi"> -->
-      <form action="http://ebm.cheetahmail.com/r/regf2" method="post">
+      
+      <form name="newsletter" action="http://ebm.cheetahmail.com/r/regf2" method="post">
         <input type="hidden" name="f" value="email|10|45|||">
         <input type="hidden" name="aid" value="265103375">
         <input type="hidden" name="sub" value="265336689">
         <input type="hidden" name="n" value="1">
+        <input type="hidden" name="ems" value="2">
+
+        
         <table border="0" cellpadding="0" cellspacing="0" width="260">
           <tbody><tr> 
             <td width="1">&nbsp;</td>
            <td width="147" align="right" class="ban_newsletter">Savings Newsletter&nbsp;&nbsp;</td>
-            <td width="64" align="right"><input name="email" type="text" class="input_newsletter" value="enter email" size="10" maxlength="50"></td>
+            <td width="64" align="right"><input name="email" type="text" class="input_newsletter" onfocus="if (this.value == 'enter email') { this.value = ''; } return true;" onblur="if (this.value == '') { this.value = 'enter email'; } return true;" value="" size="10" maxlength="50">
+            <script language="javascript" type="text/javascript">
+            <!--
+               document.newsletter.email.value = 'enter email';
+            //-->
+            </script>
+            </td>
             <td width="38"> <div align="right"><input border="0" type="image" src="//www.limogesjewelry.com/images/ban_go.gif" width="35" height="22" align="absmiddle"></div></td>
           </tr>
           <tr>
@@ -327,10 +436,11 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
     <td height="2" colspan="4"><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="8" height="2"></td>
   </tr>
 </tbody></table>
+
 <div align="center">
 <table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr valign="middle">
-    <td width="696" height="25" align="center" bgcolor="#006699"> <!-- #537864 -->
+    <td width="696" height="25" align="center" bgcolor="#2E5C3F"> <!-- #537864 -->
       <a href="http://www.limogesjewelry.com/personalized-jewelry/limoges-jewelry.asp?catid=274" class="bancat1">Personalized</a><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><font color="white"><b>|</b></font><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><a href="http://www.limogesjewelry.com/personalized-jewelry/limoges-jewelry.asp?catid=15" class="bancat1">Rings</a><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><font color="white"><b>|</b></font><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><a href="http://www.limogesjewelry.com/personalized-jewelry/limoges-jewelry.asp?catid=73" class="bancat1">Pendants 
         &amp; Chains</a><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><font color="white"><b>|</b></font><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><a href="http://www.limogesjewelry.com/personalized-jewelry/limoges-jewelry.asp?catid=18" class="bancat1">Bracelets</a><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><font color="white"><b>|</b></font><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><a href="http://www.limogesjewelry.com/personalized-jewelry/limoges-jewelry.asp?catid=105" class="bancat1">Watches 
         &amp; Accessories</a><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><font color="white"><b>|</b></font><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><a href="http://www.limogesjewelry.com/personalized-jewelry/limoges-jewelry.asp?catid=94" class="bancat1">Earrings</a><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><font color="white"><b>|</b></font><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><a href="http://www.limogesjewelry.com/personalized-jewelry/limoges-jewelry.asp?catid=103" class="bancat1">New Arrivals</a><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><font color="white"><b>|</b></font><img src="//www.limogesjewelry.com/images/clearpixel.gif" width="4" height="8"><a href="http://www.limogesjewelry.com/personalized-jewelry/limoges-jewelry.asp?catid=101" class="bancat1">Top Sellers</a>
@@ -431,8 +541,7 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
         Us</a><span class="footer">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="http://www.limogesjewelry.com/catalogrequest.asp" class="footer">Catalog
         Request</a><span class="footer">&nbsp;&nbsp;|&nbsp;&nbsp; </span><a href="http://www.limogesjewelry.com/affiliate.asp" class="footer">Affiliate</a><span class="footer">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="http://www.limogesjewelry.com/sitemap.asp" class="footer">Site
         Map</a><span class="footer">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="http://www.limogesjewelry.com/contactus.asp" class="footer">Contact
-        Us</a><span class="footer">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="http://www.limogesjewelry.com/asfeaturedin.asp" class="footer">Magazine
-        Features </a></div>
+        Us</a><span class="footer">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="http://www.limogesjewelry.com/personalized-jewelry/limoges-jewelry.asp?catid=306" class="footer"><font color="red"><strong>Advertised Specials!</strong></font></a></div>
     </td>
   </tr>
   <tr>
