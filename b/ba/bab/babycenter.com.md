@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2005-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050612022053id_/http%3A//www.babycenter.com/help/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215074118id_/http%3A//www.babycenter.com/help/aboutus/privacy) for the most accurate reproduction.*
 
 # BabyCenter LLC Privacy Policy
 
@@ -31,7 +31,11 @@ If you provide personally identifiable information to this site, we may combine 
 
 > (i) to carefully selected partners who have offers that may be of interest to you, provided you have requested such offers, in which case we will require such partners to agree to treat it in accordance with this Privacy Policy and use it for the same purposes. 
 > 
-> (ii) to contractors we use to support our business (such as fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes. One such contractor is DoubleClick, Inc., who manages many of the advertisements you see on the Web site. For more information on DoubleClick, including your choices on how DoubleClick uses certain non-personal information, click [here](http://www.babycenter.com/misc/privacy-doubleclick.jhtml); 
+> (ii) to contractors we use to support our business (such as fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes. 
+> 
+> One such contractor is DoubleClick, Inc., who manages many of the advertisements you see on the Web site. For more information on DoubleClick, including your choices on how DoubleClick uses certain non-personal information, click [here](http://www.doubleclick.net/us/about_doubleclick/privacy/);
+> 
+> BabyCenter also contracts with an analytics company, to measure: how visitors use our site, which offers visitors find of interest, and other visitor activities. To do this, BabyCenter uses cookies and "Internet tags" (beacons) provided by a analytics company. The types of information we collect include: pages you have visited, purchases you have made, and paths taken through the site. By supplementing our records with such information, we learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. While the analytics company logs information coming from our site, BabyCenter retains full ownership of data stored by the analytics company, and controls how that data may and may not be used. If you do not want to have your information collected by the analytics company as described herein, you can "opt-out" of the analytical tool by clicking [ here](http://www.omniture.com/privacy/optout.html). 
 > 
 > (iii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; or 
 > 
@@ -72,7 +76,7 @@ If you have any questions, comments, requests, or concerns related to this Priva
 >  **
 
 **Changes to This Privacy Policy**  
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on **April 20, 2004**. 
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on **June 16, 2005**. 
 
 [](https://web.archive.org/help)
 
