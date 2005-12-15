@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403183257id_/http%3A//www.nationalarchives.ie/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215031857id_/http%3A//www.nationalarchives.ie/privacy.html) for the most accurate reproduction.*
 
 # Freedom of Information Act
 
@@ -34,4 +34,4 @@ Our website contains links to other sites and the National Archives is not respo
 
 The National Archives reserves the right in its sole discretion to amend this privacy statement at any time, and you should regularly check this privacy statement for any amendments.
 
-[National Archives homepage](https://web.archive.org/web/20050403183257id_/http%3A//www.nationalarchives.ie/index.html)
+[National Archives homepage](https://web.archive.org/web/20051215031857id_/http%3A//www.nationalarchives.ie/index.html)
