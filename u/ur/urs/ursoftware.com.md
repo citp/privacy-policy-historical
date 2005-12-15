@@ -1,16 +1,7 @@
-> *The following text is extracted and transformed from the ursoftware.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403221316id_/http%3A//www.ursoftware.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ursoftware.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215161447id_/http%3A//www.ursoftware.com/privacy.htm) for the most accurate reproduction.*
 
 # Your Uninstaller! - The 1st Drag&Uninstall uninstaller ,the replacement of Add/Remove program.
 
-  
-  
-
-
-URSoft,Inc Privacy Policy
-
-|    
----  
-  
 We are committed to protecting your privacy and the privacy of information you provide to us.  **URSoft,Inc will never sell, rent, lease or even disclose customer information to third parties.**   Other terms of URSoft,Inc' privacy policy are as follows:
 
 **Information Collection  
