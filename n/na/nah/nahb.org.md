@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nahb.org privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307231755id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nahb.org privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215041730id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.*
 
 # National Association of Home Builders
 
