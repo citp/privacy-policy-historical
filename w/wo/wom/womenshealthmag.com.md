@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenshealthmag.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624205536id_/http%3A//www.rodale.com/1%2C6597%2C8-114%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenshealthmag.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215043758id_/http%3A//www.rodale.com/1%2C6597%2C8-114%2C00.html) for the most accurate reproduction.*
 
 # Rodale
 
