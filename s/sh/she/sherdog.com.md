@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sherdog.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305033752id_/http%3A//sherdog.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherdog.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215085115id_/http%3A//www.sherdog.com/home/privacy.asp) for the most accurate reproduction.*
 
-# Contact Sherdog.com
+# Sherdog.com Privacy Policy
 
 Sherdog.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
 
