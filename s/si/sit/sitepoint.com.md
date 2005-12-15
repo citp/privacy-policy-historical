@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418051642id_/http%3A//www.sitepoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215125630id_/http%3A//www.sitepoint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Unfortunately, as SitePoint takes advantage of [ web standards](http://www.webstandards.org/) that your browser is unable to support, this site's layout will be simplified in your browser.
+### Privacy Policy
 
 [Home](https://web.archive.org/) » Privacy Policy 
 
@@ -32,16 +32,6 @@ Whenever you request a page through your browser, navigation and clickstream dat
 
 are stored in a log file and/or database. Any search terms that you enter into the SitePoint Site Search are also logged. This information cannot be used to identify specific individuals, and is only used for:
 
-  * your IP address,
-  * browser and version,
-  * operating system,
-  * date and time and
-  * the site from which you came,
-
-
-
-are stored in a log file and/or database. Any search terms that you enter into the SitePoint Site Search are also logged. This information cannot be used to identify specific individuals, and is only used for:
-
   * research and development, 
   * anonymous user analysis, and 
   * to provide accurate statistics to advertisers in the form of aggregated data. 
@@ -52,7 +42,7 @@ This information is kept on a secure dedicated server hosted by Data393 as well 
 
 ### Email Newsletters, Sample Chapter Downloads and Surveys
 
-The email addresses collected from subscriptions to the SitePoint newsletters are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out SitePoint communications (for example, the SitePoint newsletters). You will not receive any mailings you did not request. The email addresses collected at SitePoint are stored on a server hosted by SparkList. You can remove yourself from our list at any time by visiting http://sitepoint.com/newsletters/manage.php <http://sitepoint.com/newsletters/manage.php>.
+The email addresses collected from subscriptions to the SitePoint newsletters are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out SitePoint communications (for example, the SitePoint newsletters). You will not receive any mailings you did not request. The email addresses collected at SitePoint are stored on a server hosted by SparkList. You can remove yourself from our list at any time by visiting <http://sitepoint.com/newsletter/manage.php>.
 
 When you request a sample chapter from one of SitePoint’s book, either by clicking on a “send me the sample chapters’ link within one of our email newsletters or by entering your email address on our site, you give us permission to send you additional information via email about the book or product you are requesting the sample for. 
 
