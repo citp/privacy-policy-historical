@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418062315id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215073017id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
 
 # Sybase Inc - Sybase Inc. Privacy Policy
 
 | 
 
-**Effective June 9, 2004**
+**Effective August 1, 2005**
 
 **Sybase Privacy Policy**
 
@@ -12,11 +12,13 @@ This statement discloses the privacy practices that apply to the online collecti
 
 Sybase is a member of the TRUSTe program and is strongly committed to protecting your privacy online. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent.
 
+[ ](https://www.truste.org/ivalidate.php?url=www.sybase.com&sealid=102)
+
 If you have questions or concerns regarding this statement, you should first contact the Sybase Web Marketing team by email at [privacy@sybase.com](mailto:privacy@sybase.com) . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with Sybase to resolve any concerns you may have with the Sybase.com/MySybase Web site (English version).
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
-Please read the following privacy policy to understand how your personal information will be treated as you take advantage of our offerings. Sybase may update this privacy policy periodically. A notice will be displayed in the "Of Interest" section on the Sybase.com home page whenever any material changes occur. 
+Please read the following privacy policy to understand how your personal information will be treated as you take advantage of our offerings. Sybase may update this privacy policy periodically. A notice will be displayed on the About Sybase page at <http://www.sybase.com/about_sybase> whenever any material changes occur.
 
 The purpose of this Sybase privacy policy is to inform you, as a welcome visitor, what kinds of information we may gather from you when you visit [www.sybase.com](http://www.sybase.com/). We also want to tell you how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. 
 
@@ -25,8 +27,6 @@ Finally, please note that this policy applies only to the online collection of d
 We encourage you to read the privacy statements of these sites as their privacy statement may differ from ours. Please keep in mind that some of the products or services mentioned specifically in this policy might not be available on all of our international Sybase sites at this time. 
 
 By creating an account with MySybase, or by registering for events, promotions, training classes, product evaluations etc. or by using the Sybase.com/MySybase Web site, you thereby grant your consent to the processing of your personal data in accordance with this policy.
-
-[ ](https://www.truste.org/ivalidate.php?url=www.sybase.com)
 
 **This policy will let you know:**
 
@@ -60,22 +60,24 @@ If you choose not to provide the information we request, you can still visit mos
 
 Any newsgroup that begins with Sybase.public or Powersoft.public is a newsgroup that is actively monitored by Sybase. Disclosing personally identifiable information online through chat rooms, forums, and message boards makes the information submitted public information. Such disclosure may increase your chance of receiving "spam" or unsolicited mail. Be extra careful and use your discretion when disclosing information online. 
 
+If you choose to use the 'Email this' feature included in certain sybase.com pages to refer articles to other users, we will ask you for the recipient's name and email address. The system will then send an email to the recipient automatically with a link back to the article. Sybase does not store this information, which is needed for the sole purpose of sending a one-time email to the person you designate. 
+
 **** 2\. What cookies are and how they are used
 
 What are cookies? Cookies are used for setting a key on a user's browser that links him/her to the current state of their Web session. Their purpose is to let us know when you visit our site, where you visit in the site, and save preferences you set. Your browser can be set to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. If you choose not to accept cookies, you may not have access to certain functionality on our site. Site functionality requiring a login will utilize cookies. As a result, if you would like to visit the logged in portion of the sybase.com site, you will need to accept cookies. 
 
-We want to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you. We know that a lot of people have concerns about cookies, but in talking with many of our users we feel that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers and future customers, so we respect these concerns. 
+We want to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you. We know that a lot of people have concerns about cookies, but in talking with many of our users we feel that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers and future customers, so we respect these concerns.
 
-Sybase also tracks IP addresses of Web sites from which you may visit www.sybase.com to analyze the data for trends and statistics reporting. In a few cases, specifically when you respond to e-mail marketing campaigns generated by third party vendors, your IP address may be associated with some of your user information when you browse www.sybase.com even if you are not logged into MySybase, the personalized area of the Web site.
+Sybase also tracks IP addresses of Web sites from which you may visit www.sybase.com to analyze the data for trends and statistics reporting. In a few cases, specifically when you respond to e-mail marketing campaigns generated by third party vendors, your IP address may be associated via the usage of web beacons with some of your user information to monitor clickstream paths when you browse www.sybase.com, even if you are not logged into MySybase, the personalized area of the Web site.
 
 **** 3\. With whom your information may be shared
 
-** Service Providers**  
+** Service Providers**   
 We sometimes hire companies (Service providers) to provide services on our behalf. Service providers may provide mailing and event registration information or technical support information to you. We will only provide such service providers the information they need to deliver the services and they are prohibited from using that information for any other purpose. 
 
 On occasion, Sybase uses Web site framing techniques, linking you to another service provider's Web site that retains the look and feel and navigation of www.sybase.com. This practice is used simply to aid you to easily navigate back to www.sybase.com. When framing occurs, the URL in your browser's toolbar will no longer display the www.sybase.com address, but the Web site address of the service provider in question.
 
-** Companies Offering Promotions **  
+** Companies Offering Promotions **   
 From time to time, a Sybase business partner may wish to offer promotions. Sybase and its partners may engage in events or provide bundled products. In those instances, we will share your information with that partner. Such promotions such as joint seminars and sales promotions, jointly developed products, and joint announcements will always reference the partners involved. Both Sybase and its partner(s) will have access to information submitted by users who have expressed interest in marketing promotions. While we carefully choose our partners, we do advise you to review the privacy policies of these partners as well. If you receive a communication from a Sybase partner and wish to opt out of any subsequent partner communications, please contact that partner directly. 
 
 ** Intermediaries**   
@@ -107,9 +109,9 @@ From the MySybase portion of the site, we provide Web site visitors with the opp
 
 You can access <http://response.sybase.com/forms/emailcenter-sybase> to add your name and email to the Sybase email suppression list, or <http://response.sybase.com/forms/emailcenter-ias> to add your name and email to the iAnywhere suppression list. Please note: using these addresses will remove your contact information from general Sybase or iAnywhere electronic communications, respectively; it will not delete your MySybase account. 
 
-If you have subscribed to one of our electronic newsletters ( i.news), you can choose to unsubscribe yourself at any time by following the specific instructions found at the footer of the electronic newsletter.
+If you have subscribed to one of our electronic newsletters, you can choose to unsubscribe yourself at any time by following the specific instructions found at the footer of the electronic newsletter.
 
-You can also opt-out of e-mail based marketing campaigns via the unsubscribe option contained in the e-mail invitation.
+You can also opt-out of e-mail based marketing campaigns via the unsubscribe option contained in the e-mail invitation. As an alternative, you can also use the opt out link included in this privacy policy statement to add your name to the e-mail suppression list.
 
 **However, there are a few circumstances where you will receive email information from us relating to a product or service you requested. You will not be able to choose to opt out of these mailings since they are an essential part of the service you have chosen. These include:**
 
@@ -143,15 +145,15 @@ Questions regarding this policy should be directed to [privacy@sybase.com](mailt
 
 Or you can mail or fax to:   
 C/O Web Marketing   
-One Sybase Drive  
-Dublin, CA 94568 - United States of America  
-Fax No.: 001 925 236 6156  
+One Sybase Drive   
+Dublin, CA 94568 - United States of America   
+Fax No.: 001 925 236 4198   
 
 
 9\. How can you access, delete or deactivate MySybase account information and personal profile?
 
-At any time, Sybase provides you with an opportunity to correct or change the information collected during registration for MySybase. This can be done in the edit profile areas of MySybase. Users may change this information at any time and as often as necessary.
+At any time, Sybase provides you with an opportunity to correct or change the information collected during registration for MySybase. This can be done in the 'My Account' area of MySybase. Users may change this information at any time and as often as necessary.
 
-Also, you can contact [portal_helpdesk@sybase.com](mailto:portal_helpdesk@sybase.com) to access or edit your information if you have trouble accessing your account, or request to have your MySybase account deactivated. If you do not have a MySybase account, you can still contact [portal_helpdesk@sybase.com](mailto:portal_helpdesk@sybase.com) with questions on your online registrations. It may take up to 10 business days to complete deactivation of your MySybase account.
+Also, you can contact [portal_helpdesk@sybase.com](mailto:portal_helpdesk@sybase.com) to access or edit your information if you have trouble accessing your account, or request to have your MySybase account deactivated. If you do not have a MySybase account, you can still contact [portal_helpdesk@sybase.com](mailto:portal_helpdesk@sybase.com) with questions on your online registrations. It may take up to 10 business days to respond to your request for access or obtain complete deactivation of your MySybase account.
 
 | 
