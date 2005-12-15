@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403151258id_/http%3A//www.shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215135333id_/http%3A//shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
 
-# ShutterStock : Royalty Free Stock Photos by Subscription
+# ShutterStock : Royalty-Free Subscription Stock Photos
 
 |  | 
 
