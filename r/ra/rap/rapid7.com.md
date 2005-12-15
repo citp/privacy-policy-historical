@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305035134id_/http%3A//rapid7.com/rapid7-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215070910id_/http%3A//www.rapid7.com/rapid7-privacy.htm) for the most accurate reproduction.*
 
 # Rapid7 Privacy Policy
 
-We at Rapid7 are committed to respecting your privacy and recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, such as name, address, and telephone number). That is why Rapid7 has established this privacy policy, so that you can understand the care with which we intend to treat your information. Customers are very important to us and we want to know who you are, but not abuse the use of the information you give us. Most of the Rapid7 Web site can be visited without telling us who you are or revealing any personal information about yourself. To protect your privacy, we have adopted the following principles:
+Rapid7 is committed to respecting your privacy and recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, such as name, address, and telephone number). That is why Rapid7 has established this privacy policy, so that you can understand the care with which we intend to treat your information. Customers are very important to us and we want to know who you are, but not abuse the use of the information you give us. Most of the Rapid7 Web site can be visited without telling us who you are or revealing any personal information about yourself. To protect your privacy, we have adopted the following principles:
 
 ## Choice
 
