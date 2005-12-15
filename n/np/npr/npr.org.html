@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2005-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050525213947id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2005-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215074739id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -41,511 +41,258 @@
 <noindex>
 
 <div id="header">
-
 	<script type="text/javascript">
-
 	if (window != top)
-
 		{
-
 			top.location.href = location.href;
-
 		}
-
-
 
 function checkPrograms(queryText)
-
 	{
-
 		return true;
-
-
-
 		// Hardcoded return true added by Joanne Garlow on 10/21/2004 per bugzilla #309
-
-
-
 		returnVal=false; //unless changed later in the function
-
 		queryText=queryText.toLowerCase();
-
-
-
 		if (queryText=="morning edition")
-
 		{
-
 				window.location="http://www.npr.org/programs/morning/";
-
 		}
-
 		else if (queryText=="day to day" || queryText=="d2d")
-
-				{
-
-						window.location="http://www.npr.org/programs/day/";
-
-				}
-
+		{
+				window.location="http://www.npr.org/programs/day/";
+		}
 		else if (queryText=="fresh air" || queryText=="terry gross")
-
 		{
-
 				window.location="http://freshair.npr.org";
-
 		}
-
 		else if (queryText=="news notes")
-
 		{
-
 				window.location="http://www.npr.org/programs/newsnotes/";
-
 		}
-
 		else if (queryText=="all things considered")
-
 		{
-
 				window.location="http://www.npr.org/programs/atc/";
-
 		}
-
 		else if (queryText=="talk of the nation" || queryText=="totn")
-
 		{
-
 				window.location="http://www.npr.org/programs/totn/";
-
 		}
-
 		else if (queryText=="car talk")
-
 		{
-
 				newWindow=window.open("http://www.cartalk.com/","CarTalk","scrollbars=yes,width=640,height=480");
 
 				if (((navigator.appName=="Netscape") && ((navigator.appVersion).charAt(0) > 2)))
-
 						{
-
 								newWindow.focus()
-
 						}
-
 		}
-
 		else if (queryText=="performance today")
-
 		{
-
 				window.location="http://www.npr.org/programs/pt/";
-
 		}
-
 		else if (queryText=="weekend edition saturday")
-
 		{
-
 				window.location="http://www.npr.org/programs/wesat/";
-
 		}
-
 		else if (queryText=="weekend edition sunday")
-
 		{
-
 				window.location="http://www.npr.org/programs/wesun/";
-
 		}
-
 		else if (queryText=="science friday")
-
 		{
-
 				window.location="http://www.npr.org/programs/scifri/";
-
 		}
-
 		else if (queryText=="weekend all things considered")
-
 		{
-
 				window.location="http://www.npr.org/programs/atc/";
-
 		}
-
 		else if (queryText=="national press club")
-
 		{
-
 				window.location="http://www.npr.org/programs/npc/";
-
 		}
-
 		else if (queryText=="national story project")
-
 		{
-
 			window.location="http://www.npr.org/programs/watc/storyproject/";
-
 		}
-
 		else if (queryText=="news")
-
 		{
 
 			window.location="http://news.npr.org/";
-
 		}
-
 		else if (queryText == "wait wait" || queryText == "wait wait don't tell me")
-
 		{
-
 				window.location="http://www.npr.org/programs/waitwait/";
-
 		}
-
 		else if (queryText == "motley fool")
-
 		{
-
 				window.location="http://www.npr.org/programs/fool/";
-
 		}
-
 		else if (queryText == "radio expeditions")
-
 		{
-
 				window.location="http://www.npr.org/programs/re/";
-
 		}
-
 		else if (queryText == "marketplace" || queryText == "market place")
-
 		{
-
 			window.location="http://www.npr.org/programs/day/marketplace/";
-
 		}
-
 		else if (queryText=="business")
-
 		{
-
 			window.location="http://business.npr.org/";
-
 		}
-
 		else if (queryText=="health" || queryText=="science")
-
 		{
-
 			window.location="http://science.npr.org/";
-
 		}
-
 		else if (queryText=="arts")
-
 		{
-
 			window.location="http://arts.npr.org/";
-
 		}
-
 		else if (queryText=="iraq")
-
 		{
-
 			window.location="http://iraq.npr.org/";
-
 		}
-
 		else if (queryText=="politics")
-
 		{
-
 			window.location="http://politics.npr.org/";
-
 		}
-
 		else if (queryText=="people")
-
 		{
-
 			window.location="http://people.npr.org/";
-
 		}
-
 		else if (queryText=="books")
-
 		{
-
 			window.location="http://books.npr.org/";
-
 		}
-
 		else if (queryText=="music")
-
 		{
-
 			window.location="http://music.npr.org/";
-
 		}
-
 		else if (queryText=="diversions")
-
 		{
-
 			window.location="http://diversions.npr.org/";
-
 		}
-
 		else if (queryText=="opinion")
-
 		{
-
 			window.location="http://opinion.npr.org/";
-
 		}
-
 		else {
-
 				returnVal=true;
-
 		}
-
 		return(returnVal);
 
-
-
 	}
-
 		function searchFields(queryText)
-
 			{
-
 				if (queryText.value=="Enter Keywords")
-
 					{
-
 						queryText.value="";
-
 					}
-
 				else if (queryText.value=="")
-
 					{
-
 						queryText.value="Enter Keywords";
-
 					}
-
 			}
-
-
 
 		function changeLocation(selVal) {
-
 			if(selVal != "null"){
-
 				if(selVal.indexOf('?') != -1){
-
 					selVal = selVal.slice(0,-1);
-
 					var newWindow = window.open(selVal, '', 'scrollbars,resizable,toolbar,status,menubar,location');
-
 				} else {
-
 					window.location.href = selVal;
-
 				}
-
 			}
-
 		}
-
-
 
 	</script>
 
 
-
 	<div id="skipnav"><a href="#content">Skip Navigation</a></div>
-
-
 
 	<a href="/"><img src="/images/logo_npr.gif" alt="NPR Home Page" height="47" width="140" id="logo"></a>
 
-
-
 	<div id="searchcontainer">
-
 		<div id="selectprograms">
-
-			<form name="frmPrograms" id="frmPrograms" method="post" action="http://discover.npr.org/redirect/redirect.jhtml">
-
+			<form name="frmPrograms" id="frmPrograms">
 			<!--
-
 			HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
-
 				To open the page in a new window add a ? to the end of the url.  Otherwise, the page will open in the existing window.
-
 			-->
-
 				<select name="selPrograms" id="selPrograms" onchange="changeLocation(document.frmPrograms.selPrograms.options[document.frmPrograms.selPrograms.selectedIndex].value)">
-
 					<option value="null" selected="selected">Programs and Schedules</option>
-
 					<option value="null"></option>
-
 					<option value="/programs/">All Programs A-Z</option>
-
 					<option value="/about/schedules/">All Schedules</option>
-
 					<option value="null"></option>
-
 					<option value="null">MOST VISITED PROGRAMS</option>
-
 					<option value="/programs/asc/">All Songs Considered</option>
-
 					<option value="/programs/atc/">All Things Considered</option>
-
 					<option value="http://www.cartalk.com?">Car Talk</option>
-
 					<option value="/programs/day/">Day to Day</option>
-
 					<option value="http://www.wamu.org/programs/dr/">The Diane Rehm Show</option>
-
 					<option value="http://freshair.npr.org/">Fresh Air with Terry Gross</option>
-
 					<option value="/programs/morning/">Morning Edition</option>
-
 					<option value="/programs/fool/">The Motley Fool Radio Show</option>
-
 					<option value="/programs/newsnotes/">News &amp; Notes with Ed Gordon</option>
-
 					<option value="http://www.wnyc.org/onthemedia/">On the Media</option>
-
 					<option value="/programs/pt/">Performance Today</option>
-
 					<option value="/programs/totn/">Talk of the Nation</option>
-
 					<option value="/programs/waitwait/">Wait Wait... Don't Tell Me!</option>
-
 					<option value="/programs/wesat/">Weekend Edition Saturday</option>
-
 					<option value="/programs/wesun/">Weekend Edition Sunday</option>
-
+					<option value="/programs/worldcafe/">World Cafe</option>
 					<option value="null"></option>
-
 					<option value="/about/schedules/">SCHEDULES</option>
-
 					<option value="/stations/index.php">NPR Stations' Schedules</option>
-
 					<option value="/audiohelp/progstream.html">NPR.org Program Stream</option>
-
 					<option value="/worldwide/">NPR Worldwide</option>
-
 					<option value="/about/sirius.html">NPR on Sirius Satellite Radio</option>
-
 					<option value="null"></option>
-
 				</select>
-
 				<input type="button" value="select" class="button" id="btnSelect" onclick="if (document.frmPrograms.selPrograms.options[document.frmPrograms.selPrograms.selectedIndex].value=='null') document.frmPrograms.selPrograms.options.selectedIndex=0;">
-
 			</form>
-
 		</div>
-
 
 
 		<div id="searchtext">
-
-			<form method="get" action="http://search.npr.org/search97cgi/s97_cgi" name="searchForm" onsubmit="return checkPrograms(document.searchForm.cleanQuery.value);">
-
+			<form method="get" action="/search.php" name="searchForm">
 					<p>
-
-						<input type="text" name="cleanQuery" id="cleanQuery" value="">
-
-						<input type="button" value="search" class="button" id="btnSearch" onclick="if(checkPrograms(document.searchForm.cleanQuery.value)){this.form.submit();}">
-
-						<input type="hidden" name="ResultTemplate" value="allow_re_sort.hts">
-
-						<input type="hidden" name="SortSpec" value="Date Desc Score Desc">
-
-						<input type="hidden" name="ViewTemplate" value="docview.hts">
-
-						<input type="hidden" name="collection" value="ALL02">
-
-						<input type="hidden" name="Action" value="FilterSearch">
-
-						<input type="hidden" name="filter" value="topic_filter.NEW.hts">
-
-						<input type="hidden" name="QueryText" value="">
-
+						<input type="text" name="text" id="text" value="">
+						<input type="button" value="search" class="button" onclick="submit();">
 					</p>
-
 			</form>
-
 		</div>
-
 	</div>
 
 
 
 	<ul id="nav">
-
 		<li><a href="/templates/archives/rundown_archive_hub.php">archives</a></li>
-
 		<li><a href="/transcripts/">transcripts</a></li>
-
-		<li><a href="/yourturn/">discussions</a></li>
-
 		<li><a href="/stations/">stations</a></li>
-
 		<li><a href="http://shop.npr.org">npr shop</a></li>
-
-		<li><a href="/about/">about npr</a></li>
-
+		<li><a href="/about/">about npr</a></li>		
+		<li><a href="/contact/">contact us</a></li>
 		<li><a href="/help/"><img class="topnavhelp" src="/chrome/icon_help.gif" width="13" height="11" border="0">help</a></li>
-
 	</ul>
 
 
 
 	<script type="text/javascript">
-
 		url = window.location.href;
-
 		httpFind = url.indexOf("://");
-
 		periodFind = url.indexOf(".", httpFind + 3)
-
 		web_dir = url.substring(httpFind + 3, periodFind);
 
 
-
 		if (web_dir == "search")
-
 			{
-
 				pagetype = "title";
-
 			}
-
 		else
-
 			{
-
 				pagetype = "index.html";
-
 			}
-
 	</script>
 
 </div>
@@ -639,122 +386,59 @@ function checkPrograms(queryText)
 	<ul>
 		<li class="topic1001">
 			<a href="/templates/topics/topic.php?topicId=1001">News</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1003">Nation</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1004">World</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1009">Middle East</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1010">Iraq</a></li>
-			</ul>
 		</li>
 		<li class="topic1012">
 			<a href="/templates/topics/topic.php?topicId=1012">Politics &amp; Society</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1083">Social Security</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1013">Education</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1070">Legal Affairs</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1014">Politics</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1015">Race</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1016">Religion</a></li>
-			</ul>
 		</li>
 		<li class="topic1006">
 			<a href="/templates/topics/topic.php?topicId=1006">Business</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1017">Economy</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1018">Your Money</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1019">Technology</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1020">Media</a></li>
-			</ul>
 		</li>
 		<li class="topic1021">
 			<a href="/templates/topics/topic.php?topicId=1021">People &amp; Places</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1022">Interviews</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1062">Remembrances</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1023">Radio Expeditions</a></li>
-			</ul>
 		</li>
 		<li class="topic1007">
 			<a href="/templates/topics/topic.php?topicId=1007">Health &amp; Science</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1025">Environment</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1026">Space</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1027">Health Care</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1030">Children's Health</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1031">Global Health</a></li>
-			</ul>
 		</li>
+		<li class="topic1065">
+			<a href="/templates/topics/topic.php?topicId=1065">Holidays</a>
+		</li>		
 		<li class="topic1032">
 			<a href="/templates/topics/topic.php?topicId=1032">Books</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1033">Authors</a></li>
-				<!--<li><a href="/topics/complex_topic.php?topicId=1050,32&topicParentId=32">Book Reviews</a></li>-->
-				<li><a href="/templates/topics/topic.php?topicId=1035">Fiction</a></li>
-				<!--<li><a href="/templates/topics/topic.php?topicId=1036">Non-fiction</a></li>-->
-				<!--<li><a href="/templates/topics/topic.php?topicId=1037">Poetry</a></li>-->
-				<!--<li><a href="/templates/topics/topic.php?topicId=1038">Children's Books</a></li>-->
-			</ul>
 		</li>
 		<li class="topic1039">
 			<a href="/templates/topics/topic.php?topicId=1039">Music</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1040">Live at NPR</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1041">Classical Music</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1042">Jazz</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1043">Pop Music</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1044">World Music</a></li>
-			</ul>
 		</li>
 		<li class="topic1008">
 			<a href="/templates/topics/topic.php?topicId=1008">Arts &amp; Culture</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1045">Movies</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1046">Performing Arts</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1047">Visual Arts</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1048">Pop Culture</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1049">Digital Culture</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1050">Reviews</a></li>
-			</ul>
 		</li>
 		<li class="topic1051">
 			<a href="/templates/topics/topic.php?topicId=1051">Diversions</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1052">Fun &amp; Games</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1053">Food</a></li>
-				<!--<li><a href="/templates/topics/topic.php?topicId=1054">Gardening</a></li>-->
-				<li><a href="/templates/topics/topic.php?topicId=1055">Sports</a></li>
-				<!--<li><a href="/templates/topics/topic.php?topicId=1056">Driveway Moments</a></li>-->
-			</ul>
 		</li>
 		<li class="topic1057">
 			<a href="/templates/topics/topic.php?topicId=1057">Opinion</a>
-			<ul><!--
-				<li><a href="/templates/topics/topic.php?topicId=1058">Columns</a></li>-->
-				<li><a href="/templates/topics/topic.php?topicId=1059">Analysis</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1060">Commentary</a></li>
-				<!--<li><a href="/templates/topics/topic.php?topicId=1061">Listeners</a></li>-->
-			</ul>
 		</li>
 	</ul>
 </div>
 <div id="npranywhere">
 	<ul>
-		<li><a href="/rss/index.html" class="iconlink xml">NPR via RSS</a></li>
+		<li><a href="/rss/" class="iconlink xml">NPR via RSS</a></li>
+		<li><a href="/podcasts/" class="iconlink pod">NPR Podcasts</a></li>
 	</ul>
 </div>
 <div id="programs">
 	<ul>
-		<li><a href="/programs/morning/">Morning Edition</a></li>
-		<li><a href="/programs/atc/">All Things Considered</a></li>
-		<li><a href="/programs/day/">Day to Day</a></li>
-		<li><a href="/programs/totn/">Talk of the Nation</a></li>
-		<li><a href="http://freshair.npr.org/">Fresh Air</a></li>
-		<li><a href="/programs/newsnotes/">News &amp; Notes with Ed Gordon</a></li>
-		<li><a href="/programs/wesat/">Weekend Edition Saturday</a></li>
-		<li><a href="/programs/wesun/">Weekend Edition Sunday</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=3">Morning Edition</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=2">All Things Considered</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=17">Day to Day</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=5">Talk of the Nation</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=13">Fresh Air</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=11">News &amp; Notes with Ed Gordon</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=7">Weekend Edition Saturday</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=10">Weekend Edition Sunday</a></li>
 		<li><a href="/programs/waitwait/">Wait Wait...Don't Tell Me!</a></li>
-		<li><a href="/programs/pt/">Performance Today</a></li>
-		<li><a href="/programs/fool/">Motley Fool Radio</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=4">Performance Today</a></li>
+		<li><a href="/templates/story/story.php?storyId=4724307">World Cafe</a></li>
+		<li><a href="/templates/rundowns/rundown.php?prgId=15">Motley Fool Radio</a></li>
 		<li class="more"><a href="/programs/">More Programs</a></li>
 	</ul>
 </div>
@@ -768,14 +452,16 @@ function checkPrograms(queryText)
 </div>
 <div id="housekeeping">
 	<ul>
-		<li><a href="/help/audio/">Audio Help</a></li>
 		<li><a href="/contact/">Contact Us</a></li>
+		<li><a href="/help/audio/">Audio Help</a></li>
+		<li><a href="/yourturn/">Discussions</a></li>
 		<li><a href="/everywhere/">NPR Everywhere</a></li>
 		<li><a href="/about/place/corpsupport/">Sponsor NPR</a></li>
 		<li><a href="/about/press/">Press Room</a></li>
 		<li><a href="/about/pitch/">Submit Ideas</a></li>
 		<li><a href="/corrections/">Corrections</a></li>
-		<li><a href="/features/columns/column.php?columnId=2781901">Ombudsman</a></li>
+		<li><a href="/templates/story/story.php?columnId=2781901">Ombudsman</a></li>
+		<li><a href="/sitemap/">Site Map</a></li>	
 	</ul>
 </div>
 </noindex>
