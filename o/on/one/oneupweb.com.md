@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404032322id_/http%3A//www.oneupweb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215073755id_/http%3A//www.oneupweb.com/privacy.htm) for the most accurate reproduction.*
 
 # Oneupweb :: Privacy Policy
 
