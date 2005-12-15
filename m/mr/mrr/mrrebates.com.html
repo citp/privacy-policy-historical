@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mrrebates.com privacy policy that was archived on 2005-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050404084823id_/http%3A//www.mrrebates.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mrrebates.com privacy policy that was archived on 2005-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215091905id_/http%3A//www.mrrebates.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Mr. Rebates - Privacy Policy</title>
@@ -7,16 +7,24 @@
 
 <body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#000099" vlink="#000099" alink="#800000">
 
+
 <script language="Javascript">
 <!--
 function popInfo(merchant_id)
 {
 options = "toolbar=0,status=0,menubar=0,scrollbars=1,locationbar=1,resizable=1,width=500,height=225"; 
 strURL = "http://www.mrrebates.com/merchant_popup.asp?merchant_id=" + merchant_id
+newwindow = window.open(strURL,"mywindow", options);
+newwindow.location.href = strURL
+}
+
+function popQCInfo(merchant_id)
+{
+options = "toolbar=0,status=0,menubar=0,scrollbars=0,locationbar=1,resizable=1,width=500,height=225"; 
+strURL = "http://www.mrrebates.com/quick_cash_popup.asp?merchant_id=" + merchant_id
 newwindow=window.open(strURL,"mywindow", options);
 }
 
-<!--
 function fb(coupon_id)
 {
 options = "top=0,left=0,toolbar=0,status=0,menubar=0,scrollbars=1,locationbar=1,resizable=1,width=500,height=450"; 
@@ -45,8 +53,23 @@ strURL = "http://www.mrrebates.com/merchants/restrictions.asp?merchant_id=" + me
 newwindow=window.open(strURL,"rwindow", options);
 }
 
+function asf(merchant_id)
+{
+options = "top=0,left=0,toolbar=0,status=0,menubar=0,scrollbars=1,locationbar=1,resizable=1,width=400,height=150"; 
+strURL = "http://www.mrrebates.com/merchants/add_favorite.asp?merchant_id=" + merchant_id
+newwindow=window.open(strURL,"favwindow", options);
+}
+
+function acf(coupon_id)
+{
+options = "top=0,left=0,toolbar=0,status=0,menubar=0,scrollbars=1,locationbar=1,resizable=1,width=400,height=150"; 
+strURL = "http://www.mrrebates.com/coupons/add_favorite.asp?coupon_id=" + coupon_id
+newwindow=window.open(strURL,"favcwindow", options);
+}
+
 //-->
 </script>
+
 
 <script language="JavaScript">
 <!--
@@ -79,18 +102,17 @@ function MM_swapImage() { //v3.0
  <tbody><tr> 
   <td width="99%" bgcolor="#FFFFFF">
    <a href="http://www.mrrebates.com">
-   <img src="/images/banners/mr_rebates.gif" width="294" height="70" alt="Mr. Rebates" border="0"></a>
+   <img src="/images/banners/mr_rebates_xmas.gif" width="294" height="70" alt="Mr. Rebates - Cash-Back Online Shopping, Coupons &amp; More!" border="0"></a>
   </td>
   <td width="1%" align="right" bgcolor="#FFFFFF">
-  <a href="/director_banner.asp?banner_id=192" onclick="popInfo('260')">
-  <img src="http://www.askmrrebates.com/images/banners/rctoys_468x60.gif" border="0"><br>
+  <a href="/director_banner.asp?banner_id=279" onclick="popInfo('1039')">
+  <img src="http://www.mrrebates.com/images/banners/pp_468x60_b.gif" border="0"></a><br>
   
   <center>
-  <font size="1" face="verdana"><b>Get a 5% Rebate at Discovery Store
-  </b></font></center><font size="1" face="verdana"><b>
+  <font size="1" face="verdana">You are currently not logged in to Mr. Rebates - <b><a href="/login.asp">Login</a></b> or <b><a href="/register.asp">Register</a></b>
+  </font></center><font size="1" face="verdana">
   
-  </b></font></a><font size="1" face="verdana"><b>
-  </b></font></td>
+  </font></td>
  </tr>
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -100,23 +122,15 @@ function MM_swapImage() { //v3.0
   </td>
  </tr>
 </tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
- <tbody><tr>
-  <td bgcolor="#C0C0C0" height="20" background="/images/top_back_holiday_shipping.gif" valign="top">
-   <div align="center"><b><font face="Verdana" size="2">
-     <a href="/raf/refer_a_friend_contest.asp">Win $500 Cash in the Mr. Rebates 
-     "Refer-a-Friend" Contest!</a></font></b></div>
-  </td>
- </tr>
-</tbody></table>
+
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
  <tbody><tr>
-  <td width="200" valign="top" bgcolor="#006300">
+  <td width="200" valign="top" bgcolor="#009900">
         <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td height="55" width="10"><img src="/images/box_left.gif"></td>
-          <td height="55" width="100%" background="/images/box_back.gif"><img border="0" src="/images/headers/categories_header.gif" alt="Categories"></td>
-          <td width="10" height="55"><img src="/images/box_right.gif" width="10" height="55"></td>
+          <td height="55" width="10"><img src="/images/box_left_xmas.gif"></td>
+          <td height="55" width="100%" background="/images/box_back_xmas.gif"><img border="0" src="/images/headers/categories_header_xmas.gif" alt="Categories"></td>
+          <td width="10" height="55"><img src="/images/box_right_xmas.gif" width="10" height="55"></td>
         </tr>
         <tr>
           <td bgcolor="#FFFFFF">&nbsp;</td>
@@ -124,8 +138,11 @@ function MM_swapImage() { //v3.0
            <table border="0" cellpadding="0" width="100%">
             <tbody><tr>
               <td width="1%" valign="bottom"><img src="/images/spacer.gif" border="0"><img src="/images/spacer.gif" border="0"><img src="/images/spacer.gif" border="0"></td>
-              <td width="1%" valign="bottom"><form method="get" action="/search.asp"><input size="17" name="k" style="font-size: 8pt"></form></td>
-              <td width="98%" valgin="bottom"><input src="/images/search_stores.gif" type="image"></td>
+              <td width="1%" valign="bottom"><form method="get" action="/search.asp"><input size="17" name="k" style="font-size: 8pt" value=""></form></td>
+              <td width="98%" valgin="bottom"><input src="/images/search_mr.gif" type="image"></td>
+            </tr>
+            <tr>
+              <td width="100%" colspan="3" valign="top"><font face="Verdana" size="1"><input type="radio" name="g_search_option" value="S" checked=""><b>Stores <input type="radio" name="g_search_option" value="P"> Products</b></font></td>
             </tr>
             
           </tbody></table>
@@ -165,6 +182,10 @@ function MM_swapImage() { //v3.0
             <tr>
               <td width="16"><img border="0" src="/images/nav/computer.gif"></td>
               <td width="100%"><b><font size="2" face="Verdana">&nbsp;<a href="/categories/computers.asp">Computers</a></font></b></td>
+            </tr>
+            <tr>
+              <td width="16"><img border="0" src="/images/nav/credit_cards.gif"></td>
+              <td width="100%"><b><font size="2" face="Verdana">&nbsp;<a href="/categories/credit_cards.asp">Credit Cards</a></font></b></td>
             </tr>
             <tr>
               <td width="16"><img border="0" src="/images/nav/dvd.gif"></td>
@@ -245,10 +266,6 @@ function MM_swapImage() { //v3.0
               <td width="100%"><b><font size="2" face="Verdana">&nbsp;<a href="/categories/sunglasses.asp">Sunglasses</a></font></b></td>
             </tr>
             <tr>
-              <td width="16"><img border="0" src="/images/nav/ties.gif"></td>
-              <td width="100%"><b><font size="2" face="Verdana">&nbsp;<a href="/categories/ties.asp">Ties</a></font></b></td>
-            </tr>
-            <tr>
               <td width="16"><img border="0" src="/images/nav/toys.gif"></td>
               <td width="100%"><b><font size="2" face="Verdana">&nbsp;<a href="/categories/toys.asp">Toys</a></font></b></td>
             </tr>
@@ -266,20 +283,20 @@ function MM_swapImage() { //v3.0
           <td bgcolor="#FFFFFF">&nbsp;</td>
         </tr>
         <tr>
-          <td bgcolor="#FFFFFF"><img border="0" src="/images/box_left_mirror.gif" width="10" height="55"></td>
-          <td bgcolor="#FFFFFF" background="/images/box_back_mirror.gif">&nbsp;</td>
-          <td bgcolor="#FFFFFF"><img border="0" src="/images/box_right_mirror.gif" width="10" height="55"></td>
+          <td bgcolor="#FFFFFF"><img border="0" src="/images/box_left_mirror_xmas.gif" width="10" height="55"></td>
+          <td bgcolor="#FFFFFF" background="/images/box_back_mirror_xmas.gif">&nbsp;</td>
+          <td bgcolor="#FFFFFF"><img border="0" src="/images/box_right_mirror_xmas.gif" width="10" height="55"></td>
         </tr>
       </tbody></table>
   </td>
-  <td valign="top" bgcolor="#006300"> 
+  <td valign="top" bgcolor="#009900"> 
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr> 
         <td height="55" width="10">
-        <img src="http://www.MrRebates.com/images/box_left.gif" width="10" height="55"></td>
-        <td height="55" width="100%" background="http://www.MrRebates.com/images/box_back.gif">&nbsp;</td>
+        <img src="http://www.MrRebates.com/images/box_left_xmas.gif" width="10" height="55"></td>
+        <td height="55" width="100%" background="http://www.MrRebates.com/images/box_back_xmas.gif">&nbsp;</td>
         <td width="10" height="55">
-        <img src="http://www.MrRebates.com/images/box_right.gif" width="10" height="55"></td>
+        <img src="http://www.MrRebates.com/images/box_right_xmas.gif" width="10" height="55"></td>
       </tr>
       <tr> 
         <td bgcolor="#FFFFFF">&nbsp;</td>
@@ -345,11 +362,11 @@ agree that Mr. Rebates may send you periodical emails promoting coupons and
         <td bgcolor="#FFFFFF">&nbsp;</td>
       </tr>
       <tr> 
-        <td bgcolor="#FFFFFF"><img border="0" src="/images/box_left_mirror.gif"></td>
-        <td bgcolor="#FFFFFF" background="/images/box_back_mirror.gif"> 
+        <td bgcolor="#FFFFFF"><img border="0" src="/images/box_left_mirror_xmas.gif"></td>
+        <td bgcolor="#FFFFFF" background="/images/box_back_mirror_xmas.gif"> 
           &nbsp;
         </td>
-        <td bgcolor="#FFFFFF"><img border="0" src="/images/box_right_mirror.gif"></td>
+        <td bgcolor="#FFFFFF"><img border="0" src="/images/box_right_mirror_xmas.gif"></td>
       </tr>
      </tbody></table>
     </td>
@@ -359,7 +376,7 @@ agree that Mr. Rebates may send you periodical emails promoting coupons and
 <table width="100%" border="0" cellspacing="0" cellpadding="3">
 
   <tbody><tr>
-    <td background="/images/bottom_back.gif" height="2"><img src="/images/spacer.gif" width="1" height="1"></td>
+    <td background="/images/bottom_back_xmas.gif" height="2"><img src="/images/spacer.gif" width="1" height="1"></td>
   </tr>
   <tr>
     <td>
@@ -367,10 +384,10 @@ agree that Mr. Rebates may send you periodical emails promoting coupons and
      <font size="2" face="Verdana">
      <a href="/about_us.asp">About Us</a> |  <a href="/site_map_stores.asp"> All Stores</a> | <a href="/privacy_policy.asp">Privacy
      Policy</a> | <a href="/terms_conditions.asp">Terms and Conditions</a>   
-     | <a href="/support/support_request.asp">Contact Us</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+     | <a href="/press_inquiries.asp">Press Inquiries</a> | <a href="/support/support_request.asp">Contact Us</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
      <br>
      Copyright 
-      © 2002-2005 Mr. Rebates - This site is a copyright of Magna Consulting, Inc. </font></p>
+      © 2002-2005 Mr. Rebates - This site is a copyright of Magna Web, Inc. </font></p>
       <p align="center"><font size="1" face="Verdana">Any individual product price displayed on Mr. Rebates 
       is subject to change and the final price of a product is determined at the merchant's website.
     </font></p></td>
