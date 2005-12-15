@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawaiianairlines.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630074948id_/http%3A//www.hawaiianair.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawaiianairlines.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215043445id_/http%3A//www.hawaiianair.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Hawaiian Airlines : Privacy Policy
 
