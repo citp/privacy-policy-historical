@@ -1,73 +1,78 @@
-> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330202805id_/http%3A//rosieo.warnerbros.com/main/cmp/privacy_PII_1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215083234id_/http%3A//www.rosie.com/privacy) for the most accurate reproduction.*
 
-# Warner Bros. Online: Privacy Policy: privacy_pii_1.html
+# r blog » Privacy Policy
 
-**PRIVACY POLICY**
+At rosie.com, we are committed to protecting your online privacy and the security of the information that you might provide to us. Our Privacy Policy explains the information practices we use at rosie.com related to:
 
-Thank you for visiting Warner Bros. Online, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [Click here](https://web.archive.org/main/cmp/privacy_sitelist.html) for a list of the Time Warner businesses whose sites are governed by this Privacy Notice. 
+  1. What information we collect.
+  2. How we may use and share the information you provide at rosie.com.
+  3. How we protect your information.
+  4. When you sign up for our R BLOG List.
+  5. How to unsubscribe from our R BLOG List.
+  6. Information on Children.
+  7. Linking to other sites.
+  8. How to correct information you provided.
+  9. How to contact us about privacy.
+  10. Changes to our Privacy Policy.
 
-**THE INFORMATION WE COLLECT**
 
-At some Time Warner sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. 
 
-At some other Time Warner sites, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. 
+**1\. What information we collect**
 
-At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings. 
+It is not necessary to provide any personal information to view our website. If you choose to sign on to our interest or mailing lists or purchase products, we collect and use your information as explained in Parts 2 and 4 below.
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
+For all website visitors, we may log IP addresses (or the location of your computer network on the Internet) for systems administration and troubleshooting purposes. We also may use IP addresses in the aggregate to track which pages people visit in order to improve the quality of the web site. However, we do not use these data to develop profiles of individual visitors to our web site.
 
-**HOW WE USE THE INFORMATION**
+**2\. How we may use and share the information you provide at rosie.com**
 
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
+We will use the information you provide about yourself only as explained in this Privacy Policy. You may update your information by emailing us at [info@rosie.com](mailto:info@rosie.com). rosie.com and its owner/parent organization may share or transfer information to successor organizations, if any.
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
+We may use other companies and individuals to perform functions on our behalf, like fulfilling orders, shipping packages, sending emails, processing credit card payments, analyzing data and providing customer service. They have access to personal information needed to perform their functions.
 
-We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them. 
+We may release personal information when we believe such release is required by law, will help enforce our Terms of Use, or protect the rights or safety of our users or others.
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. 
+**3\. How we protect your information**
 
-If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your screen name and other information you have provided to us. 
+Our web site has security measures in place to protect against the loss, misuse or alteration of the information you provide which is under our control. Our servers are located in locked, secure environments. We are putting forth commercially reasonable efforts to ensure the security and privacy of the information that you share with us online. Remember that steps you take to help protect the privacy of your personal information (such as logging off the website after viewing or submitting personal information) are equally important. If you have broadband access to the Internet, it is strongly advised that you use a firewall when accessing the Internet.
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
+**4\. When you sign on to our R BLOG List**
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. 
+From time to time, the website may offer you the ability to join our R BLOG List to receive communications and various items of interest, at our sole discretion. To join the list, you must provide your e-mail address and, if you choose to provide it, your postal mail address with your state and zip code as well as the size of t-shirt you would want to receive in the event we send t-shirts out at some point in the future. Feel free to sign up if you are 13 or older. By joining any site list, you agree that we can send you (via email or postal mail, if provided) free stuff (neat ideas, thoughts, free things, information about worthy charities, and other good stuff) whenever deemed appropriate (or not at all), and that the same exact stuff may, or may not, be sent to everyone on the list. We may contact you via email and, possibly (if we have your full address), regular mail.
 
-Agents and contractors of Time Warner who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Warner. 
+We treat your interest R BLOG List contact information with care and value your privacy, and will not rent, sell, lease or barter the contact information you provide with any third party. However, we may send you emails, postal mailings and free stuff on behalf of third parties and charities we think are cool and worthwhile. We may use your zip code and state to send you e-mail messages about upcoming events in your area.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. 
+**5\. How to unsubscribe from our R BLOG List**
 
-Certain Time Warner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, [please click here](https://web.archive.org/main/cmp/pr_6.html). 
+We provide you the opportunity to opt-out of receiving communications from us easily and promptly. You can remove yourself from the R BLOG List (and any future communications) at any time by sending an email with “remove” in the subject line to [unsubscribe@rosie.com](mailto:unsubscribe@rosie.com) or follow the instructions on our website. Please note we will take reasonable steps to unsubscribe you within 72 hours of the request. Additionally, every email sent to the R BLOG list will include a link that allows you to unsubscribe at any time you choose.
 
-Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/main/cmp/pr_8.html) for instructions on how to make your request. 
+**6\. Information on Children**
 
-Finally, Time Warner sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
+The rosie.com website does not require or ask children under 13 for any information that can be used to identify the child. We do not knowingly collect personally identifiable information from children 13 or under. Children covered by COPPA are not permitted to sign up for any interest list or mailing list at rosie.com.
 
-**COLLECTION OF INFORMATION BY THIRD-PARTY SITES AND SPONSORS**
+**7\. Linking to other sites**
 
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
+Our website links to a limited number of other websites. Rosie.com is not responsible for the content or the privacy policy or practices of any other website available through links on the rosie.com web site. Before providing personal information through any linked website, please check that website’s privacy policy and practices, which are completely separate from and unrelated to this Privacy Statement and the privacy practices of this site.
 
-Time Warner sites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Time Warner has no control over these third-parties' use of this information. The Time Warner site will notify you at the time of requesting personally identifiable information if these third-parties will obtain such information. 
+**8\. Correcting Your Information**
 
-Some Time Warner sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, [please click here](https://web.archive.org/main/cmp/pr_11.html). 
+If you need to correct the personal information for the BLOG you have provided to us, please send us an email to [info@rosie.com](mailto:info@rosie.com).
 
-**COOKIES**
+If you need to change your email address, you can unsubscribe from our mailing list and sign up again using your new information.
 
-To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
+If you need to correct the personal information for r-store you have provided to us, please send an email to [rstore@rosie.com](mailto:rstore@rosie.com).
 
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. 
+**9\. Contacting us about privacy questions**
 
-**OUR COMMITMENT TO SECURITY**
+If you have any questions about our Privacy Policy, the information we have collected from you online, or the privacy practices of or interactions with this website, please send an email to [webmaster@rosie.com](mailto:webmaster@rosie.com).
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
+You can also reach us via US Mail at:
 
-**HOW YOU CAN ACCESS OR CORRECT INFORMATION**
+rosie.com  
+c/o Echo Ditto, Inc.  
+Attn: Carey-Leah Havrilko  
+P.O. Box 50002  
+Arlington VA 22205-5002
 
-For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, [please click here](https://web.archive.org/main/cmp/pr_9.html). To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+**10\. Changes to our Privacy Policy**
 
-**SPECIAL NOTE FOR PARENTS**
-
-The site you are visiting is one of the Time Warner general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested. 
-
-**HOW TO CONTACT US**
-
-If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may contact us at: [privacy@wb.com](mailto:privacy@wb.com). 
+We reserve the right, at our discretion, to update or revise this Privacy Policy. Please periodically check this Privacy Policy for updates and revisions, because your continued use of this site following the posting of any updates or revisions to this Privacy Policy constitutes your acceptance of those changes. Updates or revisions of this Policy will not be applied retroactively.
