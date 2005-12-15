@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402032821id_/http%3A//www.domesticsale.com/help-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215134739id_/http%3A//www.domesticsale.com/help-privacy.shtml) for the most accurate reproduction.*
 
 # DomesticSale.com - Privacy Policy
 
-| | | [Home](https://web.archive.org/)  
----|---  
-|  [Auto](https://web.archive.org/autoclassified/ "Used cars for sale, auto dealers, car loan, auto insurance")  
-|  [Real Estate](https://web.archive.org/realestate/ "Real Estate classifieds. Homes for sale.")  
-|  [Classifieds](https://web.archive.org/Classifieds/ "Auto goods, Pets, Collectibles, Personals and more ...")  
-| [Job guide](http://job.domesticsale.com/ "Jobs finder, job listing, career tools")  
-| [Sales digest](https://web.archive.org/sales/ "Sales, clearance, smart shopping")  
-| [Free stuff](https://web.archive.org/signs/ "Flyers, boards ads, sales signs, car sticker")  
-|  [Vacations](http://travel.domesticsale.com/ "Vacation by owners")  
+| [Home](https://web.archive.org/)  
+---  
+[Auto](https://web.archive.org/autoclassified/ "Used cars for sale, auto dealers, car loan, auto insurance")  
+[Real Estate](https://web.archive.org/realestate/ "Real Estate classifieds. Homes for sale.")  
+[Classifieds](https://web.archive.org/Classifieds/ "Auto goods, Pets, Collectibles, Personals and more ...")  
+[Local ads](https://web.archive.org/local.html "Local Classified ads.")  
+[Easy store](http://store.domesticsale.com/ "Online store")  
+[Job guide](http://job.domesticsale.com/ "Jobs finder, job listing, career tools")  
+[Sales digest](https://web.archive.org/sales/ "Sales, clearance, smart shopping")  
+[Free stuff](https://web.archive.org/signs/ "Flyers, boards ads, sales signs, car sticker")  
+[Vacations](http://travel.domesticsale.com/ "Vacation by owners")  
  **International:**  
-|  [Classifieds](http://international.domesticsale.com/ "International classified ads")  
-|  [Real Estate](http://international.domesticsale.com/realestate/ "Internetational Real Estate")  
-|   Maps  
+[Classifieds](http://international.domesticsale.com/ "International classified ads")  
+[Real Estate](http://international.domesticsale.com/realestate/ "Internetational Real Estate")  
+|  **Maps**  
 ---|---  
 | Address:  
 ---  
@@ -22,9 +24,7 @@ City:
 State: |   
 ZIP: |   
   
-Website hosted by [ Hostway.com ](http://www.host-affiliates.com/t.asp?id=6646) \- 100% uptime during last 4 years. 
-
-| | | | 
+| | | 
 
 ## Privacy policy & Disclaimer
 
@@ -58,19 +58,22 @@ While we have made every attempt to make this policy as clear as possible, if yo
 DomesticSale.com does not assume responsibility for the content of classified ads or thirds party advertising presented on the web site. DomesticSale.com does not assume responsibility for the content of the public display areas such as forums or guestbook. DomesticSale.com cannot be involved in person-to-person dealings i.e. you are using this web site at your own risk. 
   
   
-| | |   Testimonials  
+| | **Testimonials**  
 ---|---  
+  " **Dear Domestic Sale** , I just want to thank you for the opportunity to place a free ad. My Doberman puppies **sold within hours** of publication. Excellent site!!!  
+Thanks again, Maryann Ward. Kemptville, Ontario, Canada
+
+ **Thank you** for helping me find a new home for my puppy! I placed the ad on the 13th and **got 180 responses in 2 days!** I was able to interview to find the PERFECT home on the 16th!   
+Rebecca , Gainesville FL 
+
   "I love your site, **the best** FREE classified site I've come accross EVER!!! ..."  
 Regards, Kerry *pinkbike*
 
   "This classified ads site is **very** competitively priced... I'm getting a **massive response** from my ad!"   
 DG. New York.
 
-  "Free ads work but are not pulling responses like we expected. We **finally decided** to use DomesticSale's paid ads because we have real results now."   
-Kristin & Tim. Florida.
-
-  "This is very nice and **useful website**. There are no any hidden fee like "processing fee", "verification fee" or "diamond membership", no registration with hundreds of questions. I was **very impressed** with the results. I like it and recommend it to others."   
-Brian F. Colorado.
+  " **This site is fantastic.** Placed an ad to sell an antique 55 gal. aquarium and was **sold within two days**. Talk about results! Thanks!  
+Perry Pono, Rhode Island 
 
   "This is a very nice site, I **sold my car** in few days!!!"   
 Thank You. Steve.
