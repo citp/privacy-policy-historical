@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babytv.com privacy policy that was archived on 2005-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050602073316id_/http%3A//www.babyuniverse.com/privacy.asp%3Fstore%3Dbaby) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babytv.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215074200id_/http%3A//www.babyuniverse.com/privacy/baby/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Baby Store offering discount Baby Bedding, Kids Bedding, Toddler Bedding, Nursery Décor, Baby Furniture, Baby Cribs, Car Seats, Maternity Products, Infant Furniture and more at Babyuniverse.com!
+# Welcome to Baby Universe
 
 **Privacy Statement for Baby Universe Inc.**  
 We value your security and privacy and have done everything possible to ensure the safety and security of the information you provide to us and the transactions you do with us online.
