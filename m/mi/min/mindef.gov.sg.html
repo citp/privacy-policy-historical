@@ -1,317 +1,618 @@
-<!--The following is the downloaded HTML source of the mindef.gov.sg privacy policy that was archived on 2005-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050404094215id_/http%3A//www.mindef.gov.sg/index2.asp%3Fcat%3Dprivacypol) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindef.gov.sg privacy policy that was archived on 2005-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215013744id_/http%3A//www.mindef.gov.sg/imindef/footer/privacy_statement.html) for the most accurate reproduction.-->
 
-<html><head>
-<title>iMINDEF</title>
-<link rel="SHORTCUT ICON" href="images/iMINDEFlogoW.ico">
-<!---- Meta Keywords and Description ---->
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="singapore army navy military airforce national service mindef ministry defence armed forces pioneer DS21 news releases factsheets speeches">
-<meta name="description" content="Homepage for the Ministry of Defence, Singapore.  contains News and information from the Ministry of Defence, Singapore.">
-<style type="text/css">
+<html><head><link rel="stylesheet" type="text/css" href="/etc/design/imindef_style.Css.l2fWChmVAw1PBMrLzI90zw1WBgf0zxmVyMfZzq--.css">
+<title>Privacy Statement</title>
 
-.topmenulink {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #FFFFFF; font-style: normal; line-height: normal}
-.menuspace {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 20px; font-weight: normal}
-.menuheader {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold}
-a:active {  font-size: 11px; font-weight: bold}
-a:link {  font-size: 11px; font-weight: bold}
-a:visited {  font-size: 11px; font-weight: bold}
-a:hover {  font-size: 11px; font-weight: bold; color: #FF0000}.bluelinks {  font-size: 11px; color: #00B2EB}
+<meta name="keywords" content="Privacy Statement">
 
-</style>
-<script language="JavaScript">
+<!-- //Joey++, 2 Feb 2005 -->
+<!-- //Implement MIW meta-tagging -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Identifier" content="/content/imindef/footer/privacy_statement">
+
+<!-- //++Joey, 2 Feb 2005 -->
+<script language="javascript">
+ 
 <!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_findObj(n, d) { //v4.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && document.getElementById) x=document.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
+ 
+            function loadXMLDoc(url, element_id)
+            {
+ 
+            var xmlhttp;
+ 
+            var sBrowser = "IE";
+ 
+            //alert (url);
+ 
+            //alert (element_id);
+ 
+            var element = document.getElementById(element_id);
+ 
+            element.innerHTML="<br>Loading...";
+ 
+ 
+ 
+            // code for Mozilla, etc.
+ 
+            if (window.XMLHttpRequest)
+ 
+              {
+ 
+                xmlhttp=new XMLHttpRequest()
+                sBrowser = "Firefox";
+ 
+ 
+ 
+                //xmlhttp.onreadystatechange=state_Change
+ 
+                //xmlhttp.open("GET",url,true)
+ 
+                //xmlhttp.send(null)
+ 
+              }
+ 
+            // code for IE
+ 
+            else if (window.ActiveXObject)
+ 
+              {
+ 
+                xmlhttp=new ActiveXObject("Microsoft.XMLHTTP")
+ 
+                sBrowser = "IE";
+ 
+ 
+ 
+                //if (xmlhttp)
+ 
+                //{
+ 
+                //xmlhttp.onreadystatechange=state_Change
+ 
+                //xmlhttp.open("GET",url,true)
+ 
+                //xmlhttp.send()
+ 
+                //}
+ 
+              }
+ 
+ 
+ 
+                if (xmlhttp)
+ 
+                {
+ 
+                        //alert("In xmlhttp "+element_id);
+ 
+                        xmlhttp.open("GET",url,true);
+ 
+                        //alert("After xml open");
+ 
+ 
+ 
+                        xmlhttp.onreadystatechange = function() {
+                        //xmlhttp.onload = function() {
+ 
+                                    if (xmlhttp.readyState == 4)
+ 
+                                    {
+ 
+                                                if (xmlhttp.status == 200)
+ 
+                                                {
+ 
+                                                            //alert("XML data OK");
+ 
+                                                            element.innerHTML = xmlhttp.responseText;
+ 
+                                                }
+ 
+                                                else
+ 
+                                                {
+ 
+                                                            //alert("Problem retrieving XML data "+element_id)
+ 
+                                                }
+ 
+                                    }
+ 
+                        }
+ 
+ 
+ 
+                        //alert("Before Request");
+ 
+      if (sBrowser == "IE")
+      {
+       xmlhttp.send();
+      }
+      else
+      {
+                         xmlhttp.send(null);
+                        }
+ 
+                        //alert("After Request "+element_id);
+ 
+                }
+ 
+ 
+ 
+            }
+ 
+	function popupOtherSite(url, wnd)
+	{
+	  if (url.length > 0)
+	  {
+	    window.open(url, wnd, "height=400,width=600,status=yes,resizable=yes,scrollbars=yes,toolbar=yes,menubar=yes,location=yes");
+	    return;
+	  } 
+	}
+ 
 //-->
-</script></head>
+ 
+</script>
+
+
+
+<style>
+.headerfont {
+	font-family: Arial; 
+	font-size: 13px; 
+	color: #FFFFFF; 
+	font-weight: bold; 
+	text-decoration: none; 
+}
+a.headerfontLink {
+	font-family: Arial; 
+	font-size: 13px; 
+	color: #FFFFFF; 
+	font-weight: bold; 
+	text-decoration: none; 
+}
+a.headerfontLink:hover
+{
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Arial;
+	font-size: 13px; 
+	TEXT-DECORATION: underline;
+	FONT-WEIGHT: Bold;
+}
+.footerfont {
+	font-family: Arial; 
+	font-size: 13px; 
+	color: #000000; 
+	text-decoration: none; 
+}
+a.footerfontLink {
+	font-family: Arial; 
+	font-size: 13px; 
+}
+a.footerfontLink:hover
+{
+	font-family: Arial; 
+	font-size: 13px; 
+	text-decoration: none;
+}
+.generalfont1 {
+	font-family: Arial; 
+	font-size: 13px; 
+	font-weight: bold; 
+	color: #000000; 
+	text-decoration: none; 
+}
+.generalfont2 {
+	font-family: Arial; 
+	font-size: 13px; 
+	color: #000000; 
+	text-decoration: none; 
+}
+.imindefStyle {
+	font-family: Arial; 
+	font-size: 13px; 
+	font-weight: bold; 
+	color: #FFFFFF; 
+	text-decoration: none; 
+}
+.redText {
+	font-family: Arial; 
+	font-size: 13px; 
+	font-weight: bold; 
+	color: #CC0000; 
+	text-decoration: none; 
+}
+.greenText {
+	font-family: Arial; 
+	font-size: 13px; 
+	font-weight: bold; 
+	color: #009900; 
+	text-decoration: none; 
+}
+.blueText {
+	font-family: Arial; 
+	font-size: 13px; 
+	font-weight: bold; 
+	color: #0000FF; 
+	text-decoration: none; 
+}
+.active-image-checkbox
+{
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+</style>
+	
+
+
+</head><body marginheight="0" topmargin="0" marginwidth="0" leftmargin="0" class="body"><table width="760px" border="1" cellspacing="0" cellpadding="0" bordercolor="#CCCCCC"> 
+<!-- base content -->
+
+<tbody><tr>
+  <td>
+     
+
+	
+<table width="100%" height="89px" border="0" cellpadding="0" cellspacing="0">
+  
+   
+  <!--Display Agency MastHead-->
+  <tbody><tr>
+     <td colspan="2" align="left" width="100%" height="70px">
+        <!--Display Search Engine-->
+	<!--<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" background="/content/imindef/site_profile/imindef.-Par0003-Single-TextImage.Par0003ImageRef.gif.jpg?direct=1" class="active-image-checkbox">-->
+	<table cellpadding="0" width="100%" height="100%" class="active-image-checkbox" background="/imindef/site_profile/imindef.-Par0003-Single-TextImage.Par0003ImageRef.gif" border="0" cellspacing="0">
+	<form id="miw_Search" name="miw_Search" action="http://search.miw.com.sg/query.html" method="get" target="search"></form>
+	  <tbody><tr>
+	    <!-- //Joey++, 2 Feb 2005 -->
+	    <!-- Clicking on Agency Masthead always goes back to Home page-->
+	    <td width="60%">
+	      <!-- transparent image -->
+	      
+	      <a href="http://www.mindef.gov.sg">
+	        <img src="/images/spacer.gif" border="0" alt="Home" width="500px" height="65px">
+	      </a>
+	      	    
+	    </td>
+            <td width="40%">
+	    <!-- //++Joey, 2 Feb 2005 -->
+              <table width="*" height="100%" align="right" border="0" cellpadding="0" cellspacing="0">
+              <!--table align="right">-->
+	        <!--Contact Info | Feedback | Sitemap-->
+		<tbody><tr>
+		  <td align="right" colspan="4">		    
+		  <!--<font class="headerfontLink" face="Arial" size="13px" color="#FFFFFF">-->
+		      <a href="/imindef/header/contact_info.html" class="headerfontLink"> Contact Info</a><font class="headerfont"> | </font><a href="/imindef/header/feedback.html" class="headerfontLink"> Feedback</a><font class="headerfont"> | </font><a href="/imindef/header/sitemap.html" class="headerfontLink"> Sitemap</a>&nbsp;
+		  </td>
+		</tr>
+		<!--Search-->
+                <tr>
+                  <td>&nbsp;</td>
+                  <td align="right" valign="bottom" class="headerfont">
+		    <!--<font face="Arial" size="13px" color="#FFFFFF"><strong>Search</strong></font>&nbsp;-->
+		    Search&nbsp;
+		  </td>
+                  <td align="right" valign="bottom">
+	            <input type="text" name="qt" size="15" value="">
+	            <img src="/images/0.gif" width="5" height="1">
+	          </td>
+                  <td align="right" valign="bottom"><input type="submit" name="Go" value="Go">&nbsp;</td>
+                </tr>
+		<!--Advanced Search-->
+                <tr>
+                  <td align="right" colspan="4">
+		    <!--<a href="http://search.miw.com.sg/searchmiw.asp?advanced=yes">-->
+		    <a href="http://search.miw.com.sg/searchmiw.asp?advanced=yes" class="headerfontLink">
+		      <!--<font face="Arial" size="13px" color="#FFFFFF">-->
+		        Advanced Search&nbsp;
+		      <!--</font>-->
+		    </a>
+		  </td>
+                </tr>		
+              </tbody></table>
+            </td>
+          </tr>
+        
+        </tbody></table>	
+     </td> 
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" height="19px">
+	 <!--Display Top Navigation-->
+	 
 
 
 
 
-<body text="#000000" link="#000000" vlink="#000000" alink="#000000">
-<table width="760" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td colspan="2">
 
-    	<table width="735" height="90" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
 
-    <td colspan="4" align="center"><img src="images/bnr_masthead.gif" width="735" height="88" border="0" alt="Navibar" usemap="#Map2">
-      <map name="Map2">
-        <area coords="649,26,683,65" href="/index.asp?cat=map" alt="Sitemap" title="Sitemap">
-        <area coords="685,25,730,76" href="http://www.gov.sg" target="_blank" alt="Singapore Government Website" title="Singapore Government Website">
-        <area shape="rect" coords="571,23,606,68" href="/index.asp?cat=ebk" alt="E-books" title="E-books">
-        <area coords="609,24,646,75" href="/index2.asp?cat=con" alt="Contacts" title="Contacts">
-        <area coords="535,23,568,71" href="/index.asp?cat=vid" alt="Videos" title="Videos" shape="rect">
-        <area coords="499,23,529,68" href="/index.asp?cat=pix" alt="Pictures" title="Pictures" shape="rect">
-        <area coords="458,24,493,68" href="/index_search.asp" alt="News" title="News" shape="rect">
-        <area coords="419,23,454,68" href="/index.asp" alt="Home" title="Home" shape="rect">
-        <area shape="rect" coords="2,2,243,82" href="index.asp" alt="Home" title="Home">
-      </map></td>
+
+
+
+<link rel="stylesheet" type="text/css" href="/imindef/tools/css.imindef.html">
+<script type="text/javascript" src="/imindef/tools/dropdownmenu.8.html">
+</script>
+
+
+<table width="100%" bgcolor="#003063" cellpadding="0" cellspacing="0" bordercolor="#31659C" border="1">
+	<tbody><tr height="100%">
+<td nowrap="" align="left" onmousemove="this.style.backgroundColor='#B3CADC';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#003063';" valign="middle" width="59px" class="MenuHeader" onmouseover="menuOver('rollimg2'); return !showMenu('1', event, 'label1');">
+		<div onclick="doRedirect('/imindef/home.html')" align="center" id="label1">
+<a href="/imindef/home.html" class="MenuHeader" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2'); return !showMenu('1', event, 'label1');">Home</a>
+           </div>
+		</td>
+<td nowrap="" align="left" onmousemove="this.style.backgroundColor='#B3CADC';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#003063';" valign="middle" width="77px" class="MenuHeader" onmouseover="menuOver('rollimg2'); return !showMenu('2', event, 'label2');">
+		<div onclick="doRedirect('/imindef/about_us.html')" align="center" id="label2">
+<a href="/imindef/about_us.html" class="MenuHeader" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2'); return !showMenu('2', event, 'label2');">About Us</a>
+           </div>
+	<div id="menu2" style="width: 160px; height: 52px; position:absolute; z-index:2; visibility:hidden" onmouseover="event.cancelBubble = true;" class="Menu">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%">
+				<tbody><tr id="Mission" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/about_us/mission.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="FirstMenuBox"><a href="/imindef/about_us/mission.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Mission</a></td></tr>
+				<tr id="Defence Policy" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/about_us/defence_policy.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/about_us/defence_policy.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Defence Policy</a></td></tr>
+				<tr id="Organisation Structure" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/about_us/organisation_structure.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/about_us/organisation_structure.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Organisation Structure</a></td></tr>
+				<tr id="Biographies" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/about_us/biographies.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/about_us/biographies.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Biographies</a></td></tr>
+				<tr id="Legislation" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/about_us/legislation.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/about_us/legislation.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Legislation</a></td></tr>
+				<tr id="History Snippets" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/about_us/history.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/about_us/history.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">History Snippets</a></td></tr>
+				<tr id="Press Contacts" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/about_us/press_room.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="LastMenuBox"><a href="/imindef/about_us/press_room.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Press Contacts</a></td></tr>
+			</tbody></table>
+	</div>
+		</td>
+<td nowrap="" align="left" onmousemove="this.style.backgroundColor='#B3CADC';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#003063';" valign="middle" width="150px" class="MenuHeader" onmouseover="menuOver('rollimg2'); return !showMenu('3', event, 'label3');">
+		<div onclick="doRedirect('/imindef/mindef_websites.html')" align="center" id="label3">
+<a href="/imindef/mindef_websites.html" class="MenuHeader" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2'); return !showMenu('3', event, 'label3');">MINDEF/SAF Websites</a>
+           </div>
+	<div id="menu3" style="width: 160px; height: 52px; position:absolute; z-index:3; visibility:hidden" onmouseover="event.cancelBubble = true;" class="Menu">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%">
+				<tbody><tr id="A to Z Listings" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/mindef_websites/atozlistings.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="FirstMenuBox"><a href="/imindef/mindef_websites/atozlistings.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">A to Z Listings</a></td></tr>
+				<tr id="Topics" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/mindef_websites/topics.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/mindef_websites/topics.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Topics</a></td></tr>
+			</tbody></table>
+	</div>
+		</td>
+<td nowrap="" align="left" onmousemove="this.style.backgroundColor='#B3CADC';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#003063';" valign="middle" width="94px" class="MenuHeader" onmouseover="menuOver('rollimg2'); return !showMenu('4', event, 'label4');">
+		<div onclick="doRedirect('/imindef/publications.html')" align="center" id="label4">
+<a href="/imindef/publications.html" class="MenuHeader" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2'); return !showMenu('4', event, 'label4');">Publications</a>
+           </div>
+	<div id="menu4" style="width: 160px; height: 52px; position:absolute; z-index:4; visibility:hidden" onmouseover="event.cancelBubble = true;" class="Menu">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%">
+				<tbody><tr id="Army News Interactive" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/publications/ani.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="FirstMenuBox"><a href="/imindef/publications/ani.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Army News Interactive</a></td></tr>
+				<tr id="Air Force Newsletter" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/publications/rsafnews.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/publications/rsafnews.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Air Force Newsletter</a></td></tr>
+				<tr id="cyberpioneer" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/publications/cyberpioneer.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/publications/cyberpioneer.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">cyberpioneer</a></td></tr>
+				<tr id="Navy News" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/publications/navynews.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/publications/navynews.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Navy News</a></td></tr>
+				<tr id="Pointer Journal" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/publications/pointer.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="LastMenuBox"><a href="/imindef/publications/pointer.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Pointer Journal</a></td></tr>
+			</tbody></table>
+	</div>
+		</td>
+<td nowrap="" align="left" onmousemove="this.style.backgroundColor='#B3CADC';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#003063';" valign="middle" width="108px" class="MenuHeader" onmouseover="menuOver('rollimg2'); return !showMenu('5', event, 'label5');">
+		<div onclick="doRedirect('/imindef/news_and_events.html')" align="center" id="label5">
+<a href="/imindef/news_and_events.html" class="MenuHeader" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2'); return !showMenu('5', event, 'label5');">News &amp; Events</a>
+           </div>
+	<div id="menu5" style="width: 160px; height: 52px; position:absolute; z-index:5; visibility:hidden" onmouseover="event.cancelBubble = true;" class="Menu">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%">
+				<tbody><tr id="News Releases" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/news_and_events/nr.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="FirstMenuBox"><a href="/imindef/news_and_events/nr.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">News Releases</a></td></tr>
+				<tr id="Events" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/news_and_events/events.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/news_and_events/events.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Events</a></td></tr>
+			</tbody></table>
+	</div>
+		</td>
+<td nowrap="" align="left" onmousemove="this.style.backgroundColor='#B3CADC';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#003063';" valign="middle" width="70px" class="MenuHeader" onmouseover="menuOver('rollimg2'); return !showMenu('6', event, 'label6');">
+		<div onclick="doRedirect('/imindef/careers.html')" align="center" id="label6">
+<a href="/imindef/careers.html" class="MenuHeader" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2'); return !showMenu('6', event, 'label6');">Careers</a>
+           </div>
+	<div id="menu6" style="width: 160px; height: 52px; position:absolute; z-index:6; visibility:hidden" onmouseover="event.cancelBubble = true;" class="Menu">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%">
+				<tbody><tr id="Job Opportunities" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/careers/job_opportunities.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="FirstMenuBox"><a href="/imindef/careers/job_opportunities.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Job Opportunities</a></td></tr>
+				<tr id="Scholarships" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/careers/scholarships.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/careers/scholarships.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Scholarships</a></td></tr>
+			</tbody></table>
+	</div>
+		</td>
+<td nowrap="" align="left" onmousemove="this.style.backgroundColor='#B3CADC';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#003063';" valign="middle" width="85px" class="MenuHeader" onmouseover="menuOver('rollimg2'); return !showMenu('7', event, 'label7');">
+		<div onclick="doRedirect('/imindef/resources.html')" align="center" id="label7">
+<a href="/imindef/resources.html" class="MenuHeader" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2'); return !showMenu('7', event, 'label7');">Resources</a>
+           </div>
+	<div id="menu7" style="width: 160px; height: 52px; position:absolute; z-index:7; visibility:hidden" onmouseover="event.cancelBubble = true;" class="Menu">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%">
+				<tbody><tr id="e-Books" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/resources/e-books.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="FirstMenuBox"><a href="/imindef/resources/e-books.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">e-Books</a></td></tr>
+				<tr id="Videos" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/resources/videos.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/resources/videos.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Videos</a></td></tr>
+				<tr id="Pictures" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/resources/pictures.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/resources/pictures.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Pictures</a></td></tr>
+				<tr id="Speeches" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/resources/speeches.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/resources/speeches.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Speeches</a></td></tr>
+				<tr id="FAQs" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/resources/faqs.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/resources/faqs.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">FAQs</a></td></tr>
+				<tr id="MINDEF / SAF Terminology" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/resources/terminology.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="LastMenuBox"><a href="/imindef/resources/terminology.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">MINDEF / SAF Terminology</a></td></tr>
+			</tbody></table>
+	</div>
+		</td>
+<td nowrap="" align="left" onmousemove="this.style.backgroundColor='#B3CADC';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#003063';" valign="middle" width="93px" class="MenuHeader" onmouseover="menuOver('rollimg2'); return !showMenu('8', event, 'label8');">
+		<div onclick="doRedirect('/imindef/useful_links.html')" align="center" id="label8">
+<a href="/imindef/useful_links.html" class="MenuHeader" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2'); return !showMenu('8', event, 'label8');">Useful Links</a>
+           </div>
+	<div id="menu8" style="width: 160px; height: 52px; position:absolute; z-index:8; visibility:hidden" onmouseover="event.cancelBubble = true;" class="Menu">
+		<table border="0" cellpadding="2" cellspacing="0" width="100%">
+				<tbody><tr id="e-Transactions" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/useful_links/e-transactions.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="FirstMenuBox"><a href="/imindef/useful_links/e-transactions.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">e-Transactions</a></td></tr>
+				<tr id="Other Links" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/useful_links/other_links.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/useful_links/other_links.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Other Links</a></td></tr>
+			</tbody></table>
+	</div>
+		</td>
 	</tr>
+</tbody></table>
+
+	
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+    
+    </td>      
+  </tr>	  	
+
 </tbody></table>
 
 
 
-		</td>
-	</tr>
 
-	<tr valign="top">
+     	  
 
 
+<table width="100%" border="0" cellspacing="0" cellpadding="2">  
+
+  <tbody><tr>
+    <td width="100%" align="left" valign="top" bgcolor="#FFFFFF">
+       
+
+	
 
 
-			<td width="157" valign="Top">
-				<table width="100%" cellspacing="0" border="0">
-	<tbody><tr>
-		<td height="20" align="center">
 
-      <table width="100%" border="0" align="center">
-        
-        <tbody><tr bgcolor="#eeffff">
-          <td align="center" valign="middle" height="18" colspan="2" bgcolor="#eeffff">
-            <div align="left"><font face="arial, helvetica, sans-serif" size="1">
-              <a href="index2.asp?cat=mission">Mission</a> </font></div>
-          </td>
-        </tr>
-        
-        <tr>
-          <td align="center" valign="middle" height="18" colspan="2">
-            <div align="left"><font face="arial, helvetica, sans-serif" size="1">
-              <a href="index2.asp?cat=dp">Defence Policy</a> </font></div>
-          </td>
-        </tr>
-        
-        <tr bgcolor="#eeffff">
-          <td align="center" valign="middle" height="18" colspan="2" bgcolor="#eeffff">
-            <div align="left"><font face="arial, helvetica, sans-serif" size="1">
-              <a href="http://www.totaldefence.org.sg/" target="newframe">Total
-              Defence</a> </font></div>
-          </td>
-        </tr>
-        
-        <tr>
-          <td align="center" valign="middle" height="18" colspan="2">
-            <div align="left"><font face="arial, helvetica, sans-serif" size="1">
-              <a href="index2.asp?cat=legis">Legislation</a> </font></div>
-          </td>
-        </tr>
-        
-        <tr bgcolor="#eeffff">
-          <td align="center" valign="middle" height="32" colspan="2" bgcolor="#eeffff">
-            <div align="left"><font face="arial, helvetica, sans-serif" size="1">
-              <a href="index2.asp?cat=organstruct">Organisation<br>
-              Structure</a> </font></div>
-          </td>
-        </tr>
-        
-        <tr>
-          <td align="center" valign="middle" height="18" colspan="2">
-            <div align="left"><font face="arial, helvetica, sans-serif" size="1">
-              <a href="index2.asp?cat=bio">Biographies</a> </font></div>
-          </td>
-        </tr>
-        
-        <tr>
-          <td align="center" valign="middle" height="18" colspan="2" bgcolor="#eeffff">
-            <div align="left"><font face="arial, helvetica, sans-serif" size="1">
-              <a href="/history/">History Snippets of MINDEF/SAF</a> </font></div>
-          </td>
-        </tr>
-        
-        <tr>
-          <td align="center" valign="middle" height="18" colspan="2">
-            <div align="left"><font face="arial, helvetica, sans-serif" size="1">
-              <a href="index2.asp?cat=events">Events</a> </font></div>
-          </td>
-        </tr>
-        
-        <tr>
-          <td align="center" valign="middle" height="18" colspan="2" bgcolor="#eeffff">
-            <div align="left"><font face="arial, helvetica, sans-serif" size="1">
-              <a href="index_search.asp" target="newframe">News Archives</a>
-              </font></div>
-          </td>
-        </tr>
-        
-        <tr>
-          <td align="center" valign="middle" height="18" colspan="2"><div align="left"><font face="arial, helvetica, sans-serif" size="1"><a href="glossary.asp">MINDEF/SAF Terminology</a> </font></div></td>
-        </tr>
-        <tr>
-          <td align="center" valign="middle" height="18" colspan="2">
-            <div align="left"><font face="arial, helvetica, sans-serif" size="1">
-              <a href="index2.asp?cat=presscontacts">Press Contacts</a> </font></div>
-          </td>
-        </tr>
-        
-        <tr>
-          <td align="center" valign="middle" height="18" colspan="2" bgcolor="#eeffff">
-            <div align="left"><font face="arial, helvetica, sans-serif" size="1">
-              <a href="index2.asp?cat=otherlinks">Other Links</a></font></div>
-          </td>
-        </tr>
-        
-        <tr>
-          <td align="center" valign="middle" height="18" colspan="2">
-            <div align="left"><font face="arial, helvetica, sans-serif" size="1">
-              <a href="index.asp">Home</a> </font></div>
-          </td>
-        </tr>
-      </tbody></table>
-		</td>
-	</tr>
-</tbody></table><table width="100%" border="0" cellspacing="0" cellpadding="5">
-	<tbody><tr>
-		<td nowrap="" bgcolor="#EEFFFF">
-			<form id="iMINDEF_Search" name="iMINDEF_Search" method="GET" action="http://search.miw.com.sg/query.html" target="_blank">
-				<input type="hidden" name="indexes" value="imindef-news,imindef-web">
-				<input type="hidden" name="col" value="imindef">
-				<font size="1" face="Arial, Helvetica, sans-serif">Search iMINDEF</font><font size="1"> :</font><br>
-				<input class="iMINDEF_Search" type="text" name="qt" size="15" maxlength="80">
-				<input type="image" border="0" src="images/btn_gosml.gif" width="25" height="22" maxlength="128"><br>
-        <a href="/index_search.asp"><font size="1" face="Arial, Helvetica, sans-serif">Search
-        News </font></a>
-      </form>
-		</td>
-	</tr>
 
-	<tr>
-		<td nowrap="" bgcolor="#EEFFFF">
-			<form name="search" method="GET" action="http://web4.internet.gov.sg/scripts/sgip/search5.asp" target="_blank">
-				<input type="hidden" name="ct" value="mita_sgip">
-        <font size="1" face="Arial, Helvetica, sans-serif">Search Government<br>
-        websites :</font><br>
-				<input type="text" name="q1" size="15" maxlength="800">
-				<input type="image" border="0" src="images/btn_gosml.gif" width="25" height="22" maxlength="128">
-			</form>
-		</td>
-	</tr>
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td>
+
+</td>
+</tr>
 </tbody></table>
 
-			</td>
-			<td width="603" halign="left">
-				<a name="top"></a>
+
+<!--//insert default components into Base template-->
 
 
-			
-<table width="100%" border="0" cellspacing="5">
-  <tbody><tr> 
-    <td><img src="images/bnr_privacypol.gif" width="420" height="25"></td>
-  </tr>
-  <tr> 
-    <td>&nbsp;</td>
-  </tr>
-  <tr> 
-    <td>
-      <p><font face="Arial, Helvetica, sans-serif" size="3"><b>Government of Singapore 
-        Privacy Statement</b> </font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2">1. This is a Government 
-        of Singapore website. Thank you for examining our privacy statement.</font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2">2. If you are only 
-        browsing this website, we do not capture data that allows us to identify 
-        you individually.</font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2">3. If you choose to 
-        make an application or send us an e-mail for which you provide us with 
-        personally identifiable data, we may share necessary data with other Government 
-        agencies, so as to serve you in a most efficient and effective way, unless 
-        such sharing is prohibited by legislation. We will NOT share your personal 
-        data with non-Government entities, except where such entities have been 
-        authorised to carry out specific Government services.</font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2">4. For your convenience, 
-        we may also display to you data you had previously supplied us or other 
-        Government agencies. This will speed up the transaction and save you the 
-        trouble of repeating previous submissions. Should the data be out-of-date, 
-        please supply us the latest data. We will retain your personal data only 
-        as necessary for the effective delivery of public services to you.</font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2">5. To safeguard your 
-        personal data, all electronic storage and transmission of personal data 
-        are secured with appropriate security technologies.</font></p>
-      <p><font face="Arial, Helvetica, sans-serif" size="2">6. This site may contain 
-        links to non-Government sites whose data protection and privacy practices 
-        may differ from ours. We are not responsible for the content and privacy 
-        practices of these other websites and encourage you to consult the privacy 
-        notices of those sites.</font></p>
-      <p>&nbsp;</p>
-      <p></p>
-      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%" border="0">
+  <tbody><tr>
+
+    <td class="dBreadcrumbsBreadTextFont">
+    
+    <a href="/imindef.html">Home</a> &gt; Privacy Statement 
+     
+    </td> 
+  </tr>	
+  
+</tbody></table>
+
+
+
+
+
+
+
+  
+
+
+
+<table width="100%" border="0">
+  <tbody><tr class="c0001WebTitleFont">
+
+    <td class="c0001WebTitleFont">Privacy Statement</td> 
+
+  </tr>	  
+</tbody></table>
+
+
+    
+ 
+
+	
+
+    
+<table width="100%" border="0">
+    <tbody><tr>
+        <td>
+	  	
+	<table width="100%" cellspacing="0" border="0" cellpadding="0">
+		<tbody><tr valign="top"><td background="/libs/Designer/content/line.solid..8.gif"><img src="/libs/CFC/content/statics.0.gif" width="1" height="8"></td></tr>
+	</tbody></table>
+		<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/libs/CFC/content/statics.0.gif" height="5" width="1"></td></tr></tbody></table>
+		
+<!--Display Text and Image-->
+<table cellspacing="0" border="0" cellpadding="0">
+	<tbody><tr valign="top"><td width="100%"><font class="imindefParstextimageText"><b>Government of Singapore Privacy Statement</b><br><br><ul><li>This is a Government of Singapore website. Thank you for examining our privacy statement.</li></ul><br><ul><li>If you are only browsing this website, we do not capture data that allows us to identify you individually.</li></ul><br><ul><li>If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.</li></ul><br><ul><li>For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.</li></ul><br><ul><li>To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.</li></ul><br><ul><li>This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.</li></ul><br><br></font><br></td></tr>
+</tbody></table>
+<!--Display Text and Image-->
+
+		<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/libs/CFC/content/statics.0.gif" height="5" width="1"></td></tr></tbody></table>
+		    
+        </td>
+    </tr>
+</tbody></table>     
+    <!-- //Joey++, 1 Feb 2005 -->
+    <!-- //Display "Find this article at" when user clicks Print Article -->
+
+
     </td>
   </tr>
+ 
+</tbody></table>
+
+<!-- Printing of date and time 
+sDate = 15-Dec-2005 01:13:04
+end of printing of date and time -->
+
+    
+
+<table width="100%" border="0" cellspacing="0" class="scrollbar">
+   <tbody><tr bgcolor="#666666">
+     <td colspan="2">&nbsp;</td>
+   </tr>
+
+   <!-- Bottom Copyright statement and IMINDEF Privacy and Term of use statement -->      
+   <tr bgcolor="#FFFFFF">
+   	<td>
+	    <font class="footerfont">
+	      &nbsp;<a href="/imindef/footer/privacy_statement.html" class="footerfontLink">Privacy Statement</a><font class="footerfont"> | </font><a href="/imindef/footer/terms_of_use.html" class="footerfontLink">Terms of Use</a>
+	    <!--
+	    <a href="null">null</a> | 
+	    <a href="null">null</a>
+	    -->
+	    </font>
+	</td>	
+	<td align="right">
+	    <!--<font face="Arial" size="13px">-->
+	    <font class="footerfont">© 2005 Government of Singapore</font>&nbsp;
+	</td>
+   </tr>
 </tbody></table>
 
 
-<table width="100%" border="0" cellpadding="0">
-	<tbody><tr>
-		<td>
-			<a href="index2.asp?cat=pr"><img src="images/btn_pressroom.gif" width="98" height="28" border="0" alt="Back to Press Room"></a>
-		</td>
-		<td align="right">
-			<a href="#top"><img src="images/btn_top.gif" width="37" height="28" border="0" alt="Back to Top"></a>
-		</td>
-	</tr>
-</tbody></table>
 
-			</td>
-		
+  </td>
+</tr>
+
+</tbody></table> 
 
 
-	</tr>
-	<tr>
-		<td colspan="2">
 
-			<table width="755" border="0" cellspacing="0" cellpadding="0"> 
-  <tbody><tr> <td>&nbsp;</td></tr>
-<tr> <td bgcolor="#004377">
-      <div align="right"><font face="Arial, Helvetica, sans-serif" color="#FFFFFF" size="1">iMINDEF 
-        © 2005&nbsp;</font></div>
-    </td></tr> <tr> <td> 
-      <div align="center"> 
-        <p> 
-          
-          <font size="1" face="Arial, Helvetica, sans-serif"> <a href="http://www.mindef.gov.sg">home</a> 
-          | <a href="/index2.asp?cat=mission">about MINDEF</a> | <a href="/index.asp?cat=army">army</a> 
-          | <a href="/index.asp?cat=navy">navy</a> | <a href="http://www.mindef.gov.sg/rsaf" target="_blank">air 
-          force</a> | <a href="/index_search.asp">news</a> | <a href="/index.asp?cat=pix">pictures</a> 
-          | <a href="/index.asp?cat=vid">videos</a> | <a href="/index.asp?cat=ebk">e-books</a> 
-          | <a href="/index2.asp?cat=pr">press room</a> | <a href="/index2.asp?cat=faq">faqs</a> 
-          | <a href="/index.asp?cat=careers">careers &amp; scholarships</a> 
-          | <a href="/index2.asp?cat=con">contact us</a><br>
-          
-          <a href="http://www.mindef.gov.sg/cyberpioneer/" target="_blank">cyberpioneer</a> 
-          | <a href="http://www.mindef.gov.sg/safti/pointer/" target="_blank">pointer</a> 
-          | <a href="http://www.totaldefence.org.sg/" target="_blank">total defence</a> 
-          | <a href="http://www.mindef.gov.sg/dmg" target="_blank">dmg</a> | <a href="http://www.mindef.gov.sg/safti/" target="_blank">SAFTI</a> 
-          | <a href="http://www.mindef.gov.sg/nsmen/" target="_blank">nsmen</a> 
-          | <a href="/index2.asp?cat=privacypol">privacy policy</a> 
-          | <a href="/index2.asp?cat=termsofsvc">terms of service</a> 
-          | <a href="/index2.asp?cat=svcstandards">service standards</a> | <a href="/index.asp?cat=map">sitemap</a> 
-          </font></p>
-      </div></td></tr> </tbody></table>
-
-
-		</td>
-	</tr>
-</tbody></table>
-
-
-</body></html>
+ </body></html>
