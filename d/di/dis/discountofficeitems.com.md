@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404180034id_/http%3A//discountofficeitems.com/privacy.cgis) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215223206id_/http%3A//discountofficeitems.com/privacy.cgis) for the most accurate reproduction.*
 
-# Discount Office Supplies Privacy Policy
-
-[](https://www.scanalert.com/RatingVerify?ref=www.discountofficeitems.com)
-
-|  | 
+# Discount Office Items Privacy Policy
 
   
 **About this Privacy Policy:**  
