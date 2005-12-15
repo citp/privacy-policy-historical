@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the king-mag.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404004338id_/http%3A//www.king-mag.com/reg_htmls/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the king-mag.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215074949id_/http%3A//www.king-mag.com/reg_htmls/privacy.html) for the most accurate reproduction.*
 
 # KING Magazine
 
   
 Harris Publications Inc. ("Harris") believes that you should control the dissemination of the personally identifiable information that you provide when using the Vampirella.com web site ("the Site"). Please review this policy carefully to understand how we will treat the personally identifiable information that you give to us.
 
-Your use of this Site in any fashion constitutes your agreement to the terms of Harris's Privacy Policy and our [Terms of Use](https://web.archive.org/web/20050404004338id_/http%3A//www.king-mag.com/reg_htmls/terms.html) Please review this page periodically. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what personally identifiable information we collect, how we use it and under what circumstances we disclose it. Your continued use of the Site constitutes your agreement to any such changes.
+Your use of this Site in any fashion constitutes your agreement to the terms of Harris's Privacy Policy and our [Terms of Use](https://web.archive.org/web/20051215074949id_/http%3A//www.king-mag.com/reg_htmls/terms.html) Please review this page periodically. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what personally identifiable information we collect, how we use it and under what circumstances we disclose it. Your continued use of the Site constitutes your agreement to any such changes.
 
 What personally identifiable information is collected on this Site?  
 You do not have to provide any personally identifiable information to use the Site. However, when you use the Site to subscribe to our publications, to enter contests, to post messages on the Site, or to receive our retailer promo pack, Harris collects personally identifiable information as indicated in each such area of the Site, including your name, address, email address, zip code, phone number, and gender. Harris may also collect data related to the areas of Harris that you visit and how often you visit those areas.
