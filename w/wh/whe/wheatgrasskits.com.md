@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheatgrasskits.com privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622074841id_/http%3A//www.wheatgrasskits.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheatgrasskits.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215193348id_/http%3A//www.wheatgrasskits.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # WheatgrassKits.com Privacy Policy
 
