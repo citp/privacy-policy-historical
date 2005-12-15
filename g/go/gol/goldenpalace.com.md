@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the goldenpalace.com privacy policy that was archived on 2005-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050419001147id_/http%3A//goldenpalace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenpalace.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215073948id_/http%3A//goldenpalace.com/privacy.php) for the most accurate reproduction.*
 
 # GoldenPalace.com :: #1 Online Casino
 
+|    
 GoldenPalace.com Privacy Statement
 
 Effective November 1, 2004
@@ -73,3 +74,6 @@ GoldenPalace.com does not and shall not sell your User Information to anyone. Ou
 
 Right to Change Internet Privacy Statement:  
 GoldenPalace.com reserves the right to change this privacy statement at any time. Changes will be effective immediately upon posting.
+
+|    
+| 
