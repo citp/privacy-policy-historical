@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the queenslibrary.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404063727id_/http%3A//www.queenslibrary.org/about/policy/confidential.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queenslibrary.org privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215121417id_/http%3A//queenslibrary.org/%3Fsection_id%3D2%26page_id%3D11) for the most accurate reproduction.*
 
-# Privacy & Confidentiality of Library Records - Queens Borough Public Library
-
-  
-
+# Queens Library
 
 ### Privacy Policy Statement
 
@@ -74,5 +71,3 @@ The Queens Borough Public Library respects the right of privacy of all its custo
 Library records that are deemed confidential are covered by New York State Law signed on June 13, 1988 (I CPLR 4509).
 
 These records are related to the circulation of library materials that contain names or other personally identifying details regarding the users of public, free association, school, college and university libraries and library systems, of this state, **including but not limited to records related to the circulation of library materials, computer database searches, interlibrary loan transactions, reference queries, requests, or the use of audio-visual materials, films or records**. These records shall be confidential and shall not be disclosed except that such records may be disclosed upon the request or consent of the user or pursuant to subpoena, court order or where otherwise required by statute. 
-
-Last updated: May 21, 2004
