@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the internetsupervision.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303054447id_/http%3A//internetsupervision.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetsupervision.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215220634id_/http%3A//internetsupervision.com/privacy.htm) for the most accurate reproduction.*
 
 # InternetSupervision.com - Privacy Policy
 
-_Please read the following very carefully._
+_Please read the following very carefully._  
+
 
 InternetSupervision.com _(_ hereinafter “ _INTSUP_ ”) values the privacy of our visitors/customers and takes every known precaution to safe guard the information we collect from unauthorized use.  The following is a detailed explanation of the privacy policy for “ _INTSUP_ ”.  Please note that this policy does not apply to those third-party sites that you may visit by selecting a hypertext link on one of our pages.  You will need to consult those web sites’ privacy policies in order to determine how your privacy is protected.   
 
