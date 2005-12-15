@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306040916id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215033304id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # California MCLE - Privacy Policy
 
@@ -17,6 +17,8 @@
 **one cle** collects personal information, such as your e-mail address, name, home or work address, and telephone number. **one cle** may also collect demographic information, such as your ZIP code, age, gender, and legal interests. **one cle** does not collect any of this unique information about you except when you specifically and knowingly provide such information.
 
 Furthermore, if you participate in an MCLE activity offered by **one cle**, the State Bar of California requires us to log your name, bar number, the time, date, location, title and the amount of California approved education credit offered for the education activity in an official record of attendance, which we are required to provide to the State Bar upon their request.
+
+**Additionally, if you send us a cease and desist notice asking us to remove one of the contracts we retrieved from a public domain securities filing, your e-mail or letter to us may be forwarded in its entirety to the[Chilling Effects Clearinghouse](http://www.chillingeffects.org/).**
 
 ## Information from Web Server Logs
 
@@ -37,6 +39,8 @@ In order to offer and provide you with personalized services, **one cle** may us
 **one cle** will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission. **one cle** may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to conform to the edicts of the law or comply with legal process served on **one cle**, protect and defend the rights or property of **one cle** or act under exigent circumstances to protect the personal safety of users of **one cle** or members of the public. If you participate in any MCLE activity on the **one cle** Web site, **one cle** may disclose your personal information listed in the official record of attendance to the State Bar upon their request.
 
 Certain **one cle** services and content may be co-branded with another company. If you register for or use such services, both **one cle** and the other company may receive information collected in conjunction with the co-branded services. In such cases, either a joint privacy statement or a link to the other company's privacy statement will be provided, which will provide you with information about how the other company will use the information and how you can contact the other company with requests to access the information or other inquiries.
+
+**If you send us a cease and desist notice asking us to remove one of the contracts we retrieved from a public domain securities filing, your e-mail or letter to us may be forwarded in its entirety to the[Chilling Effects Clearinghouse](http://www.chillingeffects.org/).**
 
 ## Protecting Your Information
 
