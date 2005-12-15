@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325090717id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215090057id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register | The Register
 
@@ -94,7 +94,7 @@ Skinkers run The Register's NewsAlerts Service. [Privacy Policy](http://www.skin
 
 ### Data Protection
 
-Anyone who provides The Register with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting this address or by contacting Philip Mitchell.
+Anyone who provides The Register with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting [this address](http://forms.theregister.co.uk/register/register) or by contacting Philip Mitchell.
 
 ### Accessing your Data
 
