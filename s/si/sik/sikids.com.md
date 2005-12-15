@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403203243id_/http%3A//www.sikids.com/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215072312id_/http%3A//www.sikids.com/admin/privacy.html) for the most accurate reproduction.*
 
 # SIKIDS | Write to us
 
@@ -52,7 +52,7 @@ III. _Collection of Information by Third-Party Sites and Sponsors_
 
 Our site contains links to other sites whose information practices may be different from ours. Visitors should consult the other sites' privacy notices as the sites are not covered by our privacy policy. 
 
-This Time Warner site sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that children voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Warner does not control the third-party sponsors' use of this information. [Click here](https://web.archive.org/web/20050403203243id_/http%3A//www.sikids.com/admin/thirdparty.html) for a list of names and contact information of outside third parties that may collect and maintain personally identifiable information as a result of their participation in these activities. 
+This Time Warner site sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that children voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Warner does not control the third-party sponsors' use of this information. [Click here](https://web.archive.org/web/20051215072312id_/http%3A//www.sikids.com/admin/thirdparty.html) for a list of names and contact information of outside third parties that may collect and maintain personally identifiable information as a result of their participation in these activities. 
 
 **
 
@@ -101,7 +101,7 @@ Sports Illustrated Building
 135 West 50th St., 4th Fl.   
 New York, NY 10020-1393 
 
-**NOTE: For subscription-related issues, please[click here](https://web.archive.org/web/20050403203243id_/http%3A//www.sikids.com/admin/subscribe/customerservice.html). ** ****
+**NOTE: For subscription-related issues, please[click here](https://web.archive.org/web/20051215072312id_/http%3A//www.sikids.com/admin/subscribe/customerservice.html). ** ****
 
 **VIII. _A Final Note to Parents_ **
 
