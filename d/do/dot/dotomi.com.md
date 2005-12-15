@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotomi.com privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409212710id_/http%3A//www.dotomi.com/common/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotomi.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215173007id_/http%3A//www.dotomi.com/common/privacy.html) for the most accurate reproduction.*
 
-# dotomi - Consumers Rule!™
+# dotomi
 
 Dotomi is the developer and supplier of an innovative marketing communication solution called "Dotomi Direct Messaging™". Dotomi Direct Messaging enables companies, who want to market their products through the use of Dotomi Direct Messaging ("Marketers"), to deliver, to consumers personal, timely, and relevant advertisements ("Dotomi Messages"). Dotomi Messages replace messages currently received within banner advertising real-estate across multiple Web publishers that are enabled to serve Dotomi Direct Messages ("Publishers"). Dotomi's proprietary technology allows Dotomi to deliver relevant content to consumers, but not at the expense of individual privacy. 
 
