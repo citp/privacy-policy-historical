@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the morningstar.com privacy policy that was archived on 2005-03-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050311083815id_/http%3A//members.morningstar.com/memberstpages/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the morningstar.com privacy policy that was archived on 2005-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215063625id_/http%3A//members.morningstar.com/memberstpages/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy</title>
@@ -19,111 +19,201 @@ a:active {text-decoration:underline;}
 </head>
 
 <body bgcolor="#FFFFFF" link="666666" vlink="666666" alink="#666666">
-<script>
-function srchTerm()
-{
-	sSearchType = document.searchForm.SrchType.value;
+<script language="JavaScript">
+// ultimate browser sniffer from netscape
+// see http://www.mozilla.org/docs/web-developer/sniffer/browser_type.html for docs
 
+// convert all characters to lowercase to simplify testing 
+var agt=navigator.userAgent.toLowerCase(); 
+var is_ie     = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+
+// pick stylesheet based on browser
+
+// if IE
+if (is_ie) {
+	document.write('<link rel="stylesheet" type="text/css" href="/cover_IE.css">');
+	}
+// everybody else
+else {
+	document.write('<link rel="stylesheet" type="text/css" href="/cover.css">');
+	}
+
+</script><link rel="stylesheet" type="text/css" href="/cover.css">
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function setWSAction (tagRef)
+{
+	document.cookie = "wsaction=" + tagRef + "; expires=Wed, 31 Dec 2025 00:00:00 UTC"
+}
+
+function showWinShd(tagRef)
+{	
+	if(tagRef.name == "menu1")
+	{
+		setIfrWidth(585);
+		MM_showHideLayers('menu0','','show','menu2','','hide','menu3','','hide');
+		
+	}
+	else if (tagRef.name == "menu4")
+	{	
+		setIfrWidth(585);
+		MM_showHideLayers('menu0','','hide','menu2','','show','menu3','','hide')
+	}
+	else
+	{
+		setIfrWidth(585);
+		MM_showHideLayers('menu0','','hide','menu2','','hide','menu3','','show')
+	}
+  
+  setWSAction (tagRef.name);
+}
+
+function hideWinShd(tagRef)
+{	
+	setIfrWidth(728);
+	
+	MM_showHideLayers('menu0','','hide','menu2','','hide','menu3','','hide');
+  	
+  setWSAction ("hide");
+}
+
+function setIfrWidth(ifrwidth) 
+{ 
+	// Set Big Banner SINGLEBIG's width , original Size 728 , reduce size  585
+	if (document.getElementById('ifrBigB'))
+		document.getElementById('ifrBigB').width=ifrwidth +" px";
+}
+
+function srchTerm(sSearchType)
+{
 	if (sSearchType == "search") {
 		document.searchForm.SrchTerm.value = document.searchForm.sSrchTerm.value;
-  	document.searchForm.action = "http://search.morningstar.com/MstarSrch/MstarSrch2.aspx?topnav=search";
+  	document.searchForm.action = "http://search.morningstar.com/MstarSrch/MstarSrch2.aspx?pgid=hetopsearch";
   	document.searchForm.submit();
 	} else {
-		if (document.searchForm.sSrchTerm.value == "Enter ticker, name or topic" || document.searchForm.sSrchTerm.value == "") {
-			document.searchForm.action = "http://quote.morningstar.com/TickerNotFound.html";			
-			document.searchForm.submit();
+		if (document.quoteForm.sSrchTerm.value == "") {
+			document.quoteForm.action = "http://quote.morningstar.com/TickerNotFound.html?pgid=hetopquote";			
+			document.quoteForm.submit();
 		}
 		else {
-			document.searchForm.action = "http://quote.morningstar.com/switch.html?hsection=quote&ticker="+document.searchForm.sSrchTerm.value;
-			document.searchForm.submit();
+			document.quoteForm.action = "http://quote.morningstar.com/switch.html?pgid=hetopquote&ticker="+document.quoteForm.sSrchTerm.value;
+			document.quoteForm.submit();
 		}
   }
 }
 
-function setSearchType(sSearchType)
+function ClearSearchBox(sSearchType)
 {
-	document.searchForm.SrchType.value = sSearchType;
+	if (sSearchType == "quote")
+	{
+		var text = document.quoteForm.sSrchTerm.value;
+		if (text == "Enter ticker")
+			document.quoteForm.sSrchTerm.value = "";
+	}
+	else
+	{
+		var text = document.searchForm.sSrchTerm.value;
+		if (text == "Enter topic")
+			document.searchForm.sSrchTerm.value = "";
+	}
+}
+//-->
+</script>
+
+<!-- Header-->
+<table border="0" cellpadding="0" cellspacing="0" width="955"><tbody><tr><td>
+<div id="Wrapper">
+
+<div id="Header">
+<div width:200px=""><a href="http://www.morningstar.com/?pgid=hetoplogo"><img src="//im.morningstar.com/im/HP_Mlogo_1.jpg" border="0"></a></div> 
+<div id="Login"><a href="https://members.morningstar.com/DotNet/LogIn.aspx?pgid=hetoplogin" class="login">&nbsp;</a><a href="https://members.morningstar.com/prism/registrationFree.html?referid=A1151&amp;pgid=hetopsign" class="signup">&nbsp;</a><a href="http://www.morningstar.com/Cover/Help.html?pgid=hetophelp" class="help">&nbsp;</a></div><div id="Corp"><font class="H10">Thursday,&nbsp;Dec.&nbsp;15,&nbsp;2005</font><a href="http://corporate.morningstar.com/US/asp/home.aspx?xmlfile=202.xml&amp;pgid=hetopcompsite" class="H10">Company Site</a><a href="http://corporate.morningstar.com/US/asp/subject.aspx?filter=refresh&amp;xmlfile=126.xml&amp;pgid=hetopcompnews" class="H10">Company News</a></div></div>
+<div class="F10" id="Search">
+<div style="position: absolute; left: 0px; top: 0px;">
+<span class="Inputlabel">Quotes</span>
+<form name="quoteForm" method="post" onsubmit="srchTerm('quote')" class="Forminput">
+<input name="sSrchTerm" value="" class="Input1" onclick="ClearSearchBox('quote')" type="text">
+<input class="Go" value="&nbsp;" src="//im.morningstar.com/im/dot_clear.gif" type="image">
+</form>
+<span class="Inputlabel">Search</span>
+<form name="searchForm" method="post" onsubmit="srchTerm('search')" class="Forminput"><input name="sSrchTerm" value="Enter topic" class="Input2" onclick="ClearSearchBox('search')" type="text"><input name="SrchTerm" type="hidden"><input class="Go" value="&nbsp;" src="//im.morningstar.com/im/dot_clear.gif" type="image">
+</form>
+</div>
+
+</div><div id="Navbar">
+<a href="http://members.morningstar.com/memberstpages/membership.htm?pgid=hetabmem" class="Tabon">Membership</a>
+<a href="http://www.morningstar.com/?pgid=hetabhome" class="Tab">Home</a>
+<a href="http://portfolio.morningstar.com/NewPort/Reg/AllView.aspx?pgid=hetabport" class="Tab">Portfolio</a>
+<a href="http://www.morningstar.com/Cover/Stocks.html?pgid=hetabstocks" class="Tab">Stocks</a>
+<a href="http://www.morningstar.com/Cover/Funds.html?pgid=hetabfunds" class="Tab">Funds</a>
+<a href="http://www.morningstar.com/Cover/ETF.html?pgid=hetabetf" class="Tab">ETFs</a>
+<a href="http://www.morningstar.com/Cover/Markets.html?pgid=hetabmarket" class="Tab">Markets</a>
+<a href="http://www.morningstar.com/Cover/Tools.html?pgid=hetabtools" class="Tab">Tools</a>
+<a href="http://www.morningstar.com/Cover/Workshop.html?pgid=hetablearn" class="Tab">Learn</a>
+<a href="http://www.morningstar.com/Cover/PersonalFinance.html?pgid=hetabperfin" class="Tabw">Personal Finance</a>
+<a href="http://socialize.morningstar.com/newsocialize/asp/coverpage.asp?pgid=hetabdiscuss" class="Tab">Discuss</a>
+</div>
+<div id="Tabbase">
+</div>
+</div>
+
+</td></tr>
+<tr><td height="10"></td></tr></tbody></table>
+<script language="JavaScript">
+var wsaction = readWSCookie('wsaction')
+if (wsaction)
+{
+	if(wsaction == "menu1")
+	{
+		setIfrWidth(585);
+		MM_showHideLayers('menu0','','show','menu2','','hide','menu3','','hide');
+	}
+	else if (wsaction == "menu4")
+	{
+		setIfrWidth(585);
+		MM_showHideLayers('menu0','','hide','menu2','','show','menu3','','hide')
+	}
+	else if (wsaction == "menu5")
+	{
+		setIfrWidth(585);
+		MM_showHideLayers('menu0','','hide','menu2','','hide','menu3','','show')
+	}
+	else if (wsaction == "hide")
+	{
+		setIfrWidth(728);
+		MM_showHideLayers('menu0','','hide','menu2','','hide','menu3','','hide')	
+	}
 }
 
-function ClearSearchBox()
+function readWSCookie(cookieName)
 {
-	var text = document.searchForm.sSrchTerm.value;
-	if (text == "Enter ticker, name or topic")
-		document.searchForm.sSrchTerm.value = "";
+	var name = cookieName + "=";
+	var arrCookies = document.cookie.split(';');
+	for(var i=0;i < arrCookies.length;i++)
+	{
+		var c = arrCookies[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+	}
+	return null;
 }
 </script>
-<style>
-<!--
-.L1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 14px; color: #333333 }
-.F3 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }
-.LG1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 14px; color: #CCCCCC; text-decoration: none }
-.navboldlink { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #CCCCCC; text-decoration: none }
-.BB1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; line-height: 14px; color: #333333; text-decoration: none }
--->
-</style>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody>
-    <tr valign="top">
-      <td width="33%" align="left"><a href="http://www.morningstar.com/" target="_top"><img src="//im.morningstar.com/im/MstarLogo2.gif" width="209" height="38" border="0" alt="Morningstar.com"></a></td>
-      <td width="20%"><img src="//im.morningstar.com/im/dot_clear.gif" width="211" height="1" border="0"></td>
-      <td width="47%" align="right" valign="bottom" class="BB1"><a href="http://members.morningstar.com/memberstpages/membership.htm?topnav=membership" class="BB1">Membership</a> | <a href="http://www.morningstar.com/Cover/Products.html?topnav=products" class="BB1">Store</a> | <a href="http://www.morningstar.com/Cover/Help.html?topnav=help" class="BB1">Help</a> | <a href="http://corporate.morningstar.com/US/asp/home.aspx?xmlfile=202.xml" class="BB1">Company Site</a> | <a href="http://corporate.morningstar.com/US/asp/subject.aspx?filter=refresh&amp;xmlfile=126.xml" class="BB1">Company News</a><br><img src="//im.morningstar.com/im/dot_clear.gif" width="340" height="5" border="0"></td>
-    </tr>
-    <tr valign="top">
-      <td align="left" bgcolor="#ff0000" height="5"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
-      <td bgcolor="#ff0000"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
-      <td align="right" bgcolor="#ff0000"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
-    </tr>
-  </tbody>
-</table>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-  	              <td align="center" valign="top" height="1" bgcolor="#666666"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
-		<td align="center" valign="top" height="1" bgcolor="#666666"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
-		<td align="right" valign="top" bgcolor="#666666"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
-		<td align="right" valign="top" bgcolor="#666666"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
-		<td align="right" valign="top" bgcolor="#666666"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td></tr>
-  	<tr>
-  	<td align="center" valign="top" height="5" bgcolor="#333333"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
-		<td align="center" valign="top" height="5" bgcolor="#333333"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
-		<td align="right" valign="top" bgcolor="#333333"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
-		<td align="right" valign="top" bgcolor="#333333"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
-		<td align="right" valign="top" bgcolor="#333333"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td></tr>
-</tbody></table>
- 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-	<tbody><tr>
-		<td height="1" bgcolor="#CCCCCC"><img src="//im.morningstar.com/im/dot_clear.gif" height="1" width="608"></td>
-		<td height="1" bgcolor="#CCCCCC"><img src="//im.morningstar.com/im/dot_clear.gif" height="1" width="152"></td></tr>
-	<tr valign="CENTER" bgcolor="#333333">
-		<td height="24" class="LG1">&nbsp;<a href="http://www.morningstar.com/?topnav=home" target="_top" class="navboldlink">Home</a>&nbsp;|&nbsp;<a href="http://portfolio.morningstar.com/portasp/allview.asp?topnav=portfolio" target="_top" class="navboldlink">Portfolio</a>&nbsp;|&nbsp;<a href="http://www.morningstar.com/Cover/Stocks.html?topnav=stocks" target="_top" class="navboldlink">Stocks</a>&nbsp;|&nbsp;<a href="http://www.morningstar.com/Cover/Funds.html?topnav=funds" target="_top" class="navboldlink">Funds</a>&nbsp;|&nbsp;<a href="http://www.morningstar.com/Cover/ETF.html?topnav=etfs" target="_top" class="navboldlink">ETFs</a>&nbsp;|&nbsp;<a href="http://www.morningstar.com/Cover/Markets.html?topnav=markets" target="_top" class="navboldlink">Markets</a>&nbsp;|&nbsp;<a href="http://www.morningstar.com/Cover/Tools.html?topnav=tools" target="_top" class="navboldlink">Tools</a>&nbsp;|&nbsp;<a href="http://www.morningstar.com/Cover/Workshop.html?topnav=workshop" target="_top" class="navboldlink">Learn</a>&nbsp;|&nbsp;<a href="http://www.morningstar.com/Cover/PersonalFinance.html?topnav=finance" target="_top" class="navboldlink">Personal Finance</a>&nbsp;|&nbsp;<a href="http://socialize.morningstar.com/newsocialize/asp/coverpage.asp?topnav=conversations" target="_top" class="navboldlink">Discuss</a></td>
-		<td align="RIGHT" height="24"><a href="http://members.morningstar.com/prism/registrationFree.html?referid=A1151"><img src="https://im.morningstar.com/im/Login/Register2002.gif" border="0" height="16" width="80"></a><a href="http://members.morningstar.com/DotNet/LogIn.aspx"><img src="https://im.morningstar.com/im/login/LogIn2002.gif" border="0" height="16" width="72"></a></td></tr>
-	<tr bgcolor="#666666"> 
-		<td height="1"><bgcolor color="#FFFFFF"><img src="//im.morningstar.com/im/dot_clear.gif" height="1"></bgcolor></td>
-		<td height="1"><bgcolor color="#FFFFFF"><img src="//im.morningstar.com/im/dot_clear.gif" height="1"></bgcolor></td></tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td bgcolor="#999999" width="195"><img src="//im.morningstar.com/im/dot_clear.gif" height="1" width="195"></td>
-		<td bgcolor="#999999"><img src="//im.morningstar.com/im/dot_clear.gif" height="1" width="370"></td>
-		<td bgcolor="#999999"><img src="//im.morningstar.com/im/dot_clear.gif" height="1" width="195"></td></tr>
-	<tr bgcolor="#d6efff">
-		<form name="searchForm" method="post" onsubmit="srchTerm()"></form>
-			<td width="175" class="labelbold"><img src="//im.morningstar.com/im/dot_clear.gif" height="24" width="195"></td>
-			<td>
-				<input type="text" name="sSrchTerm" value="Enter ticker, name or topic" size="24" maxlength="50" class="F3" onclick="ClearSearchBox()">
-				<input type="image" name="quote" src="//im.morningstar.com/im/SER_QuotesandReports.gif" width="113" height="16" align="ABSMIDDLE" onclick="setSearchType('quote')">
-				<input type="image" name="search" src="//im.morningstar.com/im/SER_Search.gif" width="69" height="16" align="ABSMIDDLE" onclick="setSearchType('search')"></td>
-			<td width="100%" class="L1">&nbsp;<!-- AdSpace keyword=SETXTAD  --><!-- /AdSpace --></td>
-			<input type="hidden" name="SrchTerm">
-			<input type="hidden" name="SrchType">
-		
-	</tr>
-	<tr bgcolor="#999999">
-		<td><img src="//im.morningstar.com/im/dot_clear.gif" height="1" width="195"></td>
-		<td><img src="//im.morningstar.com/im/dot_clear.gif" height="1" width="370"></td>
-		<td><img src="//im.morningstar.com/im/dot_clear.gif" height="1" width="195"></td></tr>
-</tbody></table>
+<!--end of header-->
 <table width="605" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td><img src="http://im.morningstar.com/im/dot_clear.gif" height="15" width="131"></td>
@@ -251,19 +341,14 @@ You can edit any of the personal information you've provided by visiting the <a 
   </tr>
 </tbody></table>
 
-<style>
-<!--
-.L1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 14px; color: #333333 }
-.B1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; line-height: 14px; color: #333333 }
-.F1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px }
--->
-</style>
+<link rel="stylesheet" type="text/css" href="http://www.morningstar.com/footer.css">
 <script language="JavaScript">
-<!--
-var browser_type=navigator.appName
+function footeropenwin(windowName,width,height) {
+  newWindow = window.open(windowName, 'newWindow','toolbar=no,location=no,menubar=no,width='+width+',height='+height+',scrollbars=yes,resizable=no');
+}
 
 function openPlayerSelection(windowURL) {  
-	playerSelectWin = window.open(windowURL,'playerSelectWin','toolbar=no,titlebar=no,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=312,height=480,top=20,left=10');   
+	playerSelectWin = window.open(windowURL,'playerSelectWin','toolbar=no,titlebar=no,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=312,height=480,top=20,left=10');   
 }
 
 function openEmailwin(windowName) {
@@ -273,109 +358,26 @@ function openEmailwin(windowName) {
 		newWindow = window.open(windowName, 'myWindow','toolbar=no,location=no,menubar=no,width=312,height=355,scrollbars=no,resizable=no');
 	}
 }
-
-function footeropenwin(windowName,width,height) {
-  newWindow = window.open(windowName, 'newWindow','toolbar=no,location=no,menubar=no,width='+width+',height='+height+',scrollbars=yes,resizable=no');
-}
-
-function goSearch() {
-	 var selectNum = document.footerData.SeleCatAlias.selectedIndex;
-	 var qyTxt = document.footerData.SrchTerm.value;
-	
-	 if (selectNum == 1)
-	 {
-	    return false;
-	 }      
-	 
-	 if (selectNum != 7)
-	 {
-	    document.footerData.action="http://search.morningstar.com/MstarSrch/MstarSrch2.aspx";
-	    document.footerData.method="POST";
-	    document.footerData.submit();
-	 } else {
-	    var linkad = "http://search.morningstar.com/se/s97_cgi.exe?Action=FilterSearch&Filter=SocFilter.filt&SrcText=" + escape(qyTxt) + "&SrcRadio=1";
-	    window.location=linkad;
-	    return false;
-	 }
-}
-//-->
 </script>
+<div class="LayerFooter" align="center">
+<div class="F10" style="position:relative; float:left; width:955px; height:22px; background-color:#333333; ">
+<a href="http://news.morningstar.com/Corrections/CorrectionsList.html?pgid=hefootcorrections" class="footer">Corrections</a>
+<a href="http://www.morningstar.com/SiteMap.html?pgid=hefootsitemap" class="footer">Site Map</a>
+<a href="http://www.morningstar.com/Cover/Help.html?pgid=hefoothelp" class="footer">Help</a>
+<a href="http://www.morningstar.com/AboutUs/MediaKit.html?pgid=hefootadvopps" class="footer">Advertising Opportunities</a>
+<a href="http://search.morningstar.com/Glossary/glossary_A_B.html" class="footer">Glossary</a>
+<a href="http://www.morningstar.com/Products/Store_StoreCoverPage.html" class="footer">Store</a>
+</div>
+<div align="center" class="F10" style="position:relative; float:left; width:955px; margin:10px 0px 10px 0px;">
+<a href="javascript:footeropenwin('http://www.morningstar.com/AboutUs/copyright.html',330,200)" class="F10">© Copyright 2005 Morningstar, Inc.</a> All rights reserved. Please read our <a href="javascript:footeropenwin('http://www.morningstar.com/AboutUs/copyright.html',330,200)" class="F10">Terms of Use</a> and <a href="http://members.morningstar.com/memberstpages/PrivacyPolicy.html" class="F10">Privacy Policy</a>.<br>Quotes for NASDAQ are 15 minutes delayed. All other exchanges are delayed 20 minutes.</div>
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#e7e7e7">
-	<form name="footerData" onsubmit="return goSearch()"></form>
-	<tbody><tr>
-		<td bgcolor="#666666"><img src="//im.morningstar.com/im/d.gif" width="1" height="1"></td></tr>
-	<tr>
-		<td><img src="//im.morningstar.com/im/d.gif" width="1" height="4"></td></tr>
-	<tr align="center">
-		<td class="B1">
-			<table width="710" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td><img src="//im.morningstar.com/im/d.gif" width="50" height="5"></td>
-					<td><img src="//im.morningstar.com/im/d.gif" width="150" height="1"></td>
-					<td><img src="//im.morningstar.com/im/d.gif" width="25" height="1"></td>
-					<td><img src="//im.morningstar.com/im/d.gif" width="155" height="1"></td>
-					<td><img src="//im.morningstar.com/im/d.gif" width="330" height="1"></td></tr>
-				<tr>
-					<td class="B1">Search&nbsp;</td>
-					<td>
-						<select name="SeleCatAlias" style="width:135" class="F1">
-						<option value="ALL" selected="">All of Morningstar.com</option>
-						<option>..........................................</option>
-						<option value="msanalysis">Analyst Reports &amp; Data</option>
-						<option value="msarticles">Morningstar Articles</option>
-						<option value="mstools">Tools</option>
-						<option value="msclassroom">Education</option>
-					  <option value="msnews">News</option>
-					  <option value="socialize">Conversation</option>
-						</select>
-					</td>
-					<td class="B1">For</td>
-					<td class="L1">
-						<input type="text" name="SrchTerm" value="" size="15" maxlength="50" class="F1">&nbsp;
-						<input type="image" src="//im.morningstar.com/im/go.gif" width="24" height="16" border="0" align="MIDDLE" class="F1" name="image223">
-					</td>
-					<td class="L1"><a href="http://www.morningstar.com/Cover/Help.html?topnav=help" class="L1">Help</a> &nbsp;|&nbsp; <a href="http://www.morningstar.com/SiteMap.html" class="L1">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://search.morningstar.com/Glossary/glossary_A_B.html" class="L1">Glossary</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.morningstar.com/AboutUs/MediaKit.html" class="L1">Advertising Opportunities</a></td></tr>
-			</tbody></table>
-		</td></tr>
-	<tr>
-  	<td height="10"><img src="//im.morningstar.com/im/d.gif" height="10"></td></tr>
-	<tr>
-  	<td height="1" bgcolor="#999999"><img src="//im.morningstar.com/im/d.gif" height="1"></td></tr>
-	<tr>
-		<td height="1" bgcolor="#FFFFFF"><img src="//im.morningstar.com/im/d.gif" height="1"></td></tr>
-	<tr>
-		<td height="5"><img src="//im.morningstar.com/im/d.gif" height="8" width="5"></td></tr>
-	<tr align="CENTER"> 
-  	<td class="L1">
-			<table width="728" height="90" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td>
-						
-							<!-- AdSpace adtype=SINGLEBIG position=FOOTER --><!-- /AdSpace -->
-						</td></tr>
-			</tbody></table>
-		</td></tr>
-	<tr>
-  	<td height="10"><img src="//im.morningstar.com/im/d.gif" height="10"></td></tr>
- 	<tr>
-  	<td height="1" bgcolor="#999999"><img src="//im.morningstar.com/im/d.gif" height="1"></td></tr>
- 	<tr>
-		<td height="1" bgcolor="#FFFFFF"><img src="//im.morningstar.com/im/d.gif" height="1"></td></tr>
-	<tr>
-		<td height="5"><img src="//im.morningstar.com/im/d.gif" height="5"></td></tr>
-	<tr align="CENTER"> 
-  	<td class="L1"><a href="javascript:footeropenwin('http://www.morningstar.com/AboutUs/copyright.html',330,200)" class="L1">© Copyright 2005 Morningstar, Inc.</a> All rights reserved. Please read our <a href="javascript:footeropenwin('http://www.morningstar.com/AboutUs/copyright.html',330,200)" class="L1">Terms of Use</a> and <a href="http://members.morningstar.com/memberstpages/PrivacyPolicy.html" target="_top" class="L1">Privacy Policy</a>.<br>
-  	Having trouble? Go to <a href="http://www.morningstar.com/Cover/Help.html?topnav=helpfooter" class="L1">Morningstar Help</a> for assistance.
-		</td></tr>
-	<tr>
-		<td height="10"><img src="//im.morningstar.com/im/d.gif" height="10"></td></tr>
-	<tr>
-		<td height="1" bgcolor="#999999"><img src="//im.morningstar.com/im/d.gif" height="1"></td></tr>
-	
-</tbody></table>
-<p>&nbsp;</p>
+<div>
 
+	<!-- AdSpace adtype=SINGLEBIG position=FOOTER --><!-- /AdSpace -->
+</div>
+</div>
+
+<!--include virtual="/BehaviorAds/BehaviorAds.inc" -->
 
 
 </body></html>
