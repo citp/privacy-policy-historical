@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlynx.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306160728id_/http%3A//www.netlynx.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlynx.org privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215083106id_/http%3A//www.netlynx.org/privacy.htm) for the most accurate reproduction.*
 
 # Netlynx Technologies » Domain Name Registration and Web Hosting Mumbai India
 
@@ -35,5 +35,5 @@ Tel: +91-9870005533
 **»** Direct Information Pvt. Ltd.  
 **»** Rediff.com India Ltd  
 **»** Jalaram Infotech  
-**»** Gujarat.com  
+**»** Logic Boxes  
 
