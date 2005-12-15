@@ -1,30 +1,29 @@
-> *The following text is extracted and transformed from the vodahost.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307101249id_/http%3A//www.vodahost.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodahost.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215185624id_/http%3A//www.vodahost.com/privacy.htm) for the most accurate reproduction.*
 
-# VodaHost - Privacy Policy
+# VodaHost Privacy Policy
 
-This privacy policy covers.......
+This privacy policy (statement) covers all  websites that are operated by AffiliSys LLC including VodaHost web hosting www.vodahost.com. Because AffiliSys LLC wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose our information practices.  
+ 
 
-affilisys.com, vodahost.com, vodahost.net, vodahosttemplates.com, vodahostdomains.com, and all other websites that are owned and operated by AffiliSys LLC.  Because AffiliSys LLC wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose our information practices.
-
-1.      What personally identifiable information we [ collect](http://www.myhostingteacher.com/).
+1.      What personally identifiable information VodaHost  collects.
 
 2.      What personally identifiable information third parties collect  
-  through our Websites.
+  through the VodaHost website.
 
 3.      What organization collects the information. 
 
-4.      How AffiliSys LLC uses the information.
+4.      How VodaHost uses the information.
 
-5.      With whom AffiliSys LLC may share user information. 
+5.      With whom VodaHost may share user information. 
 
-6.      What choices are available to users regarding collection, use and  
- distribution of the information. 
+6.      What choices are available to users regarding collection, use   
+  and distribution of the information. 
 
-7.     What types of security procedures are in place to protect the    loss, misuse or alteration of information under AffiliSys LLC control. 
+7.     What types of security procedures are in place to protect the      loss, misuse or alteration of information under VodaHost control. 
 
 8.      How users can correct any inaccuracies in the information. 
 
-If users have questions or concerns regarding this statement, they should first contact [ privacy@affilisys.com](mailto:privacy@softnax.com) __ **Information Collection and Use**
+If users have questions or concerns regarding this privacy policy, they should first contact our [customer support](http://www.support.vodahost.com/) Department. __ **Information Collection and Use**
 
 **Information Collection**
 
@@ -34,51 +33,40 @@ AffiliSys LLC is the sole owner of the information collected on any website that
 
 In order to use one of the above Web sites, a user may first complete a registration form. During registration a user is required to] give[s] contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest.  It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience on our site. 
 
-**Order**
+**VodaHost Order**
 
 We request information from the user on our order or registration form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).  This information is used for billing purposes and to fill customer’s orders.  If we have trouble processing an order, the information is used to contact the user.
 
-**Profile**
+**VodaHost Profile**
 
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users.  A profile is stored information that we keep on individual users that details their viewing preferences.  Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site, and to direct pertinent marketing promotions to them. Your profile will **NEVER BE SHARED** with [ any](http://www.vodahost.com/th/bigvoda3/toshiba-lap-tops.htm) third parties. 
+We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users.  A profile is stored information that we keep on individual users that details their viewing preferences.  Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site, and to direct pertinent marketing promotions to them. Your profile will **NEVER BE SHARED** with any third parties. 
 
 **Cookies**
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies.  For the session ID cookie, once users close the browser, the cookie simply terminates.  A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
+A cookie is a piece of data stored on the user’s computer tied to information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies.  For the session ID cookie, once users close the browser, the cookie simply terminates.  A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. **VodaHost Log Files**
 
-Some of our business partners use cookies on our site.  However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
-
-**Log Files**
-
-Like most standard Web site servers we use log files.  This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.  IP addresses, etc. are not linked to personally identifiable information.  We use our in-house tracking utility that uses log files to analyze user movement 
-
-Clear Gifs (Web Beacons/Web Bugs)
-
-We employ software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users’ personally identifiable information.
-
- In addition, we use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients.  This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.  If users would like to opt-out of these emails, please see the Opt-out section. 
+Like most standard Web site servers we use log files.  This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.  IP addresses, etc. are not linked to personally identifiable information.  We use our in-house tracking utility that uses log files to analyze user movement.  
+. 
 
 Special Offers and Updates
 
 We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
 
-**Newsletter**
+**VodaHost Newsletter**
 
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.  Out of respect for our users privacy we provide a way to opt-out of these communications.  Please see the Choice and Opt-out [ sections](http://www.bluevoda.com/th/website/make-your-own-web-site.htm).
+If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.  Out of respect for our users privacy we provide a way to opt-out of these communications. 
 
-##   
-
-## Service Announcements
+## **VodaHost** Service Announcements
 
 On rare occasions it is necessary to send out a strictly service related announcement.  For instance, if our service is temporarily suspended for maintenance we might send users an email.  Generally, users may not opt-out of these communications, though they can deactivate their account.  However, these communications are not promotional in nature. 
 
-**Customer Service**
+**VodaHost Customer Service**
 
 We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
 
 **Sharing**
 
-## Legal Disclaimer
+## **VodaHost** Legal Disclaimer
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
@@ -88,7 +76,7 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
-Service Providers
+**VodaHost ** Service Providers
 
 We may from time to time partner with other third parties  to provide specific services.  When the user signs up for these particular services, we may share names, or other contact information that is necessary for the third party to provide these services.  These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
@@ -104,7 +92,7 @@ Users who no longer wish to receive our newsletter and promotional communication
 
 ## Links
 
-This Web site contains links to other sites. Please be aware that AffiliSys LLC, is not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  This privacy statement applies solely to [ information](http://www.affilisys.com/value.htm) collected by this Web site. 
+This Web site contains links to other sites. Please be aware that AffiliSys LLC, is not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  This privacy statement applies solely to  information collected by this Web site. 
 
 **Tell-A-Friend**
 
@@ -136,7 +124,7 @@ In order for this Web site to enhance its ability to tailor the site to a user�
 
 We purchase third party marketing data and add it to our existing user database to better target our advertising and provide pertinent offers we think our users would be interested in.  We use this information to enhance or overlay the ‘profile’ of individual users. This aggregate marketing data is therefore tied to the users’ personally identifiable information.  See also the “Profile.”
 
-Correcting/Updating/Deleting/Deactivating Personal [ Information](http://www.affilisys.com/value.htm)
+Correcting/Updating/Deleting/Deactivating Personal  Information
 
 If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can  be done by the user logging in to his/her personal members area.
 
