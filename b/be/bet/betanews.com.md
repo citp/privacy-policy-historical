@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betanews.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418044558id_/http%3A//www.betanews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betanews.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215065504id_/http%3A//www.betanews.com/privacy) for the most accurate reproduction.*
 
 # BetaNews | Privacy Policy
 
