@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oft.gov.uk privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305105505id_/http%3A//www.oft.gov.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oft.gov.uk privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215160917id_/http%3A//www.oft.gov.uk/privacy.htm) for the most accurate reproduction.*
 
-# www.oft.gov.uk
+# OFT website privacy statement
 
 This statement covers the services provided by the OFT website: [www.oft.gov.uk](http://www.oft.gov.uk/)
 
