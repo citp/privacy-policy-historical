@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307235818id_/http%3A//medallia.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215162827id_/http%3A//www.medallia.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
-
-### PRIVACY POLICY 
 
 Medallia, Inc. is committed to safeguarding the privacy of your personally identifiable information. This statement sets forth Medallia’s privacy policy. The policy complies with the privacy principles of TRUSTe, in which Medallia is a member, as well as with the Safe Harbor Program, a framework established by U.S. and European parties for collecting, using, and retaining personally identifiable information from EU countries. 
 
@@ -22,7 +20,7 @@ When Medallia surveys respondents on its own behalf, it does not collect or have
 
 Medallia does not collect or receive sensitive personal information such as: credit card numbers, social security numbers, financial account and transaction information, medical or health information, political opinions, religious or philosophical beliefs, or trade union membership. Medallia does collect demographic information for statistical purposes. Responses to demographic questions are entirely voluntary.
 
-Medallia uses cookies primarily to identify returning users from the same computer and insure the integrity of its research. As part of its basic uses of Internet technology to provide surveys, Medallia also collects technical information such as: respondent IP address; the date and time at which respondents access Medallia’s website and respondent HTTP request headers.
+Medallia uses cookies primarily to identify returning users from the same computer and insure the integrity of its research. We do not link the information we store in cookies to any personally identifiable information users submit while on our site.  As part of its basic uses of Internet technology to provide surveys, Medallia also collects technical information such as: respondent IP address; the date and time at which respondents access Medallia’s website and respondent HTTP request headers.
 
 ### Voluntary Participation
 
@@ -52,16 +50,7 @@ Medallia takes strict physical, technical and procedural measures to keep inform
 
 
 
-###   
-Enforcement
-
-Medallia’s privacy practices are reviewed and audited regularly by TRUSTe (www.truste.org), an independent, nonprofit organization focused on building users' trust and confidence in the internet by promoting disclosure and informed consent. Through its Watchdog program, TRUSTe provides alternative dispute resolution for privacy-related disputes. Individuals may contact TRUSTe to express any concerns regarding Medallia’s privacy practices. The contact information is: 
-
-> TRUSTe  
->  685 Market Street, Suite 560  
->  San Francisco, CA 94105  
->  Phone: (415) 520-3400  
->  Fax: (415) 520-3420 
+Medallia’s privacy practices are reviewed and audited regularly by TRUSTe (www.truste.org), an independent, nonprofit organization focused on building users' trust and confidence in the internet by promoting disclosure and informed consent. Through its Watchdog program, TRUSTe provides alternative dispute resolution for privacy-related disputes. Individuals may contact TRUSTe to express any concerns regarding Medallia’s privacy practices: http://www.truste.org/consumers/watchdog_complaint.php.
 
 Medallia uses the TRUSTe mark(s) under license from TRUSTe pursuant to the requirements of the TRUSTe program, and all rights in the TRUSTe Mark(s) belong to TRUSTe.
 
@@ -71,13 +60,13 @@ When requested by legal authorities to disclose personal information, Medallia w
 
 ### Children's Privacy
 
-Medallia does not knowingly collect any information from any individual under the age of 18. 
+Medallia does not knowingly collect any information from any individual under the age of 18.
 
 ### Notification of Changes
 
-If we decide to change our privacy policy, we will post these changes to the Medallia website 30 days prior to the effective date of the change. All changes will be posted to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. The date of last revision will be shown on the website. 
+If we decide to change our privacy policy, we will post these changes to the Medallia website 30 days prior to the effective date of the change.  All changes will be posted to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.  The date of last revision will be shown on the website. 
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by e-mail, or by means of a notice on our home page. 
+We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by e-mail, or by means of a notice on our home page. 
 
 ### Privacy Contact 
 
