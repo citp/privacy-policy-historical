@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404061547id_/http%3A//www.stansberryresearch.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215045346id_/http%3A//www.stansberryresearch.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Stansberry Privacy Policy
 
@@ -30,4 +30,4 @@ Protected by U.S. Copyright Law {Title 17 U.S.C. Section 101 et seq., Title 18 U
  DISCLAIMER:This work is based on SEC filings, current events, interviews, corporate press releases and what we've learned as financial journalists. It may contain errors and you shouldn't make any investment decision based solely on what you read here. It's your money and your responsibility. Stansberry & Associates Investment Research expressly forbids its writers from having a financial interest in any security they recommend to our subscribers. And all Stansberry & Associates Investment Research (and affiliated companies) employees and agents must wait 24 hours after an initial trade recommendation is published on the Internet, or 72 hours after a direct mail publication is sent, before acting on that recommendation.
 
 [Click here to return home.   
-www.stansberryreseach.com](https://web.archive.org/index.html)
+www.stansberryreseach.com](https://web.archive.org/)
