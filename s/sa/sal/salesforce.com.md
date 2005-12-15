@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salesforce.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618083858id_/http%3A//www.salesforce.com/statements.jsp%3Ffile%3Dprivacy%26src%3Dweb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesforce.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215080904id_/http%3A//www.salesforce.com/statements.jsp%3Ffile%3Dprivacy%26src%3Dweb) for the most accurate reproduction.*
 
-# CRM Software-as-Service | Customer Relationship Management (CRM) On-Demand - Salesforce.com
+# CRM Software | Customer Relationship Management (CRM)
 
 Reproduced by Request of TRUSTe  
 [](https://www.truste.org/ivalidate.php?url=www.salesforce.com) Privacy Statement Reproduced by request of TRUSTe. Salesforce.com, inc., including salesforce.com Sarl and other subsidiaries (collectively, "salesforce.com"), is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
