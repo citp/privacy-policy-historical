@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423003942id_/http%3A//www.nj.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215061501id_/http%3A//www.nj.com/privacypolicy) for the most accurate reproduction.*
 
 # NJ.com: Privacy Policy
 
@@ -74,6 +74,6 @@ INSIDE
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
   
-[](http://ads8.udc.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/privacypolicy/index.ssf/NQS/2031577106/Tile1/NJONLINE/NJO_CAREERS18/InHealthcare_PT2.gif/63666631653164323432363939353130)   
+  
   
 
