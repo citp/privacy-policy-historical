@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legoland.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525113504id_/http%3A//www.lego.com/info/default.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legoland.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215102327id_/http%3A//www.lego.com/info/default.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # LEGO.com About us - LEGO Company - Privacy Policy
 
@@ -85,7 +85,7 @@ In the LEGO Group, we're committed to providing high quality products and servic
 
 Personal information collected online from you may be reviewed by accessing your online account. Members and customers who have registered to set up an online account with us may update their account information and change personal options at anytime. 
 
-If you have not set up an online account with us, or if you have any questions about our online privacy policies or information we may have stored about you or your child, please [click here](https://web.archive.org/web/20050525140111id_/http://www.lego.com/eng/info/chiefprivacyform.asp) to contact our Chief Privacy Officer, or write or call: 
+If you have not set up an online account with us, or if you have any questions about our online privacy policies or information we may have stored about you or your child, please [click here](https://web.archive.org/web/20051215100347id_/http://www.lego.com/eng/info/chiefprivacyform.asp) to contact our Chief Privacy Officer, or write or call: 
 
 LEGO Group Limited   
 33 Bath Road, Slough   
