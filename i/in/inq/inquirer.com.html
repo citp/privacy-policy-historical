@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the inquirer.com privacy policy that was archived on 2005-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050417041702id_/http%3A//www.philly.com/mld/philly/contact_us/terms_of_use) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inquirer.com privacy policy that was archived on 2005-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215071758id_/http%3A//www.philly.com/mld/philly/contact_us/terms_of_use) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <script language="javascript" type="text/javascript">
 
 
@@ -10,250 +10,67 @@ var rm = false;
 </script>
 
 <title>Contact Us : Privacy Policy &amp; Terms of Use -- Philly.com</title>
-<link rel="stylesheet" type="text/css" href="/css/palette/philly/en/global.css">
-
-
-<script type="text/javascript" language="javascript">
-
-_krdDartOrd = new Date().getTime();
-
-_krdDartInc = 0;
-var navReady = false;
-var toolsReady = false;var onLoadScript="";function Browser() {var b=navigator.appName;
-if (b=="Netscape") this.b="ns";
-else if ((b=="Opera") || (navigator.userAgent.indexOf("Opera")>0)) this.b = "opera";
-else if (b=="Microsoft Internet Explorer") this.b="ie";
-// I have disabled the following line, but something similar might be useful later,
-// but launching a popup window is more polite than this alert.
-//if (!b) alert(''Unidentified browser./nThis browser is not supported,'');
-this.version=navigator.appVersion;
-this.v=parseInt(this.version);
-this.ns=(this.b=="ns" && this.v>=4);
-this.ns4=(this.b=="ns" && this.v==4);
-this.ns6=(this.b=="ns" && this.v==5);
-this.ie=(this.b=="ie" && this.v>=4);
-this.ie4=(this.version.indexOf('MSIE 4')>0);
-this.ie4up = (this.ie && this.v>= 4);
-this.ns5up = (this.ns && this.v>= 5);
-this.ie5=(this.version.indexOf('MSIE 5')>0);
-this.ie5up = (this.ie5);
-this.ie55=(this.version.indexOf('MSIE 5.5')>0);
-this.opera=(this.b=="opera");
-this.def=(this.ie||this.dom);var ua=navigator.userAgent.toLowerCase();
-this.mac = (ua.indexOf("mac")!=-1);if (ua.indexOf("win")>-1) this.platform="win32";
-else if (ua.indexOf("mac")>-1) this.platform="mac";
-else this.platform="other";
-}
-var is = new Browser();
-// tiny extra css. these are ONLY used by old browsers.
-// VAST majority of users will NEVER request these files.
-// Even NS4 is around 7% of market and falling
-if (is.ns4 && is.mac==false) {
-var css = "<LINK rel='stylesheet' type='text/css' href='/css/palette/philly/en/browser/ns4.css'>\n";
-document.write(css);
-}
-if (((is.ns4)||(is.ie4))&&( is.mac)) {
-var css = "<LINK rel='stylesheet' type='text/css' href='/css/palette/philly/en/browser/ns4mac.css'>\n";
-document.write(css);
-}
-if (is.ie4 && is.mac==false) {
-var css = "<LINK rel='stylesheet' type='text/css' href='/css/palette/philly/en/browser/ie4.css'>\n";
-document.write(css);
-}
-
-function LayerObject(divId) {
-this.name = divId;
-if (is.ns4) this.ob = eval("document." +divId);
-else if (is.ie4) this.ob = document.all(divId);
-else this.ob = document.getElementById(divId);
-this.x = 0;
-this.y = 0;
-this.width = this.getWidth();
-this.height = this.getHeight();
-}
-LayerObject.prototype.px = (is.version>=5)?"px":"";
-LayerObject.prototype.hideSyntax = (is.ns4)? "hide":"hidden";
-LayerObject.prototype.showSyntax = "visible";// NS4::  Unbelievable, but document.layername.document.imgname works for img-in-layer-in document
-// and it works for img in layer in table in document.
-// but it doesnt work for img in layer in table in table in document.
-// Maybe a workaround exists, but it seems unlikely at this point.
-// The images MUST therefore be nested only one deep....
-LayerObject.prototype.getInlineLeft = function() {
-if (is.ns4) return this.ob.pageX;
-else if ((is.ie) || (is.opera)) {
-var elem = this.ob;
-var xPos = 0;
-var yPos = 0;
-while (elem.offsetParent != null) {
-xPos += elem.offsetLeft;
-yPos += elem.offsetTop;
-elem = elem.offsetParent;
-}
-if (is.mac) xPos += 2;
-return xPos;
-}
-else return (this.ob.offsetLeft + document.body.offsetLeft);
-}
-
-LayerObject.prototype.getInlineTop = function() {
-if (is.ns4) return this.ob.pageY;
-else if ((is.ie) || (is.opera)) {
-var elem = this.ob;
-var yPos=0;
-while (elem.offsetParent != null) {
-yPos += elem.offsetTop;
-elem = elem.offsetParent;
-}
-if (is.mac) yPos += 2;
-return yPos;
-}
-else return (this.ob.offsetTop+ document.body.offsetTop);
-}
-
-//getWidth and getHeight works for both inline and positioned divs.
-LayerObject.prototype.getWidth = function () {
-if (is.ns4) return this.ob.clip.width;
-else if (is.opera) return this.ob.style.pixelWidth;
-else return this.ob.offsetWidth;
-}
-LayerObject.prototype.getHeight = function () {
-if (is.ns4) return this.ob.clip.height;
-else if (is.opera) return this.ob.style.pixelHeight;
-else return this.ob.offsetHeight;
-}
-LayerObject.prototype.hide = function() {
-if (is.ns4) this.ob.visibility = this.hideSyntax;
-else this.ob.style.visibility = this.hideSyntax;
-}
-LayerObject.prototype.show = function() {
-if (is.ns4) this.ob.visibility = this.showSyntax;
-else this.ob.style.visibility = this.showSyntax;
-}
-LayerObject.prototype.moveLayerTo = function(toX, toY) {
-this.x = toX;
-this.y = toY;
-}
-LayerObject.prototype.updateLayer = function() {
-if (is.ns4) {
-this.ob.left = Math.round(this.x) + this.px;
-this.ob.top = Math.round(this.y)+ this.px ;
-}
-else {
-this.ob.style.left = Math.round(this.x) + this.px;
-this.ob.style.top = Math.round(this.y) + this.px;
-}
-}
-//-----------------
-function roll(divName, imgName, which) {
-var suffix = (which==1)?"on":"off"
-if ((is.ns4)&&(divName!=0)) {
-var imgObject = eval("document." + divName +".document.images['"+imgName +"']");
-imgObject.src = eval(imgName + "_" + suffix + ".src");
-}
-else {
-document.images[imgName].src = eval(imgName + "_" + suffix + ".src");
-}
-}
-
-function init() {
-if (onLoadScript) eval(onLoadScript);
-}
-
-// Workaround for the netscape resize problem --
-// namely, on resize ns looses div positioning and
-// styles from css files.
-// This checks to see if the window''s dimensions have
-// actually changed (because Netscape often fires a
-// false onResize event when it forms scrollbars);
-// if the dimensions have changed, page is reloaded
-function resizefix(){
-if((document.resizeFix.initWidth != window.innerWidth) ||
-(document.resizeFix.initHeight != window.innerHeight))
-{
-document.location = document.location;
-}
-}
-
-// This code creates a new object with properties
-// to hold the current window width & height to be
-// used in the event of a netscape resize
-document.resizeFix = new Object();
-if(is.ns4){
-document.resizeFix.initWidth = window.innerWidth;
-document.resizeFix.initHeight = window.innerHeight;
-window.onresize=resizefix;
-}
-
-
-
-
-
-
-
-function initMenus(){
-}
-
-
-
-function showResults(siteSurveyKey) {
-var url="/mld/templates/contentModules/poll-results-popup.jsp"+ "?siteSurveyKey=" + siteSurveyKey;
-window.open(url, 'Title');
-}
-
-function openWin(URL) {
-aWindow = window.open(URL,
-'thewindow','width=500,height=400,resizable=yes,scrollbars=yes');
-}
-function getSite(){
-foundSite = false;
-site=document.location.hostname;
-endPos=site.indexOf(".com");
-if (endPos>= 1) {
-foundSite = true;
-site = site.substr(0, endPos);
-startPos = site.lastIndexOf(".");
-site = site.substr(startPos + 1);
-}
-return site;
-}
-function getPublication(){
-publication=document.location.pathname;
-startPos=publication.indexOf("/mld/");
-publication=publication.substr(startPos+5);
-endPos=publication.indexOf("/");
-publication=publication.substr(0,endPos);
-return publication;
-}
-function openSlideshow(url,width,height) {
-y=Math.floor((screen.availHeight-height)/2);
-x=Math.floor((screen.width-width)/2);
-window.open(url,'slideshow','width='+width+',height='+height+',top='+y+',left='+x+',scrollbars=yes,resizable=yes').focus();
-}
-
-
-
+<link rel="stylesheet" type="text/css" href="/css/palette/philly/en/sdp.css">
+<script type="text/javascript" language="javascript1.1">
+var krd_site = "philly";
+var krd_site_display_name = "Philly.com";
+var krd_publication = "philly";
+var krd_topix_property = "5008";
 </script>
+<script type="text/javascript" language="javascript" src="/js/global.js"></script>
+
+
+
+
+
+
+
 </head>
-<body class="body" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
-
-<!-- CDS : SDP2.5.4_full_03292005_100000 : production --><table width="768" cellspacing="0" cellpadding="0" border="0" style="margin-bottom:5px;">
-<tbody><tr><td class="header1">
-
-
-<a href="https://apps.pnionline.com/readerservices/"><img src="/images/logos/site/philly/philly/mediapartners/sm_logo_inquirer.jpg" alt="Subscriber Services" hspace="0" vspace="1" border="0"><br>Subscriber Services</a>
+<body>
+<div id="wrapper">
+<div id="header">
+<!-- <span style="color: red;">prod@SDP3.3.0_27564</span> --><div id="masthead"><div class="header1">
 
 
-<div class="header1" style="font-size:1em; border-top:1px solid #cccccc; padding-top:2px; margin-top:2px;"><a href="http://www.pnionline.com/readerservices/subscribe/dn_delivery.asp"><img src="/images/logos/site/philly/philly/mediapartners/sm_logo_dailynews.jpg" alt="Subscriber Services" hspace="0" vspace="1" border="0"><br>Subscriber Services</a></div>
 
 
-</td><td class="header2">
-<a href="/"><img src="/images/logos/site/philly/philly/site_logo_340x60.gif" width="340" height="60" alt="" hspace="0" vspace="0" border="0"></a>
-</td><td class="header3">
+<a href="https://apps.pnionline.com/readerservices/">
+
+
+
+
+<img src="/images/logos/site/philly/philly/mediapartners/sm_logo_inquirer.jpg" alt="Subscriber Services" hspace="0" vspace="1" border="0"><br>
+Subscriber Services</a>
+
+
+
+
+<a href="http://www.pnionline.com/readerservices/subscribe/dn_delivery.asp">
+
+
+
+
+<img src="/images/logos/site/philly/philly/mediapartners/sm_logo_dailynews.jpg" alt="Subscriber Services" hspace="0" vspace="1" border="0"><br>
+Subscriber Services</a>
+
+
+
+</div><div class="header2">
+<a href="/">
+
+
+
+<img src="/images/logos/site/philly/philly/site_logo_340x60.gif" width="340" height="60" alt="" hspace="0" vspace="0" border="0">
+
+</a>
+
+</div>
+<div class="header3">
 
 
 
 <a href="http://weather.philly.com"><img src="http://banners.wunderground.com/banner/krd_nosevere_cond/language/www/US/PA/Philadelphia.gif" alt="Weather" hspace="0" vspace="0" border="0"></a>
-<br>
+
 
 
 
@@ -261,19 +78,25 @@ window.open(url,'slideshow','width='+width+',height='+height+',top='+y+',left='+
 
 
 
-</td><td class="header4">
 
+</div>
+<div class="header4">
+
+<div class="container_ad">
 <script language="JavaScript1.1">
 _krdDartInc++;
 document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=header;c2=terms_of_use;c3=terms_of_use_homepage;pos=header;group=160x60;dcopt=ist;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=header;c2=terms_of_use;c3=terms_of_use_homepage;pos=header;group=160x60;dcopt=ist;tile=1;ord=1580474313669?"></script>
+</script>
 <noscript>
-<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=header;c2=terms_of_use;c3=terms_of_use_homepage;pos=header;group=160x60;ord=1113711481726?" TARGET="_blank">
-<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=header;c2=terms_of_use;c3=terms_of_use_homepage;pos=header;group=160x60;ord=1113711481726?" BORDER="0" ></A>
+<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=header;c2=terms_of_use;c3=terms_of_use_homepage;pos=header;group=160x60;ord=1134631078405?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=header;c2=terms_of_use;c3=terms_of_use_homepage;pos=header;group=160x60;ord=1134631078405?" BORDER="0" ></A>
 </noscript>
+</div>
 
 
-</td></tr></tbody></table>
+</div>
+<div class="divclear"></div>
+</div>
 
 
 
@@ -287,18 +110,20 @@ return false;
 }
 return true;
 }
-</script><table cellspacing="0" cellpadding="0" border="0" width="768"><tbody><tr><td class="navbg1" style="font-size:2px; line-height:2px;">&nbsp;</td></tr><tr><td align="center" class="navbg1">
+</script><div class="leaderboard">
+<div class="container_ad">
 <script language="JavaScript1.1">
 _krdDartInc++;
 document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;tile=2;ord=1580474313669?"></script>
+</script>
 <noscript>
-<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;ord=1113711481729?" TARGET="_blank">
-<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;ord=1113711481729?" BORDER="0" ></A>
+<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;ord=1134631078407?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;ord=1134631078407?" BORDER="0" ></A>
 </noscript>
+</div>
 
-</td></tr><tr><td class="navbg1" style="font-size:2px; line-height:2px;">&nbsp;</td></tr></tbody></table><table cellspacing="0" cellpadding="0" border="0" width="768">
-<form action="http://www.philly.com/mld/philly/search/search_results.htm" method="get" name="SearchForm_top" onsubmit="return searchFormSubmit(this)"></form>
+</div>
+<div id="searchbar"><form action="http://www.philly.com/mld/philly/search/search_results.htm" method="get" name="SearchForm_top" onsubmit="return searchFormSubmit(this)">
 <input type="hidden" name="pubName" value="philly">
 <input type="hidden" name="orderBy" value="date">
 <input type="hidden" name="pageStart" value="1">
@@ -311,8 +136,7 @@ document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/
 <input type="hidden" name="pageSize" value="10">
 <input type="hidden" name="fieldsToSearch" value="HEADLINE,FORSEARCH,LEAD,BYLINE">
 <input type="hidden" name="queryType" value="all">
-<tbody><tr style="background-color:#f2f2f2;">
-<td class="newsearch">
+<div class="commonsearch">
 
 <b>Search</b>&nbsp;
 
@@ -330,10 +154,10 @@ document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/
 
 
 
-<b>for&nbsp;&nbsp;</b><input name="query" size="25" maxlength="256" type="text">&nbsp;&nbsp;<input value="Go" type="submit">
+<b>for&nbsp;&nbsp;</b><input name="query" size="30" maxlength="256" type="text">&nbsp;&nbsp;<input value="Go" type="submit">
 
-</td><script language="javascript" type="text/javascript">
-document.write('<td class="newregbox">');
+</div><script language="javascript" type="text/javascript">
+document.write('<div class="commonreg"><div class="commonreg_inner">');
 if (rm) {
 document.write('Welcome <b>' + rname + '</b><br>');
 
@@ -346,18 +170,17 @@ document.write('	Welcome <b>Guest</b><br />');
 document.write('	<a href="https://registration.philly.com/reg/createAccount.do">Sign Up</a>&nbsp;|&nbsp;<a href="https://registration.philly.com/reg/login.do">Sign In</a>&nbsp;|&nbsp;');
 document.write('	<a href="https://registration.philly.com/reg/memberBenefits.do">Member Benefits</a>');
 }
-document.write('</td>');
-</script><td class="newregbox">	Welcome <b>Guest</b><br>	<a href="https://registration.philly.com/reg/createAccount.do">Sign Up</a>&nbsp;|&nbsp;<a href="https://registration.philly.com/reg/login.do">Sign In</a>&nbsp;|&nbsp;	<a href="https://registration.philly.com/reg/memberBenefits.do">Member Benefits</a></td>
-</tr>
-</tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0" width="768">
-<tbody><tr><td class="columndiv" width="134"><img src="/images/common/spacer.gif" width="134" height="1"></td><td class="columndiv" width="1"><img src="/images/common/spacer.gif" width="1" height="1"></td><td class="columndiv" width="472"><img src="/images/common/spacer.gif" width="472" height="1"></td><td class="columndiv" width="1"><img src="/images/common/spacer.gif" width="1" height="1"></td><td class="columndiv" width="160"><img src="/images/common/spacer.gif" width="160" height="1"></td></tr><tr>
-<td class="leftrail" valign="top" align="center" width="134">
-
+document.write('</div></div><div class="divclear"></div>');
+</script><div class="commonreg"><div class="commonreg_inner">	Welcome <b>Guest</b><br>	<a href="https://registration.philly.com/reg/createAccount.do">Sign Up</a>&nbsp;|&nbsp;<a href="https://registration.philly.com/reg/login.do">Sign In</a>&nbsp;|&nbsp;	<a href="https://registration.philly.com/reg/memberBenefits.do">Member Benefits</a></div></div><div class="divclear"></div>
+</form>
+</div>
+</div>
+<div id="contentarea">
+<div id="leftrail">
 
 
-<link rel="stylesheet" type="text/css" href="http://www.philly.com/css/palette/philly/en/global.css">
+
+<div class="container_freeform"><link rel="stylesheet" type="text/css" href="http://www.philly.com/css/palette/philly/en/global.css">
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr><td align="left" bgcolor="white">
@@ -392,7 +215,7 @@ document.write('</td>');
 <div class="contentnav"><a href="/mld/philly/entertainment/"><b>Entertainment</b></a></div>
 <div class="contentnav"><a href="/mld/philly/business/"><b>Business</b></a></div>
 <div class="contentnav"><a href="/mld/philly/living/people/women/"><b>PhillyWomen</b></a></div>
-<div class="contentnav"><a href="/mld/philly/living/home/"><strong>Home</strong></a></div>
+<div class="contentnav"><a href="/mld/philly/living/home/"><strong>Home &amp; Design</strong></a></div>
 <div class="contentnav"><a href="/mld/philly/living/health/"><strong>Health</strong></a></div>
 <div class="contentnav"><a href="/mld/philly/living/travel/"><strong>Travel</strong></a></div>
 <div class="contentnav"><a href="/mld/philly/living/education/"><strong>Education</strong></a></div>
@@ -412,25 +235,25 @@ document.write('</td>');
 	
 </td></tr></tbody></table>	 
 <!-- end site nav -->
-
-<link rel="stylesheet" type="text/css" href="http://www.philly.com/css/palette/philly/en/global.css">
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+</div>
+<div class="container_freeform"><table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr><td align="left" bgcolor="white">
 
 <!-- online extras -->
 <div class="navtitlebar">ONLINE EXTRAS</div>
-<div class="contentnav"><a href="/mld/philly/archives/"><b>Archives</b></a></div>
-<div class="contentnav"><a href="http://maps.philly.com/jump.cgi/refsrc=KR.1222"><b>Maps &amp;  directions</b></a></div>
+
+<div class="contentnav"><a href="http://www.philly.com/mld/philly/entertainment/special_packages/holiday_guide/"><b>Holiday Gift Guide</b></a></div>
+<div class="contentnav"><a href="/mld/philly/archives/"><b>Past articles</b></a></div>
+<div class="contentnav"><a href="http://www.switchboard.com/bin/cgimap.dll?FUNC=MAPSEARCH&amp;MEM=1222"><b>Maps &amp;  directions</b></a></div>
 <div class="contentnav"><a href="https://registration.philly.com/reg/accLogin.do?navType=subscriptions&amp;navPage=subscriptions&amp;loginForward=globalUpdateSubscriptionsForward&amp;url=http://www.philly.com/mld/philly/"><b>Newsletters</b></a></div>
-<div class="contentnav"><a href="http://www.philly.com/mld/philly/news/transportation/"><b>Traffic reports</b></a></div>
+<div class="contentnav"><a href="http://www.traffic.com/Philadelphia-Traffic/Philadelphia-Traffic-Reports.html?AWOPARTNER=PHILLYCOM"><b>New! Traffic reports</b></a></div>
 <div class="contentnav"><a href="http://weather.philly.com"><b>Weather</b></a></div>		
-<div class="contentnav"><a href="http://yp.philly.com/bin/cgidir.dll?MEM=1222"><b>Yellow  Pages</b></a></div>			
+<div class="contentnav"><a href="http://yp.philly.com/bin/cgidir.dll?MEM=1222"><b>Yellow Pages</b></a></div>			
 <div class="contentnav"><a href="http://forums.philly.com/dir-app/nav/forumdirectory.aspx?webtag=kr-phillyz&amp;byName=y"><b>Discussion boards</b></a></div>
 <div class="contentnav"><a href="http://contests.philly.com/"><b>Freebies</b></a></div> 
+<div class="contentnav"><a href="http://newspaperads.philly.com/rop/subcat.aspx?cat=3328&amp;subcat=3354"><b>Weddings/<br>engagements</b></a></div>
 <div class="contentnav"><a href="http://specialsections.philly.com/"><b>Special sections</b></a></div>
-<div class="contentnav"><a href="http://www.philly.com/mld/philly/shopping/newspaper_ads/"><b>Newspaper ads online</b></a></div>
+<div class="contentnav"><a href="http://www.philly.com/mld/philly/shopping/newspaper_ads/"><b>View print ads</b></a></div>
 <div class="contentnav"><a href="http://www.tribe.net/tribe/servlet/template/pub,CampaignLanding.vm?token=PHLF" target="_blank"><b>Reader reviews</b></a></div>
 
 
@@ -438,12 +261,14 @@ document.write('</td>');
 <div class="navtitlebar">SITE SERVICES</div>
 
 <div class="contentnav"><a href="/mld/philly/contact_us/"><b>Help/Contact us</b></a></div>
-<!-- <div class="contentnav"><A HREF="/mld/philly/contact_us/feedback/"><B>Contact us</B></A></div>  -->
+<div class="contentnav"><a href="/mld/philly/contact_us/advertise/"><b>Advertise</b></a></div>
+
+<!-- <div class="contentnav"><A HREF="http://www.pnionline.com/"><B>Advertise</B></A></div>  -->
 <div class="contentnav"><a href="http://go.philly.com/buyphotos"><b>Buy photos</b></a></div>
 <div class="contentnav"><a href="https://newsstand.pnionline.com/store"><b>Online store</b></a></div>
 
-<div class="contentnav"><a href="/mld/philly/contact_us/advertise/"><b>Advertise</b></a></div>
-<div class="contentnav"><a href="https://apps.pnionline.com/readerservices/"><b>Subscribe/Services</b></a></div>
+
+<!-- <div class="contentnav"><A HREF="https://apps.pnionline.com/readerservices/"><B>Subscribe/Services</B></A></div> -->
 <div class="contentnav"><a href="http://www.philly.com/mld/philly/rss/"><b>RSS</b></a> </div>
 <br>
 
@@ -453,16 +278,21 @@ document.write('</td>');
 <div class="contentnav" style="font-size:.9em;">
 <ul style="margin:0px; padding-left:15px; padding-bottom:0px; list-style-type:square;">
 <li><a href="http://www.tribe.net/tribe/servlet/template/pub,CampaignLanding.vm?token=PHFD" target="_blank">Tribe.net</a>
+</li><li><a href="http://www.phillyfunguide.com" target="_blank">PHILLYfunguide.com</a>
 </li><li><a href="http://www.nbc10.com/" target="_blank">NBC10.com</a>
 </li><li><a href="http://www.buckscountymidweek.com/" target="_blank">Bucks Midweek</a>
 </li><li><a href="http://www.montgomerycountymidweek.com/" target="_blank">Montco Midweek</a>
 </li><li><a href="http://www.northeasttimes.com/" target="_blank">Northeast Times</a>
 </li><li><a href="http://www.tasteofphiladelphia.com/" target="_blank">Taste of Phila.</a>
-</li><li><a href="http://www.fi.edu/" target="_blank">Franklin Institute</a>
+</li><li><a href="http://www.demarcosfoods.com/" target="_blank">DeMarco's Italian Specialties</a>
+</li><li><a href="http://phillyneighborhoods.org" target="_blank">PhillyNeighborhoods.org</a>
 </li><li><a href="http://homesandliving.com/" target="_blank">Homes and Living</a>
 </li><li><a href="http://www.beachandbayhomes.com/" target="_blank">Beach and Bay Homes</a>
 </li><li><a href="http://www.activeadulthousing.com/" target="_blank">Active Adult Housing</a>
 </li><li><a href="http://www.4mywedding.com/" target="_blank">My Wedding</a>
+
+
+
 
 </li></ul>
 </div><br>
@@ -472,375 +302,463 @@ document.write('</td>');
 
 
 
+</div>
 
-</td><td class="columndiv" rowspan="2"><img src="/images/common/spacer.gif" width="1" height="1"></td>
-<td class="centerrail" valign="top" align="center" width="472">
+</div>
+<div id="centerrail">
 
 
 
 
-<div align="center">
-<table border="0" cellpadding="0" cellspacing="2" width="97%">
-<tbody><tr><td valign="middle"><a href="/mld/philly/" class="related">Back to Home</a>&nbsp;&gt;&nbsp;
-<a href="/mld/philly/contact_us/"> Contact Us </a> &gt;
-</td><td align="right" class="byline">Sunday, Apr 17, 2005</td></tr><tr><td colspan="2" align="center" bgcolor="#ffffff"> <img src="/images/common/spacer.gif" width="1" height="1"><br></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="97%">
-<tbody><tr> <td align="center" class="pagetitle" width="100%">Privacy Policy &amp; Terms of Use</td><td align="right" width="1" valign="top"><img src="/images/common/spacer.gif" width="1" height="1"></td><td align="right" valign="top">
+<div class="pagetitle">
 
-</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="97%" align="center">
-<tbody><tr><td align="center">
-<img src="/images/common/spacer.gif" width="1" height="2"><br></td></tr><tr><td align="center" bgcolor="#cccccc">
-<img src="/images/common/spacer.gif" width="1" height="2"><br></td></tr><tr><td align="center">
-<img src="/images/common/spacer.gif" width="1" height="2"><br></td></tr><tr><td align="center" bgcolor="#cccccc">
-<img src="/images/common/spacer.gif" width="1" height="1"><br></td></tr></tbody></table><img src="/images/common/spacer.gif" width="100%" height="5"><br></div>
+<div class="breadcrumb" style="float: left;">
+<a href="/mld/philly/">Back to Home</a>&nbsp;&gt;&nbsp;
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td width="10"><img src="/images/common/spacer.gif" width="10" height="1" border="0"></td><td><p><a href="#terms">Go to Terms of Use </a></p>
+
+
+
+
+
+<a href="/mld/philly/contact_us/"> Contact Us </a>&nbsp;&gt;
+
+
+
+
+
+
+</div>
+<div class="timestamp" style="float: right;">Thursday, Dec 15, 2005</div>
+<div style="clear:both;" class="pagetitletext">Privacy Policy &amp; Terms of Use</div>
+</div>
+<div class="container_freeformpadded"><script type="text/javascript">
+var myhost= document.location.host;
+var linkis = "http://www.truste.org/ivalidate.php?url=" + myhost + "&amp;sealid=101";
+document.write ('<a href="' + linkis + '">' +
+	'<img align="right" src="/images/common/footer/truste_verify_logo.gif" alt="TRUSTe"></a>');
+</script><a href="http://www.truste.org/ivalidate.php?url=web.archive.org&amp;sealid=101"><img align="right" src="/images/common/footer/truste_verify_logo.gif" alt="TRUSTe"></a>
+
+<div style="text-align:left;">
+<p><a href="#terms">Go 
+to Terms of Use </a></p>
 <p><font size="3"><b><font size="4">Privacy Policy</font></b></font></p>
 <p><font size="-1">Effective January 13, 2005</font></p>
-<p>All Knight Ridder owned sites, including this site, are covered by the policies 
-  herein. Knight Ridder Digital (KRD) is part of the Real Cities Network (or "RCN"), 
-  a national network of Internet sites serving geographic and common interest 
-  communities across the United States. RCN affiliates each have their own Terms 
-  of Use and Privacy Policies. Please review all affiliate's policies to understand 
-  the privacy terms applicable on their sites. You can view the sites included 
-  in the Real Cities Network at <a href="http://www.realcities.com">http://www.realcities.com</a>. 
-</p>
+<p>All Knight Ridder owned sites, including
+<script>document.write(krd_site_display_name);</script>Philly.com<noscript>this site</noscript>, are covered by the policies herein. Knight 
+Ridder Digital (KRD) is part of the Real Cities Network (or "RCN"), a national 
+network of Internet sites serving geographic and common interest communities 
+across the United States. RCN affiliates each have their own Terms of Use and 
+Privacy Policies. Please review all affiliate's policies to understand the 
+privacy terms applicable on their sites. You can view the sites included in the 
+Real Cities Network at <a href="http://www.realcities.com/">http://www.realcities.com/</a>. </p>
 <p>Knight Ridder Digital is a licensee of the TRUSTe Privacy Program. TRUSTe is 
-  an independent, non-profit organization whose mission is to build users' trust 
-  and confidence in the Internet by promoting the use of fair information practices. 
-  This privacy statement covers the site listed here: <a href="http://www.knightridder.com/digital/websites.html">http://www.knightridder.com/digital/websites.html 
-  </a></p>
-<p>Because this web site wants to demonstrate its commitment to your privacy, 
-  it has agreed to disclose its information practices and have its privacy practices 
-  reviewed for compliance by TRUSTe. If you have questions or concerns regarding 
-  this statement, you should first contact Member Services at: 1-877-223-7355. 
-  If you do not receive acknowledgment of your inquiry, or if your inquiry is 
-  not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe 
-  Dispute Resolution Process at <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a>. 
-  TRUSTe will serve as a liaison with the Web site to resolve your concerns. </p>
+an independent, non-profit organization whose mission is to build users' trust 
+and confidence in the Internet by promoting the use of fair information 
+practices. This privacy statement covers the site listed here: <a href="http://www.knightridder.com/digital/websites.html">http://www.knightridder.com/digital/websites.html</a></p>
+<p>Because this web site wants to demonstrate its commitment to your privacy, it 
+has agreed to disclose its information practices and have its privacy practices 
+reviewed for compliance by TRUSTe. If you have questions or concerns regarding 
+this statement, you should first contact Member Services at: 1-877-223-7355. If 
+you do not receive acknowledgment of your inquiry, or if your inquiry is not 
+satisfactorily addressed, you should then contact TRUSTe through the TRUSTe 
+Dispute Resolution Process at <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a>. 
+TRUSTe will serve as a liaison with the Web site to resolve your concerns. </p>
 <p>The TRUSTe program covers only information that is collected through this Web 
-  site, and does not cover information that may be collected through software 
-  downloaded from the site.</p>
+site, and does not cover information that may be collected through software 
+downloaded from the site.</p>
 <p><b>When does KRD collect my personally identifiable information?</b></p>
-<p>When you register for one of KRD's sites, or for services on any of our sites, 
-  we collect personally identifying information from you. During registration 
-  you are asked to provide your email address and some demographic information 
-  including such items as your gender, year of birth, and address. The more information 
-  you provide, the better we are able to customize our services and your experience 
-  to suit your needs and preferences. In addition to registration, we may collect 
-  personally identifiable information from you when you enter contests and sweepstakes 
-  (which may be done in conjunction with site registration), participate in promotions 
-  and special programs, register for premium or customized services, make a purchase 
-  at one of our merchants or partners, subscribe to one of our print publications, 
-  or download a software product or plug-in. </p>
-<p>If you are making a purchase or enrolling in a premium service for which there 
-  is a fee, we, or a 3rd party working in partnership with us, will collect your 
-  credit card, billing address, and other verifying information. In addition, 
-  we may collect personally identifiable information from you when you provide 
-  content to us for display or use on one or more KRD sites, including but not 
-  limited to, when you participate in user surveys, post messages to bulletin 
-  boards or chat areas, submit personals or other classified listings, build a 
-  home page, report a problem with one of our sites or services, or submit a letter 
-  to the editor.</p>
+<p>When you register for one of KRD's sites, or for services on any of our 
+sites, we collect personally identifying information from you. During 
+registration you are asked to provide your email address and some demographic 
+information including such items as your gender, year of birth, and address. The 
+more information you provide, the better we are able to customize our services 
+and your experience to suit your needs and preferences. In addition to 
+registration, we may collect personally identifiable information from you when 
+you enter contests and sweepstakes (which may be done in conjunction with site 
+registration), participate in promotions and special programs, register for 
+premium or customized services, make a purchase at one of our merchants or 
+partners, subscribe to one of our print publications, or download a software 
+product or plug-in. </p>
+<p>If you are making a purchase or enrolling in a premium service for which 
+there is a fee, we, or a 3rd party working in partnership with us, will collect 
+your credit card, billing address, and other verifying information. In addition, 
+we may collect personally identifiable information from you when you provide 
+content to us for display or use on one or more KRD sites, including but not 
+limited to, when you participate in user surveys, post messages to bulletin 
+boards or chat areas, submit personals or other classified listings, build a 
+home page, report a problem with one of our sites or services, or submit a 
+letter to the editor.</p>
 <p>If you use our referral service ("Email and Article to a Friend") to tell a 
-  friend about our site, we will ask for your email address and theirs. We automatically 
-  send a one-time email to the address you provided. Neither your email address 
-  nor the email address you provide is stored or used for any other purpose.</p>
+friend about our site, we will ask for your email address and theirs. We 
+automatically send a one-time email to the address you provided. Neither your 
+email address nor the email address you provide is stored or used for any other 
+purpose.</p>
 <p><b>How is my personally identifiable information used?</b> </p>
-<p>Our main goal is to provide you with a customized and more relevant experience 
-  on KRD sites. We review our users' preferences, demographics, traffic patterns, 
-  and other information in aggregate so that we can better understand who our 
-  audience is, and what it is you want. Tracking user preferences also helps us 
-  serve you more relevant advertising. Please note that we do not share your personally 
-  identifying information with the advertiser. </p>
+<p>Our main goal is to provide you with a customized and more relevant 
+experience on KRD sites. We review our users' preferences, demographics, traffic 
+patterns, and other information in aggregate so that we can better understand 
+who our audience is, and what it is you want. Tracking user preferences also 
+helps us serve you more relevant advertising. Please note that we do not share 
+your personally identifying information with the advertiser. </p>
 <p>We use a third party to serve ads when you visit our site. This third party 
-  ad server may use certain information about your visit to our site in order 
-  to provide advertisements about goods and services that may be of interest to 
-  you, but they are not allowed to collect or use personally identifiable information 
-  about you for their own purposes. </p>
+ad server may use certain information about your visit to our site in order to 
+provide advertisements about goods and services that may be of interest to you, 
+but they are not allowed to collect or use personally identifiable information 
+about you for their own purposes. </p>
 <p>All credit card information is transmitted in an encrypted form, using SSL 
-  (secure socket layer) encryption, the industry-standard. We follow generally 
-  accepted industry standards to protect the personal information submitted to 
-  us, both during transmission and once we receive it. No method of transmission 
-  over the Internet, or method of electronic storage, is 100% secure, however. 
-  Therefore, while we strive to use commercially acceptable means to protect your 
-  personal information, we cannot guarantee its absolute security.] KRD assumes 
-  no liability for disclosure of data due to errors in transmission or unauthorized 
-  third parties. If you have any questions about security on our Web site, you 
-  can contact us at: 1-877-223-7355.</p>
+(secure socket layer) encryption, the industry-standard. We follow generally 
+accepted industry standards to protect the personal information submitted to us, 
+both during transmission and once we receive it. No method of transmission over 
+the Internet, or method of electronic storage, is 100% secure, however. 
+Therefore, while we strive to use commercially acceptable means to protect your 
+personal information, we cannot guarantee its absolute security.] KRD assumes no 
+liability for disclosure of data due to errors in transmission or unauthorized 
+third parties. If you have any questions about security on our Web site, you can 
+contact us at: 1-877-223-7355.</p>
 <p>The email address provided by you at registration, or as updated, may be used 
-  by Knight Ridder and its affiliated entities, including KRD, to contact you 
-  for any reason, including: (1) Your account status (including an email confirmation 
-  of registration), (2) Major changes to the website, the Terms of Use and Privacy 
-  Policy, (3) Participation in user surveys, asking for feedback on the website 
-  and (4) notifying you of existing or prospective products and services offered 
-  by us or our advertisers and partners. This information helps us to improve 
-  our website. The information provided by you at registration may be used by 
-  Knight Ridder and its affiliated entities, including KRD to contact you with 
-  special offers and promotions. </p>
+by Knight Ridder and its affiliated entities, including KRD, to contact you for 
+any reason, including: (1) Your account status (including an email confirmation 
+of registration), (2) Major changes to the website, the Terms of Use and Privacy 
+Policy, (3) Participation in user surveys, asking for feedback on the website 
+and (4) notifying you of existing or prospective products and services offered 
+by us or our advertisers and partners. This information helps us to improve our 
+website. The information provided by you at registration may be used by Knight 
+Ridder and its affiliated entities, including KRD to contact you with special 
+offers and promotions. </p>
 <p>To update your personal information such as name, or mailing address, you can 
-  sign into your account and visit the Update Account page. To update your newsletter 
-  subscriptions you either a) visit your newsletter subscription page in your 
-  account, or b) unsubscribe by following the instructions within the email newsletter. 
-</p>
+sign into your account and visit the Update Account page. To update your 
+newsletter subscriptions you either a) visit your newsletter subscription page 
+in your account, or b) unsubscribe by following the instructions within the 
+email newsletter. </p>
 <p>If you opt-in to a third party offer on this site then your relationship with 
-  the third party will be governed by their respective Privacy Policies. If you 
-  no longer wish to receive communication from the third party, then you will 
-  need to contact them directly to opt-out. When you sign up for some third-party 
-  services on this site, such as free coupons or look up Yellow Pages, you will 
-  be taken to a co-branded site which may appear to be <sitename.com>, however 
-  if the third party is collecting information from you, the use of this information 
-  is governed by the co-branded partner's privacy policy.</sitename.com></p>
+the third party will be governed by their respective Privacy Policies. If you no 
+longer wish to receive communication from the third party, then you will need to 
+contact them directly to opt-out. When you sign up for some third-party services 
+on this site, such as free coupons or look up Yellow Pages, you will be taken to 
+a co-branded site which may appear to be <sitename.com>, however if the third 
+party is collecting information from you, the use of this information is 
+governed by the co-branded partner's privacy policy.</sitename.com></p>
 <p><b>What other information does KRD collect and how is it used? </b></p>
-<p><b>Cookies. </b>KRD uses cookies to store and track your preferences to provide 
-  you with a more personalized user experience. A cookie is a message that is 
-  sent to your browser from a Web server and stored on your computer's hard drive. 
-  Most Internet sites use cookies. You can set your browser preferences to reject 
-  all cookies but then you will not be able to participate in most customized 
-  services, and you may be required to repeatedly log in to participate in various 
-  services, promotions, or product offerings. Cookies make your experience easier 
-  by saving your preferences and passwords. </p>
-<p>We also use cookies that contain no personal information at all. These cookies, 
-  help us estimate our audience size, determine which areas of KRD sites are the 
-  most popular, and serve targeted advertising. Third party advertisers and our 
-  ad server may set and access their cookies on your computer in accordance with 
-  their own privacy policies. If you would like more information about the use 
-  of cookies by our third party ad server and your ability to opt out of receiving 
-  cookies from this third party, please click here: <a href="http://www.doubleclick.net/us/corporate/privacy">http://www.doubleclick.net/us/corporate/privacy</a> 
+<p><b>Cookies. </b>KRD uses cookies to store and track your preferences to 
+provide you with a more personalized user experience. A cookie is a message that 
+is sent to your browser from a Web server and stored on your computer's hard 
+drive. Most Internet sites use cookies. You can set your browser preferences to 
+reject all cookies but then you will not be able to participate in most 
+customized services, and you may be required to repeatedly log in to participate 
+in various services, promotions, or product offerings. Cookies make your 
+experience easier by saving your preferences and passwords. </p>
+<p>We also use cookies that contain no personal information at all. These 
+cookies, help us estimate our audience size, determine which areas of KRD sites 
+are the most popular, and serve targeted advertising. Third party advertisers 
+and our ad server may set and access their cookies on your computer in 
+accordance with their own privacy policies. If you would like more information 
+about the use of cookies by our third party ad server and your ability to opt 
+out of receiving cookies from this third party, please click here: <a href="http://www.doubleclick.net/us/corporate/privacy">http://www.doubleclick.net/us/corporate/privacy</a> 
 </p>
-<p>Some parts of sitename.com site use cookies to collect information about visitors' 
-  use of the Web site and to facilitate return visits. Information collected about 
-  user activity may be done in partnership using a 3rd party tracking tool. The 
-  information collected from cookies is tracked to enhance security and to improve 
-  the functionality of the Web site by avoiding duplicate data entry, facilitating 
-  navigation, and increasing the relevance of content. Cookies on the site may 
-  collect the following information: a unique identifier, user preferences and 
-  profile information used to personalize the content that is shown, and membership 
-  information to access sitename,com's services. Some cookies used by sitename.com 
-  may remain on the user's computer after they leave the Web site. </p>
+<p>Some parts of sitename.com site use cookies to collect information about 
+visitors' use of the Web site and to facilitate return visits. Information 
+collected about user activity may be done in partnership using a 3rd party 
+tracking tool. The information collected from cookies is tracked to enhance 
+security and to improve the functionality of the Web site by avoiding duplicate 
+data entry, facilitating navigation, and increasing the relevance of content. 
+Cookies on the site may collect the following information: a unique identifier, 
+user preferences and profile information used to personalize the content that is 
+shown, and membership information to access sitename,com's services. Some 
+cookies used by sitename.com may remain on the user's computer after they leave 
+the Web site. </p>
 <p>Most browsers can be configured to reject cookies or alert you when cookies 
-  are being sent. Keep in mind that if you refuse cookies, it is possible that 
-  some portions of KRD sites may not function exactly as intended. </p>
-<p><b>IP Address. </b>KRD may also collect IP addresses for the purposes of systems 
-  administration or to report information in aggregate form to our advertisers 
-  (e.g. how many visitors logged in to a KRD site). An IP address is a number 
-  that is assigned to your computer automatically when you use the Internet. When 
-  you visit a particular KRD web page, our servers log your IP address. Your IP 
-  address is not linked to anything personally identifiable. </p>
+are being sent. Keep in mind that if you refuse cookies, it is possible that 
+some portions of KRD sites may not function exactly as intended. </p>
+<p><b>IP Address. </b>KRD may also collect IP addresses for the purposes of 
+systems administration or to report information in aggregate form to our 
+advertisers (e.g. how many visitors logged in to a KRD site). An IP address is a 
+number that is assigned to your computer automatically when you use the 
+Internet. When you visit a particular KRD web page, our servers log your IP 
+address. Your IP address is not linked to anything personally identifiable. </p>
 <p><b>Who does KRD share information with?</b> </p>
-<p>User information is shared within KRD in order to provide you with a more integrated 
-  and customized user experience. We will not disclose your personally identifiable 
-  information to third parties except (1) to the extent necessary to provide you 
-  with a requested product or service, or (2) in order to provide targeted promotional 
-  offers during the registration process. If you do not accept any of the offers, 
-  your information will not be retained by our registration offers partner. </p>
+<p>User information is shared within KRD in order to provide you with a more 
+integrated and customized user experience. We will not disclose your personally 
+identifiable information to third parties except (1) to the extent necessary to 
+provide you with a requested product or service, or (2) in order to provide 
+targeted promotional offers during the registration process. If you do not 
+accept any of the offers, your information will not be retained by our 
+registration offers partner. </p>
 <p>To the extent you are notified of uses of your personal information which are 
-  different from those described in this Policy Statement during your enrollment 
-  in any particular service, sweepstakes, contest or promotion, the uses of which 
-  you are specifically notified will govern that service, sweepstakes, contest 
-  or promotion. We may co-sponsor some contests on our site with other companies. 
-  If you enter one of these contests, our co-sponsor may receive the information 
-  collected. In such cases, we will tell you who the co-sponsor is and notify 
-  you the use of this information is governed by the co-sponsor's privacy policy.</p>
+different from those described in this Policy Statement during your enrollment 
+in any particular service, sweepstakes, contest or promotion, the uses of which 
+you are specifically notified will govern that service, sweepstakes, contest or 
+promotion. We may co-sponsor some contests on our site with other companies. If 
+you enter one of these contests, our co-sponsor may receive the information 
+collected. In such cases, we will tell you who the co-sponsor is and notify you 
+the use of this information is governed by the co-sponsor's privacy policy.</p>
 <p>We reserve the right to disclose your personally identifiable information as 
-  required by law and when we believe that disclosure is necessary to protect 
-  our rights and/or to comply with a judicial proceeding, court order, or legal 
-  process served on our Web site </p>
+required by law and when we believe that disclosure is necessary to protect our 
+rights and/or to comply with a judicial proceeding, court order, or legal 
+process served on our Web site </p>
 <p><b>What else should I know about my privacy? </b></p>
-<p>You should be aware that if you voluntarily disclose personal information online 
-  in a public area, that information may be collected and used by others. We do 
-  not control the actions of our visitors and registered users. If you disclose 
-  personal information in a chat room, forum, on your home page, or any other 
-  publicly accessible place on KRD sites, you do so at your own risk and you understand 
-  that your submitted information may be collected and used by others to send 
-  you unsolicited messages, advertisements, or for other purposes. </p>
-<p>Please remember that protection of your privacy begins with you. You are solely 
-  responsible for maintaining the secrecy of any password you use to register, 
-  and you should always be careful and responsible whenever disclosing information 
-  online. </p>
+<p>You should be aware that if you voluntarily disclose personal information 
+online in a public area, that information may be collected and used by others. 
+We do not control the actions of our visitors and registered users. If you 
+disclose personal information in a chat room, forum, on your home page, or any 
+other publicly accessible place on KRD sites, you do so at your own risk and you 
+understand that your submitted information may be collected and used by others 
+to send you unsolicited messages, advertisements, or for other purposes. </p>
+<p>Please remember that protection of your privacy begins with you. You are 
+solely responsible for maintaining the secrecy of any password you use to 
+register, and you should always be careful and responsible whenever disclosing 
+information online. </p>
 <p>This Web site contains links to other sites that are not owned or controlled 
-  by KRD. Please be aware that we, Knight Ridder Digital, are not responsible 
-  for the privacy practices of such other sites. </p>
+by KRD. Please be aware that we, Knight Ridder Digital, are not responsible for 
+the privacy practices of such other sites. </p>
 <p>We encourage you to be aware when you leave our site and to read the privacy 
-  statements of each and every Web site that collects personally identifiable 
-  information. </p>
-<p>This privacy statement applies only to information collected by this Web site. 
-</p>
-<p><b>PRIVACY PROTECTION FOR CHILDREN. </b>In compliance with the Children's Online 
-  Privacy Protection Act (COPPA), we will not knowingly provide access to KRD 
-  sites to persons under the age of thirteen (13). If KRD later learns that any 
-  registered user is under the age of thirteen (13), we will take appropriate 
-  steps to remove the member's information from the database and we will restrict 
-  this individual from future access to KRD sites. We feel strongly about protecting 
-  the privacy of children. We encourage kids to involve their parents in any interactive 
-  activity they participate in online. Except where otherwise disclosed, we will 
-  not collect or use any personal information from children we know to be under 
-  the age of thirteen without obtaining express parental consent. All general 
-  information collected from users under the age of thirteen is used only for 
-  aggregate statistical analysis. </p>
-<p><b>Acceptance of Privacy Policy. </b>By using KRD sites and services, you signify 
-  your acceptance of this Privacy Statement. If you do not agree or are not comfortable 
-  with any policy described in this Privacy statement, your only remedy is to 
-  discontinue use of KRD sites. We reserve the right, to modify this Privacy Statement 
-  at any time. If we materially change how we use your personal information we 
-  will notify you either by email or through a prominent notice on the web site. 
-  Your continued use of any portion of KRD sites following notification or posting 
-  of such changes, will constitute your accept of those changes. If you have questions 
-  or concerns about our specific policies, please contact us through our feedback 
-  form. Member Services at Knight Ridder Digital, 35 South Market Street, San 
-  Jose, CA 95113. </p>
-<p><b>Want more information? Check out these helpful links... </b> </p>
+statements of each and every Web site that collects personally identifiable 
+information. </p>
+<p>This privacy statement applies only to information collected by this Web 
+site. </p>
+<p><b>PRIVACY PROTECTION FOR CHILDREN. </b>In compliance with the Children's 
+Online Privacy Protection Act (COPPA), we will not knowingly provide access to 
+KRD sites to persons under the age of thirteen (13). If KRD later learns that 
+any registered user is under the age of thirteen (13), we will take appropriate 
+steps to remove the member's information from the database and we will restrict 
+this individual from future access to KRD sites. We feel strongly about 
+protecting the privacy of children. We encourage kids to involve their parents 
+in any interactive activity they participate in online. Except where otherwise 
+disclosed, we will not collect or use any personal information from children we 
+know to be under the age of thirteen without obtaining express parental consent. 
+All general information collected from users under the age of thirteen is used 
+only for aggregate statistical analysis. </p>
+<p><b>Acceptance of Privacy Policy. </b>By using KRD sites and services, you 
+signify your acceptance of this Privacy Statement. If you do not agree or are 
+not comfortable with any policy described in this Privacy statement, your only 
+remedy is to discontinue use of KRD sites. We reserve the right, to modify this 
+Privacy Statement at any time. If we materially change how we use your personal 
+information we will notify you either by email or through a prominent notice on 
+the web site. Your continued use of any portion of KRD sites following 
+notification or posting of such changes, will constitute your accept of those 
+changes. If you have questions or concerns about our specific policies, please 
+contact us through our feedback form. Member Services at Knight Ridder Digital, 
+35 South Market Street, San Jose, CA 95113. </p>
+<p><b>Want more information? Check out these helpful links... </b></p>
 <p><a href="http://www.eff.org/">Electronic Frontier Foundation</a> - a civil 
-  liberties organization working to protect your rights online. 
+liberties organization working to protect your rights online. 
 </p><p><a href="http://www.epic.org/">Electronic Privacy Information Center</a> - 
-  established to focus public attention on emerging civil liberties issues relating 
-  to the National Information Infrastructure. 
+established to focus public attention on emerging civil liberties issues 
+relating to the National Information Infrastructure. 
 </p><p><a href="http://www.cdt.org/">Privacy Issues Page</a> - from the Center for 
-  Democracy and Technology (CDT). 
+Democracy and Technology (CDT). 
 </p><p><a href="http://www.cookiecentral.com/">Cookie Central</a> -- dedicated to 
-  provide full information upon Internet Cookies. 
-</p><p>&nbsp; </p>
-<hr noshade="" size="1" width="96%">
+provide full information upon Internet Cookies. 
+</p><p> </p>
+<hr width="96%" noshade="" size="1">
+
 <p><a name="terms"></a><font size="4"><b>Terms of Use</b></font> 
 </p><p>We welcome you to our site. We ask that you review these Terms of Use, which 
-  are intended to constitute a binding license agreement that conditions your 
-  use of this site ("Agreement"). We have tried to avoid unnecessary legal verbiage. 
-  Our goal is to protect our rights in order to provide you with access to the 
-  free content available at this site. If you do not wish to be bound by this 
-  Agreement after you have read it, please leave the site. If you remain on this 
-  site, or return thereafter, you agree to be bound by this Agreement. 
+are intended to constitute a binding license agreement that conditions your use 
+of this site ("Agreement"). We have tried to avoid unnecessary legal verbiage. 
+Our goal is to protect our rights in order to provide you with access to the 
+free content available at this site. If you do not wish to be bound by this 
+Agreement after you have read it, please leave the site. If you remain on this 
+site, or return thereafter, you agree to be bound by this Agreement. 
 </p><p><b>1. Responsible conduct. </b>You agree to act responsibly at this site and 
-  to treat other visitors with respect. 
+to treat other visitors with respect. 
 </p><p><b>2. Limited License/ Copyright and Intellectual Property Law Restrictions. 
-  </b>Except for public domain material, the content on this site is protected 
-  by intellectual property laws, including U.S. copyright laws. You are hereby 
-  granted a non-exclusive license to use the material at this site ("Content") 
-  while connected to this site (including, where available, to email individual 
-  stories to friends directly from this site). You are also granted a limited 
-  license to print one copy of any Content posted at the site, but only for your 
-  personal use. Except as expressly provided above, all rights are reserved. Among 
-  other things, except to the extent required for the limited purpose of reviewing 
-  material on our site, electronic reproduction, adaptation, distribution, performance 
-  or display is prohibited. Changes to or deletion of author attribution or copyright 
-  notices are prohibited. Commercial use of any of the Content is strictly prohibited. 
-  Use of any of our trademarks as metatags on other web sites also is strictly 
-  prohibited. You may not display this website in frames (or any of the Content 
-  via in-line links) without our express written permission, which may be requested 
-  by contacting us through our feedback form. You may, however, establish ordinary 
-  links to our site without our written permission. 
-</p><p><b>3. Links. </b>We may provide links from our site to other sites as a convenience 
-  to our visitors. We have no control over linked sites and make no representations 
-  about any content or material available at these locations. Links are not intended 
-  to imply sponsorship, affiliation or endorsement. 
-</p><p><b>4.</b> <b>Discussion Boards and other self-publishing 3rd party products.</b> 
-  Although we do not have any obligation to monitor these services, or this self-published 
-  content, we reserve the right at all times to remove any information or materials 
-  that are unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, 
-  pornographic, profane, indecent or otherwise objectionable to us in our sole 
-  discretion and to disclose any information necessary to satisfy the law, regulation, 
-  or government request. We also reserve the right to permanently block any user 
-  who violates these terms and conditions. 
+</b>Except for public domain material, the content on this site is protected by 
+intellectual property laws, including U.S. copyright laws. You are hereby 
+granted a non-exclusive license to use the material at this site ("Content") 
+while connected to this site (including, where available, to email individual 
+stories to friends directly from this site). You are also granted a limited 
+license to print one copy of any Content posted at the site, but only for your 
+personal use. Except as expressly provided above, all rights are reserved. Among 
+other things, except to the extent required for the limited purpose of reviewing 
+material on our site, electronic reproduction, adaptation, distribution, 
+performance or display is prohibited. Changes to or deletion of author 
+attribution or copyright notices are prohibited. Commercial use of any of the 
+Content is strictly prohibited. Use of any of our trademarks as metatags on 
+other web sites also is strictly prohibited. You may not display this website in 
+frames (or any of the Content via in-line links) without our express written 
+permission, which may be requested by contacting us through our feedback form. 
+You may, however, establish ordinary links to our site without our written 
+permission. 
+</p><p><b>3. Links. </b>We may provide links from our site to other sites as a 
+convenience to our visitors. We have no control over linked sites and make no 
+representations about any content or material available at these locations. 
+Links are not intended to imply sponsorship, affiliation or endorsement. 
+</p><p><b>4.</b> <b>Discussion Boards and other self-publishing 3rd party 
+products.</b> Although we do not have any obligation to monitor these services, 
+or this self-published content, we reserve the right at all times to remove any 
+information or materials that are unlawful, threatening, abusive, libelous, 
+defamatory, obscene, vulgar, pornographic, profane, indecent or otherwise 
+objectionable to us in our sole discretion and to disclose any information 
+necessary to satisfy the law, regulation, or government request. We also reserve 
+the right to permanently block any user who violates these terms and conditions. 
+
 </p><p><b>5. DISCLAIMER OF WARRANTIES.</b> YOU EXPRESSLY AGREE THAT USE OF THIS WEB 
-  SITE IS AT YOUR SOLE RISK. THERE IS NO WARRANTY THAT YOUR ACCESS TO OR USE OF 
-  THIS SITE WILL BE UNINTERRUPTED OR ERROR FREE; OR THAT ANY PARTICULAR RESULTS 
-  MAY BE OBTAINED BY USE OF THIS SITE. THIS SITE IS MADE AVAILABLE ON AN "AS IS" 
-  BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING 
-  BUT NOT LIMITED TO WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY, 
-  FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHERWISE, OTHER THAN 
-  THOSE WHICH ARE IMPLIED BY AND INCAPABLE OF EXCLUSION, RESTRICTION, OR MODIFICATION 
-  UNDER THE LAWS APPLICABLE TO THIS AGREEMENT. NEITHER WE NOR ANY OTHER PERSON 
-  OR ENTITY PROVIDING CONTENT VIA THIS SITE SHALL BE LIABLE TO YOU FOR ANY DIRECT, 
-  INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES. 
-</p><p><b>6. Modifications/ Termination. </b>The terms of this agreement will not 
-  be modified on an individual basis. You agree that we may modify the terms of 
-  this Agreement (or discontinue this site) in our sole discretion, without advance 
-  notice, and that your right to access this site is conditioned on an ongoing 
-  basis with your compliance with the then-current version of these Terms and 
-  Conditions. You should therefore visit this page frequently. 
-</p><p><b>7. Jurisdiction.</b> This Web site is hosted on servers located in the United 
-  States and is intended to be viewed by residents of the United States. In the 
-  event of any dispute arising out of or relating to this site, you agree that 
-  the exclusive venue for litigating disputes shall be in state or federal court 
-  in San Jose, California. 
-</p><p></p><p>
-</p></td><td width="10"><img src="/images/common/spacer.gif" width="10" height="1" border="0"></td></tr></tbody></table>
+SITE IS AT YOUR SOLE RISK. THERE IS NO WARRANTY THAT YOUR ACCESS TO OR USE OF 
+THIS SITE WILL BE UNINTERRUPTED OR ERROR FREE; OR THAT ANY PARTICULAR RESULTS 
+MAY BE OBTAINED BY USE OF THIS SITE. THIS SITE IS MADE AVAILABLE ON AN "AS IS" 
+BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT 
+NOT LIMITED TO WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHERWISE, OTHER THAN 
+THOSE WHICH ARE IMPLIED BY AND INCAPABLE OF EXCLUSION, RESTRICTION, OR 
+MODIFICATION UNDER THE LAWS APPLICABLE TO THIS AGREEMENT. NEITHER WE NOR ANY 
+OTHER PERSON OR ENTITY PROVIDING CONTENT VIA THIS SITE SHALL BE LIABLE TO YOU 
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES. 
+</p><p><b>6. Modifications/ Termination. </b>The terms of this agreement will not be 
+modified on an individual basis. You agree that we may modify the terms of this 
+Agreement (or discontinue this site) in our sole discretion, without advance 
+notice, and that your right to access this site is conditioned on an ongoing 
+basis with your compliance with the then-current version of these Terms and 
+Conditions. You should therefore visit this page frequently. 
+</p><p><b>7. Jurisdiction.</b> This Web site is hosted on servers located in the 
+United States and is intended to be viewed by residents of the United States. In 
+the event of any dispute arising out of or relating to this site, you agree that 
+the exclusive venue for litigating disputes shall be in state or federal court 
+in San Jose, California. 
+</p></div>
+</div>
 
 
-</td><td class="columndiv" rowspan="2"><img src="/images/common/spacer.gif" width="1" height="1"></td><td class="rightrail" valign="top" align="center" width="160">
+</div>
+<div id="rightrail">
 
 
 
 
-<img src="/images/common/spacer.gif" width="134" height="5"><br><script language="JavaScript1.1">
+<img src="/images/common/spacer.gif" width="134" height="5"><br><div class="container_ad">
+<script language="JavaScript1.1">
 _krdDartInc++;
 document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=right_top;c2=terms_of_use;c3=terms_of_use_homepage;pos=right_top;group=cube;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=right_top;c2=terms_of_use;c3=terms_of_use_homepage;pos=right_top;group=cube;tile=3;ord=1580474313669?"></script>
+</script>
 <noscript>
-<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=right_top;c2=terms_of_use;c3=terms_of_use_homepage;pos=right_top;group=cube;ord=1113711482019?" TARGET="_blank">
-<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=right_top;c2=terms_of_use;c3=terms_of_use_homepage;pos=right_top;group=cube;ord=1113711482019?" BORDER="0" ></A>
+<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=right_top;c2=terms_of_use;c3=terms_of_use_homepage;pos=right_top;group=cube;ord=1134631078439?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=right_top;c2=terms_of_use;c3=terms_of_use_homepage;pos=right_top;group=cube;ord=1134631078439?" BORDER="0" ></A>
 </noscript>
+</div>
 
 
 
 
-<img src="/images/common/spacer.gif" width="134" height="5"><br><script language="JavaScript1.1">
-_krdDartInc++;
-document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=right1;c2=terms_of_use;c3=terms_of_use_homepage;pos=right1;group=cube;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=right1;c2=terms_of_use;c3=terms_of_use_homepage;pos=right1;group=cube;tile=4;ord=1580474313669?"></script>
-<noscript>
-<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=right1;c2=terms_of_use;c3=terms_of_use_homepage;pos=right1;group=cube;ord=1113711482020?" TARGET="_blank">
-<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=right1;c2=terms_of_use;c3=terms_of_use_homepage;pos=right1;group=cube;ord=1113711482020?" BORDER="0" ></A>
-</noscript>
-
-
-
-
-<img src="/images/common/spacer.gif" width="134" height="5"><br><script language="JavaScript1.1">
-_krdDartInc++;
-document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=right2;c2=terms_of_use;c3=terms_of_use_homepage;pos=right2;group=tower;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=right2;c2=terms_of_use;c3=terms_of_use_homepage;pos=right2;group=tower;tile=5;ord=1580474313669?"></script>
-<noscript>
-<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=right2;c2=terms_of_use;c3=terms_of_use_homepage;pos=right2;group=tower;ord=1113711482020?" TARGET="_blank">
-<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=right2;c2=terms_of_use;c3=terms_of_use_homepage;pos=right2;group=tower;ord=1113711482020?" BORDER="0" ></A>
-</noscript>
-
-
-
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="768">
-<tbody><tr><td class="leftrail" width="134">
-<img src="/images/common/spacer.gif" width="134" height="1"></td><td class="columndiv" width="1">
-<img src="/images/common/spacer.gif" width="1" height="1"></td><td class="centerrail" width="1">
-<img src="/images/common/spacer.gif" width="10" height="1"></td><td class="centerrail" width="100%" align="center">
-<img src="/images/common/spacer.gif" width="450" height="1"><br><script language="JavaScript1.1">
+</div><div class="divclear"></div>
+</div><div class="contextual_ad_channel">
+<div class="container_ad">
+<script language="JavaScript1.1">
 _krdDartInc++;
 document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=footer;c2=terms_of_use;c3=terms_of_use_homepage;pos=footer;group=contextual;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=footer;c2=terms_of_use;c3=terms_of_use_homepage;pos=footer;group=contextual;tile=6;ord=1580474313669?"></script>
+</script>
 <noscript>
-<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=footer;c2=terms_of_use;c3=terms_of_use_homepage;pos=footer;group=contextual;ord=1113711482021?" TARGET="_blank">
-<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=footer;c2=terms_of_use;c3=terms_of_use_homepage;pos=footer;group=contextual;ord=1113711482021?" BORDER="0" ></A>
+<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=footer;c2=terms_of_use;c3=terms_of_use_homepage;pos=footer;group=contextual;ord=1134631078439?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=footer;c2=terms_of_use;c3=terms_of_use_homepage;pos=footer;group=contextual;ord=1134631078439?" BORDER="0" ></A>
 </noscript>
+</div>
 
-<br><br></td><td class="centerrail" width="1">
-<img src="/images/common/spacer.gif" width="10" height="1"></td><td class="columndiv" width="1">
-<img src="/images/common/spacer.gif" width="1" height="1"></td><td class="rightrail" width="160">
-<img src="/images/common/spacer.gif" width="160" height="1"></td></tr></tbody></table>
+</div>
 
 
 <script type="text/javascript" language="javascript1.1">
-var hbx_site = "philly";
+var hbx_account = "DM550130HIDA";
 </script>
-<script language="javascript1.1" defer="" src="/js/kr_hbx_lib.js"></script>
-<script language="javascript1.1" defer="" src="/js/kr_hbx.js"></script>
-<script language="javascript1.1" defer="" src="/js/hbx.js"></script>
+<script language="javascript1.1" src="/js/kr_hbx_lib.js"></script>
+<script language="javascript1.1" src="/js/kr_hbx.js"></script>
+<script language="javascript1.1" src="/js/hbx.js"></script>
 
 
-<table border="0" cellpadding="3" cellspacing="0" width="768"><tbody><tr><td rowspan="2" valign="top" class="footer"><a href="http://www.realcities.com" target="_blank"><img src="/images/palette/philly/realcities_logo.gif" width="155" height="57" alt="RealCities" border="0"></a>
-</td><td align="left" class="footer">
-<span class="lightgreylinks"><a href="/mld/inquirer/"> The Inquirer  |</a> <a href="/mld/dailynews/"> Daily News  |</a> <a href="/mld/philly/sports/"> Sports  |</a> <a href="/mld/philly/entertainment/"> Entertainment  |</a> <a href="http://www.shoplocal.com/philly/new_user_entry.aspx?CityStateZip=19123&amp;AdRef=link02">Shop Local |</a> <a href="/mld/philly/classifieds/"> Classifieds   </a><br><a href="/mld/philly/contact_us/about">About Philly.com |</a> <a href="/mld/philly/contact_us/rc_sites/">About the Real Cities Network |</a> <a href="/mld/philly/contact_us/terms_of_use">Terms of Use &amp; Privacy Statement |</a> <a href="http://www.knightridder.com">About Knight Ridder |</a> <a href="/mld/philly/contact_us/copyright">Copyright  </a><br></span>
-</td></tr></tbody></table>
 
+
+
+
+
+<div id="footer">
+<div class="footerleft">
+<a href="http://www.realcities.com" target="_blank"><img src="/images/common/footer/footer_rc_logo.gif" width="120" height="50" border="0"></a>
+</div><div class="footercenter">
+
+<a href=" /mld/inquirer/ ">  The Inquirer 
+
+
+|</a>
+
+
+
+<a href=" /mld/dailynews/ ">  Daily News 
+
+
+|</a>
+
+
+
+<a href=" /mld/philly/sports/ ">  Sports 
+
+
+|</a>
+
+
+
+<a href=" /mld/philly/entertainment/ ">  Entertainment 
+
+
+|</a>
+
+
+
+<a href=" http://www.shoplocal.com/philly/new_user_entry.aspx?CityStateZip=19123&amp;AdRef=link02 "> Shop Local
+
+
+|</a>
+
+
+
+<a href=" /mld/philly/classifieds/ ">  Classifieds 
+
+</a> <br>
+
+
+
+
+<a href=" /mld/philly/contact_us/about "> About Philly.com
+
+
+</a>|
+
+
+
+<a href=" /mld/philly/contact_us/rc_sites/ "> About the Real Cities Network
+
+
+</a>|
+
+
+
+<a href=" /mld/philly/contact_us/terms_of_use "> Terms of Use &amp; Privacy Statement
+
+
+</a>|
+
+
+
+<a href=" http://www.knightridder.com "> About Knight Ridder
+
+
+</a>|
+
+
+
+<a href=" /mld/philly/contact_us/copyright "> Copyright
+
+</a>
+
+
+
+
+</div><div class="footerright">
+<a href="/mld/philly/contact_us/terms_of_use"><img src="/images/common/footer/footer_truste_logo.gif" width="102" height="27" border="0"></a>
+</div>
+<div class="divclear"></div>
+</div>
+
+
+
+
+</div>
 
 
 
