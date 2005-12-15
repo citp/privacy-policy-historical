@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012033623id_/http%3A//www.relevantradio.com/docs/index.asp%3Fdocumentid%3D99) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215172520id_/http%3A//www.relevantradio.com/docs/index.asp%3Fdocumentid%3D99) for the most accurate reproduction.*
 
 # Relevant Radio - Articles
 
-**  
-Relevant Radio™ Privacy Statement**|   
----|---  
-  
- **Relevant Radio™** is committed to protecting your privacy. ****Relevant Radio™**** is a general audience web site, intended for users of all ages. Personal information of all users is collected, used and disclosed as described in this Privacy Statement. 
+**Relevant Radio™** is committed to protecting your privacy. ****Relevant Radio™**** is a general audience web site, intended for users of all ages. Personal information of all users is collected, used and disclosed as described in this Privacy Statement. 
 
 **Collection of your Personal Information**
 
