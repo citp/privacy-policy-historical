@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305200557id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215072146id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Cemetery Records Online
 
@@ -6,20 +6,20 @@
 ---  
 **·** | 
 
-[Browse Other Cemeteries](https://web.archive.org/web/20050305200557id_/http%3A//www.interment.net/cemetery.htm)  
+[Browse Other Cemeteries](https://web.archive.org/web/20051215072146id_/http%3A//www.interment.net/cemetery.htm)  
   
   |    
-**·** | [New Cemetery Transcriptions ](https://web.archive.org/web/20050305200557id_/http%3A//www.interment.net/new.htm)  
+**·** | [New Cemetery Transcriptions ](https://web.archive.org/web/20051215072146id_/http%3A//www.interment.net/new.htm)  
   |    
-**·** | [The Cemetery Column ](https://web.archive.org/web/20050305200557id_/http%3A//www.interment.net/column/index.htm)  
+**·** | [The Cemetery Column ](https://web.archive.org/web/20051215072146id_/http%3A//www.interment.net/column/index.htm)  
   |    
-**·** | [How to Find a Lost Grave](https://web.archive.org/web/20050305200557id_/http%3A//www.interment.net/help/research.htm)  
+**·** | [How to Find a Lost Grave](https://web.archive.org/web/20051215072146id_/http%3A//www.interment.net/help/research.htm)  
   |    
-**·** | [Submit a Transcription ](https://web.archive.org/web/20050305200557id_/http%3A//www.interment.net/publish.htm)  
+**·** | [Submit a Transcription ](https://web.archive.org/web/20051215072146id_/http%3A//www.interment.net/publish.htm)  
   |    
-**·** | [Notify me of new cemetery records](https://web.archive.org/web/20050305200557id_/http%3A//www.interment.net/mailing_list.htm)  
+**·** | [Notify me of new cemetery records](https://web.archive.org/web/20051215072146id_/http%3A//www.interment.net/mailing_list.htm)  
   |    
-**·** | [Friends, Partners, and Websites](https://web.archive.org/web/20050305200557id_/http%3A//www.interment.net/genealogy.htm)  
+**·** | [Friends, Partners, and Websites](https://web.archive.org/web/20051215072146id_/http%3A//www.interment.net/genealogy.htm)  
   
 
 
