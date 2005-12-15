@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ridemetro.org privacy policy that was archived on 2005-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050208040102id_/http%3A//www.ridemetro.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridemetro.org privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215064155id_/http%3A//www.ridemetro.org/privacy.asp) for the most accurate reproduction.*
 
 # METRO Privacy Policy
 
