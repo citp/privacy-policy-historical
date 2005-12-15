@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the iwantanewgirlfriend.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403195821id_/http%3A//iwantanewgirlfriend.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantanewgirlfriend.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215064157id_/http%3A//iwantanewgirlfriend.com/privacy.asp) for the most accurate reproduction.*
 
 # :: I Want a New Girlfriend
 
 **Visit These Great Sites**  
 ---  
   
-| **Site of the Moment:   [ **infrance.ru**](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7084 "infrance.ru")  **  
+| **Site of the Moment:   [ **DialABook.com**](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4997 "DialABook.com")  **  
 ---  
-#1| [College Sucks](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=1159 "College Sucks")| #8| [My Ex Girlfriend](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5413 "My Ex Girlfriend")| #15| [Porn Snake](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7072 "Porn Snake")  
-#2| [iMedias.org](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=6817 "iMedias.org")| #9| [Teen Porno Pic](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7076 "Teen Porno Pic")| #16| [Non Nude Porn](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5720 "Non Nude Porn")  
-#3| [Area Girls](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=10844 "Area Girls")| #10| [Gay Sex and Porn](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5001 "Gay Sex and Porn")| #17| [Mortys Twisted World](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4162 "Mortys Twisted World")  
-#4| [Sexy Girl Web Cam](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=11593 "Sexy Girl Web Cam")| #11| [Asian Sexz](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7075 "Asian Sexz")| #18| [Exp0sed.com Celebs](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2705 "Exp0sed.com Celebs")  
-#5| [Drunk Girls Fuck](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=6811 "Drunk Girls Fuck")| #12| [Dirty USA Nurse](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4423 "Dirty USA Nurse")| #19| [Celebrity Factor](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=6273 "Celebrity Factor")  
-#6| [Porngasm](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3813 "Porngasm")| #13| [Mental Ernie](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2772 "Mental Ernie")| #20| [Sexy Fuckable Babes](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4005 "Sexy Fuckable Babes")  
-#7| [Girls Kissing Girls](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2643 "Girls Kissing Girls")| #14| [Blonde Sluts](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=6969 "Blonde Sluts")| #21| [Little Midgets](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=8970 "Little Midgets")  
+#1| [Sewer Dogs](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=10764 "Sewer Dogs")| #8| [Celebrity Factor](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=6273 "Celebrity Factor")| #15| [Porngasm](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3813 "Porngasm")  
+#2| [Naughty Files](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=19131 "Naughty Files")| #9| [Revulsion.net](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2858 "Revulsion.net")| #16| [Mad For Porn](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=17774 "Mad For Porn")  
+#3| [Girls Kissing Girls](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2643 "Girls Kissing Girls")| #10| [Free Ones](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=10227 "Free Ones")| #17| [Sexo Transexual](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=19938 "Sexo Transexual")  
+#4| [College Downtime](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7146 "College Downtime")| #11| [The Uncensored](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=14541 "The Uncensored")| #18| [Area Girls](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=10844 "Area Girls")  
+#5| [Breakroom X Pussy](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3131 "Breakroom X Pussy")| #12| [Texas Waterhole](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=101 "Texas Waterhole")| #19| [Dirty USA Nurse](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4423 "Dirty USA Nurse")  
+#6| [Rich Snob](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=9032 "Rich Snob")| #13| [Twinky's Thumbnail Post](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=95 "Twinky's Thumbnail Post")| #20| [PornHoolio.com](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4366 "PornHoolio.com")  
+#7| [Sexual Idol](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=16704 "Sexual Idol")| #14| [Hawt Babes](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=16010 "Hawt Babes")| #21| [Exp0sed.com Celebs](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2705 "Exp0sed.com Celebs")  
   
 * * *
 
