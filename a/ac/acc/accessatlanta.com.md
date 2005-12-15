@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the accessatlanta.com privacy policy that was archived on 2004-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040830174816id_/http%3A//www.accessatlanta.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessatlanta.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215135137id_/http%3A//www.accessatlanta.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | AccessAtlanta
 
 | 
-
-**PRIVACY POLICY**
 
 LAST UPDATED: February 11, 2004 
 
