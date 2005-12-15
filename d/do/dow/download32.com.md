@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the download32.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403162722id_/http%3A//www.download32.com/aboutus2004/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download32.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215110303id_/http%3A//download32.com/aboutus/pp.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://web.archive.org/default.htm) > Privacy Policy  
-
+  
+[Home](https://web.archive.org/default.htm) > Privacy Policy
 
 Third Party Advertising
 
