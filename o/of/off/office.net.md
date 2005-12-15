@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the office.net privacy policy that was archived on 2005-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050515220812id_/http%3A//office.microsoft.com/en-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.net privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215081200id_/http%3A//office.microsoft.com/en-us/privacy.aspx) for the most accurate reproduction.*
 
 # Microsoft Office Online Privacy Statement
 
@@ -26,7 +26,7 @@ Office 2003 collects PII when you:
 
 ### Post to one of the Office 2003 Communities
 
-Office 2003 provides online communities where you can get answers to your questions about Office or post answers to other users' questions. When you first post to an Office community, Office will ask you to provide a screen name and e-mail address. All community users can see anything you post, including your screen name. Office also records the communities that you belong to and a score based on the number of users that you have helped. You have the option of publishing your e-mail address and community membership information to others on the system, although you are not required to do so.
+Office 2003 provides online communities where you can get answers to your questions about Office or post answers to other users' questions. When you first post to an Office community, Office will ask you to provide a screen name and e-mail address. All community users can see anything you post, including your screen name and IP address. Office also records the communities that you belong to and a score based on the number of users that you have helped. You have the option of publishing your e-mail address and community membership information to others on the system, although you are not required to do so.
 
 ### Submit a Rating
 
@@ -34,7 +34,7 @@ You have the opportunity to rate some content in Office  2003, such as posts to 
 
 ### Use one of the Office 2003 self-paced interactive courses
 
-When you complete one of the Office 2003 self-paced training courses, Office creates a file for you that keeps track of the courses that you have completed. This allows Office to show you which courses you have already completed. This information is not made available to other Office customers or to any third-parties.
+While you are taking one of the Office 2003  self-paced training courses, Office creates a file for you that keeps track of the lessons that you have completed. This allows Office to show you which lessons you have already completed. This information is not made available to other Office customers or to any third parties.
 
 ### Sign up for the Office Marketplace (US Only)
 
