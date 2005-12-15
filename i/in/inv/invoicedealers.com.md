@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the invoicedealers.com privacy policy that was archived on 2005-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050607075816id_/http%3A//www.invoicedealers.com/IDCPrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invoicedealers.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215043940id_/http%3A//www.invoicedealers.com/IDCPrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Our Privacy Policy: Invoice Dealers Autos
+# Our Privacy Policy | Invoice Dealers Autos
 
-[Home](https://web.archive.org/web/20050607075816id_/http%3A//www.invoicedealers.com/Default.asp)     Privacy Policy 
+[Home](https://web.archive.org/web/20051215043940id_/http%3A//www.invoicedealers.com/Default.asp)     Privacy Policy 
 
 As Web users ourselves, we understand the importance of online privacy. And we are committed to respecting yours. 
 
@@ -19,6 +19,13 @@ In any case, the buying service itself (hereafter referred to as "the Process" o
 We use your IP address, collected automatically by our Web servers, to analyze our traffic sources and to discourage fraudulent use of the Process. This information does not identify you personally. 
 
 The Process places "cookies" on your hard drive. Cookies are small amounts of textual information which allow the Process to work better for you by storing information such as the vehicle you’re currently configuring, etc. These cookies are only used by the Process during the time you’re in the Process. We don’t collect them or use them in other ways. If you don’t like the fact that cookies are placed on your hard drive by our Process or any other Web site, you can set your browser preferences so that you don’t accept cookies, or only accept them on demand. 
+
+We have partnered with the 3rd party ad delivery companies such that anonymous information is collected regarding your visit to our site. This information is used to deliver the targeted ads to you as you surf the Internet. It is our understanding that this form of advertising delivery is in partnership with the site publishers and is not considered to be Spyware or Adware. Again, these companies do not collect any personally identifiable information through the use of their technology. These partners offer the ability to opt-out of their information collection method as follows. 
+
+  * DRIVEpm and Atlas DMT (www.networkadvertising.org)
+  * Advertising.com (www.advertising.com/Privacy.html)
+
+
 
 If you ask to be introduced to an auto dealer or dealer network through our Process, one of two things will happen. 
 
