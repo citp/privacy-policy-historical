@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voipreview.org privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614221014id_/http%3A//www.voipreview.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipreview.org privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215071909id_/http%3A//voipreview.org/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Voip Review
+# Voip Review Privacy Policy
 
 **PRIVACY STATEMENT**
 
@@ -17,6 +17,3 @@
 **Correction/Updating Personal Information** If a user's personally identifiable information changes (such as a ZIP code), or if a user no longer desires our service, we will provide a way to correct, update or remove that user's personal data.
 
 **Choice/Opt-out** Our users are given the opportunity to opt out of having their information used for purposes not directly related to our site at the point where we ask for the information.
-
-Powered by: | [](http://www.voipreview.org/)  
----|---
