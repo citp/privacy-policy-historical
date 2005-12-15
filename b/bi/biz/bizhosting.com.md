@@ -1,84 +1,63 @@
-> *The following text is extracted and transformed from the bizhosting.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202032317id_/http%3A//bizhosting.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizhosting.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215073951id_/http%3A//www.bizhosting.com/fs_img/search/privacy-statement.htm) for the most accurate reproduction.*
 
-# Bizhosting
+# Online Stores Made Easy - Bizhosting
 
-|  | 
+United Online Web Services, Inc. (“United Online Web Services”), a United Online Company, provides various consumer Internet subscription services including Internet web sites, web hosting services, domain registration, e-mail services and other services (collectively, the “Services”) under multiple brands including , without limitation, emailMyName, mySite, FreeServers, 50megs, Community Architect, and BizHosting. United Online Web Services is committed to safeguarding your privacy online and created this Privacy Statement in order to demonstrate our firm commitment to protecting the online privacy of users of our services 
 
-Privacy Policy Detailed Review...  
+By using the Services you consent to our gathering, use and disclosure of your information, as described in this Privacy Statement, the Terms of Service and the other documents, agreements and materials incorporated therein (collectively referred to as the “Rules”). This Privacy Statement may change from time to time and United Online Web Services will provide notice of changes as described in the Terms of Service. 
 
+Questions regarding this Statement should be directed Attn: Legal Department - Privacy, United Online Web Services, Inc., c/o United Online, Inc., 75 9th Avenue, 4th Floor, New York, NY 10011. 
 
->   * Information We Gather or Track
->   * What We Do with Collected Information
->   * Who Can Use Collected Information and How
->   * Choosing to Opt-out of Information Collection
->   * Corrections & Updates to Personal Information
->   * Deleting or Deactivating Your Name from Our Database
->   * [Children's Privacy](https://web.archive.org/about/kids_privacy_policy.html)
->   * How to Contact Bizhosting
-> 
+This Privacy Statement explains the following: 
 
-
-> Questions regarding this statement should be directed to the Bizhosting site coordinator [webmaster@bizhosting.com](mailto:webmaster@bizhosting.com). To return to the Site, please use the "Back" button on your browser. Please be aware that this site contains links to other sites. Bizhosting is not responsible for the privacy practices or content of such Web sites. 
-
-  
-Information We Gather or Track
-
-> Information on general usage and any optional personal details you provide to us will be used to provide you with enhanced features. The following are details of the information we collect:  
-> 
-> 
->   * Bizhosting only collects a minimal amount of data when you become a member. Specifically we require the following fields: First Name, Last Name, Password, Email, Birth Year and Month, Company Name, Company Location, and Zip code. 
->   * Bizhosting collects data so that we may display personalized content to our visitors. Additionally, usage information may be analyzed so that we can judge our system's performance or execute your customized features. 
->   * We collect information from visitors to our member's pages. This information allows us to give our members statistics about their web sites. The information that we collect is: Date, Time, IP Address, Referrer, and Query strings. 
->   * Your browser offers so-called "cookies" which -- if you allow their use -- store small amounts of data on your computer about your visit to any of our sites. Cookies assist us in tracking which of our features you like best. Cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information. Cookies are required for members for authentication purposes when using the Bizhosting tools. 
->   * Surveys may ask for contact information or unique identifying information to increase the value of the results. Contests may require contact information or other demographic/personal information in order to determine your eligibility. You do not have to participate in surveys or contests. 
->   * Some of the banner ads displayed on Bizhosting are provided by outside companies. These ads may contain cookies. You may have a cookie placed on your browser by DoubleClick, which is the media company that serves our ads. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our advertisers and we do not have access to this information. Cookies in and of themselves do not contain any personally identifiable information about you. 
-> 
+  1. What information does United Online Web Services gather? 
+  2. How does United Online Web Services gather information? 
+  3. How does United Online Web Services use the gathered information? 
+  4. With whom does United Online Web Services share information we gather? 
+  5. How may you access or update stored information about you? 
+  6. How does United Online Web Services protect your personal information? 
+  7. Use of Cookies; E-mail Pixels. 
 
 
-What We Do with Collected Information
 
->   * From time to time we extend various offers through our partner companies. These may include news or additional details on their products and services. Your personal preferences or usage history may result in your being offered special screens or products. These offers would be sent via Bizhosting and your personal information is not shared with entities outside of Bizhosting. Some personal information, such as email, may be shared with a partner company, but only when you have previously agreed to the transfer. 
->   * We produce aggregate reports for advertisers. For example, we tell advertisers how many people saw or clicked on an ad and additionally, how many people saw or clicked on ads in different portions of our service. Where available, we may offer additional information about viewer characteristics. However this does not include personally identifiable information about you or your online usage patterns. Our advertisers allow us to provide our service to you. In return, they need to know how to effectively place their ads to potential customers. 
->   * Bizhosting sends a biweekly newsletter to our members. This is a required service of Bizhosting. If you would like to stop receiving the newsletters you may unsubscribe by removing your account. 
-> 
+**1\. What information does United Online Web Services gather?**
 
+United Online Web Services gathers information about you and your use of the Services as set forth below. 
 
-Who Can Use Collected Information and How
-
->   * As mentioned in our "What We Do With Collected Information" section, we provide our advertisers with aggregate reports on advertising activity. 
->   * Feedback is used by the Bizhosting staff. 
->   * Please be aware that if you voluntarily disclose information online, personal or otherwise, that information can be collected and used by others. Bizhosting will have no means to control this. 
-> 
+  * **Information about you**. United Online Web Services collects personal information about you including, without limitation, personally identifiable information (such as your name, address, phone number and e-mail address) and financial information (such as your credit card information). For some of our Services we may also ask other information about you such as your age or other demographic information. United Online Web Services may also collect your contact information and correspondence if you contact us by e-mail or letter. 
+  * **Information about your use of the Services**. United Online Web Services collects information about your use of the Services including, without limitation, data about your computer (such as operating system type, browser type, software installed on your computer) and your web browsing information (such as referring URL’s as well as your IP address). 
 
 
-Our Disclosure of Your Information
 
->   * Bizhosting does not sell or commercially make available specific information about its users or members other than in aggregate form, except in cooperation with law enforcement bodies in regards to content violations or violations of applicable laws. 
-> 
+**2\. How does United Online Web Services gather information?** United Online Web Services gathers information that you submit on any United Online Web Services registration forms, surveys, questionnaires or other online forms. United Online Web Services gathers information about your use of the Services during such use, and you understand that you are not anonymous to us. United Online Web Services may also gather new information or update information from other sources including, for example, verifying and updating your address using third party services, using various methods to update your credit card expiration date or collecting information from our business partners. 
 
+**3\. How does United Online Web Services use the gathered information?** United Online Web Services uses your information to make your use of the Services more personalized and convenient. United Online Web Services uses your information to display or deliver materials, such as e-mails, surveys and content. United Online Web Services may use your information to target such materials so that they may be more relevant to you than materials that would be provided without the use of your information. United Online Web Services may use your information to make online transactions more convenient for you, such as pre-filling online forms that you may submit to us or, for some of our Services, this information may be pre-filled for third parties. United Online Web Services may provide your information to third parties as described below in Section 4. 
 
-Our Security Measures
-
->   * Bizhosting uses secure server software (SSL) to encrypt payment information and member data against unauthorized access. However, we cannot be responsible for how third parties, whose links appear on our site, use your information. You should know that no data transmission is one hundred percent guaranteed. Because your site is ultimately protected by you and your password, much of your information security is up to you. 
->   * Bizhosting has implemented additional precautions to ensure the privacy of your personal information. We have a strict firewall in place which does not allow any outside access. Access in the company is limited to only individuals who need to be able to see customer data in order to perform their job functions, such as the billing department. Important personal data is backed up on the network to help insure its integrity. All employees are under a confidentiality agreement. 
-> 
+  * United Online Web Services uses your information to conduct and provide market research and data analysis services. 
+  * United Online Web Services uses your information to provide, support and maintain the Services including, for example, to monitor and diagnose the Services, to provide technical support, to bill you for the Services and to contact you with respect to the Services or other United Online Web Services products or services. 
 
 
-Corrections & Updates to Personal Information
 
->   * Members can change or correct information about themselves previously collected information via an online forms at http://members.bizhosting.com/cgi-bin/util/info. which are part of our registration system. If there is a problem with a change being accepted by our system, you may contact us at the email address:
-> 
-> [support@bizhosting.com](mailto:support@bizhosting.com)
-> 
->   * Members are notified of any changes in the Bizhosting Privacy Policy in the bi-weekly newsletter. 
-> 
+**4\. With whom does United Online Web Services share information we gather?**
+
+  * United Online Web Services will not disclose your personally identifiable information to any third party, except if you have given us your consent for such disclosure or if the disclosure is described below. United Online Web Services may share your non-personally identifiable information with third parties. 
+  * United Online Web Services may share your personally identifiable information with third parties that provide services on behalf of United Online Web Services. Such third parties do not have the right to use your information for any purpose other than to provide the applicable service. 
+  * United Online Web Services may share your personally identifiable information with its affiliates that protect your personally identifiable information from disclosure to non-affiliated third parties in a manner similar to this Privacy Statement. 
+  * If United Online Web Services sells, assigns or transfers the part of its business that provides a particular Service to you, your personally identifiable information may be sold, assigned or transferred as a part of such transaction. 
+  * United Online Web Services may disclose your personally identifiable information, any communications sent or received by you, and any other information that we may have about your account as follows: as may be required by law, regulation, rule or court order; pursuant to requests from governmental agencies or law enforcement authorities; as necessary to identify, contact or bring legal action against someone who may be violating the Rules; to operate the Services properly; or to protect United Online Web Services, our members or other third parties including, without limitation, other emergency situations. 
 
 
-Your Choices
 
->   * You may choose not to receive special offers and discounts simply by not registering for any special deals and offers when you sign up. If you signed up for special offers and now wish to unsubscribe, you may do so at any time by replying to the unsubscribe link contained in those mailings. 
->   * Any Bizhosting member may cancel their membership at any time by going to **<http://members.bizhosting.com/cgi-bin/util/deleteaccount>**. When an account is cancelled, all user information is removed from the Bizhosting system related to that account, other than that in aggregate form. 
-> 
-  
-  
----|---
+**Third Party Sites and Co-Branded Services.** United Online Web Services may advertise, promote, reference, recommend or provide links to third party sites, services and products. These third parties may have their own privacy policies, which may not comply with this Privacy Statement, even if the site, service or product is branded with United Online Web Services’ logo or name. United Online Web Services IS NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OF SUCH THIRD PARTIES OR ANY OTHER THIRD PARTIES. United Online Web Services recommends that you review the privacy policies of any such third parties. 
+
+**5\. How may you access or update stored Information about you?** You may review and update your information stored as a part of your account in either the personal profile or billing information areas at any time. To access such information, please click on the “My Account” link or tab from the home page of your Service. 
+
+**6\. How does United Online Web Services protect your personal information?** All of your account information is password protected for your security. Your billing information is transmitted and displayed using industry-standard SSL encryption. While United Online Web Services believes that it has implemented reasonable security, United Online Web Services cannot guarantee that our security measures will prevent unauthorized third parties, such as hackers, from obtaining or accessing your information. 
+
+**7\. Use of Cookies; E-mail Pixels.** United Online Web Services uses a feature of your Web browser called “cookies” to automate certain aspects of our Web site. Cookies are very small files that are stored on your computer and that enable us to recognize your computer each time you return to our site. By using cookies, United Online Web Services can keep track of your preferences, what you have already seen on our site and what you haven't, and any personalization you've done, without requiring you to enter a password every time you come back. United Online Web Services uses any information gathered using our cookies in compliance with this Privacy Statement. 
+
+Third parties, including advertisers with whom United Online Web Services may have a relationship, may also set cookies. Such third parties are responsible for placing and using such cookies and may collect information about you through such cookies; United Online Web Services does not have access to such cookies, control the use of such cookies nor control over the privacy policy of such parties. 
+
+We may use an e-mail delivery and marketing company to send you e-mails. Pixel tags and cookies are used in those e-mail messages and at our website to help us measure the effectiveness of our advertising and how visitors use our site. 
+
+v7.5
