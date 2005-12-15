@@ -1,43 +1,60 @@
-> *The following text is extracted and transformed from the cinemanow.com privacy policy that was archived on 2004-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040722013801id_/http%3A//www.cinemanow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemanow.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215081531id_/http%3A//www.cinemanow.com/Privacy.aspx) for the most accurate reproduction.*
 
-# CinemaNow - Privacy Policy
+# CinemaNow - Watch Movies and More..
 
-[](http://www.cinemanow.com/home.aspx)[](https://web.archive.org/web/20040722013801id_/http%3A//www.cinemanow.com/pp_7_dt.aspx)  
-|  |  [ ](http://www.cinemanow.com/how.aspx) |  [ ](http://www.cinemanow.com/purchase_option.aspx) |  [ ](http://www.cinemanow.com/pctv.aspx) |  [ ](http://www.cinemanow.com/help.aspx) |  |  [ ](http://www.cinemanow.com/myaccount.aspx) |  [ ](http://www.cinemanow.com/shcart.aspx) |  [ ](http://www.cinemanow.com/rcoupon.aspx)  
----|---|---|---|---|---|---|---|---  
-|  |  |  | [Home](https://web.archive.org/web/20040722013801id_/http%3A//www.cinemanow.com/home.aspx) > Privacy Policy | [](https://web.archive.org/web/20040722013801id_/http%3A//www.cinemanow.com/pp_7_dt.aspx)  
+---  
+| |    
+  
+  
+[](https://web.archive.org/web/20051215081531id_/http%3A//www.cinemanow.com/GiftCert.aspx)
+
+[](http://www.microsoft.com/windows/windowsmedia/player/download/)
+
+[Download Windows Media Player 10](http://www.microsoft.com/windows/windowsmedia/player/download/) |  |  |   
 ---|---  
-| 
-
-Okay, so here's the deal regarding your privacy and CinemaNow, Inc. ("CinemaNow"). The first thing you should know is that we respect your privacy (hell, we wouldn't want people invading our privacy either). The second thing you should know is that we're collecting information about you. Not a lot of information (for instance, we don't keep track as to who you're sleeping with) but some information. 
-
-If you've tried to watch one of our free movies you realized that we asked you some questions. If you haven't signed up yet to watch a free movie, here's the info that we're going to ask: your user name, e-mail address, and password. For the pay-per- view and premium movies we're going to ask for some credit card information. The standard stuff such as full name, billing address, credit card number, expiration date and your e-mail again.   
+Privacy Policy  
   
----  
-| 
-
-And that's all that we ask you to tell us about you (that wasn't too bad, was it?). However, to be honest we do obtain a bit more info about you. For instance, we keep track of what films you watch. We do this so that we can send you information about other films that we think you would enjoy (after all, it's all about you, isn't it?). We also keep track of how much time you spend on our site (but we promise not to tell your boss), what parts of our site you visit, where you came from (as in what site you were at before coming to CinemaNow) and what site you go to when you leave CinemaNow (though we can't imagine why anyone would ever want to leave CinemaNow). We also know what kind of a browser you use, what type of an operating system your computer uses and other nifty computer info. 
-
-We know you realize this but, just in case anyone's asleep at the switch (or too hung over to have thought about it), if you buy something from our web site, well, we are going to know who we ship it to, where it gets shipped to, and the credit card number used to pay for the goods. We really hope that this isn't a surprise to anyone.  
+* * *  
   
----  
-  
-The other thing you should know is that we have (or at least hope to have) advertisements on our site. This is actually a good thing because it gives us revenue and allows us to provide all the really wonderful things that we provide to you free of charge (you just have to watch our ads, over and over and over and over and over again. Like they say, there's no such thing as a free lunch). 
-
-The other thing about the ads on our site is that the company that serves the ads uses "cookie" technology. And, since we're sure you're wondering, we'll tell you the story about these "cookies." A "cookie" (we're going to stop putting that word in quotes from now on) is a small file that is placed on your computer and uniquely identifies your computer to the ad server that reads it. The cookie doesn't identify you as a person, only your computer.  
-  
-Now here's the really interesting (or scary) part. The ad company has relationships with lots of web sites. And they all use cookies. So the ad company knows what sites (at least those that they have a relationship with) your computer surfs at. Now, the ad company doesn't know who is operating the computer and they don't collect personal identifying information about you (such as your name, etc.) so your privacy is protected in that regard. Your computer's privacy, however, is not protected. The ad company keeps track of what your computer is doing. The ad company that we use for banner ads is DoubleClick (and/or one or more of their subsidiaries such as the Sonar Network). If you would like more information about DoubleClick and their practices and to know your choices about not having this information used by DoubleClick, please click here. 
-
-Right about now you're probably saying to yourself, "hey, wait a minute. Aren't they also using cookies to keep track of me when I sign in to the CinemaNow site?" And the answer is, yes, we are. So that you don't have to log in every time you visit CinemaNow, we use cookies to keep track of your log in information. And, as you know, that includes personal identifying information such as your name. But (and you have our word on this), we don't mix our cookies (we don't toss our cookies either, but that's a different story). So, the info that our cookies get pertaining to your log-in information is separate and distinct from the information that the ad serving cookies get about you.   
-  
-As long as we're talking about privacy, let's talk about e-mails. When you log into CinemaNow there's a little box that's pre-checked that tells us to send you e-mails about us and our partners. We figure you'd like to get this info so we've pre-checked the box for you. Of course if you don't want the info (or if you change your mind) simply un-check the box. Then we won't send you e-mail information. 
-
-Here's the kind of e-mail that we'll send you. Our (hope to be) award winning e-mail newsletter, information about movies we think you might like, info about upcoming contests, festivals, etc. We might also send you info about products from other companies that we have a relationship with. We won't give them your e-mail address (or other personally identifying data) but we will send you info on their behalf. Of course if you get tired of getting our e-mails, just tell us to stop and we will.   
-  
-The other thing that you should know, and this is important, is that should CinemaNow be sold (whether or not as part of a bankruptcy proceeding), your personal information will be sold to the company or companies that acquire CinemaNow's assets. Also, since we acquire all of the movies on our site from third parties, we need to let them know how their movies are performing. And, as part of that process, we will tell them how often their films played, how much of the film was watched each time and other, non-personal information. Just wanted you to know. 
-
-So that's our privacy policy. If you have any questions or comments, just drop us an e-mail and we'll try to answer you. God bless.   
-  
+[Terms of Use](https://web.archive.org/web/20051215081531id_/http%3A//www.cinemanow.com/terms.aspx)   |   Privacy Policy  
 |   
-|  |   
-|  |  |  | 
+---  
+| Okay, so here's the deal regarding your privacy and CinemaNow, Inc. ("CinemaNow"). The first thing you should know is that we respect your privacy (hell, we wouldn't want people invading our privacy either). The second thing you should know is that we're collecting information about you. Not a lot of information (for instance, we don't keep track as to who you're sleeping with) but some information.
+
+If you've tried to watch one of our free movies you realized that we asked you some questions. If you haven't signed up yet to watch a free movie, here's the info that we're going to ask: your user name, e-mail address, and password. For the pay-perview and premium movies we're going to ask for some credit card information. The standard stuff such as full name, billing address, credit card number, expiration date and your e-mail again.
+
+And that's all that we ask you to tell us about you (that wasn't too bad, was it?). However, to be honest we do obtain a bit more info about you. For instance, we keep track of what films you watch. We do this so that we can send you information about other films that we think you would enjoy (after all, it's all about you, isn' t it?). We also keep track of how much time you spend on our site (but we promise not to tell your boss), what parts of our site you visit, where you came from (as in what site you were at before coming to CinemaNow) and what site you go to when you leave CinemaNow (though we can't imagine why anyone would ever want to leave CinemaNow). We also know what kind of a browser you use, what type of an operating system your computer uses and other nifty computer info.
+
+|   
+  
+  
+| We know you realize this but, just in case anyone's asleep at the switch (or too hung over to have thought about it), if you buy something from our web site, well, we are going to know who we ship it to, where it gets shipped to, and the credit card number used to pay for the goods. We really hope that this isn't a surprise to anyone.
+
+The other thing you should know is that we have (or at least hope to have) advertisements on our site. This is actually a good thing because it gives us revenue and allows us to provide all the really wonderful things that we provide to you free of charge (you just have to watch our ads, over and over and over and over and over again. Like they say, there's no such thing as a free (lunch).
+
+The other thing about the ads on our site is that the company that serves the ads uses "cookie" technology. And, since we're sure you're wondering, we'll tell you the story about these "cookies." A "cookie" (we're going to stop putting that word in quotes from now on) is a small file that is placed on your computer and uniquely identifies your computer to the ad server that reads it. The cookie doesn't identify you as a person, only your computer.
+
+|   
+  
+  
+| Now here's the really interesting (or scary) part. The ad company has relationships with lots of web sites. And they all use cookies. So the ad company knows what sites (at least those that they have a relationship with) your computer surfs at. Now, the ad company doesn't know who is operating the computer and they don't collect personal identifying information about you (such as your name, etc.) so your privacy is protected in that regard. Your computer's privacy, however, is not protected. The ad company keeps track of what your computer is doing. The ad company that we use for banner ads is DoubleClick (and/or one or more of their subsidiaries such as the Sonar Network). If you would like more information about DoubleClick and their practices and to know your choices about not having this information used by DoubleClick, please click here.
+
+Right about now you're probably saying to yourself, "hey, wait a minute. Aren't they also using cookies to keep track of me when I sign in to the CinemaNow site?" And the answer is, yes, we are. So that you don't have to log in every time you visit CinemaNow, we use cookies to keep track of your log in information. And, as you know, that includes personal identifying information such as your name. But (and you have our word on this), we don't mix our cookies (we don't toss our cookies either, but that's a different story). So, the info that our cookies get pertaining to your log-in information is separate and distinct from the information that the ad serving cookies get about you.
+
+As long as we're talking about privacy, let's talk about e-mails. When you log into CinemaNow there's a little box that's prechecked that tells us to send you e-mails about us. We figure you'd like to get this info so we've pre-checked the box for you. Of course if you don't want the info (or if you change your mind) simply un-check the box. Then we won't send you e-mail information. There is also an opt-in box that allows us to send you information about our partners and content suppliers. If you want to receive this information, you'll have to do the checking yourself.
+
+|   
+  
+  
+| Here's the kind of e-mail that we'll send you. Our (hope to be) award winning e-mail newsletter, information about movies we think you might like, info about upcoming contests, festivals, etc. We might also send you info about products from other companies that we have a relationship with. We won't give them your e-mail address (or other personally identifying data) but we will send you info on their behalf. Of course if you get tired of getti ng our e-mails, just tell us to stop and we will.
+
+The other thing that you should know, and this is important, is that should CinemaNow be sold (whether or not as part of a bankruptcy proceeding), your personal information will be sold to the company or companies that acquire CinemaNow's assets. Also, since we acquire all of the movies on our site from t hird parties, we need to let them know how their movies are performing. And, as part of that process, we will tell them how often their films played, how much of the film was watched each time and other, non-personal information. Just wanted you to know.
+
+So that's our privacy policy. If you have any questions or comments, just drop us an e-mail and we'll try to answer you. God bless.
+
+|   
+  
+| Recently Browsed  
+---  
+  
+
