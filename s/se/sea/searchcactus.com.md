@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchcactus.com privacy policy that was archived on 2005-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050319025640id_/http%3A//www.searchcactus.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchcactus.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215114405id_/http%3A//www.searchcactus.com/privacy.asp) for the most accurate reproduction.*
 
 # SearchCactus.com - Privacy policy
 
@@ -7,7 +7,7 @@
 
 Effective on: 09/02/04
 
-[](https://www.truste.org/ivalidate.php?url=www.searchcactus.com)SearchCactus.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
+[](https://www.truste.org/ivalidate.php?url=www.searchcactus.com&sealid=101)SearchCactus.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
   1. What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site
   2. The organization collecting the information 
