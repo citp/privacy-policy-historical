@@ -1,20 +1,34 @@
-> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2005-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050607004432id_/http%3A//www.fcc.gov/webpolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215081652id_/http%3A//www.fcc.gov/webpolicies.html) for the most accurate reproduction.*
 
-# FCC Web Site Policies, Privacy Statement and Notices
+# Website Policies, Important Notices and Links
 
   
-FCC Web Site Policies
+
+
+  
+[](http://www.fcc.gov/fcc-bin/bye?http://www.regulations.gov/)   
+Find, review, & submit comments on Federal documents  
+[www.Regulations.gov](http://www.fcc.gov/fcc-bin/bye?http://www.regulations.gov/)   
+[](http://www.fcc.gov/fcc-bin/bye?http://www.firstgov.gov/)   
+Easy, one-stop access to all online U.S. Federal Government resources  
+[www.FirstGov.gov](http://www.fcc.gov/fcc-bin/bye?http://www.firstgov.gov/) |  |   
+
+
+Website Policies, Important Notices & Links
+
+  
+
+
+Access for People with Disabilities 
+
+The FCC is committed to making the electronic technologies we deploy accessible to individuals with disabilities. In this effort, we work with the Access Board, an independent Federal agency devoted to accessibility for people with disabilities. The Access Board established Federal standards for electronic and information technology under Section 508 of the Rehabilitation Act. We incorporate Section 508 compliance testing in the design, development and maintenance of our website. The Commission's work on accessible design is continuous, and we welcome [feedback](mailto:webmaster@fcc.gov) on improving the accessibility features of our site. To learn more about actions the FCC is taking to ensure that new technologies are accessible, visit our [Disability Rights Office web page](http://www.fcc.gov/cgb/dro/).
+
+  
+
 
 Customer Service Standards 
 
-You will always be treated with courtesy and can expect these [Standards of Customer Service](https://web.archive.org/web/20050607004432id_/http%3A//www.fcc.gov/css.html) when interacting with us.
-
-  
-
-
-Disclaimer of Endorsement 
-
-This Internet site contains hypertext links to information created and maintained by other public and private organizations. These links are provided for your convenience. The Federal Communications Commission does not control or guarantee the accuracy, relevance, timeliness or completeness of this outside information. Further, the inclusion of links to particular items in hypertext are not intended to reflect their importance, nor is it intended to endorse any views expressed or products or service offered on these outside sites, or the organizations sponsoring the sites.
+You will always be treated with courtesy and can expect these [Standards of Customer Service](https://web.archive.org/web/20051215081652id_/http%3A//www.fcc.gov/css.html) when interacting with us.
 
   
 
@@ -35,6 +49,18 @@ The FCC makes every effort to insure that the information on this website is acc
   
 
 
+Linking Policy & Disclaimer of Endorsement 
+
+This Internet site contains hypertext links to information created and maintained by other public and private organizations. These links are provided for your convenience. The Federal Communications Commission does not control or guarantee the accuracy, relevance, timeliness or completeness of this outside information. Further, the inclusion of links to particular items in hypertext are not intended to reflect their importance, nor is it intended to endorse any views expressed or products or service offered on these outside sites, or the organizations sponsoring the sites.
+
+  
+
+
+On May 15, 2002, President Bush signed into law the Notification and Federal Employee Anti-Discrimination and Retaliation (No Fear) Act, which increases federal agency accountability for acts of discrimination or reprisal against employees. Visit our [No Fear Act Web Page](http://www.fcc.gov/owd/no-fear-act.html) to view the Equal Employment Opportunity Data that the FCC posts pursuant to the No Fear Act.
+
+  
+
+
 Paperwork Reduction Act & FCC Information Collections 
 
 The FCC collects many different kinds of information from the public. The Paperwork Reduction Act of 1995 (44 U.S.C. Part 35) requires the Commission, as well as other federal agencies, to get Office of Management and Budget (OMB) approval before collecting most kinds of information. The FCC currently has over 500 approved information collections. Once OMB approves a collection the FCC must ask OMB to renew its approval at least once every three years for as long as the collection is needed. These renewals are known as extensions. The Commission must also request OMB approval whenever it makes a significant change to a collection. Read more about [FCC Information Collections and the Paperwork Reduction Act](http://www.fcc.gov/omd/pra/).
@@ -42,25 +68,21 @@ The FCC collects many different kinds of information from the public. The Paperw
   
 
 
-The Federal Communications Commission provides this Internet site as a public service. We do not obtain personally identifying information about you when you visit this site unless you choose to provide such information to us.
+Plug-ins, Players & Readers 
 
-The FCC posts a Privacy Act notice at those places on this site where the Commission needs to collect any individually identifiable information for use by the FCC.
-
-Any information collected within the context of your email inquiry or comment is used only for the expressed purpose of responding to your inquiry or comment. We collect personally identifiable information only if specifically and knowingly provided by you. We do not give, sell, or rent visitor information to third parties for commercial marketing.
-
-For site management, information is collected for statistical purposes. This government computer system uses software programs to create summary statistics, which are used for purposes such as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. This information is not expressed in any form that would reveal personally identifiable information.
-
-The FCC provides numerous online software programs that support the Universal Licensing System, Antenna Structure Registration, Auctions, and other FCC functions. When a user visits the FCC web site to perform a transaction (sending an application, initiating a query, receiving a query response, etc), the web server receives data or sends a response and then may send a cookie prior to breaking the connection with the user. A cookie is a small piece of software that is placed by a web server on users’ personal computers and is then used to personalize the site when a visitor returns. A transaction or session, may involve a number of such information exchanges, each followed by a break in the connection. In order to maintain the state (where one is in the process) of a transaction, the FCC web sites may place session cookies in memory allocated to users’ browsers. Session cookies permit the users to perform transactions as if they were connected to the FCC web site throughout the course of the transactions or sessions. Session cookies are erased from the users’ systems when they close their browsers.
+The FCC provides information on its web site in a variety of file formats that best match the transmittal and display requirements of the information, while taking into account the level of resources typically available to its visitors. Most of these file formats are easily read and displayed by standard web browsers or word processing programs, but some files whose formats have been specifically developed for transmitting and displaying special content, such as multimedia or very precisely defined documents, may require the use of additional software to be presented correctly. Visit our [Plug-ins, Players and Readers Web Page](http://www.fcc.gov/plug-ins.html) for more information and links for downloading the required software.
 
   
 
 
-You are entering an official United States Government System, which may be used only for authorized purposes. Unauthorized modification of any information on this system may result in criminal prosecution. The Government may monitor or audit the usage of this system, and all persons are hereby notified that use of this system constitutes consent to such monitoring and auditing.
+We respect your right to privacy and will protect it when you visit our website. The FCC collects no personal information about you when you visit our website unless you specifically and knowingly choose to provide such information to us. If you choose to provide information to us, we use it only to fulfill your request for information or services. [Visit our Privacy Policy Web Page for more information.](https://web.archive.org/web/20051215081652id_/http%3A//www.fcc.gov/fccprivacypolicy.html)
 
   
 
 
-E-Authentication focuses on confirming a person’s identity, based on the reliability of his or her credential. Confidence in the security of information exchanged over the Internet plays a vital role in E-Government. E-Authentication helps to enable trust in online exchanges between entities and government. The FCC conducted an assessment of its web-based systems. The results of the 2004 E-Authentication assessment are summarized and may be obtained by request via email: [E-Authentication@fcc.gov](mailto:E-Authentication@fcc.gov)
+The FCC website is an official United States Government System, which may be used only for authorized purposes. Unauthorized attempts to upload information or change information on FCC servers are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. The Government may monitor or audit the usage of this system, and all persons are hereby notified that use of this system constitutes consent to such monitoring and auditing.
+
+E-Authentication. Confidence in the security of information exchanged over the Internet plays a vital role in E-Government. E-Authentication supports E-Government by helping to enable trust in online exchanges between entities and government. E-Authentication at FCC focuses on confirming a person’s identity, based on the reliability of his or her credential when using an FCC web-based system. The FCC conducted an E-Authentication assessment of its web-based systems. The results of the 2005 and 2004 E-Authentication assessments are summarized and may be obtained by request via email: [E-Authentication@fcc.gov](mailto:E-Authentication@fcc.gov). This notice is presented in compliance with Office of Management and Budget's "[E-Authentication Guidance for Federal Agencies](http://www.fcc.gov/fcc-bin/bye?http://www.whitehouse.gov/omb/memoranda/fy04/m04-04.pdf)".
 
   
 
@@ -74,4 +96,4 @@ The FCC maintains an inventory of FCC website content and associated on-line pub
 
 Web Site Maintenance Policy & Schedule 
 
-In order to ensure the reliability of the FCC web site, periodic routine maintenance of the underlying hardware and software systems is necessary. This maintenance is conducted between 2:00 a.m. and 6:00 a.m on the second Tuesday of every month. During this period the public may not have access to our on-line licensing applications or to the entire site.
+We strive to make the FCC’s network and on-line systems highly reliable and available. Toward this end, we must periodically bring down systems for service, software updates, repairs, routine maintenance and performance tuning. Accordingly, we have established a weekly network maintenance window - Sunday 10:00pm to Monday 6:00am (Eastern Time) – when some or all FCC systems might be brought down for maintenance work. While this work is essential, we also recognize that it presents an inconvenience for those of you who use our on-line systems. If at any given time maintenance is not required for that week, the Sunday maintenance window will be cancelled and a notification will be posted under the [FCC Network Infrastructure Status](http://www.fcc.gov/cgi-bin/EFBoards/systemstatus.cgi?index_t=../../pub/e-file/messages/ITC.html). On those occasions when it is necessary to bring down all systems, the appropriate notification will be posted in the same place.
