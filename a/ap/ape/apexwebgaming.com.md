@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the apexwebgaming.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527051912id_/http%3A//apexwebgaming.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexwebgaming.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215075827id_/http%3A//apexwebgaming.com/privacy.php) for the most accurate reproduction.*
 
-# Apex Web Gaming | Privacy Policy
+# Privacy Policy: Apex Web Gaming
 
-_This statement was last updated April 27, 2004._
+PRIVACY POLICY
+
+_This statement was last updated July 15, 2005._
 
    Here at Apex Web Gaming we are committed to giving you the best online experience possible. For most visitors, we gather no information at all, but for some users who request special services we must request some information. For this purpose we have posted the below privacy statement.
 
@@ -33,12 +35,12 @@ You also have a significant role in protecting your information. No one can see 
 
     **Use of Cookies**
 
-Cookies will never be placed on your computer by Apex Web Gaming nor by any third party. The only time cookies will be placed on your computer is if you are a registered user/owner. A cookie must be set to keep you logged into your account by holding account information that is essential for the login process.   
+Cookies will never be placed on your computer by Apex Web Gaming nor by any third party. The only time cookies will be placed on your computer is if you are a registered user/owner. A cookie must be set to keep you logged into your account by holding account information that is essential for the login process.
+
     **Changes to this Statement**
 
 Apex Web Gaming will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement.
 
     **Contact Information**
 
-Apex Web Gaming welcomes your comments regarding this Statement of Privacy, please contact us by [**e-mail**](http://apexwebgaming.com/contact.php).  
-
+Apex Web Gaming welcomes your comments regarding this Statement of Privacy, please contact us by [**e-mail**](http://apexwebgaming.com/contact.php).
