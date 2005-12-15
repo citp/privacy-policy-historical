@@ -1,8 +1,39 @@
-> *The following text is extracted and transformed from the leisurearts.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525125023id_/http%3A//www.leisurearts.com/customer_support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisurearts.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/customer_support/privacy.asp) for the most accurate reproduction.*
 
-# Leisure Arts - Privacy Policy
+# Leisure Arts
 
-Time Inc. Online Privacy Notice
+|   
+---  
+**[Crafts& Needlework](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/crafts_needlework/)**  
+**[Cooking& Entertaining](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/cooking_entertaining/)**  
+**[Home& Garden](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/home_garden/)**  
+**[Scrapbooking](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/scrapbooking/)**  
+**[Inspirational](http://www.leisurearts.com/search/default.asp?search=inspirational&x=16&y=15)**  
+**[Christmas](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/christmas/)**  
+  
+**[Quick Tips](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/quick_tips/)**  
+  
+**[New Releases](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/new_releases/)**  
+**[Store Locator](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/store_locator/)**  
+**[Commitment to Quality](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/customer_support/quality.asp)**  
+**[Let Us Hear From You](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/customer_support/)**  
+**[Corrections](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/customer_support/corrections.asp)**  
+**[Our Links](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/customer_support/links.asp)**  
+**For Wholesale  
+inquiries visit  
+[business.leisurearts.com](http://business.leisurearts.com/)**  
+  
+[](http://www.leisurearts.com/)  
+5701 Ranch Drive  
+Little Rock, AR 72223-9633  
+1-800-526-5111
+
+Copyright © 2005  
+Leisure Arts, Inc.  
+All Rights Reserved.  
+[Privacy Policy](https://web.archive.org/web/20051215011917id_/http%3A//newce/untitled%20folder/privacy.asp)  
+  
+| 
 
 Thank you for visiting LeisureArts.com, a Time Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Inc. site. Click here for a list of the Time Inc. businesses whose sites are governed by this Privacy Notice.
 
@@ -114,19 +145,16 @@ SURF
 THIS OLD HOUSE  
 YACHTING  
 TIME INC. HOME ENTERTAINMENT  
-TIME LIFE INC. 
+TIME LIFE INC.
 
 We and our advertisers may use third parties to serve or present the ads that appear on our site and to conduct research about the advertisements. For more about these third parties and their privacy/opt out policies, click on the links below:
 
-Atlas DMT: | [http://www.networkadvertising.org](http://www.networkadvertising.org/) or  
+| Atlas DMT: | [http://www.networkadvertising.org](http://www.networkadvertising.org/) or  
 <http://www.atlasdmt.com/privacy/>  
 ---|---  
-DoubleClick: | [http://www.networkadvertising.org](http://www.networkadvertising.org/) or   
+DoubleClick: | [http://www.networkadvertising.org](http://www.networkadvertising.org/) or  
 <http://www.doubleclick.com/us/>  
 MediaPlex: | [http://www.mediaplex.com](http://www.mediaplex.com/)  
 PGI: | <http://citi.bridgetrack.com/privacy.htm>  
 Dynamic Logic: | <http://www.dynamiclogic.com/index.php>  
-Millward Brown IntelliQuest | [http://www.intelliquest.com](http://www.intelliquest.com/)  
-  
-  
-
+Millward Brown IntelliQuest | [http://www.intelliquest.com](http://www.intelliquest.com/)
