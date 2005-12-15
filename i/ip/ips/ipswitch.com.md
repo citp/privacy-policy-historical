@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2005-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050317054000id_/http%3A//www.ipswitch.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215045846id_/http%3A//www.ipswitch.com/company/privacy.asp) for the most accurate reproduction.*
 
-# Ipswitch - Privacy Policy
-
-  
-  
-**Ipswitch Privacy Policy**
+# Ipswitch, Inc. - Ipswitch Privacy Policy
 
 Ipswitch is committed to protecting your privacy. The following discloses our information collection and use practices for our Website.
-
-**
-
-* * *
-
-**
 
 **WHAT INFORMATION DOES IPSWITCH.COM COLLECT AND HOW IS IT USED?**
 
@@ -63,7 +53,7 @@ messages. Ipswitch may continue to send you transactional messages relevant to o
 
 **CAN I CHANGE/MODIFY MY CONTACT INFO?**
 
-Ipswitch gives users the option to modify their contact information previously provided. Send e-mail to: [contactinfo@ipswitch.com](mailto:contactinfo@ipswitch.com)
+To modify your contact information previously provided, please [contact us](https://web.archive.org/company/contact/index.asp).
 
 * * *
 
