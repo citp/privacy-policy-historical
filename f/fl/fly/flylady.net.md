@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flylady.net privacy policy that was archived on 2005-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050613001610id_/http%3A//flylady.net/pages/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flylady.net privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215122621id_/http%3A//www.flylady.net/pages/Privacy.asp) for the most accurate reproduction.*
 
 # FlyLady.net: Privacy Policy
 
