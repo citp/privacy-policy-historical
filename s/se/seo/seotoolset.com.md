@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotoolset.com privacy policy that was archived on 2005-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050603235810id_/http%3A//www.seotoolset.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotoolset.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215070637id_/http%3A//www.seotoolset.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Statement - SEOToolSet
 
