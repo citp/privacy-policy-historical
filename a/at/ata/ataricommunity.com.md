@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ataricommunity.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527205746id_/http%3A//us.atari.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ataricommunity.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215063830id_/http%3A//us.atari.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Atari - US - Privacy
 
@@ -50,6 +50,7 @@ http://driver.gtgames.com/
 http://www.driver2.com/  
 http://www.dandheroes.com/  
 http://www.enterthematrixgame.com/  
+http://www.games.com/  
 http://www.godzillamonster.com/  
 http://www.gosplashdown.com/  
 http://www.grandprixgames.com/  
@@ -95,21 +96,15 @@ This Privacy Policy reflects the law of the United States. In France, the collec
 **What types of information does Atari collect?**  
 In order to give you the best experience on our Websites, Atari may collect information about you, but only if you voluntarily provide it to us. Typically, we may ask you to submit personal and/or demographic information in connection with any one of the following features or services. 
 
-  * Website registration   
-
-  * Game-specific registration  
-
-  * Newsletter subscription  
-
-  * Community forum  
-
+  * Online contact information 
+  * Website registration 
+  * Game-specific registration
+  * Newsletter subscription
+  * Community forum
   * Online Store
-  * Technical support  
-
-  * Contests, sweepstakes, and other promotions  
-
-  * Polls, surveys, or questionnaires  
-
+  * Technical support
+  * Contests, sweepstakes, and other promotions
+  * Polls, surveys, or questionnaires
   * Other features such as e-cards, wish lists, and tell-a-friend
 
 
