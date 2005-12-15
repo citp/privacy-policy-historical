@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the maxpersuasion.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404204851id_/http%3A//www.maxpersuasion.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxpersuasion.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215080105id_/http%3A//maxpersuasion.com/privacy.php) for the most accurate reproduction.*
 
 # Influence and Persuasion Techniques :: MaxPersuasion.com
+
+  * [Get The Newsletter](https://web.archive.org/subscription.php)
+  * [The Blog](https://web.archive.org/blog)
+  * [The Discussion Forum](http://persuasionmasterminding.com/forum)
+  * [Kenrick's Biography](https://web.archive.org/showpage.php?content=about)
+  * [Persuasion Training](https://web.archive.org/showpage.php?content=products)
+    * \- [Max Persuasion](https://secure.maxpersuasion.com/display_p.php?session=&pid=1)
+    * \- [The Coaching Club](https://secure.maxpersuasion.com/display_p.php?session=&pid=66)
+    * \- [Double Helix Seminar](http://dna-of-persuasion.com/)
+  * [Customer Support](https://web.archive.org/showpage.php?content=CS)
+
+| 
 
 ### **Privacy Policy**
 
