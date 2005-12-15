@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the clicksor.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403151835id_/http%3A//www.clicksor.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksor.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215053403id_/http%3A//clicksor.com/pp.php) for the most accurate reproduction.*
 
 # Clicksor.com Content Targeted Advertising
 
 |   | At  **Clicksor** , we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. We have NO access to any information collected by our Payment Services Providers and you may direct further inquiries here: 
 
 PAYPAL [ http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside)  
-2CHECKOUT [ http://www.2checkout.com/faqs.htm](ttp://www.2checkout.com/faqs.htm)
+2CHECKOUT [ http://www.2checkout.com/faqs.htm](http://www.2checkout.com/faqs.htm)
 
  **Cookies**  
 All browsers offer "cookies" and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information.   
