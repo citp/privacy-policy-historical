@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tarleton.edu privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305062104id_/http%3A//www.tarleton.edu/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tarleton.edu privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215011933id_/http%3A//www.tarleton.edu/main/privacy.html) for the most accurate reproduction.*
 
 # WWW Privacy Policy--Tarleton State University
 
@@ -30,7 +30,3 @@ Personal information collected by Tarleton State University via email and forms 
 
 If you have questions or concerns, please contact University Web Services at 254-968-9713 or via email [www@tarleton.edu](mailto:www@tarleton.edu)   
 
-
-* * *
-
-  **[Tarleton Home](http://www.tarleton.edu/)**
