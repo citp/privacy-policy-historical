@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the benjerry.com privacy policy that was archived on 2005-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050524233916id_/http%3A//www.benjerry.com/our_company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the benjerry.com privacy policy that was archived on 2005-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215074154id_/http%3A//www.benjerry.com/our_company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -12,7 +12,7 @@
 
 <script language="JavaScript" type="text/javascript">
 <!--
-var requiredVersion = 5;   // Version the user needs to view site (max 6, min 2)
+var requiredVersion = 5;   // Version the user needs to view site (max 8, min 2)
 var useRedirect = false;    // Flag indicating whether or not to load a separate
                            // page based on detection results. Set to true to
                            // load a separate page. Set to false to embed the
@@ -25,7 +25,9 @@ var flash4Installed = false;    // boolean. true if flash 4 is installed
 var flash5Installed = false;    // boolean. true if flash 5 is installed
 var flash6Installed = false;    // boolean. true if flash 6 is installed
 var flash7Installed = false;    // boolean. true if flash 7 is installed
-var maxVersion = 7;             // highest version we can actually detect
+var flash8Installed = false;    // boolean. true if flash 8 is installed
+var flash9Installed = false;    // boolean. true if flash 9 is installed
+var maxVersion = 9;             // highest version we can actually detect
 var actualVersion = 0;          // version the user really has
 var hasRightVersion = false;    // boolean. true if it's safe to embed the flash movie in the page
 var jsVersion = 1.0;            // the version of javascript supported
@@ -53,7 +55,9 @@ if(isIE && isWin){
   document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
   document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');  
   document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');
-  document.write('flash7Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))) \n');    
+  document.write('flash7Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))) \n');
+  document.write('flash8Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) \n');
+  document.write('flash9Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.9"))) \n');     
   document.write('</SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
 }
 // -->
@@ -79,7 +83,9 @@ function detectFlash() {
       flash4Installed = flashVersion == 4;
       flash5Installed = flashVersion == 5;
       flash6Installed = flashVersion == 6;
-	  flash7Installed = flashVersion >= 7;
+	  flash7Installed = flashVersion == 7;
+	  flash8Installed = flashVersion == 8;
+	  flash9Installed = flashVersion >= 9;
     }
   }
 
@@ -298,14 +304,27 @@ if (!useRedirect) {    // if dynamic embedding is turned on
 
 <br>
 
-<a href="/our_company/contact_us/forms/chunk_spelunker_signup.cfm">Be A ChunkSpelunker</a>
+<a href="/our_company/contact_us/forms/chunk_spelunker/index.cfm">Be A ChunkSpelunker</a>
 
 <br>
 <br>
 
+<table><tbody><tr><td align="center">
+<p class="small">
+ Ben <span class="ampersand"> &amp; </span> Jerry’s <a href="/scoop_shops/factory_tour/">Factory Tour</a>
+<br>
+I-89 Exit 10 to Route 100 North
+
+<br>
+Waterbury, VT</p>
+</td>
+<td>&nbsp;&nbsp;</td>
+<td align="center">
+<p class="small">
 <a href="/our_company/privacy/terms_of_use.cfm">©</a> Ben <span class="ampersand"> &amp; </span> Jerry’s Homemade Holdings, Inc.<br>
 30 Community Drive<br>
-South Burlington, VT 05403-6828</td></tr>
+South Burlington, VT 05403-6828</p>
+</td></tr></tbody></table></td></tr>
 	
 </tbody></table>
 
