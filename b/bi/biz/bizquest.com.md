@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402034636id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215070934id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
 
 # Business for Sale | Buy A Business or Sell A Business | Privacy Policy - BizQuest.com
 
