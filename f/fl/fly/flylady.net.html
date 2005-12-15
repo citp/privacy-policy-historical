@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flylady.net privacy policy that was archived on 2005-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050613001610id_/http%3A//flylady.net/pages/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flylady.net privacy policy that was archived on 2005-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215122621id_/http%3A//www.flylady.net/pages/Privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
@@ -12,100 +12,13 @@
 
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
 	<link rel="SHORTCUT ICON" href="http://www.flylady.net/images/flylady.ico">
-<style type="text/css">
-
-#dhtmltooltip{
-position: absolute;
-width: 150px;
-border: 2px solid black;
-padding: 2px;
-background-color: lightyellow;
-visibility: hidden;
-z-index: 100;
-/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
-filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
-}
-
-</style>
 
 	</head>
 
 	<body bgcolor="#ffffff" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0">
 	<div id="dhtmltooltip"></div>
 
-	<script type="text/javascript">
-
-	/***********************************************
-	* Cool DHTML tooltip script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
-	* This notice MUST stay intact for legal use
-	* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-	***********************************************/
-
-	var offsetxpoint=-60 //Customize x offset of tooltip
-	var offsetypoint=20 //Customize y offset of tooltip
-	var ie=document.all
-	var ns6=document.getElementById && !document.all
-	var enabletip=false
-	if (ie||ns6)
-	var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
-
-	function ietruebody(){
-	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-	}
-
-	function ddrivetip(thetext, thecolor, thewidth){
-	if (ns6||ie){
-	if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
-	if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
-	tipobj.innerHTML=thetext
-	enabletip=true
-	return false
-	}
-	}
-
-	function positiontip(e){
-	if (enabletip){
-	var curX=(ns6)?e.pageX : event.x+ietruebody().scrollLeft;
-	var curY=(ns6)?e.pageY : event.y+ietruebody().scrollTop;
-	//Find out how close the mouse is to the corner of the window
-	var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-20
-	var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-20
-
-	var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
-
-	//if the horizontal distance isnt enough to accomodate the width of the context menu
-	if (rightedge<tipobj.offsetWidth)
-	//move the horizontal position of the menu to the left by its width
-	tipobj.style.left=ie? ietruebody().scrollLeft+event.clientX-tipobj.offsetWidth+"px" : window.pageXOffset+e.clientX-tipobj.offsetWidth+"px"
-	else if (curX<leftedge)
-	tipobj.style.left="5px"
-	else
-	//position the horizontal position of the menu where the mouse is positioned
-	tipobj.style.left=curX+offsetxpoint+"px"
-
-	//same concept with the vertical position
-	if (bottomedge<tipobj.offsetHeight)
-	tipobj.style.top=ie? ietruebody().scrollTop+event.clientY-tipobj.offsetHeight-offsetypoint+"px" : window.pageYOffset+e.clientY-tipobj.offsetHeight-offsetypoint+"px"
-	else
-	tipobj.style.top=curY+offsetypoint+"px"
-	tipobj.style.visibility="visible"
-	}
-	}
-
-	function hideddrivetip(){
-	if (ns6||ie){
-	enabletip=false
-	tipobj.style.visibility="hidden"
-	tipobj.style.left="-1000px"
-	tipobj.style.backgroundColor=''
-	tipobj.style.width=''
-	}
-	}
-
-	document.onmousemove=positiontip
-
-</script>
-
+	<script language="javascript" src="/Scripts/tooltip.js"></script>
 	
 
 	
@@ -166,7 +79,9 @@ filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
  <br>
             <a href="/pages/WhyFly.asp" onmouseover="ddrivetip('<b>Why FLY?</b><br>Learn more about FlyLady\'s free mentoring list!', '#ceacc6')" ;="" onmouseout="hideddrivetip()">Why FLY?</a>
  <br>
-            <a href="/pages/FLYingLessons.asp" onmouseover="ddrivetip('<b>FLYing Lessons</b><br>Great info for beginning FLYers', '#ceacc6')" ;="" onmouseout="hideddrivetip()">FLYing Lessons</a>
+            <a href="/pages/begin_babysteps.asp" onmouseover="ddrivetip('<b>Beginner BabySteps</b><br>Great info for beginning FLYers', '#ceacc6')" ;="" onmouseout="hideddrivetip()">Beginner BabySteps</a>
+ <br>
+             <a href="/pages/flyinglessons.asp" onmouseover="ddrivetip('<b>FLYing Lessons</b><br>Lessons to keep you FLYing', '#ceacc6')" ;="" onmouseout="hideddrivetip()">FLYing Lessons</a>
  <br>
             <a href="/pages/cjmain.asp" onmouseover="ddrivetip('<b>Control Journal</b><br>Learn how to create your very own Control Journal; an operations manual for your home.', '#ceacc6')" ;="" onmouseout="hideddrivetip()">Control Journal</a>
  <br>
@@ -189,6 +104,8 @@ filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
             <a href="/pages/askflylady1.asp" onmouseover="ddrivetip('<b>Ask FlyLady</b><br>FlyLady answers questions submitted by members', '#ceacc6')" ;="" onmouseout="hideddrivetip()">Ask FlyLady</a>
  <br>
  <a href="/pages/FlyShop.asp" onmouseover="ddrivetip('<b>The FlyShop</b><br>This is FlyLady\'s Tool Box full of useful tools available for you to purchase.', '#ceacc6')" ;="" onmouseout="hideddrivetip()">The FlyShop</a>
+ <br>
+  <a target="_blank" href="http://www.heytom.net/" onmouseover="ddrivetip('<b>Hey Tom</b><br>Get the male perspective on any given subject. ', '#ceacc6')" ;="" onmouseout="hideddrivetip()">Hey Tom</a>
  </b></p>
 
 </div>
