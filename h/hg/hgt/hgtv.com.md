@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hgtv.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406014539id_/http%3A//hgtv.com/hgtv/about_us/article/0%2C1783%2CHGTV_3080_1424715%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hgtv.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215070621id_/http%3A//www.hgtv.com/hgtv/about_us/article/0%2C1783%2CHGTV_3080_1424715%2C00.html) for the most accurate reproduction.*
 
-# Home & Garden Television: About Us
+# About Us : Privacy Policy : Home & Garden Television
 
 Privacy Policy
 
