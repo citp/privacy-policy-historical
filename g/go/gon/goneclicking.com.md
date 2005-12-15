@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goneclicking.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405223459id_/http%3A//goneclicking.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goneclicking.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215184915id_/http%3A//goneclicking.com/privacy.php) for the most accurate reproduction.*
 
 # Gone Clicking
 
