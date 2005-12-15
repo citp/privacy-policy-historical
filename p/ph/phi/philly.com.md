@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2005-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050417041702id_/http%3A//www.philly.com/mld/philly/contact_us/terms_of_use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215071758id_/http%3A//www.philly.com/mld/philly/contact_us/terms_of_use) for the most accurate reproduction.*
 
 # Contact Us : Privacy Policy & Terms of Use -- Philly.com
 
@@ -8,9 +8,9 @@ Go to Terms of Use
 
 Effective January 13, 2005
 
-All Knight Ridder owned sites, including this site, are covered by the policies herein. Knight Ridder Digital (KRD) is part of the Real Cities Network (or "RCN"), a national network of Internet sites serving geographic and common interest communities across the United States. RCN affiliates each have their own Terms of Use and Privacy Policies. Please review all affiliate's policies to understand the privacy terms applicable on their sites. You can view the sites included in the Real Cities Network at [http://www.realcities.com](http://www.realcities.com/). 
+All Knight Ridder owned sites, including Philly.com, are covered by the policies herein. Knight Ridder Digital (KRD) is part of the Real Cities Network (or "RCN"), a national network of Internet sites serving geographic and common interest communities across the United States. RCN affiliates each have their own Terms of Use and Privacy Policies. Please review all affiliate's policies to understand the privacy terms applicable on their sites. You can view the sites included in the Real Cities Network at <http://www.realcities.com/>. 
 
-Knight Ridder Digital is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site listed here: [http://www.knightridder.com/digital/websites.html ](http://www.knightridder.com/digital/websites.html)
+Knight Ridder Digital is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site listed here: <http://www.knightridder.com/digital/websites.html>
 
 Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Member Services at: 1-877-223-7355. If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the Web site to resolve your concerns. 
 
