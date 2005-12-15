@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturalizer.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309013859id_/http%3A//www.naturalizeronline.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalizer.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215082549id_/http%3A//www.naturalizeronline.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Naturalizer Online
+# Naturalizer Shoes
 
 | 
 
