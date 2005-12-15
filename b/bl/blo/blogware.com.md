@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the blogware.com privacy policy that was archived on 2005-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050424030853id_/http%3A//www.tucows.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogware.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215081028id_/http%3A//www.tucows.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
-
-## TUCOWS Privacy Statement Information
+# Tucows Privacy Statement Information
 
 Because we gather information about the customers of Tucows.com and the Tucows Interactive Limited network of sites (including but not limited to [www.tucows.com](http://www.tucows.com/), [shop.tucows.com](http://shop.tucows.com/), [games.tucows.com](http://games.tucows.com/), [pda.tucows.com](http://pda.tucows.com/), [themes.tucows.com](http://themes.tucows.com/) and [linux.tucows.com](http://linux.tucows.com/)), we feel you should fully understand the terms and conditions surrounding the capture and use of that information. 
 
-## Information TUCOWS gathers and tracks
+## Information Tucows.com gathers and tracks
 
 Tucows.com gathers two types of information about users: 1) Data that users provide through optional, voluntary registration on several of our sites, and 2) aggregated tracking information derived mainly by tallying page views throughout our sites. Such information enables us to better tailor our content to readers' needs and help our advertisers better understand the demographics of our audience. Because Tucows Interactive Limited derives a portion of its revenue from advertising, providing such aggregated demographic data is essential in order to keep some of our services free to users. 
 
-**TUCOWS does however share the following information with the publishers of the software titles that are available through the online store:**  
-
+**Tucows.com does however share the following information with the publishers of the software titles that are available through the online store:**
 
   * Name
   * Address
@@ -20,6 +17,8 @@ Tucows.com gathers two types of information about users: 1) Data that users prov
   * Fax
   * Software Purchased
   * Software Registration Code (where applicable)
+
+
 
 This information is provided on the contractual understanding with each software publisher that it is to be used solely and exclusively for the purpose of tracking customer software registrations and providing technical support, as is the standard practice in the industry. 
 
@@ -31,15 +30,13 @@ Questions regarding this statement should be directed [here](http://www.tucows.c
 
 Tucows.com offers free electronic newsletters to users. Tucows Interactive Limited gathers the e-mail addresses of users who voluntarily subscribe. Customers may remove themselves from any mailing list by following the instructions contained in every newsletter. They can also subscribe to the newsletters at the time of registration. 
 
-## Surveys 
+## Surveys
 
 Tucows.com occasionally conducts customer surveys to better target our content and product inventory to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any information about specific individuals with any third party, except as noted previously. 
 
 ## Contests and sweepstakes
 
 Tucows.com offers contests and sweepstakes in which we request certain personal information. These contests and sweepstakes are conducted in full accordance with United States and Canadian federal and state laws. The full rules and all information about such contests are clearly posted during such events. Information gathered is used only to verify user identity and to contact winners and/or prize recipients, except when specifically noted otherwise. Again, we do not share information about specific individuals with any third party, except as noted previously. 
-
-## Usage tracking 
 
 Tucows.com tracks user traffic patterns throughout Tucows.com and this information is correlated with data about individual users. Overall usage statistics, according to a user's domain name, browser type and MIME type gotten by reading this information from the browser string (information contained in every user's browser), are also broken down. 
 
@@ -51,7 +48,7 @@ A cookie is a small data file that certain Web sites write to your hard drive wh
 
 If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. 
 
-You can refuse cookies by turning them off in your browser. However, you need to have cookies turned on to purchase software through SHOP.TUCOWS.COM. 
+You can refuse cookies by turning them off in your browser. However, you need to have cookies turned on to purchase software through [shop.tucows.com](http://shop.tucows.com/), and may find that browsing the [www.tucows.com](http://www.tucows.com/) site operates differently. 
 
 ## Use of the information
 
@@ -63,9 +60,9 @@ We use tracking information to determine which areas of our sites users like and
 
 We track search terms entered in our search function as one of many measures of what interests our users. But we don't track which terms a particular user enters. 
 
-Tucows.com Interactive Limited creates aggregrate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively and allows our users to receive advertisements that are pertinent to their needs. Tucows Interactive Limited never shares individual personal information with anyone, so an advertiser will never know that a specific user clicked their ad. 
+Tucows Interactive Limited creates aggregrate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively and allows our users to receive advertisements that are pertinent to their needs. Tucows Interactive Limited never shares individual personal information with anyone, so an advertiser will never know that a specific user clicked their ad. 
 
-Tucows uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience demographics. We do not share information about individual users with any third party, with the exceptions noted previously. 
+Tucows.com uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience demographics. We do not share information about individual users with any third party, with the exceptions noted previously. 
 
 ## Opt-Out Policy
 
@@ -73,7 +70,7 @@ Tucows.com gives users options wherever necessary and practical, such choices in
 
   * Opting not to receive our electronic newsletters when registering for a site 
   * Opting not to provide certain personal information when registering for a site or service
-  * Opting not to participate in certain interactive areas, which completely alleviates the need for any information from our users 
+  * Opting not to participate in certain interactive areas, which completely alleviates the need for any information from our users
 
 
 
@@ -83,4 +80,4 @@ Users may unsubscribe to any of our electronic newsletters at any time by follow
 
 ## How To Contact Us
 
-If you ever need to contact us via email, click [here](http://www.tucows.com/contactus.html). 
+If you ever need to contact us via email, [click here](https://web.archive.org/about/contact). 
