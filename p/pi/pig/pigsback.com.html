@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pigsback.com privacy policy that was archived on 2005-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050208070910id_/http%3A//www.pigsback.com/members/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pigsback.com privacy policy that was archived on 2005-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215032609id_/http%3A//www.pigsback.com/members/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <link rel="stylesheet" href="../include/pigsback.css" type="Text/css">
@@ -8,294 +8,636 @@
 </head>
 
 
-<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0">
-<script language="JavaScript1.2" vqm_id="nav_settings.js">
-	vqm__notice='Visual QuickMenu Pro, (c) 2004 OpenCube Inc., All Rights Reserved, Visit - www.opencube.com';
-	vqm__codebase='/include/js/nav/';
-	vqm__database='';
-</script>
-<script language="JavaScript1.2" src="/include/js/nav/nav_settings.js"></script>
-<script language="JavaScript1.2" src="/include/js/nav/nav_cats_all.js"></script>
-<script language="JavaScript1.2" src="/include/js/nav/nav_shortcuts_.js"></script>
-<script language="javascript">
-function SelectCat( a_iCategoryID, a_sLeftCatMode ) { 
-	document.frmCatTree.a_sMode.value = a_sLeftCatMode;
-	document.frmCatTree.a_iCategoryID.value = a_iCategoryID; 
-	document.frmCatTree.a_iSubCategoryID.value = 0 ; 
-	document.frmCatTree.submit();
-}
-</script>
-<form name="frmCatTree" method="post" action="/members/memSiteHomePer.asp">
-<input type="hidden" name="a_sMode" value="">
-<input type="hidden" name="a_iCategoryID" value="0">
-<input type="hidden" name="a_iSubCategoryID" value="0">
-<input type="hidden" name="a_sLeftCatMode" value="">
-</form>
-<script language="JavaScript1.2">
-
-</script>
-<script language="JavaScript1.2" src="/include/js/nav/tdqm_loader.js"></script><script language="JavaScript1.2" src="/include/js/nav/tbrowser_ns.js"></script>
-        <div align="center">
-        <table width="760" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-        
-        <tbody><tr align="left" valign="top">
-			<!-- TOS 17/10/01: updated to make the default values for the inputs in this form
-			be taken from whatever has been submitted.
-			The following js functions reset them as appropriate eg set CatID values back to 0 if
-			My/All Offers clicked.
-			Also means that the 'Show Me More Offers' link can now just resubmit this form in order
-			to maintain whatever the current settings were.-->
-			<form name="frmOfferFilters" method="post" action="memSiteHomePer.asp"></form>
-				<input type="hidden" name="a_sMode" value="">
-				<input type="hidden" name="a_iCategoryID" value="0">
-				<input type="hidden" name="a_iSubCategoryID" value="0">
-				<input type="hidden" name="a_sLeftCatMode" value="">
-			
-			<form name="frmGoStraightToAlt" method="post" action="../pb/GoStraightTo.asp"></form>
-				<input type="hidden" name="GoStraightTo" value="">
-						
-			<script language="javascript">
-			
-			//The following JS fns are to reset the Offer Filters depending on what was clicked.
-			
-			function HPAllOffers() {
-				with ( document.frmOfferFilters )
-				{
-				a_sMode.value = 'All';
-				a_iCategoryID.value = 0;
-				a_iSubCategoryID.value = 0;
-				a_sLeftCatMode.value = '';
-				submit();
-				}
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" text="#000000">
+		
+		<!--Start: Scripts and Forms for Offer Category navigation -->
+		<script language="JavaScript1.2" vqm_id="nav_settings.js">
+			vqm__notice='Visual QuickMenu Pro, (c) 2004 OpenCube Inc., All Rights Reserved, Visit - www.opencube.com';
+			vqm__codebase='/include/js/nav/';
+			vqm__database='/include/js/nav/';
+		</script>
+		<script language="JavaScript1.2" src="/include/js/nav/nav_settings_.js"></script>
+		<script language="JavaScript1.2" src="/include/js/nav/nav_cats_.js"></script>
+		<script language="javascript">
+			function SelectCat( a_iCategoryID, a_iSubcatId, a_sLeftCatMode, a_sCatDesc ) { 
+				document.frmCatTree.a_sMode.value = a_sLeftCatMode;
+				document.frmCatTree.a_iCategoryID.value = a_iCategoryID; 
+				document.frmCatTree.a_iSubCategoryID.value = a_iSubcatId;
+				document.frmCatTree.a_sCategoryDesc.value = a_sCatDesc; 
+				document.frmCatTree.submit();
 			}
-
-			function HPMyOffers() {
-				with ( document.frmOfferFilters )
-				{
-				a_sMode.value = 'My';
-				a_iCategoryID.value = 0;
-				a_iSubCategoryID.value = 0;
-				a_sLeftCatMode.value = '';
-				submit();
-				}
-			}		
-			
-			function catBrowser(a_sNavOffersMode, a_sNavCatMode)
-			{	
-				with ( document.frmOfferFilters )
-				{
-					a_sMode.value = a_sNavOffersMode;
-					a_sLeftCatMode.value = a_sNavCatMode;
-					//reset CatID/SubCatID so that they are not pre-selected
+		</script>
+		<form name="frmCatTree" method="post" action="/members/memSiteHomePer.asp">
+			<input type="hidden" name="a_sMode" value="">
+			<input type="hidden" name="a_iCategoryID" value="0">
+			<input type="hidden" name="a_iSubCategoryID" value="0">
+			<input type="hidden" name="a_sLeftCatMode" value="">
+			<input type="hidden" name="a_sCategoryDesc" value="">
+		</form>
+		<form name="frmOfferFilters" method="post" action="memSiteHomePer.asp">
+			<input type="hidden" name="a_sMode" value="">
+			<input type="hidden" name="a_iCategoryID" value="0">
+			<input type="hidden" name="a_iSubCategoryID" value="0" "="">
+			<input type="hidden" name="a_sLeftCatMode" value="">
+		</form>
+		<form name="frmGoStraightToAlt" method="post" action="../pb/GoStraightTo.asp">
+			<input type="hidden" name="GoStraightTo" value="" id="Hidden9">
+		</form>	
+		
+		<script language="JavaScript1.2" src="/include/js/nav/tdqm_loader.js"></script><script language="JavaScript1.2" src="/include/js/nav/tbrowser_ns.js"></script>
+		<script language="javascript">			
+				function HPAllOffers() {
+					with ( document.frmOfferFilters )
+					{
+					a_sMode.value = 'All';
 					a_iCategoryID.value = 0;
 					a_iSubCategoryID.value = 0;
+					a_sLeftCatMode.value = '';
 					submit();
-					
+					}
 				}
-			}	
-			</script>
-			
-            <td height="45"><a name="top"><!--<img src="-->
- <!--Top Banner include-->
+				
+				function HPMyOffers() {
+					with ( document.frmOfferFilters )
+					{
+					a_sMode.value = 'My';
+					a_iCategoryID.value = 0;
+					a_iSubCategoryID.value = 0;
+					a_sLeftCatMode.value = '';
+					submit();
+					}
+				}				
+				
+				function catBrowser(a_sNavOffersMode, a_sNavCatMode)
+				{	
+					with ( document.frmOfferFilters )
+					{
+						a_sMode.value = a_sNavOffersMode;
+						a_sLeftCatMode.value = a_sNavCatMode;
+						//reset CatID/SubCatID so that they are not pre-selected
+						a_iCategoryID.value = 0;
+						a_iSubCategoryID.value = 0;
+						submit();
+						
+					}
+				}	
+		</script>
+		<!--End: Scripts and Forms for Offer Category navigation -->
+		
+        <table width="760" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF">
+			<tbody><tr align="left" valign="top">
+				<td>
+				<!--Top Banner include-->
 
 
 <!--END of Top Banner include-->
-        </a></td></tr>
-        <tr> 
-            <td>
-            <!--<IMG NAME="mtn_page_title" SRC="images/mem_titles/Privacy Policy" WIDTH="620" HEIGHT="38">-->
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <span class="pageTitle">Privacy Policy</span><br><br>
-            </td>
-        </tr>
+				</td>
+			</tr>        
         </tbody></table>
-		 
         
-<!--This is the begining of the main structural table for the Pigsback member site --> 
-<style type="text/css">
-<!--
-.pinkpig {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-weight: bold;
-	color: #CC0066;
-}
--->
-</style>
- 
-<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr valign="top"> 
-    <td width="148"> 
-      <!--This is the begining of the left navigation table -->
-      <table width="140" border="0" cellpadding="2" cellspacing="0">
-        <tbody><tr valign="top"> 
-          <td width="140" height="37"><a href="privacy.asp"><img src="images/butt_purp_privacy.gif" width="140" height="37" alt="Privacy Policy" border="0"></a></td>
-        </tr>
-        <tr valign="top"> 
-          <td width="140"><a href="about_us.asp"><img src="images/butt_purp_aboutus.gif" width="140" height="37" alt="About Us" border="0"></a></td>
-        </tr>
-        <tr valign="top"> 
-          <td width="140"><a href="advertiser.asp"><img src="images/butt_purp_advertise.gif" width="140" height="37" alt="Advertise" border="0"></a></td>
-        </tr>
-        <tr valign="top"> 
-          <td width="140"><a href="careers.asp"><img src="images/butt_purp_careers.gif" width="140" height="37" border="0"></a></td>
-        </tr>
-        <tr valign="top"> 
-          <td width="140"><a href="news.asp"><img src="images/butt_purp_news.gif" width="140" height="37" border="0"></a></td>
-        </tr>
-        <tr valign="top"> 
-          <td width="140"><a href="empathy_marketing.asp"><img src="images/butt_purp_empathy.gif" width="140" height="37" border="0"></a></td>
-        </tr>
-        <tr valign="top"> 
-          <td width="140"><a href="contact.asp"><img src="images/butt_purp_contact_us.gif" width="140" height="37" border="0"></a></td>
-        </tr>
-      </tbody></table>
-      <!--This is the end of the left navigation table -->
-    </td>
-    <td width="500"> 
-      <!--This is the begining of the main content table -->
-      <table width="500" border="0" cellspacing="2" cellpadding="0" align="center">
-        <tbody><tr> 
-          <td> 
-            <p><b class="subtitle">Safeguarding your privacy is our number one 
-              priority.</b> </p>
-            <p class="normal">Because we gather some information about <span class="pinkpig">Pigsback.com</span> 
-              members, we believe you should understand how that information might 
-              be used.</p>
-            <p class="subsmall">Here is our commitment to you:</p>
-            <ul class="list">
-              <li> We will protect your confidentiality.</li>
-              <li>We will NEVER release or sell your personal information to any 
-                other party. When we give information to the companies that participate 
-                in the Programme, it is in the form of grouped statistics based 
-                on members' information while participating in the Programme. 
-                The information typically includes the total number of visits, 
-                where are they coming from, what do they do on the website, etc.</li>
-              <li>The Programme is designed to make it impossible for outside 
-                companies to extract personal information without your consent. 
-              </li>
-              <li> We follow rigorous security protocols within our company to 
-                safeguard any personal information you share with us. </li>
-            </ul>
-            <p class="subsmall"><strong>Security Guarantee</strong></p>
-            <p class="normal">Our systems are housed in a state of the art data 
-              centre and they are constantly monitored against attempted intrusion 
-              and protected at all times against virus attacks and un-authorised 
-              access. </p>
-            <p class="subsmall"><strong>Cookie</strong></p>
-            <p class="normal"><span class="pinkpig">Pigsback.com</span> uses a 
-              cookie to identify you and log you into your account when you return 
-              to the site. Your browser must be able to accept a cookie in order 
-              to use the <span class="pinkpig">Pigsback.com</span> website. A 
-              cookie is a small text file stored on the user's hard drive containing 
-              information about the user (your encrypted <span class="pinkpig">Pigsback.com</span> 
-              ID).Cookies are only used by <span class="pinkpig">Pigsback.com</span> 
-              to allow you to log in and surf the site.</p>
-            <p class="subsmall"><strong>Registration</strong></p>
-            <p class="normal">In order to use this website, a user must first 
-              complete the registration form to become a<span class="pinkpig"> 
-              Pigsback.com</span> member. During the registration, the user is 
-              required to give their contact information (e-mail address, name, 
-              country). This information is used to contact the user about the 
-              services (special offers and rewards) on our site, in which they 
-              have expressed interest.</p>
-            <p class="subsmall"><strong>External Links and Partners</strong></p>
-            <p class="normal"><span class="pinkpig"><strong>Pigsback.com</strong></span> 
-              contains links to other Websites. We are not responsible for the 
-              privacy issues or the content of other sites. We recommend that 
-              you review their privacy policy, especially if you need to give 
-              personal information.</p>
-            <p class="subsmall"><strong>Cancel your membership</strong></p>
-            <p class="normal">It's up to you to cancel your membership. All you 
-              have to do is go to <b><a href="memCancelAccount.asp"><font color="#000000" class="titlecatbody"><span class="titlereg2b"><span class="titlereg2a"><span class="titlereg"><span class="titlecatbody"><span class="titlereg2b"><span class="formtext"><span class="normal">Cancel 
-              my account</span></span></span></span></span></span></span></font></a></b> 
-              in the <b><a href="memUpdateProfile.asp"><font color="#000000">Update my profile</font></a></b> 
-              section. We will delete all your personal information</p>
-            <p class="subsmall"><strong>Modify your information</strong></p>
-            <p class="normal">You can modify or add to your information at any 
-              time. All you have to do is go to the <b><a href="memUpdateProfile.asp"><font color="#000000">Update 
-              my profile</font></a></b> section and choose whether you want to 
-              modify your login information, your categories or your personal 
-              information.</p>
-            <p class="subsmall"><strong>Surveys &amp; Contests</strong></p>
-            <p class="normal">From time to time we may ask members for information 
-              via surveys and contests. Participation in these surveys or contests 
-              is completely voluntary and the user therefore has a choice whether 
-              or not to disclose the information. </p>
-            <p class="subsmall"><strong>Tell a friend</strong></p>
-            <p class="normal">If a user elects to use our referral service for 
-              informing a friend about our site, we ask them for the friend's 
-              name and e-mail address. <span class="pinkpig">Pigsback.com</span> 
-              will send automatically a once-off e-mail inviting the friend to 
-              visit our site. <span class="pinkpig">Pigsback.com </span>will not 
-              send other e-mails until they become members.</p>
-            <p class="pinkpig">Empathy Marketing Ltd</p>
-            <p class="normal">The <span class="pinkpig">Pigsback.com</span> Programme 
-              and website are owned and operated by: Empathy Marketing Ltd having 
-              registered offices at 3016 Lake Drive , City West Campus, Saggart, 
-              Co Dublin, Rep of Ireland.</p>
-            <p class="subsmall">Contact <span class="pinkpig">Pigsback.com</span> 
-              about the privacy policy</p>
-            <p class="normal">We welcome questions and comments about our Privacy 
-              Policy. If you want to contact us, e-mail us at <a href="mailto:postmaster@pigsback.com">postmaster@pigsback.com</a>. 
-              Or send mail to:</p>
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td width="50%" valign="top">
-                  <p><span class="pinkpig">Pigsback.com</span>,<br>
-                    Empathy Marketing Ltd,<br>
-                    Lake Drive 3016,<br>
-                    City West Campus,<br>
-                    Saggart, Co Dublin,<br>
-                    Rep of Ireland <br><br><br>
-                  </p><p>Telephone:<br>
-                    <br>
-                    Member queries:<br>
-                    00 353 1 243 1912<br>
-                    <br>
-                    Business / advertising queries:<br>
-                    00353 1 243 1900</p>
-                </td>
-                <td width="50%" valign="top">
-                  <p>&nbsp;
-                </p></td>
-              </tr>
-            </tbody></table>
-            <p class="normal">&nbsp;</p>
-          </td>
-        </tr>
-      </tbody></table>
-      <p>&nbsp;</p>
-      <!--This is the end of the main content table -->
-    </td>
-    <td width="130"> 
-      <!--This is the begining of the right hand  mega offer table -->
-      <img src="images/pig_privacy.gif" width="80" height="80">
-      <!--This is the end of the right hand  mega offer table -->
-    </td>
-  </tr>
-</tbody></table>
-<!--This is the end of the main structural table for the Pigsback member site -->
+		<table width="760" border="0" cellpadding="0" cellspacing="0" align="center">
+			<tbody><tr> 
+				<td width="150"></td>
+				<td width="10">&nbsp;</td>
+				<td width="440"><span class="pageTitle">Privacy Policy</span><br></td>
+				<td width="10">&nbsp;</td>
+				<td width="150"></td>
+			</tr>
+		</tbody></table>		
+		
 
-<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
+		<br>
+		<div align="center">      
+        
+       
+
+	
+		<title>Untitled Document</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<link rel="stylesheet" href="../../members/images/mem_corp/PB_corp.css" type="text/css">
+	
+	
+		<table width="760" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td valign="top" align="left">
+					<table width="760" border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td width="150" valign="top" align="left">
+								<table width="150" border="0" cellspacing="0" cellpadding="0">
+									<tbody><tr>
+										<td valign="top" align="left">
+											<table width="150" border="0" cellspacing="0" cellpadding="0" background="../../members/images/mem_corp/nav_bg_CCCCCC.gif">
+												<tbody><tr>
+													<td background="../../members/images/mem_corp/nav_top_150_CCCCCC.gif" height="15"></td>
+												</tr>
+												<tr>
+													<td>
+														<table width="150" border="0" cellspacing="0" cellpadding="0">
+															<tbody><tr>
+																<td valign="top" align="center">
+																	<table width="140" border="0" cellspacing="0" cellpadding="3" class="nav_normal">
+																		<tbody><tr>
+																			<td><a href="#Security" class="nav_body_norm_blue">Security Guarantee</a></td>
+																		</tr>
+																		<tr>
+																			<td><a href="#Cookie" class="nav_body_norm_blue">Cookie</a></td>
+																		</tr>
+																		<tr>
+																			<td><a href="#Registration" class="nav_body_norm_blue">Registration</a></td>
+																		</tr>
+																		<tr>
+																			<td><a href="#External" class="nav_body_norm_blue">External Links and Partners</a></td>
+																		</tr>
+																		<tr>
+																			<td><a href="#Cancel" class="nav_body_norm_blue">Cancel your membership</a></td>
+																		</tr>
+																		<tr>
+																			<td><a href="#Modify" class="nav_body_norm_blue">Modify your information</a></td>
+																		</tr>
+																		<tr>
+																			<td><a href="#Surveys" class="nav_body_norm_blue">Surveys &amp; Contests</a></td>
+																		</tr>
+																		<tr>
+																			<td><a href="#Tell" class="nav_body_norm_blue">Tell a friend</a></td>
+																		</tr>
+																		<tr>
+																			<td><a href="#Empathy" class="nav_body_norm_blue">Empathy Marketing Ltd</a></td>
+																		</tr>
+																		<tr>
+																			<td><a href="#Empathy" class="nav_body_norm_blue">Contact Pigsback.com</a></td>
+																		</tr>
+																	</tbody></table>
+																</td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+											</tbody></table>
+											<table width="150" border="0" cellspacing="0" cellpadding="0" height="4">
+												<tbody><tr>
+													<td><img src="../../members/images/mem_corp/nav_bot_150_CCCCCC.gif" width="150" height="4"></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+							<td width="20" align="center" valign="top">
+								<!--spacer 20 -->
+							</td>
+							<td valign="top" align="left">
+								<!--main content here -->
+								<a name="top"></a>
+								<table width="580" border="0" cellspacing="0" cellpadding="5">
+									<tbody><tr>
+										<td align="left" valign="top">
+											<p class="para_title_Pink">Safeguarding your privacy is our number one priority.
+											</p>
+											<p class="para_title_Blue">Because we gather some information about
+												<span class="para_title_Pink">Pigsback.com</span>
+												members, we believe you should understand how that information might be used.</p>
+											<p class="para_body_bold_grey">Here is our commitment to you:</p>
+											<ul>
+												<li class="para_body_norm_grey">
+												We will protect your confidentiality.
+												</li><li class="para_body_norm_grey">
+												We will NEVER release or sell your personal information to any other party.
+												</li><li class="para_body_norm_grey">
+												When we give information to the companies that participate in the Programme, it 
+												is in the form of grouped statistics based on members' information while 
+												participating in the Programme. The information typically includes the total 
+												number of visits, where are they coming from, what do they do on the website, 
+												etc. The Programme is designed to make it impossible for outside companies to 
+												extract personal information without your consent.
+												</li><li class="para_body_norm_grey">
+													We follow rigorous security protocols within our company to safeguard any 
+													personal information you share with us.</li>
+											</ul>
+											<p><a name="Security"></a></p>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" align="left">
+											<table width="580" border="0" cellspacing="0" cellpadding="3">
+												<tbody><tr>
+													<td>
+														<table width="575" border="0" cellspacing="0" cellpadding="0" height="30">
+															<tbody><tr>
+																<td width="400" valign="bottom" align="left"><span class="para_title_Blue">Security 
+                              Guarantee</span></td>
+																<td align="center" valign="bottom"><a href="#top" class="stepnav_grey">↑back to 
+																		top</a>
+																</td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top" align="left"><span class="para_body_norm_grey">Our 
+                        systems are housed in a state of the art data centre and 
+                        they are constantly monitored against attempted intrusion 
+                        and protected at all times against virus attacks and un-authorised 
+                        access. </span></td>
+												</tr>
+												<tr>
+													<td valign="top" align="center"><img src="../../members/images/mem_corp/dots.gif" width="570" height="45"></td>
+												</tr>
+												<tr>
+													<td height="10"><a name="Cookie"></a></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" align="left">
+											<table width="580" border="0" cellspacing="0" cellpadding="3">
+												<tbody><tr>
+													<td>
+														<table width="575" border="0" cellspacing="0" cellpadding="0" height="30">
+															<tbody><tr>
+																<td width="400" valign="bottom" align="left"><span class="para_title_Blue">Cookie</span></td>
+																<td align="center" valign="bottom"><a href="#top"><font color="#000066"><span class="stepnav_grey">↑back 
+                              to top </span></font></a>
+																</td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top" align="left"><span class="para_body_norm_pink">Pigsback.com</span><span class="para_body_norm_grey"> 
+                        uses a cookie to identify you and log you into your account 
+                        when you return to the site. Your browser must be able 
+                        to accept a cookie in order to use the </span><span class="para_body_norm_pink">Pigsback.com</span><span class="para_body_norm_grey"> 
+                        website. A cookie is a small text file stored on the user's 
+                        hard drive containing information about the user (your 
+                        encrypted </span><span class="para_body_norm_pink">Pigsback.com 
+                        </span>
+														<span class="para_body_norm_grey">ID).Cookies 
+                        are only used by </span><span class="para_body_norm_pink">Pigsback.com</span><span class="para_body_norm_grey"> 
+                        to allow you to log in and surf the site. </span></td>
+												</tr>
+												<tr>
+													<td valign="top" align="center"><img src="../../members/images/mem_corp/dots.gif" width="570" height="45"></td>
+												</tr>
+												<tr>
+													<td height="10"><a name="Registration"></a></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" align="left">
+											<table width="580" border="0" cellspacing="0" cellpadding="3">
+												<tbody><tr>
+													<td>
+														<table width="575" border="0" cellspacing="0" cellpadding="0" height="30">
+															<tbody><tr>
+																<td width="400" valign="bottom" align="left"><span class="para_title_Blue">Registration</span></td>
+																<td align="center" valign="bottom"><a href="#top"><font color="#000066"><span class="stepnav_grey">↑back 
+                              to top </span></font></a>
+																</td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top" align="left" class="para_body_norm_grey">In order to use this 
+														website, a user must first complete the registration form to become a
+														<span class="para_body_norm_pink">Pigsback.com</span>
+														member. During the registration, the user is required to give their contact 
+														information (e-mail address, name, country). This information is used to 
+														contact the user about the services (special offers and rewards) on our site, 
+														in which they have expressed interest.</td>
+												</tr>
+												<tr>
+													<td valign="top" align="center"><img src="../../members/images/mem_corp/dots.gif" width="570" height="45"></td>
+												</tr>
+												<tr>
+													<td height="10"><a name="External"></a></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" align="left">
+											<table width="580" border="0" cellspacing="0" cellpadding="3">
+												<tbody><tr>
+													<td>
+														<table width="575" border="0" cellspacing="0" cellpadding="0" height="30">
+															<tbody><tr>
+																<td width="400" valign="bottom" align="left"><span class="para_title_Blue">External 
+                              Links and Partners </span></td>
+																<td align="center" valign="bottom"><a href="#top"><font color="#000066"><span class="stepnav_grey">↑back 
+                              to top </span></font></a>
+																</td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top" align="left"><span class="para_body_norm_pink">Pigsback.com</span><span class="para_body_norm_grey"> 
+                        contains links to other Websites. We are not responsible 
+                        for the privacy issues or the content of other sites. 
+                        We recommend that you review their privacy policy, especially 
+                        if you need to give personal information.</span></td>
+												</tr>
+												<tr>
+													<td valign="top" align="center"><img src="../../members/images/mem_corp/dots.gif" width="570" height="45"></td>
+												</tr>
+												<tr>
+													<td height="10"><a name="Cancel"></a></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" align="left">
+											<table width="580" border="0" cellspacing="0" cellpadding="3">
+												<tbody><tr>
+													<td>
+														<table width="575" border="0" cellspacing="0" cellpadding="0" height="30">
+															<tbody><tr>
+																<td width="400" valign="bottom" align="left"><span class="para_title_Blue">Cancel 
+                              your membership</span></td>
+																<td align="center" valign="bottom"><a href="#top"><font color="#000066"><span class="stepnav_grey">↑back 
+                              to top </span></font></a>
+																</td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top" align="left"><span class="para_body_norm_grey">It's 
+                        up to you to cancel your membership. All you have to do 
+                        is go to Cancel my account in the Update my profile section. 
+                        We will delete all your personal information.</span></td>
+												</tr>
+												<tr>
+													<td valign="top" align="center"><img src="../../members/images/mem_corp/dots.gif" width="570" height="45"></td>
+												</tr>
+												<tr>
+													<td height="10"><a name="Modify"></a></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" align="left">
+											<table width="580" border="0" cellspacing="0" cellpadding="3">
+												<tbody><tr>
+													<td>
+														<table width="575" border="0" cellspacing="0" cellpadding="0" height="30">
+															<tbody><tr>
+																<td width="400" valign="bottom" align="left"><span class="para_title_Blue">Modify 
+                              your information</span></td>
+																<td align="center" valign="bottom"><a href="#top"><font color="#000066"><span class="stepnav_grey">↑back 
+                              to top </span></font></a>
+																</td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top" align="left"><span class="para_body_norm_grey">You 
+                        can modify or add to your information at any time. All 
+                        you have to do is go to the Update my profile section 
+                        and choose whether you want to modify your login information, 
+                        your categories or your personal information.</span></td>
+												</tr>
+												<tr>
+													<td valign="top" align="center"><img src="../../members/images/mem_corp/dots.gif" width="570" height="45"></td>
+												</tr>
+												<tr>
+													<td height="10"><a name="Surveys"></a></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" align="left">
+											<table width="580" border="0" cellspacing="0" cellpadding="3">
+												<tbody><tr>
+													<td>
+														<table width="575" border="0" cellspacing="0" cellpadding="0" height="30">
+															<tbody><tr>
+																<td width="400" valign="bottom" align="left"><span class="para_title_Blue">Surveys 
+                              &amp; Contests</span></td>
+																<td align="center" valign="bottom"><a href="#top"><font color="#000066"><span class="stepnav_grey">↑back 
+                              to top </span></font></a>
+																</td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top" align="left"><span class="para_body_norm_grey">From 
+                        time to time we may ask members for information via surveys 
+                        and contests. Participation in these surveys or contests 
+                        is completely voluntary and the user therefore has a choice 
+                        whether or not to disclose the information. </span>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top" align="center"><img src="../../members/images/mem_corp/dots.gif" width="570" height="45"></td>
+												</tr>
+												<tr>
+													<td height="10"><a name="Tell"></a></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" align="left">
+											<table width="580" border="0" cellspacing="0" cellpadding="3">
+												<tbody><tr>
+													<td>
+														<table width="575" border="0" cellspacing="0" cellpadding="0" height="30">
+															<tbody><tr>
+																<td width="400" valign="bottom" align="left"><span class="para_title_Blue">Tell 
+                              a friend</span></td>
+																<td align="center" valign="bottom"><a href="#top"><font color="#000066"><span class="stepnav_grey">↑back 
+                              to top </span></font></a>
+																</td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top" align="left"><span class="para_body_norm_grey">If 
+                        a user elects to use our referral service for informing 
+                        a friend about our site, we ask them for the friend's 
+                        name and e-mail address. </span><span class="para_body_norm_pink">Pigsback.com</span><span class="para_body_norm_grey"> 
+                        will send automatically a once-off e-mail inviting the 
+                        friend to visit our site. </span><span class="para_body_norm_pink">Pigsback.com</span><span class="para_body_norm_grey"> 
+                        will not send other e-mails until they become members.</span></td>
+												</tr>
+												<tr>
+													<td valign="top" align="center"><img src="../../members/images/mem_corp/dots.gif" width="570" height="45"></td>
+												</tr>
+												<tr>
+													<td height="10"><a name="Empathy"></a></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" align="left">
+											<table width="580" border="0" cellspacing="0" cellpadding="3">
+												<tbody><tr>
+													<td>
+														<table width="575" border="0" cellspacing="0" cellpadding="0" height="30">
+															<tbody><tr>
+																<td width="400" valign="bottom" align="left">
+																	<p></p>
+																	<p></p>
+																	<p><span class="para_title_Blue">Empathy Marketing 
+                                Ltd</span></p>
+																</td>
+																<td align="center" valign="bottom"><a href="#top"><font color="#000066"><span class="stepnav_grey">↑back 
+                              to top </span></font></a>
+																</td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top" align="left">
+														<p><span class="para_body_norm_grey">The </span><span class="para_body_norm_pink">Pigsback.com</span><span class="para_body_norm_grey"> 
+                          Programme and website are owned and operated by: </span><span class="nav_title_bold_grey"><br>
+                          Empathy Marketing Ltd </span><span class="para_body_norm_grey">having 
+                          registered offices at 3016 Lake Drive , City West Campus, 
+                          Saggart, Co Dublin, Rep of Ireland. </span></p>
+														<p><span class="para_body_norm_grey">There is more detailed 
+                          information on the <a href="http://www.empathymarketing.com" target="_blank">Empathy Marketing website</a></span></p>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top" align="center"><img src="../../members/images/mem_corp/dots.gif" width="570" height="45"></td>
+												</tr>
+												<tr>
+													<td height="10">
+														<!--contact-->
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" align="left">
+											<table width="580" border="0" cellspacing="0" cellpadding="3">
+												<tbody><tr>
+													<td>
+														<table width="575" border="0" cellspacing="0" cellpadding="0" height="30">
+															<tbody><tr>
+																<td width="400" valign="bottom" align="left"><span class="para_title_Blue">Contact 
+                              </span><span class="para_title_Pink">Pigsback.com</span><span class="para_title_Blue"> 
+                              about the Privacy Policy </span></td>
+																<td align="center" valign="bottom"><a href="#top"><font color="#000066"><span class="stepnav_grey">↑back 
+                              to top </span></font></a>
+																</td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top" align="left">
+														<p><span class="para_body_norm_grey">We welcome questions 
+                          and comments about our </span><span class="para_body_norm_italic">Privacy 
+                          Policy</span><span class="para_body_norm_grey">. If 
+                          you want to contact us, email us at <a href="mailto:postmaster@pigsback.com">postmaster@pigsback.com</a>. 
+                          Or send mail to:</span></p>
+														<p></p>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top" align="center">
+														<table border="0" cellspacing="0" cellpadding="3">
+															<tbody><tr>
+																<td align="center" width="200" class="bodytitle_txt" bgcolor="#cccccc"><font color="#666666" class="nav_title_bold_grey">Ireland 
+																		Office</font></td>
+																<td align="center" width="30" class="bodytitle_txt">&nbsp;</td>
+																<td align="center" width="200" class="bodytitle_txt" bgcolor="#cccccc"><font color="#333333" class="nav_title_bold_grey">UK 
+																		Office</font></td>
+															</tr>
+															<tr>
+																<td align="left" width="200" valign="top" bgcolor="#f5f5f5"><span class="mainbody_txt"><b class="para_body_norm_blue">Empathy 
+																			Marketing Limited</b><br>
+																	</span><span class="para_body_norm_blue">3016 Lake 
+                              Drive,<br>
+                              Citywest Business Campus,<br>
+                              Saggart,<br>
+                              Dublin 24,<br>
+                              Republic of Ireland.<br>
+                              <br>
+                              Tel: +353 1243 1900 </span></td>
+																<td align="left" width="30" valign="top">&nbsp;
+																
+																</td><td align="left" width="200" valign="top" bgcolor="#f5f5f5"><span class="mainbody_txt"><b class="para_body_norm_blue">Empathy 
+																			Marketing Limited</b><br>
+																	</span><span class="para_body_norm_blue">Winchester 
+                              House,<br>
+                              259-269 Old Marylebone Road,<br>
+                              London,<br>
+                              NW1 5RA<br>
+                              United Kingdom.<br>
+                              <br>
+                              Tel: +44 207 170 4248</span></td>
+															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+												<tr>
+													<td><img src="/images/../../members/images/mem_corp/dots.gif" width="570" height="45"></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" align="left">&nbsp;</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+	
+
+
+
+</div>
+<table width="760" border="0" cellspacing="0" cellpadding="0" align="center" id="Table2">
   <tbody><tr> 
-    <td colspan="3">
-      <hr size="1" width="760" noshade="">
+    <td width="158" align="LEFT"><img src="/members/images/but_nojunk_158x46.gif" width="158" height="46"></td>
+    <td align="center" width="100%"><img src="/members/images/footer_tagline.gif" width="594" height="24"><br>
+      <br>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="textOfferFooterLink" id="Table3">
+        <tbody><tr> 
+          <td align="CENTER"><a class="textOfferFooterLink" href="/members/pb_sitemap.asp">Sitemap</a> 
+          </td>
+          <td valign="BOTTOM">&nbsp;</td>
+          <td align="CENTER"><a class="textOfferFooterLink" href="/members/privacy.asp">Privacy 
+            Policy</a> </td>
+          <td valign="BOTTOM">&nbsp;</td>
+          <td align="CENTER"><a class="textOfferFooterLink" href="http://www.empathymarketing.com/html/PB.asp" target="_blank">About 
+            Pigsback.com</a> </td>
+          <td valign="BOTTOM">&nbsp;</td>
+          <td align="CENTER"><a class="textOfferFooterLink" href="/members/terms.asp">Terms 
+            and Conditions</a> </td>
+          <td valign="BOTTOM">&nbsp;</td>
+          <td align="CENTER" width="40"><a class="textOfferFooterLink" href="../../members/faq.asp">FAQ</a> 
+          </td>
+          <td valign="BOTTOM">&nbsp;</td>
+          <td align="CENTER"><a class="textOfferFooterLink" href="/members/contact.asp">Contact 
+            Us</a></td>
+          <td valign="BOTTOM">&nbsp;</td>
+          <td align="CENTER"><a class="textOfferFooterLink" href="/registration/memCancelAccount.asp">Unsubscribe</a></td>  
+        </tr>
+      </tbody></table>
     </td>
-  </tr>
-  <tr> 
-    <td width="150" align="left" valign="middle"><img src="images/butt_no_junk_140.gif" width="140" height="40"></td>
-    <td width="460" valign="top" align="center" class="tiny"><a href="../members/pb_sitemap.asp">Sitemap</a> - <a href="../members/privacy.asp">Privacy 
-      Policy</a> - <a href="../members/about_us.asp">About Us</a> - <a href="../members/advertiser.asp">Advertise 
-      On Pigsback.com</a> - <a href="../members/careers.asp">Careers</a><br>
-      <a href="../members/news.asp">In the News</a> - <a href="../members/empathy_marketing.asp">What 
-      is Empathy Marketing?</a> - <a href="../members/contact.asp">Contact Us</a> - <a href="../members/terms.asp">Terms And Conditions</a><br>
-      © Disclaimer 2003 Empathy Marketing Limited 
-    </td>
-    <td width="150" align="right" valign="middle"><img src="images/butt_nocommunication_140.gif" width="140" height="40"></td>
   </tr>
 </tbody></table>
 
 
-</div></body></html>
+</body></html>
