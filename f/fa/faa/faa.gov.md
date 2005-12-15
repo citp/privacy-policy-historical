@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404192508id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215071654id_/http%3A//faa.gov/privacy) for the most accurate reproduction.*
 
 # Federal Aviation Administration - Privacy Policy
 
@@ -17,6 +17,8 @@ When you visit our website, we may request and collect the following categories 
   * License numbers or other official document information to verify your identity 
   * Aviation-related background, such as whether you are a flight instructor or mechanic 
 
+
+
 **Why We Collect Information**  
 Our principal purpose for collecting personal information online is to provide you with what you need and want, address security and virus concerns, and to ease the use of our website.
 
@@ -30,6 +32,8 @@ We collect information to:
   * Fulfill requests for reports and other similar information 
   * Register you for a member account 
   * Issue certificates (licenses)
+
+
 
 **Sharing Your Information**  
 We may share personally identifiable information you provide to us online with representatives within the Department of Transportation’s [ Operating Administrations and related entities](http://www.dot.gov/DOTagencies.htm), other federal government agencies, or other named representatives as needed to speed your request or transaction. In a government-wide effort to combat security and virus threats, we may share some information we collect automatically, such as IP address, with other federal government agencies. 
@@ -62,6 +66,8 @@ Properly securing the information we collect online is a primary commitment. To 
   * We periodically test our security procedures to ensure personnel and technical compliance 
   * We employ external access safeguards to identify and prevent unauthorized tries of outsiders to hack into, or cause harm to, the information in our systems 
 
+
+
 Tampering with FAA’s website is against the law. Depending on the offense, it is punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
 **Your Rights Under the Privacy Act of 1974**  
@@ -73,12 +79,15 @@ The Act’s major terms require agencies to:
   * Keep information about you accurate, relevant, timely, and complete to assure fairness in dealing with you 
   * Allow you to, on request, access and review your information held in an SOR and request amendment of the information if you disagree with it.
 
-  
+
+
 When FAA collects information from you online that is subject to the Privacy Act (information kept in an SOR), we will provide a Privacy Act Statement specific to that collected information. This Privacy Act Statement tells you: 
 
   * The authority for and the purpose and use of the information collected subject to the Privacy Act 
   * Whether providing the information is voluntary or mandatory 
   * The effects on you if you do not provide any or all requested information 
+
+
 
 View our [Privacy Act Notices](http://cio.ost.dot.gov/DOT/OST/Documents/files/records.html).
 
