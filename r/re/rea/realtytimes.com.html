@@ -1,11 +1,63 @@
-<!--The following is the downloaded HTML source of the realtytimes.com privacy policy that was archived on 2005-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050418044950id_/http%3A//realtytimes.com/rtcpages/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realtytimes.com privacy policy that was archived on 2005-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215084647id_/http%3A//realtytimes.com/rtcpages/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
+<!-- Javascript Cookie Library for pop-up/floating ads -->
+
+<script language="Javascript">
+<!--
+function getCookieVal ( offset ) {
+	var endstr = document.cookie.indexOf ( ";", offset);
+	if ( endstr == -1 )
+		endstr = document.cookie.length;
+	return unescape(document.cookie.substring(offset, endstr));
+}
+
+function FixCookieDate ( date ) {
+	var base = new Date(0);
+	var skew = base.getTime();
+	if (skew > 0)
+		date.setTime (date.getTime() - skew);
+}
+
+function GetCookie ( name ) {
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+	while (i < clen) {
+		var j = i + alen;
+		if (document.cookie.substring(i,j) == arg)
+			return getCookieVal (j);
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i == 0) break;
+	}
+	return null;
+}
+
+function SetCookie ( name, value, expires, path, domain, secure ) {
+	document.cookie = name + "=" + escape (value) +
+	((expires) ? "; expires=" + expires.toGMTString() : "") +
+	((path) ? "; path=" + path : "") +
+	((domain) ? "; domain=" + domain : "") +
+	((secure) ? "; secure" : "");
+}
+     
+function DeleteCookie ( name, path, domain ) {
+	if (GetCookie(name)) {
+		document.cookie = name + "=" +
+		((path) ? "; path=" + path : "") +
+		((domain) ? "; domain=" + domain : "") +
+		"; expires=Thu, 01-Jan-70 00:00:01 GMT";
+	}
+}
+// -->
+</script>
 <meta name="Description" content="Real Estate News And Advice">
 <meta name="Keywords" content="Real Estate News, Newsletter, Real Estate, News, Advice, Buying a Home, Selling a Home, Apartments, Rentals">
 
 <title>Realty Times - Real Estate News and Advice</title>
+
 
 <!-- Hitbox -->
 
@@ -66,51 +118,6 @@ hbx.pec="";//ERROR CODES
 
 <script language="Javascript">
 <!--
-function getCookieVal ( offset ) {
-	var endstr = document.cookie.indexOf ( ";", offset);
-	if ( endstr == -1 )
-		endstr = document.cookie.length;
-	return unescape(document.cookie.substring(offset, endstr));
-}
-
-function FixCookieDate ( date ) {
-	var base = new Date(0);
-	var skew = base.getTime();
-	if (skew > 0)
-		date.setTime (date.getTime() - skew);
-}
-
-function GetCookie ( name ) {
-	var arg = name + "=";
-	var alen = arg.length;
-	var clen = document.cookie.length;
-	var i = 0;
-	while (i < clen) {
-		var j = i + alen;
-		if (document.cookie.substring(i,j) == arg)
-			return getCookieVal (j);
-		i = document.cookie.indexOf(" ", i) + 1;
-		if (i == 0) break;
-	}
-	return null;
-}
-
-function SetCookie ( name, value, expires, path, domain, secure ) {
-	document.cookie = name + "=" + escape (value) +
-	((expires) ? "; expires=" + expires.toGMTString() : "") +
-	((path) ? "; path=" + path : "") +
-	((domain) ? "; domain=" + domain : "") +
-	((secure) ? "; secure" : "");
-}
-     
-function DeleteCookie ( name, path, domain ) {
-	if (GetCookie(name)) {
-		document.cookie = name + "=" +
-		((path) ? "; path=" + path : "") +
-		((domain) ? "; domain=" + domain : "") +
-		"; expires=Thu, 01-Jan-70 00:00:01 GMT";
-	}
-}
 
 // check for cookie, don't show ad if cookies disabled, or if ad already seen in this session or twice this week
 popunderAdOK = false;
@@ -142,6 +149,34 @@ if ((!res || res == '1') && !resC){
 </script>
 <link rel="stylesheet" type="text/css" href="/rtdb/rt4-2.css?OpenCssResource">
 <script language="JavaScript">
+// Note: browser flags are needed by multiple modules -- don't remove
+var ns=(document.layers);
+var ie=(document.all);
+var w3=(document.getElementById && !ie);
+
+function showObject(e,id) { 
+     tleft = e.clientX + document.body.scrollLeft + 10; 
+     ttop = e.clientY + document.body.scrollTop + 10; 
+if (ie) { 
+     document.all[id].style.visibility = "visible"; 
+     document.all[id].style.left = tleft; 
+     document.all[id].style.top = ttop; 
+  } 
+  else if (w3) { 
+     document.getElementById(id).style.visibility = "visible"; 
+     document.getElementById(id).style.left = tleft; 
+     document.getElementById(id).style.top = ttop; 
+  } 
+} 
+
+function hideObject(id) { 
+if (ie) { 
+     document.all[id].style.visibility = "hidden"; 
+  } 
+  else if (w3) { 
+     document.getElementById(id).style.visibility = "hidden"; 
+  } 
+} 
 function isdef( vname)
 {
     return ( typeof( window[ vname]) == "undefined") ? false : true;
@@ -176,13 +211,21 @@ document.write('<' + 'script language="JavaScript" type="text/javascript" src="'
 	<table cellpadding="0" cellspacing="0" border="0" bgcolor="white">
   		<tbody><tr>
     		<td background="/images/gradient.jpg" bgcolor="#DDE1E8"><!--Header-->
+<div id="header" onmouseover="showObject(event,'aboutRT')" onmousemove="showObject(event,'aboutRT')" onmouseout="hideObject('aboutRT')">
 			<table cellpadding="0" cellspacing="0" border="0" width="699" background="/images/gradient.jpg">
   				<tbody><tr>
-    				<td width="148" background=""><a href="/"><img src="/images/logo.gif" border="0" width="148" height="67" alt="Realty Times"></a></td>
+    				<td width="148" background=""><a href="/"><img src="/images/logo.gif" border="0" width="148" height="67" alt="Realty Times"></a>
+<div id="aboutRT" style="position:absolute; z-index:1; visibility:hidden">
+<table border="0" bgcolor="black" cellpadding="5" cellspacing="1" width="300">
+<tbody><tr><td bgcolor="ffffee">With an award winning staff of writers providing up to the minute real estate news and advice, thousands of REALTORS<sup>®</sup> in North America reporting daily market conditions, and a nationally broadcast television news program, Realty Times is the one-stop shop for real estate information. That's why over 10,000 real estate professionals have turned to us for their publicity needs.
+</td></tr></tbody></table>
+</div>
+                                                                </td>
 					<td valign="bottom" background="">&nbsp;&nbsp;&nbsp;&nbsp;</td>
-					<td valign="top" align="right" background=""><font class="headerquote">Real Estate News and Advice</font>&nbsp;&nbsp;<br><font class="date">April 15, 2005&nbsp;&nbsp;&nbsp;</font><br></td>
+					<td valign="top" align="right" background=""><font class="headerquote">Real Estate News and Advice</font>&nbsp;&nbsp;<br><font class="date">December 15, 2005&nbsp;&nbsp;&nbsp;</font><br></td>
 				</tr>
 			</tbody></table>
+</div>
 			</td>
 		</tr>
 		<tr>
@@ -234,10 +277,10 @@ document.write('<' + 'script language="JavaScript" type="text/javascript" src="'
 							<hr class="leftnavhr">
 							<br><br>
 							<center>
-							<a href="http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&amp;TYPE=RealTimes\CraigProctorProductions_Sponsor_C&amp;LINK=http://www.hypertracker.com/go/cp/rtsb040601/" target="_blank"><img src="http://www2.realtytimes.com/rtnews/dispcount3.ag?OpenAgent&amp;AdID=CraigProctorProductions_Sponsor_C&amp;" height="35" width="110" border="1" alt="Today's Insider REALTOR Secret"></a><br><br>
+							<img src="http://www2.realtytimes.com/rtnews/dispcount3.ag?OpenAgent&amp;AdID=USA-Lenders_Sponsor_C&amp;" border="0" width="1" height="1"><br><a href="http://www.usa-lenders.com/" target="_blank"><img src="http://img.realtytimes.com/rtimages/sponsor8/$file/usa-lenders-110x35.gif" height="35" width="110" border="1" alt="Mortgage Lenders Brokers"></a><br><br>
 <hr class="leftnavhr" width="110"><br>
-							<img src="http://www2.realtytimes.com/rtnews/dispcount3.ag?OpenAgent&amp;AdID=Housereal_Sponsor_C&amp;" border="0" width="1" height="1"><br><a href="http://www.housereal.net"><img src="http://www.homemediakit.com/banners/housereal-110x35-4.gif" width="110" height="35" alt="Your Real Estate Guide"></a><img src="http://realtytimes.com/rtnews/dispcount3.ag?open&amp;AdID=Housereal_Sponsor_C" width="1" height="1" border="0"><br>
-<br><hr class="leftnavhr" width="110"><br><a href="http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&amp;TYPE=RealTimes\Proquest_Chimney_C&amp;LINK=http://www.realestategrowth.com/freecourse.asp?sc=6269" target="_blank"><img src="http://www2.realtytimes.com/rtnews/dispcount3.ag?OpenAgent&amp;AdID=Proquest_Chimney_C&amp;" height="600" width="120" border="1" alt="The Real Estate Insider"></a><br>
+							<img src="http://www2.realtytimes.com/rtnews/dispcount3.ag?OpenAgent&amp;AdID=HouseValues_Sponsor_C2&amp;" border="0" width="1" height="1"><br><a href="http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&amp;TYPE=RealTimes\HouseValues_Sponsor_C2&amp;LINK=http://info.housevalues.com/form/707"><img src="http://img.realtytimes.com/rtimages/housevaluesads/$file/housevalues_sponsor_a2.gif" border="1"></a><br>
+<br><hr class="leftnavhr" width="110"><br><img src="http://www2.realtytimes.com/rtnews/dispcount3.ag?OpenAgent&amp;AdID=HouseValues_Chimney_C2&amp;" border="0" width="1" height="1"><br><a href="http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&amp;TYPE=RealTimes\HouseValues_Chimney_C2&amp;LINK=http://info.housevalues.com/form/708"><img src="http://img.realtytimes.com/rtimages/housevaluesads/$file/housevalues_chimney_a2.gif" border="1"></a><br>
 							</center>
 							</td>
 						</tr>
@@ -248,9 +291,10 @@ document.write('<' + 'script language="JavaScript" type="text/javascript" src="'
 					<table cellpadding="3" cellspacing="4" border="0" width="360">
   						<tbody><tr>
     						<td><img src="/images/spacer.gif" border="0" width="1" height="7" alt=""><br>
-<a href="/" class="breadcrumb">News &amp; Advice</a><br><br>
+<a href="/" class="breadcrumb">News &amp; Advice</a><br><div class="breadcrumb"><br></div>
 
 <!-- Title Display -->
+
 <font class="newspage_headline"><b>Privacy Statement for realtytimes.com</b><br>
 </font>
 
@@ -344,7 +388,7 @@ If you have any questions about this privacy statement, the practices of this si
 </p><address>Jody Lane</address>
 <address>Realty Times</address>
 <address>5949 Sherry Lane</address>
-<address>Suite 1250</address>
+<address>Suite 700</address>
 <address>Dallas, TX  75225</address>
 <address><!-- jlane at realtytimes dot com -->
 <script type="text/javascript">
@@ -406,15 +450,15 @@ while(x=eval(x));}hiveware_enkoder();
 						<center>
 						<a href="/rtcpages/blanche.htm" class="rightnav"><img src="http://img.realtytimes.com/rtimages/columnists3/$file/blanche2.jpg" border="0" alt="Blanche Evans, Editor" vspace="6"><br>Blanche Evans, Editor</a><br>
 						</center>
-<!-- Showcase of Homes -->
+<!-- RTTV / Showcase of Homes -->
 
-<!--Showcase of Homes Link-->
+<!--RealtyTimes TV Link-->
 							<img src="/images/spacer.gif" width="1" height="5"><br>
 							<hr class="rightnavhr">
 							<img src="/images/spacer.gif" width="1" height="5"><br>
 							<center>
-<!--  Text version					<a href=http://www2.realtytimes.com/rtnews/linktracker.ag?open&TYPE=RealTimes\RT_ShowcaseOfHomes&LINK=http://www.ShowcaseOfHomes.tv class=news_headline>Video Showcase<br>of <br>Homes for Sale<br></a>  -->
-							<a href="http://www2.realtytimes.com/rtnews/linktracker.ag?open&amp;TYPE=RealTimes\RT_ShowcaseOfHomes&amp;LINK=http://www.ShowcaseOfHomes.tv" class="news_headline"><img src="/images/showcasebtn.gif" border="0" width="139" height="62" alt="As seen on TV -  Realty Times Showcase of Homes"></a><br>
+							<a href="http://www2.realtytimes.com/rtnews/linktracker.ag?open&amp;TYPE=RealTimes\RT_RTTV&amp;LINK=http://RealtyTimes.TV" class="news_headline"><img src="http://img.realtytimes.com/rtimages/rttv/$file/rttv-button.gif" border="0" alt="Realty Times Television"></a><br>
+<div class="iexxxsmall">Weekends on Satellite Television<br></div>
 							</center>
 							<img src="/images/spacer.gif" width="1" height="5"><br>
 <!-- RightMortgageRates4 / RightSpotlight4 -->
@@ -426,11 +470,11 @@ while(x=eval(x));}hiveware_enkoder();
 							<center>
 							<b>Mortgage Rates</b><br>
 							<img src="/images/spacer.gif" width="1" height="5"><br>
-							30 Year Fixed: 5.91%<br>
+							30 Year Fixed: 6.32%<br>
 							<img src="/images/spacer.gif" width="1" height="5"><br>
-							15 Year Fixed: 5.46%<br>
+							15 Year Fixed: 5.87%<br>
 							<img src="/images/spacer.gif" width="1" height="5"><br>
-							1 Year Adj: 4.30%<br>
+							1 Year Adj: 5.16%<br>
 							</center>
 
 							<img src="/images/spacer.gif" width="1" height="5"><br>
@@ -439,12 +483,12 @@ while(x=eval(x));}hiveware_enkoder();
 							<center><a class="news_headline" href="/headlines.htm">Today's Headlines</a><br></center>
 							<img src="/images/spacer.gif" width="1" height="5"><br>
 							<table width="100%" border="0" cellpadding="0" cellspacing="0">
-							<tbody><tr valign="top"><td class="news_article"><li><br></li></td><td align="top"><a class="rightnav" href="/rtcpages/20050415_appraisalfraud.htm">Appraisal Fraud Likely Greater Than Reported</a><br><img src="/images/spacer.gif" width="1" height="5"><br></td></tr>
-<tr valign="top"><td class="news_article"><li><br></li></td><td align="top"><a class="rightnav" href="/rtcpages/20050415_askrt.htm">Ask Realty Times</a><br><img src="/images/spacer.gif" width="1" height="5"><br></td></tr>
-<tr valign="top"><td class="news_article"><li><br></li></td><td align="top"><a class="rightnav" href="/rtcpages/20050415_charlotte.htm">Charlotte, North Carolina Neighborhoods</a><br><img src="/images/spacer.gif" width="1" height="5"><br></td></tr>
-<tr valign="top"><td class="news_article"><li><br></li></td><td align="top"><a class="rightnav" href="/rtcpages/20050415_gettingbestrate.htm">Getting the Best Interest Rate: Part I of V</a><br><img src="/images/spacer.gif" width="1" height="5"><br></td></tr>
-<tr valign="top"><td class="news_article"><li><br></li></td><td align="top"><a class="rightnav" href="/rtcpages/20050415_mrktconditions.htm">Today's Local Market Conditions</a><br><img src="/images/spacer.gif" width="1" height="5"><br></td></tr>
-<tr valign="top"><td class="news_article"><li><br></li></td><td align="top"><a class="rightnav" href="/rtcpages/20050415_rates.htm">One-Year Arm Rises, While Five Year ARM Eases Slightly</a><br><img src="/images/spacer.gif" width="1" height="5"><br></td></tr>
+							<tbody><tr valign="top"><td class="news_article"><li><br></li></td><td align="top"><a class="rightnav" href="/rtcpages/20051215_emptyhouses.htm">Empty Houses in Winter Need Regular Attention</a><br><img src="/images/spacer.gif" width="1" height="5"><br></td></tr>
+<tr valign="top"><td class="news_article"><li><br></li></td><td align="top"><a class="rightnav" href="/rtcpages/20051215_lienlaws.htm">Oregon Construction Lien Laws: A Summary for Investors</a><br><img src="/images/spacer.gif" width="1" height="5"><br></td></tr>
+<tr valign="top"><td class="news_article"><li><br></li></td><td align="top"><a class="rightnav" href="/rtcpages/20051215_rent.htm">No Song And Dance In Real-Life 'Rent' Story</a><br><img src="/images/spacer.gif" width="1" height="5"><br></td></tr>
+<tr valign="top"><td class="news_article"><li><br></li></td><td align="top"><a class="rightnav" href="/rtcpages/20051215_spending.htm">Canadian Household Spending Rises</a><br><img src="/images/spacer.gif" width="1" height="5"><br></td></tr>
+<tr valign="top"><td class="news_article"><li><br></li></td><td align="top"><a class="rightnav" href="/rtcpages/20051214_cement.htm">Alternatives to Cement Can Help Builders Keep Pace With Demand</a><br><img src="/images/spacer.gif" width="1" height="5"><br></td></tr>
+<tr valign="top"><td class="news_article"><li><br></li></td><td align="top"><a class="rightnav" href="/rtcpages/20051214_hoaexpert.htm">Ask the HOA Expert</a><br><img src="/images/spacer.gif" width="1" height="5"><br></td></tr>
 							
 							</tbody></table>
 <!-- Sponsors 3 & 4  & 6-->
@@ -452,9 +496,7 @@ while(x=eval(x));}hiveware_enkoder();
 							<hr class="rightnavhr">
 							<img src="/images/spacer.gif" width="1" height="5"><br><br>
 							<center>
-							<a href="http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&amp;TYPE=RealTimes\MostReferred_Sponsor_C1&amp;LINK=http://survey.mostreferred.com" target="_blank"><img src="http://www2.realtytimes.com/rtnews/dispcount3.ag?OpenAgent&amp;AdID=MostReferred_Sponsor_C1&amp;" height="35" width="110" border="1" alt="Are you trusted with referrals?"></a><br><br>
-<hr class="leftnavhr" width="110"><br>
-							<img src="http://www2.realtytimes.com/rtnews/dispcount3.ag?OpenAgent&amp;AdID=HouseValues_Sponsor_C1&amp;" border="0" width="1" height="1"><br><a href="http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&amp;TYPE=RealTimes\HouseValues_Sponsor_C1&amp;LINK=http://clk.atdmt.com/USE/go/rltytai100100240use/direct/01/"><img src="http://view.atdmt.com/USE/view/rltytai100100240use/direct/01/9502998" border="1"></a><br><br>
+							<a href="http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&amp;TYPE=RealTimes\CraigProctorProductions_Sponsor_C&amp;LINK=http://www.hypertracker.com/go/cp/rtsb040601/" target="_blank"><img src="http://www2.realtytimes.com/rtnews/dispcount3.ag?OpenAgent&amp;AdID=CraigProctorProductions_Sponsor_C&amp;" height="35" width="110" border="1" alt="Today's Insider REALTOR Secret"></a><br><br>
 							</center>
 							</td>
 						</tr>
@@ -471,14 +513,14 @@ while(x=eval(x));}hiveware_enkoder();
 			<td><img src="/images/spacer.gif" border="0" width="1" height="20" alt=""></td>
 		</tr>
 		<tr>
-			<td><center><img src="http://www2.realtytimes.com/rtnews/dispcount3.ag?OpenAgent&amp;AdID=HouseValues_Banner_C3&amp;" border="0" width="1" height="1"><br><a href="http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&amp;TYPE=RealTimes\HouseValues_Banner_C3&amp;LINK=http://clk.atdmt.com/USE/go/rltytai100100239use/direct/01/"><img src="http://view.atdmt.com/USE/view/rltytai100100239use/direct/01/6514672" border="1"></a><br></center>
+			<td><center><a href="http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&amp;TYPE=RealTimes\HouseValues_Banner_C5&amp;LINK=http://info.housevalues.com/form/709" target="_blank"><img src="http://www2.realtytimes.com/rtnews/dispcount3.ag?OpenAgent&amp;AdID=HouseValues_Banner_C5&amp;" height="60" width="468" border="1" alt="Exclusive Leads In Your Market"></a><br></center>
 			</td>
 		</tr>
 		<tr>
 			<td><img src="/images/spacer.gif" border="0" width="1" height="20" alt=""></td>
 		</tr>
 		<tr>
-			<td bgcolor="#7A4A1C" align="center"><font style="color:white"><a href="/am/am.htm" class="bottomnav">Agent Marketing</a> | <a href="/conditions.htm" class="bottomnav">Local Market Conditions</a> | <a href="/current.htm" class="bottomnav">News &amp; Advice</a> | <a href="/rtcpages/ourstory.htm" class="bottomnav">About Realty Times</a> <br>
+			<td bgcolor="#7A4A1C" align="center"><font style="color:white"><a href="/package" class="bottomnav">Agent Publicity</a> | <a href="/conditions.htm" class="bottomnav">Local Market Conditions</a> | <a href="/current.htm" class="bottomnav">News &amp; Advice</a> | <a href="/rtcpages/ourstory.htm" class="bottomnav">About Realty Times</a> <br>
 <a href="/rtcpages/sitemap.htm" class="bottomnav">Site Map</a> |  <a href="/rtcpages/index.htm" class="bottomnav">Article Index</a> |  <a href="/rtcpages/terms.htm" class="bottomnav">Terms &amp; Conditions</a> |  <a href="/rtcpages/privacy.htm" class="bottomnav">Privacy</a> | <a href="/rtcpages/contactus4.htm" class="bottomnav">Contact Us</a> | <a href="/rtcpages/credits.htm" class="bottomnav">Credits</a></font></td>
 		</tr>
 	</tbody></table>
