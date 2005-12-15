@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xsitepro.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507053817id_/http%3A//www.xsitepro.com/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsitepro.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215111926id_/http%3A//www.xsitepro.com/Privacy_Statement.html) for the most accurate reproduction.*
 
 # XSitePro - Web Site Design for Internet Entrepreneurs - Privacy Statement
 
