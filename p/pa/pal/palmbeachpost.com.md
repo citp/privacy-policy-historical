@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the palmbeachpost.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305143137id_/http%3A//www.palmbeachpost.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachpost.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215015854id_/http%3A//www.palmbeachpost.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**PRIVACY POLICY**
 
 LAST UPDATED: February 11, 2004 
 
