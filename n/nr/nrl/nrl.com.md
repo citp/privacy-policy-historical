@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nrl.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723171108id_/http%3A//nrl.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrl.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215060843id_/http%3A//www.nrl.com/privacy.cfm) for the most accurate reproduction.*
 
-# National Rugby League Season 2004
+# National Rugby League Season 2005
 
   
 **Privacy at National Rugby League Limited ('NRL')**
