@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sikids.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403203243id_/http%3A//www.sikids.com/admin/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sikids.com privacy policy that was archived on 2005-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215072312id_/http%3A//www.sikids.com/admin/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>SIKIDS | Write to us</title>
@@ -17,7 +17,7 @@
 // these are the user defined globals
 // modify the following variables to customize the inspection behaviour
 
-var requiredVersion = 4;			// version the user needs to view site (max is 7, min is 2)
+var requiredVersion = 5;			// version the user needs to view site (max is 8, min is 5)
 var useRedirect = false; 			// "true" loads new flash or non-flash page into browser
 									// "false" embeds movie or alternate html code into current page
 
@@ -33,7 +33,8 @@ var flash4Installed = false;		// boolean. true if flash 4 is installed
 var flash5Installed = false;		// boolean. true if flash 5 is installed
 var flash6Installed = false;		// boolean. true if flash 6 is installed
 var flash7Installed = false;		// boolean. true if flash 7 is installed
-var maxVersion = 7;					// highest version we can actually detect
+var flash8Installed = false;		// boolean. true if flash 8 is installed
+var maxVersion = 8;					// highest version we can actually detect
 var actualVersion = 0;				// version the user really has
 var hasRightVersion = false;		// boolean. true if it's safe to embed the flash movie in the page
 var jsVersion = 1.0;				// the version of javascript supported
@@ -60,6 +61,7 @@ if(isIE && isWin){ // don't write vbscript tags on anything but ie win
 	document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');
 	document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');
 	document.write('flash7Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))) \n');	
+	document.write('flash8Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) \n');	
 	document.write('</SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
 }
 // -->
@@ -91,6 +93,7 @@ function detectFlash(){
 			flash5Installed = flashVersion == 5;
 			flash6Installed = flashVersion == 6;
 			flash7Installed = flashVersion == 7;
+			flash8Installed = flashVersion == 8;
 		}
 	}
 	
