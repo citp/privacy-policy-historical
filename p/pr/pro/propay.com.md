@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the propay.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305042140id_/http%3A//propay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propay.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215120011id_/http%3A//www.propay.com/privacy.html) for the most accurate reproduction.*
 
 # ProPay: Accept Credit Cards - Simple, Safe, & Affordable
 
-## [](http://www.bbbonline.org/cks.asp?id=203080765432906)[](https://www.truste.org/validate/7674)Summary
+| _Last updated on 5/16/2005_ |   
+---|---  
+  
+## [](http://www.bbbonline.org/cks.asp?id=203080765432906)[](http://www.truste.org/ivalidate.php?url=www.propay.com&sealid=101)Summary
 
 ProPay works hard to earn and keep your trust and confidence. This Privacy Policy is posted at our web site to allow users easy and quick access to ProPay's policy regarding personal information. This notice explains how we collect and safeguard information about you and the choices you have about our use and disclosure of that information. 
 
@@ -29,7 +32,7 @@ If you have any questions about the security at ProPay's web site, please e-mail
 
 ##  Cookies
 
-ProPay's web site uses cookies only to track referrals from their Affiliates who have joined an affiliate program and to identify a user when they return to the web site. 
+ProPay's web site uses cookies to track referrals from their Affiliates who have joined an affiliate program. During login a user may also choose to have ProPay store the user email address in a cookie to facilitate subsequent logins.
 
 ##  Links
 
@@ -91,4 +94,6 @@ ProPay USA, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an indep
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under ProPay control. 
   7. How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this Notice, you should first contact [webmaster@propay.com](mailto:webmaster@propay.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with ProPay to resolve your concerns. 
+
+
+If you have questions or concerns regarding this Notice, you should first contact [webmaster@propay.com](mailto:webmaster@propay.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with ProPay to resolve your concerns.
