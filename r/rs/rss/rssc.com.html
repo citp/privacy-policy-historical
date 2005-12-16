@@ -1,7 +1,47 @@
-<!--The following is the downloaded HTML source of the rssc.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403212335id_/http%3A//www.rssc.com/about/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rssc.com privacy policy that was archived on 2005-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051216235715id_/http%3A//www.rssc.com/about/privacy.jsp) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script language="JavaScript">
+
+var regexp;
+var regex=/(http|https):\/\/([^\/]*)\/([^\/]*)([^\?]*)(.*)/;
+regex.test(document.location);
+
+// http://www.rssc.com/ships/foobar/ships.jsp?code=mar
+// gives
+//   Group 1: "http"
+//   Group 2: "www.rssc.com"
+//   Group 3: "ships"
+//   Group 4: "/foobar/ships.jsp"
+//   Group 5: "?code=mar"
+
+var sburl_cat = RegExp.$3;
+var sburl_querystring = RegExp.$5;
+
+var regexp;
+var regex=/\?code=([^&]*)/;
+regex.test(sburl_querystring);
+
+// ?code=mar&foo=bar
+// gives
+//    Group 1: "mar"
+
+var sburl_shipcode = RegExp.$1;
+
+var regexp;
+var regex=/.*\s:\s(.*)/;
+regex.test(document.title);
+var sbtitle_cat = RegExp.$1;
+
+var sess_phonenum = '';
+
+var 
+sbgid='RON,'+'t:'+sbtitle_cat+',u:'+sburl_cat+',c:'+sburl_shipcode+','+sess_phonenum;
+
+</script>
+
+
+
 <title>Radisson Seven Seas Cruises : Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
 <meta name="Description" content="TODO CMS">
@@ -10,11 +50,11 @@
 <style>
 
 A,BODY,TD,TH,DIV,FONT,INPUT,OL,UL,LI,SELECT,OPTION,TEXTAREA{color:#000000;font-size:11px;font-family:Verdana,Arial,Helvetica,Sans-Serif;}
-A{color:815D39;text-decoration:underline;}
-A:visited{color:815D39;text-decoration:underline;}
-A:hover{color:815D39;text-decoration:underline;}
+A { color: #776541; text-decoration: underline; }
+A:visited { color: #776541; text-decoration: underline; }
+A:hover { color: #776541; text-decoration: underline; }
 BODY{background-color:#FFFFFF;margin:0pt;}
-DIV.title {font-size: 12; white-space: nowrap; background-color: #F3ECDF; vertical-align: bottom; padding: 7 10 0 10; height: 20; width: 100%;}
+DIV.title {font-size: 12; white-space: nowrap; background-color: #E0DBC1; vertical-align: bottom; padding: 7 10 0 10; height: 20; width: 100%;}
 DIV.detail {padding: 10 10 0 10;}
 FONT{}
 FONT.title{font-size:12px;padding: 0 12 0 0;}
@@ -27,7 +67,7 @@ SUP{color:#FF3333;}
 SUP.smallprint{font-size:9px;}
 SUP.black{color:#000000}
 TABLE{border:0;width:100%;}
-TABLE.offer{height: 100%; width: 170; background-color:#F3ECDF}
+TABLE.offer{height: 100%; width: 170; background-color:#E0DBC1}
 TD.detail{padding: 10 10 15 10; vertical-align: top;}
 TD.largespacer{padding: 0 15 0 15; width: 30px;}
 TD.smallspacer{padding: 0 5 0 5; width: 10px;}
@@ -38,62 +78,72 @@ TD.title-section:first-letter{font-size: 120%; text-transform: capitalize;}
 TD.title-section{padding: 3 0 0 10; color: #5A5952; vertical-align: bottom; white-space: nowrap; font: bold small-caps 17px/12px "Times New Roman",Times,serif; letter-spacing: 4; word-spacing: 0;}
 TD.title-sectionwfiller{background-image: url("/images/spacer.gif"); padding: 3 0 0 10; vertical-align: bottom; color: #5A5952; white-space: nowrap; font: bold small-caps 18px/14px "Times New Roman",Times,serif; text-transform: capitalize; letter-spacing: 4; word-spacing: 2;}
 TEXTAREA{font-size:10px;}
-TR.divider-tan{background-color:#F3ECDF;height:1;}
+TR.divider-tan{background-color:#E0DBC1;height:1;}
 TR.smallspacer{height:6px;}
 TR.mediumspacer{height:15px;}
 TR.spacer{height:25px;}
 TR.thinspacer{height:1px;}
-TR.title{height:20px;background-color:#F3ECDF;}
-TR.title2{height:20px;background-color:#E8D9C0;}
-TR.title3{height:20px;background-color:#DAC8A9;}
-TR.title4{height:20px;background-color:#EDE2CF;}
+TR.title{height:20px;background-color:#E0DBC1;}
+TR.title2{height:20px;background-color:#E0DBC1;}
+TR.title3{height:20px;background-color:#E0DBC1;}
+TR.title4{height:20px;background-color:#E0DBC1;}
 UL{list-style-position:outside;list-style-type:square;}
 
-A.footer{color:#AA3333;font-size:10px;text-decoration:none;}
-A.footer:visited{color:#AA3333;text-decoration:none;}
-A.footer:hover{color:#000000;text-decoration:underline;}
-A.homedest{color:#993333;font-weight:bold;text-decoration:none;}
-A.homedest:visited{color:#993333;text-decoration:none;}
-A.homedest:hover{color:#663300;text-decoration:underline;}
-A.nav1{color:#FFFFFF;font-size:10px;text-decoration:none;}
-A.nav1:visited{color:#FFFFFF;text-decoration:none;}
-A.nav1:hover{color:#E8D9C0;text-decoration:underline;}
-A.nav1_on{color:#E8D9C0;font-size:10px;text-decoration:none;font-weight:bold;}
-A.nav1_on:visited{color:#E8D9C0;text-decoration:none;}
-A.nav1_on:hover{color:#E8D9C0;text-decoration:none;}
-A.sidenav{color:#663333;font-size:10px;text-decoration:none;}
-A.sidenav:visited{color:#663333;text-decoration:none;}
-A.sidenav:hover{color:#333333;text-decoration:underline;}
-A.sidenav_on{color:#663333;font-size:10px;text-decoration:none;font-weight:bold;}
-A.sidenav_on:visited{text-decoration:none;}
-A.sidenav_on:hover{text-decoration:none;}
-A.topmenu{color:#FFFFFF;font-size:10px;font-weight:bold;text-decoration:none;text-transform:uppercase;}
-A.topmenu:visited{color:#FFFFFF;text-decoration:none;}
-A.topmenu:hover{color:#999999;text-decoration:none;}
-A.toptopmenu{color:#000000;font-size:10px;text-decoration:none;}
-A.toptopmenu:visited{color:#000000;text-decoration:none;}
-A.toptopmenu:hover{color:#AA3333;text-decoration:none;}
-FONT.phone{font-size:14px;color:#E8D9C0}
-TABLE.footer{background-color:#BBBB66;text-align: center}
+A.footer { color: white; font-weight: bold; font-size: 10px; text-decoration: none; white-space: nowrap; }
+A.footer:visited { color: white; font-weight: bold; text-decoration: none; white-space: nowrap; }
+A.footer:hover { color: white; font-weight: bold; text-decoration: underline; white-space: nowrap; }
+A.bottomfooter { color: gray; font-weight: normal; text-decoration: underline; white-space: nowrap; }
+A.bottomfooter:visited { color: gray; font-weight: normal; text-decoration: underline; white-space: nowrap; }
+A.bottomfooter:hover { color: gray; font-weight: normal; text-decoration: underline; white-space: nowrap; }
+A.homedest{ font-size: 10px; color: black; text-decoration : none; text-transform: capitalize; margin: 0 4 0 0; }
+A.homedest:visited{ font-size: 10px; color: black; text-decoration: none; text-transform: capitalize; }
+A.homedest:hover{ font-size: 10px; color: black; text-decoration: underline; text-transform: capitalize; }
+A.nav1 { color: #776541; font-size: 10px; text-decoration: none; }
+A.nav1:visited { color: #776541; text-decoration: none; }
+A.nav1:hover { color: #776541; text-decoration: underline; }
+A.nav1_on { color: #776541; font-size: 10px; text-decoration: none; font-weight: bold; }
+A.nav1_on:visited { color: #776541; text-decoration: none; }
+A.nav1_on:hover { color: #776541; text-decoration: none; }
+A.sidenav {color: #776541; font-size: 10px; text-decoration: none; }
+A.sidenav:visited { color: #776541; text-decoration: none; }
+A.sidenav:hover { color:#776541; text-decoration: underline; }
+A.sidenav_on { color: #776541; font-size: 10px; text-decoration: none; font-weight: bold; }
+A.sidenav_on:visited { text-decoration:none; }
+A.sidenav_on:hover { text-decoration:none; }
+A.topmenu { color: #FFFFFF; font-size: 10px; font-weight: bold; text-decoration: none; text-transform: uppercase; }
+A.topmenu:visited { color: #FFFFFF; text-decoration: none; }
+A.topmenu:hover { color: #6A717B; text-decoration: none; }
+A.topmenu.topmenu-s, A.topmenu.topmenu-s:visited, A.topmenu.topmenu-s:hover { color: #6A717B; }
+A.toptopmenu { color: #000000; font-size: 10px; text-decoration: none; }
+A.toptopmenu:visited { color: #000000; text-decoration: none; }
+A.toptopmenu:hover { color: #6A717B; text-decoration: none; }
+FONT.phone { font-size: 14px; color: # }
+TABLE.footer{ background-color: #B3AB7D; text-align: center; white-space: nowrap; }
+TABLE.header{ width: 780; }
 TD.bottommenu{background-color:#CCCCFF;padding:0 4 0 0;border:solid black;border-width:0 0 1 0;}
-TD.footer{font-size:10px; background-color:#E8D9C0}
-TD.sidenav{background-color:815D39;text-align: left;padding: 1 0 7 20;}
-TD.sidenav1{background-color:#DAC8A9;text-align: left;padding: 15 0 12 16;}
-TD.sidenav2{background-color:#E8D9C0;text-align: left;padding: 3 0 3 16;}
-TD.sidenav3{background-color:815D39;text-align: center; padding-bottom:15px;}
-TD.sidenav4{background-color:#CEB893;text-align: left;padding: 3 0 3 20;}
+TD.footer{ color: white; font-size: 10px; background-color: #B3AB7D; white-space: nowrap; }
+TD.bottomfooter{ color: black; font-size: 10px; background-color: white; white-space: nowrap; }
+TD.sidenav { background-color: E0DBC1; font-size: 10px; text-align: left; padding: 1 4 1 15; }
+TD.sidenav1 { background-color: #E0DBC1; text-align: left; padding: 5 6 4 12; }
+TD.sidenav2 { background-color: #E0DBC1; text-align: left;padding: 3 0 3 16; }
+TD.destinations{ background-color: white; text-align: left; white-space: nowrap; padding: 0 0 0 16; }
+TD.sidenav3 { background-color:E0DBC1; text-align: center; padding-bottom:15px; }
+TD.sidenav4 { background-color: #E0DBC1; text-align: left; padding: 1 0 1 15; }
 TD.topmenu{text-align: center;padding:4 10;}
-TD.topmenu-s{background-color:815D39;border:solid white; border-width:0 1; height: 1;}
-TD.toptopmenu{text-align: left;vertical-align: bottom; background-color:#E8D9C0}
-TR.topmenu{background-color:#663300;}
-TR.sidenav3{background-color:815D39;text-align: center;}
+TR.topmenu{background-color:#B3AB7D;}
+TD.topmenu-s { color: red; background-color: E0DBC1; border:solid white; border-width: 0 1; height: 1; }
+TD.toptopmenu { text-align: left; vertical-align: bottom; background-color: #D6D5D5; }
+TD.toptopmenu img { margin: 0 2 0 6; }
+TR.sidenav3{background-color:E0DBC1;text-align: center;}
+TD.homepromo { background-color: #6A717B; }
+TABLE.sidenav { width: 170px; } 
+TABLE.sidenav img { vertical-align: top; margin-top: 4px; }
 
 
-FONT.desc{font-size:10px; color:#FFFFFF;}
 FONT.medium{font-size:11px; color:#333333;}
 FONT.small{font-size:10px; color:#333333;}
 FONT.spacer{font-size:4px;}
-FONT.tan2{color:#E8D9C0;}
+FONT.tan2{color:#E0DBC1;}
 FONT.red{color:#FF3333;}
 TABLE.login{width:400px;}
 </style>
@@ -101,20 +151,20 @@ TABLE.login{width:400px;}
 <body>
 
 <table cellpadding="0" cellspacing="0">
-  <tbody><tr height="60">
-    <td rowspan="2" width="259"><a href="/"><img src="/images/top_logo1.gif" width="259" height="79" alt="Main Logo"></a></td>
-    <td width="491"><img src="/images/top_logo2.gif" width="491" height="60" alt="Header Background"></td>
-    <td bgcolor="#CEB893">&nbsp;</td>
+  <tbody><tr bgcolor="B3AB7D">
+    <td rowspan="2" width="259"><a href="/"><img src="/images/home/leftheader.jpg" alt="Main Logo"></a></td>
+    <td style="width: 512;"><img width="512" height="59" src="/images/home/rightheader.jpg" alt="Header Background"></td>
+   <td style="background-repeat: repeat; background-image: url(/images/home/header-repeat.jpg);">&nbsp;</td>
   </tr>
-  <tr height="19">
+  <tr>
     <td colspan="2" class="toptopmenu">
-    <table style="padding: 0 5 4 4" cellpadding="0" cellspacing="0">
+    <table style="padding: 2 5 4 8" cellpadding="0" cellspacing="0">
       <tbody><tr>
-        <td nowrap="">&nbsp;&nbsp;<a class="toptopmenu" href="/mycruises?sblib=myCruises"><img src="/images/bullet1.gif">&nbsp;My Cruises</a>&nbsp;&nbsp;</td>
-        <td nowrap=""><a class="toptopmenu" href="/agentsearch?sblib=agentSearch"><img src="/images/bullet1.gif">&nbsp;Find a Travel Agent</a>&nbsp;&nbsp;</td>
-        <td nowrap=""><a class="toptopmenu" href="/brochures?sblib=brochures"><img src="/images/bullet1.gif">&nbsp;Order Brochures</a>&nbsp;&nbsp;</td>
-        <td nowrap=""><a class="toptopmenu" href="/questions/home.jsp?sblib=questions"><img src="/images/bullet1.gif">&nbsp;Cruise Questions?</a>&nbsp;&nbsp;</td>
-        <td width="50%">&nbsp;</td>
+       <td nowrap=""><img style="vertical-align: 8%;" src="/images/icons/tan_on_grey_arrow.gif"><a class="toptopmenu" href="/mycruises">My Cruises</a></td>
+       <td nowrap=""><img style="vertical-align: 8%;" src="/images/icons/tan_on_grey_arrow.gif"><a class="toptopmenu" href="/agentsearch">Find a Travel Agent</a></td>
+       <td nowrap=""><img style="vertical-align: 8%;" src="/images/icons/tan_on_grey_arrow.gif"><a class="toptopmenu" href="/brochures">Order Brochures</a></td>
+       <td nowrap=""><img style="vertical-align: 8%;" src="/images/icons/tan_on_grey_arrow.gif"><a class="toptopmenu" href="/questions/home.do">Cruise Questions?</a></td>
+       <td width="50%">&nbsp;</td>
       </tr>
     </tbody></table>
    </td>
@@ -124,12 +174,12 @@ TABLE.login{width:400px;}
 <table cellpadding="0" cellspacing="0">
   <tbody><tr class="topmenu">
     <td class="topmenu"><a class="topmenu" href="/">Home</a></td>
-    <td class="topmenu" nowrap=""><a class="topmenu" href="/voyage?sblib=voyage">Plan a voyage</a></td>
-    <td class="topmenu" nowrap=""><a class="topmenu" href="/ships?sblib=ships">Ships</a></td>
-    <td class="topmenu" nowrap=""><a class="topmenu" href="/specials?sblib=specials">Specials</a></td>
-    <td class="topmenu" nowrap=""><a class="topmenu" href="/sailings?sblib=spotlight">Spotlight cruises</a></td>
-    <td class="topmenu" nowrap=""><a class="topmenu" href="/worldcruise?sblib=worldCruise">World cruise</a></td>
-    <td class="topmenu" nowrap=""><a class="topmenu" href="/sss?sblib=sss">Seven Seas Society</a></td>
+    <td class="topmenu" nowrap=""><a class="topmenu" href="/voyage">Plan a voyage</a></td>
+    <td class="topmenu" nowrap=""><a class="topmenu" href="/ships">Ships</a></td>
+    <td class="topmenu" nowrap=""><a class="topmenu" href="/specials">Specials</a></td>
+    <td class="topmenu" nowrap=""><a class="topmenu" href="/sailings.do">Spotlight cruises</a></td>
+    <td class="topmenu" nowrap=""><a class="topmenu" href="/worldcruise">World cruise</a></td>
+    <td class="topmenu" nowrap=""><a class="topmenu" href="/sss">Seven Seas Society</a></td>
     <td class="topmenu" nowrap=""></td>
     <td width="90%">&nbsp;</td>
   </tr>
@@ -146,100 +196,104 @@ TABLE.login{width:400px;}
     <td height="1"></td>
   </tr>
   <tr class="topmenu" height="4">
-    <td colspan="9" bgcolor="815D39"></td>
+    <td colspan="9" bgcolor="E0DBC1"></td>
   </tr>
   
 </tbody></table>
 
-<table cellpadding="0" cellspacing="0">
+<table style="border-right: 1px solid #DDDDDD;" cellpadding="0" cellspacing="0">
   <tbody><tr height="11">
-    <td width="170" bgcolor="815D39"><font class="spacer">&nbsp;</font></td>
-    <td width="20" bgcolor="815D39"><img src="/images/corner.gif" width="20" height="11" alt="fil"></td>
+    <td width="170" bgcolor="E0DBC1"><font class="spacer">&nbsp;</font></td>
+    <td width="20" bgcolor="E0DBC1"><img src="/images/corner.gif" width="20" height="11" alt="fil"></td>
     <td><font class="spacer">&nbsp;</font></td>
   </tr>
 </tbody></table>
 
+  
+ 
+ 
 
 
 
-<table cellpadding="0" cellspacing="0" style="height: 75%">
+<table style="border-right: 1px solid #DDDDDD;" cellpadding="0" cellspacing="0">
 
  
- <tbody><tr><td class="sidenav3" style="padding: 0 85 0 85;"></td></tr>
+ <tbody><tr><td class="sidenav3" style="padding: 0 55 5 85;"></td></tr>
  <tr>
-  <td class="sidenav3" style="width: 170; vertical-align: top;">
+  <td class="sidenav3" style="background-color: #6A717B; padding-bottom: 30px; width: 170; vertical-align: top;">
    
 
 
-<style>
-TD.nopad{padding: 0 0 0 0;}
-</style>
-
-<table cellpadding="0" cellspacing="0">
-<tbody><tr>
-  <td class="sidenav3 nopad" height="212" width="170"><img src="/images/about/compass.gif" height="212" width="170"></td>
-</tr>
-</tbody></table>
 
 
 
 
 
-<table cellpadding="0" cellspacing="0">
-<tbody><tr>
-  <td class="sidenav1" nowrap="">
-    
-    <b><a class="sidenav" href="/newsletter"><img src="/images/arrow_gray.gif"> Subscribe to the<br>&nbsp;&nbsp;&nbsp;Seven Seas Explorer<br>&nbsp;&nbsp;&nbsp;Newsletter</a></b></td>
-</tr>
-<tr height="12"><td class="sidenav2"></td></tr>
-<tr>
-  <td class="sidenav2">
-    
-    <a class="sidenav" href="/travelagents/home.jsp?link=travelagent"><img src="/images/arrow_gray.gif"> Travel Agents</a></td>
-</tr>
-<tr>
-  <td class="sidenav2" nowrap="">
-    
-    <a class="sidenav" href="/charters/home.jsp?link=charter"><img src="/images/arrow_gray.gif"> Charters and <br>&nbsp;&nbsp;&nbsp;Corporate Incentives</a></td>
-</tr>
-<tr>
-  <td class="sidenav2">
-    
-    <a class="sidenav" href="/about"><img src="/images/arrow_gray.gif"> About RSSC</a></td>
-</tr>
-<tr>
-  <td class="sidenav2">
-    
-    <a class="sidenav" href="/employment/home.jsp?link=employment"><img src="/images/arrow_gray.gif"> Employment</a></td>
-</tr>
-<tr>
-  <td class="sidenav2">
-  
-  <a class="sidenav" href="/about/contactus.jsp"><img src="/images/arrow_gray.gif"> Contact Us</a>
+<table class="sidenav" cellpadding="0" cellspacing="0">
+
+ 
+ <tbody><tr>
+  <td class="sidenav1" style="border-bottom: 1px solid white;">
+   <table>
+    <tbody><tr>
+     
+     <td class="sidenav3" style="text-align: right; vertical-align: top; padding-top: 6;">
+      <a href="/newsletter"><img src="/images/icons/email_tan.gif"></a></td>
+     <td style="font-weight: bold; padding: 4 8 8 4;">
+      <a class="sidenav" style="font-size: 11;" href="/newsletter">Register for Email News and Offers</a></td>
+    </tr>
+   </tbody></table>
   </td>
-</tr>
-<tr>
-  <td class="sidenav2" nowrap="">
-    
-    <a class="sidenav" href="/goldpoints"><img src="/images/arrow_gray.gif"> Gold Points Reward<br>&nbsp;&nbsp;&nbsp;Network</a></td>
-</tr>
-<tr height="20"><td class="sidenav2"></td></tr>
-<tr height="10"><td class="sidenav3"></td></tr>
-
+ </tr>
+ 
  <tr>
-  <td class="sidenav3"><b><font class="phone">877.505.5370 </font></b>
-  </td>
-</tr>
-<tr>
-  <td class="sidenav3"><font class="desc">For reservations contact your travel agent. 
-<p>For more information or brochures, call a Radisson Seven Seas Cruise Expert at the number above (toll free). </p></font>
-  </td>
-</tr>   
+  <td style="font-size: 16px; padding: 10 10 0 10; color: #B3AB7D; background-color: #6A717B; font-weight: bold; ">
+  Call an Expert</td></tr>
+ <tr>
+   <td class="sidenav3" style="text-align: left; padding: 0 10 0 10; color: white; background-color: #6A717B;">
+   For luxury cruise reservations contact your travel professional or call: </td></tr>   
+ <tr>
+  <td class="sidenav3" style="text-align: left; padding-left: 5; background-color: #6A717B;">
+  <!-- *****  InSite Code Snippet Start   ***** -->
+<!-- ***** COPYRIGHT SITEBRAND.COM INC. ***** -->
+<script language="Javascript"><!--
+var sbwidth=130;
+var sbheight=23;
+var sbkey='cba359e705f6ec25dbe6ec89a72804d9';
+var passport=0;
+//--></script>
+<script language="VBScript"><!--
+Function vbPluginInstall(name)
+pluginInstall=-1
+On error resume next
+If ScriptEngineMajorVersion>1 then
+result=IsObject(CreateObject(name))
+if result then
+vbPluginInstall=1
+Else
+vbPluginInstall=0
+End if
+Else
+vbPluginInstall=0
+End if
+End Function
+//--></script>
+<script language="JavaScript" src="http://media5.sitebrand.com/v3/mediator.sb?sbaid=195788"></script>
+<script language="Javascript"><!--
+if(window.passport)
+{var nocache=Math.floor(Math.random()*1000000000);
+var cururi=String(document.location);
+var issecure=(cururi.indexOf('https://')>-1?'s':'');
+document.write('<scr'+'ipt language=\'Javascript\' src=\'http'+issecure+'://media5.sitebrand.com/v3/envoy.sb?sbaid=195788&sbbn='+sbbn+'&sbbv='+sbbv+'&sbos='+sbos+'&nocache='+nocache+'\'></scr'+'ipt>');}
+//--></script>
+<noscript><table border=0 cellpadding=0 cellspacing=0><tr><td><a href='http://media5.sitebrand.com/v3/clicks.sb'><img src='http://media5.sitebrand.com/v3/tailor.sb?sbaid=195788&sbjs=-1&sbcw=130&sbch=23' width='130' height='23' border='0'></a></td></tr></table></noscript>
+<!-- ***** InSite Server Code Snippet End ***** --></td></tr>
+ 
+ 
+ 
 
-
-<tr height="7"><td class="sidenav3"></td></tr>
 </tbody></table></td>
-  <td style="padding: 10 20 0 20; height: 100%; vertical-align: top;">
+  <td style="padding: 0 20 0 20; height: 100%; vertical-align: top;">
    
 
 
@@ -248,7 +302,7 @@ TD.nopad{padding: 0 0 0 0;}
 
 <table cellspacing="0" cellpadding="0">
   <tbody><tr class="smallspacer"><td></td></tr>
-  <tr class="title"><td valign="top"><img src="/images/about/title_privacy.gif"></td></tr>
+  <tr class="title"><td class="title-section" valign="top">Privacy Policy</td></tr>
   <tr>
 	<td valign="top">
 	  <table cellspacing="0" cellpadding="0">
@@ -279,18 +333,70 @@ TD.nopad{padding: 0 0 0 0;}
   </tr>
 </tbody></table>
 </td>
-  <td class="smallspacer">&nbsp;</td>
  </tr>
 </tbody></table>
 
 
 
+
 <table class="footer" cellpadding="0" cellspacing="0">
-  <tbody><tr bgcolor="#FFFFFF"><td height="1" colspan="100%"></td></tr>
-  <tr><td class="footer">&nbsp;</td></tr>
-  <tr><td class="footer">©2003 Radisson Seven Seas Cruises. All Rights Reserved. <a class="footer" href="/about/privacy.jsp">Privacy Policy</a>&nbsp;:&nbsp;<a class="footer" href="/about/legal.jsp">Legal</a></td></tr>
-  <tr><td class="footer">Visit our Family of Brands: <a class="footer" href="http://www.carlson.com">Carlson Companies, Inc.</a></td></tr>
-  <tr><td class="footer">&nbsp;</td></tr>
+ 
+  
+  <tbody><tr><td class="footer" style="padding: 6 0 6 110; font-size: 11px;">
+   
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+
+   
+   
+   
+    <a class="footer" href="http://www.rssc.com/awardshonors">Awards and Honors</a>
+    :
+   
+   
+    <a class="footer" href="/travelagents/home.jsp?link=travelagent&amp;sblid=travelagentcenter">Travel Agent Center</a>
+    :
+   
+   
+    <a class="footer" href="/charters/home.jsp?link=charter&amp;sblid=charter">Charters and Corporate Incentives</a>
+    :
+   
+   
+    <a class="footer" href="/about?sblid=about">About RSSC</a>
+    :
+   
+   
+    <a class="footer" href="/employment/home.jsp?link=employment&amp;sblid=employment">Employment</a>
+    :
+   
+   
+    <a class="footer" href="/about/contactus.jsp?sblid=contactus">Contact Us</a>
+    
+   </td><td style="width: 50%"></td></tr>
+   <tr style="background-color: white;">
+    <td style="padding: 4 0 0 110;" class="bottomfooter">
+  
+  
+ 
+   ©2005 Radisson Seven Seas Cruises. All Rights Reserved. 
+   <a style="padding-right: 2px;" class="bottomfooter" href="/about/privacy.jsp">Privacy Policy</a>:
+   <a style="padding-left: 2px;" class="bottomfooter" href="/about/legal.jsp">Legal Information</a></td>
+   <td class="bottomfooter" style="width: 50%"></td></tr>
+  <tr style="background-color: white;">
+   <td style="padding: 0 0 2 110;" class="bottomfooter">Visit our Family of Brands: 
+    <a style="padding-right: 3px;" class="bottomfooter" href="http://www.carlson.com">Carlson Companies, Inc.</a>:
+    <a class="bottomfooter" href="http://www.goldpoints.com">Gold Points Reward Network</a></td><td style="width: 50%"></td></tr>
 </tbody></table>
 
 
@@ -322,6 +428,7 @@ TD.nopad{padding: 0 0 0 0;}
  
 
  
+
 
 
 
@@ -334,7 +441,8 @@ var sbwidth=1;
 var sbheight=1;
 var sbkey='cba359e705f6ec25dbe6ec89a72804d9';
 var passport=0;
-//--></script><!-- Netscape 4x space controler -->
+//--></script>
+<!-- Netscape 4x space controler -->
 <script language="VBScript"><!--
 Function vbPluginInstall(name)
 pluginInstall=-1
@@ -350,18 +458,26 @@ Else
 vbPluginInstall=0
 End if
 End Function
-//--></script><!-- Netscape 4x space controler -->
-<script language="JavaScript" src="http://media5.sitebrand.com/v3/mediator.sb?sbaid=195788"></script><!-- Netscape 4x space controler -->
+//--></script>
+<!-- Netscape 4x space controler -->
+<script language="JavaScript" src="RSSC_Home_files/mediator.sb"></script>
+<!-- Netscape 4x space controler -->
 <script language="Javascript"><!--
 if(window.passport)
 {var nocache=Math.floor(Math.random()*1000000000);
 var cururi=String(document.location);
 var issecure=(cururi.indexOf('https://')>-1?'s':'');
 document.write('<scr'+'ipt language=\'Javascript\' src=\'http'+issecure+'://media5.sitebrand.com/v3/envoy.sb?sbaid=195788&sbbn='+sbbn+'&sbbv='+sbbv+'&sbos='+sbos+'&nocache='+nocache+'\'></scr'+'ipt>');}
-//--></script><!-- Netscape 4x space controler -->
-<noscript><table border=0 cellpadding=0 cellspacing=0><tr><td><a href='http://media5.sitebrand.com/v3/clicks.sb'><img src='http://media5.sitebrand.com/v3/tailor.sb?sbaid=195788&sbjs=-1&sbcw=1&sbch=1' width='1' height='1' border='0'></a></td></tr></table></noscript><!-- Netscape 4x space controler -->
-<!-- ***** InSite Server Code Snippet End ***** -->
-
+//--></script>
+<!-- Netscape 4x space controler --><noscript>
+<META content="MSHTML 6.00.2800.1491" name=GENERATOR></HEAD>
+<BODY>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+  <TBODY>
+  <TR>
+    <TD><A href="http://media5.sitebrand.com/v3/clicks.sb"><IMG height=1 
+      src="RSSC_Home_files/tailor.gif" width=1 
+border=0></A></TD></TR></TBODY></TABLE></noscript><!-- Netscape 4x space controler --><!-- ***** InSite Server Code Snippet End ***** -->
 
 
 
