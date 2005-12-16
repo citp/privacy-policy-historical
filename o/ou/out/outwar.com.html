@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the outwar.com privacy policy that was archived on 2005-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305013704id_/http%3A//outwar.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the outwar.com privacy policy that was archived on 2005-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051216085911id_/http%3A//www.outwar.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -9,6 +9,70 @@
 <title>Outwar.com - Massive online role-playing game (RPG)!</title>
 <meta name="description" content="Try this really fun, 100% web based role-playing game.  Over 50,000 active registered players and growing. 2,000 or more online at any given time. 100's of quests, magic items, and monsters to kill. Join with crews and take down raid encounters. Chat and messaging systems available.">
 <meta name="keywords" content="online game, online rpg, web based game, web based rpg, online games, magic items, quests, outwar, artifacts, raids, mobs, crews, guilds, chat, instant message, classes, stats, quest armor, monster, gangster, pop star">
+
+
+<script language="Javascript">
+	
+function openPopup(popURL){
+
+	var popLeft = (screen.width - 370) / 2;
+
+	var popTop = (screen.height - 460) / 2;
+
+	passPop=window.open(popURL,"","width=370,height=460,top="+popTop+",left="+popLeft+",")
+
+}
+
+
+function swapDisplay(eid, disp){
+	obj = document.getElementById(eid);
+	if(obj.style.display == disp){
+		obj.style.display = "none";
+	}
+	else{
+		obj.style.display = disp;
+	}
+}
+
+function previewitnow(x){
+var popurl='owmsngr.php?u='+x;
+winpops=window.open(popurl,"","width=50,height=50,noscrollbars,");
+}
+</script>
+
+<script type="text/javascript">
+function makeWidth(powbar,x){
+	powbar.width=x;
+	return true;
+}
+function setBarWidth(powbar, width){
+	if(width < 0){
+		width = 0;
+	}
+	var time_delay = 0;
+	var x=100;	
+	while(x > width){
+		x = x - 2;
+		time_delay = time_delay + 100;
+		window.setTimeout('makeWidth('+powbar+','+x+')',time_delay);
+	}
+}
+</script>
+
+<style type="text/css">
+
+#dhtmlfloatie{
+position: absolute;
+left: 0;
+left: -900px;
+filter:alpha(opacity=0);
+-moz-opacity:0;
+border: 2px solid black;
+padding: 5px;
+z-index: 100;
+}
+
+</style>
 
 <script language="JavaScript"><!--
 if(window.frames.length > 2)
@@ -23,9 +87,6 @@ function openWindow() {
 <style type="text/css">
 
 <!--
-
-#dek {POSITION:absolute;VISIBILITY:hidden;Z-INDEX:200;}
-
 a:link{  
 	color: #FFFF00; 
 	text-decoration: none
@@ -116,8 +177,8 @@ a.suboption:visited{
 //-->
 
 </style>
-
 <link rel="STYLESHEET" type="text/css" href="style.css">
+<link rel="STYLESHEET" type="text/css" href="pop.css">
 
 <script type="text/javascript">
 function nav_on(name)
@@ -172,8 +233,6 @@ function SwitchMenu(obj){
 // Handles rollover images for NN3+ and IE4+
 
 var loaded = new Array();
-
-
 
 function F_loadRollover(image,imageName) {
 
@@ -272,9 +331,9 @@ function disableForm(theform) {
 // made by: Nicolas - http://www.javascript-page.com
 
 var clockID = 0;
-var srvHour = 19;
-var srvMin = 00;
-var srvSec = 00;
+var srvHour = 03;
+var srvMin = 59;
+var srvSec = 08;
 var tDate = new Date();
 
 tDate.setHours(srvHour);
@@ -325,100 +384,198 @@ function KillClock() {
 }
 </script>
 
+
+	
 </head>
+<body topmargin="0" onload="StartClock();ShowTutorial();" onunload="KillClock();">
 
-<body topmargin="0" leftmargin="0">
-<center>
-
-<iframe id="2" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=2" framespacing="0" frameborder="no" scrolling="no" width="0" height="0" allowtransparency="true"></iframe>
-
-<div id="dek" style="visibility: visible; display: none;"></div>
+<div id="dyk"></div>
+<div id="tutorialtip"></div>
+<div id="dhtmltooltip"></div>
 
 <script type="text/javascript">
-<!--
+/*********************
+* RAMPID TOOLTIP SYSTEM
+*********************/
+var tutobj=document.getElementById("tutorialtip")
+var tutorial_text=''
+var tipwidth=
+var showtut=false
+var ie=document.all
+var ns6=document.getElementById && !document.all
 
-//Pop up information box II (Mike McGrath (mike_mcgrath@lineone.net,  http://website.lineone.net/~mike_mcgrath))
-//Permission granted to Dynamicdrive.com to include script in archive
-//For this and 100's more DHTML scripts, visit http://dynamicdrive.com
-
-Xoffset=-60;    // modify these values to ...
-Yoffset= 20;    // change the popup position.
-
-var old,iex=(document.all),yyy=-1000;
-
-var ns4=document.layers
-var ns6=document.getElementById&&!document.all
-var ie4=document.all
-
-document.getElementById("dek").style.visibility="visible"
-document.getElementById("dek").style.display="none"
-document.onmousemove=get_mouse;
-
-function popup(msg,bak){
-var content="<TABLE BORDER=1 BORDERCOLOR=black CELLPADDING=2 CELLSPACING=0 "+
-"BGCOLOR="+bak+"><TD width=\"250\" ALIGN=\"center\" background=\"http://www.outwar.com/images/stone.jpg\";><FONT COLOR=white SIZE=3>"+msg+"</FONT></TD></TABLE>";
-yyy=Yoffset;
- document.getElementById("dek").innerHTML=content;
- document.getElementById("dek").style.display='';
- document.getElementById("dek").style.visibility="visible";
+function ietruebody(){
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
 }
 
-function statspopup(msg){
-var content="<table style=\"font-size:8pt;padding:5px;background-color:#000000;border:2px inset;\">"+msg+"</table>";
-yyy=Yoffset;
- document.getElementById("dek").innerHTML=content;
- document.getElementById("dek").style.display='';
- document.getElementById("dek").style.visibility="visible";
+function ShowTutorial()
+{
+		if(showtut)
+		{
+			var winWidth=document.all&&!window.opera? ietruebody().clientWidth : window.innerWidth-20
+			var winHeight=document.all&&!window.opera? ietruebody().clientHeight : window.innerHeight
+			var floatHeight=tutobj.offsetHeight
+			var PageOffset=(ie) ?  document.body.scrollTop : window.pageYOffset
+			var tipLeft = winWidth - tipwidth - 10;
+			var tipTop = PageOffset+winHeight-floatHeight-10;
+			tutobj.style.width=tipwidth+"px"
+			tutobj.innerHTML=tutorial_text
+			tutobj.style.left= tipLeft+"px"
+			tutobj.style.top= tipTop-10+"px"
+			tutobj.style.visibility="visible"
+		}		
 }
 
-function get_mouse(e){
-var x=(ns4||ns6)?e.pageX:event.x+document.body.scrollLeft;
-document.getElementById("dek").style.left=x+Xoffset;
-var y=(ns4||ns6)?e.pageY:event.y+document.body.scrollTop;
-document.getElementById("dek").style.top=y+yyy;
+function repositiontut()
+{
+		if(showtut)
+		{
+				var winWidth=document.all&&!window.opera? ietruebody().clientWidth : window.innerWidth-20
+				var winHeight=document.all&&!window.opera? ietruebody().clientHeight : window.innerHeight
+				var floatHeight=tutobj.offsetHeight
+				var PageOffset=(ie) ?  document.body.scrollTop : window.pageYOffset
+				tutobj.style.left= winWidth-tipwidth-10+"px"
+				tutobj.style.top= PageOffset+winHeight-floatHeight-10+"px"
+			}
+}
+
+setInterval("repositiontut()", 250);
+
+</script>
+
+<script type="text/javascript">
+
+/***********************************************
+* Cool DHTML tooltip script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var offsetxpoint=-60 //Customize x offset of tooltip
+var offsetypoint=20 //Customize y offset of tooltip
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+var tipobj=document.getElementById("dhtmltooltip")
+
+function ietruebody(){
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function ddrivetip(thetext, thecolor, thewidth){
+	if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+	if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+	tipobj.innerHTML=thetext
+	enabletip=true
+	return false
+}
+
+function positiontip(e){
+	if (enabletip){
+		var curX=(ns6)?e.pageX : event.x+ietruebody().scrollLeft;
+		var curY=(ns6)?e.pageY : event.y+ietruebody().scrollTop;
+		//Find out how close the mouse is to the corner of the window
+		var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-20
+		var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-20
+
+		var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
+
+		//if the horizontal distance isn't enough to accomodate the width of the context menu
+		if (rightedge<tipobj.offsetWidth)
+			//move the horizontal position of the menu to the left by it's width
+			tipobj.style.left=ie? ietruebody().scrollLeft+event.clientX-tipobj.offsetWidth+"px" : window.pageXOffset+e.clientX-tipobj.offsetWidth+"px"
+		else if (curX<leftedge)
+			tipobj.style.left="5px"
+		else
+			//position the horizontal position of the menu where the mouse is positioned
+			tipobj.style.left=curX+offsetxpoint+"px"
+
+		//same concept with the vertical position
+		if (bottomedge<tipobj.offsetHeight)
+			tipobj.style.top=ie? ietruebody().scrollTop+event.clientY-tipobj.offsetHeight-offsetypoint+"px" : window.pageYOffset+e.clientY-tipobj.offsetHeight-offsetypoint+"px"
+		else
+			tipobj.style.top=curY+offsetypoint+"px"
+		tipobj.style.visibility="visible"
+	}
 }
 
 function kill(){
-yyy=-1000;
-document.getElementById("dek").style.visibility="hidden";
-document.getElementById("dek").style.display="none";
+	enabletip=false;
+	tipobj.style.visibility="hidden";
+	tipobj.style.left="-1000px";
+	tipobj.style.backgroundColor='';
+	tipobj.style.width='';
+	tipobj.className = '';
 }
 
-//-->
+document.onmousemove=positiontip;
+
+
+function popup(thetext, thecolor, thewidth){
+	//tipobj.style.backgroundImage='http://www.outwar.com/images/stone.jpg';
+	tipobj.className = 'itemPop';
+	ddrivetip(thetext, thecolor, thewidth);
+}
+function infopopup(thetext, thecolor, thewidth){
+	//tipobj.className = 'dhtmltooltip';
+	tipobj.className = 'tooltip';
+	thecolor = "#FFFFE7";
+	thewidth = 300;
+	ddrivetip(thetext, thecolor, thewidth);
+}
+function statspopup(thetext, thecolor, thewidth){
+	thetext = "<table style=\"font-size:8pt;\">"+thetext+"</table>";
+	thecolor="#000000";
+	ddrivetip(thetext, thecolor, thewidth);
+}
+
 </script>
+
+
+<center>
 <div name="loadingwrapper" id="loadingwrapper" style="text-align:center;"></div>
 
 <script type="text/javascript">
+	bar1.togglePause();
 	document.getElementById('loadingwrapper').innerHTML = "";
 </script>
 
-<table border="0" cellpadding="0" cellspacing="0" width="1024" style="border-collapse: collapse" bgcolor="#000000" id="AutoNumber1">
+<table border="0" cellpadding="0" cellspacing="0" width="1064" style="border-collapse: collapse" bgcolor="#000000" id="AutoNumber1">
 
   <tbody><tr>
 
     <td>
 
-    <table border="0" cellpadding="0" cellspacing="0" width="1024" style="border-collapse: collapse" bordercolor="#111111" bgcolor="#990000">
+    <table border="0" cellpadding="0" cellspacing="0" width="1064" style="border-collapse: collapse" bordercolor="#111111" bgcolor="#990000">
 	
 		<tbody><tr>
 		
 			<td rowspan="2"><a href="index.php"><img src="images/dcilogo.jpg" border="0"></a></td>
 		
     		<td colspan="2" style="padding-top:1px">
-			<iframe id="5" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=5" framespacing="0" frameborder="no" scrolling="no" width="728" height="90" allowtransparency="true"></iframe>
-			</td>
+<!--
+<SCRIPT type="text/javascript" src="http://cpae01.com/arc/44.js"></SCRIPT>
+<NOSCRIPT><IFRAME src="http://cpae01.com/arf/?rid=44" frameborder=0 marginheight=0 marginwidth=0 scrolling="no" allowTransparency="true" width="728" height="90"></IFRAME></NOSCRIPT>  
+<iframe id='5' name='2' src='http://ads.rampidads.com/rampidads/showad.php?p=2&t=5' framespacing='0' frameborder='no' scrolling='no' width='728' height='90' allowtransparency='true' target="_top"></iframe>
+-->
 
+			</td>
   		</tr>
-		
   		<tr>
-		
     		<td width="468" style="padding:1px">
-			<iframe id="1" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=1" framespacing="0" frameborder="no" scrolling="no" width="468" height="60" allowtransparency="true"></iframe>
+<!--
+<iframe id='1' name='2' src='http://ads.rampidads.com/rampidads/showad.php?p=2&t=1' framespacing='0' frameborder='no' scrolling='no' width='468' height='60' allowtransparency='true' target="_top"></iframe>
+-->
+
 			</td>
 			
     		<td align="center" width="267" style="padding:2px">
 			
-			<a href="advertising.php"><b>Advertise on Outwar</b> (buy ads realtime!)</a><br>
+<!--
+			<font size="3">
+			
+			<a HREF="advertising.php"><b>Advertisers - Click here!</b></a><br>
+-->
 			
 			</td>
 			
@@ -452,9 +609,16 @@ document.getElementById("dek").style.display="none";
 
           <tbody><tr>
 <td valign="middle" align="center">
-
-<iframe id="71" name="94" src="marketbanker_top.php" framespacing="0" frameborder="no" scrolling="no" width="100%" height="20" allowtransparency="true"></iframe>
-
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td nowrap=""><font size="2"><b>
+        <div align="center"><img src="images/spacer.gif" width="19" height="1" border="0"><a href="pplayer.php"><img src="images/remove_ads.gif" border="0"></a></div>
+      
+    </b></font></td>
+    <td width="100%" align="center">    <iframe id="71" name="94" src="pullmb2.php" framespacing="0" frameborder="no" scrolling="no" width="100%" height="20" allowtransparency="true"></iframe>
+  </td>
+  </tr>
+</tbody></table>
 </td>
           </tr>
 
@@ -501,25 +665,24 @@ document.getElementById("dek").style.display="none";
     <td>
     <table border="0" cellpadding="0" cellspacing="0" id="AutoNumber5">
       <tbody><tr>
-        <td align="left" valign="top" width="139">
+        <td align="left" valign="top" width="139" bgcolor="#330000">
         <table border="0" cellpadding="0" cellspacing="0" width="100%" id="AutoNumber8">
           <tbody><tr>
         	<td width="100%" height="100%" bgcolor="#330000" align="center">
-				
-            <img border="0" src="http://www.outwar.com/images/interface_charlogin.gif" width="139" height="26"><br>
+				            <img border="0" src="http://www.outwar.com/images/interface_charlogin.gif" width="139" height="26"><br>
             <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber7" bgcolor="#330000">
-			<form method="POST" action="members.php"></form>
+			<form method="POST" action="http://sigil.outwar.com/members.php"></form>
               <tbody><tr>
                 <td width="100%"><font color="#FFFFFF"><b><font size="1" face="Verdana">
                 EMAIL:</font></b><br>
-                <input type="text" size="17" name="email"></font></td>
+                <input tabindex="1" type="text" size="17" name="email"></font></td>
               </tr>
               <tr>
                 <td width="100%"><font color="#FFFFFF"><b><font face="Verdana" size="1">
                 PASSWORD:</font></b>
                 <font size="1" face="Arial Narrow"><a href="lostpass.php">
                 	Forgot?</a></font><br>
-              	 <input type="password" size="17" name="password"></font><br>
+              	 <input tabindex="2" type="password" size="17" name="password"></font><br>
                 </td>
               </tr>
               <tr>
@@ -528,7 +691,7 @@ document.getElementById("dek").style.display="none";
                 	<input type="checkbox" value="1" name="remember">
                 	Remember My Login
                		<input type="hidden" value="1" name="login_submit">
-					<input style="width:120px;height:" type="submit" value="Login" name="submit">
+					<input tabindex="3" style="width:120px;height:" type="submit" value="Login" name="submit">
 					</div>
                 </td>
               </tr>
@@ -537,23 +700,35 @@ document.getElementById("dek").style.display="none";
                 	By logging in, you agree to our <a href="outwar_tos.php">Terms of Service</a>
                 </font></td>
               </tr>
-              <tr><td>&nbsp;</td></tr>
 			
            </tbody></table>
 
+				<!--
+<a href="newsignup.php">
+<img border="0" src="http://www.outwar.com/images/signup.gif"></a>
+-->
+								<!--
+<SCRIPT type="text/javascript" src="http://cpae01.com/arc/45.js"></SCRIPT>
+<NOSCRIPT><IFRAME src="http://cpae01.com/arf/?rid=45" frameborder=0 marginheight=0 marginwidth=0 scrolling="no" allowTransparency="true" width="120" height="600"></IFRAME></NOSCRIPT>  
+<iframe id='3' name='2' src='http://ads.rampidads.com/rampidads/showad.php?p=2&t=3' framespacing='0' frameborder='no' scrolling='no' width='120' height='600' allowtransparency='true' target="_top"></iframe>
+-->
+  <br><br>
 
-								<table>
-					<tbody><tr>	
-						<td width="100%">
-							<a href="newsignup.php">
-							<img border="0" src="http://www.outwar.com/images/signup.gif"></a>
-						</td>
-					</tr>
-				</tbody></table>
-				<iframe id="3" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=3" framespacing="0" frameborder="no" scrolling="no" width="120" height="600" allowtransparency="true"></iframe>
+<!-- Start of Button Banners -->
+
+<a target="_blank" href="http://click.websitegear.com/track.asp?id=4500">
+<img border="0" src="images/bigfishgames_130x30.gif" width="130" height="30"></a>
+
+<br><br>
+<a target="_blank" href="http://click.websitegear.com/track.asp?id=4844">
+<img border="0" src="images/intech.gif"></a>
+<br><br>
+<a target="_blank" href="http://click.websitegear.com/track.asp?id=4919">
+<img border="0" src="images/metrofightbutton.gif"></a>
 <br>
-<iframe style="margin:1px;border:1px inset #660000;" id="55" name="99" src="marketbanker.php" framespacing="0" frameborder="no" scrolling="no" width="140" height="825" allowtransparency="true"></iframe>
 
+	<br><iframe style="margin:1px;border:1px inset #660000;" id="55" name="99" src="marketbanker.php" framespacing="0" frameborder="no" scrolling="no" width="160" height="825" allowtransparency="true"></iframe>
+  
 			</td>
 		  </tr>
 		</tbody></table>
@@ -563,7 +738,10 @@ document.getElementById("dek").style.display="none";
 	<td align="left" valign="top" width="100%" bordercolor="#202020" bgcolor="#202020">
         <table border="0" cellpadding="0" cellspacing="8" style="border-collapse: collapse" width="100%">
           <tbody><tr>
-            <td width="100%">
+            <td width="100%">          
+            	
+
+
 <p><b>Privacy Statement<br>
 </b>outwar.com has created this privacy statement in order to demonstrate our 
 firm commitment to privacy. The following discloses the information gathering 
@@ -628,26 +806,31 @@ site, or your dealings with this Web site, you can contact:
         </tbody></table>
 
         <p align="center"><font size="1">
-        <a href="index.php">HOME</a> |
+                <a href="index.php">HOME</a> |
         <a href="faq.php">FAQ</a> |
         <a href="news.php">NEWS</a> |
 		<a href="downloads.php">DOWNLOADS</a> |
 		<a href="staff.php">STAFF</a> |
 		<a href="job.php">JOBS</a> |
         <a href="contact.php">CONTACT</a> |
-        <a href="advertising.php"><b><font size="2">ADVERTISE</font></b></a> |
-			   <a href="monitorfaq.php">MONITORS</a> |
+		</font><b><a href="advertising.php"><font size="2">
+        ADVERTISING</font></a></b><font size="1">
+        |
+			   <a href="monitorfaq.php">MONITORS</a>
 			
 					</font></p><p align="center">
         <font size="1"> <a href="privacy.php">Privacy Policy</a>
         | </font><b>
         <font size="2"> <a href="spampolicy.php">Anti-Spam Policy</a></font></b><font size="1">
         | </font><b>
+		<font size="2"> <a href="antifraud.php">Anti-Fraud Policy</a></font></b><font size="1">
+        | </font><b>
         <font size="1"> <a href="outwar_tos.php" target="_blank">Terms of Service</a></font>
         <br>
-srv 139 Page was generated in 0.000776 seconds    
+srv 132 Page was generated in 0.161778 seconds
+<br></b></p><div align="center"><b><a href="?lang=english"><img src="images/lang_usa.gif" border="0" hspace="5"></a><a href="?lang=spanish"><img src="images/lang_spain.gif" border="0" hspace="5"></a><a href="?lang=french"><img src="images/lang_france.gif" border="0" hspace="5"></a><a href="?lang=italian"><img src="images/lang_italy.gif" border="0" hspace="5"></a><a href="?lang=portugese"><img src="images/lang_portugal.gif" border="0" hspace="5"></a><a href="?lang=japanese"><img src="images/lang_japan.gif" border="0" hspace="5"></a><a href="?lang=korean"><img src="images/lang_korean.gif" border="0" hspace="5"></a><a href="?lang=chinese"><img src="images/lang_china.gif" border="0" hspace="5"></a></b></div><b>   
 	
-    
-    
+  
+  
 
- </b></p></td></tr></tbody></table></td></tr></tbody></table></center></body></html>
+ </b></td></tr></tbody></table></td></tr></tbody></table></center></body></html>
