@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the azdot.gov privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213225111id_/http%3A//www.azdot.gov/Index_Docs/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azdot.gov privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216211414id_/http%3A//www.azdot.gov/Index_Docs/privacy_statement.asp) for the most accurate reproduction.*
 
-# Arizona Department of Transportation ~ Privacy Statement
+# Privacy Statement
 
 **Disclaimer**
 
@@ -51,4 +51,5 @@ ADOT and its consultants have taken several steps to safeguard the integrity of 
 ADOT's Web site contains links to various other Web sites. When you link to another site, you are no longer on the ADOT Web site and this Privacy Statement no longer applies. Rather, you are subject to the privacy policy of that new site. Links to Web sites outside of Arizona state government are offered solely for your convenience. ADOT is not responsible for and has no control over the policies or content of any third-party sites.
 
 **Contact Information**  
-If you have any questions or comments about the information presented here, please [**let us know**](mailto:Info@azdot.gov). Any comments collected are subject to the protections of this Privacy Statement.
+If you have any questions or comments about the information presented here, please [**let us know**](mailto:Info@azdot.gov). Any comments collected are subject to the protections of this Privacy Statement.  
+
