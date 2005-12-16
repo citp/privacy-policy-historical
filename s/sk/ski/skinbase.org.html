@@ -1,13 +1,11 @@
-<!--The following is the downloaded HTML source of the skinbase.org privacy policy that was archived on 2004-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041009223414id_/http%3A//www.skinbase.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skinbase.org privacy policy that was archived on 2005-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051216135353id_/http%3A//www.skinbase.org/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-  <title>Skinbase.org / Privacy Policy</title>
-  <meta name="title" content=" Wallpapers, Skins, Application archive for Windows, Linux, Mac">
-<meta name="copyright" content=" (c) SkinTech 2002"> 
+<html><head><meta name="title" content=" Wallpapers, Skins, Application archive for Windows, Linux, Mac">
+<meta name="copyright" content=" (c) SkinTech 2000-2005"> 
 <meta name="author" content="Gregor Klevze ">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
-<link rel="SHORTCUT ICON" href="/SBorg.ico">
+<link rel="SHORTCUT ICON" href="/favicon.ico">
 <meta name="description" content="skinbase.org - Wallpapers and Skinning Portal with support for a many skinnable applications"><meta name="keywords" content="wallpapers, skins, kazaa skins, winamp, icq, desktop themes"><meta name="robots" content="index,follow"><meta name="revisit" content="1 day">
 <style type="text/css">
  BODY 
@@ -78,10 +76,19 @@ function mtrack(e)
 
 function expw(listID) 
 {
- if (listID.style.display=="none") {listID.style.display="";}
- else {listID.style.display="none";}
- window.event.cancelBubble=true;
+   if (document.getElementById(listID).style.display=="none") 
+    {
+    	document.getElementById(listID).style.display="";
+    	document.getElementById(listID).style.visibility="visible";
+    }
+    else 
+    {
+    	document.getElementById(listID).style.display="none";
+    	document.getElementById(listID).style.visibility="hidden";
+    }
+
 }
+
 function contw(listID) 
 {
  if (listID.style.display=="show") {listID.style.display="";}
@@ -119,12 +126,29 @@ function hidemenus(id)
   if(nn4) layer.visibility = "hidden" 
   else layer.style.visibility = "hidden"
 }
+
+function Highlight(objekt,colors)
+{
+ document.getElementById(objekt).style.backgroundColor = colors;
+}
+
+function UnHighlight(objekt,colors)
+{
+ document.getElementById(objekt).style.backgroundColor = colors;
+}
+
+  function Confirm(link,text) 
+  {
+   if (confirm(text))
+      window.location=link
+  }
+
 -->
 </script>
 <style type="text/css">
  BODY 
  { 
-  background:#999999;
+  background:#A7A7A7;
   margin-top:0px;
   margin-bottom:0px; 
   margin-left:0px; 
@@ -137,16 +161,16 @@ function hidemenus(id)
 
  INPUT.text  { border : 1pt solid Black; border-width:1px; color:11B2F6; font-family : Tahoma; font-size : 8pt; width:90pt;}
  TEXTAREA.text { border : 1pt solid Black; background-color : white; font-family : Tahoma; font-size : 8pt; width:90pt;}
- INPUT.text2 { border : 0pt solid Black; background-color : #D1D4E3; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 15pt; padding-left : 0pt; }
+ INPUT.text2 { border : 0pt solid Black; background-color : #b5b5b5; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 15pt; padding-left : 0pt; }
  SELECT.text { width : 80pt; font-family: Verdana; font-size: 8pt; background-color : transparent;  padding-left : 4pt; }       
  INPUT.smbutton {	background-color : transparent; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 8pt;  padding-left : 2pt; width : 80pt; display : inline; color : Purple; border : none; text-align : left;}   
 
-  .submit   {color: #000000; background-color : #7FA0CB; font-family : Tahoma; font-size : 10pt;}
-  .input    {background-color:#7FA0CB; font-family : Tahoma; font-size : 8pt;}
+  .submit   {color: #000000; background-color : #b5b5b5; font-family : Tahoma; font-size : 10pt;}
+  .input    {background-color:#b5b5b5; font-family : Tahoma; font-size : 8pt;}
   .radio    {color:#899BBD; font-family : Tahoma; font-size : 8pt;}
-  .checked  { background-color : #7FA0CB; font-family : Tahoma; font-size : 8pt;}
-  .input    { background-color : #7FA0CB; font-family : Tahoma; font-size : 8pt;}
-  .textarea { background-color : #7FA0CB; font-family : Tahoma; font-size : 8pt;}
+  .checked  { background-color : #b5b5b5; font-family : Tahoma; font-size : 8pt;}
+  .input    { background-color : #b5b5b5; font-family : Tahoma; font-size : 8pt;}
+  .textarea { background-color : #b5b5b5; font-family : Tahoma; font-size : 8pt;}
 
  a { text-decoration: none }
  A:hover {text-decoration:underline;}
@@ -170,9 +194,9 @@ function hidemenus(id)
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" class="MojText">
  <tbody><tr>
-  <td style="width:200px; height:36px; background: url('./skins/abra3/gfx/t1.jpg')"><h1 class="MojText" style="margin:0px;">&nbsp;<a title="Wallpapers, Skins, Winamp, ICQ" href="index.php">Wallpapers, Skins, Winamp, ICQ</a></h1></td>
-  <td width="38"><img src="/skins/abra3/gfx/t2.jpg" alt=""><br></td>
-  <td align="center" style="height:36px; background: url('./skins/abra3/gfx/t3.jpg')">
+  <td style="width:200px; height:36px; background: url('/skins/xmas2005/gfx/t1.jpg')"><h1 class="MojText" style="margin:0px;">&nbsp;<a title="Wallpapers, Skins, Winamp, ICQ" href="index.php">Wallpapers, Skins, Winamp, ICQ</a></h1></td>
+  <td width="38"><img src="/skins/xmas2005/gfx/t2.jpg" alt=""><br></td>
+  <td align="center" style="height:36px; background: url('/skins/xmas2005/gfx/t3.jpg')">
    <a href="/">Index</a><small> | </small>
    <a href="support.php" target="_new">Support</a><small> | </small>
    <a href="newsarc.php">News archive</a><small> | </small>
@@ -181,41 +205,41 @@ function hidemenus(id)
    <a href="applinks.php">Applications</a> <small>| </small>
    <a href="msgboard.php">Messageboard</a>  </td>
   
-  <td width="38"><img src="/skins/abra3/gfx/t4.jpg" alt=""><br></td>
-  <td style="height:36px; background: url('./skins/abra3/gfx/t5.jpg')"><a href="/signup.php">Anonymous</a>&nbsp;&nbsp;</td>
+  <td width="38"><img src="/skins/xmas2005/gfx/t4a.jpg" alt=""><br></td>
+  <td style="height:36px; background: url('/skins/xmas2005/gfx/t5.jpg')"><a href="/signup.php">Anonymous</a>&nbsp;&nbsp;</td>
  </tr>
 </tbody></table>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="MojText">
  <tbody><tr>
-  <td height="90" align="top" style="width:270px; height:90px; background: url('./skins/abra3/gfx/banner_back.jpg')"><a href="http://www.skinbase.org"><img src="/skins/abra3/gfx/sb_logo2.gif" border="0" alt="Skins And Wallpapers"></a></td>
-  <td height="90" style="height:90px; background: url('./skins/abra3/gfx/banner_back.jpg')" align="center">
-   <!-- BEGIN: AdSolution-Tag 4.0: Global-Code [PLACE IN HTML-HEAD-AREA!] -->
-<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/dlv/aslmain.js"></script>
-<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/dlv/aslsubs111.js"></script>
-<!-- END: AdSolution-Tag 4.0: Global-Code -->
-
-<!-- BEGIN: AdSolution-Tag 4.0: AdSpot-Code [PLACE AT BANNER-POSITION!]: Skinbase.org / Skinbase.org_468X60_Top -->
-<script type="text/javascript" language="javascript"><!--
-Ads_kid=0;Ads_bid=0;Ads_xl=468;Ads_yl=60;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='';Ads_prf='';Ads_par='';Ads_cnturl='';Ads_sec=0;
-// --></script>
-<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/00/89/36.js"></script>
-<!-- END: AdSolution-Tag 4.0: AdSpot-Code -->
-
-    </td>
+  <td height="90" align="top" valign="top" style="width:270px; height:90px; background: url('/skins/xmas2005/gfx/banner_back.jpg')"><a href="http://www.skinbase.org"><img src="/skins/xmas2005/gfx/sb_logo2.gif" border="0" alt="Skins And Wallpapers"></a></td>
+  <td height="90" valign="bottom" align="right" style="height:90px; background: url('/skins/xmas2005/gfx/banner_back.jpg')">
+   <!-- TF 468x60 JScript code -->
+<center><script language="javascript"><!--
+document.write('<scr'+'ipt language=javascript src="http://a.tribalfusion.com/j.ad?site=TheWallpapers&adSpace=ROS&size=468x60&requestID='+((new Date()).getTime() % 2147483648) + Math.random()+'"></scr'+'ipt>');
+//-->
+</script><script language="javascript" src="http://a.tribalfusion.com/j.ad?site=TheWallpapers&amp;adSpace=ROS&amp;size=468x60&amp;requestID=16028512200.044725947035527014"></script>
+<noscript>
+   <a href="http://a.tribalfusion.com/i.click?site=TheWallpapers&adSpace=ROS&size=468x60&requestID=1085684651" target=_blank>
+   <img src="http://a.tribalfusion.com/i.ad?site=TheWallpapers&adSpace=ROS&size=468x60&requestID=1085684651" 
+                  width=468 height=60 border=0 alt="Click Here"></a>
+</noscript>
+</center>
+<!-- TF 468x60 JScript code -->
+  </td>
+  <td height="90" valign="bottom" width="130" style="height:90px; background: url('/skins/xmas2005/gfx/banner_back.jpg')" align="right">
+   <img src="/gfx/triera2.gif" border="0" alt="Triera - powered service">&nbsp;  </td>
  </tr>
 </tbody></table>
 <br>
 
-
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
  <tbody><tr> 
-  <td valign="top"> 
-   <br>
+  <td valign="top" width="140"> 
    <table align="center" width="140" border="0" cellpadding="0" cellspacing="0" class="MojText">
-    <tbody><tr><td style="width:140px; height:37px; background: url('./skins/abra3/gfx/l1.jpg')"></td></tr>
-    <tr><td height="30" style="width:143px; height:39px; padding-left:35px; background: url('./skins/abra3/gfx/l_sep2.jpg')">Skins</td></tr>
-    <tr><td style="padding-left:8px; background: url('./skins/abra3/gfx/l_back.jpg')" "="">  <form action="search.php" method="post">
+    <tbody><tr><td style="width:140px; height:37px; background: url('/skins/xmas2005/gfx/l1.jpg')"></td></tr>
+    <tr><td height="38" valign="top" style="width:140px; height:24px; padding-top:5px; padding-left:35px; background: url('/skins/xmas2005/gfx/l_sep1.jpg')"><span style="color:#333333;">Skins</span></td></tr>
+    <tr><td style="padding-left:8px; background: url('/skins/xmas2005/gfx/l_back.jpg')" "="">  <form action="search.php" method="post">
    Search for<br>
    <input type="text" name="querys" size="10" class="input" value=""> in<br>
    <select name="group" class="input">
@@ -229,125 +253,117 @@ Ads_kid=0;Ads_bid=0;Ads_xl=468;Ads_yl=60;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='
    <input type="hidden" name="action" value="search">
   </form>
  </td></tr>
-    <tr><td height="38" style="width:140px; height:38px; padding-left:35px; background: url('./skins/abra3/gfx/l_sep1.jpg')">Navigation</td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('./skins/abra3/gfx/l_back.jpg')"><b>Gallery</b><br> &nbsp;<a href="/latest_skins.php" title="Latest Skins" style="color:black">Latest Skins</a><br>
+    <tr><td height="38" valign="top" style="width:140px; height:24px; padding-top:5px; padding-left:35px; background: url('/skins/xmas2005/gfx/l_sep1.jpg')"><span style="color:#333333;">Navigation</span></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('/skins/xmas2005/gfx/l_back.jpg')"><b>Gallery</b><br> &nbsp;<a href="/latest_skins.php" title="Latest Skins" style="color:black">Latest Skins</a><br>
  &nbsp;<a href="/latest_wallpapers.php" title="Latest Wallpapers" style="color:black">Latest Wallpapers</a><br>
+ &nbsp;<a href="/latest_photos.php" title="Latest Photos" style="color:black">Latest Photos</a><br>
  &nbsp;<a href="/latest.php" title="Latest Uploads" style="color:black">Latest Uploads</a><br>
  &nbsp;<a href="/recent.php" title="Recent Skins" style="color:black">Recent Uploads</a><br>
  &nbsp;<a href="/allul.php" title="All Skins And Wallpapers Uploaded" style="color:black">All Uploads</a><br>
- <br><b>Statistics</b><br> &nbsp;<a href="/rating.php" style="color:black">Activity Ratings</a><br>
- &nbsp;<a href="/userstats.php" style="color:black">Users Statistics</a><br>
+ <br><b>Statistics</b><br> &nbsp;<a href="/userstats.php" style="color:black">Top Authors</a><br>
+ &nbsp;<a href="/rating.php" style="color:black">Activity Ratings</a><br>
  &nbsp;<a href="/monthly.php" title="Monthly Skins" style="color:black">Monthly Statistics</a><br>
+ &nbsp;<a href="/monthly_comments.php" title="Monthly Top Comments" style="color:black">Monthly Top Commented</a><br>
  &nbsp;<a href="/today_dl.php" title="Today Most Downloaded Skins" style="color:black">Todays Downloads</a><br>
  &nbsp;<a href="/mskins.php" title="Monthly Skins" style="color:black">Featured Skins</a><br>
  &nbsp;<!--a href="/topul.php"  title="Top Skins" style="color:black">TOP 10 Skins</a><br /-->
  <br><b>Features</b><br> <!--&nbsp;<a href="/ms_poll.php"  title="Vote For Monthly Skins" style="color:black">Vote For Monthly Skin</a><br />-->
  &nbsp;<a href="/browsedes.php" style="color:black">Choose Design</a><br>
  &nbsp;<a href="/browse.php" title="Browse Skins" style="color:black">Browse Groups</a><br>
- </td></tr> <tr><td height="38" style="width:140px; height:38px; padding-left:35px; background: url('./skins/abra3/gfx/l_sep1.jpg')"><b>Advertisers</b></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('./skins/abra3/gfx/l_back.jpg')"><p align="center">
-<!-- BEGIN: AdSolution-Tag 4.0: Global-Code [PLACE IN HTML-HEAD-AREA!] -->
-<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/dlv/aslmain.js"></script>
-<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/dlv/aslsubs111.js"></script>
-<!-- END: AdSolution-Tag 4.0: Global-Code -->
-
-<!-- BEGIN: AdSolution-Tag 4.0: AdSpot-Code [PLACE AT BANNER-POSITION!]: Skinbase.org / Skinbase.org_120X600_Tower -->
-<script type="text/javascript" language="javascript"><!--
-Ads_kid=0;Ads_bid=0;Ads_xl=120;Ads_yl=600;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='';Ads_prf='';Ads_par='';Ads_cnturl='';Ads_sec=0;
-// --></script>
-<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/00/89/38.js"></script>
-<!-- END: AdSolution-Tag 4.0: AdSpot-Code -->
-</p></td></tr> <tr><td height="38" style="width:140px; height:38px; padding-left:35px; background: url('./skins/abra3/gfx/l_sep1.jpg')">Sections</td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('./skins/abra3/gfx/l_back.jpg')"><b>Top Categories</b><br><table width="100%" cellspacing="0" cellpadding="0" class="MojText"><tbody><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="Wallpapers" size="1">7101</font>] <a href="wallpapers.php" title="Wallpapers" style="color:;">Wallpapers</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="Screenshots" size="1"> 631</font>] <a href="section.php?sections=shots" title="Screenshots Skins" style="color:;">Screenshots</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="Winamp Skins" size="1"> 575</font>] <a href="winamp.php" title="Winamp Skins" style="color:;">Winamp Skins</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="WindowBlinds" size="1"> 552</font>] <a href="section.php?sections=windowblinds" title="WindowBlinds Skins" style="color:;">WindowBlinds</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="Photography" size="1"> 514</font>] <a href="section.php?sections=photo" title="Photography Skins" style="color:;">Photography</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="SysMetrix" size="1"> 504</font>] <a href="section.php?sections=sysmetrix" title="SysMetrix Skins" style="color:;">SysMetrix</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="ObjectDock" size="1"> 490</font>] <a href="section.php?sections=OD" title="ObjectDock Skins" style="color:;">ObjectDock</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="Icons" size="1"> 373</font>] <a href="section.php?sections=icon" title="Icons Skins" style="color:;">Icons</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="Skinbase Art" size="1"> 360</font>] <a href="section.php?sections=sbart" title="Skinbase Art Skins" style="color:;">Skinbase Art</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="Logon Studio" size="1"> 314</font>] <a href="section.php?sections=logonstudio" title="Logon Studio Skins" style="color:;">Logon Studio</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="Rainlendar" size="1"> 275</font>] <a href="section.php?sections=rainlendar" title="Rainlendar Skins" style="color:;">Rainlendar</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="CursorXP" size="1"> 179</font>] <a href="section.php?sections=cursorxp" title="CursorXP Skins" style="color:;">CursorXP</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="BeatNik" size="1"> 172</font>] <a href="section.php?sections=beatnik" title="BeatNik Skins" style="color:;">BeatNik</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="DesktopX  Objects" size="1"> 160</font>] <a href="section.php?sections=desktopxobjs" title="DesktopX  Objects Skins" style="color:;">DesktopX  Objects</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="RadLight" size="1"> 151</font>] <a href="section.php?sections=radlight" title="RadLight Skins" style="color:;">RadLight</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="Winstep Full Pak" size="1"> 150</font>] <a href="section.php?sections=winstep" title="Winstep Full Pak Skins" style="color:;">Winstep Full Pak</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="WinStyles" size="1"> 149</font>] <a href="section.php?sections=winstyles" title="WinStyles Skins" style="color:;">WinStyles</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="Aston" size="1"> 148</font>] <a href="section.php?sections=aston" title="Aston Skins" style="color:;">Aston</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="CoolPlayer" size="1"> 137</font>] <a href="section.php?sections=coolplayer" title="CoolPlayer Skins" style="color:;">CoolPlayer</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="ICQ" size="1"> 126</font>] <a href="section.php?sections=icq" title="ICQ Skins" style="color:;">ICQ</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="Quick Notes" size="1"> 117</font>] <a href="section.php?sections=quicknotes" title="Quick Notes Skins" style="color:;">Quick Notes</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="Rainmeter" size="1"> 115</font>] <a href="section.php?sections=rainmeter" title="Rainmeter Skins" style="color:;">Rainmeter</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="SkinMem" size="1"> 108</font>] <a href="section.php?sections=skinmem" title="SkinMem Skins" style="color:;">SkinMem</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="BootSkin" size="1"> 107</font>] <a href="section.php?sections=BootSkin" title="BootSkin Skins" style="color:;">BootSkin</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="EzPop" size="1">  86</font>] <a href="section.php?sections=ezpop" title="EzPop Skins" style="color:;">EzPop</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="DesktopX Themes" size="1">  85</font>] <a href="section.php?sections=desktopx" title="DesktopX Themes Skins" style="color:;">DesktopX Themes</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="ColorPad" size="1">  83</font>] <a href="section.php?sections=colorpad" title="ColorPad Skins" style="color:;">ColorPad</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="HoverDesk" size="1">  79</font>] <a href="section.php?sections=hoverdesk" title="HoverDesk Skins" style="color:;">HoverDesk</a><br></td></tr><tr><td bgcolor="#83A5D2">[<font face="Tahoma" title="ShellWM" size="1">  78</font>] <a href="section.php?sections=ShellWM" title="ShellWM Skins" style="color:;">ShellWM</a><br></td></tr><tr><td bgcolor="#6F97CB">[<font face="Tahoma" title="SysMeter" size="1">  77</font>] <a href="section.php?sections=sysmeter" title="SysMeter Skins" style="color:;">SysMeter</a><br></td></tr></tbody></table><a href="browse.php" style="color:black"></a><span style=" font-family:tahoma; font-size:9px; width:99%; text-align:justify;">We have 16497 skins and wallpapers online in 444 categories.</span><br><br><b><a href="/browse.php">Browse Groups</a></b><br><script type="text/javascript">menu.Display();</script><br><a href="/wallpapers.php" title="Wallpapers"><b>Wallpapers</b></a><table width="100%" cellspacing="0" cellpadding="0" class="MojText"><tbody><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=1" title="3D Wallpapers" style="color:;">3D Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=2" title="Abstract Wallpapers" style="color:;">Abstract Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=3" title="Anime Wallpapers" style="color:;">Anime Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=4" title="Cartoon Wallpapers" style="color:;">Cartoon Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=5" title="Landscape Wallpapers" style="color:;">Landscape Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=6" title="Other Wallpapers" style="color:;">Other Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=7" title="Photo Wallpapers" style="color:;">Photo Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=8" title="Sci-Fi Wallpapers" style="color:;">Sci-Fi Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=9" title="Tiles Wallpapers" style="color:;">Tiles Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=10" title="Scans Wallpapers" style="color:;">Scans Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=11" title="Skinbase Wallpapers" style="color:;">Skinbase Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=12" title="People Wallpapers" style="color:;">People Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=36" title="Cars Wallpapers" style="color:;">Cars Wallpapers</a><br></td></tr></tbody></table><br><b><a href="/kde.php">KDE Themes</a></b><br><br><b><a href="/kazaa.php">KAZAA</a></b></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('./skins/abra3/gfx/l_back.jpg')">&nbsp;<a href="/kazaa_winners.php" title="Kazaa Skins" style="color:black">Winners</a><br>&nbsp;<a href="/kazaa_install.php" style="color:black">Install Skins</a><br>&nbsp;<a href="/section.php?sections=kazaa" title="Kazaa Skins" style="color:black">Browse Skins</a><br>&nbsp;<a href="/kazaa_top.php" title="Kazaa Skins" style="color:black">TOP Kazaa Skins</a><br>&nbsp;<a href="/kazaa_rules.php" title="Kazaa Skins" style="color:black">Rules</a><br></td></tr>     <tr><td style="width:140px; height:39px; background: url('./skins/abra3/gfx/l_bot.jpg')"></td></tr>
+ </td></tr> <tr><td height="38" valign="top" style="width:140px; height:24px; padding-top:5px; padding-left:35px; background: url('/skins/xmas2005/gfx/l_sep1.jpg')"><span style="color:#333333;"><b>Advertisers</b></span></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('/skins/xmas2005/gfx/l_back.jpg')"><p align="center"><!-- Casale Media 2005 (C) -->
+<!-- Ad Format: Skyscraper -->
+<!-- Domain(s): skinbase.org -->
+<script language="Javascript"><!--
+var d=new Date();var r=(d.getTime()%8673806982)+Math.random();var uu=escape(window.location.href);
+var wh='" width="120" height="600" ';var host='.casalemedia.com/';var dc=document;
+var fr='marginwidth="0" hspace="0" vspace="0" frameborder="0" scrolling="no">';
+dc.write('<ifr'+'ame src="http://as'+host+'s?s=66323&u='+uu+'&f=3&id='+r+wh+fr);
+dc.write('<a hr'+'ef="http://c'+host+'c?s=66323&f=3&id='+r+'" target="_blank">');
+dc.write('<i'+'mg src="http://as'+host+'s?s=66323&u='+uu+'&f=3&id='+r+'&if=0'+wh+'border="0"></a></ifr'+'ame>');
+//--></script><iframe src="http://as.casalemedia.com/s?s=66323&amp;u=https%3A//web.archive.org/web/20051216135353id_/http%253A//www.skinbase.org/privacy.php&amp;f=3&amp;id=3517945428.1487684" width="120" height="600" marginwidth="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://c.casalemedia.com/c?s=66323&f=3&id=3517945428.1487684" target="_blank"><img src="http://as.casalemedia.com/s?s=66323&u=https%3A//web.archive.org/web/20051216135353id_/http%253A//www.skinbase.org/privacy.php&f=3&id=3517945428.1487684&if=0" width="120" height="600" border="0"></a></iframe><noscript><iframe src="http://as.casalemedia.com/s?s=66323&u=http%3A%2F%2Fskinbase.org&f=3&id=1"
+width="120" height="600" marginwidth="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a
+href="http://c.casalemedia.com/c?s=66323&f=3&id=0" target="_blank"><img
+src="http://as.casalemedia.com/s?s=66323&u=http%3A%2F%2Fskinbase.org&f=3&id=0&if=0" width="120"
+height="600" border="0"></a></iframe></noscript>
+<!-- Casale Media 2005 (C) -->
+</p></td></tr> <tr><td height="38" valign="top" style="width:140px; height:24px; padding-top:5px; padding-left:35px; background: url('/skins/xmas2005/gfx/l_sep1.jpg')"><span style="color:#333333;">Sections</span></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('/skins/xmas2005/gfx/l_back.jpg')"><b>Top Categories</b><br><table width="100%" cellspacing="0" cellpadding="0" class="MojText"><tbody><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="Wallpapers" size="1">9996</font>] <a href="wallpapers.php" title="Wallpapers" style="color:;">Wallpapers</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="Photography" size="1">1182</font>] <a href="section.php?sections=photo" title="Photography Skins" style="color:;">Photography</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="Screenshots" size="1"> 870</font>] <a href="section.php?sections=shots" title="Screenshots Skins" style="color:;">Screenshots</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="WindowBlinds" size="1"> 711</font>] <a href="section.php?sections=windowblinds" title="WindowBlinds Skins" style="color:;">WindowBlinds</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="Winamp Skins" size="1"> 614</font>] <a href="winamp.php" title="Winamp Skins" style="color:;">Winamp Skins</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="SysMetrix" size="1"> 573</font>] <a href="section.php?sections=sysmetrix" title="SysMetrix Skins" style="color:;">SysMetrix</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="ObjectDock" size="1"> 548</font>] <a href="section.php?sections=OD" title="ObjectDock Skins" style="color:;">ObjectDock</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="Art" size="1"> 448</font>] <a href="section.php?sections=sbart" title="Art Skins" style="color:;">Art</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="Icons" size="1"> 434</font>] <a href="section.php?sections=icon" title="Icons Skins" style="color:;">Icons</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="Logon Studio" size="1"> 430</font>] <a href="section.php?sections=logonstudio" title="Logon Studio Skins" style="color:;">Logon Studio</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="Rainlendar" size="1"> 337</font>] <a href="section.php?sections=rainlendar" title="Rainlendar Skins" style="color:;">Rainlendar</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="BootSkin" size="1"> 249</font>] <a href="section.php?sections=BootSkin" title="BootSkin Skins" style="color:;">BootSkin</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="CursorXP" size="1"> 226</font>] <a href="section.php?sections=cursorxp" title="CursorXP Skins" style="color:;">CursorXP</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="BeatNik" size="1"> 199</font>] <a href="section.php?sections=beatnik" title="BeatNik Skins" style="color:;">BeatNik</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="Aston" size="1"> 197</font>] <a href="section.php?sections=aston" title="Aston Skins" style="color:;">Aston</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="Rainmeter" size="1"> 178</font>] <a href="section.php?sections=rainmeter" title="Rainmeter Skins" style="color:;">Rainmeter</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="WinStyles" size="1"> 166</font>] <a href="section.php?sections=winstyles" title="WinStyles Skins" style="color:;">WinStyles</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="DesktopX  Objects" size="1"> 162</font>] <a href="section.php?sections=desktopxobjs" title="DesktopX  Objects Skins" style="color:;">DesktopX  Objects</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="RadLight" size="1"> 151</font>] <a href="section.php?sections=radlight" title="RadLight Skins" style="color:;">RadLight</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="Winstep Full Pak" size="1"> 151</font>] <a href="section.php?sections=winstep" title="Winstep Full Pak Skins" style="color:;">Winstep Full Pak</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="CoolPlayer" size="1"> 145</font>] <a href="section.php?sections=coolplayer" title="CoolPlayer Skins" style="color:;">CoolPlayer</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="Quick Notes" size="1"> 137</font>] <a href="section.php?sections=quicknotes" title="Quick Notes Skins" style="color:;">Quick Notes</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="ICQ" size="1"> 126</font>] <a href="section.php?sections=icq" title="ICQ Skins" style="color:;">ICQ</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="SkinMem" size="1"> 112</font>] <a href="section.php?sections=skinmem" title="SkinMem Skins" style="color:;">SkinMem</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="EzPop" size="1"> 103</font>] <a href="section.php?sections=ezpop" title="EzPop Skins" style="color:;">EzPop</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="DesktopX Themes" size="1">  95</font>] <a href="section.php?sections=desktopx" title="DesktopX Themes Skins" style="color:;">DesktopX Themes</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="IconPackager" size="1">  89</font>] <a href="section.php?sections=iconpackager" title="IconPackager Skins" style="color:;">IconPackager</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="msstyles" size="1">  85</font>] <a href="section.php?sections=msstyles" title="msstyles Skins" style="color:;">msstyles</a><br></td></tr><tr><td bgcolor="#ffffff">[<font face="Tahoma" title="ColorPad" size="1">  84</font>] <a href="section.php?sections=colorpad" title="ColorPad Skins" style="color:;">ColorPad</a><br></td></tr><tr><td bgcolor="#eeeeee">[<font face="Tahoma" title="ShellWM" size="1">  81</font>] <a href="section.php?sections=ShellWM" title="ShellWM Skins" style="color:;">ShellWM</a><br></td></tr></tbody></table><a href="browse.php" style="color:black"></a><span style=" font-family:tahoma; font-size:9px; width:99%; text-align:justify;">We have 21763 skins and wallpapers online in 463 categories.</span><br><br><b><a href="/browse.php">Browse Groups</a></b><br><script type="text/javascript">menu.Display();</script><br><a href="/wallpapers.php" title="Wallpapers"><b>Wallpapers</b></a><table width="100%" cellspacing="0" cellpadding="0" class="MojText"><tbody><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=1" title="3D Wallpapers" style="color:;">3D Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=2" title="Abstract Wallpapers" style="color:;">Abstract Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=3" title="Anime Wallpapers" style="color:;">Anime Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=4" title="Cartoon Wallpapers" style="color:;">Cartoon Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=5" title="Landscape Wallpapers" style="color:;">Landscape Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=6" title="Other Wallpapers" style="color:;">Other Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=7" title="Photo Wallpapers" style="color:;">Photo Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=8" title="Sci-Fi Wallpapers" style="color:;">Sci-Fi Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=9" title="Tiles Wallpapers" style="color:;">Tiles Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=10" title="Scans Wallpapers" style="color:;">Scans Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=11" title="Skinbase Wallpapers" style="color:;">Skinbase Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=12" title="People Wallpapers" style="color:;">People Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=36" title="Cars Wallpapers" style="color:;">Cars Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=47" title="Flowers Wallpapers" style="color:;">Flowers Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=48" title="Dark Wallpapers" style="color:;">Dark Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=49" title="Fantasy Wallpapers" style="color:;">Fantasy Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=50" title="Freehand Wallpapers" style="color:;">Freehand Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=51" title="Mac / Apple Wallpapers" style="color:;">Mac / Apple Wallpapers</a><br></td></tr><tr><td>&nbsp;</td><td><a href="wallpapers.php?subcat=52" title="Technical Wallpapers" style="color:;">Technical Wallpapers</a><br></td></tr></tbody></table><br><b><a href="/kde.php">KDE Themes</a></b><br><br><b><a href="/kazaa.php">KAZAA</a></b></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('/skins/xmas2005/gfx/l_back.jpg')">&nbsp;<a href="/kazaa_winners.php" title="Kazaa Skins" style="color:black">Winners</a><br>&nbsp;<a href="/kazaa_install.php" style="color:black">Install Skins</a><br>&nbsp;<a href="/section.php?sections=kazaa" title="Kazaa Skins" style="color:black">Browse Skins</a><br>&nbsp;<a href="/kazaa_top.php" title="Kazaa Skins" style="color:black">TOP Kazaa Skins</a><br>&nbsp;<a href="/kazaa_rules.php" title="Kazaa Skins" style="color:black">Rules</a><br></td></tr> <tr><td height="38" valign="top" style="width:140px; height:24px; padding-top:5px; padding-left:35px; background: url('/skins/xmas2005/gfx/l_sep1.jpg')"><span style="color:#333333;">News</span></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('/skins/xmas2005/gfx/l_back.jpg')"><a href="/groups/151/Apple" title="Apple">Apple</a><br>
+<a href="/groups/24/Arts &amp; Stage" title="Arts &amp; Stage">Arts &amp; Stage</a><br>
+<a href="/groups/4/Business" title="Business">Business</a><br>
+<a href="/groups/154/Computers" title="Computers">Computers</a><br>
+<a href="/groups/17/Enterprise" title="Enterprise">Enterprise</a><br>
+<a href="/groups/8/Entertainment" title="Entertainment">Entertainment</a><br>
+<a href="/groups/23/Fashion" title="Fashion">Fashion</a><br>
+<a href="/groups/153/Games" title="Games">Games</a><br>
+<a href="/groups/10/Health" title="Health">Health</a><br>
+<a href="/groups/25/Industry" title="Industry">Industry</a><br>
+<a href="/groups/13/Internet" title="Internet">Internet</a><br>
+<a href="/groups/152/Linux" title="Linux">Linux</a><br>
+<a href="/groups/155/Others" title="Others">Others</a><br>
+<a href="/groups/12/Science" title="Science">Science</a><br>
+<a href="/groups/7/Sports" title="Sports">Sports</a><br>
+<a href="/groups/5/Technology" title="Technology">Technology</a><br>
+<a href="/groups/2/World News" title="World News">World News</a><br>
+</td></tr>     <tr><td style="width:140px; height:39px; background: url('/skins/xmas2005/gfx/l_bot.jpg')"></td></tr>
    </tbody></table>
   </td>
-  <td valign="top"><br>
-
-<table width="96%" align="center" cellspacing="0" cellpadding="0" border="0" class="MojText">
- <tbody><tr>
-  <td width="100%" valign="top">
-   <table width="100%" height="31" valign="top" cellspacing="0" cellpadding="0" border="0" class="MojText">
-    <tbody><tr height="31" valign="top">
-     <td width="49" height="31"><img src="/skins/abra3/gfx/m1.jpg"><br></td>
-     <td width="100%" height="31" background="/skins/abra3/gfx/m2.jpg"></td>
-     <td width="49" height="31"> <img src="/skins/abra3/gfx/m3.jpg"><br></td>
-    </tr>
-   </tbody></table>
-  </td>
- </tr>
-</tbody></table>
-
-<table width="96%" align="center" cellspacing="0" cellpadding="0" border="0" class="MojText">
- <tbody><tr>
-  <td width="10" background="/skins/abra3/gfx/m11.jpg"></td>
-  <td bgcolor="#7FA0CB"> 
- <table width="99%" border="0" cellspacing="2" cellpadding="2" align="center">
- <tbody><tr> 
-  <td bgcolor="#7797C0">
-   <font size="3" face="arial"><b>Privacy Policy</b></font> 
-  </td>
- </tr>
-</tbody></table>
-<table width="99%" border="0" cellspacing="0" cellpadding="0" align="center" class="MojText">
+  <td valign="top"><table width="99%" border="0" cellspacing="0" cellpadding="0" align="center" class="MojText">
  <tbody><tr> 
   <td>
 <br>
 
-<b><big>SkinBase Submissions Policy</big></b><br>
-SkinBase reserves the right to prohibit any submission that it deems offensive. Some of the items that can be seen as offensive include any pornographic, racial or hate-based works. By submitting your work to SkinBase, you also agree that you are the legal copyright holder to all said submitted works (or parts-thereof) or that you have permission from the original work's artist. If a submitted piece of artwork is found to not be that of the submitting artist, he/she shall be responsible for any legal action that may arise due to copyright infringement.
-We do not claim ownership of the artwork submitted to SkinBase as all artwork submitted is the copyrighted work of its original artist.
-The files submitted by the users of SkinBase are not checked for viruses and it is recommended that all users check their downloaded files with a virus checker. SkinBase takes no responsibility for anything contained in a downloaded file as the contents of each file are not checked by the SkinBase website or it's admins.<br>
+<b><big>SkinTech User Policy</big></b><br>
+As SkinTech is a general-age website, we ask that all registered users behave in an appropriate manner at all times. As stated in the above Submissions Policy, we do not allow the use of offensive material. Do not post material that is pornographic, racial or hate-based. SkinTech reserves the right to cancel a member's account along with all files submitted by that member at any given time without warning. SkinTech also allows its users to remove their submitted artwork at any given time.
+If a submitted piece of work is found to be not that of it's submitting artist (aka - a rip), then action will be taken to have that piece removed. Repeat offenders will have their accounts cancelled. If you'd like to notify SkinTech of such a submission, please feel free to contact a site admin.<br>
 <br>
-<b><big>SkinBase User Policy</big></b><br>
-As SkinBase is a general-age website, we ask that all registered users behave in an appropriate manner at all times. As stated in the above Submissions Policy, we do not allow the use of offensive material. Do not post material that is pornographic, racial or hate-based. SkinBase reserves the right to cancel a member's account along with all files submitted by that member at any given time without warning. SkinBase also allows its users to remove their submitted artwork at any given time.
-If a submitted piece of work is found to be not that of it's submitting artist (aka - a rip), then action will be taken to have that piece removed. Repeat offenders will have their accounts cancelled. If you'd like to notify SkinBase of such a submission, please feel free to contact a site admin.<br>
-<br>
-<b><big>SkinBase Privacy Policy</big></b><br>
-Information is collected at several points from users of the SkinBase site. SkinBase is the sole owner of this information and will not sell or disclose it to any third party. Information is gathered in the following situations:<br>
-<br>
-<b><big>Membership Signup</big></b><br>
-To fully use the SkinBase website, a user must first apply for membership. Information requested at the time of registration (for example - name and email address) is used to create the user's statistics page (member details page).  The details provided are accessible by other members visiting the SkinBase website, except email address which <b>WILL NOT</b> appear anywhere at Skinbase.org. These details are also used to contact the user (via form) about items specific to the SkinBase website.  A member will only receive these emails if the user has chosen to receive emails from SkinBase by applying to join the SkinBase mailing list.  Members may opt to remove themselves from the mailing list at any given time.  It should be noted that by making your details public in this way, that you do allow yourself to receive unsolicited email/s from other parties.<br>
+<b><big>SkinTech Privacy Policy</big></b><br>
+Information is collected at several points from users of the SkinTech site. SkinTech is the sole owner of this information and will not sell or disclose it to any third party. Information is gathered in the following situations:<br>
 <br>
 <b><big>Cookies</big></b><br>
-SkinBase uses cookies to help make each user's visit easier and more interactive.  By storing a cookie, the user does not have to log in to the site each time he/she visits the site and the user also gets to use features such as the messageboard and online chat.  Cookies are in no way linked to the personal information disclosed at signup.<br>
+SkinTech uses cookies to help make each user's visit easier and more interactive.  By storing a cookie, the user does not have to log in to the site each time he/she visits the site and the user also gets to use features such as the messageboard and online chat.  Cookies are in no way linked to the personal information disclosed at signup.<br>
 <br>
 <b><big>Outside Advertising</big></b><br>
-SkinBase uses outside advertising on its website. These advertising companies may also place cookies on your hard drive to collect information (not including name, email address and phone number) in regards to your visit to this and other sites in order to try and bring you advertising in relation to your interests.<br>
+SkinTech uses outside advertising on its website. These advertising companies may also place cookies on your hard drive to collect information (not including name, email address and phone number) in regards to your visit to this and other sites in order to try and bring you advertising in relation to your interests.<br>
 <br>
 <b><big>IP Logging</big></b><br>
-SkinBase also logs IP addresses to help administer the website and track user's actions on the website. These details do not contain any personally identifiable information.<br>
+SkinTech also logs IP addresses to help administer the website and track user's actions on the website. These details do not contain any personally identifiable information.<br>
 <br>
 <b><big>Sharing of Information</big></b><br>
-SkinBase will only share information with third parties if required to do so by law, or if by doing so we can protect the SkinBase website and/or it's users. If you do not wish for others to know your personal details (for example - name and email address), it is recommended that you do not apply for membership.<br>
+SkinTech will only share information with third parties if required to do so by law, or if by doing so we can protect the SkinTech website and/or it's users. If you do not wish for others to know your personal details (for example - name and email address), it is recommended that you do not apply for membership.<br>
 <br>
 <b><big>Links</big></b><br>
-SkinBase links to several other websites. SkinBase does not control the content of any outside websites and can not be held accountable for their content. We also are not in control of the privacy policies of these sites and recommend that all members carefully read the privacy policies of other websites that collect personally identifiable information.<br>
-<br>
-<b><big>Messageboard Posts and Polls</big></b><br>
-At any given time, users have the ability to participate in the online polls or messageboards. Use of these facilities is voluntary. Poll information is in no way linked to the personal information disclosed at signup. Any information given on the messageboard becomes public information and users should therefore exercise caution before disclosing private information.<br>
+SkinTech links to several other websites. SkinTech does not control the content of any outside websites and can not be held accountable for their content. We also are not in control of the privacy policies of these sites and recommend that all members carefully read the privacy policies of other websites that collect personally identifiable information.<br>
 <br>
 <b><big>Children under the Age of 13</big></b><br>
-As SkinBase is a general-audience website, we can not allow children under the age of 13 to sign up for membership (in accordance with the Children's Online Privacy Protection Act). We ask that parents instead sign up for membership and monitor their children's activity on the website. <br>
-<br>
-<b><big>Editing Your Profile or Submissions</big></b><br>
-If a user's personally identifiable information changes, we will always attempt to find a way to allow the user to update these details. You can make these changes by using the 'edit profile' page or by contacting a site admin.<br>
+As SkinTech is a general-audience website, we can not allow children under the age of 13 to sign up for membership (in accordance with the Children's Online Privacy Protection Act). We ask that parents instead sign up for membership and monitor their children's activity on the website. <br>
 <br>
 <b><big>Changes to the Privacy Policy</big></b><br>
-If we make changes to this policy, we will let members know by posting mention of the changes on the homepage of the SkinBase website.  If we decide to use the personal details collected at membership signup (or during any other stage of a user's onsite activity) in any manner different from that stated at the time it was collected, we will let the user know via email.  Users will be given a choice as to whether they want their information used in a different manner.<br>
+If we make changes to this policy, we will let members know by posting mention of the changes on the homepage of the SkinTech website.  If we decide to use the personal details collected at membership signup (or during any other stage of a user's onsite activity) in any manner different from that stated at the time it was collected, we will let the user know via email.  Users will be given a choice as to whether they want their information used in a different manner.<br>
 <br>
-<b><big>Contact SkinBase</big></b><br>
-If you have questions not answered in this policy in regards to the daily running of this site, please feel free to email at <a href="mailto:info@skinbase.org">info@skinbase.org</a><br>
+<b><big>Contact SkinTech</big></b><br>
+If you have questions not answered in this policy in regards to the daily running of this site, please feel free to email at <a href="mailto:info@SkinTech.org">info@SkinTech.org</a><br>
 <br><br>
   </td>
  </tr>
 </tbody></table>
 
-   </td>
-   <td width="10" background="/skins/abra3/gfx/m12.jpg"><br></td>
-  </tr>
-  <tr>
-    <td><img width="10" height="18" src="/skins/abra3/gfx/m21.jpg" alt=""><br></td>
-   <td background="/skins/abra3/gfx/m22.jpg" height="18"></td>
-   <td><img width="10" height="18" src="/skins/abra3/gfx/m23.jpg" alt=""><br></td>
-  </tr>
- </tbody></table>
+
+
+<img src="/gfx/lmms.gif" height="7" width="100%" alt=""><br>
+<table width="100%" cellspacing="0" cellpadding="02" align="center">
+ <tbody><tr>
+  <td align="center" bgcolor="#999999">
+   <!-- BEGIN: AdSolution-Tag 4.0: Global-Code [PLACE IN HTML-HEAD-AREA!] -->
+   <script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/dlv/aslmain.js"></script>
+   <script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/dlv/aslsubs111.js"></script>
+   <!-- END: AdSolution-Tag 4.0: Global-Code -->
+   <!-- BEGIN: AdSolution-Tag 4.0: AdSpot-Code [PLACE AT BANNER-POSITION!]: SkinTech.org / SkinTech.org_468X60_Top -->
+   <script language="javascript"><!--
+   Ads_kid=0;Ads_bid=0;Ads_xl=468;Ads_yl=60;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='';Ads_prf='';Ads_par='';Ads_cnturl='';Ads_sec=0;
+   // --></script>
+   <script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/00/89/36.js"></script>
+   <!-- END: AdSolution-Tag 4.0: AdSpot-Code -->
+  </td>
+ </tr>
+</tbody></table>
       <p align="center"><!-- BEGIN: AdSolution-Tag 4.0: AdSpot-Code: Skinbase.org / Skinbase.org_468X60_Bottom -->
 <iframe src="http://a.as-us.falkag.net/dat/dlv/aslframe.html?dat=8937&amp;xl=468&amp;yl=60&amp;wrd=&amp;prf=" width="468" height="60" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0">
 <script type="text/javascript" language="JavaScript" src="http://a.as-us.falkag.net/dat/dlv/aslmain.js"></script>
@@ -361,11 +377,11 @@ Ads_kid=0;Ads_bid=0;Ads_xl=468;Ads_yl=60;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='
    </p>
    </td>
    <!-- zacetek desno -->
-   <td valign="top">     
-    <br>
+   <td valign="top" width="145">     
+
     <table width="140" border="0" align="center" cellspacing="0" cellpadding="0" class="Mojtext">
-    <tbody><tr><td style="width:140px; height:37px; background: url('./skins/abra3/gfx/l1.jpg')"></td></tr>
-    <tr><td height="38" style="width:140px; height:38px; padding-left:35px; background: url('./skins/abra3/gfx/l_sep2.jpg')">Not Logged In</td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('./skins/abra3/gfx/l_back.jpg')"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr><td style="width:140px; height:29px; background: url('/skins/xmas2005/gfx/l1.jpg')"></td></tr>
+    <tr><td height="38" valign="top" style="width:140px; height:24px; padding-top:5px; padding-left:35px; background: url('/skins/xmas2005/gfx/l_sep1.jpg')"><span style="color:#333333;">Not Logged In</span></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('/skins/xmas2005/gfx/l_back.jpg')"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
  <tbody><tr> 
   <td class="mojlink"> 
        <form action="index.php" method="post">
@@ -390,52 +406,68 @@ google_ad_height = 125;
 google_ad_format = "125x125_as";
 google_ad_channel ="5693625405";
 google_ad_type = "text_image";
-google_color_border = "7FA0CB";
-google_color_bg = "7FA0CB";
+google_color_border = "ffffff";
+google_color_bg = "ffffff";
 google_color_link = "000000";
 google_color_url = "000000";
 google_color_text = "000000";
 //--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-<br><a href="http://z1.adserver.com/w/cp.x;mid=2416;rid=1;tid=3;ev=2;dt=3;ac=7;c=84"><img src="/gfx/survey-120x60.gif" border="0" alt=""></a></td></tr> <tr><td height="38" style="width:140px; height:38px; padding-left:35px; background: url('./skins/abra3/gfx/l_sep2.jpg')"><b>Skins</b></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('./skins/abra3/gfx/l_back.jpg')">  <form action="search.php" method="post">
-   Search for<br>
-   <input type="text" name="querys" size="10" class="input" value=""> in<br>
-   <select name="group" class="input">
-    <option value="skins">Skins</option>
-    <option value="apps">Applications</option>
-    <option value="news">News</option>
-    <option value="msgboard">Messageboard</option>
-    <option value="users">Users</option>
-   </select>
-   <input type="submit" value="Find" class="submit">
-   <input type="hidden" name="action" value="search">
-  </form>
- </td></tr> <tr><td height="38" style="width:140px; height:38px; padding-left:35px; background: url('./skins/abra3/gfx/l_sep2.jpg')"><a href="msgboard.php">Messageboard</a></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('./skins/abra3/gfx/l_back.jpg')"><table width="100%" cellspacing="0" cellpadding="0" class="MojText"><tbody><tr><td bgcolor="#83A5D2"><a href="msgboard.php?topicid=510" style="color:black"><img src="/gfx/smiles/s032.gif" border="0" alt=""> <b>The Official Skinbase Sock-Hop and Social Mixer! V2</b> <img src="/gfx/smiles/s032.gif" border="0" alt=""></a></td></tr><tr><td bgcolor="#6F97CB"><a href="msgboard.php?topicid=1334" style="color:black">Eggs</a></td></tr><tr><td bgcolor="#83A5D2"><a href="msgboard.php?topicid=1335" style="color:black">Check my new site!!!</a></td></tr><tr><td bgcolor="#6F97CB"><a href="msgboard.php?topicid=730" style="color:black">phpNewsManager &amp; phpWebMagazine Quoestions</a></td></tr><tr><td bgcolor="#83A5D2"><a href="msgboard.php?topicid=1333" style="color:black">Sysmetrix - Is it possible to have it on top of windows and not allow windows to go underneath?</a></td></tr><tr><td bgcolor="#6F97CB"><a href="msgboard.php?topicid=1332" style="color:black">Installing theme</a></td></tr><tr><td bgcolor="#83A5D2"><a href="msgboard.php?topicid=1331" style="color:black">installing windows skin</a></td></tr><tr><td bgcolor="#6F97CB"><a href="msgboard.php?topicid=1330" style="color:black">I downloaded an Icon file, but i dont know what to do , how can i make it work? is there a program i have to download?</a></td></tr><tr><td bgcolor="#83A5D2"><a href="msgboard.php?topicid=1329" style="color:black">Installing WindowBlinds and Music Match Skins</a></td></tr><tr><td bgcolor="#6F97CB"><a href="msgboard.php?topicid=1327" style="color:black"><b>Skinbase.org FAQ</b></a></td></tr><tr><td bgcolor="#83A5D2"><a href="msgboard.php?topicid=1328" style="color:black">hoping to get some feedback</a></td></tr><tr><td bgcolor="#6F97CB"><a href="msgboard.php?topicid=1323" style="color:black">Mirror, mirror</a></td></tr><tr><td bgcolor="#83A5D2"><a href="msgboard.php?topicid=1326" style="color:black">help me please </a></td></tr><tr><td bgcolor="#6F97CB"><a href="msgboard.php?topicid=1322" style="color:black">I wanna know about AWARDS</a></td></tr><tr><td bgcolor="#83A5D2"><a href="msgboard.php?topicid=1325" style="color:black">Easy Search</a></td></tr></tbody></table></td></tr> <tr><td height="38" style="width:140px; height:38px; padding-left:35px; background: url('./skins/abra3/gfx/l_sep2.jpg')">Chat</td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('./skins/abra3/gfx/l_back.jpg')"><table width="100%" cellspacing="0" cellpadding="0" class="MojText"><tbody><tr><td bgcolor="#83A5D2">&lt;<a href="profile.php?uname=triny" title="October 9th @ 19:08 GMT+1" style="color:">triny</a>&gt; À òóò ïî ðóññêè ïîíèìàþò?
-</td></tr><tr><td bgcolor="#6F97CB">&lt;<a href="profile.php?uname=Metal_GunBlade" title="October 9th @ 18:28 GMT+1" style="color:">Metal_Gu nBlade</a>&gt; How does this go?!
-</td></tr><tr><td bgcolor="#83A5D2">&lt;<a href="profile.php?uname=georgos_" title="October 8th @ 17:09 GMT+1" style="color:">georgos_</a>&gt; Hello <img src="/gfx/smiles/s016.gif" border="0" alt=""> <img src="/gfx/smiles/s016.gif" border="0" alt="">
-</td></tr><tr><td bgcolor="#6F97CB">&lt;<a href="profile.php?uname=zulkhann" title="October 8th @ 07:47 GMT+1" style="color:">zulkhann</a>&gt; Bye pals, have a nice day for yal!!! and remember, try to be happy, because it is a question of honor <img src="/gfx/smiles/s016.gif" border="0" alt=""> <img src="/gfx/smiles/s030.gif" border="0" alt="">
-</td></tr><tr><td bgcolor="#83A5D2">&lt;<a href="profile.php?uname=Snowman" title="October 8th @ 07:42 GMT+1" style="color:">Snowman</a>&gt; greetings Brazil <img src="/gfx/smiles/s016.gif" border="0" alt="">
-</td></tr><tr><td bgcolor="#6F97CB">&lt;<a href="profile.php?uname=zulkhann" title="October 8th @ 07:11 GMT+1" style="color:">zulkhann</a>&gt; Hey everybody!!! from Brazil to the world, joy for you all!!!
-</td></tr><tr><td bgcolor="#83A5D2">&lt;<a href="profile.php?uname=wary109" title="October 8th @ 01:54 GMT+1" style="color:">wary109</a>&gt; *-*
-</td></tr><tr><td bgcolor="#6F97CB">&lt;<a href="profile.php?uname=georgos_" title="October 5th @ 22:02 GMT+1" style="color:">georgos_</a>&gt; <img src="/gfx/smiles/s016.gif" border="0" alt=""> ... <img src="/gfx/smiles/s016.gif" border="0" alt="">
-</td></tr></tbody></table><br><a href="irclog.php" style="color:black">IRC log</a><br><br><b>You should be a member to use chat!</b></td></tr> <tr><td height="38" style="width:140px; height:38px; padding-left:35px; background: url('./skins/abra3/gfx/l_sep2.jpg')">Weekly Poll</td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('./skins/abra3/gfx/l_back.jpg')"><form action="vote.php" method="post">How long have you been a member of Skinbase?<br><input type="radio" name="pool" value="0" class="radio">I just signed up<br><input type="radio" name="pool" value="1" class="radio">Less than one year<br><input type="radio" name="pool" value="2" class="radio">1 year<br><input type="radio" name="pool" value="3" class="radio">2 years<br><input type="radio" name="pool" value="4" class="radio">3 years<br><input type="radio" name="pool" value="5" class="radio">4 years<br><input type="radio" name="pool" value="6" class="radio">5 years<br><input type="radio" name="pool" value="7" class="radio">6 years<br><input type="radio" name="pool" value="8" class="radio">I was born here<br><input type="hidden" name="vid" value="112"><input type="submit" value="Vote" class="submit"><br><a href="voteres.php" style="color:black;">Poll results</a></form></td></tr> <tr><td height="38" style="width:140px; height:38px; padding-left:35px; background: url('./skins/abra3/gfx/l_sep2.jpg')">Site Info</td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('./skins/abra3/gfx/l_back.jpg')"> <a href="http://www.cafeshops.com/skinbase" target="_new" style="color:black">SB Shop</a><br>
+</td></tr> <tr><td height="38" valign="top" style="width:140px; height:24px; padding-top:5px; padding-left:35px; background: url('/skins/xmas2005/gfx/l_sep1.jpg')"><span style="color:#333333;">Latest Downloads</span></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('/skins/xmas2005/gfx/l_back.jpg')"><div align="center"><b>19.138.465</b> Downloads<hr size="1">1. <a href="rate.php?skins=13724">P102 4WB</a><br><a href="rate.php?skins=13724"><img src="/files/shots/P102_4WB_Preview.jpg" width="80" alt="P102 4WB For WindowBlinds" border="0"></a><br><br>2. <a href="rate.php?skins=10170">NonartGrey</a><br><a href="rate.php?skins=10170"><img src="/files/shots/NonartGrey_preview.jpg" width="80" alt="NonartGrey For Rainmeter" border="0"></a><br><br>3. <a href="rate.php?skins=5154">Droudi</a><br><a href="rate.php?skins=5154"><img src="/files/shots/DroudiScreenShot.gif" width="80" alt="Droudi For Zoom Player" border="0"></a><br><br></div></td></tr> <tr><td height="38" valign="top" style="width:140px; height:24px; padding-top:5px; padding-left:35px; background: url('/skins/xmas2005/gfx/l_sep1.jpg')"><span style="color:#333333;">Messageboard</span></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('/skins/xmas2005/gfx/l_back.jpg')"><table width="100%" cellspacing="0" cellpadding="0" class="MojText"><tbody><tr><td bgcolor="#ffffff"><a href="msgboard.php?topicid=1550" style="color:black">Another ripper...</a></td></tr><tr><td bgcolor="#eeeeee"><a href="msgboard.php?topicid=1628" style="color:black">Need a Skinbase button</a></td></tr><tr><td bgcolor="#ffffff"><a href="msgboard.php?topicid=730" style="color:black">phpNewsManager &amp; phpWebMagazine Quoestions</a></td></tr><tr><td bgcolor="#eeeeee"><a href="msgboard.php?topicid=1640" style="color:black">Skinnerz Stream - for Metal heads</a></td></tr><tr><td bgcolor="#ffffff"><a href="msgboard.php?topicid=643" style="color:black">We need your ideas and/or suggestions!</a></td></tr><tr><td bgcolor="#eeeeee"><a href="msgboard.php?topicid=1633" style="color:black">Problems with skinbase administration?</a></td></tr><tr><td bgcolor="#ffffff"><a href="msgboard.php?topicid=1638" style="color:black">Banner Background</a></td></tr><tr><td bgcolor="#eeeeee"><a href="msgboard.php?topicid=1639" style="color:black">Take back the web has wrong category</a></td></tr><tr><td bgcolor="#ffffff"><a href="msgboard.php?topicid=1630" style="color:black">Upload 101</a></td></tr><tr><td bgcolor="#eeeeee"><a href="msgboard.php?topicid=1634" style="color:black">WallPaperIssue with Theme </a></td></tr><tr><td bgcolor="#ffffff"><a href="msgboard.php?topicid=1637" style="color:black">WinFixer Pop Up</a></td></tr><tr><td bgcolor="#eeeeee"><a href="msgboard.php?topicid=1632" style="color:black">windowblinds question</a></td></tr><tr><td bgcolor="#ffffff"><a href="msgboard.php?topicid=1625" style="color:black">cleanup needed</a></td></tr><tr><td bgcolor="#eeeeee"><a href="msgboard.php?topicid=1624" style="color:black">Need a Programmer/Developer to make a WMP Skin for me</a></td></tr><tr><td bgcolor="#ffffff"><a href="msgboard.php?topicid=1631" style="color:black">tourtrial needed</a></td></tr></tbody></table></td></tr> <tr><td height="38" valign="top" style="width:140px; height:24px; padding-top:5px; padding-left:35px; background: url('/skins/xmas2005/gfx/l_sep1.jpg')"><span style="color:#333333;">Chat</span></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('/skins/xmas2005/gfx/l_back.jpg')"><table width="100%" cellspacing="0" cellpadding="0" class="MojText"><tbody><tr><td bgcolor="#ffffff">&lt;<a href="profile.php?uname=alfa31" title="December 15th @ 17:03 GMT+1" style="color:">alfa31</a>&gt; </td></tr><tr><td bgcolor="#eeeeee">&lt;<a href="profile.php?uname=alfa31" title="December 15th @ 17:03 GMT+1" style="color:">alfa31</a>&gt; </td></tr><tr><td bgcolor="#ffffff">&lt;<a href="profile.php?uname=alfa30" title="December 15th @ 08:33 GMT+1" style="color:">alfa30</a>&gt; <img src="/gfx/smiles/em_adni 18 ANIM.gif" border="0" alt="">
+</td></tr><tr><td bgcolor="#eeeeee">&lt;<a href="profile.php?uname=alfa30" title="December 15th @ 08:32 GMT+1" style="color:">alfa30</a>&gt; </td></tr><tr><td bgcolor="#ffffff">&lt;<a href="profile.php?uname=maryqualls" title="December 15th @ 08:31 GMT+1" style="color:">maryquall s</a>&gt; Thanks for featuring my image! 
+</td></tr><tr><td bgcolor="#eeeeee">&lt;<a href="profile.php?uname=TAXIFUNK" title="December 14th @ 18:19 GMT+1" style="color:">TAXIFUNK</a>&gt; Hi! Greetings from grimspoon launching radio with specials for Skinbase members STOP Enother surprise will be announced next year free for everyone, <img src="/gfx/smiles/s046.gif" border="0" alt=""> not commenting art now, bit busy, <img src="/gfx/smiles/hart.gif" border="0" alt=""> your things, though, everyone, nice day!
+</td></tr><tr><td bgcolor="#ffffff">&lt;<a href="profile.php?uname=dijojoy" title="December 14th @ 18:12 GMT+1" style="color:">dijojoy</a>&gt; hellow
+ 
+</td></tr><tr><td bgcolor="#eeeeee">&lt;<a href="profile.php?uname=dijojoy" title="December 14th @ 18:11 GMT+1" style="color:">dijojoy</a>&gt; hi
+</td></tr></tbody></table><br><b>You should be a member to use chat!</b></td></tr> <tr><td height="38" valign="top" style="width:140px; height:24px; padding-top:5px; padding-left:35px; background: url('/skins/xmas2005/gfx/l_sep1.jpg')"><span style="color:#333333;">Weekly Poll</span></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('/skins/xmas2005/gfx/l_back.jpg')"><form action="vote.php" method="post">Where are you from?<br><input type="radio" name="pool" value="0" class="radio">Africa
+<br><input type="radio" name="pool" value="1" class="radio">Asia
+<br><input type="radio" name="pool" value="2" class="radio">Europe
+<br><input type="radio" name="pool" value="3" class="radio">Middle East 
+<br><input type="radio" name="pool" value="4" class="radio">North America
+<br><input type="radio" name="pool" value="5" class="radio">Central America
+<br><input type="radio" name="pool" value="6" class="radio">South America
+<br><input type="radio" name="pool" value="7" class="radio">Oceania<br><input type="hidden" name="vid" value="123"><input type="submit" value="Vote" class="submit"><br><a href="voteres.php" style="color:black;">Poll results</a></form></td></tr> <tr><td height="38" valign="top" style="width:140px; height:24px; padding-top:5px; padding-left:35px; background: url('/skins/xmas2005/gfx/l_sep1.jpg')"><span style="color:#333333;">Whois Online</span></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('/skins/xmas2005/gfx/l_back.jpg')"><span style="color:$color;">Currently  5 members and 299 guests online </span>  <br>
+  <img src="/gfx/ppl.gif" style="cursor:pointer" border="0" alt="" onclick="expw('w100o');"><br>
+  <div id="w100o" style="display:none">
+    <table width="99%" align="center" cellspacing="1" cellpadding="1" class="MojText" bgcolor="#000000">
+     <tbody><tr>
+     <td class="MojText" valign="top" bgcolor="#eeeedd">
+      <font face="verdana" size="1">
+      <b>Whois Online</b><br>
+       <a href="profile.php?uname=Le Bam aka jER"> Le Bam aka jER</a><br> <a href="profile.php?uname=xillbethatlittlecutfesteringx"> xillbethatlittlecut</a><br> <a href="profile.php?uname=mmboiani"> mmboiani</a><br> <a href="profile.php?uname=chasesy"> chasesy</a><br> <a href="profile.php?uname=mitnick1720a"> mitnick1720a</a><br>     
+      </font>
+     </td>
+    </tr>
+   </tbody></table>
+   <br>
+  </div>
+ </td></tr> <tr><td height="38" valign="top" style="width:140px; height:24px; padding-top:5px; padding-left:35px; background: url('/skins/xmas2005/gfx/l_sep1.jpg')"><span style="color:#333333;">Site Info</span></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('/skins/xmas2005/gfx/l_back.jpg')"> <a href="http://www.cafeshops.com/skinbase" rel="no follow" target="_new" style="color:black">SB Shop</a><br>
+ <a href="bugreport.php" style="color:black;">Bug Report</a><br>
  <a href="support.php" target="_new" style="color:black;">Support</a><br>
  <a href="staff.php" style="color:black;">Staff</a><br>
- <a href="supportus.php" style="color:black;">Support Us</a><br>
+ <a href="supportus.php" style="color:black;">Promote SkinBase</a><br>
+ <a href="rss_feeds.php" style="color:black;">RSS Feeds</a><br>
  <a href="privacy.php" style="color:black;">Privacy Policy</a><br>
- <a href="http://www.skinbase.org" target="_news" style="color:black;">FAQ</a><br>
-</td></tr> <tr><td height="38" style="width:140px; height:38px; padding-left:35px; background: url('./skins/abra3/gfx/l_sep2.jpg')">Others</td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('./skins/abra3/gfx/l_back.jpg')"> <table width="100%" cellspacing="0" cellpadding="0" class="SmlText">
+ <a href="http://www.skinbase.info" target="_news" style="color:black;">FAQ</a><br>
+</td></tr> <tr><td height="38" valign="top" style="width:140px; height:24px; padding-top:5px; padding-left:35px; background: url('/skins/xmas2005/gfx/l_sep1.jpg')"><span style="color:#333333;">Others</span></td></tr><tr><td valign="top" style="width:140px; padding-right:9px; padding-left:9px;  background: url('/skins/xmas2005/gfx/l_back.jpg')"> <table width="100%" cellspacing="0" cellpadding="0" class="SmlText">
   <tbody><tr>
    <td valign="top">
-    <a href="http://www.megawallpapers.org" target="_blank" title="Wallpapers">Mega Wallpapers</a><br><a href="http://www.galawallpapers.com" target="_blank" title="Wallpapers">Gala Wallpapers</a><br><a href="http://www.photostation.org" target="_blank" title="Photos">Photography Collection</a><br><a href="http://www.movieswallpapers.org" target="_blank" title="Wallpapers">Movies Wallpapers</a><br><a href="http://www.celebswallpapers.org" target="_blank" title="Wallpapers">Celebs Wallpapers</a><br><a href="http://www.thewallpapers.org/movies/the_matrix.php" target="_blank" title="Matrix Wallpapers">Matrix Wallpapers</a><br><a href="http://www.thewallpapers.org" target="_blank" title="Wallpapers, Gallery, Pictures">Wallpapers</a><br><a href="http://www.bestwallpapers.org" target="_blank" title="Best Wallpapers">Best Wallpapers</a><br><a href="http://www.basehead.org" target="_blank" title="Wallpapers, Gallery, Pictures">Wallpapers @ Basehead</a><br><a href="http://www.coolwallpapers.org" target="_blank" title="Wallpapers, Gallery, Pictures">Cool Wallpapers</a><br><a href="http://www.mywallpapers.org" target="_blank" title="my Wallpapers, Animals, Sport, Cartoon, Airplanes ...">my Wallpapers</a><br><a href="http://www.bestwallpapers.org" target="_blank" title="Best Wallpapers">Best Wallpapers</a><br><a href="http://www.celebstation.org" target="_blank" title="Celebrities, Pictures, Gallery, Informations, Celebrity gossip">Celebritis Guide</a><br><a href="http://www.moviestation.org" target="_blank" title="Movies, Pictures, News, Photos">Movies</a><br><a href="http://www.klevze.si" target="_blank" title="Web Directory">Web Directory</a><br><a href="http://www.celebstation.org/models/index.php" target="_blank" title="Models Directory">Actresses Directory</a><br><a href="http://www.celebstation.org/actresses/index.php" target="_blank" title="Actresses Directory">Actresses Directory</a><br><a href="http://www.celebstation.org/actors/index.php" target="_blank" title="Actors Directory">Actors Directory</a><br><a href="http://www.transportstation.org" target="_blank" title="Cars, Trains, Boats, Airplanes">Cars, Trains, Airplanes Wallpapers&amp;Pictures</a><br><p align="center" class="SmlText">..:: D.E.W. ::..<br><a href="http://www.skinbase.org/dew/main.php3?id=1&amp;action=prev">&lt;&lt;</a>-<a href="http://www.skinbase.org/dew/main.php3?id=1&amp;action=rnd" target="_blank">?</a>-<a href="http://www.skinbase.org/dew/allsites.php3" target="_blank">Memb</a>-<a href="http://www.skinbase.org/dew/">HOME</a>-<a href="http://www.skinbase.org/dew/main.php?id=1&amp;action=next" target="_blank">&gt;&gt;</a></p><p align="center">Some banners are removed for registered users!<br><a href="/signup.php"><b>FREE SIGNUP</b></a></p></td></tr></tbody></table></td></tr>     <tr><td style="width:140px; height:39px; background: url('./skins/abra3/gfx/l_bot.jpg')"></td></tr>
+    <a href="http://www.megawallpapers.org" target="_blank" title="Wallpapers">Mega Wallpapers</a><br><a href="http://www.galawallpapers.com" target="_blank" title="Wallpapers">Gala Wallpapers</a><br><a href="http://www.photostation.org" target="_blank" title="Photos">Photography Collection</a><br><a href="http://www.movieswallpapers.org" target="_blank" title="Wallpapers">Movies Wallpapers</a><br><a href="http://www.celebswallpapers.org" target="_blank" title="Wallpapers">Celebs Wallpapers</a><br><a href="http://www.thewallpapers.org/movies/the_matrix.php" target="_blank" title="Matrix Wallpapers">Matrix Wallpapers</a><br><a href="http://www.thewallpapers.org" target="_blank" title="Wallpapers, Gallery, Pictures">Wallpapers</a><br><a href="http://www.bestwallpapers.org" target="_blank" title="Best Wallpapers">Best Wallpapers</a><br><a href="http://www.basehead.org" target="_blank" title="Wallpapers, Gallery, Pictures">Wallpapers @ Basehead</a><br><a href="http://www.coolwallpapers.org" target="_blank" title="Wallpapers, Gallery, Pictures">Cool Wallpapers</a><br><a href="http://www.mywallpapers.org" target="_blank" title="my Wallpapers, Animals, Sport, Cartoon, Airplanes ...">my Wallpapers</a><br><a href="http://www.bestwallpapers.org" target="_blank" title="Best Wallpapers">Best Wallpapers</a><br><a href="http://www.celebstation.org" target="_blank" title="Celebrities, Pictures, Gallery, Informations, Celebrity gossip">Celebritis Guide</a><br><a href="http://www.moviestation.org" target="_blank" title="Movies, Pictures, News, Photos">Movies</a><br><a href="http://www.klevze.si" target="_blank" title="Web Directory">Web Directory</a><br><a href="http://www.celebstation.org/models/index.php" target="_blank" title="Models Directory">Actresses Directory</a><br><a href="http://www.celebstation.org/actresses/index.php" target="_blank" title="Actresses Directory">Actresses Directory</a><br><a href="http://www.celebstation.org/actors/index.php" target="_blank" title="Actors Directory">Actors Directory</a><br><a href="http://www.transportstation.org" target="_blank" title="Cars, Trains, Boats, Airplanes">Cars, Trains, Airplanes Wallpapers&amp;Pictures</a><br><a href="http://wallpaperzone.searchpixie.com">Wallpaperzone</a><br><p align="center" class="SmlText">..:: D.E.W. ::..<br><a href="http://www.skinbase.org/dew/main.php3?id=1&amp;action=prev">&lt;&lt;</a>-<a href="http://www.skinbase.org/dew/main.php3?id=1&amp;action=rnd" target="_blank">?</a>-<a href="http://www.skinbase.org/dew/allsites.php3" target="_blank">Memb</a>-<a href="http://www.skinbase.org/dew/">HOME</a>-<a href="http://www.skinbase.org/dew/main.php?id=1&amp;action=next" target="_blank">&gt;&gt;</a></p><p align="center">Some banners are removed for registered users!<br><a href="/signup.php"><b>FREE SIGNUP</b></a></p></td></tr></tbody></table></td></tr>     <tr><td style="width:140px; height:39px; background: url('/skins/xmas2005/gfx/l_bot.jpg')"></td></tr>
    </tbody></table>
   </td>
  </tr>
 </tbody></table>
-<div align="center">Copyright (c) <a href="http://skintech.skinbase.org">SkinTech</a> 2000-2003, all skins and artwork copyrighted to its Author. Abracadabra theme was created by Pixtudio.</div>
+<div align="center">Copyright (c) <a href="http://www.skintech.org">SkinTech</a> 2000-2005, all skins and artwork copyrighted to its Author.<br>
+	Christmas Theme was created by <a href="http://www.adni18.com/adnistudio.html" rel="nofollow">adni18</a>.
+</div>
+
+<link rel="alternate" type="application/rss+xml" title="SkinBase Latest Uploads" href="http://www.skinbase.org/rss/latest_skins.xml">
+<link rel="alternate" type="application/rss+xml" title="SkinBase Latest Skins" href="http://www.skinbase.org/rss/latest_skins.xml">
+<link rel="alternate" type="application/rss+xml" title="SkinBase Latest Wallpapers" href="http://www.skinbase.org/rss/latest_wallpapers.xml">
+<link rel="alternate" type="application/rss+xml" title="SkinBase Latest Photos" href="http://www.skinbase.org/rss/latest_photos.xml">
+<link rel="alternate" type="application/rss+xml" title="SkinBase Latest News" href="http://www.skinbase.org/rss/latest_news.xml">
  
-  <div align="center" class="SmlText">Brought to you in 0.58 seconds [2] .: 9.10.2004 :.</div>
-  <!-- Skinbase Front, Pop-Window (Under) -->
+  <div align="center" class="SmlText">Brought to you in 0.55 seconds [7] .: 16.12.2005 :.</div>
 <!-- skinbase, Pop-Window (Under) -->
 <script language="javascript"><!--
 var date_ob=new Date();
@@ -448,6 +480,31 @@ src="http://z1.adserver.com/w/cp.x;rid=79;tid=2;ev=1;dt=1;ac=7;c=858;"></scr'+'i
 // -->
 </script>
 <!-- Rydium, Pop-Window (Under) -->
+
+<!-- begin Underpoint code --> 
+<script type="text/javascript">
+<!--
+	tppopid=9136; // Publisher ID
+	tpcapp=6; // Rotation in hours
+
+//-->
+</script>
+<script type="text/javascript" src="http://www.555-0134.com/exproducts/tp-pop.js"></script>
+<!-- end Underpoint code -->
+
+<!-- FASTCLICK.COM POP-UNDER CODE v1.8 for skinbase.org (12 hour) -->
+<script language="javascript"><!--                                 
+var dc=document; var date_ob=new Date();
+dc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
+if(dc.cookie.indexOf('e=llo') <= 0 && dc.cookie.indexOf('2=o') > 0){
+dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
+dc.write('/w/pop.cgi?sid=23254&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
+date_ob.setTime(date_ob.getTime()+43200000);
+dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
+</script><script language="javascript" src="http://media.fastclick.net/w/pop.cgi?sid=23254&amp;m=2&amp;tp=2&amp;v=1.8&amp;c=16"></script>                                                          
+<!-- FASTCLICK.COM POP-UNDER CODE v1.8 for skinbase.org -->
+
+
 <!-- start Vibrant Media IntelliTxt script section -->
 <style type="text/css">
 .iTt{
@@ -465,6 +522,9 @@ src="http://z1.adserver.com/w/cp.x;rid=79;tid=2;ev=1;dt=1;ac=7;c=858;"></scr'+'i
 <!-- end Vibrant Media IntelliTxt script section -->
 
 
-   
+  <!-- begin Targetpoint targeting tracking code --> 
+<script src="http://srs.targetpoint.com/resources/inc/tptek.js" type="text/javascript"></script>
+<!-- end Targetpoint targeting tracking code -->
+ 
 
 </body></html>
