@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403115508id_/http%3A//www.simplestar.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216034236id_/http%3A//simplestar.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Simple Star - Copyright and trademark information
 
-|   
----  
-  
+|  | 
+
 ### **Simple Star Privacy and Legal Information**
 
-[Terms of service](https://web.archive.org/web/20050403115508id_/http%3A//www.simplestar.com/legal/tos.php)  
-[Privacy policy](https://web.archive.org/web/20050403115508id_/http%3A//www.simplestar.com/legal/privacy.php)  
-[Copyright and trademark information](https://web.archive.org/web/20050403115508id_/http%3A//www.simplestar.com/legal/copyright.php)  
-[Software end user license agreement](https://web.archive.org/web/20050403115508id_/http%3A//www.simplestar.com/legal/eula.php)  
+[Terms of service](https://web.archive.org/web/20051216034236id_/http%3A//simplestar.com/legal/tos.php)  
+[Privacy policy](https://web.archive.org/web/20051216034236id_/http%3A//simplestar.com/legal/privacy.php)  
+[Copyright and trademark information](https://web.archive.org/web/20051216034236id_/http%3A//simplestar.com/legal/copyright.php)  
+[Software end user license agreement](https://web.archive.org/web/20051216034236id_/http%3A//simplestar.com/legal/eula.php)  
 [Online Store terms and conditions](https://store.simplestar.com/cgi-bin/pages/tac)  
 
 
@@ -85,9 +84,9 @@ If we ever include children under the age of 13 as part of our intended site aud
 **11\. Contacting Simple Star.** If you have any questions about our Privacy Policy or our privacy and security practices, you can contact us at: 
 
 > Simple Star – Attn. Privacy Compliance  
->  2325 Third Street, Suite 424  
+>  651 Brannan Street, Suite 300  
 >  San Francisco, CA 94107   
 >  privacy@simplestar.com  
 > 
 
-Please note that these addresses are for privacy and security matters only. If you are looking for help purchasing, installing, or using our products, please contact us through our [support center](http://support.simplestar.com/). 
+Please note that these addresses are for privacy and security matters only. If you are looking for help purchasing, installing, or using our products, please contact us through our [support center](http://support.simplestar.com/).  |  | 
