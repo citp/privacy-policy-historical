@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tickle.com privacy policy that was archived on 2005-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050404015530id_/http%3A//web.tickle.com/rd/42814/about/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tickle.com privacy policy that was archived on 2005-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051216083539id_/http%3A//web.tickle.com/rd/42814/about/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>Tickle: Tests, Matchmaking and Social Networking</title>
@@ -10,18 +10,28 @@
     
 
 
-<style type="text/css" media="all">@import "http://i.emode.com/style/main20050310.css";</style>
+<style type="text/css" media="all">@import "http://i.emode.com/style/main20050815.css";</style>
     
 
 
-<style type="text/css" media="all">@import "http://i.emode.com/style/header20050228.css";</style>
-    
-    
-    
-    
-    
+<style type="text/css" media="all">@import "http://i.emode.com/style/header20051117.css";</style>
     
 
+
+
+
+  <style type="text/css" media="all">@import "http://i.emode.com/style/images20050819.css";</style>
+
+
+
+
+    
+    
+      
+      
+      
+      
+      
 
 
 
@@ -65,11 +75,23 @@ function trackSubOrigin(suborigin) {
 }
 </script>
 
+<script type="text/javascript" language="javascript">
+<!-- <![CDATA[
+var NoPaidTestExitPopup=true, pu_win=true;
+var cookiedomain='.tickle.com';
 
-<script type="text/javascript" language="JavaScript">
-<!--
-var flashDetected=false;
-var flash6Detected=false;
+function writeshortusername(name) {
+  if(name.length>20){
+    name=name.substr(0,19);
+  }
+  document.write(name);
+}
+function doSearch(){
+  if (document.searchform.sel.value==2){
+    document.searchform.action='http://connect.tickle.com/search/result.html?friendlevel=-1&photoonly=Y';
+  }
+  return true;
+}
 
 function DetectFlashV() {
   var cookiedomain='.tickle.com';
@@ -107,152 +129,26 @@ function DetectFlashV() {
   // set flash version into cookie
   if (flashv >= 2) { 
     document.cookie='flashv='+flashv+';path=/;domain='+cookiedomain; 
-    flashDetected = true;
-    if (flashv >= 6) {flash6Detected=true;}
   }
   else { 
     flashv = 0;
     document.cookie='flashv='+flashv+';path=/;domain='+cookiedomain; 
-    flashDetected=false;
-    flash6Detected=false;
   }
   return (flashv);
 }
 
-function DetectFlash() {
-  var version = DetectFlashV();
-  if (version > 0) {return true;}
-  else {return false;}
-}
-function DetectFlash6() {
-  var version = DetectFlashV();
-  if (version >= 6) {return true;}
-  else {return false;}
-}
-
-
-//-->
-</script>
-
-
-<script type="text/javascript" language="javascript">
-<!-- <![CDATA[
-var NoPaidTestExitPopup=true, pu_win=true;
-var cookiedomain='.tickle.com';
-
-function writeshortusername(name) {
-  if(name.length>20){
-    name=name.substr(0,19);
-  }
-  document.write(name);
-}
-function doSearch(){
-  if (document.searchform.sel.value==2){
-    document.searchform.action='http://connect.tickle.com/search/result.html?friendlevel=-1&photoonly=Y';
-  }
-  return true;
-}
-
-
-var messengerblocked=false, chatblocked=false, exists=1;
-
-
-if (document.cookie.indexOf('ua=')==-1) { var x=window.open('/account/cookie_popup.html','error','width=400,height=175,resizable,scrollbars'); x.focus(); }
-
-var ua=navigator.userAgent.toLowerCase(),v=parseFloat(navigator.appVersion);
-var js12=true;
-var modern=((v>=5) || (ua.indexOf("msie")!=-1 && v>=4 && ua.indexOf("webtv")==-1));
-
-
-function g_alert(x,m) {
-  x.focus(); if (js12) { scrollBy(0,-50); }
-  alert(m);
-}
-
-
-function g_escapejs(x) {
-  for (var i=0;i<x.length;i++) {
-    if (x.charAt(i)=='\'' || x.charAt(i)=='\\') {
-      x=x.substring(0,i)+'\\'+x.substring(i);
-      i++;
-    }
-  }
-  return(x);
-}
-
-
-function popchat(cuid) {
-	var w=null;
-  if (DetectFlashV() >= 6) {
-		var allcookies = document.cookie;
-		var pos = allcookies.indexOf("chatwins=");
-		var present = 0;
-		var winstring = '';
-		if (pos != -1){
-			pos = pos+9;
-			var end = allcookies.indexOf(";",pos);
-			if (end == -1){end = allcookies.length;}
-			winstring = allcookies.substring(pos, end);
-			if (winstring.indexOf(cuid) != -1){present=1;}
-		} 
-    else {
-			winstring = '';
-		}
-		if (present!=1){
-			w=window.open('/match/messenger.jsp?cuid='+cuid+'&action=new','chat'+cuid,'width=375,height=400,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=1,channelmode=0,directories=0,status=0');
-			if (w!=null)
-				document.cookie = "chatwins=" + (winstring+cuid+"|");
-		}
-	} 
-  else {
-		w=window.open('/match/messenger.jsp?fl6=n&cuid='+cuid,'flasherror','width=375,height=400,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
-	}
-	
-	if (w==null)
-		chatblocked = true;
-}
-
-var chatman = null;
-function launchMessenger() {
-  if (DetectFlashV() >= 6) {
-    chatman = window.open('/match/manager-connect.jsp','emodemessenger','width=211,height=428,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
-    if (chatman) {
-      chatman.moveTo((screen.availWidth-250),(screen.availHeight-480));
-    }
-  } 
-  else {
-    chatman = window.open('/match/manager-connect.jsp?fl6=n','emodemessenger','width=211,height=428,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
-  }
-}
-
-function launchBlockedMessenger() {
-  if (DetectFlashV() >= 6) {
-    chatman = window.open('/match/manager-connect.jsp?pblocked=y','emodemessenger','width=211,height=485,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
-    if (chatman) {
-      chatman.moveTo((screen.availWidth-250),(screen.availHeight-480));
-    }
-  } 
-  else {
-    chatman = window.open('/match/manager-connect.jsp?fl6=n','emodemessenger','width=211,height=428,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
-  }
-}
-
-
-
-
-
-
-
-
 // ]]> -->
 </script>
-    
+<script type="text/javascript" src="http://i.emode.com/includes/js/tickleCT051025.js"></script>
+      
 
 
 
 
 
  
+
+
 
 
 
@@ -322,12 +218,12 @@ function popwindow (url,title,width,height,properties,up_or_under,wait) {
         <!-- <![CDATA[
         if (document.cookie.indexOf('pundersession=y')<0) {
           if (document.cookie.indexOf('emodematch')<0) {
-            popwindow('/match/action/create-profile?p=2','emodematch',815,600,'titlebar=1,toolbar=0,location=1,menubar=1,scrollbars=1,resizable=1,channelmode=0,directories=0,status=1','under',7200);
+            popwindow('http://www.lovehappens.com/fw/create.html?sid=3233&supp=exitPop&p=103&version=firstSight','lovehappens',815,600,'titlebar=1,toolbar=0,location=1,menubar=1,scrollbars=1,resizable=1,channelmode=0,directories=0,status=1','under',7200);
           }
           document.cookie='pundersession=y;path=/;domain=.tickle.com;';
         }
         // ]]> -->
-        </script><script language="javascript">var emodematchurl='/match/action/create-profile?p=2';</script><script language="javascript">var emodematch=window.open('','emodematch','width=815,height=600,titlebar=1,toolbar=0,location=1,menubar=1,scrollbars=1,resizable=1,channelmode=0,directories=0,status=1');if ('under'=='up') {emodematch.focus();} else {emodematch.blur();window.focus();}</script><script language="javascript">if (emodematch) {setTimeout('emodematch.location=emodematchurl;',2000);}</script>
+        </script><script language="javascript">var lovehappensurl='http://www.lovehappens.com/fw/create.html?sid=3233&supp=exitPop&p=103&version=firstSight';</script><script language="javascript">var lovehappens=window.open('','lovehappens','width=815,height=600,titlebar=1,toolbar=0,location=1,menubar=1,scrollbars=1,resizable=1,channelmode=0,directories=0,status=1');if ('under'=='up') {lovehappens.focus();} else {lovehappens.blur();window.focus();}</script><script language="javascript">if (lovehappens) {setTimeout('lovehappens.location=lovehappensurl;',2000);}</script>
       
     
   
@@ -335,6 +231,9 @@ function popwindow (url,title,width,height,properties,up_or_under,wait) {
 
 
 
+    
+    
+    
     
 <style type="text/css" media="all">@import "http://i.emode.com/about/about.css";</style>
 
@@ -342,23 +241,26 @@ function popwindow (url,title,width,height,properties,up_or_under,wait) {
     
   </head>
   <body>
+
     <div id="adContainer">
       
-        <div id="headernav">
-          <div class="lftcol">
-            
-             
-              <a href="/rd/42593/">Home</a> | <a href="/rd/42594/tests/">Tests</a> | <a href="/rd/42595/http://connect.tickle.com/">Networking</a> | <a href="/rd/42596/http://match.tickle.com">Matchmaking</a> | <a href="/rd/42597/marriage/">Happy Marriage</a>
-            
-          </div>
-          <div class="rtcol">
-            <a href="/rd/42598/account/">My Account</a> | <a href="/rd/42599/account/tests/">My Test Results</a> | <a href="/rd/42600/http://support.tickle.com/">Help</a> | <a href="/rd/42601/account/authorize/signin.jsp?url=/&amp;stay">Sign In</a>
-          </div>
-          <br class="clear">
-        </div>        
+        
+          <div id="headernav">
+            <div class="lftcol">
+              
+               
+                <a href="/rd/42593/">Home</a> | <a href="/rd/42594/tests/">Tests</a> | <a href="/rd/42595/http://connect.tickle.com/">Networking</a> | <a href="/rd/42596/http://www.lovehappens.com/fw/index.html?sid=3233&amp;supp=header&amp;tickleUserId=">Matchmaking</a> | <a href="/rd/42597/marriage/">Happy Marriage</a>
+              
+            </div>
+            <div class="rtcol">
+              <a href="/rd/42598/account/">My Account</a> | <a href="/rd/42599/account/tests/">My Test Results</a> | <a href="/rd/42600/http://support.tickle.com/">Help</a> | <a href="/rd/42601/account/authorize/signin.jsp?url=/&amp;stay">Sign In</a>
+            </div>
+            <br class="clear">
+          </div>      
+          
         
         <div id="header">
-          
+        
            
             
 
@@ -369,11 +271,13 @@ function popwindow (url,title,width,height,properties,up_or_under,wait) {
 
 
 
- 
-  
-  
+
+   
     
-        
+    
+      
+          
+  
 
 
 
@@ -384,6 +288,10 @@ function popwindow (url,title,width,height,properties,up_or_under,wait) {
 </div>
 
 
+
+ 
+
+           
 <div id="breadcrumb">
   <a href="/">Home</a>
 </div>
@@ -392,26 +300,23 @@ function popwindow (url,title,width,height,properties,up_or_under,wait) {
         </div>
         
         
-        
-        
-        
-      <div class="content">
-        
           
-            <div id="pagetitle">
-              <h1>About Us</h1>
-              
-            </div>
+        <div class="content">
           
-        
-        
-        
-        
-        
-        
-        
-        
-    
+            
+              <div id="pagetitle">
+                <h1>About Us</h1>
+                
+                  
+                
+              </div>
+            
+          
+
+          
+          
+          
+
 <table border="0" cellspacing="0" cellpadding="0" width="728">
           <tbody><tr> 
           <td align="left" valign="top" bgcolor="#ffffff">
@@ -420,12 +325,14 @@ function popwindow (url,title,width,height,properties,up_or_under,wait) {
 
 <div class="pressnavitem"><a href="/about/index.jsp" class="pressnav">Company Backgrounder</a></div>
 <div class="pressnavitem"><a href="/about/glance.jsp" class="pressnav">Company at a Glance</a></div>
-<div class="pressnavitem">Products and Services</div>
+<div class="pressnavitem">Products</div>
 <div class="pressnavitem"><a href="/about/tests.jsp" class="pressnav" style="padding-left:20px;">Tests</a></div>
+<div class="pressnavitem"><a href="/about/socialnetworking.jsp" class="pressnav" style="padding-left:20px;">Networking</a></div>
+<div class="pressnavitem">Services</div>
+<div class="pressnavitem"><a href="/about/lovehappens.jsp" class="pressnav" style="padding-left:20px;">LoveHappens</a></div>
 <div class="pressnavitem"><a href="/about/marriage.jsp" class="pressnav" style="padding-left:20px;">Happy Marriage</a></div>
-<div class="pressnavitem"><a href="/about/matchmaking.jsp" class="pressnav" style="padding-left:20px;">Matchmaking</a></div>
-<div class="pressnavitem"><a href="/about/socialnetworking.jsp" class="pressnav" style="padding-left:20px;">Social Networking</a></div>
-<div class="pressnavitem"><a href="/match/about/book.jsp" class="pressnav" style="padding-left:20px;">eBook</a></div>
+<div class="pressnavitem"><a href="/about/ringo.jsp" class="pressnav" style="padding-left:20px;">Ringo</a></div>
+
 <div class="pressnavitem"><a href="/press/index.jsp" class="pressnav">Press Center</a></div>
 <div class="pressnavitem"><a href="/about/facts.jsp" class="pressnav">Interesting Facts</a></div>
 <div class="pressnavitem"><a href="/about/management.jsp" class="pressnav">Management Team</a></div>
@@ -456,7 +363,7 @@ function popwindow (url,title,width,height,properties,up_or_under,wait) {
 <p>Tickle is an online media company that brings you fun, insightful, and personalized information in our emails and on our website.
 </p><p>We want to give you information that you care about and that is relevant to you. So, we enter into a voluntary relationship with you where we listen to who you are, and what you want. Then we go out and find it and bring it back to you in the most personalized services possible. It's that simple, and it's that cool — our emails and services are all about you and the data you disclose to us makes it possible to deliver what you truly want.<br><br>
 
-<a href="https://www.truste.org/ivalidate.php?url=www.tickle.com" target="_blank"><img src="http://i.emode.com/images/static/truste_round.gif" height="73" width="91" border="0" alt="TRUSTe: Click to Verify"></a>
+<a href="http://www.truste.org/ivalidate.php?url=www.tickle.com&amp;sealid=101" target="_blank"><img src="http://i.emode.com/images/static/truste_round.gif" height="73" width="91" border="0" alt="TRUSTe: Click to Verify"></a>
 
 
 </p><p>Tickle is a member of the TRUSTe Privacy Program. License updated on August 9, 2004.</p>
@@ -521,8 +428,7 @@ experience. Public information may include, but is not limited to,
 member-submitted information such as your username, first name, last name,
 gender, age, height, lifestyle information, geographic location, and photo.
 Much of this information is optional, and meant to be seen by members to
-support the function of the site as a social networking and matchmaking
-service.</p>
+support the function of the site as a social networking service.</p>
 
 <p>Special provisions apply to the social networking service. See the "<a href="#control">How do I control or change
 my information?</a>" section below.</p>
@@ -531,7 +437,7 @@ my information?</a>" section below.</p>
 online activities of our users — whether or not they are registered — on an
 aggregated (or collective) basis. This includes your IP address, browser type,
 and operating system. Tickle does not use this information to identify you or to
-match it with your testing or matchmaking activities. We do, however, track the
+match it with your testing activities. We do, however, track the
 number of people who view each page, and other site usage data, in order to
 learn which features are the most popular and thereby improve our service. We
 also record statistical information collected on our site to better understand
@@ -589,7 +495,7 @@ gender, age, height, preference/lifestyle information and geographic location
 for searching and matching purposes. </p>
 
 <p>Tickle uses your email address to verify membership and when forwarding
-anonymous emails to you to from other members through our matchmaking service. </p>
+anonymous emails to you to from other members.</p>
 
 <p>Your email address and full name are used when a member invites another
 person via email to join Tickle's social networking
@@ -644,11 +550,6 @@ will do our best to protect it! </p>
 <p><a name="control"></a><b>How do I control or change my information?</b><br>
 Once you become a member of Tickle, your personal information is stored in the <a href="/account/profile/">My Profile</a> section of the
 site. You may access or change your information at any time. </p>
-
-<p>If you have created a profile on our matchmaking service, you can make edits
-to the public information, which may be displayed there, by going to the <a href="/match/edit-profile.jsp">My Matchmaking Profile</a>
-section of the site. </p>
-
 <p>If you have created a profile on our social networking service, you can make
 edits to the public information, which may be displayed there, by going to the <a href="http://connect.tickle.com/profile/index.html">My
 Networking Profile</a> section of the site.</p>
@@ -823,94 +724,101 @@ updates or modifications. </p>
 
 
 
-
-
-
         <br class="clear">
       </div>  
       
       
+      
+      
+      
+        <div id="footer">
         
-      <div id="footer">
-      
-      
-        <div id="lftcol">
-          <h4>Tickle Channels</h4>
-          <ul>
-            <li><a href="http://web.tickle.com/rd/42781/channel/dating/">Dating &amp; Relationships</a></li>
-            <li><a href="http://web.tickle.com/rd/42783/channel/career/">Career &amp; Money</a></li>
-            <li><a href="http://web.tickle.com/rd/42785/channel/education/ ">Education</a></li>
-            <li><a href="http://web.tickle.com/rd/42787/channel/mind/">Mind &amp; Body</a></li>
-            <li><a href="http://web.tickle.com/rd/42789/channel/parenting/">Parenting &amp; Family</a></li>
-            <li><a href="http://web.tickle.com/rd/42791/channel/entertainment/">Entertainment &amp; Celebs</a></li>
-            <li><a href="http://web.tickle.com/rd/42793/channel/lifestyle/">Lifestyle</a></li>
-            <li><a href="http://web.tickle.com/rd/42795/channel/teens/">Teens</a></li>
-          </ul>
-        </div>
-        <div id="midcol">
-          <h4>Tickle Services</h4>
-          <ul>
-            <li><a href="http://web.tickle.com/rd/42797/tests/">Tests</a></li>
-            <li><a href="http://web.tickle.com/rd/42799/http://connect.tickle.com/">Networking</a></li>
-            
+        
+          <div id="lftcol">
+            <h4>Tickle Channels</h4>
+            <ul>
+              
+                <li><a href="http://web.tickle.com/rd/42781/channel/dating/">Dating &amp; Relationships</a></li>
+              
+              <li><a href="http://web.tickle.com/rd/42783/channel/career/">Career &amp; Money</a></li>
+              <li><a href="http://web.tickle.com/rd/42785/channel/education/ ">Education</a></li>
+              <li><a href="http://web.tickle.com/rd/42787/channel/mind/">Mind &amp; Body</a></li>
+              <li><a href="http://web.tickle.com/rd/42789/channel/parenting/">Parenting &amp; Family</a></li>
+              <li><a href="http://web.tickle.com/rd/42791/channel/entertainment/">Entertainment &amp; Celebs</a></li>
+              <li><a href="http://web.tickle.com/rd/42793/channel/lifestyle/">Lifestyle</a></li>
+              <li><a href="http://web.tickle.com/rd/42795/channel/teens/">Teens</a></li>
+            </ul>
+          </div>
+          <div id="midcol">
+            <h4>Tickle Family</h4>
+            <ul>
+              <li><a href="http://web.tickle.com/rd/42797/tests/">Tests</a></li>
+              
+                <li><a href="http://web.tickle.com/rd/42799/http://connect.tickle.com/">Networking</a></li>
               
               
                 
-              
-              <li><a href="http://web.tickle.com/rd/42801/http://match.tickle.com">Matchmaking</a></li>
-            
-            <li><a href="http://web.tickle.com/rd/42803/marriage/">Happy Marriage</a></li>
-            <li><a href="http://web.tickle.com/rd/42805/http://uk.tickle.com">Tickle UK</a></li>
-            <li><a href="http://web.tickle.com/rd/42807/http://de.tickle.com">Tickle Germany</a></li>
-            
-              
-              
+                
+                  
+                
+                
+                  <li><a href="http://web.tickle.com/rd/42801/http://www.lovehappens.com?tickleUserId=">LoveHappens</a></li>
                 
               
-              <li><a href="http://web.tickle.com/rd/42809/http://connect.tickle.com/toolbar/index.html">Download</a></li>
+              
+                <li><a href="http://web.tickle.com/rd/42803/marriage/">Happy Marriage</a></li>
+              
+              
+                <li><a href="http://web.tickle.com/rd/43026/http://www.ringo.com/">Ringo</a></li>
+              
+              <li><a href="http://web.tickle.com/rd/42805/http://uk.tickle.com">Tickle UK</a></li>
+              <li><a href="http://web.tickle.com/rd/42807/http://de.tickle.com">Tickle Germany</a></li>
+              <li><a href="http://web.tickle.com/network.jsp">The Monster Network</a></li>
+              <li><a href="http://www.monster.com" target="_blank">Search Jobs</a></li>
+            </ul>
+          </div>
+          <div id="rtcol">
             
-          </ul>
-        </div>
-        <div id="rtcol">
-          
-          
             
+              
+            
+            <h4>About Tickle</h4>
+            <ul>
+              <li><a href="http://web.tickle.com/rd/42811/about/">About Us</a></li>
+              <li><a href="http://web.tickle.com/rd/42813/about/contact.jsp">Contact Us</a></li>
+              <li><a href="http://web.tickle.com/rd/42815/about/privacy.jsp">Privacy Policy</a></li>
+              <li><a href="http://web.tickle.com/rd/42817/about/terms.jsp">Terms of Use</a></li>
+              <li><a href="http://web.tickle.com/rd/42819/http://sales.tickle.com/">Advertise</a></li>
+              <li><a href="http://web.tickle.com/rd/42821/http://support.tickle.com/">Help</a></li>
+            </ul>
+          </div>
           
-          <h4>About Tickle</h4>
-          <ul>
-            <li><a href="http://web.tickle.com/rd/42811/about/">About Us</a></li>
-            <li><a href="http://web.tickle.com/rd/42813/about/contact.jsp">Contact Us</a></li>
-            <li><a href="http://web.tickle.com/rd/42815/about/privacy.jsp">Privacy Policy</a></li>
-            <li><a href="http://web.tickle.com/rd/42817/about/terms.jsp">Terms of Use</a></li>
-            <li><a href="http://web.tickle.com/rd/42819/http://sales.tickle.com/">Advertise</a></li>
-            <li><a href="http://web.tickle.com/rd/42821/http://support.tickle.com/">Help</a></li>
-          </ul>
+          
+          <br class="clear">
         </div>
-        
-        
-        <br class="clear">
-      </div>
-      <div id="copyright">
-        <a href="http://web.tickle.com/get/matchmaking.jsp" style="text-decoration:none; color:#000;">©1999-2005</a> <a href="http://web.tickle.com/get/networking.jsp" style="text-decoration:none; color:#000;">Tickle Inc.</a> <a href="http://web.tickle.com/get/tests.jsp" style="text-decoration:none; color:#000;">All rights</a> <a href="http://web.tickle.com/get/marriage.jsp" style="text-decoration:none; color:#000;">reserved.</a>
-        
-        
-        
-      </div>
+        <div id="copyright">
+          <a href="http://web.tickle.com/get/matchmaking.jsp" style="text-decoration:none; color:#000;">©1999-2005</a> <a href="http://web.tickle.com/get/networking.jsp" style="text-decoration:none; color:#000;">Tickle Inc.</a> <a href="http://web.tickle.com/get/tests.jsp" style="text-decoration:none; color:#000;">All rights</a> <a href="http://web.tickle.com/get/marriage.jsp" style="text-decoration:none; color:#000;">reserved.</a>
+          
+          
+          
+        </div>
+      
+      
     </div>  
     
     
     
-      <script language="Javascript1.2">
-<!--
+      <script language="Javascript1.2" type="text/javascript">
+<!--<![CDATA[
 var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-//-->
+//]]>-->
 </script>
-<script language="JavaScript">
-<!--
+<script language="JavaScript" type="text/javascript">
+<!--<![CDATA[
 var gImages=new Array;
 var gIndex=0;
 var DCS=new Object();
-var gDomain="cookie.tickle.com";
+var gDomain="cookie.monster.com";
 var gDcsId="DCS000042_3X1N";
 function dcsVar(){
 	var dCurrent=new Date();
@@ -965,10 +873,10 @@ function dcsTag(){
 }
 dcsVar();
 dcsTag();
-//-->
+//]]>-->
 </script>
 <noscript>
-<img border="0" name="DCSIMG" width="1" height="1" src="http://cookie.tickle.com/DCS000042_3X1N/njs.gif?dcsuri=/nojavascript">
+<img border="0" name="DCSIMG" width="1" height="1" src="http://cookie.monster.com/DCS000042_3X1N/njs.gif?dcsuri=/nojavascript">
 </noscript>
     
     
@@ -976,16 +884,28 @@ dcsTag();
     
     
     
+      <iframe src="http://web.tickle.com/ads/adcompixel.jsp" name="adcompix" id="adcompix" width="1" height="1" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+    
+    
+     
+    
       
-        
+        <div id="tickleftr">
           
-        
+            
+          
+        </div>
+      
+    
+    <div id="cornertear"></div>
+    
+    
+     
+      
       
     
     
     
-   
-       
   
 
 
