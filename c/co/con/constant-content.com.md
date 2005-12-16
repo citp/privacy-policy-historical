@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the constant-content.com privacy policy that was archived on 2005-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050323023250id_/http%3A//www.constant-content.com/privacy/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constant-content.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216232901id_/http%3A//www.constant-content.com/privacy/1) for the most accurate reproduction.*
 
-# Constant Content - Purchase Articles, Tutorials and Reviews
+# Constant Content - Article Search Purchase Articles
 
 ## Our Privacy Policy
 
-**PRIVACY STATEMENT**  
-constant-content.com provides a free interactive game on the Internet. We recognize and support the need to protect the privacy rights of our members through disclosure of our practices for collection and use of member information. 
+**PRIVACY STATEMENT  
+**We recognize and support the need to protect the privacy rights of our members through disclosure of our practices for collection and use of member information. 
 
 In general, you can visit the constant-content.com site on the Web at any time without telling us who you are or revealing any information about yourself. We do not log either the IP address for collecting information, or type of operating system and browser software used by each visitor to the constant-content.com site. We do not collect information so that we can derive the identity of the visitor's geographic location and Internet Service Provider. 
 
