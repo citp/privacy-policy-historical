@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the apologeticspress.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404031216id_/http%3A//www.apologeticspress.org/modules.php%3Fname%3DInfo%26cat%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apologeticspress.org privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217000646id_/http%3A//apologeticspress.org/apinfo/privacy) for the most accurate reproduction.*
 
-# Apologetics Press
+# Apologetics Press - Privacy Statement
 
 |   
-[Copyright Notice](https://web.archive.org/web/20050404031216id_/http%3A//www.apologeticspress.org/modules.php?name=Info&cat=1) | [Usage Guidelines](https://web.archive.org/web/20050404031216id_/http%3A//www.apologeticspress.org/modules.php?name=Info&cat=2) | [Privacy Statement](https://web.archive.org/web/20050404031216id_/http%3A//www.apologeticspress.org/modules.php?name=Info&cat=4)
+[Copyright Notice](https://web.archive.org/apinfo/copyright) | [Usage Guidelines](https://web.archive.org/apinfo/usage) | [Privacy Statement](https://web.archive.org/apinfo/privacy)
 
 Effective January 1, 2001
 
