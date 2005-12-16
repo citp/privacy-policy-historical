@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the inkgrabber.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624013424id_/http%3A//www.inkgrabber.com/privatepolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkgrabber.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216043355id_/http%3A//www.inkgrabber.com/privatepolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  |  |   | 
+  | 
+
+[](https://www.scanalert.com/RatingVerify?ref=www.inkgrabber.com)
+
+|   | 
 
 > **PRIVACY POLICY**
 > 
