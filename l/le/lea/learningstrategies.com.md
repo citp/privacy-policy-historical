@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525184728id_/http%3A//www.learningstrategies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216224548id_/http%3A//www.learningstrategies.com/privacy.html) for the most accurate reproduction.*
 
 # Learning Strategies Corporation Privacy Policy
 
@@ -16,7 +16,7 @@ If you visit our site to read or download information:
 
 If you identify yourself by sending an email or ordering from our site: 
 
-         You may decide to send us personally identifying information, for example, in an email or an order. We will use this information to better serve you. Occasionally we may send you product announcements or tips on getting more benefit from our products-these may come via the mail or email. At any time, you can tell us not to contact you in this manner. 
+         You may decide to send us personally identifying information, for example, in an email or an order. Each time you do so, we will use this information to better serve you. Occasionally we may send you product announcements or tips on getting more benefit from our products-these may come via the mail or email. At any time, you can tell us not to contact you in this manner. 
 
          We want to be very clear: We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us. 
 
@@ -26,4 +26,4 @@ Will we disclose any personal information we collect to outside parties?
 
          We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
 
-         Please [contact us](https://web.archive.org/web/20050525184728id_/http%3A//www.learningstrategies.com/ReachUs.html) with any questions or concerns. 
+         Please [contact us](https://web.archive.org/web/20051216224548id_/http%3A//www.learningstrategies.com/ReachUs.html) with any questions or concerns. 
