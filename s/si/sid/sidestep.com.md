@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidestep.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630084348id_/http%3A//www.sidestep.com/html/support/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidestep.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216065904id_/http%3A//www.sidestep.com/html/support/privacy_policy.html) for the most accurate reproduction.*
 
 # Cheap Airline Tickets, Discount Hotels and Airfare - SideStep Travel
 
@@ -87,7 +87,5 @@ SideStep, Inc.
 3131 Jay Street, Ste 210  
 Santa Clara, CA 95054  
 Attention: Privacy Officer 
-
-SideStep, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This Privacy Policy covers the SideStep Web Site. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. If users have questions or concerns regarding this statement, you should first contact please email us at [privacy@Sidestep.com](mailto:privacy@Sidestep.com). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the SideStep to resolve users concerns. However, please understand the TRUSTe program covers only information that is collected through the SideStep Web site, and does not cover information that may be collected through software downloaded from the SideStep Web Site. 
 
 09/15/04
