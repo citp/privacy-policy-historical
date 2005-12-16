@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsnrecipes.com privacy policy that was archived on 2004-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040530042858id_/http%3A//www.gsnrecipes.com/gsn/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsnrecipes.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216102614id_/http%3A//www.gsnrecipes.com/gsn/privacy.cfm) for the most accurate reproduction.*
 
 # GSN Recipe Solutions
 
