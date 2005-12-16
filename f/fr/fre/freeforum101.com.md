@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeforum101.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204142617id_/http%3A//www.freeforum101.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeforum101.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216143045id_/http%3A//www.freeforum101.com/privacy.html) for the most accurate reproduction.*
 
 # freeforum101.com * reliable phpbb hosting / webhosting with great network & dedicated server uptime
 
