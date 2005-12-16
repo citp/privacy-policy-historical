@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2004-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041225213419id_/http%3A//www.nfsunlimited.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216042242id_/http%3A//www.nfsunlimited.net/privacy) for the most accurate reproduction.*
 
 # NFSUnlimited.net :: The Need for Speed
+
+Privacy Policy
 
 **NFS Unlimited** has created this privacy statement in order to demonstrate our  commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [NFS Unlimited](http://www.nfsunlimited.net/)
 
@@ -29,7 +31,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 webmaster at nfsunlimited dot net
 
- 
+* * *
 
 **Advertisment**  
 
