@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedypin.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408044724id_/http%3A//speedypin.com/prepaid/phone-cards/privacy/general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedypin.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216185708id_/http%3A//speedypin.com/prepaid/phone-cards/privacy/general) for the most accurate reproduction.*
 
 # SpeedyPin FAQs: Privacy > General
 
@@ -9,9 +9,7 @@ Please choose a general category below to begin your search. A list of questions
 
 **_What is your privacy policy?_** (5371d)
 
-SpeedyPin does not rent, sell or otherwise share with others the information you provide us. We may send an occasional email or U.S. postal mail message to you about our   
-products. You may always opt-out of SpeedyPin  
-'s email list. For more detailed information, read our full P3P privacy policy online [here](https://web.archive.org/privacy.html).
+SpeedyPin does not rent, sell or otherwise share with others the information you provide us. We may send an occasional email or U.S. postal mail message to you about our products. You may always opt-out of SpeedyPin's email list. For more detailed information, read our full P3P privacy policy online [here](https://web.archive.org/privacy.html).
 
  ** _Why do I need to create an account?_** (5aa97)
 
