@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscis.gov privacy policy that was archived on 2005-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050521003250id_/http%3A//uscis.gov/graphics/privnote.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscis.gov privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216070620id_/http%3A//uscis.gov/graphics/privnote.htm) for the most accurate reproduction.*
 
 # USCIS: Privacy and Legal Disclaimers
 
@@ -40,7 +40,7 @@ For site security purposes and to ensure that this service remains available to 
 
 ****
   1. ****This World Wide Web (WWW) site is provided as a public service. Every effort is made to provide complete and accurate information. However, with the volume of documents available, often uploaded with short deadlines, we cannot guarantee there will be no errors. We will do our best to correct errors brought to our attention. With respect to documents and information on this Website, neither the U.S. Government, the Department of Homeland Security, nor their employees and contractors make any warranty, express or implied, including the warranties of merchantability and fitness for a particular purpose, or warranties of non-infringement of third party rights, title, and freedom from computer virus.
-  2. Information presented on this WWW site is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credit is requested.
-  3. Websites listed on the links page are not under the control of DHS. Therefore, we make no representation concerning the content of these sites, nor can the fact that we provided this listing serve as an endorsement by DHS of any of these sites. We are providing this list as a convenience only. 
+  2. Information presented on this WWW site is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credit is requested. Some of the images on USCIS.gov have been licensed for use by USCIS on a non-exclusive and non-transferable basis. All other rights to these images, including without limitation and copyright, are retained by the owner of the images. They are not in the public domain and should not be used except as they appear as part of this website. If you are interested in using one of these images, please [contact the USCIS Web Unit](https://web.archive.org/web/20051216070620id_/http%3A//uscis.gov/graphics/feedback.htm).  
+  3. External Websites listed on our pages are not under the control of DHS. Therefore, we make no representation concerning the content of these sites, nor can the fact that we provided this listing serve as an endorsement by DHS of any of these sites. We provide these links as a convenience only. 
 
 
