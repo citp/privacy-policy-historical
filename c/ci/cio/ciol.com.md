@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ciol.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306140954id_/http%3A//www.ciol.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciol.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216220546id_/http%3A//www.ciol.com/company/privacy) for the most accurate reproduction.*
 
 # 
 
-Cyber India Online has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
+**Privacy Statement for Cyber India Online Limited**
+
+Cyber India Online Limited has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
 **Information Automatically Logged  
 **We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you, and to gather broad demographic information. 
@@ -45,7 +47,7 @@ Demographic and profile data is also collected at our site.
 This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
 **External Links  
-**This site contains links to other sites. Cyber India Online is not responsible for the privacy practices or the content of such Web sites.
+**This site contains links to other sites. Cyber India Online Limited is not responsible for the privacy practices or the content of such Web sites.
 
 **Public Forums  
 **This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
@@ -65,7 +67,7 @@ You can send email to [webmaster@ciol.com](mailto:webmaster@ciol.com)
 
 You can send mail to the following postal address
 
-Cyber India Online  
+Cyber India Online Limited  
 402, 4th Floor, MBC  
 134, Infantry Road  
 Bangalore  
