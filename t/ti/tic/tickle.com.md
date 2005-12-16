@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the tickle.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404015530id_/http%3A//web.tickle.com/rd/42814/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickle.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216083539id_/http%3A//web.tickle.com/rd/42814/about/privacy.jsp) for the most accurate reproduction.*
 
 # Tickle: Tests, Matchmaking and Social Networking
 
-Products and Services
+Products
+
+Services
 
 |  | 
 
@@ -21,7 +23,7 @@ Tickle is an online media company that brings you fun, insightful, and personali
 
 We want to give you information that you care about and that is relevant to you. So, we enter into a voluntary relationship with you where we listen to who you are, and what you want. Then we go out and find it and bring it back to you in the most personalized services possible. It's that simple, and it's that cool — our emails and services are all about you and the data you disclose to us makes it possible to deliver what you truly want.
 
-[](https://www.truste.org/ivalidate.php?url=www.tickle.com)
+[](http://www.truste.org/ivalidate.php?url=www.tickle.com&sealid=101)
 
 Tickle is a member of the TRUSTe Privacy Program. License updated on August 9, 2004.
 
@@ -48,11 +50,11 @@ Many of the ways in which you interact with our site allow us to learn more abou
 
 Personal information includes your email address and self-created password. This information is considered personally identifiable and will not be displayed on our site. Special provisions apply to the Open Group Tests. See the "Tell me about the Open Group Tests" section below. 
 
-Public information is information that helps us to personalize your Tickle experience. Public information may include, but is not limited to, member-submitted information such as your username, first name, last name, gender, age, height, lifestyle information, geographic location, and photo. Much of this information is optional, and meant to be seen by members to support the function of the site as a social networking and matchmaking service.
+Public information is information that helps us to personalize your Tickle experience. Public information may include, but is not limited to, member-submitted information such as your username, first name, last name, gender, age, height, lifestyle information, geographic location, and photo. Much of this information is optional, and meant to be seen by members to support the function of the site as a social networking service.
 
 Special provisions apply to the social networking service. See the "How do I control or change my information?" section below.
 
-We collect and store certain technical and other information about the online activities of our users — whether or not they are registered — on an aggregated (or collective) basis. This includes your IP address, browser type, and operating system. Tickle does not use this information to identify you or to match it with your testing or matchmaking activities. We do, however, track the number of people who view each page, and other site usage data, in order to learn which features are the most popular and thereby improve our service. We also record statistical information collected on our site to better understand our audience. This information is recorded as anonymous group statistical information and is not connected to any personal information unless you register as an Tickle member. 
+We collect and store certain technical and other information about the online activities of our users — whether or not they are registered — on an aggregated (or collective) basis. This includes your IP address, browser type, and operating system. Tickle does not use this information to identify you or to match it with your testing activities. We do, however, track the number of people who view each page, and other site usage data, in order to learn which features are the most popular and thereby improve our service. We also record statistical information collected on our site to better understand our audience. This information is recorded as anonymous group statistical information and is not connected to any personal information unless you register as an Tickle member. 
 
 When you become a member of Tickle, your name and email address will be linked to your testing information. If you prefer to not link the testing information to your personal information, you may delete the test in your [My Tests](https://web.archive.org/account/tests/) section. As a registered member, you can choose to receive our email newsletter. Tickle may use URL tracking in the emails sent to you. When you open such email messages, our system may record the following data: the time you viewed the email and the URLs that you clicked on from that email. Tickle will also record if your email program is capable of receiving HTML-encoded email. URL tracking may use cookies. 
 
@@ -71,7 +73,7 @@ Tickle may use aggregated, statistical information to describe our audience, ser
 
 Tickle uses public information such as your username, first name, last name, gender, age, height, preference/lifestyle information and geographic location for searching and matching purposes. 
 
-Tickle uses your email address to verify membership and when forwarding anonymous emails to you to from other members through our matchmaking service. 
+Tickle uses your email address to verify membership and when forwarding anonymous emails to you to from other members.
 
 Your email address and full name are used when a member invites another person via email to join Tickle's social networking service, or when a member requests to add another member to their friends network.
 
@@ -93,8 +95,6 @@ Back to top
 
 **How do I control or change my information?**  
 Once you become a member of Tickle, your personal information is stored in the [My Profile](https://web.archive.org/account/profile/) section of the site. You may access or change your information at any time. 
-
-If you have created a profile on our matchmaking service, you can make edits to the public information, which may be displayed there, by going to the [My Matchmaking Profile](https://web.archive.org/match/edit-profile.jsp) section of the site. 
 
 If you have created a profile on our social networking service, you can make edits to the public information, which may be displayed there, by going to the [My Networking Profile](http://connect.tickle.com/profile/index.html) section of the site.
 
