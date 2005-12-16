@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kansan.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305041143id_/http%3A//www.kansan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kansan.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216080121id_/http%3A//www.kansan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kansan.com
 
@@ -59,7 +59,3 @@ The importance of security for all personally identifiable information associate
 By using this site, you signify your assent to the Kansan.com Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Kansan.com sites following the posting of changes to these terms will mean you accept those changes.
 
 Last Updated 8/27/2003
-
-###### Advertisement
-
-###### Advertisement
