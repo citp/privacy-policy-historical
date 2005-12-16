@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jinx.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403113635id_/http%3A//www.jinx.com/scripts/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinx.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216220933id_/http%3A//www.jinx.com/scripts/privacy.asp) for the most accurate reproduction.*
 
 # J!NX - Gamer Geek Hacker Computer Nerd T-Shirts TShirts T-Shirt TShirt Shirts Shirt Hats Sweatshirts Clothes Clothing Gaming Hacking
 
