@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobcentral.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403190640id_/http%3A//www.jobcentral.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcentral.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216121044id_/http%3A//jobcentral.com/privacystatement.asp) for the most accurate reproduction.*
 
 # JobCentral - Employment Network
 
