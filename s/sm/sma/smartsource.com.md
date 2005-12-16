@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsource.com privacy policy that was archived on 2004-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041107015317id_/http%3A//rt2.smartsource.com/aboutus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsource.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216200938id_/http%3A//rt2.smartsource.com/aboutus/privacy.aspx) for the most accurate reproduction.*
 
 # SmartSource: Grocery Coupons
 
@@ -72,7 +72,7 @@ SmartSource uses reasonable administrative, technical, personnel and physical me
 
 **_ACCESS:_** _HOW TO ACCESS, CORRECT OR DELETE YOUR PII_
 
-Whenever possible, SmartSource will permit you to review the PII we have collected from you, to correct any PII that is incorrect and to instruct us to make your PII inactive in our files. If you want to do any of these things, click on the "Personal Profile" link on the Get Coupons page. On your Personal Profile Page, you can modify any of your PII elements and opt out of further communication from SmartSource.com. Additionally, you can send an email message to [ webmaster@smartsource.com](mailto:webmaster@smartsource.com) with your name, mailing address, and email address to specify what actions you would like to be taken with respect to your PII. Please note that we will not be able to delete your historical usage information from our aggregate files.  
+Whenever possible, SmartSource will permit you to review the PII we have collected from you, to correct any PII that is incorrect and to instruct us to make your PII inactive in our files. If you want to do any of these things, click on the "Personal Profile" link on the Get Coupons page. On your Personal Profile Page, you can modify any of your PII elements and opt out of further communication from SmartSource.com. Additionally, you can send an email message to [ webmaster@smartsource.net](mailto:webmaster@smartsource.net) with your name, mailing address, and email address to specify what actions you would like to be taken with respect to your PII. Please note that we will not be able to delete your historical usage information from our aggregate files.  
   
 |  |    
 |  | 
@@ -80,7 +80,7 @@ Whenever possible, SmartSource will permit you to review the PII we have collect
 _**REMEDIES AND COMPLIANCE:** HOW TO CONTACT SMARTSOURCE ABOUT PRIVACY CONCERNS_
 
 If you want to communicate with SmartSource about this Privacy Policy, or have questions about our use of your PII, please send an email to:  
-webmaster@smartsource.com.  
+webmaster@smartsource.net.  
 We can also be contacted by mail at the following address:
 
 Webmaster  
