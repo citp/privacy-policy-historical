@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the selectpayment.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011114115id_/http%3A//www.selectpayment.com/AboutUs/PrivacyPolicy.asp%3FInfo%3D%26context%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectpayment.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216014139id_/http%3A//www.selectpayment.com/selectpayment/AboutUs/PrivacyPolicy.asp%3FInfo%3D%26context%3D) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Select Payment takes privacy and data protection issues very seriously. Select Payment Privacy Policy is designed to ensure the safety of personal identity information collected from merchants who sign up for Select Payment electronic check or check conversion services and submit information through the Internet. 
 
-As the Select Payment services change, we may revise this policy. If you have questions about Select Payment privacy practices please contact us at [support@selectpayment.com](https://web.archive.org/AboutUs/EmailUs.asp?to=support@selectpayment.com&Context=). 
+As the Select Payment services change, we may revise this policy. If you have questions about Select Payment privacy practices please contact us at [support@selectpayment.com](https://web.archive.org/selectpayment/AboutUs/EmailUs.asp?to=support@selectpayment.com&Context=). 
 
 Select Payment Privacy Policy covers the handling of personal information collected from merchants who use the Select Payment electronic check processing solution, as well as consumer information that we acquire in the course of our business. This Policy also covers the handling of personal information that Select Payment business partners may share with it. 
 
