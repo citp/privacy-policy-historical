@@ -1,86 +1,84 @@
-> *The following text is extracted and transformed from the gamecrazy.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801185646id_/http%3A//gamecrazy.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecrazy.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216203957id_/http%3A//gamecrazy.com/util/offsite.aspx%3Furl%3Dhttp%3A//www.hollywoodvideo.com/company/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Hollywood Video - Privacy Policy
 
-Hollywood Entertainment Corporation owns and operates GameCrazy.com. We also do business as Hollywood Video and Reel.com. We are committed to safeguard your privacy online at this website: www.gamecrazy.com. We use standard Internet processes to protect the security of your online information.
+This policy applies to the following Hollywood Entertainment internet sites: [hollywoodvideo.com](http://hollywoodvideo.com/), [reel.com](https://web.archive.org/offsite.aspx?url=http://reel.com), [gamecrazy.com](https://web.archive.org/offsite.aspx?url=http://www.gamecrazy.com), and [hollywoodvideogiftcards.com](https://web.archive.org/offsite.aspx?url=http://www.hollywoodvideogiftcards.com). We created this privacy statement to describe our commitment to your privacy. We seek to protect your private information so that you have a pleasurable viewing experience on our Web sites. To remove yourself from one of our mailing lists, click on the “unsubscribe” link at the bottom of the newsletter. We share your personally identifiable information with trusted third parties, only as necessary to provide products or services requested by you. We will not sell, rent, or trade your personal information to third parties for use by them to send you unsolicited commercial offers. We do not collect or retain personally identifiable information from children under 13 years of age. We welcome and encourage your questions, comments, and suggestions. If you have questions or comments, please contact us at [privacy@Hollywoodvideo.com](mailto:privacy@Hollywoodvideo.com).
 
-As part of our operation of this website, we may collect information about you and your IP address when you enter our contests, register on our public Features or sign-up for our email newsletter. We ask you for contact information (like e-mail addresses), demographic information (like zip code, age and gender), and identifying information (like your Hollywood Video account number). In addition, we maintain a record of your product interests, game platforms, and genre preferences.
+This policy discusses the following topics:
 
-We use your IP address to gather broad demographic information. We may use other information collected from you to send you information about our company, such as promotions and sales. The information may also be used to contact you directly when necessary, e.g. if you are a prizewinner or have a lost password. We may also use this information to improve our website and stores and to match online activity with store activity. Customers on Game Crazy mailing lists may also receive mailings from Hollywood Video or Reel.com. You may opt-out of receiving future mailings; see the choice/opt-out section below. Your information is not shared with any third parties or other companies not owned by Hollywood Entertainment Corporation.
-
-We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed other than as set forth in the Statement. We may be required to disclose information to government or third parties under certain circumstances. Also, third parties may unlawfully intercept or access transmissions or private communications. We do not promise that your personal information or private communications will remain private.
-
-We also use cookies, at your option. A cookie is a small piece of information that makes use of this website easier. The information is stored on your computer's hard drive. The cookie will contain your Features password so you do not have to re-enter it each time you visit our Featuress or chat rooms. Hollywood does not store personal identification information in your cookie at this website.
-
-This site contains links to other sites. GameCrazy.com is not responsible for the privacy practices or the content of such websites.
-
-**Public Featuress**
-
-This site makes chat rooms, Featuress, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-Our site's Features registration form requires users to give us their name and e-mail address. This information is used as described above.
-
-**Choice/Opt-Out**
-
-This site gives users the following options for removing their information from our database to not receive further communication or to no longer receive our service.
-
-  1. You can follow the instructions in the e-mail that you receive. 
-  2. You can send e-mail to [privacy@hollywoodvideo.com](mailto:privacy@hollywoodvideo.com)
+  * Personally Identifiable Information: What It Is, Where We Collect It, How We Use It, and To Whom We Disclose It
+  * Cookies: What A Cookie Is and How We Use Them
+  * Children: Our Policy For Guests Under Age 13
+  * Choices You Have: How To Update Your Personally Identifiable Information, Cancel Your Newsletter Subscription and Disable Cookies
+  * Changes To This Privacy Policy: Information About Additions and Deletions To This Page
+  * Contact Information: How You Can Contact Us
 
 
 
-**Correct/Update**
+## Personally Identifiable Information
 
-You may change or update information previously provided to us by sending an e-mail to [games-webproducer@hlyw.com](mailto:games-webproducer@hlyw.com) with the correct information. You must promptly update your information if it changes.
+_What Personally Identifiable Information Is:_
 
-**Contacting the Website**
+Personally identifiable information is any information that identifies you as an individual. It does not include information about what you do on our site, because that information is kept anonymously in aggregated form. It does include your name, address, email address, phone number and/or credit card information.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact
+_Where We Collect Personally Identifiable Information:_
 
-Web Producer  
-Game Crazy Stores  
-Hollywood Entertainment Corporation  
-9275 SW Peyton Lane  
-Wilsonville, OR 97070  
-[games-webproducer@hlyw.com](mailto:games-webproducer@hlyw.com)
-Hollywood Entertainment Corporation owns and operates GameCrazy.com. We also do business as Hollywood Video and Reel.com. We are committed to safeguard your privacy online at this website: www.gamecrazy.com. We use standard Internet processes to protect the security of your online information.
+Our sites may collect personally identifiable information submitted by you, if you are over 13 years of age. You are required to provide certain personally identifiable information in order to (1) apply for Online Membership, (2) subscribe to one of our newsletters, (3) enter one of our sweepstakes or trivia contests, (4) buy gift cards, (5) use our Store Locator, and (6) submit feedback, questions or “contact us” messages by email.
 
-As part of our operation of this website, we may collect information about you and your IP address when you enter our contests, register on our public Features or sign-up for our email newsletter. We ask you for contact information (like e-mail addresses), demographic information (like zip code, age and gender), and identifying information (like your Hollywood Video account number). In addition, we maintain a record of your product interests, game platforms, and genre preferences.
+For more information about where we collect personally identifiable information, please [click here](https://web.archive.org/company/privacy_details.aspx).
 
-We use your IP address to gather broad demographic information. We may use other information collected from you to send you information about our company, such as promotions and sales. The information may also be used to contact you directly when necessary, e.g. if you are a prizewinner or have a lost password. We may also use this information to improve our website and stores and to match online activity with store activity. Customers on Game Crazy mailing lists may also receive mailings from Hollywood Video or Reel.com. You may opt-out of receiving future mailings; see the choice/opt-out section below. Your information is not shared with any third parties or other companies not owned by Hollywood Entertainment Corporation.
+_How We Use Personally Identifiable Information:_
 
-We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed other than as set forth in the Statement. We may be required to disclose information to government or third parties under certain circumstances. Also, third parties may unlawfully intercept or access transmissions or private communications. We do not promise that your personal information or private communications will remain private.
+If you sign up for Online Membership, we will use your personally identifiable information to personalize your experience on our sites. If you give us permission, we will use your personal information to contact you for certain purposes, such as our newsletter.
 
-We also use cookies, at your option. A cookie is a small piece of information that makes use of this website easier. The information is stored on your computer's hard drive. The cookie will contain your Features password so you do not have to re-enter it each time you visit our Featuress or chat rooms. Hollywood does not store personal identification information in your cookie at this website.
+Our sites compile aggregate data from all of our customers to prepare internal reports about which web pages are popular, how many total unique users visit our site, and different traffic patterns on the site. We do not combine personally identifiable information with information about web pages visited, purchases made, or any other clickstream data.
 
-This site contains links to other sites. GameCrazy.com is not responsible for the privacy practices or the content of such websites.
+For more information about how we use personally identifiable information, please [click here](https://web.archive.org/company/privacy_details.aspx).
 
-**Public Featuress**
+_Who We Disclose Personally Identifiable Information To:_
 
-This site makes chat rooms, Featuress, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+We will not sell, rent, or trade your personal information to third parties for use by them to send you unsolicited commercial offers. We do share your information with trusted third parties (other companies) that help us with administering our web sites, responding to your requests, and providing you with products and services. We do not allow these other companies to use your information except for the purpose it was provided. We will also disclose personal information when required by law, or if we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us, or to prevent violations of the law, injury to person or property, or any harm to us or others.
 
-Our site's Features registration form requires users to give us their name and e-mail address. This information is used as described above.
+For more information about how and when we may disclose personally identifiable information, please [click here](https://web.archive.org/company/privacy_details.aspx).
 
-**Choice/Opt-Out**
+## Cookies
 
-This site gives users the following options for removing their information from our database to not receive further communication or to no longer receive our service.
+A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. Cookies store information about your use of a particular Web site or service and are typically used to make services more convenient and personalized. We use anonymous cookies called “session cookies” to measure traffic patterns to areas of our site and to features mentioned in our newsletter. Session cookies are created each time you visit one of our sites, and do not remain on your computer after you leave the site. We use personalized cookies when you have registered as an Online Member, to customize your user experience. Personalized cookies are linked to your personal information and remain on your computer after you leave our site.
 
-  1. You can follow the instructions in the e-mail that you receive. 
-  2. You can send e-mail to [privacy@hollywoodvideo.com](mailto:privacy@hollywoodvideo.com)
+For more information about cookies and how we use them, please [click here](https://web.archive.org/company/privacy_details.aspx).
 
+## Children
 
+Our sites comply with the requirements of the Children's Online Privacy Protection Act (COPPA) and the Federal Trade Commission's rules interpreting COPPA (16 CFR § 512). We do not collect or retain personally identifiable information from children under 13 years of age. We do not permit children under 13 to register as Online Members, and we do not use personalized cookies for children under 13. If we learn that a child under 13 has submitted personally identifiable information to us by misrepresenting his or her age, we will delete that information from our records.
 
-**Correct/Update**
+## Choices You Have
 
-You may change or update information previously provided to us by sending an e-mail to [games-webproducer@hlyw.com](mailto:games-webproducer@hlyw.com) with the correct information. You must promptly update your information if it changes.
+_How To Update Your Personally Identifiable Information:_
 
-**Contacting the Website**
+To update or change the personally identifiable information you have given us, logon to your Online Membership account, or send us an email with your updated information. Send email to [privacy@hollywoodvideo.com](mailto:privacy@hollywoodvideo.com).
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact
+## How To Cancel Your Subscription to Our Newsletter
 
-Web Producer  
-Game Crazy Stores  
-Hollywood Entertainment Corporation  
-9275 SW Peyton Lane  
-Wilsonville, OR 97070  
-[games-webproducer@hlyw.com](mailto:games-webproducer@hlyw.com)
+Please open the last newsletter your received and click on the “unsubscribe” link at the bottom. If you have any difficulties or questions please email us at [newsreel@hollywoodvideo.com](mailto:newsreel@hollywoodvideo.com).
+
+## Changes to this Privacy Policy
+
+Please return to this page from time to time, as we will be updating this statement as our services continue to grow. If we make substantial changes in the way we collect or use your personally identifiable information, we will notify you by posting a prominent announcement on our pages prior to implementation.
+
+## External Links
+
+Our sites contain links to other Web sites not owned or operated by us. Although we try to provide links only to trustworthy sites, we are not responsible for the privacy practices or content of external sites. Online purchases of titles described on [reel.com](https://web.archive.org/offsite.aspx?url=http://reel.com) are through [Amazon.com](https://web.archive.org/offsite.aspx?url=http://amazon.com), and submission of your personal information to [Amazon.com](https://web.archive.org/offsite.aspx?url=http://amazon.com) is governed by the privacy policy of [Amazon.com](https://web.archive.org/offsite.aspx?url=http://amazon.com), not by this policy.
+
+## Business Transitions
+
+In the event we go through a business transition, such as a merger, acquisition by another company, or sale of a portion of our assets, your personal information may be part of the assets transferred. You will be notified via prominent notice on our Web site at least 30 days prior to a change of ownership or control of your personal information. If, as a result of the business transition, your personally identifiable information will be used in a manner materially different from that stated at the time of collection, you will be given the option to delete your information from our records.
+
+## Security
+
+We take commercially reasonable precautions to protect our customers' information. Because network security measures are not infallible, we cannot guarantee the security of your information.
+
+When you order gift cards or make other online purchases from us, sensitive information such as your credit card number is encrypted. We also make an effort to protect your information off-line. All of our customers' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Finally, the servers that store your personally identifiable information are housed in a secure environment.
+
+## Site Ownership and Contact Information
+
+Our sites are owned and operated by Hollywood Entertainment Corporation and/or its affiliates. Subject to your rights as described in this privacy policy, all customer information collected on our sites is the sole property of Hollywood Management Corporation, Inc., an affiliate of Hollywood Entertainment Corporation. Please direct your comments and questions to us via email at [privacy@hollywoodvideo.com](mailto:privacy@hollywoodvideo.com), via telephone at 1-877-325-8687, or via mail at Hollywood Entertainment Corporation, Attention: Legal Dept., 9275 Peyton Lane, Wilsonville, OR 97070.
