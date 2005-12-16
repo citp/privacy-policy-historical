@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planninggroup.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806054638id_/http%3A//www.planninggroup.com/PGI_Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planninggroup.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216205723id_/http%3A//www.planninggroup.com/PGI_Privacy_Policy.htm) for the most accurate reproduction.*
 
 # PlanningGroup.com Privacy Policy
 
@@ -10,7 +10,7 @@ Planning Group International, Inc.
 12910 S.W. 89th Ct.  
 Miami, FL 33176
 
-We can be reached via e-mail at [support@planninggroup.com](mailto:support@planninggroup.com)  
+We can be reached via e-mail at [support@planninggroup.com](mailto:%73%75%70%70%6F%72%74%40%70%6C%61%6E%6E%69%6E%67%67%72%6F%75%70%2E%63%6F%6D)   
 or you can reach us by telephone at 305-253-0100.
 
 **Planning Group International, Inc. Privacy Promise for Consumers**
@@ -33,7 +33,7 @@ While providing real-time online performance metrics is the cornerstone of our b
 
 In order to provide better service or to address security hazards, we will occasionally use a "cookie". A cookie is a small piece of information which a Web site stores on your Web browser on your PC and can later retrieve. The cookie cannot be read by a Web site other than the one that set the cookie. Most cookies last only through a single session, or visit to our site. None will contain information that will enable anyone to contact you via telephone, e-mail, or any other means. You can set up your Web browser to inform you when cookies are set or to prevent cookies from being set.
 
-[Click here](https://web.archive.org/web/20040806054638id_/http%3A//www.planninggroup.com/data_collection.htm) for a detailed description on our data collection.
+[Click here](https://web.archive.org/web/20051216205723id_/http%3A//www.planninggroup.com/data_collection.htm) for a detailed description on our data collection.
 
 **With respect to security:** We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
