@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305070157id_/http%3A//www.ellisisland.org/EIinfo/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216202530id_/http%3A//www.ellisisland.org/EIinfo/privacy.asp) for the most accurate reproduction.*
 
 # Ellis Island Passenger Arrivals : American Family Immigration History Center
 
@@ -25,9 +25,7 @@ Personal identifying information may include name, street address, phone number 
   
 SOLEIF uses personal information provided by you in order to improve the AFIHC Experience, to publish information you have submitted to the AFIHC Experience in posting Annotations and in creating and editing Family Scrapbooks (subject to the [Sustaining Member Terms and Conditions](https://web.archive.org/membership/wme_1c.asp)), to help us to service Sustaining Members, to provide you with products or services and to inform you about additional products or services that may be of interest to you.   
   
-SOLEIF may share personal information with third parties in the following circumstances: to our corporate sponsors as part of normal business operations; where we believe in good faith that disclosure is required by applicable law; to cooperate with regulators or law enforcement authorities; to protect our rights or property; or to enforce the terms of our [Terms of Service](https://web.archive.org/EIinfo/terms.asp) or the [Sustaining Member Terms and Conditions](https://web.archive.org/membership/wme_1c.asp), which are applicable to Sustaining Members and their Guests.   
-  
-SOLEIF also may share personal information with unaffiliated third parties that SOLEIF believes offer products or services that would be of interest to you. If you would like to opt-out of such offers for third-party products and services, you may contact SOLEIF at [historycenter@ellisisland.org](mailto:historycenter@ellisisland.org).   
+SOLEIF may share personal information with third parties in the following circumstances: to our corporate sponsors as part of normal business operations; where we believe in good faith that disclosure is required by applicable law; to cooperate with regulators or law enforcement authorities; to protect our rights or property; or to enforce the terms of our [Terms of Service](https://web.archive.org/EIinfo/terms.asp) or the [Sustaining Member Terms and Conditions](https://web.archive.org/membership/wme_1c.asp), which are applicable to Sustaining Members and their Guests.    
   
 SOLEIF understands the importance of providing you with access to any personal information SOLEIF has collected from you. If you would like to review or correct any inaccurate information we have collected, you may contact SOLEIF at [historycenter@ellisisland.org](mailto:historycenter@ellisisland.org).   
   
@@ -49,7 +47,9 @@ SOLEIF does not collect any information from children that would allow a child t
   
 Your use of the AFIHC Experience at Ellis Island and online at www.ellisisland.org signifies that you agree to the terms of this Privacy Policy.   
   
-Last Updated - March 23, 2004   
+You can contact the Foundation at: The Statue of Liberty-Ellis Island Foundation, Inc., 292 Madison Avenue, New York, NY 10017; or by calling 212-561-4500.   
+  
+Last Updated - April 6, 2005   
   
   
 ---|---
