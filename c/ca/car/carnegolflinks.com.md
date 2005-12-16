@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carnegolflinks.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305032544id_/http%3A//www.carnegolflinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnegolflinks.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216022035id_/http%3A//www.carnegolflinks.com/privacy.php) for the most accurate reproduction.*
 
 # Carne Golf Links Privacy Statement
 
