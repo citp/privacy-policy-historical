@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mandalaybay.com privacy policy that was archived on 2005-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050609075148id_/http%3A//www.mandalaybay.com/corporate/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandalaybay.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216225827id_/http%3A//www.mandalaybay.com/corporate/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Mandalay Bay Resort and Casino - Privacy Policy
+# Mandalay Bay Resort and Casino - Corporate - Privacy Policy
 
 **Table of Contents**
 
@@ -10,7 +10,6 @@
 >  How Can I Disable Cookies?  
 >  Information Sharing  
 >  Children's Privacy  
->  Updating Your Information  
 >  Requesting Removal of Your Information  
 >  External Sites and Links
 
@@ -76,14 +75,11 @@ We may send personally identifiable information about you to other organizations
 ↑ top **Children's Privacy**  
 We have no intention of collecting any personal information (including address, telephone number, or email address) from individuals under 21 years of age. If a child under the age of 18 has provided us with personal information, a parent or guardian of that child should contact us at the email address or phone number listed in the section titled Requesting Removal of Your Information.
 
-↑ top **Updating Your Information**  
-To update the information that you provide to us online, [visit the mandalaybay.com preference center](http://www.mandalaybay.com/paradise/login.jsp) at any time.
-
 ↑ top **Requesting Removal of Your Information**  
 At any time you may elect to be removed from our electronic or direct mailing lists by following the instructions for each type of communication as outlined below. You will be promptly removed from any further mailings. 
 
 > **_Electronic Mail Lists_**  
->  To update our records with your request for all marketing and promotional-offer emails to cease, [click here to submit an automated removal request](http://www.mandalaybay.com/paradise/login.jsp).
+>  To update our records with your request for all marketing and promotional-offer emails to cease, [click here to submit an automated removal request](http://promo.mandalaybay.com/forms/remove.php).
 > 
 > **_Postal Mail Lists_**  
 >  To update our records with your request for all direct mail to cease, please contact us using one of the following methods.
@@ -102,4 +98,4 @@ At any time you may elect to be removed from our electronic or direct mailing li
 ↑ top **External Sites and Links**  
 Third party Internet sites and services accessible through mandalaybay.com, have separate privacy and data collection practices, independent of us. The company has no responsibility or liability for these independent policies or actions. You are solely responsible for maintaining the secrecy of your passwords or any account information. Please be careful and responsible whenever you're online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your personal information, Mandalay Bay Resort and Casino or the Mandalay Resort Group cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.
 
-This Privacy Policy specifically does not apply to the following MGM MIRAGE resorts, casinos, and websites: Bellagio ([www.bellagio.com](http://www.bellagio.com/)); MGM Grand Las Vegas ([www.mgmgrand.com](http://www.mgmgrand.com/)); The Mirage ([www.mirage.com](http://www.mirage.com/)); Treasure Island ([www.treasureisland.com](http://www.treasureisland.com/)); New York – New York Hotel and Casino ([www.nynyhotelcasino.com](http://www.nynyhotelcasino.com/)); Beau Rivage ([www.beaurivage.com](http://www.beaurivage.com/)); MGM Grand Detroit ([www.mgmdetroit.com](http://www.mgmdetroit.com/)); Primm Valley Resorts ([www.primmvalleyresorts.com](http://www.primmvalleyresorts.com/)); the Boardwalk Hotel and Casino ([www.boardwalklv.com](http://www.boardwalklv.com/)); Players Club ([www.playersclub.com](http://www.playersclub.com/)); Shadow Creek ([www.shadowcreek.com](http://www.shadowcreek.com/)); M lifestyle Magazine ([www.mlifestyle.com](http://www.mlifestyle.com/)); MGM MIRAGE Voice ([www.mgmmiragevoice.com](http://www.mgmmiragevoice.com/)); MGM MIRAGE Vacations ([www.mgmmiragevacations.com](http://www.mgmmiragevacations.com/)); MGM MIRAGE Voice Message Board (<https://secure02.mgm-mirage.com/voice/pages/forum>); and ([www.mgmmirage.com](http://www.mgmmirage.com/)). 
+This Privacy Policy specifically does not apply to the following MGM MIRAGE resorts, casinos, and websites: Bellagio ([www.bellagio.com](http://www.bellagio.com/)); MGM Grand Las Vegas ([www.mgmgrand.com](http://www.mgmgrand.com/)); The Mirage ([www.mirage.com](http://www.mirage.com/)); Treasure Island ([www.treasureisland.com](http://www.treasureisland.com/)); New York - New York Hotel and Casino ([www.nynyhotelcasino.com](http://www.nynyhotelcasino.com/)); Beau Rivage ([www.beaurivage.com](http://www.beaurivage.com/)); MGM Grand Detroit ([www.mgmdetroit.com](http://www.mgmdetroit.com/)); Primm Valley Resorts ([www.primmvalleyresorts.com](http://www.primmvalleyresorts.com/)); the Boardwalk Hotel and Casino ([www.boardwalklv.com](http://www.boardwalklv.com/)); Players Club ([www.playersclub.com](http://www.playersclub.com/)); Shadow Creek ([www.shadowcreek.com](http://www.shadowcreek.com/)); M lifestyle Magazine ([www.mlifestyle.com](http://www.mlifestyle.com/)); MGM MIRAGE Voice ([www.mgmmiragevoice.com](http://www.mgmmiragevoice.com/)); MGM MIRAGE Vacations ([www.mgmmiragevacations.com](http://www.mgmmiragevacations.com/)); MGM MIRAGE Voice Message Board (<https://secure02.mgm-mirage.com/voice/pages/forum>); and ([www.mgmmirage.com](http://www.mgmmirage.com/)).
