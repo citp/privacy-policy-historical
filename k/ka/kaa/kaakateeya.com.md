@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaakateeya.com privacy policy that was archived on 2005-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050412141319id_/http%3A//www.kaakateeya.com/aboutus.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaakateeya.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216222540id_/http%3A//www.kaakateeya.com/aboutus.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # Kaakateeya.com | A World of Matrimonial Information
 
