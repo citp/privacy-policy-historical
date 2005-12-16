@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ralphlauren.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615232606id_/http%3A//ralphlauren.com.au/global/privacy_policy.asp%3Fcid%3D2%26langid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ralphlauren.com.au privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216100559id_/http%3A//ralphlauren.com.au/global/privacy_policy.asp%3Fcid%3D2%26langid%3D1) for the most accurate reproduction.*
 
 # Ralph Lauren Australia
 
