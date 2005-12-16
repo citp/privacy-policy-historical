@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bizland.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403161211id_/http%3A//www.bizland.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizland.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216235941id_/http%3A//www.bizland.com/about/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Statement
 
+| 
+
   
-[home](https://web.archive.org/) > [About Us](https://web.archive.org/about/) > Privacy Statement |  Privacy Statement  
----  
 At BizLand, we are committed to protecting your privacy. The limited information we do collect is used to provide you with a personalized experience, better service, and at times, bring you value-added offers from our partners.  
 The Information Collected and How It Is Used   
 
@@ -30,3 +30,8 @@ If you have any questions about this privacy statement, the practices of this si
 > 
 
 Updated June 23, 2004
+
+  
+
+
+| 
