@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cndb.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403160757id_/http%3A//cndb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cndb.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216230705id_/http%3A//www.cndb.com/privacy.html) for the most accurate reproduction.*
 
 # CNdb: Privacy Policy
 
@@ -17,16 +17,6 @@ We use an outside ad company to display ads on our site. These ads may contain c
 ### Public Forums
 
 This site makes usere entered reviews available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-### Choice/Opt-Out
-
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
-
-This site gives users the following options for removing their information from our database to not receive future communications.
-
-  1. You can visit the following URL: [http://smacie.com/newsletter/](http://smacie.com/newsleter/)
-
-
 
 ### Correct / Update
 
