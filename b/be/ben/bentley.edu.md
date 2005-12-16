@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bentley.edu privacy policy that was archived on 2005-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050221124715id_/http%3A//www.bentley.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bentley.edu privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216091137id_/http%3A//bentley.edu/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Statement
-
-| 
+# privacy.cfm : Bentley
 
 ### Bentley College Information Privacy Statement
 
@@ -94,6 +92,3 @@ top of page
 **Printer Friendly Version**
 
 Click here for a printer friendly version
-
-|   
----|---|---
