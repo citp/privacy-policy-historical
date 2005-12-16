@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflexive.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407172506id_/http%3A//www.reflexive.com/index.php%3FPAGE%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflexive.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216231632id_/http%3A//reflexive.com/index.php%3FPAGE%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Untitled
 
