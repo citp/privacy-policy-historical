@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403165726id_/http%3A//www.kemet.com/kemet/web/homepage/kechome.nsf/vabypagename/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216202130id_/http%3A//www.kemet.com/kemet/web/homepage/kechome.nsf/vabypagename/privacy) for the most accurate reproduction.*
 
-# KEMET Electronics - KEMET Privacy Statement
+# Aluminum, Ceramic and Tantalum World-Class Capacitor Manufacturer - KEMET
 
 We at KEMET have created this privacy statement in order to demonstrate our commitment to your privacy. As individuals, we expect others to respect our privacy and you should expect nothing less of us. Here are our information-gathering and dissemination practices for our website: www.kemet.com. 
 
@@ -24,6 +24,3 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 **Links To Other Sites**  
 This site contains links to other sites; www.kemet.com is not responsible for the privacy practices or the content of such Web sites. 
-
-  
-
