@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artofproblemsolving.com privacy policy that was archived on 2005-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050529063419id_/http%3A//www.artofproblemsolving.com/Legal/AoPS_L_Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofproblemsolving.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216221508id_/http%3A//www.artofproblemsolving.com/Legal/AoPS_L_Privacy.php) for the most accurate reproduction.*
 
 # the Art of Problem Solving Privacy Policy
 
