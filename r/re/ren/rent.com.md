@@ -1,71 +1,111 @@
-> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614004943id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216070450id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
 
 # Rent.com: Privacy Policy
 
-We value the trust you place in Rent.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time. To make sure you are aware of any changes, please review this policy periodically.
+We value the trust you place in Rent.com. That's why we insist upon the highest standards for property advertisements and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. **Note: Our privacy policy is subject to change at any time.** To make sure you are aware of any changes, please review this policy periodically.
 
-Rent.com is operated by Viva Group, Inc. and its subsidiaries; all references to "Rent.com", "we", or "us", include Viva Group, Inc. and its subsidiaries, a current list of which can be found [here](https://web.archive.org/company/subsidiary/).
+Rent.com is operated by Viva Group, Inc. and its subsidiaries, a current list of which can be found [here](https://web.archive.org/company/subsidiary/). Viva Group, Inc. is a wholly-owned subsidiary of eBay Inc. All references to "Rent.com", "we", or "us" include Viva Group, Inc., its subsidiaries and affiliates including eBay Inc. and its subsidiaries.
 
- **1\. Collection of Personally Identifiable Information**
+ **1\. Scope.**
 
-We collect personally identifiable information (email address) from you when you set up a free account with Rent.com. While you can browse some sections of our site without being a registered member, certain activities (such as searching for properties, viewing property contact information, and registering a property) do require registration.
+This privacy policy describes how we handle your personal information for our services available through the [website](https://web.archive.org/) (the "Website"). By accepting the Privacy Policy and the Terms of Use in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on November 29, 2005, for all users.
 
-We do use your contact information to send you rental listings as well as reminders to report your lease and get our $100 Rent.com Reward. You may always opt-out of receiving such information; see the _Choice/Opt-Out_ section below.
+ **2\. Collection of Personally Identifiable Information.**
+
+While you can browse some sections of the Website without being a registered user, certain activities (such as searching for properties, viewing property contact infromation, and registering a property) do require registration. In most cases, this information we gather from private-label, co-branded, and affiliate websites. Once you give us your personal information, you are anonymous to us. Our servers are located in the United States. Therefore, if you choose to provide us with personal information, you consent to the transfer and storage of that information. We may collect and store the following personal information:
+
+> * name, email, address, telephone number, and (depending on the service used), move-in dates, sometimes financial information such as credit card or bank account numbers; 
+> * transactional information based on your activities on the Website (such as search information); 
+> * other transactional information (such as guest card information, lease terms, lease parties); 
+> * computer sign-on data, statistics on page views, traffic to and from the Website, and ad data; 
+> * other information, including IP address and standard web log information; and 
+> * supplemental information from third parties. For example, if you incur a debt to Rent.com, we may conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law. As another example, if the information you provide cannot be verified, we may ask you to send us additional information (such as your driver's license, credit card statement, and/or a recent utility bill or other information confirming your address) or to answer additional questions online to help verify your identity. 
+
+**3\. Use.**
+
+Our primary purpose in collection personal information is to provide you with a safe, smooth, efficient, and customized experience. For example, we may use your personal information and share your personal information within our corporate family to: 
+
+> * provide the services and customer support you request, including confirming emails related to the Website services, reminders, and transaction; 
+> * resolve disputes, collect fees, and troubleshoot problems; 
+> * prevent potentially prohibited or illegal activities; 
+> * customize, measure, and improve our services and the Website's content and layout; 
+> * tell you about targeted marketing, service updates, and promotional offers based on your communication preferences; 
+> * compare information for accuracy, and verify it with third parties; 
+> * do other things for you as described when we collect the information; 
+> * help promote a safe service; 
+> * measure consumer interest in our products and services; 
+> * inform you about online and offline offers, products, services, and updates; 
+> * customize your experience; 
+> * detect and protect us against error, fraud and other criminal activity; 
+> * enforce our agreements, terms, conditions, and policies; and 
+> * as otherwise described to you at the time of collection. 
+
+In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our Website. We identify and use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information. We will occasionally ask you to complete optional surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our Website, providing you with content that we think you might be interested in, and to display content according to your preferences.
 
 > **Rent.com Renters:**  
->  Our site requires you to give us contact information (email address). We use this information to create a unique user account, and to send you relevant apartment listings, reward claim reminders, and offers for moving-related services.
+>  Our Website requires you to give us contact information and move-in date. We use this information to create a unique user account, and to send you relevant apartment advertisements, reward claim reminders, offers for moving-related services, and other information related to our services and Website. Further, when you contact a Lessor via the Website, we capture your telephone number and may contact you via telephone.
 > 
 > **Rent.com Roommates:**  
->  Our site requires you to give us contact and personal information, including your email address, gender, age, lifestyle, marital status and occupation. We use email address to verify your identity, send you messages from roommates interested in contacting you, and send you messages about rentals matching your preferences. (Messages sent between roommates through Rent.com's Message Center do not reveal the users' email addresses.) We use personal information to provide you with relevant roommate matches.
+>  Our Website requires you to give us contact and personal information, including your email address, gender, age, lifestyle, marital status, occupation, and other personal and lifestyle information. We may use your email address to verify your identity, and send you messages from roommates interested in contacting you. (Messages sent between roommates through Rent.com's Message Center do not reveal the user's email addresses unless included by the user in the message content.) We use personal information to provide you with relevant roommate matches.
 > 
 > **Rent.com Owners & Managers:**  
->  Our site's registration form requires you to give us contact information (name, address, phone number, and email address) and billing information. We use this information to establish and/or verify your identity, notify you about communication from Rent.com Renters, and enable Rent.com Renters to view your property's listing.
+>  Our Website's registration form requires you to give us contact information (name, title, address, phone number, and email address) and billing information. We may also ask you for credit card information. We use this information to establish and/or verify your identity, notify you about communication from Rent.com Renters, enable Rent.com Renters to view your property's listing, and sent to you online and offline information about the Website and our services.
 > 
-> We use your billing and financial information to invoice you for products and services that you purchase through the site. 
+> **Moving Quotes Requesters:**  
+>  You may be offered an opportunity to request a quote for moving services through our Website. In such case, we will collect your contact information (including name, address, phone number, and email address) as well as information related to your move. By requesting this quote and submitting your information, you are expressly consenting to our using and selling that information to third-party moving companies and authorizing such moving companies to contact you regarding their services.
 
-**2\. Use of Demographic and Profile Data**
+To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses; see the _Choice/Opt-Out_ section below.
 
-We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.
+**4\. Cookies.**
 
-In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our website.
+A "cookie" is a small piece of information stored by a website's server on a website's browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. Rent.com places both permanent and temporary cookies in your computer's hard drive. Our permanent cookies allow us to provide personalized features, such as automatically logging you into your personalized Start page. In order to use this feature, you must set your browser's preferences to allow permanent cookies. We also use temporary cookies (a.k.a. "per-session cookies") to improve the functionality and usability of our Website. These temporary cookies are permanently erased from your computer as soon as you log out of your Rent.com account or link to a different website from your parent browser window. In order to use Rent.com, you must set your browser's preferences to allow per-session cookies (most web browsers automatically accept cookies). We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
 
-We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information.
+**5\. Sharing of information.**
 
-We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our site, providing you with content that we think you might be interested in--and to display content according to your preferences.
+We may disclose personal information if permitted to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.
 
-**Cookies**
+We may also share some or all of your personal information with: 
 
-A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. Rent.com places both permanent and temporary cookies in your computer's hard drive. Rent.com's cookies do not contain any of your personally identifiable information.
+> * law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public. 
+> * another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information. 
 
-Our permanent cookies allow us to provide personalized features, such as automatically logging you into your personalized Start page. In order to use this feature, you must set your browser's preferences to allow permanent cookies. You will still be able to use the site if you block permanent cookies.
+**6\. Lead Responder.**
 
-We also use temporary cookies (a.k.a. "per-session cookies") to improve the functionality and usability of our site. These temporary cookies are permanently erased from your computer as soon as you log out of your Rent.com account or link to a different website from your parent browser window. In order to use Rent.com, you must set your browser's preferences to allow per-session cookies (most Web browsers automatically accept cookies). 
+When a Renter contacts a Lessor through the Website (by clicking on the "contact now") button or by calling the Website-issued telephone number of the Lessor, e.g., (866) 829-1234 ext. 1212 using a telephone, we will collect the Renter's telephone number, and other information related to the communication. If the Lessor communicates with the Renter by dialing that telephone number or by email, we will collect information related to that communication. If the communication is by telephone, we will collect information related to the call, including its duration, but we will not collect the content of the telephone call. If the communication is by email, we will collect the content of the email in addition to other information related to the email. We may share with Lessors a log of these communications, to allow them to manage their communications with Renters. Without limiting any other provisions of this Policy, you expressly agree that we may use this data ("impression data") to enforce our rights to collect fees payable by the Lessors.
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+**7\. Links to Other Sites.**
 
-**3\. Sharing of personal information**
+Our website links to other websites that may collect personally identifiable information about you. Rent.com is not responsible for the privacy practices or the content of those linked websites.
 
-We may share personal information withour other corporate entities and affiliates to: help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
+**8\. Security Precautions.**
 
-We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
+Our website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
 
-Rent.com and its affiliates will share some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
+**9\. Choice/Opt-Out.**
 
-**4\. Links to Other Sites**
+Rent.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. To remove your contact information from all Rent.com lists and newsletters, simply [edit your email preferences](https://web.archive.org/account/preferences/).
 
-Our site links to other websites that may collect personally identifiable information about you. Rent.com is not responsible for the privacy practices or the content of those linked websites.
+**10\. Account Protection.**
 
-**5\. Security Precautions**
+Your password is the key to your account. Use unique numbers, letters, and special characters and do not disclose your Rent.com password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify Rent.com and change your password.
 
-Our site has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
+**11\. Accessing, Reviewing and Changing Your Personal Information.**
 
-**6\. Choice/Opt-Out**
+You can see, review and change most of your personal information by logging into the Website. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts in order to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Use, and take other actions otherwise permitted by law.
 
-Rent.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
+**12\. Security.**
 
-To remove your contact information from all Rent.com lists and newsletters, simply [edit your email preferences](https://web.archive.org/account/preferences/).
+Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use lots of tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the Website. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-**7\. Questions?**
+**13\. Third Parties**
+
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are Renters, Lessors, Roommates or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Since Rent.com does not control the privacy policies of third parties, you are subject to the privacy policies of those third parties. We encourage you to ask questions before you disclose your personal information to others.
+
+**14\. General**
+
+We may amend this Privacy Policy at any time by posting the amended terms on the Website. All amended terms automatically take effect 5 days after they are initially posted on the Website.
+
+**15\. Questions**
 
 Questions regarding this statement should be directed to the following address:
 
@@ -78,3 +118,5 @@ Santa Monica, CA 90405
 or
 
 [Contact Us](https://web.archive.org/company/contact/renter/?subject=renter_other)
+
+Last updated November 29, 2005 
