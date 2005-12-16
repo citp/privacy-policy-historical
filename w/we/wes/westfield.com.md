@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westfield.com privacy policy that was archived on 2005-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050605083103id_/http%3A//www.westfield.com/uscentres/site/yourprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216030014id_/http%3A//westfield.com/uscentres/site/yourprivacy.html) for the most accurate reproduction.*
 
-# westfield.com
+# Westfield
 
 Westfield recognises the trust you are placing in us through your dealings with us. We are committed to the protection of your personal information. Our policies comply with our legal obligations and are intended to protect your privacy in respect of any personal information that you may provide to us. 
 
@@ -113,4 +113,4 @@ We will try to satisfy any privacy questions that you have and correct any error
 
 This privacy policy relates to our current privacy standards. We may vary our privacy policy from time to time. We will notify you of any changes by publishing the latest policy from time to time on our site. 
 
-View Westfield's [general Privacy Policy](https://web.archive.org/web/20050605083103id_/http%3A//www.westfield.com/uscentres/site/privacygeneral.html). 
+View Westfield's [general Privacy Policy](https://web.archive.org/web/20051216030014id_/http%3A//westfield.com/uscentres/site/privacygeneral.html). 
