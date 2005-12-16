@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305010636id_/http%3A//www.concord.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216232306id_/http%3A//www.concord.org/privacy.html) for the most accurate reproduction.*
 
-# Concord.org -> Privacy
-
-[Home](https://web.archive.org/ "Go to the Concord Conortium home page
-") >> **Privacy**
+# Concord.org - Concord.org -> Privacy
 
 ## Summary
 
@@ -48,5 +45,3 @@ We also use specific data to help us diagnose problems with the Web server or th
 ### Questions or Concerns?
 
 If you have any questions or concerns about this privacy policy, please contact the Concord Consortium's webmaster, **Paul Burney** , [webmaster@concord.org](mailto:webmaster@concord.org) or **(978) 369-2287**
-
-|  | 
