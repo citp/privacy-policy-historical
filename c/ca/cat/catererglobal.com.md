@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2004-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040708122216id_/http%3A//www.catererglobal.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216205220id_/http%3A//www.catererglobal.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# CatererGlobal.com - Privacy Policy
+# Catererglobal.com - Global hospitality Jobs - Hotel and catering jobs abroad
 
 At CatererGlobal.com, we make every effort to comply with our obligations under the 1998 Data Protection Act.
 
 Additionally, we understand the importance of maintaining the confidentiality of your CV and Profile, and other information you may give us while using the site. You can amend or delete any of the information that CatererGlobal.com stores about you by logging in to ‘My Account’ or by contacting us at [webadmin@catererglobal.com](mailto:webadmin@catererglobal.com) with your request.
 
-CatererGlobal.com is hosted by a third party - Madgex Ltd.
+CatererGlobal.com is part of the Total Jobs Group Ltd group of websites
 
 **Profile and CV information**  
 Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested.
