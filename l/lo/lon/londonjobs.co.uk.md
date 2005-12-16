@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418040613id_/http%3A//www.londonjobs.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216023608id_/http%3A//londonjobs.co.uk/privacy) for the most accurate reproduction.*
 
 # LondonJobs UK Privacy statement
 
