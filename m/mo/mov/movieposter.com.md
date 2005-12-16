@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieposter.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205015721id_/http%3A//www.movieposter.com/cgi-bin/mpw8/new_footer.pl%3Fsrc%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieposter.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216221226id_/http%3A//www.movieposter.com/cgi-bin/mpw8/new_footer.pl%3Fsrc%3D1) for the most accurate reproduction.*
 
 # movie posters at movie poster warehouse movieposter.com
 
@@ -12,13 +12,15 @@ The purpose of this statement is to let our customers and visitors know what inf
 
 **Order Information**
 
-We gather only that information that visitors are willing to give. Some of it is required to fill orders (like names, shipping addresses, and phone numbers) or to maintain accounts (like customer accounts and affiliate accounts) and some is requested so that we can be of better service (contact information like email addresses and phone numbers, for example).
+We gather only that information that visitors are willing to give. Some of it is required to fill orders (like names, shipping addresses, and phone numbers), or to maintain accounts (like customer accounts and affiliate accounts), and some is requested so that we can be of better service (contact information like email addresses and phone numbers, for example).
 
 **Email**
 
-We keep all the email we get and send in great big files so that we can go find all the information we need about particular order histories.
+We send email to customers only if it regards a particular order or inquiry, or if the customer has opted to receive promotional emails. We do not share or sell any email addresses.
 
-We send email to customers only if it regards a particular order or inquiry, or if the customer has opted to receive promotional emails. We do not share email addresses.
+**Information from Other Sources**
+
+We receive information such as updated delivery information from other sources such as our carrier services or other third parties, which we use to correct our records and deliver your next purchase or communication. We also receive credit history information from credit bureaus, which we use to help prevent and detect fraud. 
 
 **Privacy**
 
@@ -30,7 +32,7 @@ All the information you provide is transmitted encrypted. Nobody but us has acce
 
 **Non-identifying Information**
 
-We collect all kinds of statistics about visits to our site -- where the visitors came from, what they did and viewed during their visit, what kinds of computers and browsers they use, and where they went when they left. However, we do not (and cannot) collect any personally identifying information (names, email addresses and such) in this way.
+We collect statistics about visits to our site -- where the visitors came from, what they did and viewed during their visit, what kinds of browsers they use, and where they went when they left. However, we do not (and cannot) collect any personally identifying information (names, email addresses and such) in this way.
 
 **Cookies**
 
