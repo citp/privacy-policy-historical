@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyscout.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611234222id_/http%3A//surveyscout.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyscout.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216224557id_/http%3A//surveyscout.com/privacy.cgi) for the most accurate reproduction.*
 
 # SurveyScout.com :: Where your "2 cents" are worth more than you think!
 
@@ -48,8 +48,8 @@ SurveyScout.com provides every user with the opportunity to opt-out of receiving
 
 1\. Email: [support@surveyscout.com](mailto:support@surveyscout.com)  
 2\. Website: [http://www.surveyscout.com/mcenter](https://web.archive.org/mcenter/index.cgi)  
-3\. Postal Mail: 15741 US 36 East, PMB 305 • Marysville, OH 43040  
-4\. Facsimile: (937)303-0005
+3\. Postal Mail: 6724 Perimeter Loop Rd, PMB 326 • Dublin OH 43017-3202 USA  
+4\. Facsimile: (937) 303-0005
 
 **Contacting SurveyScout.com**
 
