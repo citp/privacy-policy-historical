@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taca.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306000853id_/http%3A//www.taca.com/eng/cus/csec/csecsecpri.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taca.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216230801id_/http%3A//taca.com/eng/cus/csec/csecsecpri.asp) for the most accurate reproduction.*
 
 # Security and privacy - TACA.COM
 
@@ -15,6 +15,6 @@ If you forget your PIN, notify us and we will send a copy to the e-mail address 
 
 
 
-In both cases, we are committed to protecting our customers' right to privacy, and to remaining at the forefront of advances in online security measures. Additional information is available from VeriSign Security Systems® 
+In both cases, we are committed to protecting our customers' right to privacy, and to remaining at the forefront of advances in online security measures. Additional information is available from VeriSign Security Systems®
 
 |  |   | 
