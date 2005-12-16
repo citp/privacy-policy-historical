@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the xoomaworldwide.com privacy policy that was archived on 2005-04-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050415000147id_/http%3A//www.xoomaworldwide.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xoomaworldwide.com privacy policy that was archived on 2005-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051216024936id_/http%3A//www.xoomaworldwide.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Xooma World Wide</title>
@@ -19,7 +19,7 @@ BODY {
 	BACKGROUND-COLOR: #ffffff;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
-	color: #3399FF;
+	color: #0062CA;
 }
 
 .tsmallwhite {
@@ -45,6 +45,13 @@ BODY {
 	font-size: 10px;
 	color: #000000;
 }
+.box4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #77A0CC;
+	background-color: #FFFFFF;
+}
+
 .tsmbluebold {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 10px;
@@ -55,16 +62,17 @@ BODY {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 10px;
 	color: #3399FF;
+	TEXT-DECORATION: none
 }
 .tmediumblue {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
-	color: 0063C9;
+	color: #0063C9;
 }
 .tmediumbluebold {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
-	color: 0063C9;
+	color: #0063C9;
 	font-weight: bold;
 }
 .tmediumlargebluebold {
@@ -582,9 +590,9 @@ div.menuBar {
 	border: 0px;
 	margin: 0px;
 	width: 100%;
-	height: 37;
+	height: 37px;
 	FONT-SIZE: 9pt;
-	COLOR: 0062CA;
+	COLOR: #0062CA;
 	FONT-FAMILY: Arial, Helvetica;
 	FONT-WEIGHT: bold;
 	TEXT-DECORATION: none;
@@ -632,7 +640,6 @@ div.menuBar {
 	border-left-width: 0px;
 	border-bottom-width: 2px;
 	border-right-width: 0px;
-	xborder-width: 5px;
 	border-color: #6CB3FF #0066CC #004E98 #0066CC 
 }
 
@@ -648,7 +655,6 @@ div.menuBar {
 	border-left-width: 0px;
 	border-bottom-width: 2px;
 	border-right-width: 0px;
-	xborder-width: 5px;
 	border-color: #474C4F #8C8C8C #B3B3B3 #8C8C8C 
 }
 
@@ -675,7 +681,9 @@ A:hover {
 }
 
 .linkDark {
-	COLOR: #000000; TEXT-DECORATION: underline
+	COLOR: #000000;
+	TEXT-DECORATION: underline;
+	cursor: hand;
 }
 
 .linklight {
@@ -722,8 +730,9 @@ A:hover {
 						<input name="login" class="box" size="15" type="text">&nbsp;&nbsp;
 						<span class="tsmblue">Password</span>
 						<input name="password" class="box" size="15" type="password">&nbsp;&nbsp;&nbsp;
-						<label><input name="Submit" class="box3" value="Login" type="submit"></label>&nbsp;&nbsp;&nbsp;
-					</div>
+						<label><input name="Submit" class="box3" value="Login" type="submit">
+          </label>&nbsp;&nbsp;&nbsp; <span class="tsmblue"><a class="tsmblue" href="/mailPassword.asp">Forgot?</a></span>&nbsp;&nbsp;&nbsp; 
+        </div>
 				</form>
 
 			
@@ -744,9 +753,10 @@ A:hover {
       
       <a class="linkmain" href="/corpInfo.asp">Company Info</a> &nbsp;&nbsp;&nbsp; 
       <a class="linkmain" href="/prodInfo.asp">Product Info</a> &nbsp;&nbsp;&nbsp; 
-      <a class="linkmain" href="/compPlan.asp">Earn Money</a>&nbsp;&nbsp;&nbsp; 
-      <a class="linkmain" href="/ecomm/createAccount.asp">Join Xooma Now</a> &nbsp;&nbsp;&nbsp; 
-      <a class="linkmain" href="/ecomm/editCart.asp"><img src="/template/default/checkout.gif" width="25" height="12" border="0"></a> 
+      <a class="linkmain" href="/compPlan.asp">Earn Money</a>&nbsp;&nbsp;&nbsp;
+			 
+      <a class="linkmain" href="/accountType.asp">Join Xooma Now</a> &nbsp;&nbsp;&nbsp; 
+
     </td>
 		</tr>
 	</tbody></table>
@@ -916,13 +926,17 @@ A:hover {
   <tbody><tr>
 		<td><img src="/template/default/footerLeft.gif" width="38" height="35"></td>
 		<td class="NavTab" background="/template/default/footerMiddle.gif" valign="middle"> 
-      <a class="NavTab" href="/contactus.asp">Contact 
-      Xooma</a>&nbsp;&nbsp;&nbsp; <a class="NavTab" href="/termsofuse.asp">Terms 
+      		<a class="NavTab" href="#" onclick="window.open('https://www.hostedsupport.com/Support/Interface.cfm?C=9265','ProCSI','width=720,height=490,resizable=yes,scrollbars=yes'); return false; return false;">
+					Help</a>
+					<!--<A class=NavTab href="/contactus.asp">Contact 
+      		Xooma</A>-->
+			&nbsp;&nbsp;&nbsp; <a class="NavTab" href="/termsofuse.asp">Terms 
       Of Use</a>&nbsp;&nbsp;&nbsp; <a class="NavTab" href="/privacy.asp">Privacy 
       Statement</a>&nbsp;&nbsp;&nbsp; Copyright 2005</td>
 		<td><img src="/template/default/footerRight.gif" width="40" height="35"></td>
 	</tr>
 </tbody></table>
+
 
 
 </body></html>
