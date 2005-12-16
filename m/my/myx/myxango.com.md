@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myxango.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203210050id_/http%3A//www.mymangosteen.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myxango.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216225827id_/http%3A//www.mymangosteen.com/privacy.asp) for the most accurate reproduction.*
 
 # MyMangosteen Privacy Policy
 
@@ -65,7 +65,4 @@ By using our Web site, you consent to the collection and use of this information
 
 ## Contact
 
-MyMangosteen.com welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue, at xango-info@MyMangosteen.com. 
-
-Or by telephone:  
-1-866-789-9990
+MyMangosteen.com welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue, at service(at)MyMangosteen.com. 
