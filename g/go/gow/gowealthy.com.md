@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the gowealthy.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306225541id_/http%3A//www.gowealthy.com/html/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowealthy.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216070713id_/http%3A//gowealthy.com/site/policy/index.asp) for the most accurate reproduction.*
 
-# Gowealthy.com - your gateway to the offshore
+# Policy :: Gowealthy.com
 
-| [](http://www.truste.org/ivalidate.php?url=www.gowealthy.com&sealid=101) | **GOWEALTHY.COM - PRIVACY STATEMENT**  
+|  [](http://www.truste.org/ivalidate.php?url=www.gowealthy.com&sealid=101) | **GOWEALTHY.COM - PRIVACY STATEMENT**  
 ---|---  
   
 **Gowealthy is committed to respecting and protecting your personal privacy. Our Privacy Policy is succinctly explained below. You can get additional details by clicking on the highlighted links. Also, please note that we strictly follow the COPPA guidanceclick to know more **
 
-Gowealthy.com, provided by Triumph Assets Holding Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site <http://www.gowealthy.com/>. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Gowealthy.com, provided by Gowealthy Holdings FZC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site <http://www.gowealthy.com/>. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
   
 1\.  What information Gowealthy collects from our site and how we use it?  
@@ -19,22 +19,19 @@ Gowealthy.com, provided by Triumph Assets Holding Ltd. is a licensee of the TRUS
 7\.  How will the users be notified if Gowealthy change this privacy policy?  
 8\.  How user can correct any inaccuracies in the information.  
 9\. Compliance with Children's Online Privacy Protection Act (COPPA)  
-
-
 10\. Public Forum Disclaimer
 
 * * *
 
-  
 **Your Questions or Suggestions Regarding This Privacy Policy :**  
 If users have any questions, concern or suggestions regarding our privacy policy, please contact us at 
 
-**Email :** policy@gowealthy.com  
+**Email :** [support@gowealthy.com](mailto:support@gowealthy.com)  
 **Fax :** 1- 928- 441- 7539  
 **Address:**
 
 Site Administrator  
-Triumph Assets Holding Limited,  
+Gowealthy Holdings FZC,  
 PO Box No 8325, Sharjah,   
 U.A.E. 
 
@@ -50,7 +47,7 @@ This privacy policy applies to web pages ending in Gowealthy.com that contain a 
 * * *
 
 **1\. Information Collections and Use**  
-Triumph Assets Holding Limited is the sole owner of the information collected on Gowealthy.com. 
+Gowealthy Holdings FZC is the sole owner of the information collected on Gowealthy.com. 
 
   * The user can visit our site and use most of our services without having to tell us who you are or reveal any personally identifiable information to Gowealthy. There are, however, a few instances where we do collect personally identifiable information in order to fulfill the users request.
   * When the user registers for premium service, Gowealthy ask for the information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. The information is collected to provide premium services to the members. The unique identifiers (username, password) are used to provide the personalized web services and tracking the user session. The other information is purely for internal statistic purpose. Once you register with Gowealthy and sign in to our services, the users are not anonymous to us.
@@ -96,8 +93,6 @@ top
 **3.With whom this information may be shared.**  
 Gowealthy does not share the users information with the third party. The information collected is used purely to service the customers and for statistic purpose. Gowealthy does not use persistent cookies and cookies with identifiable details. How ever user can disable the cookie. The user listed for premium service can / withdraw his membership and ask for the permanent deletion of his details. The user can mail at [member@gowealthy.com](mailto:member@gowealthy.com) to remove his details from the database. 
 
-* * *
-
 top
 
 * * *
@@ -127,7 +122,7 @@ top
   * We have physical, electronic, and procedural safeguards that protect personal information about you.
   * Your Gowealthy Account Information is password-protected. 
   * In certain areas Gowealthy uses industry-standard SSL encryption to protect data transmissions.   
-If users have any questions about the security at our Web site, users can send an email to [policy@gowealthy.com ](mailto:policy@gowealthy.com)
+If users have any questions about the security at our Web site, users can send an email to [support@gowealthy.com](mailto:support@gowealthy.com)
 
 
 
@@ -165,12 +160,12 @@ top
 **Your Questions or Suggestions Regarding This Privacy Policy.**  
 If users have any questions, concern or suggestions regarding our privacy policy, please contact us at:
 
-**Email :** admin@gowealthy.com  
+**Email :**[support@gowealthy.com](mailto:support@gowealthy.com)  
 **Fax :** 1- 928- 441- 7539  
 **Address:**
 
 Site Administrator  
-Triumph Assets Holding Limited  
+Gowealthy Holdings FZC  
 PO Box No 8325, Sharjah,   
 U.A.E. 
 
