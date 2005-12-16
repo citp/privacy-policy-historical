@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the quicken.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230022145id_/http%3A//help.quicken.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicken.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217005036id_/http%3A//help.quicken.com/support/privacy) for the most accurate reproduction.*
 
 # 
 
 At Intuit, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web site. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site. Throughout this policy, we refer to information that personally identifies you as "personal information."
 
+For our Quicken Bill Pay Customers: Intuit and Metavante Payment Services, LLC have formed a relationship to make available to you the Quicken Bill Pay online payment service. This privacy statement discloses the privacy practices of Intuit. For a description of Metavante's privacy practices, [click here](https://web.quickenbillpay.com/csp/ws/QUICKEN/html/MVNT_PaymentPrivacy.html).
+
+The Gramm-Leach-Bliley Act requires Intuit to provide registered Quicken.com and Quicken Bill Pay customers with an annual notice of our information collection and sharing practices. The annual notification that we provide to our registered Quicken.com and Quicken Bill Pay customers can be viewed by [clicking here](https://web.archive.org/web/20051213214838id_/http://help.quicken.com/support/privacy/GLB/index.shtml). 
+
 We protect your information
 
-We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. We use both internal and external resources to review our security procedures. Our employees are trained and required to safeguard your information. [Tell me more](https://web.archive.org/web/20041230023512id_/http://help.quicken.com/support/privacy/protect.shtml)
+We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. We use both internal and external resources to review our security procedures. Our employees are trained and required to safeguard your information. [Tell me more](https://web.archive.org/web/20051213214838id_/http://help.quicken.com/support/privacy/protect.shtml)
 
 We tell you how we use your information
 
@@ -17,17 +21,15 @@ When we ask you for information, we will tell you—or it will be clear—what w
 
 
 
-For information relating to services and features of Quicken.com, [click here](https://web.archive.org/web/20041230023512id_/http://help.quicken.com/support/privacy/qservices.shtml). 
-
-The Gramm-Leach-Bliley Act requires Intuit to provide registered Quicken.com and Quicken Bill Pay customers with an annual notice of our information collection and sharing practices. The annual notification that we provide to our registered Quicken.com and Quicken Bill Pay customers can be viewed by [clicking here](https://web.archive.org/web/20041230023512id_/http://help.quicken.com/support/privacy/GLB/index.shtml). 
+For information relating to services and features of Quicken.com, [click here](https://web.archive.org/web/20051213214838id_/http://help.quicken.com/support/privacy/qservices.shtml). 
 
 We tell you about our relationships with third parties
 
-We have limited relationships with third parties to assist us in servicing you, for example, by fulfilling customer orders or providing customer service. These service providers are contractually required to maintain the confidentiality of the information we provide them. Additionally, we have business partners that provide services, some of which are co-branded. We clearly identify partner services and sites. When you request any of these products or services, you are permitting us to provide your personal information to the partner to fulfill your request. We may disclose your information if we are required to by a law enforcement action such as a court order, subpoena or search warrant. [Tell me more](https://web.archive.org/web/20041230023512id_/http://help.quicken.com/support/privacy/thirdparties.shtml)
+We have limited relationships with third parties to assist us in servicing you, for example, by fulfilling customer orders or providing customer service. These service providers are contractually required to maintain the confidentiality of the information we provide them. Additionally, we have business partners that provide services, some of which are co-branded. We clearly identify partner services and sites. When you request any of these products or services, you are permitting us to provide your personal information to the partner to fulfill your request. We may disclose your information if we are required to by a law enforcement action such as a court order, subpoena or search warrant. [Tell me more](https://web.archive.org/web/20051213214838id_/http://help.quicken.com/support/privacy/thirdparties.shtml)
 
 We tell you how we use Web technology
 
-Like many Web sites, we use technology, such as cookies, that allow us to make your visit to our Web site easier by recognizing you when you return and help us to provide you with a customized experience. [Tell me more](https://web.archive.org/web/20041230023512id_/http://help.quicken.com/support/privacy/use.shtml)
+Like many Web sites, we use technology, such as cookies, that allow us to make your visit to our Web site easier by recognizing you when you return and help us to provide you with a customized experience. [Tell me more](https://web.archive.org/web/20051213214838id_/http://help.quicken.com/support/privacy/use.shtml)
 
 We give you choice and control
 
