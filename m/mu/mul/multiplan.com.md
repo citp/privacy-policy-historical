@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the multiplan.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205220716id_/http%3A//www.multiplan.com/index.cfm%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplan.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216195929id_/http%3A//multiplan.com/about/privacy.cfm) for the most accurate reproduction.*
 
-# Welcome to MultiPlan, Inc.
+# MultiPlan, Inc: Privacy Policy
 
 **MultiPlan.com Privacy Policy**
 
