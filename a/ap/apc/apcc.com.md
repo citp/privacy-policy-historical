@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apcc.com privacy policy that was archived on 2004-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040726080138id_/http%3A//www.apcc.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apcc.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216233203id_/http%3A//www.apcc.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
 
 # APC - Online Privacy Policy
 
@@ -8,7 +8,7 @@ The _APC Website_ mission
 
 The mission of the _APC Website_ is to provide clients with the most up-to-date product and company information and present it in a manner best suited to their needs. The _APC Website_ may be accessed by all Internet users on a 24/7 basis.
 
-The _APC Website_ is the most accurate source of information on APC and its products/services. Questions regarding the accuracy of information on the _APC Website_ may be directed to the [webmaster](https://web.archive.org/support/feedback.cfm).
+The _APC Website_ is the most accurate source of information on APC and its products/services. Questions regarding the accuracy of information on the _APC Website_ may be directed to the [webmaster](mailto:webmaster@apcc.com).
 
 Handling of personal information
 
