@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reunion.com privacy policy that was archived on 2005-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050610080434id_/http%3A//www.reunion.com/site-root/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reunion.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216111453id_/http%3A//www.reunion.com/site-root/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Reunion.com - Reunite With Old High School Friends and Old Flames Today!
 
@@ -26,7 +26,7 @@ Note to Parents. If you have any concerns about the Reunion.com Sites or its rel
  **Information Collection and Use**  
 Below are more details about the information the Reunion.com Sites gather from you and how we use it.
 
-**A. Email Newsletters and Updates.** Reunion.com Sites offer email newsletters and important account activity updates. Only registered users will be able to receive these updates. We will only send you the update(s) that you signed up for. If you want to update your email address or stop receiving our newsletter, follow the procedures at the bottom of any newsletter or update we send you.
+**A. Email Newsletters and Updates.** Reunion.com Sites offer email newsletters and important account activity updates. As part of the Reunion.com service you will receive these updates. If you want to update your email address or stop receiving any of the updates, follow the procedures at the bottom of any newsletter or update we send you.
 
 **B. Membership Registration Information.** When you register for membership on one of our sites, we ask for information about you and your interests. We do this so we can better understand what you like and tailor the site to suit you better. At a minimum, we require your name, birth date, gender, email address and zip code. The more information you volunteer, the more we can tailor the site, updates, and promotions to your interests. We may engage third parties to perform analysis or data processing of our databases that involves access to this information in order to better provide you with the services for which you joined (in which case we will take measures to ensure that such parties are contractually required to keep the information confidential and not to use it other than in a manner that is necessary to perform their work for Reunion.com). 
 
@@ -86,6 +86,8 @@ If you have any other questions about the Reunion.com Privacy Policy, please con
 
 **Reunion.com, Inc.  
 Attn: Privacy Policy Officer**  
-12200 West Olympic Blvd.  
-Suite 270  
-Los Angeles, CA 90064 **Effective Date: March 7, 2005**
+12100 Wilshire Blvd.  
+Suite 150   
+Los Angeles, CA 90025
+
+**Effective Date: March 7, 2005**
