@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011212605id_/http%3A//www.reed-electronics.com/ecnmag/index.asp%3Flayout%3Dpage%26module%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217225415id_/http%3A//www.ecnmag.com/index.asp%3Flayout%3Dpage%26module%3Dprivacy) for the most accurate reproduction.*
 
-# ECN: Electronic Component News
+# ECN: Electronic Component News page
 
   
 Overview
@@ -9,7 +9,7 @@ Overview
 
 This Privacy Policy describes the policies of Reed Business Information ("RBI" or "we"), a division of Reed Elsevier Inc. ("Reed Elsevier"), regarding the collection, use, disclosure and protection of the following types of information:
 
-  * Information obtained when you and other users ("you" or "Users") visit the ECN web site (the "Site"). [http://www.reed-electronics.com/ecnmag](http://reed-electronics.com/ecnmag)
+  * Information obtained when you and other users ("you" or "Users") visit the ECN web site (the "Site"). [http://www.ecnmag.com](http://www.ecnmag.com/)
   * Information obtained through e-mail communications with you related to the Site. 
 
 
