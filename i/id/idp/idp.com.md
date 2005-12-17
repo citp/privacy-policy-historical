@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2005-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050428074327id_/http%3A//www.idp.com/information/article21.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217115126id_/http%3A//www.idp.com/corporate/aboutus/privacy.asp) for the most accurate reproduction.*
 
-# IDP Portal - Privacy Policy
+# Privacy Statement - IDP Education Australia
 
   * Privacy Policy
   * Protecting Personal Information
@@ -107,8 +107,7 @@ IDP's Privacy Representative is the Company Secretary. Any questions, concerns o
 > AUSTRALIA
 > 
 > Telephone: +61 2 8251 2740  
-> Facsimile +61 2 8251 2785  
-> 
+> Facsimile +61 2 8251 2785
 
 ## Personal Information Management Policy Statement 
 
@@ -116,10 +115,10 @@ IDP Education Australia Limited (IDP) is bound by the National Privacy Principle
 
 In general, IDP holds the following types of personal information:
 
-  * personal details of individuals who have enquired about study opportunities in Australia, or who have applied to undertake a course of study at an Australian educational institution, or an overseas education institution that has entered into a twinning arrangement with an Australian education institution. As IDP operates in over 30 overseas countries, it is unavoidable that some of this personal information is sensitive information (ie the individual's racial or ethnic origin);
-  * personal details of individuals who have applied to undertake, or have undertaken, an assessment service provided by, or through, IDP (eg an IELTS or ISAT test). In the case of individuals who have completed such assessment, IDP will also hold the results achieved by the individual;
-  * personal details of individuals who have formally advised/registered their interest in being engaged as consultants, or individuals who have been, or are currently, engaged as consultants on projects/programs managed by IDP (or IDP in consortium with other organisations);
-  * personal details about individuals who have registered their names with a service offered by the company (eg the Graduate Recruitment Service)
+  * personal details of individuals who have enquired about study opportunities in Australia, or who have applied to undertake a course of study at an Australian educational institution, or an overseas education institution that has entered into a twinning arrangement with an Australian education institution. As IDP operates in over 30 overseas countries, it is unavoidable that some of this personal information is sensitive information (ie the individual's racial or ethnic origin); 
+  * personal details of individuals who have applied to undertake, or have undertaken, an assessment service provided by, or through, IDP (eg an IELTS or ISAT test). In the case of individuals who have completed such assessment, IDP will also hold the results achieved by the individual; 
+  * personal details of individuals who have formally advised/registered their interest in being engaged as consultants, or individuals who have been, or are currently, engaged as consultants on projects/programs managed by IDP (or IDP in consortium with other organisations); 
+  * personal details about individuals who have registered their names with a service offered by the company (eg the Graduate Recruitment Service) 
   * personal details about individuals who have registered to participate in an event organised, managed or presented by IDP (eg the annual International Education Conference), whether in its own right, or under contract for another organisation. 
 
 
@@ -167,7 +166,7 @@ For more information contact:
 > Company Secretary   
 > IDP Education Australia Limited   
 > Phone - +61 2 8251 2740  
-> Fax -    +61 2 8251 2785   
+> Fax -    +61 2 8251 2785   
 > Email - [joanna.burke@idp.com](mailto:joanna.burke@idp.com)
 
 Back to top  
