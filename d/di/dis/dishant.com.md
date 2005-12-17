@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishant.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403183929id_/http%3A//www.dishant.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishant.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217074137id_/http%3A//dishant.com/privacy.htm) for the most accurate reproduction.*
 
 # Disclaimer - Dishant's Hindi, Desi, Bollywood MP3 FTP Download Site
 
