@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomz.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528023605id_/http%3A//www.atomz.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomz.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217095635id_/http%3A//www.atomz.com/company/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -32,8 +32,8 @@ This site gives customers the ability to change and modify information previousl
 
 ## Contacting Atomz about Privacy 
 
-Questions regarding our privacy policy should be directed to the Atomz site coordinator through our [Feedback Form](https://web.archive.org/web/20050528023605id_/http%3A//www.atomz.com/contact/form_privacy.htm). 
+Questions regarding our privacy policy should be directed to the Atomz site coordinator through our [Feedback Form](https://web.archive.org/web/20051217095635id_/http%3A//www.atomz.com/contact/form_privacy.htm). 
 
 ## Request Removal from Future Email Communications
 
-To be removed from future email communications from Atomz, complete our "[Email Removal](https://web.archive.org/web/20050528023605id_/http%3A//www.atomz.com/contact/form_removeme.htm)" form.
+To be removed from future email communications from Atomz, complete our "[Email Removal](https://web.archive.org/web/20051217095635id_/http%3A//www.atomz.com/contact/form_removeme.htm)" form.
