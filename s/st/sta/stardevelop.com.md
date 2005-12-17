@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the stardevelop.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628074624id_/http%3A//livehelp.stardevelop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardevelop.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217130744id_/http%3A//livehelp.stardevelop.com/privacy.htm) for the most accurate reproduction.*
 
 # Live Help - Privacy Statement - Live Customer Service Software, Live Help, Customer Support
 
 stardevelop.com Privacy Statement
 
 stardevelop.com are committed to protecting your privacy and the security of your personal information online. The following notice describes our privacy and security policies. By visiting stardevelop.com web site, you are accepting the practices described in this privacy statement.
+
+Information Collection and Use 
+
+STARDEVELOP PTY. LTD. (ABN 53 078 264 731) is the sole owner of the information collected on stardevelop.com. STARDEVELOP PTY. LTD. collects personally identifable information at various points of our web site.
+
+Common Privacy Questions 
 
 \- what information does stardevelop.com gather about customers?  
 _The information that we gather about customers helps us to enhance and improve the shopping experience of customers at our web site. We receive and store information you have entered on our web site and by any other means. So that we can process and ship your order we require your name, billing address, shipping address, e-mail address, phone number, web site address and credit card details. We use this information to confirm your order and may contact you if we have a question about your order. We may also contact you to verify your credit card information for your protection._
