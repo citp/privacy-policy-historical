@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607143649id_/http%3A//www.thebody.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217173345id_/http%3A//www.thebody.com/privacy.html) for the most accurate reproduction.*
 
-# The Body's Privacy Policy
+# The Body: Privacy Policy
+
+| 
+
+###### 
 
 Body Health Resources Corporation, which produces The Body, is committed to protecting the privacy of any information you choose to provide to us. 
 
@@ -13,7 +17,7 @@ You do not need to provide any information that identifies you ("personal inform
 You may choose to provide The Body with personal information for the following purposes: 
 
   * **Information Updates**  
-You may request to join a list of visitors to whom The Body distributes regular updates about new features and information (such as new treatment options, forums and conference coverage). These updates are distributed by e-mail. We do not furnish these e-mail addresses to third parties, such as other services or organizations. You may unsubscribe from this feature at any time. 
+You may opt to give us your e-mail address and join a list of visitors to whom The Body distributes regular updates about new features, information and services (such as new treatment options, forums, conference coverage, or pharmacy or clinical trial services we may offer from time to time). These updates are distributed by e-mail. We do not furnish these e-mail addresses to third parties, such as other services or organizations, unless you explicitly agree. To make our communications personally relevant (unless we state otherwise at the time you furnish the e-mail address), we may associate your e-mail address with other information provided to us by you, previously, concurrently or subsequently. You may unsubscribe from this feature at any time. 
   * **Comments**  
 You may write to us with comments about the site. You need not identify yourself to send a comment or question; you may remain anonymous. If you choose to provide personal information in your comment or question, we may keep it in our correspondence files and we may send you a response. The Body does not furnish any e-mail addresses received in this manner to third parties, such as other services or organizations. 
   * **Public Forums**  
@@ -29,24 +33,24 @@ Accordingly, before you provide any of your personal health information in an ap
 ### Collection and Use of Non-Personal Information
 
   * **Anonymous Surveys**  
-You may elect to participate in a survey (such as a survey to assess your risk of HIV) by filling out an anonymous survey and submitting the results. These surveys do not collect any personal information -- the anonymous data that is collected is not associated with your name or any identifying information about you. 
+You may elect to participate in a visitor survey by filling out an electronic survey form and submitting the results. Unless you explicitly agree, these surveys do not collect any personal information -- and when data is collected anonymously it is not associated with your name or any identifying information about you other than a "cookie" as below. Data collected anonymously may, however, be associated with an e-mail address you provide to us (unless we state otherwise at the time you furnish the e-mail address), and used to make the information and services updates we e-mail to you more personally relevant in our judgement. 
+  * **Cookies**  
+Web sites can gather certain non-personal information about the usage of their sites through the use of "cookies." "Cookies" are small text files that are used to recognize repeat visitors, facilitate ongoing access to some sites, allow sites to understand how and when pages are visited and by how many people, and maintain identities during user sessions. 
+
+The Body currently uses (1) cookies to maintain identities during user sessions, and (2) cookies which may be placed in response to visitor survey responses, including anonymous survey responses. We use survey-response cookies to track site usage demographics, and (unless we state otherwise at the time you furnish the e-mail address) to make e-mail more personally relevant by associating certain e-mail topics with certain survey responses. We do not use software that recognizes the cookies placed on your computer by other sites not under contract to us as servers of advertisements, and we require such servers to abide by this privacy policy. We do not track your movements to other sites and neither we nor our servers of advertisements have agreements with third-party advertisers or others to use cookies to create user profiles. 
+
   * **Internet Protocol Addresses**  
 An Internet Protocol (IP) address is a number automatically assigned to your computer whenever you access the Internet. This number does not identify your name, e-mail address or other personal information. If you request pages from The Body, The Body's servers enter your IP address into a log. To maintain user anonymity, The Body does not associate IP addresses with records containing personal information. We also do not permit IP addresses to be associated and viewed with posts to chat rooms and bulletin boards. The Body stores IP addresses for a period of time to help us to identify anyone who refuses to comply with The Body's in-house rules or terms of service, and to identify visitors who threaten our service, site, customers or others. The Body also uses its log of IP addresses to compile aggregate information on how our visitors are using The Body and to measure site traffic for internal purposes for us and our sponsors. This aggregate data helps us to understand how people are using The Body and helps us improve your experience with The Body. 
-  * **Cookies**  
-Some websites automatically gather certain non-personal information about the usage of their sites through the use of "cookies." "Cookies" are small text files that recognize repeat visitors, facilitate ongoing access to some sites, allow sites to understand how and when pages are visited and by how many people, and maintain identities during user sessions in chat rooms. 
-
-The Body currently uses cookies in a limited way: we use cookies so that visitors can maintain identities during bulletin board sessions. We do not use software that recognizes the cookies placed on your computer by other sites. We do not track your movements to other sites, we do not engage in profiling users, and we do not have agreements with third-party advertisers or others who use cookies to create user profiles. We may decide to use cookies to maintain visitor identities in our chat rooms, and we may decide to use cookies to help us understand how and when pages at The Body are visited and by how many people. If we decide to use cookies in this way, we will collect this non-personal data only on an aggregate basis and use it for internal purposes only. 
-
 
 
 
 ### Disclosure of Personal Information
 
-The Body takes very seriously its responsibility to keep your personal information private. Accordingly, unless you have explicitly agreed otherwise, we do not make any of your personal information available to third parties. We may hire third-party technology providers to host our equipment or enable certain functions at our website and store your information, but we ensure that these technology providers are contractually obligated to maintain the confidentiality of all personal information. 
+The Body takes very seriously its responsibility to keep your personal information private. Accordingly, unless you have explicitly agreed otherwise, we do not make any of your personal information available to third parties. We may hire third-party technology providers to host our equipment or enable certain functions at our Web site and store your information, but we ensure that these technology providers are contractually obligated to maintain the confidentiality of all personal information. 
 
 At the specific request of users who volunteer for research opportunities or buying programs, we may share the personal information of those volunteers with participating researchers, laboratories or buyers' club providers administering the programs for which those users have volunteered. We will require by contract that these third parties hold personal information in strict confidence, and not use it for any reasons other than the ones for which the volunteer gave permission. These researchers, laboratories and buyers' club providers are independent of The Body, however, and there are limits on the assurance The Body gives you when information passes into their hands. Visitors considering volunteering should read carefully the Participation Agreement discussed under Research Opportunities, above, to understand the limits of our responsibility. 
 
-We may be required to disclose personal information by law or legal process, to protect and defend the rights or property of The Body, or to protect the personal safety of users of our website. We must reserve the right to contact appropriate authorities when activities that are illegal or violate our policies are taking place on our website. 
+We may be required to disclose personal information by law or legal process, to protect and defend the rights or property of The Body, or to protect the personal safety of users of our Web site. We must reserve the right to contact appropriate authorities when activities that are illegal or violate our policies are taking place on our Web site. 
 
 Except under the limited circumstances described above, we do not disclose your personal information to unaffiliated third parties. 
 
@@ -58,7 +62,7 @@ We also safeguard personal information from unauthorized access. Only authorized
 
 ### External Links
 
-The Body provides links to various websites other than our own, and we do not control them. Even if an affiliation exists between The Body and such a third-party website, The Body exercises no control over linked sites. When you click on one of these links, you will be transferred out of The Body and connected to the website of the organization or company that you selected. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a website that is linked to The Body, you should consult that site's privacy policy before providing any personal information. 
+The Body provides links to various Web sites other than our own, and we do not control them. Even if an affiliation exists between The Body and such a third-party Web site, The Body exercises no control over linked sites. When you click on one of these links, you will be transferred out of The Body and connected to the Web site of the organization or company that you selected. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site that is linked to The Body, you should consult that site's privacy policy before providing any personal information. 
 
 ### Safeguarding Children's Privacy
 
@@ -70,4 +74,6 @@ By using The Body, you signify your agreement to the terms of our privacy policy
 
 Questions or comments about this policy or the use of personal information may be sent to [registration@thebody.com](mailto:registration@thebody.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information. 
 
-_Last Updated April 4, 2001_
+_Last Updated March 30, 2004_
+
+| 
