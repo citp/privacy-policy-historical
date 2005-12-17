@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pny.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405204526id_/http%3A//www.pny.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pny.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217122637id_/http%3A//www.pny.com/privacy.asp) for the most accurate reproduction.*
 
 # PNY
 
@@ -8,6 +8,7 @@
 | [Pressroom](https://web.archive.org/pressroom "Pressroom")  
 | [Support](https://web.archive.org/support "Support")  
 | [Products](https://web.archive.org/products "Products")  
+| [Resellers](http://www.pny.com/creditapplication.xls "Resellers")  
 | [Where to Buy](https://web.archive.org/whereToBuy "Where to Buy")  
 | [International](https://web.archive.org/international "International")  
 | [How to Install](https://web.archive.org/install "How to Install")  
