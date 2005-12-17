@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simplygames.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402015705id_/http%3A//www.simplygames.com/information.asp%3Fid%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplygames.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217222950id_/http%3A//www.simplygames.com/information.asp%3Fid%3D21) for the most accurate reproduction.*
 
 # 
 
-We are committed to protecting your personal information and will keep the information you entrust by keeping it safely and securely. Simply Games may from time to decide or be legally obliged to update this Privacy Policy. Any changes will be posted at this site. Except as required by law, modifications to this Privacy Policy shall not affect Simply Games treatment of data collected prior to the effective date of the Policy change. Why we collect information:Simply Games collects information from you for three reasons:
+We are committed to protecting your personal information and will keep the information you entrust by keeping it safely and securely. Simply Games may from time to decide or be legally obliged to update this Privacy Policy. Any changes will be posted at this site. Except as required by law, modifications to this Privacy Policy shall not affect Simply Games treatment of data collected prior to the effective date of the Policy change. Why we collect information: Simply Games collects information from you for three reasons:
 
 To process your order, we collect your name; email address, postal address and credit card details.  
 To make your visit more rewarding and useful, we may monitor customer patterns and your use of the store via cookies. Please see the information below on cookies. 
