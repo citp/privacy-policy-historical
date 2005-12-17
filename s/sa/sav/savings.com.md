@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420023450id_/http%3A//www.savings.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217115338id_/http%3A//www.savings.com/corporate/privacy.pc) for the most accurate reproduction.*
 
-# Savings.com - Privacy Policy
+# Privacy Policy - Savings.com
 
-  
+**Privacy Statement**
+
 [](http://www.truste.org/ivalidate.php?url=www.savings.com&sealid=101)
-
-**Privacy Statement  
-**
 
 Savings.com is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time so please check back periodically.  
 
@@ -68,7 +66,7 @@ Savings.com does not sell trade or rent your personal information to other peopl
 **As Permitted by Law -** We may be required to share your personal information with law enforcement or government agencies in response to subpoenas, court orders, federal/state audits or similar circumstances. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Savings.com's Terms of Use, or as otherwise required by law.  
 
 
-**Business Transfer -** As with any other business, it is possible that Savings.com, LLC. in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by Savings.com, including customer account information, but would continue to be bound by this privacy policy unless you consent otherwise.  
+**Business Transfer -** As with any other business, it is possible that Savings.com, Inc. in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by Savings.com, including customer account information, but would continue to be bound by this privacy policy unless you consent otherwise.  
 
 
 **Cookies and IP Addresses  
@@ -137,18 +135,11 @@ If you want to access or update the personal information you submitted to Saving
 **Questions and Suggestions  
 **
 
-If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us:   
+If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us by sending us a message using the [Customer Care form](http://savings.com/corporate/customercare.html) or by sending a letter to:   
 
 
-By sending us a message using the [Customer Care form](http://savings.com/corporate/customercare.html):  
-
-
-or
-
-By sending a letter to:   
-
-
-Savings.com LLC Attn: Customer Support 629 State Street #249 Santa Barbara, CA 93101
+Savings.com, Inc  
+Attn: Customer Support 629 State Street #249 Santa Barbara, CA 93101
 
 **Retention of information  
 **
@@ -159,7 +150,7 @@ Any information we collect may be retained for an indeterminate period of time. 
 **Who is collecting your information  
 **
 
-Your information is being collected solely by Estalea, the owner and operator of Savings.com. See the discussion under "With whom your information may be shared" below concerning the circumstances under which certain of your information may be disclosed to third parties.  
+Unless otherwise noted, your information is being collected solely by Savings.com. See the Section titled "With whom your information may be shared" above concerning the circumstances under which certain of your information may be disclosed to third parties.  
 
 
 **Changes to this privacy policy  
@@ -174,5 +165,5 @@ All versions of this privacy policy are dated with the effective date (the date 
 This privacy policy is not intended to and does not create any contractual or legal rights in or on behalf of any party. As noted above, we may revise this privacy policy from time to time in our sole discretion.   
 
 
-**Effective date March 14, 2005.  
+**Effective date October 18th, 2005.  
 **
