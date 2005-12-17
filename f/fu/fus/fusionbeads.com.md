@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the fusionbeads.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207135556id_/http%3A//www.fusionbeads.com/shop/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusionbeads.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218001444id_/http%3A//www.fusionbeads.com/shop/privacypolicy.php) for the most accurate reproduction.*
 
 # Fusion Beads, bead, beading, sterling, seed beads, charm, swarovski, lampwork, glass, jewelry, pearls
-
-DISCOUNTS   
-over $100 = 10% off  
-over $750 = 15% off  
-over $1500 = 20% off
-
-LAUNCH SPECIAL!   
-FREE SHIPPING ON  
-DOMESTIC ORDERS  
-OVER $25
-
-Privacy Policy
 
 **At Fusion Beads Incorporated, we are committed to protecting your privacy. We use the information we collect about you to process orders only. Please read on for more details about our privacy policy.**
 
@@ -26,3 +14,7 @@ When you place orders, we provide the use of a secure server. The secure server 
 Fusion Beads Incorporated does not sell, trade, or rent your personal information to others. This information is for our private records only.
 
 By using our Web site, you consent to the collection and use of this information by Fusion Beads Incorporated. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it.
+
+  
+|  |  |  |  |  |   
+---|---|---|---|---|---|---
