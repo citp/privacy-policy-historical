@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the navyseals.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205075250id_/http%3A//www.navyseals.com/community/aboutus/privacypolicy_main.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navyseals.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217181441id_/http%3A//www.navyseals.com/community/aboutus/privacypolicy_main.cfm) for the most accurate reproduction.*
 
 # Navy SEALs.com - Privacy Policy Main
-
-Effective 3/24/02 
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
@@ -60,4 +58,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please email at [cchapman@navyseals.com](mailto:cchapman@navyseals.com). 
+Should you have other questions or concerns about these privacy policies, please email at [support@navyseals.com](mailto:support@navyseals.com). 
