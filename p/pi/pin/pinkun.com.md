@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinkun.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206031356id_/http%3A//www.pinkun.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkun.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217083237id_/http%3A//new.pinkun.com/Privacy.aspx) for the most accurate reproduction.*
 
-# The Pink'un
+# The Pink 'Un - Norwich City football news, stats and message boards
 
 Privacy statement for Archant Regional websites
 
