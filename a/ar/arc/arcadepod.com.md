@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcadepod.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527190617id_/http%3A//www.arcadepod.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadepod.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218001527id_/http%3A//arcadepod.com/privacy.php) for the most accurate reproduction.*
 
-# ArcadePod.Com
+# ArcadePod.Com: Free Online Games
 
 **ArcadePod.Com Privacy Policy**
 
@@ -24,10 +24,8 @@ If you have any additional questions about ArcadePod.Com's dedication to consume
 
 * * *
 
-This site, ArcadePod.Com, uses the services of FastClick, ValueClick and focusIN for the serving and/or targeting of ads, promotions and other marketing messages. To do this, they collects anonymous data through the use of cookies. 
+This site, ArcadePod.Com, uses the services of FastClick, Casale Media and Google for the serving and/or targeting of ads, promotions and other marketing messages. To do this, they collects anonymous data through the use of cookies. 
 
-To learn more about FastClick, go to <http://www.fastclick.com/about/opt-out.html>.   
-To learn more about ValueClick, go to <http://www.valueclick.com/privacy.html>.   
-To learn more about focusIN, go to <http://www.focusin.com/privacy.htm>. 
+To learn more about FastClick, go to <http://www.fastclick.com/about/opt-out.html>. 
 
 * * *
