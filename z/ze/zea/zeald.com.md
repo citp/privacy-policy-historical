@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zeald.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308174806id_/http%3A//www.zeald.com/zeald/static_page_viewer/staticpage/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeald.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217115745id_/http%3A//www.zeald.com/Company/Privacy%2BPolicy.html) for the most accurate reproduction.*
 
-# Zeald.com - Websites that Work!
+# Zeald.com Privacy Policy
 
-Privacy Policy
+| 
 
-Last Updated: January 20th 2004
+Last Updated: February 20th 2005
 
 Zeald.com has established a privacy policy to outline how it protects and manages the personal information that it collects from you (the customer) online.
 
@@ -99,4 +99,7 @@ North Shore Mail Centre
 Auckland 1330  
 New Zealand
 
-or by emailing privacy@zeald.com
+or by emailing privacy@zeald.com  
+  
+  
+---|---
