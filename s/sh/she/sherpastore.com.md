@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sherpastore.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418013109id_/http%3A//www.marketingsherpa.com/company.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherpastore.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217090408id_/http%3A//www.marketingsherpa.com/company.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # MarketingSherpa.com : Practical News & Case Studies on Internet Advertising, Marketing & PR
 
