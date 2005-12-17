@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418054631id_/http%3A//www.thinkgeek.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217131536id_/http%3A//www.thinkgeek.com/privacy.shtml) for the most accurate reproduction.*
 
 # ThinkGeek :: ThinkGeek :: Privacy Policy
 
@@ -20,9 +20,9 @@ Our [feedback page](https://web.archive.org/feedback.shtml) asks visitors for de
 
 ## Choice/Opt-Out
 
-When you first enter your contact information, you may select if you would like to receive our emails and/or snail mail. 
+When you first enter your contact information, you may select if you would like to receive our e-mail newsletters. 
 
-You may be removed from our email or snail mail list at anytime, by doing one of the following: 
+You may be removed from our em-ail or snail mail list at anytime, by doing one of the following: 
 
   1. If you have an account, edit your preferences in your [Account Info](https://www.thinkgeek.com/brain/account/finger.cgi). 
   2. If you do not have an account, send an email to webmaster@thinkgeek.com. 
@@ -45,4 +45,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 Jennifer Frazier ThinkGeek, Inc. 10801 Main Street, Suite 700 Fairfax, VA 22030
 
-[webmaster@thinkgeek.com](mailto:webmaster@thinkgeek.com)
+webmaster@thinkgeek.com 
