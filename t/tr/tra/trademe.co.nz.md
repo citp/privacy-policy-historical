@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trademe.co.nz privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418005155id_/http%3A//www.trademe.co.nz/structure/helpdocs/default.asp%3Fhelp_id%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademe.co.nz privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217182246id_/http%3A//www.trademe.co.nz/structure/helpdocs/default.asp%3Fhelp_id%3D145) for the most accurate reproduction.*
 
 # TradeMe.co.nz - New Zealand Online Auctions & Classifieds - Trade Me
 
-Trade Me has created this privacy statement in order to demonstrate our firm commitment to privacy. This document discloses our information gathering and usage practices. For additional information about Trade Me, please review our [Terms and Conditions](https://web.archive.org/structure/helpdocs/terms_and_conditions.asp). 
+Trade Me has created this privacy statement in order to demonstrate our firm commitment to privacy. This document discloses our information gathering and usage practices. For additional information about Trade Me, please review our [ Terms and Conditions](https://web.archive.org/structure/helpdocs/terms_and_conditions.asp). 
 
 **Use of your information**  
 Trade Me **does not** sell or rent your personal identification to third parties. 
@@ -29,7 +29,7 @@ You are responsible for all actions taken with your user name, email address and
 **Credit Card Security**  
 We work diligently to protect the security of your personal information, including credit card information. 
 
-We protect your credit card information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. When paying by credit card, you can choose to "save this card for next time". If you choose this option, your credit card details are encrypted and securely stored by Direct Payment Solutions (DPS). [Review their Privacy Policy](https://web.archive.org/structure/helpdocs/dps_privacy_policy.pdf) (PDF document). Your credit card details are not held by Trade Me and can not be accessed by Trade Me staff. 
+We protect your credit card information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. When paying by credit card, you can choose to "save this card for next time". If you choose this option, your credit card details are encrypted and securely stored by Direct Payment Solutions (DPS). [ Review their Privacy Policy](https://web.archive.org/structure/helpdocs/dps_privacy_policy.pdf) (PDF document). Your credit card details are not held by Trade Me and can not be accessed by Trade Me staff. 
 
 It is important for you to protect against unauthorized access to your password and to your computer by ensuring you logoff when you have finished visiting Trade Me using a shared computer. 
 
@@ -57,10 +57,10 @@ Some Trade Me advertisers may request information directly from users, or link t
 
 Trade Me contains non-advertising links to a variety of third party sites to enhance the member experience. Trade Me has no control of either the content or privacy policies of such sites, nor should such links be considered an endorsement of these sites except where otherwise noted. 
 
-**Red Sheriff - NZ internet statistics**  
-Trade Me, like most large New Zealand websites, uses the Red Sheriff counting system to collect information such as the number of visitors per day or the number of pages requested per day. To do this, Trade Me has a small piece of code on each page which counts these statistics. This enables us to see where we are in the 'top 10' list of New Zealand websites. 
+**Nielsen//NetRatings - NZ internet statistics**  
+Trade Me, like most large New Zealand websites, uses the Nielsen//NetRatings counting system to collect information such as the number of visitors per day or the number of pages requested per day. To do this, Trade Me has a small piece of code on each page which counts these statistics. This enables us to see where we are in the 'top 10' list of New Zealand websites. 
 
-For more information, View the Red Sheriff privacy policy. 
+For more information,  View the Nielsen//NetRatings privacy policy. 
 
 **Updates to our information practices**  
 From time to time, we make changes to our information practices or alter the functionality of our Web site. We always update this statement accordingly, so we encourage you to periodically review this page for the latest information on privacy practices at Trade Me. 
