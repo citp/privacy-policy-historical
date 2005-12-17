@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403220301id_/http%3A//www.metropcs.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217072014id_/http%3A//www.metropcs.com/privacy.php) for the most accurate reproduction.*
 
-# MetroPCS » Privacy Policy
+# 
 
+| |  | Privacy Policy  
+---|---|---  
   
+  * Wireless Subscriber Privacy Policy
+  * Website Privacy Policy
+
 
 
 * * *
