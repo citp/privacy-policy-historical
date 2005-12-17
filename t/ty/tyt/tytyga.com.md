@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tytyga.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233337id_/http%3A//tytyga.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tytyga.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217160525id_/http%3A//www.tytyga.com/privacy.html) for the most accurate reproduction.*
 
 # Online Nursery | Fruit Tree Nursery | Tree Nursery | Citrus Trees | Plant Nursery | Apple Trees | Online Plant Nurseries | Bamboo Plants | Nursery Online | Pear Tree | Nursery Garden | Palm Trees | Online Plant Nursery | Plum Tree Garden | Grapevine Trees
 
-**You Are Here** : [Ty Ty Nursery Home](https://web.archive.org/web/20050401233337id_/http%3A//tytyga.com/index.html) > Privacy Policy
+**You Are Here** : [Ty Ty Nursery Home](https://web.archive.org/web/20051217160525id_/http%3A//www.tytyga.com/index.html) > Privacy Policy
 
 **We will NEVER rent, resell, or give your contact information or e-mail address to anyone.**
 
