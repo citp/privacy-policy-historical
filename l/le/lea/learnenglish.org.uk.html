@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the learnenglish.org.uk privacy policy that was archived on 2005-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050418044616id_/http%3A//www.britishcouncil.org/home-privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the learnenglish.org.uk privacy policy that was archived on 2005-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217174437id_/http%3A//www.britishcouncil.org/home-privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <base href="http://www.britishcouncil.org/">
@@ -14,10 +14,11 @@
 
 
 <script language="Javascript" type="text/javascript" src="home-nav-footer-contents.js"></script>
-<script language="Javascript" type="text/javascript" src="palette-9-nav-footer-config.js"></script>
+<script language="Javascript" type="text/javascript" src="global-palette-9-nav-footer-config.js"></script>
 <script language="Javascript" type="text/javascript" src="global-functions.js"></script>
 <script language="Javascript" type="text/javascript" src=""></script>
-<link rel="STYLESHEET" type="TEXT/CSS" href="palette-9.css">
+<link rel="STYLESHEET" type="TEXT/CSS" href="global-palette-9.css">
+
 
 
 
@@ -75,132 +76,93 @@
 
 
 <script language="javascript">
-
 usrAgent = navigator.userAgent;
-
 bName = (usrAgent.indexOf("Opera") > -1 ? "Opera" : navigator.appName);
-
-            
-
 if (bName == "Microsoft Internet Explorer") {
-
             pos = usrAgent.indexOf("MSIE");
-
             bVer = usrAgent.substring(pos + 5);
-
             pos = bVer.indexOf(';');
-
             bVer = parseFloat(bVer.substring(0,pos));
-
             bName = "ie";
-
 } else if (bName == "Netscape") {
-
             if (usrAgent.indexOf("Netscape6") > -1) {
-
                         pos = usrAgent.indexOf("Netscape6");
-
                         bVer = usrAgent.substring(pos + 10);
-
-                        bVer = parseFloat(bVer.substring(0,pos));
-
+                   	    bVer = parseFloat(bVer.substring(0,pos));
                         bName = "ns";
-
             } else {
-
-                        bVer = usrAgent.substring(8);
-
+                       bVer = usrAgent.substring(8);
                         pos = bVer.indexOf(' ');
-
                         bVer = parseFloat(bVer.substring(0,pos));
-
-                        bName = "ns";
-
-            }
-
+                        bName = "ns";          }
 } else if (bName == "Opera") {
-
                         pos = usrAgent.indexOf("Opera");
-
             bVer = usrAgent.substring(pos + 6);
-
             pos = bVer.indexOf(' ');
-
             bVer = parseFloat(bVer.substring(0,pos));
-
             bName = "op";
-
 } else {
-
             bName = "na";
-
             bVer = "na";
-
 }
-
- 
-
 platform = navigator.platform;
 
 if (platform.indexOf("Win") > -1) {
 
             platform = "win";
-
 }
-
 else if (platform.indexOf("Mac") > -1) {
 
             platform = "mac";
-
 }
-
 else {
-
             platform = "na";
-
 }
-
 function executeTest() {
-
             document.write("<b>Browser:</b> " + bName + "<br>\n");
-
             document.write("<b>Version:</b> " + bVer + "<br>\n");
-
             document.write("<b>Platform:</b> " + platform + "<br>\n");
-
             document.write("<b>UsrAgent:</b> " + usrAgent + "<br>\n");
-
 }
-
 </script>
 
-<script language="javascript">
 
-<!--
+<script>
+//alert(navigator.appname);
+//1
 
-var fName;
+var NS = (navigator.appName == "Netscape" || navigator.product == 'Gecko') ? 1 : 0;
+if (NS) document.captureEvents(Event.DBLCLICK); 
+document.ondblclick = dict;
+var dictvar;
+function dict()
+ { 
+ 	if (NS) 
+	 	{ 
+		 	t = document.getSelection();
+			pass_to_dictionary(t);
+		 } 
+	else
+		 { 
+		 	t = document.selection.createRange();
+			if(document.selection.type == 'Text' && t.text != '')
+			 	{ 
+				 	document.selection.empty();
+					pass_to_dictionary(t.text);
+				 }
+		  }
+ } 
+function pass_to_dictionary(text) 
+	{ 
+		//alert(text);	
+		if (text > '')
+		 { 
+		 	window.open('http://dictionary.cambridge.org/learnenglish/results.asp?searchword='+text+ '&dict=L', 'dict_win', 'width=650,height=400,resizable=yes,scrollbars=yes');
+		  }
+	 }
+</script>
 
-document.write("<link rel=\"stylesheet\" href=\"");
 
- 
-
-if (bName == "ns" && platform == "mac") fName="css-mac_ns.css";
-
-else if (platform == "mac") fName="css-mac_ie.css";
-
-else if (bName == "ns" && platform == "win") fName="css-win_ns.css";
-
-else if (platform == "win") fName="css-win_ie.css";
-
-else { fName="css-mac_ns.css" }
-
- 
-
-document.write(fName + "\" type=\"text/css\">");
-
-//-->
-
-</script><link rel="stylesheet" href="css-mac_ns.css" type="text/css">
 
 </head> 
 <body bgcolor="#ffffff" bottommargin="0" leftmargin="0" onresize="if(ns4up)document.location.reload();" rightmargin="0" topmargin="0" marginheight="0" marginwidth="0">
@@ -212,69 +174,49 @@ initNavigation();
 populateMenu();
 // -->
 </script>
+<table cellspacing="0" cellpadding="0" border="0" width="770" height="27">
+<tbody><tr bgcolor="#FFFFFF">
+	<form name="frmSearch" id="frmSearch" method="post" action="home-search-results.htm"></form>
+	<input type="hidden" name="stat" id="stat" value="0">
+	<input type="hidden" name="searchType" id="searchType" value="simple">
+	<input type="hidden" name="txtStartAt" id="txtStartAt" value="1">
+	<input type="hidden" name="languagetype" id="languagetype" value="utf8">
+	<input type="hidden" name="country" id="country" value="home">
+	<input type="hidden" name="NResults" id="NResults" value="10">
+	<input type="hidden" name="language" id="language" value="UTF8">
+	<td valign="middle"><img src="spacer.gif" width="16"></td>
+	<td valign="middle" align="left"><a href="http://transcoder.usablenet.com/tt/http://www.britishcouncil.org/home-privacy-policy.htm" class="contenttext"><b>Text only</b></a></td>	
+	<td valign="middle" align="left"></td>
+	<td valign="middle" align="left"><a href="print-page?id=302521" target="_blank" class="footertext">Print</a> <img src="spacer.gif" width="5">| <img src="spacer.gif" width="5"><script language="JavaScript">
+	<!-- Begin
+	function callPopUp(){
+		var strURL="http://www.britishcouncil.org/email_this_page.htm?pagename=kids-topics&urlonly=kids-topics.htm";
+		window.open(strURL,"","height=100,width=400,status=no,toolbar=no,menubar=no,location=no,scrollbars=no,resizable=yes,titlebar=no,left=75,top=60");
+	}
+	//document.write("<A class='footertext' HREF='javascript:callPopUp();'>E-mail this page</a>");
+	// End -->
+</script>
+<a class="footertext" href="javascript:callPopUp();">E-mail this page</a><img src="spacer.gif" width="5">|<img src="spacer.gif" width="5"><script type="text/javascript"><!--
+function bookmark(bmurl, bmtitle){
+   if(navigator.userAgent.indexOf('MSIE') >= 0 && navigator.userAgent.indexOf('Opera') < 0){
+       window.external.AddFavorite(bmurl, bmtitle);
+   }
+   else{
+       window.sidebar.addPanel(bmtitle, bmurl,""); 
+   }
+}
+--></script><a class="footertext" href="#" onclick="bookmark('http://www.britishcouncil.org/kids-topics.htm', 'British Council - Topics'); return false;">Add to favourites</a><img src="spacer.gif" width="5">|<img src="spacer.gif" width="5"><a href="http://search.britishcouncil.org/multi/suggest_docs.asp?docURL=http://www.britishcouncil.org/home-privacy-policy.htm&amp;country=home&amp;txtquerytype=2&amp;languagetype=utf8" class="footertext" target="popup" onclick="openSearchPopup();">Suggest similar pages</a></td>
+	<td valign="middle" align="right"><img src="spacer.gif" width="15"><input type="text" name="txtQueryString" id="txtQueryString" size="15" maxlength="1000" value="search our site" onfocus="this.value=&quot;&quot;" onblur="if(this.value==&quot;&quot;){this.value=&quot;search our site&quot;}"><input type="submit" value="GO"></td>
+	
+</tr>
+</tbody></table>
 <noscript><IMG WIDTH="0" HEIGHT="0" SRC="http://britishcouncil.mtk1.com/perl/mtk.pl?js=0"></noscript><table cellspacing="0" cellpadding="0" border="0" width="770">
 	<tbody><tr bgcolor="#00A1E5">
 		<td width="100%" height="52">
 			<table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#00A1E5">	
 				<tbody><tr>
 					<td width="557" valign="top"><a href="home.htm"><img src="home-logo-top-bar.jpg" width="395" height="52" alt="British Council home" border="0"></a></td>		
-					<td width="213" valign="middle" align="right"><form name="frmSearch" id="frmSearch" method="post" action="home-search-results.htm">
-
-<input type="hidden" name="stat" id="stat" value="0">
-<input type="hidden" name="searchType" id="searchType" value="simple">
-<input type="hidden" name="txtStartAt" id="txtStartAt" value="1">
-<input type="hidden" name="languagetype" id="languagetype" value="utf8">
-<input type="hidden" name="country" id="country" value="home">
-<input type="hidden" name="NResults" id="NResults" value="10">
-<input type="hidden" name="language" id="language" value="UTF8">
-
-<table border="0" width="100" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td colspan="9"><img src="spacer.gif" border="0" width="1" height="5"></td>
-	</tr>
-	
-	<tr>
-		<td align="right" colspan="8"><a href="http://transcoder.usablenet.com/tt/http://www.britishcouncil.org/home-privacy-policy.htm" class="subtitlebartext7">Text only</a></td>
-		<td align="right"><img src="spacer.gif" border="0" width="2"></td>
-	</tr>
-
-	<tr>
-		<td colspan="9"><img src="spacer.gif" border="0" width="1" height="3"></td>
-	</tr>
-			
-	<tr>
-		<!--<TD COLSPAN="7" align="center" valign="middle" class="contenttext"><a href="http://transcoder.usablenet.com/tt/http://www.britishcouncil.org/home-privacy-policy.htm">TEXT ONLY</a></TD>-->
-		<td align="right" valign="middle"><img src="spacer.gif" border="0" width="5"></td>			
-		<td align="right" valign="middle"><input type="text" name="txtQueryString" id="txtQueryString" size="15" maxlength="1000" value="search our site" onfocus="this.value=&quot;&quot;" onblur="if(this.value==&quot;&quot;){this.value=&quot;search our site&quot;}"></td>
-		<td align="right" valign="middle"><img src="spacer.gif" border="0" width="5"></td>
-		<td align="right" valign="bottom"><input type="image" src="go_palette09.gif" border="0" alt="Search the British Council web site"></td>	
-		<td align="right" valign="bottom"><img src="spacer.gif" border="0" width="5"></td>
-		<td align="right" valign="bottom"><a href="home-privacy-policy.htm?printout=1" target="_blank"><img src="print_palette09.gif" border="0"></a></td>
-		<td align="right" valign="bottom"><img src="spacer.gif" border="0" width="5"></td>
-		<td align="right" valign="bottom"><script language="JavaScript">
-	<!-- Begin
-
-	function isPPC() {
-	if (navigator.appVersion.indexOf("PPC") != -1) return true;
-	else return false;
-	}
-	if(isPPC()) {
-	document.write('<A HREF=\"mailto\:\?subject=This URL may be of interest to you. It is called ' + document.title + '\?body=You can view this page at: ' + window.location + '\"><img src=\"mail_palette09.gif\" border=\"0\" alt=\"email this page\"></A>') ;
-	}
-	else { 
-	document.write('<A HREF=\"mailto\:\?body=This URL may be of interest to you. It is called ' + document.title + '. You can view this page at: ' + window.location + '\"><img src=\"mail_palette09.gif\" border=\"0\" alt=\"email this page\"></A>') ;
-	}
-
-	// End -->
-</script><a href="mailto:?body=This URL may be of interest to you. It is called Privacy policy - British Council. You can view this page at: https://web.archive.org/web/20050418044616id_/http%3A//www.britishcouncil.org/home-privacy-policy.htm"><img src="mail_palette09.gif" border="0" alt="email this page"></a></td>
-		<td align="right" valign="bottom"><img src="spacer.gif" border="0" width="2" height="5"></td>
-		<script language="javascript">
-			if (platform == "win" && bName == "ie") {
-				document.write('</form>');
-		}
-		</script>	
-	</tr>
-</tbody></table></form></td>						
+					<td width="213" valign="middle" align="right"></td>						
 				</tr>
 			</tbody></table>		
 		</td>
@@ -286,7 +228,7 @@ populateMenu();
 		<td valign="top" width="100%" bgcolor="#00A1E5"><img src="spacer.gif" border="0" width="760" height="1"></td>
 	</tr>
 	<!-- START: TRACKING CODE -->
-
+<form name="mtk"></form>
 <input type="hidden" name="pg" value="http://www.britishcouncil.org/home-privacy-policy">
 <input type="hidden" name="language" value="">
 <input type="hidden" name="country-dept" value="27652">
@@ -297,19 +239,15 @@ populateMenu();
 <script src="http://britishcouncil.mtk1.com/js/mtk.js"></script>
 <!-- END: TRACKING CODE -->
 </tbody></table>
-<script language="javascript">
-	if (platform == "mac" || bName == "ns") {
-		document.write('</form>');
-	}
-</script>
 <!-- START: CONTENT TEMPLATE --> 
 
-<link rel="STYLESHEET" type="TEXT/CSS" href="palette/palette-9-scheme-3.css">
+<link rel="STYLESHEET" type="TEXT/CSS" href="global-palette-9-scheme-3.css">
 
 
 
 <!------ TEMPLATE= <b>ct-ltr-text-only</b> ------>
-<!------ LAST UPDATED= <b>14.04.2005 17:24:37</b> ------>
+<!------ LAST UPDATED= <b>12.12.2005 14:57:10</b> ------>
+
 <table cellspacing="0" cellpadding="0" border="0" width="770">
 <tbody><tr>
 	<td bgcolor="#FFFFFF"></td>
@@ -352,7 +290,8 @@ populateMenu();
 </tr>
 </tbody></table>
 	<table cellspacing="0" cellpadding="0" border="0" width="100%">
-		<tbody><tr><td class="contenttext"><p><b>The British Council regards the lawful and correct treatment of personal information as important to our successful operations and to the maintenance of confidence of those with whom we deal. As such this statement will apply equally to all of our offices irrespective of where they are based.</b></p>
+		<tbody><tr>
+			<td class="contenttext"><p><b>The British Council regards the lawful and correct treatment of personal information as important to our successful operations and to the maintenance of confidence of those with whom we deal. As such this statement will apply equally to all of our offices irrespective of where they are based.</b></p>
 <p>We will ensure that our staff and those acting on our behalf obtain, use and disclose personal information lawfully and correctly. To this end we fully endorse and adhere to the principles of data protection, as set out in the UK Data Protection Act 1998 (the "Act"). We shall apply the Act globally, except where part or all of any local law is stronger.</p>
 <p>In particular we will:</p>
 
@@ -481,8 +420,10 @@ populateMenu();
 <p>Please note that where our website contains <b>links</b> to other websites, we are not responsible for the privacy practices of other websites and this statement applies solely to any personal information collected by our website.</p>
 <p><b>IP addresses</b> are not linked to personally identifiable information. We only use IP addresses to analyze trends, administer our website, track general user movements, and gather broad demographic information for aggregate use.</p>
 <p>Furthermore please be aware that we use cookies on our website. We use cookies to track the interests of our users so that we can subsequently enhance their experience on our website. If your browser rejects a cookie, you may still use our website.</p>
-</td></tr>
+</td>
+		</tr>
 	</tbody></table>
+	
 	<table cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
 	<td><img src="spacer.gif" border="0" width="1" height="20"></td>
@@ -551,8 +492,7 @@ populateMenu();
 <table cellpadding="0" cellspacing="0" border="0" width="770">
 <tbody><tr>
 	<td width="11"><img src="spacer.gif" width="11" height="1"></td>
-	<td class="footertext" valign="middle" align="left">We are registered in England as a charity. Our <a href="home-privacy-policy.htm" target="_blank">privacy</a> and <a href="home-copyright-policy.htm" target="_blank">copyright</a> 
-statements.<br><a href="http://foi.britishcouncil.org" target="_blank">Our Freedom of Information Publications Scheme</a>.</td>
+	<td class="footertext" valign="middle" align="left">We are registered in England as a charity. Our <a href="home-privacy-policy.htm" target="_blank">privacy</a> and <a href="home-copyright-policy.htm" target="_blank">copyright</a> statements.<br><a href="http://foi.britishcouncil.org" target="_blank">Our Freedom of Information Publications Scheme</a>. Double-click for <a href="home-dictionary.htm" target="_blank">pop-up dictionary</a>.</td>
 	<td class="footertext" valign="middle" align="left"><img src="spacer.gif" width="10" height="1" border="0" alt=" "></td>
 	<td class="footertext" valign="middle" align="right"><a href="http://www.browsealoud.com/downloads.asp?dl=bl" target="_blank"><img src="structure-browsealoud.gif" width="79" height="23" alt="Download Browsealoud" border="0"></a></td>
 </tr>
