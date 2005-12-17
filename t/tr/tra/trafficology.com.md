@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficology.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624011037id_/http%3A//www.nitromarketing.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficology.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217172110id_/http%3A//www.nitromarketing.com/privacypolicy.html) for the most accurate reproduction.*
 
 # NitroMarketing.com
 
