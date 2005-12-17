@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406023025id_/http%3A//www.mybinding.com/.sc/ms/sp/1032987946/9/nc/ee) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217203207id_/http%3A//www.mybinding.com/.sc/ms/sp/1032987946/9/nc/ee) for the most accurate reproduction.*
 
 # www.mybinding.com - GBC and IBICO binding machines and laminating machines
 
