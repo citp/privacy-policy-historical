@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527142616id_/http%3A//www.100percentdesign.co.uk/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217033433id_/http%3A//www.100percentdesign.co.uk/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.*
 
 # 100% Design - Privacy Pledge
 
