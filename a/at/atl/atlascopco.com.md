@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the atlascopco.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305021401id_/http%3A//www.atlascopco.com/AC/ac.nsf/docs/Legal%2BNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlascopco.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217225140id_/http%3A//www.atlascopco.com/ACGROUP/acgroup.nsf/docs/Legal%2Bnotice) for the most accurate reproduction.*
 
-# 
+# Legal notice
 
+  
+  
+  
 We appreciate your interest in us. Below you will find information of legal relevance when visiting this website. In addition, you will find our Privacy Policy, which explains what kind of information may be gathered and processed, and how we may use “cookies”. We thank you for reading the contents of this page, and, if you accept all terms and conditions, for visiting the website. By accessing or using the website, you accept all terms and conditions.
 
 The Atlas Copco Group consists of a number of legal entities, each responsible for its own business and products. In no event shall a legal entity within the Atlas Copco Group be responsible or liable for the acts or omissions of another legal entity. By retrieving information through this website, or otherwise using the site, you accept that the responsibility and liability for a product, offer, or marketing information is limited only to the legal entity directly involved. 
@@ -41,6 +44,6 @@ _Security:_ Technical and administrative measures are implemented to help protec
 
 _Links To Third Party Websites:_ Some of our web pages may contain links to third party websites. Please note that we are not responsible for the privacy policies, content, or practices of such other websites or their owners or operators. 
 
-_Modification of Privacy Policy:_ We reserve the right to change or update this Privacy Policy at any time. 
+_Modification of Privacy Policy:_ We reserve the right to change or update this Privacy Policy at any time.    
+  
 
-This page was modified on: November 20, 2003
