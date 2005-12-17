@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restaurant.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305034346id_/http%3A//www.restaurant.com/privacy.asp%3Fpgn%3Dx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurant.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217073234id_/http%3A//www.restaurant.com/privacy.asp%3Fpgn%3Dx) for the most accurate reproduction.*
 
 # Restaurant.com -- Eat. Drink. Save Money.
 
