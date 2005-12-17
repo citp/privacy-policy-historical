@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305223231id_/http%3A//www.kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217185723id_/http%3A//kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # KinderArt - Privacy Policy
 
 KinderArt is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
-
-Our postal address is:   
-KinderArt c/o Jarea Art Studio  
-157 Water Street, St. Andrews NB E5B 1A7 Canada
 
 Our e-mail address is: [learn@kinderart.com](mailto:learn@kinderart.com)
 
