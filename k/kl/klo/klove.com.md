@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526093755id_/http%3A//www.klove.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217105313id_/http%3A//klove.com/About/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy: Positive & Encouraging K-LOVE Christian Music Artists Gospel Klove Christian online Radio Stations
+# Privacy Policy: Positive & Encouraging K-LOVE
 
 **K-LOVE is committed to safeguarding individual and corporate privacy on our website; we operate under a strict set of privacy principles:**
 
