@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizjournals.com privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513214503id_/http%3A//www.bizjournals.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizjournals.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217113939id_/http%3A//www.bizjournals.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - bizjournals.com
 
@@ -6,7 +6,7 @@
 
 Kids and parents click here!
 
-In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20050513214503id_/http%3A//www.bizjournals.com/user_agreement.html). Your use of Bizjournals.com constitutes agreement to its terms and conditions. 
+In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20051217113939id_/http%3A//www.bizjournals.com/user_agreement.html). Your use of Bizjournals.com constitutes agreement to its terms and conditions. 
 
 Bizjournals.com is produced by American City Business Journals. This policy does not cover information collected on sites linked to or from Bizjournals.com. 
 
