@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syracuse.com privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325092345id_/http%3A//www.syracuse.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syracuse.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217200822id_/http%3A//www.syracuse.com/privacypolicy) for the most accurate reproduction.*
 
 # Syracuse.com: Privacy Policy
 
@@ -62,19 +62,21 @@ Privacy Policy Coordinator
 5795 Widewaters Parkway  
 Syracuse, NY 13214 
 
-|  |  [](http://ads1.udc.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/showcase/sliding.ssf/NQS/5036363/SponsorRight/SYRACUSEONLINE/SY_SECTIONSP/adwithus100x45_71901.gif/64316564656562353432343364386130)   
+|  |    
   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
 » [Media Kit](https://web.archive.org/mediakit/)  
-» [Job Opportunities](http://www.syracuse.com/jobs/resumes/index.ssf?/vaui/EmpList/top/foliobycust/99311-0542?xid=26989.3a9e7866.0)  
+» [Job Opportunities](http://www.syracuse.com/jobs/resumes/index.ssf?/vaui/EmpList/top/foliobycust/99311-0542)  
 » [Our Affiliates](https://web.archive.org/affiliates/)  
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
   
-[](http://ads1.udc.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/privacypolicy/index.ssf/NQS/418557201/Tile1/SYRACUSEONLINE/LABRADOR08SY06A/to_lab.jpg/64316564656562353432343364386130)   
   
-[](http://ads1.udc.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/privacypolicy/index.ssf/NQS/689543131/Popup/default/empty.gif/64316564656562353432343364386130)  
+| **FROM OUR ADVERTISERS**  
+---  
+  
+  
   
 
