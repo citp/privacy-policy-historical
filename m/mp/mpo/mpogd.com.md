@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mpogd.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405202641id_/http%3A//www.mpogd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpogd.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217112737id_/http%3A//www.mpogd.com/privacy.asp) for the most accurate reproduction.*
 
 # Multiplayer Online Games Directory / Privacy Policy - Find Multiplayer Games Here
 
-| | | [](https://web.archive.org/ads/redirect.asp?id=393)
+| | | [](https://web.archive.org/ads/redirect.asp?id=628)
 
 _This document was last updated December 27, 2001._
 
@@ -46,4 +46,4 @@ MPOGD.com will occasionally update this privacy statement. When we do, we will a
 **Contact Information**  
 MPOGD welcomes your comments regarding this Statement of Privacy, please contact us by [e-mail](mailto:doug@mpogd.com), or postal mail.
 
-| | | [](https://web.archive.org/ads/redirect.asp?id=425)
+| | | [](http://www.bootleggers.us/ad.php?refer=mpogd)
