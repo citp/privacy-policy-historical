@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616233913id_/http%3A//www.ljhooker.com.au/content/content_one.php%3Fsect_id%3D7%26cat_id%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217145141id_/http%3A//ljhooker.com.au/content/content_one.php%3Fsect_id%3D7%26cat_id%3D7) for the most accurate reproduction.*
 
-# Real Estate - Australia - Residential, Commercial Property - L.J. Hooker
+# Real Estate - Real Estate Australia - Property and Homes for Sale, Rental Property - - Australia - L.J. Hooker - ljhooker.com.au
 
 **L.J. HOOKER PRIVACY POLICY**
 
