@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the 2020software.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206111821id_/http%3A//www.2020software.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2020software.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217140508id_/http%3A//www.2020software.com/privacy.asp) for the most accurate reproduction.*
 
 # Top 20 Accounting Systems and Accounting Software from 2020software.com
 
 |   
-| [](https://web.archive.org/) | [](https://web.archive.org/demos) | [](http://www.accountingshop.com/) | [](https://web.archive.org/software/display.asp?tMethodID=14&tMethod=industry) | [](https://web.archive.org/contact.asp)  
----|---|---|---|---  
-  |   |   |   |    
-[](https://web.archive.org/demos/default.asp)  
-|  |  | 
-
+|  [](https://web.archive.org/demos/default.asp)  
+|  |  | [](https://web.archive.org/demos/default.asp "Order Free Demos accounting, manufacturing, ERP and CRM systems.")  
+---  
+  
 | ** Privacy Statement**  
 ---  
    
