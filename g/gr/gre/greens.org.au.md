@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greens.org.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615021543id_/http%3A//www.greens.org.au/aboutusfolder/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greens.org.au privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217115306id_/http%3A//greens.org.au/aboutusfolder/privacypolicy) for the most accurate reproduction.*
 
-# www.greens.org.au - Privacy Policy
+# Welcome to the Australian Greens Online - Privacy Policy
 
 When you ask to be involved in our campaign, you need to provide some personal information including contact details. 
 
