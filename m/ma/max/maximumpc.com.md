@@ -1,45 +1,49 @@
-> *The following text is extracted and transformed from the maximumpc.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403120828id_/http%3A//maximumpc.com/others/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximumpc.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218005617id_/http%3A//www.maximumpc.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Maximum PC
 
-Please read our Privacy Policy. By using Maximum PC's Website and its services, you agree to the Privacy Policy. We may update and modify our Privacy Policy from time to time, and by continuing to use the site after the posting of a modification, you accept the modification. If you object to any terms and conditions of the Privacy Policy at anytime, you should immediately discontinue use of the site.
+## Statement of Privacy
 
- ****
+**_Last Updated on July 1, 2004_**
 
-**Users of Maximumpc.com**
+At Future Network USA, Inc., a magazine publisher, we are interested in protecting your privacy. But sometimes we do need information to understand how to make our magazines more interesting, more specialized and more successful, and this statement of privacy explains data collection and use in those situations. Please read the complete privacy statement.
 
-Except as specified in this Privacy Policy, Maximum PC does not sell, rent, give away, or loan any identifiable information regarding its members to any third party without the user's consent.
+**Collecting your Personal Information**  
+We will ask you when we need information that personally identifies you (that is, your first and last name; your home or business address; your e-mail address; your telephone number; your gender) or allows us to contact you. Generally, this information is requested when you are asked to register before entering a contest, ordering e-mail newsletters, or if you subscribe to one of our magazines or elect to participate in a forum and/or a survey. Personal information collected by any of our websites often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service to you.
 
-In order to subscribe to our weekly email newsletters, provide Maximum PC with feedback, make advertising requests, or receive email updates-users are required to provide us with their email address.
+For example: If you choose to subscribe to a magazine, we will request personal information such as: name, address, telephone number, and shipping information.
 
-The information we collect may be used by us to contact users for marketing purposes.
+**Use of your Personal Information** We use your personal information for the following primary purposes:
 
-Except as specified in this Privacy Policy, Maximum PC will not disclose any of your specific personal information unless you consent to disclose it. If you elect to participate in a special program, your specific personal information may be shared with participating vendors in order to finish the transaction. Maximum PC may share aggregate or summary information regarding its users with third parties.
+-To help us create and deliver content most relevant to you.  
+-To alert you to special offers, updated information and other services.  
+-To help us determine if any modifications need to be made to our publications or with respect to our subscriptions.  
+-To contact you regarding participation in a reader survey.  
 
-We collect information on Web usage, but this information remains anonymous. We may use this information, in aggregate, for research reports and to benchmark and evaluate our performance.
 
-Maximumpc.com may use cookies to assign a unique identification to your computer in order to customize your service on our site in the future. 
+We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-As we continue to develop our business, we might sell or buy assets or portions of our business. In such transactions, customer and user information is generally one of the transferred business assets. In the event that Maximumpc or substantially all of its assets (or substantially all of its assets relating to a particular periodical or business area) are acquired, Future Network USA may transfer all customer and user information as part of the transferred assets.
+We also will occasionally share this information with third parties so that you may be informed of matters, services or products of interest to readers of our magazines.
 
-Maximum PC or Future Network USA may assign this Privacy Policy in whole or in part without notice to you.
+We will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on us; (b) protect and defend our rights or property; (c) act in urgent circumstances to protect the personal safety of users of any of our websites, or the public; and (d) comply with negotiated agreements in the event of a merger or sale of any of our products.
 
- ****
+**Control of your Personal Information**  
+When you register on one of our websites, or otherwise give us personal information, we will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
 
-**Magazine Subscribers and Users of futurenetworkusa.com**
+We will occasionally allow other companies to offer our customers information about their products and services. If you do not wish to receive any such mailings, you may send an e-mail to [webmaster@futurenetworkusa.com](mailto:webmaster@futurenetworkusa.com).
 
-Our Web server does not automatically recognize information regarding the domain or email address of each visitor 
+**Security of your Personal Information**  
+Future Network USA, Inc., will use its best efforts to protect the security of your personal information and honor your choices for its intended use.
 
-to our "subscribe" Webpages.
+Your personal information is never shared outside the company without your permission, except under conditions explained above.
 
-We collect information volunteered by the consumer, such as survey information and/or site registrations.
+**Use of Cookies**  
+To ensure we are publishing content customers need and want, we may elect to collect aggregated site-visitation statistics using cookies. We do not track individuals' use of the site.
 
-The information we collect may be used by us to contact consumers for marketing purposes.
+If you have questions regarding this statement, you should contact [webmaster@futurenetworkusa.com](mailto:webmaster@futurenetworkusa.com).
 
-If you do not want to receive email from us in the future, please notify us by contacting us through the email address or telephone number listed for customer service on the contacts page.
+**Changes to this Statement**  
+We will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, we will notify you by placing prominent notice on the Web site.
 
-If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please notify us through the email address or telephone number listed below.
-
-Also, you may receive mailings from other reputable companies. You may, however, have your name put on our do-not-share list by contacting us at the email address or telephone number listed below. Please make sure to provide us with your exact name and address. We will remove your name from the mailing list we share with other organizations. 
-
-Persons who supply us with their telephone numbers online may receive telephone contact from us regarding orders they have placed online. You also may receive telephone contact from other reputable companies. You may, however, have your name put on our do-not-share list by contacting us through the email address or telephone number listed below. When doing so, please provide us with your correct phone number. We will remove your name from the phone list we share with other organizations
+**Contact Information**  
+We welcome your comments regarding this Statement of Privacy, please contact us by e-mail, or postal mail at Future Network USA, Inc., Attention: Webmaster, 150 North Hill Drive, Suite 40, Brisbane, CA 94005.
