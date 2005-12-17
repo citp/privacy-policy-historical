@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614071513id_/http%3A//www.about.sensis.com.au/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217070057id_/http%3A//www.about.sensis.com.au/legal/privacy.php%3Fref%3Dwpft) for the most accurate reproduction.*
 
 # Sensis - A Leading directory, advertising and information provider
 
@@ -23,7 +23,7 @@ Occasionally, you may need to provide personal information about other individua
 **How we collect personal information**   
 Sensis collects personal information in a number of ways, including: 
 
-  * directly from you, when you provide information by phone, in marketing coupons or application forms or when you submit information to us through our websites (eg by email or [cookies](https://web.archive.org/web/20050614071513id_/http%3A//www.about.sensis.com.au/legal/cookies.php)); 
+  * directly from you, when you provide information by phone, in marketing coupons or application forms or when you submit information to us through our websites (eg by email or [cookies](https://web.archive.org/web/20051217070057id_/http%3A//www.about.sensis.com.au/legal/cookies.php)); 
   * from third parties such as our related companies, carriage service providers, credit reporting agencies or your representatives; 
   * from publicly available sources of information; 
   * from the organisations identified below under "When we disclose your personal information"; 
@@ -74,7 +74,7 @@ In addition, we may disclose your personal information to:
 **Sensis' web sites**  
 Sensis provides products and services via our various web sites. When you visit our sites, our web servers record anonymous information such as the time, date and URL of the request. This information assists us to improve the structure of our web sites and monitor their performance. 
 
-Sensis may use '[cookies](https://web.archive.org/web/20050614071513id_/http%3A//www.about.sensis.com.au/legal/cookies.php)' on various web sites. [Cookies](https://web.archive.org/web/20050614071513id_/http%3A//www.about.sensis.com.au/legal/cookies.php) are an industry standard and most major web sites use them. A cookie is a small text file that our web sites may place on your computer. Usually, cookies are used as a means for our web sites to remember your preferences. As such, cookies are designed to improve your experience of our web sites. 
+Sensis may use '[cookies](https://web.archive.org/web/20051217070057id_/http%3A//www.about.sensis.com.au/legal/cookies.php)' on various web sites. [Cookies](https://web.archive.org/web/20051217070057id_/http%3A//www.about.sensis.com.au/legal/cookies.php) are an industry standard and most major web sites use them. A cookie is a small text file that our web sites may place on your computer. Usually, cookies are used as a means for our web sites to remember your preferences. As such, cookies are designed to improve your experience of our web sites. 
 
 In some cases, cookies may collect and store personal information about you. Sensis extends the same privacy protection to your personal information, whether gathered via cookies or from other sources. Most internet browsers are pre-set to accept cookies, however you can adjust your Internet browser to disable cookies or to warn you when cookies are being used. However, if you disable cookies, you may not be able to access certain areas of our web sites or take advantage of the improved web site experience that cookies offer. 
 
