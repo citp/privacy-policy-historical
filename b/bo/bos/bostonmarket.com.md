@@ -1,31 +1,68 @@
-> *The following text is extracted and transformed from the bostonmarket.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611193802id_/http%3A//www.bostonmarket.com/7_privacy/privacy040501.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonmarket.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217225527id_/http%3A//www.bostonmarket.com/privacy/index.jsp) for the most accurate reproduction.*
 
-# News Releases
+# Boston Market - Privacy Policy
 
-**Boston Market Corporation Internet Site Privacy Policy**
+Privacy Policy
 
-Boston Market Corporation ("BMC") is pleased to provide information to all of its customers about its web site. BMC wants to make its site as informative and helpful as possible while respecting your privacy. Please be assured that BMC has taken steps to protect the privacy of its on-line visitors. 
+Last updated: 11/09/2004
 
-BMC uses "cookies" (i.e., pieces of information that a web site transfers to an individual's hard drive for record-keeping purposes) only to obtain certain information if a customer chooses to print a coupon. The cookie assigns a user identification number so that when you return to the site you don't have to re-enter your personal information.
+We want to make this site as informative and helpful as possible, while respecting and protecting your privacy. Here's what we're doing to help create a positive online experience. 
 
-BMC only gathers personally identifiable data, such as first and last names, addresses, and email addresses, when voluntarily submitted by a web site visitor. For example, personally identifiable information may be collected in order to provide you a coupon or other discount and track your food preferences for such coupons, or to get your feedback on our site and our products, or to enter you in one of our contests or sweepstakes. Sometimes, for reasons beyond our control, our coupons do not print proerly. If this occurs, and you still want to receive a coupon, we will ask you for information such as your address, so that we may send you one. You, of course, may decline to provide it. This information is used solely by BMC and other entities that provide products using the Boston Market brand name, and entities that provide technical or fulfillment services to BMC for internal purposes, like improving the site or to fulfill your requests; it is not sold to third parties. BMC does not send unsolicited email. BMC, however, may respond to email it receives.
+**Cookies**  
+Typically, when we say "cookie," we usually think of tasty, little baked goods. But in this instance, cookies are pieces of data that a Web site transfers to your hard drive for record-keeping purposes. We use cookies to help us understand who is visiting our Web site (who is new and who is returning).
 
-Visitors with questions are encouraged to use our customer service number 1-800-365-7000. If a visitor chooses to contact BMC via email, the only identifying information retained is the email itself. Personally identifiable information may be collected in order to respond to a request for information or a question concerning the company or Boston Market® food. This information is used solely by BMC for internal purposes, like fulfilling your requests; it is not sold or transferred to third parties. BMC does not send unsolicited email. BMC does not send unsolicited email. BMC, however, may respond to email it receives.
+**Personal Information**  
+In certain instances, we may gather personal information about you (such as your name, address and e-mail address). We use this information to identify you. We only gather it when you voluntarily submit it. 
 
-BMC may offer links to other sites. If you visit one of these linked sites, you should review the linked site's privacy and other policies. BMC is not responsible for the policies or activities of other companies. 
+For example, we may collect and use your information to:
 
-BMC reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety. 
+  * Provide you with a coupon (or another discount) and track your food preferences for such coupons
+  * Get your feedback on our site and products
+  * Enter you in one of our contests or sweepstakes
 
-From time to time, it may be necessary for BMC to change this privacy policy, so check here in the future. Rest assured, however, that any changes will not be retroactively applied and will not alter how previously collected information is handled. 
 
-Boston Market Corporation 
 
-Boston Market Corporation Privacy Policy 
+Sometimes, for reasons beyond our control, our coupons don't print properly. If this occurs and you still want a coupon, we'll ask you for your name and address, so we can send you a coupon. If you don't want to provide this information, you don't have to. 
 
-14103 Denver West Blvd. 
+The personal information we collect is only used by:
 
-P.O. Box 4086 
+  * Boston Market
+  * Entities that provide products using the Boston Market brand name
+  * Entities that provide technical or fulfillment services to Boston Market for internal purposes (such as improving this site or fulfilling your requests).
 
-Golden, CO 80401-4086
 
-Return to top.
+
+Your information is not sold to third parties, and we do not send unsolicited e-mail. We may respond to e-mail you send us, though. 
+
+If you would like us to remove or change your information in our system, please send an email with your request for removal to the following address: [UpdateInformation@bost.com](mailto:UpdateInformation@bost.com). In addition, if you receive an email from us, it will include information giving you instructions regarding how to unsubscribe or remove your information from our system. 
+
+**E-mail**  
+If you have questions or comments, we encourage you to contact our [Customer Care](https://web.archive.org/web/20051217225527id_/http%3A//www.bostonmarket.com/contacts/index.jsp) team. If you contact us via e-mail, the only identifying information we keep is the e-mail itself. We may collect personal information from your message (such as your name and e-mail address), so we can respond to your questions or requests for information. 
+
+We use your information solely for internal purposes. (For example, we may use it to fulfill your request.) We don't sell it or transfer it to third parties, and we don't send unsolicited e-mail. We may respond to e-mail you send us, though. 
+
+**Other Sites**  
+In our site, we may include links to other sites. If you visit one of the linked sites, you should review that site's policies, including privacy. We're not responsible for the policies or activities of other companies.
+
+**Our Rights**  
+We reserve the right to use or disclose any information that's needed to:
+
+  * Satisfy any law, regulation or legal request
+  * Protect the integrity of this site
+  * Fulfill your requests
+  * Cooperate in any law enforcement investigation or an investigation on a matter of public safety.
+
+
+
+**Policy Changes**  
+From time to time, we may need to change this privacy policy, so please check this screen in the future. Rest assured we will not apply any changes retroactively, and we won't alter how we handle previously collected information. 
+
+**Questions**  
+If you have questions about our privacy policy, please contact us at: 
+
+Boston Market Corporation  
+Boston Market Corporation Privacy Policy  
+14103 Denver West Blvd.  
+Golden, CO 80401 
+
+Return to top
