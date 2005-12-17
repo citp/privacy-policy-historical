@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attorneypages.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528092657id_/http%3A//attorneypages.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attorneypages.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217100837id_/http%3A//attorneypages.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for AttorneyPages
 
