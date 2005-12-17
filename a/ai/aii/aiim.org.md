@@ -1,55 +1,6 @@
-> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp%3FID%3D20575) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217234119id_/http%3A//www.aiim.org/article-aiim.asp%3FID%3D20575) for the most accurate reproduction.*
 
-# AIIM, The ECM Association - AIIM International Privacy Statement
-
-|    Search:  
- [Advanced Search](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/search-advanced.asp)  
----  
-   
-Resource Center  
-[About ECM](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/about-ecm.asp)  
-[Articles and Research](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/articles-research.asp)  
-[Bookstore](https://web.archive.org/bookstore)  
-[AIIM E-DOC Magazine](http://www.edocmagazine.com/)  
-[Press Releases](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/all-press-releases.asp)  
-[Solutions Provider Locator](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/solutions-providers.asp)          
-  
-Discussion Tools  
-[Get Advice](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-advice.asp?ID=26175)  
-[Listservs](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=18284)  
-Professional Development  
-[Awards & Recognition](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/awards.asp)  
-[Educational Events](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/all-events.asp)  
-[eLearning](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/elearning.asp)  
-[Job Center](http://jobs.aiim.org/)  
-[Online Seminars](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=28650)  
-Communities  
-[Committees](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=20965)  
-[Communities](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=28612)  
-[Film-based Imaging Assoc.](http://www.fbia.org/)  
-[Local Chapters](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/chapters.asp)  
-Membership  
-[Benefits](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=23121)  
-[Join/Renew Membership](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/product_category.asp?ID=3)  
-[Manage My Account](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/customer-service.asp)  
-Standards  
-[Standards Program](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/standards.asp?ID=28639)  
-[Join Committees](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/standards.asp?ID=28640)  
-About AIIM  
-[About AIIM](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=18274)  
-[AIIM Press Center](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/presscenter.asp)  
-[Board of Directors](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=23455)  
-[Contact Us](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=21272)  
-  
-Business Development  
-[AIIM Market Reach](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=28701)  
-[Sponsor & Advertise](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/article-aiim.asp?ID=26052)  
-AIIM UK  
-[AIIM UK](http://www.aiim.org.uk/)  
-  
-[Login](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/login.asp)
-
-* * *
+# AIIM - The Enterprise Content Management Association
 
 AIIM International Privacy Statement
 
@@ -128,19 +79,3 @@ Users of our site are always notified when their information is being collected 
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
-
-| 
-
-Review Your: 
-
-* Personal Information  
-
-* Order History 
-* Shopping Cart   
-  
-
-
-  
-
-
-[](https://web.archive.org/web/20050403113136id_/http%3A//www.aiim.org/redirect.asp?url=http://www.aiim.org/webinars&image=../ads/images/160x216webinar.gif)
