@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fropper.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404063919id_/http%3A//www.fropper.com/help/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fropper.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217014221id_/http%3A//www.fropper.com/help/policy.php) for the most accurate reproduction.*
 
 # Fropper.com Help – Privacy Policy
 
@@ -50,8 +50,8 @@ This information is gathered from members and guests who apply for the various s
 
     * Surveys & Contests:    
 From time-to-time Fropper.com requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age, etc.). 
-    * Fropper.com's Affiliate Partners:    
-The Affiliate Partners program is a vehicle for other sites to link to the Fropper.com site. No personal member information is exchanged with affiliate partners. 
+    * Fropper.com's Partners:    
+The Partners program is a vehicle for other sites to link to the Fropper.com site. No personal member information is exchanged with Fropper partners. 
   
 
   * Information not directly submitted by members to Fropper.com 
@@ -80,8 +80,8 @@ Email addresses may also be used in private correspondence with members for cust
 
     * Surveys & Contests:  
 Contact and other information collected for contests will be used to notify the winners and award prizes. Survey information will be used for monitoring or improving user-satisfaction.
-    * Fropper.com's Affiliate Partners:  
-Information submitted by the affiliate partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between Fropper.com and the affiliate partner. Affiliate partners cannot view or access private information about Fropper.com members.
+    * Fropper.com's Partners:  
+Information submitted by the Fropper partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between Fropper.com and the Fropper partner. Fropper partners cannot view or access private information about Fropper.com members.
   
 
   * Information not directly submitted by members to Fropper.com
@@ -170,7 +170,7 @@ Top
   
   
   
-Tell me about d-mail choice/opt-out policy.
+Tell me about e-mail choice/opt-out policy.
 
 Our users are given the opportunity to 'opt-out' of having information used for purposes not directly related to our site at the point where we ask for the information.
 
