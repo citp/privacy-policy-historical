@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the solestruck.com privacy policy that was archived on 2005-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050626084526id_/http%3A//www.solestruck.com/assistance.do%3Fpage%3DPrivacySecurity) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solestruck.com privacy policy that was archived on 2005-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217074443id_/http%3A//www.solestruck.com/assistance.do%3Fpage%3DPrivacySecurity) for the most accurate reproduction.-->
 
 <html><head>
 <link rel="shortcut icon" href="/favicon.ico">
@@ -19,6 +19,13 @@
 <meta name="ROBOTS" content="index,follow">
 <meta http-equiv="imagetoolbar" content="no">
 
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-213506-1";
+urchinTracker();
+</script>
+
 <link href="http://www.solestruck.com/css/veroniqa.css" rel="stylesheet" type="text/css">
 <script language="JavaScript" src="http://www.solestruck.com/includes/CampaignTracking.js"></script>
 </head>
@@ -27,143 +34,178 @@
 
 
 
+
+
+<script language="javascript" type="text/javascript">
+function sdbQuickHackRollover(callerId, newSrc) {			
+		    document.getElementById(callerId).src = newSrc;
+	}
+function linkLocation(location){			
+		window.location.href=location;
+	}
+</script>
+
+
 <table width="750" height="47" border="0" align="center" cellpadding="0" cellspacing="0" style="background: #FFFFFF;">
-	<form target="_top" action="/redir.cgi/" style="margin: 0px;"></form>
-	<input type="hidden" name="mapname" value="topMenuMap">
-	<tbody><tr>
-		<td style="padding-left: 3px; padding-right: 3px;"><input type="image" src="http://www.solestruck.com/images/home/summer2005/toplogo.gif" alt="Women's Shoes at Solestruck"></td>
-	</tr>
-	
+<!-- 	<form target="_top" action="/redir.cgi/" style="margin: 0px;">
+		<input type="hidden" name="mapname" value="topMenuMap">
+ -->
+		
+
+		<!--	<form target="_top" action="/redir.cgi/" style="margin: 0px;">
+			<input type="hidden" name="mapname" value="topMenuMap"> 
+      -->
+			<tbody><tr><td style="padding-left: 3px; padding-right: 3px;">
+			<div style="float:left;cursor:pointer">
+			<img id="SS" src="http://www.solestruck.com/images/topimage/logo.gif" onclick="linkLocation(&quot;http://www.solestruck.com/&quot;)" alt="Women's Shoes at Solestruck">
+			</div>
+
+			<div style="float:left;cursor:pointer">
+			<img id="my_account" src="http://www.solestruck.com/images/topimage/my-account.gif" onmouseover="sdbQuickHackRollover('my_account','http://www.solestruck.com/images/topimage/my-accountROLL.gif');" onmouseout="sdbQuickHackRollover('my_account','http://www.solestruck.com/images/topimage/my-account.gif');" onclick="linkLocation(&quot;http://www.solestruck.com/myaccount.do?method=logon&quot;)">
+			</div>
+			<div style="float:left;cursor:pointer">
+			<img id="shoe_box" src="http://www.solestruck.com/images/topimage/shoe-box.gif" onclick="linkLocation(&quot;http://www.solestruck.com/shoebox.do?method=view&quot;)">
+			</div>		
+			</td></tr>
+		<!--	</form>  -->
+
+		
+
+<!-- 	</form> -->
 </tbody></table>
 
 
-<table height="19" border="0" align="center" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF;" width="750">
-  <tbody><tr>
-<td valign="top" height="19" width="750" align="center">	
-	
-	
-	
 
-	<script language="javascript" type="text/javascript">
-	
-		
-	
-		function menuHandler(e) {
-			// handle older browsers or just simple variance in how the event was bound to this function...
-			e = (e) ? e : ((window.event) ? window.event : "");
-			if (e) {
-				// do our stuff
-				if (wasRunwayClicked) {
-					// they clicked the runway, throw up a new window and return false.
-					launchRunway();
-					return false;
-				} else {
-					// return true, they clicked somewhere else.
-					return true;
-				}
 
-				return false;
-				
-			} else {
-				// we'll probably *never* end up in here,but if we do, we should let the user actually use our website, right?
-				return true;
-			}
-		}
+	<table height="19" border="0" align="center" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF;" width="750">
+	  <tbody><tr>
+		<td valign="top" height="19" width="750" align="center">
 
-		function launchRunway() {
-			window.open('/runway.do','runway','height=700,width=590');
-		}
-		
-		var runwayXmin, runwayXmax, runwayYmin, runwayYmax;
-		
-		runwayXmin = 290;
-		runwayXmax = 386;
-		runwayYmin = 0;
-		runwayYmax = 18;
-		
-		var wasRunwayClicked = false;
-		
-		function imgClickHandler(e) {
-			e = (e) ? e : ((window.event) ? window.event : "");
-			if (e) {
-				// do our stuff - pardon the excessive use of ternary operators, but in this case it's warrented- IE and Netscape have *COMPLETELY* different names for 
-				// the event object's properties.
-				
-				// okay, first off, where in the image was the click??
-				
-				var myX = e.offsetX ? e.offsetX : getOffsets(e).offsetX;
-				var myY = e.offsetY ? e.offsetY : getOffsets(e).offsetY;
-				
-				var toReturn;
 
-				// was that in the runway box?
-				if ( ( myX >= runwayXmin && myX <= runwayXmax) && (myY >= runwayYmin && myY <= runwayYmax) ) {
-					// we are inside runway...
-					wasRunwayClicked = true;
-				} else {
-					wasRunwayClicked = false;
-				}
-				
-				return true;
-				
-			} else {
-				// we'll probably *never* end up in here,but if we do, we should let the user actually use our website, right?
-				// I think the only way to get down here is to be using a very old version of a browser...
-				return true;
-			}
-		}
-		
-		
-		// these scripts from http://www.faqts.com/knowledge_base/view.phtml/aid/29359
-		function getOffsets (evt) {
-		  var target = evt.target;
-		  if (typeof target.offsetLeft == 'undefined') {
-		    target = target.parentNode;
-		  }
-		  var pageCoords = getPageCoords(target);
-		  var eventCoords = { 
-		    x: window.pageXOffset + evt.clientX,
-		    y: window.pageYOffset + evt.clientY
-		  };
-		  var offsets = {
-		    offsetX: eventCoords.x - pageCoords.x,
-		    offsetY: eventCoords.y - pageCoords.y
-		  }
-		  return offsets;
-		}
-		
-		function getPageCoords (element) {
-		  var coords = {x : 0, y : 0};
-		  while (element) {
-		    coords.x += element.offsetLeft;
-		    coords.y += element.offsetTop;
-		    element = element.offsetParent;
-		  }
-		  return coords;
-		}
-		
-	
-	</script>
-	
-	<div id="menuTab" style="height: 19px; width: 744px; padding: 0px; margin-left: 3px; margin-right: 3px; margin-bottom: 0px;">
-		<div id="soleSearchStuff" class="topMenuItem" style="text-align: left; height: 19px; margin: 0px; padding: 0px; display: inline; width: 171px; float: left;">
-			<form method="post" action="http://www.solestruck.com/search.do" style="margin: 0px; padding: 0px; display: inline;">
-				<img src="http://www.solestruck.com/images/menuGraphics/solesearch.gif" width="59" height="19" style="margin: 0px; float: left;">
-				<input type="text" class="topMenuSearchBox" name="soleSearchQuery" style="">
-				<input type="hidden" name="p" value="pse">
-				<input type="image" class="searchButton" src="http://www.solestruck.com/images/menuGraphics/search_button.gif" alt="Search for Shoes" width="20" height="19" style=""></form></div>
-		<div id="topNavStuff" style="margin: 0px; float: left; display: inline; width: 573px;">
-			<form target="_top" action="/redir.cgi/" onsubmit="javascript:return menuHandler(event)" style="margin: 0px; padding: 0px;">
-			<input type="hidden" name="mapname" value="topMenuItemMap"><input type="image" onclick="javascript:imgClickHandler(event);" src="http://www.solestruck.com/images/menuGraphics/topnav.gif" alt="Women's Shoes at Solestruck"></form>
-		</div>
-	</div>
-</td>
-  </tr>
-</tbody></table>  
 
-<table width="750" height="458" border="0" align="center" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF; ">
+
+    <style type="text/css">
+         #imgDiv1 {float:left;}
+         #imgDiv2 {float:left;}
+         #imgDiv3 {float:left;}
+         #imgDiv4 {float:left;}
+         #imgDiv5 {float:left;}
+         #imgDiv6 {float:left;}
+        .menu{text-decoration:none;color:#000000;font-family:'Tahoma';font-size:11px;}
+    </style>
+
+        
+
+    <script language="javascript" type="text/javascript">
+    <!--
+    
+
+      preload_image_object = new Image();      
+      image_url = new Array();      
+      image_url[0] = "http://www.solestruck.com/images/brandsROLL.gif";      
+      image_url[1] = "http://www.solestruck.com/images/trendsROLL.gif";      
+      image_url[2] = "http://www.solestruck.com/images/trends.gif";      
+      image_url[3] = "http://www.solestruck.com/images/brands.gif";      
+      image_url[4] = "http://www.solestruck.com/images/new-arrivalsROLL.gif";      
+      image_url[5] = "http://www.solestruck.com/images/new-arrivals.gif";      
+      image_url[6] = "http://www.solestruck.com/images/runwayROLL.gif";      
+      image_url[7] = "http://www.solestruck.com/images/runway.gif";      
+      var i = 0;       
+      for(i=0; i<=7; i++)          
+         preload_image_object.src = image_url[i];
+
+            
+
+        var i=0;
+    
+        function launchRunway() {            
+            window.open('/runway.do','runway','height=700,width=590');
+        }
+        function sdbQuickHackRollover(callerId, newSrc) {            
+            document.getElementById(callerId).src = newSrc;
+        }
+        function linkLocation(location){            
+            window.location.href=location;
+        }
+        function changeTo(callerId,newSrc) {
+            document.getElementById(callerId).src = newSrc;
+        }
+        function showmenu() {
+           showBox("div2"); 
+        }
+        function showBox(id){
+           var div = document.getElementById(id);
+           if (!div) return;	       
+           div.style.visibility = 'visible';
+           div.style.position = 'absolute';
+           div.style.padding = '0';
+
+        }
+        function hidemenu(){
+           hideBox("div2");  
+        }
+        function hideBox(id){
+           var div = document.getElementById(id);
+           if (!div) return;
+           div.style.visibility = 'hidden';
+           div.style.position = 'absolute';
+        }
+
+
+
+    //-->
+    </script>
+
+
+
+
+    <div id="menuTab" style="height: 19px; width: 744px; padding: 0px; margin-left: 3px; margin-right: 3px; margin-bottom: 0px;">
+        <div id="soleSearchStuff" class="topMenuItem" style="text-align: left; height: 19px; margin: 0px; padding: 0px; display: inline; width: 171px; float: left;">
+            <form method="post" action="http://www.solestruck.com/search.do" style="margin: 0px; padding: 0px; display: inline;">
+                <img src="http://www.solestruck.com/images/menuGraphics/solesearch.gif" width="59" height="19" style="margin: 0px; float: left;">
+                <input type="text" class="topMenuSearchBox" name="soleSearchQuery" style="">
+                <input type="hidden" name="p" value="pse">
+                <div><input type="image" class="searchButton" src="http://www.solestruck.com/images/menuGraphics/search_button.gif" alt="Search for Shoes" width="20" height="19" style=""></div>
+            </form>
+        </div>
+
+        <div id="topNavStuff" style="margin: 0px; float: left; display: inline; width: 573px;" onmouseout="hidemenu();">
+
+        <div id="imgDiv1" onmouseover="changeTo('myImg1','http://www.solestruck.com/images/shopROLL.gif');showmenu();" onmouseout="changeTo('myImg1','http://www.solestruck.com/images/shop.gif');">
+           <div><img id="myImg1" style="cursor:default" src="http://www.solestruck.com/images/shop.gif" border="0"></div>
+
+           <div id="div2" style="background-color:#FFFFFF;float:left;margin-left:3px;width:95px;height:85px;visibility:hidden;position:absolute;color:white;filter:alpha(opacity=75);-moz-opacity:.75;opacity:.75;z-index:10" onmouseover="changeTo('myImg1','http://www.solestruck.com/images/shopROLL.gif');" onmouseout="hidemenu();">
+                <div class="menu" onclick="linkLocation(&quot;http://www.solestruck.com/brand.do?method=initialize&quot;)" style="height:21px;width:80px;padding-top:0px;border-bottom:1px dashed;cursor:pointer;"><div style="padding-top:3px" onmouseover="style.color='#C00808';style.filter='progid(opacity=100);style.-moz-opacity:0';" onmouseout="style.backgroundColor='#FFFFFF';style.color='#000000'">by brand</div></div>
+                <div class="menu" onclick="linkLocation(&quot;http://www.solestruck.com/color.do?method=initialize&quot;)" style="height:21px;width:80px;padding-top:0px;border-bottom:1px dashed;cursor:pointer;"><div style="padding-top:3px" onmouseover="style.color='#C00808';style.filter='progid(opacity=100);style.-moz-opacity:0';" onmouseout="style.backgroundColor='#FFFFFF';style.color='#000000'">by color</div></div>
+				<div class="menu" onclick="linkLocation(&quot;http://www.solestruck.com/shopBySize.do?method=initialize&quot;)" style="height:21px;width:80px;padding-top:0px;border-bottom:1px dashed;cursor:pointer;"><div style="padding-top:3px" onmouseover="style.color='#C00808';style.filter='progid(opacity=100);style.-moz-opacity:0';" onmouseout="style.backgroundColor='#FFFFFF';style.color='#000000'">by size</div></div>
+				<div class="menu" onclick="linkLocation(&quot;http://www.solestruck.com/style.do?method=initialize&quot;)" style="height:19px;width:80px;padding-top:0px;cursor:pointer;"><div style="padding-top:3px" onmouseover="style.color='#C00808'" onmouseout="style.backgroundColor='#FFFFFF';style.color='#000000'">by style</div></div>
+           </div>
+        </div>
+        <div id="imgDiv2" style="cursor:pointer" onclick="linkLocation(&quot;http://www.solestruck.com/brand.do?method=initialize&quot;)" onmouseover="changeTo('myImg2','http://www.solestruck.com/images/brandsROLL.gif');hidemenu();" onmouseout="changeTo('myImg2','http://www.solestruck.com/images/brands.gif')">
+           <div><img id="myImg2" src="http://www.solestruck.com/images/brands.gif" border="0"></div>
+        </div>
+        <div id="imgDiv3" style="cursor:pointer" onclick="linkLocation(&quot;http://www.solestruck.com/category.do?p=vct&amp;categoryid=177&amp;categorymode=newarrival&quot;)" onmouseover="changeTo('myImg3','http://www.solestruck.com/images/new-arrivalsROLL.gif');hidemenu();" onmouseout="changeTo('myImg3','http://www.solestruck.com/images/new-arrivals.gif')">
+           <div><img id="myImg3" src="http://www.solestruck.com/images/new-arrivals.gif" border="0"></div>
+        </div>
+        <div id="imgDiv4" style="cursor:pointer" onclick="linkLocation(&quot;http://www.solestruck.com/newTrends.do?method=splash&quot;)" onmouseover="changeTo('myImg4','http://www.solestruck.com/images/trendsROLL.gif');hidemenu();" onmouseout="changeTo('myImg4','http://www.solestruck.com/images/trends.gif')">
+           <div><img id="myImg4" src="http://www.solestruck.com/images/trends.gif" border="0"></div>
+        </div>
+        <div id="imgDiv5" onclick="launchRunway();" style="cursor:pointer" onmouseover="changeTo('myImg5','http://www.solestruck.com/images/runwayROLL.gif');hidemenu();" onmouseout="changeTo('myImg5','http://www.solestruck.com/images/runway.gif')">
+           <div><img id="myImg5" src="http://www.solestruck.com/images/runway.gif" border="0"></div>
+        </div>
+        <div id="imgDiv6" onclick="linkLocation(&quot;http://www.solestruck.com/sale.do&quot;)" onmouseover="changeTo('myImg6','http://www.solestruck.com/images/saleROLL.gif');hidemenu();" onmouseout="changeTo('myImg6','http://www.solestruck.com/images/sale.gif')">
+           <div><img id="myImg6" style="cursor:pointer" src="http://www.solestruck.com/images/sale.gif" border="0"></div>
+        </div>
+
+    </div>
+</div></td>
+	 </tr>
+	</tbody></table>  
+
+
+<table width="750" height="458" border="0" align="center" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF;padding-left:0px">
 	<tbody><tr> 
-		<td>
+		<td valign="top">
 			<div style="display: inline; float: left; margin: 0px; margin-left: 3px; margin-top: 3px; margin-right: 3px; width: 170px; padding: 0px; clear: none;">
 				
 
@@ -171,7 +213,7 @@
 
 
 
-<table width="147" border="0" cellpadding="0" cellspacing="0" align="center">
+<table width="170" border="0" cellpadding="0" cellspacing="0" align="center">
   <tbody><tr>
   	<td><img src="../images/trans.gif" width="1" height="20"></td>
   </tr>
@@ -179,6 +221,9 @@
     <td align="right" valign="bottom"><img src="../images/trans.gif" width="30" height="1"></td>
     <td align="left" width="150" valign="middle" class="leftMenuHeader">Assistance<br><img src="../images/trans.gif" width="30" height="10"></td>
   </tr>
+
+
+
   <tr>
 	
 		<td align="right" valign="bottom">&nbsp;</td>
@@ -186,6 +231,8 @@
 		<a href="/assistance.do?page=AboutUs">about us</a></td>
 	
   </tr>
+
+
   <tr>
 	
 		<td align="right" valign="bottom">&nbsp;</td>
@@ -193,6 +240,9 @@
 			<a href="/assistance.do?page=AccountInfo">my account</a></td>
 	
   </tr>
+  
+
+
   <tr>
 	
 		<td align="right" valign="bottom">&nbsp;</td>
@@ -200,6 +250,8 @@
 		<a href="/assistance.do?page=ContactUs">contact us</a></td>
 	
   </tr>
+
+
   <tr>
      
           <td align="right" valign="bottom">&nbsp;</td>
@@ -213,22 +265,29 @@
 		<td align="left" valign="middle" class="leftMenuItem">
 		<a href="/assistance.do?page=FAQ">faq</a></td>
 	
-  </tr>
-  <tr>
+  </tr> 
+  <!-- <tr> -->
 	
+		<!-- <td align="right" valign="bottom">&nbsp;</td>
+		<td align="left" valign="middle" class="leftMenuItem">
+		<a href="/assistance.do?page=InternationalCustomers">international customers</a></td> -->
+	
+  <!-- </tr> -->
+  <tr>
+	 
 		<td align="right" valign="bottom">&nbsp;</td>
 		<td align="left" valign="middle" class="leftMenuItem">
 			<a href="/assistance.do?page=OrderStatus">order status</a></td>
-		
+	    
   </tr>
   <tr>
-	
+       
 		<td align="right" valign="bottom">
 			<img src="../images/icons/bulletright.gif">&nbsp;</td>
 		<td align="left" valign="middle" class="leftMenuSelectedItem">
 			<a href="/assistance.do?page=PrivacySecurity"><strong>privacy notice</strong></a></td>
 	
-  </tr>
+  </tr> 
   <tr>
   
 		<td align="right">&nbsp;</td>
@@ -259,8 +318,11 @@
 </tbody></table>
 
 			</div>
-			<div style="display: inline; float: left; margin: 0px; margin-right: 3px; margin-bottom: 3px; margin-top: 3px; width: 570px; padding: 0px; clear: none;">
+			<div style="display: inline; float: left; margin: 0px; margin-right: 2px; margin-bottom: 3px; margin-top: 3px; width: 570px; padding-left: 1px; clear: none;">
 				
+
+
+
 
 
 <table width="100%" border="0" height="467" class="searchBorderStyle">
@@ -357,7 +419,13 @@
 				<td><img src="images/trans.gif" width="1" height="10"></td>
 			</tr>
 			<tr>
-				<td class="assistanceContent"><b>Ordering Over the Phone</b><br><br>If you prefer to order directly from Solestruck without using our website, you may call us toll-free at 1-800-494-1270. Our representatives are ready to take your order over the phone 24 hours a day, seven days a week.</td>
+				<td class="assistanceContent"><b>Ordering Over the Phone</b><br><br>If you prefer to order directly from Solestruck without using our website, you may call us toll-free at 
+			
+			
+			    1-800-494-1270. 
+			
+								
+				Our representatives are ready to take your order over the phone 24 hours a day, seven days a week.</td>
 			</tr>
 			<tr>
 				<td><img src="images/trans.gif" width="1" height="10"></td>
@@ -369,7 +437,7 @@
 				<td><img src="images/trans.gif" width="1" height="10"></td>
 			</tr>
 			<tr>
-				<td class="assistanceContent">If you prefer not to receive Solestruck mailings and other communications, you may call our Customer Service department toll-free at 1-800-494-1260 and ask to be removed from our mailing list. Due to the nature of our mailing system, it may take six to eight weeks after removal from our mailing list to completely stop receiving mail.</td>
+				<td class="assistanceContent">If you prefer not to receive Solestruck mailings and other communications, you may call our Customer Service department toll-free at 1-800-494-1270 and ask to be removed from our mailing list. Due to the nature of our mailing system, it may take six to eight weeks after removal from our mailing list to completely stop receiving mail.</td>
 			</tr>
 			<tr>
 				<td><img src="images/trans.gif" width="1" height="10"></td>
@@ -398,7 +466,7 @@
 				<td><img src="images/trans.gif" width="1" height="10"></td>
 			</tr>
 			<tr>
-				<td class="assistanceContent">Or call us at any time toll-free at 1-800-494-1260.</td>
+				<td class="assistanceContent">Or call us at any time toll-free at 1-800-494-1270.</td>
 			</tr>
 			<tr>
 				<td><img src="images/trans.gif" width="1" height="20"></td>
@@ -410,10 +478,12 @@
 				<td><img src="images/trans.gif" width="1" height="20"></td>
 			</tr>
 			<tr>
+			
 				<form target="_top" action="/taco.cgi/"></form>
 					<input type="hidden" name="mapname" value="continueShopping">
 					<td><input type="image" src="http://www.solestruck.com/images/checkout/continueshopping_button.gif" alt="Continue Shopping for Women's Shoes"></td>
 				
+			
 			</tr>
 			<tr>
 				<td><img src="images/trans.gif" width="1" height="10"></td>
@@ -449,29 +519,34 @@
 		}
 	}
 </script>
+
+
 <table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td>
-			<form name="registerForm" method="post" action="/userregister.do;jsessionid=B1E4D7B98E8F24C2809C207939CCC208?method=initialize">
-				<div id="regFormHolder" class="regFormHolder">
-					<div id="bottomMenuItem" class="bottomMenuItem"><a href="http://www.solestruck.com/breastcancer.do">breast cancer awareness</a></div>
-					<div id="bottomMenuItem" class="bottomMenuItem"><a href="http://www.solestruck.com/assistance.do?page=CustomerService">customer service</a></div>
-					<div id="bottomMenuItem" class="bottomMenuItem"><a href="http://www.solestruck.com/assistance.do?page=PrivacySecurity">privacy</a></div>
-					<div id="bottomMenuItem" class="bottomMenuItem"><a href="http://www.solestruck.com/assistance.do?page=TermsConditions">terms</a></div>
-					<div id="bottomMenuItem" class="bottomMenuItem"><a href="http://www.solestruck.com/assistance.do?page=SiteMap">sitemap</a></div>
-					<div id="contactUsText" class="contactUsText"><a href="http://www.solestruck.com/assistance.do?page=ContactUs">contact us</a></div>
-					<div id="addToFavoritesContainer" class="addToFavoritesContainer">
-						<div id="addToFavoritesGraphic" class="addToFavoritesGraphic"><img src="http://www.solestruck.com/images/holiday/holiday_sendtofriend.gif"></div>
-						<div id="addToFavoritesText" class="addToFavoritesText"><a href="javascript:addBookMark();" onclick="trackClick('1','','1');">add to my favorites</a></div>
+			
+				<form name="registerForm" method="post" action="/userregister.do;jsessionid=6F3C9D443A626A4279027BA6CBF204C8?method=initialize">
+					<div id="regFormHolder" class="regFormHolder">
+						<div id="bottomMenuItem" class="bottomMenuItem"><a href="http://www.solestruck.com/breastcancer.do">breast cancer awareness</a></div>
+						<div id="bottomMenuItem" class="bottomMenuItem"><a href="http://www.solestruck.com/assistance.do?page=CustomerService">customer service</a></div>
+						<div id="bottomMenuItem" class="bottomMenuItem"><a href="http://www.solestruck.com/assistance.do?page=PrivacySecurity">privacy</a></div>
+						<div id="bottomMenuItem" class="bottomMenuItem"><a href="http://www.solestruck.com/assistance.do?page=TermsConditions">terms</a></div>
+						<div id="bottomMenuItem" class="bottomMenuItem"><a href="http://www.solestruck.com/sitemap.do">sitemap</a></div>
+						<div id="contactUsText" class="contactUsText"><a href="http://www.solestruck.com/assistance.do?page=ContactUs">contact us</a></div>
+						<div id="addToFavoritesContainer" class="addToFavoritesContainer">
+							<div id="addToFavoritesGraphic" class="addToFavoritesGraphic"><img src="http://www.solestruck.com/images/holiday/holiday_sendtofriend.gif"></div>
+							<div id="addToFavoritesText" class="addToFavoritesText"><a href="javascript:addBookMark();" onclick="trackClick('1','','1');">add to my favorites</a></div>
+						</div>
+						<div id="bottomMenuPhoneNumber" class="bottomMenuPhoneNumber">1-800-494-1270</div>
+						<div id="emailField" class="emailField"><input type="text" name="email" maxlength="80" size="26" value="enter email for sales events" onclick="clearMe(this);" class="footerInputBox"></div>
+						<div id="emailArrow" class="emailArrow"><input type="image" src="http://www.solestruck.com/images/holiday/reg_arrow.gif"></div>
 					</div>
-					<div id="bottomMenuPhoneNumber" class="bottomMenuPhoneNumber">1-800-494-1270</div>
-					<div id="emailField" class="emailField"><input type="text" name="email" maxlength="80" size="26" value="enter email for sales events" onclick="clearMe(this);" class="footerInputBox"></div>
-					<div id="emailArrow" class="emailArrow"><input type="image" src="http://www.solestruck.com/images/holiday/reg_arrow.gif"></div>
-				</div>
-			</form>
+				</form>
+			
 		</td>
 	</tr>
 </tbody></table>
+
 
 
 
