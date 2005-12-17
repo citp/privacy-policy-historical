@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the interspire.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403111618id_/http%3A//www.interspire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interspire.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217173232id_/http%3A//www.interspire.com/privacy.php) for the most accurate reproduction.*
 
-# Interspire - Privacy Policy
+# Privacy Policy
 
-Interspire Privacy Policy
-
-This is the web site of Interspire.com. We can be reached via email at info@interspire.com. 
+This is the web site of Interspire.com. We can be reached via email at help@interspire.com. 
 
 For each visitor to our web site, our web server automatically recognizes no information regarding the domain or e-mail address. 
 
@@ -16,4 +14,4 @@ With respect to Ad Servers: We do not partner with or have special relationships
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
-If you feel that this site is not following its stated information policy, you may contact us via email at privacy@interspire.com. 
+If you feel that this site is not following its stated information policy, you may contact us via email at help@interspire.com. 
