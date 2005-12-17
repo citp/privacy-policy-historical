@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bioware.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204044631id_/http%3A//www.bioware.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioware.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217114738id_/http%3A//www.bioware.com/legal/privacy.html) for the most accurate reproduction.*
 
 # BioWare: Privacy Policy
 
@@ -18,11 +18,11 @@ In order to use some of the features and services provided at BioWare's websites
 
 In order to purchase digital products or other items available for sale on the BioWare Store, BioWare may require credit card information. BioWare's use of credit card information is explained in, and governed by, the BioWare Store Policy.
 
-In addition, BioWare uses "cookies" on its websites. Cookies are a unique identifier that are sent to your Internet browser. -The Internet browser may then store the cookie on your harddrive. Cookies can be used to track a visitor to a website as the visitor navigates the website and to store information. Firstly, cookies enable a visitor to have a more unique and enriching experience while visiting BioWare's websites. For example, if a visitor requestes that the webpages be delivered to the visitor in a specific language a cookie will be used to record this information so that the visitor does not need to specify to his or her language preference for each weapage that is delivered to the visitor's browser. Secondly, BioWare uses cookies to track a visitor's navigation through its websites.
+In addition, BioWare uses "cookies" on its websites. Cookies are a unique identifier that are sent to your Internet browser. -The Internet browser may then store the cookie on your harddrive. Cookies can be used to track a visitor to a website as the visitor navigates the website and to store information. Firstly, cookies enable a visitor to have a more unique and enriching experience while visiting BioWare's websites. For example, if a visitor requests that the webpages be delivered to the visitor in a specific language a cookie will be used to record this information so that the visitor does not need to specify to his or her language preference for each webpage that is delivered to the visitor's browser. Secondly, BioWare uses cookies to track a visitor's navigation through its websites.
 
-This helps BioWare understand how its webstes are being used.
+This helps BioWare understand how its websites are being used.
 
-Most browsers will allow a user to refuse cookies. Check your browser's options for this feature. However, if you set your browser to refuse cookies, you may not be able to use all of the features of BioWare's webstes.
+Most browsers will allow a user to refuse cookies. Check your browser's options for this feature. However, if you set your browser to refuse cookies, you may not be able to use all of the features of BioWare's websites.
 
 If you have a user ID, then BioWare may collect information about your use of the features and services of its websites (whether or not you provide your user ID on each visit) and BioWare may associate this information with your personal information. If a visitor does not have a user ID but does permit cookies, then BioWare only has the means to track use of its websites by that visitor but BioWare has no means to determine who that visitor is. Regardless of the information BioWare collects from the use of its websites, BioWare will only use this information for the limited purposes set out in this Privacy Policy.
 
