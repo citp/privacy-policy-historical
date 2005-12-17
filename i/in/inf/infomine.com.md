@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the infomine.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803103816id_/http%3A//www.infomine.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infomine.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217092853id_/http%3A//www.infomine.com/about/privacy.html) for the most accurate reproduction.*
 
 # InfoMine - The Internet's Premier Mining Information Site
 
   
-  
 
 
-## Privacy
+### Privacy Policy
 
-  
 Effective November 9, 2000
 
 **Our Commitment To Privacy**
@@ -17,7 +15,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect**
 
-This notice applies to all information collected or submitted. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all personal information collected or submitted by clients when they subscribe, advertise or purchase products on InfoMine. The types of personal information collected are: 
 
   * Name 
   * Address 
@@ -31,7 +29,7 @@ This notice applies to all information collected or submitted. On some pages, yo
 
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-We use return email addresses to answer the email we receive and do not share these addresses with outside parties. We use information posted in the automated email inquiry forms on our listings to confirm the contact email for the listing and validate inquires generated from our site. We do not share this contact information with anyone except the recipient listed on the contact form. 
+We use return email addresses to answer the email we receive and to keep you informed of new developments at InfoMine which we believe would be of interest to you. We do not share these addresses with outside parties. We use information posted in the automated email inquiry forms on our listings to confirm the contact email for the listing and validate inquires generated from our site. We do not share this contact information with anyone except the recipient listed on the contact form. 
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our subscription form, but we would not disclose anything that could be used to identify those individuals. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
@@ -53,4 +51,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at +1 604 683-2037 or send us an email at [info@infomine.com](mailto:info@infomine.com).
+Should you have other questions or concerns about these privacy policies, please call us at +1 604 683-2037 or send us an email at [info@infomine.com](mailto:info@infomine.com). 
