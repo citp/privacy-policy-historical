@@ -1,31 +1,45 @@
-> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201210140id_/http%3A//www.fha.com/pp.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217012221id_/http%3A//www.fha.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# US Department of Housing and Urban Development HUD - FHA Home Loan program for FHA mortgages, first time home buyers, fha loans, HUD insured loans, fha streamline loans, hud homes, fha, hud.gov and all HUD programs. Apply for a HUD FHA home loan from FHALoan.com.
+# FHA.com Privacy Policy for FHA Loans
 
+|  |    
   
-**Information Collection and Use**  
-GoMortgagesOnline.com is primarily concerned about your right to privacy. We want you to know about GoMortgagesOnline.com, the information that is collected from our web site, and what is done with that information.
+|  | 
 
-In order to assist visitors with a particular form or service that is provided or offered online at our web site, we request that you voluntarily supply us with personal information, including, but not limited to, your e-mail address account, social security number, mailing address, etc., for purposes of fulfilling requests inclusive of, but not limited to, assistance with Veteran related forms, mortgage and real estate services, and requests for home loan related assistance in general.
+1\. Facts about
 
-If you supply us with this information, we reserve the right to share this information with trusted third-party vendors; affiliates and / or service companies that provide contracted services for GoMortgagesOnline.com and our web site visitors. GoMortgagesOnline.com is the sole owner of the information collected on this web site.
+[](https://web.archive.org/web/20051217012221id_/http%3A//www.fha.com/important_facts.cfm)
 
-**Promotions, Contests & Give-A-Ways**  
-GoMortgagesOnline.com from time to time may offer special Promotions, Contests and Give-A-Ways that has specific guidelines as to the offers. Participation in these offers by the visitor is completely voluntary and any information provided to us will be maintained as described in our Information Collection and Use as described above.
+2\. Learn how to
 
-**Linked Internet Sites**  
-You should be aware that other Internet sites to which you link to GoMortgagesOnline.com may contain privacy policies and provisions that are different from the provisions of our Privacy Statement.
+[](https://web.archive.org/web/20051217012221id_/http%3A//www.fha.com/prequalify.cfm)
 
-**Security**  
-It's a simple fact that Web users won't transact business on a Web site if they can't be - absolutely and positively sure- that a business is real, and they need to be assured that their communications with us will be private. We at GoMortgagesOnline.com know this and have taken the steps to address these issues.
+3\. Continue to
 
-VeriSign has the solution. It's called a Secure Server ID that enables secure communications with our customers through the use of Secure Sockets Layer (SSL), to make certain that it's secure. They need to know technology -- the standard for secure communications on the Web. When you access any of our online forms, you can be sure that the information you give to us is protected.
+[](https://www.mortgageselect.com/OA1_Shell.asp?referrer=83666857&MortgageOption=16)
 
-GoMortgagesOnline.com has taken great measures to protect the sensitive information you supply to us on this site by encrypting it. This site has a VeriSign Secure Server ID, which protects the data supplied.
+FHA.com can help make this an easy, satisfying experience. Our company is a private business and is specializing in FHA loans and is not a government agency.
 
-If you have any questions or still feel uncomfortable giving this information to us online, feel free to call us on our toll-free number at 1-800-411-3768.
+Please note that the FHA does not directly make home mortgage loans. They insure the FHA loans that we assist people in getting. Let FHA.com help you get an FHA insured mortgage loan at the lowest rates available.  
+  
+---|---  
+[FHA Facts](https://web.archive.org/web/20051217012221id_/http%3A//www.fha.com/important_facts.cfm) | [FHA Loan Types](https://web.archive.org/web/20051217012221id_/http%3A//www.fha.com/fha_loan_types.cfm) | [Down Payment Grants](https://web.archive.org/web/20051217012221id_/http%3A//www.fha.com/fha_programs.cfm) COLLECTION AND USE INFORMATION  
+At FHA.com, we recognize that your privacy is important to you and something that must be maintained. The following privacy statement explains the kind of information that is collected during the loan process, how we use the information and how we share it with others.
 
-**Permission and Approval**  
-By utilizing any promotions or services offered by GoMortgagesOnline.com, you consent to the collection of any data and use of this information by GoMortgagesOnline.com. Any changes to GoMortgagesOnline.com's Privacy Policy will be posted in this area.
+FHA.com has partnered with several trusted third party companies to offer services including but not limited to: obtaining a competitive residential home mortgage and / or cash back rebates on relocation services where applicable. In order for us to assist you with a particular form or service that is provided or offered on our Web site we request that you voluntarily supply us with personal information, including, but not limited to, your email address, social security number and mailing address for purposes of fulfilling requests inclusive of, but not limited to, assistance with mortgage and real estate services and requests for home loan related assistance in general.
 
-GoMortgagesOnline.com, 707 Woodcastle Bend #200, Houston, Texas 77094
+All of the information we collect from you is optional. Should you choose to supply us with any of this information, we reserve the right to share it with trusted third-party vendors, affiliates, and /or service companies that provide contracted services for FHA.com and our Web site visitors. FHA.com is the sole owner of the information obtained through this Web site.
+
+OTHER INTERNET SITES THAT ARE LINKED: As a visitor to our site, you should be aware that other internet sites from which our link to FHA.com or links from trusted third-party vendors, affiliates, and /or service companies that provide contacted services for FHA.com may contain privacy policies and provisions that are different from FHA.com's Privacy Policy. It is up to the visitor to read and understand each privacy policy.
+
+YOUR PERMISSION, APPROVAL, AND ACCEPTANCE OF THESE TERMS: Please understand that by utilizing any of the services offered by FHA.com, you hereby consent to the collection of any data and use of this information by FHA.com and accept the terms as stated in this section. Any changes to FHA.com's P rivacy Policy will be posted in this area. IN THE EVENT THAT YOU DO NOT AGREE WITH OUR PRIVACY POLICY, PLEASE DO NOT USE THIS SITE.
+
+Should you have any questions concerning Privacy Policy issues, please e-mail us at[ assistance@fha.com](mailto:%20assistance@fha.com) or contact us at the following mailing address: FHA.com  
+1919 Emerald Court  
+Suite 100  
+Houston, Texas 77094 
+
+[Privacy Policy](https://web.archive.org/web/20051217012221id_/http%3A//www.fha.com/privacy_policy.cfm) | [About Us](https://web.archive.org/web/20051217012221id_/http%3A//www.fha.com/about_us.cfm) | [FHA Loan](https://web.archive.org/web/20051217012221id_/http%3A//www.fha.com/sitemap.cfm) | [Contact Information](https://web.archive.org/web/20051217012221id_/http%3A//www.fha.com/contact_information.cfm)
+
+Copyright © 1997- 2005 · FHA.com  
+All Rights Reserved   
