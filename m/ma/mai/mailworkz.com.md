@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailworkz.com privacy policy that was archived on 2005-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050522012558id_/http%3A//www.mailworkz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailworkz.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217180302id_/http%3A//www.mailworkz.com/privacy.htm) for the most accurate reproduction.*
 
 # MailWorkZ Privacy Statement
 
@@ -26,7 +26,7 @@ The information gathered from the forms you fill out is used in one of three way
 
 If you have questions about this privacy statement, the practices of this website, or your dealings with our company, please contact us. 
 
-Please see our [Spam Policy.](https://web.archive.org/web/20050522012558id_/http%3A//spampolicy.htm)  
+Please see our [Spam Policy.](https://web.archive.org/web/20051217180302id_/http%3A//spampolicy.htm)  
   
  
 
