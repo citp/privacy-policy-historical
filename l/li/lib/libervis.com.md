@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the libervis.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618085218id_/http%3A//www.libervis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libervis.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217154629id_/http%3A//www.libervis.com/privacy.php) for the most accurate reproduction.*
 
-# Libervis.com - Free culture community: forums, blogs, news, articles, questions and answers.
+# Libervis.com - For a Free World - forum discussions, blogs, news, articles, shared creativity and knowledge
 
-Main Menu
+Login 
 
-More...
+Our Friends 
 
-Your support
-
-Info..
-
-Login
-
-Sponsored Links
+Sponsored Links 
 
 | 
 
