@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306024928id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217231619id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
-# Qualys, Inc. - On Demand Vulnerability Management
+# Privacy Policy - Qualys
 
-Qualys respects your online privacy. We understand and appreciate your need to control your personal data that you share with us. 
+Qualys® respects your online privacy. We understand and appreciate your need to control your personal data that you share with us. 
 
 **Notice and Disclosure**  
 Qualys has established this Online Privacy Policy to make you aware of how we intend to treat your personal information. 
@@ -25,4 +25,4 @@ It is important to Qualys to maintain accurate data. We are working on ways to m
 **Use of Cookies**  
 A cookie is a small data structure that allows a web site to store information on your web browser. Cookies help identify returning users so that we don't ask your contact information with every visit. A cookie will contain the information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. 
 
-You can reject or accept cookies when your browser alerts you of its presence. 
+You can reject or accept cookies when your browser alerts you of its presence.
