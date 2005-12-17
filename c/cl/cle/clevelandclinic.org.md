@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the clevelandclinic.org privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207092429id_/http%3A//cms.clevelandclinic.org/body.cfm%3Fid%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevelandclinic.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218001558id_/http%3A//cms.clevelandclinic.org/body.cfm%3Fid%3D20) for the most accurate reproduction.*
 
 # Privacy
 
   
 Privacy
-
-  
-  
-
 
 Cleveland Clinic Web Site Privacy Statement  
 \--------------------------------------------------------------------------------
@@ -23,6 +19,8 @@ While we sometimes ask for credit card numbers, and either pass them on to a cre
 Please also understand that while we are very interested in providing relevant personal healthcare information to patients and/or their physicians, we will not make such information available online until we are very confident that the information is secure.
 
 If you have any questions about our privacy policy or our use of information gathered through our Web site, please contact our Webmaster at [webmaster@ccf.org](mailto:webmaster@ccf.org)
+
+ Last updated 08/29/2005
 
   
 
