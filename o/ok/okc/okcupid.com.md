@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okcupid.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407082255id_/http%3A//www.okcupid.com/static%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcupid.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217172323id_/http%3A//okcupid.com/static%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # OkCupid! Privacy Policy
 
