@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altera.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528051431id_/http%3A//www.altera.com/common/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altera.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217122456id_/http%3A//www.altera.com/common/privacy.html) for the most accurate reproduction.*
 
 # Altera Corporation's Web Site Privacy Policy
 
@@ -93,7 +93,7 @@ If you have any questions, concerns or problems, we encourage you to email to [p
 
 ### Related Information
 
-  *   * 
+  * 
 
 
 The web site and this Privacy Policy © 2000 Altera Corporation. All rights reserved.
