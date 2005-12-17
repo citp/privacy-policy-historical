@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnet.com.au privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617033215id_/http%3A//www.cnet.com.au/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnet.com.au privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217042046id_/http%3A//cnet.com.au/services/privacy) for the most accurate reproduction.*
 
 # CNET.com.au: Privacy
 
@@ -57,4 +57,4 @@ CNET.com.au uses the information we gather for four general purposes:
 
 
 
-** >> [Next ](https://web.archive.org/web/20050617033215id_/http://cnet.com.au/services/privacy/page2.htm)**
+** >> [Next ](https://web.archive.org/web/20051217042046id_/http://www.cnet.com.au/services/privacy/page2.htm)**
