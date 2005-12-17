@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rainbownation.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407144304id_/http%3A//www.rainbownation.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbownation.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217095844id_/http%3A//www.rainbownation.com/about/privacy.asp) for the most accurate reproduction.*
 
 # The RainbowNation.com Privacy Statement
 
 |  |  | 
 
-You are here: [Home](https://web.archive.org/web/20050407144304id_/http%3A//www.rainbownation.com/index.asp) > [Services](https://web.archive.org/web/20050407144304id_/http%3A//www.rainbownation.com/about/index.asp) > Privacy 
+You are here: [Home](https://web.archive.org/web/20051217095844id_/http%3A//www.rainbownation.com/index.asp) > [Services](https://web.archive.org/web/20051217095844id_/http%3A//www.rainbownation.com/about/index.asp) > Privacy 
 
 (last updated: July 2004)
 
