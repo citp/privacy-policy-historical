@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stamps.com privacy policy that was archived on 2005-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050605002627id_/http%3A//www.stamps.com/support/general/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stamps.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217163611id_/http%3A//stamps.com/support/general/company/privacy) for the most accurate reproduction.*
 
 # Stamps.com: Customer Support:
 
