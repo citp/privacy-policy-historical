@@ -1,12 +1,10 @@
-<!--The following is the downloaded HTML source of the milonic.com privacy policy that was archived on 2005-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050518111332id_/http%3A//www.milonic.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the milonic.com privacy policy that was archived on 2005-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217170524id_/http%3A//www.milonic.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Milonic Solutions Privacy Policy</title>
 <!--UdmComment-->
 <meta name="Description" content="JavaScript Menus, DHTML Menus, Popup Menus, Tree Menus. If it's web site navigation you want; You name it, we'll do it. Fully Cross Browser Popup Web Site Navigation Systems. Free for non profits and Free fully supported Open Source licenses.">
-<meta name="keywords" content="DHTML,dhtml,javascript,javascript menu,dhtml menu,tree menu,treemenu,javascript menus,dhtml menus,menu,menus,popup,popup menus,website navigation,web site navigation,menu bar,free,navigation,effects,cross,browser,cross browser,dynamic,html,demos,examples,samples">
-<meta name="robots" content="follow">
 <!--/UdmComment-->
 <link rel="stylesheet" href="/includes/menu.css" media="screen">
 <link rel="stylesheet" href="/includes/menuprint.css" media="print">
@@ -20,11 +18,8 @@
 	 Please visit http://www.milonic.com/ for more information.
 -->	
 
-
-
-
 <script src="/milonic_src.js" type="text/javascript"></script>	
-<a class="milonic" href="http://www.milonic.com/">Website JavaScript Navigation Menu By Milonic</a>
+<noscript><a href="http://www.milonic.com/">DHTML JavaScript Website Pull Down Navigation Menu By Milonic</a></noscript>
 <script type="text/javascript">
 if(parent.frames.length)top.location=document.location;
 <!--
@@ -41,7 +36,8 @@ if(ns4)_d.write("<scr"+"ipt src=/mmenuns4.js type=text/javascript><\/scr"+"ipt>"
 <!--<script src="openmenusbyurl.js" type=text/javascript></script>-->
 
 
-<iframe id="linkIF" style="top:-1000px;position:absolute;"></iframe>
+<iframe src="javascript:false" id="linkIF" style="top:-1000px;position:absolute;"></iframe>
+<img id="jserr" style="top:-1000px;position:absolute;">
 <script>
 
 function incHit(id)
@@ -49,73 +45,86 @@ function incHit(id)
 	gm=gmobj("linkIF")
 	if(id)gm.src="/linkto.php?id="+id
 }
-</script><noscript>
-</tr>
-<tr>
-	<td class=menu1 valign=top colspan=2 style="padding:6;">
-	You need to have JavaScript enabled to get the most of our website<br>
-	The Milonic DHTML Web Menu will only work on JavaScript enabled browsers.
-	<table border=0 cellpadding=0 cellspacing=4>
-			<td class=menu1 valign=top><a href="/index.php">Home</a></td>
-			<td class=menu1 valign=top><a href="/products.php">Products</a>
-				<li><a href="/pricing.php">Pricing</a>
-				<li><a href="/licensing.php">Licensing</a>
-				<li><a href="/freelicreq.php">Free Licenses</a>
-				<li><a href="/productinfo.php">Product Information</a>
-				<li><a href="/integration.php">Page Integration</a>
-				<li><a href="/logos.php">Menu Logos</a>
-				<li><a href="/menumodules.php">Bolt-on Modules</a>
-				<li><a href="/beginner.php">Beginner Menu Manual</a>
-				<li><a href="/menu_variables.php">Menu Global Variables</a>
-				<li><a href="/menu_methods.php">Menu Methods and Functions</a>
-				<li><a href="/styleproperties.php">Menu Style Properties</a>
-				<li><a href="/menuproperties.php">Menu Properties</a>
-				<li><a href="/itemproperties.php">Menu Item Properties</a>
-				<li><a href="/menu.php">DHTML Menu</a>
-				<li><a href="/tooltips.php">Tooltips</a>
-				<li><a href="/colorpicker.php">Color Picker</a>
-			</td>
-			<td class=menu1 valign=top>
-				<li><a href="/mfa/">Discussion Forum Archive</a>
-				<li><a href="/login.php">Login</a>
-				<li><a href="/register.php">Register</a>
-				<li><a href="/searchengines_milonic.php">Search Engines & Milonic</a>
-				<li><a href="/removelink.php">Removing the forced Link</a>
-				<li><a href="/multiplemenus.php">Multiple Menus</a>
-				<li><a href="/cssbasedmenus.php">CSS Based Menus</a>
-				<li><a href="/apachesetup.php">Apache Setup</a>
-				<li><a href="/iissetup.php">Internet Information Server IIS setup</a>
-				<li><a href="/pipermail/milonic/">Mailing List</a>
-				<li><a href="/menuvinfo.php">Version Info</a>
-			</td>
-			<td class=menu1 valign=top><a href="/aboutmilonic.php">About</a>
-				<li><a href="/aboutus.php">About us</a>
-				<li><a href="/testimonials.php">Testimonials</a>
-				<li><a href="/tablemenu.php">Embedding a Menu inside a Table Cell</a>
-				<li><a href="/nonprofits.php">Investing in None Profits</a>
-				<li><a href="/contactus.php">Contact us</a>
-				<li><a href="/location.php">Where</a>
-				<li><a href="/corp_customers.php">Distinguished Clients</a>
-				<li><a href="/cbuy.php">Purchase</a>
-				<li><a href="/privacy.php">Privacy</a>
-				<li><a href="/license.php">License</a>
-				<li><a href="/fraudusers.php">Beware of these guys!</a>
-				
-			</td>
-	</table>
-	</td>
-</tr>
-</noscript><table border="0" width="100%" cellspacing="0" cellpadding="0">
+
+
+
+function jsError(msg, url, line)
+{
+	gm=gmobj("jserr")
+	dte=new Date()
+	txt='/jserror.php?u='+url+'&m='+msg+'&l='+line+'&d='+dte
+	if(gm)gm.src=txt
+	//alert('An error has occurred!\n\nFilename: '+url+'\nError: '+msg+'\nLine Number: '+line+'\n\nMilonic apologise for this and will investigate this problem as soon as possible.')
+	return false
+}
+_W.onerror=jsError
+
+</script><table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody><tr>
 	<td height="126" valign="top">
 		<table border="0" cellpadding="4"><tbody><tr><td><a href="http://www.milonic.com"><img src="/images/transparent.gif" height="80" width="220" border="0"></a></td></tr></tbody></table>
 	</td>
-
-<!--UdmComment-->
-
-<!--/UdmComment-->	
 </tr>
 </tbody></table>
+
+<!--UdmComment-->
+<div class="milonic">
+	You need to have JavaScript enabled to get the most of our website<br>
+	The Milonic DHTML Web Menu will only work on JavaScript enabled browsers.
+	<table border="0" cellpadding="0" cellspacing="4">
+	<tbody><tr>
+			<td class="menu1" valign="top"><a href="/index.php">Home</a></td>
+			<td class="menu1" valign="top"><a href="/products.php">Products</a>
+				<li><a href="/pricing.php">Pricing</a>
+				</li><li><a href="/licensing.php">Licensing</a>
+				</li><li><a href="/freelicreq.php">Free Licenses</a>
+				</li><li><a href="/productinfo.php">Product Information</a>
+				</li><li><a href="/integration.php">Page Integration</a>
+				</li><li><a href="/logos.php">Menu Logos</a>
+				</li><li><a href="/menumodules.php">Bolt-on Modules</a>
+				</li><li><a href="/beginner.php">Beginner Menu Manual</a>
+				</li><li><a href="/menu_variables.php">Menu Global Variables</a>
+				</li><li><a href="/menu_methods.php">Menu Methods and Functions</a>
+				</li><li><a href="/styleproperties.php">Menu Style Properties</a>
+				</li><li><a href="/menuproperties.php">Menu Properties</a>
+				</li><li><a href="/itemproperties.php">Menu Item Properties</a>
+				</li><li><a href="/menu.php">DHTML Menu</a>
+				</li><li><a href="/tooltips.php">Tooltips</a>
+				</li><li><a href="/colorpicker.php">Color Picker</a>
+			</li></td>
+			<td class="menu1" valign="top">
+				<li><a href="/mfa/">Discussion Forum Archive</a>
+				</li><li><a href="http://support.milonic.com/demos">Tech Support - Demos</a>
+				</li><li><a href="http://support.milonic.com/beginners/borders.htm">Tech Support - Borders</a>
+				</li><li><a href="/login.php">Login</a>
+				</li><li><a href="/register.php">Register</a>
+				</li><li><a href="/searchengines_milonic.php">Search Engines &amp; Milonic</a>
+				</li><li><a href="/removelink.php">Removing the forced Link</a>
+				</li><li><a href="/multiplemenus.php">Multiple Menus</a>
+				</li><li><a href="/cssbasedmenus.php">CSS Based Menus</a>
+				</li><li><a href="/apachesetup.php">Apache Setup</a>
+				</li><li><a href="/iissetup.php">Internet Information Server IIS setup</a>
+				</li><li><a href="/pipermail/milonic/">Mailing List</a>
+				</li><li><a href="/menuvinfo.php">Version Info</a>
+			</li></td>
+			<td class="menu1" valign="top"><a href="/aboutmilonic.php">About</a>
+				<li><a href="/aboutus.php">About us</a>
+				</li><li><a href="/testimonials.php">Testimonials</a>
+				</li><li><a href="/tablemenu.php">Embedding a Menu inside a Table Cell</a>
+				</li><li><a href="/nonprofits.php">Investing in None Profits</a>
+				</li><li><a href="/contactus.php">Contact us</a>
+				</li><li><a href="/location.php">Where</a>
+				</li><li><a href="/corp_customers.php">Distinguished Clients</a>
+				</li><li><a href="https://www.milonic.com/cbuy.php">Purchase</a>
+				</li><li><a href="/privacy.php">Privacy</a>
+				</li><li><a href="/license.php">License</a>
+				</li><li><a href="/fraudusers.php">Beware of these guys!</a>
+				
+			</li></td>
+	</tr>
+	</tbody></table>
+</div>
+<!--/UdmComment-->	
 
 
 <script>
@@ -207,7 +216,7 @@ If you have any questions or comments about this privacy statement, the practice
 	
 <table border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td align="center"><a class="link" href="/cbuy.php"><img border="0" src="/images/w_buynow.gif" title="Click here to Buy Milonic's JavaScript Menu"></a></td>
+		<td align="center"><a class="link" href="https://www.milonic.com/cbuy.php"><img border="0" src="/images/w_buynow.gif" title="Click here to Buy Milonic's JavaScript Menu"></a></td>
 	</tr>
 	
 	<tr>
@@ -259,7 +268,7 @@ Partners
 			<br>
 			<!--UdmComment-->
 			©1998-2005 Milonic Solutions Ltd. UK Registered Company #4406835<br>
-			<a class="link" href="http://www.milonic.com/privacy.php">Privacy Policy</a> | <a class="link" href="/license.php">License Agreement</a> | <a class="link" href="/contactus.php">Contact Us</a> | <a class="link" href="/support/">Tech Support</a><br><a href="http://www.milonic.com/">JavaScript Menu Courtesy of Milonic.com</a>
+			<a class="link" href="http://www.milonic.com/privacy.php">Privacy Policy</a> | <a class="link" href="/license.php">License Agreement</a> | <a class="link" href="/contactus.php">Contact Us</a> | <a class="link" href="/support/">Tech Support</a><br><a href="http://www.milonic.com/">DHTML JavaScript Menu Courtesy of Milonic.com</a>
 			<!--/UdmComment-->
 			<br><br><br><br><br><br><br>
 		</td>
