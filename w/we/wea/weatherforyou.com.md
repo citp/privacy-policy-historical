@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2005-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050619014427id_/http%3A//www.weatherforyou.com/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217140336id_/http%3A//weatherforyou.com/privacy.shtm) for the most accurate reproduction.*
 
 # Weather for You Privacy Statement
 
@@ -10,12 +10,12 @@ We invite you to contact us if you have questions about this policy. You may con
     
     
     Torsitano Internet Services
-    P.O. Box 693
-    Lincoln, CA 95648-0693 
+    1217 Plaza Blvd Ste E-107
+    Central Point, OR  97502 
     USA
     
 
-You may contact us by e-mail at [support@weatherforyou.com](mailto:support@weatherforyou.com). You may call us at 916-434-8893. 
+You may contact us by e-mail at [support@weatherforyou.com](mailto:support@weatherforyou.com). You may call us at 541-955-1554. 
 
 ## Dispute Resolution and Privacy Seals
 
