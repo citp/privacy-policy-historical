@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsblaze.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204184232id_/http%3A//newsblaze.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsblaze.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217022405id_/http%3A//newsblaze.com/policy/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -92,7 +92,7 @@ This website takes measures to protect its data that contains information relate
 
 **QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS **
 
-You may direct questions, comments or reports to: [support@loopbiz.com](mailto:support@loopbiz.com) 
+You may direct questions, comments or reports to: [support@newsblaze.com](mailto:support@newsblaze.com) 
 
 **REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE **
 
@@ -100,7 +100,7 @@ This Privacy Policy is dynamic.  It will continually change.  You may not assu
 
 **LATEST UPDATE **
 
-This Privacy Policy was last updated on:  July 7 2004 
+This Privacy Policy was last updated on:  March 29 2005 
 
 **COPYRIGHT **
 
@@ -122,8 +122,8 @@ If any matter concerning this purchase shall be brought before a court of law, p
 
 **APPLICABLE LAW **
 
-Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).
+Visitor agrees that the applicable law to be applied shall, in all cases, be that of California.
 
 **COPYRIGHT AND LICENSE  **
 
-This "Privacy Policy" is copyrighted 2003 - 2004 by [http://www.internet-law-compliance.com ](http://www.internet-law-compliance.com/) Mining Gold Corporation and IP Management, LLC and is fully licensed for use by this website.  If you wish to lawfully use this Privacy Policy on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or this website.
+This "Privacy Policy" is copyrighted 2003 - 2004 by [http://www.internet-law-compliance.com ](http://loopbiz.com/InternetLawComplianceSystems.html) Mining Gold Corporation and IP Management, LLC and is fully licensed for use by this website.  If you wish to lawfully use this Privacy Policy on your website, contact [support@newsblaze.com](mailto:support@newsblaze.com) for licensing information.
