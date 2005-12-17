@@ -1,23 +1,8 @@
-> *The following text is extracted and transformed from the mplans.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606050539id_/http%3A//www.mplans.com/cm/ps.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mplans.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217230527id_/http%3A//www.mplans.com/cm/ps.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Mplans.com
 
  [Home](https://web.archive.org/index.cfm) > Privacy Policy   
-[](https://www.truste.org/validate/3759)  
-This confirms that Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [paloalto.com](http://www.paloalto.com/), [bplans.com](http://www.bplans.com/), [mplans.com](http://www.mplans.com/), [secureplan.com](http://www.secureplan.com/), and all other web sites owned and opperated by Palo Alto Software, Inc. TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:  
-
-
-1\. What personally identifiable information of yours or a third party is collected through the website.  
-2\. The organization collecting the information.   
-3\. How the information is used.   
-4\. With whom the information may be shared.   
-5\. What choices are available to you regarding collection, use and distribution of the information.   
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Palo Alto Software control.   
-7\. How you can correct any inaccuracies in the information. 
-
-
-If you have questions or concerns regarding this statement, you should first contact the site coordinator by sending an email to [webteam@paloalto.com](mailto:webteam@paloalto.com?subject=Privacy) . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
-
 Palo Alto Software, Inc. collects personal information about our users only during the secure order process and the registration for our business planning newsletter, or if you request other information sent to you. We collect name, email address, shipping address, credit card company, credit card number, expiration date, and credit card billing address. This is all kept confidential. For membership access areas, we require that you accept a cookie. This is only for functionality reasons, and your personal information is never shared with anyone else. These cookies are also only collected by our sites, there are no third party cookies that are placed on your computer. These cookies help keep track of your login information to speed up the login process, and in certain cases we store your preferences to help tailor our site content to your interests. In the case that you choose not to accept cookies or if your browser automatically does not accept cookies, the only part of our site that will not work for you is the membership registration process. Without cookies enabled, it is not possible to register for our planning tools. 
 
 Palo Alto Software, Inc. respects your right to privacy. We have a strict policy of not selling our customers' email addresses and are completely anti-Spam. Our online store is completely secure and VeriSign has authenticated us as a secure site. 
