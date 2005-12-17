@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2005-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050516081804id_/http%3A//www.returnpath.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217174010id_/http%3A//returnpath.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Return Path - Changed Your Email? Keep Your Contacts!
 
@@ -142,7 +142,7 @@ If there are changes to the terms of Return Path's Privacy Statement, we will po
 We value your opinions. If you have comments or questions about our privacy policy, please send them to Return Path Privacy at [privacy@returnpath.net](mailto:privacy@returnpath.net), or contact:
 
 Return Path, Inc.  
-56 West 22nd Street, 10th Floor  
+304 Park Avenue South, 7th Floor  
 New York, New York 10010  
 Phone: 212-905-5500  
 Fax: 212-905-5501
