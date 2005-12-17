@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lesbrown.com privacy policy that was archived on 2005-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050316093532id_/http%3A//lesbrown.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesbrown.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217124719id_/http%3A//lesbrown.com/privacy.htm) for the most accurate reproduction.*
 
 # Les Brown
 
@@ -21,18 +21,5 @@ This site has security measures in place to protect the loss, misuse and alterat
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   1. **Click on the link at the bottom of each email**
-  2. **Send an email to info@LesBrown.com and put Remove in the subject line.**
 
 
-
-**Change/Modify**
-
-This site gives users the following options for changing and modifying information previously provided.
-
-  1. Email info@LesBrown.com put 'CHANGE' in the subject line.
-
-
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Chip Cummings at (616) 977-7900
