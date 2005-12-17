@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gophercentral.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404031216id_/http%3A//af3.gophercentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gophercentral.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217124546id_/http%3A//af3.gophercentral.com/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
