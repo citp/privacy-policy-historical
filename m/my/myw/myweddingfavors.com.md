@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myweddingfavors.com privacy policy that was archived on 2005-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050604005133id_/http%3A//www.myweddingfavors.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myweddingfavors.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217085119id_/http%3A//myweddingfavors.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
