@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryofschools.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207014215id_/http%3A//www.directoryofschools.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofschools.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217123203id_/http%3A//www.directoryofschools.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Directory of Schools
 
@@ -6,7 +6,7 @@
 
 A privacy policy is your guarantee that any personal information given to Directory of Schools will remain private. Any personal information gathered will never be sold to any third party for any reason. Directory of Schools only collects personal information from visitors in order to process request initialed by the filling out of forms on our site. Directory of Schools is committed to keeping your personal information private. Please review our privacy policy for more detailed information. 
 
-At Directory of Schools, we are committed to protecting your privacy. We promise to keep all the information that you share with us confidential. We ask for personal information so that we can provide you with a personal and customized experience. We use your personal information only to process request for information; we do not share your information with any outside parties. 
+At Directory of Schools, we are committed to protecting your privacy. We promise to keep all the information that you share with us confidential. We ask for personal information so that we can provide you with a personal and customized experience. We use your personal information only to process requests for information; we do not share your information with any outside parties. 
 
 Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
@@ -54,4 +54,4 @@ If we modify this privacy policy, we will post a notice on our Web site. It is c
 
 This web site also contains links to other web sites. Please note that when you click on one of these links, you are 'clicking' to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
 
-If you have questions about this privacy statement, please contact Directory of Schools customer service department at [info@directoryofschools.com](mailto:support@mohawkrubberstamps.com) or at 707-526-0580. 
+If you have questions about this privacy statement, please contact Directory of Schools customer service department at [info@directoryofschools.com](mailto:info@directoryofschools.com) or at 707-526-0580. 
