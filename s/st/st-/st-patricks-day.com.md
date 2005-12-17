@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the st-patricks-day.com privacy policy that was archived on 2005-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050516232030id_/http%3A//www.st-patricks-day.com/about.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the st-patricks-day.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217192546id_/http%3A//www.st-patricks-day.com/about.asp%23privacy) for the most accurate reproduction.*
 
 # www.St-Patricks-Day.com
 
