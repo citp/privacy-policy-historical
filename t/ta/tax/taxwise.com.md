@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxwise.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404035624id_/http%3A//www.taxwise.com/_inc/content-managed/pdf/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxwise.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217132559id_/http%3A//www.taxwise.com/pdf/privacy.pdf) for the most accurate reproduction.*
 
 # Universal Tax Systems, Inc. Privacy Statement
 
@@ -58,9 +58,9 @@ We use IP addresses to analyze trends, administer our site, track user’s movem
 demographic information for aggregate use. IP addresses are not linked to personally identifiable
 information.
 Sharing
-We process credit card transactions directly with Visa Net and/or Paymentech Merchant Services, Inc. for all
-billed goods and services. Visa Net and Paymentech Merchant Services, Inc. do not retain, share, store or
-use personally identifiable information for any secondary purposes.
+We process credit card transactions directly with Paymentech Merchant Services, Inc. for all billed goods
+and services. Paymentech Merchant Services, Inc. does not retain, share, store or use personally
+identifiable information for any secondary purposes.
 We partner with other third party companies to provide specific services such as bank products. When the
 user signs up for these services we will share their names, or other contact information that is necessary for
 the third party to provide these services.
@@ -126,7 +126,7 @@ Correction/Updating Personal Information
 If a users’ personally identifiable information changes (such as e-mail address), or if a user no longer wishes
 to use our services, we will provide a way for the user to correct, update or remove the personal data they
 provided to us. Information regarding how to make such changes is available by contacting Customer
-Support at customer.support@taxwise.com, or 706-290-7200.
+Support at customer.support@taxwise.com, or 1-800-641-9473.
 Change of Control
 In the event of a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise)
 of all or a portion of a UTS and/or its subsidiaries, users personally identifiable information may be
