@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the emporis.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404084153id_/http%3A//www.emporis.com/en/ab/he/cn/ps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emporis.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217130536id_/http%3A//www.emporis.com/en/ab/he/cn/ps) for the most accurate reproduction.*
 
 # Privacy statement for using Emporis.com
 
 [](https://web.archive.org/trc/?l=3)  
-|  | [](https://web.archive.org/cl/?l=3&c=9&aid=1&id=1)  
-| [](https://web.archive.org/cl/?l=3&c=4&aid=1&id=1)  
-|   
+|  | [  
+](https://web.archive.org/cl/?l=3&c=20&aid=1&id=1) | [](https://web.archive.org/cl/?l=3&c=4&aid=1&id=1)  
 | [](https://web.archive.org/cl/?l=3&c=6&aid=1&id=1)  
+| [](https://web.archive.org/cl/?l=3&c=9&aid=1&id=1)  
 | [](https://web.archive.org/cl/?l=3&c=5&aid=1&id=1)  
   
 ---|---|---|---|---  
@@ -36,9 +36,5 @@ For any questions or requests, please send us [feedback](https://web.archive.org
 
 |   
 ---|---  
-  
-Advertisement  
-[](https://web.archive.org/cl/?l=3&c=13)  
-  
   
 | 
