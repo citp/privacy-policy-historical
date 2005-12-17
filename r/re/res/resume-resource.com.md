@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206060731id_/http%3A//www.resume-resource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217141959id_/http%3A//resume-resource.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Resume Resource.com
+# Resume-Resource.com Privacy Policy
+
+ 
 
 Effective **01/01/2002**
 
@@ -54,3 +56,9 @@ Protecting the privacy of the very young is especially important. For that reaso
 **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please send an email to 
+
+* * *
+
+**[Back to Resume Articles](https://web.archive.org/web/20051217141959id_/http%3A//resume-resource.com/articles.html) | [Resume Examples](https://web.archive.org/web/20051217141959id_/http%3A//resume-resource.com/examples.html) | [Resume Home](https://web.archive.org/web/20051217141959id_/http%3A//resume-resource.com/index.html)**
+
+* * *
