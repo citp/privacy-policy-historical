@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hopster.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305115927id_/http%3A//www.hopster.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopster.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217220514id_/http%3A//www.hopster.com/about/privacy) for the most accurate reproduction.*
 
 # hopster | privacy
 
