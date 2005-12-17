@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teengrowth.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305011731id_/http%3A//www.teengrowth.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teengrowth.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217220317id_/http%3A//www.teengrowth.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Teen Growth, the teen resource for advice, health information, social interaction, and fun.
 
