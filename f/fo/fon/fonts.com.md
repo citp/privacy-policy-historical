@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fonts.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305230943id_/http%3A//www.fonts.com/Legal/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonts.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217024446id_/http%3A//www.fonts.com/Legal/Privacy.htm) for the most accurate reproduction.*
 
-# Your Privacy - Fonts.com - Download Mac and Windows Fonts
+# Your Privacy - Fonts.com
 
 At Monotype Imaging, we protect the privacy of our customers. When you visit Monotype Imaging’s Web site, you may send us information about yourself or your company, such as your name and address, that we may need to correspond with you, process an order, or use in a survey.
 
