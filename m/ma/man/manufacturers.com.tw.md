@@ -1,51 +1,64 @@
-> *The following text is extracted and transformed from the manufacturers.com.tw privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308211212id_/http%3A//www.manufacturers.com.tw/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manufacturers.com.tw privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217170338id_/http%3A//www.manufacturers.com.tw/privacy.php) for the most accurate reproduction.*
 
-# China Trade Directory - B2B China & Taiwan Manufacturers Directory, Exporters Direcory
+# Manufacturers Directory On B2BManufactures.Com-All Products Made In China Manufacturers & Taiwan Manufacturers,Suppliers& Exporters,China Suppliers
 
 | [](http://www.manufacture.com.tw/manufacturers-org/manufacturer.htm)  
 ---  
-|   |  | [**Top Fashion Industrial Co., Ltd.**](https://web.archive.org/showroom_f.php?a=5987-3-3-0-0&r=http://www.wholeasale-cosmetic-supply.com/ "Top Fashion Industrial Co., Ltd.")  
-Wholesaler/ supplier/ exporter of various make up products and make up packaging containers. Cosmeti... |   
+|   |  | [**Shang Yung Co., Ltd.**](https://web.archive.org/showroom_f.php?a=4527-3-3-0-0 "Shang Yung Co., Ltd.")  
+Neoprene manufacturer for neoprene sheets, neoprene fabric and neoprene product. |   
 ---|---|---|---  
-  |  | [**JIh Kao Enterprise Co., Ltd.**](https://web.archive.org/showroom_f.php?a=5730-3-3-0-0&r=http://www.b2b-fitness-equipment-manufacturer.com/ "JIh Kao  Enterprise Co., Ltd.")  
-Health and fitness equipment manufacturer specializes in the production of motorized and manual trea... |   
+  |  | [**Ever Jun Eagle International Co., Ltd.**](https://web.archive.org/showroom_f.php?a=5678-3-3-0-0 "Ever Jun Eagle International Co., Ltd.")  
+Manufacturer of leather goods for organizer, briefcase, portfolio, computer bag, luggage etc. |   
+---|---|---|---  
+  |  | [**Sdec Technology Corp.**](https://web.archive.org/showroom_f.php?a=6732-3-3-0-0 "Sdec Technology Corp.")  
+LCD manufacturer & supplier for LCD module, LCM, LCD display module. |   
+---|---|---|---  
+  |  | [**CVC Technologies Inc.**](https://web.archive.org/showroom_f.php?a=1323-3-3-0-0 "CVC Technologies Inc.")  
+offering varied pharmaceutical packaging equipment, including labeling machine, tablet / capsule counter etc. |   
 ---|---|---|---  
   
 Popular Categories
 
-  * [Ball Valve](https://web.archive.org/valves/ball-valve.htm "Ball Valve")
-  * [Band Saw](https://web.archive.org/machinetools/Band-Saw.htm "Band Saw")
-  * [Bathroom Accessory](https://web.archive.org/kitchen-household/bathroom-accessory.htm "Bathroom Accessory")
-  * [Bearing](https://web.archive.org/industrial-supply/Bearing-Manufacturers.htm "Bearing")
-  * [Bicycle Accessory](https://web.archive.org/bicycles/Bicycle-Accessory.htm "Bicycle Accessory")
-  * [Bicycle Manufacturers](https://web.archive.org/bicycles/Bicycle-Manufacturers.htm "Bicycle Manufacturers")
-  * [Bicycle Parts](https://web.archive.org/bicycles/Bicycle-Parts.htm "Bicycle Parts")
-  * [Bike Manufacturers](https://web.archive.org/bicycles/Bike-Manufacturer.htm "Bike Manufacturers")
-  * [Butterfly Valves](https://web.archive.org/valves/Butterfly-Valves.htm "Butterfly Valves")
-  * [Cable & Wire](https://web.archive.org/industrial-supply/Cable-Wire.htm "Cable & Wire")
-  * [Cable Assembly](https://web.archive.org/electronics/Cable-Assembly.htm "Cable Assembly")
-  * [Capacitors](https://web.archive.org/electronics/Capacitor-Manufacturers.htm "Capacitors")
-  * [Caster & Wheel](https://web.archive.org/industrial-supply/caster-manufacturers.htm "Caster & Wheel")
-  * [Check Valve](https://web.archive.org/valves/Check-Valve.htm "Check Valve")
+  * [Electronic Gifts](https://web.archive.org/company-categories/electronic-gifts.htm "Electronic Gifts")
+  * [Emergency Lighting](https://web.archive.org/lighting/Emergency-Lighting.htm "Emergency Lighting")
+  * [Engraving Machine](https://web.archive.org/machinetools/Engraving-Machines.htm "Engraving Machine")
+  * [Fabrics](https://web.archive.org/textile/Fabric-Manufacturers.htm "Fabrics")
+  * [Fire Fighting Equipments](https://web.archive.org/security/Fire-Fighting-Equipments.htm "Fire Fighting Equipments")
+  * [Food Equip.](https://web.archive.org/machinery/food-processing-equipment.htm "Food Equip.")
+  * [Food Machinery](https://web.archive.org/machinery/Food-Machinery.htm "Food Machinery")
+  * [Food Products](https://web.archive.org/agriculture-food/Food-Products.htm "Food Products")
+  * [Furnace](https://web.archive.org/industrial-supply/furnaces.htm "Furnace")
+  * [Garden Tool](https://web.archive.org/handtool/Garden-Tools.htm "Garden Tool")
+  * [Gasket & Seal](https://web.archive.org/industrial-supply/gaskets-seals.htm "Gasket & Seal")
+  * [General Packaging Material](https://web.archive.org/packaging/Packaging-Manufacturers.htm "General Packaging Material")
+  * [Generators](https://web.archive.org/industrial-supply/Generator-Manufacturers.htm "Generators")
+  * [Gifts & Novelties](https://web.archive.org/gifts/gifts-novelties.htm "Gifts & Novelties")
+  * [Led Lights](http://www.b2bchinasources.com/China-Manufacturers-13829/LED-Lights.htm)
+  * [Chinese Gifts](http://www.b2bchinasources.com/China-Manufacturers-13830/Chinese-Gifts.htm)
+  * [Mp3 Players](http://www.b2bchinasources.com/China-Manufacturers-18106/Mp3-Player.htm)
+  * [Ball Valves ](http://www.b2bchinasources.com/China-Manufacturers-16444/Ball-Valves.htm)
+  * [LED Products ](http://www.b2bchinasources.com/China-Manufacturers-13829/Leds-Manufacturers.html)
+  * [GPS Products ](http://www.b2bchinasources.com/China-Manufacturers-18663/GPS-Manufacturers.html)
   * [>> more >>](https://web.archive.org/more-popular-categories.php)
 
 
 
 Featured Companies  
 ---  
-|  | [**Shenzhen Crystal Technology Industrial Co., Ltd.**](https://web.archive.org/showroom_f.php?a=6420-3-3-0-0&r=http://quartz-crystal.chinasources.com.tw/ "Shenzhen Crystal Technology Industrial Co., Ltd.")  
-Manufacturer of quartz crystal electrical components, including SMD X'TAL, CXO, VCXO, TCXO, SMD CXO, SMD VCXO, ceramic resonators, SMD ceramic resonator, crystal filters, saw filters, crystal osci... |   
-|  | [**Fu Feng Co., Ltd**](https://web.archive.org/showroom_f.php?a=5742-3-3-0-0&r=http://www.plagear.com.tw "Fu Feng Co., Ltd")  
-Manufacturer of precision engineering of plastic gear with over 2-decade experiences. Products include joined type reduction gear box, precision engineering of plastic gear, and other peripheral a... |   
-|  | [**Prejection Electronic Coil Industrial Corp.**](https://web.archive.org/showroom_f.php?a=4396-3-3-0-0&r=http://www.prejection.com/ "Prejection Electronic Coil Industrial Corp.")  
-Manufacturer with over 10-year experience provides high quality coils to meet Japanese customers' demands. Products include electronic coil, solenoid, voice, IC, reading card, induction, fan, secu... |   
-|  | [**Cosmtec Resources Co., Ltd.**](https://web.archive.org/showroom_f.php?a=6302-3-3-0-0&r=http://www.rf-connector-manufacturer.com/ "Cosmtec Resources Co., Ltd.")  
-Cosmtec Resources CO., LTD. has been specialized in RF connectors, cable assemblies, antennas and balun throughout the worldwide markets since it's initial establishment. It not only focus on our ... |   
+|  | [**Stars Navigation Technologies Ltd.**](https://web.archive.org/showroom_f.php?a=6507-3-3-0-0 "Stars Navigation Technologies Ltd.")  
+Mfr. GPS system for gps tracking system, car gps system and vehicle tracking system. |   
+|  | [**Kai Harng Enterprises Co., Ltd.**](https://web.archive.org/showroom_f.php?a=4374-3-3-0-0 "Kai Harng Enterprises Co., Ltd.")  
+Distributor of CCTV Camera, CCD camera and IR camera. |   
+|  | [**Yih Chuan Machinery Industry Co., Ltd.**](https://web.archive.org/showroom_f.php?a=6484-3-3-0-0 "Yih Chuan Machinery Industry Co., Ltd.")  
+specializing in machining center, CNC milling machine and CNC lathe. |   
+|  | [**Hsiang Teh Art & Craft Works Co., Ltd.**](https://web.archive.org/showroom_f.php?a=3287-3-3-0-0 "Hsiang Teh Art & Craft Works Co., Ltd.")  
+Manufacturer and exporter of lapel pin, badge, emblem, die struck, key chain etc. |   
   |   |   |    
 e-Marketplaces  
 ---  
 | [Machine Sources Online](http://www.manufacturers.com.tw/machinery/machinery-parts-accessories.htm "Machine Sources Online")  
 | [Chinese Furniture ](http://www.furniturenet.com.tw/ "Chinese Furniture Directory")  
+| [B2BChinaSources.com](http://www.b2bchinasources.com/ "B2BChinaSources.com")  
   | 
 
 | 
@@ -70,19 +83,18 @@ You will be given the opportunity to 'opt-out' of having your information used f
 ---  
 Company Name : | G.T. Internet Information Co., Ltd.   
 Headquarter Address : | 14F, No.130, Chung Te Rd. Sec. 2, Taichung, Taiwan, R.O.C  
-Tel : | \+ 886 (0)4 22350378  
-Fax : | \+ 886 (0)4 22308479  
+Tel : | \+ 886 (0)4 22360221  
+Fax : | \+ 886 (0)4 22361191  
    
   
 | Corporate  
 ---  
-[](https://web.archive.org/c.php) | [](https://web.archive.org/gt-group/ir.htm)  
-[](https://web.archive.org/b.php) | [](https://web.archive.org/gt-group/news/news.htm)  
-[](https://web.archive.org/u.php) | [](https://web.archive.org/gt-group/products/products.htm)  
-| [](https://web.archive.org/web/20050308211212id_/http%3A//www.manufacturers.com.tw/inquiry-c.php)  
+| [](https://web.archive.org/gt-group/ir.htm)  
+| [](https://web.archive.org/gt-group/news/news.htm)  
+| [](https://web.archive.org/gt-group/products/products.htm)  
+| [](https://web.archive.org/inquiry-c.php)  
 | [](https://web.archive.org/gt-group/index.htm)  
 | [](https://web.archive.org/contact-c.php)  
-[](https://web.archive.org/ctd_adclicks.php?click_adid=63&url=http://www.b2bwebpromote.com/vipsuite/management/~netads/AdvertisementHitRecord.jsp*www.extending.com.tw*C00812*53)  
+[](https://web.archive.org/ctd_adclicks.php?click_adid=246&url=http://www.b2bchinasources.com/)  
 ---  
-[](https://web.archive.org/ctd_adclicks.php?click_adid=65&url=http://www.b2bwebpromote.com/vipsuite/management/~netads/AdvertisementHitRecord.jsp*www.hofeng.com/*C00802*53)  
-[](https://web.archive.org/ctd_adclicks.php?click_adid=66&url=http://www.b2bwebpromote.com/vipsuite/management/~netads/AdvertisementHitRecord.jsp*inverters.powermaster.com.tw/*C00892*53)
+[](https://web.archive.org/ctd_adclicks.php?click_adid=242&url=http://www.telepeak.com/)
