@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laserdesign.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204215213id_/http%3A//www.laserdesign.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserdesign.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217222531id_/http%3A//www.laserdesign.com/privacy.htm) for the most accurate reproduction.*
 
 # Laser Design - PRIVACY STATEMENT
 
