@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418061702id_/http%3A//www.activeforever.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218004045id_/http%3A//www.activeforever.com/Privacy.asp) for the most accurate reproduction.*
 
 # Daily Living Aids at Guaranteed Low Prices - ActiveForever.com
 
