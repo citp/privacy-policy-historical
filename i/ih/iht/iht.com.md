@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422175740id_/http%3A//www.iht.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217164515id_/http%3A//www.iht.com/info/privacy.html) for the most accurate reproduction.*
 
-# International Herald Tribune > Privacy & Cookies
+# Privacy & Cookies - International Herald Tribune
 
 The International Herald Tribune takes your online privacy very seriously. Therefore, unless you explicitly state otherwise, or we explicitly state otherwise, any data that we collect as a result of your use of the site remains confidential.
 
