@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507181526id_/http%3A//www.digiguide.com/general/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218001849id_/http%3A//www.digiguide.com/general/privacy.shtml) for the most accurate reproduction.*
 
 # DigiGuide: The Best TV Guide - Privacy Statement
 
@@ -19,7 +19,7 @@ We ask for your address so we can auto-complete your credit card details when pu
 
 ### Your privacy
 
-**We respect** your privacy and the data obtained and stored by us is protected under UK law by the Data Protection Act (1998).
+**We respect** your privacy and all data provided is protected under UK law by the Data Protection Act (1998).
 
 **We promise not to sell or share** any of your personal details obtained by our account system to any third party.
 
@@ -65,3 +65,6 @@ If you've set your browser to warn you before accepting cookies, you will receiv
 ### Questions
 
 If you have any questions regarding our privacy statement, we are only too happy to answer them. In this regard, please contact [privacy@gipsymedia.com](mailto:privacy@gipsymedia.com).
+
+  
+
