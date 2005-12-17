@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206203600id_/http%3A//www.s1jobs.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217170728id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
 
-# s1jobs.com
+# Scottish jobs, recruitment and vacancies from s1jobs.com
 
-s1now ltd are committed to protecting your right to personal privacy. That is why we have drafted this notice to explain the type of information we collect on this web site (the "Site") and how we use this information. This Policy also explains the choices that you can make about the way your information is collected and used.
+### privacy policy
 
-By submitting personal details to us, you are deemed as agreeing to use of these details as described in this Policy. We appreciate that this Policy may seem long, however, we have created a thorough privacy statement to fully explain our information handling practices. Should you have any questions however, please feel free to direct these to [privacy@s1now.com](mailto:privacy@s1now.com)
+s1now ltd is committed to protecting your right to personal privacy. That is why we have drafted this notice to explain the type of information we collect on this web site (the "Site") and how we use this information. This Policy also explains the choices that you can make about the way your information is collected and used.
+
+By submitting personal details to us, you are deemed as agreeing to use of these details as described in this Policy. We appreciate that this Policy may seem long, however, we have created a thorough privacy statement to fully explain our information handling practices. Should you have any questions however, please feel free to direct these to [servicedesk@s1jobs.com](mailto:servicedesk@s1jobs.com)
 
 **The Information We Collect**
 
@@ -12,12 +14,13 @@ We request very little identifying information from you and only for a narrow se
 
   * For registration to certain areas of the Site;
   * To allow us to respond to your enquiries for further information;
-  * To distribute requested materials; and
-  * When you are submitting CV's.
+  * To distribute requested materials;
+  * When you are submitting CVs;
+  * To allow recruiters to search your career profile.
 
 
 
-The type of personal information collected on the Site include your name, address, email address, telephone number, user name and password. However, other information will be submitted when you respond to an online job application.
+The type of personal information collected on the Site could include your name, address, email address, telephone number, user name and password. However, other information will be submitted when you respond to an online job application or register to get head-hunted.
 
 Your participation is voluntary and you will not be required to provide more information than is necessary to participate in any of the Site's activities. In any instance where non-mandatory information is sought, you will be notified of this at the point of collection.
 
@@ -25,21 +28,27 @@ In some instances, we may ask you questions on an aggregate basis (we don't iden
 
 **The Way We Use Information**
 
-When you register with the Site, you can elect to receive information and updates on our products and services. Information will not be used for this purpose unless you request to receive communications. We use return email addresses to answer any emails that we receive, and we may use return email addresses to send you other information that you may request. Such addresses are not used for any other purpose.
+We may occasionally request your postcode details in order to ensure that we only deliver information relevant to you and only where we have obtained your prior express permission to do so. We will NOT use your postcode information to generate a full postal address (where completion of full address fields are not requested), nor will we mail out literature related to our websites unless you specifically request us to do so.
+
+Users may provide their mobile phone numbers in order to receive relevant SMS text messages regarding services on our websites.
+
+When you register with the Site, you can elect to receive information and updates on our products and services by email. We use return email addresses to answer any emails that we receive, and we may use return email addresses to send you other information that you may request. Such addresses are not used for any other purpose.
+
+To complete your registration in the CV Database area of the Site to ‘Get Head Hunted’, your permission will be required to receive a bi-annual email from the Site which in turn requests you renew your candidate profile in the CV Database area.
 
 We use information that you provide (individual and aggregate) to better design the Site and to improve our marketing strategy and our products. One method through which the Site collects aggregate information is the collection of IP addresses. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you request a page from this site, our servers log your IP address. We do not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to us. To the extent such information is shared with third parties, please see "Our Privacy Practices With Third Parties" below.
 
 You will have the opportunity to forward pages or information on the Site to friends. The information you provide to facilitate this email communication is used on a one-time basis and is not collected or retained by us.
 
-We make every practical effort to avoid excessive or irrelevant collection of data. If you believe the Site has collected excessive information, we encourage you to contact us [privacy@s1now.com](mailto:privacy@s1now.com)
+We make every practical effort to avoid excessive or irrelevant collection of data. If you believe the Site has collected excessive information, we encourage you to contact us [servicedesk@s1jobs.com](mailto:servicedesk@s1jobs.com)
 
 **Unsubscribe / Delete**
 
 You have the right to access personal data which you have submitted through the Site. We give you the following options for managing or removing your information from our database:
 
-  1. Send us an email: at [privacy@s1now.com](mailto:privacy@s1now.com). Be sure to include your name and clear instructions on what you would like us to do.
-  2. Send us mail: at s1now ltd, 200 Renfield Street, Glasgow, Scotland. Be sure to include your name and clear instructions on what you would like us to do.
-  3. Manage Your Profile: Within the Personal File section you have the option to Manage Your Personal Profile. The management system allows you to update or delete your information from our database. We also allow you to subscribe or unsubscribe to any of the promotional email updates we send out. 
+  1. Manage Your Profile: Within the "my account" section you have the option to manage your personal and career profiles. The management system allows you to update or delete your information from our database. We also allow you to subscribe or unsubscribe to any of the email updates you've requested from the site.
+  2. Send us mail: at s1now ltd, 200 Renfield Street, Glasgow, G2 3QB, Scotland. Be sure to include your name and clear instructions on what you would like us to do.
+  3. Send us an email: at [servicedesk@s1jobs.com](mailto:servicedesk@s1jobs.com). Be sure to include your name and clear instructions on what you would like us to do.
 
 
 
@@ -79,6 +88,4 @@ By using the Site, you signify your agreement to be bound by the s1now ltd Priva
 
 **How to Contact Us**
 
-Should you have any questions or concerns about this Privacy Policy or the collection of information, please e-mail us at [privacy@s1now.com](mailto:privacy@s1now.com)
-
-**Please note:** The laws and regulations in different countries impose different (and even conflicting) requirements on the Internet and data protection. We are located in the UK, as are the servers that make this site available world-wide. Scottish law governs all matters relating to this site. If you are located outside of this country and you contact us please note that any information you provide will be transferred to the UK and by submitting the information you authorise this transfer.
+Should you have any questions or concerns about this Privacy Policy or the collection of information, please e-mail us at [servicedesk@s1jobs.com](mailto:servicedesk@s1jobs.com)
