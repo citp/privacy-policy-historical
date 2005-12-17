@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dvo.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305133743id_/http%3A//www.dvo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvo.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217123229id_/http%3A//www.dvo.com/privacy.html) for the most accurate reproduction.*
 
-# - DVO Enterprises Privacy Policy
+# DVO Enterprises Privacy Policy
 
 TOP SELLERS
 
@@ -8,17 +8,17 @@ TOP SELLERS
 [Cook'n with Betty Crocker™ ](https://web.archive.org/cookn_with_bettycrocker.html)
 
 $29.95  
-[ ](http://www.withinmysite.com/ecommerce/cart.php?storeid=60&productid=2139)
+[ ](http://www.dvo.com/ss-bin/sc/order.cgi?storeid=*12a8805b1a6a1e7fd7f025&dbname=products&sku=2139&function=add)
 
 [](https://web.archive.org/cookn.html)
 
   
 [Cook'n Software Download](https://web.archive.org/cookn.html)
 
-$29.95  
-[ ](http://www.withinmysite.com/ecommerce/cart.php?storeid=60&productid=1210)
+$39.95  
+[ ](http://www.dvo.com/ss-bin/sc/order.cgi?storeid=*12a8805b1a6a1e7fd7f025&dbname=products&sku=1210&function=add)
 
-[ ](http://www.withinmysite.com/ecommerce/cart.php?storeid=60)
+[ ](http://www.dvo.com/ss-bin/sc/order.cgi?storeid=*12a8805b1a6a1e7fd7f025&dbname=products&sku=5103&function=show)
 
   
 
@@ -31,16 +31,16 @@ Steve Van Wie
 NEWSLETTER
 
 [• Current Issue  
-](https://web.archive.org/web/20050305133743id_/http%3A//www.dvo.com/homecookn) [• Newsletter Archive](https://web.archive.org/web/20050305133743id_/http%3A//www.dvo.com/newsletterarchive.html)
+](https://web.archive.org/web/20051217123229id_/http%3A//www.dvo.com/homecookn) [• Newsletter Archive](https://web.archive.org/web/20051217123229id_/http%3A//www.dvo.com/newsletterarchive.html)
 
 CONTACT US
 
-[](http://www.clickchatsupport.com/request_email.php?l=mightyoak&x=1&deptid=2) [  
-• Contact Info](https://web.archive.org/web/20050305133743id_/http%3A//www.dvo.com/contact.html)
+[  
+• Contact Info](https://web.archive.org/web/20051217123229id_/http%3A//www.dvo.com/contact.html)
 
 **DAILY SPECIAL**  
 Order today and  
-SAVE 10%! Click here to [find out how.](https://web.archive.org/web/20050305133743id_/http%3A//www.dvo.com/dailyspecial.html)
+SAVE 10%! Click here to [find out how.](https://web.archive.org/web/20051217123229id_/http%3A//www.dvo.com/dailyspecial.html)
 
   
 
