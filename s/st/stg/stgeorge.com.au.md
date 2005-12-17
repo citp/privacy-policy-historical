@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2005-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050620030556id_/http%3A//www.stgeorge.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217034759id_/http%3A//stgeorge.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
 
 # St.George Bank - Privacy & Security
 
@@ -197,9 +197,12 @@ ABN 92 055 513 070
 **Address** : 4-16 Montgomery St Kogarah NSW 2217  
 Locked Bag 1 Kogarah NSW 1485  
 **Phone** :13 33 30  
-**Email** :stgeorge@stgeorge.com.au  
+**Email** :websupport@stgeorge.com.au  
 
 
 We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner or the Australian Banking Industry Ombudsman. We will provide you with their contact details if required.
 
 * * *
+
+  
+
