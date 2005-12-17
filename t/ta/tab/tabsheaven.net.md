@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabsheaven.net privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513024417id_/http%3A//www.tabsheaven.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabsheaven.net privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217224047id_/http%3A//www.tabsheaven.net/privacy-policy) for the most accurate reproduction.*
 
 # tabsHeaven.net - free Guitar PRO tabs
 
@@ -11,6 +11,9 @@ During your stay at **tabsHeaven.net** , we do not collect any personally identi
 
 **tabsHeaven.net** may also feature contextual-advertising (sponsored text links) through our various partners, such as Google. We do not grant any personally-identifiable information to these partners except your IP address (assigned by your ISP). For most of our users, an IP address is temporarily assigned, and changes each time you log onto the Internet.  
 **tabsHeaven.net** is able to provide you our free services because of the support of our advertisers and sponsorship partners.
+
+  
+
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
