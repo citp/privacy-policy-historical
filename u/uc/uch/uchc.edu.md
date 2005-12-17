@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uchc.edu privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204035910id_/http%3A//health.uchc.edu/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uchc.edu privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217192839id_/http%3A//health.uchc.edu/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Notice for the UConn Health Center
 
