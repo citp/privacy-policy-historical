@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306013334id_/http%3A//www.mals-e.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217214424id_/http%3A//www.mals-e.com/privacy.php) for the most accurate reproduction.*
 
-# What's New
+# Mal's e-commerce
 
-PRIVACY STATEMENT 
+### **PRIVACY STATEMENT**
 
 **WHAT DATA DO I KEEP ABOUT USERS?  
 **Not much, is the answer! The only personal data I ask for from users is their name, country, telephone, fax and e-mail address. It's the stuff you see on the join form, [**see it here**](https://www.mals-e.com/admin/create.htm). Of that only the Contact e-mail address is really absolutely essential, I don't mind if people don't want to provide the other stuff. All this data can be updated at any time in Admin (go to _Your details_ ). 
