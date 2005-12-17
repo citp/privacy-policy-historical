@@ -1,11 +1,73 @@
-> *The following text is extracted and transformed from the remax.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401203028id_/http%3A//remax.com/misc/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remax.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217042440id_/http%3A//remax.com/misc/privacy_policy.htm) for the most accurate reproduction.*
 
 # Inside RE/MAX | Privacy Policy
 
-Your privacy is very important to us. RE/MAX International, Inc.'s policy is to respect and protect the privacy of visitors to our web site. The purpose of this privacy policy is to provide you with a description of the type of information we collect and how we use that information. 
+At 
 
-RE/MAX International, Inc. Does Not Collect Individually Identifiable Data on Users. We do not collect personally identifiable information on our web site unless you choose to give it to us via an electronic mail message. Even when you choose to give us information, we keep it confidential. When guests visit the remax.com web site, we collect some basic information that does not identify individual users. This includes the amount of traffic visiting the site, which pages are visited and for how long, where the visitors come from, and what ISP they are using. We use the information we collect to improve the quality of our web site, enhance or tailor the information we offer, and make your experience on our site as valuable and efficient as possible. 
+RE/MAX
 
-Links to Other Web Sites. Please be aware that when you click on links that take you to third-party web sites, you will be subject to their respective privacy policy. While RE/MAX International supports the protection of privacy on the Internet, RE/MAX International cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any web site. 
+International, Inc., your privacy is very important to us. The purpose of this privacy policy is to provide you with a description of the types of information we collect about you when you visit our site at [www.remax.com](http://www.remax.com/) (the “Site”), and how we use that information. By visiting or using our Site, you agree to the provisions of this privacy policy. If you do not agree to the terms of this Policy, please do not use this Site.
 
-Consent to Gather Non-Identifiable Information. By using our web site, you consent to RE/MAX International's collection and use of your information as described in this policy. If RE/MAX International updates this privacy policy, such changes will be posted on this page. So that you are always aware of what information we collect and how we use it, we recommend that you review this page regularly.
+This policy only applies to information collected while you are on our Site pages. These pages may contain links to other Web sites, including sites of third parties who have a relationship with 
+
+RE/MAX
+
+International or our franchise network of independently owned offices and their affiliated real estate professionals. These third party sites may include sites of service providers who are permitted to display a 
+
+RE/MAX
+
+logo pursuant to a co-branding agreement. Please be aware that when you click on a link that takes you to another Web site, any information you provide, including financial information, is subject to the privacy policy of that site. 
+
+RE/MAX
+
+International does not control and is not responsible for the practices of such sites.
+
+**Information We Collect**  
+We collect and store information that you voluntarily provide to us as well as data related to your Site visit and usage.
+
+We collect personally identifiable information (including, but not limited to, name, address and phone number) that is voluntarily provided to us by you. For example, you voluntarily provide personally identifiable information when you send us an email, use certain features of the Site such as the “Contact a 
+
+RE/MAX
+
+Agent” feature, participate in a survey or sweepstakes, or register with our Site.
+
+In addition, during your visit we automatically collect certain aggregate information related to your Site visit. Aggregate information is non-personally identifiable or anonymous information about you, including the date and time of your visit, your IP address, your computer browser information, the Internet address that you visited prior to and after reaching our site, the name of the domain and host you used to access the Internet, and the features of our Site which you accessed.
+
+**Use of Cookies**  
+“Cookies” are simple text files stored on your computer for use by a browser. Certain Site features may only be available through the placement of a cookie. We may use “cookies” to assist in data collection and to track visitor Site usage and trends to help us better serve you. The use of cookies is a standard practice among Internet Web sites; most Internet browsers permit a user to accept, decline or delete cookies. This Web site works with a first party cookie that collects anonymous traffic data at this Web site.
+
+**How We Use Information**  
+We use collected information to make available and to improve our high standard of reliable services. We use such information to respond to inquiries or service requests and monitor such responses; to provide information about and market our products or services or those of our franchise network affiliates, including the 
+
+RE/MAX
+
+franchise of independently owned offices and their agents; to resolve problems; and to manage our Site and assess its usage.
+
+**Disclosure of Information**  
+We do not sell or rent personally identifiable information to third parties who are not affiliates of 
+
+RE/MAX
+
+International. We may disclose personally identifiable information to appropriate affiliates of 
+
+RE/MAX
+
+International, including strategic alliance affiliates, to respond to a request for service or the provide information about available products or services, and to third party service providers. We may share aggregate information with certain third parties such as advertisers, national industry organizations, and prospective affiliates. In addition, we reserve the right to disclose aggregate information and personally identifiable information to third parties as required or permitted by law and when we believe that disclosure is necessary to protect our rights.
+
+**Children’s Privacy**  
+This Web site is not directed toward children, and we do not knowingly collect information from children.
+
+**Effective Date; Policy Changes**  
+This privacy policy is effective as of August 5, 2005. Each time you use the Site, the current version of the policy will apply. Accordingly, when you use the Site, you should check the date of this policy (which appears at the top of the policy) and review any changes since the last version. We reserve the right to change this policy from time to time without prior notice. Any such policy changes will be effected as of the date on which they are posted.
+
+**Limitation of Liability**  
+UNDER NO CIRCUMSTANCES SHALL RE/MAX INTERNATIONAL, INC. BE LIABLE FOR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF THE INFORMATION OR MATERIALS ON THIS SITE, EVEN IF RE/MAX INTERNATIONAL, INC. OR AN AUTHORIZED REPRESENTATIVE OF RE/MAX INTERNATIONAL, INC. HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+**Governing Law**  
+This policy is governed by the laws of the State of Colorado without giving effect to any principles of conflict of law.
+
+**Contact Us**  
+To contact us with your questions or comments regarding this policy or the information collection and dissemination practices of this Site, please email us at [admin@remax.net](mailto:admin@remax.net).
+
+To see the Terms and Conditions that apply to this Site, click [here](https://web.archive.org/misc/terms_of_use.htm).  
+All trademarks, service marks, and other proprietary materials herein are the property of RE/MAX International, Inc. © 2005. All rights reserved.
