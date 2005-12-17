@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403180047id_/http%3A//www.relix.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217183707id_/http%3A//www.relix.com/privacy.phtml) for the most accurate reproduction.*
 
 # r e l i x . c o m - Relix Magazine and Relix Records | Privacy Policy
-
-[John Molo, Lou Gossain and Friend Promise &quot;A Jolly Good Time Tonight](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news224.html#3-30-12)     [Kevn Kinney Joins Irion/Guthrie Tour; Live Performance on XM Tonight](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news224.html#3-30-13)     [Luther Dickinson Makes the Crowes Happy](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news224.html#3-30-14)     [Grateful Dead Song Unearthed, To Accompany Lesh Autobiography at Powells ](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news224.html#3-31-10)     [Bela Fleck Touring with Trio and !Trio!](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news224.html#3-30-11)     [Members of JM2 and Moshi Moshi to tour as the Disco Biscuits ](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [ Dave Matthews Debuts Material Down Under ](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [John Butler Joins Joshua Tree ](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [Dave Matthews Band &quot;Crashes&quot; into Randall's Island](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [Neil Young Suffers Brain Aneurysm](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [Steve Kimock Will Join Mary Gatchell In NYC](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news224.html#3-31-11)       
-|   
----  
-[](http://www.jambands.com/cgi-bin/btransfer.cgi?bid=562&posid=14)  
-  
-[ ](http://www.jammys.com/)[ ](http://www.jammys.com/vote)
-
-**Privacy Policy**   
-
 
 At Relix.com, our goal is to be your favorite destination for music information on the Internet. We do this by providing you with the information, services and products that are essential to you. To achieve this goal, we sometimes ask to collect data to help us understand what information, services and products will be most useful to you. 
 
@@ -31,61 +21,3 @@ A cookie is a small text file containing a unique identification number that is 
 You have the ability to configure your browsers to refuse acceptance of cookies. A cookie cannot pass on a computer virus, or even capture your e-mail address. Cookies help readers by saving such information as passwords and editorial preferences on user hard drives. 
 
 Please be aware that advertisers have links on our sites that take you to other sites that may collect personally identifiable information about you. We hope that all third parties involved adhere to policies that protect users' privacy. However, this privacy policy does not cover third party data collection practices and Relix does not assume any responsibility for any actions of third parties. 
-
-**Want the inside scoop on the music you care about?  
-Sign up for our award winning newsletter: [Click Here](https://web.archive.org/newsletter.phtml?PHPSESSID=42c123b96eef4a95f469e6cd811dbf56) **
-
-  
-[Advertising Info](https://web.archive.org/adsinfo.phtml?PHPSESSID=42c123b96eef4a95f469e6cd811dbf56) | [Contributor Guidelines](https://web.archive.org/coguide.phtml?PHPSESSID=42c123b96eef4a95f469e6cd811dbf56) | [Links](https://web.archive.org/linkspg.phtml?PHPSESSID=42c123b96eef4a95f469e6cd811dbf56) | [Privacy Policy](https://web.archive.org/privacy.phtml?PHPSESSID=42c123b96eef4a95f469e6cd811dbf56)  
-  
-[](http://www.relix.com/catalog.cgi?action=show_cat&catid=088_Relix%20Magazine)   
-**April/May 2005:**   
-The Disco Biscuits: The Agony and the Ecstasy **  
-Exclusive features include: **
-
-  * **Sound Tribe Sector 9: Movement of the People**
- **
-  * Why Bonnaroo is the New Woodstock
-  * The Garden of Tori Amos 
-  * Thievery Corporation: Princes of Sound 
-  * Phil Lesh Reveals _My Life in the Grateful Dead_
-  * All Access: The Benevento/Russo Duo
-  * Winter Wrap-up featuring Ski Jam, Jam Cruise, Tsunami Relief Jam & More
-**
-    
-**Read more in Relix**  
-On the newsstands and by [SUBSCRIPTION](http://www.relix.com/catalog.cgi?action=show_cat&catid=088_Relix%20Magazine)   
-by April 1st (no joke!) 
-
-**Also in this issue:**   
-SCENE & HEARD  
-Mindful music from around the globe: The Beat, Soundcheck and Fragments
-
-SPOTLIGHT  
-Signal Path helps light the way along the ever-expanding livetronica highway
-
-BONNAROO DYNASTY: WHY MANCHESTER IS THE NEW WOODSTOCK   
-by Wes Orshoski  
-**** In the three years since its birth, the Bonnaroo Music Festival has established itself as the premier live music event in the United States, blending  jam giants and rock heroes with everyone from folkies and turntablists to rappers and Rastas. Wes Orshoski takes a look at how it all got started and what makes three days under the blazing Tennessee sun such a hoot.
-
-DEADICATED  
-Phil Lesh remembers the good ole days in vivid detail in his new autobiography
-
-[  [Full Table of Contents ](https://web.archive.org/magtoc.phtml?PHPSESSID=42c123b96eef4a95f469e6cd811dbf56) ]   
-
-
-  
-
-
-_Hunter S. Thompson graced the cover of Relix magazine’s April/May 2003 issue. Our writer, Jesse Jarnow, met Thompson that February in_ _New York City_ _for lunch and spent the day with him, conversing, drinking and rabble rousing. Below is an excerpt from Mr. Jarnow’s cover story. For a complete copy of the piece, please visit [www.relix.com/hunterthompson ](http://www.relix.com/hunterthompson/) to order the issue in its entirety. _ _[[More](https://web.archive.org/cgi-bin/content_details.php?id=1403&PHPSESSID=42c123b96eef4a95f469e6cd811dbf56)] _
-
-_[](http://www.relix.com/catalog/catalog.cgi?catid=208_Back%20Issues%2d%202004&prod_id=i_MG3106&refid=21672&start_page=0&start_cat=&action=show_prod) [](http://www.relix.com/catalog/catalog.cgi?catid=208_Back%20Issues%2d%202004&prod_id=i_MG3109&refid=21672&start_page=0&start_cat=&action=show_prod)  
-**[](http://www.relix.com/catalog/catalog.cgi?catid=208_Back%20Issues%2d%202004&prod_id=i_MG3107&refid=21672&start_page=0&start_cat=&action=show_prod) [](http://www.relix.com/catalog/catalog.cgi?catid=208_Back%20Issues%2d%202004&prod_id=i_MG3108&start_page=0&start_cat=&action=show_prod)  
-Our past is your past: **  
-[2004](https://web.archive.org/catalog/catalog.cgi?catid=208_Back%20Issues%2d%202004&start_page=0&start_cat=&action=show_cat&&PHPSESSID=42c123b96eef4a95f469e6cd811dbf56)   [2003](https://web.archive.org/catalog.cgi?action=show_cat&catid=167_Back%20Issues%20-%202003&PHPSESSID=42c123b96eef4a95f469e6cd811dbf56)   
-[2002 \+ 2001](https://web.archive.org/catalog.cgi?action=show_cat&catid=168_Back%20Issues%20-%202002%20to%202001&PHPSESSID=42c123b96eef4a95f469e6cd811dbf56)   
-[2000 \- 1995](https://web.archive.org/catalog.cgi?action=show_cat&catid=169_Back%20Issues%20-%202000%20to%201995&PHPSESSID=42c123b96eef4a95f469e6cd811dbf56)   
-[before 1995](https://web.archive.org/catalog/catalog.cgi?catid=170_Back%20Issues%20-%201994%20to%201990&start_page=0&start_cat=&action=show_cat&PHPSESSID=42c123b96eef4a95f469e6cd811dbf56) _  
-  
-©Copyright Relix LLC 2000-2004. All rights reserved.  
-Relix LLC. 180 Varick, 4th Floor, New York, NY 10014, 646.230.0100 
