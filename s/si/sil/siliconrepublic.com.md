@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siliconrepublic.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207193042id_/http%3A//www.siliconrepublic.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconrepublic.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217182500id_/http%3A//www.siliconrepublic.com/privacy/index.html) for the most accurate reproduction.*
 
-# SiliconRepublic - Privacy Policy
+# SiliconRepublic.com: Ireland's technology news service providing Irish tech news & analysis
 
 Siliconrepublic.com has created this privacy statement to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of siliconrepublic.com.
 
