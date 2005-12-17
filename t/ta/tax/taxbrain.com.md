@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203202147id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217212820id_/http%3A//taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Tax Brain Privacy Policy
 
-Privacy Policy Effective Date: October 20, 2004
+[](http://www.truste.org/ivalidate.php?url=www.taxbrain.com&sealid=101) Privacy Policy Effective Date: June 23, 2005
 
 **Petz Enterprises, Incorporated (PEI) takes privacy seriously.** We process millions of financial transactions each year and have implemented a variety of technologies and policies to protect privacy. Please read the following to learn more about our privacy policy.
 
@@ -139,7 +139,9 @@ If we decide to change our privacy policy, we will post those changes to this pr
   
 If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. 
 
-  
+**TRUSTE Watchdog Dispute Resolution URL**   
+If you feel that you have an unresolved privacy issue with a TrustE shareholder, you can complete a claim online at: <http://www.truste.org/consumers/watchdog_complaint.php>
+
 Back to Top   
   
    
@@ -147,10 +149,15 @@ Contact Us
   
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-> Postal Address:  
+> _Mailing Address:_  
 >  PEI, TaxBrain  
 >  PO Box 611  
 >  Tracy, CA 95378
+> 
+> _Shipping Address:_  
+>  PEI, TaxBrain  
+>  7575 West Linne Road  
+>  Tracy, CA 95304
 > 
 > Phone: 866.829.2724  
 >  Fax: 209.835.0409  
