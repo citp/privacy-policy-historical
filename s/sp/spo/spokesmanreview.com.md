@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spokesmanreview.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418045848id_/http%3A//www.spokesmanreview.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spokesmanreview.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217012412id_/http%3A//www.spokesmanreview.com/help/privacy.asp) for the most accurate reproduction.*
 
 # SpokesmanReview.com -- Privacy policy
 
