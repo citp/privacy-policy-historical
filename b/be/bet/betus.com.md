@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the betus.com privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406113833id_/http%3A//www.betus.com/english/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betus.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217112411id_/http%3A//www.betus.com/site-PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# NASA Sportsbook - Offshore Betting
+# BetUS.com - Privacy Policy
 
-BetUS.com strives to ensure that you and you're personal information remain private at all times. To ensure this we have instituted security measures that keep all of your personal information completely hidden and in a separate database. All information is tied to your personal account number and your name, address and phone number are never disclosed to anyone, ever.
+Privacy & Security Statement   
+BetUS.com firmly believes that trust and honesty are the cornerstones of building long-lasting relationships with our clients. This is why we at BetUS.com are strongly committed to adhering to our company’s firm and strict privacy policy. 
 
-We are proud of our reputation for fair play and our technology ensuring the secure transfer of funds. BetUS.com uses Winsor Processing Services Limited for financial transactions. The information relating to each transaction is protected by our unique encryption system. For more information on this, visit our Secure Banking section on this website.
+  We take every measure available to protect the loss, misuse and alteration of any information given to us by you. All personal information you provide, such as your name, postal address, e-mail address, telephone number and credit card number, is private and completely confidential. All information is for internal purposes ONLY, including the information our Web site tracks about visits. We will never sell or lend your personal information to third parties.  BetUS.com uses Winsor Processing Services Limited for all its financial transactions (you sure about that). The information relating to each transaction is protected by our unique encryption system. We believe that only then can we truly make your experience at BetUS.com is a pleasant and secure one. 
 
-We provide you with a fully transparent and comprehensive audit trail on all the games you play detailing the sums wagered, and the win loss. We believe that this will give you absolute confidence in all your dealings with BetUS.com.
+Your Security
 
-We guarantee that access to your account information is restricted to you by your unique user name and password. Your customer details are stored and managed under the strictest supervision. We adhere to the stringent tests set out by the Data Protection Agency in England, verified by Thawte to ensure your peace of mind.
+  For peace of mind, BetUS.com provides you with a fully transparent and comprehensive audit trails on all games played, detailing the sums wagered and wins/losses. By doing this, we believe our members can wager with BetUS.com with full confidence and trust in our systems. 
 
-For further information on how BetUS.com uses, protects and stores your information, please do not hesitate to contact our Technical team by sending an email to [custhelp@betus.com](mailto:custhelp@betus.com)
+For further information on how BetUS.com uses, protects and stores your information, please do not hesitate to contact our Technical Department by sending an email to: [custhelp@betus.com](mailto:custhelp@betus.com). 
