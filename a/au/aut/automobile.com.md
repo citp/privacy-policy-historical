@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automobile.com privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616012307id_/http%3A//about.automobile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobile.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218001346id_/http%3A//about.automobile.com/privacy) for the most accurate reproduction.*
 
 # Automobile.com
 
