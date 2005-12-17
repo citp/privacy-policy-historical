@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlslife.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630082650id_/http%3A//www.girlslife.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlslife.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217022230id_/http%3A//www.girlslife.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Girls' Life Magazine
 
@@ -58,7 +58,7 @@ By using www.girlslife.com you agree to protect and hold us harmless from all li
 
 **Contact us**  
 Please let us know your concerns and questions regarding privacy:   
-1\. Send an e-mail to [webmaster@girlslife.com](https://web.archive.org/web/20050630082650id_/http%3A//www.girlslife.com/info/%20mailto:webmaster@girlslife.com?subject=privacy)  
+1\. Send an e-mail to [webmaster@girlslife.com](https://web.archive.org/web/20051217022230id_/http%3A//www.girlslife.com/info/%20mailto:webmaster@girlslife.com?subject=privacy)  
 2\. Send your request via mail to: Online Privacy, Girls' Life, 4517 Harford Road, Baltimore, Maryland.   
 3\. Call us at 1-410-254-9200  
 4\. Fax your comments to 1-410-254-0991 
