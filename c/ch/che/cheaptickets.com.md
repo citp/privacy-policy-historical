@@ -1,60 +1,340 @@
-> *The following text is extracted and transformed from the cheaptickets.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212141200id_/http%3A//www.cheaptickets.com/trs/cheaptickets/content/about_us/privacy.xsl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaptickets.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217135245id_/http%3A//www.cheaptickets.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
-# Cheap Tickets Travel - Privacy Policy
+# CheapTickets: Privacy Policy
 
-(Effective November 11, 2002)
+[](http://www.truste.org/ivalidate.php?url=www.cheaptickets.com&sealid=101)
 
-Cheap Tickets is proud to be a member of Trip Network, Inc. Trip Network, Inc. is committed to protecting your privacy while you are visiting our Site. Rest assured - you're in control at Cheap Tickets. 
+Effective June 11, 2005
 
-In order to provide the best in customer service, we may ask you to share "personal information" -- information unique to you, such as your name, address, e-mail address, and phone number. First and foremost, we want you to understand our policy regarding the collection and use of your personal information.
+## CheapTickets® Privacy Policy
 
-**The Personal Information Collected**   
-You may visit our Site or call our Travel Professionals to search for great travel deals without providing us with any personal information. 
+Your privacy is very important to CheapTickets ("we" or "us). This Privacy Policy describes the principles and practices that apply to Personal Information (defined below) collected from users of our services ("you") on our Site, in telephone or e-mail communications, or in interviews, surveys, sweepstakes, contests, or raffles. 
 
-  * **Membership Information**   
-Membership offers you the flexibility and freedom to complete a travel purchase on our Site at any time, and becoming a member is so easy to do. When you register to become a member, you will be asked to share with us certain basic personal information, such as your name, e-mail address, and password. Should you choose to do so, you can supplement the basics with your credit card number, frequent flyer number, travel preferences, and more. After becoming a member, you can visit or update the personal information in your travel profile at any time. By completing and updating your personal information, you help us tailor our services to better meet your needs.
-  * **Transaction Information**   
-In order to complete a travel purchase, you will be asked to share with us information required to complete the transaction successfully, such as billing and shipping addresses, credit card number and expiration date, etc.
-  * **Subscription Information**   
-Even if you're not a member, you have the opportunity to receive our special travel offers via e-mail. When you sign up for this service, you will be asked to provide us with your e-mail address.
+#### Simply put: 
 
-**How Personal Information Is Used**   
-When you make travel arrangements on our Site, become a member, and/or subscribe to our e-mails, we use your personal information in the following ways: 
+  * We will not collect Personal Information without your knowledge and permission; 
+  * We will not knowingly disclose your Personal Information to third parties, except as provided in this Privacy Policy; 
+  * We will allow you to view, correct or remove your Personal Information; and 
+  * We will take reasonable steps to protect the security of the Personal Information we collect from you. 
 
-  * When you make travel arrangements, your personal information will be shared with all third-party vendors necessary to successfully complete the transaction -- including the vendors you have selected (for example, airlines, hotels, etc.) and others who facilitate the transaction (for example, credit card authorization companies).
-  * As a member, from time to time, you may receive communications from us, including: (i) specific information we want to communicate to you regarding your travel arrangements, such as notification of a flight cancellation; (ii) notifications regarding updates or modifications to our Site; and (iii) details regarding any special members-only promotions sponsored by us, such as rebates, sweepstakes and gift promotions. These communications may be sent by us or by third parties performing services on our behalf. 
-  * As a member, you may also choose to receive from us, or trustworthy third parties acting on our behalf, special promotions that we believe will be valuable to you, including e-mails promoting special travel deals, sponsored by us or third-party vendors. To subscribe or unsubscribe to these types of communications, you may modify your travel profile, by clicking "My Profile," at any time. 
-  * When you sign up to receive our e-mails, you will receive from us, or trustworthy third parties acting on our behalf, special travel offers that are sponsored by us or third-party vendors. You may subscribe to this type of communication by providing to us your e-mail address and home airport code. You may unsubscribe to this type of communication where indicated on our e-mails. 
-  * From time to time, in an effort to improve our service, we may ask third parties to conduct marketing-research analyses on our behalf and, as such, the information we provide to them is restricted to marketing-research analyses only. Any personal information we provide to such third parties is protected under confidentiality agreements. 
-  * We may disclose your personal information (i) if you violate our [Terms of Use](https://web.archive.org/web/20021212141200id_/http%3A//www.cheaptickets.com/trs/cheaptickets/content/about_us/terms.xsl) or any law, rule, or regulation, or (ii) if required by law or regulatory authority (for example, court order or subpoena).
-  * In the event that our Company or this Site or certain of our assets are acquired, your personal information may be one of the transferred assets.
 
-Use of your personal information by third parties distributing promotions on our behalf shall be subject to our Privacy Policy. 
 
-**What We Won't Do With Personal Information**   
-Trip Network, Inc. will not sell or rent your personal information to any third parties.
+#### Your California Privacy Rights
 
-**Security**   
-Because security is important to us, we exercise great care in providing secure transmission of your personal information before it is transferred across the Internet from your personal computer to our secure servers. We use industry-standard, secure-socket-layer (SSL) technology, which is utilized by most popular browsers, including Netscape and Microsoft Explorer, to encrypt (or convert into code) your personal information before it is transferred across the Internet. To further safeguard your most sensitive credit card information, we transfer such information across the Internet in an encrypted format and then store such information in our secure database.
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at [caprivacy@cheaptickets.com](mailto:caprivacy@cheaptickets.com) or write to us at: Customer Service, CheapTickets LLC, 200 South Wacker Drive, Suite 1900, Chicago, IL 60606 with a reference to California Disclosure Information. 
 
-As a member, your personal information is password-protected. If you ever forget your password, we will help you create a new one. Remember to sign out of your account and close your browser window when you have finished visiting our Site in order to ensure that others cannot access your personal information.
+We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year. 
 
-We will permit only authorized employees, who are trained in the proper handling of personal data, to access your personal information.
+The remainder of this policy describes our Personal Information handling practices in detail. 
 
-To further protect your personal information, we have a security system that includes: world-class firewall technologies; logical network segmentation, allowing restricted access to stored profile information; and logical and physical security restrictions to our databases and systems.
+  1. Definitions
+  2. Consent
+  3. What Personal Information we collect
+  4. How we use the information we collect
+  5. To whom we disclose Personal Information
+  6. How we retain and store Personal Information
+  7. How we protect Personal Information
+  8. How to access, modify or delete your Personal Information
+  9. Privacy
+  10. Changes to the Privacy Policy
+  11. Disputes
+  12. Contact Information
 
-**Other, Non-Personal Information Collected**   
-Like many other Internet sites, we automatically collect non-personal information regarding our visitors, such as software client information (for example, IP addresses, browser versions and operating systems) and aggregate information (for example, number of pages accessed) in order to analyze Web traffic and usage trends. Information of this nature does not pertain to your specific identity and is not associated with your personal information.
 
-To enhance your experience on our Site, we and our third-party advertiser(s) commonly employ Internet technologies, such as "cookies," to collect and store non-personal information about our visitors. "Cookies" are small pieces of information that are transferred by a website and stored by your Web browser on your computer's hard drive. With most browsers, you can set the preferences to show a warning each time a cookie request is received. You can also set the browser not to accept cookies at all. However, because we won't be able to personalize your experience if we cannot recognize you, we suggest that you allow your browser to accept cookies.
 
-Cookies may be used by us or our third-party advertiser(s) to determine how you reached our Site, to track your usage patterns once you are on our Site, and to target our Internet banner advertisements on our Site and other websites. For more information about our third-party advertiser(s), cookies, and how to opt out, please [click here](http://www.doubleclick.net/us/corporate/privacy).
+> In this Privacy Policy, terms that commence with a capital letter are defined in this Section or in the preamble.
+> 
+> **"Guest"** means an individual who can search and purchase Products or Services on the Site without being a Member.
+> 
+> **"Member"** means an individual who has registered with the Site. Members choose a Member ID and a password.
+> 
+> **"Member ID"** means the e-mail address you use (with your password) to login to our Site.
+> 
+> **"CheapTickets"** or **"we"** means CheapTickets LLC and its subsidiaries and affiliates.
+> 
+> **"Personal Information"** means any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred from the information. This includes, for example, name, e-mail and mailing address and telephone number, billing and account information, and other information incidental to providing Products or Services (including information about individuals traveling with you).
+> 
+> **"Products or Services"** means the airline travel, hotel accommodation, car rental, ground transportation, tours, theater tickets, attractions, travel insurance, care alerts, and other items available from the Site.
+> 
+> To **"Purchase"** means to book, reserve or purchase.
+> 
+> **"Session Data"** means usage information, such as the type of Internet browser and operating system an individual use, the domain name of the site from which the individual came, the date, time and duration of the visit, number of visits, average time spent on the individual's site, pages viewed, domain name of the individual, and number of cookies accumulated.
+> 
+> **"Site"** means the [www.CheapTickets.com](http://www.cheaptickets.com/) and its respective sub sites together with the respective content, Products and Services available from these sites and sub sites.
+> 
+> **"Subscriber"** means an individual who elects to receive offers or promotions from CheapTickets without becoming a Member or a Guest.
 
-**What Is Not Covered By This Privacy Policy**   
-Except as covered above, this Privacy Policy does not apply to the practices or policies of any companies or entities that we do not own or control, including links to sites that are not maintained by us, or to people that we do not employ or manage. Because these companies or entities may have privacy policies that differ from this Privacy Policy, please be sure to review their respective privacy policies before providing them with any personal information.
+> BY SUBMITTING PERSONAL INFORMATION TO US, AND/OR BY USING OUR SITE, YOU AGREE THAT WE MAY COLLECT, USE AND DISCLOSE SUCH PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW.
+> 
+> If you do not agree with these terms, do not provide any Personal Information to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required Personal Information, we may not be able to provide you with Products or Services that can be offered on our Site only if we have access to certain Personal Information.
+> 
+> #### Minors
+> 
+> Minors (as defined under the laws of their jurisdiction or residence) are not eligible to register for, use, or Purchase the Products or Services available on our Site. We do not knowingly collect Personal Information from any Minor, and will not use this information if we discover that it has been provided by a Minor.
+> 
+> #### Other Travelers or Contacts
+> 
+> If you Purchase Products or Services for other travelers using your Member ID and password, you must make sure that you have the right to do so. By providing the Personal Information of another traveler, you represent that you have all necessary authority and/or have obtained all necessary consents from such person to enable us to collect, use and disclose his or her Personal Information as set forth in this Privacy Policy.
 
-**Questions, Comments or Concerns**   
-If you have additional questions or concerns regarding our Privacy Policy, please e-mail us at [privacy@tripnetwork.com](mailto:privacy@tripnetwork.com).
+3\. 
 
-**Privacy Policy Updates**   
-We may, in our sole discretion, revise this Privacy Policy at any time; all such revisions shall be effective when posted. If we change the way your personal information will be used, we will post an announcement on our homepage. We encourage you to periodically review this Privacy Policy in order to keep apprised of our current privacy practices. 
+_What Personal Information we collect_
+
+> We collect only such information as necessary to provide Products and Services to you.
+> 
+> #### When you are just visiting
+> 
+> You can visit certain areas of our Site without revealing who you are or signing-in. 
+> 
+> When you visit our Site as a Visitor, Guest, or Member, we collect Session Data through Cookies and pixel tags.
+> 
+> #### When you register as a Member
+> 
+> If you register with us as a Member, we collect Personal Information that is necessary to provide the Products and Services offered on our Site. We require that you provide your name and e-mail address. You also need to choose a password, which will be required to gain access to portions of our Site reserved for Member use. We might also request your home zip code.
+> 
+> You may elect to provide other information, for example, gender, activities and lifestyle preferences or preferred destinations.
+> 
+> You may also elect to indicate your preferences for seat selection or meal requests, or provide details about your participation in loyalty or awards programs and applicable membership numbers, and other ticketing options.
+> 
+> #### When you Purchase Products or Services as a Member
+> 
+> When you Purchase Products or Services from our Site as a Member, you must provide payment or other necessary information. This includes, for example, billing information, driver information, or similar information as required by the travel service provider(s). 
+> 
+> #### When you Purchase Products or Services for a third party
+> 
+> When you Purchase Products or Services for a third party using your Member ID and password, we will collect that third party's name and contact information, and other information as required by the travel service provider(s), so that we can complete the booking.
+> 
+> #### When you use the Site as a "Guest"
+> 
+> If you are not a Member, you may elect to use our Site as a Guest. 
+> 
+> If you Purchase Products or Services as a Guest, you must provide Personal Information to complete the booking (for example, name, phone number, billing information), as required by the travel service provider(s). You must also provide an e-mail address, so that we can send you our welcome e-mail and a confirmation of the Purchase. With the confirmation, we will provide you with a temporary password so that you can return to the Site if you wish to review information about your Purchase.
+> 
+> #### When you use "Subscribe"
+> 
+> When you become a Subscriber, we collect your name and email address, so that you may receive offers or promotions from CheapTickets without becoming a Member or Guest.
+> 
+> #### When you participate in contests, promotions, raffles, or sweepstakes
+> 
+> We may offer you the chance to win a variety of travel related prizes by sponsoring contests, promotions, raffles, or sweepstakes. If you choose to participate, we will collect Personal Information, such as your full name, e-mail address, or mailing address.
+> 
+> _If a third party administers the contest, your participation may be subject to that other party's terms and conditions, and privacy policy. Detailed information about these terms will be provided on the applicable form you will be asked to fill out._
+> 
+> #### When you participate in a survey or a focus group
+> 
+> From time to time, we may invite you to participate in a survey or a focus group. You are free to participate or not. We will collect the responses you provide, and will make them anonymous to aggregate them with those of other participants.
+> 
+> #### When we advertise on third party sites
+> 
+> When you visit a site on which we advertise, and click through our advertisement, we may place cookies on your computer, or use pixel tags.The information that we collect through this technology is not personally identifiable. 
+> 
+> #### When you call or write to our Customer Service
+> 
+> When you call or write to our Customer Service, we collect contact information (name, phone number, mailing address or e-mail address) and information about the relevant Purchase as necessary to assist you. For example, if you call for assistance with a preexisting Purchase, or to make a Purchase, we may request your contact and billing information. 
+> 
+> #### When we send e-mails or e-newsletters
+> 
+> When we send e-mails, e-newsletters, or when you forward a promotion or search results to a third party, using the "Send to a Friend" feature, we may insert a pixel tag in the e-mail. 
+
+4\. 
+
+_How we use the information we collect_
+
+> We use Personal Information in order to provide and enhance the Products or Services offered on our Site:
+> 
+>   * To record your travel preferences, to make reservations or acquire travel insurance on your behalf, or to communicate with you about your travel plans;
+>   * To issue invoices, administer accounts, collect and process payments; 
+>   * To provide tips or guidance on how to use our Site, inform you of new features on our Site, or provide other information that may be of interest to users;
+>   * To personalize the service we provide to you, tailor your experience at our Site to your interests and make more appropriate travel recommendations;
+>   * To send you e-mails, e-newsletters, personalized offers via direct messaging or other communications about our services, if you have subscribed to receive this information; 
+>   * To manage our Site, diagnose technical problems, improve content, and allocate the resources of our systems so that your experience with our Site is as efficient as possible;
+>   * To process and track your transactions and to send you information about our and our affiliates' and business partners' products and services and other information and materials that may be of interest to you; 
+>   * To develop, enhance, market, sell or provide CheapTicket's Products or Services, or those of companies with which we have a commercial relationship, but only if you have granted us permission to do so; 
+>   * To evaluate credit standing and to match credit bureau or credit reporting agency information; to investigate, detect and protect CheapTickets and other third parties against error, negligence, breach of contract, fraud, theft and other illegal activities;
+>   * To effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business;
+>   * To audit compliance with our policies and contractual obligations;
+>   * As permitted by, and to comply with, any legal or regulatory requirements or provisions; or
+>   * For any other purpose to which you consent.
+> 
+
+> 
+> #### Contests - Promotions - Raffles - Sweepstakes
+> 
+> If you participate in a contest, promotion, raffle, sweepstake, we will only use your Personal Information to notify you if you win.
+> 
+> We may send you additional communications only if you have specifically requested to receive our newsletters, e-mails, personalized offers or other promotional materials when filling out the contest or promotion form. 
+> 
+> We will share the information with the entities with which we may have teamed to propose the joint promotion.
+> 
+> If a third party administers the contest, your participation may be subject to additional terms and conditions and that third party's privacy policy. We are not responsible for such third parties. You should carefully review these third parties' terms and conditions.
+> 
+> #### Session Data 
+> 
+> We use Session Data, collected through cookies and pixel tags, to better understand how our Site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our Site, the variety of searches of our Site's database, the types of browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which visitors connect to our Site
+> 
+> We also use this information to improve our Site content and ease of use, to personalize and improve your individual viewing experiences on our Site, and provide information that may be of interest to you.
+> 
+> #### Pixel Tags
+> 
+> We use pixel tags to monitor the open rate of our communications. This helps us understand the effectiveness of communications we send. We do not use this information for any other purpose. 
+> 
+> #### Survey and Focus Groups
+> 
+> When you participate in surveys or focus groups, your participation and responses will be kept confidential, and will not be shared outside CheapTickets without your permission, except with our service providers. 
+> 
+> #### Aggregated Information 
+> 
+> Aggregated information is information, recorded in any form, about more than one individual, where the identity of the individual is not known, and cannot be inferred from the information. We may use aggregated information to describe our user base to current or potential partners investors and advertisers; after a survey, to understand and respond to market needs and preferences; or to make recommendations to other users of our Site. For example, if users of our Site who have traveled to a particular destination told us that they had positive experiences at a hotel in that destination, we might recommend that hotel. 
+> 
+> #### What we do NOT do
+> 
+> We do not and will not, at any time, request your credit card information, Member ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication.
+> 
+> Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect your from identity theft is our priority. For more information about phishing, you may want to visit the Federal Trade Commission at <http://www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm>.
+
+5\. 
+
+_To whom we disclose Personal Information_
+
+> From time to time, we may disclose your Personal Information as follows:
+> 
+>   * To those travel service providers with which you make arrangements through our Site, for example, airlines, car rental, hotel, ground transportation, theater, attraction, or travel insurance. We provide them with the Personal Information needed to make and complete the purchase, booking, or reservation.
+>   * To organizations that perform services for or on behalf of CheapTickets, for example to provide customer service, deliver tickets, ship items, process credit cards, for research, marketing, data processing, to measure the use of our Site, to facilitate usage by a Visitor, or to offer credit card services or evaluate your creditworthiness. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in other countries. Your Personal Information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to CheapTickets, and under the instructions of CheapTickets, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy.
+>   * We may collaborate with other companies to offer you additional Products or Services, for example, through sweepstakes, raffles, and promotions. We will share Personal Information that is necessary for these other companies to provide the Products or Services that you have requested. 
+> 
+> This policy will not cover the use of your Personal Information by these other companies. We encourage you to read a company's privacy policy before requesting any of its products or services. 
+> 
+>   * To protect our Site and our rights under our [Terms and Conditions of Use](https://web.archive.org/pagedef/content/legal/terms05.jsp?popupsDisabled=false) ; to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain.
+>   * To effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business.
+>   * Where the information is public.
+>   * To our insurers and to regulatory agencies.
+> 
+
+> 
+> #### Disclosure without consent
+> 
+> **_Please note that there are circumstances where the use or disclosure of Personal Information may be justified or permitted, or where CheapTickets may be obligated to disclose information without consent._** Such circumstances may include:
+> 
+>   * If required to comply with a subpoena or warrant issued or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with the rules or court relating to the production of records.
+> 
+> If we receive a formal request to disclose your Personal Information in connection with a legal action, we will attempt to contact you about it, if permitted by law, via the e-mail address you provided during registration, before we respond to that request.
+> 
+>   * If we believe in good faith that a law, regulation, rule or guideline requires it.
+>   * To a person who needs the information because of an emergency that threatens the life, health, or security of an identifiable person or group.
+>   * Where it is necessary to collect monies owing to us.
+> 
+
+> 
+> #### National Security
+> 
+> In order to protect national security, and to ensure travel security, the United States Government and other governments may request access to passenger name records, which typically includes name, flight origin, flight destination, flight time, duration of flight, seat location, travel agent, form of payment, credit card numbers, travel itinerary, address, telephone number and meal requests. In response to such request, CheapTickets and/or its providers will give access to all the information you provide at the time of making your reservation to the applicable government agencies of the countries to or from which you are traveling. 
+
+6\. 
+
+_How we retain and store Personal information_
+
+> #### My Stuff
+> 
+> If you are a CheapTickets Member, we combine your Personal Information in what we call "My Stuff", which consists of "My Trips" and "My Account". You can access My Stuff from the [Homepage](http://www.cheaptickets.com/) of our Site, after logging onto our Site as a registered Member.
+> 
+> My Trips contains information about your current, canceled, or past trips.
+> 
+> My Account contains your name, e-mail address, password, and departure city from which you usually travel. It may also contain other information so that you do not need to re-enter it each time you Purchase a Product or Service. For example, My Account may contain your billing information unless you tell us not to store it. It may also contain your preferences for seat selection or special meals, details about your participation in loyalty or awards programs and applicable membership numbers, and other travel preferences.
+> 
+> We also keep in My Account all other information that you have elected to provide us, such as gender, favorite activities and lifestyle preferences, and favorite destinations.
+> 
+> My Account also contains a listing of the e-mails, e-newsletters and other communications we offer to send, and that you have elected to receive or not.
+> 
+> You can access, modify, or delete this Personal Information as described in How to access, modify, or delete your Personal Information .
+> 
+> #### Third Parties' Personal Information
+> 
+> We will retain in your My Stuff folder the Personal Information of individuals for whom you have made reservations. 
+> 
+> You can access, modify, or delete these third parties' Personal Information at any time, as described in How to access, modify, or delete your Personal Information.
+> 
+> #### Retention and storage
+> 
+> We will retain your Personal Information in our databases in accordance with our document management, retention and destruction policy and applicable laws. This period may extend beyond the end of your relationship with us, but it will be only as long as it is necessary for us to have sufficient information to respond to any issues that may arise later. For example, we may need or be required to retain information to allow you to obtain credit for trip your Purchased but had to cancel. We may also need the retain certain information to prevent fraudulent activity; to protect ourselves against liability, permit us to pursue available remedies or limit any damages that we may sustain; or if we believe in good faith that a law, regulation, rule or guideline requires it. 
+> 
+> Your Personal Information will be stored in secured locations, and on servers controlled by CheapTickets, located either at our offices, or at the offices of our service providers, as described in How we protect Personal Information .
+
+7\. 
+
+_How we protect Personal Information_
+
+> CheapTickets employs physical, administrative and technical safeguards to help protect the confidentiality and integrity of Personal Information and to reduce the risk of loss, misuse, unauthorized access disclosure or modification of Personal Information. When Personal Information is sent to our service providers, we require, in our contracts with them, that they protect all Personal Information in a manner consistent with the principles articulated in this Privacy Policy.
+> 
+> If you choose to contact CheapTickets through the Site, you should be aware that any information transmitted electronically via the World Wide Web might not be secure. CheapTickets assumes no liability for the loss of any information that you transmit to us via the World Wide Web. However, should you choose to pay by credit card when making a booking, reservation or purchase on the Site, your card details are encrypted for the transaction.
+> 
+> In communicating with you, we may send e-mail as unencrypted plain text because we are aware that most Members, Guests, or Subscribers cannot readily process encrypted e-mail. This is done for your convenience, but with the security concern that, if misrouted or intercepted, it could be read more easily than encrypted e-mail.
+
+8\. 
+
+_How to access, modify or delete your Personal Information_
+
+> We endeavor to ensure that Personal Information is as accurate, complete, and current as necessary for the purposes for which we use that information. We encourage you to visit your [My Stuff](http://www.cheaptickets.com/) folder to review your Personal Information. 
+> 
+> You can access your Personal Information in My Stuff, update it, correct it, or modify it, as necessary. For example, you can change at any time your e-mail address, preferred activities, or preferred destinations, or your preferences for receiving or not receiving our e-mails, e-newsletters, or instant messaging customized advertisements. 
+> 
+> If you wish to modify or delete other Personal Information, you can do so by contacting us as indicated in Contact Information. 
+> 
+> If you request that we remove all of the Personal Information or travel records stored in My Stuff, we will promptly do so, to the extent possible. Once required Personal Information is removed from My Stuff, however, you will not be able to use many of the services available on our Site to Members, unless you re-register. 
+> 
+> Please remember that we may not be able to honor your request if we are legally obligated to retain that information, or for other reasons, as described in our Retention and Storage policy.
+
+> #### Cookies and pixel tags
+> 
+> A Cookie is a small text file that our computer sends to your computer, and that your computer sends back to us each time you make a request from our Site. A cookie contains a unique identification number that identifies the visitor's browser, but not necessarily the visitor. A pixel tag is a small graphic image similar to a cookie. 
+> 
+> When you access our Site, our computer may seek to place "cookies" or "pixel tags" on your personal computer to collect Session Data. Cookies and pixel tags help us recognize you when you visit our Site again. Unless a visitor specifically informs us of his/her identity (e.g. by registering with us), we will not know who the individual visitor is.
+> 
+> Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. You can learn more about the use of cookies by visiting [http://networkadvertising.org](http://networkadvertising.org/) or <http://en.wikipedia.org/wiki/HTTP_cookie>.
+> 
+> If you decide not to accept our cookies, you will be able to access those parts of our Site that are available to the general public, but you will not be able to access many of the Products and Services offered at our Site.
+> 
+> #### Third Party Advertisers
+> 
+> Third parties advertise on our Site. We do not share any Personal Information about you with these advertisers unless you give us permission to do so, separate from any permission you provide during the Member registration process. These advertisers may seek to use cookies and pixel tags to track Session Data about the ads you have seen and types of things in which you appear interested. These advertisers may also use combined information about your visits to our Site and other sites in order to provide advertisements about related goods and services that may be of interest to you. 
+> 
+> When you click on one of these advertisers' links, you are leaving our Site and entering another site. We are not responsible for such third party's sites. You should carefully review the privacy statements of any other site you visit, because those privacy statements will apply to your visit to that site, and may be very different from our policy.
+> 
+> ####  Opting-Out
+> 
+> As part of the registration process, we give you the ability to receive via e-mail or direct messaging information about our Products and Services, updates to our Site, customized advertisements and promotions that are targeted to your specific interest, such as flight specials, promotions, contests, sweepstakes and other travel opportunities available on our Site and/or sponsored by our travel service providers and advertisers. We send this information directly ourselves, or via third party service providers.
+> 
+> If you do not opt-out from receiving these communications about our Site, we will send them to you. 
+> 
+> At any time, you may change which of the communications you wish to receive or not, by changing your preferences, as described in How to access, modify or delete Personal Information.
+> 
+> In addition, in our e-mails and other communications, we will include instructions on how to unsubscribe and inform us of preferences if you decide you do not want to receive any future marketing or promotional e-mails from us.
+> 
+> #### Monitoring
+> 
+> CheapTickets may from time to time monitor and review any information transmitted or received through the Site, or through telephone or email communications, for quality assurance and other purposes. We reserve the right to censor, edit, remove, or prohibit the transmission or receipt of any information that CheapTickets deems inappropriate, or in violation of these Terms and Conditions. During monitoring, the information may be examined, recorded, or copied.
+> 
+> #### Links
+> 
+> For your convenience, our Site provides links to other sites. When you click on one of these links, you are leaving our Site and entering another site. We are not responsible for such third party sites. You should carefully review the privacy statements of any other sites you visit, because those privacy statements will apply to your visit to such other sites.
+
+10\. 
+
+_Changes to the Privacy Policy_
+
+> #### Changes to the Privacy Policy and Changes in Ownership
+> 
+> We may change or supplement this Privacy Policy from time to time. We may also undergo a change of ownership. We will post an appropriate notice of changes to the Privacy Policy and changes or ownership on our Site. Pirvacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the Site, as well as to existing information held by us. 
+> 
+> If we decide to change this policy in a material way, we will obtain the necessary consents required under applicable privacy laws if we seek to collect, use or disclose Personal Information for purposes other than those to which consent has been obtained, unless otherwise required or permitted by law. If any proposed change is unacceptable to you, you may request that we remove your Personal Information (and/or that of other individuals for whom you made travel reservations) from our records, as described in How to access, modify or delete your Personal Information.
+
+> If you have questions or concerns regarding CheapTickets privacy practices, you should first contact the CheapTickets Chief Privacy Officer. 
+
+> If you have any questions or concerns about (a) access to Personal Information, (b) the collection, use, management or disclosure of Personal Information, or (c) this policy or our information handling practices, (d) with whom your Personal Information is shared, or if you need further assistance with respect to our Privacy Policy, you may contact our Chief Privacy Officer, or our Customer Service department as indicated below. We will attempt to respond to your questions or concerns promptly after we receive them. 
+> 
+> E-mail:| [privacy@cheaptickets.com](mailto:privacy@cheaptickets.com)  
+> ---|---  
+> Mailing address:| Chief Privacy Officer  
+>  CheapTickets LLC  
+>  200 South Wacker Drive, Suite 1900, Chicago, IL 60606  
+> Telephone:| 888-922-8849 (within the United States)  
+>  615-874-4304 (outside the United States). 
