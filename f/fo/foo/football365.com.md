@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the football365.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305073733id_/http%3A//football365.com/home/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football365.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217131026id_/http%3A//www.football365.com/home/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Football news - news, results, fixtures and features from Football365.com
 
