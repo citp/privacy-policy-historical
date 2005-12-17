@@ -1,112 +1,43 @@
-> *The following text is extracted and transformed from the concreteconstruction.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305235853id_/http%3A//www.hanleywood.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concreteconstruction.net privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217172346id_/http%3A//www.hanleywood.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Hanley Wood - Ideas to build on.™
 
-All Web sites operated by Hanley Wood and divisions of Hanley Wood are governed by this Privacy Policy. Hanley Wood and its affiliates are referred to collectively herein as "Hanley Wood." This includes but is not limited to the following Web sites:
+**Hanley Wood Online Privacy Policy**
 
-  * BUILDER Online 
-  * REMODELING Online 
-  * ebuild.com 
-  * eplans.com 
-  * TOOLS OF THE TRADE Online 
-  * The World of Concrete Online 
-  * residential architect Online 
-  * JLC Online 
-  * MULTIFAMILY EXECUTIVE Online 
+This Privacy Policy describes the online information collection and use practices of the web sites operated by **Hanley Wood** and its divisions and affiliates (" **Hanley Wood** ") at which this Privacy Policy is posted, which includes but is not limited to the following web sites: BUILDER Online, REMODELING Online, ebuild.com, eplans.com, TOOLS OF THE TRADE Online, The World of Concrete Online, residential architect Online, JLC Online, and MULTIFAMILY EXECUTIVE Online. This Policy **_does not_** describe **Hanley Wood** 's offline information collection and use practices, or the practices it employs when collecting information online through means other than these web sites (for example, if you send us an email message).
 
+This Privacy Policy is current as of April 15, 2005. If we make any substantive changes to this policy, we will announce it on our web sites and, if you have provided us with contact information, we will also send you a notice to the email or physical address we have on file for you. If you have any questions or concerns regarding this policy, contact us at [privacy@HanleyWood.com](http://www.hanleywood.com/default.aspx?page=mailform&email=707269766163794048616E6C6579576F6F642E636F6D&name=privacy%40HanleyWood.com&parentpage=%205). Once the changes have been made, your continued use of the site will constitute your acceptance of the revised Policy. If you have questions regarding our Privacy Policy, we may be reached via email at [privacy@HanleyWood.com](http://www.hanleywood.com/default.aspx?page=mailform&email=707269766163794048616E6C6579576F6F642E636F6D&name=privacy%40HanleyWood.com&parentpage=%205), via fax at 202.785.1974, or by writing to us at **Hanley Wood** ; ATTN: Customer Service; One Thomas Circle, NW Suite 600; Washington, DC 20005.
 
+**What information does Hanley Wood collect and how is it used?**
 
-This Policy is a part of and is subject to Hanley Wood's [Terms and Conditions of Use.](http://www.hanleywood.com/default.aspx?page=terms)
+Our sites collect information volunteered by you in several areas, including newsletter sign up pages, site registrations, and web site surveys. The information we request for you to participate in these features may include personally identifiable information such as name, address, telephone and fax numbers, and email address, as well as "demographic" information such as your hobbies or personal preferences. We will tell you at the time we collect information whether the information requested is necessary for you to participate in a particular feature. 
 
-We understand privacy concerns of our users and are therefore committed to protecting and respecting your privacy. Please read our Privacy Policy, which explains what information we collect, how we use this information and what security measures are in place to protect your information. If we make any substantive changes to this policy, we'll announce it on our site and, if you have provided us with an e-mail address, by sending a notice to that address. If you have any questions or concerns regarding this policy, contact us at [privacy@HanleyWood.com.](http://www.hanleywood.com/default.aspx?page=mailform&email=707269766163794048616E6C6579576F6F642E636F6D2E&name=privacy%40HanleyWood.com.&parentpage=%205)  
+The information we collect is used to respond to your specific requests, to send you periodic information and special offers from **Hanley Wood** and our sponsors, to provide you with updates on **Hanley Wood** offerings and features, to provide you with product information from manufacturers in our database, to provide notice of changes to our Terms of Use and Privacy Policy, and to provide our sponsors with aggregate data about our users. The information you provide is also used to understand users' interests and behavior, and may be combined with information **Hanley Wood** may have from other online or offline sources.
 
+**Hanley Wood** also uses cookies and other electronic information collection mechanisms to obtain information from you, such as your computer's IP address. IP addresses are collected for system administration purposes and for studying how people use our site and how we can improve it. **Hanley Wood** uses cookies to identify registered web site users and to automatically give them access to "member only" content areas such as articles and reports, and to provide them with access to previously-stored information. **Hanley Wood** also uses cookies to estimate our audience size and usage patterns and to track the aggregate number of customer returns at our web site. Finally, **Hanley Wood** uses cookies to help simplify the process of filling out certain forms on our web sites that allow you to request information from manufactures in our catalog and/or our advertisers. You can choose whether or not you accept cookies by changing the settings of your browser. However, certain parts of our web sites may not work if you turn off cookies on your browser. 
 
-What information does this site collect about you and how is it used?
+**With whom does Hanley Wood share your information?**
 
-Our site collects only the IP address, Cookie ID (set by our site), and information volunteered by you, such as survey information and/or site registrations. We keep a record of the information that you knowingly provide and choose to opt-in, such as name, address, e-mail address and e-mail preferences. This information may be collected from registration pages, survey pages, requests for information from manufacturers in our database and/or newsletter signup pages. The information we collect is used to improve the content of our Web site, to provide you with the best and most personalized Web experience possible, to provide our sponsors with aggregate data on customers reached and their demographics and to allow our manufacturers to fulfill specific requests for more information about their products. The e-mail information you provide is only used for communication with you when you request e-mail, to send you periodic information and special offers from **Hanley Wood** and our sponsors, to provide updates on **Hanley Wood** offerings and features, to provide you with product information you have specifically requested from manufacturers in our database, and to provide notice of changes to our Terms of Use and Privacy Policy.   
+**Hanley Wood** shares your information with its affiliates and business partners, including agents such as third party mail processing facilities. We may employ contractors to help with our operations. Some or all of these contractors may access the databases of user information. These contractors are and will be subject to confidentiality agreements that restrict their use and disclosure of all information they obtain through their relationship with **Hanley Wood**. In limited circumstances, **Hanley Wood** will also share information about its subscribers with third parties in whose products or services **Hanley Wood** believes you may be interested. When sharing your information with these third parties, **Hanley Wood** requires that the third parties follow practices substantially similar to those of **Hanley Wood** , and that your information not be further shared with any other third parties. **Hanley Wood** will also share your information if required by law to do so, to comply with applicable laws or valid legal process, or to protect the rights or property of **Hanley Wood**. Additionally, if part or some of our assets are purchased by a third party, **Hanley Wood** will share your information with the purchaser of all or part of our assets.
 
+If you use our "tell a friend" service to email one of our articles, reports or product descriptions to a friend or colleague, **Hanley Wood** will automatically send this person a one-time email, attaching to the email the content you wished for your friend to receive. Your email address will appear on the "From" line of this email, thereby disclosing this information to whoever opens and reads the email. The email address of you or your friend or colleague will not be stored in our databases based on this service. 
 
-**Hanley Wood** conducts research on our users' demographics, interests, and behavior based on the information you provide us when you register, participate in a contest or other promotion on our site, request information from a manufacturer in our catalog, request information from one of our advertisers, or from our server log files. This research is compiled and analyzed, and, except as described in this Privacy Policy, is disclosed only on an aggregated basis, so that information is only disclosed to third parties when grouped with the information of other users and is not associated with your name. We do this to better understand our users, improve your overall experience when using our service and to provide our sponsors with relevant aggregate data. From time to time, we may also collect information via surveys. Survey information will also used on an aggregated basis.   
+**Hanley Wood** may provide users with the opportunity to request additional information from product manufacturers in our online directory or from our advertisers. If you specifically request information from a manufacturer or from one of our advertisers, your contact information will be given to that manufacturer or advertiser, to allow them to decide the best way to fulfill your request.
 
+**What options do you have about how Hanley Wood uses or shares your information?**
 
-**Hanley Wood** may provide users with the opportunity to request additional information from product manufacturers in our catalog and/or from our advertisers. If you specifically request information from a manufacturer in our catalog and/or from one of our advertisers your demographic information will be shared with only the manufacturer and/or advertiser you are requesting information from, to allow them to decide the best way to fulfill your request.  
+If you no longer wish for us to share your mailing address or other contact information with our sponsors or other third parties in whose products or services we believe you may be interested, please send us an email at [donotdisclose@hanleywood.com](http://www.hanleywood.com/default.aspx?page=mailform&email=646F6E6F74646973636C6F73654068616E6C6579776F6F642E636F6D&name=donotdisclose%40hanleywood.com&parentpage=%205). For us to be able to locate your record, your email must include your name, mailing address, email address, and must identify the Hanley Wood product, event, or service for which you are registered. Your request will be processed within 10 days, and we will no longer share your contact information with third parties. Please note that we will not be able to stop third parties from sending you information about their products or services if your information was shared with them before we received your request. 
 
+Regarding email specifically, you have the opportunity to elect to stop receiving advertising messages from **Hanley Wood** about our products or services each time you receive such a communication from us. To unsubscribe from such advertising email messages, please follow the directions included in that email message. Your request will be processed within 10 days. Please note that during that time, you may continue to receive email messages from **Hanley Wood** about its products or services. Additionally, regardless of whether you have unsubscribed from receiving advertising and promotional material from **Hanley Wood** , you will continue to receive transactional information from us, such as information relating to your account or payment or bill information.
 
-Who do we share this information with?
+If you receive HW Offers, broadcast email messages we send about third party manufacturers in whose products or services we believe you may be interested, and no longer wish to receive such messages, you can do so by following the directions included in the HW Offer you receive. 
 
-**Hanley Wood** will not disclose any personally identifiable information about individual users, except as described in this Privacy Policy, or to comply with applicable laws or valid legal process, or to protect the rights or property of **Hanley Wood**.   
+**What Kind of Security Measures Does Hanley Wood Use?**
 
+Information you provide to us is stored on secure database servers. Any profile pages that display your personal data is password-protected. We recommend that you do not share your passwords with anyone. **Hanley Wood** will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also, if you are using a computer that others have access to, such as one in a computer lab, Internet cafe or public library, always remember to log out and close your browser window when leaving our site. 
 
-With the exception of providing your postal address to a trusted third party mail processing facility, who agrees to keep your information confidential, for application to mailings of the same types as those for which we would use your e-mail information, we do not give, rent, lend, or sell individual information to third parties. Only aggregate information is provided to third parties. For example, we might tell advertisers that there are 100,000 registered users in Texas, but we won't tell them that you are one of them. We may use this aggregated information to help the sponsors reach the kind of audience they want via our e-mail advertising. Advertisers may give us an ad and tell us the type of audience they want to reach (for example, marketing managers in the 78750 zip code). **Hanley Wood** would then take the ad and display it in an e-mail to users who "opted in" for e-mail and who've told us they meet those criteria. In this process, the advertiser never has access to an individual's member profile. Only **Hanley Wood** has access to an individual's member profile.   
+**Links to non-Hanley Wood web sites**
 
+Many of our web sites contain links to web sites owned and operated by unaffiliated third parties. These links are provided as a service to you, and do not constitute **Hanley Wood** 's endorsement or support of the third party web sites. The third parties who operate these sites have their own information collection and use practices, and **Hanley Wood** is not responsible for either the privacy practices or the content of these sites. We encourage you to review the privacy policies of each site before providing your personal information, and to contact the providers directly if you have any questions about their privacy policies.
 
-If you use our "tell a friend" service to e-mail one of our articles, reports or product descriptions to a friend or colleague, **Hanley Wood** will automatically send this person a one-time e-mail, attaching the recommended content. Your e-mail address will appear on the "From" line of this e-mail, thereby disclosing this information to whoever opens and reads the e-mail. The e-mail address of you or your friend or colleague will not be stored in our databases based on this service.   
-
-
-We may employ contractors to help with our operations. Some or all of these contractors may access the databases of user information. These contractors are and will be subject to confidentiality agreements that restrict their use and disclosure of all information they obtain through their relationship with **Hanley Wood**.   
-
-
-We do retain the right to share and transfer all user information with a purchaser of our company or all or substantially all of our assets if that purchaser agreed to abide by the terms of this Policy.   
-
-
-What Kind of Security Measures Do We Take to Protect Your Information from Accidental Loss or Disclosure?
-
-**Hanley Wood** is committed to protecting your personal information. All information that you provide to us is stored on our secure database servers. The profile page that displays your personal data is password-protected. We recommend that you do not share your passwords with anyone. **Hanley Wood** will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also, if you are using a computer that others have access to, such as one in a computer lab, Internet caf? or public library, always remember to log out and close your browser window when leaving our site.   
-
-
-IP Addresses and Cookies
-
-**Hanley Wood** collects IP addresses for the purposes of system administration and for studying how people use our site and how we can improve it.   
-
-
-Cookies are used on **Hanley Wood** in three main ways: 
-
-  * Each registered member is given a unique cookie which is then used to automatically give you access to "member-only" content areas such as articles and reports, and to provide you access to your previously stored account information. 
-  * Cookies are used to estimate our audience size and usage patterns. We use cookies to track the aggregate number of customer returns at our Web site. 
-  * Cookies are used to help simplify the process of filling out certain forms on our Web sites that allow you to request information from manufactures in our catalog and/or our advertisers. 
-
-
-
-You can choose whether or not you accept cookies by changing the settings of your browser. However, certain parts of our Web sites may not work if you turn off cookies on your browser.   
-
-
-Opt-in/Opt-out Features
-
-We provide free newsletters and articles to visitors who request them. We also provide notice of new products, and may provide e-mail addresses to vendors if you opt-in for this service or if you specifically authorize us to do so. You have the option to opt-out of any service at any time by changing your personal data on the member profile update page.   
-
-
-Collection of e-mail/addresses/telephone numbers
-
-At times, we may request that you provide your e-mail address or mailing address for certain services, such as to receive our newsletters, to participate in a survey, to receive notice of new reports or upcoming events, or to receive vendor information. If you supply us with your e-mail address, and thereafter you do not want to receive an e-mail from us, please change your member profile information for an immediate update of the information or e-mail us at [unsubscribe@HanleyWood.com](http://www.hanleywood.com/default.aspx?page=mailform&email=756E7375627363726962654048616E6C6579576F6F642E636F6D&name=unsubscribe%40HanleyWood.com&parentpage=%205) and we will change the information within 30 days.   
-
-
-If you supply us with your postal address online, you may receive periodic mailings from our sponsors or us with information on new products, services, or upcoming events. If you do not wish to receive such mailings, please let us know by e-mailing us at [unsubscribe@HanleyWood.com](http://www.hanleywood.com/default.aspx?page=mailform&email=756E7375627363726962654048616E6C6579576F6F642E636F6D&name=unsubscribe%40HanleyWood.com&parentpage=%205). While we do allow our sponsors to mail to you, we do not provide your data directly to sponsors except with your specific authorization. Your data may be provided to a third party mail processing facility that has signed a confidentiality agreement with us not to share customer information.   
-
-
-**Up** dating/Deactivating and Questions Regarding our Privacy Policy 
-
-If your information changes or if you no longer desire our service, update your information on the member profile page and we will correct, update, or remove your information as requested. You have the opportunity to review, correct and/or update your information at any time from the member profile page. You can reach the member profile page via the registration page. You may have your information deactivated upon request by e-mailing us at [unsubscribe@HanleyWood.com](http://www.hanleywood.com/default.aspx?page=mailform&email=756E7375627363726962654048616E6C6579576F6F642E636F6D&name=unsubscribe%40HanleyWood.com&parentpage=%205). You may also provide these changes to us at our postal address. Our postal address is:
-
-Hanley Wood e-Media  
-ATTN: Customer Service  
-One Thomas Circle, NW Suite 600  
-Washington, DC 20005 
-
-**Hanley Wood** may make changes to this Privacy Policy at any time, but we will post any changes on our site and, if you have provided us with an e-mail address, by e-mail, and provide you with the opportunity to opt-out of the revised Policy. Once the changes have been made and posted, your continued use of the site will constitute your acceptance of the revised Policy. If you have questions regarding our Privacy Policy, we may be reached via e-mail at [privacy@HanleyWood.com](http://www.hanleywood.com/default.aspx?page=mailform&email=707269766163794048616E6C6579576F6F642E636F6D&name=privacy%40HanleyWood.com&parentpage=%205), via fax at 202.785.1974 or by writing to us at:
-
-Hanley Wood e-Media  
-ATTN: Customer Service  
-One Thomas Circle, NW Suite 600  
-Washington, DC 20005
-
-Links to other sites
-
-Our Web site contains links to other Web sites. We are not responsible for the privacy practices or the content of these sites. We encourage you to review the privacy policies of each site and contact the providers directly if you have any questions about their privacy policies.  
-
-
-Consent to this Agreement
-
-By using our Web site or sites, you consent to the collection and use of information by **Hanley Wood** , and Hanley Wood as specified above. If you are concerned about how your information is used, you should review this section periodically.   
-
-
-If you feel that this site is not following its stated privacy policy, you may contact us at the above address, by fax, or by e-mail at [privacy@HanleyWood.com.](http://www.hanleywood.com/default.aspx?page=mailform&email=707269766163794048616E6C6579576F6F642E636F6D2E&name=privacy%40HanleyWood.com.&parentpage=%205)
+CH01/ 12403012.4 
