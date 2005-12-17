@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eyeonspain.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606181936id_/http%3A//eyeonspain.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeonspain.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217143436id_/http%3A//www.eyeonspain.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Construction photos of your property in Spain - New developments and new properties - Privacy
+# Eye on Spain privacy policy
+
+#### Privacy policy
 
 We are committed to protecting your privacy at eyeonspain.com. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in any way that we have not mentioned in this statement. 
 
@@ -19,10 +21,6 @@ eyeonSpain.com may provide third parties with aggregate statistics about our cus
 **Links**
 
 This Web site contains links to other sites. Please be aware that we, eyeonspain.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
-
-**Choice/Opt-out**
-
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [unsubscribe@eyeonspain.com](mailto:unsubscribe@eyeonspain.com). We also offer an opt-out mechanism on the "My Account" page in the members area or the user may contact us at [unsubscribe@eyeonspain.com](mailto:unsubscribe@eyeonspain.com).  Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
 
 **Message Boards and Public Forums**
 
