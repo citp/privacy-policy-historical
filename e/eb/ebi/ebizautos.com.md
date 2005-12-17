@@ -1,15 +1,20 @@
-> *The following text is extracted and transformed from the ebizautos.com privacy policy that was archived on 2004-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040811174141id_/http%3A//ebizautos.com/%3Fpage%3Ddb%26section%3D3%26page_id%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizautos.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217020905id_/http%3A//dealers.ebizautos.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# eBizAutos - Online Auction Management and Advanced Inventory Hosting Solutions
+# Privacy Policy
 
-  
-|  | 
+| Legal  
+---  
+[Terms of Use](http://dealers.ebizautos.com/terms.cfm)  
+[Privacy Policy](http://dealers.ebizautos.com/privacy_policy.cfm)  
+[Security](http://dealers.ebizautos.com/security.cfm)  
+[Copyright](http://dealers.ebizautos.com/copyright.cfm)  
+Bookmark This Page   
+Email This Page   
+Print This Page   
+   
+  |  **EBIZAUTOS AND LOOKSLIKE, INC. ARE COMMITTED TO YOUR PRIVACY!**
 
-Privacy Policy
-
-**EBIZAUTOS AND LOOKSLIKE, INC. ARE COMMITTED TO YOUR PRIVACY!**
-
-Your privacy is important, so we have created the following Privacy Policy to let you know what information we collect when you visit our web site, why we collect it, and how it is used. This Privacy Policy applies to all information that you provide to Lookslike, Inc. and that Lookslike, Inc. maintains electronically, whether you provide the information through www.ebizautos.com (the "Site"), or through other means. Additionally, this Privacy Policy applies to any personal information obtained from your (and, if applicable, your family's) use of the Site. This Privacy Policy does not apply to any information that you may provide to third parties; for example, other sites linked to this Site. You should contact such third parties directly to determine their respective privacy policies. This Privacy Policy is governed by our [Terms of Use](https://web.archive.org/web/20040811174141id_/http%3A//ebizautos.com/%3Fpage%3Ddb%26section%3D3%26page_id%3D22?page=db&section=3&page_id=24). We may periodically make changes to this Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. We believe very strongly that private information should remain private. We would like to hear your feedback about this statement. If you have comments or questions, please e-mail us by clicking [here](mailto:support@ebizautos.com).
+Your privacy is important, so we have created the following Privacy Policy to let you know what information we collect when you visit our web site, why we collect it, and how it is used. This Privacy Policy applies to all information that you provide to Lookslike, Inc. and that Lookslike, Inc. maintains electronically, whether you provide the information through www.ebizautos.com (the "Site"), or through other means. Additionally, this Privacy Policy applies to any personal information obtained from your (and, if applicable, your family's) use of the Site. This Privacy Policy does not apply to any information that you may provide to third parties; for example, other sites linked to this Site. You should contact such third parties directly to determine their respective privacy policies. This Privacy Policy is governed by our [Terms of Use](https://web.archive.org/terms.cfm). We may periodically make changes to this Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. We believe very strongly that private information should remain private. We would like to hear your feedback about this statement. If you have comments or questions, please e-mail us by clicking [here](mailto:support@ebizautos.com).
 
 **SPECIAL NOTE ABOUT CHILDREN**  
 This Site is not intended for or directed to persons under the age of 18. Lookslike, Inc. does not provide services for children. Lookslike, Inc. does not knowingly solicit data from children and does not knowingly market to children. By providing Lookslike, Inc. with any information, you represent to Lookslike, Inc. that you are 18 years of age or older.
@@ -25,43 +30,50 @@ Lookslike, Inc. is NOT in the business of selling, renting, or sharing your pers
 
 We will only export data and information you provide us on this Site in accord with our Terms of Service. We also use your information for other things that may include, but are not limited to, the following:
 
-**Contacting You  
-**Lookslike, Inc. uses your personally identifiable information to communicate with you in the event we have any questions with regard to your online information form. We may also contact you to tell you about products and services provided by our other affiliates and other third-party organizations.
+**CONTACTING YOU**  
+   
+Lookslike, Inc. uses your personally identifiable information to communicate with you in the event we have any questions with regard to your online information form. We may also contact you to tell you about products and services provided by our other affiliates and other third-party organizations.
 
-**Use of Cookies  
-**Cookies are a standard technology used by commercial web services to store small pieces of information on your hard drive by sending a small string of text to your browser. They make your use of this Site more pleasing and efficient by "personalizing" your user interface, for example, or identifying which parts of a site you have previously visited. They also enable us to pre-populate, or automatically fill out, forms and schedules, or to assist you in visiting multiple pages within the Site during the same session without having to re-enter your password multiple times. For your convenience, we also use longer-lasting cookies to display your email address on our sign-in form so that you do not have to retype your email address each time you log in to your eBizAutos account. They enable us to tailor the information you receive and to assist third party organizations with whom we have strategic alliances by identifying you as a Lookslike, Inc. client, employee or eBizAutos website user. Most web browsers automatically accept cookies, unless you have configured yours not to accept them. In order for us to provide you with services on eBizAutos, your browser must accept cookies, as they are essential for site administration and security. Lookslike, Inc. does not use cookies either to collect individually identifiable information or to collect non-individually identifiable information using a cookie that is combined with a personal identifier.
+**USE OF COOKIES**  
+   
+Cookies are a standard technology used by commercial web services to store small pieces of information on your hard drive by sending a small string of text to your browser. They make your use of this Site more pleasing and efficient by "personalizing" your user interface, for example, or identifying which parts of a site you have previously visited. They also enable us to pre-populate, or automatically fill out, forms and schedules, or to assist you in visiting multiple pages within the Site during the same session without having to re-enter your password multiple times. For your convenience, we also use longer-lasting cookies to display your email address on our sign-in form so that you do not have to retype your email address each time you log in to your eBizAutos account. They enable us to tailor the information you receive and to assist third party organizations with whom we have strategic alliances by identifying you as a Lookslike, Inc. client, employee or eBizAutos website user. Most web browsers automatically accept cookies, unless you have configured yours not to accept them. In order for us to provide you with services on eBizAutos, your browser must accept cookies, as they are essential for site administration and security. Lookslike, Inc. does not use cookies either to collect individually identifiable information or to collect non-individually identifiable information using a cookie that is combined with a personal identifier.
 
-**Use of IP Address  
-**IP addresses are numbers that are automatically assigned to your computer, and, if associated with other individually identifiable information, could be considered personal information. User IP address information is used only for our internal tracking purposes.
+**USE OF IP ADDRESS**  
+   
+IP addresses are numbers that are automatically assigned to your computer, and, if associated with other individually identifiable information, could be considered personal information. User IP address information is used only for our internal tracking purposes.
 
-****CERTAIN EXCEPTIONAL DISCLOSURES**  
-**We may disclose your information if necessary to protect our legal rights, if the information relates to actual or threatened harmful conduct, or Lookslike, Inc. has good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders, or legal process served on eBizAutos or Lookslike, Inc., or (2) to protect and defend the property or rights of Lookslike, Inc., the users of this Site or the public. This includes exchanging information with other companies and organizations for fraud protection and credit risk protection. If Lookslike, Inc. should ever file for bankruptcy, be acquired by, or merge with another company, we may sell the information you provide to us on the this Site to a third party or share your personal information with the acquiring or merging company.
+**CERTAIN EXCEPTIONAL DISCLOSURES**  
+   
+We may disclose your information if necessary to protect our legal rights, if the information relates to actual or threatened harmful conduct, or Lookslike, Inc. has good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders, or legal process served on eBizAutos or Lookslike, Inc., or (2) to protect and defend the property or rights of Lookslike, Inc., the users of this Site or the public. This includes exchanging information with other companies and organizations for fraud protection and credit risk protection. If Lookslike, Inc. should ever file for bankruptcy, be acquired by, or merge with another company, we may sell the information you provide to us on the this Site to a third party or share your personal information with the acquiring or merging company.
 
 **HOW DO WE PROTECT INFORMATION WE COLLECT?**  
-We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our web site reduce the likelihood of security problems to a level appropriate to the type of data involved. Your information is protected in accordance with our [Security Policy](https://web.archive.org/web/20040811174141id_/http%3A//ebizautos.com/%3Fpage%3Ddb%26section%3D3%26page_id%3D22?page=db&section=3&page_id=23).
+   
+We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our web site reduce the likelihood of security problems to a level appropriate to the type of data involved. Your information is protected in accordance with our [Security Policy](https://web.archive.org/security.cfm).
 
 **HOW LONG DO WE KEEP USER INFORMATION?**  
+   
 We generally keep user data on our server or in our archives for as long as we reasonably need it. We may alter this practice according to changing requirements. For example, we may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it. In addition, information posted in a public forum could stay in the public domain indefinitely. Data management requests are administered in an orderly manner to the extent feasible and within our direct control. Please note that we have greater control over recently collected data than over archived data. Once data is removed from the system and archived, it may not be feasible to accommodate specific requests. In those cases, our general data retention policy applies.
 
 **YOUR CONSENT TO THIS POLICY**  
-By using this Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. Our [Terms of Use](https://web.archive.org/web/20040811174141id_/http%3A//ebizautos.com/%3Fpage%3Ddb%26section%3D3%26page_id%3D22?page=db&section=3&page_id=24) take precedence over any conflicting Policy provision. We may change our Privacy Policy by posting a new version of the policy on this page, which it is your responsibility to review frequently.
+   
+By using this Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. Our [Terms of Use](https://web.archive.org/terms.cfm) take precedence over any conflicting Policy provision. We may change our Privacy Policy by posting a new version of the policy on this page, which it is your responsibility to review frequently.
 
 **IF YOU HAVE A PRIVACY QUESTION**  
-If you have a privacy question about this Site, please email:  
-  
+   
+If you have a privacy question about this Site, please email:
+
 Customer Service at **[support@ebizautos.com](mailto:support@ebizautos.com)**
 
 Or write to:
 
-**Customer Service Department  
+**CUSTOMER SERVICE DEPARTMENT  
 Lookslike, Inc.  
-5125 West Oquendo Road, Suite 16  
+5125 West Oquendo Road - Suite 16  
 Las Vegas, Nevada 89118**
 
-****
+DATE LAST MODIFIED: JANUARY 1, 2004
 
-**DATE LAST MODIFIED: JANUARY 1, 2004**
+ **© 2005 Lookslike, Inc.**
 
- **** **© 2004 Lookslike, Inc.**
-
- ****
+  
+|   | 
