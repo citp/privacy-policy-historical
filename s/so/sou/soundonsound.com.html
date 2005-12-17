@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the soundonsound.com privacy policy that was archived on 2005-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050404025239id_/http%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soundonsound.com privacy policy that was archived on 2005-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217105452id_/http%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		<title>SOS Privacy Policy</title>
@@ -12,19 +12,29 @@
 		<!--//
 							var iBanner = 0;
 				var aryBanner = Array();
-				aryBanner[2] = Array('www.sheetmusicplus.com/a/button.html?id=74020', '/images/adverts/smp468x60genericani.gif', 'Buy your sheet music online! Click here', false);
-				aryBanner[1] = Array('www.sounds-expo.co.uk', '/images/adverts/soundsexpo05banner.gif', 'Sounds Expo', false);
-				aryBanner[0] = Array('http://www.soundonsound.com/news?NewsID=7301', '/images/2004_CD.gif', 'SOS 2004 Back Issues CDROM - on sale now!', true);
-				if (aryBanner.length > 1) var banTimerID = setTimeout('ChangeBanner()', 20000);
+				var lastrun = 0;
+				var iInterval = 30000;
+			
+				aryBanner[0] = Array('www.sheetmusicplus.com/a/button.html?id=74020', '/images/adverts/smp468x60genericani.gif', 'Buy your sheet music online! Click here', false);
+				aryBanner[1] = Array('www.surroundexpo.com', '/images/adverts/surround468x60.gif', 'Surround Expo 2005', false);
+				if (aryBanner.length > 1) var banTimerID = setTimeout('ChangeBanner()', iInterval);
 			
 				function ChangeBanner() {
+					// Check we're not running this too quickly (Firefox runaway condition)
+					var t = new Date();
+					thisrun = t.getMinutes() * 60 + t.getSeconds();
+					if (thisrun - lastrun < iInterval/1000) return;
+					
 					iBanner = (iBanner == aryBanner.length - 1) ? 0 : iBanner + 1;
 					var page = document.all ? document.all : document;
 					page.Banner.src = aryBanner[iBanner][1];
 					page.Banner.alt = aryBanner[iBanner][2];
 
 					if (banTimerID) clearTimeout(banTimerID);
-					if (aryBanner.length > 1) banTimerID = setTimeout('ChangeBanner()', 20000);
+					if (aryBanner.length > 1) {
+						banTimerID = setTimeout('ChangeBanner()', iInterval);
+						lastrun = thisrun;
+					}
 				}
 			
 				function GoBanner() {
@@ -38,16 +48,16 @@
 	<body topmargin="0" marginheight="0" leftmargin="0" marginwidth="0" onload="ChangeBanner();">
 			<script language="JavaScript" src="/include/milonic_src.js" type="text/javascript"></script>	
 		<script language="JavaScript">
-		if(ns4)_d.write("<scr"+"ipt language=JavaScript src=/include/mmenuns4.js><\/scr"+"ipt>");		
-		  else _d.write("<scr"+"ipt language=JavaScript src=/include/mmenudom.js><\/scr"+"ipt>"); 
+		if(ns4)_d.write('<scr'+'ipt language="JavaScript" src="/include/mmenuns4.js"><\/scr'+"ipt>");		
+		  else _d.write("<scr"+'ipt language="JavaScript" src="/include/mmenudom.js"><\/scr'+"ipt>"); 
 		</script><script language="JavaScript" src="/include/mmenudom.js"></script><script>function $9(ap){return _f}</script>
 		<script language="JavaScript" src="http://www.soundonsound.com/include/menu_data.js.php" type="text/javascript"></script>	
 		<script language="Javascript">drawMenus();</script>
 		<a name="Top"></a>
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<table cellpadding="0" cellspacing="0" border="0" width="99.9%">
 	<tbody><tr>
 		<td style="padding-top: 5px; padding-left: 5px"><a href="http://www.soundonsound.com/index.php?url=/"><img src="/images/nav_logo.gif" width="298" height="66" alt="Sound On Sound : click for home page" border="0"></a></td>
-				<td style="padding-top: 5px; padding-right: 5px" valign="top" align="right"><a href="javascript:GoBanner()"><img name="Banner" src="/images/adverts/soundsexpo05banner.gif" height="60" width="468" border="0" alt="Sounds Expo" hspace="5"></a></td>
+				<td style="padding-top: 5px; padding-right: 5px" valign="top" align="right"><a href="javascript:GoBanner()"><img name="Banner" src="/images/adverts/surround468x60.gif" height="60" width="468" border="0" alt="Surround Expo 2005" hspace="5"></a></td>
 		</tr>
 		<tr>
 			<td style="padding-left: 5px; padding-top: 6px" class="navtext"><div id="PageTitle">SOS Privacy Policy</div>
@@ -67,8 +77,8 @@ function GoSearch() {
 	<form name="minisearch" action="http://www.soundonsound.com/index.php" method="get"></form>
 	<td align="right" valign="middle"><img src="/images/nav_jumpto.gif" alt="jump to" align="absmiddle" border="0">
 		<select name="section" size="1" onchange="location.href=(document.forms['minisearch'].section[document.forms['minisearch'].section.selectedIndex].value)">
-			<option value="/">Sound On Sound
-			</option><option value="http://www.soundonsound.com/Contents.php">Current Issue</option><option value="http://www.soundonsound.com/news">News</option><option value="http://www.soundonsound.com/subs">Subscribers</option><option value="http://www.soundonsound.com/shop">Shop</option><option value="http://www.soundonsound.com/adverts">Readers Ads</option><option value="http://www.soundonsound.com/articles/People.php">People</option><option value="http://www.soundonsound.com/articles/Technique.php">Technique</option><option value="http://www.soundonsound.com/articles/Reviews.php">Reviews</option><option value="http://www.soundonsound.com/articles/People.php">Music Business</option><option value="http://sound-on-sound2.infopop.net/2/OpenTopic?a=frm&amp;s=215094572&amp;f=041092264">Links</option><option value="http://www.soundonsound.com/competitions">Competition</option><option value="http://www.soundonsound.com/soundbank">SoundBank</option><option value="http://www.soundonsound.com/articles/SoundAdvice.php">Sound Advice</option><option value="http://www.soundonsound.com/forum">Forum</option>		</select>
+			<option value="/">Sound On Sound</option>
+			<option value="http://www.soundonsound.com/Contents.php">Current Issue</option><option value="http://www.soundonsound.com/news">News</option><option value="http://www.soundonsound.com/subs">Subscribers</option><option value="http://www.soundonsound.com/shop">Shop</option><option value="http://www.soundonsound.com/adverts">Readers Ads</option><option value="http://www.soundonsound.com/articles/People.php">People</option><option value="http://www.soundonsound.com/articles/Technique.php">Technique</option><option value="http://www.soundonsound.com/articles/Reviews.php">Reviews</option><option value="http://www.soundonsound.com/articles/People.php">Music Business</option><option value="http://sound-on-sound2.infopop.net/2/OpenTopic?a=frm&amp;s=215094572&amp;f=041092264">Links</option><option value="http://www.soundonsound.com/competitions">Competition</option><option value="http://www.soundonsound.com/soundbank">SoundBank</option><option value="http://www.soundonsound.com/articles/SoundAdvice.php">Sound Advice</option><option value="http://www.soundonsound.com/forum">Forum</option><option value="http://www.soundonsound.com">Live Sound</option>		</select>
 	</td>
 	<input type="hidden" name="url" value="/search">
 	<td align="right" valign="middle">&nbsp;
@@ -81,7 +91,7 @@ function GoSearch() {
 		</tr>
 		</tbody></table>
 		
-		<table width="100%" cellpadding="0" cellspacing="0" border="0" style="padding-left: 5px; padding-right: 5px">
+		<table width="99.9%" cellpadding="0" cellspacing="0" border="0" style="padding-left: 5px; padding-right: 5px">
 		<tbody><tr>
 							<td width="156"><img src="/images/spacer.gif" height="17" width="156" border="0" vspace="3"></td>
 						<td width="100%"><img src="/images/spacer.gif" height="17" width="440" border="0" vspace="3"></td>
@@ -139,7 +149,7 @@ function GoSearch() {
 	<p><i>July 2003</i></p>
 	<p>&nbsp;</p>
 
-</td><td valign="top" height="200" width="135" style="padding-left: 10px; border-left: solid 1px #cccccc"><span class="Small">Monday 4th April 2005</span><br><br>
+</td><td valign="top" height="200" width="135" style="padding-left: 10px; border-left: solid 1px #cccccc"><span class="Small">Saturday 17th December 2005</span><br><br>
 	<div style="width: 125px; padding-bottom: 10px">
 	<div class="Small" style="padding: 4px; font-weight: bold; color: #ffffff; background: #000000; text-align: center">Login here</div>
 	<div class="Small" style="border: 1px solid #000; padding: 5px">
@@ -194,9 +204,10 @@ function GoSearch() {
 		<div class="copyright">All contents copyright © SOS Publications Group and/or its licensors, 1985-2005. 
 			All rights reserved.<br>The contents of this article are subject to worldwide copyright protection and reproduction in whole or part, whether mechanical or electronic, is expressly forbidden without the prior written consent of the Publishers. Great care has been taken to ensure accuracy in the preparation of this article but neither Sound On Sound Limited nor the publishers can be held responsible for its contents. The views expressed are those of the contributors and not necessarily those of the publishers. <br><br>Web site designed &amp; maintained by PB Associates | SOS | Relative Media</div>
 				<br>
-					<div class="footer">Problems with this site? Email <a href="mailto:webmaster@soundonsound.com">webmaster@soundonsound.com</a></div>
+					<div class="footer">Problems with this site? <a href="http://www.soundonsound.com/support">Contact us</a></div>
 			</td>
 	<td><img src="/images/spacer.gif" height="1" width="146"></td></tr>
 </tbody></table>
+
 
 </body></html>
