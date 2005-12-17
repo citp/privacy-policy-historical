@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cooksillustrated.com privacy policy that was archived on 2005-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050510074449id_/http%3A//cooksillustrated.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cooksillustrated.com privacy policy that was archived on 2005-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217113505id_/http%3A//cooksillustrated.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><!-- InstanceBegin template="Templates/main1leftcolumn.dwt.asp" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" --> 
@@ -7,8 +7,18 @@
 <!-- InstanceEndEditable --> 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
-<script language="JavaScript" type="text/JavaScript">
+<script language="JavaScript" type="text/javascript">
 <!--
+function toupdate(){
+
+}
+
+function changeFilter(){
+if (document.googleform.restrict.selectedIndex==0){
+
+ document.googleform.filter.value="";
+}
+}
 function MM_findObj(n, d) { //v4.01
   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
     d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
@@ -33,9 +43,9 @@ function MM_validateForm() { //v4.0
   document.MM_returnValue = (errors == '');
 }
 
-
 //-->
 </script>
+
 <link href="verdana3.css" rel="stylesheet" type="text/css">
 </head>
 
@@ -46,43 +56,59 @@ function MM_validateForm() { //v4.0
     <td><img src="images/header_cooks.jpg" width="750" height="119" border="0" usemap="#Map4"></td>
   </tr>
   <tr> 
-    <td><img src="images/nav_mainbar.jpg" width="750" height="25" border="0" usemap="#Map"></td>
+    <td><img src="images/mainleftnav/nav_mainbar.gif" width="750" height="25" border="0" usemap="#Map"></td>
   </tr>
   <tr bgcolor="#000000"> 
     <td><img src="images/spacer.gif" width="1" height="1"></td>
   </tr>
   <tr> 
-    <td><img src="images/nav_subbar.gif" width="750" height="19" border="0" usemap="#Map2"></td>
+    <td><img src="images/newnav_subbar.JPG" width="750" height="21" border="0" usemap="#Map2"></td>
   </tr>
-  <tr bgcolor="C5BEA1"> 
+  <tr bgcolor="C5BEA1">
+   
     <td bgcolor="C5BEA1">
 <table width="750" border="0" cellspacing="0" cellpadding="5">
         <tbody><tr> 
-          <td width="19%" height="33" align="center" valign="middle"><div align="center"><a href="byissue.asp"><em>Cook's 
-              Illustrated</em> Index</a> </div></td>
-          <td width="51%" align="center" valign="middle"><div align="center">
-              <form action="searchrecipes.asp" method="post" style="topmargin:0;leftmargin:0;bottommargin:0">
-                      <span class="deck">Search:</span> 
-                      <select name="searchcategory" id="searchcategory">
-                  <option value="1" selected="">Recipes</option>
-                  <option value="2">Tasting Lab</option>
-                  <option value="3">Equipment Corner</option>
-                  <option value="4">Quick Tips</option>
-                  <option value="6">Food Science</option>
-                  <option value="5">Where To Shop</option>
-                  <option value="7">Ask Cook's</option>
-                  <option value="8">All Categories</option>
+          <td width="19%" height="33" align="center" valign="middle" nowrap=""><div align="center"><a href="byissue.asp">Magazine 
+              Index</a> </div></td>
+          <td width="62%" align="center" valign="middle" nowrap=""><div align="center"> 
+              <form action="http://209.164.14.157/search" method="get" style="topmargin:0;leftmargin:0;bottommargin:0" name="googleform" onsubmit="changeFilter()">
+                <span class="deck">Search:</span> 
+                <select name="restrict" id="restrict">
+                  <option value="">All Documents</option>
+                  <option value="Recipes">Recipes</option>
+                  <option value="Tasting_Lab">Tasting Lab</option>
+                  <option value="Ask_Cooks">Ask Cook's</option>
+                  <option value="Food_Science">Food Science</option>
+                  <option value="Equipment_Corner">Equipment Corner</option>
+                  <option value="Where_To_Shop">Where To Shop</option>
+                  <option value="Quick_Tips">Quick Tips</option>
+                  <option value="Bookstore">Bookstore</option>
                 </select>
-                <input id="Search Term" name="searchtext" type="text" onblur="MM_validateForm('searchtext','','R');return document.MM_returnValue" value="">
-                &nbsp; 
-                <input type="image" src="images/button_go_brown.gif" width="19" height="19" align="middle">
+                <input id="Search Term" name="q" type="text" onblur="MM_validateForm('q','','R');return document.MM_returnValue" value="">
+                &nbsp; <input type="submit" value="Google Search" name="btnG">
+
+<input type="hidden" value="" name="ie">
+<input type="hidden" value="my_collection" name="site">
+<input type="hidden" value="xml_no_dtd" name="output">
+<input type="hidden" value="my_collection" name="client">
+<input type="hidden" value="p" name="access">
+<input type="hidden" value="" name="lr">
+<input type="hidden" value="209.237.238.177" name="ip">
+<input type="hidden" value="my_collection" name="proxystylesheet">
+<input type="hidden" value="" name="oe">
+<input type="hidden" value="p" name="filter">
+
+
+
               </form> 
               
             </div></td>
-          <td width="30%" valign="middle"><div align="right">
-                    <span class="deck"> You are not signed in. <a href="join.asp" class="deck">Sign 
-                    Up!</a></span> 
-                    </div></td>
+          <td width="19%" valign="middle" nowrap=""><!--<div align="right">
+              <span class="deck"> <a href="../join.asp?incode=SearchBar" class="deck">Sign 
+              Up!</a></span> 
+              </div>
+			  --><font size="-1"><a href="http://209.164.14.157/search?restrict=Recipes&amp;ie=&amp;q=&amp;site=my_collection&amp;output=xml_no_dtd&amp;client=my_collection&amp;btnG=Google%2BSearch&amp;access=p&amp;lr=&amp;ip=12.30.16.199&amp;proxystylesheet=my_collection&amp;oe=&amp;proxycustom=%3CADVANCED/%3E">Advanced Search</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://209.164.14.157/basics.html">Search Tips</a><br></font></td>
         </tr>
       </tbody></table></td>
   </tr>
@@ -95,8 +121,7 @@ function MM_validateForm() { //v4.0
                 <td width="225" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="5">
                     <tbody><tr> 
                       <td align="center" valign="top" bgcolor="D5D0BA"><a href="http://www.cooksillustrated.com/join.asp?incode=leftbanner"> 
-                        <img src="images/joinbanner.gif" width="210" height="91" border="0"></a><br>
-                        <img src="images/mainleftnav/taketour.jpg" width="210" height="128"><br> 
+                        </a><a href="Templates/freetrial_start14.asp?incode=leftBanner"><img src="images/trial14.jpg" width="212" height="222" border="0"></a><br> 
                         <br> <table width="210" border="0" cellspacing="0" cellpadding="0">
                           <tbody><tr> 
                             <td bgcolor="413124"><table width="210" border="0" cellspacing="1" cellpadding="5">
@@ -111,11 +136,11 @@ function MM_validateForm() { //v4.0
                                         <td><img src="images/mainleftnav/nav_testing.jpg" width="80" height="80"></td>
                                       </tr>
                                       <tr align="left" valign="top"> 
-                                        <td><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="recipehome.asp">The 
+                                        <td><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="Templates/recipehome.asp">The 
                                           Best Recipes</a><br>
                                           <span class="bigcaptiontext">Tired of 
                                           recipes that don't work? So are we.</span></td>
-                                        <td><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="testinghome.asp">Equipment 
+                                        <td><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="Templates/testinghome.asp">Equipment 
                                           Ratings</a><br>
                                           <span class="bigcaptiontext"> Small 
                                           Appliances, Gadgets, Kitchen Supplies, 
@@ -126,33 +151,33 @@ function MM_validateForm() { //v4.0
                                         <td><img src="images/mainleftnav/nav_quicktip.jpg" width="80" height="80"></td>
                                       </tr>
                                       <tr align="left" valign="top"> 
-                                        <td><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="tastinghome.asp">Taste 
+                                        <td><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="Templates/tastinghome.asp">Taste 
                                           Tests</a><br>
                                           <span class="bigcaptiontext">Baking 
                                           Supplies, Chocolate, Super Market Staples, 
                                           Herbs and Spices, Meat and Poultry, 
                                           Specialty Foods, and More...</span></td>
-                                        <td><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="quicktiphome.asp">Tips 
+                                        <td><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="Templates/quicktiphome.asp">Tips 
                                           and Techniques</a><br>
                                           <span class="bigcaptiontext">Thousands 
                                           of Quick Tips and Step by Step Techniques.</span></td>
                                       </tr>
                                       <tr align="left" valign="top"> 
-                                        <td><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="wheretoshophome.asp">Where 
+                                        <td><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="Templates/wheretoshophome.asp">Where 
                                           to Shop</a><br>
                                           <span class="bigcaptiontext">Sources 
                                           for items used in the test kitchen</span></td>
-                                        <td><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="foodsciencehome.asp">Food 
+                                        <td><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="Templates/foodsciencehome.asp">Food 
                                           Science</a><br>
                                           <span class="bigcaptiontext">Understand 
                                           the science behind great cooking.</span></td>
                                       </tr>
                                       <tr> 
-                                        <td align="left" valign="top"><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="askcookshome.asp">Ask 
+                                        <td align="left" valign="top"><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="Templates/askcookshome.asp">Ask 
                                           Cook's</a><br>
                                           <span class="bigcaptiontext">Answers 
                                           to many of your cooking questions.</span></td>
-                                        <td align="left" valign="top"><p><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="howtos.asp">Illustrated 
+                                        <td align="left" valign="top"><p><img src="images/mainleftnav/navarrow.gif" width="13" height="10"><a href="Templates/howtos.asp">Illustrated 
                                             How To Guides</a><br>
                                             <span class="bigcaptiontext">Everything 
                                             from Grilling to picking the right 
@@ -305,35 +330,40 @@ function MM_validateForm() { //v4.0
           Issue</a> | <a href="http://www.cooksillustrated.com/jobs.asp">Job 
           Openings</a> | <a href="http://www.cooksillustrated.com/appearances.asp">Appearances</a> 
           |<a href="privacy_policy.asp"> Privacy Policy</a></p>
-            </div></td></tr>
-</tbody></table>
+            </div></td>
+		</tr>
+	</tbody></table>
 
       <map name="Map">
   <area shape="rect" coords="6,1,69,24" href="http://www.cooksillustrated.com/default.asp">
-        <area shape="rect" coords="69,2,165,23" href="http://www.cooksillustrated.com/bookstore.asp">
-        <area shape="rect" coords="165,3,294,21" href="http://www.cooksillustrated.com/our_magazine.asp">
-        <area shape="rect" coords="295,4,374,23" href="http://www.americastestkitchen.com/" target="newwin">
-        <area shape="rect" coords="440,5,539,23" href="http://www.cooksillustrated.com/idealbb/">
-        <area shape="rect" coords="543,4,625,22" href="http://www.cooksillustrated.com/aboutus.asp">
-        <area shape="rect" coords="627,3,754,25" href="http://www.cooksillustrated.com/customer_service.asp">
-  <area shape="rect" coords="375,3,436,23" href="http://www.cookscountry.com" target="ccwin">
+        <area shape="rect" coords="69,2,154,21" href="http://www.cooksillustrated.com/bookstore.asp">
+        <area shape="rect" coords="156,4,285,22" href="http://www.cooksillustrated.com/our_magazine.asp">
+        <area shape="rect" coords="285,4,360,23" href="http://www.americastestkitchen.com/" target="newwin">
+        <area shape="rect" coords="478,5,533,24" href="http://www.cooksillustrated.com/idealbb/">
+        <area shape="rect" coords="533,5,614,20" href="http://www.cooksillustrated.com/aboutus.asp">
+        <area shape="rect" coords="616,2,743,24" href="http://www.cooksillustrated.com/customer_service.asp">
+  <area shape="rect" coords="365,4,476,22" href="http://www.cookscountry.com" target="ccwin">
 </map>
     
 <map name="Map2">
-  <area shape="rect" coords="336,2,407,19" href="http://www.cooksillustrated.com/quicktiphome.asp">
-  <area shape="rect" coords="26,4,78,17" href="http://www.cooksillustrated.com/recipehome.asp">
-  <area shape="rect" coords="98,3,178,18" href="http://www.cooksillustrated.com/tastinghome.asp">
-  <area shape="rect" coords="196,3,320,19" href="http://www.cooksillustrated.com/testinghome.asp">
-  <area shape="rect" coords="427,2,515,18" href="http://www.cooksillustrated.com/foodsciencehome.asp">
-  <area shape="rect" coords="532,2,632,16" href="http://www.cooksillustrated.com/wheretoshophome.asp">
-  <area shape="rect" coords="650,2,725,18" href="http://www.cooksillustrated.com/askcookshome.asp">
+  <area shape="rect" coords="351,2,422,19" href="http://www.cooksillustrated.com/quicktiphome.asp">
+  <area shape="rect" coords="20,4,72,17" href="http://www.cooksillustrated.com/recipehome.asp">
+  <area shape="rect" coords="157,3,237,18" href="http://www.cooksillustrated.com/tastinghome.asp">
+  <area shape="rect" coords="257,2,330,18" href="http://www.cooksillustrated.com/testinghome.asp">
+  <area shape="rect" coords="443,2,531,18" href="http://www.cooksillustrated.com/foodsciencehome.asp">
+  <area shape="rect" coords="551,2,651,18" href="http://www.cooksillustrated.com/wheretoshophome.asp">
+  <area shape="rect" coords="669,2,741,18" href="http://www.cooksillustrated.com/askcookshome.asp">
+  <area shape="rect" coords="91,2,140,18" href="http://www.cooksillustrated.com/weeknightmenus.asp">
 </map>
 <map name="Map3">
   <area shape="rect" coords="576,16,745,97" href="mailto:webcomments@bcpress.com">
 </map>
 <map name="Map4">
-  <area shape="rect" coords="2,3,649,117" href="http://www.cooksillustrated.com/">
-  <area shape="rect" coords="647,3,747,116" href="banner_ad.asp">
+  <area shape="rect" coords="127,6,625,94" href="http://www.cooksillustrated.com/">
+  <area shape="rect" coords="555,96,631,115" href="https://m1.buysub.com/webapp/wcs/stores/servlet/OrderItemDisplay?langId=-1&amp;storeId=11551&amp;catalogId=11551&amp;orderId=*">
+  <area shape="rect" coords="638,2,738,115" href="cdsredirect/hp_gift.asp?incode=IYB0511CI">
+  <area shape="rect" coords="7,8,116,113" href="cdsredirect/cc_hpgift.asp?incode=IYB0511CI">
+  <area shape="rect" coords="531,106,532,107" href="#">
 </map>
 
 <!-- InstanceEnd -->
