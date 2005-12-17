@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sortprice.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203202737id_/http%3A//www.sortprice.com/docs%3Fshow%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sortprice.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217095554id_/http%3A//sortprice.com/privacy_policy.html) for the most accurate reproduction.*
 
-# SortPrice - Documents
+# Privacy Policy - SortPrice.com
 
 **SortPrice Privacy Policy**
 
@@ -26,7 +26,7 @@ SortPrice users may submit their e-mail address to request an e-mail  for produc
 
 If you have any questions or comments regarding our Privacy Policy, you may contact us [here](mailto:privacy@SortPrice.com)
 
-| SortPrice Inc.  
+SortPrice Inc.  
 ---  
 4809 Avenue N Suite 223  
 Brooklyn NY 11234 
