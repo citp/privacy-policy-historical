@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the micros.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305165330id_/http%3A//www.micros.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micros.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217220636id_/http%3A//www.micros.com/privacypolicy) for the most accurate reproduction.*
 
-# MICROS Systems, Inc. - Privacy Policy
+# MICROS Systems, Inc. - Privacy Policy - Restaurant Point-of-Sale (POS), Property Management System (PMS), & Retail Solutions
 
 |  MICROS Systems, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our current information gathering and dissemination practices for this website: [www.micros.com](http://www.micros.com/). 
 
