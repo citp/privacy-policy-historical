@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symbian.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519021605id_/http%3A//www.symbian.com/about/legal-pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbian.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217173245id_/http%3A//www.symbian.com/about/legal-pp.html) for the most accurate reproduction.*
 
 # Symbian Ltd: Privacy policy
 
@@ -7,7 +7,7 @@ This Privacy Policy should be read in conjunction with:
 
 ## 1\. Introduction
 
-Symbian Limited (referred to as "Symbian", "we, or "our") is committed to protecting the privacy of visitors to the Symbian web sites (including the web sites at the following uniform resource locaters: <http://www.symbian.com/> and [http://www.symbiansigned.com](http://www.symbiansigned.com/) together with all related discussion forums, directories and databases) (the "web sites"). We have put in place policies and procedures to protect personal information we collect about you in order to comply with the Data Protection Act 1998. This privacy policy explains how we collect and use the information we collect about you. If you do not agree with this privacy policy, please do not use this web site. By accessing and using this web site, you agree to the terms of this privacy policy.
+Symbian Limited (referred to as "Symbian", "we, or "our") is committed to protecting the privacy of visitors to the Symbian web sites (including the web sites at the following uniform resource locaters: <http://www.symbian.com/> and [Symbian Signed](http://www.symbiansigned.com/) together with all related discussion forums, directories and databases) (the "web sites"). We have put in place policies and procedures to protect personal information we collect about you in order to comply with the Data Protection Act 1998. This privacy policy explains how we collect and use the information we collect about you. If you do not agree with this privacy policy, please do not use this web site. By accessing and using this web site, you agree to the terms of this privacy policy.
 
 ## 2\. Services
 
