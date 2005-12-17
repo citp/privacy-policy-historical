@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the insidecostarica.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204112712id_/http%3A//insidecostarica.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidecostarica.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217073123id_/http%3A//insidecostarica.com/privacy.htm) for the most accurate reproduction.*
 
-# Costa Rica's Daily News Magazine!
+# Inside Costa Rica
 
-**PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.**
+| 
+
+** Privacy Policy ** ** PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.**
 
 As used herein, the phrase "this Site" refers to insidecostarica.com and other sites on the World Wide Web which are owned and/or operated by Istarmedia.net (collectively "Istarmedia"). By using this Site, you indicate your acceptance of these Terms & Conditions. If you do not agree to these Terms & Conditions, you have no right or license to access this Site and you should not do so.
 
@@ -61,3 +63,9 @@ You may occasionally get cookies from our advertisers on this site as well. insi
 The use of advertising cookies sent by third-party servers is standard in the Internet industry.
 
 Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the shopping, contest, and game areas, will not function properly if you do so.
+
+  
+ 
+
+|   
+---|---
