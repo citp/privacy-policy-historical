@@ -1,7 +1,17 @@
-<!--The following is the downloaded HTML source of the infomine.com privacy policy that was archived on 2004-08-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040803103816id_/http%3A//www.infomine.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infomine.com privacy policy that was archived on 2005-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217092853id_/http%3A//www.infomine.com/about/privacy.html) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><link rel="stylesheet" type="text/css" href="http://www.infomine.com/css/masterStyleSheet-pc.css">
+<link href="/css/masterStyleSheet-pc.css" rel="stylesheet" type="text/css">
+
+
+<script language="javascript" src="http://www.infomine.com/tours/tour.js"></script>
+
+<link rel="SHORTCUT ICON" href="http://www.infomine.com/graphics/infominei3.ico">
+
+
+
+
 <meta name="postinfo" content="/scripts/postinfo.asp">
 <title>InfoMine - The Internet's Premier Mining Information Site</title>
 
@@ -11,133 +21,124 @@
 <meta name="revisit after" content="30 days">
 <meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; for &quot;http://www.infomine.com&quot; on &quot;1998.12.14T13:04-0800&quot; r (n 0 s 0 v 0 l 0))">
 
-
-<link rel="stylesheet" type="text/css" href="http://www.infomine.com/css/masterStyleSheet-pc.css">
-
-<script language="javascript" src="http://www.infomine.com/tours/tour.js"></script>
-
-<script language="javascript">
-<!--
-//hide this function which checks for a XML compliant browser associated with the side menu Dictionary and the Publications Search link
-
-		function browserConfirm(courseLocation){
-			if(msieversion()<5){
-				if(window.confirm("Please note this InfoMine Search Resource requires a fully XML-compliant browser\nsuch as Internet Explorer 5  ... unpredictable browser behaviour may\nresult with your current browser!")){document.location=courseLocation;}
-			}else{
-				document.location=courseLocation;
-			}
-		}
-		function msieversion() { 
-			var ua = window.navigator.userAgent; 
-			var msie = ua.indexOf ( "MSIE " );
-			if ( msie > 0 ){ 
-				return parseInt (ua.substring (msie+5, ua.indexOf (".", msie )));
-			}else{ 
-				return 0;
-			}
-		}  
-
-var newwin;
-
-function launchwin(winurl,winname,winfeatures)
-{
-        newwin = window.open(winurl,winname,winfeatures);
-        setTimeout('newwin.focus();',250);
-        
-}  
-	 
-
-	var analysisOpen=null;
-		self.name="InfoMineInteractive";
-
-		function loadAnalysis(analysis){
-			if (analysisOpen == null) {
-				analysisOpen = window.open(analysis, "analysisWindow","location=no,menubar=no,directories=no,scrollbars=yes,resizable=yes,status=yes,width=800,height=480");
-				analysisOpen.location = analysis;
-			} else {
-				if (analysisOpen.closed) {
-					analysisOpen = window.open(analysis, "analysisWindow","location=no,menubar=no,directories=no,scrollbars=yes,resizable=yes,status=yes,width=800,height=480");
-				} else {
-					analysisOpen.location = analysis;
-					analysisOpen.focus();
-				}
-			}
-		}
-
-
-//suppressErrors Funtion gets rid of javascript errors in Netscape 3 
-
-function suppressErrors() { return true; }
-
-if (parseInt(navigator.appVersion) < 4) {
-	onerror = suppressErrors;
-
-}
-
-// end hide -->	 
-	 
-</script>	
-<link rel="SHORTCUT ICON" href="http://www.infomine.com/graphics/infominei3.ico">
-
-
 </head>
 
-<body marginheight="5" marginwidth="5" topmargin="5" leftmargin="5" bgcolor="#ffffff" link="#ff0000" alink="#ffcc00" vlink="#000066">
+<body marginheight="5" marginwidth="5" topmargin="5" leftmargin="5" bgcolor="#ffffff" link="#ff0000" alink="#ffcc00" vlink="#000066" stats="1"><!-- Start of DeepMetrix (.NET) StatScript -->
+<script language="javascript">
+
+var DMNETdomain = "";
+var DMNETpage = window.location;
+var DMNETversion = "86";
+var DMNETsendTo = "//halite.infomine.com/dm.gif?";
+var DMNETsession;
+
+function dmneterr(){return true;}
+
+window.onerror=dmneterr;
+var s = new Date();
+
+if (navigator.userAgent.indexOf('Mac') >= 0 && s.getTimezoneOffset() >= 720)
+  s.setTime (s.getTime() - 1440*60*1000);
+
+var dmnetURL = location.protocol + DMNETsendTo+"v="+DMNETversion+"&vst=1";
+var dmnetCookieString = document.cookie.toString();
+
+if(dmnetCookieString.indexOf("_dmnid") == -1)
+  {
+    DMNETsession = parseInt( Math.random()*1000000 ) + "_" + s.getTime();
+    var domStr = "";
+    if(DMNETdomain != "")
+    {
+      domStr = "domain="+ DMNETdomain +";";
+    }
+    document.cookie = "_dmnid=" + DMNETsession + ";expires=Mon, 31-Dec-2008 00:00:00 GMT;"+domStr+"path=/;";
+  }
+dmnetCookieString = document.cookie.toString();
+if(dmnetCookieString.indexOf('_dmnid') == -1)
+  {
+    DMNETsession = "";
+  }
+else
+  {
+    if(dmnetCookieString.indexOf(';') == -1)
+      dmnetCookieString = dmnetCookieString.replace(/_dm/g, ';_dm');
+
+    var start = dmnetCookieString.indexOf("_dmnid=") + 7;
+    var end = dmnetCookieString.indexOf(";",start);
+
+    if (end == -1)
+      end = dmnetCookieString.length;
+    DMNETsession = unescape(dmnetCookieString.substring(start,end));
+  }
+dmnetURL += "&id="+DMNETsession+"&url="+escape(DMNETpage) + "&ref="+escape(document.referrer)+"&lng=" + ((!document.all ||  navigator.userAgent.match('Opera')) ? navigator.language : navigator.userLanguage) + "&tz=" + (Math.round(new Date('dec 1, 2002').getTimezoneOffset()/60)*-1);
+if(screen)
+  dmnetURL += "&scr=" + escape( screen.width + "x" + screen.height + " " + screen.colorDepth + "bpp" );
+
+dmnetURL += "&rnd=" + new Date().getTime();
+
+if(document.layers)
+{
+  document.write("<la"+"yer name=\"DMStats\" visibility=hide><img src=\""+dmnetURL+"\" height=1 width=1></la"+"yer>");
+}
+else
+{
+  document.write("<di"+"v id=\"DMStats\" STYLE=\"position:absolute;visibility:hidden;\"><img src=\""+dmnetURL+"\" height=1 width=1></di"+"v>");
+}
+
+</script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://halite.infomine.com/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20051217092853id_/http%253A//www.infomine.com/about/privacy.html&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1580464676369" height="1" width="1"></div>
+<!-- End of DeepMetrix (.NET) StatScript -->
+
 
 <!-- Top Menu Bar Starts Here-->
-	
 
-<table width="100%" cellpadding="0" cellspacing="1" border="0">
-<tbody><tr>
-	<td rowspan="2" width="116" height="70" bgcolor="#000066" align="center" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top" bgcolor="#ffffff"><img src="http://www.infomine.com/graphics/blank-dot.gif" width="100" height="1" border="0"></td></tr><tr><td valign="top"><img src="http://www.infomine.com/graphics/blank-dot.gif" width="100" height="5" border="0"></td></tr><tr><td width="116"><a href="http://www.infomine.com/welcome.asp"><img src="/graphics/infominelogoblue.gif" border="0" width="86" height="59" hspace="12" alt="InfoMine - Your Mining Information Source"></a></td></tr></tbody></table></td>
-	<td width="100%">
-	<table width="100%" cellpadding="0" cellspacing="1" border="0">
-		<tbody><tr>
-			<td height="28" bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.infomine.com/welcome.asp">Home</a></td>
-			<td height="28" bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"> <a class="topmenu" href="http://www.infomine.com/news/welcome.asp">News</a></td>
-			<td bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.infomine.com/companies-properties/">Companies/<br>Properties</a></td>
-			<td bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.infomine.com/countries/">Countries</a></td>
-			<td bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.infomine.com/suppliers/buyers-guide/">Suppliers</a></td>
-			<td bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.infomine.com/careers/positions/">Careers</a></td>
-			<td bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.infomine.com/publications/">Publications</a></td>
-			<td bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.infomine.com/maps/">Maps</a></td>
-		</tr>
-
-		<tr height="28">
-			<td bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.infomine.com/investment/">Investment</a></td>
-			<td bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.infomine.com/events/">Events</a></td>
-			<td bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.infomine.com/commodities/">Commodities</a></td>
-			<td bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.infomine.com/equipment/">Equipment</a></td>
-			<td height="28" bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.infomine.com/consultants/">Consultants/<br>Specialists</a></td>
-			<td bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.edumine.com/">Professional<br>Development</a></td>
-			<td bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://technology.infomine.com/">Mining<br>Technology</a></td>
-			<td bgcolor="#000066" width="11%" align="center" valign="middle" class="topmenu"><a class="topmenu" href="http://www.infomine.com/estore/">eStore/Tours</a></td>
-		</tr>
-	</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td width="100%">
-	<table width="100%" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td align="right" bgcolor="#eeeeee" class="submenu"><img src="http://www.infomine.com/graphics/square.gif" border="0" width="8" height="10" alt="" align="middle"><!--a class=submenu href="http://www.infomine.com/about/"-->About<!--/a-->
-
-<img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="5" height="1"><img src="http://www.infomine.com/graphics/square.gif" border="0" width="8" height="10" alt="" align="middle"><a class="submenu" href="http://www.infomine.com/demonstration/">Demo</a>
-
-<img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="5" height="1"><img src="http://www.infomine.com/graphics/square.gif" border="0" width="8" height="10" alt="" align="middle"><a class="submenu" href="http://www.infomine.com/index/">Site Map</a>
-
-<img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="5" height="1"><img src="http://www.infomine.com/graphics/square.gif" border="0" width="8" height="10" alt="" align="middle"><a class="submenu" href="http://www.infomine.com/help/">FAQ</a>
-
-<img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="5" height="1"><img src="http://www.infomine.com/graphics/square.gif" border="0" width="8" height="10" alt="" align="middle"><a class="submenu" href="http://www.infomine.com/dictionary/">Dictionary</a>
-
-<img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="5" height="1"><img src="http://www.infomine.com/graphics/square.gif" border="0" width="8" height="10" alt="" align="middle"><a class="submenu" href="http://www.infomine.com/community/">Community</a>
-
-<img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="5" height="1"><img src="http://www.infomine.com/graphics/square.gif" border="0" width="8" height="10" alt="" align="middle"><a class="submenu" href="http://www.infomine.com/feedback/">Contact Us</a><img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="5" height="1"></td>
-		</tr>
-	</tbody></table>
+<script language="javascript" src="http://www.infomine.com/clientscripts/global/winpopup.js"></script>
+<!-- Top menu - Top -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td width="110" class="menulogo" valign="middle"><a href="http://www.infomine.com/welcome.asp" title="Global InfoMine Home Page"><img src="http://www.infomine.com/graphics/globalinfomine.gif" width="110" height="77" alt="Global InfoMine Home Page" border="0"></a></td>
+		<td style="background-color: #ffffff" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+        <tbody><tr> 
+          <td class="menu" height="20"><a href="http://www.infomine.com/welcome.asp?topmenu=hm" target="_top" class="topmenu">Home</a></td>
+          <td class="menu"><a href="http://www.infomine.com/news/welcome.asp?topmenu=nw" target="_top" class="topmenu">News</a></td>
+          <td class="menu"><a href="http://www.infomine.com/companies-properties/welcome.asp?topmenu=cp" target="_top" class="topmenu">Companies</a></td>
+          <td class="menu"><a href="http://www.infomine.com/countries/welcome.asp?topmenu=cn" target="_top" class="topmenu">Countries</a></td>
+          <td class="menu"><a href="http://www.infomine.com/suppliers/welcome.asp?topmenu=sp" target="_top" class="topmenu">Suppliers</a></td>
+          <td class="menu"><a href="http://www.infomine.com/careers/welcome.asp?topmenu=cr" target="_top" class="topmenu">Careers</a></td>
+          <td class="menu"><a href="http://www.infomine.com/publications/welcome.asp?topmenu=pb" target="_top" class="topmenu">Library</a></td>
+          <td class="menu"><a href="http://www.infomine.com/maps/welcome.asp?topmenu=mp" target="_top" class="topmenu">Maps</a></td>
+        </tr>
+        <tr class="menu"> 
+          <td class="menu" height="20"><a href="http://www.infomine.com/investment/welcome.asp?topmenu=iv" target="_top" class="topmenu">Investment</a></td>
+          <td class="menu"><a href="http://www.infomine.com/commodities/welcome.asp?topmenu=cm" target="_top" class="topmenu">Commodities</a></td>
+          <td class="menu"><a href="http://www.infomine.com/companies-properties/welcome.asp?topmenu=cp" target="_top" class="topmenu">Properties</a></td>
+          <td class="menu"><a href="http://www.infomine.com/equipment/welcome.asp?topmenu=eq" target="_top" class="topmenu">Equipment</a></td>
+          <td class="menu"><a href="http://www.infomine.com/consultants/welcome.asp?topmenu=cs" target="_top" class="topmenu">Consultants</a></td>
+          <td class="menu"><a href="http://www.edumine.com/welcome.asp?topmenu=ed" target="_top" class="topmenu">EduMine</a></td>
+          <td class="menu"><a href="http://technology.infomine.com/welcome.asp?topmenu=tm" target="_top" class="topmenu">Technology</a></td>
+          <td class="menu"><a href="http://www.infomine.com/events/welcome.asp?topmenu=ev" target="_top" class="topmenu">Events</a></td>
+        </tr>
+        <tr class="menu"> 
+          <td class="menu"><a href="http://www.infomine.com/editions/welcome.asp?topmenu=et" class="topmenu">Editions</a></td>
+          <td class="menu" height="20"><a href="http://www.infomine.com/feedback/welcome.asp?topmenu=ct" class="topmenu">Contact</a></td>
+          <td class="menu"><a href="http://www.infomine.com/minesite?topmenu=ms" target="_top" class="topmenu">Mine 
+            Sites </a></td>
+          <td class="menu"><a href="http://www.infomine.com/help/welcome.asp?topmenu=fq" target="_top" class="topmenu">FAQ</a></td>
+          <td class="menured"><a href="http://www.infomine.com/about/welcome.asp?topmenu=ab" target="_top" class="topmenu">About</a></td>
+          <td class="menu"><a href="http://www.infomine.com/estore/welcome.asp?topmenu=es" target="_top" class="topmenu">e-Store</a></td>
+          <td class="menu"><a href="http://www.infomine.com/advertising/rates.asp?topmenu=ad" target="_top" class="topmenu">Advertise</a></td>
+          <td class="menu"><a href="http://www.infomine.com/subscribe/ratesprivs.asp?topmenu=sx" target="_top" class="topmenu">Subscribe</a></td>
+        </tr>
+        <tr> 
+          <td colspan="8" class="menubar" style="padding-left: 16px; font-size: 7pt" width="40%" align="left">Saturday, December 17, 2005 9:31PM 
+            <a href="javascript: OpenPopup('http://www.infomine.com/about/timezone.htm', 'AboutTimeZone');">IDLE</a> 
+            <nobr>(GMT +12hrs)</nobr></td>
+        </tr>
+      </tbody></table>
 	</td>
 </tr>
 </tbody></table>
+
 <!-- Top Menu Bar Ends Here-->
 
 <!-- Main Table -->
@@ -146,71 +147,60 @@ if (parseInt(navigator.appVersion) < 4) {
 	<!-- Left Side Table -->
 	<td bgcolor="#efefef" align="left" valign="top" width="110">
 	<table width="110" cellpadding="0" cellspacing="0" border="0">
-
-<tbody><tr><td valign="top" colspan="2"><table width="104" cellpadding="1" cellspacing="0" border="0" bgcolor="#000066" align="center">
-<tbody><tr><td>
-	<table cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
-	<tbody><tr><td align="center" colspan="2" valign="top" bgcolor="FFCC00"><img src="http://www.infomine.com/graphics/keyword2.gif" alt="Search for:" border="0" width="104" height="14"></td></tr>
-	<tr><td valign="top" colspan="2" bgcolor="FFCC00"><img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="1" height="2"></td></tr>
-
-	<tr><td align="center" bgcolor="FFCC00">
-<form action="http://www.infomine.com/global/Search/search.asp" method="POST" id="form2" name="form2" target="_top">
-<input type="Text" name="keyword" align="left" size="8" value=""></form></td>
-<td align="center" valign="middle" bgcolor="FFCC00">
-	<input align="top" type="Image" name="Go" src="http://www.infomine.com/graphics/go2.gif" width="19" height="19" border="0">
-</td></tr>
-
-<tr><td colspan="2" align="left" bgcolor="#FFCC00" valign="middle">
-<img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="5" height="11"><img src="http://www.infomine.com/graphics/arrow.gif" border="0" width="8" height="9"><img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="1" height="11"><a href="http://www.infomine.com/search/" class="sidemenu" target="_top"><span style="font-family: verdana,arial; font-size: 9px"><u>More Searches</u></span></a>
-
-</td></tr>
-
-<tr><td colspan="2" bgcolor="#FFCC00"><img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="10" height="2"></td></tr>
-</tbody></table>
+  <tbody><tr> 
+    <td valign="top"> <table width="104" cellpadding="1" cellspacing="0" border="0" bgcolor="#000066" align="center">
+<tbody><tr>
+	<td>
+		<form action="http://www.infomine.com/global/Search/search.asp" method="POST" id="form2" name="form2" target="_top" style="padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;">
+		<table cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
+		<tbody><tr>
+			<td align="center" colspan="2" valign="top" bgcolor="#FFCC00"><img src="http://www.infomine.com/graphics/keyword2.gif" alt="Search for:" border="0" width="104" height="14" style="padding-bottom: 2px;"></td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#FFCC00"><input type="Text" name="keyword" align="left" size="8" value=""></td>
+			<td align="center" valign="middle" bgcolor="#FFCC00"><input align="top" type="Image" name="Go" src="http://www.infomine.com/graphics/go2.gif" width="19" height="19" border="0">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" align="left" bgcolor="#FFCC00" valign="middle"><img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="5" height="11"><img src="http://www.infomine.com/graphics/arrow.gif" border="0" width="8" height="9"><img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="1" height="11"><a href="http://www.infomine.com/search/" class="sidemenu" target="_top" style="font-family: verdana, arial; font-size: 9px; text-decoration: underline">More Searches</a></td>
+		</tr>
+		<tr>
+			<td colspan="2" bgcolor="#FFCC00"><img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="10" height="2"></td>
+		</tr>
+		</tbody></table>
+		</form>
 </td></tr></tbody></table>
-
-<br>
-
-<table width="104" cellpadding="1" cellspacing="0" border="0" align="center">
-<tbody><tr><td align="left" valign="top"><img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="3" height="1"><a href="http://www.infomine.com/subscribe/" onmouseover="document.subscribeRoll.src='http://www.infomine.com/graphics/homeimages/subscribeagain-over2.gif'; return true;" onmouseout="document.subscribeRoll.src='http://www.infomine.com/graphics/homeimages/subscribeagain2.gif'; return true;" target="_top"><img name="subscribeRoll" src="http://www.infomine.com/graphics/homeimages/subscribeagain2.gif" width="106" height="14" alt="Subscribe" border="0"></a></td></tr>
-
-<tr><td align="left" height="20"><img src="http://www.infomine.com/graphics/blank-dot.gif" border="0" width="3" height="1"><a href="http://www.infomine.com/advertising/" onmouseover="document.advertiseRoll.src='http://www.infomine.com/graphics/homeimages/advertiseagainover.gif'; return true;" onmouseout="document.advertiseRoll.src='http://www.infomine.com/graphics/homeimages/advertiseagain.gif'; return true;" target="_top"><img name="advertiseRoll" src="http://www.infomine.com/graphics/homeimages/advertiseagain.gif" width="106" height="14" alt="Advertise" border="0"></a></td></tr>
-</tbody></table>
-</td></tr>
-
-
-<tr><td colspan="2"><hr width="80%" align="center"><div class="sidebarSmallText">&nbsp;&nbsp;<b> About</b></div></td></tr>
-
-<tr>
-	<td width="3" class="sidemenu" rowspan="6"><img src="/graphics/blank-dot.gif" border="0" width="3" height="1"></td>
-	<td class="sidemenu"><img src="/graphics/sm-arrowred.gif" border="0" width="11" height="11" alt=""><img src="/graphics/blank-dot.gif" border="0" width="2" height="1"><a href="/about/" class="sidemenu">About<br><img src="/graphics/blank-dot.gif" border="0" width="13" height="1">InfoMine</a></td></tr>
-
-<tr>
-	<td class="sidemenu"><img src="/graphics/sm-arrowred.gif" border="0" width="11" height="11" alt=""><img src="/graphics/blank-dot.gif" border="0" width="2" height="1"><a href="/about/who-produces-infomine.html" class="sidemenu">Who Produces<br><img src="/graphics/blank-dot.gif" border="0" width="13" height="1">InfoMine?</a></td></tr>
-
-<tr>
-	<td class="sidemenu"><img src="/graphics/sm-arrowred.gif" border="0" width="11" height="11" alt=""><img src="/graphics/blank-dot.gif" border="0" width="2" height="1"><a href="/legal/copyright.asp" class="sidemenu">Copyright</a></td></tr>
-
-<tr>
-	<td class="sidemenu"><img src="/graphics/sm-arrowred.gif" border="0" width="11" height="11" alt=""><img src="/graphics/blank-dot.gif" border="0" width="2" height="1"><a href="/legal/disclaimer.asp" class="sidemenu">Disclaimer</a></td></tr>
-
-<tr>
-	<td class="sidemenu"><img src="/graphics/sm-arrowred.gif" border="0" width="11" height="11" alt=""><img src="/graphics/blank-dot.gif" border="0" width="2" height="1"><!--a href="/legal/policy.asp" class=sidemenu-->Policies<!--/a--></td></tr>
-
-<tr>
-	<td class="sidemenu"><img src="/graphics/sm-arrowred.gif" border="0" width="11" height="11" alt=""><img src="/graphics/blank-dot.gif" border="0" width="2" height="1"><a href="/help/statistics/" class="sidemenu">Usage Statistics</a></td></tr>
-
-<tr><td colspan="2">&nbsp;</td></tr>
-
-<tr><td align="center" colspan="2"><!--A banner space --></td></tr>
-
-<tr><td colspan="2">&nbsp;</td></tr>
-
- 
+<div align="center" style="padding-top: 6px;"><img src="http://www.infomine.com/graphics/subscriptions/sb03_icon.gif" width="94" height="18" alt="This symbol indicates an InfoMine subscription is required for access" border="0"></div>
+<div style="padding-top: 6px; padding-bottom: 0px; text-align: center"><img src="http://www.infomine.com/graphics/reddot.gif"><a href="http://www.infomine.com/index/" class="sidemenu" style="font-family: verdana,arial,helvetica; font-size: 8pt; color: #ff0000; font-weight: bold;">Site Map</a></div>
+<div style="padding-top: 2px; padding-bottom: 0px; text-align: center"><img src="http://www.infomine.com/graphics/reddot.gif"><a href="http://www.infomine.com/dictionary/" class="sidemenu" style="font-family: verdana,arial,helvetica; font-size: 8pt; color: #ff0000; font-weight: bold;">Dictionary</a>
+</div>
+ </td>
+  </tr>
+  <tr> 
+    <td><img src="/graphics/blank-dot.gif" border="0" width="25" height="10"></td>
+  </tr>
+  <tr> 
+    <td><div class="sidemenu-Global">
+		<span class="GlobalLeftNavTitle"><a href="/about/">ABOUT</a></span><br>
+		<a href="/about/">About InfoMine</a><br>
+        <a href="/about/who-produces-infomine.html">Who Produces InfoMine?</a><br>
+        <a href="/about/copyright.html">Copyright</a><br>
+        <a href="/about/disclaimer.html">Disclaimer</a><br>
+		<a href="/about/privacy.html">Privacy Policy</a><br>
+		<a href="/about/access_policy.asp">Access Policy</a><br>
+        <a href="/about/billing_policy.asp">Billing Policy</a><br>
+        <a href="/help/statistics/">Usage Statistics</a></div></td>
+  </tr>
+  <tr> 
+    <td><img src="/graphics/blank-dot.gif" border="0" width="3" height="5"></td>
+  </tr>
+  <tr> 
+    <td align="center"> <table cellspacing="0" cellpadding="0" border="0">
+         
 
 <!-- Start featuring -->
 <!-- It is one row -->
-<tr><td colspan="2" align="center">
+<tbody><tr><td colspan="2" align="center">
 <table width="100" border="0" cellpadding="0" cellspacing="0">
 	
 	<tbody><tr>
@@ -218,7 +208,7 @@ if (parseInt(navigator.appVersion) < 4) {
 	</tr>	
 	
 	<tr>
-		<td align="center"><a href="http://www.infomine.com/index/suppliers/Quebec_-_Ministère_des_Ressources_naturelles,_de_la_Faune_et_des_Parcs.html"><img class="banner" border="0" src="http://www.infomine.com/banners/ads/featuring/Suppliers/Featured/S14239.gif" width="100" height="100"></a><br><div align="center"><a href="http://www.infomine.com/index/suppliers/Quebec_-_Ministère_des_Ressources_naturelles,_de_la_Faune_et_des_Parcs.html" class="featuring" align="center">Click Here</a></div></td>
+		<td align="center"><a href="http://www.infomine.com/index/companies/MERIDIAN_GOLD_INC..html"><img class="banner" border="0" src="http://gfx.infomine.com/featuring/meridian.gif" width="100" height="100"></a><br><div align="center"><a href="http://www.infomine.com/index/companies/MERIDIAN_GOLD_INC..html" class="featuring" align="center">Click Here</a></div></td>
 	</tr>	
 		
 	<tr>
@@ -232,10 +222,9 @@ if (parseInt(navigator.appVersion) < 4) {
 	
 	
 
-	
-<tr><td colspan="2">&nbsp;</td></tr>
+      </tbody></table></td>
+  </tr>
 </tbody></table>
-
 
 	</td>
 	<!-- End of Left Side Table -->
@@ -248,7 +237,7 @@ if (parseInt(navigator.appVersion) < 4) {
 	<table cellpadding="0" cellspacing="0" border="0" width="100%">
 	<tbody><tr>
 		<td width="100%" align="center">
-<table width="470" height="62" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="470" height="62" bgcolor="#000000" valign="middle" align="center"><!-- Begin Ban Man Pro Banner Code -  Zone: InfoMine - Site Banner -->
+<table width="470" height="62" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="470" height="62" bgcolor="#000000" valign="middle" align="center"><!-- Begin Ban Man Pro Banner Code -  Site: Default Site Zone: InfoMine - Site Banner Std -->
 <script language="JAVASCRIPT">
 <!--
 var browName = navigator.appName;
@@ -258,75 +247,76 @@ var ua=navigator.userAgent.toLowerCase();
 var adcode='';
 if (browName=='Netscape'){
      if (browVersion>=5) 
-          { document.write('<ifr'+'ame src="http://www.infomine.com/advertising/banners/banman.asp?ZoneID=51&Task=Get&Browser=NETSCAPE6&X=' + browDateTime + '" width=468 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+          { document.write('<ifr'+'ame src="http://bronze.infomine.com/bmp/a.aspx?ZoneID=51&Task=Get&Browser=NETSCAPE6&SiteID=1&X=' + browDateTime + '" width=468 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
      else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
-          { document.write('<S'+'CRIPT src="http://www.infomine.com/advertising/banners/banman.asp?ZoneID=51&Task=Get&Browser=NETSCAPE4">');
+          { document.write('<S'+'CRIPT src="http://bronze.infomine.com/bmp/a.aspx?ZoneID=51&Task=Get&Browser=NETSCAPE4&SiteID=1">');
           document.write('</'+'scr'+'ipt>');
           document.write(adcode); }
      else if (browVersion>=3) 
-          { document.write('<A HREF="http://www.infomine.com/advertising/banners/banman.asp?ZoneID=51&Task=Click&Mode=HTML&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" target="_new"><IMG SRC="http://www.infomine.com/advertising/banners/banman.asp?ZoneID=51&Task=Get&Mode=HTML&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" width="468" height="60" border="0"></A>'); } }
-if (browName=='Microsoft Internet Explorer')
-     { document.write('<ifr'+'ame src="http://www.infomine.com/advertising/banners/banman.asp?ZoneID=51&Task=Get&X=' + browDateTime + '" width=468 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+          { document.write('<A HREF="http://bronze.infomine.com/bmp/a.aspx?ZoneID=51&Task=Click&Mode=HTML&SiteID=1&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" target="_new"><IMG SRC="http://bronze.infomine.com/bmp/a.aspx?ZoneID=51&Task=Get&Mode=HTML&SiteID=1&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" width="468" height="60" border="0"></A>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bronze.infomine.com/bmp/a.aspx?ZoneID=51&Task=Get&SiteID=1&X=' + browDateTime + '" width=468 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
 // --> 
-</script><iframe src="http://www.infomine.com/advertising/banners/banman.asp?ZoneID=51&amp;Task=Get&amp;Browser=NETSCAPE6&amp;X=1580464673435" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+</script><iframe src="http://bronze.infomine.com/bmp/a.aspx?ZoneID=51&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=1&amp;X=1580464676447" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
 <noscript>
-    <a href="http://www.infomine.com/advertising/banners/banman.asp?ZoneID=51&Task=Click&Mode=HTML&PageID=77486" target="_new">
-    <img src="http://www.infomine.com/advertising/banners/banman.asp?ZoneID=51&Task=Get&Mode=HTML&PageID=77486" width="468" height="60" border="0"></a>
+    <a href="http://bronze.infomine.com/bmp/a.aspx?ZoneID=51&Task=Click&Mode=HTML&SiteID=1&PageID=64706" target="_new">
+    <img src="http://bronze.infomine.com/bmp/a.aspx?ZoneID=51&Task=Get&Mode=HTML&SiteID=1&PageID=64706" width="468" height="60" border="0"></a>
 </noscript>
-<!-- End Ban Man Pro Banner Code -  Zone: InfoMine - Site Banner --></td></tr></tbody></table>
+<!-- End Ban Man Pro Banner Code -  Site: Default Site Zone: InfoMine - Site Banner Std --></td></tr></tbody></table>
 		</td>
 	</tr>
 </tbody></table>
+<a id="privacy"></a>
+<h3 class="products" style="color: #000066;">Privacy Policy</h3>
 
-	<br>
-	<h2 class="products">Privacy</h2>
-	
-	<p><br><font size="1">Effective November 9, 2000</font>
+<p><font size="1">Effective November 9, 2000</font>
 
-	</p><p><font color="#000066"><b>Our Commitment To Privacy</b></font>
+</p><p><font color="#000066"><b>Our Commitment To Privacy</b></font>
 
-	</p><p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it accessible from virtually every page on InfoMine.   
+</p><p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it accessible from virtually every page on InfoMine.   
 
-	</p><p><font color="#000066"><b>The Information We Collect</b></font>
+</p><p><font color="#000066"><b>The Information We Collect</b></font>
 
-	</p><p>This notice applies to all information collected or submitted. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+</p><p>This notice applies to all personal information collected or submitted by clients when they subscribe, advertise or purchase products on InfoMine. The types of personal information collected are:
 
-	</p><ul>
-		<li>Name 
-		</li><li>Address 
-		</li><li>Email address 
-		</li><li>Phone number 
-		</li><li>Credit/Debit Card Information 
-	</li></ul>
+</p><ul>
+	<li>Name 
+	</li><li>Address 
+	</li><li>Email address 
+	</li><li>Phone number 
+	</li><li>Credit/Debit Card Information 
+</li></ul>
 
-	<p><font color="#000066"><b>The Way We Use Information</b></font>
+<p><font color="#000066"><b>The Way We Use Information</b></font>
 
-	</p><p>We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+</p><p>We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-	</p><p>We use return email addresses to answer the email we receive and do not share these addresses with outside parties. We use information posted in the automated email inquiry forms on our listings to confirm the contact email for the listing and validate inquires generated from our site. We do not share this contact information with anyone except the recipient listed on the contact form.
+</p><p>We use return email addresses to answer the email we receive and to keep you informed of new developments at InfoMine which we believe would be of interest to you.  We do not share these addresses with outside parties. We use information posted in the automated email inquiry forms on our listings to confirm the contact email for the listing and validate inquires generated from our site. We do not share this contact information with anyone except the recipient listed on the contact form.
 
-	</p><p>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our subscription form, but we would not disclose anything that could be used to identify those individuals. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
- 
-	</p><p><font color="#000066"><b>Our Commitment To Data Security</b></font>
+</p><p>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our subscription form, but we would not disclose anything that could be used to identify those individuals. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-	</p><p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
- 
-	</p><p><font color="#000066"><b>Our Commitment To Children's Privacy</b></font>
- 
-	</p><p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+</p><p><font color="#000066"><b>Our Commitment To Data Security</b></font>
 
-	</p><p><font color="#000066"><b>How You Can Access Or Correct Your Information</b></font>
- 
-	</p><p>You can access all your personally identifiable information that we collect online and maintain by contacting us and requesting it. 
+</p><p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-	</p><p>You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+</p><p><font color="#000066"><b>Our Commitment To Children's Privacy</b></font>
 
-	</p><p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
- 
-	</p><p><font color="#000066"><b>How To Contact Us</b></font>
- 
-	</p><p>Should you have other questions or concerns about these privacy policies, please call us at +1 604 683-2037 or send us an email at <a href="mailto:info@infomine.com">info@infomine.com</a>.<br><br>
-	</p></td>
+</p><p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+
+</p><p><font color="#000066"><b>How You Can Access Or Correct Your Information</b></font>
+
+</p><p>You can access all your personally identifiable information that we collect online and maintain by contacting us and requesting it. 
+
+</p><p>You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+
+</p><p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+</p><p><font color="#000066"><b>How To Contact Us</b></font>
+
+</p><p>Should you have other questions or concerns about these privacy policies, please 
+  call us at +1 604 683-2037 or send us an email at <a href="mailto:info@infomine.com">info@infomine.com</a>. 
+
+      </p><p>&nbsp; </p></td>
 
 </tr>
 <!-- End of Content -->
@@ -335,18 +325,49 @@ if (browName=='Microsoft Internet Explorer')
 <!-- Bottom Menu Bar -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#000066" height="20">
 <tbody><tr>
-	<td align="center">&nbsp;<font color="#ffffff">Copyright 1990 - 2004 InfoMine Inc.</font>&nbsp; &nbsp; &nbsp; <font color="#ffffff">Developed and maintained by InfoMine Inc.</font>&nbsp;</td>
+	<td align="center">&nbsp;<font color="#ffffff">Copyright 1990 - 2005 InfoMine Inc.&nbsp; &nbsp; &nbsp; <font color="#ffffff">Developed and maintained by InfoMine Inc.&nbsp;</font></font></td>
 </tr>
 </tbody></table>
 
 <img src="/graphics/blank-dot.gif" width="1" height="5" border="0"><br>
 
-<div align="center"><font class="smalltext"><a href="http://www.infomine.com/welcome.asp"><font class="smalltext">Home</font></a> | <a href="http://www.infomine.com/careers/positions/"><font class="smalltext">Careers</font></a> | <a href="http://www.infomine.com/commodities/"><font class="smalltext">Commodities</font></a> | <a href="http://www.infomine.com/community/"><font class="smalltext">Community</font></a> | <a href="http://www.infomine.com/companies-properties/"><font class="smalltext">Companies/Properties</font></a> | <a href="http://www.infomine.com/consultants/"><font class="smalltext">Consultants/Specialists</font></a> | <a href="http://www.infomine.com/countries/"><font class="smalltext">Countries</font></a><br>
-<a href="http://www.edumine.com/xedumine/edumine.htm"><font class="smalltext">Professional Development</font></a> | <a href="http://www.infomine.com/events/"><font class="smalltext">Events</font></a> | <a href="http://www.infomine.com/equipment/"><font class="smalltext">Equipment</font></a> | <a href="http://www.infomine.com/estore/"><font class="smalltext">eStore/Tours</font></a> | <a href="http://www.infomine.com/investment/"><font class="smalltext">Investment</font></a> | <a href="http://www.infomine.com/publications/"><font class="smalltext">Publications</font></a> | <a href="http://www.infomine.com/maps/"><font class="smalltext">Maps</font></a> | <a href="http://www.infomine.com/news/"><font class="smalltext">News</font></a> | <a href="http://www.infomine.com/suppliers/buyers-guide/"><font class="smalltext">Suppliers</font></a> | <a href="http://technology.infomine.com"><font class="smalltext">Technology</font></a><br>
-<a href="http://www.infomine.com/about/"><font class="smalltext">About</font></a> | <a href="http://www.infomine.com/advertising/"><font class="smalltext">Advertise</font></a> | <a href="http://www.infomine.com/feedback/"><font class="smalltext">Contact Us</font></a> | <a href="http://www.infomine.com/demonstration/"><font class="smalltext">Demo</font></a> | <a href="http://www.infomine.com/dictionary/"><font class="smalltext">Dictionary</font></a> | <a href="http://www.infomine.com/help/"><font class="smalltext">FAQ</font></a> | <a href="http://www.infomine.com/index/"><font class="smalltext">Site Map</font></a> | <a href="http://www.infomine.com/subscribe/"><font class="smalltext">Subscribe</font></a><br>
-<a href="http://www.infomine.com/about/copyright.html"><font class="smalltext">Copyright</font></a> | <a href="http://www.infomine.com/about/disclaimer.html"><font class="smalltext">Disclaimer</font></a> | <a href="http://www.infomine.com/about/privacy.html"><font class="smalltext">Privacy Policy</font></a> | <a href="http://www.infomine.com/welcome_es.asp"><font class="smalltext">Español/Spanish</font></a></font></div><font class="smalltext"><br>
-	
+<div align="center" class="smalltext">
+<a href="http://www.infomine.com/welcome.asp" class="smalltext">Home</a> | 
+<a href="http://www.infomine.com/news/" class="smalltext">News</a> | 
+<a href="http://www.infomine.com/companies-properties/" class="smalltext">Companies/Properties</a> | 
+<a href="http://www.infomine.com/countries/" class="smalltext">Countries</a> | 
+<a href="http://www.infomine.com/suppliers/buyers-guide/" class="smalltext">Suppliers</a> | 
+<a href="http://www.infomine.com/careers/positions/" class="smalltext">Careers</a> | 
+<a href="http://www.infomine.com/publications/" class="smalltext">Library</a> | 
+<a href="http://www.infomine.com/maps/" class="smalltext">Maps</a>
+<br>
+<a href="http://www.infomine.com/investment/" class="smalltext">Investment</a> | 
+<a href="http://www.infomine.com/commodities/" class="smalltext">Commodities</a> | 
+<a href="http://www.infomine.com/equipment/" class="smalltext">Equipment</a> | 
+<a href="http://www.infomine.com/consultants/" class="smalltext">Consultants/Specialists</a> | 
+<a href="http://www.edumine.com/xedumine/edumine.htm" class="smalltext">EduMine</a> | 
+<a href="http://technology.infomine.com" class="smalltext">Technology</a> | 
+<a href="http://www.infomine.com/events/" class="smalltext">Events</a>
+<br>
+<a href="http://www.infomine.com/editions/" class="smalltext">Editions</a> | 
+<a href="http://www.infomine.com/feedback/" class="smalltext">Contact</a> | 
+<a href="http://www.infomine.com/minesite/" class="smalltext">Mine Sites</a> | 
+<a href="http://www.infomine.com/help/" class="smalltext">FAQ</a> | 
+<a href="http://www.infomine.com/about/" class="smalltext">About</a> | 
+<a href="http://www.infomine.com/estore/" class="smalltext">eStore/Tours</a> | 
+<a href="http://www.infomine.com/advertising/" class="smalltext">Advertise</a> | 
+<a href="http://www.infomine.com/subscribe/" class="smalltext">Subscribe</a>
+<br>
+<a href="http://www.infomine.com/dictionary/" class="smalltext">Dictionary</a> | 
+<a href="http://www.infomine.com/demonstration/" class="smalltext">Demo</a> | 
+<a href="http://www.infomine.com/about/copyright.html" class="smalltext">Copyright</a> | 
+<a href="http://www.infomine.com/about/disclaimer.html" class="smalltext">Disclaimer</a> | 
+<a href="http://www.infomine.com/about/privacy.html" class="smalltext">Privacy Policy</a> | 
+<a href="http://www.infomine.com/index/" class="smalltext">Site Map</a> | 
+<a href="http://www.infomine.com/welcome_es.asp" class="smalltext">Español/Spanish</a>
+</div>
+<br>
 
 
 
-</font></body></html>
+</body></html>
