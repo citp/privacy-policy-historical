@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629023753id_/http%3A//www.animewallpapers.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217211340id_/http%3A//www.animewallpapers.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy (Anime Wallpapers.com)
 
-|  |  [ ](http://store.yahoo.com/cgi-bin/clink?animecorner+jfgmts+index.html)  
+|  |  [ ](http://theanimaro.com/)  
 ---|---|---  
 Privacy Policy  
 ---  
