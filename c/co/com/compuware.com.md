@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306184635id_/http%3A//www.compuware.com/corporate/602_ENG_HTML.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217083523id_/http%3A//www.compuware.com/corporate/602_ENG_HTML.htm) for the most accurate reproduction.*
 
 # Compuware Corporation - Our Commitment to Privacy
 
-## Our commitment to privacy — Effective date April 1, 2004
+## Our commitment to privacy — Effective date August 15, 2005
 
 Compuware Corporation recognizes your right to confidentiality and is committed to protecting your privacy.  This privacy statement applies solely to information collected by Compuware-owned web sites.
 
@@ -12,6 +12,7 @@ The use of cookies
 Opt-out  
 Links to non-Compuware web sites  
 Commitment to data security  
+European Union Safe Harbor Certification  
 Public forums  
 Online job applications
 
@@ -71,9 +72,13 @@ Compuware provides these links to you as a convenience, and the inclusion of any
 
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
+## European Union Safe Harbor Certification
+
+Compuware Corporation currently complies with the Safe Harbor certification developed by the U.S. Department of Commerce for the collection, use, and retention of data from the European Union. For more information about the Safe Harbor program please visit <http://www.export.gov/safeharbor>.
+
 ## Public forums
 
-This site may make chat rooms, forums, message boards, feedback forms and/or news groups available to its users. Please remember any information disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+This site may make chat rooms, forums, message boards, feedback forms, web logs / "blogs", news groups and / or other public messaging forums available to its users. Please remember any information disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
 ## Online job applications
 
