@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitfocus.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405135602id_/http%3A//www.benefitfocus.com/html_pages/privacy_terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitfocus.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217130706id_/http%3A//www.benefitfocus.com/html_pages/privacy_terms/privacy.html) for the most accurate reproduction.*
 
 # Benefitfocus.com | 843-849-7476
 
