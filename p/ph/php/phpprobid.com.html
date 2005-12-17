@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the phpprobid.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403075056id_/http%3A//www.phpprobid.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phpprobid.com privacy policy that was archived on 2005-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217180434id_/http%3A//phpprobid.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Professional Auction Script Software by PHP Pro Bid</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="The Leading Proffessional Auction Script Software available online today written in PHP/ Mysql.">
@@ -10,410 +10,143 @@
 <meta name="robots" content="index,follow">
 <meta name="AUTHOR" content="PHP Pro Bid Auction Script Software">
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
-<link href="/style.css" type="text/css" rel="stylesheet">
-<link rel="icon" href="/favicon.ico" type="image/png">
-<script language="javascript" src="/mt_script.js"></script>
-<script language="javascript" src="/mt_dropdownC.js"></script>
-<script language="javascript" src="/mt_dropdown_initialize.js"></script>
-<script language="javascript">
-function setinstall() {
-	if (installation.checked == true) {
-	alert("Hello");
-		cp1.style.display="block";
-		cp2.style.display="block";
-		cp3.style.display="block";
-	} else {
-	alert("hi");
-		cp1.style.display="none";
-		cp2.style.display="none";
-		cp3.style.display="none";
-	}
-}
-</script>
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_showHideLayers() { //v6.0
-  var i,p,v,obj,args=MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
-    obj.visibility=v; }
-}
-//-->
-</script>
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-}
-MM_reloadPage(true);
-//-->
-</script>
-<script language="JavaScript">
-<!--
-
-function newImage(arg) {
-	if (document.images) {
-		rslt = new Image();
-		rslt.src = arg;
-		return rslt;
-	}
-}
-
-function changeImages() {
-	if (document.images && (preloadFlag == true)) {
-		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
-		}
-	}
-}
-
-// -->
-</script>
-<script>
-<!--
-// Set slideShowSpeed (milliseconds)
-var slideShowSpeed = 5000
-// Duration of crossfade (seconds)
-var crossFadeDuration = 3
-// Specify the image files
-var Pic = new Array() // don't touch this
-// to add more images, just continue
-// the pattern, adding to the array below
-
-//Array containing the links for each picture. 
-var PicURL = new Array()
-
-Pic[0] = 'images/slide1.jpg'
-PicURL[0] = 'javascript:popUp("images/pop1.jpg",500,500,1);'
-Pic[1] = 'images/slide2.jpg'
-PicURL[1] = 'javascript:popUp("images/pop2.jpg",500,500,1);'
-Pic[2] = 'images/slide3.jpg'
-PicURL[2] = 'javascript:popUp("images/pop3.jpg",500,500,1);'
-Pic[3] = 'images/slide4.jpg'
-PicURL[3] = 'javascript:popUp("images/pop4.jpg",500,500,1);'
-Pic[4] = 'images/slide5.jpg'
-PicURL[4] = 'javascript:popUp("images/pop5.jpg",500,500,1);'
-Pic[5] = 'images/slide6.jpg'
-PicURL[5] = 'javascript:popUp("images/pop6.jpg",500,500,1);'
-Pic[6] = 'images/slide7.jpg'
-PicURL[6] = 'javascript:popUp("images/pop7.jpg",500,500,1);'
-Pic[7] = 'images/slide8.jpg'
-PicURL[7] = 'javascript:popUp("images/pop8.jpg",500,500,1);'
-Pic[8] = 'images/slide9.jpg'
-PicURL[8] = 'javascript:popUp("images/pop9.jpg",500,500,1);'
-
-// do not edit anything below this line
-
-var t
-var j = 0
-var p = Pic.length
-var preLoad = new Array()
-for (i = 0; i < p; i++) { preLoad[i] = new Image()
-preLoad[i].src = Pic[i]
-preLoad[i].link = PicURL[i] } 
-function runSlideShow() { if (document.images.SlideShow) { document.images.SlideShow.style.filter="blendTrans(duration=2)"
-document.images.SlideShow.style.filter='blendTrans(duration=crossFadeDuration)'
-document.images.SlideShow.filters.blendTrans.Apply()
- } if (document.images.SlideShow) { document.images.SlideShow.src = preLoad[j].src
-
-document.all.SlideShowLnk.href = preLoad[j].link
-  } if (document.images.SlideShow) { document.images.SlideShow.filters.blendTrans.Play()
-   } j = j + 1
-     if (j > (p - 1)) j = 0
-      t = setTimeout('runSlideShow()', slideShowSpeed) } 
-
-
-// -->
-</script>
-<script>
-<!--
-function popUp(page,PWidth,PHeight,id) {
- eval("designerwiz"+id+"=window.open('"+page+"','designerwiz1','toolbar=0,scrollbars=0,location=0,status=0,menubars=0,resizable=0,width="+PWidth+",height="+PHeight+"')")
-eval;("wiz"+id+".window.moveTo((screen.width/2)-(PWidth/2),(screen.height/2)-(PHeight/2))")
-}
-// -->
-</script>
+<link href="styles/css.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/javascript" src="styles/popup.js"></script>
+<script language="JavaScript" type="text/JavaScript" src="styles/preload.js"></script>
 </head>
+<body bgcolor="#dddddd" leftmargin="5" topmargin="5" marginwidth="5" marginheight="5" onload="MM_preloadImages('imgs/b1o.gif','imgs/b2o.gif','imgs/b3o.gif','imgs/b4o.gif','imgs/b5o.gif','imgs/b6o.gif')">
+<a name="top"></a>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="2" class="content">
+	<tbody><tr>
+		<td background="imgs/sidebg.gif"><img src="imgs/pixel.gif" width="9" height="1"></td>
+		<td width="100%">
 
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="init(); runSlideShow();">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td width="210">
-    <img src="/img/logo.gif" width="210" height="87" alt="PHP Pro Bid Auction Script Software"></td>
-    <td width="167" rowspan="2">    <img src="/img/softbox.jpg" width="167" height="244" alt="Run your own complete professional eBay style business!"></td>
-    <td rowspan="2" valign="top">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td><img src="/img/pixel.gif" width="3" height="59"></td>
-        </tr>
-        <tr> 
-          <td bgcolor="#1A5BB1"><img src="/img/pixel.gif" width="1" height="2"></td>
-        </tr>
-        <tr> 
-          <td background="/img/bgmenu.gif"><table width="100%" height="55" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td><a id="menu1" onmouseover="swapImage('button1', preloaded[1][1].src)" onmouseout="swapImage('button1', preloaded[1][0].src)" href="/"><img id="button1" height="55" src="/img/nav/1-0.gif" width="80" border="0" name="button1" alt="PHP Pro Bid Home Page"></a></td>
-    <td><a id="menu2" onmouseover="swapImage('button2', preloaded[2][1].src)" onmouseout="swapImage('button2', preloaded[2][0].src)" href="http://www.phpprobid.com/auction-software-features.php"><img id="button2" height="55" src="/img/nav/2-0.gif" width="80" border="0" name="button2" alt="More Info On PHP Pro Bid"></a></td>
-    <td><a id="menu3" onmouseover="swapImage('button3', preloaded[3][1].src)" onmouseout="swapImage('button3', preloaded[3][0].src)" href="https://www.phpprobid.com/order.php"><img id="button3" height="55" src="/img/nav/3-0.gif" width="81" border="0" name="button3" alt="Order PHP Pro Bid"></a></td>
-    <td><a id="menu4" onmouseover="swapImage('button4', preloaded[4][1].src)" onmouseout="swapImage('button4', preloaded[4][0].src)" href="/client/"><img id="button4" height="55" src="/img/nav/4-0.gif" width="80" border="0" name="button4" alt="PHP Pro Bid Support"></a></td>
-    <td><a id="menu5" onmouseover="swapImage('button5', preloaded[5][1].src)" onmouseout="swapImage('button5', preloaded[5][0].src)" href="/contact.php"><img id="button5" height="55" src="/img/nav/5-0.gif" width="82" border="0" name="button5" alt="Contact PHP Pro Bid"></a></td>
-    <td width="100%">&nbsp;</td>
-  </tr>
-</tbody></table></td>
-        </tr>
-      </tbody></table>
-      <table width="100%" height="128" border="0" cellpadding="0" cellspacing="0" background="/img/bgslogan.gif">
-        <tbody><tr> 
-          <td height="55">
-          <img src="/img/slogan.gif" width="403" height="55" alt="Professional Auction Software"></td>
-        </tr>
-        <tr>
-          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td width="76"><img src="/img/cornermain.gif" width="76" height="73"></td>
-                <td width="327"><img src="/img/bg_title.gif" width="327" height="73"></td>
-                <td>&nbsp;</td>
-              </tr>
-            </tbody></table></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr> 
-    <td width="210"><table width="100%%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td><img src="/img/member_top.gif" width="210" height="63"></td>
-        </tr>
-        <tr> 
-          <td><table width="100%%" border="0" cellspacing="0" cellpadding="0">
-              <form action="/client/login.php" method="post"></form>
-		<input type="hidden" name="issubmit" value="ok">
-		<input type="hidden" name="loginok" id="loginok">
-                <tbody><tr> 
-                  <td width="45" rowspan="2"><img src="/img/member_icon.gif" width="45" height="40"></td>
-                  <td bgcolor="#DFE0E9"><input name="username" type="text" id="state4" size="14"></td>
-                  <td width="78" rowspan="2"><input name="imageField" type="image" src="/img/go.gif" width="78" height="40" border="0"></td>
-                </tr>
-                <tr> 
-                  <td bgcolor="#E5E6ED"><input name="password" type="password" id="state5" size="14">
-                  </td>
-                </tr>
-              
-            </tbody></table></td>
-        </tr>
-        <tr> 
-          <td><img src="/img/member_bottom.gif" width="210" height="54"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>
-<table width="780" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="border-bottom: 1px solid #999999;">
   <tbody><tr valign="top"> 
-    <td width="9"><img src="/img/pixel.gif" width="9" height="1"></td>
-    <td width="198">
-<table width="100%" border="0" cellspacing="0" cellpadding="3">
-        <tbody><tr> 
-          <td bgcolor="#F0F1F2"><img src="/img/arrow.gif" width="8" height="8" hspace="4"></td>
-          <td width="100%" bgcolor="#F8F8F8" class="categories"><b>
-          <a href="/">Home</a></b></td>
-        </tr>
-        <tr> 
-          <td bgcolor="#F0F1F2"><img src="/img/arrow.gif" width="8" height="8" hspace="4"></td>
-          <td bgcolor="#F8F8F8" class="categories"><b>
-          <a href="auction-software-features.php" title="software information">Software Information</a></b></td>
-        </tr>
-        <tr> 
-          <td bgcolor="#E1E2E4"><img src="/img/pixel.gif" width="1" height="1"></td>
-          <td bgcolor="#F0F0F0" class="categories">
-          <a href="http://www.phpprobid.com/auction-software-features.php" title="software features">Software Features</a><br> 
-            <a href="http://www.phpprobid.com/auction-software-demo" title="auction software demo">Auction Software Demo</a><br>
-          <a href="http://www.phpprobid.com/auction-script-requirements.php" title="auction script requirements">Script Requirements</a></td>
-        </tr>
-        <tr> 
-          <td bgcolor="#F0F1F2"><img src="/img/arrow.gif" width="8" height="8" hspace="4"></td>
-          <td bgcolor="#F8F8F8" class="categories"><b>
-          <a href="https://www.phpprobid.com/order.php">Order</a></b></td>
-        </tr>
-        <tr> 
-          <td bgcolor="#E1E2E4"><img src="/img/pixel.gif" width="1" height="1"></td>
-          <td bgcolor="#F0F0F0" class="categories">
-          <a href="https://www.phpprobid.com/order.php">Order</a><br> 
-            <a href="/pricing.php">Pricing</a><br> 
-          <a href="/idevaffiliate/">Affiliates</a></td>
-        </tr>
-        <tr> 
-          <td bgcolor="#F0F1F2"><img src="/img/arrow.gif" width="8" height="8" hspace="4"></td>
-          <td bgcolor="#F8F8F8" class="categories"><b>
-          <a href="/client/">Support</a></b></td>
-        </tr>
-        <tr> 
-          <td bgcolor="#E1E2E4">&nbsp;</td>
-          <td bgcolor="#F0F0F0" class="categories"> 
-          <a href="/client/">Client Login</a></td>
-        </tr>
-        <tr> 
-          <td bgcolor="#F0F1F2"><img src="/img/arrow.gif" width="8" height="8" hspace="4"></td>
-          <td bgcolor="#F8F8F8" class="categories"><b>
-          <a href="/contact.php">Contact Us</a></b></td>
-        </tr>
-        <tr> 
-          <td bgcolor="#E1E2E4"><img src="/img/pixel.gif" width="1" height="1"></td>
-          <td bgcolor="#F0F0F0" class="categories">
-          <a href="/contact.php">E-Mail Us</a><br> 
-            <a href="/contact.php">Web-Form</a><br><br></td>
+    <td width="374"><img src="imgs/logo.gif" alt="Professional Auction Script Software by PHP Pro Bid" width="374" height="55"></td>
+    <td width="100%" class="toplink" background="imgs/head_bg.gif">
+    <div style="padding-left: 240px; padding-top: 20px;">
+    <a href="index.php">Home</a> | 
+    <a href="http://www.phpprobid.com/client/login.php">Login</a> | 
+    <a href="contact.php">Contact</a>
+    </div>
+    </td>
+    <td class="menu">&nbsp;</td>
+  </tr>
+</tbody></table>
+<div><img src="imgs/pixel.gif" width="1" height="1"></div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr bgcolor="#336699">
+    <td class="bordermenu"><a href="auction-software-features.php" onmouseover="MM_swapImage('b1','','imgs/b1o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="imgs/b1.gif" name="b1" width="134" height="25" border="0" id="b1" alt="Software Features Overview"></a></td>
+    <td class="bordermenu"><a href="auction-script-requirements.php" onmouseover="MM_swapImage('b2','','imgs/b2o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="imgs/b2.gif" name="b2" width="139" height="25" border="0" id="b2" alt="Auction Script Requirements"></a></td>
+    <td class="bordermenu"><a href="http://www.phpprobid.com/auction-software-demo/" target="_blank" onmouseover="MM_swapImage('b3','','imgs/b3o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="imgs/b3.gif" name="b3" width="164" height="25" border="0" id="b3" alt="Auction Software Demo"></a></td>
+    <td class="bordermenu" bgcolor="#3A74AE"><a href="pricing.php" onmouseover="MM_swapImage('b4','','imgs/b4o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="imgs/b4.gif" name="b4" width="69" height="25" border="0" id="b4" alt="Auction Script Pricing"></a></td>
+    <td class="bordermenu" bgcolor="#3A74AE"><a href="https://www.phpprobid.com/order.php" onmouseover="MM_swapImage('b5','','imgs/b5o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="imgs/b5.gif" name="b5" width="63" height="25" border="0" id="b5" alt="PURCHASE PHP PRO BID"></a></td>
+    <td class="bordermenu" width="100%" bgcolor="#3A74AE">&nbsp;</td>
+  </tr>
+</tbody></table>
+<div><img src="imgs/pixel.gif" width="1" height="2"></div> 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#2F99E3">
+  <tbody><tr> 
+    <td><img src="imgs/subtop.jpg" width="768" height="19"></td>
+    </tr>
+</tbody></table>
+<div><img src="imgs/pixel.gif" width="1" height="2"></div>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" style="border-top: 5px solid #003366;">
+  <tbody><tr valign="top"> 
+    <td bgcolor="#EEF0F3">
+<table width="771" border="0" cellpadding="0" cellspacing="3" bgcolor="#FFFFFF">
+  <tbody><tr> 
+    <td valign="top" class="sbm">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr><td><a class="ln" href="auction-software-features.php">Software Features</a></td></tr>
+        <tr><td><a class="ln" href="auction-script-requirements.php">Script Requirements</a></td></tr>
+        <tr><td><a href="http://www.phpprobid.com/auction-software-demo/" target="_blank" class="ln">Auction Software Demo</a></td></tr>
+        <tr><td><a class="ln" href="pricing.php">PHP Pro Bid Pricing</a></td></tr>
+        <tr><td><a class="ln" href="https://www.phpprobid.com/order.php">Order now</a></td></tr>
+        <tr></tr>
+      </tbody></table>
+      <div style="padding-top: 5px;"><a href="http://www.phpprobid.com/auction-software-demo/" target="_blank"><img src="imgs/banside1.gif" alt="Php Pro Bid Demo" width="171" height="104" border="0"></a></div>
+      <div style="padding-top: 5px;"><a href="comp.php" target="_parent"><img src="imgs/banside2.gif" alt="Win an Sony PSP!" width="171" height="210" border="0"></a></div>
+      <div style="padding-top: 5px;"><a href="http://www.phpprobid.com/portfolio.php" target="_blank"><img src="imgs/banside3.gif" alt="Web Site Design" width="171" height="163" border="0"></a></div>
+      </td>
+    <td width="100%" valign="top" bgcolor="#FFFFFF">
+    
+     <div><img src="imgs/bni1.jpg" width="586" height="108"></div>
+     <div><img src="imgs/pixel.gif" width="1" height="3"></div>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-top: 2px solid #074170">
+        <tbody><tr bgcolor="#0C6CBB" height="20">
+          <td class="bread">&nbsp;&nbsp;<a href="index.php">Home</a> 
+            <font color="#FFD800">»</font>
+            Privacy</td>
         </tr>
       </tbody></table>
-	  
-    <p><a href="/comp.php"><img src="/img/comp.jpg" border="0"></a></p>
-    <p align="center"><a href="http://www.hotscripts.com"><img src="http://images.hotscripts.com/dynamic/reviewed.gif?32742" border="0"></a>
-
-    </p></td>
-    <td width="12"><img src="/img/pixel.gif" width="12" height="1"></td>
-    <td width="561" bgcolor="#F0F0F0"><img src="/img/bg_contentmain.gif" width="561" height="35">
-
-
-
-
-
-<table width="100%" border="0" cellspacing="5" cellpadding="0"> 
-           <tbody><tr>
-		    <td class="main" valign="top">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: .0001pt">
-                <tbody><tr> 
-                  <td width="27"><img src="img/i_mail_blue.gif" width="27" height="27"></td>
-                  <td width="100%" background="img/cat_bg.gif" class="main"> <font color="#FFFFFF"><b>Privacy Policy</b></font></td>
-                </tr>
-              </tbody></table>
-              <p style="margin-bottom: .0001pt"><span style="font-size:10.0pt;font-family:Arial">We believe your business is no one else's. Your privacy is important to you…and to us. So we'll protect the information you share with us. To protect your privacy, <span style="color:
-black">PHP Pro Bid</span>&nbsp;follows different principles in accordance with world-wide practices for customer privacy and data protection.<o:p></o:p></span></p>
-              <p class="minitext" style="margin:0cm;margin-bottom:.0001pt;text-align:justify"><span style="font-size:10.0pt;font-family:Arial"><span style="mso-spacerun:yes">&nbsp;</span><o:p></o:p></span></p>
-              <p class="minitext" style="margin-top:0cm;margin-right:0cm;margin-bottom:3.0pt;
-margin-left:36.0pt;text-align:justify;text-indent:-18.0pt;mso-list:l1 level1 lfo1">
-                <!--[if !supportLists]-->
-                <span style="font-size:14.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings"><span style="mso-list:Ignore">q<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span>
-                <!--[endif]-->
-                <span style="font-size:10.0pt;font-family:Arial">We won't sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone. <o:p></o:p></span></p>
-              <p class="minitext" style="margin-top:0cm;margin-right:0cm;margin-bottom:3.0pt;
-margin-left:36.0pt;text-align:justify;text-indent:-18.0pt;mso-list:l0 level1 lfo2">
-                <!--[if !supportLists]-->
-                <span style="font-size:14.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings"><span style="mso-list:Ignore">q<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span>
-                <!--[endif]-->
-                <span style="font-size:10.0pt;font-family:Arial">We'll use the latest security measures to protect your information from unauthorized users. <o:p></o:p></span></p>
-              <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:10.0pt;
-font-family:Arial">NOTICE<o:p></o:p></span></b></p>
-              <p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
-font-family:Arial"><br>
-  We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you purchase our software packages. We use your Personal Information for four primary purposes:<o:p></o:p></span></p>
-              <p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
-font-family:Arial"><span style="mso-spacerun:yes">&nbsp;</span><o:p></o:p></span></p>
-              <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:3.0pt;
-margin-left:36.0pt;text-align:justify;text-indent:-18.0pt;mso-list:l0 level1 lfo1">
-                <!--[if !supportLists]-->
-                <span style="font-size:14.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings"><span style="mso-list:Ignore">q<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span>
-                <!--[endif]-->
-                <span style="font-size:10.0pt;font-family:Arial">To process and activate your order <o:p></o:p></span></p>
-              <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:3.0pt;
-margin-left:36.0pt;text-align:justify;text-indent:-18.0pt;mso-list:l0 level1 lfo1">
-                <!--[if !supportLists]-->
-                <span style="font-size:14.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings"><span style="mso-list:Ignore">q<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span>
-                <!--[endif]-->
-                <span style="font-size:10.0pt;font-family:Arial">To identify you<o:p></o:p></span></p>
-              <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:3.0pt;
-margin-left:36.0pt;text-align:justify;text-indent:-18.0pt;mso-list:l0 level1 lfo1">
-                <!--[if !supportLists]-->
-                <span style="font-size:14.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings"><span style="mso-list:Ignore">q<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span>
-                <!--[endif]-->
-                <span style="font-size:10.0pt;font-family:Arial">To help us support you and/or your Business. <o:p></o:p></span></p>
-              <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:3.0pt;
-margin-left:36.0pt;text-align:justify;text-indent:-18.0pt;mso-list:l0 level1 lfo1">
-                <!--[if !supportLists]-->
-                <span style="font-size:14.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings"><span style="mso-list:Ignore">q<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span>
-                <!--[endif]-->
-                <span style="font-size:10.0pt;font-family:Arial">To alert you to product upgrades, special offers, updated information and other new services from PHP Pro Bid. <o:p></o:p></span></p>
-              <p class="MsoNormal" style="text-align:justify">
-                <!--[if gte vml 1]><v:shapetype
- id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
- <v:stroke joinstyle="miter"/>
- <v:path gradientshapeok="t" o:connecttype="rect"/>
-</v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t202" style='position:absolute;
- left:0;text-align:left;margin-left:533.7pt;margin-top:-66.5pt;width:12pt;
- height:9pt;z-index:1' stroked="f"/><![endif]-->
-                <!--[if !vml]-->
-                <span style="mso-ignore:vglayout;position:relative;z-index:1"></span>
-                <!--[endif]-->
-                <b><span style="font-size:10.0pt;font-family:Arial">ACCESS</span></b><span style="font-size:10.0pt;font-family:Arial"><br style="mso-special-character:
-line-break">
-                <!--[if !supportLineBreakNewLine]-->
-                <br style="mso-special-character:line-break">
-                <!--[endif]-->
-              <o:p></o:p></span></p>
-              <p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
-font-family:Arial">We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the client area. There, you can:<o:p></o:p></span></p>
-              <p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
-font-family:Arial"><span style="mso-spacerun:yes">&nbsp;</span><o:p></o:p></span></p>
-              <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:3.0pt;
-margin-left:36.0pt;text-align:justify;text-indent:-18.0pt;mso-list:l0 level1 lfo1">
-                <!--[if !supportLists]-->
-                <span style="font-size:14.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings"><span style="mso-list:Ignore">q<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span>
-                <!--[endif]-->
-                <span style="font-size:10.0pt;font-family:Arial">View and edit personal information you have already given us. <o:p></o:p></span></p>
-              <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:10.0pt;
-font-family:Arial"><o:p>&nbsp;</o:p></span></b></p>
-             </td> 
-          </tr> 
+      <div style="padding-left: 10px;">
+          <p>We believe your business is no one 
+            else's. Your privacy is important to you…and to us. So we'll 
+            protect the information you share with us. To protect your privacy, 
+            PHP Pro Bid follows different principles in accordance with world-wide 
+            practices for customer privacy and data protection.
          
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td>&nbsp;</td>
-  </tr>
-  <tr> 
-    <td bgcolor="#0082D6"><img src="img/pixel.gif" width="1" height="1"></td>
-  </tr>
-  <tr>
-    <td height="38" bgcolor="#F1F1F5" class="small">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copyright ©2005 Dot Com 
-    Software |&nbsp;<a href="/">Home</a> •
-    <a href="auction-software-features.php">Information</a> 
-      • <a href="https://www.phpprobid.com/order.php">Order</a> •
-    <a href="/client/support/pdesk.cgi">Support</a> 
-      • <a href="/contact.php">Contact Us</a> • <a href="/privacy.php">Privacy Policy </a></td>
-  </tr>
-</tbody></table>
-<script language="javascript" src="/mt_dropdown_content.js"></script>
-<div id="Layer1" style="position:absolute; left:462px; top:184px; width:315px; height:75px; z-index:10"> 
-  <table width="315" border="0" cellspacing="5" cellpadding="0" height="75">
-    <tbody><tr> 
-      <td valign="top" class="pagehead">PHP Pro Bid Auction Script</td>
-    </tr>
-    <tr>
-      <td valign="top" class="main">Are you looking for the ideal software 
-      solution so you can run your own eBay style auction web-site?<br>      If so, then 
-      you have come to the right place.</td>
-    </tr>
-  </tbody></table>
+           </p><ul> 
+              <li> We won't sell or give away your name, mail address, phone number, 
+                email address, credit card number or any other information to 
+                anyone. </li><li>We'll use the latest security measures to protect your information from unauthorized users. 
+</li>
+            </ul>
+            <p><strong>NOTICE </strong></p>
+            <p> We will ask you when we need information that personally identifies 
+              you (personal information) or allows us to contact you. Generally 
+              this information is requested when you purchase our software packages. 
+              We use your Personal Information for four primary purposes:</p>
+            <ul>
+              
+              <li>To process and activate your order </li>
+              <br>
+              <li>To identify you</li>
+              <li>To help us support you and/or your Business. </li>
+              <li>To alert you to product upgrades, special offers, updated information 
+                and other new services from PHP Pro Bid. </li>
+            </ul>
+            <p><strong>ACCESS</strong></p>
+            <p></p>
+            <p>We will provide you with the means to ensure that your personal 
+              information is correct and current. You may review and update this 
+              information at any time at the client area. There, you can view 
+              and edit personal information you have already given us. </p>
 </div>
-
-
-
+      </td>
+  </tr>
+</tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<div><img src="imgs/pixel.gif" width="1" height="2"></div> 
+<table width="100%" border="0" cellpadding="4" cellspacing="0">
+  <tbody><tr valign="top" bgcolor="#3A74AE"> 
+    <td width="50%" valign="middle" class="fooblue">Copyright ©2005 PHP Pro Bid </td>
+    <td valign="middle" class="fooblue">
+    <div align="right">
+    <a href="tos.php">Terms of Service</a> | 
+    <a href="privacy.php">Privacy</a></div>
+    </td>
+  </tr>
+  </tbody></table>
+  <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr valign="top"> 
+    <td colspan="2" class="foogray"> <div align="center" style="padding: 5px;">
+    <a href="auction-software-features.php">Software Features</a> | 
+    <a href="auction-script-requirements.php">Script Requirements</a> | 
+    <a href="http://www.phpprobid.com/auction-software-demo/" target="_blank">Auction Software Demo</a> | 
+    <a href="pricing.php">Pricing</a> | 
+    <a href="https://www.phpprobid.com/order.php">Order</a> </div>
+    <b>
+    </b><div align="center"><b><font color="#555555">VAT Registered Number - GB 848 257296</font></b></div></td>
+  </tr>
+</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
 
 
 
