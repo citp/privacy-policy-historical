@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billmelater.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507151620id_/http%3A//www.bill-me-later.com/wss/help/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billmelater.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217220810id_/http%3A//www.bill-me-later.com/wss/help/privacy.do) for the most accurate reproduction.*
 
 # Bill Me Later
 
@@ -25,7 +25,7 @@ As the Internet and information technology enable us to expand our services, we 
 |  |   
 |  | 
 
-This Policy explains what Chase Manhattan Bank USA, N. A., ("Chase") does to keep information about you private and secure. We want you to know how we manage that information to serve you. This Policy covers only your Bill Me Later Account relationship with Chase. Please read this Policy carefully; if you have another customer relationship with Chase, the Policy governing that relationship may be different. 
+This Policy explains what Chase Bank USA, N.A., ("Chase") does to keep information about you private and secure. We want you to know how we manage that information to serve you. This Policy covers only your Bill Me Later Account relationship with Chase. Please read this Policy carefully; if you have another customer relationship with Chase, the Policy governing that relationship may be different. 
 
 **Q. What information do you have about me?** A. To provide services and to help meet your needs, we collect information about you from various sources.
 
@@ -88,7 +88,7 @@ In order to comply with California law, the following applies if your account ha
 
 **Q. Who is covered by this Policy?  
 **  
-A. This Policy covers the Chase Manhattan Bank USA, National Association. 
+A. This Policy covers the Chase Bank USA, N.A.
 
 **Q. Which of my account relationships with Chase are covered by this Policy?**
 
