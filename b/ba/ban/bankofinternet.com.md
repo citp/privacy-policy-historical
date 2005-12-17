@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2005-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050215203605id_/http%3A//www.bankofinternet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218000020id_/http%3A//www.bankofinternet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,8 +63,9 @@ The statement contains important information that we are required by law to prov
 >  Write to us at:   
 >  Bank of Internet USA
 
-> **Corporate Headquarters** 12220 El Camino Real  
->  Suite 220  
+> **Corporate Headquarters**  
+>  12777 High Bluff Drive  
+>  Suite 100  
 >  San Diego, CA 92130
 
 **What records will you provide to me electronically?**
