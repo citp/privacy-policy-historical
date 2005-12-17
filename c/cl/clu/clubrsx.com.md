@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205215852id_/http%3A//corp.clubrsx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217121933id_/http%3A//corp.clubrsx.com/privacy.html) for the most accurate reproduction.*
 
 # Club RSX | Corporate | Privacy Policy
 
 |    
-[> Corporate - Home](https://web.archive.org/web/20050205215852id_/http%3A//corp.clubrsx.com/index.html)  
+[> Corporate - Home](https://web.archive.org/web/20051217121933id_/http%3A//corp.clubrsx.com/index.html)  
   
 |  |    
 Club RSX Privacy PolicyThe following states the Club RSX.com policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure online shopping experience. 
