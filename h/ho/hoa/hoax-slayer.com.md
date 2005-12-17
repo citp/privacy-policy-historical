@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoax-slayer.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507034917id_/http%3A//www.hoax-slayer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoax-slayer.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218000918id_/http%3A//www.hoax-slayer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,11 +31,4 @@ Like many other webmasters, I use a service that records raw statistical informa
 
 The Hoax-Slayer Newsletter and website uses advertising to generate revenue. I would never knowingly include advertisements that promote fraudulent products or companies. However, it should be understood that I am in no way responsible for the conduct or reliability of advertisers.
 
-As an Internet user, online privacy is an important issue for me, in respect to both my privacy and yours. If you have any concerns, comments, or questions regarding this Privacy Policy, please contact me using the form below:
-
-* * *
-
-**Privacy Policy Questions or Comments**
-
-  
-
+As an Internet user, online privacy is an important issue for me, in respect to both my privacy and yours. If you have any concerns, comments, or questions regarding this Privacy Policy, please email me via the [Hoax-Slayer Contact Form](http://www.hoax-slayer.com/submit-material.html).
