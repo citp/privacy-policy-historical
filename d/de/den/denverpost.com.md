@@ -1,164 +1,62 @@
-> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403114535id_/http%3A//www.denverpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217112956id_/http%3A//www.denverpost.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D36) for the most accurate reproduction.*
 
-# DenverPost.com - PRIVACY POLICY
+# Privacy Policy
 
-| [NEWS](https://web.archive.org/Stories/0,1413,36%257E53%257E,00.html)  
----  
-[BLOGHOUSE](https://web.archive.org/Stories/0,1413,36%257E29077%257E,00.html)  
-[BUSINESS](https://web.archive.org/Stories/0,1413,36%257E33%257E,00.html)  
-[COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E57%257E,00.html)  
-[FRONT PAGE](https://web.archive.org/Stories/0,1413,36%257E23827%257E,00.html)  
-[LOCAL NEWS](https://web.archive.org/Stories/0,1413,36%257E53%257E,00.html)  
-[NATION/WORLD](https://web.archive.org/Stories/0,1413,36%257E11676%257E,00.html)  
-[OBITUARIES](https://web.archive.org/Stories/0,1413,36%257E11777%257E,00.html)  
-[POLITICS](https://web.archive.org/Stories/0,1413,36%257E33980%257E,00.html)  
-[SPECIAL REPORTS](https://web.archive.org/Stories/0,1413,36%257E28977%257E,00.html)  
-[WEATHER](http://wp.myweather.net/wp/?pub=denv068352&page=main&loc=kapa)  
-    
-[FEATURES](https://web.archive.org/Stories/0,1413,36%257E28996%257E,00.html)  
-[BOOKS](https://web.archive.org/Stories/0,1413,36%257E26%257E,00.html)  
-[COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E31551%257E,00.html)  
-[ENTERTAINMENT](https://web.archive.org/Stories/0,1413,36%257E78%257E,00.html)  
-[FOOD / DINING](https://web.archive.org/Stories/0,1413,36%257E40%257E,00.html)  
-[COMICS](https://web.archive.org/Stories/0,1413,36%257E81%257E,00.html)  
-[HEALTH](http://denverpost.healthology.com/)  
-[LIFESTYLES](https://web.archive.org/Stories/0,1413,36%257E45%257E,00.html)  
-[MOVIES](https://web.archive.org/Stories/0,1413,36%257E82%257E,00.html)  
-[TRAVEL - NEW!](https://web.archive.org/Stories/0,1413,36%257E34103%257E,00.html)  
-[TV LISTINGS](http://tvlistings.zap2it.com/partners/index.asp?partner_id=dpo)  
-    
-[OPINION](https://web.archive.org/Stories/0,1413,36%257E73%257E,00.html)  
-[COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E74%257E,00.html)  
-[EDITORIALS](https://web.archive.org/Stories/0,1413,36%257E417%257E,00.html)  
-[LETTERS](https://web.archive.org/Stories/0,1413,36%257E416%257E,00.html)  
-[PERSPECTIVE](https://web.archive.org/Stories/0,1413,36%257E75%257E,00.html)  
-[KEEFE CARTOON](https://web.archive.org/Stories/0,1413,36%257E161%257E,00.html)  
-[MESSAGE BOARDS](https://web.archive.org/Stories/0,1413,36%257E31036%257E,00.html)  
-    
-[SPORTS](https://web.archive.org/Stories/0,1413,36%257E76%257E,00.html)  
-[AVALANCHE / NHL](https://web.archive.org/Stories/0,1413,36%257E84%257E,00.html)  
-[BRONCOS / NFL](https://web.archive.org/Stories/0,1413,36%257E86%257E,00.html)  
-[COLLEGES](https://web.archive.org/Stories/0,1413,36%257E87%257E,00.html)  
-[COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E101%257E,00.html)  
-[CRUSH / AFL](https://web.archive.org/Stories/0,1413,36%257E25796%257E,00.html)  
-[EXTREMES](https://web.archive.org/Stories/0,1413,36%257E34423%257E,00.html)  
-[NUGGETS / NBA](https://web.archive.org/Stories/0,1413,36%257E90%257E,00.html)  
-[PREPS](https://web.archive.org/Stories/0,1413,36%257E92%257E,00.html)  
-[RAPIDS / MLS](https://web.archive.org/Stories/0,1413,36%257E94%257E,00.html)  
-[ROCKIES / MLB](https://web.archive.org/Stories/0,1413,36%257E96%257E,00.html)  
-[SNOW SPORTS](https://web.archive.org/Stories/0,1413,36%257E97%257E,00.html)  
-[SCORES](http://www.sportsnetwork.com/default.asp?c=denverpost&page=regional/scores/live/denverpost.htm)  
-[OTHER SPORTS](https://web.archive.org/Stories/0,1413,36%257E93%257E,00.html)  
-    
-[SERVICES](https://web.archive.org/Stories/0,1413,36%257E22%257E,00.html)  
-[RIDE THE ROCKIES](http://www.ridetherockies.com/)  
-[ARCHIVES](https://web.archive.org/Stories/0,1413,36%257E25%257E,00.html)  
-[POST INTERNSHIPS](https://web.archive.org/Stories/0,1413,36%257E201%257E,00.html)  
-[ABOUT US/HELP](https://web.archive.org/Stories/0,1413,36%257E22%257E,00.html)  
-[CONTACT US](https://web.archive.org/Stories/0,1413,36%257E39%257E,00.html)  
-[E-MAIL NEWS](https://web.archive.org/Stories/0,1413,36%257E183%257E,00.html)  
-[SCORE](http://www.postnewsscore.com/)  
-[SUBSCRIBE](https://www.securepostnews.com/subscribe/default.asp?source=dpo)  
-    
-[ADVERTISING](http://www.post-newsmarketplace.com/)  
-[AUTOS ](http://www.postnewsautos.com/)  
-[FANTASY SPORTS](http://sportsbuff.com/partner.asp?pname=denverpost)  
-[HOMES ](http://www.postnewsrealestate.com/)  
-[JOBS](http://www.postnewsjobs.com/)  
-[MARKETPLACE](http://www.post-newsmarketplace.com/)  
-[MEMORIALS](http://www.legacy.com/denver)  
-[NEWSPAPER ADS](http://www.post-newsadsearch.com/)  
-[PERSONALS](http://www.denversingles.com/r.asp?B=297&A=20&Task=Click)  
-[WEDDINGS](http://www.post-newscelebrations.com/)  
-[YELLOW PAGES](http://www.postnewsyellowpages.com/)  
-    
-[HOME](https://web.archive.org/Stories/0,1413,36%257E11%257E,00.html)  
-[ETHICS POLICY](https://web.archive.org/Stories/0,1413,36%257E31313%257E,00.html)  
-  
-  |   | 
+PRIVACY POLICY 
 
-Privacy Policy
+/ 
 
-The Denver Post Corp. is committed to protecting the privacy of our customers. The following statement discloses our information gathering and dissemination practices for the denverpost.com Web site.
+strives to offer our site visitors a high quality, interactive and personalized experience. The following sets forth the web site information gathering and dissemination practices of . This statement does not apply to third party web sites, or to companies and persons that are not controlled, affiliated with or managed by . By using this site, you consent to the collection and use of your information as indicated in this policy and to the other terms of this policy. If you do not agree to the terms of this privacy policy, please do not use this site. It is important to note that this policy applies only to information collected by and does not apply to information obtained or used by or its affiliates through other means. 
 
-**
+collects information in several ways. Some personal information is automatically collected through server log files, cookies and page requests, including, but not limited to the domain and host from which you access the Internet, the Internet Protocol address of your computer, the browser software and operating system you are using, your geographic location, the time and date you accessed the site and the Internet address you visited prior to visiting the site. 
 
-What personally identifiable information does DenverPost.com collect from me?
+Personally identifiable information is collected when you submit such information to , when you download or use software, use services or purchase products or services from our web site. For example, personally identifiable information is gathered when you enter a contest or promotion, request vacation delivery stop, or post an online ad. The personally identifiable information collected includes, but is not limited to, name, company, e-mail address, street address, zip code, phone numbers and social security numbers and other information that permits contacting of an individual. 
 
-**
+Access to the majority of content, services and features on requires users to become registered members. Member registration requires you to provide certain Personally identifiable information, such as your name, e-mail address, street address, gender, and date of birth. You will be asked to select a member name and password so that you have access to this information and can revise it in the future. To complete the registration process, we will send you a validation e-mail message. You must click the link in the e-mail to fully activate your membership account. You will also have the opportunity to subscribe to e-mail newsletters and alerts and elect to receive e-mail offers sent to you on behalf of advertisers. Some features and services may require additional Personally identifiable information or other demographic information. We may collect other personal information when you provide feedback, comments, engage in chat, message boards, interactive forums or participate in surveys, or if you contact us offline. For example, when you enter contests you will be asked to also provide your phone number so that we can reach you in the event you've won a prize. All users may decline to share such information with us by choosing not to register on the Web site or use our services. Only registered members, however, may access certain content, services and features. 
 
-DenverPost.com collects information in several ways. Some information is gathered through server log files and from code embedded in DenverPost.com pages that records the browser preferences and settings of readers' computers. Various types of personal information are gathered when you enter a contest or promotion, sign up for a discussion group, request vacation delivery stop, or when you post an online ad. During these instances, DenverPost.com asks for information such as your name, e-mail address, street address, zip code, phone number, subscriber status, and credit card number. We may also ask you for other information at other times. Whenever we collect information about you, we will make an effort to link to our privacy policy.
+If you wish to forward an article to a friend, we will ask that you provide your friend's name and e-mail address. While we collect statistics on which articles are forwarded, we do not sell, rent, or market your friend's personal information, and retain the information only as long as necessary to provide this service. 
 
-**
+Aggregate information may be used to help diagnose problems with our services and site, to administer our web site and to study and report site usage and user demographics. Aggregate data may be used by and its affiliated companies and may be shared with advertisers and business partners. Aggregate information is not linked to personally identifiable information. 
 
-How is my information used?
+Cookies are used to store and track information about you. A cookie is a small amount of data that is sent to your browser from a web service and stored on your computer's hard drive. Cookies are used to deliver targeted advertising based on your behavior and demographics and to track your entries in promotions and contests. Advertising networks that serve ads into our sites may also use cookies. 
 
-**
+When you provide personally identifiable information, you are sharing that information with and its affiliated companies. If you do not want to share your personally identifiable information, do not provide it or use the service that requires it. For example, promotions and contests require the collection of personally identifiable information that may be shared with third party sponsors and others. Collected information may be used for marketing and promotional purposes as well as account and web site management. may make chat rooms, forums, message boards, and/or news groups available to web site users. Some of these forums involve registration and the sharing of personally identifiable information. Any information that is disclosed in chat rooms, forums, message boards, and/or news groups becomes public information. You should exercise caution when deciding to disclose any personal information. 
 
-Our primary goal in collecting personal information is to provide you with a customized experience. DenverPost.com uses information collected from server log files, such as IP addresses, to help diagnose problems with our services, to administer our Web site, and to report and gather aggregate information about site usage and user demographics. DenverPost.com also uses code included on every page on our site to track the traffic on pages and compile information about users, such as paths through the site, browsers used, time spent on site, frequency of return visits, etc. This system does not garner any personal information about our readers, such as names. DenverPost.com may share aggregated data with advertisers or business partners.
+A user may indicate that he or she would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from and/or any third parties by notifying at [](mailto:). Notwithstanding any "opt-out" of promotional information by the user, reserves the right to contact a user regarding account status, changes to this policy, the terms of use, license agreements and other matters relevant to the use of the web site, services or software provided through the web site, and/or the information collected. 
 
-DenverPost.com also uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web service and stored on your computer's hard drive. DenverPost.com uses cookies to deliver targeted advertising based on your behavior or demographics and to track your number of entries in some of our promotions and contests. You can set your browser to refuse to accept cookies, but if you do, we will not be able to customize the DenverPost.com Web site's features according to your preferences. Advertising networks that serve ads into our site, such as Real Media or DoubleClick, may also use their own cookies. For more information about Real Media's use of cookies, visit _http://www.realmedia.com/privacy.html._ For more information about DoubleClick's use of cookies, visit _http://www. privacychoices.org_.
+While makes reasonable efforts to preserve user privacy, we may disclose personal information when required by law or when we have a reasonable belief that such action is necessary to comply with court orders, subpoenas or the legal process. We may disclose or share personal information, including, but not limited to personally identifiable information, if it is reasonably necessary for to protect its legal rights or defend legal claims, or if we reasonably believe that disclosure or sharing or such personal information is necessary in order to investigate, prevent or take action regarding illegal activities, breach of our terms of use or of license agreements. 
 
-**
+This statement and the policies outlined here are not intended to and do not create any contractual or other legal rights in or on behalf of any party. This privacy policy applies only to web sites owned or controlled by . Users should check the applicable privacy policies for any linked or other web sites. 
 
-With whom is my information shared?
+Upon request, will take reasonable efforts to delete or correct a user's personally identifiable information from its database. It may be impossible to delete a user's entry without retaining some residual information because of backups and records of deletions. Also, upon request, will provide to a user a copy of that user's personal information that was collected though its web site. To request such action, send an email to at [](mailto:). 
 
-**
+This privacy policy is effective as of December, 2004. reserves the right to change this policy at any time. 
 
-When you are on an area of DenverPost.com and are asked for personal information, you are sharing that information with The Denver Post Corp. and its related companies. If data is being collected and/or maintained by any other company, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
+may change this privacy policy from time to time. When we do, we will post the revised policy on the web site. Please check this page periodically for changes. 
 
-Promotions and contests that run on DenverPost.com may be sponsored by companies other than DenverPost.com or may be co-sponsored by DenverPost.com and another company. Some or all data collected during a promotion or contest may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion or contest if you don't want your data to be shared.
+Please feel free to contact us at at [](mailto:) with questions or comments regarding our privacy policy. 
 
-DenverPost.com makes chat rooms, forums, message boards, and/or news groups available to our users. Some of these forums require registration. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+CHILDREN'S PRIVACY POLICY 
 
-Aggregate information compiled by DenverPost.com may be shared with advertisers and business partners as well as used by The Denver Post Corp. and its related companies. 
+The following sets forth the web site information gathering and dissemination practices of relating to information collected from children. This statement does not apply to third party web sites, or to companies and persons that are not controlled, affiliated with or managed by . This privacy policy is effective as of December, 2004. may change this privacy policy from time to time. The revised policy will be posted on the web site. Please check this page periodically for changes. 
 
-We will disclose information we maintain when required to do so by law or pursuant to a legal proceeding, including without limitation, in response to a court order or a subpoena. We may also disclose such information in response to a law enforcement agency's request. ****
+does not ask children to disclose more personal information than is necessary for them to participate in a particular activity. We urge children to check with their parents before entering information on any web site and we urge parents to discuss with their children restrictions regarding the online release of personal information. limits its collection of information from children to what is known as non-personally identifiable information (e.g. first name, screen names, age, gender, city, state, zip code and country of residence). This information is collected so children can participate in activities (e.g. completing polls or online surveys, posting jokes, book reviews, movie reviews, toy reviews, video reviews, concert reviews, game reviews, artwork or questions/comments online, or playing online games) without giving unnecessary personal information. From time to time, however, we may request personally identifiable information (e.g. child's email address and/or parent's or guardian's email address), as explained below, in order to conduct online contests or sweepstakes or offer other online activities. does not and cannot condition a child's participation in any of our online activities on the disclosure of more information than is reasonably necessary to participate in the activity. Information is collected actively, such as through registration forms, and passively, such as through cookies. 
 
-**Linked Sites**
+occasionally offers contest and sweepstakes, which may be entered online. When a child under thirteen 13 enters a contest or sweepstakes, or participates in another activity that requires the use of personal information, we will ask for a parent's email address so that we can notify the parent of the child's entry and give the parent the option to have the child's entry deleted. All personally identifiable information collected by is securely maintained and used only for the purpose of conducting the contest or sweepstakes and awarding prizes. does not keep any personal information obtained through a contest or sweepstakes after the particular event is completed. Sometimes, we use agents or contractors to provide services that support the internal operations of the site, such as helping us conduct a sweepstakes or sending prizes to winners. In these cases, we require the agent or contractor to maintain the confidentiality, security and integrity of the information and limit use to the specific services they are performing on our behalf. 
 
- ****
+may disclose information maintained as required by law, for example, in response to a court order or a subpoena. may also disclose such information in response to a specific law enforcement agency's request. Personal information is not disclosed to third parties except those who provide support for the internal operations of the site. Parents can consent to the collection and use of their child's personal information without consenting to the disclosure of the information to third parties. 
 
-Please be aware that DenverPost.com's promotional partners, advertisers, sponsors, third-party Internet sites, and content providers accessible through DenverPost.com may have their own privacy and data collection policies and practices. DenverPost.com is not responsible for any actions or policies of such third parties. Users should check the applicable privacy policies of those third parties when providing personally identifiable information through co-sponsored, affiliated or linked sites.
+, MediaNews Group, Inc., and MediaNews Group Interactive, Inc. are the operators collecting information at this web site. Please send an email or letter to our Privacy Coordinator at the email or mailing address provided below if you would like to do any of the following: 
 
-**
+* Access personally identifiable information that has collected from your child, 
+* Correct factual errors in such information, 
+* Request to have this information deleted, or 
+* Request that we no longer collect or maintain such information from your child. 
 
-Children's Guidelines
+Please include your email address and telephone number where we can reach you. takes steps to verify the identity of anyone requesting information about a child to ensure that the person is in fact the child's parent or legal guardian. 
 
-**
+If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact the Privacy Coordinator using the contact information provided below. 
 
-The Newspaper in Education program is a free service for teachers that promotes the use of newspapers in the classroom. The Colorado Kids section is specifically directed at students in grades 6 to 12. Within the Colorado Kids section, the Help Wanted, Back Talk and Joke pages allow students to send questions, comments, stories, jokes, ideas and opinions to DenverPost.com via email. The information requested on these pages is used solely for participation in the particular activity, and is not stored or sold to third parties. If a question, comment, story, joke, idea or opinion is published, only the student's first name, grade and state/country appear on the site. Students are advised to consult with their parents before giving personal information online.
-
-**
-
-Policy Changes and Questions
-
-**
-
-DenverPost.com reserves the right to change this policy at any time. Please check this page periodically for changes. (The most recent change was made on January 28, 2004.)
-
-**For terms of use, please click[here](http://www.denverpost.com/terms.htm).**
-
-If you have any questions about this privacy policy, you can contact us at:
-
-DenverPost.com
-
-1560 Broadway
-
-Denver, Colorado 80202
-
-(303) 820-1557
-
-E-Mail: [rrisch@denverpost.com](mailto:rrisch@denverpost.com)
-
-|   
-  
----  
-[ ](http://www.postnewsads.com/quigo/landingPage.asp)  
-  
-[](http://www.denverpost.com/)
-
-All contents Copyright 2005 The Denver Post or other copyright holders. All rights reserved. This material may not be published, broadcast, rewritten or redistributed for any commercial purpose.
-
-**Go to Section**   
-  |   |  |   |   | 
+,      
+\--   
+Email: [](mailto:)
