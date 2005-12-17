@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coregmedia.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404055924id_/http%3A//www.coregmedia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coregmedia.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217123239id_/http%3A//coregmedia.com/privacy_policy.php) for the most accurate reproduction.*
 
-# CoregMedia - The Customer Acquisition and Lead Generation Network
+# Coregistrations | Coregistration | Co-registration | Co-registrations| CoregMedia
 
 ### CoregMedia Privacy Statement
 
