@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407144119id_/http%3A//www.mensnewsdaily.com/secondaries/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217203234id_/http%3A//mensnewsdaily.com/secondaries/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - MensNewsDaily.com™
 
