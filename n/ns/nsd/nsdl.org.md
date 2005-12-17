@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsdl.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403112839id_/http%3A//nsdl.org/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsdl.org privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217194825id_/http%3A//nsdl.org/help/privacy.php) for the most accurate reproduction.*
 
 # NSDL - The National Science Digital Library
 
