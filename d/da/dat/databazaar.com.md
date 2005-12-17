@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the databazaar.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403185210id_/http%3A//www.databazaar.com/Inkjet_Cartridge/UserTemplate/Privacy_Policy_97.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the databazaar.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217212710id_/http%3A//www.databazaar.com/Inkjet_Cartridge/UserTemplate/Privacy_Policy_97.html) for the most accurate reproduction.*
 
-# Databazaar.com - Ink and Toner Supplies, Privacy Policy
+# 
 
-Databazaar.com has created this privacy statement in order to demonstrate our firm commitment to privacy. Consumer WebWatch, a division of Consumer Reports, has named Databazaar as one of America’s 75 Praiseworthy e-commerce companies. **Databazaar.com supports the Consumer WebWatch guidelines to promote[credible information practices](http://www.consumerwebwatch.org/bestpractices/index.html) on the Web.** The following discloses our information gathering and dissemination practices for this website: Databazaar.com. 
+Databazaar.com has created this privacy statement in order to demonstrate our firm commitment to privacy. Consumer WebWatch, a division of Consumer Reports, has named Databazaar as one of America’s 75 Praiseworthy e-commerce companies. **Databazaar.com supports the Consumer WebWatch guidelines to promote credible information practices on the Web.** The following discloses our information gathering and dissemination practices for this website: Databazaar.com. 
 
 We track your IP address to help diagnose problems with our server, for fraud protection and to administer our Website. We use your browser's cookie functions to maintain one shopping session on our website and to customize and enhance your shopping experience. 
 
@@ -20,17 +20,18 @@ This website has extensive security measures in place to protect the loss, misus
 
 This website gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
+1\. Email: [support@databazaar.com](mailto:support@databazaar.com)  
+2\. Call: 1-877-848-7357 ( 9am – 5pm EST )
+
 **Correct/Update**
 
 This website gives users the following options for changing and modifying information previously provided. 
+
+1\. Email: [support@databazaar.com](mailto:support@databazaar.com)  
+2\. Call: 1-877-848-7357 ( 9am – 5pm EST ) 
 
 **Contacting the Website**
 
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this Website, you can contact 
 
-Oney Seal  
-Databazaar.com  
-12070 Miramar Parkway  
-Miramar, FL 33025  
-[oney@databazaar.com](mailto:oney@databazaar.com)  
-954-843-0483 x105 
+Oney Seal Databazaar.com 12070 Miramar Parkway Miramar, FL 33025 oney@databazaar.com 954-843-0483 x105 
