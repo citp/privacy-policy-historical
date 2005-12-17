@@ -1,9 +1,122 @@
-<!--The following is the downloaded HTML source of the codewalkers.com privacy policy that was archived on 2005-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050406092241id_/http%3A//codewalkers.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the codewalkers.com privacy policy that was archived on 2005-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217083802id_/http%3A//codewalkers.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
     <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
     <link rel="SHORTCUT ICON" href="http://codewalkers.com/favicon.ico">
+<link rel="stylesheet" href="/phplayersmenu/layersmenu-codewalkers.css" type="text/css">
+
+<script language="JavaScript" type="text/javascript">
+<!--
+// PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf('Konqueror') > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf('Konqueror 2.2') > -1 || navigator.userAgent.indexOf('Konqueror/2.2') > -1) ? 1 : 0;
+Konqueror30 =
+	(
+		navigator.userAgent.indexOf('Konqueror 3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3.0') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3;') > -1
+		|| navigator.userAgent.indexOf('Konqueror 3)') > -1
+		|| navigator.userAgent.indexOf('Konqueror/3)') > -1
+	)
+	? 1 : 0;
+Konqueror31 = (navigator.userAgent.indexOf('Konqueror 3.1') > -1 || navigator.userAgent.indexOf('Konqueror/3.1') > -1) ? 1 : 0;
+// We need to detect Konqueror 3.2 and 3.3 as they are affected by the see-through effect only for 2 form elements
+Konqueror32 = (navigator.userAgent.indexOf('Konqueror 3.2') > -1 || navigator.userAgent.indexOf('Konqueror/3.2') > -1) ? 1 : 0;
+Konqueror33 = (navigator.userAgent.indexOf('Konqueror 3.3') > -1 || navigator.userAgent.indexOf('Konqueror/3.3') > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf('Opera 5') > -1 || navigator.userAgent.indexOf('Opera/5') > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf('Opera 6') > -1 || navigator.userAgent.indexOf('Opera/6') > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf('MSIE') > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+// -->
+</script>
+<script language="JavaScript" type="text/javascript" src="/phplayersmenu/libjs/layersmenu-library.js"></script>
+<script language="JavaScript" type="text/javascript" src="/phplayersmenu/libjs/layersmenu.js"></script>
+
+<!-- beginning of menu header - PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/ -->
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+menuTopShift = 6;
+menuRightShift = 7;
+menuLeftShift = 2;
+
+var thresholdY = 5;
+var abscissaStep = 140;
+
+toBeHidden = new Array();
+toBeHiddenLeft = new Array();
+toBeHiddenTop = new Array();
+
+listl = ['L1','L9','L11','L15','L19','L25','L28','L32','L36'];
+var numl = listl.length;
+
+father = new Array();
+for (i=1; i<=38; i++) {
+	father['L' + i] = '';
+}
+father_keys = ['L2','L3','L4','L5','L6','L7','L8','L10','L11','L12','L13','L14','L15','L16','L17','L18','L19','L20','L21','L22','L23','L24','L26','L27','L29','L30','L31','L33','L34','L35','L37','L38'];
+father_vals = ['L1','L1','L1','L1','L1','L1','L1','L9','L9','L11','L11','L9','L9','L15','L15','L9','L9','L19','L19','L19','L19','L19','L25','L25','L28','L28','L28','L32','L32','L32','L36','L36'];
+for (i=0; i<father_keys.length; i++) {
+	father[father_keys[i]] = father_vals[i];
+}
+
+lwidth = new Array();
+var lwidthDetected = 0;
+
+function moveLayers()
+{
+	if (!lwidthDetected) {
+		for (i=0; i<numl; i++) {
+			lwidth[listl[i]] = getOffsetWidth(listl[i]);
+		}
+		lwidthDetected = 1;
+	}
+	if (IE4) {
+		for (i=0; i<numl; i++) {
+			setWidth(listl[i], abscissaStep);
+		}
+	}
+	var hormenu1TOP = getOffsetTop('hormenu1L1');
+	var hormenu1HEIGHT = getOffsetHeight('hormenu1L1');
+	setTop('L1', hormenu1TOP + hormenu1HEIGHT);
+	moveLayerX1('L1', 'hormenu1');
+	setTop('L9', hormenu1TOP + hormenu1HEIGHT);
+	moveLayerX1('L9', 'hormenu1');
+	setTop('L25', hormenu1TOP + hormenu1HEIGHT);
+	moveLayerX1('L25', 'hormenu1');
+	setTop('L28', hormenu1TOP + hormenu1HEIGHT);
+	moveLayerX1('L28', 'hormenu1');
+	setTop('L32', hormenu1TOP + hormenu1HEIGHT);
+	moveLayerX1('L32', 'hormenu1');
+	setTop('L36', hormenu1TOP + hormenu1HEIGHT);
+	moveLayerX1('L36', 'hormenu1');
+
+}
+
+back = new Array();
+for (i=1; i<=38; i++) {
+	back['L' + i] = 0;
+}
+
+// -->
+</script>
+
+<!-- end of menu header - PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/ -->
 <link rel="stylesheet" type="text/css" href="/css/standard.css">
 <title>codewalkers.com - php - PHP Help</title>
 <meta name="description" content="codewalkers.com is a web site aimed at teaching the masses about PHP and mySQL.">
@@ -13,7 +126,7 @@
 </head>
 <body alink="#000099" vlink="#990099" link="#000099" style="color: rgb(0, 0, 0); background-color: rgb(222, 223, 181); font-family: arial, 'lucida console', sans-serif;">
 <!-- Begin AD Code -->
-<center><a href="http://codewalkers.com/ads/adclick.php?bannerid=86&amp;zoneid=8&amp;source=&amp;dest=http%3A%2F%2FeChristianWebHosting.com%2F" target="_blank" onmouseover="self.status='Christian Web Hosting'; return true;" onmouseout="self.status='';return true;"><img src="http://codewalkers.com/ads/adimage.php?filename=banner2_728.gif&amp;contenttype=gif" width="728" height="90" alt="Christian Web Hosting" title="Christian Web Hosting" border="0"></a><img src="http://codewalkers.com/ads/adlog.php?bannerid=86&amp;clientid=74&amp;zoneid=8&amp;source=&amp;block=0&amp;capping=0&amp;cb=ce0aa965aafb7fbc9b8abbbfa5990589" width="0" height="0" alt="" style="width: 0px; height: 0px;"><br><font size="-2">(If you were logged in this banner wouldn't be here)</font>
+<center><a href="http://codewalkers.com/ads/adclick.php?bannerid=86&amp;zoneid=8&amp;source=&amp;dest=http%3A%2F%2FeChristianWebHosting.com%2F" target="_blank" onmouseover="self.status='Christian Web Hosting'; return true;" onmouseout="self.status='';return true;"><img src="http://codewalkers.com/ads/adimage.php?filename=banner2_728.gif&amp;contenttype=gif" width="728" height="90" alt="Christian Web Hosting" title="Christian Web Hosting" border="0"></a><img src="http://codewalkers.com/ads/adlog.php?bannerid=86&amp;clientid=74&amp;zoneid=8&amp;source=&amp;block=0&amp;capping=0&amp;cb=5ff66221aedb0ba084a36cae936043c7" width="0" height="0" alt="" style="width: 0px; height: 0px;"><br><font size="-2">(If you were logged in this banner wouldn't be here)</font>
 </center>
 <!-- End AD Code -->
 
@@ -46,16 +159,53 @@
         
 <!-- Begin Navigation Code -->
         <tr align="center">
-            <td style="background-color: rgb(225, 225, 225);" id="tabs">
-                <a href="http://codewalkers.com/tutorials.php">Tutorials</a>
-                <a href="http://codewalkers.com/forum/index.php">Forums</a>
-                <a href="http://codewalkers.com/code.php">PHP Code</a>
-                <a href="http://codewalkers.com/php-contest.php">Coding Contest</a>
-                <a href="http://codewalkers.com/faq.php">PHP FAQ</a>
-                <a href="http://codewalkers.com/links.php">Links</a>
-                <a href="http://codewalkers.com/reviews.php">Reviews</a>
-                <a href="http://phphosts.codewalkers.com/">PHP Host Dir</a>
-                <a href="http://codewalkers.com/aboutus.php">About Us</a>
+            <td style="background-color: rgb(225, 225, 225);">
+<!-- beginning of horizontal menu bar -->
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td>
+<div class="horbar">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td>
+<div id="hormenu1L1" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<a href="/" onmouseover="moveLayerX1('L1', 'hormenu1') ; LMPopUp('L1', false);" title="Codewalkers"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Codewalkers&nbsp;<img src="/phplayersmenu/menuimages/down-arrow.png" width="9" height="5" border="0" alt=">>">&nbsp;&nbsp;&nbsp;</a>
+</div>
+</td>
+<td>
+<div id="hormenu1L9" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<a href="#" onmouseover="moveLayerX1('L9', 'hormenu1') ; LMPopUp('L9', false);" title="PHP"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PHP&nbsp;<img src="/phplayersmenu/menuimages/down-arrow.png" width="9" height="5" border="0" alt=">>">&nbsp;&nbsp;&nbsp;</a>
+</div>
+</td>
+<td>
+<div id="hormenu1L25" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<a href="#" onmouseover="moveLayerX1('L25', 'hormenu1') ; LMPopUp('L25', false);" title="PEAR"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PEAR&nbsp;<img src="/phplayersmenu/menuimages/down-arrow.png" width="9" height="5" border="0" alt=">>">&nbsp;&nbsp;&nbsp;</a>
+</div>
+</td>
+<td>
+<div id="hormenu1L28" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<a href="#" onmouseover="moveLayerX1('L28', 'hormenu1') ; LMPopUp('L28', false);" title="Databases"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Databases&nbsp;<img src="/phplayersmenu/menuimages/down-arrow.png" width="9" height="5" border="0" alt=">>">&nbsp;&nbsp;&nbsp;</a>
+</div>
+</td>
+<td>
+<div id="hormenu1L32" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<a href="#" onmouseover="moveLayerX1('L32', 'hormenu1') ; LMPopUp('L32', false);" title="System Admin"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">System Admin&nbsp;<img src="/phplayersmenu/menuimages/down-arrow.png" width="9" height="5" border="0" alt=">>">&nbsp;&nbsp;&nbsp;</a>
+</div>
+</td>
+<td>
+<div id="hormenu1L36" class="horbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<a href="#" onmouseover="moveLayerX1('L36', 'hormenu1') ; LMPopUp('L36', false);" title="PHP Coding Contest"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Coding Contest&nbsp;<img src="/phplayersmenu/menuimages/down-arrow.png" width="9" height="5" border="0" alt=">>">&nbsp;&nbsp;&nbsp;</a>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+</td>
+</tr>
+</tbody></table>
+
+<!-- end of horizontal menu bar -->
             </td>
         </tr>
 <!-- End Navigation Code -->
@@ -140,6 +290,7 @@ google_color_text = "000000";
         <font size="-1">
 <a href="http://codewalkers.com/code.rdf">Code</a><br>
 <a href="http://codewalkers.com/forum.rdf">Forum</a><br>
+<a href="http://codewalkers.com/news.rdf">News</a><br>
 <a href="http://codewalkers.com/reviews.rdf">Reviews</a><br>
 <a href="http://codewalkers.com/tutorials.rdf">Tutorials</a><br>
         </font>
@@ -156,8 +307,8 @@ google_color_text = "000000";
     <tr>
         <td valign="top" style="background-color: rgb(225, 225, 225);">
         <font size="-1">
-There are currently 82 guests and 3 members online.<br>
-<br>Members online: <a name="Gubbins" title="Checking out the forum"><b>Gubbins</b></a>, <a name="TeKKeD" title="Checking out the forum"><b>TeKKeD</b></a>, <a name="solid_snake678" title="Looking at a script"><b>solid_snake678</b></a><br><br>Hover your mouse over a member's name to see where they are.
+There are currently 47 guests and 1 member online.<br>
+<br>Members online: <a name="siftersam" title="Checking out the forum"><b>siftersam</b></a><br><br>Hover your mouse over a member's name to see where they are.
         </font>
         </td>
     </tr>
@@ -176,6 +327,8 @@ There are currently 82 guests and 3 members online.<br>
 <a href="http://www.eChristianWebHosting.com/">Christian Web Hosting</a><br><br>
 <a href="http://www.oxyscripts.com" target="_blank">OxyScripts.com</a>
 <br><br>
+<a href="http://www.php-editors.com" target="_blank">PHP Editor and IDE</a>
+<br><br>
 <a href="http://www.weberdev.com" target="_blank">Weberdev.com</a>
 <br><br>
 <a href="http://www.phpfreaks.com" target="_blank">PHP Freaks</a>
@@ -186,8 +339,8 @@ There are currently 82 guests and 3 members online.<br>
 <br><br>
 <a href="http://www.weberblog.com/" target="_blank">WeberBlog</a>
 <br><br>
-<a href="http://codewalkers.com/ads/adclick.php?bannerid=2&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fcodewalkers.partners.phpclasses.org" target="_blank" onmouseover="self.status='Free Web components in the form of PHP Classes'; return true;" onmouseout="self.status='';return true;"><img src="http://codewalkers.com/ads/adimage.php?filename=phpclassesminibanner.gif&amp;contenttype=gif" width="120" height="60" alt="Free Web components in the form of PHP Classes" title="Free Web components in the form of PHP Classes" border="0"></a><img src="http://codewalkers.com/ads/adlog.php?bannerid=2&amp;clientid=4&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=fc077dbc2272bcdc692b47a93d8234ab" width="0" height="0" alt="" style="width: 0px; height: 0px;"><br><br>
-<a href="http://codewalkers.com/ads/adclick.php?bannerid=50&amp;zoneid=10&amp;source=&amp;dest=http%3A%2F%2Fwww.phparch.com%2F" target="_blank"><img src="http://codewalkers.com/ads/adimage.php?filename=phpa_135.gif&amp;contenttype=gif" width="135" height="155" alt="php magazine" title="php magazine" border="0"></a><img src="http://codewalkers.com/ads/adlog.php?bannerid=50&amp;clientid=38&amp;zoneid=10&amp;source=&amp;block=0&amp;capping=0&amp;cb=57fe33f592473ada9e55e4b99162ec4e" width="0" height="0" alt="" style="width: 0px; height: 0px;"></center>
+<a href="http://codewalkers.com/ads/adclick.php?bannerid=2&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fcodewalkers.partners.phpclasses.org" target="_blank" onmouseover="self.status='Free Web components in the form of PHP Classes'; return true;" onmouseout="self.status='';return true;"><img src="http://codewalkers.com/ads/adimage.php?filename=phpclassesminibanner.gif&amp;contenttype=gif" width="120" height="60" alt="Free Web components in the form of PHP Classes" title="Free Web components in the form of PHP Classes" border="0"></a><img src="http://codewalkers.com/ads/adlog.php?bannerid=2&amp;clientid=4&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=bc81be44a3a3bb1100edd05121762147" width="0" height="0" alt="" style="width: 0px; height: 0px;"><br><br>
+<a href="http://codewalkers.com/ads/adclick.php?bannerid=50&amp;zoneid=10&amp;source=&amp;dest=http%3A%2F%2Fwww.phparch.com%2F" target="_blank"><img src="http://codewalkers.com/ads/adimage.php?filename=phpa_135.gif&amp;contenttype=gif" width="135" height="155" alt="php magazine" title="php magazine" border="0"></a><img src="http://codewalkers.com/ads/adlog.php?bannerid=50&amp;clientid=38&amp;zoneid=10&amp;source=&amp;block=0&amp;capping=0&amp;cb=1ad146cf8ea5695ba4a62a63a6af825a" width="0" height="0" alt="" style="width: 0px; height: 0px;"></center>
         </font>
         </td>
     </tr>
@@ -217,7 +370,7 @@ There are currently 82 guests and 3 members online.<br>
                         </td>
                         <td valign="top" width="20%">
                             <!-- Begin Right Sidebar Code -->
-<center><a href="http://www.hostindex.com/tracking/track.asp?ListID=107" target="_blank"><img src="/images/hostindex_p1_120x120.gif" border="0" alt="Hosting Offer"></a></center><br>
+<center><a href="http://www.hostindex.com/tracking/track.asp?ListID=107" target="_blank"><img src="/images/hostindex_120x120_codewalkers_b.gif" border="0" alt="Hosting Offer"></a></center><br>
 <table cellpadding="3" cellspacing="0" border="1" width="100%">
     <tbody><tr>
         <td style="background-color: rgb(121, 0, 0); white-space: nowrap;">
@@ -228,19 +381,37 @@ There are currently 82 guests and 3 members online.<br>
         <td valign="top" style="background-color: rgb(225, 225, 225);">
         <font size="-1">
 <b>Links</b><br>
+<a href="/links.php?id=42" target="_blank">php.codefetch.com</a><br>
+<a href="/links.php?id=41" target="_blank">Happy Codings</a><br>
 <a href="/links.php?id=40" target="_blank">Hotscripts</a><br>
-<a href="/links.php?id=37" target="_blank">Apps of the Web</a><br>
-<a href="/links.php?id=36" target="_blank">Name Pros</a><br>
 <hr>
 <b>Tutorials</b><br>
-<a href="/tutorials/87/1.html">Smart Auto Refresh</a><br>
-<a href="/tutorials/86/1.html">Adding Mail with Exim</a><br>
-<a href="/tutorials/85/1.html">The Postal Fix - Part 1</a><br>
+<a href="/tutorials/93/1.html">Intro to Databases</a><br>
+<a href="/tutorials/92/1.html">Adding a Poll to Your Web Site</a><br>
+<a href="/tutorials/90/1.html">Sending SMS Thru HTTP</a><br>
 <hr>
 <b>Code</b><br>
-<a href="/seecode/539.html">Wedit</a><br>
-<a href="/seecode/538.html">Smtp Auth Email Script</a><br>
-<a href="/seecode/537.html">Text Based Counter that f...</a><br>
+<a href="/seecode/592.html">deeMySQLParser</a><br>
+<a href="/seecode/589.html">Table generation class</a><br>
+<a href="/seecode/588.html">CountryList</a><br>
+        </font>
+        </td>
+    </tr>
+</tbody></table>
+<br>
+<table cellpadding="3" cellspacing="0" border="1" width="100%">
+    <tbody><tr>
+        <td style="background-color: rgb(121, 0, 0); white-space: nowrap;">
+            <span style="color: rgb(255, 255, 255);">Featured Book Review</span>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" style="background-color: rgb(225, 225, 225);">
+        <font size="-1">
+<center>Check out the <a href="/reviews.php?r=38">review of this book</a>.<br><hr>
+<a href="/reviews.php?r=38"><img src="http://codewalkers.com/images/059600656X.01._AA_SCMZZZZZZZ_.jpg" border="0"></a><br><br>
+<a href="/reviews.php?r=38">Essential PHP Security</a>
+</center>
         </font>
         </td>
     </tr>
@@ -275,9 +446,11 @@ There are currently 82 guests and 3 members online.<br>
         <td valign="top" style="background-color: rgb(225, 225, 225);">
         <font size="-1">
 <center>
-The resorts of <a href="http://www.iwantapropertyinspain.uk.com/developments-polaris.php">Murcia Developments</a> offer a dream lifestyle, with every need catered for, in a prime untouched location in the region of Costa Calida, Murcia.
+Iwantapropertyinspain.com is a single source of free information about <a href="http://www.iwantapropertyinspain.uk.com">real estate spain</a> giving you helpful advice on the best way to secure your dream home.
 <br><br>
 <a href="http://www.lightningservers.net" target="_blank">php web hosting</a><br><br>
+<a href="http://www.omnis.com" target="_blank">Web Hosting</a><br><br>
+<a href="http://www.ratemyhost.com" target="_blank">Cheap web hosting</a><br><br>
 </center>
         </font>
         </td>
@@ -320,5 +493,211 @@ The resorts of <a href="http://www.iwantapropertyinspain.uk.com/developments-pol
         <p><font size="-2"><span style="font-style: italic; text-decoration: underline;">codewalker</span> /n./ A program component that traverses other programs for a living. Compilers have codewalkers in their front ends; so do cross-reference generators and some database front ends. Other utility programs that try to do too much with source code may turn into codewalkers. As in "This new `vgrind' feature would require a codewalker to implement."</font></p>
         <p><font size="-2">All content on codewalkers.com is copyrighted by Matt Wade unless otherwise stated. All code is submitted by users of this website and is copyrighted however they see fit. See our <a href="/privacy.php">Privacy Policy</a>. <a href="/archives.php">forum archives</a>. <a href="/phpcode.php">php code list</a>.</font></p>
     </div>
+<!-- beginning of menu footer - PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/ -->
+
+
+<div id="L1" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td nowrap="nowrap">
+<div class="subframe">
+<div id="refL2" class="item">
+<a href="/aboutus.php" onmouseover="LMPopUp('L1', true);" title="About Us"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">About Us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL3" class="item">
+<a href="/linktous.php" onmouseover="LMPopUp('L1', true);" title="Link to Codewalkers"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Link To Us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL4" class="item">
+<a href="/" onmouseover="LMPopUp('L1', true);" title="News"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">News&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL5" class="item">
+<a href="/forum/index.php" onmouseover="LMPopUp('L1', true);" title="Forums"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">All Forums&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL6" class="item">
+<a href="/reviews.php" onmouseover="LMPopUp('L1', true);" title="Reviews"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">All Reviews&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL7" class="item">
+<a href="/tutorials.php" onmouseover="LMPopUp('L1', true);" title="Tutorials"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">All Tutorials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL8" class="item">
+<a href="/links.php" onmouseover="LMPopUp('L1', true);" title="Link Directory"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Link Directory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="L9" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td nowrap="nowrap">
+<div class="subframe">
+<div id="refL10" class="item">
+<a href="/code.php" onmouseover="LMPopUp('L9', true);" title="PHP Code Gallery"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Code Gallery&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL11" class="item">
+<a href="/forum/index.php" onmouseover="moveLayerX('L11') ; moveLayerY('L11') ; LMPopUp('L11', false);" title="PHP Forums"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Forums&nbsp;<img class="fwdarr" src="/phplayersmenu/menuimages/forward-arrow.png" width="4" height="7" border="0" alt=">>">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL14" class="item">
+<a href="/faq.php" onmouseover="LMPopUp('L9', true);" title="PHP FAQ"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">FAQ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL15" class="item">
+<a href="/reviews.php" onmouseover="moveLayerX('L15') ; moveLayerY('L15') ; LMPopUp('L15', false);" title="PHP Reviews"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Reviews&nbsp;<img class="fwdarr" src="/phplayersmenu/menuimages/forward-arrow.png" width="4" height="7" border="0" alt=">>">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL18" class="item">
+<a href="http://phphosts.codewalkers.com/" onmouseover="LMPopUp('L9', true);" title="PHP Host Directory"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PHP Host Directory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL19" class="item">
+<a href="/tutorials.php" onmouseover="moveLayerX('L19') ; moveLayerY('L19') ; LMPopUp('L19', false);" title="PHP Tutorials"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Tutorials&nbsp;<img class="fwdarr" src="/phplayersmenu/menuimages/forward-arrow.png" width="4" height="7" border="0" alt=">>">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="L11" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td nowrap="nowrap">
+<div class="subframe">
+<div id="refL12" class="item">
+<a href="/forum/index.php?forum=phpcoding" onmouseover="LMPopUp('L11', true);" title="PHP Coding"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PHP Coding&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL13" class="item">
+<a href="/forum/index.php?forum=phphelp" onmouseover="LMPopUp('L11', true);" title="PHP Installation"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PHP Installation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="L15" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td nowrap="nowrap">
+<div class="subframe">
+<div id="refL16" class="item">
+<a href="/reviews.php?c=2" onmouseover="LMPopUp('L15', true);" title="PHP Books"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PHP Books&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL17" class="item">
+<a href="/reviews.php?c=5" onmouseover="LMPopUp('L15', true);" title="PHP Software"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">PHP Software&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="L19" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td nowrap="nowrap">
+<div class="subframe">
+<div id="refL20" class="item">
+<a href="/tutorials.php?c=5" onmouseover="LMPopUp('L19', true);" title="Basics"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Basics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL21" class="item">
+<a href="/tutorials.php?c=4" onmouseover="LMPopUp('L19', true);" title="Display"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Display&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL22" class="item">
+<a href="/tutorials.php?c=3" onmouseover="LMPopUp('L19', true);" title="Misc"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Misc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL23" class="item">
+<a href="/tutorials.php?c=2" onmouseover="LMPopUp('L19', true);" title="Navigaton"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Navigaton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL24" class="item">
+<a href="/tutorials.php?c=9" onmouseover="LMPopUp('L19', true);" title="XML"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">XML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="L25" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td nowrap="nowrap">
+<div class="subframe">
+<div id="refL26" class="item">
+<a href="/forum/index.php?forum=pear" onmouseover="LMPopUp('L25', true);" title="PEAR Forum"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Forum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL27" class="item">
+<a href="/tutorials.php?c=6" onmouseover="LMPopUp('L25', true);" title="PEAR Tutorials"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Tutorials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="L28" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td nowrap="nowrap">
+<div class="subframe">
+<div id="refL29" class="item">
+<a href="/forum/index.php?forum=sqlhelp" onmouseover="LMPopUp('L28', true);" title="Database Forum"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Forum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL30" class="item">
+<a href="/reviews.php?c=1" onmouseover="LMPopUp('L28', true);" title="Database Reviews"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Reviews&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL31" class="item">
+<a href="/tutorials.php?c=1" onmouseover="LMPopUp('L28', true);" title="Database Tutorials"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Tutorials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="L32" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td nowrap="nowrap">
+<div class="subframe">
+<div id="refL33" class="item">
+<a href="/forum/index.php?forum=general_admin" onmouseover="LMPopUp('L32', true);" title="System Admin Forum"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Forum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL34" class="item">
+<a href="/reviews.php?c=4" onmouseover="LMPopUp('L32', true);" title="System Admin Reviews"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Reviews&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL35" class="item">
+<a href="/tutorials.php?c=7" onmouseover="LMPopUp('L32', true);" title="System Admin Tutorials"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Tutorials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="L36" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td nowrap="nowrap">
+<div class="subframe">
+<div id="refL37" class="item">
+<a href="/forum/index.php?forum=currentcontest" onmouseover="LMPopUp('L36', true);" title="PHP Coding Contest Forum"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">Forum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div id="refL38" class="item">
+<a href="/php-contest.php" onmouseover="LMPopUp('L36', true);" title="PHP Coding Contest"><img align="top" src="/phplayersmenu/menuimages/transparent.png" width="1" height="16" border="0" alt="">The Challenge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+loaded = 1;
+// -->
+</script>
+
+<!-- end of menu footer - PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/ -->
 
 </body></html>
