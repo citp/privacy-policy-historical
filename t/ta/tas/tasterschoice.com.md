@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasterschoice.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308013452id_/http%3A//www.tasterschoice.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasterschoice.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217180357id_/http%3A//www.tasterschoice.com/privacy.aspx) for the most accurate reproduction.*
 
 # NESCAFÉ Taster's Choice
 
@@ -57,7 +57,7 @@ We may ask for demographic or profile (age, gender, household, interests, etc.) 
 
 Nestlé uses commercially reasonable efforts to keep personally identifiable information secure. Only authorized Nestlé employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information and only to help Nestlé administer its promotional programs and the site. Personally identifiable information is also password protected at the web site.
 
-All emails and newsletters from this site allow you to opt out of further mailings.  Many Nestlé web sites have an update information feature that allows visitors to access (via password) the registration information they submitted to the site, for review/update and opt out purposes.  If this feature is not available at a site or if you have questions about this policy you may contact us ([Click Here](https://web.archive.org/web/20050308013452id_/http%3A//www.tasterschoice.com/contact.htm)) or call us at 1-800-225-2270.
+All emails and newsletters from this site allow you to opt out of further mailings.  Many Nestlé web sites have an update information feature that allows visitors to access (via password) the registration information they submitted to the site, for review/update and opt out purposes.  If this feature is not available at a site or if you have questions about this policy you may contact us ([Click Here](https://web.archive.org/web/20051217180357id_/http%3A//www.tasterschoice.com/contact.htm)) or call us at 1-800-225-2270.
 
 **Career Opportunities at Nestlé**
 
@@ -74,4 +74,4 @@ Third party Internet sites accessible through hyperlinks from this site have the
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
 
   
-**_Current as of January 2005_**
+**_February 2005_**
