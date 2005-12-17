@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skynet.net privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404062746id_/http%3A//www.skynet.net/english/us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skynet.net privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217200242id_/http%3A//www.skynet.net/english/us/privacy.asp) for the most accurate reproduction.*
 
 # Sky Net | Worldwide Express
 
