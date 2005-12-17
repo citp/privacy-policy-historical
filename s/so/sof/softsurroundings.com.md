@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404082906id_/http%3A//www.softsurroundings.com/page.php%3Ffile%3Dfaq%26faqId%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217090821id_/http%3A//www.softsurroundings.com/page.php%3Ffile%3Dfaq%26faqId%3D2) for the most accurate reproduction.*
 
 # SoftSurroundings.com
 
 **Privacy Policy & Terms of Use**
 
-Last updated: January 7, 2005
+Last updated: June 2, 2005
 
-We appreciate the trust you place in Soft Surroundings, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. SoftSurroundings.com and SoftSurroundingsOutlet.com are owned by Knights Direct.
+We appreciate the trust you place in Soft Surroundings, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. SoftSurroundings.com and SoftSurroundingsOutlet.com are owned by Knights Direct. Every effort has been made to check our information for accuracy. Descriptive or typographical errors are subject to correction.
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
@@ -50,7 +50,7 @@ At Soft Surroundings, we always want to provide you with the best possible shopp
 **Information We Share with Others**  
 We contract with other companies to provide certain services, including credit card processing, affiliate marketing and shipping. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Soft Surroundings.
 
-From time to time, we make our mailing list (names and addresses only) and general shopping activity available to carefully screened companies whose products we believe will be of interest to you. If you prefer that we do not share any information with these companies, please us at:
+From time to time, we make our mailing list (names and addresses only) and general shopping activity available to carefully screened companies whose products we believe will be of interest to you. If you prefer that we do not share any information with these companies, please contact us at:
 
 Soft Surroundings   
 8920 Pershall Road   
@@ -71,7 +71,7 @@ Phone: 1-800-240-7076
 Fax: 1-314-521-5780   
 [ soft_surroundings@softsurroundings.com ](mailto:soft_surroundings@softsurroundings.com)
 
-If you no longer wish to receive our e-newsletters and e-mail promotions you may electronically [unsubscribe here](https://web.archive.org/web/20050404082906id_/http%3A//www.softsurroundings.com/page.php?file=faq&faqId=49) or contact us at:
+If you no longer wish to receive our e-newsletters and e-mail promotions you may electronically [unsubscribe here](http://www.softsurroundings.com/page.php?file=faq&faqId=49) or contact us at:
 
 Soft Surroundings   
 8920 Pershall Road   
@@ -121,7 +121,7 @@ A limited amount of purchase information also may be available to you. To protec
 **Security**  
 It is our intent to protect against the loss, misuse or alteration of information that we have collected from you. We use a variety of current technologies and processes for protection of our customer data. We limit the information we provide to outside companies with whom we contract to only what they need to carry out their responsibilities.
 
-When you make a purchase, request a catalog or create an account on our website, your transactional information is transmitted in a safe, encrypted format. See [Secure Online Shopping](https://web.archive.org/web/20050404082906id_/http%3A//www.softsurroundings.com/page.php?file=faq&faqId=7) for details.
+When you make a purchase, request a catalog or create an account on our website, your transactional information is transmitted in a safe, encrypted format. See [Secure Online Shopping](http://www.softsurroundings.com/page.php?file=faq&faqId=7) for details.
 
 **Privacy of Children on Our Website**  
 Our website is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
