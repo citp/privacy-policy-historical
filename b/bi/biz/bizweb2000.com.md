@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizweb2000.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625022624id_/http%3A//www.bizweb2000.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizweb2000.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217235752id_/http%3A//www.bizweb2000.com/privacy.htm) for the most accurate reproduction.*
 
 # Internet marketing website Privacy Statement
 
