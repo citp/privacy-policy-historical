@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeevansathi.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404175826id_/http%3A//www.jeevansathi.com/P/privacy_policy.php%3Fchecksum%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeevansathi.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217110807id_/http%3A//www.jeevansathi.com/P/privacy_policy.php%3Fchecksum%3D) for the most accurate reproduction.*
 
 # JeevanSathi Matrimonials - Privacy Policy
 
