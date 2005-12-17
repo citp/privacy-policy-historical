@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monsterlearning.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305131136id_/http%3A//learning.monster.com/ml/content/aboutus/privacy.ptml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterlearning.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217123230id_/http%3A//learning.monster.com/ml/content/aboutus/privacy.ptml%3Fsid%3D%26ref%3D) for the most accurate reproduction.*
 
-# MonsterLearning:
+# 
 
 **Privacy Policy — Your Privacy Rights**
 
