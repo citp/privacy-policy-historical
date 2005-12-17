@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solestruck.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626084526id_/http%3A//www.solestruck.com/assistance.do%3Fpage%3DPrivacySecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solestruck.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217074443id_/http%3A//www.solestruck.com/assistance.do%3Fpage%3DPrivacySecurity) for the most accurate reproduction.*
 
 # Solestruck Customer Assistance - Free Shipping on Qualified Orders and Free Returns.
 
@@ -25,7 +25,7 @@ If you prefer to order directly from Solestruck without using our website, you m
 
 In order to keep our customers updated on our special offers, gifts, new items, and changes to our store, Solestruck may periodically send mail to registered users.  
   
-If you prefer not to receive Solestruck mailings and other communications, you may call our Customer Service department toll-free at 1-800-494-1260 and ask to be removed from our mailing list. Due to the nature of our mailing system, it may take six to eight weeks after removal from our mailing list to completely stop receiving mail.  
+If you prefer not to receive Solestruck mailings and other communications, you may call our Customer Service department toll-free at 1-800-494-1270 and ask to be removed from our mailing list. Due to the nature of our mailing system, it may take six to eight weeks after removal from our mailing list to completely stop receiving mail.  
 **Privacy Notice Changes**
 
 This notice replaces all previous disclosures we may have provided you about our information practices. We reserve the right to revise and modify this policy at any time without notice and to apply these changes in policy to information previously collected, where legally permissible. We will notify you of changes by posting the policy changes on our website. This privacy notice was last updated on May 11, 2004.  
@@ -39,5 +39,5 @@ Attention: Website Privacy
 P.O. Box 80069  
 Portland, Oregon 97280  
   
-Or call us at any time toll-free at 1-800-494-1260.  
+Or call us at any time toll-free at 1-800-494-1270.  
 The examples contained in our privacy notice are illustrations only, and are not intended to be exhaustive.
