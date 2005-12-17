@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apl.com privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615025935id_/http%3A//www.apl.com/help_center/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apl.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217125139id_/http%3A//www.apl.com/help_center/html/privacy_policy.html) for the most accurate reproduction.*
 
 # APL: Privacy Policy
 
