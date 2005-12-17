@@ -1,92 +1,77 @@
-> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528232149id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217092952id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
 
 # AlpineZone.com Privacy Policy
 
-|    
-| 
+|  | 
 
-**[ Latest Headlines](http://news.alpinezone.com/)**  
+**[ Latest Headlines](http://news.alpinezone.com/) **[](http://rss.alpinezone.com/news.php)  
   
 ---  
- [Mount Sunapee Wins Sales and Marketing Award at Industry National Convention](http://news.alpinezone.com/4441/) \- May 27, 2005 - 3:42 PM  
+ [More than 1,500 Skiers and Riders Take Advantage of a Free Powder Day at Attitash](http://news.alpinezone.com/6936/) \- Dec 16, 2005 - 4:37 PM  
   
- [Gore, Whiteface Win Accolades at National Ski Areas Association Meeting](http://news.alpinezone.com/4440/) \- May 27, 2005 - 9:54 AM  
+ [Attitash Instant Winter Scratch Tickets to Hit the Mount Washington Valley](http://news.alpinezone.com/6935/) \- Dec 16, 2005 - 4:35 PM  
   
- [Sunday River Takes the "AlpineZone Ski Area Challenge"](http://news.alpinezone.com/4432/) \- May 26, 2005 - 2:58 PM  
+ [Crotched Mountain Opens 100% Terrain with Full Coverage](http://news.alpinezone.com/6934/) \- Dec 16, 2005 - 4:35 PM  
   
- [The Ultimate Mountain Challenge at Jay Peak, July 29-31](http://news.alpinezone.com/4431/) \- May 26, 2005 - 2:55 PM  
+ [Catamount Skiers and Riders to Enjoy Best Early Season Conditions Ever](http://news.alpinezone.com/6891/) \- Dec 14, 2005 - 4:36 PM  
   
- [N.H. Travel Council Presents Sustainable Business Award to Cranmore Mountain Resort](http://news.alpinezone.com/4423/) \- May 25, 2005 - 3:08 PM  
+ [New Jersey Transit Bus Service to Mountain Creek Resumes for 2005-06 Season](http://news.alpinezone.com/6890/) \- Dec 14, 2005 - 2:27 PM  
   
- [Adirondack Mountain Club Presents: The Mountains as Metaphor](http://news.alpinezone.com/4417/) \- May 24, 2005 - 2:32 PM  
+ [Live Music, Rail Jam and Telemark Demos at Whiteface This Weekend](http://news.alpinezone.com/6889/) \- Dec 14, 2005 - 1:56 PM  
   
- [Eastern Mountain Sports Supports National Trails Day(R) Grassroots Events](http://news.alpinezone.com/4416/) \- May 24, 2005 - 2:25 PM  
+ [The Summit of Whiteface Opens for Skiing and Riding Today](http://news.alpinezone.com/6882/) \- Dec 14, 2005 - 12:56 PM  
   
- [Wildcat Mountain's 2nd Annual 100K Day Raises $8,500 for Make-a-Wish Foundation](http://news.alpinezone.com/4409/) \- May 23, 2005 - 3:06 PM  
+ [Learn to Turn for $39 at Loon Mountain, Waterville Valley and Cranmore](http://news.alpinezone.com/6867/) \- Dec 13, 2005 - 4:30 PM  
   
- ['Groundbreaking' Developments Announced at Seven Springs Mountain Resort](http://news.alpinezone.com/4393/) \- May 21, 2005 - 2:28 PM  
+ [Award Winning Safety Theme at Sunday River Encourages Guests to Go With The Flow](http://news.alpinezone.com/6866/) \- Dec 13, 2005 - 4:29 PM  
   
- [National Trails Day Activities in New Hampshire](http://news.alpinezone.com/4392/) \- May 21, 2005 - 2:25 PM  
-  
-  
-  
-**[ Recent Discussions](http://forums.alpinezone.com/)**  
-  
----  
- [Guess the ski area](http://forums.alpinezone.com/viewtopic.php?p=34227#34227)  
-   May 28, 2005 - 6:43 PM  
-   by [cps27](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=441)  
-  
- [Bush asked to explai...](http://forums.alpinezone.com/viewtopic.php?p=34225#34225)  
-   May 28, 2005 - 3:42 PM  
-   by [pedxing](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=14)  
-  
- [Discovery Channel's ...](http://forums.alpinezone.com/viewtopic.php?p=34224#34224)  
-   May 28, 2005 - 12:25 PM  
-   by [Charlie Schuessler](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=215)  
-  
- [Immigrant mother of ...](http://forums.alpinezone.com/viewtopic.php?p=34223#34223)  
-   May 28, 2005 - 10:14 AM  
-   by [riverc0il](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=5)  
-  
- [Another woman on the...](http://forums.alpinezone.com/viewtopic.php?p=34222#34222)  
-   May 28, 2005 - 9:59 AM  
-   by [teachski](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=410)  
-  
- [WTB Rosemont Ski Boo...](http://forums.alpinezone.com/viewtopic.php?p=34221#34221)  
-   May 28, 2005 - 9:12 AM  
-   by [skitales](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1475)  
-  
- [I can't deny it any ...](http://forums.alpinezone.com/viewtopic.php?p=34217#34217)  
-   May 28, 2005 - 12:06 AM  
-   by [skibumtress](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1465)  
-  
- [Welch Dickey Loop 5...](http://forums.alpinezone.com/viewtopic.php?p=34211#34211)  
-   May 27, 2005 - 8:36 PM  
-   by [MtnMagic](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=204)  
-  
- [Lowering the Drinkin...](http://forums.alpinezone.com/viewtopic.php?p=34210#34210)  
-   May 27, 2005 - 5:35 PM  
-   by [noreaster](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=450)  
-  
- [FYI - our website on...](http://forums.alpinezone.com/viewtopic.php?p=34209#34209)  
-   May 27, 2005 - 5:01 PM  
-   by [awf170](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1175)  
+ [Gore Mountain Offers Fantastic Early Season](http://news.alpinezone.com/6865/) \- Dec 13, 2005 - 4:29 PM  
   
   
   
-** E-Newsletter**  
+**[ Recent Discussions](http://forums.alpinezone.com/) **[](http://rss.alpinezone.com/forums.php)  
   
 ---  
+ [Are you a 'chairlift...](http://forums.alpinezone.com/viewtopic.php?p=66922#66922&sid=8350d6c699960aacfa6c55af69a7f318)  
+   Dec 17, 2005 - 4:01 AM  
+   by [BeanoNYC](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1195&sid=8350d6c699960aacfa6c55af69a7f318)  
   
-Giveaways, deals, special information!  
-**Subscribe Now:**  
+ [Wachusett 12/16/05](http://forums.alpinezone.com/viewtopic.php?p=66921#66921&sid=8350d6c699960aacfa6c55af69a7f318)  
+   Dec 17, 2005 - 1:25 AM  
+   by [Zand](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=460&sid=8350d6c699960aacfa6c55af69a7f318)  
   
-Subscribe  
-Unsubscribe  
+ [I am taking the rest...](http://forums.alpinezone.com/viewtopic.php?p=66920#66920&sid=8350d6c699960aacfa6c55af69a7f318)  
+   Dec 16, 2005 - 10:51 PM  
+   by [cyrk007](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1113&sid=8350d6c699960aacfa6c55af69a7f318)  
   
-* * *
-
+ [AAAGHHH!! the agony...](http://forums.alpinezone.com/viewtopic.php?p=66919#66919&sid=8350d6c699960aacfa6c55af69a7f318)  
+   Dec 16, 2005 - 10:45 PM  
+   by [cyrk007](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1113&sid=8350d6c699960aacfa6c55af69a7f318)  
+  
+ [What's the Coolest &...](http://forums.alpinezone.com/viewtopic.php?p=66917#66917&sid=8350d6c699960aacfa6c55af69a7f318)  
+   Dec 16, 2005 - 10:38 PM  
+   by [Npage148](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1332&sid=8350d6c699960aacfa6c55af69a7f318)  
+  
+ [Catamount Dec 20th](http://forums.alpinezone.com/viewtopic.php?p=66916#66916&sid=8350d6c699960aacfa6c55af69a7f318)  
+   Dec 16, 2005 - 10:36 PM  
+   by [ALLSKIING](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1105&sid=8350d6c699960aacfa6c55af69a7f318)  
+  
+ [Girl in my office ju...](http://forums.alpinezone.com/viewtopic.php?p=66915#66915&sid=8350d6c699960aacfa6c55af69a7f318)  
+   Dec 16, 2005 - 10:23 PM  
+   by [Bumpsis](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=621&sid=8350d6c699960aacfa6c55af69a7f318)  
+  
+ [Vechicles](http://forums.alpinezone.com/viewtopic.php?p=66913#66913&sid=8350d6c699960aacfa6c55af69a7f318)  
+   Dec 16, 2005 - 10:14 PM  
+   by [Bumpsis](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=621&sid=8350d6c699960aacfa6c55af69a7f318)  
+  
+ [Need recommendation ...](http://forums.alpinezone.com/viewtopic.php?p=66912#66912&sid=8350d6c699960aacfa6c55af69a7f318)  
+   Dec 16, 2005 - 9:55 PM  
+   by [teachski](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=410&sid=8350d6c699960aacfa6c55af69a7f318)  
+  
+ [My Ski Boot Fitting ...](http://forums.alpinezone.com/viewtopic.php?p=66908#66908&sid=8350d6c699960aacfa6c55af69a7f318)  
+   Dec 16, 2005 - 9:28 PM  
+   by [Skiiboot](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1767&sid=8350d6c699960aacfa6c55af69a7f318)  
+  
   
    
 | 
