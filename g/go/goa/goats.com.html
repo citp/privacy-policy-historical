@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goats.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403112331id_/http%3A//goats.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goats.com privacy policy that was archived on 2005-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217195338id_/http%3A//www.goats.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>goats: the privacy policy</title>
@@ -7,265 +7,134 @@
 <meta name="description" content="The privacy policy for Goats: The Comic Strip, chronicling the adventures of two hapless antisocialites, their amorous pet goat, an evil yet clueless chicken, and an assorted cast of eggplants, sadistic bartenders, manic aliens, and Frank Coffee.">
 <meta name="keywords" content="goats, goat, comic, strip, comic strip, goats comic strip, online, online comic, online comics, web, web comic, web comics, jon, phillip, toothgnip, diablo, lori, beer, pub, bar, couch, television, sarcasm, frank coffee, lynda, orange drink, nihilism, sex, drinking, alcohol, dating, strange, hops, malt, yeast, homebrew, dilbert, bloom county, fish, biff, humor, funny,privacy policy">
 <meta name="distribution" content="global">
-<meta name="copyright" content="all contents ©1997-2004 Goats LLC. all rights reserved. unauthorized copying or distribution of anything on this site is prohibited.">
+<meta name="copyright" content="all contents ©1997-2005 Goats LLC. all rights reserved. unauthorized copying or distribution of anything on this site is prohibited.">
 <link rel="SHORTCUT ICON" href="/favicon.ico">
 <meta name="revisit-after" content="2 days">
-<script language="JavaScript" type="text/javascript">
-
-
-function setSection() {
-
-if (("none" == "archive") || ("none" == "lastfive")) {
-		menuitemOn("archive");
-	}
-	if ("none" == "store") {	
-		menuitemOn("store");
-	}
-	if ("none" == "news") {	
-		menuitemOn("news");
-	}
-	if ("none" == "bios") {	
-		menuitemOn("bios");
-	}
-	if ("none" == "forums") {	
-		menuitemOn("forums");
-	}
-	if ("none" == "features") {	
-		menuitemOn("features");
-	}
-	if ("none" == "premium") {	
-		menuitemOn("premium");
-	}
-
-}
-
-var pageIsLoaded = false;
-function checkLoad() {
-	pageIsLoaded = true;
-        setSection();
-}
-
-
-
-function vanish() {
-	
-	if (("none" != "archive") && ("none" != "lastfive")) {
-		menuitemOff("archive");
-	}
-	if ("none" != "store") {	
-		menuitemOff("store");
-	}
-	if ("none" != "news") {	
-		menuitemOff("news");
-	}
-	if ("none" != "bios") {	
-		menuitemOff("bios");
-	}
-	if ("none" != "forums") {	
-		menuitemOff("forums");
-	}
-	if ("none" != "features") {	
-		menuitemOff("features");
-	}
-	if ("none" != "premium") {	
-		menuitemOff("premium");
-	}
-	vanishDivs();
-
-}
-
-function vanishDivs() {
-
-	if (!document.layers) {
-
-		document.getElementById('subnavArchive').style.visibility='hidden';
-		document.getElementById('subnavStore').style.visibility='hidden';
-		document.getElementById('subnavNews').style.visibility='hidden';
-		document.getElementById('subnavBios').style.visibility='hidden';
-		document.getElementById('subnavForums').style.visibility='hidden';
-		document.getElementById('subnavFeatures').style.visibility='hidden';
-
-		document.getElementById('subnavPremium').style.visibility='hidden';
-
-	}
-}
-
-
-
-var timerID;
-var section;
-var currentSection = ("none");
-
-function menuOn(mysection) {
-	if (pageIsLoaded == true) {
-		if (!document.layers) {
-			var mysection2 = mysection.toLowerCase();
-			mysection2 = (mysection2.substring(6));
-                        //alert(mysection2);
-			stopHidesub();
-
-			if (document.getElementById(mysection)) {
-				vanish();
-			}
-			menuitemOn(mysection2);
-			document.getElementById(mysection).style.visibility='visible';
-		} else {
-			var mysection2 = mysection.toLowerCase();
-			mysection2 = (mysection2.substring(6));
-			menuitemOn(mysection2);
-			
-		}
-	} else{
-		return true;
-	}
-}
-
-function menuitemOn(selectedItem) {
-       // alert(selectedItem);
-	//document.getElementById(selectedItem).className = 'menuOn';
-        document.getElementById(selectedItem).style.backgroundColor = 'ffcc66';
-	document.getElementById(selectedItem).style.color = '666666';
- 
-}
-
-
-function menuitemOff(selectedItem) {
-	//document.getElementById(selectedItem).className = 'menuOff';
-        document.getElementById(selectedItem).style.backgroundColor = 'ff9900';
-	document.getElementById(selectedItem).style.color = 'FFFFFF';
-}
-
-function hidesub(secname) {
-	section = secname;
-	timerID = setTimeout("vamoose();",500);
-}
-function vamoose() {
-	vanish();
-	//alert(section);
-	//alert(currentSection);
-	if (section == currentSection) {
-		menuitemOn(section);
-	}
-	else {
-		menuitemOff(section);
-	}
-	
-}
-
-function stopHidesub() {
-	clearTimeout(timerID);
-}
-
-
-</script>
-
-<link rel="stylesheet" type="text/css" href="/styles.css">
+<script type="text/javascript" src="/udm-resources/udm-custom.js"></script>
+<script type="text/javascript" src="/udm-resources/udm-control.js"></script>
+<script type="text/javascript" src="/udm-resources/udm-style.js"></script><html:style type="text/css" media="screen,projection"></html:style>
+<link rel="stylesheet" type="text/css" href="/styles_050802.css">
 
 <script type="text/javascript" src="/scripts/nicetitle.js"></script>
 </head>
 <body>
-
-
-<div class="subnav" onmouseover="stopHidesub();menuitemOn('archive');" onmouseout="hidesub('archive');" id="subnavArchive">
-<ul>
-<li><a href="/archive/lastfive.html" onmouseover="menuOn('subnavArchive');">lastfive</a></li>
-<li><a href="/archive/" onmouseover="menuOn('subnavArchive');">yesterday's strip</a></li>
-<li><a href="/archive/970401.html" onmouseover="menuOn('subnavArchive');">first strip</a></li>
-</ul></div>
-
-<div class="subnav" onmouseover="stopHidesub();menuitemOn('store');" onmouseout="hidesub('store');" id="subnavStore">
-<ul>
-	<li><a href="/store/tshirts.html" onmouseover="menuOn('subnavStore');">t-shirts</a></li>
-	<li><a href="/store/bags.html" onmouseover="menuOn('subnavStore');">bags</a></li>
-	<li><a href="/store/hoodies.html" onmouseover="menuOn('subnavStore');">hoodies</a></li>
-	<li><a href="/store/paperback.html" onmouseover="menuOn('subnavStore');">books</a></li>
-	<li><a href="/store/minicomic.html" onmouseover="menuOn('subnavStore');">minicomics</a></li>
-	<li><a href="/store/stickers.html" onmouseover="menuOn('subnavStore');">stickers</a></li>
-	<li><a href="http://www.cafeshops.com/goats_all" onmouseover="menuOn('subnavStore');">merch warehouse</a></li>
-</ul>
-</div>
-
-<div class="subnav" id="subnavNews"></div>
-
-
-<div class="subnav" onmouseover="stopHidesub();menuitemOn('bios');" onmouseout="hidesub('bios');" id="subnavBios">
-<ul>
-<li><a href="/bios/" onmouseover="menuOn('subnavBios');">the regulars</a></li>
-<li><a href="/bios/others.html" onmouseover="menuOn('subnavBios');">the irregulars</a></li>
-<li><a href="/bios/pub.html" onmouseover="menuOn('subnavBios');">pub denizens</a></li>
-<li><a href="/bios/villains.html" onmouseover="menuOn('subnavBios');">the villains</a></li>
-</ul>
-</div>
-
-
-<div class="subnav" onmouseover="stopHidesub();" onmouseout="hidesub('forums');" id="subnavForums">
-<ul>
-<li><a href="/forums/news/" onmouseover="menuOn('subnavForums');">news</a></li>
-<li><a href="/forums/pub/" onmouseover="menuOn('subnavForums');">the pub</a></li>
-<li><a href="/forums/flame/" onmouseover="menuOn('subnavForums');">ring of fire</a></li>
-<li><a href="/forums/webcomics/" onmouseover="menuOn('subnavForums');">self-promotion</a></li>
-<li><a href="/forums/pp/" onmouseover="menuOn('subnavForums');">patent pending</a></li>
-<li><a href="/forums/members/" onmouseover="menuOn('subnavForums');">members only</a></li>
-</ul>
-</div>
-
-
-<div class="subnav" onmouseover="stopHidesub();" onmouseout="hidesub('features');" id="subnavFeatures">
-<ul>
-<li><a href="/pub/" onmouseover="menuOn('subnavFeatures');">the pub</a></li>
-<li><a href="/features/index.html#fanstuff" onmouseover="menuOn('subnavFeatures');">fan stuff</a></li>
-<li><a href="/features/" onmouseover="menuOn('subnavFeatures');">official stuff</a></li>
-</ul>
-</div>
-
-
-<div class="subnav" onmouseover="stopHidesub();" onmouseout="hidesub('premium');" id="subnavPremium">
-<ul>
-<li><a href="/premium/sunday/" onmouseover="menuOn('subnavPremium');">sunday strips</a></li>
-<li><a href="/forums/members/" onmouseover="menuOn('subnavPremium');">forum</a></li>
-<li><a href="/premium/animals/" onmouseover="menuOn('subnavPremium');">ask the animals</a></li>
-<li><a href="/premium/pp/" onmouseover="menuOn('subnavPremium');">patent pending</a></li>
-<li><a href="/store/" onmouseover="menuOn('subnavPremium');">discount stuff</a></li>
-</ul>
-</div>
-
-
-
-
-
-
-
-
-<!-- top navigation/comic date -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr class="header">
-		<td width="114"><a href="/" onmouseover="vanish();"><img src="/images/logo04.gif" width="114" height="53" alt="" border="0"></a></td>
-		<td width="100%"><div id="menu"><ul>
-<li><a href="/archive/" onmouseover="menuOn('subnavArchive');" onmouseout="vanish();" id="archive">archive</a></li>
-<li><a href="/store/" onmouseover="menuOn('subnavStore');" onmouseout="vanish();" id="store">store</a></li>
-<li><a href="/forums/news/" onmouseover="menuOn('subnavNews');" onmouseout="vanish();" id="news">news</a></li>
-<li><a href="/forums/" onmouseover="menuOn('subnavForums');" onmouseout="vanish();" id="forums">forums</a></li>
-<li><a href="/bios/" onmouseover="menuOn('subnavBios');" onmouseout="vanish();" id="bios">bios</a></li>
-<li><a href="/features/" onmouseover="menuOn('subnavFeatures');" onmouseout="vanish();" id="features">features</a></li>
-<li><a href="/premium/" onmouseover="menuOn('subnavPremium');" onmouseout="vanish();" id="premium">premium</a></li>
-</ul></div></td>
-		<td valign="bottom"><img src="/images/spacer.gif" width="138" height="12" alt="advertise on goats" border="0" vspace="5">
-			<table border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr bgcolor="#FFFFFF">
-					<td width="14" class="header"><img src="/images/corner_date.gif" width="14" height="14" alt="" border="0"></td>
-					<td nowrap="" class="date" style="width:131px;">the privacy policy
+<script type="text/javascript" src="/udm-resources/udm-dom.js"></script>
+<div id="logoad">
+	<div id="adspace">
+<script language="JavaScript" type="text/javascript" src="http://campaign.indieclick.com/adx.js"></script>
 <script language="JavaScript" type="text/javascript">
-if (document.layers) {
-document.write('<img src=\"/images/spacer.gif\" width=\"10\" height=\"1\" border=0 hspace=0 vspace=0>');
-}
-</script>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://campaign.indieclick.com/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:134");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://campaign.indieclick.com/adjs.php?n=469817669&amp;what=zone:134&amp;exclude=,"></script><noscript><a href='http://campaign.indieclick.com/adclick.php?n=a395b8fe' target='_blank'><img src='http://campaign.indieclick.com/adview.php?what=zone:134&amp;n=a395b8fe' border='0' alt=''></a></noscript>
+	</div>
+	<div id="logo">	<a href="/"><img src="/images/logo04.gif" width="114" height="53" alt="" border="0"></a></div>
+</div>
+<!-- top navigation/comic date -->
+<table border="0" cellspacing="0" cellpadding="0" id="menu">
+	<tbody><tr>
+		<td id="menucell"><ul id="udm" class="udm" style="height: 15px;">
+			<li><a href="/archive/" id="archive">::archive</a>
+				<ul>
+					<li><a href="/archive/lastfive.html">lastfive</a></li>
+					<li><a href="/archive/">yesterday's strip</a></li>
+					<li><a href="/archive/970401.html">first strip</a></li>
+				</ul>
+			</li>
+			<li><a href="/store/" id="store">::store</a>
+				<ul>
+					<li><a href="/store/tshirts.html">t-shirts</a></li>
+					<li><a href="/store/babydoll.html">babydoll tees</a></li>
+					<li><a href="/store/bundles.html">discount multi-packs</a></li>
+					<li><a href="/store/clearance.html">clearance tees</a></li>
+					<li><a href="/store/bags.html">bags</a></li>
+					<li><a href="/store/hoodies.html">hoodies</a></li>
+					<li><a href="/store/paperback.html">books</a></li>
+					<li><a href="/store/minicomic.html">minicomics</a></li>
+					<li><a href="/store/stickers.html">stickers</a></li>
+					<li><a href="http://www.cafeshops.com/goats_all">merch warehouse</a></li>
+				</ul>
+			</li>
+			<li><a href="/forums/news/" id="news">::news</a></li>
+			<li><a href="/forums/" id="forums">::forums</a>
+				<ul>
+					<li><a href="/forums/news/">news</a></li>
+					<li><a href="/forums/pub/">the pub</a></li>
+					<li><a href="/forums/flame/">ring of fire</a></li>
+					<li><a href="/forums/webcomics/">self-promotion</a></li>
+					<li><a href="/forums/pp/">patent pending</a></li>
+					<li><a href="/forums/members/">members only</a></li>
+				</ul>
+			</li>
+			<li><a href="/bios/" id="bios">::bios</a>
+				<ul>
+					<li><a href="/bios/">the regulars</a></li>
+					<li><a href="/bios/others.html">the irregulars</a></li>
+					<li><a href="/bios/pub.html">pub denizens</a></li>
+					<li><a href="/bios/villains.html">the villains</a></li>
+				</ul>
+			</li>
+			<li><a href="/premium/" id="premium">::premium</a>
+				<ul>
+					<li><a href="/premium/sunday/">sunday strips</a></li>
+					<li><a href="/forums/members/">forum</a></li>
+					<li><a href="/premium/animals/">ask the animals</a></li>
+					<li><a href="/premium/pp/">patent pending</a></li>
+					<li><a href="/store/">discount stuff</a></li>
+				</ul>
+			</li>
+			<li><a name="links">::links</a>
+				<ul>
+					<li><a href="http://www.megagamerz.com">megaGAMERZ 3133t</a></li>
+					<li><a href="http://www.dumbrella.com">dumbrella comics</a>
+						<ul>
+							<li><a href="http://www.boasas.com/">BOASAS</a></li>
+							<li><a href="http://www.creaturesinmyhead.com/">Creatures</a></li>
+							<li><a href="http://www.dieselsweeties.com/">Diesel Sweeties</a></li>
+							<li><a href="http://www.explodingdog.com/">Exploding Dog</a></li>
+							<li><a href="http://www.goats.com/">Goats</a></li>
+							<li><a href="http://www.overcompensating.com/">Overcompensating</a></li>
+							<li><a href="http://www.scarygoround.com/">Scary-Go-Round</a></li>
+							<li><a href="http://www.wigu.com/">Wigu</a></li>
+						</ul>
+					</li>
+					<li><a name="othercomics">other comics</a>
+						<ul>
+							<li><a href="http://www.hatesong.com/">Hate Song</a></li>
+							<li><a href="http://www.penny-arcade.com/">Penny Arcade</a></li>
+							<li><a href="http://www.somethingpositive.net/">S*P</a></li>
+							<li><a href="http://www.achewood.com/">Achewood</a></li>
+							<li><a href="http://www.brunostrip.com/bruno.html">Bruno</a></li>
+							<li><a href="http://www.catandgirl.com/">Cat And Girl</a></li>
+							<li><a href="http://www.okaypants.com/">Okay Pants</a></li>
+							<li><a href="http://www.pp.projectkooky.com/">Pants Press</a></li>
+							<li><a href="http://www.hingos.com/patches/">Patches</a></li>
+							<li><a href="http://www.scottmccloud.com/">Scott McCloud</a></li>
+							<li><a href="http://www.pvponline.com/">PvP</a></li>
+							<li><a href="http://www.skirtingdanger.com/">Skirting Danger</a></li>
+							<li><a href="http://www.rpgworldcomic.com/">RPG World</a></li>
+							<li><a href="http://www.punksandnerds.com/">Punks and Nerds</a></li>
+							<li><a href="http://www.boltcity.com/">Copper</a></li>
+							<li><a href="http://qwantz.com/">Dinosaur Comics</a></li>
+						</ul>
+					</li>
+				</ul>	
+			</li>
+		</ul></td>
+		<td id="date">the privacy policy</td>
 	</tr>
 </tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="10" style="clear:both;">
 	<tbody><tr bgcolor="#ffffff">
 		<td>
 <br>
@@ -311,7 +180,8 @@ This site makes forums available to its users. Please remember that any informat
 If you feel that we're not following the above policies, have other general comments on it, or just feel that we're being bastards in general, you may contact us at:<br>
 <a href="/contact/index.html?realm=14;subject=Privacy%20Policy">http://www.goats.com/contact/index.html?realm=14;subject=Privacy%20Policy</a>
 
-			</p><div align="right" style="position: relative; left: 10px; top: 10px;"><img src="/images/corner_pagebottom.gif" width="145" height="14" alt="" border="0"></div></td>
+			</p><div align="right" style="position: relative; left: 10px; top: 10px;"><img src="/images/corner_pagebottom.gif" width="145" height="14" alt="" border="0"></div>
+		</td>
 	</tr>
 	
 </tbody></table>
@@ -337,63 +207,6 @@ If you feel that we're not following the above policies, have other general comm
 		</td>
 	</tr>
 </tbody></table>
-
-<table id="menubanner" onmouseover="this.style.top='0px';" onmouseout="this.style.top='-273px';" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td colspan="2"><a href="http://www.dumbrella.com/"><img src="/images/dumbrella.png" width="269" height="53" border="0" alt=""></a></td>
-</tr>
-<tr>
-	<td colspan="2" class="menulinkshead"><a href="http://www.dumbrella.com/">Dumbrella Comics</a></td>
-</tr>
-<tr>
-	<td class="orangerow"><ul>
-<li><a href="http://www.wigu.com/">Wigu</a></li>
-<li><a href="http://www.creaturesinmyhead.com/">Creatures</a></li>
-<li><a href="http://www.goats.com/">Goats</a></li>
-</ul></td>
-	<td class="orangerow"><ul>
-<li><a href="http://www.scarygoround.com/">Scary-Go-Round</a></li>
-<li><a href="http://www.dieselsweeties.com/">Diesel Sweeties</a></li>
-<li><a href="http://www.explodingdog.com/">Exploding Dog</a></li>
-</ul></td>
-</tr>
-<tr>
-	<td colspan="2" class="menulinkshead">Other Good Comics</td>
-</tr>
-<tr>
-	<td class="orangerow">
-<ul>
-<li><a href="http://www.boasas.com/">BOASAS</a></li>
-<li><a href="http://www.penny-arcade.com/" class="menulinklink">Penny Arcade</a></li>
-<li><a href="http://www.somethingpositive.net/" class="menulinklink">S*P</a></li>
-<li><a href="http://www.achewood.com/" class="menulinklink">Achewood</a></li>
-<li><a href="http://www.brunostrip.com/bruno.html" class="menulinklink">Bruno</a></li>
-<li><a href="http://www.partiallyclips.com/" class="menulinklink">Partially Clips</a></li>
-<li><a href="http://www.catandgirl.com/" class="menulinklink">Cat And Girl</a></li>
-<li><a href="http://www.okaypants.com/" class="menulinklink">Okay Pants</a></li>
-
-</ul></td>
-<td class="orangerow"><ul>
-<li><a href="http://www.pp.projectkooky.com/" class="menulinklink">Pants Press</a></li>
-<li><a href="http://www.hingos.com/patches/" class="menulinklink">Patches</a></li>
-<li><a href="http://www.scottmccloud.com/" class="menulinklink">Scott McCloud</a></li>
-<li><a href="http://www.pvponline.com/" class="menulinklink">PvP</a></li>
-<li><a href="http://www.skirtingdanger.com/" class="menulinklink">Skirting Danger</a></li>
-<li><a href="http://www.rpgworldcomic.com/" class="menulinklink">RPG World</a></li>
-<li><a href="http://www.stubblecomics.com/" class="menulinklink">Stubble</a></li>
-<li><a href="http://www.boltcity.com/" class="menulinklink">Copper</a></li>
-</ul>
-
-</td>
-</tr>
-<tr>
-	<td colspan="2"><img src="/images/menu_banner.gif" alt="" hspace="0" vspace="0" border="0"></td>
-</tr>
-</tbody></table>
-
-<script language="JavaScript" type="text/javascript">
-checkLoad();
-</script>
 
 
 </body></html>
