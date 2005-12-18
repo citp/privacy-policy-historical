@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2005-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050516154650id_/http%3A//www.us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218152532id_/http%3A//us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
-[](http://www.truste.org/ivalidate.php?url=www.us-appliance.com)
+[](http://www.truste.org/ivalidate.php?url=www.us-appliance.com&sealid=101)
 
-**Privacy Statement for US Appliance**
+**Privacy Statement for US Appliance** (last updated 10/24/2005)
 
 US Appliance is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for www.us-appliance.com. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:  
 1\. What personally identifiable information of yours or third party personally identification is collected from you through the web site  
@@ -16,7 +16,7 @@ US Appliance is a licensee of the TRUSTe Privacy Program. This privacy statement
 5\. What choices are available to you regarding collection, use and distribution of the information  
 6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under US-Appliance control  
 7\. How you can correct any inaccuracies in the information.  
-If you have questions or concerns regarding this statement, you should first contact the General Manager by email or phone. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/users/watchdog.html. TRUSTe will then serve as a liaison with the web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact the General Manager by email or phone. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe WatchDog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the web site to resolve your concerns.
 
 Privacy Statement for US Appliance:
 
