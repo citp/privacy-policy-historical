@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/Guarantee/security_AB_TSA.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218074704id_/http%3A//webjet.com.au/Guarantee/security_AB_TSA.html) for the most accurate reproduction.*
 
 # Webjet Travel - Online airfares at cost price for all airlines
-
-|  |  [ ](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/Index2_bonus_dom.asp) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-| [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/TSA_Homepage.asp) | [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/TSA_Homepage.asp) |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/TSA_Homepage.asp) |   
-|   
-[](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/TSA_DIY_Flights.asp?Tab) | [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/TSA_DIY_Hotels.asp?Tab) | [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/TSA_DIY_Cars.asp?Tab) | [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/Travel_Insurance_TSA.asp?Tab) | [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/TSA_DIY_My_Profile.asp?Tab) | [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/TSA_DIY_My_Profile.asp?Tab) | [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/change_booking_TSA.asp?Tab) | [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/Homepage/Site_Map.htm?Tab) |  | [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/About_Us_TSA.asp) |  | [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/FTV_TSA.asp) |  | [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/Frequent_Flyers_TSA.asp) |  | [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/Travel_Guide_TSA.asp) |  | [](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/S_framesets/Questions_TSA.asp) |  |  |  |   
-[ ](https://web.archive.org/web/20050618005354id_/http%3A//www.webjet.com.au/Index2_bonus_dom.asp)
 
 CREDIT CARD SECURITY WITH _  
 _
@@ -135,7 +127,4 @@ If at any time you have any complaints in relation to privacy or the operation o
   
 Further information may be obtained on privacy issues in Australia by visiting the Australian Federal Privacy Commissioner’s web site at <http://www.privacy.gov.au/>.
 
-**  
-**  
-  
- 
+****
