@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailytelegraph.com.au privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618060837id_/http%3A//dailytelegraph.news.com.au/story2.jsp%3Fsectionid%3D1273%26storyid%3D1289) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytelegraph.com.au privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218212400id_/http%3A//www.dailytelegraph.news.com.au/story2/0%2C20283%2C16368724-5001038%2C00.html) for the most accurate reproduction.*
 
-# The Daily Telegraph | Privacy Statement
+# The Daily Telegraph | Privacy statement
 
-Privacy Statement
+Privacy statement
 
 **STATEMENT REGARDING PRIVACY POLICY**
 
@@ -11,9 +11,26 @@ We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in
 
 **Personal Information**
 
-We collect personal information when we provide our services to you. Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information. 
+Nationwide News (News) collects your personal information to assist us in providing the goods or services you have requested, to process your competition entries, and to improve our products and services. 
 
-We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents. 
+|   
+  
+---|---  
+We or any of our Australian related companies may be in touch by any means (including email or SMS) to let you know about goods, services, or promotions which may be of interest to you. 
+
+We may also share your information with other persons or entities who assist us in providing our services, running competitions or with other companies who provide prizes for competitions or reader offers.
+
+This company is part of a global media and entertainment company. 
+
+We would like to share your information with these overseas-related companies so that they can contact you with special offers. 
+
+If you would prefer us not to, please contact our privacy officer at:  
+Privacy Officer   
+02 9288 3212   
+privacy@matp.newsltd.com.au   
+2 Holt St, Surry Hills, NSW, 2010
+
+You can gain access to your personal information by contacting our privacy officer.
 
 **Use of Information**
 
@@ -61,7 +78,7 @@ News is not responsible for the content or practices of Web sites operated by th
 
 What else you should know about privacy on the Internet 
 
-Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet café. You as an individual are responsible for the security of and access to your own computer. 
+Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet caf?You as an individual are responsible for the security of and access to your own computer. 
 
 Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you are using the Internet. 
 
