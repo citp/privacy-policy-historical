@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamedaily.com privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614082101id_/http%3A//www.gamedaily.com/company/comp_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedaily.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218035240id_/http%3A//www.gamedaily.com/company/comp_privacy.asp) for the most accurate reproduction.*
 
 # GameDAILY: Free video games, cheats, game downloads, video game news and reviews
 
