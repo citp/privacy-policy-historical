@@ -1,119 +1,89 @@
-> *The following text is extracted and transformed from the realage.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610193546id_/http%3A//www.realage.com/company_info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realage.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218050456id_/http%3A//www.realage.com/company_info/privacy.aspx) for the most accurate reproduction.*
 
-# The Company - RealAge Privacy Statement
+# About RealAge - RealAge Privacy Statement
 
-|   
----  
-|  | [At a Glance](http://www.realage.com/company_info/company_entry.aspx)  
-| [The RealAge Promise](http://www.realage.com/company_info/rapromise.aspx)  
-| [Member Testimonials](http://www.realage.com/company_info/letters.aspx)  
-| [Executive Team](http://www.realage.com/company_info/raexecstaff.aspx)  
-| [Scientific Advisory Board](http://www.realage.com/company_info/scienceteam.aspx)  
-| [Privacy Statement](http://www.realage.com/company_info/privacy.aspx)  
-| [Press Room](http://www.realage.com/company_info/press/pressreleases.aspx)  
-| [Marketing and Editorial Standards](http://www.realage.com/company_info/advertisingpolicy.aspx)  
-| [RealAge FAQ](http://www.realage.com/company_info/RA_faqs.aspx)  
-  
-Nothing matters to us as much as your privacy. 
+RealAge is committed to protecting your privacy. We have prepared this Privacy Statement to describe to you our practices regarding the Personal Data we collect from users of our services. 
 
-  * We will never share your information with anyone, unless you expressly authorize us to do so to complete a credit card transaction. 
-  * We will never contact you without your permission. 
+**A Note to European Union Users**   
+We adhere to the United States / European Union Data Protection Safe Harbor Arrangement, which can be located at [ http://www.export.gov/safeharbor](http://www.export.gov/safeharbor) (the "Safe Harbor").   
+YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH THIS PRIVACY STATEMENT. YOUR PERSONAL DATA MAY BE PROCESSED IN THE COUNTRY IN WHICH IT WAS COLLECTED AND IN THE UNITED STATES. UNITED STATES LAWS REGARDING PROCESSING OF PERSONAL DATA MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. 
 
+**Types of Data We Collect**   
+RealAge collects Personal Data and Anonymous Data from you when you visit our site or when you send us information or communications. "Personal Data" means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any information about you that is associated with or linked to any of the foregoing data. "Anonymous Data" means data that is not associated with or linked to your Personal Data; Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below. 
 
+**Personal Data You Provide to Us**   
+We collect Personal Data from you, such as your name, e-mail address, country of residence, zip code or mail code, gender, and/or birth date when you register for a membership with us or when you choose to use the various services we provide on our site (e.g., Tip of the Day, Health Assessments, etc.). We also collect other types of Personal Data that you provide to us voluntarily, such as your health-related information, when you respond to surveys, health assessments, and questionnaires. If you choose to sign up for our pay services, such as _RealAge Magazine_ , we may collect additional financial data from you, including your credit card number, billing address (including street address, city, state, country, and zip code), and phone number. If you provide us feedback regarding our site or services via e-mail, we will collect your name and e-mail address in order to send you a reply. 
 
-**It's that simple.**
+In order to improve our services to you, we may ask you to voluntarily complete confidential surveys. We do not ask you to provide us any personally identifiable data in association with these surveys although we do associate your responses with Personal Data. If you do not wish to participate in a survey, however, simply decline to participate when asked. 
 
-Questions regarding this policy should be directed to [info@RealAge.com](mailto:info@RealAge.com) or we may also be contacted directly at the following address:
+**Personal Data Collected via Technology**   
+To make our services more useful to you, we use technological means to collect Personal Data from you, including the Uniform Resource Locator (URL) you just came from, the URL you go to next, your browser type, and your Internet Protocol (IP) address. We also use cookies or clear GIFs to collect Personal Data from you about your use of our site or e-mails we send you. You expressly consent to our use of cookies and clear GIFs when you use our services. 
 
-RealAge, Inc.  
-10675 Sorrento Valley Road, Suite 200  
-San Diego, CA 92121  
-(858) 812-3800  
+An "IP Address" is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet access provider, your IP address probably varies from session to session. We track IP addresses solely in conjunction with session cookies to analyze our Web page flow. 
 
+"Cookies" are small pieces of information that a Web site sends to your computer’s hard drive while you are viewing a Web site. RealAge uses both session cookies (which expire once you close your Web browser) and persistent cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our site. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can disable this function by changing the cookie profile on your computer’s Web browser. If you disable your cookies, however, you will not have access to certain features of our site such as "Remember My Password" or interactive quizzes. RealAge does not store any Personal Data in cookies on your computer (other than the cookie itself). 
 
-For more detailed information regarding our Privacy Statement and the use of our site, please click on the following links:  
-  
-**Types of information we collect:**
+"Clear GIFs" are clear electronic images that are used to track your movements on our site. They help us to determine whether content on our site is effective. We also use clear GIFs in HTML-based e-mails to let us know which e-mails have been opened and acted upon by recipients (including any persons to which the e-mails have been forwarded). Clear GIFs on our sites collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the clear GIF resides. This information helps us assess the effectiveness of certain communications and marketing campaigns. 
 
-RealAge collects two types of information when you visit our site: **Personally Identifiable Information** and **Non-Personally Identifiable Information**. We do this to provide you with an efficient and customized Web experience.
+**Personal Data That We Collect from You About Others**   
+If you decide to invite a friend or family member to join RealAge via a Tip of the Day, Health Assessment invitation, or other means in the future, we will collect your name and e-mail address as well as your friend’s or family member’s e-mail address in order to send this e-mail. This information is used once only and is not saved in our database, with the exception of the RealAge Challenge, in which case the friend's e-mail address is stored only for Challenge participation purposes. If you decide to invite a friend or family member to take the RealAge test, we will collect and save the friend’s or family member’s e-mail address into our database, as we would for anyone who registers on the RealAge site. 
 
-**Personally Identifiable Information** is information that can be used to identify or contact you. This is information that lets us know the specifics of who you are. We collect Personally Identifiable Information when you register for membership and when you choose to use the various services that RealAge provides (e.g., Tip of the Day, HealthBytes, Health Assessments, etc.). Personally Identifiable Information may include your name, e-mail address, and identification or contact information. If you choose to send a Tip of the Day or Health Assessment invite to a friend or family member, we may ask you the name and e-mail address of this person so that we may send it. We may collect certain financial information, such as your credit card information, if you are signing up for our pay services such as The RealAge Premium Report. With this information we can fill your service order and better provide you with personalized services. We also collect information (some health-related personal information) you provide voluntarily through responses to surveys, health assessments, and questionnaires.
+**Personal Data Collected by Third Parties**   
+Except as otherwise expressly provided in this Privacy Statement, only RealAge collects Personal Data through the services provided solely by RealAge; this Privacy Statement applies only to the use and disclosure of Personal Data that we collect while you use our services. 
 
-**Non-Personally Identifiable Information** is information that does not identify a specific individual. This information may include the Web site’s Uniform Resource Locator (URL) that you just came from, which URL you go to next, what browser you are using, and your Internet Protocol (IP) address. RealAge may use [cookies or clear GIFs](https://web.archive.org/web/20040610193546id_/http%3A//www.realage.com/company_info/privacy.aspx#8) to collect non-personal information about your use of our site, selected sponsor’s sites, or e-mails we send you. RealAge does not store any Personally Identifiable Information in any cookies on your computer.
+We do not use third party advertising services to display advertisements or links on our sites. However, when you click on such advertisements or links, you will leave our site and go to another site. During this process, a third party (including a third party advertising service that may provide services to an advertiser) may collect Personal Data or Anonymous Data from you, such as the URL you just came from, the URL you go to next, your browser type, and your IP address. Our display of advertisements or links to any other company or site is for your convenience and does not signify our endorsement of such company or site (or the contents of the site). We have no control over, we do not review, and our Privacy Statement does not apply to these other companies, sites, or content, or to any collection of data after you click on an advertisement of or link to a third party. 
 
-Your password ensures that your account will remain private. To protect your privacy, choose a password that will be difficult for others to guess.  
-  
-**Where we collect information and how we use it:**
+**Use of Your Data**   
+RealAge uses your Personal Data to provide you with a customized Web experience and to provide services to you. Such services include calculating your RealAge, sending RealAge Magazine should you request it (and processing your payment for this Magazine), processing your answers to quizzes to provide you with tailored information regarding your health, and sending electronic newsletters and promotional e-mails to you if you have requested to receive such communications from us (as described below). We also use Personal Data to notify you about updates to our services and to respond to your requests. 
 
-We collect Personally Identifiable Information to provide our members a customized Web experience. Contact information is used to fill requested services and send promotional e-mails if you choose to receive messages from RealAge. We may perform statistical analyses of aggregate member behavior. This allows us to measure member interest in the various areas of our site for development purposes. Any information we collect is used for our own internal purposes to improve site content, personalize member experience, and improve navigation. We also use Personally Identifiable Information to notify members about site updates and to respond to member-initiated requests. 
+We may create Anonymous Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Data to perform statistical analyses of users’ aggregate behavior so that we may enhance the content of our services and improve site navigation. RealAge reserves the right to use and disclose Anonymous Data to third parties in its discretion. 
 
-We gather information in the following ways: 
+If you elect to receive communications from us (as described below), we will periodically send you free newsletters and e-mails that directly promote the use of our site(s) or the purchase of our products or services and may contain advertisements for third parties. As a benefit of becoming a member, you may receive promotional e-mail from RealAge divisions such as DogAge, CatAge, Years Ahead, RealBeauty, MyLifestyleInterests, and others. If you would like to cease receiving these communications from us, you may unsubscribe by visiting those Web pages. 
 
-  * When you order The RealAge Premium Report, we collect Personally Identifiable Information from you. We will collect and maintain your name, e-mail address, mailing address, telephone number, service selections, and credit card number. We collect this and other information in order to fill your order, to communicate with you about your order, and to send you promotional materials, if you choose to receive them. 
-  * In order to improve our services to you, we ask some of our members to voluntarily complete surveys, which may be analyzed by an independent third party. Individual survey answers are confidential, and only Non-Personal Identifiable Information is collected and disclosed to third parties. If you do not wish to participate in a survey, simply decline to participate when asked. 
-  * We may offer free electronic newsletters and promotional e-mails as a service to our current members and prior members. We may directly send you newsletters and e-mails periodically listing current services or indirectly through our third party service partners. We never send promotional e-mails to you once we have processed your request to unsubscribe. To stop receiving our newsletter or e-mails, go to [My Account](http://www.realage.com/reg/MyAcntTC.aspx). 
-  * In conjunction with our third party service partners, we make limited use of [cookies and clear GIFs](https://web.archive.org/web/20040610193546id_/http%3A//www.realage.com/company_info/privacy.aspx#8) to gather information when you visit our site and when you click-through to our site from a targeted e-mail or newsletter. 
-  * If you contact us by telephone, e-mail, or letter, we may keep a record of your contact information, correspondence, or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you provide us feedback through our site, by e-mail or by calling one of our customer service representatives, we may ask for your name and e-mail address in order to send you a reply. 
-  * If you request us to send a Tip of the Day or other RealAge message to a friend or family member, we may ask you to provide the name and e-mail address of this person so that we may send him or her the invitation. We store this information for the sole purpose of sending this one-time only e-mail. You or the friend or family member may contact us at [info@RealAge.com](mailto:info@RealAge.com) to request the removal of this information from our database. 
+**Disclosure of Your Personal Data**   
+Except as otherwise stated in this policy, we do not sell, trade, or rent the Personal Data collected from our services to third parties. However, we will share your Personal Data with third parties to charge your credit card (if authorized by you), fill your order, and deliver promotional e-mails. These third parties are required not to use your Personal Data other than to provide the services requested by RealAge. You expressly consent to the sharing of your Personal Data with our contractors and third party service providers for the sole purpose of providing services to you. 
 
-  
-  
-**Who collects your information:**
+If you send a testimonial or comment to us, we may post it on our site or use it in advertising materials. We will attribute your testimonial to you by posting your first and last initial or your first name and last initial next to your testimonial on our site or advertising materials, if provided. 
 
-Except as otherwise expressly discussed in this Privacy Policy, only we collect your information. This document only addresses the use and disclosure of information we collect from you. Our third party advertising service partner may collect information about you through the use of [cookies or clear GIFs](https://web.archive.org/web/20040610193546id_/http%3A//www.realage.com/company_info/privacy.aspx#8) when you click on its advertisements, open promotional e-mails or newsletters, or visit our site via a link in a promotional e-mail or newsletter. You should contact our third party advertising service partner directly if you have any questions about its use of the information that it collects.   
-  
-**With whom the information may be shared:**
+Regardless of any choices you make regarding your Personal Data (as described below), RealAge may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on RealAge; or (b) protect or defend the rights or property of RealAge or users of RealAge services. 
 
-Except as otherwise stated in this policy, we do not sell, trade, or rent your Personally Identifiable Information collected on our site to others. Upon your authorization, we will disclose your Personally Identifiable Information to third parties to charge your credit card, fill your order, and deliver promotional e-mails. These third parties will not use your Personally Identifiable Information other than to provide the services requested by RealAge. For example, we must release your credit card number to confirm payment. We also share site usage information that we gather from members to our site that have received a targeted promotional campaign with our third party advertising service partner. We do this for the purpose of targeting future campaigns and upgrading member information used in reporting statistics. For this purpose, we and our third party service partners note some of the pages you visit on our site through the use of clear GIFs. 
+RealAge is a company with either subsidiaries, joint ventures, or other companies under a common control (collectively, “affiliates”). These affiliates include, but are not limited to, DogAge, CatAge, Years Ahead, RealBeauty, and MyLifestyleInterests. We may share some or all of your Personal Data with these affiliates, in which case we will require our affiliates to honor this Privacy Statement. If another company acquires our company or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Statement. 
 
-We may provide aggregated statistics about our members, traffic patterns, and related site information to third parties that do not include Personally Identifiable Information. Moreover, we may release account information when we believe that such release is reasonably necessary to enforce or apply our Terms and Conditions or to protect the rights, property, and safety of our users, others, and ourselves. 
+**Control of Your Personal Data**
 
-In order to comply with the federal "CAN-SPAM Act of 2003," RealAge provides the option of adding your e-mail address to The RealAge Suppression List. The RealAge Suppression List will be made available to RealAge e-mail marketing partners to ensure that you do not receive RealAge solicitations from those partners. For this option, please [go here](https://web.archive.org/web/20040610193546id_/http%3A//www.realage.com/reg/dnsolicit.aspx).
+**Your Choices Regarding Your Personal Data**   
+We offer you choices regarding the collection, use, and sharing of your Personal Data. You may proactively make such choices by visiting [ My Account](http://www.realage.com/reg/MyAcntTC.aspx). 
 
-From time to time, we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order or subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.  
-  
-**Updating, correcting, or deleting your Personally Identifiable Information:**
+When you become a member of RealAge by registering on our site, we will ask you if you want to receive future communications from us. You may indicate consent to receipt of these communications by checking the box located on the registration form. Should you decide to stop receiving further communications from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive, or by going to [ My Account](http://www.realage.com/reg/MyAcntTC.aspx). If at any time you wish to subscribe to any communications from us, you may visit [My Account](http://www.realage.com/reg/MyAcntTC.aspx). Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Statement. 
 
-You may change any of your personal information in your account online at any time at [My Account](http://www.realage.com/reg/MyAcntTC.aspx). You may ask us in writing via mail or e-mail at [info@RealAge.com](mailto:info@RealAge.com) to have the information on your account deleted, updated, or corrected. Note that we may retain changed or deleted information for archival or other purposes.  
-  
-**Collection, use, and distribution of your information:**
+**Accessing, Reviewing, and Changing Your Personal Data**   
+You may change any of your contact information in your account online by visiting [My Account](http://www.realage.com/reg/MyAcntTC.aspx). Note that we may retain changed or deleted information in our archives. 
 
-We may from time to time send you e-mail or other communications regarding current promotions, surveys, and new additions to our site. You may "opt-out," or unsubscribe, from our newsletters and e-mails by following the unsubscribe instructions stated at the end of any e-mail you receive from us, or by sending an e-mail to [info@RealAge.com.](mailto:info@RealAge.com)  
-  
-**Security precautions to protect against the loss, misuse, or alteration of your information:**
+**Security of Your Personal Data**   
+RealAge is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. 
 
-The information that you enter in the RealAge test and Health Assessments is stored on our servers in a password-protected, personal account. To ensure maximum security, RealAge uses Secure Sockets Layer (SSL) technology and Verisign Site ID, the industry leaders in providing secure communication over the Internet. The SSL is engaged when you choose to switch to SSL during any interaction in which you enter personal information. All information is stored behind a secure computer firewall, a barrier that prevents outsiders from accessing our servers. To verify that you have a secure server connection, look for the locked padlock symbol at the bottom of your browser window or the HTMLS-code in the site connection-identifier.
+On most of our sites, RealAge enables the use of Secure Sockets Layer (SSL) technology and Verisign Site ID, the industry leaders in providing secure communication over the Internet. SSL can be engaged by choosing to switch to SSL during any interaction in which you enter Personal Data. We also offer industry-standard secured-server transactions that encrypt your Personal Data when collecting your credit card information for online purchases. To verify that you have a secure server connection, look for the locked padlock symbol at the bottom of your browser window or the HTMLS-code in the site connection-identifier. 
 
-In order to serve you as efficiently as possible, established third party banking institutions, process agents, and distribution institutions handle credit card transactions. They receive the information they need to verify and authorize your credit card transactions. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting and misusing it. When you access your account information, the information is kept on a secure server. Furthermore, all of the member data we collect is protected against unauthorized access by physical security means. 
+RealAge has implemented other industry-standard electronic means of protecting your Personal Data. We store Personal Data behind a computer firewall, a barrier designed to prevent outsiders from accessing our servers. We also require you to enter a password to access your account information. In addition, RealAge protects your Personal Data from unauthorized physical access by storing your Personal Data in a controlled facility. Except as provided elsewhere in this Privacy Statement, RealAge limits access to Personal Data in electronic databases to those persons (including employees and contractors) in RealAge’s organization who have a business need for such access. 
 
-Your password ensures that your account will remain private. To protect your privacy, choose a password that will be difficult for others to guess.  
-  
-**Cookies and clear GIFs:**
+Even though RealAge has taken significant steps to ensure that your Personal Data is not intercepted, accessed, used, or disclosed by unauthorized persons, you should know that RealAge cannot eliminate security risks associated with Personal Data. 
 
-" **Cookies** " are small pieces of information that are stored by your browser on your computer's hard drive. Web sites often place cookies on your browser to identify return users -- this allows for enhanced personalization. RealAge only uses cookies to streamline the interactive experience. With your permission, we may utilize cookies to ensure that we deliver relevant information that you have requested. We do not use cookies to determine advertising selections or to deliver information that you have not specifically requested from us. We never use cookies to cross-reference identifying data and we never provide a third party access to RealAge cookie information. Most Web browsers accept cookies automatically. If you would like to disable this function, you must do so by changing the cookie profile in your computer’s Web browser. If you disable your cookies, you will not have access to any interactive quizzes at RealAge.
+**Questions Regarding This Privacy Statement**
 
-**Clear GIFs** are tiny graphics with a unique identifier -- similar in function to cookies -- and are used to track the online movements of our members. The main difference between the two is that clear GIFs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear GIFs are not tied to your Personally Identifiable Information. Clear GIFs help us better manage content on our site by informing us of what content is most effective. Our third party service partners use clear GIFs in HTML-based e-mails to let us know which e-mails have been opened by recipients, to track the visitor traffic on our site, and assess the effectiveness of certain communications and marketing campaigns.  
-  
-**Children, parental consent, and privacy:**
+**Contact Information** RealAge welcomes your comments or questions regarding this Privacy Statement. Please e-mail us at: [ info@RealAge.com](mailto:info@RealAge.com). 
 
-The Children's Online Privacy Protection Act took effect on April 21, 2000. It imposes certain requirements on Web sites specifically directed toward children under 13 that collect information on those children. We are committed to protecting the privacy of children. RealAge is not designed or intended to attract children under the age of 18. We do not collect Personally Identifiable Information from any person we actually know is under the age of 18.  
-  
-**Third party Web sites accessible from our site:**
+For your information, RealAge is located at:   
+RealAge, Inc.   
+10675 Sorrento Valley Road, Suite 200   
+San Diego, CA 92121   
+(858) 812-3800 
 
-Other sites accessible through our site have their own privacy policies, as well as data collection, use, and disclosure practices. Please consult each site's privacy policy. We are not responsible for the policies or practices of third parties. Please be aware that our site may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those Web sites linked to our site are not covered by RealAge’s privacy policy.   
-  
-**Business transfers:**
+**Dispute Resolution**   
+If you believe that RealAge has not adhered to this Statement, please contact RealAge by e-mail at [info@realage.com](mailto:info@RealAge.com). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and RealAge are unable to reach a resolution to the dispute, you and RealAge will settle the dispute exclusively under the rules of the American Arbitration Association ([www.adr.org](http://www.adr.org/)). 
 
-The information that you provide us is an asset of RealAge, Inc. If RealAge, Inc., all, or substantially all, of its assets is acquired, then your information will be one of the assets transferred in the acquisition.  
-  
-**Contacting us about privacy questions or concerns:**
+**Changes to This Privacy Statement**   
+We may amend this Privacy Statement from time to time. If we make material changes in the way we collect, use, and/or share your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our site. Any material changes to this Privacy Statement will be effective upon [the earlier of] thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our site. These changes will be effective immediately for new users of our services. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Statement may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. 
 
-If you have any questions about this privacy policy, please contact us by sending an e-mail to [info@RealAge.com](mailto:info@RealAge.com) or contact us directly at:
+This Privacy Statement was last revised in February 2005. 
 
-RealAge, Inc.  
-10675 Sorrento Valley Road, Suite 200  
-San Diego, CA 92121  
-(858) 812-3800  
-  
-  
-Revised October 2003 
+[View our Copyright, Patents, and Trademarks](http://www.realage.com/company_info/copyright.aspx). 
