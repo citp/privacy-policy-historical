@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the jaguarpc.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603200608id_/http%3A//www.jaguarpc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguarpc.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218195832id_/http%3A//www.jaguarpc.com/%3Floc%3Dpolicies%26type%3Dprivacy) for the most accurate reproduction.*
 
-# Jaguar PC - Quality hosting! .:Home of HostGUI:.
+# JaguarPC - Quality Web Hosting at Affordable Prices
+
+Nav: [Home](http://www.jaguarpc.com/) > Support > policies  
+
+
+Privacy Policy
 
 This is the web site of JaguarPC from the Houston Metro in Texas, USA.   
-We can be reached via e-mail at support@jaguarpc.com . 
+We can be reached via e-mail at abuse@jaguarpc.com . 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit. The information we collect is used for internal review and is then discarded, not shared with other organizations for commercial purposes. 
 
@@ -14,3 +19,10 @@ With respect to Ad Servers: We do not partner with or have special relationships
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
 If you feel that this site is not following its stated information policy, you may contact state or local chapters of the Better Business Bureau. 
+
+  
+[Guarantee](http://www.jaguarpc.com/?loc=policies&type=guarantee)  
+[Service Level Agreement](http://www.jaguarpc.com/?loc=policies&type=sla)  
+[Acceptable Use Policy](http://www.jaguarpc.com/?loc=policies&type=aup)  
+[Terms of Service](http://www.jaguarpc.com/?loc=policies&type=tos)  
+[View All](http://www.jaguarpc.com/?loc=policies&type=all)
