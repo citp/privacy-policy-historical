@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yanni.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528130911id_/http%3A//www.yanni.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yanni.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218010217id_/http%3A//yanni.com/privacy.asp) for the most accurate reproduction.*
 
 # Official Yanni Web Site
 
