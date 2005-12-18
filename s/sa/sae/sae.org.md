@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173506id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218125759id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.*
 
 # SAE Website Privacy Policy
 
@@ -12,12 +12,12 @@
 _Your privacy is important to us!_  
 
 
-Last updated: 23 April 2003 
+Last updated: 1 September 2005 
 
 **Summary**  
 The Society of Automotive Engineers, International, ("SAE") knows that you care about how your personal information is collected and used, and we appreciate your trust in our commitment to do so carefully and thoughtfully. This document describes what personally identifiable information we collect, how we collect and use it, and the procedures we have in place to protect that information; this constitutes the Privacy Policy for the SAE.ORG website. 
 
-This Policy applies to the www.sae.org and www.sts.sae.org websites. It may not apply to websites of any other SAE affiliate, branch, section, chapter, group, or student group, or to websites operated by organizations or groups who associate themselves with SAE. It does not apply to any other Internet websites, including those that have hypertext links to or from SAE.ORG. 
+This Policy applies to the www.sae.org and www.awim.org websites. It may not apply to websites of any other SAE affiliate, branch, section, chapter, group, or student group, or to websites operated by organizations or groups who associate themselves with SAE. It does not apply to any other Internet websites, including those that have hypertext links to or from SAE.ORG. 
 
 SAE may revise this Policy at any time, and will post the Policy on this web page, including the date, above, of the most recent update. By using the SAE.ORG website, you are accepting the practices described in this Policy. 
 
