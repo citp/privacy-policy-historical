@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pens.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612035441id_/http%3A//www.pens.com/pens/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pens.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218225209id_/http%3A//pens.com/pens/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -7,7 +7,7 @@
   
 **Privacy Policy**
 
-> National Pen Corporation, the sponsor of Pens.com, has created this Privacy Statement to demonstrate our firm commitment to privacy. This statement outlines our information gathering and sharing practices for this web site. 
+> National Pen Company, the sponsor of Pens.com, has created this Privacy Statement to demonstrate our firm commitment to privacy. This statement outlines our information gathering and sharing practices for this web site. 
 
 **
 
