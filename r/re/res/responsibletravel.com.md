@@ -1,66 +1,8 @@
-> *The following text is extracted and transformed from the responsibletravel.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405121716id_/http%3A//www.responsibletravel.com/copy/copy100068.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsibletravel.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218065829id_/http%3A//www.responsibletravel.com/copy/copy100068.htm) for the most accurate reproduction.*
 
 # world's best responsible/ecotourism holidays
 
-|  | Trip search  
----|---  
-| [Africa/Middle East](http://www.responsibletravel.com/TripSearch/Africa_Middle%20East/Region100001.htm)  
-  | [Antarctica/Arctic](http://www.responsibletravel.com/TripSearch/Antarctica_Arctic/Region100002.htm)  
-  | [Asia](http://www.responsibletravel.com/TripSearch/Asia/Region100003.htm)  
-  | [Australia/Oceania](http://www.responsibletravel.com/TripSearch/Australia_Oceania/Region100004.htm)  
-  | [Caribbean](http://www.responsibletravel.com/TripSearch/Caribbean/Region100006.htm)  
-  | [Central America](http://www.responsibletravel.com/TripSearch/Central%20America/Region100012.htm)  
-  | [Europe](http://www.responsibletravel.com/TripSearch/Europe/Region100007.htm)  
-  | [Indian Ocean](http://www.responsibletravel.com/TripSearch/Indian%20Ocean/Region100011.htm)  
-  | [North America](http://www.responsibletravel.com/TripSearch/North%20America/Region100010.htm)  
-  | [South America](http://www.responsibletravel.com/TripSearch/South%20America/Region100008.htm)  
-  | [UK](http://www.responsibletravel.com/TripSearch/UK/Region100009.htm)  
-| Activity search  
----|---  
-| [Adventure holidays](http://www.responsibletravel.com/TripSearch/Adventure%20holidays/ActivityCategory100007.htm)  
-  | [Beach holidays](http://www.responsibletravel.com/TripSearch/Beach%20holidays/ActivityCategory100003.htm)  
-  | [Budget travel](http://www.responsibletravel.com/TripSearch/Budget%20travel/ActivityCategory100010.htm)  
-  | [Community](http://www.responsibletravel.com/TripSearch/Community/ActivityCategory100009.htm)  
-  | [Cultural holidays](http://www.responsibletravel.com/TripSearch/Cultural%20holidays/ActivityCategory100002.htm)  
-  | [Ecotourism](http://www.responsibletravel.com/TripSearch/Ecotourism/ActivityCategory100020.htm)  
-  | [Family holidays](http://www.responsibletravel.com/TripSearch/Family%20holidays/ActivityCategory100004.htm)  
-  | [Gap year](http://www.responsibletravel.com/TripSearch/Gap%20year/ActivityCategory100012.htm)  
-  | [Honeymoon ideas](http://www.responsibletravel.com/TripSearch/Honeymoon%20ideas/ActivityCategory100017.htm)  
-  | [Luxury travel](http://www.responsibletravel.com/TripSearch/Luxury%20travel/ActivityCategory100019.htm)  
-  | [Over 50's holidays](http://www.responsibletravel.com/TripSearch/Over%2050_s%20holidays/ActivityCategory100015.htm)  
-  | [Short breaks](http://www.responsibletravel.com/TripSearch/Short%20breaks/ActivityCategory100018.htm)  
-  | [Special interest](http://www.responsibletravel.com/TripSearch/Special%20interest/ActivityCategory100016.htm)  
-  | [Volunteer travel](http://www.responsibletravel.com/TripSearch/Volunteer%20travel/ActivityCategory100011.htm)  
-  | [Walking holidays](http://www.responsibletravel.com/TripSearch/Walking%20holidays/ActivityCategory100013.htm)  
-  | [Well-being](http://www.responsibletravel.com/TripSearch/Well-being/ActivityCategory100008.htm)  
-  | [Wildlife safaris](http://www.responsibletravel.com/TripSearch/Wildlife%20safaris/ActivityCategory100001.htm)  
-  | [Winter sports](http://www.responsibletravel.com/TripSearch/Winter%20sports/ActivityCategory100014.htm)  
-| Accommodation  
----|---  
-| [B&B](http://www.responsibletravel.com/AccommodationSearch/B%26B/AccommodationCategory100005.htm)  
-  | [Backpackers](http://www.responsibletravel.com/AccommodationSearch/Backpackers/AccommodationCategory100006.htm)  
-  | [Beach resorts](http://www.responsibletravel.com/AccommodationSearch/Beach%20resorts/AccommodationCategory100007.htm)  
-  | [City accommodation](http://www.responsibletravel.com/AccommodationSearch/City%20accommodation/AccommodationCategory100009.htm)  
-  | [Eco lodge](http://www.responsibletravel.com/AccommodationSearch/Eco%20lodge/AccommodationCategory100003.htm)  
-  | [Farmstays](http://www.responsibletravel.com/AccommodationSearch/Farmstays/AccommodationCategory100008.htm)  
-  | [Honeymoon hotels](http://www.responsibletravel.com/AccommodationSearch/Honeymoon%20hotels/AccommodationCategory100002.htm)  
-  | [Self catering](http://www.responsibletravel.com/AccommodationSearch/Self%20catering/AccommodationCategory100010.htm)  
-  | [Wilderness](http://www.responsibletravel.com/AccommodationSearch/Wilderness/AccommodationCategory100004.htm)  
-| Travel services  
----|---  
-| [Business travel](http://www.responsibletravel.com/TripSearch/Business%20travel/ActivityCategory100021.htm)  
-  | [Car hire](http://www.responsibletravel.com/Copy/Copy101079.htm)  
-  | [Flights](http://www.responsibletravel.com/Copy/Copy101864.htm)  
-  | [Guide books](http://www.responsibletravel.com/Copy/Copy101383.htm)  
-  | [Health advice](http://www.responsibletravel.com/Copy/Copy101887.htm)  
-  | [Insurance](http://www.responsibletravel.com/Copy/Copy100889.htm)  
-  | [Travel clothing](http://www.responsibletravel.com/Copy/Copy101688.htm)  
-  | [Travel magazines](http://www.responsibletravel.com/Copy/Copy101570.htm)  
-  | [Weather to go](http://www.responsibletravel.com/Copy/Copy101886.htm)  
-  
-|  |    
----|---  
- | We are committed to providing you with the best information on responsible travel, and to protecting your privacy.
+We are committed to providing you with the best information on responsible travel, and to protecting your privacy.
 
   * We will only collect information from you that we require in order to provide you with the most relevant information for your interests. 
   * We will only send you information that you have agreed to receive, and each time we do so we will offer you the opportunity to amend your details or decline to receive further information if you so wish. 
