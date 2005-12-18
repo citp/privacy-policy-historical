@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804193942id_/http%3A//www.calottery.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219005328id_/http%3A//www.calottery.com/privacypolicy) for the most accurate reproduction.*
 
-# California Lottery - Privacy Policy
+# 
+
+|  |  |  |  | 
 
 Your privacy is important to the California Lottery. Employees of the California Lottery are prohibited from disclosing any information you provide, except as provided by law. No personally identifying information (such as your name, address or phone number) will ever be captured by visiting this Web site, unless you voluntarily choose to provide it. Personal information voluntarily provided by you is used primarily for informational purposes. When personal information is stored by the Lottery it is in a secure location and is accessible only to designated staff.
 
@@ -40,4 +42,7 @@ This site contains links to other sites. The California Lottery is not responsib
 
  **Contacting the Lottery**
 
-If you have any questions about this privacy notice, the practices of this site, or your dealings with the site you should contact the California Lottery, 600 North 10th Street, Sacramento, CA 95814. 
+If you have any questions about this privacy notice, the practices of this site, or your dealings with the site you should contact the California Lottery, 600 North 10th Street, Sacramento, CA 95814.
+
+|  |  |   
+|  |  | 
