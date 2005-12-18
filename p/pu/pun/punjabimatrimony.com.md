@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punjabimatrimony.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203215621id_/http%3A//www.punjabimatrimony.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabimatrimony.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219001549id_/http%3A//www.punjabimatrimony.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -18,6 +18,6 @@ Bharatmatrimony.com does not sell, rent, or loan any identifiable information at
 
 * NO, All visitors to our site may browse the site, search the ads and view any articles or features our site has to offer without entering any personal information or paying money.
 
-* As a paid member of this site, you have the privilege to contact hundreds of profiles in a single day. However, there is a specified limit to 150 contacts for security reasons per day . If you want to contact more profiles than the specified limit in a single day, he/she can do so after the completion of 24 hours of their login time.
+* As a paid member of this site, you have the privilege to contact hundreds of profiles in a single day. However, there is a specified limit to 150 contacts for security reasons per day . If you want to contact more profiles than the specified limit in a single day, he/she can do so after the completion of 12 hours of their login time.
 
 * We may change this Privacy Policy from time to time based on your comments or as a result of a change of policy in our company. 
