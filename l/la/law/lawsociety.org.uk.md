@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525053957id_/http%3A//www.lawsociety.org.uk/privacystatement.law) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218142904id_/http%3A//www.lawsociety.org.uk/privacystatement.law) for the most accurate reproduction.*
 
 # Law Society of England and Wales - Privacy statement
 
@@ -38,4 +38,4 @@ The Internet and data privacy best practice are both developing. We therefore re
 
 By using this website and the website at [http://www.lawgazette.co.uk](http://www.lawgazette.co.uk/ "Law Society Gazette Website") you consent to the collection and use of your personal information in the manner set out above. 
 
-June 2004 
+June 2004
