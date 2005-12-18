@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psecu.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404022435id_/http%3A//www.psecu.com/About_Us/Security/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psecu.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218050616id_/http%3A//www.psecu.com/About_Us/Security/Privacy_Policy) for the most accurate reproduction.*
 
 # PSECU: Privacy Policy
 
@@ -136,9 +136,7 @@ PSECU has an e-mail marketing service. PSECU will periodically send e-mails prom
 
 
 
+_This notice is being sent to each member address of record. If you would like an additional copy, or after having shared it with any joint owner(s) on your account and that person(s) would like a copy, please contact us using one of the methods listed below. (Calling our toll-free number, writing to the address provided or e-mailing us.)_
+
 **How to Contact Us...**  
 If you have read this notice and have questions, You may contact PSECU by [mail](https://web.archive.org/About_Us/Contact_Us/Mailing_Address/), [telephone](https://web.archive.org/About_Us/Contact_Us/Telephone/), or you may email specific questions about this Privacy Notice and Disclosure to PSECU's [Compliance officer](mailto:complianceofficer@psecu.com).
-
-Pennsylvania State Employees Credit Union Form #4200IA Rev. 04/04
-
-PSECU is a member of the Truste privacy program. If you have questions or concerns regarding this Privacy Policy, you should first contact PSECU's Compliance Officer. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at TRUSTe Watchdog. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
