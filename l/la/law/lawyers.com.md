@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the lawyers.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307044803id_/http%3A//lawyers.com/utility/privacy/index.php%3Fsite%3D259) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyers.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218120516id_/http%3A//www.lawyers.com/utility/privacy/index.php%3Fsite%3D259) for the most accurate reproduction.*
 
 # 
-
-  
-
 
 **Martindale-Hubbell Privacy Policy**
 
