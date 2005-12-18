@@ -1,390 +1,720 @@
-<!--The following is the downloaded HTML source of the evesaddiction.com privacy policy that was archived on 2005-01-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050115133011id_/http%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the evesaddiction.com privacy policy that was archived on 2005-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051218121945id_/http%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.-->
 
-<html><head><script language="javascript"> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta name="Keywords" content="sterling silver jewelry, cubic zirconia jewelry, bracelets, necklaces, pendants, rings, earrings, bridal party gifts, bridesmaids gifts, bridal jewelry, wedding jewelry, designer inspired jewelry"><meta name="Description" content="Fine Sterling Silver Jewelry at EvesAddiction.com featuring cubic zirconia jewelry, silver earrings, rings, necklaces, bracelets, pendants, brooches, fashion watches, designer inspired pieces and more! "><title>Eve's Addiction - Sterling Silver Jewelry</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="http://site.evesaddiction.com/images/eve6.css" type="text/css" --="">
+<script language="JavaScript" src="http://site.evesaddiction.com/images/eve.js" type="text/javascript"></script>
+<meta name="netinsert" content="0.0.1.12.18.1">
+<!--php logger-->
+<!--Linkconnector-->
+<script language="javascript" src="http://www.linkconnector.com/member/JS/traffic_link_client.php?mid=3046"></script> 
+
+<script language="JavaScript">
+<!--
+//##
+//## WishList.com, Inc.
+//## Copyright 2001-2002 WishList.com, Inc. All rights reserved.
+//##
+
+
+function Addtowishlist(wlid,PCode,params){
+
+	//## get form index using yahoo's product sku hidden variable 'vwitem'
+	var formindex = -1;
+	for (a=0;a<document.forms.length;a++){
+		if (document.forms[a].vwitem){
+			if (document.forms[a].vwitem.value == PCode){
+				formindex = a;
+				break;
+			}
+		}
+	}
+
+<!-- alert(formindex); -->
+	//## set form length
+	var formlength = 0;
+	if  (formindex > -1){
+		formlength = document.forms[formindex].length;
+	}
+
+	var wlburlparams = "";
+	var i = 0;
+	var cur_form_param = "";
+	var form_params = "";
+	var select_params = "";
+
+	//## Get form elements if formindex is not -1
+	while(i < formlength && formindex > -1) {
+
+		//## Set curent form parameters. may adjust for drop boxes, checkboxes or readio buttons below
+		var cur_form_param = escape(document.forms[formindex].elements[i].name) + "=" + escape(document.forms[formindex].elements[i].value);
+
+		//## Netscape 6.0 counts form images in form element array, but sets name and value to empty set.
+		if  (cur_form_param == "="){
+			cur_form_param = "";
+		}
+
+		//## Drop Boxes...Check to see if the form element is a selection box, save display text if so
+		if  (document.forms[formindex].elements[i].type.indexOf('select') != -1){
+
+			//## Note: we may have to accommodate multiple selections in the future
+
+			var sel_name = document.forms[formindex].elements[i].name;
+			var sel_text = document.forms[formindex].elements[i].options[document.forms[formindex].elements[i].options.selectedIndex].text;
+			var cur_select_param = escape(sel_name) + "=" + escape(sel_text);
+
+			if (select_params != ""){
+				select_params = select_params + "*" + cur_select_param;
+			}else{
+				select_params = cur_select_param;
+			}
+
+			//## Now save form value for the selected element
+			cur_form_param = escape(document.forms[formindex].elements[i].name) + "=" + escape(document.forms[formindex].elements[i].options[document.forms[formindex].elements[i].options.selectedIndex].value);
+
+		}
+
+		//## Radio or Checkbox...Check to see if form element is checkbox or radio
+		if  (document.forms[formindex].elements[i].type.indexOf('checkbox') != -1 || document.forms[formindex].elements[i].type.indexOf('radio') != -1){
+
+			//## Check to see if element is not checked. set to empty if not.
+			if (!(document.forms[formindex].elements[i].checked)){
+
+				//## Now save form value for the selected element. set to empty because the checkbox was not selecte
+				cur_form_param = "";
+
+			}
+		}
+
+		//## save form_params
+		if (form_params != "" && cur_form_param != ""){
+			form_params = form_params + "*" + cur_form_param;
+		}
+		if (form_params == "" && cur_form_param != ""){
+			form_params = cur_form_param;
+		}
+
+		//## increment and reset cur_form_param
+		i += 1;
+		cur_form_param = "";
+	}
+
+	//## Open WishList.com PopWindow
+
+	var wlpopurl = "http://gre.wishlist.com/gre_popwin/action/blank_addwish.htm?wlid=" + wlid;
+	var wlpop = window.open(wlpopurl,"Wishlist_com_pop","height=550,width=350,location=0,scrollbars=1,menubars=0,toolbars=0,resizable=1");
+
+
+	//## Submit the form with the new window as the target
+
+	document.Wishlist_com_form.addtowishlistparams.value = params + "^WLBURLPARAMS=" + form_params + "^WLSELECTTEXT=" + select_params;
+	document.Wishlist_com_form.wlid.value = wlid;
+	document.Wishlist_com_form.submit();
+
+}
+
+//-->
+</script>
+<script language="JavaScript">
+<!--
+
+//Disable right mouse click Script
+//By Maximus (maximus@nsimail.com) w/ mods by DynamicDrive
+//For full source code, visit http://www.dynamicdrive.com
+
+var message="Function Disabled!";
+
+///////////////////////////////////
+function clickIE4(){
+if (event.button==2){
+alert(message);
+return false;
+}
+}
+
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+alert(message);
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+document.oncontextmenu=new Function("alert(message);return false")
+
+// --> 
+</script>
+
+
+</head><body><form name="Wishlist_com_form" method="POST" action="http://gre.wishlist.com/gre_popwin/action/post_addwish.htm" target="Wishlist_com_pop"><input type="hidden" name="wlid" value=""><input type="hidden" name="addtowishlistparams" value=""></form><a name="top"></a><table width="857" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td> 
+      <a href="http://www.evesaddiction.com"></a> 
+      <!-- image map -->
+      <map name="xmas-top1">
+        <area coords="29,58,351,127" href="http://www.evesaddiction.com">
+        <area shape="rect" coords="719,53,818,127" href="http://order.store.yahoo.com/cgi-bin/wg-order?yhst-14401160710022">
+      </map>
+<!-- image map -->
+<map name="maintop43">
+<area coords="5,19,191,40" href="http://www.evesaddiction.com/custsrv.html">
+<area coords="2,-70,324,-1" href="http://www.evesaddiction.com">
+<area coords="651,-1,784,20" href="http://www.evesaddiction.com/tiffany-inspired.html">
+<area coords="558,0,635,20" href="http://www.evesaddiction.com/earrings.html">
+<area coords="375,0,554,20" href="http://www.evesaddiction.com/necklaces.html">
+<area coords="303,-1,355,20" href="http://www.evesaddiction.com/rings.html">
+<area coords="206,-2,295,20" href="http://www.evesaddiction.com/bracelets.html">
+<area coords="62,0,122,20" href="http://www.evesaddiction.com">
+</map>
+<script language="JavaScript1.1">
+<!--
+var MM_contentVersion = 5;
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) {
+		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
+	    for (var i = 0; i < words.length; ++i)
+	    {
+		if (isNaN(parseInt(words[i])))
+		continue;
+		var MM_PluginVersion = words[i]; 
+	    }
+	var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion;
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
+   && (navigator.appVersion.indexOf("Win") != -1)) {
+	document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
+	document.write('on error resume next \n');
+	document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
+	document.write('</SCR' + 'IPT\> \n');
+}
+if ( MM_FlashCanPlay ) {
+		document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
+	document.write('  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" ');
+	document.write(' ID="http://site.evesaddiction.com/images/xmas-top1" WIDTH="857" HEIGHT="132" ALIGN="">');
+	document.write(' <PARAM NAME=movie VALUE="http://site.evesaddiction.com/images/xmas-top10.swf"> <PARAM NAME=menu VALUE=false> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF>  '); 
+	document.write(' <EMBED src="http://site.evesaddiction.com/images/xmas-top10.swf" menu=false quality=high bgcolor=#FFFFFF  ');
+	document.write(' swLiveConnect=FALSE WIDTH="857" HEIGHT="132" NAME="http://site.evesaddiction.com/images/xmas-top1" ALIGN=""');
+	document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">');
+	document.write(' </EMBED>');
+	document.write(' </OBJECT>');
+} else{
+	document.write('<IMG SRC="http://site.evesaddiction.com/images/xmas-header4.jpg" WIDTH="857" HEIGHT="132" usemap="#xmas-top1" BORDER=0>');
+}
+//-->
+</script><img src="http://site.evesaddiction.com/images/xmas-header4.jpg" width="857" height="132" usemap="#xmas-top1" border="0">
+      <noscript>
+      <IMG SRC="http://site.evesaddiction.com/images/xmas-header4.jpg" WIDTH="857" HEIGHT="132" usemap="#xmas-top1" BORDER=0> 
+      </noscript> 
+    </td>
+  </tr>
+</tbody></table>
+<!--end top banner-->
+<table width="760" border="0" align="center" cellpadding="1" cellspacing="0" bgcolor="#FFFFFF">
+  <tbody><tr>
+    <td bgcolor="9BA8C7"><table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr valign="top"> 
+          <td colspan="4" bgcolor="#FFFFFF" background="http://site.evesaddiction.com/images/header-background3.gif"> 
+            <script language="JavaScript1.1" type="text/javascript">
+<!--
+var MM_contentVersion = 5;
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) {
+		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
+	    for (var i = 0; i < words.length; ++i)
+	    {
+		if (isNaN(parseInt(words[i])))
+		continue;
+		var MM_PluginVersion = words[i]; 
+	    }
+	var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion;
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
+   && (navigator.appVersion.indexOf("Win") != -1)) {
+	document.write('<SCR'+'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
+	document.write('on error resume next \n');
+	document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
+	document.write('</SCR'+'IPT\>\n');
+}
+if ( MM_FlashCanPlay ) {
+	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
+	document.write('  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" ');
+	document.write(' ID="topbanner" WIDTH="803" HEIGHT="42" ALIGN="">');
+	document.write(' <PARAM NAME=movie VALUE="http://site.evesaddiction.com/images/maintop70.swf?ID=&category="> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF>  '); 
+	document.write(' <EMBED src="http://site.evesaddiction.com/images/maintop70.swf?ID=&category=" quality=high bgcolor=#FFFFFF  ');
+	document.write(' swLiveConnect=FALSE WIDTH="803" HEIGHT="42" NAME="topbanner" ALIGN=""');
+	document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">');
+	document.write(' </EMBED>');
+	document.write(' </OBJECT>');
+} else{
+	document.write('<IMG SRC="http://site.evesaddiction.com/images/maintop3.jpg" WIDTH="803" HEIGHT="110" usemap="#maintop43" BORDER=0>');
+}
+//-->
+</script><img src="http://site.evesaddiction.com/images/maintop3.jpg" width="803" height="110" usemap="#maintop43" border="0">
+            <noscript>
+            <IMG SRC="http://site.evesaddiction.com/images/maintop43b.gif" WIDTH="803" HEIGHT="42" usemap="#maintop43" BORDER=0 alt="silver jewelry"> 
+            </noscript> </td>
+        </tr>
+        <tr valign="top"> 
+          <td bgcolor="#FFFFFF"><img src="http://site.evesaddiction.com/images/spacer.gif" width="191" height="1" alt="EvesAddiction.com Sterling Silver Jewelry"></td>
+          <td><img src="http://site.evesaddiction.com/images/spacer.gif" width="1" height="1" alt="EvesAddiction.com Sterling Silver Jewelry"></td>
+          <td bgcolor="#FFFFFF"><img src="http://site.evesaddiction.com/images/spacer.gif" width="10" height="1" alt="EvesAddiction.com Sterling Silver Jewelry"></td>
+          <td bgcolor="#FFFFFF"><img src="http://site.evesaddiction.com/images/spacer.gif" width="601" height="1" alt="EvesAddiction.com Sterling Silver Jewelry"></td>
+        </tr>
+        <tr> 
+          <td width="198" height="1" bgcolor="#FFFFFF"><img src="http://site.evesaddiction.com/images/spacer.gif" width="191" height="1" alt="EvesAddiction.com Sterling Silver Jewelry"></td>
+          <td width="1"><img src="http://site.evesaddiction.com/images/spacer.gif" width="1" height="1" alt="EvesAddiction.com Sterling Silver Jewelry"></td>
+          <td width="10" rowspan="2" valign="top" bgcolor="#FFFFFF" align="center"><img src="http://site.evesaddiction.com/images/spacer.gif" width="1" height="1" alt="EvesAddiction.com Sterling Silver Jewelry"></td>
+          <td width="1108" rowspan="2" valign="top" bgcolor="#FFFFFF" align="center"> 
+<table border="0" align="center" cellspacing="0" cellpadding="0" width="570"><tbody><tr valign="top"><td><table border="0" cellspacing="0" cellpadding="5" width="100%"><tbody><tr><td id="breadcrumbs"></td></tr><tr><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#9BA8C7"><img src="http://lib.store.yahoo.net/lib/yhst-14401160710022/blue-spacer.gif" width="1" height="1"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table border="0" cellspacing="0" cellpadding="5" width="100%"><tbody><tr valign="top"><td><font size="1" face="verdana,arial, helvetica"><table width="612" border="0" cellspacing="0" cellpadding="25"><tbody><tr><td class="staticpages">
+<font style="font-family: Times New Roman, Times, serif; font-weight: bold; font-size: 24px; color: #4A587E;">Privacy Policy</font>
+<br><br>
+      <font style="font-family: Times New Roman, Times, serif; font-weight: bold; font-size: 16px; color: #4A587E;"><img src="http://site.evesaddiction.com/images/secure-shopping.gif" width="304" height="58" border="0"></font><br>
+      What personal information do we collect? When you place an order with us, 
+      we ask for the standard personal information in our order form (such as 
+      name, address, email, contact phone number, and so forth) in order for us 
+      to properly ship your order to you. This information is kept secure in protected 
+      systems. If necessary, we may use this information to contact you (via email 
+      for example) regarding a pending order, or to answer a question prompted 
+      from a customer. <br>
+      <br>
+      From time to time, you may receive promotional information and special offers 
+      through e-mail or regular mail from Eve's Addiction and/or our marketing 
+      partners. However, if you do not want to receive e-mail communications or 
+      other promotional communications, you are free to opt out of our mailing 
+      list at any time. We do not sell, lease, or rent your email address without 
+      your permission. <br>
+      <br>
+      What other kind of information do we collect? We use a commonly known file 
+      called a <a href="http://www.cookiecentral.com/content.phtml?area=2&amp;id=1" title="What is a cookie?" target="blank">"cookie"</a> 
+      on our site. These are the same cookies used on millions of other websites 
+      in order to help you navigate our site. In the case of our site, we use 
+      cookies to let your computer remember the contents (products) in your shopping 
+      cart and related information. In some cases, we may use a cookie to let 
+      us know if you are coming from a site affiliated with us so that we may 
+      attend to that site's due commissions. In the case of affiliated sites, 
+      only the subtotal sale amount will be divulged to the affiliates for payment 
+      purposes. Personally identifiable information will in NO WAY be provided 
+      outside of EvesAddiction.com in these cases. <br>
+      <br>
+      Like most other websites, we monitor the aggregate (how many people) traffic 
+      statistics on our website. This is done in order to provide our customers 
+      with better and more efficient service. These general statistics do NOT 
+      personally identify our customers and site visitors. <br>
+      <br>
+      We use affiliate software to track where potential customers are coming 
+      from so that the affiliate site may be paid as a result. This software logs 
+      computer ID as a security precaution. <br>
+      <br>
+      How do we protect your information? We encrypt order information for your 
+      protection. EvesAddiction.com online store uses industry standard <a href="http://developer.netscape.com/tech/security/ssl/protocol.html" target="blank" title="What is SSL?">Secure 
+      Sockets Layer (SSL)</a> encryption on areas of our website where personal 
+      information is needed. EvesAddiction.com does not accept email registration, 
+      nor contest participation from children under the age of 13 due to the <a href="http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm" title="What is COPPA?" target="blank">Children’s 
+      Online Privacy Protection Act (COPPA)</a>. If you are under the age of 13, 
+      you must get parental permission to divulge your email address and order-related 
+      information before using this site. Our contests are open to users ages 
+      13 and up, however if a sweepstake or contest winner is under 18 years old, 
+      we will require a consent from signed by the winner’s parent or guardian 
+      in order to award the prize. Our contests and sweepstakes are subject to 
+      all federal, state, and local laws and void where prohibited. <br>
+      <br>
+      If you would like further details about EvesAddiction.com, or would like 
+      to contact us please visit our front page at <a href="www.eveseddiction.com">www.EvesAddiction.com</a> 
+      or email us at <a href="mailto:customerservice@evesaddiction.com">customerservice@EvesAddiction.com</a>. 
+      <br>
+      <br>
+      We reserve the right, at our sole discretion, to change, modify, or otherwise 
+      alter these terms and conditions at anytime. Please review the terms and 
+      conditions periodically. Your continued use of the site following the posting 
+      of changes and/or modifications will constitute your acceptance of the revised 
+      terms and conditions. </td>
+  </tr></tbody></table><br><br></font></td></tr></tbody></table>          </td>
+        </tr>
+        <tr> 
+          <td height="21" valign="top" bgcolor="#FFFFFF"><div align="center" class="phone">1-800-679-EVES 
+            </div>
+             <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <form name="vw-form" method="post" action="/cgi-bin/nsearch"></form>
+    <input type="hidden" name="vwcatalog" value="yhst-14401160710022">
+    <tbody><tr> 
+      <td colspan="3" align="left"> <div align="center"><font color="#990000" face="Verdana, Arial, Helvetica, sans-serif"><strong>Search 
+          Keywords or Item #</strong></font></div></td>
+    </tr>
+    <tr> 
+      <td width="1%" align="left"><img src="http://lib.store.yahoo.net/lib/yhst-14401160710022/spacer.gif" alt="" width="7" height="7"></td>
+      <td align="left" class="searchstore"><input name="query" type="text" class="search-box"></td>
+      <td width="83%" valign="top"><input type="image" src="http://lib.store.yahoo.net/lib/yhst-14401160710022/go.gif" alt="GO" border="0"></td>
+    </tr>
+  
+</tbody></table>
+<div>
+  <div align="center"><a href="http://www.evesaddiction.com/specials.html"><img src="http://site.evesaddiction.com/images/holiday-sale.gif" width="177" height="55" border="0"></a></div>
+</div>
+<div class="leftnavbig5">Departments:</div><div>
+<a href="http://www.evesaddiction.com/new-arrivals.html" class="leftnav2">• 
+New Jewelry Arrivals</a></div>
+<div>
+<a href="http://www.evesaddiction.com/best-sellers.html" class="leftnav2">• 
+Best Sellers</a></div>
+<div><a href="http://www.evesaddiction.com/bracelets.html" class="leftnav2">• 
+  Bracelets</a></div>
+      
+<div><a href="http://www.evesaddiction.com/necklaces.html" class="leftnav2">• 
+  Necklaces</a></div>
+      
+<div><a href="http://www.evesaddiction.com/earrings.html" class="leftnav2">• 
+  Earrings</a></div>
+      
+<div><a href="http://www.evesaddiction.com/rings.html" class="leftnav2">• 
+  Rings</a><br>
+  <a href="http://www.evesaddiction.com/anklets.html" class="leftnav2">• 
+  Anklets</a> </div>
+      
+<a href="http://www.evesaddiction.com/brooches-and-pins.html" class="leftnav2">• 
+Brooches</a> 
+<div> <a href="http://www.evesaddiction.com/fashion-watches.html" class="leftnav2">• 
+  Watches</a><br>
+        
+  <div><a href="http://www.evesaddiction.com/pearls.html" class="leftnav2">• 
+    Pearl Jewelry</a></div>
+      <div class="leftnavbig5">Boutiques:</div>
+      <div></div>
+      
+  <a href="http://www.evesaddiction.com/tiffany-inspired.html" class="leftnav2">• 
+  Tiffany Inspired Jewelry</a><br>
+  <a href="http://www.evesaddiction.com/celebrity.html" class="leftnav2">• 
+  Celebrity Jewelry</a> </div>   
+      
+<div><a href="http://www.evesaddiction.com/designer-inspired.html" class="leftnav2">• 
+  Designer Inspired Jewelry</a><br>
+  <a href="http://www.evesaddiction.com/beads-and-stones.html" class="leftnav2">• 
+  Bead and Stone Jewelry</a></div>
+    
+<div><a href="http://www.evesaddiction.com/bridal.html" class="leftnav2">• 
+  Bridal Jewelry</a> <br>
+  <a href="http://www.evesaddiction.com/christmas-jewelry.html" class="leftnav2"><font color="#336600">• 
+  Christmas Jewelry</font></a></div>
+	    
+<div><a href="http://www.evesaddiction.com/cubic-zirconia.html" class="leftnav2">• 
+  Cubic Zirconia CZ Jewelry</a><br>
+  <a href="http://www.evesaddiction.com/necklaces-chains.html" class="leftnav2">• 
+  Silver Chains</a> </div>
+    
+<div><a href="http://www.evesaddiction.com/hearts.html" class="leftnav2">• 
+  Heart Jewelry</a><br>
+  <a href="http://www.evesaddiction.com/zodiac.html" class="leftnav2">• 
+  Zodiac Jewelry</a> </div>
+		    <div><a href="http://www.evesaddiction.com/religious.html" class="leftnav2">• 
+        Religious Jewelry</a></div>
+    
+<div><a href="http://www.evesaddiction.com/pink.html" class="leftnav2"><font color="#CC00CC">• 
+  Pink Jewelry</font></a></div>
+    
+<div><a href="http://www.evesaddiction.com/specials.html" class="leftnav2"><font color="#990000">• 
+  Holiday Sale</font></a><br>
+  <a href="http://www.evesaddiction.com/clearance.html" class="leftnav2"><font color="#FF6600">•
+  Clearance Sale</font></a><br>
+  <a href="http://www.evesaddiction.com/birthstones.html" class="leftnav2">• 
+  Birthstone Jewelry</a><br>
+  <a href="http://www.evesaddiction.com/accessories.html" class="leftnav2">• 
+  Jewelry Accessories</a>
+</div>
+        
+<div class="leftnavbig5"> Holiday Gift Giving:</div>
+  <div><a href="http://www.evesaddiction.com/gifts-under-25.html" class="leftnav2">• 
+  Gifts Under $25</a> <br>
+  <a href="http://www.evesaddiction.com/price.html" class="leftnav2">• 
+  Shop by Price</a> <br>
+  <a href="http://www.evesaddiction.com/freegiftboxing.html#giftwrap" class="leftnav2">• 
+  Gift Wrapping</a><br><a href="http://www.evesaddiction.com/freegiftboxing.html" class="leftnav2">• 
+    Gift Options</a></div>
+  <div><a href="http://www.evesaddiction.com/giftcertificates.html" class="leftnav2">• 
+    Gift Certificates</a><br>
+  <a href="http://www.evesaddiction.com/bridal.html" class="leftnav2">• 
+  Bridal Party Gifts</a><br>
+  <a href="http://www.evesaddiction.com/bridal-men.html" class="leftnav2">• 
+  Men's Gifts</a> <br>
+
+    <a href="http://www.evesaddiction.com/religious.html" class="leftnav2">• 
+    Religious Gifts</a> <br>
+    <br>
+    <a href="http://order.store.yahoo.com/cgi-bin/wg-request-catalog?yhst-14401160710022" class="leftnav2">• 
+    Catalog Request</a> <br>
+    <a href="http://gre.wishlist.com/gre/action/wishlisthome.htm?wlid=B1312B3261BA48AF8B60B8A1B5162372" class="leftnav2">• 
+    Wish List</a> </div>
+            
+    
+
+	<br><center>
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+var MM_contentVersion = 5;
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) {
+		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
+	    for (var i = 0; i < words.length; ++i)
+	    {
+		if (isNaN(parseInt(words[i])))
+		continue;
+		var MM_PluginVersion = words[i]; 
+	    }
+	var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion;
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
+   && (navigator.appVersion.indexOf("Win") != -1)) {
+	document.write('<SCR'+'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
+	document.write('on error resume next \n');
+	document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
+	document.write('</SCR'+'IPT\>\n');
+}
+if ( MM_FlashCanPlay ) {
+	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
+	document.write('  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" ');
+	document.write(' ID="topbanner" WIDTH="124" HEIGHT="257" ALIGN="">');
+	document.write(' <PARAM NAME=movie VALUE="http://site.evesaddiction.com/images/banner28.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF>  '); 
+	document.write(' <EMBED src="http://site.evesaddiction.com/images/banner28.swf" quality=high bgcolor=#FFFFFF  ');
+	document.write(' swLiveConnect=FALSE WIDTH="124" HEIGHT="257" NAME="topbanner" ALIGN=""');
+	document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">');
+	document.write(' </EMBED>');
+	document.write(' </OBJECT>');
+} else{
+	document.write('<IMG SRC="http://site.evesaddiction.com/images/banner11.jpg" WIDTH="123" HEIGHT="254" usemap="#topbanner" BORDER=0>');
+}
+//-->
+</script><img src="http://site.evesaddiction.com/images/banner11.jpg" width="123" height="254" usemap="#topbanner" border="0">
+            <noscript>
+  <a href="http://www.evesaddiction.com/freegift.html"><IMG SRC="http://site.evesaddiction.com/images/banner11.jpg" WIDTH="123" HEIGHT="254" BORDER=0 alt="silver jewelry"></a> 
+  </noscript>
+</center><br>
+
+<div class="leftnavbig5">Why buy from Eve?</div>
+            
+    <div><a href="http://www.evesaddiction.com/testimonials2.html" class="leftnav2">• 
+      Award Winning<br>
+              <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>Customer 
+              Service</a></div>
+            <div><a href="http://www.evesaddiction.com/returnpolicy.html" class="leftnav2">• Money Back 
+              Guarantee </a></div>
+            
+    <div><a href="http://www.evesaddiction.com/freeshipping.html" class="leftnav2">• 
+      FREE SHIPPING<br>
+      <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>on 
+      orders over $75</a></div>
+            
+<div></div>
+<div>
+<div><a href="http://www.evesaddiction.com/care-for-your-silver.html" class="leftnav2">• 
+    Care for your Silver</a></div>
+</div>
+            
+    
+<div><a href="javascript:addbookmark()" class="leftnav2">• Bookmark This 
+  Site!</a></div>
+<div>
+<a href="javascript:popUpClick5('http://site.evesaddiction.com/forms/tellafriend.html')" class="leftnav2">• 
+    Tell a friend about<br>
+    <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>EvesAddiction.com</a>
+
+  <p align="center"><a href="http://www.evesaddiction.com/testimonials2.html"><img src="http://site.evesaddiction.com/images/secure-shopping3.gif" alt="100% Secure Safe Shopping" width="123" height="48" border="0"></a></p>
+</div>
+            <div>
+        
+  <div></div>
+</div>
+<div>
+  <p align="center"><a href="http://order.store.yahoo.com/cgi-bin/wg-request-catalog?yhst-14401160710022"><img src="http://site.evesaddiction.com/images/catalog-signup-box.jpg" alt="Click to sign up" width="123" height="123" border="0"></a></p>
+  <div>
+    <div><a href="http://www.evesaddiction.com/affiliates.html" class="leftnav2">• 
+      Affiliate Program</a></div>
+    <div></div>
+    <a href="http://www.evesaddiction.com/custsrv.html" class="leftnav2">• 
+    Customer Service</a></div>
+  <div> 
+    <p><a href="http://centerbrooksales.com/evesaddiction/wholesale.html" class="leftnav2">• 
+      Wholesale Jewelry</a></p>
+  </div>
+  </div>
+      <center>
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+var MM_contentVersion = 5;
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) {
+		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
+	    for (var i = 0; i < words.length; ++i)
+	    {
+		if (isNaN(parseInt(words[i])))
+		continue;
+		var MM_PluginVersion = words[i]; 
+	    }
+	var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion;
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
+   && (navigator.appVersion.indexOf("Win") != -1)) {
+	document.write('<SCR'+'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
+	document.write('on error resume next \n');
+	document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
+	document.write('</SCR'+'IPT\>\n');
+}
+if ( MM_FlashCanPlay ) {
+	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
+	document.write('  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" ');
+	document.write(' ID="topbanner" WIDTH="124" HEIGHT="257" ALIGN="">');
+	document.write(' <PARAM NAME=movie VALUE="http://site.evesaddiction.com/images/banner28.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF>  '); 
+	document.write(' <EMBED src="http://site.evesaddiction.com/images/banner28.swf" quality=high bgcolor=#FFFFFF  ');
+	document.write(' swLiveConnect=FALSE WIDTH="124" HEIGHT="257" NAME="topbanner" ALIGN=""');
+	document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">');
+	document.write(' </EMBED>');
+	document.write(' </OBJECT>');
+} else{
+	document.write('<IMG SRC="http://site.evesaddiction.com/images/banner11.jpg" WIDTH="123" HEIGHT="254" usemap="#topbanner" BORDER=0>');
+}
+//-->
+</script><img src="http://site.evesaddiction.com/images/banner11.jpg" width="123" height="254" usemap="#topbanner" border="0">
+            <noscript>
+      <a href="http://www.evesaddiction.com/freegift.html"><IMG SRC="http://site.evesaddiction.com/images/banner11.jpg" WIDTH="123" HEIGHT="254" BORDER=0 alt="silver jewelry"></a> 
+      </noscript>
+</center><br>
+		
+		
+    <table width="180" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+            <td width="131" class="searchstore"> <div align="right"><font color="#990000">SIGN UP FOR 
+                OUR<br>
+                SPECIAL OFFERS</font></div></td>
+            
+          <td width="51" align="left"> 
+            <div align="left"><a href="http://order.store.yahoo.com/cgi-bin/wg-request-catalog?yhst-14401160710022"><img src="http://lib.store.yahoo.net/lib/yhst-14401160710022/go.gif" width="31" height="19" border="0"></a></div></td>
+          </tr>
+        </tbody></table>
+    <br>
+    <div class="leftnavbig5">Silver Jewelry</div>
+    
+<div><a href="http://www.evesaddiction.com/bracelets.html" class="leftnav2">• 
+  Silver Bracelets</a></div>
+    
+<div><a href="http://www.evesaddiction.com/necklaces.html" class="leftnav2">• 
+  Silver Necklaces</a></div>
+    
+<div><a href="http://www.evesaddiction.com/earrings.html" class="leftnav2">• 
+  Silver Earrings</a></div>
+    
+<div><a href="http://www.evesaddiction.com/rings.html" class="leftnav2">• 
+  Silver Rings</a><br>
+  <a href="http://www.evesaddiction.com/anklets.html" class="leftnav2">• 
+  Silver Ankle Bracelets</a></div>
+    
+<div>
+  <p><a href="http://www.evesaddiction.com/cubic-zirconia.html" class="leftnav2">• 
+    Cubic Zirconia CZ Jewelry</a><br>
+    <a href="http://www.evesaddiction.com/brooches-and-pins.html" class="leftnav2">• 
+    Silver Brooches &amp; Pins</a> <br>
+    <a href="http://www.evesaddiction.com/fashion-watches.html" class="leftnav2">• 
+    Fashion Watches</a> <br>
+    <a href="http://www.evesaddiction.com/tiffany-inspired.html" class="leftnav2">• 
+    Tiffany Style Jewelry</a> <br>
+    <a href="http://www.evesaddiction.com/celebrity.html" class="leftnav2">• 
+    Celebrity Jewelry<br>
+    </a><a href="http://www.evesaddiction.com/designer-inspired.html" class="leftnav2">• 
+    Designer Inspired Jewelry</a></p>
+  <p align="center"> <br>
+    <br>
+  </p>
+</div>
+    
+    <div class="leftnav2">&nbsp;</div>
+            <div class="leftnav2">&nbsp;</div></td>
+          <td width="1"><img src="http://site.evesaddiction.com/images/spacer.gif" width="1" height="1" alt="EvesAddiction.com Sterling Silver Jewelry"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+
+<div align="center" class="footer"><a href="http://www.evesaddiction.com/index.html" class="footer">Home</a> 
+  | <a href="http://www.evesaddiction.com/help.html" class="footer"></a> <a href="http://www.evesaddiction.com/directory.html" class="footer">Eve's 
+  Links </a> | <a href="http://www.evesaddiction.com/help.html" class="footer">Help</a>&nbsp;|&nbsp;<a href="http://www.evesaddiction.com/aboutus.html" class="footer">About 
+  Us</a> | <a href="http://www.evesaddiction.com/custsrv.html" class="footer">Contact 
+  Us</a> | <a href="http://www.evesaddiction.com/returnpolicy.html" class="footer">Return 
+  Policy</a> | <a href="http://www.evesaddiction.com/sitemap1.html" class="footer">Site 
+  Map</a> | <a href="http://www.evesaddiction.com/ind.html" class="footer">Full 
+  Product List</a> | <a href="http://www.evesaddiction.com/privacypolicy.html" class="footer">Security 
+  &amp; Privacy Policy</a> </div>
+<div align="center" class="footer"> <a href="http://www.evesaddiction.com/disclaimer.html" class="footer">Disclaimer</a> 
+  | <a href="http://www.evesaddiction.com/google-search.html" class="footer">Google 
+  Search</a> | <a href="http://www.evesaddiction.com/custsrv.html" class="footer">Customer 
+  Service</a> | <a href="http://www.evesaddiction.com/freeshipping.html#international" class="footer">International 
+  Shipping</a> | <a href="http://www.evesaddiction.com/track-your-order.html" class="footer"></a><a href="http://www.evesaddiction.com/track-your-order.html" class="footer">Track 
+  Your Order</a> | <a href="http://www.evesaddiction.com/history.html" class="footer">History 
+  of Silver Jewelry</a> | <a href="http://www.evesaddiction.com/custsrv.html" class="footer"></a><a href="http://www.evesaddiction.com/affiliates.html" class="footer"></a><a href="http://order.store.yahoo.com/cgi-bin/wg-order?yhst-14401160710022" class="footer">Check 
+  Out </a><br>
+  <br>
+  <table width="62%" height="22" border="0" align="center" cellpadding="3" cellspacing="0">
+    <tbody><tr> 
+      <td width="50%" align="right"> <div align="right">Rated <img src="http://us.i1.yimg.com/us.yimg.com/i/us/sh/nr/mrtng/s_5.gif" alt="rated 5 stars in Yahoo Shopping"> 
+          in <br>
+          <img src="http://lib.store.yahoo.net/lib/yhst-14401160710022/yahooshopping.gif" alt="Rated  5 stars in Yahoo Shopping" width="119" height="13" border="0"></div></td>
+      <td>&nbsp;</td>
+      <td> 
+        <!-- BEGIN: BizRate Medal (125x73 pixels) -->
+        <img src="http://medals.bizrate.com/medals/dynamic/79446_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" align="top" border="0" target="_blank"> 
+        <!-- END: BizRate Medal (125x73 pixels) -->
+      </td>
+    </tr>
+    <tr> 
+      <td colspan="3"><div align="center"><a href="http://www.evesaddiction.com/testimonials2.html" class="footer">Read 
+          Our Customer Testimonials!</a><br>
+          <a href="http://www.evesaddiction.com/safe-shopping.html" class="footer">Safe Shoping 
+          Guarantee</a></div></td>
+    </tr>
+  </tbody></table>
+</div>
+ <div align="center"><a href="http://www.evesaddiction.com/custsrv.html#paymentmethods"><img src="http://site.evesaddiction.com/images/creditcards3.jpg" alt="We Accept Visa, Mastercard, Amex, and Discover" width="300" height="43" border="0"></a> 
+</div>
+<div align="center">
+  <table width="200" border="0" cellspacing="0" cellpadding="4">
+    <tbody><tr> 
+      <td><a href="http://www.evesaddiction.com/freeshipping.html"><img src="http://site.evesaddiction.com/images/shipping2.jpg" alt="we ship via the USPS and FedEx" width="250" height="38" border="0"></a></td>
+      <td>&nbsp;</td>
+      <td><a href="http://www.evesaddiction.com/privacypolicy.html"><img src="http://site.evesaddiction.com/images/secure-shopping2.gif" width="183" height="43" border="0"></a></td>
+    </tr>
+  </tbody></table>
+  <a href="http://www.evesaddiction.com/freeshipping.html#international"><img src="http://site.evesaddiction.com/images/flags.gif" alt="International Shipping" width="414" height="17" border="0"></a> 
+</div>
+
+
+<div align="center" class="footer"> <a href="http://www.evesaddiction.com" class="footer">EvesAddiction.com 
+  - Exquisite Sterling Silver Jewelry</a> &nbsp;&nbsp;&nbsp;&nbsp;Orders: 800-679-3837 
+  or 860-767-3384</div>
+
+<div align="center" class="footer"> <font size="3">©2005 Eve's Addiction</font> 
+</div>
+<div align="center" class="footer"></div>
+<map name="topbanner">
+  <area shape="rect" coords="702,5,799,66" href="http://order.store.yahoo.com/cgi-bin/wg-order?yhst-14401160710022" alt="shopping cart">
+  <area shape="rect" coords="665,68,782,86" href="http://evesaddiction.com/tiffany-inspired.html" alt="tiffany inspired jewelry">
+  <area shape="rect" coords="565,66,641,86" href="http://evesaddiction.com/earrings.html" alt="earrings">
+  <area shape="rect" coords="382,69,540,86" href="http://evesaddiction.com/necklaces.html" alt="necklaces">
+  <area shape="rect" coords="310,69,362,88" href="http://evesaddiction.com/rings.html" alt="rings">
+  <area shape="rect" coords="199,70,290,84" href="http://evesaddiction.com/bracelets.html" alt="bracletes">
+  <area shape="rect" coords="62,67,135,86" href="http://evesaddiction.com" alt="sterling silver jewelry">
+  <area shape="rect" coords="10,2,329,67" href="http://evesaddiction.com" alt="sterling silver jewelry">
+
+</map>
+
+
+<script language="javascript"> 
  <!-- 
  if (document.referrer && (document.referrer!='') && window.Image) 
  { 
- (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=41e91c07&catalog=yhst-14401160710022&r=" + escape(document.referrer); }
+ (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=43a5550d&catalog=yhst-14401160710022&r=" + escape(document.referrer); }
  // --> 
- </script><meta name="Keywords" content="sterling, silver, jewelry, bracelets, necklaces, pendants, rings, earrings, fine jewelry, sterling silver, cubic zirconia, bridal party gifts, sterling silver jewelry, stirling silver, evesaddiction, evesaddiction.com, eve's addiction, wedding jewelry, tiffany inspired jewelry, designer inspired jewelry, fashion watches"><meta name="Description" content="Fine Sterling Silver Jewelry at EvesAddiction.com featuring silver earrings, rings, necklaces, bracelets, pendants, fashion watches, Tiffany inspired pieces and more! "><title>Eve's Addiction - Sterling Silver Jewelry</title><meta name="robots" content="index, follow">
-<meta name="GOOGLEBOT" content="INDEX, FOLLOW">
-<link rel="stylesheet" href="http://site.evesaddiction.com/images/eve-v.css" type="text/css">
-<!--tell a friend-->
-<script language="JavaScript" src="http://site.evesaddiction.com/images/eve.js">
-</script></head><body><a name="top"></a><table width="760" border="0" align="center" cellpadding="1" cellspacing="0">
-  <tbody><tr>
-    <td bgcolor="#9BA8C7">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr> 
-      <td width="380" bgcolor="#FFFCF2"><a href="index.html"><img src="http://lib1.store.vip.sc5.yahoo.com/lib/yhst-14401160710022/logo.gif" alt="EvesAddiction.com - Sterling Silver Bracelets, Rings, Necklaces, Pendants, Earrings, Tiffany Inspired Jewelry, Designer Inspired Jewelry" width="378" height="67" border="0"></a></td>
-      <td valign="top" bgcolor="#FFFCF2"> 
-        <script language="JavaScript1.1">
-<!--
-var MM_contentVersion = 5;
-var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
-if ( plugin ) {
-		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
-	    for (var i = 0; i < words.length; ++i)
-	    {
-		if (isNaN(parseInt(words[i])))
-		continue;
-		var MM_PluginVersion = words[i]; 
-	    }
-	var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion;
-}
-else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
-   && (navigator.appVersion.indexOf("Win") != -1)) {
-	document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
-	document.write('on error resume next \n');
-	document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
-	document.write('</SCR' + 'IPT\> \n');
-}
-if ( MM_FlashCanPlay ) {
-		document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
-	document.write('  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" ');
-	document.write(' ID="topbanner" WIDTH="340" HEIGHT="67" ALIGN="">');
-	document.write(' <PARAM NAME=movie VALUE="http://site.evesaddiction.com/images/topbanner6.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFCF2>  '); 
-	document.write(' <EMBED src="http://site.evesaddiction.com/images/topbanner6.swf" quality=high bgcolor=#FFFCF2  ');
-	document.write(' swLiveConnect=FALSE WIDTH="340" HEIGHT="67" NAME="topbanner" ALIGN=""');
-	document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">');
-	document.write(' </EMBED>');
-	document.write(' </OBJECT>');
-} else{
-	document.write('<IMG SRC="http://site.evesaddiction.com/images/topbanner2.gif" WIDTH="340" HEIGHT="67" usemap="#topbanner" BORDER=0>');
-}
-//-->
-</script><img src="http://site.evesaddiction.com/images/topbanner2.gif" width="340" height="67" usemap="#topbanner" border="0"><noscript>
-        <IMG SRC="http://site.evesaddiction.com/images/topbanner2.gif" WIDTH="340" HEIGHT="67" usemap="#topbanner" BORDER=0> 
-        </noscript>
-      </td>
-      <td width="72" valign="top" bgcolor="#FFFCF2"><a href="http://order.store.yahoo.com/cgi-bin/wg-order?yhst-14401160710022"><img src="http://lib1.store.vip.sc5.yahoo.com/lib/yhst-14401160710022/shoppingbag.gif" alt="Click to see what's in your Shopping Bag" width="85" height="67" border="0"></a></td>
-    </tr>
-    <tr align="left" bgcolor="#B2C9DD"> 
-      <td colspan="3"><table width="100%" border="0" cellpadding="0" cellspacing="2" bgcolor="#F9D2D2">
-          <tbody><tr> 
-            <td align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-            <td align="center"><a href="index.html" class="top-nav">HOME</a></td>
-            <td align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-            <td align="center"><a href="bracelets.html" class="top-nav">BRACELETS</a></td>
-            <td align="center">&nbsp;&nbsp;&nbsp;</td>
-            <td align="center"><a href="rings.html" class="top-nav">RINGS</a></td>
-            <td align="center">&nbsp;&nbsp;&nbsp;</td>
-            <td align="center"><a href="necklaces.html" class="top-nav">NECKLACES 
-              &amp; PENDANTS</a></td>
-            <td align="center">&nbsp;&nbsp;&nbsp;</td>
-            <td align="center"><a href="earrings.html" class="top-nav">EARRINGS</a></td>
-            <td align="center">&nbsp;&nbsp;&nbsp;</td>
-            <td align="center"><a href="tiffany-inspired.html" class="top-nav">TIFFANY 
-              INSPIRED </a></td>
-          </tr>
-        </tbody></table></td>
-    </tr>
-  </tbody></table>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-        <tbody><tr> 
-          <td width="132" bgcolor="#FFFFFF" valign="top">
-  <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-    <tbody><tr> 
-      <td><img src="http://lib1.store.vip.sc5.yahoo.com/lib/yhst-14401160710022/spacer.gif" alt="" width="175" height="1"></td>
-    </tr>
-    <tr> 
-      <td><table width="100%" border="0" cellspacing="0" cellpadding="4">
-          <tbody><tr> 
-            <td><div align="center"><span class="leftnavbig2"><b>1-800-679-EVES</b></span><b></b></div></td>
-          </tr>
-        </tbody></table></td>
-    </tr>
-    <tr> 
-      <td align="center"><b> 
-        <script language="JavaScript1.1">
-<!--
-var MM_contentVersion = 5;
-var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
-if ( plugin ) {
-		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
-	    for (var i = 0; i < words.length; ++i)
-	    {
-		if (isNaN(parseInt(words[i])))
-		continue;
-		var MM_PluginVersion = words[i]; 
-	    }
-	var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion;
-}
-else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
-   && (navigator.appVersion.indexOf("Win") != -1)) {
-	document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
-	document.write('on error resume next \n');
-	document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
-	document.write('</SCR' + 'IPT\> \n');
-}
-if ( MM_FlashCanPlay ) {
-		document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
-	document.write('  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" ');
-	document.write(' ID="phones" WIDTH="156" HEIGHT="35" ALIGN="">');
-	document.write(' <PARAM NAME=movie VALUE="http://site.evesaddiction.com/images/phones3.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF>  '); 
-	document.write(' <EMBED src="http://site.evesaddiction.com/images/phones3.swf" quality=high bgcolor=#FFFFFF  ');
-	document.write(' swLiveConnect=FALSE WIDTH="156" HEIGHT="35" NAME="phones" ALIGN=""');
-	document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">');
-	document.write(' </EMBED>');
-	document.write(' </OBJECT>');
-} else{
-	document.write('<IMG SRC="http://site.evesaddiction.com/images/phones-closed2.jpg" WIDTH="156" HEIGHT="35" BORDER=0>');
-}
-//-->
-</script><img src="http://site.evesaddiction.com/images/phones-closed2.jpg" width="156" height="35" border="0">
-        <noscript>
-        <a href="custsrv.html"><IMG SRC="http://site.evesaddiction.com/images/phones-closed2.jpg" WIDTH="156" HEIGHT="35" BORDER=0></a> 
-        </noscript>
-        </b></td>
-    </tr>
-    <tr> 
-      <td><img src="http://lib1.store.vip.sc5.yahoo.com/lib/yhst-14401160710022/search-store.gif" width="132" height="24" alt=""></td>
-    </tr>
-    <tr> 
-      <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <form name="vw-form" method="post" action="/cgi-bin/nsearch"></form>
-            <input type="hidden" name="vwcatalog" value="yhst-14401160710022">
-            <tbody><tr> 
-              <td width="1%" align="left"><img src="http://lib1.store.vip.sc5.yahoo.com/lib/yhst-14401160710022/spacer.gif" alt="" width="10" height="10"></td>
-              <td width="27%" align="left"> <input name="query" type="text" class="search-box"> 
-              </td>
-              <td width="72%"> <input type="image" src="http://lib1.store.vip.sc5.yahoo.com/lib/yhst-14401160710022/go.gif" alt="GO"> 
-              </td>
-            </tr>
-          
-        </tbody></table></td>
-    </tr>
-    <tr> 
-      <td> 
-        <!--LEFT NAV-->
-        <table width="100%" height="234" border="0" cellpadding="4" cellspacing="0">
-          <tbody><tr> 
-            <td valign="top"><p><span class="leftnavbig2"><b>Boutiques:</b></span><b><br>
-                </b> &nbsp;&nbsp;<a href="hearts.html" class="leftnav2"><font color="#990000">•&nbsp;Hearts 
-                <em>new!</em> </font></a><b><br>
-                </b>&nbsp;&nbsp;<a href="tiffany-inspired.html" class="leftnav2">•&nbsp;Tiffany&nbsp;Inspired&nbsp;Jewelry</a><br>
-                &nbsp;&nbsp;<a href="designer-inspired.html" class="leftnav2" &#8226;&nbsp;="">•&nbsp;Designer 
-                Style Jewelry</a> <font size="1"><br>
-                <font face="Verdana, Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compare 
-                price to:</font></font><br>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="designer-inspired-david-yurman.html" class="leftnav2" &#8226;&nbsp;="">•&nbsp;David 
-                Yurman </a><br>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="designer-inspired-steven-lagos.html" class="leftnav2" &#8226;&nbsp;="">•&nbsp;Steven 
-                Lagos </a><br>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="designer-inspired-john-hardy.html" class="leftnav2" &#8226;&nbsp;="">•&nbsp;John 
-                Hardy </a> <br>
-                &nbsp;&nbsp;<a href="bridal.html" class="leftnav2">•&nbsp;Bridal 
-                Jewelry</a> <br>
-                &nbsp;&nbsp;<a href="pearls.html" class="leftnav2" &#8226;&nbsp;="">•&nbsp;Freshwater 
-                Pearls</a><br>
-                &nbsp;&nbsp;<a href="fashion-watches.html" class="leftnav2">•&nbsp;Fashion 
-                Watches </a> <br>
-                &nbsp;&nbsp;<a href="religious.html" class="leftnav2">•&nbsp;Religious 
-                Jewelry </a><br>
-                &nbsp;&nbsp;<a href="brooches-and-pins.html" class="leftnav2" &#8226;&nbsp;="">•&nbsp;Brooches 
-                &amp; Pins</a> <br>
-                &nbsp;&nbsp;<a href="cubic-zirconia.html" class="leftnav2" &#8226;&nbsp;="">•&nbsp;Cubic 
-                Zirconia</a><br>
-                &nbsp;&nbsp;<a href="price.html" class="leftnav2">•&nbsp;Shop 
-                by Price</a><br>
-                <br>
-                &nbsp;&nbsp;<a href="new-arrivals.html" class="leftnav2"><font color="#990000">•&nbsp;New 
-                Arrivals</font></a><br>
-                &nbsp;&nbsp;<a href="specials.html" class="leftnav2"><font color="#990000">•&nbsp;Specials</font></a><br>
-              </p>
-              <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr> 
-                  <td><div align="center"><a href="freegift.html"><img src="http://site.evesaddiction.com/images/free-earrings2.jpg" width="123" height="123" border="0" alt="Click here for details"></a></div></td>
-                </tr>
-                <tr> 
-                  <td>&nbsp;</td>
-                </tr>
-                <tr> 
-                  <td><div align="center"><a href="freegiftboxing.html"><img src="http://lib1.store.vip.sc5.yahoo.com/lib/yhst-14401160710022/free-boxing-small.jpg" width="123" height="123" border="0" alt="Click here for details"></a></div></td>
-                </tr>
-              </tbody></table>
-              <p><span class="leftnavbig2"><b>Why buy from Eve?</b></span>&nbsp;&nbsp;<a href="freeshipping.html" class="leftnav2"><font color="#CC0000"><br>
-                </font></a>&nbsp;&nbsp;<a href="testimonials2.html" class="leftnav2">•&nbsp;Award 
-                Winning<br>
-                <font color="#FFFFFF">&nbsp;&nbsp;&nbsp; </font><font color="#FFFFFF">&nbsp;&nbsp;&nbsp; 
-                </font>Customer Service</a> <br>
-                &nbsp;&nbsp;<a href="returnpolicy.html" class="leftnav2">•&nbsp;Money 
-                Back Guarantee</a> <br>
-                &nbsp;&nbsp;<a href="freeshipping.html" class="leftnav2">•&nbsp;FREE 
-                SHIPPING <br>
-                <font color="#FFFFFF">&nbsp;&nbsp;&nbsp; </font><font color="#FFFFFF">&nbsp;&nbsp;&nbsp; 
-                </font>on orders over $75 </a> <br>
-                &nbsp;&nbsp;<a href="freegiftboxing.html" class="leftnav2">•&nbsp;Gift 
-                Options</a><br>
-                &nbsp;&nbsp;<a href="giftcertificates.html" class="leftnav2">•&nbsp;Gift 
-                Certificates</a><br>
-                &nbsp;&nbsp;<a href="javascript:addbookmark()" class="leftnav2">•&nbsp;Bookmark 
-                This Site!</a> <br>
-                &nbsp;&nbsp;<a href="javascript:OpenForm()" class="leftnav2">•&nbsp;Tell 
-                a friend about <br>
-                <font color="#FFFFFF">&nbsp;&nbsp;&nbsp; </font><font color="#FFFFFF">&nbsp;&nbsp;&nbsp; 
-                </font>EvesAddiction.com</a><br>
-                <br>
-                <span class="leftnavbig2"><b>Silver Jewelry:</b></span><b><br>
-                </b>&nbsp;&nbsp;<a href="bracelets.html" class="leftnav2">•&nbsp;Silver 
-                Bracelets</a><br>
-                &nbsp;&nbsp;<a href="necklaces.html" class="leftnav2">•&nbsp;Silver 
-                Necklaces</a><br>
-                &nbsp;&nbsp;<a href="earrings.html" class="leftnav2">•&nbsp;Silver 
-                Earrings</a><br>
-                &nbsp;&nbsp;<a href="rings.html" class="leftnav2">•&nbsp;Silver 
-                Rings</a><br>
-                <br>
-                <span class="leftnavbig2"><b>Cubic Zirconia Jewelry:</b></span><b><br>
-                </b>&nbsp;&nbsp;<a href="bracelets-cubic-zirconia.html" class="leftnav2">•&nbsp;CZ 
-                Bracelets</a><br>
-                &nbsp;&nbsp;<a href="necklaces-cubic-zirconia.html" class="leftnav2">•&nbsp;CZ 
-                Necklaces</a><br>
-                &nbsp;&nbsp;<a href="earrings-cubic-zirconia.html" class="leftnav2">•&nbsp;CZ 
-                Earrings</a><br>
-                &nbsp;&nbsp;<a href="rings-cubic-zirconia.html" class="leftnav2">•&nbsp;CZ 
-                Rings<br>
-                </a><br>
-              </p></td>
-          </tr>
-        </tbody></table>
-        <!--LEFT NAV-->
-        <!--UNDER LEFT NAV-->
-      </td>
-    </tr>
-    <tr> 
-      <td align="center"> </td>
-    </tr>
-    <style>
-.newsletter-box {color: #000; width: 75; font-family: Verdana; font-size: 12px; background-color: #FFFFFF;}
-</style>
-    <tr> 
-      <td> <table width="180" border="0" align="center" cellpadding="0" cellspacing="0">
-          <tbody><tr> 
-            <td width="131" class="leftnavbig3"> <div align="right">SIGN UP FOR 
-                OUR<br>
-                SPECIAL OFFERS</div></td>
-            <td width="31"> <div align="left"><a href="http://order.store.yahoo.com/cgi-bin/wg-request-catalog?yhst-14401160710022"><img src="http://lib1.store.vip.sc5.yahoo.com/lib/yhst-14401160710022/go.gif" width="31" height="19" border="0"></a></div></td>
-          </tr>
-        </tbody></table>
-        <br>
-        <a href="affiliates.html" class="leftnav3">&nbsp;&nbsp;•&nbsp;Affiliate 
-        Program</a><br> <a href="onlineparty.html" class="leftnav3">&nbsp;&nbsp;•&nbsp;Host 
-        an Online<br>
-        <font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>Jewelry 
-        Party</a> <a href="freeshipping.html" class="leftnav2"><font color="#CC0000"> 
-        </font></a><br>
-        &nbsp;&nbsp;<a href="custsrv.html" class="leftnav2">•&nbsp;Customer 
-        Service</a><br> &nbsp;&nbsp;<a href="http://picturethisproductions.com/eve/wholesale.html" class="leftnav2">•&nbsp;Wholesale 
-        Available </a> 
-    </td></tr><tr> 
-      <td> </td>
-    </tr>
-    <tr> 
-      <td align="center">&nbsp;</td>
-    </tr>
-    <tr> 
-      <td align="center">&nbsp;</td>
-    </tr>
-    <tr> 
-      <td align="center">&nbsp;</td>
-    </tr>
-  </tbody></table>
-  </td>
-          <td width="1" valign="top" bgcolor="#9BA8C7"><img src="http://lib1.store.vip.sc5.yahoo.com/lib/yhst-14401160710022/blue-spacer.gif" width="1" height="1"></td>
-          <td width="627" valign="top" bgcolor="#FFFFFF" align="center"><br><table border="0" align="center" cellspacing="0" cellpadding="0" width="570"><tbody><tr valign="top"><td><br><table border="0" cellspacing="0" cellpadding="5" width="100%"><tbody><tr><td id="breadcrumbs"></td></tr><tr><td><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#9BA8C7"><img src="http://lib1.store.vip.sc5.yahoo.com/lib/yhst-14401160710022/blue-spacer.gif" width="1" height="1"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table border="0" cellspacing="0" cellpadding="5" width="100%"><tbody><tr valign="top"><td><font size="1" face="verdana,arial, helvetica"><table width="612" border="0" cellspacing="0" cellpadding="25"><tbody><tr><td class="staticpages">
-<font style="font-family: Times New Roman, Times, serif; font-weight: bold; font-size: 24px; color: #4A587E;">Privacy Policy</font>
-<br><br>
-What personal information do we collect?
-When you place an order with us, we ask for the standard personal information in our order form (such as name, address, email, contact phone number, and so forth) in order for us to properly ship your order to you. This information is kept secure in protected systems. If necessary, we may use this information to contact you (via email for example) regarding a pending order, or to answer a question prompted from a customer. If you agreed to receive email from EvesAddiction.com and/or our marketing partners, we will share with them your email address, and the information described above, so they can send you offers for products and services that may be of interest to you.  We do not sell, lease, or rent your email address without your permission.  We will only share your email address if you have opted in by checking the box on the registration page.<br><br>What other kind of information do we collect?
-We use a commonly known file called a <a href="http://www.cookiecentral.com/content.phtml?area=2&amp;id=1" title="What is a cookie?" target="blank">"cookie"</a> on our site. These are the same cookies used on millions of other websites in order to help you navigate our site. In the case of our site, we use cookies to let your computer remember the contents (products) in your shopping cart and related information.  In some cases, we may use a cookie to let us know if you are coming from a site affiliated with us so that we may attend to that site's due commissions. In the case of affiliated sites, only the subtotal sale amount will be divulged to the affiliates for payment purposes. Personally identifiable information will in NO WAY be provided outside of EvesAddiction.com in these cases.<br><br>Like most other websites, we monitor the aggregate (how many people) traffic statistics on our website. This is done in order to provide our customers with better and more efficient service. These general statistics do NOT personally identify our customers and site visitors.<br><br>We use affiliate software to track where potential customers are coming from so that the affiliate site may be paid as a result. This software logs computer ID as a security precaution.<br><br>How do we protect your information?
-We encrypt order information for your protection.  EvesAddiction.com online store uses industry standard <a href="http://developer.netscape.com/tech/security/ssl/protocol.html" target="blank" title="What is SSL?">Secure Sockets Layer (SSL)</a> encryption on areas of our website where personal information is needed. 
-EvesAddiction.com does not accept email registration, nor contest participation from children under the age of 13 due to the <a href="http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm" title="What is COPPA?" target="blank">Children’s Online Privacy Protection Act (COPPA)</a>.  If you are under the age of 13, you must get parental permission to divulge your email address and order-related information before using this site.  Our contests are open to users ages 13 and up, however if a sweepstake or contest winner is under 18 years old, we will require a consent from signed by the winner’s parent or guardian in order to award the prize.  Our contests and sweepstakes are subject to all federal, state, and local laws and void where prohibited.<br><br>If you would like further details about EvesAddiction.com, or would like to contact us please visit our front page at <a href="www.eveseddiction.com">www.EvesAddiction.com</a> or email us at <a href="mailto:customerservice@evesaddiction.com">customerservice@EvesAddiction.com</a>.<br><br>We reserve the right, at our sole discretion, to change, modify, or otherwise alter these terms and conditions at anytime.  Please review the terms and conditions periodically.  Your continued use of the site following the posting of changes and/or modifications will constitute your acceptance of the revised terms and conditions.
-</td></tr></tbody></table><br><br></font></td></tr></tbody></table></td>
-        </tr>
-      </tbody></table>
-	  </td>
-  </tr>
-</tbody></table>
-<!--FOOTER-->
-<table width="760" border="0" align="center" cellpadding="5" cellspacing="0">
-
-
-<tbody><tr> 
-    <td align="center" bgcolor="#FFFFFF" id="footer-td"><a href="bracelets.html" class="footer">
-      <script language="JavaScript" type="text/javascript">
-									<!--
-										function popUpClick4(image,str) {
-										var joeWin=window.open(image,str,"width=400,height=400,scrollbars=yes,toolbar=no,status=no,menubar=no,resizeable=yes");
-										joeWin.focus();
-										}
-									//-->
-								</script>
-      Sterling Silver Bracelets</a> | <a href="necklaces.html" class="footer">Sterling 
-      Silver Necklaces &amp; Pendants</a> | <a href="earrings.html" class="footer">Sterling 
-      Silver Earrings</a> | <a href="rings.html" class="footer">Sterling Silver 
-      Rings</a></td>
-  </tr>
-
-<tr> 
-    <td align="center" bgcolor="#FFFFFF" id="footer-td"><a href="bracelets-cubic-zirconia.html" class="footer">Cubic Zirconia CZ Bracelets</a> | <a href="necklaces-cubic-zirconia.html" class="footer">Cubic Zirconia CZ Necklaces &amp; Pendants</a> | <a href="earrings-cubic-zirconia.html" class="footer">Cubic Zirconia CZ Earrings</a> | <a href="rings-cubic-zirconia.html" class="footer">Cubic Zirconia CZ Rings</a></td>
-  </tr>
-
-
-  <tr> 
-    <td align="center" bgcolor="#FFFFFF" id="footer-td"><a href="links.html" class="footer">Links</a> 
-      | <a href="help.html" class="footer">Help</a>&nbsp;|&nbsp;<a href="aboutus.html" class="footer">About 
-      Us</a> | <a href="custsrv.html" class="footer">Contact Us</a> | <a href="returnpolicy.html" class="footer">Return 
-      Policy</a> | <a href="sitemap1.html" class="footer">Site Map</a> | <a href="ind.html" class="footer">Full 
-      Product List</a> | <a href="privacypolicy.html" class="footer">Security 
-      &amp; Privacy Policy</a></td>
-  </tr>
-   <tr> 
-    <td align="center" bgcolor="#FFFFFF" id="footer-td"><a href="onlineparty.html" class="footer">Host 
-      an Online Party</a> | <a href="custsrv.html" class="footer">Customer Service</a> 
-      | <a href="track-your-order.html" class="footer">Track Your Order</a> | 
-      <a href='javascript:popUpClick4("http://picturethisproductions.com/eve/wholesale.html")' class="footer">Wholesale 
-      Available</a> | <a href="affiliates.html" class="footer"></a><a href="affiliates.html" class="footer">Affiliate 
-      Program</a> | <a href="affiliates.html" class="footer"></a><a href="http://order.store.yahoo.com/cgi-bin/wg-order?yhst-14401160710022" class="footer">Check 
-      Out </a> </td>
-  </tr>
-
-
-
-
-
-<tr><td>
-<table width="174" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          <td><div align="center"><a href="custsrv.html#paymentmethods"><img src="http://site.evesaddiction.com/images/creditcards3.jpg" alt="We Accept Visa, Mastercard, Amex, and Discover" width="300" height="43" border="0"></a> 
-            </div></td>
-        </tr><tr>
-          <td><div align="center"><a href="freeshipping.html"><img src="http://site.evesaddiction.com/images/shipping2.jpg" alt="we ship via the USPS and FedEx" width="250" height="38" border="0"></a></div></td>
-        
-      </tr></tbody></table>
-      <div align="center">
-        <table width="36%" height="22" border="0" align="center" cellpadding="3" cellspacing="0">
-          <tbody><tr> 
-            <td><div align="center">Rated <img src="http://lib1.store.vip.sc5.yahoo.com/lib/yhst-14401160710022/s_5.gif"> 
-                in <img src="http://lib1.store.vip.sc5.yahoo.com/lib/yhst-14401160710022/yahooshopping.gif" width="119" height="13" border="0"></div></td>
-          </tr>
-        </tbody></table>
-        
-      </div></td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#FFFFFF"><a href="http://evesaddiction.com"><font style="color:#768097; font-weight: bold;">EvesAddiction.com - Exquisite Sterling Silver Jewelry</font></a></td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#FFFFFF"><font style="color:#768097; font-weight: bold;">© 
-      2005 Eve's Addiction</font></td>
-  </tr>
-</tbody></table>
-<map name="Map">
-  <area shape="rect" coords="43,1,146,17" href="custsrv.html" alt="Customer Service">
-  <area shape="rect" coords="176,1,273,20" href="http://order.store.yahoo.com/cgi-bin/wg-order?yhst-14401160710022" alt="View Shopping Bag">
-  <area shape="rect" coords="303,1,364,16" href="http://order.store.yahoo.com/cgi-bin/wg-order?yhst-14401160710022" alt="Checkout">
-</map>
-
-</body></html>
+ </script></body></html>
