@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the standardchartered.com.pk privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307134146id_/http%3A//www.standardchartered.com/global/home/datapp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.pk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218192207id_/http%3A//www.standardchartered.com/global/home/datapp.html) for the most accurate reproduction.*
 
-# Standard Chartered Bank - Disclaimer
+# 
 
 **_DATA PROTECTION AND PRIVACY POLICY_**
 
@@ -30,10 +30,8 @@ In order to improve our Internet service to you, we will occasionally use a "coo
 
 SCB reserves the right to amend its prevailing Data Protection and Privacy Policy at any time and will place any such amendments on this Web Site. This Data Protection and Privacy Policy is not intended to, nor does it, create any contractual rights whatsoever or any other legal rights, nor does it create any obligations on SCB in respect of any other party or on behalf of any party. 
 
-You may have the right on payment of a fee to request access to and correction of personal information about you held by us. If you have that right and you wish to access or have the right to ask for correct or deletion of any of your personal data held by us, or if you have any questions concerning our Data Protection and Privacy Policy please contact the relevant SCB Data Protection Officer:        | In UK:     | Please write to The Regional Head of Legal & Compliance UK/Europe,   
-22 Billiter Street, London EC3M 2RY (Fax number: (+44) (0)171 280 7478)  
----|---|---  
-  
+You may have the right on payment of a fee to request access to and correction of personal information about you held by us. If you have that right and you wish to access or have the right to ask for correct or deletion of any of your personal data held by us, or if you have any questions concerning our Data Protection and Privacy Policy please contact the relevant SCB Data Protection Officer: 
+
 Other local SCB sites may have details of local Data Protection Officers on their local web pages. 
 
 **COPYRIGHT © STANDARD CHARTERED PLC 2002. ALL RIGHTS RESERVED.**
