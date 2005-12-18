@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607160057id_/http%3A//cpap.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218194155id_/http%3A//www.cpap.com/privacy.shtml) for the most accurate reproduction.*
 
-# cpap.com: cpap and bipap sleep apnea equipment, services, and free support
+# CPAP Machines and CPAP Masks for the Treament of Sleep Apnea
 
 I. WE HAVE A LEGAL DUTY TO SAFEGUARD YOUR PROTECTED HEALTH INFORMATION (PHI).
 
