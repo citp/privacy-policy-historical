@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sync.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408034724id_/http%3A//www.sync.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sync.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218225139id_/http%3A//www.sync.com/privacy.html) for the most accurate reproduction.*
 
 # Intellisync Corporation: Online Privacy Policy
+
+| 
 
 ## Privacy Policy
 
@@ -30,7 +32,7 @@ Intellisync employs cookies in order for its server to recognize a return visito
 
 ### Information Collected
 
-The Intellisync system will gather information such as what kind of browser a visitor is on, what operating system they are using, their IP address, and their clickstream information (for example, which pages they have viewed and how long they have been there). Note that information is only gathered while the visitor is on the website in question -- in this case [www.Intellisync.com](http://www.intellisync.com/). Intellisync monitors how a visitor arrives at the website, but cannot and will not gather information about other sites the visitor has been on. 
+The Intellisync system will gather information such as what kind of browser a visitor is on, what operating system they are using, their IP address, and their clickstream information (for example, which pages they have viewed and how long they have been there). Note that information is only gathered while the visitor is on the website in question -- in this case [www.sync.com](http://www.sync.com/). Intellisync monitors how a visitor arrives at the website, but cannot and will not gather information about other sites the visitor has been on. 
 
 At times, Intellisync may ask for more specific contact information to be entered as a means of registration before accessing a certain part of the site. Intellisync uses this information to understand its visitors and, with permission, to provide visitors with updates on the company and its products. A visitor may always option to not enter any information about themselves.  
 
