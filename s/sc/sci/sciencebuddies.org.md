@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencebuddies.org privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309002341id_/http%3A//www.sciencebuddies.org/mentoring/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencebuddies.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218215414id_/http%3A//www.sciencebuddies.org/mentoring/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Science Buddies: Privacy Policy
 
@@ -16,6 +16,8 @@ Privacy Policy
 **Our Commitment to Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+
+To further protect the privacy of children under 13 years of age, this website complies with the Children's Online Privacy Protection Act (COPPA).
 
 **The Information We Collect:**
 
