@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the iii.co.uk privacy policy that was archived on 2005-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050404005618id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iii.co.uk privacy policy that was archived on 2005-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051218182631id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+
 <title>
 Interactive Investor - About us 
 </title>
@@ -97,16 +98,54 @@ function selectTab(n, numDiv, panelID) {
 		tab.className = c;
 	}
 }
+
+/* Show particular tab -and panel replaces selectTab above */
+function showPanel(panel,size,Id) {
+        for (var i=0;i<=size;i++) {
+                panelId=panel+i;
+                element=document.getElementById(panelId);
+                elementP=document.getElementById(panelId+"body");
+                if (i == Id) {
+                        element.className="tabsactive";
+                        elementP.style.display="";
+                        }
+                else {
+                        element.className="";
+                        elementP.style.display="none";
+                        }
+                }
+        }
+
 -->
 </script><link rel="stylesheet" href="/javascript.css" media="screen" type="text/css">
 
 
+<script language="JavaScript" type="text/javascript">
+	function get_current_user ()
+{
+	var III_user = ''; 
+		return III_user;
+}
+	
+function logged_in_user()
+{
+		
+	var logincol= document.getElementById('logincol');
+	var loggedin= document.getElementById('loggedin');
+	var logintempcol= document.getElementById('logintempcol');
+
+	logintempcol.style.display="none";
+	loggedin.style.display="none";
+	logincol.style.display="";
+	}
+
+</script>
 <script>
 
 <!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
 <!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
 var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-interactive.hitbox.com";
+var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="i.iii.co.uk";
 
 hbx.acct="DM541020K6CS";
 hbx.pn="legal/privacy";
@@ -155,39 +194,49 @@ hbx.pec="";
 
 <script language="JavaScript">
 var adds_lookup= new Array();
-adds_lookup['MPU']='MPU';
-adds_lookup['Right3_to_Right1']='Left3_to_Left1';
-adds_lookup['MastHead1']='MastHead1';
-adds_lookup['MastHead2']='MastHead2';
-adds_lookup['MastHead3']='MastHead3';
-adds_lookup['MastHead4']='MastHead4';
-adds_lookup['Centre1']='Centre1';
-adds_lookup['MastHead5']='MastHead5';
-adds_lookup['Centre2']='Centre2';
-adds_lookup['Right1_to_Right3']='Left1_to_Left3';
-adds_lookup['MastHead6']='MastHead6';
-adds_lookup['MastHead7']='MastHead7';
-adds_lookup['Poster1']='Poster1';
-adds_lookup['MastHead8']='MastHead8';
-adds_lookup['MastHead']='MastHead';
-adds_lookup['Top']='Top';
-adds_lookup['MastHead9']='MastHead9';
-adds_lookup['MastHead10']='MastHead10';
-adds_lookup['MastHead11']='MastHead11';
-adds_lookup['MastHead20']='MastHead20';
-adds_lookup['MastHead12']='MastHead12';
-adds_lookup['Right1']='Left1';
-adds_lookup['MastHead13']='MastHead13';
-adds_lookup['MastHead14']='MastHead14';
-adds_lookup['Top1']='Top';
-adds_lookup['Right3']='Left3';
-adds_lookup['MastHead15']='MastHead15';
-adds_lookup['Top2']='Top';
-adds_lookup['MastHead16']='MastHead16';
-adds_lookup['MastHead17']='MastHead17';
-adds_lookup['TopRight1']='TopRight1';
-adds_lookup['MastHead18']='MastHead18';
-adds_lookup['MastHead19']='MastHead19';
+adds_lookup['Top1']='top';
+adds_lookup['TopRight1']='topright1';
+adds_lookup['MastHead16']='masthead16';
+adds_lookup['xRight3']='left3';
+adds_lookup['MastHead4']='masthead4';
+adds_lookup['Centre1']='centre1';
+adds_lookup['xRight3_to_Right1']='left3_to_left1';
+adds_lookup['MastHead5']='masthead5';
+adds_lookup['MastHead9']='masthead9';
+adds_lookup['MastHead11']='masthead11';
+adds_lookup['MastHead6']='masthead6';
+adds_lookup['MastHead19']='masthead19';
+adds_lookup['xRight1_to_Right3']='left1_to_left3';
+adds_lookup['xMPU']='mpu';
+adds_lookup['Poster1']='poster1';
+adds_lookup['Bottom']='bottom';
+adds_lookup['MastHead8']='masthead8';
+adds_lookup['xMastHead']='masthead';
+adds_lookup['MastHead14']='masthead14';
+adds_lookup['MastHead2']='masthead2';
+adds_lookup['MastHead18']='masthead18';
+adds_lookup['MastHead17']='masthead17';
+adds_lookup['MastHead']='masthead';
+adds_lookup['Right3_to_Right1']='left3_to_left1';
+adds_lookup['Right1_to_Right3']='left1_to_left3';
+adds_lookup['MastHead7']='masthead7';
+adds_lookup['MastHead12']='masthead12';
+adds_lookup['Right3']='left3';
+adds_lookup['MastHead15']='masthead15';
+adds_lookup['xBottom']='bottom';
+adds_lookup['MastHead13']='masthead13';
+adds_lookup['Top']='top';
+adds_lookup['Top2']='top';
+adds_lookup['MPU']='mpu';
+adds_lookup['MastHead20']='masthead20';
+adds_lookup['MastHead3']='masthead3';
+adds_lookup['Right1']='left1';
+adds_lookup['Centre2']='centre2';
+adds_lookup['xTop']='top';
+adds_lookup['MastHead1']='masthead1';
+adds_lookup['MastHead10']='masthead10';
+adds_lookup['MidTop']='midtop';
+adds_lookup['xRight1']='left1';
 
 function convert_tag(tag)
 {
@@ -201,37 +250,107 @@ function convert_tag(tag)
 </script>
 <script language="JavaScript">
 var adds_xy_lookup= new Array();
-adds_xy_lookup['MPU']='300x250';
-adds_xy_lookup['Left1']='120x240';
-adds_xy_lookup['Left3_to_Left1']='120x240';
-adds_xy_lookup['Left3']='120x600';
-adds_xy_lookup['MastHead1']='468x30';
-adds_xy_lookup['MastHead2']='468x30';
-adds_xy_lookup['MastHead3']='468x30';
-adds_xy_lookup['MastHead4']='468x30';
-adds_xy_lookup['Centre1']='468x30';
-adds_xy_lookup['MastHead5']='468x30';
-adds_xy_lookup['Centre2']='180x150';
-adds_xy_lookup['MastHead6']='468x30';
-adds_xy_lookup['MastHead7']='468x30';
-adds_xy_lookup['Poster1']='224x600';
-adds_xy_lookup['MastHead8']='468x30';
-adds_xy_lookup['MastHead']='468x30';
-adds_xy_lookup['Top']='468x60';
-adds_xy_lookup['MastHead9']='468x30';
-adds_xy_lookup['MastHead10']='468x30';
-adds_xy_lookup['MastHead11']='468x30';
-adds_xy_lookup['Left1_to_Left3']='120x600';
-adds_xy_lookup['MastHead20']='468x30';
-adds_xy_lookup['MastHead12']='468x30';
-adds_xy_lookup['MastHead13']='468x30';
-adds_xy_lookup['MastHead14']='468x30';
-adds_xy_lookup['MastHead15']='468x30';
-adds_xy_lookup['MastHead16']='468x30';
-adds_xy_lookup['MastHead17']='468x30';
-adds_xy_lookup['TopRight1']='125x125';
-adds_xy_lookup['MastHead18']='468x30';
-adds_xy_lookup['MastHead19']='468x30';
+var adds_x_lookup= new Array();
+var adds_y_lookup= new Array();
+adds_xy_lookup['topright1']='125x125';
+adds_x_lookup['topright1']='125';
+adds_y_lookup['topright1']='125';
+adds_xy_lookup['masthead16']='468x30';
+adds_x_lookup['masthead16']='468';
+adds_y_lookup['masthead16']='30';
+adds_xy_lookup['masthead4']='468x30';
+adds_x_lookup['masthead4']='468';
+adds_y_lookup['masthead4']='30';
+adds_xy_lookup['centre1']='468x30';
+adds_x_lookup['centre1']='468';
+adds_y_lookup['centre1']='30';
+adds_xy_lookup['masthead5']='468x30';
+adds_x_lookup['masthead5']='468';
+adds_y_lookup['masthead5']='30';
+adds_xy_lookup['left3']='120x600';
+adds_x_lookup['left3']='120';
+adds_y_lookup['left3']='600';
+adds_xy_lookup['left1_to_left3']='120x600';
+adds_x_lookup['left1_to_left3']='120';
+adds_y_lookup['left1_to_left3']='600';
+adds_xy_lookup['masthead9']='468x30';
+adds_x_lookup['masthead9']='468';
+adds_y_lookup['masthead9']='30';
+adds_xy_lookup['masthead11']='468x30';
+adds_x_lookup['masthead11']='468';
+adds_y_lookup['masthead11']='30';
+adds_xy_lookup['masthead6']='468x30';
+adds_x_lookup['masthead6']='468';
+adds_y_lookup['masthead6']='30';
+adds_xy_lookup['masthead19']='468x30';
+adds_x_lookup['masthead19']='468';
+adds_y_lookup['masthead19']='30';
+adds_xy_lookup['poster1']='224x600';
+adds_x_lookup['poster1']='224';
+adds_y_lookup['poster1']='600';
+adds_xy_lookup['bottom']='468x60';
+adds_x_lookup['bottom']='468';
+adds_y_lookup['bottom']='60';
+adds_xy_lookup['masthead8']='468x30';
+adds_x_lookup['masthead8']='468';
+adds_y_lookup['masthead8']='30';
+adds_xy_lookup['masthead14']='468x30';
+adds_x_lookup['masthead14']='468';
+adds_y_lookup['masthead14']='30';
+adds_xy_lookup['masthead2']='468x30';
+adds_x_lookup['masthead2']='468';
+adds_y_lookup['masthead2']='30';
+adds_xy_lookup['masthead18']='468x30';
+adds_x_lookup['masthead18']='468';
+adds_y_lookup['masthead18']='30';
+adds_xy_lookup['masthead17']='468x30';
+adds_x_lookup['masthead17']='468';
+adds_y_lookup['masthead17']='30';
+adds_xy_lookup['left3_to_left1']='120x240';
+adds_x_lookup['left3_to_left1']='120';
+adds_y_lookup['left3_to_left1']='240';
+adds_xy_lookup['masthead']='468x30';
+adds_x_lookup['masthead']='468';
+adds_y_lookup['masthead']='30';
+adds_xy_lookup['left1']='120x240';
+adds_x_lookup['left1']='120';
+adds_y_lookup['left1']='240';
+adds_xy_lookup['masthead7']='468x30';
+adds_x_lookup['masthead7']='468';
+adds_y_lookup['masthead7']='30';
+adds_xy_lookup['masthead12']='468x30';
+adds_x_lookup['masthead12']='468';
+adds_y_lookup['masthead12']='30';
+adds_xy_lookup['masthead15']='468x30';
+adds_x_lookup['masthead15']='468';
+adds_y_lookup['masthead15']='30';
+adds_xy_lookup['masthead13']='468x30';
+adds_x_lookup['masthead13']='468';
+adds_y_lookup['masthead13']='30';
+adds_xy_lookup['top']='468x60';
+adds_x_lookup['top']='728';
+adds_y_lookup['top']='90';
+adds_xy_lookup['mpu']='300x250';
+adds_x_lookup['mpu']='300';
+adds_y_lookup['mpu']='250';
+adds_xy_lookup['masthead20']='468x30';
+adds_x_lookup['masthead20']='468';
+adds_y_lookup['masthead20']='30';
+adds_xy_lookup['masthead3']='468x30';
+adds_x_lookup['masthead3']='468';
+adds_y_lookup['masthead3']='30';
+adds_xy_lookup['centre2']='180x150';
+adds_x_lookup['centre2']='180';
+adds_y_lookup['centre2']='150';
+adds_xy_lookup['masthead1']='468x30';
+adds_x_lookup['masthead1']='468';
+adds_y_lookup['masthead1']='30';
+adds_xy_lookup['masthead10']='468x30';
+adds_x_lookup['masthead10']='468';
+adds_y_lookup['masthead10']='30';
+adds_xy_lookup['midtop']='468x60';
+adds_x_lookup['midtop']='468';
+adds_y_lookup['midtop']='60';
 
 function xypos(tag)
 {
@@ -245,89 +364,234 @@ function xypos(tag)
 
 
 
+
+function xpos(tag)
+{
+        if (tag)
+        {
+                var xpos = adds_x_lookup[tag];
+                return xpos;
+        }
+        return;
+}
+
+
+
+
+function ypos(tag)
+{
+        if (tag)
+        {
+                var ypos = adds_y_lookup[tag];
+                return ypos;
+        }
+        return;
+}
+
+
+
 </script>
 <script language="javascript" type="text/javascript">
 <!-- 
 document.write('');
 ord=Math.random()*10000000000000000;
 var my_tile=0;
-function OAS_AD(pos) {
-	var undefined;
-	my_tile++;
+var III_OAS_AD_POS = new Array();
+var window_fully_loaded=0;
+var use_iframes=0;
 
-	var III_OAS_list_array = new Array();
+
+
+var III_OAS_list_array = new Array();
+var III_OAS_IF_list_array = new Array();
+
+	III_OAS_list_array['top']='1';
+	III_OAS_list_array['left1']='1';
+	III_OAS_list_array['left3']='1';
+	III_OAS_list_array['bottom']='1';
+
+	function addLoadEvent(func) 
+{
+  	var oldonload = window.onload;
+  	if (typeof window.onload != 'function') 
+	{
+    	window.onload = func;
+  	} 
+	else 
+	{
+    	window.onload = function() 
+		{
+      		oldonload();
+      		func();
+    	}
+	}
+}
+
+function make_ad_string(pos,type)
+{
+
+		if (type == null)
+		{
+			return;
+		}
+		if (pos == null)
+		{
+			return;
+		}
+
+		var my_dcopt;
+		if (pos == convert_tag('Top'))
+		{
+			my_dcopt = 'ist' ;
+		}
+		else if(pos == convert_tag('Top1'))
+		{
+			my_dcopt = 'ist' ;
+		}
+		else if(pos == convert_tag('Top2'))
+		{
+			my_dcopt = 'ist' ;
+		}
+		else
+		{
+			my_dcopt='';
+		}
+
 	
-	III_OAS_list_array['Top']='1';
-	III_OAS_list_array['Left1']='1';
-	III_OAS_list_array['Left3']='1';
-	III_OAS_list_array['MPU']='1';
-	III_OAS_list_array['MastHead']='1';
-	III_OAS_list_array['MastHead1']='1';
-	III_OAS_list_array['MastHead2']='1';
-	III_OAS_list_array['MastHead3']='1';
-	III_OAS_list_array['MastHead4']='1';
-	III_OAS_list_array['MastHead5']='1';
-	III_OAS_list_array['MastHead6']='1';
-	III_OAS_list_array['MastHead7']='1';
-	III_OAS_list_array['MastHead8']='1';
-	III_OAS_list_array['MastHead9']='1';
-	III_OAS_list_array['MastHead10']='1';
-	III_OAS_list_array['MastHead11']='1';
-	III_OAS_list_array['MastHead12']='1';
-	III_OAS_list_array['MastHead13']='1';
-	III_OAS_list_array['MastHead14']='1';
-	III_OAS_list_array['MastHead15']='1';
-	III_OAS_list_array['MastHead16']='1';
-	III_OAS_list_array['MastHead17']='1';
-	III_OAS_list_array['MastHead18']='1';
-	III_OAS_list_array['MastHead19']='1';
-	III_OAS_list_array['MastHead20']='1';
+		var ad_str = 'ii_top_bottom_nav/?zone=;pos='+pos+';env=;dcopt=' + my_dcopt + ';sz='+xypos(pos) + ';tile=' + my_tile + ';ord=' + ord;
 
-	if (III_OAS_list_array[pos] == null)	
-	{
-		//alert("You are trying to use an advertising tag of '" + pos + "' on this page. Please, contact your nearest friendliest developer and ask them to add this tag to the configuration for this page '/about/'. This message will automatically dissapear when it's done, thank you.");
-	}
-	else
-	{
-	var my_dcopt;
-	if (pos == convert_tag('Top'))
-	{
-		my_dcopt = 'ist' ;
-	}
-	else if(pos == convert_tag('Top1'))
-	{
-		my_dcopt = 'ist' ;
-	}
-	else if(pos == convert_tag('Top2'))
-	{
-		my_dcopt = 'ist' ;
-	}
-	else
-	{
-		my_dcopt='';
-	}
+		var string = 'http://ad.uk.doubleclick.net/' + type + '/' + ad_str;
+
+		return string;
+}
 
 		
 
-string = '<SCRIPT LANGUAGE="JavaScript" SRC="http://ad.uk.doubleclick.net/adj/ii_top_bottom_nav/;zone=;pos='+pos+';env=;dcopt=' + my_dcopt + ';sz='+xypos(pos) + ';tile=' + my_tile + ';ord=' + ord + '?" ><\/SCRIPT>';
-
-//alert (string);
-document.write(string);
-
-        // SITE = ii_top_bottom_nav
- // ZONE = 
- // ENV =  
+function OAS_AD (pos)
+{
+	if ((III_OAS_list_array[pos] == null)&&(III_OAS_IF_list_array[pos] == null))
+	{
 	}
-	//alert('Pos = ' + pos + ' size = ' + xypos(pos) + ' tile = ' + my_tile + ' dcopt = ' + my_dcopt);
+	else
+	{
+
+		my_tile++;
+		var ad_j = make_ad_string(pos,'adj');
+		var string;
+		if (!(III_OAS_IF_list_array[pos] == null))
+		{
+			if (use_iframes == 0)
+			{
+				use_iframes=1;
+				addLoadEvent(OAS_SERVE_ADS);
+			}
+			if (III_OAS_AD_POS[pos]==null)
+			{
+				III_OAS_AD_POS[pos]= 1;
+			}
+			else
+			{
+				III_OAS_AD_POS[pos]++;
+			}
+			var posname = pos + '_DIV' + III_OAS_AD_POS[pos];
+
+			string = '<iframe src="/ads/bg.html"  id=' + posname + ' name="' + posname + '" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" width="' + xpos(pos) + '" height="' + ypos(pos) + '" scrolling="no" style="overflow-x:visible;overflow-y:visible;" ALLOWTRANSPARENCY="true"><script language="JavaScript1.1" src="' + ad_j + '"></' + 'script></iframe>';
+		}
+		else
+		{
+			string='<script language="JavaScript1.1" src="' + ad_j + '"></' + 'script>';	
+		}
+
+		document.write(string);
+	}
 }
+
+function OAS_SERVE_ADS() 
+{
+		for (pos in III_OAS_IF_list_array)
+	{
+		OAS_SERVE_AD(pos);
+	}
+}
+
+function OAS_SERVE_AD(pos)
+{
+	var undefined;
+	var pos_number = III_OAS_AD_POS[pos];
+	var hidden_posname = pos + '_DIV' + pos_number + '_hidden';
+	var real_posname = pos + '_DIV' + pos_number;
+
+	if (III_OAS_IF_list_array[pos] == null)	
+	{
+	}
+	else
+	{
+		my_tile++;
+		var url_i = make_ad_string(pos,'adi');
+
+		//var url_i  ='http://iiidev4.iii.co.uk/mm/' + pos;
+
+		var real_position = document.getElementById(real_posname);
+
+		if (real_position)
+		{
+			real_position.src=url_i;
+		}
+
+       	// SITE = ii_top_bottom_nav
+	// ZONE = 
+	// ENV =  
+	// PTILE =  
+	// KEYWORDS =  
+	}
+		//alert('Pos = ' + pos + ' size = ' + xypos(pos) + ' tile = ' + my_tile + ' dcopt = ' + my_dcopt);
+}
+
 //-->
 </script>
 <!-- OAS SETUP end -->
+<style>
+	.NewsLinks {
+	font-family: arial;
+	font-size: xx-small;
+	font-weight: normal;
+	color: ;
+	text-decoration: none;
+	}
+	a:link.NewsLinks {text-decoration: none; color : ; font-size: xx-small;}
+	a:visited.NewsLinks {color : ; font-size: xx-small;}
+	a:active.NewsLinks {text-decoration: none; color : ; font-size: xx-small;}
+	a:hover.NewsLinks {color : ; font-size: xx-small;}
+
+	.NewsHeader {
+	font-family: arial;
+	font-size: xx-small;
+	font-weight: normal;
+	color: ;
+	text-decoration: none;
+	padding-left: 5px;
+	}
+	a:link.NewsHeader {text-decoration: none; color : ; font-size: xx-small;}
+	a:visited.NewsHeader {color : ; font-size: xx-small;}
+	a:active.Header {text-decoration: none; color : ; font-size: xx-small;}
+	a:hover.NewsHeader {color : ; font-size: xx-small;}
+
+	.ticker-border {
+		background-color: ;
+		margin: 1px;
+		padding: 1px;
+		height: 50;
+		width:	200;
+		border:  dotted ;
+	}
+</style>
+
 <script language="javascript1.1" src="/js/hbx.js"></script>
 </head>
 
 <body bgcolor="#ffffff">
 <div class="hide"><a href="#content" title="Skip navigation" accesskey="2">Skip navigation</a></div>
+
 
 <div id="top">
 <table style="margin:0; padding:0" width="770" cellpadding="0" cellspacing="0" border="0">
@@ -340,22 +604,36 @@ document.write(string);
 <!--
 OAS_AD(convert_tag('Top'));
 -->
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ii_top_bottom_nav/;zone=;pos=Top;env=;dcopt=ist;sz=468x60;tile=1;ord=2593417019506638.5?"></script>
+</script><script language="JavaScript1.1" src="http://ad.uk.doubleclick.net/adj/ii_top_bottom_nav/?zone=;pos=top;env=;dcopt=ist;sz=468x60;tile=1;ord=2094161658958704.2"></script>
 	</td>
 	</tr>
 </tbody></table>
 
 </div>
-<div id="usertools">
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+function navcheckform(f) {
+	var exchosen = 0;
+	if ((f.searchterm.value == null) || (f.searchterm.value == "")) {
+		alert("You have not entered any search text");
+		return false;
+	}
+	else { return true; }
+}
+
+function NavAct(act) {
+	document.navsearchbox.action = act;
+}
+// -->
+</script>
+
+<div id="usertools" class="dontprint">
 <ul>
-	<li><a id="last" title="General site conditions, discussion board terms, ISA and PEP terms, etc." href="/about/?type=legal">Terms &amp; Conditions</a></li>
-	<li><a title="Common questions, FAQs, online support, forgotten password" href="/help/">Help</a></li>
-	<li><a title="Define all those tricky finance words." href="http://www.finance-glossary.com/pages/home.htm?ginPtrCode=12738&amp;PopupMode=false">Glossary</a></li>
-	<li><a title="An overview of the main site areas" href="/home/?type=sitemap">Site Map</a></li>
-	<li><a title="The history of Interactive Investor, formerly known as Ample (Ample.com)." href="/about/">About Us</a></li>
-	<li><a title="Update your address and subscribe for finance newsletters." href="/profile/">My Account</a></li>
-	<li><a title="Register on Interactive Investor for a portfolio, to set up a share dealing account, to buy funds and ISAs, to sign up for newsletters and to access some of our share trading tools and information. It's free to register, click here." href="/registration/">Register</a></li>
-	<li>&nbsp;&nbsp;Monday  4 April 2005</li>
+	<li title="Search across the whole site for: Articles, Editorial comment, Business and Market News, Members' postings on discussion boards" style="padding-left:22px; background:url(/i/ii/search19x19.gif) left center no-repeat; float:right; margin:-9px 6px"><form action="/search" name="navsearchbox" onsubmit="return navcheckform(this)" method="get"><input class="formtext" onclick="this.select()" name="searchterm" size="30" type="text" value=""><input type="hidden" name="type" value="quotes"><input type="hidden" name="it" value="le"><input type="hidden" name="it" value="li"><input type="hidden" name="it" value="lg"><input type="hidden" name="it" value="lb"><input type="hidden" name="it" value="leit"><input type="hidden" name="it" value="ye"><input type="hidden" name="it" value="ne"><input type="hidden" name="it" value="ukut"><input type="hidden" name="it" value="ukpn"><input type="hidden" name="it" value="ukin"><input type="hidden" name="it" value="ukof"><input type="hidden" name="it" value="usi"><input type="radio" id="ch_search" checked="checked" name="option" onclick="NavAct(this.value)" value="/search/"><label for="ch_search">Site</label> 
+<input type="radio" id="ch_quote" name="option" onclick="NavAct(this.value)" value="/quotes/"><label for="ch_quote">Shares</label> 
+<input class="button" name="submitButtonName" type="submit" value="Search">
+</form></li>
+<li>&nbsp;&nbsp;Sunday 18 December 2005</li>
 </ul>
 </div>
 <div id="breadcrumbs">
@@ -366,8 +644,15 @@ OAS_AD(convert_tag('Top'));
 	/ <a href="/about/?type=legal&amp;subtype=privacy">Legal terms</a>
 	</div>
 	<div class="dontprint" style="float:right">
-<img src="/i/generic/pad_lock_blue.gif" alt="" width="12" height="15" border="0" align="absmiddle"> Login: <a title="Login to Share dealing account" href="/reg/sharedealing/?type=myshares">Shares</a> | <a title="Login to My Funds account" href="/reg/wealth/?type=shares_and_funds&amp;action=holdings_bounce">Funds</a> | <a title="Login to CFDs Trading account" href="http://www.iii.co.uk/go?c=x9j5xj">CFDs</a> | <a href="/level2_launch" target="_blank">Level 2</a> | <a href="/logout/">Logout</a>
-	</div>
+<a style=" font-weight:normal" title="Register with Interactive Investor for a portfolio, to set up a share dealing account, to buy funds and ISAs, to sign up for newsletters and to access some of our share trading tools and information. It's free to register." href="/registration/">Register</a> |
+<a style=" font-weight:normal" title="Update your address and subscribe to finance newsletters." href="/profile/">My Account</a> |
+<a style=" font-weight:normal" title="The history of Interactive Investor, formerly known as Ample (Ample.com)." href="/about/">About Us</a> |
+<a style=" font-weight:normal" title="An overview of the main site areas" href="/home/?type=sitemap">Site Map</a> |
+<a style=" font-weight:normal" title="Define all those tricky finance words." href="http://www.finance-glossary.com/pages/home.htm?ginPtrCode=12738&amp;PopupMode=false">Glossary</a> |
+<a style=" font-weight:normal" title="Common questions, FAQs, online support, forgotten password" href="/help/">Help</a> |
+<a style=" font-weight:normal" title="General site conditions, discussion board terms, ISA and PEP terms, etc." href="/about/?type=legal">T&amp;Cs</a> |
+<a title="Login to Interactive Investor" href="/reg/about/">Login</a>
+</div>
 </div>
 <div class="advert" style="position:absolute; left:920px; padding:10px 0;">
 </div>
@@ -377,33 +662,13 @@ OAS_AD(convert_tag('Top'));
 
 		<div id="navcontainer">
 
-	<ul><li><a title="Get a snapshot of the tools and services provided by one of the UK's leading finance  websites." href="/">Home</a></li><li><a title="Get the latest investment news and ideas from our investment experts." href="/news/">Investing</a><ul class="subnav"><li><a title="Business and finance news from Reuters and AFX." href="/news/" class="inactive">News</a></li><li><a title="Latest summaries and updates, plus newspaper tips, world investment markets, share prices, share quotes, winners and losers and most active traders." href="/markets/" class="inactive">Markets</a></li><li><a title="Sign up for a snapshot of your wealth in our free portfolio. Track your stocks and shares, funds, property and more." href="/wealth/" class="inactive">Portfolio</a></li><li><a title="Buy and sell stocks and shares. Share dealing news, how to's and information." href="/sharedealing/" class="inactive">Share Dealing</a></li><li><a title="Un-contended Level 2 for just £39.99 per month; SETS, SETSmm, and SEAQ. Live prices streamed to your portfolio; Trade direct from Level 2; Advanced Charting and Technical Analysis; Real Time Terminal; Live streaming discussions and news integrated within portfolio" href="/tradingtools/" class="inactive">Level 2 / Tools</a></li><li><a title="Sign up to trade Contracts For Difference. Short or go long." href="/cfd/" class="inactive">CFD Trading</a></li><li><a title="Sign up for Spread Betting." href="/spreadbetting/" class="inactive">Spread Betting</a></li><li><a title="Buy a UK ISA from our ISA fund supermarket or transfer." href="/isas/" class="inactive">ISAs</a></li><li><a title="Buy funds, ISAs, unit trusts and OEICs online or complete a PEP transfer." href="/funds/" class="inactive">Funds</a></li><li><a title="Find a property, UK or abroad, value your home, commercial property, land for sale, buy to let, property as your pension, mortgages, conveyancing and much more" href="http://personalfinance.iii.co.uk/property/" class="inactive">Property</a></li><li><a title="Exchange tips on Interactive Investor's bulletin boards and message boards." href="/community/" class="inactive">Community</a></li></ul></li><li><a title="Maximise your money. View a large range of personal finance articles and tools." href="http://personalfinance.iii.co.uk">Personal Finance</a><ul class="subnav"><li><a title="Improve your spending, saving and budgeting by using our financial planning tools." href="http://personalfinance.iii.co.uk/planning/" class="inactive">Planning</a></li><li><a title="Free review service. Mortgage calculator . Get the best rate. Endowments, repayment, buy to let, property abroad." href="http://personalfinance.iii.co.uk/mortgages/" class="inactive">Mortgages</a></li><li><a title="Compare credit cards , APR, interest rates, platinum cards, etc." href="http://personalfinance.iii.co.uk/creditcards/" class="inactive">Credit cards</a></li><li><a title="Compare loan rates, APR, interest rates, repayment periods." href="http://personalfinance.iii.co.uk/loans/" class="inactive">Loans</a></li><li><a title="Find the highest interest rates on savings accounts. Cash ISAs." href="http://personalfinance.iii.co.uk/savings/" class="inactive">Savings</a></li><li><a title="Compare current accounts and banks, interest rates, overdraft facilities, cheque books, branch networks." href="http://personalfinance.iii.co.uk/banking/" class="inactive">Banking</a></li><li><a title="Review pension information for your retirement, SIPPs, annuities, tax savings, pension guides." href="http://personalfinance.iii.co.uk/pensions/" class="inactive">Pensions</a></li><li><a title="Find cheap home insurance, travel insurance, car insurance and pet insurance. Plus protection products from LloydsTSB and Hiscox." href="http://personalfinance.iii.co.uk/insurance/" class="inactive">Insurance</a></li><li><a title="Get help finding the most appropriate life insurance protection policy." href="http://personalfinance.iii.co.uk/lifeinsurance/" class="inactive">Life Insurance</a></li><li><a title="Tax tips and links to the Inland Revenue's online services. Guides to higher and lower rates of tax, tax saving tips, pensions, SIPPS, CGT." href="http://personalfinance.iii.co.uk/tax/" class="inactive">Tax</a></li><li><a title="Compare and save on gas, electricity and telephone bills. Utilities made easy." href="http://personalfinance.iii.co.uk/cutbills/" class="inactive">Cut your bills</a></li></ul></li></ul>
-
+	<ul><li><a title="Get a snapshot of the tools and services provided by one of the UK's leading finance  websites." href="/">Home</a></li><li><a title="Get the latest investment news and ideas from our investment experts." href="/news/">Investing</a><ul class="subnav"><li><a title="Business and finance news from Reuters and AFX." href="/news/" class="inactive">News</a></li><li><a title="Latest summaries and updates, plus newspaper tips, world investment markets, share prices, share quotes, winners and losers and most active traders." href="/markets/" class="inactive">Markets</a></li><li><a title="Sign up for a snapshot of your wealth in our free portfolio. Track your stocks and shares, funds, property and more." href="/wealth/" class="inactive">Portfolio</a></li><li><a title="Buy and sell stocks and shares. Share dealing news, how to's and information." href="/sharedealing/" class="inactive">Share Dealing</a></li><li><a title="Un-contended Level 2 for just £24.99 per month; SETS, SETSmm, and SEAQ. Live prices streamed to your portfolio; Trade direct from Level 2; Advanced Charting and Technical Analysis; Real Time Terminal; Live streaming discussions and news integrated within portfolio" href="/tradingtools/" class="inactive">Level 2 / Tools</a></li><li><a title="Sign up to trade Contracts For Difference. Short or go long." href="/cfd/" class="inactive">CFD Trading</a></li><li><a title="Sign up for Spread Betting." href="/spreadbetting/" class="inactive">Spread Betting</a></li><li><a title="Buy a UK ISA from our ISA fund supermarket or transfer." href="/isas/" class="inactive">ISAs</a></li><li><a title="Buy funds, ISAs, unit trusts and OEICs online or complete a PEP transfer." href="/funds/" class="inactive">Funds</a></li><li><a title="Find a property, UK or abroad, value your home, commercial property, land for sale, buy to let, property as your pension, mortgages, conveyancing and much more" href="http://personalfinance.iii.co.uk/property/" class="inactive">Property</a></li><li><a title="Exchange tips on Interactive Investor's bulletin boards and message boards." href="/community/" class="inactive">Community</a></li></ul></li><li><a title="Maximise your money. View a large range of personal finance articles and tools." href="http://personalfinance.iii.co.uk">Personal Finance</a><ul class="subnav"><li><a title="Improve your spending, saving and budgeting by using our financial planning tools." href="http://personalfinance.iii.co.uk/planning/" class="inactive">Planning</a></li><li><a title="Free review service. Mortgage calculator . Get the best rate. Endowments, repayment, buy to let, property abroad." href="http://personalfinance.iii.co.uk/mortgages/" class="inactive">Mortgages</a></li><li><a title="Compare credit cards , APR, interest rates, platinum cards, etc." href="http://personalfinance.iii.co.uk/creditcards/" class="inactive">Credit cards</a></li><li><a title="Compare loan rates, APR, interest rates, repayment periods." href="http://personalfinance.iii.co.uk/loans/" class="inactive">Loans</a></li><li><a title="Find the highest interest rates on savings accounts. Cash ISAs." href="http://personalfinance.iii.co.uk/savings/" class="inactive">Savings</a></li><li><a title="Compare current accounts and banks, interest rates, overdraft facilities, cheque books, branch networks." href="http://personalfinance.iii.co.uk/banking/" class="inactive">Banking</a></li><li><a title="Review pension information for your retirement, SIPPs, annuities, tax savings, pension guides." href="http://personalfinance.iii.co.uk/pensions/" class="inactive">Pensions</a></li><li><a title="Find cheap home insurance, travel insurance, car insurance and pet insurance. Plus protection products from LloydsTSB and Hiscox." href="http://personalfinance.iii.co.uk/insurance/" class="inactive">Insurance</a></li><li><a title="Get help finding the most appropriate life insurance protection policy." href="http://personalfinance.iii.co.uk/lifeinsurance/" class="inactive">Life Insurance</a></li><li><a title="Tax tips and links to the Inland Revenue's online services. Guides to higher and lower rates of tax, tax saving tips, pensions, SIPPS, CGT." href="http://personalfinance.iii.co.uk/tax/" class="inactive">Tax</a></li><li><a title="Compare and save on gas, electricity and telephone bills. Utilities made easy." href="http://personalfinance.iii.co.uk/cutbills/" class="inactive">Cut your bills</a></li></ul></li></ul>
 
 	</div>
 	</div>
-<div id="advert_right" class="advert oas_left">
-		<div class="smallprint" align="center">ADVERTISEMENT</div>
-<!-- OAS AD 'Left1' begin -->
-<script language="javascript" type="text/javascript">
-<!--
-	OAS_AD(convert_tag('Right1'));
-	OAS_AD(convert_tag('Right1_to_Right3'));
-// -->
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ii_top_bottom_nav/;zone=;pos=Left1;env=;dcopt=;sz=120x240;tile=2;ord=2593417019506638.5?"></script>
-<!-- OAS AD 'Left1' end -->
+<div id="content">
 
-<!-- OAS AD 'Left3' begin -->
-<script language="javascript" type="text/javascript">
-<!--
-	OAS_AD(convert_tag('Right3'));
-	OAS_AD(convert_tag('Right3_to_Right1'));
-// -->
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ii_top_bottom_nav/;zone=;pos=Left3;env=;dcopt=;sz=120x600;tile=4;ord=2593417019506638.5?"></script>
-<!-- OAS AD 'Left3' end -->
-	</div>
-	<div id="content">
-
+<div id="widecontent">
 <h1>Privacy Policy</h1>
 
 <p class="smallprint">Version: 14 September 2004</p>
@@ -472,7 +737,16 @@ EC2M 1QS
 
 <p>15.	We will amend or delete any Personal Data relating to you which is found to be incorrect or not relevant in accordance with the Act.  If you are aware of any changes that should be made to your Personal Data please visit the "My Profiles" page on the Site or otherwise notify the Interactive Investor Contact Centre on <span style="white-space:nowrap">0845 88 00 267</span> as soon as possible.</p>
 </div>
+</div>
 
+</div>
+
+<div style="clear:both; margin:15px 120px 0" class="advert"> 
+<script class="advert" language="javascript" type="text/javascript">
+<!--
+	OAS_AD(convert_tag('Bottom'));
+//-->
+</script><script language="JavaScript1.1" src="http://ad.uk.doubleclick.net/adj/ii_top_bottom_nav/?zone=;pos=bottom;env=;dcopt=;sz=468x60;tile=2;ord=2094161658958704.2"></script>
 </div>
 
 <div id="footer">
@@ -484,6 +758,8 @@ EC2M 1QS
 <a href="/about/?type=legal&amp;subtype=secure">Risk warning</a>
 <a href="/about/?type=legal&amp;subtype=privacy">Privacy</a>
 <a href="/about/?type=legal&amp;subtype=security">Security</a>
+<a href="/mobile/">Mobile</a>
+<a href="http://blog.iii.co.uk/">Blog</a>
 	</div>
 
 
@@ -517,8 +793,6 @@ We may record and/or monitor telephone calls or intercept other telecommunicatio
 </div>
 
 <div class="hide"><a href="#navcontainer">Jump back to site navigation</a></div>
-
-
 
 
 </body></html>
