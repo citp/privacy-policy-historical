@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the progress-energy.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305075417id_/http%3A//www.progress-energy.com/shared/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progress-energy.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218195754id_/http%3A//www.progress-energy.com/shared/privacy/index.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Progress Energy
 
@@ -8,7 +8,8 @@ Progress Energy values the privacy of each visitor to our site. To better protec
 
 **Why We Collect Information**
 
-In general, you can visit the Progress Energy Web site without telling us who you are or revealing any personal information about yourself. However, there are times when we may need information from you. If you register to access various services related to your residential account or other applications involving your business account on this Web site, you may be asked to submit personal information such as your account number, name, address, phone number and e-mail address. Similar information may be required to participate in Progress Energy subsidiaries' Online Account Access and eBill payment program. You may also be asked to submit additional personal information or financial information in order to use certain specific services offered in these customer account transaction areas. We will protect all information that you provide us on the Web site, as set forth below.  
+Why we collect information  
+In general, you can visit the Progress Energy Web site without telling us who you are or revealing any personal information about yourself. However, there are times when we may need information from you. If you register to access various services related to your residential account or other applications involving your business account on this Web site, you may be asked to submit personal information such as your account number, name, address, phone number and e-mail address. Similar information may be required to participate in Progress Energy subsidiaries' Online Account Access and e-bill payment program.  You may also be asked to submit additional personal information or financial information in order to use certain specific services offered in these customer account transaction areas. We will protect all information that you provide us on the Web site, as set forth below.  
   
 ---  
   
