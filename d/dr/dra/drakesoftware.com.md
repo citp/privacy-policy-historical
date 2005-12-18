@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drakesoftware.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205234737id_/http%3A//www.drakesoftware.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drakesoftware.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218020252id_/http%3A//www.drakesoftware.com/Privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Drake Software
 
