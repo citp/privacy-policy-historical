@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422061321id_/http%3A//www.invaluable.com/about/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218015110id_/http%3A//www.invaluable.com/about/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Invaluable > About Invaluable > Privacy Policy
 
