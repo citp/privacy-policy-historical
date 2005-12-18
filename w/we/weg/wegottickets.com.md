@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404002840id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218113044id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
 
-# ** We Got Tickets - Internet Tickets via Email **
-
-The number of tickets available only reflects our allocation and not the total tickets remaining for the event.
+# ** We Got Tickets Online Box Office. Buy tickets for events around the UK. **
 
 **Privacy Policy**
 
-Internet Tickets Ltd of 65 George Street, Oxford.OX1 2BQ UK and its group companies including WeGotTickets Ltd and SU Tickets Ltd ("We" "Us" or "Our") take your privacy seriously. This Privacy Policy explains the steps We take to ensure information about you is kept secure and confidential.
+Internet Tickets Ltd of 9 Park End Street, Oxford.OX1 1HH UK and its group companies including WeGotTickets Ltd and SU Tickets Ltd ("We" "Us" or "Our") take your privacy seriously. This Privacy Policy explains the steps We take to ensure information about you is kept secure and confidential.
 
 **Please read this Privacy Policy carefully. Once you use this Website ("this Website") or Our services available via it you will be deemed to have read and consented to the uses of your personal data set out in this Privacy Policy. You will also be deemed to have read and accepted this Privacy Policy and the Website Terms and Conditions of use ([terms and conditions](http://www.wegottickets.com/tandc)).
 
