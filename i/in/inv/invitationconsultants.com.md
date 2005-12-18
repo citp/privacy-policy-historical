@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625084535id_/http%3A//www.invitationconsultants.com/dprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218030609id_/http%3A//invitationconsultants.com/dprivacy.asp) for the most accurate reproduction.*
 
-# Invitation Consultants - Special Occasion Collection
+# Invitation Consultants Customer Service
 
-[Back to Main Customer Service Page](https://web.archive.org/web/20050625084535id_/http%3A//www.invitationconsultants.com/oinfo.asp)
+**_  Last updated: 10/20/2005_**  [](http://www.truste.org/ivalidate.php?url=www.invitationconsultants.com&sealid=101)
 
-[](https://www.truste.org/ivalidate.php?url=www.invitationconsultants.com)Invitation Consultants, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.invitationconsultants.com](http://www.invitation/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+ Invitation Consultants, Inc. is a licensee of the TRUSTe Privacy  
+ Program. TRUSTe is an independent, non-profit organization whose  
+ mission is to build users' trust and confidence in the Internet by  
+ promoting the use of fair information practices. This privacy statement covers the site [www.invitationconsultants.com](http://invitationconsultants.com/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Customer Service at [customerservice@invitationconsultants.com](mailto:customerservice@invitationconsultants.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Customer Service at [customerservice@invitationconsultants.com](mailto:customerservice@invitationconsultants.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe  [\- www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)  
+TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 Thanks for shopping at www.invitationconsultants.com. We've done our best to ensure the security and privacy of your transactions with us. Be confident that your credit card information and other personal data will be regarded with the highest standards of confidentiality, safety, and security.
 
@@ -50,7 +54,7 @@ We use an outside shipping company to fulfill orders, and a credit card processi
 
 __Service Providers__
 
-We use Microdoft bCentral to provide you with e-mails about special offers and promotions.  When you place an order with us, we will share your e-mail address as necessary for them to provide that service. 
+We use Microsoft bCentral to provide you with e-mails about special offers and promotions.  When you place an order with us, we will share your e-mail address as necessary for them to provide that service. 
 
 They are prohibited from using your personally identifiable information for any other purpose
 
@@ -86,7 +90,7 @@ Authentic Sites, like [www.invitationconsultants.com](http://www.invitationconsu
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can send an email to us at customerservice@invitationconsultants.com.
+If you have any questions about security on our Web site, you can send an email to us at [customerservice@invitationconsultants.com](mailto:customerservice@invitationconsultants.com).
 
 In the event Invitation Consultants, Inc. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via email of any such change in ownership or control of your personal information.
 
@@ -94,15 +98,17 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at:
+If you have any questions or suggestions regarding our privacy policy,   
+please contact us at:
 
-Invitation Consultants, Inc.  
+**Invitation Consultants, Inc.**  
 8176 Woodland Center Boulevard  
 Tampa, FL 33614
 
 Tel 813-879-3748  
 Fax 813-879-4478
 
-[CustomerService@invitationconsultants.com](mailto:CustomerService@invitationconsultants.com)
+[CustomerService@invitationconsultants.com](mailto:CustomerService@invitationconsultants.com)   
 
-[Back to Main Customer Service Page](https://web.archive.org/web/20050625084535id_/http%3A//www.invitationconsultants.com/oinfo.asp)
+
+[Back to Main Customer Service Page](https://web.archive.org/web/20051218030609id_/http%3A//invitationconsultants.com/oinfo.asp)   
