@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachers-teachers.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404075951id_/http%3A//www.teachers-teachers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachers-teachers.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218045644id_/http%3A//teachers-teachers.com/privacy) for the most accurate reproduction.*
 
 # Teachers-Teachers.com
 
