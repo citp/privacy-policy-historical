@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bop.gov privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405163234id_/http%3A//www.bop.gov/policy/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bop.gov privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218201409id_/http%3A//www.bop.gov/policy/privacypolicy.jsp) for the most accurate reproduction.*
 
-# Federal Bureau of Prisons
+# BOP: Privacy Policy
 
 **Information Collected and Stored Automatically**
 
@@ -17,6 +17,10 @@ We may share information you give us with contractors acting on our behalf or wi
 Electronically-submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found here: <http://www.pueblo.gsa.gov/call/foia.htm>. 
 
 Remember that e-mail is not necessarily secure against interception. If your communication is sensitive or includes personal information you may prefer to send it by postal mail instead. 
+
+**COPPA**
+
+The Department of Justice is especially concerned about protecting children’s privacy. We hope parents and teachers are involved in children’s Internet explorations. It is particularly important for parents to guide their children when children are asked to provide personal information online. The Department’s Kids’ Page does not require children to reveal any information that could personally identify them. If a child chooses to provide personally identifying information to us, through an e-mail or otherwise, it will only be used to enable us to respond to the writer, and will not be retained. 
 
 **Cookies**
 
