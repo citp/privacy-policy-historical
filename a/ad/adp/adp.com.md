@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528071130id_/http%3A//www.adp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218193106id_/http%3A//www.adp.com/privacy.html) for the most accurate reproduction.*
 
 # ADP | ADP.com Web Site Privacy Statement
 
@@ -48,8 +48,8 @@ Other sites
 
 ADP sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites.
 
-If you have questions or concerns regarding this statement, you should contact us at [ ES_Privacy@adp.com](mailto:ES_Privacy@adp.com)
+If you have questions or concerns regarding this statement, you should contact us at [ ES_Privacy@adp.com](mailto:ES_Privacy@adp.com).
 
-**Last updated 07/22/04**  
-©2004 Automatic Data Processing, Inc. All Rights Reserved.   
+**Last updated 08/09/05**  
+©2005 Automatic Data Processing, Inc. All Rights Reserved.   
 
