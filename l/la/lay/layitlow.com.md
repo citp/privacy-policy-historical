@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layitlow.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526000652id_/http%3A//www.layitlow.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layitlow.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218050222id_/http%3A//www.layitlow.com/privacy.shtml) for the most accurate reproduction.*
 
 # LayItLow.com Privacy Statement
 
@@ -39,7 +39,7 @@ If you prefer not to receive cookies while browsing our website, you can set you
 
 ##### How We Use Information Collected
 
-LayItLow.com uses information for several general purposes: to fulfill your requests for certain products and services, to personalize your experience on our website, to keep you up to date on the latest forum annoucments, updates, special offers or other information we think you'd like to hear about either from us or from our business partners, and to better understand your needs and provide you with better services. We may also use your information to send you, or to have our business partners send you, direct marketing information or contact you for market research.
+LayItLow.com uses information for several general purposes: to fulfill your requests for certain products and services, to personalize your experience on our website, to keep you up to date on the latest forum announcements, updates, special offers or other information we think you'd like to hear about either from us or from our business partners, and to better understand your needs and provide you with better services. We may also use your information to send you, or to have our business partners send you, direct marketing information or contact you for market research.
 
 ##### Information Sharing and Disclosure
 
@@ -73,4 +73,4 @@ LayItLow.com will amend this policy from time to time. If we make any substantia
 
 If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [support@layitlow.com](mailto:support@layitlow.com).
 
-This document was last updated January 7, 2005
+This document was last updated September 15, 2005
