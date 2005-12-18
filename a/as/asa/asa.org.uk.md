@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asa.org.uk privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527101428id_/http%3A//www.asa.org.uk/asa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asa.org.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218013901id_/http%3A//www.asa.org.uk/asa/privacy) for the most accurate reproduction.*
 
-# ASA - Privacy Policy
+# Privacy Policy
 
 The ASA takes its responsibilities regarding the confidentiality of your personal information very seriously. The ASA's Privacy Policy is set out below. If you use any of the services which the ASA provides, you will be deemed to have consented to the collection and use of the personal information you submit to the ASA in the ways described below. Therefore, please read this Policy with care and if you have any questions or comments, e-mail the ASA at [data.protection@asa.org.uk](mailto:data.protection@asa.org.uk). 
 
