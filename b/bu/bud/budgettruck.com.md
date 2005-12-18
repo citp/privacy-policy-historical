@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the budgettruck.com privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409080257id_/http%3A//www.budgettruck.com/custserv/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettruck.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218204143id_/http%3A//www.budgettruck.com/budgettruck/content/visitor_info/privacy_policy/default.asp) for the most accurate reproduction.*
 
-# Budget Truck Rental: Customer Service
+# Budget Truck Rental
 
-|  **
-
-Budget Rent a Car System, Inc.’s Truck Division’s Privacy Policy 
+Budget Rent a Car System, Inc.’s Truck Division’s Privacy Policy  
+This is the Budget Rent A Car System, Inc.’s Truck division’s (“Budget Truck”) privacy policy ("Privacy Policy"). Budget Truck is a subsidiary of Cendant Corporation (“Cendant”). 
 
 Purpose of this Privacy Policy 
 
@@ -14,15 +13,15 @@ How Personally Identifiable Information is Used and Disclosed by Budget Truck
 
 Web Site and Internet Privacy 
 
-     Web Site Tracking and the Use of Cookies and Other Technologies 
+Web Site Tracking and the Use of Cookies and Other Technologies 
 
-     Age Requirement for Use of our Site 
+Links to Other Web Sites 
 
-     Links to Other Web Sites 
+How We Protect the Security of Personally Identifiable Information 
 
-     How We Protect the Security of Personally Identifiable Information 
+How to Correct or Update Personally Identifiable Information that Budget Truck Maintains
 
-How to Correct or Update Personally Identifiable Information that Budget Truck Maintains Or Opt Out of Receiving Marketing Materials from Budget Truck 
+How to Opt Out of Receiving Marketing Materials from Budget Truck
 
 Applicable Law and Jurisdiction 
 
@@ -30,21 +29,18 @@ Changes to this Privacy Policy
 
 Your Acceptance of this Privacy Policy 
 
-About Budget Truck 
+Privacy Policy Effective Date 
 
-**
+  
 
-**Privacy Policy Effective Date**
-
-This is the Budget Rent A Car System, Inc.’s Truck division’s (“Budget Truck”) privacy policy ("Privacy Policy"). Budget Truck is a subsidiary of Cendant Corporation (“Cendant”). 
 
 **Purpose of this Privacy Policy**
 
-We at Budget Truck recognize the importance of protecting your personally identifiable information (such as your name, telephone number, e-mail address and other contact information, collectively, “PII”) that you provide to Budget Truck. This Privacy Policy sets forth our policies regarding the collection, use and disclosure of your PII both through our online and offline operations. This Privacy Policy also explains how you can correct or change the PII we hold about you, or opt out of receiving certain marketing materials. 
+We at Budget Truck recognize the importance of protecting your personally identifiable information (such as your name, telephone number, e-mail address and other contact information, collectively, “PII”) that you provide to Budget Truck. This Privacy Policy sets forth our policies regarding the collection, use and disclosure of your PII both through our online and offline operations. This Privacy Policy also explains how you can correct or change the PII we hold about you, or opt out of receiving certain marketing materials. Return to Top
 
 The purpose of this Privacy Policy is to tell you how Budget Truck strives to better serve you by keeping you informed of promotions, products and services, while, at the same time, safeguarding your PII. Our intent is to bring you offers and discounts that we believe are relevant to your interests offered by and through Cendant business units and affiliates (including, for purposes of this Privacy Policy, our franchise system affiliates) and other non-affiliated companies with whom we have business relationships. 
 
-This Privacy Policy is incorporated into, and part of, the [Terms of Use](https://web.archive.org/web/20050409080257id_/http%3A//www.budgettruck.com/custserv/termsofuse.asp), which govern Budget Truck’s web site at www.budgettruck.com (the “Site”). 
+This Privacy Policy is incorporated into, and part of, the [Terms of Use](https://web.archive.org/budgettruck/content/visitor_info/terms/default.asp), which govern Budget Truck’s web site at www.budgettruck.com (the “Site”). 
 
 **What Personally Identifiable Information Budget Truck Collects and How it is Collected**
 
@@ -171,22 +167,18 @@ We may also provide additional methods for you to opt-out of having your PII use
 
 Your option not to receive promotional and marketing material: (a) shall not preclude us from corresponding with you, by e-mail or otherwise, regarding your relationship with us (e.g., your account status and activity or our responses to questions or inquiries you pose to us, confirmations for existing reservations); (b) shall not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your PII for our internal business purposes; and (c) shall not preclude us from disclosing your PII as described in this Privacy Policy for purposes other than sending you promotional and marketing materials. 
 
-If you wish to contact us to: (1) inquire about our privacy practices; (2) provide feedback and comments regarding our privacy practices; or (3) access or correct your PII we have, contact us as detailed above. 
+If you wish to contact us to: (1) inquire about our privacy practices; (2) provide feedback and comments regarding our privacy practices; or (3) access or correct your PII we have, contact us as detailed above. ****
 
 **Applicable Law and Jurisdiction**
 
-This Privacy Policy shall be governed by the laws of the United State and the State of New Jersey, without regard to conflict of law principals. By providing any PII to us, fully understand and unambiguously consent to the transfer of such PII to, and the collection and processing of such PII in, the United States and other countries or territories. You agree that any cause of action that may arise under this Privacy Policy shall be commenced and be heard in the appropriate court in the State of New Jersey, County of Morris. You agree to submit to the personal and exclusive jurisdiction of the courts located within Morris County in the State of New Jersey or the United States District Court for the District of New Jersey. 
+This Privacy Policy shall be governed by the laws of the United State and the State of New Jersey, without regard to conflict of law principals. By providing any PII to us, fully understand and unambiguously consent to the transfer of such PII to, and the collection and processing of such PII in, the United States and other countries or territories. You agree that any cause of action that may arise under this Privacy Policy shall be commenced and be heard in the appropriate court in the State of New Jersey, County of Morris. You agree to submit to the personal and exclusive jurisdiction of the courts located within Morris County in the State of New Jersey or the United States District Court for the District of New Jersey. ****
 
 **Changes to this Privacy Policy**
 
-We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time so visitors are encouraged to review this Privacy Policy at the inception of each session. If we change the way your personal information will be used, we will post an announcement on www.budgettruck.com/custserv/privacy.asp. The changes will be displayed on the top of the pages in a section highlighted as “Changes” with the date the changes took effect. We encourage you to periodically review this Privacy Policy in order to keep apprised of our current privacy practices. 
+We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time so visitors are encouraged to review this Privacy Policy at the inception of each session. If we change the way your personal information will be used, we will post an announcement on www.budgettruck.com/custserv/privacy.asp. The changes will be displayed on the top of the pages in a section highlighted as “Changes” with the date the changes took effect. We encourage you to periodically review this Privacy Policy in order to keep apprised of our current privacy practices. ****
 
 **Your Acceptance of this Privacy Policy**
 
 By using our Site, or otherwise providing your PII to us, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our Site or provide any PII to us. 
 
 **Privacy Policy Effective Date:** July 2004. 
-
-|    | 
-
-PRIVACY POLICY
