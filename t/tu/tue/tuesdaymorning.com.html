@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tuesdaymorning.com privacy policy that was archived on 2005-02-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050205023420id_/http%3A//www.tuesdaymorning.com/ci/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tuesdaymorning.com privacy policy that was archived on 2005-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051218230624id_/http%3A//www.tuesdaymorning.com/ci/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -82,26 +82,32 @@
 		if(document.images) img.src= src;
 	}
 	
+	function resize(url) {
+  self.name = "parent";
+  remote = open(url, "", "directories=0,location=0,menubar=0,resizable=yes,scrollbars=2,status=0,toolbar=1,width=400,height=585,");
+	}
+
+	
 //-->
 <!--// Random Image Code: strRandomImages = five if page has 5 images and three if page has 3 images //-->
 <!--// **Update investor_rollover if number of images changes ** //-->
 
 
 function fiveimages(){
-var imgsrc =  Math.floor(Math.random()*17)+1; 
-var imgsrc2 =  Math.floor(Math.random()*17)+1; 
-var imgsrc3 =  Math.floor(Math.random()*17)+1; 
-var imgsrc4 =  Math.floor(Math.random()*17)+1; 
-var imgsrc5 =  Math.floor(Math.random()*17)+1; 
+var imgsrc =  Math.floor(Math.random()*30)+1; 
+var imgsrc2 =  Math.floor(Math.random()*30)+1; 
+var imgsrc3 =  Math.floor(Math.random()*30)+1; 
+var imgsrc4 =  Math.floor(Math.random()*30)+1; 
+var imgsrc5 =  Math.floor(Math.random()*30)+1; 
 
 	while(imgsrc == imgsrc2) {
-		imgsrc2 =  Math.floor(Math.random()*17)+1; } 
+		imgsrc2 =  Math.floor(Math.random()*30)+1; } 
 	while (imgsrc2 == imgsrc3 || imgsrc == imgsrc3) {
-		imgsrc3 =  Math.floor(Math.random()*17)+1; }
+		imgsrc3 =  Math.floor(Math.random()*30)+1; }
 	while (imgsrc == imgsrc4 || imgsrc2 == imgsrc4 || imgsrc3 == imgsrc4) {
-		imgsrc4 =  Math.floor(Math.random()*17)+1; }	
+		imgsrc4 =  Math.floor(Math.random()*30)+1; }	
 	while (imgsrc == imgsrc5 || imgsrc2 == imgsrc5 || imgsrc3 == imgsrc5 || imgsrc4 == imgsrc5) {
-		imgsrc5 =  Math.floor(Math.random()*17)+1; }
+		imgsrc5 =  Math.floor(Math.random()*30)+1; }
 		
 	document.getElementById("test").src = "../images/random/general/" + imgsrc + ".jpg"; 
 	document.getElementById("test2").src = "../images/random/general/" + imgsrc2 + ".jpg"; 
@@ -109,6 +115,7 @@ var imgsrc5 =  Math.floor(Math.random()*17)+1;
 	document.getElementById("test4").src = "../images/random/general/" + imgsrc4 + ".jpg";
 	document.getElementById("test5").src = "../images/random/general/" + imgsrc5 + ".jpg";
 }
+
 
 </script>
 <link href="../style.css" rel="stylesheet" type="text/css" media="screen">
@@ -159,7 +166,7 @@ var imgsrc5 =  Math.floor(Math.random()*17)+1;
 		<a href="../product/product.asp" onmouseover="rollOn(product,'../images/rollover/nav_product_on.gif')" onmouseout="rollOff(product,'../images/rollover/nav_product.gif')"><img src="../images/rollover/nav_product.gif" border="0" alt="" id="product"></a>
 		</div>
 </td>
-<td bgcolor="#F1eae1"><img src="../images/random/general/15.jpg" id="test">&nbsp;&nbsp;<img src="../images/random/general/3.jpg" id="test2">&nbsp;&nbsp;<img src="../images/random/general/13.jpg" id="test3">&nbsp;&nbsp;<img src="../images/random/general/17.jpg" id="test4">&nbsp;&nbsp;<img src="../images/random/general/12.jpg" id="test5"></td>
+<td bgcolor="#F1eae1"><img src="../images/random/general/7.jpg" id="test">&nbsp;&nbsp;<img src="../images/random/general/1.jpg" id="test2">&nbsp;&nbsp;<img src="../images/random/general/22.jpg" id="test3">&nbsp;&nbsp;<img src="../images/random/general/24.jpg" id="test4">&nbsp;&nbsp;<img src="../images/random/general/2.jpg" id="test5"></td>
 
 							</tr>		
 							<tr><!--Frame Title & Content -->
@@ -258,7 +265,7 @@ We use sophisticated encryption and authentication tools to protect the security
 	<!--Footer-->
 	<tr>
 		<td><div style="margin-top: 20px;" align="center">
-			<table width="95%" border="0" cellpadding="0" cellspacing="0">
+			<table width="90%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 					<td><a href="../index.asp" class="footer">Home</a>&nbsp;&nbsp;|</td>
 					<td><a href="../ci/ci.asp" class="footer">Corporate Information</a>&nbsp;&nbsp;|</td>
@@ -266,11 +273,11 @@ We use sophisticated encryption and authentication tools to protect the security
 					<td><a href="../investors/investors.asp" class="footer">Investor Relations</a>&nbsp;&nbsp;|</td>
 					<td><a href="../ci/customer.asp" class="footer">Customer Service</a>&nbsp;&nbsp;|</td>
 					<td><a href="../ci/techdetails.asp" class="footer">Technical Details</a>&nbsp;&nbsp;|</td>
-					<td><a href="../ci/commercials.asp" class="footer">Commercials</a>&nbsp;&nbsp;|</td>
+					<td><a href="http://jobsearch.monster.com/jobsearch.asp?co=xtuesdx" target="_blank" class="footer">Careers</a>&nbsp;&nbsp;|</td>
 					<td><a href="mailto:custserv@tuesdaymorning.com" class="footer">Contact Us</a></td>
 				</tr>	
 				<tr>
-					<td align="center" colspan="8"><div style="margin-top: 10px;font-size: 10px;">The merchandise shown is representative of the types of treasures found in more than 600 of our locations. <br>©2004 Tuesday Morning. All Rights Reserved.</div></td>
+					<td align="center" colspan="8"><div style="margin-top: 10px;font-size: 10px;">The merchandise shown is representative of the types of treasures found in more than 700 of our locations. <br>©2005 Tuesday Morning. All Rights Reserved.</div></td>
 				</tr>			
 		</tbody></table>
 </div>
