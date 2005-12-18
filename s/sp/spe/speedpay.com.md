@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the speedpay.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407120141id_/http%3A//www.speedpay.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedpay.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218050225id_/http%3A//www.speedpay.com/privacy.asp) for the most accurate reproduction.*
 
-# SpeedPay Home
+# Western Union Speedpay Home
 
-[Home](https://web.archive.org/web/20050407120141id_/http%3A//www.speedpay.com/home.asp)
+[Home](https://web.archive.org/web/20051218050225id_/http%3A//www.speedpay.com/home.asp)
 
 SPEEDPAY ONLINE PRIVACY STATEMENT
 
@@ -107,4 +107,4 @@ As stated above, this SPI Online Privacy Statement is currently only applicable 
 SPI Customer Service   
 (866) 812-7820
 
-[Home](https://web.archive.org/web/20050407120141id_/http%3A//www.speedpay.com/home.asp)
+[Home](https://web.archive.org/web/20051218050225id_/http%3A//www.speedpay.com/home.asp)
