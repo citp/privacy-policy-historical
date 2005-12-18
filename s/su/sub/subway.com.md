@@ -1,101 +1,98 @@
-> *The following text is extracted and transformed from the subway.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606022036id_/http%3A//www.subway.com/subwayroot/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subway.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218043326id_/http%3A//www.subway.com/subwayroot/DAIPrivPol.aspx) for the most accurate reproduction.*
 
-# Official SUBWAY.com Privacy Policy
+# DAI Privacy Policy
 
-This privacy policy discloses how Doctor’s Associates Inc. collects, protects, uses and shares information gathered about you on our web site and the web site for the SUBWAY® Card. Currently, the SUBWAY® Card is being administered by Ontain Corporation on our behalf. We hope that this disclosure will help increase your confidence in our sites and our level of customer service. 
+**DAI PRIVACY POLICY**  
+Doctor’s Associates Inc.  
+Milford, Connecticut, USA  
+[Legal Information](https://web.archive.org/subwayroot/legalDisclaimer.aspx)
 
-While visiting the SUBWAY® web site and the SUBWAY® Card web site you may be asked to provide information that personally identifies you. This information is gathered on a voluntary basis to better serve you.
+This privacy policy discloses how Doctor’s Associates Inc. (“DAI”) collects, protects, uses and shares Personal Information gathered about you, in conformance with the applicable law. All Personal Information is collected in a fair and non-intrusive manner, with your voluntary consent. Personal Information is not accessible to anyone outside the specific function for which it is collected.
 
-You may choose not to provide personal information and you still will be able to visit most of the SUBWAY® web site but you will not be able to register your SUBWAY® Card at the SUBWAY® Card web site. Doctor’s Associates Inc. is the sole owner of the information collected on the SUBWAY® web site and the SUBWAY® Card web site. We collect personal information at several different points on our Web site. The following items are a sample of areas in the SUBWAY® web site where personal information is required in order for us to assist you:
+In an effort to comply with the law, and our commitment to protect your Personal Information, we provide the following information, which discloses our policies with respect to Personal Information.
 
-  * Job Opportunities with SUBWAY® franchised locations
-  * Subscription to Friends of SUBWAY® e-mail newsletter
-  * Request Information Concerning Purchase of a SUBWAY® franchise
-  * Sign Up for a Free Seminar about SUBWAY® franchises
-  * Prospective Landlord Site Referrals
-  * Customer Service
-  * Purchases from the Online SUBWAY® Store
+**What is Personal Information?**
 
+Personal Information is defined as any information concerning the personal or material circumstances of an identified or identifiable individual. An identifiable person is one who can be identified, directly or indirectly, by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. Personal Information shall include but is not limited to: Social Security Number, name, address, telephone number, financial statement and similar identifying information. We will never collect sensitive Personal Information. Sensitive Personal Information shall include but is not limited to: information pertaining to racial or ethnic origins, political or religious beliefs, health, and sexual orientation.
 
+**Collection and Use of Franchisee Personal Information**
 
-**Information You Provide**
+By applying to become a SUBWAY® Franchisee, you consent to the collection, use, and disclosure of your Personal Information in accordance with the following terms and conditions. We collect and use Personal Information in order to assist you in applying to become a SUBWAY® restaurant franchisee and to assist DAI in selecting franchisee candidates. Personal Information collected from franchise applicants includes but is not limited to: name, address, telephone number, facsimile number, email address, date of birth, citizenship, educational background, criminal background, bank account information for Electronic Funds Transfer, financial statement, litigation history, and taxpayer identification number. This Personal Information may be shared between DAI and its affiliates, pursuant to the service contracts between them to better service franchise applicants.
 
-For the areas of the SUBWAY® web site where the collection of personally identifiable information is necessary, you will know because you will have to fill out a form. For most activities, we collect only your name and e-mail address. If you request a Franchise Brochure we will also need your address and telephone number to send you information about franchise opportunities. When you make a purchase from the Online Subway Store, our affiliate the Franchisee Shipping Center Co., Inc. will also collect your street and billing addresses, your phone number, and credit card information. Depending on what you purchase, we may also need to collect other personal information, like your clothing size. If you are participating in a contest we may also need to collect your shipping address to forward any prize won to you. If you fill out a job application, we will also forward your job application information to the party or parties that you specify. Additionally, we will forward customer complaints or feedback concerning specific restaurants, to the owner(s) of the SUBWAY® restaurant. Otherwise, we do not provide your information to third parties. You may unsubscribe from all SUBWAY® mailing lists at any time.
+Failure to provide requested Personal Information may negatively impact your ability to become a franchisee. Once a franchisee candidate becomes a Franchisee, they may then reference themselves by their Franchise Agreement Number. In order to better service Franchisees, a Franchisee’s Personal Information may be shared between DAI, and its affiliates, pursuant to the service contracts between them.
 
-If you fill out an Application for Additional Information to become a SUBWAY® franchisee, we will seek extensive additional personal information. Such information will be used solely for the purpose of determining your qualifications to become a SUBWAY® franchisee. 
+In order to effectively implement the SUBWAY® Gift Card Program, a Franchisee’s Personal Information may be shared with the Independent Purchasing Cooperative, Inc. (“IPC”), cooperative comprised of SUBWAY® Franchisees or its wholly owned subsidiary Value Pay Services, LLC. (“VPS”). The Personal Information shared with the IPC and/or VPS shall include, but will not be limited to: name, address, and bank account information you provided to DAI to establish your pre-authorized account for the payment of royalties, advertising fees, and other charges. Subject to your agreement with VPS, VPS may bill your bank account for fees and other costs associated with the SUBWAY® Gift Card Program. If a Franchisee does not wish to disclose this information, they must notify the Privacy Officer in writing as described in the section titled Contact Information below.
 
-If you have not opted out of receiving marketing materials, we may also use, but will not disclose, your personal information to promote and market additional goods, services and special offers from us and our affiliates.
+A Franchisee’s information may be shared with the Development Agent (“DA”) in their area. A DA is an independent contractor of DAI or one of its affiliates. The DA may use this information to: address your concerns in a customer complaint, respond to your inquires for franchise sales, and any other inquiry which may require a response. Franchisees understand and acknowledge their Personal Information may be shared with a potential purchaser of your store during a store transfer.
 
-You can choose not to allow us to use or disclose your personal information for direct marketing purposes by indicating your preference at the time of collection, by responding to the promotional email in the manner provided for or by contacting our Privacy Officer in the manner described below.
+** Collection and Use of Development Agent Personal Information**
 
-Typically, we will seek consent for the use or disclosure of your personal information at the time of collection. In certain circumstances, consent may be sought after the information has been collected but before use (for example, when we want to use information for a purpose not previously identified).
+By applying to become a SUBWAY® Development Agent, you consent to the collection, use, and disclosure of your Personal Information in accordance with the following terms and conditions We collect and use information in order  to assist you in applying and evaluating you to become a Development Agent. Personal Information is collected to assist DAI in selecting Development Agent candidates and for the purpose of operating a development territory.
 
-The form of consent that we seek, including whether it is express or implied, will largely depend on the sensitivity of the personal information and the reasonable expectations of the individual in the circumstances. 
+Personal Information collected includes, but is not limited to: name, address, phone number, facsimile number, email address, date of birth, bank account information for Electronic Funds Transfer, financial statement, resume, and taxpayer identification number. Once a Development Agent candidate becomes a Development Agent, they may then reference themselves by their Development Agent Number.
 
-You may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. If you wish to withdraw your consent at any time, please contact our Privacy Officer in the manner described below. We will inform you of the implications of withdrawing consent.
+Failure to provide necessary information may negatively impact your ability to become a Development Agent.
 
-We will not, as a condition of the supply of a product or service, require you to consent to the collection, use or disclosure of information beyond that required to fulfill the explicitly specified and legitimate purposes for which the information is being provided.
+** Collection and Use of Customer Personal Information on SUBWAY.COM**
 
-**Information Collected using Technology**
+DAI will not collect customer Personal Information, unless the customer contacts DAI directly. In order to adequately address a customer’s concern, their Personal Information may be shared with the area DA and storeowner. Failure to provide necessary information may prevent DAI from fully addressing any customer concerns.
 
-When you visit the Web site, we may collect some information about you using technology, so it may not be readily apparent to you that it is being collected. For instance, when you come to our site your IP address is collected so that we know where to send information you are requesting. An IP address is often associated with the place from which you enter the Internet like your ISP (Internet service provider), your company, or your school. The following information is logged by our web servers during visits to the Web site: IP addresses, type of operating system, time and duration of visit, web pages visited and browser type. We do not link server log information to any other information in a way that would enable the identification of visitors to the Web site. Server log information is analysed by us in order to improve the website and to customize the website for users. In addition, from time to time, server logs may be reviewed for security purposes; for example, to detect unauthorized activity on the website. In such cases, server log data, containing IP addresses, would be shared with law enforcement bodies in order that they may identify users in connection with their investigation of the unauthorized activities. 
+Children under 13 years of age are required to obtain the express permission of a parent or guardian before submitting any Personal Information to this site.
 
-**Cookies**
+If you are a participant in the Online SUBWAY®  Store, we ask for contact information, name, shipping address, phone number, and e-mail address. In the future, we may use this information to contact you regarding products or promotions, as well as other products and services, which may be of interest to you. At any time you may “opt out” of future contacts by un-subscribing from our database or contacting the Company Privacy Officer.
 
-When you visit our Web site, we place a text file called a “cookie” in the browser directory of your computer’s hard drive. Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. These pieces of information allow the Web site to remember important information that will make your use of that site more useful. Internet companies use cookies for a variety of purposes. We use cookies to help improve your future visits.
+** Cookies – Internet Users**
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your experience on our web site more efficient and some of our services will not function properly.
+Cookies are pieces of information a website sends to an individual’s hard drive while they are viewing the website. Cookies allow the website to remember important information that will make your visit to the site more useful. We use cookies to help improve your future visits.
 
-**SUBWAY® Card Program**
+If you do not wish to receive a cookie or if you wish to set your browser to warn you each time a cookie is being sent, or if you wish to turn off all cookies, use the options on your browser to assist you. The “Help” option on your Browser may assist you in changing your cookie preferences. Please note that by turning cookies off, you will not have access to many features available on our website.
 
-Holders of SUBWAY® Cards may voluntarily register their cards through the SUBWAY® Card web site, by mail, or by telephone. If you choose to register your card, we collect personal information including your card number, name, address, telephone number, e-mail address and date of birth. Your purchase history may also be linked to this information. We use this information as part of our Lost/Stolen Card Program and to provide you with targeted offers from us, the SUBWAY® restaurants that you dine at, or from selected third parties, i.e. suppliers of products offered through the SUBWAY® system whose offers we will forward to you. If you do not wish to receive promotional materials with your use of the SUBWAY® Card you may update your preferences at www.mysubwaycard.com, call us at (800) 888-4848, or write to us at Subway Global HQ, Customer Care, 325 Bic Drive, Milford, CT 06460. We also collect information in aggregate that is not considered personal concerning the food items purchased and the demographics of the purchasers. We use this information to improve our product marketing and advertising. **YOU MUST BE 13 YEARS OLD OR OLDER TO REGISTER A SUBWAY® CARD.**
+** Collection and Use of Customer Personal Information on MYSUBWAYCARD.COM**
 
-**Links to Other Sites**
+Holders of SUBWAY® Loyalty Cards and SUBWAY®  Gift Cards may voluntarily register their cards through the SUBWAY®  Card web site. This site is administered by Value Pay Services, LLC. VPS collects Personal Information on a voluntary basis. Information you may be asked to provide may include but is not limited to: date of birth, card number, and e-mail address. Your purchase history may also be linked to this information. VPS uses this information as part of its Lost/Stolen Card Program and to provide you with targeted offers from us, the SUBWAY® restaurants that you dine at, or from selected third parties, i.e. suppliers of products offered through the SUBWAY® system whose offers VPS will forward to you. If you do not wish to receive promotional materials with your use of the SUBWAY® Card you may update your preferences at  [www.mysubwaycard.com](http://www.mysubwaycard.com/). VPS also collects information in aggregate that is not considered personal concerning the food items purchased and the demographics of the purchasers. VPS may share this information with DAI and its affiliates to improve our product marketing and advertising. ** YOU MUST BE 13 YEARS OLD OR OLDER TO REGISTER A SUBWAY® CARD.**
 
-We may provide links to third party web sites on our site or the SUBWAY® Card web site. We are not responsible for the content or information collection practices of those pages. Please note that the third party web site’s privacy policies, including that of subwaykids.com which is administered by the Subway Franchisee Advertising Fund Trust, may differ from those of Doctor’s Associates Inc. Please read the privacy policy of any third party site before providing them with any personal information.
+** Sharing of Personal Information**
 
-**A Note to Parents/Guardians**
+Except as described in this Privacy Policy, DAI will not share your Personal Information with a third party, unless you request or otherwise consent to such disclosure, or disclosure is required or authorized by law. DAI reserves the right to disclose Personal Information to a third party if a law, regulation, search warrant, subpoena, or court order legally requires or authorizes us to do so. DAI also reserves the right to disclose and/or transfer Personal Information to a third party in the event of a proposed or actual purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, or financing of all or any portion of DAI or of any of the business or assets or shares of DAI or a division thereof in order for you to continue to receive the same products and services from the third party.
 
-While we are very happy to have you visit the SUBWAY® web site with your children, the SUBWAY® web site and the SUBWAY® Card web site are general audience sites that are not designed nor intended to collect personal information from children under the age of 13.
+As described above, DAI, its affiliates, the IPC and its subsidiary VPS, and Development Agents may share and exchange Personal Information in order to process Franchisee and Development Agent applications, administer the SUBWAY® franchise system, implement the SUBWAY® Gift Card, and protect the integrity of the SUBWAY® trademarks. DAI will also share Personal Information in order to service Franchisee leasing needs and related administrative functions. Franchisee Personal Information may be shared during store transfers. Finally, Franchisee Personal Information may be shared with Subway Franchisee Advertising Fund Trust in order to provide advertising services to member stores.
 
-We would like to help you protect your children’s privacy. Please speak with your children about the importance of safeguarding their personal information. We urge you to monitor and supervise your children’s on-line activities. At the SUBWAY® Card website we do not accept any information from children under the age of 13 and we ask that a parent or guardian register any card purchased for a child under the age of 13 in their parent’s or the guardian’s name.
+Our Development Agents and other service providers are prohibited from using your Personal Information for any purpose other than to provide this assistance and are required to protect Personal Information disclosed by us and to comply with the general privacy principles described in this Privacy Policy.
 
-**Disclosure and Sharing of Personal Information**
+** Disclosure of Personal Information**
 
-Except as described in this privacy policy, we will not disclose your personal information to a third party, unless you request or otherwise consent to such disclosure or disclosure is required or authorized by law. 
+Except as described in this Privacy Policy, DAI will not disclose your Personal Information to a third party, unless you request such disclosure or otherwise consent to such disclosure, or disclosure is required by law. Your Personal Information may be provided to a courier or freight forwarder in order to fulfill an order you may have requested from us.
 
-We may share personal information with third parties engaged to assist us in providing services to you or to carry out one or more of the purposes described in this privacy policy. Our service providers are prohibited from using your personal information for any purpose other than to provide this assistance and are required to protect personal information disclosed by us and to comply with the general privacy principles described in this privacy policy.
+** Storage of Personal Information**
 
-Although we make every effort to preserve user privacy, we may need to disclose personal information as follows:
+DAI insures that Personal Information is safeguarded against loss, access, use, modification, disclosure, or other misuse. All reasonable steps are taken to prevent unauthorized use or disclosure of your Personal Information.
 
-> **(i)** when required by law to comply with a judicial proceeding, a court order, or legal process served on us;
-> 
-> **(ii)** to enforce our policies or agreements including the collection of amounts owed to us;
-> 
-> **(iii)** to protect users of our sites and our sites from fraudulent or abusive use. 
+** Retention of Personal Information**
 
-We also reserve the right to disclose and/or transfer personal information to a third party in the event of a proposed or actual purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal or financing of all or any portion of Doctor’s Associates Inc. or of any of the business or assets or shares of Doctor’s Associates Inc. or a division thereof in order for you to continue to receive the same products and services from the third party. 
+DAI will retain your Personal Information only for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws, and your consent to such purposes(s) remains valid after termination of our relationship with you.
 
-**Changes**
+** Accuracy of Personal Information**
 
-In the future, we may modify this privacy policy. If we decide to change our privacy policy, we will post those changes to this privacy statement. We will use information in accordance with the privacy policy under which the information was collected. However, if we are going to use personal information in a manner different from that stated at the time of collection we will notify users by e-mail. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communications with the site, or deleted/deactivated their account, then they will not be contacted, nor will we use their personal information in this new manner.
+We take all reasonable steps to insure that your Personal Information is accurate, up-to-date, complete, relevant and not misleading.
 
-**Contact Us**
+** Access to Information**
 
-If you wish to change or delete your registration information or opt-out of any promotional materials please contact our Privacy Officer in the manner described below. To update your information concerning your SUBWAY® Card please contact us at www.mysubwaycard.com, call us at (800) 888-4848, or write to us at Subway Global HQ, Customer Care, 325 Bic Drive, Milford, CT 06460. 
+You may contact the Privacy Officer to access, correct or delete your Personal Information. If necessary, the Privacy Officer will contact another employee to assist in completing your requested task.
 
-If you have any questions or complaints regarding our personal information handling practices and policies, please contact our Privacy Officer. The Privacy Officer can be reached by telephone at: 1(800)888-4848; by Facsimile at: (203)783-7574; by email at: privacyofficer@subway.com; or by mail at Doctor’s Associates Inc., 325 Bic Drive, Milford, CT USA 06460-3059. We will address your concern and attempt to resolve any problem.  Download [Privacy Information Request Form](https://web.archive.org/web/20040606022036id_/http%3A//www.subway.com/subwayroot/InfoRequestForm.pdf) here.
+** Contact Information**
 
-**[ DAI Privacy Policy](https://web.archive.org/web/20040606022036id_/http%3A//www.subway.com/subwayroot/DAIPrivPol.aspx)**
+If you have any questions or complaints, please contact the Privacy Officer. The Privacy Officer can be reached by telephone at: (203) 877-4281 or 1-800-888-4848; by Facsimile at: (203) 876-6690; by email at:  [privacyofficer@subway.com](mailto:privacyofficer@subway.com) ; or by mail at Doctor’s Associates Inc., 325 Bic Drive, Milford, CT, 06460, USA.  We will address your concern and attempt to resolve any problem.  Download [ Privacy Information Request Form](https://web.archive.org/subwayroot/InfoRequestForm.pdf) here.
+
+** Members of the European Union**
+
+If you are a resident of a Member State of the European Union and have any concerns or complaints, please first address these issues to the Privacy Officer. Doctor’s Associates Inc. is located in the United States, as are the servers that make this site available. All matters relating to privacy issues and this website are governed by the laws of the United States and the State of Connecticut. If the Privacy Officer does not satisfactorily address a complaint within thirty (30) days, any dispute, controversy or claim shall be settled by an arbitration administered by an arbitration agency, such as the American Arbitration Association (“AAA”). All arbitrations will be conducted in English. Judgment rendered by the arbitrator may be entered in any court having jurisdiction. The costs of the arbitration will be borne equally by the parties. Connecticut, U.S.A. shall be the site of all hearings, and such hearings shall be before a single arbitrator. You may also submit complaints to the Federal Trade Commission at  <http://www.ftc.gov/ftc/complaint.htm>  or via phone at (202) 382-4357.
+
+** Changes to our Privacy Policy**
+
+This Privacy Policy may be amended at any time, without prior notification.
 
 ** International Privacy Policies**
 
-  * **[Privacy Statement](https://web.archive.org/web/20040606022036id_/http%3A//www.subway.com/subwayroot/AUSPrivPol.aspx)** for Subway Systems Australia Pty Ltd.
-  * **[ Privacy Statement](https://web.archive.org/web/20040606022036id_/http%3A//www.subway.com/subwayroot/brasilPrivPol.aspx)** for Brasil (English)
-  * **[ Privacy Statement](https://web.archive.org/web/20040606022036id_/http%3A//www.subway.com/subwayroot/brasilPortuguesePrivPol.aspx)** for Brasil (Portuguese)
-  * **[Privacy Statement](https://web.archive.org/web/20040606022036id_/http%3A//www.subway.com/subwayroot/CANPrivPol.aspx)** for  Canada
-  * **[Privacy Statement](https://web.archive.org/web/20040606022036id_/http%3A//www.subway.com/subwayroot/LATINAMPrivPol.aspx)** for  Latin America
-  * **[Privacy Statement](https://web.archive.org/web/20040606022036id_/http%3A//www.subway.com/subwayroot/NZPrivPol.aspx)** for  New Zealand
-  * **[Privacy Statement](https://web.archive.org/web/20040606022036id_/http%3A//www.subway.com/subwayroot/SIBVPrivPol.aspx)** for  Subway International, B.V., Netherlands EU
+  * **[Privacy Statement](https://web.archive.org/subwayroot/AUSPrivPol.aspx)** for Subway Systems Australia Pty Ltd.
 
 
