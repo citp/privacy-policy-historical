@@ -1,0 +1,371 @@
+<!--The following is the downloaded HTML source of the elections.org.nz privacy policy that was archived on 2005-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051218230650id_/http%3A//www.elections.org.nz/sitehelp/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+
+	<title>Site help : Privacy</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="author" content="Webmaster">
+<meta name="directory" content="Site help">
+<meta name="date" content="28 Apr 2005">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<style type="text/css" media="screen">@import url("../../../css/elections.css");</style>
+<link rel="stylesheet" type="text/css" media="print" href="../../../css/printbasic.css">
+<style type="text/css" media="screen">@import url("../../../css/p7tmbasic.css");</style>
+<style type="text/css" media="screen">@import url("../../../css/nav1.css");</style>
+<style type="text/css" media="screen">@import url("../../../css/nav2.css");</style>
+
+
+<script language="JavaScript" type="text/JavaScript">
+var nbsp = 160;    // non-breaking space char
+var node_text = 3; // DOM text node-type
+var emptyString = /^\s*$/
+var glb_vfld;      // retain vfld for timer thread
+
+// -----------------------------------------
+//                  trim
+// Trim leading/trailing whitespace off string
+// -----------------------------------------
+
+function trim(str)
+{
+  return str.replace(/^\s+|\s+$/g, '')
+};
+
+
+// -----------------------------------------
+//                  setfocus
+// Delayed focus setting to get around IE bug
+// -----------------------------------------
+
+function setFocusDelayed(vfld)
+{
+  glb_vfld.focus()
+}
+
+function setfocus(vfld)
+{
+  glb_vfld = vfld;
+  setTimeout( 'setFocusDelayed()', 100 );
+}
+
+
+// -----------------------------------------
+//                  msg
+// Display warn/error message in HTML element
+// commonCheck routine must have previously been called
+// -----------------------------------------
+
+function msg(fld,     // id of element to display message in
+             msgtype, // class to give element ("warn" or "error")
+             message) // string to display
+{
+  // setting an empty string can give problems if later set to a 
+  // non-empty string, so ensure a space present. (For Mozilla and Opera one could 
+  // simply use a space, but IE demands something more, like a non-breaking space.)
+  var dispmessage;
+  if (emptyString.test(message)) 
+    dispmessage = String.fromCharCode(nbsp);    
+  else  
+    dispmessage = message;
+
+  var elem = document.getElementById(fld);
+  elem.firstChild.nodeValue = dispmessage;  
+  
+  elem.className = msgtype;   // set the CSS class to adjust appearance of message
+};
+
+// -----------------------------------------
+//            commonCheck
+// Common code for all validation routines to:
+// (a) check for older / less-equipped browsers
+// (b) check if empty fields are required
+// Returns true (validation passed), 
+//         false (validation failed) or 
+//         proceed (don't know yet)
+// -----------------------------------------
+
+var proceed = 2;  
+
+function commonCheck    (vfld,   // element to be validated
+                         ifld,   // id of element to receive info/error msg
+                         reqd)   // true if required
+{
+  if (!document.getElementById) 
+    return true;  // not available on this browser - leave validation to the server
+  var elem = document.getElementById(ifld);
+  if (!elem.firstChild)
+    return true;  // not available on this browser 
+  if (elem.firstChild.nodeType != node_text)
+    return true;  // ifld is wrong type of node  
+
+  if (emptyString.test(vfld.value)) {
+    if (reqd) {
+      msg (ifld, "error", "ERROR: Comments required");  
+      setfocus(vfld);
+      return false;
+    }
+    else {
+      msg (ifld, "warn", "");   // OK
+      return true;  
+    }
+  }
+  return proceed;
+}
+
+// -----------------------------------------
+//            validatePresent
+// Validate if something has been entered
+// Returns true if so 
+// -----------------------------------------
+
+function validatePresent(vfld,   // element to be validated
+                         ifld )  // id of element to receive info/error msg
+{
+  var stat = commonCheck (vfld, ifld, true);
+  if (stat != proceed) return stat;
+
+  msg (ifld, "warn", "");  
+  return true;
+};
+
+// -----------------------------------------
+//               validateEmail
+// Validate if e-mail address
+// Returns true if so (and also if could not be executed because of old browser)
+// -----------------------------------------
+
+function validateEmail  (vfld,   // element to be validated
+                         ifld,   // id of element to receive info/error msg
+                         reqd)   // true if required
+{
+  var stat = commonCheck (vfld, ifld, reqd);
+  if (stat != proceed) return stat;
+
+  var tfld = trim(vfld.value);  // value of field with whitespace trimmed off
+  var email = /^[^@]+@[^@.]+\.[^@]*\w\w$/
+  if (!email.test(tfld)) {
+    msg (ifld, "error", "ERROR: not a valid e-mail address");
+    setfocus(vfld);
+    return false;
+  }
+
+  var email2 = /^[A-Za-z][\w.-]+@\w[\w.-]+\.[\w.-]*[A-Za-z][A-Za-z]$/
+  if (!email2.test(tfld)) 
+    msg (ifld, "warn", "Unusual e-mail address - check if correct");
+  else
+    msg (ifld, "warn", "");
+  return true;
+};
+
+
+
+</script>
+
+
+
+
+
+
+
+
+</head>
+
+<body style="text-align:center;">
+<script>
+<!--
+function clearDefault(el) {
+	if (el.defaultValue==el.value) el.value = ""
+}
+// -->
+</script>
+<!-- noindex -->
+<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
+
+
+
+
+<div id="content">
+
+<div id="sidebar">
+      
+    <div id="logo"><a href="/" class="noline"><img src="/images/elections/elections_logo.gif" alt="Go to  home page - Elections New Zealand" width="184" height="69" border="0"></a> 
+    </div>
+    <div id="sidebar-content"> 
+	<div id="sidecontainer">
+      <div id="p7TMnav"> 
+     <!-- INCLUDE CATEGORY LIST -->
+    <div><strong><a href="/voter-enrolment.html">Enrolling to vote &amp; electoral rolls</a></strong></div>
+<div><strong><a href="/elections.html">Voting, elections &amp; referendums</a></strong></div>
+<div><strong><a href="/mmp.html">MMP - how it works, quiz &amp; calculator</a></strong></div>
+<div><strong><a href="/parties.html">Registered political parties &amp; logos</a></strong></div>
+<div><strong><a href="/electorates.html">Electorates &amp; members of parliament</a></strong></div>
+<div><strong><a href="/democracy.html">More about our parliamentary democracy</a></strong></div>
+<div><strong><a href="/administration.html">More about our electoral administration</a></strong></div>
+<div><strong><a href="/study.html">For students, teachers &amp; researchers</a></strong></div>
+<div><strong><a href="/news.html">News releases &amp; resources</a></strong></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+	</div>
+</div>
+</div>
+
+  
+  <div id="main"> 
+    <div id="main-content"> 
+      <form name="search" id="search" method="GET" action="/cgi/swish.cgi">
+        <input type="text" name="query" value="Search this site" size="15" tabindex="1" onfocus="this.value='';">
+        <input type="submit" tabindex="2" value="Search" class="buttons">
+      </form>
+
+      <div id="topnav"> 
+        <a href="/" accesskey="1">Home</a> | 
+<a href="/sitehelp/about_contact_main.html">About</a> | 
+<a href="/sitehelp/about_contact_main.html" accesskey="9">Contact</a>  | 
+<a href="/sitehelp/feedback.html">Feedback</a>  | 
+<a href="/sitehelp/subscribe.html">Subscribe</a> | 
+<a href="/sitehelp/access.html" accesskey="0">Access</a> | 
+<a href="/sitehelp/privacy.html">Privacy</a> | 
+<a href="/sitehelp/disclaimer.html">Disclaimer</a> | 
+<a href="/sitehelp/sitemap.html" accesskey="2">Sitemap</a> | 
+<a href="/sitehelp/glossary.html">Glossary</a> | 
+<a href="/cgi/swish.cgi?adv=1" accesskey="3">Advanced search</a>  
+<div class="hidden"> | <a href="/archives.html">Archives</a></div>
+        
+    </div>
+      <div id="main-panel"> 
+        <div id="headermain">Privacy</div>
+        <div id="helppath">Path... <a href="/">Home</a><strong class="ar">»</strong> 
+        &nbsp;&nbsp;&nbsp;&nbsp;<a href="/sitehelp/printer_privacy.html" target="_blank">Printer 
+        friendly page</a> &nbsp;&nbsp; <a href="mailto:?subject=Privacy&amp;body=http://www.elections.org.nz%2Fpublish%2Fsitehelp%2Fprivacy.html">Email&nbsp;this&nbsp;article</a> 
+      </div>
+        <!-- index -->
+      <br>
+      <br>
+      <p>You may browse and access some information contained within this website without providing any personal information. However, where you voluntarily provide personal information or where you are requested to provide personal information to access certain areas of the site or perform certain functions, such information will be held by the authoring electoral agency in accordance with the law.</p>
+<p>Where you are requested to provide personal information, the relevant part of the website will inform you of the reason that information is sought and will provide additional privacy statements.&nbsp; We will only use that information according to law and in a manner that is consistent with the reason for which the information was provided. </p>
+<p>The electoral agencies are not liable for any loss of privacy, disclosure of information, harm, damage or loss that may result from your transmission of data via the Internet.</p>
+<p>The Privacy Act 1993 gives you the right to see and correct information that an electoral agency holds about you.&nbsp; If you want to access the information held about you, or if you would like to correct any such information held, or if you have any privacy concerns, please contact the agency concerned.</p> 
+        
+        
+        <hr size="1" noshade="">
+        <p style="font-size:11px; padding-top:10px; color:#26496D;">Author for enquiry: 
+        <strong><a href="/sitehelp/Webmaster.html">Webmaster</a></strong><a href="#top" id="noline"><img src="/images/elections/up.gif" alt="top" width="40" height="16" hspace="10" vspace="10" border="0" align="right"></a> 
+        <br>
+        Last modified: <strong>28 Apr 2005</strong></p>
+        <!-- noindex -->
+    </div>
+    </div>
+  </div>
+ <br clear="all"> 
+
+  <div id="orbotnav">
+    &nbsp;<a href="http://www.elections.org.nz/enrolment/meo-dates.html">2006 Maori Electoral Option</a>&nbsp;
+&nbsp;<a href="http://www.electionresults.govt.nz/">Election results - Election '05</a>&nbsp;
+&nbsp;<a href="/parties/ec-post-election-deadlines.html">Post-election deadlines - Election '05</a>&nbsp;
+&nbsp;<a href="/elections/e5_party_return_expenses.html">Party expense returns due 19 Dec '05</a>&nbsp;
+&nbsp;<a href="/elections/e5_cand_return.html">Candidate returns due 16 Jan '06</a>&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  <div id="botnav">
+    <a href="/voter-enrolment.html" accesskey="5">Enrolling to vote &amp; electoral rolls</a> | <a href="/elections.html" accesskey="6">Voting, elections &amp; referendums</a> | <a href="/mmp.html" accesskey="7">MMP - how we vote in our parliament</a> | <a href="/parties.html" accesskey="8">Registered political parties &amp; logos</a> | <a href="/electorates.html">Electorates &amp; members of parliament</a> | <a href="/democracy.html">More about our parliamentary democracy</a> | <a href="/administration.html">More about our electoral administration</a> | <a href="/study.html">For students, teachers &amp; researchers</a> | <a href="/news.html" accesskey="4">News releases &amp; resources</a>
+            
+
+		
+    <hr noshade="" size="1">
+		
+    <a href="/" accesskey="1">Home</a> | 
+<a href="/sitehelp/about_contact_main.html">About</a> | 
+<a href="/sitehelp/about_contact_main.html" accesskey="9">Contact</a>  | 
+<a href="/sitehelp/feedback.html">Feedback</a>  | 
+<a href="/sitehelp/subscribe.html">Subscribe</a> | 
+<a href="/sitehelp/access.html" accesskey="0">Access</a> | 
+<a href="/sitehelp/privacy.html">Privacy</a> | 
+<a href="/sitehelp/disclaimer.html">Disclaimer</a> | 
+<a href="/sitehelp/sitemap.html" accesskey="2">Sitemap</a> | 
+<a href="/sitehelp/glossary.html">Glossary</a> | 
+<a href="/cgi/swish.cgi?adv=1" accesskey="3">Advanced search</a>  
+<div class="hidden"> | <a href="/archives.html">Archives</a></div>
+        
+    
+  </div>
+</div>
+		 <p align="center"><a href="/sitehelp/copyright.html">© Crown Copyright 
+  2005</a></p>
+
+<div style="position:absolute;left:-1000px;top:0px;visibility:hidden;">
+        <div><a href="/sitehelp/unsubscribe-error.html">Unsubscription error</a></div>
+        <div><a href="/sitehelp/unsubscribe-success.html">Unsubscription success</a></div>
+        <div><a href="/sitehelp/unsubscribe.html">Unsubscribe from site updates and e-news</a></div>
+        <div><a href="/sitehelp/notfound.html">404: Page Not Found</a></div>
+        <div><a href="/sitehelp/newspapers-success.html">Newspapers success</a></div>
+        <div><a href="/sitehelp/newspapers-error.html">Newspapers error</a></div>
+        <div><a href="/sitehelp/feedback.html">Feedback</a></div>
+        <div><a href="/sitehelp/feedback-success.html">Feedback Success</a></div>
+        <div><a href="/sitehelp/feedback-error.html">Feedback error</a></div>
+        <div><a href="/sitehelp/welcome.html">Welcome to Elections New Zealand</a></div>
+        <div><a href="/sitehelp/subscribe-success.html">Subscription success</a></div>
+        <div><a href="/sitehelp/subscribe-error.html">Subscription error</a></div>
+        <div><a href="/sitehelp/subscribe.html">Subscribe to site updates and e-news</a></div>
+        <div><a href="/sitehelp/access.html">Access</a></div>
+        <div><a href="/sitehelp/sitemap.html">Sitemap</a></div>
+        <div><a href="/sitehelp/EC.html">How to contact the Electoral Commission</a></div>
+        <div><a href="/sitehelp/CEO.html">How to contact the Chief Electoral Office</a></div>
+        <div><a href="/sitehelp/EEC.html">How to contact the Electoral Enrolment Centre</a></div>
+        <div><a href="/sitehelp/about_contact_main.html">New Zealand's electoral agencies</a></div>
+        <div><a href="/sitehelp/copyright.html">Copyright</a></div>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+
+</div>
+
+
+
+</body></html>
