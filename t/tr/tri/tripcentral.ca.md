@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tripcentral.ca privacy policy that was archived on 2005-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050426081015id_/http%3A//www.tripcentral.ca/trip/INFO/WEBSITE/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripcentral.ca privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218094812id_/http%3A//tripcentral.ca/trip/INFO/WEBSITE/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Call 1-800-665-4981
+# Privacy Policy
 
  P R I V A C Y   P O L I C Y  
 Privacy Policy  
