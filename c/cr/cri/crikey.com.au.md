@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616135222id_/http%3A//www.crikey.com.au/articles/2005/03/07-1335-5466.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218144113id_/http%3A//www.crikey.com.au/articles/2005/03/07-1335-5466.html) for the most accurate reproduction.*
 
 # Crikey Website - Privacy
 
-[](https://web.archive.org/web/20050616135222id_/http%3A//www.crikey.com.au/freetrial.html)
+  
+[](http://www.textpublishing.com.au/)
+
+Add this site to: 
+
+[](http://add.my.yahoo.com/content?url=http%3A//www.crikey.com.au/index.rss)
 
 | 
 
