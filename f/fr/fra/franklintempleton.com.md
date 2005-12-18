@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franklintempleton.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305130832id_/http%3A//www.franklintempleton.com/retail/jsp_cm/access/st_agrmt/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franklintempleton.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218151020id_/http%3A//franklintempleton.com/retail/jsp_cm/access/st_agrmt/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
