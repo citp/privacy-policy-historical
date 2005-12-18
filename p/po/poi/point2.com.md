@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the point2.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305060747id_/http%3A//technologies.point2.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the point2.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218044613id_/http%3A//technologies.point2.com/privacy.asp) for the most accurate reproduction.*
 
 # Software Development and Solutions by Point2 Technologies Inc.
 
