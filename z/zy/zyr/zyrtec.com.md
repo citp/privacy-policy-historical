@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2005-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050320122211id_/http%3A//www.zyrtec.com/index.asp%3Fpid%3D0_2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218204849id_/http%3A//zyrtec.com/index.asp%3Fpid%3D0_2) for the most accurate reproduction.*
 
 # ZYRTEC® (cetirizine HCl). Lots of Allergies. Just one ZYRTEC™.
 
