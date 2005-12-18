@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yellowbridge.com privacy policy that was archived on 2005-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050215023457id_/http%3A//www.yellowbridge.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowbridge.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218034032id_/http%3A//www.yellowbridge.com/general/privacy.html) for the most accurate reproduction.*
 
-# YellowBridge Terms of Service
+# YellowBridge Privacy Policy
 
 ##  PRIVACY POLICY
 
