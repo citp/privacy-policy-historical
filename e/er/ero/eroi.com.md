@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eroi.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403145054id_/http%3A//www.eroi.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroi.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218232114id_/http%3A//www.eroi.com/privacy.htm) for the most accurate reproduction.*
 
 # eROI email marketing privacy policy
 
@@ -27,3 +27,7 @@ eROI is a general audience site and is not directed to children under the age of
 If you have received unwanted, unsolicited email sent via our system or purporting to be sent via this system, please forward a copy of that email with your comments to [info@eroi.com](mailto:info@eroi.com) for review. 
 
 We reserve the right to modify this policy at any time. We will always post the most current version of this policy on our website.
+
+If you would like to unsubscribe from ALL emailROI lists, please visit our [Global Unsubscribe ](http://www.eroi.com/unsubscribe.htm) page. 
+
+This policy was last updated: August 2004. We reserve the right to modify this policy at any time.
