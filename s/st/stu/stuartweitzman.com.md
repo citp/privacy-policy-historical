@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the stuartweitzman.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303170313id_/http%3A//www.stuartweitzman.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuartweitzman.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218184943id_/http%3A//www.stuartweitzman.com/privacy.asp) for the most accurate reproduction.*
 
 # Stuart Weitzman | Customer Service
+
+|   
+|  |   
+
 
 Stuart Weitzman takes your privacy concerns seriously, and we make every reasonable effort to protect your privacy and provide a safe, secure online shopping experience.
 
@@ -17,4 +21,5 @@ Stuart Weitzman takes your privacy concerns seriously, and we make every reasona
   * We take every measure to ensure that all credit card information and other personal data are kept with the highest standards of safety, security, and confidentiality.
 
 
-
+  
+---|---|---
