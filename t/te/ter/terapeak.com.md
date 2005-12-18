@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403211857id_/http%3A//terapeak.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218031516id_/http%3A//terapeak.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Terapeak: eBay Marketplace Research
 
   
-  
-**Advanced Economic Research Systems Inc.** PRIVACY STATEMENT
+**TERAPEAK.COM** PRIVACY STATEMENT
 
 AERS Inc. a British Columbia company, is committed to protecting the privacy of users to this Website and for users of our on-line services in accordance with the requirements of Canadian federal and provincial privacy laws.
 
@@ -23,7 +22,7 @@ We want this Web site and our on-line services to demonstrate our commitment to 
 7\. What types of security procedures are in place to protect the loss, misuse or alteration of personal information under AERS Inc. control.   
 8\. How users can correct any inaccuracies in the personal information. 
 
-If users have questions or concerns regarding this statement, they should first contact Anthony E.R. Sukow by the following email [anthony@aers.ca](mailto:anthony@aers.ca). If a user does not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact AERS Inc. directly by the following contact number: (250) 472-4329.
+If users have questions or concerns regarding this statement, they should first contact Anthony E.R. Sukow by the following email [anthony@aers.ca](mailto:anthony@aers.ca). If a user does not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact AERS Inc. directly by the following contact number: 250.483.3273.
 
 **Information Collection and Use** **Information Collection**  
 AERS Inc. is the sole owner of the information collected on [Terapeak.com](http://www.terapeak.com/) including all sub-domains. AERS Inc. collects personally identifiable information from our users at [www.terapeak.com](http://www.terapeak.com/). If you use our on-line services, we ask you for;  
@@ -192,8 +191,8 @@ If, however, we are going to use users' personally identifiable information in a
 **Contact Information**  
 If users have any questions, concerns or suggestions regarding our privacy practices, please contact us at:
 
-Phone: (250) 472-4329  
-Fax: (250) 721-6497  
+Phone: 250.483.3273  
+Fax: 250.483.3271  
 Email: [support@terapeak.com](mailto:support@terapeak.com)
 
 Web site URL: [www.Terapeak.com](http://www.terapeak.com/)
