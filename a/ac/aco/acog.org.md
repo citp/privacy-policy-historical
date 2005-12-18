@@ -1,0 +1,35 @@
+> *The following text is extracted and transformed from the acog.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218154236id_/http%3A//www.acog.org/from_home/misc/privacyPolicy.cfm) for the most accurate reproduction.*
+
+# Privacy Statement for ACOG's Website
+
+Privacy Statement for ACOG's Website 
+
+The American College of Obstetricians and Gynecologists (ACOG) created this Privacy Statement to demonstrate our commitment to the privacy of our member and non-member users. This Privacy Statement discloses the privacy practices for acog.org, acog.com, and ACOG's other top-level domains. 
+
+**Information Collection and Use**
+
+Collection, retention, and use of personal information may occur if member and non-member users interact with ACOG's Website, by either registering with the site or participating in one of ACOG's services. Member users may be required to provide their name, address, telephone number, e-mail address, ACOG member id number, and/or other identifying information. This information is used to verify status with the ACOG membership database and to respond to inquiries and/or requests. Non-member users may be required to provide an e-mail address, in order for ACOG to respond to inquiries and/or requests. 
+
+ACOG may use e-mail addresses provided by member users to notify them of upcoming events from ACOG and District and Section news and events. Member users who do not wish to receive such e-mails should not opt-in when registering with ACOG's Website. Member users are able to opt-out or change their preferences for receiving such information at any time. 
+
+**Use of Cookies and IP Address**
+
+Cookies are small pieces of information stored by your browser on your computer, which are used to aid in web navigation. ACOG's Website uses session cookies. When member users log onto ACOG's Website, an identifier is temporarily created and placed in their computer's memory so the member user can access the members-only pages using their e-mail address and password. The cookie contains no personal information and is self-terminated upon exiting the browser. 
+
+A unique number called an IP address identifies each computer on the Internet. Each time users connect to the Internet, their computer is assigned an IP address. When member and non-member users connect to ACOG's Website, the IP address is stored for statistical purposes. 
+
+**Public Forums**
+
+ACOG's Website makes public forums and discussion boards available to member users. Please remember that any information disclosed in these areas becomes public information and member users should exercise caution when deciding to disclose personal information. ACOG cannot ensure or warrant the security of any information transmitted in the public forums. 
+
+**External Links**
+
+ACOG's Website contains links to other external websites that do not fall under its domain. ACOG is not responsible for the privacy practices and the content of such external websites. 
+
+**Third Party**
+
+ACOG may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to 1) conform to legal requirements or comply with legal process served on ACOG, 2) protect and defend the rights of property of ACOG, or 3) protect the personal safety of ACOG personnel or members of the public in urgent circumstances. 
+
+The American College of Obstetricians and Gynecologists reserves the right to amend the Privacy Statement at any time for any reason. This Privacy Statement only applies to information collected by ACOG through ACOG's Website. 
+
+8/26/2004
