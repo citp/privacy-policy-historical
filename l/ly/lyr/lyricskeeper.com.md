@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricskeeper.com privacy policy that was archived on 2005-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050621073343id_/http%3A//www.lyricskeeper.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricskeeper.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218203911id_/http%3A//www.lyricskeeper.com/privacy.htm) for the most accurate reproduction.*
 
 # Song Lyrics and Soundtrack Lyrics, Music Lyrics, Lyrics Search.
 
