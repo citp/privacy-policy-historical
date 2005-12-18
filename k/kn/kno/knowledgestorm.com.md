@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the knowledgestorm.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307023220id_/http%3A//www.knowledgestorm.com/MainServlet%3FksAction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgestorm.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218033333id_/http%3A//knowledgestorm.com/MainServlet%3FksAction%3Daboutus%26pageName%3D/resources/content/c_privacy.jsp%26header%3D1) for the most accurate reproduction.*
 
-# KnowledgeStorm - Privacy Statement
+# KnowledgeStorm - About Us - Privacy Statement
 
-KnowledgeStorm Online Privacy Policy
-
+|  |  |   
+  
 KnowledgeStorm provides promotional and consumer information regarding various information technology products and services via its web site and related web pages located at [www.knowledgestorm.com](http://www.knowledgestorm.com/) ("Web Site") and through email & interactive sessions. KnowledgeStorm is committed to protecting the privacy of its users. To demonstrate this commitment, KnowledgeStorm has created this privacy policy (the "Privacy Policy") governing KnowledgeStorm's use of the information that is collected through the Web Site and any interactive sessions you participate in. By accessing and viewing the Web Site or participating in an interactive session, you agree to the terms and conditions of this Privacy Policy. In order to access certain portions of the Web Site you will be required to register by providing certain limited information regarding you and the company you represent. 
 
 Even if you do not register with us, we will still collect some information from you when you visit the Web Site. 
@@ -37,10 +37,10 @@ Using your contact information, KnowledgeStorm may also send you e-mail messages
 
 
 
-Your contact information may be made available or provided to third-party service providers and contractors (such as the Website webmaster) that are contractually obligated to protect your information as disclosed in this Privacy Policy. In order to maintain accurate records concerning communications that KnowledgeStorm may have received from or sent to you, KnowledgeStorm may also indefinitely store any information that you provide to KnowledgeStorm through the Website. 
+Your contact information may be made available or provided to third-party service vendors and contractors (such as the Website webmaster) that are contractually obligated to protect your information as disclosed in this Privacy Policy. In order to maintain accurate records concerning communications that KnowledgeStorm may have received from or sent to you, KnowledgeStorm may also indefinitely store any information that you provide to KnowledgeStorm through the Website. 
 
   
-Once you register on the site, you are providing KnowledgeStorm with personally identifiable information. KnowledgeStorm will pass on this information only after you have viewed the provider content and only to the company that has paid for the listing of that particular content. The provider's use of this information is governed by the provider's privacy policy and may be used for follow-up by telephone, email, or other common methods. You should contact these providers directly if you have any questions about their use of the information. 
+Once you register on the site, you are providing KnowledgeStorm with personally identifiable information. KnowledgeStorm will pass on this information only after you have viewed the vendor content and only to the company that has paid for the listing of that particular content. The vendor's use of this information is governed by the vendor's privacy policy and may be used for follow-up by telephone, email, or other common methods. You should contact these vendors directly if you have any questions about their use of the information. 
 
 In addition, KnowledgeStorm may share certain aggregated demographic information with our sponsors regarding the users of the Web Site and responses we receive from you through the interactive sessions. The aggregated information that we provide is not linked to any personally identifiable information. 
 
@@ -72,4 +72,40 @@ Other than as set forth above, KnowledgeStorm will not otherwise use or disclose
 You may update or correct information you previously provided to KnowledgeStorm by accessing your user profile on our Web Site. 
 
   
-For additional questions, or to be taken off our marketing lists, please send an e-mail to [ksprivacy@knowledgestorm.com](mailto:ksprivacy@knowledgestorm.com). 
+For additional questions, or to be taken off our marketing lists, please send an e-mail to [ksprivacy@knowledgestorm.com](mailto:ksprivacy@knowledgestorm.com).   
+  
+---|---|---  
+|   
+---  
+  [The Complete KnowledgeStorm Network](http://www.knowledgestorm.com/search/showKSNetwork/index.htm) **of Technology Search Sites.** Focused searching for faster results.  
+|  | 
+
+Business Solutions  
+, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,   
+
+
+Technical Solutions  
+, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,   
+
+
+Industry Solutions  
+, , , , ,   
+
+
+Geographically-based Solutions  
+, , , , ,   
+
+
+|   
+---|---|---  
+| 
+
+KnowledgeStorm Partners:  
+, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,   
+
+
+|   
+[Featured Companies](http://www.knowledgestorm.com/featuredCompanies.asp) | [Get Listed on KnowledgeStorm](http://www.knowledgestorm.com/MainServlet?n=Direct&c=CORE&ksAction=provRegOption) | [Information for IT Providers](http://www.knowledgestorm.com/MainServlet?n=Direct&c=CORE&ksAction=provRegOption) | [About KnowledgeStorm](http://www.knowledgestorm.com/MainServlet?ksAction=aboutus) | [Contact Us](http://www.knowledgestorm.com/MainServlet?ksAction=aboutus&subpage=m_contact_us) | [Help](http://www.knowledgestorm.com/MainServlet?ksAction=seekerHelp)  
+Solution & Research Index: [A](http://www.knowledgestorm.com/solindexA.asp) | [B](http://www.knowledgestorm.com/solindexB.asp) | [C](http://www.knowledgestorm.com/solindexC.asp) | [D](http://www.knowledgestorm.com/solindexD.asp) | [E](http://www.knowledgestorm.com/solindexE.asp) | [F](http://www.knowledgestorm.com/solindexF.asp) | [G](http://www.knowledgestorm.com/solindexG.asp) | [H](http://www.knowledgestorm.com/solindexH.asp) | [I](http://www.knowledgestorm.com/solindexI.asp) | [J](http://www.knowledgestorm.com/solindexJ.asp) | [K](http://www.knowledgestorm.com/solindexK.asp) | [L](http://www.knowledgestorm.com/solindexL.asp) | [M](http://www.knowledgestorm.com/solindexM.asp) | [N](http://www.knowledgestorm.com/solindexN.asp) | [O](http://www.knowledgestorm.com/solindexO.asp) | [P](http://www.knowledgestorm.com/solindexP.asp) | [Q](http://www.knowledgestorm.com/solindexQ.asp) | [R](http://www.knowledgestorm.com/solindexR.asp) | [S](http://www.knowledgestorm.com/solindexS.asp) | [T](http://www.knowledgestorm.com/solindexT.asp) | [U](http://www.knowledgestorm.com/solindexU.asp) | [V](http://www.knowledgestorm.com/solindexV.asp) | [W](http://www.knowledgestorm.com/solindexW.asp) | [X](http://www.knowledgestorm.com/solindexX.asp) | [Y](http://www.knowledgestorm.com/solindexY.asp) | [Z](http://www.knowledgestorm.com/solindexZ.asp) | [0-9](http://www.knowledgestorm.com/solindex0-9.asp)  
+Recent Searches: [1](http://www.knowledgestorm.com/recentsearches1.asp) | [2](http://www.knowledgestorm.com/recentsearches2.asp) | [3](http://www.knowledgestorm.com/recentsearches3.asp) | [4](http://www.knowledgestorm.com/recentsearches4.asp) | [5](http://www.knowledgestorm.com/recentsearches5.asp) | [6](http://www.knowledgestorm.com/recentsearches6.asp) | [7](http://www.knowledgestorm.com/recentsearches7.asp) | [8](http://www.knowledgestorm.com/recentsearches8.asp) | [9](http://www.knowledgestorm.com/recentsearches9.asp) | [10](http://www.knowledgestorm.com/recentsearches10.asp) | [11](http://www.knowledgestorm.com/recentsearches11.asp) | [12](http://www.knowledgestorm.com/recentsearches12.asp) | [13](http://www.knowledgestorm.com/recentsearches13.asp) | [14](http://www.knowledgestorm.com/recentsearches14.asp) | [15](http://www.knowledgestorm.com/recentsearches15.asp) | [16](http://www.knowledgestorm.com/recentsearches16.asp) | [17](http://www.knowledgestorm.com/recentsearches17.asp) | [18](http://www.knowledgestorm.com/recentsearches18.asp) | [19](http://www.knowledgestorm.com/recentsearches19.asp) | [20](http://www.knowledgestorm.com/recentsearches20.asp) | [21](http://www.knowledgestorm.com/recentsearches21.asp) | [22](http://www.knowledgestorm.com/recentsearches22.asp) | [23](http://www.knowledgestorm.com/recentsearches23.asp) | [24](http://www.knowledgestorm.com/recentsearches24.asp) | [25](http://www.knowledgestorm.com/recentsearches25.asp)  
+Copyright 2005 [KnowledgeStorm, Inc.](http://www.knowledgestorm.com/MainServlet?ksAction=home) All rights reserved. [Privacy Statement](http://www.knowledgestorm.com/MainServlet?ksAction=aboutus&pageName=/resources/content/c_privacy.jsp&header=1) \- [Terms of Use](http://www.knowledgestorm.com/MainServlet?ksAction=aboutus&pageName=/resources/content/c_terms.jsp&header=2)
