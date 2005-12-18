@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reinventedsoftware.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404082703id_/http%3A//www.reinventedsoftware.com/contact/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reinventedsoftware.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218211014id_/http%3A//reinventedsoftware.com/contact/privacy.html) for the most accurate reproduction.*
 
 # Reinvented Software - Privacy Policy
 
@@ -35,4 +35,4 @@ You have a right to request a copy of any personal data held by Reinvented Softw
 This privacy policy applies only to our website, www.reinventedsoftware.com.
 
 Reinvented Software is a trading name of  
-Stephen Harris, 27 Parkwood, Gowerton, Swansea, SA4 3DQ, United Kingdom
+Stephen Harris, 1 George Manning Way, Gowerton, Swansea, SA4 3HB, United Kingdom
