@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the self.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401015515id_/http%3A//www.self.com/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the self.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218203506id_/http%3A//www.self.com/services/privacypolicy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines: Self: Privacy Policy
 
@@ -16,7 +16,7 @@ Last Revised June 27, 2002
 
 Kids and parents click here! 
 
-In addition to reviewing this privacy policy, please read our [User Agreement](http://self.com/site/useragreement.html). Your use of Self.com constitutes agreement to its terms and conditions.
+In addition to reviewing this privacy policy, please read our [User Agreement](http://self.com/services/useragreement.html). Your use of Self.com constitutes agreement to its terms and conditions.
 
 Self.com is produced by CondéNet, Inc. This policy does not cover information collected on sites linked to from Self.com.
 
