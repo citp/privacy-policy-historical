@@ -1,38 +1,29 @@
-> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404041449id_/http%3A//www.pooldawg.com/shop/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218163417id_/http%3A//www.pooldawg.com/shop/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# Billiards at Pool Dawg: Pool Cues, Cases, and Billiards Accessories- Help section
+# - Help section
 
-[Pool Dawg](https://web.archive.org/web/20050404041449id_/http%3A//www.pooldawg.com/shop/customer/home.php) :: Help zone
+[Pool Dawg](http://www.pooldawg.com/?PHPSESSID=a9e299630ce46743958ddece6a1f6bd1) :: Help zone
 
 |   Shipping & Customer Service  
 ---  
   
 **Customer Service Information**
 
-**Contact Us**  
-E-mail, Phone, Fax,
+**Contact Us**
+
+PoolDawg.com, Inc.  
+PO Box 552  
+Lafayette CO 80026  
+866-THE-DAWG
 
 **Customer Service Hours**  
-Monday through Friday 9am to 5pm MST. 
+Monday through Friday 10:30AM to 7:00PM EST. 
 
 We will always respond to your questions and concerns with in 24 hours.
 
 Phone: 866.THE.DAWG (866.843.3294)  
 Fax: 720.214.2668  
 E-mail: info@pooldawg.com
-
-**Price Guarantee**  
-Pool Dawg offers a price match guarantee. Occasionally, you may buy an item that goes on sale on POOLDAWG or you find a lower advertised price from a competitor on an identical item. We are more than happy to adjust your purchase price to match the new price. 
-
-Price Match Guarantee only applies for 30 days from time of purchase. Any order older than 30 days does not qualify for this guarantee. We do not honor price match for products that are on clearance, closeouts or from online auction sites.
-
-**To receive a price match credit:**  
-1\. Please fill out the form below so that we have all the necessary information to make your price guarantee request as easy and quick as possible.  
-2\. E-mail us your request at returns@pooldawg.com – include:   
-· Price Guarantee Form  
-· Original order number  
-· URL/Link for the lower price  
-3\. We will process a credit to your credit card within 24hours of our evaluations of the product/s. Please allow additional time for the credit of your return to show up on your statement. Purchases made by check must wait for the original check to clear prior to receiving your money back. You can also receive a store credit.
 
 **30 Day Money Back Guarantee**  
 Pool Dawg offers a 30-day money back guarantee on any new and unused product purchased from Pool Dawg. We want you to be satisfied. No restocking fees, no hassles. Cues must be unchalked and in original condition to receive full refund or credit. 
@@ -68,7 +59,7 @@ Call us direct with your order
 Tracking your order from Pool Dawg is simple! We will email you a tracking number once your product/s has been shipped. To check on the status of your order got to [ www.ups.com](http://www.ups.com/) and enter your tracking number. If you encounter any problems call us at 866.THE.DAWG (866.843.3294)
 
 **Payment Options**  
-Pool Dawg accepts VISA, MasterCard, Discover and American Express.
+Pool Dawg accepts VISA, MasterCard, Discover, American Express and PayPal.
 
 **Return and Exchange Policy**  
 We want you to be happy with your purchase from Pool Dawg. If for some reason you are unhappy let us know and we will make every effort to make it right. 
@@ -80,30 +71,23 @@ Special note: Warping once a cue is chalked is not considered a defect.
 
 **To process a return or exchange:**
 
-1\. Please fill out the form below so that we have all the necessary information to make your return as easy and quick as possible.  
-2\. Email the form to us at returns@pooldawg.com to receive a return authorization number. This number needs to be clearly marked on the box and the Product Return form. Packages will not be received without prior authorization.  
-3\. Pack your product/s securely and in appropriate packaging. Damage to products due to poor packaging can affect your refund.  
-4\. Please include a copy of your original order form, and any original tags or packaging that came with the product/s.  
-5\. Ship your product via UPS or USPS which ever you prefer. We highly suggest that you have your return package insured and have a way to track it. Pool Dawg is not responsible for any packages lost by UPS or USPS.  
-Pool Dawg  
-Product Return  
-1380 Overlook Drive, #104  
-Lafayette, CO 80026  
-6\. We will process a credit to your credit card within 24hours of our evaluation of the product/s. Please allow additional time for the credit of your return to show up on your statement. Purchases made by check must wait for the original check to clear prior to receiving your money back. You can receive a store credit once the product returned is received and evaluated.  
-7\. If for some reason there is an error on our part with the shipping process we will arrange for the product to be picked up and returned to you at our expense.   
-8\. If your package is damaged due to the shipping company please contact us within 24 hours at returns@pooldawg.com. You will be instructed on the procedures to have the product returned to us. We will insure that you receive the proper credit and/or replacement of the product.
+1\. Please call us at 866.843.3294 or email us at info@pooldawg.com. We will issue a UPS call tag upon hearing from you.  
+2\. Pack your product/s securely and in appropriate packaging. Damage to products due to poor packaging can affect your refund.  
+3\. Once we receive your product, we will process a credit to your credit card within 24hours of our evaluation of the product/s. Please allow additional time for the credit of your return to show up on your statement. Purchases made by check must wait for the original check to clear prior to receiving your money back. You can receive a store credit once the product returned is received and evaluated.  
+4\. If for some reason there is an error on our part with the shipping process we will arrange for the product to be picked up and returned to you at our expense.   
+5\. If your package is damaged due to the shipping company please contact us within 24 hours at info@pooldawg.com or 866.843.3294. You will be instructed on the procedures to have the product returned to us. We will insure that you receive the proper credit and/or replacement of the product.
 
 **Shipping Options**
 
-Place your in-stock order before 3: 00 pm MST (1:00 pm EST) Monday through Friday, and your order will be rushed out the door that same day. As long as your request is in stock we guarantee the very best turn-around time. If for some reason we don’t get it out that day, we’ll make sure to contact you in the event of a stock outage or other delay.
+Place your in-stock order before 4:00 pm EST Monday through Friday, and your order will be rushed out the door that same day. As long as your request is in stock we guarantee the very best turn-around time. If for some reason we don’t get it out that day, we’ll make sure to contact you in the event of a stock outage or other delay.
 
-Pool Dawg offers FREE SHIPPING on all orders over $100. This offer is for ground service to the 48 contiguous United States using UPS or USPS.
+Pool Dawg offers FREE SHIPPING on all orders over $50. This offer is for ground service to the 48 contiguous United States using UPS or USPS.
 
-Pool Dawg ships products all over the world. Submit an order and we will send an email with a quote for shipping based on UPS rates and coverage area. Please be aware that you are responsible for any applicable duties and taxes from your local government. Address any concerns to info@pooldwg.com
+Pool Dawg ships products all over the world. Please note that in some cases where we are not able to verify the billing address of the credit card, you will be asked to provide us with additional infomration via fax. Please be aware that you are responsible for any applicable duties and taxes from your local government. Address any concerns to info@pooldwg.com
 
 Regular ground shipping within the 48 contiguous United States takes any where from 4 to 6 business days. Time in transit quotes and scheduled delivery dates can be located at the UPS web site once you receive confirmation of shipment and a tracking number has been issued.
 
-Shipping charges for the 48 contiguous United States may be calculated by adding items to the shopping cart, selecting purchase, choosing a shipping method and filling in your ship to information. Pressing continue will show the charges. Please be advised that PoolDawg.com, Inc. only collects sales tax for orders originating from the state of Colorado. Customers placing orders from any other state or country are responsible for any taxes or tariffs that their local governments may apply. International customers should email us at sales@pooldawg.com to receive an estimate on what shipping costs will be.
+Shipping charges for the 48 contiguous United States may be calculated by adding items to the shopping cart, entering your zip code, choosing a shipping method and clicking the calculate shipping button. Please be advised that PoolDawg.com, Inc. only collects sales tax for orders originating from the state of Colorado. Customers placing orders from any other state or country are responsible for any taxes or tariffs that their local governments may apply. 
 
 **Our Commitment to Privacy**  
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our customers. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
