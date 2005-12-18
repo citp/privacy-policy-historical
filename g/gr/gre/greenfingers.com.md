@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305091915id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218204820id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
 
 # Gardening equipment products gardeners advice UK
 
@@ -14,17 +14,15 @@ Please read on for more details about our privacy policy.
 > 
 > When you order, we need to know your name, e-mail address, delivery address, credit or debit card number and expiry date. This enables us to process and fulfil your orders and to notify you in the event of any queries.
 > 
-> We also request your telephone number, which allows us to contact you urgently if there is a problem with your order. We will communicate with you by e-mail, telephone or letter.
+> We also request your telephone number, which allows us to contact you urgently if there is a problem with your order and allow couriers to contact you if problems arise with delivery. We will communicate with you by e-mail, telephone or letter.
 > 
 > When you enter a competition or prize draw, we may ask for your name, address, and e-mail address so that we can administer the contest and notify winners. We may also ask for further information for our marketing records.
 
 **2\. How do we use the information?**
 
-> At Greenfingers the information we collect about you is to make sure that the information or offers that we send you are relevant to you - we don't want to wate your time by sending you information or offers which you will not find interesting.
+> At Greenfingers the information we collect about you is to make sure that the information or offers that we send you are relevant to you - we don't want to waste your time by sending you information or offers which you will not find interesting.
 > 
 > We may use the information we collect to occasionally notify you about important functionality changes to our web site, new Greenfingers.com services and special offers.
-> 
-> We may invite you to take part in market research. If you would rather not receive this information, please send an e-mail to Greenfingers.com.
 > 
 > We do not pass on your details without your permission to anyone else unless it is in relation to services you have used through the site.
 > 
@@ -58,7 +56,7 @@ Please read on for more details about our privacy policy.
 
 **8\. Cookies**
 
-> We do use 'cookies' which are small pieces of information that are stored on your computer's hard drive by your browser. These allow Greenfingers.com torecognise you and to provide features to make your use of the Site easier. Most browsers allow the cookie funciton to be turned off. If you want to know how to do this look at the help menu on your browser or contact our customer services on customerservices@greenfingers.com, or telephone them on 0845 302 3022.
+> We do use 'cookies' which are small pieces of information that are stored on your computer's hard drive by your browser. These allow Greenfingers.com torecognise you and to provide features to make your use of the Site easier. Most browsers allow the cookie funciton to be turned off. If you want to know how to do this look at the help menu on your browser or contact our customer services on customerservices@greenfingers.com, or telephone them on 0845 345 0728.
 
 **9\. In Summary**
 
@@ -68,4 +66,9 @@ Please read on for more details about our privacy policy.
 
 > For further information regarding all aspects of Greenfingers.com's contracts with customers please see our full [Terms and Conditions](http://www.greenfingers.com/bottommenu.asp?subcategoryid=46).
 
-| 
+| **Other Privacy Policy Articles**  
+---  
+   [Privacy Policy](https://web.archive.org/articledisplay.asp?id=1287) |      |   
+  
+  
+
