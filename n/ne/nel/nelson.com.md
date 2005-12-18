@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nelson.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305013641id_/http%3A//www.nelson.com/nelson/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nelson.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218172048id_/http%3A//www.nelson.com/nelson/privacy.html) for the most accurate reproduction.*
 
 # Nelson, A Division of Thomson Canada Limited - Privacy Policy
 
