@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405210434id_/http%3A//www.firebox.com/index.html%3Fdir%3Dadmin%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218104243id_/http%3A//www.firebox.com/index.html%3Fdir%3Dadmin%26action%3Dprivacy) for the most accurate reproduction.*
 
 # Gadgets, games, boys toys & gift ideas from Firebox.com
 
@@ -27,7 +27,7 @@ Firebox makes a commitment to protecting your privacy and promises only to use i
   * If you are a new customer we will give you the choice (for example once you have placed an Order) whether or not you want us or other reputable companies to contact you about future offers, events and new Products or related activities that you may find useful.
   * From time to time we may want to share data with other trustworthy and reputable companies both within and outside the European Union who may we think may have interesting offers and information for you. If you no longer wish us to do this please email us at [privacy@firebox.com](mailto:privacy@firebox.com) at any time. 
   * If you indicate to us that you would NOT like to receive information from third parties then we will not pass on your data to any other third parties but if you are an existing customer we cannot control those who presently have it. 
-  * If you join the Mailing Preference Service your name should be removed from responsible direct mail companies lists. An application form can be filled out on-line at [http://www.tpsonline.org.uk/](http://www.tpsonline.org.uk/mpsR/html/Register.asp).
+  * If you join the Mailing Preference Service your name should be removed from responsible direct mail companies lists. An application form can be filled out on-line at [http://www.mpsonline.org.uk/](http://www.mpsonline.org.uk/mpsr/mps_choosetype.html).
 
 
 
