@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233349id_/http%3A//www.republicoftea.com/pages/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218200249id_/http%3A//republicoftea.com/pages/privacypolicy.asp) for the most accurate reproduction.*
 
 # The Republic of Tea - A rare selection of premium white, red, green, black, Oolong and chai teas.
 
