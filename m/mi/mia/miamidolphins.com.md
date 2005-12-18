@@ -1,149 +1,140 @@
-> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305071808id_/http%3A//www.miamidolphins.com/legal/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218190145id_/http%3A//www.miamidolphins.com/legal/privacystatement.asp) for the most accurate reproduction.*
 
 # MiamiDolphins.com
 
-  
-
-
-|   
-  
----  
-  
-**2005 Home Opponents**  
-**Atlanta, Buffalo, Carolina, Denver, Kansas City, New England, N.Y. Jets, Tennessee**  
-  
-  
-  
-**2005 Road Opponents**  
-**Buffalo, Cleveland, New England, New Orleans, N.Y. Jets, Oakland, San Diego, Tampa Bay**  
-  
-  
-  
 [](https://web.archive.org/contacts/advertising/advertising.asp)
 
 [](https://web.archive.org/interactive/sharesite/sharesite.asp)
 
-|    
+|  |    
+[](http://www.truste.org/ivalidate.php?url=www.miamidolphins.com&sealid=102)
 
+Revised July 27, 2005
 
-Your right to privacy is a concern to us. At Miami Dolphins Ltd. on the Internet we are helping you maintain control over your personal data while fostering the growth of a more interactive environment. Below are the guidelines we use for protecting the information you provide during a visit to our Internet site (www.miamidolphins.com). For a summary of our corporate-wide privacy statement, [click here](https://web.archive.org/legal/summary.asp).
+This privacy policy applies to the Miami Dolphins' website located at www.MiamiDolphins.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. The Website is operated by the Miami Dolphins. Miami Dolphins is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.MiamiDolphins.com](http://www.miamidolphins.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Scott Stone at [dolphins@miamidolphins.com](mailto:dolphins@miamidolphins.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.TRUSTe will then serve as a liaison with us to resolve your concerns. This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy. Please read the information below to learn more about our data collection policies and practices.
 
-  1. Subscription and Registration  
+  1. Types Of Information That May Be Collected   
 
-  2. List Removal  
+  2. How Information May Be Collected   
 
-  3. Internet Commerce  
+  3. How We Use The Information Collected   
 
-  4. Customized Experience & Cookies  
+  4. With Whom The Information May Be Shared   
 
-  5. Policies for Individuals Under 18  
+  5. Security   
 
-  6. Data Collection -- IP Addresses  
+  6. Links To Other Websites   
 
-  7. [Miami Dolphins Ltd. House Rules](https://web.archive.org/legal/termsandconditions.asp)  
+  7. A Special Note For Parents Concerning Privacy   
+
+  8. Notification Of Changes And Your Acceptance Of The Privacy Policy  
+
+  9. Correcting/Updating Personal Information  
+
+  10. Your California Privacy Rights  
+
+  11. Questions About This Privacy Policy   
 
 
 
 
 * * *
 
-**Subscription & Registration**
+**TYPES OF INFORMATION THAT MAY BE COLLECTED**
 
-In a few areas on our Web site, we ask you to provide information that will enable us to enhance your site visit or follow-up with you after your visit. It is completely optional for you to participate. We request information from you when you: 
+The following are the types of information we may collect:
 
-  * Provide feedback in an online survey  
-
-  * Participate in a sweepstakes offer or contest  
-
-  * Order in the Pro Shop  
-
-  * Subscribe to a mailing list  
-
-  * Participate in a forum or interactive event  
-
-  * Request a catalog  
-
-
-
-
-In each of the instances above, we ask for your name, e-mail address and other appropriate personal information that would be needed to register for, or subscribe to these services or offers. In the case of mailing lists, you will be able to "unsubscribe" to these mailings at any time.
-
-**How we use the information:**  
-Miami Dolphins Ltd. may use such information to fulfill prizes, track compliance with our House Rules, track compliance with legal restrictions for contests and sweepstakes or for editorial and feedback purposes (to the extent that is explained when guests provide the information). In the event Miami Dolphins Ltd. plans to post any such information on a site, guests are provided prior notification of such posting. The information you provide will be kept confidential and will be used only to support your customer relationship with Miami Dolphins Ltd. With the permission (submitted at the time of registration) of a guest, who is 18 years of age or over, Miami Dolphins Ltd. may use information collected for marketing and promotional purposes.
-
-**How we do NOT use the information:**  
-Information regarding you or your orders and the products you purchase will not be disclosed or sold to any outside organization.
-
-Go to top of page.
+Information You Provide Us: In the course of using the website, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, email address, phone number, or fax number; unique identifiers, such as your user ID and user password; demographic information, such as your date of birth, age, gender, education, household income, occupation, ticket holder status, financial information; or similar information. If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. The Miami Dolphins do not store this information and it is used for the sole purpose of sending this one-time. Site Usage Information: We may receive and store certain types of internet usage information whenever you visit the Website, such as your click-stream data and your IP address. See the "IP Addresses and Click Stream Data" section below. Email Communications: When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have opted to receive or not to receive. 
 
 * * *
 
-**List Removal**
+**HOW INFORMATION MAY BE COLLECTED**
 
-If you would like to be removed from one of our e-mail lists please follow the instructions that are at the bottom of each e-mail. If you still have difficulty, please forward an e-mail you have received from the list to: [webmaster@miamidolphins.com](mailto:webmaster@miamidolphins.com) and we will remove you within 24 hours during normal business hours Monday-Friday.
-
-Go to top of page.
+We may collect information from you in several different areas on the Website, including but not limited to those described below: Registration: You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. Newsletters and Website Emails: We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or email to [dolphins@miamidolphins.com](mailto:dolphins@miamidolphins.com). Contests or Sweepstakes: We periodically operate contests and sweepstakes through the Website that may require registration or the submission of personal information. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes, (see the rules of each contest for details about how your personal information will be used). We may also ask your permission to allow us to publicly post some of your information on the Website, such as on a winner's page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Website, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we do not collect your information and we have no control over the information collected from you. Accordingly, we urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating. Surveys or Voting: From time-to-time we may request personally identifiable information from you in conjunction with a survey or voting poll. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. Games: When you register to play games on our Website, you may be asked to provide personally identifiable information. Cookies: As with many Websites, our Website uses a technology called "cookies." A cookie is a unique, random number that is stored in the browser on your computer. The cookie doesn't actually identify you, just the computer that is used to visit the site. Cookies automatically identify your browser to the Website whenever your computer is used to visit the Website. Cookies also let us know how many people visit our website and where visitors go on the site. In addition, cookies can let us know non-personally identifiable information, like what web browser is being used to access the website. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Website, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. Cookies may also allow the Website to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies. Cookies are not tied to personal information on MiamiDolphins.com. IP Addresses and Click-Stream Data: We may collect IP addresses and/or click-stream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses for purposes of system administration and to report aggregate information to our advertisers and sponsors, for example regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information. Click-stream data is information collected by our computers when you request Web pages from the Website. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Website, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like. Transaction Information: Transactions on MiamiDolphins.com are limited to either offline methods (i.e. Dol-Fan Club memberships, etc.) or through a 3rd party site (team pro shop, ticketmaster, etc.). 
 
 * * *
 
-**Internet Commerce**
+**HOW WE USE THE INFORMATION COLLECTED**
 
-The online store at www.miamidolphinsproshop.com is designed to give you control over the privacy of your credit card information, name, address, e-mail and any other information you provide us. We offer the industry standard security measures available through your browser called SSL. If at any time you would like to make a purchase, but would rather give your credit card or purchase order information to a representative over the telephone, you may do so. Simply call 1-800-553-7152.
+As applicable, the information you provide to us may be used to:
 
-When you provide your personal information such as name, address, phone number and company name, Miami Dolphins Ltd. will not give or sell this information to any outside company for any use. However, it has always been a Miami Dolphins Ltd. policy to contact customers in the event of a potential problem with your purchase or any normal business communication regarding your purchase.
+contact you about the Website; 
 
-The information you provide will be kept confidential and will be used only to support your customer relationship with Miami Dolphins Ltd. Information regarding you or your order and the products you purchase will not be disclosed or sold to any outside organization.
+contact you relating to your membership status; 
 
-For more information about security [click here](https://web.archive.org/legal/security.asp).
+confirm or fulfill an order you have made; 
 
-Go to top of page.
+inform you of a prize you have won;
 
-* * *
+monitor or improve the use of the Website; 
 
-**Customized Experience & Cookies**
+customize the advertising and content you see; 
 
-New technologies are emerging on the Internet that help us deliver customized visitor experiences. Our use of this technology does not mean that we automatically know any information about you. Miami Dolphins Ltd. has no desire or intent to infringe on your privacy while using the Miami Dolphins Ltd. site and we will never provide your personal information to anyone else.
+monitor compliance with our terms and conditions of use of the Website; and
 
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, like the shopping areas, will not function properly if you do so. If you have set your browser to notify you before accepting a cookie, you will notice that the MiamiDolphins.com requests a cookie be set.
-
-For more information about these new technologies on MiamiDolphins.com, please visit [this page](https://web.archive.org/legal/cookies.asp).
-
-Go to top of page.
+send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
 
 * * *
 
-**Policies for Individuals Under 18**
+**WITH WHOM THE INFORMATION MAY BE SHARED**
 
-  * MiamiDolphins.com encourages parents and guardians to spend time on-line with their children and to participate in the interactive activities offered on the sites.
-  * No information should be submitted to or posted at Miami Dolphins Ltd. by guests under 18 years of age without the consent of their parent or guardian.
-  * Unless otherwise disclosed during collection, the MiamiDolphins.com does not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever.
-  * All registrants receive e-mail confirming their registration. In addition, when a guest under 18 registers, his/her parent or guardian receives an e-mail alerting them to that registration and providing instructions on how the parent could delete the registration, if so desired.
-  * Although guests under 18 years of age are allowed to participate in contests, if such a guest wins, notification and prizes are sent to the parents or guardians identified in the initial MiamiDolphins.com registration process.
-  * No information collected from guests under 18 years of age is used for any marketing or promotional purposes whatsoever, either inside or outside Miami Dolphins Ltd.  
+At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
 
+Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products. These third parties include our [team online store ](http://www.miamidolphinsproshop.com/)(http://www.miamidolphinsproshop.com/), [e-newsletter](http://dolphins.ed4.net/profile/index.cfm/dolphins/signup.html) (http://dolphins.ed4.net/profile/index.cfm/dolphins/signup.html) and [fan survey](http://www.onlineinsights.com/dolphins/) (http://www.onlineinsights.com/dolphins/). Please note that you are submitting your information directly to these third party sites even though these pages have the look and feel of our team site. This privacy policy governs the e-newsletter site. The privacy policies of the online store and fan survey apply to their pages.
 
+Aggregate Information: We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
 
+Other Promotional Offers: We may send offers to you on behalf of our marketing partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may contact us. This can be done by using an opt out message in an email, or by emailing us at [dolphins@miamidolphins.com](mailto:dolphins@miamidolphins.com). You can expect a response to your request within 10-20 business days.
 
-Go to top of page.
+Business Transfers: In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally idententifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer. See "YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE POLICY" section below.
+
+Administrative or Legal Process: Your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this website. 
 
 * * *
 
-**Data Collection-IP Addresses**
+**SECURITY**
 
-Miami Dolphins Ltd. collects IP addresses for the purposes of system administration and to report aggregate information to our advertisers.
+This Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
 
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the big computers that "serve" up Web pages -- automatically identify your computer by its IP address.
+* * *
 
-When guests request pages from Miami Dolphins Ltd., our servers log their IP addresses. We do not link IP addresses to anything personally identifiable. This means that a user's session will be logged, but the user remains anonymous to us. By using this site, you signify your assent to the Miami Dolphins Privacy Policy. If you do not agree to this policy, please do not use the site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of Miami Dolphins Ltd. following the posting of changes to these terms will mean you accept those changes.
+**LINKS TO OTHER WEBSITES**
 
-If you have any further questions regarding our privacy policy you may reach us at:
+You should be aware that when you are on the Website you could be directed to other Websites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Website onto a different Website. This includes links from advertisers, sponsors and marketing partners that may use the Website's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Website, you should consult that Website's privacy policy before providing any personal information.
 
-Marketing Department  
-Miami Dolphins Ltd.  
-7500 SW 30 St.   
+* * *
+
+**A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY**
+
+The Website is a general audience Website. We do not currently collect any personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent. 
+
+The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the [Direct Marketing Association's Web Website](http://www.the-dma.org/) (www.the-dma.org) and explore the Get CyberSavvy! Program as well as the [GetNetWise Website](http://www.getnetwise.org/) (www.getnetwise.org) to learn more about parental control tools.
+
+* * *
+
+**YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE POLICY**
+
+By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address. 
+
+* * *
+
+**CORRECTING/UPDATING PERSONAL INFORMATION**
+
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by using an opt out message in an email, or by emailing us at [dolphins@miamidolphins.com](mailto:dolphins@miamidolphins.com). You can expect a response to your request within 10-20 business days.
+
+* * *
+
+**YOUR CALIFORNIA PRIVACY RIGHTS**
+
+A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes. As explained in this privacy policy, whenever you agree to let us collect personal information about you, we will always provide you with an option to prevent this information from being shared for non-administrative purposes with third parties. You can exercise this option at any time by following the steps outlined above. Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information. If you are a California resident and have questions about our compliance with this law, please send an email to [CAPrivacyRights@miamidolphins.com](mailto:CAPrivacyRights@miamidolphins.com) or write to us at CA Privacy Rights, Miami Dolphins, ATTN: Internet Department, 7500 SW 30 Street, Davie, FL 33314. 
+
+* * *
+
+**QUESTIONS ABOUT THIS PRIVACY POLICY**
+
+If you have any questions about this privacy policy or the privacy practices of this Website, contact [dolphins@miamidolphins.com](mailto:dolphins@miamidolphins.com). Questions regarding this statement should be directed to:  Miami Dolphins  
+7500 SW 30 Street  
 Davie, FL 33314  
-(954) 452-7000
+Attn: Website Privacy Policy  
+|  |   
 
-Go to top of page.
-
-| 
