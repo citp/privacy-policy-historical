@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307095623id_/http%3A//www.secureworks.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218103559id_/http%3A//www.secureworks.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # SecureWorks: Privacy policy
 
@@ -40,7 +40,7 @@ If you would like to review the personal information that SECUREWORKS has collec
 
 SECUREWORKS can revise this Privacy Policy at any time by updating this posting. Please consult this Privacy Policy regularly.
 
-**Last updated: November 20, 2002**
+**Last updated: October 18, 2005**
 
   
 
