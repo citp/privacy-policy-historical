@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the valueoptions.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404232141id_/http%3A//www.valueoptions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueoptions.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218150101id_/http%3A//valueoptions.com/privacy.htm) for the most accurate reproduction.*
 
 # Value Options
 
   
 This Web site offered by ValueOptions, Inc. (the "ValueOptions site") is designed to help you learn more about getting help with life issues that are sensitive, emotional and often private. We respect your personal privacy and provide this informational statement so that you may better understand how we may collect and use aggregate and personal information about you. This Privacy Statement describes ValueOptions privacy and security practices for this Web site. 
 
-[ValueOptions Notice of Privacy Practices](https://web.archive.org/web/20050404232141id_/http%3A//www.valueoptions.com/privacypractices.htm)
+[ValueOptions Notice of Privacy Practices](https://web.archive.org/web/20051218150101id_/http%3A//valueoptions.com/privacypractices.htm)
 
 **Your Acceptance of These Terms  
 **By using this site, you signify your acceptance of the terms of the ValueOptions Privacy Statement. If you do not agree to the terms of this Privacy Statement, please do not use the ValueOptions site and exit the site immediately. Your continued use of the ValueOptions site following the posting of changes to these terms will mean that you accept those changes. 
@@ -31,7 +31,7 @@ In the event that ValueOptions, or any component of ValueOptions' operations, is
 **This site contains links to other sites. ValueOptions is not responsible for the privacy practices or the content of such Web sites, including any sites that may indicate a special relationship or partnership with ValueOptions (such as co-branded pages and "powered by" relationships). ValueOptions does not disclose unique identifiers to those responsible for the linked sites. The linked sites, however, may collect personal information from you that is not subject to ValueOptions' control. To ensure protection of your privacy, always review the privacy policies of the sites you visit by linking from our Web site. 
 
 **Our Partner Sites  
-**Some of the services accessible to you from the ValueOptions site are actually performed by our partners. For example, eligibility inquiries are done through LifeNet on the LifescapePro site (http://www.lifescapepro.com). You can tell whether you are on the ValueOptions site or a partner site by checking the Internet address (URL) in your browser window. When you are on our partner sites, you are governed by our partner's privacy policy. 
+**Some of the services accessible to you from the ValueOptions site are actually performed by our partners. You can tell whether you are on the ValueOptions site or a partner site by checking the Internet address (URL) in your browser window. When you are on our partner sites, you are governed by our partner's privacy policy. 
 
 **Security  
 **This site has security measures in place to protect against the loss, misuse and alteration of the information under our control. 
