@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utmb.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204015133id_/http%3A//www.utmb.edu/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utmb.edu privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218180918id_/http%3A//www.utmb.edu/privacy_policy.htm) for the most accurate reproduction.*
 
 # The University of Texas Medical Branch
 
