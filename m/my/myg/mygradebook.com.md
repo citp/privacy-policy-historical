@@ -1,27 +1,28 @@
-> *The following text is extracted and transformed from the mygradebook.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204141752id_/http%3A//www.fen.com/resources/privacyStatement.html%3Fadd%3DMygradebook) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygradebook.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218094843id_/http%3A//www.fen.com/resources/privacyStatement.html%3Fadd%3DMygradebook) for the most accurate reproduction.*
 
 # Fen.com - Privacy Statement
 
 | 
 
-Privacy Statement: (Revised February, 2004) 
+Privacy Statement: (Revised January, 2005) 
 
-Family Education Network is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep Family Education Network a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information. Please note that your use of this Site is also subject to the [Terms of Use](https://web.archive.org/web/20041204141752id_/http%3A//www.fen.com/resources/agreeDisclaim.html?add=Mygradebook) (of which this privacy statement is a part) posted on this site. 
+Family Education Network is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep Family Education Network a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information. Please note that your use of this Site is also subject to the [Terms of Use](https://web.archive.org/web/20051218094843id_/http%3A//www.fen.com/resources/agreeDisclaim.html?add=Mygradebook) (of which this privacy statement is a part) posted on this site. 
 
 We encourage our visitors to read through and understand our privacy statement. We may update it from time to time to address new issues or reflect changes on our site. Please refer to this privacy statement regularly. Family Education Network reserves the right to revise this privacy statement at any time and such revisions shall be effective immediately upon notice thereof. Notice may be given by any means including, but not limited to, posting the revised privacy statement on this site. Any use of our site by you subsequent to such notice shall be deemed to constitute acceptance by you of such revision. 
 
 If you have any questions or concerns about the statement, please contact us at [CustomerCare@fen.com](mailto:customercare@fen.com). To quickly access a particular section of this policy, you can click directly on the links below: 
 
-Information You Provide to Us   
-How We Use the Information You Provide   
-We Protect Kids' Privacy   
-Notification and Verifiable Parental Consent   
-What Are Cookies?   
+Information You Provide to Us  
+How We Use the Information You Provide  
+We Protect Kids' Privacy  
+Notification and Verifiable Parental Consent  
+Exceptions to Verifiable Parental Consent  
+What Are Cookies?  
 What Are IP Addresses?   
-A Notice About Our Advertisers   
-A Notice About External Links   
-Public Forums   
-Security and Credit Card Use   
+A Notice About Our Advertisers  
+A Notice About External Links  
+Public Forums  
+Security and Credit Card Use  
 Contacting Family Education Network
 
 Family Education Network is a division of Pearson Education, Inc. 
@@ -44,12 +45,12 @@ Family Education Network uses your personal information to tailor the content pr
 
 Family Education Network also collects non-personally identifiable information. Here, no audience members are identified by their personal information -- we are only interested in how Family Education Network looks demographically and statistically. This basic market research allows us to identify the trends, developments, and needs of our audience. Such information may be shared with third parties. 
 
-Family Education Network uses WebTrends Live, a third party service, to collect anonymous visitor data on our network of sites. The WebTrends Live service does not collect any personal information such as names, ages, phone numbers, addresses or e-mail addresses from visitors to any Family Education Network site. Family Education Network uses the WebTrends Live service to collect anonymous visitor information like IP addresses, browser types (such as Internet Explorer or Netscape), referring pages, pages visited and time spent on a particular site. Family Education Network uses the WebTrends Live service to collect this non-personally identifiable information for the following purposes: (1) to provide anonymous statistical analysis of web page traffic patterns; (2) to administer our site and servers; (3) to allow for auditing of our services by third parties; and (4) to improve our services. If you would like to learn more about the WebTrends Live service and to view the complete WebTrends Live privacy statement, please click here: <http://www.webtrendslive.com/privacy_policy.htm>
+Family Education Network uses WebTrends On Demand, a third party service, to collect anonymous visitor data on our network of sites. The WebTrends On Demand service does not collect any personal information such as names, ages, phone numbers, addresses or e-mail addresses from visitors to any Family Education Network site. Family Education Network uses the WebTrends On Demand service to collect anonymous visitor information like IP addresses, browser types (such as Internet Explorer or Netscape), referring pages, pages visited and time spent on a particular site. Family Education Network uses the WebTrends On Demand service to collect this non-personally identifiable information for the following purposes: (1) to provide anonymous statistical analysis of web page traffic patterns; (2) to administer our site and servers; (3) to allow for auditing of our services by third parties; and (4) to improve our services. If you would like to learn more about the WebTrends On Demand service and to view the complete WebTrends On Demand privacy statement, please click here: <https://ondemand.webtrends.com/privacypolicy.asp#PSFV>
 
 We Protect Kids' Privacy:   
 Family Education Network encourages parents and guardians to spend time online with their children. We urge parents to instruct their children to never give out their real names, addresses, or phone numbers without permission when using the Internet. We recognize a special obligation to protect personal information obtained from children. 
 
-As a parent, you've probably done a lot of thinking about protecting your family's privacy on the Internet. We have been thinking and working hard to provide you with the best information and the highest quality interaction on the Internet in an environment that is safe. In compliance with COPPA (the Children's Online Privacy Protection Act), we have adopted the following policies to keep kids safe: 
+As a parent, you've probably done a lot of thinking about protecting your family's privacy on the Internet. We have been thinking and working hard to provide you with the best information and the highest quality interaction on the Internet in an environment that is safe. In compliance with COPPA (the Children's Online Privacy Protection Act), we have adopted the following policies to keep kids safe (there are a few exceptions to these policies as noted below under the heading "Exceptions to Verifiable Parental Consent"): 
 
   1. We will NOT knowingly collect, use, or distribute personally identifiable information from children under the age of 13 without prior verifiable consent from a parent or guardian. 
   2. Personally identifiable information we collect from children under the age of 13 will be used solely by Family Education Network or its agents for internal purposes only and will NOT be sold or otherwise distributed to third parties. 
@@ -64,11 +65,14 @@ As a parent, you've probably done a lot of thinking about protecting your family
 If you have any questions about our Kids' Privacy Policy, please call Family Education Network at: 1-800-927-6006. 
 
 Notification and Verifiable Parental Consent:   
-Before any personally identifiable information is collected, we will do our best to notify the parent or guardian that their child is participating. Notification will include the exact nature and intended use of the information we are collecting, as well as the opportunity for the parent or guardian to prevent the use of the information and the child's participation in the activity. For every child (anyone under 13 years of age) we require the parent or guardian to provide verifiable parental consent such as an email, mail-in letter, fax, or toll-free phone call to Family Education Network. When verifiable parental consent has not yet been obtained, we will use online contact information (such as an email address) only as is appropriate to: 
+Before any personally identifiable information is collected, we will do our best to notify the parent or guardian that their child is participating. Notification will include the exact nature and intended use of the information we are collecting, as well as the opportunity for the parent or guardian to prevent the use of the information and the child's participation in the activity. For every child (anyone under 13 years of age) we require the parent or guardian to provide verifiable parental consent such as an email, mail-in letter, fax, or toll-free phone call to Family Education Network. 
 
-  * Request the name or online contact information of a parent or guardian for the purpose of obtaining verifiable parental consent or providing notification to the parent or guardian; 
-  * Respond directly to the child's request on a one-time basis (for example, to provide assistance with a particular study question), not using that information to re-contact the child for any other purpose; 
-  * Respond more than once directly to a specific request from the child (for example, to satisfy the request for a newsletter subscription), not using that information to re-contact the child for any other purpose. 
+Exceptions to Verifiable Parental Consent:   
+There are few instances where we will NOT get verifiable parental consent, such as:
+
+  * Requesting the contact information of a parent or guardian for the sole purpose of obtaining verifiable parental consent or providing notification to the parent or guardian; 
+  * Collecting a child's contact information solely to directly respond to the child's request on a one-time basis (for example, to provide assistance with a particular study question),. We will not use that information to re-contact the child for any other purpose (we will purge from our system the child's personal information after responding); 
+  * Collecting a child's contact information and the contact information of his/her parent or guardian solely to directly respond more than once to a specific request from the child (for example, to satisfy the request for a newsletter subscription). In this instance, the parent or guardian will be notified that the child made such a request and be informed of the information provided by the child. The parent or guardian will have an opportunity at any time to revoke the child's request (i.e., unsubscribe). We will not use the child's personal information to re-contact the child for any other purpose. 
 
 
 
