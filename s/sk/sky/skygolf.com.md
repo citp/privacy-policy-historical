@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skygolf.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403053647id_/http%3A//www.skygolfgps.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skygolf.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218164736id_/http%3A//www.skygolfgps.com/company/privacy.asp) for the most accurate reproduction.*
 
 # SkyGolf - Privacy Policy
 
-**You Are Here:** [Home](https://web.archive.org/web/20050403053647id_/http%3A//www.skygolfgps.com/) > **Privacy**
+**You Are Here:** [Home](https://web.archive.org/web/20051218164736id_/http%3A//www.skygolfgps.com/) > **Privacy**
 
   
 At SkyHawke Technologies, LLC, ("SkyHawke"), we are committed to protecting the privacy of the information you provide to us. All of the information we collect about you is strictly used to process your orders, secure and maintain your SkyPlayer™ course storage data, and provide a convenient, personalized shopping and product use experience. Please read the additional information below for more details about our privacy policy.
@@ -52,7 +52,7 @@ Top
 
 **How does the SkyGolf website allow customers to update or change the information it collects?**
 
-If at any time you would like to change any information in your account, you may update your account information on our website by logging on with your user name and password, you may e-mail your changes to us at [customerservice@skygolfgps.com](mailto:customerservice@skygolfgps.com), or you may call our Customer Service department during normal business hours. In order for us to process your changes, we must be able to verify your sending email address as your registered email address on our web site. For security reasons, you must also provide us your website user name only in any correspondence to authorize any changes. PLEASE DO NOT PLACE YOUR PASSWORD INFORMATION IN AN EMAIL TO US! A customer service representative will verify your authorization and process your changes as soon as possible. For renewals of our Annual SkyPlayer™ Membership Plans, you may update your electronic payment information at the time of renewal, which is maintained off-line in a highly secured, encrypted, machine readable format only. 
+If at any time you would like to change any information in your account, you may update your account information on our website by logging on with your user name and password, you may e-mail your changes to us at [customerservice@skygolfgps.com](mailto:customerservice@skygolfgps.com) , or you may call our Customer Service department during normal business hours. In order for us to process your changes, we must be able to verify your sending email address as your registered email address on our web site. For security reasons, you must also provide us your website user name only in any correspondence to authorize any changes. PLEASE DO NOT PLACE YOUR PASSWORD INFORMATION IN AN EMAIL TO US! A customer service representative will verify your authorization and process your changes as soon as possible. For renewals of our Annual SkyPlayer™ Membership Plans, you may update your electronic payment information at the time of renewal, which is maintained off-line in a highly secured, encrypted, machine readable format only. 
 
 Top
 
@@ -66,7 +66,7 @@ Top
 
 By using our website, you consent to the collection and use of this information by SkyGolf . If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-If you have any questions about our privacy policy, please contact our Customer Service department from our [Contact webpage](https://web.archive.org/web/20050403053647id_/http%3A//www.skygolfgps.com/company/contact.asp) or at 601.605.2115.
+If you have any questions about our privacy policy, please contact our Customer Service department from our [Contact webpage](https://web.archive.org/web/20051218164736id_/http%3A//www.skygolfgps.com/company/contact.asp) or at (601) 605-6100.
 
 Top
 
