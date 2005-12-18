@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the griffintechnology.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307200428id_/http%3A//www.griffintechnology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the griffintechnology.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218143522id_/http%3A//www.griffintechnology.com/privacy) for the most accurate reproduction.*
 
-# Griffin Technology
+# Privacy Policy - Griffin Technology
 
 Privacy Policy  
 Customer Information Protection Statement 
