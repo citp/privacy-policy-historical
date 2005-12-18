@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartandstroke.ca privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205062913id_/http%3A//ww1.heartandstroke.ca/Page.asp%3FPageID%3D417) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartandstroke.ca privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218073744id_/http%3A//ww2.heartandstroke.ca/Page.asp%3FPageID%3D417) for the most accurate reproduction.*
 
 # Heart and Stroke Foundation of Canada
 
