@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418012319id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218102948id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
 
 # Meetup Privacy Policy Statement - Meetup.com
+
+Revision date: 7/26/2005
 
 Protecting your privacy is a serious matter and doing so is very important to us. Please read this privacy policy statement (the "Policy") to learn more about our privacy policy. This Policy describes the information we collect from you and what may happen to that information, and only applies to such information. This Policy applies to all sites under the meetup.com domain.
 
@@ -13,9 +15,11 @@ We collect the following information about you and your use of our Website, plat
 
 
 
-In addition, we automatically track certain basic information about our users (such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, click patterns, etc.). We use this information to do internal research on our users' usage patterns, demographics, interests and general behavior to better understand and serve you and our community. We do not directly link these types of information with your personally identifiable information. For purposes of this Policy, "personally identifiable information" means any information that could be used to identify your personally (e.g., your email address) or to identify the computer with which you access our Platform.
+In addition, we automatically track certain basic information about our users (such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, click patterns, etc.). We use this information to do internal research on our users' usage patterns, demographics, interests and general behavior to better understand and serve you and our community. We do not directly link these types of information with your personally identifiable information. For purposes of this Policy, "personally identifiable information" means any information that could be used to identify your personally (e.g., your email address).
 
-For our users convenience, we use "cookies" to allow you to enter your password less frequently during a session and to provide for an easier registration process. A "cookie" is a piece of data stored on your computer that is tied to information about you. We do not use cookies for any other purpose (for example, we do not use cookies to monitor your activities or otherwise track information about you). If you configure your browser or otherwise choose to reject the cookies, you may still use our site. However, to best experience our website and platform and most easily use our Platform you must have cookies enabled.
+We currently contract with online partners to help manage and optimize our business and communications. We use the services of a site analytics partner to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use web beacons and cookies provided by our site analytics partner on this site. A "cookie" is a piece of data stored on your computer that is tied to information about you. The type of information collected includes the URL you came from and go to, your browser information, and IP address, and helps us learn how to improve our service. No information shared with our site analytics partner is directly linked to your personally identifiable information. If you wish to opt-out of these website analysis tools, [you may do so here](http://sitecatalyst.omniture.com/privacy/optout.html).
+
+For our users convenience, we also use "cookies" to allow you to enter your password less frequently during a session and to provide for an easier registration process. We do not use cookies for any purpose not described in this Policy. If you configure your browser or otherwise choose to reject the cookies, you may still use our site. However, to best experience our website and platform and most easily use our Platform you must have cookies enabled.
 
 Also, if you post messages in message areas (including the personal introduction section of each topic group) on our website, send us personal correspondence, or if other users or third parties send us correspondence about your activities or postings on our website, we may collect such information and include it in your profile. Your profile is not accessible to other users or third parties other than Meetup personnel.
 
@@ -87,4 +91,4 @@ Email: [privacy@meetup.com](mailto:privacy@meetup.com)
 
 This Privacy Policy is governed by the terms of the Meetup Terms of Service Agreement, including but not limited to Section 17 of such Terms of Service Agreement.
 
-This Privacy Policy is Effective as of October 4,2004.
+This Privacy Policy is Effective as of July 26, 2005.
