@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2bm.biz privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307095335id_/http%3A//www.b2bm.biz/Content/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2bm.biz privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218075923id_/http%3A//www.b2bm.biz/Content/privacy.htm) for the most accurate reproduction.*
 
 # B2B Marketing magazine
 
@@ -15,7 +15,7 @@ To remove all your details from future promotion communication please email [sup
 
 ## Third Parties
 
-We do not sell, trade or rent your e-mail contact address to any third parties. 
+We do not sell, trade or rent your e-mail contact address to any third parties.
 
 ## Voluntary Information
 
@@ -27,7 +27,7 @@ Any information provided by you in connection with any transaction regarding you
 
 ## Changes to Privacy Policy
 
-Changes to this policy will be posted here. 
+Changes to this policy will be posted here.
 
 ## To Alter Your Details
 
@@ -36,4 +36,6 @@ To change any of the contact details we hold about you please e-mail us at [data
 ## Your Comments
 
 Please send any comments about this website or privacy policy to [data@b2bm.biz](mailto:data@b2bm.biz)  
+
+
 Top
