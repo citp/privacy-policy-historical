@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307151422id_/http%3A//www.simpledns.com/policy.asp%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218012155id_/http%3A//www.simpledns.com/policy.asp%3Fprivacy) for the most accurate reproduction.*
 
-# Simple DNS Plus - Windows DNS Server
+# Simple DNS Plus - Privacy Policy
 
 This document details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
 
@@ -43,7 +43,4 @@ This site contains links to other sites. JH Software is not responsible for the 
 **CONTACT US**  
 If you have any additional questions or concerns about our privacy policy, please contact us at [support@jhsoft.com](mailto:support@jhsoft.com)
 
-For more information, please see [Terms of Use](https://web.archive.org/web/20050307151422id_/http%3A//www.simpledns.com/pol-terms.asp)
-
-  
-
+For more information, please see [Terms of Use](https://web.archive.org/web/20051218012155id_/http%3A//www.simpledns.com/policy.asp?terms)
