@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206003355id_/http%3A//www.norada.com/privacy.asp%3Fsite%3DNorada) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218212451id_/http%3A//www.norada.com/privacy.asp%3Fsite%3DNorada) for the most accurate reproduction.*
 
 # ► Business Email Hosting Provider Group Calendar Contact Management Groupware
 
@@ -28,7 +28,7 @@ _Norada Privacy Policy_ **Children.** The Norada™ Service (the "Service") is n
 Norada Corporation  
 Customer Service Department  
 Email: [feedback@norada.com](mailto:feedback@norada.com)  
-Phone: 403.630.9984
+Phone: 403.261.4701
 
 Inquires are processed Monday to Friday from 9am and 5pm MST 
 
