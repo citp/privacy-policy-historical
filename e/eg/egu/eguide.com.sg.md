@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eguide.com.sg privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305075200id_/http%3A//www.eguideglobal.com/sg/contents/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eguide.com.sg privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218161328id_/http%3A//eguideglobal.com/sg/contents/privacy.asp) for the most accurate reproduction.*
 
 # eGuide : eGuide - Disclaimer
 
