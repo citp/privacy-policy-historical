@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the computeractive.co.uk privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206194311id_/http%3A//www.computeractive.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computeractive.co.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218201742id_/http%3A//www.computeractive.co.uk/about/privacy) for the most accurate reproduction.*
 
-# Computeractive - About - Policy
+# Computeract!ve - About - Policy
 
 Introduction
 
@@ -24,7 +24,7 @@ The policy
 
 (8) At all times a recipient of a VNU product and/or service will have the opportunity to amend their contact details and/or to opt in or out of any of the options listed above in points 3, 4, 5 and 6. You can also request, at any time, to have your personal details flagged on the VNU databases to ensure you do not continue to receive such information. We will not actually delete your record from the VNU databases as we would no longer be able to identify you, which could lead to you receiving information from us in the future. To action any of these requests please contact the relevant customer care department of the product/service you subscribe to.
 
-(9) You have the right to be told what personal information we hold about you on our databases. You should write to Mr Simon Allen, VNU Business Publications Ltd, VNU House, 32-34 Broadwick Street, London W1A 2HG. In your letter you must state your full name, your address and all publications and/or services from VNU to which you know you subscribe. A small administration charge of £5.00 will be made for fulfilling this request. 
+(9) You have the right to be told what personal information we hold about you on our databases. You should write to Mr Sean Hayes, VNU Business Publications Ltd, VNU House, 32-34 Broadwick Street, London W1A 2HG. In your letter you must state your full name, your address and all publications and/or services from VNU to which you know you subscribe. A small administration charge of £5.00 will be made for fulfilling this request. 
 
 (10) VNU may make anonymous use of information to help diagnose faults, manage the system and gather broad demographic information about our users in general. This information will be stripped of all details that could identify you personally. For example, we may use IP addresses to help fix performance problems with our server. 
 
@@ -34,7 +34,7 @@ Information collected from site visitors
 
 This statement discloses the privacy policy for the VNU network of sites, which encompasses the following URLs: 
 
-[http://www.accountancyage.com](http://www.accountancyage.com/), [http://www.computeractive.co.uk](http://www.computeractive.co.uk/), [http://www.computercontractor.co.uk](http://www.computercontractor.co.uk/), [http://www.computing.co.uk](http://www.computing.co.uk/), [http://www.financialdirector.co.uk](http://www.financialdirector.co.uk/), [http://www.infomaticsonline.co.uk](http://www.infomaticsonline.co.uk/), [http://www.itweek.co.uk](http://www.itweek.co.uk/), [http://www.iwr.co.uk](http://www.iwr.co.uk/), [http://www.managementconsultancy.co.uk](http://www.managementconsultancy.co.uk/), [http://www.networknews.co.uk](http://www.networknews.co.uk/), [http://www.pcmag.co.uk](http://www.pcmag.co.uk/), [http://www.pcw.co.uk](http://www.pcw.co.uk/), [http://www.vnunet.com](http://www.vnunet.com/), [http://vnuservices.co.uk](http://vnuservices.co.uk/), [http://www.webactivemagazine.co.uk](http://www.webactivemagazine.co.uk/)   
+[http://www.accountancyage.com](http://www.accountancyage.com/), [http://www.accountancyagejobs.com](http://www.accountancyagejobs.com/), [http://www.activehome.co.uk](http://www.activehome.co.uk/), [http://www.computeractive.co.uk](http://www.computeractive.co.uk/), [http://www.computercontractor.co.uk](http://www.computercontractor.co.uk/), [http://www.computing.co.uk](http://www.computing.co.uk/), [http://www.computingcareers.co.uk](http://www.computingcareers.co.uk/), [http://www.financialdirector.co.uk](http://www.financialdirector.co.uk/), [http://www.infomaticsonline.co.uk](http://www.infomaticsonline.co.uk/), [http://www.itweek.co.uk](http://www.itweek.co.uk/), [http://www.iwr.co.uk](http://www.iwr.co.uk/), [http://www.managementconsultancy.co.uk](http://www.managementconsultancy.co.uk/), [http://www.networknews.co.uk](http://www.networknews.co.uk/), [http://www.pcmag.co.uk](http://www.pcmag.co.uk/), [http://www.pcw.co.uk](http://www.pcw.co.uk/), [http://www.vnunet.com](http://www.vnunet.com/), [http://www.vnuservices.co.uk](http://www.vnuservices.co.uk/), [http://www.webactivemagazine.co.uk](http://www.webactivemagazine.co.uk/)   
 and subdomains of these websites. 
 
 This statement does not extend to sites that are linked to VNU sites but which are not part of the VNU network. You should refer to those sites for further details about their use of your personal information. 
@@ -47,8 +47,8 @@ VNU uses "WebTrends Live" to analyse traffic to the VNU site. WebTrends Live doe
 
 In the course of serving advertisements to VNU sites, a third party advertiser may place or recognise a unique cookie on your browser, but it will not collect any personally identifiable information about you. VNU does not have control over the collection of information for advertising purposes. For more Information regarding DoubleClick's privacy policy please [**click here**](http://www.doubleclick.net/us/corporate/privacy). 
 
-VNU is not responsible for the content or the privacy policies of third party web sites linked to this site. Dynamic Logic (Europe) will, from time to time, use tags on VNU websites to enable branding research on behalf of Media Contacts and Microsoft. This tag will drop cookies and invite users to complete a survey through a pop-up window. For more information, please contact Matthew Beck, **[matthew_beck@vnu.co.uk](mailto:matthew_beck@vnu.co.uk)**. 
+VNU is not responsible for the content or the privacy policies of third party web sites linked to this site. Dynamic Logic (Europe) will, from time to time, use tags on VNU websites to enable branding research on behalf of Media Contacts and Microsoft. This tag will drop cookies and invite users to complete a survey through a pop-up window. For more information, please contact Matthew Gerry, tel. 020 7316 9000. 
 
 VNU reserves the right to change this privacy policy at any time by posting changes on this page. It is your responsibility to refer to this privacy policy on accessing this site. VNU will however draw your attention to any material changes to this privacy policy by placing a notice on the site.
 
-If you have any general questions or wish to report a technical error, please contact [feedback@vnunet.com](mailto:feedback@vnunet.com)
+If you have any general questions or wish to report a technical error, please visit [Feedback](https://web.archive.org/feedback/).
