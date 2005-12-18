@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528011642id_/http%3A//www.cfainstitute.org/support/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218125138id_/http%3A//www.cfainstitute.org/support/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ These organizations include, but are not limited to:
 
 
 
-By becoming a Member of CFA Institute or a candidate in the CFA Program, you have consented to the release of information related to your candidacy or membership to your employer and certain government agencies. If you apply to become a member or are a member of CFA Institute Member Societies, you have consented to the release of information related to your membership to the Member Society to which you applied.
+By becoming a Member of CFA Institute or a candidate in the CFA Program, you have consented to the release of information related to your candidacy or membership to your employer, Member Societies, and certain government agencies. If you apply to become a member or are a member of CFA Institute Member Societies, you have consented to the release of information related to your membership to the Member Society to which you applied.
 
 **USER NAME AND PASSWORD**
 
@@ -71,7 +71,7 @@ By phone to:
 By e-mail to:  
 [optout@cfainstitute.org](mailto:optout@cfainstitute.org)  
 
-CFA Institute will not be able to fulfill some requests if CFA Institute is not able to release your personal information to a third party. For example, in order to process a publication order, CFA Institute must send your credit card information to a credit card processing company. Also, Level III candidates and members of CFA Institute must allow CFA Institute to transfer their personal information to Member Societies.
+CFA Institute will not be able to fulfill some requests if CFA Institute is not able to release your personal information to a third party. For example, in order to process a publication order, CFA Institute must send your credit card information to a credit card processing company. Also, all CFA candidates and members of CFA Institute must allow CFA Institute to transfer their personal information to Member Societies.
 
 To be removed from the CFA Advantage Newsletter mailing list, please send a request to [advantage@cfainstitute.org](mailto:advantage@cfainstitute.org).
 
@@ -87,9 +87,7 @@ By telephone:        
 Note:  For your protection, you will have to provide two pieces of identifying information. 
 
 Via our Web Page:  
-[Information Update Form for Members](https://web.archive.org/memservices/private/memdirectory/programs/update_user.asp)   
-[Information Update Form for Candidates](https://web.archive.org/canservices/private/programs/update_user.asp)
-
+Information Update Form for Members and Candidates   
 *requires a valid username and password for our Member/Candidate Services area. 
 
 By mail to:  
@@ -112,4 +110,4 @@ Other companies linked to CFA Institute websites may collect information about y
 
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via e-mail. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases where we post the notice we will also e-mail users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-Effective on 19 July 2004.
+Effective on 11 July 2005.
