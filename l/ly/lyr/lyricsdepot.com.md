@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsdepot.com privacy policy that was archived on 2005-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050224031213id_/http%3A//www.lyricsdepot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsdepot.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218093225id_/http%3A//www.lyricsdepot.com/privacy.html) for the most accurate reproduction.*
 
 # Lyrics Depot - Over 50,000 Free Song Lyrics
 
