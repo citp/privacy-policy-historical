@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiotv.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204023737id_/http%3A//www.whiotv.com/station/1920899/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiotv.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218222738id_/http%3A//www.whiotv.com/station/1920899/detail.html) for the most accurate reproduction.*
 
 # WHIOTV.com - WHIO-TV - Privacy Policy
 
