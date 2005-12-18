@@ -1,18 +1,29 @@
-> *The following text is extracted and transformed from the poz.com privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019015222id_/http%3A//www.poz.com/index.cfm%3Fp%3Dsub%26n%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poz.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218092032id_/http%3A//poz.com/your_privacy.shtml) for the most accurate reproduction.*
 
-# POZ
+# POZ - POZ Magazine - POZ.com - HIV - AIDS - HIV AIDS
 
-| 
+  
+POZ.com Privacy Policy   
 
-POZ Privacy Policy   
 
+CDM Publishing, LLC, D.B.A. as Smart + Strong and POZ ("Smart + Strong" or "POZ") operates the POZ.com Web site. 
 
-The privacy of our readers is important to POZ. We understand that visitors to POZ.com need to be in control of their personal information. Therefore, the following is the POZ Internet Privacy Policy: 
+The privacy of the users of POZ.com is important to POZ. 
 
-You do not have to give us personal information to visit our sites. If you choose not to provide personal information, you can still visit POZ.com pages. We may collect personally identifiable information (name, e-mail address, physical address, and other unique identifier) only if specifically and knowingly provided by you. Personally identifying information collected will be used only in connection with POZ.com, or for such purposes as are described at the point of collection. POZ.com performs analyses of user behavior in order to measure customer interest in the various areas of our sites. POZ.com also uses list serves to send out information and change notices to subscribed users of our sites. POZ.com will protect the personal information that you share with us. POZ.com does not disclose, give, sell, or transfer any personal information to third parties. If we share demographic information with third parties, we will give them aggregate information only. While POZ.com will make every attempt to protect the personal information that you share with us, electronic mail is not secure against interception. If your communication is very sensitive, you may want to send it by postal mail instead. 
+Please read the following POZ Privacy Policy: 
 
-POZ.com may occasionally update this policy. Notice of revisions will be posted here. We want to be very clear: We will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information. This Privacy Policy should be read in conjunction with the Terms of Use for our site. 
+This privacy policy governs how POZ treats personally identifiable information (such as your name, e-mail address, physical address, and other information about you that is not publicly available) that POZ receives and collects in connection with your use of the POZ.com Web site and POZ Personals, a dating service for HIV positive people, and other services that POZ may offer, such as, bulletin boards and chat rooms, on POZ.com (the "Service"). POZ may update this policy from time to time by posting a notice of such update on POZ.com or by notifying you directly. 
 
-POZ reserves the right to share information you provide (including any identifying information you provide) with legal authorities if it is, in our sole opinion, necessary to investigate, prevent, or take action regarding suspected fraud, situation involving threats or potential harm to the physical safety of any person, or if required by law (such as if required by a subpoena, court orders or other legal means). 
+You will need to provide personally identifiable information in order to register for the Service. 
 
-| 
+Personally identifiable information will be used by POZ only as provided below or for the following purposes: to contact you; to fulfill your requests in connection with the Service or POZ.com, such as for products or services; to match you with another user on POZ Personals; to perform analyses of user behavior in order to measure customer interest in the various areas of POZ.com; or for such purposes as are described at the point of collection. POZ uses list services to send out information and change notices to users. While POZ only uses list services that it believes are responsible, it will not be liable for any breach of security or for any other action by such list services. 
+
+POZ does not knowingly collect personally identifiable information from a child under the age of 13.
+
+POZ uses reasonable precautions to keep secure all personally identifiable information that you share with us. However, e-mail is not secure against interception. If your communication is very sensitive, you may want to send it by postal mail instead. If we share demographic information with third parties, we will give them aggregate information only. POZ does not disclose, give, sell, lease or transfer personally identifiable information to third parties, except to provide products or services that you request, with your prior consent, or, in POZ's sole and absolute discretion, as follows: as required by law, such as to respond to subpoenas, or court, administrative, or governmental orders; to protect the rights of POZ; in connection with possible breaches of POZ?s terms of use; in connection with claims that the rights of third parties have been violated; or in connection with possible illegal activity, misrepresentation, fraud or harm to any person. 
+
+POZ uses "cookies," pieces of data stored on users' hard drives for record keeping purposes. Cookies can make the POZ.com Web site and the Service more useful by storing information about the Users preferences. 
+
+If you have questions about this Privacy Policy you can contact us at [personals@poz.com](mailto:personals@poz.com). 
+
+[Click here to see the POZ.com Terms of Use](https://web.archive.org/termsofuse.shtml)
