@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgekatsoudas.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406030230id_/http%3A//www.frankensteinmarketing.com/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgekatsoudas.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218135503id_/http%3A//www.frankensteinmarketing.com/pp.htm) for the most accurate reproduction.*
 
 # Privacy Policy (Legal Insurance)
 
