@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the propertyinvesting.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624112130id_/http%3A//www.propertyinvesting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyinvesting.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218013533id_/http%3A//www.propertyinvesting.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PropertyInvesting.com
 
 PropertyInvesting.com takes your privacy seriously, which is why we have created the following policy for your protection and security. Please read it carefully. 
 
-####  What This Privacy Policy Covers 
+###  What This Privacy Policy Covers 
 
 This Privacy Policy ("The Policy") covers PropertyInvesting.com's treatment of personally identifiable information that PropertyInvesting.com collects when you are on the PropertyInvesting.com site, and when you use PropertyInvesting.com's services. 
 
@@ -60,13 +60,8 @@ You may change or update the information you have supplied PropertyInvesting.com
 
 Every effort is made to keep your information private and away from hackers. However, it is not possible for us to guarantee your privacy. You should weigh up the risk that your details will be misused by hackers with the benefit of receiving the great information that this site has to offer. 
 
-####  Changes to this Privacy Policy 
+###  Changes to this Privacy Policy 
 
 PropertyInvesting.com may edit this policy from time to time. If we make any substantial changes we will notify you by posting a prominent announcement on our pages. 
 
-####  Questions or Suggestions 
-
-If you have questions or suggestions then please e-mail us at [admin@propertyinvesting.com](mailto:admin@propertyinvesting.com). 
-
-This article reproduced from http://propertyinvesting.com/privacy.html with permission.  
-© Copyright 2001-2004. PropertyInvesting.com Pty Ltd. All rights reserved. 
+[](http://www.propertyinvesting.com/sima/click.php?id=88)
