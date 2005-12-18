@@ -1,57 +1,73 @@
-> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625025251id_/http%3A//www.newcars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218192445id_/http%3A//newcars.com/privacy.php) for the most accurate reproduction.*
 
 # NewCars.com Privacy Policy
 
 Introduction
 
-Your privacy is important to us. By participating in the Better Business Bureau's [BBBOnLine Privacy Program](https://web.archive.org/rd.php?http://www.bbbonline.org/cks.asp?id=103012218215929215!!m_id=800&l_id=105&zip=&model_id=0&detid=999), we have made a commitment to meet the program's strict requirements regarding how we treat your information.
+Welcome to NewCars.com (the “Site”). Your privacy is important to us. By participating in the Better Business Bureau's [BBBOnLine Privacy Program](https://web.archive.org/rd.php?http://www.bbbonline.org/cks.asp?id=103012218215929215!!m_id=800&l_id=105&zip=&model_id=0&detid=1001), we have made a commitment to meet the program's strict requirements regarding how we treat your information.
 
-NewCars.com is committed to online data security. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available through a link on all of our pages.
+In connection with this commitment, we provide this statement explaining our online information practices, To make this notice easy to find, we make it available through a link on all of our pages.
 
-The Information We Collect
+Collection of Information 
 
-This notice applies to all information collected or submitted on the NewCars.com Web site. On some pages, you can request quotes and register to be contacted by NewCars.com affiliates. The types of personal information collected on these pages are:
+The Site currently collects personally identifiable information in one of two ways: (1) through your voluntary submission of a quote request form or (2) through your voluntary submission of a “contact us”, “get more information“, or other similar form available on the Site. When you request a quote, the types of information that we collect in conjunction with a quote request may include your name, address, phone number, e-mail address and information regarding the particular vehicle(s) that you are interested in. You must provide all required fields of information for your request to be processed. The types of information we collect on the “contact us”, “get more information”, or other similar form may include your name, dealership name and address, phone number, and email address.
 
-> Name  
->  Address  
->  E-mail address  
->  Phone number  
->  Car preference information
+The Site also passively collects information about you through the use of cookies and other technical means. Cookies are small text files that reside on your computer’s hard drive. If you do not wish to accept cookies, you may configure your browser to reject them, but certain features of the Site may not function properly or at all as a result. In addition, our Web servers automatically collect information about your computer and the Web browser that you are using, including your computer's Internet Protocol (“IP”) address.
 
-An individual must disclose some personally identifiable information to receive a valid quote and/or requested information. Without this personal information, NewCars.com is unable to fulfill the request for a quote or other requested information.
+How Our Quote Request Process Works
 
-Qualified Dealers and Other Third Parties
+When you fill out our quote request form, we match you with dealers in our affiliated network located in your area. We then transfer your name, phone number, street address, e-mail address and any additional information you provide to these affiliated dealers. If we cannot find an affiliated dealer in your area, we transfer your information to a third-party provider, which will process your request through its own dealer network. In either case, a dealer representative should contact you by phone or e-mail to discuss your car quote request. After the initial contact or during any other subsequent contact, you may inform the dealer you no longer wish to be contacted by him or her. It is solely the dealer’s responsibility to comply with your request. Similarly, if we transfer your information to a third-party provider in order to carry out your request, you may also be contacted by that provider. You may inform the third-party provider you no longer wish to be contacted. It is solely the third-party provider's responsibility to comply with your request.
 
-The NewCars.com car referral service uses a national network of high-quality dealers. They are dedicated to delivering competitive, haggle-free pricing, fast turnaround and excellent service. Approximately 90% of quote requests will be collected by NewCars.com. In areas where NewCars.com does not have any dealer coverage, you will be redirected to our affiliates' sites: Dealix (InvoiceDealers), JumpStart, AutoBuyingUSA or AutoNation.
+Use and Sharing of Information
 
-In this case, the previously listed affiliates will collect personally identifiable information from you and use this information according to their own privacy and security policies, which can be further evaluated on [Dealix](http://invoicedealers.com/PrivacyPolicy.asp), JumpStart, [AutoBuyingUSA](http://www.autobuyingusa.com/privacypolicy.html) and [AutoNation](http://autonation.com/Corporate/Default.asp?Page=Privacy).
+We may use and/or disclose personally identifiable information you submit through the Site in the following ways:
 
-Our Commitment to Data Security
+1\. Requests  
+We may use and disclose personally identifiable information as necessary to carry out your requests. For example, if you submit a quote request, we may share the personally identifiable information that you provide in the manner described above in the “How Our Quote Request Process Works” paragraph.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Should you wish to access, review, update or correct all your personally identifiable information that we collected online, please e-mail us at [info@newcars.com](mailto:info@newcars.com).
+2\. Reporting  
+We may use and disclose personally identifiable information to provide various types of reporting to the affiliated dealers and/or other third-party providers that we submit your quote requests to. In those instances, those parties would have already received such information.
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows an error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. We use this procedure to better safeguard your information.
+3\. Third Party Sales Representatives  
+We use third party sales representatives, including our affiliated newspaper and broadcast partners, to sign up affiliated dealers in certain areas. In the course of working with these affiliated dealers, these Sales Representatives may have access to the personally identifiable information that you provide.
 
 | 
 
-The Way We Use Information
+4\. Communications  
+We may use personally identifiable information to communicate with you regarding our services and other services that may be of interest to you. For example, when you submit a quote request, you may receive the following e-mail notifications from us: (1) if your car quote request was processed successfully, we will give you information about the affiliated dealer(s) to whom we sent your request ; (2) if we cannot find an affiliated dealer that is able to fulfill your request, we will give you information about the third-party provider to whom we sent your request ; and (3) if your car quote request could not be fulfilled by an affiliated dealer or a third-party provider, we will refer you to one of our online partners. We, and in some instances, our Sales Representatives, also may contact you to learn more about your experiences in using the Site and our service. With respect to any commercial e-mail marketing from us, you will have the opportunity to unsubscribe from such communications at any time.
 
-We use the information you provide about yourself when requesting a quote only to complete that particular request. We do not share this information with outside parties except to the extent necessary to complete your request.
+5\. Service Providers  
+We may disclose personally identifiable information to third-party agents, consultants, and contractors that perform services on our behalf, but only for such purposes.
 
-We use return e-mail addresses to answer the e-mail we receive and to inform you about new additions to our Web site. Such addresses are not used for any purpose other than that for which they were submitted and are not shared with outside parties.
+6\. Legal Reasons  
+We may disclose personally identifiable information to third parties: (a) when required by law or legal process, (b) to investigate illegal activity or unauthorized use of Site, or (c) in connection with the sale of all or a part of our business.
 
-The collected personal identification information is used for the purpose it was submitted for and NewCars.com's own marketing. At the first time of any first marketing contact between NewCars.com and the prospect, NewCars.com offers individuals a choice as to whether or not they would like to receive marketing in form of newsletters, etc. from NewCars.com.
+With respect to information collected passively through technical means, we use this information for a variety of reasons, including but not limited to, Site administration, troubleshooting, performing statistical analyses of user behavior, and for development purposes. For example, cookies may be used to measure traffic, collect statistical information (such as which pages of the Site are visited most often by users) and to make your visit more pleasant (by remembering who you are when you return to the Site and by pre-populating forms on the Site with your information so you don’t have to re-type it).
 
-We use non-identifying and aggregate information to better design our Web site and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our Web site, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+In addition to the practices described above, we reserve the right to use and share with any third party non-personally identifying information (in aggregate or other form) collected through your use of the Site for any reason. 
 
-We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described previously without also providing you with an opportunity to opt-out or otherwise prohibit such unrelated uses.
+Although we take steps to help prevent the misuse of your information, after any information is provided to third parties, we do not and cannot control their subsequent use or disclosure of such information and we are not responsible for their use. 
 
-Finally, the collected personally identifiable information is never shared with outside parties or corporate affiliates with different privacy notices.
+Accessing or Changing Information
 
-Our Commitment to Children's Privacy
+If you wish to access, verify the accuracy of, correct, or change the personally identifiable information you have submitted via the Site, please contact us via [e-mail](https://web.archive.org/mailer.php). To protect your privacy, we may take reasonable steps to verify your identity before granting access or making corrections.
 
-Protecting the privacy of the very young is especially important to us. For that reason, we never collect or maintain information on our Web site from those we actually know are under 16. No part of our Web site is structured to attract anyone under 16.
+Security
 
-How to Contact Us
+We have implemented mechanisms to help keep your personally identifiable information secure in our databases. For example, we limit internal access to such information only to those of our authorized personnel who need such access to perform operations associated with the performance or maintenance  of this Site. Despite these precautions, however, we cannot and do not guarantee absolute security for the information we store or the information you transmit through the Site. Please note that information transmitted through e-mail and Web site forms on this Site is not secure from access by third parties.
 
-Should you have other questions or concerns about these privacy policies, please do not hesitate to [contact us](https://web.archive.org/mailer.php).
+Children's Guidelines
+
+This Site is not directed to, or intended for use by, individuals under the age of 18, and we do not knowingly collect or use any personal information from children younger than 13 years old.
+
+Links
+
+The Site contains links to other Web sites. We are not responsible for the privacy practices of Web sites that are linked to or from this Site. Use of any personally identifiable information provided to any such Web site will be governed by that Web site's privacy statement. 
+
+Notification of Changes 
+
+If this privacy statement materially changes, the new privacy statement will be posted on the Site and identified as “Updated”. Your continued use of Site after such changes have been posted shall signify acceptance of the revised privacy statement.
+
+Questions
+
+If you have any questions about this privacy statement, please [e-mail us](https://web.archive.org/mailer.php).
