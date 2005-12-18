@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the securenetshop.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403185747id_/http%3A//www.securenetshop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securenetshop.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218135627id_/http%3A//www.securenetshop.com/privacy.htm) for the most accurate reproduction.*
 
 # Securenetshop - shopping carts software, free merchant accounts, cart
 
 * * *
-
-Privacy Policy
 
 SecureNetShop.com, LLC ("SecureNetShop.com") is committed to respecting and protecting the privacy of visitors to our web site as well as the privacy of our actual customers. 
 
