@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403203912id_/http%3A//www.tnt.tv/title/display/0%2C%2C6620%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218231531id_/http%3A//www.tnt.tv/title/display/0%2C%2C6620%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -127,7 +127,7 @@ back to top
 
 **Third-Party Ad Servers**
 
-We and our advertisers may use third parties to serve or present the ads that appear on our site and to conduct research about the advertisements. Below is a representative list of such third parties and a link to their privacy notices. For more information, click on the links below. For more information about third-party ad servers generally, []()[click here](http://tntphp.phpwebhosting.com/link.php?url=http://www.networkadvertising.org&title=O-Privacy-Network_Advertising). 
+We and our advertisers may use third parties to serve or present the ads that appear on our site and to conduct research about the advertisements. Below is a representative list of such third parties and a link to their privacy notices. For more information, click on the links below. For more information about third-party ad servers generally, [click here](http://tntphp.phpwebhosting.com/link.php?url=http://www.networkadvertising.org&title=O-Privacy-Network_Advertising). 
 
 Atlas DMT: [http://www.networkadvertising.org](http://www.networkadvertising.org/) or <http://www.atlasdmt.com/privacy/>   
 Bluestreak: <http://www.bluestreak.com/web/aboutus_privacypolicy.htm>   
