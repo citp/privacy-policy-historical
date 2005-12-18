@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sqlmanager.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305225521id_/http%3A//sqlmanager.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmanager.net privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218185350id_/http%3A//www.sqlmanager.net/en/privacy) for the most accurate reproduction.*
 
-# SQLManager | Privacy Policy
+# SQL Manager | Privacy Policy
 
 Protecting your privacy is important to EMS. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the EMS Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information. 
 
@@ -39,7 +39,7 @@ EMS is committed to protecting the security of your personal information. We use
 We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser. 
 
 **Access to Your Personal Information/Opt-Out Choices**  
-You have access to the information we have about you. To review and update your personal information logon to your Member account and choose [Change My Profile](https://web.archive.org/member/profile).
+You have access to the information we have about you. To review and update your personal information logon to your Member account and choose [Change My Profile](http://www.sqlmanager.net/member/profile).
 
 **Collecting Other Personal Information**  
 When you browse EMS’s website, you are able to do so anonymously. Generally, we don’t collect personal information when you browse – not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using. 
@@ -71,5 +71,5 @@ The EMS Customer Privacy Policy is subject to change at any time. We encourage y
 **Contact Information**  
 EMS welcomes your comments regarding this privacy policy, please contact us at [privacy@SQLManager.net](mailto:privacy@sqlmanager.net)
 
-Last updated November 2004  
-© 1999-2004 EMS Database Management Solutions, Inc. All rights reserved.
+Last updated November 2005  
+© 1999-2005 EMS Database Management Solutions, Inc. All rights reserved.
