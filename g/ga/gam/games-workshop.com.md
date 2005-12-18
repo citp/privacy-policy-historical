@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games-workshop.com privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615214058id_/http%3A//www.games-workshop.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games-workshop.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218022506id_/http%3A//games-workshop.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Games Workshop PLC - Legal
 
