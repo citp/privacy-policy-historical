@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleantech.com privacy policy that was archived on 2005-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050321044608id_/http%3A//cleantech.com/index.cfm%3FpageSRC%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleantech.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218053307id_/http%3A//cleantech.com/index.cfm%3FpageSRC%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Cleantech Venture Network - Privacy Policy
 
@@ -20,11 +20,11 @@ Cleantech Venture Network ("us," "we" "our" or "Cleantech") created this Web Sit
 
 **3\. Sharing of Personal Information**
 
-> We share Demographic Data with advertisers and other third parties only on an aggregate basis. We may share Contact Data with other companies who may want to send you information about their products or services. If you do not want us to share your Contact Data with any third parties, please email us at <[website@cleantechventures.com](mailto:website@cleantechventure.com)>. 
+> We share Demographic Data with advertisers and other third parties only on an aggregate basis. We may share Contact Data with other companies who may want to send you information about their products or services. If you do not want us to share your Contact Data with any third parties, please email us at <[website@cleantech.com](mailto:website@cleantech.com)>. 
 
 **4\. User Choice Regarding Collection, Use and Distribution of Personal Information**
 
-> You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Site that require your Personal Information. If you do not wish to receive information and promotional material from us or from some of our partners please email us at <[website@cleantechventures.com](mailto:website@cleantechventure.com)>. 
+> You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Site that require your Personal Information. If you do not wish to receive information and promotional material from us or from some of our partners please email us at <[website@cleantech.com](mailto:website@cleantech.com)>. 
 
 **5\. Confidentiality and Security of Personal Information**
 
@@ -32,11 +32,11 @@ Cleantech Venture Network ("us," "we" "our" or "Cleantech") created this Web Sit
 
 **6\. User Ability to Access, Update and Correct Personal Information**
 
-> In order to ensure that all of your personal information is correct and up-to-date, at any time you may visit your personal profile on our Site. Through your personal profile you may: (a) review and update your Personal Information that we have already collected. 
+> In order to ensure that all of your personal information is correct and up-to-date, at any time you may visit your personal profile on our Site. Through your personal profile you may review and update your Personal Information that we have already collected. 
 
 **Lost or Stolen Information**
 
-> You must promptly notify us if your credit card, user name or password is lost, stolen or used without permission. In such an event, we will cancel that credit card number, user anme or password and update our records accordingly. 
+> You must promptly notify us if your credit card, user name or password is lost, stolen or used without permission. In such an event, we will cancel that credit card number, username or password and update our records accordingly. 
 
 **8\. Other Limits to Your Privacy**
 
