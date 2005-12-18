@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bdo.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306003205id_/http%3A//www.bdo.com/privacy/safeharbor.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdo.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218200510id_/http%3A//www.bdo.com/privacy/safeharbor.asp) for the most accurate reproduction.*
 
 # BDO Seidman, LLP - EU Safe Harbor Privacy Policy
-
-  | 
 
 ### BDO Seidman, LLP Safe Harbor   
 Data Privacy Statement
@@ -74,5 +72,3 @@ We are committed to following the Principles for all personal information within
 Questions, comments or complaints about BDO's Safe Harbor Data Privacy Statement or data collection and processing practices can be e-mailed to [privacyoffice@bdo.com](mailto:privacyoffice@bdo.com), mailed to Privacy Office, BDO Seidman, LLP, 233 North Michigan Avenue, Chicago, IL 60601. In the event that a complaint is not satisfactorily addressed by BDO within a reasonable time frame, you may contact the Federal Trade Commission at [www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm), or via phone at 202-382-4357. 
 
 EFFECTIVE DATE: January 14 2005
-
-|  
