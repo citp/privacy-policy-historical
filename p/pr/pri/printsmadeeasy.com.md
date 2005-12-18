@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printsmadeeasy.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402020028id_/http%3A//www.printsmadeeasy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printsmadeeasy.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218110018id_/http%3A//www.printsmadeeasy.com/privacy.php) for the most accurate reproduction.*
 
 # PrintsMadeEasy - Privacy & Security
 
@@ -15,16 +15,13 @@ PrintsMadeEasy logs IP addresses (your unique Internet address) for administrati
 PrintsMadeEasy uses session cookies to keep track of information during your visit. Permanent cookies are not stored on your computer so we can't remember you after you leave the site. 
 
 **User Information**   
-During registration we require that you supply personal information like your name and e-mail address. With your permission, we may send you an e-mail newsletter. You can unsubscribe to this option by editing the preferences in [My Account](https://web.archive.org/web/20050402020028id_/http%3A//www.printsmadeeasy.com/myaccount.php?PHPSESSID=261f3365dfbb0f18c746f5178e174a2e). 
+During registration we require that you supply personal information like your name and e-mail address. With your permission, we may send you an e-mail newsletter. You can unsubscribe to this option by editing the preferences in [My Account](https://web.archive.org/web/20051218110018id_/http%3A//www.printsmadeeasy.com/myaccount.php). 
 
 **Sharing Information**   
 PrintsMadeEasy has a strict policy against sharing or selling your personal information, except when the law requires it. 
 
 **Links to Other Sites**   
 This site may contain links to other Web sites. PrintsMadeEasy is not responsible for the privacy or practices on these sites. 
-
-**Tell a Friend**   
-If a user chooses to use our referral service for notifying a friend about this site, we collect the friend's email address and the user's name. After the email invitation letter is sent, the personal information is discarded. 
 
 **Notification of Changes**   
 Should PrintsMadeEasy decide to change our policy concerning the use of your personal information, we will post all changes in this privacy policy 30 days prior to the date the change goes into effect. 
