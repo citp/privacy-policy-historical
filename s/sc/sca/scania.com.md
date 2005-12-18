@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scania.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403222633id_/http%3A//www.scania.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scania.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219002258id_/http%3A//www.scania.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -23,6 +23,3 @@ Among other things, Scania uses cookies to record visitor statistics and to enab
 You can set your computer to block cookies. However, this means that we cannot guarantee that all areas of our web site will function as intended. The procedure for blocking cookies will depend on what browser you are using. Access ’Help’ or the appropriate menu in your browser for instructions.
 
 Scania may at any time revise the terms of this Privacy Statement by updating it.
-
-  
-
