@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the citizen.org privacy policy that was archived on 2005-02-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050205185548id_/http%3A//www.citizen.org/about/articles.cfm%3FID%3D6272) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citizen.org privacy policy that was archived on 2005-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051218213928id_/http%3A//www.citizen.org/about/articles.cfm%3FID%3D6272) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	
@@ -20,44 +20,9 @@ function openWindow(url) {
 
 <meta name="keywords" content="privacy policy, privacy">
 
-<script language="JavaScript" type="text/javascript">
-<!--
-// Javascript by Alexander Nietzen M... alex@webeditors.com
-// Open Source
 
+<script src="/__utm.js" type="text/javascript"></script>
 
-// validate the form area to make sure that they fill out all fields.
-function VALIDATE_FORM_FIELDS(myForm) {
-if (myForm.email.value == "") {
-	alert("Please enter a valid e-mail address.");
-	myForm.email.focus();
-	return false;
-}
-
-
-
-else {
-	
-		var email_pattern = /^(\w|-|\.)+\@([a-zA-Z0-9]|-)+\.(\w|\.)+/;// checks for a word character or '-' one or more times OR '.' followed by an '@' followed by [a-z] [A-Z] or [0-9] or '-' one or more times followed by a "." followed by a word character or "." one for more times.
-		var email_result;
-		email_result = email_pattern.exec(myForm.email.value);
-		if (email_result) {
-			
-		}
-		else  {
-			alert("That is not a valid e-mail address.\nPlease try again.");
-			myForm.email.focus();
-			return false;
-		}
-	
-// if everything passes, submit the form.
-	return true;
-}
-
-}//close function
-
-//-->
-</script> 
 
 <link rel="stylesheet" href="/includes/styles.css" type="text/css">
 
@@ -219,7 +184,6 @@ function  _CF_checkCFForm_1(_CF_this)
 					</option><option value="112">Auto Safety 
 					</option><option value="113">California 
 					</option><option value="114">Texas 
-					</option><option value="115">Worst Pills 
 			</option></select>
 
 		<div style="margin-left: 10px;"><span class="smalllefttext">For Keyword(s)</span><br>
@@ -236,12 +200,15 @@ function  _CF_checkCFForm_1(_CF_this)
 		
 		
 		
+		
 		<img src="/includes/images/email.gif" width="174" height="23" alt="Email Signup" border="0">
-		<form action="/email/index.cfm" method="post" onsubmit="return VALIDATE_FORM_FIELDS(this);"><p class="issue"><strong>Keep up with Public Citizen through<br> your E-mail!<br></strong>
-		<input type="text" name="email" size="12" style="font-size:10px" maxlength="75">
-		<input type="submit" value="GO!" style="background-color: transparent; font-size= 8pt; font-weight:bold;">
-		<input type="hidden" name="divisionID" value="101">
-		</p> </form>
+		<form action="http://action.citizen.org/signUp.jsp" method="post" name="email_signup" id="email_signup">
+<div class="issue"><strong>Be a Voice for Democracy<br><br>Sign Up for the Public Citizen Action Network</strong></div>
+<br>
+<br>
+<div align="center"><input type="submit" value="Sign up now!" class="button"></div>
+<br>
+</form>
 		
 			
 		</td>
