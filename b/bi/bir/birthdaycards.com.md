@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2005-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050223105138id_/http%3A//www.birthdaycards.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218040325id_/http%3A//www.birthdaycards.com/info/privacy.html) for the most accurate reproduction.*
 
 # Birthday Cards.com - FREE Greeting Cards for All Occasions - Reminders, Address Book, Christmas, Birthdays, Holidays
 
@@ -10,7 +10,7 @@ Darien, CT 06820
 
 (203) 604-8094 (Fax) 
 
-[cs1@birthdaycards.com](mailto:cs1@birthdaycards.com)
+[Customer Support](https://web.archive.org/main/cs.mod)
 
 BirthdayCards.com has a strict privacy policy. All confidential information requested from site members is used for internal purposes only. We will not sell, rent, lease, or give your information to any third party without your consent. If you provide us with the contact information for a third party , for example giving us the email address of a friend with the intent of us sending them an online greeting card, we will not contact that person for any other reason without your permission. 
 
