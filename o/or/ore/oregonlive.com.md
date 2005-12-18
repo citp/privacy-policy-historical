@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403172714id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218141312id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.*
 
 # OregonLive.com: Privacy Policy
 
@@ -74,6 +74,11 @@ INSIDE
   
   
   
+| **FROM OUR ADVERTISERS**  
+---  
+>>   
+>>    
+>>   
   
   
 
