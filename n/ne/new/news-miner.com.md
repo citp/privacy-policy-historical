@@ -1,27 +1,20 @@
-> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404102200id_/http%3A//www.news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218203438id_/http%3A//www.news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
 
-# News-Miner - Privacy Policy
+# News-Miner - Privacy policy
 
-April 04, 2005   
-Fairbanks, AK
-
-| [Home Page](https://web.archive.org/Stories/0,1413,113%257E7250%257E,00.html)  
+| [Home page](https://web.archive.org/Stories/0,1413,113%257E7250%257E,00.html)  
 ---  
-[Archives](https://web.archive.org/Stories/0,1413,113%257E31141%257E,00.html)  
-[Past News](https://web.archive.org/Stories/0,1413,113%257E7244%257E,00.html)  
+[Search](https://web.archive.org/Stories/0,1413,113%257E31141%257E,00.html)  
+[Local](https://web.archive.org/Stories/0,1413,113%257E7244%257E,00.html)  
 [Sports](https://web.archive.org/Stories/0,1413,113%257E7248%257E,00.html)  
 [Opinion](https://web.archive.org/Stories/0,1413,113%257E7252%257E,00.html)  
 [Obituaries](https://web.archive.org/Stories/0,1413,113%257E7251%257E,00.html)  
-[Series](https://web.archive.org/Stories/0,1413,113%257E34118%257E,00.html)  
-[Health & Wellness](http://newsminer.healthology.com/)  
-[Special Sections](https://web.archive.org/Stories/0,1413,113%257E27660%257E,00.html)  
-[Photos](http://209.165.153.5/indexslideshow.htm)  
-[Historical papers](http://www.newsminer.com/historical_archive)  
+[Special sections](https://web.archive.org/Stories/0,1413,113%257E27660%257E,00.html)  
 [ArcticCam](http://www.arcticcam.com/cam.html)  
-[Classifieds](https://web.archive.org/Stories/0,1413,113%257E7239%257E,00.html)  
-[Home Delivery](https://web.archive.org/Stories/0,1413,113%257E7281%257E,00.html)  
-[Contact Us](https://web.archive.org/Stories/0,1413,113%257E26933%257E,00.html)  
-[Privacy Policy](https://web.archive.org/Stories/0,1413,113%257E7496%257E,00.html)  
+[Classifieds](http://classifieds.newsminer.com/)  
+[Subscription](https://web.archive.org/Stories/0,1413,113%257E7281%257E,00.html)  
+[Contact us](https://web.archive.org/Stories/0,1413,113%257E26933%257E,00.html)  
+[Privacy policy](https://web.archive.org/Stories/0,1413,113%257E7496%257E,00.html)  
   
   |   | 
 
@@ -40,7 +33,7 @@ Information is collected in several ways. Some personal information is gathered 
 **How is my information used?**  
 Our primary goal in collecting personal information is to provide you with a customized experience. Our paper uses information collected from server log files, such as IP addresses, to help diagnose problems with our services, to administer our Web site, and to report and gather aggregate information about site usage and user demographics. The aggregated data may be shared with advertisers or business partners. 
 
-Cookies are used to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web service and stored on your computer's hard drive. Cookies are used to deliver targeted advertising based on your behavior or demographics and to track your number of entries in some of our promotions and contests. You can set your browser to refuse to accept cookies, but if you do we will not be able to customize the Web site's features according to your preferences. Advertising networks that serve ads into our site, such as Real Media or DoubleClick, may also use their own cookies. For more information about Real Media's use of cookies, visit <http://www.realmedia.com/privacy.html>. For more information about DoubleClick's use of cookies, visit [http://www.privacychoices.org](http://www.privacychoices.org/). 
+Cookies are used to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web service and stored on your computer's hard drive. Cookies are used to deliver targeted advertising based on your behavior or demographics and to track your number of entries in some of our promotions and contests. You can set your browser to refuse to accept cookies, but if you do we will not be able to customize the Web site's features according to your preferences. Advertising networks that serve ads into our site, such as Real Media or DoubleClick, may also use their own cookies. For more information about Real Media's use of cookies, visit <http://www.247realmedia.com/privacy.html>. For more information about DoubleClick's use of cookies, visit [http://www.privacychoices.org](http://www.privacychoices.org/). 
 
   
   
