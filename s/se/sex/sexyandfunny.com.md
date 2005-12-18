@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexyandfunny.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403164911id_/http%3A//www.sexyandfunny.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexyandfunny.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218194653id_/http%3A//www.sexyandfunny.com/privacy.shtml) for the most accurate reproduction.*
 
 # SEXY and FUNNY - Sexy Animations, Adult Flash, Dirty Cartoons, ADULT HUMOR
 
