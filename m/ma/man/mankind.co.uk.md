@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mankind.co.uk privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406012308id_/http%3A//www.mankind.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mankind.co.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218105339id_/http%3A//www.mankind.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Male Grooming Tips and Products from Mankind
 
