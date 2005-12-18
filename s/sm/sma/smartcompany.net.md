@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartcompany.net privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629085000id_/http%3A//www.smartcompany.net/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcompany.net privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218223344id_/http%3A//www.smartcompany.net/privacy.jsp) for the most accurate reproduction.*
 
-# SmartCompany
+# SmartCompany Privacy Statement
 
 SmartCompany has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the SmartCompany web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect. 
 
