@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the ve.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205124804id_/http%3A//www.ve.com/kavachart/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ve.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218201442id_/http%3A//www.ve.com/kavachart/privacy_policy.html) for the most accurate reproduction.*
 
-# Visual Engineering Privacy Policy
+# VE's Privacy Policy
 
 * * *
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY.  
-Visual Engineering is commited to safeguarding your privacy online and we want you to be aware of how your information will be treated as you use our site.   
-
+Visual Engineering is committed to safeguarding your privacy online and we want you to be aware of how your information will be treated as you use our site. 
 
 * * *
 
@@ -15,7 +14,7 @@ Effective Date: December 1, 2004
 
 By accessing or otherwise using this site, you agree to be bound contractually by this Privacy Policy.
 
-[[Click here](https://web.archive.org/web/20050205124804id_/http%3A//www.ve.com/kavachart/privacy_change.html)] for a listing of material changes to this Privacy Policy and their effective dates.
+[[Click here](https://web.archive.org/web/20051218201442id_/http%3A//www.ve.com/kavachart/privacy_change.html)] for a listing of material changes to this Privacy Policy and their effective dates.
 
 1.    Modification of Privacy Policy.  We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the "Legal" link on this site's home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy.  You should check the Privacy Policy through this link periodically for modifications by clicking on the link provided near the top of the Privacy Policy for a listing of material changes and their effective dates.
 
@@ -47,13 +46,14 @@ By accessing or otherwise using this site, you agree to be bound contractually b
 
 15.    Making Changes To Personally Identifiable Information.  Registered users may make changes to their Personally Identifiable Information by following these instructions: log in to Your MyKavaChart account to view and modify your contact information. 
 
-16.    Email.  If you supply us with your e-mail address on-line you may receive periodic messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events. If you prefer not to receive periodic email messages, please submit your request by email by clicking [here](mailto:orders@ve.com).
+16.    Email.  If you supply us with your e-mail address on-line you may receive periodic messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events. If you prefer not to receive periodic email messages, please submit your request to [orders@ve.com](mailto:orders@ve.com).
 
 17.    Contact Us.  If you have any questions regarding this Privacy Policy or your dealings with this web site, please contact us at: 
 
   Visual Engineering, Inc.  
 164 Main St., Second Floor  
 Los Altos, CA, 94022  
-Contact: Robert Glazebrook - [email](mailto:bob@ve.com)  
+Contact: Robert Glazebrook  
+[bob@ve.com](mailto:bob@ve.com)  
 Telephone:650-949-5304  
 Facsimile:650-949-5578
