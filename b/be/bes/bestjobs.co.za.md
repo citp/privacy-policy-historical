@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestjobs.co.za privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204080008id_/http%3A//www.bestjobs.co.za/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestjobs.co.za privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218014330id_/http%3A//www.bestjobs.co.za/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy :: Best Jobs South Africa
 
@@ -15,16 +15,17 @@
   [**Remove CV**](https://web.archive.org/cv-remove.htm)  
   
   [**Set-up job alert**](https://web.archive.org/bz-new.htm)  
-  [**Modify alert**](https://web.archive.org/bz-login.htm)  
-  [**Remove alert**](https://web.archive.org/bz-remove.htm)  
+  [**Modify job alert**](https://web.archive.org/bz-login.htm)  
+  [**Remove job alert**](https://web.archive.org/bz-remove.htm)  
   
   
   |  **Employers**  
    |    [**New account**](https://web.archive.org/em-register.htm)  
-  [**Advertise a job**](https://web.archive.org/employers/of-new.htm)  
-  [**CV search**](https://web.archive.org/em-cvs.htm)  
+  [**Employer log-in**](https://web.archive.org/employers/em-login.htm)  
   [**Control panel**](https://web.archive.org/employers/)  
-  [**Employers F.A.Q.**](https://web.archive.org/em-faq.htm)  
+  [**Post a job**](https://web.archive.org/employers/of-new.htm)  
+  [**CV search**](https://web.archive.org/em-cvs.htm)  
+  [**Employer F.A.Q.**](https://web.archive.org/em-faq.htm)  
   
   
   |  **Resources**  
