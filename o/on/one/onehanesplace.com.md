@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onehanesplace.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402014902id_/http%3A//www.onehanesplace.com/cgi-bin/ncommerce/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehanesplace.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218144033id_/http%3A//www.onehanesplace.com/cgi-bin/ncommerce/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
 
-# OneHanesPlace Lingerie, Hosiery, Casual Clothes !!
+# OneHanesPlace Lingerie, Hosiery, Casual Clothes !
 
 At Sara Lee, we respect our customers and understand that you may have concerns about privacy, so we have instituted privacy policies intended to ensure that your personal information is handled safely and responsibly. 
 
