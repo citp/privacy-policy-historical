@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the thetech.org privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613185729id_/http%3A//www.thetech.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetech.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218202631id_/http%3A//www.thetech.org/about/privacy) for the most accurate reproduction.*
 
-# The Tech Museum of Innovation | About Us | Privacy
-
-[Home](https://web.archive.org/) > [About Us](https://web.archive.org/web/20040613185729id_/http%3A//www.thetech.org/about/) > Privacy
-
-  
-
+# The Tech Museum of Innovation | About Us | Privacy Policy
 
 ## Information Collection and Use
 
@@ -32,6 +27,3 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 ## Sharing
 
 We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
-
-  
-
