@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the formsite.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305033713id_/http%3A//www.formsite.com/forms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formsite.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218030637id_/http%3A//www.formsite.com/forms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# FormSite.com - Privacy Statement
 
-|  | Your privacy is of the utmost importance to FormSite.com. FormSite.com attempts to minimize personal information members need to reveal. However, we do ask for some basic personal information when creating forms at FormSite.com. This information provides aggregate demographic data that FormSite.com uses to better understand the types of people using FormSite.com. This data also allows us to do a better job of recommending content that may be of interest to you on FormSite.com, and to show you advertisements that are relevant to your age and geographic location. Ultimately, however, the decision to provide this information is yours. Information that FormSite.com requests, but does not require, includes Home Zip Code, Birth Year, and Gender. 
+Your privacy is of the utmost importance to FormSite.com. FormSite.com attempts to minimize personal information members need to reveal. However, we do ask for some basic personal information when creating forms at FormSite.com. This information provides aggregate demographic data that FormSite.com uses to better understand the types of people using FormSite.com. This data also allows us to do a better job of recommending content that may be of interest to you on FormSite.com, and to show you advertisements that are relevant to your age and geographic location. Ultimately, however, the decision to provide this information is yours. Information that FormSite.com requests, but does not require, includes Home Zip Code, Birth Year, and Gender. 
 
 FormSite.com may send you email messages on a regular basis to keep you apprised of your membership status and inform you of new services available to you. Included in each of these messages are simple instructions on how to remove yourself from these mailings if you do not wish to receive them in the future.
 
@@ -14,4 +14,4 @@ solicitations without your permission. Subject to court order, we will release a
 
 The systems containing the FormSite.com data are password protected and well administered. If our server is in some way compromised, the data may be revealed. Such an event is extremely unlikely.
 
-[](http://www.formsite.com/)
+[](https://web.archive.org/)
