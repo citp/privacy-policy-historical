@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the azoogleads.com privacy policy that was archived on 2005-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050527201321id_/http%3A//www.azoogleads.com/az/new/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the azoogleads.com privacy policy that was archived on 2005-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051218165749id_/http%3A//www.azoogleads.com/az/new/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -36,6 +36,9 @@ function init() {
 						
 					menu3.onactivate = function() { document.getElementById("img4").src = "images/news_over.gif"; };
 					menu3.ondeactivate = function() { document.getElementById("img4").src = "images/news_up.gif"; };
+					
+					menu4.onactivate = function() { document.getElementById("img5").src = "images/careers_over.gif"; };
+					menu4.ondeactivate = function() { document.getElementById("img5").src = "images/careers_up.gif"; };
 					
 					document.getElementById("img5").onmouseover = function() {
 						ms.hideCurrent();
@@ -93,11 +96,8 @@ function init() {
 					menu3.onactivate = function() { document.img4.src = "images/news_over.gif"; };
 					menu3.ondeactivate = function() { document.img4.src = "images/news_up.gif"; };
 					
-					document.img5.onmouseover = function() {
-						ms.hideCurrent();
-						document.img5.src = "images/careers_over.gif"; }
-					document.img5.onmouseout = function() { 
-						document.img5.src = "images/careers_up.gif"; }
+					menu4.onactivate = function() { document.img5.src = "images/careers_over.gif"; };
+					menu4.ondeactivate = function() { document.img5.src = "images/careers_up.gif"; };
 					
 					document.img6.onmouseover = function() {
 						ms.hideCurrent();
@@ -209,6 +209,7 @@ function init() {
                            
 
                            <form action="a.php" method="POST" name="lgnfrm" onsubmit="return ValidateLogin()" style="margin:0px">
+<input type="hidden" name="msg" value="">
                             <table width="231" border="0" cellspacing="0" cellpadding="0">
                          <tbody><tr>
             <td width="93" height="52"></td>
@@ -221,12 +222,10 @@ function init() {
           <tr valign="top">
             <td height="25" colspan="2"><table width="231" height="40" border="0" cellpadding="0" cellspacing="0">
               <tbody><tr>
-                <td height="20" align="center"><input type="radio" name="Type" value="1" checked=""><strong><span class="smalltext"><font color="#FFFFFF" style="font-size:9px">AzoogleAds&nbsp;</font></span></strong><input type="radio" name="Type" value="2"><strong class="smalltext"><font color="#FFFFFF" style="font-size:9px">Blue</font><font color="#000000" style="font-size:9px">Time™&nbsp;</font></strong></td>
+                <td height="20" align="center" class="smalltext" style="color:#FFFFFF"><input type="radio" id="az" name="Type" value="1" checked=""><strong><label for="az">AzoogleAds</label>&nbsp;&nbsp;<input type="radio" id="=&quot;adv&quot;" name="Type" value="3"><label for="adv">Advertiser</label></strong></td>
                 </tr>
               <tr>
-                <td height="20" align="center"><strong class="smalltext"><font color="#000000" style="font-size:9px"><span style="margin-top:4px">
-                  <input type="radio" name="Type" value="3">
-                  <strong><font color="#FFFFFF" style="font-size:9px">Advertiser</font></strong></span></font></strong></td>
+                <td height="20" align="center"></td>
               </tr>
             </tbody></table></td>
             </tr>
@@ -244,65 +243,44 @@ function init() {
       </tr>
     </tbody></table><table width="231" border="0" cellspacing="0" cellpadding="0">
                           <tbody><tr>
-                            <td height="8"><img src="images/spacer.gif" width="1" height="1"></td>
+                            <td valign="top" style="padding-left:8px"><span class="subheadings"><font color="#000000"> Contact</font> <font color="#000000">Us</font> </span></td>
+                          </tr>
+                          <tr>
+                            <td valign="top" style="padding-left:8px; padding-right:8px; padding-top:16px; text-align:justify" class="smalltext"><strong>New York Office</strong>
+							</td>
+                          </tr>
+                          <tr>
+                            <td valign="top" style="padding-left:8px"><img src="http://i.1100i.com/azoogleads/azoogle_line.gif" width="207" height="7"></td>
+                          </tr>
+                          <tr>
+                            <td valign="top" class="smalltext" style="padding-left:20px; padding-right:8px">110 E. 55th St.<br>New York, NY 10022<br>
+                              Tel: 212-308-8509<br>
+                              Fax: 888-666-3120 </td>
                           </tr>
 						  <tr>
-                            <td height="4" bgcolor="#2793AD" class="sidenav"><img src="images/spacer.gif" width="1" height="1"></td>
+                            <td valign="top" style="padding-left:8px; padding-right:8px; padding-top:16px; text-align:justify" class="smalltext"><strong>Toronto Office</strong>                                    </td>
                           </tr>
 						  <tr>
-                            <td height="22" align="center" bgcolor="#DDF1F7" class="subheadings">Privacy Quick Links</td>
-						  </tr>
-						  <tr>
-                            <td height="4" bgcolor="#2793AD" class="sidenav"><img src="images/spacer.gif" width="1" height="1"></td>
+						    <td valign="top" style="padding-left:8px"><img src="http://i.1100i.com/azoogleads/azoogle_line.gif" width="207" height="7"></td>
+  </tr>
+                          <tr>
+                            <td valign="top" class="smalltext" style="padding-left:20px; padding-right:8px">140 Allstate Parkway, Suite 505<br>Markham, Ontario L3R 5Y8<br>
+                            Tel: 905-946-0300<br>
+                            Fax: 888-666-3120
+                            <br>
+                              <br><a href="/az/new/air_toronto.php">Click here</a> for airport directions.</td>
                           </tr>
                           <tr>
-                            <td height="22" class="sidenav" id="link_1" onmouseover="TD_start(this,'#CBEBF3','fade');" style="BACKGROUND-COLOR: #B5E2EE; padding-left:8px" onclick="document.location.href='javascript:;';" onmouseout="TD_reset(this,'#B5E2EE');"><span class="smalltext"><img src="images/bullet.gif" width="22" height="5"></span><a href="#Web" class="websitename"><font color="#000000">Web Users Privacy</font></a></td>
+                            <td valign="top" style="padding-left:8px; padding-right:8px; padding-top:16px; text-align:justify" class="smalltext"><strong> Email</strong>                                       </td>
                           </tr>
                           <tr>
-                            <td height="22" class="sidenav" id="link_2" onmouseover="TD_start(this,'#CBEBF3','fade');" style="BACKGROUND-COLOR: #B5E2EE; padding-left:8px" onclick="document.location.href='javascript:;';" onmouseout="TD_reset(this,'#B5E2EE');"><span class="smalltext"><img src="images/bullet.gif" width="22" height="5"></span><a href="#Affil" class="websitename"><font color="#000000">Azoogle Affiliate Privacy </font></a></td>
+                            <td valign="top" style="padding-left:8px"><img src="http://i.1100i.com/azoogleads/azoogle_line.gif" width="207" height="7"></td>
                           </tr>
                           <tr>
-                            <td height="4" bgcolor="#2793AD" class="sidenav"><img src="images/spacer.gif" width="1" height="1"></td>
+                            <td valign="top" class="smalltext" style="padding-left:20px; padding-right:8px"><a href="mailto:help@AzoogleAds.com"> help@AzoogleAds.com</a></td>
                           </tr>
-						  <tr>
-                            <td height="8"><img src="images/spacer.gif" width="1" height="1"></td>
-                          </tr>
-                        </tbody></table>
-<table width="231" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
-                            <td valign="top" style="padding-left:8px"><span class="subheadings"><font color="#447783"> Contact</font> <font color="#FF6600">Us</font> </span></td>
-                          </tr>
-                          <tr>
-                            <td valign="top" style="padding-left:8px; padding-right:8px; padding-top:16px; text-align:justify"><span class="smalltext"><strong> Address<br>
-                                      <img src="images/divider_small.gif" width="207" height="10"></strong></span></td>
-                          </tr>
-                          <tr>
-                            <td valign="top" class="smalltext" style="padding-left:28px; padding-right:8px">140 Allstate Parkway, Suite 505 <br>
-      Markham, Ontario, Canada <br>
-      L3R 5Y8</td>
-                          </tr>
-                          <tr>
-                            <td valign="top" style="padding-left:8px; padding-right:8px; padding-top:16px; text-align:justify"><span class="smalltext"><strong> <strong>Phone<strong class="smalltext"></strong></strong><br>
-                                        <img src="images/divider_small.gif" width="207" height="10"></strong></span></td>
-                          </tr>
-                          <tr>
-                            <td valign="top" class="smalltext" style="padding-left:28px; padding-right:8px">905-946-0300</td>
-                          </tr>
-                          <tr>
-                            <td valign="top" style="padding-left:8px; padding-right:8px; padding-top:16px; text-align:justify"><span class="smalltext"><strong> <strong>Fax<strong class="smalltext"></strong></strong><br>
-                                        <img src="images/divider_small.gif" width="207" height="10"></strong></span></td>
-                          </tr>
-                          <tr>
-                            <td valign="top" class="smalltext" style="padding-left:28px; padding-right:8px">888-666-3120</td>
-                          </tr>
-                          <tr>
-                            <td valign="top" style="padding-left:8px; padding-right:8px; padding-top:16px; text-align:justify"><span class="smalltext"><strong> Email<br>
-                                        <img src="images/divider_small.gif" width="207" height="10"></strong></span></td>
-                          </tr>
-                          <tr>
-                            <td valign="top" class="smalltext" style="padding-left:28px; padding-right:8px"><a href="mailto:help@azoogleads.com"> help@azoogleads.com</a></td>
-                          </tr>
-</tbody></table>	</td>
+</tbody></table>
+	</td>
   </tr>
 </tbody></table>
 </td>
@@ -313,7 +291,14 @@ function init() {
 				   <param name="wmode" value="opaque">
                    <param name="quality" value="high">
                    <embed src="images/bluetime_intro.swf" wmode="opaque" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="546" height="97"></embed>
-                 </object>--><a href="careers.php"><img src="images/banner_NYCcomingsoon.jpg" border="0"></a></td>
+                 </object>-->
+
+<img src="images/AZ_advertiser_publisher.gif" border="0" usemap="#Map">
+<map name="Map">
+  <area shape="rect" coords="9,70,154,93" href="http://www.azoogleads.com/az/new/publisher.php">
+  <area shape="rect" coords="168,69,323,94" href="http://www.azoogleads.com/az/new/advertiser.php">
+</map>
+</td>
                         </tr>
                              <tr valign="top" bgcolor="#FFFFFF">
                                 <td height="10" colspan="2"><img src="images/under_flash.gif" width="547" height="10"></td>
@@ -324,52 +309,83 @@ function init() {
 
                                     <tbody><tr>
 
-									  <td width="532" valign="top"><table width="526" border="0" cellpadding="0" cellspacing="0">
+									  <td width="532" valign="top"><table width="526" border="0" cellspacing="0" cellpadding="0">
                                     <tbody><tr>
-                                      <td height="26" valign="bottom" background="images/bigheading.gif" style="padding-left:22px; padding-bottom:3px"><span class="headings">Privacy Statement </span></td>
+                                      <td width="526" height="26" valign="bottom" background="images/bigheading.gif" class="headings" style="padding-left:20px; padding-bottom:3px">Privacy Statement</td>
                                     </tr>
                                     <tr>
-                                      <td valign="top" bgcolor="#F3F7F8" class="smalltext" style="padding-left:8px; padding-right:8px; padding-top:16px;  text-align:justify"><strong><a name="Web"></a>Web Users Privacy</strong><br>                                        <img src="images/divider_big.gif" width="510" height="10"></td>
+                                      <td valign="top" bgcolor="#F3F7F8" class="smalltext">
+                                        <table width="526" border="0" cellspacing="0" cellpadding="0">
+                                          <tbody><tr>
+                                            <td valign="top" class="smalltext" style="padding-left:20px; padding-right:8px; padding-top:16px"><strong>Web Users Privacy 
+                                              </strong>
+											    
+                                           
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" class="smalltext" style="padding-left:20px; padding-right:8px; padding-top:0px"><img src="http://i.1100i.com/azoogleads/azoogle_line.gif" width="486" height="7"></td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" style="padding-left:20px; padding-right:8px; padding-top:0px"><table width="486" border="0" cellspacing="0" cellpadding="0">
+                                              <tbody><tr>
+                                                <td class="smalltext"><p>AzoogleAds strongly believes in a consumer's right to privacy. All web user data collected by AzoogleAds as part of the ad serving process is not personally identifiable (browser type, for example) and is used in aggregate form. AzoogleAds does not conduct individual web user "profiling". <br>
+                                                    <br>
+                                                    <strong>Cookies: </strong><br>
+Remote "cookies" on web user computers and server databases at AzoogleAds facilities are used to store information by AzoogleAds. A cookie is a piece of data placed on the Web User's hard drive by our servers. Cookies are used to improve the experience web users have when they see web advertisements. Cookies are not viruses and cannot erase your hard drive or otherwise damage your computer. Usage of a cookie is in no way linked to any personally identifiable information. <br>
+<br>
+Cookies are used to ensure that when a web user clicks on an ad, they are sent to the correct click-through destination. They are also used by our reporting system to estimate the total reach of an ad campaign, as well as frequency of display. This allows advertisers to determine with greater accuracy the composition of the audience they reach. Cookies are also used to sequence the delivery of a series of ads to a web browser, and to limit the number of times a web browser receives any one advertisement. Web Users have the option of blocking the use of cookies by changing a setting in their browser. Please see your browser supplier's website for details on how to do this. <br>
+<br>
+<strong>Information Collection and Use: </strong><br>
+As with all web content delivery systems, AzoogleAds records information about the interaction between a web user's browser and our servers. Those interactions include ad content (banner) delivery, counting click-throughs on an ad, and tracking webpage views after a click-through. Browsers typically provide the browser version, the operating system, and the IP address of the computer in use. This non-personally identifiable information is collected from web users to assist in the proper function of our service as well as the targeting of advertisements from our customers and the reporting of aggregate data to both advertisers and publishers. AzoogleAds does not collect, use, sell, or purchase web user information that is personally identifiable. <br>
+<br>
+<strong>Information Sharing:</strong><br>
+Web user information (all of which is non-personally identifiable) is shared with our advertisers and publishers in aggregate fashion. This means, for example, that of the millions of web users we deliver banners to each month, an advertiser will know what percentage of those users viewed their advertisement with a certain browser. The sharing of this information is essential to providing the services we offer. AzoogleAds may augment web user information with additional non-personally identifiable information, such as an IP address to 5-digit postal code cross reference to aid in local targeting of advertising. IP addresses are not linked to personally identifiable information by AzoogleAds. <br>
+<br>
+<strong>Third Party Advertising:</strong><br>
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please <a href="http://www.maxonline.com/privacy_policy/index.php" target="_new">click here</a>.<br>
+<br>
+<strong>Third Party Cookies:</strong><br>
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.<br>
+<br>
+<strong>Contacting AzoogleAds: </strong><br>
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact us at <a href="mailto:help@AzoogleAds.com">help@AzoogleAds.com</a></p>
+                                                </td>
+                                              </tr>
+                                            </tbody></table>                                            
+                                            </td>
+                                          </tr>
+                                        </tbody></table>
+                                      </td></tr>
+                                                                   <tr>
+                                      <td valign="top" bgcolor="#F3F7F8" class="smalltext" style="padding-left:20px; padding-right:8px; padding-top:16px"><strong>Azoogle Affiliates</strong></td>
                                     </tr>
                                     <tr>
-                                      <td bgcolor="#F3F7F8" style="padding-left:28px; padding-right:8px" class="smalltext"><p>AzoogleAds strongly believes in a consumer's right to privacy. All web user data collected by AzoogleAds as part of the ad serving process is not personally identifiable (browser type, for example) and is used in aggregate form. AzoogleAds does not conduct individual web user "profiling". <br>
-                                            <br>
-                                            <strong>Cookies: </strong><br>
-  Remote "cookies" on web user computers and server databases at AzoogleAds facilities are used to store information by AzoogleAds. A cookie is a piece of data placed on the Web User's hard drive by our servers. Cookies are used to improve the experience web users have when they see web advertisements. Cookies are not viruses and cannot erase your hard drive or otherwise damage your computer. Usage of a cookie is in no way linked to any personally identifiable information. <br>
-  <br>
-  Cookies are used to ensure that when a web user clicks on an ad, they are sent to the correct click-through destination. They are also used by our reporting system to estimate the total reach of an ad campaign, as well as frequency of display. This allows advertisers to determine with greater accuracy the composition of the audience they reach. Cookies are also used to sequence the delivery of a series of ads to a web browser, and to limit the number of times a web browser receives any one advertisement. Web Users have the option of blocking the use of cookies by changing a setting in their browser. Please see your browser supplier's website for details on how to do this. <br>
-  <br>
-  <strong>Information Collection and Use: </strong><br>
-  As with all web content delivery systems, AzoogleAds records information about the interaction between a web user's browser and our servers. Those interactions include ad content (banner) delivery, counting click-throughs on an ad, and tracking webpage views after a click-through. Browsers typically provide the browser version, the operating system, and the IP address of the computer in use. This non-personally identifiable information is collected from web users to assist in the proper function of our service as well as the targeting of advertisements from our customers and the reporting of aggregate data to both advertisers and publishers. AzoogleAds does not collect, use, sell, or purchase web user information that is personally identifiable. <br>
-  <br>
-  <strong>Information Sharing:</strong><br>
-  Web user information (all of which is non-personally identifiable) is shared with our advertisers and publishers in aggregate fashion. This means, for example, that of the millions of web users we deliver banners to each month, an advertiser will know what percentage of those users viewed their advertisement with a certain browser. The sharing of this information is essential to providing the services we offer. AzoogleAds may augment web user information with additional non-personally identifiable information, such as an IP address to 5-digit postal code cross reference to aid in local targeting of advertising. IP addresses are not linked to personally identifiable information by AzoogleAds. <br>
-  <br><strong>Third Party Advertising:</strong><br>
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please <a href="http://www.maxonline.com/privacy_policy/index.php" target="_new">click here</a>.<br><br><strong>Third Party Cookies:</strong><br>
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.<br><br>
-  <strong>Contacting AzoogleAds: </strong><br>
-  If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact us at <a href="mailto:help@azoogleads.com">help@azoogleads.com</a><br>
-  <br>
-                                      </p>                                        </td></tr>
-										<tr>
-                                      <td valign="top" bgcolor="#F3F7F8" class="smalltext" style="padding-left:8px; padding-right:8px; padding-top:16px;  text-align:justify"><strong><a name="Affil"></a>Azoogle Affiliates</strong><br>                                        
-                                        <img src="images/divider_big.gif" width="510" height="10"></td>
+                                      <td valign="top" bgcolor="#F3F7F8" class="smalltext" style="padding-left:20px; padding-right:8px; padding-top:0px"><img src="http://i.1100i.com/azoogleads/azoogle_line.gif" width="486" height="7"></td>
                                     </tr>
                                     <tr>
-                                      <td bgcolor="#F3F7F8" style="padding-left:28px; padding-right:8px" class="smalltext"><p>This Affiliates privacy policy is intended to disclose the type of information that AzoogleAds collects about its Affiliates and how the information is used. For our web user privacy policy, please see the <a href="#Web">Web User Privacy Statement </a>. </p>
-                                        <ol>
-                                          <li>Ownership of Information: AzoogleAds is the sole owner of all data collected by AzoogleAds on this site. Information collected is in two distinct categories: Affiliate information and aggregated Web User information.
-                                          </li><li>Use of Information Collected: Affiliate information collected includes personally identifiable information that is necessary to conduct business, such as name, phone number, and email address. This information is required so that payments may be made to and from AzoogleAds and aid us in servicing our Affiliates to the best of our ability.
-                                          </li><li>Information Sharing: Affiliate information is not shared with any third party outside AzoogleAds, except for that necessary to conduct business, such as for invoicing for advertising campaign purchase, making payments to a Publisher, or as required by law. We will not sell, share, or rent this information to others.
-                                          </li><li>Use of Cookies: Cookies are used to simplify Affiliate logins and to facilitate secure navigation through the password protected areas of the website. Affiliates who choose turn cookies off in their web browser may have difficulty navigating the password protected areas of the website.
-                                          </li><li>Security: AzoogleAds takes reasonable precaution to protect the information collected through its websites against loss, misuse or alteration. All information is password protected and only employees of AzoogleAds that require access to this information to conduct normal business are give permissions to use it.
-                                          </li><li>Web Links: When you leave this site though links found on this site to other websites (whether knowingly or not) AzoogleAds can no longer be responsible in any way for any material that you encounter and AzoogleAds excludes (to the fullest extent permitted by law) any liability that may arise with respect to or as a result of such material causing any damage, costs, injury or financial loss of any kind.
-                                          </li><li>Further Information: If you have any further questions regarding the AzoogleAds Affiliates privacy Policy please contact us at <a href="mailto:help@azoogleads.com">help@azoogleads.com </a> or 905 946 0300 </li>
-                                        </ol>                                        <p align="justify" class="smalltext">&nbsp;</p></td></tr>
+                                      <td valign="top" bgcolor="#F3F7F8" style="padding-left:20px; padding-right:8px; padding-top:0px"><table width="486" border="0" cellspacing="0" cellpadding="0">
+                                        <tbody><tr>
+                                          <td class="smalltext"><p>This Affiliates privacy policy is intended to disclose the type of information that AzoogleAds collects about its Affiliates and how the information is used. For our web user privacy policy, please see the <a href="#Web">Web User Privacy Statement </a>. </p>
+                                            <ol>
+                                              <li>Ownership of Information: AzoogleAds is the sole owner of all data collected by AzoogleAds on this site. Information collected is in two distinct categories: Affiliate information and aggregated Web User information.
+                                              </li><li>Use of Information Collected: Affiliate information collected includes personally identifiable information that is necessary to conduct business, such as name, phone number, and email address. This information is required so that payments may be made to and from AzoogleAds and aid us in servicing our Affiliates to the best of our ability.
+                                              </li><li>Information Sharing: Affiliate information is not shared with any third party outside AzoogleAds, except for that necessary to conduct business, such as for invoicing for advertising campaign purchase, making payments to a Publisher, or as required by law. We will not sell, share, or rent this information to others.
+                                              </li><li>Use of Cookies: Cookies are used to simplify Affiliate logins and to facilitate secure navigation through the password protected areas of the website. Affiliates who choose turn cookies off in their web browser may have difficulty navigating the password protected areas of the website.
+                                              </li><li>Security: AzoogleAds takes reasonable precaution to protect the information collected through its websites against loss, misuse or alteration. All information is password protected and only employees of AzoogleAds that require access to this information to conduct normal business are give permissions to use it.
+                                              </li><li>Web Links: When you leave this site though links found on this site to other websites (whether knowingly or not) AzoogleAds can no longer be responsible in any way for any material that you encounter and AzoogleAds excludes (to the fullest extent permitted by law) any liability that may arise with respect to or as a result of such material causing any damage, costs, injury or financial loss of any kind.
+                                              </li><li>Further Information: If you have any further questions regarding the AzoogleAds Affiliates privacy Policy please contact us at <a href="mailto:help@AzoogleAds.com">help@AzoogleAds.com </a> or 905 946 0300 </li>
+                                          </ol></td>
+                                        </tr>
+                                      </tbody></table>
+                                           
+                                        <p>&nbsp;</p></td>
+                                    </tr>
                                     <tr>
                                       <td height="26" background="images/bigheadingbot.gif">&nbsp;</td>
                                     </tr>
-</tbody></table></td>
+</tbody></table>
+</td>
                                 </tr>
                               </tbody></table></td>
                             </tr>
@@ -397,7 +413,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 			    <td height="1" colspan="2"><img src="images/spacer.gif"></td>
 			  </tr>
               <tr>
-                <td width="389" class="smalltext" style="padding-left:5px" height="20"><strong>© 2005 Azoogle.com Inc., All rights reserved.</strong> </td>
+                <td width="389" class="smalltext" style="padding-left:5px" height="20"><strong>© 2005 AzoogleAds.com Inc., All rights reserved.</strong> </td>
                 <td width="389" align="right" style="padding-right:5px"><span class="smalltext"><strong><a href="privacy.php" style="color:000000"><font color="#000000">Privacy Statement</font></a> </strong></span></td>
               </tr>
             </tbody></table></td>
@@ -428,8 +444,8 @@ In the course of serving advertisements to this site, our third-party advertiser
 		//==================================================================================================
 		var menu2 = ms.addMenu(document.getElementById("solutions"));
 		menu2.addItem("<font color='FF6600'>&raquo;</font>&nbsp;AzoogleAds&#8482;", "azoogle.php");
-		menu2.addItem("<font color='FF6600'>&raquo;</font>&nbsp;GiftFox&#8482;", "giftfox.php");
-		menu2.addItem("<font color='FF6600'>&raquo;</font>&nbsp;BlueTime&#8482;", "bluetime.php");
+		menu2.addItem("<font color='FF6600'>&raquo;</font>&nbsp;MPORT&#8482;", "#");
+		//menu2.addItem("<font color='FF6600'>&raquo;</font>&nbsp;BlueTime&#8482;", "bluetime.php");
 		menu2.addItem("<font color='FF6600'>&raquo;</font>&nbsp;Coregio&#8482;", "coregio.php");
 
 		//==================================================================================================
@@ -441,9 +457,18 @@ In the course of serving advertisements to this site, our third-party advertiser
 				menu3.addItem("<font color='FF6600'>&raquo;</font>&nbsp;Events", "events.php");
 		
 		//==================================================================================================
+		
+		//==================================================================================================
+		var menu4 = ms.addMenu(document.getElementById("careers"));
+		menu4.addItem("<font color='FF6600'>&raquo;</font>&nbsp;Toronto", "careers.php?l=Toronto");
+		menu4.addItem("<font color='FF6600'>&raquo;</font>&nbsp;New York", "careers.php?l=NewYork");
+		menu4.addItem("<font color='FF6600'>&raquo;</font>&nbsp;Refer a friend", "mailto:?subject=You have been referred to the AzoogleAds.com Career Section.&body=Hello,%0D%0DYou have been referred to the AzoogleAds.com Career Section. Click, or copy and paste the link below in your browser to view the position of interest.%0D%0Dhttp://www.azoogleads.com/az/new/careers.php%0D%0DAll applicants will be confidential. We are an equal opportunity employer.");
+
+		
+		//==================================================================================================
 
 		TransMenu.renderAll();
 	}
-</script><div id="TransMenu0" class="transMenu top" style="width: 107px; height: 84px; visibility: hidden;"><div class="content" style="width: 105px; height: 82px; top: -84px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="images/spacer.gif" width="1" height="0"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:3px;"><font color="FF6600">»</font>&nbsp;Acquisition</td><td width="14" style="padding:3px; padding-right:3px;"><img src="images/spacer.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:3px;"><font color="FF6600">»</font>&nbsp;Media Buying</td><td width="14" style="padding:3px; padding-right:3px;"><img src="images/spacer.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:3px;"><font color="FF6600">»</font>&nbsp;SEO</td><td width="14" style="padding:3px; padding-right:3px;"><img src="images/spacer.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:3px;"><font color="FF6600">»</font>&nbsp;Design</td><td width="14" style="padding:3px; padding-right:3px;"><img src="images/spacer.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="images/spacer.gif" width="1" height="0"></td></tr></tbody></table><div class="shadowBottom" style="top: 80px; width: 100px; background-color: rgb(136, 136, 136);"><img src="images/spacer.gif" width="1" height="1"></div><div class="shadowRight" style="left: 103px; height: 79px; background-color: rgb(136, 136, 136);"><img src="images/spacer.gif" width="1" height="1"></div><div class="background" style="width: 103px; height: 80px; background-color: rgb(211, 238, 245);"><img src="images/spacer.gif" width="1" height="1"></div></div></div><div id="TransMenu1" class="transMenu top" style="width: 109px; height: 84px; visibility: hidden;"><div class="content" style="width: 107px; height: 82px; top: -84px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="images/spacer.gif" width="1" height="0"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:3px;"><font color="FF6600">»</font>&nbsp;AzoogleAds™</td><td width="14" style="padding:3px; padding-right:3px;"><img src="images/spacer.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:3px;"><font color="FF6600">»</font>&nbsp;GiftFox™</td><td width="14" style="padding:3px; padding-right:3px;"><img src="images/spacer.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:3px;"><font color="FF6600">»</font>&nbsp;BlueTime™</td><td width="14" style="padding:3px; padding-right:3px;"><img src="images/spacer.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:3px;"><font color="FF6600">»</font>&nbsp;Coregio™</td><td width="14" style="padding:3px; padding-right:3px;"><img src="images/spacer.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="images/spacer.gif" width="1" height="0"></td></tr></tbody></table><div class="shadowBottom" style="top: 80px; width: 102px; background-color: rgb(136, 136, 136);"><img src="images/spacer.gif" width="1" height="1"></div><div class="shadowRight" style="left: 105px; height: 79px; background-color: rgb(136, 136, 136);"><img src="images/spacer.gif" width="1" height="1"></div><div class="background" style="width: 105px; height: 80px; background-color: rgb(211, 238, 245);"><img src="images/spacer.gif" width="1" height="1"></div></div></div><div id="TransMenu2" class="transMenu top" style="width: 112px; height: 64px; visibility: hidden;"><div class="content" style="width: 110px; height: 62px; top: -64px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="images/spacer.gif" width="1" height="0"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:3px;"><font color="FF6600">»</font>&nbsp;Current News</td><td width="14" style="padding:3px; padding-right:3px;"><img src="images/spacer.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:3px;"><font color="FF6600">»</font>&nbsp;Archived News</td><td width="14" style="padding:3px; padding-right:3px;"><img src="images/spacer.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:3px;"><font color="FF6600">»</font>&nbsp;Events</td><td width="14" style="padding:3px; padding-right:3px;"><img src="images/spacer.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="images/spacer.gif" width="1" height="0"></td></tr></tbody></table><div class="shadowBottom" style="top: 60px; width: 105px; background-color: rgb(136, 136, 136);"><img src="images/spacer.gif" width="1" height="1"></div><div class="shadowRight" style="left: 108px; height: 59px; background-color: rgb(136, 136, 136);"><img src="images/spacer.gif" width="1" height="1"></div><div class="background" style="width: 108px; height: 60px; background-color: rgb(211, 238, 245);"><img src="images/spacer.gif" width="1" height="1"></div></div></div>
+</script>
 
 </body></html>
