@@ -1,58 +1,104 @@
-> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307202406id_/http%3A//www.datadirect.com/legal/privacy/index.ssp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218170637id_/http%3A//www.datadirect.com/legal/privacy/index.ssp) for the most accurate reproduction.*
 
-# DataDirect Technologies and Your Privacy: Legal: Home
+# DataDirect Technologies Privacy Policy: Legal: Home
 
-## DataDirect Technologies and Your Privacy
+Last update: Monday, October 4, 2004
 
-**DataDirect and Your Privacy  
-** Your right to privacy is very important to DataDirect. At DataDirect, we believe that the personal information you provide to us must be both kept confidential and used in a responsible fashion. We consistently strive to put our best efforts towards achieving both of these objectives.
+DataDirect Technologies is a division of Progress Software Corporation (“PSC”).
 
-**Types and Reasons for Data Collection  
-** When you sign up for membership in SupportLink Online (Automated Case Reporting), Online Store, Product Evaluation Service or DataDirect's email news services including DataDirect Connections, ("DataDirect Services"), some personal information is required. This information is used for three primary purposes.
+We at Progress Software Corporation (“Progress Software”) are constantly striving to provide excellent service to you, our customers and business partners, while building a long-lasting relationship with you. To achieve these goals, we occasionally need information about you when you visit our site.
 
-  * To help you quickly find software, services or information on datadirect.com.
-  * To help us create Web site content most relevant to you.
-  * To alert you to product upgrades, special offers, updated information and other new services from DataDirect.
+When you visit our Web sites, you may be providing Progress Software with information about your visit on two levels:
 
+  * Statistics collected as you browse our Web sites.
+  * Organizational and personal information you knowingly give us.
 
 
-If the personal information collected is used for a reason not listed above, including sharing this information with any third party, we will post our procedures on how we intend to use it before we do so. Further, if you tell us that you do not wish to have personal information used as a basis for contacting you, we will respect your wishes and, to the best of our abilities, remove or block access to that information. Additionally, you may always cancel your membership at any time.
 
-**Explicit Member Signup Information  
-** Explicit member signup information includes information collected during initial registration to DataDirect Services, as well as any additional information provided to gain access to special services or features. These special services may include software downloads, special discount offers, Beta program participation, email newsletters and more.
+Because Progress Software respects your right to privacy, we want you to be aware of how we handle this information.
 
-This information is used by DataDirect solely to inform you of new services and programs or to help you in conducting an evaluation of a DataDirect product. In addition, in an aggregate form, your information is also used to improve the value of this web site. We may provide this information to other organizations within DataDirect when needed to support and deliver specialized services. In limited circumstances, DataDirect may share your information with authorized third parties providing services on our behalf. The information we share with third parties will only be used for the purposes stated above. You may view the privacy policies of these third parties by going to their websites, some of which are available through the "Contact Us" section of the DataDirect website and clicking on "List of Current Resellers & Distributors." We may also release personally identifying information when necessary to comply with state and federal laws. In such a case, we will do our best to notify you of any such release by contacting you through e-mail or by letter, if we are able to.
+## Our Commitment to Your Privacy
 
-**Web Site Traffic and Analysis  
-** DataDirect gathers and analyzes information from our visitors' routine use of the web site. We use this information to monitor what areas of the site are most active, and to help focus our continuing development efforts. Only generalized, aggregate information is shared with other organizations within DataDirect; an individual user's traffic patterns are strictly confidential.
+Progress Software assures you that we do not 
 
-**Access to Information Collected  
-** As a member of any of DataDirect Services, you can simply and easily update your membership information at any time. Additionally, it should be noted that within your DataDirect services profile you can control whether you wish to receive informational e-mails from DataDirect.
+  * Provide or sell the names and addresses of our customers [site users] to outside vendors. 
 
-**User Preferences, Opt Out  
-** Membership in DataDirect Services is completely voluntary. If at any time you wish to leave the program, simply notify us via e-mail and we will promptly cancel your membership. We will also pass this information request on to authorized third parties acting on our behalf, but we are not responsible for the ultimate actions of these parties.
 
-Some DataDirect Services require users to provide the information in the registration screens for reasons specified and as provided in the user registration agreement. This information is essential to properly service the membership. As greater functionality is added to the site, we will continue to strive to develop mechanisms and policies that best address participants' preferences related to information collection and use.
 
-**Collection of Information Using "Cookies"  
-** DataDirect Services use several cookies to provide you easier and more direct access to information and services. The use of these cookies is required for full access to DataDirect services. All information stored in these cookies is encrypted. Additionally, sensitive information, such as credit card numbers, is never stored in cookies.
+Progress Software does:
 
-**Links to Third Party Sites and Services (if applicable)  
-** In order to process purchase orders, evaluate products, and inform you of upcoming events and new products, we may choose to have a third party transmit information to you on our behalf. These parties will only be authorized to transmit information on DataDirect's behalf and will not be authorized to use your information for their own benefit. In addition, we may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information. In all cases, your personal information and responses will remain strictly confidential, even if a third party conducts the survey. While we choose these providers carefully, it should be noted that the privacy policy for any third party collection or transmission service might differ from DataDirect's. Wherever possible, links to that party's privacy policy are provided and should be consulted. DataDirect is not responsible for the privacy practices of third parties.
+  * Safeguard customers' information from unauthorized access.
+  * Collect, maintain and use customer information as necessary to provide the most helpful and targeted products and services to meet customers' needs (e.g. customer care or new products or services).
+  * Honor customers' requests to remove their names from our telephone or mail solicitation lists in a timely manner. Just [Contact Us](mailto:unsubscribe@progress.com). 
+  * Maintain confidentiality of customer information when undertaking projects with other companies.
 
-**Security  
-** DataDirect is concerned with the security of the personal data we collect and has put in place measures to prevent unauthorized access to that information. Payment information is protected by a Secure Sockets Layer (SSL) connection and, once stored, is protected through various security measures. These measures include both policies relating to access to information and technological elements such as firewalls etc. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
 
-**Note to Parents and Minors  
-** Please note that our website does not market to children. We do not want to collect any personal information from minors under any circumstances. We ask that minors (under age 18) refrain from using our site. Anyone using this Site or the Services warrants and promises that they are 18 years of age or older.
 
-**Updates to the Privacy Policy  
-** DataDirect is sensitive to user's privacy issues and recognizes the need to update this policy as new features and business services are offered on datadirect.com. DataDirect reserves the right to amend the privacy policy at any time with or without notice. Please check back frequently in the event of changes to our Privacy Policy.
+Progress Software has always valued your privacy, and we reinforce this belief throughout our organization. Your information will be protected as described unless the specific Web page says otherwise. If you have further questions about our privacy policy, please [Contact Us](mailto:generalcounsel@progress.com).
 
-**Last Update: November 4, 2002**
+## Information this Site Gathers/Tracks
 
-If you have any questions or comments about our privacy practices, please contact us at 301-468-8501 (US).
+**Statistics Collected as You Browse Our Web Sites**
 
-**Legal Notification  
-Feedback; Confidential Information; Privacy  
-** Unless otherwise explicitly stated herein, any non-personal information or material sent to DataDirect will be deemed NOT to be confidential. By sending DataDirect any non-personal information or material, you grant DataDirect an unrestricted, irrevocable license to use, reproduce, display, perform, modify, transmit and distribute those materials or information, and you also agree that DataDirect is free to use any ideas, concepts, know-how or techniques that you send us for any purpose. However, we will not release your name or otherwise publicize the fact that you submitted materials or other information to us unless: (a) you grant us permission to do so; (b) we first notify you that the materials or other information you submit to a particular part of a site will be published or otherwise used with your name on it; or (c) we are required to do so by law.
+As you browse our Web sites, Progress Software’s Web servers collect information about your visit, not about you personally. Via Web server logs, we monitor statistics such as:
+
+  * How many people visit our Web sites.
+  * Which pages people visit on our Web sites.
+  * From which domains our visitors come (e.g., "yahoo.com" or "aol.com").
+  * Which browsers people use to visit our Web sites.
+
+
+
+While we gather this information, none of it is associated with you as an individual. We use these statistics to improve our Web sites, to monitor their performance, and to make it easier for you and other visitors to use.
+
+**Organizational and Personal Information You Knowingly Give Us**
+
+Within our Web sites, you may be asked to give us personal or organizational information in order to purchase or receive information about a product or service. This information may range from your generic zip code, to your specific phone number, product serial numbers and control codes, account number, credit card number, e-mail address, organization URL, or mailing address.
+
+## Use of the Information this Site Gathers/Tracks
+
+**Your IP Address and Host Name**
+
+Progress Software’s Web sites log Host Names (or IP addresses when the Host Name is not available) for systems administration and security purposes. These logs are monitored and analyzed to maintain systems and information security and allow us to constantly improve the value and the availability of the Web content.
+
+**Registration Forms**
+
+We encourage all visitors to register with Progress Software, although registration is not required, except for access to our premium content areas. The registration forms require users to give us accurate contact information (like name and email address) and references that help us better serve you. Your name and email address may be used to send you information about our company, product updates, special offers, and newsletters. To opt out of receiving communications from Progress Software, please [Contact Us](mailto:unsubscribe@progress.com). 
+
+## Order Forms and Enrollment Forms 
+
+Our order forms securely collect visitor's contact information and financial information (like your credit card number and other billing information). Contact information on the order form is used for order fulfillment and may be shared with our Partners or Resellers if that is necessary to fulfill your request. The information that we require in our order form is only used to process your order quickly and accurately. Your contact information will only be used to send you the product that you purchase and your billing information will only be used to bill you for that product. During the purchasing process, you may be given the opportunity to sign up for future e-mailings regarding our products, services, and promotions. If you sign up, Progress Software will share your contact information with other Progress Software partner companies only, not with other outside companies.
+
+You may also be given the option of registering a profile with Progress Software which would store your name, purchase history, and billing information to make it easier for you to shop and purchase products/services from us in the future. You may opt out of this feature at any time by changing/canceling your profile online.
+
+## Cookies
+
+A cookie is a small, encrypted data string our server writes to your hard drive that contains your unique User ID. We use cookies to deliver Web content specific to your interests and to control access to restricted content. A cookie cannot be used to access or otherwise compromise the data on your hard drive. You can choose to change your browser settings to disable cookies if you do not want us to establish and maintain a unique User ID. Please be aware that cookies might be required to complete certain functions on our Web sites.
+
+## Sharing of the Information this Site Gathers/Tracks
+
+The information you submit may be shared with third parties if it is necessary to complete your request, provide you with access to downloadable software, or as required by law.
+
+## Information Security
+
+We have security measures in place to protect the loss, misuse and alteration of information under our control. When you place an order, the information is encrypted using the Secure Socket Layer (SSL) protocol.
+
+## Links to Other Sites
+
+Our Web sites contain links to other Web sites. Please be aware that our privacy policy does not apply to these other sites.
+
+## Opt-out Policy and Procedure
+
+Our Web sites provide users with the opportunity to opt-out of receiving communications from us (and our partners) at the point where we request information about the visitor. In addition, from within the www.progress.com subscription center (www.progress.com/subscribe), visitors can unsubscribe to the various communication offerings at any time, by deselecting the vehicles they do not wish to receive or by opting-out of all e-communications. Please note that opting-out of all communications will suppress every piece of electronic information from Progress Software and is not restricted to only the communications listed on the subscription center page. Additionally, visitors who wish to remove their information from our database to not receive future communications or to no longer receive our service can [Contact Us](mailto:unsubscribe@progress.com). 
+
+## Correcting/Update Policy
+
+If you would like to correct and/or update your information, please [Contact Us](mailto:unsubscribe@progress.com).
+
+## Oversight
+
+If you have comments or questions about our privacy policy, please [Contact Us](mailto:generalcounsel@progress.com). We will address any issue to the best of our abilities.
+
+## Changes to Policy
+
+Progress Software will occasionally update this privacy policy. When we do, we will also revise the “last updated” date at the top of the privacy policy.
