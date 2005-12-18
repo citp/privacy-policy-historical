@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moddeals.com privacy policy that was archived on 2005-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050317165053id_/http%3A//www.moddeals.com/privacy.php%3Fid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddeals.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219002221id_/http%3A//www.moddeals.com/privacy.php%3Fid%3D) for the most accurate reproduction.*
 
 # modDeals.com | Modify your Car for Less
 
