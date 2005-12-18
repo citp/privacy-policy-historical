@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the affiliatejackpot.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528113047id_/http%3A//www.affiliatejackpot.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatejackpot.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218215923id_/http%3A//www.affiliatejackpot.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Google Cash Privacy Policy
 
-Last Updated: June 01, 2003
+Last Updated: June 01, 2005
 
 GoogleCash.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
