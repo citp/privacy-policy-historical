@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the aacps.org privacy policy that was archived on 2005-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050322065423id_/http%3A//www.aacps.org/aacps/boe/HR/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aacps.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218180243id_/http%3A//www.aacps.org/aacps/boe/HR/privacy.asp) for the most accurate reproduction.*
 
-# Anne Arundel County - Web Privacy Policy
+# Anne Arundel
 
-#### The following statement establishes how AACPS will use information we gather about you from your visit to our website.  If you visit an AACPS site to:
+[](https://web.archive.org/aacps/boe/HR/privacy.asp?mode=print)
 
-> 1\. **Read or download** **information:**   We may collect and store  information for statistical purposes. For example, we may count the number of visitors to the different sections of our site to help us make them more useful to visitors. Similar information is gathered for anonymous ftp, remote account login, or for other comparable types of connections. 
+* * *
+
+**Website Privacy Policy**
+
+####  The following statement establishes how AACPS will use information we gather about you from your visit to our website.  If you visit an AACPS site to:
+
+> 1\. **Read or download information:**   We may collect and store information for statistical purposes. For example, we may count the number of visitors to the different sections of our site to help us make them more useful to visitors. Similar information is gathered for anonymous ftp, remote account login, or for other comparable types of connections. 
 > 
 > 2\. **Send us an E-mail:   **By sending us an electronic mail message, you may be sending us personal information (e.g., name, address, E-mail address), as in an official FOIA request. We may store the name and address of the requester in order to respond to the request or to otherwise resolve the subject matter of your E-mail. 
 > 
@@ -19,3 +25,9 @@ AACPS.org may provide links to web pages which are not part of the AACPS web fam
 **Americans with Disabilities Act  
 **  
 Most pages on this website have been reviewed and revised to be accessible to individuals with disabilities in accordance with provisions of Section 508 of the Americans with Disabilities Act. We are continuing the task of making our pages accessible.  If you are having a problem accessing an AACPS website, please let us know and we will work to ensure accessibility.
+
+* * *
+
+_Anne Arundel County Public Schools_   
+_2644 Riva Road,_   
+_Annapolis Md. 21401_
