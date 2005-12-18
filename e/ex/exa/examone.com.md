@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the examone.com privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409044008id_/http%3A//www.examone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examone.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218145249id_/http%3A//www.examone.com/privacy.html) for the most accurate reproduction.*
 
 # ExamOne
 
 Lab _One_ , Inc. and its affiliates (referred to collectively in this policy as “Lab _One_ ”) are committed to respecting and protecting your privacy and personal information (i.e. information that can personally identify you as an individual). 
 
-Lab _One_ does not use cookies nor does Lab _One_ use any electronic means to automatically collect personal information from you or your computer. However, Lab _One_ ’s web servers will automatically collect IP addresses and we may view our web server IP log from time to time to prevent fraudulent acts and possible network attacks.
+Lab _One_ does not use any electronic means to automatically collect personal information from you or your computer. However, Lab _One_ ’s web servers will automatically collect IP addresses and we may view our web server IP log from time to time to prevent fraudulent acts and possible network attacks.
 
 The only personal information Lab _One_ collects via the Website is the information voluntarily supplied by you if you contact a member of Lab _One_ via the Website. 
 
