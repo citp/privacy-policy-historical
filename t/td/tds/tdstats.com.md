@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdstats.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305003505id_/http%3A//www.tdstats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdstats.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218235323id_/http%3A//www.tdstats.com/privacy.php) for the most accurate reproduction.*
 
 # TDStats.com - Privacy Policy
 
@@ -19,4 +19,4 @@ TDStats utilize third party companies for advertising. These ads may place cooki
 
 TDStats does not sell email addresses to third parties.
 
-TDStats staff can be contacted [here](https://web.archive.org/web/20050305003505id_/http%3A//www.tdstats.com/contact.php).
+TDStats staff can be contacted [here](https://web.archive.org/web/20051218235323id_/http%3A//www.tdstats.com/contact.php).
