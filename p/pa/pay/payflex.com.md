@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payflex.com privacy policy that was archived on 2005-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050223183653id_/http%3A//www.payflex.com/default.asp%3FT%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payflex.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218155134id_/http%3A//payflex.com/default.asp%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
