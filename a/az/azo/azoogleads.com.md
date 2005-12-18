@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azoogleads.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527201321id_/http%3A//www.azoogleads.com/az/new/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azoogleads.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218165749id_/http%3A//www.azoogleads.com/az/new/privacy.php) for the most accurate reproduction.*
 
 # AzoogleAds
 
@@ -18,22 +18,8 @@ Web user information (all of which is non-personally identifiable) is shared wit
 **Third Party Advertising:**  
 We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
 
- **Third Party Cookies:**  
+**Third Party Cookies:**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 **Contacting AzoogleAds:**  
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact us at [help@azoogleads.com](mailto:help@azoogleads.com)
-
-| 
-
-This Affiliates privacy policy is intended to disclose the type of information that AzoogleAds collects about its Affiliates and how the information is used. For our web user privacy policy, please see the Web User Privacy Statement . 
-
-  1. Ownership of Information: AzoogleAds is the sole owner of all data collected by AzoogleAds on this site. Information collected is in two distinct categories: Affiliate information and aggregated Web User information. 
-  2. Use of Information Collected: Affiliate information collected includes personally identifiable information that is necessary to conduct business, such as name, phone number, and email address. This information is required so that payments may be made to and from AzoogleAds and aid us in servicing our Affiliates to the best of our ability. 
-  3. Information Sharing: Affiliate information is not shared with any third party outside AzoogleAds, except for that necessary to conduct business, such as for invoicing for advertising campaign purchase, making payments to a Publisher, or as required by law. We will not sell, share, or rent this information to others. 
-  4. Use of Cookies: Cookies are used to simplify Affiliate logins and to facilitate secure navigation through the password protected areas of the website. Affiliates who choose turn cookies off in their web browser may have difficulty navigating the password protected areas of the website. 
-  5. Security: AzoogleAds takes reasonable precaution to protect the information collected through its websites against loss, misuse or alteration. All information is password protected and only employees of AzoogleAds that require access to this information to conduct normal business are give permissions to use it. 
-  6. Web Links: When you leave this site though links found on this site to other websites (whether knowingly or not) AzoogleAds can no longer be responsible in any way for any material that you encounter and AzoogleAds excludes (to the fullest extent permitted by law) any liability that may arise with respect to or as a result of such material causing any damage, costs, injury or financial loss of any kind. 
-  7. Further Information: If you have any further questions regarding the AzoogleAds Affiliates privacy Policy please contact us at [help@azoogleads.com ](mailto:help@azoogleads.com) or 905 946 0300 
-
-
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact us at [help@AzoogleAds.com](mailto:help@AzoogleAds.com)
