@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the finda.co.nz privacy policy that was archived on 2005-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050216155015id_/http%3A//www.finda.co.nz/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finda.co.nz privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218034338id_/http%3A//www.finda.co.nz/privacy-policy.php) for the most accurate reproduction.*
 
 # FindA New Zealand Privacy Policy
+
+[Home](https://web.archive.org/) » Privacy Policy
 
 FindA has created this privacy statement in order to demonstrate our firm commitment to privacy. This document discloses our information gathering and usage practices. For additional information about FindA, please review our Terms and Conditions. 
 
@@ -63,5 +65,3 @@ FindA may sell or otherwise assign its business or part of it s business and sh
 From time to time, we make changes to our information practices or alter the functionality of our Web site. We always update this statement accordingly, so we encourage you to periodically review this page for the latest information on privacy practices at FindA. 
 
 If you have any questions about our privacy policies or any other matter, please [contact us](https://web.archive.org/contact.php).
-
-[](https://web.archive.org/redirect.php?id=17)
