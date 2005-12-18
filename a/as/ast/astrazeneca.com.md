@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610015841id_/http%3A//www.astrazeneca.com/node/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218085446id_/http%3A//www.astrazeneca.com/node/Privacy.aspx) for the most accurate reproduction.*
 
 # AstraZeneca International - Privacy policy
 
