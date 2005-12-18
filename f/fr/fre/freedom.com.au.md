@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615134538id_/http%3A//www.freedom.com.au/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218031947id_/http%3A//www.freedom.com.au/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy < Freedom Furniture
 
@@ -71,7 +71,7 @@ Should you wish to access your personal information, please contact our Privacy 
 
 Opt-out
 
-If, for any reason, you would like to be removed from our mailing lists, please complete the [opt-out form](https://web.archive.org/web/20050615134538id_/http%3A//www.freedom.com.au/privacy/opt_out_form.asp) here. The opt-out form is also available from any of our stores or from the Privacy Officer.
+If, for any reason, you would like to be removed from our mailing lists, please complete the [opt-out form](https://web.archive.org/web/20051218031947id_/http%3A//www.freedom.com.au/privacy/opt_out_form.asp) here. The opt-out form is also available from any of our stores or from the Privacy Officer.
 
 Security
 
