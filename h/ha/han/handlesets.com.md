@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604132533id_/http%3A//www.handlesets.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218031114id_/http%3A//www.handlesets.com/privacy.cfm) for the most accurate reproduction.*
 
 # 
 
@@ -22,4 +22,4 @@ Information about our customers is an important part of our business, and we are
 
 We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
 
-If you choose to visit our site, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about our privacy policies, please send us a thorough description to [customer Service](mailto:customerservice@handlesets.com) and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. You should check our Web site frequently to see recent changes.
+If you choose to visit our site, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about our privacy policies, please send us a thorough description to [Customer Service](https://web.archive.org/web/20051218031114id_/http%3A//www.handlesets.com/accessdriver.cfm?page=account:home) and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. You should check our Web site frequently to see recent changes.
