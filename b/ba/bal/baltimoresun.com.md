@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the baltimoresun.com privacy policy that was archived on 2005-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050619014414id_/http%3A//www.baltimoresun.com/about/bal-sunspot-privacy%2C0%2C6752642.htmlstory) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimoresun.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218192514id_/http%3A//www.baltimoresun.com/privacy) for the most accurate reproduction.*
 
-# baltimoresun.com - Privacy Policy
-
-Privacy Policy
+# Privacy Policy - baltimoresun.com
 
 Last Updated: February, 2004 
 
@@ -70,6 +68,6 @@ In the event case of any conflict between the terms of this policy and the terms
 
 [](http://www.baltimoresun.com/extras/contests)  
 Enter to win tickets to movies, concerts, festivals, sporting events and more. [](https://web.archive.org/services/newspaper/events)  
-Learn more about events sponsored by The Baltimore Sun and baltimoresun.com, including Baltimore's best darn yard sale. [](https://web.archive.org/extras/ads/special_sections)  
-This month's featured section: Unisun. [](http://www.uniquespecialtiesstores.com/Merchant2/merchant.mv?Screen=SFNT&Store_Code=SS)  
+Learn more about events sponsored by The Baltimore Sun and baltimoresun.com, including the Career Fair. [](https://web.archive.org/extras/ads/special_sections)  
+Special sections from The Baltimore Sun. [](http://www.uniquespecialtiesstores.com/Merchant2/merchant.mv?Screen=SFNT&Store_Code=SS)  
 Purchase press plates of _Sun_ front pages and logo merchandise. 
