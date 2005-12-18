@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themexp.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305034731id_/http%3A//www.themexp.org/privacy_stmt.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themexp.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218210316id_/http%3A//www.themexp.org/privacy_stmt.php) for the most accurate reproduction.*
 
 # ThemeXP - Privacy
 
-> **ThemeXP** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ThemeXP](https://web.archive.org/web/20050305034731id_/http%3A//www.themexp.org/index.php). 
+> **ThemeXP** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ThemeXP](https://web.archive.org/web/20051218210316id_/http%3A//www.themexp.org/index.php). 
 > 
 > ####  Information Automatically Logged 
 > 
