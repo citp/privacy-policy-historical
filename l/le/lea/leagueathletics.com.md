@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525120517id_/http%3A//leagueathletics.com/About/Privacy.asp%3Forg%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218013857id_/http%3A//leagueathletics.com/About/Privacy.asp%3Forg%3D) for the most accurate reproduction.*
 
 # LeagueAthletics.com - Feedback
 
-| 
-
-[ ](https://leagueathletics.com/About/SBCustInfo.asp?org= "Create your own web site")  
-  
+|   [ Home](http://leagueathletics.com/About/Default.asp)  
 ---  
-  [ Home](http://leagueathletics.com/About/Default.asp)  
   [ About Us](http://leagueathletics.com/About/About.asp?org= "About our company")  
   [ Features](http://leagueathletics.com/About/FeaturesExplained.asp?org= "Sports web hosting feaures explained")  
   [ Kudos](http://leagueathletics.com/About/Kudos.asp?org= "See what our customers have to say")  
@@ -20,10 +16,9 @@
   [ Privacy](http://leagueathletics.com/About/Privacy.asp?org= "LeagueAthletics.com hosting privacy policy")  
   [ Cancellation](http://leagueathletics.com/About/RefundPolicy.asp?org= "LeagueAthletics.com hosting cancellation/refund policy")  
    
-  
    
 Club Visitors:  
-  **10,914,466**  
+  **18,123,924**  
 |  | 
 
   | 
@@ -42,7 +37,7 @@ As a user of a LeagueAthletics.com hosted World Wide Web site (the “Service”
 
 
 
-[For our Children's Privacy Policy (COPPA), click here](https://web.archive.org/web/20050525120517id_/http%3A//leagueathletics.com/About/PrivacyCOPPA.asp).
+[For our Children's Privacy Policy (COPPA), click here](https://web.archive.org/web/20051218013857id_/http%3A//leagueathletics.com/About/PrivacyCOPPA.asp).
 
 _Disclosure_
 
