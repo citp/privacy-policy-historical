@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hyundai.co.uk privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405223233id_/http%3A//www.hyundai.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.co.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218103132id_/http%3A//www.hyundai.co.uk/privacy) for the most accurate reproduction.*
 
 # Hyundai | Privacy
 
-HCUK and its group companies take the privacy of your information very seriously. We aim to meet current Internet best practice. Our services are designed to give you the information that you want to receive. Our Privacy Policy below explains how we will collect and use the information you give us. We may vary this policy from time to time and the current version will be that published on this site. The words 'we' or 'HCUK' refers to Hyundai Car (UK) Ltd, unless otherwise indicated.
+Hyundai Motor UK Ltd and its group companies take the privacy of your information very seriously. We aim to meet current Internet best practice. Our services are designed to give you the information that you want to receive. Our Privacy Policy below explains how we will collect and use the information you give us. We may vary this policy from time to time and the current version will be that published on this site. The word 'we' refers to Hyundai Motor UK Ltd, unless otherwise indicated.
 
 * Collecting your information 
 
@@ -14,7 +14,7 @@ We will act in accordance with current legislation and we will provide a link to
 
 ## RAC Data Protection Notice
 
-HCUK will share the information you provide, together with other information, with our group companies*. We (RAC group companies) will use this for administration, marketing, customer services and profiling your purchasing preferences. We will disclose your information to our service providers and agents for these purposes. We may keep your information for a reasonable period to contact you about our services. For information about the way we use cookies and other web tracking devices please refer to section 2 in this privacy policy. 
+Hyundai Motor UK Ltd will share the information you provide, together with other information, with our group companies*. We (RAC group companies) will use this for administration, marketing, customer services and profiling your purchasing preferences. We will disclose your information to our service providers and agents for these purposes. We may keep your information for a reasonable period to contact you about our services. For information about the way we use cookies and other web tracking devices please refer to section 2 in this privacy policy. 
 
 We may transfer your information outside of the European Economic Area, for example to Asia. We will only do this where it is necessary for the conclusion, or performance of a contract between us, or that we enter into at your request, in your interest, or for administrative, or our own marketing purposes.
 
@@ -32,7 +32,7 @@ We offer motoring and travel related products such as breakdown services, hotel 
 
 By submitting data to us, you give us consent to use your sensitive personal data e.g. health data for your registration under the Motability Scheme (if appropriate), solely for the purposes for which you submit it.
 
-(*HCUK is part of RAC plc, which includes the Lex group of companies, and the British School of Motoring Limited.
+(*Hyundai Motor UK Ltd is part of RAC plc, which includes the Lex group of companies, and the British School of Motoring Limited.
 
 back to top
 
@@ -56,7 +56,7 @@ back to top
 
 * How to access your personal information 
 
-Please address requests to the Data Protection Compliance Manager, Hyundai Car (UK) Ltd 17 Connaught Place, London W2 2EL. (Please note that a small fee of Â£10.00 will be charged for dealing with these requests). If you believe that any of the data we hold about you is incorrect or being misused or want further information you may contact us at the above address.
+Please address requests to the Data Protection Compliance Manager, Hyundai Motor UK Ltd 17 Connaught Place, London W2 2EL. (Please note that a small fee of å£10.00 will be charged for dealing with these requests). If you believe that any of the data we hold about you is incorrect or being misused or want further information you may contact us at the above address.
 
 * Users aged 16 and under 
 
@@ -78,6 +78,6 @@ If you have any questions regarding this privacy policy or any other aspect of o
 
 * Links to other websites 
 
-Our Websites may contain links to other sites outside the group. Neither HCUK, nor its group companies, are responsible for the privacy and security of these sites. This privacy policy applies only to this website.
+Our Websites may contain links to other sites outside the group. Neither Hyundai Motor UK Ltd, nor its group companies, are responsible for the privacy and security of these sites. This privacy policy applies only to this website.
 
 back to top
