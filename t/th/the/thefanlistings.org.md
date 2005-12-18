@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefanlistings.org privacy policy that was archived on 2005-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050301101628id_/http%3A//www.thefanlistings.org/termsofuse.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefanlistings.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218200526id_/http%3A//www.thefanlistings.org/termsofuse.php) for the most accurate reproduction.*
 
 # TFL.org Terms of Use, Privacy and Spam Policy | The Fanlistings
 
