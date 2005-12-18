@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2005-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050329091459id_/http%3A//www.assuranthealth.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218211410id_/http%3A//www.assuranthealth.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Assurant Health: Page Title
 
 Individual Rights and Forms 
 
-**Assurant Health Companies: Fortis Insurance Company  
-Fortis Benefits Insurance Company John Alden Life Insurance Company **
+**Assurant Health Companies: Time Insurance Company  
+Union Security Insurance Company John Alden Life Insurance Company **
 
 Form 28280 (4/14/2003)
 
@@ -19,7 +19,7 @@ Assurant Health is required by law to maintain the privacy of protected health i
 
 **Who We Are**
 
-In business since 1892, Assurant Health provides health insurance coverage for more than one million people nationwide. Assurant Health develops and provides a wide range of individual medical, small group, short term and student health insurance products, as well as non-insurance products. Assurant Health also provides consumer-choice products such as Health Savings Accounts and Health Reimbursement Arrangements. With almost 3,000 employees, Assurant Health is headquartered in Milwaukee, WI, and has operations offices in Minnesota, Idaho, and Florida, as well as sales offices across the country. Assurant Health products are underwritten and issued by Fortis Insurance Company, John Alden Life Insurance Company and Fortis Benefits Insurance Company. The Assurant Health Web site is [www.assuranthealth.com](http://www.assuranthealth.com/). Assurant Health is part of Assurant, which offers specialized insurance products and related services in North America and selected other markets. 
+In business since 1892, Assurant Health provides health insurance coverage for more than one million people nationwide. Assurant Health develops and provides a wide range of individual medical, small group, short term and student health insurance products, as well as non-insurance products. Assurant Health also provides consumer-choice products such as Health Savings Accounts and Health Reimbursement Arrangements. With almost 3,000 employees, Assurant Health is headquartered in Milwaukee, WI, and has operations offices in Minnesota, Idaho, and Florida, as well as sales offices across the country. Assurant Health products are underwritten and issued by Time Insurance Company, John Alden Life Insurance Company and Union Security Insurance Company. The Assurant Health Web site is [www.assuranthealth.com](http://www.assuranthealth.com/). Assurant Health is part of Assurant, which offers specialized insurance products and related services in North America and selected other markets. 
 
 **Information We Collect**
 
@@ -73,7 +73,7 @@ If you would like to request to access or amend your personal health information
 
 **Changes to This Notice**
 
-We reserve the right to make changes to this notice and to make the revised or changed notice effective for protected health information we already have about you as well as any information we receive or create in the future. Any changes to this notice will be posted on our Web site, and if we make substantial material changes to the notice, we will distribute the revised notice to you or your plan sponsor via mail. You may view a copy of this notice at any time at our Web site [www.assuranthealth.com](http://www.assuranthealth.com/) or you may receive another copy of the notice by calling our Customer Service Department. For Fortis Insurance Company and Fortis Benefits Insurance Company call 1-800-800-1212. For John Alden Life Insurance Company call 1-800-328-4316. Assurant Health 501 West Michigan Milwaukee, WI 53203 
+We reserve the right to make changes to this notice and to make the revised or changed notice effective for protected health information we already have about you as well as any information we receive or create in the future. Any changes to this notice will be posted on our Web site, and if we make substantial material changes to the notice, we will distribute the revised notice to you or your plan sponsor via mail. You may view a copy of this notice at any time at our Web site [www.assuranthealth.com](http://www.assuranthealth.com/) or you may receive another copy of the notice by calling our Customer Service Department. For Time Insurance Company and Union Security Insurance Company call 1-800-800-1212. For John Alden Life Insurance Company call 1-800-328-4316. Assurant Health 501 West Michigan Milwaukee, WI 53203 
 
 **Women’s Health and Cancer Rights Act Notice**
 
