@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305062119id_/http%3A//www.aleks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218052533id_/http%3A//aleks.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 > This privacy statement discloses the privacy practices of ALEKS Corporation ("ALEKS") for our websites: [www.aleks.com](http://www.aleks.com/), [www.highedmath.aleks.com](http://www.highedmath.aleks.com/), [www.business.aleks.com](http://www.business.aleks.com/), [www.sbsci.aleks.com](http://www.behsci.aleks.com/), [www.highedstudent.aleks.com](http://www.highedstudent.aleks.com/), and [www.bussinessstudent.aleks.com](http://www.businessstudent.aleks.com/). 
 
-ALEKS also operates a web site directed to K-12 students using ALEKS through their school. This website, [www.k12.aleks.com](http://www.k12.aleks.com/), has a separate privacy statements which is very different than this one. If you would like to see the privacy statement for our K-12 web site, please click [here](http://www.k12.aleks.com/privacy.html). 
+ALEKS also operates a web site directed to K-12 students using ALEKS through their school. This website, [www.k12.aleks.com](http://www.k12.aleks.com/), has a separate privacy statement. If you would like to see the privacy statement for our K-12 web site, please click [here](http://www.k12.aleks.com/privacy.html). 
 
 ALEKS agrees to notify you of: 
 
