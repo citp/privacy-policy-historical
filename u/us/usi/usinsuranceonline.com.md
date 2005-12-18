@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usinsuranceonline.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526214946id_/http%3A//usinsuranceonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usinsuranceonline.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218031107id_/http%3A//usinsuranceonline.com/privacy.php) for the most accurate reproduction.*
 
 # USInsuranceOnline.com - The Easiest Way to Shop for Insurance
 
@@ -6,7 +6,7 @@
 ---  
 USInsuranceOnline.com has written up a privacy policy to protect your interests. Below are our guidelines to how we protect and share your information that you submit on our site.
 
-InsurancNegotiators.com does not sell insurance online. We will provide you a service so you can get FREE insurance quotes. The insurance professionals that provide you with your FREE quotes compensate us. This will give you options to see products and prices from different insurance companies.   
+USInsuranceOnline.com does not sell insurance online. We will provide you a service so you can get free insurance quotes. The insurance professionals that provide you with your free quotes compensate us. This will give you options to see products and prices from different insurance companies.   
   
 Why do we request personal information?  
 USInsuranceOnline.com collects your personal information so that our insurance professionals can get you the quote that you request. The more information you provide the more accurate the quote. We may share your information with marketing partners to provide you with information on new products that will help you in the future. In order to keep your insurance cost down in the future we want to keep you well informed.  
