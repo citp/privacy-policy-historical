@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentfinder.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308142347id_/http%3A//www.apartmentfinder.com/privacy.aspx%3Frefer%3Daf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentfinder.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218114240id_/http%3A//www.apartmentfinder.com/privacy.aspx%3Frefer%3Daf) for the most accurate reproduction.*
 
 # Livingchoices.com: Real Estate - New Homes, Homes for Sale, Apartment Rentals
 
