@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squarespace.com privacy policy that was archived on 2005-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050522002247id_/http%3A//www.squarespace.com/do/display/external/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squarespace.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218070809id_/http%3A//www.squarespace.com/do/display/external/PrivacyPolicy) for the most accurate reproduction.*
 
 # Squarespace - Privacy Policy
 
@@ -138,9 +138,17 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 If you have any questions or suggestions regarding our privacy policy, please contact us by using our [support system](https://web.archive.org/do/display/external/ContactUs).
 
-Squarespace can be reached directly via mail at:
+Squarespace is located at:
+
+Squarespace, Inc.  
+South Campus Commons #2  
+Suite 2101  
+University of Maryland  
+College Park, MD 20742 
+
+**All correspondence** should be sent to:
 
 Squarespace, Inc.  
 RE: Privacy Concern  
-P.O. Box 523  
-Sparks, MD 21152. 
+P.O. Box 34961  
+Bethesda, MD 20827 
