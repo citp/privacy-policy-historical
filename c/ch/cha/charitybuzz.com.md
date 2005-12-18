@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204133133id_/http%3A//www.charitybuzz.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219001719id_/http%3A//www.charitybuzz.com/privacypolicy.html) for the most accurate reproduction.*
 
-# CharityBuzz | charityauctions
-
-  |   | 
-
-[](https://web.archive.org/web/20050204133133id_/http%3A//www.charitybuzz.com/charityauctions.html)
-
-[](https://web.archive.org/web/20050204133133id_/http%3A//www.charitybuzz.com/onlinetalk.html)
-
-|   |  | 
+# Charity Buzz | privacy policy
 
 CharityBuzz (“charity buzz ,” “we,” “us”) shares your concerns about the protection of your personal information online. This Privacy Policy (“Policy”) describes our practices regarding the collection and use of information through our website, located at www.redenvelope.com (the “Site”). By using the Site or obtaining any product or service through this Site, you agree the collection of use of information as set forth in this Policy. If you do not agree to this Policy, please do not use the Site. 
 
@@ -20,9 +12,3 @@ We also use “cookies” and other tracking technologies to collect non-persona
 
 We do not share personal data with any other company and our sole mission for charitybuzz is to raise funds and awareness for our partner charities. We value our relationship with every visitor to charitybuzz and make great efforts to meet and exceed industry privacy standards.   
 .
-
-As a natural consequence of the development of our company, we could be sold to another company. In the event that we are acquired by another company or a significant portion of our assets is sold to another company, all of the customer information including both financial records and consumer information that we have collected may be transferred to the new company  
-:   
-
-
-> |  
