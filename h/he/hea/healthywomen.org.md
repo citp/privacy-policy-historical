@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308102610id_/http%3A//www.healthywomen.org/content.cfm%3FL1%3D104) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218134107id_/http%3A//www.healthywomen.org/content.cfm%3FL1%3D104) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@
 
 **Introduction**
 
-The National Women’s Health Resource Center, Inc. (NWHRC) and [www.healthywomen.org](http://www.healthywomen.org/) believe strongly in an individual’s right to privacy. We recognize that you trust us to provide quality health information. We apply these same high standards when we protect your personal information in confidentiality and privacy matters. 
+The National Women's Health Resource Center, Inc. (NWHRC) and [www.healthywomen.org](http://www.healthywomen.org/) believe strongly in an individual's right to privacy. We recognize that you trust us to provide quality health information. We apply these same high standards when we protect your personal information in confidentiality and privacy matters. 
 
 When you visit [www.healthywomen.org](http://www.healthywomen.org/), we may request and/or collect a minimal amount of personal information. This information is requested and/or collected in order to better serve you through the various applications at the site. 
 
@@ -44,55 +44,55 @@ Back to top
   
 **How is Personal Information Requested and/or Collected and Used at Healthywomen.org?**
 
-  1. **User (Consumer) Survey** – Our user survey includes registering personal information, such as name, email address, address, age, last education level attained, profession, ethnicity, primary language, household income, relationship status, and other variables. 
+  1. **User (Consumer) Survey** \- Our user survey includes registering personal information, such as name, email address, address, age, last education level attained, profession, ethnicity, primary language, household income, relationship status, and other variables. 
 
-The information gathered from this user survey is used for internal management purposes, so that we learn about the profile of our user audience. The NWHRC does not sell, rent, loan, trade, lease, or otherwise provide to third parties any individually attributable information. The NWHRC however, reserves the right to review aggregate data and information with third parties to better serve our users, and we do so in a fashion that protects every user’s personal information. 
+The information gathered from this user survey is used for internal management purposes, so that we learn about the profile of our user audience. The NWHRC does not sell, rent, loan, trade, lease, or otherwise provide to third parties any individually attributable information. The NWHRC however, reserves the right to review aggregate data and information with third parties to better serve our users, and we do so in a fashion that protects every user's personal information. 
 
-  2. **Women’s Health Surveys** \- Topic-specific surveys at the site may or may not request a participant to register/provide personal information. Participation in these surveys is completely voluntary and the visitor therefore has a choice whether or not to disclose personal information. 
+  2. **Women's Health Surveys** \- Topic-specific surveys at the site may or may not request a participant to register/provide personal information. Participation in these surveys is completely voluntary and the visitor therefore has a choice whether or not to disclose personal information. 
 
-The information gathered from these women’s health surveys are used for internal management purposes, so that we learn, in aggregate form, about lifestyle issues, experiences and opinions of our users. The NWHRC does not sell, rent, loan, trade, lease, or otherwise provide to third parties any individually attributable information. The NWHRC however, reserves the right to review aggregate survey data with third parties to better serve our users, and we do so in a fashion that protects every user’s personal information. 
+The information gathered from these women's health surveys are used for internal management purposes, so that we learn, in aggregate form, about lifestyle issues, experiences and opinions of our users. The NWHRC does not sell, rent, loan, trade, lease, or otherwise provide to third parties any individually attributable information. The NWHRC however, reserves the right to review aggregate survey data with third parties to better serve our users, and we do so in a fashion that protects every user's personal information. 
 
-  3. **Consumer Feedback** – When you submit feedback to us through our Feedback Form, and/or [info@healthywomen.org](mailto:info@healthywomen.org) and [webmaster@healthywomen.org](mailto:webmaster@healthywomen.org), we ask that you include your name and email address. 
+  3. **Consumer Feedback** \- When you submit feedback to us through our Feedback Form, and/or [info@healthywomen.org](mailto:info@healthywomen.org) and [webmaster@healthywomen.org](mailto:webmaster@healthywomen.org), we ask that you include your name and email address. 
 
 We ask for this information so that we may contact consumers as necessary for additional clarification and to address any questions or feedback that you send us. This clarification will help the NWHRC continue to improve its site and information offered. 
 
-  4. **Personal Profile** – To establish a personal profile at the site, we ask for one’s name, email address, health topic interests, among other potential variables. 
+  4. **Personal Profile** \- To establish a personal profile at the site, we ask for one's name, email address, health topic interests, among other potential variables. 
 
 We use this information to deliver the health-related topics of interest to you and to identify, in aggregate form, the health interests of our user population. Individually attributable information will not be sold, rented, loaned, traded, leased or otherwise provided to third parties. 
 
   5. **Ecommerce**  
 a. _Newsletter Subscription_  
-When you subscribe to NWHRC newsletters, i.e., the _National Women’s Health Report_ , we ask for personal information including your name, email address, phone and fax numbers, billing address, shipping address, and credit card number and expiration.   
-We use this information to enable the Center to verify the visitor’s identity, process the transaction, verify receipt of payment, confirm shipment information, and provide status reports related to orders. Individual personal information is not sold, rented, loaned, traded, leased or otherwise provided to third parties. 
+When you subscribe to NWHRC newsletters, i.e., the _National Women's Health Report_ , we ask for personal information including your name, email address, phone and fax numbers, billing address, shipping address, and credit card number and expiration.   
+We use this information to enable the Center to verify the visitor's identity, process the transaction, verify receipt of payment, confirm shipment information, and provide status reports related to orders. Individual personal information is not sold, rented, loaned, traded, leased or otherwise provided to third parties. 
 
-b. _Books/Health Products Purchases_ – With the exception of NWHRC’s _Book of Women’s Health_ , when you purchase books/health products, NWHRC does not handle the actual transactions. We have collaborated with Amazon.com, and it is therefore the individual user’s responsibility to understand and agree to the terms, conditions and privacy policy of Amazon.com. NWHRC has no control or liability to the actions and policies of Amazon.com. 
+b. _Books/Health Products Purchases_ \- With the exception of NWHRC's _Book of Women's Health_ , when you purchase books/health products, NWHRC does not handle the actual transactions. We have collaborated with Amazon.com, and it is therefore the individual user's responsibility to understand and agree to the terms, conditions and privacy policy of Amazon.com. NWHRC has no control or liability to the actions and policies of Amazon.com. 
 
-  6. **IP Address** – Healthywomen.org collects Internet Protocol (IP) addresses for all of its visitors. 
+  6. **IP Address** \- Healthywomen.org collects Internet Protocol (IP) addresses for all of its visitors. 
 
 Healthywomen.org uses this information in aggregate form to analyze visitor trends, administer the site, track users, and gather broad demographic information about our users. IP addresses are not linked to personally identifiable information. Individual IP addresses are not sold, rented, loaned, traded, leased or otherwise provided to third parties. 
 
-  7. **Email Lists** – Healthywomen.org presently does not maintain email lists, however, NWHRC reserves the right to do so in the future. 
+  7. **Email Lists** \- Healthywomen.org presently does not maintain email lists, however, NWHRC reserves the right to do so in the future. 
 
 If this should take place, email lists would be used to keep healthywomen.org visitors informed as to new information at the site, products, services, and events. The NWHRC would not sell, rent, loan, trade, lease or otherwise provide individual email addresses to third parties. Additionally, we would ensure that list server software does not divulge email addresses of our list subscribers to anyone other than Healthywomen.org staff. 
 
-  8. **Interactive Tools** – Healthywomen.org presently does not have interactive tools, however, NWHRC reserves the right to develop or license interactive tools in the future. 
+  8. **Interactive Tools** \- Healthywomen.org presently does not have interactive tools, however, NWHRC reserves the right to develop or license interactive tools in the future. 
 
 If this should take place, the interactive tools may collect personal information if you so choose to use them. When you use a tool, it would not store personal information unless this is requested. Therefore, you would be able to use the tools and choose not to store your personal information; it is deleted and no longer accessible to anyone. If you choose to store the information, it would be collected by Healthywomen.org and subject to the overall Privacy Policy. Healthywomen.org cannot access personally identifiable information, nor will it share this information with others, unless the user expressly provides permission to do so, or we are required to disclose such information according to law. 
 
 When a tool is provided at the site, NWHRC/healthywomen.org will disclose its source and a description of the scientific basis for its operation. As appropriate, NWHRC will describe how it maintains the tools, including an evaluation process and the date of the last review or update. 
 
-  9. **Discussions at Healthywomen.org** – Healthywomen.org may offer discussions (bulletin boards), chats and other types of public forums to our users. These forums require registering under an ID and password. Our users are advised that disclosure of information at these public forums becomes public record, and they should post information with caution. NWHRC’s Privacy Policy does not protect you when you use public forums. We recommend that you do not use public forums to share personal information such as medical conditions due to the accessibility of that information by all who have access to it as a public domain. You should be aware that any information shared in a public chat room, bulletin board or online activity is considered public information and may be seen or collected by third parties that do not adhere to our Privacy Policy nor are in the control of NWHRC. You should think carefully before disclosing any personal information in any public forum. 
+  9. **Discussions at Healthywomen.org** \- Healthywomen.org may offer discussions (bulletin boards), chats and other types of public forums to our users. These forums require registering under an ID and password. Our users are advised that disclosure of information at these public forums becomes public record, and they should post information with caution. NWHRC's Privacy Policy does not protect you when you use public forums. We recommend that you do not use public forums to share personal information such as medical conditions due to the accessibility of that information by all who have access to it as a public domain. You should be aware that any information shared in a public chat room, bulletin board or online activity is considered public information and may be seen or collected by third parties that do not adhere to our Privacy Policy nor are in the control of NWHRC. You should think carefully before disclosing any personal information in any public forum. 
 
 These forums are to be respected and to be used professionally. Healthywomen.org will take steps to remove individuals from the forums who do not respect discussions protocol, such as those who include abusive language or demonstrate pornographic behavior. 
 
 Healthywomen.org uses this information in the event that the participants violate the terms and conditions of these discussions and we need to contact visitors. Healthywomen.org uses the information collected in these forums to evaluate consumer thoughts and behaviors in aggregate form. 
 
-  10. **Email A Friend** – In the event that the visitor uses our service to inform a friend about the site and/or to send information, we ask for his/her email, and the friend’s name and email address. 
+  10. **Email A Friend** \- In the event that the visitor uses our service to inform a friend about the site and/or to send information, we ask for his/her email, and the friend's name and email address. 
 
 Healthywomen.org uses this information to automatically send the friend a one-time email with this information, and stores this information for the sole purpose of sending this one-time email. The friend is instructed to contact [www.healthywomen.org](http://www.healthywomen.org/) to request the removal of this information from the database. 
 
 
- Back to top
+ÿBack to top
 
 * * *
 
@@ -143,7 +143,7 @@ Back to top
   
 **Information from Third Parties**
 
-From time to time, the NWHRC may offer our users the opportunity to obtain promotional and product information directly from third-party sponsors. To obtain this information, consumers will be instructed to “opt-in” or “opt-out.” By opting-in, certain personal information will be requested from the consumer. The user should be aware that any personal information disclosed once you access these third party sites is not subject to this Privacy Policy. NWHRC does not endorse and is not responsible for the privacy practices of these third party sites. You should review the privacy policy posted on the third party site to understand how that third party collects and uses personal information. At any time, the consumer will be able to change its decision by visiting the particular web site section and modifying their previous decision. 
+From time to time, the NWHRC may offer our users the opportunity to obtain promotional and product information directly from third-party sponsors. To obtain this information, consumers will be instructed to "opt-in" or "opt-out." By opting-in, certain personal information will be requested from the consumer. The user should be aware that any personal information disclosed once you access these third party sites is not subject to this Privacy Policy. NWHRC does not endorse and is not responsible for the privacy practices of these third party sites. You should review the privacy policy posted on the third party site to understand how that third party collects and uses personal information. At any time, the consumer will be able to change its decision by visiting the particular web site section and modifying their previous decision. 
 
 Back to top
 
@@ -170,11 +170,11 @@ Back to top
   
 **Electronic Newsletters**
 
-The National Women’s Health Resource Center (NWHRC) offers free e-mail newsletters. They include the electronic version of the bi-monthly _National Women’s Health Report_ ; _HealthyWomen Take 10_ , a monthly e-newsletter, and two editions of _News from the NWHRC_ , one for consumers and one for health care professionals, which are mailed twice a month.
+The National Women's Health Resource Center (NWHRC) offers free e-mail newsletters. They include the electronic version of the bi-monthly _National Women's Health Report_ ; _HealthyWomen Take 10_ , a monthly e-newsletter, and two editions of _News from the NWHRC_ , one for consumers and one for health care professionals, which are mailed twice a month.
 
-Anyone can subscribe to these newsletters; the only information that is required is a valid e-mail address. NWHRC sends e-mail newsletters only to only to those who have specifically given us their permission to mail them to them. NWHRC will never share, sell or rent your newsletter subscriber data or personal information with third parties without your advance permission. 
+Anyone can subscribe to these newsletters; the only information that is required is a valid e-mail address. NWHRC sends e-mail newsletters only to those who have specifically given us their permission to mail them to them. NWHRC will never share, sell or rent your newsletter subscriber data or personal information with third parties without your advance permission. 
 
-All e-newsletters offered by NWHRC contain a remove link at the bottom of the message. A subscriber may remove their e-mail address permanently from the list by clicking the link and selecting the “unsubscribe” function. 
+All e-newsletters offered by NWHRC contain a remove link at the bottom of the message. A subscriber may remove their e-mail address permanently from the list by clicking the link and selecting the "unsubscribe" function. 
 
 Back to top
 
@@ -183,13 +183,13 @@ Back to top
   
 **Contacting the NWHRC**
 
-Every page of the web site offers the consumer the opportunity to contact the NWHRC with any questions concerning one’s health, and existing policies, including the Disclaimer, Privacy Policy, Advertising Policy, and Editorial Policy. These questions are directed to [info@healthywomen.org](mailto:info@healthywomen.org). 
+Every page of the web site offers the consumer the opportunity to contact the NWHRC with any questions concerning one's health, and existing policies, including the Disclaimer, Privacy Policy, Advertising Policy, and Editorial Policy. These questions are directed to [info@healthywomen.org](mailto:info@healthywomen.org). 
 
 Every page also offers the consumer the opportunity to contact the NWHRC with questions/concerns regarding site functionality. The following email address is used for this purpose: [webmaster@healthywomen.org](mailto:webmaster@healthywomen.org). 
 
-Additionally, contact information for the Center is identified in the “About NWHRC” section, under “Contact Us.” General consumer contact information is as follows:
+Additionally, contact information for the Center is identified in the "About NWHRC" section, under "Contact Us." General consumer contact information is as follows:
 
-> National Women’s Health Resource Center, Inc.  
+> National Women's Health Resource Center, Inc.  
 >  157 Broad Street  
 >  Suite 315  
 >  Red Bank, NJ 07701  
@@ -203,9 +203,9 @@ Back to top
   
 **Modifying Personal Information**
 
-As appropriate, users will have the opportunity to modify one’s personal profile at any time by visiting the “My Profile” section and inputting the revised information. 
+As appropriate, users will have the opportunity to modify one's personal profile at any time by visiting the "My Profile" section and inputting the revised information. 
 
-Opportunities exist to update one’s personal information at other sections of Healthywomen.org, as appropriate. 
+Opportunities exist to update one's personal information at other sections of Healthywomen.org, as appropriate. 
 
 Back to top
 
