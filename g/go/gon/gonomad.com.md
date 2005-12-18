@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218184440id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
 
 # GoNOMAD - Cultural, Educational and Adventure Travel
 
-[](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/corp/list.html)  
+[](https://web.archive.org/web/20051218184440id_/http%3A//www.gonomad.com/corp/list.html)  
 Give your travel business the exposure it deserves. Click here to get listed in GoNOMAD's searchable directory
 
-[](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/specials/specials.html)
+[](https://web.archive.org/web/20051218184440id_/http%3A//www.gonomad.com/specials/specials.html)
 
   
 Travel deals from Big World News and special offers from the GoNOMAD Network
@@ -15,19 +15,20 @@ Travel deals from Big World News and special offers from the GoNOMAD Network
   
 Travelogues, adventures, misadventures and more from real travelers...
 
-[](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/helps/helps.html)
+[](https://web.archive.org/web/20051218184440id_/http%3A//www.gonomad.com/helps/helps.html)
 
   
 Check out sustainable and responsible tourism projects around the world that you can help support
 
-[](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/market/market.html)
+[](https://web.archive.org/web/20051218184440id_/http%3A//www.gonomad.com/market/market.html)
 
 Shop the world for books, world music, travel accessories, handcrafts and more...
 
 * * *
 
 Share your travels!  
-[Click here to submit your stories to us!](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/corp/writerguidelines.htm) |  | 
+[Click here to submit your stories to us!](https://web.archive.org/web/20051218184440id_/http%3A//www.gonomad.com/corp/writerguidelines.htm)   
+|  | 
 
 > **GoNOMAD.com Privacy Statement**
 > 
@@ -91,55 +92,52 @@ Share your travels!
 > [Learning, Volunteer and **Alternative** **Travel** \- GoNOMAD](http://www.gonomad.com/alternatives/alternatives.html)
 > 
 > **...** No matter your age or interest, there's an **alternative** **travel** opportunity for you at GoNOMAD. **...** Top **alternative** **travel** picks in Europe. **...**   
->  www.gonomad.com/ **alternative** s/ **alternative** s.html - 56k - [Cached](http://64.233.167.104/custom?q=cache:c0qbzgy8ArgJ:www.gonomad.com/alternatives/alternatives.html+alternative+travel&hl=en&ie=UTF-8) \- [Similar pages](https://web.archive.org/custom?hl=en&lr=&ie=UTF-8&cof=AWFID:e4b06246dee7a40d%3BL:http://www.gonomad.com/images/gonmad_pagehead.gif%3BLH:80%3BLW:337%3BBGC:%23FFFFFF%3BT:%23666633%3BLC:%23660000%3BVLC:%23660000%3BALC:%23660000%3BGALT:%23008000%3BGFNT:%23666633%3BGIMP:%23666633%3BDIV:%23660000%3BLBGC:%23FFFFFF%3BAH:left%3BS:http://www.gonomad.com%3B&domains=www.gonomad.com&sitesearch=www.gonomad.com&q=related:www.gonomad.com/alternatives/alternatives.html)
+>  www.gonomad.com/ **alternative** s/ **alternative** s.html - 56k 
 > 
 > [**Alternative** **Travel** Feature Articles - GoNOMAD](http://www.gonomad.com/features/features.html)
 > 
 > **...** That's why GoNOMAD brings you a selection of original articles written expressly for GoNOMAD or culled from the best **alternative** **travel** magazines. **...**   
->  www.gonomad.com/features/features.html - 94k - [Cached](http://64.233.167.104/custom?q=cache:hLWarKWZ0SQJ:www.gonomad.com/features/features.html+alternative+travel&hl=en&ie=UTF-8) \- [Similar pages](https://web.archive.org/custom?hl=en&lr=&ie=UTF-8&cof=AWFID:e4b06246dee7a40d%3BL:http://www.gonomad.com/images/gonmad_pagehead.gif%3BLH:80%3BLW:337%3BBGC:%23FFFFFF%3BT:%23666633%3BLC:%23660000%3BVLC:%23660000%3BALC:%23660000%3BGALT:%23008000%3BGFNT:%23666633%3BGIMP:%23666633%3BDIV:%23660000%3BLBGC:%23FFFFFF%3BAH:left%3BS:http://www.gonomad.com%3B&domains=www.gonomad.com&sitesearch=www.gonomad.com&q=related:www.gonomad.com/features/features.html)
+>  www.gonomad.com/features/features.html - 94k 
 > 
 > [Finding and Choosing an **Alternative** **Travel** Vacation - GoNOMAD **...**](http://www.gonomad.com/alternatives/0011/rosenleafritter_altsminigu.html)
 > 
 > **...** GoNOMAD MINI GUIDE: Finding and Choosing an **Alternative** **Travel** Vacation By Nicole Rosenleaf Ritter, GoNOMAD **ALTERNATIVE** **TRAVEL** GUIDE. **...**   
->  www.gonomad.com/ **alternative** s/ 0011/rosenleafritter_altsminigu.html - 26k - [Cached](http://64.233.167.104/custom?q=cache:ib7gi-4wmDAJ:www.gonomad.com/alternatives/0011/rosenleafritter_altsminigu.html+alternative+travel&hl=en&ie=UTF-8) \- [Similar pages](https://web.archive.org/custom?hl=en&lr=&ie=UTF-8&cof=AWFID:e4b06246dee7a40d%3BL:http://www.gonomad.com/images/gonmad_pagehead.gif%3BLH:80%3BLW:337%3BBGC:%23FFFFFF%3BT:%23666633%3BLC:%23660000%3BVLC:%23660000%3BALC:%23660000%3BGALT:%23008000%3BGFNT:%23666633%3BGIMP:%23666633%3BDIV:%23660000%3BLBGC:%23FFFFFF%3BAH:left%3BS:http://www.gonomad.com%3B&domains=www.gonomad.com&sitesearch=www.gonomad.com&q=related:www.gonomad.com/alternatives/0011/rosenleafritter_altsminigu.html)
+>  www.gonomad.com/ **alternative** s/ 0011/rosenleafritter_altsminigu.html - 26k 
 > 
 > [From Touring to Learning: **Alternative** **Travel** in Southeast Asia **...**](http://www.gonomad.com/alternatives/0011/rosenleafritter_alternativ.html)
 > 
 > **...** From Touring to Learning: **Alternative** **Travel** in Southeast Asia By Nicole Rosenleaf Ritter, GoNOMAD **ALTERNATIVE** **TRAVEL** GUIDE Photo by Randal Thatcher. **...**   
->  www.gonomad.com/ **alternative** s/ 0011/rosenleafritter_alternativ.html - 30k - [Cached](http://64.233.167.104/custom?q=cache:sS3Lx3LbKl8J:www.gonomad.com/alternatives/0011/rosenleafritter_alternativ.html+alternative+travel&hl=en&ie=UTF-8) \- [Similar pages](https://web.archive.org/custom?hl=en&lr=&ie=UTF-8&cof=AWFID:e4b06246dee7a40d%3BL:http://www.gonomad.com/images/gonmad_pagehead.gif%3BLH:80%3BLW:337%3BBGC:%23FFFFFF%3BT:%23666633%3BLC:%23660000%3BVLC:%23660000%3BALC:%23660000%3BGALT:%23008000%3BGFNT:%23666633%3BGIMP:%23666633%3BDIV:%23660000%3BLBGC:%23FFFFFF%3BAH:left%3BS:http://www.gonomad.com%3B&domains=www.gonomad.com&sitesearch=www.gonomad.com&q=related:www.gonomad.com/alternatives/0011/rosenleafritter_alternativ.html)
+>  www.gonomad.com/ **alternative** s/ 0011/rosenleafritter_alternativ.html - 30k 
 > 
 > [Top Picks for **Alternative** **Travel** in Europe](http://www.gonomad.com/alternatives/0105/rosenleafritter_altspicks.html)
 > 
 > **...** Top Picks for **Alternative** **Travel** in Europe By Nicole Rosenleaf Ritter, GoNOMAD **ALTERNATIVE** **TRAVEL** GUIDE Courtesy of ArtExchange Greece. **...**   
->  www.gonomad.com/ **alternative** s/ 0105/rosenleafritter_altspicks.html - 46k - [Cached](http://64.233.167.104/custom?q=cache:CUDmYiUDBWwJ:www.gonomad.com/alternatives/0105/rosenleafritter_altspicks.html+alternative+travel&hl=en&ie=UTF-8) \- [Similar pages](https://web.archive.org/custom?hl=en&lr=&ie=UTF-8&cof=AWFID:e4b06246dee7a40d%3BL:http://www.gonomad.com/images/gonmad_pagehead.gif%3BLH:80%3BLW:337%3BBGC:%23FFFFFF%3BT:%23666633%3BLC:%23660000%3BVLC:%23660000%3BALC:%23660000%3BGALT:%23008000%3BGFNT:%23666633%3BGIMP:%23666633%3BDIV:%23660000%3BLBGC:%23FFFFFF%3BAH:left%3BS:http://www.gonomad.com%3B&domains=www.gonomad.com&sitesearch=www.gonomad.com&q=related:www.gonomad.com/alternatives/0105/rosenleafritter_altspicks.html)
+>  www.gonomad.com/ **alternative** s/ 0105/rosenleafritter_altspicks.html - 46k
 > 
 > [GoNOMAD-- **Alternative** **Travel** , Ecotourism, volunteering vacations **...**](http://www.gonomad.com/recorder.html)
 > 
 > GoNOMAD.com: **Travel** \-- **alternative** **travel** , budget trips, learning adventures, volunteer vacations & more. “ **Alternative** **travel** is involved **travel**. **...**   
->  www.gonomad.com/recorder.html - 42k - [Cached](http://64.233.167.104/custom?q=cache:4bIqwtBarEsJ:www.gonomad.com/recorder.html+alternative+travel&hl=en&ie=UTF-8) \- [Similar pages](https://web.archive.org/custom?hl=en&lr=&ie=UTF-8&cof=AWFID:e4b06246dee7a40d%3BL:http://www.gonomad.com/images/gonmad_pagehead.gif%3BLH:80%3BLW:337%3BBGC:%23FFFFFF%3BT:%23666633%3BLC:%23660000%3BVLC:%23660000%3BALC:%23660000%3BGALT:%23008000%3BGFNT:%23666633%3BGIMP:%23666633%3BDIV:%23660000%3BLBGC:%23FFFFFF%3BAH:left%3BS:http://www.gonomad.com%3B&domains=www.gonomad.com&sitesearch=www.gonomad.com&q=related:www.gonomad.com/recorder.html)
+>  www.gonomad.com/recorder.html - 42k 
 > 
 > [**Alternative** Island Fantasies - GoNOMAD](http://www.gonomad.com/alternatives/0101/ritter_altspicks.html)
 > 
 > **...** to have a "fantasy" island stay without ever hearing "Ze Plane!" Here’s an eclectic list of vacation and longer-term **alternative** **travel** possibilities on some **...**   
->  www.gonomad.com/ **alternative** s/0101/ritter_altspicks.html - 27k - [Cached](http://64.233.167.104/custom?q=cache:742hWxtSaekJ:www.gonomad.com/alternatives/0101/ritter_altspicks.html+alternative+travel&hl=en&ie=UTF-8) \- [Similar pages](https://web.archive.org/custom?hl=en&lr=&ie=UTF-8&cof=AWFID:e4b06246dee7a40d%3BL:http://www.gonomad.com/images/gonmad_pagehead.gif%3BLH:80%3BLW:337%3BBGC:%23FFFFFF%3BT:%23666633%3BLC:%23660000%3BVLC:%23660000%3BALC:%23660000%3BGALT:%23008000%3BGFNT:%23666633%3BGIMP:%23666633%3BDIV:%23660000%3BLBGC:%23FFFFFF%3BAH:left%3BS:http://www.gonomad.com%3B&domains=www.gonomad.com&sitesearch=www.gonomad.com&q=related:www.gonomad.com/alternatives/0101/ritter_altspicks.html)
+>  www.gonomad.com/ **alternative** s/0101/ritter_altspicks.html - 27k 
 > 
 > [GoNOMAD - Cultural, Educational and Adventure **Travel**](http://www.gonomad.com/corp/about.html)
 > 
 > **...** WHAT IS **ALTERNATIVE** **TRAVEL** , ANYWAY? **...** A vital aspect of **Alternative** **Travel** is an emphasis on sustainable and responsible tourism. **...**   
->  www.gonomad.com/corp/about.html - 26k - [Cached](http://64.233.167.104/custom?q=cache:PaR7BG_2QK8J:www.gonomad.com/corp/about.html+alternative+travel&hl=en&ie=UTF-8) \- [Similar pages](https://web.archive.org/custom?hl=en&lr=&ie=UTF-8&cof=AWFID:e4b06246dee7a40d%3BL:http://www.gonomad.com/images/gonmad_pagehead.gif%3BLH:80%3BLW:337%3BBGC:%23FFFFFF%3BT:%23666633%3BLC:%23660000%3BVLC:%23660000%3BALC:%23660000%3BGALT:%23008000%3BGFNT:%23666633%3BGIMP:%23666633%3BDIV:%23660000%3BLBGC:%23FFFFFF%3BAH:left%3BS:http://www.gonomad.com%3B&domains=www.gonomad.com&sitesearch=www.gonomad.com&q=related:www.gonomad.com/corp/about.html)
+>  www.gonomad.com/corp/about.html - 26k 
 > 
 > [Habla Espanol?: Top Picks for **Alternative** **Travel** in Central **...**](http://www.gonomad.com/alternatives/0012/rosenleafritter_altpicks.html)
 > 
 > **...** Habla Espanol?: Top Picks for **Alternative** **Travel** in Central America By Nicole Rosenleaf Ritter, GoNOMAD **ALTERNATIVE** **TRAVEL** GUIDE. **...**   
->  www.gonomad.com/ **alternative** s/ 0012/rosenleafritter_altpicks.html - 26k - [Cached](http://64.233.167.104/custom?q=cache:UtGVcgMC6kwJ:www.gonomad.com/alternatives/0012/rosenleafritter_altpicks.html+alternative+travel&hl=en&ie=UTF-8) \- [Similar pages](https://web.archive.org/custom?hl=en&lr=&ie=UTF-8&cof=AWFID:e4b06246dee7a40d%3BL:http://www.gonomad.com/images/gonmad_pagehead.gif%3BLH:80%3BLW:337%3BBGC:%23FFFFFF%3BT:%23666633%3BLC:%23660000%3BVLC:%23660000%3BALC:%23660000%3BGALT:%23008000%3BGFNT:%23666633%3BGIMP:%23666633%3BDIV:%23660000%3BLBGC:%23FFFFFF%3BAH:left%3BS:http://www.gonomad.com%3B&domains=www.gonomad.com&sitesearch=www.gonomad.com&q=related:www.gonomad.com/alternatives/0012/rosenleafritter_altpicks.html)
+>  www.gonomad.com/ **alternative** s/ 0012/rosenleafritter_altpicks.html - 26k 
 > 
-> [](https://web.archive.org/web/20050403163651id_/http%3A//www.gonomad.com/traveldesk/airportparking.html)
+> [](https://web.archive.org/web/20051218184440id_/http%3A//www.gonomad.com/traveldesk/airportparking.html)
 
 |  | 
 
  
 
 [](http://www.clickxchange.com/fr.phtml?act=1401712.2)
-
-  
-
