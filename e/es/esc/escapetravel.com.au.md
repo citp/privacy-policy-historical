@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the escapetravel.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615215643id_/http%3A//www.escapetravel.com.au/aboutus/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapetravel.com.au privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218143935id_/http%3A//www.escapetravel.com.au/aboutus/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Escape Travel - Privacy Policy
 
 ## Introduction
 
-This Privacy Policy ("Policy") explains in general terms how Flight Centre Limited ACN 003 377 188 - trading as Escape Travel ("Escape Travel", "we" "our" or "us") protects the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
+This Privacy Policy ("Policy") explains in general terms how Flight Centre Limited ACN 003 377 188 ("Flight Centre", "we" "ourv or "us") protects the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
 
 ## What is personal information?
 
@@ -16,7 +16,7 @@ Where practical we will collect personal information directly from you. Generall
 
 ## What personal information do we collect?
 
-Generally, the type of personal information we collect about you is the information that is needed to facilitate your travel arrangements and bookings and to provide travel services and products to you. For example, we may collect details such as your name, mailing address, telephone number, email address, credit card number and expiry date, passport details, dietary requirements (if any) and health issues relevant to your travel arrangements. We also collect information that is required for use in the business activities of Escape Travel, including for example, financial details necessary in order to process various transactions and any other information you may elect to provide to us.
+Generally, the type of personal information we collect about you is the information that is needed to facilitate your travel arrangements and bookings and to provide travel services and products to you. For example, we may collect details such as your name, mailing address, telephone number, email address, credit card number and expiry date, passport details, dietary requirements (if any) and health issues relevant to your travel arrangements. We also collect information that is required for use in the business activities of Flight Centre, including for example, financial details necessary in order to process various transactions and any other information you may elect to provide to us.
 
 We are required by law to obtain your consent to the collection of sensitive information. We will assume that you have consented to the collection of all information which is provided to us for use in accordance with this Policy, unless you tell us otherwise.
 
@@ -38,6 +38,7 @@ We may use and disclose your personal information for the purposes for which it 
   * Servicing our relationship with you by, among other things, providing updates on promotions and services we think may interest you;
   * Involving you in market research gauging customer satisfaction and seeking feedback regarding our relationship with you; 
   * To facilitate your participation in loyalty programs;
+  * To analyse trends in sales and travel destinations;
   * For marketing activities; and 
   * Internal accounting and administration. 
 
@@ -52,10 +53,11 @@ We may disclose your personal information:
   * to our third party service providers as well as to our related entities ;
   * to third parties such as airlines, hotels, car rental companies and other service providers for the purpose for which the information was collected or for a related purpose, for example to facilitate and process your travel arrangements; and
   * to third parties who may involve you in market research for the purpose of servicing our relationship with you and improving the services we provide.
+  * to third parties for the purpose of analysing trends in sales and travel destinations.
 
 
 
-The third parties to whom we disclose your personal information may also be taken to have collected your personal information in their own right, for their internal use. For more information, see the heading above, titled 'When we act as agent'.
+The third parties to whom we disclose your personal information may also be taken to have collected your personal information in their own right, for their internal use. For more information, see the heading above, titled "When we act as agent".
 
 Where we engage third party contractors to perform services for us those third party contractors may be required to handle your personal information. Under these circumstances those third party contractors must safeguard this information and must only use it for the purposes for which it was supplied, although we are not responsible for ensuring this. 
 
@@ -67,13 +69,15 @@ In providing our services to you it may be necessary for us to forward personal 
 
 ## Security of information
 
-Escape Travel has implemented appropriate physical, electronic and managerial security procedures in order to protect personal information from loss, misuse, alteration or destruction. 
+Flight Centre has implemented appropriate physical, electronic and managerial security procedures in order to protect personal information from loss, misuse, alteration or destruction. 
 
-Escape Travel regularly reviews security and encryption technologies and will strive to protect information to the fullest extent possible. 
+Flight Centre regularly reviews security and encryption technologies and will strive to protect information to the fullest extent possible. 
 
 ## Access and correction of personal information
 
-Subject to the exceptions set out in the Privacy Act 1988 (Cth), we invite you to access and correct any personal information we may hold on you. If we deny access, we will provide you with the reason for such denial. We may recover from you our reasonable costs of supplying you with access to this information.
+Subject to the exceptions set out in the Privacy Act 1988 (Cth), we invite you to access and correct any personal information we may hold on you. If we deny access, we will provide you with the reason for such denial. 
+
+We may recover from you our reasonable costs of supplying you with access to this information. 
 
 ## Opt-out
 
