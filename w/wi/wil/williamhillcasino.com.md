@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williamhillcasino.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206115645id_/http%3A//www.willhill.com/iibs/EN/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamhillcasino.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219022021id_/http%3A//www.willhill.com/iibs/EN/static/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,9 +26,9 @@ William Hill will not send you unsolicited information regarding any third party
 
 William Hill may use your name or username for advertising or promotional purposes.
 
-It is necessary for William Hill to collect personal information from you in order to set up and maintain your Account. In some situations, it may become necessary for William Hill to verify the accuracy of such information and perform credit investigation on you. You consent to William Hill collecting such personal information, using such personal information and disclosing such personal information to third parties (including but not limited to financial institutions and credit reporting agencies) for the above purposes.
+It is necessary for William Hill to collect personal information from you in order to set up and maintain your Account. In some situations, it may become necessary for William Hill to verify the accuracy of such information and perform credit investigation on you. You consent to William Hill collecting such personal information, using such personal information and disclosing such personal information to third parties (including but not limited to financial institutions and credit reporting agencies) for the above purposes. William Hill may also undertake a search with a third party for the purpose of verifying that you are 18 or over. The third party may check the details you have supplied against any database (public or otherwise) to which they have access. A record of the search will be retained and the third party may use the information to assist other companies for verification purposes.
 
-If you have chosen to withdraw funds from us using a local payment option your personal data will be shared with Stichting Trusted Third Party BiBit Internet Payments ("BiBit"). BiBit will act as a data processor on behalf of William Hill and will use your data only to carry out payments as requested. Bibit will not share your data with third parties other than as necessary to carry out payment requests via financial institutions. Bibit's privacy policy may be viewed at [www.bibit.com](http://www.bibit.com/).
+If you have chosen to withdraw funds from us using a local payment option your personal data will be shared with Stitching Trusted Third Party BiBit Internet Payments ("BiBit"). BiBit will act as a data processor on behalf of William Hill and will use your data only to carry out payments as requested. Bibit will not share your data with third parties other than as necessary to carry out payment requests via financial institutions. Bibit's privacy policy may be viewed at [www.bibit.com](http://www.bibit.com/).
 
 Emails and other contacts between you and our Customer Services Department are logged and processed through RightNow contact management solution. RightNow provide a secure hosted environment for all contact data. The data is not accessible to or shared with any parties external to William Hill. RightNow can be found at [www.rightnow.com](http://www.rightnow.com/)
 
@@ -53,4 +53,4 @@ If at any time you believe that William Hill has not adhered to these principles
 This privacy statement applies specifically to the **www.williamhill.co.uk** , **www.willhill.com** , **www.williamhillcasino.com** and **www.williamhillpoker.com** web sites. Questions regarding this statement should be directed to [customerservices@williamhill.co.uk](mailto:customerservices@williamhill.co.uk).  
   
    
-[Back To Sportsbook Home](http://www.willhill.com/iibs/EN/sportsbook.asp)
+[Back To Sportsbook Home](http://www.willhill.com/iibs/en/sportsbook.asp)
