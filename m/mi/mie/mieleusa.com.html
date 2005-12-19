@@ -1,11 +1,64 @@
-<!--The following is the downloaded HTML source of the mieleusa.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403222533id_/http%3A//www.miele.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mieleusa.com privacy policy that was archived on 2005-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219214138id_/http%3A//www.miele.com/privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
+<html><head></head><body width="100%" onload=""><a name="topOfPage"></a>
+
+<script language="JavaScript">
+
+var refURL = "";
+
+message = 'Sorry!';
+message += '\n';
+message += 'The website which you linked you here is NOT';
+message += '\n';
+message += 'an Authorized Miele dealer.';
+message += '\n';
+message += 'Please be sure to purchase only from';
+message += '\n'; 
+message += 'AUTHORIZED Miele dealers.';
+message += '\n';
+message += '\n';
+message += 'Please allow us to direct you to a'
+message += '\n';
+message += 'GENUINE Miele dealer.'
+
+var site = new Array(5);
+site[0]="ebay.com";
+site[1]="customdistributors.com";
+site[2]="classickitchensofva.com";
+site[3]="townappliance.homeappliances.com";
+site[4]="cumminsappliance.com";
+
+rString = refURL.toString();
+mieleLocator = 'http://www.miele.com/locator.asp?bhcp=1';
+
+siteLoop:
+for (i=0;i<site.length;i++) {
+tempString = site[i].toString();
+rStringReturnValue = rString.indexOf(tempString);
+
+//if(location.href=mieleLocator) {
+//break siteLoop;
+//}
+if(location.href!==mieleLocator && rStringReturnValue!==-1) {
+alert(message);
+location.href = mieleLocator;
+break siteLoop;
+}
+}
+</script>
+
+
+<!--include virtual="/inc/products/connection_close.asp"-->
+<!--include virtual="/inc/topbar2005.asp"-->
+
+
+
+
 <link rel="SHORTCUT ICON" href="http://www.miele.com/icons/mieleIcon.ico">
 <title>Miele, Inc.:  Your Privacy</title>
-<meta name="description" content="Miele, Inc. - U.S. Division. Superb European dishwashers, laundry products, ovens, cooktops and vacuum cleaners.  Extraordinary appliances for ordinary tasks.">
-<meta name="keywords" content="miele, meile, dishwashers, vacuum cleaners, vacuums, laundry, appliances, cooking, ovens, steam cooking, steaming">
+<meta name="description" content="&nbsp;">
+<meta name="keywords" content="&nbsp;">
 
 <!--To prevent other designers from shoving our website into a frame on their site-->
 <script language="javascript" src="/scripts/frame-buster.js"></script>
@@ -26,7 +79,7 @@
 <script language="javascript" src="/scripts/careers.js"></script>
 
 <!--For the status part of the browser's window-->
-<script language="javascript" src="/scripts/default.js"></script></head><body width="100%" onload=""><div id="previewimageid"></div>
+<script language="javascript" src="/scripts/default.js"></script><div id="previewimageid"></div>
 
 <!--Showroom (International) script-->
 <script language="javascript" src="/scripts/foreignWindow.js"></script>
@@ -40,7 +93,7 @@
 <script language="javascript" src="/scripts/networkWindow.js"></script>
 
 
-<script language="javascript" src="/scripts/sorry.js"></script>
+
 <script language="javascript" src="/scripts/serviceRedirect.js"></script>
 <script language="javascript" src="/scripts/hideCurly.js"></script>
 
@@ -51,6 +104,7 @@
 <script language="JavaScript" src="/scripts/checkFields.js"></script>
 <!--<script LANGUAGE="JavaScript" src='/scripts/changeOpener.js'></SCRIPT>-->
 <script language="JavaScript" src="/scripts/mieleCareSwapButton.js"></script>
+<script language="JavaScript" src="/scripts/s4SwapImage.js"></script>
 
 <noscript>
 <!--
@@ -84,7 +138,8 @@ You know, it really is time to upgrade your browser.  The browser you're using d
 
 
 <!-- start table 1; the masthead-->
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#e41f1f">
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#B11A2A">
 	<tbody><tr>
 		<td class="globalHeadings">
 			<table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -108,7 +163,7 @@ Policy
 						</tbody></table>
 		<!-- end table 1-->
 					</td>
-    				<td width="35%" valign="middle" align="right" bgcolor="#e41f1f">
+    				<td width="35%" valign="middle" align="right" bgcolor="#B11A2A">
 <a href="/"><img src="/images/mieleNew.jpg" width="210" height="46" border="0" alt="to miele.com"></a>
 					</td>
   				</tr>
@@ -121,98 +176,258 @@ Policy
 <!-- start table 2; the body of the page (not the masthead)-->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
-		<td align="left" valign="top" width="10%">				
-	<!-- start inner table 2; the primary navigation bar-->
+		<td align="left" valign="top" width="10%">
 
-			<table border="0">
+<style>
+/* for some reason, mvd is not reading external style sheets, so this has to be 
+*  embedded
+*/
+	
+	.miNavButtons {
+	font: 600 11px arial, helvetica, verdana; 
+	color: #ffffff; 
+	text-decoration: none;
+	text-align: center;
+	/*
+	vertical-align: bottom;
+	*/
+	letter-spacing: 0.5px;
+	position: relative;
+	/*
+	top: 2px;
+	padding-left: 2cm;
+	*/
+	}	
+	a.miNavButtons:link {
+	color: #ffffff; 
+	text-decoration: none;
+	}	
+	a.miNavButtons:visited {
+	color: #ffffff; 
+	text-decoration: none;
+	}	
+	a.miNavButtons:active { 
+	color: #ffffff; 
+	text-decoration: none;
+	}	
+	a.miNavButtons:hover {
+	color: #e9e9e9; 
+	text-decoration: none;
+	}
+	#residentialProducts{
+	width: 110px;
+	height: 35px;
+	background-image: url("/images/navButtons/redBackground.gif");
+	text-align: center;
+	}
+	#vacuums{
+	width: 110px;
+	height: 21px;
+	background-image: url("/images/navButtons/blueBackground.gif");
+	text-align: center;
+	}
+	#dishwashers{
+	width: 110px;
+	height: 21px;
+	background-image: url("/images/navButtons/blueBackground.gif");
+	text-align: center;
+	}
+	#cooking{
+	width: 110px;
+	height: 21px;
+	background-image: url("/images/navButtons/blueBackground.gif");
+	text-align: center;
+	}
+	#coffeeSystem{
+	width: 110px;
+	height: 21px;
+	background-image: url("/images/navButtons/blueBackground.gif");
+	text-align: center;
+	}
+	#laundry{
+	width: 110px;
+	height: 21px;
+	background-image: url("/images/navButtons/blueBackground.gif");
+	text-align: center;
+	}
+	#dealerLocator{
+	width: 110px;
+	height: 21px;
+	background-image: url("/images/navButtons/blueBackground.gif");
+	text-align: center;
+	}
+	#mieleStore{
+	width: 110px;
+	height: 21px;
+	background-image: url("/images/navButtons/redBackground.gif");
+	text-align: center;
+	}
+	#professionalProducts{
+	width: 110px;
+	height: 35px;
+	background-image: url("/images/navButtons/redBackground.gif");
+	text-align: center;
+	}
+	#labwashers{
+	width: 110px;
+	height: 27px;
+	background-image: url("/images/navButtons/blueBackground.gif");
+	text-align: center;
+	}
+	#dentalDisinfectors{
+	width: 110px;
+	height: 27px;
+	background-image: url("/images/navButtons/blueBackground.gif");
+	text-align: center;
+	}
+	#wetCleaning{
+	width: 110px;
+	height: 21px;
+	background-image: url("/images/navButtons/blueBackground.gif");
+	text-align: center;
+	}
+	#industrialParts{
+	width: 110px;
+	height: 27px;
+	background-image: url("/images/navButtons/blueBackground.gif");
+	text-align: center;
+	}
+
+	#spacerBar {
+	width: 110px;
+	height: 1px;
+	background-image: url("/images/navButtons/redBlueBackgroundRollOver2.gif");
+	text-align: center;
+	background-repeat: repeat-y;
+	}
+	#spacerBar2 {
+	width: 110px;
+	height: 1px;
+	background-image: url("/images/nothing.gif");
+	}
+</style>
+
+			
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
       			<tbody><tr>
-            		<td height="30" width="100%">&nbsp;
-					</td>
+            		<td height="33" width="100%"><img src="/images/nothing.gif" height="33" border="0"></td>
       			</tr>
 				<tr>        
-					<td class="navButtonHeaders">			
-<a href="/" class="navButtonHeaders" title="Washing Machines, Vacuum Cleaners, Dishwashers, Cooking appliances">Residential Appliances</a>
-					</td>
-      			</tr>
-      			<tr>
-        			<td class="navButtons" height="21">
-<a href="http://www.mielevacuumcleaner.com" class="navButtons" title="Canister &amp; Upright Vacuum Cleaners">Vacuum&nbsp;Cleaners</a>
-					</td>
-      			</tr>
-      			<tr>
-        			<td class="navButtons" height="21">
-<a href="http://www.miele.com/usa/dishwashers/dishwashers.html" class="navButtons" title="Dishwashers">Dishwashers</a>
-					</td>
-      			</tr>
-      			<tr>
-        			<td class="navButtons" height="21">
-<a href="http://www.miele.com/usa/cooking/cooking2.html" class="navButtons" title="Ovens, Cooktops, Ventilation Hoods, Combisets">Cooking&nbsp;Appliances</a>
-					</td>
-      			</tr>
-      			<tr>
-        			<td class="navButtons" height="21">
-<a href="http://www.miele.com/usa/cooking/steam-oven/benefits.asp" class="navButtons" title="Steam Oven">Steam&nbsp;Oven</a>
-					</td>
-      			</tr>
-      			<tr>
-        			<td class="navButtons" height="21">
-<a href="http://www.miele.com/usa/cva/cva.html" class="navButtons" title="Built-in Coffee System">Coffee&nbsp;System</a>
-					</td>
-      			</tr>	  
-      			<tr>
-        			<td class="navButtons" height="21">
-<a href="http://www.miele.com/usa/laundry/fabric_care.html" class="navButtons" title="Washing Machines, Vented Dryers, Condenser Dryers, Rotary Irons">Laundry&nbsp;Products</a></td>
-      			</tr> 
-     			<tr>
-        			<td class="navButtons" height="21">
-<a href="http://www.miele.com/locator.html" class="navButtons" title="Find your local authorized Miele dealer">Dealer&nbsp;Locator</a>
-					</td>
-      			</tr>
+        			<td width="100%">
+<script language="JavaScript">
+	function switchBack(obj,mousedOver,buttonType) {
+	var thisBack, thisObj, yellowBack, orangeBack, isHeader;
+	thisObj = obj;
+	bln_over = mousedOver;
+	isHeader = buttonType;
+	theObj = document.getElementById(thisObj).style;
+	onHighlight = "url('/images/navButtons/blueBackgroundRollOver2.gif')";
+	if(isHeader=="n") {
+	backRollOver = "url('/images/navButtons/redBlueBackgroundRollOver2.gif')";
+	backOff = "url('/images/navButtons/blueBackground.gif')";
+	}
+	else if(isHeader=="y") {
+	backRollOver = "url('/images/navButtons/redBlueBackgroundRollOver2.gif')";
+	backOff = "url('/images/navButtons/redBackground.gif')";	
+	}
 
-	<tr>
-		<td width="100%" colspan="" height="5"><img src="/images/nothing.gif" height="5"></td>
-	</tr>
-				<tr>        
-					<td class="navButtonHeaders">			
-<a href="http://www.miele.com/mielestore.asp" class="navButtonHeaders" title="Shop Now!">Miele Store</a>
-					</td>
-      			</tr>	
+	categoryID = "";
+	subcategoryID = "";
+	productPageInfoID = "23";
 
-	<tr>
-		<td width="100%" colspan="" height="25"><img src="/images/nothing.gif" height="25"></td>
-	</tr>  
-      			<tr>
-					<td class="navButtonHeaders">	
-						<a href="http://www.miele.com/usa/professional/profIntro.html" class="navButtonHeaders" title="Laboratory Glassware, Medical-Dental Disinfectors, Wet Cleaning, Industrial Parts Cleaning">Professional Products</a>
+categoryArray = new Array();
+categoryArray[0] = new Array();
+categoryArray[0][0] = "vacuums";
+categoryArray[0][1] = "1";
+categoryArray[1] = new Array();
+categoryArray[1][0] = "dishwashers";
+categoryArray[1][1] = "2";
+categoryArray[2] = new Array();
+categoryArray[2][0] = "cooking";
+categoryArray[2][1] = "3";
+categoryArray[3] = new Array();
+categoryArray[3][0] = "coffeeSystem";
+categoryArray[3][1] = "5";
+categoryArray[4] = new Array();
+categoryArray[4][0] = "laundry";
+categoryArray[4][1] = "4";
+	
+		if(isHeader=="n") {			//blue buttons only
+			if(bln_over=="y") {		//onMouseOver
+			document.getElementById(thisObj).style.backgroundImage = backRollOver;
+			//document.body.style.cursor = "default";
+			}	
+			else if(bln_over=="n") {	// onMouseOff
+			document.getElementById(thisObj).style.backgroundImage = backOff;	
+										//chec	
+				for(i=0;i<categoryArray.length;i++) {
+					if(categoryID==categoryArray[i][1]) {
+						objCategoryLayerName = categoryArray[i][0];
+						document.getElementById(objCategoryLayerName).style.backgroundImage = onHighlight;	
+						document.getElementById(objCategoryLayerName).style.color = "#ffffff";	
+					}		
+				}				
+			}	
+		} 
+		else if(isHeader=="y") {
+			if(bln_over=="y") {		//onMouseOver
+			document.getElementById(thisObj).style.backgroundImage = backRollOver;
+			}	
+			else if(bln_over=="n") {	// onMouseOff
+			document.getElementById(thisObj).style.backgroundImage = backOff;	
+										//chec	
+				//for(i=0;i<categoryArray.length;i++) {
+					//if(categoryID==categoryArray[i][1]) {
+						//objCategoryLayerName = categoryArray[i][0];
+						//document.getElementById(objCategoryLayerName).style.backgroundImage = backRollOver;	
+						//document.getElementById(objCategoryLayerName).style.color = "#ffffff";	
+					//}		
+				//}				
+			}	
+		
+		}
+	}
+</script>
+<a href="http://www.miele.com/" title="Home" onmouseover="switchBack('residentialProducts','y','y')" onmouseout="switchBack('residentialProducts','n','y')" class="miNavButtons" alt="Home"><div id="residentialProducts" style="cursor: pointer; cursor: hand;">Residential Products</div></a>
+
+<div id="spacerBar"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><div id="spacerBar2"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><a href="http://www.mielevacuums.com/default.asp?cat=1" title="Vacuum Cleaners" onmouseover="switchBack('vacuums','y','n')" onmouseout="switchBack('vacuums','n','n')" class="miNavButtons" alt="Vacuum Cleaners"><div id="vacuums" style="cursor: pointer; cursor: hand;">Vacuum Cleaners</div></a>
+
+<div id="spacerBar"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><div id="spacerBar2"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><a href="http://www.miele.com/usa/dishwashers/dishwashers.asp?cat=2" title="Dishwashers" onmouseover="switchBack('dishwashers','y','n')" onmouseout="switchBack('dishwashers','n','n')" class="miNavButtons" alt="Dishwashers"><div id="dishwashers" style="cursor: pointer; cursor: hand;">Dishwashers</div></a>
+
+<div id="spacerBar"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><div id="spacerBar2"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><a href="http://www.miele.com/usa/cooking/cooking.asp?cat=3" title="Cooking Products" onmouseover="switchBack('cooking','y','n')" onmouseout="switchBack('cooking','n','n')" class="miNavButtons" alt="Cooking Products"><div id="cooking" style="cursor: pointer; cursor: hand;">Cooking Products</div></a>
+
+<div id="spacerBar"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><div id="spacerBar2"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><a href="http://www.miele.com/usa/cva/cva.asp?cat=5" title="Coffee Systems" onmouseover="switchBack('coffeeSystem','y','n')" onmouseout="switchBack('coffeeSystem','n','n')" class="miNavButtons" alt="Coffee Systems"><div id="coffeeSystem" style="cursor: pointer; cursor: hand;">Coffee System</div></a>
+
+<div id="spacerBar"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><div id="spacerBar2"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><a href="http://www.miele.com/usa/laundry/fabric_care.asp?cat=4" title="Laundry Products" onmouseover="switchBack('laundry','y','n')" onmouseout="switchBack('laundry','n','n')" class="miNavButtons" alt="Laundry Products"><div id="laundry" style="cursor: pointer; cursor: hand;">Laundry Products</div></a>
+
+<div id="spacerBar"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><div id="spacerBar2"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><a href="http://www.miele.com/locator.asp" title="Dealer Locator" onmouseover="switchBack('dealerLocator','y','n')" onmouseout="switchBack('dealerLocator','n','n')" class="miNavButtons" alt="Dealer Locator"><div id="dealerLocator" style="cursor: pointer; cursor: hand;">Dealer Locator</div></a>
+
+<div id="spacerBar"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><div id="spacerBar2"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><br>
+<a href="http://www.miele.com/mielestore.asp" title="Miele Store" onmouseover="switchBack('mieleStore','y','y')" onmouseout="switchBack('mieleStore','n','y')" class="miNavButtons" alt="Miele Store"><div id="mieleStore" style="cursor: pointer; cursor: hand;">Miele Store</div></a>
+
+<div id="spacerBar"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><div id="spacerBar2"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><br>
+<a href="http://www.miele.com/usa/professional/profIntro.html" title="Professional Products" onmouseover="switchBack('professionalProducts','y','y')" onmouseout="switchBack('professionalProducts','n','y')" class="miNavButtons" alt="Professional Products"><div id="professionalProducts" style="cursor: pointer; cursor: hand;">Professional Products</div></a>
+
+<div id="spacerBar"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><div id="spacerBar2"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><a href="http://www.labwashers.com/default.asp" title="Laboratory Glassware Washers" onmouseover="switchBack('labwashers','y','n')" onmouseout="switchBack('labwashers','n','n')" class="miNavButtons" alt="Laboratory Glassware Washers"><div id="labwashers" style="cursor: pointer; cursor: hand;">Lab Glassware Washers</div></a>
+
+<div id="spacerBar"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><div id="spacerBar2"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><a href="http://www.dentaldisinfector.com/default.asp" title="Dental Disinfectors" onmouseover="switchBack('dentalDisinfectors','y','n')" onmouseout="switchBack('dentalDisinfectors','n','n')" class="miNavButtons" alt="Dental Disinfectors"><div id="dentalDisinfectors" style="cursor: pointer; cursor: hand;">Dental Disinfectors</div></a>
+
+<div id="spacerBar"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><div id="spacerBar2"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><a href="http://www.wetcleaning.com/default.asp" title="Wet Cleaning" onmouseover="switchBack('wetCleaning','y','n')" onmouseout="switchBack('wetCleaning','n','n')" class="miNavButtons" alt="Wet Cleaning"><div id="wetCleaning" style="cursor: pointer; cursor: hand;">Wet Cleaning</div></a>
+
+<div id="spacerBar"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><div id="spacerBar2"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><a href="http://www.miele.com/usa/Professional/indParts/indParts.html" title="Industrial Parts Cleaning" onmouseover="switchBack('industrialParts','y','n')" onmouseout="switchBack('industrialParts','n','n')" class="miNavButtons" alt="Industrial Parts Cleaning"><div id="industrialParts" style="cursor: pointer; cursor: hand;">Industrial Parts Cleaning</div></a>
+
+<div id="spacerBar"><img src="/images/nothing.gif" height="1" alt="" border="0"></div><div id="spacerBar2"><img src="/images/nothing.gif" height="1" alt="" border="0"></div>
+
 					</td>
-      			</tr>	  
-      			<tr>
-        			<td class="navButtons" height="21">
-						<a href="http://www.labwashers.com" class="navButtons" title="Undercounter and Large Capacity Laboratory Glassware Washers">Lab&nbsp;Glassware Washers</a>
-					</td>
-      			</tr>
-      			<tr>
-        			<td class="navButtons" height="21">
-						<a href="http://www.dentaldisinfector.com" class="navButtons" title="Medical-Dental Equipment Disinfectors">Dental Disinfectors</a>
-					</td>
-      			</tr>	  
-      			<tr>
-        			<td class="navButtons" height="21">
-						<a href="http://www.wetcleaning.com" class="navButtons" title="Wet Cleaning">Wet&nbsp;Cleaning</a>
-					</td>
-      			</tr>
-      			<tr>
-        			<td class="navButtons" height="21">
-<a href="http://www.miele.com/usa/Professional/indParts/indParts.html" class="navButtons" title="Industrial Parts Cleaning">Industrial&nbsp;Parts Cleaning</a>
-					</td>
-      			</tr>	
-    		</tbody></table>
+				</tr>
+			</tbody></table>
 	<!-- end inner table 2-->
 		</td>
 		<td width="3%">
 		&nbsp;
 		</td>
     	<td valign="top" width="87%" align="left">		
+
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>	
 		<td width="100%" colspan="2" height="33">
@@ -231,7 +446,7 @@ PRIVACY POLICY
 	</tr>
 	<tr>	
 		<td width="100%" colspan="2" class="standard">
-Miele, Inc. ("Miele") is committed to safeguarding your privacy online.  Please read this privacy policy to understand how your personal information will be treated as you make full use of this website (the "Site").  This privacy policy is only applicable to the information we collect from the Site.  This privacy policy may change from time to time, so please check back periodically. 
+Miele, Inc. ("Miele") is committed to safeguarding your privacy online. Please read this privacy policy to understand how your personal information will be treated as you make full use of this website (the "Site"). This privacy policy is only applicable to the information we collect from the Site. This privacy policy may change from time to time, so please check back periodically. <br>
 		</td>
 	</tr>
 	<tr>	
@@ -240,265 +455,216 @@ Miele, Inc. ("Miele") is committed to safeguarding your privacy online.  Please 
 		</td>
 	</tr>
 	<tr>	
-		<td width="50%">
-<ol class="headingRed" type="I">
+		<td width="100%" colspan="2" class="heading">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td class="headingRed" width="50%">
+	<ol type="I" start="1" class="headingRed">
 	<li>
-<a href="privacy.html#I" class="terms">What this privacy policy covers</a>
+<a href="/privacy.asp?bhcp=1#scope" class="terms">What This Privacy Policy Covers </a>
 	</li>
 	<li>
-<a href="privacy.html#II" class="terms">Information collection &amp; use</a>	
+<a href="/privacy.asp?bhcp=1#infoCollection" class="terms">Information Collection And Use </a>
 	</li>
 	<li>
-<a href="privacy.html#III" class="terms">Information sharing &amp; disclosure</a>
+<a href="/privacy.asp?bhcp=1#infoSharing" class="terms">Information Sharing And Disclosure </a>
 	</li>
 	<li>
-<a href="privacy.html#IV" class="terms">Cookies</a>
+<a href="/privacy.asp?bhcp=1#cookies" class="terms">Cookies</a>
 	</li>
 	<li>
-<a href="privacy.html#V" class="terms">IP Addresses</a>
+<a href="/privacy.asp?bhcp=1#ipAddresses" class="terms">Ip Addresses</a>
 	</li>
-</ol>
-		</td>
-		<td width="50%">
-<ol class="headingRed" type="I" start="6">
+	
+	</ol></td>
+	<td width="50%">
+	<ol type="I" start="6" class="headingRed">
 	<li>
-<a href="privacy.html#VI" class="terms">Links to other sites</a>
-	</li>
-	<li>
-<a href="privacy.html#VII" class="terms">Security &amp; integrity of information</a>
+<a href="/privacy.asp?bhcp=1#externalSites" class="terms">Links To Other Sites</a>
 	</li>
 	<li>
-<a href="privacy.html#VIII" class="terms">Retention of information</a>	
+<a href="/privacy.asp?bhcp=1#security" class="terms">Security And Integrity Of Information</a>
 	</li>
 	<li>
-<a href="privacy.html#IX" class="terms">Your privacy choices</a>
+<a href="/privacy.asp?bhcp=1#retention" class="terms">Retention Of Information </a>
 	</li>
 	<li>
-<a href="privacy.html#X" class="terms">Questions or suggestions</a>	
+<a href="/privacy.asp?bhcp=1#privacyChoices" class="terms">Your Privacy Choices</a>
 	</li>
-</ol>
+	<li>
+<a href="/privacy.asp?bhcp=1#questions" class="terms">Questions Or Suggestions</a>
+	</li>
+	
+	</ol></td>
+</tr>
+</tbody></table>
 
 		</td>
 	</tr>
-	<tr>
-		<td width="100%" colspan="2" class="standard">
-<br><br>
-<ol class="bulletsNormal" type="I">
-	<li>
-<a name="I"><span class="headingRed">WHAT THIS PRIVACY POLICY COVERS</span></a>
-		<dl>
-This privacy policy covers our treatment of personally identifiable information that we collect when you are on the Site.  This privacy policy does not apply to the practices of companies that Miele does not own or control or of people whom Miele does not manage or employ.	
-<br>
-<a href="#top" class="prvTop"><span class="prvTop">Top</span></a>
-		</dl>
-	</li>
-<br><br>
-	<li>
-<a name="II"><span class="headingRed">INFORMATION COLLECTION AND USE</span></a>
-	<dl>
-We collect personally identifiable information when you send us requests for information through our Site.  We may also collect information from our affiliates and third parties. 
-<br><br>
-We also automatically receive and record information on our server logs from your browser.
-<br><br>
-We use your information for five general purposes:
-			<ol class="bulletsNormal" type="A">
-				<li>
-To fulfill your requests for certain information and services;	
-				</li>
-				<li>
-To provide our services to you;
-				</li>
-				<li>
-To contact you about our services and related services;		
-				</li>
-				<li>
+	<tr>	
+		<td width="100%" colspan="2">
+&nbsp;
+		</td>
+	</tr>
+<tr>
+<td class="standard">
+<ul type="I" startat="I" class="bulletsNormal">
+<li>
+<a name="scope"></a><span class="headingRed">
+What This Privacy Policy Covers 
+</span>
+<br>This privacy policy covers our treatment of personally identifiable information that we collect when you are on the Site. This privacy policy does not apply to the practices of companies that Miele does not own or control or of people whom Miele does not manage or employ. 
+<br><a href="/privacy.asp?bhcp=1#topOfPage" class="terms"><span style="font: 400 11px arial;">
+Top</span>
+</a></li>
+<br><br><li>
+<a name="infoCollection"></a><span class="headingRed">
+Information Collection And Use 
+</span>
+<br>We collect personally identifiable information when you send us requests for information through our Site. We may also collect information from our affiliates and third parties.<br><br>We also automatically receive and record information on our server logs from your browser.<br><br>We use your information for five general purposes:<ul type="A" startat="1" class="bulletsNormal">
+<li>
+To fulfill your requests for certain information and services;</li>
+<li>
+To provide our services to you; </li>
+<li>
+To contact you about our services and related services; 
+</li>
+<li>
 To ensure the security of the Site, and
-				</li>
-				<li>
-To share your information with our employees and affiliates to help serve you better.		
-				</li>
-			</ol>
-<a href="#top" class="prvTop"><span class="prvTop">Top</span></a>
-		</dl>
-	</li>
-<br><br>
-	<li>
-<a name="III"><span class="headingRed">INFORMATION SHARING AND DISCLOSURE</span></a>
-		<dl>
-We will send personally identifiable information about you to others only when: 
-			<ol class="bulletsNormal" type="A">
-				<li>
-We have your consent to share the information;
-				</li>
-				<li>
-We need to share the information to provide a service you have requested;
-				</li>
-				<li>
-We need to send the information to companies or people who work on behalf of Miele to provide a service to you;
-				</li>
-				<li>
-We respond to subpoenas, court orders or other legal requirements; 				
-				</li>
-				<li>
-We find that your actions on our Site violate any applicable terms of use or usage guidelines;
-				</li>
-				<li>
-We need to share the information to ensure the security and accuracy of the Site;
-				</li>
-				<li>
-An affiliate or third party wishes to have access to your information to provide you with goods or services which may be of interest to you.				
-				</li>
-			</ol>	
-Please note that we may disclose personally identifiable information when required by law or in the good-faith belief that doing so would be necessary in order to comply with legal process served on us.	
-<br>
-<a href="#top" class="prvTop"><span class="prvTop">Top</span></a>
-		</dl>
-	</li>
-<br><br>
-	<li>
-<a name="IV"><span class="headingRed">COOKIES</span></a>
-		<dl>
-Cookies are small text files that a web site can send to a user's browser for storage on the hard drive.  Cookies can make use of the web easier by saving status and preferences about a web site. 
-Generally, websites use cookies to: 
-			<ol class="bulletsNormal" type="A">
-				<li>
-Remind site owners who users are and to access user information in order to deliver a more personalized service, and
-				</li>
-				<li>
-Estimate audience size.				
-				</li>
-			</ol>
-Each browser accessing such a site is given a unique cookie.  Information collected by those cookies is sometimes called "click stream" or "click trail" and may also describe pages seen by the user and track user patterns, preferences and length of stay on a particular page.
-We do not currently use cookies to store or track information about you.  We reserve the right to use cookies in the future, and may start to do so without prior notice to you. 
-<br>
-<a href="#top" class="prvTop"><span class="prvTop">Top</span></a>
-		</dl>
-	</li>
-<br><br>
-	<li>
-<a name="V"><span class="headingRed">IP ADDRESSES</span></a>
-		<dl>
-When a web browser requests a web page or e-mail from another computer on the Internet, it automatically gives that computer the address where it should send the information.  This is called an Internet Protocol Address ("IP Address").  We collect IP Addresses through the Site.  Those IP Addresses may be used for various purposes, including, but not limited to:
-			<ol class="bulletsNormal" type="A">
-				<li>
-Diagnose service or technology problems that are associated with the IP Addresses; 			
-				</li>
-				<li>
-Estimate the number of users visiting the Site;
-				</li>
-				<li>
-Send the most appropriate marketing, advertising or services information; or 
-				</li>
-				<li>
-Assist companies or persons who provide information in our service to track visits to their pages.
-				</li>
-			</ol>
-<br>
-<a href="#top" class="prvTop"><span class="prvTop">Top</span></a>
-		</dl>
-	</li>
-<br><br>
-	<li>
-<a name="VI"><span class="headingRed">LINKS TO OTHER SITES</span></a>
-		<dl>
-We may provide <a href="miele-network/miele-network.asp" class="prvLink">links to external sites</a> as a convenience to you.  When you click on any such link, you will leave the Site.  The inclusion of any such link does not imply Miele's endorsement of the owner or operator of the external site, the external site itself, or the products or services that the external site describes, promotes or sells.  We are not responsible for the privacy practices or the content of external sites.  Our privacy policy does not apply to any external site, and Miele is not responsible for the accuracy of any content supplied via any such external site.  Should you rely upon that content, or otherwise use it in any way, you do so at your own risk.
-<br>
-<a href="#top" class="prvTop"><span class="prvTop">Top</span></a>
-		</dl>
-	</li>
-<br><br>
-	<li>
-<a name="VII"><span class="headingRed">SECURITY AND INTEGRITY OF INFORMATION</span></a>
-		<dl>
-The security of your personally identifiable information is important to us, and we treat our data as assets that must be protected against loss and unauthorized access.  We employ reasonable and customary information-security techniques, but no security system is capable of meeting all anticipated or unanticipated security needs.  <span class="headingWithGray">MIELE DOES NOT REPRESENT OR WARRANT THAT ITS SECURITY SYSTEMS WILL BE FOOLPROOF OR ABLE TO FULFILL ANY ESSENTIAL PURPOSE, OR THAT YOUR PERSONALLY IDENTIFIABLE INFORMATION WILL BE PROTECTED AGAINST LOSS, MISUSE OR ALTERATION BY THIRD PARTIES.</span>
-<br>
-<a href="#top" class="prvTop"><span class="prvTop">Top</span></a>
-		</dl>
-	</li>
-<br><br>
-	<li>
-<a name="VIII"><span class="headingRed">RETENTION OF INFORMATION</span></a>
-		<dl>
-We retain your personally identifiable information, as necessary, for business purposes and as required by law and government regulation.  We reserve the right, however, to dispose of records and delete information from time to time, without prior notice. 
-<br>
-<a href="#top" class="prvTop"><span class="prvTop">Top</span></a>
-		</dl>
-	</li>
-<br><br>
-	<li>
-<a name="IX"><span class="headingRed">YOUR PRIVACY CHOICES</span></a>
-		<dl>
-Before submitting personally identifiable information on the Site, you will be given the option of opting in for the future receipt of informational and promotional e-mails from Miele, its affiliates, subsidiaries, and business partners.  
-			<ol class="bulletsNormal" type="A">
-				<li>
-To opt in:
-					<dl>
-Fill out the form on <a href="http://www.miele.com/emailtomiele/emailusform.asp?contact_dept_id=4&amp;toemail=webmastr%40mieleusa%2Ecom&amp;dept_name=Webmaster" class="prvLink">this page</a>.  You must check either one or both of the final two checkboxes to be notified when:
-						<ol class="bulletsNormal" type="1">
-							<li>
-We introduce new products or services							
-							</li>
-							<li>
-We host events in your area.							
-							</li>
-						</ol>
-					</dl> 
-				</li>
-				<li>
-If you have so opted in and would like to opt out:
-					<ol class="bulletsNormal" type="1">
-						<li>
-Click <a href="http://www.miele.com/newsletter/unsubscribe.asp?newsletter_type=p" class="prvLink">here</a> to opt out of our new <span style="color: #e41f1f">products and services</span> mailing list 										
-						</li>
-						<li>
-Click <a href="http://www.miele.com/newsletter/unsubscribe.asp?newsletter_type=e" class="prvLink">here</a> to opt out of our <span style="color: #e41f1f">events</span> mailing list 										
-						</li>
-					</ol>	
-The links above lead to pages where you must input your email address into a form.  Upon clicking the submit button, the form will either remove your email address and confirm your removal, or it will indicate your address was not found in our database.   
-				</li>
-			</ol> 
-You can always contact us in order to:
-			<ol class="bulletsNormal" type="A">
-				<li>
-Delete your personally identifiable information from our systems, or
-				</li>
-				<li>
-Update your personally identifiable information previously provided to us.  
-				</li>
-			</ol>
-To do so, contact the <a href="http://www.miele.com/emailtomiele/emailusform.asp?contact_dept_id=4&amp;toemail=webmastr%40mieleusa%2Ecom&amp;dept_name=Webmaster" class="prvLink">webmaster</a>.  				
-<br>
-<a href="#top" class="prvTop"><span class="prvTop">Top</span></a>
-		</dl>
-	</li>
-<br><br>
-	<li>
-<a name="X"><span class="headingRed">QUESTIONS OR SUGGESTIONS</span></a>
-		<dl>
-If you have any questions or suggestions, please contact the <a href="http://www.miele.com/emailtomiele/emailusform.asp?contact_dept_id=4&amp;toemail=webmastr%40mieleusa%2Ecom&amp;dept_name=Webmaster" class="prvLink">webmaster</a>.  
-<br>
-<a href="#top" class="prvTop"><span class="prvTop">Top</span></a>
-		</dl>
-	</li>
-</ol>
-		</td>
-	</tr>
-	<tr>	
-		<td width="100%" colspan="2" height="50">
-&nbsp;		
-		</td>
-	</tr>
-	<tr>	
-		<td width="100%" colspan="2" class="standardCenter">
-Last updated: December 19, 2003.		
-		</td>
-	</tr>
-	<tr>	
-		<td width="100%" colspan="2" height="50">
-&nbsp;		
-		</td>
-	</tr>
+</li>
+<li>
+To share your information with our employees and affiliates to help serve you better.</li>
+</ul>
+<br><a href="/privacy.asp?bhcp=1#topOfPage" class="terms"><span style="font: 400 11px arial;">
+Top</span>
+</a></li>
+<br><br><li>
+<a name="infoSharing"></a><span class="headingRed">
+Information Sharing And Disclosure 
+</span>
+<br>We will send personally identifiable information about you to others only when: <ul type="A" startat="1" class="bulletsNormal">
+<li>
+We have your consent to share the information; </li>
+<li>
+We need to share the information to provide a service you have requested; 
+</li>
+<li>
+We need to send the information to companies or people who work on behalf of Miele to provide a service to you;</li>
+<li>
+We respond to subpoenas, court orders or other legal requirements;</li>
+<li>
+We find that your actions on our Site violate any applicable terms of use or usage guidelines;</li>
+<li>
+We need to share the information to ensure the security and accuracy of the Site;</li>
+<li>
+An affiliate or third party wishes to have access to your information to provide you with goods or services which may be of interest to you</li>
+</ul>
+Please note that we may disclose personally identifiable information when required by law or in the good-faith belief that doing so would be necessary in order to comply with legal process served on us.<br><a href="/privacy.asp?bhcp=1#topOfPage" class="terms"><span style="font: 400 11px arial;">
+Top</span>
+</a></li>
+<br><br><li>
+<a name="cookies"></a><span class="headingRed">
+Cookies
+</span>
+<br>Cookies are small text files that a web site can send to a user's browser for storage on the hard drive. Cookies can make use of the web easier by saving status and preferences about a web site. Generally, websites use cookies to:<ul type="A" startat="1" class="bulletsNormal">
+<li>
+Remind site owners who users are and to access user information in order to deliver a more personalized service, and </li>
+<li>
+Estimate audience size.</li>
+</ul>
+Each browser accessing such a site is given a unique cookie. Information collected by those cookies is sometimes called "click stream" or "click trail" and may also describe pages seen by the user and track user patterns, preferences and length of stay on a particular page. <!--We do not currently use cookies to store or track information about you. We reserve the right to use cookies in the future, and may start to do so without prior notice to you.--><br><a href="/privacy.asp?bhcp=1#topOfPage" class="terms"><span style="font: 400 11px arial;">
+Top</span>
+</a></li>
+<br><br><li>
+<a name="ipAddresses"></a><span class="headingRed">
+Ip Addresses
+</span>
+<br>When a web browser requests a web page or e-mail from another computer on the Internet, it automatically gives that computer the address where it should send the information. This is called an Internet Protocol Address ("IP Address"). We collect IP Addresses through the Site. Those IP Addresses may be used for various purposes, including, but not limited to:<ul type="A" startat="1" class="bulletsNormal">
+<li>
+Diagnose service or technology problems that are associated with the IP Addresses;</li>
+<li>
+Estimate the number of users visiting the Site; 
+</li>
+<li>
+Send the most appropriate marketing, advertising or services information; or</li>
+<li>
+Assist companies or persons who provide information in our service to track visits to their pages.</li>
+</ul>
+<br><a href="/privacy.asp?bhcp=1#topOfPage" class="terms"><span style="font: 400 11px arial;">
+Top</span>
+</a></li>
+<br><br><li>
+<a name="externalSites"></a><span class="headingRed">
+Links To Other Sites
+</span>
+<br>We may provide <a href="/miele-network/miele-network.asp" class="prvLink">links to external sites</a> as a convenience to you.  When you click on any such link, you will leave the Site.  The inclusion of any such link does not imply Miele's endorsement of the owner or operator of the external site, the external site itself, or the products or services that the external site describes, promotes or sells.  We are not responsible for the privacy practices or the content of external sites.  Our privacy policy does not apply to any external site, and Miele is not responsible for the accuracy of any content supplied via any such external site.  Should you rely upon that content, or otherwise use it in any way, you do so at your own risk.<br><a href="/privacy.asp?bhcp=1#topOfPage" class="terms"><span style="font: 400 11px arial;">
+Top</span>
+</a></li>
+<br><br><li>
+<a name="security"></a><span class="headingRed">
+Security And Integrity Of Information
+</span>
+<br>The security of your personally identifiable information is important to us, and we treat our data as assets that must be protected against loss and unauthorized access.  We employ reasonable and customary information-security techniques, but no security system is capable of meeting all anticipated or unanticipated security needs.  <span class="headingWithGray">MIELE DOES NOT REPRESENT OR WARRANT THAT ITS SECURITY SYSTEMS WILL BE FOOLPROOF OR ABLE TO FULFILL ANY ESSENTIAL PURPOSE, OR THAT YOUR PERSONALLY IDENTIFIABLE INFORMATION WILL BE PROTECTED AGAINST LOSS, MISUSE OR ALTERATION BY THIRD PARTIES.</span><br><a href="/privacy.asp?bhcp=1#topOfPage" class="terms"><span style="font: 400 11px arial;">
+Top</span>
+</a></li>
+<br><br><li>
+<a name="retention"></a><span class="headingRed">
+Retention Of Information 
+</span>
+<br>We retain your personally identifiable information, as necessary, for business purposes and as required by law and government regulation.  We reserve the right, however, to dispose of records and delete information from time to time, without prior notice. <br><a href="/privacy.asp?bhcp=1#topOfPage" class="terms"><span style="font: 400 11px arial;">
+Top</span>
+</a></li>
+<br><br><li>
+<a name="privacyChoices"></a><span class="headingRed">
+Your Privacy Choices
+</span>
+<br>Before submitting personally identifiable information on the Site, you will be given the option of opting in for the future receipt of informational and promotional e-mails from Miele, its affiliates, subsidiaries, and business partners. <ul type="A" startat="1" class="bulletsNormal">
+<li>
+To opt in:<br>Fill out the form on <a href="http://www.miele.com/emailtomiele/emailusform.asp?contact_dept_id=4&amp;toemail=webmastr%40mieleusa%2Ecom&amp;dept_name=Webmaster" class="prvLink">this page</a>.  You must check either one or both of the final two checkboxes to be notified when:<ul type="1" startat="1" class="bulletsNormal">
+<li>
+We introduce new products or services
+</li>
+<li>
+We host events in your area. </li>
+</ul>
+</li>
+<li>
+If you have so opted in and would like to opt out:<ul type="1" startat="1" class="bulletsNormal">
+<li>
+Click <a href="http://www.miele.com/newsletter/unsubscribe.asp?newsletter_type=p" class="prvLink">here</a> to opt out of our new <span style="color: #B11A2A">products and services</span> mailing list</li>
+<li>
+Click <a href="http://www.miele.com/newsletter/unsubscribe.asp?newsletter_type=e" class="prvLink">here</a> to opt out of our <span style="color: #b11a2a">events</span> mailing list </li>
+</ul>
+</li>
+</ul>
+The links above lead to pages where you must input your email address into a form. Upon clicking the submit button, the form will either remove your email address and confirm your removal, or it will indicate your address was not found in our database. <br>You can always contact us in order to:<ul type="A" startat="1" class="bulletsNormal">
+<li>
+Delete your personally identifiable information from our systems, or </li>
+<li>
+Update your personally identifiable information previously provided to us. 
+</li>
+</ul>
+To do so, contact the <a href="http://www.miele.com/emailtomiele/emailusform.asp?contact_dept_id=4&amp;toemail=webmastr%40mieleusa%2Ecom&amp;dept_name=Webmaster" class="prvLink">webmaster</a>.<br><a href="/privacy.asp?bhcp=1#topOfPage" class="terms"><span style="font: 400 11px arial;">
+Top</span>
+</a></li>
+<br><br><li>
+<a name="questions"></a><span class="headingRed">
+Questions Or Suggestions
+</span>
+<br>If you have any questions or suggestions, please contact the <a href="http://www.miele.com/emailtomiele/emailusform.asp?contact_dept_id=4&amp;toemail=webmastr%40mieleusa%2Ecom&amp;dept_name=Webmaster" class="prvLink">webmaster</a>. <br><a href="/privacy.asp?bhcp=1#topOfPage" class="terms"><span style="font: 400 11px arial;">
+Top</span>
+</a></li>
+</ul>
+<span class="headingRed">
+Last updated: August 8<sup>th</sup>, 2005.
+</span>
+</td>
+</tr>
+	
+	
 </tbody></table>
+
 
 
 
@@ -506,28 +672,37 @@ Last updated: December 19, 2003.
 <script language="javascript" src="/scripts/careers.js"></script>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
-		<td width="100%" height="5" class="standardNoBack"><img src="/images/nothing.gif" height="5" border="0"></td>
-	</tr>
-	<tr>
-		<td width="100%" height="1" class="standardWithGray"><img src="/images/nothing.gif" height="1" border="0"></td>
+		<td width="100%" height="10" class="standardNoBack"><img src="/images/nothing.gif" height="5" border="0"></td>
 	</tr>
 </tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+	<tbody><tr>
+		<td width="100%" colspan="" height="5"><img src="/images/nothing.gif" height="5"></td>
+	</tr>
+	<tr>
+		<td width="100%" colspan="" height="1" class="standardWithGray"><img src="/images/nothing.gif" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td width="100%" colspan="" height="5"><img src="/images/nothing.gif" height="5"></td>
+	</tr></tbody></table>
+
 <table border="0" cellpadding="2" cellspacing="2" width="100%">
 	<tbody><tr>
 		<td width="100%" class="bottomBar">	
-			
-<a href="http://www.miele.com/usa/facts/facts1.html">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/usa/contact/contactNumbers2.html">Telephone Numbers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/emailtomiele/emailus.asp">Email Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/usa/design-centers/design-centers-intro.asp">Showrooms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/literature/litreq15.asp">Request Literature</a>
+<a href="http://www.miele.com/manuals/display_manuals.aspx">Operating Manuals</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/usa/facts/facts1.html">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/usa/contact/contactNumbers2.html">Telephone Numbers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/emailtomiele/emailus.asp">Email Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/usa/design-centers/design-centers-intro.asp">Showrooms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/literature/litreq15.asp">Request Literature</a>
 		</td>
 	</tr>
 	<tr>
-		<td width="100%" class="bottomBar"><a href="http://www.miele.com/pdf/specs-intro.asp">Product Dimensions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/usa/service/customer-service.asp">Miele Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/usa/energy/energy-star.html">Energy Star</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/warranty/warranty_info.html">Warranty Registration</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="javascript:careersWindow('http://www.miele.com/careers_template/new-careers.html')">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/pressroom/">Pressroom</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/miele-network/">Links</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.de/index_english.html" target="_blank">Miele Intl</a>
+		<td width="100%" class="bottomBar">
+<a href="http://www.miele.com/pdf/specs-intro.asp?subcat=11&amp;cat=3">Product Dimensions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/usa/service/customer-service.asp">Miele Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/usa/energy/energy-star.html">Energy Star</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/warranty/warranty_info.html">Warranty Registration</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="javascript:careersWindow('http://www.miele.com/careers_template/careers.asp')">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/pressroom/">Pressroom</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/miele-network/">Links</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.de/index_english.html">Miele Int'l</a>
 		</td>
 	</tr>
 </tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
 		<td width="20%" class="mexico">
-<a href="javascript:mexicoWindow('http://www.miele.com/mexico/miele-in-mexico.asp')"><img src="/images/countries/mexico-small.jpg" width="24" height="18" border="0" alt="Miele is now in Mexico! Click for contact information."></a><br><a href="javascript:mexicoWindow('http://www.miele.com/mexico/miele-in-mexico.asp')" class="mexico"><span title="Miele is now in Mexico!  Click for contact information.">Miele Mexico</span></a>
+<a href="http://www.miele.com.mx" class="mexico" target="_blank" title="Visit our Mexican Subsidiary"><img src="/images/countries/mexico-small.jpg" width="24" height="18" border="0" alt="Visit our Mexican subsidary"><br>Miele Mexico</a><br>
 		</td>
 		<td width="80%">
 		&nbsp;
@@ -539,12 +714,7 @@ Last updated: December 19, 2003.
 		<td width="2%">&nbsp;
 		</td>
 		<td width="98%" class="captionCenter">
-<a href="http://www.miele.com/Copyright.html">© 1998-2005 Miele, Inc.</a>
-&nbsp;&nbsp;<span style="color: #0000ff">|</span>&nbsp;&nbsp;
-<a href="http://www.miele.com/privacy.html">Website Privacy Policy</a>
-<br>
-Problems or questions about our website? Contact Miele's
-<a href="http://www.miele.com/emailtomiele/emailus.asp?contact_dept=4">Webmaster</a>.
+<a href="http://www.miele.com/Copyright.html">© 1998-2005 Miele, Inc.</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.miele.com/privacy.asp">Website Privacy Policy</a><br><span class="var_span_class">Problems or questions about our website? Contact Miele's</span> <a href="http://www.miele.com/emailtomiele/emailus.asp?contact_dept=4">Webmaster</a>		
 		</td>
 	</tr>
 </tbody></table>
@@ -556,6 +726,7 @@ Problems or questions about our website? Contact Miele's
 </td>
 </tr>
 </tbody></table>
+
 
 
 </body></html>
