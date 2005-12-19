@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directadmin.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206215118id_/http%3A//www.directadmin.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directadmin.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219132722id_/http%3A//www.directadmin.com/privacypolicy.html) for the most accurate reproduction.*
 
 # DirectAdmin Web Control Panel Refund Policy
 
@@ -38,4 +38,4 @@ Information received as a result of billing (for example, billing address, phone
 
 **Need More Information?**
 
-You can e-mail questions to [sales@directadmin.com](mailto:sales@jbmc-software.com) or talk to a live operator by visiting the [support](http://www.directadmin.com/support.html) page.  Our phone number is (780) 999-2646 and we are available Monday through Friday, 9 AM - 5 PM Mountain Standard Time.  You may also visit the [forum](http://www.directadmin.com/forum/) to see if your question has been answered there.
+You can e-mail questions to [sales@directadmin.com](mailto:sales@jbmc-software.com) or talk to a live operator by visiting the [support](http://www.directadmin.com/support.html) page.  Our phone number is and we are available Monday through Friday, 9 AM - 5 PM Mountain Standard Time.  You may also visit the [forum](http://www.directadmin.com/forum/) to see if your question has been answered there.
