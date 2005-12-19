@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2005-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050613000607id_/http%3A//www.ditech.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219012851id_/http%3A//ditech.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Home Loans - Home Equity Loans
 
@@ -58,15 +58,21 @@ We restrict access to the information obtained from our websites and web pages t
 
 How Do I Contact ditech.com If I Have Questions About This Privacy Statement?
 
-> _U.S. Mail_ :  
->  ditech.com  
->  Customer Care  
->  3200 Park Center Drive, Suite 150  
->  Costa Mesa, CA 92626
-> 
-> _Email_ : info@ditech.com
-> 
-> _Telephone_ : 1.800.ditech1 
+U.S. Mail:
+
+ditech.com  
+Customer Care  
+3200 Park Center Drive, Suite 150  
+Costa Mesa, CA 92626  
+
+
+Email:
+
+info@ditech.com
+
+Telephone:
+
+1-800-ditech1
 
 Will ditech.com Make Changes To This Privacy Statement?
 
