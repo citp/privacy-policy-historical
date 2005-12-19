@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the pbreview.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305054636id_/http%3A//www.pbreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbreview.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219212009id_/http%3A//www.pbreview.com/privacy) for the most accurate reproduction.*
 
-# pbreview.com - paintball reviews by players for players
+# pbreview.com - Paintball Reviews and Paintball Fields
 
 [pbreview.com](https://web.archive.org/) / Privacy Policy  
-**Privacy Policy**   
+  
 Pbreview.com respects users' privacy rights and believes that privacy protections are fundamental to a viable and safe Internet Community. Our goal is to provide Internet services, including an Internet "public square" where people can discuss issues related to the quality of paintball fields, paintball products and other similar issues related to the sport and culture of paintball.
 
 Other than providing a forum for the exchange of views and opinions related to paintball, Pbreview.com does not maintain a relationship with its individual users. Accordingly, Pbreview.com does not endorse the views expressed by its registered users and does not warranty the accuracy or quality of its user postings.
