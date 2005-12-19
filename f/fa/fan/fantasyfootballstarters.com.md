@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantasyfootballstarters.com privacy policy that was archived on 2004-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041101214117id_/http%3A//fantasyfootballstarters.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballstarters.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219155328id_/http%3A//www.fantasyfootballstarters.com/privacy.jsp) for the most accurate reproduction.*
 
-# FantasyFootballStarters.com
+# Fantasy Football Starters
 
 **Ready-Set-Go Fantasy Sports** **LLC**
 
