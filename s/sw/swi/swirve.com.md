@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630074822id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219135832id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Swirve.com - Free Games and More
 
-|  |  | 
-
-  
-**Stay in Touch!  
-Let us email you our latest news.  
-No Spam, No Junk.   
-Email: **  
-  
+|   
 ---  
-| [](http://www.swirve.com/) | [](http://games.swirve.com/) | [](http://sports.swirve.com/) | [](http://www.wegotcards.com/) | [](http://politicalbrew.com/) | [](http://friends.swirve.com/) |   
----|---|---|---|---|---|---  
-|    
-
-
+  
 **Our Privacy Policy**  
 
 
@@ -56,8 +45,14 @@ We use BUDS INC and other third-party advertising companies to serve ads when yo
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. 
 
 
+  
+  
+  |  **Swirve Highlights**
 
+Get our latest news by email.  
+No spams, no ads. Just type  
+your email address below:
 
-|   
----|---  
-| 
+[](http://games.swirve.com/utopia)
+
+[](http://games.swirve.com/earth)
