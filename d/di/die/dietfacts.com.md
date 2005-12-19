@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietfacts.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305204824id_/http%3A//www.dietfacts.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietfacts.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219011008id_/http%3A//www.dietfacts.com/privacy.asp) for the most accurate reproduction.*
 
 # Fast Food nutrition database, free diets, weight loss programs - DietFacts.com
 
@@ -12,18 +12,13 @@ Our site contains a contact signup form. We use the contact information from the
 
 This site contains links to other sites. This site is not responsible for the privacy practices or the content of such Web sites. 
 
-|  **Please Visit Our Sponsors:**  
-[  
-**Buy Lowfat Pizza online!**](http://www.heavensbistro.com/)
+|  [](http://www.coheso.com/caloriesmart.df)
 
-[ ](http://www.tkqlhce.com/click-871258-10373145)
+[](https://web.archive.org/web/20051219011008id_/http%3A//www.dietfacts.com/default.asp?linkout=12281)
 
-[ ](http://www.jdoqocy.com/e6108uoxuowBKJDEHKBDCFJCICF)
+[](http://calorielab.com/)
 
-[ ](http://www.qksrv.net/click-871258-5029329)
+[ ](http://www.jdoqocy.com/click-871258-10358344)  
 
-[ ](http://sheknows.com/cgi-bin/lceaffiliates/jump.cgi?ID=282)
 
-[ ](http://www.qksrv.net/click-871258-1457541)
-
-[ ](http://www.qksrv.net/click-871258-9836173)
+[Articles and diet information - LinkGeneral.com](http://www.linkgeneral.com/search.asp?st=diet)
