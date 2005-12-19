@@ -1,146 +1,101 @@
-<!--The following is the downloaded HTML source of the anotherfriend.com privacy policy that was archived on 2004-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040612043550id_/http%3A//www.anotherfriend.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anotherfriend.com privacy policy that was archived on 2005-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219021328id_/http%3A//www.anotherfriend.com/privacy.cfm) for the most accurate reproduction.-->
 
 <html><head>
-<title>AnotherFriend.Com - Irelands Best Free Internet Dating and Personals Service for Irish Singles</title>
-	<meta name="Description" content="Another Friend is the best online meeting place for irish people. Where you can find a friend,date or even more">
+<title>AnotherFriend.Com - Irelands free dating and Irish personals Service for Irish Singles</title>
+	<meta name="Description" content="AnotherFriend is Irelands largest Irish dating and Irish singles website. Where Irish singles can view other personals in Ireland ">
 	<meta name="KEYWORDS" content="Irish, Ireland, dating, personals, friends, singles, date, relationship,meeting, couple, sex, romantic, online, romance,  marriage, blind date, single, romantic, lonely, matchmaking, photo">
 	<meta name="robots" content="index,follow">
 	<meta name="revisit-after" content="7 days">
+<meta http-equiv="Expires" content="Mon, 06 Jan 1990 00:00:01 GMT">
+
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-
-<script language="JAVASCRIPT" type="text/javascript">
-
+<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+<script type="text/javascript">
 <!--
-
-
-function _CF_onError(form_object, input_object, object_value, error_message)
+    function  _CF_checkCFForm_1(_CF_this)
     {
-	alert(error_message);
-       	return false;	
-    }
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
 
-
-
-function _CF_hasValue(obj, obj_type)
-    {
-    if (obj_type == "TEXT" || obj_type == "PASSWORD")
-	{
-    	if (obj.value.length == 0) 
-      		return false;
-    	else 
-      		return true;
-    	}
-    else if (obj_type == "SELECT")
-	{
-        for (i=0; i < obj.length; i++)
-	    	{
-		if (obj.options[i].selected)
-			return true;
-		}
-
-       	return false;	
-	}
-    else if (obj_type == "SINGLE_VALUE_RADIO" || obj_type == "SINGLE_VALUE_CHECKBOX")
-	{
-
-		if (obj.checked)
-			return true;
-		else
-       		return false;	
-	}
-    else if (obj_type == "RADIO" || obj_type == "CHECKBOX")
-	{
-
-        for (i=0; i < obj.length; i++)
-	    	{
-		if (obj[i].checked)
-			return true;
-		}
-
-       	return false;	
-	}
-	}
-
-
-function  _CF_checkCFForm_1(_CF_this)
-
-    {
-
-    if  (!_CF_hasValue(_CF_this.Username, "TEXT" )) 
-
+        //form element Username required check
+        if( !_CF_hasValue(_CF_this['Username'], "TEXT", false ) )
         {
+            _CF_onError(_CF_this, "Username", _CF_this['Username'].value, "You must enter your nick name to login");
+            _CF_error_exists = true;
+        }
 
-        if  (!_CF_onError(_CF_this, _CF_this.Username, _CF_this.Username.value, "You must enter your nick name to login"))
-
-            {
-
-            return false; 
-
-            }
-
+        //form element Password required check
+        if( !_CF_hasValue(_CF_this['Password'], "PASSWORD", false ) )
+        {
+            _CF_onError(_CF_this, "Password", _CF_this['Password'].value, "You must enter your password to login");
+            _CF_error_exists = true;
         }
 
 
-    if  (!_CF_hasValue(_CF_this.Password, "PASSWORD" )) 
-
+        //display error messages and return success
+        if( _CF_error_exists )
         {
-
-        if  (!_CF_onError(_CF_this, _CF_this.Password, _CF_this.Password.value, "You must enter your password to login"))
-
+            if( _CF_error_messages.length > 0 )
             {
-
-            return false; 
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
 
             }
-
+            return false;
+        }else {
+            return true;
         }
-
-
-    return true;
-
     }
-
-
 //-->
-
 </script>
-
-
-<script language="JAVASCRIPT" type="text/javascript">
-
+<script type="text/javascript">
 <!--
-
-function  _CF_checkCFForm_2(_CF_this)
-
+    function  _CF_checkCFForm_2(_CF_this)
     {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
 
-    if  (!_CF_hasValue(_CF_this.province, "SELECT" )) 
-
+        //form element province required check
+        if( !_CF_hasValue(_CF_this['province'], "SELECT", false ) )
         {
-
-        if  (!_CF_onError(_CF_this, _CF_this.province, _CF_this.province.value, "Please select a county"))
-
-            {
-
-            return false; 
-
-            }
-
+            _CF_onError(_CF_this, "province", _CF_this['province'].value, "Please select a county");
+            _CF_error_exists = true;
         }
 
 
-    return true;
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
 
+            }
+            return false;
+        }else {
+            return true;
+        }
     }
-
-
 //-->
-
 </script>
-
-<link rel="stylesheet" href="ai.css" type="text/css"><script language="JavaScript">
+<link href="galleryincludes/gallery.css" rel="stylesheet" type="text/css"><link href="competitionstyles.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="ai.css" type="text/css"><script language="JavaScript">
 <!--
 function openwin(pageurl,winName,features)
 {
@@ -201,12 +156,17 @@ function setSelection(selectionList, selectedValue, option)
 
 
 <body bgcolor="#3d4d7a" onload="MM_preloadImages('/images/amfavourite_over.gif','/images/birthdaylist_over.gif','/images/eventsboard_over.gif','/images/chatroom_over.gif','/images/contactbutton_over.gif','/images/costsbutton_over.gif','/images/entertainment_over.gif','/images/favourites_over.gif','/images/helpfaqsbutton_over.gif','/images/homebutton_over.gif','/images/inbox_over.gif','/images/joinbutton_over.gif','/images/logout_over.gif','/images/notifymelist_over.gif','/images/quickmatch_over.gif','/images/sentmessages_over.gif','/images/whosonlinebutton_over.gif','/images/whoviewed_over.gif','/images/messageboard_over.gif','/images/mypage_over.gif')" topmargin="0" leftmargin="0"><center>
-<table width="763" border="0" cellspacing="0" cellpadding="0">
+<table width="764" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-      <td><img src="images/darkspacer.gif" width="2" height="16"></td>
+      <td><img src="images/darkspacer.gif" width="2" height="1"></td>
   </tr>
     <tr background="images/mainbg.gif"> 
-      <td><img src="images/logo.gif" width="764" height="83" border="0" alt="Anotherfriend.com"></td>
+      <td width="764" height="65" bgcolor="#8492BE" valign="top">
+	  <img src="Images/logo2.gif" width="285" height="60" border="0" alt="irish dating">
+	 
+
+	  
+	  </td>
   </tr>
   <tr>
       <td><img src="images/bwline.gif" width="100%" height="2"></td>
@@ -215,18 +175,19 @@ function setSelection(selectionList, selectedValue, option)
     <td>
         <table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td valign="Top"><a href="index.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/homebutton_over.gif',1)"><img src="images/homebutton.gif" width="77" height="26" border="0" name="home" alt="Home Page"></a><a href="join.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('join','','/images/joinbutton_over.gif',1)"><img src="images/joinbutton.gif" width="78" height="26" border="0" name="join" alt="Join now"></a><a href="whosonline2.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('whosonline','','/images/whosonlinebutton_over.gif',1)"><img src="images/whosonlinebutton.gif" width="149" height="26" border="0" name="whosonline" alt="Whos online now"></a><a href="help.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('help','','/images/helpfaqsbutton_over.gif',1)"><img src="images/helpfaqsbutton.gif" width="95" height="26" border="0" name="help" alt="Help and FAQ"></a><a href="costs.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cost','','/images/costsbutton_over.gif',1)"><img src="images/costsbutton.gif" width="81" height="26" border="0" name="cost" alt="Costs"></a><a href="mailto:info@anotherfriend.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','/images/contactbutton_over.gif',1)"><img src="images/contactbutton.gif" width="90" height="26" border="0" name="contact" alt="Contact Us"></a><img src="images/joinpagetitle.gif" width="194" height="26"></td>
+            <td valign="Top"><a href="index.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/homebutton_over.gif',1)"><img src="images/homebutton.gif" width="77" height="26" border="0" name="home" alt="Home Page"></a><a href="join.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('join','','/images/joinbutton_over.gif',1)"><img src="images/joinbutton.gif" width="78" height="26" border="0" name="join" alt="Join now"></a><a href="whosonline2.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('whosonline','','/images/whosonlinebutton_over.gif',1)"><img src="images/whosonlinebutton.gif" width="149" height="26" border="0" name="whosonline" alt="Whos online now"></a><a href="help.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('help','','/images/helpfaqsbutton_over.gif',1)"><img src="images/helpfaqsbutton.gif" width="95" height="26" border="0" name="help" alt="Help and FAQ"></a><a href="costs.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cost','','/images/costsbutton_over.gif',1)"><img src="images/costsbutton.gif" width="81" height="26" border="0" name="cost" alt="Costs"></a><a href="mailto:info@anotherfriend.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','/images/contactbutton_over.gif',1)"><img src="images/contactbutton.gif" width="90" height="26" border="0" name="contact" alt="Contact Us"></a><a href="http://www.screenclick.com/sites/anotherfriend/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('dvd','','/images/b_dvds-over.gif',1)"><img src="images/b_dvds.gif" width="96" height="25" border="0" name="join" alt="Join now"></a><img src="images/joinpagetitle.gif" width="98" height="26"></td>
           </tr>
           <tr>
             <td>
               <table width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
                   <td valign="top" width="141" bgcolor="bec7de">
-                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+				 
+				 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                  
 					  <tbody><tr>
                         <td>
-						<form name="CFForm_1" action="loginaction.cfm?uniq=2117175C-1656-4331-9F7D7E90ACC1431F" method="POST" onsubmit="return _CF_checkCFForm_1(this)">
+						<form name="CFForm_1" action="loginaction.cfm?uniq=40CC8F9E-E291-B014-37F3ACC3C94797E9" method="post" onsubmit="return _CF_checkCFForm_1(this)">
                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
                            	<tbody><tr>
                               <td colspan="2"><img src="images/blackline.gif" width="141" height="1"></td>
@@ -243,11 +204,11 @@ function setSelection(selectionList, selectedValue, option)
 							 <div align="center"> <table width="90%" border="0" cellspacing="0" cellpadding="0">
 							  	<tbody><tr class="blacktxt"> 
 									<td>Username </td>
-									<td><input type="Text" name="Username" class="form" size="10" maxlength="16"></td>
+									<td><input name="Username" id="Username" type="text" maxlength="16" size="10" class="form"></td>
 								</tr>
 								<tr class="blacktxt"> 
 									<td>Password </td>
-									<td> <input type="password" name="Password" class="form" size="10"></td>
+									<td> <input name="Password" id="Password" type="password" size="10" class="form"></td>
 								</tr>
 							  </tbody></table></div>
 							  
@@ -263,44 +224,26 @@ function setSelection(selectionList, selectedValue, option)
                             </tr>
                           </tbody></table>
 						 </form>
+
                         </td>
                       </tr>
 					  
-					</tbody></table><br>
-					<table width="100%" border="0" cellspacing="0" cellpadding="0">
-						  <tbody><tr>
-                              <td colspan="3"><img src="images/blackline.gif" width="140" height="1"></td>
-                            </tr>
-                            <tr> 
-                              <td colspan="3" bgcolor="9daace"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><div align="center">Site Activity</div></font></td>
-                            </tr>
-                            <tr> 
-                              <td colspan="3"><img src="images/blackline.gif" width="140" height="1"></td>
-                            </tr>
-                            <tr class="blacktxt"> 
-                                    <td background="images/vbarl.gif" width="1"></td>
-                                    
-                              <td width="135" bgcolor="#FFFFFF"><img src="images/wonline.gif" width="33" height="23">
-	87 
-	Online now<br>
-                   
-                                <img src="images/wwhispering.gif" width="33" height="31">
-	0
-	 Whispering<br>
-								<img src="images/wchatting.gif" width="33" height="28">  
-	 
+					</tbody></table><br><div align="center">
+					
 
 
-	
-	 <br></td>
-                                     <td width="2" background="images/vbarr.gif"></td>
-                                  </tr>
-                            <tr> 
-                              <td colspan="3"><img src="images/bottbar.gif" width="140" height="12"></td>
-                            </tr>
-                          </tbody></table><br>
-						  		
-                  </td>
+		.
+		
+		
+		
+
+
+
+
+<p>
+
+
+                  </p></div></td>
                   <td bgcolor="#FFFFFF" align="center" valign="top">
                    <table width="422" border="0" cellspacing="0" cellpadding="0">
                       <tbody><tr>
@@ -334,54 +277,49 @@ function setSelection(selectionList, selectedValue, option)
 									
 
 
-
-At AnotherFriend.com we have created this privacy statement to demonstrate our commitment to protecting your privacy and to inform you about how we handle your personal information.
-<p>
-This privacy statement only applies to transactions and activities in which you engage, and data gathered, on the AnotherFriend.com website but does not apply to any other web site or offline point of contact between AnotherFriend.com, or any other company, and consumers. Please review this privacy policy periodically as we may modify it from time to time. This privacy policy was last revised on May 16th, 2003.  Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.
-</p><p>
-
-<b>Information we collect from you</b>
-</p><p>
-AnotherFriend.com only requests information that is necessary in order for us to fulfil our obligations to you and providing introductions to other interested members.  We require visitors to the site to give us contact information (including their name and email address) and demographic information (like their age, occupation, height) to become a member. We then use this information to contact the visitor when necessary for support or to respond to members' emails. In this way, other members can only see the site name you have chosen. Thus, this is a private email system that allows you to communicate without having to give your email address to others. The personal profiles that are posted on this site are available to all the visitors
-</p><p>
-We ask that you do not enter personal information or financial information into your "Profile" (for example, don't use your address as your user name, or include your name or address in your "About me" section), because if you do then it may be posted publicly on the Site, and the information will then be treated as "demographic information" that is "public information."
-</p><p>
-The site has security measures in place to protect the loss, misuse and alteration of the information under our control. All data is stored on highly protected databases.
-</p><p>
+<p align="justify">
+At AnotherFriend.com we have created this privacy statement to demonstrate our commitment to protecting your privacy and to inform you about how we handle your personal information. 
+</p><p align="justify">
+This privacy statement only applies to transactions and activities in which you engage, and data gathered, on the www.AnotherFriend.com website and any other partner website to whom we may link, but does not apply to any other web site or offline point of contact between AnotherFriend.com, or any other company, and consumers. 
+</p><p align="justify">
+This is a legal document which sets out how AnotherFriend.com handles data which identifies you.  You should read it in conjunction with our Terms of Service, of which this Privacy Policy forms part.  Please review this privacy policy periodically as we may modify it from time to time.  Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this Privacy Policy at that time
+by doing so you are accepting the practices described in this Privacy Policy at that time. 
+</p><p align="justify">
 <b>Your IP Address</b><br>
-Like most e-commerce websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimise the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you.
-</p><p>
-<b>Does AnotherFriend.com monitor on-line behaviour?</b>
-</p><p>
-Our users communicate with each other through e-mail, chat, forum and SMS. While we do not, as a rule, moderate or monitor users private exchanges, we reserve the right to do so. User submissions that appear on the public area of the Site can be moderated and, if necessary, we reserve the right to edit, delete remove or not use any communication on a public area of the Site.
-</p><p>
-
- 
-
-<b>Correct/Update</b><br>
-You can change or update all your personal information (exclusive of your first and last name and e-mail address) online by logging in as a member, and clicking on 'Edit Profile'
-</p><p>
-<b>Payment Security</b><br>
-All Credit Card numbers are secured as we use a third party to process your payment.  No credit card details are stored on our servers. 
-</p><p>
-<b>Choice/Opt-Out</b><br>
-AnotherFriend.com regularly sends email to its members in order to inform them of new services, improvements, etc. Our members can opt-out of receiving communications from us by suspending their membership. 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-1. You can send email to <a href="mailto:info@anotherfriend.com">info@anotherfriend.com</a>
-2. You can log onto your account and click on the deactivate account.
-</p><p>
-<b>Contacting the Web Site</b><br>
-If you have any questions about this privacy statement, the practices of our site, or your dealings with this Web site, you can contact AnotherFriend.com via post, by clicking on the Contact Us button or by emailing us at <a href="mailto:info@anotherfriend.com">info@anotherfriend.com</a>
-</p><p>
-
-AnotherFriend.com<br>
-70 O'Connell Street,<br>
-Limerick City<br>
+Like most e-commerce websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimise the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you. 
+</p><p align="justify">
+<b>Cookies</b><br>
+We use small files called 'cookies' to enhance the user experience of the AnotherFriend.com service and to track some site activities.  If you wish to disable these cookies, the 'help' section of your browser will tell you how, but this will affect your access to some sections of the site as you will only be able to browse the site but will be unable to log on.
+</p><p align="justify">
+<b>Information we collect from you</b> <br>
+AnotherFriend.com only requests information that is necessary in order for us to fulfill our obligations to you and providing introductions to other interested members. We require visitors to the site to give us contact information (including their name and email address) and demographic information (like their age, occupation, height) to become a member. We then use this information to contact the visitor when necessary for support or to respond to members' emails. In this way, to protect your privacy, AnotherFriend.com acts as a gateway for all messages, so your email address is never revealed and other members can only see the site name you have chosen. Thus, this is a private email system that allows you to communicate without having to give your email address to others. The personal profiles that are posted on this site are available to all the visitors 
+</p><p align="justify">We ask that you do not enter personal information or financial information into your "Profile" (for example, don't use your address as your user name, or include your name or address in your "About me" section), because if you do then it may be posted publicly on the Site, and the information will then be treated as "demographic information" that is "public information." 
+</p><p align="justify">The site has security measures in place to protect against the loss, misuse and alteration of the information under our control. All data is stored on highly protected databases, which is amongst the best software available today for secure software transactions.
+</p><p align="justify">
+<b>Information other sites collect from you</b><br>
+On this website, we may place links to other websites operated by other parties.  When you click on these links and visit other websites, regardless of whether or not they contain our brandname, or other references to us, you need to be aware that we do not control these websites or their businesses, and that this Privacy Policy does not apply to these websites.  Hence they may collect other information from you and we encourage you to review their individual privacy policies.
+</p><p align="justify"><b>How we use Information?</b><br>
+We use your e-mail information and other personal information to operate this site efficiently and to contact you in relation to your transaction, to forward messages to/from you to/from other members, and to inform you of what is happening on the site.  These 'Direct Communications' to you may also contain commercial messages e.g. banner ads, promotional offers, etc.  'Direct Communications' are an obligatory part of the functioning of this website and receipt of these is a function of site membership.
+</p><p align="justify"><b>Does AnotherFriend.com monitor on-line behaviour? </b><br>
+Our users communicate with each other through e-mail, chat and SMS. While we do not, as a rule, moderate or monitor users private exchanges, we reserve the right to do so. User submissions that appear on the public area of the Site can be moderated and, if necessary, we reserve the right to edit, delete/remove or not use any communication on a public area of the Site. 
+</p><p align="justify"><b>Correct/Update Your Information</b><br>
+You can change or update all your personal information online by logging in as a member, and clicking on 'Edit Profile' (this is exclusive of your e-mail address as you must notify us directly if you wish to change this).
+</p><p align="justify"><b>Protect Yourself from SPAM</b><br>
+It is a good practice to refrain from disclosing your e-mail address or any other personal information in chat rooms, public forums or any other place unless it is properly protected.  Information disclosed may be used by other persons for many purposes, including spamming.
+</p><p align="justify"><b>Payment Security</b><br>
+All Credit Card numbers are secured as we use a third party, Worldpay to process your payment. No credit card details are stored on our servers. 
+</p><p align="justify"><b>Choice/Opt-Out</b><br>
+AnotherFriend.com regularly sends email to its members in order to inform them of new services, improvements, etc. Our members can opt-out of receiving communications from us by suspending their membership. To do this you can send an e-mail to <a href="mailto:support@anotherfriend.com">support@anotherfriend.com</a> or you can log onto your account and click on the 'Deactivate Account' option.
+</p><p align="justify"><b>Contacting our Web Site</b><br>
+If you have any questions about this privacy statement, the practices of our site, or your dealings with this website, you can contact AnotherFriend.com via post, or by clicking on the Contact Us button or by emailing us at <a href="mailto:support@anotherfriend.com">support@anotherfriend.com</a>
+</p><p align="justify">AnotherFriend.com<br>
+Suite 132<br>
+105 Lower Rathmines Rd<br>
+Dublin 6<br>
 Ireland<br>
 
-</p><p>
-<b>Protect Yourself from Spam</b><br>
-It is a good practice to refrain from disclosing your email address or any other information in chat rooms, public forms or any other place unless it's properly protected. Information disclosed may be used by other persons for many purposes, including spamming.
+
+
 
 
 
@@ -446,7 +384,7 @@ It is a good practice to refrain from disclosing your email address or any other
 							  
 							  
 							  						  
-							  <form name="CFForm_2" action="simple1.cfm" method="POST" onsubmit="return _CF_checkCFForm_2(this)">
+							  <form name="CFForm_2" action="simple1.cfm" method="post" onsubmit="return _CF_checkCFForm_2(this)">
 		
 		<table width="65%" border="0" cellspacing="0" cellpadding="0" align="center">
 		
@@ -477,6 +415,7 @@ It is a good practice to refrain from disclosing your email address or any other
 		</tr>
 		<tr class="blacktxt">
 			<td align="right"><select name="province" class="form">
+
 		<option selected="" value="Any">Anywhere
 </option><option value="Antrim">Antrim
    </option><option value="Armagh">Armagh
@@ -518,7 +457,8 @@ It is a good practice to refrain from disclosing your email address or any other
 		</tbody></table>
  
  
-  </form></td>
+  </form>
+</td>
                             </tr>
                             
                           </tbody></table>
@@ -528,8 +468,6 @@ It is a good practice to refrain from disclosing your email address or any other
                         <td>
 					
 						
-
-
 
 
 
@@ -548,49 +486,49 @@ It is a good practice to refrain from disclosing your email address or any other
                                   <tbody><tr class="menu"><td width="2" background="http://www.anotherfriend.com/images/vbarl.gif"></td><td width="135" bgcolor="#FFFFFF">
 								  
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=longest%5Fday" class="menu">longest_day</a> (M25)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=roseleen81" class="menu">roseleen81</a> (F27)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=cedas" class="menu">cedas</a> (F32)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=isavieira" class="menu">isavieira</a> (F18)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=straypuss" class="menu">straypuss</a> (M34)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=Roselily" class="menu">Roselily</a> (F32)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=Papadoc" class="menu">Papadoc</a> (M43)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=%5Fisabela%2A%2A" class="menu">_isabela**</a> (F18)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=spuddy472000" class="menu">spuddy472000</a> (M47)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=calgirl" class="menu">calgirl</a> (F41)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=nikos6171" class="menu">nikos6171</a> (M33)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=zeroguy25" class="menu">zeroguy25</a> (M25)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=Munki" class="menu">Munki</a> (M27)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=dennyglee60" class="menu">dennyglee60</a> (M23)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=neverconfused" class="menu">neverconfused</a> (M30)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=EAST" class="menu">EAST</a> (M28)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=soapybubble" class="menu">soapybubble</a> (M54)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=flamingjune" class="menu">flamingjune</a> (F36)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=corkguy44" class="menu">corkguy44</a> (M44)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=Nunzie1231" class="menu">Nunzie1231</a> (F30)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=Cannibal" class="menu">Cannibal</a> (M18)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=Derek%5Fb" class="menu">Derek_b</a> (M25)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=bazil69" class="menu">bazil69</a> (M28)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=eireall" class="menu">eireall</a> (M45)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=beefcurry" class="menu">beefcurry</a> (F36)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=tizzy21" class="menu">tizzy21</a> (F22)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=LadybytheSea" class="menu">LadybytheSea</a> (F50)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=mjmartin" class="menu">mjmartin</a> (M27)<br>
 					
 								
-					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=golferlen" class="menu">golferlen</a> (M62)<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.anotherfriend.com/memberdetail.cfm?member=wellerman" class="menu">wellerman</a> (M41)<br>
 					
 								  </td><td background="http://www.anotherfriend.com/images/vbarr.gif" width="2"></td>
                                   </tr>
@@ -600,7 +538,29 @@ It is a good practice to refrain from disclosing your email address or any other
                                 </tbody></table>
                               </td>
                             </tr>
-                          </tbody></table>
+                          </tbody></table> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+						  <tbody><tr>
+                              <td colspan="3"><img src="images/blackline.gif" width="140" height="1"></td>
+                            </tr>
+                            <tr> 
+                              <td colspan="3" bgcolor="9daace"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><div align="center">Site Activity</div></font></td>
+                            </tr>
+                            <tr> 
+                              <td colspan="3"><img src="images/blackline.gif" width="140" height="1"></td>
+                            </tr>
+                            <tr class="blacktxt"> 
+                                    <td background="images/vbarl.gif" width="1"></td>
+                                    
+                              <td width="135" bgcolor="#FFFFFF"><img src="images/wonline.gif" width="33" height="23"> 139 Online now<br>
+                   
+                                <img src="images/wwhispering.gif" width="33" height="31"> 1  Whispering<br>
+								<img src="images/wchatting.gif" width="33" height="28">   <br></td>
+                                     <td width="2" background="images/vbarr.gif"></td>
+                                  </tr>
+                            <tr> 
+                              <td colspan="3"><img src="images/bottbar.gif" width="140" height="12"></td>
+                            </tr>
+                          </tbody></table><br>
 						
 						</td>
                       </tr>
@@ -628,7 +588,7 @@ It is a good practice to refrain from disclosing your email address or any other
                                     <td background="images/vbarl.gif"></td>
                                     <td width="135" bgcolor="#FFFFFF">
 									
-						<div align="center"><a href="memberdetail.cfm?member=jamseyo" class="menu">jamseyo</a></div>
+						<div align="center"><a href="memberdetail.cfm?member=dublinknight" class="menu">dublinknight</a></div>
 						
 						
 						
@@ -657,7 +617,7 @@ It is a good practice to refrain from disclosing your email address or any other
                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                                   <tbody><tr class="menu"><td width="2" background="images/vbarl.gif"></td><td width="135" bgcolor="#FFFFFF">
 								  
-						<div align="center"><a href="memberdetail.cfm?member=sawadi" class="menu">sawadi</a></div>
+						<div align="center"><a href="memberdetail.cfm?member=bubbly188" class="menu">bubbly188</a></div>
 							
 								  </td><td background="images/vbarr.gif" width="2"></td>
                                   </tr>
@@ -670,6 +630,65 @@ It is a good practice to refrain from disclosing your email address or any other
                           </tbody></table>
 						
 						  		  
+						  
+						  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                              <td><img src="images/blackline.gif" width="141" height="1"></td>
+                            </tr>
+                            <tr> 
+                              <td bgcolor="9daace"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><div align="center">Account Monitor</div></font></td>
+                            </tr>
+                            <tr><td><img src="images/blackline.gif" width="141" height="1"></td></tr>
+                            <tr> 
+                              <td>
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tbody><tr class="menu"><td width="2" background="images/vbarl.gif"></td><td width="135" bgcolor="#FFFFFF">
+						<script language="JavaScript">
+
+<!-- Begin
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=200,height=300');");
+}
+// End -->
+</script>
+<div align="center">
+<a href="javascript:popUp('sitenotify.cfm')" class="menu">Launch Monitor</a>
+</div>
+								  </td><td background="images/vbarr.gif" width="2"></td>
+                                  </tr>
+                                  <tr> 
+                                    <td colspan="3"><img src="images/bottbar.gif" width="141" height="12"><br><br></td>
+                                  </tr>
+                                </tbody></table>
+                              </td>
+                            </tr>
+                          </tbody></table>
+						  
+						
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
+						  
 						  
 						  </td>
                       </tr>
@@ -709,7 +728,7 @@ It is a good practice to refrain from disclosing your email address or any other
       <td align="center"><b>
 	  <a href="help.cfm"><font face="Arial, verdana" size="2" color="White"> Help/FAQ's</font></a> | <a href="mailto:info@anotherfriend.com"><font face="Arial, verdana" size="2" color="White">Contact 
         Us</font></a><font face="Arial, verdana" size="2" color="White"> | <a href="aboutus.cfm"><font face="Arial, verdana" size="2" color="White">About AF.com</font></a><font face="Arial, verdana" size="2" color="White"> | <a href="privacy.cfm"><font face="Arial, verdana" size="2" color="White">Privacy Statement</font></a><font face="Arial, verdana" size="2" color="White"> | 
-		<a href="tos.cfm"><font face="Arial, verdana" size="2" color="White">Terms of Service</font></a><font face="Arial, verdana" size="2" color="White"> | <a href="success.cfm"><font face="Arial, verdana" size="2" color="White">Success</font></a><font face="Arial, verdana" size="2" color="White"> </font></font></font></font></font></b></td>
+		<a href="tos.cfm"><font face="Arial, verdana" size="2" color="White">Terms of Service</font></a><font face="Arial, verdana" size="2" color="White"> | <a href="success.cfm"><font face="Arial, verdana" size="2" color="White">Success</font></a><font face="Arial, verdana" size="2" color="White"> | <a href="safety.cfm"><font face="Arial, verdana" size="2" color="White">Safety Tips</font></a></font></font></font></font></font></b></td>
   </tr>
   <tr>
       <td><img src="images/blk.gif" width="100%" height="1"></td>
