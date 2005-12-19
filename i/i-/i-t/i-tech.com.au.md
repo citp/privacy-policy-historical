@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404051147id_/http%3A//www.i-tech.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219100653id_/http%3A//i-tech.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Computer Hardware and Software Australia
 
   
-I-Tech Group is committed to protecting your privacy. That's because we base our business on the trust you place in us. The information we collect is gathered to ensure secure ordering and to provide a more personalized shopping experience. If you have any concerns, comments or complaints, be sure to [_let us know_](mailto:privacy@i-tech.com.au%22). 
+I-Tech is committed to protecting your privacy. That's because we base our business on the trust you place in us. The information we collect is gathered to ensure secure ordering and to provide a more personalized shopping experience. If you have any concerns, comments or complaints, be sure to [_let us know_](mailto:privacy@i-tech.com.au%22). 
 
 **How much information must you share?**   
 The amount of information we collect depends on you. We collect information needed for secure ordering and customizing your experience. In the case of our online application, we gather more detailed personal information. See below to find out what information is required for what task. 
@@ -21,20 +21,20 @@ Name, address and payment information, although credit card and PO numbers may b
 **E-mail a link to product information to a friend/colleague "Tell a friend"**   
 E-mail address of your friend/colleague and your e-mail address. 
 
-[**_Application of employment_**](http://i-tech.com.au/jobs.asp)   
+[**_Application of employment_**](http://www.i-tech.com.au/jobs.asp)   
 First name, last name, address, home phone, city, state, country, whether or not you have the legal right to work in the Australia, any criminal convictions, date available to start, current employment status, whether or not you have any computer skills/training as well as your certification that the information contained in the application is true and correct and that you have authorized the affidavit contained in the application. 
 
 **Is your information used for any other purpose?**   
-We require only the personal information that is needed for safely processing your online order and for contacting you about your transactions. It is used exclusively for that purpose. If you become a I-Tech Group customer, you may receive mailings from your order information may be analyzed as part of our standard business practices. 
+We require only the personal information that is needed for safely processing your online order and for contacting you about your transactions. It is used exclusively for that purpose. If you become a I-Tech customer, you may receive mailings from your order information may be analyzed as part of our standard business practices. 
 
 **Will your information be given to any other party?**   
 Your personal information is not shared with any other party. 
 
 **What about e-mail?**   
-When you purchase online from I-Tech Group, we will contact you by e-mail to confirm your order and to update you on the status of your order. If you entered a contest at I-tech.com.au, you may receive a follow-up e-mail. This is the only e-mail you will receive from such entries. 
+When you purchase online from I-Tech, we will contact you by e-mail to confirm your order and to update you on the status of your order. If you entered a contest at I-tech.com.au, you may receive a follow-up e-mail. This is the only e-mail you will receive from such entries. 
 
 **Customer satisfaction:**   
-I-Tech Group is committed to providing all customers with a world-class experience. In order to measure how well we are doing and to better understand how we can continually improve our product offerings and our ability to meet your unique requirements, from time-to-time we may contact you by phone or e-mail and solicit your participation in research. Your participation is voluntary and you may request to remove yourself from future efforts of this kind. 
+I-Tech is committed to providing all customers with a world-class experience. In order to measure how well we are doing and to better understand how we can continually improve our product offerings and our ability to meet your unique requirements, from time-to-time we may contact you by phone or e-mail and solicit your participation in research. Your participation is voluntary and you may request to remove yourself from future efforts of this kind. 
 
 **How do we protect your information?**   
 We employ powerful 128-bit encryption technology and Secure Socket Layers (SSL) in all areas where your personal identity is required. This is your assurance that our site is authentic and that we're employing SSL security. You can check this security protection setting within your browser. To view our VeriSign certificate, click on the image of the closed lock or the solid key at the bottom of your browser. Our site security information will appear. For more information, contact your browser's publisher. Your account information and order history are kept behind our firewall on separate servers. All transaction information is processed under encrypted channels, although you always have the option to choose unencrypted processing. To be sure you have the most protection available, be sure to download the latest version of today's most popular browsers, 
@@ -42,62 +42,67 @@ We employ powerful 128-bit encryption technology and Secure Socket Layers (SSL) 
 [_Microsoft Internet Explorer_](http://www.microsoft.com/ms.htm) and [_Netscape Communicator_](http://www.netscape.com/). In addition, access to your personal information is restricted within our company to provide maximum security. 
 
 **What about cookies?**   
-We use cookies as a way to give you better service. They personalize your shopping experience and they help identify you. You will need to set your browser to accept cookies if you wish to add items to a shopping cart. Information collected or stored via cookies includes purchases; log in data, and pricing level. This information is kept in a secured area within I-Tech Group. 
+We use cookies as a way to give you better service. They personalize your shopping experience and they help identify you. You will need to set your browser to accept cookies if you wish to add items to a shopping cart. Information collected or stored via cookies includes purchases; log in data, and pricing level. This information is kept in a secured area within I-Tech. 
 
-**How do I contact I-Tech Group?**
+**How do I contact I-Tech?**
 
 [ _Click here_](mailto:%22info@i-tech.com.au%22) to contact us.  |  |  |  |  |   
 ---  
 ---  
   
-[](http://i-tech.com.au/flexirent.asp)  
+[](http://compatible.corsairmemory.com/partner/default.aspx?partnerid=53)  
   
-[](http://au.shopping.yahoo.com/)  
+[](http://www.i-tech.com.au/flexirent.asp)  
   
-[](http://i-tech.com.au/adsl.asp)  
+[](http://www.i-tech.com.au/adsl.asp)  
   
-[](http://i-tech.com.au/products/253_Asus_Notebook__Laptop.asp)
+[](http://www.i-tech.com.au/products/253_Asus_Notebook__Laptop.asp)
 
-[**I-Tech ADSL**](http://i-tech.com.au/adsl.asp)  
+[](http://www.dlink.com.au/)
+
+[**I-Tech ADSL**](http://www.i-tech.com.au/adsl.asp)  
 ADSL Plans available from as little as $29/month.
 
 Bookmark us  
 Never miss our latest prices and news again!
 
-[**Testimonials**](http://i-tech.com.au/testimonial.asp)  
+[**Testimonials**](http://www.i-tech.com.au/testimonial.asp)  
 Read about what our customers thought of us.
 
-[**$$ Price Guarantee**](http://i-tech.com.au/guarantee.asp)  
+[**$$ Price Guarantee**](http://www.i-tech.com.au/guarantee.asp)  
 Our Lowest Price Guarantee to you.
 
-[**Delivery Charges**](http://i-tech.com.au/freight.asp)  
+[**Delivery Charges**](http://www.i-tech.com.au/freight.asp)  
 Learn about our insured delivery charges, for NSW and interstate purchases.
 
-[**Become an affiliate**](http://i-tech.com.au/affiliate.asp)  
+[**Become an affiliate**](http://www.i-tech.com.au/affiliate.asp)  
 Earn additional income from your web site.
 
-[**Services**](http://i-tech.com.au/services.asp)  
+[**Services**](http://www.i-tech.com.au/services.asp)  
 We offer services such as network setup, support and training.
 
-[**E-Commerce**](http://i-tech.com.au/ecommerce.asp)  
+[**E-Commerce**](http://www.i-tech.com.au/ecommerce.asp)  
 We offer web development services and a complete range of e-commerce solutions.
 
-[**Support Section**](http://i-tech.com.au/support.asp)  
+[**Support Section**](http://www.i-tech.com.au/support.asp)  
 Links to suppliers and other resources.
 
-[**Warranty Statement**](http://i-tech.com.au/warranty.asp)  
+[**Warranty Statement**](http://www.i-tech.com.au/warranty.asp)  
 Our assurance to you.
 
-[**Secure Server Info**](http://i-tech.com.au/ssl.asp)  
+[**Secure Server Info**](http://www.i-tech.com.au/ssl.asp)  
 Fully secured transaction for your peace of mind.
 
-[**Warranty Return**](http://i-tech.com.au/RA.asp)  
+[**Warranty Return**](http://www.i-tech.com.au/RA.asp)  
 Warranty statement, return procedures and policy.  
   
 * * *
 
-**I-Tech Group Pty Ltd**  
-A.B.N. 85 089 090 497  
+**Internet Technology Corporation Pty Ltd**  
+A.B.N. 72 111 843 684  
 **Phone:** 1800 833 883  
-**Fax:** (02) 9211 8892  
-[[For more information](http://i-tech.com.au/contact.asp)] 
+**Fax:** 02 9211 8892  
+[[For more information](http://www.i-tech.com.au/contact.asp)]   
+  
+   
+[](http://www.vishwatech.com/)
