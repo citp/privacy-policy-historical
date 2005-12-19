@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615123233id_/http%3A//www.dogzonline.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219132129id_/http%3A//dogzonline.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Dogz Online
 
     
- [* Home Page](https://web.archive.org/web/20050615123233id_/http%3A//www.dogzonline.com.au/home.asp)  
- [* Breed Pages](https://web.archive.org/web/20050615123233id_/http%3A//www.dogzonline.com.au/breeds/list.asp)  
+ [* Home Page](https://web.archive.org/web/20051219132129id_/http%3A//dogzonline.com.au/home.asp)  
+ [* Breed Pages](https://web.archive.org/web/20051219132129id_/http%3A//dogzonline.com.au/breeds/list.asp)  
  [* Forums](http://forums.dogzonline.com.au/index.php)  
- [* Rescue Dogs](https://web.archive.org/web/20050615123233id_/http%3A//www.dogzonline.com.au/breeds/rescue.asp)  
- [* Classifieds](https://web.archive.org/web/20050615123233id_/http%3A//www.dogzonline.com.au/classifieds/default.asp)   
- [* Market Place](https://web.archive.org/web/20050615123233id_/http%3A//www.dogzonline.com.au/links/products/default.htm)  
- [* Accommodation](https://web.archive.org/web/20050615123233id_/http%3A//www.dogzonline.com.au/accommodation/default.asp)  
- [* Info Links](https://web.archive.org/web/20050615123233id_/http%3A//www.dogzonline.com.au/links/default.htm)  
- [* Members Sign In](https://web.archive.org/web/20050615123233id_/http%3A//www.dogzonline.com.au/members/home.asp)    
- [* About Us](https://web.archive.org/web/20050615123233id_/http%3A//www.dogzonline.com.au/about_us.htm)  
- [* Site Advertising](https://web.archive.org/web/20050615123233id_/http%3A//www.dogzonline.com.au/advertising.htm)   
- [* Contact Us](https://web.archive.org/web/20050615123233id_/http%3A//www.dogzonline.com.au/contact.htm)
+ [* Rescue Dogs](https://web.archive.org/web/20051219132129id_/http%3A//dogzonline.com.au/breeds/rescue.asp)  
+ [* Classifieds](https://web.archive.org/web/20051219132129id_/http%3A//dogzonline.com.au/classifieds/default.asp)   
+ [* Market Place](https://web.archive.org/web/20051219132129id_/http%3A//dogzonline.com.au/links/products/default.htm)  
+ [* Accommodation](https://web.archive.org/web/20051219132129id_/http%3A//dogzonline.com.au/accommodation/default.asp)  
+ [* Info Links](https://web.archive.org/web/20051219132129id_/http%3A//dogzonline.com.au/links/default.htm)  
+ [* Members Sign In](https://web.archive.org/web/20051219132129id_/http%3A//dogzonline.com.au/members/home.asp)    
+ [* About Us](https://web.archive.org/web/20051219132129id_/http%3A//dogzonline.com.au/about_us.htm)  
+ [* Site Advertising](https://web.archive.org/web/20051219132129id_/http%3A//dogzonline.com.au/advertising.htm)   
+ [* Contact Us](https://web.archive.org/web/20051219132129id_/http%3A//dogzonline.com.au/contact.htm)
 
 |  |    
 
 
-**Navigation** >> [Home](https://web.archive.org/web/20050615123233id_/http%3A//www.dogzonline.com.au/home.asp) >> Privacy Statement
+**Navigation** >> [Home](https://web.archive.org/web/20051219132129id_/http%3A//dogzonline.com.au/home.asp) >> Privacy Statement
 
 With regards to your privacy, we have 3 commitments.
 
@@ -38,6 +38,8 @@ With regards to your privacy, we have 3 commitments.
 
 **Types of Information We Collect**  
 Generally, you are free to browse the Dogz Online site without submitting any personal information. We do not collect any of your personal information (such as a name, address or e-mail address) when you visit the Dogz Online, unless you join up as a member, or otherwise agree to submit to us such information (eg via email). 
+
+Please be aware that on the parts of the site that require membership, your computer's IP address will be recorded after you sign in and or/use the membership facilities (this includes the forums).
 
 **Cookies**  
 Dogz Online uses browser cookies to facilitate your experience with our site. These cookies are small sections of code that our server sends to your browser which it can then store on your hard drive. If you choose to accept these cookies, they enable us to recognize that your browser has previously visited and used our site, and, based on your browser's previous visits, assist us with tailoring the information and content you view. An example of the customization allowed by the use of such cookies is to retain your username and password as part of the Dogz Online membership system or forums on our site so you don't have to re-enter them each time you visit. You do not have to accept these cookies to visit or use the Dogz Online site or our products and services, and you can choose to refuse our cookie or delete our cookie from your hard drive.
