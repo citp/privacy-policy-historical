@@ -1,364 +1,220 @@
-<!--The following is the downloaded HTML source of the upack.com privacy policy that was archived on 2005-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050315093400id_/http%3A//www.upack.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the upack.com privacy policy that was archived on 2005-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219225027id_/http%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-         
-         <title>ABF U-Pack® Moving Privacy Policy</title>
-         <meta name="description" content="ABF U-Pack Moving is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry.">
+<title>ABF U-Pack Moving Privacy Policy</title>
+<meta name="description" content="ABF U-Pack Moving is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry.">
 <meta name="keywords" content="">
 <script language="javascript">
 <!-- Check browser type and set variables:
-var calWin, helpWin, mapWin, searchWin, xWin
+var ns4 = (document.layers)? true:false
+var ns6 = (document.getElementById && !document.all)? true:false
+var ie4 = (document.all)? true:false
+var ie5 = false
+var ie6 = false
+var ffox = ns6
 
-function upWinXY(winName,whatWin,winX,winY,scrollB,resizable) {
-   var strS = 'no'
+var calWin, helpWin, mapWin, searchWin, xWin, printWin
 
-   if (scrollB) { strS = 'yes' }
-   strR = resizable? 'yes' : 'no'
-
-   eval("if (("+winName+") && (!"+winName+".closed)) { "+winName+".close() }")
-
-   
-      eval(winName+" = window.open(whatWin,'"+winName+"','screenX=10,screenY=10,status=no,toolbar=no,location=no,resizable="+strR+",copyhistory=no,menubar=no,scrollbars="+strS+",width="+winX+",height="+winY+"')")
-   
+function initQuickQuote() {
+   initDate(0,y2kFmt(2005),12,19,2,125,true,true);
 }
 
-function gotosite(site) {
-	if (site != '') { window.parent.location.href = site; }
-}
-
-function launchChat() {
-	window.open("/face_sa.asp?"+document.URL,"Getting_Started","width=410,height=320,resizable=yes");
-}
-
-function openHelp(intMsg) {
-  upWinXY('xWin', '/tips/default.asp?num=' + intMsg, 300, 250, false)
-}
-
-function trackClientEvent(strMsg) {
-   if (document.getElementById) {
-      if (document.getElementById("eventTrackIFrame")) {
-         document.getElementById("eventTrackIFrame").src = "/Include/ClientSideEvent.asp?EVENT=" + strMsg + "&VERSION=" + Math.random();
-      }
-   }
-}
 // -->
 </script>
-
-<link href="/style/upackstyle_ns.css" rel="STYLESHEET" type="text/css">
-
-
-         </head>
-         
-            <body background="/images/bgline.gif" bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
-         
-    <table width="100%" cellpadding="0" cellspacing="0" border="0">
-      <tbody><tr>
-        <td valign="TOP" width="15"><img src="/images/d1x1t.gif" width="15" height="1" border="0"></td>
-        <td valign="TOP" width="100%" height="60">
-          <table border="0" cellpadding="0" cellspacing="0" width="100%" height="60">
-          <tbody><tr>
-            <td valign="TOP" height="60" bgcolor="#FFD763" rowspan="2" width="415"><img src="/images/hp_main1.gif" width="415" height="60" border="0" usemap="#main"></td>
-            <td valign="TOP" align="RIGHT" bgcolor="#FFD763" width="100%" height="55">
-              <table border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-
-                <td>
-
-                <form name="frmNavigate">
-
-                <select name="cboURL" size="1" style="FONT-FAMILY: Georgia, tahoma, Times New Roman, Times, New York, serif; FONT-SIZE: 8pt;" onchange="gotosite(this.options[this.selectedIndex].value);">
-
-                  <option value="" selected="">Navigate the Site:
-
-                  </option><option value="/default.asp">Home Page
-                  </option><option value="/quote.asp">Get a Quote
-                  </option><option value="/quoteview.asp">View an Existing Quote
-                  </option><option value="/estimators.asp">Space Estimators
-                  </option><option value="https://www.upack.com/secure/reserve.asp">Make a Reservation
-                  </option><option value="">
-                  </option><option value="/about.asp">All About U-Pack
-                  </option><option value="/service.asp">&nbsp;&nbsp;How does this work
-                  </option><option value="/aboutabf.asp">&nbsp;&nbsp;Who is ABF?
-                  </option><option value="/price.asp">&nbsp;&nbsp;Will My Price Ever Change?
-                  </option><option value="/t2t.asp">&nbsp;&nbsp;Terminal-to-Terminal Move
-                  </option><option value="/equipment/container.asp">&nbsp;&nbsp;Mobile Container Move
-                  </option><option value="/comments.asp">&nbsp;&nbsp;Customer Comments
-                  </option><option value="/movers.asp">&nbsp;&nbsp;Full Service Movers
-                  </option><option value="/brokers.asp">&nbsp;&nbsp;Self-Move Brokers
-                  </option><option value="/rental.asp">&nbsp;&nbsp;Truck Rental
-                  </option><option value="/upackfaq.asp">&nbsp;&nbsp;FAQs
-                  </option><option value="">
-                  </option><option value="/movetypes.asp">What's Your Move?
-                  </option><option value="/residential.asp">&nbsp;&nbsp;Residential Move
-                  </option><option value="/military.asp">&nbsp;&nbsp;Military Move
-                  </option><option value="/student.asp">&nbsp;&nbsp;Student Move
-                  </option><option value="/relocation.asp">&nbsp;&nbsp;Corporate Relocation
-                  </option><option value="/commercial.asp">&nbsp;&nbsp;Commercial Moves
-                  </option><option value="">
-                  </option><option value="/resource.asp">Moving Resource Center
-                  </option><option value="/secure/boxorder.asp">&nbsp;&nbsp;Moving Boxes &amp; Supply Store
-                  </option><option value="/before.asp">&nbsp;&nbsp;Before Your Move
-                  </option><option value="/during.asp">&nbsp;&nbsp;During Your Move
-                  </option><option value="/after.asp">&nbsp;&nbsp;After Your Move
-                  </option><option value="/checklist.asp">&nbsp;&nbsp;Moving Checklist
-                  </option><option value="/tips.asp">&nbsp;&nbsp;Packing &amp; Loading Tips
-                  </option><option value="/ramp/default.asp">&nbsp;&nbsp;Ramp Rental
-                  </option><option value="/tools/fuel.asp">&nbsp;&nbsp;Fuel Calculator
-                  </option><option value="/bulkhead.asp">&nbsp;&nbsp;Bulkhead Installation
-                  </option><option value="/bol.asp">&nbsp;&nbsp;Preview a Bill of Lading
-                  </option><option value="/links.asp">&nbsp;&nbsp;Moving Related Services
-                  </option><option value="/forms.asp">&nbsp;&nbsp;Forms and Documents
-                  </option><option value="/video.asp">&nbsp;&nbsp;Request a DVD
-                  </option><option value="/gypsymoth.asp">&nbsp;&nbsp;Gypsy Moth Quarantine
-                  </option><option value="/DocRet/">&nbsp;&nbsp;Document Retrieval
-                  </option><option value="">
-                  </option><option value="/contact.asp">Contact Us
-                  </option><option value="/map.asp">Site Map
-                  </option><option value="/Press/default.asp">Press Room
-                  </option><option value="/moviendose.asp">Ayuda en Español?
-                  </option><option value="/trace.asp">Track Your Shipment
-                  </option><option value="">
-                  </option><option value="/liability.asp">Liability Statement
-                  </option><option value="/privacy.asp">Privacy Policy
-                </option></select>
-
-                </form>
-
-                </td>
-                <td width="10"></td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-          <tr>
-            <td valign="TOP" height="5" bgcolor="#CECF9C"><img src="/images/d1x1t.gif" width="1" height="1" border="0"></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-      <tr>
-        <td valign="TOP" width="15"></td>
-        <td valign="TOP" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
-          <tbody><tr>
-            <td valign="TOP" width="160"><table border="0" cellpadding="0" cellspacing="0" width="160">
-              <tbody><tr>
-                <td valign="TOP" height="60" width="160"><a href="/quote.asp"><img src="/images/hp_main2.gif" width="160" height="62" border="0" alt="Get a Free Quote Now!"></a></td>
-              </tr>
-              <tr>
-                <td height="5"></td>
-              </tr>
-              <tr>
-                <td valign="TOP"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#CECF9C">
-                  <tbody><tr>
-                    <td width="5"></td>
-                    <td width="150" valign="TOP"><table border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr>
-                        <td height="5"></td>
-                      </tr>
-                      <tr>
-                        <td valign="TOP"><a href="/quote.asp" class="Hp1"><font class="HpLeft">Free Moving Quote</font></a></td>
-                      </tr>
-                      <tr>
-                        <td height="10"></td>
-                      </tr>
-                  
-                      <tr>
-                        <td valign="TOP"><a href="https://www.upack.com/secure/reserve.asp" class="Hp1"><font class="HpLeft">Make a Reservation</font></a></td>
-                      </tr>
-                  
-                      <tr>
-                        <td height="10"></td>
-                      </tr>
-                      <tr>
-                        <td valign="TOP"><a href="/about.asp" class="Hp1"><font class="HpLeft">How U-Pack Works</font></a></td>
-                      </tr>
-                      <tr>
-                        <td height="10"></td>
-                      </tr>
-                      <tr>
-                        <td valign="TOP"><a href="/upackfaq.asp" class="Hp1"><font class="HpLeft">FAQs</font></a></td>
-                      </tr>
-                      <tr>
-                        <td height="10"></td>
-                      </tr>
-                      <tr>
-                        <td valign="TOP"><a href="/resource.asp" class="Hp1"><font class="HpLeft">Moving Tips &amp; Advice</font></a></td>
-                      </tr>
-                      <tr>
-                        <td height="10"></td>
-                      </tr>
-                      <tr>
-                        <td valign="TOP"><a href="/secure/boxorder.asp" class="Hp1"><font class="HpLeft">Moving Boxes &amp; Supply Store</font></a></td>
-                      </tr>
-                      <tr>
-                        <td height="10"></td>
-                      </tr>
-                      <tr>
-                        <td valign="TOP"><a href="/trace.asp" class="Hp1"><font class="HpLeft">Track Your Move</font></a></td>
-                      </tr>
-                      <tr>
-                        <td height="10"></td>
-                      </tr>
-                      <tr>
-                        <td valign="TOP"><a href="/myupack/default.asp" class="Hp1"><font class="HpLeft">My U-Pack</font></a><font class="txtTip">&nbsp;&nbsp;[<a class="txtTip" href="/myupack/?lo=ON">Logon</a>]</font></td>
-                      </tr>
-                      <tr>
-                        <td height="10"></td>
-                      </tr>
-                      <tr>
-                        <td valign="TOP"><a href="/aboutabf.asp" class="Hp1"><font class="HpLeft">About ABF</font></a></td>
-                      </tr>
-                      <tr>
-                        <td height="10"></td>
-                      </tr>
-                      <tr>
-                        <td valign="TOP"><a href="/contact.asp" class="Hp1"><font class="HpLeft">Contact Us</font></a></td>
-                      </tr>
-                      <tr>
-                        <td height="5"></td>
-                      </tr>
-
-                      <tr>
-                        <td height="5"></td>
-                      </tr>
-                      <tr>
-
-                        <td valign="TOP" align="CENTER"><a href="javascript:upWinXY('xWin','/bbbjump.asp',575,400,true);"><img src="/images/bbb.gif" alt="BBBOnline Reliability Seal" width="135" height="48" border="0"></a>
-
-                        </td>
-                      </tr>
-                      <tr>
-                        <td height="5"></td>
-                      </tr>
-                    </tbody></table></td>
-                    <td width="5" valign="TOP"></td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
-            </tbody></table></td>
-            <td valign="TOP" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
-              <tbody><tr>
-                <td valign="TOP" width="27" bgcolor="#FFFFFF"><img src="/images/hp_main3.gif" width="27" height="42" border="0"></td>
-                <td valign="TOP" width="100%" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-                  <tbody><tr>
-                    <td height="5" width="100%"></td>
-                    <td rowspan="3" width="20"></td>
-                  </tr>
-                  <tr>
-                    <td valign="TOP">
-
-<a name="top"></a>
-<p><font class="txtHdPg">Privacy Policy</font><br><font class="txtNav"><a class="nav" href="/">Home</a></font>&nbsp;<img src="/images/nav_arrow.gif" width="7" height="8" border="0">&nbsp;<font class="txtNavNL">Privacy Policy</font>
-
-</p><p><font class="txtPg">ABF U-Pack Moving<sup><font size="2">®</font></sup> is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry. However, all information about you stored on our site will never be released to anyone without your consent. Please read on for more information on ABF U-Pack Moving's commitment to your privacy. </font></p>
-<dl>
-<dt><font class="txtHdPara">Where is my information saved and protected?</font> 
-</dt><dd><font class="txtPg">Your personal and shipment information is stored in a central, secure source in our mainframe system. All calls from the Internet to access this information must pass through our secure site.<br><br></font>
-</dd><dt> 
-</dt><dt><font class="txtHdPara">How does U-Pack protect my credit card information?</font> 
-</dt><dd><font class="txtPg">All credit card information is encrypted by digital certificates using Secure Sockets Layer (SSL). Credit card information is then stored on a computer that is not connected to the Internet. For more information about SSL, read the <a href="http://home.netscape.com/security/techbriefs/ssl.html" target="http://home.netscape.com/security/techbriefs/ssl.html">Secure Sockets Layer</a> at the Netscape site.<br><br></font>
-</dd><dt> 
-</dt><dt><font class="txtHdPara">Does the U-Pack site use cookies?</font> 
-</dt><dd><font class="txtPg">Certain information is stored in your cookie file; however, none of your personal or shipment information is stored in cookies. We believe cookies provide a safe and secure way to improve the usability of the site. Please note that we will never use cookies to find demographic information. For more information about cookies, read the <a href="http://home.netscape.com/security/basics/privacy.html" target="http://home.netscape.com/security/basics/privacy.html">Cookie and Privacy FAQ</a> at the Netscape site.<br><br></font>
-</dd><dt> 
-</dt><dt><font class="txtHdPara">Will ABF U-Pack Moving disclose the information it collects to third parties?</font> 
-</dt><dd><font class="txtPg">Unless approved by you, ABF U-Pack Moving will not sell, rent or trade your information to others. In other words, all information about you stored on our site will never be released to anyone without your consent.<br><br></font></dd></dl>
-<p><font class="txtPg">Please note that by using the ABF U-Pack Moving Web site, you consent to the collection and use of this information by ABF U-Pack Moving. If we decide to change this privacy policy, alterations will be posted to this page. ABF U-Pack Moving is committed to protecting your privacy.</font></p>
-		    <br></td>
-                  </tr>
-                  <tr>
-                    <td height="5"></td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
-              <tr>
-                <td valign="TOP" colspan="2"><table border="0" cellpadding="0" cellspacing="0" width="100%">
-                  <tbody><tr>
-                    <td valign="TOP" colspan="3" height="5" bgcolor="#FFD763"><img src="/images/d1x1t.gif" width="1" height="1" border="0"></td>
-                  </tr>
-                  <tr>
-                    <td valign="TOP" bgcolor="#A9A87A" height="50" width="10"><img src="/images/d1x1t.gif" width="10" height="1" border="0"></td>
-                    <td valign="TOP" colspan="2" bgcolor="#A9A87A" height="60">
-
-					<table cellpadding="0" cellspacing="0" border="0" align="CENTER">
-					   <tbody><tr>
-					      <td>
-					         <font class="HpBottom"><a href="/about.asp" class="Hp1"><b>All About U-Pack Moving</b></a>&nbsp;-&nbsp;
-					         <a href="/service.asp" class="Hp1">How does U-Pack work?</a>&nbsp;|&nbsp;
-					         <a href="/quote.asp" class="Hp1">Get a Quote</a>&nbsp;|&nbsp;
-					         <a href="/quoteview.asp" class="Hp1">View an Existing Quote</a>&nbsp;|&nbsp;
-					         <a href="/estimators.asp" class="Hp1">Space Estimators</a>&nbsp;|&nbsp;
-					         <a href="/upackfaq.asp" class="Hp1">FAQs</a>&nbsp;|&nbsp;
-					         <a href="https://www.upack.com/secure/reserve.asp" class="Hp1">Make a Reservation</a>&nbsp;|&nbsp;
-					         <a href="/forms.asp" class="Hp1">Forms and Documents</a>&nbsp;|&nbsp;
-					         <a href="/trace.asp" class="Hp1">Track Your Move</a>&nbsp;|&nbsp;
-					         <a href="/aboutabf.asp" class="Hp1">Who is ABF?</a>&nbsp;|&nbsp;
-					         <a href="/price.asp" class="Hp1">Will My Price Ever Change?</a>&nbsp;|&nbsp;
-					         <a href="/default.asp" class="Hp1">Home Page</a></font></td>
-					   </tr>
-					<tr><td height="8"></td></tr>
-					<tr>
-					   <td>
-					      <font class="HpBottom"><b>Compare U-Pack to</b>&nbsp;-&nbsp;
-					      <a href="/movers.asp" class="Hp1">Full Service Movers</a>&nbsp;|&nbsp;
-					      <a href="/brokers.asp" class="Hp1">Self-Move Brokers</a>&nbsp;|&nbsp;
-					      <a href="/rental.asp" class="Hp1">Truck Rental</a></font>
-					   </td>
-					</tr>
-					<tr><td height="8"></td></tr>
-					<tr>
-					   <td>
-					      <font class="HpBottom"><a href="/movetypes.asp" class="Hp1"><b>What's Your Move?</b></a>&nbsp;-&nbsp;
-					      <a href="/residential.asp" class="Hp1">Residential Move</a>&nbsp;|&nbsp;
-					      <a href="/military.asp" class="Hp1">Military Move</a>&nbsp;|&nbsp;
-					      <a href="/student.asp" class="Hp1">Student Move</a>&nbsp;|&nbsp;
-					      <a href="/relocation.asp" class="Hp1">Corporate Relocation</a>&nbsp;|&nbsp;
-					      <a href="/commercial.asp" class="Hp1">Commercial Move</a>&nbsp;|&nbsp;
-					      <a href="/t2t.asp" class="Hp1">Terminal-to-Terminal Move</a>&nbsp;|&nbsp;
-					      <a href="/equipment/container.asp" class="Hp1">Mobile Container Move</a>
-					      </font>
-					   </td>
-					</tr>
-               <tr><td height="8"></td></tr>
-					<tr>
-					   <td>
-					      <font class="HpBottom"><a href="/resource.asp" class="Hp1"><b>Moving Resource Center</b></a>&nbsp;-&nbsp;
-					      <a href="/secure/boxorder.asp" class="Hp1">Moving Boxes and Supplies</a>&nbsp;|&nbsp;
-					      <a href="/before.asp" class="Hp1">Before Your Move</a>&nbsp;|&nbsp;
-					      <a href="/during.asp" class="Hp1">During Your Move</a>&nbsp;|&nbsp;
-					      <a href="/after.asp" class="Hp1">After Your Move</a>&nbsp;|&nbsp;
-					      <a href="/checklist.asp" class="Hp1">Moving Checklist</a>&nbsp;|&nbsp;
-					      <a href="/tips.asp" class="Hp1">Packing &amp; Loading Tips</a>&nbsp;|&nbsp;
-					      <a href="/ramp/default.asp" class="Hp1">Ramp Rental</a>&nbsp;|&nbsp;
-					      <a href="/tools/fuel.asp" class="Hp1">Fuel Calculator</a>&nbsp;|&nbsp;
-					      <a href="/links.asp" class="Hp1">Moving Related Services</a>&nbsp;|&nbsp;
-					      <a href="/gypsymoth.asp" class="Hp1">Gypsy Moth Quarantine</a>&nbsp;|&nbsp;
-					      <a href="/video.asp" class="Hp1">Request a DVD</a></font>
-					   </td>
-					</tr>
-					<tr><td height="8"></td></tr>
-					<tr><td><font class="HpBottom"><a href="/moviendose.asp" class="Hp1">Necesita Ayuda en Español?</a>&nbsp;|&nbsp;<a href="/privacy.asp" class="Hp1">Privacy Policy</a>&nbsp;|&nbsp;<a href="/press/default.asp" class="Hp1">Press Room</a>&nbsp;|&nbsp;<a href="/contact.asp" class="Hp1">Contact Us</a>&nbsp;|&nbsp;<a href="/map.asp" class="Hp1">Site Map</a></font></td></tr>
-					</tbody></table>
-
-					</td>
-                  </tr>
-                  <tr>
-                    <td bgcolor="#0B6665" width="10"><img src="/images/d1x1t.gif" width="10" height="1" border="0"></td>
-                    <td bgcolor="#0B6665" width="60%" nowrap="">
-<font class="txtNoteW"><a class="Hp2" href="http://www.abfs.com/copyright.asp">Copyright © 2005 ABF Freight System, Inc.</a>  All Rights Reserved.<br>Last Update: 01/21/2004 7:33:24 AM</font><br>
-					</td>
-                    <td width="40%"></td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table>
-    <map name="main">
-    <area shape="RECT" coords="4,3,183,47" href="/default.asp" alt="Go to U-Pack's Home Page"></map>
+<script language="javascript" type="text/javascript" src="/include/allinclude-STC.js?v=1.2"></script>
 
 
+<link href="/style/interior.css" rel="STYLESHEET" type="text/css">
+
+<link href="/style/transmenu.css" rel="STYLESHEET" type="text/css">
+<script language="javascript" src="/include/printemail-stc.js?v=1.0"></script>
+
+<script language="javascript" type="text/javascript" src="/include/transmenu.js"></script>
+
+</head>
+<body>
+<div id="mainwrap"><a href="/"><img src="/images/interior/logo.gif" alt="ABF U-Pack Moving" width="228" height="116" border="0"></a><img src="/images/interior/mainimage01.jpg" alt="ABF U-Pack Moving" width="542" height="116" border="0"><br><div id="wrap2">
+      <table cellspacing="0" cellpadding="0" border="0">
+         <tbody><tr>
+            <td><a href="/moving-services/moving-services.asp"><img name="nav0" id="nav0" src="/images/main/nav_01a.jpg" alt="U-Pack Services" title="U-Pack Services" width="138" height="27" border="0"></a></td>
+            <td><a href="/about/whyupack.asp"><img name="nav1" id="nav1" src="/images/main/nav_02a.jpg" alt="Why U-Pack" title="Why U-Pack" width="112" height="27" border="0"></a></td>
+            <td><a href="/moving-quotes/quote.asp"><img name="nav2" id="nav2" src="/images/main/nav_03a.jpg" alt="Free Quote" title="Free Quote" width="105" height="27" border="0"></a></td>
+            <td><a href="https://www.upack.com/secure/reserve.asp"><img name="nav3" id="nav3" src="/images/main//nav_04a.jpg" alt="Reserve A Move" title="Reserve A Move" width="135" height="27" border="0"></a></td>
+            <td><a href="/moving-supplies/moving-boxes.asp"><img name="nav4" id="nav4" src="/images/main/nav_05a.jpg" alt="Moving Boxes &amp; Supplies" title="Moving Boxes &amp; Supplies" width="120" height="27" border="0"></a></td>
+            <td><a href="/moving-resources/moving-resources.asp"><img name="nav5" id="nav5" src="/images/main/nav_06a.jpg" alt="Resource Center" title="Resource Center" width="143" height="27" border="0"></a></td>
+         </tr>
+      </tbody></table>
+<table cellspacing="0" cellpadding="0" border="0" width="753">  <tbody><tr>     <td valign="top" width="184"><img src="/images/interior/nav_shadow.gif" alt="ABF U-Pack Moving" width="184" height="4" border="0"><br>
+<img src="/images/interior/nav_bottom.jpg" alt="ABF U-Pack Moving" width="184" height="259" border="0"><br>
+</td>
+<td valign="top" width="569"><img src="/images/interior/mainimage_shadow.jpg" alt="ABF U-Pack Moving" width="569" height="3" border="0"><br><table cellspacing="0" cellpadding="0" border="0">  <tbody><tr>     <td width="155" align="right"><img src="/images/interior/quicknav.gif" width="151" height="18" border="0" usemap="#nav2"></td>     <td align="right" width="414"><img src="/images/interior/sub_privacy.gif" alt="Privacy Policy" width="385" height="33" border="0"></td>  </tr>
+</tbody></table>
+<div id="content"><!--begin nav--><a name="top"></a><h1>Privacy Policy</h1><div id="BreadCrumbs"><span class="txtNav"><a class="nav" href="/">Home</a></span> <img src="/images/nav_arrow.gif" width="7" height="8" border="0"> <span class="txtNavNL">Privacy Policy</span></div><div id="blank"></div><!--end nav-->
+<p class="follow">ABF U-Pack Moving is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry. However, all information about you stored on our site will never be released to anyone without your consent. Please read on for more information on ABF U-Pack Moving's commitment to your privacy.</p>
+
+<h2>Where is my information saved and protected?</h2>
+<p class="follow">Your personal and shipment information is stored in a central, secure source in our mainframe system. All calls from the Internet to access this information must pass through our secure site.</p>
+
+<h2>How does U-Pack protect my credit card information?</h2>
+<p class="follow">All credit card information is encrypted by digital certificates using Secure Sockets Layer (SSL). Credit card information is then stored on a computer that is not connected to the Internet. For more information about SSL, read the <a href="javascript:upWinXY('xWin','http://www.verisign.com/products-services/security-services/ssl/ssl-information-center/how-ssl-security-works/index.html',400,400,true,true);">Secure Sockets Layer</a> at the Verisign site.</p>
+
+<h2>Does the U-Pack site use cookies?</h2>
+<p class="follow">Certain information is stored in your cookie file; however, none of your personal or shipment information is stored in cookies. We believe cookies provide a safe and secure way to improve the usability of the site. Please note that we will never use cookies to find demographic information. For more information about cookies, read the <a href="http://channels.netscape.com/ns/browsers/security.jsp" target="http://home.netscape.com/security/basics/privacy.html">Cookie and Privacy FAQ</a> at the Netscape site.</p>
+
+<h2>Will ABF U-Pack Moving disclose the information it collects to third parties?</h2>
+<p class="follow">We employ other companies and individuals to perform services for us, such as analyzing data, providing marketing assistance, and providing additional customer service.  They have access to your information as necessary to perform those services for us, but they are not permitted to use it for any other purposes.  Otherwise, unless approved by you, ABF U-Pack Moving will not sell, rent or trade your information to others. In other words, all information about you stored on our site will never be released to anyone without your consent.</p>
+<p>Please note that by using the ABF U-Pack Moving Web site, you consent to the collection and use of this information by ABF U-Pack Moving. If we decide to change this privacy policy, alterations will be posted to this page. ABF U-Pack Moving is committed to protecting your privacy.</p>
+<p>Please note that we updated this privacy policy on May 4, 2005 to clarify that we share information with companies that assist us in providing services to our customers, and they may only use that information to assist us, not for their own purposes. <span class="txtPgBold">What has not changed is that we will not sell, rent, or trade your information to others without your consent</span>.</p>
+
+<p>We practice permission marketing. If you would like to remove yourself from receiving future messages please visit our <a href="/un.asp">opt out page</a>. In any event, ABF will never provide your e-mail address to third parties.</p>
+
+
+               </div><!--#end content -->
+               <br clear="all"><br><br><br>
+               <div id="addressblock" align="right">
+                  <a href="javascript:upWinXY('xWin','/bbbjump.asp',575,400,true);"><img src="/images/main/footer_bbblogo.gif" alt="BBBOnline Reliability Program" width="101" height="36" border="0" vspace="2"></a><br>
+                  <img src="/images/main/footer_divider.gif" alt="ABF U-Pack" width="414" height="5" border="0"><br>
+                  <a href="/"><img src="/images/main/footer_logo.gif" alt="ABF U-Pack Moving" width="93" height="21" border="0" align="right" hspace="8" vspace="3"></a>
+                  3801 Old Greenwood Road | Fort Smith, Arkansas 72903<br>
+                  <b style="color: #41468A;">Toll Free: <nobr>1-800-355-1696</nobr></b>
+               </div><!--end addressblock-->
+            </td>
+         </tr>
+      </tbody></table>
+
+      <div id="footerwrap">
+         <div id="footer">
+<a class="foot" href="/">Home</a>&nbsp;<span class="divider">|</span>&nbsp;<a class="foot" href="/about/privacy.asp">Privacy Policy</a>&nbsp;<span class="divider">|</span>&nbsp;<a class="foot" href="/about/liability.asp">Liability Statement</a>&nbsp;<span class="divider">|</span>&nbsp;<a class="foot" href="/press/">Press Room</a>&nbsp;<span class="divider">|</span>&nbsp;<a class="foot" href="/about/upack-contact.asp">Contact Us</a>&nbsp;<span class="divider">|</span>&nbsp;<a class="foot" href="/moving-resources/site-map.asp">Site Map</a><br><a class="foot" href="/about/about-upack.asp">About U-Pack</a>&nbsp;<span class="divider">|</span>&nbsp;<a class="foot" href="/moving-quotes/quote.asp">Price Quotes</a>&nbsp;<span class="divider">|</span>&nbsp;<a class="foot" href="https://www.upack.com/secure/reserve.asp">Reserve A Move</a>&nbsp;<span class="divider">|</span>&nbsp;<a class="foot" href="/moving-supplies/moving-boxes.asp">Moving Boxes &amp; Supplies</a>&nbsp;<span class="divider">|</span>&nbsp;<a class="foot" href="/moving-resources/moving-resources.asp">Resource Center</a>&nbsp;<span class="divider">|</span>&nbsp;<a class="foot" href="/about/moviendose.asp">Español</a>
+         </div><!--end footer-->
+      </div><!--#end footerwrap -->
+
+      <div id="copyright">
+         <!--Copyright &copy;2005 ABF U-Pack Moving. All rights reserved. -->
+         ABF®, ABF Freight System, Inc.®, U-Pack®, ABF U-Pack Moving®, and "You pack, we drive, you save®"<br>are all registered trademarks and the property of ABF Freight System, Inc., headquartered in Fort Smith, Arkansas. All rights reserved. Last Modified: 08/11/2005 5:35:29 PM
+      </div><!--end copyright-->
+   </div><!--#end wrap 2 -->
+<script language="javascript" type="text/javascript">
+if (TransMenu.isSupported()) {
+	var ms = new TransMenuSet(TransMenu.direction.down, 1, 0, TransMenu.reference.bottomLeft);
+
+	//==================================================================================================
+	// create a dropdown menu
+	//==================================================================================================
+	// the first parameter should be the HTML element which will act actuator for the menu
+	//==================================================================================================
+	var menu1 = ms.addMenu(document.getElementById("nav0"));
+menu1.addItem("Move on a Truck","/moving-services/truckmove.asp?nav=service");
+menu1.addItem("Move in a Container","/moving-services/moving-container.asp?nav=service");
+menu1.addItem("Moving Storage","/moving-services/moving-container.asp#storage?nav=service");
+menu1.addItem("US Coverage Map","/moving-resources/coverage/default.asp?nav=service");
+menu1.addItem("Corporate Relocation","/moving-services/corporate-relocation.asp?nav=service");
+
+
+	//==================================================================================================
+	var menu2 = ms.addMenu(document.getElementById("nav1"));
+menu2.addItem("Compare & Save","/about/compare-movers.asp?nav=whyupack");
+menu2.addItem("Who is ABF?","/about/about-abf.asp?nav=whyupack");
+menu2.addItem("Customer Comments","/about/customer-comments.asp?nav=whyupack");
+menu2.addItem("FAQs","/about/moving-faqs.asp?nav=whyupack");
+menu2.addItem("Contact Us","/about/upack-contact.asp?nav=whyupack");
+
+
+	//==================================================================================================
+	var menu3 = ms.addMenu(document.getElementById("nav2"));
+menu3.addItem("Get A Quote","/moving-quotes/quote.asp?nav=quote");
+menu3.addItem("View Quote","/moving-quotes/quoteview.asp?nav=quote");
+menu3.addItem("Change My Quote","/moving-quotes/resubmitquote.asp?nav=quote");
+menu3.addItem("Space Estimators","/moving-tools/space-estimators.asp?nav=quote");
+menu3.addItem("Will My Price Ever Change?","/moving-quotes/moving-price.asp?nav=quote");
+menu3.addItem("Forgot Quote Number?","/moving-quotes/quoteidretrieval.asp?nav=quote");
+
+
+	//==================================================================================================
+	
+	var menu4 = ms.addMenu(document.getElementById("nav3"));
+	menu4.addItem("Make A Reservation","https://www.upack.com/secure/reserve.asp?nav=reserve");
+menu4.addItem("U-Pack To-Do List","/moving-resources/movingtodolist.asp?nav=reserve");
+menu4.addItem("Track My Move","/moving-tools/trace.asp?nav=reserve");
+
+
+	//==================================================================================================
+	var menu5 = ms.addMenu(document.getElementById("nav4"));
+menu5.addItem("Order Moving Boxes","/moving-supplies/moving-boxes.asp?nav=box");
+menu5.addItem("Moving Packages","/moving-supplies/moving-boxes.asp?cat=PACKAGE&sid=051219305F4U?nav=box");
+menu5.addItem("Box Bundles","/moving-supplies/moving-boxes.asp?cat=BUNDLE&sid=051219305F4U?nav=box");
+menu5.addItem("Moving Boxes","/moving-supplies/moving-boxes.asp?cat=SINGLE&sid=051219305F4U?nav=box");
+menu5.addItem("Accessories","/moving-supplies/moving-boxes.asp?cat=ACCESSORIES&sid=051219305F4U?nav=box");
+
+
+   //==================================================================================================
+   var menu6 = ms.addMenu(document.getElementById("nav5"));
+menu6.addItem("my U-Pack","/myupack/?nav=resource");
+menu6.addItem("Before Your Move","/moving-resources/before-moving.asp?nav=resource");
+menu6.addItem("During Your Move","/moving-resources/during-move.asp?nav=resource");
+menu6.addItem("After Your Move","/moving-resources/after-move.asp?nav=resource");
+menu6.addItem("Loading Ramp","/ramp/default.asp?nav=resource");
+menu6.addItem("Installing a Bulkhead","/moving-equipment/bulkhead.asp?nav=resource");
+menu6.addItem("Forms and Documents","/moving-resources/moving-forms.asp?nav=resource");
+menu6.addItem("Request a Free DVD","/moving-resources/video.asp?nav=resource");
+menu6.addItem("Moving Related Links","/moving-resources/moving-links.asp?nav=resource");
+menu6.addItem("Site Map","/moving-resources/site-map.asp?nav=resource");
+
+	//==================================================================================================
+	// write drop downs into page
+	//==================================================================================================
+	// this method writes all the HTML for the menus into the page with document.write(). It must be
+	// called within the body of the HTML page.
+	//==================================================================================================
+	TransMenu.renderAll();
+}
+
+if (document.images) {
+	var navimg1 = new Array(7);
+	var navimg2 = new Array(7);
+	for (var i = 0; i < navimg1.length; i++) {
+      ic = (i < 9)? '0' + (i+1): ''+(i+1);
+		navimg1[i] = new Image();
+		navimg2[i] = new Image();
+		navimg1[i].src = '/images/main/nav_'+ic+'a.jpg'
+		navimg2[i].src = '/images/main/nav_'+ic+'b.jpg'
+	}
+}
+
+if (TransMenu.isSupported()) {
+   TransMenu.initialize();
+
+   menu1.onactivate = function() { Up(0); };
+   menu1.ondeactivate = function() { Down(0); };
+
+   menu2.onactivate = function() { Up(1); };
+   menu2.ondeactivate = function() { Down(1); };
+
+   menu3.onactivate = function() { Up(2); };
+   menu3.ondeactivate = function() { Down(2); };
+
+   
+   var intVal = 3
+   
+
+   menu4.onactivate = function() { Up(intVal); };
+   menu4.ondeactivate = function() { Down(intVal); };
+
+   menu5.onactivate = function() { Up(4); };
+   menu5.ondeactivate = function() { Down(4); };
+
+   menu6.onactivate = function() { Up(5); };
+   menu6.ondeactivate = function() { Down(5); };
+}
+</script><div id="TransMenu0" class="transMenu top" style="width: 144px; height: 106px; visibility: hidden;"><div class="content" style="width: 142px; height: 104px; top: -106px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="/images/menu/x.gif" width="1" height="1"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Move on a Truck</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Move in a Container</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Moving Storage</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">US Coverage Map</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Corporate Relocation</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="/images/menu/x.gif" width="1" height="1"></td></tr></tbody></table><div class="shadowBottom" style="top: 102px; width: 138px; background-color: rgb(57, 95, 134);"><img src="/images/menu/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 140px; height: 102px; background-color: rgb(57, 95, 134);"><img src="/images/menu/x.gif" width="1" height="1"></div><div class="background" style="width: 140px; height: 102px; background-color: white;"><img src="/images/menu/x.gif" width="1" height="1"></div></div></div><div id="TransMenu1" class="transMenu top" style="width: 142px; height: 106px; visibility: hidden;"><div class="content" style="width: 140px; height: 104px; top: -106px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="/images/menu/x.gif" width="1" height="1"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Compare &amp; Save</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Who is ABF?</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Customer Comments</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">FAQs</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Contact Us</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="/images/menu/x.gif" width="1" height="1"></td></tr></tbody></table><div class="shadowBottom" style="top: 102px; width: 136px; background-color: rgb(57, 95, 134);"><img src="/images/menu/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 138px; height: 102px; background-color: rgb(57, 95, 134);"><img src="/images/menu/x.gif" width="1" height="1"></div><div class="background" style="width: 138px; height: 102px; background-color: white;"><img src="/images/menu/x.gif" width="1" height="1"></div></div></div><div id="TransMenu2" class="transMenu top" style="width: 178px; height: 126px; visibility: hidden;"><div class="content" style="width: 176px; height: 124px; top: -126px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="/images/menu/x.gif" width="1" height="1"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Get A Quote</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">View Quote</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Change My Quote</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Space Estimators</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Will My Price Ever Change?</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Forgot Quote Number?</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="/images/menu/x.gif" width="1" height="1"></td></tr></tbody></table><div class="shadowBottom" style="top: 122px; width: 172px; background-color: rgb(57, 95, 134);"><img src="/images/menu/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 174px; height: 122px; background-color: rgb(57, 95, 134);"><img src="/images/menu/x.gif" width="1" height="1"></div><div class="background" style="width: 174px; height: 122px; background-color: white;"><img src="/images/menu/x.gif" width="1" height="1"></div></div></div><div id="TransMenu3" class="transMenu top" style="width: 139px; height: 66px; visibility: hidden;"><div class="content" style="width: 137px; height: 64px; top: -66px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="/images/menu/x.gif" width="1" height="1"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Make A Reservation</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">U-Pack To-Do List</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Track My Move</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="/images/menu/x.gif" width="1" height="1"></td></tr></tbody></table><div class="shadowBottom" style="top: 62px; width: 133px; background-color: rgb(57, 95, 134);"><img src="/images/menu/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 135px; height: 62px; background-color: rgb(57, 95, 134);"><img src="/images/menu/x.gif" width="1" height="1"></div><div class="background" style="width: 135px; height: 62px; background-color: white;"><img src="/images/menu/x.gif" width="1" height="1"></div></div></div><div id="TransMenu4" class="transMenu top" style="width: 141px; height: 106px; visibility: hidden;"><div class="content" style="width: 139px; height: 104px; top: -106px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="/images/menu/x.gif" width="1" height="1"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Order Moving Boxes</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Moving Packages</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Box Bundles</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Moving Boxes</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Accessories</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="/images/menu/x.gif" width="1" height="1"></td></tr></tbody></table><div class="shadowBottom" style="top: 102px; width: 135px; background-color: rgb(57, 95, 134);"><img src="/images/menu/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 137px; height: 102px; background-color: rgb(57, 95, 134);"><img src="/images/menu/x.gif" width="1" height="1"></div><div class="background" style="width: 137px; height: 102px; background-color: white;"><img src="/images/menu/x.gif" width="1" height="1"></div></div></div><div id="TransMenu5" class="transMenu top" style="width: 149px; height: 206px; visibility: hidden;"><div class="content" style="width: 147px; height: 204px; top: -206px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="/images/menu/x.gif" width="1" height="1"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">my U-Pack</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Before Your Move</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">During Your Move</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">After Your Move</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Loading Ramp</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Installing a Bulkhead</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Forms and Documents</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Request a Free DVD</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Moving Related Links</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr class="item"><td nowrap="" style="padding:3px; padding-left:4px;">Site Map</td><td width="14" style="padding:3px; padding-right:4px;"><img src="/images/menu/x.gif" width="14" height="14"></td></tr><tr><td colspan="2"><img src="/images/menu/x.gif" width="1" height="1"></td></tr></tbody></table><div class="shadowBottom" style="top: 202px; width: 143px; background-color: rgb(57, 95, 134);"><img src="/images/menu/x.gif" width="1" height="1"></div><div class="shadowRight" style="left: 145px; height: 202px; background-color: rgb(57, 95, 134);"><img src="/images/menu/x.gif" width="1" height="1"></div><div class="background" style="width: 145px; height: 202px; background-color: white;"><img src="/images/menu/x.gif" width="1" height="1"></div></div></div>
+</div><!--#end mainwrap -->
+
+<map name="nav2">
+	<area alt="Help" coords="0,0,25,18" href="/help/">
+	<area alt="Print" coords="35,0,65,18" href="javascript:PrintPage('');">
+	<area alt="FAQ" coords="80,0,100,18" href="/about/moving-faqs.asp">
+	<area alt="Email" coords="113,0,155,18" href="/about/upack-contact.asp">
+</map>
 
 
 
