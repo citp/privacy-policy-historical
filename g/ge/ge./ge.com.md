@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ge.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624010121id_/http%3A//www.ge.com/en/ge/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ge.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219105353id_/http%3A//www.ge.com/en/ge/privacy.htm) for the most accurate reproduction.*
 
 # General Electric : Privacy Policy
 
