@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpbbplanet.com privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310193910id_/http%3A//www.phpbbplanet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpbbplanet.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219134733id_/http%3A//www.phpbbplanet.com/privacy.html) for the most accurate reproduction.*
 
 # phpbbplanet.com * reliable phpbb hosting / webhosting with great network & dedicated server uptime
 
