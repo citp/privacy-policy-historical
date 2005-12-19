@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the americanstandard-us.com privacy policy that was archived on 2005-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050528090147id_/http%3A//www.americanstandard-us.com/legal.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americanstandard-us.com privacy policy that was archived on 2005-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219235039id_/http%3A//www.americanstandard-us.com/legal.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -447,8 +447,13 @@ function RTrimAll(str) {
 function TrimAll(str) {
 	return LTrimAll(RTrimAll(str));
 	}
-</script>
+	
+var isPageLoaded = false;
 
+
+	
+	
+</script>
 
 <!--#updatesessioninclude virtual="/includes/functions.asp"-->
 
@@ -468,7 +473,7 @@ function TrimAll(str) {
 				<option value="">by category</option>
 				<option value="1">---------------------</option>
 
-<option value="13">Kitchen Faucets</option><option value="5">Kitchen Sinks</option><option value="9">Kitchen Accessories</option><option value="11">Bathroom Faucets</option><option value="2">Bathroom Sinks</option><option value="7">Bathroom Accessories</option><option value="12">Bathroom Furniture</option><option value="3">Toilets</option><option value="1">Whirlpools</option><option value="8">Bathtubs</option><option value="6">Showers</option><option value="4">Bidets</option><option value="14">Commercial Faucets</option><option value="10">Urinals</option>
+<option value="13">Kitchen Faucets</option><option value="5">Kitchen Sinks</option><option value="9">Kitchen Accessories</option><option value="11">Bathroom Faucets</option><option value="2">Bathroom Sinks</option><option value="7">Bathroom Accessories</option><option value="12">Bathroom Furniture</option><option value="3">Toilets</option><option value="1">Whirlpools</option><option value="8">Bathtubs</option><option value="6">Showers</option><option value="4">Bidets</option><option value="10">Urinals</option><option value="14">Commercial Faucets</option><option value="16">Commercial Sinks</option><option value="17">Commercial Toilets</option>
 
 		</select></font>
 	</td>
@@ -941,8 +946,17 @@ amendments.<br><br><br><br>
             
             &nbsp;|&nbsp; <a href="http://www.americanstandard-us.com/wish.asp" class="darkClr">my wishlist</a> 
             &nbsp;|&nbsp; <a href="http://www.americanstandard-us.com/sitemap.asp" class="darkClr">sitemap</a> &nbsp;|&nbsp; 
-            <a href="http://www.americanstandard-us.com/buy/Lit.asp" class="darkClr">order literature</a> &nbsp;|&nbsp; 
-            <a href="http://www.americanstandard-us.com/buy/D_locator.asp" class="darkClr">store locator</a> &nbsp;&nbsp;&nbsp;</font></td>
+            <a href="http://www.americanstandard-us.com/buy/Lit.asp" class="darkClr">order literature</a>
+				 &nbsp;|&nbsp; 
+					<!--
+						as per Dan K. 10/13/05 adding this else to make users hit the store locator and not go
+						to the buy page, when users hit the store locator on these categories we will search
+						and not show any lowes stores that come from these categories.
+						whirlpools & all faucets (kitch, bath, comm)
+					-->
+					
+						<a href="http://www.americanstandard-us.com/buy/D_locator.asp" class="darkClr">store locator</a>
+					 &nbsp;&nbsp;&nbsp;</font></td>
         </tr>
       </tbody></table></td>
   </tr>
@@ -950,8 +964,9 @@ amendments.<br><br><br><br>
 
 <br><font face="Arial,Helvetica,sans-serif" size="1">
 © 2005 American Standard Companies<br><a target="_top" href="http://www.americanstandard-us.com/legal.asp" class="home"> 
-Privacy Policy<br></a></font><a target="_top" href="http://www.americanstandard-us.com/legal.asp" class="home">
+Privacy Policy </a></font><a target="_top" href="http://www.americanstandard-us.com/legal.asp" class="home">
 </a></div><a target="_top" href="http://www.americanstandard-us.com/legal.asp" class="home"><br>
+
 <div id="centerLayer" style="height: 12px; position: absolute; top: 98px; left: 463px; visibility: visible; width: 586px; z-index: 6;"> 
   
   <div id="subnav1" name="subnav1" style="position:absolute; width:586px; height:12px; z-index:7; visibility: hidden; left: 0; top: 0"> 
@@ -966,7 +981,9 @@ Privacy Policy<br></a></font><a target="_top" href="http://www.americanstandard-
     <table width="576" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr> 
         <td width="576" nowrap=""><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_p','','/images/b_p_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','show','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="61" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/planDesign/gettingStarted/" onmouseout="MM_swapImgRestore();
+MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_p','','/images/b_p_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','show','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="2" border="0"></a><a target="_top" href="/ksf" onmouseout="MM_swapImgRestore();
+MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_p','','/images/b_p_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','show','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_p_sinkselector.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
+MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_p','','/images/b_p_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','show','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_p_d1.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/planDesign/gettingStarted/" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_p','','/images/b_p_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','show','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_p_gettingstarted.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_p','','/images/b_p_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','show','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_p_d1.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/planDesign/projectEstimator/" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_p','','/images/b_p_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','show','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_p_projectEstimator.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
@@ -978,7 +995,7 @@ MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','s
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_p','','/images/b_p_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','show','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_p_colorandstyle.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_p','','/images/b_p_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','show','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_p_d5.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/planDesign/performance/" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_p','','/images/b_p_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','show','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_p_performance.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_p','','/images/b_p_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','show','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="23" border="0"></a></td>
+MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_p','','/images/b_p_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','show','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="16" border="0"></a></td>
       </tr>
     </tbody></table>
   </div>
@@ -987,7 +1004,9 @@ MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','s
     <table width="576" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr> 
         <td width="576" nowrap=""><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_w','','/images/b_w_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','show','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="88" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/buy/D_locator.asp" onmouseout="MM_swapImgRestore();
+		  	
+				MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_w','','/images/b_w_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','show','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="88" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/buy/D_locator.asp" onmouseout="MM_swapImgRestore();
+			
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_w','','/images/b_w_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','show','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_w_storelocator.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_w','','/images/b_w_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','show','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_w_d1.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/buy/onlineRetailers.asp" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_w','','/images/b_w_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','show','subnav4','','hide','subnav5','','hide','subnav6','','hide')"><img src="/images/b_w_onlineretailers.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
@@ -1033,8 +1052,8 @@ MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','s
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_prs_cn.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_c_d2.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/pressroom/newsroom.asp?p=overview" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_prs_co.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_c_d2.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/pressroom/newsroom.asp?p=flushfest" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_prs_flush.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
+MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><!--<img src="/images/b_c_d2.gif" alt="" border="0">--></a><!--<a target="_top" href="http://www.americanstandard-us.com/pressroom/newsroom.asp?p=flushfest" onMouseOut="MM_swapImgRestore();
+MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onMouseOver="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_prs_flush.gif" alt="" border="0"></a>--><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_c_d2.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/pressroom/newsroom.asp?p=facts" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_prs_fs.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><!--<img src="/images/b_c_d2.gif" alt="" border="0">--></a><!--<a target="_top" href="http://www.americanstandard-us.com/pressroom/newsroom.asp?p=team" onMouseOut="MM_swapImgRestore();
@@ -1045,7 +1064,7 @@ MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','s
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_prs_an.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_c_d2.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/images/" onmouseout="MM_swapImgRestore(); 
 MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/b_prs_il.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="23" border="0"></a></td>
+MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="93" border="0"></a></td>
       </tr>
     </tbody></table>
   </div>
@@ -1054,26 +1073,142 @@ MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','s
     <table width="576" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr> 
         <td width="576" nowrap=""><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/greydot.gif" height="15" width="80" border="0"></a><a target="_top" href="http://www.amstdmedia.com/" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_accessCenter.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_d1.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/trade/d_locator.asp" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_distributorLocator.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><!--<img src="/images/b_t_d2.gif" alt="" border="0">--></a><!--<a target="_top" href="http://www.americanstandard-us.com/pressroom/newsroom.asp"onMouseOut="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onMouseOver="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_newsroom.gif" alt="" border="0"></a>--><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_d2.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/trade/cadDrawings.asp" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_downloadCAD.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_d3.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/trade/orderLit.asp" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_literature.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_d4.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/trade/performance.asp" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_performance.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_d5.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/trade/tradeProdSearch.asp" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_search.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
-MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="5" border="0"></a></td>
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/greydot.gif" height="15" width="15" border="0"></a><a target="_new" href="http://www.amstdmedia.com/" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_accessCenter.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_d1.gif" alt="" border="0"></a><a target="_new" href="http://www.plumberprotects.com/" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/plumberProtects_btn.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_d1.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/trade/d_locator.asp" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_distributorLocator.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><!--<img src="/images/b_t_d2.gif" alt="" border="0">--></a><!--<a target="_top" href="http://www.americanstandard-us.com/pressroom/newsroom.asp"onMouseOut="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onMouseOver="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_newsroom.gif" alt="" border="0"></a>--><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_d2.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/trade/cadDrawings.asp" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/cad_btn.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_d3.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/trade/orderLit.asp" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_literature.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_d4.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/trade/performance.asp" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_performance.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_d5.gif" alt="" border="0"></a><a target="_top" href="http://www.americanstandard-us.com/trade/tradeProdSearch.asp" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_t','','/images/b_t_on.gif',1);MM_showHideLayers('subnav1','','show','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','show')"><img src="/images/b_t_search.gif" alt="" border="0"></a><a target="_top" href="javascript:void(0);" onmouseout="MM_swapImgRestore();
+			MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','hide','subnav6','','hide')" onmouseover="MM_swapImage('b_prs','','/images/b_prs_on.gif',1);MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','subnav4','','hide','subnav5','','show','subnav6','','hide')"><img src="/images/greydot.gif" height="15" width="5" border="0"></a></td>
       </tr>
     </tbody></table>
   </div>
   
 </div>
+
+<div id="surveyPrompt1" style="position:absolute; top:100px; left:-800px; width:724px; height:180px; z-index:5000; visibility:visible">
+	
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td>
+			</td></tr><tr>
+				<td valign="top"><img src="/images/surveyprompt/prompt1_title.gif" border="0"></td>
+				<td bgcolor="#7490A4" valign="top">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td><img src="/images/surveyprompt/blank.gif" border="0" width="1" height="7"></td>
+						</tr>
+						<tr>
+							<td bgcolor="#FFFFFF">
+								<table border="0" cellspacing="0" cellpadding="0">
+									
+									<tbody><tr>
+										<td><img src="/images/surveyprompt/prompt1_text.gif" border="0"></td>
+									</tr>
+									<tr>
+										<td><a href="/survey/newsite_survey.asp?source=consumer"><img src="/images/surveyprompt/consumer_button.gif" border="0"></a></td>
+									</tr>
+									<tr>
+										<td><img src="/images/surveyprompt/blank.gif" border="0" width="1" height="1"></td>
+									</tr>
+									<tr>
+										<td><a href="/survey/newsite_survey.asp?source=trade"><img src="/images/surveyprompt/trade_button.gif" border="0"></a></td>
+									</tr>
+									<tr>
+										<td><img src="/images/surveyprompt/blank.gif" border="0" width="1" height="5"></td>
+									</tr>
+									<tr>
+										<td>
+											<table border="0" cellspacing="0" cellpadding="0">
+												<tbody><tr>
+													<td><img src="/images/surveyprompt/blank.gif" border="0" width="256" height="1"></td>
+													<td><a href="javascript:hideObject('surveyPrompt1')"><img src="/images/surveyprompt/no_thanks.gif" border="0"></a></td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td><img src="/images/surveyprompt/blank.gif" border="0" width="1" height="7"></td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+						
+					</tbody></table>
+				</td>
+				<td bgcolor="#7490A4" valign="top"><img src="/images/surveyprompt/blank.gif" border="0" width="8" height="1"></td>
+			</tr>
+		
+	
+	
+</tbody></table>
+		
+	
+</div>
+
+
+<div id="surveyPrompt2" style="position:absolute; top:100px; left:-800px; width:724px;  z-index:5000; visibility:visible">
+	
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td>
+			</td></tr><tr>
+				<td valign="top"><img src="/images/surveyprompt/prompt2_title.gif" border="0"></td>
+				<td bgcolor="#7490A4" valign="top">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td><img src="/images/surveyprompt/blank.gif" border="0" width="1" height="7"></td>
+						</tr>
+						<tr>
+							<td bgcolor="#FFFFFF">
+								<table border="0" cellspacing="0" cellpadding="0">
+									
+									<tbody><tr>
+										<td><img src="/images/surveyprompt/prompt2_text.gif" border="0"></td>
+									</tr>
+									<tr>
+										<td><a href="/survey/newsite_survey.asp"><img src="/images/surveyprompt/yes.gif" border="0"></a></td>
+									</tr>
+									<tr>
+										<td><img src="/images/surveyprompt/blank.gif" border="0" width="1" height="11"></td>
+									</tr>
+									<tr>
+										<td><a href="javascript:hideObject('surveyPrompt2')"><img src="/images/surveyprompt/no.gif" border="0"></a></td>
+									</tr>
+									<tr>
+										<td><img src="/images/surveyprompt/blank.gif" border="0" width="1" height="11"></td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+						
+					</tbody></table>
+				</td>
+				<td bgcolor="#7490A4" valign="top"><img src="/images/surveyprompt/blank.gif" border="0" width="8" height="1"></td>
+			</tr>
+		
+	
+	
+</tbody></table>
+		
+	
+</div>
+
+
+
+
+
+
  
 <map name="MainMap">
   <area shape="rect" coords="8,6,50,19" href="http://www.americanstandard-us.com/register.asp">
@@ -1082,4 +1217,179 @@ MM_showHideLayers('subnav1','','hide','subnav2','','hide','subnav3','','hide','s
   <area shape="rect" coords="183,6,258,19" href="http://www.americanstandard-us.com/buy/Lit.asp">
   <area shape="rect" coords="266,6,331,19" href="http://www.americanstandard-us.com/buy/D_locator.asp">
 </map>
+
+
+
+
+<script language="JAVASCRIPT" type="text/javascript">
+
+<!--
+  
+var isNetscape4 = false;
+var isNetscape6 = false;
+
+if ((navigator.appName.indexOf("Netscape") >= 0) && (parseInt(navigator.appVersion.charAt(0)) == 4)) isNetscape4 = true;
+if ((navigator.appName.indexOf("Netscape") >= 0) && (parseInt(navigator.appVersion.charAt(0)) > 4)) isNetscape6 = true;
+
+if (document.layers) {	// Netscape 4
+    frm = ".forms[0]";
+    doc = "document[";
+    conDoc = "document";
+    sty = "]";
+	nosty = "]";
+    htm = ".document";
+} else if (document.getElementById) {	// NS 6 or IE 5 and up.
+    frm = ".forms[0]";
+    doc = "document.getElementById(";
+    conDoc = "document.getElementById(";
+    sty = ").style";
+	nosty = ")";
+    htm = ".document";
+} else if (document.all) {	// IE 4
+    frm = "";
+    doc = "document.all[";
+    conDoc = "document.all[";
+    sty = "].style";
+	nosty = "]";
+    htm = "";
+}
+
+function createCookie(name,value,days)
+{
+	if (days)
+	{
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name)
+{
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++)
+	{
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function eraseCookie(name)
+{
+	createCookie(name,"",-1);
+}
+
+
+
+function getAvailableWidth() {
+  var myWidth = 0, myHeight = 0;
+  if( typeof( window.innerWidth ) == 'number' ) {
+    //Non-IE
+    myWidth = window.innerWidth;
+    myHeight = window.innerHeight;
+  } else if( document.documentElement &&
+      ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+    //IE 6+ in 'standards compliant mode'
+    myWidth = document.documentElement.clientWidth;
+    myHeight = document.documentElement.clientHeight;
+  } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+    //IE 4 compatible
+    myWidth = document.body.clientWidth;
+    myHeight = document.body.clientHeight;
+  }
+  return myWidth;
+
+}
+
+
+function hideObject(strObjName) {
+	var objRegForm = eval(doc + "'" + strObjName + "'" + sty);
+	objRegForm.visibility = "hidden";
+}
+
+
+function easeInOutQuad(t, b, c, d) {
+		if ((t/=d/2) < 1) {
+			return c/2*t*t + b;
+		} else {
+			return -c/2 * ((--t) * (t-2) - 1) + b;
+		}
+}
+
+var time = 0;
+function slideObject(strObjName) {
+	
+		
+		var objRegForm = eval(doc + "'" + strObjName + "'" + sty);
+		var intScreenWidth = getAvailableWidth();
+		var intScreenHorizMid = intScreenWidth / 2;
+		var intObjWidth = objRegForm.width;
+		
+		intObjWidth = intObjWidth.substr(0,(intObjWidth.length - 2));
+		var intInitialX = (0 - intObjWidth);
+		var intFinalX = Math.round((intScreenHorizMid - (intObjWidth / 2)));
+		var intDistance = Math.abs(intInitialX) + intFinalX
+		
+		
+		
+		
+		var objLeft = parseInt(objRegForm.left);
+		var slideTimer = null;
+		
+		
+		if (objLeft >= intFinalX) {
+			
+			clearTimeout(slideTimer);
+			createCookie("seenPrompt", "yes", 500)
+			
+		} else {
+			
+			objRegForm.left = easeInOutQuad(time++, intInitialX, intDistance, 50);
+			
+			slideTimer = setTimeout("slideObject('" + strObjName + "')", 1);
+		}
+	
+	
+}
+
+
+
+
+//-->
+
+</script>
+		<script language="JavaScript">
+			function showSecondPrompt(intTimeSinceEntry) {
+				
+				var propmtTimer = null;
+				
+				if(intTimeSinceEntry > 210) {
+					clearTimeout(propmtTimer);
+					slideObject('surveyPrompt2');
+					
+					
+				} else {
+					propmtTimer = setTimeout("showSecondPrompt(" + (intTimeSinceEntry + 1) + ")", 1000);
+				}
+				
+			}
+				
+				
+			
+				
+								//showSecondPrompt(0);
+								
+			
+				
+			
+			
+		</script>
+
+
+
 </a></body></html>
