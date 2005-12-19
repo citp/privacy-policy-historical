@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305040406id_/http%3A//www.kontera.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219085305id_/http%3A//www.kontera.com/privacy.asp) for the most accurate reproduction.*
 
 # Kontera Technologies - Privacy Policy
 
@@ -66,7 +66,7 @@ We have taken careful measures to prevent the loss, misuse or alteration of any 
 
 **Reviewing, Updating and Deleting Your Information**
 
-If you provide any personally identifiable information to us through this Web Site, you will have the opportunity to review, update, or delete your information at any time (except, of course, with respect to information that we do not store). To exercise these choices, please email your request or instructions through our [contact us form](https://web.archive.org/web/20050305040406id_/http%3A//www.kontera.com/contact.asp). 
+If you provide any personally identifiable information to us through this Web Site, you will have the opportunity to review, update, or delete your information at any time (except, of course, with respect to information that we do not store). To exercise these choices, please email your request or instructions through our [contact us form](https://web.archive.org/web/20051219085305id_/http%3A//www.kontera.com/contact.asp). 
 
 **Protecting the Privacy of Children**   
 Children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses and phone numbers) over the Internet, to Kontera or to anyone else. Our Web Site is not directed to children under the age of 13 and Kontera will not knowingly collect personally-identifying information from anyone under the age of 13. If you are under 13, please don't provide any information about yourself while visiting this Web Site. 
