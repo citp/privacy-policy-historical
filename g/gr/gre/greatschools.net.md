@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatschools.net privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408025521id_/http%3A//www.greatschools.net/cgi-bin/static/privacy.inc/CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatschools.net privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219095949id_/http%3A//www.greatschools.net/cgi-bin/static/privacy.inc/CA) for the most accurate reproduction.*
 
 # California schools - CA elementary, middle and high school information
 
