@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nissanforums.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403110437id_/http%3A//www.gfos.net/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nissanforums.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219035727id_/http%3A//www.gfos.net/privacypolicy.htm) for the most accurate reproduction.*
 
 # GFoS Inc. User Agreement
 
