@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xaraya.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305160956id_/http%3A//www.xaraya.com/index.php/roles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaraya.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219133320id_/http%3A//xaraya.com/index.php/roles/privacy) for the most accurate reproduction.*
 
 # Xaraya :: Privacy Statement
 
@@ -22,7 +22,7 @@ Like many web sites, we set and use cookies to enhance your user experience, suc
 
 ### 4. Editing or Deleting Your Account Information
 
-We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](http://www.xaraya.com/index.php/roles/). You may request deletion of your user account by contacting [our webmaster](mailto:info@xaraya.com).
+We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](http://www.xaraya.com/index.php?module=roles). You may request deletion of your user account by contacting [our webmaster](mailto:info@xaraya.com).
 
 Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted.
 
