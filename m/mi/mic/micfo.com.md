@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the micfo.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405192253id_/http%3A//www.micfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micfo.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219114326id_/http%3A//www.micfo.com/micfo-webhosting-privacy-policy.html) for the most accurate reproduction.*
 
-# Web Hosting by Micfo.com
+# Privacy Policy - Micfo Web Hosting
 
 ******Privacy Policy**
 
