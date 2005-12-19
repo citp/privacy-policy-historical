@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareresults.com privacy policy that was archived on 2005-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050608023633id_/http%3A//www.shareresults.com/about_us_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareresults.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219160141id_/http%3A//shareresults.com/about_us_privacy.php) for the most accurate reproduction.*
 
 # Share Results Affiliate Network - Privacy Policy
 
