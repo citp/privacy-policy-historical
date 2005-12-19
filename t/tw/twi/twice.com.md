@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twice.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205210334id_/http%3A//www.twice.com/info/CA385448.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twice.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219223417id_/http%3A//www.twice.com/info/CA385448.html) for the most accurate reproduction.*
 
-# TWICE: This Week In Consumer Electronics
+# Privacy Policy on TWICE: This Week In Consumer Electronics
 
 **
 
@@ -77,7 +77,7 @@ _**
 
 We may use the information you provide us to send you e-mail, fax and other communications on behalf of RBI or other Reed Elsevier divisions. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other RBI and Reed Elsevier services. All of these communications will include instructions explaining how you can request that we not send you (' ** _opt out_** ' of) future communications of the same type.
 
-We also may use your information to send you e-mail, fax and other communications on behalf of unaffiliated third parties. When you register with and provide information to this Site you will be given an opportunity to opt out of our sending you offers on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Web Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](http://twice.com/privacymanager@reedbusiness.com) with the subject line **_'opt out - third party.'_**
+We also may use your information to send you e-mail, fax and other communications on behalf of unaffiliated third parties. When you register with and provide information to this Site you will be given an opportunity to opt out of our sending you offers on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Web Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](http://www.twice.com/privacymanager@reedbusiness.com) with the subject line **_'opt out - third party.'_**
 
 **
 
