@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the miamibeach411.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407175048id_/http%3A//www.miamibeach411.com/mb411/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamibeach411.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219061453id_/http%3A//www.miamibeach411.com/mb411/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-By using Miami Beach 411 (the Site), you are agreeing to the terms set forth in this Privacy Policy Statement. This Privacy Policy Statement applies only to this Site and the data collected on-line through this site. For other terms and conditions that apply to your use of the Site, please review our [Legal Statement](https://web.archive.org/web/20050407175048id_/http%3A//www.miamibeach411.com/mb411/copyright.html).
+By using Miami Beach 411 (the Site), you are agreeing to the terms set forth in this Privacy Policy Statement. This Privacy Policy Statement applies only to this Site and the data collected on-line through this site. For other terms and conditions that apply to your use of the Site, please review our [Legal Statement](https://web.archive.org/web/20051219061453id_/http%3A//www.miamibeach411.com/mb411/copyright.html).
 
 We communicate with site users by telephone and email. For customer support or to request offline contact information (phone, fax, and mailing address), use this email address: [support@miamibeach411.com](mailto:support@miamibech411.com)
 
