@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lincolnelectric.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525123005id_/http%3A//www.lincolnelectric.com/corporate/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincolnelectric.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219131649id_/http%3A//www.lincolnelectric.com/corporate/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement | Lincoln Electric
 
@@ -18,7 +18,7 @@
   
 
 
-The Lincoln® Electric Company has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.lincolnelectric.com. 
+The Lincoln Electric Company has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.lincolnelectric.com. 
 
 #### Personal Data
 
