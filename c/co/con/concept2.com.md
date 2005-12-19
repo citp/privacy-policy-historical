@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the concept2.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303173037id_/http%3A//www.concept2.com/resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concept2.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219132029id_/http%3A//www.concept2.com/05/reference/privacy.asp) for the most accurate reproduction.*
 
-# Concept2 - Rowing Machines, Oars, Strength Training, Indoor Rower, Dreissigacker Oars, DYNO.
+# Concept2 Online Privacy Policy
 
 This is the web site of Concept2, Inc. 
 
@@ -12,7 +12,7 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations. 
 
-The information we collect is used to improve the content of our Web page and not shared with other organizations for commercial purposes. 
+The information we collect is used to improve the content of our Web site and not shared with other organizations for commercial purposes. 
 
 Concept2 uses WebSideStory HBX service to provide aggregate user information to determine the popularity and usage patterns of our webpages. In order to gather this aggregate information a WebSideStory cookie is set during each visit to any Concept2 online property. For more information on WebSideStory and their privacy policy please visit   <http://www.websidestory.com/privacy>. 
 
