@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615195724id_/http%3A//www.mynrma.com.au/member_centre_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219143637id_/http%3A//www.mynrma.com.au/member_centre_privacy.asp) for the most accurate reproduction.*
 
-# MyNRMA - Privacy - About Us - MyNRMA
+# Privacy - About Us - MyNRMA - About Us - MyNRMA
 
 This statement is effective from 1 January 2004
 
-  * [Click here for Q & A's relating to use of our website.](https://web.archive.org/web/20050615195724id_/http%3A//www.mynrma.com.au/member_centre_privacy.asp#qa)
+  * [Click here for Q & A's relating to use of our website.](https://web.archive.org/web/20051219143637id_/http%3A//www.mynrma.com.au/member_centre_privacy.asp#qa)
 
 
 
@@ -16,7 +16,8 @@ We view privacy as a serious matter and we strictly adhere to the National Priva
 
 This Privacy Policy Statement sets out our policies on how we manage personal information across our business and includes NRMA Open Road Pty Ltd ABN 91 000 026 844, publisher of The Open Road magazine and NRMA Travel Pty Limited ABN 48 001 233 567. 
 
-This website shares a home page with Insurance Australia Limited ABN 11 000 016 722 and related entities, which is separate and independent organization. This online Privacy Statement is not issued by Insurance Australia Limited and does not relate to any website or web pages operated or managed by them.
+This website shares a home page with Insurance Australia Limited ABN 11 000 016 722 and related entities, which is separate and independent organization. This online Privacy Statement is not issued by Insurance Australia Limited and does not relate to any website or web pages operated or managed by them.  
+ 
 
 ## Type of personal information we collect
 
@@ -28,8 +29,8 @@ We also collect general information for statistical and maintenance purposes tha
 
 This information includes:
 
-  * the number of users visiting this website and the number of pages viewed; 
-  * the date, time and duration of visits; and 
+  * the number of users visiting this website and the number of pages viewed; 
+  * the date, time and duration of visits; and 
   * the path taken through this website.
 
 
@@ -48,9 +49,9 @@ We may collect and update that information over the phone, at roadside, over the
 
 We may also collect personal information through third parties such as:
 
-  * NRMA Insurance Limited which staff the NRMA offices, some call centres and manage some of the NRMA Country Service Centres; 
-  * affiliated interstate motorists' clubs to provide roadside assistance; and 
-  * car dealers and manufacturers who provide membership packages in the sale of vehicles. 
+  * NRMA Insurance Limited which staff the NRMA offices, some call centres and manage some of the NRMA Country Service Centres; 
+  * affiliated interstate motorists' clubs to provide roadside assistance; and 
+  * car dealers and manufacturers who provide membership packages in the sale of vehicles. 
 
 
 
@@ -80,19 +81,20 @@ To better protect your privacy, we impose strict requirements of security and co
 
 We will take reasonable steps to make sure that the personal information we collect, use or disclose is accurate, complete and up to date. If your personal details change, such as your address or phone number, please contact us on 132 132 to update your details so we can still provide you with our services.
 
-[Following a request (PDF 419KB/1 page)](https://web.archive.org/web/20050615195724id_/http%3A//www.mynrma.com.au/files/1/personal_information_request.pdf), we will provide you with a copy of any personal information which we hold about you in accordance with our obligations under the Privacy Act. We may charge a fee for retrieving this information, in which case we will inform you of the fee in advance of providing the information.
+Following a request (PDF 419KB/1 page), we will provide you with a copy of any personal information which we hold about you in accordance with our obligations under the Privacy Act. We may charge a fee for retrieving this information, in which case we will inform you of the fee in advance of providing the information.
 
-We undertake to promptly acknowledge and investigate any complaint about the way we manage personal information.
+We undertake to promptly acknowledge and investigate any complaint about the way we manage personal information.  
+ 
 
-## Other Third Parties
+## Other Third Parties and our Website
 
-We use RedSheriff, an independent market research company, to gather general information from code embedded in the web pages of this website. This information is not capable of identifying you. Types of information include your IP address, what pages you have viewed, time of your view and your location previous to accessing the website. We use this information for statistical and maintenance purposes. You can obtain a copy of RedSheriff's Privacy Policy by visiting their website at [www.redsheriff.com.au](http://www.redsheriff.com.au/).
+We use RedSheriff, an independent market research company, to gather general information from code embedded in the web pages of this website. This information is not capable of identifying you. Types of information include your IP address, what pages you have viewed, time of your view and your location previous to accessing the website. We use this information for statistical and maintenance purposes. You can obtain a copy of RedSheriff's Privacy Policy by visiting their website. 
 
 We also use external companies for the following reasons:
 
-  * for web hosting services for this website 
-  * for maintenance or problem solving; and 
-  * to gather non-personal information from cookies in order to evaluate the effectiveness of online marketing activities. 
+  * for web hosting services for this website 
+  * for maintenance or problem solving; and 
+  * to gather non-personal information from cookies in order to evaluate the effectiveness of online marketing activities. 
 
 
 
@@ -106,13 +108,13 @@ If you have any questions about this policy or if you wish to update information
 
 The Privacy Officer National Roads and Motorists' Association Limited 388 George Street SYDNEY NSW 2000
 
-You can also telephone us on 132 132, visit an NRMA office or email our Privacy Officer NRMA Insurance Limited and its related entities are separate and unrelated to National Roads and Motorists' Association Limited
+You can also telephone us on **132 132** , visit an NRMA office or email our Privacy Officer. NRMA Insurance Limited and its related entities are separate and unrelated to National Roads and Motorists' Association Limited
 
-## Q&A's about Privacy and Security on our website
+#### Q&A's about Privacy and Security on our website
 
 The following information applies to the NRMA Motoring & Services website operated on behalf of National Roads and Motorists' Association Limited.
 
-Protecting the information of members and other users of our website is important to us. Any information collected is held in strictest confidence.
+Protecting the information of Members and other users of our website is important to us. Any information collected is held in strictest confidence.
 
 **What information is collected on the website? Can I use the website anonymously?**
 
@@ -122,7 +124,7 @@ If you apply for membership, request a product or service or submit your credit 
 
 **How will you use any information which I submit?**
 
-We will use your information for the purposes that you have provided it or in any way that you give us permission to. If you apply online for membership, we use the information to process your application and service your membership once it is established. See our Privacy Policy Statement for further details.
+We will use your information for the purposes for which we have collected it, or in any other ways described in our Privacy Policy Statement. If you apply online for membership, we use the information to process your application and service your membership once it is established. 
 
 **If I make a mistake can I correct it? What if I don't proceed to submit the information?**
 
@@ -146,7 +148,7 @@ Once we receive your information, we make all efforts to protect the data held i
 
 **Do you use any tracking devices?**
 
-Whenever a page is accessed over the internet, this website records the time, date and URL (Uniform Resource Locater -global address on the internet) of the request. This information cannot uniquely identify a user. It allows us to improve our service to you and to other customers as a whole.
+Whenever a page is accessed over the internet, our website records the time, date and URL (Uniform Resource Locater -global address on the internet) of the request. This information cannot uniquely identify a user. It allows us to improve our service to you and to other customers as a whole.
 
 **What are cookies and do you use them?**
 
@@ -155,16 +157,11 @@ A cookie is a small text file placed on your computer hard drive by a web page s
 We use cookies to:
 
   * determine if you have previously visited the NRMA Motoring & Services website; 
-  * identify what pages from our website that you have accessed; and 
-  * store your TravelWiz Backpack information. 
+  * identify what pages from our website that you have accessed. 
 
 
 
 Most web browsers are set to accept cookies but if you are not comfortable accepting cookies you can use your browser to disable them. If your browser is set to reject cookies you may not be able to make full use of our web site or access services on the site that require cookies in order for you to participate.
-
-If you clear your cookies or do not access your Backpack for 12 months, your Backpack information will no longer be available.
-
-Your Backpack information is not kept or accessed by NRMA.
 
 **When I connect to another web site from your web site does this privacy and security statement still apply?**
 
@@ -176,7 +173,7 @@ This privacy and security statement sets out our current website privacy and sec
 
 If you have any other questions about this website's privacy and security, please contact our [Privacy Officer](mailto:privacy_officer@mynrma.com.au)
 
-You can obtain information on privacy issues in Australia by visiting the Australian Federal Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/)
+You can obtain information on privacy issues in Australia by visiting the Australian Federal Privacy Commissioner's website. 
 
   
 
