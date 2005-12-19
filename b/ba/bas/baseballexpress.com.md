@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseballexpress.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303170947id_/http%3A//www.baseballexp.com/baseball/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballexpress.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219161038id_/http%3A//www.baseballexp.com/baseball/privacy.do) for the most accurate reproduction.*
 
 # Baseball Express - Privacy Policy
 
@@ -28,7 +28,7 @@ Baseball Express may amend this policy from time to time. If we make any substan
 
 **What you can do**
 
-If you feel that this site is not following its stated privacy policy please [contact us](https://web.archive.org/web/20050303170947id_/http%3A//www.baseballexp.com/baseball/contact.do) immediately. You may also contact The Direct Marketing Association's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:goldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [www.ftc.gov](https://rn.ftc.gov/dod/wsolcq$.startup?Z_ORG_CODE=PU01)
+If you feel that this site is not following its stated privacy policy please [contact us](https://web.archive.org/web/20051219161038id_/http%3A//www.baseballexp.com/baseball/contact.do) immediately. You may also contact The Direct Marketing Association's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:goldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [www.ftc.gov](https://rn.ftc.gov/dod/wsolcq$.startup?Z_ORG_CODE=PU01)
 
 **Also see...**
 
