@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcentv.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403172757id_/http%3A//www.kcentv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcentv.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219211403id_/http%3A//www.kcentv.com/privacy.html) for the most accurate reproduction.*
 
 # KCEN-TV...NBC 6 - Privacy Policy
 
@@ -25,8 +25,6 @@ For the same purposes, we use "cookies"---that is, small text files placed on yo
 Essentially, cookies are your identification cards for our computers, or servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow us to serve you better and more efficiently, and to personalize your experience at the Web site. Nevertheless, you are able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser.
 
 (2) **Personally identifiable information:** In certain areas of the Web site, such as online surveys and contests, the Web site may require that you provide personally identifiable information (including, for example, zip code, age, income, and e-mail address, and when applicable, credit card information). KCEN-TV has access to this information. In addition, when registering for contests or other promotions, we do require that you provide a valid e-mail address.
-
-We do not knowingly collect personally identifiable information from children (defined herein as minors younger than 13 years of age) without obtaining parental consent.
 
 ** How we use (and do not use) the information we gather**
 
