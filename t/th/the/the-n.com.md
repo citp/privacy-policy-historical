@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-n.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624085748id_/http%3A//www.the-n.com/footerPage.php%3Fid%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-n.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219140936id_/http%3A//www.the-n.com/footerPage.php%3Fid%3D53) for the most accurate reproduction.*
 
 # The N: Privacy Policy/Your California Privacy Rights
 
