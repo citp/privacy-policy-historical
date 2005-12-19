@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hazelden.org privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233505id_/http%3A//www.hazelden.org/servlet/hazelden/cms/ptt/hazl_7030_shade.html%3Fsh%3Dt%26sf%3Dt%26page_id%3D26006) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hazelden.org privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219231116id_/http%3A//hazelden.org/servlet/hazelden/cms/ptt/hazl_7030_shade.html%3Fsh%3Dt%26sf%3Dt%26page_id%3D26006) for the most accurate reproduction.*
 
 # Hazelden - Hazelden's Privacy Policy
 
@@ -21,6 +21,9 @@ Assuring security and confidentiality are hallmarks of the Hazelden Foundation.
   * offer more information on popular topics
 
 
+
+**Web site security  
+**To guard your information, our Web site uses Secure Sockets Layer (SSL).  SSl encrypts your credit card number, name and address so only Hazelden is able to decode your information.  Please note that email is not encrypted and is not considered to be a secure means of transmitting credit card information.
 
 **Cookies  
 **Some sections of our site (such as our online bookstore) use "cookies" in order to offer more personalized service. Cookies are a feature of your browser that store small amounts of data on your computer about your visit to a site. This helps our site to "remember" you and provide more personalized service the next time you visit. It is an automated process. Hazelden does not monitor or collect any data from cookies.
