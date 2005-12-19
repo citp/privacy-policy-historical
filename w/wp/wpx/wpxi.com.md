@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2005-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050217100036id_/http%3A//www.wpxi.com/station/1910347/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219060845id_/http%3A//www.wpxi.com/station/1910347/detail.html) for the most accurate reproduction.*
 
 # WPXI.com - WPXI-TV - PRIVACY POLICY
 
