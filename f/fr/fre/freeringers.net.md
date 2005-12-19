@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeringers.net privacy policy that was archived on 2005-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050603024717id_/http%3A//www.freeringers.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeringers.net privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219102711id_/http%3A//www.freeringers.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice > FreeRingers.net
 
