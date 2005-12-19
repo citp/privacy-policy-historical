@@ -1,7 +1,28 @@
-> *The following text is extracted and transformed from the rolanddga.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306054305id_/http%3A//www.rolanddga.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolanddga.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219220619id_/http%3A//www.rolanddga.com/privacy.asp) for the most accurate reproduction.*
 
 # Roland DGA Corporation - Privacy Statement
 
+|  |  | [Color Products](https://web.archive.org/products/)  
+---  
+[Printers](https://web.archive.org/products/printers/)  
+[Printer/Cutters](https://web.archive.org/products/printcut/)  
+[Sublimation](https://web.archive.org/products/hw/)  
+[Software](https://web.archive.org/products/software/)  
+[Supplies Accessories](https://web.archive.org/products/accessories/)  
+[ASD Products](https://web.archive.org/asd/products/)  
+[Scanning Machines](https://web.archive.org/products/3D/scanners/)  
+[Milling Machines](https://web.archive.org/products/3D/modelers/)  
+[Engraving Machines](https://web.archive.org/products/engravers/)  
+[Cutters](https://web.archive.org/products/cutters/)  
+[Impact Printers](https://web.archive.org/products/3D/impact/)  
+[Jewelry](https://web.archive.org/promo/jewelry/)  
+resources  
+[Roland ASD](https://web.archive.org/asd/)  
+[Find a Dealer](https://web.archive.org/dealers/)  
+[User Forums](https://web.archive.org/boards/)  
+[R-Mail](https://web.archive.org/rmail/)  
+[Sitemap](https://web.archive.org/sitemap/)  
+search  
   
 Roland DGA Corporation recognizes the importance of protecting the privacy of all information provided by users of www.rolanddga.com. We created the following policy guidelines with a fundamental respect for our users´ right to privacy and because we value our relationships with our users. 
 
@@ -31,3 +52,5 @@ Roland DGA Corporation
 Attn: Web Privacy Questions  
 15363 Barranca Parkway  
 Irvine, California 92618 
+
+|  
