@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403165742id_/http%3A//www.inin.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219131851id_/http%3A//www.inin.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Interactive Intelligence - Powering the World of Business Interaction
 
@@ -41,3 +41,6 @@ Thank you, and best regards,
 Don Brown  
 CEO & Founder  
 Interactive Intelligence, Inc.
+
+  
+
