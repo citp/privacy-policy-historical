@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogreece.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405212054id_/http%3A//gogreece.com/gogreece/Privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogreece.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219123349id_/http%3A//www.gogreece.com/gogreece/Privacy_policy.htm) for the most accurate reproduction.*
 
 # goGREECE.com - The Internet Guide to Greece : Our news
 
