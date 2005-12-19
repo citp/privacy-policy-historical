@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surehits.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207204950id_/http%3A//www.surehits.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surehits.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219061408id_/http%3A//www.surehits.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Surehits.com - Privacy Policy
+# SureHits - Privacy Policy
 
 Cyberspace Communication Corp. Privacy Policy  
 Internet consumer privacy is of paramount importance to Cyberspace Communications, and our advertisers. The following statement outlines Cyberspace Communications' policies and principles regarding online privacy. Cyberspace Communication Corp. is committed to protecting the privacy of consumers and to do our part to maintain the integrity and security of the Internet.   
