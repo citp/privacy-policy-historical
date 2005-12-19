@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbfsms.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403201138id_/http%3A//www.cbfmail.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbfsms.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219155524id_/http%3A//www.cbfmail.com/privacy.htm) for the most accurate reproduction.*
 
 # CBFMail.com
 
@@ -9,6 +9,7 @@ In this privacy statement, CardBoardFish has disclosed how it uses and treats al
 www.cbfsms.com (CBFSMS)  
 www.cbfmail.com (CBFMail)  
 www.cbfserver.com (CBFServer)  
+www.cbfmobile.com (CBFMobile)  
 www.free-ringtones-free-logos.com (FRFL)**
 
 You can find contact information for CardBoardFish at the end of this document. Please use it if you are unsure about any of the items contained herein, we will be more than happy to help resolve your query. CardBoardFish is registered with and complies with the Data Protection Act of 1998. 
@@ -25,7 +26,7 @@ In order to use areas of these Web sites, a user must first complete a registrat
 
 _Order/Payment_
 
-We request information from the user on our order/payment forms. A user must provide contact information (such as name, email, and home address) and financial information (such as credit card number, expiration date). This information is used for billing purposes. If we have trouble processing an order, the information is used to contact the user. You will be notified if you are agreeing to make a regular payment before you proceed with it – to terminate a regular payment or dispute a payment email support@cbfmail.com or write to Payments Department, CardBoardFish, PO Box 9835, Solihull, B91 1XF, United Kingdom. You will be billed by either CardBoardFish or the appropriate third party – you will be notified of who will take the payment when it is made. 
+We request information from the user on our order/payment forms. A user must provide contact information (such as name, email, and home address) and financial information (such as credit card number, expiration date). This information is used for billing purposes. If we have trouble processing an order, the information is used to contact the user. You will be notified if you are agreeing to make a regular payment before you proceed with it – to terminate a regular payment or dispute a payment email support@cbfmail.com or write to Payments Department, CardBoardFish, PO Box 197, Whitstable, CT5 3YB, United Kingdom. You will be billed by either CardBoardFish or the appropriate third party – you will be notified of who will take the payment when it is made. 
 
 _Information Use_
 
@@ -43,7 +44,7 @@ Some of our business partners use cookies on our site (for example, advertisers)
 
 _Third Party Advertising_
 
-The ads appearing on this Web site are delivered to users by several globally recognised companies, our Web advertising partners. Information about a users visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. You can email support@cbfmail.com, or write to Advertising Department, CardBoardFish, PO Box 9835, Solihull, B91 1XF, United Kingdom, for more information. 
+The ads appearing on this Web site are delivered to users by several globally recognised companies, our Web advertising partners. Information about a users visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. You can email support@cbfmail.com, or write to Advertising Department, CardBoardFish, PO Box 197, Whitstable, CT5 3YB, United Kingdom, for more information. 
 
 This privacy statement covers the use of cookies by CardBoardFish, CBFMail, CBFSMS, and CBFServer only and does not cover the use of cookies by any advertisers. 
 
@@ -171,7 +172,7 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 support@cbfmail.com 
 
-CardBoardFish, PO Box 9835, Solihull, B91 1XF, United Kingdom.
+CardBoardFish, PO Box 197, Whitstable, CT5 3YB, United Kingdom.
 
 [http://www.cardboardfish.com/contact.htm ](http://www.cardboardfish.com/contact.htm)
 
