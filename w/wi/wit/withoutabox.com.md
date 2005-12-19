@@ -1,25 +1,26 @@
-> *The following text is extracted and transformed from the withoutabox.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206083320id_/http%3A//www.withoutabox.com/05home/privacy/05_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the withoutabox.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219222623id_/http%3A//www.withoutabox.com/05home/privacy/05_privacy.php) for the most accurate reproduction.*
 
-# The International Film Festival Submission Service (BrigitFest)
+# Withoutabox: Privacy Policy
 
-**PRIVACY POLICY** _Updated January 19, 2005  
-_
+## PRIVACY POLICY
+
+_for Withoutabox and BrigitFest: The International Film Festival Submission System_
 
 At Without A Box, we value our customers' privacy as we would our own. This privacy policy was developed to provide you with assurance that we won’t use your data in ways that we would object to other web sites using our information. The bottom line is that the information you provide to us is respected and protected.
 
 Our privacy policy covers three separate categories: The privacy of Filmmakers/Festival Submitters as it relates to their film information and their personal information; The privacy of Festivals, as it relates to their internal processes and their Administrators and Staffs; General privacy and security practices covering all interactions at Withoutabox, including and beyond the scope of the festival submission process.
 
-**CATEGORY 1** : Filmmakers and Film Submitters
+### CATEGORY 1: Filmmakers and Film Submitters
 
 By applying to a festival, you give that festival permission to view all of the information you have provided to us on the master entry form. You also give that festival permission to share your information with whomever that festival would normally share film submission information. Without A Box does not control how a festival uses or discloses the information you authorize us to provide to it. If you are concerned, you should check with the festival to determine how it intends to use your information.
 
 We do not disclose the list of festivals to which you apply to anyone but you. We keep this information confidential whether your film is accepted or rejected. Thus, nobody will know which festivals your films were submitted to unless one of the following occurs: You tell them;The festival makes its selections public, (which public information may also become available on our site). Most festivals only make acceptances public, and do not post rejections.
 
-**CATEGORY 2** : Festivals, their Administrators and Staffs
+### CATEGORY 2: Festivals, their Administrators and Staffs
 
 We do not use or disclose the lists of filmmakers who applied to your festival or have been accepted or rejected by your festival unless you make those lists public. No one except those authorized by your festival "back office administrator" will have access to your Without A Box account and the information stored there.
 
-**CATEGORY 3** : General Use and Security
+### CATEGORY 3: General Use and Security
 
 From time to time, we may offer you additional services or opportunities, which may require the transfer of all or some of your information to other areas of our site, associated sites, or other published media. We will present matters concerning your privacy and the integrity of your data openly and in their appropriate contexts in advance of usage. You will always have the opportunity to "opt-out" of additional services or opportunities, or to close your account with us if you feel we are not acting in the furtherance of your own goals.
 
@@ -39,11 +40,10 @@ Personal information collected by Without A Box is stored and maintained in secu
 
 If your computer is available to others, you should remember to logout and close your browser window when you have finished your work to ensure that others cannot access your personal information.
 
-We recognize our responsibility to protect the privacy of your personal information. If you have questions or comments about the administration of your personal information, please contact us at privacy@withoutabox.com. You may also use this address to communicate any concerns you may have regarding compliance with our Privacy Policy.
+We recognize our responsibility to protect the privacy of your personal information. If you have questions or comments about the administration of your personal information, please contact us at [privacy@withoutabox.com](mailto:privacy@withoutabox.com). You may also use this address to communicate any concerns you may have regarding compliance with our Privacy Policy.
 
-We reserve the right to change our Privacy Policy to adapt to our changing business, technological innovations, and the needs and expectations of our users. If we change our Policy, these changes will be posted here so that you will always know what information we gather, how we might use that information, and whether we disclose it to anyone. If we make any material change concerning how your personal information is used or disclosed, then, in addition to including such revision in this Privacy Policy, we will post a notice on the Without A Box site that such changes to the Privacy Policy  
-are going into effect and send you an e-mail notification. If you are dissatisfied with any changes in our Policy, you will have a reasonable opportunity to object or to close your account with us. You are expected to review this Agreement periodically to ensure familiarity with the most current version.
+We reserve the right to change our Privacy Policy to adapt to our changing business, technological innovations, and the needs and expectations of our users. If we change our Policy, these changes will be posted here so that you will always know what information we gather, how we might use that information, and whether we disclose it to anyone. If we make any material change concerning how your personal information is used or disclosed, then, in addition to including such revision in this Privacy Policy, we will post a notice on the Without A Box site that such changes to the Privacy Policy are going into effect and send you an e-mail notification. If you are dissatisfied with any changes in our Policy, you will have a reasonable opportunity to object or to close your account with us. You are expected to review this Agreement periodically to ensure familiarity with the most current version.
 
-If you are interested in exploring privacy issues on the Internet further please see: Electronic Privacy Information Center - focuses attention on emerging civil liberties issues.
+If you are interested in exploring privacy issues on the Internet further please see: [Electronic Privacy Information Center](http://www.epic.org/) \- focuses attention on emerging civil liberties issues.
 
 Without A Box, Inc. is a privately owned company located in Los Angeles, California.
