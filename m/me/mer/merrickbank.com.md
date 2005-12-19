@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merrickbank.com privacy policy that was archived on 2004-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041024014746id_/http%3A//www.merrickbank.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrickbank.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219131922id_/http%3A//merrickbank.com/privacy_n.aspx) for the most accurate reproduction.*
 
 # Merrick Bank
 
@@ -51,7 +51,7 @@ In connection with the uses described above, we may, depending on the nature of 
 
 Merrick Bank affiliates provide a number of crucial services to Merrick Bank in connection with the servicing and maintenance of our customers’ accounts. Merrick Bank may share your Personal Information with affiliated third parties solely so that such affiliates can provide those services. Our affiliates are required to make contractual commitments to us to maintain the confidentiality of our customers’ Personal Information.
 
-We are permitted under law to share Personal Information relating to our experiences or transactions with you or your account (such as your account balance and your payment history with us) with our affiliates. We also may share additional information about your account (such as information we receive from you in applications and information from credit reporting agencies) with our affiliates. You may direct us not to disclose to our affiliates information that does not relate solely to our or our affiliates’ experiences or transactions with you (and your co-account holder or authorized user) or your account by completing the online [Opt Out Form](https://web.archive.org/web/20041024014746id_/http%3A//www.merrickbank.com/opt_out.aspx).
+We are permitted under law to share Personal Information relating to our experiences or transactions with you or your account (such as your account balance and your payment history with us) with our affiliates. We also may share additional information about your account (such as information we receive from you in applications and information from credit reporting agencies) with our affiliates. You may direct us not to disclose to our affiliates information that does not relate solely to our or our affiliates’ experiences or transactions with you (and your co-account holder or authorized user) or your account by completing the online Opt Out Form once an account is established.
 
 **What Personal Information do we share externally with nonaffiliated third parties and why do we share it?**
 
@@ -96,7 +96,7 @@ Merrick Bank is responsible for ensuring that your questions are handled in acco
 
 If you have any questions regarding this Pledge of our privacy-related practices, please contact us by e-mail at [privacyofficer@merrickbank.com](mailto:privacyofficer@merrickbank.com) or you can write to us at: Merrick Bank, Attn: Privacy Officer, P.O. Box 5000, Draper, UT 84020-5000. You may also call the Customer Service number at (800) 253-2322.
 
-**For information on Merrick Bank, please visit our Web site at[www.merrickbank.com](https://web.archive.org/web/20041024014746id_/http%3A//www.merrickbank.com/default.aspx).**
+**For information on Merrick Bank, please visit our Web site at[www.merrickbank.com](https://web.archive.org/web/20051219131922id_/http%3A//merrickbank.com/default.aspx).**
 
 **Special Notice for Vermont Residents**
 
