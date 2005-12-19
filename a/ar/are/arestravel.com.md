@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arestravel.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528163257id_/http%3A//shop.arestravel.com/77/-/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arestravel.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219020413id_/http%3A//shop.arestravel.com/77/-/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - ARESTravel.com - Web
 
 Your privacy is very important to Advanced Reservation Systems, Inc., ("ARES", "us" or "we"). We have created this Privacy Policy for use in connection with www.arestravel.com and www.aresdirect.com (collectively, the "Services"), to demonstrate our commitment to privacy and security. This Privacy Policy describes how ARES collects and uses information. Please read this Privacy Policy carefully, as it will be modified from time to time.
 
