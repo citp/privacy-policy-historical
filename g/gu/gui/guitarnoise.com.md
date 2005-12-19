@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206221259id_/http%3A//www.guitarnoise.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219233115id_/http%3A//guitarnoise.com/privacy.php) for the most accurate reproduction.*
 
-# Guitar Noise : Site Map
+# Guitar Noise : Privacy Statement
 
 Guitar Noise is committed to protecting your privacy. This "Privacy Statement" informs you about all the particulars regarding personal data in relation with [www.guitarnoise.com](http://www.guitarnoise.com/)
+
+**Newsletter and No Spam Guarantee**  
+When signing up for our newsletter you agree that Guitar Noise will use your email address to contact you three times a month with updates, news and announcements, exclusive guitar lessons and special offers. At most special offers will be sent _once a month_. These emails only contain offers that we believe are helpful to your guitar playing. No software downloads or useless spam. These offers are carefully chosen by us and sent by us. We still never share your email address with anyone. Ever!
+
+_You can easily unsubscribe from our newsletter at any time!_ We are not interested in keeping subscribers who are not benefiting from the information we provide. Every email we send includes simple instructions on how to unsubscribe. It's as easy as sending a single email or a single click. You will only receive Guitar Noise newsletters and special offers as scheduled, nothing else. _We won't share your email address!_
 
 **Collection of your personal data**  
 For your personal data to be stored in our data files, your consent is expressly required. By filling in the forms, you consent to the collection and use of this information by GuitarNoise.com.
@@ -10,7 +15,7 @@ For your personal data to be stored in our data files, your consent is expressly
 We collect from you the personal data that you voluntarily provide us while requesting information regarding guitar lessons, ordering products or sending a general comment or question. We will only collect the necessary personal data in order to answer your questions.
 
 **Payment information**  
-All transactions initiated within [www.guitarnoise.com](http://www.guitarnoise.com/) are executed on the platform provided by our payment gateway provider, [www.2checkout.com](http://www.2checkout.com/). Guitar Noise does not save payment information including your personal Credit Card number. 
+[2CO](http://www.2checkout.com/) is the authorized retailer for [www.guitarnoise.com](http://www.guitarnoise.com/). Guitar Noise does not save payment information including your personal Credit Card number. 
 
 **Use of your personal data**  
 By filling in the forms and providing us with your personal data, you hereby agree and consent that Guitar Noise will store and manage your personal data in personal data files.
@@ -21,8 +26,7 @@ Guitar Noise has implemented all the necessary technical measures in order to se
 
 Guitar Noise shall not transfer your personal data to third parties, unless we could not provide the services you have requested from us directly and the assistance of a third party was required, you therefore expressly consent, in this case, that Guitar Noise shall transfer your personal data. 
 
-**Information about computer tracking and cookies**  
-Sections of this web site may use cookies to keep track of your visit, or to deliver content specific to your interests. A "Cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. You can set your browser to notify you when you receive a cookie, giving you the chance to accept or reject it. We must point out that by rejecting the use of cookies, the quality of your navigation on the web site may decrease. 
+**Information about computer tracking and cookies** Sections of this web site may use cookies to keep track of your visit, or to deliver content specific to your interests. A "Cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. You can set your browser to notify you when you receive a cookie, giving you the chance to accept or reject it. We must point out that by rejecting the use of cookies, the quality of your navigation on the web site may decrease. 
 
 **Changes to this Privacy Policy**  
 Guitar Noise may amend this Privacy Policy at any time and without prior notice. For material changes to this Privacy Policy, Guitar Noise will notify you by placing prominent notice on the web site. 
