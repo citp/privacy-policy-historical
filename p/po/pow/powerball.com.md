@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerball.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403152127id_/http%3A//www.powerball.com/pb_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerball.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219225848id_/http%3A//www.powerball.com/pb_privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Powerball
 
@@ -12,8 +12,5 @@ The Multi-State Lottery Association maintains strict security procedures to prot
 
 **SHARING INFORMATION**  
 Information collected by the Multi-State Lottery Association is not sold or distributed outside of the Multi-State Lottery Association.
-
-**POWERBALL MERCHANDISE**  
-The Multi-State Lottery Assocation has contracted with a third party company to provide fulfillment services for Powerball merchandise. The Vernon Company is an authorized independent third party distributor of Powerball merchandise. All transactions with the Vernon Company and the maintenance of customer confidential information by the Vernon Company, including credit card information, is the sole responsibility of the Vernon Company. The Multi-State Lottery Association disclaims any liability for any transactions, or the sharing of confidential information, with the Vernon Company. [Click here](http://www.vernoncompany.com/powerball/vernon_privacy_policy.htm) to review the Vernon Company privacy policy.
 
 Should you have any questions or concerns about the Multi-State Lottery Association Privacy Policy, please [contact us](mailto:%20privacy@musl.com).
