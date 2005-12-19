@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcmech.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403113817id_/http%3A//www.pcmech.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcmech.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219142201id_/http%3A//www.pcmech.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,44 +31,5 @@ Though PC Mechanic will take reasonable measures to ensure that users under the 
 **Privacy Contact Info:**
 
 PC Media, Inc.  
-P.O. Box 1974  
-Lutz, Florida 33548
-
-| 
-
-Weekly Columns:
-
-Most Popular
-
-Manufacturers
-
-[**Graphic Cards**](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5)  
-[Abit, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=AB5) [Asus, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=ASU) [ATI, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=ATI) [Chaintech](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=CHA)  
-[Creative, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=CRL) [ELSA, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=EIN) [eVGA](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=PGEVG)  
-[FIC, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=FIR) [Gainward, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=GWD) [GigaByte](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=GBT)  
-[Guillemot, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=GUI) [Leadtek, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=LTK) [Matrox, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=MTX) [MSI, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=MRW) [VisionTek](http://pcmech.pricegrabber.com/search_attrib.php/page_id=5&vendors=VTK)
-
-* * *
-
-[**Motherboards**](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40/)  
-[Abit, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=AB5) [Asus, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=ASU) [Biostar](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=BSG)  
-[Chaintech, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=CHA) [DFI, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=DFA) [ECS, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=ELI) [Epox, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=854) [FIC, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=FIR) [GigaByte, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=GBT)  
-[MSI, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=MRW) [Soltek](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=SLK) [Soyo, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=SO5)  
-[Tyan, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=TYY) [VIA](http://pcmech.pricegrabber.com/search_attrib.php/page_id=40&vendors=PGVIA)
-
-* * *
-
-[**Memory**](http://pcmech.pricegrabber.com/search_attrib.php/page_id=43/)  
-[Crucial, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=43&vendors=CKL) [Corsair, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=43&vendors=PGCRS) [Kingston](http://pcmech.pricegrabber.com/search_attrib.php/page_id=43&vendors=PGKMX)  
-[Kingmax, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=43&vendors=KTC) [Micron, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=43&vendors=MRN) [Mushkin](http://pcmech.pricegrabber.com/search_attrib.php/page_id=43&vendors=PGMUS)
-
-* * *
-
-[**Hard Drives**](http://pcmech.pricegrabber.com/search_attrib.php/page_id=11)  
-[IBM, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=11&vendors=IBM) [Maxtor, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=11&vendors=MAX) [Seagate, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=11&vendors=SEA) [Western Digital](http://pcmech.pricegrabber.com/search_attrib.php/page_id=11&vendors=WDC)
-
-* * *
-
-[**Cases**](http://pcmech.pricegrabber.com/search_attrib.php/page_id=41)  
-[Antec, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=41&vendors=ANT) [CoolerMaster, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=41&vendors=CM2) [Enermax, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=41&vendors=PGENM) [Enlight, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=41&vendors=ENL) [ThermalTake, ](http://pcmech.pricegrabber.com/search_attrib.php/page_id=41&vendors=PGTH) [Lian-Li](http://pcmech.pricegrabber.com/search_attrib.php/page_id=41&vendors=LIL)  
-
+P.O. Box 1417  
+Riverview, Florida 33568
