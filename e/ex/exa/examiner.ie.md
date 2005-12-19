@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examiner.ie privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224044253id_/http%3A//www.irishexaminer.com/pport/web/Privacy_Policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examiner.ie privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219143315id_/http%3A//www.irishexaminer.com/pport/web/Privacy_Policy/index.asp) for the most accurate reproduction.*
 
 # Examiner
 
