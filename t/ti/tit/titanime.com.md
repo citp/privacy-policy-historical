@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanime.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207020324id_/http%3A//www.titanime.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanime.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219015003id_/http%3A//titanime.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
