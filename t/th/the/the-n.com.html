@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the the-n.com privacy policy that was archived on 2005-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050624085748id_/http%3A//www.the-n.com/footerPage.php%3Fid%3D53) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the the-n.com privacy policy that was archived on 2005-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219140936id_/http%3A//www.the-n.com/footerPage.php%3Fid%3D53) for the most accurate reproduction.-->
 
 <html><head>
 <title>The N: Privacy Policy/Your California Privacy Rights</title>
@@ -25,48 +25,53 @@
 <td width="20" height="89" align="right" valign="top"><img src="/misc/image/txt_20x89_advert.gif" alt="Advertisement" width="20" height="89"></td>
 <td align="left" valign="top">
 <!-- Begin Banner Ad -->
+
 <script language="javascript" type="text/javascript">
-	//<![CDATA[
-	function readCookie(name) {
-	    if(document.cookie == '') {
-	        return false;
-	    } else {
-                var firstChar, lastChar;
-                var theBigCookie = document.cookie;
-                firstChar = theBigCookie.indexOf(name);
-	        if(firstChar != -1) {
-		    firstChar += name.length + 1;
-		    lastChar   = theBigCookie.indexOf(';', firstChar);
-		    if(lastChar == -1) {
-		        lastChar = theBigCookie.length;
-		    }
-	            return unescape(theBigCookie.substring(firstChar, lastChar));
-	        } else {
-	            return false;
-		}
-	    }
-	}
-	if(isNaN(document.axel)) {
-		document.axel = Math.random() + "";
-		ord = document.axel * 1000000000000000000;
-		AdTile = 0;
-        	rugrat = readCookie('ngrugrat');
-        	if(rugrat) {
-                	rugratPair = 'rugrat=' + rugrat + ';';
-        	} else {
-               		rugratPair = '';
-        	}
-	}
-	AdTile = AdTile + 1;
-	if(AdTile == 1) {
-		AdDcopt = 'dcopt=ist;';
-	} else {
-		AdDcopt = '';
-	}
-	var adJS = '<script language="javascript" type="text/javascript" src="http://ad.doubleclick.net/adj/the-n.com/info;id=a53;page=footerpage;' + rugratPair + 'sz=728x90;tile=' + AdTile + ';' + AdDcopt + 'ord=' + ord + '?"><\/script>';
-	document.write(adJS);
-	//]]>
-	</script><script language="javascript" type="text/javascript" src="http://ad.doubleclick.net/adj/the-n.com/info;id=a53;page=footerpage;sz=728x90;tile=1;dcopt=ist;ord=498066121134161900?"></script>
+//<![CDATA[
+    function readCookie(name) {
+        if(document.cookie == '') {
+            return false;
+        } else {
+            var firstChar, lastChar;
+            var theBigCookie = document.cookie;
+            firstChar = theBigCookie.indexOf(name);
+            if(firstChar != -1) {
+                firstChar += name.length + 1;
+                lastChar   = theBigCookie.indexOf(';', firstChar);
+                if(lastChar == -1) {
+                    lastChar = theBigCookie.length;
+                }
+                return unescape(theBigCookie.substring(firstChar, lastChar));
+            } else {
+                return false;
+            }
+        }
+    }
+
+    function populateAdvert(reset) {
+        if(isNaN(document.axel) || reset) {
+            document.axel = Math.random() + "";
+            ord = document.axel * 1000000000000000000;
+            AdTile = 0;
+            rugrat = readCookie('ngrugrat');
+            if(rugrat) {
+                rugratPair = 'rugrat=' + rugrat + ';';
+            } else {
+                rugratPair = '';
+            }
+        }
+        AdTile = AdTile + 1;
+        if(AdTile == 1) {
+            AdDcopt = 'dcopt=ist;';
+		} else {
+            AdDcopt = '';
+        }
+        var adSrc = 'http://ad.doubleclick.net/adj/the-n.com/info;id=a53;page=footerpage;' + rugratPair + 'sz=728x90;tile=' + AdTile + ';' + AdDcopt + 'ord=' + ord + '?';
+        document.write('<script language="javascript" type="text/javascript" src="' + adSrc +  '"><\/script>');
+    }
+    populateAdvert(false);
+//]]>
+</script><script language="javascript" type="text/javascript" src="http://ad.doubleclick.net/adj/the-n.com/info;id=a53;page=footerpage;sz=728x90;tile=1;dcopt=ist;ord=371692642658178100?"></script>
 <!-- End Banner Ad -->
 </td>
 </tr>
@@ -153,7 +158,17 @@ var omniCall = new ReportingCall(defaultCall);
 //]]>
 </script>
 <script language="javascript" src="/includes/if/omni_config_then.js" type="text/javascript"></script>
-<div style="display: none;"><script language="javascript" src="/includes/if/s_code_remote.js" type="text/javascript"></script><img name="s_i_the-n" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/the-n/1/G.7-PD-R/s45821659190514?[AQB]&amp;ndh=1&amp;t=30/0/2020%2019%3A22%3A10%204%200&amp;pageName=/info/privacy%20policy%20your%20california%20privacy%20rights&amp;g=https%3A//web.archive.org/web/20050624085748id_/http%253A//www.the-n.com/footerPage.php%253Fid%253D53&amp;ch=info&amp;cc=USD&amp;c1=0&amp;h2=info&amp;c4=info&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"></div>
+<div style="display: none;">
+<script language="javascript" src="/includes/if/s_code_remote.js" type="text/javascript"></script><img name="s_i_the-n" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/the-n/1/G.7-PD-R/s44257663072508?[AQB]&amp;ndh=1&amp;t=30/0/2020%2019%3A22%3A10%204%200&amp;pageName=/info/privacy%20policy%20your%20california%20privacy%20rights&amp;g=https%3A//web.archive.org/web/20051219140936id_/http%253A//www.the-n.com/footerPage.php%253Fid%253D53&amp;ch=info&amp;cc=USD&amp;c1=0&amp;h2=info&amp;c4=info&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="javascript" type="text/javascript">
+    function sendAnalyticsEvent(str){ 
+      ns=s_account; 
+      if(str!=null) ns+=","+str; 
+      void(s_gs(ns)); 
+    }
+</script>
+</div>
+
 <table width="754" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td width="8"><img src="/image/spacer.gif" alt="" width="1" height="1"></td> 
@@ -185,7 +200,7 @@ var omniCall = new ReportingCall(defaultCall);
 	   <tbody><tr>
 	   <form method="get" action="/search.php"></form>
 	     <td>  
-	        <table width="191" border="0" cellpadding="0" cellspacing="0" bgcolor="#217035"> 
+	        <table width="191" border="0" cellpadding="0" cellspacing="0" bgcolor="#204B03"> 
                 <tbody><tr> 
                 <td><img src="/image/spacer.gif" alt="" width="1" height="30"></td>
                 <td valign="middle" align="left"><img src="/image/but_45x12_search.gif" alt="Search" width="45" height="12"></td>
@@ -207,6 +222,7 @@ var omniCall = new ReportingCall(defaultCall);
 <script language="javascript" type="text/javascript">
 //<![CDATA[
 var nickName = readCookie('ngnickname');
+var rndAvie = Math.floor(Math.random()*6+1);
 
 if(nickName) {
     var avatarImg = readCookie('ngavatar');
@@ -217,14 +233,14 @@ if(nickName) {
         ngCreds = '';
     }
 
-    document.write('<table width="191" height="84" border="0" cellpadding="0" cellspacing="0" bgcolor="#217035"><tr><td height="3" width="8" bgcolor="ffffff"><img src="/image/spacer.gif" width="8" height="3" /></td><td height="3" width="41" bgcolor="ffffff"><img src="/image/spacer.gif" width="41" height="1" /></td><td height="3" width="11" bgcolor="ffffff"><img src="/image/spacer.gif" width="11" height="1" /></td> <td height="3" width="5" bgcolor="ffffff"><img src="/image/spacer.gif" width="5" height="1" /></td><td height="3" width="121" bgcolor="ffffff"><img src="/image/spacer.gif" width="121" height="1" /></td><td height="3" width="5" bgcolor="ffffff"><img src="/image/spacer.gif" width="5" height="1" /></td></tr><tr bgcolor="990033"> <td colspan="6"><img src="/image/ico_191x9_toplog.gif" width="191" height="9" /></td></tr><tr><td width="8" bgcolor="990033" align="left" valign="top"><img src="/image/ico_4x4_lftavat.gif" width="4" height="4" /></td><td valign="top" width="41" bgcolor="#841424">');	
+    document.write('<table width="191" height="84" border="0" cellpadding="0" cellspacing="0" bgcolor="#204B03"><tr><td height="3" width="8" bgcolor="ffffff"><img src="/image/spacer.gif" width="8" height="3" /></td><td height="3" width="41" bgcolor="ffffff"><img src="/image/spacer.gif" width="41" height="1" /></td><td height="3" width="11" bgcolor="ffffff"><img src="/image/spacer.gif" width="11" height="1" /></td> <td height="3" width="5" bgcolor="ffffff"><img src="/image/spacer.gif" width="5" height="1" /></td><td height="3" width="121" bgcolor="ffffff"><img src="/image/spacer.gif" width="121" height="1" /></td><td height="3" width="5" bgcolor="ffffff"><img src="/image/spacer.gif" width="5" height="1" /></td></tr><tr bgcolor="990033"> <td colspan="6"><img src="/image/ico_191x9_toplog.gif" width="191" height="9" /></td></tr><tr><td width="8" bgcolor="990033" align="left" valign="top"><img src="/image/ico_4x4_lftavat.gif" width="4" height="4" /></td><td valign="top" width="41" bgcolor="#841424">');	
 	drawAvatar(avatarImg,null,1,"/view_profile.php");
 	document.write('</td><td bgcolor="#841424" align="right" valign="top" width="11"><img src="/image/ico_8x7_rhtavat.gif" width="8" height="7" /></td><td bgcolor="#E6A820" valign="top" width="5"><img src="/image/ico_5x17_column.gif" width="5" height="17" /></td><td width="121" valign="top" background="/image/ico_121x64_topobg.gif" bgcolor="#E6A820" class="whitehead"><img src="/image/txt_121x22_welcome.gif" width="121" height="22" /><br /><a href="/view_profile.php" class="loginname">' + nickName + '</a><br/>' + ngCreds + '</td><td bgcolor="#E6A820" valign="top" width="5"><img src="/image/ico_5x17_column.gif" width="5" height="17" /><img src="/image/ico_5x42_rhttopo.gif" width="5" height="42" /></td></tr><tr> <td colspan="6" bgcolor="#E6A820"><a href="/view_profile.php"><img src="/image/but_119x15_profile.gif" alt="Your Profile" width="119" height="15" border="0" /></a><a href="/index.php?logout=1"><image src="/image/but_72x15_logoff.gif" alt="Log Out" width="72" height="15" border="0" /></a></td></tr></table>');
 } else {
-    document.write('<table width="191" height="87" border="0" cellpadding="0" cellspacing="0" bgcolor="#E6A820"><form action="/login.php" method="post"><tr><td width="32" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="3"></td><td width="59" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="1"></td><td width="95" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="1"></td><td width="5" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr><td width="32" height="3" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td width="59" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td width="95" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td width="5" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr bgcolor="#FF9933" valign="middle"><td colspan="4" align="center" bgcolor="#E6A820"><img src="/image/ico_179x21_bubble.gif" width="179" height="21"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td></tr><tr><td rowspan="5" valign="bottom" bgcolor="#E6A820"><img src="/image/ico_32x55_avatar.gif" alt="" width="32" height="55" border="0" /></td><td bgcolor="#E6A820"><img src="/image/ico_58x11_usernam.gif" width="58" height="11"></td><td bgcolor="#E6A820" align="left"><input name="username" type="text" class="fieldheight" size="10" maxlength="10 /></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/ico_58x11_pasword.gif" width="57" height="11"></td><td bgcolor="#E6A820" align="left"><input name="password" type="password" class="fieldheight" size="10" maxlength="10" /></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td> <td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td> </tr><tr>  <td colspan="3" align="left" valign="bottom" bgcolor="#E6A820"><a href="/reg.php?redirect=/index.php"><img src="/image/but_92x15_signup.gif" width="92" height="15" name="/image2" border="0"></a><img src="/image/spacer.gif" width="2" height="15"><input type="image" alt="Log In" src="/image/but_65x15_login.gif" width="65" height="15" name="/image3" border="0"><input type="hidden" name="login" value="login" /><input type="hidden" name="redirect" value="' + loginRedirectVal + '" /></td></tr></form></table>');
+    document.write('<table width="191" height="87" border="0" cellpadding="0" cellspacing="0" bgcolor="#E6A820"><form action="/login.php" method="post"><tr><td width="32" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="3"></td><td width="59" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="1"></td><td width="95" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="1"></td><td width="5" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr><td width="32" height="3" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td width="59" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td width="95" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td width="5" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr bgcolor="#FF9933" valign="middle"><td colspan="4" align="center" bgcolor="#E6A820"><img src="/image/ico_179x21_bubble.gif" width="179" height="21"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td></tr><tr><td rowspan="5" valign="bottom" bgcolor="#E6A820"><img src="/image/ico_32x55_avatar' + rndAvie + '.gif" alt="" width="32" height="55" border="0" /></td><td bgcolor="#E6A820"><img src="/image/ico_58x11_usernam.gif" width="58" height="11"></td><td bgcolor="#E6A820" align="left"><input name="username" type="text" class="fieldheight" size="10" maxlength="10 /></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/ico_58x11_pasword.gif" width="57" height="11"></td><td bgcolor="#E6A820" align="left"><input name="password" type="password" class="fieldheight" size="10" maxlength="10" /></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td> <td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td> </tr><tr>  <td colspan="3" align="left" valign="bottom" bgcolor="#E6A820"><a href="/reg.php?redirect=/index.php"><img src="/image/but_92x15_signup.gif" width="92" height="15" name="/image2" border="0"></a><img src="/image/spacer.gif" width="2" height="15"><input type="image" alt="Log In" src="/image/but_65x15_login.gif" width="65" height="15" name="/image3" border="0"><input type="hidden" name="login" value="login" /><input type="hidden" name="redirect" value="' + loginRedirectVal + '" /></td></tr></form></table>');
 };
 //]]>
-</script><table width="191" height="87" border="0" cellpadding="0" cellspacing="0" bgcolor="#E6A820"><form action="/login.php" method="post"></form><tbody><tr><td width="32" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="3"></td><td width="59" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="1"></td><td width="95" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="1"></td><td width="5" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr><td width="32" height="3" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td width="59" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td width="95" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td width="5" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr bgcolor="#FF9933" valign="middle"><td colspan="4" align="center" bgcolor="#E6A820"><img src="/image/ico_179x21_bubble.gif" width="179" height="21"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td></tr><tr><td rowspan="5" valign="bottom" bgcolor="#E6A820"><img src="/image/ico_32x55_avatar.gif" alt="" width="32" height="55" border="0"></td><td bgcolor="#E6A820"><img src="/image/ico_58x11_usernam.gif" width="58" height="11"></td><td bgcolor="#E6A820" align="left"><input name="username" type="text" class="fieldheight" size="10" maxlength="10 /></td><td bgcolor=" #e6a820"=""><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/ico_58x11_pasword.gif" width="57" height="11"></td><td bgcolor="#E6A820" align="left"><input name="password" type="password" class="fieldheight" size="10" maxlength="10"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td> <td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td> </tr><tr>  <td colspan="3" align="left" valign="bottom" bgcolor="#E6A820"><a href="/reg.php?redirect=/index.php"><img src="/image/but_92x15_signup.gif" width="92" height="15" name="/image2" border="0"></a><img src="/image/spacer.gif" width="2" height="15"><input type="image" alt="Log In" src="/image/but_65x15_login.gif" width="65" height="15" name="/image3" border="0"><input type="hidden" name="login" value="login"><input type="hidden" name="redirect" value="/footerPage.php?id=53"></td></tr></tbody></table>
+</script><table width="191" height="87" border="0" cellpadding="0" cellspacing="0" bgcolor="#E6A820"><form action="/login.php" method="post"></form><tbody><tr><td width="32" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="3"></td><td width="59" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="1"></td><td width="95" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="1"></td><td width="5" height="3" bgcolor="ffffff"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr><td width="32" height="3" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td width="59" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td width="95" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td width="5" bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr bgcolor="#FF9933" valign="middle"><td colspan="4" align="center" bgcolor="#E6A820"><img src="/image/ico_179x21_bubble.gif" width="179" height="21"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td></tr><tr><td rowspan="5" valign="bottom" bgcolor="#E6A820"><img src="/image/ico_32x55_avatar6.gif" alt="" width="32" height="55" border="0"></td><td bgcolor="#E6A820"><img src="/image/ico_58x11_usernam.gif" width="58" height="11"></td><td bgcolor="#E6A820" align="left"><input name="username" type="text" class="fieldheight" size="10" maxlength="10 /></td><td bgcolor=" #e6a820"=""><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="0"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/ico_58x11_pasword.gif" width="57" height="11"></td><td bgcolor="#E6A820" align="left"><input name="password" type="password" class="fieldheight" size="10" maxlength="10"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td></tr><tr><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td> <td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td><td bgcolor="#E6A820"><img src="/image/spacer.gif" width="1" height="1"></td> </tr><tr>  <td colspan="3" align="left" valign="bottom" bgcolor="#E6A820"><a href="/reg.php?redirect=/index.php"><img src="/image/but_92x15_signup.gif" width="92" height="15" name="/image2" border="0"></a><img src="/image/spacer.gif" width="2" height="15"><input type="image" alt="Log In" src="/image/but_65x15_login.gif" width="65" height="15" name="/image3" border="0"><input type="hidden" name="login" value="login"><input type="hidden" name="redirect" value="/footerPage.php?id=53"></td></tr></tbody></table>
 	  </td>
 	  </tr>
 	</tbody></table>
@@ -280,7 +296,8 @@ if(nickName) {
 				<tr>
 					<td></td>
 					<td bgcolor="#c7f3ff"></td>
-					<td align="left" valign="top" bgcolor="#c7f3ff" class="bodytextregular"><b>Privacy Policy/Your California Privacy Rights</b>
+					<td align="left" valign="top" bgcolor="#c7f3ff" class="bodytextregular">
+					<b>Privacy Policy/Your California Privacy Rights</b>
 <br><br>
 The-n.com is a site where people can come to play games, answer polls, and have their opinions heard.  It’s also the spot to find out more about the shows on The N, and about the stuff that happens in those shows.  
 <br><br>
@@ -348,7 +365,9 @@ Noggin / The N Privacy Rights<br>
 1633 Broadway, 7-204<br>
 New York, NY 10019<br>
 <br><br><b>Effective Date:</b>
-<br>This notice was updated on or about February 03, 2005<br><br></td>
+<br>This notice was updated on or about February 03, 2005<br><br>
+                    					<p>&nbsp;</p>
+					</td>
 					<td bgcolor="#c7f3ff"><img src="/image/spacer.gif" width="34" height="1" alt=""></td>
 					<td></td>
 				</tr>
@@ -357,12 +376,13 @@ New York, NY 10019<br>
 				</tr>
 				<tr>
 					<td></td>
-					<td colspan="3" align="left" valign="top"><img src="/misc/image/txt_216x32_findn.gif" width="216" height="32" alt="Find The N on your TV"><a href="#" onclick="openpopWindow('/ntv/getthen/lookup.html','lookup','width=320,height=300,scrollbars=1,status=1')"><img src="/misc/image/but_90x32_clickhere.gif" width="90" height="32" border="0" alt="Click Here"></a><a href="/contact.php"><img src="/misc/image/but_91x32_contus.gif" width="91" height="32" alt="Contact Us" border="0"></a><a href="/ntv/"><img src="/misc/image/but_91x20_shows.gif" width="91" height="20" hspace="8" border="0" alt="Our Shows"></a><a href="javascript:history.back(1);"><img src="/misc/image/but_56x20_back.gif" width="56" height="20" border="0" alt="Back"></a></td>
+					<td colspan="3" align="left" valign="top"><img src="/misc/image/txt_216x32_findn.gif" width="216" height="32" alt="Find The N on your TV"><a href="#" onclick="openpopWindow('/ntv/getthen/lookup.html','lookup','width=320,height=300,scrollbars=1,status=1')"><img src="/misc/image/but_90x32_clickhere.gif" width="90" height="32" border="0" alt="Click Here"></a></td>
 					<td></td>
 				</tr>
 				<tr>
 					<td colspan="5"><img src="/image/spacer.gif" width="1" height="8" alt=""></td>
-				</tr>			</tbody></table>
+				</tr>
+			</tbody></table>
 			<table width="578" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
 					<td bgcolor="#c1ee6b" align="left" valign="bottom"><img src="/misc/image/ico_30x29_botcrn.gif" width="30" height="29" alt=""></td>
@@ -370,8 +390,7 @@ New York, NY 10019<br>
 			</tbody></table>
 		</td>
 		<td align="left" valign="top" width="170">
-		
-<table width="170" cellspacing="0" cellpadding="0" border="0">
+		<table width="170" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr> 
 <td width="8"><img src="/image/spacer.gif" alt="" width="1" height="14"></td>
 <td width="160"><img src="/image/spacer.gif" alt="" width="1" height="1"></td>
@@ -381,48 +400,53 @@ New York, NY 10019<br>
 <td width="8" bgcolor="#C1EE6B"><img src="/image/spacer.gif" alt="" width="8" height="1"></td>
 <td width="160" bgcolor="#C1EE6B" align="center"><img src="/misc/image/txt_160x22_adhoriz.gif" alt="Advertisement" width="160" height="22"><br>
 <!-- Begin Side Banner Ad -->
+
 <script language="javascript" type="text/javascript">
-	//<![CDATA[
-	function readCookie(name) {
-	    if(document.cookie == '') {
-	        return false;
-	    } else {
-                var firstChar, lastChar;
-                var theBigCookie = document.cookie;
-                firstChar = theBigCookie.indexOf(name);
-	        if(firstChar != -1) {
-		    firstChar += name.length + 1;
-		    lastChar   = theBigCookie.indexOf(';', firstChar);
-		    if(lastChar == -1) {
-		        lastChar = theBigCookie.length;
-		    }
-	            return unescape(theBigCookie.substring(firstChar, lastChar));
-	        } else {
-	            return false;
-		}
-	    }
-	}
-	if(isNaN(document.axel)) {
-		document.axel = Math.random() + "";
-		ord = document.axel * 1000000000000000000;
-		AdTile = 0;
-        	rugrat = readCookie('ngrugrat');
-        	if(rugrat) {
-                	rugratPair = 'rugrat=' + rugrat + ';';
-        	} else {
-               		rugratPair = '';
-        	}
-	}
-	AdTile = AdTile + 1;
-	if(AdTile == 1) {
-		AdDcopt = 'dcopt=ist;';
-	} else {
-		AdDcopt = '';
-	}
-	var adJS = '<script language="javascript" type="text/javascript" src="http://ad.doubleclick.net/adj/the-n.com/info;id=a53;page=footerpage;' + rugratPair + 'sz=160x600;tile=' + AdTile + ';' + AdDcopt + 'ord=' + ord + '?"><\/script>';
-	document.write(adJS);
-	//]]>
-	</script><script language="javascript" type="text/javascript" src="http://ad.doubleclick.net/adj/the-n.com/info;id=a53;page=footerpage;sz=160x600;tile=2;ord=498066121134161900?"></script>
+//<![CDATA[
+    function readCookie(name) {
+        if(document.cookie == '') {
+            return false;
+        } else {
+            var firstChar, lastChar;
+            var theBigCookie = document.cookie;
+            firstChar = theBigCookie.indexOf(name);
+            if(firstChar != -1) {
+                firstChar += name.length + 1;
+                lastChar   = theBigCookie.indexOf(';', firstChar);
+                if(lastChar == -1) {
+                    lastChar = theBigCookie.length;
+                }
+                return unescape(theBigCookie.substring(firstChar, lastChar));
+            } else {
+                return false;
+            }
+        }
+    }
+
+    function populateAdvert(reset) {
+        if(isNaN(document.axel) || reset) {
+            document.axel = Math.random() + "";
+            ord = document.axel * 1000000000000000000;
+            AdTile = 0;
+            rugrat = readCookie('ngrugrat');
+            if(rugrat) {
+                rugratPair = 'rugrat=' + rugrat + ';';
+            } else {
+                rugratPair = '';
+            }
+        }
+        AdTile = AdTile + 1;
+        if(AdTile == 1) {
+            AdDcopt = 'dcopt=ist;';
+		} else {
+            AdDcopt = '';
+        }
+        var adSrc = 'http://ad.doubleclick.net/adj/the-n.com/info;id=a53;page=footerpage;' + rugratPair + 'sz=160x600;tile=' + AdTile + ';' + AdDcopt + 'ord=' + ord + '?';
+        document.write('<script language="javascript" type="text/javascript" src="' + adSrc +  '"><\/script>');
+    }
+    populateAdvert(false);
+//]]>
+</script><script language="javascript" type="text/javascript" src="http://ad.doubleclick.net/adj/the-n.com/info;id=a53;page=footerpage;sz=160x600;tile=2;ord=371692642658178100?"></script>
 <!-- End Side Banner Ad -->  
 </td>
 <td width="2"><img src="/image/spacer.gif" width="1" height="1"></td>
@@ -432,18 +456,33 @@ New York, NY 10019<br>
 <td width="160" bgcolor="#C1EE6B"><img src="/image/spacer.gif" alt="" width="1" height="8"></td>
 <td width="2"><img src="/image/spacer.gif" alt="" width="2" height="1"></td>
 </tr>
-</tbody></table>
-		
-		</td>
+</tbody></table>		</td>
 	</tr>
 </tbody></table>
 <table width="754" border="0" cellspacing="0" cellpadding="0">
+
 <tbody><tr>
 <td align="center" valign="middle">&nbsp;</td>
 </tr>
+
+<tr>
+<td align="center" valign="middle" class="disclaimer">
+<a href="/ntv/" class="disclaimer">Shows</a> * 
+<a href="/games/" class="disclaimer">Games and Quizzes</a> *
+<a href="/checkit/music/" class="disclaimer">Music</a> *
+<a href="/checkit/movies/" class="disclaimer">Movies</a> *
+<a href="/checkit/" class="disclaimer">Check It</a> *
+<a href="/mb/" class="disclaimer">Message Boards</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="middle">&nbsp;</td>
+</tr>
+
 <tr> 
 <td align="center" valign="middle" class="disclaimer"> 
-<a href="/index.php" class="disclaimer">Home</a>&nbsp;&nbsp; <a class="disclaimer" href="/footerPage.php?id=50">About the N</a>&nbsp;&nbsp;<a class="disclaimer" href="/footerPage.php?id=1202">The N FAQ</a>&nbsp;&nbsp;<a class="disclaimer" href="/contact.php">Contact the N</a>&nbsp;&nbsp;<a class="disclaimer" href="/footerPage.php?id=52">Terms and Conditions</a><br><a class="disclaimer" href="/footerPage.php?id=53">Privacy Policy/Your California Privacy Rights</a>&nbsp;&nbsp; <a class="disclaimer" href="/footerPage.php?id=54">Editorial Policy</a>&nbsp;&nbsp; © 2002-2005 Noggin<br><br>
+<a href="/index.php" class="disclaimer">Home</a>&nbsp;&nbsp;&nbsp;<a class="disclaimer" href="/footerPage.php?id=50">About The N</a>&nbsp;&nbsp;&nbsp;<a class="disclaimer" href="/footerPage.php?id=1202">The N FAQ</a>&nbsp;&nbsp;&nbsp;<a class="disclaimer" href="/footerPage.php?id=52">Terms and Conditions</a><br><a class="disclaimer" href="/footerPage.php?id=53">Privacy Policy/Your California Privacy Rights</a>&nbsp;&nbsp;&nbsp;<a class="disclaimer" href="/footerPage.php?id=54">Editorial Policy</a><br>© 2005 Viacom International Inc. All Rights Reserved<br><br>
 </td>
 </tr>
 </tbody></table>
