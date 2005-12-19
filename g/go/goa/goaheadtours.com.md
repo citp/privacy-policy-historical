@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204081410id_/http%3A//goaheadtours.com/master/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219142755id_/http%3A//www.goaheadtours.com/master/info/privacy.asp) for the most accurate reproduction.*
 
-# Go Ahead Vacations
+# Go Ahead Tours
 
 **Effective date: June 1, 2004**
 
  **Our Commitment to Privacy**
 
-Goaheadvacations.com is committed to protecting the privacy of our users. We would like to share our online information practices and the choices you can make about the way your information is collected and used. This notice is available at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on the goaheadvacations.com website. 
+Goaheadtours.com is committed to protecting the privacy of our users. We would like to share our online information practices and the choices you can make about the way your information is collected and used. This notice is available at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on the goaheadtours.com website. 
 
 We are a member of the Better Business Bureau serving Eastern Massachusetts, Maine and Vermont.
 
 **Collection of Personal Information**
 
-On our site, you can reserve and pay for your vacation with a credit card. Goaheadvacations.com maintains the confidentiality, security and integrity of personal information that we obtain from our users. The personal information collected includes your name, address, email address, phone number and credit/debit card information. 
+On our site, you can reserve and pay for your vacation with a credit card. GoAheadTours.com maintains the confidentiality, security and integrity of personal information that we obtain from our users. The personal information collected includes your name, address, email address, phone number and credit/debit card information. 
 
 When you request a newsletter subscription we ask for your name, email address, and city. To send a digital postcard or tell a friend about a particular tour, we ask for the recipient's name and email address. 
 
@@ -30,7 +30,7 @@ We use return email addresses to answer the email we receive. Such addresses are
 
 You can request our catalog, as well as updates about our products and services. Information you submit via our website will not be used for these purposes unless you request them. 
 
-Goaheadvacations.com may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
+Goaheadtours.com may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
 
 Finally, we never use or share the personally identifying information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
@@ -53,13 +53,13 @@ Please be aware that Go Ahead advertisers or websites to which our site has link
 
 **Collection, use and distribution of your information**
 
-Go Ahead does not sell or rent user information to anyone. If you opt in for the service, Go Ahead may send you email about products and services that we feel will be of interest to you. You may opt out of these mailings at any time by visiting this page: [ http://www.goaheadvacations.com/newsletter/unsubscribe.asp](https://web.archive.org/newsletter/unsubscribe.asp).
+Go Ahead does not sell or rent user information to anyone. If you opt in for the service, Go Ahead may send you email about products and services that we feel will be of interest to you. You may opt out of these mailings at any time by visiting this page: [ http://www.goaheadtours.com/newsletter/unsubscribe.asp](https://web.archive.org/newsletter/unsubscribe.asp).
 
 You can also update or correct factual information about your account by [contacting us online](https://web.archive.org/master/forms/contactUs/) or by calling 1-800-590-1170. 
 
 **Your Consent**
 
-By using our website, you consent to the collection and use of this information by goaheadvacations.com. If we decide to change our privacy policy, we will post any changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+By using our website, you consent to the collection and use of this information by goaheadtours.com. If we decide to change our privacy policy, we will post any changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
 **How To Contact Us**
 
