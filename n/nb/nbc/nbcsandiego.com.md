@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcsandiego.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210084417id_/http%3A//www.nbcsandiego.com/about739/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcsandiego.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219143618id_/http%3A//www.nbcsandiego.com/about739/1176131/detail.html) for the most accurate reproduction.*
 
 # NBCSandiego.com - About NBC 7/39 - Online Privacy Statement
 
@@ -69,8 +69,3 @@ It is important to note that this site contains links to other sites, and that t
 USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY. 
 
 We reserve the right to change this policy at any time by posting a revised privacy policy. 
-
-  
-  
-  
-
