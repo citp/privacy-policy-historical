@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooltechzone.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630175819id_/http%3A//www.cooltechzone.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooltechzone.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219062053id_/http%3A//www.cooltechzone.com/privacypolicy.html) for the most accurate reproduction.*
 
 # CoolTechZone-Privacy Policy
 
