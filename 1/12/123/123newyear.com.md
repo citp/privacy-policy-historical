@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123newyear.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305061224id_/http%3A//www.123newyear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123newyear.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219034337id_/http%3A//www.123newyear.com/privacy.html) for the most accurate reproduction.*
 
 # About 123newyear.com
 
@@ -46,39 +46,3 @@ Sponsors & Business Partners: : 123newyear.com may disclose your personal inform
 During many promotions offers you may be requested for additional information from sponsors. By requesting more information, you give 123newyear.com permission to transfer your personal information to the sponsor so they can fulfil your request. In majority of instances, only your email address will be shared. 
 
 Third Party Data & Data Comparisons: Under confidentiality agreements, 123newyear.com may match user information with third party data. Also, 123newyear.com discloses patterned user statistics in order to describe our services to prospective partners, advertisers, and or other third parties, and for other lawful purposes. 
-
-Miscellaneous: 123newyear.com may also disclose user information in such cases where we have reason to believe that disclosure of this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Compare Infobase Pvt. Ltd's rights or property, other 123newyear.com users, or anyone else that could be harmed by such activities. 123newyear.com may disclose user information when we believe in good faith that the law or law-enforcing agency requires it. 
-
-**5\. Do I have choices or controls regarding collection, use, and distribution of my identifiable information?**
-
-Upon your express interest about receiving offers or information from 123newyear.com and our partners under confidentiality, may occasionally send you e-mail or postal mail about products and services that we feel may be of interest to you and only if you indicated that you welcome these offers. Any time you can easily unsubscribe from Compare Infobase Pvt. Ltd's mailing list and no longer receive such offers and mailings. 
-
-On some types of 123newyear.com promotions, we will ask for your email address in order to update you on your score, entries, and status in prize drawings. Your participation in these types of promotions, may automatically enlist you to receive promotion-related email. Sometime these promotion-related emails may include targeted advertisements. 
-
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use some of 123newyear.com services that require the use of cookies in order to participate. 
-
-123newyear.com as a policy does not sell or rent your information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. You can choose not to use a particular service or not to participate in certain promotions or contests, if you do not wish to allow such data sharing. 
-
-**6\. How much protected is my personal financial information?**
-
-To keep your personal financial information private is vital and important to us. As with all personal information, 123newyear.com will never rent or sell your personal financial information. Your use of certain services or features, known to us, may help us to offer you better and more relevant content and advertisements. Yet as with all personally identifiable information, we do not make this available to any third parties without your permission. 
-
-Please note that there may be places on the 123newyear.com network of Web sites where you can transmit credit card information in order to complete a purchase transaction or for verification purposes. Any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use best industry-standard, SSL (secure socket layer) encryption technology. This sophisticated encryption process ensures that prying eyes are unable to decode your personal data when it travels from your computer to ours. 
-
-**7\. What security precautions are there to place to protect the loss, misuse, or alteration of information?**
-
-It may not be a norm but the fact remains that no data transmission over the Internet can be guaranteed to be 100% secure always. As a result, while we strive to protect your personal information, 123newyear.com cannot ensure or warrant the total security of any information you transmit to us or for our online products purchase or services, and you do so at your own risk. But once we receive your transmission, we strive and make our best effort to ensure its security on our systems. 
-
-**8\. What else should I know about my privacy?**
-
-Do keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, on mailing lists or in chat areas - that information can be seen and collected and used by others. In nutshell, if you post personal information online that is accessible to the other public, you may receive unsolicited messages from other parties in return. 
-
-Finally, you are solely responsible for maintaining the secrecy of your passwords and/or any registration information. Please be careful and responsible on your own whenever you're online. 
-
-**9\. Is there any children's privacy?**
-
-Yes, the safety of children is very important to us. Children should always ask a parent for permission before sending personal information to Compare Infobase Pvt. Ltd, or to anyone online for that matter. 123newyear.com does not share personal information about users under the age of 13 with third parties under any circumstances unless there is a special situation and such information is requested by law enforcing agency and we do not sell or rent personal information about any of our users, regardless of their age. In addition, 123newyear.com will not send any direct email offers to users who indicate they are under the age of 14 without first obtaining their parents' permission. 
-
-**10\. Additional Information**
-
-Any more questions or clarifications regarding this statement should be directed to [Sales@123newyear.com](mailto:Sales@123newyear.com)
