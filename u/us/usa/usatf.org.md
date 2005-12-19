@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403113711id_/http%3A//www.usatf.org/about/privacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219090213id_/http%3A//www.usatf.org/about/privacyStatement.asp) for the most accurate reproduction.*
 
 # USATF - Privacy Statement
 
-|   
-|   
-
+| 
 
 USA Track & Field Privacy Statement
 
@@ -20,7 +18,7 @@ Sections
 
 
 
-If you feel that we are not abiding by our posted privacy statement, you should first contact Keith Lively, Multimedia Communications Coordinator, at [Keith.Lively@usatf.org](mailto:Keith.Lively@usatf.org) or at (317) 261-0478 x339. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Jill Pilgrim, General Counsel/Director of Business Affairs, at [Jill.Pilgrim@usatf.org](mailto:Jill.Pilgrim@usatf.org) or at (317) 261-0478 x341.
+If you feel that we are not abiding by our posted privacy statement, you should first contact Keith Lively, Multimedia Communications Coordinator, at [Keith.Lively@usatf.org](mailto:Keith.Lively@usatf.org) or at (317) 713-4672. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Jill Pilgrim, General Counsel/Director of Business Affairs, at [Jill.Pilgrim@usatf.org](mailto:Jill.Pilgrim@usatf.org) or at (317) 713-4683.
 
 1\. The Organization Collecting the Information
 
@@ -104,7 +102,7 @@ Elite athletes and Hall of Famers may have their biographies posted on the USATF
 
 Children
 
-In cases where USATF collects personally identifiable information from children under the age of 18, we require parental consent before the collection is completed. For example, the USATF membership application requires a parent's or guardian's "signature" before it will be accepted. The signature on the application evidences the parent's or guardian's consent to have the child's information used in accordance with this privacy policy.
+In cases where USATF collects personally identifiable information from children under the age of 18, we require parental consent before the collection is completed. For example, the USATF membership application requires a parent's or guardian's "signature" before it will be accepted. The signature on the application evidences the parent's or guardian's consent to have the child's information used in accordance with this privacy policy. Upon request, a parent or guardian may obtain the information that his or her child has provided to USATF.
 
 4\. The kind of security procedures that are in place to protect the loss, misuse, or alteration of information under USATF's control.
 
@@ -132,17 +130,24 @@ If a user's personally identifiable information changes (such as your address, p
 
 For elite athletes, biographies are updated throughout the year, and any inaccuracies may be corrected by notifying Jill Geer, Director of Communications, at [Jill.Geer@usatf.org](mailto:Jill.Geer@usatf.org). Such changes will be reflected in the next release of the athlete biographies.
 
-For the website and printed directories, contact information may be corrected/added/removed by contacting Sherry Quack, Association and Member Services Coordinator, at [Sherry.Quack@usatf.org](mailto:Sherry.Quack@usatf.org) or at (317) 261-0478 x324.
+For the website and printed directories, contact information may be corrected/added/removed by contacting Sherry Quack, Association and Member Services Coordinator, at [Sherry.Quack@usatf.org](mailto:Sherry.Quack@usatf.org) or at (317) 713-4685.
 
 Notification of Changes
 
 If USATF changes its privacy policy, we will post a notice of the change on our homepage for at least seven days so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point USATF decides to use personally identifiable information in a manner different from that stated at the time it was collected, users will have a choice whether to consent to such use.
 
-| [](https://web.archive.org/membership/)  
-[](https://web.archive.org/store/)
+| [](https://web.archive.org/membership/)[](https://web.archive.org/store/)
 
   
 
+
+* * *
+
+* * *
+
+* * *
+
+* * *
 
 * * *
 
