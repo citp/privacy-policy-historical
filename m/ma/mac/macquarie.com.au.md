@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macquarie.com.au privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618080055id_/http%3A//www.macquarie.com.au/au/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macquarie.com.au privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219035537id_/http%3A//www.macquarie.com.au/au/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy policy - Macquarie Bank Limited
 
@@ -76,13 +76,13 @@ Most browsers are initially set up to accept cookies. You can reset your browser
 
 Macquarie cannot guarantee or accept responsibility for the privacy practices or the content of web sites to which we provide links.
 
-###### RedSheriff
+###### NetRatings
 
-RedSheriff website measurement software is used to assist in tracking traffic patterns to and from Macquarie’s websites, anonymously surveying users of the sites. The RedSheriff system is used to collect such information as the number of unique visitors, how long these visitors spend on the website when they do visit, and common entry and exit points into and from the website.
+NetRatings website measurement software is used to assist in tracking traffic patterns to and from Macquarie’s websites, anonymously surveying users of the sites. The NetRatings system is used to collect such information as the number of unique visitors, how long these visitors spend on the website when they do visit, and common entry and exit points into and from the website.
 
-This non-personal information is collected and aggregated by RedSheriff and provided to us to assist in our analysis of our websites. You cannot be identified personally from this information and no personal information is stored about you. RedSheriff systems comply with the Macquarie Privacy Policy. For further information about RedSheriff, go to the [Red Sheriff](http://www.redsheriff.com/au/home.htm) website.
+This non-personal information is collected and aggregated by NetRatings and provided to us to assist in our analysis of our websites. You cannot be identified personally from this information and no personal information is stored about you. NetRatings systems comply with the Macquarie Privacy Policy. For further information about NetRatings, go to the [NetRatings](http://www.netratings.com/) website.
 
-Please note: RedSheriff website measurement uses cookies which are provided by a RedSheriff website: "imrworldwide.com".
+Please note: NetRatings website measurement uses cookies which are provided by a NetRatings website: "imrworldwide.com".
 
 ###### DoubleClick Ad Management
 
