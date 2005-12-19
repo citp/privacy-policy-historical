@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popularmechanics.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207061828id_/http%3A//www.popularmechanics.com/PRIVACY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popularmechanics.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219213905id_/http%3A//www.popularmechanics.com/marketing/1295176.html) for the most accurate reproduction.*
 
-# Popular Mechanics - Marketing
+# Popular Mechanics - Privacy Policy
 
 This is the Web site of **P OPULAR** **M ECHANICS** magazine.  
 
@@ -43,8 +43,6 @@ Hearst may share or disclose personally identifiable information about you to ot
 
 Hearst also shares web site usage information about visitors to our web sites who have received a targeted promotional campaign with a reputable third party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising company note some of the pages you visit on our web site through the use of pixel tags (also called clear gifs). For more information about our third party advertising company, please [click here](http://www.doubleclick.net/us/corporate/privacy/privacy/email/default.asp?asp_object_1=&). 
 
-Hearst uses L90 to serve ads. L90, Inc. is deeply committed to protecting the privacy of Internet users. Accordingly, L90 strictly adheres to all industry guidelines, and will continue to review and improve its privacy policy and procedures to ensure the safety and protection of consumer information. This Privacy Statement presents L90's privacy policy, including L90's privacy practices for its www.L90.com Web site. Click here for L90's Privacy Statement:[ http://www.l90.com/corporate/privacy_policy/index.html.](http://www.l90.com/corporate/privacy_policy/index.html)
-
 **Cookies**  
 Hearst (or third party service providers on our behalf) may from time to time set and access cookies on your computer. A cookie is a small amount of data (often including a unique identifier), that is sent to your browser from a web site's computers and stored on your computer's hard drive. Hearst may use cookies to understand site usage and to improve the content and offerings on our site.
 
@@ -80,4 +78,4 @@ The ads appearing on this Web site are delivered to you by DoubleClick, our Web 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-This policy was last updated on Friday, February 7, 2003. 
+This policy was last updated on Friday, June 8, 2005. 
