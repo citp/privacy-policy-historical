@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the out.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207070537id_/http%3A//www2.out.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219051443id_/http%3A//www.out.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement
+# Out.com Web Site Privacy Policy
 
-**  
-  
-****Out.com Web Site Privacy Policy**
+**Out.com Web Site Privacy Policy**
 
 Out.com, part of LPI Media, is committed to protecting the privacy of its users. The following outlines our privacy and data protection policy.
 
@@ -79,6 +77,3 @@ Los Angeles, CA 90028
 
 323.871.1225  
 [info@lpimedia.net](mailto:info@lpimedia.net)
-
-  
-Out.com © 2004 LPI Media Inc. 
