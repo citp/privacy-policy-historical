@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 21publish.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305233458id_/http%3A//www.21publish.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21publish.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219040013id_/http%3A//www.21publish.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # 21Publish Web Services: Home
 
-  
+[](https://web.archive.org/)  
 
 
 ## 21Publish Privacy Policy
@@ -27,6 +27,7 @@ We will only share personally identifiable information with a third party if and
   * **9\. Links to Other Web Sites**  
 21Publish hosted sites contain links to other Web sites. 21Publish is not responsible for the privacy practices or the content of such Web sites. 
 
+  
 
 
   
