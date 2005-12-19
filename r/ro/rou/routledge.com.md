@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routledge.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405210750id_/http%3A//www.routledge.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routledge.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219094923id_/http%3A//routledge.com/privacy.asp) for the most accurate reproduction.*
 
 # Routledge - Privacy Statement
 
