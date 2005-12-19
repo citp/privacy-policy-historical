@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfaw.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402005510id_/http%3A//www.tfaw.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfaw.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219064307id_/http%3A//www.tfaw.com/privacy.html%3F) for the most accurate reproduction.*
 
 # TFAW.com: Help
 
