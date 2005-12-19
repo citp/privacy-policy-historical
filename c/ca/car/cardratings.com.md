@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2005-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050511000421id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219135405id_/http%3A//cardratings.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Statement
 
 **CardRatings.com - U.S. Citizens for Fair Credit Card Terms, Inc.** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ CardRatings.com - U.S. Citizens for Fair Credit Card Terms, Inc. ](http://www.cardratings.com/)
 
