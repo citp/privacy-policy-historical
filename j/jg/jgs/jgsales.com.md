@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jgsales.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303172808id_/http%3A//www.jgsales.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jgsales.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219234249id_/http%3A//www.jgsales.com/privacy.html) for the most accurate reproduction.*
 
 # J&G Sales LTD - Guns and Ammunition at Wholesale Prices to the Public
 
