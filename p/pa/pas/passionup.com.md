@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the passionup.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307202131id_/http%3A//www.passionup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passionup.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219215358id_/http%3A//www.passionup.com/privacy.htm) for the most accurate reproduction.*
 
-# PassionUp.com Privacy Policy
+# Privacy Policy of PassionUp.com
 
 At PassionUp, we take safeguarding your privacy online seriously. PassionUp has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the PassionUp network of sites (and emails) including: PassionUp.com, MyPassionUp.com, OptInDeals, SpecialRewards, FreeGiftOffers, and our partner sites. 
 
