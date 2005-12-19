@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trails-end.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207053650id_/http%3A//www.trails-end.com/TEPublic/privacy/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trails-end.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219120415id_/http%3A//www.trails-end.com/TEPublic/privacy/privacystatement.asp) for the most accurate reproduction.*
 
 # Trail's End : Privacy Statement
 
