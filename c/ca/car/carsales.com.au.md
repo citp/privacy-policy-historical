@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618004744id_/http%3A//www.carsales.com.au/pls/carsales/%21cs_content.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219094722id_/http%3A//carsales.com.au/pls/carsales/%21cs_content.privacy) for the most accurate reproduction.*
 
 # Privacy Policy : carsales.com.au
 
@@ -21,6 +21,8 @@ All information disclosed to carsales.com.au Ltd may be accessed by authorised c
 **Advertisers**
 
 If you are an advertiser on www.carsales.com.au your information is held confidentially in a secure (see security) database. Some of your information will be published in your advertisement, in accordance with your instructions and for the period during which your advertisement is active. Your information is only accessible for alterations by you in your capacity as advertiser or by approved carsales.com.au staff. It is the advertiser's responsibility to ensure that their details on the carsales.com.au website are current and correct. 
+
+Security & Scam Alert: Do not provide your log in details to anyone in response to email or phone requests. [Click here](http://www.carsales.com.au/pls/carsales/!cs_content.private_hints#virusorscam) for more information. 
 
 **Browsers**
 
@@ -76,7 +78,7 @@ Location: | Level 2, 810 Whitehorse Road, Box Hill VIC 3128
 Postal Address:    | PO Box 643, Box Hill VIC 3128  
 Phone: | +61 (03) 8803 3000 (Business Hours EST)  
 Contact: | Patricia Chalmers  
-Email: | [Click](https://web.archive.org/web/20050618004744id_/http%3A//www.carsales.com.au/pls/carsales/!cs_content.contact) on the "contact us" link at the bottom of this page  
+Email: | [Click](https://web.archive.org/web/20051219094722id_/http%3A//carsales.com.au/pls/carsales/!cs_content.contact) on the "contact us" link at the bottom of this page  
   
 We will try our best to answer any queries as quickly as possible.
 
