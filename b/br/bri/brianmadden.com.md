@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brianmadden.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407051946id_/http%3A//www.brianmadden.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brianmadden.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219103601id_/http%3A//www.brianmadden.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy for BrianMadden.com
 
