@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405200933id_/http%3A//www.replicon.com/aboutreplicon/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219143420id_/http%3A//replicon.com/aboutreplicon/privacystatement.asp) for the most accurate reproduction.*
 
 # Replicon - About Replicon
 
@@ -13,5 +13,8 @@ We respect the privacy of our newsletter subscribers, those who answer our surve
   * To respect the purpose for which our site visitors gave us information. 
   * Not to sell or rent our lists to third parties for e-mail marketing or any other purpose. 
   * If you request to be removed from our mailing list, the forms available on our website can be used to do that. 
+
+[Unsubscribe from Replicon Mailing List](https://web.archive.org/unsubscribe.asp)
+
 
 
