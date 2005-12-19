@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumertrack.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305024715id_/http%3A//consumertrack.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumertrack.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219031831id_/http%3A//www.consumertrack.com/privacy.asp) for the most accurate reproduction.*
 
 # ConsumerTrack
 
