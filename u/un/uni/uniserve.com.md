@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniserve.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618144927id_/http%3A//www.uniserve.com%3Fpage%3Dabout/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniserve.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219170503id_/http%3A//www.uniserve.com%3Fpage%3Dabout/privacy) for the most accurate reproduction.*
 
 # Uniserve - About - Privacy Policy
 
