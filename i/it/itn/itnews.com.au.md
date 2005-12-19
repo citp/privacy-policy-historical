@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616094256id_/http%3A//www.itnews.com.au/ciainfo.aspx%3FCIaInfoID%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220005604id_/http%3A//www.itnews.com.au/ciainfo.aspx%3FCIaInfoID%3D8) for the most accurate reproduction.*
 
 # ITNews Latest News
 
