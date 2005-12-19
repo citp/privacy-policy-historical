@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the golden1.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307123334id_/http%3A//www.golden1.com/privacy_security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golden1.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219161943id_/http%3A//www.golden1.com/privacy_security/privacy.asp) for the most accurate reproduction.*
 
-# The Golden 1 Credit Union
+# Privacy Policy - Privacy & Security - The Golden 1 Credit Union
 
-|  |  | 
+|  | 
 
 Privacy Policy and Notice for The Golden 1 Credit Union
 
@@ -35,7 +35,7 @@ We may disclose all of the information we collect from you, as previously descri
 **Information Disclosed to Outside Parties in Other Situations**  
 The Golden 1 might disclose your information to government agencies, consumer reporting agencies, and other outside parties as permitted or required by the Federal Privacy Act and other applicable laws. These disclosures are made for specific, limited purposes, for example:
 
-  * To verify individuals’ identities (reducing fraud and identity theft) 
+  * To verify individuals' identities (reducing fraud and identity theft) 
   * To meet your service expectations (such as access to ATM networks and processing applications for loans or insurance) 
   * To protect your accounts or business records against fraud and unauthorized transactions, to resolve disputes and, as necessary, to our regulators, attorneys, accountants, and auditors 
 
@@ -59,8 +59,7 @@ This notice updates and replaces any previous notices you may have received from
 Some states may provide additional privacy protections under existing or future state laws. We are committed to complying with applicable law when we share your information.
 
 **Contact Us**  
-If you have any questions regarding this privacy notice, please contact our Member Service Call Center at **(916) 732-2900** or **1-877-GOLDEN 1** from outside the Sacramento area.   
+If you have any questions regarding this privacy notice, please contact our Member Service Call Center at **(916) 732-2900** or **1-877-GOLDEN 1 (1-877-465-3361)** .   
 
 
-|   
----|---|---|---
+| 
