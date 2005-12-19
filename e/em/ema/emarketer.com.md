@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the emarketer.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403202211id_/http%3A//www.emarketer.com/AboutUs.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarketer.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219050217id_/http%3A//www.emarketer.com/AboutUs.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.*
 
-# Privacy
+# The eMarketer Privacy Policy
 
-Information Gathered  
-eMarketer gathers information about its users in order to offer useful and easily accessible online content while providing privacy protection. 
+Information Gathered
 
-1\. Web site Visitors and Newsletter Subscribers:   
-eMarketer catalogs traffic patterns throughout the site through non-invasive click-through tracking. eMarketer develops summary \-- not individual -- reports for our advertisers. For example, we will report that "12,000 people clicked on advertisement X today and they were in the eStats section of the site." 
+eMarketer gathers information about its users in order to offer useful and easily accessible online content while providing privacy protection.
 
-2\. Product Purchasers:  
-eMarketer sells information products online. At the time of purchase, we require personal, business and financial information, such as name, e-mail address, shipping/billing address, telephone number and credit card number. This information is necessary to process the order and to send the product to the buyer. If you are a repeat customer, you may be asked to update this information. This information is transmitted in 128 bit encryption and we use Secure Socket Layer (SSL) technology to protect your online order. 
+**1\. Web site Visitors and Newsletter Subscribers:**  
+eMarketer catalogs traffic patterns throughout the site through non-invasive click-through tracking. eMarketer develops summary \-- not individual -- reports for our advertisers. For example, we will report that "12,000 people clicked on advertisement X today and they were in the eStats section of the site."
+
+**2\. Product Purchasers:**  
+eMarketer sells information products online. At the time of purchase, we require personal, business and financial information, such as name, e-mail address, shipping/billing address, telephone number and credit card number. This information is necessary to process the order and to send the product to the buyer. If you are a repeat customer, you may be asked to update this information. This information is transmitted in 128 bit encryption and we use Secure Socket Layer (SSL) technology to protect your online order.
 
 Only our order processing/customer service staff has access to your information. We do not store or access credit card information from our Web server after your order is processed. eMarketer allows product purchasers to control the storage of their general contact information. If you would like to access, correct or delete any of your contact information that we have on file, please send an e-mail to [sales@emarketer.com](https://web.archive.org/Contact.aspx?referring_page=/AboutUs.aspx&send_to=sales@emarketer.com). To edit your account online, visit the following link: [Login](https://web.archive.org/Login.aspx) and choose "Edit Profile" once you have logged in to your account. 
 
-3\. White Papers:  
-When a visitor downloads a white paper from the eMarketer Web site, eMarketer collects personal and business information, such as e-mail address, shipping address and telephone number. This information is not shared with any third party unless explicitly mentioned. 
-
-  
-
+**3\. White Papers:**  
+When a visitor downloads a white paper from the eMarketer Web site, eMarketer collects personal and business information, such as e-mail address, shipping address and telephone number. This information is not shared with any third party unless explicitly mentioned.
