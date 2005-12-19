@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2005-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050518234947id_/http%3A//www.netlawman.co.uk/netlawman-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219131639id_/http%3A//www.netlawman.co.uk/netlawman-privacy.php) for the most accurate reproduction.*
 
-# Netlawman privacy
+# UK Legal Documents, Legal Forms and Legal advice
 
-|  |   
+|   
+---  
+|     Privacy Policy  
 ---  
   
 At Net Lawman we are extremely concerned to protect your privacy and confidentiality. We understand that all users of our site are quite rightly concerned to know that their data will not be used for any purpose unintended by them, and will not fall into the hands of a third party. Our policy is both specific and strict. It complies with UK law. If you think our policy falls short of your expectations or that we are failing to abide by our policy, **do please tell us**.
@@ -15,7 +17,7 @@ Here is a list of the information we collect, and why it is necessary to collect
 
 This information is used: 
 
-| to maintain our accounts  
+|  | to maintain our accounts  
 to provide you with the services which you request  
 for billing  
 for answering your enquiries  
@@ -37,10 +39,6 @@ to send you news about the services to which you have signed up
   3. **Financial information** , including credit card details.  
 This information is used to obtain payment for goods and services you have ordered from us. All such information is automatically encrypted and decrypted for use. Our staff and contractors never have access to it. We do not retain this information. However, in the future, we may retain this information because: 
 
-|   
----|---  
-3.1  | Our services are sold in a way which involves repeat ordering at unspecified future times.  
-3.2  | It is convenient for clients to provide credit card information just once, rather than on many occasions.  
   
 
   4. **Business information**  
@@ -53,41 +51,57 @@ We are subject to the law like everyone else. We may be required to give informa
 To assist in combatting fraud, we share information with credit reference agencies so far as it relates to clients or customers who instruct their credit card issuer to cancel payment to us without having first provided an acceptable reason to us and given us the opportunity to refund their money.
 
   7. **Update your information**  
-At any time you may review or update the personally identifiable information that we hold about you, by contacting us at the address below. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information. If you have any question regarding the confidentiality policy, please [Contact Us](https://web.archive.org/web/20050518234947id_/http%3A//www.netlawman.co.uk/netlawman-contact.php). 
+At any time you may review or update the personally identifiable information that we hold about you, by contacting us at the address below. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information. If you have any question regarding the confidentiality policy, please [Contact Us](https://web.archive.org/web/20051219131639id_/http%3A//www.netlawman.co.uk/netlawman-contact.php). 
 
 
 
 
-**Now take me back where I was before reading this.**
-
+**   Now take me back where I was before reading this.**  
+  
 | 
 
-  
+|  |    
   Search the site:   
-  
-  
 ---  
+|   
+---  
+[_Advanced Search_](http://www.netlawman.co.uk/Search/PgAdvanceSearch.php)  
 |   | **You like our service? Please tell your friends. You have a grumble? Please tell us now.**  
   
   
 ---|---  
-  | Recent instructions  
-Negotiations and agreement for sale of Internet biz;  
-T&C, PP and other docs for new hosting company;  
-r Agreement for sale of consumer goods biz;  
-Re-write staff manual;  
-IT consultant sub-contract transfer;  
-Bespoke LLP agreement;  
-Negotiate dissolution of trading partnership;  
-. . . . . . and numerous T&C drafting   
----|---  
-  | New! Free telephone case assessment. For business or employment law. (Employers only).  
-Tel: 01246 563618.   
----|---  
-  | [New! Limited liability partnership formation.](http://www.netlawman.co.uk/info/limited-liability-partnership.php)   
+  
+Recent instructions  
+  
+---  
+  | 1\. Review of NDA and EULA for international client  
+  | 2\. Set of  
+   a. Loan document  
+   b. Shareholders' agreement  
+   c. Directors' service agreements  
+   d. Articles of association  
+   e. Memorandum of association   
+  | 3\. Software provider agreement  
+  | 4\. HSE manual and policy for further education  
+  | 5\. Intellectual property license agreement  
+  | 6\. Franchise agreement  
+  | 7\. Discretionary pet medical plans in compliance with FSA's Perimeter Guidance Manual  
+  | 8\. Terms and conditions for online dating website  
+  | 9\. Set of  
+   a. Website development and support agreement  
+   b. Website/database hosting agreement for shared servers  
+   c. Website/database hosting agreement for dedicated servers  
+   d. Website/database hosting agreement for co-located servers  
+   e. E-mail hosting agreement  
+   f. Domain names agreement   
+  | 10\. Home computing initiative hire agreement between the company and employee to ensure security and tackle early leavers  
+  | 11\. Terms and conditions for purchasing a tanning salon business  
+  | 12\. Assured short hold tenancy agreement for furnished house - with provision for multiple guarantors having limited liability   
+  | 13\. Review of 'Re-marketer agreement' granting exclusive/non-exclusive marketing rights for software products  
+  | [NEW!!!! Limited liability partnership formation.](http://www.netlawman.co.uk/info/limited-liability-partnership.php)   
 Advice and documents   
 ---|---  
   | [Immediate employment law advice,](http://www.netlawman.co.uk/info/employment-law.php) fast by e-mail or telephone!   
 ---|---  
-  |  [Employment law documents](http://www.netlawman.co.uk/bizdoclist/employment-documents.php) to download and use now: - contracts, director agreements, letters, compromise agreement, and so on.fast by e-mail or telephone!   
+  |  [Employment law documents](http://www.netlawman.co.uk/bizdoclist/employment-contracts.php) to download and use now: - contracts, director agreements, letters, compromise agreement, and so on.fast by e-mail or telephone!   
 ---|---
