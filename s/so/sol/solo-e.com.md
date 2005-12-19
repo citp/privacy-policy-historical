@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404053255id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219021938id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
 
 # Solo-E.com - Privacy Policy
 
@@ -22,7 +22,7 @@ Privacy Policy
 
 **8.** How users can correct any inaccuracies in the information.
 
-If users have questions or concerns regarding this privacy policy, they should first contact customer service: [www.solo-e.com/feedback](https://web.archive.org/web/20050404053255id_/http%3A//www.solo-e.com/mainfiles/feedback.shtml).
+If users have questions or concerns regarding this privacy policy, they should first contact customer service: [www.solo-e.com/feedback](https://web.archive.org/web/20051219021938id_/http%3A//www.solo-e.com/mainfiles/feedback.shtml).
 
   
   
@@ -87,15 +87,13 @@ If a user elects to use our referral service for informing a friend about our si
   
 Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
 
-All chat rooms, message boards and forums at Solo-E are accessible to members only. 
-
 All members shall be responsible for any messages posted in the Solo-E.com forum as well as be responsible for any consequences of messages transmitted. Solo-E.com reserves the right to remove any posts that violate guidelines set forth on the site. If necessary, Solo-E.com has the right to remove and/or deny access to community-related areas of the site to anyone who violates those guidelines. 
 
 In submitting messages, members grant Solo-E.com a royalty-free, non-exclusive right and license to use, reproduce, edit, publish, distribute, and display the content of messages (in their entirety or partial) on the site or within other methods of communication. Therefore, we also allow others to access, view, and respond to messages.   
 
 
   
-Members are solely responsible for maintaining the privacy of their personal information and password. Members will be responsible for all uses of their account and should ensure that unauthorized use is avoided by all reasonable means. In the event of unauthorized use, a member should contact Solo-E.com immediately at [www.solo-e.com/feedback](https://web.archive.org/web/20050404053255id_/http%3A//www.solo-e.com/mainfiles/feedback.shtml) [security@solo-e.com](mailto:security@solo-e.com).
+Members are solely responsible for maintaining the privacy of their personal information and password. Members will be responsible for all uses of their account and should ensure that unauthorized use is avoided by all reasonable means. In the event of unauthorized use, a member should contact Solo-E.com immediately at [www.solo-e.com/feedback](https://web.archive.org/web/20051219021938id_/http%3A//www.solo-e.com/mainfiles/feedback.shtml) [security@solo-e.com](mailto:security@solo-e.com).
 
   
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and offline.
