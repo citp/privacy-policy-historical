@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628081402id_/http%3A//www.thelotter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219132641id_/http%3A//www.thelotter.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
