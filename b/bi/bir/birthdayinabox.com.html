@@ -1,686 +1,497 @@
-<!--The following is the downloaded HTML source of the birthdayinabox.com privacy policy that was archived on 2005-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050402050025id_/http%3A//www.birthdayinabox.com/lobby.asp%3FupperRight%3D%252FUpperRightImages%252Fcorner%255Fgirl%252Ejpg%26page%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the birthdayinabox.com privacy policy that was archived on 2005-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219204428id_/http%3A//www.birthdayinabox.com/lobby.asp-page-privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head> 
-<script language="JavaScript">
-<!--
-		window.onerror = null;
-		var topMargin = 200;
-		var slideTime = 1200;
-		var ns6 = (!document.all && document.getElementById);
-		var ie4 = (document.all);
-		var ns4 = (document.layers);
-		function layerObject(id,left) {
-			if (ns6) {
-			this.obj = document.getElementById(id).style;
-			this.obj.left = left;
-			return this.obj;
-			}
-			else if(ie4) {
-			this.obj = document.all[id].style;
-			this.obj.left = left;
-			return this.obj;
-			}
-			else if(ns4) {
-			this.obj = document.layers[id];
-			this.obj.left = left;
-			return this.obj;
-			}
-		}
-		function layerSetup() {
-			floatLyr = new layerObject('floatLayer', 338);
-			window.setInterval("main()", 10)
-		}
-		function floatObject() {
-			if (ns4 || ns6) {
-			findHt = window.innerHeight;
-			} else if(ie4) {
-			findHt = document.body.clientHeight;
-			}
-		} 
-		function main() {
-			if (ns4) {
-			this.currentY = document.layers["floatLayer"].top;
-			this.scrollTop = window.pageYOffset;
-			mainTrigger();
-			}
-			else if(ns6) {
-			this.currentY = parseInt(document.getElementById('floatLayer').style.top);
-			this.scrollTop = scrollY;
-			mainTrigger();
-			} else if(ie4) {
-			this.currentY = floatLayer.style.pixelTop;
-			this.scrollTop = document.body.scrollTop;
-			mainTrigger();
-			}
-		}
-		function mainTrigger() {
-			var newTargetY = this.scrollTop + this.topMargin;
-			if ( this.currentY != newTargetY ) {
-			if ( newTargetY != this.targetY ) {
-			this.targetY = newTargetY;
-			floatStart();
-			}
-			animator();
-			}
-		}
-		function floatStart() {
-			var now = new Date();
-			this.A = this.targetY - this.currentY;
-			this.B = Math.PI / ( 2 * this.slideTime );
-			this.C = now.getTime();
-			if (Math.abs(this.A) > this.findHt) {
-			this.D = this.A > 0 ? this.targetY - this.findHt : this.targetY + this.findHt;
-			this.A = this.A > 0 ? this.findHt : -this.findHt;
-			}
-			else {
-			this.D = this.currentY;
-			}
-		}
-		function animator() {
-			var now = new Date();
-			var newY = this.A * Math.sin( this.B * ( now.getTime() - this.C ) ) + this.D;
-			newY = Math.round(newY);
-			if (( this.A > 0 && newY > this.currentY ) || ( this.A < 0 && newY < this.currentY )) {
-			if ( ie4 )document.all.floatLayer.style.pixelTop = newY;
-			if ( ns4 )document.layers["floatLayer"].top = newY;
-			if ( ns6 )document.getElementById('floatLayer').style.top = newY + "px";
-			}
-		}
-		function start() {
-			if(ns6||ns4) {
-			pageWidth = innerWidth;
-			pageHeight = innerHeight;
-			layerSetup();
-			floatObject();
-			}
-			else if(ie4) {
-			pageWidth = document.body.clientWidth;
-			pageHeight = document.body.clientHeight;
-			layerSetup();
-			floatObject();
-			}
-		}
-        function openTheWindow( strBody ) {
-            w = window.open( "", "MyWindow", "width=280,height=350"); 
-            w.document.write("<html><HEAD></HEAD>");
-            w.document.write("<body><p style='font-Size: 10pt; Font-Family: Arial, Helvetica, sans-serif'>" + strBody + "<br></p><p>&nbsp;<p><div align='center'><a href='javascript:window.close();'><img src='images/done.gif' width='80' height='20' alt='done' border='0'></a></div></body></html>");
-            w.document.close();
-        }
-        function openWindowWithSize(file, width, height) {
-            var winl = (screen.width - width) / 2;
-            var wint = (screen.height - height) / 2;
-            popupWin = window.open(file, 'remote', 'menubar=no,toolbar=no,location=no,directories=no,status=no,scrollbars=no,top='+wint+',left='+winl+',width='+width+',height='+height);
-            popupWin.window.focus()
-        }
-        function MM_preloadImages() { //v3.0
-		   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-		   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-		   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
+<html><head>
 
-		function MM_swapImgRestore() { //v3.0
-		   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-		function MM_findObj(n, d) { //v4.01
-		   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-		   d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-		   if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-		   for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-		   if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-		function MM_swapImage() { //v3.0
-		   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-		   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 
-//-->
-    </script>
-
-
-	<title>Birthday Party Supplies &amp; Theme Party Favors</title>
+	<title>Birthday in a Box - Birthday Party Supplies &amp; Theme Party Favors</title>
 	<meta name="description" content="Birthday in a Box ships award-winning children's birthday party supplies in over 70 party themes.  Party favors, party supplies, pinatas and other birthday activity items are available. (800) 989-5506">
 	<meta name="keywords" content="birthday, party supplies, party favors, birthday party, birthday parties, children's parties, birthday party supplies, children birthday parties, birthday party favors, favors, themes, pinatas, party goods, party supplies, pinata, birthdays, express, invitations, invites, party favors, parties, partyware, party supplies, party favors, balloons, party planning, kids birthday parties, party decorations, decorations, birthday in a box, party tips, theme parties, party activities, party, party ideas">
 
-<!-- <link rel="StyleSheet" href="css/bday.css" type="text/css"> --> 
 
-    <script language="javascript">
-        <!--
-    if (navigator.appVersion.indexOf("Mac") >= 0) 
-        {
-       document.write('<link rel="stylesheet" href="css/bday_mac.css" type="text/css">');
-        }
-    else 
-        {
-       document.write('<link rel="stylesheet" href="css/bday.css" type="text/css">');
-        }
-       //-->
-    </script><link rel="stylesheet" href="css/bday.css" type="text/css">
-<style type="text/css">
-<!--
-a.nul { text-decoration: none; color: blue; Font-Family: Arial, Helvetica, sans-serif; Font-Size: 10pt; } 
-a.nuly { text-decoration: none; color: blue; Font-Family: Arial, Helvetica, sans-serif; Font-Size: 7pt; } 
-a.nulz { text-decoration: none; color: white; Font-Family: Arial, Helvetica, sans-serif; Font-Size: 10pt; }
-a.yul { color: blue; Font-Family: Arial, Helvetica, sans-serif; Font-Size: 10pt; } 
-a.yulz { color: blue; Font-Family: Arial, Helvetica, sans-serif; Font-Size: 8pt; }
-td.fixsize { Font-Size: 8pt; Font-Family: Arial, Helvetica, sans-serif; }
-td.fixsizeb { Font-Size: 10pt; Font-Family: Arial, Helvetica, sans-serif; }
-td.fixsizec { Font-Size: 12pt; Font-Family: Arial, Helvetica, sans-serif; }
-p { Font-Size: 10pt; Font-Family: Arial, Helvetica, sans-serif; }
-p.tophead { Font-Size: 12pt; Font-Family: Arial, Helvetica, sans-serif; }
-div.fixsized { Font-Size: 7pt; Font-Family: Arial, Helvetica, sans-serif; }
-div.fixsizee { Font-Size: 12pt; Font-Family: Arial, Helvetica, sans-serif; }
-div.fixsizef { Font-Size: 10pt; Font-Family: Arial, Helvetica, sans-serif; }
-div.fixsizeg { Font-Size: 8pt; Font-Family: Arial, Helvetica, sans-serif; }
-textarea.spoon { Font-Size: 10pt; Font-Family: Arial, Helvetica, sans-serif; }
-input.noops { Font-Size: 10pt; Font-Family: Arial, Helvetica, sans-serif; }
-textboxsize { width: 150px; Font-Size: 8pt; Font-Family: Arial, Helvetica, sans-serif; }
--->
-</style>
+<meta name="robots" content="index, follow">
+<meta name="copyright" content="Copyright (c) Focus Fire Protection">
+<link href="style.css" rel="stylesheet" type="text/css">
+<!-- Preload Script -->
 
+<script type="text/javascript">
 <!--
-<script language="javascript" src="javascript.js"></script>
-<script language="javascript" src="popcond.js"></script>
-//-->
-<script language="javascript">
-function showMsg(text) {
-document.picform.message.value = text;
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
 }
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		top_10_over = newImage("images/top_10-over.jpg");
+		top_11_over = newImage("images/top_11-over.jpg");
+		top_12_over = newImage("images/top_12-over.jpg");
+		top_13_over = newImage("images/top_13-over.jpg");
+		top_14_over = newImage("images/top_14-over.jpg");
+		top_15_over = newImage("images/top_15-over.jpg");
+		top_16_over = newImage("images/top_16-over.jpg");
+		top_17_over = newImage("images/top_17-over.jpg");
+		top_18_over = newImage("images/top_18-over.jpg");
+		top_19_over = newImage("images/top_19-over.jpg");
+		preloadFlag = true;
+	}
+}
+
+// -->
 </script>
+<script language="javascript">
 
-</head><body bgcolor="#ffffff" leftmargin="0" topmargin="0" face="Gill Sans MT" font="" marginheight="0" marginwidth="0">
+ function openWindowWithSize(file, width, height) {
+            var winl = (screen.width - width) / 2;
+            var wint = (screen.height - height) / 2;
+            popupWin = window.open(file, 'remote', 'menubar=no,toolbar=no,location=no,directories=no,status=no,scrollbars=yes,top='+wint+',left='+winl+',width='+width+',height='+height);
+            popupWin.window.focus()
+        }        function openTheWindow( strBody ) {
+            w = window.open( "", "MyWindow", "width=280,height=350"); 
+            w.document.write("<html><HEAD></HEAD>");
+            w.document.write("<body><p style='font-Size: 10pt; Font-Family: Arial, Helvetica, sans-serif'>" + strBody + "<br></p><p>&nbsp;<p><div align='center'><a href='javascript:window.close();'><img src='images/done.gif' width='62' height='12' alt='done' border='0'></a></div></body></html>");
+            w.document.close();
+        }
+</script>
+<!-- End Preload Script -->
 
-<script src="http://net-radar.com/trackingfunctions.js"></script>
+</head>
 
-
-
-
-
-<table width="725" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td height="469" width="142" valign="top" bgcolor="#333399"><img height="108" width="142" src="images/upper_left.gif"><br>
-      <img height="19" src="images/bar_under_themes.gif" width="142"><br>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr bordercolordark="#020268" bordercolorlight="#515197" valign="top"> 
-          <td class="leftnav" width="142" bgcolor="#020268" bordercolor="#515197"> 
-            <table width="100%" border="2" bordercolordark="#000033" bordercolorlight="#8789B2" bordercolor="#000033">
-               
-              <tbody><tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=9&amp;page=cat">New Themes</a> </td>
-
-              </tr>
-               
-              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=5&amp;page=cat">All Themes</a> </td>
-
-              </tr>
-               
-              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=3&amp;page=cat">Character Themes</a> </td>
-
-              </tr>
-               
-              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=2&amp;page=cat">Classic Themes</a> </td>
-
-              </tr>
-               
-              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=1&amp;page=cat">Nature &amp; Animals</a> </td>
-
-              </tr>
-               
-              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=4&amp;page=cat">Preschool</a> </td>
-
-              </tr>
-               
-              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=7&amp;page=cat">1st Birthday</a> </td>
-
-              </tr>
-               
-              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=8&amp;page=cat">Pre-Teen</a> </td>
-
-              </tr>
-               
-              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=10&amp;page=cat">Luau Parties</a> </td>
-
-              </tr>
-               
-              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=12&amp;page=cat">Grown Up Themes</a> </td>
-
-              </tr>
-               
-              <tr bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-
-<!-- foo -->      <td class="leftnav" width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;cat%5Fid=11&amp;page=cat">Sale Themes</a> </td>
-
-              </tr>
-               
-            </tbody></table>
-          </td>
-        </tr>
-        <tr bordercolordark="#020268" bordercolorlight="#515197" valign="top"> 
-          <!-- ala-carte code will go somewhere here --> 
-          <td class="leftnav" height="33" width="142"><img src="images/alacarte-gif.gif" width="142" height="33"></td>
-        </tr>
-        <tr bordercolordark="#020268" bordercolorlight="#515197" valign="top"> 
-          <td class="leftnav" width="142" bgcolor="#020268" bordercolor="#515197"> 
-            <table width="100%" border="2" bordercolordark="#000033" bordercolorlight="#8789B2" bordercolor="#000033">
-               
-              <tbody><tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=16&amp;prodType=Pinatas">Pinatas</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=10&amp;prodType=Balloons">Balloons</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=11&amp;prodType=Games+%26+Activities">Games &amp; Activities</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=27&amp;prodType=Crafts+%26+Kits">Crafts &amp; Kits</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=24&amp;prodType=Themed+Favor+Sets">Themed Favor Sets</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=23&amp;prodType=Stickers+%26+Tattoos">Stickers &amp; Tattoos</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=28&amp;prodType=Collectible+Figures">Collectible Figures</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=29&amp;prodType=Beanies">Beanies</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=13&amp;prodType=Other+Party+Favors">Other Party Favors</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=14&amp;prodType=Invitations">Invitations</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=38&amp;prodType=Thank+You+Notes">Thank You Notes</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=19&amp;prodType=Theme+Plates">Theme Plates</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=20&amp;prodType=Theme+Napkins">Theme Napkins</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=21&amp;prodType=Theme+Cups">Theme Cups</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=17&amp;prodType=Theme+Tablecovers">Theme Tablecovers</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=39&amp;prodType=Solid+Partyware">Solid Partyware</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=40&amp;prodType=Cutlery">Cutlery</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=30&amp;prodType=Birthday+Candles">Birthday Candles</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=25&amp;prodType=Hats+%26+Blowers">Hats &amp; Blowers</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=26&amp;prodType=Confetti+%26+Streamers">Confetti &amp; Streamers</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=18&amp;prodType=Centerpieces">Centerpieces</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=12&amp;prodType=Other+Decorations">Other Decorations</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=31&amp;prodType=Personalized+Stickers">Personalized Stickers</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=32&amp;prodType=Personalized+Invites">Personalized Invites</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=33&amp;prodType=Personalized+Thanks">Personalized Thanks</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=34&amp;prodType=Personalized+Buttons">Personalized Buttons</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=35&amp;prodType=Personalized+Magnets">Personalized Magnets</a> </td>
-              
-              </tr>
-               
-              <tr class="leftnav" bgcolor="#020268" bordercolor="#020268" bordercolordark="#020268" bordercolorlight="#CCCCFF"> 
-                
-<!-- foo -->      <td width="139" border="0" alt=""> <a class="nulz" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=alaCarte&amp;prodTypeId=36&amp;prodType=Personalized+BagTags">Personalized BagTags</a> </td>
-              
-              </tr>
-               
-            </tbody></table>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-    <td height="469" width="501" valign="top"> 
-      <table border="0" cellspacing="0" cellpadding="0" width="586">
-        <tbody><tr> 
-          <td valign="top" width="332"> 
-            <table border="0" cellspacing="0" cellpadding="0" width="347" height="180">
-              <tbody><tr valign="top"> 
-                <td width="347" height="81"><font size="-1"><img src="images/center_logo2.GIF" width="348" height="105"></font></td>
-              </tr>
-              <tr align="center" valign="top"> 
-                <td width="347"> 
-                  <form method="post" id="formSearch" name="formSearch" action="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=search">
-                    <table width="99%" border="0" cellspacing="0" cellpadding="1">
-                      <tbody><tr>
-                        <td height="24" class="fixsize"><b> Keyword Search</b></td>
-                        <td height="24" class="fixsize">
-                          <input align="left" size="10" name="keyword" valign="top" value="">
-                          <select name="searchprodtype">
-                            <option value="0" selected="">All</option>
-                            <option value="1">Birthday Box</option>
-                            <option value="2">Additional Guest</option>
-                            <option value="3">Upgrades</option>
-                            <option value="4">Add-Ons</option>
-                            <option value="5">Partyware</option>
-                            <option value="6">Favors</option>
-                            <option value="7">Personalized</option>
-                          </select>
-                          <br>
-                          Click <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=help">here</a> 
-                          for help with search</td>
-                        <td height="24"> 
-                          <input type="image" height="29" width="20" border="0" id="imgGo" name="imgGo" src="images/go.gif">
-                        </td>
+<body bgcolor="#FFFFFF" text="#003470" link="#FF9933" vlink="#FF9933" alink="#FF9933" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="181"><img src="images/spacer.gif" width="171" height="1"></td>
+    <td><img src="images/spacer.gif" width="550" height="1"></td>
+    <td width="100%"><img src="images/spacer.gif" width="1" height="1"></td>
   </tr>
-</tbody></table>
-                  </form>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td width="254"> 
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr bgcolor="#000066" align="center" valign="top"> 
-        <td valign="middle">
-<a class="headlinks" href="sitemap/"><font color="#FFFFFF">site map</font></a>
-<font color="#FFFFFF"> | </font>
-<a class="headlinks" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=mainpage"><font color="#FFFFFF">home</font></a>
-
-
- <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=basket"><img src="images/view_carts.gif" width="60" height="20" border="0"></a>
- <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=basket"><img src="images/check_outs.gif" width="60" height="20" border="0"></a>
-
-
-
-
-
-
-        </td>
-              </tr>
-              <tr valign="top"> 
-                <td> 
-                  <table width="75%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr> 
-                      <td bgcolor="#000066" valign="top"><img src="/UpperRightImages/mother_daughter.jpg" height="166" width="96"></td>
-                      <td bgcolor="#F5FFCC" valign="top"><img src="images/table_junction.gif" width="33" height="166"></td>
-                      <td bgcolor="#000066" valign="top"> 
-                        <table width="100" border="0" cellspacing="0" cellpadding="0" height="166">
-                          <tbody><tr> 
-                            <td height="54"><img src="images/links_left_nav.gif" width="110"></td>
-                          </tr>
-                          <tr bgcolor="#F5FFCC" background="images/onepixel.gif"> 
-                <td height="72">
-<font size="-1" face="Arial, Helvetica, sans-serif">
-<a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=onsale">sale items</a><br>
-<a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=featured">featured products</a><br>
-
-	<a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=mailing">mailing list</a><br>
-	<a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=news">in  the news</a>
-
-</font>
-                </td>
-            </tr>
-                          <tr bgcolor="#F5FFCC" valign="top" background="images/onepixel.gif"> 
-                            <td><img src="images/party_tips.gif" width="108" height="36"></td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
+  <tr>
+    <td colspan="2">
+		<!-- TOP PANEL begin -->
+		
+      <table id="Table_01" width="743" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td colspan="4"><a href="lobby.asp"><img src="images/top_01.jpg" alt="birthday" width="193" height="23" border="0"></a></td>
+          <form name="search" method="post" action="lobby.asp-page-search"></form><td height="23" colspan="12" align="right" valign="middle" nowrap="">
+			<table border="0" cellspacing="0" cellpadding="0">
+			  <tbody><tr>
+				<td nowrap=""><input name="keyword" type="text" class="formstyle" size="30"></td>
+				<td nowrap=""><input name="search" type="image" src="images/search.jpg" alt="search" width="35" height="22" hspace="10"></td>
+				<td class="menu"><a href="http://www.birthdayinabox.com/lobby.asp-page-help" class="menu">customer help</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.birthdayinabox.com/lobby.asp-page-basket" class="menu">view cart</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			  </tr>
+			</tbody></table>
+          
+            
+            </td>
+          
+        </tr>
+   <tr>
+          <td colspan="4"><a href="http://www.birthdayinabox.com/lobby.asp"><img src="../../images/top_03.jpg" alt="in a box" width="193" height="55" border="0"></a></td>
+          <td colspan="3"><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-5-page-cat"><img src="../../images/top_04.jpg" alt="shop by theme" width="133" height="55" border="0"></a></td>
+          <td colspan="2"><a href="http://www.birthdayinabox.com/lobby.asp-page-boxn"><img src="../../images/top_05.jpg" alt="shop by box" width="132" height="55" border="0"></a></td>
+          <td colspan="3"><a href="http://www.birthdayinabox.com/lobby.asp-page-alacarte_main"><img src="../../images/top_06.jpg" alt="shop by item" width="134" height="55" border="0"></a></td>
+          <td colspan="3"><a href="http://www.birthdayinabox.com/lobby.asp-page-persn"><img src="../../images/top_07.jpg" alt="personalized items" width="144" height="55" border="0"></a></td>
+          <td><img src="../../images/top_08.jpg" width="7" height="55" alt=""></td>
+        </tr>
+        <tr>
+          <td><img src="../../images/top_09.jpg" width="45" height="76" alt=""></td>
+		<td><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-5-page-cat" onmouseover="changeImages('top_10', 'images/top_10-over.jpg'); return true;" onmouseout="changeImages('top_10', 'images/top_10.jpg'); return true;" onmousedown="changeImages('top_10', 'images/top_10-over.jpg'); return true;" onmouseup="changeImages('top_10', 'images/top_10-over.jpg'); return true;"><img name="top_10" src="../../images/top_10.jpg" width="67" height="76" border="0" alt="All Birthday Party Themes"></a></td>
+		<td><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-3-page-cat" onmouseover="changeImages('top_11', 'images/top_11-over.jpg'); return true;" onmouseout="changeImages('top_11', 'images/top_11.jpg'); return true;" onmousedown="changeImages('top_11', 'images/top_11-over.jpg'); return true;" onmouseup="changeImages('top_11', 'images/top_11-over.jpg'); return true;"><img name="top_11" src="../../images/top_11.jpg" width="70" height="76" border="0" alt="Character Birthday Party Themes"></a></td>
+		<td colspan="2"><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-2-page-cat" onmouseover="changeImages('top_12', 'images/top_12-over.jpg'); return true;" onmouseout="changeImages('top_12', 'images/top_12.jpg'); return true;" onmousedown="changeImages('top_12', 'images/top_12-over.jpg'); return true;" onmouseup="changeImages('top_12', 'images/top_12-over.jpg'); return true;"><img name="top_12" src="../../images/top_12.jpg" width="75" height="76" border="0" alt="Classic Birthday Party Themes"></a></td>
+		<td><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-7-page-cat" onmouseover="changeImages('top_13', 'images/top_13-over.jpg'); return true;" onmouseout="changeImages('top_13', 'images/top_13.jpg'); return true;" onmousedown="changeImages('top_13', 'images/top_13-over.jpg'); return true;" onmouseup="changeImages('top_13', 'images/top_13-over.jpg'); return true;"><img name="top_13" src="../../images/top_13.jpg" width="65" height="76" border="0" alt="First Birthday Party Themes"></a></td>
+		<td colspan="2"><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-4-page-cat" onmouseover="changeImages('top_14', 'images/top_14-over.jpg'); return true;" onmouseout="changeImages('top_14', 'images/top_14.jpg'); return true;" onmousedown="changeImages('top_14', 'images/top_14-over.jpg'); return true;" onmouseup="changeImages('top_14', 'images/top_14-over.jpg'); return true;"><img name="top_14" src="../../images/top_14.jpg" width="71" height="76" border="0" alt="Pre School Birthday Party Themes"></a></td>
+		
+		<td colspan="2"><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-8-page-cat" onmouseover="changeImages('top_15', 'images/top_15-over.jpg'); return true;" onmouseout="changeImages('top_15', 'images/top_15.jpg'); return true;" onmousedown="changeImages('top_15', 'images/top_15-over.jpg'); return true;" onmouseup="changeImages('top_15', 'images/top_15-over.jpg'); return true;"><img name="top_15" src="../../images/top_15.jpg" width="69" height="76" border="0" alt="Pre-Teen Birthday Party Themes"></a></td>
+		<td><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-12-page-cat" onmouseover="changeImages('top_16', 'images/top_16-over.jpg'); return true;" onmouseout="changeImages('top_16', 'images/top_16.jpg'); return true;" onmousedown="changeImages('top_16', 'images/top_16-over.jpg'); return true;" onmouseup="changeImages('top_16', 'images/top_16-over.jpg'); return true;"><img name="top_16" src="../../images/top_16.jpg" width="70" height="76" border="0" alt="Grownup Birthday Party Themes"></a></td>
+		<td colspan="2"><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-10-page-cat" onmouseover="changeImages('top_17', 'images/top_17-over.jpg'); return true;" onmouseout="changeImages('top_17', 'images/top_17.jpg'); return true;" onmousedown="changeImages('top_17', 'images/top_17-over.jpg'); return true;" onmouseup="changeImages('top_17', 'images/top_17-over.jpg'); return true;"><img name="top_17" src="../../images/top_17.jpg" width="70" height="76" border="0" alt="Luau Birthday Party Themes"></a></td>
+		<td><a href="http://www.birthdayinabox.com/lobby.asp-cat_id-28-page-cat" onmouseover="changeImages('top_21', 'images/holiday_on_02.jpg'); return true;" onmouseout="changeImages('top_21', 'images/holiday.jpg'); return true;" onmousedown="changeImages('top_21', 'images/holiday_on_02.jpg'); return true;" onmouseup="changeImages('top_21', 'images/holiday_on_02.jpg'); return true;"><img name="top_21" src="../../images/holiday.jpg" width="70" height="76" border="0" alt="Holiday Birthday Party Themes"></a></td>
+		<td><a href="#" onmouseover="changeImages('top_19', 'images/top_19-over.jpg'); return true;" onmouseout="changeImages('top_19', 'images/top_19.jpg'); return true;" onmousedown="changeImages('top_19', 'images/top_19-over.jpg'); return true;" onmouseup="changeImages('top_19', 'images/top_19-over.jpg'); return true;"><img name="pers_19" src="../../images/per_19.jpg" width="64" height="76" border="0" alt=""></a></td>
+          <td><img src="../../images/top_20.jpg" width="7" height="76" alt=""></td>
+        </tr>
+        <tr>
+          <td><img src="../images/spacer.gif" width="45" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="67" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="70" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="11" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="64" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="65" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="4" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="67" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="65" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="4" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="70" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="60" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="10" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="70" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="64" height="1" alt=""></td>
+          <td><img src="../images/spacer.gif" width="7" height="1" alt=""></td>
         </tr>
       </tbody></table>
-      <table width="586" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="405" align="center" valign="top" height="244"> 
-            <table width="405" border="0" cellspacing="6" cellpadding="0">
-              <tbody><tr valign="top"> 
-                <td class="fixsizeb" height="166" width="399"><font face="Arial, Helvetica, sans-serif"> 
-                  <table cellspacing="0" cellpadding="0" width="100%" border="0">
+	  <!-- TOP PANEL end -->
+    </td>
+    <td background="../images/topback.jpg">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+	<!-- INFO PANEL begin -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	  <tbody><tr>
+		<td class="info" height="21">&nbsp;&nbsp;&nbsp;&nbsp;<a href="../lobby.asp">home</a> / <a href="../lobby.asp-page-privacy">Privacy Policy</a> / <a href=""></a> </td>
+		<td align="right" valign="middle" nowrap="" class="info"><img src="../images/cart.jpg" width="14" height="15" align="absmiddle"> &nbsp;0 item in cart: $0.00   &nbsp;<a href="http://www.birthdayinabox.com//lobby.asp-page-basket"><img src="../images/viewcart.jpg" alt="view cart" width="61" height="12" border="0" align="absmiddle"></a>&nbsp;&nbsp;&nbsp;</td>
+	  </tr>
+	</tbody></table>
+	<!-- INFO PANEL begin -->
+	</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+		<!-- LEFT PANEL begin -->
+		
+<table id="Table_01" width="161" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td colspan="3">
+					<img src="../images/table_01.jpg" width="161" height="32" alt=""></td>
+			</tr>
+			<tr>
+				<td width="3" background="../images/table_02.jpg">
+					<img src="../images/table_02.jpg" width="3" height="12" alt=""></td>
+				<form name="themes" method="post" action="../lobby.asp-page-theme"></form>
+				<td width="155" align="CENTER" background="../images/tableback.jpg"><img src="../images/spacer.gif" width="10" height="2"><br>
+				  <select name="dept_id" onchange="this.form.submit();" style="width:145;font-size:10pt;font-family:veradna">
+                    <option selected="" value="9999">Our Top Themes</option>
+					<option value="9999">------------</option>
+                    
+                    <option value="90">1st Birthday Boy</option>
+                    
+                    <option value="91">1st Birthday Girl</option>
+                    
+                    <option value="169">Around Town</option>
+                    
+                    <option value="184">Baby Einstein</option>
+                    
+                    <option value="208">Baby Einstein 1st Birthday</option>
+                    
+                    <option value="104">Barnyard 1st Birthday</option>
+                    
+                    <option value="172">Barnyard Celebration</option>
+                    
+                    <option value="78">Cars &amp; Trucks</option>
+                    
+                    <option value="210">Cat's Meow</option>
+                    
+                    <option value="88">Clifford the Big Red Dog</option>
+                    
+                    <option value="127">Clowns</option>
+                    
+                    <option value="13">Construction Trucks</option>
+                    
+                    <option value="185">Curious George</option>
+                    
+                    <option value="89">Daisy Smiles</option>
+                    
+                    <option value="196">Dinosaurs</option>
+                    
+                    <option value="67">Dora the Explorer</option>
+                    
+                    <option value="199">Elmo</option>
+                    
+                    <option value="99">Extreme Sports Fun</option>
+                    
+                    <option value="165">Fashion Fun</option>
+                    
+                    <option value="118">Finding Nemo</option>
+                    
+                    <option value="173">Frog Party</option>
+                    
+                    <option value="163">Girl Talk</option>
+                    
+                    <option value="96">Hula Girl</option>
+                    
+                    <option value="154">Ladybug Princess</option>
+                    
+                    <option value="155">Magic - Hocus Pocus</option>
+                    
+                    <option value="158">Musical Birthday</option>
+                    
+                    <option value="28">Ocean</option>
+                    
+                    <option value="194">One is Fun!</option>
+                    
+                    <option value="214">Pizza Party</option>
+                    
+                    <option value="98">Pony Party</option>
+                    
+                    <option value="81">Pooh 1st Birthday - Classic</option>
+                    
+                    <option value="209">Power Rangers</option>
+                    
+                    <option value="195">Princess Party</option>
+                    
+                    <option value="168">Puppy Party</option>
+                    
+                    <option value="92">Sesame Street</option>
+                    
+                    <option value="39">Sports</option>
+                    
+                    <option value="45">Thomas the Tank Engine</option>
+                    
+                    <option value="186">Tinkerbell</option>
+                    
+                  </select>
+				  <br>
+				  <img src="../images/blueline.jpg" width="131" height="2" vspace="4"></td>
+				
+				<td width="3" background="../images/table_04.jpg">
+					<img src="../images/table_04.jpg" width="3" height="12" alt=""></td>
+			</tr>
+			
+			<tr>
+				<td width="3" background="../images/table_02.jpg">
+					</td>
+				<form name="themes" method="post" action="../lobby.asp-page-acate"></form>
+				<td width="155" align="CENTER" background="../images/tableback.jpg">
+				  <select name="acat_id" onchange="this.form.submit();" style="width:145;font-size:10pt;font-family:veradna">
+				<option selected="" value="9999">Our Top Party Items</option>
+				<option value="9999">------------</option>
+				<option value="2">Balloons</option>
+				<option value="6">Candy</option>
+				<option value="7">Crafts &amp; Activities</option>
+				<option value="4">Decorations</option>
+				<option value="8">Invitations</option>
+				<option value="9">Party Favors</option>
+				<option value="3">Partyware</option>
+				<option value="5">Pinatas</option>
+				</select><br><img src="../images/blueline.jpg" width="131" height="2" vspace="4"></td>
+				
+				<td width="3" background="../images/table_04.jpg">
+					<img src="../images/table_04.jpg" width="3" height="12" alt=""></td>
+			</tr>
+						
+
+
+			
+			<tr>
+				<td width="3" background="../images/table_02.jpg">
+					</td>
+				<form name="themes" method="post" action="../lobby.asp-page-boxdetails"></form>
+				<td width="155" align="CENTER" background="../images/tableback.jpg">		
+				  <select name="topparty" onchange="this.form.submit();" style="width:145;font-size:10pt;font-family:veradna">
+                    <option selected="" value="9999">Our Top Party Boxes</option>
+					<option value="9999">------------</option>
+                    
+                    <option value="25">Baby Einstein Party</option>
+                    
+                    <option value="5">Barnyard 1st Birthday</option>
+                    
+                    <option value="8">Bugs Everwhere Party</option>
+                    
+                    <option value="18">Clown Party</option>
+                    
+                    <option value="24">Curious George Party</option>
+                    
+                    <option value="27">Daisy Smiles Party</option>
+                    
+                    <option value="11">Dinosaur Party</option>
+                    
+                    <option value="20">Disney Princess Party</option>
+                    
+                    <option value="12">Extreme Fun Party</option>
+                    
+                    <option value="6">Fashion Fun Party</option>
+                    
+                    <option value="22">First Birthday Boy Party</option>
+                    
+                    <option value="23">First Birthday Girl Party</option>
+                    
+                    <option value="17">Hula Girl Party</option>
+                    
+                    <option value="13">Ladybug Princess Party</option>
+                    
+                    <option value="9">Magic - Hocus Pocus Party</option>
+                    
+                    <option value="3">My Little Pony Party</option>
+                    
+                    <option value="19">Pony Party</option>
+                    
+                    <option value="2">Princess Party</option>
+                    
+                    <option value="4">Puppy Party</option>
+                    
+                    <option value="10">Sesame Street Party</option>
+                    
+                    <option value="28">Space Party</option>
+                    
+                    <option value="21">Sports Party</option>
+                    
+                  </select>
+				  <br>
+				  <img src="../images/blueline.jpg" width="131" height="2" vspace="4"></td>
+				
+				<td width="3" background="../images/table_04.jpg">
+					<img src="../images/table_04.jpg" width="3" height="12" alt=""></td>
+			</tr>
+									<tr>
+				<td colspan="3">
+					<img src="../images/table_05.jpg" width="161" height="9" alt=""></td>
+			</tr>
+		</tbody></table>
+		
+		
+		<br>
+				
+<table id="Table_01" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td colspan="3"> <img src="../images/personalize2.jpg" width="161" height="28" alt="personalize"></td>
+          </tr>
+          <tr>
+            <td width="3" background="../images/table_02.jpg"><img src="../images/table_02.jpg" width="3" height="12" alt=""></td>
+            <td width="155" align="center" valign="top" background="../images/tablebackground.jpg">
+              <div style="width:90%" align="left">Personalize any of these great party products...<br>
+<ul><li><a href="../lobby.asp-page-perscatn-subcat-121">Stickers</a></li>
+                  <li><a href="../lobby.asp-page-perscatn-subcat-124">Buttons</a></li>
+                  <li><a href="../lobby.asp-page-perscatn-subcat-125">Magnets</a></li>
+                  <li><a href="../lobby.asp-page-perscatn-subcat-122">Invitations</a></li>
+                  <li><a href="../lobby.asp-page-perscatn-subcat-123">Thank you Notes</a></li>
+                  <li><a href="../lobby.asp-page-perscatn-subcat-126">Bag Tags</a></li>
+                  <li><a href="../lobby.asp-page-perscatn-subcat-204">Luggage Tags</a></li>
+                  <li><a href="../lobby.asp-page-perscatn-subcat-205">Banners</a></li>
+              </ul>
+              </div>
+               </td>
+            <td width="4" background="../images/table_04.jpg"> <img src="../images/table_04.jpg" width="3" height="12" alt=""></td>
+          </tr>
+          <tr>
+            <td colspan="3"><img src="../images/table_05.jpg" width="161" height="9" alt=""></td>
+          </tr>
+        </tbody></table>
+
+		<br>
+		
+<table id="Table_01" width="161" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td colspan="3">					<img src="../images/table-title-sale.jpg" width="161" height="32" alt="sale"></td>
+			</tr>
+			
+			<tr>
+				<td width="3" background="../images/table_02.jpg">
+					<img src="../images/table_02.jpg" width="3" height="12" alt=""></td>
+				<td width="155" background="../images/tableback.jpg" align="center">
+				<!-- LEFT PANEL CONTENTS begin -->
+				
+				  <div style="width:90%" align="left">
+				  <span><strong>Sale Themes</strong></span>                  <br>
+				  
+                  <a href="../lobby.asp-page-theme-dept_id-8">Blue's Clues </a><br>
+  
+				  
+                  <a href="../lobby.asp-page-theme-dept_id-170">Ballerina Zoe </a><br>
+  
+				  
+                  <b><a href="../lobby.asp-page-cat-cat_id-11">More...</a></b><br>
+				  </div>
+					<img src="../images/blueline.jpg" width="131" height="2" vspace="4"></td>
+				<td width="3" background="../images/table_04.jpg">
+					<img src="../images/table_04.jpg" width="3" height="12" alt=""></td>
+			</tr>
+			
+						<tr>
+				<td width="3" background="../images/table_02.jpg">
+					<img src="../images/table_02.jpg" width="3" height="12" alt=""></td>
+				<td width="155" background="../images/tableback.jpg" align="center">
+				<!-- LEFT PANEL CONTENTS begin -->
+				  <div style="width:90%" align="left">
+				  <span><strong>Sale Items</strong></span>                  <br>
+
+<a href="JavaScript:openWindowWithSize('product_window.asp?prodsku=1192', 435, 700)">Blue's Clues Bubbles</a><br>
+
+<a href="JavaScript:openWindowWithSize('product_window.asp?prodsku=1196', 435, 700)">**Blue's Clues Confetti</a><br>
+
+                  <b><a href="../lobby.asp-page-saleitems">More...</a></b>
+
+					</div></td>
+				<td width="3" background="../images/table_04.jpg">
+					<img src="../images/table_04.jpg" width="3" height="12" alt=""></td>
+			</tr>
+
+			<tr>
+				<td colspan="3">
+					<img src="../images/table_05.jpg" width="161" height="9" alt=""></td>
+			</tr>
+		</tbody></table>
+
+		
+		<!-- LEFT PANEL end -->
+	</td>
+    <td align="left" valign="top">
+			 
+
+	<!-- BODY CONTENTS begin -->
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
 <tbody><tr> 
 	
-    <td class="fixsizec"> <b>Privacy</b> </td>
+    <td class="fixsizec"> <img src="../images/privacypolicy.jpg" alt="privacy policy" width="155" height="34"></td>
 </tr>
 </tbody></table>
 <table cellspacing="0" cellpadding="0" width="95%" border="0" align="center">
   <tbody><tr>
 	
     <td class="fixsizeb" width="95%"> 
-      <p>With  children of our own, we understand the significance of privacy 
-        where children are concerned. Birthday in a Box is committed to protecting 
-        your privacy and that of your children. You may be asked to provide your 
-        name, address, eMail address, telephone and credit card information, as 
-        well as your child's name and birth date. The information we request from 
-        you is stored on our secure servers, and is used to process your orders 
-        and to provide you with personalized, timely service. </p>
-      <p>We may also use this information to tell you about changes in our services, 
-        to provide you with a list of current themes before your child's next 
-        birthday or to send you emails about special offers or discounts. You may elect not to receive such offers. If you have elected to
-	receive these offers and wish to stop, please contact our customer service department at 
-      1-800-989-5506.  </p>
-      <p>We will not sell, share or lease your personal information for any purpose. 
-	Rest assured that your personal information is kept strictly confidential. 
-	Should we change this policy in the future, we will make a best effort to 
-	contact our customers directly, and to notify them via our 
-	website. To contact us directly regarding this policy, please click <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=contact"> 
-        here</a> for more information. </p>
-    </td>
-  </tr>
-</tbody></table> </font></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td valign="top" align="right" height="244" width="182"> 
-            <table width="173" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td width="31" valign="top" align="right" background="images/bottom_trans_tail.GIF" bgcolor="#000066"><img src="images/bottom_trans_junction.gif" width="32" height="224"> 
-                </td>
-                <td width="143" valign="top" bgcolor="#000066"> 
-                  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="181">
-                    <tbody><tr bgcolor="#F5FFCC"> 
-                      <td class="fixsizeb" height="137" width="141" bgcolor="#F5FFCC">*Reading is a good transitional activity for younger children.  Theme related books are a great way to start or end a party, or calm active guests.</td>
-                    </tr>
-                    <tr bgcolor="#F5FFCC"> 
-                      <td class="fixsizeb" align="center" height="18" width="141"> <a class="nul" href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=partyTips">additional 
-                        party tips</a></td>
-                    </tr>
-                    <tr bgcolor="#F5FFCC" valign="middle">  
-                      <td class="rightlinks" valign="bottom" width="141" height="134" align="center" bgcolor="#000066">&nbsp;</td>
-           </tr>
-                    <tr bgcolor="#F5FFCC" width="141" valign="middle">  
-		                      <td bgcolor="#000066">&nbsp;</td>
-		   
-                    </tr>
-                  </tbody></table>
-                <br>
-        </td>
-              </tr>
-            </tbody></table>
-
-		 
-		            <a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=memberinfo"><img src="images\Affiliatebuttonpg1.gif" width="154" height="115" border="0"></a>
-		                       
-
-
-
-
-
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr height="95"> 
-    <td height="2" width="142" bgcolor="#333399" valign="bottom" align="center"> 
-      <div align="center"><img src="images/partyphone.gif" width="80" height="90"> 
-      </div>
-    </td>
-    <td height="2" width="501" align="left" valign="top"> 
-      <table width="410" border="0" cellspacing="6" cellpadding="0">
-        <tbody><tr valign="top" align="center"> 
-          <td class="fixsize" height="2" width="100%"><br>
-<br>
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=about">about us</a> | 
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=mailing">mailing list</a> |
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=faq"> FAQ</a> |
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=links"> links</a> |
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=contact"> contact us</a> |
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=shippinginfo">shipping</a> |
-<a href="http://www.birthdayinabox.com/lobby.asp?upperRight=%2FUpperRightImages%2Fmother%5Fdaughter%2Ejpg&amp;page=privacy"> privacy</a>
-
-
-
-
-
-
-				
-		
-		 
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
+      <p><br>
+        With children of our own, we   understand the significance of privacy where children are concerned. Birthday in   a Box is committed to protecting your privacy and that of your children. You may   be asked to provide your name, address, eMail address, telephone and credit card   information, as well as your child's name and birth date. The information we   request from you is stored on our secure servers, and is used to process your   order and to provide you with personalized, timely service. <br>
+        <br>
+        We may also   use this information to tell you about changes in our services or to provide you   with a list of current themes before your child's next birthday. This   information also may be used by us and may be shared with our parent, sister   corporations and subsidiaries for marketing and promotional purposes, for   example &nbsp;to send you emails about special offers or discounts. You may elect not   to receive such offers. If you have elected to receive these offers and wish to   stop, please contact our customer service department at 1-800-989-5506,   301-956-1616 or by eMail at <u><a href="mailto:customerservice@birthdayinabox.com">customerservice@birthdayinabox.com</a></u>. <br>
+        <br>
+        We will   not sell, share or lease your personal information for any purpose except as set   forth in this Privacy Policy. Rest assured that your personal information is   kept strictly confidential. Should we change this policy in   the future, we will notify you via our website. To contact us directly   regarding this policy, please click here. <br>
+      </p>
+      </td>
   </tr>
 </tbody></table>
-<script language="JavaScript">
-<!-- Overture Services, Inc
-var pm_tagname = "universalTag.txt";
-var pm_tagversion = "1.4";
-var pm_accountid = "GM9DM6TFN59I8M2B78CVG78KJ4";
-var pm_scripthost = "srv.perf.overture.com";
-var pm_customargs = "";
-var pm_querystr = "?" + "ver=" + pm_tagversion + "&aid=" + pm_accountid + pm_customargs;
-var pm_tag = "<SCR" + "IPT LANGUAGE='JavaScript' " + "SRC=//" + pm_scripthost + "/collweb/ScriptServlet" + pm_querystr + "></SCR" + "IPT>";
-document.write(pm_tag);
-// -->
-</script><script language="JavaScript" src="//srv.perf.overture.com/collweb/ScriptServlet?ver=1.4&amp;aid=GM9DM6TFN59I8M2B78CVG78KJ4"></script>
-<p>&nbsp;</p>
-<p><font size="1" color="Silver">[]&nbsp;</font></p>
-
-<script src="http://net-radar.com/net-tracking.asp?ClientKey=109612859"></script>
-
+	<!-- BODY CONTENTS end -->
+	</td>
+    <td>&nbsp;</td>
+  </tr>
+				 <tr>
+    <td colspan="2">
+      <table id="Table_01" width="734" height="81" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td colspan="2"> <img src="images/footer_01.jpg" width="529" height="36" alt=""></td>
+          <td> <a href="lobby.asp-page-mailing"><img src="images/footer_02.jpg" alt="subscribe" width="205" height="36" border="0"></a></td>
+        </tr>
+        <tr>
+          <td> <img src="images/footer_03.jpg" width="109" height="45" alt="800-989-5506   800-989-5506"></td>
+          <td width="420" align="center" valign="middle"><span class="menu2"><a href="http://www.birthdayinabox.com/lobby.asp-page-about">About Us</a> | <a href="http://www.birthdayinabox.com/lobby.asp-page-partyTips">Tips and Tricks</a> | <a href="http://www.birthdayinabox.com/lobby.asp-page-sitemap">Sitemap</a> | <a href="http://www.birthdayinabox.com/lobby.asp-page-privacy">Privacy Policy</a> | <a href="http://www.birthdayinabox.com/lobby.asp-page-memberinfo">Affiliates</a> | <a href="http://www.birthdayinabox.com/lobby.asp-page-shippinginfo">Shipping</a></span><br>
+            Copyright © 2005                         <a href="http://www.kaboose.com"><img src="images/kabooze.jpg" alt="kaboose" width="71" height="22" border="0" align="absmiddle"></a>&nbsp;All rights reserved.
+          </td>
+          <td> <img src="images/footer_05.jpg" width="205" height="45" alt=""></td>
+        </tr>
+      </tbody></table>
+	<!-- FOOTER begin -->
+	
+	<!-- FOOTER end -->
+	</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table>
+	
+	
+<!-- ROI trax -->
+<script language="javascript" src="http://birthdayinabox.trk.sodoit.com/rts.js"></script>
 
 
 
