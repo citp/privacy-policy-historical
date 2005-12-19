@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the vvdailypress.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405220356id_/http%3A//www.vvdailypress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vvdailypress.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219211855id_/http%3A//www.vvdailypress.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Daily Press
-
-|  |  **Privacy Policy  
-**
-
-* * *
+# Daily Press newspaper, Victorville, CA: Privacy Policy
 
 **An Overview**
 
@@ -27,5 +22,3 @@ While this privacy policy applies to the Vvdailypress.com site and all of the ot
 
 **Vvdailypress.com Privacy Policy Changes  
 **If we decide to change our privacy policy for VV.com, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. Vvdailypress.com Privacy Policy
-
-|  | 
