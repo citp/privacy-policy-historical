@@ -1,25 +1,6 @@
-> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403212857id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219215404id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
 
-# DVD Recorders at Shop 4 Tech: DVD Media, Cell Phone Accessories, Printer Ink, Ink Cartridges
-
-  
-
-
-  
-
-
-Subscribe to our eMail Newsletter and get in on our great deals and exclusive offers!
-
-  
-  
-
-
-| 
-
-Privacy policy
-
-  
-
+# DVD Case, Blank DVD and DVD-R at Shop 4 Tech: Ink Cartridges, DVD Media, Printer Ink
 
 **Leda Multimedia Inc** has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **Shop 4tech.com.**
 
@@ -74,5 +55,3 @@ Leda Multimedia Inc
 Montclair CA 91763_   
 [webmaster@shop4tech.com ](mailto:%20webmaster@shop4tech.com)
 
-
-| 
