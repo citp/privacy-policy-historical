@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pictureframes.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305071157id_/http%3A//www.pictureframes.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pictureframes.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219131456id_/http%3A//www.pictureframes.com/html/privacy.html) for the most accurate reproduction.*
 
 # PictureFrames.com Privacy Policy
 
@@ -10,7 +10,7 @@ Protecting your privacy is as important to us as it is to you. We here at Graphi
   
 **Picture Frames.com and Graphik Dimensions Ltd.**  
   
-Picture Frames.com is wholly owned and operated by Graphik Dimensions Ltd. For over 35 years, Graphik Dimensions Ltd. has provided quality merchandise, wholesale prices, and award-winning customer service. At Picture Frames.com, our goal is not only to further this tradition, but also provide a unique Internet experience that is fun, easy, informative, and secure.  
+Picture Frames.com is wholly owned and operated by Graphik Dimensions Ltd. For over 40 years, Graphik Dimensions Ltd. has provided quality merchandise, wholesale prices, and award-winning customer service. At Picture Frames.com, our goal is not only to further this tradition, but also provide a unique Internet experience that is fun, easy, informative, and secure.  
   
 Top  
 ******Data Security**  
@@ -102,7 +102,7 @@ Top
   
 ******Information we do not share with others**  
   
-We do not contribute to or participate in shared or cooperative databases, which give other companies access to your personal information. We do not release credit card or financial information for use by other companies. We do not share, sell or trade information collected as part of a survey or specific details about you or your household. For privacy purposes, all information relating to our customers is stored on a highly secure server, and all credit card information is stored in an encrypted format.
+We do not give other companies access to your personal information. We do not release credit card or financial information for use by other companies. We do not share, sell or trade information collected as part of a survey or specific details about you or your household. For privacy purposes, all information relating to our customers is stored on a highly secure server, and all credit card information is stored in an encrypted format.
 
 Top  
   
