@@ -1,15 +1,7 @@
-> *The following text is extracted and transformed from the fotopages.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206092525id_/http%3A//www.fotopages.com/cgi-bin/help.pl%3Fpage%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotopages.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219192851id_/http%3A//www.fotopages.com/cgi-bin/help.pl%3Fpage%3D4) for the most accurate reproduction.*
 
-# Fotopages.com - Because a photo is worth a thousand words
+# Privacy policy - Photo blogging made easy - Fotopages.com
 
-[](http://www.fotopages.com/)  
-|   
----|---  
-  
-[](http://www.fotopages.com/) | [](https://web.archive.org/cgi-bin/browse.pl) | [](http://discuss.fotopages.com/) | [](https://web.archive.org/cgi-bin/news.pl) | [](https://web.archive.org/cgi-bin/account.pl) | [](https://web.archive.org/cgi-bin/settings.pl) | [](https://web.archive.org/cgi-bin/help.pl) | [](https://web.archive.org/cgi-bin/about.pl) | [](https://web.archive.org/cgi-bin/signup.pl) |    
----|---|---|---|---|---|---|---|---|---  
-[Frequently Asked Questions (FAQ)](https://web.archive.org/cgi-bin/help.pl?page=1) |  [Support](https://web.archive.org/cgi-bin/help.pl?page=5) | [Terms Of Service (TOS)](https://web.archive.org/cgi-bin/help.pl?page=3) | [Privacy policy](https://web.archive.org/cgi-bin/help.pl?page=4) |  [TODO list](https://web.archive.org/cgi-bin/help.pl?page=7)   
-  
 **Privacy policy**  
 **Privacy Statement for Fotopages  
 Last Revised October 20, 2003 **
@@ -71,5 +63,3 @@ This site may contain links to other sites. Fotopages is not responsible for the
 **Questions about the Fotopages Service**
 
 If you have any questions about this privacy statement, the practices of the Fotopages Service, or your dealings with us, you can email your questions to support@fotopages.com 
-
-[TOS](https://web.archive.org/cgi-bin/help.pl?page=3) |  [Privacy policy](https://web.archive.org/cgi-bin/help.pl?page=4) |  [Support](https://web.archive.org/cgi-bin/help.pl?page=5) |  [Contact us](https://web.archive.org/cgi-bin/about.pl?page=4) |  [About](https://web.archive.org/cgi-bin/about.pl?page=3)
