@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305080330id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy%26style%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219220429id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy%26style%3D) for the most accurate reproduction.*
 
 # monoPrice.com - best quality products at the lowest price
 
@@ -17,9 +17,6 @@ Your security is our primary concern. To ensure safe shopping, we use Verisign®
   
 **We respect your privacy**  
 At Monoprice.com, we value our customers and their privacy. All personal information is used to ensure efficient processing of your order. This information is used by our staff for contacting and identifying customers and their needs. We will not give, sell, rent, or loan any identifiable personal information to any third party, unless we are legally required to do so.
-
-**No SPAMMING! NO COOKIES!**  
-Unsolicited, "spam" mail is not sent to Monoprice.com customers. The only email customers will receive, are updates to their recent orders. Monoprice.com does not use cookies under any circumstances, to ensure your continued privacy. Monoprice.com is not responsible for information and actions by third party individuals who have received information from the customer's directly.
 
 **Log Files**  
 We use IP addresses, browser type, time of day, to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
