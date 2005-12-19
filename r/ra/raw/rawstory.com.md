@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawstory.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403162601id_/http%3A//www.rawstory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawstory.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219014815id_/http%3A//www.rawstory.com/privacy.html) for the most accurate reproduction.*
 
 # The Raw Story | Privacy policy
 
@@ -6,7 +6,7 @@
 
 ****Raw Story Media's privacy policy****
 
-The Raw Story and its parent company Raw Story Media, as well as its advertisers, are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. This policy governs all Raw Story properties, including but not limited to Raw Story, RawStoryQ, Blue Lemur and RawPrint.com.
+The Raw Story and its parent company Raw Story Media, as well as its advertisers, are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. This policy governs all Raw Story properties, including but not limited to Raw Story, PoliticsObserved.com, Blue Lemur and RawPrint.com.
 
 Consumer Information
 
