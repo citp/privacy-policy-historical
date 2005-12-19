@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2005-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050514012331id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219185936id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
 
 # Delphi Forums: Privacy Policy
 
@@ -11,10 +11,11 @@ Your privacy is of the utmost importance to Delphi Forums. Because we ask for so
   5. COOKIES
   6. DELPHI & NON-DELPHI FORUMS
   7. COOKIES
-  8. PUBLIC FORUMS
-  9. SECURITY
-  10. TERMINATION
-  11. SUMMARY
+  8. ADVERTISING
+  9. PUBLIC FORUMS
+  10. SECURITY
+  11. TERMINATION
+  12. SUMMARY
 
   
 **Registration**  
@@ -46,6 +47,12 @@ The above describes information that is provided "actively" - meaning, you choos
 **Cookies**  
   
 Delphi Forums uses cookies to customize your experience while using the Forums. A cookie is a small text file that many Web sites write through your browser when you visit them. A cookie can only be read by the site that places it, so Delphi Forums can't "see where you've been" based on any other cookies in your browser. Cookies are generally supported in version 3.0 and newer of Internet Explorer, 2.02 and newer of Netscape, and 3.0 and newer of AOL. Netscape Navigator uses a single file called "cookies.txt" to record all cookies, and you can open this file in any text editor to see what it looks like. On a Macintosh computer, the Netscape cookie file is called "MagicCookie". Internet Explorer uses a separate file for each cookie, which typically reside in "C:\Windows\Profiles\User\Cookies." Most browsers also allow the option of displaying a warning before accepting a cookie, or refusing all cookies. Declining cookies while participating in forums may result in some of features not working properly.
+
+ -top-  
+  
+**Advertising**  
+  
+Delphi Forums uses third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information about your visits to this and other Web sites (not including your name, address, email address or telephone number) in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
 
  -top-  
   
