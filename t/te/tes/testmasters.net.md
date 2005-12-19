@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testmasters.net privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606034207id_/http%3A//www.testmasters180.com/common/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testmasters.net privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219055043id_/http%3A//www.testmasters180.com/common/privacy.aspx) for the most accurate reproduction.*
 
 # TestMasters Privacy Policy
 
@@ -38,9 +38,14 @@ Attention: Legal Affairs
 Suite 1000 North  
 Santa Monica, CA 90404**
 
-LSAT is a registered trademark of the Law School Admission Council.  
-The TestMasters LSAT Course was created and written by Robin Singh. 
+[Website design and programming by Hanuman Technologies](http://www.hanumantech.com/)
 
-© 1991-2004 TestMasters. All rights reserved.  
+LSAT is a registered trademark of the Law School Admission Council.  
+The TestMasters LSAT Course was created and written by Robin Singh.
+
+Our company offers services under the name TestMasters everywhere except Texas.  
+In Texas our company offers services under the name ScorePerfect.
+
+© 1991-2005 TestMasters. All rights reserved.  
 1620 26th Street · Suite 1000 North  
 Santa Monica, CA  90404
