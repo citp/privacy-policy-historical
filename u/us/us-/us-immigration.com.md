@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the us-immigration.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206180555id_/http%3A//www.us-immigration.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-immigration.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219131008id_/http%3A//us-immigration.com/privacy.html) for the most accurate reproduction.*
 
-# American Immigration Center - US Immigration & Citizenship Kits and Products, Green Card DV 2006 Lottery Services
+# American Immigration Center - US Immigration, Green Card & Citizenship Information, Kits and Products.
 
 **Privacy Statement**
 
