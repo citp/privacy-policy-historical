@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the doyouspain.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207154033id_/http%3A//doyouspain.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouspain.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219121542id_/http%3A//doyouspain.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # 
 
-|  |   
+|   
+|  |  Privacy Policy   
 ---  
-   
-|  Privacy Policy   
----  
+  
 DoYouSpain.com is owned and operated by Gesmarket. 
 
 Gesmarket has created this privacy statement in order to demonstrate our firm commitment to privacy. We use IP addresses to help diagnose problems with our server, and to administer our Web site. Your IP address may be used to gather broad demographic information.   
