@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoexpress.co.uk privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526085416id_/http%3A//www.autoexpress.co.uk/front_website/front_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoexpress.co.uk privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219191952id_/http%3A//www.autoexpress.co.uk/front_website/front_privacy_statement) for the most accurate reproduction.*
 
 # Auto Express / Evo - Privacy Statement
 
