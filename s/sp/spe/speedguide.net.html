@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the speedguide.net privacy policy that was archived on 2005-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305050533id_/http%3A//www.speedguide.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speedguide.net privacy policy that was archived on 2005-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219103327id_/http%3A//www.speedguide.net/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>SpeedGuide.net :: Privacy Policy</title>
@@ -20,6 +20,10 @@
 if (parent.frames.length) 
   top.location.href= document.location;	
 //-->
+<!-- PH link counter --><!--
+  function clk(n) { if(document.images){ (new Image()).src="/openlink.php?id="+n; } return true;}
+//-->
+
 
 <!-- top menu def start --><!--
 
@@ -107,6 +111,7 @@ php item creation:
 *************************************/
 oCMenu.makeMenu('top1','','&nbsp;Main','index.php','_self')
     oCMenu.makeMenu('1sub01','top1','News','news.php')
+		oCMenu.makeMenu('1sub0101','1sub01','XML - RSS Feeds','rss/')
     oCMenu.makeMenu('1sub02','top1','Glossary of Terms','glossary.php')
     oCMenu.makeMenu('1sub03','top1','FAQs','faq.php')
 		oCMenu.makeMenu('1sub0301','1sub03','Cable Modems FAQ','faq_in.php?category=92')
@@ -130,7 +135,7 @@ oCMenu.makeMenu('top1','','&nbsp;Main','index.php','_self')
     oCMenu.makeMenu('1sub07','top1','SpeedGuide Teams','sg_teams.php')
 		oCMenu.makeMenu('1sub0701','1sub07','SG Teams Info','sg_teams.php')
 		oCMenu.makeMenu('1sub0702','1sub07','F@H Team Stats','folding/')
-		oCMenu.makeMenu('1sub0703','1sub07','FQH Sig Images','folding/sig/')
+		oCMenu.makeMenu('1sub0703','1sub07','F@H Sig Images','folding/sig/')
     oCMenu.makeMenu('1sub08','top1','SG Game Server','gameserver/')
     oCMenu.makeMenu('1sub09','top1','SG Premium Services','services.php')
     oCMenu.makeMenu('1sub10','top1','SG Gear Store','http://www.cafeshops.com/speedguide','_blank')
@@ -145,9 +150,11 @@ oCMenu.makeMenu('2sub0105','2sub01','System.ini IRQ Tweak','read_articles.php?id
 oCMenu.makeMenu('2sub0106','2sub01','Host Resolution Priority Tweak','read_articles.php?id=1130') 
 oCMenu.makeMenu('2sub0107','2sub01','Linux Tweaking','read_articles.php?id=121') 
 oCMenu.makeMenu('2sub0108','2sub01','Windows XP SP2','read_articles.php?id=1497') 
+oCMenu.makeMenu('2sub0109','2sub01','LAN Tweaking','read_articles.php?id=1607') 
 	oCMenu.makeMenu('2sub02','top2','Broadband Tools','sg_tools.php')
 		oCMenu.makeMenu('2sub0201','2sub02','SG TCP/IP Analyzer','analyzer.php')
 		oCMenu.makeMenu('2sub0202','2sub02','SG TCP/IP Optimizer','downloads.php')
+			oCMenu.makeMenu('2sub020201','2sub0202','TCP Optimizer Documentation','tcpoptimizer.php')
 		oCMenu.makeMenu('2sub0203','2sub02','SG Security Scanner','scan.php')
 			oCMenu.makeMenu('2sub020301','2sub0203','SG Security Scanner','scan.php')
 			oCMenu.makeMenu('2sub020302','2sub0203','Scanned Ports','ports.php')
@@ -155,6 +162,7 @@ oCMenu.makeMenu('2sub0108','2sub01','Windows XP SP2','read_articles.php?id=1497'
         oCMenu.makeMenu('2sub0204','2sub02','Network Tools','networktools.php')
 		oCMenu.makeMenu('2sub0205','2sub02','Bits/Bytes Calculator','conversion.php')
 		oCMenu.makeMenu('2sub0206','2sub02','RWIN/BDP Calculator','bdp.php')
+		oCMenu.makeMenu('2sub0207','2sub02','WLAN Key Generator','wlan_key.php')
     oCMenu.makeMenu('2sub03','top2','Downloads/Patches','downloads.php')
     oCMenu.makeMenu('2sub04','top2','Security','security.php')    
     oCMenu.makeMenu('2sub05','top2','User Stories','articles.php?category=44')
@@ -181,10 +189,9 @@ oCMenu.makeMenu('top3','','&nbsp;Reviews','reviews.php')
 oCMenu.makeMenu('3sub0102','3sub01','Compex NetPassage 15B','read_reviews.php?id=103') 
 oCMenu.makeMenu('3sub0103','3sub01','D-Link DI-701','read_reviews.php?id=96') 
 oCMenu.makeMenu('3sub0104','3sub01','Linksys BEFSR41 Router ','read_reviews.php?id=90') 
-oCMenu.makeMenu('3sub0105','3sub01','Netgear RP614 Review','read_reviews.php?id=183') 
-oCMenu.makeMenu('3sub0106','3sub01','SOHOWARE BroadGuard NBG800','read_reviews.php?id=100') 
-oCMenu.makeMenu('3sub0107','3sub01','WebRamp 700s','read_reviews.php?id=89') 
-oCMenu.makeMenu('3sub0108','3sub01','ZyXEL Prestige 310','read_reviews.php?id=95') 
+oCMenu.makeMenu('3sub0105','3sub01','SOHOWARE BroadGuard NBG800','read_reviews.php?id=100') 
+oCMenu.makeMenu('3sub0106','3sub01','WebRamp 700s','read_reviews.php?id=89') 
+oCMenu.makeMenu('3sub0107','3sub01','ZyXEL Prestige 310','read_reviews.php?id=95') 
         oCMenu.makeMenu('3sub0190','3sub01','Nexland','reviews.php?category=41')
         oCMenu.makeMenu('3sub019001','3sub0190','ISB2LAN Router Review','read_reviews.php?id=73') 
 oCMenu.makeMenu('3sub019002','3sub0190','Nexland ISB-SOHO','read_reviews.php?id=101') 
@@ -201,8 +208,10 @@ oCMenu.makeMenu('3sub0402','3sub04','WinGate 4.1.1','read_reviews.php?id=99')
 oCMenu.makeMenu('3sub0403','3sub04','WinTasks 4 Professional','read_reviews.php?id=105') 
 	oCMenu.makeMenu('3sub05','top3','Hardware','reviews.php?category=48')
 		oCMenu.makeMenu('3sub0501','3sub05','Linksys Instant GigaDrive','read_reviews.php?id=94') 
-    oCMenu.makeMenu('3sub06','top3','User Reviews','articles.php?category=49')
-		
+    oCMenu.makeMenu('3sub06','top3','User Reviews','reviews.php?category=49')
+		oCMenu.makeMenu('3sub0601','3sub06','D-Link DI-524 Wireless Router','read_reviews.php?id=1628') 
+oCMenu.makeMenu('3sub0602','3sub06','Netgear RP614 Review','read_reviews.php?id=183') 
+
 
 oCMenu.makeMenu('top4','','&nbsp;Articles','articles.php')
 	oCMenu.makeMenu('4sub01','top4','Broadband','articles.php?category=50')
@@ -211,6 +220,7 @@ oCMenu.makeMenu('4sub0102','4sub01','How to Make Network Cables','read_articles.
 oCMenu.makeMenu('4sub0103','4sub01','How to reinstall TCP/IP','read_articles.php?id=1539') 
 oCMenu.makeMenu('4sub0104','4sub01','Internet connection Sharing','read_articles.php?id=169') 
 oCMenu.makeMenu('4sub0105','4sub01','Router Configuration Guide','read_articles.php?id=177') 
+oCMenu.makeMenu('4sub0106','4sub01','WLAN Primer','read_articles.php?id=1659') 
 	oCMenu.makeMenu('4sub02','top4','Security','articles.php?category=53')
 		oCMenu.makeMenu('4sub0201','4sub02','General Security Guide','read_articles.php?id=132') 
 oCMenu.makeMenu('4sub0202','4sub02','IRDP Security Vulnerability in Windows','read_articles.php?id=174') 
@@ -219,17 +229,19 @@ oCMenu.makeMenu('4sub0202','4sub02','IRDP Security Vulnerability in Windows','re
 oCMenu.makeMenu('4sub0302','4sub03','CISCO/VALVE PowerPlay','read_articles.php?id=108') 
 oCMenu.makeMenu('4sub0303','4sub03','MTU, what difference does it make ?','read_articles.php?id=111') 
 oCMenu.makeMenu('4sub0304','4sub03','Satellite Internet - What is it ?','read_articles.php?id=114') 
-oCMenu.makeMenu('4sub0305','4sub03','Tom\'s Easy Home Networking','read_articles.php?id=113') 
-oCMenu.makeMenu('4sub0306','4sub03','Uncapping, The makings of a Semi-Myth','read_articles.php?id=110') 
+oCMenu.makeMenu('4sub0305','4sub03','Server Based Network Guide','read_articles.php?id=1660') 
+oCMenu.makeMenu('4sub0306','4sub03','Tom\'s Easy Home Networking','read_articles.php?id=113') 
+oCMenu.makeMenu('4sub0307','4sub03','Uncapping, The makings of a Semi-Myth','read_articles.php?id=110') 
     oCMenu.makeMenu('4sub04','top4','General','articles.php?category=52')
-		oCMenu.makeMenu('4sub0401','4sub04','How to create a Backup Batch File','read_articles.php?id=1547') 
+		oCMenu.makeMenu('4sub0401','4sub04','How to Backup using Batch Files','read_articles.php?id=1547') 
 oCMenu.makeMenu('4sub0402','4sub04','Ramdisk Guide','read_articles.php?id=131') 
 oCMenu.makeMenu('4sub0403','4sub04','Windows 2k/XP Tweaks','read_articles.php?id=1404') 
 oCMenu.makeMenu('4sub0404','4sub04','Windows 9x Tweaks','read_articles.php?id=170') 
     oCMenu.makeMenu('4sub05','top4','User Articles','articles.php?category=54')
 		oCMenu.makeMenu('4sub0501','4sub05','Cable modem signal levels','read_articles.php?id=1197') 
-oCMenu.makeMenu('4sub0502','4sub05','How DSL Internet Access Works','read_articles.php?id=1413') 
-oCMenu.makeMenu('4sub0503','4sub05','The History of DSL Internet Access','read_articles.php?id=1414') 
+oCMenu.makeMenu('4sub0502','4sub05','Crimson Editor','read_articles.php?id=1698') 
+oCMenu.makeMenu('4sub0503','4sub05','How DSL Internet Access Works','read_articles.php?id=1413') 
+oCMenu.makeMenu('4sub0504','4sub05','The History of DSL Internet Access','read_articles.php?id=1414') 
     oCMenu.makeMenu('4sub06','top4','Quick Reference','articles.php?category=111')
 		oCMenu.makeMenu('4sub0601','4sub06','BIOS Error Codes','read_articles.php?id=1576') 
 oCMenu.makeMenu('4sub0602','4sub06','The TCP/IP and OSI Network Models','read_articles.php?id=120') 
@@ -285,7 +297,7 @@ oCMenu.construct()
 //-->
 
 <!-- end top menu -->
-</script><div class="clLevel0border" id="oCMenu_top1_0" style="z-index: 502; clip: rect(0px, 102px, 19px, 0px); width: 102px; height: 19px; left: 145px; top: 0px; visibility: visible;"><div class="clLevel0" id="oCMenu_top1" style="z-index: 504; clip: rect(0px, 100px, 17px, 0px); width: 100px; height: 17px; left: 1px; top: 1px;">&nbsp;Main</div></div><div class="clLevel0border" id="oCMenu_top2_0" style="z-index: 503; clip: rect(0px, 102px, 19px, 0px); width: 102px; height: 19px; left: 326.333px; top: 0px; visibility: visible;"><div class="clLevel0" id="oCMenu_top2" style="z-index: 505; clip: rect(0px, 100px, 17px, 0px); width: 100px; height: 17px; left: 1px; top: 1px;">&nbsp;Broadband</div></div><div class="clLevel0border" id="oCMenu_top3_0" style="z-index: 504; clip: rect(0px, 102px, 19px, 0px); width: 102px; height: 19px; left: 536.667px; top: 0px; visibility: visible;"><div class="clLevel0" id="oCMenu_top3" style="z-index: 506; clip: rect(0px, 100px, 17px, 0px); width: 100px; height: 17px; left: 1px; top: 1px;">&nbsp;Reviews</div></div><div class="clLevel0border" id="oCMenu_top4_0" style="z-index: 505; clip: rect(0px, 102px, 19px, 0px); width: 102px; height: 19px; left: 733px; top: 0px; visibility: visible;"><div class="clLevel0" id="oCMenu_top4" style="z-index: 507; clip: rect(0px, 100px, 17px, 0px); width: 100px; height: 17px; left: 1px; top: 1px;">&nbsp;Articles</div></div><div class="clLevel0border" id="oCMenu_top6_0" style="z-index: 506; clip: rect(0px, 102px, 19px, 0px); width: 102px; height: 19px; left: 935.333px; top: 0px; visibility: visible;"><div class="clLevel0" id="oCMenu_top6" style="z-index: 508; clip: rect(0px, 100px, 17px, 0px); width: 100px; height: 17px; left: 1px; top: 1px;">&nbsp;Forums</div></div><div class="clLevel0border" id="oCMenu_top7_0" style="z-index: 507; clip: rect(0px, 102px, 19px, 0px); width: 102px; height: 19px; left: 1130.67px; top: 0px; visibility: visible;"><div class="clLevel0" id="oCMenu_top7" style="z-index: 509; clip: rect(0px, 100px, 17px, 0px); width: 100px; height: 17px; left: 1px; top: 1px;">&nbsp;Information</div></div><div class="clLevel1border" id="oCMenu_1_0" style="z-index: 508; overflow: hidden;"><div class="clLevel1" id="oCMenu_1sub01" style="z-index: 510; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub02" style="z-index: 511; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub03" style="z-index: 512; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a1_0" style="z-index: 538;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clLevel1" id="oCMenu_1sub04" style="z-index: 513; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub05" style="z-index: 514; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a1_1" style="z-index: 540;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clLevel1" id="oCMenu_1sub06" style="z-index: 515; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub07" style="z-index: 516; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a1_2" style="z-index: 542;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clLevel1" id="oCMenu_1sub08" style="z-index: 517; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub09" style="z-index: 518; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub10" style="z-index: 519; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a1_3" style="z-index: 544;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clCMAbs" id="oCMenu_a1_4" style="z-index: 546;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clCMAbs" id="oCMenu_a1_5" style="z-index: 548;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div></div><div class="clLevel1border" id="oCMenu_2_0" style="z-index: 518; overflow: hidden;"><div class="clLevel1" id="oCMenu_1sub0301" style="z-index: 520; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0302" style="z-index: 521; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0303" style="z-index: 522; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0304" style="z-index: 523; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0305" style="z-index: 524; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0306" style="z-index: 525; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0307" style="z-index: 526; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0308" style="z-index: 527; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0309" style="z-index: 528; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0310" style="z-index: 529; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0311" style="z-index: 530; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a2_0" style="z-index: 548;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clLevel1" id="oCMenu_2sub05012" style="z-index: 531; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_2sub05013" style="z-index: 532; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_2sub05014" style="z-index: 533; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_2sub05015" style="z-index: 534; left: 1px; top: 1px;"></div></div><div class="clLevel1border" id="oCMenu_3_0" style="z-index: 533; overflow: hidden;"><div class="clLevel1" id="oCMenu_2sub020301" style="z-index: 535; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_2sub020302" style="z-index: 536; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_2sub020303" style="z-index: 537; left: 1px; top: 1px;"></div></div>
+</script><div class="clLevel0border" id="oCMenu_top1_0" style="z-index: 502; clip: rect(0px, 102px, 19px, 0px); width: 102px; height: 19px; left: 145px; top: 0px; visibility: visible;"><div class="clLevel0" id="oCMenu_top1" style="z-index: 504; clip: rect(0px, 100px, 17px, 0px); width: 100px; height: 17px; left: 1px; top: 1px;">&nbsp;Main</div></div><div class="clLevel0border" id="oCMenu_top2_0" style="z-index: 503; clip: rect(0px, 102px, 19px, 0px); width: 102px; height: 19px; left: 326.333px; top: 0px; visibility: visible;"><div class="clLevel0" id="oCMenu_top2" style="z-index: 505; clip: rect(0px, 100px, 17px, 0px); width: 100px; height: 17px; left: 1px; top: 1px;">&nbsp;Broadband</div></div><div class="clLevel0border" id="oCMenu_top3_0" style="z-index: 504; clip: rect(0px, 102px, 19px, 0px); width: 102px; height: 19px; left: 536.667px; top: 0px; visibility: visible;"><div class="clLevel0" id="oCMenu_top3" style="z-index: 506; clip: rect(0px, 100px, 17px, 0px); width: 100px; height: 17px; left: 1px; top: 1px;">&nbsp;Reviews</div></div><div class="clLevel0border" id="oCMenu_top4_0" style="z-index: 505; clip: rect(0px, 102px, 19px, 0px); width: 102px; height: 19px; left: 733px; top: 0px; visibility: visible;"><div class="clLevel0" id="oCMenu_top4" style="z-index: 507; clip: rect(0px, 100px, 17px, 0px); width: 100px; height: 17px; left: 1px; top: 1px;">&nbsp;Articles</div></div><div class="clLevel0border" id="oCMenu_top6_0" style="z-index: 506; clip: rect(0px, 102px, 19px, 0px); width: 102px; height: 19px; left: 935.333px; top: 0px; visibility: visible;"><div class="clLevel0" id="oCMenu_top6" style="z-index: 508; clip: rect(0px, 100px, 17px, 0px); width: 100px; height: 17px; left: 1px; top: 1px;">&nbsp;Forums</div></div><div class="clLevel0border" id="oCMenu_top7_0" style="z-index: 507; clip: rect(0px, 102px, 19px, 0px); width: 102px; height: 19px; left: 1130.67px; top: 0px; visibility: visible;"><div class="clLevel0" id="oCMenu_top7" style="z-index: 509; clip: rect(0px, 100px, 17px, 0px); width: 100px; height: 17px; left: 1px; top: 1px;">&nbsp;Information</div></div><div class="clLevel1border" id="oCMenu_1_0" style="z-index: 508; overflow: hidden;"><div class="clLevel1" id="oCMenu_1sub01" style="z-index: 510; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a1_0" style="z-index: 538;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clLevel1" id="oCMenu_1sub02" style="z-index: 511; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub03" style="z-index: 512; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a1_1" style="z-index: 540;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clLevel1" id="oCMenu_1sub04" style="z-index: 513; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub05" style="z-index: 514; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a1_2" style="z-index: 542;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clLevel1" id="oCMenu_1sub06" style="z-index: 515; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub07" style="z-index: 516; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a1_3" style="z-index: 544;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clLevel1" id="oCMenu_1sub08" style="z-index: 517; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub09" style="z-index: 518; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub10" style="z-index: 519; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a1_4" style="z-index: 546;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clCMAbs" id="oCMenu_a1_5" style="z-index: 548;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div></div><div class="clLevel1border" id="oCMenu_2_0" style="z-index: 518; overflow: hidden;"><div class="clLevel1" id="oCMenu_1sub0101" style="z-index: 520; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0302" style="z-index: 521; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0303" style="z-index: 522; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0304" style="z-index: 523; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0305" style="z-index: 524; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0306" style="z-index: 525; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0307" style="z-index: 526; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0308" style="z-index: 527; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0309" style="z-index: 528; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0310" style="z-index: 529; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_1sub0311" style="z-index: 530; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a2_0" style="z-index: 548;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clCMAbs" id="oCMenu_a2_1" style="z-index: 550;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clLevel1" id="oCMenu_2sub05012" style="z-index: 531; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_2sub05013" style="z-index: 532; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_2sub05014" style="z-index: 533; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_2sub05015" style="z-index: 534; left: 1px; top: 1px;"></div></div><div class="clLevel1border" id="oCMenu_3_0" style="z-index: 533; overflow: hidden;"><div class="clLevel1" id="oCMenu_2sub020201" style="z-index: 535; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_2sub020302" style="z-index: 536; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_2sub020303" style="z-index: 537; left: 1px; top: 1px;"></div></div>
 
 <script>
 <!--
@@ -305,7 +317,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
           <td align="left" valign="bottom" background="/images/elem/main_bar4.gif"> 
             <table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
-                <td width="63%" align="left" valign="middle"><a href="/"><img src="/images/elem/sglogo5.gif" width="290" height="50" border="0" alt="Your Guide to Broadband"></a></td>
+                <td width="63%" align="left" valign="middle"><a href="/"><img src="/images/elem/sglogo5_santa.gif" width="290" height="50" border="0" alt="Your Guide to Broadband"></a></td>
                 <form name="global_search" method="GET" action="search_rez.php"></form>
                 <td width="37%" align="right" valign="middle"><img src="/images/spacer_01.gif" width="15" height="3"><br><input type="text" size="15" value=" Search site" onfocus="if (this.value==' Search site') this.value='';" onmouseover="if (this.value==' Search site') this.value='';" onmouseout="if (this.value=='') this.value=' Search site';" name="seek" id="seek" maxlength="500" style="height:16px;width:140px;font-size:10px;font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none;border-width:1px;border-style:solid;border-color:#000000" tabindex="1"><a tabindex="2" href="javascript:document.global_search.submit();" class="link2" title="Site Search" onmouseover="window.status='Search for ' + document.global_search.seek.value;return true;" onmouseout="window.status='SpeedGuide.net';return true;"><img src="/images/buttons/search.gif" width="61" height="17" hspace="6" align="absmiddle" border="0"></a><a href="javascript:location.href='search.php?seek=' + document.global_search.seek.value;" class="link2" title="Advanced Search" onmouseover="window.status='Advanced search';return true;" onmouseout="window.status='SpeedGuide.net';return true;" tabindex="3"><img src="/images/buttons/advanced.gif" width="61" height="17" border="0" align="absmiddle"></a><img src="/images/spacer_01.gif" width="7" height="1"></td>
               </tr>
@@ -337,7 +349,7 @@ google_color_url = ["FF8800","008000","008000","000099"];
 google_color_text = ["000000","000000","6F6F6F","003366"];
 //--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><div id="beacon_87" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.speedguide.net/ads_php/adlog.php?bannerid=87&amp;clientid=48&amp;zoneid=6&amp;source=&amp;block=20&amp;capping=0&amp;cb=c6582684d9fee1ca2401a9f2859c7004" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td>
+</script><div id="beacon_87" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.speedguide.net/ads_php/adlog.php?bannerid=87&amp;clientid=48&amp;zoneid=6&amp;source=&amp;block=20&amp;capping=0&amp;cb=6adfdd65ff7dc8b5d8770549643fe40a" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td>
   </tr>
   <tr><td><img src="/images/spacer_01.gif" width="5" height="5" border="0"></td></tr>
 </tbody></table>
@@ -432,6 +444,7 @@ php item creation:
 *************************************/
 oCMenuLeft.makeMenu('top1','','&nbsp;Main','index.php','_self')
     oCMenuLeft.makeMenu('1sub01','top1','News','news.php')
+		oCMenuLeft.makeMenu('1sub0101','1sub01','XML - RSS Feeds','rss/')
     oCMenuLeft.makeMenu('1sub02','top1','Glossary of Terms','glossary.php')
     oCMenuLeft.makeMenu('1sub03','top1','FAQs','faq.php')
 		oCMenuLeft.makeMenu('1sub0301','1sub03','Cable Modems FAQ','faq_in.php?category=92')
@@ -471,9 +484,11 @@ oCMenuLeft.makeMenu('2sub0105','2sub01','System.ini IRQ Tweak','read_articles.ph
 oCMenuLeft.makeMenu('2sub0106','2sub01','Host Resolution Priority Tweak','read_articles.php?id=1130') 
 oCMenuLeft.makeMenu('2sub0107','2sub01','Linux Tweaking','read_articles.php?id=121') 
 oCMenuLeft.makeMenu('2sub0108','2sub01','Windows XP SP2','read_articles.php?id=1497') 
+oCMenuLeft.makeMenu('2sub0109','2sub01','LAN Tweaking','read_articles.php?id=1607') 
 	oCMenuLeft.makeMenu('2sub02','top2','Broadband Tools','sg_tools.php')
 		oCMenuLeft.makeMenu('2sub0201','2sub02','SG TCP/IP Analyzer','analyzer.php')
 		oCMenuLeft.makeMenu('2sub0202','2sub02','SG TCP/IP Optimizer','downloads.php')
+			oCMenuLeft.makeMenu('2sub020201','2sub0202','TCP Optimizer Documentation','tcpoptimizer.php')
 		oCMenuLeft.makeMenu('2sub0203','2sub02','SG Security Scanner','scan.php')
 			oCMenuLeft.makeMenu('2sub020301','2sub0203','SG Security Scanner','scan.php')
 			oCMenuLeft.makeMenu('2sub020302','2sub0203','Scanned Ports','ports.php')
@@ -481,6 +496,7 @@ oCMenuLeft.makeMenu('2sub0108','2sub01','Windows XP SP2','read_articles.php?id=1
 		oCMenuLeft.makeMenu('2sub0204','2sub02','Network Tools','networktools.php')
 		oCMenuLeft.makeMenu('2sub0205','2sub02','Bits/Bytes Calculator','conversion.php')
 		oCMenuLeft.makeMenu('2sub0206','2sub02','RWIN/BDP Calculator','bdp.php')
+		oCMenuLeft.makeMenu('2sub0207','2sub02','WLAN Key Generator','wlan_key.php')
     oCMenuLeft.makeMenu('2sub03','top2','Downloads/Patches','downloads.php')
 	oCMenuLeft.makeMenu('2sub04','top2','Security','security.php')
 	oCMenuLeft.makeMenu('2sub05','top2','User Stories','articles.php?category=44')
@@ -507,10 +523,9 @@ oCMenuLeft.makeMenu('top3','','&nbsp;Reviews','reviews.php')
 oCMenuLeft.makeMenu('3sub0102','3sub01','Compex NetPassage 15B','read_reviews.php?id=103') 
 oCMenuLeft.makeMenu('3sub0103','3sub01','D-Link DI-701','read_reviews.php?id=96') 
 oCMenuLeft.makeMenu('3sub0104','3sub01','Linksys BEFSR41 Router ','read_reviews.php?id=90') 
-oCMenuLeft.makeMenu('3sub0105','3sub01','Netgear RP614 Review','read_reviews.php?id=183') 
-oCMenuLeft.makeMenu('3sub0106','3sub01','SOHOWARE BroadGuard NBG800','read_reviews.php?id=100') 
-oCMenuLeft.makeMenu('3sub0107','3sub01','WebRamp 700s','read_reviews.php?id=89') 
-oCMenuLeft.makeMenu('3sub0108','3sub01','ZyXEL Prestige 310','read_reviews.php?id=95') 
+oCMenuLeft.makeMenu('3sub0105','3sub01','SOHOWARE BroadGuard NBG800','read_reviews.php?id=100') 
+oCMenuLeft.makeMenu('3sub0106','3sub01','WebRamp 700s','read_reviews.php?id=89') 
+oCMenuLeft.makeMenu('3sub0107','3sub01','ZyXEL Prestige 310','read_reviews.php?id=95') 
         oCMenuLeft.makeMenu('3sub0190','3sub01','Nexland','reviews.php?category=41')
         oCMenuLeft.makeMenu('3sub019001','3sub0190','ISB2LAN Router Review','read_reviews.php?id=73') 
 oCMenuLeft.makeMenu('3sub019002','3sub0190','Nexland ISB-SOHO','read_reviews.php?id=101') 
@@ -527,8 +542,10 @@ oCMenuLeft.makeMenu('3sub0402','3sub04','WinGate 4.1.1','read_reviews.php?id=99'
 oCMenuLeft.makeMenu('3sub0403','3sub04','WinTasks 4 Professional','read_reviews.php?id=105') 
     oCMenuLeft.makeMenu('3sub05','top3','Hardware','reviews.php?category=48')
 		oCMenuLeft.makeMenu('3sub0501','3sub05','Linksys Instant GigaDrive','read_reviews.php?id=94') 
-    oCMenuLeft.makeMenu('3sub06','top3','User Reviews','articles.php?category=49')
-		
+    oCMenuLeft.makeMenu('3sub06','top3','User Reviews','reviews.php?category=49')
+		oCMenuLeft.makeMenu('3sub0601','3sub06','D-Link DI-524 Wireless Router','read_reviews.php?id=1628') 
+oCMenuLeft.makeMenu('3sub0602','3sub06','Netgear RP614 Review','read_reviews.php?id=183') 
+
 
 oCMenuLeft.makeMenu('top4','','&nbsp;Articles','articles.php')
 	oCMenuLeft.makeMenu('4sub01','top4','Broadband','articles.php?category=50')
@@ -537,6 +554,7 @@ oCMenuLeft.makeMenu('4sub0102','4sub01','How to Make Network Cables','read_artic
 oCMenuLeft.makeMenu('4sub0103','4sub01','How to reinstall TCP/IP','read_articles.php?id=1539') 
 oCMenuLeft.makeMenu('4sub0104','4sub01','Internet connection Sharing','read_articles.php?id=169') 
 oCMenuLeft.makeMenu('4sub0105','4sub01','Router Configuration Guide','read_articles.php?id=177') 
+oCMenuLeft.makeMenu('4sub0106','4sub01','WLAN Primer','read_articles.php?id=1659') 
 	oCMenuLeft.makeMenu('4sub02','top4','Security','articles.php?category=53')
         oCMenuLeft.makeMenu('4sub0201','4sub02','General Security Guide','read_articles.php?id=132') 
 oCMenuLeft.makeMenu('4sub0202','4sub02','IRDP Security Vulnerability in Windows','read_articles.php?id=174') 
@@ -545,17 +563,19 @@ oCMenuLeft.makeMenu('4sub0202','4sub02','IRDP Security Vulnerability in Windows'
 oCMenuLeft.makeMenu('4sub0302','4sub03','CISCO/VALVE PowerPlay','read_articles.php?id=108') 
 oCMenuLeft.makeMenu('4sub0303','4sub03','MTU, what difference does it make ?','read_articles.php?id=111') 
 oCMenuLeft.makeMenu('4sub0304','4sub03','Satellite Internet - What is it ?','read_articles.php?id=114') 
-oCMenuLeft.makeMenu('4sub0305','4sub03','Tom\'s Easy Home Networking','read_articles.php?id=113') 
-oCMenuLeft.makeMenu('4sub0306','4sub03','Uncapping, The makings of a Semi-Myth','read_articles.php?id=110') 
+oCMenuLeft.makeMenu('4sub0305','4sub03','Server Based Network Guide','read_articles.php?id=1660') 
+oCMenuLeft.makeMenu('4sub0306','4sub03','Tom\'s Easy Home Networking','read_articles.php?id=113') 
+oCMenuLeft.makeMenu('4sub0307','4sub03','Uncapping, The makings of a Semi-Myth','read_articles.php?id=110') 
     oCMenuLeft.makeMenu('4sub04','top4','General','articles.php?category=52')
-        oCMenuLeft.makeMenu('4sub0401','4sub04','How to create a Backup Batch File','read_articles.php?id=1547') 
+        oCMenuLeft.makeMenu('4sub0401','4sub04','How to Backup using Batch Files','read_articles.php?id=1547') 
 oCMenuLeft.makeMenu('4sub0402','4sub04','Ramdisk Guide','read_articles.php?id=131') 
 oCMenuLeft.makeMenu('4sub0403','4sub04','Windows 2k/XP Tweaks','read_articles.php?id=1404') 
 oCMenuLeft.makeMenu('4sub0404','4sub04','Windows 9x Tweaks','read_articles.php?id=170') 
     oCMenuLeft.makeMenu('4sub05','top4','User Articles','articles.php?category=54')
         oCMenuLeft.makeMenu('4sub0501','4sub05','Cable modem signal levels','read_articles.php?id=1197') 
-oCMenuLeft.makeMenu('4sub0502','4sub05','How DSL Internet Access Works','read_articles.php?id=1413') 
-oCMenuLeft.makeMenu('4sub0503','4sub05','The History of DSL Internet Access','read_articles.php?id=1414') 
+oCMenuLeft.makeMenu('4sub0502','4sub05','Crimson Editor','read_articles.php?id=1698') 
+oCMenuLeft.makeMenu('4sub0503','4sub05','How DSL Internet Access Works','read_articles.php?id=1413') 
+oCMenuLeft.makeMenu('4sub0504','4sub05','The History of DSL Internet Access','read_articles.php?id=1414') 
     oCMenuLeft.makeMenu('4sub06','top4','Quick Reference','articles.php?category=111')
         oCMenuLeft.makeMenu('4sub0601','4sub06','BIOS Error Codes','read_articles.php?id=1576') 
 oCMenuLeft.makeMenu('4sub0602','4sub06','The TCP/IP and OSI Network Models','read_articles.php?id=120') 
@@ -617,15 +637,7 @@ oCMenuLeft.construct()
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td align="center" valign="middle">
-<!-- BEGIN RICH-MEDIA BURST! CODE -->
-<script language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/cb3029a.cgi/v=2.0S/sz=125x125A/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/cb3029a.cgi/v=2.0S/sz=125x125A/79234/RETURN-CODE/JS/"></script>
-<noscript><a href="http://www.burstnet.com/ads/cb3029a-map.cgi/ns/v=2.0S/sz=125x125A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/cb3029a.cgi/ns/v=2.0S/sz=125x125A/" border="0" alt="Click Here"></a>
-</noscript>
-<!-- END BURST CODE --><div id="beacon_30" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.speedguide.net/ads_php/adlog.php?bannerid=30&amp;clientid=18&amp;zoneid=5&amp;source=&amp;block=0&amp;capping=0&amp;cb=87fddd5d87a38f93156cdefb83d04534" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td>
+<a href="http://www.speedguide.net/ads_php/adclick.php?bannerid=106&amp;zoneid=5&amp;source=&amp;dest=http%3A%2F%2Fperformance.toast.net" target="_blank"><img src="http://www.speedguide.net/images/banners/toast/toast_125x125.jpg" width="125" height="125" alt="Toast.net Performance Testing" title="Toast.net Performance Testing" border="0"></a><div id="beacon_106" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.speedguide.net/ads_php/adlog.php?bannerid=106&amp;clientid=67&amp;zoneid=5&amp;source=&amp;block=0&amp;capping=0&amp;cb=ef2230fd87afbbce6684f907fe2b7ffe" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td>
     <td width="5"><img src="/images/spacer_01.gif" width="5" height="5"></td>
   </tr>
 </tbody></table>
@@ -669,7 +681,7 @@ function handleEnterSubmission (evt) {
                   	  <input tabindex="4" name="username" type="text" class="text_med" style="height:16px;width:140px;font-size:10px;font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none;border-top-width:1px;border-left-width:1px;border-bottom-width:1px;border-right-width:1px;border-style:solid;border-color:#000000;" onfocus="if (this.value==' Username') this.value='';" onmouseover="if (this.value==' Username') this.value='';" onmouseout="if (this.value=='') this.value=' Username';" value=" Username" maxlength="255" onkeydown="return handleEnterSubmission(event)">
                   	  <font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" style="font-size:11px">&nbsp;Password:</font><br>
                   	  <input tabindex="5" name="password" type="password" class="text_med" style="height:16px;width:140px;font-size:10px;font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none;border-top-width:1px;border-left-width:1px;border-bottom-width:1px;border-right-width:1px;border-style:solid;border-color:#000000;" onfocus="if (this.value==' Password') this.value='';" onmouseover="if (this.value==' Password') this.value='';" onmouseout="if (this.value=='') this.value=' Password';" value=" Password" maxlength="255" onkeydown="return handleEnterSubmission(event)">
-                  	  <a tabindex="6" href="javascript:document.login.submit();" onclick="javascript://"><img src="/images/buttons/login.gif" width="35" height="17" vspace="5" hspace="2" align="absmiddle" border="0" alt="Login 209.237.238.176"></a><img src="/images/spacer_01.gif" width="5" height="4" align="absmiddle"><a tabindex="7" href="http://forums.speedguide.net/register.php"><img src="/images/buttons/register.gif" width="51" height="17" align="absmiddle" border="0" vspace="5" alt="Register"></a><br>&nbsp;<a href="http://forums.speedguide.net/member.php?s=&amp;action=lostpw"><font color="#FFFFFF" style="font-size:10px;">forgot your password?</font></a>
+                  	  <a tabindex="6" href="javascript:document.login.submit();" onclick="javascript://"><img src="/images/buttons/login.gif" width="35" height="17" vspace="5" hspace="2" align="absmiddle" border="0" alt="Login 209.237.238.180"></a><img src="/images/spacer_01.gif" width="5" height="4" align="absmiddle"><a tabindex="7" href="http://forums.speedguide.net/register.php"><img src="/images/buttons/register.gif" width="51" height="17" align="absmiddle" border="0" vspace="5" alt="Register"></a><br>&nbsp;<a href="http://forums.speedguide.net/login.php?do=lostpw"><font color="#FFFFFF" style="font-size:10px;">forgot your password?</font></a>
                   	</td>
                     
                     </tr>
@@ -747,7 +759,10 @@ function handleEnterSubmission (evt) {
   <tbody><tr>
     <td align="center" valign="middle">
 
-<a href="http://www.speedguide.net/ads_php/adclick.php?bannerid=39&amp;zoneid=2&amp;source=&amp;dest=http%3A%2F%2Fwww.phonearena.com%2F" target="_blank"><img src="http://www.speedguide.net/images/banners/phonearena/phonearena_4.gif" width="120" height="60" alt="Affiliate site" title="Affiliate site" border="0"></a><div id="beacon_39" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.speedguide.net/ads_php/adlog.php?bannerid=39&amp;clientid=24&amp;zoneid=2&amp;source=&amp;block=0&amp;capping=0&amp;cb=f84bda63ae790881af0e0edf72260a2f" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td>
+<table width="120" height="60">
+<tbody><tr><td valign="middle">
+<a target="_blank" href="http://www.pcpitstop.com"><img src="http://www.pcpitstop.com/images/pcpitstoplink4.gif" alt="Pull into PC Pitstop for a free PC tune-up!" width="120" height="46" border="0"></a>
+</td></tr></tbody></table><div id="beacon_88" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.speedguide.net/ads_php/adlog.php?bannerid=88&amp;clientid=49&amp;zoneid=2&amp;source=&amp;block=0&amp;capping=0&amp;cb=cb773b7961c5f73a826c8b43a144b1e6" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></td>
     <td width="7"><img src="/images/spacer_01.gif" width="7" height="7"></td>
   </tr>   
 </tbody></table>
@@ -877,7 +892,7 @@ questions and comments to:<strong> <a href="mailto:webmaster@speedguide.net" cla
         <tbody><tr>
           <td align="left" valign="bottom" class="text_small_white">
 			<font color="#9FAAAC">
-            exec. time: 0.05022 s            </font>
+            exec. time: 0.06972 s            </font>
           </td>
           <td align="right" valign="middle" class="text_med_white">
 			<a href="copyright.php"><font color="#FFFFFF"><u>Copyright © 1998 - 2005 Speed Guide, Inc.</u></font></a>
@@ -889,5 +904,5 @@ questions and comments to:<strong> <a href="mailto:webmaster@speedguide.net" cla
     </td>
   </tr> 
 </tbody> 
-</table><div class="clbLevel0border" id="oCMenuLeft_top1_0" style="z-index: 102; clip: rect(0px, 151px, 20px, 0px); width: 151px; height: 20px; left: 5px; top: 156px; visibility: visible;"><div class="clbLevel0" id="oCMenuLeft_top1" style="z-index: 104; clip: rect(0px, 149px, 18px, 0px); width: 149px; height: 18px; left: 1px; top: 1px;">&nbsp;Main</div><div class="clCMAbs" id="oCMenuLeft_top1_a" style="left: 140px; top: 5.5px; z-index: 122; visibility: visible;"><img alt="" height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif"></div></div><div class="clbLevel0border" id="oCMenuLeft_top2_0" style="z-index: 103; clip: rect(0px, 151px, 20px, 0px); width: 151px; height: 20px; left: 5px; top: 174px; visibility: visible;"><div class="clbLevel0" id="oCMenuLeft_top2" style="z-index: 105; clip: rect(0px, 149px, 18px, 0px); width: 149px; height: 18px; left: 1px; top: 1px;">&nbsp;Broadband</div><div class="clCMAbs" id="oCMenuLeft_top2_a" style="left: 140px; top: 5.5px; z-index: 123; visibility: visible;"><img alt="" height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif"></div></div><div class="clbLevel0border" id="oCMenuLeft_top3_0" style="z-index: 104; clip: rect(0px, 151px, 20px, 0px); width: 151px; height: 20px; left: 5px; top: 192px; visibility: visible;"><div class="clbLevel0" id="oCMenuLeft_top3" style="z-index: 106; clip: rect(0px, 149px, 18px, 0px); width: 149px; height: 18px; left: 1px; top: 1px;">&nbsp;Reviews</div><div class="clCMAbs" id="oCMenuLeft_top3_a" style="left: 140px; top: 5.5px; z-index: 124; visibility: visible;"><img alt="" height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif"></div></div><div class="clbLevel0border" id="oCMenuLeft_top4_0" style="z-index: 105; clip: rect(0px, 151px, 20px, 0px); width: 151px; height: 20px; left: 5px; top: 210px; visibility: visible;"><div class="clbLevel0" id="oCMenuLeft_top4" style="z-index: 107; clip: rect(0px, 149px, 18px, 0px); width: 149px; height: 18px; left: 1px; top: 1px;">&nbsp;Articles</div><div class="clCMAbs" id="oCMenuLeft_top4_a" style="left: 140px; top: 5.5px; z-index: 125; visibility: visible;"><img alt="" height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif"></div></div><div class="clbLevel0border" id="oCMenuLeft_top6_0" style="z-index: 106; clip: rect(0px, 151px, 20px, 0px); width: 151px; height: 20px; left: 5px; top: 228px; visibility: visible;"><div class="clbLevel0" id="oCMenuLeft_top6" style="z-index: 108; clip: rect(0px, 149px, 18px, 0px); width: 149px; height: 18px; left: 1px; top: 1px;">&nbsp;Forums</div><div class="clCMAbs" id="oCMenuLeft_top6_a" style="left: 140px; top: 5.5px; z-index: 126; visibility: visible;"><img alt="" height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif"></div></div><div class="clbLevel0border" id="oCMenuLeft_top7_0" style="z-index: 107; clip: rect(0px, 151px, 20px, 0px); width: 151px; height: 20px; left: 5px; top: 246px; visibility: visible;"><div class="clbLevel0" id="oCMenuLeft_top7" style="z-index: 109; clip: rect(0px, 149px, 18px, 0px); width: 149px; height: 18px; left: 1px; top: 1px;">&nbsp;Information</div><div class="clCMAbs" id="oCMenuLeft_top7_a" style="left: 140px; top: 5.5px; z-index: 127; visibility: visible;"><img alt="" height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif"></div></div><div class="clLevel1border" id="oCMenuLeft_1_0" style="z-index: 108; overflow: hidden;"><div class="clbLevel1" id="oCMenuLeft_1sub01" style="z-index: 110; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub02" style="z-index: 111; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub03" style="z-index: 112; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenuLeft_a1_0" style="z-index: 138;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clbLevel1" id="oCMenuLeft_1sub04" style="z-index: 113; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub05" style="z-index: 114; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenuLeft_a1_1" style="z-index: 140;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clbLevel1" id="oCMenuLeft_1sub06" style="z-index: 115; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub07" style="z-index: 116; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenuLeft_a1_2" style="z-index: 142;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clbLevel1" id="oCMenuLeft_1sub08" style="z-index: 117; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub09" style="z-index: 118; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub10" style="z-index: 119; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenuLeft_a1_3" style="z-index: 144;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clCMAbs" id="oCMenuLeft_a1_4" style="z-index: 146;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clCMAbs" id="oCMenuLeft_a1_5" style="z-index: 148;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div></div><div class="clbLevel1border" id="oCMenuLeft_2_0" style="z-index: 118; overflow: hidden;"><div class="clbLevel1" id="oCMenuLeft_1sub0301" style="z-index: 120; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0302" style="z-index: 121; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0303" style="z-index: 122; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0304" style="z-index: 123; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0305" style="z-index: 124; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0306" style="z-index: 125; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0307" style="z-index: 126; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0308" style="z-index: 127; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0309" style="z-index: 128; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0310" style="z-index: 129; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0311" style="z-index: 130; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenuLeft_a2_0" style="z-index: 148;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clbLevel1" id="oCMenuLeft_2sub05012" style="z-index: 131; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_2sub05013" style="z-index: 132; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_2sub05014" style="z-index: 133; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_2sub05015" style="z-index: 134; left: 1px; top: 1px;"></div></div><div class="clbLevel1border" id="oCMenuLeft_3_0" style="z-index: 133; overflow: hidden;"><div class="clbLevel1" id="oCMenuLeft_2sub020301" style="z-index: 135; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_2sub020302" style="z-index: 136; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_2sub020303" style="z-index: 137; left: 1px; top: 1px;"></div></div>
+</table><div class="clbLevel0border" id="oCMenuLeft_top1_0" style="z-index: 102; clip: rect(0px, 151px, 20px, 0px); width: 151px; height: 20px; left: 5px; top: 156px; visibility: visible;"><div class="clbLevel0" id="oCMenuLeft_top1" style="z-index: 104; clip: rect(0px, 149px, 18px, 0px); width: 149px; height: 18px; left: 1px; top: 1px;">&nbsp;Main</div><div class="clCMAbs" id="oCMenuLeft_top1_a" style="left: 140px; top: 5.5px; z-index: 122; visibility: visible;"><img alt="" height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif"></div></div><div class="clbLevel0border" id="oCMenuLeft_top2_0" style="z-index: 103; clip: rect(0px, 151px, 20px, 0px); width: 151px; height: 20px; left: 5px; top: 174px; visibility: visible;"><div class="clbLevel0" id="oCMenuLeft_top2" style="z-index: 105; clip: rect(0px, 149px, 18px, 0px); width: 149px; height: 18px; left: 1px; top: 1px;">&nbsp;Broadband</div><div class="clCMAbs" id="oCMenuLeft_top2_a" style="left: 140px; top: 5.5px; z-index: 123; visibility: visible;"><img alt="" height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif"></div></div><div class="clbLevel0border" id="oCMenuLeft_top3_0" style="z-index: 104; clip: rect(0px, 151px, 20px, 0px); width: 151px; height: 20px; left: 5px; top: 192px; visibility: visible;"><div class="clbLevel0" id="oCMenuLeft_top3" style="z-index: 106; clip: rect(0px, 149px, 18px, 0px); width: 149px; height: 18px; left: 1px; top: 1px;">&nbsp;Reviews</div><div class="clCMAbs" id="oCMenuLeft_top3_a" style="left: 140px; top: 5.5px; z-index: 124; visibility: visible;"><img alt="" height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif"></div></div><div class="clbLevel0border" id="oCMenuLeft_top4_0" style="z-index: 105; clip: rect(0px, 151px, 20px, 0px); width: 151px; height: 20px; left: 5px; top: 210px; visibility: visible;"><div class="clbLevel0" id="oCMenuLeft_top4" style="z-index: 107; clip: rect(0px, 149px, 18px, 0px); width: 149px; height: 18px; left: 1px; top: 1px;">&nbsp;Articles</div><div class="clCMAbs" id="oCMenuLeft_top4_a" style="left: 140px; top: 5.5px; z-index: 125; visibility: visible;"><img alt="" height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif"></div></div><div class="clbLevel0border" id="oCMenuLeft_top6_0" style="z-index: 106; clip: rect(0px, 151px, 20px, 0px); width: 151px; height: 20px; left: 5px; top: 228px; visibility: visible;"><div class="clbLevel0" id="oCMenuLeft_top6" style="z-index: 108; clip: rect(0px, 149px, 18px, 0px); width: 149px; height: 18px; left: 1px; top: 1px;">&nbsp;Forums</div><div class="clCMAbs" id="oCMenuLeft_top6_a" style="left: 140px; top: 5.5px; z-index: 126; visibility: visible;"><img alt="" height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif"></div></div><div class="clbLevel0border" id="oCMenuLeft_top7_0" style="z-index: 107; clip: rect(0px, 151px, 20px, 0px); width: 151px; height: 20px; left: 5px; top: 246px; visibility: visible;"><div class="clbLevel0" id="oCMenuLeft_top7" style="z-index: 109; clip: rect(0px, 149px, 18px, 0px); width: 149px; height: 18px; left: 1px; top: 1px;">&nbsp;Information</div><div class="clCMAbs" id="oCMenuLeft_top7_a" style="left: 140px; top: 5.5px; z-index: 127; visibility: visible;"><img alt="" height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif"></div></div><div class="clLevel1border" id="oCMenuLeft_1_0" style="z-index: 108; overflow: hidden;"><div class="clbLevel1" id="oCMenuLeft_1sub01" style="z-index: 110; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenuLeft_a1_0" style="z-index: 138;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clbLevel1" id="oCMenuLeft_1sub02" style="z-index: 111; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub03" style="z-index: 112; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenuLeft_a1_1" style="z-index: 140;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clbLevel1" id="oCMenuLeft_1sub04" style="z-index: 113; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub05" style="z-index: 114; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenuLeft_a1_2" style="z-index: 142;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clbLevel1" id="oCMenuLeft_1sub06" style="z-index: 115; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub07" style="z-index: 116; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenuLeft_a1_3" style="z-index: 144;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clbLevel1" id="oCMenuLeft_1sub08" style="z-index: 117; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub09" style="z-index: 118; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub10" style="z-index: 119; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenuLeft_a1_4" style="z-index: 146;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clCMAbs" id="oCMenuLeft_a1_5" style="z-index: 148;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div></div><div class="clbLevel1border" id="oCMenuLeft_2_0" style="z-index: 118; overflow: hidden;"><div class="clbLevel1" id="oCMenuLeft_1sub0101" style="z-index: 120; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0302" style="z-index: 121; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0303" style="z-index: 122; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0304" style="z-index: 123; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0305" style="z-index: 124; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0306" style="z-index: 125; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0307" style="z-index: 126; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0308" style="z-index: 127; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0309" style="z-index: 128; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0310" style="z-index: 129; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_1sub0311" style="z-index: 130; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenuLeft_a2_0" style="z-index: 148;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clCMAbs" id="oCMenuLeft_a2_1" style="z-index: 150;"><img height="9" width="7" src="http://www.speedguide.net/images/buttons/btn_y_arrow_7x9a.gif" alt=""></div><div class="clbLevel1" id="oCMenuLeft_2sub05012" style="z-index: 131; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_2sub05013" style="z-index: 132; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_2sub05014" style="z-index: 133; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_2sub05015" style="z-index: 134; left: 1px; top: 1px;"></div></div><div class="clbLevel1border" id="oCMenuLeft_3_0" style="z-index: 133; overflow: hidden;"><div class="clbLevel1" id="oCMenuLeft_2sub020201" style="z-index: 135; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_2sub020302" style="z-index: 136; left: 1px; top: 1px;"></div><div class="clbLevel1" id="oCMenuLeft_2sub020303" style="z-index: 137; left: 1px; top: 1px;"></div></div>
 </body></html>
