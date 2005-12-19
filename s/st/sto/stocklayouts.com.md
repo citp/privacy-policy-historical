@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the stocklayouts.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607014158id_/http%3A//www.stocklayouts.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocklayouts.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219014818id_/http%3A//stocklayouts.com/Privacy.aspx) for the most accurate reproduction.*
 
 # StockLayouts Privacy Policy
 
-|  | Privacy Policy  
+| 
+
+| Privacy Policy  
 ---  
-   
 The following Privacy Policy applies to the stocklayouts.com website.  
    
 **StockLayouts Privacy Policy for the Internet.**  
@@ -47,7 +48,7 @@ StockLayouts LLC uses reasonable precautions to keep your personal information s
    
 **Policy Regarding Minors.**  
    
-We do not intend to collect personal information from anyone under the age of 18\. If you are under 18, you should not enter information on this website and should ask a parent to do so for you.  
+We do not intend to collect personal information from anyone under the age of 18. If you are under 18, you should not enter information on this website and should ask a parent to do so for you.  
    
 **Notice to European Union Member Citizens and Residents:**  
    
