@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jamesray.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408081247id_/http%3A//jamesray.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesray.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219191015id_/http%3A//jamesray.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# James Ray International :: Accelerating personal performance and spiritual growth.
+# James Ray International :: Create wealth in all areas of your life: Financial, Relational, Intellectual, Physical and Spiritual. Practical results through spiritual growth.
 
   
 
