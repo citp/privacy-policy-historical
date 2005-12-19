@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306114357id_/http%3A//baliwww.com/hotel/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220001526id_/http%3A//baliwww.com/hotel/policy.html) for the most accurate reproduction.*
 
-# Bali Indonesia Travel Hotel Villa Accommodation Portal
+# Bali Hotel Bali Villa Accommodation Bali Travel Indonesia Portal
 
   
 Access Bali Online, which is sister company of ABL Tours & Travel Ltd., committed to safeguarding your privacy online. Even when you visit us as a visitor and or general user, we stay give our high commitment to make you feel safe and free. In order to contact us, for instance, we provide you with various safe ways which you can prefer and use according to your own conditions. All are in safe and fair way. Please read the following  
@@ -41,4 +41,5 @@ The following sites are included and covered with and into this Privacy Policy :
 [http://asianwww.com](http://asianwww.com/) or [http://asianwww.com](http://asianwww.com/) and or pages under its. 
 
 **More About Privacy**  
-More information about this Privacy Policy could be asked directly to our [President Director](http://baliwww.com/index/about/contact.html) or via voice at (62-361) 731520 or 081-2391-2002.
+More information about this Privacy Policy could be asked directly to our [President Director](http://baliwww.com/index/about/contact.html) ([Yahoo! Messenger](ymsgr:sendIM?tanas_aramuk "Click to launch Yahoo! 
+Messenger")) or via voice at (62-361) 731520 or 081-2391-2002.
