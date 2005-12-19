@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the taxact.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519073456id_/http%3A//www.taxact.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxact.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219042711id_/http%3A//www.taxact.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # TaxACT Privacy Policy Statement
-
-| 
 
 ### www.taxact.com is the web site of 2nd Story Software, Inc.
 
@@ -14,7 +12,7 @@ Cedar Rapids, IA 52402
 Or you can reach us by telephone at 319-373-3600  
 Or you can reach us by fax at 319-447-4674
 
-[](https://www.truste.org/ivalidate.php?url=www.taxact.com)We, at 2nd Story Software, respect your privacy and the confidentiality of your personal information. Our company's resources and entire staff are fully committed to safeguarding your personal data by ensuring that the highest security and other precautionary measures are in place to protect your non-public information. That is why we do not share your information with third parties, affiliates or partners. We only collect, store and use your personal information for defined purposes. The purposes include fulfilling orders, supplying service and support, and notifying you of new/enhanced products and services.
+[](http://www.truste.org/ivalidate.php?url=www.taxact.com&sealid=101)We, at 2nd Story Software, respect your privacy and the confidentiality of your personal information. Our company's resources and entire staff are fully committed to safeguarding your personal data by ensuring that the highest security and other precautionary measures are in place to protect your non-public information. That is why we do not share your information with third parties, affiliates or partners. We only collect, store and use your personal information for defined purposes. The purposes include fulfilling orders, supplying service and support, and notifying you of new/enhanced products and services.
 
 2nd Story Software is committed to protecting your privacy and data. At any time you may contact 2nd Story Software to request what information you have given us and request correction or deletion. Our goal is to ensure the highest levels of security and confidentiality.
 
