@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameinformer.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403203850id_/http%3A//www.gameinformer.com/OtherPages/BottomNav/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameinformer.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220003707id_/http%3A//www.gameinformer.com/OtherPages/BottomNav/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Game Informer Online
 
