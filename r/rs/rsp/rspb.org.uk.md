@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418054618id_/http%3A//www.rspb.org.uk/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219202555id_/http%3A//www.rspb.org.uk/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - The Royal Society for the Protection of Birds
 
@@ -10,11 +10,11 @@
 
 | 
 
-The RSPB is committed to protecting your privacy and security. Whenever you provide personal information, we will treat that information in accordance with this policy, current UK Data Protection legislation and Internet best practice.
+The RSPB is committed to protecting your privacy and security. Whenever you provide personal information, we will treat that information in accordance with this policy, current UK Data Protection legislation and Internet best practice. 
 
- **Data protection**  
+**Data protection**  
 
-You can use almost all the features of this site without disclosing any personal information. A few optional features of this site, such as membership enrolment forms, ask you to provide some personal information (e.g. name & address, e-mail address). This information will be used only by RSPB and RSPB Sales Limited - we never sell your details to anyone else. If we wish to use your personal information for an additional purpose, we will always ask you to agree at the point of collection. If you have already supplied us with personal information, you can change your instructions at any time.   
+You can use almost all the features of this site without disclosing any personal information. A few optional features of this site, such as membership enrolment forms, ask you to provide some personal information (e.g. name & address, e-mail address). This information will be used only by RSPB and RSPB Sales Limited - we never sell your details to anyone else. We will analyse information gathered from the website in an effort to determine which communications are most effective, in order to reduce RSPB administration costs and increase funds available for conservation.  If we wish to use your personal information for an additional purpose, we will always ask you to agree at the point of collection. If you have already supplied us with personal information, you can change your instructions at any time.   
 
  **Users aged under 16**  
 
