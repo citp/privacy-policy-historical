@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the athensams.net privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325102422id_/http%3A//www.athensams.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athensams.net privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219161942id_/http%3A//www.athensams.net/privacypolicy.html) for the most accurate reproduction.*
 
-# Eduserv Athens
+# Privacy Policy
 
 Privacy Policy
 
@@ -14,7 +14,7 @@ Two types of cookies are used by Eduserv Athens:
 
 **Session Cookies** which are temporary cookies that remain in the cookie file of your browser until you close your browser session. These are used for Athens single sign-on and have a lifetime of 8 hours.
 
-**Persistent cookies** which remain in the cookie file of your browser until they are deleted. These are used in Athens Devolved Authentication to route the user to the login point for his home organisation. They have a lifetime of 18 months.
+**Persistent cookies** which remain in the cookie file of your browser until they are deleted. These are used in Athens Devolved Authentication to route the user to the login point for his home organisation. They have a lifetime of 5 years.
 
 Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. None of the Athens cookies can be used by themselves to identify an individual.
 
