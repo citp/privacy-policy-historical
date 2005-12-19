@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamasandpapas.com privacy policy that was archived on 2005-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050316024523id_/http%3A//www.mamasandpapas.com/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasandpapas.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219095115id_/http%3A//www.mamasandpapas.com/privacy/privacy.htm) for the most accurate reproduction.*
 
 # Mamas & Papas - The leading brand within the nursery industry
 
