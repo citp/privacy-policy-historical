@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verian.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307033750id_/http%3A//www.verian.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verian.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219121341id_/http%3A//verian.com/Privacy.htm) for the most accurate reproduction.*
 
 # Verian Technologies - Spend Management for Your Enterprise
 
