@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuradio.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610105215id_/http%3A//accuradio.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuradio.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219014935id_/http%3A//accuradio.com/privacy.asp) for the most accurate reproduction.*
 
 # AccuRadio Help
 
@@ -18,3 +18,13 @@ We sometimes use the non-personally identifiable information that we collect to 
 Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
 
 If you have any questions or concerns about the AccuRadio online policy for this site or its implementation you may contact us at [feedback@accuradio.com](mailto:feedback@accuradio.com). 
+
+| 
+
+**Third Party Advertising**  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+
+This site uses the services of The Fifth Network, Inc. for the serving and / or targeting of ads, promotions and other marketing messages. To do this, The Fifth Network, Inc. collects anonymous data typically through the use of cookies. 
