@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookit.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305222307id_/http%3A//www.bookit.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookit.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219143413id_/http%3A//www.bookit.com/privacy_policy.php) for the most accurate reproduction.*
 
 # BookIt.com™ Book Online: You know what to do.™
 
@@ -27,4 +27,12 @@ For our guests, privacy is of the utmost concern. With the rise in identity thef
 \- If you have questions or suggestions, please write to **[CustomerCare@BookIt.com](mailto:customercare@BookIt.com)**  
   
 ©2004 BookIt.com.   
-Privacy Policy above is for all BookIt.com generated sites. 
+Privacy Policy above is for all BookIt.com generated sites.   
+  
+| 
+
+  © 2005 BookIt.com. All Rights Reserved. | [Privacy Policy](http://www.bookit.com/privacy_policy.php) | [Terms Of Use](http://www.bookit.com/terms_of_use.php) | [Add Your Hotel](http://www.bookit.com/add_your_hotel.php) | [BookIt.com Cities](http://www.bookit.com/list.php)  
+  Florida Seller of Travel Registration #ST33468
+
+|   
+---|---|---
