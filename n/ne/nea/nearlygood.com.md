@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nearlygood.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305051407id_/http%3A//www.nearlygood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearlygood.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219162336id_/http%3A//www.nearlygood.com/privacy.html) for the most accurate reproduction.*
 
 # NearlyGood.com - Videos - Funny Videos, Interesting Movies & more.
 
