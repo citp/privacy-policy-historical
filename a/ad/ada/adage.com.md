@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adage.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528131825id_/http%3A//www.adage.com/page.cms%3FpageId%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adage.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219215632id_/http%3A//www.adage.com/page.cms%3FpageId%3D3) for the most accurate reproduction.*
 
 # Privacy Statement 3
 
