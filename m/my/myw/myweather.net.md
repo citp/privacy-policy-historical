@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myweather.net privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404151609id_/http%3A//www.myweather.net/policy/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myweather.net privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219234656id_/http%3A//www.myweather.net/policy/Privacy.html) for the most accurate reproduction.*
 
 # MyWeather LLC
 
@@ -9,7 +9,9 @@
 
 **Effective** **6/30/04** ****
 
-### **Most Recent Revision:   ****8/31/04** ****
+### **Most Recent Revision:   11/3/05**
+
+Para leer la Política de Privacidad en Español, [ haga clic aquí](https://web.archive.org/web/20051219234656id_/http%3A//www.myweather.net/Policy/%7Bold%7Dprivacy_sp.html).
 
 We take your privacy very seriously.  MyWeather LLC is committed to protecting your privacy while accessing our services or content.  MyWeather is a supplier of content to the web site by which you’re accessing our services, and this policy applies only to content and services supplied and supported directly by MyWeather LLC.  We work hard to integrate our services with our partners’ web sites to give you a great user experience, but such entities are not bound by MyWeather’s privacy policy.  We can therefore make no warranties about the policies governing our partners’ sites in general - please refer to their privacy policy for additional information.
 
@@ -17,7 +19,7 @@ MyWeather, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an indepen
 
 If you have questions or concerns regarding this statement, you should first contact our Privacy Department by email at [privacy@myweather.net](mailto:privacy@myweather.net). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [http://truste.org/consumers/watchdog_complaint.php](http://truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site or information collected by our co-branded partner sites.
 
 **The Information We Collect:**
 
@@ -50,6 +52,10 @@ This privacy statement covers the use of cookies by [www.myweather.net](http://w
 We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us track the effectiveness of our content.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages/emails and are about the size of the period at the end of this sentence. 
 
 We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients.  This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.  We tie the information gathered by clear gifs to our customers’ personally identifiable information. If you would like to opt-out of these emails, please see “Choice and Opt-out.” 
+
+** "Wrapped" web pages**
+
+Our web pages are framed by our partner website's content in order to provide you a seamless website experience.  The content on the wrapper is not served by us, and therefore not covered under this privacy policy. 
 
 ### **Log Files**
 
@@ -85,7 +91,7 @@ From time-to-time your registration with us may provide you the opportunity to p
 
 **How We Share Your Information:**
 
-MyWeather will not sell or otherwise transfer your personally identifiable information to a third party for their sole use.  Your information may be shared with the web site partner by whom you’ve accessed our services. 
+MyWeather will not sell or otherwise transfer your personally identifiable information to a third party for their sole use.  Your information may be shared with the web site partner by whom you’ve accessed our services upon request for contests or data.  When we share your information, we have agreements with our partners stating that they not sell or transfer your personally identifiable information to third parties.
 
 MyWeather may share your information time to time with reputable third parties, to support basic business functions (“Third Party Processors”).  These Third Party Processors may include, for example, companies that operate our billing and fulfillment functions, or an online store. These Third Party Processors may organize, manage, administer, process, and/or analyze data on our behalf.  Third Party Processors may correct or update such data as needed.  MyWeather will work to ensure that in such arrangements all data is handled securely, and that confidentiality is maintained.
 
@@ -121,8 +127,8 @@ Should you have other questions or concerns about these privacy policies, please
 
 MyWeather LLC
 
-P.O. Box 45653
+401 Charmany Drive, Suite 200
 
-Madison,  WI 53744-5653
+Madison,  WI 53719
 
 (608) 441-0400
