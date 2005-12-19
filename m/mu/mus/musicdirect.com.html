@@ -1,549 +1,693 @@
-<!--The following is the downloaded HTML source of the musicdirect.com privacy policy that was archived on 2005-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050527201933id_/http%3A//www.amusicdirect.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musicdirect.com privacy policy that was archived on 2005-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219164408id_/http%3A//www.amusicdirect.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<script language="javascript" src="/scripts/mdcommon.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Music Direct - Privacy Policy</title>
+<link href="/mdstyle.css" rel="stylesheet" type="text/css">
+<title>musicdirect - Shop By Category</title>
+<script language="JavaScript" src="/scripts/mdcommon.js"></script>
+<script src="/__utm.js" type="text/javascript"></script>
+<script language="javascript" src="/scripts/countrycodes.js"></script>
+<script language="JavaScript">
+<!--
+var bjsa = true;
+if (bjsa){
+    window.setTimeout("imgrl();", 450000);
+}
+//-->
+</script>
+
+<script language="Javascript"><!--
+var defcon = 'us';
+var aCaProvinces = new Array();
+ var szState = "";
+function State(code,name)
+{
+    this.code = code;
+    this.name=name;
+    return this;
+}
+
+aUsStates = new Array();
+aUsStates[0] = new State("AL","Alabama");
+aUsStates[1] = new State("AK","Alaska");
+aUsStates[2] = new State("AZ","Arizona");
+aUsStates[3] = new State("AR","Arkansas");
+aUsStates[4] = new State("CA","California");
+aUsStates[5] = new State("CO","Colorado");
+aUsStates[6] = new State("CT","Connecticut");
+aUsStates[7] = new State("DE","Delaware");
+aUsStates[8] = new State("DC","District of Columbia");
+aUsStates[9] = new State("FL","Florida");
+aUsStates[10] = new State("GA","Georgia");
+aUsStates[11] = new State("HI","Hawaii");
+aUsStates[12] = new State("ID","Idaho");
+aUsStates[13] = new State("IL","Illinois");
+aUsStates[14] = new State("IN","Indiana");
+aUsStates[15] = new State("IA","Iowa");
+aUsStates[16] = new State("KS","Kansas");
+aUsStates[17] = new State("KY","Kentucky");
+aUsStates[18] = new State("LA","Louisiana");
+aUsStates[19] = new State("ME","Maine");
+aUsStates[20] = new State("MD","Maryland");
+aUsStates[21] = new State("MA","Massachusetts");
+aUsStates[22] = new State("MI","Michigan");
+aUsStates[23] = new State("MN","Minnesota");
+aUsStates[24] = new State("MS","Mississippi");
+aUsStates[25] = new State("MO","Missouri");
+aUsStates[26] = new State("MT","Montana");
+aUsStates[27] = new State("NE","Nebraska");
+aUsStates[28] = new State("NV","Nevada");
+aUsStates[29] = new State("NH","New Hampshire");
+aUsStates[30] = new State("NJ","New Jersey");
+aUsStates[31] = new State("NM","New Mexico");
+aUsStates[32] = new State("NY","New York");
+aUsStates[33] = new State("NC","North Carolina");
+aUsStates[34] = new State("ND","North Dakota");
+aUsStates[35] = new State("OH","Ohio");
+aUsStates[36] = new State("OK","Oklahoma");
+aUsStates[37] = new State("OR","Oregon");
+aUsStates[38] = new State("PA","Pennsylvania");
+aUsStates[39] = new State("RI","Rhode Island");
+aUsStates[40] = new State("SC","South Carolina");
+aUsStates[41] = new State("SD","South Dakota");
+aUsStates[42] = new State("TN","Tennessee");
+aUsStates[43] = new State("TX","Texas");
+aUsStates[44] = new State("UT","Utah");
+aUsStates[45] = new State("VT","Vermont");
+aUsStates[46] = new State("VA","Virginia");
+aUsStates[47] = new State("WA","Washington");
+aUsStates[48] = new State("WV","West Virginia");
+aUsStates[49] = new State("WI","Wisconsin");
+aUsStates[50] = new State("WY","Wyoming");
+
+
+var gsLblPostCode = "Postal Code";
+function initUsStateList()
+{	
+	var sDM = '<select name="dmState" size="1" onchange="onChangeState()">';
+    for (var i = 0; i < aUsStates.length; i++){
+        var o = aUsStates[i];
+       	sDM += '<option value="' +o.code+ '">'+o.name+'</option>';
+    }
+    sDM += '</select>';
+    gsLblPostCode = "ZIP Code";
+   	return sDM;
+}
+
+aCaProvinces = new Array();
+aCaProvinces[0] = new State("ab","Alberta");
+aCaProvinces[1] = new State("bc","British Columbia");
+aCaProvinces[2] = new State("mb","Manitoba");
+aCaProvinces[3] = new State("nb","New Brunswick");
+aCaProvinces[4] = new State("nf","Newfoundland");
+aCaProvinces[5] = new State("nt","Northwest Territory");
+aCaProvinces[6] = new State("ns","Nova Scotia");
+aCaProvinces[7] = new State("nu","Nunavut Territory");
+aCaProvinces[8] = new State("on","Ontario");
+aCaProvinces[9] = new State("pe","Prince Edward Island");
+aCaProvinces[10] = new State("qc","Quebec");
+aCaProvinces[11] = new State("sk","Saskatchewan");
+aCaProvinces[12] = new State("yt","Yukon Territory");
+
+
+function onChangeState()
+{
+    var f = document.forms.frmCatalogRequest;
+    var n = f.dmState.options.selectedIndex;
+    var o = f.dmState.options[n];
+    f.sState.value = o.text;
+}
+
+function onChangeState2()
+{
+    var f = document.forms.frmCatalogRequest;
+    f.sState.value = f.txtState.value;
+}
+
+function initCaTerritoryList()
+{
+    var sDM = '<select name="dmState" size="1" onchange="onChangeState()">';
+    for (var i = 0; i < aCaProvinces.length; i++){
+        var o = aCaProvinces[i];
+        sDM += '<option value="' +o.code+ '">'+o.name+'</option>';
+    }
+    sDM += '</select>';
+	gsLblPostCode = "Postal Code";
+	return sDM;
+}
+
+function initDefaultStateBox()
+{
+
+	sDM = '<font face="Arial,Helvetica" size="2"><p><input type="text" name="txtState" value="' +szState+ '"size="26" onChange="onChangeState2()"></font></p>';
+    szState = "";
+	gsLblPostCode = "ZIP or Postal Code";
+	return sDM;
+}
+
+
+
+function onChgCountry()
+{
+    var f = document.forms.frmCatalogRequest;
+    var n = f.dmCountry.options.selectedIndex;
+    var o = f.dmCountry.options[n];
+    if (o.value == "us"){
+        initUsStateList();
+        
+    }
+    else if (o.value == "ca"){
+        initCaTerritoryList();
+    }
+    else{
+        initDefaultStateBox();
+    }
+}
+
+var sInitialCountry="us";
+var sFocusInit = "txtName";
+
+function init()
+{
+    var f = document.forms.frmCatalogRequest;
+	if (sFocusInit != ""){
+        eval("f." +sFocusInit+ ".focus();");
+    }
+
+    if (sFocusInit == "txtState"){
+        var s = document.forms.frmCatalogRequest.dmState;
+        s+="";
+        if (s != "undefined"){
+            document.forms.frmCatalogRequest.dmState.focus();
+        }
+    }
+}
+
+function onReset()
+{
+    init();
+    var f = document.forms.frmCatalogRequest;
+    f.txtName.value = "";
+    f.txtAddress.value = "";
+    f.txtCity.value = "";
+    f.txtPostCode.value = "";
+    var o = f.txtState;
+    var so = o+"";
+    if (so!="undefined") o.value = "";
+
+  return false;
+}
+
+
+
+function chkUsZIP(sZIP) { sZIP += ""; var len = sZIP.length; if ((len != 5) && (len != 10)){ return false; } if (len == 10){ if (sZIP.charAt(5) != '-'){ return false; } var sDash4 = sZIP.substring(6); for (var i = 0; i < 4; i++){ var ch = sDash4.charAt(i); if (-1 == "0123456789".indexOf(ch)){ return false; } }   len = 5; sZIP.length = 5; } for (var i = 0; i < len; i++){ var ch = sZIP.charAt(i); if (-1 == "0123456789".indexOf(ch)){ return false; } } if (sZIP == "00000" || sZIP == "99999"){ return false; } return true; }
+
+function checkForm()
+{
+
+    var f = document.forms.frmCatalogRequest;
+    
+	if (f.txtName.value == ""){
+        alert("Please enter your name.");
+        f.txtName.focus();
+        return false;
+    }
+    if (f.txtAddress.value == ""){
+        alert("Please enter your address.");
+        f.txtAddress.focus();
+        return false;
+    }
+    if (f.txtCity.value == ""){
+        alert("Please enter your city.");
+        f.txtCity.focus();
+        return false;
+    }    
+    
+    var oCountry = f.dmCountry.options[f.dmCountry.options.selectedIndex];
+    var sCountry = oCountry.value; 
+	if (sCountry == "") {
+		alert("Please enter your country.");
+		f.dmCountry.focus();
+		return false;
+		}
+    if (sCountry == "us"){
+        if (f.sState.value == ""){
+            alert("Please enter your state.");
+            f.txtState.focus();
+            return false;
+        }
+        var sZIP = f.txtPostCode.value;
+        if (sZIP == ""){
+            alert("Please enter your ZIP code");
+            f.txtPostCode.focus();
+            return false;
+        }
+        if (!chkUsZIP(sZIP)){
+            alert("Please enter a valid U.S. ZIP code");
+            f.txtPostCode.focus();
+            return false;
+        }
+    }
+    else if (sCountry == "ca"){
+        if (f.sState.value == ""){
+            alert("Please enter your province.");
+            f.txtState.focus();
+            return false;
+        }
+        if (f.txtPostCode.value == ""){
+            alert("Please enter your " + gsLblPostCode);
+            f.txtPostCode.focus();
+            return false;
+        }
+    }
+    else{
+        if (f.txtPostCode.value == ""){
+            alert("Please enter your " + gsLblPostCode);
+            f.txtPostCode.focus();
+            return false;
+        }
+    }
+
+  return true;
+}
+function onCCountry(val)
+{
+	var d = document.frmCatalogRequest;
+	d.method = "GET";
+	d.crqrp.value = "";
+	d.action="default.asp?c=" + val;
+	d.submit();
+
+}
+
+
+//-->
+</script>
+<script language="JavaScript" src="/script.js"></script>
+<script src="/__utm.js" type="text/javascript"></script>
 <style type="text/css">
 <!--
-body {
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
+.style1 {
+	color: #666666;
+	font-weight: bold;
 }
 -->
 </style>
-<link href="http://www.amusicdirect.com/images/mdstyle.css" rel="stylesheet" type="text/css">
 </head>
-
 <body>
 <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td colspan="4"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td><table cellspacing="0" cellpadding="0" width="100%" border="0">
-              <tbody><tr>
-                <td bgcolor="#050505"><a href="http://www.amusicdirect.com/default.asp"><img src="/images/mdlogow2.gif" border="0"></a></td>
-                <td align="right" bgcolor="#050505"><table cellspacing="0" cellpadding="0" background="/images/tmfade.jpg" border="0">
-                    <!--
-          <tr>
-            <td><img src="/images/tmfade.jpg"></td>
-          </tr>
-          -->
-                    <tbody><tr>
-                      <td align="right" background="/images/tmfade.jpg"><img height="11" src="/images/1px.gif" width="1" border="0"></td>
-                    </tr>
-                    <tr>
-                      <td background="/images/tmfade.jpg"><form action="http://www.amusicdirect.com/products/search.asp" method="post">
-                          <table width="100%" border="0" cellspacing="3" cellpadding="0">
-                            <tbody><tr>
-                              <td><select onchange="searchcat(this)" name="dmProductCategory" class="leftnav">
-                                  <option value="select" selected="">Product Category...</option>
-                                  <option value="-">---------------------</option>
-                                  <option value="60">180- and 200-gram vinyl</option>
-                                  <option value="90">45 RPM vinyl</option>
-                                  <option value="100">Accessories</option>
-                                  <option value="160">Acoustical Treatments</option>
-                                  <option value="40">Aluminum CD</option>
-                                  <option value="150">Analog Accessories</option>
-                                  <option value="170">Audio Interconnects</option>
-                                  <option value="180">Books</option>
-                                  <option value="190">CD/SACD/DVD Players</option>
-                                  <option value="430">CD-R and Recordable Media</option>
-                                  <option value="200">Connector upgrades</option>
-                                  <option value="350">D/A Converters</option>
-                                  <option value="410">Demag &amp; Burn-in</option>
-                                  <option value="390">Digital Cables</option>
-                                  <option value="80">DVD Video</option>
-                                  <option value="70">DVD-Audio</option>
-                                  <option value="210">Equipment Racks</option>
-                                  <option value="220">FM Antennae</option>
-                                  <option value="420">FM Tuner</option>
-                                  <option value="10">Gold CD</option>
-                                  <option value="20">HDCD CD</option>
-                                  <option value="240">Headphone Amps</option>
-                                  <option value="230">Headphones</option>
-                                  <option value="110">Phono Cartridges</option>
-                                  <option value="130">Phono preamps</option>
-                                  <option value="250">Power Cables</option>
-                                  <option value="260">Powerline Conditioners</option>
-                                  <option value="270">Pre/Power Amps</option>
-                                  <option value="340">Record Cleaning</option>
-                                  <option value="280">RFI/EMI Noise Control</option>
-                                  <option value="30">SACD</option>
-                                  <option value="290">Signal Processors</option>
-                                  <option value="380">Speaker Cables</option>
-                                  <option value="370">Speaker Stands</option>
-                                  <option value="360">Speakers</option>
-                                  <option value="140">Tonearms</option>
-                                  <option value="120">Turntables</option>
-                                  <option value="300">Vacuum Tubes</option>
-                                  <option value="310">Vibration Control</option>
-                                  <option value="320">Video Cables</option>
-                                  <option value="330">Video Equipment</option>
-                                  <option value="50">Vinyl</option>
-                                  <option value="45">XRCD</option>
-                                </select>
-                              </td>
-                              <td><select onchange="searchmfr(this)" size="1" name="D2" class="leftnav">
-                                  <option value="select" selected="">Select Manufacturer</option>
-                                  <option value="-">---------------------</option>
-                                  <option value="ACOSIG">Acoustic Signature</option>
-                                  <option value="AZEN">Acoustic Zen</option>
-                                  <option value="ADCOM">Adcom</option>
-                                  <option value="AES">Aesthetix</option>
-                                  <option value="AIRT">AIR TIGHT</option>
-                                  <option value="AKG">AKG</option>
-                                  <option value="ALLSOP">ALLSOP</option>
-                                  <option value="ALON">Alon</option>
-                                  <option value="ARCICI">Arcici</option>
-                                  <option value="ARGENT">Argent</option>
-                                  <option value="ASR">ASR</option>
-                                  <option value="AUDIENCE">Audience</option>
-                                  <option value="ADD">Audio Additives</option>
-                                  <option value="AUDIOD">Audio Desk</option>
-                                  <option value="AUDIO DESK">AUDIO DESK</option>
-                                  <option value="MAGIC">Audio Magic</option>
-                                  <option value="AUDIONOTE">AUDIO NOTE</option>
-                                  <option value="POWER">Audio Power</option>
-                                  <option value="SELEC">Audio Selections</option>
-                                  <option value="PTS">Audiopoints</option>
-                                  <option value="PRISM">AudioPrism</option>
-                                  <option value="AQA">Audioquest</option>
-                                  <option value="TECH">Audio-Technica</option>
-                                  <option value="AURIOS">Aurios</option>
-                                  <option value="BASIS">Basis</option>
-                                  <option value="BEDINI">Bedini</option>
-                                  <option value="BENZ">Benz Micro</option>
-                                  <option value="BERENDSEN">BERENDSEN</option>
-                                  <option value="BILLY">Billy Bags</option>
-                                  <option value="BDR">Black Diamond Racing</option>
-                                  <option value="BOSTIK">Bostik</option>
-                                  <option value="BRIGHT">Bright Star Audio</option>
-                                  <option value="CAIG">Caig</option>
-                                  <option value="CARDAS">Cardas</option>
-                                  <option value="CIA">Channel Islands Audio</option>
-                                  <option value="CLEAR">Clearaudio</option>
-                                  <option value="CREAT">Creative Cable Concepts</option>
-                                  <option value="CREEK">Creek</option>
-                                  <option value="CUSTOM">Custom Power Cord Co</option>
-                                  <option value="DARUMA">Daruma</option>
-                                  <option value="DECCA">Decca</option>
-                                  <option value="DEDICATED">Dedicated Audio</option>
-                                  <option value="DENSEN">Densen</option>
-                                  <option value="DISC">Disc Doctor</option>
-                                  <option value="DYNDESIGN">Dynamic Design</option>
-                                  <option value="DYNAV">Dynavector</option>
-                                  <option value="EAR">EAR USA</option>
-                                  <option value="ECHO">Echobusters</option>
-                                  <option value="EDISON">Edison-Price</option>
-                                  <option value="EIGHTH">EIGHTH NERVE</option>
-                                  <option value="ELECTROHARM">ELECTROHARMONIX</option>
-                                  <option value="ENA">Enacom</option>
-                                  <option value="ENSEMBLE">Ensemble</option>
-                                  <option value="ESOTERIC">ESOTERIC</option>
-                                  <option value="ETY">Etymotic Research</option>
-                                  <option value="EXP">Express Machining</option>
-                                  <option value="EXTPH">Extreme Phono</option>
-                                  <option value="FANFARE">Fanfare</option>
-                                  <option value="FLITZ">Flitz</option>
-                                  <option value="GANY">GANY MUSIC</option>
-                                  <option value="GODAR">Godar Electronics</option>
-                                  <option value="GOLDEN">Golden Sound</option>
-                                  <option value="GOLDRING">Goldring</option>
-                                  <option value="GRADO">Grado</option>
-                                  <option value="GRAHAM">Graham</option>
-                                  <option value="GRANIT">Granite Audio</option>
-                                  <option value="GUTWIRE">GUTWIRE</option>
-                                  <option value="HARMONIC">Harmonic Technology</option>
-                                  <option value="HARM">Harmonix</option>
-                                  <option value="HEED">HEED</option>
-                                  <option value="HERRON">Herron Audio</option>
-                                  <option value="HIGHWIRE">Highwire</option>
-                                  <option value="HUNT">Hunt</option>
-                                  <option value="IMM">Immedia</option>
-                                  <option value="SHEER">Iron Audio</option>
-                                  <option value="JPHILLIPS">JAN Phillips</option>
-                                  <option value="KAB">KAB</option>
-                                  <option value="KOET">Koetsu</option>
-                                  <option value="LAST">Last</option>
-                                  <option value="LECTOR">Lector</option>
-                                  <option value="LEGACY">Legacy Speakers</option>
-                                  <option value="LEH">Lehmann</option>
-                                  <option value="LESLIEDAME">Leslie Dame</option>
-                                  <option value="CHANG">Lightspeed</option>
-                                  <option value="LOVAN">Lovan Audio Furniture</option>
-                                  <option value="LYRA">Lyra</option>
-                                  <option value="MAGNUM">MAGNUM</option>
-                                  <option value="MARANTZ">MARANTZ</option>
-                                  <option value="MARIGO">Marigo</option>
-                                  <option value="MCCORMACK">McCormack Audio</option>
-                                  <option value="MICH">Michell</option>
-                                  <option value="MICROCARE">Micro Care</option>
-                                  <option value="MILTY">Milty</option>
-                                  <option value="MISC_W">Miscellaneous</option>
-                                  <option value="MIYABI">Miyabi 47 Labs</option>
-                                  <option value="MMF">MMF Music Hall</option>
-                                  <option value="MF">Mobile Fidelity</option>
-                                  <option value="MOND">Mondial</option>
-                                  <option value="MONO">Monolithic Sound</option>
-                                  <option value="MC">Monster Cable</option>
-                                  <option value="MORDAUNT">MORDAUNT</option>
-                                  <option value="MSB">MSB Technology</option>
-                                  <option value="MUSIDIR">Music Direct</option>
-                                  <option value="MS">Music Sciences</option>
-                                  <option value="MUFIX">Musical Fidelity</option>
-                                  <option value="MUSURND">Musical Surroundings</option>
-                                  <option value="NG">Nitty Gritty</option>
-                                  <option value="NORDOST">Nordost</option>
-                                  <option value="ORTO">Ortofon</option>
-                                  <option value="PASS">PASS LABS</option>
-                                  <option value="PHIL">Philips</option>
-                                  <option value="PLATEAU">Plateau</option>
-                                  <option value="APREC">Precision Audio</option>
-                                  <option value="PROJ">Pro-ject</option>
-                                  <option value="APS">PS Audio</option>
-                                  <option value="PURIST">Purist Audio Design</option>
-                                  <option value="REC">Record Research</option>
-                                  <option value="SLEEVE">Record Sleeves</option>
-                                  <option value="REGA">Rega</option>
-                                  <option value="RINGMAT">Ringmat</option>
-                                  <option value="RIVES">RIVES AUDIO</option>
-                                  <option value="RPG">RPG Diffusion Systems</option>
-                                  <option value="ASAP">SAP</option>
-                                  <option value="SENN">Sennheiser</option>
-                                  <option value="SHAKTI">Shakti Audio</option>
-                                  <option value="SHANLING">Shanling</option>
-                                  <option value="SHELTER">Shelter</option>
-                                  <option value="SHUN">Shunyata Research</option>
-                                  <option value="SHURE">Shure</option>
-                                  <option value="SIGNET">SIGNET</option>
-                                  <option value="SILVER">Silverline Audio</option>
-                                  <option value="SOLID">Solid Steel</option>
-                                  <option value="ASONY">Sony Electronics</option>
-                                  <option value="SOTA">SOTA</option>
-                                  <option value="SNDAP">Sound Application</option>
-                                  <option value="SID">Sound Improvement Disc SID</option>
-                                  <option value="SOVT">Sovtek</option>
-                                  <option value="STAND">Standesign</option>
-                                  <option value="STAX">Stax</option>
-                                  <option value="SUMIKO">Sumiko</option>
-                                  <option value="SVET">Svetlana Tubes</option>
-                                  <option value="SYNRES">Synergistic Research</option>
-                                  <option value="TARGET">Target</option>
-                                  <option value="TDS">TDS</option>
-                                  <option value="TEAC">TEAC</option>
-                                  <option value="TEKNA">Tekna Sonic</option>
-                                  <option value="TORUMAT">Torumat</option>
-                                  <option value="VERSALAB">Versalab</option>
-                                  <option value="VIBRA">Vibrapods</option>
-                                  <option value="VPI">VPI</option>
-                                  <option value="WALK">Walker Audio</option>
-                                  <option value="WALLY">Wally Tools</option>
-                                  <option value="WILB">Wilson-Benesch</option>
-                                  <option value="AMUSUR">Winds</option>
-                                  <option value="WINDS">WINDS</option>
-                                  <option value="XIN">Xindak</option>
-                                  <option value="XLO">XLO</option>
-                                  <option value="AZYX">ZYX</option>
-                                </select>
-                              </td>
-                            </tr>
-                          </tbody></table>
-                      </form></td>
-                    </tr>
-                    <tr>
-                      <td align="right"><font face="verdana,helvetica" color="#c0c0c0" size="3"><strong><em>(800) 449-8333&nbsp;&nbsp;&nbsp;</em></strong></font></td>
-                    </tr>
-                    <!--
-          <tr>
-            <td><img src="/images/tmfade_top.jpg"></td>
-          </tr>
-          -->
-                    <tr>
-                      <td align="right" background="/images/tmfade_top.jpg"><img height="11" src="/images/1px.gif" width="1" border="0"></td>
-                    </tr>
-                </tbody></table></td>
-              </tr>
-          </tbody></table></td>
-        </tr>
-        <tr>
-          <td><table cellspacing="0" cellpadding="0" width="100%" bgcolor="#000000" border="0">
-              <tbody><tr>
-                <!--<td valign="top" nowrap width="1"><img src="/images/laf/tsepline0a.jpg" border="0" width="790" height="8"></td>-->
-                <td valign="top" nowrap="" width="1"><img height="8" src="/images/tsepline0a2.jpg" width="660" border="0"></td>
-                <td valign="top" nowrap="" align="right" width="99%"><table cellspacing="0" cellpadding="0" width="100%" background="/images/tsepline0b.jpg" border="0">
-                    <tbody><tr>
-                      <td valign="top" nowrap="" align="right" width="100%" bgcolor="#000000"><img height="8" src="/images/tsepline0b.jpg" width="100%" border="0"></td>
-                    </tr>
-                </tbody></table></td>
-              </tr>
-          </tbody></table></td>
-        </tr>
-        <tr>
-          <td><table cellspacing="0" cellpadding="0" width="100%" bgcolor="#000000" border="0">
-              <tbody><tr>
-                <td nowrap=""><a href="http://www.amusicdirect.com/default.asp" onmouseover="imgover('tnb', 0, 'Home')" onmouseout="imgoff('tnb', 0)"><img src="/images/tnbhome0.jpg" border="0" name="tnb0"></a><a href="http://www.amusicdirect.com/products/default.asp" onmouseover="imgover('tnb', 1, 'Products')" onmouseout="imgoff('tnb', 1)"><img src="/images/tnbproducts0.jpg" border="0" name="tnb1"></a><a href="http://www.amusicdirect.com/products/newitems.asp" onmouseover="imgover('tnb', 2, 'New')" onmouseout="imgoff('tnb', 2)"><img src="/images/tnbwhatsnew0.jpg" border="0" name="tnb2"></a><a href="http://www.amusicdirect.com/about/default.asp" onmouseover="imgover('tnb', 3, 'About')" onmouseout="imgoff('tnb', 3)"><img src="/images/tnbabout0.jpg" border="0" name="tnb3"></a><a href="http://www.amusicdirect.com/newsletter/default.asp" onmouseover="imgover('tnb', 4, 'Newsletter')" onmouseout="imgoff('tnb', 4)"><img src="/images/tnbnewsletter0.jpg" border="0" name="tnb4"></a><a href="http://www.amusicdirect.com/catalog/default.asp" onmouseover="imgover('tnb', 5, 'Catalog')" onmouseout="imgoff('tnb', 5)"><img src="/images/tnbcatalog0.jpg" border="0" name="tnb5"></a><a href="http://www.amusicdirect.com/custcare/default.asp" onmouseover="imgover('tnb', 6, 'Customer Service')" onmouseout="imgoff('tnb', 6)"><img src="/images/tnbcustsvc0.jpg" border="0" name="tnb6"></a><a href="/about/employment.asp" onmouseover="imgover('tnb', 7, 'Employment Opportunities')" onmouseout="imgoff('tnb', 7)"><img src="/images/tnbemployment0.jpg" name="tnb7" width="78" height="17" border="0" id="tnb7"></a></td>
-                <td><img height="1" src="/images/1px.gif" width="15" border="0"></td>
-                <td nowrap="" align="right"><table cellspacing="0" cellpadding="0" border="0">
-                    <form name="dmSearch" onsubmit="return verSearch();" action="/products/swsearch.asp" method="get"></form>
-                      <tbody><tr valign="top">
-                        <td nowrap="" align="right"><span style="FONT-SIZE: 8.5pt; FONT-FAMILY: Arial, Helvetica; color:#CCCCCC;"><strong>Search:</strong></span><br>
-                            <span style="font-size:6.0pt; font-family:Arial, Helvetica; color:#cccccc;"><strong><a href="http://www.amusicdirect.com/search/default.asp" class="advLink">Advanced Search</a></strong>&nbsp;</span></td>
-                        <td nowrap="" align="right"><span style="FONT-SIZE: 8.5pt; FONT-FAMILY: Arial, Helvetica"><font face="Arial,Helvetica" color="#cccccc" size="2">
-                          <select style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica" size="1" name="dmSearchBy">
-                            <option value="All" selected="">All Products</option>
-                            <option value="Artist">Artist</option>
-                            <option value="Title">Album Title</option>
-                            <option value="Label">Label</option>
-                            <option value="Hardware">Hardware</option>
-                            <option value="Accessories">Accessories</option>
-                          </select>
-                        </font></span></td>
-                        <td><img height="1" src="/images/1px.gif" width="4" border="0"></td>
-                        <td nowrap=""><div id="dvDmSearchQualifier">
-                            <input style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica" size="14" name="srch">
-                        </div></td>
-                        <td><img height="1" src="/images/1px.gif" width="4" border="0"></td>
-                        <td nowrap=""><script language="JavaScript"><!--
-                if (navigator.appName == "Netscape"){
-                    document.write('<input type="image" src="/images/srchbutton.jpg" style="cursor:hand;" valign="textbottom" border="0">');
-                }
-                else{
-                    document.write('<input type="submit" value="GO" name="B1" style="font-family: Arial, Helvetica; font-size: 8pt; font-weight: bolder; ');
-                    document.write('font-style: italic; background-color: rgb(4,4,100); color: rgb(255,255,255); border: 1px solid rgb(143,143,164)">');
-                }
-                //--></script><input type="image" src="/images/srchbutton.jpg" style="cursor:hand;" valign="textbottom" border="0">
-                        </td>
-                        <td><img height="1" src="/images/1px.gif" width="6" border="0"></td>
-                      </tr>
-                    
-                </tbody></table></td>
-              </tr>
-          </tbody></table></td>
-        </tr>
-        <tr>
-          <td><table cellspacing="0" cellpadding="0" width="100%" border="0">
-              <tbody><tr height="15">
-                <td valign="top" width="1%"><img height="15" src="/images/tsepline2a.jpg" width="449" border="0"></td>
-                <td valign="top" width="98%"><table cellspacing="0" cellpadding="0" width="100%" background="/images/tsepline2b.jpg" border="0">
-                    <tbody><tr>
-                      <td align="right" width="100%"><img height="15" src="/images/tsepline2b.jpg" width="100%" border="0"></td>
-                    </tr>
-                </tbody></table></td>
-                <!--<td valign="top" width="1%"><img src="/images/laf/tsepline2c.jpg" border="0" width="329" height="15"></td>-->
-                <td valign="top" width="1%"><img height="15" src="/images/tsepline2c.jpg" width="280" border="0"></td>
-              </tr>
-          </tbody></table></td>
-        </tr>
-        <tr>
-          <td><table cellspacing="0" cellpadding="0" width="100%" border="0">
-              <tbody><tr>
-                <td valign="top" width="1%" height="52"><img height="52" src="/images/x.pgtitle_aboutus.jpg" width="421" border="0"></td>
-                <td nowrap="" width="99%" height="52"><table height="52" cellspacing="0" cellpadding="0" width="100%" border="0">
-                    <tbody><tr height="22">
-                      <td valign="top" nowrap="" bgcolor="#000000"><table cellspacing="0" cellpadding="0" width="100%" background="/images/pgtitleBb.jpg" border="0">
-                          <tbody><tr>
-                            <td valign="top" nowrap=""><img height="22" src="/images/pgtitleBa.jpg" width="40" border="0"></td>
-                          </tr>
-                      </tbody></table></td>
-                      <!--<td nowrap bgcolor="#000000" align="right" valign="top"><img src="/images/laf/pgtitleBb.jpg" border="0" height="22" width="100%"></td>-->
-                      <td valign="top" nowrap="" align="right" bgcolor="#00013A"><img height="22" src="/images/1px.gif" width="1" border="0"></td>
-                      <td valign="top" nowrap="" align="right" bgcolor="#00013A"><img src="/images/1px.gif" border="0"></td>
-                      <td nowrap="" align="right" bgcolor="#000000"><table cellspacing="0" cellpadding="0" width="100%" background="/images/pgtitleBb.jpg" border="0">
-                          <tbody><tr>
-                            <td valign="top" nowrap="" align="right"><a href="http://www.amusicdirect.com/shop/cart.asp"><img height="22" src="/images/view_cart.jpg" width="77" border="0"></a><img height="22" src="/images/spacer_after_cart.jpg" width="18" border="0"><a href="http://www.amusicdirect.com/shop/checkout.asp"><img height="22" src="/images/check_out.jpg" width="67" border="0"></a><img height="22" src="/images/spacer_after_check_out.jpg" width="18" border="0"><a href="http://www.amusicdirect.com/about/contact.asp"><img height="22" src="/images/contact_us.jpg" width="78" border="0"></a></td>
-                          </tr>
-                      </tbody></table></td>
-                    </tr>
-                    <tr height="30">
-                      <td valign="top" nowrap=""><table cellspacing="0" cellpadding="0" width="100%" background="/images/pgttopbar1.jpg" border="0">
-                          <tbody><tr>
-                            <td nowrap=""><img height="30" src="/images/pgttopbar0.jpg" width="40" border="0"></td>
-                          </tr>
-                      </tbody></table></td>
-                      <td valign="top" nowrap=""><table cellspacing="0" cellpadding="0" width="100%" background="/images/pgttopbar1.jpg" border="0">
-                          <tbody><tr>
-                            <td nowrap=""><img height="30" src="/images/pgttopbar1.jpg" width="40" border="0"></td>
-                          </tr>
-                      </tbody></table></td>
-                      <td valign="top" nowrap="" align="right"><img height="30" src="/images/pgttopbar1.jpg" width="100%" border="0"></td>
-                      <!--<td nowrap align="right" valign="top"><table cellpadding="0" cellspacing="0" border="0" background="/images/laf/pgttopbar1.jpg" width="100%"><tr><td nowrap valign="top" align="right"><img src="/images/laf/pgttopbar2b.jpg" border="0" height="30" width="258"></td></tr></table>-->
-                      <td valign="top" nowrap="" align="right"><table cellspacing="0" cellpadding="0" width="100%" background="/images/pgttopbar1.jpg" border="0">
-                          <tbody><tr>
-                            <td valign="top" nowrap="" align="right"><img height="30" src="/images/pgttopbar2b.jpg" width="243" border="0"></td>
-                          </tr>
-                      </tbody></table></td>
-                    </tr>
-                </tbody></table></td>
-              </tr>
-          </tbody></table></td>
-        </tr>
-    </tbody></table>
-</td>
-  </tr>
-  <tr>
-    <td width="150" height="100%" align="left" valign="top" background="/images/bdrleft.noextex79.jpg"><img height="47" src="/images/bdrleft.noext.jpg" width="79" border="0">
-      <table width="150" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="10"><img src="/images/1px.gif" width="10" height="1"></td>
-          <td width="140"><font face="Arial,Helvetica" size="2"><span><b><span class="leftnav"><a class="leftnavH" href="http://www.amusicdirect.com/about/default.asp">About Music Direct</a></span></b><br>
-                              <img height="1" src="/images/1px.gif" width="12"><a class="leftnav" href="http://www.amusicdirect.com/about/contact.asp">Contact Us</a><br>
-                              <img height="1" src="/images/1px.gif" width="12"><a class="leftnav" href="http://www.amusicdirect.com/custcare/feedback.asp">Feedback</a><br>
-                              <img height="1" src="/images/1px.gif" width="12"><a class="leftnav" href="http://www.amusicdirect.com/about/privacy.asp">Privacy</a><br>
-                              <br>
-                              <b class="leftnavH">Related Links</b><br>
-          <img height="1" src="/images/1px.gif" width="12"><a class="leftnav" href="http://www.amusicdirect.com/custcare/default.asp">Customer Service</a></span></font></td>
-        </tr>
-      </tbody></table></td>
-    <td width="1" height="100%" align="left" valign="top" bgcolor="#04649a"><img src="/images/1px.gif" width="1" height="1"></td>
-    <td width="1144" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" color="#000066" size="4"><b>
-    </b></font>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="10">&nbsp;</td>
-          <td><font face="Verdana, Arial, Helvetica, sans-serif" color="#000066" size="4"><b>
-            <p><font color="#000066" size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Privacy Policy </b></font></p>
-          </b></font>
-            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Music Direct has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website:We firmly believe in respecting the privacy and security of our customers. We do not resell or otherwise provide your email address to anyone, unless you ask us to or where we are required by law (such as a court order or other statutory obligation).We use your IP address to help diagnose problems with our server, and to administer our Web site. This site uses cookies to help identify you and your shopping cart, and to identify your session so you can use the e-commerce features of this site.Our site's registration form requires users to give us contact information (like their name and email address), so that we may provide them with services or information that they have requested. At the customer's request, we may use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (such as usernames and/or customer support numbers) are collected to verify the user's identity and for use as account numbers in our record system.This site may contain links to other sites. We are not responsible for the privacy practices or the content of such Web sites.</font></p>
-            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their address and billing information. Contact information from the order form is used to send orders to our customers. Users may opt-out of receiving future mailings; see the choice/opt-out section below.</font></p>
-            <a name="security"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Security</font></a>
-            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Customer information is not stored in a location available through our web site. This site provides visitors with the option to use secured, encrypted communications between the web site and their browser via a secure sockets layer (SSL) connection. Access to customer information internally is strictly limited to authorized personnel. We do not resell or redistribute registration information collected through our web site.Choice/Opt-Out</font></p>
-            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.</font></p>
-            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Contacting the Web Site</font></p>
-            <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us via email at: md@amusicdirect.com.</font></p>
-                  <font face="Verdana, Arial, Helvetica, sans-serif" color="#000066" size="4"><b>
-                  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><br>
-                  </font></p>
-          </b></font></td>
-        </tr>
-      </tbody></table>
-      <font face="Verdana, Arial, Helvetica, sans-serif" color="#000066" size="4"><b>
-      <p>&nbsp;</p>
-    </b></font></td>
-    <td width="25" align="right" background="/images/bdrright.jpg"><img height="100%" src="/images/bdrright.jpg" width="25" border="0"></td>
-  </tr>
-  <tr>
-    <td valign="top" background="/images/bdrleft.noextex79.jpg"><img src="/images/bdrleft.noextex.jpg" border="0"></td>
-    <td colspan="2" valign="top"><link href="http://www.amusicdirect.com/images/mdstyle.css" rel="stylesheet" type="text/css">
-<table width="473" height="96" border="0" align="center" cellpadding="0" cellspacing="0" color="#FFFFFF">
+    <td height="1" colspan="3">
+<link rel="SHORTCUT ICON" href="/favicon.ico"><link href="/mdstyle.css" rel="stylesheet" type="text/css"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<script language="javascript" src="/script.js"></script>
   <tbody><tr>
-    <td height="18" colspan="2"></td>
-    <td width="384" align="center"><font face="verdana,helvetica,arial" size="2"><a href="http://www.amusicdirect.com/newsletter/signup.asp">sign
-    up</a> for the free music<strong>direct</strong> e-mail newsletter!</font></td>
+    <td width="369" rowspan="2" align="left" valign="top"><a href="http://www.amusicdirect.com/default.asp"><img src="/images/template/topnav_navMDLOGO.gif" width="320" height="65" border="0"></a></td>
+    <td colspan="1" rowspan="" align="right" valign="top"><iframe id="cartFrame" frameborder="0" name="cartFrame" style="width:555px; height:38px;" src="/template/navCartFrame.asp"></iframe></td>
+    <td width="115" rowspan="2" align="right" valign="top"><!-- START SCANALERT CODE -->
+<a target="_blank" href="//www.scanalert.com/RatingVerify?ref=www.amusicdirect.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.amusicdirect.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+<!-- END SCANALERT CODE --> </td>
   </tr>
   <tr>
-    <td width="69" height="0"></td>
-    <td width="20"></td>
-    <td></td>
+    <td><img src="/images/1px.gif" width="1" height="1"></td>
   </tr>
   <tr>
-    <td height="2" bgcolor="#2484ba"></td>
-    <td bgcolor="#2484ba"></td>
-    <td align="right" bgcolor="#2484ba"><img height="2" src="/images/1px.gif" width="1"></td>
-  </tr>
-  <tr>
-    <td height="0"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr valign="middle">
-    <td height="20" align="center"><font face="Arial,Helvetica" color="#100090" size="1">SHOPPING</font></td>
-    <td>&nbsp;&nbsp;&nbsp; </td>
-    <td align="middle"><font face="Arial,Helvetica" size="2"><a class="foota" href="http://www.amusicdirect.com/products/newitems.asp">what's
-          new</a> <strong>·</strong> <a class="foota" href="http://www.amusicdirect.com/products/categories.asp">categories</a> <strong>·</strong> <a class="foota" href="http://www.amusicdirect.com/products/recommended/default.asp">recommended</a> <strong>·</strong> <a class="foota" href="http://www.amusicdirect.com/products/manufacturers.asp">brands</a>
-                                    <!-- <strong>&middot;</strong> <a 
-        class="foota" href="http://www.amusicdirect.com/products/demo.asp">demo &amp; clearance</a> -->
-                                    <!-- <strong>&middot;</strong> 
-        <a xhref="x">specials</a>-->
-    </font></td>
-  </tr>
-  <tr>
-    <td height="0"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td height="1"><img height="1" src="/images/1px.gif" width="1" border="0"></td>
-						    <td><img height="1" src="/images/1px.gif" width="1" border="0"></td>
-    <td bgcolor="#c0c0c0"><img height="1" src="/images/1px.gif" width="1" border="0"></td>
-  </tr>
-  <tr>
-    <td height="0"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr valign="middle">
-    <td height="18" align="center"><font face="Arial,Helvetica" color="#100090" size="1"><a class="footer_cat" href="http://www.amusicdirect.com/account/default.asp">MY
-    ACCOUNT</a></font></td>
-    <td></td>
-    <td align="middle"><font face="Arial,Helvetica" size="2"><a class="foota" href="http://www.amusicdirect.com/shop/cart.asp">view
-          cart</a> <strong>·</strong> <a class="foota" href="http://www.amusicdirect.com/shop/checkout.asp">check
-          out</a> <strong>·</strong>  <a class="foota" href="http://www.amusicdirect.com/account/signin.asp">sign
-          in</a>&nbsp;<strong>·</strong> <a href="http://www.amusicdirect.com/account/wishlist.asp" class="foota">view wishlist</a> <strong>· </strong><a class="foota" href="http://www.amusicdirect.com/account/newacct.asp">create
-          an account</a>
-                                    <!--   <strong>&middot;</strong> <a 
-           class="foota" href="http://www.amusicdirect.com/account/orders.asp">order history</a></font>-->
-    </font></td>
-  </tr>
-  <tr>
-    <td height="0"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td height="1"><img height="1" src="/images/1px.gif" width="1" border="0"></td>
-    <td><img height="1" src="/images/1px.gif" width="1" border="0"></td>
-    <td bgcolor="#c0c0c0"><img height="1" src="/images/1px.gif" width="1" border="0"></td>
-  </tr>
-  <tr>
-    <td height="0"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr valign="middle">
-    <td height="18" align="center"><font face="Arial,Helvetica" color="#100090" size="1">ABOUT US</font></td>
-    <td></td>
-    <td align="middle"><font face="Arial,Helvetica" size="2"><a class="foota" href="http://www.amusicdirect.com/about/default.asp">company
-          info</a> <strong>·
-                                    <!--</strong><a 
-        class="foota" href="http://www.amusicdirect.com/about/contact.asp">contact us</a> <strong>&middot;-->
-                                    </strong><a class="foota" href="http://www.amusicdirect.com/custcare/feedback.asp">feedback</a> <strong>·</strong> <a class="foota" href="http://www.amusicdirect.com/custcare/default.asp">customer
-                                    service</a> <strong>·</strong> <a class="foota" href="http://www.amusicdirect.com/about/privacy.asp">privacy</a></font></td>
-  </tr>
-  <tr>
-    <td height="0"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td height="2" align="right" bgcolor="#2484ba"><img height="2" src="/images/1px.gif" width="1"></td>
-    <td align="right" bgcolor="#2484ba"><img height="2" src="/images/1px.gif" width="1"></td>
-    <td align="right" bgcolor="#2484ba"><img height="2" src="/images/1px.gif" width="1"></td>
-  </tr>
-  <tr>
-    <td height="1" colspan="3"><img height="1" src="/images/rfrpg.gif" width="1" name="rlpg"></td>
-  </tr>
-  <tr>
-    <td height="15" colspan="3" align="center"><font face="Arial,Helvetica" size="1"><a class="footer_tos" href="http://www.amusicdirect.com/about/tos.asp">Copyright © 2004
-    music<strong>direct</strong></a></font></td>
-  </tr>
-</tbody></table></td>
-    <td width="25" align="right" background="/images/bdrright.jpg"><img height="100%" src="/images/bdrright.jpg" width="25" border="0"></td>
-  </tr>
-  <tr>
-    <td colspan="4"><table width="100%" height="17" border="0" cellpadding="0" cellspacing="0">
+    <td colspan="2" align="left"><table width="100%" height="25" border="0" cellpadding="0" cellspacing="0">
       <tbody><tr>
-        <td background="/images/bdrfootC.jpg"><img height="17" src="/images/bdrfootLb.jpg" width="150"></td>
-        <!--<td background="/images/laf/bdrfootC.jpg"><img src="/images/laf/bdrfootC.jpg" width="100%" height="17"></td>-->
-        <td background="/images/bdrfootC.jpg"><img height="17" src="/images/bdrfootC2.jpg" width="100%"></td>
-        <td align="right" background="/images/bdrfootC.jpg"><img height="17" src="/images/bdrfootR.jpg" width="150"></td>
+        <td width="156" height="25" valign="bottom"><img src="/images/template/topnav_nav01.gif" width="156" height="25" border="0" usemap="#Map12"></td>
+        <td height="25" align="center" valign="bottom"><table height="23" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="69" height="23" align="center" valign="bottom"><a href="http://www.amusicdirect.com/products/category.asp?category=1100"><img src="/images/template/topnav_nav02.gif" width="67" height="23" border="0"></a></td>
+            <td width="117" align="center" valign="bottom"><a href="http://www.amusicdirect.com/products/category.asp?category=1200"><img src="/images/template/topnav_nav03.gif" width="115" height="23" border="0"></a></td>
+            <td width="97" align="center" valign="bottom"><a href="http://www.amusicdirect.com/products/category.asp?category=1300"><img src="/images/template/topnav_nav04.gif" width="95" height="23" border="0"></a></td>
+            <td width="85" align="center" valign="bottom"><a href="http://www.amusicdirect.com/products/category.asp?category=1400"><img src="/images/template/topnav_nav05.gif" width="83" height="23" border="0"></a></td>
+            <td width="89" align="center" valign="bottom"><a href="http://www.amusicdirect.com/products/category.asp?category=1500"><img src="/images/template/topnav_nav06.gif" width="87" height="23" border="0"></a></td>
+            <td width="119" align="center" valign="bottom"><a href="http://www.amusicdirect.com/products/category.asp?category=1020"><img src="/images/template/topnav_nav07.gif" width="117" height="23" border="0"></a></td>
+            <td width="86" valign="bottom"><a href="http://www.amusicdirect.com/about/contact.asp"><img src="/images/template/topnav_nav08.gif" width="86" height="23" border="0"></a></td>
+          </tr>
+        </tbody></table></td>
       </tr>
+
     </tbody></table></td>
+    <td width="115" align="right" valign="bottom">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#9A9999" background="/images/template/top_nav_09_BG.gif">
+    <td colspan="3" align="center" valign="middle" class="grayNavLinks"><table><tbody><tr><td height="24"><a href="http://www.amusicdirect.com/products/category.asp" class="grayNavLinks">Shop by Category</a></td><td class="grayNavLinks"> | </td><td><a href="http://www.amusicdirect.com/products/mfr.asp" class="grayNavLinks">Shop By Brand</a></td><td class="grayNavLinks"> | </td><td><a href="http://www.amusicdirect.com/products/topsellers.asp" class="grayNavLinks">Top Sellers</a></td><td class="grayNavLinks"> | </td><td><a href="http://www.amusicdirect.com/products/prerelease.asp" class="grayNavLinks">Pre-Releases</a></td><td class="grayNavLinks"> | </td><td><a href="http://www.amusicdirect.com/products/newitems.asp" class="grayNavLinks">New Items</a></td><td class="grayNavLinks"> | </td><td><a href="http://www.amusicdirect.com/products/demos.asp" class="grayNavLinks">Demos</a></td><td class="grayNavLinks"> | </td><td><a href="http://www.amusicdirect.com/products/lastchance.asp" class="grayNavLinks">Closeouts</a></td><td class="grayNavLinks"> | </td><td><a href="http://www.amusicdirect.com/products/specials.asp" class="grayNavLinks">Specials</a></td></tr></tbody></table></td>
   </tr>
 </tbody></table>
 
+<map name="Map12">
+  <area shape="rect" coords="0,0,52,25" href="http://www.amusicdirect.com/account/default.asp">
+  <area shape="rect" coords="61,0,126,25" href="http://www.amusicdirect.com/account/new_account.asp">
+</map>
+<iframe id="RSIFrame" frameborder="0" name="RSIFrame" style="width:0px; height:0px; border: 0px" src="/shop/addtocartframe.asp"></iframe></td>
+  </tr>
+  <tr>
+    <td width="-1%" rowspan="2" valign="top" background="/images/template/leftNavBG.gif">
+<table width="140" height="93" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr background="/images/1pxGreyOutline.gif">
+    <td height="1" colspan="3" background="/images/1pxGreyOutline.gif"><img src="/images/1pxGreyOutline.gif" width="140" height="1"></td>
+  </tr>
+  <tr>
+    <td width="1" rowspan="2" background="/images/1pxGreyOutline.gif"><img src="/images/1pxGreyOutline.gif" width="1" height="1"></td>
+    <form name="srch" method="get" action="http://www.amusicdirect.com/products/search.asp"></form><td width="140" align="center" background="/images/template/adv_srch_tbbg.gif"><table border="0" cellpadding="0" cellspacing="0" background="/images/template/adv_srch_tbbg.gif">
+      <tbody><tr>
+        <td><select name="cat_id" class="searchDropBox" id="cat_id">
+			<option value="ALL" selected="">All Products</option>
+		<option value="60">180g Vinyl</option><option value="61">200g Vinyl</option><option value="90">45 RPM Vinyl</option><option value="100">Accessories</option><option value="160">Acoustical Treatments</option><option value="40">Aluminum CD</option><option value="150">Analog Accessories</option><option value="170">Audio Interconnects</option><option value="180">Books</option><option value="190">CD/SACD/DVD Players</option><option value="200">Connector Upgrades</option><option value="350">D/A Converters</option><option value="410">Demag &amp; Burn-in</option><option value="390">Digital Cables</option><option value="47">DualDisc</option><option value="80">DVD Video</option><option value="70">DVD-Audio</option><option value="210">Equipment Racks</option><option value="220">FM Antennae</option><option value="420">FM Tuner</option><option value="10">Gold CD</option><option value="20">HDCD CD</option><option value="240">Headphone Amps</option><option value="230">Headphones</option><option value="440">Mini-Systems</option><option value="110">Phono Cartridges</option><option value="130">Phono preamps</option><option value="250">Power Cables</option><option value="260">Powerline Conditioners</option><option value="270">Pre/Power Amps</option><option value="340">Record Cleaning </option><option value="430">Recordable Media</option><option value="280">RFI/EMI Noise Suppression</option><option value="30">SACD</option><option value="290">Signal Processors</option><option value="380">Speaker Cables</option><option value="370">Speaker Stands</option><option value="360">Speakers</option><option value="50">Standard Vinyl</option><option value="140">Tonearms</option><option value="120">Turntables</option><option value="300">Vacuum Tubes</option><option value="310">Vibration Control</option><option value="320">Video Cables</option><option value="330">Video Equipment</option><option value="1030">Vinyl</option><option value="45">XRCD</option>
+        </select>
+         </td>
+        </tr>
+          <input name="man_id" type="hidden" value="ALL" size="6">
+          <input name="advSearch" type="hidden" id="advSearch" value="stdSearch">
+		  <input name="search_desc" type="hidden" id="search_desc" value="no">      <tr>
+        <td align="center"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr background="/images/template/adv_srch_tbbg.gif">
+            <td><input name="keyword" type="text" class="searchBox" id="keyword" size="15"></td>
+            <td><a href="javascript:document.srch.submit();"><img src="/images/template/srch_go_button.gif" width="20" height="22" border="0"></a></td>
+          </tr>
+        </tbody></table></td>
+        </tr>
+    </tbody></table>
+        </td>
+    
+    <td width="2" rowspan="2" background="/images/1pxGreyOutline.gif"><img src="/images/1pxGreyOutline.gif" width="1" height="1"></td>
+  </tr>
+  <tr>
+    <td width="143" valign="top" background="/images/template/adv_srch_button_bg.gif"><img src="/images/template/adv_srch_button.gif" width="137" height="41" border="0" usemap="#map_advSrc">
+</td>
+  </tr>
+  <tr background="/images/1pxGreyOutline.gif">
+    <td height="1" colspan="3" background="/images/1pxGreyOutline.gif"><img src="/images/1pxGreyOutline.gif" width="140" height="1"></td>
+  </tr>
+</tbody></table>
+
+<table width="140" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="138" height="26" align="center" background="/images/template/sub_menu_bg.gif" class="leftNavSubHdr">BROWSE</td>
+    <td width="2" rowspan="14" background="/images/1pxGreyOutline.gif"><img src="/images/1pxGreyOutline.gif" width="2" height="1"><img src="/images/1pxGreyOutline.gif" width="1" height="1"></td>
+  </tr>
+  <tr>
+    <td height="78" align="center" valign="top" class="leftNavItem"><table width="100" height="110" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="4" class="leftNavItem"><img src="/images/1px.gif" width="1" height="4"></td>
+      </tr>
+      <tr>
+        <td width="100" height="3" align="left" class="leftNavItem"><a href="http://www.amusicdirect.com/products/category.asp" class="leftNavItem">Shop By Category</a></td>
+      </tr>
+      <tr>
+        <td height="4" class="leftNavItem"><img src="/images/1px.gif" width="1" height="4"></td>
+      </tr>
+      <tr>
+        <td height="8" align="left" class="leftNavItem"><table width="0%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td rowspan="5"><img src="/images/1px.gif" width="12" height="4"></td>
+            <td><a href="/products/category.asp?category=30" class="leftNavItem">SACD</a></td>
+          </tr>
+          <tr>
+            <td><a href="/products/category.asp?category=1030" class="leftNavItem">VINYL</a></td>
+          </tr>
+          <tr>
+            <td><a href="/products/category.asp?category=70" class="leftNavItem">DVD-A</a></td>
+          </tr>
+          <tr>
+            <td><a href="/products/category.asp?category=1010" class="leftNavItem">CD</a></td>
+          </tr>
+          <tr>
+            <td><a href="/products/category.asp" class="leftNavItem">view more...</a></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td height="4" class="leftNavItem"><img src="/images/1px.gif" width="1" height="6"></td>
+      </tr>
+      <tr>
+        <td height="30" align="left" class="leftNavItem"><a href="http://www.amusicdirect.com/products/mdrec.asp" class="leftNavItem">music<strong>direct®</strong><br>
+recommended</a></td>
+      </tr>
+      <tr>
+        <td height="4" class="leftNavItem"><img src="/images/1px.gif" width="1" height="4"></td>
+      </tr>
+      <tr>
+        <td height="15" align="left" class="leftNavItem"><a href="http://www.amusicdirect.com/products/specials.asp" class="leftNavItem">Specials</a></td>
+      </tr>
+      <tr>
+        <td height="4" class="leftNavItem"><img src="/images/1px.gif" width="1" height="4"></td>
+      </tr>
+      <tr>
+        <td height="15" align="left" class="leftNavItem"><a href="http://www.amusicdirect.com/shop/vawl.asp" class="leftNavItem">Find a Wishlist</a></td>
+      </tr>
+      <tr>
+        <td height="10" class="leftNavItem"><img src="/images/1px.gif" width="1" height="10"></td>
+      </tr></tbody></table></td>
+  </tr>
+  <tr>
+    <td height="26" align="center" background="/images/template/sub_menu_bg.gif" class="leftNavSubHdr"><a href="http://www.amusicdirect.com/products/mfr.asp" class="leftNavSubHdr">SHOP BY BRAND</a> </td>
+  </tr>
+  <tr>
+    <td height="101" align="center" valign="top" class="leftNavItem"><table width="100" height="101" border="0" cellpadding="0" cellspacing="0">
+       <tbody><tr>
+        <td height="4" class="leftNavItem"><img src="/images/1px.gif" width="1" height="4"></td>
+      </tr>
+	  <tr>
+        <td width="100" height="15" align="left" class="leftNavItem"><strong><a href="http://www.amusicdirect.com/products/mfr.asp?manid=CMF" class="leftNavItem">MOBILE FIDELITY</a></strong></td>
+      </tr>
+      <tr>
+        <td height="4" class="leftNavItem"><img src="/images/1px.gif" width="1" height="4"></td>
+      </tr>
+            <tr>
+        <td height="15" align="left" class="leftNavItem"><strong><a href="http://www.amusicdirect.com/products/mfr.asp?manid=SOLID" class="leftNavItem">SOLID STEEL </a></strong></td>
+      </tr>
+      <tr>
+        <td height="4" class="leftNavItem"><img src="/images/1px.gif" width="1" height="4"></td>
+      </tr>
+      <tr>
+        <td height="15" align="left" class="leftNavItem"><strong><a href="http://www.amusicdirect.com/products/mfr.asp?manid=AVID" class="leftNavItem">AVID</a></strong></td>
+      </tr>
+      <tr>
+        <td height="4" class="leftNavItem"><img src="/images/1px.gif" width="1" height="4"></td>
+      </tr>
+      <tr>
+        <td height="15" align="left" class="leftNavItem"><strong><a href="http://www.amusicdirect.com/products/mfr.asp?manid=APS" class="leftNavItem">PS AUDIO</a></strong></td>
+      </tr>
+      <tr>
+        <td height="4" class="leftNavItem"><img src="/images/1px.gif" width="1" height="4"></td>
+      </tr>
+      <tr>
+        <td height="15" align="left" class="leftNavItem"><strong><a href="http://www.amusicdirect.com/products/mfr.asp?manid=aqa" class="leftNavItem">AUDIOQUEST</a></strong></td>
+      </tr>
+      <tr>
+        <td height="4" class="leftNavItem"><img src="/images/1px.gif" width="1" height="4"></td>
+      </tr>
+      <tr>
+        <td height="15" align="left" class="leftNavItem"><strong><a href="http://www.amusicdirect.com/products/mfr.asp?manid=MARANTZ" class="leftNavItem">MARANTZ</a></strong></td>
+      </tr>
+      <tr>
+        <td height="4" class="leftNavItem"><img src="/images/1px.gif" width="1" height="4"></td>
+      </tr>
+      <tr>
+        <td height="15" class="leftNavItem"><a href="http://www.amusicdirect.com/products/mfr.asp" class="leftNavItem">view more...</a> </td>
+      </tr>
+      <tr>
+        <td height="10" class="leftNavItem"><img src="/images/1px.gif" width="1" height="10"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="26" align="center" background="/images/template/sub_menu_bg.gif" class="leftNavSubHdr">FREE CATALOG </td>
+  </tr>
+  <tr>
+    <td height="75" align="center" valign="top" class="leftNavItem"><a href="http://www.amusicdirect.com/catalog/default.asp"><img src="/images/template/left_nav_catalog.jpg" width="130" height="70" border="0"></a></td>
+  </tr>
+  <tr>
+    <td height="26" align="center" background="/images/template/sub_menu_bg.gif" class="leftNavSubHdr">STAY INFORMED </td>
+  </tr>
+  <tr>
+    <td height="102" valign="top" class="leftNavItem"><table width="137" height="102" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="4" colspan="3"><img src="/images/template/sb_menu_drop_shadow.gif" width="137" height="4"></td>
+      </tr>
+      <tr>
+        <td width="12" rowspan="2" background="/images/template/sb_menu_border_tileLT.gif"><img src="/images/template/sb_menu_border_tileLT.gif" width="12" height="1"></td>
+        <td width="116" height="63"><a href="http://www.amusicdirect.com/newsletter/default.asp"><img src="/images/template/sb_main.gif" width="116" height="63" border="0"></a></td>
+        <td width="9" rowspan="2" background="/images/template/sb_menu_border_tileRT.gif"><img src="/images/template/sb_menu_border_tileRT.gif" width="9" height="1"></td>
+      </tr>
+      <tr>
+        <form name="soundbytes" method="post" action="http://www.exacttarget.com/subscribe.asp?lid=216769"></form><td height="21" align="center">
+          <table border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td><input name="Email Address" type="text" class="searchBox" id="Email Address" size="10"></td>
+              <td><a href="javascript:document.soundbytes.submit();"><img src="/images/template/sb_submit_img.gif" width="19" height="21" border="0"></a></td>
+            </tr>
+          </tbody></table><input name="thx" type="hidden" id="thx" value="http://www.amusicdirect.com/newsletter/subthanks.asp">
+<input name="err" type="hidden" id="err" value="http://www.amusicdirect.com/newsletter/error.asp">
+<input name="usub" type="hidden" id="usub" value="http://www.amusicdirect.com/newsletter/unsubthanks.asp">
+<input name="SubAction" type="hidden" id="SubAction" value="sub_add_update">	
+</td>
+        
+        </tr>
+      <tr>
+        <td height="14" valign="top"><img src="/images/template/sb_menu_corner_LT.gif" width="12" height="14"></td>
+        <td background="/images/template/sb_menu_bottom.gif"><img src="/images/template/sb_menu_bottom.gif" width="1" height="14"></td>
+        <td valign="top"><img src="/images/template/sb_menu_corner_RT.gif" width="9" height="14"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="72" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.amusicdirect.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES"></script></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">&nbsp;</td>
+  </tr>
+</tbody></table>
+
+<map name="map_advSrc" id="map_advSrc">
+  <area shape="poly" coords="5,9,21,-4,25,-2,38,7,38,15,127,15,128,40,37,41,2,39,1,22" href="http://www.amusicdirect.com/products/search.asp">
+</map><img src="/images/template/leftNavBG.gif"></td>
+    <td width="100%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td colspan="3"><img src="/images/1px.gif" width="670" height="5"></td>
+      </tr>
+      <tr>
+        <td width="8"><img src="/images/1px.gif" width="8" height="5"></td>
+        <td width="100%" valign="top" class="pageCopy"><div class="style1">Privacy Policy </div>
+            <br>
+      music<strong>direct</strong> has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website:We firmly believe in respecting the privacy and security of our customers. We do not resell or otherwise provide your email address to anyone, unless you ask us to or where we are required by law (such as a court order or other statutory obligation).We use your IP address to help diagnose problems with our server, and to administer our Web site. This site uses cookies to help identify you and your shopping cart, and to identify your session so you can use the e-commerce features of this site.Our site's registration form requires users to give us contact information (like their name and email address), so that we may provide them with services or information that they have requested. At the customer's request, we may use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (such as usernames and/or customer support numbers) are collected to verify the user's identity and for use as account numbers in our record system.This site may contain links to other sites. We are not responsible for the privacy practices or the content of such Web sites. <br>
+      <br>
+      Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their address and billing information. Contact information from the order form is used to send orders to our customers. Users may opt-out of receiving future mailings; see the choice/opt-out section below. <br>
+      <br>
+      <a name="security" class="style1">Security</a> <br>
+      <br>
+      This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Customer information is not stored in a location available through our web site. This site provides visitors with the option to use secured, encrypted communications between the web site and their browser via a secure sockets layer (SSL) connection. Access to customer information internally is strictly limited to authorized personnel. We do not resell or redistribute registration information collected through our web site. Choice/Opt-Out <br>
+      <br>
+      This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. <br>
+      <br>
+      <span class="style1">Contacting the Web Site</span><br>
+      <br>
+      If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us via email at: <br>
+      md@amusicdirect.com. </td>
+        <td width="15"><img src="/images/1px.gif" width="15" height="5"></td>
+      </tr>
+      <tr>
+        <td colspan="3">&nbsp;</td>
+      </tr>
+    </tbody></table></td>
+    <td width="-1%" rowspan="2" valign="top" background="/images/template/rtNavBG.gif"><table width="144" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td rowspan="18" align="center" background="/images/1pxGreyOutline.gif" class="leftNavSubHdr"><img src="/images/1pxGreyOutline.gif" width="2" height="1"></td>
+    <td height="3" valign="top" class="leftNavSubHdr"><img src="/images/1px.gif" width="144" height="5"></td>
+  </tr>
+  <tr>
+    <td width="144" height="4" class="leftNavSubHdr"><a href="/about/financing.asp"><img src="/images/template/right_nav_financing.gif" alt="Free Financing.  Buy Now! Pay Later!" width="143" height="80" border="0"></a></td>
+  </tr>
+  <tr>
+    <td height="5" valign="top" class="leftNavSubHdr"><img src="/images/1px.gif" width="144" height="5"></td>
+  </tr>
+  <tr>
+    <td width="144" height="8" background="/images/template/sub_menu_bg.gif" class="leftNavSubHdr">FEATURED LABEL </td>
+  </tr>
+  <tr>
+    <td width="144" height="84" valign="top" class="leftNavItem"><a href="http://www.amusicdirect.com/products/mfr.asp?manid=CMF"><img src="/images/template/right_nav_ftLabel.gif" width="144" height="84" border="0"></a></td>
+  </tr>
+  <tr>
+    <td height="5" valign="top" class="leftNavItem"><span class="leftNavSubHdr"><img src="/images/1px.gif" width="144" height="5"></span></td>
+  </tr>
+  <tr>
+    <td height="32" background="/images/template/sub_menu_bg.gif" class="leftNavSubHdr">FEATURED MANUFACTURER</td>
+  </tr>
+  <tr>
+    <td height="76" valign="top" class="leftNavItem"><a href="http://www.amusicdirect.com/products/mfr.asp?manid=AVID"><img src="/images/template/right_nav_ftMfr.gif" width="143" height="76" border="0"></a></td>
+  </tr>
+  <tr>
+    <td height="5" valign="top" class="leftNavSubHdr"><img src="/images/1px.gif" width="144" height="5"></td>
+  </tr>
+  <tr>
+    <td height="76" valign="top" class="leftNavSubHdr"><a href="http://www.amusicdirect.com/products/topsellers.asp"><img src="/images/template/right_nav_bestSeller.gif" width="144" height="76" border="0"></a></td>
+  </tr>
+  <tr>
+    <td height="5" valign="top" class="leftNavSubHdr"><img src="/images/1px.gif" width="144" height="5"></td>
+  </tr>
+  <tr>
+    <td height="78" valign="top" class="leftNavSubHdr"><a href="http://www.amusicdirect.com/products/lastchance.asp"><img src="/images/template/right_nav_lastChance.gif" width="144" height="78" border="0"></a></td>
+  </tr>
+  <tr>
+	<td height="5" valign="top" class="leftNavSubHdr"><img src="/images/1px.gif" width="144" height="5"></td>
+ </tr>
+ <tr>
+	<td height="38" valign="top" class="leftNavSubHdr"><a href="http://www.amusicdirect.com/products/newitems.asp"><img src="/images/template/right_nav_newItems.gif" width="144" height="85" border="0"></a></td>
+ </tr>
+ <tr>
+   <td height="5" valign="top" class="leftNavSubHdr"><img src="/images/1px.gif" width="144" height="5"></td>
+  </tr>
+ <tr>
+   <td height="38" valign="top" class="leftNavSubHdr"><a href="/products/tweaks/tbtweaks.asp"><img src="/images/template/right_nav_BudgetTweaks.gif" width="144" height="85" border="0"></a></td>
+ </tr>
+ <tr>
+   <td valign="top" class="leftNavSubHdr"><img src="/images/1px.gif" width="144" height="5"></td>
+  </tr>
+ <tr>
+   <td valign="top" class="leftNavSubHdr"><a href="/products/tweaks/tbtweaks.asp"></a><a href="/products/detail.asp?sku=WGIFT_CERT"><img src="/images/template/right_nav_gift_cert.gif" alt="musicdirect Gift Certificates" width="144" height="79" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" background="/images/1pxGreyOutline.gif" class="leftNavSubHdr"><img src="/images/1pxGreyOutline.gif" width="2" height="1"></td>
+    <td valign="top" class="leftNavSubHdr"><img src="/images/1px.gif" width="1" height="65"></td>
+  </tr>
+</tbody></table>
+<img src="/images/template/rtNavBG.gif" width="144" height="1"></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><div align="center" id="footer"><table border="0" align="center" cellpadding="0" cellspacing="6">
+  <tbody><tr>
+    <td align="center"><table border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td class="footerText"><a href="http://www.amusicdirect.com/account/default.asp" class="footerText">My Account</a></td>
+        <td class="footerText"><strong>&nbsp;&nbsp;·&nbsp;&nbsp;</strong></td>
+        <td class="footerText"><a href="http://www.amusicdirect.com/shop/cart.asp" class="footerText">View Cart</a></td>
+        <td class="footerText"><strong>&nbsp;&nbsp;·&nbsp;&nbsp;</strong></td>
+        <td class="footerText"><a href="http://www.amusicdirect.com/account/wl.asp" class="footerText">Wishlist</a></td>
+        <td class="footerText"><strong>&nbsp;&nbsp;·&nbsp;&nbsp;</strong></td>
+        <td class="footerText">
+            <a href="http://www.amusicdirect.com/account/signin.asp" class="footerText">Sign In</a>
+            </td>
+        <td class="footerText"><strong>&nbsp;&nbsp;·&nbsp;&nbsp;</strong></td>
+        <td class="footerText"><a href="http://www.amusicdirect.com/shop/vawl.asp" class="footerText">Find a Wishlist</a></td>
+      </tr>
+    </tbody></table></td>
+  </tr><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td class="footerText"><a href="http://www.amusicdirect.com/about/tos.asp" class="footerText">Terms of Use</a></td>
+      <td class="footerText"><strong>&nbsp;&nbsp;·&nbsp;&nbsp;</strong></td>
+      <td class="footerText"><a href="http://www.amusicdirect.com/about/shipping.asp" class="footerText">Shipping Information</a></td>
+      <td class="footerText"><strong>&nbsp;&nbsp;·&nbsp;&nbsp;</strong></td>
+      <td class="footerText"><a href="http://www.amusicdirect.com/about/privacy.asp" class="footerText">Privacy</a></td>
+	  <td class="footerText"><strong>&nbsp;&nbsp;·&nbsp;&nbsp;</strong></td>
+      <td class="footerText"><a href="http://www.amusicdirect.com/about/returns.asp" class="footerText">Returns</a></td>
+    </tr>
+  </tbody></table></td></tr>
+  <tr>
+    <td align="center"><table border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td class="footerText"><a href="http://www.amusicdirect.com/default.asp" class="footerText">Home</a></td>
+        <td class="footerText"><strong>&nbsp;&nbsp;·&nbsp;&nbsp;</strong></td>
+        <td class="footerText"><a href="http://www.amusicdirect.com/about/c_info.asp" class="footerText"> About Us</a></td>
+        <td class="footerText"><strong>&nbsp;&nbsp;·&nbsp;&nbsp;</strong></td>
+        <td class="footerText"><a href="http://www.amusicdirect.com/about/contact.asp" class="footerText">Contact Us</a></td>
+        <td class="footerText"><strong>&nbsp;&nbsp;·&nbsp;&nbsp;</strong></td>
+        <td class="footerText"><a href="http://www.amusicdirect.com/about/help.asp" class="footerText">Help</a></td>
+        <td class="footerText"><strong>&nbsp;&nbsp;·&nbsp;&nbsp;</strong></td>
+        <td class="footerText"><a href="http://www.amusicdirect.com/about/web_help.asp" class="footerText">Web User Help</a></td>
+        <td class="footerText"><strong>&nbsp;&nbsp;·&nbsp;&nbsp;</strong></td>
+        <td class="footerText"><a href="http://www.amusicdirect.com/about/employ.asp" class="footerText">Employment</a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td class="footerText"><img src="/images/1px.gif" width="670" height="1"></td>
+  </tr>
+</tbody></table>
+</div></td>
+  </tr>
+</tbody></table>
 
 </body></html>
