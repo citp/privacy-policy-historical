@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404124101id_/http%3A//www.scanalert.com/Content.sa%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219135752id_/http%3A//www.scanalert.com/Content.sa%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # ScanAlert
 
@@ -8,7 +8,7 @@ About TRUSTe
 
 ScanAlert is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices including full and honest disclosure of specific practices in a Privacy Statement. 
 
-Each change to ScanAlert’s Privacy Statement is reviewed by TRUSTe before publication to ensure compliance with their strict standards. However, our goal is always to raise the bar, and exceed industry standards wherever possible. 
+Each change to ScanAlerts Privacy Statement is reviewed by TRUSTe before publication to ensure compliance with their strict standards. However, our goal is always to raise the bar, and exceed industry standards wherever possible. 
 
 What is Covered in This Statement
 
