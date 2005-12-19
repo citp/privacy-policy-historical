@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spamfighter.com privacy policy that was archived on 2004-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040822005337id_/http%3A//spamfighter.com/Info_Privacy_Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spamfighter.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219122609id_/http%3A//www.spamfighter.com/Info_Privacy_Statement.asp) for the most accurate reproduction.*
 
 # SPAMfighter Privacy Statement - SPAMfighter
 
