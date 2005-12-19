@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpli.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403214605id_/http%3A//www.simpli.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpli.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219141406id_/http%3A//simpli.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Simpli
 
@@ -101,5 +101,5 @@ You also agree that you have provided notice to, and obtained consent from, any 
 
 CONTACT US 
 
-For more information or if you have questions or concerns regarding the ValueClick Network Privacy Policy, please email us at [privacy@Simpli.com](mailto:privacy@Search123.com) or you can send correspondence to the following address: Simpli, Privacy Officer, 4353 Park Terrace Drive, Westlake Village, CA 91361.   
+For more information or if you have questions or concerns regarding the ValueClick Network Privacy Policy, please email us at [privacy@Simpli.com](mailto:privacy@Search123.com) or you can send correspondence to the following address: Simpli, Privacy Officer, 30699 Russell Ranch Road, Suite 250, Westlake Village, CA 91361.   
 
