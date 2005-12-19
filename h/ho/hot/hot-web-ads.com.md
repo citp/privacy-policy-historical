@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hot-web-ads.com privacy policy that was archived on 2005-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050320012545id_/http%3A//www.hot-web-ads.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot-web-ads.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219125609id_/http%3A//www.hot-web-ads.com/info/privacy.php) for the most accurate reproduction.*
 
 # Hot-Web-Ads.com - Privacy Policy
 
@@ -42,6 +42,6 @@ A Special Note about Children
 
 Hot-Web-Ads.com does not knowingly collect any information from persons under the age of 18. Children (persons under the age of 18) are not eligible to use Hot-Web-Ads.com website unsupervised. If you are under the age of 18, you may use Hot-Web-Ads.com website only in conjunction with and under the supervision of a parent or legal guardian. If Hot-Web-Ads.com learns that a posting has been submitted by a person under the age of 18 without supervised, we will remove that post. 
 
-Should you have any questions, concerns, or comments, please [**contact us**](https://web.archive.org/info/contactus.php) online or send email to [**administrator**](mailto:admin@Hot-Web-Ads.com) at Hot-Web-Ads.com.
+Should you have any questions, concerns, or comments, please [**contact us**](https://web.archive.org/info/contactus.php).
 
-[Hot-Web-Ads.com](http://www.hot-web-ads.com/)
+Hot-Web-Ads.com - 100% [Free Online Advertising](http://www.hot-web-ads.com/). No Sign up Required.
