@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amazingmoms.com privacy policy that was archived on 2004-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040813025935id_/http%3A//www.amazingmoms.com/htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingmoms.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219015806id_/http%3A//amazingmoms.com/htm/privacy.htm) for the most accurate reproduction.*
 
 # Amazingmoms Privacy Statement
 
-|   |  **Amazingmoms Privacy Statement  
+**Amazingmoms Privacy Statement  
 **   
   Your Family's safety is very important to us! We also understand the frustration regarding SPAM  and "junk mail"...Who has the time? This statement is to inform our visitors of our company policy to ensure privacy while using this site.. If we make any changes to this statement they   
 will be posted on this page and will be effective upon   
@@ -23,15 +23,8 @@ For example: 70% of our viewers reside in the USA
                    and so on....  
 This information is not sold to marketing companies for the purposes of unsolicited advertising.
 
-Please feel free to [contact us](https://web.archive.org/web/20040813025935id_/http%3A//www.amazingmoms.com/htm/contact_us.htm) with questions regarding this  
+Please feel free to [contact us](https://web.archive.org/web/20051219015806id_/http%3A//amazingmoms.com/htm/contact_us.htm) with questions regarding this  
 Privacy statement.
 
-| 
-
-[](http://www.birthdayexpress.com/bexpress/affredir.asp?sid=112915&aid=515475&url=http%3A%2F%2Fwww%2Ebirthdayexpress%2Ecom%2Fbexpress%2Fproduct%2Easp%3Fsku%3DE2494)
-
-[ ](http://www.qksrv.net/click-391849-5593574)  
-  
----|---|---  
-  
- 
+|   
+---|---
