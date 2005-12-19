@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommasterminds.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404100457id_/http%3A//www.mommasterminds.com/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommasterminds.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219232925id_/http%3A//www.mommasterminds.com/policies.htm) for the most accurate reproduction.*
 
 # Privacy and Policies
 
@@ -31,5 +31,7 @@ All advice provided on this website is for general informational purposes only. 
 **Policy Changes**
 
 Mom Masterminds™ reserve the right to make changes to these policies and encourage you to review the privacy policy frequently. By continued use of this website, you agree to accept these terms and any changes.
+
+2Checkout.com, Inc. is an authorized retailer of MomMasterminds.
 
 Copyright © Mom Masterminds™ 2004. All Rights Reserved
