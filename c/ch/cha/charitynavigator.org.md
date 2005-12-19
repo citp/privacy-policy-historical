@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406225558id_/http%3A//www.charitynavigator.org/index.cfm/bay/content.view/catid/61/cpid/38.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219041533id_/http%3A//charitynavigator.org/index.cfm/bay/content.view/catid/61/cpid/38.htm) for the most accurate reproduction.*
 
 # Charity Navigator - Privacy
 
@@ -8,7 +8,7 @@
  **Collection of personally identifiable information:**  
 Charity Navigator may collect email addresses and other personally identifiable data about visitors when such data is voluntarily submitted to charitynavigator.org. For example, our site uses information collection forms for visitors to request information, sign up for the My Charities section, or to subscribe to our free newsletter. Contact information from these sign-up forms is used to send information and data about Charity Navigator to our visitors. We never request financial information from any of our visitors.
 
-To become a member at the Charity Navigator site, we require registration of personal information. We use this information to make this function more effective and provide participants with additional information about charitable issues. All such information is collected and stored in a manner appropriate to the nature of the data.
+To become a registered user of the Charity Navigator site, we require registration of personal information. We use this information to make this function more effective and provide participants with additional information about charitable issues. All such information is collected and stored in a manner appropriate to the nature of the data.
 
 Charity Navigator makes every effort to insure the secure collection and transmission of sensitive user information using industry accepted data collection and encryption methodologies.
 
