@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the netcomponents.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405225551id_/http%3A//www.netcomponents.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcomponents.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219154439id_/http%3A//www.netcomponents.com/privacy.htm) for the most accurate reproduction.*
 
 # netCOMPONENTS: Privacy Policy
 
 |  |  |  |   
 ---|---|---  
-|  [Home](http://www.netcomponents.com/home.htm)  
-|  [Information](http://www.netcomponents.com/info.htm)  
-|  [Contact Us](http://www.netcomponents.com/contact.htm)  
-|  [Forgot My Password](http://www.netcomponents.com/pwd.htm)  
-|  [Login](https://www.netcomponents.com/login.htm)  
-|  [Terms Of Use](http://www.netcomponents.com/terms.htm)  
-|  [Privacy Policy](http://www.netcomponents.com/privacy.htm)  
+| [Home](http://www.netcomponents.com/home.htm)  
+| [Information](http://www.netcomponents.com/info.htm)  
+| [Contact Us](http://www.netcomponents.com/contact.htm)  
+| [Forgot My Password](http://www.netcomponents.com/pwd.htm)  
+| [Login](https://www.netcomponents.com/login.htm)  
+| [Terms Of Use](http://www.netcomponents.com/terms.htm)  
+| [Privacy Policy](http://www.netcomponents.com/privacy.htm)  
   
   
 |  **Privacy Policy** |   
@@ -28,7 +28,7 @@ netCOMPONENTS will not sell, trade, or disclose to third parties any registratio
   
 **Collection and Use:** netCOMPONENTS servers automatically gather information about traffic activity within the netCOMPONENTS web site, including which pages are viewed and which functions are executed. netCOMPONENTS primarily uses this information only in the aggregate. netCOMPONENTS may collect and use registration and usage information for various purposes, including but not limited to, billing purposes, to provide or change service, to anticipate and resolve problems with your service, or to inform you of products and services that better meet your needs. This means that netCOMPONENTS may use your registration and usage information, in conjunction with information available from other sources, to market new services that may be of interest to you, but netCOMPONENTS will not disclose your registration and usage information to third parties who want to market products to you.   
   
-**Member or Supplier Opt-Out:** A member or supplier may choose not to receive direct marketing communications from netCOMPONENTS in connection with netCOMPONENTS online services. Upon such choice, netCOMPONENTS will not use registration and usage information obtained from that member or supplier's registration to contact that member or supplier with marketing messages about any netCOMPONENTS products or services. A member or supplier may choose not to receive such messages by notifying netCOMPONENTS via e-mail, fax or mail.   
+**Member or Supplier Opt-Out:** A member or supplier may choose not to receive direct marketing communications via e-mail, fax, and mail from netCOMPONENTS in connection with netCOMPONENTS online services. Upon such choice, netCOMPONENTS will not use registration and usage information obtained from that member or supplier's registration to contact that member or supplier with marketing messages via e-mail, fax, and mail about any netCOMPONENTS products or services. A member or supplier may choose not to receive such marketing messages by notifying netCOMPONENTS via e-mail, fax or mail.   
   
 **Security:** netCOMPONENTS has implemented technology and security features to safeguard the privacy of your registration and usage information from unauthorized access or improper use, and netCOMPONENTS, based on its judgment, will continue to enhance its security procedures as new technology becomes available. However, "perfect security" is not available on the Internet.   
   
@@ -78,4 +78,4 @@ netCOMPONENTS reserves the right to change its privacy policy by publishing new 
   
 Please direct any questions or comments regarding the netCOMPONENTS privacy policy to [webmaster@netcomponents.com](mailto:webmaster@netcomponents.com).
 
-Privacy Policy   rev 1.2 
+Privacy Policy   rev 1.3 
