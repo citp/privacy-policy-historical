@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamegarage.co.uk privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171840id_/http%3A//www.gamegarage.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamegarage.co.uk privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219195149id_/http%3A//www.gamegarage.co.uk/privacy) for the most accurate reproduction.*
 
-# GameGarage - Privacy Policy
+# Privacy Policy - GameGarage.co.uk
 
-Your IP address is saved for 15 minutes after you leave the site in the players online system, however the server saves all requests including the time and your IP address so that these logs can be used for statistics.
+Your IP address is saved for minutes after you leave the site in the players online system, however the server saves all requests including the time and your IP address so that these logs can be used for statistics.
 
 Another time at which information is saved is in the errors script, if you encounter an error your IP address is saved in the database so that these requests can be viewed to make sure people haven't been making hacking attempts to the system.
 
