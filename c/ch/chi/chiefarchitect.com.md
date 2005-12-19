@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiefarchitect.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207045936id_/http%3A//www.chiefarchitect.com/mainlinks/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefarchitect.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219221021id_/http%3A//chiefarchitect.com/mainlinks/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
