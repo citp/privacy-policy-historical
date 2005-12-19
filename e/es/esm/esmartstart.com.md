@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esmartstart.com privacy policy that was archived on 2004-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040919212047id_/http%3A//esmartstart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esmartstart.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219154758id_/http%3A//esmartstart.com/privacy.php) for the most accurate reproduction.*
 
 # eSmartStart - Free Web Hosting!
 
@@ -15,10 +15,14 @@ E-mail addresses are utilized only to notify users of significant changes, to ad
 **Cookies:**  
 eSmartStart uses cookies to facilitate your navigation around the member area of our website.  This cookie information is set to expire every 15 minutes or when you expressly log out of your account.  Cookies are not used for any other purpose.
 
-**Advertising & Third Party Partnerships:**  
-eSmartStart works with reputable third parties such as Sonar Network (Doubleclick), Engage (Flycast), and ValueClick to serve ads to this site. In the course of delivering an ad to you these companies collect certain non-personally identifiable information about you. This information is used to deliver tailored ads to you.  To find out more about how these companies manage the privacy of information in conjunction with serving ads on this site, please visit the following links: [Sonar Network](http://www.sonar.com/content/privacy.htm) | [Engage](http://www.engage.com/privacy/) | [ValueClick](http://www.valueclick.com/privacy.html). 
+**Third Party Advertising:**  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
 
+ **Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+
+  
 **Contact us:**  
-If you have any questions/concerns about our privacy statement, feel free to contact us at [support@esmartstart.com](mailto:support@esmartstart.com)
+If you have any questions/concerns about our privacy statement, feel free to [CONTACT US](http://www.esmartstart.com/email.php).
 
 Thank You!
