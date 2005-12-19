@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the atpm.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305015606id_/http%3A//atpm.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atpm.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219103818id_/http%3A//www.atpm.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # ATPM - About - Privacy Statement
 
 [About This Particular Mac (ATPM)](http://www.atpm.com/) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.
 
-## Third Part Advertising
+## Third Party Advertising
 
 We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
@@ -14,7 +14,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 ## Comments
 
-If you participate in our voluntary comments forums (at the bottom of each article page), you may optionally provide your name and e-mail address. If you do, _ATPM_ records this information and publishes it on the comments page next to your comment. Comments become the property of _ATPM_ and may be republished in our monthly issues.
+If you participate in our voluntary comments forums (at the bottom of each article page), you may optionally provide your name and e-mail address. If you do, _ATPM_ records this information but does not publish it on the comments page next to your comment. Comments become the property of _ATPM_ and may be republished in our monthly issues.
 
 ## External Links
 
