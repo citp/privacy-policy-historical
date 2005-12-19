@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623014647id_/http%3A//www.platts.com/Privacy%2520Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219131910id_/http%3A//www.platts.com/Privacy%2520Notice) for the most accurate reproduction.*
 
 # Platts
 
@@ -54,19 +54,19 @@ Zip/Postal Code:*|
 Country:*|   
 Contact Telephone number (please include country and area codes):*|   
   
-From time to time, we may also share your information with outside vendors who will be authorized to use this information solely to perform services (such as a "mailing" house) on our behalf. If you have questions about our privacy practices or if you would like to exercise your right to access and correct the accuracy of your information, please send a request to Platts Privacy Official, Platts, 3333 Walnut Street, Boulder, Colorado, 80301, USA, [Irene_kristufek@platts.com](mailto:Irene_kristufek@platts.com) or +1 720-548-5677. This information will be maintained in a secure database in the United States and accessed only by authorized employees.
+From time to time, we may also share your information with outside vendors who will be authorized to use this information solely to perform services (such as a "mailing" house) on our behalf. If you have questions about our privacy practices or if you would like to exercise your right to access and correct the accuracy of your information, please send a request to Platts Privacy Official, Platts, 2 Penn Plaza, New York, NY, 10121, USA, or to [Sue_Ballantine@platts.com](mailto:sue_ballantine@platts.com) or call +1 212-904-6215. This information will be maintained in a secure database in the United States and accessed only by authorized employees.
 
 For more information about The McGraw-Hill Companies' Customer Privacy Policy, visit our Web site at <http://www.mcgraw-hill.com/privacy.html>.  
   
-[Printer-friendly format](https://web.archive.org/web/20050623014647id_/http://www.platts.com/Privacy%20Notice/?S=printer&)
+[Printer-friendly format](https://web.archive.org/web/20051219131910id_/http://www.platts.com/Privacy%20Notice/?S=printer&)
 
-[Contact Us](https://web.archive.org/Contact%20Us/)     [Client Services](https://web.archive.org/Client%20Services/)     [Help](https://web.archive.org/Help/)[
+[About Us](https://web.archive.org/Contact%20Us/)     [Contact Us](https://web.archive.org/Contact%20Us/)     [Client Services](https://web.archive.org/Client%20Services/)     [Help](https://web.archive.org/Help/)[
 
 For Advertisers
 
 ](https://web.archive.org/For%20Advertisers/index.html)     [Privacy Notice](https://web.archive.org/Privacy%20Notice/)     [Terms & Conditions](https://web.archive.org/Terms%20&%20Conditions/)
 
-Copyright © 2005 - Platts, All Rights Reserved  
+Copyright © 2006 - Platts, All Rights Reserved  
 
 
 | 
