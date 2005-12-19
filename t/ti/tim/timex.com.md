@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timex.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407014613id_/http%3A//www.timex.com/html/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timex.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219140121id_/http%3A//www.timex.com/html/help_privacy.html) for the most accurate reproduction.*
 
 # Timex - Help - Customer Privacy
 
