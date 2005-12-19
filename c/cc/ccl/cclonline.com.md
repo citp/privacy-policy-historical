@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cclonline.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305005630id_/http%3A//www.cclonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cclonline.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219153003id_/http%3A//www.cclonline.com/privacy.asp) for the most accurate reproduction.*
 
 # CCL Computers
 
@@ -9,13 +9,13 @@ In this Privacy Policy references to “we” and “us” are to CCL Computers 
 **1.0     Types of personal information**
 
 > **1.1     User IDs and Passwords  
-> **Provide you with access to your profile areas. 
+>  **Provide you with access to your profile areas. 
 > 
 > **1.2     Account information  
-> **Tells us more about who you are, how to contact you, and your delivery and invoice information.
+>  **Tells us more about who you are, how to contact you, and your delivery and invoice information.
 > 
 > **1.3     Email correspondence  
-> **Used to raise and respond to issues and enquires. 
+>  **Used to raise and respond to issues and enquires. 
 
 **2.0       Methods used to collect personal information**
 
@@ -31,13 +31,13 @@ Any personal information we collect from this website will be used in accordance
 
 The details we collect will be used to: 
 
-> **3.1     **Process your order and to maintain warranties.
+> **3.1     **Process your order and to maintain warranties. 
 > 
 > **3.2     **To carry out security checks, which will involve passing your details to a credit card reference agency, which may check the details we supply them against public and private databases. This will help to protect you and us against fraudulent transactions. 
 > 
 > **3.3     **We may also use the information that we collect from you to notify you about functionality changes to our website, the service that we provide and details of promotional or special offers. 
 > 
-> **3.4     **Information will not be provided to third parties, other than agents of CCL Computers Ltd or were required by Law. We may disclose your information to agents for the purpose of processing and fulfilling your order. Such parties will include couriers and maintenance organisations and others directly associated with the provision of the company’s products and services. 
+> **3.4     **Information will not be provided to third parties, other than agents of CCL Computers Ltd or where required by Law. We may disclose your information to agents for the purpose of processing and fulfilling your order. Such parties will include couriers and maintenance organisations and others directly associated with the provision of the company’s products and services. 
 
 **4.0       Data Protection and Security measures**
 
@@ -65,7 +65,7 @@ Any changes to our privacy policy will be updated and posted on this page of our
 
 **9.0       Your rights**
 
-You can request us to update or remove your personal information by emailing [dataprot@cclcomputers.co.uk](mailto:dataprot@cclcomputers.co.uk "click to send us an email") or by writing to us at the address below. However, please note that we may need to keep some personal data in order to process orders and to comply with customer service or after sale obligations.
+You can request us to update or remove your personal information by emailing [dataprot@cclonline.com](mailto:dataprot@cclonline.com) or by writing to us at the address below. However, please note that we may need to keep some personal data in order to process orders and to comply with customer service or after sale obligations.
 
 You also have the right to request a copy of any personal information we hold about you. To do this, write to us at the following address, enclosing a cheque for £10 payable to CCL Computers Ltd to cover our administration costs:
 
@@ -87,7 +87,7 @@ Please remember to include your name, address and a contact number.
 
 **10.0       Opt Out**
 
-You can opt out of e-mail updates by sending an e-mail to [bulletin@cclcomputers.co.uk](mailto:bulletin@cclcomputers.co.uk "click to send us an email") requesting that you be removed from our mailing list.
+You can opt out of e-mail updates by sending an e-mail to [bulletin@cclonline.com](mailto:bulletin@cclonline.com) requesting that you be removed from our mailing list.
 
 **11.0     Linked websites**
 
