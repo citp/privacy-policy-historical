@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonlinesurveys.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206114434id_/http%3A//freeonlinesurveys.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinesurveys.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219101028id_/http%3A//freeonlinesurveys.com/privacy.asp) for the most accurate reproduction.*
 
 # Free Online Surveys
 
@@ -9,7 +9,7 @@ Our postal address is
 1 Fairbourne Rd,  
 St. Austell, Cornwall, UK  
 We can be reached via e-mail at support@ProblemFree.co.uk  
-or you can reach us by telephone USA Toll free: 1-8888-66DATA, UK and international +44 (0)1752 257051 
+or you can reach us by telephone USA Toll free: 1-8888-66DATA, UK and international +44 (0)845 2002305 
 
   
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, including survey designs, results and site registrations.
@@ -28,7 +28,7 @@ If you supply us with your postal address on-line you will only receive the info
   
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.  
   
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.  
+If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.  
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above.
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them .  
