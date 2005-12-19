@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheercover.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403165840id_/http%3A//www.sheercover.com/privacy.php%3Fprdln%3DYB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheercover.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219132742id_/http%3A//www.sheercover.com/privacy.php%3Fprdln%3DYB) for the most accurate reproduction.*
 
 # Sheer Cover
 
