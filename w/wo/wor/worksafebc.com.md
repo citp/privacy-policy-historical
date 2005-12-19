@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the worksafebc.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305230516id_/http%3A//www.worksafebc.com/legal/leg_20.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksafebc.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219034026id_/http%3A//worksafebc.com/legal/leg_20.asp) for the most accurate reproduction.*
 
-# privacy policy
+# WorkSafeBC.com - Privacy
 
-The Workers' Compensation Board of B.C. recognizes the privacy concerns of visitors to our web site and the importance of protecting the privacy of any personal information collected about our visitors. As a general policy, we do not automatically collect any personal information (such as name, address, or e-mail address) from visitors to our site. The type of information that we may collect is non-personal information used to optimize our web pages for your computer (for example, the identity of your Internet browser, the type of operating system you use, and the domain name of your Internet service provider). We may also use non-personal information to determine the total number of visitors to our web site.
+## Privacy policy
 
-Personal information
+The Workers' Compensation Board of B.C.(WorkSafeBC) recognizes the privacy concerns of visitors to our web site and the importance of protecting the privacy of any personal information collected about our visitors. As a general policy, we do not automatically collect any personal information (such as name, address, or e-mail address) from visitors to our site. The type of information that we may collect is non-personal information used to optimize our web pages for your computer (for example, the identity of your Internet browser, the type of operating system you use, and the domain name of your Internet service provider). We may also use non-personal information to determine the total number of visitors to our web site.
+
+####  Personal information
 
 We only collect personal information about visitors to our site when visitors knowingly and voluntarily submit the information. Whenever we do collect such information, the following applies: 
 
@@ -15,15 +17,15 @@ We only collect personal information about visitors to our site when visitors kn
 
 
 
-Use of cookies 
+####  Use of cookies 
 
 Cookies are pieces of information that a web site transfers to an individual computer's hard drive for record-keeping purposes. Cookies make it easier for you to use a web site by saving passwords, purchases, and preferences while you visit the site. The Workers' Compensation Board of B.C. does not use cookies to retrieve information other than the information that was originally sent in a cookie. Most browsers accept cookies automatically. You can set your browser to reject cookies or to alert you when they are being sent.
 
-Links to other sites 
+####  Links to other sites 
 
-This site may be linked to other web sites within our organization, or to web sites operated by others. The Workers' Compensation Board of B.C. is not responsible for the content or practices of third-party web sites that may be linked to this site.   
+This site may be linked to other web sites within our organization, or to web sites operated by others. The Workers' Compensation Board of B.C. is not responsible for the content or practices of third-party web sites that may be linked to or from this site.   
 
 
-Privacy policy changes
+#### Privacy policy changes
 
 The Workers' Compensation Board of B.C. reviews its privacy policy periodically, and it may be subject to change. 
