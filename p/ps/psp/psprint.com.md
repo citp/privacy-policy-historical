@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526083022id_/http%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219155923id_/http%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # PsPrint - Full color business card printing, postcards, posters, flyers, brochures, on four color presses for cheap, fast service
 
-[PsPrint.com](https://web.archive.org/web/20050526083022id_/http%3A//www.psprint.com/print_services/www.psprint.com) is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our clients to any other party except as required to process and ship purchases. 
+  
+| Privacy Policy |
+
+[PsPrint.com](http://www.psprint.com/index.asp) is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our clients to any other party except as required to process and ship purchases. 
 
 Information Collection
 
-PsPrint is the sole owner of the information collected on [http://www.psprint.com](). PsPrint collects information from our users at several different points on our Web site.
+PsPrint is the sole owner of the information collected on [http://www.psprint.com](https://web.archive.org/index.asp). PsPrint collects information from our users at several different points on our Web site.
 
 Registration
 
@@ -88,3 +91,6 @@ PsPrint.com
 2861 Mandela Parkway  
 Oakland, CA 94608  
 800/511.2009
+
+  
+
