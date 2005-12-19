@@ -1,25 +1,158 @@
-<!--The following is the downloaded HTML source of the peoplepc.com privacy policy that was archived on 2005-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050405023212id_/http%3A//www.peoplepc.com/online/legals.asp%3Flocid%3D1%26pageid%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the peoplepc.com privacy policy that was archived on 2005-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219134050id_/http%3A//www.peoplepc.com/online/legals.asp%3Flocid%3D1%26pageid%3D1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:local="http://home.peoplepc.com"><head>
 	<title>Privacy and Other Policies — Privacy Policy</title>
 	<link rel="stylesheet" type="text/css" href="/style/styleBase.css">
-</head>
+<script language="javascript" type="text/javascript">
+<!--//
+var browseWin;
+var bEnableBrowseAway = false;
+var bIsBrowseAwayCodeLoaded = false;
 
-<body bgcolor="#FFFFFF" leftmargin="1" topmargin="1" marginwidth="1" marginheight="1">
+//'window.onerror = handleJSError;
+function handleJSError(msg, url, linenumber) {
+	alert('Javascript error:\n\nmsg:\n'+msg+'\n\nurl:\n'+url+'\n\nlinenumber:\n'+linenumber);
+	return true;
+}
+
+function hasBART() {
+	var bResult = false;
+	var sBrowserName = navigator.appName;
+	var iBrowserVer = parseInt(navigator.appVersion);
+	try {
+		if (sBrowserName.indexOf("Explorer") > 0 && iBrowserVer >= 3) { //' IE 5.x and above
+			window.external.ShowWin(5);
+			bResult = true;
+		}
+	} catch (ignore) {}
+	return bResult;
+}
+
+function doFocusBrowseWin() {
+	if (browseWin && !browseWin.closed && browseWin.focus) browseWin.focus();
+}
+
+function doCheckBrowseAway() {
+	//'alert('dAVE is debugging\n\ndoCheckBrowseAway()');
+	//'var bShowBrowseAway = true;
+	var bShowBrowseAway = false; //'hotfix
+	try {
+		//'alert('hasPPCBrowseAwayCookie() #1:'+hasPPCBrowseAwayCookie());
+		if (!hasBART() && !hasPPCBrowseAwayCookie()) { //' web only and didn't already accept offer
+			if (document.activeElement && document.activeElement.tagName && document.activeElement.href) {
+				if (document.activeElement.tagName.toUpperCase() == 'A') {
+					if ((/peoplepc.com|ispoffer.com|javascript/i).test(document.activeElement.href)) {
+						bShowBrowseAway = false; //'no popup if link to peoplepc/ispoffer domain or javascript function
+					} else {
+						//'alert('not a PPC domain, href:'+document.activeElement.href);
+					}
+				} else {
+					//'alert('document.activeElement.tagName not A');
+				}
+			} else {
+				//'alert('document.activeElement or document.activeElement.tagName is NULL');
+			}
+			if (bShowBrowseAway) {
+				var iWidth = 410;
+				var iHeight = 412;
+				var iTop = (screen.height - iHeight) / 2;
+				var iLeft = (screen.width - iWidth) / 2;
+				popwin = launch("http://www.peoplepc.com/browseaway/index.htm", "pop", "top="+iTop+",left="+iLeft+",width="+iWidth+",height="+iHeight+",directories=0,location=0,menubar=0,resizable=0,scrollbars=0,status=0,toolbar=0", "");
+			}
+		}
+	} catch (ignore) {}
+}
+
+function launch(newURL, newName, newFeatures, orgName, popWidth, popHeight) {
+	var iWidth, iHeight, iTop, iLeft;
+	if (popWidth && popHeight) {
+		iWidth = popWidth + 24;
+		iHeight = popHeight + 36;
+		iTop = (screen.availHeight - iHeight) / 2;
+		iLeft = (screen.availWidth - iWidth) / 2;
+		newFeatures += ",top="+iTop+",left="+iLeft+",width="+iWidth+",height="+iHeight;
+	}
+	var remote = window.open(newURL, newName, newFeatures);
+	if (remote) {
+		if (remote.opener == null) {
+			remote.opener = window;
+		}
+		remote.opener.name = orgName;
+		return remote;
+	} else {
+		alert('Your pop-up blocker is preventing one of our windows from being displayed.\nTo see this window, you must enable pop-ups for this site.');
+		return null;
+	}
+}
+
+function readCookie(Name) {
+	var cookies = " " + document.cookie;
+	if (cookies.indexOf(" " + Name + "=") == -1) return null;
+	var start = cookies.indexOf(" " + Name + '=') + (Name.length + 2);
+	var finish = cookies.substring(start,cookies.length);
+	finish = (finish.indexOf(";") == -1) ? cookies.length : start + finish.indexOf(";");
+	return unescape(cookies.substring(start,finish));
+}
+
+function hasPPCBrowseAwayCookie() {
+	var sValue = readCookie("PPCBrowseAwayCookie");
+	return (sValue && sValue == "true");
+}
+
+function doCheckBrowseAwayClick(ev) { //'not used
+	var myTag = "";
+	var myElement = window.event.srcElement;
+	while (myElement.tagName.toUpperCase()!="A" && myElement.tagName.toUpperCase()!="BODY" && myElement.tagName.toUpperCase()!="INPUT") {
+		myElement = myElement.parentElement;
+	}
+	myTag = myElement.tagName.toUpperCase();
+	if (myTag=="A") {
+		myTag=myElement.href.toUpperCase();
+		if (myTag!="") {
+			if (myTag.indexOf('JAVASCRIPT')!=-1) {
+				bEnableBrowseAway=false;
+			} else if (myTag.indexOf('PEOPLEPC.COM')!=-1 || myTag.indexOf('ISPOFFER.COM')!=-1) {
+				bEnableBrowseAway=false;
+			} else {
+				bEnableBrowseAway=true;
+			}
+		}
+	}
+}
+
+function doHookOnClickEvent() { //' not used
+	if (document.all && bIsBrowseAwayCodeLoaded) {
+		bEnableBrowseAway = true;
+		document.onclick = doCheckBrowseAwayClick;
+	}
+}
+
+bIsBrowseAwayCodeLoaded = true;
+//-->
+</script>
+
+
+</head>
+<!-- BUNDLE HEAD COMMON -->
+<body bgcolor="#FFFFFF" leftmargin="1" topmargin="1" marginwidth="1" marginheight="1" xonload="doHookOnClickEvent()" onunload="doCheckBrowseAway()">
+
 <table width="756" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		<td colspan="2">
-			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0" class="rulegray">
 				<tbody><tr>
-					<td bgcolor="#0033CC"><img src="/i/common/Logo_w_Tagline.gif" width="216" height="54" border="0"></td>
-				</tr>
-				<tr><td bgcolor="#FFFFFF"><img src="/i/utils/glassblock.gif" width="1" height="1" border="0"></td></tr>
-				<tr>
-					<td bgcolor="#0099FF" id="HeadNavBar" class="HeaderNav" align="right">
-						<a href="/">Home</a> | <a href="/connect/internet_access.asp">Access Numbers</a> | <a href="/connect/cancel_isp.asp">Easy Switching</a> | <a href="/connect/alreadymember_redirect.asp?go=downloadsoftware">Download Software</a> | <a href="/connect/alreadymember_redirect.asp?go=memberlogin">PeoplePC Member Login</a> | <a href="/faq/index.asp">FAQs</a> | <a href="/connect/ppc_online.asp">Learn More</a>
+					<td>
+						<table width="100%" cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr bgcolor="#003399" height="57" valign="middle">
+								<td style="padding-left:19px;"><a href="/"><img src="/i/landing/ppco_logo.gif" width="169" height="35" border="0"></a></td>
+								<td><img src="/i/landing/hdr_gradient.gif"></td>
+								<td align="right" style="padding-right:23px;"></td>
+							</tr>
+						</tbody></table>
 					</td>
 				</tr>
+				<tr><td bgcolor="#FFFFFF"><img src="/i/utils/glassblock.gif" width="1" height="1" border="0"></td></tr>
 			</tbody></table>
 		</td>
 	</tr>
@@ -46,9 +179,9 @@
 
 			lp ="/online/legals.asp";
 			ptl="http:";
-			lhn="peoplepc.com";
+			lhn="www.peoplepc.com";
 			ls ="?locid=1&pageid=1";
-			lhref = "http://peoplepc.com/online/legals.asp";
+			lhref = "http://www.peoplepc.com/online/legals.asp";
 			cid = "";
 			if (cid == "") cid = "no customerID legals";
 
@@ -107,7 +240,7 @@
 			//END EDITABLE SECTION
 
 			//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-			</script><script language="javascript1.1" defer="true" src="http://a229.g.akamai.net/f/229/201/7d/home.peoplepc.com/HBX/hbx.js"></script><a name="#top"></a><font class="headline"><div style="position:relative;"><span class="header">Privacy Policy</span></div><div style="position:relative;width:100%;height:4px;overflow-y:hidden;"></div><div style="position:relative;width:100%;height:1px;background-color:#000000;overflow-y:hidden;"></div></font><br><p><b>Read This Privacy Policy Carefully Before Using Our Internet Services.</b></p>
+			</script><script language="javascript1.1" defer="true" src="http://home.peoplepc.com/HBX/hbx.js"></script><a name="#top"></a><font class="headline"><div style="position:relative;"><span class="header">Privacy Policy</span></div><div style="position:relative;width:100%;height:4px;overflow-y:hidden;"></div><div style="position:relative;width:100%;height:1px;background-color:#000000;overflow-y:hidden;"></div></font><br><p><b>Read This Privacy Policy Carefully Before Using Our Internet Services.</b></p>
 <p>PeoplePC has created this Privacy Policy to demonstrate our firm commitment to your privacy and security. This Privacy Policy describes the personally identifiable information we acquire online ("Personal Data") from subscribers ("Members") and users of our services (the "Services"), the non-personally identifiable information we may collect, how we use the information we collect, and the choices you have concerning the collection and use of such information. Please read this Privacy Policy carefully.</p>
 <p>PeoplePC reserves the right to revise, amend, or modify this policy at any time and in any manner so please review it frequently. Any revision, amendment, or modification will be posted on our web site: <a href="http://www.peoplepc.com">www.peoplepc.com</a>. Any changes we make will be effective from the date shown as the Effective Date. However, so that our Policy applies uniformly to all Members, the Privacy Policy as modified will apply to Personal Data without regard to whether it was collected before or after such Effective Date.</p>
 <p>Our site contains links to sites operated by third parties. Each company has its own privacy policies and practices, and PeoplePC is not responsible for the privacy practices or content of third party web sites. Please read these third party policies and use your own judgment when visiting these sites.</p>
@@ -263,19 +396,55 @@ San Francisco, CA 94126-0909</p>
 			</td>
 			
 			<td width="100%" id="MainBodyColumn" valign="top">
-			</td></tr><tr>
+			
+<style type="text/css">
+	#FooterNavBar2 {
+		height:57px;
+		color:#FFFFFF;
+		background-color:#003399;
+		horizontal-align:center;
+		vertical-align:middle;
+	}
+	.FooterNavBar2Link, a.FooterNavBar2Link, a:visited.FooterNavBar2Link, a:active.FooterNavBar2Link {
+		font-size: 12px;
+		color:#FFFFFF;
+	}
+	#FooterNavBar3 {
+		height:27px;
+		color:#000000;
+		horizontal-align:center;
+		vertical-align:middle;
+	}
+	.FooterNavBar3Link, a.FooterNavBar3Link, a:visited.FooterNavBar3Link, a:active.FooterNavBar3Link {
+		font-size:11px;
+		color:#000000;
+	}
+</style>
+	
+	</td></tr><tr>
+		<td id="LeftNavColumn" width="153" valign="top">
+		</td><td align="right" style="padding-top:15px;"><small><a name="">To register by phone, call toll free 1-877-947-3327 and mention Offer Code WEB6</a></small></td>
+	</tr>
+	<tr>
 		<td colspan="2">
 			<table width="100%" cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr><td bgcolor="#FFFFFF"><img src="/i/utils/glassblock.gif" width="1" height="1" border="0"></td></tr>
-				<tr>
-					<td bgcolor="#0033CC" id="FooterNavBar">
-						<div class="FooterContact"><span style="FooterContact">Contact us anytime through <a href="mailto:info@peoplepc.com">email</a> or call <b>1-877-947-3327<b></b></b></span></div><div class="FooterNav"><b><b><a href="/about_us/index.asp">About Us</a>&nbsp;|&nbsp;<a href="/about_us/jobs/index.asp">Careers@PeoplePC</a>&nbsp;|&nbsp;<a href="/partnership/affiliate/index.asp">Affiliate Program</a>&nbsp;|&nbsp;<a href="/partnership/index.asp">Business Solutions</a>&nbsp;|&nbsp;<a href="/online/terms.asp">Legal</a>&nbsp;|&nbsp;<a href="/online/legals.asp?locid=1&amp;pageid=1">Privacy Policy</a>&nbsp;|&nbsp;<a href="/about_us/partners/index.asp">Partners</a></b></b></div><b><b>
-					</b></b></td>
+				<tbody><tr><td bgcolor="#FFFFFF" style="height:4px;><img src=" i="" utils="" glassblock.gif"="" width="1" height="1" border="0"></td></tr>
+				<tr style="background: url(/i/landing/hdr_gradient.gif) no-repeat center;">
+					<td bgcolor="#003399" id="FooterNavBar2" class="FooterNavBar2" align="center" valign="middle">
+						<a href="/" class="FooterNavBar2Link">Home</a> | <a href="/about_us/index.asp" class="FooterNavBar2Link">About Us</a> | <a href="/connect/internet_access.asp" class="FooterNavBar2Link">Access Numbers</a> | <a href="/connect/cancel_isp.asp" class="FooterNavBar2Link">Easy Switching</a> | <a href="http://home.peoplepc.com/" class="FooterNavBar2Link">Member HomePage</a> | <a href="/faq/index.asp" class="FooterNavBar2Link">FAQ's</a> | <a href="http://www.saveamillion.net" class="FooterNavBar2Link">Save A Million</a>
+					</td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
+	<tr>
+		<td colspan="2" id="FooterNavBar3" class="FooterNavBar3" align="center" valign="middle">
+			<a href="/online/terms.asp" class="FooterNavBar3Link">Legal</a> | <a href="/online/legals.asp?locid=1&amp;pageid=1" class="FooterNavBar3Link">Privacy</a> | <a href="/partnership/affiliate/index.asp" class="FooterNavBar3Link">Affiliate Program</a> | <a href="/partnership/index.asp" class="FooterNavBar3Link">Business Solutions</a> | <a href="/connect/alreadymember_redirect.asp?go=downloadsoftware" class="FooterNavBar3Link">Download Software</a>
+			<p class="copyright" style="color:#003399;">Copyright © 2005, PeoplePC, Inc. All rights reserved.&nbsp;</p>
+		</td>
+	</tr>
 </tbody></table>
+
 
 
 
