@@ -1,6 +1,29 @@
-> *The following text is extracted and transformed from the gate1travel.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205234814id_/http%3A//www.gate1travel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gate1travel.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219215426id_/http%3A//www.gate1travel.com/privacy.htm) for the most accurate reproduction.*
 
-# Gate 1 Travel Privacy Policy
+# Gate 1 Travel - Privacy Policy
+
+**Policy:**  
+Gate 1 Travel is a member of the Secure Socket Layer program by Verisign. This statement discloses the privacy practices for the Gate 1 Travel Website. Gate 1 Travel has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site.
+
+|   
+---|---  
+  
+* * *
+
+Q1: How is Gate 1 using my IP Address?  
+Q2: What is a cookie and how are they used?  
+Q3: Are there cookies stored in my system when I click on your ads?  
+Q4: Will my information I provide for the newsletter remain private?  
+Q5: Can user information be accessed by outside parties?  
+Q6: Is my privacy protected when I leave through a link on the Gate 1 website?  
+Q7: What is Gate 1's Legal Disclaimer?  
+Q8: How do I contact Gate 1 with questions about its Privacy Policy?  
+Q9: Will my name be given to third party mailing lists?  
+Q10: What is my security code?  
+Q11: How does my security code protect me?  
+Q12: Do I have to enter my security code?
+
+* * *
 
 **Q: How is Gate 1 using my IP Address?**
 
@@ -60,9 +83,7 @@ top
 
 **Q: What is my security code?**
 
-A: It is an important new Internet security feature that now appears on the back of most Visa and MasterCards, and on the front of American Express cards. This new code is a three or four-digit number which provides a cryptographic check of the information embossed on the card.  
-The security code helps validate that the customer placing the online order actually has the credit card in his/her possession, and that the credit/debit card account is legitimate.  
-Click here for image showing location of [security code](https://web.archive.org/web/20050205234814id_/http%3A//www.gate1travel.com/Destinations/vcode.htm).
+A: It is an important new Internet security feature that now appears on the back of most Visa and MasterCards, and on the front of American Express cards. This new code is a three or four-digit number which provides a cryptographic check of the information embossed on the card. The security code helps validate that the customer placing the online order actually has the credit card in his/her possession, and that the credit/debit card account is legitimate. Click here for image showing location of [security code](https://web.archive.org/web/20051219215426id_/http%3A//www.gate1travel.com/Destinations/vcode.htm).
 
 top
 
@@ -77,5 +98,3 @@ top
 A: If this code is printed on your card, YES, you must enter the code. Visa, MasterCard, and American Express now require Internet stores to obtain the security code for all cards that have a code printed on them. In order for this transaction to be accepted and processed, you must enter this code if it's printed on your card. This is done for your protection.
 
 top
-
-Back
