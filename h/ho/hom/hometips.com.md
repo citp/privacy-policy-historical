@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hometips.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305015614id_/http%3A//www.hometips.com/privpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometips.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219102843id_/http%3A//hometips.com/privpolicy.html) for the most accurate reproduction.*
 
 # Home Tips Privacy Policy
 
 **Our privacy policy**  
 _We strive to protect your personal privacy.  
-__Here are the policies we follow.  
+Here are the policies we follow.   
 _  
 Thank you for visiting HomeTips. Your privacy is important to us.  
 We will endeavor to respect and protect it.  
@@ -140,5 +140,4 @@ we'll post the changes here. And while the above statements and policies do not 
 or other legal rights in or on behalf of any party, the staff at Home Tips wishes to reiterate our opening statement:   
 
 
-Your right to personal privacy is important to us. We will endeavor to respect it.  
-
+Your right to personal privacy is important to us. We will endeavor to respect it.
