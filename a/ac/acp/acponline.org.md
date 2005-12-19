@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528083847id_/http%3A//www.acponline.org/privacy.htm%3Fft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219140159id_/http%3A//www.acponline.org/privacy.htm%3Fft) for the most accurate reproduction.*
 
 # ACP - ACP Privacy Policy
 
 ### Purpose 
 
-To inform web site visitors of ACP's efforts to protect the privacy of information collected at College web sites. Please note that some of the links on College web sites connect to other web sites. Once you leave any ACP web site and enter another web site (whether through an advertisement, co-brand, service, or content link), be aware that any information you disclose on or through those sites is not subject to this privacy policy. ACP does not endorse and is not responsible for the privacy practices of any third party web sites to which we may link. You should always review the privacy policy for those sites to understand how they treat your personal information. Within College web sites, this privacy policy applies only to the information described below.
+To inform web site visitors of ACP's efforts to protect the privacy of information collected at College web sites. Please note that some of the links on College web sites connect to other web sites. Once you leave any ACP web site and enter another web site (whether through an advertisement, co-brand, service, or content link), be aware that any information you disclose on or through those sites is not subject to this privacy policy. ACP does not endorse and is not responsible for the privacy practices of any third party web sites to which we may link. You acknowledge that such other web site locations are not under the control of ACP and agree that ACP shall not be responsible for any information or other links found at any linked site. ACP provides such links only as a convenience to you and has not tested any software or verified any information disclosed on or through such sites. You should always review the privacy policy for those sites to understand how they treat your personal information. Within College web sites, this privacy policy applies only to the information described below.
 
 ### Policy
 
-The American College of Physicians-American Society of Internal Medicine is committed to protecting the privacy of its members and customers. This document describes the information we collect from our web site and how we use it. 
+The American College of Physicians is committed to protecting the privacy of its members and customers. This document describes the information we collect from our web site and how we use it. 
 
 **Information collected when you visit ACP web sites**
 
