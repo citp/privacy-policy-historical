@@ -1,46 +1,53 @@
-> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610121809id_/http%3A//www.kcls.org/about/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219134156id_/http%3A//kcls.org/about/privacystatement.cfm) for the most accurate reproduction.*
 
 # King County Library System--Privacy Statement
 
 |  **Library Services**  
 ---  
-[Library Catalog ](http://www.kcls.org/catalog/kclswebpac.cfm)  
 [Find Your Library](http://www.kcls.org/kcls/liblist.cfm)  
 [Programs,   
 Classes & Events](http://www.kcls.org/programs/programs.cfm)  
 [Ask a Librarian](http://www.kcls.org/aall/pickerpage.cfm)  
-[Reserve a PC](http://book.kcls.org/)  
 [Library Cards](http://www.kcls.org/libcards/card.cfm)  
-[eBooks](http://ebooks.kcls.org/)  
-**Good Reads**  
-[Book Alert ](http://www.kcls.org/bookalert/)  
+[Reserve a PC](http://book.kcls.org/)  
+**Reading**  
+[Book Alert ](http://www.kcls.org/bookalert2/user_search.cfm)  
 [Book Clubs](http://www.kcls.org/bookclub/)  
-[Good Reads](http://www.kcls.org/gr/)  
+[](http://www.kcls.org/eaudio/eaudiofaqs.cfm)[eBooks-Audio](https://web.archive.org/ebooksaudio/)  
+[](http://ebooks.kcls.org/)[eBooks-Text](http://ebooks.kcls.org/)  
+[Good Reads](http://www.kcls.org/goodreads1/)  
 [New Reads](http://www.kcls.org/gr/newreads.cfm)  
-**Kids & Teens**  
-[ Accelerated Reader](http://www.kcls.org/accreader)  
-[ Homework Choices](http://www.kcls.org/hh/hhchoices.cfm)  
-[Homework Help](http://www.kcls.org/hh/homework.cfm)  
-[Kids Page](http://www.kcls.org/webkids/)  
+**For Kids & Teens**  
+[Accelerated   
+Reader](http://www.kcls.org/accreader)  
+[Early Literacy](http://www.kcls.org/readytoread)  
+[Homework](https://web.archive.org/homework/)  
+[KidsPage](http://www.kcls.org/webkids/)  
 [TeenZone](http://www.kcls.org/teens/)  
 [Parents & Caregivers](http://www.kcls.org/pp/parents.cfm)  
 **Library Resources**  
-[eAudio](http://www.kcls.org/eaudio/eaudiofaqs.cfm)  
 [ESL/Literacy](http://www.kcls.org/lit/esl.cfm)  
+[eMusic](http://ebooks.kcls.org/BANGSearch.dll?Type=Format&ID=30)  
 [New Music](https://web.archive.org/newmusic/)  
-[Preview Videos & DVD's](http://www.videodetective.com/home.asp?CustomerID=31457&Ads=false&PublishedId=1453)  
-[Seniors](http://www.kcls.org/tlc/tlcsvcs.cfm)  
+[ PNCC Magazine ](https://web.archive.org/web/20051219134156id_/http%3A//kcls.org/pacificnorthwestconvergence/index.cfm)  
+[Preview Videos & DVD's](http://www.videodetective.com/home.asp?CustomerID=31457&Ads=false&PublishedId=838279)  
+[Traveling Library Center](http://www.kcls.org/tlc/tlcsvcs.cfm)  
 [Special   
 Collections](http://www.kcls.org/sc/special.cfm)  
-[Foundation](http://www.kcls.org/foundation/)  
 [Search/Site Map](http://www.kcls.org/search/search.cfm)  
 [Volunteers](http://www.kcls.org/volunteers/friendvol.cfm)  
+**About KCLS**  
+[Board of Trustees](http://www.kcls.org/board/board.cfm)  
+[Friends](http://www.kcls.org/volunteers/friendvol.cfm)  
+[Foundation](http://www.kcls.org/foundation/)  
 [KCLS   
 Employment ](http://www.kcls.org/employment/hrjobs.cfm)  
-|  [](http://www.kcls.org/) |  [](http://www.kcls.org/catalog/kclswebpac.cfm) |  [](http://www.kcls.org/erout/erout.cfm) |  [](http://www.kcls.org/sws/categories.cfm) |  [](http://ipac.kcls.org/ipac20/ipac.jsp?&profile=dial--1--1--1&menu=account)  
+|  [](http://www.kcls.org/) |  [](http://catalog.kcls.org/) |  [](http://search3.webfeat.org/kclsmain.html) |  [](http://www.kcls.org/sws/categories.cfm) |  [](https://catalog.kcls.org/patroninfo)  
 ---|---|---|---|---  
   
-[Print This](http://www.kcls.org/printpage.cfm?pg=/about/privacystatement.cfm?)   [Email This](http://www.kcls.org/emailpage.cfm?pg=/about/privacystatement.cfm?)
+**** [Print This](http://www.kcls.org/printpage.cfm?pg=/about/privacystatement.cfm?)   [Email This  
+](http://www.kcls.org/emailpage.cfm?pg=/about/privacystatement.cfm?)   
+
 
 **King County Library System  
 Privacy Statement**  
@@ -67,8 +74,7 @@ The information collected consists of: 
 3\. Default language set on browsers.  
 4\. Usage patterns--allowing us to see what options need to  
    move closer to the top to enable users to get information as  
-  quickly as possible. (The tool used to collect this data is Web  
-  TrendsLive.)
+  quickly as possible. (The tool used to collect this data is HBX from Websidestory.)
 
 To use KCLS databases **remotely** (from outside the Library), users must type in their KCLS library card number, ensuring that King County taxpayers are the only ones benefiting from this information and service. Database vendors do not have access to any user records or information.
 
@@ -79,3 +85,7 @@ Names are purged every four days of holdings and previous activity. The informat
 KCLS does its best to lock down public access machines. However, KCLS cannot and does not guarantee that every task completed on PCs is private. While KCLS takes many measures to safeguard user information, it is not possible to totally secure a machine without rendering it useless. 
 
 If you have any questions about this statement, the practices of this site, or any other questions, please contact [ webmaster@kcls.org](mailto:webmaster@kcls.org). 
+
+Last Updated: 
+
+January 6, 2005
