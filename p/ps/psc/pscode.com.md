@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pscode.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206211711id_/http%3A//www.pscode.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pscode.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219213012id_/http%3A//www.pscode.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
 
 # visual basic, vb, active server pages (ASP),java, javscript,c, c++, c__ , vbscript,active server pages, ASP, vbscript,SQL, database, informix, oracle, SQL Server,Perl, CGI,Delphi, PHP,Free source code for the taking. Over five million lines of programs.
 
-_**For those who view Planet Source Code**_ Internet user privacy and confidentiality is of the utmost importance to Planet Source Code and it's owning company, [ Exhedra Solutions, Inc](http://www.exhedra.com/).. It's reputation and integrity is directly related to how it serves its web customers. 
+_**For those who view Planet Source Code**_ Internet user privacy and confidentiality is of the utmost importance to Planet Source Code and its owning company, [ Exhedra Solutions, Inc](http://www.exhedra.com/).. Its reputation and integrity is directly related to how it serves its web customers. 
 
 As a result, Planet Source Code openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@exhedra.com](mailto:privacy@exhedra.com). 
 
