@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the rackspace.co.uk privacy policy that was archived on 2005-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050208044020id_/http%3A//www.rackspace.co.uk/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rackspace.co.uk privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219165702id_/http%3A//rackspace.co.uk/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # 
 
-Rackspace Managed Hosting has created this privacy statement to demonstrate our firm commitment to privacy. This statement sets forth our information gathering and dissemination practices for the www.rackspace.com, www.rackspace.co.uk and my.rackspace.com sites.
+Rackspace Managed Hosting has created this privacy statement to demonstrate our firm commitment to privacy. This statement sets out our practices for the collection and use of information on our web sites and the circumstances in which we may record and/or monitor telephone calls. 
 
 Our sites use several different forms that our customers can use to request information, products, and services. From these forms, we collect the following information:
 
-  * Visitors' contact information (like e-mail addresses)   
-
-  * Unique identifiers (like customer numbers)   
-
-  * Financial information (like account or credit card numbers)   
-
+  * Visitors' contact information (like e-mail addresses) 
+  * Unique identifiers (like customer numbers) 
+  * Financial information (like account or credit card numbers) 
   * IP addresses 
 
 
@@ -49,13 +46,18 @@ We use cookies to keep track of your shopping cart and purchases during the time
 
 This site contains links to external Web Sites. Rackspace is not responsible for the privacy practices or the content of these Web sites.
 
+ **Why do we Record and/or Monitor Telephone Calls**  
+
+
+We may record telephone conversations to ensure compliance with procedures, to resolve complaints and improve our service standards.  Conversations may also be monitored for quality control and staff training purposes.
+
 Something we pioneered and one of the key components of **Fanatical Support™**
 
 [ **> Learn More**](https://web.archive.org/solutions/service_teams.htm)
 
   
   
-[](http://www.rackspace.co.uk/aboutus/contact_sales.htm)  
-[](http://www.rackspace.co.uk/aboutus/contact_sales.htm)
+[](https://web.archive.org/aboutus/contact_sales.aspx?r=callback)  
+[](https://web.archive.org/aboutus/contact_sales.aspx?r=contact)
 
-[](http://mediaproducts.gartner.com/reprints/rackspace/123741.html)
+[](http://www.rackspace.co.uk/aboutus/seawards05.htm)
