@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trygames.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410021126id_/http%3A//www.trygames.com/privacy/aff%3Dtrygames) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trygames.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219144321id_/http%3A//trygames.com/privacy/aff%3Dtrygames) for the most accurate reproduction.*
 
-# Trygames.com - Privacy
+# Trygames.com Privacy
 
 The privacy of your information is important to us. The following are the privacy policies of Trymedia Systems, Inc.
 
