@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307111554id_/http%3A//www.fxcm.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219094308id_/http%3A//fxcm.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
-# Forex Trading Course, Forex Course, Trading Course, Online Currency Trading Course
+# Currency Trading, Forex Trading, Forex, Online Currency Trading
 
 **Forex Capital Markets Limited ("FXCM Ltd.") respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former customers as well as our current customers.**
 
@@ -22,4 +22,5 @@ We may share personal information described above with our affiliates for busine
 
 **Regulatory Disclosure**
 
-Pursuant to FSA and applicable regulation, we may disclose personal information with regulatory authorities or as required by applicable law. For example, we may disclose personal information to cooperate with regulatory authorities and law enforcement agencies to comply with subpoenas or other official requests, and as necessary to protect our rights or property. Except as described in this privacy policy, we will not use your personal information for any other purpose unless we describe how such information will be used at the time you disclose it to us or we obtain your permission.
+Pursuant to FSA and applicable regulation, we may disclose personal information with regulatory authorities or as required by applicable law. For example, we may disclose personal information to cooperate with regulatory authorities and law enforcement agencies to comply with subpoenas or other official requests, and as necessary to protect our rights or property. Except as described in this privacy policy, we will not use your personal information for any other purpose unless we describe how such information will be used at the time you disclose it to us or we obtain your permission.  
+
