@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1second.com privacy policy that was archived on 2005-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050529112827id_/http%3A//www.1second.com/ppc-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1second.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219163751id_/http%3A//www.1second.com/ppc-privacy.htm) for the most accurate reproduction.*
 
-# 1second.com and 1America Mall Privacy Policy
+# 1second.com Privacy Policy
 
 When you provide your personal information (such as name, address, phone number, company name, email address, credit card or other financial information) ** we will never give or sell any of your individual information to anyone. **We will maintain the confidentiality of your personal information and **it will be used only to support your customer relationship with** **us**.
 
@@ -27,9 +27,9 @@ By using our Web sites and any or all of it's pages for your own advertising and
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-So, please use our sites with confidence and the very best regards to you from everyone here at **1second.com** and **1AmericaMall.com**
+So, please use our sites with confidence and the very best regards to you from everyone here at **1second.com**
 
-If you have any questions, please contact [CUSTOMER SUPPORT](http://www.1second.com/ppc-customer.htm).
+If you have any questions, or to report any instances of abuse please contact [CUSTOMER SUPPORT](http://www.1second.com/ppc-customer.htm).
 
 
 
