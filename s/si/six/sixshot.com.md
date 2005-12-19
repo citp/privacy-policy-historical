@@ -1,7 +1,15 @@
-> *The following text is extracted and transformed from the sixshot.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305052223id_/http%3A//www.sixshot.com/articles/912) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixshot.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219150812id_/http%3A//www.sixshot.com/articles/912) for the most accurate reproduction.*
 
 # TERMS AND CONDITIONS OF USE :: Review
 
+  
+|  | 
+
+REVIEWS 
+
+|   
+---|---  
+  
   
 Article by: [bab](http://community.sixshot.com/profile/?name=bab)
 
@@ -37,6 +45,18 @@ Peep the [ **review archive**](http://www.sixshot.com/section.asp?id=3)
 **Send** this Story [**to a Friend**](http://www.sixshot.com/mailto.asp?id=912)
 
   
-| **Comments on this article** | [Leave your comment](http://www.sixshot.com/comment_leave.asp?id=912)  
+| **2 Comments on this article** | [Leave your comment](http://www.sixshot.com/comment_leave.asp?id=912)  
 ---|---  
-There are no comments for this article yet
+  
+From : [_dj socker_](http://community.sixshot.com/profile/?name=dj%20socker)  
+**aigh**  
+aigh  
+  
+From : [_FeVaBlistaZ_](http://community.sixshot.com/profile/?name=FeVaBlistaZ)  
+**ight**  
+ight  
+  
+[ About](http://www.sixshot.com/articles/911/) |  [Advertising Opportunities](http://www.sixshot.com/articles/918/) |  [Privacy Policy](http://www.sixshot.com/articles/912/) | [RSS](http://www.sixshot.com/articles/4851/) | [ Toolbar](http://download.alexa.com/?amzn_id=rapmagazisixs-20) | [ Contact](http://www.sixshot.com/articles/913/) | [ Street Team](http://www.sixshot.com/articles/2928/) |  [Link Us](http://www.sixshot.com/articles/4450/) |  [Web Hosting](http://host.sixshot.com/)
+
+© 1997-2005 by Sixshot.com, all rights reserved  
+Best view with IE 4.0 or higher
