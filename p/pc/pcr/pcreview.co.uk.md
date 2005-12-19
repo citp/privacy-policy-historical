@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcreview.co.uk privacy policy that was archived on 2005-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050315215528id_/http%3A//www.pcreview.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcreview.co.uk privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219213624id_/http%3A//www.pcreview.co.uk/privacy.php) for the most accurate reproduction.*
 
 # PC Review - Privacy Policy
 
