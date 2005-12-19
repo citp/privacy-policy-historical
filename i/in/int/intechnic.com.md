@@ -1,23 +1,19 @@
-> *The following text is extracted and transformed from the intechnic.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403161312id_/http%3A//www.intechnic.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intechnic.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219075220id_/http%3A//www.intechnic.com/footer/privacy_policy.html) for the most accurate reproduction.*
 
-# Intechnic Corporation -
+# Privacy Policy :: Intechnic Corporation
 
-  
+|  |  |  |  |    
 | 
 
-Intechnic Corporation is committed to protecting your privacy and it is always our first priority. The following describes our policy regarding your personal, account and billing information.  Personal information includes, but is not limited to: your name, company name, Website address, login, address, telephone number, e-mail address, billing information, or any additional pertaining information that personally identifies you, your preferences and/or your purchasing history, and that is not otherwise publicly available. "You" means the visitor of our websites and/or our customer. "We", "us" means Intechnic Corporation.  
-
+Intechnic Corporation is committed to protecting your privacy and it is always our first priority. The following describes our policy regarding your personal, account and billing information.  Personal information includes, but is not limited to: your name, company name, Website address, login, address, telephone number, e-mail address, billing information, or any additional pertaining information that personally identifies you, your preferences and/or your purchasing history, and that is not otherwise publicly available. "You" means the visitor of our websites and/or our customer. "We", "us" means Intechnic Corporation.
 
 Intechnic can modify this Privacy Policy at any time without prior notice to you by posting revised Terms on our sites.
 
-  
 **1.  Information Shared** 
 
-Intechnic Corporation is the sole owner of the information collected on our network of Websites ([www.intechnic.com](http://www.intechnic.com/), [www.intechnic.lv](http://www.intechnic.lv/), [www.in-link.net](http://www.in-link.net/), [www.in-portal.net](http://www.in-portal.net/)). If you believe that any content on our network have been copied in a way that constitutes copyright infringement, or property rights have been violated, please contact [admin@intechnic.com](mailto:admin@intechnic.com) so we can remove that content.  
+Intechnic Corporation is the sole owner of the information collected on our network of Websites ([www.intechnic.com](http://www.intechnic.com/), [www.intechnic.lv](http://www.intechnic.lv/), [www.in-link.net](http://www.in-link.net/), [www.in-portal.net](http://www.in-portal.net/)). If you believe that any content on our network have been copied in a way that constitutes copyright infringement, or property rights have been violated, please contact [admin@intechnic.com](mailto:admin@intechnic.com) so we can remove that content.
 
-
-If you are seeking permission to use Intechnic Corporation trademarks, logos, slogans, screen shots, copyrighted designs, or other features, please contact [admin@intechnic.com](mailto:admin@intechnic.com).  
-
+If you are seeking permission to use Intechnic Corporation trademarks, logos, slogans, screen shots, copyrighted designs, or other features, please contact [admin@intechnic.com](mailto:admin@intechnic.com).
 
 Intechnic Corporation collects personal identifiable information from our users at several different points on our Websites.  The amount and type of information that we collect from you depends on your activities, the services that we provide and your use of our Websites.  Below is an explanation of the type of information that we collect.
 
@@ -96,9 +92,8 @@ Fax: 847-816-0568
 
 
 
-**4.  Information Storage**
-
-We store information that we collect through cookies, log files, and clear gifs, in order to create a "profile" of your preferences.  We do not tie your personally identifiable information, or your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you.
+**4.  Information Storage  
+**We store information that we collect through cookies, log files, and clear gifs, in order to create a "profile" of your preferences.  We do not tie your personally identifiable information, or your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you.
 
 **4.1  Log Files**
 
@@ -121,7 +116,7 @@ If you reject cookies, you may still use our site, but your ability to use some 
 
 Some of our business partners and clients use cookies on our site.  Intechnic Corporation has no access or control over these cookies.
 
- This privacy statement covers the use of cookies by our network of sites and does not cover the use of cookies by any client or business partner. 
+  This privacy statement covers the use of cookies by our network of sites and does not cover the use of cookies by any client or business partner. 
 
   **4.3  Links to Other Sites**
 
@@ -171,10 +166,10 @@ Intechnic Corporation
 175 E. Hawthorn Pkwy, Suite 401  
 Vernon Hills, IL 60061
 
-  
 Phone: 847.816.1231   
 Fax: 847.816.0568  
 Email: [info@intechnic.com](mailto:info@intechnic.com)
 
-|   
-
+|    
+  
+---|---|---
