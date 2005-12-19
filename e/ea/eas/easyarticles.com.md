@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyarticles.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408085044id_/http%3A//www.easyarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyarticles.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219084655id_/http%3A//easyarticles.com/privacy.php) for the most accurate reproduction.*
 
 # Free articles and website content
 
@@ -40,4 +40,4 @@ We reserve the right to modify this Privacy Policy in the future. Any changes to
 
 <http://www.easyarticles.com/privacy.php>
 
-Registration and use of this website is accepted as an acknowledgement and agreement of our posted [Terms & Conditions](https://web.archive.org/web/20050408085044id_/http%3A//www.easyarticles.com/terms.php) and [Privacy Policy](https://web.archive.org/web/20050408085044id_/http%3A//www.easyarticles.com/privacy.php). Users who find our [Terms & Conditions](https://web.archive.org/web/20050408085044id_/http%3A//www.easyarticles.com/terms.php) and/or [Privacy Policy](https://web.archive.org/web/20050408085044id_/http%3A//www.easyarticles.com/privacy.php) disagreeable are not allowed to use the EasyArticles.com website.
+Registration and use of this website is accepted as an acknowledgement and agreement of our posted [Terms & Conditions](https://web.archive.org/web/20051219084655id_/http%3A//easyarticles.com/terms.php) and [Privacy Policy](https://web.archive.org/web/20051219084655id_/http%3A//easyarticles.com/privacy.php). Users who find our [Terms & Conditions](https://web.archive.org/web/20051219084655id_/http%3A//easyarticles.com/terms.php) and/or [Privacy Policy](https://web.archive.org/web/20051219084655id_/http%3A//easyarticles.com/privacy.php) disagreeable are not allowed to use the EasyArticles.com website.
