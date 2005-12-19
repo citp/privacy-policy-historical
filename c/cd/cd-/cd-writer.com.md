@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cd-writer.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305035330id_/http%3A//www.cd-writer.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cd-writer.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219204440id_/http%3A//www.cd-writer.com/policy.html) for the most accurate reproduction.*
 
 # CD-WRITER.COM LTD Privacy Policy.
 
