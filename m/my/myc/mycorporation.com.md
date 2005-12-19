@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507172053id_/http%3A//www.mycorporation.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219210924id_/http%3A//mycorporation.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # MyCorporation Legal Disclaimer - Affiliate Program Agreement - Incorporate at MyCorporation.com
 
@@ -20,11 +20,15 @@ The contact information, corporate information and financial information from th
 
 REVIEW & CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION
 
-Our hosting service logs IP addresses, browser types and referred logs, which are used by our marketing staff for internal purposes only. Users can call 1-888-mycorp1 to remove contact, corporate and/or financial information from our databases and to not receive any future communications from us or to change or modify any contact, corporate and/or financial information previously provided to us.
+Our hosting service logs IP addresses, browser types and referred logs, which are used by our marketing staff for internal purposes only. At any time a User may request to review personally identifiable information by calling MYCORP toll-free at 1-888-MY-CORP-1 or contacting us through our website at [MyCorporation.com](http://www.mycorporation.com/mycorporation.htm). Users can call 1-888-MY-CORP-1 to remove contact, corporate and/or financial information from our databases and to not receive any future communications from us or to change or modify any contact, corporate and/or financial information previously provided to us.
 
-|  PROMOTIONS
+PROMOTIONS
 
 To preserve customer's anonymity and to assure the quality of customer communications, MYCORP provides customers with the opportunity to "opt-in" to any further marketing promotions. Our site provides users the opportunity to opt-out of receiving communications from our partners or us at the point where the information is requested.
+
+|  OPT-OUT POLICY 
+
+All of MYCORP's email correspondence either contain a link or instruct the user to send a reply with "Unsubscribe" in the subject line to enable the User to opt-out of receiving marketing emails. Upon receipt of correspondence from the User, the User's name will be removed from the MYCORP email database. 
 
 STATUS PAGE
 
@@ -44,9 +48,9 @@ By using our site, you consent to the collection and use of this information by 
 
 CHANGES TO SITE
 
-If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
+If we decide to change our privacy policy, we will post those changes on this page and we will post a notice on our homepage inviting Users to review MYCORP's revised privacy notice. We will also send an email to all Users allowing them fourteen (14) days to respond. Absent a response, it will be presumed that all users accept the privacy policy, as revised.
 
-EFFECTIVE DATE This Privacy Policy is effective this 1st day of August, 2004. 
+EFFECTIVE DATE This Privacy Policy is effective this 1st day of June 15, 2005. 
 
 * * *
 
