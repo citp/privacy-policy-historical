@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allnetworkpass.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206184333id_/http%3A//www.gagonmycock.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnetworkpass.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219215944id_/http%3A//www.gagonmycock.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
