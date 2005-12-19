@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the bannerbank.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305050704id_/http%3A//www.bannerbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerbank.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219203927id_/http%3A//www.bannerbank.com/privacy.html) for the most accurate reproduction.*
 
 # Banner Bank Privacy page
 
- [Home](https://web.archive.org/web/20050305050704id_/http%3A//www.bannerbank.com/default.html)  
- [About Us](https://web.archive.org/web/20050305050704id_/http%3A//www.bannerbank.com/about.html)  
- [Personal Solutions](https://web.archive.org/web/20050305050704id_/http%3A//www.bannerbank.com/personal.html)  
- [Business Solutions](https://web.archive.org/web/20050305050704id_/http%3A//www.bannerbank.com/business.html)  
- [Contact Us/Locations](https://web.archive.org/web/20050305050704id_/http%3A//www.bannerbank.com/contactus.html)  
- [Stock Quotes](https://web.archive.org/web/20050305050704id_/http%3A//www.bannerbank.com/stock.html)  
- [Investment Services](https://web.archive.org/web/20050305050704id_/http%3A//www.bannerbank.com/invest.html)  
- [Job Opportunities](https://web.archive.org/web/20050305050704id_/http%3A//www.bannerbank.com/job.html)  
- [News/Press Releases](https://web.archive.org/web/20050305050704id_/http%3A//www.bannerbank.com/news.html)  
- [Related Links](https://web.archive.org/web/20050305050704id_/http%3A//www.bannerbank.com/related.html) |    
+ [Home](https://web.archive.org/web/20051219203927id_/http%3A//www.bannerbank.com/default.html)  
+ [About Us](https://web.archive.org/web/20051219203927id_/http%3A//www.bannerbank.com/about.html)  
+ [Personal Solutions](https://web.archive.org/web/20051219203927id_/http%3A//www.bannerbank.com/personal.html)  
+ [Business Solutions](https://web.archive.org/web/20051219203927id_/http%3A//www.bannerbank.com/business.html)  
+ [Contact Us/Locations](https://web.archive.org/web/20051219203927id_/http%3A//www.bannerbank.com/contactus.html)  
+ [Stock Quotes](https://web.archive.org/web/20051219203927id_/http%3A//www.bannerbank.com/stock.html)  
+ [Investment Services](https://web.archive.org/web/20051219203927id_/http%3A//www.bannerbank.com/invest.html)  
+ [Job Opportunities](https://web.archive.org/web/20051219203927id_/http%3A//www.bannerbank.com/job.html)  
+ [News/Press Releases](https://web.archive.org/web/20051219203927id_/http%3A//www.bannerbank.com/news.html)  
+ [Related Links](https://web.archive.org/web/20051219203927id_/http%3A//www.bannerbank.com/related.html) |    
 **The Opportunities you Deserve, The Privacy you Expect  
 **
 
@@ -42,7 +42,7 @@ We disclose nonpublic personal information to third parties, such as credit repo
 We may also share nonpublic personal information with companies that perform services on our behalf, such as vendors who prepare monthly statements, process checks or provide support of one or more of our products or services. These business partners contractually agree to keep your information confidential and not to use it for any other purpose.  
 
 
-We may share with our affiliates only information about your transactions with us, such as your account balance, payment history, parties to transactions and overdraft history, except as permitted by law.  
+We may share with our affiliates only information about your transactions with us, such as your account balance, payment history, parties to transactions and overdraft history as permitted by law.  
 
 
 We occasionally receive limited medical information if a customer applies for credit insurance. We do not share medical information except to process transactions or service customer requests.  
