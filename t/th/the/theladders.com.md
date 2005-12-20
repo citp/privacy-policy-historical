@@ -1,34 +1,53 @@
-> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403163610id_/http%3A//www.theladders.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220045432id_/http%3A//www.theladders.com/abouttheladdersPrivacy) for the most accurate reproduction.*
 
-# TheLadders Privacy Policy
+# 
 
-  
-_Updated November 12, 2004_
+**TheLadders wants you to fully understand our privacy practices.**  
+This Privacy Policy explains the collection, use, and disclosure of Personal Information through our web sites located at URLs: [finance.theladders.com](http://finance.theladders.com/)[hr.theladders.com](http://hr.theladders.com/), [law.theladders.com](http://law.theladders.com/), [mktg.theladders.com](http://mktg.theladders.com/), [ops.theladders.com](http://ops.theladders.com/), [recruit.theladders.com](http://recruit.theladders.com/), [sales.theladders.com](http://sales.theladders.com/), [technology.theladders.com](http://technology.theladders.com/), and [up.theladders.com](http://up.theladders.com/) (the “Web sites”). “Personal Information” means information that would allow a party to contact you, including, for example, your full name, address, telephone number, or email address. 
 
-TheLadders wants you to fully understand our privacy practices. This Privacy Policy explains the collection, use, and disclosure of Personal Information through our web sites located at URLs: [http://www.salesladder.com](http://www.salesladder.com/?SPECIALCOOKIE=), [http://www.mktgladder.com](http://www.mktgladder.com/?SPECIALCOOKIE=), [http://www.financeladder.com](http://www.financeladder.com/?SPECIALCOOKIE=) and [http://www.upladder.com](http://www.upladder.com/?SPECIALCOOKIE=) (the “Web sites”). “Personal Information” means information that would allow a party to contact you, including, for example, your full name, address, telephone number, or email address.
+Your privacy is important to us.  Our goal is to earn and keep your trust, according to the following principles:
+
+  * We will never rent or sell your personal information to third parties for marketing purposes
+  * We will never share your contact information with a recruiter or hiring manager, unless both of you choose to contact one another regarding an open position
+  * Any sensitive information that you provide will be secured with all industry standard protocols and technology
+
+
 
 Please read this Privacy Policy to learn more about the ways in which we use and protect your personal information.
 
 TheLadders reserves the right to change this Privacy Policy at any time and without any notice by posting a revised Privacy Policy on our Web site. Any such revision will become effective immediately upon posting.
 
-We do not share, sell or rent your personal information to third parties. Although we may disclose aggregated information about the use of our Web sites, that information does not contain Personal Information. Generally, we do not disclose Personal Information to third parties. However, we may share Personal Information with our contractors and service providers in order to maintain, enhance, or add to the functionality of the Web sites. If TheLadders becomes part of another organization, that organization will possess the Personal Information collected by TheLadders and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
+**Disclosure of Personal Information**  
+**We do not share, sell or rent your personal information to third parties – ever.**  Although we may disclose aggregated information about the use of our Web sites, that information does not contain Personal Information. Generally, we do not disclose Personal Information to third parties. However, we may share Personal Information with our contractors and service providers in order to maintain, enhance, or add to the functionality of the Web sites. If TheLadders.com becomes part of another organization, that organization will possess the Personal Information collected by TheLadders.com and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
 
-We cannot ensure that your Personal Information will not be disclosed to third parties. For example, we may be legally obligated to disclose information to the government or third parties under certain circumstances, or third parties may circumvent our security measures to unlawfully intercept or access transmissions or private communications.
+**Information We Collect and How We Use That Information**  
+Our basic registration forms require users to provide contact information, including name, email address, zip code, and income information.  Should you choose to purchase services, your credit card information will be stored.  We will use your Personal Information for internal purposes only and will never sell or share your personal information with any third parties.  Sensitive information such as your income level and credit card information will be kept completely private.
 
-If you have registered to receive email communications from us and later change your mind, you may contact us to have your name removed from our distribution lists. To Opt-out send an email to [help@theladders.com](mailto:help@theladders.com). Please reference "Opt-Out" in your subject line and state in the body of the email that you wish to have your name removed from the distribution lists.
+Should you fill out a Bio, the amount of information you choose to keep confidential is entirely up to your discretion.  You may enter as much or as little information as you choose.  All information posted will only be visible to recruiters and companies seeking employees. All recruiters are strictly screened and have been determined by TheLadders.com to be legitimately seeking applicants for open positions. 
 
-Our registration forms require users to provide contact information, including name, physical address, income information, email address, jobs applied to, jobs viewed, resume, and similar information ("Personal Information"). We store sensitive information from our visitors, such as credit card information. We track clickstream data to monitor utilization and ensure good customer experience. We use Personal Information to provide you with targeted job information. We will use your Personal Information for internal purposes only and will never sell or share your personal information with any third parties. In some instances in the future we may share your personal information with third party contractors for the sole purpose of mailing you promotional or educational materials.
+In your use of the site, we also store such information as jobs you’ve applied to, jobs you’ve viewed, your resume, and similar information ("Personal Information"). We track clickstream data to monitor utilization and ensure good customer experience. We also use Personal Information to provide you with targeted job information. In some instances in the future we may share your personal information with third party contractors for the sole purpose of mailing you materials on our behalf. **** 
 
-We collect Internet Protocol ("IP") address from all visitors to the Web site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Web site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the Web site, and deliver customized, personalized content.
+**Choice/Opt-out**  
+When you register for our site, we use your email address to send you internal communications from TheLadders.com.  If you’ve registered to receive email communications from us and later change your mind, you may contact us to have your name removed from our distribution lists. You may Opt-out to any of our communications by changing your Account Settings.  Please go to **[Account Settings](http://www.theladders.com/UpdateSubscription)** and indicate from which distribution lists you would like to have your name removed.
 
-Our Web site may use cookies to enhance your experience on our Web site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular Web site. Many consider the use of cookies to be an industry standard.
+**Internet Protocol Address**  
+Like most websites, we collect Internet Protocol ("IP") address from all visitors to the Web site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Web site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the Web site, and deliver customized, personalized content.
+
+**Use of “Cookies”**  
+Again like most websites, we may use cookies to enhance your experience on our Web site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords and your personal preferences regarding your use of the particular Web site. Many consider the use of cookies to be an industry standard.
 
 Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, our Web site will not function properly.
 
-TheLadders has implemented and follows industry standard measures to protect against unauthorized access to and unlawful interception or processing of Personal Information. We also protect account information by placing it on a secure portion of our Web site that is only accessible by certain qualified employees of TheLadders. Unfortunately, no data transmission over the Internet is 100% secure. While we strive to protect your Personal Information, we cannot ensure or warranty the security of any such Personal Information.
+**Security**  
+TheLadders.com has implemented and follows industry standard measures to protect against unauthorized access to and unlawful interception or processing of Personal Information. We also protect account information by placing it on a secure portion of our Web site that is only accessible by certain qualified employees of TheLadders.com. Unfortunately, no data transmission over the Internet is 100% secure. While we strive to protect your Personal Information, we cannot ensure or warranty the security of any such Personal Information.
 
-Our Web site contains links to other Web sites. Please note that when you click on one of these links, you are entering another website over which TheLadders has no control and will bear no responsibility. We encourage you to read the privacy statements on all such Web sites as their policies may be different than ours.
+**Other Web sites**  
+Our Web site contains links to other Web sites. Please note that when you click on one of these links, you are entering another website over which TheLadders.com has no control and will bear no responsibility. Often these sites require you to enter your personal information as you apply for a job directly with the hiring company.  We encourage you to read the privacy statements on all such Web sites as their policies may differ from ours.
 
-We may disclose your Personal Information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on TheLadders.
+**Legal Disclaimer**  
+We may disclose your Personal Information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on TheLadders.com.
 
-If you have any questions about this Privacy Policy, or your dealings with this Web site, or would like to make corrections to Personal Information which you submitted, you can [contact TheLadders. ](mailto:help@theladders.com?Subject=Questions%20about%20the%20Privacy%20Policy)
+As such, we cannot ensure that your Personal Information will not be disclosed to third parties. For example, we may be legally obligated to disclose information to the government or third parties under certain circumstances, or third parties may circumvent our security measures to unlawfully intercept or access transmissions or private communications.
+
+**Contacting Us**  
+If you have any questions about this Privacy Policy, or your dealings with this Web site, or would like to make corrections to Personal Information which you submitted, you can [contact TheLadders](http://www.theladders.com/abouttheladdersContact).
