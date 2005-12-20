@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tattoos-by-design.co.uk privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303171031id_/http%3A//www.tattoos-by-design.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoos-by-design.co.uk privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220155933id_/http%3A//www.tattoos-by-design.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
