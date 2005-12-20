@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526121012id_/http%3A//www.blissworld.com/cs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220121647id_/http%3A//blissworld.com/cs/privacy) for the most accurate reproduction.*
 
 # bliss > customer serbliss
 
 | 
+
+bliss beauty hotline, now 24/7 call **888 243 8825**
 
 ## Customer SerBliss: Privacy Policy
 
