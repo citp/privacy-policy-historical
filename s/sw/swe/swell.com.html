@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the swell.com privacy policy that was archived on 2005-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050620214233id_/http%3A//www.swell.com/support/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swell.com privacy policy that was archived on 2005-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051220170533id_/http%3A//www.swell.com/support/privacy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 		<title>Swell.com - Surf Shop: Your shop for surf wear, surf gear and all your surfing needs!</title>
@@ -60,7 +60,7 @@
 			//-->
 		</script>
 </head>
-	<body bgcolor="#ffffff" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0" text="#000000" vlink="#000000" alink="#333333" link="#000000"><ucs-cache time="6/20/2005 10:22:41 AM" machine="164"></ucs-cache>
+	<body bgcolor="#ffffff" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0" text="#000000" vlink="#000000" alink="#333333" link="#000000"><ucs-cache time="12/20/2005 9:05:33 AM" machine="161"></ucs-cache>
 	
 
 <!--BEGIN HEADER--------------------------------------------------------------------------------------------------------->
@@ -160,19 +160,17 @@
 							
 							<script language="javascript">
 								<!--
-								if (GetCookie('ShopperID') != 'null') {
-									var sid = GetCookie('ShopperID')
-								}	
-								else {
-  									var cookieExpires2 = new Date();
-  									cookieExpires2.setFullYear(cookieExpires2.getFullYear() + 1);
-									var sid = GetSID();
-									document.cookie = "ShopperID=" + sid + "; domain=.swell.com; expires=" + cookieExpires2.toGMTString() + ";";
-								} 
-								document.write("<img src=\"http://209.67.181.18/traffic/traffic.asmx/InsertEvent2?EventType=CL&ShopperId=" + sid +"&EID=10007"+ "&IP=164&Url=%2fsupport%2fprivacy.aspx\" width=\"1\" height=\"1\" border=\"0\">");
-								
+								//writes shopperid to cookie
+								if (GetCookie('ShopperID') == 'null')
+									document.write("<scri" + "pt type='text/javascript' src=\"https://secure.swell.com/GetShopperID.aspx\"></script>");
+								//--&gt;
+							
+							<script type="text/javascript">
+								<!--
+								var sid = GetCookie('ShopperID');
+								document.write("<img src=\"http://209.67.181.18/traffic/traffic.asmx/InsertEvent2?EventType=CL&ShopperId=" + sid +"&EID=10007"+ "&IP=161&Url=%2fsupport%2fprivacy.aspx\" width=\"1\" height=\"1\" border=\"0\">");
 								//-->
-							</script><img src="http://209.67.181.18/traffic/traffic.asmx/InsertEvent2?EventType=CL&amp;ShopperId=xxfyryXkhHQ4x158hVZ2QKpDbQwAMrMr&amp;EID=10007&amp;IP=164&amp;Url=%2fsupport%2fprivacy.aspx" width="1" height="1" border="0">
+							</script><img src="http://209.67.181.18/traffic/traffic.asmx/InsertEvent2?EventType=CL&amp;ShopperId=null&amp;EID=10007&amp;IP=161&amp;Url=%2fsupport%2fprivacy.aspx" width="1" height="1" border="0">
 																
 
 						<!-- end header --><form name="_ctl0" method="post" action="privacy.aspx" id="_ctl0">
