@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local10.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403200702id_/http%3A//www.local10.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local10.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220030413id_/http%3A//www.local10.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # Local10.com - News
 
