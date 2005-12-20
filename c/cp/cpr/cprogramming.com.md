@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204172556id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220115752id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
 
 # Cprogramming.com: Privacy Policy
 
@@ -23,9 +23,3 @@ You are asked, but not required, to fill out a survey by BURST!Media. The inform
 ####  Information Usage
 
 We do not track individual users on the site, except in extreme cases to respond to persistent attacks on the system, such as when a user spams the message board or hacks the site. We use the information obtained from the server logs to improve the layout of the site and to make educated guesses as to what could be improved. We also use demographics data obtained through BURST!Media's voluntary survey to target ads that are appropriate for our visitors. 
-
-\-----  
-Interested in [advertising with us](http://www.cprogramming.com/advertising.html)?  
-Please read our [privacy policy](http://www.cprogramming.com/privacy.html).  
-[Copyright](http://www.cprogramming.com/use.html) © 1997-2005 Cprogramming.com. All rights reserved.  
-Design by [Geodesy Designs](http://www.geodesydesign.com/)
