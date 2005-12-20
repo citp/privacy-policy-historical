@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megawebpromotion.com privacy policy that was archived on 2005-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050222091615id_/http%3A//www.megawebpromotion.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megawebpromotion.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220083644id_/http%3A//megawebpromotion.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # MEGAWEBPROMOTION
 
