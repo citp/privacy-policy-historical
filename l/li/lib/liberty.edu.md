@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberty.edu privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526005308id_/http%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberty.edu privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220070346id_/http%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
 
 # Administration - Privacy Policy - Liberty University
 
@@ -61,3 +61,6 @@ If you have questions about our information practices, please contact us.  
 **
 
 The University reserves the right to append or otherwise modify this Privacy Statement at any time. We expect any such changes to be minor, and notification of all changes will be made on this page. Each version of the privacy policy will be dated at the top of the page.
+
+  
+
