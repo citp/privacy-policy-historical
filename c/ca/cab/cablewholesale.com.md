@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207092541id_/http%3A//www.cablewholesale.com/index.php%3Fbody%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220031347id_/http%3A//www.cablewholesale.com/index.php%3Fbody%3DPrivacy) for the most accurate reproduction.*
 
 # video splitter,cat 5 cable,computer cable,switch box,vga splitter,usb cable,usb adaptor, custom cable,category 5 cable,network cable,cat 5 cable,kvm switch,svga cable,usb converter,cooling fan
 
-[ [New Products](https://web.archive.org/index.php?body=New%20Products) ] [ [Hot Deals](https://web.archive.org/catalog/hotdeals.htm) ] [ [Help / FAQ](https://web.archive.org/index.php?section=Support&body=FAQ) ] [ [Support](https://web.archive.org/index.php?section=Support) ] [ [Privacy](https://web.archive.org/index.php?body=Privacy) ] [ [Contact Us](https://web.archive.org/index.php?body=Contact) ]    
-[](https://web.archive.org/) |  | Items in Cart: | 0  
+[ [New Products](https://web.archive.org/index.php?body=New%20Products) ] [ [Hot Deals](https://web.archive.org/catalog/hotdeals.htm) ] [ [Warranty](https://web.archive.org/index.php?section=Support&body=FAQ#WARRANTY) ] [ [Help / FAQ](https://web.archive.org/index.php?section=Support&body=FAQ) ] [ [Support](https://web.archive.org/index.php?section=Support) ] [ [Privacy](https://web.archive.org/index.php?body=Privacy) ] [ [Contact Us](https://web.archive.org/index.php?body=Contact) ]    
+[](https://web.archive.org/) | Need it by Christmas?  
+Order before 3PM PST on these dates!  
+---  
+UPS Ground| Dec 16th  
+UPS/FedEx 3-day| Dec 20th  
+UPS/FedEx 2-day| Dec 21st  
+UPS/FedEx Overnight | Dec 22nd  
+| Items in Cart: | 0  
 ---|---  
 Sub-Total: | $0.00  
   
@@ -41,4 +48,4 @@ Postal Code:
   
 [ [Terms & Conditions](https://web.archive.org/index.php?body=Terms) ] [ [Employment](https://web.archive.org/index.php?body=Employment) ] [ [About Us](https://web.archive.org/index.php?body=About%20Us) ] [ [OEM](https://web.archive.org/index.php?body=OEM) ]   
 [ [© Copyright CableWholesale.com / National Technology](https://web.archive.org/index.php?body=Copyright) ]   
-_Last Updated: February 2, 2005_
+_Last Updated: December 13, 2005_
