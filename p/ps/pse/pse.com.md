@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pse.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405231127id_/http%3A//www.pse.com/fastfind/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pse.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220121105id_/http%3A//www.pse.com/fastfind/privacystatement.html) for the most accurate reproduction.*
 
 # Puget Sound Energy
 
@@ -126,7 +126,7 @@ We will not sell, share, or rent your personal information to others in ways dif
 
 We may disclose personal information you provide to independent contractors, service providers and consultants who are engaged by or working with PSE, consistent will all applicable laws and regulations. We may also use credit card processing companies to process payments for goods and services, outside shipping companies to ship orders and credit bureaus to check credit histories. We may partner with other parties to provide specific services and will share information with them in order to facilitate their provision of services. For example, when the user signs up for these services, we will share names, or other contact information necessary for the third party to provide these services. PSE may also contract with outside companies to administer our mailing lists or provide other services. Your personal information may be shared with an outside company for the sole purpose of administering the products, services and programs you have selected. PSE makes an effort to ensure, but does not guarantee, that all third party partners agree to the same high level of privacy safeguards that PSE itself provides to its users.
 
-Additionally, we may share aggregated information (i.e. information we collect that does not allow you to be personally identified of contacted, for example demographic and site usage information) with third parties such as partners and advertisers without your authorization. This is not linked to any personal information that can identify any individual person.
+Additionally, we may share aggregated information (i.e. information we collect that does not allow you to be personally identified or contacted, for example demographic and site usage information) with third parties such as partners and advertisers without your authorization. This is not linked to any personal information that can identify any individual person.
 
 As noted above, information collected by Nexus Energyguide on behalf of PSE on this Site or on co-branded pages is the sole property of PSE but may be used by Nexus Energyguide for the purpose(s) for which it was collected.
 
@@ -152,7 +152,7 @@ This web site may contain links to other sites. Please be aware that PSE is not 
 Back to Top
 
 7\. How can I update or correct my personal information?  
-PSE has an interest in making sure that the information we do collect is accurate. Therefore, we strongly believe that our customers should have the ability to access and edit the personal information they have provided to us. To check, verify, correct or update the accuracy of you personally identifiable information please contact [customercare@pse.com](mailto:customercare@pse.com) or telephone (888) 225-5773 and ask for the Webmaster. Outside of the State of Washington, please call (425) 452-1234.
+PSE has an interest in making sure that the information we do collect is accurate. Therefore, we strongly believe that our customers should have the ability to access and edit the personal information they have provided to us. To check, verify, correct or update the accuracy of you personally identifiable information please contact [ webmaster@pse.com](mailto:customercare@pse.com) or telephone (888) 225-5773 and ask for the Webmaster. Outside of the State of Washington, please call (425) 452-1234.
 
 Back to Top
 
@@ -162,7 +162,7 @@ PSE reserves the right to change this privacy policy at any time. If we decide t
 Back to Top
 
 9\. Who can I contact with questions about this site?  
-Questions or comments about PSE’s Site may be directed to the Puget Sound Energy at [customercare@pse.com](mailto:customercare@pse.com) or you may telephone us at (888) 225-5773 and ask for the Webmaster. From outside of the State of Washington, please call (425) 452-1234. You may also write to us at Webmaster, Puget Sound Energy, 10885 NE 4th Street, PO Box 97034, Bellevue, WA 98009-9734.
+Questions or comments about PSE’s Site may be directed to the Puget Sound Energy at [ webmaster@pse.com](mailto:customercare@pse.com) or you may telephone us at (888) 225-5773 and ask for the Webmaster. From outside of the State of Washington, please call (425) 452-1234. You may also write to us at Webmaster, Puget Sound Energy, 10885 NE 4th Street, PO Box 97034, Bellevue, WA 98009-9734.
 
 Back to Top
 
