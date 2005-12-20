@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acteva.com privacy policy that was archived on 2005-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050511005729id_/http%3A//www.acteva.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acteva.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220055821id_/http%3A//www.acteva.com/privacy.cfm) for the most accurate reproduction.*
 
 # Online event registration for easy event management
 
