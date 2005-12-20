@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xyone.co.uk privacy policy that was archived on 2005-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050415082809id_/http%3A//www.xyone.co.uk/main/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xyone.co.uk privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220111049id_/http%3A//www.xyone.co.uk/main/privacy_policy.php) for the most accurate reproduction.*
 
 # Xyone - Internet Marketing Specialists
 
-|  |  |  |  |    
+   
 ---  
 Privacy Policy  
    
@@ -21,6 +21,8 @@ The Company's products or services
 Or alternatively, you may opt-out by sending the Company an e-mail at [info@xyone.co.uk](mailto:info@xyone.co.uk), calling us on 0870-9504400, or writing to the Company at the following address: Xyone Limited, Pall Mall Mews, 1st Floor Offices, 36 Pall Mall, Chorley, Lancashire PR7 2LA.  
    
 The Company may also use and disclose information in aggregate (so that no individuals are identified) for marketing and strategic development purposes.  
+   
+We do not send random marketing emails to personal email addresses (spam).  
    
 Use of Cookies.  
    
@@ -43,14 +45,4 @@ This Website may contain links to other websites which are outside the Company's
 Access Right.  
    
 You have a right to access the personal data held about you. To obtain a copy of the personal information held about you by the Company, please write to: Xyone Limited, Pall Mall Mews, 1st Floor Offices, 36 Pall Mall, Chorley, Lancashire PR7 2LA or e-mail to [info@xyone.co.uk](mailto:info@xyone.co.uk).  
-   
-|  |   
----  
->[Search Engine Positioning](https://web.archive.org/web/20050415082809id_/http%3A//www.xyone.co.uk/online_market_research/search_positioning_report.php)  
->[Accessibility / Usability Audits](https://web.archive.org/web/20050415082809id_/http%3A//www.xyone.co.uk/website_audits/website_audits.php)  
->[Keyword Analysis](https://web.archive.org/web/20050415082809id_/http%3A//www.xyone.co.uk/online_market_research/keyword_analysis.php)  
->[Search Engine Optimisation](https://web.archive.org/web/20050415082809id_/http%3A//www.xyone.co.uk/search_engine_marketing/search_engine_optimisation.php)  
->[Email Marketing](https://web.archive.org/web/20050415082809id_/http%3A//www.xyone.co.uk/effective_communication/email_marketing.php)  
-   
-[](http://validator.w3.org/check?uri=referer "XHTML compliant")[](http://jigsaw.w3.org/css-validator/ "Explanation of CSS Conformance")  
-[](https://web.archive.org/web/20050415082809id_/http%3A//www.xyone.co.uk/effective_communication/dwbreader.exe)[](http://www.w3.org/WAI/WCAG1AAA-Conformance "Explanation of Level Triple-A Conformance")[](http://www.w3.org/WAI/WCAG1AAA-Conformance "Explanation of Level Triple-A Conformance")
+ 
