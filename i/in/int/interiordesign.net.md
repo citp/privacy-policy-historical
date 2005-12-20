@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308082035id_/http%3A//www.interiordesign.net/index.asp%3Flayout%3Did_static%26page%3Dstory%26doc_id%3D95737) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220053533id_/http%3A//www.interiordesign.net/index.asp%3Flayout%3Did_static%26page%3Dstory%26doc_id%3D95737) for the most accurate reproduction.*
 
 # Interior Design, the information behind the inspiration
 
