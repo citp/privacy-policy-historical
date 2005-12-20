@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenbabegalleries.com privacy policy that was archived on 2005-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050428134903id_/http%3A//www.nsallaccess.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenbabegalleries.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220051512id_/http%3A//www.nsallaccess.com/privacy.htm) for the most accurate reproduction.*
 
 # NS All Access - Privacy
 
