@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hscripts.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405075252id_/http%3A//www.hscripts.com/license/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hscripts.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220120110id_/http%3A//www.hscripts.com/license/ppolicy.html) for the most accurate reproduction.*
 
 # ppolicy
 
