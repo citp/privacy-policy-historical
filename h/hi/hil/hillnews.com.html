@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hillnews.com privacy policy that was archived on 2005-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050422181841id_/http%3A//www.hillnews.com/thehill/export/TheHill/Subscribe/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hillnews.com privacy policy that was archived on 2005-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051220215647id_/http%3A//hillnews.com/thehill/export/TheHill/Subscribe/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Privacy Policy</title>
@@ -36,6 +36,74 @@ function MM_validateForm() { //v4.0
   } if (errors) alert('The following error(s) occurred:\n'+errors);
   document.MM_returnValue = (errors == '');
 }
+
+
+// function switchDiv()
+//  this function takes the id of a div
+//  and calls the other functions required
+//  to show that div
+//
+function switchDiv(div_id) {
+  var style_sheet = getStyleObject(div_id);
+  if (style_sheet) {
+    hideAll();
+    changeObjectVisibility(div_id,"visible");
+    } else {
+    alert("sorry, this only works in browsers that do Dynamic HTML");
+    }
+  }
+
+// function hideAll()
+//  hides a bunch of divs
+//
+function hideAll() {
+   changeObjectVisibility("ad1","hidden");
+   }
+
+// function getStyleObject(string) -> returns style object
+//  given a string containing the id of an object
+//  the function returns the stylesheet of that object
+//  or false if it can't find a stylesheet.  Handles
+//  cross-browser compatibility issues.
+//
+function getStyleObject(objectId) {
+  // checkW3C DOM, then MSIE 4, then NN 4.
+  //
+  if(document.getElementById && document.getElementById(objectId)) {
+	return document.getElementById(objectId).style;
+   }
+   else if (document.all && document.all(objectId)) {  
+	return document.all(objectId).style;
+   } 
+   else if (document.layers && document.layers[objectId]) { 
+	return document.layers[objectId];
+   } else {
+	return false;
+   }
+}
+
+function changeObjectVisibility(objectId, newVisibility) {
+    // first get a reference to the cross-browser style object 
+    // and make sure the object exists
+    var styleObject = getStyleObject(objectId);
+    if(styleObject) {
+	styleObject.visibility = newVisibility;
+	return true;
+    } else {
+	// we couldn't find the object, so we can't change its visibility
+	return false;
+    }
+}
+
+function showField(_id) {
+   if (_id==1) {
+      switchDiv('ad1');
+      } 
+   }
+
+
+
+
 //-->
 </script>
 </head>
@@ -120,8 +188,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 <table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
   
   <tbody><tr> 
-    <td valign="bottom"><a href="/thehill/export/TheHill/index.html"><img height="100" border="0" src="http://img.thehill.com/img/logos/logo_large.jpg" width="521"></a>
-    </td>
+    <td valign="bottom">
+ <a href="/thehill/export/TheHill/index.html"><img height="100" border="0" src="http://img.thehill.com/img/logos/logo_large.jpg" width="521"></a>     </td>
     <td width="468" align="middle" valign="center"> 
       <div class="hide"> 
         <table width="90%" border="0" align="center" cellpadding="3" cellspacing="0" bgcolor="#990000">
@@ -161,15 +229,21 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
     <td width="500"> 
       <div class="ads"> 
           <div align="right"> 
-                <iframe src="http://ad.doubleclick.net/adi/N2614.thehill.com/B1583377;sz=468x60;ord=[timestamp]?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000">
-<SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/adj/N2614.thehill.com/B1583377;abr=!ie;sz=468x60;ord=[timestamp]?">
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://ad.doubleclick.net/jump/N2614.thehill.com/B1583377;abr=!ie4;abr=!ie5;sz=468x60;ord=[timestamp]?">
-<IMG SRC="http://ad.doubleclick.net/ad/N2614.thehill.com/B1583377;abr=!ie4;abr=!ie5;sz=468x60;ord=[timestamp]?" BORDER=0 WIDTH=468 HEIGHT=60 ALT="Click Here"></A>
-</NOSCRIPT>
-</iframe>
-
+               <script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://secure.thehill.com/adserv/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:1");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adjs.php?n=735919915&amp;what=zone:1&amp;exclude=,"></script><noscript><a href='http://secure.thehill.com/adserv/adclick.php?n=a8d244a7' target='_blank'><img src='http://secure.thehill.com/adserv/adview.php?what=zone:1&amp;n=a8d244a7' border='0' alt=''></a></noscript>
 
           </div>
       </div></td>
@@ -201,14 +275,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 <select name="SelectURL" onchange="document.location.href=
 document.nav.SelectURL.options[document.nav.SelectURL.selectedIndex].value">
 <option value=""> - The Hill - </option>
-<option value="http://www.thehill.com/thehill/opencms/TheHill/About/index.html">About the Hill
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/About/BeatsandBios.html">
-Beats and Bios
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/About/Letters.html">
-Submitting Letters
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/About/Intern.html">
-Internships
-</option></select>
+<option value="http://www.thehill.com/thehill/opencms/TheHill/About/index.html">About the Hill</option>
+<option value="http://www.thehill.com/thehill/opencms/TheHill/About/BeatsandBios.html">Beats and Bios</option>
+<option value="http://www.thehill.com/thehill/opencms/TheHill/About/Letters.html">Submitting Letters</option>
+<option value="http://www.thehill.com/thehill/opencms/TheHill/About/Intern.html">Internships</option>
+</select>
 </td>
 
 <form name="nav1"></form>
@@ -216,27 +287,13 @@ Internships
 <select name="SelectURL" onchange="document.location.href=
 document.nav1.SelectURL.options[document.nav1.SelectURL.selectedIndex].value">
 <option value=""> - Subscribe - </option>
-<option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/PrintEdition.html">
-Print Edition
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/freeTrial.html">
-Free Trial
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/giftSubscription.html">
-Gift
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/Student.html">
-Student
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/DeliveryStop.html">
-Delivery Stop
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/ChangeAddress.html">
-Change Address
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/ChangeBilling.html">
-Change Billing
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/ReportProblem.html">
-Report Problem
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/Subscribe/Contact.html">
-Contact
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/eNews.html">
-E-News
-</option></select>
+<option value="https://www.cambeywest.com/hil/hilpaids.asp">Print Edition</option>
+<option value="https://www.cambeywest.com/hil/hiltrial.asp">Free Trial</option>
+<option value="https://www.cambeywest.com/hil/hilrenew.asp">Renew Subscription</option>
+<option value="https://www.cambeywest.com/hil/hilpaybill.asp">Online Bill Payment</option>
+<option value="https://www.cambeywest.com/hil/hilcustserve.asp">Customer Service</option>
+<option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/eNews.html">E-News</option>
+</select>
 </td>
 
 <form name="nav2"></form>
@@ -244,15 +301,11 @@ E-News
 <select name="SelectURL" onchange="document.location.href=
 document.nav2.SelectURL.options[document.nav2.SelectURL.selectedIndex].value">
 <option value=""> - Advertise - </option>
-<option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/Advertise.html">
-Print
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/Advertise.html">
-Web
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/Advertise/JobClassifieds.html">
-Job Classifieds
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/Advertise/AllClassifieds.html">
-All Classifieds
-</option></select>
+<option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/Advertise.html">Print</option>
+<option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/Advertise.html">Web</option>
+<option value="http://www.thehill.com/thehill/opencms/TheHill/Advertise/JobClassifieds.html">Job Classifieds</option>
+<option value="http://www.thehill.com/thehill/opencms/TheHill/Advertise/AllClassifieds.html">All Classifieds</option>
+</select>
 </td>
 
 <form name="nav3"></form>
@@ -260,12 +313,10 @@ All Classifieds
 <select name="SelectURL" onchange="document.location.href=
 document.nav3.SelectURL.options[document.nav3.SelectURL.selectedIndex].value">
 <option value=""> - Feedback - </option>
-<option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/LettersToEditor.html">Feedback
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/LettersToEditor.html">
-Editor
-</option><option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/TechSupport.html">
-Tech Support
-</option></select>
+<option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/LettersToEditor.html">Feedback</option>
+<option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/LettersToEditor.html">Editor</option>
+<option value="http://www.thehill.com/thehill/opencms/TheHill/app/Forms/TechSupport.html">Tech Support</option>
+</select>
 </td>
 
 </tr>
@@ -320,26 +371,20 @@ Tech Support
 
 
 <table width="100%" border="0" align="center" cellpadding="5" cellspacing="0">
+    <tbody><tr bgcolor="#3366CC"> 
+      <td bgcolor="#336699"><a href="/thehill/export/TheHill/index.html" class="whitenav">HOME</a></td>
+     </tr>
 
-    <tbody><tr bgcolor="#003399"> 
+    <tr bgcolor="#003399"> 
       <td> <font size="-1" face="Georgia, Times New Roman, Times, serif" color="#FFFFFF"><b>NEWS</b></font></td>
     </tr>
     <tr bgcolor="#3366CC"> 
       <td bgcolor="#336699">
-
-          <a href="/thehill/export/TheHill/News/Iraq/ss_section.html" class="whitenav">Al Eisele's Iraq Dispatches</a><br>
-
-    
-          
-           <a href="/thehill/export/TheHill/News/Campaign/index.html" class="whitenav">Campaign 2006</a><br>
-          
-        
-        <a href="/thehill/opencms/TheHill/Business/index.html" class="whitenav">Business <br>
-        &nbsp; &amp; Lobbying</a><br>
-        <a href="/thehill/export/TheHill/News/TheExecutive/index.html" class="whitenav">The Executive</a><br>
-        <a href="/thehill/export/TheHill/News/UndertheDome/index.html" class="whitenav">Under the Dome</a><br>
-
-
+      <a href="/thehill/opencms/TheHill/News/Campaign/index.html" class="whitenav">Campaign 2006</a><br>
+      <a href="/thehill/opencms/TheHill/Business/index.html" class="whitenav">Business <br>
+      &nbsp; &amp; Lobbying</a><br>
+      <a href="/thehill/opencms/TheHill/News/TheExecutive/index.html" class="whitenav">The Executive</a><br>
+      <a href="/thehill/export/TheHill/News/UndertheDome/index.html" class="whitenav">Under the Dome</a><br>
       </td>
     </tr>
     <tr> 
@@ -347,25 +392,41 @@ Tech Support
     </tr>
     <tr> 
       <td bgcolor="#336699"> 
-      <a href="/thehill/export/TheHill/Comment/Editorial/index.html" class="whitenav">Editorial</a><br>
-      <a href="/thehill/export/TheHill/Comment/LetterstotheEditor/index.html" class="whitenav">Letters to the Editor</a><br>
-      <a href="/thehill/export/TheHill/Comment/OpEd/index.html" class="whitenav">Op-Ed</a><br>
-      <a href="/thehill/export/TheHill/Comment/Punditspeak/index.html" class="whitenav">Punditspeak</a><br>
-        <table width="100" border="0" cellpadding="3" cellspacing="0">
+      <a href="/thehill/export/TheHill/Comment/Editorial/index.html" class="whitenav">Editorials</a><br>
+      <a href="/thehill/export/TheHill/Comment/LetterstotheEditor/index.html" class="whitenav">Letters</a><br>
+      <a href="/thehill/opencms/TheHill/Comment/OpEd/index.html" class="whitenav">Op-Eds</a><br>
+      <table width="110" border="0" cellpadding="3" cellspacing="0">
           <tbody><tr> 
             <td bgcolor="#990000"><a href="/thehill/export/TheHill/Comment/DickMorris/index.html" class="whitenav">Dick Morris</a></td>
           </tr>
           <tr> 
-            <td bgcolor="#FFFFFF" class="kicker"> <p class="kicker">The filibuster fight will be disastrous for the GOP</p></td>
+            <td bgcolor="#FFFFFF" class="kicker"><p class="kicker">
+          <script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adx.js"></script>
+          <script language="JavaScript" type="text/javascript">
+          <!--
+          if (!document.phpAds_used) document.phpAds_used = ',';
+          phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+          document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+          document.write ("http://secure.thehill.com/adserv/adjs.php?n=" + phpAds_random);
+          document.write ("&amp;what=zone:7");
+          document.write ("&amp;exclude=" + document.phpAds_used);
+          if (document.referrer)
+            document.write ("&amp;referer=" + escape(document.referrer));
+            document.write ("'><" + "/script>");
+           //-->
+      </script><script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adjs.php?n=868351652&amp;what=zone:7&amp;exclude=,"></script>
+      <noscript><a href='http://secure.thehill.com/adserv/adclick.php?n=ab570d16' target='_blank'><img src='http://secure.thehill.com/adserv/adview.php?what=zone:7&amp;n=ab570d16' border='0' alt=''></a></noscript>
+</p></td>
           </tr>
         </tbody></table>
 
 
         <a href="/thehill/export/TheHill/Comment/AlbertEisele/index.html" class="whitenav">Albert Eisele</a><br>
+        <a href="/thehill/export/TheHill/Comment/JohnFortier/index.html" class="whitenav">John Fortier</a><br>
         <a href="/thehill/export/TheHill/Comment/AndrewGlass/index.html" class="whitenav">Andrew Glass</a><br>
         <a href="/thehill/export/TheHill/Comment/BenGoddard/index.html" class="whitenav">Ben Goddard</a><br>
         <a href="/thehill/export/TheHill/Comment/DavidKeene/index.html" class="whitenav">David Keene</a><br>
-        <a href="/thehill/export/TheHill/Comment/JohnKornacki/index.html" class="whitenav">John Kornacki</a><br>
         <a href="/thehill/export/TheHill/Comment/JoshMarshall/index.html" class="whitenav">Josh Marshall</a><br>
         <a href="/thehill/export/TheHill/Comment/LynnSweet/index.html" class="whitenav">Lynn Sweet</a><br>
         <a href="/thehill/export/TheHill/Comment/ByronYork/index.html" class="whitenav">Byron York</a><br>
@@ -381,11 +442,10 @@ Tech Support
         <a href="/thehill/opencms/TheHill/Features/CapitalLiving/index.html" class="whitenav">Capital Living</a><br>
         <a href="/thehill/export/TheHill/Features/Hillscape/index.html" class="whitenav">Hillscape</a><br>
         <a href="/thehill/export/TheHill/Features/SocialScene/index.html" class="whitenav">Social Scene</a><br>
-         <a href="/thehill/export/TheHill/Features/CapitolAmbitions/index.html" class="whitenav">Capitol Ambitions</a><br>
+         <a href="/thehill/opencms/TheHill/Features/CapitolAmbitions/index.html" class="whitenav">Capitol Ambitions</a><br>
          <a href="/thehill/export/TheHill/Features/UncommonLives/index.html" class="whitenav">Uncommon Lives</a><br>
         <a href="/thehill/export/TheHill/Features/RestaurantReview/index.html" class="whitenav">Restaurant Review</a><br>           
         <a href="/thehill/export/TheHill/Features/BookReview/index.html" class="whitenav">Book Reviews</a><br>
-<a href="/thehill/export/TheHill/Features/AfterHours/index.html" class="whitenav">After Hours</a><br>
 </td>
     </tr>
     <tr> 
@@ -404,9 +464,9 @@ Tech Support
       <td bgcolor="#003399"> <p><font color="#FFFFFF" face="Georgia, Times New Roman, Times, serif" size="-1"><b>RESOURCES</b></font></p></td>
     </tr>
     <tr> 
-      <td bgcolor="#336699"> <p><a href="http://www.prnewswire.com/medmicro/thehill" class="whitenav">Press Releases</a><br> 
-          <a href="http://www.capwiz.com/thehill" class="whitenav">Government 
-          Guide</a><br>
+      <td bgcolor="#336699"> <p><a href="http://www.prnewswire.com/medmicro/thehill" class="whitenav">PR Newswire</a><br> 
+          <a href="http://www.capwiz.com/thehill" class="whitenav">Write Your<br>
+&nbsp;&nbsp;Congressman</a><br>
         </p></td>
     </tr>
 
@@ -416,7 +476,10 @@ Tech Support
     <tr bgcolor="#3366CC"> 
       <td bgcolor="#336699">
           <a href="/thehill/export/TheHill/News/Frontpage/index.html" class="whitenav">Last Six</a> <br>
-     </td></tr>     
+     </td></tr>
+<tr bgcolor="#003399"> 
+      <td><a href="http://www.thehillhealthwatch.com" class="whitenav">HealthWatch</a></td>
+    </tr>     
 
     
 </tbody></table>
@@ -538,15 +601,83 @@ Tech Support
 
      
 
-         <a href="http://img.thehill.com/cgi-bin/birdcast/birdcast.cgi">
-            <img height="72" src="http://img.thehill.com/img/logos/sendpage.gif" width="120" border="0">
-         </a>
+         <a href="http://img.thehill.com/cgi-bin/birdcast/birdcast.cgi"><img height="72" src="http://img.thehill.com/img/logos/sendpage.gif" width="120" border="0"></a>
   <br>
         <div align="right" class="ads"> 
-             <a href="http://www.thehill.com/redirect/www.thehillhealthwatch.com/">
-                      <img height="240" width="120" src="http://thehill.com/img/ads/hillhealth_banner2.gif" border="0">
- </a>
-            <br>
+            <!-- RAD1 Start -->
+<script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://secure.thehill.com/adserv/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:2");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adjs.php?n=453539185&amp;what=zone:2&amp;exclude=,"></script><noscript><a href='http://secure.thehill.com/adserv/adclick.php?n=a66a9ab0' target='_blank'><img src='http://secure.thehill.com/adserv/adview.php?what=zone:2&amp;n=a66a9ab0' border='0' alt=''></a></noscript>
+<!-- RAD1 END -->
+
+            <br><br>
+           <!-- RAD2 Start -->
+<script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://secure.thehill.com/adserv/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:3");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adjs.php?n=790248859&amp;what=zone:3&amp;exclude=,"></script><noscript><a href='http://secure.thehill.com/adserv/adclick.php?n=a258e3c8' target='_blank'><img src='http://secure.thehill.com/adserv/adview.php?what=zone:3&amp;n=a258e3c8' border='0' alt=''></a></noscript>
+<!-- RAD2 END -->
+
+            <br><br>
+             <script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://secure.thehill.com/adserv/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:4");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adjs.php?n=835031568&amp;what=zone:4&amp;exclude=,"></script><noscript><a href='http://secure.thehill.com/adserv/adclick.php?n=af9ff4de' target='_blank'><img src='http://secure.thehill.com/adserv/adview.php?what=zone:4&amp;n=af9ff4de' border='0' alt=''></a></noscript>
+
+            <br><br>
+            <!-- RAD4 Start -->
+<script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://secure.thehill.com/adserv/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:5");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adjs.php?n=303638365&amp;what=zone:5&amp;exclude=,"></script><noscript><a href='http://secure.thehill.com/adserv/adclick.php?n=ad80f134' target='_blank'><img src='http://secure.thehill.com/adserv/adview.php?what=zone:5&amp;n=ad80f134' border='0' alt=''></a></noscript>
+<!-- RAD4 End-->
+              <br><br>
+
             <script type="text/javascript"><!--
 google_ad_client = "pub-5456982649231368";
 google_ad_width = 120;
@@ -562,42 +693,30 @@ google_color_text = "000000";
 //--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-            <br>
-             <a href="/thehill/opencms/TheHill/app/Forms/eNews.html">
-                      <img height="240" src="http://img.thehill.com/img/ads/e_news.gif" border="0">
-               </a>
-            <br>
-            <script language="javascript" src="http://capwiz.com/DHTML/CAjsform.js"></script>
-      <p></p>
-      <form method="get" action="http://capwiz.com/stickers/" onsubmit="return verify(this);">
-        <div align="center"> 
-          <input type="hidden" name="dir" value="thehill">
-          <input type="hidden" name="lvl" value="C">
-          <table border="0" cellpadding="1" cellspacing="0" bgcolor="#000000">
-            <tbody><tr> 
-              <td> 
-                  ! <table border="0" cellpadding="0" cellspacing="0" width="100" bgcolor="#FFFFFF">
-                  <tbody><tr> 
-                    <td align="center" colspan="2" bgcolor="#FFFFFF" valign="top"><img src="http://images.capwiz.com/img/stickers/attack/1_react_top.gif" width="98" height="123"></td>
-                  </tr>
-                  <tr> 
-                    <td valign="top" align="center"> <input name="azip" size="5" value=""> 
-                    </td>
-                    <td valign="bottom"> <input type="image" src="http://images.capwiz.com/img/stickers/attack/1_go.gif" name="Go" border="0" width="29" height="20" alt=""> 
-                    </td>
-                  </tr>
-                  <tr> 
-                    <td valign="top" colspan="2" bgcolor="#FFFFFF"> <p><img src="http://images.capwiz.com/img/stickers/attack/1_bottom.gif" width="98" height="17"></p></td>
-                  </tr></tbody></table> 
-          </td></tr></tbody></table>
-       
-      </div>
-      </form>
-            <br>
-          <img height="60" width="120" src="http://img.thehill.com/img/ads/featurewell1.gif" border="0"> 
+            <br><br>
+            <!-- RAD5 Start -->
+<script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://secure.thehill.com/adserv/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:12");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adjs.php?n=637181868&amp;what=zone:12&amp;exclude=,"></script><noscript><a href='http://secure.thehill.com/adserv/adclick.php?n=a33d616d' target='_blank'><img src='http://secure.thehill.com/adserv/adview.php?what=zone:12&amp;n=a33d616d' border='0' alt=''></a></noscript>
+<!-- RAD5 End -->
+            <br><br>
+            
+           <img height="60" width="120" src="http://img.thehill.com/img/ads/featurewell1.gif" border="0"> 
 
-           <br>
-           
+
+
         </div>
             <!-- DEBUG
             <BR>
@@ -626,13 +745,32 @@ google_color_text = "000000";
 
   
 
+<!-- Bottom Banner Start -->
+<div align="center">
+<script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://secure.thehill.com/adserv/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:6");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://secure.thehill.com/adserv/adjs.php?n=375848653&amp;what=zone:6&amp;exclude=,"></script><noscript><a href='http://secure.thehill.com/adserv/adclick.php?n=a16209bf' target='_blank'><img src='http://secure.thehill.com/adserv/adview.php?what=zone:6&amp;n=a16209bf' border='0' alt=''></a></noscript>
+</div>
+<!-- Bottom Banner End -->
 
 <hr align="center" width="750" noshade=""><br>
 <div align="center"> <a href="/thehill/export/TheHill/Subscribe/privacy.html" class="head">Privacy Policy</a> | <a href="/thehill/export//TheHill/Subscribe/terms.html" class="head"> Terms and Conditions</a>
 <p><font size="-1" face="Verdana, Arial, Helvetica, sans-serif"><strong><font color="#666666" size="-2">© 
   2005 The Hill </font></strong></font><font color="#666666" size="-2" face="Verdana, Arial, Helvetica, sans-serif"><br>
-  <b>733 Fifteenth Street, NW Suite 1140<br>
-  Washington, DC 20005<br>
+  <b>1625 K Street, NW Suite 900 <br>
+     Washington, DC 20006<br>
   202-628-8500 tel | 202-628-8503 fax</b></font>
 
 
