@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the seattlechildrens.org privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407041805id_/http%3A//www.seattlechildrens.org/home/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlechildrens.org privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220015544id_/http%3A//www.seattlechildrens.org/home/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement | Children's Hospital & Regional Medical Center
 
 You are here: [Home](https://web.archive.org/home/default.asp) » Privacy Statement
-
-Text size: Normal | Large
 
 Children's Hospital and Regional Medical Center (Children's) is committed to providing its users with an Internet experience that respects and protects their personal privacy choices and concerns.
 
