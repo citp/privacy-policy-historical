@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbc10.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403202328id_/http%3A//www.nbc10.com/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc10.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220135506id_/http%3A//www.nbc10.com/news/1176131/detail.html) for the most accurate reproduction.*
 
 # NBC10.com - News - Online Privacy Statement
 
