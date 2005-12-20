@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamewinners.com privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616004549id_/http%3A//www.gamewinners.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamewinners.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220150755id_/http%3A//gamewinners.com/privacy.html) for the most accurate reproduction.*
 
 # Game Winners - Privacy Policy
 
@@ -27,7 +27,7 @@ Game Winners works with third parties that serves ads to this site. To find out 
 Some of our content is served through our related Video Game Strategies site at About.com. Privacy information specific to those features may be found at:  
 <http://home.about.com/gi/pages/privacy.htm>. 
 
-Any questions regarding the privacy policy may be directed to [vgstrategies.guide@about.com](mailto:vgstrategies.guide@about.com). 
+Any questions regarding the privacy policy may be directed to staff@fireball.gamewinners.com 
 
 * * *
 
