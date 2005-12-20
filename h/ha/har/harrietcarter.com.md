@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402033001id_/http%3A//www.harrietcarter.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220124039id_/http%3A//www.harrietcarter.com/Privacy.cfm) for the most accurate reproduction.*
 
 # Harriet Carter - Distinctive Gifts Since 1958
 
@@ -9,11 +9,11 @@
   
 
 
-  * [When I visit HarrietCarter, what information is gathered about me and why?](https://web.archive.org/web/20040402033001id_/http%3A//www.harrietcarter.com/Privacy.cfm#q1)
-  * [What Are Cookies and Should I Worry About Them?](https://web.archive.org/web/20040402033001id_/http%3A//www.harrietcarter.com/Privacy.cfm#q2)
-  * [Who Else Has Access to the Information I Provide to HarrietCarter.com?](https://web.archive.org/web/20040402033001id_/http%3A//www.harrietcarter.com/Privacy.cfm#q3)
-  * [How Do I Manage How Much Information I Share or if I Share Any At All?](https://web.archive.org/web/20040402033001id_/http%3A//www.harrietcarter.com/Privacy.cfm#q4)
-  * [What is HarrietCarter.com Doing to Protect My Privacy?](https://web.archive.org/web/20040402033001id_/http%3A//www.harrietcarter.com/Privacy.cfm#q5)
+  * [When I visit HarrietCarter, what information is gathered about me and why?](https://web.archive.org/web/20051220124039id_/http%3A//www.harrietcarter.com/Privacy.html#q1)
+  * [What Are Cookies and Should I Worry About Them?](https://web.archive.org/web/20051220124039id_/http%3A//www.harrietcarter.com/Privacy.html#q2)
+  * [Who Else Has Access to the Information I Provide to HarrietCarter.com?](https://web.archive.org/web/20051220124039id_/http%3A//www.harrietcarter.com/Privacy.html#q3)
+  * [How Do I Manage How Much Information I Share or if I Share Any At All?](https://web.archive.org/web/20051220124039id_/http%3A//www.harrietcarter.com/Privacy.html#q4)
+  * [What is HarrietCarter.com Doing to Protect My Privacy?](https://web.archive.org/web/20051220124039id_/http%3A//www.harrietcarter.com/Privacy.html#q5)
 
 HarrietCarter.com has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please let us know. We'll do all we can to make you feel comfortable at HarrietCarter.com.  
   
@@ -27,7 +27,7 @@ When you enter a contest or other promotional feature, we may collect your name,
   
 We also use data collected when you register, enter a contest, and make purchases to enhance and personalize your shopping experience. If you give us permission, we will send you email about our latest updates, product offerings and sales events.  
   
-We use your IP address to help diagnose problems with our server and to administer this website. We log IP addresses for the purposes of system administration, to track a user's specific session, or to investigate cases of fraud or other security violations on our site. Any personally identifiable information contained in our IP address logs will be treated with the same respect for your privacy that order and registration information is treated.  
+We use your IP address to help diagnose problems with our server and to administer this website. We log IP addresses for the purposes of system administration, to track a user's specific client, or to investigate cases of fraud or other security violations on our site. Any personally identifiable information contained in our IP address logs will be treated with the same respect for your privacy that order and registration information is treated.  
   
 **What Are Cookies and Should I Worry About Them?**  
   
