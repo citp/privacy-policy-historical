@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306032504id_/http%3A//www.ehost.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220024108id_/http%3A//www.ehost.com/about/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -56,4 +56,5 @@ If you have any questions about this privacy statement, the practices of this si
 
 Updated June 23, 2004
 
+  
 |  |   
