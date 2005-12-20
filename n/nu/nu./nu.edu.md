@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the nu.edu privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305040417id_/http%3A//www.nu.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nu.edu privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220132644id_/http%3A//www.nu.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 National University owns and operates its website and is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information National University may gather about individuals who visit its website, how that information is used, and National University disclosure practices. Please note that this policy applies only to its website and not to the websites of other companies or organizations to which we provide links or to any software that may be downloaded from National University website. 
 
-> **Our postal address is:**   
+> **Our postal address is:**  
 >  11355 N. Torrey Pines Road  
->  La Jolla, CA 92037  
->  We can be reached via e-mail at [webmaster@nu.edu](mailto:webmaster@nu.edu)  
->  or you can reach us by telephone at 800 NAT-UNIV 
+> La Jolla, CA 92037  
+> We can be reached via e-mail at [webmaster@nu.edu](mailto:webmaster@nu.edu)  
+> or you can reach us by telephone at 800 NAT-UNIV 
 
 National University collects some anonymous information each time you visit its website so it can improve the overall quality of your online experience. It collects your IP address, referral data, and browser and platform type. You do not have to register with National University before we can collect this anonymous information. 
 
@@ -51,4 +51,4 @@ In response to concerns about protecting children's privacy online, Congress ena
 
 
 
-It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers. 
+It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers.
