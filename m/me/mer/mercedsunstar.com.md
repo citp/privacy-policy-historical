@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercedsunstar.com privacy policy that was archived on 2005-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050330040437id_/http%3A//www.mercedsun-star.com/standing/story/10176530p-10993438c.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedsunstar.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220135721id_/http%3A//www.mercedsun-star.com/standing/story/10176530p-10993438c.html) for the most accurate reproduction.*
 
-# MercedSun-Star.com :: Merced News, Homes, Jobs, Cars and more
+# mercedsunstar.com :: Merced News, Homes, Jobs, Cars and more
 
 The Merced Sun Star's Privacy Policy
 
