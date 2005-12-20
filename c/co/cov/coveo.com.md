@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coveo.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305045050id_/http%3A//www.coveo.com/en/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveo.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220112436id_/http%3A//www.coveo.com/en/about-us/privacy.html) for the most accurate reproduction.*
 
 # Coveo – Privacy Policy
 
@@ -18,7 +18,7 @@ We run contests on our site in which we ask visitors for contact information (li
 
 Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners when we request information about the visitor. This site also allows users to remove themselves from our mailing list at any time. For more information, please go to: [http://www.coveo.com/unsub/unsub.html](https://web.archive.org/web/20050305045050id_/http%3A//www.coveo.com/en/unsub/unsub.html)
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners when we request information about the visitor. This site also allows users to remove themselves from our mailing list at any time. For more information, please go to: [http://www.coveo.com/unsub/unsub.html](https://web.archive.org/web/20051220112436id_/http%3A//www.coveo.com/en/unsub/unsub.html)
 
 Security
 
