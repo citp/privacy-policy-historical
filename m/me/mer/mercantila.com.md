@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the mercantila.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405195955id_/http%3A//www.mercantila.com/content/notices/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercantila.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220100910id_/http%3A//www.mercantila.com/content/notices/privacy_notice) for the most accurate reproduction.*
 
 # Mercantila | Privacy Notice
 
 CATEGORIES 
 
-  
-
-
-[](https://scanalert.com/RatingVerify?ref=www.mercantila.com)
-
-  
+[](https://scanalert.com/RatingVerify?ref=www.mercantila.com)   
 |  [Mercantila](https://web.archive.org/) › Privacy Notice 
 
 Your privacy is very important to us at Mercantila. This Privacy Notice describes the information we gather about you, and the purpose for which it is used. 
