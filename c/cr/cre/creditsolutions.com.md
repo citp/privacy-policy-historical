@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the creditsolutions.com privacy policy that was archived on 2005-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050421083043id_/http%3A//www.creditsolutions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditsolutions.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220084124id_/http%3A//www.creditsolutions.com/privacy.html) for the most accurate reproduction.*
 
 # Credit Solutions
 
 **Credit Solutions Privacy Policy**
 
-Thank you for your interest in Credit Solutions. Your privacy is very important to us. Our policy is to respect and protect the privacy of the visitors to our web sites and those who trust us with their e-mail addresses. In this document, we explain how we use the information you supply us. If we update our privacy policy, all revisions will be posted on this page. We reserve the right to change the privacy policy at any time.
+**At CreditSolutions.com, we are committed to your privacy.**
 
-For your convenience we have organized our privacy policy into the following topics:
+  * We will not sell, share, trade or rent any information given to us (this includes any and all information)
+  * We are committed to protect your privacy and your personal information – period. 
+
+We place tremendous value on our commitment to excellence and security to each and every person who visits our site. We need to request information from you in order to give the most educated and accurate answers possible to your questions. We believe you have the right to know that your information will not be ever be disclosed to any other site, business or individual unless you specifically request such information be disclosed. Please read below for any additional detailed questions you may have about our policy. Please don’t hesitate to call us. 
 
 Information Collection and Use  
 Information Sharing and Disclosure  
@@ -52,4 +55,4 @@ We have put in place appropriate physical, electronic, and managerial procedures
 15601 Dallas Parkway, Suite 700 • Addison, Texas 75001   
 Toll Free: (800) 353-7630 • Fax: (214) 853-5997**
 
-[Top](https://web.archive.org/web/20050421083043id_/http%3A//www.creditsolutions.com/privacy.html)
+[Top](https://web.archive.org/web/20051220084124id_/http%3A//www.creditsolutions.com/privacy.html)
