@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blogherald.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305165921id_/http%3A//www.blogherald.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogherald.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220063430id_/http%3A//www.blogherald.com/the-blog-herald-privacy-policy) for the most accurate reproduction.*
 
-# The Blog Herald: more blog news more often
-
-####  The Blog Herald Privacy Policy
+# » The Blog Herald Privacy Policy The Blog Herald: more blog news more often
 
 The Blog Herald provides this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this website: blogherald.com
 
@@ -16,7 +14,7 @@ This site contains links to other sites. The Blog Herald is not responsible for 
 **  
 Financial Information**
 
-We collect financial information (such as your credit card information) on an as-needed basis to bill you for products and services you purchase through our site or affiliated sites and to fulfill your orders. If we have trouble processing an order, the contact information discussed immediately above will be used to get in touch with you. We will not sell, share or rent any financial information collected from you except as necessary to fulfill your order. All financial information provided to YNOTMasters is maintained on our secure servers. 
+We collect financial information (such as your credit card information) on an as-needed basis to bill you for products and services you purchase through our site or affiliated sites and to fulfill your orders. If we have trouble processing an order, the contact information discussed immediately above will be used to get in touch with you. We will not sell, share or rent any financial information collected from you except as necessary to fulfill your order. All financial information provided to Weblog Empire is maintained on our secure servers. 
 
 **Online Surveys**
 
@@ -51,10 +49,3 @@ editor@blogherald.com
 or  
 PO Box 689  
 Bunbury WA 6232 Australia
-
-No comments yet.
-
-[RSS feed for comments on this post.](http://www.blogherald.com/2004/11/03/the-blog-herald-privacy-policy/feed/)
-
-Sorry, the comment form is closed at this time.
-  *[RSS]: Really Simple Syndication
