@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615002051id_/http%3A//www.lowyinstitute.org/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220164631id_/http%3A//www.lowyinstitute.org/Privacy.asp) for the most accurate reproduction.*
 
 # Lowy Institute - Privacy Statement
 
 Privacy Statement
 
 The Lowy Institute for International Policy is committed to protecting the privacy of visitors to its web site.
+
+Any personal information we gather about any individual will not be disclosed to third parties and will be kept in accordance with national privacy principles. 
 
 **Information collected**  
 Our internet server, which is hosted by Web Central, may automatically record, for statistical purposes, the following details about any computer used to access our web site:
