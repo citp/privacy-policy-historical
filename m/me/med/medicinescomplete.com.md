@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medicinescomplete.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404084419id_/http%3A//www.medicinescomplete.com/mc/noframes/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicinescomplete.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220044705id_/http%3A//www.medicinescomplete.com/mc/privacy.htm) for the most accurate reproduction.*
 
-# MedicinesComplete: Internet Privacy Policy
+# Internet Privacy Policy: MedicinesComplete
 
 **Pharmaceutical Press** is the publications division of the **Royal Pharmaceutical Society of Great Britain**. This Privacy Policy covers the Website [www.medicinescomplete.com](http://www.medicinescomplete.com/) (the " **Website** "). We respect the privacy of every individual who visits the Website. This Policy sets out how we may use or disclose personal information about visitors to the Website and their rights in relation to that information. By entering and using the Website you are deemed to accept all terms and conditions outlined in this Policy.
 
@@ -66,4 +66,4 @@ This Policy is effective as of 1 July 2004. Pharmaceutical Press reserves the ri
 
 ## 10\. How to Contact Us
 
-See the [contacts](https://web.archive.org/web/20050404084419id_/http%3A//www.medicinescomplete.com/mc/noframes/contact.htm) page for details of how to contact us.
+See the [contacts](https://web.archive.org/web/20051220044705id_/http%3A//www.medicinescomplete.com/mc/contact.htm) page for details of how to contact us.
