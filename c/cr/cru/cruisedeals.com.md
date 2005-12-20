@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2005-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050322091855id_/http%3A//www.cruisedeals.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220212613id_/http%3A//cruisedeals.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Cruise Deals And Vacation Deal - Carnival Cruise Line / Royal Caribbean Cruises
+# Cruise Deals, Cruise Deal from CruiseDeals.com
 
   
   
