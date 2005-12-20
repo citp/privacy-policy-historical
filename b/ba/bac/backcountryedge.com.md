@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the backcountryedge.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603025936id_/http%3A//backcountryedge.com/backcountry_edge_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backcountryedge.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220124717id_/http%3A//www.backcountryedge.com/backcountry_edge_privacy_policy.aspx) for the most accurate reproduction.*
 
 # Backcountry Edge Is Committed to Protecting Your Privacy
 
 ## Information Collection & Use 
 
-At Backcountry Edge , we are committed to protecting your privacy, while providing you with the very best in hiking and backpacking related gear and information. 
+At Backcountry Edge, Inc. we are committed to protecting the privacy of our customers. Any personal information that you provide will be used strictly in accordance with the policies described below. We will not sell your personal information to any outside third parties.
 
 #### **Orders**
 
-If you purchase a product from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). 
+If you purchase a product from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email address, telephone number, and shipping address) and financial information (such as credit card number, expiration date). 
 
 We use this information for billing purposes and to fill your orders.  If we have trouble processing an order, we will use this information to contact you. 
 
@@ -46,11 +46,13 @@ We use this information, which does not identify individual users, to analyze tr
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. 
 
-We use session ID cookies on this site. A session ID cookie expires when you close you browser. We Do Not use persistent cookies on this site. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+We use session ID cookies on this site. A session ID cookie expires when you close your browser. Session ID cookies allow us to record the items that you place in your shopping cart. If you log into your customer account with us, we use session ID cookies to permit you to access your account information. 
+
+We do not use persistent cookies on this site. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
 
 #### Links to Other Sites 
 
-This Web site contains links to other sites that are not owned or controlled by Backcountry Edge . Please be aware that we, Backcountry Edge , are not responsible for the privacy practices of such other sites. 
+This Web site contains links to other sites that are not owned or controlled by Backcountry Edge, Inc. Please be aware that we, Backcountry Edge, Inc., are not responsible for the privacy practices of such other sites. 
 
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
 
@@ -64,7 +66,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 #### Business Transitions 
 
-In the event Backcountry Edge goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via email of any such change in ownership or control of your personal information. _  _
+In the event Backcountry Edge, Inc. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via email of any such change in ownership or control of your personal information. _  _
 
 #### Changes in this Privacy Statement 
 
