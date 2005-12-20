@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the acnefreein3days.com privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617084150id_/http%3A//www.acnefreein3days.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnefreein3days.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220115343id_/http%3A//acnefreein3days.com/privacy.html) for the most accurate reproduction.*
 
-# Acne Free in 3 Days - Privacy Policy
+# Acne Free in 3 Days™ - Privacy Policy
 
 Last Updated: September 23rd, 2003
 
-**WE HAVE AND WILL PROSECUTE ANY VIOLATION OF OUR COPYRIGHT, TO THE FULL EXTENT THE LAW ALLOWS**.
+**WE HAVE AND WILL PROSECUTE ANY VIOLATION OF OUR COPYRIGHT OR TRADEMARK, TO THE FULL EXTENT THE LAW ALLOWS**.
 
 Universal Marketing Media, Inc. and its website www.acnefreein3days.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
