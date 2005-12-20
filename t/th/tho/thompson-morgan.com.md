@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233804id_/http%3A//www.thompson-morgan.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220072111id_/http%3A//www.thompson-morgan.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Thompson & Morgan : Privacy Statement of Thompson & Morgan (Group) Ltd
 
