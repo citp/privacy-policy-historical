@@ -1,24 +1,16 @@
-> *The following text is extracted and transformed from the wincofoods.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305032930id_/http%3A//www.wincofoods.com/hipaa.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wincofoods.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220084846id_/http%3A//www.wincofoods.com/hippa.htm) for the most accurate reproduction.*
 
-# Welcome to WinCo Foods - We're committed to providing you with a very large selection of brand name products at the lowest possible prices.
+# WinCo Foods - Privacy Practices
 
+|  [ Home](http://www.wincofoods.com/)  
+---  
+[ Who Is WinCo Foods](https://web.archive.org/web/20051220084846id_/http%3A//www.wincofoods.com/whois.htm)  
+[ Our History](https://web.archive.org/web/20051220084846id_/http%3A//www.wincofoods.com/history.htm)  
+[ Benefits](https://web.archive.org/web/20051220084846id_/http%3A//www.wincofoods.com/benefits.htm)  
+[ ESOP](https://web.archive.org/web/20051220084846id_/http%3A//www.wincofoods.com/esop.htm)  
+[ WinCo Employees](https://web.archive.org/web/20051220084846id_/http%3A//www.wincofoods.com/employees.htm)  
+[ WinCo Locations](https://web.archive.org/web/20051220084846id_/http%3A//www.wincofoods.com/locations.htm)  
   
-  
-  
-  
-[ ](https://web.archive.org/web/20050305032930id_/http%3A//www.wincofoods.com/about_winco.html)  
-[ ](https://web.archive.org/web/20050305032930id_/http%3A//www.wincofoods.com/history.html)  
-[ ](https://web.archive.org/web/20050305032930id_/http%3A//www.wincofoods.com/news.html)  
-[ ](https://web.archive.org/web/20050305032930id_/http%3A//www.wincofoods.com/board_and_staff.html)  
-[ ](https://web.archive.org/web/20050305032930id_/http%3A//www.wincofoods.com/community.html)  
-  
-[ ](https://web.archive.org/web/20050305032930id_/http%3A//www.wincofoods.com/employees.html)  
-[ ](https://web.archive.org/web/20050305032930id_/http%3A//www.wincofoods.com/benefits.html)  
-[ ](https://web.archive.org/web/20050305032930id_/http%3A//www.wincofoods.com/esop.html)  
-  
-[ ](https://web.archive.org/web/20050305032930id_/http%3A//www.wincofoods.com/locations.html)  
-| 
-
 This summary is provided to assist you in understanding
 
 the attached Notice of Privacy Practices
@@ -73,7 +65,7 @@ If you have a question, concern or complaint regarding our privacy practices, pl
 
 **_Our Legal Duty_**
 
-We are required by applicable federal and state laws to maintain the privacy of your protected health information.  We are also required to give you this notice about our privacy practices, our legal duties, and your rights concerning  your protected health information.  We must follow the privacy practices that are described in this notice while it is in effect.  This notice takes effect **April 14, 2003** , and will remain in effect until we replace it.
+We are required by applicable federal and state laws to maintain the privacy of your protected health information.  We are also required to give you this notice about our privacy practices, our legal duties, and your rights concerning your protected health information.  We must follow the privacy practices that are described in this notice while it is in effect.  This notice takes effect ** April 14, 2003**, and will remain in effect until we replace it.
 
 We reserve the right to change our privacy practices and the terms of this notice at any time, provided that such changes are permitted by applicable law.  We reserve the right to make the changes in our privacy practices and the new terms of our notice effective for all protected health information that we maintain, including medical information we created or received before we made the changes.
 
@@ -95,7 +87,7 @@ We will share your protected health information with third party “business ass
 
 We may use or disclose your protected health information, as necessary, to provide you with information about treatment alternatives or other health-related benefits and services that may be of interest to you. We may also use and disclose your protected health information for other marketing activities. For example, your name and address may be used to send you a newsletter about benefits available to you under the Company benefits plan. We may also send you information about products or services that we believe may be beneficial to you. You may contact us to request that these materials not be sent to you. 
 
-** Uses and Disclosures Based On Your Written Authorization:  **Other uses and disclosures of your protected health information will be made only with your authorization, unless otherwise permitted or required by law as described below.
+** Uses and Disclosures Based On Your Written Authorization:  ** Other uses and disclosures of your protected health information will be made only with your authorization, unless otherwise permitted or required by law as described below.
 
 You may give us written authorization to use your protected health information or to disclose it to anyone for any purpose.  If you give us an authorization, you may revoke it in writing at any time.  Your revocation will not affect any use or disclosures permitted by your authorization while it was in effect.  Without your written authorization, we will not disclose your health care information except as described in this notice.
 
@@ -127,9 +119,9 @@ You may give us written authorization to use your protected health information o
 
 **         Access:**  You have the right to look at or get copies of your protected health information, with limited exceptions. You must make a request in writing to the contact person listed herein to obtain access to your protected health information. You may also request access by sending us a letter to the address at the end of this notice.  If you request copies, we will charge you .25¢ for each page, $15.00 per hour for staff time to locate and copy your protected health information, and postage if you want the copies mailed to you. If you prefer, we will prepare a summary or an explanation of your protected health information for a fee.  Contact us using the information listed at the end of this notice for a full explanation of our fee structure.
 
-**Accounting of Disclosures:   **You have the right to receive a list of instances in which we or our business associates disclosed your protected health information for purposes other than treatment, payment, health care operations and certain other activities after April 14, 2003\. After April 14, 2009, the accounting will be provided for the past six (6) years.  We will provide you with the date on which we made the disclosure, the name of the person or entity to whom we disclosed your protected health information, a description of the protected health information we disclosed, the reason for the disclosure, and certain other information.  If you request this list more than once in a 12-month period, we may charge you a reasonable, cost-based fee for responding to these additional requests.  Contact us using the information listed at the end of this notice for a full explanation of our fee structure.
+**Accounting of Disclosures:   **You have the right to receive a list of instances in which we or our business associates disclosed your protected health information for purposes other than treatment, payment, health care operations and certain other activities after April 14, 2003. After April 14, 2009, the accounting will be provided for the past six (6) years.  We will provide you with the date on which we made the disclosure, the name of the person or entity to whom we disclosed your protected health information, a description of the protected health information we disclosed, the reason for the disclosure, and certain other information.  If you request this list more than once in a 12-month period, we may charge you a reasonable, cost-based fee for responding to these additional requests.  Contact us using the information listed at the end of this notice for a full explanation of our fee structure.
 
-**Restriction Requests:   ** You have the right to request that we place additional restrictions on our use or disclosure of your protected health information.  We are not required to agree to these additional restrictions, but if we do, we will abide by our agreement (except in an emergency).  Any agreement we may make to a request for additional restrictions must be in writing signed by a person authorized to make such an agreement on our behalf.  We will not be bound unless our agreement is so memorialized in writing.
+**Restriction Requests:   **You have the right to request that we place additional restrictions on our use or disclosure of your protected health information.  We are not required to agree to these additional restrictions, but if we do, we will abide by our agreement (except in an emergency).  Any agreement we may make to a request for additional restrictions must be in writing signed by a person authorized to make such an agreement on our behalf.  We will not be bound unless our agreement is so memorialized in writing.
 
 **Confidential Communication:   **You have the right to request that we communicate with you in confidence about your protected health information by alternative means or to an alternative location.  You must make your request in writing. **** We must accommodate your request if it is reasonable, specifies the alternative means or location, and continues to permit us to bill and collect payment from you.
 
@@ -143,7 +135,7 @@ If you believe that we may have violated your privacy rights, or you disagree wi
 
 We support your right to protect the privacy of your protected health information.  We will not retaliate in any way if you choose to file a complaint with us or with the U.S. Department of Health and Human Services.
 
-**Name of Contact Person: Karen Stinger**
+**Name of Contact Person: Ray Sagarik**
 
 **Telephone:   (208) 377-0110              Fax:  (208) 377-0474          **
 
@@ -170,3 +162,5 @@ We support your right to protect the privacy of your protected health informatio
             _Disclosure of Employee Health Information_.  We will not use or disclose your health information without your written authorization except where:  (a) we are compelled to do so by a court order or administrative process; (b) the health information is relevant to a lawsuit, arbitration or grievance to which you and the company are parties and in which you have put your mental or physical condition at issue; in such event, your health information may be disclosed only in connection with that proceeding; (c) your health information must be used to administer the company’s employee benefit plan; and (d) your health information is necessary to be disclosed to a health care provider, health care professional or health care facility to aid in your diagnosis or treatment and you are unable to authorize the disclosure.  Otherwise, we will not disclose your health information except pursuant to a valid authorization. 
 
             _Charges for Copies of Your Records_.  If you request a copy of your medical records, we may charge for the cost of the copies, including labor to make the copies.  These charges will not exceed .25¢ per page for copies, and actual labor.
+
+| 
