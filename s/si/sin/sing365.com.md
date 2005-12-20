@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sing365.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413175721id_/http%3A//www.sing365.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sing365.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220184724id_/http%3A//sing365.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Sing365 Privacy Policy
 
-| sing365.com conjunction with our Advertisers, Affiliates, and Syndicated Providers have established the following statements regarding your privacy online at sing365.com  
+sing365.com conjunction with our Advertisers, Affiliates, and Syndicated Providers have established the following statements regarding your privacy online at sing365.com  
 Internet user privacy is of paramount importance to sing365.com. Below is information regarding sing365.com's commitment to protect the privacy of users and to ensure the integrity of the Internet. 
 
   
@@ -16,6 +16,4 @@ Here's how it works. When you are first served an ad by sing365.com, the adverti
 
 While we believe that cookies enhance your Web experience by limiting the repetitiveness of advertising and increasing the level of relevant content on the Web, they are not essential for us to continue our leadership position in Web advertising. If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature.
 
-This site, Sing365.com, use MaxWorldwide, Burstmedia.com and Advertising.com to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp), [http://www.burstmedia.com](http://www.burstmedia.com/release/privacy.asp) and [http://www.advertising.com](http://www.advertising.com/privacy/privacy.html). 
-
-| 
+This site, Sing365.com, use MaxWorldwide, Burstmedia.com and Advertising.com to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp), [http://www.burstmedia.com](http://www.burstmedia.com/release/privacy.asp) . 
