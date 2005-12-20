@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanns.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206185314id_/http%3A//www.vanns.com/shop/servlet/content/info/1057022777629/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanns.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220023927id_/http%3A//www.vanns.com/shop/servlet/content/info/1057022777629/1) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,10 +14,10 @@ Your Order Number:
 This is a web site of Vanns.com Inc., the Internet Company of Vann's Inc.  
 Our postal address is:  
 Vanns.com Customer Service  
-1600 North Ave. West, Suite 500  
+3623 Brooks St.  
 Missoula, MT  
 59801  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: custserv@vanns.com  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: sales@vanns.com  
 Vanns.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. Finally, we will never share or sell your personal information, including your email address, to other companies for any reason, except as required by law.  
 **Information Automatically Logged**  
 For each visitor to our Web page, our Web server automatically recognizes the consumer's IP address/ Domain name combination. We collect IP Address/ Domain Name combination of visitors to our Web page and aggregate information on what pages consumers access or visit.  
