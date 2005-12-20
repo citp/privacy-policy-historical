@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estara.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403113015id_/http%3A//www.estara.com/aboutus/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estara.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220070554id_/http%3A//www.estara.com/aboutus/privacy.php) for the most accurate reproduction.*
 
 # eStara, Inc. Privacy Policy
 
@@ -31,7 +31,7 @@ eStara Inc. ("eStara") is a licensee of the TRUSTe Privacy Program. This privacy
 
 eStara has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this Site. 
 
-eStara is committed to the highest degree of privacy of visitors to our Site. We will keep any and all information collected at this Site strictly confidential and will not sell, trade or otherwise convey the identity, address or any other information, including personally identifiable information, regarding its users or viewers to outside parties. The information we collect is used to disseminate information directly to users who have requested such information and to improve the content of our Site and our web voice service. It is not shared with other organizations for commercial purposes. 
+eStara is committed to the highest degree of privacy of visitors to our Site. eStara adheres to the Safe Harbor Principles promulgated by the United States Department of Commerce to comply with European Union privacy protection requirements. We will keep any and all information collected at this Site strictly confidential and will not sell, trade or otherwise convey the identity, address or any other information, including personally identifiable information, regarding its users or viewers to outside parties. The information we collect is used to disseminate information directly to users who have requested such information and to improve the content of our Site and our web voice service. It is not shared with other organizations for commercial purposes. 
 
 **Security**
 
@@ -40,11 +40,6 @@ The security of your personal information is important to us.  When you enter s
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our Web site, you can email us at [marketing@estara.com](mailto:marketing@estara.com).
-
-**Special Cases**   
-It is eStara policy not to use or share the personal information about users of our services in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, eStara may disclose personal information about users, or information regarding your use of our services, for any reason if, in our sole discretion, the information is required to prevent the abuse of our services, to comply with governmental or legal requests for such information or to identify, contact, or bring legal action against someone who may be using eStara services in an attempt to harass a third party or otherwise violate acceptable use of our services. 
-
-A more detailed explanation about how we safeguard your personal information is described below. If you have any additional questions, please don't hesitate to let us know by emailing us at [marketing@estara.com](mailto:marketing@estara.com). 
 
 **Statistical Information About Your Visit**   
 When you visit our website, our computers may automatically collect statistics about your visit. This information does not identify you personally, but rather about a visit to our site. We may monitor statistics such as how many people visit our site, the user's IP address, which pages people visit, from which domains our visitors come and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of our Web site. 
@@ -56,7 +51,7 @@ eStara may offer Push to Talk users and website visitors the choice to participa
 As is standard practice for most websites, eStara analyzes its website logs to improve the value of its Site and web voice service. These files automatically log such information as this includes IP addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and #of clicks. Our website logs do not contain, nor are they tied to, any personally identifiable information about any of our Site visitors. 
 
 **Cookies**   
-eStara uses a Session ID cookie solely to faciliate efficient site navigation and improve your experience on the eStara website. In addition, cookies are used to store calling information if you elect to make a "Talk by Phone" call using Push to Talk, solely for the purpose of connecting the Push to Talk calls. 
+eStara uses a Session ID cookie solely to faciliate efficient site navigation and improve your experience on the eStara website. In addition, cookies are used to store calling information if you elect to make a "Talk by Phone" call using Push to Talk, solely for the purpose of connecting the Push to Talk calls. We do link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
 **Web Beacons**   
 eStara may also use electronic images (known as Web Beacons or "single-pixel GIF") in accordance with TRUSTe "best practices" guidelines for Web Beacon use. Web Beacons are used by a wide variety of online companies to aggregate data about site traffic, generate unique visitors counts, and to understand how website visitors use various online services. eStara uses Web Beacons in the following ways: 
@@ -82,6 +77,9 @@ eStara provides Push To Talk voice links and email links located on our Site's C
 
 eStara provides its web voice services to third parties for use on their websites. eStara is not responsible for the information collection practices of these third parties' websites. When you utilize our web voice services from these third party websites we collect only non-personally identifying information such as your browser type and IP address. 
 
+**Newsletters**  
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, we provide you a way to unsubscribe.  Please see the “Choice and Opt-out” section. 
+
 **Choice/Opt-Out**   
 Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or emailing us at [marketing@estara.com](mailto:marketing@estara.com). 
 
@@ -90,6 +88,11 @@ eStara does not store user and/or customer information online or make it availab
 
 **Notification of Changes**   
 If we decide to change our privacy policy, we will post those changes on our Site so users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If, in addition, we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. However, if you have opted out of all communication with the site, or deleted/deactivated your contact information, then you will not be contacted. Nor will your personal information be used in this new manner. 
+
+**Special Cases  
+** It is eStara policy not to use or share the personal information about users of our services in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, eStara may disclose personal information about users, or information regarding your use of our services, for any reason if, in our sole discretion, the information is required to prevent the abuse of our services, to comply with governmental or legal requests for such information or to identify, contact, or bring legal action against someone who may be using eStara services in an attempt to harass a third party or otherwise violate acceptable use of our services. 
+
+A more detailed explanation about how we safeguard your personal information is described below. If you have any additional questions, please don't hesitate to let us know by emailing us at [marketing@estara.com](mailto:marketing@estara.com). 
 
 **Disclaimer**   
 Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
