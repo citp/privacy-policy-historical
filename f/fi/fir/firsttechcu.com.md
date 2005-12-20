@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firsttechcu.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405213517id_/http%3A//www.firsttechcu.com/home/about_first_tech/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firsttechcu.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220025250id_/http%3A//www.firsttechcu.com/home/about_first_tech/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - First Tech Credit Union
 
@@ -9,7 +9,7 @@ First Technology Credit Union is a licensee of the TRUSTe Privacy Program. This 
 If you have questions or concerns regarding this statement, you should call our contact center at 503.644.4034 or 800.637.0852. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 **First Tech Credit Union Privacy Policy**  
-Annual Privacy Policy | April, 2005 
+Annual Privacy Policy | July, 2005 
 
 This is the joint privacy policy of First Technology Credit Union and our credit union affiliate, TCU Group Services, Inc. which does business as First Tech Financial Services, First Tech Insurance Services, Technology Insurance NW and First Tech Professional Services. Our joint policy describes the applicable member information practices related to each account and service you have with the Credit Union and our financial service affiliate. 
 
@@ -29,7 +29,7 @@ Our wholly owned financial service affiliate provides financial services includi
 
 
 
-Because we maintain management control over our financial service affiliate, you can expect our affiliate to maintain the same privacy standards as the Credit Union. 
+Because we maintain management control over our financial service affiliate, you can expect our affiliate to maintain the same privacy standards as the Credit Union. You may limit our affiliates from marketing their products or services to you based on the information that we share with them.
 
 **4\. Sharing Information with Third Party Service Providers** In order for us to conduct our operations, including servicing your account or processing your transactions, we need to share information with our service providers. The credit union's service providers include: data processing companies; check, ATM and other payment processing companies; payment networks; loan service providers; insurance companies; collection agencies; and credit reporting agencies. Our financial service affiliates service providers include: data processing companies; insurance companies; payment networks and credit reporting agencies. These service providers act on our behalf and have agreed in writing to keep the information we provide to them confidential. We share the following categories of information with third party service providers depending on the specific services provided: 
 
@@ -39,7 +39,10 @@ Because we maintain management control over our financial service affiliate, you
 
 
 
-The Credit Union and affiliate does not sell or share any member information with nonaffiliated third party marketers offering their products and services. While we may offer financial products and services of our affiliate or third parties, we control the member information used to make such offers. 
+The Credit Union and affiliate does not sell or share any member information with nonaffiliated third party marketers offering their products and services. 
+
+**4 a. Sharing Information with Third Party Service Providers  
+** While we may offer valuable financial products and services of our affiliate or third parties, we control the member information used to make such offers. We currently offer members insurance products offered by American Express Property Casualty, John Hancock Accidental Death & Dismemberment Insurance, and Capstone Group, Long Term Care Specialist. You may tell us not to offer these services to you as explained in the Opt Out section of this notice.
 
 **5\. Sharing Information as Legally Required or Permitted**  
 We may share any nonpublic personal information of yours in response to a lawful request issued by a court, government agency, or regulatory authority or as permitted by law in order to administer or enforce your account. We may also share our experience information about you with credit bureaus. Our reporting to credit bureaus is governed by the Fair Credit Reporting Act, which affords you the right to make sure that your credit bureau reports are accurate. 
@@ -65,3 +68,22 @@ Cookies are also used by 1sttech Online home banking during a login session for 
 This web site contains links to other sites. Please be aware that First Tech Credit Union is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Some of the links from our site will take you off the firsttechcu.com site to a "co-branded" site where you will see the First Tech logo as well as the logo of another service provider. The following links to sites are co-branded: IFI, Acordia Group Term life, eVision, Sharebuilder, Autoland International, H&R Block, Emerald Publications, Identity Fraud Inc. Verify by Visa and First Tech Rewards. Any information you provide is collected by the service provider and you are encouraged to read the privacy statement of that provider. 
 
 We also have links from firsttechcu.com to "fully branded" service provider sites. As you view information on a fully branded site you will see a change in the URL but the pages appear as First Tech Credit Union's and the service provider is not identified. All information collected on fully branded sites is used by First Tech Credit Union only and is not shared or used for any purpose other than processing your application and providing the requested service. Fully branded sites include: online mortgage applications, check printing, e-notices, share draft images, funds transfer service and aggregation.
+
+**12\. First Tech Credit Union does not sell or share your information with outside third party marketers.  
+** As described in this policy, we may share your information within the First Tech family of affiliates. By sharing this information, we can better understand your financial needs and send you information about products and services that you may not otherwise know about. You may limit the sharing of information within the First Tech affiliates at any time. You may also limit the type of marketing material First Tech and its affiliates send you as explained below:
+
+  * You do not want our affiliates to market their products or services to you based on the information that we share with them.
+  * You do not want offers of products by third parties
+  * You do not want to be contacted with offers by mail.
+  * You do not want to be contacted with offers by email.
+  * You do not want to be contacted with offers by telephone.
+
+
+
+To opt out, please call:   
+503.644.4034 or 1.800.637.0852  
+Hours: M - F 8am - 6pm, Sat 10am - 2pm
+
+This opt-out applies only to the accounts you provide, accounts opened after this opt-out will require their own opt-out instructions.
+
+Your opt-out choices will remain in effect until you notify us otherwise.
