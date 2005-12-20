@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the barbiecollector.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308235332id_/http%3A//www.barbiecollector.com/contact/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbiecollector.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220150329id_/http%3A//www.barbiecollector.com/contact/policies.asp) for the most accurate reproduction.*
 
 # Barbie Collector - Privacy Policy
 
-[](https://web.archive.org/contact/sister.asp)  
 [](https://web.archive.org/contact/infoquest.asp)  
 [](https://web.archive.org/contact/comments.asp)  
-[](https://shop.barbiecollector.com/pls/bc/catreq_main?plsql=/pls/bc) |  |  | 
+[](https://shop.barbiecollector.com/pls/bc/catreq_main?plsql=/pls/bc)  
+|  |  | 
 
 Use of this site signifies your acceptance of the terms and conditions.
 
@@ -41,7 +41,7 @@ Mattel might collect an e-mail address and first name (or screen name) from your
 
 
 
-In the latter situation we require your child to give us your e-mail address, too, so that we can tell you that they have registered in a promotion or for a service. If we need more than an e-mail address and first name (or screen name) to enter your child in the promotion or offer the service, we will notify you, explain what information we need and why, and generally ask that you (not your child) provide it. For instance, we might ask you for your mailing address so that we can send to you, for your child, any prizes your child wins, or for your telephone number so that we can tell you when your child has won. Any information you or your child give us in the above special circumstances will be deleted from our database once the promotion, program or activity is concluded, and after any legally required period for keeping such information is complete. We do not require a child to disclose more information than is reasonably necessary to participate in a contest, game or other activity as a condition of participation. If you no longer wish your child to participate in an e-mail newsletter, simply click on the link that is provided for removal or contact us at [Service@mattel.com](mailto:%20Service@mattel.com). Upon proper identification, parents or legal guardians may review the personal information we have collected about their child, request deletion, or refuse to allow further collection or use of the information. [Click here](https://web.archive.org/web/20050308235332id_/http%3A//www.barbiecollector.com/contact/form.aspx) to print a copy of our Personal Information Review Access Request, fill it out completely and mail it to: 
+In the latter situation we require your child to give us your e-mail address, too, so that we can tell you that they have registered in a promotion or for a service. If we need more than an e-mail address and first name (or screen name) to enter your child in the promotion or offer the service, we will notify you, explain what information we need and why, and generally ask that you (not your child) provide it. For instance, we might ask you for your mailing address so that we can send to you, for your child, any prizes your child wins, or for your telephone number so that we can tell you when your child has won. Any information you or your child give us in the above special circumstances will be deleted from our database once the promotion, program or activity is concluded, and after any legally required period for keeping such information is complete. We do not require a child to disclose more information than is reasonably necessary to participate in a contest, game or other activity as a condition of participation. If you no longer wish your child to participate in an e-mail newsletter, simply click on the link that is provided for removal or contact us at [Service@mattel.com](mailto:%20Service@mattel.com). Upon proper identification, parents or legal guardians may review the personal information we have collected about their child, request deletion, or refuse to allow further collection or use of the information. [Click here](https://web.archive.org/web/20051220150329id_/http%3A//www.barbiecollector.com/contact/form.aspx) to print a copy of our Personal Information Review Access Request, fill it out completely and mail it to: 
 
 Personal Information Review Access Request
 
@@ -57,7 +57,7 @@ El Segundo, CA 90245
 
 However, if you ask us to delete your child's information, we may have to ask your child not to participate in our activities.
 
-**4\. What Does Mattel Do With We Collect?**
+**4\. What Does Mattel Do With The Information We Collect?**
 
 We use the personal information we collect for the purposes indicated at the time you or your teenager or child (with your consent) provides such information. For instance, if you register in a contest, we will use the registration information to notify contest winners, or if you purchase a product, we will use the information to fulfill the order. Occasionally, and only with consent at the time we ask for information, we might also e-mail or mail you or your teenager or your child to provide information on upcoming Mattel products, website updates and promotions. With your consent, we may also share information with other Mattel brands and Mattel family companies so that they can let you and your family know about products that might be of interest. If you want to stop receiving such updates and product information at any time, just contact us at [Service@mattel.com](mailto:%20Service@mattel.com) or call us at 800-524-TOYS. Our mailings and e-mail will also include information allowing you to ask not to receive such information in the future.
 
