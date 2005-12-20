@@ -1,42 +1,42 @@
-> *The following text is extracted and transformed from the adforum.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/Privacy_Policy.asp%3Fnv%3Dg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adforum.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/Privacy_Policy.asp%3Fnv%3Dg) for the most accurate reproduction.*
 
 # AdForum: Advertising Agency and Creative Work
 
-| PRIVACY POLICY  
+PRIVACY POLICY  
   
 ---  
   
 Privacy Statement  
   
 At AdForum.com, the privacy of our users is one of our top concerns. The following statement discloses our privacy policies for AdForum.com, a service provided by MayDream. Maydream and AdForum.com are herein also referred to as "us" and "this site."  
-[What Information We Collect and Why](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#1)  
-[  1\. Registration](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#2)  
-[  2\. Subscription to the Newsletter](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#3)  
-[  3\. Registration of a company in our database](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#4)  
-[  4\. Buyer information collection](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#5)  
-[  5\. Request for information](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#6)  
-[  6\. Surveys and contests](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#7)  
-[  7\. Prospect information collection](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#8)  
-|  [What We Do With It](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#9)  
-[  1\. AdForum.com’s newsletters and e-alerts](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#95)  
-[  2\. General communication from Maydream](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#10)  
-[  3\. Opt-Out](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#11)  
-[  4\. Sharing of information](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#12)  
-[  5\. Outside data](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#13)  
-[  6\. Log files](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#14)  
-[  7\. Cookies](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#15)  
-[  8\. Correcting / updating personal information](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#16)  
-[  9\. Accessing your information](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#17)  
+[WHAT INFORMATION WE COLLECT & WHY](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#1)  
+  [1\. Registration](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#2)  
+  [2\. Subscription to the Newsletter](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#3)  
+  [3\. Registration of a company in our database](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#4)  
+  [4\. Buyer information collection](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#5)  
+  [5\. Request for information](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#6)  
+  [6\. Surveys and contests](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#7)  
+  [7\. Prospect information collection](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#8)  
+|  [WHAT WE DO WITH IT](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#9)  
+  [1\. AdForum.com’s newsletters and e-alerts](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#95)  
+  [2\. General communication from Maydream](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#10)  
+  [3\. Opt-Out](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#11)  
+  [4\. Sharing of information](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#12)  
+  [5\. Outside data](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#13)  
+  [6\. Log files](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#14)  
+  [7\. Cookies](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#15)  
+  [8\. Correcting / updating personal information](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#16)  
+  [9\. Accessing your information](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#17)  
   
-**[Other Privacy Issues](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#18)**
+**[Other Privacy Issues](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/privacy_policy.asp?#18)**
 
 Also check:  
-[  User Agreement](https://web.archive.org/web/20050403144129id_/http%3A//www.adforum.com/aboutus/useragreement.asp)  
+[  User Agreement](https://web.archive.org/web/20051220164328id_/http%3A//www.adforum.com/aboutus/useragreement.asp)  
 [  E-Store conditions of use](https://web.archive.org/e_store/help/faq.asp)
 
 |     
    
-What Information We Collect and Why  
+WHAT INFORMATION WE COLLECT AND WHY  
 Maydream provides a business-to-business service. We only collect personal information from users when it is related to their professional activity.  
 1\. Registration
 
@@ -67,7 +67,7 @@ From time to time, we request information from AdForum.com users via surveys or 
 
 To use our “Refer/Send to a friend” services, users are requested to provide names and email addresses that may be used later as prospect information. For these “Refer/Send to a friend” services, AdForum.com sends an email to a prospect (or prospects) on behalf of the user containing links to the information the user has selected on the AdForum.com website. Each of these emails provides the prospect with the opportunity to opt-out of further communication from AdForum.com.  
   
-What We Do with It  
+WHAT WE DO WITH IT  
 1\. AdForum.com's newsletters and e-alerts
 
 AdForum subscribes for free the users of its website who submit their email address for any of the purposes listed above to its newsletters and e-alerts. These publications are aimed at professionals of the marketing and advertising industry. Any subscriber who doesn’t want to receive these newsletters or email alerts anymore can easily unsubscribe, as detailed in “Opt-out” below.   
