@@ -1,34 +1,16 @@
-> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305012543id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220105827id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
 
 # Bizy Moms.com - Our Privacy Policy - The site for work at home information, ideas, and advice.
 
-|  | 
-
-[](http://www.bizymoms.com/)  
-[](http://www.bizymoms.com/startup.html)  
-[](http://www.bizymoms.com/main/?10000!chat)  
-[](http://www.bizymoms.com/cgi-bin/sgx/shop.cgi?afnum=10000&page=classlist.html)  
-[](http://www.bizymoms.com/chat.html)  
-[](http://www.bizymoms.com/discus)  
-[](http://www.bizymoms.com/artnadv.html)  
-[](http://www.bizymoms.com/chapters.html)  
-  
-[](http://www.bizymoms.com/lizfolger.html)[](http://www.bizymoms.com/cgi-bin/sgx/shop.cgi?afnum=10000&page=affiliates.html)  
-[](http://www.bizymoms.com/search.html)  
-[](http://www.bizymoms.com/contact.html)
-
-|  | 
-
-  
-**_Bizymoms Privacy Policy  
+  ** _Bizymoms Privacy Policy  
 _ ** ****
 
-**This web site is owned by[Liz Folger](http://www.bizymoms.com/lizfolger.html).**
+**This web site was created by[Liz Folger](http://www.bizymoms.com/lizfolger.html).**
 
-She can be reached via e-mail at [bizymoms@bizymoms.com](mailto:bizymoms@bizymoms.com)  
+You can contact Liz through our [customer support center](http://wnhelp.com/index.php?_m=tickets&_a=submit&group=bizymoms)  
 Or you can reach her by telephone at 530-938-2253.
 
-Mailing Address: Bizymoms, 5828 Brook Ln., Weed, CA 96094
+Mailing Address: **Bizymoms** 37, Whiteface Crescent Brampton , ON L6X 4X3 Canada
 
 Bizymoms shares your concern for privacy online and has implemented the following privacy policy to make you aware of how your visit, and any information you share with us while on our site, is utilized.
 
