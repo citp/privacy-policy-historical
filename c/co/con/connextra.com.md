@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207000311id_/http%3A//www.connextra.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220122030id_/http%3A//www.connextra.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Connextra | Privacy Policy
 
@@ -20,7 +20,7 @@ We invite you to contact us if you have questions about this policy. You may con
 
 #### Dispute Resolution and Privacy Seals
 
-We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
+We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
 
   * **Dispute Resolution** : If you have concerns that we might not be following our  
 
@@ -122,4 +122,4 @@ Cookies are used for the following purposes:
 
 top^
 
-Whatever you need your online marketing system to do, we can build it [more](https://web.archive.org/web/20050207000311id_/http%3A//www.connextra.com/services/builds.htm)
+Whatever you need your online marketing system to do, we can build it [more](https://web.archive.org/web/20051220122030id_/http%3A//www.connextra.com/services/builds.htm)
