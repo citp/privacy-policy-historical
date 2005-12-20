@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devpapers.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204131339id_/http%3A//www.devpapers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devpapers.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220112943id_/http%3A//www.devpapers.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,4 +24,4 @@ DevPapers.com may disclose information collected from Users to trusted affiliate
 Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure. 
 
 **Questions**  
-Users may direct questions concerning this Privacy Policy by email to [privacy@inetinteractive.com](http://devpapers.com/privacy@inetinteractive.com). 
+Users may direct questions concerning this Privacy Policy by email to [privacy@inetinteractive.com](http://www.devpapers.com/privacy@inetinteractive.com). 
