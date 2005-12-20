@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winestar.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616061855id_/http%3A//www.winestar.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winestar.com.au privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221000635id_/http%3A//www.winestar.com.au/privacy.htm) for the most accurate reproduction.*
 
 # WineStar
 
