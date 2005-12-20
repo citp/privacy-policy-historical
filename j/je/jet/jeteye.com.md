@@ -1,59 +1,65 @@
-> *The following text is extracted and transformed from the jeteye.com privacy policy that was archived on 2002-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020907034700id_/http%3A//www.jeteye.com/ESI/SiteMap/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeteye.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220070023id_/http%3A//www.jeteye.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Jeteye :: Privacy Policy
 
-This is the web site of Extended Systems. 
+At Jeteye Technologies, Inc. ("Jeteye"), we know that privacy is a paramount concern and we design and operate our services with the protection of your privacy in mind. Jeteye does not sell, rent, or otherwise disclose personally identifiable information to other companies or individuals in violation of the commitments set forth in this Privacy Policy. By visiting Jeteye.com, you are accepting the practices described in this policy.
 
-> 5777 N. Meeker Avenue   
-> Boise, Idaho 83713   
-> 800-235-7576 (in U.S. & Canada)   
-> 208-322-7800 (outside U.S.)   
-> Fax: (208) 327-5004  
-> E-mail: [info@extendsys.com](mailto:info@extendsys.com)
+## What Information About Users Does Jeteye Gather?
 
-**Privacy Policy**
+Information gathered online can generally be classified as either automatic or personally identifiable.
 
-Extended Systems is committed to protecting the privacy of personal information you provide to us when using extendedsystems.com. This Privacy Policy describes how we treat personal information received when you visit our site. We may present content or services from other Web sites to you via links located on extendedsystems.com. These other Web sites are not subject to this Privacy Policy and we suggest you view their individual policies as well. 
+Automatic Information: Automatic information can include some limited information that your browser makes available whenever you visit a Web site: your Internet protocol (IP) address, browser type, browser language, operating system, the date and time of your query. This automatic information can help us refine and improve the quality of your online experience by facilitating the personalization of some services and a better understanding of how people interact with us. Like many Web sites, we use "cookies" that uniquely identify your browser. A cookie is an alphanumeric identifier that we transfer through your Web browser to your computer's hard drive to enable our systems to recognize your browser and to provide personalized features. The "help" function of most browsers allows you to disable cookies or indicate when a cookie is being sent. However, some Jeteye features or services may not function properly without cookies.
 
-**Types of Information We Collect:**
+Information You Provide to Us: Some of our services require that you register for an account and provide personally identifiable information, which can include your name, address, zip code, etc. We will use that information to provide the service. For certain services, such as our advertising programs, we may request credit card or other payment information, which we maintain in encrypted form on secure servers. In order to ensure that you make an informed decision about sharing your personal information with us, when we require personally identifiable information, we will inform you about the types of information we collect and how we use it.
 
-**General:  
-** Upon registering and at other times, we will collect personally identifiable information including name, company, address, email address, phone number, fax number and credit card information. 
+## Does Jeteye Share the Information It Receives?
 
-**Surveys:**  
-We have surveys throughout the site which are entirely voluntary. The information collected here is used to improve our understanding of customer needs and product development.
+We do not rent, sell, or otherwise disclose your personally identifiable information to other companies or individuals except in any of the following limited circumstances:
 
-**On-Line Store:**  
-We collect personally identifiable information including name, company, address, email address, phone number, fax number and credit card information in order to process and deliver your order.
-
-**Web Site Usage:**  
-We automatically collect IP addresses and Web site usage information when you enter our web site. This information helps us evaluate how our visitors use and navigate our Web site on an aggregate basis, including number and frequency of visitors to each Web page, and the length of their visits.
-
-**How the Information is Used:**
-
-  * To help us enhance our products and services to more effectively meet your needs. 
-  * For the purposes you specifically provided the information including, for example, enabling us to process, validate and verify orders. 
-  * To send email notifications about our new or existing products, services and offers that might interest you. 
-  * To allow us to personalize the content and advertising that is viewed based on personal characteristics or preferences. 
+  * We have your consent.
+  * We release account and other personally identifiable information when we believe release is appropriate to comply with the law or to protect the rights, property, or safety of Jeteye, our users, or others. However, this does not include renting, selling, sharing, or disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy.
+  * We may, from time to time, employ other companies or individuals for the sole purpose of processing and analyzing personally identifiable information on our behalf. These companies or individuals are subject to agreements that oblige them to process such information only in terms of our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
 
 
 
-**Security**  
-Information we collect from you, including your e-mail address, telephone and fax number, mailing address, and product interests is held in confidence, and is only shared with businesses with which we have established partnerships. We have also taken steps to ensure that customer information is securely maintained. 
+If you register for an account, we may share the information you submit among all of our services in order to improve the quality of what we can offer you.
 
-**Cookies**  
-A cookie is a small file that is placed on the user's hard drive during their visit to extendedsystems.com and is only used in our firmware information area. Upon leaving extendesystems.com, the cookie is deleted.
+We may share aggregated, non-personally identifiable information with others, for example, the number of users who searched for a specific subject or how many users clicked a particular advertisement.
 
-**Children**  
-Due to the nature of our products and web site, we do not knowingly collect personal information from anyone under 18 years of age. If we find that we have personal information on a person under the age of 18, we will delete the information from our systems.
+In the event of a transfer of ownership of Jeteye, such as acquisition by or merger with another company, customer information generally is one of the transferred business assets but remains subject to any pre-existing Privacy Policy, unless the customer consents otherwise. We will, however, provide you with a notice and the opportunity to change or remove your personally identifiable information before any data transfer occurs or before your personally identifiable information becomes subject to a different privacy policy.
 
-**It's Your Choice**  
-We may use your information to periodically notify you of special events or product news. If you indicate to us that you do not wish to receive such information, we will immediately remove your name from future contact lists. To communicate this choice, we ask that you contact us utilizing any of the contact information provided above. 
+## Inviting a Friend
 
-**Policy Modifications**  
-Be sure to check back periodically as we may update this Privacy Policy from time to time. Be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner which is materially inconsistent with this Privacy Policy, without your prior consent. 
+If a member elects to invite a friend to Jeteye's Web site, we request the friend's E-mail address. We will automatically send an E-mail inviting the friend to view and join Jeteye. In order to automatically add the respondent to the group list of the user sending the invitation and to send reminders about the invitation, Jeteye stores this E-mail address. However, we do not sell or share this E-mail address or use it to send any communication other than invitations and invitation reminders. The friend may [contact Jeteye](https://web.archive.org/contact.html) to request the removal of his/her E-mail from our databases.
 
-**Comments and Questions**  
-Extended Systems supports the self-regulatory efforts of the Direct Marketing Association. If you have any questions of comments about our on-line privacy information, please contact us at [info@extendsys.com](mailto:info@extendsys.com). 
+## How Does Jeteye Secure Information?
 
-This Policy was last updated on: September 22, 2000 
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. 
+
+Only employees who need to know your personally identifiable information in order to operate, develop, or improve services have access to that information.
+
+## Search Results and Links
+
+The sites displayed as search results from or links to Jeteye's services are developed and maintained by companies and individuals over which Jeteye exercises no control. These other sites may place cookies on your computer's hard drive, collect data, or solicit personal information.
+
+Jeteye may format links in a way that enables us to determine whether or not they have been followed. We employ this information to develop and improve the quality of Jeteye's technology. For example, we may use this information to determine whether users are satisfied with the first result of a query and how often they follow links listed later in results.
+
+## Changes to This Policy
+
+This Privacy Policy will change occasionally. You should check our Web site to see recent changes. We expect most changes to be minor, but more significant modifications may occur. In either case, we will post alterations on this page and, if the changes are significant, we will provide a more prominent notice. Prior versions of this policy will be kept in an archive for you to view.
+
+## Updating Your Profile
+
+You may review and update your personally identifiable information by clicking My Preferences.
+
+## Contacting Jeteye
+
+If you have any additional questions regarding this Privacy Policy, please feel free to contact us.
+
+By Mail:  
+Jeteye Technologies, Inc.  
+244 Jackson Street  
+Suite 200  
+San Francisco, CA 94111
+
+[Or fill out a Contact Form](https://web.archive.org/contact.html)
