@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the revolvermag.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407030817id_/http%3A//www.revolvermag.com/reg-htmls/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvermag.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220151650id_/http%3A//revolvermag.com/reg-htmls/privacy-policy.html) for the most accurate reproduction.*
 
 # Revolver Magazine | Privacy Policy
 
-[](https://web.archive.org/web/20050407030817id_/http%3A//www.revolvermag.com/issues/2005/may/0505.table-of-cont.html) |   
+[](https://web.archive.org/web/20051220151650id_/http%3A//revolvermag.com/issues/2006/february/toc.html) |   
 ---|---  
   
 Harris Publications Inc. ("Harris") believes that you should control the dissemination of the personally identifiable information that you provide when using the REVOLVERmag.com web site ("the Site"). Please review this policy carefully to understand how we will treat the personally identifiable information that you give to us.
