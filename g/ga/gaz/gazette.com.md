@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gazette.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404201916id_/http%3A//www.gazette.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazette.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220100931id_/http%3A//www.gazette.com/privacy.php) for the most accurate reproduction.*
 
 # Gazette.com
 
 **Privacy Policy**  
 Last updated: March 2005  
-We respect your privacy and appreciate the confidence you have placed in Gazette.com as your primary source of information about Orange County. We are committed to protecting your privacy and preserving your trust. This Privacy Policy explains how personal information may be collected and used at this site.
+We respect your privacy and appreciate the confidence you have placed in Gazette.com as your primary source of information about Colorado Springs. We are committed to protecting your privacy and preserving your trust. This Privacy Policy explains how personal information may be collected and used at this site.
 
 **Information Collection and Use**  
 Gazette.com collects information from our users at several different points on our website. For example, we may collect personally identifiable information from you such as your name, address, phone number, and e-mail address when you register, subscribe to one of our services, enter contests offered by our site, and at other times. In addition, we automatically collect non-personal information such as your browser type, operating system, IP address, and site usage information, in order to evaluate and improve the performance of our site.
