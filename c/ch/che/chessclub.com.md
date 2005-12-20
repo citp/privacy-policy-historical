@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chessclub.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403075300id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chessclub.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220090722id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.*
 
 # ICC Help: privacy
 
@@ -14,6 +14,8 @@ Registration Information
 
 The following information (which you may have specified when you registered) can be seen only by Admins: Your name, your email address, your password, your postal address, your phone number, your previous ICC handle, your USCF ID, expiration, and PIN number. Of course you are free to publicize your personal information.
 
+Your registration in ICC will also give you a subscription to our periodic email newsletter. Each newsletter will contain a link at the bottom to allow you to unsubscribe at any time.
+
 The ICC may use your email address to sporadically send you important announcements. (In the past such announcements have been sent fewer than once per year. For example, such a bulk mailing was once used to tell all of our members an alternative way to connect to our server when the server machine was under attack.) If you do not wish to ever get such announcements, send email to news@chessclub.com stating this fact.
 
 The ICC may use your postal address (if you checked the box to allow its use) to mail you information about products and services available from 3rd parties. The ICC will not give your address to these 3rd parties.
@@ -22,15 +24,17 @@ Naturally your Handle, your rating and title (after verification) are all public
 
 If you want to know the identity, email address, or other information on an ICC member, please do not ask an Admin. Ask the member directly. It is his or her decision to tell you.
 
+Authorized Mailings
+
+On occasion, the ICC may offer you a free prize, product or other mailing that is to be provided by a 3rd party. If you accept this offer explicitly (by responding to the offer) or implicitly (e.g., by playing in a tournament offering the prize), then the ICC may release your personal information to such 3rd party, with the restriction that it is only to be used for such mailing.
+
 Credit Card Information
 
 Credit card numbers are only stored on the ICC servers in encrypted form. They are not visible to anybody except ICC employees (a small subset of the Admins) involved in the processing of payments. Credit cards are processed by Cybercash. Cybercash sends credit card numbers over the Internet in encrypted form. (For more information see [http://www.cybercash.com](http://www.cybercash.com/) .) The name, address, and phone number that is entered when a credit card is used is visible to the Admins. The card number is not.
 
 Private Communication
 
-The ICC does not explicitly log tell-type (that is, "tell" and "say") communication between a pair of users. Any such conversation you have with another member is totally private. Nobody, including Admins, can listen in on any such conversation that takes place on an ICC server. However, there is a debugging log that on rare instances contains such a tell message, and it is possible that an Admin could inadvertently see such a message. Such occurrences are rare, and are not under the control of the Admins.
-
-Admins are sometimes privy to conversations between a pair of ICC members. This happens when one of the members of that conversation relays the conversation to the Admin.
+The ICC does not explicitly log tell-type (that is, "tell" and "say") communication between a pair of users. Any such conversation you have with another member is normally completely private. Nobody, including Admins, can listen in on any such conversation that takes place on an ICC server. Administrators are only privy to conversations between a pair of ICC members when one member complains about the other party using the "complain user" command ([help complain](https://web.archive.org/help/complain)), or if a member relays the conversation. However, there is a debugging log that on rare instances contains such a tell message, and it is possible that an Admin could inadvertently see such a message. Such occurrences are rare, and are not under the control of the Admins.
 
 Public Communication
 
@@ -67,8 +71,8 @@ You can also contact the ICC business office to request that this information be
           Phone: 412-521-5553
           Fax: 412-521-5575
           Postal:  Internet Chess Club
-    	       1722 Murray Ave, 3rd floor
-    	       Pittsburgh, PA 15217 
+                   5820 Forbes Avenue, Suite 1
+                   Pittsburgh, PA 15217 USA 
 
 Contact Information
 
