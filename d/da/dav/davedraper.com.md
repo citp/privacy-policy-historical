@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405211542id_/http%3A//www.davedraper.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220202633id_/http%3A//davedraper.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IronOnline Privacy Policy
 
-  |  |   
-  
----  
-  
-| 
+  |  |  | 
 
 Dave Draper's IronOnline has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
 
@@ -61,5 +57,53 @@ If you have any questions about this privacy statement, the practices of this si
 
 Laree Draper Dave Draper's IronOnline P. O. Box 1335 Aptos, CA 95001 831-466-9182
 
-|   
----|---
+|  |   
+---  
+[ ](https://web.archive.org/newsletter-testimonials.html)  
+  
+[Order and Shipping policy](https://web.archive.org/store-order-info.html)   
+[Privacy policy](https://web.archive.org/privacy-policy.html)  
+[Contact us ](https://web.archive.org/contact-irononline.html)
+
+[](http://davedraper.com/davedraper.xml)  
+[](http://add.my.yahoo.com/rss?url=http://davedraper.com/davedraper.xml)  
+[  
+](http://www.completerss.com/viewrss.aspx?rss=http://www.davedraper.com/davedraper.xml)**  
+****BROTHER IRON SISTER STEEL**  
+[](http://davedraper.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=DDI&Product_Code=BISS&Category_Code=B)   
+****A Bodybuilder's Book  
+by Dave Draper, $24.95   
+Well written and motivating ** **  
+**[ORDER](http://davedraper.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=DDI&Product_Code=BISS&Category_Code=B)   
+[More Info ](https://web.archive.org/web/20051220202633id_/http%3A//davedraper.com/brother-iron-book-excerpt.html)**  
+—** ******
+
+****STELLA'S KITCHEN**  
+[](http://www.davedraper.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=DDI&Product_Code=BSKE&Category_Code=B)   
+**Simple Creative Cooking  
+by Stella Juarez  
+E-book, $19.95  
+Fabulous reviews! **  
+**[ORDER](http://www.davedraper.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=DDI&Product_Code=BSKE&Category_Code=B)  
+[More Info](https://web.archive.org/stellas-kitchen.html)**  
+— 
+
+**YOUR BODY REVIVAL**  
+[](http://davedraper.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=DDI&Product_Code=BYBR&Category_Code=B)
+
+**Weight Loss Straight Talk  
+by Dave Draper, $18.95  
+The perfect diet book—all the information you need, plus the motivation to get the job done. **  
+**[ORDER](http://davedraper.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=DDI&Product_Code=BYBR&Category_Code=B)  
+[More Info ](https://web.archive.org/your-body-revival.html)**  
+— 
+
+TOTAL TRAINING 
+
+**  
+  
+Weightlifter's Log, $11.95  
+Coil bound.  
+Click on the order link to download a sample page   
+**[ORDER](http://www.davedraper.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=DDI&Product_Code=BTL&Category_Code=B)   
+[More Info](https://web.archive.org/iron-steel-training-log.html) ******
