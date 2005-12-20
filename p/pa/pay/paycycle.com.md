@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paycycle.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306205644id_/http%3A//www.paycycle.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paycycle.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220053210id_/http%3A//www.paycycle.com/info/privacy.jsp) for the most accurate reproduction.*
 
 # PayCycle Privacy Policy for Online Payroll Service
 
@@ -62,3 +62,6 @@ The PayCycle website enables you to update and correct personally identifiable i
 ## Changes to This Privacy Policy
 
 PayCycle will post any changes to this privacy policy on this page of our web site. If we decide to use personally identifiable information in a different way from the way we described when we collected it, we will notify you and let you decide whether or not we may use your information in this different manner. We will use information in accordance with the privacy policy under which the information was collected, unless you give us permission to use it differently. 
+
+  
+                                                                       
