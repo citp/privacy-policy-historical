@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ridesafely.com privacy policy that was archived on 2005-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050415083012id_/http%3A//www.ridesafely.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridesafely.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220083453id_/http%3A//www.ridesafely.com/Privacy.asp) for the most accurate reproduction.*
 
-# PRIVACY POLICY / RideSafely.com / Phone: 215-289-0300
+# PRIVACY POLICY
 
 PRIVACY POLICY
 
@@ -75,4 +75,7 @@ Your information is stored on RideSafely's servers located in the United States.
 
 We may amend this Privacy Policy at any time by posting the amend terms on the Site. All amended terms shall automatically be effective immediately after they are initially posted on the Site. 
 
-| 
+|  |  **Contact Us Live with:     **  
+[](aim:GoIM?screenname=ridesafelycsr)   
+  
+---|---
