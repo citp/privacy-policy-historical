@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegames.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403165541id_/http%3A//www.freegames.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220014613id_/http%3A//www.freegames.com/help/privacy.asp) for the most accurate reproduction.*
 
 # !!Lots of Free Games, Sports games, Arcade games, Casino games, Gamers, classic games, Teens games, and Fgamily games -- FREEGAMES.com!!
 
@@ -70,12 +70,12 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **  
 Choice/Opt-Out**  
-1.  You can send email to [account@freegames.com](mailto:account@freegames.com)  
+1.  You can send email to  [Contact Us](http://www.freegames.com/help/contactus.asp)  
   
 **Data Quality/Access**  
 This site gives users the following options for changing and modifying information previously provided:  
-1.  You can send email to [account@freegames.com](mailto:account@freegames.com)  
+1.  You can send email to  [Contact Us](http://www.freegames.com/help/contactus.asp)  
 2.  You can Login and change info. on the web.
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [account@freegames.com](mailto:account@freegames.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  [Contact Us](http://www.freegames.com/help/contactus.asp)
