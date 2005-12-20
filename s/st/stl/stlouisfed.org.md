@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404082102id_/http%3A//www.stlouisfed.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220214428id_/http%3A//www.stlouisfed.org/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy, St. Louis Fed
 
 ### Privacy Policy
 
-[Legal Information](https://web.archive.org/web/20050404082102id_/http%3A//www.stlouisfed.org/legal/default.html)
+[Legal Information](https://web.archive.org/web/20051220214428id_/http%3A//www.stlouisfed.org/legal/default.html)
 
 * * *
 
@@ -110,4 +110,4 @@ We reserve the right to change this policy at any time without notice. If any ch
 
 **Contact Information**
 
-Questions or comments about the Federal Reserve Bank of St. Louis's privacy policy may be directed to our web site administrators at [webmaster@stlouisfed.org](mailto:webmaster@stlouisfed.org) or [webmaster@research.stlouisfed.org](mailto:webmaster@research.stlouisfed.org), or by writing to Public Affairs, the Federal Reserve Bank of St. Louis, 411 Locust Street, St. Louis, MO 63102.
+Questions or comments about the Federal Reserve Bank of St. Louis's privacy policy may be directed to our web site administrators at [webmaster@stlouisfed.org](mailto:webmaster@stlouisfed.org) or [webmaster@research.stlouisfed.org](mailto:webmaster@research.stlouisfed.org), or by writing to Public Affairs, the Federal Reserve Bank of St. Louis, PO Box 442, St. Louis, MO 63166-0442.
