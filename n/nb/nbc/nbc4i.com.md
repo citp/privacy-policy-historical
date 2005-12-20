@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbc4i.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306094558id_/http%3A//www.nbc4i.com/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc4i.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220132128id_/http%3A//www.nbc4i.com/news/1176131/detail.html) for the most accurate reproduction.*
 
 # nbc4i.com - News - Online Privacy Statement
 
