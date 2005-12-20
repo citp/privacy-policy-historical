@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306192404id_/http%3A//www.gottadeal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221003606id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Polict - GottaDeal.com
-
-### Privacy Policy
-
-* * *
+# Privacy Policy - GottaDeal.com
 
 **GENERAL**   
 By accessing this site, you agree that you have read and understand the OlsonNet, LLC (OlsonNet, GottaDeal, GottaDeal.com, we, our, us, etc.) privacy statement (Statement) which describes how we use your personal information, and what options you have to update or request the deletion or correction of information submitted to us via www.gottadeal.com (Site). If you do not agree with the terms and conditions of this Statement, please do not use the Site. 
