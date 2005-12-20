@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ftdfloristsonline.com privacy policy that was archived on 2004-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040812120007id_/http%3A//ftdfloristsonline.com/ffo/privacy_security_home.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftdfloristsonline.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220030547id_/http%3A//www.ftdfloristsonline.com/ffo/privacy_security_home.html) for the most accurate reproduction.*
 
 # FTD Florists Online
 
 **Secure Shopping**   
-Ordering from our network of FTD Florists Online is easy, convenient, and very safe. The FTD Florists Online Network uses Verisign, a leading provider of Internet protection services, including digital certification, to secure every transaction. This software encrypts all the personal information that you send us (including credit card numbers, names, addresses, and telephone numbers) so that your private information cannot be read by anyone as it travels over the Internet. 
+Ordering from our network of FTD Florists Online is easy, convenient, and very safe. The FTD Florists Online Network uses Thawte, a leading provider of Internet protection services, including digital certification, to secure every transaction. This software encrypts all the personal information that you send us (including credit card numbers, names, addresses, and telephone numbers) so that your private information cannot be read by anyone as it travels over the Internet. 
 
 The FTD Florists Online Network also uses the Secure Sockets Layer (SSL) technology. SSL encrypts your order information to avoid the decoding of that information by anyone other than the FTD Florists Online Network.
 
