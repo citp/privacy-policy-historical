@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the techcu.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404002927id_/http%3A//www.techcu.com/Resources/About_Tech_CU/Privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcu.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220203716id_/http%3A//www.techcu.com/Resources/About_Tech_CU/Privacy/privacy.html) for the most accurate reproduction.*
 
-# Tech CU
+# Tech CU - resources - about_tech_cu - privacy - Privacy Policy
+
+.
 
 Effective Date: 7/21/2004  
 
@@ -14,27 +16,27 @@ This policy covers "non-public personal information." This means personally iden
 Topics   
 
 
-  * Where we collect information about you
-  * Selling Information
-  * Third parties to whom we may disclose information about you
-  * Specific examples of third parties to whom we disclose information
-  * Do third parties share or sell information?
-  * Our maintenance of the privacy and security of your information
-  * Our right to change this policy
-  * Opting Out
-  * Can I opt out from receiving disclosures?
-  * Personal Information Accuracy
+  * [Where we collect information about you](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#collect)
+  * [Selling Information](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#Selling)
+  * [Third parties to whom we may disclose information about you](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#parties)
+  * [Specific examples of third parties to whom we disclose information](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#examples)
+  * [Do third parties share or sell information?](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#vendors)
+  * [Our maintenance of the privacy and security of your information](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#maintenance)
+  * [Our right to change this policy](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#change)
+  * [Opting Out](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#Opting)
+  * [Can I opt out from receiving disclosures?](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#disclosures)
+  * [Personal Information Accuracy](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#Info)
 
 
 
 **Where we collect information about you.**  
 Sources from which we collect information about you include:
 
-  * Your applications for our products and services;
-  * Consumer reporting agencies such as credit bureaus and agencies that report checking account abuses;
-  * Third parties we ask to verify information you have provided on your applications for our services, such as current and past employers or other creditors;
-  * Third parties with whom we have arrangements to provide services to you, such as financial institutions whose ATM's you use, merchants who accept your Credit Union credit and/or debit card, mortgage lenders, or vehicle dealers.
-  * Our affiliates where we collect information such as account balances, payment history, parties to transactions, and credit card usage.
+  * Your applications for our products and services; 
+  * Consumer reporting agencies such as credit bureaus and agencies that report checking account abuses; 
+  * Third parties we ask to verify information you have provided on your applications for our services, such as current and past employers or other creditors; 
+  * Third parties with whom we have arrangements to provide services to you, such as financial institutions whose ATM's you use, merchants who accept your Credit Union credit and/or debit card, mortgage lenders, or vehicle dealers. 
+  * Our affiliates where we collect information such as account balances, payment history, parties to transactions, and credit card usage. 
 
 
 
@@ -48,11 +50,11 @@ We may disclose to third parties any information that we collect about you, incl
 
 **We may disclose information about you under the following general circumstances:**
 
-  * To the extent necessary to provide services that you request;
-  * To the extent necessary to conduct our business;
-  * To our internal and external auditors, to our legal advisors, to our insurers, and to our regulatory agencies such as the California Department of Financial Institutions or the National Credit Union Administration;
-  * If we are required to do so by law, such as when we receive a court order, levy, subpoena, or other validly issued legal process;
-  * If you give us written permission.
+  * To the extent necessary to provide services that you request; 
+  * To the extent necessary to conduct our business; 
+  * To our internal and external auditors, to our legal advisors, to our insurers, and to our regulatory agencies such as the California Department of Financial Institutions or the National Credit Union Administration; 
+  * If we are required to do so by law, such as when we receive a court order, levy, subpoena, or other validly issued legal process; 
+  * If you give us written permission. 
 
 
 
@@ -66,11 +68,11 @@ We never give your specific financial information, account numbers, personal ide
 
 Following are some specific examples of the types of third parties to whom we may disclose information to::
 
-  * Credit bureaus;
-  * Third party vendors that assist us with providing or marketing member services, such as check printers, mortgage lenders, mail houses, plastic card processors, credit life and disability insurance providers, collateral appraisers, vehicle dealers participating in our dealer loan programs, bill payment service providers, credit bureaus, eFunds (Qualifile), and other electronic service providers upon your (member) initiated request;
-  * Third parties with whom we have joint marketing arrangements;
-  * Third parties who are involved in your transactions, such as the Federal Reserve and other financial institutions that process your checks, automated clearinghouse (ACH) transactions and ATM transactions;
-  * Third parties whose services are necessary to meet our business needs, such as the Department of Motor Vehicles, companies that insure collateral you have pledged as security for Credit Union loans, and debt collectors.
+  * Credit bureaus; 
+  * Third party vendors that assist us with providing or marketing member services, such as check printers, mortgage lenders, mail houses, plastic card processors, credit life and disability insurance providers, collateral appraisers, vehicle dealers participating in our dealer loan programs, bill payment service providers, credit bureaus, eFunds (Qualifile), and other electronic service providers upon your (member) initiated request; 
+  * Third parties with whom we have joint marketing arrangements; 
+  * Third parties who are involved in your transactions, such as the Federal Reserve and other financial institutions that process your checks, automated clearinghouse (ACH) transactions and ATM transactions; 
+  * Third parties whose services are necessary to meet our business needs, such as the Department of Motor Vehicles, companies that insure collateral you have pledged as security for Credit Union loans, and debt collectors. 
 
 
 
@@ -91,8 +93,8 @@ This policy is effective July 1, 2001. We can change this policy by notifying yo
 If you do not want us to give information about you to third parties who are selling their own products or services, you can opt out at any time by:
 
   * Calling (408) 451-9111 or (800) 553-0880 (outside the 408 area code) 
-  * Completing a form at any [Technology Credit Union branch](https://web.archive.org/Resources/Locations/branches.html). 
-  * Completing the following [secure online form](https://webbranch.techcu.com/onlineapps/optout.asp)
+  * Completing a form at any [Technology Credit Union branch](http://www.techcu.com/resources/locations/branches.htm "Technology Credit Union Branch"). 
+  * Completing the following [secure online form](https://webbranch.techcu.com/onlineapps/optout.asp "secure online form")
 
 
 
@@ -106,7 +108,7 @@ You cannot opt out of disclosure of information about you as described in this s
 
 We make every effort to ensure the accuracy of your personal information you provide us. If you identify an error, or need to change or update your current information, please notify us so we can promptly update our records. You may report any errors by:
 
-  * Calling (408) 451-9111 or (800) 553-0880 (outside the 408 area code)
-  * Sending us a secure email (link to next section about secure emails) through [Online Banking](https://webbranch.techcu.com/)
+  * Calling (408) 451-9111 or (800) 553-0880 (outside the 408 area code) 
+  * Sending us a secure email through [Online Banking](https://webbranch.techcu.com/ "Online Banking")
 
 
