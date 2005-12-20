@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2005-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050619083144id_/http%3A//www.fivestaralliance.com/luxury_hotel_experts/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220234005id_/http%3A//www.fivestaralliance.com/luxury_hotel_experts/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Five Star Alliance
 
-Last Updated 2/1/05
+Last Updated 10/19/05
 
 [ ](http://www.truste.org/ivalidate.php?url=www.fivestaralliance.com&sealid=101)
 
@@ -40,7 +40,7 @@ A cookie is a small tag this is sent to your computer by your web browser when y
 
 The cookie on your computer is not connected to any personally identifiable information. No other web sites can access the information stored in this cookie. If you would like to refuse cookies, you can do so by changing your browsers settings. However some of our site features may not function properly.
 
-We also use a third-party tracking service called ClickTracks that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate. The information collected by this cookie includes pages visited and IP addresses. It is not possible to connect this tracking information with any personally identifiable information, and no one other than Five Star Alliance has access to this data, which is used to understand how visitors interact with our site, and to improve the quality of our service.
+We also use a third-party tracking service called SearchIgnite that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate. The information collected by this cookie includes pages visited and IP addresses. It is not possible to connect this tracking information with any personally identifiable information, and no one other than Five Star Alliance has access to this data, which is used to understand how visitors interact with our site, and to improve the quality of our service.
 
 ### How we share information
 
