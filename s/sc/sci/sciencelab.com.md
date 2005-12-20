@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencelab.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403175539id_/http%3A//www.sciencelab.com/data/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencelab.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220083238id_/http%3A//www.sciencelab.com/data/privacy-policy.htm) for the most accurate reproduction.*
 
 # SCIENCELAB.COM - Privacy Policy
 
@@ -13,8 +13,8 @@ Questions regarding this Policy should be directed to **[privacy@sciencelab.com]
 
 Attn: Privacy Compliance Officer  
 SCIENCELAB.COM, Inc.  
-1407 North Park Dr.  
-Kingwood, TX 77339
+14025 Smith Rd.  
+Houston, TX 77396
 
 1.       **What information does sciencelab.com collect from you?**  
 In order to better provide you with numerous products and services, sciencelab.com collects two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site. 
@@ -133,8 +133,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Attn: Privacy Compliance Officer  
 SCIENCELAB.COM, Inc.  
-1407 North Park Dr.  
-Kingwood, TX 77339
+14025 Smith Rd.  
+Houston, TX 77396
 
 You may also contact us by e-mail at **[privacy@sciencelab.com](mailto:privacy@sciencelab.com)**. 
 
