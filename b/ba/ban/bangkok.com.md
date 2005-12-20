@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bangkok.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405212556id_/http%3A//www.bangkok.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangkok.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220093126id_/http%3A//www.bangkok.com/privacy.html) for the most accurate reproduction.*
 
-# Bangkok hotel and Thailand travel guide
+# Bangkok.com Copyright Notice
 
 ### Asia Web Direct Group
 
