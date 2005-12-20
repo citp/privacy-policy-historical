@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the flagstar.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404110831id_/http%3A//www.flagstar.com/inside/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagstar.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220053403id_/http%3A//flagstar.com/inside/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Flagstar Bank - Privacy Policy
 
 | 
 
-Flagstar Bank, FSB, and its affiliates, are committed to providing the highest level of security and privacy regarding the collection and use of our user's personal information, as well as that of all visitors to our Web site. Personal information may be collected through the submission of registration information, bid submission and through online communications. We recognize the importance of respecting the privacy of our users and we hope that the following privacy statement will help you understand how Flagstar collects, uses and safeguards the personal information you provide to us on our Web site.
-
-We are required by law to give you this privacy notice. It describes our policies and practices that protect your privacy and enable us to share information to provide you with competitive financial products and services. If you have any questions after reading it, please contact us at 800.945.7700.
-
-What follows is a description of the information we collect and disclose, including the parties who receive non-public information from us.
+Flagstar Bank and all its affiliates work to provide you with products and services to meet your financial goals. In doing so, we are committed to protecting your privacy.
 
 ### Information We Collect About You
 
@@ -51,4 +47,4 @@ Flagstar is committed to protecting the privacy of its customers. You can help b
 
 This notice is provided pursuant to Title V of the Gramm-Leach-Bliley Act (GLBA) of 1999, 12 CFR 40.
 
-[Top of Page](https://web.archive.org/web/20050404110831id_/http%3A//www.flagstar.com/inside/privacy_policy_content.jsp#topofpage)
+[Top of Page](https://web.archive.org/web/20051220053403id_/http%3A//flagstar.com/inside/privacy_policy_content.jsp#topofpage)
