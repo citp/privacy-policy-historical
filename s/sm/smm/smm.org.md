@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519083259id_/http%3A//www.smm.org/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/privacy.php) for the most accurate reproduction.*
 
 # Science Museum of Minnesota Information Privacy Statement
 
 [](http://www.smm.org/)   
   
 |  |    
-**Information Privacy Statement** **[General Information](https://web.archive.org/web/20050519083259id_/http%3A//www.smm.org/info/) | [Contact Us](https://web.archive.org/web/20050519083259id_/http%3A//www.smm.org/info/contact.php) | [Legal Notice](https://web.archive.org/web/20050519083259id_/http%3A//www.smm.org/info/legal.php) | [Privacy Statement](https://web.archive.org/web/20050519083259id_/http%3A//www.smm.org/info/privacy.php)  
-[Museum Accessibility](https://web.archive.org/web/20050519083259id_/http%3A//www.smm.org/info/accessibility.php) | [Linking to Our Web Site](https://web.archive.org/web/20050519083259id_/http%3A//www.smm.org/info/linking.php)**
+**Information Privacy Statement** **[General Information](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/) | [Contact Us](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/contact.php) | [Legal Notice](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/legal.php) | [Privacy Statement](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/privacy.php)  
+[Museum Accessibility](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/accessibility.php) | [Linking to Our Web Site](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/linking.php)**
 
 Last updated February 12, 2003
 
-[Contact Information](https://web.archive.org/web/20050519083259id_/http%3A//www.smm.org/info/contact.php)
+[Contact Information](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/contact.php)
 
 **Contents**
 
