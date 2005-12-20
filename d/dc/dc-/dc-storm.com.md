@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dc-storm.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404052509id_/http%3A//www.dc-storm.com/info_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dc-storm.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220082504id_/http%3A//www.dc-storm.com/info_privacy.html) for the most accurate reproduction.*
 
 # DC Storm Privacy Information
 
