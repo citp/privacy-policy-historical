@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2005-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050304085828id_/http%3A//www.commonsensemedia.org/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220022520id_/http%3A//www.commonsensemedia.org/about_us/privacy.php) for the most accurate reproduction.*
 
-# Common Sense Media - Family Friendly Reviews - About Us - Privacy
+# Common Sense Media - Family Friendly Reviews
 
 #### Welcome to Common Sense Media
 
-We do not share, sell or rent any personal information (i.e. name or contact information) voluntarily or involuntarily disclosed by visitors of this site with anyone for any reason, except in accordance with this Privacy Policy. If you feel that this Website is not abiding by its posted privacy policy, you should first contact us by email at [privacy@commonsensemedia.org](mailto:privacy@commonsensemedia.org). Should this policy change, we will post a notice on our site. 
+We do not share, sell or rent any personal information (i.e. name or contact information) voluntarily or involuntarily disclosed by visitors of this site with anyone for any reason, except in accordance with this Privacy Policy. If you feel that this Website is not abiding by its posted privacy policy, you should first contact us by email at privacy[at]commonsensemedia[dot]org. Should this policy change, we will post a notice on our site. 
 
 #### Information We Collect and How We Use It 
 
@@ -63,7 +63,7 @@ Notwithstanding the foregoing, we reserve the right to release information conta
 
 You can publish on our website your reviews, comments and ratings on different media types (movies, books, etc.) by clicking on the "rate it" button located on any review page. The content of your review and ratings will be displayed on our website along with your screen name (unless you choose to remain anonymous) and other demographic information that you provided in your profile (i.e. city and state and, if 17 or younger, age). Submitted reviews that do not follow our [Terms of Use](https://web.archive.org/about_us/terms_of_use.php) will not be published. We may also promote the most popular or highest-earning reviews and display segments of your review in feature areas of the website. In accordance with our [Terms of Use](https://web.archive.org/about_us/terms_of_use.php), you agree that Common Sense Media will be the owner of all user content submitted to the website. 
 
-If you decide that would like your review deleted from our website, please send us an email at [privacy@commonsensemedia.org](mailto:privacy@commonsensemedia.org) with your screen name, date of submitted review and title of media type that was reviewed. We will notify you when your review has been deleted from our website. You do not need to be a registered member to read these user reviews. 
+If you decide that would like your review deleted from our website, please send us an email at privacy[at]commonsensemedia[dot]org with your screen name, date of submitted review and title of media type that was reviewed. We will notify you when your review has been deleted from our website. You do not need to be a registered member to read these user reviews. 
 
 #### Links
 
@@ -75,7 +75,7 @@ CSM has security measures in place to protect against the loss, misuse, and alte
 
 #### Changing Registration Information
 
-We encourage Common Sense Media members to update and edit their personal information and keep it current. If you are already a Common Sense Media registered member and you would like to change your personal information, you can do this by clicking on the "Edit Your Profile" button located in the top right corner of the screen. If you decide that you would no longer like to be a member of Common Sense Media and you would like your personal information deleted from our database, please send an email to [privacy@commonsensemedia.org](mailto:privacy@commonsensemedia.org) and include your screen name and email address.
+We encourage Common Sense Media members to update and edit their personal information and keep it current. If you are already a Common Sense Media registered member and you would like to change your personal information, you can do this by clicking on the "Edit Your Profile" button located in the top right corner of the screen. If you decide that you would no longer like to be a member of Common Sense Media and you would like your personal information deleted from our database, please send an email to privacy[at]commonsensemedia[dot]org and include your screen name and email address.
 
 #### Changes to this Privacy Policy
 
