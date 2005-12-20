@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the necdisplay.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404195322id_/http%3A//www.necdisplay.com/legal/NEC_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the necdisplay.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220121333id_/http%3A//www.necdisplay.com/legal/NEC_privacy_policy.htm) for the most accurate reproduction.*
 
 # NEC Display Solutions of America
 
