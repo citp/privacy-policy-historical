@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306141622id_/http%3A//www.heartmath.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220050445id_/http%3A//www.heartmath.com/company/privacy_policy.html) for the most accurate reproduction.*
 
 # HeartMath Privacy Policy
 
