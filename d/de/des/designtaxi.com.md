@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designtaxi.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305220901id_/http%3A//www.designtaxi.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designtaxi.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220035051id_/http%3A//www.designtaxi.com/privacypolicy.jsp) for the most accurate reproduction.*
 
-# TAXI .:::. Privacy Policy
+# Privacy Policy - TAXI Design Network
 
 » [Online Privacy Notice](http://www.designtaxi.com/privacypolicy.jsp#one)  
 » [What Information is Collected](http://www.designtaxi.com/privacypolicy.jsp#two)  
@@ -13,7 +13,7 @@
 » [Essential Contact Information](http://www.designtaxi.com/privacypolicy.jsp#nine)
 
 **HILLS CREATIVE ARTS Pte Ltd ("HCA") Online Privacy Notice** [](http://www.designtaxi.com/privacypolicy.jsp#top)  
-This page set forth Hills Creative Arts Pte Ltd’s Privacy Policy (“Privacy Policy”) for these web sites, http://www.ASTERIK.net and http://www.DESIGNTAXI.com (“Site”) and other residing sites under its domain. To better protect our end-user privacy, this notice explains our online information practices and the choices end-users can make about the way their information is collected and used at this HCA site. BY USING THIS WEBSITE, THE USER AGREES TO THE TERMS OF THIS PRIVACY POLICY.  
+This page set forth Hills Creative Arts Pte Ltd’s Privacy Policy (“Privacy Policy”) for these web sites, http://www.HILLSCREATIVEARTS.com, http://www.ASTERIK.net and http://www.DESIGNTAXI.com (“Site”) and other residing sites under its domain. To better protect our end-user privacy, this notice explains our online information practices and the choices end-users can make about the way their information is collected and used at this HCA site. BY USING THIS WEBSITE, THE USER AGREES TO THE TERMS OF THIS PRIVACY POLICY.  
 
 
 **What information is collected** [](http://www.designtaxi.com/privacypolicy.jsp#top)  
@@ -140,6 +140,11 @@ Due to the artistic and creative nature of HCA, its sites and its end-users, cer
 **Essential Contact Information** [](http://www.designtaxi.com/privacypolicy.jsp#top)  
 If end-users have any questions or concerns about the HCA online policy for this site or its implementation end-users may contact us by means of
 
+Main Office  
+18B Teck Lim Road  
+Singapore 088390  
+Republic of Singapore
+
 Postal Address  
 Robinson Road Post Office  
 PO Box 1140  
@@ -147,7 +152,7 @@ Singapore 902240
 Republic of Singapore 
 
 Helpdesk Facsimile  
-656.365.3635
+656.227.2902
 
 Helpdesk Email Address (Privacy Policies)  
 privacy@hillscreativearts.com  
