@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfcu.org privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307234623id_/http%3A//www.kfcu.org/information.news/history/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfcu.org privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220120624id_/http%3A//www.kfcu.org/information.news/history/privacy.html) for the most accurate reproduction.*
 
 # KFCU - About KFCU - Privacy Policy
 
@@ -29,4 +29,12 @@ Please let us know if you have any questions or comments about our privacy pract
 Keesler Federal Credit Union  
 Attn: Privacy  
 PO Box 7001  
-Biloxi, MS 39534-7001
+Biloxi, MS 39534-7001  
+
+
+**Additional Resources:**
+
+[](http://anytime.cuna.org/21654/id_theft/001_001_001.html)
+
+  
+The Anytime Advisor [ID Theft Coach](http://anytime.cuna.org/21654/id_theft/001_001_001.html) offers steps to help you safeguard personal and financial records from fraud and identity theft. 
