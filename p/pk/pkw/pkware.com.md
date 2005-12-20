@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the pkware.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403072953id_/http%3A//www.pkware.com/company/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkware.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220211418id_/http%3A//www.pkware.com/business_and_developers/about_pkware/legal/index.php%23privacy) for the most accurate reproduction.*
 
-# PKWARE - Legal
-
-|  |  |    
-
+# PKWARE - Legal Information
 
 ###  Trademarks & Copyrights 
 
-The PKWARE title and logo are registered trademarks of PKWARE, Inc. Trademarks of other companies mentioned appear for identification purposes only and are property of their respective companies. SECUREZIP, PKZIP, PKUNZIP, PKSFX, PKLITE, PKLITE Professional, PKWARE SDK and PKWARE Data Compression Library are registered trademarks of PKWARE, Inc. ZIP READER, PKZIP Explorer, PKZIP Command Line, PKZIP Attachments, PKZFIND, PKZOOM, Deflate64, EasySFX, AutoSFX, RegularSFX and ZIP2EXE are trademarks of PKWARE, Inc. Use of various PKWARE corporate identity assets is subject to the Branding Guidelines & Terms of PKWARE, Inc. 
+PKWARE®, PKZIP®, and SecureZIP™ are trademarks of PKWARE, Inc. Trademarks of other companies mentioned in this documentation appear for identification purposes only and are property of their respective companies. Use of various PKWARE corporate identity assets is subject to the Branding Guidelines & Terms of PKWARE, Inc. 
 
 Copyright 1985 - 2005 PKWARE, Inc. All rights reserved. Except where noted otherwise, all content published via pkware.com, pkzipreader.com, pkzipstore.com and other PKWARE domains is the property of PKWARE, Inc. Any reproduction or distribution of this content without explicit written permission of PKWARE is prohibited. INFORMATION AND CONTENT ON THIS SITE ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. CONTENT ON THIS SITE MAY CONTAIN INACCURATE OR TYPOGRAPHICAL ERRORS AND PKWARE MAY MAKE IMPROVEMENTS OR CHANGES TO THE CONTENT AT ANY TIME. 
 
@@ -21,7 +18,7 @@ PKWARE neither sells nor barters information from either our mailing or customer
 
 Anonymous data like pages viewed, IP address, date and time, and browser type is collected for every visitor to this site. This information is used in aggregate to analyze and improve our web site. 
 
-You may at anytime choose to have your name removed from any mailing list using the opt-out link(s) within our e-mail message(s) to you. 
+You may at anytime choose to have your name removed from any mailing list using the opt-out link(s) within our email message(s) to you. 
 
 **IP Address Logging**  
 PKWARE web servers collect domain names and/or IP addresses of users to measure what pages and features are accessed by our visitors. This information helps us administer the site, improve content and gather broad demographic information for aggregate use. PKWARE links IP addresses to personally identifiable information submitted to PKWARE. This information is used to verify whether a visitor has opted in to receiving additional information from PKWARE. PKWARE will not sell personally identifiable information to third parties without your permission.
@@ -60,11 +57,4 @@ Milwaukee, WI 53203**
 
 ### Software Licensing
 
-Software Licenses vary per installation and package. Please visit [PKWARE Products](https://web.archive.org/products/licensing/) for more information on various licenses available, and their related term specifics. If a current user, please refer to the information embedded within your licensed product(s) and associated documentation as provided at your point of purchase. 
-
-|  | 
-
-##### PKWARE Careers
-
-We are growing fast and are looking for talented individuals to [join our team](https://web.archive.org/company/careers/).   
----|---|---|---|---
+Software Licenses vary per installation and package. If a current user, please refer to the information embedded within your licensed product(s) and associated documentation as provided at your point of purchase. 
