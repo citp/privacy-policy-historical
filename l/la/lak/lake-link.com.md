@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lake-link.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205045604id_/http%3A//lake-link.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lake-link.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220130005id_/http%3A//www.lake-link.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Lake-Link.com Online Privacy Policy
 
-_Currently Visiting:_  
+_Currently Fishing:_  
 Wisconsin 
 
 |  [Members Only](https://web.archive.org/members/) |   
@@ -22,8 +22,9 @@ Wisconsin
 [Outdoor Links](https://web.archive.org/links/) |   
 [Web Site Hosting](https://web.archive.org/hosting/) |   
 [Sign Guestbook](https://web.archive.org/guestbook/) |   
+[Register](https://web.archive.org/register/) |   
   
-[](https://web.archive.org/ads/do_direct.cfm?AdID=40&SiteURL=http://www.akbearpawlodge.com/ "Alaska Like You Wouldn't Believe!")
+[](https://web.archive.org/ads/do_direct.cfm?AdID=556&SiteURL=http://www.nwchicagosportsshow.com/ "The Best Fishing Show Period")
 
 Lake-Link.com is committed to safeguarding your privacy online. Set forth below are the guidelines we use for protecting the information you provide us during a visit to Lake-Link.com (the "Site"). 
 
@@ -48,7 +49,9 @@ How We Use Your Information
 
 We may use your personal information to alert you to special offers, updated information and other new services. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time, you can easily opt-out of receiving further marketing from us by sending an e-mail with your request to [info@lake-link.com](mailto:info@lake-link.com). 
 
-We will not give or sell your personal information to any third party without your consent or notification on the web site (this exclused third party promotions and give-a-ways, see below). This means that you will be able to opt-in your agreement to such use when you submit your personal information. At any time, you can easily opt-out of having your personal information shared any further with third parties by sending an e-mail with your request to [info@lake-link.com](mailto:info@lake-link.com).
+We will not give or sell your personal information to any third party without your consent or notification on the web site (this exclused third party promotions and give-a-ways, see below). This means that you will be able to opt-in your agreement to such use when you submit your personal information. At any time, you can easily opt-out of having your personal information shared any further with third parties by sending an e-mail with your request to [info@lake-link.com](mailto:info@lake-link.com). 
+
+This privacy policy becomes null and void in the event that a court of law or a state/federal law enforcement agency requests info regarding a user for prosectution purposes due a users questionable use of this site or illegal activities. 
 
   3. Special Promotions, Drawings & Give-a-ways   
 Information that is collected for special promotions, drawings & give-a-ways that are funded by third parties may be provided to that third party in leiu of providing the product or services as prizes for the special promotions, drawings or give-a-way. 
