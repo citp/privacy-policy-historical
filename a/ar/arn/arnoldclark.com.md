@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arnoldclark.com privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406223709id_/http%3A//www.arnoldclark.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arnoldclark.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220220849id_/http%3A//www.arnoldclark.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Arnold Clark Automobiles
 
