@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the phonenumber.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406061915id_/http%3A//phonenumber.com/2321/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonenumber.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220020046id_/http%3A//phonenumber.com/2321/privacy) for the most accurate reproduction.*
 
 # PhoneNumber.com - Free Phone Number Directory
 
 **LAST REVISION: 3/31/2005**  
 Privacy Policy Glossary
 
-WhitePages.com respects your right to privacy and we are committed to protecting it. We believe it is a commitment crucial to our continued success as a trusted consumer brand. Accordingly, we abide by the following privacy principles for all the Personal Information we collect from you: 
+[](http://www.truste.org/ivalidate.php?url=www.phonenumber.com&sealid=101) WhitePages.com respects your right to privacy and we are committed to protecting it. We believe it is a commitment crucial to our continued success as a trusted consumer brand. Accordingly, we abide by the following privacy principles for all the Personal Information we collect from you: 
 
   * You maintain ownership rights to Your Information, even if there is a business transition. 
   * You may access or modify Your Information at any time. 
