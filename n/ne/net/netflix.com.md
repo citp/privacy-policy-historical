@@ -1,16 +1,24 @@
-> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622085341id_/http%3A//www.netflix.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220111019id_/http%3A//www.netflix.com/PrivacyPolicy%3Fhnjr%3D8%26mqso%3D60180980) for the most accurate reproduction.*
 
 # Netflix - Rent DVDs Online - Try Free
+
+Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of Netflix's services, you agree to these terms. 
+
+* * *
 
 Background  
 
 
 When you register at Netflix, we ask you for personal information. We use this information to process your orders and to communicate with you about the status of your orders. We also use your email address to send you newsletters you are subscribed to during registration, as well as messages about Netflix special offers, promotional announcements and consumer surveys. Occasionally, we send our customers special offers and promotional information via postal mail, using the shipping address provided. If you no longer want to receive the newsletters, other announcements or postal mail, simply access the Email Subscriptions and Preferences page under Your Account and uncheck those items to unsubscribe. 
 
+Back to top
+
+* * *
+
 Collection and Use of Information  
 
 
-When you first register at Netflix, we ask for your email address and a password. At this time, we subscribe you to various email publications. You can find more information on these programs, including information on how to unsubscribe, by going to the Netflix Subscriptions Page. 
+When you first register at Netflix, we ask for your email address and a password. At this time, we subscribe you to various email publications. You can find more information on these programs, including information on how to unsubscribe, by going to the [Netflix Subscriptions Page](http://www.netflix.com/EmailSubscription). 
 
 When you place your first order for the Netflix Service, we ask you for your full name, physical address, telephone number and credit card number so we can ship your order. We use your telephone number only if there is an order-related issue, not for marketing purposes. You must certify that you are at least 18 years old. (People under 18 cannot use Netflix's services.) Our server stores this information so that placing future orders will be quicker and easier. If you want to update your address or change credit cards, go to Your Account and make the appropriate changes. You must be signed in to access Your Account. 
 
@@ -20,6 +28,26 @@ We also track your order and billing history so you can access Your Account and 
 
 Netflix users should not post personal information on any review page, as this information is made public. Pseudonyms can be used for such postings. 
 
+Back to top
+
+* * *
+
+Email Options
+
+When registering for Netflix, we subscribe you to various email publications. You can find more information on these programs, including information on how to unsubscribe, by going to the Netflix Subscriptions Page. 
+
+Back to top
+
+* * *
+
+Viewing and Updating Your Information on Netflix
+
+You can always access the personal information you have provided to Netflix by going to Your Account. You can make changes to this information to update your account anytime. 
+
+Back to top
+
+* * *
+
 Cookies
 
 As you browse the Netflix site, cookies are placed on your computer's hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track the items you select, and help us match your address and credit card information with your order so you don't need to retype the information each time you visit our site. 
@@ -27,6 +55,10 @@ As you browse the Netflix site, cookies are placed on your computer's hard drive
 If your browser is set to not accept cookies, you will not be able to use the Netflix site or service. 
 
 We also use cookies to gather usage information, such as the number and frequency of visitors to our site and its various pages. Third parties may serve some of these cookies. We analyze this data to determine which parts of our site customers like and which parts need improvement. Automatically logged information is also used to analyze trends and to administer the site. 
+
+Back to top
+
+* * *
 
 Disclosure
 
@@ -42,6 +74,10 @@ We also provide analyses of our users in the aggregate to prospective partners, 
 
 Customers should check back for updates to this policy. Netflix will obtain email consent from any user if the company is going to be using the information collected in a manner different from that stated when the user registered. 
 
+Back to top
+
+* * *
+
 Security and Access
 
 For transmitting your personal information to us, we use a secure server (SSL), which encrypts all of your personal information. This encryption process ensures that the information you give us is protected against unauthorized access. 
@@ -49,3 +85,17 @@ For transmitting your personal information to us, we use a secure server (SSL), 
 You can access Your Account from every page on the site to update and correct your name, email address, password, postal address, credit cards, and mailing list preferences. Please note that you must be signed in to Netflix to access this information. 
 
 We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
+
+Back to top
+
+* * *
+
+Contact
+
+If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please contact privacy@netflix.com. 
+
+Back to top
+
+* * *
+
+_Last Updated: June, 2002_
