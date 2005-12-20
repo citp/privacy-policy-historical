@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diy-dating.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406085344id_/http%3A//www.diy-dating.com/privacy.php%3FSESSID%3Dc1b9ba3adefeec9236640aaf19ee941d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diy-dating.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220131335id_/http%3A//www.diy-dating.com/privacy.php%3FSESSID%3D98420c4c7d15a2b2e17da7826c2244a9) for the most accurate reproduction.*
 
 # DIY-Dating -
 
@@ -6,7 +6,6 @@ This Privacy Statement covers DIY-Dating's treatment of your personal informatio
 
 DIY-Dating does not sell or rent your personally identifiable information (email address, IP address, or birth date). We do not collect your first and last name, street address or telephone number.   
   
----  
 **Information Collection**  
 In order to use this website, you must be an adult at least 18 years of age (or older if the lawful age in your state, nation, or locality, is higher than 18); When you register with DIY-Dating, you are required to provide contact information (email address), unique identifiers (username and password), and demographic information (birth date, gender, ethnicity, etc.). You also tell us something about your personal preferences and interests.   
 **Information Use**  
