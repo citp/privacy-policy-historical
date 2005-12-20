@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelance-help.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403192511id_/http%3A//www.freelance-help.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelance-help.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220195818id_/http%3A//www.freelance-help.com/privacy.php) for the most accurate reproduction.*
 
 # Freelance :: Privacy Policy
 
@@ -41,22 +41,12 @@ Email: privacy (at) freelance-help.com
   
 
 
-Outsourcing jobs - programmers work navigation: **** **
+**Other sites of interest:**
 
-[IT Outsourcing](http://www.freelance-help.com/) \- [Jobs for programmers](http://www.freelance-help.com/)
+[**Direct TV**](http://www.satellitesolutions.com/) \- authorized dealer of directv satellite television systems.   
+[**Barcode Scanner Manufacturer**](http://www.barcode-manufacturer.com/) \- Taiwan manufacturer of barcode scannes, swipe card reader, receipt printer, customer display, serial-ethernet converter, cash drawer, and other pos devices.  
+\+ [**Free Merchant Account  
+**](http://www.electronictransfer.net/)\- [**Chat**](http://www.talk121.com/)  
 
-** | **[Programming at home - FAQ](https://web.archive.org/web/20050403192511id_/http%3A//www.freelance-help.com/freelance-faq.php) ** | [**Freelance marketplace review**](https://web.archive.org/web/20050403192511id_/http%3A//www.freelance-help.com/freelance-review.php) **-**[ **Scriptlance**](https://web.archive.org/web/20050403192511id_/http%3A//www.freelance-help.com/scriptlance.php) & [**Elance**](https://web.archive.org/web/20050403192511id_/http%3A//www.freelance-help.com/elance.php)  
-[**Site Map**](https://web.archive.org/web/20050403192511id_/http%3A//www.freelance-help.com/threaded-site-map.htm) | [**Links**](http://www.freelance-help.com/link-exchange/) | [**Privacy**](https://web.archive.org/web/20050403192511id_/http%3A//www.freelance-help.com/privacy.php) | [**Terms of use**](https://web.archive.org/web/20050403192511id_/http%3A//www.freelance-help.com/terms-of-use.php)
 
-**Scriptlance:** [**Buyers - Webmasters**](https://web.archive.org/web/20050403192511id_/http%3A//www.freelance-help.com/index.php?career=webmaster) | [**Programmers - Coders**](https://web.archive.org/web/20050403192511id_/http%3A//www.freelance-help.com/index.php?career=coder)
-
-Browse outsourced projects by job type:[ **
-
-Website Design
-
-**](http://www.freelance-help.com/website_design_job), [**Graphic Design**](http://www.freelance-help.com/graphic_design_job), [**Flash**](http://www.freelance-help.com/flash_job), [**Search Engine Optimization**](http://www.freelance-help.com/search_engine_optimization_job) \- [**SEO**](http://www.freelance-help.com/search_engine_optimization_job), [**Translation**](http://www.freelance-help.com/translation_job), [**Data Entry**](http://www.freelance-help.com/data_entry_job)  
-Programming & Development Jobs: [**PHP**](http://www.freelance-help.com/php_job), [**ASP**](http://www.freelance-help.com/asp_job), [**C/C++**](http://www.freelance-help.com/c_c++_job), [**CGI**](http://www.freelance-help.com/cgi_job)/[ **Perl**](http://www.freelance-help.com/perl_job), [**Java**](http://www.freelance-help.com/java_job), [**JavaScript**](http://www.freelance-help.com/javascript_job), [**Script Installation**](http://www.freelance-help.com/script_installation_job), [**Visual Basic**](http://www.freelance-help.com/visual_basic_job), [**XML**](http://www.freelance-help.com/xml_job), [**.NET**](http://www.freelance-help.com/dot_net_job)
-
-**Suppoted in part by:**
-
-©01-04 Freelance Help. All rights reserved.
+©01-05 Freelance Help. All rights reserved.
