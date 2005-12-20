@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the bcjobs.ca privacy policy that was archived on 2004-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040713034946id_/http%3A//www.bcjobs.ca/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcjobs.ca privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220214332id_/http%3A//www.bcjobs.ca/privacystatement.cfm) for the most accurate reproduction.*
 
 # BCjobs.ca - British Columbia's Premier Recruiting Centre
 
-  
-**Privacy Statement**
+Privacy Statement
 
 BCjobs.ca highly values the privacy of our visitors. We do, however, request user information that is necessary for the effective operation of our website and to achieve our goal of connecting job seekers and employers for the purpose of recruitment.
 
