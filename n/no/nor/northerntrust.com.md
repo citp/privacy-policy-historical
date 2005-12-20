@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northerntrust.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205232531id_/http%3A//www.northerntrust.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerntrust.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220021142id_/http%3A//www.northerntrust.com/privacy.html) for the most accurate reproduction.*
 
 # Consumer Privacy Principles
 
@@ -17,7 +17,9 @@ Collecting Information
 We collect information you provide us on applications, forms, through our web sites, and in conversation; from third parties with your permission; from your transactions with us, our affiliates and our joint marketing partners; and from consumer reporting agencies.
 
 Sharing Information   
-Only under certain circumstances, and only as permitted by law, will we disclose any of this information about our clients and former clients to unaffiliated third parties, such as companies that perform marketing and other services for us. In addition, we share information we collect about our clients and former clients with our affiliated financial institutions, such as a Northern Trust Bank in another state. And we may share information with other financial institutions with which we have joint marketing agreements, such as Northern Funds. 
+Only under certain circumstances, and only as permitted by law, will we disclose any of this information about our clients and former clients to unaffiliated third parties, such as companies that perform marketing and other services for us.
+
+In addition, we may share information we collect about our clients and former clients with our affiliated financial institutions, such as a Northern Trust Bank in another state. And we may share information with other financial institutions with which we have joint marketing agreements, such as Northern Funds.
 
 Your Privacy Preferences    
 Northern respects your right to restrict the information we disclose to our affiliates and joint marketing partners for marketing purposes. You may direct us not to share information about you for marketing purposes by:
@@ -50,4 +52,6 @@ This privacy notice applies to all the Northern Trust affiliates listed below.
   * Northern Trust Global Advisors, Inc. 
   * Northern Trust Global Investments (Europe) Limited 
 
-*Member FDIC 
+*Member FDIC
+
+_Effective August 2005_
