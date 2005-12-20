@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dba-oracle.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405164639id_/http%3A//www.dba-oracle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dba-oracle.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220052714id_/http%3A//www.dba-oracle.com/privacy.htm) for the most accurate reproduction.*
 
 # BC Privacy Policy
 
