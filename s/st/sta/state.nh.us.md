@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.nh.us privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206033414id_/http%3A//www.state.nh.us/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.nh.us privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220200026id_/http%3A//www.state.nh.us/disclaimer.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -65,7 +65,7 @@ Government agencies may request personally identifying information from you in o
 >     Persons concerned about information contained in their personal records should contact the custodian of the record, which typically is the State agency or other governmental entity that collects and maintains the information. 
 
 Public Disclosure   
-The State does not disclose any personal information except when: permission has been granted by the individual; where the information is considered public information under the New Hampshire Right to Know Law, [RSA 91-A](http://sudoc.nhsl.lib.nh.us/rsa/91-A.htm), and is not otherwise protected from disclosure by applicable State or federal laws; or, we are required to do so by law, subpoena, court order or legal process. 
+The State does not disclose any personal information except when: permission has been granted by the individual; where the information is considered public information under the New Hampshire Right to Know Law, [RSA 91-A](http://www.gencourt.state.nh.us./rsa/html/VI/91-A/91-A-10.htm), and is not otherwise protected from disclosure by applicable State or federal laws; or, we are required to do so by law, subpoena, court order or legal process. 
 
 Cookies   
 State of New Hampshire applications and Web pages may use cookies (or programs called "applets") to store information. Cookies are text files stored on your computer to enhance the usability of a particular Web site. They can tell a web site if you have visited before and can pass short bits of information from the Web site back to itself the next time you visit. Any information, including personal information, which you choose to provide at a site may be stored in a cookie. Your Web browser can be configured to refuse cookies or to notify you when a Web site attempts to send you a cookie. Cookie files can also be found and deleted from your computer's hard drive. 
@@ -79,4 +79,4 @@ State of New Hampshire Web sites may contain links to or data from other, non-St
 While the State of New Hampshire's Web sites are intended to provide current and accurate information, neither the State nor any of its employees, agencies, and officers can warranty the information contained on the site and shall not be held liable for any losses caused on the reliance of information provided. Relying on information contained on these sites is done at one's own risk. 
 
 Contact information   
-Additional questions or concerns about this Privacy Notice should be directed to: [webmaster@webster.state.nh.us](mailto:webmaster@webster.state.nh.us?Privacy%20Statement). 
+Additional questions or concerns about this Privacy Notice should be directed to: [webmaster@nh.gov](mailto:webmaster@nh.gov?Subject=Privacy%20Statement). 
