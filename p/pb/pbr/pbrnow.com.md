@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the pbrnow.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207202118id_/http%3A//www.pbrnow.com/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbrnow.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220065831id_/http%3A//www.pbrnow.com/policies/privacy.cfm) for the most accurate reproduction.*
 
-# PBRnow.com Web Site Privacy Policy
+# Professional Bull Riders
 
-|  | ABOUT MENU |   
----|---  
-| Mon Feb 7, 2005  
-|   
-| 
+|  |   | 
+
+## PBRnow.com Web Site Privacy Policy
 
 "PBRnow.com" is the interactive on-line service operated by Professional Bull Riders, Inc., on behalf of Professional Bull Riders, Inc., PBR Properties, Inc., PBR-TV, Inc. and each of their respective subsidiaries and affiliates (collectively, "PBR") on the World Wide Web of the Internet, consisting of information services, interactive components and content provided by PBR and other third parties. This Privacy Policy is applicable to the website[s] accessible at PBRnow.com, PBRStuff.com, PBRFantasy.com (collectively the "Service"). This privacy policy shall be prominently published on the Service. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
@@ -108,7 +106,7 @@ If you have any questions about this privacy policy or the privacy practices of 
     Attn: Website Administration - Privacy
     6 South Tejon Street, Suite 700
     Colorado Springs, Colorado 80903
+    [privacypolicy@pbrnow.com](mailto:privacypolicy@pbrnow.com)
 
-_© 2003, Professional Bull Riders, Inc. All Rights Reserved._  
-  
-|  |  
+|    
+---|---|---
