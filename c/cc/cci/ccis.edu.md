@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccis.edu privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403112321id_/http%3A//www.ccis.edu/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccis.edu privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220173426id_/http%3A//www.ccis.edu/policies/privacy.asp) for the most accurate reproduction.*
 
 # Columbia College Privacy Policy
 
