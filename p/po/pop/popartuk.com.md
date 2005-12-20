@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popartuk.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308015122id_/http%3A//www.popartuk.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popartuk.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220044018id_/http%3A//www.popartuk.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - PopArtUK
 
@@ -24,7 +24,7 @@ Warwickshire,
 CV8 1LY**  
 **UK**
 
-We can be reached via e-mail at [contact@popartuk.com](mailto:contact@popartuk.com)
+We can be reached via e-mail at [contact@popartuk.com](mailto:contact@popartuk.com) or by phone on 0845 607 6872 (UK) / 0044 845 607 6872 (outside UK) 
 
 ## The Information We Collect
 
@@ -50,4 +50,4 @@ We always use industry-standard encryption technologies when transferring and re
 
 Upon request we will provide site visitors with access to all information that we maintain about them. A nominal charge may be levied, to cover our processing costs.
 
-Consumers can have this information corrected by sending us e-mail at the above address, or writing to us at the above address.
+Consumers can have this information corrected by sending us e-mail at [contact@popartuk.com](mailto:contact@popartuk.com) or calling us on 0845 607 6872 (UK) / 0044 845 607 6872 (outside UK).
