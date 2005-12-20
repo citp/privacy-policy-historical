@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the primagames.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403223938id_/http%3A//www.primagames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primagames.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220213031id_/http%3A//www.primagames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Prima Games
 
 |  | 
+
+[](https://web.archive.org/ads.php?ID=109)
 
 The policies below are applicable to the primagames.com website and the Prima eguide store (collectively the "Prima Games Website"), produced and maintained by Prima Games and its vendors (collectively "Prima Games"). Prima Games is strongly committed to protecting the privacy of users of its interactive products and services. Throughout cyberspace, we want to contribute to providing a safe and secure environment for users, and in particular, ensure that kids' information is protected. If you don't find your concern addressed here, feel free to contact us by e-mail at [websupportent@primagames.com](mailto:websupportent@primagames.com) or phone 800-733-3000.
 
