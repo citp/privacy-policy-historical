@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dap.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602234704id_/http%3A//dap.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dap.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220182725id_/http%3A//dap.com/privacy.aspx) for the most accurate reproduction.*
 
-# DAP - Privacy Statement
+# DAP - Web Site Privacy Policy
 
 DAP Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: DAP. 
 
@@ -20,7 +20,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-1\. You can send email to [sbundy@dap.com](mailto:sbundy@dap.com)  
+1\. You can send email to [DAPWEBMASTER@DAP.COM](mailto:DAPWEBMASTER@DAP.COM)  
 2\. You can visit the following URL: http://www.dap.com  
 3\. You can send mail to the following postal address: 2400 Boston Street, Suite 200, Baltimore, MD 21224   
 
@@ -29,10 +29,9 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Shari Bundy  
+DAPWEBMASTER  
 DAP Inc.  
 2400 Boston Street  
 Suite 200  
 Baltimore, Maryland 21224  
-[sbundy@dap.com](mailto:sbundy@dap.com)  
-
+[DAPWEBMASTER@DAP.COM](mailto:DAPWEBMASTER@DAP.COM)
