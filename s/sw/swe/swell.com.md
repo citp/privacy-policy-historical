@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2005-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050620214233id_/http%3A//www.swell.com/support/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220170533id_/http%3A//www.swell.com/support/privacy.aspx) for the most accurate reproduction.*
 
 # Swell.com - Surf Shop: Your shop for surf wear, surf gear and all your surfing needs!
 
@@ -8,7 +8,7 @@
 ---|---|---|---|---|---|---|---|---|---|---  
 |  |   
 ---|---  
-|  |  |  |  Privacy Policy  
+"); //--> |  |  |  |  Privacy Policy  
 ---  
 At Swell, your privacy is a top priority. Please read our privacy policy details.   
   
