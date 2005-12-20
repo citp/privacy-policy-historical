@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesunlimited.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418013112id_/http%3A//www.moviesunlimited.com/musite/security.asp%3Fmscssid%3DDFQQTR6HK2629NTH11UJPKRG6AP2FJU1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesunlimited.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220060959id_/http%3A//www.moviesunlimited.com/musite/security.asp%3Fmscssid%3DFNSB9XVBPLMK9KK5U1287BGJR3SK4WA8) for the most accurate reproduction.*
 
 # Movies Unlimited
 
