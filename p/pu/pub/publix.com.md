@@ -1,11 +1,183 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604120350id_/http%3A//www.publix.com/servlet/MainController%3Faction%3DpreparePrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220012105id_/http%3A//publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
-# Privacy Policy Page
+# Publix Privacy Policy
 
-All information in the refill form is required in order to fulfill your prescription request. By filling out the refill form, you are consenting to receive e-mail or telephone calls from us or our agents. For more detail on our Pharmacy privacy practices, see the Publix Pharmacy Notice of Privacy Practices. 
+At Publix, we are committed to protecting your privacy. We developed this Privacy Policy to share with you our information collection practices and the options you have when visiting our Web site. You can always be assured the information we collect is used to provide a more personalized experience for users of this site. This Privacy Policy is an online Privacy Policy, applicable to this site only. By using this site, you are agreeing to accept the practices described in this Privacy Policy.
+
+Please note that other Publix Web sites may be governed by separate policies. When visiting any of our other sites, please refer to its Privacy Policy.
+
+ **Who is Collecting Your Information**  
+Publix and its affiliates are the sole owners of the information collected; except as otherwise provided in this Privacy Policy, we will not sell, share, rent or loan this information to any third party. However, we may use and share aggregated information that does not personally identify you with third parties in order to improve the site for our users.
+
+The Publix [Apron's](http://www.publix.com/aprons) portion of our site collects a minimal amount of required information from those users requesting a reservation for a Publix Apron's Cooking School class and those users opting in to our Cooking School's printed calendar and/or electronic communication distribution list.  This information is strictly used to process the reservation request or to send the user the requested materials and/or e-mails.  None of the required information and/or optional information collected on any Publix Apron's form is used for other purposes than those stated in this policy; however, Publix may use third parties to assist in providing certain services to users.  In the event that Publix utilizes a third party to provide such services, our contract with the third party will include obligations upon the third party to keep all information obtained during such contract confidential and secure.
+
+You should be aware, however, that Publix may share information provided through the Publix Preschool Pals portion of our Web site with third parties under contract with Publix in order to provide Publix Preschool Pals members with the benefits of membership. See the Publix Preschool Pals Child Privacy Notice for more detail. Also, Publix may share information provided when ordering Gift Cards online with third parties under contract with Publix in order to provide services related to the Gift Card purchase transactions.  Such contracts with third parties include obligations upon the third party to keep all information obtained during such contract confidential and secure.
+
+In addition, you should be aware that Publix may use and disclose protected health information as permitted by applicable law, including the Privacy Rules under the Health Insurance Portability and Accountability Act of 1996. See the Publix Pharmacy Notice of Privacy Practices for more detail.
+
+Finally, you should be aware that the "Publix Photo Center presented by Snapfish" is a co-branded web site operated by Hewlett-Packard, doing business as Snapfish.  When you visit the Publix Photo Center presented by Snapfish, you will be leaving the Publix Web site.  Publix has no control over the privacy practices of Snapfish and a separate Privacy Policy governs the Publix Photo Center presented by Snapfish.  Consequently, you should review the Privacy Policy that is specifically located on the Publix Photo Center presented by Snapfish Web Site to ensure that you understand, and are comfortable with, how Snapfish collects, stores, retains, uses and shares your personally identifiable information.
+
+**Protection of Privacy of Children Younger than 13**  
+Publix does not target children under the age of 13 and does not expect to sell any of its products or services to children. Although Publix does not target children under the age of 13, we do collect certain information about children from their parents through the Publix Preschool Pals portion of our Web site. Publix's procedures with regard to this information can be found in the Publix Preschool Pals Child Privacy Notice.
+
+**What is Collected, and How Do We Use It**  
+You can visit publix.com without providing any personal data to us. However, certain sections of our site do include forms. Listed below is the personal data requested on each of the forms and the primary purpose for which such data is used. You should also be aware that the "Surveys and Contests" section of this policy describes additional uses of the personal data that you provide on the forms identified below.
+
+[Apron's](https://web.archive.org/aprons/Home.do) section:
+
+_Send a Recipe to a Friend Form_
+
+  * Your friend's name - to use to send your friend a link to the recipe    
+
+  * Your friend's e-mail address - to use to send your friend a link to the recipe    
+
+  * Your name - to use to send the e-mail with a link to the recipe from you   
+
+  * Your e-mail address - to use to send the e-mail with a link to the recipe from you
+
+
+
+_Class Reservation Request Form_
+
+  * Your name (required) - to use for customer contact purposes   
+
+  * The number of attendees (required) - for us to know how many seats to reserve in the requested class.  
+
+  * Your e-mail address (required) - for us to contact you in response to your request for a class reservation  
+
+  * Your telephone number (required) - for us to contact you in response to your request for a class reservation so we may gather the payment information required to reserve the class  
+
+  * Your address (not required) - to send you mailings about our Cooking School programs if you select to be added to our mailing list
+
+
+
+_Recommend a Class to a Friend Form_
+
+  * Your friend's name - to use to send your friend a link to the class    
+
+  * Your friend's e-mail address - to use to send your friend a link to the class    
+
+  * Your name - to use to send the e-mail with a link to the class from you   
+
+  * Your e-mail address - to use to send the e-mail with a link to the class from you
+
+
+
+_Join Mailing List_
+
+  * Your name (required) - to use for customer contact purposes   
+
+
+  * Your e-mail address - to use to send you e-mails related to the Cooking School(s) mailing list(s) for which you selected to join
+
+
+
+
+_Contact Apron's Simple Meals Form_
+
+  * Your name - to use for customer contact purposes   
+
+  * Your e-mail address - for us to contact you in response to your questions and comments  
+
+  * Your address and telephone number - for us to contact you in response to your questions and comments
+
+
+
+All information in the Contact Apron's Simple Meals form is optional; your submission of this information helps us better serve you. By filling out the e-mail form, you are consenting to receive e-mail or telephone calls from us or our agents. 
+
+[Send Us a Message](https://web.archive.org/contact/SendUsAMessage.do) option under the Contact Us section:
+
+  * Your e-mail address - for us to contact you in response to your questions and comments  
+
+  * Your name - to use for customer contact purposes  
+
+  * Your address and telephone number - for us to contact you in response to your questions and comments  
+
+  * Demographic information - to better serve you in the future, by making improvements to existing or future Publix stores
+
+
+
+All information in the e-mail form under the Contact Us section to Publix is optional; your submission of this information helps us better serve you. By filling out the e-mail form, you are consenting to receive e-mail or telephone calls from us or our agents.  
+
+Publix Preschool Pals section: 
+
+  * Parent's Name (required) - to personalize the materials we send to you  
+
+  * Parent's e-mail address (required) - to verify your identity on future visits to the site and to send you monthly e-mails about our club  
+
+  * Password (required) - to verify your identity on future visits to the site, and to prevent anyone else from using your identity to review or modify your membership information  
+
+  * Phone number (required) - to call in case we have a question about your membership  
+
+  * Mailing address (required) - to send you quarterly newsletters, as well as birthday cards and other materials for your child  
+
+  * Child's name and gender (required) - to personalize the materials we send to your child  
+
+  * Child's date of birth (required) - to verify that your child is the proper age for the club, as well as to send birthday cards and other materials to your child  
+
+  * Acceptance to Terms of Use (required) - to ensure that you understand our Terms of Use and agree to create a legally binding agreement between you and Publix  
+
+  * Demographic information, (optional) including number of children in household not eligible for program, Publix Baby Club member status, how you heard about Publix Preschool Pals, total household income and reason for leaving Publix Preschool Pals - to help target our communications and to better serve you in the future, by making improvements to our clubs
+
+
+
+The required information in the registration form is necessary for membership into our Preschool Pals program. By filling out the registration form, you are consenting to receive e-mail or telephone calls from us or our agents.
+
+Prescription Refill section:
+
+  * Pharmacy number - to associate your prescription with the pharmacy where your orders are on file  
+
+  * Prescription number - for us to know which medication you need refilled  
+
+  * Patient's last name - to verify that you are getting the correct medication  
+
+  * Phone number - for our pharmacist to contact you with any potential questions
+
+
+
+All information in the refill form is required in order to fulfill your prescription request. By filling out the refill form, you are consenting to receive e-mail or telephone calls from us or our agents. For more detail on our Pharmacy privacy practices, see the Publix Pharmacy Notice of Privacy Practices.  
+
+[Publix Gift Cards order form](http://www.publix.com/services/gift/GiftCertificates.do): 
+
+  * E-mail address (required) - to send order confirmation e-mail.  
+
+  * Name (required) - to send gift card to recipient via mail.  
+
+  * Shipping Address (required) - to send gift card to recipient via mail.  
+
+  * Shipping Telephone (required)  \- in case we need to contact you regarding the order.  
+
+  * Cardholder's Name (required) - for credit card processing  
+
+  * Credit Card Information (required) - for credit card processing   
+
+  * Billing Address & Telephone (required) - for credit card processing  
+
+  * Customer Name & Number - for processing gift card orders on an established account
+
+
+
+All information collected on this order form is securely passed to the third party processing center for authorization and funds capture.  For more information on how this is handled, please see the Security section below.
+
+Publix does not store any full credit card numbers or related information on our web site or web servers; we only record the last four (4) digits of your credit card number for reference purposes. 
+
+If your purchase is being shipped to you, we will share your shipping information on a confidential basis with our delivery service providers.  Our delivery service providers are prohibited from using your personal information for any purpose other than making the delivery.
+
+You can order Publix Gift Cards and send them directly to a friend. Publix will not use or disclose the information you provide about someone else for gift card purchases for any purpose other than:
+
+  * To ship the order and confirm delivery;  
+
+  * To identify or resolve technical problems or customer service issues;  
+
+  * As required by law and/or to comply with a court order or other legal  process;   
+
+  * To protect the rights of Publix and its affiliates.  
+
+
+
 
 **Other Information**  
-We collect additional information about how you use and access our Web site. This information enables us to improve the site by making it more accessible and easier to navigate. 
+We collect additional information about how you use and access our Web site. This information enables us to improve the site by making it more accessible and easier to navigate.  
 
 **Cookies**  
 By use of this site, you consent to our use of cookies. A "cookie" is a piece of data stored on your hard drive containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on our Web site. Cookies do not contain any registration information that would personally identify you, as all such data is kept behind our firewall. Nor do cookies allow us to track your usage of other Web sites or the Internet in general. 
@@ -17,7 +189,7 @@ We use IP addresses to analyze trends, administer our Web site, track customer s
 We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that identifies any individual person. Publix may use your profile information (such as the number of people in your household, the number of pets you have, etc.) to create personalized content, offers, services, and advertising, but this information will only be used by Publix and its affiliates. Publix and its affiliates may release information when required to do so by law (for example, under a subpoena, court order or other regulatory requirement or to maintain or protect the security of the site). 
 
 **Security**  
-Publix uses secure connections during the transmission of pharmacy refill transactions and in the Preschool Pals section of our site - specifically, with regard to Preschool Pals, those pages dealing with sign in, registration and membership information. This means that information collected during the transmission of pharmacy refill transactions and in the Preschool Pals section of our site is encrypted before it is sent over the Internet between your computer and Publix computers. The technology used is called Secure Socket Layer (SSL). Through the use of this technology, your information collected during the transmission of pharmacy refill transactions and in the Preschool Pals section of our site is encrypted on your computer, sent through the Internet as jumbled code and decoded on Publix's secure server. You can verify that the connection is secure because you will see a key or a padlock at the bottom of your browser. Another identifier of a secure connection is the URL (or Web site address); the address will change from _http://www.publix.com_ to _https://www.publix.com_ when a secure connection is in place. 
+Publix uses secure connections during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Preschool Pals section of our site - specifically, with regard to Preschool Pals, those pages dealing with sign in, registration and membership information. This means that information collected during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Preschool Pals section of our site is encrypted before it is sent over the Internet between your computer and Publix computers. The technology used is called Secure Socket Layer (SSL). Through the use of this technology, your information collected during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Preschool Pals section of our site is encrypted on your computer, sent through the Internet as jumbled code and decoded on either Publix's secure server or the systems of the third party transacting the credit card sale. You can verify that the connection is secure because you will see a key or a padlock at the bottom of your browser. Another identifier of a secure connection is the URL (or Web site address); the address will change from [http://www.publix.com](http://www.publix.com/) to [https://www.publix.com](https://www.publix.com/) when a secure connection is in place. 
 
 **Surveys and Contests**  
 From time to time, Publix or its affiliates may conduct online surveys that ask you for demographic data, such as your ZIP code, age or income level. Publix or Publix's agents may also contact you by telephone or e-mail, using your phone number or e-mail address collected when you filled out one of the forms described in the "What is Collected, and How Do We Use It" section of this Policy, with the option to participate in consumer research studies. Participation in any survey or other consumer research is always voluntary. Publix aggregates the responses we receive before using the information to improve the products and services we offer. We do not link your individual responses to your personal information at any time.
@@ -31,9 +203,9 @@ Our site may contain links to other sites. Please be aware that Publix is not re
 If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users. We will use information in accordance with the privacy policy under which the information was collected. 
 
 **Contact Us**  
-Please let us know if you have any questions about our Privacy Policy. Simply send us an e-mail. 
+Please let us know if you have any questions about our Privacy Policy. Simply send us an [e-mail](https://web.archive.org/contact/SendUsAMessage.do). 
 
-**COPYRIGHT NOTICE**  
-Copyright© 2003 Publix Asset Management Company. All rights reserved. Any rights not expressly granted herein are reserved. 
+**COPYRIGHT NOTICE**   
+Copyright© 2005 Publix Asset Management Company. All rights reserved. Any rights not expressly granted herein are reserved.  
 
-Last modified: 04/2003 
+Last modified: 11/2005  
