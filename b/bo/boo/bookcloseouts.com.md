@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookcloseouts.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402053333id_/http%3A//www.bookcloseouts.com/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookcloseouts.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220052210id_/http%3A//www.bookcloseouts.com/static/privacy.asp) for the most accurate reproduction.*
 
 # BookCloseouts.com Bargain Books - Privacy Policies - Book Sale
 
