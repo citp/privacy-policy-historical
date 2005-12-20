@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the yellowpipe.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202043406id_/http%3A//yellowpipe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpipe.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220033033id_/http%3A//www.yellowpipe.com/privacy.php) for the most accurate reproduction.*
 
-# Yellowpipe - Huge thing
+# Yellowpipe Privacy Policy
+
+## Privacy Policy 
+
+### Yellowpipe Privacy Policy 
 
 Your privacy is very important to us. To better protect your privacy while your visiting our site, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used while visiting us.
 
@@ -18,3 +22,5 @@ Your privacy is very important to us. To better protect your privacy while your 
 
 **Stats  
 **The only information we collect without asking you first are regular and basic statistic website informations, like IP address, host name, hostmask, referer, browser, provider, country, Operating System. We delete these informations after few months.
+
+## **Also read our[ _Terms of service_](https://web.archive.org/web/20051220033033id_/http%3A//www.yellowpipe.com/yis/hosting/terms-of-service.php) for the [Web Hosting services](https://web.archive.org/web/20051220033033id_/http%3A//www.yellowpipe.com/yis/hosting/index.php)**
