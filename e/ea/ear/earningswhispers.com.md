@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earningswhispers.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211181513id_/http%3A//www.earningswhispers.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earningswhispers.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220163126id_/http%3A//www.earningswhispers.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# EarningsWhispers.com
+# EarningsWhispers.com Privacy Policy
 
 EarningsWhispers.com's biggest asset is its registered members and, therefore, it is extremely important for us to maintain your trust. So please be assured that we will never compromise the personal information you provide us. This policy statement tells you how we collect information from you and how we use it.
 
@@ -38,7 +38,7 @@ The importance of security for all personally identifiable information associate
 
 Your EarningsWhispers.com member account is password protected so that only you can access it and view the information relevant to the account. We recommend that you do not divulge your password to anyone. EarningsWhispers.com will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information.
 
-Remember to log out of your EarningsWhispers.com account and close your browser when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others or if you share a computer with someone else or are using a computer in a public place like a library or Internet café.
+Remember to log out of your EarningsWhispers.com account and close your browser when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others or if you share a computer with someone else or are using a computer in a public place like a library or Internet caf.
 
 **Links to other sites**
 
@@ -46,10 +46,12 @@ Our members should be aware that when you are on EarningsWhispers.com or one of 
 
 Whenever you give your personal information to these sites, we cannot guarantee the security of the information. EarningsWhispers.com's policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond EarningsWhispers.com's control. 
 
-**Third Party Advertising**
+**Special Offers**
+
+Special Offers will be fulfilled by the company making the Special Offer. EarningsWhispers.com will forward your requests for Special Offer(s), along with your e-mail and Special Offer(s) delivery information, to the relevant companies so that they can contact you directly. Once your information is provided to another company pursuant to your request it is not governed by EarningsWhispers.coms privacy policy. We recommend that you review the privacy policy of each of the companies to determine how your information will be protected. 
 
 **Your acceptance of these terms**
 
 By using this site, you signify your assent to the EarningsWhispers.com Privacy Policy. If you do not agree to this policy, please do not use our community of sites. Your continued use of the EarningsWhispers.com community following the posting of changes to these terms will mean you accept those changes.
 
-Last updated 11/19/01
+Last updated 9/15/05
