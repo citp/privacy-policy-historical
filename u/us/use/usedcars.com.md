@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usedcars.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206114842id_/http%3A//www.usedcars.com/privacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedcars.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221002918id_/http%3A//www.usedcars.com/privacyPolicy.shtml) for the most accurate reproduction.*
 
 # UsedCars.com
 
@@ -11,3 +11,10 @@ We use DoubleClick and other third-party advertising companies to serve ads when
 
 Third Party Cookies  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+
+InvoiceDealers.com privacy policy  
+We have partnered with the 3rd party ad delivery companies such that anonymous information is collected regarding your visit to our site. This information is used to deliver the targeted ads to you as you surf the Internet. It is our understanding that this form of advertising delivery is in partnership with the site publishers and is not considered to be Spyware or Adware. Again, these companies do not collect any personally identifiable information through the use of their technology. These partners offer the ability to opt-out of their information collection method as follows. 
+
+* DRIVEpm and Atlas DMT [(www.networkadvertising.org)](http://www.networkadvertising.org/)  
+
+* Advertising.com [(www.advertising.com/Privacy.html)](http://www.advertising.com/Privacy.html)
