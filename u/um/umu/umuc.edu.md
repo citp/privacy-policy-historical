@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umuc.edu privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207211856id_/http%3A//www.umuc.edu/webpolicy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umuc.edu privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220020759id_/http%3A//www.umuc.edu/webpolicy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - UMUC
 
