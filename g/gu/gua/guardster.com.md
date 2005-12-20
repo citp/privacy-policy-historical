@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guardster.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204165025id_/http%3A//www.guardster.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardster.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220211045id_/http%3A//www.guardster.com/%3FHome-Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Guardster.com
+# Guardster - Privacy Policy
 
 Effective 12/01/04
 
@@ -46,7 +46,6 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 [www.mamma.com](http://www.mamma.com/)
 
-  
 Please note: Our site may contain links to other sites. Guardster is not responsible for the privacy practices or the content of such Web sites. 
 
 Some Guardster services are funded by paid advertisers. All advertising inquiries are handled by email. If you are interested in becoming a paid advertiser please contact us at [sales@Guardster.com](mailto:sales@Guardster.com). 
