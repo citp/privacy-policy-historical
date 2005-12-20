@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527075455id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220035842id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ 1001 Fonts .com
 
@@ -78,14 +78,8 @@ If you have any additional questions about 1001fonts.com's dedication to consume
 **Partner Sites**  
    
 [FontFinder.ws](http://www.fontfinder.ws/)  
-[1001 Winamp Skins](http://www.1001winampskins.com/)  
-[1001 ICQ Skins](http://www.1001icqskins.com/)
-
-[**Printer Supplies**](https://web.archive.org/low_on_ink.html)  
-   
-[Ink4art.com](http://www.qksrv.net/click-797593-8791513)  
-[4inkjets.com](http://www.qksrv.net/click-797593-9224636)  
-[Inkjets.com](http://www.qksrv.net/click-797593-7050732)
+[1001 Winamp Skins](http://www1.1001skins.com/)  
+[1001 ICQ Skins](http://www2.1001skins.com/)
 
 [**Pay Fonts**](https://web.archive.org/font_paylinks.html)  
    
@@ -97,14 +91,14 @@ If you have any additional questions about 1001fonts.com's dedication to consume
 **Free Fonts**  
    
 [PCfonts.com](http://www.pcfonts.com/in.php?id=giotto)  
-[TopFreeFonts.com](http://www.topfreefonts.com/cgi-bin/autorank/rankem.cgi?id=1001font)  
+[TopFreeFonts.com](http://www.topfreefonts.com/cgi-bin/autorank/rankem.cgi?id=1001f2)  
 [AbstractFonts.com](http://www.abstractfonts.com/fonts/partners/in.htm?id=1001fonts)  
 [Best100Free.com](http://www.best100free.com/in.asp?id=1001fonts)  
 [HighFonts.com](http://www.highfonts.com/in.asp?id=1001fonts)
 
 **Font Designers**  
    
-[pizzadude.dk](http://www.pizzadude.dk/home.html)  
+[pizzadude.dk](http://www.pizzadude.dk/)  
 [larabiefonts.com](http://www.larabiefonts.com/)
 
-|  
+|   |   | 
