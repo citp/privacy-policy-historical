@@ -1,45 +1,62 @@
-> *The following text is extracted and transformed from the eximdata.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204043841id_/http%3A//www.eximdata.com/index.php%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eximdata.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220054442id_/http%3A//www.eximbooks.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Leads,Directory,Trade Leads,Buy Sell Offer,Buyers,Sellers,Importers,Exporters,Manufacturer,Yellow Pages,Association,Publication
+# World Importers, Buyers, Traders, Agents, Dealers, Exporters, Manufacturers, European, American, Asian, Middle East, South American, African
 
-Exim Infotek (India) Pvt. Ltd. is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. The policy may change from time to time so please check periodically.
+**1\. The Information We Collect **
 
-**1\. Personal Information**
+1.1 Publishing Information (Company Information/Free-Listing): If you submit any information to Exim Infotek (India) Pvt. Ltd. to be published in any form through the publishing tools, including but not limited to Free-Listing, Add Your Company then you are deemed to have given consent to the publication of such information.
 
-During registration, EximData asks for your name and email address. Once you register you are no longer anonymous to EximData and you are able to take full advantage of EximData’s offerings.
+1.2 Billing & Payment Information: If you purchase directory, information or any other service from Exim Infotek (India) Pvt. Ltd. through our website, we or our merchant may collect additional information including billing/shipping information, payment information, delivery options etc.
 
-**2\. Use of Personal Information**
+1.3 Statistical Information: In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions and unique visitors, etc.
 
-EximData’s primary goal in collecting personal information is to provide you, the user, with a customized experience on our network of sites. This includes personalization services, interactive communications and many other types of services, most of which are completely free to you. In order to provide services free of charge, we display advertisements. By knowing a little about you, EximData is able to deliver more relevant advertisements and content, and hence better service, to you.
+1.4 Communication Services Information: At the time you use Communication Services (The Services may contain e-mail services, newsletter, tell your friend, feedback and/or other message or communication facilities designed to enable you to communicate with us or others) you provide information such as your name, address, phone/fax number, email address and other personal information as well as information about your business.
 
-**3\. Collection of information by EximData**
+1.5 Publishing Information, Billing & Payment Information, Statistical Information and any other information we may collect from you through our any Website or any other means shall collectively be referred to as “Collected Information”.
 
-When you are on a EximData site and are asked for personal information, you are sharing that information with EximData alone, unless it is specifically stated otherwise. If data is being collected and/or maintained by any company other than EximData, you will be notified prior to the time of the data collection or transfer.
+**2\. The Information We Don’t Collect**
 
-Promotions that run on EximData may be sponsored by companies other than EximData or may be co-sponsored by EximData and another company. Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you don’t want your data to be shared.
+2.1 Cookies: We never use COOKIES to collect/store any information in any form (encrypted/non- encrypted). So you can opt not to accept cookies by modifying the parameter settings on your browser. In the event, your visit to our website will not be affected.
 
-Please be aware that EximData advertisers or websites that have links on our site may collect personally identifiable information about you. This privacy statement does not cover the information practices of those web sites linked to EximData.
+2.2 Credit Card Information: During Payment through credit card, your payment transaction will process through SECURE PAYMENT GATEWAY. Any credit card information that you provide through our merchant website (CCAvenue.com) is directly submitted to a payment server of the credit card processing bank. Exim Infotek (India) Pvt. Ltd. does not maintain electronic or physical copies of your credit card information. Read “Privacy of Third Party” for more details mentioned below.
 
-**4\. Sharing of Information**
+**3\. How Do We Use Your Information?**
 
-As a general rule, EximData will not disclose or share any of your personally identifiable information except when EximData has your permission or under special circumstances, such as when EximData believes in good faith that the law requires it or as permitted in terms of this policy.
+3.1 General: We use your Collected Information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service specifically for you. We may use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us. We may share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users. We may use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message.
 
-From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt in to receive information from these third parties, EximData will, with your permission, share your name and email address with them.
+3.2 Publishing Information (Company Information/Free-Listing): Exim Infotek (India) Pvt. Ltd. is a business service provider that primarily sale/exchange your company information in various directory format among thousands of potential & interested companies around the world to promote your trade.  
+Any Publishing Information that you disclose to us becomes public information and you relinquish any proprietary rights (including but not limited to the rights of confidentiality and copyrights) in such information. You should exercise caution when deciding to include personal or proprietary information in the Publishing Information that you submit to us.
 
-EximData may also disclose account information in special cases when EximData has reasons to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating EximData Terms of Services or may be causing injury to or interference with (either intentionally or unintentionally) EximData’s rights or property, other EximData users, or if EximData deems it necessary to maintain, service, and improve its products and services.
+3.3 Billing & Payment Information: The billing & payment information which we collect shall not be disclosed to any third party, other than for legal reasons implied in the transaction. The billing & payment information you voluntarily give us while purchasing on-line is registered. This information is used to process your order and could later be used for further promotional marketing purposes. As part of our marketing policy to advise you of any other offers of related products or services, we may allow other departments of Exim Infotek (India) Pvt. Ltd., and the group to which it belongs, to have your name and address and/or email address.  
+Any credit card information that you provide through our merchant site (CCAvenue.Com) is directly submitted to a payment server of the credit card processing bank. Exim Infotek (India) Pvt. Ltd. does not maintain electronic or physical copies of your credit card information. Read “Privacy of Third Party” for more details mentioned below.
 
-**5\. Distribution of Information**
+3.4 Statistical Information: We use Statistical Information to help diagnose problems with and maintain our computer servers, to manage our Site, and to enhance our Site and services based on the usage pattern data we receive. We may generate reports and analysis based on the Statistical Information for internal analysis, monitoring and marketing decisions. We may provide Statistical Information to third parties, but when we do so, we do not provide personally-identifying information without your permission.
 
-EximData may, from time to time, send you email regarding our products and services. In addition, if you indicate upon registration that you are interested in receiving offers or information from EximData and its partners, EximData may occasionally send you direct mail about products and services that it feels may be of interest to you. Only EximData or agents working on behalf of EximData and under confidentiality agreements, will send you these direct mailings and only if you indicate that you do not object to these offers. If you do not want to receive such mailing, simply tell EximData when you give your personal information or, at any time you can easily edit your EximData Account information to no longer receive such offers and mailings.
+3.5 Communication Services Information: We may use your Information to provide services that you request or to contact you regarding additional services about which Exim Infotek (India) Pvt. Ltd. determines that you might be interested. Specifically, we may use your email address, mailing address, phone number or fax number to contact you regarding notices, surveys, product alerts, new service or product offerings and communications relevant to your use of our Site. We may generate reports and analysis based on the Information for internal analysis, monitoring and marketing decisions. 
 
-**6\. Updation of personal information**
+**4\. Disclosure of Information**
 
-You may edit your EximData Account Information and your EximData profile by sending a request to support@eximdata.com
+4.1 We reserve the right to disclose your Collected Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing or threatening to infringe, or who may otherwise be causing injury to or interference with, the title, rights, interests or property of Exim Infotek (India) Pvt. Ltd., our Users, customers, partners, other web site users or anyone else who could be harmed by such activities.
 
-Your EximData account can be deleted or deactivated, but doing so will result in not being able to access any members-only area of the EximData network, including your EximData Mail account (if you have one). Residual information will remain within our archive records.
+4.2 We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority.
 
-Please remember to sign out of your EximData account and close your browser window when you have finished your work. This to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place. Whenever EximData handles personal information as described above regardless of where this occurs, EximData takes steps to ensure that your information is treated securely and in accordance with the relevant Terms of Services and this Privacy Policy.
+4.3 If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User’s Collected Information in order to pursue our claim or prevent further injury to Exim Infotek (India) Pvt. Ltd. or others.
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while EximData strives to protect your personal information, EximData cannot ensure or warrant the security of any information you transmit to EximData and you do so at your own risk. Once EximData receives your transmission, it makes best efforts to ensure its security on its systems. Please keep in mind that whenever you voluntarily disclose personal information online that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+**5\. Privacy of Third Party**
 
-[http://www.eximdata.com](http://www.eximdata.com/)
+Exim Infotek (India) Pvt. Ltd. cannot be held liable for the privacy/confidentiality practices employed by third party to whom we direct our visitors. The privacy policy of such parties may differ from ours, and we may not have any control over the information that you submit to such third parties or co-branded sites. We recommend that you read the confidentiality declaration on each website you visit.
+
+**6\. Security Measures**
+
+6.1 We employ commercially reasonable security methods to prevent unauthorized access, maintain data accuracy and ensure correct use of information.
+
+6.2 No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secured. As a result, while we try to protect your information, no web site or company, including ourselves, can absolutely ensure or guarantee the security of any information you transmit to us and you do so at your own risk.
+
+**7\. Changes to Privacy Policy**
+
+We reserve the right to modify our Privacy Policy from time to time. We recommend that you consult this Privacy Policy on a regular basis. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact Exim Infotek (India) Pvt. Ltd. in writing and specifically request that we return and/or destroy all copies of all or part of your Collected Information in our possession.
+
+**8\. Your Feedback**
+
+Exim Infotek (India) Pvt. Ltd. welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to our email.  
+
