@@ -1,16 +1,11 @@
-> *The following text is extracted and transformed from the projectplace.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305074156id_/http%3A//www.projectplace.com/terms/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectplace.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220073432id_/http%3A//www.projectplace.com/terms/privacy_statement.html) for the most accurate reproduction.*
 
-# Projectplace.com - Privacy Statement
+# Projectplace - Privacy Statement
 
-  * ### [Terms & Conditions](http://www.projectplace.com/terms.html)
+  * ### [Privacy Statement](http://www.projectplace.com/terms/privacy_statement.html)
 
-  * [Security Policy](http://www.projectplace.com/terms/security_policy.html)
-  * [Privacy Statement](http://www.projectplace.com/terms/privacy_statement.html)
-  * [Terms of Use](http://www.projectplace.com/terms/termsofuse.html)
-  * [Customer Agreement](http://www.projectplace.com/terms/agreement.html)
-  * [Legal Disclaimer](http://www.projectplace.com/terms/disclaimer.html)
 
-| | 
+|  | 
 
 Projectplace International AB (hereinafter referred to as "Projectplace") has created this Privacy Statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices. 
 
@@ -65,6 +60,7 @@ Sweden
 +46 8 586 302 00  
 [info@projectplace.com](mailto:info@projectplace.com)
 
-Version 1.0, Revised May 21, 2001 
+  
 
-| | 
+
+|  | 
