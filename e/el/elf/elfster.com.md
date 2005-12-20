@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elfster.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410003545id_/http%3A//www.elfster.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elfster.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220024615id_/http%3A//www.elfster.com/privacy.htm) for the most accurate reproduction.*
 
 # About Elfster
 
