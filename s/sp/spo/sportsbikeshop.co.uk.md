@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2005-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050413081239id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220091604id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/privacy) for the most accurate reproduction.*
 
-# Motorcycle Parts, Motorcycle Accessories - Free Delivery - SPORTSBIKESHOP
+# Privacy Policy - FREE UK DELIVERY
 
 This page explains how SPORTSBIKESHOP, uses any information you give to us, and the ways in which we protect your privacy. 
 
@@ -21,16 +21,27 @@ The personal information, which we hold, will be held securely in accordance wit
 If you have any questions/comments about privacy, please contact us.   
 
 
+MCN AWARD WINNER
+
+  
+
+
 QUICK HELP
 
 Please select a product category from the left hand menu.
 
-Alternatively, use the product search function to help you find what you are looking for.
+Alternatively, use the product search function to help you find what you are looking for. 
+
+HOLD ON TO YOUR MONEY!
+
+  
+
 
 CUSTOMER COMMENTS...
 
-"Just wanted to say congratulations and thank you for your speedy and efficient service. Well done."  
- **Deirdre Stewart - Angus**
+"Thanks for the speedy delivery and service! Top stuff!"
+
+ **Brian Poulson - Yorkshire**
 
 FREE UK DELIVERY OVER £10
 
