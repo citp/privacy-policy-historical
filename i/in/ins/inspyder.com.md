@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the inspyder.com privacy policy that was archived on 2005-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050318121336id_/http%3A//www.inspyder.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspyder.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220060210id_/http%3A//www.inspyder.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy
-
-#### Privacy Policy
+# Inspyder - Privacy Policy
 
 This Privacy Policy outlines the types of personal information we gather when you use Inspyder's services, as well as some of the steps we take to safeguard it.
 
