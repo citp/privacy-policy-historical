@@ -1,50 +1,82 @@
-> *The following text is extracted and transformed from the straight.com privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806192445id_/http%3A//www.straight.com/global/info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straight.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220051613id_/http%3A//www.straight.com/content.cfm%3Fid%3D130) for the most accurate reproduction.*
 
-# Information & Policies
+# Straight.com Vancouver | Static Templates | Client Privacy Policy
 
-|   
----  
-| [](https://web.archive.org/web/20020806192445id_/http%3A//www.straight.com/global/advertise.html) | [](https://web.archive.org/web/20020806192445id_/http%3A//www.straight.com/global/gear.html) | [](https://web.archive.org/web/20020806192445id_/http%3A//www.straight.com/global/contact.html) | [](https://web.archive.org/web/20020806192445id_/http%3A//www.straight.com/global/about.html) | [](https://web.archive.org/web/20020806192445id_/http%3A//www.straight.com/global/info.html#privacy) | [](https://web.archive.org/web/20020806192445id_/http%3A//www.straight.com/global/info.html#subscribe) | [](https://web.archive.org/web/20020806192445id_/http%3A//www.straight.com/global/info.html#submit)  
----|---|---|---|---|---|---  
-|  |  |  |    
----  
-  
-|    
----  
-  
-**straight.com \- Disclosure Notice.**
-
-straight.com will only collect, use and disclose information that is personally identifiable to you (your "Personal Information") in accordance with our Privacy Policy or as required or permitted by law. This disclosure notice contains a short summary of our Privacy Policy. We obtain information about you to:
-
-  * establish and maintain responsible commercial relations with you and to provide ongoing services;
-  * understand your needs and preferences;
-  * develop, enhance, market or provide products and services;
-  * manage and develop our business and operations;
-  * use in connection with the operation of our business and billing and collection;
-  * co-ordinate with telephone or other communication companies;
-  * facilitate, only if and to the extent necessary, the financing, sale or transfer of our business in whole or in part; and
-  * meet legal and regulatory requirements.
-
-
-
-**Collection, Use and Disclosure.**
-
-Unless you otherwise consent, your Personal Information is collected, used and disclosed only in connection with the purposes identified above or as may be required or permitted by law.
-
-**Protection of your Privacy.**
-
-Your Personal Information, regardless of the format in which it is held, shall be protected from loss, theft, unauthorized access, disclosure, copying, use modification or destruction through appropriate security measures. Where commercially practicable, straight.com shall use contractual arrangements to protect Personal Information disclosed to third parties. We keep your information for only as long as may be necessary or relevant for the identified purpose of collection or as may be required or permitted by law.  
-  
-   
-  
-|    
----  
-The Georgia Straight is published every Thursday by the Vancouver Free Press Publishing Corp. Copies are distributed free every week throughout Vancouver, Burnaby, North and West Vancouver, New Westminster, Coquitlam, Port Coquitlam, Port Moody, Langley, Cloverdale, Surrey, Richmond, Ladner, White Rock, Delta, Squamish, and Whistler/Blackcomb. International Standard Serial Number ISSN 0709-8995. Subscription rates in Canada $117.00/52 issues, $58.85/26 issues (includes GST); United States $300.00/52 issues, $150.00/26 issues; foreign $650.00/52 issues, $325.00/26 issues. Contact 604-730-7087 if you wish to distribute free copies of the Georgia Straight at your place of business. Entire contents copyright © 2002 Vancouver Free Press Publishing Corp.  
-   
-  
-|    
----  
-The Straight accepts no responsibility for, and will not necessarily respond to, unsolicited manuscripts and art. Such material will only be returned if accompanied by a stamped, self-addressed envelope.  
-   
-  
 | 
+
+##  Client Privacy Policy 
+
+Publish Date: 1-Jan-2004 
+
+### INTRODUCTION
+
+The Georgia Straight is owned and operated by the Vancouver Free Press Publishing Corp. Our privacy protection policy has been designed in accordance with Canada’s Personal Information Protection and Electronics Documents Act as well as British Columbia’s Personal Information Protection Act (PIPA). 
+
+The Georgia Straight is committed to protecting your personal information and our policies and procedures have been designed with this in mind. The Policy will define what information we collect about you how it is used and how we keep it safe and secure as well as our complaint process and Contact Information. 
+
+### WHAT IS PERSONAL INFORMATION
+
+Personal Information is information that refers to an identifiable individual and is recorded in any form. 
+
+Personal information does not include “Contact Information” (the type of information that one would find on a business card, in a phone book or a directory). 
+
+### COLLECTING, USING AND DISCLOSING INFORMATION ABOUT YOU
+
+The Georgia Straight collects only basic information about you in order to maintain a business relationship and complete sales transactions. If you pay by credit card we collect and store your credit card information for the purpose of processing payments and processing refunds that you have authorized. 
+
+The information we collect from you is used solely for the reasons described above and is not shared or sold to other organizations. 
+
+### SECURITY
+
+We keep your information safe with restricted access areas, secure servers and password protected computer systems with encrypted windows so that only authorized individuals can view your information. Employees with such access have been advised how to keep your information confidential. 
+
+### RETENTION OF PERSONAL INFORMATION
+
+The length of time we store information is done so in accordance with CCRA requirements. 
+
+### CONSENT
+
+No personal information will be disclosed without written consent of the individual the personal information pertains to, unless The Georgia Straight has a legal obligation to provide it. 
+
+### WITHDRAWAL OF CONSENT
+
+The client may withdraw consent for the disclosure, collection or use of personal information at any time. However, withdrawal of consent does not apply if it conflicts with the company’s legal obligations. 
+
+Collection of Information on our Website (for our complete Online Privacy Policy, click [here](https://web.archive.org/web/20051220051613id_/http%3A//www.straight.com/content.cfm?id=124).) 
+
+The Georgia Straight uses web server logs as well as 'cookies' - simple text files that web browsers place on computer hard drives when sites are visited - to help measure the number of visits, which pages have been viewed, average amount of time spent on the website and other such statistics relating to use of our site. This information, by itself, doesn't tell us your email address or who you are, no personal information is stored within the server logs or the cookies, nor do cookies damage files or read information from a user's hard drive. Please note certain features on our sites may not function if you do not accept cookies. We do not link any data collected to any personal information submitted online. 
+
+### ONLINE SECURITY
+
+The Georgia Straight is committed to maintaining and protecting your privacy as a visitor to our website. However, we remind you that the Internet is not a secure medium. As such, your privacy cannot be guaranteed when you communicate online or otherwise visit any website. The nature of Internet communications means that your communications may be susceptible to data corruption, interception and delays. 
+
+### REQUESTS TO ACCESS ONE’S OWN PERSONAL INFORMATION
+
+To access the personal information stored in our database about you, a request must be made in writing to one of our privacy officers. The privacy officer will then determine whether the request is legitimate, and if so, has 30 days to send the information to the applicant. In some cases, in accordance with legislation, it may take the company more than 30 days to respond, but in those cases a reason and projected time for response will be given to you. If the request is determined to be illegitimate under the Personal Information Protection Act, the policy officer will give you the reason for refusal and will answer all questions about the refusal. The company has the right to refuse to comply if the applicant’s request is repetitious in nature or is frivolous or vexatious. 
+
+### COMPLAINTS
+
+If you would like to file a complaint please use the contact information provided below to contact our officers by mail or by phone. Once the complaint has been received, the policy officer will conduct an internal investigation, and a decision will be reached within 30 days. If the policy officer finds the complaint to be legitimate, the company will take steps to correct the situation. 
+
+### POLICY OFFICER CONTACT INFORMATION
+
+### Policy Officers:  
+
+
+Patrick Fowler – Controller  
+Kelley Riley - Director, Human Resources
+
+### Mailing Address:  
+
+
+The Georgia Straight  
+2nd floor, 1770 Burrard St.  
+Vancouver, BC  
+V6J 3G7 
+
+Phone 604-730-7000  
+Fax 604-730-7010 
+
+| 
+
+[ ](http://www.straight.com/wuf3.cfm)
