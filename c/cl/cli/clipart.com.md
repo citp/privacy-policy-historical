@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the clipart.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204103944id_/http%3A//clipart.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipart.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221035716id_/http%3A//clipart.com/en/company/privacy) for the most accurate reproduction.*
 
-# Clipart.com - royalty-free clipart, animations, web graphics, photos, images
+# Clipart - Download Royalty-Free Clipart, Images, Fonts, Web Art and Graphics
 
-Privacy Policy
+| 
 
 * * *
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Jupitermedia, (“JUPM”). (The JUPM Network includes all Web sites and certain other Internet media properties hyper linked from the Jupitermedia home page.) The following discloses our Privacy Policy. 
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Jupitermedia and its wholly-owned subsidiaries including, without limitation, JupiterImages Corporation, Hemera Technologies Inc. and the Dynamic Graphics Group (collectively hereafter "JUPM"). (The JUPM Network includes all Web sites and certain other Internet media properties linked directly or indirectly from the Jupitermedia.com home page.) The following discloses our Privacy Policy. 
 
 **What information are you collecting and how are you collecting it?**
 
@@ -14,7 +14,7 @@ Every computer connected to the Internet is given a domain name and a set of num
 
 **What are cookies?**
 
-From time to time, JUPM or its advertisers may send a ["cookie](http://webopedia.internet.com/TERM/c/cookie.html)" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of JUPM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
+From time to time, JUPM or its advertisers may send a ["cookie"](http://webopedia.internet.com/TERM/c/cookie.html) to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of JUPM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
 
 **How do you use single-pixel gifs?**
 
@@ -60,7 +60,7 @@ _See_ below, **What else should I know about my privacy when online? See What in
 
 **Opt-in announcement List Privacy Policy**
 
-As an added benefit to the visitors of the JUPM Network of sites, we have a relationship with PostMasterDirect, an independent, third party company that sends e-mail announcements to individuals who request to receive them. When you sign up for an JUPM e-mail newsletter, you are given the opportunity to also receive announcement lists from PostmasterDirect. Whether you want to receive these announcement lists is your choice; you should only receive those lists you affirmatively choose to. If you choose to receive a specific announcement list, you will receive commercial messages that are related to the topic of the list from independent third parties that have contracted with JUPM and/or PostMaster Direct to send messages to the list. Personally identifiable information will not be used by JUPM or PostMasterDirect for any purposes other than to deliver the e-mail announcements. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [deleteall@postmasterdirect.com](mailto:deleteall@postmasterdirect.com), or by following the instructions on the e-mails you receive. [Click here to see the Postmaster Direct privacy policy](http://postmasterdirect.com/privacy.html). 
+When you sign up for an JUPM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether you want to receive these announcement is your choice; you should only receive mailings pertaining to distribution lists you select. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages that are related to the topic of the list from independent third parties that have contracted with JUPM to send messages to the list. Personally identifiable information will not be used by JUPM for any purposes other than to deliver the e-mail announcements. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@jupitermedia.com](mailto:announcementlist@jupitermedia.com) or by following the instructions on the e-mails you receive. 
 
 **What else should I know about my privacy when online?**
 
@@ -72,8 +72,10 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 
  **Your Consent To This Agreement**
 
-By using the JUPM Network, you consent to the collection and use of information by JUPM as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+By using the JUPM Network, you consent to the collection and use of information by JUPM as specified above. We reserve the right to modify this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-Please send any questions about JUPM’s Privacy Policy to: [privacy@internet.com](mailto:privacy@internet.com)
+Please send any questions about JUPM's Privacy Policy to: [privacy@jupitermedia.com](mailto:privacy@jupitermedia.com)
 
-Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.internet.com/corporate/legal.html). 
+Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.jupitermedia.com/corporate/legal.html). 
+
+(Revised March 30, 2005) 
