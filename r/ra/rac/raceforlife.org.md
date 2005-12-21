@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405204422id_/http%3A//www.cancerresearchuk.org/utilities/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221154143id_/http%3A//www.cancerresearchuk.org/utilities/privacy) for the most accurate reproduction.*
 
 # Cancer Research UK: Privacy statement
 
@@ -16,15 +16,15 @@ The types of information collected might include names, date of birth, e-mail ad
 
 We will use your personal information to provide you with the services, products or information you have requested, for administration purposes and to further our charitable aims, including for fundraising activities. We may need to share your information with our service providers, associated organisations and agents for these purposes.
 
-We may share your information with other organisations who are supportive of our aims and objectives. We only use your personal information for direct marketing purposes if we are allowed to do this by law or if we have your consent. You can change your mind at any time by contacting Customer Services at Cancer Research UK, 10 Cambridge Terrace, London NW1 4JL or email [customer.services@cancer.org.uk](mailto:customer.services@cancer.org.uk).
+We may share your information with other organisations who are supportive of our aims and objectives. We only use your personal information for direct marketing purposes if we are allowed to do this by law or if we have your consent. You can change your mind at any time by contacting Supporter Services at Cancer Research UK, 10 Cambridge Terrace, London NW1 4JL or email [supporter.services@cancer.org.uk](mailto:supporter.services@cancer.org.uk).
 
 **Do we use 'Cookies' ?**
 
-'Cookies' are small pieces of information stored on the hard drive of a user's computer which contain information about the user.
+'Cookies' are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. Essentially it takes the form of a small text file deposited on your computer's hard drive.
 
-Cancer Research UK use session cookies to ensure that you can interact with our web sites successfully. These will record data entered by you so that it is available from one screen to the next, but it is not recorded or held by us after you leave our web sites. These session cookies exist only as long as the browser remains open. Once the browser is closed, the cookie is deactivated. 
+Cancer Research UK uses cookies to ensure that you can interact with our web sites successfully, to identify you when you visit our web sites and to keep track of your browsing patterns. The use of cookies does not give us access to the rest of your computer.
 
-If you want to prevent our cookies being stored on your computer in future, you may do so by referring to your internet browser's instructions. You can do this by clicking on the "Help" menu. Please note however that if you disable our cookies you may not be able to access certain areas of our site. Further information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/ "About cookies website, this link opens in a new window").
+If you want to prevent our cookies being stored on your computer in future, you may do so by referring to your internet browser's instructions. You can do this by clicking on the "Help" menu. Please note however that if you disable our cookies you may not be able to access certain services or facilities on our sites and your use of our sites may be restricted. Further information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/ "About cookies website, this link opens in a new window").
 
 **How do we protect personal information?**
 
