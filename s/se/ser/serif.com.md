@@ -1,88 +1,143 @@
-> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403214039id_/http%3A//www.serif.com/company/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221050333id_/http%3A//serif.com/company/privacypolicy.asp) for the most accurate reproduction.*
 
 # Serif Privacy Policy
 
-**Serif Statement of Privacy**
+|  | 
 
-Last updated on June 12, 2002
+Introduction  
+Last Updated July 20th 2005 
 
-At Serif, we are committed to protecting your privacy.
+Serif knows how much you care about the way your personal information is used. We are committed to protecting the integrity and confidentiality of your information and appreciate the trust you place in us. We have drawn up this privacy policy to inform you how we collect and use your information in a careful, sensible manner in compliance with the Data Protection Act 1998. By visiting Serif, you are consenting to the procedures outlined in this statement.
 
-You acknowledge that by providing data to us, you consent to the processing of your data in accordance with this Privacy Policy Statement. However, you can contact us at anytime to have your details removed from lists used by us for direct marketing purposes, to update your information or to otherwise tell us how you would like to receive information about our and/or third party products and services - the choice is yours.
+Who Controls The Personal Information Collected?
 
-You can travel through most of our Web site without giving us any information about yourself. However, sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations and in more generally. Please read the complete Serif privacy statement.
+All personal information collected is in the control of Serif which is a registered trading name of Serif (Europe) Ltd of 12 Wilford Industrial Estate, Nottingham, NG11 7EP.
 
-**Collecting your Personal Information**
+How Do We Collect Your Personal Information?
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are placing an order, entering a contest, subscribing to e-mail newsletters, or when registering Serif products. Personal information collected online by Serif is often limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested.
-
-For example: If you choose to make a purchase in the Serif Online Store of the Web site, we will request personal information such as: name, address, telephone number, credit card number and shipping information.
-
-When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we keep this registration information on file with any information you've already given us on previous visits to our Web site.
-
-**Use of your Personal Information**
-
-We use your personal information for four primary purposes:
-
-  * To alert you to product upgrades, special offers, updated information and other new services from Serif. 
-  * To make the Serif Web site easier for you to use by not making you enter your personal information more than once. 
-  * To help you quickly find software, services or information on Serif.com. 
-  * To help us create and deliver content most relevant to you. 
+The information we gain from you is essential in helping us continually improve the shopping experience of Serif. There are 3 types of customer information we collect:
 
   
-We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-Serif will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Serif or the Serif Web site; (b) protect and defend the rights or property of Serif and its Web sites, and, (c) act in urgent circumstances to protect the personal safety of users of Serif, its Web sites, or the public.
 
-**Control of your Personal Information**
+  * When you visit the site, we use cookies to collect Website usage information and information about your computer and internet connection, including your computer's IP address, the type and version of browser and operating system you use, your internet domain and, if you arrived at Serif via a link from another Website, the referring URL.
+  
 
-When you register, or otherwise give us personal information, Serif will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
+  * We will request you enter personal information when you are subscribing to our special email offers or placing an order:
+  
 
-Serif occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you should write to or [e-mail](mailto:service@serif.com) our Customer Service Department.
+    * When you subscribe to Serif special email offers, we will request your name and email address.
+  
 
-**Access to your Personal Information**
+    * When you place an order from Serif, we will request all the personal information required to complete the sale and deliver the item(s) purchased. This information will include: name, address, email address, telephone number, credit card details and shipping information. You will be given the option to receive weekly email specials and Serif newsletter, targeted mailings and Selected 3rd Party email offers.
+  
 
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by accessing the [Subscription Options](https://web.archive.org/web/20050403214039id_/http%3A//www.serif.com/community/subscriptionoptions.asp) on the Serif Web site or by writing to us. You can: 
-
-  * Tell us whether you want Serif to send you marketing information. 
-  * Subscribe or cancel subscriptions to newsletters about our services and products. 
+  * We will receive confirmation of you opening Serif HTML special offer emails by the use of special image tracking. This information is used as an indication of the popularity of the offer. You can unsubscribe from receiving email offers at any time.
 
   
-You can write to us at any time to obtain details of the personal information we may hold about you. *Please write to: Data Protection Manager, Serif, Inc., The Software Center, 13 Hampshire Drive, Suite 12, Hudson, NH 03051. 
+What Is Your Personal Information Used For?
 
-Please quote your name and address together with your Customer ID/account number. We would be grateful if could also provide brief details of what information you want a copy of (this helps us to more readily locate your data).
+We use your personal information for five primary purposes: 
 
-For the protection of all our customers, we will take all reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you.
+  * To alert you to product upgrades, special offers, updated information and other new services from Serif.
+  
 
-*we may charge $10 to cover the administration costs involved.
+  * To support the order process through order confirmation and product despatch notification.
+  
 
-**Security of your Personal Information**
+  * To make Serif Website easier for you to use by enabling you to log-in and access your secure personal details.
+  
 
-Serif recognizes that its customers are increasingly concerned about how companies protect personal information from misuse and abuse and about privacy in general. Serif is constantly reviewing and enhancing its technical, physical and managerial procedures and rules to protect your personal data from unauthorized access, accidental loss and/or destruction. We use industry standard secure sockets layer (SSL) technology, for example, to encrypt sensitive information such as your credit card and other financial information and inside the company data is data is stored in password-controlled servers with limited access.
+  * To help you personalise your Website experience on Serif.
+  
 
-Please be aware that communications over the Internet, such as e-mails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. Serif cannot accept responsibility for any unauthorized access or loss of personal information that is beyond our control.
+  * To help us create and deliver Website content most relevant to you.
 
-**Use of Cookies**
+  
+We also use the information for internal analysis to:   
 
-To ensure we are publishing online content customers need and want, Serif collects aggregated site-visitation statistics using cookies. We do not track individuals' use of the site.
 
-When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously.
+  * Identify areas of the Website in need of improvement. 
+  
 
-We do not use this technology to access your personally identifiable information on Serif.com; it is a tool we use to compile aggregated statistics about Serif.com Web site usage. We do not share tracking information outside of Serif.
+  * Build customer profiles to improve the relevancy of the Website. 
 
-If you choose to not have your browser accept cookies from the Serif.com Web site, you will be able to view the text on the screens, however you will not experience a personalised visit nor will you be able to subscribe to the service offerings on the site.
 
-**Changes to this Statement**
 
-Serif will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, Serif will notify you by placing prominent notice on the Web site.
+You can adjust the personal information that is stored by Serif by editing your MyAccount details [here.](https://web.archive.org/community/accountInfo.asp)
 
-**Contact Information**
+Do We Share Your Information?
 
-Serif welcomes your comments regarding this Statement of Privacy, please contact us by  
-[e-mail](mailto:privacy@serif.com?Subject=I%20would%20like%20more%20information%20on%20the%20Serif%20Privacy%20Policy), or postal mail.
+Serif will not share personal information with third parties without your permission, other than for the limited exceptions listed below.  
 
-**Data Protection Manager**  
-Serif, Inc.  
-The Software Center  
-13 Hampshire Drive, Suite 12  
-Hudson, NH 03051
+
+  
+Serif will only disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Serif; (b) protect and defend the rights or property of Serif, and, (c) act in urgent circumstances to protect the personal safety of the users of Serif, or the public.
+
+Serif will not share personal information with third parties without your permission, other than for the limited exceptions listed above. Occasionally, we will send email offers in association with other businesses to specially selected customers of Serif. In these instances, we do not share any details with the associated business. 
+
+How Do We Use Cookies?
+
+We place a cookie, which is a small text file, on to your computer’s hard drive through your web browser. This file enables us to enhance your future visits to the site through personalised greetings, the showing of relevant content and the storage of previously found items of interest. All we can do to the cookie is write data to it. We can’t make anything run on your PC.
+
+It is also a tool we can use to aggregate usage statistics about the site. This information enables us to recognise popular site features and further develop new ones, adding to the overall shopping experience of the site. We never share any of this information outside the company.
+
+If you choose to delete Serif cookies or do not have your browser set to accept cookies from Serif, you will still be able to view the site, however you will not experience a personalised visit nor will you be able to benefit from other personalised site offerings.
+
+For further information about cookies please  click here.
+
+How Can You Gain Access To Your Personal Information?
+
+We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by writing to us. You can: 
+
+  * Tell us whether you want Serif to send you marketing information.
+  
+
+  * Subscribe or cancel subscriptions to special service and product offers.
+
+
+
+You can write to us at any time to obtain details of the personal information we may hold about you. Please write to: Data Protection Manager, Serif, 12 Wilford Industrial Estate, Nottingham NG11 7EP.   
+
+
+  
+Please quote your name and address together with your Customer ID. We would be grateful if you could also provide brief details of the information required as this will help us to accurately deliver your data requirements. 
+
+For the protection of all our customers, we will take all reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you. 
+
+We will respond to such requests within 20 working days. 
+
+How Secure Is Your Personal Information?
+
+Serif recognises that you are increasingly concerned about the protection of personal information from misuse and abuse, and about privacy in general. We constantly review and enhance our technical, physical and managerial procedures in connection with the collection, storage and disclosure personal data in order to protect it from unauthorised access, accidental loss and/or destruction.
+
+We use industry standard 128 bit secure sockets layer (SSL) technology to encrypt sensitive information such as your credit card and other financial information.
+
+It is important to remember to protect yourself against unauthorised access to your password if you use a shared PC. Make sure you sign off or close your browser when you have finished using it.
+
+  
+Do We Transfer Personal Data Overseas?
+
+The Internet is a global environment. Using the Internet to collect and process personal data involves the transmission of data on an international basis. By browsing Serif and communicating electronically with us, you acknowledge and agree to our processing your personal data in this way. 
+
+Do We Monitor and/or Record Your Communications?
+
+Monitoring or recording of your calls, e-mails, and other communications may take place in accordance with UK law, and in particular for business purposes, such as for quality control and training, and in order to prevent or detect crime. Please visit the following Websites for further information:
+
+  
+**[www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/)**  
+**[www.dti.gov.uk](http://www.dti.gov.uk/)**
+
+What Happens If We Change This Statement?
+
+Serif will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, Serif will notify you by placing a notice on the site’s home page for at least 7 days.
+
+Contact Information
+
+Serif welcomes your comments regarding this Statement of Privacy, please [contact us](https://web.archive.org/contactus.asp) or send your request by postal mail.
+
+Data Protection Manager (SAR), Serif (Europe) Ltd, The Software Centre, 12 Wilford Ind Est, Nottingham NG11 7EP. 
+
+Thank you for your trust.
+
+Serif
