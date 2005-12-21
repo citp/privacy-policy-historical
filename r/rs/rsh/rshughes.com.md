@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the rshughes.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171341id_/http%3A//rshughes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rshughes.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221143429id_/http%3A//rshughes.com/privacy.html) for the most accurate reproduction.*
 
-# R.S. Hughes - Industrial Distributor - Tapes, Adhesives, Abrasives, Safety, and Electronic Products
-
-Privacy Policy
-
-[Printable Version](https://web.archive.org/privacy.html?printable=1)
+# R.S.Hughes Privacy Policy
 
 **Privacy Policy & Legal Notice**
 
@@ -12,10 +8,10 @@ R. S. Hughes Company, Inc. respects your privacy. The only information that we c
 
 **General visitors to the R. S. Hughes product Web site** \- R. S. Hughes collects personal information, such as e-mail addresses, names or mailing addresses only when individual web site visitors choose to submit such information to us. Aggregate statistics are gathered on general web site traffic patterns.
 
-**Purchases from the R. S. Hughes Online Store** \- When you purchase goods online from R. S. Hughes at http://www.rshughes.com, we must collect a shipping and billing name, address, and credit card information to process your order. That information is accepted using industry-standard Secure Socket Layer encryption to ensure credit card and order information security. Purchasers of products from the R. S. Hughes Online Store have the choice whether to receive or refuse e-mail or regular mail information from R. S. Hughes on product care, product updates and other promotional information.  
-  
----  
-  
+**Purchases from the R. S. Hughes Online Store** \- When you purchase goods online from R. S. Hughes at http://www.rshughes.com, we must collect a shipping and billing name, address, and credit card information to process your order. That information is accepted using industry-standard Secure Socket Layer encryption to ensure credit card and order information security. Purchasers of products from the R. S. Hughes Online Store have the choice whether to receive or refuse e-mail or regular mail information from R. S. Hughes on product care, product updates and other promotional information.
+
+| 
+
 **Legal Notice**
 
 This web site is created and controlled by R. S. Hughes Company, Inc., a California corporation with headquarters at 1162 Sonora Court, Sunnyvale, CA 94086. phone (408)739-3211.
