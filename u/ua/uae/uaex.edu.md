@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407002347id_/http%3A//www.uaex.edu/statements.htm%23Privacy%2520Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221173524id_/http%3A//www.uaex.edu/statements.htm%23Privacy%2520Statement) for the most accurate reproduction.*
 
 # U of A Division of Agriculture Cooperative Extension Service Natural Resources
 
