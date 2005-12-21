@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowmobileworld.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403091631id_/http%3A//snowmobileworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowmobileworld.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221114252id_/http%3A//www.snowmobileworld.com/privacy) for the most accurate reproduction.*
 
 # Snowmobile World.com: Snowmobile Site Privacy Information
 
