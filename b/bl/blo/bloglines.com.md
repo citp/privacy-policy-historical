@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the bloglines.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625004551id_/http%3A//www.bloglines.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloglines.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221050556id_/http%3A//bloglines.com/about/privacy) for the most accurate reproduction.*
 
 # Bloglines | Privacy Policy
 
 ## Privacy Policy
 
-At Bloglines, we take your privacy concerns regarding our service seriously, so we have created the following Privacy Policy to explain our information collection and use practices. Our Privacy Policy covers what information we collect through our service, how we use this information, how you may opt-out of this collection, the security measures we take to protect this information, and our policy regarding children under 13 years of age. By using our service, you consent and agree to the information collection and use practices described in our Privacy Policy. We may periodically make changes to our Privacy Policy. It is your responsibility to review the most recent version of our Privacy Policy frequently and remain informed about any changes to it. 
+Respecting users' privacy is a key value for Bloglines and it's parent company Ask Jeeves, Inc. As of July 19, 2005, Ask Jeeves has become a wholly-owned subsidiary of [IAC/InterActiveCorp](http://www.iac.com/) (NASDAQ: IACI), and thus, IAC now controls Bloglines’ privacy practices. 
 
-  
-The most recent version of our Privacy Policy can always be found at: 
+IAC's brands include some of the best companies on the Internet, and we are excited by the additional resources that IAC will be able to provide to Bloglines users. IAC has informed us that it does not plan to make any immediate changes to Bloglines' privacy practices. This means that the [Bloglines’ privacy policy](http://www.bloglines.com/about/privacy) will continue to remain in place; and IAC will treat users' personal information with the same respect, and subject to the same constraints, as apply under the current policy. If in the future IAC decides to revise Bloglines' privacy practices, those changes will be announced in the manner required by the privacy policy. To learn about personal information Bloglines collects and how it may be used, please read [Bloglines’ privacy policy.](http://www.bloglines.com/about/privacy)
 
-[**http://www.bloglines.com/**](http://www.bloglines.com/) 
-
+If you have any questions please contact [Bloglines user support](http://www.bloglines.com/contact). 
 
 ## What Information Is Collected?
 
@@ -51,10 +49,6 @@ Our service may contain links to other websites and software. We are not respons
 ## Disclosures Required by Law
 
 We reserve the right to disclose your personally identifiable information when we believe in good faith that an applicable law, regulation, or legal process requires it, or when we believe disclosure is necessary to protect or enforce our rights or the rights of another user. 
-
-## Mergers and Acquisitions
-
-In the event that we or a portion of our assets are acquired by another company, customer information, including personally identifiable information, may be one of the transferred assets. 
 
 ## No Error-Free Performance
 
