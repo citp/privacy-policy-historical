@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614091829id_/http%3A//allianz.com.au/allianz/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221042220id_/http%3A//allianz.com.au/allianz/Privacy.html) for the most accurate reproduction.*
 
 # Privacy | Allianz Australia
 
@@ -24,11 +24,11 @@ Where it is possible we will collect personal information directly from you. The
 
 However, in some circumstances we will need to collect your personal information from third parties. These circumstances may include collection of your personal information from an insurance investigator or a medical practitioner for the purposes of assessing your claim under the insurance policy.
 
-When you give personal information about other individuals, we and our agents rely on you to have made or make them aware:
+When you give personal information about other individuals, we and our agents rely on you to have made or make them aware: 
 
-  * that you will or may provide their information to us;
-  * the types of third parties to whom the information my be provided;
-  * the relevant purposes we and the third parties will disclose it to, will use it for; and
+  * that you will or may provide their information to us; 
+  * the types of third parties to whom the information my be provided; 
+  * the relevant purposes we and the third parties will disclose it to, will use it for; and 
   * how they can access it.
 
 
@@ -47,25 +47,25 @@ We disclose personal information to third parties who we believe are necessary t
 
 In providing the relevant products and services to you, we may share your personal information with related companies within Allianz.
 
-Personal information for the purposes specified above may be shared on a confidential basis with:
+Personal information for the purposes specified above may be shared on a confidential basis with: 
 
-  * our related body corporates;
-  * our distributors and agents;
-  * other insurers and reinsurers;
-  * insurance reference bureaus;
-  * government agents;
-  * data collection and verification agencies;
-  * loss adjusters and assessors;
-  * repairers and suppliers;
-  * investigators and recovery agents;
-  * police, law and credit enforcement bodies and agencies;
-  * legal advisors;
-  * medical, health and case managers and service providers;
-  * actuaries and accountants;
-  * contracted advisors and service providers;
-  * professional and other organisations;
-  * your employer;
-  * other parties as required by law and/or
+  * our related body corporates; 
+  * our distributors and agents; 
+  * other insurers and reinsurers; 
+  * insurance reference bureaus; 
+  * government agents; 
+  * data collection and verification agencies; 
+  * loss adjusters and assessors; 
+  * repairers and suppliers; 
+  * investigators and recovery agents; 
+  * police, law and credit enforcement bodies and agencies; 
+  * legal advisors; 
+  * medical, health and case managers and service providers; 
+  * actuaries and accountants; 
+  * contracted advisors and service providers; 
+  * professional and other organisations; 
+  * your employer; 
+  * other parties as required by law and/or 
   * the agent of any of these.
 
 
@@ -104,7 +104,7 @@ We use a third party tracking tool called Akamai Edge Control (Akamai) for this 
 
 One of the primary methods used by this third party to collect anonymous data is the placement of cookies. Cookies are small information files that an end user's Web browser places on that user's computer when a Website is visited. For information on disabling these cookies, please visit [www.webtrendslive.com/wtl_marcom/permission.asp](http://www.webtrendslive.com/wtl_marcom/permission.asp). In addition to the session cookie, WebTrendsLive uses other anonymous data collection methods such as appending query strings to an image request. 
 
-We also use other external companies for the following purposes:
+We also use other external companies for the following purposes: 
 
   * For webhosting services for this website, 
   * To gather non-personal information (using cookies) in order to evaluate the effectiveness of online marketing activities, for example.
