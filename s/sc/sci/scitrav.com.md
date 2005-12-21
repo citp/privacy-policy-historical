@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403194854id_/http%3A//www.scitrav.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221151054id_/http%3A//www.scitrav.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Science Traveller International
 
@@ -51,7 +51,6 @@ Email: [mail@scitrav.com](mailto:mail@scitrav.com)
 Phone: 206-988-8902  
 Fax: 206-988-8941  
 |  **Science Traveller International Pty. Ltd.**  
-Innovation Park Precinct, 121-129 Edwards Road  
 P.O. Box 107, Bendigo, VIC 3552, Australia  
 Email: [mail@scitrav.com.au](mailto:mail@scitrav.com.au)  
 Phone: +613-5441-4898  
