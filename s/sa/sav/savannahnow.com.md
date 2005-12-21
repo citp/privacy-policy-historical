@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the savannahnow.com privacy policy that was archived on 2005-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050313085711id_/http%3A//www.savannahnow.com/copyNOW.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savannahnow.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221163427id_/http%3A//www.savannahnow.com/copyNOW.shtml) for the most accurate reproduction.*
 
 # SavannahNOW | Copyright Notice
-
-| 
 
   
 **Copyright Notice**
@@ -58,20 +56,3 @@ Please be careful and responsible whenever you are online. Should you choose to 
 
 **Children**   
 SavannahNOW.com does not knowingly collect or solicit Personally Identifiable Information from or about children under the age of 13 except as permitted by law. If we discover we have received any information from a child under the age of 13 in violation of this policy, we will delete that information immediately. If you believe SavannahNOW.com has any information from or about anyone under the age of 13, please contact us at [webmaster@savannahnow.com](mailto:webmaster@savannahnow.com)
-
-| 
-
-| [](http://www.savannahnowhomefinder.com/)  
----  
-|  | **Top For Sale** | [**»View All**](http://classifieds.savannahnow.com/classifieds-bin/classifieds?tid=70803&property=savannah+topads&classification=REAL+ESTATE+FOR+SALE)  
----|---  
-[**»  727 **](http://classifieds.savannahnow.com/classifieds-bin/classifieds?ad_id=21167037&tid=86764&tp=savannah+ga)W. Victory Dr. 4 br, 2 ba, sep LR, DR, hdwd flrs new c...  
-[**»  Southside **](http://classifieds.savannahnow.com/classifieds-bin/classifieds?ad_id=21140041&tid=86764&tp=savannah+ga) FSBO- Kings Grant Subdivision. 3 bedrooms, 2 ful...  
-[**»  Guyton, **](http://classifieds.savannahnow.com/classifieds-bin/classifieds?ad_id=20783368&tid=86764&tp=savannah+ga)3 BR/2 BA 1.47 acres. 1383 sf. New paint, new carp...  
-[**»  2405 **](http://classifieds.savannahnow.com/classifieds-bin/classifieds?ad_id=20783365&tid=86764&tp=savannah+ga)Riviera Blvd., 3 BR/2 BA, refinished hardwoods, new p...  
-**Top For Rent** | [**»View All**](http://classifieds.savannahnow.com/classifieds-bin/classifieds?tid=86082&property=savannah+topads&classification=REAL+ESTATE+FOR+RENT)  
----|---  
-[**»  Isle **](http://classifieds.savannahnow.com/classifieds-bin/classifieds?ad_id=21067953&tid=86764&tp=savannah+ga)Of Hope Condo 4BR, 2.5B, LR/DR combo, brkfst rm, w/fl...  
-[**»  Tybee **](http://classifieds.savannahnow.com/classifieds-bin/classifieds?ad_id=21167033&tid=86764&tp=savannah+ga)North End 3 BR 2.5 BA Condo for lease. Clean, quite ...  
-[**»  Westside **](http://classifieds.savannahnow.com/classifieds-bin/classifieds?ad_id=21113766&tid=86764&tp=savannah+ga) Gulfstream Rd  3BR, 1BA, cable HBO & all util...  
-[**»  Tybee **](http://classifieds.savannahnow.com/classifieds-bin/classifieds?ad_id=21167032&tid=86764&tp=savannah+ga)2BR Apt. Great Fishing on water w/dock. Very Nice - ...
