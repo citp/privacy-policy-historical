@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leisurepro.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525100259id_/http%3A//www.leisurepro.com/Catalog.aspx%3Fop%3DInfo%26Topic%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisurepro.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221174741id_/http%3A//www.leisurepro.com/Info/Privacy.html) for the most accurate reproduction.*
 
-# LeisurePro
+# Buy Scuba Diving Gear & Snorkelling Equipment and everything underwater from LeisurePro
 
 **At LeisurePro.com, your privacy is a top priority. Please read below for our complete privacy policy details.**
 
@@ -8,23 +8,23 @@ If you shop at leisurepro.com and place your orders exclusively through leisurep
 
 Your privacy is important to us. By participating in the Council of Better Business Bureau's BBB _OnLine_ Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBB _OnLine_.  Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/)
 
-**What Information do we collect?**   
-We collect two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site. To learn how we keep your personal information safe and secure, please see our [ Security Statement](http://www.leisurepro.com/Catalog.aspx?op=Info&topic=Privacy#security).
+ **What Information do we collect?**   
+We collect two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site. To learn how we keep your personal information safe and secure, please see our [Security Statement](http://www.leisurepro.com/Content/Privacy.html#security).
 
- **Personally Identifiable Information:** This refers to information that lets us know the specifics of who you are. Personal information is requested when you order a product or service, request a Catalog or email newsletter, and send us feedback. For example, this information might include your name, billing address, shipping address, telephone number, e-mail address, credit card or other payment information, and product details. With this information, leisurepro.com can fill your orders and better provide you with personalized services.
+**Personally Identifiable Information:** This refers to information that lets us know the specifics of who you are. Personal information is requested when you order a product or service, request a Catalog or email newsletter, and send us feedback. For example, this information might include your name, billing address, shipping address, telephone number, e-mail address, credit card or other payment information, and product details. With this information, leisurepro.com can fill your orders and better provide you with personalized services.
 
-**Non-Personally Identifiable Information:** This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you shop on our site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. For example, this information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks like the Web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
+ **Non-Personally Identifiable Information:** This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you shop on our site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. For example, this information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks like the Web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
 
-**How do we use the information?**  
+ **How do we use the information?**  
 Our primary goal in collecting personal information is to provide leisurepro.com's visitors with a superior customized online experience. We use the customer contact information to fill orders, contact purchasers to inform them of their order status, to send promotional information, to enhance the operation of our site and administer our systems. 
 
-We use cookies in the operation of our site; to find out what cookies are and how they are used, [ click here](http://www.leisurepro.com/Catalog.aspx?op=Info&topic=Privacy#Cookies:).
+We use cookies in the operation of our site; to find out what cookies are and how they are used, [click here](http://www.leisurepro.com/Content/Privacy.html#Cookies)
 
 **How to update or correct your Information?**  
 We believe you should have the ability to access and edit the personal information that you have provided to us. During the online ordering process you can review, change, or delete the information that you have submitted. You may change any of your personal information in your account online at any time. We encourage you to promptly update your information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past purchases, you cannot delete information associated with past purchases. Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be completely removed from our databases. As a result, you should not expect that all of your Personally Identifiable Information will be completely removed from our backed-up databases.
 
 **Marketing  
-**From time to time you may receive Leisure Pro special fliers via postal mail or e-mail notification of specials that may be of interest to you. E-mail recipients can opt-out from our e-mail listings by clicking on the unsubscribe link provided with every promotional email we send out. Registrants may also opt-out of receiving materials from us at any time by contacting us with such request.   
+** From time to time you may receive Leisure Pro special fliers via postal mail or e-mail notification of specials that may be of interest to you. E-mail recipients can opt-out from our e-mail listings by clicking on the unsubscribe link provided with every promotional email we send out. Registrants may also opt-out of receiving materials from us at any time by contacting us with such request.   
 Please contact us via e-mail ([lpnews@leisurepro.com](mailto:lpnews@leisurepro.com)), by telephone 888.805.3600, By Fax 212-691-7286, or via postal mail (42 West 18th Street, New York, NY 10011. Enclose a copy of the mailing label). Include your name, address, and other information as it appears on the mailing label, and indicate "Do not mail".
 
 **Our Security Statement:**   
@@ -47,7 +47,7 @@ When you use our site we will store cookies on your computer in order to facilit
 **Contacting Leisurepro about privacy questions or concerns:**  
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to:
 
-**Leisurepro Inc.  
+ **Leisurepro Inc.  
 Attn: Privacy Compliance Dept.  
 42 West 18'th St.  
 New York, NY 10011**
