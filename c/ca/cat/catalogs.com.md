@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306122649id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221041808id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
 
-# Terms of Use & Privacy Statement
-
-****
-
-| 
-
-****
-
-| 
-
-****
-
-| 
+# Catalogs.com Privacy Policy
 
 We at Catalogs.com are firmly committed to protecting your privacy.  We respect your privacy, and we want you to feel comfortable using our website. Therefore, we are providing you with this privacy policy so you can better understand our commitment to how your personal information will be secured and handled.  We are committed to collecting, maintaining, and securing your personal information in strict accordance with the principles described in this policy.
 
@@ -24,9 +12,13 @@ By viewing our website, we do not collect any personal information about you.  
 
 When you order a catalog, newsletter or savings certificate through our website, you will be provided with an opportunity to receive updates and special savings offers from Catalogs.com and other companies that are affiliated with Catalogs.com.  In order to receive this information, you must voluntarily “opt-in” by checking the appropriate circle on our order form.  If you check the “Yes” circle, your Customer Information may be sent to some of our affiliates, and you may receive correspondence directly from those affiliates.  Remember, each of our affiliates may have privacy policies that differ significantly from ours, and so you should carefully review the privacy policy of any affiliate before providing that company with any additional information about yourself. 
 
+**_Opting -Out_**
+
 Our website provides you with the opportunity to decline or “opt-out” of receiving information on new products, services, special offers and upcoming events from Catalogs.com.  To opt-out, please visit the following URL: 
 
-[ http://www.catalogs.com/unsubscribe.asp](https://web.archive.org/web/20050306122649id_/http%3A//www.catalogs.com/unsubscribe.asp)
+[ http://www.catalogs.com/unsubscribe.asp](https://web.archive.org/web/20051221041808id_/http%3A//www.catalogs.com/unsubscribe.asp)
+
+**_How Do You Use My Customer Information?_**
 
 When you order a catalog, newsletter or savings certificate through our website, your Customer Information is provided to the company from which you ordered the catalog, newsletter or savings certificate.   This helps ensure that your order is processed correctly and timely delivered.
 
