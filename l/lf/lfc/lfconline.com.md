@@ -1,31 +1,71 @@
-> *The following text is extracted and transformed from the lfconline.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407114730id_/http%3A//lfconline.com/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfconline.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221205524id_/http%3A//www.lfconline.com/feedback/loadpriv.asp) for the most accurate reproduction.*
 
-# Liverpool Football Club - LFC Online - Privacy Policy
+# Liverpool FC - LFC Online - the definitive Liverpool website. Independent news and stats from footymad.net
 
-LFC Online respects your right to the privacy of the personal information you provide us on our website. 
+**_Entertainment & Sports Agency Privacy Policy_**
 
-Newsletters
+**_Privacy_**
 
-We do not give our email lists out to third parties, but our newsletters may contain promotions or advertisements from various businesses or information on other sites or services that we offer. If at any time you wish to unsubscribe from our newsletter you may do so by following the instructions at the bottom of the newsletter itself or by visiting the site you signed up with and using the unsubscribe facility.
+Your privacy is of the utmost importance to us. We gather certain types of information about our users, therefore we feel you should fully understand the terms and conditions surrounding the capture and use of that information. Please find below our privacy policy. 
 
-Cookies
+We are Entertainment & Sports Agency Limited and we own and operate this website ('Liverpool FC - LFC Online', at www.lfconline.com). Our registered address is 4th Floor, Ashworth House, Manchester Road, Burnley, Lancs BB11 1TT. Please read the following policy to understand how we will deal with your personal data after it has been collected by us through your use of one of our platforms. Those platforms include our website, and any other channels as they evolve. 
 
-A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. We use ‘cookies’ to track advertising information and website usage and for other purposes such as order tracking in online shops. Other companies which place advertising on our site also have the ability to assign their cookies to you in a process that LFC Online does not control. However, cookies cannot be used to identify individuals, only machines, so these advertisers will not know who you are.
+**_Compliance with legislation_**
 
-Other disclosure of personal information
+We operate and are registered in accordance with all applicable data protection legislation in England and Wales. 
 
-LFC Online will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, or (ii) as required by law, court order or as requested by local or government authorities. This policy does not protect information you post to any online messageboard or chat room within our website.
+**_Collection of data_**
 
-Surveys
+We may collect data about you, some of which could be personal, in a variety of ways, including:  
+1\. when you register with the website;  
+2\. when you purchase products or services from the site or from any of our other platforms;  
+3\. when you enter competitions and/or complete surveys, and;  
+4\. through the use of certain data capturing devices (for example studying which pages you read the most through the use of cookies). 
 
-On occasion we may conduct voluntary online surveys. This is used to gauge our service, collect demographic information and other information that we may find useful. These surveys are optional. We may share non-personal, aggregated information with third parties but no personal details will be traceable or associated with specific individuals.   
-Competitions
+**_Use of personal data_**
 
-From time to time we operate competitions and promotions. Participation in these is optional and information submitted may be shared with co-sponsors as explained in individual competition rules.   
-Other sites
+The information we collect may include, but is not limited to, details such as your name, your address, your e-mail address, your age, your gender, date of birth, phone number, and your credit or debit card details. 
 
-LFC Online contains links to other sites on the internet. We cannot control and are not responsible for the privacy policies or content of such other websites.
+We will not sell, rent or trade your personal information to third parties for marketing purposes without your express consent. 
 
-Policy changes
+Unless we have your express consent we will only disclose personal data to (i) third parties if this is required for the purpose of completing your transaction with us (ii) other companies within our group, (iii) our professional advisers who are bound by confidentiality codes, and (iv) when we are legally obliged to disclose your data. 
 
-By using our site you agree to accept this privacy policy and are aware that our policy may change with time. Any changes to this policy will appear on this web page.
+By becoming a registered user you consent to receive from us by e-mail our newsletter and details of other special offers which we may think may be of interest to you. 
+
+**_Cookies_**
+
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Whenever you visit our website (unless you elect not to receive cookies), then your computer will store an identifying code in the cookie. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. 
+
+We use cookies to help us (i) estimate and report our total audience size and traffic (ii) conduct research to improve our content and services (iii) to make your user experience more simple in a variety of diifferent ways, for example you do not need to type in your user name each time you return to the site. 
+
+Please note that we allow other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not our Privacy Policy. 
+
+**_Third Party Advertising_**
+
+The ads appearing on this Website are delivered to you, on our behalf, by our web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or any other personal information), is used to serve ads. 
+
+**_Links/Third Parties_**
+
+Please note that this privacy policy only addresses our activities from our servers. Other sites (including those our website links to and third party sites or services) may have their own privacy policies and practices, which we do not control. 
+
+While we strive to protect your personal information, our network of sites contain links to partners, advertisers and third party Internet sites and services who may collect data in connection with sweepstakes, promotions, e-commerce, etc. They each have separate privacy and data collection practices, independent of our policy and therefore we have no control over these independent policies or actions and is not responsible for their privacy practices or the content of such websites. 
+
+**_Consent_**
+
+By disclosing your personal information to us using this website, you consent to the collection, storage and processing of your personal information by us in the manner set out in this Privacy Policy. 
+
+**_Opt-Out Policy_**
+
+Registered users of the website who have elected to receive our newsletter always have the option to opt-out of receiving further information from us by clicking on the link at the end of each newsletter and via the website. 
+
+**_Amendments to this Policy_**
+
+We may amend this policy from time to time however we assure you that we only use your data and for our legitimate business reasons and in order to give you a better user experience. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our homepage. 
+
+**_Testimonials_**
+
+Some information and e-mails sent to us may be used as testimonials but no e-mail address or contact details will be displayed. 
+
+**_Contacting Us_** If you have any questions or concerns about the information we hold about you, you can contact us by e-mailing us at 
+
+[privacy@esagroup.co.uk.](mailto:privacy@esagroup.co.uk)
