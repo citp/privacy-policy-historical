@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the network54.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626074221id_/http%3A//www.network54.com/Help%3Ftopic%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the network54.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221060300id_/http%3A//www.network54.com/Help%3Ftopic%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -17,6 +17,8 @@ Network54.com may contain links to and/or images and pictures from other sites a
 Network54.com has security measures in place to protect the loss, misuse and alteration of the information under our control. This includes actively monitoring our servers and networks for activities intended to disrupt provision of our services.   
 **Parental Consent and Use of Network54.com by Minors**  
 Minors may optionally provide contact information without prior parental consent or parental notification. This site also gives minors the ability to publicly post or distribute personally identifiable contact information without prior parental consent.   
+**NAI Disclosure**  
+Network54 uses third-party advertising companies to serve ads when you visit our Web site. These companies may use anonymous information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/optout_nonppii.asp).   
 **Removal of Information from the Network54.com System**  
 You may request to have your Network54.com login information removed from our system provided that you have given us enough information to verify your request. This can be done by providing us with a valid email address when you create your Network54 login. Requests to have information removed from our system should be sent via email to support@network54.com from the email address that we have associated with your login.   
 **Contact Information**  
@@ -26,4 +28,4 @@ Network54 Corporation
 10940 Wilshire Blvd.  
 Suite 600  
 Los Angeles, CA 90024  
-info@network54.com 
+support@network54.com 
