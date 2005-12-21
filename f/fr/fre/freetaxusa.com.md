@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405191738id_/http%3A//www.freetaxusa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221044420id_/http%3A//www.freetaxusa.com/privacy.html) for the most accurate reproduction.*
 
 # FreeTaxUSA Privacy Statement
 
@@ -104,5 +104,6 @@ If you have additional questions regarding FreeTaxUSA.com's privacy or security 
 
 Or, address your written question to: 
 
+    FreeTaxUSA - Privacy   
     654 North 800 East #305   
     Spanish Fork, UT  84660 
