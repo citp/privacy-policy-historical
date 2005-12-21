@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the newark.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406004355id_/http%3A//www.newark.com/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newark.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221084917id_/http%3A//www.newark.com/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - Newark InOne
 
-Help Center
+Privacy Policy & Terms of Use
 
   
-[**Help Center Index**](https://web.archive.org/web/20050406004355id_/http%3A//www.newark.com/NewarkWebCommerce/newark/en_US/support/help/index.jsp)
+[**Go to Help Center Index**](https://web.archive.org/web/20051221084917id_/http%3A//www.newark.com/NewarkWebCommerce/newark/en_US/support/help/index.jsp;jsessionid=TNIS4L2IVOXTOCXDUY0CFFYK2OTCIIV1)
 
- **Privacy Policy and Terms of Use**
+ **We Are Committed to Your Right to Privacy**
 
-**We Are Committed to Your Right to Privacy**
-
-Newark InOne respects your right to privacy. We developed this Privacy Statement to inform you about our practices. Questions regarding this Privacy Statement should be directed to [our websupport team](http://www.newark.com/custsrv/sendmail.html). 
+Newark InOne respects your right to privacy. We developed this Privacy Statement to inform you about our practices. Questions regarding this Privacy Statement should be directed to [our websupport team](https://web.archive.org/custsrv/sendmail.html). 
 
 Privacy is a concern to most Internet users. Newark InOne is acutely aware of, and sensitive to, the privacy concerns of our customers. We assure you that we do not collect personal information from you unless you provide it to us. If you are registering to use the site you will be asked to provide certain information. We are asking for this information solely for the purpose of providing the services offered and authenticating your identity when you login. Be assured that we do not sell information about our customers or site visitors to third parties. 
 
 **Privacy Policy Enforcement**
 
-If you feel that Newark InOne is violating this Privacy Statement, please contact [our websupport team](http://www.newark.com/custsrv/sendmail.html). 
+If you feel that Newark InOne is violating this Privacy Statement, please contact [our websupport team](https://web.archive.org/custsrv/sendmail.html). 
 
 We collect click-stream data such as referring URL, browser and platform, time of visit, pages visited and searches performed. These statistics are used to help us improve the performance of our website and better serve our customers. We analyze this data to establish trends and help us improve your online experience.
 
@@ -35,7 +33,7 @@ We generally respond to any e-mail questions, requests for service or informatio
 
 From time-to-time we may request information via surveys. Participation in these surveys is completely voluntary and you always have a choice whether or not to disclose this information. Survey information will be used to monitor or improve this website, and to improve our customer service and product offerings. 
 
-Find out how we maintain a high level of [security](https://web.archive.org/web/20050406004355id_/http%3A//www.newark.com/NewarkWebCommerce/newark/en_US/support/help/security.jsp) on our site. 
+Find out how we maintain a high level of [security](https://web.archive.org/web/20051221084917id_/http%3A//www.newark.com/NewarkWebCommerce/newark/en_US/support/help/security.jsp;jsessionid=TNIS4L2IVOXTOCXDUY0CFFYK2OTCIIV1) on our site. 
 
 The Newark InOne website may contain links to third-party sites. The linked sites are not under the control of Newark InOne, and the Newark InOne is not responsible for the contents of any linked site, any link contained in a linked site, any changes or updates to such linked sites, or any transmission from any linked site. Newark InOne is providing these links to third-party sites only as a convenience, and the inclusion of any link does not imply endorsement by Newark InOne of the site. 
 
@@ -43,7 +41,7 @@ Newark InOne grants you a limited license to access and make personal use of thi
 
 You are granted a limited, revocable, and nonexclusive right to create a hyperlink to the home page of newarkinone.com so long as the link does not portray Newark InOne, its parent company, or their products or services in a false, misleading, derogatory, or otherwise offensive matter. You may not use any Newark InOne logo or other proprietary graphic or trademark as part of the link without express written permission. 
 
-[Click here for Copyright and Trademark information](https://web.archive.org/web/20050406004355id_/http%3A//www.newark.com/NewarkWebCommerce/newark/en_US/support/help/copyright.jsp)
+[Click here for Copyright and Trademark information](https://web.archive.org/web/20051221084917id_/http%3A//www.newark.com/NewarkWebCommerce/newark/en_US/support/help/copyright.jsp;jsessionid=TNIS4L2IVOXTOCXDUY0CFFYK2OTCIIV1)
 
   
 
