@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405212600id_/http%3A//www.goireland.com/About/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221223959id_/http%3A//www.goireland.com/About/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - GoIreland.com
 
 [Home](https://web.archive.org/goireland.htm "Goireland Home page") [About us](https://web.archive.org/about/about_us.htm "Information Centre") [Privacy Policy](https://web.archive.org/about/privacy_policy.htm "GoIreland - Privacy Policy")  
   
-We at gorieland.com and gulliver.ie, (each of these websites are referred to here as the "site") are committed to protecting your privacy and this privacy statement sets out the use we make of any of your information that we may obtain by the use of our site. Both the goireland.com site, and the gulliver.ie site are operated by Gulliver InfoRes Services Ltd of FEXCO Centre, Langford Street, Killorglin, Co Kerry, Ireland (referred to here as "we"/"us"/"our"). 
+This privacy statement applies to users of the GoIreland.com and Gulliver.ie websites. It also applies where visitors to the GoIreland.com wish to book accommodation, on that site, as the accommodation booking section of the goireland.com website is powered by Gulliver Ireland. We at gorieland.com and gulliver.ie, (each of these websites are referred to here as the "site") are committed to protecting your privacy and this privacy statement sets out the use we make of any of your information that we may obtain by the use of our site. Both the goireland.com site, and the gulliver.ie site are operated by Gulliver InfoRes Services Ltd of FEXCO Centre, Langford Street, Killorglin, Co Kerry, Ireland (referred to here as "we"/"us"/"our"). 
 
 ## USE OF THIS SITE
 
@@ -28,6 +28,9 @@ This site contains links to other websites, which include, for example, in relat
 **Contacting Us**   
 If you have any questions about this privacy statement, or the security practices of this site, you can contact us by emailing us at [privacy@gulliverireland.com](mailto:privacy@gulliverireland.com), or writing us at the address above. Please mark correspondence "For the Attention of Privacy Officer". Also please contact us if you have any comments on how we can improve our privacy policies. We reserve the right to change or remove this privacy policy at our discretion and will post any new privacy policy here and we encourage you to visit this area frequently to stay informed. 
 
+**Access to or Rectification of Your Information**   
+You have the right to obtain a copy of the information that we hold about you. You can also request that we rectify or erase any information that we hold about you, if that information is incorrect. You can obtain information about yourself, or request a rectification or erasure, by writing to the Privacy Officer, GoIreland.com, Langford Street, Killorglin, Co Kerry, or by sending an email to [privacy@gulliverireland.com](mailto:privacy@gulliverireland.com). 
+
 **Irish Data Protection Commissioner**   
 Further information on your data privacy rights are available on the website of the Irish Data Protection Commissioner. <http://www.dataprivacy.ie/>
 
@@ -45,8 +48,6 @@ We also ask for your telephone number so our customer support representatives an
 
 **Marketing Information**   
 Where you have indicated that we may do so, we use the information that you have provided when making a booking, to inform you of new products or services offered by us, or to supply you with other promotional information. We also, with your consent, provide your details to selected third parties who may also inform you of new offers or promotions. You can contact us at any time where you no longer wish to receive such information. 
-
-We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you. 
 
 **Registered Users**   
 By registering with us, you can avail of the added benefits offered through the site. These include being able to cancel your reservation on line and to be able to book sets of accommodation in the one session, so you can create your own itinerary. Also by registration, we will store your information so that the input fields will automatically repopulate when you rebook during another session. We retain your registered information for these purposes. 
