@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015073727id_/http%3A//genome.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221075349id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
 
 # genome.gov | Web Site Privacy Policy
 
@@ -12,16 +12,19 @@ Thank you for visiting the National Human Genome Research Institute (NHGRI) Web 
 
 #### Information Automatically Collected and Stored
 
-When you browse through any Web site, certain personal information can be collected. We automatically collect and temporarily store the following information about your visit:
+When you browse through any Web site, certain information can be collected. We automatically collect and store the following information about your visit:
 
-  * The name of the domain you use to access the Internet (For example, aol.com, if you are using an America Online account)
+  * The name of the domain or IP address you use to access the Internet (For example, aol.com, if you are using an America Online account)
   * The date and time of your visit.
   * The pages you visited.
   * The address of the Web site you came from when you arrived at our site.
+  * The keywords you may enter into our search engine.
 
 
 
 We use this information for statistical purposes and to help make our site more useful to visitors. Unless it is specifically stated otherwise, no additional personal information will be collected.
+
+**Note** : As of January 2005, NHGRI has elected to run a customer satisfaction survey about genome.gov. Many National Institutes of Health (NIH) Web sites are now running customer satisfaction surveys, also. These surveys employ OMB-approved persistent cookies. Participation in this data collection effort is completely voluntary, and failure to respond will in no way affect the visitor's ability to access information. This information will be used by NIH solely for the purpose of improving our public Web sites. [More information is available on this use of persistent cookies](http://www.nih.gov/about/asci.htm). 
 
 #### Personally Provided Information
 
@@ -31,8 +34,10 @@ You do not have to give us personal information to visit our Web site. If you ch
 
 NHGRI does not disclose, give, sell or transfer any personal information about our visitors, unless required for law enforcement or by statute.
 
-Questions about NHGRI privacy policies should be sent to the NHGRI webmaster at: [webmaster@nhgri.nih.gov](mailto:webmaster@nhgri.nih.gov).
+#### P3P Compliance
+
+NHGRI's public Web sites comply with P3P (Platform for Privacy Preferences Project) protocols. Our machine-readable P3P policy can be viewed at <http://www.genome.gov/w3c/p3p.xml>. Questions about NHGRI privacy policies should be sent to the NHGRI webmaster at: [Questions and Feedback](https://web.archive.org/10005049).
 
 * * *
 
-_Last Reviewed: September 2004_
+_Last Updated: June 2005_
