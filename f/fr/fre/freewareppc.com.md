@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewareppc.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207151019id_/http%3A//www.freewareppc.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewareppc.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221204008id_/http%3A//www.freewareppc.com/privacy.shtml) for the most accurate reproduction.*
 
 # FreewarePPC.com - Freeware Pocket PC: Privacy Statement
 
@@ -18,7 +18,7 @@ FreewarePPC.com has security measures in place to protect the loss, misuse and a
 
 FreewarePPC.com site contains links to other sites and file downloads from other sites. We are not responsible for the privacy practices or the content of such websites. 
 
-FreewarePPC.com works with some third party that serves ads to the site. To find out more about how they manages the privacy of information in conjunction with serving ads on this site, please go to their sites: [Adtegrity.com](http://www.adtegrity.com/privacy.asp). 
+FreewarePPC.com works with some third party that serves ads to the site. To find out more about how they manages the privacy of information in conjunction with serving ads on this site, please go to their sites: [Google.com](https://www.google.com/adsense/policies?hl=en_US). 
 
 By using our Website, you consent to the collection and use of your personal information by FreewarePPC.com as outlined in this Privacy Policy. 
 
