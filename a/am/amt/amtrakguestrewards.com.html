@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amtrakguestrewards.com privacy policy that was archived on 2005-02-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050206204450id_/http%3A//www.amtrak.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amtrakguestrewards.com privacy policy that was archived on 2005-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051221180536id_/http%3A//www.amtrak.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Amtrak - Online Privacy &amp; Security</title>
@@ -54,14 +54,23 @@ gVersion="1.2";
 <script language="Javascript">
 <!--
 
+	var defSiteWiseParams = "&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Online+Privacy+&amp;+Security;Help";
+	var iSiteWiseCName = "";
+	var iSiteWiseEDt = "&WT.mc_r=1474";
 
-	var sSiteWiseParams = "&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Online+Privacy+&amp;+Security;Help";
-
-	if(sSiteWiseParams.indexOf("WT.cg_s")==-1){
-		sSiteWiseParams+="&WT.cg_s=Root";
+	if(defSiteWiseParams.indexOf("WT.cg_s")==-1){
+		defSiteWiseParams+="&WT.cg_s=Root";
 	}
-
-	var CMS_dcsqry = "pagename=Amtrak/PrivacyPolicy" + sSiteWiseParams;
+	
+	if(window.location.search.indexOf("WT.mc_n")==-1){ // -- internal
+		if(iSiteWiseCName){	
+			defSiteWiseParams += iSiteWiseCName;
+			if(iSiteWiseEDt){
+				defSiteWiseParams += iSiteWiseEDt;
+			}
+		}
+	}
+	var CMS_dcsqry = window.location.search + defSiteWiseParams;
 	var CMS_dcsuri = window.location.pathname;
 //-->
 </script>
@@ -173,7 +182,7 @@ gVersion="1.2";
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="775">
-<tbody><tr>
+<tbody><tr height="400">
 	<td bgcolor="#4A7DB0" align="center" valign="top">
 	
 
@@ -194,8 +203,8 @@ gVersion="1.2";
 
 
 
-<a href="http://tickets.amtrak.com">
-<img src="http://www.amtrak.com/images/sidebarPromo_makeReservation.gif" width="156" height="128" border="0" alt="It's Easy to Make a Reservation. Book Now."><br><br>
+<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/e-Cards/am2ECardsPage&amp;c=am2Copy&amp;cid=1093553981514&amp;ssid=6">
+<img src="http://www.amtrak.com/images/sidebar_promo.gif" width="156" height="128" border="0" alt="Send a Holiday E-Card Greeting. Send Now."><br><br>
 </a>
 
 
@@ -511,9 +520,18 @@ Updated: September 12, 2004</p>
 				<td><img src="/images/spacer.gif" width="585" height="1"></td>
 			</tr>
 	
-		<tr>
+		</tbody></table>
+	</td>
+</tr>
+
+<!-- footer -->
+<tr>
+	<td bgcolor="#4a7db0">&nbsp;</td>
+	<td>
+		<table width="100%" cellspacing="0" cellpadding="5" border="0">
+		<tbody><tr>
 			<td>
-			
+				
 
 
 
@@ -583,15 +601,22 @@ Updated: September 12, 2004</p>
 
 
 			</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-				<img src="/images/spacer.gif" width="585" height="1">
-			</td>
+			
+			
+			
 		</tr>
 		</tbody></table>
+				
 	</td>
 </tr>
+<!-- footer -->
+
+<tr>
+	<td colspan="2">
+		<img src="/images/spacer.gif" width="585" height="1">
+	</td>
+</tr>
+
 </tbody></table>
 
 
