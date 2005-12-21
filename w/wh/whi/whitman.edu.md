@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607055108id_/http%3A//www.whitman.edu/pieces/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221184300id_/http%3A//www.whitman.edu/pieces/privacy.cfm) for the most accurate reproduction.*
 
 # Statement of Privacy
 
@@ -27,7 +27,7 @@ Whitman College is the sole owner of the information collected on this site. We 
 A cookie is a piece of information placed on the user's hard drive by a web site containing information about the user or the user's selections on a web page. Unlike many commercial sites, usage of a cookie on our web site is in no way linked to any personally identifiable information after you leave our site. Once users close their browsers, the cookie simply terminates. By setting a cookie on our site, the user does not have to log in a password more than once, thereby saving time while on our site. Users may set cookie security levels to accept or reject cookies by configuring their browser software appropriately. 
 
 **Log files**  
-We use internet protocol (IP) addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. (An IP address is a 32-bit number that identifies each sender or receiver of information and is sent in packets across the Internet. See [Whatis.com's definition of IP Address](http://searchwebmanagement.techtarget.com/sDefinition/0,,sid27_gci212381,00.html) for further information.) IP addresses are not linked to personally identifiable information. Certain addresses are also provided access to campus-only intranet materials. 
+We use internet protocol (IP) addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. (An IP address is a 32-bit number that identifies each sender or receiver of information and is sent in packets across the Internet. See [Wikipedia](http://en.wikipedia.org/wiki/Ip_address) for further information.) IP addresses are not linked to personally identifiable information. Certain addresses are also provided access to campus-only intranet materials. 
 
 **Sharing of information**  
 We use outside shipping companies to deliver bookstore orders, and credit card processing companies to bill users for goods and services. 
@@ -51,4 +51,4 @@ If you have any questions about the security at our web site, you can send an em
 If a person's personal information (such as address or phone number) changes we will endeavor to provide a way to correct, or update that user's personal data. Send corrections to [Whitman Webteam](mailto:webteam@whitman.edu).
 
 **How to contact us with questions or comments**  
-You can reach us through one of the following [contacts](https://web.archive.org/web/20040607055108id_/http%3A//www.whitman.edu/pieces/comments.html) or through the [Office of Communication](mailto:communication@whitman.edu). 
+You can reach us through one of the following [contacts](https://web.archive.org/web/20051221184300id_/http%3A//www.whitman.edu/pieces/comments.html) or through the [Office of Communication](mailto:communication@whitman.edu). 
