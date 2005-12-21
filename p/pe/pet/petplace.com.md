@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308104422id_/http%3A//www.petplace.com/Corporate/corpSiteTextHandler.asp%3Fcode%3DPrivacy%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221155449id_/http%3A//www.petplace.com/Corporate/corpSiteTextHandler.asp%3Fcode%3DPrivacy%2BStatement) for the most accurate reproduction.*
 
 # PetPlace.com - Corporate
-
-**We have some exciting new offerings for our registered users. These offerings include a Pet Journal, On-line Photo Album, Personal Newsletter, and the ability to Nominate Your Pet for PetPlace.com’s Pet of the Week.**
-
-In support of these new offerings we are changing our Privacy Policy. Please read the terms of this new policy below and make an appropriate selection.
-
-**_Privacy Policy_**
 
 At Intelligent Content Corp., the creators of PetPlace.com, we are committed to protecting the privacy of the users of our site and the security of the information they provide to us.
 
