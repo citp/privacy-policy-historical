@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the chrome.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404103329id_/http%3A//www.chrome.com/maing2/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrome.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221232735id_/http%3A//www.chrome.com/maing2/privacy/index.asp) for the most accurate reproduction.*
 
-# Chrome Systems Corporation | Privacy
+# Chrome Systems Inc. | Privacy
 
 |   
 
 
-_This privacy statement discloses the privacy practices for Chrome Systems Corporation ("Chrome") websites, including www.chrome.com, www.webcarbook.com, www.chromeautobuilder.com, and www.chromecarbook.com (the "Sites")._
+_This privacy statement discloses the privacy practices for Chrome Systems Inc.("Chrome") websites, including www.chrome.com, www.webcarbook.com, www.chromeautobuilder.com, and www.chromecarbook.com (the "Sites")._
 
 **Information Collection and Use**
 
@@ -34,7 +34,7 @@ If we decide to change our privacy statement, we will post those changes here. C
 If you have questions or comments regarding this privacy policy, you should contact: 
 
 Privacy Policy Group  
-Chrome Systems Corporation  
+Chrome Systems Inc.  
 700 NE Multnomah, Suite 1500  
 Portland, OR 97232  
 [**privacyconcerns@chrome.com**](mailto:privacyconcerns@chrome.com)
