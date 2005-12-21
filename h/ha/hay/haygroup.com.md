@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haygroup.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307012920id_/http%3A//www.haygroup.com/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haygroup.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221113315id_/http%3A//www.haygroup.com/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Hay Group - Privacy Policy
 
