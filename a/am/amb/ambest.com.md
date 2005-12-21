@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ambest.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527040856id_/http%3A//www.ambest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambest.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221093016id_/http%3A//www.ambest.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Privacy Statement  
-_Last Updated September 27, 2002_
+ _Last Updated September 27, 2002_
 
 Protecting your privacy is an important issue to the A.M. Best Company. This privacy statement is not intended to replace, alter or modify terms in any existing license agreement between A.M. Best Company and/or its subsidiaries (collectively "A.M. Best") and a Licensee of products or services. In the event of an inconsistency between this privacy statement and an existing agreement, the license agreement shall remain in control unless specific written permission is obtained from A.M. Best.
 
@@ -71,14 +71,12 @@ We communicate with users on a regular basis to provide requested services and i
 **Opt-out**  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to the Web Site at the point where we ask for information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [webmaster@ambest.com](mailto:webmaster@ambest.com). We also offer an opt-out mechanism in an [on-line form](https://www3.ambest.com/customers/pauseemail.asp?template=sabout)
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [webmaster@ambest.com](mailto:webmaster@ambest.com). We also offer an opt-out mechanism in an [on-line form](http://www.ambest.com/membercenter)
 
 Users of the Web Site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
 **Updating Personal Information**  
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information.
-
-This can be done from our [Customer Information Form](https://www3.ambest.com/sFrames/fs.asp?site=customers) or by emailing [customer_service@ambest.com](mailto:customer_service@ambest.com). You can also change your email address quickly at our [Email Address Change form](https://www3.ambest.com/customers/changeemail.asp?)
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done from our [Member Center](http://www.ambest.com/membercenter) or by emailing [customer_service@ambest.com](mailto:customer_service@ambest.com). 
 
 **Contact Information**  
 If users have any questions or suggestions regarding our Privacy Policy, please contact us at [webmaster@ambest.com](mailto:webmaster@ambest.com).
