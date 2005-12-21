@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406085342id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221043223id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
 
 # Howstuffworks "Privacy Statement for HowStuffWorks.com"
 
@@ -11,7 +11,7 @@ With respect to the Web pages that are co-branded with LycosZone, the Lycos Priv
 Here are the details of our privacy policies. This statement may change over time -- please review it periodically. 
 
 Types of Information Collected; Uses of Information  
-We collect some non-personally identifiable information automatically and some in our registration forms and online surveys. Non-personally identifiable information might include your IP address, the type of browser or operating system you use, the domain name from which you linked to our site, your zip code, your age, your income level and other general demographic information. We use this non-personally identifiable information to help diagnose problems with our server, and to administer our Web site; and we may share it with our affiliates, or with out other business partners on an aggregated basis. 
+We collect some non-personally identifiable information automatically and some in our registration forms and online surveys. Non-personally identifiable information might include your IP address, the type of browser or operating system you use, the domain name from which you linked to our site, your zip code, your age, your income level and other general demographic information. We use this non-personally identifiable information to help diagnose problems with our server, and to administer our Web site; and we may share it with our affiliates, or with our other business partners on an aggregated basis. 
 
 Our site's registration form and online surveys may also request or require users to give us personally identifiable information (like their name, telephone number, home address and e-mail address). We may use the information from our registration forms and surveys to contact the user, but users may opt-out of receiving future mailings (see the choice/opt-out section below). We will not sell or disclose your personally identifiable data to any third party that is not an affiliate of HowStuffWorks.com unless: (i) we transfer of our business assets (as further described below); (ii) we first obtain permission from you; (iii) we need to share it with agents or contractors who perform services for us; or (iv) we are required by law to disclose it. 
 
