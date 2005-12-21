@@ -1,109 +1,357 @@
-<!--The following is the downloaded HTML source of the juneauempire.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403205847id_/http%3A//juneauempire.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the juneauempire.com privacy policy that was archived on 2005-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051221204257id_/http%3A//juneauempire.com/privacy.shtml) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>JuneauEmpire.com: Privacy Policy</title>
-	<style type="text/css">
-	td, body {
-		font-family: verdana, arial, sans-serif;
-		font-size: 10 px;
-	}
-	
-	a {
-		text-decoration: none;
-	}
-	</style>
-	<script language="JavaScript">	
-	function processSearch()
-		{
-		formObj = document.searchform;
-		// Capture the Data Entered in Text Field
-		myQuery = formObj.search.value;
-		myMaxHits = "5";
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
+	<title>JuneauEmpire.com: </title>
 
-		// SearchEngines = document.searchform.location.value;
-		SearchEngines = "&search=" + myQuery + "&maxhits=" + myMaxHits + "&location=Yahoo&location=Excite&location=AltaVista";
-
-		// Make Sure They Entered a search to Search For
-		if (myQuery == "") 
-			{
-			alert ("Please enter a search value first!");
-			formObj.search.focus();
-			} 
-		else 
-			{
-			// Determine Which Radio Button Was Selected
-			for (count = 0; count < 4; count++) 
-				{
-				if (formObj.rsearch[count].checked) 
-					{
-					Selected = count;
-					}
-				}
-
-			// Perform Action Based on What Was Selected
-			if (Selected == "0") 
-				{
-				myQuery = 'http://morriscomm.com/cgi-bin/search.pl?HTTP_REFERER=http://www.lubbockonline.com/'+SearchEngines;
-				} 
-			else if (Selected == "1") 
-				{
-				myQuery ='http://www.zip2.com/lubbock/scripts/search.dll?ep=0&qstate=TX&qcity=Lubbock&query='+myQuery;
-				} 
-			else if (Selected == "2") 
-				{
-				myQuery ='http://apmoneywire.mm.ap.org/?SITE=NEYOR&type=ticker&lookup=quote&mode=quickquote&company='+myQuery;
-				} 
-			else if (Selected == "3") 
-				{
-				myQuery ='http://classifieds.lubbockonline.com/classifieds-bin/classifieds?temp_type=detail&misc=1&classification=classifieds&SEARCH_LOGIC=AND&MAXREC=20&date=today&property=LUBBOCK+TX&KEYWORDS='+myQuery;
-				}
 		
-			location.href=(myQuery);
-			}
-			
-		return false;
-		} // end processSearch
+	<meta name="DESCRIPTION" content="JuneauEmpire.com is the online publication of The Juneau Empire, the daily newspaper in Juneau, Alaska, USA.">
+	<meta name="KEYWORDS" content="Juneau,Empire,JuneauEmpire.com,Alaska,AK,Southeast,Panhandle,newspapers,news,papers,information,info,sports,weather,forecasts,obituaries,obituary,story,stories,coverage,local,opinions,letters,editors,editorials,regional,state,archives,outdoors,press,reporters,reports,front,pages,prints,subscribes,classifieds,jobs,homes,houses,real,estate,realtors,employment,cars,autos,boats,ads,advertisements,advertisers,net,marketplaces,merchandise,buy,sell,help,wanted,sales,JDHS,Juneau-Douglas,Crimson,bears,High,Schools,relocation,guides,living,FAQ,tourism,visitors,guides,tours,Outside,inside,passages,Alaskans,Tlingit,Haida,Natives,Juno,Junaeu,Joneau,Juneao,Juneo,voice,states,capital,capitol,legislatures,governments,elections,Douglas,north,west,islands,Mendenhall,glaciers,Valleys,Lemon,Creeks,West,Fritz,Coves,Thane,Downtown,Auke,Auk,Bays,Points,Lena,Gastineau,Channel,Out,Road,Treadwell,Perseverance,Eaglecrest,Tongass,National ,Forests,Tee,Harris,Aurora,Harbor,entertainment,this,week,slideshows,photos,gallery,galleries,TV,television,listings,message,boards,movies,specials,sections,gold,medals,metals,rush,days,celebrations,salmon,derby,fishing,marine,carriers,routes,polls,calendars,events,community,neighbors,cruises,ships,schedules,police,fire,emails,e-mails,newsletters,web,search,engines,Haines,Skagway,Ketchikan,Sitka,Petersburg,Petersberg,Pelican,Hoonah,Admiralty,Talkeetna,Whitehorse,Yukon,,Associated,Press,AP,wires,publishers,Morris,Communications,Digital,Works,">
+
+	
+	
+	
+	<meta http-equiv="Expires" content="NOW">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta name="OWNER" content="Morris Communications Corporation">
+	<meta name="AUTHOR" content="The Juneau Empire">
+	<link rel="AUTHOR" href="http://juneauempire.com/">
+	<meta name="PUBLISHER" content="The Juneau Empire">
+	<link rel="PUBLISHER" href="mailto:webmaster@juneauempire.com">
+	<meta name="ROBOTS" content="ALL,index,follow">
+	<meta name="REVISIT-AFTER" content="15 days">
+	<meta name="CLASSIFICATION" content="Family">
+	
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+	
+	
+
+	<script src="http://www.juneauempire.com/js/mainlib.js" language="JavaScript"></script>
+	<link rel="stylesheet" href="/includes/style.css">
+
+	<!------------- OAS SETUP BEGINS ------------>
+	<script language="JavaScript">
+	<!--
+		//configuration
+		OAS_url = 'http://ads.juneauempire.com/RealMedia/ads/';
+		//OAS_sitepage = 'window.location.hostname + window.location.pathname;
+		OAS_sitepage = 'juneauempire.com/index.shtml';
+		OAS_listpos = 'TopLeft,TopRight,Middle,Middle1,Middle2,Middle3,Right,Right1,Right2,Right3,x01,x02,x03,x04,x05,x06,';
+		OAS_query = '';
+		OAS_target = '_new';
+		//end of configuration
+		OAS_version = 10;
+		OAS_rn = '001234567890'; OAS_rns = '1234567890';
+		OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring(2, 11);
+		function OAS_NORMAL (pos) {
+			document.write('<a href="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" target=' + OAS_target + '>');
+			document.write('<img src="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" Border=0></a>');
+		}
+	//-->
 	</script>
+	
+	<script language="JavaScript1.1">
+	<!--
+		OAS_version = 11;
+		if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+			OAS_version = 10;
+		if (OAS_version >= 11)
+			document.write('<SCR' + 'IPT language=JavaScript1.1 src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
+	//-->
+	</script><script language="JavaScript1.1" src="http://ads.juneauempire.com/RealMedia/ads/adstream_mjx.ads/juneauempire.com/index.shtml/1818186313@TopLeft,TopRight,Middle,Middle1,Middle2,Middle3,Right,Right1,Right2,Right3,x01,x02,x03,x04,x05,x06,?"></script>	
+
+	<script language="JavaScript">
+	<!--
+		document.write('');
+		function OAS_AD(pos) {
+			if (OAS_version >= 11)
+				OAS_RICH(pos);
+			else
+				OAS_NORMAL(pos);
+		}
+	//-->
+	</script>
+	<!------------- OAS SETUP END ------------>
+
+	
+	<!-- SiteCatalyst code version: G.5.
+	Copyright 1997-2003 Omniture, Inc. More info available at
+	http://www.omniture.com -->
+	<script language="JavaScript" src="http://www.juneauempire.com/includes/javascript/omni.js"></script>
+	<script language="JavaScript"><!--
+	/* You may give each page an identifying name, server, and channel on
+	the next lines. */
+	var url_arr = new String (window.location.hostname + window.location.pathname).split('www\.');
+	var s_pageName= (url_arr[0] == '') ? url_arr[1] : url_arr[0];
+	var s_server="www.juneauempire.com"
+	var s_channel=""
+	var s_pageType=""
+	var s_prop1=""
+	var s_prop2=""
+	var s_prop3=""
+	var s_prop4=""
+	var s_prop5=""
+	var s_prop6=""
+	var s_prop7=""
+	var s_prop8=""
+	var s_prop9=""
+	var s_prop10=""
+	// s_prop 11 - 20 dedicated for MDW Corporate
+	var s_prop11=reg_gender // Gender
+	var s_prop12=reg_zipcode // Zip Code
+	var s_prop13=reg_age_range   // Age
+	var s_prop14=reg_subscriber   // Subscriber
+	var s_prop15="AK"    // MDW_Region
+	var s_prop16="Metro"    //  MDW_Group
+	var s_prop17="News"     //  MDW_Cat
+	var s_prop18="Local News"        // MDW_Sub_Cat
+	var s_prop19=""
+	var s_prop20=""
+	
+	/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
+	//--></script><script language="JavaScript" src="http://www.juneauempire.com/includes/javascript/s_code_remote.js"></script>
+	<!-- End SiteCatalyst code version: G.9. -->
+	<!-- End Omniture Information -->
+	
+
+
+
 </head>
 
 <body bgcolor="#ffffff" text="#000000" link="#003366" vlink="#003366" alink="#003366">
 
 <div align="center">
 
-<!-- ADVERTISING -->
-<table border="0" cellpadding="0" cellspacing="2" align="center" width="660">
+
+<!-- MAIN TABLE -->
+
+<table border="0" cellpadding="0" cellspacing="0" width="745">
+
+<!-- FIRST ROW: OAS AD CALLS, BLANK SPACE -->
 <tbody><tr>
-	<td align="center"><a href="whatsup/index.shtml"><img src="/ads/whatsupad.gif" width="468" height="60" border="1"></a></td>
-</tr>
-</tbody></table>
-<!-- /ADVERTISING -->
-<br>
-<!--MAIN TABLE-->
-<table border="0" cellpadding="0" cellspacing="0" align="center" width="660">
-<!-- HEADER -->
-<tbody><tr>
-	<td bgcolor="#003366" colspan="5">
-		<img src="images/misc/tlhead.gif" width="52" height="14" hspace="0" vspace="0" border="0" align="left">
-		<img src="images/misc/trhead.gif" width="52" height="14" hspace="0" vspace="0" border="0" align="right">
-		<br clear="all">
-		<center>
-		<img src="images/flag.gif" width="384" height="74" hspace="0" vspace="0" border="0">
-		</center>
-	</td>
-</tr>
-<!-- /HEADER -->
-<tr>
-	<td bgcolor="#A9B7E4" colspan="5">
-		<img src="images/misc/c1dot.gif" height="3" width="660"><br>
-	</td>
-</tr>
-<tr>
-	<td width="4" bgcolor="#A9B7E4"><img src="images/misc/c1dot.gif" height="300" width="4"><br></td>
-	<td width="166" bgcolor="#A9B7E4" align="center" valign="top">
-		<!-- MENU -->
+	<td valign="bottom" align="center" colspan="3">
+
+		<!-- OAS AD CALLS -->
+		<table border="0" cellpadding="0" cellspacing="3" width="702" style="margin-left:auto;margin-right:auto;">
+		<tbody><tr>
 		
-							<table border="0" cellpadding="0" cellspacing="0" width="165">
+			<!-- OAS POSITION TOP LEFT -->
+			<td valign="top" align="center">
+				<script language="JavaScript">
+				<!--
+				OAS_AD('TopLeft');
+				//-->
+				</script>
+			</td>
+			<!-- /OAS POSITION TOP LEFT -->
+		
+		
+			<!-- OAS POSITION TOP RIGHT -->
+			<td valign="top" align="center">
+				<script language="JavaScript">
+				<!--
+				OAS_AD('TopRight');
+				//-->
+				</script>
+			</td>
+			<!-- /OAS POSITION TOP RIGHT -->
+		
+		</tr>
+		</tbody></table>
+		<!-- /OAS AD CALLS -->
+		
+		<img src="/images/misc/spacer.gif" alt="" width="745" height="3">
+
+	</td>
+
+
+</tr>
+<!-- /FIRST ROW: OAS AD CALLS, BLANK SPACE -->
+
+
+
+<!-- SECOND ROW: FLAG, BLANK SPACE -->
+<tr>
+	<td colspan="3" style="background-image: url(/images/misc/tricolorbg.gif)">
+		<table style="background-image: url(/images/headers/newheaderbg.jpg); background-repeat: no-repeat" width="745" height="54" border="0">
+		<tbody><tr>
+			<td><a href="http://juneauempire.com/"><img src="http://juneauempire.com/images/misc/spacer.gif" width="500" height="20" border="0"></a></td>
+			<td class="logintext_small">
+		
+				<script type="text/javascript">
+				<!--
+					var username = getCookie("mdwuser");
+					if (username == null || username == '') {
+						document.write('You are not logged in. <a href="http://www.juneauempire.com/login.shtml">Log in here<\/a>.');
+					}
+					else {
+						document.writeln ("Welcome, <b>" + username + "<\/b>!");
+					}
+				//-->
+				</script>
+		
+			</td>
+		</tr>
+		
+		<tr valign="bottom">
+			<td height="15">
+				<a href="http://juneauempire.com/autos"><img src="/images/misc/autoicon.gif" width="27" height="15" valign="bottom" border="0">AUTOS</a>&nbsp;&nbsp;<a href="http://juneauempire.com/works"><img src="/images/misc/jobicon.gif" width="27" height="15" valign="bottom" border="0">JOBS</a>&nbsp;&nbsp;<a href="http://classifieds.juneauempire.com/classifieds-bin/classifieds?classification=REAL%20ESTATE&amp;temp_type=search"><img src="/images/misc/homeicon.gif" width="27" height="15" valign="bottom" border="0">REAL ESTATE</a>&nbsp;&nbsp;<a href="http://classifieds.juneauempire.com/classifieds-bin/classifieds"><img src="/images/misc/classicon.gif" width="27" height="15" valign="bottom" border="0">CLASSIFIEDS</a>
+			</td>
+			<td class="logintext">
+				<a href="http://www.juneauempire.com/login.shtml">log in</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://register.juneauempire.com/forge?tp=JUNEAU%20AK&amp;tl=2&amp;temp_type=LOGIN&amp;category=REGISTRATION">log out</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://register.juneauempire.com/forge/dataentry?tp=JUNEAU%20AK&amp;tl=2&amp;temp_type=DATA%20ENTRY&amp;category=REGISTRATION">my account</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#" onclick="window.open('http://juneauempire.com/registration/faq.shtml','new','width=500,height=650,resizable=yes,scrollbars=yes');">faq</a>
+			</td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+<!-- /SECOND ROW: FLAG, BLANK SPACE -->
+
+
+
+<!-- THIRD ROW: NAVIGATION ROW, TOP ADS COLUMN -->
+<tr>
+
+	<!-- TOP NAVIGATION BAR FROM INCLUDE -->
+	<td colspan="3">
+		<div style="margin-left:auto;margin-right:auto;">
+		    <table width="100%" cellpadding="0" cellspacing="0" style="border-style: solid; border-width: 2px 0px 3px 3px; border-color: #a9b7e4;">
+	<tbody><tr>
+	<td colspan="3" bgcolor="#DFE5F9" align="left">
+
+	<a href="https://secure.juneaualaska.com/ecart/catalog/Juneau_Empire_Printed_Products.html"><img src="http://juneauempire.com/images/headers/purplearrow.gif" width="20" height="15" border="0" alt="Subscribe"><sup>subscribe</sup></a>
+	<a href="http://juneauempire.com/smart_search/"><img src="http://juneauempire.com/images/headers/purplearrow.gif" width="20" height="15" border="0" alt="Archives"><sup>archives</sup></a>
+	<a href="http://classifieds.juneauempire.com/classifieds-bin/classifieds?temp_type=search&amp;tl=13"><img src="http://juneauempire.com/images/headers/purplearrow.gif" width="20" height="15" border="0" alt="Stop N' Shop"><sup>stop n' shop</sup></a>
+	<a href="http://juneauempire.com/staff.shtml"><img src="http://juneauempire.com/images/headers/purplearrow.gif" width="20" height="15" border="0" alt="Archives"><sup>contact us</sup></a>
+	<a href="http://juneaubrides.com"><img src="http://juneauempire.com/images/headers/purplearrow.gif" width="20" height="15" border="0" alt="Weddings"><sup>juneau brides</sup></a>
+	<a href="http://www.southeastalaskahomes.com"><img src="http://juneauempire.com/images/headers/purplearrow.gif" width="20" height="15" border="0" alt="Real Estate"><sup>southeast alaska homes</sup></a>
+	<a href="http://www.alaskalegislature.com"><img src="http://www.juneauempire.com/images/headers/purplearrow.gif" width="20" height="15" border="0" alt="Legislature"><sup>aklegislature</sup></a>
+
+	<a href="http://www.juneaualaska.com"><img src="http://juneauempire.com/images/headers/purplearrow.gif" width="20" height="15" border="0" alt="JuneaAlaska.com"><sup>visitor guide</sup></a>
+
+	</td>
+	</tr>
+	<tr>
+	<td colspan="3" bgcolor="#a9b7e4">
+	<img src="http://www.juneauempire.com/images/spacer.gif" width="750" height="1" border="0" alt="">
+	</td>
+	</tr>
+	</tbody></table>
+
+		</div>
+	</td>
+	<!-- /TOP NAVIGATION BAR FROM INCLUDE -->
+</tr>
+<!-- /THIRD ROW: NAVIGATION ROW, TOP ADS COLUMN -->
+
+
+
+<!-- FOURTH ROW: LEFT RAIL, CENTER COLUMN, RIGHT RAIL -->
+<tr>
+	<td width="165" bgcolor="#a9b7e4" align="center" valign="top">
+	
+		<!-- LEFT RAIL TABLE -->
+		<table cellpadding="0" cellspacing="0" border="0" width="165" bgcolor="#a9b7e4">
+		<tbody><tr>
+			<td valign="top">
+			
+
+				<!-- NAVIGATION MENU INCLUDE -->
+							<div align="center">
+		<!-- Member services -->
+			<style type="text/css">
+			<!--
+				.login_body {
+					background-color: #e2e6ef;
+					padding: 10px;
+				}
+				.login_text {
+					color: #000;
+					font-size: 10px;
+					font-family: verdana, geneva, arial, sans-serif;
+					text-align: center;
+				}
+				.login_text a:link {
+					color: #03284d;
+					text-decoration: none;
+				}
+				.login_text a:visited {
+					color: #03284d;
+					text-decoration: none;
+				}
+				.login_text a:hover {
+					color: #03284d;
+					text-decoration: underline;
+				}
+				.login_text a:active {
+					color: #8091c5;
+					text-decoration: underline;
+				}			
+			-->
+			</style>
+
+			<table width="155" border="0" cellspacing="0" cellpadding="0">
+	
+				<tbody><tr>
+					<td><img src="http://www.juneauempire.com/regfiles/images/head_login.gif" alt="" height="15" width="155" border="0"></td>
+				</tr>
+				<tr>
+					<td class="login_body" align="center">
+						<div class="login_text">
+							<script language="javascript">
+							<!--
+								// name - name of the desired cookie
+								// * return string containing value of specified cookie or null if cookie does not exist
+									function getCookie(name) {
+									var dc = document.cookie;
+									var prefix = name + "=";
+									var begin = dc.indexOf("; " + prefix);
+									if (begin == -1) {
+										begin = dc.indexOf(prefix);
+										if (begin != 0) return null;
+									} else
+										begin += 2;
+									var end = document.cookie.indexOf(";", begin);
+									if (end == -1)
+										end = dc.length;
+									return unescape(dc.substring(begin + prefix.length, end));
+									}
+							//-->
+							</script>
+							<script language="javascript">
+							<!--
+								var username = getCookie("mdwuser");
+								if (username == null || username == '') {
+									document.writeln ("You are not logged in");
+								} else {
+									document.writeln ("<b>Welcome, " + username + "</b>");
+								}
+							//-->
+							</script>You are not logged in
+<br>
+							<a href="http://www.juneauempire.com/login.shtml">Log In</a> • <a href="http://register.juneauempire.com/forge?tp=JUNEAU%20AK&amp;tl=2&amp;temp_type=LOGIN&amp;category=REGISTRATION">Log Out</a><br>
+							<a href="http://register.juneauempire.com/forge/dataentry?tp=JUNEAU%20AK&amp;tl=2&amp;temp_type=DATA%20ENTRY&amp;category=REGISTRATION">My Account</a> • <a href="#" onclick="window.open('http://juneauempire.com/registration/faq.shtml','new','width=500,height=650,resizable=yes,scrollbars=yes');">FAQ</a><br><a href="http://www.juneauempire.com/login.shtml">Join Now</a><br>
+						</div>
+	
+
+					</td>
+				</tr>
+				<tr>
+					<td><img src="http://www.juneauempire.com/regfiles/images/login_foot.gif" alt="" height="10" width="155" border="0"></td>
+				</tr>
+			</tbody></table>
+		
+		
+		<!-- End services include -->
+
+
+		<img src="http://www.juneauempire.com/images/misc/spacer.gif" alt=" " width="165" height="6">
+
+
+
+				<table border="0" cellpadding="0" cellspacing="0" width="165">
 					<tbody><tr>
 						<td></td>
 					
@@ -162,10 +410,11 @@
 								<tr>
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
 									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://juneauempire.com/business/" target="_top"><b>Business News</b></a></font></td>
+
 								</tr>
 								<tr>
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
-									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://www.juneauempire.com/smart_search/" target="_top"><b>Archives</b></a></font></td>
+									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://juneauempire.com/smart_search/" target="_top"><b>Archives</b></a></font></td>
 								</tr>
 								<tr>
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
@@ -173,8 +422,16 @@
 								</tr>
 								<tr>
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
-									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://juneauempire.com/ap/" target="_top"><b>National AP Wire</b></a></font></td>
+									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://ap.juneauempire.com/pstories/" target="_top"><b>National AP Wire</b></a></font></td>
 								</tr>
+								
+								<tr>
+									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
+									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://juneauempire.com/RSS" target="_top"><b>RSS Feed</b></a></font></td>
+								</tr>
+								
+
+								
 								<tr>
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
 									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://juneauempire.healthology.com" target="_top"><b>Health</b></a></font></td>
@@ -207,18 +464,24 @@
 			
 						<td bgcolor="#E2E6EF" valign="TOP">
 							<table border="0" cellpadding="0" cellspacing="2" width="100%">
+									
 								<tbody><tr>
-									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
-									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://juneauempire.com/goldmedal/" target="_top"><b>Gold Medal 2005</b></a></font></td>
-								</tr>
-								<tr>
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
 									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://juneauempire.com/sports/" target="_top"><b>Local Sports</b></a></font></td>
 								</tr>
 								<tr>
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
 									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://juneauempire.com/outdoors/" target="_top"><b>Empire Outdoors</b></a></font></td>
-								</tr>	
+								</tr><tr>
+									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
+									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://juneauempire.com/softball/" target="_top"><b>Juneau Softball</b></a></font></td>
+								</tr>
+
+								<tr>
+									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
+									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://juneauempire.com/goldmedal/" target="_top"><b>Gold Medal 2005</b></a></font></td>
+								</tr>
+									
 								<tr>
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
 									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://golfnews.juneauempire.com" target="_top"><b>Golf News &amp; Scores</b></a></font></td>
@@ -236,7 +499,7 @@
 					<tr>
 						<td style="background-color:#009966;"><img src="http://www.juneauempire.com/images/misc/spacer.gif" width="5" height="33" alt=""></td>
 						<td colspan="2" style="background-color:#336699; border-top: 1px solid #336699; border-bottom: 1px solid #336699;" height="33">
-							<img src="http://www.juneauempire.com/juneaudirect/images/jdfrontbanner.gif" width="156" height="33">
+							<img src="http://www.juneauempire.com/juneaudirect/images/jdfrontbanner.gif" width="156" height="45">
 						</td>
 					</tr>
 					<tr>
@@ -247,17 +510,17 @@
 							<tbody><tr>
 								<td valign="top">
 									<img src="http://www.juneauempire.com/images/misc/spacer.gif" width="1" height="2" border="0"><br>
-									<b style="font-size:9px">Enter Search Term &amp; Location</b>
+									<b style="font-size:10px" face="verdana, arial, sans-serif">Enter Search Term &amp; Location</b>
 								</td>
 							</tr>
 							</tbody></table>
 									
 							<table width="100%" cellpadding="5" cellspacing="0" border="0" style="background-color:#FFFFCE;">
 							<tbody><tr>
-								<td valign="top" style="font-size:9px">
-									<i>Search Text Examples:</i><br>
+								<td valign="top" style="font-size:10px" face="verdana, arial, sans-serif">
+									<i>Examples:</i><br>
 									<div style="text-indent:-8px; padding-left:8px">• hotels by the Juneau Airport</div>
-									<div style="text-indent:-8px; padding-left:8px">• sushi near 99801</div><br>
+									<div style="text-indent:-8px; padding-left:8px">• sushi near 99801</div>
 										<center>
 										<form name="Form1" method="post" action="http://juneaudirect.juneauempire.com/search.aspx">
 											<input name="SearchHidden" id="SearchHidden" type="hidden">
@@ -266,7 +529,8 @@
 											<input type="submit" name="submit" value="Search">
 										</form>
 										<center>
-									<center><a href="mailto:webteam@juneauempire.com"><b style="font-size:10px"><i>Get Your Business Listed</i></b></a><center>
+										<div align+"center"="" style="text-indent:-8px; padding-left:8px"><b><i>More than a phone book...<br>it's a fresh look!</i></b></div><br>
+									<center><a href="mailto:webteam@juneauempire.com"><b style="font-size:10px"><i>Get Your Business Listed</i></b></a><br><center>
 									<img src="http://www.juneauempire.com/images/misc/spacer.gif" width="1" height="5" border="0">
 								</center></center></center></center></td>
 							</tr>
@@ -295,7 +559,24 @@
 			
 						<td bgcolor="#E2E6EF" valign="TOP">
 							<table border="0" cellpadding="0" cellspacing="2" width="100%">
-								<tbody><tr>
+							    
+							    
+							    <tbody><tr>
+									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
+									<td><font color="#993333" face="verdana, arial, sans-serif" size="1"><a href="http://www.juneauempire.com/monthly" target="_new"><b>Summer Monthly</b></a></font></td>
+								</tr>
+							    
+							    <tr>
+									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
+									<td><font color="#993333" face="verdana, arial, sans-serif" size="1"><a href="http://www.juneauempire.com/uas/index.shtml" target="_new"><b>UAS Connections</b></a></font></td>
+								</tr>
+							    
+							    <tr>
+									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
+									<td><font color="#993333" face="verdana, arial, sans-serif" size="1"><a href="http://www.juneauempire.com/jobfair" target="_new"><b>Job Fair</b></a></font></td>
+								</tr>
+
+								<tr>
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
 									<td><font color="#993333" face="verdana, arial, sans-serif" size="1"><a href="http://www.capitalcityweekly.com" target="_new"><b>Capital City Weekly</b></a></font></td>
 								</tr>
@@ -325,13 +606,10 @@
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
 									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://juneauempire.com/slideshow/" target="_top"><b>Slideshows</b></a></font></td>
 								</tr>
+								
 								<tr>
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
-									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://forums.juneauempire.com/cgi-bin/bb/ultimatebb.cgi" target="_top"><b>Message Board</b></a></font></td>
-								</tr>
-								<tr>
-									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
-									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://juneauempire.com/tv/" target="_top"><b>TV Week</b></a></font></td>
+									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://juneauempire.com/tv/" target="_top"><b>Select TV</b></a></font></td>
 								</tr>
 								<tr>
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
@@ -375,7 +653,7 @@
 								</tr>
 								<tr>
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
-									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://classifieds.juneauempire.com/classifieds-bin/classifieds?tp=Juneau+AK&amp;temp_type=ALT_DETAIL&amp;classification=CLASSIFIEDS&amp;property=Juneau+AK&amp;tl=4&amp;ad_type=display" target="_top"><b>Net Marketplace</b></a></font></td>
+									<td><font face="verdana, arial, sans-serif" size="1"><a href="http://classifieds.juneauempire.com/classifieds-bin/classifieds?temp_type=search&amp;tl=13" target="_top"><b>Stop N' Shop</b></a></font></td>
 								</tr>
 								<tr>
 									<td width="6"><img src="http://juneauempire.com/images/misc/c1dbl_arrow.gif" width="6" height="5" hspace="2" alt=""></td>
@@ -425,19 +703,42 @@
 				
 			
 				</tbody></table>
+					
+				<br>
+					<div align="center"><a href="http://juneauempire.com/works/" target="_blank"><img src="http://www.juneauempire.com/images/JuneauWorks.gif" alt="" height="126" width="150" border="0"></a>
+					</div>
+				
 
-		<!-- /MENU -->
+
+
+				<!-- /NAVIGATION MENU INCLUDE -->
+		
+				<br>
+				
+			</div></td>
+		</tr>
+		</tbody></table>
+		<!-- LEFT RAIL TABLE -->
 		
 	</td>
-	<td width="5" bgcolor="#A9B7E4"><img src="/images/misc/c1dot.gif" height="300" width="5"><br></td>
+	<!-- /LEFT RAIL -->
+
+
+	<!-- CENTER (CONTENT) COLUMN -->
 	<td valign="top" align="center">
-		<img src="/images/misc/citl_crv.gif" height="5" width="5" align="left" hspace="0" vspace="0">
-		<img src="/images/misc/dot_clear.gif" height="1" width="477"><br>
-		<!-- story table -->
-		<table border="0" cellpadding="0" cellspacing="5">
+		<img src="/images/misc/citl_crv.white.gif" height="5" width="5" align="left" hspace="0" vspace="0" alt="">
+		<img src="/images/misc/citr_crv.white.gif" height="5" width="5" align="right" hspace="0" vspace="0" alt="">
+		<br clear="all">
+
+
+		<!-- CENTER COLUMN TABLE -->
+		<table cellpadding="5" cellspacing="0" border="0" bgcolor="#ffffff" width="100%">
 		<tbody><tr>
-			<td valign="top">
-				<!-- story content -->
+			<td valign="top" align="left">
+				<!-- CENTER COLUMN CONTENT -->
+
+
+				
 				<font face="verdana, arial, sans-serif" size="2">
 
 				<b><font size="4">JuneauEmpire.com Privacy Policy</font></b>
@@ -446,7 +747,7 @@
 					JuneauEmpire.com is committed to protecting consumer privacy online. We
 					believe that greater protection of personal privacy on the Web will not
 					only protect consumers, but also increase consumer confidence and
-					ultimately their participation in online activities. At JuneauAlaska.com,
+					ultimately their participation in online activities. At JuneauEmpire.com,
 					we intend to give you as much control as possible over your personal
 					information.
 					</p><p>
@@ -597,14 +898,21 @@
 					it. When we collect other information from our users, it is stored in an
 					area where the general public does not have access to it.
 					</p><p>
-					
-					<b>VI. Opting-out</b>
+
+					<b>VI. Your Choice to Opt Out</b>
 					</p><p>
-					
-					At any time while assessing our site(s), any user while online may
-					"opt-out" of further e-mail contact from us (while still allowing access to
-					our site(s)). For further information about opting-out, contact us at the
-					e-mail addresses, postal addresses or telephone numbers stated above.
+
+					The quality news and information on JuneauEmpire.com is supported by advertising
+					revenue. Like other Web publishers, in the future we will sometimes
+					send e-mail about services, features, products, special offers and unique
+					content we believe might interest you (based on information obtained from your usage patterns)
+					on behalf of our advertising and promotional partners. If you prefer not
+					to receive e-mail communications sent
+					from us on behalf of our advertisers and promotional partners, you will be given
+					an opportunity to opt out from receiving any more emails. Opting out will revoke
+					your membership to JuneauEmpire.com, therefore denying access to complete news content.
+					By registering as a member of JuneauEmpire.com, you agree to receive emails from us
+					on behalf of our selected advertisers. 
 					</p><p>
 					
 					<b>VII. Use of Materials</b>
@@ -634,24 +942,52 @@
 				
 				</font>
 				<!-- story content -->
+
+				<!-- CENTER COLUMN CONTENT -->
 			</p></td>
 		</tr>
 		</tbody></table>
-		<!-- story table -->
+		<!-- /CENTER COLUMN TABLE -->
+
 	</td>
-	<td width="3" bgcolor="#c5ccdf"><img src="/images/misc/c1dot.gif" height="30" width="3"><br></td>
+	<!-- /CENTER (CONTENT) COLUMN -->
+
+
+	<!-- RIGHT RAIL -->
+	<td bgcolor="#a9b7e4" valign="top" width="3" align="right">
+	<!-- RIGHT RAIL TABLE -->
+		<table cellpadding="0" cellspacing="0" border="0" bgcolor="#a9b7e4" width="3">
+		<tbody><tr>
+		<td valign="top" bgcolor="#a9b7e4">
+		<img src="/images/misc/spacer.gif" alt="" width="3" height="6">
+		<br>
+		</td>
+		</tr>
+		</tbody></table>
+		<!-- /RIGHT RAIL TABLE -->
+	</td>
+	<!-- /RIGHT RAIL -->
+
+
 </tr>
+<!-- /FOURTH ROW: LEFT RAIL, CENTER COLUMN, RIGHT RAIL -->
+
+
+
+<!-- FIFTH ROW: SPACER ROW -->
 <tr>
-	<td bgcolor="#c5ccdf" colspan="5">
-		<img src="/images/misc/c1dot.gif" height="3" width="660"><br>
-	</td>
+	<td bgcolor="#a9b7e4" width="165"><img src="/images/misc/spacer.gif" alt="" width="165" height="3" hspace="0" vspace="0"></td>
+	<td bgcolor="#a9b7e4" width="577"><img src="/images/misc/spacer.gif" alt="" width="577" height="3" hspace="0" vspace="0"></td>
+	<td bgcolor="#a9b7e4" width="3"><img src="/images/misc/spacer.gif" alt="" width="3" height="3" hspace="0" vspace="0"></td>
 </tr>
+<!-- /FIFTH ROW: SPACER ROW -->
 
-</tbody></table>
-<!--main table-->
 
-<p>
-</p><p style="font-size:9px;text-align:center;">
+
+<!-- SIXTH ROW: COPYRIGHT, BLANK SPACE -->
+<tr>
+	<td colspan="3" align="center">
+		<p style="font-size:9px;text-align:center;">
 All contents ©Copyright 1997-2005 
 <a href="http://juneauempire.com/">Juneau Empire</a>,
 <a href="http://morrisdigitalworks.com/">Morris Digital Works</a> 
@@ -675,7 +1011,16 @@ All contents ©Copyright 1997-2005
 
 
 
-<p></p>
+	</td>
+</tr>
+<!-- /SIXTH ROW: COPYRIGHT -->
+
+
+
+</tbody></table>
+<!-- /MAIN TABLE -->
+
+
 
 </div>
 
