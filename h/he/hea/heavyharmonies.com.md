@@ -1,29 +1,46 @@
-> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207184718id_/http%3A//www.heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221130129id_/http%3A//heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
 
 # Heavy Harmonies - Privacy Statement
 
-**_Nov. 18, 2003_ \- Ratings option turned back on for all site visitors. Be forewarned, if you abuse the disc ratings function, I can and will disable the ability to rate the CD. **  
----  
-**_Nov. 10, 2003_ \- In response to action by BMI/RIAA, all audio has been removed from the site. This includes the "Song of the Week", which will not be returning. If you represent a band that wishes to have their audio clips played here, that's fine, however I will need explicit permission in writing, as well as written waiver of any BMI/ASCAP/SOCAN performance royalties. -Dan**  
   
+  
+|  |   
+---|---|---  
+Your ongoing support of Heavy Harmonies is appreciated!   
+  
+_Last updated October 7, 2005_
 
-
-_Last updated January 6, 2001_
-
-The success of Heavy Harmonies depends upon our ability to maintain the trust of our users. Below is information regarding our commitment to protect the privacy of users and to ensure the integrity of the Internet. 
+The success of Heavy Harmonies depends upon our ability to maintain the trust of our users. Below is information regarding our commitment to protect the privacy of users. 
 
 Heavy Harmonies has created this privacy statement in order to demonstrate our firm commitment to viewers' privacy. The following paragraphs disclose our information gathering and dissemination practices for the Heavy Harmonies website: 
 
-When you choose to submit CDs for inclusion in the Heavy Harmonies database, your email address is requested. It is not given out to third parties (with the exception that large contributors are listed by email address in the credits section on the _About the Site_ page). You can request that your email address not be listed in the credits section by sending email to the address listed at the bottom of this page. 
+### Email Addresses
+
+When you choose to submit information for inclusion in the Heavy Harmonies database, your email address is requested for contact purposes. Also, when you register to add comments to the CD pages on the site, you are asked to provide your email address. Your email address will not be given out, traded, or sold to third parties. 
+
+### Cookies
+
+Your web browser will store information about Heavy Harmonies to make your visit more convenient: (1) when you change your setting for the display of the band pages, that setting is stored in your browser so it is remembered on your next visit, and (2) when you login to leave comments, your login and password are stored in your web browser so you do not have to re-enter them.
+
+You have the option of blocking the use of Cookies by changing a setting in your web browser. Please see your browser supplier's Web site for details on how to do this.
+
+### Logs
+
+We use log files to collect Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use this information to analyze site usage, administer the site, understand usage and navigation trends, and determine the viability of content. This information, is NOT linked to any personally identifiable information.
+
+### Links
 
 This site contains links to other sites. Heavy Harmonies is not responsible for the privacy practices or the content of such web sites. 
 
-A mailing list for updates/communication about Heavy Harmonies is offered via a third party site, [www.egroups.com](http://www.egroups.com/). This mailing list is available strictly via voluntary subscription. Your visit to the Heavy Harmonies web site does NOT automatically subscribe you to the mailing list. Any information provided to egroups.com is not used by Heavy Harmonies, nor will it be distributed by Heavy Harmonies. 
-
-The **Ebay Monitor** feature utilizes cookies to store your list of CDs in your browser. No personal information is stored. 
+### Contact
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact 
 
 **Dan Harding**  
-webmaster of Heavy Harmonies  
+Owner, Heavy Harmonies  
 [webmaster@heavyharmonies.com](mailto:webmaster@heavyharmonies.com)
+
+Heavy Harmonies  
+P.O. Box 17212  
+Urbana, IL 61803  
+USA
