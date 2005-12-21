@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528131532id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221204931id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.*
 
 # Apartment Ratings :: The leading source of apartment reviews by renters for renters.
 
