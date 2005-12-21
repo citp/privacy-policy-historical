@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zophar.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403195149id_/http%3A//www.zophar.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zophar.net privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221161237id_/http%3A//www.zophar.net/privacy.html) for the most accurate reproduction.*
 
 # Zophar's Domain: Privacy Policy
 
@@ -51,8 +51,4 @@ We do not give visitors to our Web Site the option of using a secure transmissio
 You can ask us whether we are keeping personal data about you by emailing [swampgas@zophar.net](mailto:swampgas@zophar.net). Please allow 2-6 weeks for processing, and be prepared to give proper identification. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data erased, rectified or amended, or completed. We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal. We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data.
 
 9\. PRIVACY COMPLIANCE AND CONCERNS  
-If at any time you feel that this policy is not fair, illegal, outdated, or have an enquiry or concern, please contact us at the address given in Item 8 above, and include contact info.  
-  
-Copyright ©1996-2004 Sam Michaels. All Rights Reserved.  
-Zophar's Domain is not affiliated with any company mentioned herein unless explicitly stated otherwise. The systems listed on this page are patented by their respective patent holders, and the names are trademarked by their respective trademark holders.  
-[Privacy Policy](https://web.archive.org/privacy.html)
+If at any time you feel that this policy is not fair, illegal, outdated, or have an enquiry or concern, please contact us at the address given in Item 8 above, and include contact info.
