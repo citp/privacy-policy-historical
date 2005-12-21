@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403205847id_/http%3A//juneauempire.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221204257id_/http%3A//juneauempire.com/privacy.shtml) for the most accurate reproduction.*
 
-# JuneauEmpire.com: Privacy Policy
+# JuneauEmpire.com:
 
 **JuneauEmpire.com Privacy Policy**
 
-JuneauEmpire.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At JuneauAlaska.com, we intend to give you as much control as possible over your personal information. 
+JuneauEmpire.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At JuneauEmpire.com, we intend to give you as much control as possible over your personal information. 
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. 
 
@@ -45,9 +45,9 @@ These privacy policies are effective as of Dec. 1, 1999. We reserve the right to
 
 We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it. 
 
-**VI. Opting-out**
+**VI. Your Choice to Opt Out**
 
-At any time while assessing our site(s), any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our site(s)). For further information about opting-out, contact us at the e-mail addresses, postal addresses or telephone numbers stated above. 
+The quality news and information on JuneauEmpire.com is supported by advertising revenue. Like other Web publishers, in the future we will sometimes send e-mail about services, features, products, special offers and unique content we believe might interest you (based on information obtained from your usage patterns) on behalf of our advertising and promotional partners. If you prefer not to receive e-mail communications sent from us on behalf of our advertisers and promotional partners, you will be given an opportunity to opt out from receiving any more emails. Opting out will revoke your membership to JuneauEmpire.com, therefore denying access to complete news content. By registering as a member of JuneauEmpire.com, you agree to receive emails from us on behalf of our selected advertisers. 
 
 **VII. Use of Materials**
 
