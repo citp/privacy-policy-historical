@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kstp.com privacy policy that was archived on 2004-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041016105423id_/http%3A//kstp.com/article/stories/s277.html%3Fcat%3D63) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kstp.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221221126id_/http%3A//www.kstp.com/article/stories/s277.html%3Fcat%3D63) for the most accurate reproduction.*
 
 # 5 EYEWITNESS NEWS Privacy Policy
+
+Print Story | Email to a Friend 
 
 5 EYEWITNESS NEWS (KSTP-TV, LLC) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: [www.KSTP.COM](http://www.kstp.com/). This privacy policy applies only to information collected by or through this Web site. It does not apply to information obtained by other means.
 
