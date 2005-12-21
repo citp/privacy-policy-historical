@@ -1,62 +1,70 @@
-> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412155216id_/http%3A//cbronline.com/cbr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221163838id_/http%3A//cbronline.com/display_copy.asp%3Fref%3Dprivacy) for the most accurate reproduction.*
 
-# CBR Online Latest News: Privacy Policy
+# Privacy Policy - Computer Business Review
 
-**CBR Online Privacy Policy**  
-CBR Online considers the privacy of its clients to be of utmost importance and is committed to protecting the privacy of its users. This statement  
-outlines our privacy and data protection policy. Steps have been taken to ensure that consistently high standards of data protection are adhered to in  
-all regional offices for all the forms of processing mentioned.
+**Overview**
 
-**Collection and Use of User Details**
+1\. The Data Protection Act 1998 regulates the processing of information relating to you and grants you various rights in relation to your personal data, one of these rights is that an organisation tells you how it will use this personal data. 
 
-Personal details of users of CBR Online will be collected and processed upon registration to our website. All personal information is collected with the  
-knowledge of our customers via the Website's order and registration forms only. CBR Online and ComputerWire fully conform to the Data Protection  
-Act 1998.
+2\. Datamonitor plc ("Datamonitor", "we", "us") is committed to ensuring that your privacy is protected and that it complies with its obligations under the Data Protection Act 1998. 
 
-**Why we ask for this information**
+3\. This Policy explains how we use the information which we collect about you when you use the services offered by us through our web site ("site"). 
 
-We ask for information to find out more about our users in general. This helps us improve our service to you, and allows us to give our advertisers and  
-partners a clear idea of who uses our site and what their interests are. We also log hits on our web pages and use them in aggregate to see what kind  
-of users visit which parts of the site.
+**The information we collect and how we use it**
 
-**Sending you e-mail**
+4\. We and other companies in our group will collect personal information (such as your name, address, etc.) about you when you register with us and when you subsequently visit the site. We do not collect any personal information about you except when you specifically and knowingly provide such information. 
 
-If you sign up for CBR Online's news alerting service, we will send you e-mail to alert you to stories that match your personal alerting profile. These  
-e-mails may contain targeted promotional messages.   
-The Computer Business Review web site 
+5\. We may use the personal information that you provide for the following purposes: 
 
-_www.cbronline.com_
+  
 
-is free to access, and is supported by banner advertising and occasional Email list rentals by interested 3rd parties.   
-Any user information collected through forms, or newsletter subscriptions on this web site are only shared with advertisers or any other third parties in aggregate form.   
-Unsubscribe details can be found within all Email broadcasts.
+  * to customise the site in line with your preferences
+  
 
-**Using cookies**
+  * to help us and our partners, sponsors and other third parties understand the way in which users are visiting the site 
+  
 
-Cookies are small files that are placed on your computer by your browser. We use them to save information that helps you make the most of our  
-service. You can disable cookies by changing your browser preferences, but may find you have to enter the same information over and over again if you  
-use a personalised part of the CBR Online service regularly. A subscriber will have the cookie linked to their e-mail address as a way of identifying them.  
-We do not link this information to users' personal details. 
+  * to provide you with an online purchase facility for the ordering of products and services 
+  
 
-**Protecting your privacy**
+  * to tell you about products and services which we think may be of interest to you from time to time 
+  
 
-For some parts of the CBR Online service, we may issue you with a password which allows you to access and amend your personal details. It is  
-your responsibility to keep this password secret. We will strive to protect your personal information, but because of the way information is transmitted  
-over the Internet, we cannot guarantee its security.
 
-**Security Policy**
 
-CBR Online will maintain appropriate measures to ensure that users' personal details are not misused, accidentally destroyed, lost or altered  
-within the CBR Online server environment. 
+6\. You should however note that : 
 
-Occasions will arise when customer information is passed outside ComputerWire to other data processors (i.e. fulfilment bureaux,  
-database consultants etc.) but they will only act upon instruction from CBR Online in order to perform the services required.
+  
 
-**Changes to this policy**
+  * we and other companies in our group may transfer your personal information to countries outside Europe 
+  
+to protect your privacy we will, wherever practicable aggregate your personal information so that it is used by us in anonymised format   
 
-Our privacy policy may change from time to time. If it does, we will update this page. 
+  * if Datamonitor or a part of the Datamonitor business merges with or is sold to a third party the personal informational data stored in our database may be shared with or transferred to a third party so that they may continue to operate the site - we will take reasonable efforts to notify you of any such changes in advance 
 
-**Updating Customer Details**
+**Use of Cookies**
 
-It is important to us that we have your correct contact information so that you don't miss out on further correspondence or experience problems with the  
-delivery of products
+7\. When you first visit the site, we will send a "cookie" to your computer. A cookie is a file that identifies you as a unique user and is stored by your browser on your computer's hard drive. Cookies allow us to keep track of your usage of the web site and improve the quality of our service by tracking our user preferences. We may also choose to use cookies to store user preferences. A cookie can tell us, "This is the same computer that visited this site two days ago," but it cannot tell us, "This person is Joe Smith" or even, "This person lives in the United Kingdom." 
+
+8\. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent - although if you refuse cookies some parts of the service may not function properly. 
+
+**Links from other sites**
+
+9\. As we cannot prevent other websites referring to the site in a search result, as a link or within a frame you should ensure that if you access the site in this way that you have checked any privacy policies relating to those websites in addition. 
+
+**Security**
+
+10\. We have security procedures in place to protect your information from unauthorised access or modification, unlawful destruction and improper use or disclosure. 
+
+**Updating your personal information**
+
+11\. If any of the information that you have provided to us changes, please let us know the correct details by emailing us at info@datamonitor.com. 
+
+12\. If at any time you have any questions or concerns about our privacy policies, please email us at info@datamonitor.com 
+
+**Consent**
+
+13\. By registering your personal details, you consent to the use of your information as set out in this Privacy Policy and agree to be bound by the terms of this Policy 
+
+
+
