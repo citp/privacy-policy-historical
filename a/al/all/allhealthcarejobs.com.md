@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the allhealthcarejobs.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207044256id_/http%3A//www.allhealthcarejobs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhealthcarejobs.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221093846id_/http%3A//www.allhealthcarejobs.com/aspx/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
-The information collected by RTJobs.com is for internal marketing and customer service purposes only. We will use the information to provide the best possible service and value to our clients and the RTJobs.com community.
+The information collected by the AllHealthcareJobs Website is for internal marketing and customer service purposes only. We will use the information to provide the best possible service and value to our clients and the AllHealthcareJobs community.
 
 All information is considered confidential.
 
-The information that RTJobs.com collects is protected and available only to RTJobs.com our parent company Intravision Software, Inc. and our staff.
+The information that the AllHealthcareJobs Website collects is protected and available only to AllHealthcareJobs , our parent company Intravision Software, Inc. and our staff.
 
 Any traffic, demographic, or marketing information collected is done with the express purpose of further understanding the marketplace and enhancing our site.
 
- **[View Terms and Conditions](https://web.archive.org/web/20050207044256id_/http%3A//www.allhealthcarejobs.com/terms.asp)**
+ **[View Terms and Conditions](https://web.archive.org/aspx/terms.aspx)**
