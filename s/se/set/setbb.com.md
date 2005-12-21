@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the setbb.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406010723id_/http%3A//www.setbb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setbb.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221195005id_/http%3A//www.setbb.com/privacy.html) for the most accurate reproduction.*
 
-# privacy
+# free message board hosting - free phpbb forum
 
-  **setbb.com** knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This statement describes our privacy policy. By visiting setbb.com, you are accepting the practices described in this Privacy Notice. The information we learn from customers helps us personalize and continually improve your experience at setbb.com. Here are the types of information we gather:
+**setbb.com** knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This statement describes our privacy policy. By visiting setbb.com, you are accepting the practices described in this Privacy Notice. The information we learn from customers helps us personalize and continually improve your experience at setbb.com. Here are the types of information we gather:
 
 We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features.
 
@@ -10,6 +10,4 @@ We use the information that you provide for such purposes as responding to your 
 
 We share your information only with your consent or as requested by the authority (police etc.) It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer setbb.com does not provide service for children under 18 years old. If you are below 18 years old, you may use setbb.com only with the involvement of a parent or guardian. 
 
-If you choose to visit setbb.com, your visit and any dispute over privacy is subject to this Statement and our Term of Service, including limitations on damages, arbitration of disputes, and application of the law of Australia. If you have any concern about privacy at setbb.com, please send us a thorough description to 
-
-help@setbb.com, and we will try to resolve it.
+If you choose to visit setbb.com, your visit and any dispute over privacy is subject to this Statement and our Term of Service, including limitations on damages, arbitration of disputes, and application of the law of Australia. If you have any concern about privacy at setbb.com, please send us a thorough description to help@setbb.com, and we will try to resolve it. 
