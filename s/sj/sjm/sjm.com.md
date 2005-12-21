@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sjm.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606093312id_/http%3A//www.sjm.com/legal/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sjm.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221190258id_/http%3A//www.sjm.com/legal/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Information Collection, Information Use, Children's Privacy, Communications from the Site, Sharing Information, Links to Other Web Sites, Surveys & Contests, Security, Updating Personal Information, Notification of Changes, Contact Information : St. Jude Medical
 
@@ -8,7 +8,7 @@ Privacy Policy
 |  |  | 
 
 ##  Privacy Policy  
-**Revised April 1, 2002**
+**Revised April 1, 2004**
 
 St. Jude Medical is committed to protecting the privacy of our Web site visitors. This privacy statement describes how we protect, gather, and use information from this St. Jude Medical Web site. We may change this privacy statement at any time for any reason. We will post changes to the privacy statement on this Web site.
 
@@ -31,7 +31,9 @@ Personal information is information that identifies you individually, such as yo
 
 Use of Personal Information
 
-St. Jude Medical keeps and uses the personal information collected about you on the contact form to respond to your questions and comments. We collect, keep, and use the information to register and track patients who have implanted St. Jude Medical devices.
+St. Jude Medical keeps and uses the personal information collected about you on the contact form to respond to your questions and comments.
+
+We collect, keep, and use the information to register and track patients who have implanted St. Jude Medical devices. In the United States, no patient consent or authorization is required to disclose information to medical device manufacturers for tracking purposes, in accordance with the Health Insurance Portability and Accountability Act (HIPAA). Your device is tracked in accordance with the Federal Food, Drug and Cosmetic Act. Compliance by manufacturers is mandatory within the United States.
 
 In addition, we may use this information to: 
 
@@ -43,6 +45,8 @@ In addition, we may use this information to:
 | Contact you about our products or services or those of others that may be of interest to you  
 | Learn about our customers and markets  
   
+Read our [link notice](https://web.archive.org/legal/websitetermscondition.aspx?section=LinkstoOtherWebSites) regarding links to other Web sites.
+
 Non-Personal Information
 
 Non-personal information is information that does not identify you individually. Non-personal information is information we collect from your computer, such as your Web browser, the date and time of your Web site visit, the Web address from which you accessed our site, the number of visitors to the site, the pages viewed, and the length of time on the Web site.
