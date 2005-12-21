@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305042222id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221153647id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at ¤ Only Free
 
 **TOP  
-Freebie Sites**
+Freebies Sites**
 
   
-[](http://www.thefreesite.com/)  
-  
-[](http://www.freebielist.com/)  
-  
-[](http://www.relmaxtop.com/) |  |   | 
+|  |   | 
 
 **Privacy Policy**
 
@@ -32,26 +28,28 @@ For questions regarding this privacy statement or the practises of this site, pl
   
   
   
+[](https://web.archive.org/go/di.asp?slke7qn2fh)|   [Stop paying for your music. Legally download your favorite music for free! Get FREE, legal music downloads with MPFree! Fast and easy, No credit card required, Nothing to buy, Choose from more than 500,000 free songs, including the latest hits, All music is yours to keep--play it, burn it, save it, No commitments, no obligations, and nothing to buy!](https://web.archive.org/go/di.asp?slke7qn2fh)  
+---|---  
    
   
-**HOT Freebies!**
+[](http://feeds.feedburner.com/OnlyFree-NewestFreebiesAndFreeStuff "Subscribe to my feed, Only Free - Newest FREEBIES and FREE Stuff")
 
-**FREE $500 Baby Shopping Spree!**
+[](http://add.my.yahoo.com/rss?url=http://feeds.feedburner.com/OnlyFree-NewestFreebiesAndFreeStuff "Only Free - Newest FREEBIES and FREE Stuff")
 
-Get all of your baby needs!
+**100% Free !**
 
-**Free Nintendo DS!**
+**Free Swiffer Sweep+Vac !**
 
-Get a portable video game for free.
+Say Goodbye to your broom and dustpan.
 
-**FREE Laptop Computer!**
+**Free Audiobooks!**
 
-100% Free!
+100 % Free!
 
-**FREE Desktop Computer!**
+**Free Canon Digital Rebel XT!**
 
-100% Free!
+Sign up & Get!
 
-**FREE $500 Grocery Shopping Spree!**
+**Free Dell, Sony, or HP Laptop computer!**
 
-Good at all supermarkets nationwide!
+EXCLUSIVE
