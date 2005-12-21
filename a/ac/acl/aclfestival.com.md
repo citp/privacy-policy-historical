@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclfestival.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527101728id_/http%3A//www.aclfestival.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclfestival.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221170601id_/http%3A//www.aclfestival.com/privacy.asp) for the most accurate reproduction.*
 
 # Austin City Limits - Privacy Statement
 
