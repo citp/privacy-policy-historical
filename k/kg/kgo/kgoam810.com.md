@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403114946id_/http%3A//www.kgoam810.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221174611id_/http%3A//kgoam810.com/article.asp%3Fid%3D49819) for the most accurate reproduction.*
 
 # KGO-AM 810 NewsTalk
+
+  | 
 
 **KGO-AM RADIO, INC. PRIVACY POLICY**
 
@@ -97,3 +99,6 @@ Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our 
  _Amendment Procedure and Questions Regarding this Privacy Policy_
 
 We may amend this Privacy Policy at any time.  If we amend this Privacy Policy to permit material changes in the way we collect, use and/or share your personal information, we will notify you of such changes by sending you an e-mail at the last e-mail address that you provided to us, and/or by prominently posting notice of the changes on our website(s).  Any such material changes to this Privacy Policy will be effective thirty (30) calendar days following either our dispatch of an e-mail notice to you or our posting of notice of the changes on our website(s).  Any such material changes to this Privacy Policy may affect our use and sharing of personal information that you provided to us before our notification to you of the changes.  If you do not wish to permit material changes in our collection, use or sharing of your personal information that you have provided to us before the effective date of such changes, you must so notify us before that effective date.  Please be advised, however, that, regardless of whether you provide such notice to us, the changes to this Privacy Policy will apply to any personal information that you provide to us on or after the effective date of such changes.
+
+  
+| 
