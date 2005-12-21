@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecornell.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305132720id_/http%3A//www.ecornell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecornell.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222005323id_/http%3A//www.ecornell.com/privacy) for the most accurate reproduction.*
 
 # eCornell - Privacy Policy
 
@@ -12,7 +12,7 @@ eCornell is committed to protecting your privacy. The following Privacy Policy d
 
 If you choose to register for enrollment in one or more programs offered through eCornell, you will be required to provide certain enrollment information that we need to process your application for enrollment. This site automatically recognizes and records certain non-personal information, including the name of the domain and host from which you access the Internet (for example, aol.com or cornell.edu); the Internet protocol (IP) address of the computer you are using; the browser software you use and the operating system; the date and time you access this site; and the Internet address of the web site from which you linked directly to this site. We may also collect tracking information through the use of cookies, which place certain identifying information on your computer to facilitate your future access.
 
-This site also includes links to other websites hosted by third parties. When you access any such website from this site, use of any information you provide will be governed by the privacy policy of the operator of the site you are visiting. For example, many of our pages contain chat functionality provided by a third-party vendor, Live Person, Inc. For more information on how Live Person uses text entered in the Live Person chat window, see their [privacy policy](http://www.liveperson.com/help/privacy.asp). 
+This site also includes links to other websites hosted by third parties. When you access any such website from this site, use of any information you provide will be governed by the privacy policy of the operator of the site you are visiting. For example, many of our pages contain chat functionality provided by a third-party vendor, LivePerson, Inc. For more information on how LivePerson uses text entered in the LivePerson chat window, see their [privacy policy](http://www.liveperson.com/help/privacy.asp). 
 
 **How eCornell Uses This Information**  
 We do not sell, trade, or rent your personal information to others. We share your registration information with Cornell University, which will use it as a part of your enrollment in programs offered through eCornell. In addition, we may provide aggregated statistical data to reputable third-party vendors, but this data will include no personally identifying information. We may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of eCornell, Cornell University, our users, or others. We may also release information to your employer, if your enrollment is through a corporate agreement and disclosure is needed to comply with the employer's request for information, and to any third party administrator, if your enrollment is through this third party administrator and disclosure is needed to comply with the third party administrator's request for information.  
@@ -28,6 +28,8 @@ If you enroll in a program offered through eCornell, personally identifiable inf
 
 **Your Consent**  
 By using this website, you consent to the collection and use of this information by eCornell and by Cornell University for the purpose of your enrollment in programs offered through eCornell. If we decide to change our privacy policy, we will post those changes on this page before the changes take effect. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later. If you have questions about this Privacy Policy, please contact us at [helpdesk@ecornell.com](mailto:helpdesk@ecornell.com). 
+
+This policy was last updated on October 14, 2004.
 
   
 
