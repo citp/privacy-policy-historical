@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mymajors.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403221413id_/http%3A//www.mymajors.com/static/privacystatement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymajors.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221050612id_/http%3A//mymajors.com/static/privacystatement.jsp) for the most accurate reproduction.*
 
 # Privacy Statement
-
-Please note: this is a new version of MyMajors. Please report any problems to [admin@mymajors.com](mailto:admin@mymajors.com)
 
 ## Privacy Statement for MyMajors.com
 
