@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spainexchange.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205234422id_/http%3A//spainexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spainexchange.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221055732id_/http%3A//www.spainexchange.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for SpainExchange
 
@@ -29,3 +29,6 @@ To change and modify any information previously provided to us, you can send an 
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [Dori Kelsey](mailto:se@spainexchange.com). 
+
+  
+
