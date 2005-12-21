@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redfcu.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403111719id_/http%3A//www.redfcu.org/your_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redfcu.org privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221182825id_/http%3A//www.redfcu.org/your_privacy.htm) for the most accurate reproduction.*
 
 # RFCU's Privacy Statement
 
