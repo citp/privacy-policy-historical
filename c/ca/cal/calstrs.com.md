@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the calstrs.com privacy policy that was archived on 2003-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031218094831id_/http%3A//www.calstrs.com/Help/privacy/privandcopyright.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calstrs.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221063255id_/http%3A//www.calstrs.com/Help/privacy/privandcopyright.aspx) for the most accurate reproduction.*
 
 # Internet Privacy Principles & Policy
 
 **CalSTRS Internet Privacy Principles**
 
 Electronic privacy is crucial for the ongoing success of the Internet as a convenient means to provide customer service. To complete your CalSTRS business, coordination of efforts with other parties, such as the State Controller's Office, or your employer or health plan is necessary. Your personal information will be used only to conduct CalSTRS-related business.
+
+**Tips for Protecting Your CalSTRS Information**
+
+CalSTRS will never ask for your personal information in an unsolicited email or other type of electronic communication. If you receive such a request, please be aware that the party soliciting the information is not affiliated with CalSTRS and you may not want to respond or use any hyperlinks within the request without determining the source of the email and the purposes for which your personal information will be used. It is also possible that an unsolicited email could be an attempt to obtain your personal information for fraudulent activity.
 
 **CalSTRS Internet Privacy Policy**
 
