@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox29.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305224558id_/http%3A//www.fox29.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox29.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221081426id_/http%3A//www.fox29.com/privacy.shtml) for the most accurate reproduction.*
 
 # FOX29.COM | Philadelphia's FOX29 | FOX29 Privacy
 
