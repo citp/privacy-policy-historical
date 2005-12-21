@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the petinsurance.com privacy policy that was archived on 2003-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031218215850id_/http%3A//www.petinsurance.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petinsurance.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221174310id_/http%3A//www.petinsurance.com/privacy.cfm) for the most accurate reproduction.*
 
-# Veterinary Pet Insurance
-
-| 
-
-Privacy Policy
-
-We comply with the GLB privacy act as governed by federal law. For you convenience we have provided our privacy policy in conjunction with our national underwriter National Casualty Company and their property/casualty division Scottsdale Insurance Company.
+# Veterinary Pet Insurance - Insurance for Dogs, Cats, Puppies, Kittens, Avians, Exotics
 
 Privacy Statement
 
-We value you as a customer and respect your right to privacy. We know that you purchase our products and services be-cause you trust that we will stand behind our promises. We pledge our commitment to treat your information responsibly. We created this privacy policy to show you that we are working hard to protect your privacy.
+We comply with the GLB privacy act as governed by federal law. For your convenience we have provided our privacy policy in conjunction with our national underwriter National Casualty Company and their property/casualty division Scottsdale Insurance Company.
+
+We value you as a customer and respect your right to privacy. We know that you purchase our products and services because you trust that we will stand behind our promises. We pledge our commitment to treat your information responsibly. We created this privacy policy to show you that we are working hard to protect your privacy.
 
 How do we protect the confidentiality and security of your information? We use physical and technical safeguards to protect your information. We restrict access to your information to those who need it to perform their jobs. Third-party business partners are bound by law to use the information only for our purposes. They may not disclose it or use it in any other way. We comply with all data security laws.
 
@@ -24,16 +20,16 @@ What personal information do we collect about you? We collect personal informati
 
 What types of information do we disclose and to whom? We do not sell your information to anyone. We may disclose this information to a business that carries out services and marketing for us. We may disclose your information as required or permitted by law. We may disclose your information for a legal or regulatory purpose. These include the following types of information: 
 
-  * Information we receive from you on applications or other forms. This may include your name, address, beneficiaries, Social Security number, and family member information. This may also include assets, income, and the property ad-dress and value. 
-  * This may include information from your transactions with our sister companies, or us. It may include your account bal-ance, policy coverage, and payment history. It may also include premium paid, preferences, shares you purchase, claims, and purchase method. 
-  * This may include information we receive from a consumer-reporting agency or other reporting agencies. It may in-clude, your credit report, motor vehicle and driver data. It may also include medical and employment data, loss history reports, and other driver data. These depend on the products you select. 
+  * Information we receive from you on applications or other forms. This may include your name, address, beneficiaries, Social Security number, and family member information. This may also include assets, income, and the property address and value. 
+  * This may include information from your transactions with our sister companies, or us. It may include your account balance, policy coverage, and payment history. It may also include premium paid, preferences, shares you purchase, claims, and purchase method. 
+  * This may include information we receive from a consumer-reporting agency or other reporting agencies. It may include, your credit report, motor vehicle and driver data. It may also include medical and employment data, loss history reports, and other driver data. These depend on the products you select. 
   * We may disclose information to companies that perform marketing services on our behalf. As permitted by law, we may disclose some information to other financial institutions with which we have joint marketing agreements. 
 
 
 
 We do not sell your personal information. We do not share it, except for the reasons described above. Therefore, there is no need for an opt-out process.
 
-How do we use your medical information? We sometimes must collect medical information to provide you a product or to pay a claim. We do not use or share it, in-ternally or externally, for any purpose except the following: 
+How do we use your medical information? We sometimes must collect medical information to provide you a product or to pay a claim. We do not use or share it, internally or externally, for any purpose except the following: 
 
   * underwriting insurance, 
   * administering your policy, account, or claim, 
@@ -46,7 +42,7 @@ Questions?
 
 We value our customers and want you to understand how we use the information we collect. Please contact us if you have any questions about our privacy policy.
 
-We will provide you a copy of your personal information that we control and can reasonably retrieve. To access your in-formation, you must provide the following: 
+We will provide you a copy of your personal information that we control and can reasonably retrieve. To access your information, you must provide the following: 
 
   1. All policy numbers you want to access. 
   2. Please sign your request and have your signature notarized. This ensures the identity of the person requesting the information. 
@@ -62,7 +58,7 @@ Attn.: Compliance Manager
 P.O. Box 4110  
 Scottsdale, Arizona 85261-4110
 
-This privacy statement describes our privacy practices for both current and former customers. We will provide one copy of this notice to joint policy or contract holders; please share this information with everyone covered by your policy or con-tract. If you request, we will send more copies of this statement.
+This privacy statement describes our privacy practices for both current and former customers. We will provide one copy of this notice to joint policy or contract holders; please share this information with everyone covered by your policy or contract. If you request, we will send more copies of this statement.
 
 Thank you for choosing us.
 
@@ -71,4 +67,4 @@ We look forward to building a lifetime relationship with you.
 DVM Insurance Agency  
 Scottsdale Insurance Company  
 National Casualty Company  
-| 
+
