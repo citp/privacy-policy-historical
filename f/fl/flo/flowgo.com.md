@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the flowgo.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205173309id_/http%3A//www.flowgo.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowgo.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222075605id_/http%3A//www.flowgo.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# FLOWGO.com
+# Flowgo
 
 |  |   
 ---  
 |  |  |  |   
+|   
+|  |   
+---  
 |    
-
-
-[](http://www.rxlaughter.org/)
-
 |  | 
 
 |  |  |   
@@ -20,10 +19,9 @@ Privacy Policy
 
 * * *
 
-Effective as of October 6th, 2004 
-
-**THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME. PLEASE CHECK THIS PAGE FOR UPDATES OR REQUEST THE LATEST COPY FROM[PRIVACY@INTERMIX.COM](mailto:privacy@intermix.com).**
-
+Effective as of June 3, 2005  |  **THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME. PLEASE CHECK THIS PAGE FOR UPDATES OR REQUEST THE LATEST COPY BY[ **CONTACTING US ONLINE**](http://www.intermix.com/form_privacy.cfm?site_id=23).** | [](http://www.networkadvertising.org/)  
+---|---  
+  
 Intermix Network, LLC owns and/or operates a network of Web sites (referred to hereafter as the "Network") providing diversionary entertainment and topical news, information and editorial content to millions of users and subscribers daily. The information collection, use, maintenance and disposal practices of the Network are discussed in this privacy policy. 
 
 **1\. Collection of Information.**
@@ -39,15 +37,25 @@ Intermix Network, LLC owns and/or operates a network of Web sites (referred to h
 > 
 > **(a) Cookies.** A cookie is a small amount of data stored on the hard drive of the individual's computer that allows Network to identify the individual with his or her corresponding data that resides in Network's database. You may read more about cookies at [www.cookiecentral.com](http://www.cookiecentral.com/). 
 > 
-> **(b) Web beacons.** Web beacons are graphic images, often transparent and no larger than 1 pixel x 1 pixel, that are placed on a Web site or in an e-mail. Web beacons are used to monitor the behavior of the user visiting the Web site or opening the e-mail. When the HTML code for the Web beacon points to a site to retrieve the image, it simultaneously can pass along information such as the IP address of the computer that retrieved the image, the time the Web beacon was viewed and for how long, the type of browser that retrieved the image and previously set cookie values. The Network, or third parties acting on the Network's behalf, may utilize Web beacons on Web pages or in email for any legally permissible purpose. 
+> **(b) Third Party Cookies.** We send to your web browser many of the advertisements you see when you use our network of Web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you. 
 > 
-> **(c) General Behavior Tracking.** The Network may track online behaviors ("Behaviors") through its own technologies, including its desktop software products, in order to increase the effectiveness of the advertisements it delivers. Examples of such behaviors may include advertisement responses, websites that individuals visit, and products that individuals purchase. Individuals can prevent the tracking of Behaviors by globally unsubscribing from the Network's marketing materials. As described in Section 2.1, the Network reserves the right to use such technologies for any purpose permitted by law. 
+> _**Opting Out of Third-Party Ad Servers**_  
+>  If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability).
 > 
-> **(d) Information Automatically Collected.** For site maintenance, optimization, security and other legally permissible purposes, the Network's servers (or third party servers) may collect certain information about website visitors automatically. Such information may include such visitors' IP address, browser type, date, time and duration of visit and particular pages viewed, and such other information as is permitted by law. 
+> Currently, we have relationships with the following third-party ad networks (click to visit their Web site): 
 > 
-> **(e) New Technology.** The use of technology on the Internet is rapidly evolving, as is the Network's use of new technology. As previously stated, Network reserves the right to change this policy at any time without any additional notice to the user. As a result, the Network strongly encourages individuals to revisit this privacy policy from time to time for any updates regarding its use of technology. Use of any Network website constitutes acknowledgement and acceptance of the Network's Privacy Policy and the Network's right to modify such Privacy Policy without additional notice. 
+> 24/7 Real Media, Inc.  
+>  <http://www.247realmedia.com/privacy.html>
 > 
-> **1.4 Outside Information.** The Network may receive information about individuals from a third party or from other sources of information outside of the Network including information located in public databases ("Outside Information"). 
+> **(c) Web beacons.** Web beacons are graphic images, often transparent and no larger than 1 pixel x 1 pixel, that are placed on a Web site or in an e-mail. Web beacons are used to monitor the behavior of the user visiting the Web site or opening the e-mail. When the HTML code for the Web beacon points to a site to retrieve the image, it simultaneously can pass along information such as the IP address of the computer that retrieved the image, the time the Web beacon was viewed and for how long, the type of browser that retrieved the image and previously set cookie values. The Network, or third parties acting on the Network's behalf, may utilize Web beacons on Web pages or in email for any legally permissible purpose. 
+> 
+> **(d) General Behavior Tracking.** The Network may track online behaviors ("Behaviors") through its own technologies, including its desktop software products, in order to increase the effectiveness of the advertisements it delivers. Examples of such behaviors may include advertisement responses, websites that individuals visit, and products that individuals purchase. Individuals can prevent the tracking of Behaviors by globally unsubscribing from the Network's marketing materials. As described in Section 2.1, the Network reserves the right to use such technologies for any purpose permitted by law. 
+> 
+> **(e) Information Automatically Collected.** For site maintenance, optimization, security and other legally permissible purposes, the Network's servers (or third party servers) may collect certain information about website visitors automatically. Such information may include such visitors' IP address, browser type, date, time and duration of visit and particular pages viewed, and such other information as is permitted by law. 
+> 
+> **(f) New Technology.** The use of technology on the Internet is rapidly evolving, as is the Network's use of new technology. As previously stated, Network reserves the right to change this policy at any time without any additional notice to the user. As a result, the Network strongly encourages individuals to revisit this privacy policy from time to time for any updates regarding its use of technology. Use of any Network website constitutes acknowledgement and acceptance of the Network's Privacy Policy and the Network's right to modify such Privacy Policy without additional notice. 
+> 
+> **1.4 Outside Information.** The Network may receive information about individuals from a third party or from other sources of information outside of the Network including information located in public databases ("Outside Information"). provided however, that “Outside Information” shall not include any information which allows the Network to directly or indirectly personally identify any end user, and (ii) any information received in connection with any merger, acquisition, reorganization, change in capital structure, sale of all or substantially all of the assets of any Network division or website. 
 > 
 > **1.5 Individual Information.** As used herein, "Individual Information" means Survey Information, Other Information, Technology Information, and Outside Information, and any other information the Network gathers or receives about individuals. 
 > 
@@ -78,7 +86,7 @@ Intermix Network, LLC owns and/or operates a network of Web sites (referred to h
 **3\. Dissemination of Individual Information.**
 
 > **3.1 Sale to Third Parties.**   
->  The Network may sell or transfer Individual Information to third parties for any legally permissible purpose in the Network's sole discretion ("Data Sale"). A Data Sale shall not be defined to mean a merger, acquisition, change in capital structure, sale of all or substantially all of the assets of any Network division, or any activity specified in Section 3.2, 3.3, or 3.4 below. Each time the Network enters into a Data Sale, the Network will send an email ("Data Sale Notice") to individuals who have entered a valid email address into a Survey. The Data Sale Notice will contain instructions on how to prevent the individual's data from being sold to such specific third party. There is no guarantee that an individual will receive the Data Sale Notice due to technical failure, service provider email filtering mechanisms, or other unpredictable failures of transmission. Individuals that did not provide valid email addresses, or who no longer have the same email address, will not receive a Data Sale Notice. Failure to receive a Data Sale Notice shall not restrict the Network's ability to sell data under Section 3.1. 
+>  The Network may sell or transfer Individual Information to third parties in connection with any merger, acquisition, reorganization, change in capital structure, sale of all or substantially all of the assets of any Network division or website, or any activity specified in Section 3.2, 3.3, or 3.4 below. 
 > 
 > **3.2 Order Fulfillment.**   
 >  The Network will transfer Individual Information to third parties as necessary to provide a product or service that an individual orders from such third party while using one of the Network's websites or when responding to offers provided by the Network. 
@@ -106,9 +114,9 @@ Intermix Network, LLC owns and/or operates a network of Web sites (referred to h
 
 **6\. More Information.**
 
-> For more information about protecting your privacy, you may wish to visit [www.privacylaw.net](http://www.privacylaw.net/) or [www.privacyalliance.org](http://www.privacyalliance.org/). If you have questions about this policy, please contact us at [privacy@intermix.com](mailto:privacy@intermix.com). THE NETWORK RESERVES THE RIGHT TO UPDATE THIS POLICY FROM TIME TO TIME, SO YOU SHOULD REVIEW THIS WEB PAGE PERIODICALLY. 
-
-|   
+> For more information about protecting your privacy, you may wish to visit [www.privacylaw.net](http://www.privacylaw.net/) or [www.privacyalliance.org](http://www.privacyalliance.org/). If you have questions about this policy, please [contact us online](http://www.intermix.com/form_privacy.cfm?site_id=23) or at Intermix Network, LLC at 6060 Center Dr. Suite 300, Los Angeles, CA 90045. THE NETWORK RESERVES THE RIGHT TO UPDATE THIS POLICY FROM TIME TO TIME, SO YOU SHOULD REVIEW THIS WEB PAGE PERIODICALLY.   
+  
 |  |   
   
-| 
+|   
+|  | 
