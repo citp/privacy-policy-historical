@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharperimage.com privacy policy that was archived on 2005-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050619083010id_/http%3A//www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharperimage.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223002634id_/http%3A//www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml) for the most accurate reproduction.*
 
 # The Sharper Image - Privacy & Security
 
