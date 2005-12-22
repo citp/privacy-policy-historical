@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortlewis.edu privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405234027id_/http%3A//www.fortlewis.edu/faculty_staff/privacy_policy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortlewis.edu privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222112844id_/http%3A//www.fortlewis.edu/faculty_staff/privacy_policy/default.asp) for the most accurate reproduction.*
 
 # Web Site Privacy Policy
 
@@ -74,11 +74,10 @@ Neither Fort Lewis College nor any employee of the State of Colorado:
 Neither Fort Lewis College nor any employee of the State of Colorado shall be held liable for any losses caused by reliance on the accuracy, reliability, or timeliness of such information. Portions of such information may be incorrect or obsolete. Any person or entity that relies on any information obtained from this system does so at his or her own risk.
 
 **Contact Information  
-** To offer feedback about this website or about this Privacy Policy, you can contact our office:
+** To offer feedback about this website or about this Privacy Policy, you can contact:
 
-By Email: eppich_d@fortlewis.edu  
-By Telephone: 970.247.7328  
-By Fax: 970.247.7175  
-By Mail: David Eppich, External Affairs   
-1000 Rim Drive   
-Durango, CO 81301
+[Robin Cole, Webmaster](mailto:cole_r@fortlewis.edu)  
+Fort Lewis College  
+1000 Rim Drive  
+Durango, CO 81301-3999  
+
