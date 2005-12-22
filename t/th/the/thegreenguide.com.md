@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406005739id_/http%3A//www.thegreenguide.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222211613id_/http%3A//www.thegreenguide.com/about/privacy) for the most accurate reproduction.*
 
 # The Green Guide: Privacy Statement
 
@@ -22,7 +22,7 @@ Any changes made to the Privacy Policy will be prospective, not retroactive.
 
 Information Gathering 
 
-**General Information:** Our site uses order forms for customers to subscribe to our web site (TheGreenGuide.com) and our publication, The Green Guide, and sign up forms for customers to receive other information products and services, including but not limited to The Green Guide to Go, our bi-weekly green home e-bulletin. We use these forms to collect information from visitors (like their name, postal and e-mail addresses, interests, and credit card information in the case of an order). Contact information that is gathered is used to send orders to our customers, or to send e-mail bulletins and notices that they have requested. 
+**General Information:** Our site uses order forms for customers to subscribe to our web site (TheGreenGuide.com) and our publication, The Green Guide, and sign up forms for customers to receive other information products and services, including but not limited to The Green Guide to Go, our weekly green home e-bulletin. We use these forms to collect information from visitors (like their name, postal and e-mail addresses, interests, and credit card information in the case of an order). Contact information that is gathered is used to send orders to our customers, or to send e-mail bulletins and notices that they have requested. 
 
 We do not knowingly collect personal information from children under the age of thirteen. 
 
@@ -36,7 +36,7 @@ Information Use
 
 TheGreenGuide.com uses any information you voluntarily give to enhance your experience, whether to provide interactive or personalized elements on the site, to present content more effectively, or to make our future marketing efforts more efficient.
 
-TheGreenGuide.com uses information you voluntarily submit to send out email notices and electronic bulletins and to enable users to move seamlessly through our web site. We send out e-bulletins on a regular schedule (bi-weekly) and occasionally send out special e-notices when we think subscribers might be particularly interested in something we are doing.
+TheGreenGuide.com uses information you voluntarily submit to send out email notices and electronic bulletins and to enable users to move seamlessly through our web site. We send out e-bulletins on a regular schedule (weekly) and occasionally send out special e-notices when we think subscribers might be particularly interested in something we are doing.
 
 We also use tracking information to determine which areas of our site users like and do not like based on traffic to those areas.
 
@@ -90,17 +90,17 @@ _November 23, 2004_ Document amended.
 
 |  |  |  |    |  |  |  | 
 
-[](https://ssl.thegreenguide.com/subscribe/index.mhtml)
-
-[](http://www.tanklesswater.com/?source=greenguide) [](http://www.thegreenguide.com/ad/click.mhtml?c=lohas)
+[](https://web.archive.org/subscribe)
 
 Got a Question for _The Green Guide_? 
 
+[](https://web.archive.org/greenguidance.mhtml)
+
+[](https://web.archive.org/ad/click.mhtml?c=welovehome) [](https://web.archive.org/ad/click.mhtml?c=lagniappe)
+
 [](https://ssl.thegreenguide.com/cart/)
 
-[](https://web.archive.org/ad/click.mhtml?c=aff-emag)
-
-[Click here](https://web.archive.org/about/coupons) for over $100 worth of COUPONS for popular green products! 
+[Click here](https://web.archive.org/about/coupons) for over $350 worth of COUPONS for popular green products! 
 
 [](https://ssl.thegreenguide.com/donate/)
 
