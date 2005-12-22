@@ -1,19 +1,10 @@
-> *The following text is extracted and transformed from the importatlanta.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308005314id_/http%3A//www.importatlanta.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the importatlanta.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222070445id_/http%3A//importatlanta.com/privacy.php) for the most accurate reproduction.*
 
-# IA Privacy Policy
+# IMPORTATLANTA.COM >>> your only source for import coverage & scene...
 
-[](http://www.radioia.com/)  
+  |   | 
 
-
-|  |   
----  
-[]()  
-  
-**
-
-[](http://www.balancedperformance.com/)
-
-**
+[](http://www.evolution-autodesign.com/)
 
 Privacy Policy (terms & services): 
 
@@ -51,8 +42,5 @@ Founder/Owner
 (Updated Feb. 16th, 2005,,, changed some wording and added some statement. This update will be posted on the message board.)  
 (Updated April 2003,,, added wording and changes made to suit the new IA. Was posted boldly on homepage for all to agree to.)
 
-  
-  
-[](http://www.mahdavimotorsports.com/)
-
-[](http://www.uabcustomcars.com/index.php)
+|    
+---|---|---|---
