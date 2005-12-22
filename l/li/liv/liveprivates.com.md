@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveprivates.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205041602id_/http%3A//www.liveprivates.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveprivates.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222101633id_/http%3A//www.liveprivates.com/privacy.html) for the most accurate reproduction.*
 
 # Live Sex - Hot Live Sex Shows!
 
