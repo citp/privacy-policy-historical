@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsmarketplace.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403184149id_/http%3A//g.msn.com/WMHFUSEN/101016) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsmarketplace.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222015739id_/http%3A//g.msn.com/WMHFUSEN/101016) for the most accurate reproduction.*
 
 # Windows Marketplace: Privacy Statement
 
@@ -6,9 +6,7 @@ Microsoft is committed to protecting your privacy. This privacy statement explai
 
 We will ask you when we need information that personally identifies you or allows us to contact you. The personal information we may collect includes your name, e-mail address, and nickname.
 
-This Site uses Microsoft® .NET Passport to provide sign-in and registration services. In order to sign in to this Site using Microsoft .NET Passport, you will be asked to type your e-mail address and a password. This same Passport sign-in allows you to access many other Passport participating sites and services. If you create a Microsoft .NET Passport at this site, you are simultaneously registering with Windows Marketplace and opening a Microsoft .NET Passport account. To learn more about the Passport service, the information stored in the Passport profile, and how Passport uses and helps to protect your personal information, please read the Microsoft .NET Passport privacy statement at: <http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=1033>
-
-Site and the Internet address of the Web site from which you linked directly to our Site. This information is used for the operation and improvement of the Site.
+This Site uses Microsoft® .NET Passport to provide sign-in and registration services. In order to sign in to this Site using Microsoft .NET Passport, you will be asked to type your e-mail address and a password. This same Passport sign-in allows you to access many other Passport participating sites and services. If you create a Microsoft .NET Passport at this site, you are simultaneously registering with Windows Marketplace and opening a Microsoft .NET Passport account. To learn more about the Passport service, the information stored in the Passport profile, and how Passport uses and helps to protect your personal information, please read the Microsoft .NET Passport privacy statement at: <http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=1033>. This information is used for the operation and improvement of the Site.
 
 Windows Marketplace offers the ability to post reviews of merchandise featured on the Site. As the author of a review, you will be identified by a nickname that you choose. In order to help prevent your personal information from being gathered and used by others for inappropriate or harmful purposes, you should be cautious about including personal information in your nickname or merchandise reviews. 
 
@@ -66,7 +64,7 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 ## Contact information
 
-Microsoft welcomes your comments regarding this privacy statement. Please contact us by e-mail at [**mktprvcy@microsoft.com**](mailto:mktprvcy@microsoft.com?=Windows%20Marketplace%20Privacy%20statement) or via postal mail at the address provided below.
+Microsoft welcomes your comments regarding this privacy statement. Please contact us by [e-mail](http://go.microsoft.com/?linkid=2606705) or via postal mail at the address provided below.
 
 **Windows Marketplace**  
 Microsoft Corporation  
