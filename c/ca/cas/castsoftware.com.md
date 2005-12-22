@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the castsoftware.com privacy policy that was archived on 2005-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050126000041id_/http%3A//www.castsoftware.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castsoftware.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222110603id_/http%3A//www.castsoftware.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # CAST Privacy Policy
 
-  |  | 
+CAST Privacy Statement 
 
 CAST recognizes the importance of protecting your personal information and is committed to safeguarding your privacy online. 
 
@@ -31,5 +31,3 @@ Please contact us to modify the information previously provided to us by sending
 
 **Contact CAST**  
 If you have any questions about this privacy statement, you can contact CAST by email: [webmaster@castsoftware.com](mailto:webmaster@castsoftware.com) or by mail CAST, 3 rue Marcel Allégot, 92190 Meudon France.
-
-|  |   | 
