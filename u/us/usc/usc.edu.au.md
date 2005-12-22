@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2005-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050619033647id_/http%3A//www.usc.edu.au/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222221853id_/http%3A//www.usc.edu.au/Privacy.htm) for the most accurate reproduction.*
 
-# University of the Sunshine Coast - Privacy
+# University of the Sunshine Coast, Queensland, Australia - Privacy
 
 The University of the Sunshine Coast complies with Australian and Queensland privacy laws and guidelines.  Information provided by visitors to our site may be used for the administrative and educational purposes of the University. The University will not make available to a third party any personal information that is supplied by you unless required or permitted by law.
 
