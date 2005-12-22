@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422214711id_/http%3A//www.jewishjournal.com/corporate/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222035812id_/http%3A//www.jewishjournal.com/corporate/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # The Jewish Journal Of Greater Los Angeles
 
@@ -12,7 +12,7 @@ We have registered with PrivacyBot.com, an independent privacy seal program. We 
 
 **WE GIVE KIDS SPECIAL PROTECTION**
 
-Some areas of our Site are for children under 13. We generally don't collect, use or give out personal information about kids without prior parental consent. We don't use online games, prizes or other features to obtain more personal information from kids than we really need. We use reasonable security measures to protect any collected information (see below for more ways we protect kids). In general, Web sites with features directed to children under 13 or which knowingly collect personal information from children, are required by U.S. law to obtain verifiable parental consent before collecting, using or giving out such information to others. 
+Some areas of our Site are for children under 13. We generally don't collect, use or give out personal information about kids without prior parental consent. We don't use online games, prizes or other features to obtain more personal information from kids than we really need. We use reasonable security measures to protect any collected information (see below for more ways we protect kids). Web sites with features directed to children under 13 or which knowingly collect personal information from children, are required by U.S. law to obtain verifiable parental consent before collecting, using or giving out such information to others. 
 
 **WHAT INFORMATION DO WE COLLECT FROM YOU? WHY?**
 
