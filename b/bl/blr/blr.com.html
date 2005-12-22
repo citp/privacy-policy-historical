@@ -1,316 +1,680 @@
-<!--The following is the downloaded HTML source of the blr.com privacy policy that was archived on 2003-07-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030727080849id_/http%3A//www.blr.com/about/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blr.com privacy policy that was archived on 2005-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051222135444id_/http%3A//blr.com/about/policies/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	<title>BLR's About BLR</title>
-	<link rel="stylesheet" href="/custom.css">
-	<style type="text/css">
-	<!--
-	.form_select {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; font-weight: normal}
-	-->
-	</style>
-	<script language="JavaScript">
-	<!--
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+
 	
+
+	<title>Business &amp; Legal Reports, Inc - Human resources, compensation, environmental, and safety compliance and training</title>
+<link href="/custom.css" rel="stylesheet" type="text/css">
+
+<meta name="keywords" content="Business &amp; Legal Reports, BLR, state, human resources, compliance, training, HR, compensation, safety, environmental, environmental regulations, online services, handbooks, newsletters, training meetings, employee booklets, plain-English, PowerPoint, full-line catalog">
+
+	<meta name="description" content="BLR online product catalog featuring human resources, compensation, safety, and environmental regulation compliance and training products.">
+
+<meta name="robots" content="index,follow">
+<meta name="Author" content="Business &amp; Legal Reports">
+<meta name="Abstract" content="Business &amp; Legal Reports state-specific human resources, compensation, safety, and environmental regulatory compliance and training products.">
+
+
+<script language="JavaScript">
+
+function validRequired(formField,fieldLabel)
+{
+	var result = true;
+	
+	if (formField.value == "")
+	{
+		alert('Please enter a value for the "' + fieldLabel +'" field.');
+		formField.focus();
+		result = false;
+	}
+	
+	return result;
+}
+
+
+function allDigits(str)
+{
+	return inValidCharSet(str,"0123456789");
+}
+
+function inValidCharSet(str,charset)
+{
+	var result = true;
+	
+	for (var i=0;i<str.length;i++)
+		if (charset.indexOf(str.substr(i,1))<0)
+		{
+			result = false;
+			break;
+		}
+	
+	return result;
+}
+
+function isValidExpDate(formField,fieldLabel,required)
+{
+	var result = true;
+	var formValueStr = new String(formField);
+	//var formValue = formField.value;
+
+	if (required && !validRequired(formField,fieldLabel))
+		result = false;
+  
+ 	if (result && (formValueStr.length>0))
+ 	{
+ 		var elems = formValueStr.split("/");
+ 		
+ 		result = (elems.length == 2); // should be two components
+ 		var expired = false;
+ 		
+ 		if (result)
+ 		{
+ 			var month = parseInt(elems[0],10);
+ 			var year = parseInt(elems[1],10);
+ 			
+ 			if (elems[1].length == 2)
+ 				year += 2000;
+ 			
+ 			var now = new Date();
+ 			
+ 			var nowMonth = now.getMonth() + 1;
+ 			var nowYear = now.getFullYear();
+ 			
+ 			expired = (nowYear > year) || ((nowYear == year ) && (nowMonth > month));
+ 			
+			result = allDigits(elems[0]) && (month > 0) && (month < 13) &&
+					 allDigits(elems[1]) && ((elems[1].length == 2) || (elems[1].length == 4));
+ 		}
+ 		
+  		if (!result)
+ 		{
+ 			alert('Please enter a date in the format MM/YY for the "' + fieldLabel +'" field.');
+			formField.focus();
+		}
+		else if (expired)
+		{
+ 			result = false;
+ 			alert('The date for "' + fieldLabel +'" has expired.');
+			formField.focus();
+		}
+	} 
+	
+	return result;
+}
+
+
+function isValidCreditCardNumber1(formField,ccType,fieldLabel,required)
+{
+	//alert("isValidCreditCardNumber called");
+	var result = true;
+ 	var ccNum = formField;
+
+	if (required && !validRequired(formField,fieldLabel))
+		result = false;
+ 
+  	if (result && (formField.length>0))
+ 	{ 
+ 		if (!allDigits(ccNum))
+ 		{
+ 			alert('Please enter only numbers (no dashes or spaces) for the "' + fieldLabel +'" field.');
+			result = false;
+		}	
+
+		if (result)
+ 		{ 
+ 			
+ 			if (!LuhnCheck(ccNum) || !validateCCNum(ccType,ccNum))
+ 			{
+ 				alert('Please enter a valid card number for the "' + fieldLabel +'" field.');
+				result = false;
+			}	
+		} 
+
+	} 
+	
+	return result;
+}
+
+
+function LuhnCheck(str) 
+{
+  var result = true;
+
+  var sum = 0; 
+  var mul = 1; 
+  var strLen = str.length;
+  
+  for (i = 0; i < strLen; i++) 
+  {
+    var digit = str.substring(strLen-i-1,strLen-i);
+    var tproduct = parseInt(digit ,10)*mul;
+    if (tproduct >= 10)
+      sum += (tproduct % 10) + 1;
+    else
+      sum += tproduct;
+    if (mul == 1)
+      mul++;
+    else
+      mul--;
+  }
+  if ((sum % 10) != 0)
+    result = false;
+    
+  return result;
+}
+
+
+
+function GetRadioValue(rArray)
+{
+	for (var i=0;i<rArray.length;i++)
+	{
+		if (rArray[i].checked)
+			return rArray[i].value;
+	}
+	
+	return null;
+}
+
+
+function validateCCNum(cardType,cardNum)
+{
+	var result = false;
+	cardType = cardType.toUpperCase();
+	
+	var cardLen = cardNum.length;
+	var firstdig = cardNum.substring(0,1);
+	var seconddig = cardNum.substring(1,2);
+	var first4digs = cardNum.substring(0,4);
+
+	switch (cardType)
+	{
+		case "VISA":
+			result = ((cardLen == 16) || (cardLen == 13)) && (firstdig == "4");
+			break;
+		case "AMEX":
+			var validNums = "47";
+			result = (cardLen == 15) && (firstdig == "3") && (validNums.indexOf(seconddig)>=0);
+			break;
+		case "MASTERCARD":
+			var validNums = "12345";
+			result = (cardLen == 16) && (firstdig == "5") && (validNums.indexOf(seconddig)>=0);
+			break;
+		case "DISCOVER":
+			result = (cardLen == 16) && (first4digs == "6011");
+			break;
+		case "DINERS":
+			var validNums = "068";
+			result = (cardLen == 14) && (firstdig == "3") && (validNums.indexOf(seconddig)>=0);
+			break;
+	}
+	return result;
+}
+
+//function validCCForm(ccTypeField,ccNumField,ccExpField)
+//{
+//	var result = isValidCreditCardNumber(ccNumField,ccTypeField.value,"Credit Card Number",true) &&
+//		isValidExpDate(ccExpField,"Expiration Date",true);
+//	return result;
+//} 
+
+
+function validCCForm1(ccNumField,ccExpField)
+{
+
+	whatType(ccNumField + "");
+	var ccTypeField = cardType; // return from whatType is cardType var
+	
+	var result = isValidCreditCardNumber1(ccNumField,ccTypeField,"Credit Card Number",true) &&
+		isValidExpDate(ccExpField,"Expiration Date",true);
+	return result;
+}
+
+
+function callwhatType(cardNum)
+{
+whatType(cardNum);
+alert (cardType);
+}
+
+function whatType(xcardNum)
+{
+
+	cardType = "OTHER";
+	
+	var cardLen = xcardNum.length;
+	var firstdig = xcardNum.substring(0,1);
+	var seconddig = xcardNum.substring(1,2);
+	var firsttwodig = xcardNum.substring(0,2);
+	var first4digs = xcardNum.substring(0,4);
+
+	if (firsttwodig == "51" || firsttwodig=="52" || firsttwodig=="53" || firsttwodig=="54" || firsttwodig=="55")
+	{
+		cardType = "MASTERCARD";
+	}
+	if (firstdig == "4" )
+	{
+		cardType = "VISA";
+	}	
+	if (firsttwodig == "34" || firsttwodig=="37"  )
+	{
+		cardType = "AMEX";
+	}	
+	if (first4digs == "6011"  )
+	{
+		cardType = "DISCOVER";
+	}			
+
+	//alert("card type is: " + cardType);
+	return cardType;
+	// call this function, get back a cardType variable
+
+}
+
+
+</script>
+<script type="text/javascript"><!--
+	function popup(url, name, height, width, scrollbars)
+	{
+	  var popwin;
+	  var opts = 
+	"toolbar=no,status=no,location=no,menubar=no,resizable=no";
+	opts += ",height=" + height + ",width=" + width + 
+	",scrollbars=" + scrollbars;
+	 
+	  popwin = window.open("", name, opts);
+	  popwin.focus();
+	  popwin.location = url;
+	
+	  return false;
+	}
+	
+	function closepopup()
+	{
+	 if(false == NewWin.closed) 
+	 {
+	    NewWin.close ();
+	 }
+	}
+	self.name = 'mainwin';
+	// -->
+</script>
+<script language="JavaScript"><!--
 	function MM_openBrWindow(theURL,winName,features) { //v2.0
 	  window.open(theURL,winName,features);
 	}
 	//-->
-	</script>
+</script>
+<link rel="shortcut icon" href="/BLR_Shared/favicon.ico">
 </head>
+<body bgcolor="#FFFFFF" leftmargin="2" topmargin="0" marginwidth="0" marginheight="0">
 
-<body leftmargin="5" topmargin="5" bgcolor="#FFFFFF">
+	<table width="750" cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr>
+			<td align="right" width="750" bgcolor="#006699" class="white8" colspan="2"><a href="http://www.blr.com/" class="noDecorWhite">BLR Home</a> | <a href="http://hr.blr.com" class="noDecorWhite">HR.BLR.com</a>  |  <a href="http://compensation.blr.com" class="noDecorWhite">Compensation.BLR.com</a>  |  <a href="http://safety.blr.com" class="noDecorWhite">Safety.BLR.com</a>  |  <a href="http://enviro.blr.com" class="noDecorWhite">Enviro.BLR.com</a>  &nbsp;&nbsp;
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><a href="http://www.blr.com/"><img src="/images/blrcom_header.gif" height="67" width="750" alt="BLR -- Business &amp; Legal Reports -- Plain-English Compliance and Training Tools" border="0"></a><br></td>
+		</tr>
+		<tr>
+			<td width="161"><img src="/images/blrcom_header_2.gif" height="17" width="161" alt=""></td>
+			<td width="589" class="blue8" align="right"><a href="http://www.blr.com/fastorder/" class="noDecorBlue">Catalog Fast Order</a>   |   <a href="http://account.blr.com" class="noDecorBlue">My Account</a>   |   <a href="/about/contact/" class="noDecorBlue">Contact Us</a>   |   <a href="http://www.blr.com/cart/view_cart.cfm" class="noDecorBlue">Shopping Cart</a>   |   <a href="https://www.blr.com/cart/create_account.cfm" class="noDecorBlue">Check Out</a> | <a href="http://www.blr.com/blr_shared/login/index.cfm" class="noDecorBlue">Login</a><br></td>
+		</tr>
+	</tbody></table>
 
-
-<form action="/blr_shared/search/index.cfm" method="post">
 <table border="0" cellpadding="0" cellspacing="0" width="750">
 
-	<tbody><tr bgcolor="#000000">
-		<td colspan="4">
-			<table border="0" cellpadding="0" cellspacing="0" width="750">
-				<tbody><tr>
-					<td width="750" align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp;</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CCCC99"><b><a href="http://www.blr.com/" class="noDecorGold">BLR Home</a> | <a href="http://hr.blr.com/" class="noDecorGold">Human Resources</a> | <a href="http://enviro.blr.com/" class="noDecorGold">Environment</a> | <a href="http://safety.blr.com/" class="noDecorGold">Safety &amp; Health</a> | <a href="http://catalog.blr.com/" class="noDecorGold">Online Catalog</a>| <a href="https://account1.blr.com" class="noDecorGold">My Account</a></b></font>
-</td><td width="10"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp;</font></td><td width="145"><a href="/blr_shared/register/"><img src="/blr_shared/images/freereg.gif" width="145" height="19" alt="Free Registration" border="0"></a></td>
-				</tr>
+		<tbody><tr><td width="150" valign="top">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="top">
+
+
+	<tbody><tr>
+		<td><img src="/images/prod_locator.gif" height="23" width="150" alt=""></td>
+	</tr>
+	<tr>
+		<td width="150" bgcolor="#F1F1E3">
+			<table width="100%" cellspacing="3" cellpadding="1">
+					<tbody><tr height="18">
+						<td width="15" align="center"><img src="/images/arrow_pl.gif" height="10" width="10"></td>
+						<td width="130" class="black8"><a href="http://www.blr.com/topics.cfm" class="noDecorBlack">By Topic</a></td>
+					</tr>
+					<tr height="18">
+						<td width="15" align="center"><img src="/images/arrow_pl.gif" height="10" width="10"></td>
+						<td width="130" class="black8"><a href="http://www.blr.com/formats.cfm" class="noDecorBlack">By Format</a></td>
+					</tr>
+					<tr height="18">
+						<td width="15" align="center"><img src="/images/arrow_pl.gif" height="10" width="10"></td>
+						<td width="130" class="black8"><a href="http://www.blr.com/language.cfm?language_id=1" class="noDecorBlack">Spanish</a></td>
+					</tr>
+					<tr style="margin:0px;padding:0px;">
+						<td width="15" align="center" valign="top"><img src="/BLR_Shared/images/spacer.gif" height="5" width="1"><br><img src="/images/arrow_pl.gif" height="10" width="10"></td>
+						
+						<td width="130">
+							<form action="http://www.blr.com/search/index.cfm" method="post" style="margin-top: 0; margin-bottom: 0;">	
+							<input type="text" name="search_terms" value="Keyword" class="black8" onfocus="this.value=''">
+							
+							<div align="right"><input type="image" name="submit" src="/images/search.gif">&nbsp;&nbsp;</div>
+							</form>
+						</td>
+					</tr>
+
+					
 			</tbody></table>
 		</td>
 	</tr>
 
-<tr>
-<td width="177" height="70"><a href="/"><img src="/images/about_blr/bkg1.gif" width="177" height="70" alt="" border="0"></a></td>
-<td width="250" height="70"><a href="/about/"><img src="/images/about_blr/bkg_about.gif" width="250" height="70" alt="" border="0"></a></td>
-<td width="290" height="70" valign="top" align="right" background="/images/about_blr/bkg2a.gif"><img src="/images/about_blr/bkg1pixel.gif" width="290" height="1" alt="" border="0"><br>
+
+	<tr>
+		<td><img src="/images/blrproducts.gif" height="23" width="150" alt=""></td>
+	</tr>
+	
+	
+	
+	<tr>
+		<td><a href="http://www.blr.com/market.cfm/market/2"><img src="/images/humanresource_head.gif" height="23" width="150" alt="Human Resources" border="0"></a></td>
+	</tr>
+	
+	<tr>
+		<td bgcolor="#F1F1E3">
+			<table width="150" class="black8" cellpadding="0">
+				<tbody><tr>
+					<td width="15" valign="top"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/product.cfm/product/4200XX00" class="noDecorBlack">HR.BLR.com</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/1/" class="noDecorBlack">Benefits</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/2/" class="noDecorBlack">Compliance</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/3/" class="noDecorBlack">Policy &amp; Practice</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/4/" class="noDecorBlack">Training</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/5/" class="noDecorBlack">Best Practices</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/6/" class="noDecorBlack">Time Savers</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/topics.cfm/market/2" class="noDecorBlack">Full Topic List</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	<tr>
+		<td><a href="http://www.blr.com/market.cfm/market/4"><img src="/images/comp_head.gif" height="23" width="150" alt="Compensation" border="0"></a></td>
+	</tr>
+	
+	<tr>
+		<td bgcolor="#F1F1E3">
+			<table width="150" class="black8" cellpadding="0">
+				<tbody><tr>
+					<td width="15" valign="top"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/product.cfm/product/5202XX00" class="noDecorBlack">Comp.BLR.com</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/7/" class="noDecorBlack">Best Practices</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/8/" class="noDecorBlack">Salaries</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/9/" class="noDecorBlack">Compliance</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/topics.cfm/market/4" class="noDecorBlack">Full Topic List</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	<tr>
+		<td><a href="http://www.blr.com/market.cfm/market/3"><img src="/images/safety_head.gif" height="23" width="150" alt="Safety" border="0"></a></td>
+	</tr>
+	
+	<tr>
+		<td bgcolor="#F1F1E3">
+			<table width="150" class="black8" cellpadding="0">
+				<tbody><tr>
+					<td width="15" valign="top"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/product.cfm/product/53100100" class="noDecorBlack">Safety.BLR.com</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/10/" class="noDecorBlack">Compliance</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/11/" class="noDecorBlack">Training</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/12/" class="noDecorBlack">Best Practices</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/topics.cfm/market/3" class="noDecorBlack">Full Topic List</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	
+	
+	
+	<tr>
+		<td><a href="http://www.blr.com/market.cfm/market/1"><img src="/images/enviro_head.gif" height="23" width="150" alt="Environmental" border="0"></a></td>
+	</tr>
+	
+	<tr>
+		<td bgcolor="#F1F1E3">
+			<table width="150" class="black8" cellpadding="0">
+				<tbody><tr>
+					<td width="15" valign="top"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/product.cfm/product/5120XX00" class="noDecorBlack">Enviro.BLR.com</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/13/" class="noDecorBlack">Compliance</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/14/" class="noDecorBlack">Training</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/category.cfm/category/15/" class="noDecorBlack">Best Practices</a></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="/images/tanrule.gif" height="1" width="100%"></td>
+				</tr>
+				<tr>
+					<td width="15"><img src="/images/tan_arrow.gif" height="12" width="11" alt=""></td>
+					<td width="135"><a href="http://www.blr.com/topics.cfm/market/1" class="noDecorBlack">Full Topic List</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
 	
 
-	<table border="0" width="290" cellpadding="0" cellspacing="0">
-		<tbody><tr><td><font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp;</font></td></tr>
-		<tr>
-			<td width="80">&nbsp;</td>
-			<td width="210">
-				<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#cc0000"><strong>Search:	</strong></font><br>
-			</td>
-		</tr>
-		<tr>
-			<td width="80">&nbsp;</td>
-			<td width="210">
-				<table width="210" border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr><td><input type="text" name="searchWords" size="25"></td><td width="5">&nbsp;</td><td><input type="Image" src="/BLR_Shared/images/go_button.gif"></td></tr>
-					<tr><td align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="/BLR_Shared/search/index.cfm" class="noDecorBlack"><u>Advanced Search</u></a></font></td></tr>
-				</tbody></table>
-			</td>
-		</tr>
-		
-	</tbody></table>		
-</td>
-<td width="33" height="70"><img src="/images/about_blr/bkg3.gif" width="33" height="70" alt="" border="0"></td>
-</tr>
-<input type="hidden" name="articles" value="1">
-<input type="hidden" name="elerts" value="1">
-<input type="hidden" name="modelpolicies" value="1">
-<input type="hidden" name="checklists" value="1">
-<input type="hidden" name="whitepapers" value="1">
-<input type="hidden" name="solutions" value="1">
-
-
-
 	<tr>
-		<td colspan="4"><img src="/images/about_blr/bkg4.gif" alt="" width="177" height="14" border="0"><img src="/images/about_blr/bkg5.gif" width="573" height="14" alt="" border="0"></td>
-	</tr>
-
-	<tr bgcolor="#000000">
-		<td height="19"><a href="/blr_shared/login/index.cfm"><img src="/blr_shared/images/login.gif" width="85" height="19" alt="Login" border="0"></a></td>
-		<td colspan="3">&nbsp;</td>
-	</tr>
-
-	<tr>
-		<td colspan="4"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-
-	You are NOT logged in.
-
-</font>
-</td>
-	</tr>
-
-	<tr>
-		<td colspan="4">
-
-
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="750">
-	<tbody><tr>
-		<td colspan="5">
-			<img src="/blr_shared/images/spacer_white.GIF" alt="" width="1" height="10" border="0">
-		</td>
+		<td><a href="http://www.blr.com/about/"><img src="/images/aboutblr.gif" height="23" width="150" alt="" border="0"></a></td>
 	</tr>
 	<tr>
-
-		<td width="150" valign="top">
-
-
-
-<table width="150" border="0" cellspacing="0" cellpadding="1" bgcolor="#CCCC99">
-	<tbody><tr>
-		<td>
-			<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+		<td><img src="/blr_shared/images/spacer_light_tan.gif" height="1" width="150" border="0" alt=""></td>
+	</tr>
+	<tr>
+		<td><img src="/images/needhelp.gif" height="23" width="150" alt=""></td>
+	</tr>
+	<tr>
+		<td bgcolor="#F1F1E3">
+			<table width="150" class="black8" cellpadding="1" cellspacing="2">
 				<tbody><tr>
-					<td colspan="3"><img src="/images/about_blr/ourco.gif" width="100%" height="17" border="0" alt="Our Company"></td>
+					<td class="black10" colspan="2"><strong>&nbsp;1-800-727-5257</strong></td>
 				</tr>
 				<tr>
-					<td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td>
+					<td width="15" align="center">•</td><td width="135"><a href="/about/contact/" class="noDecorBlack">Contact Us</a></td>
 				</tr>
 				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="index.cfm" class="noDecorBlack">About BLR</a></b></font></td>
-				
+					<td width="15" align="center">•</td><td width="135"><a href="/about/products/faqs.cfm" class="noDecorBlack">FAQ's</a></td>
 				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
 				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="edletter.cfm" class="noDecorBlack">Letter from the Editor</a></b></font></td>
-				
+					<td width="15" align="center">•</td><td width="135"><a href="/about/sitemap.cfm" class="noDecorBlack">Site Map</a></td>
 				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
 				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="prodback.cfm" class="noDecorBlack">Product Background</a></b></font></td>
-				
+					<td width="15" align="center">•</td><td width="135"><a href="http://www.blr.com/about/contact/vip_tour.cfm" class="noDecorBlack">VIP Tours</a></td>
 				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="testimonials.cfm" class="noDecorBlack">Testimonials</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="pressreleases.cfm" class="noDecorBlack">Press Releases</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="awards.cfm" class="noDecorBlack">Awards</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="affiliates.cfm" class="noDecorBlack">Affiliates</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="joblistings.cfm" class="noDecorBlack">Careers</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-					<td colspan="3"><img src="/images/about_blr/contactblr.gif" width="100%" height="17" border="0" alt="Contact BLR"></td>
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="contactus.cfm" class="noDecorBlack">Contact Us</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="feedback.cfm" class="noDecorBlack">Site Feedback</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="suggest.cfm" class="noDecorBlack">New Product Suggestions</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="submit.cfm" class="noDecorBlack">Suggest an Article</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="syndicate.cfm" class="noDecorBlack">Syndication</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="directions.cfm" class="noDecorBlack">Directions to BLR</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-					<td colspan="3"><img src="/images/about_blr/helpcenter.gif" width="100%" height="17" border="0" alt="Help Center"></td>
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="faqs.cfm" class="noDecorBlack">Questions About Our Site</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="catfaq.cfm" class="noDecorBlack">Online Catalog FAQs</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="sitemap.cfm" class="noDecorBlack">Site Map</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				<tr>
-				
-					<td width="5">&nbsp;</td>
-					<td width="10%" valign="top"><img src="/images/shared/arrow.gif"></td>
-					<td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><a href="techsup.cfm" class="noDecorBlack">Software Technical Support Center</a></b></font></td>
-				
-				</tr>
-				<tr><td colspan="3"><img src="/blr_shared/images/spacer_white.GIF" width="1" height="5" alt="" border="0"></td></tr>
-				
 			</tbody></table>
 		</td>
 	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
 </tbody></table></td>
-		<td width="20">
-			&nbsp;
-		</td>
-
+		<td width="20">&nbsp;</td>
 
 		<td width="580" valign="top">
+			<table width="580" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr><td colspan="3">
+	
+			
+			
 		
-			<table width="580" cellpadding="0" border="0">
+
+
+<table width="580" valign="top" border="0">
 	<tbody><tr>
-		<td><font face="Verdana, Arial, Helvetica, sans-serif" size="4" color="#CC0000"><b>Privacy Statement</b></font></td>
+		<td colspan="3"><img src="/images/tanrule.gif" height="1" width="580"></td>
 	</tr>
 	<tr>
-		<td><img src="/blr_shared/images/rule_red.gif" width="440" height="1" alt="" border="0"></td>
+		<td colspan="3" class="blue8">&gt; <a href="/about/" class="noDecorBlue">About BLR</a>&nbsp;&gt;&nbsp;<a href="/about/policies/" class="noDecorBlue">Policies and Guidelines</a>&nbsp;&gt;&nbsp;Privacy Statement</td>
 	</tr>
 	<tr>
-		<td valign="top" width="100%">
-		<br>
-			<font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>At BLR</b>, we understand and respect your privacy concerns. We provide the following information concerning our privacy policy so that you may visit our website without being concerned for your personal security. We welcome your comments on this policy.</font><p>
-			<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CC0000">•</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> Contact Us</b></font><br>
-  			<font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you have any comments about this policy, or if you feel that your privacy concerns have not been addressed or are not being met, contact <a href="mailto:service@blr.com" class="noDecorBlack">service@blr.com</a>. We will investigate and take appropriate actions to be sure that this policy is followed. We also welcome any comments or suggestions about this policy. Thank you for visiting our site, and we look forward to building a lasting relationship with you.</font></p><p>
-			<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CC0000">•</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> Our Disclosure of Your Information</b></font><br>
-  			<font face="Verdana, Arial, Helvetica, sans-serif" size="1">BLR will not ever provide your email address, password, or credit card number to any third party. Occasionally, BLR is approached by an organization that is seeking to inform our customers and visitors about products or services that may be of interest to them. We review these requests carefully, and when we think the information would be a benefit to you, we cooperate in getting this information to you. If you would like to stop receiving information from these organizations, please submit a request in writing to: Business &amp; Legal Reports, 141 Mill Rock Road East, P.O. Box 6001, Old Saybrook, CT 06475 or email <a href="mailto:service@blr.com" class="noDecorBlack">service@blr.com</a>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-			<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CC0000">• </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> E-Commerce</b></font><br>
-			<font face="Verdana, Arial, Helvetica, sans-serif" size="1">No reports have been made of fraudulent use of a credit card as a result of an online order through the secure server at BLR website. If you are not comfortable making an online payment, which requires a credit card number, other options for implementation of the order are readily available, including a fax number (860-510-7220) and toll free phone number (800-727-5257). If fraudulent use of your credit card does occur, under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, BLR will cover the entire liability for you, up to the full $50.00. BLR will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made at BLR while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.</font></font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-			<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CC0000">•</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> Identifying Information</b></font><br>
-			<font face="Verdana, Arial, Helvetica, sans-serif" size="1">When you visit our website, our web server automatically recognizes your domain name (e.g.: aol.com), but not your email address. BLR may ask you to register and provide information about yourself and/or your business in certain circumstances, including when you register to access our free Resource Center, try a free Demo, or order from our Online Catalog. By knowing a little about you, BLR is able to deliver more relevant content, and therefore a better service, to you. Your registration will help us offer information and services that we think you'd like, including alerting you to new federal or state regulations specific to your industry, alerting you to changes on our website, notifying you of products that may help make your job easier, or requesting your comments on our products or our website so that we may determine how to modify our services to better suit the needs of our customers and our online visitors. If you believe you are receiving our communications in error or no longer desire to receive them, you can inform us at <a href="mailto:service@blr.com" class="noDecorBlack">service@blr.com</a>, and we will remove your name from our postal mail and/or our emailing lists. If you choose not to register and provide identifying information to us, you can still access most of the blr.com site. However, you will not be able to access areas that require registration.</font></font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-			<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CC0000">•</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> Changing Your Identifying Information</b></font><br>
-  			<font face="Verdana, Arial, Helvetica, sans-serif" size="1">Once you register, you will be able to change much of your identifying information, including your name, address, and phone number, via the Customer Service area of the website. If you need to change your email address, you can email your name, old email address, and new email addresses to <a href="mailto:service@blr.com" class="noDecorBlack">service@blr.com</a>. We ask you to promptly update this information with us when it changes.</font></font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-			<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CC0000">•</font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b> Cookies</b></font><br>
-			<font face="Verdana, Arial, Helvetica, sans-serif" size="1">Like most commercial websites, BLR uses cookies in order to deliver you a better and more personalized service. Cookies are very small text files placed on your hard drive by a web page server. They can not retrieve information from your hard drive, spread viruses, or capture your e-mail address. Your cookie helps BLR remember who you are, and save you the time of entering the same information multiple times. Cookies also help BLR to learn what information is important to our visitors, and what isn't. We can discard web pages you don't use, and focus our efforts on information you need. If you'd prefer, you may set your browser's preferences to not accept cookies.</font>
-		</font></p></td>
+		<td colspan="3"><img src="/images/tanrule.gif" height="1" width="580"></td>
 	</tr>
+	<tr><td><img src="/blr_shared/images/spacer.gif" height="5" width="1"></td></tr>
 </tbody></table>
+</td></tr>
+				<tr>
+					
+					<td width="150" valign="top"><table width="150" cellpadding="4" cellspacing="0">
+	<tbody><tr><td><span class="black8"><a href="/about/policies/" class="noDecorBlack">Terms and Conditions</a></span></td></tr>
+	<tr><td><span class="black8"><a href="/about/policies/privacy.cfm" class="noDecorBlack">Privacy Statement</a></span></td></tr>
+	<tr><td><span class="black8"><a href="/about/policies/reprints.pdf" class="noDecorBlack" target="_blank">Reprints and Copyrights</a></span></td></tr>
+	<tr><td><span class="black8"><a href="/about/policies/article.cfm" class="noDecorBlack">Suggest an Article</a></span></td></tr>
+</tbody></table></td>
+					<td width="10">&nbsp;</td>
+					
+					<td valign="top">
+						<table width="420" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><font face="Verdana, Arial, Helvetica, sans-serif" size="4" color="#CC0000"><b>Privacy Statement</b></font></td>
+							</tr>
+							<tr>
+								<td><img src="/blr_shared/images/rule_red.gif" width="420" height="1" alt="" border="0"></td>
+							</tr>
+							<tr>
+								<td><img src="/blr_shared/images/spacer.GIF" alt="" width="1" height="15" border="0"></td>
+							</tr>
+							
+							<tr>
+								<td class="black8">
+									
+									Business &amp; Legal Reports, Inc., (BLR) is committed to respecting your privacy concerns with the information you entrust with us. We give users choice and consent over how their personal information is used, and remove names immediately upon request. <p>
+<strong>Cookies:</strong> We use cookies to help our visitors have a friendlier, more convenient visit. Our purpose in using cookies is NOT to snoop on you. For example, we may use them to greet you by name, to store your password so you don't have to log in each time you visit, or re-enter your shipping and billing information when you re-use our shopping cart. We do NOT collect or use the information from cookies to develop a profile about our shoppers. </p><p>
+<strong>Security:</strong> We store subscriber and password files with personal information securely. Such files are stored in secure areas not accessible to the public. </p><p>
+<strong>Removal:</strong> We will immediately unsubscribe anyone who requests that their name be removed from our e-mail lists. To be removed, follow the unsubscribe instructions at the bottom of any e-mail from us, or send an e-mail to <a href="mailto:service@blr.com?subject=Remove From List">service@blr.com</a> with the words "Remove from List" in the subject line. </p><p>
+<strong>Product alerts:</strong> From time to time, we may also send you news bulletins or product alerts on products or services from Business &amp; Legal Reports, Inc., or other carefully screened companies. Any such message will ALWAYS provide you with a link or other easy means of unsubscribing to further e-mails. Alternatively, you can send an e-mail to <a href="mailto:service@blr.com?subject=Remove Product Alerts">service@blr.com</a> at any time with the words "Remove product alerts" in the subject field of the message. 
+</p><p> <strong>Third party use:</strong>  Occasionally we make our customer list available to other reputable organizations so you may receive (mail) offers you might find interesting.   However your e-mail address will NOT be released to any third party and we will NOT share with others any demographic information that you may provide to us.  Sporadically we permit carefully selected organizations to advertise in our e-mail publications, let them sponsor product alerts or will sponsor their product offers.  To stop receiving such e-mails, follow the unsubscribe instructions in the e-mail or send an e-mail to <a href="mailto:service@blr.com">service@blr.com</a> at any time with the words “Remove product alerts” in the subject field of the message. 
+</p><p>
+<strong>Contact us:</strong> At BLR, we understand and respect your privacy concerns. We provide the preceding information concerning our privacy policy so that you may visit our website without being concerned for your personal security. We welcome your comments on this policy.</p><p>
+									
+								</p></td>
+							</tr>
+							
+							<tr>
+								<td><img src="/blr_shared/images/spacer.GIF" alt="" width="1" height="15" border="0"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>	
+			</tbody></table>
 		</td>
 	</tr>
 	<tr>
@@ -320,31 +684,488 @@
 	</tr>
 </tbody></table>
 
+<table width="750" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td align="left" valign="top" background="/blr_shared/images/bkg.gif">
+<!-- ezine footer include -->
+
+	
+	<!-- servername=www.blr.com-->
+	
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" background="/blr_shared/images/bkg.gif">
+	   	 
+		 
+	<form action="http://www.blr.com/blr_shared/elert/page2_new.cfm" name="ezinefooter" method="post" target="_new" onsubmit="if(document.ezinefooter.email_address.value == &quot;Your Email Address&quot; || document.ezinefooter.email_address.value == &quot;&quot; || (ezinefooter.ezine[0].checked == false &amp;&amp;ezinefooter.ezine[1].checked == false &amp;&amp;ezinefooter.ezine[2].checked== false &amp;&amp;ezinefooter.ezine[3].checked== false ) || (document.ezinefooter.email_address.value.indexOf(&quot;@&quot;) < 1) || (document.ezinefooter.email_address.value.indexOf(&quot;.&quot;) < 1) ){alert(&quot;Please chose at least one ezine, and use a valid email address&quot;); return false;} else { document.ezinefooter.submit(); return true;}"></form>
+	
 		
+	
+		
+	
+		
+	
+	<input type="hidden" name="resize" value="true">
+	<input type="hidden" name="referrer" value="...">
+   	<input type="hidden" name="SOURCE" value="">
+  	<input type="hidden" name="EFFORT" value="">
+       <tbody><tr>
+		   
+	         <td align="left" valign="top" width="200"><img src="/blr_shared/images/freeenews_head.gif" width="190" height="25" border="0">
+			 <br>
+			 <span class="black8"><em><strong>&nbsp;Plain-English... Practical... FREE!</strong></em></span>
+	         </td>
+			 <td align="left" width="558" valign="bottom">
+			 <table border="0" cellpadding="0" cellspacing="0">
+			 
+			 <tbody><tr>
+			 	<td>&nbsp;</td>
+			 	<td align="left">
+				
+				<span class="black8"><input name="ezine" type="checkbox" value="hrnext" class="black9">HR Ezine</span>
+				<br>
+				<span class="black8"><input name="ezine" type="checkbox" value="Comp">Compensation Ezine</span>
+				</td>
+				<td>&nbsp;</td>
+				<td>
+				<span class="black8"><input name="ezine" type="checkbox" value="SafetyEzine">Safety Ezine</span>
+				<br>
+				<span class="black8"><input name="ezine" type="checkbox" value="Enviro">Environmental Ezine</span>
+				</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td align="right"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+				<td valign="top" align="right"><input name="email_address" type="text" class="black11" size="18" value="Your Email Address" onfocus="javascript:document.ezinefooter.email_address.value='';">
+				<span class="smallspacer1"><br></span>
+				<span class="black8">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We respect your <a target="_blank" href="/about/privacy.cfm"><span class="black8">Privacy</span></a></span></td>
+				<td valign="top" align="left"><span class="privacy_tellafriend"><input type="image" src="/blr_shared/images/subscribe_button.gif" name="pictureezine" border="0" width="86" height="26">
+				<span class="smallspacer"><br></span></span></td>
+				</tr></tbody></table>
+				</td>
+			 </tr>
+	 		 </tbody></table></td>
+	       </tr>
+	<input type="hidden" name="site" value="blr">
+	<input type="hidden" name="origin" value="bot">
+  
+</tbody></table></td>
+	</tr>
+	<tr>
+		<td align="center" bgcolor="#FFFFFF">
+			<table width="750" cellpadding="2">
+				<tbody><tr>
+					<td align="center" class="black8">
+						<a href="/index.cfm" class="noDecorBlack">BLR Home</a> | <a href="/market.cfm/market/2" class="noDecorBlack">Human Resources</a> | <a href="/market.cfm/market/4" class="noDecorBlack">Compensation</a> | <a href="/market.cfm/market/3" class="noDecorBlack">Safety</a> | <a href="/market.cfm/market/1" class="noDecorBlack">Environmental</a><br>
+						<a href="http://hr.blr.com" class="noDecorBlack">HR.BLR.com</a>  |  <a href="http://compensation.blr.com" class="noDecorBlack">Compensation.BLR.com</a>  |  <a href="http://safety.blr.com" class="noDecorBlack">Safety.BLR.com</a>  |  <a href="http://enviro.blr.com" class="noDecorBlack">Enviro.BLR.com</a><br>
+						<a href="/fastorder/" class="noDecorBlack">Catalog Fast Order</a> | <a href="http://account.blr.com" class="noDecorBlack">My Account</a> | <a href="/cart/view_cart.cfm" class="noDecorBlack">Shopping Cart</a> | <a href="https://www.blr.com/cart/create_account.cfm" class="noDecorBlack">Check Out</a> | <a href="/about/sitemap.cfm" class="noDecorBlack">Site Map</a> | <a href="/about/policies/privacy.cfm" class="noDecorBlack">Privacy Statement</a><br><a href="/about/" class="noDecorBlack">About BLR </a>| <a href="/about/press/news.cfm" class="noDecorBlack">Corporate News</a> | <a href="/about/careers.cfm" class="noDecorBlack">Careers</a> | <a href="/about/press/" class="noDecorBlack">Press Room</a> | <a href="/about/divisions/" class="noDecorBlack">Divisions &amp; Affiliates</a> | <a href="/about/contact/" class="noDecorBlack">Contact Us</a></td>
+				</tr>
+			</tbody></table>
 		</td>
 	</tr>
-	<tr bgcolor="#000000">
-		<td colspan="4" align="center">
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CCCC99"><strong><a href="http://www.blr.com/about/sitemap.cfm" class="noDecorGold">Site Map</a> | <a href="http://www.blr.com/about/contactus.cfm" class="noDecorGold">Contact Us</a> | <a href="http://www.blr.com/about/affiliates.cfm" class="noDecorGold">Affiliates</a> | <a href="http://www.blr.com/press_center/" class="noDecorGold">Press Center</a> | <a href="http://www.blr.com/about/privacy.cfm" class="noDecorGold">Privacy Statement</a></strong></font>
-
-</td>
-	</tr>
 </tbody></table>
-<p><font face="Verdana, Arial, Helvetica, sans-serif" color="#999999" size="1"><font color="#000000"><b>Questions, 
-  call:</b></font><font color="#CCCC99"> </font>1-800-727-5257<font size="1"><br>
-  <font color="#000000"><b>HR:</b></font> <a href="http://hr.blr.com/" class="noDecorBlack">HR Home Page</a> | <a href="http://hr.blr.com/category.cfm/category/4" class="noDecorBlack">Comp &amp; Benefits</a> | <a href="http://hr.blr.com/category.cfm/category/5" class="noDecorBlack">Fair Empl.
-  Practices</a> | <a href="http://hr.blr.com/category.cfm/category/6" class="noDecorBlack">HR Management</a> | <a href="http://hr.blr.com/category.cfm/category/2" class="noDecorBlack">Leave Management</a> | <a href="http://hr.blr.com/category.cfm/category/1" class="noDecorBlack">Staffing</a> | <a href="http://hr.blr.com/train.cfm" class="noDecorBlack">Training</a><br>
-  <font color="#000000"><b>Environment:</b></font> <a href="http://enviro.blr.com/" class="noDecorBlack">Enviro Home Page</a> | <a href="http://enviro.blr.com/topics_analysis.cfm" class="noDecorBlack">Regulatory Analysis</a> | <a href="http://enviro.blr.com/regs.cfm" class="noDecorBlack">Laws &amp; Regulations</a> | <a href="http://enviro.blr.com/news.cfm" class="noDecorBlack">News</a> | <a href="http://enviro.blr.com/tools.cfm" class="noDecorBlack">Tools</a> | <a href="http://enviro.blr.com/topics.cfm" class="noDecorBlack">Topics</a><br>
-  <font color="#000000"><b>Safety &amp; Health:</b></font> <a href="http://safety.blr.com/" class="noDecorBlack">Safety Home Page</a> | <a href="http://safety.blr.com/category.cfm/category/15" class="noDecorBlack">Accident Prevention</a> | <a href="http://safety.blr.com/category.cfm/category/16" class="noDecorBlack">Compliance &amp; Enforcement</a> | <a href="http://safety.blr.com/category.cfm/category/9" class="noDecorBlack">Emergency Planning</a> | <a href="http://safety.blr.com/category.cfm/category/8" class="noDecorBlack">Hazardous Materials</a> | <a href="http://safety.blr.com/category.cfm/category/17" class="noDecorBlack">Health</a> | <a href="http://safety.blr.com/train.cfm" class="noDecorBlack">Training</a><br>
 
-  <br>
-  <font color="#000000"><b><a href="http://ehs.blr.com/blr_shared/register/" class="noDecorBlack">Free Registration</a></b></font></font></font><br>
-  <font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="1"><a href="http://www.blr.com/press_center/reprints.cfm" class="noDecorBlack">©1997-2003 Business &amp; Legal Reports, Inc. All Rights Reserved</a><br>
-No part of this site may be <a href="http://www.blr.com/press_center/reprints.cfm" class="noDecorBlack">reproduced</a> in any form without permission of Business &amp; Legal Reports, Inc.</font><br>
-  </p>
+
+
+<script type="text/javascript" src="http://ai.aintermail.net/blr.th.shtml"></script>
 
 
 
 
 
-</form></body></html>
+
+
+
+
+
+	<meta name="WT.sv" content="WebArray 1"> 
+	
+<!-- START OF SDC Advanced Tracking Code -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime: 2005/06/28 12:01:23 $ -->
+<script language="Javascript"><!--
+var gService = true;
+var gTimeZone = -5;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsFPC(offset){
+	if (typeof(offset)=="undefined"){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	if (document.cookie.indexOf(name+"=")!=-1){
+		var id=dcsGetCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
+		}
+		WT.co_f=id;
+		WT.vt_f="0";
+		WT.vt_f_a="0";
+		var dLst=new Date(lv);
+		dSes.setTime(ss);
+		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
+		}
+		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	else{
+		var tmpname=name+"_TMP=";
+		document.cookie=tmpname+"1";
+		if (document.cookie.indexOf(tmpname)!=-1){
+			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+				WT.co_f=gWtId;
+				WT.vt_f="0";
+			}
+			else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+				WT.co_f=gTempWtId;
+				WT.vt_f="1";
+			}
+			else{
+				WT.co_f="2";
+				var cur=dCur.getTime().toString();
+				for (var i=2;i<=(32-cur.length);i++){
+					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+				}
+				WT.co_f+=cur;
+				WT.vt_f="1";
+			}
+			WT.vt_f_a=(typeof(gWtAccountRollup)!="undefined")?"0":"1";
+			WT.vt_f_s="1";
+			WT.vt_f_d="1";
+		}
+		else{
+			WT.vt_f="2";
+			WT.vt_f_a="2";
+			return;
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+dSes.getTime();
+	var expiry="; expires="+dExp.toGMTString();
+	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+}
+
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc="WT_FPC";
+var gWtId="";
+var gTempWtId="";
+if (gService){
+	var gConvert=true;
+}
+
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+}
+
+//-->
+</script>
+<!-- END OF SDC Advanced Tracking Code -->
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime: 2005/06/29 17:35:36 $ -->
+<script language="Javascript"><!--
+gVersion="1.0";
+//-->
+</script>
+<script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script>
+<script language="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</script>
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+if (window.ActiveXObject){
+	var gFV="";
+	for (var gVer=2;gVer<=10;gVer++){
+		try{
+			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
+			if (gFlash){
+				gFV=gVer+".0";
+				break;
+			}
+		}
+		catch(e){
+		}
+	}
+}
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
+<script language="JavaScript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+
+var gDomain="statse.webtrendslive.com";
+var gDcsId="dcsp7zwcxqljwpdlane9alfih_6e4m";
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
+	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
+}
+//-->
+</script>
+<script language="Javascript"><!--
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		if (document.body.connectionType){
+			WT.ct=document.body.connectionType;
+		}
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
+			WT.fi="Yes";
+			WT.fv=gFV;
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				WT.fv=navigator.plugins[i].description.split(" ")[2];
+				break;
+			}
+		}
+	}
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var front=DCS.dcsqry.substring(0,pos);
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsLoadHref(evt){
+	if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+		window.location=gHref;
+		gHref="";
+	}
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+		}
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var elems;
+	if (document.all){
+		elems=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
+	}
+	if (typeof(elems)!="undefined"){
+		for (var i=1;i<=elems.length;i++){
+			var meta=elems.item(i-1);
+			if (meta.name){
+				if (meta.name.indexOf('WT.')==0){
+					WT[meta.name.substring(3)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCSext.')==0){
+					DCSext[meta.name.substring(7)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCS.')==0){
+					DCS[meta.name.substring(4)]=meta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
+
+function dcsMultiTrack(){
+	for (var i=0;i<arguments.length;i++){
+		if (arguments[i].indexOf('WT.')==0){
+			WT[arguments[i].substring(3)]=arguments[i+1];
+			i++;
+		}
+		if (arguments[i].indexOf('DCS.')==0){
+			DCS[arguments[i].substring(4)]=arguments[i+1];
+			i++;
+		}
+		if (arguments[i].indexOf('DCSext.')==0){
+			DCSext[arguments[i].substring(7)]=arguments[i+1];
+			i++;
+		}
+	}
+	var dCurrent=new Date();
+	DCS.dcsdat=dCurrent.getTime();
+	dcsTag();
+}
+
+dcsVar();
+dcsMeta();
+dcsFunc("dcsAdv");
+dcsTag();
+
+//-->
+</script>
+
+<noscript>
+<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsp7zwcxqljwpdlane9alfih_6e4m/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.sv=Unknown">
+</noscript>
+<!-- END OF SmartSource Data Collector  TAG -->	
+
+
+</body></html>
