@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403191818id_/http%3A//www.estatesales.net/W3C/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222182053id_/http%3A//www.estatesales.net/w3c/privacy.htm) for the most accurate reproduction.*
 
-# 
+# EstateSales.NET Privacy Policy
+
+[](http://www.estatesales.net/)
 
 At EstateSales.NET we care about providing you with tools and information to manage and protect your online privacy. We have developed this privacy policy to inform you about what information this web site collects, who may receive that information, what we may do with the information, and how long we keep it. While we have made every attempt to make this policy as clear as possible, if you have any further questions about it, please contact us:
 
