@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the onlygowns.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405214653id_/http%3A//www.onlygowns.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlygowns.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222065622id_/http%3A//www.onlygowns.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy : OnlyGowns.com
 
   
-**Revised as of 1, May 2004  
+**Revised as on 1, May 2004  
 **  
 OnlyGowns realize the importance of protecting the privacy of personal and financial information of its revered customers. We have framed a stringent set of guidelines, polices and security measures to secure this private arena of our valuable clientele. When you register online with OnlyGowns or use our online store, we ask you to give your consent to use and process your personal data in accordance with this online privacy policy. This privacy policy is valid for all users of this website.
 
