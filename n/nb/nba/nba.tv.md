@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nba.tv privacy policy that was archived on 2005-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050421203037id_/http%3A//www.nba.tv/news/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nba.tv privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222145931id_/http%3A//www.nba.tv/news/privacy_policy.html) for the most accurate reproduction.*
 
 # NBA.com Network Privacy Policy
 
@@ -88,7 +88,7 @@ The NBA.com Network has engaged Amazon.com to perform services in connection wit
 
 **NBA Photo Store**. At the NBA Photo Store, if you register or order products, you may provide the following types of personally identifiable information about yourself (or about others, if you order a gift online and want it sent directly to the recipient): name, address, e-mail address, date of birth, telephone number, and credit card information. 
 
-The NBA.com Network has engaged Getty Images to perform services in connection with the management and operation of NBA Photo Store. As such, in connection with the NBA Photo Store, Getty Images will have access to and will use the personally identifiable information you provide in connection with your purchases or registration on the NBA Photo Store, subject to the terms of our agreement with Getty Images. Examples of how Getty Images may use your data include payment processing and authorization, fraud protection and credit risk reduction, marketing and promotional material distribution, site evaluation and data analysis. Getty Images has independent privacy and data collection practices. For more information about those practices, please refer to Getty Images' [privacy policy](http://photostore.nba.com/source/Privacy.aspx). 
+The NBA.com Network has engaged Getty Images or its designee to perform services in connection with the management and operation of NBA Photo Store. As such, in connection with the NBA Photo Store, Getty Images or its designee will have access to and will use the personally identifiable information you provide in connection with your purchases or registration on the NBA Photo Store, subject to the terms of our agreement with Getty Images or its designee. Examples of how Getty Images or its designee may use your data include payment processing and authorization, fraud protection and credit risk reduction, marketing and promotional material distribution, site evaluation and data analysis. Getty Images or its designee has independent privacy and data collection practices. For more information about those practices, please refer to Getty Images' [privacy policy](http://photostore.nba.com/perl/gal/nba?process=deliver&page=privacy). 
 
 Return to top
 
@@ -121,7 +121,7 @@ If any disputes arise between us regarding your use of the NBA.com Network, such
 **10. Your California Privacy Rights**  
 Beginning January 1, 2005, California Law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [FanRelations@NBA.com](mailto:fanrelations@nba.com?subject=CaliforniaPrivacy) or write to us at NBA Media Ventures, LLC, 450 Harmon Meadow Boulevard, Secaucus, New Jersey, 07094. Attn: NBA.com Network Fan Relations
 
-**LAST UPDATED: February 14, 2005**  
+**LAST UPDATED: April 22, 2005**  
 Copyright 2004 NBA Media Ventures, LLC. All rights reserved.   
 _Use of this site signifies your acceptance of this Privacy Policy and the Terms of Use for[NBA.com](http://www.nba.com/), [WNBA.com](http://www.wnba.com/), and [NBDL.com](http://www.nba.com/nbdl)._
 
