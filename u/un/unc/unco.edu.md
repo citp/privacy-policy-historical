@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unco.edu privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404062608id_/http%3A//www.unco.edu/generalcounsel/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unco.edu privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222015052id_/http%3A//www.unco.edu/generalcounsel/privacy.htm) for the most accurate reproduction.*
 
 # Internet Privacy Policy at the University of Northern Colorado
 
@@ -70,5 +70,4 @@ Contact (970) 351-1152
 
 ### Other Policies
 
-See UNC Computer, Internet (Web) and Electronic Communications Procedures at <http://www.unco.edu/it/ITadmin/procedure/cmptgproc.htm>  
-
+See UNC Computer, Internet (Web) and Electronic Communications Procedures at <http://www.unco.edu/it/aboutIT/computingproceduresindex.htm>
