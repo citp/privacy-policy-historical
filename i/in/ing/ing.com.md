@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ing.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403233518id_/http%3A//www.ing.com/group/showdoc.jsp%3Fdocid%3D095075_EN%26menopt%3Dabo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ing.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222091812id_/http%3A//www.ing.com/group/showdoc.jsp%3Fdocid%3D095075_EN%26menopt%3Dabo) for the most accurate reproduction.*
 
 # Privacy statement - - ING.com
 
@@ -14,6 +14,6 @@ This Privacy Statement may be modified from time to time to comply with applicab
 
 If you have any questions about this Privacy Statement or our data processing activities, you can 
 
-_[contact us](https://web.archive.org/web/20050403233518id_/http%3A//www.ing.com/group/coupon.jsp?cp=cpContactUS)_
+_[contact us](https://web.archive.org/web/20051222091812id_/http%3A//www.ing.com/group/coupon.jsp?cp=cpContactUS)_
 
 via this website.
