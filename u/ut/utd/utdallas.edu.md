@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utdallas.edu privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208033943id_/http%3A//www.utdallas.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utdallas.edu privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222140107id_/http%3A//www.utdallas.edu/privacy.html) for the most accurate reproduction.*
 
 # UTD Privacy Policy
 
@@ -18,4 +18,4 @@ The "Public Information Officer" of UTD is the Senior Vice President for Busines
 
 Your Social Security Number (SSN) or UTD Identification Number (ID) is being requested because it is a unique ID which is maintained for the purpose of accuracy in tracking information. The disclosure of such information is voluntary. Disclosure of your SSN or UTD ID is governed by the Public Information Act (Chapter 552 of the Texas Government Code).
 
-[Information Resources Policy Guidelines](https://web.archive.org/web/20041208033943id_/http%3A//www.utdallas.edu/ir/policies/index.html)
+[Information Resources Policy Guidelines](https://web.archive.org/web/20051222140107id_/http%3A//www.utdallas.edu/ir/policies/index.html)
