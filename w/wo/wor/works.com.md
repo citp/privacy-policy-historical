@@ -1,27 +1,34 @@
-> *The following text is extracted and transformed from the works.com privacy policy that was archived on 2001-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010811222434id_/http%3A//works.com/company/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the works.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222065322id_/http%3A//www.works.com/policy.html) for the most accurate reproduction.*
 
-# Works - Privacy Policy
+# Works
 
-At Works, we are committed to protecting your privacy and safeguarding the security of your online experience. This Policy describes our practices for protecting your privacy as a user of this Internet site. We may modify this Policy from time to time, and you should review it periodically for changes. This policy was last updated on July 12, 2001.
+Works' Web Site Privacy Policy
 
-The Information We Collect and How We Use that Information
+Works, Inc. and its subsidiary Works Operating Company ("Works") take very seriously our commitment to protecting personal information that you may provide to us when you visit our Web site ("Site"). This privacy policy tells you how we treat your personal information that we may receive when you visit our Site.
 
-The only information we collect about your company through your use of this site is the information you voluntarily provide. For example, you can use the site to request additional information about WorksTM products by completing a site questionnaire with information about your company. Basic information you provide, such as company name and contact information, allows us to follow up with you after your visit to the site. Additional information, such as your company's industry, number of employees, and other related information, helps us understand which Works products may be the best fit for your company. Whether you provide all or part of the information requested - or any information at all - is entirely up to you.
+  
+In most cases, you may visit our Site without telling us who you are or revealing any information about yourself. When you visit our Site, we collect and aggregate domain name information but we do not collect your e-mail address. Like many Web sites you visit, we also use "cookies" (a small text file placed on your computer's hard drive), which allows you to access the contents of our Site faster and us to track statistical information about your use of our Site. This "cookie" is not used to obtain your name or any personal data and is unable to execute any code or virus. The information tracked through the use of cookies is used only for Works' internal purposes, such as to enrich your experience on our Site, and is not shared with anyone other than persons who assist us in these efforts and who are bound to confidentiality obligations. If you would rather not accept cookies, you should be able to set your browser to reject them or to let you know before one is placed on your computer.
 
-The information you provide allows us to respond to your requests for information and to provide you with the highest possible level of customer service. We will not use your information for any other purpose, and will never sell or rent your information to anyone.
+On certain portions of our Site, we may ask you to provide us personal information for a specific purpose, such as to provide you with information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address. We may use this contact information to send you information about Works. We may also use this contact information at later dates to send you updated and other information about Works. You may opt out of receiving future communications by contacting us as described below and requesting that we no longer send such information.
 
-Under appropriate circumstances, we may share information with regulatory and law enforcement officials or with our contractors to the extent necessary to investigate or protect against fraud, computer hacking and other illegal activity, or in response to a court order or other legal requirement.
+  
+Any domain name information we collect is not used to personally identify you. Rather, we use this information to track the number of visits to our Site, the average time spent on the Site, pages viewed, etc. This information is used to determine how our Site is used and for improving the form and content of our Site.
 
-SECURITY
+If we do collect personal information from you (such as your name or e-mail address), we typically let you know at that time how we will use the information. Usually, we will only use your personal information to respond to an inquiry or request from you or to send you information about Works. We restrict access to information about you to those employees of Works who need to know the information to respond to inquiries or requests from you or to send you information about Works.
 
-Internet Security
+We may share the personal information you provide us with our vendors or suppliers we have hired to provide services for us. These companies are contractually bound to confidentiality obligations and to use personal information we share with them only to perform the services we have hired them to provide. We do not share, sell, or otherwise provide personal information about you to any third parties for their marketing use. We will also release information about you if you direct us to do so, if we are required by law to do so, or in other limited circumstances (such as to protect against fraud).
 
-Works incorporates multiple layers of protection to ensure that your information is not accessible to third parties. Network firewalls and intrusion detection systems continuously monitor and filter communications with our systems. Additionally, sensitive information exchanged between your browser and Works is encrypted using Secure Sockets Layer (SSL) technology to prevent that information from being read by others as it travels over the Internet.
+  
+Works maintains appropriate physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access, disclosure, alteration or destruction.
 
-Browser Compatibility
+  
+Our Site may contain links to other Web sites. We try to link only to other Web sites that share our high standards and respect for privacy. However, we are not responsible for the content, security, or privacy practices used by other Web sites.
 
-Effective use of SSL technology requires use of an SSL-enabled browser such as Netscape Navigator or Internet Explorer 4.0 or higher. If you have questions about the security of a specific browser, please refer to that browser's help files or documentation.
+  
+You may review and update the information that you provide to us through our Site by contacting us as described below.
 
-Links to Other Internet Sites
+  
+If you have any questions or comments about Works' privacy policy, need to review or update information you provide to us through the Site, or wish to opt out of receiving information from us, please use the "Contact" page on our Site.
 
-This site may contain links to other Internet sites. Works does not operate these sites and is not responsible for their content or privacy and security policies. You should review the policies of these sites to determine their standards with respect to privacy and security.
+  
+We reserve the right to change this privacy policy at any time with or without prior notice. We encourage you to check this privacy policy periodically to inform yourself of any changes.
