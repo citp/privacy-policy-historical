@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the russian-women.net privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206013249id_/http%3A//www.russian-women.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russian-women.net privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222141137id_/http%3A//www.russian-women.net/privacy.shtml) for the most accurate reproduction.*
 
 # Russian women - Privacy Statement
 
-  
-[26 new brides](http://www.russian-women.net/new_profiles_today.shtml) added Sunday February 6 2005 at 01:10 GMT: [Click here!](http://www.russian-women.net/new_profiles_today_thumbnailed.shtml)   
-[17 previous personals profiles photos](http://www.russian-women.net/updated_photos_today.shtml) updated today. [Click here for thumbs!](http://www.russian-women.net/updated_photos_today_thumbnailed.shtml)   
+[14 new brides](http://www.russian-women.net/new_profiles_today.shtml) added Thursday December 22 2005 at 01:15 GMT: [Click here!](http://www.russian-women.net/new_profiles_today_thumbnailed.shtml)   
+[19 previous personals profiles photos](http://www.russian-women.net/updated_photos_today.shtml) updated today. [Click here for thumbs!](http://www.russian-women.net/updated_photos_today_thumbnailed.shtml)   
 [Photos updated last week - list of profiles](http://www.russian-women.net/updated_photos_weekly.shtml)   
 [Photos updated last week - links with thumbs (may be huge page to load!)](http://www.russian-women.net/updated_photos_thumbnailed_weekly.shtml)   
-Currently there are **28854** Russian personals in [**OUR Dating Album**](http://www.russian-women.net/album).   And **23851** previously listed women are no longer available.  **Approaching Valentine's Day on February 14th - show her that you care about her, send her**[ **GIFTS and FLOWERS**](http://www.russian-women.net/gifts.shtml) !    
+Currently there are **25684** Russian personals in [**OUR Dating Album**](http://www.russian-women.net/album/).   And **33913** previously listed women are no longer available.   
+  
 
 
-Since we were founded, The Russian Women Network has tried to help its customers retain their privacy while they take advantage of all our site has to offer. We are committed to protecting your privacy and developing technology that gives you the most powerful, safe, online experience that you can get anywhere. If you have questions about this, please write us at [ privacy@russian-women.net](mailto:privacy@russian-women.net?subject=%22Re:Privacy%22)
+Since we were founded, The Russian Women Network has tried to help its customers retain their privacy while they take advantage of all our site has to offer. We are committed to protecting your privacy and developing technology that gives you the most powerful, safe, online experience that you can get anywhere. If you have questions about this, please write us at [ care@russian-women.net](mailto:care@russian-women.net?subject=%22Re:Privacy%22)
 
 ## Privacy Principles
 
@@ -30,9 +30,9 @@ The Russian Women Network may disclose your Personal Information if required to 
 
 As part of your participation in any of The Russian Women Network services, The Russian Women Network allows you to elect to receive or not receive certain information and email from The Russian Women Network or its service partners.  From time to time, The Russian Women Network may be required to send you information about the service or your account. Except as mentioned above, The Russian Women Network will not send you unsolicited information, commercial offers or advertisements, including email. 
 
-If at any time you believe that The Russian Women Network has not adhered to these principles, please notify us by email at [ privacy@russian-women.net](mailto:privacy@russian-women.net?subject=%22Re:Privacy%22) and we will use all commercially reasonable efforts to promptly determine and correct the problem. 
+If at any time you believe that The Russian Women Network has not adhered to these principles, please notify us by email at [ care@russian-women.net](mailto:care@russian-women.net?subject=%22Re:Privacy%22) and we will use all commercially reasonable efforts to promptly determine and correct the problem. 
 
-For more information about our privacy statement, see the following Frequently Asked Questions (FAQs), or the FAQs accompanying The Russian Women Network site. If you have additional questions about this policy, please email us at [ privacy@russian-women.net](mailto:privacy@russian-women.net?subject=%22Re:Privacy%22)
+For more information about our privacy statement, see the following Frequently Asked Questions (FAQs), or the FAQs accompanying The Russian Women Network site. If you have additional questions about this policy, please email us at [ care@russian-women.net](mailto:care@russian-women.net?subject=%22Re:Privacy%22)
 
 ## Frequently Asked Questions
 
@@ -54,7 +54,7 @@ Other companies may have access to your Personal Information to provide routine 
 
 Enter your email address and The Russian Women Network password, click the **[Edit Your Profile]** button. Change your information and click the **[Save Profile]** button. 
 
-If you have difficulty modifying any of your information, please contact one of our member service representatives, [ customer_care@russian-women.net](mailto:customer_care@russian-women.net?subject=%22Re:AccountInfromation%22), and they will assist you in changing your information. 
+If you have difficulty modifying any of your information, please contact one of our member service representatives, [ care@russian-women.net](mailto:care@russian-women.net?subject=%22Re:AccountInfromation%22), and they will assist you in changing your information. 
 
 **Q:** How does The Russian Women Network use the Personal Information (email address and postal address) you provide on the registration pages?   
 **A:** We use your email address as your service username. We chose this since this ensures that everyone has a unique username and the username is easy to remember. We also use your email address to respond to incoming service requests from you. Because we service a lot of customers, email is the primary way we interact with our members. 
