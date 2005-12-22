@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chalk.com privacy policy that was archived on 2005-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050210023737id_/http%3A//www.chalk.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalk.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222175539id_/http%3A//chalk.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Chalk Media - Privacy Policy
+# Privacy Policy - Chalk Media
 
 |  |   
 ---|---  
