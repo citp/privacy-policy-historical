@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatexpress.com privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409210137id_/http%3A//www.expatexpress.com/Expat/jsp/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatexpress.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222225423id_/http%3A//www.expatexpress.com/Expat/jsp/help/privacy.jsp) for the most accurate reproduction.*
 
 # ExpatExpress
 
