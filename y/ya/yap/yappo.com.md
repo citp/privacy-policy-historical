@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yappo.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306160312id_/http%3A//www.oneverify.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yappo.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222191750id_/http%3A//www.oneverify.com/privacy.htm) for the most accurate reproduction.*
 
 # -:- OneVerify.com -:-
 
