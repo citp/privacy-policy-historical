@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the analog.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209182337id_/http%3A//www.analog.com/Analog_Root/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analog.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222230316id_/http%3A//www.analog.com/Analog_Root/static/privacy.html) for the most accurate reproduction.*
 
-# Analog Devices: : Privacy and Security Statement
+# Analog Devices : Privacy and Security Statement
 
 **Collection of Personal Information**
 
