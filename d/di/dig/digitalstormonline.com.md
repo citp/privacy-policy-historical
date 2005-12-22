@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the digitalstormonline.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206183930id_/http%3A//www.digitalstormonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalstormonline.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222170243id_/http%3A//www.digitalstormonline.com/privacy.asp) for the most accurate reproduction.*
 
-# Digital Storm: Privacy Policy
+# Digital Stom Privacy Policy
 
-  
 We believe your right to privacy and data security is our high priority.
 
 Digital Storm is a proud member of the Better Business Bureau serving San Jose, California. This statement discloses the privacy guidelines for the entire Digital Storm website.
