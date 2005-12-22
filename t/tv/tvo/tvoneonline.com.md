@@ -1,30 +1,46 @@
-> *The following text is extracted and transformed from the tvoneonline.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224012907id_/http%3A//www.tvoneonline.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvoneonline.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222044521id_/http%3A//tvoneonline.com/inside_tvone/privacy_policy.asp) for the most accurate reproduction.*
 
-# TV One
+# TV One Online > Inside TV One > Privacy Policy
 
-TV One, LLC respects the privacy of visitors to our site. Please read this privacy policy carefully so that you understand our privacy practices for our radio-one.com site. Questions regarding privacy issues should be directed to TV One’s Legal Department at (301) 306-1111. 
+TV One, LLC (“TV One”) respects the privacy of visitors to the TV One website (“Site”). Please read this Privacy Policy carefully so that you understand the ways in which we do and do not use the information you transmit when you visit this Site. 
 
-  This site does not distinguish users based on age criteria and we do not specifically target any of our content to children under the age of 13. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to provide any other personally identifying information. 
+This Site does not distinguish users based on age criteria and we do not specifically target any of our content to children under the age of 13. If you are under 13, TV One wants you to get permission from your parents before sending any information about yourself (such as your name, email addresses, or phone numbers) over the Internet, to TV One or to anyone else. TV One will not knowingly allow anyone under 13 to provide personally identifying information. 
 
-The information gathered by TV One on this site falls into two categories: (1) information voluntarily supplied by visitors to our site when they request information about TV One, and (2) non personally-identifiable information about our visitors' connection to the Internet collected by our servers. When visitors submit information to TV One through this site, TV One will use this information only to provide the requested information and services. Individuals within TV One who have a need to view the information will have access to the information submitted by visitors to this site. 
-
-  From the “Careers” section of the site, TV One posts certain employee positions for which you are invited to apply by sending a copy of your resume via facsimile or e-mail. TV One uses the information you provide solely for purposes of considering you for employment opportunities, and does not share such information with any third party, absent your express consent. 
-
-As you browse our site, our web servers may collect information about your visit, not about you personally. For example, we may monitor statistics such as: 
-
-  * how may people visit the site;
-  * which pages people visit on the site;
-  * from which domains our visitors come; and
-  * which browsers people use to visit the site.
+**INFORMATION WE COLLECT  
+**The information gathered by TV One on this Site falls into two categories: (A) information voluntarily supplied by visitors to our Site when they (i) request information about TV One, (ii) respond to specific requests made on the Site or (iii) register on the Site as a TV One affiliate or advertising partner, and (B) non personally-identifiable information routinely gathered by website servers as visitors navigate through our Site.   
 
 
+**HOW WE USE THE INFORMATION WE COLLECT**
 
-TV One may use these statistics to improve the site, to monitor its performance, and to make the site easier for you and other visitors to use. 
+**Voluntarily Supplied Information  
+**TV One may use voluntarily supplied information in the following ways:   
+• to provide a visitor with the requested information or services;  
+• to review and consider use of the information supplied in response to a TV One solicited request;   
+• to personalize features of the Site; or  
+• for advertising and promotional purposes.
 
-We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our terms of use, or to protect the rights, property or safety of visitors to our site, the public, or TV One. As our business grows, we may buy or sell various assets. In the unlikely event that TV One, the bulk of our assets or our site is acquired by another company, information relating to our visitors would be among the transferred assets. 
+There are instances where you will have an opportunity to subscribe to an e-mail list that will periodically send you information about the Site or about TV One features (e.g., programming highlights, upcoming events, contests, promotions, etc.) to the e-mail address you provide. To subscribe, you will be asked to provide your e-mail address, your first name, your gender, and the city and state of your residence. Subscription to the TV One e-mail list will only be done with your permission and consent. 
 
-  Some portions of the site contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites’ privacy policies, as we have no control over information that is submitted to, or collected by, these third parties. 
+In addition, users may be required to complete an on-line registration form to access restricted areas of the Site. The registration form will request a contact name (first name), company name, city/state, e-mail address, age, and other related information. TV One may use the registration information to tailor the Site for the unique needs of TV One’s partners.
 
-The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. By visiting our site, you agree that your visit, and any dispute over our privacy practices, is governed by this privacy policy and our terms of use.  
-  
+**Non-Personally Identifiable Information  
+**As you browse our Site, our web servers may collect and aggregate information about your visit (but not about you personally). For example, the Site’s servers may monitor information like: 
 
+• the number of Site visitors;  
+• patterns of Site visitation (e.g., days of the week or times of day)  
+• the Site pages that are visited;  
+• the website domains from which visitors come; and   
+• the website browsers used by Site visitors.
+
+TV One may perform statistical analyses of aggregate user behavior and may also share the results of these analyses with TV One’s advertiser and distribution partners to assess interest in various components of the Site, to improve the content or lay-out of the Site, to monitor or optimize the Site’s performance, to customize visitors’ experiences, and to make the Site easier for you and other visitors to use. 
+
+**Additional Uses of Site Information  
+**Beyond what has been indicated above, TV One may be required to release personally-identifiable information about our visitors in order to comply with law, to enforce our terms of use, or to protect the rights, property or safety of visitors to our Site, the public, or TV One. Additionally, in the unlikely event that all or substantially all of the assets relating to this Site is acquired by another company, personally-identifiable information relating to our visitors may be transferred to the acquiring entity. 
+
+**LINKS TO NON-TV ONE WEBSITES  
+**Some portions of the Site contain links to third-party sites whose information practices may be different than ours. We have no control over the privacy practices or the content of any such third-party site and you should take care to consult the privacy and terms of use policies of such sites. 
+
+**GENERAL INFORMATION  
+**The world wide web and the internet are evolving media and TV One may change the terms of this Privacy Policy from time to time. Any changes will be posted on the Site before they take effect. By continuing to use this Site after we post such changes, you accept that the Privacy Policy as adjusted. Any dispute over TV One’s privacy practices is governed by this Privacy Policy and our Terms of Use.
+
+Questions regarding this Privacy Policy or the use of information collected through visits to this Site shall be made in writing and sent to 1010 Wayne Avenue, 10th Floor, Silver Spring, MD 20910, Attn: Legal Department.
