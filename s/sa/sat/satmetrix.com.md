@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2005-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050601010410id_/http%3A//www.satmetrix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222105846id_/http%3A//satmetrix.com/company/privacy.htm) for the most accurate reproduction.*
 
-# Satmetrix Systems' Press Release
+# Satmetrix Systems - Customer Experience Management Solutions
+
+###  Effective Date: August 26, 2005
 
 This Privacy Statement explains the data practices of Satmetrix Systems, Inc. ("Satmetrix" or "Us"). Part I describes our data practices with respect to Personal Data (as defined below) that Satmetrix processes on behalf of its clients; and Part II describes our data practices with respect to information we collect about our business contacts and other visitors to the Satmetrix website. The general provisions in Part III apply to our data practices in both Part I and Part II.
 
-[](https://www.truste.org/validate/13570)Satmetrix is a licensee of the TRUSTe Privacy Program and the TRUSTe EU Safe Harbor Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Satmetrix has agreed to disclose its information practices in this Privacy Statement and have its privacy practices reviewed for compliance by TRUSTe.
+[](http://www.truste.org/ivalidate.php?url=www.satmetrix.com&sealid=103)Satmetrix is a licensee of the TRUSTe Privacy Program and the TRUSTe EU Safe Harbor Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Satmetrix has agreed to disclose its information practices in this Privacy Statement and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact the Satmetrix Operations Department via [privacy form](https://web.archive.org/company/privacyform.htm) If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [Truste](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Satmetrix Systems to resolve your concerns. 
 
 **PART I  
 PERSONAL DATA PROCESSED ON BEHALF OF SATMETRIX CLIENTS**
@@ -25,7 +29,7 @@ Satmetrix does not review, comment upon, or monitor its Clients' compliance with
 
 Customer satisfaction surveys are initiated to improve the processes and relationships between our Clients and their customers. Typically a Client's customers provide the Client with certain information including their names, companies, job titles, phone numbers, and email addresses and the Client provides such information to Satmetrix to enable us to process and analyze surveys on behalf of the Client. In addition, commercial list services may provide Satmetrix with contact information for people who have opted to receive email ("opt-in lists") on specific topics of interest. 
 
-We invite Client customers - via email, telephone, web page banners, web pop-ups, and other media \- to fill out surveys hosted on Satmetrix's site (i.e., satmetrix.com, ccsurvey.com, or any successor web site). Participation in these surveys is voluntary. When a survey respondent uses the Satmetrix site to fill out a survey, our servers (which are hosted by a third party service provider) may collect information indirectly and automatically (through, for example, the use of "cookies" or your "IP address") about your activities on the site while responding to the survey. We use this browsing information, in non-personally identifiable form, for internal purposes such as to help understand how the site is being used and to improve it, and for systems administration purposes. 
+We invite Client customers - via email, telephone, web page banners, web pop-ups, and other media \- to fill out surveys hosted on Satmetrix's site (i.e., satmetrix.com, ccsurvey.com, or any successor web site). Participation in these surveys is voluntary. When a survey respondent uses the Satmetrix site to fill out a survey, our servers (which are hosted by a third party service provider) may collect information indirectly and automatically (through, for example, the use of "cookies" or your "IP address") about your activities on the site while responding to the survey. We use this browsing information, in non-personally identifiable form, for internal purposes such as to help understand how the site is being used and to improve it, and for systems administration purposes. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
 Cookies are small pieces of information stored on respondent's hard drive, not on our site. Cookies allow us to better understand how respondents use the site, which in turn helps us focus our resources on improvements to the site. We use session cookies, which expire when the browser window is closed, and persistent cookies to keep track of which survey(s) a particular respondent has answered. A respondent is always free to decline our cookies if her browser permits, but in that case, the survey site may not operate properly or a respondent may be prompted to fill out the same survey multiple times at a client's site. An IP address is a number that is automatically assigned to a computer when it is used on a network like the Internet. In some cases the computer's IP address stays the same from browser session to browser session; but, for computers connecting to the Internet via consumer Internet access providers, the IP address generally varies from session to session. 
 
@@ -46,7 +50,7 @@ In addition to the data we process on behalf of our Clients, Satmetrix also proc
 
 **1.** COLLECTION AND USE OF BUSINESS CONTACT DATA
 
-The individuals who represent Satmetrix's Clients or potential Clients ("Business Contacts") may voluntarily provide their contact information and related data (collectively "Business Contact Data") to Satmetrix by various means, including telephone, email, postal mail, the "contact us" or "download" page on the Satmetrix site, or other means.The Business Contact Data submitted to Satmetrix is used to communicate with and provide services for Clients and potential Clients. Satmetrix corrects or updates Business Contact Data when a request by the applicable Business Contact is requested. To send a request please fill out the [privacy form](https://web.archive.org/web/20050601010410id_/http%3A//www.satmetrix.com/Customer-Experience-Management-Satmetrix-About-Feedback.html) or mail to Satmetrix Systems, Inc.; 950 Tower Lane, Suite 500, Foster City, CA 94404 USA. 
+The individuals who represent Satmetrix's Clients or potential Clients ("Business Contacts") may voluntarily provide their contact information and related data (collectively "Business Contact Data") to Satmetrix by various means, including telephone, email, postal mail, the "contact us" or "download" page on the Satmetrix site, or other means.The Business Contact Data submitted to Satmetrix is used to communicate with and provide services for Clients and potential Clients. Satmetrix corrects or updates Business Contact Data when a request by the applicable Business Contact is requested. To send a request please fill out the [privacy form](https://web.archive.org/company/privacyform.htm) or mail to Satmetrix Systems, Inc.; 950 Tower Lane, Suite 500, Foster City, CA 94404 USA. We will respond to your request for access within 30 days. 
 
 When a Business Contact accesses reports through Satmetrix's servers, or otherwise uses the Satmetrix site, our servers may place persistent cookies on the Business Contact's computer in order to keep track of the Business Contact's personalized settings. 
 
@@ -75,12 +79,20 @@ If another company acquires Satmetrix or substantially all of its assets, that c
 
 **3.** QUESTIONS
 
-Questions, comments, or complaints about this Privacy Statement or Satmetrix's data practices please fill out the [privacy form](https://web.archive.org/web/20050601010410id_/http%3A//www.satmetrix.com/Customer-Experience-Management-Satmetrix-About-Feedback.html) or mailed to Satmetrix Systems, Inc.; 950 Tower Lane, Suite 500, Foster City, CA 94404 USA. 
+Questions, comments, or complaints about this Privacy Statement or Satmetrix's data practices please fill out the [privacy form](https://web.archive.org/company/privacyform.htm) or mailed to Satmetrix Systems, Inc.; 950 Tower Lane, Suite 500, Foster City, CA 94404 USA. We will respond to your request for access within 30 days. 
 
 Any questions, comments, or complaints about the data practices (including without limitation compliance with the data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a Satmetrix Client for whom Satmetrix processes data, should be directed to that Client. 
 
 **4.** **Notification of Changes**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a prominent notice on our Web site. 
+
+**5.** **Choice / Opt-out**
+
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you request information but do not wish to receive any additional marketing material from us, you can indicate your preference on our [contact form](https://web.archive.org/company/contactform.htm) If you no longer wish to receive our newsletter, surveys or promotional communications, you may opt-out of receiving them by following the instructions included in each correspondence or by emailing us at privacy@satmetrix.com. In addition you may contact us at 650-227-8300 or by mail at 950 Tower Lane, Suite 500 Foster City, CA 94404. You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
+
+**6.** **Legal Disclaimer**
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
 top
