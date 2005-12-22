@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207090348id_/http%3A//national.citysearch.com/templates/profile/policy.html%3Fcslink%3Dbottombar_private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222211749id_/http%3A//national.citysearch.com/templates/profile/policy.html%3F) for the most accurate reproduction.*
 
-# National Yellow Pages and Guide - restaurants, nightlife, spas, hotels and yellow pages in and around National
+# 
 
-|  |    
-**_PRIVACY POLICY:_**
-
+|    
 **Citysearch.com Privacy Policy**
+
+**_YOUR PRIVACY RIGHTS:_**
 
 The Citysearch.com business ("Citysearch.com") has created this privacy policy to demonstrate our firm commitment to protecting your profile information and informing you about how we handle it. This privacy policy only applies to transactions and activities in which you engage ("Transactions"), and data gathered, on the Citysearch.com web site (the "Site") and does not apply to any other web site or offline point of contact between Citysearch.com, or any other company, and consumers. Please review this privacy policy periodically as we may modify it from time to time. This privacy policy was last revised on October 9, 2002. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
 
@@ -15,7 +15,7 @@ Like most e-commerce websites, each time you visit the Site, we automatically co
 
 **Cookies**
 
-Like most websites, the Site uses cookies to keep track of your purchases and other activity on the Site and enhance your experience on the Site. We also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to re-enter it each time you visit the Site. Third parties advertisers on the Site may also place cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas or features of the Site. 
+Like most websites, the Site uses cookies to keep track of your purchases and other activity on the Site and enhance your experience on the Site. We also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to re-enter it each time you visit the Site. Third parties that advertise on the Site may also place cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas or features of the Site. 
 
 **Information We Collect From You**
 
@@ -65,5 +65,4 @@ Please note that changing or deleting your information through Edit My Profile, 
 
 If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [legal@citysearch.com](mailto:legal@citysearch.com). You can also send us mail to: Privacy Officer, Legal Department, Citysearch.com, 3731 Wilshire Boulevard, Los Angeles, CA 90010. 
 
-|  |   
-
+| 
