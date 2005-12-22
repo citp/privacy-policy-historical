@@ -1,69 +1,190 @@
-> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206155316id_/http%3A//www.accuwebhosting.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222020324id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - AccuWebHosting.Com
 
-AccuWebHosting.com is committed to protecting your personal information and respecting your privacy. Our goal is to give you as much control and information as possible regarding your personal information and the use we make of it in the course of our business. 
+   
+|   
+---  
+  
+|  | **Domain Registration**  
+---|---  
+| **Search for a domain name:**  
+| 
 
-In general, you can visit AccuWebHosting.com on the Web without telling us who you are or revealing any information about yourself.
+WWW. 
 
-AccuWebHosting.com will never sell, rent or disclose your personally identifiable information to outside parties without your consent unless compelled by law or court order to do so. With your permission, AccuWebHosting.com may send you e-mail regarding our new products, upgrades, or select third party products. In any case, we do not disclose your personally identifiable information to such third parties.
+|   
+| 
 
-**What Information We Gather and Track**
+• Domain Availability Check  
+  
+| 
 
-There are times when we may need to collect information from you through our Web site. This generally involves filling out forms so you can customize AccuWebHosting.com. When you register for the AccuWebHosting.com Newsletter, we require you to fill out a form with your correct email address. We will use this email address only to inform you of news and events at AccuWebHosting.com. You can remove yourself from the mailing list at any time by sending an email to [profit@AccuWebHosting.com](mailto:profit@AccuWebHosting.com)  
-AccuWebHosting.com uses various methods to collect certain other kinds of information, including: : 
+• Introducing New Accu Web Hosting Domains  
+  
+| 
 
-  * Cookies
-  * Referers
-  * IP addresses
-  * System information 
+**$ 7.99  
+**/Per Year
+
+| [](http://domains.accuwebhosting.com/)  
+---|---  
+[](http://domains.accuwebhosting.com/)  
+  
+|  | SSL Certificates  
+---|---  
+| 
+
+**$ 107 **/Per Annum   
+  
+| 
+
+•
+
+|  Limited Time Offer  
+| 
+
+•
+
+|  128-bit SSL Encription  
+| 
+
+•
+
+|  98% Browser  Recognization  
+  
+[](http://www.accuwebhosting.com/ssl_certificats.htm)   
+  
+|  | Live Support  
+---|---  
+|   
+  
+| 
+
+Chat with our Technical  
+Support Staff In Real Time  
+  
+| 
+
+**Click Here!**
+
+Live Support Brought   
+To you by:  
+**Accu Web Hosting**  
+  
+|  |   
+  
+|  | Contact Us   
+---|---  
+|   
+Call us toll free at   
+1-877-SOS-HOST  
+Mon-Fri 10:00AM - 5:00PM (EST)   
+| Other Questions?   
+visit our 24/7 [Support Center](http://www.accuwebhosting.com/support.htm)  
+  
+|  | Testimonials |    
+---|---|---  
+| 
+
+Accu Web Hosting not only provides Cheap Web Hosting and Free Domain Registration, they offer you one of the most patient and dedicated support staff I have ever seen. They solved a really complicated domain transfer, I was informed on every spot of the operation and they make the hard work or me. Five stars for you AccuWEB!!!  
+**Alejandro Santacreu  
+Mutxamel, Spain   
+\---------------------**
+
+Although I rarely do this, I just wanted to write in and say thanks for keeping up on issues such as this. You guys are the best registrar I've done business with and it's nice to know that you are staying ahead of the game and on top of issues such as this. Keep up the great work guys!!  
+**J.Xavier  
+\---------------------**
+
+I just wanted to let you guys at AccuWebHosting know how utterly pleased I am with your service. I have been a Network Solutions/Verisign customer for several years  
+now and have had nothing  
+but headaches with them.  
+When I made the decision  
+to move my domains, NSI effectively locked my contact information, preventing me from completing the move. I discovered that the best way to transfer a domain from NSI is to let it expire and use namewinner to nab it with AccuWebHosting. I love how I can now update my DNS information almost instantly. Keep up the good work!  
+B. Carps  
+N. Highlands, CA.
+
+|    
+  
+  
+  
+  
+|   
+---  
+**  
+  ** **  Privacy Policy  
+ **  
+  
+| 
+
+| 
+
+****Our Commitment** : **
+
+We, the AccuWebHosting.com, are committed to all our clients to protect their privacy rights. We assure our clients to keep any information provided to us [as defined below] strictly confidential and the information thus received will not be used or divulged to anyone else for any other purposes except for those which they have consented for.
+
+**Client information :**
+
+It is the information which is provided by the user for various purposes and collected by us when: 
+
+(1) A client signs up for any Webhosting plan or product from our site;   
+(2) He submits his request for domain name registration;  
+(3) He provides his feedback through prescribed form or mail;  
+(4) He raises a support ticket;  
+(5) He requests us to provide him technical assistance to resolve his website problem;   
+(6) He registers himself to our forum for keeping himself updated with current happenings in Webhosting;   
+(7) he approaches our technical team through live chat to obtain technical support;  
+(8) He approaches us through telephone to obtain technical support;  
+(9) we take back up of your data on our server; etc. etc. 
+
+**Correctness of Client information :**
+
+We collect client's information under assumption that the client is providing necessary information knowing his legal obligation about the correctness of the information. Under all circumstances the information shall not: 
+
+(1) Be false, misleading, inaccurate or fraudulent;  
+(2) Infringe any third party's copyright, patent, trademark, trade secret or other proprietary rights; or any other rights;   
+(3) Violate any law, statute, ordinance or law;   
+(4) Be defamatory, unlawfully threatening or unlawfully harassing,   
+(5) Be obscene, offensive, contain any pornography or any other illegal materials;   
+(6) Contain any viruses, Trojan Horses, worms, cancel bots or any other computer programming routines that are intended to damage, detrimentally interfere with, surreptitiously intercept any system, data or personal system,   
+(7) Create liability for us or cause us to loose (in whole or in part) the services of our ISP or the other suppliers,   
+(8) Pretend to be any person or entity, or falsely state or otherwise pretend your affiliation with anyone or anything;   
 
 
+** How do we use the information?**
 
-None of these methods can be personally identified with you with the exception of cookies, which can optionally store information that you may enter in forms on our Web site, as described below. 
+We use client information to: 
 
-A "cookie" is an element of data that a Web site like AccuWebHosting.com.com can send to your browser, which may then store it on your system. It can be used to provide you with a tailored user experience. Some AccuWebHosting.com pages use cookies. Cookies are used to better personalize the content, banners and promotions that you and other users will see. We may use the information to research and understand how our users' habits in the aggregate are similar or different so that we can enhance your experience on AccuWebHosting.com' sites and with our products. With your consent, cookies can optionally store information from forms that you fill out on our site so that next time you visit, you do not have to re-enter this information. We treat any personally identifiable information with confidentiality. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. AccuWebHosting.com does not require that you accept cookies. 
+1\. Carry out and process financial transactions; during various financial transactions the information are provided to different payment gateways viz. LinkPointCentral.com, Verisign.com, 2checkout.com, BluePay.com; 
 
-A "referer" is the information passed along by a web browser that references the Web URL you linked from, and is automatically gathered by our Web server. This information is used by AccuWebHosting.com to identify broad demographic trends that may be used to provide information tailored to your interests. You will not be personally identified from this information. 
+2\. Provide technical assistance upon their written or telephonic requests; during such interaction information are provided to our technical and billing personnel who have signed-up the Intellectual Property Right Agreement with us and are bound to follow our Privacy Policy; 
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer so that data (such as the Web pages you request) can be sent to you. They are automatically gathered by our Web server. AccuWebHosting.com will not use your IP address to attempt to identify your personal information.
+3\. Complete the registration formalities with hosting registrar; here some information like name, address, phone numbers, IP Address, etc., are made available for public access through WHOIS report as per the mandatory requirement of domain name registration process; 
 
-System information we gather includes time, type of Web browser being used, the operating system/platform, and CPU speed. This information is sent automatically by your Web browser when you are connected to a Web site and is used by AccuWebHosting.com only for broad demographic statistics. This information is used by AccuWebHosting.com in identifying broad demographic trends and may be used to provide information appropriate for your computer system. You will not be personally identified from this information. 
+**Divulgence of Information :**
 
-**What We Do With the Information We Gather and Track**  
-The personally identifiable information gathered from the forms you fill out on our Web site is used in one of two ways:
+Our client should note that in the following exceptions we may divulge the information;
 
-1\. to provide you with information or to ask you to participate in surveys about products, services, news and events, 
+1.1 To an intended recipient of such information which also includes third parties like 2Checkout, VeriSign, BluePay etc, who are payment gateways and operating independently. They are compliant to carry out financial transactions and they follow their own privacy policies over which we do not have any control;  
+1.2 With a lawful consent of originator;  
+1.3 To a person authorized to provide technical assistance to our clients;   
+1.4 To a law enforcement agency as the case may be;   
+1.5 To a Domain Name Registrar;
 
-2\. to aggregate broad demographic information in order to understand general user trends.   
-AccuWebHosting.com retains the services of certain outside contractors to perform services on our behalf. At times, we must disclose relevant information about our customers to our contractors so they may provide specific services for AccuWebHosting.com. AccuWebHosting.com requires such contractors to keep your information strictly confidential and to use the information solely on behalf of AccuWebHosting.com. For purposes of this Privacy Statement, such contractors are not considered "third parties" and AccuWebHosting.com may disclose personally identifiable information to such contractors without additional notice.
+**Client Confirmation :** To enable AccuWebHosting.com to use the information supplied such that we are not violating any rights you might have in that information you agree to grant AccuWebHosting.com a non exclusive, worldwide, perpetual, irrevocable, and the rights to sub-license (through multiple tiers) to use the copyrights, publicity and the intellectual property rights you have in the provided information in any media now known and not currently known. AccuWebHosting only use that information strictly in accordance with this Privacy Policy. 
 
-Advertisements displayed on AccuWebHosting.com Web sites or embedded in other media content provided by AccuWebHosting.com may be delivered via an advertising management service. When you view a web page on our web site that contains advertising provided one of our advertising management services, the advertising service company may place a cookie on your computer if you have enabled cookies. AccuWebHosting.com does not provide any of your personally identifiable information to the advertising service without your permission or providing you an opportunity to opt out. You may disable cookies in your browser if you do not wish to receive cookies from advertising servers. 
+**Security of client information that we maintain :**
 
-In addition, the AccuWebHosting.com Web sites may contain links to other Web sites. However, AccuWebHosting.com is not responsible for the privacy practices or the content of such Web sites. 
+We take every best possible measure to provide the highest protection to our client information on our system. However, we can not guarantee that the information submitted, maintained on and transmitted from our system will be completely secured.
 
-**What We Do with Information Gathered When You Acquire Third Party Products**   
-AccuWebHosting.com will never sell, rent or disclose to third parties our users' personally identifiable information collected gathered on the AccuWebHosting.com Web site. If you purchase a product or service developed or owned by a third party, AccuWebHosting.com may provide to the product owner or licensor the same information you provide to us. 
+**Changes in Privacy Policy :**
 
-**Special Third Party Relationships**  
-On occasion, AccuWebHosting.com will offer our web site visitors the opportunity to participate in third party or co-branded promotions, sweepstakes or special programs.
+AccuWebHosting.com may modify and/or update this Privacy Policy as per the requirement at any time. In case of any major change, we will notify you by placing a notice on our site.  
+  
+---  
+   
+  
+   
+  
+  
 
-The use of any information provided by a user in entering such a third party promotion will be specified prior to the user providing such information. We will also specify the manner in which such information is to be used. If your personal information is to be shared with a third party, it will only be done so with your advance informed consent.   
-These relationships will be clearly identified by AccuWebHosting.com.   
-The privacy policy or policies governing such third party promotions and/or co-branded programs will be specified. 
-
-**Communications to our Consumers**  
-In addition to product update, promotional and informational e-mails that AccuWebHosting.com sends to its users from time to time, we may, on occasion, invite you to participate in a focus group, phone survey or send you postal mail. 
-
-You may always opt-out of receiving such mail by clicking on the link provided at the bottom of our e-mail to you. 
-
-Once you supply us with personal information, such as an e-mail address, AccuWebHosting.com does not change the manner of usage of such information from its original purpose, unless we first obtain your informed consent.  
-AccuWebHosting.com employees are required to acknowledge that they understand and will strictly abide by our corporate policies with respect to the confidentiality of user personal information. 
-
-AccuWebHosting.com only gives access to databases containing personal information to employees on a need to know basis. Passwords are regularly changed pursuant to security protocols. Our security procedures are reviewed on at least a quarterly basis. 
-
-**Changes to our Privacy Policies**  
-We revise our Web Site Privacy policy to keep it up to date with AccuWebHosting.com products, services and web pages. "Updated" is used to alert users to recent changes and to the date of the last update. We also post FAQ's from time to time on specific products. 
-
-**What Sites This Covers**  
-AccuWebHosting.com will use reasonable efforts to comply with this privacy statement and will take prompt corrective action when it learns of any failure to comply with its privacy statement. Because of the complex and constantly changing nature of our technology and business, AccuWebHosting.com does not guarantee error-free performance under this privacy statement. AccuWebHosting.com shall not be liable for any incidental, consequential or punitive damages relating to this privacy statement.
