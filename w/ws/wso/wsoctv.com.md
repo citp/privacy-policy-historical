@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsoctv.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406013348id_/http%3A//www.wsoctv.com/station/1919490/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsoctv.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222235606id_/http%3A//www.wsoctv.com/station/1919490/detail.html) for the most accurate reproduction.*
 
 # WSOCTV.com - WSOC-TV - Privacy Policy
 
