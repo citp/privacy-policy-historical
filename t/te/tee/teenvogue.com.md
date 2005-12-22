@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenvogue.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628081431id_/http%3A//www.teenvogue.com/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenvogue.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222040040id_/http%3A//www.teenvogue.com/services/privacypolicy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines: Teen Vogue: Privacy Policy
 
