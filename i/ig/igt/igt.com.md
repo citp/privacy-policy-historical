@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igt.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405041647id_/http%3A//www.igt.com/Reference/Legal.asp%3Fpid%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igt.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222174124id_/http%3A//www.igt.com/Reference/Legal.asp%3Fpid%3D11) for the most accurate reproduction.*
 
 # IGT - Privacy Policy
 
@@ -64,6 +64,6 @@ Corporate Headquarters
 Reno, NV 89521-8986  
 United States   
 775-448-7777  
-Fax 448-0719
+
 
 If you have any questions regarding IGT's Privacy Policy, please contact [Webmaster@IGT.com](mailto:Webmaster@IGT.com?subject=Privacy%20Policy). 
