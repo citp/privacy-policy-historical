@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403160332id_/http%3A//www.ccfa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222233352id_/http%3A//www.ccfa.org/privacy) for the most accurate reproduction.*
 
 # CCFA.org: Privacy
 
@@ -26,20 +26,22 @@ We encourage you to note the following safeguards as to the information, service
   2. CCFA reserves the right to block individual access to this Web site for any reason it deems necessary.
 
 |  |   
-[](http://content.ccfa.org/site/lookup.asp?c=hwKTJbNOJwF&b=308017)  
-[](http://content.ccfa.org/site/lookup.asp?c=hwKTJbNOJwF&b=390419)  
-[](http://content.ccfa.org/site/lookup.asp?c=hwKTJbNOJwF&b=394495)  
-[](https://web.archive.org/myccfa/volunteer)  
-[](https://web.archive.org/chapters/)   
+[](https://www.kintera.org/site/apps/ka/sd/donorcustom.asp?c=hwKTJbN0JwF&b=308017&kntaw6318=2694AC1C5CE04AC6A0F6D1DB4E5F5891&nav=right)  
+[](http://content.ccfa.org/site/pp.asp?c=hwKTJbN0JwF&b=307412&nav=right)  
+[](https://www.kintera.org/site/apps/ka/rg/register.asp?c=hwKTJbN0JwF&b=386055&en=7pIJKQPnF9JLIPPnH7LFJLNoG9KML3MIKhJLIYOxFbJJIQOsFiI1G&nav=right)
+
+[](http://www.ucandcrohns.org/)
+
 |   
 ---  
 |  |   
   
-[](https://web.archive.org/about/membermonth)  
+[](https://web.archive.org/about/membermonth)
+
   
   
   
-[](http://www.imodium.com/)  
+[](http://www.prometheuslabs.com/)  
   
 [](https://web.archive.org/pharmasponsors)  
   
