@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the igt.com privacy policy that was archived on 2005-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050405041647id_/http%3A//www.igt.com/Reference/Legal.asp%3Fpid%3D11) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igt.com privacy policy that was archived on 2005-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051222174124id_/http%3A//www.igt.com/Reference/Legal.asp%3Fpid%3D11) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
-<title>IGT&nbsp;-&nbsp;
-Privacy Policy</title>
+<title>IGT
+ - Privacy Policy</title>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 <meta name="author" content="IGT">
 <meta name="description" content="IGT is the foremost supplier of gaming machines and gaming monitoring systems in the world.">
@@ -348,12 +348,12 @@ document[img_name].src=img_src;
 //window.onerror = blockError;
 //  End -->
 function Quick_State() {
-  if (version=="n4") {
-    var href = document.layer.document['stateform'].state.options[document.layer.document['stateform'].state.selectedIndex].value;
-  }
-  else {
+//  if (version=="n4") {
+//    var href = document.layer.document['stateform'].state.options[document.layer.document['stateform'].state.selectedIndex].value;
+//  }
+//  else {
     var href = document['stateform'].state.options[document['stateform'].state.selectedIndex].value;
-  }
+//  }
   if ( href != "nogo" ) {
     window.location = href;
   }
@@ -389,6 +389,41 @@ eval("page" + id + " = window.open(sURL, '" + id + "', '" + features + "');");
 // End -->
 
 
+// Current Page Reference
+// copyright Stephen Chapman, 1st Jan 2005
+// you may copy this function but please keep the copyright notice with it
+function getURL(uri) {
+uri.dir = location.href.substring(0,location.href.lastIndexOf('\/'));
+uri.dom = uri.dir; if (uri.dom.substr(0,7) == 'http:\/\/') uri.dom = uri.dom.substr(7);
+uri.path = ''; var pos = uri.dom.indexOf('\/'); if (pos > -1) {uri.path = uri.dom.substr(pos+1); uri.dom = uri.dom.substr(0,pos);}
+uri.page = location.href.substring(uri.dir.length+1,location.href.length+1);
+pos = uri.page.indexOf('?');if (pos > -1) {uri.page = uri.page.substring(0, pos);}
+pos = uri.page.indexOf('#');if (pos > -1) {uri.page = uri.page.substring(0, pos);}
+uri.ext = ''; pos = uri.page.indexOf('.');if (pos > -1) {uri.ext =uri.page.substring(pos+1); uri.page = uri.page.substr(0,pos);}
+uri.file = uri.page;
+if (uri.ext != '') uri.file += '.' + uri.ext;
+if (uri.file == '') uri.page = 'index';
+uri.args = location.search.substr(1).split("?");
+return uri;
+}
+
+var uri = new Object();
+getURL(uri);
+
+function getFlashDomain()
+{
+	alert("Domain is : " + getURL(uri.dom))
+}
+
+//domain (uri.dom) : "javascript.about.com"
+//path (uri.path) : "library"
+//page (uri.page) : "blurl1"
+//extension (uri.ext) : "htm"
+//filename (uri.file) : "blurl1.htm"
+//query string (uri.arg) : ""
+
+
+
 <!-- Begin
 function MenuLink(form) {
 //	var windowprops = "height=500,width=500,location=no,scrollbars=no,menubars=no,toolbars=no,resizable=yes";
@@ -418,8 +453,8 @@ function jsCloseChildRedirectParent(argURL){
 </script>
 
 
-<script language="JavaScript" src="/ephoxeditlive/editlive/editlive3_new.js"></script>
-<script language="VBScript" src="/ephoxeditlive/editlive/editlive3_new.vbs"></script>
+<script language="JavaScript" src="/ephoxeditlive/editlive/editlive3.js"></script>
+<script language="VBScript" src="/ephoxeditlive/editlive/editlive3.vbs"></script>
 
 <script type="text/javascript" src="/JavaScript/form_validation.js"></script>
 </head>
@@ -433,6 +468,8 @@ function jsCloseChildRedirectParent(argURL){
 
 <table class="HeaderColor" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
+
+<!--		<td align="left" valign="top"><a href="http://< %= sWebName %>.SodakGaming.com"><img border="0" src="< %=strImagePath%>SodakLogo_150w.gif" /></a></td> -->
 
 		<td align="left" valign="top"><a href="http://www.IGT.com"><img border="0" src="http://media.IGT.com/images/Logo_IGT_100w.gif"></a></td>
 		
@@ -570,6 +607,10 @@ function jsCloseChildRedirectParent(argURL){
 					<td colspan="4"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
+					<td colspan="4"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 
 				</tr>
 
@@ -634,6 +675,12 @@ function jsCloseChildRedirectParent(argURL){
 					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
+					<td colspan="2"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 
 				</tr>
 
@@ -708,6 +755,13 @@ function jsCloseChildRedirectParent(argURL){
 					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
+					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td colspan="2" class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 
 				</tr>
 
@@ -782,75 +836,89 @@ function jsCloseChildRedirectParent(argURL){
 					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
+					<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 
 				</tr>
 
 				<tr>
 <td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="29"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
 					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/BusinessDivisions/default.asp?pid=25" class="TabNeutralA" target="_top">BUSINESS<br>DIVISIONS</a></td>
+					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Content/base.asp?pid=25" class="TabNeutralA" target="_top">BUSINESS<br>DIVISIONS</a></td>
 					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 <td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="29"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
 					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/GamingGroup/Games/base.asp?pid=5" class="TabNeutralA" target="_top">GAMES</a></td>
 					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 <td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="29"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
 					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Content/base.asp?pid=50" class="TabNeutralA" target="_top">IGT<br>SYSTEMS</a></td>
+					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Content/base.asp?pid=57" class="TabNeutralA" target="_top">SAS &amp;<br>SUPERSAS</a></td>
 					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 <td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="29"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
 					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igtonline.com/megajackpots/" class="TabNeutralA" target="_top">MEGAJACKPOTS™</a></td>
+					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Content/base.asp?pid=50" class="TabNeutralA" target="_top">IGT ADVANTAGE<br>SYSTEMS</a></td>
 					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 <td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="29"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
 					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
-					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Support/base.asp?pid=26" class="TabNeutralA" target="_top">SUPPORT</a></td>
+					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/GamingGroup/MegaJackpots/default.asp?pid=4" class="TabNeutralA" target="_top">MEGAJACKPOTS</a></td>
 					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 <td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="29"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
+					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Content/base.asp?pid=26" class="TabNeutralA" target="_top">SUPPORT</a></td>
+					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
 					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Content/base.asp?pid=7" class="TabNeutralA" target="_top">RESPONSIBLE<br>GAMING</a></td>
 					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 <td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="29"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
 					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/SupplierDiversity/base.asp?pid=29" class="TabNeutralA" target="_top">SUPPLIER<br>DIVERSITY</a></td>
 					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 <td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="29"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
 					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/NewsRoom/base.asp?pid=8" class="TabNeutralA" target="_top">NEWS<br>ROOM</a></td>
 					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 <td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="29"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
 					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="TabNeutral" align="center" valign="middle"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=119000&amp;p=irol-IRHome" class="TabNeutralA" target="_top">INVESTOR<br>RELATIONS</a></td>
 					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 <td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
-					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="29"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="25"></td>
 					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td colspan="2" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="TabNeutral" align="center" valign="middle"><a href="http://www.igt.com/Jobs/default.asp?pid=10" class="TabNeutralA" target="_top">JOBS</a></td>
@@ -860,6 +928,12 @@ function jsCloseChildRedirectParent(argURL){
 				</tr>
 
 				<tr>
+<td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
+					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td colspan="3" class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorShadow"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
+					<td class="NeutralColorShadowMax"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 <td><img border="0" src="http://www.igt.com/images/spacer.gif" width="2" height="1"></td>
 					<td class="NeutralColorMiddletone"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
 					<td class="NeutralColorHighlight"><img border="0" src="http://www.igt.com/images/spacer.gif" width="1" height="1"></td>
@@ -1015,6 +1089,10 @@ function jsCloseChildRedirectParent(argURL){
           </td>
         </tr>
 
+<!--		<tr><td align="center">
+<a href="http://www.IGT.com"><img border="0" src="< %=strImagePath%>Logo_IGT_50w.gif" /></a>
+		</td> -->
+
 		
       </tbody></table>
     </td>
@@ -1070,7 +1148,7 @@ function jsCloseChildRedirectParent(argURL){
 Reno, NV 89521-8986<br>United States
 <br>
 775-448-7777<br>
-Fax 448-0719</p><p></p>
+</p><p></p>
 <p class="ContentJustify">If you have any questions regarding IGT's Privacy Policy, please contact <a href="mailto:Webmaster@IGT.com?subject=Privacy Policy">Webmaster@IGT.com</a>.
 
 </p></td></tr></tbody></table>
