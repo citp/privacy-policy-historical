@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404102754id_/http%3A//www.virginia.org/site/main.asp%3Freferrer%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222041130id_/http%3A//www.virginia.org/site/main.asp%3Freferrer%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy: Statewide: Virginia Is For Lovers
 
   
-If you feel that this company is not abiding by its posted privacy policy, contact Wirt Confroy, Electronic Marketing Directory by phone at (804) 371-8168 or email [wconfroy@virginia.org.](mailto:wconfroy@virginia.org)
+If you feel that this company is not abiding by its posted privacy policy, contact Wirt Confroy, Electronic Marketing Director by phone at (804) 545-5552 or email [wconfroy@virginia.org.](mailto:wconfroy@virginia.org)
 
 **Information Collection and Use**
 
