@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenisai.com privacy policy that was archived on 2005-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050320094929id_/http%3A//thenisai.com/tamil/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenisai.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222114604id_/http%3A//thenisai.com/tamil/misc/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -9,4 +9,4 @@ Personal information collected on our site will be utilized only for internal pu
 **Advertisers**  
 We work with various third party advertising networks like Commission Junction, Popuptraffic, . These ads may contain cookies. Cookies received with banner ads are collected by advertising network, and we do not have access to this information. To find out more about how the ad network manages the privacy of information in conjunction with serving ads on this site, please go to [Commision Junction](http://www.cj.com/), [Popup traffic](http://www.popuptraffic.com/wsignup.php?tamilfm), [Absolute agency](http://click.absoluteagency.com/), [Click thru traffic](http://clickthrutraffic.com/scripts/signup.php?referer=tamilfm), [Search Traffic](http://www.searchtraffic.com/wsignup.php3?tamilfm), [Popup sponsor](http://www.popupsponsor.com/tracker/ref.phtml?ref_id=8316&s=0), [Focusin](http://www.focusin.com/). 
 
-Please contact us if you have any further questions about our privacy policy. 
+Please [contact us](https://web.archive.org/cgi-bin/db_feed.cgi) if you have any further questions about our privacy policy. 
