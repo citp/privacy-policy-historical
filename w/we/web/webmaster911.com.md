@@ -1,25 +1,56 @@
-> *The following text is extracted and transformed from the webmaster911.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206091427id_/http%3A//www.clicksouth.net/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmaster911.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222042955id_/http%3A//www.webmaster911.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# WebMaster 911 Privacy Policy
 
-**ClickSouth.Net considers the safeguarding of your personal information as our highest priority.**
+WebMaster911.com respects your right to privacy. We understand the sensitive nature of privacy issues and the company takes measures to ensure that your confidentiality is protected.
 
-Use of Information: ClickSouth.Net is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
+By using WebMaster911.com, you consent to the following privacy policy. This policy is subject to change and updates will be posted on this page.
 
-Cookies: Cookies may be used on this site to allow for movement between secure sections. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site.
+**Coverage**  
+This policy applies to our URLs www.WebMaster911.com, and that includes a link to this policy at the bottom of the page are covered by this privacy policy. The presence of the WebMaster911.com logo alone does not guarantee the applicability of this policy. 
 
-Log Files: We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+This policy does not apply to our partners, advertisers or any other web site that may be connected, in any way, with WebMaster911.com.
 
-Links: This website may contain links to other sites. Please be aware that ClickSouth.Net is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website.
+**Third-Party Links**  
+As a search engine, and as an advertising publisher, you will find various kinds of links on our site, including but not limited to: search results, Text Links, banners, and Partners. These sites are owned and maintained by outside companies, over which WebMaster911.com has no control, and who are not covered by this privacy policy. WebMaster911.com is not responsible for the content of these sites, or their collection of information and its use. If you have any concerns about your privacy at one of these sites, please review their sites' policies or contact them directly.
 
-Surveys & Contests: From time to time, our site may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+**Banner Advertisements**  
+Third-party servers supply some of the banner advertisements that appear on WebMaster911.com. Some of these advertisers have the ability to deposit cookies on your computer in order to track performance and to limit the number of times a particular banner is shown to you. These cookies are separate from our own (see below) and the information collected from them is not shared with WebMaster911.com.
 
-Security: ClickSouth.Net takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
+Like the links we provide to other web sites, these third-party servers are not covered by WebMaster911.com's privacy policy.
 
-When our registration/login forms ask users to enter sensitive information (such as account information), that information is encrypted and is protected with the most widely used encryption software in the industry - SSL. While on a secure page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about SSL, follow this link www.ssl.com
+**Cookies**  
+A cookie is a small piece of data that is sent to your computers' hard drive when visiting our site, and may also be transmitted when customizing your search preferences in our Power Search, or when registering for one of our services. No personal information is stored within the cookie. It is an anonymous piece of data that simply identifies your computer IP address, but not you.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information is restricted in our offices and our service provider's offices. Only employees who need the information to perform a specific job (for example, our technical team or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
+Cookies are used to identify you as a unique user, and to let us know when you return to our site. They are used to provide customizable services, serve relevant advertising, and to monitor our traffic.
 
-Final Overview: ClickSouth.Net does not provide access, will not provide access and has no intentions of ever providing access of any customer information to a third party, ever. We protect our customers right to privacy at all costs. Period.
+You can choose to accept or refuse cookies by changing the settings of your browser. Or, you can opt to be warned before a cookie is deposited on your computer.
 
- 
+**Contact Information**  
+WebMaster911.com only has access to your personal (identifiable) contact information in the following circumstances:
+
+1\. When you send comments, questions, suggestions, or feedback to WebMaster911.com via email, and include an email address and/or contact information. In these cases, WebMaster911.com only uses this information to respond to you.
+
+2\. When you participate in special offers, contests, or surveys, the collection of contact information is often required for registration, and for winner notification. In some instances, these are co-sponsored and so your information will be shared with that particular partner.
+
+3\. Signing up for WebMaster911 services, including but not limited to the affiliates program, premium placement advertising, and partnership programs require registration, and the submission of certain information, which often includes contact information. Some of these products also require payment information in addition to contact details. To ensure your security in these circumstances WebMaster911.com uses a third-party credit card processing site for the entrance and (possible) storage of your credit card information. If you are not willing to provide this information to WebMaster911.com you may choose not to participate in these programs.
+
+Please note, that some contests or services advertised on or through WebMaster911.com may require personal contact information in order to enter or register. This information is not shared with WebMaster911.com, and these advertisers are not covered by this privacy policy (please see Third-Party Links, above).
+
+**Unsolicited Contact**  
+WebMaster911.com will not sell or disclose your contact information to any third-parties, unless otherwise stated (please see 2, under Contact Information). We may, however, occasionally send emails to subscribers of our services, or survey respondents regarding new services or offers from WebMaster911.com or selected partners that may be of interest.
+
+WebMaster911.com respects your right to unsubscribe from company mailings at any time. To do so, please contact our Customer Service department.
+
+**Information Sharing**  
+WebMaster911.com shares the information we gather from cookies, clients, survey respondents, etc., with advertisers, business partners, sponsors, and other selected 3rd parties. This sharing of information is only done in an aggregate form for statistical purposes. We never distribute personally identifiable information without your consent, unless we are required to do so by law (due to a court order, subpoena, etc), or to protect WebMaster911.com, our users, or the general public.
+
+**Security**  
+WebMaster911.com has security measures in place to help protect against the loss, misuse and alteration of user and customer data under our control. While we cannot guarantee that loss, misuse or alteration of the data will not occur, we promise to do our utmost to prevent against any such occurrences.
+
+For additional information, or to express your concerns, please contact our team at the following address:
+
+WebMaster911.com  
+Attn: Privacy Department  
+10824 SE Oak Street #205  
+Milwaukie, OR 97222
