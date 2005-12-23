@@ -1,15 +1,450 @@
-<!--The following is the downloaded HTML source of the gossimer.com privacy policy that was archived on 2005-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050419013359id_/http%3A//www.gossimer.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gossimer.com privacy policy that was archived on 2005-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051223165131id_/http%3A//www.gossimer.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>Gossimer - Affordable Web Hosting and domain registration</title>
+<meta name="keywords" content="Gossimer, Gossimer Network, web hosting, web host, cheap hosting, domain name registration, unix web host, hosting, host, web space, affordable web space, award winning web host, affordable web host, cheap domain name registration, high powered web host, site hosting, perl script installation, live support">
+<meta name="description" content="Affordabable web hosting with your own domain name on high powered unix servers.  All hosting packages come loaded with features and offer our award winning 24/7 support.">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-</head>
+<meta http-equiv="Content-Language" content="en-us">
+<link rel="STYLESHEET" type="text/css" href="templates/gossimer/css/style.css">
+<script language="javascript"><!--
+function submitonce(theform){
+//if IE 4+ or NS 6+
+if (document.all||document.getElementById){
+//screen thru every element in the form, and hunt down "submit" and "reset"
+for (i=0;i<theform.length;i++){
+var tempobj=theform.elements[i]
+if(tempobj.type.toLowerCase()=="submit"||tempobj.type.toLowerCase()=="reset")
+//disable em
+tempobj.disabled=true
+}
+}
+}
+//--></script>
+<script language="javascript"><!--
+var submitcount=0;
+function check_form() {
+   if (submitcount == 0)
+      {
+      submitcount++;
+      return true;
+      }
+   else 
+      {
+      alert("This form has already been submitted.  Thanks!");
+      return false;
+      }
+}
+//--></script>
+<script language="javascript">
+<!--
 
-<body>
-<p><b>Privacy Policy</b></p>
-<p>For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address. We only collect information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, and to manage your account with us at Gorrimer Network, this information is not shared with other organizations for commercial purposes. We use cookies to record session information, such as items that consumers add to their shopping cart. Upon request we provide site visitors with access to all information (including proprietary information) that we maintain about them. Consumers can access this information by contacting us. Consumers can also have this information corrected. We always encrypt passwords and other valuable data entered.
-</p>
+function countChoices() {
+max = 6;
+count = 0;
+		for (xx=0; xx < document.myform.elements.length; xx++)
+		{
+		   if (document.myform.elements[xx].type == 'checkbox')
+			{
+			if (document.myform.elements[xx].checked == true)
+			 {count = count + 1;
+				if (count > max) {
+				alert("Oops!  You can only choose up to " + max + " domains! \nUncheck an option if you want to pick another.");
+				document.myform.elements[xx].checked = false;
+				}
+			 }
+			}
+		}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+		function openWin(url, price) {
+	 		openNew = window.open(url, price, 'directories=no,height=335,width=500,resizable=yes,menubar=no,scrollbars=yes');
+		}
+		function openWin1(url, service) {
+	 		openNew = window.open(url, service, 'directories=no,height=335,width=550,resizable=yes,menubar=no,scrollbars=yes');
+	  	}
+		function openWin(url, dyndns) {
+	 		openNew = window.open(url, dyndns, 'directories=no,height=350,width=650,resizable=yes,menubar=no,scrollbars=yes');
+	  	}
+// -->
+</script>
+
+<script language="JavaScript">
+function validForm(obj)
+{
+  var radioChecked = true;
+  var checkboxChecked = true;
+for (var i=0; i<obj.elements.length;i++)
+ {
+    var currentElement = obj.elements[i];
+    var currentType = currentElement.type;
+    if (currentType == 'text')
+    {
+    if(null!=obj.elements[i].getAttribute("required")){  
+	    if (!obj.elements[i].value)
+	      {
+	        alert('You must fill in all the required fields!');
+	        currentElement.focus();
+	        return false;
+	      }
+	    }
+    }
+    if (currentType == 'checkbox' && currentElement.checked)
+    {
+      checkboxChecked = true;
+    }
+    if (currentType == 'checkbox' && !currentElement.checked && null!=obj.elements[i].getAttribute("required"))
+    {
+		alert('You have empty checkboxes!');      
+    	return false;
+    }
+  }
+
+  if (!checkboxChecked)
+  {
+    alert('You have empty checkboxes!');
+    return false;
+  }
+  return true;
+}
+</script>
+
+</head><body bgcolor="#ffffff" leftmargin="0" topmargin="0" rightmargin="0"><div id="blockDiv" style="position: absolute; left: 149px; top: 75px; width: 200px; height: 30px; visibility: hidden;">
+	<table width="200" border="2" cellpadding="0" cellspacing="0" height="30">
+	<tbody><tr>
+		<td colspan="3" height="1" bgcolor="#cccccc" ;"=""><img src="templates/gossimer/images/spacer.gif" height="1" width="200"></td>
+	</tr>
+	<tr>
+		<td width="1" bgcolor="#cccccc" ;"=""><img src="/graphics/spacer.gif" height="1" width="1"></td>
+		<td width="198" height="28" class="waitbox">
+		<center><b><font size="+1"></font></b></center><b><br><center><img id="blockImg" src="templates/gossimer/images/loading.gif" align="absbottom"></center><br></b>
+		</td>
+		<td width="1" bgcolor="gray" ;"=""><img src="templates/gossimer/images/spacer.gif" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td colspan="3" height="1" bgcolor="gray" ;"=""><img src="templates/gossimer/images/spacer.gif" height="1" width="200"></td>
+	</tr>
+	</tbody></table>
+</div>
+
+
+<script language="Javascript">
+<!--
+	//ffcc00
+	var block
+	ns4 = (document.layers)? true:false
+	moz = (!document.all && document.getElementById)? true:false 	
+	ie4 = (document.all)? true:false
+
+	function init() {
+		idtag = "blockImg"
+		if(ns4 && document.blockDiv){
+			block = document.blockDiv
+		}
+		if (ie4) block = blockDiv.style
+		if (ie4) document.images[idtag].src = document.images[idtag].src
+		if (ie4) setTimeout('document.images["blockImg"].src = "templates/gossimer/images/loading.gif"', 200);
+		if(moz && document.getElementById('blockDiv')){
+			block = document.getElementById('blockDiv').style
+		}
+	}
+
+	function showObject() {
+		init ();
+		if(block){
+		leftPos = 0
+		topPos = 0
+		if (screen) {
+		leftPos = (screen.width / 2) - 251
+		topPos = (screen.height / 8)
+		block.xpos = leftPos;
+		block.left = block.xpos;
+		block.ypos = topPos;
+		block.top = block.ypos;
+		}else{
+		block.xpos = 150;
+		block.left = block.xpos;
+		block.ypos = 150;
+		block.top = block.ypos;			
+		}
+
+		if (ns4) block.visibility = "show";
+		else if (moz) block.visibility = "visible";
+		else if (ie4) block.visibility = "visible";
+		}
+	}
+
+	function hideObject() {
+		init ();
+		if(block){
+		if (ns4) block.visibility = "hide";
+		else if (moz) block.visibility = "hidden";
+		else if (ie4) block.visibility = "hidden";
+		}
+	}
+	showObject();
+//-->
+</script>
+<script language="Javascript">hideObject();</script>
+
+
+
+
+
+<center>
+
+
+<table width="725" border="0" cellpadding="0" cellspacing="0">
+
+	<tbody><tr>
+
+		<td>
+
+			<img src="templates/gossimer/images/logo.jpg" width="247" height="100" alt=""></td>
+
+		<td width="478" height="100" alt="" valign="top">
+
+		<div style="margin-left:267px; margin-top:44px "><img src="templates/gossimer/images/top_arr.jpg" align="absmiddle" style="margin-right:5px "><a href="http://www.gossimer.com" style="color:#888888 ">Home</a><img src="templates/gossimer/images/top_dot.jpg" align="absmiddle" style="margin-left:9px; margin-right:9px "><img src="templates/gossimer/images/top_arr.jpg" align="absmiddle" style="margin-right:5px ">
+
+
+		<a href="http://www.gossimer.com/aLogIn.php?cid=483216dbb54c562063c2a2e152c41dbe" style="color:#888888 ">Login</a>
+
+		<img src="templates/gossimer/images/top_dot.jpg" align="absmiddle" style="margin-left:9px; margin-right:9px ">
+
+		<img src="templates/gossimer/images/top_arr.jpg" align="absmiddle" style="margin-right:5px "><a href="http://www.gossimer.com/createacct.php?cid=483216dbb54c562063c2a2e152c41dbe" style="color:#888888 ">Create Account</a>
+
+				
+
+		</div>
+
+		</td> 
+
+	</tr>
+
+</tbody></table>
+
+<table width="725" border="0" cellpadding="0" cellspacing="0">
+
+<tbody><tr>
+
+		<td width="725" height="32" alt="" valign="top" background="templates/gossimer/images/menu.jpg">
+
+		<div style="margin-left:21px; margin-top:10px "><a href="index.html"><img src="templates/gossimer/images/home.jpg" border="0" align="absmiddle" style="margin-right:7px "></a><img src="templates/gossimer/images/top_line.jpg" align="absmiddle" style="margin-right:8px "><a href="http://www.gossimer.com" style="color:#94A4BD; font-size:9px "><strong>www.gossimer.com</strong></a><img src="templates/gossimer/images/spacer.gif" width="162" height="1" align="absmiddle"><a href="http://www.gossimer.com/check.php" style="color:#FFFFFF; font-size:11px "><strong>Domains</strong></a><img src="templates/gossimer/images/top_line1.jpg" align="absmiddle" style="margin-left:20px; margin-right:20px "><a href="http://www.gossimer.com/hosting.php" style="color:#FFFFFF; font-size:11px "><strong>Hosting</strong></a><img src="templates/gossimer/images/top_line1.jpg" align="absmiddle" style="margin-left:20px; margin-right:20px "><a href="http://www.gossimer.com/hosting.php?spt=11" style="color:#FFFFFF; font-size:11px "><strong>E-mail</strong></a><img src="templates/gossimer/images/top_line1.jpg" align="absmiddle" style="margin-left:20px; margin-right:20px "><a href="services.php" style="color:#FFFFFF; font-size:11px "><strong>Services</strong></a><img src="templates/gossimer/images/top_line1.jpg" align="absmiddle" style="margin-left:18px; margin-right:20px "><a href="http://www.gossimer.com/support.php" style="color:#FFFFFF; font-size:11px "><strong>Support</strong></a></div>
+
+		</td>
+
+	</tr>
+
+	<tr>
+
+		<td>
+
+			<img src="templates/gossimer/images/top1.jpg" width="725" height="3" alt=""></td>
+
+	</tr>	
+
+</tbody></table>
+
+<table width="725" border="0" cellpadding="0" cellspacing="0">
+
+<tbody><tr>
+
+	<td width="254">
+
+			<img src="templates/gossimer/images/top_td1.jpg" width="251" height="14" alt=""></td>
+
+		<td width="471">
+
+			<img src="templates/gossimer/images/1top.jpg" width="471" height="14" alt=""></td>
+
+	</tr>
+
+</tbody></table>
+
+
+<table width="725" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
+
+  <tbody><tr> 
+
+    <td width="251" height="542" alt="" valign="top">
+		<div style="background-image:url(templates/gossimer/images/td_bot.jpg); background-position:bottom; background-repeat:no-repeat ">
+<table width="251" height="542" border="0" cellspacing="0" cellpadding="0" background="templates/gossimer/images/td_top1.jpg" style="background-position:top; background-repeat:no-repeat ">
+  <tbody><tr>
+    <td valign="top">
+	<div style="margin-left:13px; margin-top:-2px "><img src="templates/gossimer/images/6txt1.jpg"></div>
+	<div style="margin-left:13px; margin-top:11px "><table width="220" height="40" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr><td style="padding-left:15;padding-right:13;padding-top:5">	               <font face="century gothic, verdana, Helvetica, san-serif" size="2">
+	               Account Menu	               </font>
+                   <br>
+          <img src="templates/gossimer/images/bullet.gif" height="10" width="8">&nbsp;&nbsp;<a href="http://www.gossimer.com/index.php" class="menu">
+          Home	               </a>&nbsp;&nbsp;
+                   <br>
+          <img src="templates/gossimer/images/bullet.gif" height="10" width="8">&nbsp;&nbsp;<a href="http://www.gossimer.com/cart.php" class="menu">
+          My Cart	               </a>&nbsp;&nbsp;
+                   <br>
+          <img src="templates/gossimer/images/bullet.gif" height="10" width="8">&nbsp;&nbsp;<a href="http://www.gossimer.com/createacct.php?cid=483216dbb54c562063c2a2e152c41dbe" class="menu">
+          Create Account	               </a>&nbsp;&nbsp;
+                   <br>
+          <img src="templates/gossimer/images/bullet.gif" height="10" width="8">&nbsp;&nbsp;<a href="http://www.gossimer.com/aLogIn.php?cid=483216dbb54c562063c2a2e152c41dbe" class="menu">
+          LogIn	               </a>&nbsp;&nbsp;
+                   <br>
+            <br>
+                   <font face="century gothic, verdana, Helvetica, san-serif" size="2">
+                   Hosting Services                   </font>
+      <br>
+            <br>
+      <img src="templates/gossimer/images/bullet.gif" height="10" width="8">&nbsp;&nbsp;<a href="http://www.gossimer.com/hosting.php?spt=1" class="menu">
+      Linux Hosting             </a>&nbsp;&nbsp;
+              <br>
+
+      <img src="templates/gossimer/images/bullet.gif" height="10" width="8">&nbsp;&nbsp;<a href="http://www.gossimer.com/hosting.php?spt=2" class="menu">
+      Windows Hosting                   </a>&nbsp;&nbsp;
+              <br>
+            <br>
+                   <font face="century gothic, verdana, Helvetica, san-serif" size="2">
+                   Domain Services                   </font>
+      <br>
+      <img src="templates/gossimer/images/bullet.gif" height="10" width="8">&nbsp;&nbsp;<a href="http://www.gossimer.com/check.php" class="menu">
+      Register Domain                   </a>&nbsp;&nbsp;
+      <br>
+      <img src="templates/gossimer/images/bullet.gif" height="10" width="8">&nbsp;&nbsp;<a href="http://www.gossimer.com/dotname.php" class="menu">
+      Register .NAME                   </a>&nbsp;&nbsp;
+      <br>
+      <img src="templates/gossimer/images/bullet.gif" height="10" width="8">&nbsp;&nbsp;<a href="http://www.gossimer.com/transcheck.php" class="menu">
+      Transfer Domain                   </a>&nbsp;&nbsp;
+      <br>
+                          <img src="templates/gossimer/images/bullet.gif" height="10" width="8">&nbsp;&nbsp;<a href="http://www.gossimer.com/forsale.php" class="menu">
+              Domains 4 Sale              </a>&nbsp;&nbsp;
+              <br>
+                      <img src="templates/gossimer/images/bullet.gif" height="10" width="8">&nbsp;&nbsp;<a href="http://www.gossimer.com/resellers.php" class="menu">
+          Domain Resellers                   </a>&nbsp;&nbsp;
+              <br>
+            <br>
+                   <font face="century gothic, verdana, Helvetica, san-serif" size="2">
+                   Other Services                   </font>
+      <br>
+      <img src="templates/gossimer/images/bullet.gif" height="10" width="8">&nbsp;&nbsp;<a href="http://www.gossimer.com/whois.php" class="menu">
+      Whois Lookup                   </a>&nbsp;&nbsp;
+      <br>
+      <br>
+                   <font face="century gothic, verdana, Helvetica, san-serif" size="2">
+                   Pricing                   </font>
+      <br>
+      <img src="templates/gossimer/images/bullet.gif" height="10" width="8">&nbsp;&nbsp;<a href="pricing.php" target="_blank" class="menu" onclick="window.open(&quot;http://www.gossimer.com/pricing.php&quot;,&quot;pricing&quot;,&quot;width=475,height=415,status=yes,scrollbars=1,resizable=1&quot;);return false;">
+      Domain Prices                   </a>&nbsp;&nbsp;
+      <br>
+      </td></tr>
+</tbody></table>
+</div>
+        <div style="margin-left:13px; margin-top:5px "></div>
+        <div style="margin-left:13px; margin-top:0px "></div>
+        <div style="margin-left:13px; margin-top:5px "></div>        <div style="margin-left:13px; margin-top:0px "></div>
+        <div style="margin-left:13px; margin-top:5px "></div>
+	</td></tr>
+</tbody></table>
+</div></td>
+
+    <td width="100%" align="left" valign="top"> 
+
+      <table width="470" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="100%" height="40">&nbsp;</td></tr>
+<!--begin page content--add rows - start with <tr> and end with </tr> and you will be fine....-->
+
+<tr>
+    <td align="center" class="texttitle" width="100%">Privacy Policy</td>
+  </tr>
+<tr><td align="center" width="100%"><table width="80%" border="0">
+              <tbody><tr>
+                <td width="100%"><br> 
+                  <p>For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address. We only collect information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, and to manage your account with us at Gorrimer Network, this information is not shared with other organizations for commercial purposes. We use cookies to record session information, such as items that consumers add to their shopping cart. Upon request we provide site visitors with access to all information (including proprietary information) that we maintain about them. Consumers can access this information by contacting us. Consumers can also have this information corrected. We always encrypt passwords and other valuable data entered. </p>
+                </td>
+              </tr>
+            </tbody></table></td></tr>
+
+
+<!--end page content-->
+
+</tbody></table>    
+
+</td>
+
+    <td></td>
+
+  </tr>
+
+</tbody></table>
+
+<table width="725" border="0" cellpadding="0" cellspacing="0">
+
+<tbody><tr>
+
+		<td>
+
+			<img src="templates/gossimer/images/spacer.gif" width="725" height="7" alt=""></td>
+
+	</tr>
+
+<tr>
+
+		<td bgcolor="#A0A0A0">
+
+			<img src="templates/gossimer/images/spacer.gif" width="725" height="9" alt=""></td>
+
+	</tr>
+
+	<tr>
+
+		<td width="725" height="107" alt="" valign="top">
+
+		<div align="center" style="margin-top:18px; color:#42567D "><a href="http://www.gossimer.com/affiliate.php" style="color:#42567D ">Affiliates</a><img src="templates/gossimer/images/spacer.gif" width="13" height="1" align="absmiddle">|<img src="templates/gossimer/images/spacer.gif" width="13" height="1" align="absmiddle"><a href="http://www.gossimer.com/support.php" style="color:#42567D ">Help 
+
+        Desk</a><img src="templates/gossimer/images/spacer.gif" width="13" height="1" align="absmiddle">|<img src="templates/gossimer/images/spacer.gif" width="13" height="1" align="absmiddle"><a href="sitemap.php" style="color:#42567D ">Site 
+
+        Map </a><img src="templates/gossimer/images/spacer.gif" width="13" height="1" align="absmiddle">|<img src="templates/gossimer/images/spacer.gif" width="13" height="1" align="absmiddle"><a href="http://www.gossimer.com/links.php" style="color:#42567D ">Links</a><img src="templates/gossimer/images/spacer.gif" width="13" height="1" align="absmiddle">|<img src="templates/gossimer/images/spacer.gif" width="13" height="1" align="absmiddle"><a href="http://www.gossimer.com" style="color:#42567D ">Home</a></div>
+
+		<div align="center" style="margin-top:13px; color:#6D6D6D ">Copyright © Gossimer Network 2003-2005. All Rights Reserved</div>
+
+		
+
+      <div style="margin-top:1px; font-size:9px; color:#FF871D " align="center"><a href="http://www.gossimer.com/privacy.php" target="_blank" style="color:#FF871D ">Privacy 
+
+        Policy</a><img src="templates/gossimer/images/bot_line.jpg" align="absmiddle" style="margin-left:7px; margin-right:7px "><a href="http://www.gossimer.com/ua.php" target="_blank" style="color:#FF871D ">User 
+
+        Agreement</a><img src="templates/gossimer/images/bot_line.jpg" align="absmiddle" style="margin-left:7px; margin-right:7px "><a href="http://www.gossimer.com/aup.php" target="_blank" style="color:#FF871D ">Acceptable 
+
+        Use Policy</a></div>
+
+		</td>
+
+	</tr>
+
+</tbody></table>
+
+</center>
+
+
 
 
 </body></html>
