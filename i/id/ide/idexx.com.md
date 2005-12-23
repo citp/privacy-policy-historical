@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the idexx.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603101042id_/http%3A//www.idexx.com/aboutidexx/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idexx.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223094013id_/http%3A//www.idexx.com/aboutidexx/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### IDEXX Laboratories, Inc. Privacy Policy Statement
 
-**Information collected on this Web site is used by IDEXX or its affiliates solely for internal purposes, as more fully described in the full text of the IDEXX Privacy Policy below. IDEXX and its subsidiaries do not sell e-mail addresses or other personal information to other companies.**
+**IDEXX and its subsidiaries do not provide e-mail addresses or other personal information to any third parties. Information collected on this Web site is used by IDEXX or its affiliates solely for internal purposes, as more fully described in the full text of the IDEXX Privacy Policy below.**
 
-Your privacy, and the privacy of all users of idexx.com, is important to us. Accordingly, we have adopted the following Privacy Policy. This Privacy Policy applies to information derived from your use of this site. This site is administered and maintained by IDEXX Laboratories, Inc., of Westbrook, Maine, U.S.A. Use of this site is governed by the [Terms of Use](https://web.archive.org/web/20040603101042id_/http%3A//www.idexx.com/aboutidexx/terms.cfm) and indicates acceptance of such terms.
+Your privacy, and the privacy of all users of idexx.com, is important to us. Accordingly, we have adopted the following Privacy Policy. This Privacy Policy applies to information derived from your use of this site. This site is administered and maintained by IDEXX Laboratories, Inc., of Westbrook, Maine, U.S.A. Use of this site is governed by the [Terms of Use](https://web.archive.org/web/20051223094013id_/http%3A//www.idexx.com/aboutidexx/terms.jsp) and indicates acceptance of such terms.
 
 Our policy is based on the principles of notice, choice, access and security in the collection and use of all information regarding our users and their activities at our site.
 
@@ -45,10 +45,12 @@ At any time after you have registered on this site or otherwise submitted person
 
 If you provide any information to parties who operate Web sites that are linked to or from our site, different rules may apply to their collection, use or disclosure of your personal information. We encourage you to review these sites' policies before revealing any sensitive or personal information.
 
-We use physical, procedural, and technical safeguards to prevent unauthorized access, destruction, use, modification, or disclosure of individually-identifiable information. We instruct our employees that information must be handled in accordance with this privacy policy, and any misuse by employees is subject to disciplinary action. 
+We use physical, procedural, and technical safeguards to prevent unauthorized access, destruction, use, modification, or disclosure of individually-identifiable information. We instruct our employees that information must be handled in accordance with this privacy policy, and any misuse by employees is subject to disciplinary action.
 
 Regardless of the precautions taken by you or us, "perfect security" does not exist on the Internet. We cannot ensure or warrant the security of any information you transmit to us, and you transmit sensitive information at your own risk.
 
 ##### Changes to Privacy Policy
 
-It may be necessary from time to time for us to modify this policy to reflect changes in the way we collect and use information or changes in privacy-related laws, regulations, and industry standards. Accordingly, we reserve the right to change this Privacy Policy at any time by updating this posting without notice. Visitors should view this page from time to time to review the then-current policy. This policy was posted on September 11, 2002. 
+It may be necessary from time to time for us to modify this policy to reflect changes in the way we collect and use information or changes in privacy-related laws, regulations, and industry standards. Accordingly, we reserve the right to change this Privacy Policy at any time by updating this posting without notice. Visitors should view this page from time to time to review the then-current policy. This policy was posted on September 11, 2002.
+
+Last updated: December 16, 2004
