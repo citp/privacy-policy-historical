@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fun-with-words.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405234916id_/http%3A//www.fun-with-words.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun-with-words.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223171624id_/http%3A//fun-with-words.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -41,4 +41,4 @@ Fun-with-words.com may not be held responsible for any errors or inaccuracies co
 
 ## Copyright
 
-For visitors who wish to use fun-with-words.com other than for individual purposes, please refer to our [Copyright Information](https://web.archive.org/web/20050405234916id_/http%3A//www.fun-with-words.com/copyright_info.html) page. | 
+For visitors who wish to use fun-with-words.com other than for individual purposes, please refer to our [Copyright Information](https://web.archive.org/web/20051223171624id_/http%3A//fun-with-words.com/copyright_info.html) page. | 
