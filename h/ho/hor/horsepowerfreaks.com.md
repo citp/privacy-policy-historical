@@ -1,10 +1,23 @@
-> *The following text is extracted and transformed from the horsepowerfreaks.com privacy policy that was archived on 2005-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050209073744id_/https%3A//www.horsepowerfreaks.com/viewprivacy%7E%7E%7E%7E%7E%7E.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horsepowerfreaks.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223212639id_/https%3A//www.horsepowerfreaks.com/viewprivacy%7E%7E%7E%7E%7E%7E.html) for the most accurate reproduction.*
 
-# HorsepowerFreaks privacy
+# HorsepowerFreaks.com Privacy Statement Your Automotive Performance Superstore
 
+| |   
 ---  
-| 
-
+[](https://web.archive.org/outbound/)  
+|   
+---  
+|    
+---  
+Part Number Search  
+Keyword Search  
+12/23/2005  
+install and installation help available for horsepowerfreaks.com privacy statement your automotive performance superstore for these model years 92 1993 00 2001 87 1988 95 1996 03 2004 90 1991 98 1999 06 93 1994 01 2002 88 1989 96 1997 04 2005 91 1992 99 2000 1987   
+|   
+---  
+| | [](https://web.archive.org/outbound/)|    
+---|---|---  
+  
 |   
 ---  
 | Back  
@@ -39,10 +52,19 @@ While we use encryption to protect sensitive information transmitted online, we 
   
    
   
-|    
+| 
+
+## Random Parts And Accessories  
+  
 ---  
-Copyright 2005 HorsepowerFreaks Inc.  
- **HorsepowerFreaks Inc.**  
-12905 NE Airport Way  
-Portland, OR 97230  
-(503) 256-5600
+  
+[316 Performance Parts](https://web.archive.org/performanceparts/BMW/316) for your BMW 316.  
+[318 Racing Parts](https://web.archive.org/performanceparts/BMW/318) for your BMW 318.  
+[320 Aftermarket Parts](https://web.archive.org/performanceparts/BMW/320) for your BMW 320.  
+[323B Performance Parts](https://web.archive.org/performanceparts/BMW/323B) car parts and diesel truck parts performance.  
+[AWR Radiators](https://web.archive.org/buy/AWR/Cooling/Radiators) This is an all aluminum, bolt in replacement radiator for the 99-03 Mazda Protege. The AWR radiator ...  
+[JDM Option Videos](https://web.archive.org/sale/JDM_Option/Accessories/Videos) Drivers betting their lives (and Rides) at D1GP, The world most reckless motorsport. The line betwee...  
+[JDM Option Videos](https://web.archive.org/sale/JDM_Option/Accessories/Videos) Drivers betting their lives (and Rides) at D1GP, The world most reckless motorsport. The line betwee...  
+[AWR Radiators](https://web.archive.org/sale/AWR/Cooling/Radiators) The AWR Racing competition radiator is for higher output engines, such as those used in the SPEED Wo...  
+  
+## HorsepowerFreaks.com Privacy Statement Your Automotive Performance Superstore
