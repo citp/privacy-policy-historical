@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308151601id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223152500id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
 
 # TeenIdols4You.com | Feedback Form
 
@@ -38,7 +38,7 @@ We use this information in order to analyze, manage and improve our Web site so 
 > 
 > **Opting out / Updates**
 > 
-> If you do not wish to receive e-mail from us in the future regarding special offers, new products and services and the like, please let us know by sending us an e-mail to [support@teenidols4you.com](mailto:support@teenidols4you.com) . Please be sure that your e-mail includes your name and address. You can also let us know by mailing us c/o Teen Idols 4 You, Internet Sales, 17 Windstone Lane, Sherwood, AR 72120, or by calling us at 501-352-2092. 
+> If you do not wish to receive e-mail from us in the future regarding special offers, new products and services and the like, please let us know by sending us an e-mail to [support@teenidols4you.com](mailto:support@teenidols4you.com) . Please be sure that your e-mail includes your name and address. You can also let us know by mailing us c/o Teen Idols 4 You, Internet Sales, 1714 Teakwood Mnr STE E, Sherwood, AR 72120, or by calling us at 501-352-2092. 
 > 
 > **Third Party Sites**
 > 
