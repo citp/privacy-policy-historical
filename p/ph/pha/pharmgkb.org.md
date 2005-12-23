@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pharmgkb.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305203013id_/http%3A//www.pharmgkb.org/home/policies/web-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmgkb.org privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223042725id_/http%3A//www.pharmgkb.org/home/policies/web-privacy.jsp) for the most accurate reproduction.*
 
 # PharmGKB: Website Privacy Policy
-
-Website Privacy Policy
 
 PharmGKB has adopted a set of information management guidelines which serve as the basis for our relationship with our users. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect and registered users will be notified via email. 
 
@@ -45,3 +43,5 @@ Upon request, PharmGKB will
   * Permit you to "opt out" of further e-mail contact (excepting notification of major changes to the service).
 
 Please note that since PharmGKB accounts are tied to data submissions, users cannot cancel their accounts. 
+
+[ [Policy Index](https://web.archive.org/home/policies/index.jsp "back to policy index page") ] 
