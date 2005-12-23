@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfc.com privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616001151id_/http%3A//www.kfc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223160922id_/http%3A//www.kfc.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - KFC.com
 
@@ -23,4 +23,4 @@ This Site may contain links to other sites of third parties. We are not responsi
 
 If you have questions regarding this Privacy Policy, please contact us. 
 
-©2000 KFC Corporation. All rights reserved. 
+©2005 KFC Corporation. All rights reserved. 
