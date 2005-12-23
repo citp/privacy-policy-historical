@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psionline.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403200345id_/http%3A//www.psionline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psionline.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223082229id_/http%3A//www.psionline.com/privacy.htm) for the most accurate reproduction.*
 
 # PSI Online: Pre-Employment Testing; Licensure & Certification Testing
 
