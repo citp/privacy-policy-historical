@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the chatham.edu privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223191515id_/http%3A//www.chatham.edu/legal/privacy.cfm) for the most accurate reproduction.*
+
+# Chatham College - Womens Undergraduate/Coed Graduate College in Pittsburgh Pennsylvania
+
+Information Collection and Use  
+Chatham College collects personally identifiable information when users submit forms such as applications, financial transactions or requests for information through this website. Personally identifiable information includes any information that could be used to identify the user, including but not limited to name, address, e-mail address, Social Security number, birth date, bank account information, credit card information, or any combination of information that could be used for identification purposes. This information is utilized only to fulfill the users requests. The College only uses this information to support the administrative requirements of the College respective to each transaction. Information collected on the Chatham College website will not be sold or publicly distributed. Chatham College complies with the Family Educational Rights and Privacy Act (FERPA) regulations.   
+If you have any questions about this Website Privacy Policy, contact the [Office of Information Technology](mailto:webmaster@chatham.edu).
