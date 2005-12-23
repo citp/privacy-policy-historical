@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usshortcodes.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408111451id_/http%3A//www.usshortcodes.com/content/csc_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usshortcodes.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223154259id_/http%3A//www.usshortcodes.com/content/csc_privacy.html) for the most accurate reproduction.*
 
 # CSCA - Privacy Policy
 
@@ -70,7 +70,7 @@ Building X
 Sterling, VA 20166  
 email: [webmaster@usshortcodes.com](mailto:webmaster@usshortcodes.com)
 
-© 2003 Cellular Telecommunications & Internet Association. All rights Reserved. [Registrant Sublicense Agreement](https://web.archive.org/content/csc_subLeaseAgree.html "Registrant Sublicense Agreement")  |  [Privacy Policy](https://web.archive.org/content/csc_privacy.html "Privacy")
+© 2005 Cellular Telecommunications & Internet Association. All rights Reserved. [Registrant Sublicense Agreement](https://web.archive.org/web/20051223154259id_/http%3A//www.usshortcodes.com/content/content/csc_subLeaseAgree.html "Registrant Sublicense Agreement")  |  [Privacy Policy](https://web.archive.org/web/20051223154259id_/http%3A//www.usshortcodes.com/content/content/csc_privacy.html "Privacy")
 
 The CSCA logo is a service mark of the Cellular Telecommunications & Internet Association. The NeuStar logo is a registered trademark of NeuStar, Inc.
 
