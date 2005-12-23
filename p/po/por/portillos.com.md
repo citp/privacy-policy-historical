@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portillos.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403200937id_/http%3A//www.portillos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portillos.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223032625id_/http%3A//www.portillos.com/privacy) for the most accurate reproduction.*
 
 # The Portillo Restaurant Group - Privacy Statement
 
@@ -50,5 +50,5 @@ E-mail: [info@portillos.com](mailto:info@portillos.com)
 
 Your access and use of this site is subject to the above Privacy Statement and the Terms and Conditions and all applicable laws. By accessing and browsing this site, you accept, without limitation or qualification, these Terms and Conditions. The Portillo Restaurant Group may at any time revise its Privacy Statement and the Terms and Conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then current Privacy Statement and our Terms and Conditions. 
 
-[Home](https://web.archive.org/) | [Portillo's](https://web.archive.org/portillos/look/) | [Barnelli's](https://web.archive.org/barnellis/look/) | [Barney's](https://web.archive.org/barneys/look/) | [KeyWester](https://web.archive.org/keywester/look/) | [Luigi's House](https://web.archive.org/luigis/look/)   
+[Home](https://web.archive.org/) | [Portillo's](https://web.archive.org/portillos/look/) | [Barnelli's](https://web.archive.org/barnellis/look/) | [KeyWester](https://web.archive.org/keywester/look/) | [Luigi's House](https://web.archive.org/luigis/look/)   
 [History](https://web.archive.org/history/) | [Join Our Team](https://web.archive.org/join/) | [Shipping](https://web.archive.org/shipping/) | [Banquets](https://web.archive.org/banquets/) | [Catering](https://web.archive.org/catering/) | [Gift Cards](https://www.portillos.com/giftcards/)
