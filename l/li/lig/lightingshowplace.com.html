@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lightingshowplace.com privacy policy that was archived on 2005-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050525174814id_/http%3A//www.lightingshowplace.com/decor/static.pl%3FS%3DprivacyNotice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lightingshowplace.com privacy policy that was archived on 2005-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051223010454id_/http%3A//lightingshowplace.com/decor/static.pl%3FS%3DprivacyNotice) for the most accurate reproduction.-->
 
 <html><head>
 	
@@ -12,6 +12,39 @@
 
 
 
+<script language="JavaScript" type="text/JavaScript" src="/lightingshowplace.com/scrollinator.js"></script>
+<script language="JavaScript" type="text/JavaScript" src="/lightingshowplace.com/browserdetect.js"></script>
+<script language="JavaScript" type="text/JavaScript" src="/transmenu.js"></script>
+<script language="JavaScript" type="text/JavaScript" src="/WCH.js"></script>
+<script language="javascript">
+<!--
+
+var previousSearchTerm = '';
+
+function search()
+{
+	if( document.getElementById('searchWithin').checked && document.getElementById('Ntt').value != '' )
+	{		
+		document.getElementById('Ntt').value = document.getElementById('Ntt').value + '|' + document.getElementById('searchTerm').value;
+		var mode = document.getElementById('Ntk').value;
+		var terms = document.getElementById('Ntt').value.split('\|');
+		var modes = mode;
+		for( var i=0; i<terms.length-1; i++)
+		{
+			modes = modes + '|' + mode;
+		}
+		document.getElementById('Ntk').value = modes;
+	}
+	else
+	{
+		document.getElementById('Ntt').value = document.getElementById('searchTerm').value;
+	}
+}
+
+//-->
+</script>
+
+
 </head>
 
 <body background="/images/Production.gif">
@@ -21,187 +54,213 @@
 
 
 
-<table width="780" cellpadding="0" cellspacing="0">
-	<tbody><tr height="63">
-		<td width="30" bgcolor="#595959"></td>
-		<td width="1" bgcolor="#FFFFFF"></td>
-		<td width="359" valign="bottom" class="headerLeft"><a href="/decor/home.pl"><img src="/lightingshowplace.com/images/logo.gif" width="267" height="63" border="0" alt="LightingShowplace.com"></a></td>
-		<td width="390" bgcolor="#6775A9" align="right" valign="bottom"><a href="javascript:" onclick="window.open('/lightingshowplace.com/freeShipping_popup.html','','scrollbars=1,width=475,height=450');return false"><img src="/lightingshowplace.com/images/freeship_header.gif" width="230" height="60" border="0" alt="Free Shipping on orders over $75"></a></td>
-	</tr>
-	<tr height="1">
-		<td width="780" colspan="100%" bgcolor="#FFFFFF"></td>
-	</tr>
-</tbody></table>
-
-<table width="780" cellpadding="0" cellspacing="0" class="headerBar">
-	<tbody><tr height="30">
-		<td width="30" bgcolor="#A18C81"></td>
-		<td width="1" bgcolor="#FFFFFF"></td>
-		<td>&nbsp;<span class="headerCall">For service 7 days a week call toll free: </span><span class="headerPhoneNumber">877-613-8140</span></td>
-		<td align="right" id="noPrint">
-			<font class="headerModelSearchText">Model / Keyword Search</font><br>
-			<a href="/decor/advSearch.pl" class="headerAdvancedSearchText">Advanced Search</a></td>
-		<td width="125" align="center" id="noPrint">
-			<form name="modelSearch" method="POST" action="/decor/rawSearch.pl">
-				<input name="text_form" size="20" class="checkout">
-		</form></td>
-		<td width="23" id="noPrint"><input type="image" src="/lightingshowplace.com/images/go_button.gif" alt="Go" width="20" height="20" border="0"></td>
-	  <td width="1" id="noPrint"></td>
-	</tr>
-</tbody></table>
-
-<table width="780" cellpadding="0" cellspacing="0" class="headerBar">
-	<tbody><tr height="1">
-		<td width="780" colspan="8" bgcolor="#FFFFFF"></td>
-	</tr>	
-</tbody></table>
 
 
 
 
 
-<table width="780" cellspacing="0" cellpadding="0">
+
+
+
+
+
+<table width="820" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td valign="top" width="155" class="sidebarBgrnd" id="noPrint">
-			<table width="150" align="center" cellpadding="0" cellspacing="0">
+		<td>
+			<table width="820" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-				  <td>
-					  <table width="155" border="0" cellspacing="0" cellpadding="0">
+					<td width="216" height="75"><a href="/decor/home.pl"><img src="/lightingshowplace.com/images/logo.gif" border="0" width="216" height="75"></a></td>
+					<td>
+						<table width="100%" height="57" border="0" cellpadding="0" cellspacing="0">
 							<tbody><tr>
-						  	<td align="center">
-							</td></tr>
-					  </tbody></table>
-				 	</td>
-   			</tr>
-				<tr>
-					<td><br>
-						<img src="/lightingshowplace.com/images/your_order_header.gif" width="155" height="25" alt="Your Order"></td>
+								<td>&nbsp;</td>
+								<td align="right">
+									<table width="400" border="0" cellspacing="0" cellpadding="0">
+										<tbody><tr>
+											<td align="right">&nbsp;</td>
+											<td class="headerLinks1">
+
+
+CART (0 ITEMS)
+
+ </td>
+											<td class="headerLinks1"><img src="/lightingshowplace.com/images/divider_image.gif" width="3" height="10"></td>
+											<td class="headerLinks1"><a href="/decor/cart.pl" class="headerLinks1">CHECKOUT</a></td>
+											<td class="headerLinks1"><img src="/lightingshowplace.com/images/divider_image.gif" width="3" height="10"></td>
+											<td align="right">
+												<form name="textSearch" id="textSearch" action="/decor/search.pl?" method="POST" onsubmit="search();">
+													<input type="text" name="searchTerm" id="searchTerm" class="searchBox" value="MODEL/PRODUCT SEARCH" onclick="document.getElementById('searchTerm').value='';">
+													<input type="hidden" name="Ntk" id="Ntk" value="all">
+													<input type="hidden" name="Ntt" id="Ntt" value=""></form></td>
+											<td width="27" align="right"><input type="image" src="/lightingshowplace.com/images/go_button.gif" width="25" height="15"></td>
+										</tr>
+										<tr>
+											<td align="right"></td>
+											<td height="5" colspan="4"></td>
+											<td colspan="2" class="headerLinks2"><input name="searchWithin" id="searchWithin" type="hidden" class="searchWithin" value="radiobutton"> </td>
+										</tr>
+										<tr>
+											<td colspan="7" height="1"></td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							
+							<tr>
+								<td colspan="2"></td>
+							</tr>
+						</tbody></table>
+					</td>
 				</tr>
+				<tr>
+					<td width="216" class="phoneNumber">7 days a week - 800-334-2725</td>
+					<td>
+				
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tbody><tr>
+											<td width="116" class="headerLinks"><a href="/decor/static.pl?S=promo/personal_assistance" class="headerLinks">Need Help?</a></td>
+											<td width="3"><img src="/lightingshowplace.com/images/divider_image.gif" width="3" height="10"></td>
+											<td width="116" class="headerLinks"><a href="/decor/static.pl?S=customerService" class="headerLinks">Customer Service</a></td>
+											<td width="3"><img src="/lightingshowplace.com/images/divider_image.gif" width="3" height="10"></td>
+											<td width="116" class="headerLinks"><a href="/decor/static.pl?S=basics/info_center" class="headerLinks">Info Center</a></td>
+											<td width="3"><img src="/lightingshowplace.com/images/divider_image.gif" width="3" height="10"></td>
+											<td width="116" class="headerLinks"><a href="/decor/static.pl?S=promo/proServices" class="headerLinks">Pro Services</a></td>
+											<td width="3"><img src="/lightingshowplace.com/images/divider_image.gif" width="3" height="10"></td>
+											<td width="116" class="headerLinks"><a href="/decor/static.pl?S=promo/lpgPage" class="headerLinks">Why buy from us?</a></td>
+										</tr>
+									</tbody></table>
+					
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td align="center" width="130" height="24" id="Ceiling" class="menuDiv" style="background: url('/lightingshowplace.com/images/top_tab_out.gif')">Ceiling Lighting ▼</td>
+					<td width="8" height="24"></td>
+					<td align="center" width="130" height="24" id="Wall" class="menuDiv" style="background: url('/lightingshowplace.com/images/top_tab_out.gif')">Wall Lighting ▼</td>
+					<td width="8" height="24"></td>
+					<td align="center" width="130" height="24" id="Lamp" class="menuDiv" style="background: url('/lightingshowplace.com/images/top_tab_out.gif')">Lamps ▼</td>
+					<td width="8" height="24"></td>
+					<td align="center" width="130" height="24" id="Outdoor" class="menuDiv" style="background: url('/lightingshowplace.com/images/top_tab_out.gif')">Outdoor Lighting ▼</td>
+					<td width="8" height="24"></td>
+					<td align="center" width="130" height="24" id="Fan" class="menuDiv" style="background: url('/lightingshowplace.com/images/top_tab_out.gif')">Fans ▼</td>
+					<td width="8" height="24"></td>
+					<td align="center" width="130" height="24" id="Decor" class="menuDiv" style="background: url('/lightingshowplace.com/images/top_tab_out.gif')">Hardware &amp; Décor ▼</td>
+				</tr>
+			</tbody></table>			
+		</td>
+	</tr>
+	<tr>
+		<td height="3"><img src="/lightingshowplace.com/images/divider_vertical.gif"></td>
+	</tr>
+	</tbody></table>
+
+
+
+
+
+
+
+<table width="820" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+
+
+<td valign="top" align="right" width="180" class="sidebarBgrnd" id="noPrint">
+
+<table width="175" align="center" cellpadding="0" cellspacing="1">
+	<tbody><tr>
+		<td align="center" valing="middle">
+
+<table width="175" height="100" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tbody><tr>
+		<td background="/images/talk-bubble.gif" align="center" valign="middle" class="talkBubbleText">
+			<table width="160" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td align="center" class="talkBubbleText">							Use the tabs above<br>
+							or select from the<br>
+							links below to browse
+											</td>
+				</tr>
+			</tbody></table>
+		</td>							
+	</tr>
+</tbody></table>
+</td>
+	</tr>
+	
+	
+		<tr>
+			<td class="homeDimension">► <a href="/decor/search.pl?N=223+102+40&amp;Ne=4" class="homeDimension">Bath Lighting</a></td>
+		</tr>
+		<tr>
+			<td class="homeDimension">► <a href="/decor/search.pl?N=223+103+41&amp;Ne=4" class="homeDimension">Bath Accessories</a></td>
+		</tr>
+		<tr>
+			<td class="homeDimension">► <a href="/decor/search.pl?N=223+102+3000143&amp;Ne=3" class="homeDimension">Entrance/Foyer Lighting</a></td>
+		</tr>
+		<tr>
+			<td class="homeDimension">► <a href="/decor/search.pl?N=223+102+51&amp;Ne=4" class="homeDimension">Chandeliers</a></td>
+		</tr>
+		<tr>
+			<td class="homeDimension">► <a href="/decor/search.pl?N=223+102+48&amp;Ne=4" class="homeDimension">Ceiling Fans</a></td>
+		</tr>
+		<tr>
+			<td class="homeDimension">► <a href="/decor/search.pl?N=223+103+70&amp;Ne=4" class="homeDimension">Medicine Cabinets</a></td>
+		</tr>
+		<tr>
+			<td class="homeDimension">► <a href="/decor/search.pl?N=223+100+58&amp;Ne=4" class="homeDimension">Fountains</a></td>
+		</tr>
+		<tr>
+			<td class="homeDimension">► <a href="/decor/search.pl?N=223+103+71&amp;Ne=4" class="homeDimension">Mirrors</a></td>
+		</tr>
+		<tr>
+			<td class="homeDimension">► <a href="/decor/search.pl?N=223+100+59&amp;Ne=4" class="homeDimension">Furniture</a></td>
+		</tr>
+		<tr>
+			<td class="homeDimension">► <a href="/decor/search.pl?N=223+100+56&amp;Ne=4" class="homeDimension">Fireplace &amp; Hearth</a></td>
+		</tr>
+		<tr>
+			<td class="homeDimension">► <a href="/decor/search.pl?N=223+101&amp;Ne=2" class="homeDimension">Hardware</a></td>
+		</tr>
+		<tr>
+			<td class="homeDimension">► <a href="/decor/search.pl?N=223+100+94&amp;Ne=4" class="homeDimension">Wall Décor</a></td>
+		</tr>
+	
+				<tr>
+				  <td height="28" class="mainSideBarHeader">Ways to Shop</td>
+				</tr>
+
+				<tr>
+				  <td class="sideBarText">&nbsp;&nbsp;•&nbsp;<a href="/decor/static.pl?S=promo/lighting_collections" class="sidebarText">Featured Collections</a></td>
+	  		</tr>
+				<tr>
+				<td class="sideBarText">&nbsp;&nbsp;•&nbsp;<a href="/decor/search.pl?N=223+3000084&amp;Ne=32" class="sidebarText">New Products</a></td>
+				</tr>
+				<tr>
+				  <td class="sideBarText">&nbsp;&nbsp;•&nbsp;<a href="/decor/search.pl?N=223+212&amp;Ne=33" class="sidebarText">Clearance Items</a></td>
+			  </tr>
 				<tr>
 					<td height="5"></td>
 				</tr>
-				<tr>
-					<td width="150" align="right" class="sideBarCart">
-						
+				
+				
+  </tbody></table>
+</td>
 
-	
 
-					</td>
-				</tr>
-				<tr>
-					<td class="sideBarText">&nbsp;&nbsp;<a href="/decor/cart.pl?td=op" class="sideBarText">View Saved Cart</a></td>
-				</tr>
-				<tr>
-					<td class="sideBarText">&nbsp;&nbsp;<a href="/decor/getTracking.pl" class="sideBarText">Check Order Status</a></td>
-				</tr>
 
-				<tr>
-					<td><br>
-							<img src="/lightingshowplace.com/images/shop_for_header.gif" width="155" height="25" alt="Shop For"></td>
-				</tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="/decor/drillDown.pl?pu=8" class="sidebarText">Indoor Lighting</a></td>
-				</tr>
-				<tr>
-				  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/decor/drillDown.pl?ct=59" class="sidebarText">Bathroom &amp; Vanity</a></td>
-			  </tr>
-				<tr>
-				  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/decor/drillDown.pl?ct=60" class="sidebarText">Ceiling Lighting</a></td>
-			  </tr>
-				<tr>
-				  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/decor/static.pl?S=basics/chandeliers" class="sidebarText">Chandeliers</a></td>
-			  </tr>
-				<tr>
-				  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/decor/drillDown.pl?ct=65" class="sidebarText">Lamps</a></td>
-			  </tr>
-				<tr>
-				  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/decor/drillDown.pl?ct=64" class="sidebarText">Pendants/Hanging</a></td>
-			  </tr>
-				<tr>
-				  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/decor/drillDown.pl?ct=67" class="sidebarText">Wall Sconces</a></td>
-			  </tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="/decor/drillDown.pl?pu=9" class="sidebarText">Outdoor Lighting</a></td>
-				</tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="/decor/static.pl?S=storeHome&amp;M=es" class="sidebarText">Energy Star Products</a></td>
-				</tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="/decor/drillDown.pl?pu=10" class="sidebarText">Ceiling Fans</a></td>
-				</tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="/decor/static.pl?S=basics/fountains" class="sidebarText">Fountains</a></td>
-				</tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="/decor/static.pl?S=promo/mirrors" class="sidebarText">Mirrors</a></td>
-				</tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="/decor/static.pl?S=basics/home_decor" class="sidebarText">Home Decor</a>&nbsp;<font class="redItalic"><b>NEW!</b></font></td>
-				</tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="/decor/drillDown.pl?pu=4" class="sidebarText">Bath Products</a></td>
-				</tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="/decor/static.pl?S=promo/20-20" class="sidebarText">Decorative Hardware</a></td>
-				</tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="http://www.faucet.com" target="_blank" class="sidebarText">Decorative Plumbing</a></td>
-				</tr>
-				<tr>
-					<td><br>
-							<img src="/lightingshowplace.com/images/shop_by_header.gif" width="155" height="25" alt="Shop By"></td>
-				</tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="/decor/featured.pl" class="sidebarText">Featured Brands</a></td>
-				</tr>
-				<tr>
-				  <td>&nbsp;&nbsp;<a href="/decor/static.pl?S=promo/lighting_collections" class="sidebarText">Featured Collections</a></td>
-	  		</tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="/decor/specials.pl?S=bestSeller" class="sidebarText">Best Sellers</a></td>
-				</tr>
-				<tr>
-				<td>&nbsp;&nbsp;<a href="/decor/specials.pl?S=new" class="sidebarText">New Products</a></td>
-				</tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="/decor/static.pl?S=lighting_outletcenter" class="sidebarText">Outlet Center</a></td>
-				</tr>
-				<tr>
-					<td>&nbsp;&nbsp;<a href="static.pl?S=basics/lighting_basics" class="sidebarText">Lighting Basics</a></td>
-				</tr>
-				<tr>
-					<td align="center"><br>
-						<table cellspacing="0" cellpadding="0">
-						</table>
-					</td>
-				</tr>
-				<tr>
-					<td align="center">
-					<table width="120" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td class="sidebarText"><b>Sign up &amp; receive<br>
-												$20 off your order</b><br>
-												<a href="javascript:" onclick="window.open('http://recp.rm02.net/servlet/SignUpForm?f=747','','scrollbars=1,width=400,height=370')" class="sidebarText">Click Here<br></a>
 
-                      </td></tr>
-                    </tbody></table>
-				</td></tr>
-				<tr>
-				  <td align="center">&nbsp;</td>
-			  </tr>
-				<tr>
-					<td><a href="/decor/static.pl?S=promo/lpgForm" class="lpgPopup"><img src="/lightingshowplace.com/images/lpg_sidebar_ad.gif" width="155" height="80" border="0" alt="We will not be undersold - Click Here to learn more about our 110% Low Price Guarantee"></a></td>
-	  </tr>
-
-			</tbody></table>
-		</td>
-		<td width="625" valign="top" class="bodyTableBgrnd">
+		<td width="640" bgcolor="#FFFFFF" valign="top">
 
 
 
 
 
-<img src="/lightingshowplace.com/images/page_headers/privacy_policy.gif" border="0" alt="Privacy Policy"><br>
+<img src="/images/page_headers/privacy_policy.gif" border="0" alt="Privacy Policy"><br>
 <br>
 
 <table class="pageSpacer">
@@ -230,14 +289,7 @@
       If we should have trouble processing an order, the contact information is used
 			to get in touch with you.&nbsp;
       <br><br>
-
-      <font class="bold">
-      Method of payment</font><br>
-      Decorative Product Source Inc. accepts personal checks, American Express,
-			Discover, Mastercard and VISA credit cards.&nbsp;
-      <br><br>
-
-      <font class="bold">Security</font><br>
+<font class="bold">Security</font><br>
       Decorative Product Source Inc. takes strong precautions to protect your information
 			both online and offline.&nbsp;
       We use a variety of technical solutions to make shopping safe at our web sites.&nbsp;
@@ -293,31 +345,25 @@
 
 
 
+
+
 	<tr>
 		<td colspan="100%" class="footerRow">
-			<a href="/decor/home.pl?S=home" class="sbtext">Home</a> |
-			<a href="/decor/static.pl?S=about" class="sbtext">About Us</a> |
-			<a href="/decor/static.pl?S=customerService" class="sbtext">Customer Service</a> |
-			<a href="/decor/static.pl?S=policies" class="sbtext">Policies</a> |
-			
-			
-			<a href="javascript:" onclick="window.open('http://recp.rm02.net/servlet/SignUpForm?f=747','','scrollbars=1,width=425,height=450')" class="sbtext">Newsletter</a> |
-			
-			
-			<a href="/decor/static.pl?S=privacyNotice" class="sbtext">Privacy Policy</a> |
-			
-			
-			<a href="/decor/static.pl?S=lighting_outletcenter" class="sbtext">Outlet Center</a> |
-			
-			
-			<a href="/decor/static.pl?S=affiliates" class="sbtext">Affiliate Program</a> |
-			
-			
-			
-			
-			<a href="http://www.lightingshowplace.com/xml/lightingshowplace.xml" class="sbtext"><img src="/images/rss.gif" width="36" height="14" border="0"></a>
-			
-		</td></tr>
+			<a href="/decor/home.pl?S=home" class="footerRowLink">Home</a> |
+			<a href="/decor/static.pl?S=about" class="footerRowLink">About Us</a> |
+			<a href="/decor/static.pl?S=customerService" class="footerRowLink">Customer Service</a> |
+			<a href="/decor/static.pl?S=policies" class="footerRowLink">Policies</a> |
+			<a href="javascript:" onclick="window.open('http://recp.rm05.net/servlet/SignUpForm?f=12705','','scrollbars=1,width=425,height=450')" class="footerRowLink">Newsletter</a> |
+			<a href="/decor/static.pl?S=privacyNotice" class="footerRowLink">Privacy Policy</a> |
+			<a href="/decor/search.pl?N=223+212&amp;Ne=33" class="footerRowLink">Outlet Center</a> |
+			<a href="/decor/static.pl?S=affiliates" class="footerRowLink">Affiliate Program</a> |
+			<a href="/decor/static.pl?S=promo/proServices" class="footerRowLink">Pro Services</a> |
+			<a href="http://www.lightingshowplace.com/xml/lightingshowplace.xml" class="footerRowLink">RSS</a>
+		</td>
+	</tr>
+
+
+
 	<tr><td colspan="100%" class="footerFinePrint">
 			Copyright © 1994-2005 All Rights Reserved.<br>
 			Powered by Decorative Product Source, Inc.
@@ -328,13 +374,127 @@
 <a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--60148.html" target="_blank">
 <img src="https://images.bizrate.com/medals/dynamic/small/60148_medal.gif" alt="Click here to see ratings" width="113" height="50" align="top" border="0" target="_blank"></a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.faucet.com" target="_blank">
+<img src="/images/fcom_medal113x50.gif" alt="Faucet.com" width="113" height="50" align="top" border="0" target="_blank"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+        <a href="https://secure.lightingshowplace.com/decor/home.pl" title="SSL Enabled Site">
+         <img src="/images/thawte.gif" alt="Thawte Site Seal" border="0">
+        </a>
+
+
 </center>
+
 
 			
 			<br><br>
 		</td>
 	</tr>
 </tbody></table>
+
+
+
+
+	<script language="javascript">
+<!--
+
+var imageOver = 'url(/lightingshowplace.com/images/top_tab_over.gif)';
+var imageOut = 'url(/lightingshowplace.com/images/top_tab_out.gif)';
+
+function imageOn(el)
+{
+	el.style.background = imageOver;
+}
+
+function imageOff(el)
+{
+	el.style.background = imageOut;
+}
+
+	if (TransMenu.isSupported()) 
+	{
+		var ms = new TransMenuSet(TransMenu.direction.down, 1, 0, TransMenu.reference.bottomLeft, TransMenu.slideTime = 200, TransMenu.hideDelay = 200, TransMenu.displayDelay = 200);
+
+		var menu1 = ms.addMenu(document.getElementById("Ceiling"));
+		menu1.addItem("Chandeliers", "/decor/search.pl?N=223+102+51&Ne=4");
+		menu1.addItem("Ceiling Lighting", "/decor/search.pl?N=223+102+49&Ne=4");
+		menu1.addItem("Entrance / Foyer Fixtures", "/decor/search.pl?N=223+102+3000143&Ne=3");
+		menu1.addItem("Kitchen Lighting", "/decor/search.pl?N=223+102+219&Ne=3");
+		menu1.addItem("Pendants", "/decor/search.pl?N=223+102+72&Ne=4");
+		menu1.addItem("Tiffany Lighting", "/decor/search.pl?N=223+102+86&Ne=4");
+		menu1.addItem("Ceiling Fans", "/decor/search.pl?N=223+102+48&Ne=4");
+
+		var menu2 = ms.addMenu(document.getElementById("Wall"));
+		menu2.addItem("Bath & Vanity", "/decor/search.pl?N=223+102+40&Ne=4");
+		menu2.addItem("Outdoor Wall Lighting", "/decor/search.pl?N=223+102+221+69&Ne=4");
+		menu2.addItem("Swing Arm Lamps", "/decor/search.pl?N=223+102+67+3000280&Ne=5");
+		menu2.addItem("Wall Sconces", "/decor/search.pl?N=223+102+96&Ne=4");
+
+		var menu3 = ms.addMenu(document.getElementById("Lamp"));
+		menu3.addItem("Desk Lamps", "/decor/search.pl?in_dim_search=1&N=223+3000279&Nty=1");
+		menu3.addItem("Floor Lamps", "/decor/search.pl?N=223+102+67+3000271&Ne=5");
+		menu3.addItem("Swing Arm Lamps", "/decor/search.pl?N=223+102+67+3000280&Ne=5");
+		menu3.addItem("Table Lamps", "/decor/search.pl?N=223+102+67+3000266&Ne=5");
+		menu3.addItem("Tiffany Floor Lamps", "/decor/search.pl?in_dim_search=1&N=223+3000294&Nty=1");
+		menu3.addItem("Tiffany Table Lamps", "/decor/search.pl?N=223+102+67+3000387&Ne=5");
+		menu3.addItem("Torchiere Floor Lamps", "/decor/search.pl?in_dim_search=1&N=223+3000286&Nty=1");
+
+		var menu4 = ms.addMenu(document.getElementById("Outdoor"));
+		menu4.addItem("Ceiling Mounted", "/decor/search.pl?N=223+102+221+50&Ne=4");
+		menu4.addItem("Hanging Fixtures", "/decor/search.pl?N=223+102+221+61&Ne=4");
+		menu4.addItem("Landscape Lighting", "/decor/search.pl?N=223+102+221+68&Ne=4");
+		menu4.addItem("Post Mounted", "/decor/search.pl?N=223+102+221+73&Ne=4");
+		menu4.addItem("Wall Mounted / Lanterns", "/decor/search.pl?N=223+102+221+69&Ne=4");
+
+		var menu5 = ms.addMenu(document.getElementById("Fan"));
+		menu5.addItem("Exhaust Fans", "/decor/search.pl?N=223+103+214+54&Ne=4");
+		menu5.addItem("Ceiling Fans", "/decor/search.pl?N=223+102+217+48&Ne=4");
+		menu5.addItem("Ceiling Fan Light Kits", "/decor/search.pl?N=223+102+48+3000291&Ne=5");
+		menu5.addItem("Ceiling Fan Mounting Hardware", "/decor/search.pl?Ntt=ceiling+fan&N=223+102+3000296&Ne=5&Ntx=mode%2Bmatchallpartial&Ntk=all");
+		menu5.addItem("Ceiling Fan Controls", "/decor/search.pl?Ntt=ceiling+dfan&N=223+102+3000292&Ne=5&Ntx=mode%2Bmatchallpartial&Ntk=all");
+		
+		var menu6 = ms.addMenu(document.getElementById("Decor"));
+		menu6.addItem("Art Glass", "/decor/search.pl?in_dim_search=1&N=223+39&Nty=1");
+		menu6.addItem("Bathroom Accessories", "/decor/search.pl?N=223+103+41&Ne=4");
+		menu6.addItem("Bowls & Vases", "/decor/search.pl?in_dim_search=1&N=223+43&Nty=1");
+		menu6.addItem("Cabinet Accessories", "/decor/search.pl?in_dim_search=1&N=223+4294964365&Nty=1");
+		menu6.addItem("Cabinet Knobs", "/decor/search.pl?N=223+101+66&Ne=4");
+		menu6.addItem("Cabinet Pulls", "/decor/search.pl?N=223+101+74&Ne=4");
+		menu6.addItem("Candle Holders", "/decor/search.pl?in_dim_search=1&N=223+46&Nty=1");
+		menu6.addItem("Clocks", "/decor/search.pl?in_dim_search=1&N=223+52&Nty=1");
+		menu6.addItem("Door Hardware - Accessories", "/decor/search.pl?Ntt=door+hardware&N=223+3000150&Ne=5&Ntx=mode%2Bmatchallpartial&Ntk=all");
+		menu6.addItem("Door Hardware - Exterior", "/decor/search.pl?N=223+101+53+216&Ne=3");
+		menu6.addItem("Door Hardware - Hinges", "/decor/search.pl?N=223+101+62&Ne=4");
+		menu6.addItem("Door Hardware - Interior", "/decor/search.pl?N=223+101+53+218&Ne=3");
+		menu6.addItem("Fireplace & Hearth", "/decor/search.pl?N=223+100+56&Ne=4");
+		menu6.addItem("Fountains", "/decor/search.pl?N=223+100+58&Ne=4");
+		menu6.addItem("Furniture", "/decor/search.pl?N=223+100+59&Ne=4");
+		menu6.addItem("Lamps", "/decor/search.pl?in_dim_search=1&N=223+67&Nty=1");
+		menu6.addItem("Mirrors", "/decor/search.pl?N=223+103+71&Ne=4");
+		menu6.addItem("Storage & Display", "/decor/search.pl?in_dim_search=1&N=223+84&Nty=1");
+		menu6.addItem("Switch Plates", "/decor/search.pl?in_dim_search=1&N=223+85&Nty=1");
+		menu6.addItem("Wall D&eacute;cor", "/decor/search.pl?N=223+100+94&Ne=4");
+
+		TransMenu.renderAll();
+		TransMenu.initialize();
+
+		menu1.onactivate = function() { imageOn(document.getElementById("Ceiling")); document.getElementById("Ceiling").className = "menuDivHover"; };
+		menu1.ondeactivate = function() { imageOff(document.getElementById("Ceiling")); document.getElementById("Ceiling").className = "menuDiv"; };
+		menu2.onactivate = function() { imageOn(document.getElementById("Wall")); document.getElementById("Wall").className = "menuDivHover"; };
+		menu2.ondeactivate = function() { imageOff(document.getElementById("Wall")); document.getElementById("Wall").className = "menuDiv"; };
+		menu3.onactivate = function() { WCH.Apply("TransMenu2"); imageOn(document.getElementById("Lamp")); document.getElementById("Lamp").className = "menuDivHover"; };
+		menu3.ondeactivate = function() { WCH.Discard("TransMenu2"); imageOff(document.getElementById("Lamp")); document.getElementById("Lamp").className = "menuDiv"; };
+		menu4.onactivate = function() { imageOn(document.getElementById("Outdoor")); document.getElementById("Outdoor").className = "menuDivHover"; };
+		menu4.ondeactivate = function() { imageOff(document.getElementById("Outdoor")); document.getElementById("Outdoor").className = "menuDiv"; };
+		menu5.onactivate = function() { imageOn(document.getElementById("Fan")); document.getElementById("Fan").className = "menuDivHover"; };
+		menu5.ondeactivate = function() { imageOff(document.getElementById("Fan")); document.getElementById("Fan").className = "menuDiv"; };
+		menu6.onactivate = function() { imageOn(document.getElementById("Decor")); document.getElementById("Decor").className = "menuDivHover"; };
+		menu6.ondeactivate = function() { imageOff(document.getElementById("Decor")); document.getElementById("Decor").className = "menuDiv"; };
+	}
+//-->
+</script>
 
 
 
