@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418013155id_/http%3A//www.newgrounds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223111033id_/http%3A//newgrounds.com/privacy.html) for the most accurate reproduction.*
 
 # Newgrounds Privacy Statement
 
