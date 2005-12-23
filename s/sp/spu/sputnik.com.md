@@ -1,55 +1,9 @@
-> *The following text is extracted and transformed from the sputnik.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307233336id_/http%3A//www.sputnik.com/sitestuff/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sputnik.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223014736id_/http%3A//www.sputnik.com/sitestuff/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
 
-SITE SEARCH  
-  
----  
-  
-WHAT THEY’RE SAYING
-
-WHAT'S NEW
-
-February 8, 2005 —  
-New! [SputnikNet Premier](https://web.archive.org/newsroom/releases/pr050208.html) brings credit card and PayPal billing to our hosted hotspot management service.
-
-January 17, 2004 —  
-“Sputnik Takes Off”: Wireless Fidelity Magazine [profiles](http://www.wirelessfidelitymag.com/hotnews/51h1792932.html) how GetLocal uses SputnikNet to bring Wi-Fi to Seattle, and beyond.
-
-December 29, 2004 —  
-Public Company Management Corp. [announces](https://web.archive.org/newsroom/clips.html#200412) SB-2 securities registration contract with Sputnik.
-
-December 15, 2004 —  
-A nice [write-up](https://web.archive.org/newsroom/clips.html#200412) on Sputnik from Wi-Fi Net News.
-
-December 15, 2004 —  
-Sputnik [announces](https://web.archive.org/newsroom/releases/pr041215.html) new software modules for [credit card](https://web.archive.org/products/scc/module_aria.html) and [PayPal](https://web.archive.org/products/scc/module_paypal.html) payments.
-
-December 9, 2004 —  
-Linux Devices [profiles](http://www.linuxdevices.com/articles/AT8048385669.html) the new Sputnik AP 220.
-
-December 1, 2004 —  
-Sputnik and Gemtek Systems announce the [Sputnik AP 220](https://web.archive.org/newsroom/releases/pr041201.html), a carrier-grade access point based on Gemtek hardware and Sputnik software.
-
-November 8, 2004 —  
-Sputnik is [exclusive Wi-Fi provider](https://web.archive.org/newsroom/releases/pr041108.html) at leading conference on higher education technology.
-
-October 25, 2004 —  
-Sputnik hosts African King on [Wi-Fi fact finding](https://web.archive.org/newsroom/releases/pr041025.html) mission.
-
-September 27, 2004 —  
-Bloggers [Doc](http://garage.docsearls.com/node/view/461) and [Dave](http://www.sifry.com/alerts/archives/000382.html) are not immune to the charms of Sputnik’s new products.
-
-September 22, 2004 —  
-The [Daily Wireless](http://dailywireless.org//modules.php?name=News&file=article&sid=3067),[ Wi-Fi Networking News](http://wifinetnews.com/archives/004147.html), and [Wi-Fi Planet](http://www.wi-fiplanet.com/news/article.php/3410781) pick up on Sputnik’s new offerings.
-
-September 21, 2004 —  
-Announcing Sputnik Control Center [version 3.0](https://web.archive.org/products/scc/cc.html), a major upgrade, and [SputnikNet](https://web.archive.org/products/sputniknet.html), our hosted version. To celebrate, we’ve slashed the price of the [Sputnik AP 160](https://web.archive.org/products/aps/ap160.html) to $99!
-
-[More news . . . ](https://web.archive.org/newsroom/clips.html)  
-  
 Sputnik is strongly committed to the confidentiality of your personally identifiable information and has instituted certain protective measures to protect such information, including the adoption of the following Privacy Policy, which describes the personally identifiable information that Sputnik collects about you at this Site and how Sputnik uses and protects such information.
 
 IF YOU DO NOT AGREE WITH ANY OF THE TERMS OF THIS PRIVACY POLICY, YOU SHOULD NOT USE THIS SITE OR THE SERVICES OFFERED BY SPUTNIK.
@@ -109,4 +63,6 @@ Sputnik reserves the right to update this Privacy Policy from time to time. Any 
 
 
 
-Questions: Should you have questions about this Privacy Policy, please send an email to [webmaster@sputnik.com](mailto:webmaster@sputnik.com).
+Questions: Should you have questions about this Privacy Policy, please send an email to [webmaster@sputnik.com](mailto:webmaster@sputnik.com).  
+  
+---|---
