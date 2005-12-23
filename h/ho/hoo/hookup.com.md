@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hookup.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305222219id_/http%3A//www.hookup.com/modules.php%3Fname%3DTerms%26privacy%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookup.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223013418id_/http%3A//www.hookup.com/modules.php%3Fname%3DTerms%26privacy%3Dtrue) for the most accurate reproduction.*
 
-# HookUp.com :: Online Dating :: Personals :: Matchmaking
+# Online Dating and Internet Personals Services for Singles :: HookUP.com
 
 **HookUp.com Privacy Statement**
 
