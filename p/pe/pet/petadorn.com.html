@@ -1,0 +1,509 @@
+<!--The following is the downloaded HTML source of the petadorn.com privacy policy that was archived on 2005-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051223035301id_/http%3A//www.petadorn.com/store/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.-->
+
+<html><head>
+ 
+<style type="text/css"> 
+
+#showimage{ 
+position:absolute; 
+visibility:hidden; 
+border: 1px solid pink; 
+} 
+
+#dragbar{ 
+cursor: hand; 
+cursor: pointer; 
+background-color: #EFEFEF; 
+min-width: 100px; /*NS6 style to overcome bug*/ 
+} 
+
+#dragbar #closetext { 
+font-weight: bold; 
+margin-right: 2px; 
+} 
+</style> 
+
+
+<script type="text/javascript"> 
+
+/*********************************************** 
+* Image Thumbnail viewer- © Dynamic Drive (www.dynamicdrive.com) 
+* Last updated Sept 26th, 03'. This notice must stay intact for use 
+* Visit http://www.dynamicdrive.com/ for full source code 
+***********************************************/ 
+
+var ie=document.all 
+var ns6=document.getElementById&&!document.all 
+
+function ietruebody(){ 
+return (document.compatMode && document.compatMode!="BackCompat" && !window.opera)? document.documentElement : document.body 
+} 
+
+function enlarge(which, e, position, imgwidth, imgheight){ 
+if (ie||ns6){ 
+crossobj=document.getElementById? document.getElementById("showimage") : document.all.showimage 
+if (position=="center"){ 
+pgyoffset=ns6? parseInt(pageYOffset) : parseInt(ietruebody().scrollTop) 
+horzpos=ns6? pageXOffset+window.innerWidth/2-imgwidth/2 : ietruebody().scrollLeft+ietruebody().clientWidth/2-imgwidth/2 
+vertpos=ns6? pgyoffset+window.innerHeight/2-imgheight/2 : pgyoffset+ietruebody().clientHeight/2-imgheight/2 
+if (window.opera && window.innerHeight) //compensate for Opera toolbar 
+vertpos=pgyoffset+window.innerHeight/2-imgheight/2 
+vertpos=Math.max(pgyoffset, vertpos) 
+} 
+else{ 
+var horzpos=ns6? pageXOffset+e.clientX : ietruebody().scrollLeft+event.clientX 
+var vertpos=ns6? pageYOffset+e.clientY : ietruebody().scrollTop+event.clientY 
+} 
+crossobj.style.left=180+"px" 
+crossobj.style.top=150+"px" 
+
+crossobj.innerHTML='<div align="left" id="dragbar">Drag<div align="right" id="dragbar"><span id="closetext" onClick="closepreview()">Close</span> </div><img src="'+which+'" onClick="closepreview()">' 
+crossobj.style.visibility="visible" 
+return false 
+} 
+else //if NOT IE 4+ or NS 6+, simply display image in full browser window 
+return true 
+} 
+
+function closepreview(){ 
+crossobj.style.visibility="hidden" 
+} 
+
+function drag_drop(e){ 
+if (ie&&dragapproved){ 
+crossobj.style.left=tempx+event.clientX-offsetx+"px" 
+crossobj.style.top=tempy+event.clientY-offsety+"px" 
+} 
+else if (ns6&&dragapproved){ 
+crossobj.style.left=tempx+e.clientX-offsetx+"px" 
+crossobj.style.top=tempy+e.clientY-offsety+"px" 
+} 
+return false 
+} 
+
+function initializedrag(e){ 
+if (ie&&event.srcElement.id=="dragbar"||ns6&&e.target.id=="dragbar"){ 
+offsetx=ie? event.clientX : e.clientX 
+offsety=ie? event.clientY : e.clientY 
+
+tempx=parseInt(crossobj.style.left) 
+tempy=parseInt(crossobj.style.top) 
+
+dragapproved=true 
+document.onmousemove=drag_drop 
+} 
+} 
+
+document.onmousedown=initializedrag 
+document.onmouseup=new Function("dragapproved=false") 
+
+</script>
+<title>
+Help zone
+ :: PetAdorn
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="distribution" content="GLOBAL">
+<meta name="rating" content="GENERAL">
+<meta name="Language" content="en">
+<meta name="classification" content="Business, Recreation, Shopping, Family, kids and teens, Consumer Goods and Services, Pet Supplies, Clothing and Accessories, Cats and Dogs, Dogs">
+<meta name="ROBOTS" content="INDEX, NOFOLLOW">
+<meta name="description" content=" Online store, offering high fashion and quality dog accessories.">
+ <meta name="keywords" content=" dog apparel, dog hats, dog accessories, etc.">
+ <link rel="stylesheet" href="/store/skin1/skin1.css">
+<script language="JavaScript1.3" src="/store/skin1/copybilling2.js"></script> 
+<link rel="stylesheet" href="/store/skin1/tabs.css">
+<link rel="stylesheet" href="/store/skin1/skin1.css">
+<script language="JavaScript" src="javascripts.js"></script>
+</head><body>
+
+<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#c0d3f2" border="0">
+<tbody><tr><td width="121"><a href="index.html">
+<script language="JavaScript" src="../header.js" alt="" width="121" height="71" border="0"></script><table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#C0D3F2"><tbody><tr><td align="LEFT"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="550" height="90" id="logo" align=""><param name="movie" value="logo.swf"><param name="quality" value="high"> <param name="bgcolor" value="#C0D3F2"><embed src="logo.swf" quality="high" bgcolor="#C0D3F2" width="550" height="90" name="logo" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object><br></td></tr></tbody></table></a></td>
+<td width="227">
+</td>
+									
+<td width="260">
+<!-- Powered by: Crafty Syntax Live Help        http://www.craftysyntax.com/ -->
+<script type="text/javascript" src="/livehelp/livehelp_js.php?relative=Y&amp;department=1&amp;pingtimes=15"></script>
+<!-- copyright 2003 - 2005 by Eric Gerdes -->
+</td>
+<td width="7">
+&nbsp;</td>
+<td width="330">
+<img border="0" src="/store/skin1/images/cart_empty.gif" width="19" height="16"><b>Cart is empty</b><br>
+<a href="cart.php" class="VertMenuItems">View cart</a>
+ | <a href="cart.php?mode=checkout"></a><a href="cart.php?mode=checkout" class="VertMenuItems">Checkout</a> 
+ <br>
+
+</td>
+												
+</tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr> 
+<td class="VertMenuBorder"><img src="/store/skin1/images/spacer.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr> 
+<td class="HeadLine" height="22">
+<table border="0" cellpadding="0" cellspacing="0">  
+<form method="POST" action="search.php" name="productsearchform"></form>
+<input type="hidden" name="simple_search" value="Y">
+<input type="hidden" name="mode" value="search">
+<input type="hidden" name="posted_data[by_title]" value="Y">
+<input type="hidden" name="posted_data[by_shortdescr]" value="Y">
+<input type="hidden" name="posted_data[by_fulldescr]" value="Y">
+<tbody><tr> 
+ <td width="9">&nbsp;</td>
+ <td class="TopLabel">Search:&nbsp;</td>
+ <td valign="middle"> 
+  <input type="text" name="posted_data[substring]" size="12" value="">
+ </td>
+ <td valign="middle">&nbsp; 
+  <a href="javascript: document.productsearchform.submit()"><img src="/store/skin1/images/zoom.gif " width="13" border="0" align="top"></a>
+ </td>
+ <td width="8">&nbsp;</td>
+ <td><a href="search.php"><u>Advanced search </u></a>&nbsp;&nbsp;&nbsp;
+<b> <a href="http://www.petadorn.com/store/index.html">Home</a></b> |  <a href="http://www.petadorn.com/store/home.php">Store</a> |  <a href="http://www.petadorn.com/store/About-Us-p-8.html">About us</a> | <a href="http://www.petadorn.com/store/FAQs-p-16.html">FAQs</a> | <a href="http://www.petadorn.com/store/Pet-Album-p-7.html">Pet Album</a> | <a href="http://www.petadorn.com/store/Pet-Links-p-5.html">Pet Links</a> | <a href="http://www.petadorn.com/store/Tip-of-the-day-p-33.html">Tip-of-the-day</a> | <a href="http://www.petadorn.com/store/Quick-Facts-p-21.html">Quick Facts</a> | <a href="http://www.petadorn.com/store/Sizing-p-19.html">Sizing</a> | <a href="directory.php">Store Directory</a>  
+ </td>
+</tr>
+
+
+</tbody></table></td>
+</tr>
+<tr> 
+<td class="VertMenuBorder"><img src="/store/skin1/images/spacer.gif" width="1" height="1" border="0"></td>
+</tr>
+</tbody></table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+</table>
+
+&nbsp;
+<script language="JavaScript" src="http://www.trustlogo.com/trustlogo/javascript/trustlogo.js" type="text/javascript">
+</script>
+<div id="showimage"></div> 
+<div id="showimage"></div><table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+ 
+<tbody><tr>
+<td width="6">&nbsp;</td>
+<td width="150" valign="top">
+ 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr> 
+<td class="VertMenuBorder"> 
+<table border="0" cellpadding="1" cellspacing="1" width="100%">
+<tbody><tr> 
+<td class="VertMenuTitle">&nbsp;&nbsp;<vertmenu width="21" height="20" border="0" align="left">&nbsp;&nbsp;
+<font class="VertMenuBoxNewsTitle">Categories</font>
+</vertmenu></td>
+</tr>
+<tr> 
+<td class="VertMenuBox"> 
+ <table border="0" cellpadding="3" cellspacing="0" width="100%">
+ <tbody><tr> 
+ <td>  
+ 
+<a href="newproducts.php" class="VertMenuItems">New Arrivals</a><hr size="1" noshade="" class="CateMenuHr"> 
+ 
+ 
+ <img src="../store/images/paw.jpg" width="12%">
+<font class="CategoriesList">
+<a href="Christmas-items-c-252.html">Christmas items</a></font><br>
+ <img src="../store/images/paw.jpg" width="12%">
+<font class="CategoriesList">
+<a href="Collar-c-261.html">Collar</a></font><br>
+ <img src="../store/images/paw.jpg" width="12%">
+<font class="CategoriesList">
+<a href="Dog-Hats-c-257.html">Dog Hats</a></font><br>
+ <img src="../store/images/paw.jpg" width="12%">
+<font class="CategoriesList">
+<a href="Dog-Sun-Visors-c-254.html">Dog Sun Visors</a></font><br>
+ <img src="../store/images/paw.jpg" width="12%">
+<font class="CategoriesList">
+<a href="Gift-Box-c-262.html">Gift Box</a></font><br>
+ <img src="../store/images/paw.jpg" width="12%">
+<font class="CategoriesList">
+<a href="Hair-Accessories-c-103.html">Hair Accessories</a></font><br>
+ <img src="../store/images/paw.jpg" width="12%">
+<font class="CategoriesList">
+<a href="Pet-Dog-Bandanas-c-3.html">Pet Dog Bandanas</a></font><br>
+ <img src="../store/images/paw.jpg" width="12%">
+<font class="CategoriesList">
+<a href="Pet-Outerwear-c-260.html">Pet Outerwear</a></font><br>
+ <img src="../store/images/paw.jpg" width="12%">
+<font class="CategoriesList">
+<a href="Special-Occasion-c-256.html">Special Occasion</a></font><br>
+<br><br>
+ <a href="giftcert.php"><img src="../store/images/gift 147.JPG"></a><br><br>
+ <a href="/store/FREE-Shipping-p-29.html"><img src="../store/images/Free shipping 147.JPG"></a><br>
+</td></tr>
+ </tbody></table>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table> <br>
+<!-- central space -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr> 
+<td class="VertMenuBorder"> 
+<table border="0" cellpadding="1" cellspacing="1" width="100%">
+<tbody><tr> 
+<td class="VertMenuTitle">&nbsp;&nbsp;<vertmenu width="21" height="20" border="0" align="left">&nbsp;&nbsp;
+<font class="VertMenuBoxNewsTitle">Contact us</font>
+</vertmenu></td>
+</tr>
+<tr> 
+<td class="VertMenuBox"> 
+ <table border="0" cellpadding="3" cellspacing="0" width="100%">
+ <tbody><tr> 
+ <td><align="center"> PetAdorn.com<br>
+2729 W. Main St.<br>
+Alhambra CA. 91801<br>
+U.S.A.<br>
+TEL: 1 (626) 576 5708<br><br>
+<a href="help.php?section=contactus&amp;mode=update" class="VertMenuItems">Email us</a><br>
+<a href="help.php?section=business" class="VertMenuItems">Privacy statement</a><br>
+<a href="help.php?section=conditions" class="VertMenuItems">Terms &amp; Conditions</a><br>
+
+</align="center"></td></tr>
+ </tbody></table>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table><img src="/store/skin1/images/spacer.gif" width="150" height="1" border="0">
+</td>
+<td width="20">&nbsp;</td>
+<td valign="top">
+
+<font class="NavigationPath">
+<a href="home.php" class="NavigationPath">PetAdorn</a>&nbsp;::&nbsp;<a href="help.php" class="NavigationPath">Help zone</a></font>
+<br><br>
+<h1 align="center">Help zone</h1><p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr> 
+<td height="50" class="DialogTitle">&nbsp;&nbsp;Privacy statement</td>
+</tr>
+<tr> <td class="DialogBorder"><table border="0" cellpadding="10" cellspacing="1" width="100%">
+<tbody><tr><td class="DialogBox"><b></b><p align="justify"><b>We respect your privacy!</b><br><br>Any and all the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned!<br>Any information you provide will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please feel free to call or <a href="help.php?section=contactus&amp;mode=update">email us</a>.
+<br><br><br>
+<b>Security</b><br><br>
+The Internet is actually one of the safest methods of using your credit card.  After filling out your address information, you will be taken to a SSL (Secure Socket Layer) page with 128-bit encryption provides an extremely high level of security for submitting your payment information.  Because of the use of advanced encryption, the task of obtaining stolen credit cards is extremely difficult.  <br>In comparison, your credit card information is more likely to be stolen by a waiter or waitress at a restaurant, or a desk clerk at a local hardware store.  
+
+<br><br> Remember, your maximum liability for stolen credit cards under Federal Law is only $50. You can always be sure that your information is secure by spotting the small lock icon in the bottom status bar of your browser.<img src="images/sslimage.gif" length="580" width="240" align="right"><br><br>
+
+What to do if you have received a Hoax/Publishing scams or being ripped off online?  <a href="http://www.auctionbytes.com/cab/pages/fraud/" target="_blank">
+Fraud Resource Center</a> is a useful resource for you. By educating people about fraud, we can make Cyberspace a safer place to do business. <br><br><br>
+<b>This site uses cookies:</b><br><br>
+Cookies are Web browser software stored at the harddrive of user's browser. It does not slow your network connections nor take up significant disk space of your computer.<br> The purpose and usage of cookies is to recognize Web site users' browsing activities, it does not collect personal information. This information assists us to design and arrange our Web pages in the most user-friendly manner and enable us continually improve our Web site that better meet the needs of our customers and prospective customers. 
+
+&nbsp;
+</p></td></tr>
+</tbody></table></td></tr>
+</tbody></table>
+
+
+<!-- central space -->
+&nbsp;
+</p></td>
+<td width="20">&nbsp;</td>
+<td width="150" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr> 
+<td class="VertMenuBorder"> 
+<table border="0" cellpadding="1" cellspacing="1" width="100%">
+<tbody><tr> 
+<td class="VertMenuTitle">&nbsp;&nbsp;<vertmenu width="21" height="20" border="0" align="left">&nbsp;&nbsp;
+<font class="VertMenuBoxNewsTitle">Newsletter</font>
+</vertmenu></td>
+</tr>
+<tr> 
+<td class="VertMenuBox"> 
+ <table border="0" cellpadding="3" cellspacing="0" width="100%">
+ <tbody><tr> 
+ <td><font class="VertMenuItems">
+<span style="font-size: 9px">
+</span>
+Signup for latest news, tips and discounts.<br>
+<table>
+<form action="/store/mail/subscribe.php" name="subscribeform"></form>
+<input type="hidden" name="redirect" value="customer">
+<tbody><tr>
+<td>
+Your email:
+<br>
+<input type="text" name="newsemail" size="16">
+<br>
+<a href="javascript:document.subscribeform.submit()" class="VertMenuItems"><font class="VertMenuItems">Signup&nbsp;</font><img src="/store/skin1/images/go1.gif" width="30" height="17" border="0" align="absmiddle"></a><br><a href="../store/help.php?section=business">Privacy statement</a><br><hr><br>
+<li><a href="../store/feed11_dog%20treats.php">Dog Treats</a></li>
+<li><a href="../store/feed7_pets_and_animals_videos.php">Dog &amp; Animals Videos</a></li>
+<li><a href="../store/feed4_pdsa%20news.php">PDSA News</a></li>
+<li><a href="../store/feed9_pets%20Health%20&amp;%20med.php">Pet Health News</a></li>
+<li><a href="../store/feed2_national%20geographic.php">National Geographic</a></li>
+<li><a href="../store/feed3_odd%20news.php">OddlyEnough News</a></li>
+<li><a href="/store/Recipe-of-the-day-p-37.html">Recipe of the day</a></li>
+<li><a href="../store/feed8_vet-care_news.php">Vet-care News</a></li>
+</td>
+</tr>
+
+</tbody></table>
+</font></td></tr>
+ </tbody></table>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr> 
+<td class="VertMenuBorder"> 
+<table border="0" cellpadding="1" cellspacing="1" width="100%">
+<tbody><tr> 
+<td class="VertMenuTitle">&nbsp;&nbsp;<vertmenu width="21" height="20" border="0" align="left">&nbsp;&nbsp;
+<font class="VertMenuBoxNewsTitle">Customer Login</font>
+</vertmenu></td>
+</tr>
+<tr> 
+<td class="VertMenuBox"> 
+ <table border="0" cellpadding="3" cellspacing="0" width="100%">
+ <tbody><tr> 
+ <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+<form action="https://www.petadorn.com/store/include/login.php" method="post" name="authform"></form>
+<input type="hidden" name="xid" value="d8a3567b5f023c88ef107a8048284ec8">
+ <tbody><tr>
+<td class="VertMenuItems">
+<font class="VertMenuItems">Username</font><br>
+<input type="text" name="username" size="16" value=""><br>
+<font class="VertMenuItems">Password</font><br>
+<input type="password" name="password" size="16" value=""><br>
+<input type="hidden" name="mode" value="login">
+<input type="hidden" name="usertype" value="C">
+<input type="hidden" name="redirect" value="customer">
+</td></tr>
+<tr>
+<td height="24" class="VertMenuItems">
+<a href="javascript: document.authform.submit()" class="VertMenuItems"><font class="VertMenuItems">Log in </font><input type="image" src="/store/skin1/images/go1.gif" width="30" height="17" border="0" align="absmiddle"></a>
+</td>
+</tr>
+ <tr>
+<td height="24" nowrap="" class="VertMenuItems">
+<a href="register.php" class="VertMenuItems"><font class="VertMenuItems">Register </font><img src="/store/skin1/images/go1.gif" width="30" height="17" border="0" align="absmiddle"></a>
+</td>
+</tr>
+<tr>
+<td height="24" nowrap="" class="VertMenuItems">
+<a href="help.php?section=Password_Recovery" class="VertMenuItems">Recover password</a>
+</td>
+</tr>
+
+<tr>
+<td class="VertMenuItems" align="right">
+<br>
+<a href="/store/help.php?section=business&amp;js=n" class="SmallNote">If Javascript is disabled in your browser click here</a>
+</td>
+</tr>
+
+</tbody></table>
+</td></tr>
+ </tbody></table>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+
+<a target="_blank" href="https://www.paypal.com/us/verified/pal=PA%2dpayment%40petadorn%2ecom"><b><img border="0" src="images/untitled.bmp" alt="PayPal Verified" width="90%"> </b></a><b> <table width="100%" border="0" cellspacing="0" cellpadding="5"> 
+<tbody><tr> 
+<td align="center" valign="top">
+<a href="http://www.petadorn.com/store/Our-Guarantee-p-11.html"><img src="images/100.gif" border="0" alt="Our guarantee" width="100" height="100"></a><br> 
+<!--
+TrustLogo Html Builder Code:
+Shows the logo at URL http://www.petadorn.com/store/images/secure_site.gif 
+Logo type is  ("SC")
+Not Floating
+//-->
+ 
+<script type="text/javascript">TrustLogo("http://www.petadorn.com/store/images/secure_site.gif", "SC", "none");</script>
+</td> 
+</tr> 
+</tbody></table><img src="/store/skin1/images/spacer.gif" width="150" height="1" border="0">
+</b></td>
+<td width="6">&nbsp;</td>
+</tr>
+</tbody></table>
+<p align="center">PetAdorn offering Pet Accessories includes wide range of dog hats, baseball caps, dog sun visors, hair accessories, pet dog bandanas, rhinestone barrettes, hair clips, christmas items, apparel and costumes.
+<br>Copyright PetAdorn © 2004-2005 PetAdorn&nbsp;&nbsp;<br>
+
+
+<img src="/store/skin1/images/spacer.gif" width="1" height="1">
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr><td height="28" background="picts/stretchbar.jpg" width="100%">
+<p align="center">All rights are reserved Copyright PetAdorn © 2004-2005 
+</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" background="picts/bottom-shade.gif"><tbody><tr> 
+
+<td align="left" valign="middle">
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr valign="center"> 
+<td> 
+<div align="left">
+<ul style="margin-top: 0;"><b>Categories</b>
+<li><a href="Christmas-items-c-252.html">Christmas items</a></li>
+<li><a href="Collar-c-261.html">Collar</a></li>
+<li><a href="Dog-Hats-c-257.html">Dog Hats</a></li>
+<li><a href="Dog-Sun-Visors-c-254.html">Dog Sun Visors</a></li>
+<li><a href="Gift-Box-c-262.html">Gift Box</a></li>
+<li><a href="Hair-Accessories-c-103.html">Hair Accessories</a></li>
+<li><a href="Pet-Dog-Bandanas-c-3.html">Pet Dog Bandanas</a></li>
+<li><a href="Pet-Outerwear-c-260.html">Pet Outerwear</a></li>
+<li><a href="Special-Occasion-c-256.html">Special Occasion</a></li>
+</ul>
+</div>
+</td>
+<td> 
+<div align="left">
+<ul style="margin-top: 0;"><b>More information</b>
+<li><a href="About-Us-p-8.html">About Us</a>
+</li><li><a href="help.php?section=contactus&amp;mode=update">Contact Us</a>
+</li><li><a href="FAQs-p-16.html">FAQs</a>
+</li><li><a href="Personization-p-27.html">Personalization</a>
+</li><li><a href="Pet-Album-p-27.html">Pet Album</a>
+</li><li><a href="Sizing-p-19.html">Sizing</a>
+</li></ul>
+</div>
+</td>
+<td> 
+<div align="left">
+<ul style="margin-top: 0;"><b>Order Status &amp; Tracking</b>
+<li><a href="orders.php"> Check your order status</a>
+</li><li><a href="Domestic-Shipping-p-22.html">Domestic Shipping</a>
+</li><li><a href="International-Shipping-p-23.html">International Shipping Policies</a>
+</li><li><a href="help.php?section=conditions">Terms &amp; Conditions</a></li></ul>
+</div>
+ </td>
+<td> 
+<div align="left">
+<ul style="margin-top: 0;"><b>Information &amp; Guarantees</b>
+<li><a href="help.php?section=business">Privacy statement</a>
+</li><li><a href="Our-Guarantee-p-11.html">Our Guarantee</a>
+</li><li><a href="Sizing-Information-p-19.html">Sizing Information</a>
+</li><li><a href="directory.php">Store Directory</a>
+</li></ul>
+</div>
+</td></tr></tbody></table>
+
+
+
+</td><td width="10">
+
+<br>
+
+</td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" background="picts/bottom-shade.gif"><tbody><tr><td width="10">
+<!-- COPYRIGHT -->
+
+</td></tr></tbody></table>
+</p><p align="center">
+<img src="/store/skin1/images/2co certified.jpg" alt="2co certified"> <img src="/store/skin1/images/m cc.gif" alt="Accepting Visa, Discover, Master, eCheck, JCB, Diners, Amex"><img src="/store/skin1/images/horz_master_100pixels.gif" width="83" height="32" alt="128bit SSL"><img src="/store/skin1/images/usps.gif" width="150" height="25" alt="USPS Shipping"> 
+</p>
+
+
+</body></html>
