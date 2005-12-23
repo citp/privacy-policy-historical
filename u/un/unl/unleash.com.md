@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305061532id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223175411id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Graphics Unleashed
 
