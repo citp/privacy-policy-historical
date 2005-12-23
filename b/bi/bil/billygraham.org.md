@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billygraham.org privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405234944id_/http%3A//www.billygraham.org/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billygraham.org privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223180329id_/http%3A//billygraham.org/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # BGEA: About Us: Privacy Policy
 
@@ -8,9 +8,9 @@ BGEA provides this online privacy policy to inform you of the way your informati
 **Information We Collect**  
 There are three different ways in which we collect information from visitors on our Web site: 
 
-1\. From online requests for information (i.e. [e-mail newsletters](https://web.archive.org/elist.asp), [contact forms](https://web.archive.org/Contact_BGEA.asp), etc.); 2\. From online requests for materials from our organization (i.e. [requesting a free offer](https://secure.billygraham.org/freeoffer.asp), or [committing your life to Christ](https://secure.billygraham.org/commitment.asp).); and 3\. From [online donations](https://secure.billygraham.org/donate.asp)
+1\. From online requests for information (i.e. [e-mail newsletters](https://web.archive.org/elist.asp), [contact forms](https://web.archive.org/Contact_BGEA.asp), etc.); 2\. From online requests for materials from our organization (i.e. [requesting a free offer](https://www.billygraham.org/freeoffer.asp), or [committing your life to Christ](https://www.billygraham.org/commitment.asp).); and 3\. From [online donations](https://www.billygraham.org/donate.asp)
 
-The information we collect online includes name, address, city, state, ZIP/postal code, telephone number, e-mail address, and, in the case of [online donations](https://secure.billygraham.org/donate.asp) or [online shopping](http://www.grason.org/), credit card number and expiration date. In order to continuously improve our service to you and tailor our future communications to you, we may also ask you to provide us with information regarding your demographics, comments, professional interests, and contact preferences. 
+The information we collect online includes name, address, city, state, ZIP/postal code, telephone number, e-mail address, and, in the case of [online donations](https://www.billygraham.org/donate.asp) or [online shopping](http://www.grason.org/), credit card number and expiration date. In order to continuously improve our service to you and tailor our future communications to you, we may also ask you to provide us with information regarding your demographics, comments, professional interests, and contact preferences. 
 
 **How the Information is Used**  
 BGEA uses your information to understand your needs and provide you with better online service. We may use your information to complete a transaction, issue you an income tax receipt for a donation, or to personalize our Web site for you. If you so desire, we may also use this information to update you on ministry projects and activities. Credit card numbers are used only for donation or payment processing and are not retained for any other purposes. We also provide you the opportunity to remove your name from our postal mailing list, if you desire to do so. Please review the corresponding section of this privacy policy below. 
