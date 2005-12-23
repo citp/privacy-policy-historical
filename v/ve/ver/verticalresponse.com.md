@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407175543id_/http%3A//www.verticalresponse.com/about/privacy_tos.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223055633id_/http%3A//www.verticalresponse.com/about/privacy_tos.html%23privacy) for the most accurate reproduction.*
 
 # VerticalResponse
 
@@ -23,7 +23,7 @@ If you have questions or concerns regarding this statement, please contact Janin
 **Information Collection and Use**  
 VerticalResponse is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. VerticalResponse collects information from our users at several different points on our website.
 
-**Information You Upload into iBuilder**  
+**Information You Upload into VerticalResponse**  
 VerticalResponse offers self-service direct marketing solutions for small and mid-size businesses. All client data uploaded into our system is stored in a personalized and secure location. VertcalResponse will not sell or rent any client data loaded into our system and only the registered account holder can gain access to the uploaded lists. 
 
 **Registration**  
