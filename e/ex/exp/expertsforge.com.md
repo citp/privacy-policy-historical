@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the expertsforge.com privacy policy that was archived on 2005-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050509083157id_/http%3A//www.expertsforge.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertsforge.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223220350id_/http%3A//www.expertsforge.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Expertsforge - Privacy Policy
+# Expertsforge.com - Privacy Policy
 
 **What This Privacy Policy Covers**
 
   * This policy covers how Expertsforge treats personal information that Expertsforge collects during time of registration. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.   
 
-  * This policy does not apply to the practices of companies that Expertsforge does not own or control, or to people that Expertsforge does not employ or manage. 
+  * This policy does not apply to the practices of companies that Expertsforge does not own or control, or to people that Expertsforge does not employ or manage.
 
 
 
@@ -28,7 +28,7 @@
 
 **Children**
 
-  * We do not encourage child under age 13 attempts to register with Expertsforge and it is mentioned in [Rules](https://web.archive.org/web/20050509083157id_/http%3A//www.expertsforge.com/rules.asp).  
+  * We do not encourage child under age 13 attempts to register with Expertsforge and it is mentioned in Rules.  
 
   * If a child under 13 needs to register with Expertsforge it should be done only under the parental Guidance.
 
@@ -60,9 +60,9 @@
 
 **Questions and Suggestions**
 
-If you have questions or suggestions, please complete a feedback form or you can [contact us here](https://web.archive.org/web/20050509083157id_/http%3A//www.expertsforge.com/contact.asp) or
+If you have questions or suggestions, please complete a feedback form or you can [contact us here](https://web.archive.org/web/20051223220350id_/http%3A//www.expertsforge.com/contact.asp) or
 
-**Blackbird Media Labs.**  
+**Expertsforge.com**  
 218, GV Residency,  
 Sowripalayam Post,  
 Coimbatore - 641028  
