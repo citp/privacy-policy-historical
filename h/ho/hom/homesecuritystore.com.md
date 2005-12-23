@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402005017id_/http%3A//www.homesecuritystore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223143435id_/http%3A//www.homesecuritystore.com/privacy.html) for the most accurate reproduction.*
 
-# Home Security Store;home security equipment:home alarm system, wireless home security system, burglar alarm system, home security products
+# Privacy Statement Home Security Store
 
   Home Security Store, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: 
 
