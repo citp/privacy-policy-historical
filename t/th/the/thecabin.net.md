@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecabin.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403105052id_/http%3A//www.thecabin.net/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecabin.net privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223201602id_/http%3A//www.thecabin.net/legal/privacy.shtml) for the most accurate reproduction.*
 
 # TheCabin.net ·· PRIVACY POLICY
 
