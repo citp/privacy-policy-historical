@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qualitysmith.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406212907id_/http%3A//www.qualitysmith.com/privacy.html%3Fyvd%3D922524191) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitysmith.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223012630id_/http%3A//www.qualitysmith.com/privacy.html%3Fyvd%3D184320987) for the most accurate reproduction.*
 
-# About Us
+# Privacy Policy
 
-Privacy
+Privacy Policy
 
 The privacy of our customers has always been of utmost importance to us at QualitySmith. The following statement explains our policy regarding the personal information we collect about you. 
 
