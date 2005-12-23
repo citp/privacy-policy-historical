@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thefactsaboutfitness.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404083844id_/http%3A//www.thefactsaboutfitness.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefactsaboutfitness.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223234130id_/http%3A//thefactsaboutfitness.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Christian Finn's Facts About Fitness
 
-[Home](https://web.archive.org/web/20050404083844id_/http%3A//www.thefactsaboutfitness.com/index.htm) **::** Privacy Policy
+[Home](https://web.archive.org/web/20051223234130id_/http%3A//thefactsaboutfitness.com/index.htm) **::** Privacy Policy
 
 The following statement explains our policy regarding the personal information we collect about you, and is effective from November 9th 2004.
 
@@ -22,7 +22,7 @@ When you enter a site your computer will automatically be issued with a cookie. 
 Cookies themselves only record those areas of the site that have been visited by the computer in question, and for how long. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalized services cannot then be provided to that user.
 
 **4\. Use and storage of your personal information**  
-When you supply any personal information to thefactsaboutfitness.com (e.g. to receive the newsletter) we will explain how we will use it and tell you if we want to pass the information on to anyone else. Any information you provide to thefactsaboutfitness.com will only be used by us. It will never be never rented, traded or sold, unless we are obliged by law to disclose it. 
+When you supply any personal information to thefactsaboutfitness.com (e.g. to receive the newsletter) we will explain how we will use it and tell you if we want to pass the information on to anyone else. Any information you provide to thefactsaboutfitness.com will only be used by us. It will never be rented, traded or sold, unless we are obliged by law to disclose it. 
 
 We will hold your information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met, or you request that we remove it.
 
