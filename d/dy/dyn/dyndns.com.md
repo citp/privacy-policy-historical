@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dyndns.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204022051id_/http%3A//www.dyndns.org/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyndns.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223125545id_/http%3A//www.dyndns.com/about/legal/privacy.html) for the most accurate reproduction.*
 
-# DynDNS.org -- Legal -- Privacy Policy
+# DynDNS -- Legal -- Privacy Policy
+
+## Privacy Policy
 
 It is the policy of Dynamic Network Services, Inc. ("DynDNS") to protect and respect the privacy and personal information of its Members. Therefore, DynDNS will not monitor, edit, or disclose the contents of a Member's private communications or data to third parties unless required to do so by law or in the good faith belief that such action is necessary to:
 
@@ -16,9 +18,9 @@ DynDNS will not give out personal information of its Members to advertisers, bus
 
 Any financial data collected shall be stored in encrypted form, and will be made available for future transactions immediately upon request, and stored only for as long as required by applicable financial regulations.
 
-The privacy of all Registrant, Administrative, Technical, and Billing contact information collected during domain registration/transfer is governed by the terms and conditions for the appropriate domain registration authority - please see [those agreements](https://web.archive.org/about/legal/opensrs/) for more details.
+The privacy of all Registrant, Administrative, Technical, and Billing contact information collected during domain registration/transfer is governed by the [Domain Registration Agreement](https://web.archive.org/about/legal/reg-agreement.html) \- please see that agreement for more details.
 
-You may contact [customer support](mailto:support@dyndns.org) to correct, update or remove personal information you have given us.
+You may contact [customer support](mailto:support@dyndns.com) to correct, update or remove personal information you have given us.
 
 While DynDNS strives to protect your personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
 
