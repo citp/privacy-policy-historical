@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleclick.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308133030id_/http%3A//www.peopleclick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleclick.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223224637id_/http%3A//www.peopleclick.com/privacy) for the most accurate reproduction.*
 
 # Staffing management solutions, affirmative action software, and contingent workforce management at Peopleclick
 
@@ -15,7 +15,7 @@
 If you have questions or concerns regarding this statement, you should contact [privacy@peopleclick.com](mailto:privacy@peopleclick.com) by email. 
 
 **Who is Peopleclick?**  
-Peopleclick is a global market leader of web-based HR process management software and services, providing enterprises with the ability to attain, train and retain a talented workforce. Peopleclick offers solutions that cover the full HR product spectrum, making it the first and leading provider of a unified approach to Human Capital Management. Offerings include: Recruitment Management Software, Workforce Planning, Sourcing and Recruitment Strategy, Affirmative Action Compliance Software, EEO Litigation Support, Compensation Analysis, Succession Planning and Comprehensive HR Training. 
+Peopleclick is the leading global Total Workforce Acquisition provider for salaried, hourly and contingent workers. We deliver solutions that help companies attract, acquire and deploy a diverse and productive workforce. Peopleclick empowers clients to radically simplify, improve and measure their workforce acquisition lifecycle, while integrating affirmative action and diversity goals into their hiring processes. 
 
 **Collection methods and information collected**  
 Peopleclick maintains various contact forms to collect information from Users for purposes in which the User has expressed interest. Examples of vehicles in which Peopleclick would collect information are candidate registration for employment opportunities, seminar registration, request for product/service offerings, contest registration, opt-in email updates, and other marketing campaigns in support of special events or promotions. Information collected may include contact and geographic information such as name, email and mailing address. At any time, a User can opt-out of receiving future updates to originally requested information. 
