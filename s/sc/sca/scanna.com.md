@@ -1,115 +1,85 @@
-> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605062907id_/http%3A//www.scanna.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223113849id_/http%3A//scanna.com/index/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Scanna - Russian, Ukrainian, European women seek dating and marriage through correspondence.
+# Scanna - easy way to meet Russian brides â€" Privacy Statement
 
-**Scanna International   
-Privacy Policy**
+**CONFIDENTIAL DATA NON-DISTRIBUTION AGREEMENT**
 
-Depending on what you do when you visit any web site, you are providing information about your visit to the site's owners. This includes Scanna.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any web site, we think it's a good idea for you to first understand what that site's privacy policies are. If the site doesn't tell you, don't hesitate to ask.
+**I. General provisions**
 
-The bottom line at www.Scanna.com and its related sites (collectively "Scanna.com") is that we use the information that we get from your visit for internal tracking purposes, to make Scanna.com as useful and interesting to you as we can, and to respond to your requests for information or other services. Except as specifically noted, we do not use your personal information for any other purpose; we never sell it to any third party; and, we never share it with any third party.
+> 1\. Subject of regulation
 
-**Read more about:**
+Scanna respects the right of members to confidentiality and will do everything possible to facilitate its non-disclosure. This Agreement determines the conditions and purposes of gathering, storing, protecting, processing and distributing information about the Scanna website. 
 
-**I. Notice**
+> 2\. Information, covered by the Agreement
 
-What personal information we collect and how we use your information
+Information about the Scanna members includes: 
 
-Our policy regarding sharing of information
-
-**II. Choice**
-
-How you can decide what communication you'll receive from us
-
-**III. Access**
-
-How you can control the use of your personal information
-
-**IV. Security**
-
-How we protect the security of your personal information
-
-**V. Customer Service and Recourse**
-
-Changes to the Scanna.com Privacy Policy
-
-How to contact Scanna.com
-
-Protecting Your Privacy Online
-
-**I. Notice**
-
-What personal information we collect and how we use your information:
-
-When you visit the Scanna.com web site, we capture the internet provider's domain name and country that you came from (e.g., 'aol.com') and the paths taken as you move from page to page (i.e., your "click stream" activity).
-
-Information we collect on Scanna.com may be used to enhance your use of this web site in ways like these:
-
-  1. Arrange the web site in the most user-friendly way
-
-  2. Customize your browsing experience of this web site
-
-  3. Communicate special offers and featured items to you, if you choose to receive such notices
-
-  4. Respond to your question or suggestions
+  * standard data, automatically received by a http-server during access to the Site (the IP-address of the host, time, type and information about the viewing program, which requested a resource, member's operational system type, page address, from which the transition to the requested resource was done);
+  * data in electronic form, provided by members during registration with the Site (members profiles - including, but not limited to: member names, logins, passwords, confidential control questions and answers, e-mail addresses, socio-metric data and the data on their preferences).
 
 
 
+> 3\. Applicable legislation
 
-**Visitor Registration or Requests for Information:**
+Relationships considered in the present Agreement regarding gathering, storing, protecting, processing and distribution of information about members of the Site, are governed in accordance with the current legislation of California, not taking into account the conflict of jurisdictional requirements. By accepting the conditions of the present Agreement, you confirm your consent to consideration of a claim in the federal courts of the California district, Los Angeles City.
 
-Scanna.com only collects personal information that you choose to provide voluntarily when using or registering with the Scanna.com site. "Personal information" includes information that can identify you as a specific individual, such as your name or email address; and, in the case of affiliate agreements, your name and company name. While you can browse our site without registering, you will need to register in order to take advantage of certain features, such as being able to view booklets 2 weeks earlier then general public.
+**II. Conditions of reference to the Site**
 
-**Browsing and the use of Cookies:**
+Scanna assumes, that a member, addressing the Site: 
 
-Scanna.com uses cookie technology as part of our web site's statistical reporting. A cookie is a small piece of information sent by a website that is saved on your hard disk by your computer's browser. It holds information a site may need to personalize your experience (i.e., rotating images on Scanna.com home page) and to gather web site statistical data, such as which pages are visited, what is downloaded, the internet provider's domain name and country that our visitors come from (e.g. 'aol.com,' or 'umich.edu') and the addresses of sites visited immediately before, and after, coming to Scanna.com. However, none of this is associated with you as an individual. It is measured only in aggregate. The information in the cookies lets us trace your "click stream" activity (i.e., the paths taken by visitors to our site as they move from page to page. Cookies do not capture your individual email address or any private information about you.
+  * Uses the Site on his/her own and authentically specifies personal information, when it is required;
+  * Determines and has control over the settings of the software used by him/her according to his/her preferences concerning personal data protection, information about his/her own firmware and Internet connection;
+  * Scanna assumes, that a member, accessing the Site is acquainted with the present Agreement and accepts its terms and conditions.
 
-We also use standard web server log files to help us count visitors and evaluate our site's technical capacity. We use this information to find out how many people visit Scanna.com, help us arrange the pages in the most user-friendly way, keep the site browser-friendly, and to make our pages more useful to our visitors. We record information on site traffic but not information on individual visitors to our site, so no information about you in particular will be kept or used.
 
-To browse without cookies, you can configure your browser to reject all cookies, or to notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)
 
-**Email, Mailing Lists, and Other Services:**
+**III. Gathering, storage, protection, processing and distribution of information**
 
-When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply in case we correspond further. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use.
+> 1\. Gathering information about members
 
-When you request information or other services, we use your email address and any other information you give us to provide you with the information or other services you requested until you ask us to stop (using the 'unsubscribe' instructions provided with each email and/or on the site where you signed up and/or as we otherwise provide), or until the information or service is no longer available. We will not use your address or other information to provide you with any unsolicited message or information (unless that is part of the service you are requesting), nor will we share it with or sell, rent or lease it to any third party for such use.
+Scanna gathers information about members in accordance with the rules, determined by the present Agreement. 
 
-**Linking To Other Sites:**
+> 2\. Restriction of information received from minors
 
-Please remember that when you use a link to go from Scanna.com to another web site, the Scanna.com Site Rules and this Privacy Policy are no longer in effect. Your browsing and interaction on any other web site, including any site that has a link on Scanna.com, is subject to the rules and policies of that site. We encourage you to read the rules and policies of the sites you visit to further understand their procedures for collecting, using, and disclosing personal information.
+Scanna has no intention to receive information from minors. According to the Charter, Scanna forbids them using the Site. 
 
-**Our policy regarding sharing of information:**
+> 3\. Liability restriction for reliability of collected information
 
-Our policy is simple: we never sell or rent your personal information to any third parties under any circumstances.
+Scanna does not verify reliability of collected information about members and does not control the legal status of members. 
 
-**II. Choice**
+> 4\. Storage of information about members
 
-How you can decide what communication you'll receive from us:
+Scanna gathers information about members in accordance with the rules, determined by the present Agreement. All information collected, stored and processed about members by Scanna is considered to be restricted access information. 
 
-If you choose to receive them, Scanna.com may periodically send you email messages describing updates, new features, or promotional offers related to this web site. You can choose to stop receiving this email at any time. Simply follow the instructions included in your email, or send a reply stating your request.
+> 5\. Information protection
 
-If you do not explicitly choose to receive informational emails, the only email messages you will receive from Scanna.com will be to respond to email inquiries that you send us.
+Scanna undertakes all reasonable measures to protect information about its members from destruction, distortion or disclosure. 
 
-**III. Access**
+> 6\. Access to information about members
 
-How to update or correct your personal information:
+Women, interested in acquaintance, have access only to the information about members of the Site. Information about other members is not accessible to the members of Scanna. An exception is made for general data, which characterize Scanna as a whole, for example, information about distribution of the members by country, age, occupation, education, etc. 
 
-To modify or delete your personal information, simply follow the instructions included in your email, or send a reply stating your request, and we will make the requested changes.
+> 7\. Restriction of using information from members profiles
 
-**IV.   Security**
+Scanna uses information from members' profiles (login and password, email address) only for authorization of Internet resource access. Responsibility for the safety of the provided information is carried by the member. Any actions, conducted with the use of such information, are considered by Scanna as the actions, conducted by the member. Other information from a member's profile is not used by Scanna for distributing information to members, except for the cases stipulated by the Site usage rules, or by members' obvious inquiry.
 
-How we protect the security of your personal information:
+**IV. Miscellaneous**
 
-The security of your personal information is very important to us and we are committed to protecting the information we collect. Scanna.com uses firewalls and has security measures in place at its physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our web site.
+> 1\. Members' references in connection with the Agreement
 
-**V. Customer Service and Recourse**
+Scanna considers the references, associated with the present Agreement, including members inquiries, concerning their personal data usage, sent by the members to the following e-mail address: [info@scanna.com](mailto:info@scanna.com). Anonymous messages will not be considered. 
 
-Changes to the Scanna.com Privacy Policy
+> 2\. Correspondence to the Scanna address
 
-This Privacy Policy was posted in June 2001. Scanna.com reserves the right to change, modify or amend this policy at any time. We takes privacy matters very seriously, and intends to stay at the forefront of privacy policy and protection matters. Scanna will occasionally update our privacy policy and we will post those updates on this page. You are responsible for revisiting this page to review our privacy policy updates.
+All correspondence, sent by members to the Scanna address is perceived by Scanna as restricted access information and can be published only with the consent of the member. Addresses, personal data and other information about the members, who have sent these letters, cannot be used without their special consent for other purposes, but only to provide answers on the subject of a received letter. 
 
-**How to contact Scanna.com:**
+> 3\. Access to the text of the Agreement
 
-  Please note that whenever you submit any information to us in connection with any Scanna.com related services, you consent to Scanna's processing of this information in the United States/Russia as necessary to provide the services in which you are participating.
+The present Agreement is an open and publicly accessible document. The current edition of the Agreement is placed in the Internet and has the following permanent address - [http://www.scanna.com/index/PrivacyStatement.aspx](https://web.archive.org/index/PrivacyStatement.aspx)
 
-If you have any questions, comments, criticisms, or complaints about Scanna.com's privacy policy and/or the way it affects you, please feel free to email us at [webmaster@scanna.com](mailto:webmaster@scanna.com).
+> 4\. Scanna right to modify the Agreement
+
+Scanna reserves the right to modify the present Agreement, and notify members about such modifications at the address, where the present Agreement is placed, not later than 7 days before the respective alterations will come into force. 
+
+  
+
