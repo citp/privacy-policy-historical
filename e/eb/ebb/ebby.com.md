@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebby.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305053053id_/http%3A//www.ebby.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebby.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223130028id_/http%3A//www.ebby.com/privacy.shtml) for the most accurate reproduction.*
 
 # Ebby Halliday, REALTORS®
 
@@ -88,7 +88,7 @@ OUR COMMITTMENT TO SECURITY
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect via the Internet. We do not sell, trade, or rent your personal information without your prior knowledge and permission.
 
-If you have questions about the privacy procedures employed at Ebby Halliday REALTORS, please contact [privacy@ebby.com](mailto:privacy@ebby.com) or call 214-303-1133. 
+If you have questions about the privacy procedures employed at Ebby Halliday REALTORS, please contact [privacy@ebby.com](mailto:privacy@ebby.com) or call 972-980-6600. 
 
-Back to Top | [Home](https://web.archive.org/web/20050305053053id_/http%3A//www.ebby.com/index.shtml)  
+Back to Top | [Home](https://web.archive.org/web/20051223130028id_/http%3A//www.ebby.com/index.shtml)  
 
