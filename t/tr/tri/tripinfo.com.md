@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2005-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050316095121id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223155625id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
 
 # TRIPinfo.com - Index to USA Travel Sites - The Most Trip Information
 
@@ -8,6 +8,8 @@
    
    
   
+
+
 NOTICE OF PRIVACY POLICY   
 We value you as a customer and we know how much privacy means to you. We are pleased to inform you of our policies for collecting, using, securing, and sharing customer information.
 
@@ -73,5 +75,3 @@ EMAIL US WITH ANY QUESTIONS OR CONCERNS ABOUT OUR PRIVACY POLICY:
 * * *
 
 | 
-
-Google Adsense
