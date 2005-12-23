@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momcentral.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307123258id_/http%3A//www.momcentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momcentral.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223122844id_/http%3A//www.momcentral.com/privacy.html) for the most accurate reproduction.*
 
 # Mom Central | Privacy Policy
 
@@ -8,7 +8,7 @@
 
 We are committed to protecting the privacy and security of the users of our sites. This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly. 
 
-If you have any questions or concerns about our privacy policy, please send us an e-mail at [editors@momcentral.com](mailto:privacy@momcentral.com). 
+If you have any questions or concerns about our privacy policy, please send us an e-mail at [privacy@momcentral.com](mailto:privacy@momcentral.com). 
 
 **SCOPE OF PRIVACY POLICY**
 
@@ -54,11 +54,13 @@ When you register for Mom Central, you will be required to provide the following
 
 **CONTROLLING OR CHANGING YOUR INFORMATION**
 
-You can update your personal information, including changing your subscriptions to our email newsletters, by sending us the instructions at [editors@momcentral.com](mailto:edits@momcentral.com). 
+You can update your personal information, including changing your subscriptions to our email newsletters, by sending us the instructions at [edits@momcentral.com](mailto:edits@momcentral.com). 
 
 **OPTING OUT**
 
-If you do not want to receive our Mom Central newsletters or e-mails, do not want us to use your personal information for any of our internal purposes or other purposes, or do not want this information to be shared with third parties, you may "opt out" by emailing us such a request at [editors@momcentral.com](mailto:membership@momcentral.com). 
+ 
+
+If you do not want to receive our Mom Central newsletters or e-mails, do not want us to use your personal information for any of our internal purposes or other purposes, or do not want this information to be shared with third parties, you may "opt out" by emailing us such a request at [membership@momcentral.com](mailto:membership@momcentral.com). 
 
 **SUBMISSION POLICY**
 
