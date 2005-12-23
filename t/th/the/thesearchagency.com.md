@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thesearchagency.com privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622030415id_/http%3A//thesearchagency.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesearchagency.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224001606id_/http%3A//www.thesearchagency.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for The Search Agency
+
+## The Search Agency - Privacy Policy
 
 Protecting your privacy is important to us at The Search Agency.  The following Privacy Policy covers The Search Agency's collection, storage, use and disclosure of personal information of our clients and of users of our online services through the "Client Control Center" area of our website located at www.thesearchagency.com (the "Site").  For the purposes of this Privacy Policy, "personal information" or "information" refers to identifying information such as your name, physical address, email address, telephone number, etc.  Please take a moment to read the following to learn about our information collection, storage, use, and disclosure practices.
 
