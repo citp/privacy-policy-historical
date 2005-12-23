@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723011516id_/http%3A//mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223072221id_/http%3A//www.mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
 
 # M&T Bank : Customer Service
 
-_Customer Service_
+_Privacy Policy_
 
  **M &T Bank Corporation’s Consumer Information Policy**
 
@@ -68,9 +68,9 @@ M&T Mortgage Corporation
 
 M&T Securities, Inc.
 
-M&T Credit Corporation
+M&T Credit Services, LLC
 
-Highland Lease Corporation
+M&T Lease, LLC
 
 All the companies in the M&T family work together to provide you with the highest quality service and effective solutions to your financial needs. To do so, we may share some information we obtained about you (as previously described) within the M&T family. This gives us the ability to offer you the widest range of financial products and services, and it allows us to make access to them more convenient for you. For instance, you can access your M&T Bank deposit and loan accounts, and your M&T Mortgage account through a single source - M&T Web Banking. And if you have an account with one of our companies and want to open an account with another, the two M&T companies may share information, saving you time in opening your new account.
 
@@ -80,7 +80,7 @@ _Back to Top_
 
 **Companies Outside the M&T Family**
 
-If we believe an outside company can help us meet your needs, we may hire it to perform specialized functions for us, such as printing checks or producing ATM and debit cards. We may also engage outside companies to assist us with activities such as data processing and collections, or in otherwise managing our business. Also, we may partner with other financial institutions to offer, endorse or sponsor financial products or services jointly, as we do with the M&T Bank VISA card (for which we partner with MBNA - one of the nation’s largest credit card issuers). Other examples include our relationships with mortgage brokers and insurance agents. And sometimes we select companies to provide you with products and services we don’t offer ourselves - products and services we believe are of value, such as credit insurance. In all the situations referenced here, we share the information we obtain about you (as described previously) only to the extent necessary to allow these companies to perform services for us, or to provide you with products or services.
+If we believe an outside company can help us meet your needs, we may hire it to perform specialized functions for us, such as printing checks or producing ATM and debit cards. We may also engage outside companies to assist us with activities such as data processing and collections, or in otherwise managing our business. Also, we may partner with other financial institutions to offer, endorse or sponsor financial products or services jointly, as we do with the M&T Bank Visa card (for which we partner with MBNA - one of the nation’s largest credit card issuers). Other examples include our relationships with mortgage brokers and insurance agents. And sometimes we select companies to provide you with products and services we don’t offer ourselves - products and services we believe are of value, such as credit insurance. In all the situations referenced here, we share the information we obtain about you (as described previously) only to the extent necessary to allow these companies to perform services for us, or to provide you with products or services.
 
 We are extremely selective when choosing outside companies to become our partners. We realize that it’s our relationship with you that’s on the line - not theirs. So we require them to conform to our own strict confidentiality and privacy standards. An outside company is never allowed to sell your information, or to use it for any purpose other than providing the specific product or service we intended the company to provide.
 
@@ -94,7 +94,7 @@ At M&T, we understand how important it is to protect your personal and financial
 
 Within M&T, we educate our employees about the importance of confidentiality and privacy, and we train them in related policies and procedures. We also take appropriate disciplinary measures whenever necessary to enforce these rules.
 
-Due to the unique nature of Internet transactions, M&T has additional safeguards and procedures in place to protect your personal and financial information on the Internet. For more details, [please click here](https://web.archive.org/web/20040723011516id_/http%3A//mandtbank.com/customerservice/Internet_privacy.cfm).
+Due to the unique nature of Internet transactions, M&T has additional safeguards and procedures in place to protect your personal and financial information on the Internet. For more details, [please click here](https://web.archive.org/web/20051223072221id_/http%3A//www.mandtbank.com/customerservice/Internet_privacy.cfm).
 
 _Back to Top_
 
@@ -156,8 +156,8 @@ If you choose to opt-out, it will apply only to your personal accounts at M&T. I
 
 _Back to Top_
 
-**Notice to Vermont & New Mexico Residents**  
-Residents of the states of Vermont and New Mexico are provided additional rights according to state law. As a result, residents of Vermont do not have to take any further action to limit the sharing of information - such limits are already in place. M&T will not share any of your non-public personal financial information (other than as permitted by law) within the M&T family of companies, or with outside companies, unless you first authorize us to do so.   Residents of the state of New Mexico do not have to take any further action to limit the sharing of information with outside companies - such limits are already in place. M&T will not share any of your non-public personal financial information (other than as permitted by law) with outside companies, unless you first authorize us to do so. 
+**Notice to California, Vermont & New Mexico Residents**  
+Residents of the states of California, Vermont and New Mexico are provided additional rights according to state law. As a result, residents of California and Vermont do not have to take any further action to limit the sharing of information - such limits are already in place. M&T will not share any of your non-public personal financial information (other than as permitted by law) within the M&T family of companies, or with outside companies, unless you first authorize us to do so.   Residents of the state of New Mexico do not have to take any further action to limit the sharing of information with outside companies - such limits are already in place. M&T will not share any of your non-public personal financial information (other than as permitted by law) with outside companies, unless you first authorize us to do so. 
 
 _Back to Top_
 
