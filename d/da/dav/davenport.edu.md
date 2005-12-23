@@ -1,31 +1,47 @@
-> *The following text is extracted and transformed from the davenport.edu privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604193314id_/http%3A//www.davenport.edu/e3front.dll%3Fdurki%3D2986) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davenport.edu privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223222235id_/http%3A//www.davenport.edu/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# DU: Privacy Policy
+# Davenport University > Home
 
-> | 
+Davenport University is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Davenport University Web site and governs data collection and usage. By using the Davenport University website, you consent to the data practices described in this statement.
 
-**Privacy Policy**
+Collection of your Personal Information
 
-This privacy policy covers Davenport University's use and handling of personally identifiable information that we collect when you use this site. This policy cannot and does not cover the practices of companies that we do not own or control, or to people that we do not employ or manage. 
+Davenport University collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Davenport University also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-We may collect personally identifiable information when you visit or use our pages. We may also receive personally identifiable information from our business partners. We also automatically receive and record information on our server logs from your browser including your IP address, cookie information and the page you requested, as well as the page you linked from. We also receive and record any information that you submit via forms on our web site and correlate and analyze that information with commercially available databases when appropriate. We may set and access cookies on your computer. 
+There is also information about your computer hardware and software that is automatically collected by Davenport University. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Davenport University for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Davenport University Web site.
 
-We may use this information for three general purposes: to customize the content you see, to fulfill your requests for certain services and information, and to contact you. 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Davenport University public message boards, this information may be collected and used by others. Note: Davenport University does not read any of your private online communications.
 
-We will not sell or rent your personally identifiable information to anyone. We will send personally identifiable information about you to other companies or people when: 
+Davenport University encourages you to review the privacy statements of Web sites you choose to link to from Davenport University so that you can understand how those Web sites collect, use and share your information. Davenport University is not responsible for the privacy statements or other content on Web sites outside of the Davenport University and Davenport University family of Web sites.
 
-  1. we have your consent to share the information;   
+Use of your Personal Information
 
-  2. we need to share your information to provide the product or service you have requested;   
+Davenport University collects and uses your personal information to operate the Davenport University Web site and deliver the services you have requested. Davenport University also uses your personally identifiable information to inform you of other products or services available from Davenport University and its affiliates. Davenport University may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-  3. we need to send the information to companies who work on behalf of Davenport University to provide a product or service to you (unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us);   
+Davenport University does not sell, rent or lease its customer lists to third parties. Davenport University may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Davenport University may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Davenport University, and they are required to maintain the confidentiality of your information.
 
-  4. we respond to subpoenas, court orders, or legal process; or   
+Davenport University does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-  5. we find that your actions on our web sites violate the above terms of service, or any of our usage guidelines for specific products or services.   
+Davenport University keeps track of the Web sites and pages our customers visit within Davenport University, in order to determine what Davenport University services are the most popular. This data is used to deliver customized content and advertising within Davenport University to customers whose behavior indicates that they are interested in a particular subject area.
 
+Davenport University Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Davenport University or the site; (b) protect and defend the rights or property of Davenport University; and, (c) act under exigent circumstances to protect the personal safety of users of Davenport University, or the public.
 
-  
-|   
----|---|---  
- 
+Use of Cookies
+
+The Davenport University Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Davenport University pages, or register with Davenport University site or services, a cookie helps Davenport University to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Davenport University Web site, the information you previously provided can be retrieved, so you can easily use the Davenport University features that you customized.
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Davenport University services or Web sites you visit.
+
+Security of your Personal Information
+
+Davenport University secures your personal information from unauthorized access, use or disclosure. Davenport University secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+Changes to this Statement
+
+Davenport University will occasionally update this Statement of Privacy to reflect company and customer feedback. Davenport University encourages you to periodically review this Statement to be informed of how Davenport University is protecting your information.
+
+Contact Information
+
+Davenport University welcomes your comments regarding this Statement of Privacy. If you believe that Davenport University has not adhered to this Statement, please contact Davenport University at [admin@localhost](mailto:admin@localhost). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
