@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cash4offers.com privacy policy that was archived on 2005-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050511234407id_/http%3A//www.cash4offers.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash4offers.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223101446id_/http%3A//www.cash4offers.com/ppolicy.php) for the most accurate reproduction.*
 
 # The Cash4Offers.com Privacy Policy
 
 **The Cash4Offers.com Privacy Policy  
-_(Last updated April 25, 2005)_**
+_(Last updated December 20, 2005)_**
 
 The Cash4Offers.com has developed the web technology to enable businesses to interact with consumers in highly personalized ways without forfeiting the privacy of the consumer. Privacy is a critical element of The Cash4Offers.com. Our Privacy Policy is an evolving document and as such will be updated periodically. We welcome feedback about the guidelines outlined in our policy. 
 
@@ -25,13 +25,13 @@ The Cash4Offers.com has developed the web technology to enable businesses to int
 
   9. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, The Cash4Offers.com has used appropriate industry standard procedures to safeguard the confidentiality of your personal information, such as firewall, encryption, token authentication, application proxies, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data. However, no data transmitted over the Internet can be 100% secure.
 
-  10. You must be at least 13 years of age to become a member of The Cash4Offers.com. If you have any questions or concerns about The Cash4Offers.com membership policies, please [contact us](http://www.cash4offers.com/contact.php).
+  10. You must be at least 13 years of age to become a member of The Cash4Offers.com. If you have any questions or concerns about The Cash4Offers.com membership policies, please [contact us](http://www.cash4offers.com/contact.html).
 
   11. We give users the following options for changing and modifying information previously provided: 
 
-    1. You can [log in to the member control panel](http://www.cash4offers.com/members/login/index.php) and click the edit info button. There you will be able to change all information you have previously given.
+    1. You can [log in to the member control panel](http://www.cash4offers.com/login.html) and click the edit info button. There you will be able to change all information you have previously given.
 
-    2. Use our [contact](http://www.cash4offers.com/contact.php) form.
+    2. Use our [contact](http://www.cash4offers.com/contact.html) form.
 
     3. Send mail to the postal address at the bottom of this page.
 
@@ -48,7 +48,7 @@ The Cash4Offers.com has developed the web technology to enable businesses to int
 
 If you have any questions about our policy, you can contact us or send mail to: 
 
-Cash4Offers, LLC  
+Cash4Offers  
 Ateities 1-40  
 Vilnius, LT-08206  
 Lithuania 
