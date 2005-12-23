@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403200500id_/http%3A//www.bentleypublishers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223175043id_/http%3A//www.bentleypublishers.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ The information we learn from customers helps us personalize and continually imp
 
   * Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. Scroll to the bottom of this page to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
   * Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses BentleyPublishers.com. Scroll to the bottom of this page to see examples of the information we receive. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at BentleyPublishers.com if we cannot recognize you, we want you to be aware that these tools exist.
-  * E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from BentleyPublishers.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Profile](https://myebahn.bentleypublishers.com/profile/index.jsp).
+  * E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from BentleyPublishers.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Profile](https://www.bentleypublishers.com/membercenter).
   * Information from Other Sources: For reasons such as improving personalization of our service (for example, providing better product recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to our account information. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
 
 
@@ -39,7 +39,7 @@ The information we learn from customers helps us personalize and continually imp
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only with the subsidiaries BentleyPublishers.com controls and as described below.
 
   * Agents: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * Promotional Offers: Sometimes we send offers to selected groups of BentleyPublishers.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Customer Communication Profile](https://myebahn.bentleypublishers.com/profile/index.jsp).
+  * Promotional Offers: Sometimes we send offers to selected groups of BentleyPublishers.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Customer Communication Profile](https://www.bentleypublishers.com/membercenter).
   * Business Transfers: As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that BentleyPublishers.com or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
   * Protection of BentleyPublishers.com and Others: We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply other agreements; or protect the rights, property, or safety of BentleyPublishers.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
   * With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
@@ -58,7 +58,7 @@ Information about our customers is an important part of our business, and we are
 
 BentleyPublishers.com gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves.
 
-  * [Your Account](https://myebahn.bentleypublishers.com/profile)
+  * [Member Center](https://www.bentleypublishers.com/membercenter)
 
 
 
@@ -66,7 +66,7 @@ BentleyPublishers.com gives you access to the following information about you fo
 
   * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of BentleyPublishers.com features.
   * You can add or update certain information on pages such as those listed in the "What Information Can I Access?" section above.
-  * If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Profile](https://myebahn.bentleypublishers.com/profile/index.jsp). (If you do not want to receive legal notices from us, such as this Privacy Notice, those notices will still govern your use of BentleyPublishers.com, and it is your responsibility to review them for changes.)
+  * If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Profile](https://www.bentleypublishers.com/membercenter). (If you do not want to receive legal notices from us, such as this Privacy Notice, those notices will still govern your use of BentleyPublishers.com, and it is your responsibility to review them for changes.)
   * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
   * The Federal Trade Commission provides useful information about online privacy on its own Web site, [Site Seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm).
 
