@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anblik.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403170627id_/http%3A//www.anblik.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anblik.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223091908id_/http%3A//www.anblik.com/privacy.php) for the most accurate reproduction.*
 
-# Web Design Company - Best website design & web page design layout by web design company
+# web design company - accessibility | usability | best usable & accessible website design
 
 [](https://web.archive.org/privacy.php "Anblik Privacy Policy")
 
