@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405215526id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223082625id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Jiskha Homework Help - Legal: Privacy Policy
 
@@ -17,17 +17,15 @@
 [**Social Studies**](http://www.jiskha.com/social_studies/)
 
 **Features**   
-[Advice from Anika](http://www.jiskha.com/anika/)   
 [Contribute](http://www.jiskha.com/features/contribute/)   
 [Experts](http://www.jiskha.com/features/experts/)   
-[Forum](http://www.jiskha.com/features/forum/)   
+[**Forum**](http://www.jiskha.com/features/forum/)   
 [Job Openings](http://www.jiskha.com/features/job_openings/)   
 [Homework Tips](http://www.jiskha.com/features/homework_tips/)   
 [Libraries.Jiskha](http://www.jiskha.com/libraries/)   
 [Link to Us](http://www.jiskha.com/features/link_to_us/)   
-[**Premium  
-Membership**](http://www.jiskha.com/members/)   
 [Reference](http://www.jiskha.com/features/reference/)   
+[School Supplies](http://www.jiskha.com/school_supplies/)   
 [Search](http://www.jiskha.com/search/)   
 [WebRing](http://www.jiskha.com/features/webring/)
 
@@ -58,7 +56,7 @@ If you supply us with contact information (e-mail address, postal address, telep
 
 **Advertisements**
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of [24/7 RealMedia](https://web.archive.org/cgi-bin/frames.cgi?url=http://www.247realmedia.com), [FastClick](https://web.archive.org/cgi-bin/frames.cgi?url=http://www.fastclick.com), and [ValueClick](https://web.archive.org/cgi-bin/frames.cgi?url=http://www.valueclick.com). 
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. Changes will also be posted to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically. We will use for these new purposes only data collected from the time of the policy change forward. 
 
@@ -76,8 +74,6 @@ We always use industry-standard encryption technologies when transferring and re
 
 Thank you for taking the time to read this privacy policy. Jiskha Homework Help intends to abide by this policy at all times. 
 
-If you feel that this site is not following its stated information policy, please [contact us](https://web.archive.org/contact/). In extreme cases you may also contact the DMA's Committee on Ethical Business Practices ([mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org)), state or local chapters of the Better Business Bureau, the state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357), or visit the FTC electronically at [http://www.ftc.gov/ftc/complaint.htm](https://web.archive.org/cgi-bin/frames.cgi?url=http://www.ftc.gov/ftc/complaint.htm). 
-
-[Homework Help](https://web.archive.org/)
+[hip hop vinyl](http://www.irismika.com/english/)
 
 **[Submit your own essays and reports to Jiskha.com!](https://web.archive.org/features/contribute/)**
