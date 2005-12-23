@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306232113id_/http%3A//www.poise.com/general/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223174929id_/http%3A//www.poise.com/general/privacy.asp) for the most accurate reproduction.*
 
-# POISE Privacy Policy
+# POISE - Privacy Policy
 
-This web site is owned and operated by Kimberly-Clark Corporation. Here at Kimberly-Clark, we recognize that many visitors to our site are concerned about the information they provide and how we treat that information. Our Privacy Policy addresses those concerns. We may update the Policy from time to time, so please check in occasionally. Regulations enacted in April 2000 under the U.S. Children's Online Privacy Protection Act give children under 13 years of age greater privacy protection online. Please see our policy under "Children" below. 
+This web site is owned and operated by Kimberly-Clark Corporation. Here at Kimberly-Clark, we recognize that many visitors to our site are concerned about the information they provide and how we treat that information. Our Privacy Policy addresses those concerns. We may update the Policy from time to time, so please check in occasionally. Regulations enacted in April 2000 under the U.S. Children's Online Privacy Protection Act give children under 13 years of age greater privacy protection online. Please see our policy under "Children" below.
 
 Our Policy
 
@@ -14,16 +14,18 @@ Our site sometimes includes notices of sweepstakes or other promotions we are co
 
 Children
 
-Children's privacy is of primary concern to us, and our Policy and practices reflect applicable laws and regulations on children's privacy. We do not knowingly collect personal information from children under 13 years of age. Any communication we get that is identified as being from a child under 13 will not be kept by Kimberly-Clark. 
+Children's privacy is of primary concern to us, and our Policy and practices reflect applicable laws and regulations on children's privacy. We do not knowingly collect personal information from children under 13 years of age. Any communication we get that is identified as being from a child under 13 will not be kept by Kimberly-Clark.
 
 Cookies
 
-Like many companies, we sometimes use "cookie" technology on our web site. These cookies are stored on your computer by your browser. When you log in, this type of cookie tells us whether you've visited us before or are a new visitor. The cookie doesn't obtain any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer. We do use the cookie to help us identify site features in which you have the greatest interest, so that we can provide more of what you may want. 
+Like many companies, we sometimes use "cookie" technology on our web site. These cookies are stored on your computer by your browser. When you log in, this type of cookie tells us whether you've visited us before or are a new visitor. The cookie doesn't obtain any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer. We do use the cookie to help us identify site features in which you have the greatest interest, so that we can provide more of what you may want.
 
-We use the services of NetIQ/WebTrends to track the paths our customers take through our site. In doing so, we are better able to see where our customers go within our site and ensure our site is easy to navigate. If you have any questions concerning NetIQ/WebTrends, then you should refer to the [NetIQ/WebTrends Reporting Service Privacy Policy](https://reports.webtrends.com/privacypolicy.asp) to learn how they collect and use information, particularly the section of the Policy on Privacy Statement for Visitors to Sites Tracked by WebTrends on Demand. 
+We use the services of NetIQ/WebTrends to track the paths our customers take through our site. In doing so, we are better able to see where our customers go within our site and ensure our site is easy to navigate. If you have any questions concerning NetIQ/WebTrends, then you should refer to the [NetIQ/WebTrends Reporting Service Privacy Policy](http://ondemand.webtrends.com/privacypolicy.asp) to learn how they collect and use information, particularly the section of the Policy on Privacy Statement for Visitors to Sites Tracked by WebTrends on Demand.
 
 If you have any questions about our Privacy Policy, you can contact us via   
-[e-mail](http://www.kimberly-clark.com/ask/poise/index.asp?site=www.poise.com) or phone us at 1-800-665-9773. For postal mail, please write to us at:   
-Kimberly-Clark Corporation       
-P.O. Box 2020       
-Neenah, WI 54957-2020 
+[e-mail](http://www.kimberly-clark.com/ask/poise/index.asp?site=www.poise.com) or phone us at 1-800-665-9773. For postal mail, please write to us at:
+
+Kimberly-Clark Corporation  
+P.O. Box 2020  
+Neenah, WI 54957-2020  
+
