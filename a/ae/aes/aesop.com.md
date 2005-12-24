@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aesop.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526201640id_/http%3A//www.aesop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aesop.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224163508id_/http%3A//www.aesop.com/privacy.html) for the most accurate reproduction.*
 
 # Aesop.com - Privacy Policy
 
@@ -21,7 +21,7 @@
 > 
 > For Standard Site submissions, the only information collected is Name, Email Address, URL and IP address. Additional information is collected for Enhanced Site listings in lieu of a site submission fee.
 > 
-> Your use of ExactSeek/Aesop's services constitutes a business relationship wherein we provide a promotion service for your web site(s). In exchange, ExactSeek/Aesop reserves the right to use the contact information collected during site submission to deliver notices regarding changes or updates to our service, to provide free newsletters (SiteProNews, AllBusinessNews, SEO-News), to inform you of additions to the Jayde Online Network of web sites, or to send announcements and carefully screened offers and information on behalf of our partners or advertisers. 
+> Your use of ExactSeek/Aesop's services constitutes a business relationship wherein we provide a promotion service for your web site(s). In exchange, ExactSeek/Aesop reserves the right to use the contact information collected during site submission to deliver notices regarding changes or updates to our service, to provide free newsletters (SiteProNews, SEO-News and The MarkJoyner.name Announcement List), to inform you of additions to the Jayde Online Network of web sites, or to send announcements and carefully screened offers and information on behalf of our partners or advertisers. 
 > 
 > You may remove yourself from any or all of our notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes a valid email address and unsubscribe link which you can use to remove yourself from future mailings. Should you encounter problems in this regard, contact [**support@exactseek.com**](mailto:support@exactseek.com). Our turnaround time for responding to unsubscribe requests is generally 24 hours.
 
