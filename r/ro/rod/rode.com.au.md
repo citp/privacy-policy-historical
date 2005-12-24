@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rode.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615063929id_/http%3A//www.rode.com.au/priv_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rode.com.au privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224114807id_/http%3A//www.rode.com.au/%3Fpagename%3DPrivacy_Policy%26PHPSESSID%3D9ccc237eeeb03f76c3e702ff0852a34f) for the most accurate reproduction.*
 
-# RODE Microphones
+# RØDE Microphones > Privacy_Policy
 
 At RØDE we take **your** privacy very seriously. RØDE’s commitment to our web users privacy and the full disclosure of our information gathering, dissemination and storage practices is evidence of that commitment. The data we collect is not sold, traded or made accessible in any way to any other company.
 
