@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestate.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630023849id_/http%3A//www.realestate.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224030911id_/http%3A//realestate.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # RealEstate.com -- Customer Service Center
 
@@ -44,8 +44,6 @@ E-Mail: [customercare@lendingtree.com](mailto:customercare@lendingtree.com)
 
 LendingTree, LLC is a Delaware limited liability company (formerly known as LendingTree, Inc.) with its corporate headquarters in Charlotte, North Carolina. For purposes of this privacy statement, "LendingTree" means LendingTree, LLC.
 
-If you have questions or concerns regarding this statement, you should first contact the LendingTree site coordinator at our [Customer Care Department](http://www.lendingtree.com/stmrc/glossary/asp/emailus.asp?bp=). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
 **Your Privacy is Important to Us.** At LendingTree, your privacy is our chief concern. We understand that you entrust us with your private financial information to help us match you with a bank, lender or loan broker (we refer to all of these as "Lenders") or real estate professional who can meet your needs. In exchange for your trust, you expect and deserve our commitment to treat your information with respect. Rest assured that we protect your privacy. Under no circumstances will LendingTree sell or share any personal information about you to or with any person or organization except: as authorized by you, to participating lenders, real estate professionals or other parties involved in your transaction, or as may be required by law or court order. The Privacy Policy below describes the standards we adhere to in handling information about you and your loan request.
 
 **We want you to be aware of:**
@@ -57,7 +55,7 @@ If you have questions or concerns regarding this statement, you should first con
   * How our Privacy Policy is monitored 
 
 
-  1. **Who We Are.** LendingTree is the leading online lending marketplace that connects consumers to Lenders that compete for their business across a variety of loan types. There are more than 140 participating banks and Lenders on the LendingTree Exchange. LendingTree also maintains a nationwide network of more than 7,000 real estate professionals that the Company matches with consumers in the process of buying or selling a home. [More details…](https://web.archive.org/web/20050630023849id_/http%3A//www.realestate.com/legal/security.asp)
+  1. **Who We Are.** LendingTree is the leading online lending marketplace that connects consumers to Lenders that compete for their business across a variety of loan types. There are more than 140 participating banks and Lenders on the LendingTree Exchange. LendingTree also maintains a nationwide network of more than 7,000 real estate professionals that the Company matches with consumers in the process of buying or selling a home. [More details…](https://web.archive.org/web/20051224030911id_/http%3A//realestate.com/legal/security.asp)
   2. **Information We Collect.** There are several areas on a LendingTree site where you may be asked to enter both personal and non-personal information. We DO NOT sell or share any personal information about you to or with any person or organization except: as authorized by you, to participating Lenders, real estate professionals or other parties involved in your transaction, or as may be required by law or court order.
     * **Information we receive from you on loan or realty requests.** When you come to a LendingTree site to complete a qualification form you'll need to provide personal and financial information such as your name, phone number, Social Security Number, e-mail address, income and other financial information depending upon your expressed loan or real estate referral preference. More details… Supplementary information for your loan or realty request. When you complete a loan or realty request at a LendingTree site, it may be necessary for us to supplement the information you provide with information from third party sources. More details… 
     * **Information we collect when you use the LendingTree Home Price Check ®.** LendingTree and our authorized partners may collect information from you through our Home Price Check ® Plus service. Participation in this service is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details… Technical information we collect. In order for us to ensure that we are providing the best possible consumer experience on a LendingTree Web site, we collect and track certain user information. More details… Information from surveys. You may complete a survey from LendingTree online. Participation in surveys is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details… 
@@ -107,6 +105,8 @@ BeFree: <http://www.befree.com/privacy.htm>
 
 Yahoo: <http://privacy.yahoo.com/privacy/us/>
 
+24-7 Real Media: <http://www.247media.com/privacy.html>
+
     * **Information from surveys.** Every survey presented to you will include specific instructions regarding how your information may be shared. By clicking the "Submit" button at the end of the survey, you authorize LendingTree to share your data in the manner outlined on the survey. 
     * **Information from the "Customer Service" section of a LendingTree Web site.** In the "Customer Service" form, we may ask you for personally identifiable information such as your name, mailing address, email address, etc. This information will not be sold to any person or organization. However, your information may be shared with other parties relevant to your transaction to help resolve any issues you report to us. 
     * **Information we collect when you use LendingTree Privileges.** When you use our Privileges program, we may ask you for personally identifiable information such as your name, mailing address, email address, etc. The LendingTree Privileges is produced with partners who will only use the information to provide the Privileges services and benefits. This information will not be sold or shared with any person or organization for marketing purposes. 
@@ -140,5 +140,3 @@ If you have questions or concerns regarding this statement, you should first con
 © 2020 LendingTree, LLC All Rights Reserved. 
 
 This site is directed at, and made available to, persons in the continental U.S., Alaska and Hawaii only. 
-
-**RealEstate.com. Where real estate is moving.** SM
