@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclaimer.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308111025id_/http%3A//www.exclaimer.com/US/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclaimer.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224162442id_/http%3A//www.exclaimer.com/US/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Exchange Disclaimer - add disclaimer to Exchange 2000 / 2003
 
