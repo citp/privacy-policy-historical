@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305161830id_/http%3A//www.cartalk.com/menus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224053743id_/http%3A//www.cartalk.com/menus/privacy.html) for the most accurate reproduction.*
 
 # Car Talk: Privacy Policy
 
@@ -77,6 +77,8 @@ cartalk.com reserves the right to change this Privacy Policy at any time. Any su
 
 
 Cartalk.com is a production of Dewey, Cheetham and Howe. Contents © 2005, Dewey, Cheetham and Howe. 
+
+CAR TALK, DEWEY, CHEETHAM & HOWE, SHAMELESS COMMERCE, and WARPED DISCS and are registered trademarks of Tom and Ray Magliozzi and/or Tappet Brothers Associates d/b/a Dewey, Cheetham & Howe.
 
   
 
