@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedway.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305023830id_/http%3A//www.speedway.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedway.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224145718id_/http%3A//www.speedway.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Speedway SuperAmerica: Privacy Statement
 
@@ -6,8 +6,8 @@
 ---|---  
 |  | [   About Us](https://web.archive.org/AboutUs/AboutUs.asp) |   
 ---|---|---  
-| [   Store Locator](https://web.archive.org/StoreLocator/StoreLocator.asp) |   
-| [   Special Offers](https://web.archive.org/Promotions/Promotions.asp) |   
+| [   Speedy Rewards®](https://web.archive.org/speedyrewards/) |   
+| [   Store Locator](https://web.archive.org/StoreLocator/) |   
 | [   PrePaid / Credit](https://web.archive.org/CreditCards/CreditCards.asp) |   
 | [   Career Options](https://web.archive.org/CareerOptions/CareerOptions.asp) |   
 | [   Online Store](http://store.yahoo.com/speedwaystore/index.html) |   
@@ -18,7 +18,7 @@
   **Search our site:**  
     
  [Search Gas Prices](https://web.archive.org/GasPriceSearch.asp)  
-  | [](https://www.chasecreditcard.com/start.asp?target=speedway&creative=PI1SWT01&splash=1) |    
+  |  |    
 |  |    
 ---  
   |  | _PRIVACY STATEMENT_  
