@@ -1,54 +1,28 @@
-> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602180558id_/http%3A//www.cyberciti.biz/corp/cyber.php%3Fpfrm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224040849id_/http%3A//cyberciti.biz/privacy.php) for the most accurate reproduction.*
 
-# Cyberciti Computer
+# Cyberciti.biz : Privacy Policy
 
-**  
-PRIVACY POLICY  
-**  
-CYBERCITI COMPUTERS knows that you care how information about you is used and shared, and we appreciate your expectation that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting our Web site or by otherwise interacting with CYBERCITI COMPUTERS, you agree to accept the practices described in this Privacy Notice. The Privacy Policy applies only to CYBERCITI COMPUTERS and those websites that carry the CYBERCITI COMPUTERS brand. It does not apply to any organisation's websites that we provided links to.
+We are committed to your privacy.
 
-**What Information Does CYBERCITI COMPUTERS Collect?**  
-Here are the types of information we gather from visitors to CYBERCITI COMPUTERS: 
+This site hosts the project, documents, and tutorials related to open source software's, Linux, FreeBSD and UNIX (Solaris) etc., largely compiled and maintained by Vivek G Gite or by project contributors. We do not ask for any registration except registration is compulsory only if:  
+1) You wish to post your message on our forum   
+2) You wish to edit the wiki documents  
+3) You wish to post comments on our blogs 
 
-**(1) Information You Give Us:(Applicable for Domain Registration/Web Services)** We receive and store any information you enter on our Web site or give us in any other way, such as by telephone or by electronic mail. For example, we are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization which assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. We also collect certain financial information from you during the domain name registration process.
+Forum software and other registration softwares create your profile and collect your personal information such as email address, your name, instant massager ids etc. We do not share this information with any other entity. In addition, a confirmation from the email address is required, to prevent anyone from subscribing to forum or wiki someone else without permission. Subscription to our wiki or forum will not start until confirmation is received. Requests to be removed from the wiki and forum will result in deletion of the email address and other profile information. 
 
-**(2) Automatic Information:** CYBERCITI COMPUTERS does use "cookies" in some cases. We also receive and store certain types of information whenever you interact with us. For example, our servers track the type of Web browser you are using, and the page to which you link from CYBERCITI COMPUTERS. 
+We do accept advertising on our site. These advertising or advertiser put cookies on your computer and by clicking on external links on this website, you will be visiting independent sites which have separate privacy policies. 
 
-**(3) Does CYBERCITI COMPUTERS Share the Information It Receives ?**  
-ICANN (Applicable to Web Services) requires CYBERCITI COMPUTERS to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the nameserver information associated with your domain name, to the public via an interactive Web page and a "port 43" WHOIS service. For the purposes of this Privacy Notice we will refer to this information as your "WHOIS Information." Please note that we may not be able to control how members of the public may use the WHOIS Information. 
+This site is hosted with yahoo web hosting which also put the cookies and collect your information such as your browser, operating system, search engine queries to find our site etc. This information is also logged into Apache web server log files. We do not share this information with any other entity.
 
-If you have opted-into having your WHOIS Information available for bulk access, ICANN also requires CYBERCITI COMPUTERS to make that information available to third parties who enter into a bulk WHOIS data access agreement with CYBERCITI COMPUTERS. In making your selection to opt-into having your WHOIS Information available for bulk access, please refer to Bulk WHOIS data policy information. 
+Visitors are invited to email us with questions or comments. Information sent will not be shared with any other entity. Email addresses are required to allow us to reply, but we do not collect email addresses from these submissions.
 
-Please note that if you have not opted-into having your WHOIS Information available for bulk access for marketing or other purposes, your WHOIS Information will still be made available to the public through the "port 43" WHOIS service described above. 
+Visitors are invited to join our mailing list. No information, except an e-mail address is required for this. In addition, a confirmation from the email address is required, to prevent anyone from subscribing someone else without permission. Subscription to our mailing list will not start until confirmation is received. Requests to be removed from the mailing list will result in deletion of the email address.
 
-Except as set out in this Privacy Notice, you will receive notice when personal information about you might go to third parties, and you will have an opportunity to choose not to have us share that information. We share personal information as described below: 
+All the information provided or collected by us will only be used within cyberciti.biz and will not be sold, rented, loaned or traded with a third party, except where required by law. 
 
-**Agents/Franchises:** We engage other companies and individuals to perform functions on our behalf. Examples include providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions.   
-**Service Providers:** We engage other companies and individuals to perform enhanced services on our behalf. Many of our service providers have access to personal information needed to perform their services.   
-**Business Transfers:** As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if CYBERCITI COMPUTERS or all or substantially all of its assets were ever to be acquired, customer information will of course be one of the transferred assets. Protection of CYBERCITI COMPUTERS and Others: We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Services Agreement and other agreements; or protect the rights, property, or safety of CYBERCITI COMPUTERS, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+If offensive content is posted or sent anywhere on or to cyberciti.biz or a visitor engages in any disruptive behavior on cyberciti.biz, we can use whatever information is available to stop such behavior. This may involve informing relevant third parties such as employers, web hosting service provider, e-mail/Internet providers and law enforcement agencies about the content and behavior. 
 
-**(4) Electronic Mail**  
-From time to time, CYBERCITI COMPUTERS may use your personal information to contact you by electronic mail concerning your use of our services. These communications are intended to inform you of important information regarding your account, or about general services provided by CYBERCITI COMPUTERS. If you do not want to receive email from us regarding service updates, please click the "unsubscribe link" at the bottom of any email you receive from CYBERCITI COMPUTERS. We will, however, continue to send you email regarding your account administration and necessary information, such as renewal information. 
+Questions regarding Cyberciti.biz policy, should be directed to webmaster-at-cyberciti.biz. Please note that this privacy policy is subject to change without any prior notice to visitors. 
 
-**(5) How Secure Is Information About Me?**   
-You can further help to ensure your security by taking a few simple precautions. For instance, it is important for you to protect against unauthorized access to your CYBERCITI COMPUTERS username and password and to your computer. Be sure to sign off when finished using a shared computer. 
-
-**(6) What Information Can I Access?**  
-CYBERCITI COMPUTERS gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. 
-
-**(7) Sites Other Than CYBERCITI COMPUTERS**  
-Although CYBERCITI COMPUTERS is committed to protecting your privacy, not all other Web sites are as conscientious. Therefore, CYBERCITI COMPUTERS cannot be responsible for the content or privacy policies of other Web sites including those of advertisers to which it may link and those which link to CYBERCITI COMPUTERS. This Privacy Notice applies only to the information collected by this Web site. We ask that you review the privacy policies of every online service you use before submitting personal information. 
-
-**(8) Children**   
-CYBERCITI COMPUTERS does not sell services for purchase by children. If you are under 18, you may use CYBERCITI COMPUTERS only with involvement of a parent or guardian. 
-
-**(9) Conditions of Use, Notices, and Revisions**  
-If you choose to visit CYBERCITI COMPUTERS, your visit and any dispute over privacy is subject to this Notice and our Services Agreement, including limitations on damages, and exclusive jurisdiction of Courts in Pune, INDIA. If you have any concern about privacy at CYBERCITI COMPUTERS, please contact Customer Support and we will try to resolve it. Our business changes constantly. This Notice and the Services Agreement will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. You should check our Web site frequently to see recent changes. 
-
-We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please contact our Customer Support. 
-
-**(10)nixCraft Mailing List:**  
-Information (usually your email ID) submitted for nixCraft Mailing List only use to send you Linux Security news, tips & our own products / services news, discounts and announcements. CYBERCITI COMPUTERS & nixCraft however reserved the rights to use this information for third party advertisement.
-
-**(11)e-Newsletter:**  
-Information (usually your email ID) submitted for e-Newsletter only use to send you our own products / services news, discounts and announcements. CYBERCITI COMPUTERS however reserved the rights to use this information for third party advertisement. 
+* * *
