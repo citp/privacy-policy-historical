@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantomaster.com privacy policy that was archived on 2005-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050605004807id_/http%3A//fantomaster.com/index2.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantomaster.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224015341id_/http%3A//fantomaster.com/index2.html%23privacy) for the most accurate reproduction.*
 
-# About fantomaster.com: who we are - our privacy policy - 2005-06-04
+# About fantomaster.com: who we are - our privacy policy - 2005-12-23
 
 ## Our Mission
 
@@ -132,7 +132,7 @@ Our time zone: 4:00 PM 5:00 AM
 
 Office Hours: From» To»
 
-Currently, our time is: 11:14 PM  while your time is: 10:14 PM 
+Currently, our time is: 1:32 AM  while your time is: 0:32 AM 
 
 And in case you're wondering: yes, we have adjusted our working hours to better accommodate our US and Canadian clients.
 
