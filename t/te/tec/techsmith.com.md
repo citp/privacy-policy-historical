@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405165426id_/http%3A//www.techsmith.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224204010id_/http%3A//www.techsmith.com/privacy.asp) for the most accurate reproduction.*
 
 # TechSmith Corporation - Privacy Policy
 
@@ -9,9 +9,9 @@ TechSmith Corporation
 Okemos, MI 48864-5910 USA  
 
 
-Tollfree: +1 800 517-3001 (USA Only)   
-Voice: +1 517 381-2300   
-Fax: +1 517 913-6121
+Tollfree: 800.517.3001 (U.S. Only)   
+Voice: +1.517.381.2300   
+Fax: +1.517.913.6121
 
 * * *
 
