@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nursezone.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403195646id_/http%3A//www.nursezone.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nursezone.com privacy policy that was archived on 2005-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051224150016id_/http%3A//www.nursezone.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <!--<link rel="stylesheet" href="css/style.css" type="text/css">-->
@@ -8,81 +8,295 @@
 
 <body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#000066" vlink="#000066">
 <!-- Start SDC Include -->
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright 2002 NetIQ Corporation -->
-<!-- V2.1 -->
 
-<script language="Javascript">
-<!--
+<!-- START OF SDC Advanced Tracking Code -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime: 2005/06/02 09:59:59 $ -->
+<script language="Javascript"><!--
+var gService = false;
+var gTimeZone = -8;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsFPC(offset){
+	if (!offset){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	if (document.cookie.indexOf(name+"=")!=-1){
+		var id=dcsGetCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
+		}
+		WT.co_f=id;
+		WT.vt_f="0";
+		var dLst=new Date(lv);
+		dSes.setTime(ss);
+		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
+		}
+		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	else{
+		var tmpname=name+"_TMP=";
+		document.cookie=tmpname+"1";
+		if (document.cookie.indexOf(tmpname)!=-1){
+			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+				WT.co_f=gWtId;
+				WT.vt_f="0";
+			}
+			else{
+				WT.co_f="2";
+				var cur=dCur.getTime().toString();
+				for (var i=2;i<=(32-cur.length);i++){
+					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+				}
+				WT.co_f+=cur;
+				WT.vt_f="1";
+			}
+			WT.vt_f_s="1";
+			WT.vt_f_d="1";
+		}
+		else{
+			WT.vt_f="2";
+			return;
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+dSes.getTime();
+	var expiry="; expires="+dExp.toGMTString();
+	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+}
+
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc="WT_FPC";
+var gWtId="";
+if (gService){
+	var gConvert=true;
+}
+
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+}
+
+//-->
+</script>
+<!-- END OF SDC Advanced Tracking Code -->
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime$ -->
+<script language="Javascript"><!--
 gVersion="1.0";
 //-->
 </script>
-<script language="Javascript1.1">
-<!--
+<script language="Javascript1.1"><!--
 gVersion="1.1";
 //-->
 </script>
-<script language="Javascript1.2">
-<!--
+<script language="Javascript1.2"><!--
 gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
 //-->
 </script>
-
-<script language="JavaScript">
-<!--
-var dcs_imgarray = new Array;
-var dcs_ptr = 0;
-var dCurrent = new Date();
-var DCS = new Object();
-var WT = new Object();
-var DCSext = new Object();
-
-// todo: ip of dcs, done
-var dcsADDR="dcs.amnadmin.com";
-var dcsId="";
-
-if (dcsId==""){
-	var TagPath=dcsADDR;
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+if (window.ActiveXObject){
+	var gFV="";
+	for (var gVer=2;gVer<=10;gVer++){
+		try{
+			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
+			if (gFlash){
+				gFV=gVer+".0";
+				break;
+			}
+		}
+		catch(e){
+		}
+	}
 }
-else{
-	var TagPath=dcsADDR+"/"+dcsId;
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
+<script language="JavaScript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+
+var gDomain="dcs.amnadmin.com";
+var gDcsId="dcsxwudr810000k3ktd20qitj_7b5z";
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
+	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
 }
-
-function dcs_var(){
-	WT.tz=dCurrent.getTimezoneOffset();
-	WT.ul = navigator.appName=="Netscape" ? navigator.language : navigator.userLanguage;
-	WT.cd = screen.colorDepth;
-	WT.sr = screen.width+"x"+screen.height;
-	WT.jo = navigator.javaEnabled() ? "Yes" : "No";
-	WT.ti=document.title;
-	DCS.dcsdat=dCurrent.getTime();
-
+//-->
+</script>
+<script language="Javascript"><!--
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
 	WT.js="Yes";
 	if (typeof(gVersion)!="undefined"){
 		WT.jv=gVersion;
 	}
-
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		if (document.body.connectionType){
+			WT.ct=document.body.connectionType;
+		}
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
+			WT.fi="Yes";
+			WT.fv=gFV;
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				WT.fv=navigator.plugins[i].description.split(" ")[2];
+				break;
+			}
+		}
+	}
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
 	DCS.dcsuri=window.location.pathname;
-	DCS.dcsqry=window.location.search;
-
-	if((window.document.referrer!="")&&(window.document.referrer!="-")){
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var front=DCS.dcsqry.substring(0,pos);
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
 		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
 			DCS.dcsref=window.document.referrer;
 		}
 	}
-	DCS.dcssip=window.location.hostname;
-
 }
 
 function A(N,V){
-	return "&"+N+"="+escape(V);
+	return "&"+N+"="+dcsEscape(V);
 }
 
-function dcs_createImage(dcs_src){
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsLoadHref(evt){
+	if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+		window.location=gHref;
+		gHref="";
+	}
+}
+
+function dcsCreateImage(dcsSrc){
 	if (document.images){
-		dcs_imgarray[dcs_ptr]=new Image;
-		dcs_imgarray[dcs_ptr].src=dcs_src;
-		dcs_ptr++;
+		gImages[gIndex]=new Image;
+		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+		}
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
 	}
 	else{
 		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
@@ -90,37 +304,33 @@ function dcs_createImage(dcs_src){
 }
 
 function dcsMeta(){
-	var MRV="";
-	var F=false;
-	var myDocumentElements;
+	var elems;
 	if (document.all){
-		F = true;
-		myDocumentElements=document.all.tags("meta");
+		elems=document.all.tags("meta");
 	}
-	if (!F && document.documentElement){
-		F = true;
-		myDocumentElements=document.getElementsByTagName("meta");
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
 	}
-	if (F){
-		for (var i=1;i<=myDocumentElements.length;i++){
-			myMeta=myDocumentElements.item(i-1);
-			if (myMeta.name){
-				if (myMeta.name.indexOf('WT.')==0){
-					WT[myMeta.name.substring(3)]=myMeta.content;
+	if (typeof(elems)!="undefined"){
+		for (var i=1;i<=elems.length;i++){
+			var meta=elems.item(i-1);
+			if (meta.name){
+				if (meta.name.indexOf('WT.')==0){
+					WT[meta.name.substring(3)]=meta.content;
 				}
-				else if (myMeta.name.indexOf('DCSext.')==0){
-					DCSext[myMeta.name.substring(7)]=myMeta.content;
+				else if (meta.name.indexOf('DCSext.')==0){
+					DCSext[meta.name.substring(7)]=meta.content;
 				}
-				else if (myMeta.name.indexOf('DCS.')==0){
-					DCS[myMeta.name.substring(4)]=myMeta.content;
+				else if (meta.name.indexOf('DCS.')==0){
+					DCS[meta.name.substring(4)]=meta.content;
 				}
 			}
 		}
 	}
 }
 
-function dcs_TAG(TagImage){
-	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+TagImage+"/dcs.gif?";
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
 	for (N in DCS){
 		if (DCS[N]) {
 			P+=A(N,DCS[N]);
@@ -136,29 +346,29 @@ function dcs_TAG(TagImage){
 			P+=A(N,DCSext[N]);
 		}
 	}
-
-	//For P3P header use only
-	//Create a compact policy on the SDC machine, get the 25 digit hex number and
-	//replace the "yourp3pheader" with it.
-	P+="&dcsp3p=0000000080800000000000200";
-	
-	//P+=A("CustomerID","test data");
-
-	dcs_createImage(P);
-	// todo: comment out after testing
-	//alert(P);
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
 }
 
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
+
+dcsVar();
 dcsMeta();
-dcs_var();
-dcs_TAG(TagPath);
+dcsFunc("dcsAdv");
+dcsTag();
 //-->
 </script>
 
 <noscript>
-
-<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://dcs.amnadmin.com/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&dcsp3p=0000000080800000000000200">
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://dcs.amnadmin.com/dcsxwudr810000k3ktd20qitj_7b5z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
 </noscript>
+<!-- END OF SmartSource Data Collector  TAG -->	
 
 <!-- End SDC Include -->
 
@@ -180,7 +390,7 @@ dcs_TAG(TagPath);
 	<tr>
 	<td align="left" valign="top"><!-- tagline row --><img src="/images/section_hdr/Forwork-Forlife.gif" alt="For Work. For Life." width="269" height="19" border="0"></td>
 	<td align="right" valign="top"><img src="/images/shared/clear.gif" width="1" height="4" border="0"><br>
-	<div valign="top" align="right"><span class="date">Sunday&nbsp;&nbsp;•&nbsp;&nbsp;April&nbsp;3&nbsp;&nbsp;•&nbsp;&nbsp;2005</span><img src="/images/shared/clear.gif" width="15" height="1" border="0"></div></td>
+	<div valign="top" align="right"><span class="date">Saturday&nbsp;&nbsp;•&nbsp;&nbsp;December&nbsp;24&nbsp;&nbsp;•&nbsp;&nbsp;2005</span><img src="/images/shared/clear.gif" width="15" height="1" border="0"></div></td>
 	</tr>
 	<tr bgcolor="#9999ff">
 	<td align="left" valign="top"><img src="/images/shared/clear.gif" width="1" height="3" border="0"></td>
