@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the tiscali.co.uk privacy policy that was archived on 2005-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050326093810id_/http%3A//www.tiscali.co.uk/aboutus/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiscali.co.uk privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224162551id_/http%3A//www.tiscali.co.uk/aboutus/policy.html) for the most accurate reproduction.*
 
 # Tiscali - Privacy Policy
+
+From: www.tiscali.co.uk/aboutus/
+
+  
+
+
+* * *
 
 **TISCALI PRIVACY POLICY**
 
@@ -44,7 +51,9 @@ You can update or amend your contact details at any time from within the Tiscali
 
 We may need to amend the Privacy Policy from time to time. Any such amendment will take effect as soon as it is posted on the Tiscali Portal. You are therefore encouraged to familiarise yourself with the Privacy Policy on a regular basis. The Privacy Policy will always be easily accessible online throughout Tiscali Portal. 
 
-For Instructions to uninstall the Tiscali dialler - please [click here](https://web.archive.org/members/myaccount/internet/tk_uninstall.html)  | [Acceptable Use Policy](https://web.archive.org/aboutus/aup.html)  
+For Instructions to uninstall the Tiscali dialler - please [click here](https://web.archive.org/members/myaccount/internet/tk_uninstall.html)
+
+ | [Acceptable Use Policy](https://web.archive.org/aboutus/aup.html)  
 ---|---  
  | [Contact Us](https://web.archive.org/aboutus/contact/)  
  | [Feedback](https://web.archive.org/aboutus/contact/)  
