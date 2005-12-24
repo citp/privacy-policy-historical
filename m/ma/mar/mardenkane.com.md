@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mardenkane.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605095850id_/http%3A//www.mardenkane.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mardenkane.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224225047id_/http%3A//mardenkane.com/privacy.cfm) for the most accurate reproduction.*
 
 # Marden-Kane: Privacy
 
