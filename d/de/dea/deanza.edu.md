@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the deanza.edu privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308221447id_/http%3A//deanza.edu/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deanza.edu privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224071042id_/http%3A//www.deanza.edu/policies/privacy.html) for the most accurate reproduction.*
 
 # Web Site Privacy Statement
+
+  
+
 
 ### Privacy Statement
 
@@ -28,11 +31,4 @@ This site may make chat rooms, forums, message boards, and/or news groups availa
   4. We do NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent. 
   5. We do NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity. 
 
-**Contacting Us**  
-If you have any questions about this privacy statement, please contact:  
-Terri O'Connor  
-De Anza College  
-21250 Stevens Creek Boulevard  
-Cupertino, CA   95014  
-[oconnorterri@fhda.edu](mailto:oconnorterri@fhda.edu)  
 
