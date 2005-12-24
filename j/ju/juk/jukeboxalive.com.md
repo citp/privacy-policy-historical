@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jukeboxalive.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404010800id_/http%3A//www.jukeboxalive.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jukeboxalive.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224010406id_/http%3A//jukeboxalive.com/privacy.shtml) for the most accurate reproduction.*
 
-# JukeBoxAlive :: Mp3 Music Upload Music Listen To Free Music Listen Online
+# JukeBoxAlive: Listen to Online Music for free and upload music
 
 Protecting consumer privacy online is central to ByRegion.net. Accordingly, ByRegion.net pledges to keep all personal information provided by consumers and member businesses private by:
 
