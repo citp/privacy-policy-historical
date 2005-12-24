@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the regonline.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420045619id_/http%3A//www.regonline.com/Marketing/Privacy.aspx%3Fproduct%3DEvent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regonline.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224211252id_/http%3A//regonline.com/Marketing/Privacy.aspx%3Fproduct%3DEvent) for the most accurate reproduction.*
 
 # RegOnline :: Easy Online Event Registration
 
 | 
 
 **RegOnline Privacy Policy  
-**Effective on: (10/27/04) 
+**Effective on: (5/15/05) 
 
 |   
 ---|---  
@@ -22,9 +22,11 @@ RegOnline is committed to respecting your privacy. When you choose to open an ac
 
 RegOnline takes online privacy seriously. It is our way of sustaining your trust in us and in our products and services. Any material changes to our privacy policy will be posted on our web site prior to making such changes. 
 
+RegOnline has no control over and makes no representations concerning the privacy practices of any event organizer. Accordingly, if you want to find out how an event organizer will use any registration information, you need to review that event organizer’s privacy policy. 
+
 **TRUSTe Privacy Program**
 
-RegOnline is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers [www.regonline.com]. Because RegOnline wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, regonline.com has agreed to notify users of: 
+Effective Information Technologies, dba RegOnline is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers [www.regonline.com]. Because RegOnline wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, regonline.com has agreed to notify users of: 
 
   1. What personally identifiable information RegOnline collects. 
   2. What personally identifiable information third parties collect through the Web site. 
@@ -127,6 +129,15 @@ The security of your personal information is important to us. When logged in to 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
 If you have any questions about security on our Web site, you can [Send an email to us](mailto:support@regonline.com)
+
+**Children**
+
+RegOnline does not sell products or services for purchase by children under the age of eighteen (“Minors”). RegOnline does not knowingly solicit or collect personal information from Minors, and RegOnline will not knowingly link to any third party web site that solicits or collects personal information from Minors. If you believe that a Minor has disclosed personal information to RegOnline or that RegOnline has linked to such a third party web site, please contact us at [advisor@regonline.com](mailto:advisor@regonline.com) so that the information and/or link can be removed. 
+
+**International Users  
+**
+
+Information that is submitted to this website will be collected, processed, stored, disclosed and disposed of in accordance with applicable U.S. law. If you are a non-U.S. User, you acknowledge and agree that we may collect and use your information, as discussed above, outside your resident jurisdiction. In addition, such information may be stored on servers located outside your resident jurisdiction. U.S. law may not provide the degree of protection for information that is available in other countries. By providing us with your information, you acknowledge that you have read this Policy, understand it, agree to its terms and consent to the transfer of such information outside your resident jurisdiction. If you do not consent to the terms of this Policy, please do not use this website, but if you have already provided us with information, please contact us at [advisor@regonline.com](mailto:advisor@regonline.com) and let us know how you would like us to handle such information. ****
 
 **Changes in this Privacy Statement**
 
