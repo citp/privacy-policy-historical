@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berettausa.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205222351id_/http%3A//www.berettausa.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berettausa.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224234938id_/http%3A//www.berettausa.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Beretta USA
 
@@ -6,8 +6,7 @@
   
 To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Beretta site.
 
-  
-The security of your personal information is very important to us. We never sell or rent your personal information to any third parties under any circumstances. We value your trust very highly, and will work to protect the security and privacy of any personal information you provide.
+The security of your personal information is very important to us. The personal information that you provide to us on our website when you register or update an account, enter a contest or promotion, shop online or place an order telephonically (i.e. name, address, telephone number and e-mail address) is maintained in private files on our secure Web servers and our internal systems. Beretta shares information about our customers with some of our affiliated companies and reputable third parties in order to help us provide better service to you. These third parties may be given access to some or all of the information you provide to us. Beretta requires these third parties to maintain your information in the strictest confidence. Also we will not sell, rent or share your email address with others for them to send you unsolicited email. 
 
   
 **What Personal Information We Collect**
@@ -67,5 +66,5 @@ This site contains links to other sites. Please note that berettausa.com is not 
 This policy may be changed at any time without notice at Beratta’s discretion. 
 
   
-Policy Updated on 01 Jan 05  
+Policy Updated on 30 Nov 05  
 
