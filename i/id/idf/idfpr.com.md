@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the idfpr.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305032322id_/http%3A//www.idfpr.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idfpr.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224011503id_/http%3A//www.idfpr.com/privacystatement.asp) for the most accurate reproduction.*
 
-# State of Illinois Department of Financial and Professional Regulation
+# State of Illinois | Department of Financial and Professional Regulation
 
-Thank you for visiting the Web Site of the Illinois Department of Financial and Professional Regulation. IDFPR, as developer and manager of this web site, has taken several steps to safeguard the integrity of its communications and computing infrastructure, including but not limited to authentication, monitoring, auditing, and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the Department of Financial and Professional Regulation operating environment as part of its continuing commitment to risk management. This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via IDFPR supported web sites. The information collected on this site depends on the services used and that which is revealed by the visitor. 
+**IDFPR WEB SITE PRIVACY STATEMENT**
+
+Thank you for visiting the Web Site of the Illinois Department of Financial and Professional Regulation. IDFPR, as developer and manager of this web site, has taken several steps to safeguard the integrity of its communications and computing infrastructure, including but not limited to authentication, monitoring, auditing, and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the Department of Financial and Professional Regulation operating environment as part of its continuing commitment to risk management. This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via IDPR supported web sites. The information collected on this site depends on the services used and that which is revealed by the visitor. 
 
 **Browsing by the General Public**
 
@@ -12,7 +14,7 @@ This information is used solely to help us improve our online services by determ
 
 **Transactions by Licensees**
 
-If you are a license holder regulated by the Illinois Department of Financial and Professional Regulation you may choose to conduct certain transactions on our secured site including renewing your license, changing your address, etc. In those instances, all pertinent license information that you supply is applied to the appropriate license record. Some, but not all, of this information may be available to the public in accordance with the Illinois Freedom of Information Act and the specific statute that regulates your profession or business. In addition, IDFPR is required by law to share certain information with other state agencies in order to assist them in carrying out their mission. _) Please note that the rules governing information disclosed are the same whether the information was obtained electronically or otherwise._
+If you are a license holder regulated by the Illinois Department of Financial and Professional Regulation you may choose to conduct certain transactions on our secured site including renewing your license, changing your address, etc. In those instances, all pertinent license information that you supply is applied to the appropriate license record. Some, but not all, of this information may be available to the public in accordance with the Illinois Freedom of Information Act and the specific statute that regulates your profession or business. In addition, IDPR is required by law to share certain information with other state agencies in order to assist them in carrying out their mission. _) Please note that the rules governing information disclosed are the same whether the information was obtained electronically or otherwise._
 
 **Sending Messages**
 
