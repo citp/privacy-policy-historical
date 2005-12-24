@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305062442id_/http%3A//www.newswise.com/about/policy/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224042507id_/http%3A//newswise.com/about/policy/%23privacy) for the most accurate reproduction.*
 
 # Newswise
 
@@ -23,21 +23,21 @@
 
 Newswise was the first online news service for universities and research institutions for knowledge-based news. It was created in 1991 by Roger Johnson, Ph.D., a biochemist who became a science writer and freelance reporter in the Washington, DC, area in 1978. 
 
-Newswise is the most innovative service of its kind. It introduced the concept and first implemented a central resource for high-caliber news, plus provided access to a one-stop, searchable news archive. Newswise was the first to provide reports to its clients on the activity of its releases. It introduced the concepts of Breaking News, Meetings Advance, and other tools for journalists and public information professionals to improve their delivery and management of information. 
+Newswise is the most innovative service of its kind. It introduced the online research-news service concept and first implemented a central resource for high-caliber news, plus provided access to a one-stop, searchable news archive. Newswise was the first to provide reports to its clients on the activity of its releases. It introduced the concepts of Breaking News, Meetings Advance, and other tools for journalists and public information professionals to improve their delivery and management of information. 
 
 Newswise expanded to the web in 1996. It is the most comprehensive site for research, or knowledge-based news, with more than 400 leading research institutions participating. 
 
-Newswise moved to Charlottesville, Virginia, in 2001 and has offices in Helsinki, Finland and Athens, Greece. 
+Newswise moved to Charlottesville, Virginia, in 2001 and has offices in Helsinki, Finland, and Athens, Greece. 
 
 [](http://www.newswise.com/about/policy/#top)
 
 ### Vision
 
-The Newswise vision is to improve the relationship between journalists and public relations professionals by creating online communications and information management tools that decrease the stress of information overload. We believe new online technology provides the opportunity to change the paradigm of media relations by decreasing the invasiveness of information while increasing access. Paradoxically, online technology benefits this relationship building by improving information management and allowing a non-invasive way of initiating relationships. 
+The Newswise vision is to improve the relationship between journalists and public relations professionals by creating online communications and information management tools that decrease the stress of information overload. We believe new online technology provides the opportunity to change the paradigm of media relations by decreasing the invasiveness of information while increasing access. Paradoxically, online technology benefits this relationship-building by improving information management and allowing a noninvasive way of initiating relationships. 
 
 Newswise maintains a comprehensive online database of knowledge-based news. It is a one-stop site for reporters to manage information within focused domains. Newswise currently comprises scientific, medical, liberal arts, and business research news, with plans to grow in additional sectors. 
 
-Newswise offers a seamless combination of web and email tools to access its database of knowledge-based news. This use of both email and web makes it easier for journalists to access the news; we deliver it to them, but only the news categories they choose, and on the schedule they select. Newswise currently archives more than 30,000 high-caliber news stories, and each is full-text searchable. 
+Newswise offers a seamless combination of web and email tools to access its database of knowledge-based news. This use of both email and web makes it easier for journalists to access the news; we deliver it to them, but only the news categories they choose, and on the schedule they select. Newswise currently archives more than 41,000 high-caliber news stories, and each is full-text searchable. 
 
 Newswise also maintains a complement of other tools for journalists, including online calendars of science and medical meetings, and a database of awards, grants, and fellowships. We also broker and amplify reporters' searches for experts with an Expert Query service; this allows journalists to access experts in science, medicine, liberal arts, and business in a simple way. A variety of new online tools will continue to be added to this kit. 
 
@@ -49,25 +49,25 @@ Our goal is to add value to information by creating context and the best deliver
 
 Newswise is an entrepreneurial business. Reporters receive the service free, and the institutions that provide the information pay a fee far less expensive than mailing or faxing news releases. Newswise develops policies based on suggestions by reporters and participating institutions, and welcomes new ideas. 
 
-We also serve the public as a comprehensive news resource, providing information directly from the institutions producing the news. This is a public service, and our primary focus is on the first two groups. 
+We also serve the public as a comprehensive news resource, providing information directly from the institutions producing the news. This is a public service, and our primary focus is on reporters and the institutions providing the news. 
 
 [](http://www.newswise.com/about/policy/#top)
 
 ### Who is a Journalist?
 
-To have access to certain privileged information on Newswise, a user must provide credentials documenting that he or she is a fulltime professional journalist (not a student, e.g.). 
+To have access to certain privileged information on Newswise, a user must provide credentials documenting that he or she is a full-time, professional journalist (not a student, e.g.). 
 
   1. The applicant must: 
-    1. be on the staff of a media outlet (newspaper, magazine, newsletter, television, radio, etc.), which must be a journalism organization. It cannot, for example, be a publication representing a commercial interest, single source advertising, an advocacy group, or an organization with an agenda that is not transparent when reviewing the publication, **or**
-    2. be a fulltime freelancer. The person cannot have a fulltime job representing any organization other than a journalism organization. The freelancer cannot represent a group (either on retainer or as a major percentage of his or her income) that creates a conflict of interest. 
+    1. be on the staff of a media outlet (newspaper, magazine, newsletter, television, radio, etc.), which must be a journalism organization. It cannot, for example, be a publication representing a commercial interest, single-source advertising, an advocacy group, or an organization with an agenda that is not transparent when reviewing the publication, **or**
+    2. be a full-time freelancer. The person cannot have a full-time job representing any organization other than a journalism organization. The freelancer cannot represent a group (either on retainer or as a major percentage of his or her income) that creates a conflict of interest. 
   
 
   2. This definition precludes: 
-    1. journalism students, professors, etc.; they are employed by a university or are not fulltime, professional journalists. 
+    1. journalism students, professors, etc.; they are employed by a university or are not full-time, professional journalists. 
     2. those who work for an advocacy group, even if they write for publications produced by these groups. There are a few exceptions to this exclusion, such as reporters for the news sections of _Science_ magazine and _JAMA_. We will evaluate publications from associations such as these on a case-by-case basis to determine if they meet our criteria of bias-free journalism. 
   
 
-  3. If an applicant provides false credentials, misleading or misrepresentative information, or does not provide complete or accurate information and we discover undisclosed conflicts of interest, we will ban that person's participation. 
+  3. If an applicant provides false credentials or misleading or misrepresentative information, or does not provide complete or accurate information, and we discover undisclosed conflicts of interest, we will ban that person's participation. 
 
 
 
@@ -93,7 +93,7 @@ If you have registered through our online registration system and have subscribe
 
 If at any time you wish to delete your Newswise registration and discontinue receiving services from us, please send an email to [info@newswise.com](mailto:info@newswise.com). 
 
-Newswise employs "cookies" for your convenience and security when logging into our site. A cookie is a small data file which contains a session identification number stored in your browser. This number enables our server to verify that you are an authenticated user and allows you to visit various members-only parts of our site. It also remembers your preferences from page to page, to ensure you the most efficient browsing experience. Cookies do not store any personal data about you and are deleted at the end of each session. 
+Newswise employs "cookies" for your convenience and security when logging into our site. A cookie is a small data file that contains a session identification number stored in your browser. This number enables our server to verify that you are an authenticated user and allows you to visit various members-only parts of our site. It also remembers your preferences from page to page, to ensure you the most efficient browsing experience. Cookies do not store any personal data about you and are deleted at the end of each session. 
 
 If you have deactivated "cookies" on your computer, you will **not** be able to log in and will have access only to public areas. 
 
