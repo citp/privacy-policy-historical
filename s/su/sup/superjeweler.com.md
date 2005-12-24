@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the superjeweler.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207010313id_/http%3A//www.superjeweler.com/UserArea/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superjeweler.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224105729id_/http%3A//superjeweler.com/newuserarea/PrivacyPolicy) for the most accurate reproduction.*
 
-# www.superjeweler.com - Privacy policy
+# SuperJeweler.com - Privacy Policy
+
+|      | 
 
 This Privacy Policy discloses the privacy practices for Superjeweler.com website and various related services (together referred to as the site). As the provider of this, we are committed to protecting your privacy online. In a nutshell our privacy policy states that we will never rent, sell or lease your information to anyone else. So, please read the information below to learn the following regarding your use of this site.
 
@@ -37,7 +39,9 @@ We may also provide Non-Personally Identifiable Information about our customers'
 
 **We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this site. You may also access and correct your personal information and privacy preferences by writing us at:   
 [  
-customerservice@superjeweler.com](mailto:customerservice@superjeweler.com)
+](mailto:customerservice@superjeweler.com)
+
+[customerservice@superjeweler.com](mailto:customerservice@superjeweler.com)
 
 Please include your name, address, and/or email address when you contact us. 
 
@@ -77,6 +81,12 @@ We may use an outside ad serving company to display banner advertisements on our
 
 You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. your name, email address, etc.) in the discussion forums or other public areas on this site, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond our control and this Policy does not apply to such information. Any submissions to chat rooms or other public areas on this site are accepted with the understanding that they are accessible to all third parties. If you do not want your comments to be viewed by third parties, you are advised not to make any submissions. Ultimately, you are solely responsible for maintaining the secrecy of your password and/or account information. Please be careful and responsible whenever you're online.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to: **  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to:
+
+ **  
 [  
-](mailto:customerservice@superjeweler.com)**[customerservice@superjeweler.com](mailto:customerservice@superjeweler.com)
+](mailto:customerservice@superjeweler.com)**[customerservice@superjeweler.com](mailto:customerservice@superjeweler.com)   
+****
+
+|   
+---|---|---
