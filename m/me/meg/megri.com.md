@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megri.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405023813id_/http%3A//www.megri.com/temp/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megri.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224070312id_/http%3A//www.megri.com/temp/policy.html) for the most accurate reproduction.*
 
-# Web Directory and Search Engine : Privacy Policy
+# Megri.com - Privacy Policy
 
 **Material sent in this section is contributed by users. **MEGRISOFT** accepts no responsibility for the content or accuracy of such material and does not necessarily endorse or subscribe to the messages sent.**
 
@@ -22,4 +22,6 @@ In addition to directly providing information to Megri.com, you might also provi
 Our Commitment to Data Security   
 To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures reasonably designed to safeguard and secure the information we collect online.   
 How to ContactUs   
-Should you have other questions or concerns about these privacy policies, send us an email at [**feedback@megri.com**](mailto:feedback@megri.com) © 2001-2002 Megrisoft . All rights reserved. Terms of Service Privacy Statement
+Should you have other questions or concerns about these privacy policies, send us an email at 
+
+[**feedback@megri.com**](mailto:feedback@megri.com) © 2001-2002 Megrisoft . All rights reserved. Terms of Service Privacy Statement
