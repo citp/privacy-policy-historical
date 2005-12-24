@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307094346id_/http%3A//www.cbtnuggets.com/html/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224042345id_/http%3A//www.cbtnuggets.com/html/help/privacy.html) for the most accurate reproduction.*
 
 # CBT Nuggets: Privacy Statement for CBT Nuggets, Inc
 
@@ -12,7 +12,7 @@ We invite you to contact us if you have questions about this policy. You may con
     
     
     CBT Nuggets, Inc
-    925 Country Club Rd 
+    44 Club Rd 
     Suite 150
     Eugene, OR 97401 
     US
