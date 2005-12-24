@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the law.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306220755id_/http%3A//www.law.com/service/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the law.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224184829id_/http%3A//www.law.com/service/privacy_policy.shtml) for the most accurate reproduction.*
 
 # American Lawyer Media's Law.com
 
@@ -91,7 +91,7 @@ Data Security: To prevent unauthorized access, maintain data accuracy, and ensur
 
 Account Maintenance: ALM may utilize the contact information you provided at registration, such as your telephone number and e-mail address, to contact you regarding account status, changes to the subscriber agreement, and to confirm registration.
 
-Service Updates and E-Mail Promotions: Using the contact information and e-mail addresses provided at registration, ALM periodically sends promotional messages to its users about services offered by ALM and notifies users of new features or changes that may be made to these services. ALM may also elect to send promotional messages on behalf of selected third parties whose products or services we think may be of interest to you. If you prefer not to receive promotional mail or e-mails from ALM, please see the " **Opting Out** " provision below. 
+Service Updates and E-Mail Promotions: Using the contact information and e-mail addresses provided at registration, ALM periodically sends promotional messages to its users about services offered by ALM and notifies users of new features or changes that may be made to these services. ALM may also elect to send promotional messages on behalf of selected third parties whose products or services we think may be of interest to you. If you prefer not to receive promotional e-mails from ALM, please see the " **Opting Out** " provision below. 
 
 |    
   | 
