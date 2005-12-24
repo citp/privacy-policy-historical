@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the wlu.ca privacy policy that was archived on 2005-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050414080804id_/http%3A//www.wlu.ca/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wlu.ca privacy policy that was archived on 2005-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051224201328id_/http%3A//www.wlu.ca/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Wilfrid Laurier University - University Secretariat - University Policies - 10. Records Management - 10.1 Information Availability and Privacy Protection</title>
 <link rel="StyleSheet" href="style.css" type="text/css" media="screen, print">
+<link rel="StyleSheet" href="printstyle.css" type="text/css" media="print">
 <script type="text/javascript">
 <!--
 
@@ -52,14 +53,36 @@ startList = function() {
 		}
 	}
 }
+function externalNotice() {
+// links that open in a new window should send a notice to aid screen-readers.
+	res=window.confirm("This link will open in a new window.  Continue?");
+	return res;
+}
+
+function popUpWindow(strURL,strType,strWidth,strHeight) {
+// opens a pop-up window...
+
+	var strOptions="";
+	if (strType=="scollable_console") strOptions="resizable,scrollbars,height="+strHeight+",width="+strWidth;
+	if (strType=="console") strOptions="resizable,height="+strHeight+",width="+strWidth;
+	if (strType=="fixed") strOptions="status,height="+strHeight+",width="+strWidth;
+	if (strType=="elastic") strOptions="toolbar,menubar,scrollbars,resizable,location,height="+strHeight+",width="+strWidth;
+
+	window.open(strURL, 'newWin', strOptions);
+}
+
+
 window.onload=startList;
 //-->
 </script>
 
-
+<meta name="keywords" content="Wilfrid Laurier University, Arts, Science, Music, School of Business and Economics">
+<meta name="description" content="Founded in 1911, Laurier is a premier university and renowned for attracting students who want to succeed. Our Faculty of Arts, Faculty of Science, Faculty of Music, School of Business and Economics and our Brantford Campus offer an unparalleled academic experience. Our unique, interdisciplinary approach to learning allows students to combine majors in completely different fields. Laurier's faculty, among the finest anywhere, expand the horizons of our students, providing them with a broad perspective of the world that opens up new ways of thinking and seeing things.">
 </head>
 
 <body bgcolor="#FFFFFF">
+<a href="#mcontent" id="skiplink">Skip Navigation</a>
+<a href="accessibility.php" id="statement">Site Accessibility Statement</a>
 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
 				<td width="266"><a href="/"><img src="images/laurier_logo.gif" width="266" height="75" border="0" alt="Wilfrid Laurier University"></a></td>
@@ -68,201 +91,119 @@ window.onload=startList;
 				<td align="right" width="100%">
 					<table border="0" cellspacing="0" cellpadding="0">
    					                  <tbody><tr>
-							<td align="right" valign="top"><span class="date">April 14, 2005<br>&nbsp;</span></td>
+							<td align="right" valign="top"><span class="date">December 24, 2005<br>&nbsp;</span></td>
 						</tr>
 						<tr>
-							<td align="right" valign="bottom" nowrap=""><form method="get" action="search.php"><label for="searchtextbox"><img src="images/search.gif" alt="search" height="12" width="40" align="middle" border="0" hspace="5"></label><input type="text" name="words" size="10" id="searchtextbox"> <input type="image" src="images/go_button.gif" alt="go"></form></td>
+							<td align="right" valign="bottom" nowrap="" class="headsearch"><form method="get" action="search.php"><label for="searchtextbox"><img src="images/search.gif" alt="search" height="12" width="40" align="middle" border="0" hspace="5"></label><input type="text" name="words" size="10" id="searchtextbox"> <input type="image" src="images/go_button.gif" alt="go"></form></td>
 						</tr>
 												
 												<tr>
-							<td align="right"><span class="date">&nbsp;<br><a href="http://www.wlu.ca/wwwlib/search.html">library search</a></span></td>
+							<td align="right" class="headsearch"><span class="date">&nbsp;<br><a href="http://www.wlu.ca/wwwlib/search.html">library search</a></span></td>
 						</tr>
 					</tbody></table>
 				</td>
 			</tr>
-						<tr>
-				<td width="100%" bgcolor="#c12222" colspan="3" height="18">
-				<img src="images/canadian-excellence.gif" width="267" height="18" alt="Canadian Excellence"></td>
+			</tbody></table>
+<table cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr>
+				<td width="266" bgcolor="#c12222" colspan="3" height="18"><img src="images/canadian-excellence.gif" width="267" height="18" alt="Canadian Excellence"></td>
+				<td width="100%"><img src="images/red_bar.gif" width="100%" height="18" alt=""></td>
 			</tr>
 					</tbody></table>
-<a href="#mcontent">Skip to main content...</a>
 <!--/htdig_noindex-->
 <div class="navdropbar"><div class="infoabout"><img src="images/nav_infoabout.gif" width="121" height="27" alt=""></div>
 	<ul id="nav">
-	<li class="nlaurier"><a href="more.php?mt_id=5" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><img src="images/nav_laurier_off.gif" width="55" height="27" alt="Laurier" title="Laurier"><!--/htdig_noindex--></a><img src="images/nav_divider.gif" alt="" height="27" width="1" border="0"><ul>
-         <li><a href="http://www.wlu.ca/" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span> Laurier home<!--/htdig_noindex--></a></li>
-         <li><a href="http://testor.wlu.ca:8080/eGuide/servlet/eGuide" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>E-mail/phone directory<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="/page.php?grp_id=150&amp;s_id=96" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Working at Laurier<!--/htdig_noindex--></a></li>
-         <li><a href="http://www.wlu.ca/wlu-hp/about/maps-2003/index.shtml" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Maps/directions<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="homepage.php?grp_id=98" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Parking<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=158" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Governance/policies<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="homepage.php?grp_id=170" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Office of the President<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="homepage.php?grp_id=157" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Research Office<!--/htdig_noindex--></a></li>
-         <li class="lastmenuitem"><a href="more.php?mt_id=5" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>More...<!--/htdig_noindex--></a></li>
+	<li class="nlaurier"><a href="more.php?mt_id=5" tabindex="1"><!--htdig_noindex--><img src="images/nav_laurier_off.gif" width="55" height="27" alt="Laurier" title="Laurier"><!--/htdig_noindex--></a><img src="images/nav_divider.gif" alt="" height="27" width="1" border="0"><ul>
+         <li><a href="http://www.wlu.ca/"><!--htdig_noindex--><span class="redbullet">&nbsp;</span> Laurier home<!--/htdig_noindex--></a></li>
+         <li><a href="http://testor.wlu.ca:8080/eGuide/servlet/eGuide"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>E-mail/phone directory<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="/page.php?grp_id=150&amp;s_id=96"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Working at Laurier<!--/htdig_noindex--></a></li>
+         <li><a href="http://www.wlu.ca/wlu-hp/about/maps-2003/index.shtml"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Maps/directions<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="homepage.php?grp_id=98"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Parking<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=158"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Governance/policies<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="homepage.php?grp_id=170"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Office of the President<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="homepage.php?grp_id=157"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Research Office<!--/htdig_noindex--></a></li>
+         <li class="lastmenuitem"><a href="more.php?mt_id=5"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>More Laurier...<!--/htdig_noindex--></a></li>
 		</ul></li>
-	<li class="nfaculties"><a href="more.php?mt_id=6" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><img src="images/nav_faculties_off.gif" width="122" height="27" alt="Faculties/Libraries" title="Faculties/Libraries"><!--/htdig_noindex--></a><img src="images/nav_divider.gif" alt="" height="27" width="1" border="0"><ul>
-         <li><a href="/homepage.php?grp_id=35" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Arts<!--/htdig_noindex--></a></li>
-         <li><a href="/homepage.php?grp_id=31" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Business &amp; Economics<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=36" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Graduate Studies<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=29" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Music<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=1" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Science<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="homepage.php?grp_id=30" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Social Work<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=66" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Library - Waterloo<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="http://info.wlu.ca/~wwwbrant/pages/libresources.shtml" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Library - Brantford<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="homepage.php?grp_id=157" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Research Office<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="/homepage.php?grp_id=37" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Brantford campus<!--/htdig_noindex--></a></li>
-         <li class="lastmenuitem"><a href="more.php?mt_id=6" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>More...<!--/htdig_noindex--></a></li>
+	<li class="nfaculties"><a href="more.php?mt_id=6" tabindex="2"><!--htdig_noindex--><img src="images/nav_faculties_off.gif" width="122" height="27" alt="Faculties/Libraries" title="Faculties/Libraries"><!--/htdig_noindex--></a><img src="images/nav_divider.gif" alt="" height="27" width="1" border="0"><ul>
+         <li><a href="/homepage.php?grp_id=35"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Arts<!--/htdig_noindex--></a></li>
+         <li><a href="/homepage.php?grp_id=31"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Business &amp; Economics<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=36"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Graduate Studies<!--/htdig_noindex--></a></li>
+         <li><a href="/homepage.php?grp_id=29"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Music<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=1"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Science<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="homepage.php?grp_id=30"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Social Work<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="homepage.php?grp_id=66"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Libraries<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="homepage.php?grp_id=157"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Research Office<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="/homepage.php?grp_id=37"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Brantford campus<!--/htdig_noindex--></a></li>
+         <li class="lastmenuitem"><a href="more.php?mt_id=6"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>More Faculties/Libraries...<!--/htdig_noindex--></a></li>
 		</ul></li>
-	<li class="nacademic"><a href="more.php?mt_id=7" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><img src="images/nav_academic_off.gif" width="92" height="27" alt="Academic Info" title="Academic Info"><!--/htdig_noindex--></a><img src="images/nav_divider.gif" alt="" height="27" width="1" border="0"><ul>
-         <li><a href="homepage.php?grp_id=65" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Prospective students<!--/htdig_noindex--></a></li>
-         <li><a href="http://www.wlu.ca/wlu-hp/info/add_drop.shtml" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Add/drop courses<!--/htdig_noindex--></a></li>
-         <li><a href="/homepage.php?grp_id=859" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Admissions - undergrad<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=36" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Admissions - grad<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="http://www.wlu.ca/~wwwregi/registrar.shtml" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Registrar's Office<!--/htdig_noindex--></a></li>
-         <li><a href="http://www.wlu.ca/wlu-hp/info/marks.shtml" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Check your marks<!--/htdig_noindex--></a></li>
-         <li><a href="http://www.wlu.ca/~wwwregi/class/index.html" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Class schedules<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="http://www.wlu.ca/~wwwregi/exams/index.html" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Exam schedules<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=329" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Distance/Part-Time Studies<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="homepage.php?grp_id=160" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Continuing Ed.<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=55" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Laurier Institute<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="http://www.wlu.ca/~wwwlinte/" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Laurier International<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="/homepage.php?grp_id=317&amp;pv=1" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>VP:Academic<!--/htdig_noindex--></a></li>
-         <li class="lastmenuitem"><a href="more.php?mt_id=7" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>More...<!--/htdig_noindex--></a></li>
+	<li class="nacademic"><a href="more.php?mt_id=7" tabindex="3"><!--htdig_noindex--><img src="images/nav_academic_off.gif" width="92" height="27" alt="Academic Info" title="Academic Info"><!--/htdig_noindex--></a><img src="images/nav_divider.gif" alt="" height="27" width="1" border="0"><ul>
+         <li><a href="homepage.php?grp_id=65"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Prospective students<!--/htdig_noindex--></a></li>
+         <li><a href="/page.php?grp_id=1365&amp;s_id=1458"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Add/drop courses<!--/htdig_noindex--></a></li>
+         <li><a href="/homepage.php?grp_id=859"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Admissions - undergrad<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=36"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Admissions - grad<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="homepage.php?grp_id=1351"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Registrar's Office<!--/htdig_noindex--></a></li>
+         <li><a href="/page.php?grp_id=1365&amp;s_id=1645"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Check your marks<!--/htdig_noindex--></a></li>
+         <li><a href="http://www.wlu.ca/~wwwregi/class/index.html"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Class schedules<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="http://www.wlu.ca/~wwwregi/exams/index.html"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Exam schedules<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=329"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Distance/Part-Time<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="homepage.php?grp_id=160"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Continuing Ed.<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=1611"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Case Publications<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="http://www.wlu.ca/~wwwlinte/"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Laurier International<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="/homepage.php?grp_id=317&amp;pv=1"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>VP:Academic<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="/homepage.php?grp_id=1402"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Academic Advising<!--/htdig_noindex--></a></li>
+         <li class="lastmenuitem"><a href="more.php?mt_id=7"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>More Academic Info...<!--/htdig_noindex--></a></li>
 		</ul></li>
-   <li class="ncampus"><a href="more.php?mt_id=8" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><img src="images/mnav_campus_off.gif" width="83" height="27" alt="Campus Life" title="Campus Life"><!--/htdig_noindex--></a><img src="images/nav_divider.gif" alt="" height="27" width="1" border="0"><ul>
-         <li><a href="http://www.athletics.wlu.ca/" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Athletics &amp; Recreation<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="http://info.wlu.ca/directories/studentEmail.shtml" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span> Student E-mail<!--/htdig_noindex--></a></li>
-         <li><a href="http://www.wlu.ca/career/" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Career Services<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="http://www.wlu.ca/co-op/" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Co-op<!--/htdig_noindex--></a></li>
-         <li><a href="http://www.mylaurier.ca/counselling" target="_blank" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Counselling Services<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=355" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Harassment/discrim.<!--/htdig_noindex--></a></li>
-         <li><a href="http://www.mylaurier.ca/health" target="_blank" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Health Services<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=159" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Health &amp; Safety<!--/htdig_noindex--></a></li>
-         <li><a href="http://www.mylaurier.ca/residence" target="_blank" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Housing/Residence<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="http://www.wlu.ca/~wwwsecur/" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Security<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="http://www.wlu.ca/wlu-hp/about/maps-2003/index.shtml" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Maps/Directions<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="http://www.wlu.ca/~wwwsa/" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Financial Aid<!--/htdig_noindex--></a></li>
-         <li><a href="http://www.mylaurier.ca/portal.htm" target="_blank" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Student Services<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="http://www.wlusu.com/" target="_blank" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Students' Union<!--/htdig_noindex--></a></li>
-         <li class="lastmenuitem"><a href="more.php?mt_id=8" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>More...<!--/htdig_noindex--></a></li>
+   <li class="ncampus"><a href="more.php?mt_id=8" tabindex="4"><!--htdig_noindex--><img src="images/mnav_campus_off.gif" width="83" height="27" alt="Campus Life" title="Campus Life"><!--/htdig_noindex--></a><img src="images/nav_divider.gif" alt="" height="27" width="1" border="0"><ul>
+         <li><a href="http://www.athletics.wlu.ca/"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Athletics &amp; Recreation<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="http://info.wlu.ca/directories/studentEmail.shtml"><!--htdig_noindex--><span class="redbullet">&nbsp;</span> Student E-mail<!--/htdig_noindex--></a></li>
+         <li><a href="http://www.wlu.ca/career/"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Career Services<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="http://www.wlu.ca/co-op/"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Co-op<!--/htdig_noindex--></a></li>
+         <li><a href="http://www.mylaurier.ca/counselling" target="_blank" onclick="return externalNotice();"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Counselling Services<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=355"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Harassment/discrim.<!--/htdig_noindex--></a></li>
+         <li><a href="http://www.mylaurier.ca/health" target="_blank" onclick="return externalNotice();"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Health Services<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=159"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Health &amp; Safety<!--/htdig_noindex--></a></li>
+         <li><a href="http://www.mylaurier.ca/residence" target="_blank" onclick="return externalNotice();"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Housing/Residence<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="homepage.php?grp_id=1150&amp;pv=1"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Community Safety<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="http://www.wlu.ca/wlu-hp/about/maps-2003/index.shtml"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Maps/Directions<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="http://www.wlu.ca/~wwwsa/"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Financial Aid<!--/htdig_noindex--></a></li>
+         <li><a href="http://www.mylaurier.ca/portal.htm" target="_blank" onclick="return externalNotice();"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Student Services<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="http://www.wlusu.com/" target="_blank" onclick="return externalNotice();"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Students' Union<!--/htdig_noindex--></a></li>
+         <li class="lastmenuitem"><a href="more.php?mt_id=8"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>More Campus Life...<!--/htdig_noindex--></a></li>
 		</ul></li>
-	<li class="nresources"><a href="more.php?mt_id=9" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><img src="images/nav_resources_off.gif" width="73" height="27" alt="Resources" title="Resources"><!--/htdig_noindex--></a><img src="images/nav_divider.gif" alt="" height="27" width="1" border="0"><ul>
-         <li><a href="http://testor.wlu.ca:8080/eGuide/servlet/eGuide" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>E-mail/Phone directory<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=47" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Information Technology<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=61" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Media Technology<!--/htdig_noindex--></a></li>
-         <li><a href="http://webaccess.wlu.ca/" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>WebAccess<!--/htdig_noindex--></a></li>
-         <li><a href="http://weblearn.wlu.ca/webct/public/home.pl" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>WebCT<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="homepage.php?grp_id=95" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Physical Resources<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=150" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Human Resources<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=169" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Institutional Research<!--/htdig_noindex--></a></li>
-         <li><a href="/homepage.php?grp_id=167&amp;pv=1" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Materiel Management<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="homepage.php?grp_id=59" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Finance &amp; Admin.<!--/htdig_noindex--></a></li>
-         <li><a href="http://www.wlubookstore.com/" target="_blank" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Bookstore<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=158" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>University Secretariat<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="/page.php?grp_id=28&amp;s_id=800" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Weather Resources<!--/htdig_noindex--></a></li>
-         <li class="lastmenuitem"><a href="more.php?mt_id=9" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>More...<!--/htdig_noindex--></a></li>
+	<li class="nresources"><a href="more.php?mt_id=9" tabindex="5"><!--htdig_noindex--><img src="images/nav_resources_off.gif" width="73" height="27" alt="Resources" title="Resources"><!--/htdig_noindex--></a><img src="images/nav_divider.gif" alt="" height="27" width="1" border="0"><ul>
+         <li><a href="http://testor.wlu.ca:8080/eGuide/servlet/eGuide"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>E-mail/Phone directory<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=47"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Information Technology<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=61"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Media Technology<!--/htdig_noindex--></a></li>
+         <li><a href="http://webaccess.wlu.ca/"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>WebAccess<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="/webct"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>WebCT<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=150"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Human Resources<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=169"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Institutional Research<!--/htdig_noindex--></a></li>
+         <li><a href="/homepage.php?grp_id=167&amp;pv=1"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Materiel Management<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=59"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Finance &amp; Admin.<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=95"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Physical Resources<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="/homepage.php?grp_id=1165"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Financial Resources<!--/htdig_noindex--></a></li>
+         <li><a href="http://www.wlubookstore.com/" target="_blank" onclick="return externalNotice();"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Bookstore<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=158"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>University Secretariat<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="/page.php?grp_id=28&amp;s_id=800"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Weather Resources<!--/htdig_noindex--></a></li>
+         <li class="lastmenuitem"><a href="more.php?mt_id=9"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>More Resources...<!--/htdig_noindex--></a></li>
 		</ul></li>
-   <li class="nnews"><a href="more.php?mt_id=10" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><img src="images/nav_news_off.gif" width="96" height="27" alt="News &amp; Events" title="News &amp; Events"><!--/htdig_noindex--></a><img src="images/nav_divider.gif" alt="" height="27" width="1" border="0"><ul>
-         <li><a href="homepage.php?grp_id=28" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Public Affairs<!--/htdig_noindex--></a></li>
-         <li><a href="news_listing.php?type=update" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Campus Updates<!--/htdig_noindex--></a></li>
-         <li><a href="news_listing.php?type=release" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>News Releases<!--/htdig_noindex--></a></li>
-         <li class="lastmenuitem"><a href="events_listing.php" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Events listing<!--/htdig_noindex--></a></li>
+   <li class="nnews"><a href="more.php?mt_id=10" tabindex="6"><!--htdig_noindex--><img src="images/nav_news_off.gif" width="96" height="27" alt="News &amp; Events" title="News &amp; Events"><!--/htdig_noindex--></a><img src="images/nav_divider.gif" alt="" height="27" width="1" border="0"><ul>
+         <li><a href="homepage.php?grp_id=28"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Public Affairs<!--/htdig_noindex--></a></li>
+         <li><a href="news_listing.php?type=update"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Campus Updates<!--/htdig_noindex--></a></li>
+         <li><a href="news_listing.php?type=release"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>News Releases<!--/htdig_noindex--></a></li>
+         <li class="lastmenuitem"><a href="events_listing.php"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Events listing<!--/htdig_noindex--></a></li>
 		</ul></li>
-	<li class="ngoing"><a href="more.php?mt_id=11" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><img src="images/nav_going_off.gif" width="100" height="27" alt="Giving to Laurier" title="Giving to Laurier"><!--/htdig_noindex--></a><ul>
-         <li><a href="page.php?grp_id=64&amp;s_id=397" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Annual Fund<!--/htdig_noindex--></a></li>
-         <li><a href="homepage.php?grp_id=64" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Development Office<!--/htdig_noindex--></a></li>
-         <li><a href="page.php?grp_id=64&amp;s_id=395" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Your gift times two<!--/htdig_noindex--></a></li>
-         <li><a href="page.php?grp_id=64&amp;s_id=396" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Planned giving<!--/htdig_noindex--></a></li>
-         <li><a href="page.php?grp_id=64&amp;s_id=394" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Our priorities<!--/htdig_noindex--></a></li>
-         <li><a href="page.php?grp_id=64&amp;s_id=426" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Memorial &amp; tribute gifts<!--/htdig_noindex--></a></li>
-         <li><a href="page.php?grp_id=64&amp;s_id=428" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Thanking our donors<!--/htdig_noindex--></a></li>
-         <li><a href="page.php?grp_id=64&amp;s_id=402" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Ways to give<!--/htdig_noindex--></a></li>
-         <li class="separator"><a href="/page.php?grp_id=64&amp;s_id=410" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>On-campus giving<!--/htdig_noindex--></a></li>
-         <li class="lastmenuitem"><a href="https://secure.venngo.net/VG_app_donation/index.cfm?partnerID=5072&amp;smode=" onmouseover="javascript: hideSelect();" onmouseout="javascript: 
-showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Online gifts<!--/htdig_noindex--></a></li>
+	<li class="ngoing"><a href="more.php?mt_id=11" tabindex="7"><!--htdig_noindex--><img src="images/nav_going_off.gif" width="100" height="27" alt="Giving to Laurier" title="Giving to Laurier"><!--/htdig_noindex--></a><ul>
+         <li><a href="page.php?grp_id=64&amp;s_id=397"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Annual Fund<!--/htdig_noindex--></a></li>
+         <li><a href="homepage.php?grp_id=64"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Development Office<!--/htdig_noindex--></a></li>
+         <li><a href="page.php?grp_id=64&amp;s_id=395"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Your gift times two<!--/htdig_noindex--></a></li>
+         <li><a href="page.php?grp_id=64&amp;s_id=396"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Planned giving<!--/htdig_noindex--></a></li>
+         <li><a href="page.php?grp_id=64&amp;s_id=394"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Our priorities<!--/htdig_noindex--></a></li>
+         <li><a href="page.php?grp_id=64&amp;s_id=426"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Memorial &amp; tribute gifts<!--/htdig_noindex--></a></li>
+         <li><a href="page.php?grp_id=64&amp;s_id=428"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Thanking our donors<!--/htdig_noindex--></a></li>
+         <li><a href="page.php?grp_id=64&amp;s_id=402"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Ways to give<!--/htdig_noindex--></a></li>
+         <li class="separator"><a href="/page.php?grp_id=64&amp;s_id=410"><!--htdig_noindex--><span class="redbullet">&nbsp;</span>On-campus giving<!--/htdig_noindex--></a></li>
+         <li class="lastmenuitem"><a href="https://secure.venngo.net/VG_app_donation/index.cfm?partnerID=5072&amp;smode="><!--htdig_noindex--><span class="redbullet">&nbsp;</span>Online gifts<!--/htdig_noindex--></a></li>
 		</ul></li>
    </ul>
 </div>
@@ -292,8 +233,11 @@ showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Online gifts
                                     <li><a href="docsnpubs.php?grp_id=158"><!--htdig_noindex-->Documents<!--/htdig_noindex--></a></li>
             	
 	<!-- Forms -->
-	                            <li><a href="forms.php?grp_id=158"><!--htdig_noindex-->Forms<!--/htdig_noindex--></a></li>
-            		                </ul>
+		
+	<!-- Photo Galleries -->
+        	
+	
+	                </ul>
 	
 	<!--- Sections ---> 
 <hr size="1"><ul>
@@ -322,6 +266,7 @@ showSelect();"><!--htdig_noindex--><span class="redbullet">·</span>Online gifts
             <li><a href="page.php?grp_id=158&amp;s_id=149"><!--htdig_noindex-->Honorary Degree Recipients<!--/htdig_noindex--></a></li>
             <li><a href="page.php?grp_id=158&amp;s_id=151"><!--htdig_noindex-->Presidents<!--/htdig_noindex--></a></li>
             <li><a href="page.php?grp_id=158&amp;s_id=152"><!--htdig_noindex-->Chancellors<!--/htdig_noindex--></a></li>
+            <li><a href="page.php?grp_id=158&amp;s_id=1311"><!--htdig_noindex-->Senate Honorary Degree Nomination Form<!--/htdig_noindex--></a></li>
 </ul>
 	<br><br>
 
@@ -466,51 +411,44 @@ Approved by: Dr. L. Marsden</i></p><p></p></div>
 </div></div>
 </div>
 
+<style>
+#footer { border-top: 1px solid #CCCCCC; padding-top: 1px; color: #999999; }
+#footer a.rightside { float: right; clear: right; padding-right: 50px; text-decoration: underline; color: #330033; whites-pace: nowrap; }
+#footer img { float: right; }
+#footer ul { list-style-type: none; margin: 0px; padding: 0px; }
+#footer ul li { float: left; padding: 3px 15px; border-right: 1px solid #CCCCCC; }
+#footer ul li.last { border-right: 0px; }
+#footer address { font-style: normal; clear: left; padding: 5px 0px; }
+#footer .phone { padding-left: 20px; }
+</style>
+
+
 <div id="foot"></div>
 <div id="footer">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td style="background: url(images/nav_greyrule.gif);"><img src="images/spacer.gif" alt="" height="2" width="2" border="0"></td>
-</tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="100%">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td align="center"><a href="contact.php"><!--htdig_noindex-->contact WLU<!--/htdig_noindex--></a></td>
-<td width="1"><img src="images/footer_pipe.gif" width="1" height="22" border="0" alt="" title=""></td>
-<td align="center"><a href="site_index.php"><!--htdig_noindex-->site index<!--/htdig_noindex--></a></td>
-<td width="1"><img src="images/footer_pipe.gif" width="1" height="22" border="0" alt="" title=""></td>
-<td align="center"><a href="disclaimer.php"><!--htdig_noindex-->disclaimer<!--/htdig_noindex--></a></td>
-<td width="1"><img src="images/footer_pipe.gif" width="1" height="22" border="0" alt="" title=""></td>
-<td align="center"><a href="privacy.php"><!--htdig_noindex-->privacy policy<!--/htdig_noindex--></a></td>
-<!--htdig_noindex-->
-<td width="1"><img src="images/footer_pipe.gif" width="1" height="22" border="0" alt="" title=""></td>
-<td align="center">© 2004 Wilfrid Laurier University</td>
-</tr>
-</tbody></table>
-</td>
-<td><img src="images/footer_red.gif" width="272" height="22" border="0" alt="Waterloo, Ontario, Canada" title="Ontario, Canada"></td>
-</tr>
-<tr>
-<td>
-<table border="0" cellspacing="0" cellpadding="3">
-<tbody><tr>
-<td>Wilfrid Laurier University </td>
-<td>|</td>
-<td>75 University Avenue West, Waterloo, Ontario, Canada  N2L 3C5</td>
-</tr>
-<tr>
-<td align="right">phone: 519.884.1970</td>
-<td>|</td>
-<td>fax: 519.886.9351</td>
-</tr>
-</tbody></table>
-</td>
-<td align="right" valign="top" class="brantford"><a href="page.php?grp_id=0&amp;s_id=18">Laurier Brantford</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-</tr>
-</tbody></table>
+
+<img src="images/footer_red.gif" width="272" height="22" border="0" alt="Waterloo, Ontario, Canada" title="Ontario, Canada">
+
+
+
+<ul>
+<li class="first"><a href="contact.php"><!--htdig_noindex-->contact WLU<!--/htdig_noindex--></a></li>
+<li><a href="site_index.php"><!--htdig_noindex-->site index<!--/htdig_noindex--></a></li>
+<li><a href="disclaimer.php"><!--htdig_noindex-->disclaimer<!--/htdig_noindex--></a></li>
+<li><a href="privacy.php"><!--htdig_noindex-->privacy policy<!--/htdig_noindex--></a></li>
+<li class="last">© 2004 Wilfrid Laurier University</li>
+</ul>&nbsp;
+<a href="page.php?grp_id=0&amp;s_id=18" class="rightside">Laurier Brantford</a>
+
+<address>
+Wilfrid Laurier University
+75 University Avenue West, Waterloo, Ontario, Canada  N2L 3C5
+</address>
+<span class="phone">
+phone: (519) 884-1970
+</span>
+
+
+
 </div><!--/htdig_noindex-->
 
 
