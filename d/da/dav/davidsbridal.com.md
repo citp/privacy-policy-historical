@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303172904id_/http%3A//davidsbridal.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224043922id_/http%3A//davidsbridal.com/privacy.jsp) for the most accurate reproduction.*
 
-# David's Bridal - Privacy Policy
+# David's Bridal | Privacy Policy
 
 Effective 12.09.2004 
 
