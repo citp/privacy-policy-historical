@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fox23.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626022514id_/http%3A//fox23.com/copyright/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox23.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224082530id_/http%3A//www.fox23.com/copyright/privacypolicy.aspx) for the most accurate reproduction.*
 
-# KOKI FOX23 -- TULSA
+# KOKI FOX23 - Tulsa
 
 TM & © Clear Channel Communications  
 Many pages in the KOKI FOX 23 Web site feature links to other sites, some of which are operated by companies unrelated to KOKI FOX 23. 
