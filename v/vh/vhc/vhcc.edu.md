@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vhcc.edu privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308010019id_/http%3A//www.vhcc.edu/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vhcc.edu privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224123847id_/http%3A//www.vhcc.edu/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Virginia Highlands Community College Privacy Statement
 
@@ -23,7 +23,7 @@ _“It is the policy of the Commonwealth of Virginia that personal information a
   * When you apply for an on-line service with VHCC, we ask for your name, email address, birth date, gender, phone, zip code, occupation, curriculum, industry, and comments. 
   * VHCC may also automatically receive and record information on our server logs from your browser including your IP address, VHCC cookie information and the page you requested. 
   * VHCC uses information for two general purposes: 1) to fulfill your requests for certain services, and 2) to contact you with information and new services. 
-  * If you find errors in the information that you submitted to VHCC through the website or want to examine your information, you should contact the webmaster by email at [webmaster@vh.cc.va.us](mailto:webmaster@vh.cc.va.us).  You may also contact the Webmaster by writing to: Webmaster, Virginia Highlands Community College, P.O. Box 828, Abingdon, Virginia, 24212.
+  * If you find errors in the information that you submitted to VHCC through the website or want to examine your information, you should contact the webmaster by email at [webmaster@vhcc.edu](mailto:webmaster@vhcc.edu).  You may also contact the Webmaster by writing to: Webmaster, Virginia Highlands Community College, P.O. Box 828, Abingdon, Virginia, 24212.
 
 
 
