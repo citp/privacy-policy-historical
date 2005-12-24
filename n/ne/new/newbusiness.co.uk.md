@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbusiness.co.uk privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206012527id_/http%3A//www.newbusiness.co.uk/cgi-bin/privacy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbusiness.co.uk privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224085538id_/http%3A//www.newbusiness.co.uk/cgi-bin/privacy.pl) for the most accurate reproduction.*
 
 # Privacy Policy - NewBusiness
 
@@ -40,4 +40,4 @@ While newbusiness.co.uk publish few contents that are targeted directly at child
 
   
 Because newbusiness.co.uk operates globally, we make information we collect available to our worldwide business units. For those of you visiting us from the European Economic Area, please note that newbusiness.co.uk will transfer your personally identifiable data outside the European Economic Area for use for any of the purposes described above. By using our web site and providing us with your personal data, you consent to such transfer of your personal data.   
-Comments and questions regarding this Privacy Policy should be directed to [feedback@newbusiness.co.uk](mailto:feedback@newbusiness.co.uk?subject=Queries%20on%20Privacy%20Policy)
+Comments and questions regarding this Privacy Policy should be directed to [info@newbusiness.co.uk](mailto:info@newbusiness.co.uk?subject=Queries%20on%20Privacy%20Policy)
