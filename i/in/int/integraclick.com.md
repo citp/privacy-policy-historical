@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the integraclick.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205041058id_/http%3A//www.integraclick.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integraclick.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224133210id_/http%3A//integraclick.com/privacypolicy.html) for the most accurate reproduction.*
 
 # IntegraClick
 
@@ -6,11 +6,11 @@ This is the web site of IntegraClick inc..
 
 Our postal address is   
 IntegraClick inc.  
-5919 Beneva Rd.   
-Sarasota FL 34238 
+342 S. Tamiami Trail, Suite 201   
+Nokomis, Florida 34275 
 
 We can be reached via e-mail at john@integraclick.com  
-or you can reach us by telephone at 941-925-1845
+or you can reach us by telephone at 941.483.4188
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
