@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the deanza.edu privacy policy that was archived on 2005-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050308221447id_/http%3A//deanza.edu/policies/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deanza.edu privacy policy that was archived on 2005-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051224071042id_/http%3A//www.deanza.edu/policies/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"><html><head>
 
@@ -31,44 +31,13 @@
 
 <link rel="stylesheet" href="/template/standard/css/ie_win.css" type="text/css"><style type="text/css">
 
-.clearlayers {  
-	position: absolute;
-	width: 100px;
-	height: 20px;
-	z-index: 2;
-	left: 5px;
-	top: 203px;
-	background-color: #830330;
-	layer-background-color: #FFFFFF;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	visibility: hidden;
-}
-
-
-.homeDe {  
-	position: absolute;
-	width: 200px;
-	z-index: 2;
-	left: 5px;
-	top: 87px;
-	background-color: #830330;
-	layer-background-color: #FFFFFF;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #000000;
-	visibility: hidden;
-}
-
 .about { 
 	position: absolute;
 	width: 200px;
 	z-index: 2;
-	left: 53px;
-	top: 87px;
+	left: 84px;
+	top: 108px;
 	background-color: #830330;
-	layer-background-color: #FFFFFF;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #000000;
@@ -79,10 +48,9 @@
 	position: absolute;
 	width: 200px;
 	z-index: 2;
-	left: 137px;
-	top: 87px;
+	left: 222px;
+	top: 108px;
 	background-color: #830330;
-	layer-background-color: #FFFFFF;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #000000;
@@ -93,10 +61,9 @@
 	position: absolute;
 	width: 200px;
 	z-index: 3;
-	left: 294px;
-	top: 93px;
+	left: 384px;
+	top: 115px;
 	background-color: #830330;
-	layer-background-color: #FFFFFF;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #000000;
@@ -107,10 +74,9 @@
 	position: absolute;
 	width: 200px;
 	z-index: 3;
-	left: 294px;
-	top: 110px;
+	left: 384px;
+	top: 131px;
 	background-color: #830330;
-	layer-background-color: #FFFFFF;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #000000;
@@ -121,25 +87,35 @@
 	position: absolute;
 	width: 200px;
 	z-index: 2;
-	left: 270px;
-	top: 87px;
+	left: 430px;
+	top: 108px;
 	background-color: #830330;
-	layer-background-color: #FFFFFF;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #000000;
 	visibility: hidden;
 }
 
+.divdepts { 
+	position: absolute;
+	width: 200px;
+	z-index: 6;
+	left: 590px;
+	top: 116px;
+	background-color: #830330;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	visibility: hidden;
+}
 
 .stuser { 
 	position: absolute;
 	width: 200px;
 	z-index: 2;
-	left: 500px;
-	top: 87px;
+	left: 600px;
+	top: 108px;
 	background-color: #830330;
-	layer-background-color: #FFFFFF;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #000000;
@@ -147,28 +123,18 @@
 }
 
 </style>
+
 <script language="JavaScript">
 
 var nameDivs = new Array(
-	'clearlayers',
-	'homeDe',
 	'about',
 	'apply',
 	'adinfo',
 	'reginfo',
 	'clas',
+	'divdepts',
 	'stuser');
 	
-
-function allElse()
-{
-	for (i = 0; i < nameDivs.length; i++)
-	{
-	 	document[nameDivs[i]].visibility = "hide";
-	}
-	
-	return;
-}
 
 function everyonElse(currentLayer, parentLayer, childLayer)
 {
@@ -188,42 +154,6 @@ function everyonElse(currentLayer, parentLayer, childLayer)
 	}
 	
 	document.clearlayers.visibility = "show";
-}
-
-// Home
-function showhome()
-{	
-	if (document.all)
-	{
-		homeDe.style.visibility = "visible";
-	}
-	else if (document.layers)
-	{
-		document.homeDe.visibility = "show";
-		everyonElse('homeDe');
-	}
-	else
-	{
-		var temp = document.getElementById('homeDe');
-		temp.style.visibility = "visible";
-	}
-}
-
-function hidehome()
-{	
-	if (document.all)
-	{
-		homeDe.style.visibility = "hidden";
-	}
-	else if (document.layers)
-	{
-		everyonElse('homeDe');
-	}
-	else
-	{
-		var temp = document.getElementById('homeDe');
-		temp.style.visibility = "hidden";
-	}
 }
 
 // About
@@ -418,6 +348,49 @@ function hideclas()
 	}
 }
 
+// Course Information > Divisions and Departments
+function showdivdepts()
+{	
+	if (document.all)
+	{
+		clas.style.visibility = "visible";
+		divdepts.style.visibility = "visible";
+	}
+	else if (document.layers)
+	{
+		document.divdepts.visibility = "show";
+		everyonElse('clas','divdepts');
+	}
+	else
+	{
+		var temp = document.getElementById('clas');
+		temp.style.visibility = "visible";
+		var temp2 = document.getElementById('divdepts');
+		temp2.style.visibility = "visible";
+	}
+}
+
+function hidedivdepts(hidechild)
+{	
+	if (document.all)
+	{
+		clas.style.visibility = "hidden";
+		divdepts.style.visibility = "hidden";
+	}
+	else if (document.layers)
+	{
+		everyonElse('clas','divdepts', hidechild);
+	}
+	else
+	{
+		var temp = document.getElementById('clas');
+		temp.style.visibility = "hidden";
+		var temp = document.getElementById('divdepts');
+		temp.style.visibility = "hidden";
+	}
+}
+
+
 // Student Services
 function showstuser()
 {	
@@ -454,43 +427,8 @@ function hidestuser()
 	}
 }
 
-</script></head><body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div class="clearlayers" id="clearlayers" name="clearlayers">
-	<center><a class="menu" href="javascript:allElse();">Clear Menus</a></center>
-</div>
-
-<!-- Home -->
-<div class="homeDe" id="homeDe" name="homeDe" onmouseover="showhome();" onmouseout="hidehome();">
-	<table border="0" cellpadding="1" cellspacing="1" width="100%">
-	<tbody><tr>
-		<td>
-			<a class="menu" href="/students/">Students</a>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a class="menu" href="/parents/">Parents</a>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a class="menu" href="/friends/">Friends and Visitors</a>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a class="menu" href="/business/">Business Community</a>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a class="menu" href="/faculty/">Faculty and Staff</a>
-		</td>
-	</tr>
-	</tbody></table>
-</div>
-
-<!-- About -->
-<div class="about" id="about" name="about" onmouseover="showabout();" onmouseout="hideabout();">
+</script><!-- About -->
+</head><body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div class="about" id="about" name="about" onmouseover="showabout();" onmouseout="hideabout();">
 	<table border="0" cellpadding="1" cellspacing="1" width="100%">
 	<tbody><tr>
 		<td>
@@ -506,10 +444,11 @@ function hidestuser()
 		<td>
 			<a class="menu" href="/about/mission.html">De Anza's Mission</a>
 		</td>
-	</tr><tr>
+	</tr>	
+	<tr>
 		<td>
 			<a class="menu" href="/about/accreditation/">Accreditation</a>
-		</td>	
+		</td>
 	</tr><tr>
 		<td>
 			<a class="menu" href="/about/facts.html">De Anza Fast Facts</a>
@@ -519,7 +458,6 @@ function hidestuser()
 		<td>
 			<a class="menu" href="/map/">Campus Map</a>
 		</td>
-
 	</tr>
 	<tr>
 		<td>
@@ -545,7 +483,7 @@ function hidestuser()
 		<td>
 			<a class="menu" href="/instruction/">Office of Instruction</a>
 		</td>
-	</tr>
+	</tr>	
 	<tr>
 		<td>
 			<a class="menu" href="/about/jobs.html">Job Opportunities</a>
@@ -634,7 +572,7 @@ function hidestuser()
 	</tr>
 	<tr>
 		<td colspan="2">
-			<a class="menu" href="/registration/myinfo.html">Register for Classes Online</a>
+			<a class="menu" href="/registration/myinfo.html">Apply &amp; Register for Classes</a>
 		</td>
 	</tr>
 	<tr>
@@ -650,7 +588,7 @@ function hidestuser()
 	<table border="0" cellpadding="1" cellspacing="1" width="100%">
 	<tbody><tr>
 		<td>
-			<a class="menu" href="/admissions/getstarted.html">Getting Started</a>
+			<a class="menu" href="/admissions/getstarted.html">How to Apply and Register</a>
 		</td>
 	</tr>
 	<tr>
@@ -723,6 +661,15 @@ function hidestuser()
 	<table border="0" cellpadding="1" cellspacing="1" width="100%">
 	<tbody><tr>
 		<td>
+			<span class="menu"><a class="menu" href="/directory/dir-depts.html">Instructional Divisions &amp; Depts.</a></span>
+		</td>
+		<td align="left" valign="middle" width="15">
+			<a href="" onmouseover="showdivdepts();" onmouseout="hidedivdepts();"><img src="/template/standard/images/tri.gif" border="0" width="15" height="15" alt="right arrow" align="absmiddle"></a>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
 			<a class="menu" href="/schedule/">Schedule of Classes</a>
 		</td>
 	</tr>
@@ -762,9 +709,66 @@ function hidestuser()
 			<a class="menu" href="http://communityeducation.fhda.edu/">Community Ed. Short Courses</a>
 		</td>
 	</tr>
+	</tbody></table>
+</div>
+
+<!-- Course Information Divisions -->
+<div class="divdepts" id="divdepts" name="divdepts" onmouseover="showdivdepts();" onmouseout="hidedivdepts();">
+	<table border="0" cellpadding="1" cellspacing="1" width="100%">
+	<tbody><tr>
+		<td>
+			<a class="menu" href="/appliedtech/">Applied Technologies</a>
+		</td>
+	</tr>
+	
 	<tr>
 		<td>
-			<a class="menu" href="/directory/dir-depts.html">Instructional Divisions &amp; Depts.</a>
+			<a class="menu" href="http://bhs.deanza.edu/"> Biological, Health and Environmental Sciences</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/buscis/"> Business/Computer Systems</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/counseling/">Counseling</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/creativearts/">Creative Arts</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="http://group.deanza.edu/languagearts/">Language Arts</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/library/">Library Services</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/pe/">Physical Education/Athletics</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="http://nebula.deanza.edu/">Physical Science/Math/Engineering</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/socialsciences/">Social Sciences and Humanities</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/specialed/">Special Education</a>
 		</td>
 	</tr>
 	</tbody></table>
@@ -775,7 +779,7 @@ function hidestuser()
 	<table border="0" cellpadding="1" cellspacing="1" width="100%">
 	<tbody><tr>
 		<td>
-			<a class="menu" href="/counseling/">Counseling and Advising</a>
+			<a class="menu" href="/admissions/contact.html">Admissions and Records</a>
 		</td>
 	</tr>			
 	<tr>
@@ -785,16 +789,58 @@ function hidestuser()
 	</tr>
 	<tr>
 		<td>
-			<a class="menu" href="/admissions/contact.html">Admissions and Records</a>
+			<a class="menu" href="/studentservices/career/">Career &amp; Employment Services</a>
 		</td>
-	</tr><tr>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/child/">Child Care</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/counseling/">Counseling and Advising</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/diningservices/">Dining Services</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/specialed/">Disability Support Services</a>
+		</td>
+	</tr>
+			
+	<tr>
+		<td>
+			<a class="menu" href="/academicsupport/">EOPS, LinC, RENEW, SSRSC, Tutorial, Writing &amp; Reading...</a>
+		</td>
+	</tr>		
+	<tr>
 		<td>
 			<a class="menu" href="/financialaid/">Financial Aid</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/healthservices/">Health Services</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/honors/">Honors Program</a>
 		</td>
 	</tr>		
 	<tr>
 		<td>
 			<a class="menu" href="/admissions/placement/">Placement Tests</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a class="menu" href="/studentactivities/">Student Activities</a>
 		</td>
 	</tr>
 	<tr>
@@ -807,46 +853,7 @@ function hidestuser()
 			<a class="menu" href="/transfer/">Transfer Planning</a>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a class="menu" href="/studentactivities/">Student Activities</a>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a class="menu" href="/healthservices/">Health Services</a>
-		</td>
-	</tr>		
-	<tr>
-		<td>
-			<a class="menu" href="/studentservices/career/">Career &amp; Employment Services</a>
-		</td>
-	</tr>	
-	<tr>
-		<td>
-			<a class="menu" href="/specialed/">Disability Support Services</a>
-		</td>
-	</tr>		
-	<tr>
-		<td>
-			<a class="menu" href="/diningservices/">Dining Services</a>
-		</td>
-	</tr>		
-	<tr>
-		<td>
-			<a class="menu" href="/child/">Child Care</a>
-		</td>
-	</tr>		
-	<tr>
-		<td>
-			<a class="menu" href="/honors/">Honors Program</a>
-		</td>
-	</tr>		
-	<tr>
-		<td>
-			<a class="menu" href="/academicsupport/">EOPS, LinC, SSRSC,  Tutorial...</a>
-		</td>
-	</tr>
+									
 	
 	</tbody></table>
 </div>
@@ -858,72 +865,45 @@ function hidestuser()
 
 
 
+<map name="navbar3t">
+<area shape="rect" coords="720,11,789,30" href="/friends/" alt="Friends and Community">
+<area shape="rect" coords="640,11,709,30" href="/faculty/" alt="Faculty and Staff">
+<area shape="rect" coords="560,11,629,30" href="/international/" alt="International Students">
+<area shape="rect" coords="470,11,549,30" href="/gettingstarted/" alt="Future Students">
+<area shape="rect" coords="390,11,469,30" href="/students/" alt="Current Students">
+<area shape="rect" coords="680,31,799,54" href="/studentservices/" onmouseover="showstuser();" onmouseout="hidestuser();" alt="Student Services">
+<area shape="rect" coords="590,31,679,54" href="/library/" alt="Library">
+<area shape="rect" coords="430,31,589,54" href="/courseinfo/" onmouseover="showclas();" onmouseout="hideclas();" alt="Course Information">
+<area shape="rect" coords="220,31,429,54" href="/admissions/appregmenu.html" onmouseover="showapply();" onmouseout="hideapply();" alt="Admissions and Registration">
+<area shape="rect" coords="80,31,219,54" href="/about/" onmouseover="showabout();" onmouseout="hideabout();" alt="About De Anza">
+<area shape="rect" coords="0,31,79,54" href="/" alt="Home">
+</map>
+<table border="0" width="800" cellpadding="0" cellspacing="0" bgcolor="white">
+<tbody><tr>
+<td width="125" align="left" valign="top">
+<a href="/"><img src="/images/dalogow.jpg" width="119" height="54" alt="De Anza College" border="0"></a>
+</td><form name="search" method="get" action="http://gsearch.fhda.edu/search"></form>
+<td width="675" align="right" valign="middle">
+<font size="2"><b><a href="/news/">News</a>&nbsp;•&nbsp;<a href="/eventscalendar/">Events</a>&nbsp;•&nbsp;<a href="/directory/dir-az.html">Site Index</a>&nbsp;•&nbsp;<a href="/directory/">Directories</a>&nbsp;•&nbsp;<a href="/comment.html">Contact Us</a> &nbsp; &nbsp; </b></font>
+	<input type="hidden" name="site" value="Main_Crawl">
+	<input type="hidden" name="client" value="Main_Crawl">
+	<input type="hidden" name="proxystylesheet" value="Main_Crawl">
+	<input type="hidden" name="output" value="xml_no_dtd">
+	<font size="2"><b><a href="/searchcenter/">Search</a>:</b> <input type="text" size="20" name="q">
+	<input type="image" name="btnG" src="/images/ndgo3tw.gif" width="22" height="22" alt="Search"></font> 
+</td></tr></tbody></table><img src="/images/navbarwhite3T.gif" width="800" height="55" alt="Global Navigation" usemap="#navbar3t" border="0"><br>
+<table border="0" width="800" cellspacing="0" cellpadding="0" summary="Main Content"><tbody><tr valign="top">
+<td width="10" bgcolor="#fcf0d2">&nbsp;<br></td>
+<td width="180" bgcolor="#fcf0d2"><br>
+<p class="leftnav">
 
-<script language="JavaScript">
-<!--
-	var netname = navigator.appName;
-	var netver = navigator.appVersion;
-	var numberelement = netver.substring(0,1);
-	if ( (netname == "Netscape") && (numberelement == '4') )
-	{
-		document.write("<a href='javascript:allElse()'>Clear Menus</a>");
-	}	
-//-->
-</script><table border="0" width="700" cellspacing="0" cellpadding="0"><tbody><tr>
-	<td width="188"><a href="/"><img src="/template/standard/images/logo3.gif" width="188" height="69" alt="Back to De Anza College Home" border="0"></a></td>
-	<td align="center" class="hpmisc">
-		<form name="search" method="get" action="http://gsearch.fhda.edu/search">
-		<input type="hidden" name="site" value="Main_Crawl">
-		<input type="hidden" name="client" value="Main_Crawl">
-		<input type="hidden" name="proxystylesheet" value="Main_Crawl">
-		<input type="hidden" name="output" value="xml_no_dtd">
-		<font size="2"><b><a href="/searchcenter/">Search</a>:</b> <input type="text" size="20" name="q">
-		<!-- <input class="searchbut" type="submit" name="btnG" value="Search" /> -->
-		<input type="image" name="btnG" src="/template/standard/images/go.gif" width="18" height="18" alt="Search">
-		<br>
-		<font size="2"><a href="/directory/dir-az.html">Site Index</a> • <a href="/directory/">Directories</a> • 
-		<a href="/comment.html">Contact Us</a>
-		
-	</font></font></form></td>
-	<td valign="bottom" align="right" class="hpmisc"><table width="135" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td width="10">&nbsp;</td>
-			<td align="center" valign="bottom" width="115"><img src="/images/today_title.gif" width="91" height="14" alt="Today at De Anza"></td>
-			<td width="10">&nbsp;</td>
-		</tr>
-		<tr>
-			<td width="10"><img src="/images/today_tl.gif" width="10" height="10" alt=""></td>
-			<td background="/images/today_t.gif" width="115" alt=""><img src="/images/today_t.gif" width="2" height="10" alt=""></td>
-			<td width="10"><img src="/images/today_tr.gif" width="10" height="10" alt=""></td>
-		</tr>
-		<tr>
-			<td background="/images/today_l.gif" width="10" alt=""><img src="/images/today_l.gif" width="10" height="2" alt=""></td>
-			<td width="115" align="center" class="hpmisc" bgcolor="#FFFFFF"> 
-				March 8, 2005				<br>
-			<a href="/news">NEWS</a>&nbsp;&nbsp;&nbsp;<a href="/eventscalendar/">EVENTS</a></td>
-			<td background="/images/today_r.gif" width="10" alt=""><img src="/images/today_r.gif" width="10" height="2" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr></tbody></table><table border="0" width="700" cellspacing="0" cellpadding="0"><tbody><tr>
-<td class="bar"><a href="/" onmouseover="showhome();" onmouseout="hidehome();"><img src="/template/standard/images/homeREV.gif" width="60" height="19" alt="Home" border="0"></a></td>
-<td class="bar"><a href="/about/" onmouseover="showabout();" onmouseout="hideabout();"><img src="/template/standard/images/aboutREV.gif" width="80" height="19" alt="About De Anza" border="0"></a></td>
-<td class="bar"><a href="/admissions/appregmenu.html" onmouseover="showapply();" onmouseout="hideapply();"><img src="/template/standard/images/applyregREV.gif" width="130" height="19" alt="Apply &amp; Register" border="0"></a></td>
-<td class="bar"><a href="/courseinfo" onmouseover="showclas();" onmouseout="hideclas();"><img src="/template/standard/images/courseinfoREV.gif" width="140" height="19" alt="Course Information" border="0"></a></td>
-<td class="bar"><a href="/international/"><img src="/template/standard/images/internaREV.gif" width="110" height="19" alt="International Students" border="0"></a></td>
-<td class="bar"><a href="/library/"><img src="/template/standard/images/libREV.gif" width="70" height="19" alt="Library" border="0"></a></td>
-<td class="bar"><a href="/studentservices/" onmouseover="showstuser();" onmouseout="hidestuser();"><img src="/template/standard/images/studservREV.gif" width="110" height="19" alt="Student Services" border="0"></a></td>
-</tr></tbody></table><table border="0" width="700" cellspacing="0" cellpadding="0"><tbody><tr>
-	<td width="10" bgcolor="#fcf0d2">&nbsp;<br></td>
-	<td width="180" bgcolor="#fcf0d2"><img src="/template/standard/images/spacer.gif" width="180" height="1" alt=""></td>
-	<td width="10" bgcolor="#ffffff">&nbsp;&nbsp;<br></td>
-	<td align="center" width="500"><img src="/template/standard/images/spacer.gif" width="500" height="1" alt=""></td>
-</tr><tr valign="top">
-	<td width="10" bgcolor="#fcf0d2">&nbsp;<br></td>
-	<td width="180" bgcolor="#fcf0d2"><p class="leftnav"><a href="/policies/">De Anza Policies Home</a><br>
-<br></p><br></td>
-	<td width="10" bgcolor="#ffffff">&nbsp;</td>
-    <td width="500">
+<a href="/policies/">De Anza Policies Home</a><br>
+<br>
+</p><br></td>
+<td width="10" bgcolor="#ffffff">&nbsp;</td>
+<td width="600">
+<br>
+
 <!-- ----- Do Not Edit Above This Line ----- -->
 
 <!-- ----- CONTENT BEGINS ----- -->
@@ -973,24 +953,19 @@ function hidestuser()
     to divulge more information than is needed to participate in the activity.
 </li></ol>
   
-<b>Contacting Us</b><br>
-If you have any questions about this privacy statement, please contact:<br>
-Terri O'Connor<br>
-  De Anza College<br>
-21250 Stevens Creek Boulevard<br>
-Cupertino, CA &nbsp; 95014<br>
-<a href="mailto:oconnorterri@fhda.edu">oconnorterri@fhda.edu</a><br>
+
   
-<p> 
+<p>&nbsp; </p>
+
   <!-- ----- CONTENT ENDS ----- -->
   <!-- ----- Do Not Edit Below This Line ----- -->
-      </p></td>
+      </td>
   </tr>
 </tbody></table>
-<table width="700" border="0" cellspacing="0" cellpadding="0">
+<table width="800" border="0" cellspacing="0" cellpadding="3" summary"text="" links"="">
   <tbody><tr> 
-    <td nowrap="" class="bar">Page updated: October 25, 2004</td>
-    <td nowrap="" align="right" class="bar">21250 Stevens Creek Blvd. Cupertino, CA 95014</td>
+    <td nowrap="" class="bar">Page updated: November 9, 2005</td>
+    <td nowrap="" align="right" class="bar">We'll change your life. You'll change the world.</td>
   </tr>
   <tr>
   	<td colspan="2">&nbsp;</td>
@@ -998,18 +973,16 @@ Cupertino, CA &nbsp; 95014<br>
   <tr>
   	<td colspan="2" align="center">
 	<p class="smlink">
-	[ <a class="smlink" href="/students">Students</a>] &nbsp; [ <a class="smlink" href="/parents">Parents</a> ] &nbsp; [ <a class="smlink" href="/friends">Friends 
-	and Visitors</a> ] &nbsp; [ <a class="smlink" href="/business">Business Community</a> ] &nbsp; [ <a class="smlink" href="/faculty">Faculty and Staff</a> ]
-	<br>
-
-	[ <a class="smlink" href="/">Home</a> ] &nbsp; [ <a class="smlink" href="/about">About De Anza</a> ] &nbsp; [ <a class="smlink" href="/registration/myinfo.html">Apply &amp; Register</a> ] 
-	&nbsp; [ <a class="smlink" href="/admissions">Course Information</a> ] &nbsp; [ <a class="smlink" href="/international">International</a> ] &nbsp; [ <a class="smlink" href="/library">Library</a> ] &nbsp; [ <a class="smlink" href="/studentservices">Student Services</a> ]
-	</p>
-  	</td>
+        [ <a class="smlink" href="/students/">Current Students</a>] &nbsp; [ <a class="smlink" href="/gettingstarted/">Future Students &amp; Parents</a> ] &nbsp;
+        [ <a class="smlink" href="/international/">International Students</a> ] &nbsp; [ <a class="smlink" href="/faculty/">Faculty and Staff</a> ] &nbsp; [<a class="smlink" href="/friends/">Friends &amp; Community</a> ]
+        <br>
+        [ <a class="smlink" href="/about">About De Anza</a> ] &nbsp; [ <a class="smlink" href="/admissions/appregmenu.html">Admissions &amp; Registration</a> ] &nbsp; [ <a class="smlink" href="/courseinfo/">Course Information</a> ] &nbsp; [ <a class="smlink" href="/library/">Library</a> ] &nbsp; [ <a class="smlink" href="/studentservices/">Student Services</a> ]
+        </p>
+        <p class="smlink"><a href="/policies/privacy.html">Privacy Statement</a></p>
+        </td>
   </tr>
 </tbody></table>
 <br><br>
-<p></p>
 
 
 
