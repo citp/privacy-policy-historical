@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concur.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403184018id_/http%3A//www.concur.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concur.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224012226id_/http%3A//www.concur.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Concur Technologies, Inc. Privacy Policy
 
@@ -20,7 +20,7 @@ We are committed to protecting the security of your personal information. We use
 If you have any questions or comments about this privacy statement or the practices of this site, you can contact: 
 
 Concur Technologies, Inc.  
-6222 185th Avenue NE  
+18400 NE Union Hill Road  
 Redmond, WA 98052  
 USA  
 Attention: [webmaster@concur.com](mailto:webmaster@concur.com)
