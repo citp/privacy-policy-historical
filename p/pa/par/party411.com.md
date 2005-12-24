@@ -1,10 +1,29 @@
-> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209174249id_/http%3A//www.party411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224035450id_/http%3A//www.party411.com/privacy.html) for the most accurate reproduction.*
 
 # Party411 Privacy Policy
 
 • [Party411 Home](http://www.party411.com/index.html)  
 • [Using Party411](http://www.party411.com/using.html)  
 • [Party Advice](http://www.party411.com/party_advice.html)
+
+**Shop Online**  
+• [The Shops](http://www.party411.com/theshops.html)  
+    [@ Party411.com](http://www.party411.com/theshops.html)  
+• [Banner Guide](http://www.party411.com/bannerguide.html)  
+
+
+**Personalize Your Party**  
+• [Candy Bar Wrappers](http://www.party411.com/custom-wrappers.html)  
+• [Life-Sized Cutouts](http://www.party411.com/custom-cutouts.html)  
+• [Caricatures](http://www.party411.com/caricature.html)  
+• [Invitations](http://www.party411.com/custom-invitations.html)  
+• [Sign-In Boards and](http://www.party411.com/custom-signin.html)  
+    [Sign-In Books](http://www.party411.com/sign-in-books.html)  
+• [Centerpieces](http://www.party411.com/custom-centerpieces.html)  
+• [Favors, Accessories](https://web.archive.org/web/20051224035450id_/http%3A//www.party411.com/custom-favors.html)  
+    [and more!](http://party411.makesparties.com/)  
+• [Custom Party Plans](http://www.party411.com/partyhelp.html)  
+• [Creations for You](http://www.party411.com/custom)
 
 **Plan Your Party**  
 • [Holidays & Events](http://www.party411.com/holidays.html)  
@@ -16,31 +35,12 @@
 • [PartyMenu411](http://www.party411.com/partymenu.html)  
 • [Planning Guides](http://www.party411.com/guides.html)
 
-**Personalize Your Party**  
-• [Creations for You](http://www.party411.com/custom)  
-• [Invitations](http://www.party411.com/custom-invitations.html)  
-• [Candy Bar Wrappers](http://www.party411.com/custom-wrappers.html)  
-• [Caricatures](http://www.party411.com/caricature.html)  
-• [Signs and Sign-In](http://www.party411.com/custom-signin.html)  
-    [Boards](http://www.party411.com/custom-signin.html)  
-• [Life-Sized Cutouts](http://www.party411.com/custom-cutouts.html)  
-• [Centerpieces](http://www.party411.com/custom-centerpieces.html)  
-• [Favors, Accessories](https://web.archive.org/web/20041209174249id_/http%3A//www.party411.com/custom-favors.html)  
-    [and more!](http://party411.makesparties.com/)  
-• [Custom Party Plans](http://www.party411.com/partyhelp.html)
-
-**Shop Online**  
-• [The Shops](http://www.party411.com/theshops.html)  
-    [@ Party411.com](http://www.party411.com/theshops.html)  
-• [Banner Guide](http://www.party411.com/bannerguide.html)  
-
-
 **Expert Advice**  
 • [Corporate Consultant](mailto:corporateconsultant@party411.com?subject=Party411%20Corporate%20Event%20Advice&cc=beth@party411.com)  
 • [The Party Girl](http://www.party411.com/advice.html)  
 • [The Etiquette Queen](http://www.party411.com/queen.html)  
 • [The Game Girl](http://www.party411.com/gamegirl.html)  
-• [Invitation Diva](mailto:partygirl@aprty411.com)  
+• [Invitation Diva](mailto:partygirl@party411.com)  
 • [Fashion Queen](http://www.party411.com/fashion.html)  
 • [The Party Doctor](http://www.party411.com/doctor.html)  
 • [Party FAQs](http://www.party411.com/faq.html)  
@@ -51,6 +51,7 @@
 • [Door Prizes ](http://www.party411.com/guestbook.html)  
 • [Discussion Forums](http://www.party411.com/forums.html)  
 • [Your Parties](http://www.party411.com/yourparties.html)  
+• [About Party411](http://www.party411.com/about-overview.html)  
 • [Advertising](http://www.party411.com/advertising.html)  
     [Opportunities](http://www.party411.com/advertising.html)
 
@@ -62,7 +63,7 @@
 
 Our site uses cookies to keep track of the city you are from, and only during the current website visit. 
 
-Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20041209174249id_/http%3A//www.party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
+Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20051224035450id_/http%3A//www.party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
 
 This site contains links to other sites. **Party411.com** is not responsible for the privacy practices or the content of such Web sites. 
 
@@ -113,5 +114,5 @@ If you have any questions about this privacy statement, the practices of this si
   
   
 **Toll Free Party Line 1-877-514-8411.**  
-© 2004 411Unlimited, LLC. All rights reserved.  
+© 2020 411Unlimited, LLC. All rights reserved.  
 powered by [dynamics online](http://www.dynamicsonline.com/)
