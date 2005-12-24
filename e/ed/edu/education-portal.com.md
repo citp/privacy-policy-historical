@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the education-portal.com privacy policy that was archived on 2005-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050225023346id_/http%3A//education-portal.com/pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education-portal.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224211650id_/http%3A//education-portal.com/pages/privacy_policy.html) for the most accurate reproduction.*
 
 # -- Education-Portal.com --
-
-[](https://web.archive.org/index.html)
 
 ### Education-Portal.com Privacy Policy
 
