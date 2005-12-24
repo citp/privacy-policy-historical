@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegames.ws privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213334id_/http%3A//www.freegames.ws/freegames_legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames.ws privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224110422id_/http%3A//www.freegames.ws/freegames_legal/privacy_policy.htm) for the most accurate reproduction.*
 
 # Computer Games at freegames.ws - Play online arcade, board, puzzles, 3D car games for free
 
