@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the quakeroats.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603000937id_/http%3A//quakeroats.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quakeroats.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225000140id_/http%3A//www.quakeroats.com/Privacy.cfm) for the most accurate reproduction.*
 
 # Quaker's Privacy Policy
+
+Effective Date: July 1, 2004
 
 This web site is operated by Quaker, a unit of PepsiCo Beverages & Foods. We recognize that many visitors to our site are concerned about the information they provide to us, and how we treat that information. Our goal at Quaker, a unit of PepsiCo Beverages & Foods, is to provide safe entertainment and education for you and your kids. Please read on to learn about our Privacy Policy.
 
