@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hagerty.com privacy policy that was archived on 2004-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041009162754id_/http%3A//www.hagerty.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hagerty.com privacy policy that was archived on 2005-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051224183351id_/http%3A//www.hagerty.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -32,7 +32,14 @@
 
     </script>
 
-    
+    <script language="JavaScript" type="text/JavaScript">
+<!-- Site Nav Dropdown
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
 	
 	<!-- This is the rollover script for the "Site Icons" -->
 	<script type="text/javascript">
@@ -45,26 +52,26 @@
 *		Keep this notice intact to use it :-)
 ****************************************************/
 
-function init() {
-  if (!document.getElementById) return
-  var imgOriginSrc;
-  var imgTemp = new Array();
-  var imgarr = document.getElementsByTagName('img');
-  for (var i = 0; i < imgarr.length; i++) {
-    if (imgarr[i].getAttribute('hsrc')) {
-        imgTemp[i] = new Image();
-        imgTemp[i].src = imgarr[i].getAttribute('hsrc');
-        imgarr[i].onmouseover = function() {
-            imgOriginSrc = this.getAttribute('src');
-            this.setAttribute('src',this.getAttribute('hsrc'))
-        }
-        imgarr[i].onmouseout = function() {
-            this.setAttribute('src',imgOriginSrc)
-        }
-    }
-  }
-}
-onload=init;
+//function init() {
+//  if (!document.getElementById) return
+//  var imgOriginSrc;
+//  var imgTemp = new Array();
+//  var imgarr = document.getElementsByTagName('img');
+//  for (var i = 0; i < imgarr.length; i++) {
+//   if (imgarr[i].getAttribute('hsrc')) {
+//        imgTemp[i] = new Image();
+//        imgTemp[i].src = imgarr[i].getAttribute('hsrc');
+//        imgarr[i].onmouseover = function() {
+//            imgOriginSrc = this.getAttribute('src');
+//            this.setAttribute('src',this.getAttribute('hsrc'))
+//        }
+//        imgarr[i].onmouseout = function() {
+//            this.setAttribute('src',imgOriginSrc)
+//        }
+//    }
+//  }
+//}
+//onload=init;
 
 
 /*
@@ -96,22 +103,29 @@ win = window.open(mypage,myname,settings)
 		<!-- Insert Header -->
 
 		
-		<!-- AGENT SITE HEADER -->
-
 		<table width="100%" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 				<td rowspan="2"><img src="/images/top_left_logo.gif" width="159" height="85" alt="Hagerty Insurance" border="0" usemap="#logoLink"></td>
-				<td rowspan="2"><img src="images/" width="405" height="85" alt=""></td>
-				<td colspan="5" background="images/top_fill.gif"><img src="images/spacer.gif" height="43" alt=""></td>
-				<td width="100%" rowspan="2" background="images/top_nav_fill.gif">&nbsp;</td>
+				<td rowspan="2"><img src="/images/gi_tag.gif" width="360" height="85" alt=""></td>
+				<td height="39" align="right" background="/images/top_fill.gif">&nbsp;</td>
+				<td width="100%" rowspan="2" background="/images/top_nav_fill.gif">&nbsp;</td>
 			</tr>
 			<tr>
-				<td><a href="http://www.hagerty.com/vehicle_index.asp"><img src="/images/icon_auto.gif" hsrc="/images/icon_auto_over.gif" width="42" height="42" border="0" alt="Auto"></a></td>
-				<td><a href="http://www.hagerty.com/aspnet/marine/marine_index.aspx"><img src="/images/icon_boat.gif" hsrc="/images/icon_boat_over.gif" width="42" height="42" border="0" alt="Marine"></a></td>
-				<td><a href="http://www.hagertyagent.com/agent_index.asp"><img src="/images/icon_agent_over.gif" width="42" height="42" border="0" alt="Agents Only"></a></td>
-				<td><a href="http://www.hagerty.com/hpn_index.asp"><img src="/images/icon_hpn.gif" hsrc="/images/icon_hpn_over.gif" width="42" height="42" border="0" alt="Hagerty Protection Network"></a></td>
-				<td><a href="http://www.hagertyfund.org"><img src="/images/icon_hfund.gif" hsrc="/images/icon_hfund_over.gif" width="42" height="42" border="0" alt="Hagerty Fund"></a></td>
-			</tr>
+				<td height="46" align="right" valign="top" style="padding-left: 54px; background-image: url(/images/top_nav_fill.gif); background-position: bottom;">	  
+				<form name="Jump">
+				  <select name="JumpSites" style="border: 1px solid #104361; background-color: #E8ECEF" onchange="MM_jumpMenu('parent',this,1)">
+					<option value="#">-- Hagerty Web Sites Quick Link --</option>
+					<option value="http://www.hagerty.com/vehicle_index.asp">Auto</option>
+					<option value="http://www.hagerty.com/ASPNET/Marine/marine_index.aspx">Marine</option>
+					<option value="http://www.hagertyagent.com">Agents</option>
+					<option value="http://www.hagerty.com/hpn_index.asp">Hagerty Protection Network</option>
+					<option value="http://www.collectorsfoundation.org">Collectors Foundation</option>
+					<option value="http://shop.hagerty.com">Hagerty Store</option>
+					<option value="http://www.hagerty.com/finance/default.asp">Hagerty Finance</option>
+				  </select>
+				</form>
+				</td>
+		</tr>
 		</tbody></table>
 
 		<map name="logoLink" id="logoLink">
@@ -209,7 +223,7 @@ win = window.open(mypage,myname,settings)
 
 				    <script language="javascript">
 
-             function verify(f) {
+             function verify2(f) {
 
                       var msg;
                       var empty_fields = "";
@@ -244,9 +258,9 @@ win = window.open(mypage,myname,settings)
 
 <table width="182" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td colspan="2"><img src="../../images/form_quote.gif" width="182" height="49" alt=""></td>
+		<td colspan="2"><img src="/images/form_quote.gif" width="182" height="49" alt=""></td>
 	</tr>
-	<form name="quoteForm" action="../../vehicle_quote_rl.asp?aff=&amp;Broker=" method="post" onsubmit="return verify(this);"></form>
+	<form name="quoteForm" id="quoteForm" action="/vehicle_quote_rl.asp?aff=&amp;Broker=" method="post" onsubmit="return verify2(this);"></form>
 		<tr bgcolor="#c7d0d5">
 			<td width="114" style="padding-left: 18px;"><font class="quoteTxt">How Many Vehicles?</font></td>
 			<td align="right" style="padding-right: 10px;">
@@ -325,14 +339,14 @@ win = window.open(mypage,myname,settings)
 			</td>
 		</tr>
 		<tr bgcolor="#c7d0d5">
-			<td colspan="2" align="center" style="padding-top: 5px;"><input type="image" src="images/btn_continue.gif" width="98" height="24" border="0"></td>
+			<td colspan="2" align="center" style="padding-top: 5px;"><input type="image" src="/images/btn_continue.gif" width="98" height="24" border="0"></td>
 		</tr>
 		<tr bgcolor="#c7d0d5">
-			<td colspan="2" align="center" style="padding-top: 5px;"><a href="direct_policy_search.asp" class="quoteLnk">MANAGE 
+			<td colspan="2" align="center" style="padding-top: 5px;"><a href="/direct_policy_search.asp" class="quoteLnk">MANAGE 
 					YOUR POLICY</a></td>
 		</tr>
 		<tr bgcolor="#c7d0d5">
-			<td colspan="2" align="center" style="padding-top: 5px;"><a href="vehicle_apply_online.asp" class="quoteLnk">PREVIOUS 
+			<td colspan="2" align="center" style="padding-top: 5px;"><a href="/vehicle_apply_online.asp" class="quoteLnk">PREVIOUS 
 					APPLICATION</a></td>
 		</tr>
 		<tr bgcolor="#c7d0d5">
@@ -340,7 +354,7 @@ win = window.open(mypage,myname,settings)
 					CLICK HERE</a></td>
 		</tr>
 		<tr>
-			<td colspan="2"><img src="images/form_bottom.gif" width="182" height="24" alt=""></td>
+			<td colspan="2"><img src="/images/form_bottom.gif" width="182" height="24" alt=""></td>
 		</tr>
 	
 </tbody></table>
@@ -591,16 +605,54 @@ win = window.open(mypage,myname,settings)
 			<br style="font-size: 5px;">
 			<table width="100%" height="31" cellpadding="0" cellspacing="0" border="0" bgcolor="#A6B5BF">
 			  <tbody><tr>
-			    <td width="300" class="footer">&nbsp;&nbsp;&nbsp;
+			    <td class="footer">&nbsp;&nbsp;&nbsp;
 				  <a href="http://www.hagerty.com/aspnet/about/about_contactus.aspx" class="footer">CONTACT US</a> &nbsp; | &nbsp; 
 				  <a href="http://www.hagerty.com/aspnet/about/aboutus.aspx" class="footer">ABOUT US</a> &nbsp; | &nbsp; 
-				  <a href="http://www.hagerty.com/aspnet/about/about_newsroom.aspx" class="footer">PRESS</a> &nbsp; | &nbsp; 
-				  <a href="http://www.hagerty.com/legal.asp" class="footer">LEGAL</a>
+				  <a href="http://www.hagerty.com/about_newsroom.asp" class="footer">PRESS</a> &nbsp; | &nbsp; 
+				  <a href="http://www.hagerty.com/legal.asp" class="footer">LEGAL</a> &nbsp; | &nbsp;
+				  <a href="http://www.hagerty.com/privacy.asp" class="footer">PRIVACY</a> &nbsp; | &nbsp; 
+				  <a href="/news_jobs.asp" class="footer">CAREERS</a>
 				</td>
-				<td width="450" align="right" style="padding-right: 10px;"><font style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #104361; font-weight: bolder;">1.800.922.4050</font></td>
+				<td align="right" style="padding-right: 10px;"><font style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #104361; font-weight: bolder;">1.800.922.4050</font></td>
 				<td>&nbsp;</td>
 			  </tr>
 			</tbody></table>
+			
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- © 1999-2004 NetIQ Corporation. All rights reserved. -->
+<!-- V7.0 -->
+<!-- $DateTime: 2003/10/28 16:26:23 $ -->
+<script language="Javascript"><!--
+gVersion="1.0";
+//-->
+</script>
+<script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script>
+<script language="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</script>
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
+
+<script language="javascript" src="/assets/dcs.js"></script>
+
+<noscript>
+<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://sdc.hagerty.com/dcsxgipbpnumgoebhba2v43pe_3u6e/njs.gif?dcsuri=/nojavascript&WT.js=No">
+</noscript>
 
 
 	    </td>
