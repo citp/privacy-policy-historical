@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bighip.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404163809id_/http%3A//bighip.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighip.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224201918id_/http%3A//bighip.com/privacy.htm) for the most accurate reproduction.*
 
 # Big Hip: Email Marketing That Puts You In Control
 
