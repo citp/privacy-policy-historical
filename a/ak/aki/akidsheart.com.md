@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the akidsheart.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204073628id_/http%3A//akidsheart.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akidsheart.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224114941id_/http%3A//www.akidsheart.com/privacy.htm) for the most accurate reproduction.*
 
 # A Kids Heart
 
-A play and learn site with free resources for kids and their teachers  
-  
----  
-  
-[](https://web.archive.org/web/20041204073628id_/http%3A//akidsheart.com/index.html)[](https://web.archive.org/web/20041204073628id_/http%3A//akidsheart.com/index.html)  
-[Home](http://www.akidsheart.com/) [Bible](http://www.akidsheart.com/bible/bible.htm) [Holidays](http://www.akidsheart.com/holidays/holidays.htm) [Clip art](http://www.akidsheart.com/misc/clip.htm) [ Angels](http://www.akidsheart.com/angela/angela.htm) [Greeting Cards](http://www.akidsheart.com/misc/cardshop.htm) [Preschool](http://www.akidsheart.com/threer/lvl1/lvl1.htm) [Tools for Teachers](http://www.akidsheart.com/threer/ttools.htm)
+A play and learn site with free resources for kids and their teachers
+
+[](https://web.archive.org/web/20051224114941id_/http%3A//www.akidsheart.com/index.html)  
+[Home](http://www.akidsheart.com/) | [Bible](http://www.akidsheart.com/bible/bible.htm) | [Holidays](http://www.akidsheart.com/holidays/holidays.htm) | [Clip Art](http://www.akidsheart.com/misc/clip.htm) | [Angels](http://www.akidsheart.com/angela/angela.htm) | [Greeting Cards](http://www.akidsheart.com/misc/cardshop.htm) | [Preschool](http://www.akidsheart.com/threer/lvl1/lvl1.htm) | [Tools for Teachers](http://www.akidsheart.com/threer/ttools.htm) | [Usborne Books](http://ubah.com/Z1719)
 
 A Kid's Heart Privacy Policy
 
@@ -29,7 +27,7 @@ PO Box 292373
 Sacramento, CA  95829-2373  
 [Email](mailto:RoxieCarroll@aol.com)  
   
-[](https://web.archive.org/web/20041204073628id_/http%3A//akidsheart.com/threer/lvl1/lvl1.htm) [](https://web.archive.org/web/20041204073628id_/http%3A//akidsheart.com/holidays/holidays.htm) [](https://web.archive.org/web/20041204073628id_/http%3A//akidsheart.com/bible/bible.htm) [](https://web.archive.org/web/20041204073628id_/http%3A//akidsheart.com/misc/clip.htm) [](https://web.archive.org/web/20041204073628id_/http%3A//akidsheart.com/angela/angela.htm) [](https://web.archive.org/web/20041204073628id_/http%3A//akidsheart.com/misc/cardshop.htm)
+[](https://web.archive.org/web/20051224114941id_/http%3A//www.akidsheart.com/threer/lvl1/lvl1.htm) [](https://web.archive.org/web/20051224114941id_/http%3A//www.akidsheart.com/holidays/holidays.htm) [](https://web.archive.org/web/20051224114941id_/http%3A//www.akidsheart.com/bible/bible.htm) [](https://web.archive.org/web/20051224114941id_/http%3A//www.akidsheart.com/misc/clip.htm) [](https://web.archive.org/web/20051224114941id_/http%3A//www.akidsheart.com/angela/angela.htm) [](https://web.archive.org/web/20051224114941id_/http%3A//www.akidsheart.com/misc/cardshop.htm)
 
 ©A Kid's Heart
 
