@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616031303id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224030704id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
 
-# Web Privacy Policy
+# The University of Texas at Austin Web Privacy Policy
 
 The University of Texas at Austin is committed to ensuring the privacy and accuracy of your confidential information. We do not actively share personal information gathered from our Web servers. However, because The University of Texas at Austin is a public institution, some information collected from the UT Austin Web site, including the summary server log information, e-mails sent to the Web site, and information collected from Web-based forms, may be subject to the Texas Public Information Act. This means that while we do not actively share information, in some cases we may be compelled by law to release information gathered from our Web servers.
 
@@ -38,7 +38,7 @@ Our Web servers generate temporary logs that contain the following information:
 
 
 
-The data is used in aggregate by system administrators and Web content managers to tune the Web site for its efficiency and is not ordinarily associated with specific individuals. Raw data from the Web server logs is only shared with the content manager of each Web site. Summary reports produced from the logs help Web publishers determine what Web browsers and pages are most popular. For example, if the aggregate reports show a particular Web page is very popular or used more by freshmen than by seniors, we use this information to customize the content of that page and make it easier to find. An example of a sample report prepared from these server logs is available at <http://www.utexas.edu/wwwstats.html>. 
+The data is used in aggregate by system administrators and Web content managers to tune the Web site for its efficiency and is not ordinarily associated with specific individuals. Raw data from the Web server logs is only shared with the content manager of each Web site. Summary reports produced from the logs help Web publishers determine what Web browsers and pages are most popular. For example, if the aggregate reports show a particular Web page is very popular or used more by freshmen than by seniors, we use this information to customize the content of that page and make it easier to find. 
 
 ### Cookies
 
