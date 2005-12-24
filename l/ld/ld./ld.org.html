@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ld.org privacy policy that was archived on 2004-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602225710id_/http%3A//ld.org/LDInfoZone/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ld.org privacy policy that was archived on 2005-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051224024427id_/http%3A//www.ld.org/LDInfoZone/privacy.cfm) for the most accurate reproduction.-->
 
 <html><!-- InstanceBegin template="/Templates/advocacy.dwt.cfm" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -80,32 +80,18 @@
 				<a class="leftnav" href="#" onmouseover="layersShowOrHide('hidden','layer_LDInfoZone');
 					 layersShowOrHide('hidden','layer_LivingWithLD');
 					 layersShowOrHide('hidden','layer_StepsToAdvocacy');
-					 layersShowOrHide('visible','layer_SupportNCLD');">Donate Today</a><br>
+					 layersShowOrHide('visible','layer_SupportNCLD');">Become a FRIEND</a><br>
 				<img src="/images/spacer.gif" alt="blank spacer image" width="100" height="1"><br>
 				<font class="leftnavsubtext">Make a difference for<br>
-				those with LD.  Donate today.</font></td>
+				those with LD today.</font></td>
 		   </tr>
 		</tbody></table>
 
 
 <!-- end left side navigation table -->
 
-            <table width="175" border="0" cellspacing="0" cellpadding="7">
-              <tbody><tr> 
-                <td class="bodytext">Our work in strengthening public policy initiatives 
-                  that affect the lives of individuals with LD has been made possible 
-                  by the support of thousands of people as well as:</td>
-              </tr>
-              <tr> 
-                <td class="bodytext">• &nbsp;Charles and Helen<br> • 
-                  &nbsp;Schwab Foundation<br> • &nbsp;Emily Hall Tremaine<br> 
-                  &nbsp;&nbsp;&nbsp;Foundation</td>
-              </tr>
-              <tr> 
-                <td><p align="center" class="bodytext"><b>Please Make a <br>
-                    <a href="../friends/index.cfm">Contribution</a> Today</b></p></td>
-              </tr>
-            </tbody></table></td>
+            
+</td>
           <!-- InstanceEndEditable --> 
           <td valign="top" width="545"><img src="../images/Content_NCLD.gif" alt="National Center for Learning Disabilities: The power to hope, to learn, and to succeed"></td>
           <td><img src="../images/spacer.gif" alt="blank spacer image" width="195" height="1"></td>
@@ -404,12 +390,14 @@
 	
 		</div>
 
-  Copyright © 1999-2004 National Center for Learning Disabilities, Inc.  All Rights Reserved.<br><br></font>
+  Copyright © 1999-2005 National Center for Learning Disabilities, Inc.  All Rights Reserved.<br><br></font>
 
+
+<!-- Include Web Trends coding include file for stats tracking. -->
 <!-- START OF SmartSource Data Collector TAG -->
-<!-- © 1999-2003 NetIQ Corporation. All rights reserved. -->
-<!-- V6.1 -->
-<!-- $DateTime: 2003/09/30 11:23:29 $ -->
+<!-- © 1999-2004 NetIQ Corporation. All rights reserved. -->
+<!-- V7.0 -->
+<!-- $DateTime: 2003/10/28 16:26:23 $ -->
 <script language="Javascript"><!--
 gVersion="1.0";
 //-->
@@ -420,7 +408,7 @@ gVersion="1.1";
 </script>
 <script language="Javascript1.2"><!--
 gVersion="1.2";
-var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
 //-->
 </script>
 <script language="Javascript1.3"><!--
@@ -445,12 +433,24 @@ var DCSext=new Object();
 var gDomain="statse.webtrendslive.com";
 var gDcsId="dcs5fczm621e5hqlv3v5gidoe_2w4j";
 
+// WebTrends SmartSource Data Collector
+// © 1996-2004 NetIQ Corporation.  All rights reserved. 
+// $DateTime: 2004/05/03 13:43:43 $
+//************ Begin Event Extension Vars*********************
+var gTrkEvts = true;
+var gTrkOffsite = true;
+var gOnsiteDomains = "www.ld.org,www.ncld.org,ld.org,ncld.org";
+var gDownLoads = "xls,doc,pdf,txt,csv,zip,mp3,ppt";
+
+if (gTrkEvts) {
+	bindEvents();
+}
+//************ End Event Extension Vars*********************
+
+
 function dcsVar(){
 	var dCurrent=new Date();
 	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-	if (WT.tz==0){
-		WT.tz="0";
-	}
 	WT.bh=dCurrent.getHours();
 	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
 	if (typeof(screen)=="object"){
@@ -467,7 +467,6 @@ function dcsVar(){
 	if (typeof(gVersion)!="undefined"){
 		WT.jv=gVersion;
 	}
-	WT.sp="";
 	DCS.dcsdat=dCurrent.getTime();
 	DCS.dcssip=window.location.hostname;
 	DCS.dcsuri=window.location.pathname;
@@ -558,6 +557,73 @@ function dcsTag(){
 	dcsCreateImage(P);
 }
 
+function MultiTrack(){
+	for (var i=0;i<arguments.length;i++){
+		if (arguments[i].indexOf('WT.')==0){
+				WT[arguments[i].substring(3)]=arguments[i+1];
+				i++;
+		}
+		if (arguments[i].indexOf('DCS.')==0){
+				DCS[arguments[i].substring(4)]=arguments[i+1];
+				i++;
+		}
+		if (arguments[i].indexOf('DCSext.')==0){
+				DCSext[arguments[i].substring(7)]=arguments[i+1];
+				i++;
+		}
+	}
+	var dCurrent=new Date();
+	DCS.dcsdat=dCurrent.getTime();
+	dcsTag();
+}
+
+//**********Begin EVENT Extensions****************
+function bindEvents() {
+		if (document.body.addEventListener){
+			document.body.addEventListener("click", trkEvent, false);
+			}
+		else {
+			document.body.attachEvent("onclick", trkEvent);
+		}
+}
+
+function trkEvent(evt){
+	evt = (evt) ? evt : ((event) ? event : null)
+		if (evt) {
+			var elem = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
+			if (elem.href) {
+				var eventResult = recEvent(elem);
+			}
+		}
+	}
+
+function recEvent(element) {
+	var pagename,nrmlize,extreg,result,filetype;
+	pagename = element.pathname; 
+	nrmlize = /^\/(\S*)/;
+	if(nrmlize.test(pagename)) {
+		}else{
+		pagename = "/" + element.pathname;
+	}
+	extreg = /(.*)\.(\w+)/;
+	if(extreg.test(pagename)) {
+		result = pagename.match(extreg);
+		filetype = result[2];
+	}
+	if (gOnsiteDomains.indexOf(element.hostname) != -1) {
+		if (gDownLoads.indexOf(filetype) != -1) {
+			MultiTrack("DCS.dcsuri",pagename,"WT.ti","Download : " + pagename);
+		}
+	}else {
+		if(gTrkOffsite) {
+			MultiTrack("DCS.dcsuri",pagename,"DCS.dcssip",element.hostname,"WT.ti","OffSiteLink : " + element.hostname + pagename,"DCSext.offsitelink","1");
+		}
+			
+	}
+}
+
+//**********End EVENT Extensions****************
+
 dcsVar();
 dcsMeta();
 dcsTag();
@@ -565,9 +631,13 @@ dcsTag();
 </script>
 
 <noscript>
-<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs5fczm621e5hqlv3v5gidoe_2w4j/njs.gif?dcsuri=/nojavascript&WT.js=No">
+<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsvknrwa21e5hyni9jb3gdoe_4b4b/njs.gif?dcsuri=/nojavascript&WT.js=No">
 </noscript>
-<!-- END OF Data Collection Server TAG -->	
+<!-- ***** This entire code set is customized Javascript to *** -->
+<!-- ***** capture all the on click events that result in   *** -->
+<!-- ***** a download or an offsite click			  *** -->
+<!-- ***** Code customized and implemented 3-31-05  *** -->
+<!-- END OF SmartSource Data Collector  TAG -->
  </td>
   </tr>
 </tbody></table>
@@ -600,6 +670,7 @@ dcsTag();
 				<li><a class="leftsubnav" href="/news/index.cfm">Our World</a></li>
 				<li><a class="leftsubnav" href="/newsltr/index.cfm">LD News</a></li>
 				<li><a class="leftsubnav" href="/press/index.cfm">Press Room</a></li>
+				<li><a class="leftsubnav" href="/earlyliteracyscreeningforum/index.cfm">Early Literacy<br> &nbsp; &nbsp;&nbsp; Screening Forum</a></li>
 				</font>
 			</td>
 			<td><a href="#" onmouseover="layersShowOrHide('hidden','layer_LDInfoZone');"><img src="/images/spacer.gif" alt="blank spacer image" width="20" height="222" border="0"></a></td>
@@ -659,12 +730,13 @@ dcsTag();
 				<img src="/images/spacer.gif" alt="blank spacer image" width="50" height="4"><br>
 				<font class="leftnavsubtext">
 	<li><a class="leftsubnav" href="/advocacy/">Be an LD Advocate</a></li>
-				<li><a class="leftsubnav" href="http://capwiz.com/ld/home/">Legislative Action Center</a></li>
+				<li><a class="leftsubnav" href="http://ga3.org/lac/LAC_home.html">Legislative Action Center</a></li>
 				<li><a class="leftsubnav" href="/advocacy/public_policy.cfm">Our Policy Priorities</a></li>
 				<li><a class="leftsubnav" href="/advocacy/update.cfm">Legislative Update</a></li>
 				<li><a class="leftsubnav" href="/advocacy/state_profiles.cfm">State LD Profiles</a></li>
-				<li><a class="leftsubnav" href="/advocacy/IDEAwatch.cfm">IDEA Watch</a></li>
-				<li><a class="leftsubnav" href="http://capwiz.com/ld/mlm/">Join the Action E-list</a></li>
+				<li><a class="leftsubnav" href="/advocacy/IDEAwatch.cfm">IDEA 2004</a></li>
+				<li><a class="leftsubnav" href="/advocacy/NoChildLeftBehind.cfm">No Child Left Behind</a></li>
+				<li><a class="leftsubnav" href="http://ga3.org/lac/join.tcl?is_preview=1">Join the Action E-list</a></li>
 				<li><a class="leftsubnav" href="/advocacy/tutorial.cfm">LD Advocates Guide</a></li>
 				</font>
 			</td>
@@ -688,10 +760,10 @@ dcsTag();
 		   </tr><tr>
 		   </tr><tr>
 			<td valign="top" background="/images/navdrop_FriendsOfNCLD_BG.gif"><a href="#" onmouseover="layersShowOrHide('hidden','layer_SupportNCLD');"><img src="/images/spacer.gif" alt="blank spacer image" width="6" height="117" align="left" hspace="0" border="0"></a><img src="/images/spacer.gif" alt="blank spacer image" width="168" height="5"><br>
-				<a class="leftnav" href="/friends/index.cfm">Donate Today</a><br>
+				<a class="leftnav" href="/friends/index.cfm">Become a FRIEND</a><br>
 				<img src="/images/spacer.gif" alt="blank spacer image" width="50" height="4"><br>
 				<font class="leftnavsubtext">
-				<li><a class="leftsubnav" href="/friends/index.cfm">Make a Donation</a></li>
+				<li><a class="leftsubnav" href="/friends/donate.cfm">Make a Donation</a></li>
 				<li><a class="leftsubnav" href="/friends/vehicle.cfm">Donate Your Vehicle</a></li>
 				</font>
 			</td>
