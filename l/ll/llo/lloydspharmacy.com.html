@@ -1,311 +1,483 @@
-<!--The following is the downloaded HTML source of the lloydspharmacy.com privacy policy that was archived on 2005-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050418022604id_/http%3A//www.lloydspharmacy.com/6-0-0-0.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lloydspharmacy.com privacy policy that was archived on 2005-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051224015657id_/http%3A//www.lloydspharmacy.com/home-page/sitemap/privacy_policy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <base href="http://www.lloydspharmacy.com/">
 
-<title>Lloydspharmacy - Privacy Policy</title>
-<meta name="vtid" content="664">
-<meta name="Description" content="Lloydspharmacy - Your Local Health Authority">
-<meta name="Keywords" content=" Lloydspharmacy, Lloyds-pharmacy, Lloyds pharmacy, pharmacy, health, chemist, chemists, prescription, prescription collection,pharmaceutical, community, health care, Doctor, Optician, Dentist, Hospital,Hospice, care, UK, patient, illness, recovery, medicine, medicinal, dispensary, arthritis, remedies, remedy, vitamins, tablets, pills, cold, flu, careers, pharmacy careers, pharmacy vacancies, graduate vacancies,
-pharmacy services, heart, healthy heart, diabetes, blood pressure, vitality, babycare tens,babycare, tens, developing and printing, baby welfare, over 55s, oxygen service, malaria, nebuliser service, CHAT Centre, allergies, hayfever, heart disease, stroke, bogof, treat4U, 1/3rd off, third off, three for two, 3 for 2, pharmacy offers, baby of year, Lloydspharamcy, farmacy, perscription, dispensery">
+	<title>Privacy Policy</title>
+	<meta name="vtid" content="260">
+	<meta name="description" content="">
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	
+    <link href="lloyds.css" rel="stylesheet" type="text/css">
+	<style type="text/css"></style>
+	<script language="javascript">
+
+    
+	
+	/* Function to close the pharmacy finder */
+	
+	function pharmacyClickClosed() {
+		document.getElementById('pharmacyClosed').style.visibility = "hidden"; 
+		document.getElementById('pharmacyOpen').style.visibility = "visible";
+		return false;	
+	} 
+	
 
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="author" content="BT Web Solutions - webdesign@bt.com">
-<link title="Easy Access version" rel="alternate" href="txt/6-0-0-0.htm" media="aural, braille, tty">
-<link rel="stylesheet" href="lloyds.css" type="text/css">
-<script language="JavaScript1.1" type="text/javascript">
-<!-- // 
+/* Function to open the pharmacy finder  */
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	function pharmacyClickOpen() {
+		document.getElementById('pharmacyOpen').style.visibility = "hidden"; 
+		document.getElementById('pharmacyClosed').style.visibility = "visible";
+		return false;
+	}
+	
+	
+	
+	
+	
+	
+	
+/* Function to check the validity of the email address.*/
+	
+function isEmailValid(thisEmail) {
+var myEMail=true;
+var myAtSymbolAt = thisEmail.indexOf('@');
+var myLastDotAt = thisEmail.lastIndexOf('.');
+var mySpaceAt = thisEmail.indexOf(' ');
+var myLength = thisEmail.length;
+	
+	if (myAtSymbolAt < 1 ) {
+		myEMail=false;
+		
+	}
+	if (myLastDotAt < myAtSymbolAt) {
+		myEMail=false;
+		
+	}
+	if (myLength - myLastDotAt <= 2) {
+		myEMail=false;
+		
+	}
+	if (mySpaceAt != -1) {
+		myEMail=false;
+		
+	}
+	if(myEMail==0) {
+		alert('Sorry your email address is incorrect');
+		return false;
+	}
+	else {
+		return true;
+	}
 }
+	
+function checkchars() {
+var max=999;
+	if (talktous.comments.value.length > max) {
+		talktous.comments.value=talktous.comments.value.substr(0,max);
+		alert('Sorry you have exceeded the maximum limit of 1000 characters')
+	}
+}
+ 	
 
-function changeImages() { //Image Rollover Code
-	if (document.images) {
-		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
-		}
+function checkPick(obj) {
+	
+	var chosen=obj.choice.options[obj.choice.selectedIndex].text;
+	if (chosen=='Request Independant Living Catalogue') {
+		alert('Please leave your address details in the comments box below')
+		obj.comments.focus();
 	}
 }
 
-function swapRandImage(imageID,maxnum)
-{
-	var strImageFilename;
-	strImageFilename = 'middle_mainroll' + (Math.round(Math.random() * (maxnum - 1)) + 1) + '.gif';
-	document.images[imageID].src = strImageFilename;
+function postIt(){ 
+	
+//check postcode format is valid
+ /*	test = document.pharmacyFinder.pcode.value; 
+	size = test.length
+ 	test = test.toUpperCase(); //Change to uppercase
+ 	while (test.slice(0,1) == " ") //Strip leading spaces
+  	{
+	  test = test.substr(1,size-1);size = test.length
+  	}
+ 	while(test.slice(size-1,size)== " ") //Strip trailing spaces
+  	{
+	  test = test.substr(0,size-1);size = test.length
+  	}
+ 	document.pharmacyFinder.pcode.value = test; //write back to form field
+	 
+ 	if (size < 6 || size > 8){ //Code length rule
+  		alert(test + " is not a valid postcode - wrong length");
+  		document.pharmacyFinder.pcode.focus();
+  		return false;
+  	}
+	  
+	 if (!(isNaN(test.charAt(0)))){ //leftmost character must be alpha character rule
+	   alert(test + " is not a valid postcode - cannot start with a number");
+	   document.pharmacyFinder.pcode.focus();
+	   return false;
+	  }
+	 if (isNaN(test.charAt(size-3))){ //first character of inward code must be numeric rule
+	   alert(test + " is not a valid postcode - alpha character in wrong position");
+	   document.pharmacyFinder.pcode.focus();
+	   return false;
+	  }
+	 if (!(isNaN(test.charAt(size-2)))){ //second character of inward code must be alpha rule
+	   alert(test + " is not a valid postcode - number in wrong position");
+	   document.pharmacyFinder.pcode.focus();
+	   return false;
+	  }
+	 if (!(isNaN(test.charAt(size-1)))){ //third character of inward code must be alpha rule
+	   alert(test + " is not a valid postcode - number in wrong position");
+	   document.pharmacyFinder.pcode.focus();
+	   return false;
+	  }
+	 if (!(test.charAt(size-4) == " ")){//space in position length-3 rule
+	   alert(test + " is not a valid postcode - no space or space in wrong position");
+	   document.pharmacyFinder.pcode.focus();
+	   return false;
+	 }
+ 	count1 = test.indexOf(" ");count2 = test.lastIndexOf(" ");
+ 	if (count1 != count2){
+	 	//only one space rule
+   		alert(test + " is not a valid postcode - only one space allowed");
+   		document.pharmacyFinder.pcode.focus();
+   		return false;
+  	}
+	alert('Postcode Format OK');
+	return true;*/
 }
 
-function clearText(thefield){
-if (thefield.defaultValue==thefield.value)
-thefield.value = ""
-} 
+function fixOther(obj) {
+	if(obj.title.options[obj.title.selectedIndex].value=='Other') {
+		obj.other.disabled=false;
+		obj.other.focus();
+	}
+	else {
+		obj.other.disabled=true;
+	}
+}
 
-// -->
+
+ 
+ 
+	function goHome() {
+		document.location='http://www.lloydspharmacy.com';
+	   
+	}
+	
+	
+	function windowopen(winurl,x,y,wide,high,scrollbars,statusbar,resizable, menubar)
+{
+	var windowoptions = "left=" + x + ",top=" + y + ",width=" + wide + ",height=" + high + ",scrollbars=" + scrollbars + ",status=" + statusbar + ",menubar=" + menubar;
+	(resizable == 'yes') ? windowoptions += ",resizable" : windowoptions;
+	var newWindow = window.open(winurl,"",windowoptions)
+}
+
+//Opens the help in a popup
+function openHelp()
+{
+ var openwin = windowopen("search_help.htm",215,125,363,350,'yes','no','no')
+}
+
 </script>
+
+
+
+	
 </head>
-
-<body bgcolor="#FFFFFF" onload="MM_preloadImages('head_large_blob-over.gif','head_small_blob-over.gif','middle_careersbutton-over.gif','middle_pharmacybutton-over.gif','middle_aboutusbutton-over.gif','middle_pharmacytag.gif','middle_careerstag.gif','middle_aboutustag.gif')">
-
-<!-- Start Head -->
-
-<table width="785" border="0" cellpadding="0" cellspacing="0" bgcolor="#004E4D">
-<tbody><tr>
-	<td width="185" rowspan="2" valign="bottom"><a href="6-0-0-0.htm#content" accesskey="s"><img src="spacer.gif" alt="Skip navigation (S)" width="1" height="1" border="0"></a><a href="index.htm" accesskey="1"><img src="hd_lloyds_logo_text.gif" alt="Link to homepage (1)" width="167" height="23" vspace="8" border="0"></a></td>
-	<td width="41" rowspan="2"><img src="hd_lloyds_logo_graphic.gif" width="41" height="49" alt="Lloydspharmacy logo"></td>
-	<td rowspan="2" valign="top">
-	<img src="spacer.gif" alt="" width="1" height="5"><br>
-	<table width="430" cellpadding="0" cellspacing="0" border="0">
+<body class="body" topmargin="0" leftmargin="0">
+	<a href="home-page/sitemap/privacy_policy.htmundefined#pageContent" accesskey="s" id="SkipToContent">Skip navigation go straight to page content</a> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr><td colspan="6"><!-- navigation bar -->
+<table cellspacing="0" cellpadding="0" border="0" width="100%" class="darkGreenBg" summary="">
 	<tbody><tr>
-		<td><img src="spacer.gif" alt="" width="29" height="13"></td>
-		<td><img src="hd_sml_blob.gif" alt="" name="TopRoll1" width="10" height="13" id="TopRoll1"></td>
-		<td><a href="4-0-0-0.htm" accesskey="3" onmouseover="changeImages('TopRoll1','hd_sml_blob-over.gif')" onmouseout="changeImages('TopRoll1','hd_sml_blob.gif')">
-			<img src="hd_site_map.gif" width="52" height="13" border="0" alt="Link to site map (3)"></a></td>
-			
-		<td><img src="spacer.gif" alt="" width="19" height="13"></td>
-		<td><img src="hd_sml_blob.gif" alt="" name="TopRoll2" width="10" height="13" id="TopRoll2"></td>
-		<td><a href="3-0-0-0.htm" onmouseover="changeImages('TopRoll2','hd_sml_blob-over.gif')" onmouseout="changeImages('TopRoll2','hd_sml_blob.gif')">
-			<img src="hd_pharmacy_locate.gif" width="101" height="13" border="0" alt="Link to pharmacy locator"></a></td>
-			
-		<td><img src="spacer.gif" alt="" width="19" height="13"></td>
-		<td><img src="hd_sml_blob.gif" alt="" name="TopRoll3" width="10" height="13" id="TopRoll3"></td>
-		<td><a href="" onmouseover="changeImages('TopRoll3','hd_sml_blob-over.gif')" onmouseout="changeImages('TopRoll3','hd_sml_blob.gif')">
-			<img src="hd_health_news.gif" width="70" height="13" border="0" alt="Link to health news"></a></td>
-			
-		<td><img src="spacer.gif" alt="" width="19" height="13"></td>
-		<td><img src="hd_sml_blob.gif" alt="" name="TopRoll4" width="10" height="13" id="TopRoll4"></td>
-		<td><a href="1-0-0-0.htm" onmouseover="changeImages('TopRoll4','hd_sml_blob-over.gif')" onmouseout="changeImages('TopRoll4','hd_sml_blob.gif')">
-			<img src="hd_register.gif" width="47" height="13" border="0" alt="Link to register page"></a></td>
-			
-		<td><img src="spacer.gif" alt="" width="19" height="13"></td>
-		<td><img src="hd_sml_blob.gif" alt="" name="TopRoll5" width="10" height="13" id="TopRoll5"></td>
-		<td><a href="9-0-0-0.htm?pid=3659" accesskey="9" onmouseover="changeImages('TopRoll5','hd_sml_blob-over.gif')" onmouseout="changeImages('TopRoll5','hd_sml_blob.gif')">
-			<img src="hd_contact_us.gif" width="62" height="13" border="0" alt="Link to contact us page (9)"></a></td>
+		<td width="28%"><label for="banner"></label><input type="image" src="logo_banner.gif" alt="Heading Banner" id="banner" onclick="javaScript:goHome();" onkeypress="javascript:goHome();" accesskey="1"></td>
+		<td width="12.5%"><label for="aboutButton"></label><a href="home-page/about-us.htm" id="aboutButton" accesskey="a">About us</a></td>
+		<td width="12.5%"><label for="talkButton"></label><a href="home-page/talk-to-us.htm" id="talkButton" accesskey="9">Talk to us</a></td>
+		<td width="12.5%"><label for="careersButton"></label><a href="home-page/careers.htm" id="careersButton" accesskey="c">Careers</a></td>
+		<td width="12.5%"><label for="sitemapButton"></label><a href="home-page/sitemap.htm" id="sitemapButton" accesskey="3">Sitemap</a></td>
+		<td width="22%" align="right"><img src="header_curve.gif" width="132" height="75" alt="Top curve"></td>		
 	</tr>
-	</tbody></table>	
-	<img src="spacer.gif" alt="" width="1" height="12"><br>
-	<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td><img src="spacer.gif" alt="" width="61" height="10"></td>
-		<td><img src="hd_lrg_blob.gif" alt="" name="TopRoll6" width="10" height="10" id="TopRoll6"></td>
-		<td><a href="11-0-0-0.htm" onmouseover="changeImages('TopRoll6','hd_lrg_blob-over.gif'); return true;" onmouseout="changeImages('TopRoll6','hd_lrg_blob.gif'); return true;">
-			<img src="hd_careers.gif" width="57" height="10" border="0" alt="Link to Careers section"></a></td>
+</tbody></table>
+<table cellspacing="0" cellpaddding="0" border="0" width="100%" class="blueBg">
+	<tbody><tr><td class="blueLine" colspan="6"></td></tr>
+	<tr class="whiteLine"><td colspan="6" width="100%"></td></tr>
+</tbody></table>
+<!-- navigation bar end --></td></tr>
+	<tr><td colspan="6" class="blueBgBand"></td></tr>
+	
+	<tr>
+		<td width="100%" valign="top" colspan="5"><!-- menu panel -->
+<table class="accessPanel" cellspacing="0" cellpadding="0" border="0" width="100%">
+  <tbody><tr>
+	<td>
+		<table cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr>
+			<td class="twelveGutter">&nbsp;</td>
+			<td>
+			<a href="ea/home-page/sitemap/privacy_policy.htm" class="access" accesskey="m">Easy Access</a></td>
+			<td class="tenGapWidth"></td>
+			<td><a href="home-page/accessibility_information.htm" class="access" accesskey="0">Access Keys</a></td>
+			<td class="tenGapWidth"></td>
+			<td><a href="lg/home-page/sitemap/privacy_policy.htm" class="access">Large Text</a></td>
+			<td class="tenGapWidth"></td>
+			<td><a href="managed-care.htm" class="access">Managed Care Services</a></td>
+			</tr>
 			
-		<td><img src="spacer.gif" alt="" width="67" height="10"></td>
-		<td><img src="hd_lrg_blob.gif" alt="" name="TopRoll7" width="10" height="10" id="TopRoll7"></td>
-		<td><a href="13-0-0-0.htm" onmouseover="changeImages('TopRoll7','hd_lrg_blob-over.gif'); return true;" onmouseout="changeImages('TopRoll7','hd_lrg_blob.gif'); return true;">
-			<img src="hd_the_pharmacy.gif" width="96" height="10" border="0" alt="Link to The Pharmacy section"></a></td>
-			
-		<td><img src="spacer.gif" alt="" width="67" height="10"></td>
-		<td><img src="hd_lrg_blob.gif" alt="" name="TopRoll8" width="10" height="10" id="TopRoll8"></td>
-		<td><a href="12-0-0-0.htm" onmouseover="changeImages('TopRoll8','hd_lrg_blob-over.gif'); return true;" onmouseout="changeImages('TopRoll8','hd_lrg_blob.gif'); return true;">
-			<img src="hd_about_us.gif" width="64" height="10" border="0" alt="Link to About Us section"></a></td>
-		<td><img src="spacer.gif" alt="" width="33" height="10"></td>
-		<td><img src="head_rightcurve3.gif" alt="" width="38" height="10"></td>
-	</tr>
-	</tbody></table>
-	<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#004E4D">
-	<tbody><tr>
-		<td><img src="spacer.gif" alt="" width="415" height="9"></td>
-		<td width="72"><img src="head_rightcurve4.gif" alt="" width="72" height="9"></td>
-		<td bgcolor="#FFFFFF"><img src="spacer.gif" alt="" width="26" height="8"></td>
-	</tr>
-	</tbody></table>
-		
+		</tbody></table>
 	</td>
-	<td width="46" align="right" valign="top"><img src="spacer.gif" alt="" width="23" height="1"><img src="head_rightcurve1.gif" alt="" width="23" height="17"><br><img src="head_rightcurve2.gif" alt="" width="46" height="13"></td>
-</tr>
-<tr>
-	<td bgcolor="#FFFFFF"><img src="spacer.gif" alt="" width="46" height="19"></td>
+   </tr>
+ </tbody></table>
+<!-- menu panel end --></td><td width="33.4%" rowspan="2" class="search"><!-- site search -->
+<table border="0" cellspacing="3" cellpadding="0" align="right" width="246">
+<form name="searchForm" method="post" id="searchForm" action="home-page/search.htm"></form>
+	<tbody><tr>
+		<td colspan="4">
+			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			
+		</td>
+		
+		<td>
+			<label for="querySearch" accesskey="4"></label>
+			<input type="text" name="qt" id="querySearch" value="" class="searchBox">
+		</td>
+		
+		<td align="right">
+			<label for="goButton"></label>
+			<input type="image" src="go.gif" alt="Go" id="goButton" onclick="javascript: document.form.submit();" onkeypress="javascript: document.form.submit();">
+		</td>
+		<td>
+			<input type="hidden" name="col" value="lloyds">
+		</td>
+	</tr>
+	
+
+</tbody></table>
+<!-- site search end --></td>	
+	</tr>
+	<tr><td valign="top" colspan="5"><!-- cnt-breadcrumb -->
+<table cellspacing="0" cellpadding="0" border="0" class="breadcrumbBar" width="100%" height="100%">
+<tbody><tr>
+	<td class="twelveGutter">&nbsp;</td><td><table cellpadding="0" border="0" cellspacing="0">
+			<tbody><tr><td><a class="breadcrumb" href="home-page.htm">Home</a>&nbsp;/&nbsp;<a class="breadcrumb" href="home-page.htm">Welcome to Lloydspharmacy - Your local health authority</a>&nbsp;/&nbsp;<a class="breadcrumb" href="home-page/sitemap.htm">Site map</a>&nbsp;/&nbsp;</td></tr></tbody></table></td>
 </tr>
 </tbody></table>
-
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr valign="middle"> 
-    <td>
-	<form name="seek1" method="get" action="query.htm">
-	<input type="hidden" name="charset" value="iso-8859-1">
-	<input type="hidden" name="col" value="lloyds">			
-	<input type="hidden" name="ht" value="0">
-	<input type="hidden" name="qp" value="">
-	<input type="hidden" name="qs" value="">
-	<input type="hidden" name="qc" value="">
-	<input type="hidden" name="pw" value="100%">
-	<input type="hidden" name="ws" value="0">
-	<input type="hidden" name="la" value="en">
-	<input type="hidden" name="qm" value="0">
-	<input type="hidden" name="st" value="1">
-	<input type="hidden" name="nh" value="10">
-	<input type="hidden" name="lk" value="2">
-	<input type="hidden" name="rf" value="0">
-	<input type="hidden" name="rq" value="0">
-	<input type="hidden" name="si" value="1">
-		
-	  <table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr> 
-		  <td><img src="spacer.gif" width="4" height="1" alt=""></td>
-		  <td><label for="qt"><img src="search.gif" width="52" height="14" alt="Search (4)"></label></td>
-		  <td><input type="text" name="qt" id="qt" size="12" value="Enter Search..." onfocus="clearText(this)" accesskey="4"></td>
-		  <td><input type="image" src="go_but.gif" name="go" alt="Submit Search"></td>
+<!-- End cnt-breadcrumb --></td><td valign="top"></td></tr>
+	<tr><td align="left"></td><td>	</td></tr><tr>
+	 <td colspan="5" class="twentyGap"></td><td class="rightSide" valign="top" rowspan="2"><table cellspacing="0" cellpadding="0" border="0" align="right" valign="top" width="100%">
+	<tbody><tr>
+		<td valign="top" width="100%">
+			<div id="pharmacyOpen" class="pharmacyOpenDefault"><table cellpadding="5" cellspacing="0" border="0" width="100%">
+	<tbody><tr><td colspan="3"><img src="pharmacy_finder.gif" width="105" height="30" alt="Pharmacy finder" border="0"></td><td align="right"><input type="image" src="button_pharmacy_finder_up_d.gif" alt="Close Pharmacy Finder" id="closePharmacyFinder" onclick="javascript:pharmacyClickOpen();" onkeypress="javascript:pharmacyClickOpen();"></td></tr>
+</tbody></table>
+<form name="pharmacyFinder" action="home-page/pharmacy_finder_results.htm" method="post">
+	<table cellpadding="0" cellspacing="5" border="0" valign="top" align="left" width="100%">
+		<tbody><tr>
+			<input type="hidden" name="pageCount" value="1">
+			<td class="pharmacyFinderText">Full Postcode</td>
+			<td><label for="lblPostcode"></label><input type="text" name="pcode" id="lblPostcode" maxlength="12" value="" class="textClassPharmacyFinderShort" border="0"></td>
 		</tr>
-	  </tbody></table></form></td>
-    <td class="small" valign="top"><img src="spacer.gif" width="15" height="33" alt="" align="middle"><a href="index" class="small">Home</a></td>
-</tr>
-</tbody></table>
+		<tr>
+			<td class="pharmacyFinderText">Town or City of Pharmacy</td>
+			<td><label for="lblPharmacy"></label><input type="text" class="textClassPharmacyFinder" id="lblPharmacy" maxlength="12" name="pharmacy" value="" border="0"></td>
+		</tr>
+		<tr>
+			<td class="pharmacyFinderText">In-pharmacy</td>
+			<td><label for="lblService"></label>
+				<select id="lblService" name="services" class="textClassPharmacyFinderDrop">
+					<option value=""></option>
+					
+ 
+<option value="BloodPressureTesting">Blood pressure testing</option> 
+ 
+<option value="ChatCentre">CHAT Centres</option> 
+ 
+<option value="DiabetesTesting">Diabetes Testing</option> 
+ 
+<option value="Colorcare">Developing &amp; Printing</option> 
+ 
+<option value="ConsultationAreas">Consultation Areas</option> 
+ 
+<option value="MilkTokenScheme">Milk Token Scheme</option> 
+ 
+<option value="OxygenKept">Oxygen</option> 
 
-<!-- End Head -->
-<table width="771" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr align="left" valign="top"> 
-    <td width="10"><img src="spacer.gif" width="10" height="1" alt=""></td>
-    <td width="169">
-	<!-- nav 1 -->
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><img src="spacer.gif" width="17" height="1" alt=""></td>
-		<td><img src="spacer.gif" width="17" height="1" alt=""></td>
-		<td><img src="spacer.gif" width="17" height="1" alt=""></td>
-		<td><img src="spacer.gif" width="17" height="1" alt=""></td>
-		<td><img src="spacer.gif" width="100" height="1" alt=""></td>
-	</tr>
-
-			<tr>
-				<td valign="top"><img src="navdot-lv1.gif" width="17" height="17" alt=""></td>
-				<td class="menutitle" colspan="4"><a href="11-0-0-0_accessibility_information.htm" class="menutitle">Accessibility Information</a></td>
-			</tr>
-		
-			<tr>
-				<td valign="top"><img src="navdot-lv1.gif" width="17" height="17" alt=""></td>
-				<td class="menutitle" colspan="4"><a href="3-0-0-0.htm" class="menutitle">Pharmacy Locator</a></td>
-			</tr>
-		
-			<tr>
-				<td valign="top"><img src="navdot-lv1.gif" width="17" height="17" alt=""></td>
-				<td class="menutitle" colspan="4"><a href="4-0-0-0.htm" class="menutitle">Site Map</a></td>
-			</tr>
-		
-			<tr>
-				<td valign="top"><img src="spacer.gif" width="17" height="17" alt=""></td>
-				<td valign="top"><img src="navdot-lv2.gif" width="17" height="17" alt=""></td>
-				<td colspan="3" class="menulv2"><a href="6-0-0-0.htm" class="menulv2">Privacy Policy</a></td>
-			</tr>
-		
-			<tr>
-				<td valign="top"><img src="spacer.gif" width="17" height="17" alt=""></td>
-				<td valign="top"><img src="navdot-lv2.gif" width="17" height="17" alt=""></td>
-				<td colspan="3" class="menulv2"><a href="5-0-0-0.htm" class="menulv2">Disclaimers, Trade Marks, Copyright &amp; Security</a></td>
-			</tr>
-		
-			<tr>
-				<td valign="top"><img src="spacer.gif" width="17" height="17" alt=""></td>
-				<td valign="top"><img src="navdot-lv2.gif" width="17" height="17" alt=""></td>
-				<td colspan="3" class="menulv2"><a href="6-0-0-0/6-0-0-1.htm" class="menulv2">Data Protection Notice</a></td>
-			</tr>
-		
-
-
-	<tr>
-		<td valign="top"><img src="navdot-lv1.gif" width="17" height="17" alt=""></td>
-		<td colspan="4" class="menutitle"><a href="9-0-0-0?pid=3659" class="menutitle">Contact us</a></td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="navdot-lv1.gif" width="17" height="17" alt=""></td>
-		<td colspan="4" class="menutitle"><a href="1-0-0-0" class="menutitle">Register</a></td>
-	</tr>
-
-</tbody></table>
-
-	<!-- nav 2 -->
-	<p class="small"><a href="11-0-0-0_accessibility_information.htm#ukgov" class="horzNav" title="Link to Accessibility Information page (0)" accesskey="0">UK Government accesskeys</a></p>
-	<p class="small"><a href="6-0-0-0.htm?browser=4&amp;" accesskey="m" title="(M)" class="horzNav">Easy Access</a> | <a href="6-0-0-0.htm?browser=5&amp;" title="(L)" accesskey="l">Large Text</a></p>
-	<!-- nav 3 -->
-	<!-- end nav -->
-	<p>&nbsp;</p>
-    </td>
-    <td width="12"><img src="spacer.gif" width="12" height="1" alt=""></td>
-    <td width="580">
-	<a name="content"></a>
 	
-	<img src="6-0-0-0_privacy_policy-2-pic-4396-1-1-0-r.gif" width="576" height="49" alt="Privacy Policy" border="0"><br> 
-	<table border="0" cellpadding="0" cellspacing="10" width="100%">
-	<tbody><tr>
-		<td valign="top"><p></p><h3>Our Policy at Lloydspharmacy is as follows:</h3><p></p><p>Lloyds 
-Pharmacy Limited is a company incorporated in England and is a member of the Admenta group of companies 
-("the Group"). Other members of the Group include :</p><p>Admenta 
-UK plc<br>John Bell &amp; Croyden Limited<br>G J Maley Limited (Isle of Man 
-subsidiary)<br> 
-Savory &amp;Moore (Jersey) Limited<br>Stephen Smith Limited (Guernsey subsidiary)<br>AAH 
-Pharmaceuticals Limited<br>Barclay Pharmaceuticals Limited<br>Statim Finance 
-Limited<br>Farillon Limited<br></p><p>Lloyds 
-Pharmacy Limited takes the privacy of all its customers and web site users very seriously and takes 
-great care with customer and user information. This Privacy Policy Statement outlines how your personal 
-information will be treated. Our security and privacy policies are periodically reviewed and enhanced 
-and you should check this page to see our most up to date policy.</p><p></p><h3>What 
-information do we collect?</h3><p></p><p>In order to provide you with our 
-services, we may collect personal information about you from our web site, telephone conversations, 
-emails and written communications. We may, for example, keep a record of your name, address, email address, 
-telephone number, and details of items in which you have shown particular interest. Please let us know 
-if any of your personal information changes or is inaccurate so that we may keep our records up to date.</p><p></p><h3>How 
-do we use your information?</h3><p></p><p>Any personal data relating to 
-you will be used and recorded by us in accordance with current data protection legislation and this 
-Privacy Policy Statement. We may use your personal information to process any applications made by you, 
-for record keeping purposes and in aggregate [and therefore anonymously] for market research, to track 
-activity on our web site or to improve the quality of our service.</p><p></p><h3>Disclosure 
-of your information</h3><p></p><p>We may share your personal information 
-with other members of the Admenta Group. We will only disclose your personal information to third parties 
-whose services we need to use to process your applications, to maintain our systems or to comply with 
-legal obligations such as law, regulation, warrant, witness summons or court order.</p><p></p><h3>Cookies</h3><p></p><p>In 
-common with many other web site operators, we may use standard technology called 'cookies' on this site. 
-Cookies are small pieces of information that are stored by your browser on your computer's hard drive. 
-Our cookies enable us to identify you and to store information about the services you select between 
-visits. Most browsers automatically accept cookies, but you can usually change your browser to prevent 
-cookies being stored, however if you do turn cookies off this may limit the service that we are able 
-to provide to you.</p><p>If you wish to switch off cookies on your 
-browser please go to <u>www.allaboutcookies.org</u>.</p><p></p><h3>Security</h3><p></p><p>We 
-take the security of your personal information seriously. We have security procedures in place to protect 
-our customer database from loss and misuse, and only allow access to it when absolutely necessary, and 
-then under strict guidelines as to what use may be made of the personal information contained within 
-it.</p><p>This web site may contain links to other web sites. We 
-are only responsible for the privacy practices on this site. We recommend that you check the privacy 
-statements of each and every other web site that you visit.</p><p></p><h3>Your 
-rights to access your personal information</h3><p></p><p>You have the right 
-to receive information about the personal data we hold about you (for which we may charge a small fee).</p><p></p><h3>Contact 
-us</h3><p></p><p>If you would like any further information or have any 
-comments about our privacy policy or any other aspect of our web site or service, please <a href="9-0-0-0.htm?pid=3659">contact 
-us by clicking here.</a></p><p></p></td>
-		<td valign="top"><table border="0" cellspacing="10" cellpadding="0">
-			<tbody><tr>
-				<td></td>
-			</tr>
-			<tr>
-				<td></td>
-			</tr>
-		</tbody></table></td>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td class="pharmacyFinderText">Distance</td>
+			<td><label for="lblDistance"></label>
+				<select id="lblDistance" name="distance" class="textClassPharmacyFinderDrop">
+					
+ 
+<option value="0"></option> 
+ 
+<option value="2">2 miles</option> 
+ 
+<option value="5">5 miles</option> 
+ 
+<option value="10">10 miles</option> 
+ 
+<option value="20">20 miles</option> 
+ 
+<option value="0">20+ miles</option> 
+
+	
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td class="accessLink"><img src="arrow_right.gif" width="6" height="11"> <a href="javascript:openHelp();" class="mainLink">Help</a></td>
+			<td align="right"><label for="lblSearch"></label><input type="image" id="lblSearch" style="cursor:hand" src="button_search.gif" alt="Search" onclick="javascript:postIt();" onkeypress="javascript:postIt();"></td>
+		</tr>
+	</tbody></table>
+</form></div>
+			<div id="pharmacyClosed" class="pharmacyClosed"><table cellpadding="5" cellspacing="0" width="100%" border="0">
+	<tbody><tr><td><img src="pharmacy_finder.gif" width="105" height="30" alt="Pharmacy finder" border="0"></td>
+		<td align="right"><input type="image" src="button_pharmacy_finder_adow.gif" alt="Go" id="goButton" onclick="javascript:pharmacyClickClosed();" onkeypress="javascript:pharmacyClickClosed();"></td>
 	</tr>
-</tbody></table><br>
+</tbody></table>
+
+</div>
+		</td>
+	</tr>
+	<tr><td width="100%"><img src="freepcs.png" width="252" height="130" alt="What we believe in at Lloydspharmacy - Your local health authority"></td></tr>
+	<tr><td class="greenLine"></td></tr>
+	<tr><td width="100%"><img src="high_blood_pressure_banner.gif" width="252" height="130" border="0"></td></tr>
+	<tr><td class="greenLine"></td></tr>
+	
+	<tr><td class="whiteLine"></td></tr>
+</tbody></table>
+			
 	
 
-    </td>
-  </tr>
+</td>
+	</tr>
+	
+	<tr>
+		<td class="gutter">&nbsp;</td>
+		<td valign="top"><table class="leftSide" cellspacing="0" cellpadding="0" border="0" valign="top">
+	
+			<tbody><tr class="creamBg">
+			
+				<td align="left" valign="top" width="100%">
+					<a href="home-page/whats-new.htm" id="whats-newButtonLeftNav">
+						What's new
+					</a>
+				</td>
+			</tr>
+			
+			<tr class="creamBg">
+			
+				<td align="left" valign="top" width="100%">
+					<a href="home-page/services_we_offer.htm" id="services_we_offerButtonLeftNav">
+						Services we offer
+					</a>
+				</td>
+			</tr>
+			
+			<tr class="creamBg">
+			
+				<td align="left" valign="top" width="100%">
+					<a href="home-page/health_updates.htm" id="healthupdateButtonLeftNav">
+						Health updates
+					</a>
+				</td>
+			</tr>
+			
+			<tr class="creamBg">
+			
+				<td align="left" valign="top" width="100%">
+					<a href="home-page/sitemap.htm" id="sitemapButtonLeftNav">
+						Site map
+					</a>
+				</td>
+			</tr>
+		
+
+</tbody></table></td>
+		<td class="gutter">&nbsp;</td>
+		<td valign="top">
+			<table summary="main content table" cellpadding="0" cellspacing="0" border="0" valign="top" width="100%">
+				<tbody><tr><td><img src="heading_privacypolicy.gif" width="366" height="30" border="0"></td></tr>
+				<tr><td class="thirtyGap"></td></tr>
+				<tr><td><table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%" valign="top">
+	<tbody><tr><td><p></p><p>Lloyds Pharmacy Limited is a company incorporated in England and is a member of the Admenta group of companies ("the Group"). Other members of the Group include:</p><p></p>
+<p></p>
+<p></p><p>·Admenta UK plc</p><p></p>
+<p></p><p>·John Bell &amp; Croyden Limited</p><p></p>
+<p></p><p>·G J Maley Limited (Isle of Man subsidiary)</p><p></p>
+<p></p><p>·Savory &amp; Moore (Jersey) Limited</p><p></p>
+<p></p><p>·Stephen Smith Limited (Guernsey subsidiary)</p><p></p>
+<p></p><p>·AAH Pharmaceuticals Limited</p><p></p>
+<p></p><p>·Barclay Pharmaceuticals Limited</p><p></p>
+<p></p><p>·Statim Finance Limited</p><p></p>
+<p></p><p>·Farillon Limited</p><p></p>
+<p></p>
+<p></p><p>Lloyds Pharmacy Limited takes the privacy of all its customers and web site users very seriously and takes great care with customer and user information. This Privacy Policy Statement outlines how your personal information will be treated. Our security and privacy policies are periodically reviewed and enhanced and you should check this page regularly to see our most up to date policy.</p><p></p>
+<p></p>
+<p></p><p>What information do we collect?</p><p></p>
+<p></p><p>In order to provide you with our services, we may collect personal information about you from our web site, telephone conversations, emails and written communications. We may, for example, keep a record of your name, address, email address, telephone number, and details of items in which you have shown particular interest. Please let us know if any of your personal information changes or is inaccurate so that we may keep our records up to date.</p><p></p>
+<p></p>
+<p></p><p>How do we use your information?</p><p></p>
+<p></p><p>Any personal data relating to you will be used and recorded by us in accordance with current data protection legislation and this Privacy Policy Statement. We may use your personal information to process any applications made by you, for record keeping purposes and in aggregate (and therefore anonymously) for market research, to track activity on our web site or to improve the quality of our service.</p><p></p>
+<p></p>
+<p></p><p>Disclosure of your information</p><p></p>
+<p></p><p>We may share your personal information with other members of the Admenta Group. We will only disclose your personal information to third parties whose services we need to use to process your applications, to maintain our systems or to comply with legal obligations such as law, regulation, warrant, witness summons or court order.</p><p></p>
+<p></p>
+<p></p><p>Cookies</p><p></p>
+<p></p><p>In common with many other web site operators, we may use standard technology called 'cookies' on this site. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies enable us to identify you and to store information about the services that you select between visits. Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored, however if you do turn cookies off this may limit the service that we are able to provide to you.</p><p></p>
+<p></p>
+<p></p><p>If you wish to switch off cookies on your browser please go to www.allaboutcookies.org.</p><p></p>
+<p></p>
+<p></p><p>Security</p><p></p>
+<p></p><p>We take the security of your personal information seriously. We have security procedures in place to protect our customer database from loss and misuse, and only allow access to it when absolutely necessary, and then under strict guidelines as to what use may be made of the personal information contained within it.</p><p></p>
+<p></p>
+<p></p><p>This web site may contain links to other web sites. We are only responsible for the privacy practices on this web site. We recommend that you check the privacy statements of each and every other web site that you visit.</p><p></p>
+<p></p>
+<p></p><p>Your rights to access your personal information</p><p></p>
+<p></p><p>You have the right to receive information about the personal data that we hold about you (for which we may charge a small fee).</p><p></p><p></p>
+</td></tr>
+	<tr><td class="twentyGap"></td></tr>
 </tbody></table>
-<!--End of middle-->
 
-  
-
-
-
-<!-- Start Footer -->
-<table width="785" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-	<td align="left" bgcolor="#004E4D" nowrap="">&nbsp;<a href="5-0-0-0.htm" class="footnote" accesskey="8" title="(8)">Disclaimers, Trade Marks, Copyright &amp; Security</a>&nbsp;</td>
-	<td bgcolor="#004E4D" nowrap="">&nbsp;<a href="6-0-0-0.htm" class="footnote">Privacy Policy</a>&nbsp;</td>
-	<td align="right" bgcolor="#004E4D" class="footnote" nowrap="">&nbsp;© 2003 Lloyds Pharmacy Ltd. All rights reserved.</td>
-	<td width="92" align="right" bgcolor="#004E4D"><img src="bottom_curve.gif" width="92" height="24" alt=""></td>
-  </tr>
+</td></tr>
+				<tr><td class="twentyGap"></td></tr>
+				<tr><td class="fortyGap"></td></tr>
+				<tr><td></td></tr>
+				<tr><td class="fifteenGap"></td></tr>
+			</tbody></table>
+		</td>
+		<td class="gutter">&nbsp;</td>
+	</tr>
+ 	<tr>
+	 	<td class="footerHeight" width="100%" colspan="6"><!-- footer -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" class="greenBg">
+	<tbody><tr>
+		<td class="gutter">&nbsp;</td>
+		<td><a href="home-page/sitemap/disclaimer" class="footer" accesskey="8">Disclaimers, Trademarks, Copyright &amp; Security</a></td>
+		<td width="0.5%">&nbsp;</td>
+		<td><a href="home-page/sitemap/privacy_policy.htm" class="footer">Privacy Policy</a></td>
+		<td width="0.5%">&nbsp;</td>
+		<td class="footer">© 2005 Lloyds Pharmacy Ltd., All rights reserved</td>
+		<td valign="top" align="right"><img src="footer_curve22.gif" width="90" height="24" alt="Bottom curve" border="0"></td>
+	</tr>
 </tbody></table>
-<!-- End Footer -->
+<!-- footer end -->
+</td>
+	</tr>
+	
+</tbody></table>
+
+
 
 
 </body></html>
