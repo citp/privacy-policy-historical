@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602214956id_/http%3A//www.ariba.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224154517id_/http%3A//ariba.com/privacy.cfm) for the most accurate reproduction.*
 
 # Ariba Web Site Privacy Statement
 
   
 
 
-### Ariba Web Site Privacy Statement
+#### Ariba Web Site Privacy Statement
 
 Effective February 20, 2004
 
@@ -53,6 +53,3 @@ Ariba uses commercially reasonable efforts to store and maintain personal inform
 
 **Comments and Questions**  
 If You have questions or comments about this Privacy Statement, please send an email to [dept_eos_legal@ariba.com](mailto:dept_eos_legal@ariba.com) or in writing to: Director of Privacy Compliance, Ariba Legal Department, Ariba, Inc., 807b 11th Avenue, Sunnyvale, CA 94089.
-
-  
-
