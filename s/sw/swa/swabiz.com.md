@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308120512id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224033301id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html) for the most accurate reproduction.*
 
 # Southwest Airlines Privacy Policy
 
@@ -55,8 +55,6 @@ The address and passenger information is saved to your hard drive by the Southwe
 We also utilize cookies to track the effectiveness of our online advertising. The information contained in the cookies contains no individually identifiable data, will be treated as confidential information of Southwest Airlines, and will only be used to make informed decisions regarding the performance of our online advertising initiatives. In short, these efforts help Southwest Airlines to maintain low costs and low fares for you, our Customers.
 
 The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
-
-For more information visit our help section on [cookies](https://web.archive.org/help/cookies.html).
 
 * * *
 
