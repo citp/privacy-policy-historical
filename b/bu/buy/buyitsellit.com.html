@@ -1,13 +1,16 @@
-<!--The following is the downloaded HTML source of the buyitsellit.com privacy policy that was archived on 2004-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607150658id_/http%3A//www1.buyitsellit.com/bisi/privacy_policy.vhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buyitsellit.com privacy policy that was archived on 2005-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051224235446id_/http%3A//www.buyitsellit.com/bisi/privacy_policy.vhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>BuyItSellIt.com: Privacy Policy</title>
 
+<meta name="description" content="The BuyItSellIt.com Online Store building system lets you build an estore for your business, complete with shopping cart, payment processing, hosting and store builder with no programming knowledge.">
 
-<meta name="description" content="BuyItSellIt Online Stores are online sales web sites, complete with credit card processing, that let you sell your products online quickly and easily.">
 
-<meta name="keywords" content="online store builder,free,e commerce,software,ecommerce,online store,shopping cart,shop,web store,StoreFront,shopping cart,shopping cart software,e-commerce,software,Store Front,electronic commerce,web development,selling,e-business,small business,sell,microsoft,dreamweaver,e-commerce sales,commerce,e-commerce retailing,retail,e-commerce catalog,catalog,store builder,sales cart,merchant,commerce service,credit card,store,sale,web-store,development,internet,shops,web stores,webstores,StoreFronts,commerce tool,on-line sales,web design,ISP,web host,e-check,electronic check,credit card,creditcard,database,merchant account,build web site,web site builder,shop,sell,buy,cheap,setup,shopping,mall,store,help,ads,products">
+<meta name="keywords" content="online store builder,online store,build,estore,e-store,small business,shopping cart,sell,selling">
+
+
+<meta name="robots" content="FOLLOW,INDEX">
 
 <meta name="Classification" content="free,e-commerce,software,ecommerce,online store,shopping cart,shop,web store,StoreFront,shopping cart,shopping cart software,e-commerce,software,Store Front,,electronic commerce,web development,selling,e-business,small business,sell,microsoft,dreamweaver,e-commerce sales,commerce,e-commerce retailing,retail,e-commerce catalog,catalog,store builder,sales cart,merchant,commerce service,credit card,store,sale,web-store,development,internet,shops,web stores,webstores,StoreFronts,commerce tool,on-line sales,web design,ISP,web host,e-check,electronic check,credit card,creditcard,database,merchant account,build web site,web site builder,shop,sell,buy,cheap,setup,shopping,mall,store,help,ads,products">
 
@@ -28,11 +31,67 @@
 		{
 			window.open('https://www.paypal.com/cart/display=1&business=billing@buyitsellit.com','cartwin','width=600,height=400,scrollbars,location,resizable,status');
 		}
+
+function ParseQueryString()
+{
+	var queryString = new String( window.location );
+	var partnerValue = "";
+	
+	// See if there are any parameters in the querystring
+	if( queryString.indexOf("?") > -1 )
+	{		
+		// Slice off all the parameters from the querystring
+		queryString = queryString.slice( queryString.indexOf("?") + 1, queryString.length );
+		
+		// Split all params on &
+		queryArray = queryString.split("&")
+		
+		// Go through each array value and see if the LEFT 8 = "partner="
+		// If so, then set local variable partnerValue to the value right of the "="
+		for(i=0; i< queryArray.length; i++)
+		{
+			if( queryArray[i].slice(0,8) == "partner=" )
+			{
+				partnerValue = queryArray[i].slice( queryArray[i].indexOf("=") + 1, queryArray[i].length )
+			}
+		}
+		
+		// If partnerValue has a value, set the cookie
+		if( partnerValue != "")
+		{
+			SetCookie( partnerValue);
+		}
+			
+	}
+}
+
+function SetCookie( partnerValue )
+{
+	// Set expires 365 days in the future
+	expires = new Date();
+	expires.setDate( expires.getDate() + 365 )
+	
+
+    var argv = SetCookie.arguments;
+    var argc = SetCookie.arguments.length;
+    var expires = expires;
+    var path = "/";//(argc > 3) ? argv[3] : null;
+    var domain = (argc > 4) ? argv[4] : null;
+    var secure = (argc > 5) ? argv[5] : false;
+
+   document.cookie = "BISI_PARTNER=" + escape (partnerValue) +
+   ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+   ((path == null) ? "" : ("; path=" + path)) +
+   ((domain == null) ? "" : ("; domain=" + domain)) +
+   ((secure == true) ? "; secure" : "");
+
+}
+
 	</script><link type="text/css" href="/bisi_static/css/buyitsellit.css" rel="stylesheet">
 
 </head>
 
-<body bgcolor="#EAEAEA" leftmargin="15" topmargin="15">
+<body bgcolor="#EAEAEA" leftmargin="15" topmargin="15" onload="">
 
 
 <map name="top_login_help">
@@ -72,17 +131,18 @@
 					<td width="93" height="49"><img src="/bisi_static/images/template/help_button_off.gif" width="92" height="49" border="0" alt="" usemap="#top_login_help"></td>
 				</tr>
 				<tr>
-					<td width="93" height="41"><a href="/StoreFront/browseCategory.jsp?store=1106&amp;root=1"><img src="/bisi_static/images/template/products_button_off.gif" width="91" height="41" border="0" alt="Products"></a></td>
-					<td width="93" height="41"><a href="/bisi/walkthrough/index.vhtml"><img src="/bisi_static/images/template/tour_button_off.gif" width="93" height="41" border="0" alt="Online Stores Tour"></a></td>
-					<td width="93" height="41"><a href="/StoreFront/extraPage.jsp?store=1106&amp;pid=32"><img src="/bisi_static/images/template/comparisons_button_off.gif" width="93" height="41" border="0" alt="Product Comparisons"></a></td>
+					<td width="93" height="41"><a href="/StoreFront/browseCategory.jsp?store=1106&amp;root=1"><img src="/bisi_static/images/template/products_button_off.gif" width="91" height="41" border="0" alt="online store package products"></a></td>
+					<td width="93" height="41"><a href="/bisi/walkthrough/index.vhtml"><img src="/bisi_static/images/template/tour_button_off.gif" width="93" height="41" border="0" alt="online store features tour"></a></td>
+					<td width="93" height="41"><a href="/StoreFront/extraPage.jsp?store=1106&amp;pid=32"><img src="/bisi_static/images/template/comparisons_button_off.gif" width="93" height="41" border="0" alt="online store package feature comparisons"></a></td>
 					<td width="93" height="41"><a href="/bisi/directory.vhtml"><img src="/bisi_static/images/template/directory_button_off.gif" width="93" height="41" border="0" alt="Online Store Directory"></a></td>
-					<td width="93" height="41"><a href="/StoreFront/extraPage.jsp?store=1106&amp;pid=33"><img src="/bisi_static/images/template/faq_button_off.gif" width="93" height="41" border="0" alt="F.A.Q."></a></td>
-					<td width="93" height="41"><a href="/StoreFront/contactPage?store=1106"><img src="/bisi_static/images/template/contact_button_off.gif" width="92" height="41" border="0" alt="Contact Us"></a></td>
+					<td width="93" height="41"><a href="/StoreFront/extraPage.jsp?store=1106&amp;pid=33"><img src="/bisi_static/images/template/faq_button_off.gif" width="93" height="41" border="0" alt="online store frequently asked questions"></a></td>
+					<td width="93" height="41"><a href="/StoreFront/contactPage?store=1106"><img src="/bisi_static/images/template/contact_button_off.gif" width="92" height="41" border="0" alt="contact us via message board, email or phone"></a></td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
 </tbody></table>
+
 
 <!-- body table start -->
 <table bgcolor="#FFFFFF" align="center" valign="top" width="730" height="410" border="0" cellpadding="0" cellspacing="0">
@@ -263,18 +323,26 @@ you can contact
 <!-- footer start -->
 <table align="center" valign="top" width="730" height="21" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
+
 		<td width="730" height="2"><img src="/bisi_static/images/template/pixel.gif" width="730" height="2" border="0" alt=""></td>
 	</tr>
 	<tr>
 		<td align="center" width="730" height="21" background="/bisi_static/images/template/footer_bg.gif">
-			<font class="whiteFooterText"><a class="whiteFooterText" href="/bisi/copyright.vhtml">Copyright © 2004 BuyItSellIt Corporation</a> | <a class="whiteFooterText" href="privacy_policy.vhtml">Privacy Policy</a> | <a class="whiteFooterText" href="/bisi/terms_of_use.vhtml">Terms of Use</a> | <a class="whiteFooterText" href="/bisi/sitemap.vhtml">Site Map</a> | <a class="whiteFooterText" href="/StoreFront/extraPage.jsp?store=1106&amp;type=Promise">Policies</a> | <a class="whiteFooterText" href="/StoreFront/extraPage.jsp?store=1106&amp;type=Profile">Company Profile</a></font>
+			<font class="whiteFooterText"><a class="whiteFooterText" href="/bisi/copyright.vhtml">Copyright © 2005 BuyItSellIt Corporation</a> | <a class="whiteFooterText" href="/bisi/privacy_policy.vhtml">Privacy Policy</a> | <a class="whiteFooterText" href="/bisi/terms_of_use.vhtml">Terms of Use</a> | <a class="whiteFooterText" href="/bisi/sitemap.vhtml">Site Map</a> | <a class="whiteFooterText" href="/StoreFront/extraPage.jsp?store=1106&amp;type=Promise">Policies</a> | <a class="whiteFooterText" href="/StoreFront/extraPage.jsp?store=1106&amp;type=Profile">Company</a> | <a class="whiteFooterText" href="http://tools.buyitsellit.com/idevaffiliate/index.php">Affiliates</a></font>
+
 		</td>
 	</tr>
 </tbody></table>
 
 
 
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
 
+<script type="text/javascript">
+_uacct = "UA-86682-1";
+urchinTracker();
+</script>
 
 
 
