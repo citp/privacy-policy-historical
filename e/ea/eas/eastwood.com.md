@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastwood.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308031959id_/http%3A//www.eastwood.com/custserv/customerservicemain.jsp%3Fcid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastwood.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225045445id_/http%3A//eastwood.com/custserv/customerservicemain.jsp%3Fcid%3D2) for the most accurate reproduction.*
 
 # Eastwood Company: Auto Tools, Body Repair, Classic Car Restoration, House of Kolor Paint, Powder Coating
 
@@ -16,15 +16,17 @@ We use a single cookie that assists us in determining Web site traffic patterns.
 
 The cookie contains absolutely no personal information. If you do not want to receive cookies, you can set your browser to accept no cookies, or tell it to erase all cookies at the end of a session.
 
+However, if you choose to disable cookies, you may not be able to use features such as My Account or Wish Lists.
+
 **INFORMATION YOU PROVIDE:** Eastwood receives and stores any information you provide when placing an order, entering a promotional event or requesting email announcements. Name, address and phone number are required when you place an order. Email addresses are utilized to confirm orders have been placed or shipped and provide customers with new product announcements and special savings. 
 
 **SECURITY OF INFORMATION YOU PROVIDE:** We work to protect the security of the information you provide during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you input. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
 
-**WHAT WE DO WITH THE INFORMATION PROVIDED:** The Eastwood Company recognizes that privacy of personal information is of the utmost importance. Therefore, information will only be shared with approved partners. The partner approval process involves an analysis of the ethical standards of the prospect partner, product/service quality, reputation, how our customers will be approached and treated, the likelihood of partner's product/service appealing to Eastwood customers and other factors as well. 
+**WHAT WE DO WITH THE INFORMATION PROVIDED:** The Eastwood Company recognizes that privacy of personal information is of the utmost importance. Therefore, information will only be shared with approved partners. The partner approval process involves an analysis of the ethical standards of the prospective partner, product/service quality, reputation, how our customers will be approached and treated, the likelihood of partner's product/service appealing to Eastwood customers and other factors as well. 
 
 **AGENTS:** Occasionally, we will employ other companies to perform functions on our behalf. These companies do have access to personal information while fulfilling their obligations, but do not have the authority to utilize any information. 
 
-**CONSENT:** By utilizing The Eastwood Company web site to gather information or place product orders you consent to our collection and use of your personal information. 
+**CONSENT:** By accessing The Eastwood Company web site to gather information or place product orders, you consent to our collection and use of your personal information. 
 
 **QUESTIONS OR SUGGESTIONS:** If you have questions or suggestions, send an email to webmaster@eastwoodco.com. 
 
