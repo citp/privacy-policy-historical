@@ -1,98 +1,143 @@
-> *The following text is extracted and transformed from the improvenet.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404093747id_/http%3A//www.improvenet.com/HomeOwner/secure/truste/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvenet.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225013145id_/http%3A//www.servicemagic.com/servlet/RedirectServlet%3FD%3DPRIVACYSTATEMENT%26m%3Dimprovenet2005%26entry_point_id%3D617718) for the most accurate reproduction.*
 
-# Improvenet Inc. : Home Owner
+# ServiceMagic - Privacy Statement
 
-### TRUSTe Licensee
+| **ServiceMagic PRIVACY POLICY effective August, 2005**
 
-ImproveNet Inc. is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the ImproveNet website. When you visit a website displaying the TRUSTe trustmark, you can expect to be notified of the following: what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use, and distribution of the information; what kind of security procedures are in place to protect the loss, misuse, or alteration of information under the company's control; and how you can correct any inaccuracies in the information. 
+This privacy policy applies to [http://www.servicemagic.com](http://www.servicemagic.com/) and all websites and URL's controlled or operated by ServiceMagic, Inc., which link to this policy, unless otherwise specified. Real Estate services and Home Loans services are owned, operated and provided by LendingTree, Inc., and not by ServiceMagic, and the privacy policies applicable to your use of those services are governed by the privacy policies located on those websites. 
 
-Questions regarding this statement should be directed to the Marketing department by emailing [inquiry@ImproveNet.com](mailto:inquiry@ImproveNet.com), mailing to 10799 N. 90th Street, Suite# 200, Scottsdale, AZ 85260, U.S.A., or calling us at 480.346.0000. If the website has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe (<http://www.truste.org/consumers/watchdog_complaint.php>). To return to the website, please use the "Back" button on your browser. 
+This is a new privacy policy effective as of the date set forth above. Even if you read and approved a prior policy, you need to review this new version as it has been updated and revised. 
 
-**What is a privacy statement and why do you publish one?**  
-A privacy statement explains how a website collects information about its users. It also describes the ways in which it uses this information. 
+Titles and headings are provided for general reference and ease of use only, as information may be covered in more than one heading or under other headings. 
 
-ImproveNet is publishing this statement so that you, our customers, will understand the premium we place on your patronage. This site uses SSL (Secure Sockets Layer), which is an industry standard protocol used for secure transmission of data across the Internet. SSL protects against the loss, misuse, and alteration of the information under our control. We know that you place your trust in us when you give us your personal information. In return, we want to disclose exactly how we plan to safeguard this data. 
+If users have questions or concerns regarding this statement, they should first contact ServiceMagic's privacy department at [privacy@servicemagic.com](mailto:privacy@servicemagic.com). 
 
-**What information do you collect about your users?**  
-Different parts of the ImproveNet website prompt you for different types of information. For example, while we might ask you for just your name and contact information to use our message boards, we ask for a credit card number if you request a contract review. 
+**Information Collection**
 
-Depending on the services you use on our site (or the surveys you respond to or the contests your enter), you might be asked to give us any of the following types of information: 
+**Registration and Service Professional Enrollment**   
+In order to complete a service request or to enroll as a prospective service professional, a user must first complete a registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which they have expressed interest, to inform service professionals of leads, and/or inform customers about service professionals they matched to. By providing this information to us, or by submitting a service request, you expressly consent to being contacted by us and by our service professionals and providers via phone, fax, email, mail or other reasonable means, at any of your contact numbers or addresses, in order that we may provide the services set forth on our Web site, service your account, reasonably address matters pertaining to your account or for other reasonable purposes related to our business. Unique identifiers (such as username and password) are required. It is optional for the user to provide demographic information (such as income level and gender) but encouraged so we can provide a more personalized experience on our Web site. We also require a US service professional's social security number or federal tax id number to complete a background check (credit is not checked), prior to a US service professional being approved to join our network. 
 
-  * your name
-  * your email address
-  * your phone number
-  * your zip code
-  * your home-remodeling interests
-  * the timing of your projects
-  * your credit card number
+**Service Request**   
+We request information from the consumer in our service request interview process. A user must provide detailed information about the service requested. No financial information (such as credit card number, expiration date) is collected from the consumer. This information is used to match consumers with appropriate service professionals. The information may also be used to contact the consumer to verify or clarify their service request or to customize the consumer's Web site experience or future ServiceMagic communication. 
 
+**Feedback, Ratings and Reviews and Testimonials**  
+Additionally, we collect feedback from users (called ratings and reviews) about the performance of Service Professionals who work for them. We also collect general feedback and testimonials from users of our service and system. By providing such feedback to us, you consent to our use, publication and/or distribution of such feedback at no compensation to you, and if you are a Service Professional in our system, you acknowledge that all such ratings and reviews are solely owned by ServiceMagic, and you consent to the publication of ratings and reviews about you and your business. 
 
+**Information Use**
 
-Also, although you do not submit certain information to us directly, we use programs called "cookies" to detect and record your IP address, which is the virtual address of the computer you use to access the Internet. This numerical information helps us understand a few other facts about you, such as the type of computer and software you are using, the Internet Service Provider you use to connect to the Internet, and other broad demographic facts. 
-
-**What do you do with the information you gather?**  
-ImproveNet never sells or gives your information to any list management firms. Most of the advertisers on our site are also not permitted to receive your personal information, although we may report aggregate data to them, such as the total number of jobs we’ve received by job type, etc. 
-
-The exception is advertisers that use our “Find a Contractor” service on their own sites. If you ask one of our advertisers to find a professional where the search process is Powered by ImproveNet, the information you provide about that particular job is shared by ImproveNet and that advertiser. ImproveNet will not share that information with any other advertiser or any list firm. You will need to check the advertiser’s privacy statement regarding its policies. 
-
-When you register to find a contractor, architect, or designer, your information is given out ONLY to those professionals interested in bidding on your project. We give you a list and contact information of the professionals to whom we have given your personal information (never more than four professionals). Your information is also used by us to track progress on your project and to get feedback from you on the professional you chose. 
-
-We share Personally Identifiable Information with third parties. From time to time in our email correspondence with you, we will provide you the opportunity to receive information on home improvement related products and services from outside third parties who have a contractual affiliation with ImproveNet. In the event that you elect to receive such information by affirmatively OPTING IN in your response to the email for information from a particular outside third party, then ImproveNet will deliver your Personally Identifiable Information to such third party. The outside third parties that have a contractual affiliation with us have agreed to use your Personally Identifiable Information only for the specific purpose of providing to you the home improvement products and services named in the email. However, we can make no assurances that the Personally Identifiable Information is not used in some other manner. Please refer to each third party’s website for its policy regarding the use of Personally Identifiable Information it receives. 
-
-**Ways We Use Your Information**  
-Here are some examples of the ways we use your information: 
-
-We use your IP address to help diagnose problems with our server, to administer our website, and to make sure that you don't see the same advertisements over and over again. 
+**Profile**  
+We store information that we collect through the Web site experience and activities, cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences, activities and interactions with ServiceMagic. Consequently, collected information is tied to the user's personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site and to direct pertinent marketing promotions and communications to them. 
 
 **Cookies**  
-A "cookie" file is a data file that we write to your hard drive when you visit us. With this cookie we are able to track every time you come to our site and keep track of your preferences, login, and password. This information helps us serve content specific to you in a form you prefer. Cookies are also used to prepopulate forms you request on our site. We do link the information we store in cookies to personally identifiable information you submit while on our site. If you prefer not to be "cookied," you can disable this function from your web browser. 
+A cookie is a piece of data tied to information about the user and stored on the user's computer. We use both session cookies, which terminate when a user closes his browser, and persistent cookies, which remain on the user's computer until manually deleted. 
+
+By setting a persistent cookie, we enable our users to not have to log in with a password more than once, thereby saving time while on our Web site. If users reject these cookies, they may still use our Web site. The only drawback to this is that the experience and/or access of a user may be limited in some areas of our Web site. For example, the user may not be able to participate in any of our sweepstakes, contests or monthly drawings that may take place. See the "Profile" section. 
+
+We may use third-party advertising companies to serve ads on our behalf and to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. These companies, which may include OPM Performance Marketing ("OPM"), a division of Overture Services, Inc. ("Overture") and Microsoft, Inc., may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+
+**Third Party Advertising**  
+Some of our business partners may use cookies on our Web site (for example, advertisers). We have no access to or control over these cookies once our business partners have been given permission to set cookies. This privacy statement covers the use of cookies by ServiceMagic only and does not cover the use of cookies by any advertisers. 
 
 **Log Files**  
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the Web site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. 
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+**Clear Gifs** (Web Beacons/Web Bugs)  
+We employ and/or our third party advertisers employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site and marketing campaigns by informing us what content and which campaigns are effective. Clear gifs are tiny graphics, about the size of a period at the end of a sentence, with a unique identifier. Clear gifs are similar in function to cookies and are used to track the online movements of Web users. 
 
-We do not link this automatically-collected data to personally identifiable information. 
+Clear Gifs can "work with" existing cookies on a computer if they are both from the same Web site or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear gif, the Web site or advertising company would match the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company or Web site. To learn more about our advertising partners' use of clear gifs, please contact us at [privacy@servicemagic.com](mailto:privacy@servicemagic.com). 
 
-We use customer contact information from the registration form to send you tailored information about interests that you have indicated and promotional material from some of our affiliates. Your contact information is also used to contact you when necessary, such as informing you of updates to our site and alerting you to special offers from us or our advertisers. (Users may opt out of receiving future mailings, if they wish to.) 
+In addition, ServiceMagic and its advertisers use clear gifs in HTML-based emails. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns by showing how may emails have been opened by the recipients. If users would like to opt-out of these emails, please see the Opt-out section. 
 
-When you register on our site, your information will give you access to various features of our site. When your register to Find a Contractor, Architect, or Designer, we use your information to contact you to audit the quality of the work done and match your job with our highest-rated prescreened professionals. Your information is only shared with those professionals interested in doing your project (never more than four). 
+**Communications from ServiceMagic and its Service professionals**
 
-Our site uses billing information (like credit card numbers) only to bill a user for products and services he or she orders. 
+**Special Offers and Updates**  
+We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a bi-monthly newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections. 
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communication from us, notifying them of the changes in our privacy practices. 
+**Newsletter**  
+If a user wishes to subscribe to our newsletters, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections. 
 
-**Other Privacy Caveats**  
-Here are a couple of other things we thought you'd like to know: 
+**Service Announcements**  
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
 
-This site contains links to other sites. ImproveNet cannot take responsibility for the privacy practices or the content of the sites we link to. 
+**Leads Notifications and Trial Lead Notifications**  
+If a user either signs up for our trial program or joins our service professional network, and elects to receive their leads via email, that user will receive multiple communications from us. Other ways we contact members of our service professional network are via fax, pager, outbound IVR (interactive voice response), and/or cell text (SMS) messaging. Members of our service professional network (or prospective members enrolled in Free Trial) can designate and opt-in on our Web site or by contacting customer service to receive leads in one or more of these formats. 
 
-This site makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information in such a forum. 
+**Customer Service**  
+We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account via email, fax, phone or mail, and we reply to user inquiries via email or phone, or other reasonable means, in accordance with the user's wishes where applicable. 
 
-We also enable users to email pages of our web site to third parties. We may send a one time email to the third party inviting them to register on our web site. This email will contain a link to unsubscribe. No further emails will be sent unless they OPT IN to receive email from us. 
+**Sharing Information to Provide Services and to Conduct Our Business**
 
-**Choice/Opt Out and Correct/Update**  
-Our site provides users the opportunity to opt out of receiving communications from us and our affiliates including emails, newsletters and promotional communications. _We offer this in our first status check email to you as well as all subsequent emails._ If you no longer wish to receive our emails, newsletters or promotional communications, you may opt-out of receiving them by following the instructions included in each email, newsletter or promotional communication or by emailing us at [inquiry@improvenet.com](mailto:inquiry@improvenet.com). 
+When you submit information to ServiceMagic, you authorize us to share this information with our network of service professionals and partners in order to try to provide the services you request. For example, when an approved member of our service professional network accepts a lead from a registered user, and that user indicates what personal information they are willing to share so that the service professional can contact the user, such as telephone numbers, physical addresses and email addresses, that information is shared with our service professionals who have accepted a service request lead. In addition, we have other approved contractual partners that fulfill services requests, or that utilize their own service professionals to supplement our network, and we share your information with them, subject to contractual confidentiality restrictions, in order to attempt to provide the services requested. If using our services pursuant to a membership with one of our partners, ServiceMagic may share your service request activity information with such partner in certain circumstances. We may also post and publish users’ ratings and reviews of Service Professionals' performance, as well as feedback and testimonials at our sole discretion. We may also release information to collection and/or credit agencies for past due service professional accounts. 
 
-You can also ask us to remove, change, or modify your information from our databases in one of the following ways: 
+Though we strive to preserve user privacy, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will always remain confidential. By way of example, we may disclose personal information when required by law wherein we have a belief that such action is necessary or advisable to comply with a judicial proceeding, court order, legal proceeding, process or investigation served on our business or Web site(s), or when we believe parties are misusing or attempting to misuse our Web sites or services, including but not limited to violating the law, committing fraud, deception, theft, attempting to harm or divert our business, engaging in threatening or inappropriate behavior or threatening to place, or placing themselves or others in danger. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to require us to share or transfer your information to third parties. Finally, although we strive to protect your privacy, third parties beyond our control may unlawfully intercept or access transmissions or private communications. Therefore, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
 
-  * Send email to [inquiry@improvenet.com](mailto:inquiry@improvenet.com)
-  * Send U.S. mail to 10799 N. 90th Street, Suite# 200, Scottsdale, AZ 85260, U.S.A.
-  * Call the following telephone number: 480.346.0000
-  * You can also unsubscribe to the emails by clicking on "Reply."
+ServiceMagic will not be responsible or otherwise liable for any use or disclosure of your personal information by a third party to whom ServiceMagic is allowed to disclose you personal information under this privacy policy.
 
+**Aggregate Information** (non-personally identifiable)  
+ServiceMagic may share aggregated activity or statistical information with partners, advertisers or others, but such information shall not contain personally identifiable information. 
 
+**Business Transitions**  
+In the event ServiceMagic goes through a business transition such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. See also, section entitled "Changes and updates to this policy..." set forth below. 
 
-**Legal Disclaimer**  
-_We reserve the right to disclose your Personally Identifiable Information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site._
+**Choice/Opt-out**  
+Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our Web site at the point where we ask for information. For example, our service request form has an 'opt-out' mechanism so users who submit a service request from us, but don't want any marketing material, can keep their email address off of our marketing lists. 
 
-**Contacting the Website**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, please feel free to contact us! You can reach us in any of the following ways: 
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the email or email us at [customerservice@servicemagic.com](mailto:customerservice@servicemagic.com). 
 
-  * Send email to [inquiry@improvenet.com](mailto:inquiry@improvenet.com)
-  * Send U.S. mail to 10799 N. 90th Street, Suite# 200, Scottsdale, AZ 85260
-  * Call the following telephone number: 480.346.0000.
+Users of our Web site are always notified when their information is being collected by any outside parties (excluding our affiliates, service providers, or agents) for marketing purposes. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
 
+**Links and Integrated Partnerships**  
+This Web site contains links from and to other Web sites. Please be aware that ServiceMagic is not responsible for the privacy practices of such other Web sites. We encourage our users to be aware of this when they leave our Web site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by ServiceMagic’s Web site. 
 
+With some partners, ServiceMagic receives information concerning the service requested by a consumer including personal or contact information that is inputted on a partner Web site. This information is sent from the partner to us either in a batched format, or via Internet technology such as XML, FTP or HTTP Post. This information may or may not be encrypted by the partner. With other partners, ServiceMagic may provide information concerning a consumer's service request, including contact information to other partners to provide services. 
 
-Updated: 03/28/05 
+**Surveys & Contests**   
+From time-to-time, ServiceMagic may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and mailing address), and demographic information (such as zip code). Contact information will be shared with the contest or survey sponsors (if ServiceMagic elects to utilize an outside promotions or survey company) to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of our services and this Web site. 
+
+**Tell-A-Friend**  
+If a user elects to use our referral service for informing a friend about our Web site, we ask them for the friend's name and email address. ServiceMagic will automatically send the friend a one-time email inviting them to visit the Web site. ServiceMagic stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact ServiceMagic at [privacy@servicemagic.com](mailto:privacy@servicemagic.com) to request the removal of this information from our database. 
+
+**Security**  
+"Perfect security" does not exist on the Internet and we do not guarantee security of information or that unauthorized access will not occur. However, we take all reasonable precautions when protecting your personal information. Servers that store personally identifiable information are located in a supervised and/or locked facility. Users' personal information off line is restricted by our internal security procedures, and authorized access to such information is only provided to our employees and contractors who reasonably need the information for their areas of responsibility (for example, a billing clerk, a sales rep, a customer service representative or management). 
+
+Your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and may be stored on equipment or in facilities leased or licensed from third parties. 
+
+If users have any questions about the security at our Web site, users can send an email to [privacy@servicemagic.com](mailto:privacy@servicemagic.com). 
+
+**Verification and Supplementation of Information**   
+In order for us to better conduct our business it is sometimes advisable or necessary for us to verify and/or supplement the information we receive from service providers and users of our Web site with information from 3rd party sources, provided that such sources confirm to us that they are permitted to share such information, such information is publicly available or the collection is required or authorized by law. Examples of collection from other sources include collections from:
+
+     • insurance companies;  
+     • government agencies or registries; and  
+     • the Better Business Bureau; 
+
+**Enhancement of Marketing Profile**  
+Occasionally, we purchase third party marketing data and add it to our existing user database to better target our advertising and provide pertinent offers we think our users would be interested in. We use this information to enhance or overlay the 'profile' of individual users. This aggregate marketing data is therefore tied to the users' personally identifiable information. See also the "Profile." 
+
+**Correcting/Updating/Deleting/Deactivating Personal Information**   
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a means to access, correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our Customer Support at [customerservice@servicemagic.com](mailto:customerservice@servicemagic.com). Or, contact us by telephone or postal mail at the contact information listed below. Please note that deleting your account information will not delete all of your contact information or other information contained on our systems, as much or all of this information will be retained to preserve records of our commercial relationship with you, or as required by law. Further, certain information may have already been provided to third parties as described herein. 
+
+**Denial of Access to Personal Information**   
+Your rights to access your personal information are not absolute. We may deny access:
+
+     • when denial of access is required or authorized by law;  
+     • when granting you access would have an unreasonable impact on other people’s privacy;  
+       privacy;  
+     • to protect our Company’s rights and property; or  
+     • where the request is frivolous or vexatious.
+
+If we deny your request for access to, or refuse a request to correct Personal Information, we will explain why. 
+
+**Changes and Updates to This Policy and to ServiceMagic Services, Products and Functionality of Web Site(s)**   
+We reserve the right to change our information, features, services, products, policies, promotions, disclosures and disclaimers at any time. Changes to this Policy will be in writing and be posted on our Web site as applicable. Please check these terms periodically for changes. At the top of the policy we indicate the date of an update. The continued use of any ServiceMagic services or of the applicable ServiceMagic affiliated web sites following the posting of changes to these terms will mean you accept those changes. 
+
+**Contact Information**  
+If users have any questions or suggestions regarding our privacy policy, please contact us at: 
+
+ServiceMagic  
+14023 Denver West Parkway  
+Bldg. 64, Suite 200  
+Golden, CO 80401  
+(877) 800-3177  
+[customerservice@servicemagic.com](mailto:customerservice@servicemagic.com) or   
+[privacy@servicemagic.com](mailto:privacy@servicemagic.com)
