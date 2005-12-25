@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prisonfellowship.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204162730id_/http%3A//www.pfm.org/AM/Template.cfm%3FSection%3DPFM_Site%26Template%3D/CM/ContentDisplay.cfm%26ContentID%3D11597) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prisonfellowship.org privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225051848id_/http%3A//www.pfm.org/AM/Template.cfm%3FSection%3DPFM_Site%26Template%3D/CM/ContentDisplay.cfm%26ContentID%3D11597) for the most accurate reproduction.*
 
 # PFM | Prison Fellowship Privacy Policy
 
@@ -8,7 +8,7 @@
 
 
 Prison Fellowship Privacy Policy  
-Feb. 5, 2004
+Jan. 3, 2005
 
 **Table of Contents:  
 **
@@ -69,7 +69,7 @@ We use the information you provide about someone else when placing an order to s
 
 We use email addresses to fulfill your requests for newsletter subscriptions and to answer the email we receive.
 
-We also use email addresses and mailing addresses to send updates about various ministry activities.  To exclude yourself from any of these mailings, electronic or postal, please call us at (877) 478-0100, email us at [info@pfm.org](mailto:info@pfm.org), or write to us at 1856 Old Reston Ave., Reston, VA  20190.  (You may also opt out of electronic mailings by clicking the unsubscribe link included in each mailing.)
+We also use email addresses and mailing addresses to send updates about various ministry activities.  To exclude yourself from any of these mailings, electronic or postal, please  [contact us](https://web.archive.org/AM/Template.cfm?Section=Contact_Us5). (You may also opt out of electronic mailings by clicking the unsubscribe link included in each mailing.)
 
 Back to top.
 
@@ -91,7 +91,7 @@ Back to top.
 
 **Sharing Information with Third Parties**
 
-Occasionally, we share the addresses of donors who have not given to the ministry in over two years with other like-minded ministries.  To exclude your information from ever being shared, please call us at (877) 478-0100, email us at [info@pfm.org](mailto:info@pfm.org) or write to us at 1856 Old Reston Ave., Reston, VA  20190.
+Occasionally, we share the addresses of donors who have not given to the ministry in over two years with other like-minded ministries.  To exclude your information from ever being shared, please [contact us](https://web.archive.org/AM/Template.cfm?Section=Contact_Us5).
 
 Also, from time to time we acquire details about people who are in our database from third parties to enhance the data we already have. 
 
@@ -117,7 +117,7 @@ Back to top.
 
 **How to Contact Us**
 
-Should you have other questions or concerns about these policies, please call us at (877) 478-0100, email us at [info@pfm.org](mailto:info@pfm.org), or write to us at 1856 Old Reston Ave., Reston, VA  20190.
+Should you have other questions or concerns about these policies, please [contact us](https://web.archive.org/AM/Template.cfm?Section=Contact_Us5).
 
 Back to top.
 
