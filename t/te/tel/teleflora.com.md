@@ -1,46 +1,42 @@
-> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305031740id_/http%3A//www.teleflora.com/TFprivacy.asp%3FVID%3D2230) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225073458id_/http%3A//www.teleflora.com/securityprivacy.asp) for the most accurate reproduction.*
 
 # teleflora.com
 
-This privacy statement has been created in order to demonstrate teleflora.com's firm commitment to protecting customer privacy.
+Security & Privacy
 
-Information teleflora.com Collects  
-If you open an account on our site, we need your contact information including your name, e-mail address and mailing address. We use your purchase history, contact information and other registration information to send you information and to otherwise enhance your shopping experience.
+Welcome to www.Teleflora.com (the “Site”), a website provided by Teleflora LLC (“we”, “us” or “our”). We want you to feel comfortable using the Site, so we have created this Privacy Policy to let you know what information we may collect from you on the Site and how we may use that information. Please take a moment to review the terms of our Privacy Policy. By using the Site, you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site. This policy is effective as of September 14, 2005.
 
-When you visit our website, we also collect some basic information that does not identify individual users. We use this information to determine our users' demographics and interests, so that we can better understand and serve our users.
+******Aggregate Information We Collect**   
+From time to time, we also may collect general, non-personal, statistical information about the use of the Site, such as visitors' IP addresses, how many visitors visit a specific page on the Site, how long visitors stay on that page, and which hyperlinks, if any, visitors "click" on. We collect this information in order to determine which areas of the Site are most popular and to enhance the Site for visitors. We may also group this information into aggregate visitor data in order to describe the use of the Site to our existing or potential business partners, sponsors, advertisers or other third parties, or in response to a government request. However, please be assured that this aggregate data will in no way personally identify you or any other visitors to the Site. An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web, and can be used to identify your computer. However, when we collect IP addresses, we do so only in an aggregate fashion and not in a way that will identify you personally.
 
-“Cookies”
+******Personally Identifying Information We Collect**   
+In order to access certain information and features contained on the Site, we may require you to register for an account on the Site or otherwise provide us with personally identifying information (“PII”). The categories of PII we collect may include, without limitation, your first and last name, email address, mailing address, phone and fax numbers, and general information about you. We may also may collect any other information you provide us voluntarily or through your electronic communications with us. We collect PII in order to fulfill our services to you and to ensure compliance with our policies and applicable law. We may also may use your PII to process requested transactions, customize the services we provide to you and send you periodic communications by email or regular mail. For example, we may ask for your feedback regarding the Site or provide you with promotional or other special offers.
 
-“Cookies” are small files which store certain information about your activity on the website and are stored on your computer's hard drive. Our cookies do not contain any personally identifying information. We use cookies to let us know that you are a prior customer, so that you don't have to reenter information you gave us on your prior visits. Most web browsers automatically accept cookies, but most allow you to instruct your browser to prevent the use of cookies. However, if you disable cookies, you will not be able to use certain features of this website.
+******Disclosure of Personally Identifying Information**   
+We may sometimes disclose your PII to our third-party business partners in order to allow them to perform certain services for us, such as, for example, delivering our products, sending postal mail and providing marketing assistance and data analysis. We may also share your PII with other selected companies from time to time. In addition, we may sometimes share your PII with other companies within our family of companies, and they may send you periodic communications that we believe will be of interest to you. If you prefer not to receive such communications from us, you can email us to request removal from our list. As we develop, we may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that we or all of our assets are acquired, customer information would be one of the transferred assets. Finally, we reserve the right to disclose visitor information to applicable authorities in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other visitors, or anyone else that could be harmed by such activities. This includes our right to exchange information with other organizations in order to protect against fraud and to reduce credit risk. We also reserve the right to disclose visitor information to applicable authorities when we believe in good faith that the law requires it.
 
-Our Use and Disclosure of Your Information  
-We may send e-mails to our users announcing special promotions, changes in our services or other information we believe will be of interest to our users. If you prefer not to receive e-mail, you can E-mail Us to request removal from our list.
+******Cookies**   
+Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. Cookies make web-surfing easier for you by saving your preferences while you're at the Site. We never save credit card information in cookies. The use of cookies is an industry standard -- you'll find them at most websites. By showing how and when visitors use the Site, cookies help us see which areas are popular and which are not. Information such as the total number of visitors and pages viewed is most easily tracked with cookies. We may use the information from cookies to make improvements and updates to the Site and to tailor our services to our visitors' needs. You always have the option of disabling cookies using your browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, please be aware that some features of the Site may not function properly or may be slower if you refuse cookies. You may occasionally get cookies from our advertisers. We do not control these cookies. The use of advertising cookies sent by third-party servers is common in the Internet industry.
 
-If you send us personal correspondence, such as e-mails or letters, or if other users or third parties send us correspondence about your activities on our site, we may collect such information. We may use that information and other information that we obtain from your use of our site to resolve disputes, troubleshoot problems and enforce our agreement for Terms of Use.
+******Links to Other Sites; “Public” Areas**   
+Please be aware that when you are on the Site, you could be directed to other sites that are beyond our control. There are links to other sites from the Site's pages that take you outside our Site. These other sites may send their own cookies to visitors, collect data or solicit personal information. The privacy policies of these other sites may be significantly different from this Privacy Policy. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there.
 
-We may share aggregate statistics about our sales, traffic patterns and related site information with other businesses, but these statistics will include no personally identifying information.
+******Security**   
+Protecting the security of your personal information is very important to us. If you register with us, your online account information is protected by a password chosen by you. Access to that online account requires your username and password. We recommend that you do not disclose your username and password to any other person. When you transmit PII from your PC to our servers, your information also is protected by both a “firewall” intrusion detection system (a combination of computer hardware and software that helps keep unauthorized visitors from accessing information within our computer network) and, in certain circumstances, industry standard SSL (secure socket layer) encryption. Once we receive your transmission, we will take reasonable precautions to ensure its security on our systems using physical, electronic and procedural safeguards. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your personal information.
 
-We may occasionally share customer names and addresses with reputable vendors. Of course, you can choose not to let us share your personal information with any other vendors, by sending an e-mail to us with the subject line “don't share my information”.
+******Privacy Policy for Minors**   
+We do not knowingly collect information from minors. If you are under 18, please do not provide any personal information to us.
 
-We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Statement. For example, we may be required to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that may be illegal or may expose us to legal liability.
+******Changes to These Terms**   
+The terms of this Privacy Policy may change from time to time without prior notice to you, so please check this page periodically for any changes. Your continued use of the Site following the posting of changes to these terms will mean you accept those changes.
 
-Security  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+******Questions**   
+Any questions that you may have regarding this Privacy Policy should be directed to:
 
-All user credit card information is securely communicated using secure socket layer (SSL) software, which is the industry standard and among the best software available for secure commerce transactions. 
-
-All user information stored on our server is stored in an encrypted format. Notwithstanding these efforts, we caution you that “perfect security” does not exist on the Internet.
-
-Linked Sites  
-If this site contains any links to other websites, we are not responsible for the privacy practices or the content of such websites.
-
-A Special Note About Children  
-We do not knowingly solicit data from children, nor do we knowingly market to children. Teleflora.com requires that children under the age of 18 use this service only in conjunction with their parents or guardians. 
-
-Changes to Privacy Statement; Consent  
-We may update this Privacy Statement from time to time. You should check this page periodically for changes. By using our site, you consent to the collection and use of your information by us as described in this Privacy Statement.
-
-Questions and Comments  
-We welcome your 
-
-[_questions and comments_](https://web.archive.org/info.asp?id=371) about this Privacy Statement. 
+Teleflora LLC   
+11444 West Olympic Boulevard   
+Los Angeles, California 90064   
+Attention: General Counsel   
+Telephone: 310-966-5700   
+email: [legalinfo@teleflora.com](mailto:legalinfo@teleflora.com)   
+© 2005 Teleflora LLC. All rights reserved.
