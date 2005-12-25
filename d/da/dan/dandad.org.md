@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dandad.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306024226id_/http%3A//www.dandad.org/terms.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dandad.org privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225134528id_/http%3A//dandad.org/terms.asp%23privacy) for the most accurate reproduction.*
 
-# D&AD: Terms and conditions of the Design And Art Direction
+# D&AD: Terms and Conditions
 
-Except where indicated otherwise all copyright and other rights that subsist in the home page and in the sub-domain pages of the www.dandad.org website ("the Site") are owned by British Design & Art Direction of 9 Graphite Square, Vauxhall Walk, London SE11 5EE (“D&AD”). 
+Except where indicated otherwise all copyright and other rights that subsist in the home page and in the sub-domain pages of the www.dandad.org website ("the Site") are owned by D&AD of 9 Graphite Square, Vauxhall Walk, London SE11 5EE. 
 
 The use of all pages of the Site are subject to the following terms and conditions of use but access to certain pages of the Site, some of which may be restricted, may be subject to further conditions of use as indicated: 
 
