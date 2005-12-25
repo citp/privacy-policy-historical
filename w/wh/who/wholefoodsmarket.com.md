@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wholefoodsmarket.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630081144id_/http%3A//www.wholefoodsmarket.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholefoodsmarket.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225044028id_/http%3A//wholefoodsmarket.com/privacystatement.html) for the most accurate reproduction.*
 
-# Whole Foods Market : Privacy Statement
+# Whole Foods Market : Privacy Policy
 
 **General**  
 Whole Foods Market thinks your privacy is important. Please read this section of our website to learn more about Whole Foods Market's philosophy and privacy policy. We understand that the protection of privacy is a major concern to many of our customers. For more than 20 years Whole Foods Market has worked hard to gain your trust by selling only the highest quality foods and products, and we want to do everything reasonably possible to keep your trust. To build on our relationship, Whole Foods Market wants you to understand a little bit about how our website interacts with visitors and how we will use any information gathered when you visit our website.
