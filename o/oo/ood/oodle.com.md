@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2005-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050421003426id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225072253id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
 
 # Oodle Privacy
+
+| 
 
 Your privacy is important to us, so Oodle has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to our web sites, including our publicly accessible web sites located at [oodle.com](https://web.archive.org/) (the "Sites"). This Privacy Policy may be updated from time to time. You can always review the most current version at [http://www.oodle.com/info/privacy/](https://web.archive.org/info/privacy/). By using the Sites, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Sites and this Privacy Policy, the Terms of Use control. 
 
