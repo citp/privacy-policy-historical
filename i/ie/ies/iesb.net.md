@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iesb.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403154938id_/http%3A//www.iesb.net/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iesb.net privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225202609id_/http%3A//iesb.net/privacypolicy.php) for the most accurate reproduction.*
 
-# The Movie Reporter
+# IESB
 
 **S & S Media Services Online Privacy Notice **
 
