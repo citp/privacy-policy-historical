@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornaccess.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403160521id_/http%3A//www.pornaccess.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornaccess.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225011500id_/http%3A//www.pornaccess.com/privacy.php) for the most accurate reproduction.*
 
-# PornAccess
+# PornAccess : One password... Infinite Porn !
 
 **This website is owned by Perfect Web Ideas**
 
