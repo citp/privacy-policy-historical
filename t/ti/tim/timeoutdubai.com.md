@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the timeoutdubai.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305113731id_/http%3A//www.timeoutdubai.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutdubai.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225094332id_/http%3A//www.timeoutdubai.com/corporate/privacy.php) for the most accurate reproduction.*
 
-# Time Out Dubai {Corporate - Privacy}
+# Time Out Dubai - Corporate - Privacy
+
+Privacy
 
 **Our privacy policy**  
 Time Out Dubai always promises to serve its audience with integrity and honesty. The same is true for what we publish online. Time Out Dubai has developed this privacy policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for www.timeoutdubai.com (the "site"). By visiting the site, you are accepting the practices described in this privacy policy. Our site will develop and evolve over time, and this policy may change to reflect that.
@@ -47,3 +49,21 @@ This policy is effective as of September 26, 2001. Time Out Dubai may change thi
 You can contact Time Out Dubai regarding this policy either by mail, at Time Out Dubai, PO Box 500024, Dubai, United Arab Emirates, Attention: Webmaster, or by e-mail at [privacy@timeoutdubai.com. ](mailto:privacy@timeoutdubai.com.%20)
 
 If you would like to review the material about you that we have collected via our site, please mail a self-addressed, stamped addressed envelope to: Time Out Dubai, PO Box 500024, Dubai, United Arab Emirates, Attention: Webmaster. 
+
+This Week's Magazine
+
+Dubai Directory
+
+  
+  
+
+
+Weekly Poll
+
+Hot Tickets
+
+Newsletter
+
+Enter your email address to receive the very latest news on all the top events, films, meal deals, hot tickets and competitions of the week.
+
+Competitions
