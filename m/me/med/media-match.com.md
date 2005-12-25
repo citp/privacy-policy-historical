@@ -1,12 +1,39 @@
-> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418144224id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225063949id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
 
-# media-match
+# media-match | directory of film and tv jobs in us
 
 |  
 
 [](http://www.media-match.com/welcome.php)
 
-|  |  
+| [Salvesen Productions](http://www.media-match.com/edirectory_view.php?uid=663124)  
+---  
+Grandslam Productions  
+Solis Creative Service...  
+NGTV  
+Blackstar Independent  
+Confidential  
+Seelinger Productions  
+Entrevation Productions  
+Ny Based TV Production...  
+Character Driven X-Spo...  
+[companies registered: 11,342](http://www.media-match.com/edirectory_search.php)  
+  
+[Writer/Producer](http://www.media-match.com/jobsboard_detail.php?job_uid=552343&)  
+---  
+[Assistant to Editor/Gr...](http://www.media-match.com/jobsboard_detail.php?job_uid=552342&)  
+[Assistant Equipment Ma...](http://www.media-match.com/jobsboard_detail.php?job_uid=552341&)  
+[Editor - Docu/Reality](http://www.media-match.com/jobsboard_detail.php?job_uid=552140&)  
+[carpenter / welder](http://www.media-match.com/jobsboard_detail.php?job_uid=552338&)  
+[Documentary Editor - Fcp](http://www.media-match.com/jobsboard_detail.php?job_uid=552311&)  
+[editor/producer](http://www.media-match.com/jobsboard_detail.php?job_uid=552316&)  
+[Office Coordinator/It ...](http://www.media-match.com/jobsboard_detail.php?job_uid=552313&)  
+[Editors](http://www.media-match.com/jobsboard_detail.php?job_uid=552318&)  
+[Audio Mixers](http://www.media-match.com/jobsboard_detail.php?job_uid=552306&)  
+[more...](http://www.media-match.com/jobsboard.php)  
+ 
+
+|  
 
 Privacy Policy
 
@@ -38,7 +65,8 @@ A part of the [interbase usa](http://www.interbaseusa.com/) network, all use sub
 
 [](http://www.beonscreen.com/banners_in.asp?bannerID=1)
 
+[](http://www.mediaxchange.com/newsletter/index.html)
+
 [](http://us.music-jobs.com/index.php?affid=1112)
 
-|   
----|---|---|---|---|---|---
+| 
