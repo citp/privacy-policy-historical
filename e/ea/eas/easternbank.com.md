@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easternbank.com privacy policy that was archived on 2005-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050607013321id_/http%3A//www.easternbank.com/p_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easternbank.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225205824id_/http%3A//www.easternbank.com/p_privacy_policy.html) for the most accurate reproduction.*
 
 # Welcome to Eastern Bank - Privacy Policy
 
