@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305045047id_/http%3A//www.ourlads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225202902id_/http%3A//ourlads.com/Privacy.html) for the most accurate reproduction.*
 
-# 2005 NFL Draft – 2005 NFL Mock Draft from Ourlads Scouting Services
+# 2006 NFL Draft - 2006 NFL Mock Draft from Ourlads Scouting Services
 
 **Online Privacy Policy**
 
