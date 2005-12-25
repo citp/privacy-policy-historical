@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithsonianmag.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204060034id_/http%3A//www.smithsonianmag.com/smithsonian/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithsonianmag.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225234501id_/http%3A//smithsonianmag.com/smithsonian/privacy.shtml) for the most accurate reproduction.*
 
 # Smithsonian Magazine: Privacy Policy
 
@@ -33,7 +33,7 @@ You may set your browser to refuse cookies from any website that you visit. If y
 
 _Smithsonian_ Magazine's website will only collect personal information which you knowingly and voluntarily provide by, for example, sending emails, completing membership forms, registering for classes, events, or other programs, responding to surveys or ordering merchandise. If you provide us with personal information, we will normally respond to your inquiry, request or order. We may also contact you to provide information about Smithsonian activities, programs, membership and development opportunities, products and special events that may interest you. We will never share your name or information outside the Smithsonian unless you affirmatively authorize us to do so by opting-in.
 
-When we send you such information by email, you will always have an immediate opportunity to decline further communication. Please use the contact specified in the email so that we can remove you from the list that contains your name. If you are uncertain about whom to contact, you may contact our webmaster at [email@simag.si.edu](mailto:email@simag.si.edu). 
+When we send you such information by email, you will always have an immediate opportunity to decline further communication. Please use the contact specified in the email so that we can remove you from the list that contains your name. If you are uncertain about whom to contact, you may contact our webmaster at [smithsonianmagazine@si.edu](mailto:smithsonianmagazine@si.edu). 
 
 There are opportunities to opt-in to receive information from non-Smithsonian entities. If you opt-in, you may receive correspondence from these organizations on programs, products or services that might interest you. If you decide to opt-out of receiving any further correspondence from a non-Smithsonian entity, please correspond directly with that business or organization to be removed from their mailing list.
 
@@ -53,4 +53,4 @@ Within _Smithsonian_ Magazine's website are links to non-Smithsonian websites. W
 
 **Comments**
 
-Questions and comments about this _Smithsonian_ Magazine Privacy Policy may be directed to us via email at [email@simag.si.edu](mailto:email@simag.si.edu). The Smithsonian Institution is a large organization with many people sharing responsibility for the content of websites. Please help us respond to your comments and inquiries by sending them to the appropriate Smithsonian office. In order to help you contact the appropriate Smithsonian office, please consult our list of contacts at <http://smithsonian.org/contacts>. 
+Questions and comments about this _Smithsonian_ Magazine Privacy Policy may be directed to us via email at [smithsonianmagazine@si.edu](mailto:smithsonianmagazine@si.edu). The Smithsonian Institution is a large organization with many people sharing responsibility for the content of websites. Please help us respond to your comments and inquiries by sending them to the appropriate Smithsonian office. In order to help you contact the appropriate Smithsonian office, please consult our list of contacts at <http://smithsonian.org/contacts>. 
