@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the knoxnews.com privacy policy that was archived on 2005-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050427084347id_/http%3A//web.knoxnews.com/contactinfo/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knoxnews.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225193202id_/http%3A//web.knoxnews.com/contactinfo/privacypolicy.shtml) for the most accurate reproduction.*
 
-# KnoxNews.com: Site Services
+# KnoxNews | Knoxville News Sentinel - Knoxville, Tennessee
 
-Privacy Policy
+Privacy Policy 
 
 **KnoxNews.com** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **KnoxNews.com** we intend to give you as much control as possible over your personal information.
 
@@ -37,7 +37,7 @@ In order to ensure the accuracy of personal information provided for registratio
 Knoxville News-Sentinel Co.  
 Online Media  
 P.O. Box 59038  
-Knoxville, TN 37950 
+Knoxville, TN 37950
 
 These privacy policies are effective as of **August 20, 1998**. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect.
 
@@ -51,7 +51,4 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our **site(s)** is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [**webmaster@knoxnews.com**](mailto:webmaster@knoxnews.com). To link to the full Terms of Use Agreement pertaining to use of our **site(s)** , please [**click here**](http://web.knoxnews.com/web/contactinfo/useragreement.shtml).
-
-  
-
+The right to download and store or output the materials in our **site(s)** is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [**webmaster@knoxnews.com**](mailto:webmaster@knoxnews.com). To link to the full Terms of Use Agreement pertaining to use of our **site(s)** , please [**click here**](http://web.knoxnews.com/contactinfo/useragreement.shtml).
