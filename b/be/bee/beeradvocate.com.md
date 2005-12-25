@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beeradvocate.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404041737id_/http%3A//www.beeradvocate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeradvocate.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225184453id_/http%3A//beeradvocate.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | BeerAdvocate.com
+# Privacy Policy - Beer Advocate
 
   
 Version 04/01/2004 
