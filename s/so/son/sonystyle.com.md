@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonystyle.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402160617id_/http%3A//products.sel.sony.com/SEL/legal/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonystyle.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225013929id_/http%3A//products.sel.sony.com/SEL/legal/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
