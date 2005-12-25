@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307093030id_/http%3A//www.jwatch.org/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225055712id_/http%3A//www.jwatch.org/misc/privacy.shtml) for the most accurate reproduction.*
 
 # Journal Watch Online: Privacy Policy
 
@@ -52,3 +52,6 @@ Under normal conditions, it will take 48 to 72 hours to process your e-mail requ
 **HOW TO UPDATE YOUR INFORMATION**
 
 Once you have created a registration or paid an account on our site, you can change or correct your information at any time. Log onto the site, and then click on Customer Service to bring you to the [Update My Information](https://secure.jwatch.org/custserv/index.asp) link. If you subscribe to the e-mail Table of Contents service, you may [click here](https://web.archive.org/cgi/alerts/etoc) to change your e-mail preferences or unsubscribe.
+
+  
+
