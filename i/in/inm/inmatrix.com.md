@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmatrix.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628074748id_/http%3A//www.inmatrix.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmatrix.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225140030id_/http%3A//www.inmatrix.com/privacy.shtml) for the most accurate reproduction.*
 
 # Inmatrix.com - eMail
 
