@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305042330id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225064520id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
 
 # SPEC Privacy Policy
 
@@ -24,9 +24,9 @@ Your privacy is important, to you, to us, to anyone you may come in contact with
 
 ##  The Information We Collect 
 
-This notice applies to all information collected or submitted on the SPEC website.
+This notice applies to all information collected or submitted on the SPEC web site.
 
-We do not commonly use cookies, or other session tracking methods, on this website.
+We do not commonly use cookies, or other session tracking methods, on this web site.
 
 Our comment and survey forms request your name and an email address that can be used to contact you.
 
@@ -38,9 +38,9 @@ We use the information you provide about yourself when placing an order only to 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-You can register with our website if you would like to receive notices on our new products and services. Information you submit on our website will not be used for this purpose unless you specifically request to receive such material.
+You can register with our web site if you would like to receive notices on our new products and services. Information you submit on our web site will not be used for this purpose unless you specifically request to receive such material.
 
-We use non-identifying and aggregate information to better design and maintain our website. For example, we do review internally which areas of our website get visits, and at what time, and from what Internet domains. Little of this information is specific to individual behavior, we make no attempt to identify any individual's behavior, and none of this information is ever shared with any 3rd parties.
+We use non-identifying and aggregate information to better design and maintain our web site. For example, we do review internally which areas of our web site get visits, and at what time, and from what Internet domains. Little of this information is specific to individual behavior, we make no attempt to identify any individual's behavior, and none of this information is ever shared with any 3rd parties.
 
 Finally, were we ever to use or share any personally identifiable information provided to us online in ways unrelated to the ones described above we would first provide you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
@@ -52,7 +52,7 @@ Furthermore, we do not store any individualized or sensitive data on any of our 
 
 ##  Our Commitment To Children's Privacy 
 
-No part of our website is structured to attract anyone under 13. Nevertheless, protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13.
+No part of our web site is structured to attract anyone under 13. Nevertheless, protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our web site from those we actually know are under 13.
 
 ##  How You Can Access Or Correct Your Information 
 
@@ -62,4 +62,4 @@ You can correct factual errors in your personally identifiable information by se
 
 ##  How To Contact Us 
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/spec/contact.html) or send us an email at [info@spec.org](mailto:info@spec.org).
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/spec/contact.html) or send us an email at [info@spec.org](https://web.archive.org/web/20051225064520id_/http%3A//www.spec.org/spec/&#109;ailto&#58;info&#64;spec&#46;&#111;rg).
