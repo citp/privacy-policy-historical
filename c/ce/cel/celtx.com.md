@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celtx.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403205924id_/http%3A//www.celtx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celtx.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225021254id_/http%3A//celtx.com/privacy.html) for the most accurate reproduction.*
 
 # celtx - Privacy Policy
 
