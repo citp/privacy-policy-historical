@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the northpole.com privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409190537id_/http%3A//www.northpole.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northpole.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225081715id_/http%3A//www.northpole.com/privacy.html) for the most accurate reproduction.*
 
 # Visit with Santa Claus at northpole.com
 
-[](https://web.archive.org/Clubhouse/DancingSanta/)   
-  
+[](https://web.archive.org/Donation.html)   
 |  [](https://web.archive.org/Village.html)  
 
 
