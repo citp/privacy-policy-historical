@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prisonfellowship.org privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204162730id_/http%3A//www.pfm.org/AM/Template.cfm%3FSection%3DPFM_Site%26Template%3D/CM/ContentDisplay.cfm%26ContentID%3D11597) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prisonfellowship.org privacy policy that was archived on 2005-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051225051848id_/http%3A//www.pfm.org/AM/Template.cfm%3FSection%3DPFM_Site%26Template%3D/CM/ContentDisplay.cfm%26ContentID%3D11597) for the most accurate reproduction.-->
 
 <html><head>
       <script language="JavaScript" type="text/javascript">
@@ -60,6 +60,51 @@ if(navigator.appName.indexOf("Netscape",0) == 0)
             }
           }
         //-->
+  //BEGIN: enable advent popup ad on PF home page
+  function popupAdvent(URL, width, height)
+  {
+    var webPath = 'http://www.pfm.org/AM/Template.cfm?Section=BreakPoint1'
+    var temp = document.location;
+    temp = temp.toString();
+  
+    if (temp.length == webPath.length)
+    {
+      day = new Date();
+      id = day.getTime();
+      eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,left=275,top=22,width=' + width + ',height=' + height);");
+    }
+  }
+
+  function ReadCookie(cookieName)
+  {
+    var theCookie=""+document.cookie;
+    var ind=theCookie.indexOf(cookieName);
+    if (ind==-1 || cookieName=="") return "";
+    var ind1=theCookie.indexOf(';',ind);
+    if (ind1==-1) ind1=theCookie.length;
+    return unescape(theCookie.substring(ind+cookieName.length+1,ind1));
+  }
+
+  function doPopup()
+  {
+    var bpcookie = ReadCookie("popupAdvent")
+    if (bpcookie == "Yes")
+	{
+		return
+	}
+	else if (bpcookie == "A")
+	{
+	  popupAdvent('http://www.pfm.org/AM/hownow_popup.htm',443,350)
+    } 
+    else if (bpcookie == "B")
+    {	  popupAdvent('http://www.pfm.org/AM/hownow_popup.htm',443,350)
+}
+	else
+	{
+	  popupAdvent('http://www.pfm.org/AM/hownow_popup.htm',443,350)
+    } 
+  }
+  //END; enable advent popup ad on PF home page
       </script>
   
       <script language="JavaScript">
@@ -102,6 +147,38 @@ if(navigator.appName.indexOf("Netscape",0) == 0)
           eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=295,height=395,left = 225,top = 75');");
         }
       </script>
+	  
+<!-- BEGIN INSERT BY SEAN E. NOONAN ON 10/26/04 -->
+<!-- FUNCTIONS TO VALIDATE PLANNED GIVING FORM -->
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function checkDropDown()
+{
+var email = document.PlannedGiving.EmailAddress.value;
+var interests = document.PlannedGiving.Interests.value;
+if (email == null || email == '')
+{
+alert("Please enter your e-mail address");
+return false;
+}
+else if (interests == null || interests == '')
+{
+alert("Please select at least one interest");
+return false;
+}
+else
+{
+return true;
+}
+}
+//-->
+</script>
+<!-- END INSERT BY SEAN E. NOONAN ON 10/26/04 -->
+
+<!-- INSERT BY SEAN E. NOONAN ON 08/19/05 TO REDIRECT PRAYER LETTER SUBSCRIBERS TO GENERAL SUBSCRIPTION PAGE -->
+
+<!-- INSERT BY SEAN E. NOONAN ON 08/19/05 TO REDIRECT PRAYER LETTER SUBSCRIBERS TO GENERAL SUBSCRIPTION PAGE -->
+
     
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <link rel="StyleSheet" href="/AM/Styles/PFMStyles.css" type="text/css">
@@ -117,89 +194,18 @@ if(navigator.appName.indexOf("Netscape",0) == 0)
   {varBrowser = "MSIE";}
 }
 
-if(document.images) {
-  this[1] = new Image();
-  this[1].src = "/AM/Templates/Graphics/ACFCEB35.gif";
-}
 
-function swapIt(imgName,imgType,imgAction) {
-      if (document.images) {
-        if (imgAction == 1) {
-          switch(imgType){
-            case "Welcome_Children2": newSrc="/AM//Graphics/ACF405D.gif"; break
-        }
-        }
-        else {
-          switch(imgType){
-          }
-        }
-        document.images[imgName].src = newSrc;
-      }
-    }if(document.images) {
-  this[1] = new Image();
-  this[1].src = "/AM/Templates/Graphics/ACFCEB35.gif";
-  this[2] = new Image();
-  this[2].src = "/AM/Templates/Graphics/ACFCEBB5.gif";
-  this[3] = new Image();
-  this[3].src = "/AM/";
-}
-
-function swapIt(imgName,imgType,imgAction) {
-      if (document.images) {
-        if (imgAction == 1) {
-          switch(imgType){
-            case "Welcome_Children2": newSrc="/AM//Graphics/ACF405D.gif"; break
-          case "Justice_Website": newSrc="/AM/"; break
-          case "Justice_Website": newSrc="/AM//Graphics/ACFCEB8.gif"; break
-        }
-        }
-        else {
-          switch(imgType){
-            case "Fellowship_with_Jesus4": newSrc="/AM//Graphics/ACFCEB8.gif"; break
-          case "Visit_Prisoners4": newSrc="/AM/Templates/Graphics/ACFCEB38.gif"; break
-        }
-        }
-        document.images[imgName].src = newSrc;
-      }
-    }if(document.images) {
-  this[1] = new Image();
-  this[1].src = "/AM/Templates/Graphics/ACFCEB35.gif";
-  this[2] = new Image();
-  this[2].src = "/AM/Templates/Graphics/ACFCEBB5.gif";
-  this[3] = new Image();
-  this[3].src = "/AM/";
-  this[4] = new Image();
-  this[4].src = "/AM/Templates/Graphics/ACFCEBB9.gif";
-}
-
-function swapIt(imgName,imgType,imgAction) {
-      if (document.images) {
-        if (imgAction == 1) {
-          switch(imgType){
-            case "Welcome_Children2": newSrc="/AM//Graphics/ACF405D.gif"; break
-          case "Justice_Website": newSrc="/AM/"; break
-          case "Justice_Website": newSrc="/AM//Graphics/ACFCEB8.gif"; break
-          case "PFM_Site": newSrc="/AM/"; break
-        }
-        }
-        else {
-          switch(imgType){
-            case "Fellowship_with_Jesus4": newSrc="/AM//Graphics/ACFCEB8.gif"; break
-          case "Visit_Prisoners4": newSrc="/AM/Templates/Graphics/ACFCEB38.gif"; break
-        }
-        }
-        document.images[imgName].src = newSrc;
-      }
-    }
     //-->
     </script>
   <title>PFM | Prison Fellowship Privacy Policy</title>
 </head>
 
-    <body bgcolor="#ffffff" text="000000" marginheight="0" topmargin="0" marginwidth="0" leftmargin="0"> <!-- Source Code Copyright © 2001 Active Matter, Inc. www.activematter.com -->
+
+	<body bgcolor="#ffffff" text="000000" marginheight="0" topmargin="0" marginwidth="0" leftmargin="0"> <!-- Source Code Copyright © 2001 Active Matter, Inc. www.activematter.com -->
 
 
 <link rel="stylesheet" href="/AM/Styles/styles-main.css" type="text/css">
+
 
 <table width="593" cellpadding="0" cellspacing="0" border="0">
   <tbody><tr> 
@@ -232,7 +238,7 @@ function swapIt(imgName,imgType,imgAction) {
       </td>         	 
       <td width="416">
 <!-- Source Code Copyright © 2001 Active Matter, Inc. www.activematter.com -->
-<table id="tblTopNav" width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="center"><a class="TopNav" href="http://www.pfm.org/AM/Template.cfm?Section=BreakPoint1" onfocus="swapIt('i_Fellowship_with_Jesus','Fellowship_with_Jesus',1);" onmouseover="swapIt('i_Fellowship_with_Jesus','Fellowship_with_Jesus',1); " onblur="swapIt('i_Fellowship_with_Jesus', 'Fellowship_with_Jesus', 0);" onmouseout="swapIt('i_Fellowship_with_Jesus', 'Fellowship_with_Jesus', 0);"><img name="i_Fellowship_with_Jesus" src="/AM/Templates/Graphics/ACFCEB76.gif" width="144" height="23" alt="Fellowship with Jesus" border="0"></a></td><td align="center"><a class="TopNavSelected" href="http://www.pfm.org/AM/Template.cfm?Section=PFM_Site"><img name="i_Visit_Prisoners" src="/AM/Templates/Graphics/ACF649.gif" width="128" height="23" alt="Visit Prisoners" border="0"></a></td><td align="center"><a class="TopNav" href="http://www.pfm.org/AM/Template.cfm?Section=Angel_Tree1" onfocus="swapIt('i_Welcome_Children','Welcome_Children',1);" onmouseover="swapIt('i_Welcome_Children','Welcome_Children',1); " onblur="swapIt('i_Welcome_Children', 'Welcome_Children', 0);" onmouseout="swapIt('i_Welcome_Children', 'Welcome_Children', 0);"><img name="i_Welcome_Children" src="/AM/Templates/Graphics/ACFCEBB8.gif" width="144" height="23" alt="Welcome Children" border="0"></a></td></tr></tbody></table> 
+<table id="tblTopNav" width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="center"><a class="TopNav" href="http://www.pfm.org/AM/Template.cfm?Section=BreakPoint1"><img src="/AM/Templates/Graphics/ACFCEB76.gif" width="144" height="23" alt="Fellowship with Jesus" border="0"></a></td><td align="center"><a class="TopNavSelected" href="http://www.pfm.org/AM/Template.cfm?Section=PFM_Site"><img src="/AM/Templates/Graphics/ACF648.gif" width="128" height="23" alt="Visit Prisoners" border="0"></a></td><td align="center"><a class="TopNav" href="http://www.pfm.org/AM/Template.cfm?Section=Angel_Tree1"><img src="/AM/Templates/Graphics/ACFCEBB8.gif" width="144" height="23" alt="Welcome Children" border="0"></a></td></tr></tbody></table> 
       </td>
       <td align="left" valign="Top"><!--  HTML pulldown goes in this cell  -->
         <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -266,18 +272,19 @@ function swapIt(imgName,imgType,imgAction) {
   
   <table width="100%" background="/AM/Images/PFMTemplate/hdbar_bg.gif" cellpadding="0" cellspacing="0" border="0">
     <tbody><tr align="left">     
-      <td align="left" width="47"><a class="TopNav" href="/AM/Template.cfm?Section=PFM_Home" onmouseover="swapItUtil('i_Home','Home',1, '/AM/Images/PFMTemplate/');" onmouseout="swapItUtil('i_Home', 'Home', 0,  '/AM/Images/PFMTemplate/');"><img name="i_Home" src="/AM/Images/PFMTemplate/hdbar_home.gif" width="47" height="23" alt="Home" border="0"></a></td>
+      <td align="left" width="47"><a class="TopNav" href="http://www.pfm.org//AM/Template.cfm?Section=PFM_Home" onmouseover="swapItUtil('i_Home','Home',1, '/AM/Images/PFMTemplate/');" onmouseout="swapItUtil('i_Home', 'Home', 0,  '/AM/Images/PFMTemplate/');"><img name="i_Home" src="/AM/Images/PFMTemplate/hdbar_home.gif" width="47" height="23" alt="Home" border="0"></a></td>
       <td align="left" width="5"><img src="/AM/Images/PFMTemplate/4sq-white.gif" width="5" height="5"></td>
       
-      <td align="left" width="51"><a class="TopNav" href="/AM/Template.cfm?Section=About_Prison_Fellowship1&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=19&amp;ContentID=10231" onmouseover="swapItUtil('i_About_Us','About_Us',1,'/AM/Images/PFMTemplate/');" onmouseout="swapItUtil('i_About_Us', 'About_Us', 0, '/AM/Images/PFMTemplate/');"><img name="i_About_Us" src="/AM/Images/PFMTemplate/hdbar_aboutus.gif" width="51" height="23" alt="About Us" border="0"></a></td>
+      <td align="left" width="51"><a class="TopNav" href="http://www.pfm.org//AM/Template.cfm?Section=About_Prison_Fellowship1&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=19&amp;ContentID=10231" onmouseover="swapItUtil('i_About_Us','About_Us',1,'/AM/Images/PFMTemplate/');" onmouseout="swapItUtil('i_About_Us', 'About_Us', 0, '/AM/Images/PFMTemplate/');"><img name="i_About_Us" src="/AM/Images/PFMTemplate/hdbar_aboutus.gif" width="51" height="23" alt="About Us" border="0"></a></td>
       <td align="left" width="5"><img src="/AM/Images/PFMTemplate/4sq-white.gif" width="5" height="5"></td>
       
-      <td align="left" width="60"><a class="TopNav" href="/Content/NavigationMenu/PrisonFellowship/ContactUs/Contact_Us1.htm" onmouseover="swapItUtil('i_Contact_Us','Contact_Us',1, '/AM/Images/PFMTemplate/');" onmouseout="swapItUtil('i_Contact_Us', 'Contact_Us', 0, '/AM/Images/PFMTemplate/');"><img name="i_Contact_Us" src="/AM/Images/PFMTemplate/hdbar_contactus.gif" width="60" height="23" alt="Contact_Us" border="0"></a></td>
+      <td align="left" width="60"><a class="TopNav" href="http://www.pfm.org/Content/NavigationMenu/PrisonFellowship/ContactUs/Contact_Us1.htm" onmouseover="swapItUtil('i_Contact_Us','Contact_Us',1, '/AM/Images/PFMTemplate/');" onmouseout="swapItUtil('i_Contact_Us', 'Contact_Us', 0, '/AM/Images/PFMTemplate/');"><img name="i_Contact_Us" src="/AM/Images/PFMTemplate/hdbar_contactus.gif" width="60" height="23" alt="Contact_Us" border="0"></a></td>
       <td align="left" width="5"><img src="/AM/Images/PFMTemplate/4sq-white.gif" width="5" height="5"></td>      
-      <td align="left" width="45"><a class="TopNav" href="http://www.pfm.org//AM/Template.cfm?Section=Donate&amp;Template=/CustomSource/PublicDonation.cfm&amp;ID=1001" onmouseover="swapItUtil('i_Donate','Donate',1, '/AM/Images/PFMTemplate/');" onmouseout="swapItUtil('i_Donate', 'Donate', 0, '/AM/Images/PFMTemplate/');"><img name="i_Donate" src="/AM/Images/PFMTemplate/hdbar_donate.gif" width="45" height="23" alt="Donate" border="0"></a></td>
+      <td align="left" width="45"><a class="TopNav" href="https://www.pfm.org//AM/Template.cfm?Section=Donate&amp;Template=/CustomSource/PublicDonation.cfm&amp;ID=1001" onmouseover="swapItUtil('i_Donate','Donate',1, '/AM/Images/PFMTemplate/');" onmouseout="swapItUtil('i_Donate', 'Donate', 0, '/AM/Images/PFMTemplate/');"><img name="i_Donate" src="/AM/Images/PFMTemplate/hdbar_donate.gif" width="45" height="23" alt="Donate" border="0"></a></td>
       <td align="left" width="5"><img src="/AM/Images/PFMTemplate/4sq-white.gif" width="5" height="5"></td>      
       
-      <td align="left" width="30"><a class="TopNav" href="/AM/TemplateRedirect.cfm?Section=Jobs&amp;Template=/CM/HTMLDisplay.cfm&amp;ContentID=9971" onmouseover="swapItUtil('i_Jobs','Jobs',1, '/AM/Images/PFMTemplate/');" onmouseout="swapItUtil('i_Jobs', 'Jobs', 0, '/AM/Images/PFMTemplate/');"><img name="i_Jobs" src="/AM/Images/PFMTemplate/hdbar_jobs.gif" width="30" height="23" alt="Jobs" border="0"></a></td>
+      
+      <td align="left" width="30"><a class="TopNav" href="http://www.pfm.org//AM/Template.cfm?Section=Jobs&amp;Template=/CM/HTMLDisplay.cfm&amp;ContentID=15047" onmouseover="swapItUtil('i_Jobs','Jobs',1, '/AM/Images/PFMTemplate/');" onmouseout="swapItUtil('i_Jobs', 'Jobs', 0, '/AM/Images/PFMTemplate/');"><img name="i_Jobs" src="/AM/Images/PFMTemplate/hdbar_jobs.gif" width="30" height="23" alt="Jobs" border="0"></a></td>
       <td width="25">&nbsp;</td>
       <form action="/AM/Template.cfm?Section=PFM_Site&amp;Template=/search/searchdisplay.cfm" method="post"></form>
         <td align="right">
@@ -322,7 +329,7 @@ function swapIt(imgName,imgType,imgAction) {
             <table border="0" width="177" cellpadding="0" cellspacing="0" bgcolor="#988a6f">
               
                 <tbody><tr>
-                  <td><a href="/AM/Template.cfm?Section=PFM_Site&amp;Template=/CM/ContentDisplay.cfm&amp;ContentID=13205"><img src="/Images/PFMTemplate/beingthebody.jpg" alt="Being the Body" width="177" height="97" border="0" hspace="1"></a></td>
+                  <td><a href="/AM/Template.cfm?Section=PFM_Site&amp;Template=/CM/ContentDisplay.cfm&amp;ContentID=17207"><img src="/Images/PFMTemplate/the_good_life_promo.gif" alt="The Good Life" width="177" height="97" border="0" hspace="1"></a></td>
                 </tr>
               
                 <tr>
@@ -343,7 +350,7 @@ function swapIt(imgName,imgType,imgAction) {
                       
                       <tr>
                         
-                        <td valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>&nbsp;</td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td colspan="11"><span class="leftnav"><img src="/AM/Images/PFMTemplate/images/1x1.gif" width="4" height="1" border="0"><img src="/AM/images/PFMTemplate/ReedIcon_PrisonFellowship.gif" class="marginnav22"><img src="/AM/Images/PFMTemplate/images/1x1.gif" width="2" height="1" border="0">&nbsp;<a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=About_Prison_Fellowship1&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=19&amp;ContentID=10231" style=""><img name="inav_Learn_More" src="/AM/Templates/Graphics/ACF4E.gif" border="0"></a><br></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=About_Prison_Fellowship1&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=19&amp;ContentID=10231" style="">About Prison Fellowship</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=About_Chuck_Colson&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=16&amp;ContentID=13514" style="">About Chuck Colson</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfmonline.net/CCOM_ZipSearch.taf" style="" target="_Blank">Local Offices</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Stories_of_Hope1&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=63&amp;ContentID=9635" style="">Stories of Hope</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.justicefellowship.org" style="">Criminal Justice Reform</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Campus_Ministry&amp;Template=/CM/HTMLDisplay.cfm&amp;ContentID=14169" style="">Campus Ministry</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.operationstartingline.net" style="">Operation Starting Line</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Issues_and_Research1&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=70&amp;ContentID=9991" style="">Issues &amp; Research</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://pfm.custhelp.com/cgi-bin/pfm.cfg/php/enduser/std_alp.php?p_prod_lvl1=1" style="">Frequently Asked Questions</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/Content/NavigationMenu/PrisonFellowship/LearnMore/Who_is_Jesus_/Know_Jesus_.htm" style="">Who is Jesus?</a><br></td></tr></tbody></table></span></td></tr><tr><td>&nbsp;</td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td colspan="11"><span class="leftnav"><img src="/AM/Images/PFMTemplate/images/1x1.gif" width="4" height="1" border="0"><img src="/AM/images/PFMTemplate/ReedIcon_PrisonFellowship.gif" class="marginnav22"><img src="/AM/Images/PFMTemplate/images/1x1.gif" width="2" height="1" border="0">&nbsp;<a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Pray&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=25&amp;ContentID=6866" style=""><img name="inav_Make_a_Difference" src="/AM/Templates/Graphics/ACF51.gif" border="0"></a><br></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Pray&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=25&amp;ContentID=6866" style="">Pray</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Volunteer&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=32&amp;ContentID=6912" style="">Volunteer</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="https://www.pfm.org/AM/Template.cfm?Section=Donate&amp;Template=/CustomSource/PublicDonation.cfm&amp;ID=1001" style="">Donate</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Planned_Giving&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=33&amp;ContentID=6939" style="">Planned Giving</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfmonline.net/PFM_Files/eft_form.html" style="">Electronic Funds Transfer (EFT)</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Become_a_Pen_Pal&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=35&amp;ContentID=7035" style="">Become a Pen Pal</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://msg1svc.net/static/pfm/leadcapture/subscribe.cfm?site=PFM" style="" target="_Blank">Subscribe to Jubilee Online</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="https://www.pfm.org/AM/Template.cfm?Section=PF_Store&amp;Template=/Ecommerce/EcomDefault.cfm" style="">PF Store</a><br></td></tr></tbody></table></span></td></tr><tr><td>&nbsp;</td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td colspan="11"><span class="leftnav"><img src="/AM/Images/PFMTemplate/images/1x1.gif" width="4" height="1" border="0"><img src="/AM/images/PFMTemplate/ReedIcon_PrisonFellowship.gif" class="marginnav22"><img src="/AM/Images/PFMTemplate/images/1x1.gif" width="2" height="1" border="0">&nbsp;<a class="leftnav" href="http://www.pfm.org/Content/NavigationMenu/PrisonFellowship/Resourcesfor/Volunteers1/Resources_for_Volunteers.htm" style=""><img name="inav_Resources_for" src="/AM/Templates/Graphics/ACF53.gif" border="0"></a><br></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/Content/NavigationMenu/PrisonFellowship/Resourcesfor/Volunteers1/Resources_for_Volunteers.htm" style="">Volunteers</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Prisoners_Families&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=65&amp;ContentID=9644" style="">Prisoners' Families</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.demossnewspond.com/pf/" style="">Press</a><br></td></tr></tbody></table></span></td></tr><tr><td>&nbsp;</td></tr><tr><td>&nbsp;</td></tr>
+                        <td valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>&nbsp;</td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td colspan="11"><span class="leftnav"><img src="/AM/Images/PFMTemplate/images/1x1.gif" width="4" height="1" border="0"><img src="/AM/images/PFMTemplate/ReedIcon_PrisonFellowship.gif" class="marginnav22"><img src="/AM/Images/PFMTemplate/images/1x1.gif" width="2" height="1" border="0">&nbsp;<a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=About_Prison_Fellowship1&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=19&amp;ContentID=10231" style=""><img name="inav_Learn_More" src="/AM/Templates/Graphics/ACF4E.gif" border="0"></a><br></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=About_Prison_Fellowship1&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=19&amp;ContentID=10231" style="">About Prison Fellowship</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://pfm.custhelp.com/cgi-bin/pfm.cfg/php/enduser/std_alp.php?p_page=1&amp;p_cat_lvl1=65" style="">FAQs</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=About_Chuck_Colson&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=16&amp;ContentID=13514" style="">About Chuck Colson</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfmonline.net/CCOM_ZipSearch.taf" style="" target="_Blank">Local Offices</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Stories_of_Hope1&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=63&amp;ContentID=9635" style="">Stories of Hope</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.justicefellowship.org" style="">Criminal Justice Reform</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Campus_Ministry&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=93&amp;ContentID=16774" style="">Campus Ministry</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.operationstartingline.net" style="">Operation Starting Line</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Issues_and_Research1&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=70&amp;ContentID=9991" style="">Issues &amp; Research</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/Content/NavigationMenu/PrisonFellowship/LearnMore/Who_is_Jesus_/Know_Jesus_.htm" style="">Who is Jesus?</a><br></td></tr></tbody></table></span></td></tr><tr><td>&nbsp;</td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td colspan="11"><span class="leftnav"><img src="/AM/Images/PFMTemplate/images/1x1.gif" width="4" height="1" border="0"><img src="/AM/images/PFMTemplate/ReedIcon_PrisonFellowship.gif" class="marginnav22"><img src="/AM/Images/PFMTemplate/images/1x1.gif" width="2" height="1" border="0">&nbsp;<a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=PFM_Site&amp;CONTENTID=16198&amp;TEMPLATE=/CM/HTMLDisplay.cfm" style=""><img name="inav_Make_a_Difference" src="/AM/Templates/Graphics/ACF51.gif" border="0"></a><br></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=PFM_Site&amp;CONTENTID=16198&amp;TEMPLATE=/CM/HTMLDisplay.cfm" style="">Pray</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Volunteer&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=32&amp;ContentID=6912" style="">Volunteer</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="https://www.pfm.org/AM/Template.cfm?Section=Donate&amp;Template=/CustomSource/PublicDonation.cfm&amp;ID=1158" style="">Donate</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Planned_Giving&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=33&amp;ContentID=6939" style="">Planned Giving</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Electronic_Funds_Transfer&amp;Template=/CM/HTMLDisplay.cfm&amp;ContentID=17064" style="">Electronic Funds Transfer (EFT)</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Become_a_Pen_Pal&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=35&amp;ContentID=7035" style="">Become a Pen Pal</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=E_Mail_Newsletters&amp;Template=/CM/HTMLDisplay.cfm&amp;ContentID=16351" style="" target="_Blank">E-Mail Newsletters</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="https://www.pfm.org/AM/Template.cfm?Section=PF_Store&amp;Template=/Ecommerce/EcomDefault.cfm" style="">PF Store</a><br></td></tr></tbody></table></span></td></tr><tr><td>&nbsp;</td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td colspan="11"><span class="leftnav"><img src="/AM/Images/PFMTemplate/images/1x1.gif" width="4" height="1" border="0"><img src="/AM/images/PFMTemplate/ReedIcon_PrisonFellowship.gif" class="marginnav22"><img src="/AM/Images/PFMTemplate/images/1x1.gif" width="2" height="1" border="0">&nbsp;<a class="leftnav" href="http://www.pfm.org/Content/NavigationMenu/PrisonFellowship/Resourcesfor/Volunteers1/Resources_for_Volunteers.htm" style=""><img name="inav_Resources_for" src="/AM/Templates/Graphics/ACF53.gif" border="0"></a><br></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/Content/NavigationMenu/PrisonFellowship/Resourcesfor/Volunteers1/Resources_for_Volunteers.htm" style="">Volunteers</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.pfm.org/AM/Template.cfm?Section=Prisoners_Families&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=65&amp;ContentID=9644" style="">Prisoners' Families</a><br></td></tr></tbody></table></span></td></tr><tr valign="top"><td width="6" class="small">&nbsp;</td><td width="6" class="small">&nbsp;</td><td colspan="10"><span class="leftnav"><table><tbody><tr><td><span class="marginnav15"><img src="/AM/images/PFMTemplate/4sq-orange.gif" width="5" height="5" border="0" hspace="4" vspace="4"></span></td><td><a class="leftnav" href="http://www.demossnewspond.com/pf/" style="">Press</a><br></td></tr></tbody></table></span></td></tr><tr><td>&nbsp;</td></tr><tr><td>&nbsp;</td></tr>
       <tr><td width="6">&nbsp;</td><td width="6">&nbsp;</td><td width="6">&nbsp;</td><td width="6">&nbsp;</td><td width="6">&nbsp;</td><td width="6">&nbsp;</td><td width="6">&nbsp;</td><td width="6">&nbsp;</td><td width="6">&nbsp;</td><td width="6">&nbsp;</td><td width="6">&nbsp;</td><td width="6">&nbsp;</td></tr></tbody></table>
     </td>
                       </tr>
@@ -364,7 +371,7 @@ function swapIt(imgName,imgType,imgAction) {
                       document.write("<input type='hidden' name='PageLinkStatic' value='" + window.location + "'>")
                       document.write("<input type='hidden' name='Title' value='" + document.title + "'>") 
                     //-->
-                  </script><input type="hidden" name="PageLinkStatic" value="https://web.archive.org/web/20041204162730id_/http%3A//www.pfm.org/AM/Template.cfm%3FSection%3DPFM_Site%26Template%3D/CM/ContentDisplay.cfm%26ContentID%3D11597"><input type="hidden" name="Title" value="PFM | Prison Fellowship Privacy Policy">
+                  </script><input type="hidden" name="PageLinkStatic" value="https://web.archive.org/web/20051225051848id_/http%3A//www.pfm.org/AM/Template.cfm%3FSection%3DPFM_Site%26Template%3D/CM/ContentDisplay.cfm%26ContentID%3D11597"><input type="hidden" name="Title" value="PFM | Prison Fellowship Privacy Policy">
 
                   
                   <tr> 
@@ -403,7 +410,7 @@ function swapIt(imgName,imgType,imgAction) {
                 
               <tr> 
                 <td>
-                  <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                  <table cellpadding="0" cellspacing="0" border="0" width="98%">
                     
                     <tbody><tr>
                       
@@ -416,7 +423,7 @@ function swapIt(imgName,imgType,imgAction) {
                       <td> <!-- Source Code Copyright © 2001 Active Matter, Inc. www.activematter.com -->
 <div class="breadcrumb"> <a href="http://www.pfm.org/" class="BreadCrumb">Home</a> <img src="/AM/graphics/indentarrow.gif" alt="" border="0" align="bottom">Prison Fellowship </div><br> <!-- Source Code Copyright © 2001 Active Matter,Inc. www.activematter.com -->
 <p><span class="titleLg">Prison Fellowship Privacy Policy<br>
-</span><span class="miniabstractLg">Feb. 5, 2004</span></p>
+</span><span class="miniabstractLg">Jan. 3, 2005</span></p>
 
 <p><span class="body"><strong><a id="top" name="top">Table of 
 Contents:</a><br>
@@ -537,13 +544,13 @@ delivery.</span></p>
 for newsletter subscriptions and to answer the email we 
 receive.</span></p>
 
-<p><span class="body">We also use email addresses and mailing addresses 
-to send updates about various ministry activities.&nbsp; To exclude 
-yourself from any of these mailings, electronic or postal, please call 
-us at (877) 478-0100, email us at</span> <a href="mailto:info@pfm.org"><span class="body">info@pfm.org</span></a><span class="body">, or write to us 
-at 1856 Old Reston Ave., Reston, VA&nbsp; 20190.&nbsp; (You may also opt 
-out of electronic mailings by clicking the unsubscribe link included in 
-each mailing.)</span></p>
+<p><span class="body"><span class="body">We also use email addresses and 
+mailing addresses to send updates about various ministry 
+activities.&nbsp; To exclude yourself from any of these mailings, 
+electronic or postal, please&nbsp;</span> <a href="/AM/Template.cfm?Section=Contact_Us5"><span class="body">contact 
+us</span></a></span><span class="body"><span class="body">.&nbsp;(You 
+may also opt out of electronic mailings by clicking the unsubscribe link 
+included in each mailing.)</span></span></p>
 
 <p><span class="body"><a href="#top">Back to top.</a></span></p>
 
@@ -589,11 +596,10 @@ task we have hired them to perform.</span></p>
 <p><span class="body"><strong><a id="7" name="7">Sharing Information 
 with Third Parties</a></strong></span></p>
 
-<p><span class="body">Occasionally, we share the addresses of donors who 
-have not given to the ministry in over two years with other like-minded 
-ministries.&nbsp; To exclude your information from ever being shared, 
-please call us at (877) 478-0100, email us at</span> <a href="mailto:info@pfm.org"><span class="body">info@pfm.org</span></a>&nbsp;<span class="body">or write to 
-us at 1856 Old Reston Ave., Reston, VA&nbsp; 20190.</span></p>
+<p><span class="body"><span class="body">Occasionally, we share the 
+addresses of donors who have not given to the ministry in over two years 
+with other like-minded ministries.&nbsp; To exclude your information 
+from ever being shared, please</span> <a href="/AM/Template.cfm?Section=Contact_Us5"><font face="Times New Roman" size="3"><span class="body">contact us</span></font></a></span><span class="body"><span class="body">.</span></span></p>
 
 <p><span class="body">Also, from time to time we acquire details about 
 people who are in our database from third parties to enhance the data we 
@@ -640,9 +646,9 @@ removed from our system by calling us at (877) 478-0100.</span></p>
 <p><span class="body"><strong><a id="11" name="11">How to Contact 
 Us</a></strong></span></p>
 
-<p><span class="body">Should you have other questions or concerns about 
-these policies, please call us at (877) 478-0100, email us at</span> <a href="mailto:info@pfm.org"><span class="body">info@pfm.org</span></a><span class="body">, or write to us 
-at 1856 Old Reston Ave., Reston, VA&nbsp; 20190.</span></p>
+<p><span class="body"><span class="body">Should you have other questions 
+or concerns about these policies, please</span> <a href="/AM/Template.cfm?Section=Contact_Us5"><span class="body">contact 
+us</span></a></span><span class="body"><span class="body">.</span></span></p>
 
 <p><span class="body"><a href="#top">Back to top.</a></span></p>
 
