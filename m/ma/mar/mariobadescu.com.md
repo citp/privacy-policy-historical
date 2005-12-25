@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariobadescu.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406014348id_/http%3A//www.mariobadescu.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariobadescu.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225214032id_/http%3A//www.mariobadescu.com/privacy.asp) for the most accurate reproduction.*
 
 # Mario Badescu :: Privacy Policy
 
