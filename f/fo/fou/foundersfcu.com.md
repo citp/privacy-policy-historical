@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foundersfcu.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307090949id_/http%3A//www.foundersfcu.com/page.cfm%3Fc_id%3D96) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundersfcu.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225013325id_/http%3A//www.foundersfcu.com/page.cfm%3Fc_id%3D96) for the most accurate reproduction.*
 
 # Founders Federal Credit Union
 
