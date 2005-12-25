@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aneki.com privacy policy that was archived on 2005-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050304235806id_/http%3A//www.aneki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aneki.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225170414id_/http%3A//aneki.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
