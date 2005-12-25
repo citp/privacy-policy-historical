@@ -1,15 +1,7 @@
-> *The following text is extracted and transformed from the pcfaster.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403104815id_/http%3A//www.pcfaster.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcfaster.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225163538id_/http%3A//www.pcfaster.com/privacy.htm) for the most accurate reproduction.*
 
 # Startup Faster! 2004 - Make your PC Faster than ever.
 
-  
-
-
-URSoft,Inc Privacy Policy
-
-|    
----  
-  
 We are committed to protecting your privacy and the privacy of information you provide to us.  **URSoft,Inc will never sell, rent, lease or even disclose customer information to third parties.**   Other terms of URSoft,Inc' privacy policy are as follows:
 
 **Information Collection  
@@ -49,7 +41,4 @@ A cookie is not a piece of code and cannot be used to run programs or deliver vi
 
 URSoft,Inc uses cookies on its websites to help us publish content relevant to our customers needs and wants. 
 
-Copyright c2003 by URSoft,Inc Ltd. All rights reserved.  
-  
-**Related Topics** **  
-**  
+Copyright c2003 by URSoft,Inc Ltd. All rights reserved.
