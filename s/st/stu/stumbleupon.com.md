@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stumbleupon.com privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627020741id_/http%3A//www.stumbleupon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumbleupon.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225083531id_/http%3A//www.stumbleupon.com/privacy.html) for the most accurate reproduction.*
 
 # StumbleUpon Privacy Policy
 
@@ -21,7 +21,7 @@ Most browsers are initially set up to accept cookies. You can reset your browser
 
 StumbleUpon does not collect any unique information about you (such as your name, email address, etc.) except when you specifically and knowingly provide such information, as in our interests survey just after the install process. This unique information is associated with a user identifier for the purpose of improving your Stumble experience. Information you provide, with the exception of your email address, will also be displayed on your profile page which is viewable by other users of StumbleUpon. Note that providing personal information is not necessary to use the StumbleUpon toolbar.
 
-StumbleUpon also notes and saves information such as time of day, browser type, browser language, and IP address with each visit to our website, or use of the StumbleUpon Toolbar. This information is collected automatically by almost all major web servers. StumbleUpon uses this information only in aggregate to determine the composition of our userbase, and the load on our servers, so that we can serve you better.
+StumbleUpon also notes and saves information such as time of day, browser type, browser language, and IP address with each visit to our website. This information is collected automatically by almost all major web servers. StumbleUpon uses this information only in aggregate to determine the composition of our userbase, and the load on our servers, so that we can serve you better.
 
 Periodically, the StumbleUpon Toolbar contacts our servers to see if you are running the most current version. If necessary, we will automatically provide you with the latest update to the StumbleUpon Toolbar (Internet Explorer version only). 
 
@@ -39,7 +39,7 @@ No. We do not share any personally identifiable information that is not already 
 
 **Your consent and changes to the Privacy Policy**
 
-By using the StumbleUpon Toolbar and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms & Conditions](https://web.archive.org/web/20050627020741id_/http%3A//www.stumbleupon.com/terms.html). StumbleUpon may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
+By using the StumbleUpon Toolbar and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms & Conditions](https://web.archive.org/web/20051225083531id_/http%3A//www.stumbleupon.com/terms.html). StumbleUpon may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
 **Who can I ask if I have additional questions?**
 
