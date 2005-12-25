@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randygage.com privacy policy that was archived on 2005-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050602000146id_/http%3A//www.randygage.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randygage.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225055946id_/http%3A//www.randygage.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Gage Direct Prime Concepts Group
 
@@ -22,7 +22,7 @@ If you supply Prime Concepts Group your postal address, you may receive periodic
 Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user our electronic magazine and other information about our company's products and services. Contact information from the order form is used to send orders and information about our company to our customers. Your information is also used to contact you in the event we have a question about your order. Financial information that is collected is used to bill the user for products and services. It is never divulged to any outside party. You may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 **Privacy**  
-Your information remains confidential to Gage Research & Development Institute, Inc. and its assigns. We do trade or rent our list. This site contains links to other sites. Randy Gage, Gage Research & Development Institute, Inc. and Prime Concepts Group, Inc. are not responsible for the privacy practices or the content of such Web sites. 
+Your information remains confidential to Gage Research & Development Institute, Inc. and its assigns. We do not trade or rent our list. This site contains links to other sites. Randy Gage, Gage Research & Development Institute, Inc. and Prime Concepts Group, Inc. are not responsible for the privacy practices or the content of such Web sites. 
 
 **Security**  
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our shopping cart is run on a secure server. If you directly Email us, we suggest that you send two Emails and break your credit card number in two. Send half the number in one Email and the other half plus the expiration date in the other Email. 
