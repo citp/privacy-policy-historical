@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prochoiceamerica.org privacy policy that was archived on 2004-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041216212922id_/http%3A//www.prochoiceamerica.org/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prochoiceamerica.org privacy policy that was archived on 2005-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051226223448id_/http%3A//prochoiceamerica.org/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns:v="urn:schemas-microsoft-com:vml"><head>
 <title>prochoiceamerica.org : Privacy Policy</title>
@@ -16,231 +16,28 @@ var jsSiteID = 1;
 var jsSubSiteID = 1;
 var kurrentPageID = 1440;
 // -->
-</script><script language="JavaScript" src="/commonspot/nw-lame.js"></script>
+</script><script language="JavaScript" src="/commonspot/nw-netscape.js"></script>
+
+<style type="text/css">
+.commonspotmenu { padding-top:7;padding-left:0;padding-bottom:7;text-align:left;position:absolute;z-index:9;background-color:#C6C6C6; }
+.commonspotmenu a { background-color:#C6C6C6; }
+.commonspotmenu a:link {  background-color:#C6C6C6; }
+.commonspotmenu a:visited { background-color:#C6C6C6; }
+.commonspotmenu a:hover { background-color:#C6C6C6; }
+</style>
+
+<script language="JavaScript"> <!--
+
+var gShowKeywords = 0;
+var gHaveKeywords = 0;
+
+var js_userID=0;
+
+// -->
+</script>
+<!-- -->
 </head>
-<body lang="en" class="CS_Document"><a name="__topdoc__"></a><script language="JavaScript"><!--
-// always-include-ie.js  Copyright 1998-2003 PaperThin, Inc. All rights reserved.
-bName = navigator.appName;
-bVer = parseInt(navigator.appVersion);
-var bCanRollover=0
-if ((bName == "Netscape" && bVer >= 3) ||
-(bName == "Microsoft Internet Explorer" && bVer >= 4))
-bCanRollover=1;
-function ImageSet(imgID,newTarget)
-{
-if (bCanRollover)
-document[imgID].src=newTarget;
-}
-function clearStatus()
-{
-window.status = "";
-}
-function setStatbar(statbar)
-{
-var strStatbar=unescape(statbar);
-window.status=strStatbar;
-}
-function onLoadComplete()
-{
-if( menus_included == 1 )
-document.onmouseover = document_mouseover;	// defined in menu_ie.js
-}
-function HandleLink(parentID,link)
-{
-// links are in one of the following formats:
-// 		cpe_60_0,CP___PAGEID=100
-// 		CPNEWWIN:WindowName^params@CP___
-// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
-if( jsPageAuthorMode == 0 )
-{
-windowname = "";
-windowparams = "";
-// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL;
-pos = link.indexOf("CPNEWWIN:");
-if (pos != -1)
-{
-pos1 = link.indexOf ("^");
-windowname = link.substring (pos+9, pos1);
-pos2 = link.indexOf ("@");
-windowparams = link.substring (pos1 + 1, pos2);
-link = link.substring (pos2 + 1, link.length);
-}
-if (link.indexOf ("CP___") != -1)
-{
-if (windowname == "")
-window.location = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
-else
-{
-urltoopen = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
-windowparams = FormatWindowParams(windowparams);
-window.open (urltoopen, windowname, windowparams);
-}
-}
-else
-{
-if (windowname == "")
-window.location = link;
-else
-{
-windowparams = FormatWindowParams(windowparams);
-window.open (link, windowname, windowparams);
-}
-}
-}
-else if( jsSessionPreviewON == 1 )
-{
-previewLink(link);
-}
-else
-{
-if( document.all[parentID] )
-document.all[parentID].click();
-}
-}
-function doWindowOpen(href,name,params)
-{
-window.open (href, name, params);
-}
-// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
-function FormatWindowParams(windowparams)
-{
-if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 ||
-windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
-{
-windowparams = substringReplace(windowparams,':left=',',left=');
-windowparams = substringReplace(windowparams,'left=','left=');
-windowparams = substringReplace(windowparams,':ww=',',width=');
-windowparams = substringReplace(windowparams,'ww=','width=');
-windowparams = substringReplace(windowparams,':hh=',',height=');
-windowparams = substringReplace(windowparams,'hh=','height=');
-windowparams = substringReplace(windowparams,':loc=',',location=');
-windowparams = substringReplace(windowparams,'loc=','location=');
-windowparams = substringReplace(windowparams,':dir=',',directories=');
-windowparams = substringReplace(windowparams,'dir=','directories=');
-windowparams = substringReplace(windowparams,':tb=',',toolbar=');
-windowparams = substringReplace(windowparams,'tb=','toolbar=');
-windowparams = substringReplace(windowparams,':stat=',',status=');
-windowparams = substringReplace(windowparams,':mb=',',menubar=');
-windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
-windowparams = substringReplace(windowparams,':rs=',',resizable=');
-}
-return windowparams;
-}
-function substringReplace(source,pattern,replacement)
-{
-var pos = 0;
-var target="";
-while ((pos = source.indexOf(pattern)) != (-1))
-{
-target = target + source.substring(0,pos) + replacement;
-source = source.substring(pos+pattern.length);
-pos = source.indexOf(pattern);
-}
-return (target + source);
-}
-// handle scheduled element links
-function show_sched_element(eid)
-{
-evalCol = String(self.element_collection);
-dispFlag = false;
-ua = navigator.userAgent.toLowerCase();
-if (bName == "Netscape" || ua.indexOf('aol') >= 0)
-{
-// cloned from always-include-ns.js
-tmp = "";
-if  (evalCol != 'undefined')
-{
-str = self.location.search;
-for(i=0;i<self.element_collection.length;i++)
-{
-sp = 'sched_elements_' + self.element_collection[i].id;
-if  (self.element_collection[i].id == eid)
-{
-dispFlag = true;
-if  (str == '')
-{
-tmp = "?forceElement=" + eid;
-self.location.search = tmp;
-}
-else
-{
-qArray = str.split("&");
-forceExists = false;
-for(i=0; i < qArray.length; i++)
-{
-el = qArray[i];
-qel = el.split('=');
-if  (qel.length == 1)
-qel[1] = '';
-if  (qel[0] == 'forceElement' || qel[0] == '?forceElement')
-{
-forceExists = true;
-qel[1] = eid;
-}
-qArray[i] = qel;
-}
-// reassemble
-searchStr = '';
-for (i=0; i < qArray.length; i++)
-{
-if  (i == 0)
-searchStr = qArray[i][0] + '=' + qArray[i][1];
-else
-searchStr = searchStr + '&' + qArray[i][0] + '=' + qArray[i][1];
-}
-if  (!forceExists)
-searchStr = searchStr + '&forceElement=' + eid;
-tmp = searchStr;
-self.location.search = searchStr;
-break;
-}
-}
-}
-}
-if  (!dispFlag)
-alert("You do not have access to the requested element.")
-}
-else
-{
-if ( evalCol != 'undefined' )
-{
-for(i=0;i<self.element_collection.length;i++)
-{
-sp = 'sched_elements_' + self.element_collection[i].id;
-obj = document.all.item(sp);
-//alert(sp);
-if ( self.element_collection[i].id == eid && obj != null)
-{
-dispFlag = true;
-if ( obj.length >= 0 )
-{
-for(z=0;z<obj.length;z++)
-{
-obj(z).style.display = 'block';
-}
-}
-else
-document.all(sp).style.display = 'block';
-}
-else if ( obj != null )
-{
-if ( obj.length >= 0 )
-{
-for(z=0;z<obj.length;z++)
-{
-obj(z).style.display = 'none';
-}
-}
-else
-document.all(sp).style.display = 'none';
-}
-}
-}
-if ( !dispFlag )
-alert("You do not have access to the requested element.")
-}
-}
-// --></script>
+<body onload="onLoadFinished();" lang="en" class="CS_Document"><a name="__topdoc__"></a><script language="JavaScript" src="/commonspot/ns-resize.js"></script><script language="JavaScript" src="/commonspot/pagemode/always-include-ns.js"></script>
 <script language="JavaScript"> <!--
 function glblLinkHandler(lobj, attr, val)
 {
@@ -275,7 +72,7 @@ function ImageSet(imgID,newTarget)
 <span class="CS_Element_Image"><div id="1440-548"> <span class="CS_Image_IMG"><a href="/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); return true;" onmouseover=" setStatbar('/index.cfm'); return true;"><img src="/images/pro_choice_logo.gif" class="CS_Image_IMG" border="0" alt="NARAL Pro-Choice America Logo"></a></span></div></span>
 <br><!-- START LEFT NAVIGATION -->
 <span class="CS_Element_Schedule"><span id="1440-549"><span class="CS_Element_ImageGrid"><table class="clsControlBorder" border="0" summary="" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td width="100%" valign="top" align="left"> <div align="left"> <span class="CS_BBar_Image"><a href="/takeaction/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--10','/images/btn_nav_take_action_off.gif'); return true;" onmouseover=" setStatbar('/takeaction/index.cfm'); ImageSet('AIID--10','/images/btn_nav_take_action_on.gif'); return true;"><img name="AIID--10" src="/images/btn_nav_take_action_off.gif" class="CS_BBar_Image" border="0" align="top" alt="Take Action"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/support/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--11','/images/btn_nav_support_off.gif'); return true;" onmouseover=" setStatbar('/support/index.cfm'); ImageSet('AIID--11','/images/btn_nav_support_on.gif'); return true;"><img name="AIID--11" src="/images/btn_nav_support_off.gif" class="CS_BBar_Image" border="0" align="top" alt="Support Us"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/generation/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--12','/images/btn_nav_gener_off.gif'); return true;" onmouseover=" setStatbar('/generation/index.cfm'); ImageSet('AIID--12','/images/btn_nav_gener_on.gif'); return true;"><img name="AIID--12" src="/images/btn_nav_gener_off.gif" class="CS_BBar_Image" border="0" align="top" alt="Generation Pro-Choice"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/yourstate/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--13','/images/btn_nav_state_off.gif'); return true;" onmouseover=" setStatbar('/yourstate/index.cfm'); ImageSet('AIID--13','/images/btn_nav_state_on.gif'); return true;"><img name="AIID--13" src="/images/btn_nav_state_off.gif" class="CS_BBar_Image" border="0" align="top" alt="In Your State"></a></span><br><span class="CS_BBar_Image"><img src="/images/32966198.gif" class="CS_BBar_Image" border="0" align="top" width="155" height="15"></span><br><span class="CS_BBar_Image"><a href="/about/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--14','/images/btn_nav_about_off.gif'); return true;" onmouseover=" setStatbar('/about/index.cfm'); ImageSet('AIID--14','/images/btn_nav_about_on.gif'); return true;"><img name="AIID--14" src="/images/btn_nav_about_off.gif" class="CS_BBar_Image" border="0" align="top" alt="About Us"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/legislation/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--15','/images/btn_nav_leg_off.gif'); return true;" onmouseover=" setStatbar('/legislation/index.cfm'); ImageSet('AIID--15','/images/btn_nav_leg_on.gif'); return true;"><img name="AIID--15" src="/images/btn_nav_leg_off.gif" class="CS_BBar_Image" border="0" align="top" alt="Legislation"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/facts/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--16','/images/btn_nav_facts_off.gif'); return true;" onmouseover=" setStatbar('/facts/index.cfm'); ImageSet('AIID--16','/images/btn_nav_facts_on.gif'); return true;"><img name="AIID--16" src="/images/btn_nav_facts_off.gif" class="CS_BBar_Image" border="0" align="top" alt="Facts &amp; Issue Briefs"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/publications/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--17','/images/50496491.gif'); return true;" onmouseover=" setStatbar('/publications/index.cfm'); ImageSet('AIID--17','/images/34496977.gif'); return true;"><img name="AIID--17" src="/images/50496491.gif" class="CS_BBar_Image" border="0" align="top" alt="Publications"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/ppi/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--18','/images/btn_nav_inst_off.gif'); return true;" onmouseover=" setStatbar('/ppi/index.cfm'); ImageSet('AIID--18','/images/btn_nav_inst_on.gif'); return true;"><img name="AIID--18" src="/images/btn_nav_inst_off.gif" class="CS_BBar_Image" border="0" align="top" alt="Proactive Policy Institute"></a></span><br></div></td></tr></tbody></table> </span></span></span>
+<tbody><tr><td width="100%" valign="top" align="left"> <div align="left"> <span class="CS_BBar_Image"><a href="/takeaction/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--1','/images/btn_nav_take_action_off.gif'); return true;" onmouseover=" setStatbar('/takeaction/index.cfm'); ImageSet('AIID--1','/images/btn_nav_take_action_on.gif'); return true;"><img name="AIID--1" src="/images/btn_nav_take_action_off.gif" class="CS_BBar_Image" border="0" align="top" alt="Take Action"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/support/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--2','/images/btn_nav_support_off.gif'); return true;" onmouseover=" setStatbar('/support/index.cfm'); ImageSet('AIID--2','/images/btn_nav_support_on.gif'); return true;"><img name="AIID--2" src="/images/btn_nav_support_off.gif" class="CS_BBar_Image" border="0" align="top" alt="Support Us"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/generation/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--3','/images/btn_nav_gener_off.gif'); return true;" onmouseover=" setStatbar('/generation/index.cfm'); ImageSet('AIID--3','/images/btn_nav_gener_on.gif'); return true;"><img name="AIID--3" src="/images/btn_nav_gener_off.gif" class="CS_BBar_Image" border="0" align="top" alt="Generation Pro-Choice"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/yourstate/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--4','/images/btn_nav_state_off.gif'); return true;" onmouseover=" setStatbar('/yourstate/index.cfm'); ImageSet('AIID--4','/images/btn_nav_state_on.gif'); return true;"><img name="AIID--4" src="/images/btn_nav_state_off.gif" class="CS_BBar_Image" border="0" align="top" alt="In Your State"></a></span><br><span class="CS_BBar_Image"><img src="/images/32966198.gif" class="CS_BBar_Image" border="0" align="top" width="155" height="15"></span><br><span class="CS_BBar_Image"><a href="/about/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--5','/images/btn_nav_about_off.gif'); return true;" onmouseover=" setStatbar('/about/index.cfm'); ImageSet('AIID--5','/images/btn_nav_about_on.gif'); return true;"><img name="AIID--5" src="/images/btn_nav_about_off.gif" class="CS_BBar_Image" border="0" align="top" alt="About Us"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/legislation/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--6','/images/btn_nav_leg_off.gif'); return true;" onmouseover=" setStatbar('/legislation/index.cfm'); ImageSet('AIID--6','/images/btn_nav_leg_on.gif'); return true;"><img name="AIID--6" src="/images/btn_nav_leg_off.gif" class="CS_BBar_Image" border="0" align="top" alt="Legislation"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/facts/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--7','/images/btn_nav_facts_off.gif'); return true;" onmouseover=" setStatbar('/facts/index.cfm'); ImageSet('AIID--7','/images/btn_nav_facts_on.gif'); return true;"><img name="AIID--7" src="/images/btn_nav_facts_off.gif" class="CS_BBar_Image" border="0" align="top" alt="Facts &amp; Issue Briefs"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/publications/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--8','/images/50496491.gif'); return true;" onmouseover=" setStatbar('/publications/index.cfm'); ImageSet('AIID--8','/images/34496977.gif'); return true;"><img name="AIID--8" src="/images/50496491.gif" class="CS_BBar_Image" border="0" align="top" alt="Publications"></a></span><br><span class="CS_BBar_Image"><img src="/images/nav_line.gif" class="CS_BBar_Image" border="0" align="top"></span><br><span class="CS_BBar_Image"><a href="/ppi/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--9','/images/btn_nav_inst_off.gif'); return true;" onmouseover=" setStatbar('/ppi/index.cfm'); ImageSet('AIID--9','/images/btn_nav_inst_on.gif'); return true;"><img name="AIID--9" src="/images/btn_nav_inst_off.gif" class="CS_BBar_Image" border="0" align="top" alt="Proactive Policy Institute"></a></span><br></div></td></tr></tbody></table> </span></span></span>
 <!-- END LEFT NAVIGATION --><br clear="all"><span class="CS_Element_Image"><div id="1440-550"> <span class="CS_Image_IMG"><img src="/images/32966198.gif" class="CS_Image_IMG" border="0" width="155" height="1"></span></div></span><br>
 <!-- START LEFT NAV ISSUES --><span class="CS_Element_Image"><div id="1440-551"> <span class="CS_Image_IMG"><img src="/images/hp_hdr_issues.gif" class="CS_Image_IMG" border="0" alt="Issues"></span></div></span>
 <table>
@@ -291,12 +88,12 @@ function ImageSet(imgID,newTarget)
 <!-- START MIDDLE CONTENT COLUMN - HEADER AND PAGE CONTENT -->
 <td width="458" valign="top">
 <!-- START HEADER WITH SEARCH FIELDS -->
-<table width="458" cellpadding="0" cellspacing="0" border="0" height="55">
+<table width="458" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 <td width="213" valign="top" bgcolor="#CCCC99"><span class="CS_Element_Image"><div id="1440-553"> <span class="CS_Image_IMG"><a href="/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); return true;" onmouseover=" setStatbar('/index.cfm'); return true;"><img src="/images/hp_hdr_logo2.gif" class="CS_Image_IMG" border="0" alt="Logo"></a></span></div></span>
 </td>
 <td width="245" valign="top" bgcolor="#CCCC99" align="right" height="55"><div align="center">
-<span class="CS_Element_Image"><div id="1440-554"> <span class="CS_Image_IMG"><img src="/images/32966198.gif" class="CS_Image_IMG" border="0" width="245" height="1"></span></div></span><span class="CS_Element_SearchForm"><table class="clsControlBorder" border="0" cellpadding="2" cellspacing="0" width="100%" summary="">
+<span class="CS_Element_SearchForm"><table class="clsControlBorder" border="0" cellpadding="2" cellspacing="0" width="100%" summary="">
   	<tbody><tr><td width="100%" valign="top" align="left"> </td></tr> <form action="/results.cfm" method="post" name="dlgform555"></form>
 <tr><td width="100%" valign="top" align="left">
 <input type="hidden" name="searchType" value="text"> <div class="CS_Element_SearchForm"><input type="hidden" name="incl_subsites" value="1"><script language="JavaScript"> <!--
@@ -329,7 +126,7 @@ document.dlgform555.startpage.value=1;
 	<div> <input type="hidden" name="showSummaryCheckBox" value="0">
 			
 	</div></td>
-</tr> <tr><td valign="baseline"><input type="hidden" name="UserSelectedSubSites" value="1,36,56,57,58,60,59,188,40,48,49,50,61,62,194,51,52,187,53,63,186,54,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,55,65,197,66,67,68,69,70,71,72,73,74,75,76,77"></td></tr><input type="hidden" value="1" name="startpage"><input type="hidden" value="1" name="curpage"></tbody></table> </span><!-- --><div class="CS_Element_LinkBar"> <span class="CS_LinkBar_Item"><span class="black_small"><a href="/search.cfm" onmouseover=" setStatbar('/search.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="black_small">Search Options</a></span></span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><span class="CS_LinkBar_Item"><span class="black_small"><a href="/sitemap.cfm" onmouseover=" setStatbar('/sitemap.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="black_small">Site Map</a></span></span></div></div></td>
+</tr> <tr><td valign="baseline"><input type="hidden" name="UserSelectedSubSites" value="1,36,56,57,58,60,59,188,40,48,49,50,61,62,194,51,52,53,63,186,54,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,55,65,197,66,67,68,69,70,71,72,73,74,75,76,77"></td></tr><input type="hidden" value="1" name="startpage"><input type="hidden" value="1" name="curpage"></tbody></table> </span><!-- --><div class="CS_Element_LinkBar"> <span class="CS_LinkBar_Item"><span class="black_small"><a href="/search.cfm" onmouseover=" setStatbar('/search.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="black_small">Search Options</a></span></span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><span class="CS_LinkBar_Item"><span class="black_small"><a href="/sitemap.cfm" onmouseover=" setStatbar('/sitemap.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="black_small">Site Map</a></span></span></div></div></td>
 </tr>
 </tbody></table>
 <!-- END HEADER -->
@@ -344,7 +141,7 @@ document.dlgform555.startpage.value=1;
 </tbody></table>
 <table width="458" cellpadding="12" cellspacing="0" border="0" summary="">
 <tbody><tr>
-<td>
+<td valign="top">
 <div class="CS_Element_LinkBar"> <span class="CS_LinkBar_Item"><span class="brdnav"><a href="/" onmouseover=" setStatbar('/');  return true;" onmouseout=" setStatbar('');  return true;" class="brdnav">Home</a></span></span><span class="CS_LinkBar_Separator">&nbsp;&gt;&nbsp;</span><span class="CS_LinkBar_CurrentItem"><span class="brdnav">Privacy Policy</span></span><span class="CS_LinkBar_AfterLabel">&nbsp;</span></div>
 </td>
 </tr>
@@ -412,7 +209,7 @@ document.write("<input type='text' size='11' name='email' value='Your Email'>");
 <!-- END SUBSCRIPTION FORM -->
 <!-- START ALERTS -->
 <span class="CS_Element_CustomCF"><div id="1440-4433">
-<a href="https://secure.ga3.org/02/naral8"><img src="/images/hp_btn_getactive02.gif" border="0" alt="Donate Now!" width="131" height="76"></a>
+<a href="https://secure.ga3.org/02/naral8"><img src="/images/button3b.gif" border="0" alt="Donate Now!" width="131" height="76"></a>
 </div></span><!-- --><span class="CS_Element_Schedule"><span id="1440-559"><span class="CS_Element_Textblock"><div id="1440-11685"> <span class="CS_Element_Textblock"> </span></div></span></span></span>
 </form></td>
 </tr>
@@ -421,7 +218,7 @@ document.write("<input type='text' size='11' name='email' value='Your Email'>");
 <tr>
 <td width="155" valign="top" bgcolor="#660033"><img src="/graphics/dot.gif" alt=" " height="1" width="155" border="0"></td>
 <td width="458" valign="top" bgcolor="#FBF3E3" align="center" class="footertd">
-<span class="CS_Element_Schedule"><span id="1440-560"><div class="CS_Element_LinkBar"> <span class="CS_LinkBar_Item"><span class="footer"><a href="/needhelp.cfm" onmouseover=" setStatbar('/needhelp.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="footer">Pregnant? Need Help?</a></span></span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><span class="CS_LinkBar_Item"><span class="footer"><a href="/about/feedback.cfm" onmouseover=" setStatbar('/about/feedback.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="footer">Contact Us</a></span></span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><span class="CS_LinkBar_Item"><span class="footer"><a href="/privacy.cfm" onmouseover=" setStatbar('/privacy.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="footer">Privacy Policy</a></span></span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><span class="CS_LinkBar_Item"><span class="footer"><a href="/copyright.cfm" onmouseover=" setStatbar('/copyright.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="footer">© 2004 NARAL Pro-Choice America</a></span></span></div></span></span>
+<span class="CS_Element_Schedule"><span id="1440-560"><div class="CS_Element_LinkBar"> <span class="CS_LinkBar_Item"><span class="footer"><a href="/needhelp.cfm" onmouseover=" setStatbar('/needhelp.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="footer">Pregnant? Need Help?</a></span></span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><span class="CS_LinkBar_Item"><span class="footer"><a href="/about/feedback.cfm" onmouseover=" setStatbar('/about/feedback.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="footer">Contact Us</a></span></span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><span class="CS_LinkBar_Item"><span class="footer"><a href="/privacy.cfm" onmouseover=" setStatbar('/privacy.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="footer">Privacy Policy</a></span></span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><span class="CS_LinkBar_Item"><span class="footer"><a href="/copyright.cfm" onmouseover=" setStatbar('/copyright.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="footer">© 2005 NARAL Pro-Choice America</a></span></span></div></span></span>
 </td>
 <td width="131" valign="top" bgcolor="#CCCC99"><img src="/graphics/dot.gif" alt=" " height="1" width="131" border="0"></td>
 </tr>
