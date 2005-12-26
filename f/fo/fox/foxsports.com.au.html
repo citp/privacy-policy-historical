@@ -1,12 +1,16 @@
-<!--The following is the downloaded HTML source of the foxsports.com.au privacy policy that was archived on 2005-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050630083541id_/http%3A//foxsports.news.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxsports.com.au privacy policy that was archived on 2005-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051226102107id_/http%3A//foxsports.news.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>FOX SPORTS | Privacy</title>
+	<title>Privacy - Fox Sports</title>
 	<meta http-equiv="Refresh" content="0480">
 <meta name="Description" content="Welcome to foxsports.com.au - the premier Australian sports destination site, providing the most comprehensive coverage of sport in Australia. Coverage of sports includes Cricket, Tennis, Golf, Basketball and Soccer. Foxsports.com.au combines the global resources of News Corporation.">
 <meta name="Keywords" content="sport, Australian sport, NRL, Rugby League, ARU, Wallabies, teams, players,  Australia, wimbledon, footy, football, TV guide, photos, news, sports news, fox sports online, foxsports online, NBL, photo gallery, results, statistics, fixtures, event calendar, presenters, opinion poll, rugby league, rugby union">
-	 <link rel="stylesheet" type="text/css" href="/css/fscss.css">
+
+<link rel="shortcut icon" href="http://foxsports.news.com.au/images/icons/favicon.ico" type="image/x-icon"> 
+<link rel="icon" href="http://foxsports.news.com.au/images/icons/favicon.ico" type="image/x-icon">
+	
+		 <link rel="stylesheet" type="text/css" href="/css/fscss.css">
 	 <link rel="stylesheet" media="screen, all" type="text/css" href="http://foxsports.news.com.au/css/networkcss/0,20077,,00.css">
 	<script language="JavaScript" type="text/javascript" src="http://foxsports.news.com.au/js/networkjs/0,20076,,00.js"></script>
 
@@ -94,61 +98,70 @@
 
 <!-- foxports header section -->
 
-
-<div id="networkTopAd">
-	
-	<!-- AdSpace site=sport&section=homepage&adsize=468x60&pagepos=1--><script language="JavaScript1.1" src="http://adserver.news.com.au/js.ng/site=sport&amp;section=homepage&amp;adsize=468x60&amp;pagepos=1"></script><noscript><A HREF="http://adserver.news.com.au/click.ng/Params.richmedia=yes&site=sport&section=homepage&adsize=468x60&pagepos=1"><IMG SRC="http://adserver.news.com.au/image.ng/Params.richmedia=yes&site=sport&section=homepage&adsize=468x60&pagepos=1"></A></noscript><!-- /AdSpace -->
-		</div>
-<div id="foxHeader">
-	
-	<!-- removing js include ninnbar temporarily (not working perfectly) -->
-	<!-- add back when have time 11/05/2005 -->
-
-    <!-- quick fix for ad problem -->
-    <style type="text/css">
-	#nnFixed {
-	padding-right:150px;
-	}
-	</style>
-	
-	<link rel="stylesheet" type="text/css" href="http://central.news.com.au/ninnbar/ninnbar_network.css">
-    <div id="ninnbar">
-    <div id="nnFixed">
-    <div id="nnNews"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_news">NEWS.com.au</a></div>
-    <div id="nnFox"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=foxsports">FOX SPORTS</a></div>
-    <div id="nnClassifieds"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_class">CLASSIFIEDS</a></div>
-    <div id="nnNewspapers"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_newspapers">NEWSPAPERS</a></div>
-    <div id="nnSearch" style="margin: 0; width: 190px;">
-    <div id="nnSearchText">Search the web</div>
-    <form action="http://searchresults.news.com.au/servlet/Search" name="searchheader" method="post" class="searchForm">
-    <div id="nnSearchInput"><input type="text" name="queryterm" value="" class="searchText"></div>
-    <div id="nnSearchGo"><input type="submit" value="Go" class="searchGo" onmouseover="this.style.background=&quot;#ffffff&quot;" onmouseout="this.style.background=&quot;#F1F1F1&quot;"></div>
-    <input type="hidden" name="site" value="foxsports">
-    </form>
-    </div>
-    </div>
-    </div>
+ <div id="foxHeader">
 	
 	<!-- ninnbar -->
-	
-	<!-- // ninnbar -->
+	 <div id="ninnbar">
+	<div id="nnNews"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_news">NEWS.com.au</a></div>
+	<div id="nnFox"><a href="http://foxsports.news.com.au/">FOX SPORTS</a></div>
+	<div id="nnClassifieds"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_class">CLASSIFIEDS</a></div>
+	<div id="nnNewspapers"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_newspapers">NEWSPAPERS</a></div>
+	<div id="nnMobile"><a href="http://mobile.news.com.au/">MOBILE</a></div>
+	<div id="nnSearch">
+		<div id="nnSearchText">Search</div>
+		<form action="http://searchresults.news.com.au/servlet/Search" id="ninnbarSearchForm" name="searchheader" method="post" class="searchForm" onsubmit="return checkSiteVar();">
+		<div id="nnSearchInput"><input type="text" id="ninnbarSearchTerm" name="queryterm" value="" class="searchText"></div>
+		<div id="nnSearchRadioSite"><input type="radio" name="searchoption" value="yes" class="searchRadio" checked="">Site</div> 
+		
+		<div id="nnSearchRadioWeb"><input type="radio" name="searchoption" value="no" class="searchRadio">Web</div> 
+		<div id="nnSearchGo"><input type="submit" value="Go" class="searchGo" onmouseover="this.style.background='#ffffff'" onmouseout="this.style.background='#F1F1F1'"></div> 
+		<input type="hidden" name="site" value="foxsports">
+		</form>
+	</div>
+</div>
 
-	<a href="/"><img id="logo" src="http://foxsports.news.com.au/images/foxsports_logo_small.gif" height="44" width="78" alt="Fox Sports"></a>	
+ <!-- // ninnbar -->
+	
+    <a href="/"><img id="logo" src="http://foxsports.news.com.au/images/foxsports_logo_small.gif" height="44" width="78" alt="Fox Sports"></a>	
   	<div id="headerPromo">
-  <p><a href="http://www.entertainment.news.com.au/index/0,,5000140,00.html?from=ni_header"><b>Big Brother</b>: Latest goss on the intruders</a></p>
-  <p><a href="#" onclick="window.open('http://finance.news.com.au/media?from=ni_header','','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=800,height=450');return false"><b>NEWS.com.au/business</b>: Our new Business site</a><br>
+  <p><a href="http://escape.news.com.au/story/0,9142,17465785-28237,00.html?from=ni_header"><b>Escape</b>: Theme parks for the family</a></p>
+  <p><a href="http://foxsports.news.com.au/cricket?from=ni_header"><b>Fox Sports 
+    cricket</b>: For the very latest holiday Test match news</a><br>
   </p>
-  </div> <div id="foxHeaderAd">
+  </div>   <div id="foxHeaderAd">
+	<!-- AdSpace -->
+<script type="text/javascript" language="JavaScript">
+<!-- Hide from old browsers
+// Cache-busting and pageid values
+random = Math.round(Math.random() * 100000000);
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+
+document.write('<SCR');
+document.write('IPT TYPE="TEXT/JAVASCRIPT" SRC="http://mercury.tiser.com.au/jserver/acc_random=' + random + '/SITE=NEWS/AREA=NEWS.ROS/AAMSZ=120X60/pageid=' + pageNum + '">');
+document.write('</SCR');
+document.write('IPT>');
+
+// End Hide -->
+</script><script type="TEXT/JAVASCRIPT" src="http://mercury.tiser.com.au/jserver/acc_random=14253874/SITE=NEWS/AREA=NEWS.ROS/AAMSZ=120X60/pageid=21079305"></script>
+
+<noscript>
+<A HREF="http://mercury.tiser.com.au/adclick/SITE=NEWS/AREA=NEWS.ROS/AAMSZ=120X60/pageid=1">
+<IMG SRC="http://mercury.tiser.com.au/nserver/SITE=NEWS/AREA=NEWS.ROS/AAMSZ=120X60/pageid=1"></A>
+</noscript>
+
+<!-- /AdSpace --> </div>
 	
-	<!-- AdSpace site=news&section=networkbutton&tab=homepage&adsize=120x60&pagepos=1--><script language="JavaScript1.1" src="http://adserver.news.com.au/js.ng/site=news&amp;section=networkbutton&amp;tab=homepage&amp;adsize=120x60&amp;pagepos=1"></script><noscript><A HREF="http://adserver.news.com.au/click.ng/Params.richmedia=yes&site=news&section=networkbutton&tab=homepage&adsize=120x60&pagepos=1"><IMG SRC="http://adserver.news.com.au/image.ng/Params.richmedia=yes&site=news&section=networkbutton&tab=homepage&adsize=120x60&pagepos=1"></A></noscript><!-- /AdSpace -->
-		 </div>
-	
-	<div id="rightNetworkDiv">
+	<div id="rightNetworkDiv">		
 		
 		 
 <!-- right nav -->
 <div id="rightnav">
-
+    
+	<style type="text/css">
+	#weather {
+	display:none !important;
+	}
+	</style>
 	
 <!-- weather box -->
 <div id="weather">
@@ -164,29 +177,29 @@
 		<!--
 		// State, Icon, forecast, hi, low
 		
-		wAdelaide = new Array("Adelaide","http://network.news.com.au/images/weather/mostly_sunny.gif","Fine. Mostly sunny.","17C","5C");
+		wAdelaide = new Array("Adelaide","http://network.news.com.au/images/weather/mostly_sunny.gif","Fine. Mostly sunny.","28C","15C");
 		 
-		wBrisbane = new Array("Brisbane","http://network.news.com.au/images/weather/mostly_cloudy.gif","Few showers clearing","21C","16C");
+		wBrisbane = new Array("Brisbane","http://network.news.com.au/images/weather/late_thunder.gif","Late shower or storm","34C","24C");
 		 
-		wCairns = new Array("Cairns","http://network.news.com.au/images/weather/possible_shower.gif","Mostly fine","27C","20C");
+		wCairns = new Array("Cairns","http://network.news.com.au/images/weather/mostly_sunny.gif","Fine","32C","24C");
 		 
-		wCanberra = new Array("Canberra","http://network.news.com.au/images/weather/rain.gif","Rain periods","13C","7C");
+		wCanberra = new Array("Canberra","http://network.news.com.au/images/weather/mostly_sunny.gif","Fine. Mostly sunny.","29C","12C");
 		 
-		wCoolangatta = new Array("Coolangatta","http://network.news.com.au/images/weather/rain.gif","Rain, windy","20C","16C");
+		wCoolangatta = new Array("Coolangatta","http://network.news.com.au/images/weather/late_thunder.gif","Late shower or storm about","32C","23C");
 		 
-		wDarwin = new Array("Darwin","http://network.news.com.au/images/weather/sunny.gif","Sunny","29C","15C");
+		wDarwin = new Array("Darwin","http://network.news.com.au/images/weather/thunderstorms.gif","Showers or gusty storm.","31C","24C");
 		 
-		wHobart = new Array("Hobart","http://network.news.com.au/images/weather/mostly_sunny.gif","Fine.","15C","8C");
+		wHobart = new Array("Hobart","http://network.news.com.au/images/weather/late_shower.gif","Afternoon shower.","21C","11C");
 		 
-		wMelbourne = new Array("Melbourne","http://network.news.com.au/images/weather/rain.gif","Cloudy with periods of light rain.","14C","5C");
+		wMelbourne = new Array("Melbourne","http://network.news.com.au/images/weather/mostly_sunny.gif","Fine.","27C","13C");
 		 
-		wNewcastle = new Array("Newcastle","http://network.news.com.au/images/weather/rain.gif","Rain","18C","13C");
+		wNewcastle = new Array("Newcastle","http://network.news.com.au/images/weather/sunny.gif","Fine. Sunny.","29C","16C");
 		 
-		wPerth = new Array("Perth","http://network.news.com.au/images/weather/clearing_shower.gif","Showers clearing later.","18C","10C");
+		wPerth = new Array("Perth","http://network.news.com.au/images/weather/late_shower.gif","Fine day. Overnight shower.","24C","15C");
 		 
-		wSydney = new Array("Sydney","http://network.news.com.au/images/weather/windy_with_rain.gif","Rain, clearing overnight. Windy.","17C","14C");
+		wSydney = new Array("Sydney","http://network.news.com.au/images/weather/mostly_sunny.gif","Fine, mostly sunny.","29C","17C");
 		 
-		wTownsville = new Array("Townsville","http://network.news.com.au/images/weather/mostly_sunny.gif","Fine","27C","17C");
+		wTownsville = new Array("Townsville","http://network.news.com.au/images/weather/mostly_sunny.gif","Fine","33C","27C");
 		  wStates = new Array("wAdelaide","wBrisbane","wCairns","wCanberra","wCoolangatta","wDarwin","wHobart","wMelbourne","wNewcastle","wPerth","wSydney","wTownsville");
         -->
         </script>
@@ -223,20 +236,38 @@
 	</div>
 </div>
 <!-- // weather -->
-  
-	<!-- ads -->
-	<div id="smallAd">
+   <!-- ads1 -->
+	<div class="smallAd">
+	<!-- AdSpace -->
+<script type="text/javascript" language="JavaScript">
+<!-- Hide from old browsers
+// Cache-busting and pageid values
+random = Math.round(Math.random() * 100000000);
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+
+document.write('<SCR');
+document.write('IPT TYPE="TEXT/JAVASCRIPT" SRC="http://mercury.tiser.com.au/jserver/acc_random=' + random + '/SITE=FOXS/AREA=SPORT.HOME/AAMSZ=139X30/pageid=' + pageNum + '">');
+document.write('</SCR');
+document.write('IPT>');
+
+// End Hide -->
+</script><script type="TEXT/JAVASCRIPT" src="http://mercury.tiser.com.au/jserver/acc_random=65643327/SITE=FOXS/AREA=SPORT.HOME/AAMSZ=139X30/pageid=21079305"></script>
+
+<noscript>
+<A HREF="http://mercury.tiser.com.au/adclick/SITE=FOXS/AREA=SPORT.HOME/AAMSZ=139X30/pageid=1">
+<IMG SRC="http://mercury.tiser.com.au/nserver/SITE=FOXS/AREA=SPORT.HOME/AAMSZ=139X30/pageid=1"></A>
+</noscript>
+
+<!-- /AdSpace --> </div>
+	<!-- // ads1 -->
 	
-	<!-- AdSpace site=sport&section=leave&adsize=139x30&pagepos=1--><script language="JavaScript1.1" src="http://adserver.news.com.au/js.ng/site=sport&amp;section=leave&amp;adsize=139x30&amp;pagepos=1"></script><noscript><A HREF="http://adserver.news.com.au/click.ng/Params.richmedia=yes&site=sport&section=leave&adsize=139x30&pagepos=1"><IMG SRC="http://adserver.news.com.au/image.ng/Params.richmedia=yes&site=sport&section=leave&adsize=139x30&pagepos=1"></A></noscript><!-- /AdSpace -->
-		 </div>
-	<!-- // ads -->
-	 <!-- classifieds box -->
+	<!-- classifieds box -->
 <div id="classifiedsBox">
     <div id="topNav">
 		<a href="#" id="jobsTab" onclick="show_div('jobs'); return false;" onmouseover="this.style.backgroundColor='#1871a6';" onmouseout="this.style.backgroundColor='#bababa';">Jobs</a>
 		<a href="#" id="carsTab" onclick="show_div('cars'); return false;" onmouseover="this.style.backgroundColor='#1871a6';" onmouseout="this.style.backgroundColor='#bababa';">Cars</a>
-
 		<a href="#" id="matchTab" onclick="show_div('match'); return false;" onmouseover="this.style.backgroundColor='#1871a6';" onmouseout="this.style.backgroundColor='#bababa';">Dating</a>
+		
 	</div>
 
 	
@@ -244,6 +275,7 @@
 	<div id="jobsActive" style="display: none;">Jobs</div>
 	<div id="carsActive" style="display: none;">Cars</div>
 	<div id="matchActive">Dating</div>
+	
 
 	<!-- end active tab divs -->
 	
@@ -279,18 +311,22 @@
 	</div>
 	
 	<div id="cars" style="display: none;">
-		<div class="classiContent">
-			<form target="_blank" name="QuickSearchForm" action="http://search.carsguide.news.com.au/news/search_used_xt.jsp" method="post" onsubmit="return ValidateForm(this);">
-			
-				<select name="search_type" id="search_type" onchange="ChangeType(this.form)">
-					<option value="1" selected="">Dealer Cars</option>
-					<option value="2">Classified Ads</option>
-					<option value="3">New Cars</option>
+    		<div class="classiContent">
+				<form target="_blank" name="qs_form" action="http://search.carsguide.news.com.au/news/find-a-car/power-search/search-results.do" method="post" onsubmit="return ValidateForm(this);">
+				<input type="hidden" name="searchType" value="1">
+				<input type="hidden" name="clearCompare" value="true">
+				<input type="hidden" name="priceFrom" value="">
+                <input type="hidden" name="priceTo" value="">
+				<input type="hidden" name="model" value="">
+                 				
+				<select name="view" id="search_type" onchange="ChangeType(this.form)">
+					<option value="1">New Cars</option>
+					<option value="2" selected="">All used cars</option>
+					<option value="3">Dealer used cars</option>
+					<option value="4">Private used cars</option>
 				</select>
 				
-				
-		
-				<select name="make_id" id="make_id">
+				<select name="make" id="make_id">
 				<option value="Choose Make" selected="">Choose Make</option>
 				<option value="ALFA ROMEO">ALFA ROMEO</option>
 				<option value="ASIA MOTORS">ASIA MOTORS</option>
@@ -362,7 +398,7 @@
 									
 				</select>
 				
-				<select name="region_id" id="region_id">
+				<select name="location" id="region_id">
 					<option value="Any Location" selected="">Any Location</option>
 					<option value="NSW">NSW</option>
 					<option value="QLD">QLD</option>
@@ -371,7 +407,7 @@
 					<option value="WA">WA</option>
 				</select>
 								
-				<select name="year_from" id="year_from">
+				<select name="yearFrom" id="year_from">
 					<option value="Any Year" selected="">Any Year</option>
 					<option value="1980">1980</option>
 					<option value="1981">1981</option>
@@ -404,16 +440,15 @@
 					<option value="" selected>loading...</option>
 				
 				</select> -->
-				
-					<input type="hidden" name="page" value="1">							
-					<input type="hidden" name="order_by" value="A">							
-					<input type="hidden" name="sort_type" value="1">							
-					<input type="hidden" name="body_id" value="Any Body">					
-			<input type="submit" value="Go" class="buttonGo" id="carsGo" onmouseover="this.style.background='#ffffff'" onmouseout="this.style.background='#F1F1F1'"> 
-			</form>
-			<br>
-		</div>
-	</div>
+					
+								
+				<input type="submit" value="Go" class="buttonGo" id="carsGo" onmouseover="this.style.background='#ffffff'" onmouseout="this.style.background='#F1F1F1'"> 
+				</form>
+				<br>
+    		</div>
+    	</div>
+	
+	
 
 	<div id="match"> 
 		<div class="classiContent">
@@ -477,6 +512,8 @@
 			<br>
 
 		</div>
+		
+		
 		<!-- end toggle section divs -->
 	</div>	
 </div>
@@ -485,21 +522,44 @@
 
 <!-- // classifieds box -->
 
-  
-	<!-- ads -->
-	<div id="smallAd">
-	
-	<!-- AdSpace site=sport&section=spotlight&adsize=139x118&pagepos=1--><script language="JavaScript1.1" src="http://adserver.news.com.au/js.ng/site=sport&amp;section=spotlight&amp;adsize=139x118&amp;pagepos=1"></script><noscript><A HREF="http://adserver.news.com.au/click.ng/Params.richmedia=yes&site=sport&section=spotlight&adsize=139x118&pagepos=1"><IMG SRC="http://adserver.news.com.au/image.ng/Params.richmedia=yes&site=sport&section=spotlight&adsize=139x118&pagepos=1"></A></noscript><!-- /AdSpace -->
-		 </div>
-	<!-- // ads -->
-	 <!-- promo1 box -->
+   <!-- ads2 -->
+	<div class="smallAd">
+	 </div>
+	<!-- // ads2 -->
+
+	  <!-- ads1 -->
+	<div class="smallAd">
+	<!-- AdSpace -->
+<script type="text/javascript" language="JavaScript">
+<!-- Hide from old browsers
+// Cache-busting and pageid values
+random = Math.round(Math.random() * 100000000);
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+
+document.write('<SCR');
+document.write('IPT TYPE="TEXT/JAVASCRIPT" SRC="http://mercury.tiser.com.au/jserver/acc_random=' + random + '/SITE=FOXS/AREA=SPORT.HOME/AAMSZ=139X30/pageid=' + pageNum + '">');
+document.write('</SCR');
+document.write('IPT>');
+
+// End Hide -->
+</script><script type="TEXT/JAVASCRIPT" src="http://mercury.tiser.com.au/jserver/acc_random=38887342/SITE=FOXS/AREA=SPORT.HOME/AAMSZ=139X30/pageid=21079305"></script>
+
+<noscript>
+<A HREF="http://mercury.tiser.com.au/adclick/SITE=FOXS/AREA=SPORT.HOME/AAMSZ=139X30/pageid=1">
+<IMG SRC="http://mercury.tiser.com.au/nserver/SITE=FOXS/AREA=SPORT.HOME/AAMSZ=139X30/pageid=1"></A>
+</noscript>
+
+<!-- /AdSpace --> </div>
+	<!-- // ads1 -->
+		
+	<!-- promo1 box -->	
 	
 	<div class="smallPromoBox">
         <div class="boxEBorder">
-            <div align="center"><a href="http://carsguide.news.com.au/news/story_page/0,8269,15703807%255E21822,00.html?from=rhn" class="image"><img src="http://network.news.com.au/image/0,10114,5022317,00.jpg" width="129" height="65" alt="" border="0"></a></div>
+            <div align="center"><a href="http://tvguide.foxsports.news.com.au/servlet/Search" class="image"><img src="http://network.news.com.au/image/0,10114,5016244,00.jpg" width="129" height="65" alt="" border="0"></a></div>
             <div class="boxEText">
-                <b>Next generation MX-5</b><br>
-                Grippier, bigger and faster than the original <a href="http://carsguide.news.com.au/news/story_page/0,8269,15703807%255E21822,00.html?from=rhn" class="orange">More</a>
+                <b>On the box</b><br>
+                What's on Fox Sports TV? <a href="http://tvguide.foxsports.news.com.au/servlet/Search" class="orange">More</a>
 			</div>
         </div>
     </div> <!-- // promo1 box -->
@@ -508,41 +568,35 @@
 	
 	<div class="smallPromoBox">
         <div class="boxEBorder">
-            <div align="center"><a href="#" onclick="this.style.behavior='url(#default#homepage)'; this.setHomePage('http://www.foxsports.com.au/');" class="image"><img src="http://network.news.com.au/image/0,10114,5015266,00.jpg" width="129" height="65" alt="" border="0"></a></div>
+            <div align="center"><a href="http://www.news.com.au/whatever_happens?from=rhn" class="image"><img src="http://network.news.com.au/image/0,10114,5089178,00.jpg" width="129" height="65" alt="" border="0"></a></div>
             <div class="boxEText">
-                <b>Be first to know</b><br>
-                Make Fox Sports your homepage <a href="#" onclick="this.style.behavior='url(#default#homepage)'; this.setHomePage('http://www.foxsports.com.au/');" class="orange">More</a>
+                <b>2005 in review</b><br>
+                Vote - The event of 2005 <a href="http://www.news.com.au/whatever_happens?from=rhn" class="orange">More</a>
 			</div>
         </div>
     </div> <!-- promo2 box -->
-
-				
+		
 	<script language="Javascript">
 
 
-		var thesundaymail = new Array("http://www.thesundaymail.news.com.au/?from=ni_cover","http://www.thecouriermail.news.com.au/extras/subscribe/index.html?from=ni_cover","http://network.news.com.au/image/0,10114,5020909,00.jpg");
+		var thesundaymail = new Array("http://www.thesundaymail.news.com.au/sport/0,5971,Sport^^TEXT^thesundaymail,00.html?from=FS_cover","http://www.thecouriermail.news.com.au/extras/subscribe/index.html?from=ni_cover","http://network.news.com.au/image/0,10114,5087920,00.jpg");
 		 
 
-		var couriermail = new Array("http://www.couriermail.news.com.au/?from=ni_cover","http://thecouriermail.com.au/extras/subscribe/index.html?from=ni_cover","http://network.news.com.au/image/0,10114,5022074,00.jpg");
+		var couriermail = new Array("http://www.thecouriermail.news.com.au/sport/0,5971,SportingNews%5e%5eTEXT%5ethecouriermail,00.html?from=FS_cover","http://thecouriermail.com.au/extras/subscribe/index.html?from=ni_cover","http://network.news.com.au/image/0,10114,5090220,00.jpg");
+		 
+
+		var advertiser = new Array("http://www.theadvertiser.news.com.au/sport/0,5971,sport%255E%255ETEXT,00.html?from=FS_cover","http://www.theadvertiser.news.com.au/common/subscribeform/?from=ni_cover","http://network.news.com.au/image/0,10114,5090274,00.jpg");
 		 
 
 
-		var advertiser = new Array("http://www.theadvertiser.news.com.au/?from=ni_cover","http://www.theadvertiser.news.com.au/common/subscribeform/?from=ni_cover","http://network.news.com.au/image/0,10114,5022085,00.jpg");
+		var heraldsun = new Array("http://www.heraldsun.news.com.au/sectionindex1/0,5442,dhssport%5ESPORT%5ETEXT%5Eheraldsun,00.html?from=FS_cover","http://www.heraldsun.news.com.au/common/subscribeform/?from=ni_cover","http://network.news.com.au/image/0,10114,5090213,00.jpg");
 		 
 
 
-		var heraldsun = new Array("http://www.heraldsun.news.com.au/?from=ni_cover","http://www.heraldsun.news.com.au/common/subscribeform/?from=ni_cover","http://network.news.com.au/image/0,10114,5022066,00.jpg");
-		 
 
-		var ntnews = new Array("http://www.ntnews.news.com.au/?from=ni_cover","http://www.ntnews.news.com.au/common/subscribeform/?from=ni_cover","http://network.news.com.au/image/0,10114,5022088,00.jpg");
+		var dailytelegraph = new Array("http://www.dailytelegraph.news.com.au/sport?from=FS_cover","http://www.dailytelegraph.news.com.au/homedelivery/?from=ni_cover","http://network.news.com.au/image/0,10114,5090289,00.jpg");
 		 
-
-		var mercury = new Array("http://www.themercury.news.com.au/?from=ni_cover","http://www.themercury.news.com.au/common/subscribeform/?from=ni_cover","http://network.news.com.au/image/0,10114,5022072,00.jpg");
-		 
-
-		var dailytelegraph = new Array("http://dailytelegraph.news.com.au/index.jsp?from=ni_cover","http://dailytelegraph.news.com.au/homedelivery/index.htm?from=ni_cover","http://images.news.com.au/thedailytelegraph/3361334_newscomfronter.jpg");
-		 
-metaPaper = new Array(thesundaymail,couriermail,advertiser,heraldsun,ntnews,mercury,dailytelegraph);
+metaPaper = new Array(thesundaymail,couriermail,advertiser,heraldsun,dailytelegraph);
 </script>
 
 <!-- mastheads box -->
@@ -560,11 +614,7 @@ metaPaper = new Array(thesundaymail,couriermail,advertiser,heraldsun,ntnews,merc
 				 
 				<option value="3">Herald Sun</option>
 				 
-				<option value="4">NT News</option>
-				 
-				<option value="5">The Mercury</option>
-				 
-				<option value="6">The Daily Telegraph</option>
+				<option value="4">The Daily Telegraph</option>
 				  </select>
         </form>
 		<a href="#" onclick="papersLink('site');return false" id="paperImageLink"><img src="http://network.news.com.au/images/1p.gif" width="126" alt="Newspaper" border="0" name="paperPlace"></a>
@@ -573,9 +623,10 @@ metaPaper = new Array(thesundaymail,couriermail,advertiser,heraldsun,ntnews,merc
 </div>
 <!-- // mastheads box --> </div>
 <!-- // right nav -->
-
- </div>
-	
+ <!-- skycraper -->
+		  <!-- skycraper -->				
+	</div>
+		 
 </div>
 <!-- // foxports header section -->
 
@@ -591,7 +642,7 @@ metaPaper = new Array(thesundaymail,couriermail,advertiser,heraldsun,ntnews,merc
 	<table width="120" cellpadding="0" cellspacing="0" border="0" bgcolor="#4B4B4B">
 	<form action="http://searchresults.news.com.au/servlet/Search" method="post"></form>
 	<input type="hidden" name="site" value="foxsports">
-	<input type="Hidden" name="searchoption" value="no">
+	<input type="Hidden" name="searchoption" value="yes">
 	<tbody><tr>
 		<td style="padding: 5px 2px 5px 3px;">
 		<span class="white11b">Search</span><br>
@@ -605,12 +656,14 @@ metaPaper = new Array(thesundaymail,couriermail,advertiser,heraldsun,ntnews,merc
 		<table width="120" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
 				<td valign="top" background="http://foxsports.news.com.au/images/leftnav_table_bg.gif">
-				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/?from=FS_leftnav'">FOX SPORTS</div>
+				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/?from=FS_leftnav'">HOME</div>
+				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/shows/?from=FS_leftnav'">SHOWS</div>				
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.open('http://video.foxsports.news.com.au/video.php','','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=800,height=600,top=0,left=0')">VIDEO</div>
 				
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/results/?from=FS_leftnav'">RESULTS</div>
 				
 				 <div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/tipping/?from=FS_leftnav'">TIPPING</div>
+				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.open('http://foxsports.news.com.au/gallery/?from=FS_leftnav','PhotoGallery','toolbar=no,scrolling=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=580,height=508,left=200,top=100')">GALLERIES</div>
 
 
 
@@ -622,10 +675,13 @@ metaPaper = new Array(thesundaymail,couriermail,advertiser,heraldsun,ntnews,merc
 					<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/basketball/?from=FS_leftnav'">BASKETBALL</div>
 				 
 			    
-					<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/ashes/?from=FS_leftnav'">THE ASHES</div>
+					<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/cricket/?from=FS_leftnav'">CRICKET</div>
 				 
 			    
-					<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/cricket/?from=FS_leftnav'">CRICKET</div>
+					<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/aleague/?from=FS_leftnav'">A-LEAGUE</div>
+				 
+			    
+					<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/epl/?from=FS_leftnav'">EPL</div>
 				 
 			    
 					<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/football/?from=FS_leftnav'">FOOTBALL</div>
@@ -643,9 +699,6 @@ metaPaper = new Array(thesundaymail,couriermail,advertiser,heraldsun,ntnews,merc
 					<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/motorsports/?from=FS_leftnav'">MOTOR SPORTS</div>
 				 
 			    
-					<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/formula1/?from=FS_leftnav'">FORMULA 1 2005</div>
-				 
-			    
 					<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='http://foxsports.news.com.au/tennis/?from=FS_leftnav'">TENNIS</div>
 				 
 			    
@@ -658,56 +711,103 @@ metaPaper = new Array(thesundaymail,couriermail,advertiser,heraldsun,ntnews,merc
 			</tr>
 		</tbody></table>
 
-	
-
 		<table width="120" cellpadding="0" cellspacing="0" class="leftNavBlack" border="0">
 			<tbody><tr>
 				<td>
 				<p style="margin-top:6px">
-				<a href="javascript:void(0)" onclick="window.open('http://foxsports.news.com.au/gallery/?from=FS_leftnav','PhotoGallery','toolbar=no,scrolling=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=580,height=508,left=200,top=100')" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/leftnav_square.gif" width="16" height="14" border="0" alt="">Sport Gallery</a><br>
 				<a href="http://foxsports.news.com.au/todayspapers/?from=FS_leftnav" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/leftnav_square_2.gif" width="16" height="14" border="0" alt="">Today's Papers</a><br>
-				<a href="javascript:void(0)" onclick="openWin('http://foxsports.news.com.au/audionews/0,8656,,00.html?from=FS_leftnav','terms','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=490,height=358')" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/leftnav_headphones.gif" width="16" height="14" border="0" alt="">Audio News</a><br>
-				
-				<a href="http://foxsports.news.com.au/wicketball/?from=FS_leftnav" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/icon_wicketball.gif" width="16" height="14" border="0" alt="">Wicketball</a><br>
-				
 				</p></td>
 			</tr>
-			
 			<tr>
 				<td>					
-				<a href="http://foxsports.news.com.au/shows/?from=FS_leftnav" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/leftnav_tv.gif" width="16" height="14" border="0" alt="">FOX SPORTS TV</a><br>
-				<a href="http://foxsports.news.com.au/events/?from=FS_leftnav" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/leftnav_expl.gif" width="16" height="14" border="0" alt="">Coming Events</a><br>
 				<a href="http://tvguide.foxsports.news.com.au/servlet/Search" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/leftnav_square_3.gif" width="16" height="14" border="0" alt="">TV Guide</a><br>
+				<a href="http://foxsports.news.com.au/subscribe/?from=FS_leftnav" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/icons/icon_leftnav_tv.gif" width="16" height="14" border="0" alt="">Get FOX SPORTS</a><br>
+				<a href="http://foxsports.news.com.au/events/?from=FS_leftnav" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/icons/icon_leftnav_events.gif" width="16" height="14" border="0" alt="">Coming Events</a><br>
+				<a href="http://foxsports.news.com.au/feedback/?from=FS_leftnav" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/leftnav_expl.gif" width="16" height="14" border="0" alt="">Feedback</a><br>
 				<a href="http://foxsports.news.com.au/help/?from=FS_leftnav" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/leftnav_question.gif" width="16" height="14" border="0" alt="">FAQ</a><br>
-				<a href="http://foxsports.news.com.au/smsalert/?from=FS_leftnav" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/leftnav_smsalert.gif" width="16" height="14" border="0" alt="">SMS Alert</a><br>
+				<a href="http://foxsports.news.com.au/helpwireless/" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/icons/icon_leftnav_wireless.gif" width="16" height="14" border="0" alt="">Wireless</a><br>
+				<a href="http://foxsports.news.com.au/wicketball/?from=FS_leftnav" class="leftNavWhite"><img src="http://foxsports.news.com.au/images/icon_wicketball.gif" width="16" height="14" border="0" alt="">Wicketball</a><br>
+
+				
 				</td>
 			</tr><tr>
 				<td style="padding-left: 0px; padding-bottom: 0px;"><img src="http://foxsports.news.com.au/images/grey_bottom.gif" width="120" height="15" border="0" alt=""></td>
 			</tr>
+
+			<tr><td style="padding-left: 0px; padding-bottom: 5px; background-color: #a2a1a1">
+             <!-- AdSpace SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=1-->
+            
+<script type="text/javascript" language="JavaScript">
+<!-- Hide from old browsers
+// Cache-busting and pageid values
+random = Math.round(Math.random() * 100000000);
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+
+document.write('<SCR');
+document.write('IPT TYPE="TEXT/JAVASCRIPT" SRC="http://mercury.tiser.com.au/jserver/acc_random=' + random + '/SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=1/pageid=' + pageNum + '">');
+document.write('</SCR');
+document.write('IPT>');
+
+// End Hide -->
+</script><script type="TEXT/JAVASCRIPT" src="http://mercury.tiser.com.au/jserver/acc_random=53372537/SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=1/pageid=21079305"></script>
+
+<noscript>
+<A HREF="http://mercury.tiser.com.au/adclick/SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=1/pageid=1">
+<IMG SRC="http://mercury.tiser.com.au/nserver/SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=1/pageid=1"></A>
+</noscript>
+
+ <!-- /AdSpace -->
+			</td></tr>			
 			
 			<tr><td style="padding-left: 0px; padding-bottom: 5px; background-color: #a2a1a1">
-			<!-- AdSpace -->
-			<script language="JavaScript1.1" src="http://adserver.news.com.au/js.ng/site=sport&amp;section=hahn&amp;adsize=120x60&amp;pagepos=1">
-			</script>
-			<noscript>
-			<A HREF="http://adserver.news.com.au/click.ng/Params.richmedia=yes&site=sport&section=hahn&adsize=120x60&pagepos=1">
-			<IMG SRC="http://adserver.news.com.au/image.ng/Params.richmedia=yes&site=sport&section=hahn&adsize=120x60&pagepos=1">
-			</A>
-			</noscript>
-			<!-- /AdSpace -->				
+             <!-- AdSpace SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=2-->
+            
+<script type="text/javascript" language="JavaScript">
+<!-- Hide from old browsers
+// Cache-busting and pageid values
+random = Math.round(Math.random() * 100000000);
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+
+document.write('<SCR');
+document.write('IPT TYPE="TEXT/JAVASCRIPT" SRC="http://mercury.tiser.com.au/jserver/acc_random=' + random + '/SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=2/pageid=' + pageNum + '">');
+document.write('</SCR');
+document.write('IPT>');
+
+// End Hide -->
+</script><script type="TEXT/JAVASCRIPT" src="http://mercury.tiser.com.au/jserver/acc_random=65048450/SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=2/pageid=21079305"></script>
+
+<noscript>
+<A HREF="http://mercury.tiser.com.au/adclick/SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=2/pageid=1">
+<IMG SRC="http://mercury.tiser.com.au/nserver/SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=2/pageid=1"></A>
+</noscript>
+
+ <!-- /AdSpace -->
 			</td></tr>
 
 			<tr><td style="padding-left: 0px; padding-bottom: 0px; background-color: #a2a1a1">
 			
-		<!-- AdSpace -->
-		<script language="JavaScript1.1" src="http://adserver.news.com.au/js.ng/site=sport&amp;section=homepage&amp;adsize=120x60&amp;pagepos=1">
-		</script>
-		<noscript>
-		<A HREF="http://adserver.news.com.au/click.ng/Params.richmedia=yes&site=sport&section=homepage&adsize=120x60&pagepos=1">
-		<IMG SRC="http://adserver.news.com.au/image.ng/Params.richmedia=yes&site=sport&section=homepage&adsize=120x60&pagepos=1">
-		</A>
-		</noscript>
-		<!-- /AdSpace -->
+                 <!-- AdSpace SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=3-->
+                
+<script type="text/javascript" language="JavaScript">
+<!-- Hide from old browsers
+// Cache-busting and pageid values
+random = Math.round(Math.random() * 100000000);
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+
+document.write('<SCR');
+document.write('IPT TYPE="TEXT/JAVASCRIPT" SRC="http://mercury.tiser.com.au/jserver/acc_random=' + random + '/SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=3/pageid=' + pageNum + '">');
+document.write('</SCR');
+document.write('IPT>');
+
+// End Hide -->
+</script><script type="TEXT/JAVASCRIPT" src="http://mercury.tiser.com.au/jserver/acc_random=53157132/SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=3/pageid=21079305"></script>
+
+<noscript>
+<A HREF="http://mercury.tiser.com.au/adclick/SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=3/pageid=1">
+<IMG SRC="http://mercury.tiser.com.au/nserver/SITE=FOXS/AREA=SPORT.ROS/AAMSZ=120X60/POS=3/pageid=1"></A>
+</noscript>
+
+ <!-- /AdSpace -->
 			 </td></tr>
 			<tr>
 				<td style="padding-left: 0px; padding-bottom: 0px;"><img src="http://foxsports.news.com.au/images/blue_top.gif" width="120" height="15" border="0" alt=""></td>
@@ -920,7 +1020,8 @@ if ( MM_FlashCanPlay ) {
 				</p></td>
 			</tr>
 		</tbody></table>
-		<!-- End Left Nav //--> </td>
+		<!-- End Left Nav //-->
+ </td>
 		<td width="640" valign="top">
 		<table width="640" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
@@ -954,15 +1055,19 @@ exemption in the Privacy Act.
 
 </p><p><b><i>Personal Information</i></b>
 
-</p><p>We collect personal information when we provide our services to you.  Generally we 
-will tell you why we are collecting information when we collect it and how we plan to 
-use it or these things will be obvious when we collect the information.
+</p><p>News Interactive (News) collects your personal information to assist us in providing the goods or services you have requested, to process your competition entries, and to improve our products and services.  We or any of our Australian related companies may be in touch by any means (including email or SMS) to let you know about goods, services, or promotions which may be of interest to you.  We may also share your information with other persons or entities who assist us in providing our services, running competitions or with other companies who provide prizes for competitions or reader offers.
+This company is part of a global media and entertainment company.  We would like to share your information with these overseas-related companies so that they can contact you with special offers.  If you would prefer us not to, please contact our privacy officer at:</p>
 
-</p><p>We usually collect personal information directly from you although sometimes we may 
-use agents or service providers to do this for us.  We may also acquire lists from 
-other sources, both from other companies and from other public documents.
+<p>Privacy Officer<br>
+News Interactive<br>
+02 9288 3000<br>
+Level 3<br>
+2 Holt Street<br>
+Surry Hills 2010</p>
 
-</p><p><b><i>Use of Information</i></b>
+<p>You can gain access to your personal information by contacting our privacy officer.</p>
+
+<p><b><i>Use of Information</i></b>
 
 </p><p>We usually collect personal information such as your name, address, telephone 
 number, and in some instances, your financial details.  When you are online, we collect 
@@ -1053,6 +1158,7 @@ Internet sites to link directly to sites operated by these partners.  Some of th
 sites may be "co-branded" with our logo; however, these sites may not be operated or 
 maintained by or on our behalf.  These sites may collect personal information from you 
 that may be shared with us.  This Privacy Statement will apply to any personal 
+
 information we obtain in this manner. 
 
 </p><p>News is not responsible for the content or practices of Web sites operated by third 
@@ -1105,7 +1211,7 @@ information about our approach to privacy.<br><br>
 <tr>
 	<td>
 	<ul class="linkList" style="margin-left: 20px; margin-top: 3px; margin-bottom: 5px;">
-		<li><a href="/story/0,8659,15780340-23210,00.html">Sporting bodies sign drugs code</a></li><li><a href="/story/0,8659,15780125-23210,00.html">Bolton, Fosdike back for Swans</a></li><li><a href="/story/0,8659,15779795-23210,00.html">Opals pick youth for China tour</a></li><li><a href="/story/0,8659,15779792-23210,00.html">Glory searches England for striker</a></li> </ul>
+		<li><a href="/story/0,8659,17665591-23210,00.html">Nel triggers Aussie collapse</a></li><li><a href="/story/0,8659,17664864-23210,00.html">Ponting puts Aussies in control</a></li><li><a href="/story/0,8659,17664604-23210,00.html">Wild Oats XI leads the fleet</a></li><li><a href="/story/0,8659,17664016-23210,00.html">Australia 1-60 at lunch</a></li> </ul>
 	</td>
 </tr>
   
@@ -1134,7 +1240,7 @@ information about our approach to privacy.<br><br>
 				<td><a href="/about" class="grey10n">About FOX SPORTS</a> | <a href="http://www.advertising.ni.com.au/" class="grey10n">Advertise with us</a> | <a href="/help" class="grey10n">Help and contacts</a> | <a href="/terms" class="grey10n">Terms</a> | <a href="/privacy" class="grey10n">Privacy</a> | <a href="http://www.astra.org.au/article.asp?section=2&amp;option=4&amp;content=1" target="_blank" class="grey10n">Piracy</a></td>
 			</tr>
 			<tr>
-				<td><a href="/copyright/"><span class="grey11b">Copyright 2005 News Limited.</span></a> All times AEST (GMT+10).</td>
+				<td><a href="/copyright/"><span class="grey11b">Copyright 2005 News Limited.</span></a> All times AEDT (GMT+11).</td>
 			</tr>
 		</tbody></table>
 		</td>
@@ -1193,4 +1299,5 @@ imageTR.src = stURL;
 }
 </script>
 <!-- End DI Tracking Code -->
+
 </body></html>
