@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ksfcu.org privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405031603id_/http%3A//www.ksfcu.org/default.asp%3FfileID%3D127) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksfcu.org privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226055017id_/http%3A//ksfcu.org/default.asp%3FfileID%3D127) for the most accurate reproduction.*
 
 # Kern Schools Federal Credit Union
 
-|  | Privacy Statement  
-EFFECTIVE DECEMBER 18, 2003 |    
----|---|---  
+|   
+---  
+ | EFFECTIVE DECEMBER 18, 2003 |    
  | In recognition of our members' expectation of privacy, Kern Schools Federal Credit Union has adopted the following privacy statement.|    
  | Kern Schools will collect only the personal information that is necessary to conduct our business. That means just what is necessary to provide competitive financial products and services - no more. We may gather general information about site visitors' browsing activities. This enables us to track how a visitor navigates through the site and the areas in which they show interest. This is similar to a traffic report: it tracks trends and behaviors of members in general, but does not identify individuals in particular.|    
  | Kern Schools FCU will protect your personal information. We will maintain security controls to ensure that member information stored on our premises and in our files and computers is protected. Where appropriate, we will use security-coding techniques to protect against unauthorized access to personal records, ensure accuracy and integrity of communications and transactions, and protect member confidentiality.|    
@@ -40,9 +40,9 @@ If you have any reason to believe that your personal information retained at Ker
  | Children's Privacy Act|    
  | 
 
-The online financial services offered through the Credit Union's Web site are not designed for or directed toward children under age 13. We do not knowingly solicit or collect data from children, and we do not knowingly market to children online. If we receive online information from anyone that we know to be a child, we will only use the information to respond directly to a child's request. 
+The on-line financial services offered through the Credit Union's Web site are not designed for or directed toward children under age 13. We do not knowingly solicit or collect data from children, and we do not knowingly market to children on-line. If we receive on-line information from anyone that we know to be a child, we will only use the information to respond directly to a child's request. 
 |    
  | 
 
-We recognize that protecting children's identities and online privacy is important and that responsibility rests with us and with parents. If you believe your child has provided personally identifiable information to us, please contact us so that we can allow you the opportunity to review and delete such information. Please call (661) 833-7900 or (800) 221-3311 or [email us](https://www.ksfcu.org/KSFCU_HPA/HPAFormFrame.asp?targetPage=contactForAssistance.asp). 
+We recognize that protecting children's identities and on-line privacy is important and that responsibility rests with us and with parents. If you believe your child has provided personally identifiable information to us, please contact us so that we can allow you the opportunity to review and delete such information. Please call (661) 833-7900 or (800) 221-3311 or [email us](https://www.ksfcu.org/KSFCU_HPA/HPAFormFrame.asp?targetPage=contactForAssistance.asp). 
 |  
