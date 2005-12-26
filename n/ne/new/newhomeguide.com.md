@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the newhomeguide.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405201916id_/http%3A//www.newhomeguide.com/New-Homes.aspx%3Fchannel%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhomeguide.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226171135id_/http%3A//www.newhomeguide.com/New-Homes.aspx%3Fchannel%3DPrivacyPolicy) for the most accurate reproduction.*
 
-# newhomeguide.com - privacypolicy
+# New Home Guide.com - privacypolicy
 
+|  | Privacy Policy  
+---|---  
+  NewHomeGuide.Com   
   
-NewHomeGuide.Com    
+  
 HPC Interactive, Inc. (HPCi), operator of NewHomeGuide.Com, is committed to making your search for a home as pleasant and successful as possible. Maintaining your privacy is part of that commitment. This privacy policy applies to the use by consumers of the NewHomeGuide.Com and its affiliated web sites and governs online data collection and usage by NewHomeGuide.Com. 
 
   
@@ -13,7 +16,7 @@ You may browse the NewHomeGuide.Com site without providing any personally identi
 
   In addition to the personal information that you voluntarily provide directly to us, your "Internet Protocol" or IP address, browser type, domain name, access times and referring web site address are also recorded. This information is collected both during registration on a site or in response to specific requests. This data helps us serve you by allowing us to understand how visitors use our services. 
 
-  Some of the services available on our site are provided by third parties and sometimes we will give you the opportunity to opt in to offers from third parties not affiliated with us. If you decide to use these services or accept these offers, we may provide, with your consent, your information to the third party. However, you should note that this privacy policy does not apply to information you consent to give to third parties (or voluntarily provide to third parties) not affiliated with us. Any information you give to another party is governed by the rules of that party?s privacy policy, which may differ from this privacy policy. We are not responsible for information given to or collected by other parties. Please review their privacy policies prior to providing any information to third parties. 
+  Some of the services available on our site are provided by third parties and sometimes we will give you the opportunity to opt in to offers from third parties not affiliated with us. If you decide to use these services or accept these offers, we may provide, with your consent, your information to the third party. However, you should note that this privacy policy does not apply to information you consent to give to third parties (or voluntarily provide to third parties) not affiliated with us. Any information you give to another party is governed by the rules of that party’s privacy policy, which may differ from this privacy policy. We are not responsible for information given to or collected by other parties. Please review their privacy policies prior to providing any information to third parties. 
 
   
 When you register on our site, we use the information you provide to us to track what kind of activities you conduct on our site, including, for example, the types and locations of homes that you have viewed, to create a particular profile for you. 
@@ -31,7 +34,7 @@ When you register on our site, we use the information you provide to us to track
   
 Our site uses a technology called "cookies," which are small files that are placed on your computer by our servers stored by your browser to help keep track of your user profile. We use temporary cookies to remember your personal profile for your convenience, to deliver content specific to your needs and interests, and to ensure you don't see the same advertisement repeatedly. We also use cookies to track user trends and improve areas of our sites that our users find valuable. We do not share cookie information with anyone without your permission. 
 
-  NewHomeGuide.com may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. 
+  NewHomeGuide.Com may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. 
 
   Some advertisers or third party ad servers may also use their own cookies. We do not have access to this information collected by third parties. 
 
