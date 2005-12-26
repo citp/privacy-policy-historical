@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the pedigreedatabase.com privacy policy that was archived on 2005-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050326162359id_/http%3A//www.pedigreedatabase.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedigreedatabase.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226125546id_/http%3A//www.pedigreedatabase.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - The Pedigree Database
 
-> 1.      What personally identifiable information Schafer.is collects.
+> 1.      What personally identifiable information pedigreedatabase.com collects.
 > 
 > 2.      What personally identifiable information third parties collect through the Web site.
 > 
 > 3.      What organization collects the information. 
 > 
-> 4.      How Schafer.is uses the information.
+> 4.      How pedigreedatabase.com uses the information.
 > 
-> 5.      With whom Schafer.is may share user information. 
+> 5.      With whom pedigreedatabase.com may share user information. 
 > 
 > 6.      What choices are available to users regarding collection, use and distribution of the information. 
 > 
-> 7.      What types of security procedures are in place to protect the loss, misuse or alteration of information under Schafer.is control. 
+> 7.      What types of security procedures are in place to protect the loss, misuse or alteration of information under pedigreedatabase.com control. 
 > 
 > 8.      How users can correct any inaccuracies in the information. 
 > 
-> If users have questions or concerns regarding this statement, they should first contact Olafur Tryggvason by [ oli@schafer.is](mailto:oli@schafer.is). 
+> If users have questions or concerns regarding this statement, they should first contact Olafur Tryggvason by [ oli@pedigreedatabase.com](mailto:oli@pedigreedatabase.com). 
 > 
 > ## Information Collection and Use
 > 
 > ### Information Collection
 > 
-> Schafer.is is the sole owner of the information collected on schafer.is. Schafer.is collects information from our users at several different points on our Web site.
+> pedigreedatabase.com is the sole owner of the information collected on pedigreedatabase.com. pedigreedatabase.com collects information from our users at several different points on our Web site.
 > 
 > ### Registration
 > 
@@ -32,13 +32,13 @@
 > 
 > ### Information Use
 > 
-> Schafer.is does **not** disclose any of its information to third party members.  The information kept at schafer.is is for the use of schafer.is and none other.  This includes selling pedigree data,  pictures, user / contact information or any other privately kept data.  
+> pedigreedatabase.com does **not** disclose any of its information to third party members.  The information kept at pedigreedatabase.com is for the use of pedigreedatabase.com and none other.  This includes selling pedigree data,  pictures, user / contact information or any other privately kept data.  
 > 
 > ### Cookies
 > 
 > A cookie is a piece of data stored on the user¿s computer tied to information about the user.  [Usage of a cookie is in no way linked to any personally identifiable information while on our site.]  We use [both] session ID cookies [and] persistent cookies.  For the session ID cookie, once users close the browser, the cookie simply terminates.  A persistent cookie is a small text file stored on the user¿s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.    
 > 
-> Schafer.is only uses cookies to track logged in users   By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site.  If users reject the cookie, they may still use our site.  The only drawback to this is that the user will be limited in some areas of our site.  For example, the user will not be able to participate in any information submission which requires the user to be logged in. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site and keep the user from having to log in every time he visits schafer.is. 
+> pedigreedatabase.com only uses cookies to track logged in users   By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site.  If users reject the cookie, they may still use our site.  The only drawback to this is that the user will be limited in some areas of our site.  For example, the user will not be able to participate in any information submission which requires the user to be logged in. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site and keep the user from having to log in every time he visits pedigreedatabase.com. 
 > 
 >  Some of our business partners use cookies on our site (for example, advertisers).  However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
 > 
@@ -46,7 +46,7 @@
 > 
 > The ads appearing on this Web site are delivered to users by online advertising brokers. Information about users¿ visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site.  
 > 
-> This privacy statement covers the use of cookies by schafer.is only and does not cover the use of cookies by any advertisers. 
+> This privacy statement covers the use of cookies by pedigreedatabase.com only and does not cover the use of cookies by any advertisers. 
 > 
 > ### Log Files
 > 
@@ -82,7 +82,7 @@
 > 
 > ### Third Party Advertisers
 > 
-> Schafer.is shares Web site usage information about users with a reputable third party for the purpose of targeting our Internet banner advertisements on this site and other sites.  The information they collect and share through this technology is not personally identifiable. 
+> pedigreedatabase.com shares Web site usage information about users with a reputable third party for the purpose of targeting our Internet banner advertisements on this site and other sites.  The information they collect and share through this technology is not personally identifiable. 
 > 
 > We **DO NOT** Share Personal Information with Third Parties]
 > 
@@ -92,7 +92,7 @@
 > 
 > ### Links
 > 
-> This Web site contains links to other sites. Please be aware that we, Schafer.is, are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  This privacy statement applies solely to information collected by this Web site.  
+> This Web site contains links to other sites. Please be aware that we, pedigreedatabase.com, are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  This privacy statement applies solely to information collected by this Web site.  
 > 
 > ### Surveys 
 > 
@@ -100,7 +100,7 @@
 > 
 > ### Tell-A-Friend
 > 
-> If a user elects to use our referral service for informing a friend about our site, we ask them for the friend¿s name and email address.  Schafer.is will automatically send the friend a one-time email inviting them to visit the site.  Schafer.is stores this information for the sole purpose of sending this one-time email.  The friend may contact Schafer.is at support@schafer.is to request the removal of this information from our database.
+> If a user elects to use our referral service for informing a friend about our site, we ask them for the friend¿s name and email address.  pedigreedatabase.com will automatically send the friend a one-time email inviting them to visit the site.  pedigreedatabase.com stores this information for the sole purpose of sending this one-time email.  The friend may contact pedigreedatabase.com at support@pedigreedatabase.com to request the removal of this information from our database.
 > 
 > ### Chat Rooms, Message Boards, and Public Forums
 > 
@@ -110,20 +110,12 @@
 > 
 > This Web site takes every precaution to protect our users¿ information.  When users submit sensitive information via the Web site, their information is protected both online and off-line.
 > 
-> If users have any questions about the security at our Web site, users can send an email to support@schafer.is
+> If users have any questions about the security at our Web site, users can send an email to support@pedigreedatabase.com
 > 
 > ### Correcting/Updating/Deleting/Deactivating Personal Information
 > 
-> If a user¿s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users¿ personally identifiable information. This can usually be done at the member information page or by emailing us at support@schafer.is.
+> If a user¿s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users¿ personally identifiable information. This can usually be done at the member information page or by emailing us at support@pedigreedatabase.com.
 > 
 > ### Notification of Changes
 > 
 > If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-> 
-> ## Contact Information
-> 
-> If users have any questions or suggestions regarding our privacy policy, please contact us at:
-> 
->  Phone +354 562 9191
-> 
-> Email :  support@schafer.is
