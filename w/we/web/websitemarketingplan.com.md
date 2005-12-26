@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405133326id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226031934id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Haven't found what you want? Search below.**
-
+---  
+**Haven't found what you want? Search below.**  
+  
 ##  **Information Use**
 
 Individual information is used to deliver requested newsletter, products, or services. _Aggregate information_ (in the form of statistics) is used as input in developing new products and services; to improve upon existing products and services; to decide upon marketing activities; and to generally describe our site visitors and customer base. 
@@ -24,17 +25,17 @@ WebSiteMarketingPlan.com uses cookies to avoid repeating some advertising messag
 
 Third party sites providing content, links, or advertising, however, may use cookies, typically for fulfilling a request or for tracking purposes. Third party sites are governed by their own privacy policies. 
 
-You are not required to accept cookies when viewing WebSiteMarketingPlan.com.  If you are concerned about cookies, you have the option of setting your browser to block or prompt for cookies.
+You are not required to accept cookies when viewing WebSiteMarketingPlan.com or WebMarketingPlace.com.  If you are concerned about cookies, you have the option of setting your browser to block or prompt for cookies.
 
 ##  Business Transitions 
 
-In the event Website Marketing Plan.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via email prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
+In the event WebsiteMarketingPlan.com or WebMarketingPlace.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via email prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
 
 ##  Newsletter 
 
 The primary means of communication from the site is via the newsletter. When a user wishes to subscribe to the newsletter we ask for contact information such as email address. We send all new subscribers a welcoming email that includes unsubscribe instructions. 
 
-Users who no longer wish to receive our newsletter and service announcements may opt-out of receiving these communications by sending an email to unsubscribe@WebSiteMarketingPlan.com with "unsubscribe" in the subject line. The subscriber may also contact us via facsimile at 413-793-2409, telephone at 314-842-1446, or postal mail at 8050 Watson Road, Suite 315, St. Louis, MO 63119. 
+Users who no longer wish to receive our newsletter and service announcements may opt-out of receiving these communications by sending an email to unsubscribe@WebSiteMarketingPlan.com with "unsubscribe" in the subject line. The subscriber may also contact us via telephone at 314-842-1446, or postal mail at 8050 Watson Road, Suite 315, St. Louis, MO 63119. 
 
 ##  Special Offers and Updates 
 
@@ -61,12 +62,11 @@ This Website contains links to other sites. Please be aware that we, Website Mar
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Email: [bkyle@websitemarketingplan.com](mailto:bkyle@websitemarketingplan.com)   
-Postal Mail: WebSiteMarketingPlan.com  
+Postal Mail: Web Marketing Place  
                       8050 Watson Road, Suite 315  
                       St. Louis, MO 63119  
-Facsimile: 413-793-2409  
 Telephone: 314-842-1446
 
-Copyright ©2001-2005 Website Marketing Plan .com (Web Marketing Place) and Bobette Kyle. All rights reserved.
+Copyright ©2001-2005 Website Marketing Plan .com (Web Marketing Place LLC) and Bobette Kyle. All rights reserved.
 
-###  Web Marketing Place, 8050 Watson Road, Suite 315, St. Louis, MO 63119
+###  [Web Marketing Place LLC](http://www.webmarketingplace.com/), 8050 Watson Road, Suite 315, St. Louis, MO 63119
