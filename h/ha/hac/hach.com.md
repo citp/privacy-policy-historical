@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hach.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403211858id_/http%3A//www.hach.com/hc/static.template/templateName%3DHcCorporate.HcPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hach.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226145417id_/http%3A//www.hach.com/hc/static.template/templateName%3DHcCorporate.HcPrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Hach | Policies | Privacy Policy
 
@@ -12,4 +12,10 @@ Hach Company holds in confidence all information (such as your name, address, em
 
 If the policy stated here should change in any way, you will be notified by phone, mail and/or email, and you will have the opportunity to respond before any change affects you. You may at any time ask for more information about our privacy policy, ask to review or update personal information held by us about you, or request that we remove your name from our mailing list by calling 1-800-227-4224 in the U.S.A. or 1-970-669-3050 outside of the U.S.A. We reserve the right to retain certain customer information which relates to billing, account status, and product warranties.
 
-Policy date: November 7, 2003 
+Hach Mailing List Change Requests
+
+If you would like to add your name to our general mailing list for product and company news, or wish to remove or modify your information, please complete and submit our [Mail List Form](https://web.archive.org/hc/static.template/templateName=HcEmailForm.HcMailListForm.htm).  
+Thank you!
+
+Policy date: November 7, 2003  
+Page Modified: May 13, 2005 
