@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopittome.com privacy policy that was archived on 2005-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050411161822id_/http%3A//www.shopittome.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopittome.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226075730id_/http%3A//shopittome.com/privacy.jsp) for the most accurate reproduction.*
 
 # Shop It To Me
 
