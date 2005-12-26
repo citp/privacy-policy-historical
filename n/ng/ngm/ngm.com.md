@@ -1,35 +1,45 @@
-> *The following text is extracted and transformed from the ngm.com privacy policy that was archived on 2004-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040403233408id_/http%3A//magma.nationalgeographic.com/ngm/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngm.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226071218id_/http%3A//www7.nationalgeographic.com/ngm/privacy_2005.html) for the most accurate reproduction.*
 
 # National Geographic Magazine @ nationalgeographic.com
 
-NATIONALGEOGRAPHIC.COM PRIVACY POLICY  
+|   |   | 
 
-
-Nationalgeographic.com respects and protects the privacy of our users. We encourage other sites to join us in this effort. 
-
-What information do we collect from our users and how do we collect it? 
-
-Nationalgeographic.com collects personally identifying information from our users during (1) online registration, (2) contest or sweepstakes registration, (3) online surveys, (4) online purchasing, and (5) messages posted to our forum boards. Generally, this information includes name, e-mail address, postal address, and answers to survey questions. This information is used for internal marketing purposes and helps us determine how to continually improve our site. We contact only individuals who specifically request that we do so or those who have won a contest or sweepstakes. Forum contributors have the option of remaining anonymous. 
-
-What are cookies and how do we use them? 
-
-Cookies help track a person’s “session” while online. They are used on our site to gather basic tracking information and to monitor the presentation of advertisements. They are especially necessary when playing an interactive game or ordering a product online. Cookies are not related to any personally identifiable information and are not used to retrieve information from your computer that was not originally sent in a cookie. 
-
-In some instances, advertisers will set cookies on our site. These cookies are not related to any personally identifiable information that we have collected but are for monitoring and tracking ad impressions. 
-
-Many browsers are set to accept cookies. You may prefer to set your browser to refuse cookies. It is possible, however, that some areas of the site will not function properly if you do so. This is especially likely when trying to order a product or play an online game. 
-
-Our privacy pledge to you: 
-
-  * Children under the age of 18 must have their parent or guardian’s consent before submitting any information to nationalgeographic.com. 
-  * We will NEVER sell, exchange, or release your personal information (name, e-mail address, mailing address, credit card data, etc.) without your consent, regardless of its source, to any third parties. 
-  * When we do give information to our advertisers, it is in the form of grouped statistics compiled from registration data and participants’ answers to survey questions. None of the data provided is personally identifiable. 
-  * Information gathered through the use of cookies is not related to any personally identifiable details. 
-
+|   
+---  
   
-If you have any questions or concerns regarding our privacy policy please direct them to [Privacy@nationalgeographic.com](mailto:Privacy@nationalgeographic.com). You may also send a letter to: 
+This statement applies to www.nationalgeographic.com, the Web site of the National Geographic Society. For more information, please read our complete [Privacy Policy](https://web.archive.org/community/privacy_complete.html).  
+  
+   
+Your Personal Information  
 
-National Geographic Interactive   
-1145 17th Street, N.W.   
-Washington, D.C. 20036   
-U.S.A.
+* In general, you can visit us on the Internet without telling us who you are or giving us personal information. There are times we may ask you to provide personal information, for example, to process an order, provide a subscription, or participate in a contest.
+* We may supplement this information with information obtained from other National Geographic services and other organizations.
+* We keep track of your interactions with our sites and our services to offer a more personalized experience.
+
+Your Privacy Choices  
+
+
+| Uses of Information  
+More Information  
+
+* We encourage you to view our [full Privacy Policy](https://web.archive.org/community/privacy_complete.html).
+* To review additional measures we take in relation to children's privacy, please view our [Kids Privacy Policy](https://web.archive.org/kids/privacy.html).  
+---|---  
+  
+
+
+How to Contact Us  
+  
+Questions about this statement or National Geographic's privacy policy may be sent to:
+
+ **National Geographic Society  
+Attn: Marketing Services - Privacy  
+1145 17th Street NW  
+Washington, DC 20036-4688**
+
+You may also contact us by telephone at:
+
+ **Toll-Free—U.S. and Canada only:** 800 NGS LINE (800 647 5463) or 800 548 9797 (TDD)  
+ **Outside the U.S. and Canada:** +1 813 979 6845
+
+  |  |  
