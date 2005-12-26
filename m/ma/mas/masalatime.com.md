@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masalatime.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401100042id_/http%3A//masalatime.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masalatime.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226174248id_/http%3A//www.masalatime.com/privacy.htm) for the most accurate reproduction.*
 
 # Contact Masala Time!
 
@@ -52,4 +52,4 @@ We care about children and understand that they have special privacy needs. Ther
 
 
 **Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact [the Webmaster](https://web.archive.org/web/20040401100042id_/http%3A//masalatime.com/contact.htm). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact [the Webmaster](https://web.archive.org/web/20051226174248id_/http%3A//www.masalatime.com/contact.htm). 
