@@ -1,83 +1,106 @@
-> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205215332id_/http%3A//www.kraftapps.com/legal/privacy.asp%3Freferrer%3DNabiscoWorld) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226040259id_/http%3A//nabiscoworld.com/misccontent/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# NabiscoWorld.com
 
-|  |  |  |   |  |    
----|---|---|---  
-**Effective Date: 01/01/2000**  
+|  |  |   
+---|---|---  
+Effective Date: 01/18/2005  
+**NabiscoWorld.com Privacy Notice**  
+This website is owned and operated by Kraft Foods Global, Inc. At Kraft, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. We’ve prepared this website Privacy Notice to address those concerns. This notice relates only to information collected through this website.  
   
-**Nabisco Online Privacy Notice**  
-This Notice relates only to our online information collection and use practices. At Nabisco we recognize that many consumers who visit our web sites are concerned about any information they provide us on-line, and how we maintain and use this information. To address these concerns and to demonstrate our commitment to privacy, especially for children who visit our sites, we have developed and implemented this Privacy Notice for our domestic (i.e., U.S.) company. This Notice relates only to our online information collection and use practices. As this notice may change from time to time, we encourage you to periodically check it. 
-
-In short, we do the following: 
-
-  * We only collect personally identifiable information that you **voluntarily** and **knowingly** provide us Tell me more;
-  * We use the information that you provide us **only** for the purpose(s) for which you specifically provided it or for specific additional purposes for which we receive your prior consent Tell me more;
-  * We do not **share** any information you provide us with anyone outside of Nabisco and its parent company, Kraft Foods Global, Inc., except for suppliers who assist us in maintaining and managing the activities on our sites. These suppliers are legally obligated to maintain the confidentiality of any information we provide them, including your information Tell me more;
-  * For our sites that appeal to **children under 13** , we follow the collection and parental notification requirements of the Children’s On-Line Privacy Protection Act Tell me more;
-  * We may use a technology called **“cookies”** to enhance your experience on our sites Tell me more;
-  * We employ **appropriate security measures** to protect the loss, misuse and alteration of any information you provide us Tell me more; and
-  * We provide you with **choice** and **control** over the collection and use of any personally identifiable information that you provide us on-line, and a means for **updating** , **correcting** or **removing** this information Tell me more;
-
-What follows is a more detailed explanation of our notice in each of these areas. ******Information We Collect and How We Use It**  
----  
-**_General_**  
-We only collect personally identifiable information on a voluntary basis. We do not require that you provide this information to gain access to our sites, and we do not require you to disclose more information than is reasonably needed to participate in an activity on our sites. We collect personally identifiable information primarily to e-mail updates and news, for entry into promotions and to notify subsequent winners, to send out brochures, etc. via regular mail to subscribers, and to respond to your questions or suggestions. We do not sell any information we gather at our web sites to anyone outside of Nabisco and its parent company, Kraft Foods Global, Inc.. We do not transfer or disclose any information we gather at our web sites to anyone outside of Nabisco and its parent company, Kraft Foods Global, Inc., without your prior consent, except (1) in cases where we believe in good faith that we have a legal obligation to disclose such information, and (2) to certain suppliers that assist Nabisco in maintaining and managing the activities on its web sites, including, for example, fulfillment of prizes awarded in connection with an online game. Please be assured that these suppliers are legally obligated to maintain the confidentiality of this information and do not acquire any rights to use your information for their own benefit. We may share non-identifiable aggregate information about our users (for example, the % of male and female visitors to our sites) with advertisers, business partners, sponsors, and other third parties in an effort to customize or enhance the content and advertising on our sites for our users. 
-
-We do reserve the right, in connection with the potential sale or transfer of the interests of Nabisco and its subsidiaries and affiliates, to sell or transfer your information (including but not limited to your address, name, age, gender, zip code, state, and country of residency and other information that your provide through other communications) to a third party entity that (1) concentrates its business in a similar practice or service, (2) agrees to be Nabisco’s successor in interest with regard to the maintenance and protection of the information collected, and (3) agrees to the obligations of this privacy notice.
-
-**_Polls& Surveys_**  
-We periodically conduct polls and surveys on our sites. The information we collect from these polls and surveys is only for Nabisco’s use. If sample answers to polls or surveys are posted on one of our web sites, no identifiable information is included.
-
-**_Promotions_**  
-Our sites frequently include notices for contests and sweepstakes that we are conducting. For those contests and sweepstakes where we permit you to enter electronically, we will use the information that you provide us only for the purposes of conducting the promotion (e.g., to contact you if you are a winner). We do not share this information with anyone outside of Nabisco except for suppliers who assist us in conducting the promotion and who are legally obligated to maintain the confidentiality of any information we provide them. Once the promotion has ended, the information you provide us is deleted after a reasonable period of time.  
+  * Information We Collect
+    * Personally-Identifiable Information
+      * Registration
+      * Contests, Sweepstakes and Games
   
-**Children and Privacy**  
-In communicating directly with children over the Internet, we recognize the unique issues raised about the protection of their privacy. Our web sites that appeal to children, such as [www.candystand.com](http://www.candystand.com/) and [www.NabiscoWorld.com](http://www.nabiscoworld.com/), are designed to comply with the requirements of the Children’s Online Privacy Protection Act (COPPA) and Children's Advertising Review Unit (CARU) guidelines for web sites gathering personally identifiable information from children under 13\. Consistent with these requirements and guidelines, we do NOT: 
 
-  * collect,use or disclose on-line contact information from children except in connection with on-line promotions,discussed more fully below. Without prior parental consent, such on-line contact information will only be used to respond directly to the child's request and will not be used for other purposes;
-  * collect personally identifiable off-line contact information unless for purposes of awarding prizes and only then with prior parental consent;
-  * distribute to third parties any personally identifiable information;
-  * enable children to publicly post or otherwise distribute personally identifiable contact information without prior parental consent; or
-  * entice children by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
+      * Newsletters
+      * “Contact Us” Link
+      * Send To A Friend
+      * Other Site Features
+      * Questionnaires and Surveys
+    * Aggregate and Non-Personal Information
+      * Cookies
+      * Web Beacons
+  * How We Use Personally-Identifiable Information
+  * How We Share Personally-Identifiable Information
+  * Links To Other Websites
+  * Your Choices
+  * Children's Privacy
+  * How We Protect Personally-Identifiable Information
+  * Updates To This Privacy Notice
+  * How To Contact Us
 
   
-We do offer promotions (e.g., contests, sweepstakes) on our web sites that appeal to children. In those cases where children under the age of 13 are allowed to participate, the child is instructed to first obtain his/her parent’s or legal guardian’s consent to participate and to enter the email address of his/her parent or guardian. If the game or contest involves the posting of screen names of the high scorers, we only allow high scorers who are under 13 to select a generic screen name from a list that has been developed in advance so as to prevent the disclosure of any personally identifiable information. If a child under 13 is selected as a prize-winner, an e-mail is sent to the parent or guardian. This e-mail contains a form that requests the child’s complete name and address and a parental permission form. For the child to receive the prize, the parent or guardian must first fill out and sign the form and then mail or fax it to the address or number indicated on the form. We do not use the information collected on the form for any purpose other than the completion of the promotion, and we do not share the information with anyone outside of Nabisco (other than suppliers, as explained above). We delete both the child’s and the parent’s personally identifiable information from our databases after a reasonable period of time once the promotion has ended.
+**_Information We Collect_**  
+| _**Personally-Identifiable Information ******_  
+| On our website, we collect certain personally-identifiable information about our online visitors. Personally-identifiable information relates to an individual consumer - for example, name, address, telephone number and e-mail address. You may provide personally-identifiable information, for example, by registering on our site or by entering a promotion. We don’t require you to register or provide personally-identifiable information to view our site or play our games. But if you register, you may use certain additional features like “My Scoreboard.” Also, the more detailed the information you provide in the registration section of the website, the better you may customize your website experience. Here are the ways we collect personally-identifiable information.  
+_**Registration**_  
+To take full advantage of all our offerings, you may choose to register on our site. In the registration process, we request certain information (such as your name and e-mail address) so we can provide you with the communications you request and customize our contacts with you. We also may use the registration information you provide for other purposes to which you consent.  
+_**Contests, Sweepstakes and Games**_  
+Our site contains notices of contests, sweepstakes and games we are conducting, which you may enter electronically in some cases. We use the information you provide to conduct the promotion (for example, to contact you if you’re a winner). We won’t use the information you provide to enter the promotion for any other purpose unless you’ve agreed otherwise.  
+_**Newsletters**_  
+When you ask us to send you newsletters by e-mail, you may provide us with certain information like your e-mail address so we can fulfill your request.  
+_**"Contact Us" Link**_  
+If you e-mail us through the “Contact Us” link on this site, we ask you for information such as your first name and e-mail address so we can respond to your questions and comments. You may choose to provide additional information as well.  
+_**Send To A Friend**_  
+We may give you the opportunity to tell your friends about new features on our website. If you take advantage of our Send To A Friend option, we may ask you for your friend’s and your first name and e-mail address. We use the information you provide only to send the e-mail you requested we forward. We may use information about you in other ways, however, if you’ve given us permission to do so.  
+_**Other Site Features**_  
+We offer visitors to our website various features for their enjoyment, which we change from time to time. We may ask you to submit certain personally-identifiable information so we can provide you with these features.  
+_**Questionnaires and Surveys**_  
+We occasionally ask visitors to our website to complete online surveys and opinion polls about their activities, attitudes and interests. These surveys help us understand the needs of our visitors. We do not keep any personally-identifiable information about you in connection with your participation in a website survey unless you specifically agree to provide this information.  
+_**Aggregate and Non-Personal Information**_  
+| We collect certain aggregate and non-personal information when you visit our website. Aggregate and non-personal information does not relate to a single, identifiable visitor. It tells us such things as how many users visited our site, the pages accessed and the recipes viewed. By collecting this information, we learn how to best tailor our website to our visitors. We collect this information either through “cookie” technology or with “web beacons,” as explained below.   
+_**Cookies**_  
+Like many companies, we use “cookies” on our website. Cookies are bits of text that are placed on your computer’s hard drive when you visit certain websites. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site. 
 
-We may permit a child to send us an e-mail or send an e-mail to a friend through our sites. We will respond to or deliver the e-mail, as the case may be, but we do not store the names, addresses, or the e-mails in our operational database, nor do we share this information with any third parties.
+When you visit our website, cookies are placed on your computer. We use cookies to tell us, for example, whether you’ve visited us before or if you’re a new visitor and to help us identify site features and recipes in which you may have the greatest interest. We collect this information to enhance your experience on our website.
 
-As a parent, you can always ask to review any personal information about your child that we may have collected at one of our sites, have us delete this information (if we still have the information in our databases), and/or instruct us not to collect or use your child’s information in the future. If you are a parent and wish to exercise this right, simply [Contact Us](http://www.kraftapps.com/contact_us/contact_us_form.asp?referrer=NabiscoWorld).  
+The “help” portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember, though, without cookies, you may not be able to take full advantage of all of Kraft’s website features.  
   
-**Cookies**  
-Like many companies, we may use a technology called “cookies” to enhance your experience on our sites. The cookies Nabisco uses do not contain any personally identifiable information and can not profile your system or collect information from your hard drive. You are not identified by name or e-mail address, just by a unique string of numbers that we assign the first time you come to our site.  
-**Security**  
-We employ appropriate security measures to protect the loss, misuse and alteration of the information under our control. For our nabiscogifts.com site, we employ Secure Sockets Layer (SSL) software, which encrypts information you input, as an additional security measure. However, as no on-line data transmission can be guaranteed to be totally secure, we (like all web sites) cannot warrant or guarantee 100% security of any information you transmit to us at our web sites.   
-******Choice and Control**  
-**_Choice/Opt-In_**  
-Our sites provide you the opportunity to opt-in to receive communications from us, as described at each opt-in opportunity. Further, when you receive the requested communication, you are given the opportunity to unsubscribe from receiving any future communications or to change your information.
+_**Web Beacons**_  
+Certain pages on our site contain “web beacons” (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party.  
+**_How We Use Personally-Identifiable Information_**  
+We may use the information you provide to contact you from time to time. For example, we may (i) send you promotional materials and other communications you request, (ii) respond to your comments or questions, or (iii) contact you if needed while processing a product or service you requested through our website. We also may use the information you provide to contact you for your opinions on Kraft products or the website.
 
-**_Control_**  
-You can always ask to review any personal information that we may have collected from you at one of our web sites, have us update, correct or delete this information (if we still have the information in our databases), and/or instruct us not to use this information in the future. If you wish to exercise this right, simply [Contact Us](http://www.kraftapps.com/contact_us/contact_us_form.asp?referrer=NabiscoWorld).
+We also use personally-identifiable information about you to improve our website features and content and to analyze website usage. In addition, we use personally-identifiable information for market research purposes if you give us permission to do so.  
+  
+**_How We Share Personally-Identifiable Information_**  
+Except as described below, we don’t sell, transfer or otherwise disclose to third parties the personally-identifiable information we collect on this website without your prior consent. We disclose information where we think it’s necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others or where disclosure is required by law. We also may disclose information in response to a request from law enforcement authorities or other government officials. We also disclose information to third parties we retain to perform services on our behalf. For example, we hire service providers to help us run promotions, fulfill orders you may place and provide customer service. These service providers may have access to personally-identifiable information about our website visitors if it is needed to perform their functions for Kraft, but they are not authorized by Kraft to use the information for their own marketing purposes.
 
-**_Links To Other Sites_**  
-We do our best to make sure that every link on our web sites sends you and/or your child to a safe place on the Internet. However, web sites and addresses change quickly, and we can't always guarantee the content of every site for which we provide a link.
+On our website, we may conduct joint promotions with other companies. We may share with our promotional partners (and their service providers) certain personally-identifiable information as necessary to conduct the promotion. We will not share this information with our promotional partners for any other purpose unless you tell us it’s ok to do so.
 
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this website in a manner that is consistent with this Privacy Notice.  
+  
+**_Links To Other Websites_**  
+This website may contain links to other websites. We provide these links solely for your convenience and information. Different websites have different privacy practices. You should always check the privacy notice of the specific site you’re visiting to understand the privacy practices associated with that site.  
+**_Your Choices_**  
+You can change your preferences for follow-up contacts by Kraft. If you’re registered with this site, you can change the information you’ve provided to us in the registration section of the site. If you prefer, you can cancel your registration altogether. E-mail us if you wish to take this action.   
+**_Children's Privacy_**  
+This website may appeal to kids under 13. Our conduct on the website is governed by federal law and regulations that address children’s online privacy, as well as by the guidelines of the Children’s Advertising Review Unit (CARU), a part of the Council of Better Business Bureaus.
+
+We do not knowingly collect personally-identifiable information from kids under 13 on our website, except as permitted by legal requirements and the CARU guidelines. We sometimes offer promotions on our website, such as contests, sweepstakes and games. We may permit a child to enter certain promotions by submitting the parent’s (not the child’s) e-mail address. If the child wins, we contact the parent for further information needed for any prize delivery. Unless the parent has explicitly consented, we do not (i) use the child’s or the parent’s personal information for any purpose other than to complete the promotion or (ii) share the information with third parties except as described above in this Privacy Notice. We do not retain the child’s personally-identifiable information in our database unless the parent has given us permission to do so.
+
+We permit children under the age of 13 to contact us through the website “Contact Us” link with questions or comments. We request only the child’s first name and e-mail address and use that information solely to respond directly to the child on a one-time basis. We do not use the information to recontact the child and we delete the child’s personal information from our database after responding to the child’s inquiry.
+
+Upon proper identification, a parent may review any personal information we have collected from his or her child if we still have the information in our database. The parent also may request that the child’s information be deleted from our database and may refuse to permit further collection or use of the child’s information. If you are a parent and wish to exercise these rights, please contact us as described below.   
+  
+**_How We Protect Personally-Identifiable Information_**  
+The security of personally-identifiable information is important to us. We maintain administrative, technical and physical safeguards to protect against unauthorized use, disclosure, alteration or destruction of the personally-identifiable information we collect on this website.  
 **_Updates To This Privacy Notice_**  
-We may change or update portions of this Privacy Notice at any time and without prior notice to you. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the notice’s effective date on the first page of the notice.  
-  
-**How To Contact Us**  
-  
-If you have any questions or concerns about our Privacy Notice or your dealings with this web site, you can contact us at: 
+We may change or update portions of this Privacy Notice at any time. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the notice’s effective date on the first page of the notice.  
+**_How To Contact Us_**  
+If you have any questions about this Privacy Notice, you can contact us at:
 
 Kraft Foods Global, Inc.  
 1 Kraft Court  
 Glenview, IL 60025  
-Attention: Legal Department
+Attention: Consumer Relations Group  
+1-800-543-5335  
+(9 a.m. - 5 p.m. Eastern Time, Monday through Friday, excluding holidays.)
 
-1-800-543-5335 (9 a.m. to 5 p.m. Eastern Time, Monday through Friday) 
+E-mail us 
 
-or [Contact Us](http://www.kraftapps.com/contact_us/contact_us_form.asp?referrer=NabiscoWorld).
+We would be happy to answer your questions or hear your concerns.
 
-**ENJOY THE Nabisco WEB SITES!**
-
-Last Revised: July 9, 2004 
+© 2004 KF Holdings. 
