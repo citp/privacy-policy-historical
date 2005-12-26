@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aflcio.org privacy policy that was archived on 2004-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041220220230id_/http%3A//www.aflcio.org/siteguides/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aflcio.org privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226225018id_/http%3A//aflcio.org/siteguides/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,19 +20,19 @@ The following discloses our information gathering and dissemination practices fo
 
 The AFL-CIO website will not post your personal contact information, including e-mail address, street address and phone numbers, without your consent. Without such consent, website staff will withhold posting personal contact information for that individual.
 
-**Financial Information and Payments  
+ **Financial Information and Payments  
 ** We use a secure server for processing payments and financial information. AFL-CIO staff log in to the secure site, retrieve the information and process it using our in-house credit card processing equipment. The AFL-CIO does not retain, share, store or use personally identifiable information for any secondary purposes. 
 
 **Cookies  
 ** A cookie is a piece of data stored on the user's hard drive containing information about the user. The AFL-CIO website uses a cookie for measuring aggregate web statistics, including number of monthly visitors, number of repeat visitors, most popular webpages and other information. AFL-CIO will also use cookies to facilitate your online visit by maintaining data that you provide for online activism activities so that you will not need to resubmit certain information. The AFL-CIO does not use cookies to track what specific pages an individual site visitor views. 
 
 **Opting Out of E-mail Lists  
-** People who subscribe to e-mail lists via the website will receive periodic updates from the AFL-CIO by regular mail, fax or e-mail. You may opt out of receiving future information via e-mail by using the unsubscribe procedure specified on the e-mail message or by sending an e-mail message with the name of the list you are a member of to: feedback@aflcio.org.
+** People who subscribe to e-mail lists via the website will receive periodic updates from the AFL-CIO by regular mail, fax or e-mail. You may opt out of receiving future information via e-mail by using the unsubscribe procedure specified on the e-mail message or by sending an e-mail message with the name of the list you are a member of to: wip@aflcio.org.
 
-**Outside Links  
+ **Outside Links  
 ** This site contains hypertext links to other sites. The AFL-CIO is not responsible for the privacy practices or the content of such websites. We encourage our users to be aware when they leave our site, and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-**Security  
+ **Security  
 **  
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Socket Layer (SSL) encryption to protect the transmission of information you submit to us when you use our secure online forms. You are on a secure page when the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer become locked, as opposed to un-locked, or open, when you are just "surfing." All the information you provide us through these forms is stored securely off-line. 
 
@@ -40,18 +40,7 @@ We use SSL encryption to protect sensitive information online, we also protect u
 
 If you send us an e-mail, you should know that e-mail is not necessarily secure against interception. So, if your communication includes sensitive information like your bank account, charge card, or social security number, and you prefer not to use one of our secure online complaint forms, contact us by mail or by telephone rather than by e-mail.
 
-**Corrections/Updating Personal Information:**  
+ **Corrections/Updating Personal Information:**  
 If your personal information changes (such as your ZIP code), or if you wish to have your information removed from our database, contact us and we will endeavor to provide a way to correct, update or remove that personal data provided to us.
-
-**Contact Us**  
-If you experience technical problems with the operation of this website, [contact us](https://web.archive.org/siteguides/contactus.cfm) by e-mailing: feedback@aflcio.org.
-
-www.aflcio.org  
-AFL-CIO Web Editor  
-815 16th St., N.W.  
-Washington, DC 20006  
-202-637-5000
-
-You also may contact us by mail or telephone. If you do so, we may use the information you provide in the ways we have described in this privacy policy.
 
 September 4, 2001
