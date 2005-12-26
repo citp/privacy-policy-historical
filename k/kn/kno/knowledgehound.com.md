@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgehound.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204233736id_/http%3A//www.knowledgehound.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgehound.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226170148id_/http%3A//www.knowledgehound.com/privacy.htm) for the most accurate reproduction.*
 
 # Knowledge Hound Website Privacy Policy
 
@@ -21,7 +21,7 @@ Knowledge Hound publishes a monthly newsletter called '[One Smart Puppy](https:/
 
 Should changes occur at Knowledge Hound that affect this policy, we will update this document to reflect the changes. Thanks for being our visitor! 
 
-[Return to main page](https://web.archive.org/web/20050204233736id_/http%3A//www.knowledgehound.com/index.htm)
+[Return to main page](https://web.archive.org/web/20051226170148id_/http%3A//www.knowledgehound.com/index.htm)
 
 [Contact Us](mailto:khound@knowledgehound.com)
 
