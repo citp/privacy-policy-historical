@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prochoiceamerica.org privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216212922id_/http%3A//www.prochoiceamerica.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prochoiceamerica.org privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226223448id_/http%3A//prochoiceamerica.org/privacy.cfm) for the most accurate reproduction.*
 
 # prochoiceamerica.org : Privacy Policy
 
