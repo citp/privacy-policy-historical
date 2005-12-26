@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salem.k12.va.us privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403232035id_/http%3A//salem.k12.va.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salem.k12.va.us privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226155329id_/http%3A//salem.k12.va.us/privacy.html) for the most accurate reproduction.*
 
 # Salem City Schools Privacy Policy
 
