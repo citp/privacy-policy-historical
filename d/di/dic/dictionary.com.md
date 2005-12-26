@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211130954id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226035541id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.*
 
 # Dictionary.com/Privacy Policy
 
@@ -6,7 +6,7 @@
 
 The following discloses our privacy policy for this web site: Dictionary.com. We take your privacy concerns seriously and we strive to earn and keep your trust. Please do not hesitate to contact us with your questions and concerns (contact information is provided below).
 
-We do not share your personal information, including your e-mail address, with other parties. We hate spam as much as you, so we won't give your information to anyone.
+We do not share your personal information, including your e-mail address, with other parties. We hate spam as much as you do, so we won't give your information to anyone.
 
 We do not send unsolicited e-mail. If you are receiving e-mail from us, it is because at some point you, or someone with access to your e-mail account, requested it. You can always opt out of any e-mail we send you simply by following the instructions that appear at the bottom of the e-mail message in question. If you are receiving e-mail from us in response to an inquiry you made, you can rest assured that we will use your e-mail address for no purpose other than to respond to your inquiry.
 
@@ -16,7 +16,7 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 Dictionary.com shares only aggregate information with its affiliates, advertisers and business partners. We do not share any information about specific visitors. For example, we may tell potential advertisers that we have a certain number of subscribers to our [Word of the Day mailing list](https://web.archive.org/wordoftheday/list/), but we would never tell them that _you personally_ are a subscriber.
 
-We use [cookies](https://web.archive.org/search?q=cookie) for various purposes, including: 
+We use [cookies](https://web.archive.org/search?q=cookie) for various purposes, including:
 
   * to control ad delivery (for example, to limit the number of pop-up ads you see)
   * to indicate your subscription status (to check whether or not you are signed in as a subscriber)
@@ -24,15 +24,15 @@ We use [cookies](https://web.archive.org/search?q=cookie) for various purposes, 
 
 
 
-## Public Forums
+### Public Forums
 
 This site makes chat rooms, forums, message boards, and news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-## Security
+### Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-## Children's Guidelines
+### Children's Guidelines
 
 This Web site meets the guidelines of [TRUSTe's](http://www.truste.org/) Children's program.  
  **Dictionary.com DOES NOT** :
@@ -45,9 +45,9 @@ This Web site meets the guidelines of [TRUSTe's](http://www.truste.org/) Childre
 
 
 
-## Third-Party Advertisers
+### Third-Party Advertisers
 
-We use outside ad companies to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Here is a list of advertising networks with whom we have relationships: 
+We use outside ad companies to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Here is a list of advertising networks with whom we have relationships:
 
   * [Advertising.com](https://web.archive.org/go/http://www.advertising.com/)
   * [Be Free](https://web.archive.org/go/http://www.befree.com/)
@@ -60,18 +60,23 @@ We use outside ad companies to display ads on our site. Ads may contain cookies,
 
 
 
-## Choice/Opt-Out
+### Choice/Opt-Out
 
-If you are receiving e-mail from us and wish to stop, simply follow the instructions at the bottom of the e-mail message in question.
+If you are receiving e-mail from us and wish to stop, simply follow the instructions at the bottom of the e-mail message in question or use the unsubscribe form on these pages:
 
-## Contacting the Web Site
+  * [Dictionary.com Word of the Day](https://web.archive.org/wordoftheday/list/)
+  * [Reference.com On This Day](https://web.archive.org/go/http://www.reference.com/thisday/list/)
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+
+
+We also offer the option to permanently [opt-out](https://web.archive.org/go/http://www.reference.com/help/faq/popout.html) of pop-under advertising from Dictionary.com, Reference.com and Thesaurus.com.
+
+### Contacting Us
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 > Lexico Publishing Group, LLC  
 >  Attn: Customer Service  
 >  65 Pine Avenue #319  
->  Long Beach, CAÊ90802  
+>  Long Beach, CA 90802  
 >  [E-mail](https://web.archive.org/help/contact.html)
-
-| 
