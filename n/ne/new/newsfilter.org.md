@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204095857id_/http%3A//newsfilter.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226164908id_/http%3A//newsfilter.org/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement
+# 
 
 **Privacy Statement**
 
@@ -17,8 +17,7 @@ Customer Feedback and Support. Provides a mechanism for requesting information f
 
 We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information, unless you consent to the new usage. 
 
-**Third Party Advertising**  
-
+**Third Party Advertising**
 
 Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
