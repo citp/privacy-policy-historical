@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the baseballhq.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173150id_/http%3A//www.baseballhq.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballhq.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226125015id_/http%3A//www.baseballhq.com/privacy.shtml) for the most accurate reproduction.*
 
 # Baseball HQ: Privacy
 
-###### [Baseball HQ Home](https://web.archive.org/web/20050403173150id_/http%3A//www.baseballhq.com/index.shtml) > Privacy Policy
+###### [Baseball HQ Home](https://web.archive.org/web/20051226125015id_/http%3A//www.baseballhq.com/index.shtml) > Privacy Policy
 
 * * *
 
@@ -16,7 +16,7 @@ The Publisher may disclose personal information if required to do so by law or i
 
 * * *
 
-Comments?  Contact us [here](https://web.archive.org/web/20050403173150id_/http%3A//www.baseballhq.com/contact.shtml).  Baseball HQ is intended for entertainment purposes only. No part of this site may be reproduced or retransmitted without written permission of the publisher. All rights reserved.  Copyright © 2005.
+Comments?  Contact us [here](https://web.archive.org/web/20051226125015id_/http%3A//www.baseballhq.com/contact.shtml).  Baseball HQ is intended for entertainment purposes only. No part of this site may be reproduced or retransmitted without written permission of the publisher. All rights reserved.  Copyright © 2005.
 
 Shandler Enterprises, LLC.  *  P.O. Box 20303  *  Roanoke, VA  24018  *  (540) 772-6315.
 
