@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306034658id_/http%3A//wchstv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226101115id_/http%3A//wchstv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
@@ -6,33 +6,34 @@
 ---|---  
 | [**WCHS-TV8 FREQUENTLY ASKED QUESTIONS**](https://web.archive.org/faq.shtml)  
 | [**PROGRAM CONTACTS & PROGRAM FAQ**](https://web.archive.org/programfaq.shtml)  
+| [**CONTESTS**](https://web.archive.org/contests/)  
 | [**JOBS @ TV8 & FOX11**](http://jobs.sbgnet.com/sbghire/JobCulture.jsp?marketID=10)  
+| [**CLASSIFIEDS**](http://www.postaroo.com/postaroo/Main?CITY_ID=66&Action=MAIN_PAGE)  
 | [**GUESTBOOK**](https://web.archive.org/register.shtml)  
 | [**SEARCH**](https://web.archive.org/8search.shtml)  
 | [**DIGITAL TV INFORMATION**](https://web.archive.org/aboutdtv.shtml)  
 | [**SATELLITE INFORMATION**](https://web.archive.org/aboutsatellite.shtml)  
 | [**THE TV MARKET**](https://web.archive.org/market.shtml)  
 | [**ONLINE ADVERTISING**](https://web.archive.org/ads/)  
+| [**COMMUNITY CALENDAR**](http://www.postaroo.com/postaroo/Main?CITY_ID=66&Action=MAIN_PAGE)  
 | [**COMMUNITY SURVEY**](https://web.archive.org/ca/communitysurvey.shtml)  
 | [**SCHOOL CLOSINGS**](https://web.archive.org/newsroom/schoolclosing.shtml)  
 |  |    
-**Privacy Statement for www.wchstv.com**
+**Privacy Statement for www.wchstv.com** WCHS-TV8 has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website, www.wchstv.com.
 
-WCHS-TV8 has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website, www.wchstv.com.
-
-We may use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address may be used to gather broad demographic information.
+We may use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address may be used to gather broad demographic information, in contests or polls.
 
 This site contains links to other sites. www.wchstv.com is not responsible for the privacy practices or the content of such Web sites.
 
-Our online surveys may ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company and sometimes, promotional material from some of our advertising partners. The customer's contact information is also used to contact the visitor when necessary when you have requested it. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data may also be collected at our site. This information may be shared with advertisers, but only on an aggregate basis. Personal identification information is never shared.
+Our online surveys may ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company and sometimes, promotional material from some of our advertising partners if you have agreeded when you complete the survey. The customer's contact information is also used to contact the visitor when necessary when you have requested it. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data may also be collected at our site. This information may be shared with advertisers, but only on an aggregate basis. Personal identification information is never shared without your expressed permission.
 
-We sometimes run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company and sometimes promotional material from some of our advertising partners. The customer's contact information is also used to contact the visitor when necessary (such as being a finalist or winner in a contest). Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data may also be collected at our site. This information may be shared with advertisers, but only on an aggregate basis. Personal identification information is never shared and is not stored online.
+We sometimes run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company and sometimes promotional material from some of our advertising partners if you have agreeded when you complete the contest entry. The customer's contact information is also used to contact the visitor when necessary (such as being a finalist or winner in a contest). Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data may also be collected at our site. This information may be shared with advertisers, but only on an aggregate basis. Personal identification information is never shared without your expressed permission.
 
 We use outside ad companies to display some ads on our site. These ads may contain cookies. While we do not use cookies in any parts of our Web site, cookies received with banner ads are collected by the ad company(s), and we do not have access to this information.
 
 ## Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Information collected through surveys and contests are stored off site on a secure computer.
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Information collected at the completion of surveys and contests are stored off site on a secure computer.
 
 ## Children's Guidelines
 
@@ -73,4 +74,15 @@ If you have any questions about this privacy statement, the practices of this si
     PO Box 11138  
     Charleston, WV 25338
 
-    [webmaster@wchstv.com](mailto:webmaster@wchstv.com) |  |  |  | 
+    [webmaster@wchstv.com](mailto:webmaster@wchstv.com) |  |  |  |    
+
+
+  
+
+
+EYEWITNESS NEWS IS AFFILIATED WITH  
+[](http://cnn.com/LOCAL/regions/southeast/WCHS-TV/)  
+  
+Also Visit:  
+[](http://www.wvah.com/)  
+
