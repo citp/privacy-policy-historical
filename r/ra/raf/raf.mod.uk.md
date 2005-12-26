@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raf.mod.uk privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627181910id_/http%3A//www.raf.mod.uk/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raf.mod.uk privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226193535id_/http%3A//www.raf.mod.uk/info/privacy.html) for the most accurate reproduction.*
 
 # The Royal Air Force - Site Information and FAQs
 
