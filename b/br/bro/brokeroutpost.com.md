@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokeroutpost.com privacy policy that was archived on 2005-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050601042903id_/http%3A//www.brokeroutpost.com/loans/w3c/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokeroutpost.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226173215id_/http%3A//www.brokeroutpost.com/loans/w3c/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
