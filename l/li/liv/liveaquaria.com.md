@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the liveaquaria.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309142918id_/http%3A//www.liveaquaria.com/general/general.cfm%3Fgeneral_pagesid%3D36%26ref%3D3319%26subref%3DAN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveaquaria.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226190404id_/http%3A//liveaquaria.com/general/general.cfm%3Fgeneral_pagesid%3D36%26ref%3D3319%26subref%3DAN) for the most accurate reproduction.*
 
 # Privacy Policy - Security
 
 ---  
-Our friendly customer service representatives are always ready to help you, 8 a.m. - 10:30 p.m. CST, 7 days a week.  
+Our friendly customer service representatives are always ready to help you, 7:30 a.m. - 10:00 p.m. CST, 7 days a week.  
  **1-800-334-3699**  
 or [**E-mail Us**](https://web.archive.org/forms/contact_us.cfm)  
   
@@ -49,6 +49,6 @@ We use computer "cookies" only to assist us in identifying our valued returning 
 **JavaScript**  
 We use JavaScript for many useful features such as instantly displaying backordered items, recalculating your order total when selecting a different shipping method and for displaying pop-up information for products and assistance throughout our site. Having JavaScript enabled isn't a requirement for using our site. However, these features are designed to enhance your online shopping experience and to make shopping online more convenient for you. 
 
-**If you have any questions regarding our privacy practices, please[contact us](http://www.liveaquaria.com/forms/contact_us.cfm)!**
+**If you have any questions regarding our privacy practices, please[contact us](https://web.archive.org/forms/contact_us.cfm)!**
 
 [Back to top]
