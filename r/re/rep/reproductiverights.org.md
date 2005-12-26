@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406000523id_/http%3A//reproductiverights.org/ab_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227000551id_/http%3A//www.reproductiverights.org/ab_privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
