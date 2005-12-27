@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tolweb.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403203041id_/http%3A//tolweb.org/tree/home.pages/ToLPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolweb.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228005829id_/http%3A//tolweb.org/tree/home.pages/ToLPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Tree of Life Privacy Policy
 
@@ -265,7 +265,7 @@ Children who would like to have their photograph published must ask their parent
   
 If you have questions about this privacy policy or the practices of the ToL project, please contact [treegrow@tolweb.org](mailto:treegrow@tolweb.org). For inquiries regarding children under 18 years of age, please contact [learning@tolweb.org](mailto:learning@tolweb.org). You can also write to the address below:
 
-> The Tree of Life Project  
+> The Tree of Life Web Project  
 >  c/o Department of Entomology  
 >  Forbes Building  
 >  University of Arizona  
