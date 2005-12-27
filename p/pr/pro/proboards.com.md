@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the proboards.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209094439id_/http%3A//www.proboards.com/Information-Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proboards.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227235452id_/http%3A//www.proboards.com/privacy.html) for the most accurate reproduction.*
 
-# ProBoards.com - Home
+# ProBoards.com - Free Remotely Hosted Message Boards
 
 **Privacy Policy**
 
-ProBoards has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ProBoards](https://web.archive.org/).
+ProBoards has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ProBoards](http://www.proboards.com/).
 
 **Server Logged Information**  
 Whenever a user views a page located on ProBoards.com, the [Apache](http://www.apache.org/) Web server automatically logs certain information about the visitor. This information includes the user's IP address, browser, and where the user came from. This is standard information collected by most Web servers.
