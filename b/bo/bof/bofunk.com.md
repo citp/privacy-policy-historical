@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bofunk.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404192005id_/http%3A//www.bofunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bofunk.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227184657id_/http%3A//bofunk.com/privacy.php) for the most accurate reproduction.*
 
-# BoFunk - Crazy, Funny, Wacky Videos, Jokes & Pictures!
+# Funny Videos and Clips, Funny Pictures, Online Flash Games, MySpace Video and Picture Codes
 
-BoFunk Network, LLC. ("BoFunk"), comprised of the Internet sites bofunk.com, is committed to protecting the privacy of users of the site. At BoFunk, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the site, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used. 
+BoFunk Media LLC. ("BoFunk"), comprised of the Internet sites bofunk.com, is committed to protecting the privacy of users of the site. At BoFunk, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the site, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used. 
 
 **Information Gathered through BoFunk:**
 
