@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the wqow.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204061619id_/http%3A//www.wqow.com/station/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wqow.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227023224id_/http%3A//www.wqow.com/station/privacy.shtml) for the most accurate reproduction.*
 
 # WQOW Website Privacy Policy
 
+wqow.com Privacy Policy  
 WXOW/WQOW TELEVISION, INC.  
 Copyright ©2004 WXOW/WQOW Television, Inc. All rights reserved.  
-Updated – April 2, 2004
+Updated � April 2, 2004
 
 WXOW/WQOW Television, Inc. owns and operates **wqow.com**. WXOW/WQOW Television, Inc. may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. This policy applies only to information collected by wqow.com and does not impact information collected or used by WXOW/WQOW Television, Inc., wqow.com or their affiliates through other means.
 
@@ -32,7 +33,7 @@ While on our site, our advertisers, promotional partners or other third parties 
 
 Be careful and responsible when you are online. If you voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of WXOW/WQOW Television, Inc., wqow.com and this policy.
 
-**Children’s Privacy**  
+**Children's Privacy**  
 WXOW/WQOW Television, Inc. and wqow.com is particularly concerned with providing a safe environment for children. We do not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe WXOW/WQOW Television, Inc. or wqow.com has any information from or about anyone under 13, please contact us at the address listed below.
 
 We strongly recommend parental supervision when a child uses the Internet, particularly when a child uses email. We also encourage parents to instruct their children not to give out personal information over the Internet.
@@ -50,6 +51,17 @@ jganahl@wqow.com
 WXOW/WQOW Television, Inc. and wqow.com reserve the right to change this policy at any time. You should check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 **Governing law**  
-This policy and the use of wqow.com are governed by the law of the state in which WXOW/WQOW Television, Inc.’s principal office is located. Any claim related to wqow.com or this policy shall be brought in a Federal District Court serving the location where WXOW/WQOW Television, Inc.’s principal office is located or the state court of the county in which WXOW/WQOW Television, Inc.’s principal office is located, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of wqow.com consent to the jurisdiction and venue of these courts as the most convenient and appropriate for the resolution of disputes concerning this policy. wqow.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
+This policy and the use of wqow.com are governed by the law of the state in which WXOW/WQOW Television, Inc.'s principal office is located. Any claim related to wqow.com or this policy shall be brought in a Federal District Court serving the location where WXOW/WQOW Television, Inc.'s principal office is located or the state court of the county in which WXOW/WQOW Television, Inc.'s principal office is located, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of wqow.com consent to the jurisdiction and venue of these courts as the most convenient and appropriate for the resolution of disputes concerning this policy. wqow.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy, the terms of this written policy shall control. 
+
+|    
+| **Local Weather**  
+---  
+  
+[](https://web.archive.org/weather/)
+
+_**Tonight**_
+
+Cloudy/Areas of Freezing Drizzle/Late-Night Fog, Low: 30  
+Wind: S 5-15
