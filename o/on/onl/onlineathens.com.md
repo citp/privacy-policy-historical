@@ -1,117 +1,8 @@
-> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206203840id_/http%3A//onlineathens.com/contactus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227041402id_/http%3A//www.onlineathens.com/contactus/privacy.shtml) for the most accurate reproduction.*
 
 # Online Athens: Privacy Policy
 
-| 
-
-* * *
-
-**Member  
-Services**  
-You are not logged in   
-[Log In](http://www.onlineathens.com/login.shtml) / [Log Out](http://register.onlineathens.com/forge?tp=ATHENS%20GA&tl=2&temp_type=LOGIN&category=REGISTRATION)   
-[My Account](http://register.onlineathens.com/forge/dataentry?tp=ATHENS%20GA&tl=2&temp_type=DATA%20ENTRY&category=REGISTRATION) / [FAQ](http://www.onlineathens.com/reg/faq.shtml)  
-  
----  
-  
-[ News](https://web.archive.org/news/ "Local News")  
-  
-  
-[ UGA News](https://web.archive.org/uganews/ "UGA News")  
-  
-[ Obituaries](https://web.archive.org/obits/ "Obituaries")  
-  
-[ Business](https://web.archive.org/business/ "Business News")  
-  
-[ Police Central](https://web.archive.org/cops/ "Police News")  
-  
-[ AP Latest News](https://web.archive.org/breaking/ "Latest Associated Press News")  
-  
-  
-[ Sports](https://web.archive.org/sports/ "Sports Home Page")  
-  
-  
-[ DogBytes](https://web.archive.org/dogbytes/ "DogBytes")  
-  
-[ Prep Sports](https://web.archive.org/prepstars/ "Prep Sports")  
-  
-  
-[ Features](https://web.archive.org/features/ "Features")  
-  
-  
-[ RockAthens](https://web.archive.org/rockathens/ "Local Music")  
-  
-[ athensmusic.com](http://www.athensmusic.com/ "Athens Music")  
-  
-[ Entertainment](https://web.archive.org/entertainment/ "Entertainment News")  
-  
-[ Movies](https://web.archive.org/movies/ "Movies")  
-  
-[ Celebrations](https://web.archive.org/celebrations/ "Weddings, Engagements, Births, Anniversaries")  
-  
-  
-[ Opinion](https://web.archive.org/opinion/ "Opinion Page")  
-  
-  
-[ Forums](https://web.archive.org/forums/ "Forums")  
-  
-  
-[ Columnists](https://web.archive.org/staff/ "Columnists")  
-  
-  
-[ Marketplace](https://web.archive.org/marketplace/ "Marketplace")  
-  
-  
-[ Classifieds](https://web.archive.org/classifieds/ "Classifieds")  
-  
-[ Submit an ad](https://sec.onlineathens.com/forge/data_entry?category=AOE&temp_type=ad%20entry "Submit a classified ad")  
-  
-[ Jobs](https://web.archive.org/jobfinder/ "Athens Job Finder")  
-  
-[ Homes](https://web.archive.org/homefront/ "Athens Home Finder")  
-  
-[ Autos](http://www.classiccitycars.com/ "Athens Auto Finder")  
-  
-[ Business Directory](https://web.archive.org/webguide "Local Web Sites")  
-  
-  
- Etc.  
-  
-  
-[ Subscribe](https://web.archive.org/subscriptions/ "Site Map")  
-  
-[ Site Map](https://web.archive.org/sitemap/ "Site Map")  
-  
-[ Contact Us](https://web.archive.org/contactus/ "Contact Us")  
-  
-[ Help/FAQ](https://web.archive.org/contactus/faq.shtml "Help/Frequently Asked Questions")  
-  
-[ RSS feeds](https://web.archive.org/RSS/ "Palm Pilot edition")  
-  
-[ Palm edition](https://web.archive.org/palmpilot/ "Palm Pilot edition")  
-  
-[ Free E-mail](https://web.archive.org/email/ "Free E-Mail")  
-  
-[ E-mail Newsletter](https://web.archive.org/email_newsletter.shtml "E-Mail Newsletter")  
-  
-[ Online Specials](https://web.archive.org/specials/ "Specials")  
-  
-[ Wallpapers](https://web.archive.org/wallpapers/ "Wallpapers")  
-  
-[ Advertising Rates](https://web.archive.org/ratebook/ "advertising")  
-  
-[ Web Design](https://web.archive.org/webdesign/ "Web Design")  
-  
-[ Eco Latino](http://www.athensecolatino.com/ "Athens Eco Latino")  
-  
-[ Athens Magazine](http://www.athensmagazine.com/ "Athens Magazine")  
-  
-[ Events! Magazine](http://www.athensevents.com/ "Events! Magazine")  
-  
-[ Gainesville Life](http://www.gainesvillelifemagazine.com/ "Gainesville Life Magazine")  
-  
-  
-|  |  **OnlineAthens.com Privacy Policy**  
+**OnlineAthens.com Privacy Policy**  
 
 
 > OnlineAthens.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At OnlineAthens.com, we intend to give you as much control as possible over your personal information.
@@ -190,4 +81,4 @@ You are not logged in
 
 > The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may [contact us](mailto:feedback@onlineathens.com). 
 
-|  |  | 
+|  
