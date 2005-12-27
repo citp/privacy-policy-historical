@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305120610id_/http%3A//www.dealsea.com/exec/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227032416id_/http%3A//dealsea.com/exec/s/privacy) for the most accurate reproduction.*
 
 # dealsea.com - cheap computer deals cheap digital camera deals cheap notebook sales online computer store
 
