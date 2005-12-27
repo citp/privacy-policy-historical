@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinehere.ca privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305060352id_/http%3A//www.dinehere.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinehere.ca privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227015240id_/http%3A//www.dinehere.ca/privacy.asp) for the most accurate reproduction.*
 
 # dinehere.ca Privacy Policy
 
@@ -38,7 +38,7 @@ Don't worry if you don't know what cookies are, because most browsers have cooki
 
 ## What are Cookies?
 
-Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to www.metasun.com.
+Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to www.dinehere.ca.
 
 The default for most Internet browser software is to have your cookies turned on. If you are experiencing login or sign-up difficulties, please consult your browser help file(s) on how to turn your cookies on.
 
