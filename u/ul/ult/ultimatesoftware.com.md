@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519083406id_/http%3A//www.ultimatesoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227130330id_/http%3A//www.ultimatesoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # Ultimate Software Privacy Policy
 
@@ -9,7 +9,7 @@ Ultimate Software is sensitive to privacy issues associated with using the Inter
 
  **Automatically Collected Information**
 
-In order to improve the content and format of our site, Ultimate Software uses Web site tracking software to automatically capture technical information that is then stored on our server log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our Web pages are visited and the amount of time spent on our site. 
+In order to improve the content and format of our site, Ultimate Software uses Web site tracking software to automatically capture technical information that is then stored on our server log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our Web pages are visited, and the amount of time spent on our site. 
 
 **Voluntarily Submitted Information**
 
