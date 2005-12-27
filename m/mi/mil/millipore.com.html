@@ -1,0 +1,707 @@
+<!--The following is the downloaded HTML source of the millipore.com privacy policy that was archived on 2005-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051227060141id_/http%3A//www.millipore.com/ec.nsf/docs/security) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">              
+<meta name="Content-Language" content="en">
+<meta name="Keywords" content="">
+<meta name="Description" content="NEW for new store">
+<meta name="publish_date" content="06/16/2005">
+<meta http-equiv="Pragma" content="no-cache"><meta http-equiv="cache-control" content="no-cache"><meta http-equiv="cache-control" content="no-store"><meta http-equiv="expires" content="0"><meta http-equiv="expires" content="Thursday, 11-Mar-99 18:31:30 GMT">
+<meta name="Responding-Server" content="WWW01">
+<script language="JavaScript">
+<!-- Hide from old browsers
+function RandomSurveyPopUp( ) {
+var Height  = 400;   // Height and Width of popup window
+var Width   = 750;
+var useCookie = 1;
+// Detect Cookie(s)
+var sVal = "";
+var allcookies = document.cookie;
+var pos = allcookies.indexOf("rwshown=");
+if ((pos == -1) || (useCookie == 0)) {
+// set the destination (the Survey URL)
+var BaseURL = "http://www.xronos.com"; // Survey base
+var RelURL  = "/cgi-bin/power1/survey.cgi"; // Survey URL
+// only select a percentage of the potential users.
+var thisPage = document.URL;
+var theNum = Math.round(Math.random() *1); // 5% of the time...
+if (theNum == 0) {
+// set the cookie -- don't show this again
+if (useCookie == 1) {
+var expDate = new Date();
+var oneDay  = 24 * 60 * 60 * 1000;  // 1 day in milliseconds
+expDate.setTime(expDate.getTime() + (oneDay * 365 * 5));  // Cookie will expire in 5 years
+// Set Cookie
+document.cookie = "rwshown=1; path=/; expires=" + expDate.toGMTString();
+}
+window.open((BaseURL + RelURL + "?" + thisPage), 'SurveyPopUp',
+//window.open((RelURL + "?" + thisPage), 'SurveyPopUp',
+'toolbar=no,location=no,directories=no,' +
+'status=no,scrollbars=yes,menubar=no,' +
+'resizable=yes,' +
+'width=' + Width + ',height=' + Height);
+ }
+}
+}
+// Stop hiding from old browsers -->
+</script>
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/config.nsf/files/favicon/$file/favicon.ico">
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/config.nsf/files/favicon/$file/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/config.nsf/files/style_sheets/$file/Millipore_Style.css"><title>Millipore - E-Commerce - Security and Privacy</title>
+<script language="JavaScript" type="text/javascript">
+<!-- 
+function leapto( theThing )
+{
+//  called from millisite db dropdown dialog boxes
+//  opens document in same full window
+     var myIndex = theThing.selectedIndex;
+     window.location=theThing.options[myIndex].value  ; 
+}
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var url="/ec.nsf/docs/security?OpenDocument&Click=" + v;
+  if (o.href != null)
+    o.href = url;
+  else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+
+}
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+function VIDCheck(){
+	var videxp = new Date();
+	var ID = videxp.getTime() + "" + Math.floor(Math.random()*1000000001);
+	videxp.setTime(videxp.getTime() + (730*24*60*60*1000));
+	var UUID = null;
+	var arg = "VID=";
+	var i = 0;
+	while (i < document.cookie.length) {
+		var j = i + arg.length;
+		if (document.cookie.substring(i, j) == arg) {
+			var endstr = document.cookie.indexOf (";", j);
+			if (endstr == -1) endstr = document.cookie.length;
+			UUID = unescape(document.cookie.substring(j, endstr));
+			break;
+			}
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i == 0) {
+			break;
+			}
+		}
+	if(UUID == null) {
+		document.cookie = "VID=" + escape (ID) + "; expires=" + videxp.toGMTString() + "; path=/; domain=.millipore.com";
+		}
+	}
+	
+VIDCheck();
+
+
+
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+function loginhandleKey (evt) {
+	if (navigator.appName == 'Netscape') {
+		if (evt.which == 13) { UserLogin();} }
+		else 
+	if (navigator.appName == 'Microsoft Internet Explorer') {
+		if (evt.keyCode == 13 ) { UserLogin(); }
+		else
+		{ }
+	} 
+}
+function UserLogin(){
+	out = " "; // replace this
+	add = "%20"; // with this
+	UserNameBranding = "" + document.forms[0].UserNameBranding.value; // temporary holder	
+	var msg;
+	var msgflag;
+	var pswdflag;
+	msgflag = "false";
+	pswdflag = "false";
+	msg=document.forms[0].validation_messageBranding.value + ":\r";
+	//UserName - Password Validation
+	if(document.forms[0].UserNameBranding.value == "" ){
+		msg+="\r" + document.forms[0].UserNameBranding_msg.value;
+		msgflag="true";
+		document.forms[0].UserNameBranding.focus();
+		}		
+
+	if(document.forms[0].PasswordBranding.value == "" ){
+		msg+="\r" + document.forms[0].PasswordBranding_msg.value;
+		msgflag="true";
+		document.forms[0].PasswordBranding.focus();
+		}		
+
+	if(msgflag == "true"){
+		alert(msg);
+		}
+	if(msgflag == "false"){
+	
+	while (UserNameBranding.indexOf(out)>-1) {
+		pos= UserNameBranding.indexOf(out);
+		UserNameBranding = "" + (UserNameBranding.substring(0, pos) + add + UserNameBranding.substring((pos + out.length), UserNameBranding.length));
+		}
+	window.location="/names.nsf?login&Username=" + UserNameBranding + "&Password=" + document.forms[0].PasswordBranding.value + "&RedirectTo=" + document.forms[0].PATH_INFO.value;
+	}
+}	
+	
+
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+function wpMO(s, u, t) {
+	if ((navigator.appVersion.length != 0) && (navigator.appVersion.indexOf('MSIE 3.') == -1)) {
+		if (s.length > 0 && u.length > 0 && document[s] != null) document[s].src = u;
+		if (t.length > 0) window.status=t;
+		}
+	}
+
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onunload="RandomSurveyPopUp();">
+
+<form action=""><!--BEGIN WEBNAVIGATIONHEADER--><!--BEGIN NAVIGATION HEADER-->
+<!--Subform: WebNavigationHeader-->
+<!--Version: 20040625-->
+<!--googleoff: all-->
+<!--following content not indexed by google spiders-->
+<script language="JavaScript">
+<!--
+function UserLogout(){
+	//redirectURL = document.forms[0].PATH_INFO.value;
+	redirectURL = "/ec.nsf/docs/logout";
+	window.location="/?logout&redirectto=" + redirectURL;
+	}
+// ------------------------------------------------
+// START GOOGLE SEARCH CODE
+// ------------------------------------------------
+// replace all
+function replaceAll( str, from, to ) {
+    var idx = str.indexOf( from );
+    while ( idx > -1 ) {
+        str = str.replace( from, to ); 
+        idx = str.indexOf( from );
+    }
+    return str;
+} 
+function dec2hex ( textString ) {
+ return (textString+0).toString(16).toUpperCase();
+}
+function  dec2hex2 ( textString ) {  	 
+  var hexequiv = new Array ("0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F");
+  return hexequiv[(textString >> 4) & 0xF] + hexequiv[textString & 0xF];
+}
+function convertChar2CP ( textString ) {
+  var outputString = "";
+  var haut = 0;
+  var n = 0;
+  for (var i = 0; i < textString.length; i++) {
+    var b = textString.charCodeAt(i);  // alert('b:'+dec2hex(b));
+    if (b < 0 || b > 0xFFFF) {
+      outputString += '!erreur ' + dec2hex(b) + '!';
+    }
+    if (haut != 0) {
+      if (0xDC00 <= b && b <= 0xDFFF) {
+        outputString += dec2hex(0x10000 + ((haut - 0xD800) << 10) + (b - 0xDC00)) + ' ';
+        haut = 0;
+        continue;
+      } else {
+        outputString += '!erreur ' + dec2hex(haut) + '!';
+        haut = 0;
+      }
+    }
+    if (0xD800 <= b && b <= 0xDBFF) {
+      haut = b;
+    } else {
+      outputString += dec2hex(b) + ' ';
+    }
+  }
+  return( outputString.replace(/ $/, '') );
+}
+function convertCP2UTF8 ( textString ) {
+  var outputString = "";
+  textString = textString.replace(/^\s+/, '');
+  if (textString.length == 0) { return ""; }
+  textString = textString.replace(/\s+/g, ' ');
+  var listArray = textString.split(' ');
+  for ( var i = 0; i < listArray.length; i++ ) {		
+    var n = parseInt(listArray[i], 16);
+    if (i > 0) { outputString += ' ';}
+    if (n <= 0x7F) {
+      outputString += dec2hex2(n);
+    } else if (n <= 0x7FF) {
+      outputString += dec2hex2(0xC0 | ((n>>6) & 0x1F)) + ' ' + dec2hex2(0x80 | (n & 0x3F));
+    } else if (n <= 0xFFFF) {
+      outputString += dec2hex2(0xE0 | ((n>>12) & 0x0F)) + ' ' + dec2hex2(0x80 | ((n>>6) & 0x3F)) + ' ' + dec2hex2(0x80 | (n & 0x3F));
+    } else if (n <= 0x10FFFF) {
+      outputString += dec2hex2(0xF0 | ((n>>18) & 0x07)) + ' ' + dec2hex2(0x80 | ((n>>12) & 0x3F)) + ' ' + dec2hex2(0x80 | ((n>>6) & 0x3F)) + ' ' + dec2hex2(0x80 | (n & 0x3F));
+    } else {
+      outputString += '!erreur ' + dec2hex(n) +'!';
+    }
+  }
+  return( outputString );
+}
+function convertToUTF8CodeUnits( textString ) {
+  // vars
+  var outputString;  
+  // convert the output string
+  outputString = convertCP2UTF8(convertChar2CP(textString));
+  // convert spaces to percents
+  return '%' + replaceAll(outputString, ' ', '%');
+}
+function replace(string,text,by) {
+  //Replaces text with by in string
+  var strLength = string.length, txtLength = text.length;
+  if ((strLength == 0) || (txtLength == 0)) return string;
+  var i = string.indexOf(text);
+  if ((!i) && (text != string.substring(0,txtLength))) return string;
+  if (i == -1) return string;
+  var newstr = string.substring(0,i) + by;
+  if (i+txtLength < strLength)
+    newstr += replace(string.substring(i+txtLength,strLength),text,by);
+  return newstr;
+}
+function BannerSearch() {
+  var searchvalue = trim(document.forms[0].qt.value);
+  var theForm = document.forms[0];
+  if ( searchvalue == "" ) {
+    alert("Please enter a search keyword.");
+    document.forms[0].qt.focus();
+  } else {
+      GoogleSearch(document.forms[0].qt);
+  }
+}
+// simple Google search
+function GoogleSearch(theField) {
+  // check for valid field
+  if (!theField) {
+    return;  
+  } else if (theField.value.length == 0) {
+    alert("Please enter a search keyword.");
+    theField.focus();
+    return;
+  }
+  // set vars
+  var f = theField.form;
+  var searchvalue = theField.value;
+  var baseurl = '/search.nsf/results?open&qt=';
+  var newurl;
+  // remove quote characters
+  searchvalue = replace(searchvalue, '"', '');
+  newurl = baseurl + convertToUTF8CodeUnits(searchvalue);
+  // check for language setting
+  if (f.queryLang) {
+    if (f.queryLang[1].checked) {
+      newurl = newurl + '&queryLang=' + f.queryLang[1].value;
+    }
+  }
+  // set restrict value
+  if (f.restrict) {
+    newurl = newurl + '&restrict=' + f.restrict.value;
+  }
+  // set location
+  window.location=newurl;
+  return;
+}
+// advanced google search
+function GoogleAdvancedSearch() {
+  
+  // vars
+  var i = 0;
+  var url = '/search.nsf/results?open';
+  var f = document.forms[0];
+  // set fields
+  url = url + '&as_q=' + f.as_q.value;
+  url = url + '&as_epq=' + f.as_epq.value;
+  url = url + '&as_oq=' + f.as_oq.value;
+  url = url + '&as_eq=' + f.as_eq.value;
+  url = url + '&as_sitesearch=' + f.as_sitesearch.value;
+  url = url + '&as_lq=' + f.as_lq.value;
+  url = url + '&num=' + f.num.value;
+  url = url + '&restrict=' + f.restrict.value;
+  //url = url + '&lr=' + f.lr.value;
+  url = url + '&as_occt=' + f.as_occt.value;
+  url = url + '&as_dt=' + f.as_dt.value;
+  url = url + '&sort=' + f.sort.value;
+  // set language
+  if (f.lr.value.length > 0) {
+    url = url + '&queryLang=' + f.lr.value;
+  }
+  // redirect
+  window.location=url;
+  return;
+}
+// enter key handler for simple google search
+function googleSearchhandleKey (evt) {
+  if (navigator.appName == 'Netscape') {
+    if (evt.which == 13) {
+       GoogleSearch(document.forms[0].q);
+    } 
+  } else if (navigator.appName == 'Microsoft Internet Explorer') {
+    if (evt.keyCode == 13 ) { 
+       GoogleSearch(document.forms[0].q);
+    }
+  } 
+}
+// enter key handler for advanced google search
+function googleAdvancedSearchhandleKey (evt) {
+  if (navigator.appName == 'Netscape') {
+    if (evt.which == 13) {
+       GoogleAdvancedSearch();
+    } 
+  } else if (navigator.appName == 'Microsoft Internet Explorer') {
+    if (evt.keyCode == 13 ) { 
+       GoogleAdvancedSearch();
+    }
+  } 
+}
+// enter key handler for banner search
+function searchhandleKey (evt) {
+  if (navigator.appName == 'Netscape') {
+    if (evt.which == 13) {
+       BannerSearch();
+    } 
+  } else if (navigator.appName == 'Microsoft Internet Explorer') {
+    if (evt.keyCode == 13 ) { 
+       BannerSearch();
+    }
+  } 
+}
+// ------------------------------------------------
+// END GOOGLE SEARCH CODE
+// ------------------------------------------------
+function trim(s){
+	s = s.replace(/^\s*/,'').replace(/\s*$/, '');
+	return s;
+} 
+// -->
+</script>
+<script language="JavaScript">
+<!--
+var expDays = 730; // number of days the cookie should last
+var exp = new Date(); 
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+function GetCookie (name) {  
+var arg = name + "=";  
+var alen = arg.length;  
+var clen = document.cookie.length;  
+var i = 0;  
+while (i < clen) {    
+var j = i + alen;    
+if (document.cookie.substring(i, j) == arg)      
+return getCookieVal (j);    
+i = document.cookie.indexOf(" ", i) + 1;    
+if (i == 0) break;   
+}  
+return null;
+}
+function SetCookie (name, value) {  
+var argv = SetCookie.arguments;  
+var argc = SetCookie.arguments.length;  
+var expires = (argc > 2) ? argv[2] : null;  
+var path = (argc > 3) ? argv[3] : null;  
+var domain = (argc > 4) ? argv[4] : null;  
+var secure = (argc > 5) ? argv[5] : false;  
+document.cookie = name + "=" + escape (value) + 
+((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + 
+((path == null) ? "; path=/" : ("; path=" + path)) +  
+((domain == null) ? "; domain=.millipore.com" : ("; domain=" + domain)) +    
+((secure == true) ? "; secure" : "");
+}
+function DeleteCookie (name,path,domain) {
+	//var delexp = new Date();
+	//delexp.setTime (delexp.getTime() - 1);
+	//var cval = GetCookie (name);  
+	//document.cookie = name + "=" + cval + "; expires=" + delexp.toGMTString();
+	if (GetCookie(name)) {
+		document.cookie = name + "="+ ((path == null) ? "; path=/" : ("; path=" + path)) + 
+		((domain == null) ? "; domain=.millipore.com" : ("; domain=" + domain)) + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+	}
+}
+var exp = new Date(); 
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+function amt(){
+var count = GetCookie('count')
+if(count == null) {
+SetCookie('count','1')
+return 1
+}
+else {
+var newcount = parseInt(count) + 1;
+DeleteCookie('count')
+SetCookie('count',newcount,exp)
+return count
+   }
+}
+function getCookieVal(offset) {
+var endstr = document.cookie.indexOf (";", offset);
+if (endstr == -1)
+endstr = document.cookie.length;
+return unescape(document.cookie.substring(offset, endstr));
+}
+// -->
+</script>
+<table width="748" border="0" cellspacing="0" cellpadding="0" align="CENTER">
+<tbody><tr align="CENTER"><td colspan="3" bgcolor="C6C6C6" height="10"><img src="/images/blank.gif" border="0"></td></tr>
+<tr align="CENTER"><td bgcolor="C6C6C6" width="3"><img src="/images/blank.gif" border="0"></td><td>
+<table width="742" border="0" cellspacing="0" cellpadding="0" align="CENTER">
+<tbody><tr align="CENTER"><td colspan="3" height="7" align="CENTER"><img src="/images/blank.gif" border="0"></td></tr>
+<tr align="CENTER"><td width="7"><img src="/images/blank.gif" border="0"></td><td align="CENTER">
+<table width="724" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="CENTER">
+<!--COMMON HTML TABLE SETUP-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="6A8BB6" background="/config.nsf/files/navigation_header/$file/banner_bk.gif">
+<tbody><tr valign="CENTER">
+<td align="Left" valign="TOP"><img src="/config.nsf/files/navigation_header/$file/corner_left.gif" border="0"><a href="/"><img src="/config.nsf/files/navigation_header/$file/mil_logo.gif" border="0"></a></td><td align="Right" valign="middle">
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="6A8BB6" align="RIGHT">
+<tbody><tr align="RIGHT"><td align="Right" valign="middle">
+<input type="text" name="qt" size="10" border="0" value="" maxlength="500" onkeypress="searchhandleKey(event)"><img src="/images/blank.gif" height="1" width="2" border="0"></td>
+<td align="Right" valign="middle"><a href="javascript:BannerSearch();"><img border="0" src="/config.nsf/files/navigation_header/$file/search_en.gif"></a></td>
+<td align="Right" valign="top"><img src="/config.nsf/files/navigation_header/$file/corner_right.gif" border="0"></td>
+</tr></tbody></table>
+</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" align="CENTER" width="100%">
+<tbody><tr><td height="1" bgcolor="#FFFFFF"><img src="/images/blank.gif" height="1" width="1" border="0"></td></tr>
+<tr><td height="1" bgcolor="#C6C6C6"><img src="/images/blank.gif" height="1" width="1" border="0"></td></tr>
+<tr><td height="1" bgcolor="#FFFFFF"><img src="/images/blank.gif" height="1" width="1" border="0"></td></tr>
+<tr><td height="19" align="CENTER">
+	<a href="/"><img src="/config.nsf/files/navigation_header/$file/home_en.gif" border="0"></a>
+<img src="/config.nsf/files/separator/$file/vertical_div.gif" border="0">
+	<a href="/corporate.nsf/docs/about"><img src="/config.nsf/files/navigation_header/$file/about_mil_en.gif" border="0"></a>
+<img src="/config.nsf/files/separator/$file/vertical_div.gif" border="0">
+	<a href="/markets/bioscience.nsf"><img src="/config.nsf/files/navigation_header/$file/bioscience_en.gif" border="0"></a>
+<img src="/config.nsf/files/separator/$file/vertical_div.gif" border="0">
+	<a href="/markets/bioprocess.nsf"><img src="/config.nsf/files/navigation_header/$file/bioprocess_en.gif" border="0"></a>
+<img src="/config.nsf/files/separator/$file/vertical_div.gif" border="0">
+	<a href="/markets/appliedmkts.nsf"><img src="/config.nsf/files/navigation_header/$file/app_markets_en.gif" border="0"></a>
+<img src="/config.nsf/files/separator/$file/vertical_div.gif" border="0">
+	<a href="/corporate.nsf/docs/customerservice"><img src="/config.nsf/files/navigation_header/$file/cust_support_en.gif" border="0"></a>
+<img src="/config.nsf/files/separator/$file/vertical_div.gif" border="0">
+	<a href="/catalogue.nsf"><img src="/config.nsf/files/navigation_header/$file/online_en.gif" border="0"></a>
+</td></tr>
+<tr><td height="1" bgcolor="#C6C6C6"><img src="/images/blank.gif" height="2" width="1" border="0"></td>
+</tr></tbody></table>
+</td></tr></tbody></table>
+<!--googleon: all-->
+<!--END NAVIGATION HEADER--> <input type="hidden" name="PATH_INFO" value="/ec.nsf/docs/security"> 
+<!--BEGIN WEBLEFTMARGINHEADER-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="TOP"><td colspan="4"><img src="/images/blank.gif" border="0" height="7"></td></tr>
+<tr valign="top">
+<td width="180">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top"><td colspan="3"><img src="/images/blank.gif" border="0" width="7" height="45"></td></tr>
+<tr valign="top"><td><img src="/images/blank.gif" border="0" width="7"></td>
+<td align="Left">
+<!--BEGIN SECTIONNAVBULLETLEFT1--><table border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td width="159" height="40"><img src="/config.nsf/files/navigation_left/$file/customer_support_en.gif" border="0"><br></td></tr>
+<tr valign="top"><td>
+
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/forms.nsf/customerservice">Order Service</a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/forms.nsf/techservice">Technical Service</a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/offices.nsf/home">Local Millipore Office</a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/sales.nsf/home">Local Application Specialists</a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/accounts.nsf/retrieve-password">Retrieve or Change Password</a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/config.nsf/docs/aboutrss">RSS Feeds <img src="/config.nsf/files/rss/$file/xml.gif" border="0"></a><br>
+<a class="milliporeAllLink" href="//webvirtualdocs?open&amp;search_criteria=ftsearch=([form]=ContentPageTop|UrlLinkTop)&amp;webview=webdocs"></a>
+</td></tr></tbody></table></td>
+<td><img src="/images/blank.gif" border="0" width="7"></td></tr>
+<tr><td><img src="/images/blank.gif" border="0" height="1" width="7"></td>
+<td align="Left">
+<!--BEGIN LOGIN-->
+<!--BEGIN WEBLOGINANONYMOUS--><table border="0" cellspacing="0" cellpadding="0" align="LEFT">
+<tbody><tr><td colspan="2"><br><br><a href="javascript:UserLogin()"><img src="/config.nsf/files/navigation_left/$file/login_en.gif" border="0" valign="TOP"></a></td></tr>
+<tr><td colspan="2"><img src="/config.nsf/files/separator/$file/horiz_rule.gif" border="0"></td></tr>
+<tr><td><img src="/images/blank.gif" border="0" height="1" width="5"></td><td align="LEFT" valign="BOTTOM" height="20"><span class="loginText">Username</span>
+<br><font face="Arial" size="1"><input type="text" name="UserNameBranding" value="" size="13"><br><br></font></td></tr>
+<tr><td><img src="/images/blank.gif" border="0" height="1" width="5"></td><td><span class="loginText">Password</span><br><font face="Arial" size="1"><input type="password" name="PasswordBranding" value="" size="15" maxlength="15" onkeypress="loginhandleKey(event)"></font><br></td></tr>
+<tr valign="bottom"><td><img src="/images/blank.gif" border="0" height="1" width="5"></td><td><a class="button" href="javascript:UserLogin()">Login</a><span class="loginText"><img src="/images/blank.gif" border="0" height="20" width="5"> | <img src="/images/blank.gif" border="0" height="1" width="5"></span><a class="button" href="/accounts.nsf/profile-new">Register</a><input name="validation_messageBranding" value="The following fields are required before continuing" type="hidden"><br>
+<input name="UserNameBranding_msg" value="Username" type="hidden"><br>
+<input name="PasswordBranding_msg" value="Password" type="hidden">
+</td></tr></tbody></table>
+
+</td>
+<td><img src="/images/blank.gif" border="0" height="1" width="7"></td></tr>
+<tr align="Left" valign="MIDDLE"><td><img src="/images/blank.gif" border="0" width="7"></td>
+<td align="Left"><!--BEGIN MINICART--><!-- CART EMPTY--><!--END MINICART--></td>
+<td><img src="/images/blank.gif" border="0" width="7"></td></tr>
+<tr align="Left" valign="TOP"><td><img src="/images/blank.gif" border="0" width="7"></td>
+<td><img src="/config.nsf/files/separator/$file/horiz_rule.gif" border="0"></td>
+<td><img src="/images/blank.gif" border="0" width="7"><br><br></td></tr>
+<tr valign="top"><td><img src="/images/blank.gif" border="0" width="7"></td>
+<td align="Left">
+<!--BEGIN SECTIONNAVBULLETLEFT2--><table border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td width="159" height="40"><img src="/config.nsf/files/navigation_left/$file/online_store_en.gif" border="0"><br></td></tr>
+<tr valign="top"><td>
+
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/catalogue.nsf/home">Catalogue</a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/ec.nsf/docs/howtutorial">How to Order</a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/ec.nsf/docs/faq">eCommerce FAQs</a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/ec.nsf/docs/pricing">Availability and Pricing</a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/accounts.nsf/profile-new">Register</a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/ec.nsf/quickpurchase">Quick Purchase</a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/ec.nsf/millitrack">Where's My Order?</a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/ec.nsf/docs/5d9rxp">Procurement System Integration</a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/accounts.nsf/accountprofile">Manage Account Settings</a><br>
+<a class="milliporeAllLink" href="//webvirtualdocs?open&amp;search_criteria=ftsearch=([form]=ContentPageTop|UrlLinkTop)&amp;webview=webdocs"></a>
+</td></tr></tbody></table></td>
+<td><img src="/images/blank.gif" border="0" width="7"></td></tr></tbody></table></td>
+<td bgcolor="C6C6C6" width="3"><img src="/images/blank.gif" border="0" width="3" height="1"></td>
+<td><img src="/images/blank.gif" border="0" height="7" width="7"></td>
+<td>
+<!--BEGIN WEBBRANDING-->
+<table border="0" cellspacing="0" cellpadding="0" valign="TOP"><tbody><tr valign="Top" height="25"><td><img src="/ec.nsf/files/system/$file/OnlineStore.gif" border="0"></td></tr><tr valign="Top"><td><img src="/config.nsf/files/separator/$file/horiz_rule_long.gif" border="0"></td></tr></tbody></table><!-- Top Level Navigation--><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="6">&nbsp;</td><td width="550">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top"><td width="72%"><font size="2" face="Arial"><br><br><br></font><br>
+<b><font size="4" color="#6A8BB6" face="Arial">SECURITY &amp; PRIVACY</font></b><br>
+<img src="/ec.nsf/dda0cb48c91c0fb6852567430063b5d6/42385d09abf2f27585256b3300506da5/en_RTBody/0.246?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""></td><td width="1%">&nbsp;&nbsp;</td><td width="27%"><script src="https://seal.verisign.com/getseal?host_name=www.millipore.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=NO"></script></td></tr>
+</tbody></table>
+<font size="2" face="Arial">Millipore Security protocols adhere to the latest US standards; your information is encrypted during your e-commerce sessions with Millipore. </font><br>
+<br>
+<font size="2" face="Arial">We do not store credit card or purchasing card information on our web server, and do require a re-entry of the credit card number for each purchase. This is an added level of security, and helpful in laboratories or purchasing departments with multiple users of a central computer. </font><br>
+<br>
+<font size="2" face="Arial">Security audits are conducted by third parties in order to further ensure security.</font><br>
+<br>
+<br>
+<b><font color="#6A8BB6" face="Arial">Millipore Online Privacy Policy</font></b><br>
+<img src="/ec.nsf/dda0cb48c91c0fb6852567430063b5d6/42385d09abf2f27585256b3300506da5/en_RTBody/0.FA8?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""><br>
+<br>
+<font size="2" face="Arial">This Policy relates only to our online information collection and use practices. At Millipore we recognize that many consumers who visit our web site are concerned about any information they provide us on-line, and how we maintain and use this information. To address these concerns and to demonstrate our commitment to privacy we have developed and implemented this Privacy Policy for our domestic (i.e., U.S.) company. This Policy relates only to our online information collection and use practices. As this policy may change from time to time, we encourage you to periodically check it. </font><br>
+<br>
+<font size="2" face="Arial">In short, we do the following: </font><br>
+<br>
+<font color="#B02828" face="Arial">• </font><font size="2" face="Arial">We only collect personally identifiable information that you voluntarily and knowingly provide us.</font><br>
+<font color="#B02828" face="Arial">• </font><font size="2" face="Arial">We use the information that you provide us only for the purpose(s) for which you specifically provided it or for specific additional purposes for which we receive your prior consent.</font><br>
+<font color="#B02828" face="Arial">• </font><font size="2" face="Arial">We do not share any information you provide us with anyone outside of Millipore Corporation, except for suppliers who assist us in maintaining and managing the activities on our site. These suppliers are legally obligated to maintain the confidentiality of any information we provide them, including your information.</font><br>
+<font color="#B02828" face="Arial">• </font><font size="2" face="Arial">We may use a technology called “cookies” to enhance your experience on our site.</font><br>
+<font color="#B02828" face="Arial">• </font><font size="2" face="Arial">We employ appropriate security measures to protect the loss, misuse and alteration of any information you provide us.</font><br>
+<font color="#B02828" face="Arial">• </font><font size="2" face="Arial">We provide you with choice and control over the collection and use of any personally identifiable information that you provide us on-line, and a means for updating, correcting or removing this information .</font><br>
+<br>
+<font size="2" face="Arial">Below is a more detailed explanation of our policy in each of these areas.</font><br>
+<br>
+<br>
+<b><font color="#6A8BB6" face="Arial">Information We Collect and How We Use It </font></b><br>
+<img src="/ec.nsf/dda0cb48c91c0fb6852567430063b5d6/42385d09abf2f27585256b3300506da5/en_RTBody/0.2070?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""><br>
+<br>
+<b><font size="2" face="Arial">General</font></b><br>
+<font size="2" face="Arial">We only collect personally identifiable information on a voluntary basis. We do not require that you provide this information to gain access to our site, and we do not require you to disclose more information than is reasonably needed to participate in an activity on our site. We collect personally identifiable information primarily to e-mail updates and news, to respond to your questions or suggestions, and to complete online transactions. We do not sell any information we gather at our web site to anyone outside of Millipore Corporation. We do not transfer or disclose any information we gather at our web site to anyone outside of Millipore Corporation without your prior consent, except (1) in cases where we believe in good faith that we have a legal obligation to disclose such information, and (2) to certain suppliers that assist Millipore in maintaining and managing the activities on its web site. Please be assured that these suppliers are legally obligated to maintain the confidentiality of this information and do not acquire any rights to use your information for their own benefit. We may share non-identifiable aggregate information about our users with business partners and other third parties in an effort to customize or enhance the content and advertising on our site for our users. </font><br>
+<br>
+<font size="2" face="Arial">We do reserve the right, in connection with the potential sale or transfer of the interests of Millipore and its subsidiaries and affiliates, to sell or transfer your information (including but not limited to your address, name, age, gender, zip code, state, and country of residency and other information that your provide through other communications) to a third party entity that (1) concentrates its business in a similar practice or service, (2) agrees to be Millipore’s  successor in interest with regard to the maintenance and protection of the information collected, and (3) agrees to the obligations of this privacy policy.</font><br>
+<br>
+<b><font size="2" face="Arial">Polls &amp; Surveys</font></b><br>
+<font size="2" face="Arial">We periodically conduct polls and surveys on our site. The information we collect from these polls and surveys is only for Millipore’s use. If sample answers to polls or surveys are posted our web site, no identifiable information is included.</font><br>
+<br>
+<b><font size="2" face="Arial">Online Purchasing</font></b><br>
+<font size="2" face="Arial">When you order from us on our website we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information,  in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use.</font><br>
+<font size="2" face="Arial"> </font><br>
+<b><font size="2" face="Arial">Cookies </font></b><br>
+<font size="2" face="Arial">Like many companies, we use a technology called “cookies” to enhance your experience on our site. We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.</font><br>
+<font size="2" face="Arial">The cookies Millipore uses do not contain any personally identifiable information and can not profile your system or collect information from your hard drive. You are not identified by name or e-mail address, just by a unique string of numbers that we assign the first time you come to our site.</font><br>
+<font size="2" face="Arial"> </font><br>
+<b><font size="2" face="Arial">Security </font></b><br>
+<font size="2" face="Arial">We employ appropriate security measures to protect the loss, misuse and alteration of the information under our control. For our e-commerce activities, we employ Secure Sockets Layer (SSL) software, which encrypts information you input, as an additional security measure. However, as no on-line data transmission can be guaranteed to be totally secure, we (like all web sites) cannot warrant or guarantee 100% security of any information you transmit to us at our web site. </font><br>
+<br>
+<b><font size="2" face="Arial">Other Uses</font></b><br>
+<font size="2" face="Arial">From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.  If you are concerned about how your information is used, you should check back at our Web site periodically.</font><br>
+<br>
+<br>
+<b><font color="#6A8BB6" face="Arial">Choice and Control </font></b><br>
+<img src="/ec.nsf/dda0cb48c91c0fb6852567430063b5d6/42385d09abf2f27585256b3300506da5/en_RTBody/0.3C6A?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""><br>
+<br>
+<b><font size="2" face="Arial">Choice/Opt-In</font></b><br>
+<font size="2" face="Arial">Our site provides you the opportunity to opt-in to receive communications from us, as described at each opt-in opportunity. Further, when you receive the requested communication, you are given the opportunity to unsubscribe from receiving any future communications or to change your information.</font><br>
+<br>
+<b><font size="2" face="Arial">Control</font></b><br>
+<font size="2" face="Arial">You can always ask to review any personal information that we may have collected from you at our web site, have us update, correct or delete this information (if we still have the information in our databases), and/or instruct us not to use this information in the future. If you wish to exercise this right, simply Contact Us.</font><br>
+<br>
+<b><font size="2" face="Arial">Links To Other Sites</font></b><br>
+<font size="2" face="Arial">Millipore does not guarantee the content of other sites for which we provide a link.</font><br>
+<br>
+<font size="2" face="Arial"> </font><br>
+<b><font color="#6A8BB6" face="Arial">How To Contact Us </font></b><br>
+<img src="/ec.nsf/dda0cb48c91c0fb6852567430063b5d6/42385d09abf2f27585256b3300506da5/en_RTBody/0.486E?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""><br>
+<br>
+<font size="2" face="Arial">If you have any questions or concerns about our Privacy Policy or your dealings with this web site, you can contact us </font><a href="/forms.nsf/webmaster"><font size="2" face="Arial">here</font></a><font size="2" face="Arial"> or at: </font><br>
+<br>
+<font size="2" face="Arial">Millipore Corporation</font><br>
+<font size="2" face="Arial">290 Concord Rd.</font><br>
+<font size="2" face="Arial">Billerica, MA </font><br>
+<font size="2" face="Arial">Attention: Legal Department</font><br>
+<br>
+<font size="2" face="Arial">Last Revised: August 5, 2004</font><br>
+</td></tr></tbody></table>
+<!--BEGIN SECTIONSITENAVIGATIONBULLET-->
+
+<a name="AdditionalInfo">
+
+<!--hide in NavigationMenu_Primary is null-->
+
+<!--hide in NavigationMenu_Primary is NOT null-->
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr align="CENTER" valign="TOP"><td colspan="5"><br><img src="/config.nsf/files/separator/$file/horiz_rule_long.gif" border="\&quot;0\&quot;"><br><br></td></tr>
+<tr valign="TOP"><td width="159" height="158"></td><td><img src="/images/blank.gif" border="0" width="22" height="1"></td>
+<td width="159" height="158"></td><td><img src="/images/blank.gif" border="0" width="22" height="1"></td>
+<td width="159" height="158"></td></tr>
+<tr valign="TOP"><td colspan="5"><img src="/images/blank.gif" border="0" height="30"></td></tr>
+<tr><td width="159" height="158"></td><td><img src="/images/blank.gif" border="0" width="22" height="1"></td>
+<td width="159" height="158"></td><td><img src="/images/blank.gif" border="0" width="22" height="1"></td>
+<td width="159" height="158"></td></tr></tbody></table>
+
+</a>
+
+<br>
+<!--BEGIN WEBLEFTMARGINFOOTER-->
+</td></tr></tbody></table><br>
+<!--BEGIN LANGUAGENAVIGATION-->
+<table cellspacing="0" cellpadding="0" border="0" width="100%" height="27" align="CENTER">
+
+<tbody><tr><td align="CENTER" height="7"><img src="/images/blank.gif" border="0"></td></tr>
+<tr><td align="CENTER" height="7"><img src="/config.nsf/files/navigation_header/$file/banner_bk.gif" border="0" height="7" width="100%"></td></tr>
+
+<tr valign="Middle"><td align="Center"><font face="Arial" size="1" color="000000"><font size="2" face="Arial"><font size="1" color="0000ff" face="Arial"><a class="navlanguage" href="javascript:SetCookie('lang', 'en', exp);window.location.replace(window.location);" onmouseover="wpMO('', '', 'Click for English Language'); return true">English</a></font></font><font size="2" face="Arial"> | </font><font size="2" face="Arial"><font size="1" color="0000ff" face="Arial"><a class="navlanguage" href="javascript:SetCookie('lang', 'fr', exp);window.location.replace(window.location);" onmouseover="wpMO('', '', 'Cliquez ici pour communiquer en français'); return true">Français</a></font></font><font size="2" face="Arial"> | </font><font size="2" face="Arial"><font size="1" color="0000ff" face="Arial"><a class="navlanguage" href="javascript:SetCookie('lang', 'it', exp);window.location.replace(window.location);" onmouseover="wpMO('', '', 'Click per l\'italiano'); return true">Italiano</a></font></font><font size="2" face="Arial"> | </font><font size="2" face="Arial"><font size="1" color="0000ff" face="Arial"><a class="navlanguage" href="javascript:SetCookie('lang', 'de', exp);window.location.replace(window.location);" onmouseover="wpMO('', '', 'Hier klicken, um zu  Deutsch überzuwechseln'); return true">Deutsch</a></font></font><font size="2" face="Arial"> | </font><font size="2" face="Arial"><font size="1" color="0000ff" face="Arial"><a class="navlanguage" href="javascript:SetCookie('lang', 'es', exp);window.location.replace(window.location);" onmouseover="wpMO('', '', 'Haga clic para elegir español'); return true">Español</a></font></font><font size="2" face="Arial"> | </font><font size="2" face="Arial"><font size="1" color="0000ff" face="Arial"><a class="navlanguage" href="javascript:SetCookie('lang', 'pt', exp);window.location.replace(window.location);" onmouseover="wpMO('', '', 'Clique aqui para usar o idioma portuguese'); return true">Português</a></font></font><font size="2" face="Arial"> | </font><font size="2" face="Arial"><font size="1" color="0000ff" face="Arial"><a class="navlanguage" href="javascript:SetCookie('lang', 'ja', exp);window.location.replace(window.location);" onmouseover="wpMO('', '', 'クリックして日本語を表示'); return true">日本語</a></font></font></font></td></tr>
+<tr><td align="CENTER" height="7"><img src="/images/blank.gif" border="0"></td></tr>
+</tbody></table><br>
+<!--BEGIN WEBNAVIGATIONFOOTER--></td></tr></tbody></table>
+
+</td><td width="7"><img src="/images/blank.gif" border="0"></td></tr></tbody></table>
+
+</td><td bgcolor="C6C6C6" width="3"><img src="/images/blank.gif" border="0"></td></tr>
+<tr align="CENTER"><td colspan="3" bgcolor="C6C6C6" height="15"><img src="/images/blank.gif" border="0"></td></tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="TOP" align="CENTER"><td><font face="Arial" size="1" color="000000"><font size="2" face="Arial"><a class="navfooter" href="/"><font face="Arial" label="" size="1">Home</font></a><font size="2" face="Arial"> | </font><font size="2" face="Arial"><a class="navfooter" href="/ec.nsf/country"><font face="Arial" label="" size="1">Change Country</font></a><font size="2" face="Arial"> | </font><font size="2" face="Arial"><a class="navfooter" href="/corporate.nsf/docs/legal"><font face="Arial" label="" size="1">Legal/Trademark</font></a><font size="2" face="Arial"> | </font><font size="2" face="Arial"><a class="navfooter" href="/corporate.nsf/docs/sitemap"><font face="Arial" label="" size="1">Site Map</font></a><font size="2" face="Arial">  | </font><font size="2" face="Arial"><a class="navfooter" href="/ec.nsf/docs/security"><font face="Arial" label="" size="1">Privacy</font></a><font size="2" face="Arial"> | </font><font size="2" face="Arial"><a class="navfooter" href="/forms.nsf/webmaster"><font face="Arial" label="" size="1">Feedback</font></a></font><br><font size="1" color="006699" face="Arial">© 1994-2005 Millipore Corporation or an affiliated company. All rights reserved.</font>
+</font></font></font></font></font></font></td></tr></tbody></table>
+
+
+<!--END WEBNAVIGATIONFOOTER-->
+
+
+
+
+
+
+
+<input type="text" name="defaultedit" style="visibility:hidden" size="1" border="0">
+
+<p><noscript></form>
+</body>
+</html>
+</noscript></p></form></body></html>
