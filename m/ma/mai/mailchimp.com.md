@@ -1,71 +1,96 @@
-> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306043832id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227041548id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
 
 # MailChimp Privacy Policy
 
-_Last edited: 08/16/2004_
+| [](http://www.rocketsciencegroup.com/)  
+---|---  
+  
+### A. Our Pledge to You
 
-MailChimp is a product of **[The Rocket Science Group, LLC](http://www.rocketsciencegroup.com/)**.  
-We can be reached via e-mail [by clicking here...](https://web.archive.org/web/20050306043832id_/http%3A//www.mailchimp.com/contact.phtml)  
-or you can reach us by telephone at (678) 999-0141  
+  1. When you sign up for a free trial, you will not be nagged into paying us money, and you will not be automatically subscribed to any promotional emails. 
+  2. Your personal information (and your customer information) will be kept strictly confidential. It is never sold, given away, or shared with anyone. 
+  3. We do not send promotional messages to you unless you explicitly request to receive them. 
+  4. We don't believe in sending those annoying "why won't you buy?" emails to free trial members while they are evaluating our system. We may, however, send an automated email asking you if you'd like to deactivate your free trial (if you don't use it after signing up). We like to remove dormant accounts from our system, to keep our database clean. 
+  5. Nobody is automatically subscribed to any general MailChimp marketing emails. We believe people should only receive emails if they opted in for them. If you do subscribe to any MailChimp marketing, we always provide a link to unsubscribe from our list. 
 
 
-### Quick Summary:
 
-We don't collect any information from people simply visiting our site, or from people requesting a sample email be sent to them.
+### B. We _NEVER_ Touch Your Customer Lists
 
-**With respect to YOUR lists:**
+  1. Your recipient lists are stored on the MailChimp server. We do not, under any circumstances, steal your list, contact your list, market to your list, sell your list, or share it with any other party, unless required to by law. Your recipient list is kept strictly confidential. 
+  2. Only carefully selected, authorized personnel have access (for customer service and abuse-monitoring purposes) to view system accounts and campaigns. 
 
-  * When you use Mail Chimp, you'll enter email addresses of your recipients. These recipients' email addresses are stored in your account, and will NEVER be contacted by us. 
-  * We do not, and will not, share, give away, or sell any of your (or your recipients') information to anyone. Ever. That's just slimy. 
+
+
+### C. Transactional and Mandatory Emails That We'll Be Sending You
+
+  1. When you use your credit card to place an order with MailChimp, you will naturally be receiving an email receipt for your purchase. 
+  2. If you have not logged into MailChimp's system for 6 months, your account is considered "dormant." To keep our system clean, we periodically send followup emails to dormant accounts with a link allowing them to permanently shut down their accounts. 
+  3. All registered, active (non-dormant), MailChimp user accounts may receive mandatory "System Alert" messages which usually consist of: planned outages, system improvements (that may directly affect your account), version updates, point releases, abuse warnings, and important customer service information. Our "System Alert" messages are brief and non-promotional in nature. We promise to keep them as boring as possible. 
+  4. If you sign up for a free trial, but never activate your account or log in, we may send an automatic followup email within a few weeks (in case you never got your login instructions the first time). 
+  5. If you submit a help ticket to MailChimp, our system might automatically send you a brief survey email, requesting your feedback on how your issue was resolved. We use this information to improve our customer service. Submitting a help ticket does not add you to any mailing list. 
+
+
+
+### D. Promotional Emails That We Send
+
+We do not send promotional emails unless you have requested them. 
+
+  1. From time to time, we send a "MailChimp News" email newsletter to registered users who affirmatively select the "opt-in" checkbox in their account settings for "Yes, send me MailChimp News." We do not automatically send this newsletter to all users. If you opt-in, then later change your mind, there are 2 ways to opt-out: 1) Click the "unsubscribe link" that we include in every newsletter, or 2) Log in to MailChimp, and un-check the box. 
+
+
+
+### E. Use of Cookies
+
+  1. When you visit our website, we don't automatically collect any personally identifiable information about you. 
+  2. The cookies we place do not personally identify visitors on our website, unless the visitor is a registered user of MailChimp. 
+  3. We temporarily store session information, so that registered users do not have to login every time they visit the site. 
+  4. We place temporary cookies on web pages so that we can see how visitors use our website, but they do not personally identify users (we use this information to improve our website experience) 
+  5. We place a transparent tracking bug on certain web pages to track the performance of online ads placed on other websites. The trackers do not personally identify any visitors to our website. They simply tell us about the performance of our online advertising 
+  6. We do not partner with or have special relationships with any ad server companies. 
+  7. When we send emails to our own registered MailChimp customers, we'll sometimes track who opened and who clicked. We do this to measure the performance of our email campaigns, and to improve our offerings to specific customer segments. 
+
+
+
+### F. Safeguarding Your Information
+
+  1. To protect your information, our credit card processing vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. In addition, our vendor is certified as compliant with card association security initiatives, such as the Visa Cardholder Information Security Program (CISP), MasterCard® (SDP), and Discover Information Security and Compliance (DISC). 
+  2. MailChimp accounts require username and password to log in. When you're finished using MailChimp, please click the "log out" link in the top right corner of your screen, to prevent someone from using your computer to access your account 
+  3. Due to the sensitive nature of your recipient lists, we do not re-send forgotten passwords. Users must follow online instructions to reset their passwords if they forget them. 
+  4. Account passwords are encrypted from our own system admins. We cannot see your passwords. We can only reset them. 
+
+
+
+### G. Children under 13
+
+  1. We do not knowingly provide accounts, or market to, or solicit information from, children under the age of 13. Our [terms](http://www.mailchimp.com/terms.phtml) stipulate you must be 18 years or older to use the MailChimp system. 
 
   
-**With respect to your email campaigns:**  
-Yes, we can see what you're sending out through our server---we monitor our system constantly for abuse. We'll boot you from our system if you: 
-
-  * Are sending spam 
-  * Send sick stuff 
-  * Abuse our system in any way 
-  * Violate our [Terms of Use](https://web.archive.org/terms.phtml "Opens new window")
-
-  
-We'll only contact our own **registered users** if: 
-
-  * Mail Chimp services or policies change in any way that affects registered users 
-  * We experience problems with your payments 
-  * You are found in violation of our terms (if we're getting complaints of abuse from your account, for example) 
-
 
 
 * * *
 
-### Boring version:
+  
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-We collect information volunteered by the consumer, such as survey information and/or site registrations.
+MailChimp is a product of [The Rocket Science Group](http://www.rocketsciencegroup.com/). You can contact us at:  
+**The Rocket Science Group, LLC**  
+530 Means Street, Suite 404  
+Atlanta, GA 30318  
+(678)999-0141
 
-The information we collect is used to improve the content of our Web page, not shared with other organizations for commercial purposes.
+Or email us [here.](https://web.archive.org/web/20051227041548id_/http%3A//www.mailchimp.com/contact.phtml)
 
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart and temporarily store session information, so that registered users do not have to login everytime they visit the site..
+* * *
 
-If you do not want to receive e-mail from us in the future, please let us know by or [sending an email](https://web.archive.org/web/20050306043832id_/http%3A//www.mailchimp.com/contact.phtml)
+_Edited: November 30, 2005_  
+_Summary of edits: Added "the types of emails we send" to better set expectations. Added information about cookies, and what we track in our own emails to customers and opt-in subscribers. Moved items from the "Pledge" to the "types of emails we send" sections._
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services, or changes to your account. If you do not wish to receive such mailings, please let us know by or sending an email to accountservices@mailchimp.com.
+_Edited: November 29, 2005_  
+_Summary of edits: Changed "MailChimp" to "The Rocket Science Group" in mailing address._
 
-Please provide us with your exact name and email address. We will be sure your name is removed from the list. 
+_Edited: November 21, 2005_  
+_Summary of edits: Added logos and links to RSG. Changed bullet points to numbers, for easy reference. Changed "update" to "alert" in section A, item 4._
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line, or changes to their account.
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Consumers can access this information by or logging in to their account and changing their information. 
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
-
-Consumers can have this information corrected by logging in to their account and changing their information.. 
-
-With respect to security: When we transfer and receive certain types of sensitive information such as credit card purchases, we redirect visitors to a secure server.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+_Edited: September 30, 2005_  
+_Summary of edits: Changed header titles, to make them less vague._
