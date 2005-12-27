@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the jimtrade.com privacy policy that was archived on 2005-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050415122249id_/http%3A//www.jimtrade.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimtrade.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227184738id_/http%3A//www.jimtrade.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy  
-   
-Collection of information  
+* * *  
+  
+| Privacy Policy  
+---  
+  
+| Collection of information  
+---  
 When you visit our website, we do not collect personally identifiable information about you, except when you specifically and knowingly provide it. For instance, while many areas of our website are free to all users, we do require registration for some services such as Trade Alert. If you decide to register for these services, or if you request information from us, you will be asked to provide certain information and details, including your name, company, title, country and e-mail address. The information you provide helps us create customized content like Trade Alert. You will receive information only for the products that interest you.
 
 Our system also logs some basic and generic information about your computer, including its:
@@ -153,9 +157,4 @@ _If you are using Netscape version 6:_
 If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on where to find your cookie folder to delete your cookies.  
 Our Contact Information  
 If you have any queries, comments or concerns, or require any help on cookie-related matters, please feel free to contact us at: [support@jimtrade.com](mailto:support@jimtrade.com?Subject=Mail%20from%20JimTrade%20-%20Privacy%20Policy) or Customer Services, 336, Laxmi Plaza, Laxmi Industrial estate, New Link Road, Andheri (W), Mumbai - 400 053. India.  
-  
-  
-* * *  
-  
-[About JimTrade](https://web.archive.org/web/20050415122249id_/http%3A//www.jimtrade.com/corporate/aboutus.htm) \- [Sign In](https://web.archive.org/web/20050415122249id_/http%3A//www.jimtrade.com/corporate/signin.htm) \- [Join Free](https://web.archive.org/web/20050415122249id_/http%3A//www.jimtrade.com/corporate/joinfree.htm) \- [Help & FAQ](https://web.archive.org/web/20050415122249id_/http%3A//www.jimtrade.com/corporate/help.htm) \- [Contact Us](https://web.archive.org/web/20050415122249id_/http%3A//www.jimtrade.com/corporate/contactus.htm) \- [Site Map](https://web.archive.org/web/20050415122249id_/http%3A//www.jimtrade.com/corporate/sitemap.htm) \- [Safe Trading Tips](https://web.archive.org/web/20050415122249id_/http%3A//www.jimtrade.com/corporate/tradingtips.htm)  
-Copyright © 2005 Jupiter Infomedia Pvt. Ltd. All rights reserved including the right to reproduce the contents in whole or in part in any form or medium without the express written permission of Jupiter Infomedia Pvt. Ltd. is prohibited. Your use of this website is subject to, and constitutes acknowledgement and acceptance of, our [Terms of Use](https://web.archive.org/web/20050415122249id_/http%3A//www.jimtrade.com/corporate/terms.htm). Refer our [Privacy Policy](https://web.archive.org/web/20050415122249id_/http%3A//www.jimtrade.com/corporate/privacypolicy.htm) and our [Security measures](https://web.archive.org/web/20050415122249id_/http%3A//www.jimtrade.com/corporate/security.htm)
+
