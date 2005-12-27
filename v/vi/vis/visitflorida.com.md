@@ -1,20 +1,9 @@
-> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407173045id_/http%3A//www.visitflorida.com/cms/index.php/id%3D622) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227230213id_/http%3A//visitflorida.com/cms/index.php/id%3D622) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-
-
   
-
-
-You currently have _0_ items in your custom travel guide.
-
-Click to [view your items](https://web.archive.org/planning/travel_cart/).
-
-  
-Save the information in your cart, [login](https://web.archive.org/tools/register/) or [register](https://web.archive.org/tools/register/) now. 
-
 |  **You are here:**   [Home](https://web.archive.org/) / [Tools](https://web.archive.org/cms/index.php/id=617) / Privacy Policy
 
 Privacy Policy  
@@ -76,8 +65,8 @@ VISIT FLORIDA retains the right to change this Privacy Statement. For your benef
 **Florida Hot Vacation Deals**  
 The offers provided on this(ese) page(s) are the sole responsibility of the vendors making the offers. VISIT FLORIDA makes no representation as to the accuracy or reliability of the offers being made, or of the values represented herein. Consumers wishing to take advantage of these offers are urged to use diligence in doing so and to understand that they do so at their own risk. 
 
-**DoubleClick**  
-This site uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go [here](http://www.doubleclick.net/us/corporate/privacy).
+**Open AdStream - 24/7 Real Media**  
+This site uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, 24/7 Real Media. These files enable 24/7 Real Media to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with 24/7 Real Media. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. 
 
 This statement is effective as of 11/07/2003.
 
