@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banfflakelouise.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611085316id_/http%3A//www.banfflakelouise.com/m_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banfflakelouise.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227183431id_/http%3A//banfflakelouise.com/m_privacy.html) for the most accurate reproduction.*
 
 # The Banff, Lake Louise Tourism Bureau - Privacy
 
