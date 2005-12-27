@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the classesusa.com privacy policy that was archived on 2005-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050507133003id_/http%3A//www.classesusa.com/info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classesusa.com privacy policy that was archived on 2005-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051227195215id_/http%3A//classesusa.com/info/privacy.html) for the most accurate reproduction.-->
 
-<html><!-- Application Server: web02.classesusa.com:8888 --><!-- Build tag: version_4249 --><!-- Page generation time Fri May 06 22:28:46 EDT 2005 --><head>
+<html><!-- Application Server: web02.classesusa.com:8888 --><!-- Build tag: version_7905 --><!-- Page generation time Tue Dec 27 10:47:20 EST 2005 --><head>
 <title>Classes USA - Privacy Policy</title>
 <link rel="stylesheet" type="text/css" href="../includes/stylesusa.css">
 <style type="text/css">
@@ -9,7 +9,7 @@
 .nouline {  text-decoration: none}
 .leading {  line-height: 9pt; letter-spacing: normal; font-size: 7.5pt}
 .lnht {  line-height: 9pt}
-.whiteLink { color: #FFFFFF }
+.whiteLink { color: #959595 }
 .redLink{ color: #9A2926 }
 .blueLink{ color: #3B4898 }
 .height {  line-height: 12pt}
@@ -20,15 +20,17 @@
 <!--
 //Preload Images
 var imgvar1=new Image();
-imgvar1.src="http://imgcache.classesusa.com/images/nv_home_sel.gif";
+imgvar1.src="http://imgcache.classesusa.com/images/nv_home_sel-new.gif";
 var imgvar2=new Image();
-imgvar2.src="http://imgcache.classesusa.com/images/nv_degrees_sel.gif";
+imgvar2.src="http://imgcache.classesusa.com/images/nv_degrees_sel-new.gif";
 var imgvar3=new Image();
-imgvar3.src="http://imgcache.classesusa.com/images/nv_about_sel.gif";
+imgvar3.src="http://imgcache.classesusa.com/images/campus-over-new.gif";
 var imgvar4=new Image();
-imgvar4.src="http://imgcache.classesusa.com/images/nv_prep_sel.gif";
+imgvar4.src="http://imgcache.classesusa.com/images/nv_about_sel-new.gif";
 var imgvar5=new Image();
-imgvar5.src="http://imgcache.classesusa.com/images/nv_loan_sel.gif";
+imgvar5.src="http://imgcache.classesusa.com/images/nv_prep_sel-new.gif";
+var imgvar6=new Image();
+imgvar6.src="http://imgcache.classesusa.com/images/nv_loan_sel-new.gif";
 var previmg;
 function MouseOverImage(num){
 eval("previmg = document.image"+num+".src;");
@@ -45,11 +47,18 @@ day = new Date();
 id = day.getTime();
 eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=491,height=300,left = 411.5,top = 383.5');");
 }
+var exiting=true;
+function setExiting(b) {
+exiting=b;
+}
 //-->
 </script>
 </head>
-<body bgcolor="#959595" text="#000000" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" link="#000099" vlink="#000099" alink="#000099">
+<body bgcolor="#ffffff" text="#000000" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" link="#000099" vlink="#000099" alink="#000099">
 <!-- Begin Tags Includes -->
+<script language="javascript">
+document.cookie='sess' + '=' + escape('D22CCF0BC5C0E216F6F1B5699C990408');
+</script>
 <style type="text/css">
 <!--
 .hpix {position: absolute; z-index: 3}
@@ -60,8 +69,20 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
 function cmStripBad(s) {
 return s.split("'").join('').split(',').join('');
 }
+function getJsession() {
+var c = 'JSESSIONID=';
+var s,e;
+if ((s = document.cookie.indexOf(c)) > -1) {
+s+=c.length;
+if ((e = document.cookie.indexOf(';',s)) == -1) {
+e = document.cookie.length;
+}
+return document.cookie.substring(s,e);
+}
+}
 //-->
 </script>
+<script language="javascript" src="//imgcache.classesusa.com/tinit/init.js"></script>
 <script language="javascript1.1" type="text/javascript">
 <!--
 var cmJv="1.1";
@@ -104,50 +125,76 @@ cmSetProduction();
 cmCreateTechPropsTag(cmStripBad("FOS:OTHER:/WEB-INF/content/jsp/info/privacy.jsp"), cmStripBad("FOS:OTHER"));
 //-->
 </script>
-<img class="hpix" src="http://servedby.advertising.com/site=695501/mnum=1516/bins=1/rich=0/logs=0/betr=clsusa_cs=1" height="1" width="1" border="0">
+<img class="hpix" src="//servedby.advertising.com/site=695501/mnum=1516/bins=1/rich=0/logs=0/betr=clsusa_cs=1" height="1" width="1" border="0">
 <!-- End Tag Includes -->
+<center>
+<script language="javascript">
+function getCookie(cookiename) {
+var cookiestring=""+document.cookie;
+var index1=cookiestring.indexOf(cookiename);
+if (index1==-1 || cookiename=="") return "";
+var index2=cookiestring.indexOf(';',index1);
+if (index2==-1) index2=cookiestring.length;
+return unescape(cookiestring.substring(index1+cookiename.length+1,index2));
+}
+var file = getCookie('cobrand_banner_file');
+var height = getCookie('cobrand_banner_height');
+var width = getCookie('cobrand_banner_width');
+if (file != null && file.length > 0) {
+document.write('<iframe id="cobrand" src="' + file + '" marginwidth="0" scrolling="no" width="' + width + '" height="' + height + '"  frameborder="no" framespacing="0" name="cobrand">This is a cobranded iframe</iframe>');
+}
+</script>
+</center>
 <!-- Being Header -->
-<table cellpadding="0" cellspacing="0" border="0" width="750">
+<table cellpadding="0" cellspacing="0" border="0" width="750" align="center">
 <tbody><tr>
-<td rowspan="2" bgcolor="#999999" height="60" width="178"><img src="http://imgcache.classesusa.com/images/classesusalogo.gif"></td>
-<td colspan="2" valign="center" align="right" bgcolor="#999999" height="33" width="572">
+<td rowspan="2" bgcolor="#ffffff" height="60" width="178"><img src="http://imgcache.classesusa.com/images/classesusalogo-new.gif"></td>
+<td colspan="2" valign="center" align="right" bgcolor="#ffffff" height="33" width="572">
 <!-- Begin Top Nav -->
 <table cellpadding="0" cellspacing="0" border="0" height="13">
 <tbody><tr>
 <!-- Being Item -->
-<td height="13"><a href="../index.html" onmouseover="MouseOverImage(1)" onmouseout="MouseOutImage(1)"><img src="http://imgcache.classesusa.com/images/nv_home.gif" name="image1" border="0" height="13"></a></td>
+<td height="13"><a href="../index.html" onmouseover="MouseOverImage(1)" onmouseout="MouseOutImage(1)" onclick="setExiting(false);"><img src="http://imgcache.classesusa.com/images/nv_home-new.gif" name="image1" border="0" height="13"></a></td>
 <!-- End Item -->
 <!-- Begin Nav Div -->
 <td height="13" width="10"><img src="http://imgcache.classesusa.com/images/spacer.gif" height="1" width="10"></td>
-<td height="13" width="2"><img src="http://imgcache.classesusa.com/images/nv_div.gif" height="13" width="2"></td>
+<td height="13" width="2"><img src="http://imgcache.classesusa.com/images/nv_div-new.gif" height="13" width="2"></td>
 <td height="13" width="10"><img src="http://imgcache.classesusa.com/images/spacer.gif" height="1" width="10"></td>
 <!-- End Nav Div -->
 <!-- Being Item -->
-<td height="13"><a href="../featuredschools/fos/index.html" onmouseover="MouseOverImage(2)" onmouseout="MouseOutImage(2)"><img src="http://imgcache.classesusa.com/images/nv_degrees.gif" name="image2" border="0" height="13"></a></td>
+<td height="13"><a href="../featuredschools/fos/index.html" onmouseover="MouseOverImage(2)" onmouseout="MouseOutImage(2)" onclick="setExiting(false);"><img src="http://imgcache.classesusa.com/images/nv_degrees-new.gif" name="image2" border="0" height="13"></a></td>
 <!-- End Item -->
 <!-- Begin Nav Div -->
 <td height="13" width="10"><img src="http://imgcache.classesusa.com/images/spacer.gif" height="1" width="10"></td>
-<td height="13" width="2"><img src="http://imgcache.classesusa.com/images/nv_div.gif" height="13" width="2"></td>
+<td height="13" width="2"><img src="http://imgcache.classesusa.com/images/nv_div-new.gif" height="13" width="2"></td>
 <td height="13" width="10"><img src="http://imgcache.classesusa.com/images/spacer.gif" height="1" width="10"></td>
 <!-- End Nav Div -->
 <!-- Being Item -->
-<td height="13"><a href="../test_prep.html" onmouseover="MouseOverImage(4)" onmouseout="MouseOutImage(4)"><img src="http://imgcache.classesusa.com/images/nv_prep.gif" name="image4" border="0" height="13"></a></td>
+<td height="13"><a href="../featuredschools/phoenix/landing.html" onmouseover="MouseOverImage(3)" onmouseout="MouseOutImage(3)" onclick="setExiting(false);"><img src="http://imgcache.classesusa.com/images/campus-new.gif" name="image3" border="0" height="13"></a></td>
 <!-- End Item -->
 <!-- Begin Nav Div -->
 <td height="13" width="10"><img src="http://imgcache.classesusa.com/images/spacer.gif" height="1" width="10"></td>
-<td height="13" width="2"><img src="http://imgcache.classesusa.com/images/nv_div.gif" height="13" width="2"></td>
+<td height="13" width="2"><img src="http://imgcache.classesusa.com/images/nv_div-new.gif" height="13" width="2"></td>
 <td height="13" width="10"><img src="http://imgcache.classesusa.com/images/spacer.gif" height="1" width="10"></td>
 <!-- End Nav Div -->
 <!-- Being Item -->
-<td height="13"><a href="../featured_lenders/index.html" onmouseover="MouseOverImage(5)" onmouseout="MouseOutImage(5)"><img src="http://imgcache.classesusa.com/images/nv_loan.gif" name="image5" border="0" height="13"></a></td>
+<td height="13"><a href="../test_prep.html" onmouseover="MouseOverImage(5)" onmouseout="MouseOutImage(5)" onclick="setExiting(false);"><img src="http://imgcache.classesusa.com/images/nv_prep-new.gif" name="image5" border="0" height="13"></a></td>
 <!-- End Item -->
 <!-- Begin Nav Div -->
 <td height="13" width="10"><img src="http://imgcache.classesusa.com/images/spacer.gif" height="1" width="10"></td>
-<td height="13" width="2"><img src="http://imgcache.classesusa.com/images/nv_div.gif" height="13" width="2"></td>
+<td height="13" width="2"><img src="http://imgcache.classesusa.com/images/nv_div-new.gif" height="13" width="2"></td>
 <td height="13" width="10"><img src="http://imgcache.classesusa.com/images/spacer.gif" height="1" width="10"></td>
 <!-- End Nav Div -->
 <!-- Being Item -->
-<td height="13"><a href="../info/whoweare.html"><img src="http://imgcache.classesusa.com/images/nv_about_sel.gif" name="image3" border="0" height="13"></a></td>
+<td height="13"><a href="../featured_lenders/index.html" onmouseover="MouseOverImage(6)" onmouseout="MouseOutImage(6)" onclick="setExiting(false);"><img src="http://imgcache.classesusa.com/images/nv_loan-new.gif" name="image6" border="0" height="13"></a></td>
+<!-- End Item -->
+<!-- Begin Nav Div -->
+<td height="13" width="10"><img src="http://imgcache.classesusa.com/images/spacer.gif" height="1" width="10"></td>
+<td height="13" width="2"><img src="http://imgcache.classesusa.com/images/nv_div-new.gif" height="13" width="2"></td>
+<td height="13" width="10"><img src="http://imgcache.classesusa.com/images/spacer.gif" height="1" width="10"></td>
+<!-- End Nav Div -->
+<!-- Being Item -->
+<td height="13"><a href="../info/whoweare.html" onclick="setExiting(false);"><img src="http://imgcache.classesusa.com/images/nv_about_sel-new.gif" name="image4" border="0" height="13"></a></td>
 <!-- End Item -->
 </tr>
 </tbody></table>
@@ -161,7 +208,7 @@ cmCreateTechPropsTag(cmStripBad("FOS:OTHER:/WEB-INF/content/jsp/info/privacy.jsp
 <!-- End Optional Info Area -->
 </tbody></table>
 <!-- End Header -->
-<table width="750" border="0" cellspacing="0" cellpadding="0">
+<table width="750" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody><tr>
 <td valign="top">
 <table width="750" border="0" cellspacing="0" cellpadding="0">
@@ -457,17 +504,18 @@ to top</font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></f
 </td>
 </tr>
 </tbody></table>
-<table width="750" border="0" cellspacing="0" cellpadding="0">
+<table width="750" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
 <tbody><tr>
-<td bgcolor="#959595" width="616">
+<td bgcolor="#ffffff" width="616">
 <table width="740" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td> <img src="http://imgcache.classesusa.com/images/spacer.gif" height="10" width="1"><br>
 <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-<a href="../index.html" class="whiteLink"><b>Home</b></a><b>
-| <a href="../featuredschools/fos/index.html" class="whiteLink">Online Degrees</a>
-| <a href="../info/whoweare.html" class="whiteLink">About Us</a>
-| <a href="../info/advertiseus.html" class="whiteLink">Advertise Your School </a>
+<a href="../index.html" class="whiteLink" onclick="setExiting(false);"><b>Home</b></a><b>
+| <a href="../featuredschools/fos/index.html" class="whiteLink" onclick="setExiting(false);">Online Degrees</a>
+| <a href="../info/whoweare.html" class="whiteLink" onclick="setExiting(false);">About Us</a>
+| <a href="../info/advertiseus.html" class="whiteLink" onclick="setExiting(false);">Advertise Your School </a>
+| <a href="../info/jobs/index.html" class="whiteLink" onclick="setExiting(false);">Careers</a>
 </b></font></div></td>
 </tr>
 <tr>
@@ -475,18 +523,18 @@ to top</font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></f
 </tr>
 <tr>
 <td>
-<div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#ffffff">©
+<div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#666666">©
 2005 Classes USA, Inc. All rights reserved.</font><br>
-<a href="../info/user_agreement.html" class="whiteLink"><b>ClassesUSA.com User Agreement</b></a><b>
-| <a href="../info/privacy.html" class="whiteLink">Privacy Policy</a></b></font></div><br>
+<a href="../info/user_agreement.html" class="whiteLink" onclick="setExiting(false);"><b>ClassesUSA.com User Agreement</b></a><b>
+| <a href="../info/privacy.html" class="whiteLink" onclick="setExiting(false);">Privacy Policy</a></b></font></div><br>
 </td>
 </tr>
 <tr>
-<td bgcolor="#959595"><img src="http://imgcache.classesusa.com/images/spacer.gif" width="1" height="10"></td>
+<td bgcolor="#ffffff"><img src="http://imgcache.classesusa.com/images/spacer.gif" width="1" height="10"></td>
 </tr>
 </tbody></table>
 </td>
-<td bgcolor="#959595" width="290">&nbsp;</td>
+<td bgcolor="#ffffff" width="290">&nbsp;</td>
 </tr>
 </tbody></table>
 <table width="750" border="0" cellspacing="0" cellpadding="0">
@@ -546,7 +594,7 @@ document.write('<IMG ID="WTL_73932" BORDER="0" WIDTH="1" HEIGHT="1" SRC="'+W+'">
 }
 wtl_Tag5_73932();
 //-->
-</script><img id="WTL_73932" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S005-01-5-9-246403-73932/button5.asp?tagver=5&amp;si=73932&amp;fw=3&amp;server=&amp;Group=&amp;tz=0&amp;ch=2&amp;cl=K2M27lA&amp;ti=Classes%20USA%20-%20Privacy%20Policy&amp;url=https%3A//web.archive.org/web/20050507133003id_/http%253A//www.classesusa.com/info/privacy.html&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+</script><img id="WTL_73932" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S005-01-5-9-246403-73932/button5.asp?tagver=5&amp;si=73932&amp;fw=3&amp;server=&amp;Group=&amp;tz=0&amp;ch=2&amp;cl=K2M27nA&amp;ti=Classes%20USA%20-%20Privacy%20Policy&amp;url=https%3A//web.archive.org/web/20051227195215id_/http%253A//classesusa.com/info/privacy.html&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
 <!-- END OF WEBTRENDS LIVE TAG -->
 </td>
 </tr>
