@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gateway.com privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627013021id_/http%3A//www.gateway.com/about/legal/security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gateway.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227023852id_/http%3A//gateway.com/about/legal/security.shtml) for the most accurate reproduction.*
 
 # Gateway Computers - Privacy & Data Security
 
