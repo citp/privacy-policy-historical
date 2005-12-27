@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racingjunk.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303170912id_/http%3A//www.racingjunk.com/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingjunk.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227081400id_/http%3A//racingjunk.com/policy.jsp) for the most accurate reproduction.*
 
 # RacingJunk.com Privacy Policy
 
@@ -119,6 +119,8 @@ Copyright ©2005 Raceway Media, LLC. All rights reserved.
 
 [](http://www.carsponsorships.com/scout/sponsor.php?id=628)
 
+* * *
+
 [](http://hop.clickbank.net/?racingjunk/sponsorkit)
 
 | 
@@ -127,6 +129,6 @@ Copyright ©2005 Raceway Media, LLC. All rights reserved.
   
 ---  
   
-"I sold my Barracuda through your web site within five hours. I listed it on a Sunday afternoon and had made contact with the eventual buyer by Sunday evening. The cash was in my hand and the car was gone by the following Saturday. I am forwarding you my honor payment. - Thanks"  
+Thank you so very much for letting us advertise our 2002 Trailer for sale on your web site!!! Our trailer was sold within 48 hours!!! Thank you very much!!!  
   
-Jim
+John Danford
