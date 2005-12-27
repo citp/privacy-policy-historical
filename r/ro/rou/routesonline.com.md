@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2005-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050312184432id_/http%3A//www.routesonline.com/lang/english/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228003426id_/http%3A//www.routesonline.com/lang/english/privacy/privacy.html) for the most accurate reproduction.*
 
 # Routes : Privacy
 
