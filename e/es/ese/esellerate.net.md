@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the esellerate.net privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623085223id_/http%3A//www.esellerate.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esellerate.net privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227034358id_/http%3A//www.esellerate.net/privacy.asp) for the most accurate reproduction.*
 
 # eSellerate - Privacy Policy
 
 **eSellerate's Online Privacy Policy**  
-_Last revision date: April 21, 2005_
+_Last revision date: November 3, 2005_
 
-[](http://www.truste.org/ivalidate.php?url=www.esellerate.net&sealid=101)eSellerate, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
+[](http://www.truste.org/ivalidate.php?url=www.esellerate.net&sealid=101) eSellerate, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
   1. What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site 
   2. The organization collecting the information 
@@ -29,6 +29,8 @@ If you do not receive acknowledgment of your inquiry or your inquiry has not bee
 
 **About this statement**  
 This statement describes the privacy policy for the eSellerate web site. By accessing this site, you agree to the terms of the eSellerate Online Privacy Policy, as outlined below. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection, we will notify you via e-mail. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+
+The TRUSTe program covers only information that is collected through this web site, and does not cover information that may be collected through software downloaded from this site. 
 
 **COLLECTION OF INFORMATION**
 
@@ -71,7 +73,7 @@ eSellerate automatically logs the following information about visitors to this w
 **eSellerate Privacy Guarantee**  
 eSellerate will not provide publisher, customer, payee, affiliate or portal information to third parties. Accordingly, only the publisher, publisher approved payees and our credit card processor have access to a given customer's address information. 
 
-eSellerate does not control how our publishers use their customers' personally identifiable information. Therefore, customers should read the publisher's privacy policy before providing personally identifiable information. Customers also should note that eSellerate's TRUSTe certification applies only to www.esellerate.net, and does not extend to our publishers. Also, eSellerate's certification covers only information collected through this web site, and does not cover information collected through our publishers' software, which can be downloaded from this site. 
+eSellerate does not control how our publishers use their customers' personally identifiable information. Therefore, customers should read the publisher's privacy policy before providing personally identifiable information. Customers also should note that eSellerate's TRUSTe certification applies only to www.esellerate.net, and does not extend to our publishers. 
 
 **OPT-OUT INFORMATION**
 
@@ -101,7 +103,7 @@ eSellerate does not control how our publishers use their customers' personally i
 > 
 > After making any modifications, they should click Save Changes. 
 
-_Last revision date: April 21, 2005_
+_Last revision date: November 3, 2005_
 
   **eSellerate's Product Activation Privacy Policy**
 
