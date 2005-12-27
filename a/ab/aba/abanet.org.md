@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206064854id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227092643id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.*
 
 # American Bar Association
 
@@ -8,8 +8,8 @@ Welcome to the American Bar Association web site. The American Bar Association h
 >
 >> American Bar Association  
 >  Customer Service/Correspondence  
->  541 North Fairbanks Court  
->  Chicago, IL 60611  
+>  321 North Clark Street  
+>  Chicago, IL 60610  
 > 
 > 
 >   * We can be reached via e-mail at: [service@abanet.org](mailto:service@abanet.org)
@@ -17,9 +17,11 @@ Welcome to the American Bar Association web site. The American Bar Association h
 > 
 
 
-Are you interested in ABA events and updates from your Sections? Would you like to hear about ABA member benefits and services? Please [click here](https://web.archive.org/members/join/coa.html) to send us your e-mail address and we will send you the latest in legal resources through e-mails designed to meet your needs. 
+Are you interested in ABA events and updates from your Sections? Would you like to hear about ABA member benefits and services? Please [click here](http://www.abanet.org/abanet/common/MyABA/home.cfm) to send us your e-mail address and we will send you the latest in legal resources through e-mails designed to meet your needs. 
 
-Your e-mail address will only be used within the ABA and its entities. We do not sell or rent e-mail addresses to anyone outside the ABA. If you wish to be removed from our e-mail mailings, please [click here](https://web.archive.org/members/join/coa.html) and complete the form to remove your e-mail address from our list or call our Service Center at 1-800-285-2221. 
+Your e-mail address will only be used within the ABA and its entities. We do not sell or rent e-mail addresses to anyone outside the ABA. If you wish to be removed from our e-mail mailings, please [click here](http://www.abanet.org/abanet/common/MyABA/home.cfm) and complete the form to remove your e-mail address from our list or call our Service Center at 1-800-285-2221. 
+
+For some e-mails distributed by the ABA and its Sections, specific information on recipient response is collected. For example, we sometimes review how many recipients open and subsequently choose to click through to links provided in an e-mail. We use this information only for the purposes of analyzing areas of interest, improving our products and enhancing the usefulness of our website for ABA members and other visitors. None of this information is sold or distributed outside of the ABA in any manner. 
 
 The ABA is committed to providing 100 percent availability of its Internet site(s) and email aliasing service. We have implemented safeguards and alarms to notify us in the event of loss of Internet connectivity to the backbone and of hardware failures. Even with these safeguards in place, loss of connectivity or hardware failure can still occur. For this reason, the ABA cannot "guarantee" its Internet connectivity, nor can we be responsible for lost or delayed requests, email, or content. 
 
