@@ -1,54 +1,45 @@
-> *The following text is extracted and transformed from the racer.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204154124id_/http%3A//www.racer.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racer.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227122257id_/http%3A//www.racer.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Racer Communications
 
-In addition to reviewing this privacy policy, please read our User Agreement. Your use of Racer constitutes agreement to its terms and conditions. 
+Thanks for visiting haymarketworldwide.com. Haymarket Worldwide Inc. respects the privacy of our visitors, and we have developed these guidelines for the management of your personal information.
 
-Racer Magazine is produced by Racer Communications, Inc. This policy does not cover information collected on sites linked to from Racer. 
+haymarketworldwide.com does not solicit any personally identifiable information from children under the age of 13. Accordingly, children under 13 years old may be restricted from participating in certain activities and transactions on haymarketworldwide.com including, but not limited to, any sweepstakes, contests, message boards and chats that may be conducted.
 
-This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of Racer by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
+Please read this Privacy Policy for an explanation of how we will treat your personal information. By visiting haymarketworldwide.com, you accept and consent to the practices described in this document. If you do not agree to this Policy, please do not use our site. Your continued use of haymarketworldwide.com following the posting of any changes to this Policy will mean that you accept and consent to those changes.
 
-It is the goal of Racer to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site. 
+Collecting personal information
 
-THE TYPE OF INFORMATION RACER COLLECTS 
+Certain features on haymarketworldwide.com - such as sweepstakes, contests, message boards and chats - require users to provide information about themselves during the registration process. Usage of these features is voluntary, and haymarketworldwide.com only collects personally identifiable information in connection with your use of these features. Information required for registration for such features will vary, but will often include your first and last name; address including city, state, zip code and country; date of birth; and e-mail address.
 
-Racer generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our magazines, subscribe to our newsletters or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested. 
+How your information is used
 
-HOW RACER USES INFORMATION PROVIDED BY YOU 
+Information collected during the registration process is used to personalize your haymarketworldwide.com experience and to provide you with special offers from haymarketworldwide.com and our partners. In addition, haymarketworldwide.com performs statistical analyses of user behavior in order to measure interest in and use of the various areas of the site.
 
-Racer uses this information to provide you with the service you have requested. If you subscribe to any of our magazines, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your magazine. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs. 
+haymarketworldwide.com may also share such information with other businesses, including our marketing, sponsorship and advertising partners. However, we will only share such information with third parties whose policies regarding personal information is consistent with our Privacy Policy.
 
-RACER may share e-mail addresses and sell or share all other information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at [privacy@racer.com]. If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. 
+Haymarket Worldwide Inc. may need to use your account profile to contact you regarding your account status or other issues relevant to the haymarketworldwide.com service. Haymarket Worldwide Inc. may also disclose user information when we believe in good faith that the law requires it.
 
-We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on our site, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that are managed or participated in by third parties, such as our featured merchant partners. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Racer will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Racer does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose. 
+You should be aware that any information you voluntarily disclose on bulletin boards or chat areas can be collected and used by others.
 
-COOKIES 
+Opting out
 
-You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of Racer, you can opt to save your user name and password on your computer. We can provide this convenience by placing a cookie on your computer. 
+During the registration process, you have the opportunity to indicate whether you would like to 'opt out' of receiving promotional and/or marketing information about other products, services, and offerings from Haymarket Worldwide or it's partners. Upon request, haymarketworldwide.com will allow any user to opt out of further promotional contacts at any time.
 
-Our cookies may contain personally identifiable information and such cookies may be shared with our affiliated companies. 
+Cookies
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. 
+Cookies are small data files that are stored on your computer’s hard drive. They allow Web sites to recognize returning visitors and track site usage. haymarketworldwide.com uses cookies to store non-personal information and make it easier for you to use certain site features.
 
-If you don't want cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of Racer may not function properly. 
+haymarketworldwide.com may use advertising server technology from third parties to display ads on the site. These ads may contain cookies; yesnetwork.com does not have access to these cookies or the information in them.
 
-While your individual information is protected as outlined above, we reserve the right to use aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners. 
+If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept cookies; however, users should note that cookies may be necessary to provide the user with certain features on haymarketworldwide.com.
 
-IP ADDRESS 
+Changing your personal information
 
-Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our website. 
+Upon request, haymarketworldwide.com will use reasonable efforts to allow you to update or correct your personal information. Also, upon request, haymarketworldwide.com will use commercially reasonable efforts to functionally delete your personal information from its database; however, it may be impossible to delete your entry without some residual information being retained because of backups and records of deletions.
 
-KIDS AND PARENTS 
+Changes to this policy
 
-Racer is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site. 
+haymarketworldwide.com will notify its users of any changes to this privacy policy. Your continued use of haymarketworldwide.com following the posting of any changes to this Policy will mean you accept and consent to those changes.
 
-If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
-
-If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator at privacy@racer.com. 
-
-If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator. We welcome your feedback. You can also send us regular mail at the following address:
-
-Privacy Policy Coordinator  
-Racer Communications, Inc.  
-16842 Von Karman Avenue, Suite 125  
-Irvine, CA 92606
+If you have any questions or concerns regarding this site’s privacy statement, please contact us at info@haymarketworldwide.com
