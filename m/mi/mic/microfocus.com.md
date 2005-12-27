@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microfocus.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171022id_/http%3A//www.microfocus.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microfocus.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227045505id_/http%3A//microfocus.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Micro Focus - Micro Focus and Your Privacy
 
@@ -10,11 +10,11 @@ Your right to privacy is very important to Micro Focus. At Micro Focus, we belie
 
 ### Types and Reasons for Data Collection
 
-When you signup for membership in SupportLine, Shop@MERANT or Micro Focus 's email news services some personal information is required. This information is used for three primary purposes.
+When you signup for membership in SupportLine, [shop@microfocus.com](mailto:shop@microfocus.com) or Micro Focus 's email news services some personal information is required. This information is used for three primary purposes.
 
   * To help you quickly find software, services or information on microfocus.com.
   * To help us create Web site content most relevant to you.
-  * To alert you to product upgrades, special offers, updated information and other new services from Micro Focus.      
+  * To alert you to product upgrades, special offers, updated information and other new services from Micro Focus.       
 
 
 
