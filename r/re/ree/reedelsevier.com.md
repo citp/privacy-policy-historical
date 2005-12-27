@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the reedelsevier.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804214418id_/http%3A//www.reedelsevier.com/index.cfm%3Farticleid%3D61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedelsevier.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227041140id_/http%3A//www.reedelsevier.com/index.cfm%3Farticleid%3D61) for the most accurate reproduction.*
 
 # Reed Elsevier - Privacy policy
+
+|  | 
 
 * * *
 
@@ -33,5 +35,5 @@ If you are under 18, please get your parent/guardian's permission before you pro
 
 > back to top
 
-back to top |    
+|  back to top |    
 ---|---
