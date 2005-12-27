@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the torrentspy.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305061148id_/http%3A//www.torrentspy.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentspy.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227040300id_/http%3A//torrentspy.com/privacy.asp) for the most accurate reproduction.*
 
-# TorrentSpy.com : The Largest BitTorrent Community
+# Torrentspy.com - The Largest BitTorrent Search Engine
 
 **Privacy Policy**
 
