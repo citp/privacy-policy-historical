@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305133805id_/http%3A//www.lrn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227014536id_/http%3A//lrn.com/privacy.php) for the most accurate reproduction.*
 
 # LRN
 
   
-LRN, THE LEGAL KNOWLEDGE COMPANY
+LRN CORPORATION
 
-LRN, The Legal Knowledge Company ("LRN") is committed to protecting your privacy and earning your trust. This Privacy Statement describes LRN's privacy practices for the services LRN provides through web sites which LRN creates, configures and hosts on behalf of its customers and for the web site located at [http://www.lrn.com](http://www.lrn.com/). These practices conform to the requirements prescribed by the United States-European Union "Safe Harbor" arrangement for compliance by U.S.-based organizations with the provisions of the European Union's Directive regarding the protection of personal information. 
+LRN Corporation ("LRN") is committed to protecting your privacy and earning your trust. This Privacy Statement describes LRN's privacy practices for the services LRN provides through web sites which LRN creates, configures and hosts on behalf of its customers and for the web site located at [http://www.lrn.com](http://www.lrn.com/). These practices conform to the requirements prescribed by the United States-European Union "Safe Harbor" arrangement for compliance by U.S.-based organizations with the provisions of the European Union's Directive regarding the protection of personal information. 
 
 Information Collection & Use
 
@@ -54,7 +54,7 @@ Questions & Complaints
 If anyone has any questions about this Privacy Statement, the practices of, or his or her dealings with, any of LRN's web sites, he or she should contact LRN at the following address: 
 
 Webmaster   
-LRN, The Legal Knowledge Company   
+LRN Corporation   
 1100 Glendon Avenue, Suite 700   
 Los Angeles, California 90024 
 
