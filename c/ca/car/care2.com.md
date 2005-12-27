@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2005-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050604235734id_/http%3A//www.care2.com/help/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227102329id_/http%3A//www.care2.com/help/membership/privacy.html) for the most accurate reproduction.*
 
 # Care2 Help Center
 
