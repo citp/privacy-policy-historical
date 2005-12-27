@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mate4all.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305043349id_/http%3A//www.mate4all.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mate4all.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227060221id_/http%3A//mate4all.com/privacy.php) for the most accurate reproduction.*
 
-# Mate4all Dating Service
+# Mate4all.com Free Online Dating Service, Dating Site and Personals, Find millions of singles in your area
 
 MATE4ALL.COM, THE ONLINE DATING'S PRIVACY POLICY 
 
