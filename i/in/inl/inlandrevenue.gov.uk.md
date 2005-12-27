@@ -1,60 +1,76 @@
-> *The following text is extracted and transformed from the inlandrevenue.gov.uk privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405200528id_/http%3A//www.inlandrevenue.gov.uk/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlandrevenue.gov.uk privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227202519id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
 
-# Inland Revenue: Privacy and Data Protection
+# HM Revenue & Customs: Privacy Policy
 
-The Inland Revenue is a Data Controller under the Data Protection Act. We hold information for the purposes of taxes, social security contributions, tax credits and certain other statutory functions as assigned by Parliament. The information we hold may be used for any of the Inland Revenue's functions.
+## General
 
-We may get information about you from others or we may give information to them. If we do, it will only be as the law permits, to:
+Our Privacy Policy is designed to tell you about our practices regarding the collection, use and disclosure of information that you may provide via the HMRC website. Whenever you use this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
 
-  * check accuracy of information 
-  * prevent or detect crime 
-  * protect public funds 
+##  Ways that we collect information
 
+Some areas of the site require you to actively submit information in order for you to benefit from specific features (such as our range of online services). You will be informed at each information collection point what information is required and what information is optional. 
 
+Some of this information may be personal (information that can be uniquely identified with you, such as your full name, address, email address, phone number etc.).
 
-We may check information we receive about you with what is already in our records. This can include information provided by you as well as by others such as other government departments and agencies and overseas tax authorities. We will not give information about you to anyone outside the Inland Revenue unless the law permits us to do so.
+We only collect such information when you choose to supply it to us.
 
-## Confidentiality and security
+Information is also gathered without you actively providing it, through the use of various technologies and methods such as Internet Protocol (IP) addresses and cookies. These methods do not collect or store personal information.
 
-The Inland Revenue has a legal duty to protect the confidentiality of taxpayer information. We take every precaution to protect any information you submit via our website, both online and offline, in accordance with legislation such as the Data Protection Act 1998. Any data, which we use in our offices, is protected in accordance with Government standards.
+An IP address is a number assigned to your computer by your Internet Service Provider (ISP), so you can access the internet. It is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the internet), rather than static (unique to a particular user's computer).
 
-Throughout the registration process, and also when you are submitting sensitive information such as that required in a tax return, the information is encrypted to protect confidentiality, and protected according to industry best practice. 
-
-## Monitoring e-mail
-
-We may monitor e-mail communications with the Inland Revenue (this includes any Inland Revenue member of staff). Any such monitoring will take place in accordance with the law.
-
-## Sharing of Information
-
-Any information you submit via our website will only be shared in accordance with the law. 
-
-## Registration
-
-The Inland Revenue website offers several services including the facility to send tax returns via the Internet. To use some of these services, you must first complete the registration form. During registration, we ask you to provide certain details to allow us to verify your identity. You may also be asked to provide contact information (such as an e-mail address), which we will use to let you know about the services on our website and to respond to your questions about the services. Once you have registered, we will send a welcoming e-mail detailing the services currently available and any plans to offer new services. We may send further e-mails later to announce the availability of new services. 
-
-We do offer you the option not to provide your e-mail address during the registration process.
+We use your IP address to diagnose problems with our server, report aggregate information, and determine the fastest route for your computer to use in connecting to our site, and to administer and improve the site.
 
 ## Cookies
 
-A cookie is a piece of data stored locally on your computer and contains information about your activities on the Internet. On our website, we use cookies to track users' progress through the site, allowing us to make improvements based on usage data. The information on a cookie is not linked to any personally identifiable information you submit to our site. 
+A cookie is a piece of data stored locally on your computer and contains information about your activities on the internet. On our website, we use cookies to track users' progress through the site, allowing us to make improvements based on usage data. The information in a cookie does not contain any personally identifiable information you submit to our site.
 
-Once you close your browser, our access to the cookie simply terminates. If you choose not to accept the cookie, this will not affect your access to the majority of facilities available on our website. However, you may not be able to make full use of our online forms service.
+Once you close your browser, our access to the cookie terminates. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose not to accept the cookie, this will not affect your access to the majority of information available on our website. However, you will not be able to make full use of our online services.
 
-## Log Files
+The [Internet Advertising Bureau](http://www.iab.net/standards/privacy.asp) (IAB) (this link will open a new window) provides in depth information about cookies. 
 
-When you use the Internet, you are assigned a unique address, known as an IP address. We use IP addresses to analyse trends, to administer the site, track users' movements, and gather statistical information. IP addresses are not linked to personally identifiable information.
+##  Monitoring of e-mail
 
-## Links
+We may monitor e-mail communications with HMRC (this includes any HMRC member of staff). Any such monitoring will take place in accordance with the law.
 
-Our website contains links to other sites, mainly those of other government departments, but also to those of third parties. The Inland Revenue is not responsible for the privacy practices within any of these other sites. We encourage you to be aware of this when you leave our site and to read the privacy statements on other websites you visit which collect personally identifiable information. This privacy statement applies solely to information collected on our website.
+##  Web Statistics
 
-## Correction/Updating Personal Information
+We use log files generated by our web servers to analyse site usage and statistics but the files do not identify any personal information. Log file analysis helps us to understand usage patterns on our website and to make improvements to our service.
 
-If your personally identifiable information changes, or if you no longer wish to use our services, we will provide a way to correct, update or remove your personal data from the records on our Internet system. You will be able to de-register from the service either online or by contacting your local Tax Office.
+##  Disclosure
 
-## Notification of Changes to Policy
+Except as otherwise stated, we may use information you provide via this site to improve the content, to customise the site to your preferences, to communicate information to your (if you have requested it), for internal marketing and research purposes, and for the purposes specified in this Privacy Policy.
 
-If we decide to change our privacy policy, we will post details of any changes on our Homepage. This will help ensure that you are always aware of what information we collect, how we use it, and under what circumstances, if any, we share it with other parties.
+We do not disclose any information you provide via the site to any third parties or other government departments except where:
 
-Version 1.2  
-Wednesday, 25th July 2001
+  * Such disclosures are necessary to fulfil our service obligations to you in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy.
+  * Required by applicable laws, courts orders, or government regulations (for example to prevent or detect crime).
+  * You give us permission to do so.
+
+
+
+##  Access to and correction of personal information
+
+We will take all reasonable steps in accordance with our legal obligations to update or correct personally identifiable information in our possession that you submit via this site.
+
+You have a right to ask to see details of any personal information that we hold about you. If you wish to do so please contact our Data Protection Officer at Room BP4302, Benton Park View, Longbenton, Newcastle upon Tyne, NE98 1ZZ
+
+##  Security
+
+HMRC has a legal duty to protect the confidentiality of taxpayer information. We take all reasonable steps to protect any information you submit via our website, both online and offline, in accordance with legislation such as the Data Protection Act 1998.
+
+We take all appropriate steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information for loss, misuse, and unauthorised access, disclosure, alteration, or destruction. We use leading technologies and encryption software to safeguard your data, and operate strict security standards to prevent any unauthorised access to it.
+
+Where you use passwords, ID numbers, or other special access features on this site, you also have a responsibility to take reasonable steps to safeguard them.
+
+##  Links to other websites
+
+This site contains links and references to other websites. Please be aware that this Privacy Policy does not apply to those websites and we encourage you to read the Privacy Policy of every website you visit.
+
+##  Notification of changes to our Privacy Policy
+
+We will post details of any changes to our Privacy Policy on the website to help ensure you are always aware of the information we collect, how we use it, and in what circumstances, if any, we share it with other parties.
+
+This Privacy Policy was last updated April 2005.  
+
+
+[Menu ](https://web.archive.org/web/20051227202519id_/http%3A//www.hmrc.gov.uk/spss/cssav.htm)
