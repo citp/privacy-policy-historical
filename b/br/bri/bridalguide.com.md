@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404071056id_/http%3A//www.bridalguide.com/default.cfm%3Ffuseaction%3Dmisc_content%26bridal_file%3D5%26jwp%3D2050) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227104912id_/http%3A//www.bridalguide.com/default.cfm%3Ffuseaction%3Dmisc_content%26bridal_file%3D5%26jwp%3D2050) for the most accurate reproduction.*
 
 # WELCOME TO BRIDALGUIDE.COM
 
