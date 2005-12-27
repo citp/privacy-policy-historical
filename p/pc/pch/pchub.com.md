@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchub.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308124419id_/http%3A//www.pchub.com/uph/content/policy_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchub.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227190505id_/http%3A//pchub.com/uph/content/policy_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PcHub.com
 
