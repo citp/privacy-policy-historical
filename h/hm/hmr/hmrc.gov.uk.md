@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hmrc.gov.uk privacy policy that was archived on 2005-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050608005256id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmrc.gov.uk privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227202519id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
 
-# HM Revenue and Customs: Privacy Policy
+# HM Revenue & Customs: Privacy Policy
 
 ## General
 
@@ -72,3 +72,5 @@ We will post details of any changes to our Privacy Policy on the website to help
 
 This Privacy Policy was last updated April 2005.  
 
+
+[Menu ](https://web.archive.org/web/20051227202519id_/http%3A//www.hmrc.gov.uk/spss/cssav.htm)
