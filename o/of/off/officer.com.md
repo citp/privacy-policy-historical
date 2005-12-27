@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the officer.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306121235id_/http%3A//www.officer.com/insider/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officer.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227052128id_/http%3A//www.officer.com/insider/privacy.shtml) for the most accurate reproduction.*
 
-# Officer.com
-
-Updated: November 7, 2003 4:35pm
+# Officer.com: Privacy Policy
 
 **Information Collection and Use**  
 
