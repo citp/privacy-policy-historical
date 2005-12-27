@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scavengeinc.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402125940id_/http%3A//www.scavengeinc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scavengeinc.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227111108id_/http%3A//www.scavengeinc.com/privacy.php) for the most accurate reproduction.*
 
 # Scavenge, Inc.
 
