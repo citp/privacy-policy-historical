@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the utah.gov privacy policy that was archived on 2005-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050629164807id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the utah.gov privacy policy that was archived on 2005-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051227043509id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:math="http://exslt.org/math" xmlns:rss="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xhtml="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -61,12 +61,17 @@
         
 <div id="menu_search">
             
-<form method="get" action="http://info.utah.gov/search.asp?nb=0&amp;as=0&amp;tid=0&amp;opr1=4">
+<form name="basicSearchForm" method="post" action="http://search.utah.gov/retina/public/basicSearch.do">
                 
-<input type="hidden" name="postFlag" value="1">
-                <input type="hidden" name="opr1" value="4">   
-                <input type="text" size="15" class="search" name="val1" value="Search Utah.gov" onfocus="if(this.value=='Search Utah.gov'){this.value='';}">
+<input type="hidden" name="showConceptualSearchWarning" value="true">
+                <input type="hidden" name="conceptualWarningMessage" value="Single word detected, more than one word is required if you wish Autonomy to perform conceptual analysis.  Do you wish to continue?">
+                <input type="hidden" name="queryExpansion" value="false">
+                <input type="hidden" name="spellingCorrection" value="false">
+                <input type="hidden" name="incorrectSpelling" value="">
+                
+                <input type="text" name="queryText" class="search" size="15" value="Search Utah.gov" onfocus="if(this.value=='Search Utah.gov'){this.value='';}">
                 <input type="image" value="Search" src="http://www.utah.gov/images/search_submit.gif" name="Submit" alt="Search Utah.gov" onclick="return submitFullSearch(this.form)">
+                
             
 </form>
 
@@ -78,7 +83,7 @@
 <ul>
                 
 <li>
-<a href="http://news.utah.gov/" title="">News</a>
+<a href="http://news.utah.gov/news/" title="">News</a>
 </li>
                 
 <li>
@@ -449,7 +454,7 @@
 </p>
             
 <p class="gutterline">
-<a href="http://www.up.state.ut.us/index.html">Unclaimed Property Search</a>
+<a href="http://www.up.utah.gov/">Unclaimed Property Search</a>
 </p>
             
 <p class="gutterline">
@@ -482,7 +487,11 @@
 <div class="gutterspace">
             
 <p class="gutterlinetop">
-<a href="http://dced.utah.gov/">Community &amp; Economic Dev.</a>
+<a href="http://community.utah.gov/">Community &amp; Culture</a>
+</p>
+            
+<p class="gutterline">
+<a href="http://goed.utah.gov/">Economic Development</a>
 </p>
             
 <p class="gutterline">
@@ -799,7 +808,7 @@
     
 <div class="linefooter"></div>
     
-<a href="/whatsnew.html" title="">Whats New</a> | 
+<a href="/sitemap.html" title="">Site Map</a> | 
     <a href="/contact.html" title="">Contact Utah.gov</a> | 
     <a href="/disclaimer.html" title="">Terms of Use</a> | 
     <a href="/privacypolicy.html" title="">Security &amp; Privacy Policy</a> | 
@@ -810,7 +819,7 @@
 </div>
 </div>
 </div>
-<script src="http://www.utah.gov/shared-v1-1/js/ca_tracking.js" language="javascript1.1"></script>
+<script type="text/javascript" src="http://www.utah.gov/shared-v1-1/js/ca_tracking.js" language="javascript1.1"></script>
 <noscript>
 <img height="1" width="1" src="http://www.ercva.com/p.pl?a=1000264183201&js=no"></noscript>
 
