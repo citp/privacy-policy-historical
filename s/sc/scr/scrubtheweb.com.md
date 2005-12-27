@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubtheweb.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404210130id_/http%3A//www.scrubtheweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubtheweb.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227084012id_/http%3A//scrubtheweb.com/privacy.html) for the most accurate reproduction.*
 
 # Scrub The Web Privacy Policy
 
@@ -52,8 +52,8 @@ If you have any questions about anything in this Privacy Policy, or about collec
 
 Business and Legal Affairs  
 Scrub The Web  
-835 W. Warner Rd. Suite 101-452  
-Gilbert, AZ 85233  
+1080 E. Pecos Rd Ste 18-425  
+Chandler, AZ 85225-0600  
 Tel: 480.633.5548  
 Fax: 480.633.5548
 
