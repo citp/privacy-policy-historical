@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kauffman.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403210308id_/http%3A//www.kauffman.org/items.cfm/218) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kauffman.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228130109id_/http%3A//www.kauffman.org/items.cfm%3FitemID%3D218) for the most accurate reproduction.*
 
 # Privacy Policy: kauffman.org :: Entrepreneurship & Education at the Kauffman Foundation
 
