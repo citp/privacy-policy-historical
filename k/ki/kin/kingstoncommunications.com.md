@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingstoncommunications.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306040439id_/http%3A//www.kcom.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingstoncommunications.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228020301id_/http%3A//www.kcom.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Kingston Communications - Privacy Policy
 
@@ -36,9 +36,9 @@ We are serious about guarding the security of your personal information that we 
 
 A cookie is a small data file that may be sent to your computer when you visit our Website. A cookie file can contain information such as a user ID so that we can track the pages you have visited on our Website, but the only personal information a cookie can contain is the information that you supply yourself. A cookie cannot read data from your hard disk or read any other cookie files created by other websites.
 
-We may use cookies so that we can track user traffic patterns. This is intended to make your Internet sessions easy as they enable us to identify your computer, track your use of our Website and to identify your particular areas of interest so as to enhance your future visits to this Website.
+We use Cookies to enable us to track user trends to ensure the website is structured in a user friendly manner.  We use a third party to collate the information collected using the cookies, however we can assure you that this information will only be used to track user trends.
 
-You can set your computer browser to reject cookies but this may preclude your use of certain parts of this Website.
+You have options with regards to cookies.  By changing the settings of your browser, you may opt to accept cookies, to be informed when a cookie is being placed on your PC or to reject all cookies.  Please consult your browser manual.
 
 ## 7\. ACCESS AND CHANGES TO YOUR PERSONAL INFORMATION
 
@@ -46,14 +46,46 @@ Upon request, we may provide you with a copy of the personal information which w
 
 At your request, we will use reasonable efforts to update / correct personal information previously submitted by you. You may also request that we cease processing the personal information we have about you and that we delete your personal information from our database or records. However, it may be impossible to delete your information without some residual information because of backups and records of deletions. 
 
-Please address your requests to change or delete your personal information to [b2benquiries@kcom.com](mailto:b2benquiries@kcom.com) and insert "change details" or "unsubscribe" as appropriate as the subject heading. Alternatively you may write to us at the Kingston Address, stating your name and email address for identification purposes.
+Please address your requests to change or delete your personal information to [info@kcom.com](mailto:info@kcom.com) and insert "change details" or "unsubscribe" as appropriate as the subject heading. Alternatively you may write to us at the Kingston Address, stating your name and email address for identification purposes.
 
 We will only perform the activities outlined above to the extent that such activities will not compromise privacy or security interests.
 
-## 8\. CHANGES TO THIS POLICY
+If you do not receive a response to your inquiry – or if you feel you inquiry has not been satisfactorily addressed, please contact:
+
+The Information Commissioner  
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF
+
+Tel:  01625 545700  
+Fax:  01625 524510  
+Website:  [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/)  
+Email:  [mail@dataprotection.gov.uk](mailto:mail@dataprotection.gov.uk)
+
+##  8\. CHANGES TO THIS POLICY
 
 We may change this privacy policy from time to time. When such a change is made we will post a revised version on the Website. It is your responsibility to view this privacy policy from time to time to be aware of any such change. Your continued use of the Website will indicate your agreement to any such change.
 
 ## 9\. ENQUIRIES
 
 If you have any further enquiries or concerns about our privacy policy please email us at [webprivacy@kcom.com](mailto:webprivacy@kcom.com) or write to us at the Kingston Address.
+
+## 10\. MANAGING YOUR CONTACT WITH KINGSTON
+
+If you would like to stop unsolicited **telemarketing calls** from Kingston and other companies, please contact the Telephone Preference Service on 0845 0700707 and register your telephone number(s). **Direct marketing calls** should stop after 28 days.
+
+If you would like to stop unsolicited direct marketing mailers from Kingston and other companies, please contact the Mail Preference Service on 0345 034599 and ask for a registration pack. Direct marketing mailers should decrease after 3 months.(Remember to re-register if you change your address.)
+
+If you would like Kingston ONLY not to call or mail you with details of products, services and special offers: 
+
+  * Residential customers please call **01482 602555**.   
+
+  * Business customers please contact your Account Manager or call  **01482 605012**.   
+
+  * Corporate and Government customers please call **01482 602711**.
+
+
+
+If you would like to stop unsolicited marketing **facsimiles (faxes)** , please contact the Fax Preference Service on 0845 0700702 and register your fax number(s). Direct marketing faxes should stop after 28 days. If you are an individual consumer or a sole trader, it is illegal to send you such faxes unless you have given explicit permission to the sender.
