@@ -1,81 +1,10 @@
-> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401234830id_/http%3A//home.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228141949id_/http%3A//home.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - UniversalClass
 
 |    |   
 ---|---  
-  |  |   Categories  
----  
-[Accounting](http://home.universalclass.com/i/subjects/accounting.htm)  
-[Alternative Medicine](http://home.universalclass.com/i/subjects/AlerMed.htm)  
-[Animal Care and Pets](http://home.universalclass.com/i/subjects/AnimalCareandPets.htm)  
-[Arts and Photography](http://home.universalclass.com/i/subjects/photographycategory.htm)  
-[Business](http://home.universalclass.com/i/subjects/Business.htm)  
-[Career Training](http://home.universalclass.com/i/subjects/careertraining.htm)  
-[Computers & Internet](http://home.universalclass.com/i/subjects/computers.htm)  
-[Cooking](http://home.universalclass.com/i/subjects/Cooking.htm)  
-[Counseling Psychology](http://home.universalclass.com/i/subjects/counseling.htm)  
-[Crafts/ Hobbies](http://home.universalclass.com/i/subjects/artsandcrafts.htm)  
-[Creative Writing](http://home.universalclass.com/i/subjects/writinggenre.htm)  
-[Criminal Studies](http://home.universalclass.com/i/subjects/Criminal.htm)  
-[Financial Management](http://home.universalclass.com/i/subjects/financialmanagement.htm)  
-[Fitness and Nutrition](http://home.universalclass.com/i/subjects/FitnessandNutrition.htm)  
-[General Education](http://home.universalclass.com/i/subjects/GeneralEducation.htm)  
-[Health Care](http://home.universalclass.com/i/subjects/healthcare.htm)  
-[Health/Mind and Body](http://home.universalclass.com/i/subjects/mind-body.htm)  
-[History](http://home.universalclass.com/i/subjects/History.htm)  
-[Home and Garden](http://home.universalclass.com/i/subjects/HomeandGarden.htm)  
-[Home Schooling](http://home.universalclass.com/i/subjects/homeschooling.htm)  
-[How To Start...](http://home.universalclass.com/i/subjects/howtostart.htm)  
-[Language Arts](http://home.universalclass.com/i/subjects/LanguageArts.htm)  
-[Language Studies](http://home.universalclass.com/i/subjects/languagestudies.htm)  
-[Law & Legal Studies](http://home.universalclass.com/i/subjects/lawandlegal.htm)  
-[Literature](http://home.universalclass.com/i/subjects/Literature.htm)  
-[Mathematics](http://home.universalclass.com/i/subjects/mathematics.htm)  
-[Medical Billing](http://home.universalclass.com/i/subjects/medicalbilling.htm)  
-[Money Strategies](http://home.universalclass.com/i/subjects/makingmoney.htm)  
-[New Age](http://home.universalclass.com/i/subjects/newagebeliefs.htm)  
-[Parenting and Family](http://home.universalclass.com/i/subjects/ParentingandFamily.htm)  
-[Performing Arts](http://home.universalclass.com/i/subjects/PerformingArts.htm)  
-[Professional Skills](http://home.universalclass.com/i/subjects/ProfessionalandTechnical.htm)  
-[Reference](http://home.universalclass.com/i/subjects/Reference.htm)  
-[Religious Studies](http://home.universalclass.com/i/subjects/religiousstudies.htm)  
-[Sciences](http://home.universalclass.com/i/subjects/sciences.htm)  
-[Self-Help](http://home.universalclass.com/i/subjects/selfhelp.htm)  
-[Social Sciences](http://home.universalclass.com/i/subjects/social.htm)  
-[Special Education](http://home.universalclass.com/i/subjects/specialed.htm)  
-[Teacher Tools](http://home.universalclass.com/i/subjects/teacher-tools.htm)  
-[Terminology](http://home.universalclass.com/i/subjects/Terminology.htm)  
-[Test Preparation](http://home.universalclass.com/i/subjects/TestPreparationStudies.htm)  
-[Violence Prevention](http://home.universalclass.com/i/subjects/Violenceprevention.htm)  
-[Web Development](http://home.universalclass.com/i/subjects/learnhtml.htm)  
-[Special Offers](http://home.universalclass.com/i/subjects/specials.htm)  
-[Degrees / Programs](http://home.universalclass.com/degree.htm)  
-  
-   
- My Views  
-[My Classes](http://my.universalclass.com/secure/myclasses.htm)  
-[My Reminders](http://my.universalclass.com/secure/myreminders.htm)  
-[$$ Money I've Earned](http://my.universalclass.com/secure/moneyearned.htm)  
-[Course Catalog](http://home.universalclass.com/courses/1.htm)  
-[Course Requests](http://boards.universalclass.com/requests/view/1.htm)  
-[Global Search](http://search.universalclass.com/home/index.htm)  
-  
-   
- My To Do's  
-[Create a Class](http://my.universalclass.com/secure/createclass.htm)  
-[Join/Remove a Class](http://my.universalclass.com/secure/joinclass.htm)  
-  
-   
- My Settings  
-[Change Password](http://my.universalclass.com/secure/password.htm)  
-[Edit My Profile](http://my.universalclass.com/secure/profile.htm)  
-[Edit My Resume](http://my.universalclass.com/secure/editresume.htm)  
-[My Interests & Expertise](http://my.universalclass.com/secure/manageinterests.htm)  
-[Help](http://home.universalclass.com/help.htm)  
-[LogOff](http://home.universalclass.com/logoff.htm)  
-  
-  |  |     
+  |  |    |  |     
 ---  
 **UniversalClass.com Inc. takes your privacy seriously.** Please feel free to review our Privacy Policy: 
 
@@ -142,11 +71,11 @@ If you don't find the area of your interest, you may suggest a new UniversalClas
   
 ---  
   
-  1. [**SAT Math 2005 Using CollegeBoard Manual**](http://home.universalclass.com/i/crn/13994.htm) (Hot Class!) **4 Stars.** Sat Math teaches students how to exploit standard tests such as the SAT. It was developed working with 7th grade students who had not taken algebra or geometry. Mastery of the course materials will produce a 500+ score in math. Student potential determines if score will be higher than a 600.  [Ronald Newton](http://experts.universalclass.com/rnewton27410)
-  2. [**Book Marketing: Before and After Publication**](http://home.universalclass.com/i/crn/13837.htm) (Hot Class!) **3 Stars.** This course will explain why the aspiring author needs to start marketing their book BEFORE they publish it. You will learn the many techniques the professionals have used for years to promote their book before it reaches the bookstore. Writing 'special reports,' publishing a newsletter and creating a website are the major tools for an aspiring author to make their name known to the public. Book Marketing: Before and After Publication takes these most important elements of promoting your book, and presents them in a simple step-by-step way that gets you excited about finding readers. You will need approximately two or three hours per workshop to complete the class activities. Attend the course in as few as five weeks, or pace yourself from the beginning of a three month cycle (January, April, July, or October). If you have not published your book yet, or your book is already in print, Book Marketing: Before and After Publishing will teach you the fundamental tools for researching, writing, and printing promotional material. You will enjoy learning with the workshop lessons, articles from other students, and more than 65 web links. Marketing is not an event, but a process . . . It has a beginning, a middle, but never an end, for it is a process. You improve it, perfect it, change it, even pause it. But you never stop it completely. ~ Jay Conrad Levinson  [Judine Slaughter](http://experts.universalclass.com/expressyourselfbooks)
-  3. [**Homeschooling Basics**](http://home.universalclass.com/i/crn/13751.htm) (Hot Class!) **3 Stars.** Are you thinking about homeschooling your child? Homeschooling is one of the most rewarding experiences a parent and child can have. Teach your children your own beliefs and values. Emphasis the areas of study you feel are important. Imagine what your child will be able to accomplish when their teachers only concern is what's best for them. You will also have the opportunity to learn along side your child. Think about the bond you will create with your child by spending quality time with them and sharing learning experiences together. This course will give you a good overview of what homeschooling is all about and how to get started. You will learn about the numerous resources and support available to homeschoolers.  [Cynthia Anchondo](http://experts.universalclass.com/ruecatt)
-  4. [**Digital Dating - The Byte Sized Guide to Finding Love Online**](http://home.universalclass.com/i/crn/13971.htm) (Hot Class!) **3 Stars.** Chances are, if you're looking at this course you're already curious about the world of digital dating. Perhaps you know someone who's heard about this guy who met their soul mate online. Or maybe you've just heard about this sort of thing on TV. You may even have browsed a few sites here and there. But there are a lot of choices and it all seems rather confusing - maybe even a little scary. So right now you're wondering: Is digital dating for me? And probably: Where the heck do I begin?! This guide is designed to help you get the most out of your digital dating experience. It will take you step-by-step through the whole process, covering everything from how to choose an online service, to making first contact, to meeting safely in person and getting to the second date and beyond. By the time you're finished with this class, you'll be a true digital dating expert, and well on your way to finding e-pals, friendship, and yes, even love, online. [Chandra Clarke](http://experts.universalclass.com/chandraclarke)
-  5. [**Contract Law 3 (When Contracts are Not Contracts)**](http://home.universalclass.com/i/crn/10273.htm) (Hot Class!) **3 Stars.** When the requirements necessary for a valid contract are present and all the clauses in a contract are correctly stated, it is still possible for a contract not to be a contract. This course, a follow up on an earlier course, Contract Law (Introduction),is in 6 parts. It discusses lucidly these circumstances, with thought provoking questions and very stimulating tests and assignments. The knowledge gained from the course will guide anyone in any position of responsibility in taking decisions based on sound legal principles. The course is useful for students in higher institutions, professionals in any position of responsibility and anyone who desires an update or knowledge of Contract Law.  [Francis Afolalu](http://experts.universalclass.com/tundebabas2000)
+  1. [**ESL Students: Learn American Grammar and Conversation Skills**](http://home.universalclass.com/i/crn/15474.htm) (Hot Class!) **3 Stars.** This class will focus on learning English to be able to communicate in common everyday situations with a person from the United States . Students who wish to sound more natural with their English and want to be able to use and understand colloquial expressions should sign up for this class. The goal of the class is to help get the student past the point of being an English speaker who is basically understandable, but awkward with their words, to a smooth talking English speaker that doesn't stand out when he speaks! Enrolled students will have access to language exercises on target vocabulary and expressions, opportunities during class meeting times to converse and practice with a native English speaker from the United States (via chat room communication), feedback on homework and tests, and numerous language learning tips from an expert. Only students who have some familiarity with English and English grammar (i.e. previous ESL classes or experience speaking English) should enroll in this course.  [Andrew Lawton](http://experts.universalclass.com/lawtona)
+  2. [**Historical Research**](http://home.universalclass.com/i/crn/15740.htm) (Hot Class!) **3 Stars.** Historical Research is for people who like to dig into history. This course explains how to research history and is geared toward: history buffs, writers and genealogists. It covers such subjects as : first and secondary sources, cemeteries, interviewing, the way to read a history book, maps and setting up a subject and filing system. It is very hands-on because it encourages you to: -pick up a history book and look at it in a different way - visit a museum with new eyes - visit a cemetery and come out with oodles of information - be able to distinguish between first and secondary sources - appreciate the different types of maps - be able to judge the validity of a book, article, website etc in relation to your period of interest - interview a person who has information on your period of interest - store all this information  [Mary DeGruttola](http://experts.universalclass.com/mdegruttola)
+  3. [**Hypnosis for Weight Loss**](http://home.universalclass.com/i/crn/15524.htm) (Hot Class!) **3 Stars.** Hypnosis for Weight loss looks at various reasons for extra pounds and releases the emotional baggage in various forms that are being held onto. This course has a slight spiritual slant, seeing the Divine in each of us which raises self esteem and encourages love and forgiveness. We use affirmations, worksheets, class discussion and reflective diaries in addition to hypnosis to bring about the desired changes. This course includes 5 hypnosis audio sessions which can be listened to in an unlimited fashion, including breaking away from sugar cravings, food addictions, increasing metabolism, releasing negative overweight behaviors, personal success, abundance and more. Part of our lessons includes life coaching for a brighter future. The class forums and a reflective diary serve as support throughout your weight loss journey. Oxygenating the body for fat loss is covered in depth as well as easy non-diet eating plans.  [Mellisa Adams](http://experts.universalclass.com/mdormoy)[](http://my.universalclass.com/certificate.htm?ID=29785&cn=mdormoy)
+  4. [**Hearing God's Voice- Communion with God**](http://home.universalclass.com/i/crn/15147.htm) (Hot Class!) **3 Stars.** You Can Learn to Hear God's Voice - Guaranteed! You can hear God's voice every day of your life. You can be sure it's really Him. You can carry on an extended two-way conversation with Jesus Christ on a daily basis, and it's easier than you ever imagined. This class will change your life. It changed mine! A thoroughly practical course on hearing God's voice. Biblical techniques of vision and journaling will be combined to help one discern and clarify the spontaneous thoughts that come from God. (Key verses: Habakkuk 2:1-4) The goal is that one commune (converse) with God through the fellowship of the Holy Spirit and that this communion flow both ways. (As taught at Christian Leadership University in Buffalo NY) Learning to Hear God's Voice Will Give You: An intimate Friendship with God Divine Revelation Fulfilling Relationships A Healed Heart Authoritive Teaching Multiplied Productivity Overflowing Prosperity in EVERY area of Your Life! Don't wait another day to dramatically improve your life by learning how to Hear the Voice of God daily. Enroll today!  [Nicole Cruz](http://experts.universalclass.com/drndcruz)
+  5. [**Medical Coding - Integumentary System**](http://home.universalclass.com/i/crn/15566.htm) (Hot Class!) **3 Stars.** This course will discuss the Integumentary System with focus on the ICD-9-CM and CPT coding manuals. Medical Terminology relating to the Integumentary System is also discussed to educate the student on this subject. The focus of this course for the experienced coder is to gain additional knowledge in specialty coding. More than 150 coding scenarios for coding skin diseases and disorders and related procedures (CPT 10000 series) are provided to help the student continue his/her knowledge in the field of medical coding. For the less advanced student, it is a course that would help gain knowledge of coding guidelines as implemented in the coding industry and to build confidence and speed when assigning codes.  [Diana Wilson, CPC, CMC](http://experts.universalclass.com/dwilson)
   6. [**More Online Classes...**](http://universalclass.com/i/courses/1.htm)
 
   
