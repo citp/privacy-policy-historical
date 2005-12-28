@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223163024id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228162601id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
 
-Join the Pyramyd Air mailing list. Stay ahead of **airgunning news, articles,** and receive valuable **promotions**! 
+Join the Pyramyd Air mailing list. Stay ahead of **air gun news, articles,** and receive valuable **promotions**! 
 
 * * *
 
@@ -15,7 +15,10 @@ Airgun Tips and Tricks
 ---|---  
   
   
+  
 
+
+So, are you looking for a fresh take on airguns? Some new information, perhaps? [**Check out our daily report!**](https://web.archive.org/blog/) Monday thru Friday find new topics about air guns and airsoft. Ask your questions by clicking on the comments link at the bottom of each post. 
 
 ** PYRAMYD AIR PRIVACY STATEMENT  **
 
