@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306143638id_/http%3A//www.mivu.org/content.cfm%3FID%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228134907id_/http%3A//www.mivu.org/content.cfm%3FID%3D21) for the most accurate reproduction.*
 
 # Michigan Virtual University - Contact Us
 
@@ -43,6 +43,8 @@ The User ID you select during registration must be used to log in and participat
 MVU hosts, or provides links to, chat rooms, forums, and message boards. Our online instructors, instructor services, and student services staff monitor and respond to user e-mail sent to them and monitor and participate with users in threaded discussions and other online forums. MVU may monitor or edit the contents of a user's e-mail or threaded discussions or other online forums as required for normal maintenance of any of our Web sites or in the good-faith belief that such action is necessary to: (1) comply with the law or comply with legal process served on MVU; (2) protect and defend the rights or property of MVU; or (3) act to protect the personal safety of our guests or the public.
 
 If you are a Michigan Virtual High School student, your grades in MVHS courses will be reported to your mentor and your school and/or Sponsoring Institution. Except as described in this statement, **_the personal information you supply to MVU will not be given, sold, rented, loaned, or otherwise disclosed to any third parties outside of MVU, except when we have your permission or under special circumstances, such as when we believe in good faith that disclosure is reasonably necessary to (i) comply with legal process, (ii) enforce the Terms of Use, (iii) respond to claims that any content on our sites violates the rights of third parties, or (iv) protect the rights, property, or personal safety of MVU, its users, or the public._**
+
+My Dream Explorer is designed to protect your personal information from being seen or accessed by others. **_Each school district has designated administrators who have access to information for students in their buildings and student counselors/advisors will be able to review the EDP information. Other than these school officials, your EDP information will never be sold or revealed to other people or companies._**
 
 MVU may use aggregated personal information to determine the demographics of our users and to distribute statistics and general marketplace information about MVU. We will use commercially reasonable efforts to ensure that these demographics do not identify any specific user.
 
