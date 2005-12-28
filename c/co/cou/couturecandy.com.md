@@ -1,39 +1,89 @@
-> *The following text is extracted and transformed from the couturecandy.com privacy policy that was archived on 2005-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050228183452id_/http%3A//www.couturecandy.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couturecandy.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228094110id_/http%3A//www.couturecandy.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Couture Candy Privacy Policy
+# CoutureCandy Security and Privacy Policy
 
-## Privacy Policy
+### Secure Ordering
 
-This Privacy Policy governs the manner in which Couturecandy.com (the "Company") collects, uses, maintains and discloses information collected from users of this Web site (the "Users").
+Your online credit card transactions are secure with CoutureCandy. We use Secure Socket Layers (SSL), the industry-standard encryption technology that ensures safe Internet transmission of your personal information. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you are about to enter a secure area. 
 
-## Privacy
+Making a credit card purchase is just as safe on our website as it is by telephone, but if you prefer the latter, you may purchase online merchandise by calling toll-free 1-866-399-2263. Our Customer Care Department will gladly assist you.
 
-Users' privacy is very important to Company. Company is committed to safeguarding the information Users entrust to Company. This Web site is not directed at individuals less than 18 years of age.
+### Privacy Policy
 
-## The Information We Collect
+To achieve our goal of providing the highest quality products and services, we may use information from our interactions with you and other parties interacting with CoutureCandy. Because we respect your privacy, we have procedures to ensure that your personal information is handled in a safe, secure, and responsible manner.
 
-Company may collect nonpublic personal information from User in a variety of ways, including online forms for ordering products and services, and other instances where Users are invited to volunteer such information. The type of information we collect from consumers includes, but is not limited to: Name, Last Name, Co-Applicants Name, City, State, Address, Zip Code, Work Phone, Home Phone, House Type, Current Value, Loan Amount Desired, 1st Mortgage Balance, Current Interest Rate, whether your rate is Fixed or Adjustable, Current Payment, Are you Behind on Payments, Credit Rating, Place of Employment, Years Employed, Yearly Income, Best Time to Call, Loan Desired and Email Address. 
+As we continue to develop our website and take advantage of advances in technology, our privacy policy may change. Please refer to this page frequently for the most updated information.
 
-## How We Use Information
+This Privacy Policy has been in effect since 6/14/2005.
 
-Company collects nonpublic personal information from its Users in order to match Users with lenders and brokers. By clicking the "Submit" button on the application, Users consent to the disclosure of their nonpublic personal information to these lenders and brokers. The lenders and brokers may contact you directly after they receive your nonpublic personal information. Company may also use information collected through our web site for research regarding the effectiveness of the web site and Company's marketing and advertising efforts.
+### Information We Collect
 
-## Disclosure of Information to Nonaffiliated Third Parties
+When you shop with CoutureCandy you must submit the minimal required information necessary to complete your transaction. This information may include your name, address, telephone number, and email address.
 
-Company may disclose nonpublic personal information about you to other market participants that provide goods and services. These nonaffiliated third parties may include, but are not limited to (i) financial service providers such as lenders or brokers outside of our network of lenders and brokers, insurance companies and title companies and (ii) non-financial companies such as retailers and direct marketers. The Company may also disclose aggregate, anonymous data to investors and potential partners based on information collected from Users. Users may opt out of the Company's disclosure to nonaffiliated third parties by following the instructions in the opt-out section of this privacy policy. We may also disclose nonpublic personal information about you as permitted by law.
+When you use the website in any capacity, such as registering as a customer, participating in one of our promotions or sweepstakes, or purchasing products, we may ask for additional information, including your age, interests, hobbies, product preferences, and favorite designers. Giving us this information is optional and serves the purpose of us being able to provide the most desirable services and products to our customers.
 
-## Consent to Receive Privacy Notice and Opt-Out Notice Via this Web Site
+To improve our website, we collect non-personal information about how users navigate through the site. We may share this information with our affiliates or other outside companies.
 
-By acknowledging receipt of this privacy notice, you the customer also consent to receive your annual notice of the privacy policy, as required by FTC regulation, via this web site. By acknowledging receipt of this privacy notice, you the customer also consent to receive your opt out notice and opportunity to opt out, as required by FTC regulation, via this web site.
+### How We Use the Information We Collect
 
-## Maintenance of Information & Security
+We use the information we collect for various purposes, including:
 
-Information about Users that is maintained on our systems is protected using industry standard security measures that includes but is not limited to security measures in place to protect the loss, misuse and alteration of the information under our control. All data is protected using the most advanced methods available. We do not store financial information, credit card numbers or personal information like social security numbers on this Web site. However, due to the nature of the Internet, computer networks, systems and other factors, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure.
+  * to complete your purchase
+  * to provide the services you request
+  * to send you offerings by email
+  * to keep you informed about the status of your orders
+  * to identify your product and service preferences, so we can notify you of new or additional products, services, and promotions that might be of interest to you
+  * to notify you of product recalls or provide other information concerning products you have purchased
+  * to improve our merchandise selection, customer service, and overall shopping experience
 
-## Use of IP Addresses
 
-An IP (Internet Protocol) address is a number that is assigned to your computer when you use the Internet. Your IP address does not contain any nonpublic personal information about you. Company collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to ensure the validity of customer requests.
 
-## Web Site Links
+### Others with Whom We Share Your Information
 
-This Web site may contain links to other Internet web sites. We are not responsible for the privacy practices or the content of such Internet web sites.
+When a product you have purchased is fulfilled through a vendor, we will send the information necessary to box and ship your product. Personal credit card information is never released to any company outside CoutureCandy.
+
+### Your Choices Regarding Use of the Information We Collect
+
+Email and mail is an 'opt-in' offering of CoutureCandy. If you have previously opted into a feature that you no longer wish receive, you can change your preferences in the [My Account](https://web.archive.org/web/20051228094110id_/http%3A//www.couturecandy.com/sign-in.do) section of CoutureCandy. Alternatively, you can contact customer care and they will be happy to assist you with 'opting-out'. 
+
+Please note that some promotions and mailings may be completed in advance of your request to stop sharing information, so you may continue to receive some offers for a short time afterward. We appreciate your patience in giving us time to carry out your request.
+
+### Cookies and How We Use Them
+
+A "cookie" is a small data file stored by your Web browser on your computer's hard drive. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured server and database.
+
+We use cookies to identify the pages you click on during your visit to our site and the name of the Web site you visited immediately before clicking to CoutureCandy. We use this information to improve our site design, product assortments, customer service, and special promotions.
+
+We may contract with third parties who use cookies to collect information on our behalf or who provide services such as credit card processing, shipping, promotional services or data management. These third parties are prohibited by our contract from sharing that information with anyone other than CoutureCandy or our vendors.
+
+### Children's Privacy
+
+The Children's Online Privacy Protection Act took effect on April 21, 2000. It imposes certain requirements on websites directed at children under 13 that collect information on those children, and on websites that knowingly collect information on children under 13.
+
+We do not knowingly collect any personal information from children under the age of 13 on our website. Our online sweepstakes are restricted to entrants who are at least 15 years of age.
+
+No one under the age of 15 should submit any personal information to CoutureCandy without the consent of a parent or guardian.
+
+### Links to Other Sites
+
+While visiting CoutureCandy, you may follow links to websites operated by our business partners or other third-parties. A link from CoutureCandy to a third-party site does not mean that we endorse this website. We do not make any representations or warranties about any website you may access from our website; Third party websites are independent from us, and we have no control over, or responsibility for, their information or activities. You need to make your own independent decisions regarding your interactions or communications with any other website.
+
+If you provide personal information at a third-party website, you are subject to the privacy policy of the operator of that website and not the CoutureCandy privacy policy. We encourage you to read that policy before submitting any personal information.
+
+### Online Account Registration
+
+To make online shopping faster and easier, you must register with CoutureCandy. As a registered customer, you only have to enter your shipping addresses and billing information and they will be securely stored with us for your future use. Using your name and a password of your choice, you may access your account online to add, delete, or change information.
+
+If you are using a public computer, we strongly encourage you to log out at the conclusion of your session to maintain the integrity of your account. If you log out, your information will still be stored with us but it will not be accessible to anyone else from that computer.
+
+### Emails
+
+Each time you receive an email from CoutureCandy, you will be given the opportunity to "opt-out" to stop receiving future emails.
+
+If you choose to "opt-out," we will stop sending you emails. Please note, however, that some email promotions are prepared well in advance, so you may continue to receive offers after you have chosen to "opt-out." We appreciate your patience in giving us time to carry out your request.
+
+Please also note, that if you have chosen to "opt-out", you still may receive emails from us, our affiliates, or shipping services, solely related to your online purchases with CoutureCandy.
+
+### Any Questions?
+
+We'll be happy to provide additional information or answer any questions. [Click here](https://web.archive.org/web/20051228094110id_/http%3A//www.couturecandy.com/contact-us.htm) for information on how to contact CoutureCandy.
