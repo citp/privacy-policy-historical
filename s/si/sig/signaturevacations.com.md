@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the signaturevacations.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404090905id_/http%3A//www.signaturevacations.com/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signaturevacations.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228163613id_/http%3A//www.signaturevacations.com/about_privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - SIGNATURE Vacations
 
-Privacy Policy  
-
-
-SIGNATURE VACATIONS, a division of First Choice Canada Inc. is committed to protecting the privacy of your personal information. We have developed this policy and related procedures to comply with the Personal Information Protection and Electronic Documents Act.
+Privacy PolicySIGNATURE VACATIONS, a division of First Choice Canada Inc. is committed to protecting the privacy of your personal information. We have developed this policy and related procedures to comply with the Personal Information Protection and Electronic Documents Act.
 
 SIGNATURE VACATIONS is responsible for personal information it holds or has under its control, including personal information it passes on to others with your permission. We have designated a Privacy Officer to ensure our compliance with legislation and this policy. Our Privacy officer will receive and respond to your inquiries and complaints regarding the protection and privacy of your personal information, and deal with requests for access to your information.
 
@@ -13,7 +10,7 @@ SIGNATURE VACATIONS is responsible for personal information it holds or has unde
 
 When you browse this site, we do not collect personal information about you. The only way we can collect any kind of personal information is if you give it to us.
 
-The nature of personal information we collect may include:
+The nature of personal information we collect may include: 
 
   * Information we receive from you when you book travel either through our Web site, over the telephone, in writing or in person.. This information may include such details as your name, your address and your credit card details; 
   * Information we receive from you on a volunteer basis if we conduct a survey of your preferences, needs and interests;
