@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogomania.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306190435id_/http%3A//www.dogomania.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogomania.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228214843id_/http%3A//www.dogomania.com/privacy.shtml) for the most accurate reproduction.*
 
 # Dog-O-Mania - The biggest dogs related search engine & resource: Privacy policy
 
@@ -119,7 +119,4 @@ This site gives users the following options for changing and modifying informati
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Margo Peron  
-Dog-O-Mania M4D.COM [dogs@m4d.com](http://www.dogomania.com/contact.shtml)   
-  
-[](http://www.petlinkexchange.com/)   
-
+Dog-O-Mania M4D.COM [dogs@m4d.com](http://www.dogomania.com/contact.shtml)
