@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528091115id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228124132id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,10 +47,9 @@ Main Menu:
 [Search](http://www.abcteach.com/search.php "Search")  
 [Membership](http://www.abcteach.com/subscribe.php "Membership")  
 [Site License](http://www.abcteach.com/site_license.php "Site License")  
-[Member Document List](https://web.archive.org/subscriber_document_list.php "Member Document List")  
-[Gift Certificates](https://web.archive.org/gift.php "Gift Certificates")  
+[Gift Memberships](https://web.archive.org/gift.php "Gift Memberships")  
 [Member Newsletter Archive](https://web.archive.org/newsletter/ "Member Newsletter Archive")  
-[Member Tools](http://www.abcteach.com/member_tools.php "Member Tools")  
+[My Account](http://www.abcteach.com/member_tools.php "My Account")  
 [Submission Guidelines](http://www.abcteach.com/submission_guidelines.php "Submission Guidelines")  
 [Who's Who](http://www.abcteach.com/who_is_who.php "Who's Who")  
 [Contact Us](http://www.abcteach.com/contact_us.php "Contact Us")  
