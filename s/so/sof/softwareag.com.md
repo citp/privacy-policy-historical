@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407071658id_/http%3A//www2.softwareag.com/Corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228055544id_/http%3A//www1.softwareag.com/Corporate/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
