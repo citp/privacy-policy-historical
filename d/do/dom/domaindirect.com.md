@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403181922id_/http%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228110310id_/https%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
 
 # Domain Name Registration and Web Hosting from Domain Direct
 
@@ -45,20 +45,55 @@ CA
 **+1.4165350123 Fax:** +1.4165312516
 
 **Registration Service Provider:**  
-Domain Direct, [**dnstech@domaindirect.com**](mailto:dnstech@domaindirect.com)  
+Domain Direct  
 1-416-531-2084  
-**http:** //www.domaindirect.com  
+**http:** //www.domaindirect.com/supportform.html  
 This company may be contacted for domain login/passwords,  
 DNS/Nameserver changes, and general domain support questions.
 
 **Registrar of Record:** TUCOWS, INC.  
-Record last updated on 12-May-2004.  
-Record expires on 01-Jun-2005.  
+Record last updated on 11-Apr-2005.  
+Record expires on 01-Jun-2006.  
 Record created on 02-Jun-1998.
 
 **Domain servers in listed order:**  
-NS1.DOMAINDIRECT.COM _**216.40.33.21**_  
+NS1.DOMAINDIRECT.COM _**216.40.33.22**_  
 NS2.DOMAINDIRECT.COM _**216.40.33.22**_  
 NS3.DOMAINDIRECT.COM _**204.50.180.58**_
 
-**Domain status:** REGISTRAR-LOCK 
+**Domain status:** REGISTRAR-LOCK
+
+The Data in the Tucows Registrar WHOIS database is provided to you by Tucows  
+for information purposes only, and may be used to assist you in obtaining  
+information about or related to a domain name's registration record.
+
+Tucows makes this information available "as is," and does not guarantee its  
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for  
+**lawful purposes and that, under no circumstances will you use this data to:**  
+a) allow, enable, or otherwise support the transmission by e-mail,  
+telephone, or facsimile of mass, unsolicited, commercial advertising or  
+solicitations to entities other than the data recipient's own existing  
+customers; or (b) enable high volume, automated, electronic processes that  
+send queries or data to the systems of any Registry Operator or  
+ICANN-Accredited registrar, except as reasonably necessary to register  
+domain names or modify existing registrations.
+
+The compilation, repackaging, dissemination or other use of this Data is  
+expressly prohibited without the prior written consent of Tucows.
+
+Tucows reserves the right to terminate your access to the Tucows WHOIS  
+database in its sole discretion, including without limitation, for excessive  
+querying of the WHOIS database or for failure to otherwise abide by this  
+policy.
+
+Tucows reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by these terms.
+
+**NOTE:** THE WHOIS DATABASE IS A CONTACT DATABASE ONLY. LACK OF A DOMAIN  
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY. 
+
+|   
+---|---
