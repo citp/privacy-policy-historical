@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetf1.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308030634id_/http%3A//www.planetf1.com/home/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetf1.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228150105id_/http%3A//www.planetf1.com/home/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Formula One news, fun, results and features from Planet-F1.com
 
