@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerstars.com privacy policy that was archived on 2005-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050416003623id_/http%3A//www.pokerstars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstars.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228015723id_/http%3A//www.pokerstars.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to PokerStars.com
 
@@ -52,7 +52,7 @@ You can write to us at any time to obtain a copy of your information and to have
   
 **7\. Cookies**
 
-We may send you a temporary cookie when you visit [www.PokerStars.com](http://www.pokerstars.com/) website. A cookie is a text-only string of information that we place in your computer's cookie file so that we can remember who you are when you revisit [www.PokerStars.com](http://www.pokerstars.com/) website. We may use the data generated from cookies to compile statistical data on your use of our website. You are not obliged to accept the cookie from us and you have the ability to accept or decline cookies by modifying the settings in your browser. Please see [www.allaboutcookies.org](http://www.allaboutcookies.org/) if you require any further information about the placing, use or deletion of cookies.   
+We may send you a temporary cookie when you visit [www.PokerStars.com](http://www.pokerstars.com/) website. A cookie is a text-only string of information that we place in your computer's cookie file so that we can remember who you are when you revisit [www.PokerStars.com](http://www.pokerstars.com/) website. We may use the data generated from cookies to compile statistical data on your use of our website. You are not obliged to accept the cookie from us and you have the ability to accept or decline cookies by modifying the settings in your browser. Please see [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq) if you require any further information about the placing, use or deletion of cookies.   
   
 **8\. Consent to Privacy Policy**
 
