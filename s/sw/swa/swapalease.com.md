@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403102626id_/http%3A//swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228120715id_/http%3A//swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **SWAPALEASE INC. PRIVACY STATEMENT  
-**EFFECTIVE ON: 5/19/2004** **  
+**EFFECTIVE ON: 11/15/2005** **  
 ---  
-| [](https://www.truste.org/validate/8927) |  Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for Swapalease.com of Swapalease Inc.'s Website.  
+| [](http://www.truste.org/ivalidate.php?url=www.swapalease.com&sealid=101) |  Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [www.swapalease.com](http://www.swapalease.com/) of Swapalease Inc.'s Website.  
 ---|---  
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
@@ -19,7 +19,7 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 
 
 
-**If you feel that this company is not abiding by its posted privacy policy, you should first contact Scot Hall, of the Swapalease Client Services Department by emailing Mr. Hall at[shall@swapalease.com](mailto:shall@swapalease.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.  
+**If you feel that this company is not abiding by its posted privacy policy, you should first contact Scot Hall, of the Swapalease Client Services Department by emailing Mr. Hall at[shall@swapalease.com](mailto:shall@swapalease.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.  
 **  
   
 **Information Collection and Use  
@@ -85,7 +85,7 @@ For example, to determine if our customers qualify (meet generally accepted leas
 **If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. One way this can be accomplished is at the "Managing Your Account" page after member log in. Other avenues include emailing, phoning, or standard mailing our customer support site (see "Contact Us" page for detailed information).  
   
 **Choice/Opt-out  
-**Our users are notified of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive our memorandums or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [support2@swapalease.com](mailto:support2@swapalease.com).
+**Our users are notified of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive our memorandums or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [support@swapalease.com](mailto:support@swapalease.com).
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.  
   
@@ -99,7 +99,6 @@ Users of our site are always notified when their information is being collected 
 **If you have any questions or suggestions regarding our privacy policy, please contact us at:  
 Phone: 1-866-SWAPNOW (1-866-792-7669)  
 Fax: (513) 381-1091  
-Email: [support2@swapalease.com](mailto:support2@swapalease.com)  
-Postal Address: 403 Vine Street   
-                        Second Floor   
-                        Cincinnati, Ohio 45202 
+Email: [support@swapalease.com](mailto:support@swapalease.com)  
+Postal Address: 9090 Colerain Ave   
+                        Cincinnati, Ohio 45251 
