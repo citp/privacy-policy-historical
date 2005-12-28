@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmopal.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305003524id_/http%3A//cosmopal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmopal.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228062648id_/http%3A//cosmopal.com/privacy.php) for the most accurate reproduction.*
 
 # CosmoPal
 
@@ -8,7 +8,7 @@ CosmoPal members
 New user?  
 [ ](https://www.cosmpal.com/sign_up.php)
 
-|  | The Privacy Policy below governs your CosmoPal account and any information you provide on this site. If you apply for a CosmoPal VISAR credit card (available in the U.S. only), you authorize CosmoPal and Providian National Bank (which is the issuer of the CosmoPal VISA card) to exchange the information you provide in the application form. If you are approved for a CosmoPal VISA credit card, your credit card account will be governed by the Providian Privacy Policy.
+|  | The Privacy Policy below governs your CosmoPal account and any information you provide on this site. If you apply for a CosmoPal VISA © credit card (available in the U.S. only), you authorize CosmoPal and Providian National Bank (which is the issuer of the CosmoPal VISA card) to exchange the information you provide in the application form. If you are approved for a CosmoPal VISA credit card, your credit card account will be governed by the Providian Privacy Policy.
 
 * * *
 
@@ -20,7 +20,7 @@ B. Information We Collect
 C. Our Use and Disclosure of Information  
 D. Information Security  
 E. Accessing and Changing Your Information  
-F. [Contacting Us](https://web.archive.org/web/20050305003524id_/http%3A//cosmopal.com/contact_us.php)
+F. [Contacting Us](https://web.archive.org/web/20051228062648id_/http%3A//cosmopal.com/contact_us.php)
 
 * * *
 
@@ -29,7 +29,7 @@ A. Overview
 
 In order to operate the CosmoPal service and to reduce the risk of fraud, CosmoPal Corp. ("CosmoPal" or "we") must ask you to provide us information about yourself and your credit card and/or bank account. This Privacy Policy describes the information we collect and how we use that information. CosmoPal takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. We will not sell or rent your personally identifiable information or a list of our customers to third parties. However, as described in more detail in Part C below, there are limited circumstances in which some of your information will be shared with third parties, under strict restrictions, so it is important for you to review this Privacy Policy. This Privacy Policy applies to all services that are hosted on the CosmoPal.com Web site, whether the services are offered by CosmoPal, by its subsidiaries, or by the CosmoPal Money Market Fund. 
 
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLineR Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/).
+Your privacy is important to us. By participating in the Council of Better Business Bureau's OnLine Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/).
 
 Additionally, in order to enhance the protection of your privacy and our compliance with this Privacy Policy, CosmoPal has agreed to disclose our information practices and to have our practices reviewed for compliance by TRUSTe. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. By displaying the TRUSTe trustmark, CosmoPal has agreed to notify you of: 
 
@@ -41,7 +41,7 @@ Additionally, in order to enhance the protection of your privacy and our complia
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under CosmoPal's control.
   7. How you can correct any inaccuracies in the information.
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact CosmoPal using [this form](https://web.archive.org/web/20050305003524id_/http%3A//cosmopal.com/contact_us.php). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [www.truste.org/users/users_watchdog.html](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with CosmoPal to resolve your concerns. 
+If you have questions or concerns regarding this Privacy Policy, you should first contact CosmoPal using [this form](https://web.archive.org/web/20051228062648id_/http%3A//cosmopal.com/contact_us.php). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [www.truste.org/users/users_watchdog.html](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with CosmoPal to resolve your concerns. 
 
 By accepting the Privacy Policy and User Agreement in registration, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the CosmoPal User Agreement. This Privacy Policy will take effect on March 4, 2003. This Privacy Policy was last updated on October 10, 2003. 
 
@@ -67,7 +67,7 @@ B. Information We Collect
 Required Information  
 To open a CosmoPal account, you must provide your name, address, phone number, and e-mail address. In order to make payments through CosmoPal, you must provide credit card, debit card or bank account information (bank account information is required to make payments totaling more than $1,000). We also ask you to choose two different security questions to answer (such as your city of birth or your pet's name) This required information is necessary for us to process transactions, issue a new password if you forget or lose your password, protect you against credit card fraud and checking account fraud, and to contact you should the need arise in administering your account. 
 
-If you enroll in the optional sweep of your funds into the CosmoPal Money Market Fund, we are required to collect your Social Security Number ("SSN") or other Taxpayer Identification Number ("TIN"). In order to comply with the Bank Secrecy Act, we will also require your SSN or TIN if you send or receive certain high-value transactions or high overall payment volumes through CosmoPal. If you choose to register or apply for certain optional features or products offered through CosmoPal Web sites, such as listing your business in CosmoPal Shops, or applying for the CosmoPal VisaR credit card or the CosmoPal MasterCardR debit card, you will be required to provide additional information to establish that you qualify for such features or products. 
+If you enroll in the optional sweep of your funds into the CosmoPal Money Market Fund, we are required to collect your Social Security Number ("SSN") or other Taxpayer Identification Number ("TIN"). In order to comply with the Bank Secrecy Act, we will also require your SSN or TIN if you send or receive certain high-value transactions or high overall payment volumes through CosmoPal. If you choose to register or apply for certain optional features or products offered through CosmoPal Web sites, such as listing your business in CosmoPal Shops, or applying for the CosmoPal Visa © credit card or the CosmoPal MasterCard debit card, you will be required to provide additional information to establish that you qualify for such features or products. 
 
 Supplemental Information  
 Effective May 2004, CosmoPal will require U.S. Premier and Business users who receive more than $2,000.00 USD a month in payment volume through CosmoPal over three consecutive months to provide supplemental information about their businesses including business categorization, sales venue, and business URL information. 
@@ -109,7 +109,7 @@ When a member either sends a payment to, or requests a payment from, an individu
 C. Our Use and Disclosure of Information
 
 Internal Uses  
-We collect, store and process your personal information on servers located in the United States. We use the information we collect about you in order 1) to provide our services and process your transactions, 2) to provide customer service, 3) to determine your eligibility to receive offers for special features or products, such as the CosmoPal MasterCardR debit card, and 4) to improve our products and services. At your option (as indicated in your CosmoPal Profile settings), we use the information you provide to access specific third party services on your behalf and perform the actions that you request us to perform, such as invoicing winning bidders on behalf of auction sellers.
+We collect, store and process your personal information on servers located in the United States. We use the information we collect about you in order 1) to provide our services and process your transactions, 2) to provide customer service, 3) to determine your eligibility to receive offers for special features or products, such as the CosmoPal MasterCard debit card, and 4) to improve our products and services. At your option (as indicated in your CosmoPal Profile settings), we use the information you provide to access specific third party services on your behalf and perform the actions that you request us to perform, such as invoicing winning bidders on behalf of auction sellers.
 
 We give access to individually identifiable information about our users only to those employees who require it to fulfill customer service requests.
 
@@ -125,7 +125,7 @@ CosmoPal will not sell or rent any of your personally identifiable information t
 
 We share information with companies that help us process the transactions you request and protect our customers' transactions from fraud, such as sharing your credit card number with a service that screens for lost and stolen card numbers. See "Information About You From Third Parties" in Section B above. Additionally, if you go into a negative balance and owe us money, we may share information with processing companies including collection agencies. 
 
-We disclose the information we collect, as described in Section B above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements (for example, we disclose information to Providian National Bank, which is the issuer of CosmoPal VisaT credit cards, so that Providian can determine customers' eligibility for the CosmoPal Visa credit card, and so that CosmoPal and Providian can better match the products we offer to our customers' needs). These companies are subject to confidentiality agreements with us and other legal restrictions that prohibit using the information except to market the specified CosmoPal-related products or services, unless you have affirmatively agreed or given your prior permission for other uses. 
+We disclose the information we collect, as described in Section B above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements (for example, we disclose information to Providian National Bank, which is the issuer of CosmoPal Visa © credit cards, so that Providian can determine customers' eligibility for the CosmoPal Visa credit card, and so that CosmoPal and Providian can better match the products we offer to our customers' needs). These companies are subject to confidentiality agreements with us and other legal restrictions that prohibit using the information except to market the specified CosmoPal-related products or services, unless you have affirmatively agreed or given your prior permission for other uses. 
 
 We disclose information that we in good faith believe is appropriate to cooperate in investigations of fraud or other illegal activity, or to conduct investigations of violations of our User Agreement. Specifically, this means that if we conduct a fraud investigation and conclude that one side has engaged in deceptive practices, we can give that person or entity's contact information (but not bank account or credit card information) to victims who request it. 
 
@@ -159,7 +159,7 @@ By entering into our User Agreement, you agree that, with respect to other users
 
 In all cases, you must provide users with the opportunity to remove themselves from your database and review any information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another CosmoPal user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different rights with respect to information they access. 
 
-CosmoPal does not tolerate spam. Therefore, without limiting the foregoing, you may not add a CosmoPal user to your mail list (email or physical mail) without their express consent after adequate disclosure, even if said user has previously made a purchase from you. We strictly enforce our Anti-Spam Policy! To report CosmoPal-related spam to CosmoPal, please [contact us](https://web.archive.org/web/20050305003524id_/http%3A//cosmopal.com/contact_us.php).
+CosmoPal does not tolerate spam. Therefore, without limiting the foregoing, you may not add a CosmoPal user to your mail list (email or physical mail) without their express consent after adequate disclosure, even if said user has previously made a purchase from you. We strictly enforce our Anti-Spam Policy! To report CosmoPal-related spam to CosmoPal, please [contact us](https://web.archive.org/web/20051228062648id_/http%3A//cosmopal.com/contact_us.php).
 
 Merchant Referral Program  
 When you sign up for a CosmoPal account, you become eligible to participate in our Merchant Referral Bonus program. We provide you with a link on the Merchant Referral Bonus page which identifies you as the referrer. If a merchant uses that link to sign up for a Premier or Business CosmoPal account and completes the bonus requirements, you are eligible for a referral bonus. If you use a referral link to sign up, your business name (if you have a Business account) or first and last name (if you have a Premier account) may be listed in the referrer's CosmoPal account, along with the amount of bonus you have generated for the referrer, which is calculated as a percentage of your transaction volume, as described in the Merchant Referral Bonus Policy.
@@ -199,6 +199,6 @@ You can review the personal information you provided us and make any desired cha
   
 F. Contacting Us
 
-If you have any questions about this privacy statement, CosmoPal's information practices, or your dealings with CosmoPal, you can contact us using [this form](https://web.archive.org/web/20050305003524id_/http%3A//cosmopal.com/contact_us.php), call 402-935-7733 Monday through Friday between the hours of 4am and 10pm PST, or write us at CosmoPal, 2078 Third Street, Mandeville, LA 70471. 
+If you have any questions about this privacy statement, CosmoPal's information practices, or your dealings with CosmoPal, you can contact us using [this form](https://web.archive.org/web/20051228062648id_/http%3A//cosmopal.com/contact_us.php), call 402-935-7733 Monday through Friday between the hours of 4am and 10pm PST, or write us at CosmoPal, 2078 Third Street, Mandeville, LA 70471. 
 
 With respect to our privacy practices as a financial institution and our compliance with this Privacy Policy, CosmoPal is regulated by the Federal Trade Commission (FTC). You can obtain information about the FTC at [http://www.ftc.gov](http://www.ftc.gov/).
