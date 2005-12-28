@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the timberland.com privacy policy that was archived on 2005-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050418060727id_/http%3A//www.timberland.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timberland.com privacy policy that was archived on 2005-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228151522id_/http%3A//www.timberland.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -74,15 +74,25 @@
 <meta name="description" content="Welcome to www.timberland.com, the ultimate authority for athletic equipment selection, quality sporting goods and value. Whether you're looking for discount sports equipment, athletic apparel online, investment or career information, we have everything you need to get into your game. Any time. Any team. Any player. Any sport. Always priced right.">
 
 <meta name="keywords" content="sports authority,athletic equipment shopping,inline skating,athletic equipment online,athletic apparel,treadmill shopping,sporting goods retail,shop for scooters,sporting goods shopping,athletic equipment shopping,sporting goods,exercise equipment,sports gear,discount sports equipment,workout clothes shopping,treadmills,lowest prices,sports equipment,discount sporting goods online shopping,lowest online price,treadmill,baseballs,basketballs,soccer clothes,running shoes,balls,football uniform,baseball bat,exercise treadmills,sports apparel online,discount athletetic equipment,exercise clothes,inline skates,scooters,workout apparel,basketball shoes,price guarentee">
-   <link rel="stylesheet" type="text/css" href="../include/store.css">
+   <link rel="stylesheet" type="text/css" href="http://TBL.imageg.net/include/store.css">
 </head>
 <body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" border="0">
 <!-- header begin -->
 <script type="text/javascript">
+ 
+function incrCartQty(amt)
+{
+  try {
+    var s = document.getElementById('changeme').innerHTML;
+    var i = parseInt(s);
+    document.getElementById('changeme').innerHTML = (i+amt) + ' items';
+  } catch (e) {
+  }
+}
 
 if (document.images) 
 	{ 
-	path = "/images/";
+	path = "http://TBL.imageg.net/images/";
 
 	//------------------------------------------------------------
 	// NAVIGTION IMAGES
@@ -91,29 +101,27 @@ if (document.images)
 	men_on = new Image(); men_on.src = path+"topnav_men_on.gif"; 
 	women_on = new Image(); women_on.src = path+"topnav_women_on.gif"; 
 	kids_on = new Image(); kids_on.src = path+"topnav_kids_on.gif"; 
-	gifts_on = new Image(); gifts_on.src = path+"topnav_gifts_on.gif";  
-	pro_on = new Image(); pro_on.src = path+"topnav_tblpro_on.gif";	
+	custom_on = new Image(); custom_on.src = path+"topnav_custom_on.gif"; 
+	pro_on = new Image(); pro_on.src = path+"topnav_pro_on.gif";	
+	pg_on = new Image(); pg_on.src = path+"topnav_pg_on.gif";
+	bag_on = new Image(); bag_on.src = path+"tbl_shopbag_on.gif";	
+	bd_on = new Image(); bd_on.src = path+"topnav_bd_on.gif";	
+
 	men_off = new Image(); men_off.src = path+"topnav_men_off.gif"; 
 	women_off = new Image(); women_off.src = path+"topnav_women_off.gif"; 
 	kids_off = new Image(); kids_off.src = path+"topnav_kids_off.gif"; 
-	gifts_off = new Image(); gifts_off.src = path+"topnav_gifts_off.gif";  
-	pro_off = new Image(); pro_off.src = path+"topnav_tblpro_off.gif";		
-	
+	custom_off = new Image(); custom_off.src = path+"topnav_custom_off.gif"; 
+	pro_off = new Image(); pro_off.src = path+"topnav_pro_off.gif";		
+	pg_off = new Image(); pg_off.src = path+"topnav_pg_off.gif";
+	bag_off = new Image(); bag_off.src = path+"tbl_shopbag_off.gif";
+	bd_off = new Image(); bd_off.src = path+"topnav_bd_off.gif";	
+
 	product_on = new Image(); product_on.src = path+"topnav_product_on.gif";	
 	product_off = new Image(); product_off.src = path+"topnav_product_off.gif";
-	bag_on = new Image(); bag_on.src = path+"tbl_shopbag_on.gif";	
-	bag_off = new Image(); bag_off.src = path+"tbl_shopbag_off.gif";
-	serve_on = new Image(); serve_on.src = path+"tbl_tblserve_on.gif";	
-	serve_off = new Image(); serve_off.src = path+"topnav_timberlandserve_off.gif";
-	go_on = new Image(); go_on.src = path+"go_btn_on.gif";	
-	go_off = new Image(); go_off.src = path+"go_btn.gif";
-	go2_on = new Image(); go2_on.src = path+"go_btn_on.gif";	
-	go2_off = new Image(); go2_off.src = path+"go_btn.gif";
 	proreward_on = new Image(); proreward_on.src = path+"topnav_prorewards_on.gif";	
 	proreward_off = new Image(); proreward_off.src = path+"topnav_prorewards_off.gif";
 	inside_on = new Image(); inside_on.src = path+"topnav_insideconnection_on.gif";	
 	inside_off = new Image(); inside_off.src = path+"topnav_insideconnection_off.gif";
-	
 	
 	//path = "/images/product_detail/";
 	wish_on = new Image(); wish_on.src = path+"AddtoWishList_on.gif";	
@@ -123,7 +131,7 @@ if (document.images)
 	larger_on = new Image(); larger_on.src = path+"larger_on.gif";	
 	larger_off = new Image(); larger_off.src = path+"larger_off.gif";
 	
-	path = "/images/";
+	path = "http://TBL.imageg.net/images/";
 	leftarrow_on = new Image(); leftarrow_on.src = path+"pagenav_leftarrow_on.gif";	
 	leftarrow_off = new Image(); leftarrow_off.src = path+"pagenav_leftarrow.gif";
 	rightarrow_on = new Image(); rightarrow_on.src = path+"pagenav_rightarrow_on.gif";	
@@ -151,27 +159,10 @@ if (document.images)
             }
     }
 	</script>
-
-
 <table border="0" cellpadding="0" cellspacing="0" width="773" background="http://TBL.imageg.net/images/pixel.gif">
 	<tbody><tr>
-		<td width="8">
-			<img alt="" height="45" src="http://TBL.imageg.net/images/pixel.gif" width="8" border="0"></td>
-		<td width="182" align="left" valign="top">
-			<a href="../home/index.jsp" target="_top"><img alt="" height="45" src="http://TBL.imageg.net/images/TBL_Logo_stacked.gif" border="0"></a></td>
-		<td width="573" align="right">
-			<!-- START THE HEADER LEFT NAVIGATION  LINKS -->
-			<a href="/businessdirect/index.jsp?clickid=topnav_businessdirect_txt" target="_top" class="UnderLink2">Business Direct</a>
-<img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="5" height="1"><font class="divider">|</font><img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="6" height="1"><a href="https://www.timberland.com/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt" target="_top" class="UnderLink2">My Account</a>
-<img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="5" height="1"><font class="divider">|</font><img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="6" height="1">
-<a href="/helpdesk/index.jsp?clickid=topnav_help_txt" class="UnderLink2" target="_top">Customer Service</a>
-<img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="6" height="1"><font class="divider">|</font><img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="6" height="1">
-<a href="/corp/index.jsp?page=storeLocator&amp;clickid=topnav_store_txt" class="UnderLink2" target="_top">Stores</a>
-<img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="6" height="1"><font class="divider">|</font><img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="6" height="1">
-<font class="searchCopy">Product Search</font>
-<img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="6" height="1"><form action="/searchHandler/index.jsp" name="search" style="margin:0px;display:inline;" target="_top"><input type="text" size="16" name="keywords" align="middle" style="font-size:10px;font-family:verdana;" value="" onfocus="this.value=''"><img src="http://TBL.imageg.net/images/pixel.gif" alt="" width="2" height="1"><input type="image" src="http://TBL.imageg.net/images/go_btn.gif" border="0" align="absmiddle" width="23" height="22"></form></td>
-		<td>
-			<img src="http://TBL.imageg.net/images/pixel.gif" alt="" width="8" height="1"></td>
+		<td width="166" align="left" valign="top"><a href="../home/index.jsp" target="_top"><img src="http://TBL.imageg.net/images/logo.gif" width="166" height="50" alt="" border="0"></a></td>
+		<td width="607" align="right" style="padding-top:22px;padding-right:15px;" nowrap=""><!-- START THE HEADER LEFT NAVIGATION  LINKS --><a href="/corp/index.jsp?clickid=topnav_corp_txt" target="_top" class="UnderLink2">About Timberland</a><img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="4" height="1"><span class="divider">|</span><img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="4" height="1"><a href="https://www.timberland.com/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt" target="_top" class="UnderLink2">My Account</a><img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="4" height="1"><span class="divider">|</span><img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="4" height="1"><a href="/helpdesk/index.jsp?clickid=topnav_help_txt" class="UnderLink2" target="_top">Customer Service</a><img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="4" height="1"><span class="divider">|</span><img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="4" height="1"><a href="/corp/index.jsp?page=authRetailer&amp;clickid=topnav_store_txt" class="UnderLink2" target="_top">Stores</a><img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="4" height="1"><span class="divider">|</span><img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="4" height="1"><span class="searchCopy">Search</span><img alt="" src="http://TBL.imageg.net/images/pixel.gif" width="4" height="1"><form action="/searchHandler/index.jsp" name="search" style="margin:0px;display:inline;" target="_top"><input type="text" size="16" name="keywords" align="middle" style="font-size:10px;font-family:verdana;" value="" onfocus="this.value=''"><img src="http://TBL.imageg.net/images/pixel.gif" alt="" width="4" height="1"><input type="image" src="http://TBL.imageg.net/images/go_btn.gif" border="0" align="absmiddle" width="23" height="23"></form></td>
 	</tr>
 </tbody></table>
 <div style="display:none;">
@@ -189,6 +180,9 @@ if (document.images)
 </div>
 
 
+<script language="javascript1.2" type="text/javascript" src="http://TBL.imageg.net/include/mbox.js"></script>
+
+
 <script language="JavaScript">
 function change(id, newClass) {
 
@@ -198,46 +192,35 @@ identity.className=newClass;
 
 }
 </script> 
+<!--shopCode = base-->
 <!-- START HEADER BUTTON PRIMARY-NAVIGATION -->
  			<table border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-				<!-- MENS -->
-					<td bgcolor="#ff9900">
-						<img src="http://TBL.imageg.net/images/pixel.gif" alt="" width="9" height="1"></td>
- 					<td>
- 						<a href="/shop/index.jsp?categoryId=1779791&amp;clickid=topnav_men_img" onmouseover="imgOn('men','men');" onmouseout="imgOff('men','men');" target="_top">
- 	<img name="men" src="http://TBL.imageg.net/images/topnav_men_off.gif" alt="" width="50" height="26" border="0"></a></td>
-				<!-- WOMEN -->
- 					<td>
- 						<a href="/shop/index.jsp?categoryId=1779792&amp;clickid=topnav_women_img" onmouseover="imgOn('women','women');" onmouseout="imgOff('women','women');" target="_top">
- 	<img name="women" src="http://TBL.imageg.net/images/topnav_women_off.gif" alt="" width="63" height="26" border="0"></a></td>
+	<!-- MENS -->
+					<td><img src="http://TBL.imageg.net/images/orange.gif" alt="" width="7" height="35"></td>
+ 					<td><a href="/shop/index.jsp?categoryId=1779791&amp;clickid=topnav_men_img" onmouseover="imgOn('men','men');" onmouseout="imgOff('men','men');" target="_top">
+						<img name="men" src="http://TBL.imageg.net/images/topnav_men_off.gif" alt="" width="48" height="35" border="0"></a></td>
+	<!-- WOMEN -->
+ 					<td><a href="/shop/index.jsp?categoryId=1779792&amp;clickid=topnav_women_img" onmouseover="imgOn('women','women');" onmouseout="imgOff('women','women');" target="_top">
+						<img name="women" src="http://TBL.imageg.net/images/topnav_women_off.gif" alt="" width="56" height="35" border="0"></a></td>
 	<!-- KIDS -->
- 					<td>
- 						<a href="/shop/index.jsp?categoryId=1779793&amp;clickid=topnav_kids_img" onmouseover="imgOn('kids','kids');" onmouseout="imgOff('kids','kids');"><img name="kids" src="http://TBL.imageg.net/images/topnav_kids_off.gif" alt="" width="50" height="26" border="0" target="_top"></a></td>
-	 				<td>
- 						<a href="/shop/index.jsp?categoryId=1762199&amp;clickid=topnav_timpro_img" onmouseover="imgOn('pro','pro');" onmouseout="imgOff('pro','pro');" target="_top">
- 	<img name="pro" src="http://TBL.imageg.net/images/topnav_tblpro_off.gif" alt="" width="123" height="26" border="0"></a></td>
- 	<!-- GIFTS -->
- 					<td>
- 						<a href="/shop/index.jsp?categoryId=1762184&amp;clickid=topnav_gifts_img" onmouseover="imgOn('gifts','gifts');" onmouseout="imgOff('gifts','gifts');" target="_top">
- 					<img name="gifts" src="http://TBL.imageg.net/images/topnav_gifts_off.gif" alt="" width="55" height="26" border="0"></a></td>
-	 				<td>
- 							<a href="/shop/index.jsp?categoryId=1779753&amp;clickid=topnav_prodguide_img" onmouseover="imgOn('product','product');" onmouseout="imgOff('product','product');" target="_top">
- 						<img name="product" src="http://TBL.imageg.net/images/topnav_product_off.gif" alt="" width="106" height="26" border="0"></a></td>
+ 					<td><a href="/shop/index.jsp?categoryId=1779793&amp;clickid=topnav_kids_img" onmouseover="imgOn('kids','kids');" onmouseout="imgOff('kids','kids');">
+						<img name="kids" src="http://TBL.imageg.net/images/topnav_kids_off.gif" alt="" width="41" height="35" border="0" target="_top"></a></td>
+ 	<!-- CUSTOM BOOT -->
 
- 	<!-- SHOPPING BAG -->
- 					<td bgcolor="#B4AD9A" valign="middle" width="120">
- 						<a href="/cart/index.jsp?clickid=topnav_bag_img" onmouseover="imgOn('bag','bag');change('changeme', 'itemsOn');" onmouseout="imgOff('bag','bag');change('changeme', 'basicWhiteHead');" target="_top"><img name="bag" src="http://TBL.imageg.net/images/tbl_shopbag_off.gif" alt="" width="111" height="26" border="0"></a></td>
- 					<td bgcolor="#B4AD9A" align="right" valign="middle" width="43" nowrap="">
-						<a href="/cart/index.jsp?clickid=topnav_bag_txt" onmouseover="imgOn('bag','bag');" onmouseout="imgOff('bag','bag');" class="basicWhiteHead" target="_top" id="changeme">0 items</a></td>
- 					<td bgcolor="#B4AD9A" align="right" valign="top" width="8">
- 						<img src="http://TBL.imageg.net/images/pixel.gif" width="8" height="1"></td>
-					<td bgcolor="#ffffff">
-						<img src="http://TBL.imageg.net/images/pixel.gif" width="1" height="1"></td>
+						<td><div class="mboxDefault"><a href="/customboots/index.jsp?clickid=topnav_boots_img" onmouseover="imgOn('custom','custom');" onmouseout="imgOff('custom','custom');" target="_top"><img name="custom" src="http://TBL.imageg.net/images/topnav_custom_off.gif" alt="" width="99" height="35" border="0"></a></div><script language="javascript1.2">mboxCreate('nav_dyo');</script></td>
 
- 					<td>
-						
-						<a href="/timberlandserve/timberlandserve_index.jsp?clickid=topnav_timserve_txt" target="_blank" onmouseover="imgOn('serve','serve');" onmouseout="imgOff('serve','serve');"><img name="serve" src="http://TBL.imageg.net/images/topnav_timberlandserve_off.gif" alt="" width="145" height="26" border="0"></a></td>
+	<!-- TIMBERLAND PRO -->
+	 				<td><a href="/shop/index.jsp?categoryId=1762199&amp;clickid=topnav_timpro_img" onmouseover="imgOn('pro','pro');" onmouseout="imgOff('pro','pro');" target="_top">
+						<img name="pro" src="http://TBL.imageg.net/images/topnav_pro_off.gif" alt="" width="117" height="35" border="0"></a></td>
+	<!-- PRODUCT GUIDE -->
+
+						<td><div class="mboxDefault"><a href="/shop/index.jsp?categoryId=1779753&amp;clickid=topnav_prodguide_img" onmouseover="imgOn('pg','pg');" onmouseout="imgOff('pg','pg');" target="_top"><img name="pg" src="http://TBL.imageg.net/images/topnav_pg_off.gif" alt="" width="100" height="35" border="0"></a></div><script language="javascript1.2">mboxCreate('nav_pg');</script></td><!-- SHOPPING BAG --><td valign="middle"><a href="/cart/index.jsp?clickid=topnav_bag_img" onmouseover="imgOn('bag','bag');change('changeme', 'itemsOn');" onmouseout="imgOff('bag','bag');change('changeme', 'basicWhiteHead');" target="_top"><img name="bag" src="http://TBL.imageg.net/images/tbl_shopbag_off.gif" alt="" width="111" height="35" border="0"></a></td><td background="http://TBL.imageg.net/images/tbl_shopbag_bg.gif" align="right" valign="middle" nowrap="" width="55" style="padding-right:6px;"><img src="http://TBL.imageg.net/images/pixel.gif" width="1" height="8" alt="" border="0"><br><a href="/cart/index.jsp?clickid=topnav_bag_txt" onmouseover="imgOn('bag','bag');" onmouseout="imgOff('bag','bag');" class="basicWhiteHead" target="_top" id="changeme">0 items</a></td>
+
+ 	<!-- BUSINESS DIRECT -->
+
+						<td><div class="mboxDefault"><a href="/businessdirect/index.jsp?clickid=topnav_businessdirect_txt" onmouseover="imgOn('serve','bd');" onmouseout="imgOff('serve','bd');"><img name="serve" src="http://TBL.imageg.net/images/topnav_bd_off.gif" alt="" width="133" height="35" border="0"></a></div><script language="javascript1.2">mboxCreate('nav_bd');</script></td>
+
  				</tr>
 			</tbody></table> 
 			<!-- END HEADER BUTTON PRIMARY-NAVIGATION -->
@@ -278,21 +261,49 @@ identity.className=newClass;
 	</tr>
 		
 
+				
+				<tr>
+				<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</font></td>
+				<td valign="top">
 		
+					<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hd_pagelink">Privacy Policy</a><br><img src="http://TBL.imageg.net/images/pixel.gif" width="1" height="3"><br>
+			
+					</td></tr>
+				
 				<tr>
+				<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</font></td>
 				<td valign="top">
-					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
-				<td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hd_pagelink">Privacy Policy</a><br><img src="/images/pixel.gif" width="1" height="3"><br></td></tr>
+		
+					<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="hd_pagelink">Security Policy</a><br><img src="http://TBL.imageg.net/images/pixel.gif" width="1" height="3"><br>
+			
+					</td></tr>
+				
 				<tr>
+				<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</font></td>
 				<td valign="top">
-					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
-				<td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="hd_pagelink">Security Policy</a><br><img src="/images/pixel.gif" width="1" height="3"><br></td></tr>
+		
+					<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="hd_pagelink">Terms and Conditions</a><br><img src="http://TBL.imageg.net/images/pixel.gif" width="1" height="3"><br>
+			
+					</td></tr>
+				
 				<tr>
+				<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</font></td>
 				<td valign="top">
-					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</td>
-				<td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="hd_pagelink">Terms and Conditions</a><br><img src="/images/pixel.gif" width="1" height="3"><br></td></tr>			</tbody></table>
+		
+						<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard&amp;topic=securecode" class="hd_pagelink">MasterCard SecureCode</a><br><img src="http://TBL.imageg.net/images/pixel.gif" width="1" height="3"><br>
+						
+					</td></tr>
+				
+				<tr>
+				<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;</font></td>
+				<td valign="top">
+		
+						<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=vbv&amp;topic=vbv" class="hd_pagelink">Verified by Visa</a><br><img src="http://TBL.imageg.net/images/pixel.gif" width="1" height="3"><br>
+							
+					</td></tr>
+					</tbody></table>
 	</td>
-	<td><img src="/images/pixel.gif" width="20" height="1"></td>
+	<td><img src="http://TBL.imageg.net/images/pixel.gif" width="20" height="1"></td>
 	<td valign="top"><!-- panel -->
 	<!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 1320970 with pd:null-->
 <!--STOREMAN PANEL: helpdesk/tbl_privacy_policy.2975.jsp-->
@@ -398,6 +409,7 @@ last modified: May 2004
 	
 <!-- Begin Footer --><br><br><br>
 
+
 <!-- Begin Footer -->
 <table cellspacing="0" cellpadding="0" border="0" width="773">
 	<tbody><tr>
@@ -412,14 +424,14 @@ last modified: May 2004
 		<td width="5">
 			<img src="http://TBL.imageg.net/images/pixel.gif" alt="" width="5" height="1"></td>
 		<td align="right" class="footerLink2" width="503" valign="top">
-			<a href="/corp/index.jsp?clickid=botnav_corp_txt" class="footerLink2" target="_top">About Timberland</a> <font class="footerLink2">|</font> <a href="/affiliate/index.jsp?clickid=botnav_affiliate_txt" class="footerLink2" target="_top">Affiliates</a> <font class="footerLink2">|</font> <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=botnav_privacy_txt" class="footerLink2" target="_top">Privacy/Security Policy</a> <font class="footerLink2">|</font>  <a href="/helpdesk/index.jsp?display=ship&amp;subdisplay=policies&amp;clickid=botnav_ship_txt" class="footerLink2" target="_top">Shipping Policy</a> <font class="footerLink2">|</font>  <a href="/helpdesk/index.jsp?display=returns&amp;subdisplay=policies&amp;clickid=botnav_sitemap_txt" class="footerLink2" target="_top">Return Policy</a> <font class="footerLink2">|</font>  <a href="/corp/index.jsp?page=sitemap" class="footerLink2" target="_top">Site Map</a></td>
+			<a href="/affiliate/index.jsp?clickid=botnav_affiliate_txt" class="footerLink2" target="_top">Affiliates</a> <font class="footerLink2">|</font> <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=botnav_privacy_txt" class="footerLink2" target="_top">Privacy/Security Policy</a> <font class="footerLink2">|</font>  <a href="/helpdesk/index.jsp?display=ship&amp;subdisplay=policies&amp;clickid=botnav_ship_txt" class="footerLink2" target="_top">Shipping Policy</a> <font class="footerLink2">|</font>  <a href="/helpdesk/index.jsp?display=returns&amp;subdisplay=policies&amp;clickid=botnav_sitemap_txt" class="footerLink2" target="_top">Return Policy</a> <font class="footerLink2">|</font>  <a href="/corp/index.jsp?page=sitemap" class="footerLink2" target="_top">Site Map</a></td>
 		<td width="10">
 			<img src="http://TBL.imageg.net/images/pixel.gif" alt="" width="10" height="1"></td>
 	</tr>
 </tbody></table><!-- END Footer -->
 
 	
-
+<!-- page = jsp_servlet._gsi._tbl._helpdesk.__index@64390a2-->
 <!-- SiteCatalyst code version: G.6.Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com --><script language="JavaScript"><!--/* You may give each page an identifying name, server, and channel on the next lines. */
 /* Custom Insight Variables */
 var s_pageName="helpdesk/index.jsp"; //page naming convention
@@ -429,23 +441,23 @@ var s_pageType=""; //page type
 var s_prop1=""; //Subcategory 1
 var s_prop2=""; //Subcategory 2
 var s_prop3=""; //Subcategory 3
-var s_prop4=""; 
+var s_prop4="";
 var s_prop5=""; //internal search term
 var s_prop6=""; //checkout process
 var s_prop7=""; //pop-up blocker enabled
 var s_prop8=""; //search term results
-var s_prop9=""; 
+var s_prop9="";
 var s_prop10="";
 /* E-commerce Variables */
 var s_campaign="";
 var s_state=""; //Bill-to State
 var s_zip=""; //Bill-to Zip
-var s_events=""; //custom events 
+var s_events=""; //custom events
 var s_products=""; //product info
 var s_purchaseID=""; //Order ID
 /* Commerce Insight Variables */
-var s_eVar1=""; //Affiliates 
-var s_eVar2=""; 
+var s_eVar1=""; //Affiliates
+var s_eVar2="";
 var s_eVar3=""; //Internal Search Term
 var s_eVar4=""; //Promotion/Discount Name
 var s_eVar5=""; //Promotion/Discount Code
@@ -453,7 +465,7 @@ var s_eVar6=""; //Out of Stock Item (Category;Product Name;Style ID)
 var s_eVar7=""; //Ship-to State
 var s_eVar8=""; //Ship-to Zip
 var s_eVar9=""; //Registered vs. Guest user
-var s_eVar10=""; 
+var s_eVar10="";
 var s_eVar11=""; //Total product demand
 var s_eVar12=""; //Product Title
 var s_eVar13=""; //Color
@@ -461,11 +473,20 @@ var s_eVar14=""; //Size
 var s_eVar15=""; //Style ID
 var s_eVar16=""; //Dimensions
 var s_eVar17="";
-var s_eVar18=""; 
-var s_eVar19=""; 
+var s_eVar18="";
+var s_eVar19="";
 var s_eVar20="";
 /********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
 //--></script><script language="JavaScript" src="/include/s_code_remote.js"></script>
+<script language="JavaScript"><!--
+	function sendAnalyticsEvent(accnt){
+	accnt=accnt?accnt:s_account;void(s_gs(accnt))}
+
+	function sendLinkEvent(accnt,lnkname,type){
+	accnt=accnt?accnt:s_account;s_linkType=type?type:"o";s_lnk=true;
+	s_linkName=lnkname?lnkname:s_linkName?s_linkName:"Flash Link Event";
+	void(s_gs(accnt))}
+//--></script>
 <!-- End SiteCatalyst code version: G.6. -->
 
 
