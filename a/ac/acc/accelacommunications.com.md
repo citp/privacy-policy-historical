@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the accelacommunications.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216091128id_/http%3A//www.accelacommunications.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accelacommunications.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228173700id_/http%3A//www.accelacommunications.com/company/privacy.html) for the most accurate reproduction.*
 
-# Accela Communications - Privacy Policy
+# Welcome to Accela Communications - Privacy Policy
 
-**Privacy Policy for  
-Accela Communications, Inc. **
+  
+[](http://www.accelacomm.com/jlp/aciws/1/10001586/) |  |    
+
 
 Accela Communications, Inc. provides this privacy policy to ensure clear notice and understanding of our information gathering and dissemination practices. We are committed to notify you of the following: 
 
@@ -13,7 +14,8 @@ Accela Communications, Inc. provides this privacy policy to ensure clear notice 
   4. What choices are available to you regarding the collection, use, and distribution of collected information. 
   5. What security procedures are in place to protect the loss, misuse, or alteration of information under Accela Communications' control.
 
-  
+
+
 **What information does Accela Communications collect?**  
 Accela Communications collects optional data supplied by visitors through various registration forms, surveys, sweepstakes and contests, as well as information gathered from visitors via our server log. This information allows us to provide a more personalized and robust user experience and allows our vendor customers to better understand and communicate with the audience they are reaching.
 
@@ -69,3 +71,20 @@ P.O. Box 9107
 Southborough, MA 01772  
 Phone: 508-303-9700  
 Email: [privacy@accelacommunications.com](mailto:privacy@accelacommunications.com)
+
+|  | 
+
+Other Resources:
+
+**Questions?**
+
+If you have questions or concerns regarding this statement, please contact: 
+
+Audience Development  
+Accela Communications, Inc.  
+P.O. Box 9107  
+118 Turnpike Road  
+Southborough, MA 01772  
+Phone: 508-303-9700  
+Email: [privacy  
+@accelacommunications.com](mailto:privacy@accelacommunications.com)
