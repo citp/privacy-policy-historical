@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbg.ie privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205115536id_/http%3A//www.cbg.ie/includes/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbg.ie privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228140255id_/http%3A//www.cbg.ie/privacy.html) for the most accurate reproduction.*
 
 # CBG.ie Privacy Policy
 
@@ -10,7 +10,7 @@ The fee for our online service is €2.50 each week.  As our customer this enti
 
 **Controllers of Personal Information**
 
-Any personal information provided or to be gathered by Car Buyers Guide is controlled primarily by Car Buyers Guide of Unit 6, Leopardstown Office Park, Sandyford Industrial Estate, Dublin 18.
+Any personal information provided or to be gathered by Car Buyers Guide is controlled primarily by Car Buyers Guide of Penthouse Floor, Arena House, Arena Raod, Sandyford Industrial Estate, Dublin 18.
 
 Car Buyers Guide adheres to the European Directive on data protection.
 
