@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the provantage.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618084002id_/http%3A//www.provantage.com/buy-xprivacy-shopping.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the provantage.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228153658id_/http%3A//www.provantage.com/buy-xprivacy-shopping.htm) for the most accurate reproduction.*
 
 # PROVANTAGE: privacy policy
 
@@ -89,6 +89,4 @@ PROVANTAGE is sensitive to any concerns you may have regarding the personally-id
 **Read the next page:[Brand Name Index](http://www.provantage.com/buy-xcomp-shopping.htm)**
 
 |   
----|---  
-  
- 
+---|---
