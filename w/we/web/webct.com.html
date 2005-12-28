@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the webct.com privacy policy that was archived on 2003-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030402210131id_/http%3A//www.webct.com/communities/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webct.com privacy policy that was archived on 2005-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228115802id_/http%3A//www.webct.com/communities/privacypolicy) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
 
 
@@ -10,26 +10,15 @@
 <meta name="keywords" content="WebCT, WebCT.com, education, distance learning, online learning, on-line learning, online education">
 <meta name="language" content="English">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<!-- removed no-cache meta tags 8-25-00 MJH -->
 
-<link href="http://hub-images.webct.com/images/container/favicon.ico" rel="SHORTCUT ICON">
-<link href="http://hub-images.webct.com/images/container/style.txt" rel="stylesheet" type="text/css">
+<link href="http://hub-images.webct.com/images/container/2006/webctstyles.css" rel="stylesheet" type="text/css">
 
 <script language="JavaScript">
 <!--
-if (top != self)
-{ top.location.replace(location.href); }
+// uncomment to enable frame busting.
+//if (top != self)
+//{ top.location.replace(location.href); }
 
-function formOK(form) {
-if (form.keyword.value.length<1) {alert("Please enter a keyword."); return false;}
-else {
-return true;}
-}
-//-->
-</script>
-
-<script language="JavaScript">
-<!--
 function MM_swapImgRestore() { //v3.0
   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
@@ -52,264 +41,328 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 
-if (top != self)
-{ top.location.replace(location.href); }
+startList = function() {
+  navRoot = document.getElementById("nav");
+  if (document.all&&document.getElementById) {
+    for (i=0; i<navRoot.childNodes.length; i++) {
+      node = navRoot.childNodes[i];
+      if (node.nodeName=="LI") {
+        node.onmouseover=function() {
+//          alert("going along")
+    for (j=0; j<navRoot.childNodes.length; j++) {
+      node2 = navRoot.childNodes[j];
+      if (node2.nodeName=="LI") {this.className="";}
+    }
 
-function formOK(form) {
-if (form.keyword.value.length<1) {alert("Please enter a keyword."); return false}
-else {
-return true;}
+
+          this.className="over";
+        }
+        node.onmouseout=function() {
+          this.className="";
+        }
+      }
+    }
+  }
+  anchorList = document.getElementById("nav").getElementsByTagName("a");
+
+    for (i=1; i<anchorList.length; i++) {
+         anchorList[i].blur();
+         anchorList[i].onfocus=function() {
+         anchorid=this.id.substr(0,4);
+         listid=anchorid+"list";
+           if(document.getElementById(listid))document.getElementById(listid).className='over';
+           this.className='highlite';
+           if(this.parentNode.parentNode.parentNode.nodeName=="LI"){
+           parentli=this.parentNode.parentNode.parentNode;
+		   parentli.getElementsByTagName("a")[0].className='highlite';
+           }
+         }
+        anchorList[i].onblur=function() {
+         anchorid=this.id.substr(0,4);
+         listid=anchorid+"list";
+          if(document.getElementById(listid))document.getElementById(listid).className='';
+           this.className='';
+           if(this.parentNode.parentNode.parentNode.nodeName=="LI"){
+           parentli=this.parentNode.parentNode.parentNode;
+		   parentli.getElementsByTagName("a")[0].className='';
+           }
+		}
+        anchorList[i].onmouseover=function() {
+         anchorid=this.id.substr(0,8);
+         if(document.getElementById(anchorid))document.getElementById(anchorid).className='highlite';
+         this.focus();
+        }
+        anchorList[i].onmouseout=function() {
+         anchorid=this.id.substr(0,8);
+         if(document.getElementById(anchorid))document.getElementById(anchorid).className='';
+         this.blur();
+        }
+    }
+
+
 }
+window.onload=startList;
+
 //-->
 </script>
 
 </head>
+<body>
 
- 
+  <noindex>
+  <div class="navcontainer">
+    <ul class="nav" id="nav">
+      <li id="home"><a id="homelink" href="/entrypage" title="Home"><img src="http://hub-images.webct.com/images/container/2006/nav_home.gif" alt="Home" width="54" height="25" border="0"></a></li>
+      <li id="software"><a id="softlink" href="/software" class="toplink"><img src="http://hub-images.webct.com/images/container/2006/nav_software.gif" alt="Software" width="70" height="25" border="0"></a><ul id="softlist" title="Software">
+          <li><a id="softlink1" href="/software/viewpage?name=software_campus_edition">WebCT Campus Edition</a></li>
+          <li><a id="softlink2" href="/software/viewpage?name=software_vista">WebCT Vista</a></li>
+          <li><a id="softlink3" href="/software/viewpage?name=software_languages">Languages</a></li>
+        </ul>
+      </li>
+      <li id="services"><a id="servlink" href="/services" class="toplink"><img src="http://hub-images.webct.com/images/container/2006/nav_services.gif" alt="Services" width="68" height="25" border="0"></a><ul id="servlist" title="Services">
+          <li><a id="servlink1" href="/services/viewpage?name=services_technical_solutions">Technical Solutions</a></li>
+          <li><a id="servlink2" href="/services/viewpage?name=services_professional_development">Professional Development</a></li>
+          <li><a id="servlink3" href="/services/viewpage?name=services_hosting">Hosting Services</a></li>
+          <li><a id="servlink4" href="/services/viewpage?name=services_support_options">Support Services</a></li>
+          <li><a id="servlink5" href="/services/viewpage?name=services_expanding_campus_edition">WebCT Campus Edition</a></li>
+          <li><a id="servlink6" href="/services/viewpage?name=services_getting_started_vista">WebCT Vista</a></li>
+        </ul>
+      </li>
+      <li id="support"><a id="supplink" href="/techsupport" class="toplink"><img src="http://hub-images.webct.com/images/container/2006/nav_support.gif" alt="Support" width="63" height="25" border="0"></a><ul id="supplist" title="WebCT Support">
+          <li><a id="supplink1" href="/support">WebCT Support</a></li>
+          <li><a id="supplink2" href="/ask_drc">Ask Dr. C</a></li>
+          <li><a id="supplink3" href="/support/viewpage?name=company_documentation_index">Documentation</a></li>
+          <li><a id="supplink4" href="http://download.webct.com">Software Downloads</a></li>
+          <li><a id="supplink5" href="/techsupport/viewpage?name=techsupport_license_faq">License Keys</a></li>
+        </ul>
+      </li>
+      <li id="customer"><a id="succlink" href="/success" class="toplink"><img src="http://hub-images.webct.com/images/container/2006/nav_customer.gif" alt="Customer Success" width="130" height="25" border="0"></a><ul id="succlist" title="Customer Success">
+          <li><a id="succlink1" href="/success/viewpage?name=success_case_studies">Case Studies</a></li>
+          <li><a id="succlink2" href="/exemplary">Exemplary Courses</a></li>
+          <li><a id="succlink3" href="/institutes">WebCT Institutes</a></li>
+          <li><a id="succlink4" href="/worldwide">WebCT Worldwide</a></li>
+          <li><a id="succlink5" href="/success/viewpage?name=success_user_groups">WebCT User Groups</a></li>
+        </ul>
+      </li>
+      <li id="digital"><a id="digilink" href="/content" class="toplink"><img src="http://hub-images.webct.com/images/container/2006/nav_digital.gif" alt="Digital Content" width="111" height="25" border="0"></a><ul id="digilist" title="Digital Content">
+          <li><a id="digilink1" href="/content/viewpage?name=content_instructors">Instructors</a></li>
+          <li><a id="digilink2" href="/content/viewpage?name=content_admin">Administrators</a></li>
+          <li><a id="digilink3" href="/content/viewpage?name=content_access">Student Access Codes</a></li>
+          <li><a id="digilink4" href="/content/viewpage?name=content_customer_care">Help</a></li>
+        </ul>
+      </li>
+      <li id="powerlinks"><a id="powrlink" href="/powerlinks" class="toplink"><img src="http://hub-images.webct.com/images/container/2006/nav_powerlinks.gif" alt="WebCT PowerLinks" width="135" height="25" border="0"></a><ul id="powrlist" title="WebCT PowerLinks">
+          <li><a id="powrlink1" href="/powerlinks/viewpage?name=powerlinks_network">PowerLinks Network</a></li>
+          <li><a id="powrlink2" href="/powerlinks/viewpage?name=powerlinks_showcase">PowerLinks Showcase</a></li>
+          <li><a id="powrlink3" href="/developers">Vista Developers Network</a></li>
+        </ul>
+      </li>
+      <li id="vision"><a id="visilink" href="/vision"><img src="http://hub-images.webct.com/images/container/2006/nav_vision.gif" alt="Vision" width="55" height="25" border="0"></a></li>
+      <li id="about"><a id="abotlink" href="/company" class="toplink"><img src="http://hub-images.webct.com/images/container/2006/nav_about.gif" alt="About Us" width="78" height="25" border="0"></a><ul id="abotlist" title="About Us">
+          <li><a id="abotlink1" href="/company/viewpage?name=company_webct_customers">Customers</a></li>
+          <li><a id="abotlink2" href="/company/viewpage?name=company_management_team">Leadership</a></li>
+          <li><a id="abotlink3" href="/company/viewpage?name=company_manage_investors">Investors</a></li>
+          <li><a id="abotlink4" href="/company/viewpage?name=company_partners">Partners</a></li>
+          <li><a id="abotlink5" href="/company/viewpage?name=company_press_kit">Press</a></li>
+          <li><a id="abotlink6" href="/company/viewpage?name=company_events">Events</a></li>
+          <li><a id="abotlink7" href="/company/viewpage?name=company_jobs">Jobs</a></li>
+          <li><a id="abotlink8" href="/company/viewpage?name=company_contact_us">Contact Us</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  </noindex>
 
-<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onload="MM_preloadImages('http://hub-images.webct.com/images/container/nav_r2_c2_f2.gif','http://hub-images.webct.com/images/container/nav_r2_c3_f2.gif',
-      'http://hub-images.webct.com/images/container/nav_r2_c4_f2.gif','http://hub-images.webct.com/images/container/nav_r2_c5_f2.gif','http://hub-images.webct.com/images/container/nav_r2_c6_f2.gif',
-      'http://hub-images.webct.com/images/container/nav_r2_c9_f2.gif'),'http://hub-images.webct.com/images/container/search_57_17_f3.gi','http://hub-images.webct.com/images/container/login_blue_121_21_f3.gif'">
 
-<table width="768" border="0" align="center">
-  <tbody><tr>
-    <td>
-      <!-- HEADER -->   
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr bgcolor="#cccc99">
-          <td bgcolor="#330099" colspan="4">
-            <table width="100%" border="0" cellpadding="3">
-              <tbody><tr>
-                <td width="260"><a href="/entrypage"><img alt="WebCT.com - the e-Learning Hub" border="0" src="http://hub-images.webct.com/images/container/webctlogo_matted_2.gif" width="258" height="61"></a></td>
-                <td width="500" height="30">
-                  
-                  <form action="/global/library/search_results" method="get" name="containerSearch" onsubmit="return formOK(this);">
-                    <div align="right"><font size="-1">
-                      <input name="keyword" size="12">
-                      <a href="javascript:document.containerSearch.submit();" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SearchButton','','http://hub-images.webct.com/images/container/search_57_17_f2.gif',1)"><img name="SearchButton" border="0" src="http://hub-images.webct.com/images/container/search_57_17.gif" width="57" height="17" alt="Search WebCT.com"></a>
-                      </font>
-                      <input type="hidden" name="imagefield" value="Go">
-                      <input type="hidden" name="level" value="global">
-                      <input type="hidden" name="objectID" value="0">
-                      <input type="hidden" name="doSearch" value="true">
-                    </div>
-                  </form>
-                  
-                  <div align="right">
-        	        <a href="javascript:void(window.open('/registration/login','register','width=520,height=550,scrollbars,resizable'));" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Login','','http://hub-images.webct.com/images/container/login_blue_121_21_f2.gif',1)"><img name="Login" border="0" src="http://hub-images.webct.com/images/container/login_blue_121_21.gif" width="121" height="21" alt="Login/Join"></a>
-              	    
-                  </div>
-                </td>
-                <td width="10">&nbsp;</td>
-              </tr>
-              <tr>
-                <td width="260"><img src="http://hub-images.webct.com/resources/communities/shim.gif" width="1" height="1"></td>
-                <td width="500"><img src="http://hub-images.webct.com/resources/communities/shim.gif" width="1" height="1"></td>
-                <td width="10"><img src="http://hub-images.webct.com/resources/communities/shim.gif" width="1" height="1"></td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        
-        
-        <tr bgcolor="#cccc99">
-          <td colspan="4" bgcolor="#330099">
-            <table width="100%" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr bgcolor="#330099">
-                <td><!-- transform -->
-                   
-                     <a href="/transform" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Learning Transformations','','http://hub-images.webct.com/images/container/navbar_r2_c2_f2.gif',1)"><img name="Learning Transformations" border="0" src="http://hub-images.webct.com/images/container/navbar_r2_c2.gif" width="128" height="37" alt="Learning Transformations"></a></td>
-                   
-                <td><!-- products -->
-                   
-                     <a href="/products" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Software and Services','','http://hub-images.webct.com/images/container/navbar_r2_c3_f2.gif',1)"><img name="Software and Services" border="0" src="http://hub-images.webct.com/images/container/navbar_r2_c3.gif" width="129" height="37" alt="Software and Services"></a></td>
-                   
-                <td><!-- customer -->
-                   
-                     <a href="/customer" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Customer Care','','http://hub-images.webct.com/images/container/navbar_r2_c4_f2.gif',1)"><img name="Customer Care" border="0" src="http://hub-images.webct.com/images/container/navbar_r2_c4.gif" width="128" height="37" alt="Customer Care, including WebCT Support"></a></td>
-                   
-                <td><!-- content -->
-                   
-                     <a href="/content" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Course Content','','http://hub-images.webct.com/images/container/navbar_r2_c5_f2.gif',1)"><img name="Course Content" border="0" src="http://hub-images.webct.com/images/container/navbar_r2_c5.gif" width="128" height="37" alt="Course Content: e-Packs and Student Access Codes"></a></td>
-                   
-                <td><!-- communities -->
-                   
-                     <a href="/communities"><img name="Community Resources" border="0" src="http://hub-images.webct.com/images/container/navbar_r2_c6_f3.gif" width="128" height="37" alt="Community Resources"></a></td>
-                   
-                <td><!-- company -->
-                   
-                     <a href="/company" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('About Us','','http://hub-images.webct.com/images/container/navbar_r2_c9_f2.gif',1)"><img name="About Us" border="0" src="http://hub-images.webct.com/images/container/navbar_r2_c9.gif" width="127" height="37" alt="About Us: Company Information"></a></td>
-                   
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="4">
-            <!-- SUB NAVBAR -->
+
+
+  <div id="subcontent">
+    <noindex>
+    <div class="bannersub">
+      <div class="bannerlogo logosub"><a href="/entrypage"><img src="http://hub-images.webct.com/images/container/2006/logo5.gif" border="0" alt="WebCT logo. The link goes to WebCT.com homepage." title="WebCT Logo" width="185" height="63"></a></div>
+
+
+
+      <div id="adminsearch">
+        <form method="get" action="/company/searchall" style="padding: 0px;">
+
             
-              <table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody>
-    <tr bgcolor="#CCCCFF">
-      <td height="23" align="center">
-        <a href="/wyw" class="subnav">WebCT Resources</a>
-      </td>
-      <td height="20" align="center">
-        <a href="/subject" class="subnav">Academic Resources</a>
-      </td>
-      <td height="20" align="center">
-        <a href="/faculty" class="subnav">Faculty Resources</a>
-      </td>
-      <td height="20" align="center">
-        <a href="/students" class="subnav">Student Resources</a>
-      </td>
-      <td height="20" align="center">
-        <a href="/ask_drc" class="subnav">Ask Dr. C</a>
-      </td>
-      <td height="20" align="center">
-        <a href="/quickstart" class="subnav">WebCT Quickstart</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-            
-          </td>
-        </tr>
-      </tbody></table>
-      <!-- END HEADER -->
+                <input type="hidden" name="sp-a" value="sp10031d4b">
+                <input type="hidden" name="sp-p" value="all">
+                <input type="hidden" name="sp-f" value="ISO-8859-1">
 
-    <!-- PAGE BODY -->
-    <table width="100%" border="0" cellspacing="0" cellpadding="8">
-      <tbody><tr>
-        <!-- Create left nav bar if necessary. -->
+              
+                 <input type="hidden" name="sp-x-1" value="col">
+              
+
+              
+                 <input type="hidden" name="sp-q-1" value="all">
+              
+
+              
+                 <input type="hidden" name="sp-t" value="cat_search.tpl">
+              
+
+                <input type="text" name="sp-q" size="18" class="searchfield">
+                <input type="image" name="Search" src="http://hub-images.webct.com/images/container/2006/search.gif"><br>
+                <a href="javascript:document.advancedSearch.submit();" class="searchtext">advanced search</a>
+
+            
+        </form>
+
+        <form name="advancedSearch" method="post" action="/advancedsearch">
+          <input type="hidden" name="commName" value="communities">
+        </form>
+
+      </div>
+
+      <div id="admindiv">
         
-    
-        <!-- Create main body. -->
+          <a href="javascript:void(window.open('/registration/login','register','width=520,height=550,scrollbars,resizable'));" title="Login"><img src="http://hub-images.webct.com/images/container/2006/subnav_login.gif" alt="Login" width="51" height="19" border="0"></a>
         
-        <td>
-          <table width="100%" border="0">
-            <!-- Call BodyServlet -->
-            <!--Code=com.webct.learninghub.servletchain.BodyServlet--></table><table border="0" width="80%" align="center">
-  <tbody>
-  <tr>
-    <td valign="top">
-      <p><b><span class="head"><font size="4">Privacy Statement for WebCT.com</font></span></b>
-      </p>
-      <p>WebCT.com has created this privacy statement in order to demonstrate
-        its firm commitment to privacy. The following discloses information gathering
-        and dissemination practices for this website: <a href="http://www.webct.com/entrypage">http://www.webct.com/</a>. </p>
-      <p>We do not sell our customer names, addresses, or other information to
-        third parties for any purpose.</p>
-      <p>We may use your IP address to help diagnose problems with our server,
-        and to administer our Web site. Your IP address may also be used to customize
-        the information that you receive to make it most relevant to you.</p>
-      <p>Our site's registration form requires users to give us contact information
-        (e.g., names and email addresses). Your contact information from the registration
-        form may be used to confirm your registration, deliver newsletters, and
-        occasionally send you information about our company and site. You may
-        choose to opt out of future mailings. Directions on how to opt out will
-        be provided in any email correspondence you receive from us. </p>
-      <p>This site contains links to other sites. WebCT.com is not responsible
-        for the privacy practices or the content of such Web sites.</p>
-      <p>WebCT.com provides an order form for customers to request information,
-        products, and services. Information that is supplied to WebCT.com through
-        these forms will be used in the following ways: Customer contact information
-        may be used to get in touch with the visitor when necessary; In addition,
-        contact information may be used to deliver orders to customers. Financial
-        information (like a credit card number) that you provide is used to bill
-        for products and services through our partner Cybersource Corporation.
-        Cybersource only uses your order information to process purchase transactions
-        that you request, and retains a record of such transactions. Information
-        provided to Cybersource will not be used for any other purposes.</p>
-      <p>WebCT uses cookies to provide convenient automatic login to WebCT.com.&nbsp;
-        Using cookies, your browser can "remember" your user name and password
-        so that you’re logged in and ready to participate in the community
-        whenever you’re at the Web site.&nbsp; If you check the "Remember
-        this password" box when prompted by the browser, you won't have to sign
-        in each time you come back. If you are concerned that other people might
-        accidentally use your account, do not check the box.&nbsp; Also, if you
-        use a shared computer (in a library, Internet cafe, university, airport
-        or other common area) do not check the checkbox.&nbsp; To ensure that
-        WebCT.com asks for a userID and password the next time you visit WebCT.com,
-        be sure to close your browser or click "Log Out" when you leave your computer.&nbsp;
-        You can always sign off at any time by clicking the "Log Out" link at
-        the top of each page. Once you've logged out, you can log on again and
-        choose whether your browser "remembers" or not.</p>
-      <p>Your profile information may be used to create personalized content,
-        services and marketing on WebCT.com so that we can deliver information
-        to you based on your interests and location. WebCT.com discloses aggregated
-        user statistics (for example, "75% of our users are students") in order
-        to describe our services to prospective partners and other third parties,
-        and for other lawful purposes. </p>
-      <p><b><i>Public Forums</i></b></p>
-      <p>This site makes chat rooms, forums, and message boards available to its
-        users. Please remember that any information that is disclosed in these
-        areas becomes public information and that you should exercise caution
-        when deciding to disclose your personal information. WebCT reserves the
-        right to remove any posting that its editors consider inappropriate.</p>
-      <p><b><i>Security</i></b></p>
-      <p>This site has security measures in place to protect the loss, misuse
-        and alteration of the information stored therein. Order information is
-        transmitted through Secure Socket Layer technology throughout the entire
-        purchase process to protect you and allow you to buy with confidence.
-        Credit card information is not stored permanently on this site.</p>
-      <p>If you have any questions about this privacy statement, the practices
-        of this site, or your dealings with this Web site, you can contact </p>
-      <p> WebCT<br>
-        Six Kimball Lane<br>
-        Lynnfield, MA 01940<br>
-        <a href="mailto:help@webct.com">help@webct.com</a></p>
-      <p>&nbsp;</p>
+      </div>
+
+    </div>
+    </noindex>
+    <br class="clearme">
+
+    <!-- page body -->
+    <div id="subtext">
+      <!-- Call BodyServlet -->
+      <!-- Code=com.webct.learninghub.servletchain.BodyServlet -->
+      <table width="680" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr> 
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="3"><span style="font-size:20px;"><b>WebCT.com Privacy Policy</b></span> 
+      <hr noshade="" width="100%" size="2" align="left">
     </td>
   </tr>
-  </tbody>
-</table> 
-            <!-- End BodyServlet -->
-          </td></tr></tbody></table>
-        </td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-    </tbody></table>
-    <!-- END PAGE BODY -->
-
-
-    <!-- FOOTER -->
-    <table border="0" cellpadding="2" cellspacing="0" width="768" align="center">
-      <tbody>
-        <tr bgcolor="#330099">
-          <td colspan="12"><img src="http://hub-images.webct.com/resources/communities/shim.gif" width="2" height="1"></td>
-        </tr>
-        <tr bgcolor="#330099">
+  <tr> 
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="3">
+      <p>WebCT.com has created this privacy statement in order to demonstrate its firm 
+        commitment to privacy. The following discloses information gathering and dissemination 
+        practices for this website: <a href="http://www.webct.com/">http://www.webct.com/</a>. 
+      </p>
+      <p>We do not sell registered users' names, addresses, or other information to 
+        third parties for any purpose. </p>
+      <p>We may use a registered user's IP address to help diagnose problems with our 
+        server and administer our Web site. A registered user's IP address may also 
+        be used to customize the information to make it more relevant to him or her. 
+      </p>
+      <p>Our site's registration form requires registered users to give us contact information 
+        (e.g., name, email address). We use registered users' contact information to 
+        confirm registration, deliver newsletters, and occasionally send information 
+        about our company and the Web site. Registered users may opt out of future mailings. 
+        Directions on how to opt out will be provided in any email correspondence we 
+        send to registered users. </p>
+      <p>A registered user may review or request changes to his or her personal information 
+        by sending email to the WebCT Web site group at <a href="mailto:contact@webct.com">contact@webct.com</a>. 
+      </p>
+      <p>This site contains links to other sites. WebCT.com is not responsible for the 
+        privacy practices or the content of such Web sites.</p>
+      <p>WebCT.com provides an order form for registered users to request information 
+        about WebCT's products and services. Information that is supplied to WebCT.com 
+        through these forms will be used to get in touch with the registered user, when 
+        necessary, or to deliver orders to a registered user who has purchased something. 
+        Financial information (e.g., a credit card) provided by a registered user is 
+        used to bill for products and services. The billing is done through a WebCT 
+        partner, Cybersource Corporation. Cybersource uses registered users' order information 
+        only to process and record purchase transactions. Information provided to Cybersource 
+        will not be used for any other purposes and will not be sold to third parties 
+        for any purpose. </p>
+      <p>WebCT uses cookies to provide convenient automatic login to WebCT.com. Using 
+        cookies, an Internet browser can "remember" a registered user's user name and 
+        password, so that he or she is logged in and ready to participate. If the registered 
+        user selects the "Remember this password..." option when he or she logs in, 
+        the registered user won't have to sign in each time he or she comes back. If 
+        a registered user is concerned that other people might accidentally use his 
+        or her account, or if the registered user uses a shared computer, he or she 
+        should not check the box. To ensure that WebCT.com asks for a username and password 
+        the next time a registered user visits the site, the user should close his or 
+        her browser or click "Log Out" when he or she leaves the computer. Users can 
+        always sign off at any time by clicking the "Log Out" link at the top of each 
+        page. </p>
+      <p>Registered users' profile information may be used to create personalized content, 
+        services, and marketing on WebCT.com. WebCT.com discloses aggregated user statistics 
+        (e.g., "75% of our users are students") in order to describe services to prospective 
+        partners and other third parties, and for other lawful purposes. </p>
+      <p><b>Public Forums </b></p>
+      <p>This site makes chat rooms, forums, and message boards available to its users. 
+        Please remember that any information that is disclosed in these areas becomes 
+        public information and that you should exercise caution when deciding to disclose 
+        your personal information. WebCT reserves the right to remove any posting that 
+        its editors consider inappropriate. </p>
+      <p><b>Security</b> </p>
+      <p>This site has security measures in place to protect the loss, misuse and alteration 
+        of the information stored therein. Order information is transmitted through 
+        Secure Socket Layer technology throughout the entire purchase process to protect 
+        you and allow you to buy with confidence. Credit card information is not stored 
+        permanently on this site.</p>
+      <p><b>Material Changes to Privacy Policy</b></p>
+      <p> If WebCT makes material changes to this privacy policy, we will contact all 
+        registered users via email, at the email addresses provided upon registration, 
+        in advance of the change. </p>
+      <p>For questions about this privacy statement, the practices of this site, or 
+        your dealings with this Web site, please contact:<br>
+        <br>
+        WebCT, Inc.<br>
+        Attn: Web Team<br>
+        Six Kimball Lane <br>
+        Lynnfield, MA 01940 <br>
+        <a href="mailto:contact@webct.com">contact@webct.com</a> </p>
+      <p>&nbsp;</p>    </td>
+  </tr>
+  <tr> 
+    <td width="49%" height="25"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+    <td width="2%"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+    <td width="49%"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr> 
+    <td width="48%" valign="top">&nbsp; </td>
+    <td width="2%"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+    <td width="50%" valign="top">&nbsp; </td>
+  </tr>
+  <tr> 
+    <td width="49%" height="25"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+    <td width="2%"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+    <td width="49%"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr> 
+    <td colspan="3"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
           <td width="10">&nbsp;</td>
-          <td width="10"><a href="http://www.webct.com/company/viewpage?name=company_contact_us"><font color="#FFFFFF"><img src="http://hub-images.webct.com/images/container/arrow_matted.gif" width="10" height="9" border="0"></font></a></td>
-          <td width="90"><a href="http://www.webct.com/company/viewpage?name=company_contact_us"><font color="#FFFFFF">Contact Us</font></a></td>
-          <td width="10"><a href="http://www.webct.com/communities/servicepolicy"><font color="#FFFFFF"><img src="http://hub-images.webct.com/images/container/arrow_matted.gif" width="10" height="9" border="0"></font></a></td>
-          <td width="115" nowrap=""><a href="http://www.webct.com/communities/servicepolicy"><font color="#FFFFFF">Terms of Service</font></a></td>
-          <td width="10"><a href="http://www.webct.com/communities/privacypolicy"><font color="#FFFFFF"><img src="http://hub-images.webct.com/images/container/arrow_matted.gif" width="10" height="9" border="0"></font></a></td>
-          <td width="105"><a href="http://www.webct.com/communities/privacypolicy"><font color="#FFFFFF">Privacy Policy</font></a></td>
-          <td width="10"><a href="http://www.webct.com/company/viewpage?name=company_how_to_apply"><font color="#FFFFFF"><img src="http://hub-images.webct.com/images/container/arrow_matted.gif" width="10" height="9" border="0"></font></a></td>
-          <td width="95"><a href="http://www.webct.com/company/viewpage?name=company_how_to_apply"><font color="#FFFFFF">Employment</font></a></td>
-          <td width="10"><a href="http://www.webct.com/communities/viewpage?name=communities_site_map"><font color="#FFFFFF"><img src="http://hub-images.webct.com/images/container/arrow_matted.gif" width="10" height="9" border="0"></font></a></td>
-          <td width="85"><a href="http://www.webct.com/communities/viewpage?name=communities_site_map"><font color="#FFFFFF">Site Index</font></a></td>
-          <td align="right" nowrap=""><font color="#FFFFFF">© 2001 WebCT&nbsp;</font></td>
+          <td>&nbsp;</td>
         </tr>
-        <tr bgcolor="#330099">
-          <td colspan="12"><img src="http://hub-images.webct.com/resources/communities/shim.gif" width="2" height="1"></td>
-        </tr>
-        <tr bgcolor="#000000">
-          <td colspan="12"><img src="http://hub-images.webct.com/resources/communities/shim.gif" width="2" height="2"></td>
-        </tr>
-      </tbody>
-    </table>
-    <!-- END FOOTER -->
-    
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+      <!-- End BodyServlet -->
+    </div>
+
+    <!-- footer -->
+    <noindex>
+    <div id="subfooter">
+      <a href="http://www.webct.com/company/viewpage?name=company_contact_us">Contact Us</a> |
+      <a href="http://www.webct.com/communities/servicepolicy">Terms of Service</a> |
+      <a href="http://www.webct.com/communities/privacypolicy">Privacy Policy</a> |
+      <a href="http://www.webct.com/company/viewpage?name=company_how_to_apply">Employment</a> |
+      <a href="http://www.webct.com/accessibility">Accessibility</a> |
+      <a href="http://www.webct.com/communities/viewpage?name=communities_site_map">Site Map</a>
+    </div>
+    </noindex>
+
+  </div>
+
   
-
-   
-
-    
-
 
 </body></html>
