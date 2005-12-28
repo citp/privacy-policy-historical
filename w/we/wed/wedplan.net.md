@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wedplan.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305221057id_/http%3A//www.wedplan.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedplan.net privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228191430id_/http%3A//www.wedplan.net/privacy.php) for the most accurate reproduction.*
 
-# WedPlan: Wedding Caterers, Wedding Disc Jockeys, Wedding Photographers, Wedding Videographers
+# WedPlan: Locate a Wedding DJ, Caterer, Photographer, Disc Jockey, Videographer, Cake, Gown, Officiant, and more.
 
   
 WedPlan is committed to protecting the privacy of its visitors. We believe that our visitors have a right to know about the information gathering practices regarding our Web site and have produced this Privacy Policy in an effort to present those practices. 
