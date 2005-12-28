@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vsmp.org privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623085334id_/http%3A//www.privacy.umn.edu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsmp.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228212705id_/http%3A//www.privacy.umn.edu) for the most accurate reproduction.*
 
 # Online Privacy at the University of Minnesota
 
