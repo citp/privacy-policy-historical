@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fcgov.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403155202id_/http%3A//www.fcgov.com/legal.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcgov.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228070854id_/http%3A//fcgov.com/legal.php%23privacy) for the most accurate reproduction.*
 
-# City of Fort Collins: copyright notice and disclaimer
+# Copyright notice and disclaimer: City of Fort Collins
 
 The City of Fort Collins is committed to protecting online users' privacy. Protection of personal privacy on the Internet promotes citizen confidence, increases participation in online activities and supports effective delivery of services. The purpose of our policy is to inform you about the types of information we gather when you visit our site, how we may use that information, and whether we disclose it to anyone. 
 
