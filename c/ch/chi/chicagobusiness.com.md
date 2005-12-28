@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308183325id_/http%3A//chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228122839id_/http%3A//chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.*
 
-# Chicagobusiness.com
+# Privacy Policy
 
   
 **Privacy Policy**
 
- _Chicagobusiness.com_ is the Web site operated by _Crain's Chicago Business_. _Crain's Chicago Business_ is a business unit of Crain Communications Inc. Our postal address is 360 N. Michigan Ave., Chicago, IL 60601. We can be reached by e-mail at [webmaster@chicagobusiness.com](mailto:webmaster@chicagobusiness.com) or by telephone at 312-280-3141. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions.
+_Chicagobusiness.com_ is the Web site operated by _Crain's Chicago Business_. _Crain's Chicago Business_ is a business unit of Crain Communications Inc. Our postal address is 360 N. Michigan Ave., Chicago, IL 60601. We can be reached by e-mail at [webmaster@chicagobusiness.com](mailto:webmaster@chicagobusiness.com) or by telephone at 312-280-3141. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions.
 
 We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated.
 
@@ -24,3 +24,7 @@ This Web site is operated in the United States. If you are located in the Europe
 If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at [privacyhelp@crain.com](mailto:privacyhelp@crain.com) or 313-446-6000.
 
 Policy Last Updated: January 1, 2005
+
+Advertisement 
+
+[](http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/117966980272668964@Left,Position1,Right1,Middle1!Middle1?)
