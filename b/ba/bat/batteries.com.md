@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405191201id_/http%3A//www.batteries.com/help/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228174023id_/http%3A//www.batteries.com/help/privacy_policy.asp) for the most accurate reproduction.*
 
 # Batteries.com for computer laptop, cellular phone, watch, hearing aid, camera battery savings!
 
 ## Privacy Policy
 
-|   
+|  [](http://www.truste.org/ivalidate.php?url=www.batteries.com&sealid=101)  
 ---|---  
   
 batteries.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact our privacy manager at [privacy@batteries.com](mailto:privacy@batteries.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact our privacy manager at [privacy@batteries.com](mailto:privacy@batteries.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [http://www.truste.org/consumer.watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 Information Collection and Use  
 Signing up for My Power  
@@ -38,7 +38,7 @@ We may occasionally send you site and service updates. You may not unsubscribe f
 **Placing an Order with batteries.com**  
 We require you to set up a My Power account if you wish to place an order with batteries.com. On the Order Form we collect contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfill your order. We will use your contact information to contact you if we have trouble processing your order, if we have questions regarding your order, or we wish to notify you of the status of your order 
 
-We may use your mailing address to send you a catalog and notices regarding upcoming sales. If you don't want to receive these types of communications from us, see the Choice/Opt-out section below. Choice/Opt-out 
+During the checkout process you will be given the option to join our mailing list. We may use your mailing address and/or email address to send you a catalog and notices regarding upcoming sales. If you don't want to receive these types of communications from us, see the Choice/Opt-out section below. Choice/Opt-out 
 
 **Tell-a-Friend**  
 If you use our referral service for informing a friend about our site, we will ask you for the friend's name and email address. batteries.com will automatically send your friend a one-time email inviting him or her to visit the site. batteries.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact batteries.com at webmaster@batteries.com to request the removal of this information from our database. 
@@ -55,6 +55,8 @@ We read every message sent in and try to reply promptly to every one. We use the
 
 **Cookies**  
 Cookies are a mechanism to remember information about a visitor from one page to another. Web browsers store cookies so that the browser itself can remember some information and then, on request, pass all that information up to the server at one time. We use cookies to remember your name and the contents of your shopping cart. This allows you to leave our site, come back later, and still have the contents of your shopping cart intact. It also lets us personalize your experience at batteries.com, tailoring the content to your interests. Our website requires the use of cookies. Turning off cookies or rejecting the batteries.com cookie will limit your experience with our website. 
+
+Some of our business partners (e.g, advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy policy covers the use of cookies by batteries.com only and does not cover the use of cookies by any advertisers. 
 
 **Log Files**  
 We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We keep this information for our internal use. We do not share it with others. 
@@ -99,3 +101,5 @@ batteries.com, Inc.
 6040 West 79th Street  
 Indianapolis, IN 46278-1727  
 [webmaster@batteries.com](mailto:webmaster@batteries.com)
+
+Last Update: 12/22/2005 
