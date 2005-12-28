@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403112241id_/http%3A//www.sparkpeople.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228135422id_/http%3A//sparkpeople.com/privacy.asp) for the most accurate reproduction.*
 
 # SparkPeople: Privacy Policy
 
@@ -6,7 +6,7 @@ _This policy covers information collected by SparkPeople.com and any other URLs 
 
  **SparkPeople.com DOES...** believe in protecting your privacy.
 
-**SparkPeople.com DOES NOT...** ever sell, rent, release or trade personally identifiable information about our site users to others, including customers of SparkPeople.com, without prior consent or a court order. No personally identifiable information can be released for any reason unless you give permission first.
+**SparkPeople.com DOES NOT...** ever sell, rent, release or trade personally identifiable information about our site users to others, including customers of SparkPeople.com, without prior consent or a court order. No personally identifiable information - including e-mail address - can be released for any reason unless you give permission first.
 
 **SparkPeople.com DOES...** maintain lists of customers or visitors.
 
@@ -22,16 +22,14 @@ _This policy covers information collected by SparkPeople.com and any other URLs 
 
 **SparkPeople.com DOES NOT...** release any information about the collection of your IP address to any third party except under court order.
 
-**SparkPeople.com DOES...** use Internet "cookies" when you become a member and when you create a GoalPilot profile. Some cookies are retrieved and used when you visit at a later time to customize the site according to your wishes. Others allow you to collect, or "shop", for articles and advice during a session to include in your GoalPilot area.
-
-**SparkPeople.com DOES NOT...** require registration in order to use the portions of the site open to the general public. However, some specific features of the site, including GoalPilot and Membership, do require registration.
+**SparkPeople.com DOES...** use Internet "cookies". Some cookies are retrieved and used when you visit at a later time to customize the site according to your wishes. 
 
 **SparkPeople.com DOES NOT...** share information associated with any specific user with advertisers.
 
-**SparkPeople.com DOES NOT...** download images, files, or cookies from third party servers.
-
-**SparkPeople.com DOES NOT...** send advertisements to former members or sell/release lists of former members.
+**SparkPeople.com DOES NOT...** sell/release lists of former members.
 
 **SparkPeople.com DOES...** take serious precautions to protect you from the misuse of information under our control. The site is carefully monitored to detect any attempts to compromise security. This doesn't mean we warrant or ensure any information you transmit through SparkPeople.com will not be compromised by outside parties. We take reasonable efforts to provide security, but the ultimate risk of compromised security is still yours.
 
 For more information, or to verify your personal information that's on record (SparkPeople Members only), contact us at [support@sparkpeople.com](mailto:support@sparkpeople.com).
+
+_Last updated May 12, 2005_
