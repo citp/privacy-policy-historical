@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403215649id_/http%3A//www.wachovia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228141700id_/http%3A//wachovia.com/privacy/1%2C%2C%2C00.html) for the most accurate reproduction.*
 
 # Wachovia Privacy Statement
 
@@ -60,6 +60,9 @@ How to Limit Direct Marketing from Other Companies
 We Strive to Maintain Accurate Information  
 If You Have Questions, Contact Us
 
+  
+
+
 ## How We Secure Your Assets and Protect Information About You
 
   * We train our employees to protect customer information.
@@ -82,7 +85,7 @@ Protecting customer information online is an essential part of our service to yo
 
 
 
-For more information on our Internet Security measures, please visit our [Security Statement](https://web.archive.org/inside/legal_footer/0,,2161,00.html) .
+For more information on our Internet Security measures, please visit our [Security Statement](http://www.wachovia.com/inside/legal_footer/0,,2161,00.html) .
 
  Back to Top
 
@@ -239,7 +242,7 @@ If you believe we have reported inaccurate information about your account to any
 
 ## If You Have Questions, Contact Us
 
-We welcome the opportunity to answer any questions you may have about this statement or the safeguarding and confidentiality of customer information.   For more information, please read our [Internet Privacy](https://web.archive.org/inside/legal_footer/0,,2157_2158,00.html)  section, visit a Wachovia financial center, or call us at (866) 203-5722 (Command Asset Program, IRA, Brokerage and Insurance customers should call (877) 358-1114) to speak to a representative. 
+We welcome the opportunity to answer any questions you may have about this statement or the safeguarding and confidentiality of customer information.   For more information, please read our [Internet Privacy](http://www.wachovia.com/inside/legal_footer/0,,2157_2158,00.html)  section, visit a Wachovia financial center, or call us at (866) 203-5722 (Command Asset Program, IRA, Brokerage and Insurance customers should call (877) 358-1114) to speak to a representative. 
 
  Back to Top
 
