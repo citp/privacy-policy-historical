@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305050410id_/http%3A//www.magportal.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228051939id_/http%3A//magportal.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (MagPortal.com)
 
 Hot Hot Neuron LLC respects your privacy and we have drafted this document to try to address any concerns that you may have about the information we collect and how it is used on MagPortal.com. Hot Neuron LLC may revise this Privacy Policy at any time without notice. It is your responsibility to check this policy periodically. 
 
-_Last revised: $Date: 2002/09/10 19:32:18 $_
+_Last revised: $Date: 2005/03/24 21:29:27 $_
 
 **What personally identifiable information is collected?**  
 We do not currently require users to provide any personally identifying information (name, email address, street address, etc.) to use the MagPortal.com service. In the future, we may require such information in exchange for providing additional services, such as but not limited to: delivery of physical products, entrance into a sweepstakes, or the privilege of posting on message boards. If you send correspondence to us, we may store a copy (which means that we will have your email address and name). 
@@ -12,7 +12,7 @@ We do not currently require users to provide any personally identifying informat
 **What are cookies and how are they used on MagPortal.com?**  
 A "cookie" is a small piece of data that is sent from a web site such as MagPortal.com to your computer where it is stored on your hard drive. When you access that web site in the future, your browser sends that cookie back to the web site, which allows the site to recognize you as someone it has seen before. 
 
-MagPortal.com makes use of cookies so that it can provide you with personalized services such as [My Articles](https://web.archive.org/cgi-bin/myart.cgi). We may also use cookies to help us monitor your use of MagPortal.com for the purpose of generating aggregated statistics and targeted advertising and content on our site in order to increase its usefulness to you. 
+MagPortal.com makes use of cookies so that it can provide you with personalized services such as [My Articles](https://web.archive.org/cgi/myart.cgi). We may also use cookies to help us monitor your use of MagPortal.com for the purpose of generating aggregated statistics and targeted advertising and content on our site in order to increase its usefulness to you. 
 
 Please be aware that our advertisers and service providers may use cookies of their own which we do not control (more information is given below). 
 
@@ -31,6 +31,6 @@ Hot Neuron LLC does not provide personally identifying information (e.g. your na
 We may provide aggregated statistics about the users of MagPortal.com to third parties. 
 
 **Security Information**  
-You should keep your password secret and be extremely cautious when using shared computers. Be sure to [remove the MagPortal.com cookie](https://web.archive.org/cgi-bin/myacct.cgi?a=r) from any public computer you use and exit the browser to ensure that nobody else can access your personal information. 
+You should keep your password secret and be extremely cautious when using shared computers. Be sure to [remove the MagPortal.com cookie](https://web.archive.org/cgi/myacct.cgi?a=r) from any public computer you use and exit the browser to ensure that nobody else can access your personal information. 
 
 Please be aware that whenever data is transmitted or stored there is always some risk of theft or misuse. 
