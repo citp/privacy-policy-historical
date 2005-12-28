@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527190920id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228125100id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
 
 # AZZ Cardfile : Privacy and Security
 
@@ -37,7 +37,7 @@ AZZ Cardfile Web site contains outbound links that we deem beneficial to our use
 
 [Privacy resources on Google Web Directory](http://directory.google.com/Top/Computers/Security/Internet/Privacy/)
 
-[Free ZoneAlarm personal firewall](http://www.zonelabs.com/)
+[Sygate firewall - free for personal use](http://www.sygate.com/)
 
 [Ad-aware : multi spyware removal utility](http://www.lavasoftusa.com/)
 
