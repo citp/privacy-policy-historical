@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mpcdownloads.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403215524id_/http%3A//www.mpcdownloads.com/%3Fpg%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpcdownloads.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228132243id_/http%3A//www.mpcdownloads.com/index.php%3Fpage%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# MPC Download Center - Privacy Policy
 
 The following statement discloses MPCDownload’s information gathering and dissemination practices for the Web site. By using this site, you signify your agreement to the terms of this privacy policy. If you do not agree to the terms of this privacy policy, please do not use this site. 
 
@@ -22,4 +22,4 @@ MPCDownloads.com may make chat rooms, forums, message boards, and/or news groups
 
 **Linked Sites**
 
-Please be aware that MPCDownloads.com’s promotional partners, advertisers, sponsors, third-party Internet sites, and content providers accessible through our paper may have their own privacy and data collection policies and practices. MPCDownloads.com is not responsible for any actions or policies of such third party parties. Users should check the applicable privacy policies of those third parties when providing personally identifiable information through co-sponsored, affiliated or linked sites. 
+Please be aware that MPCDownloads.com’s promotional partners, advertisers, sponsors, third-party Internet sites, and content providers accessible through our paper may have their own privacy and data collection policies and practices. MPCDownloads.com is not responsible for any actions or policies of such third party parties. Users should check the applicable privacy policies of those third parties when providing personally identifiable information through co-sponsored, affiliated or linked sites.
