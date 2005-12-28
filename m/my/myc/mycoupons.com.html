@@ -1,115 +1,58 @@
-<!--The following is the downloaded HTML source of the mycoupons.com privacy policy that was archived on 2005-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050405022146id_/http%3A//www.mycoupons.com/page_privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycoupons.com privacy policy that was archived on 2005-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228112311id_/http%3A//www.mycoupons.com/page_privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>MyCoupons - Coupons, Price Comparison, Discounts, Rebates, Gift Cards, Free Stuff, and much more!</title>
-
-<meta name="keywords" content="coupons, sales, rebates, discounts, shopping, grocery coupons, free samples, coupon codes, cool savings, coolsavings, cheap, freebies, promotions, free e-mail, coupon newsletters, free gifts, gift certificates, gift cards, food coupons, mycoupons.com, coupon, shopping ">
-
+<meta name="keywords" content="coupons, sales, rebates, discounts, shopping, grocery coupons, free samples, coupon codes, cool savings, coolsavings, cheap, freebies, promotions, free e-mail, coupon newsletters, free gifts, gift certificates, gift cards, food coupons, mycoupons.com, cou">
 <meta name="description" content="Online Coupons and Sales from MyCoupons.com.  Free e-mail gifts and freebies">
 <meta name="classification" content="coupons, free coupons, free stuff, free samples, supermarket coupons">
-<link href="http://images.directtrack.com/mycoupons/css/CSS_coupon.css" rel="stylesheet" type="text/css">
-<script language="Javascript" src="http://images.directtrack.com/mycoupons/javascript/webmonkey_functions.js"></script>
-<script language="Javascript">
-<!--
-function switchTabs()
-{
-	path = window.location.pathname;
-	path = path.substring(1,path.length);
-	path = path.substring(0,path.length-1);
-	var buttonbararray = ['feature', 'specialpromo','daily','newsletter'];
-	for (var i = 0; i < buttonbararray.length; i++) 
-	{ 
-		if (buttonbararray[i] == path) 
-		{ 
-			url="http://images.directtrack.com/mycoupons/images/buttonbar_";	
-			WM_imageSwap("buttonbar_"+path,url+path+"-over.gif");		  
-	   } 
-	}	
-}
-var click=true;
-function exp(strTag,strDiv)
-{	
-	var elem = document.getElementById(strTag);
-	if (elem.style.display=="none" || elem.style.display=="")
-	{ 
-		elem.style.display="block";
-		str='<img src=http://images.directtrack.com/mycoupons/images/searchButtonClose.gif border=0>';
-		click=true; 
-	}
-	else
-	{ 
-		elem.style.display="none";
-		str='<img src=http://images.directtrack.com/mycoupons/images/searchButtonOpen.gif border=0>'; 
-		click=false; 
-	} 
-	WM_setCookie('SEARCHBOX_table',elem.style.display,false,"/",".mycoupons.com");
-	document.getElementById(strDiv).innerHTML=str;
-}
-function show_searchbox()
-{
-	strTag = 'table1';
-	var elem = document.getElementById(strTag);
-	displaystate= WM_readCookie('SEARCHBOX_table');
-	loc = window.location.hostname;
-	if (displaystate=="none" || "http://"+loc == "http://www.mycoupons.com")
-	{
-		elem.style.display="none";
-		str='<img src=http://images.directtrack.com/mycoupons/images/searchButtonOpen.gif border=0>'; 
-		click=false; 
-	}
-	else
-	{ 
-		elem.style.display="block";
-		str='<img src=http://images.directtrack.com/mycoupons/images/searchButtonClose.gif border=0>';
-		click=true; 
-	}
-	strDiv = "table1_div";
-	document.getElementById(strDiv).innerHTML=str;
-}
-function displayform()
-{
-	var username=null;
-	username= WM_readCookie('mcuser');	
-	if((username==false) || (username==null))
-	{		
-		img= '<a href="https://mycoupons.com/signup/index.html"  onMouseOver="'+"MM_swapImage('buttonbar_signup','','http://images.directtrack.com/mycoupons/images/buttonbar_signup-over.gif',1)"+'" onMouseOut="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_signup.gif" name="buttonbar_signup" border="0" id="buttonbar_signup"></a>';		
-	}
-	else
-	{
-		img = '<a href="http://www.mycoupons.com/members/logout.php">Logout</a>';
-		img = '<a href="http://www.mycoupons.com/members/logout.php"  onMouseOver="'+"MM_swapImage('buttonbar_logout','','http://images.directtrack.com/mycoupons/images/buttonbar_logout-over.gif',1)"+'" onMouseOut="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_logout.gif" name="buttonbar_logout" border="0" id="buttonbar_signup"></a>';
-	}	
-	document.getElementById("show_signin_image").innerHTML=img; 
-}
-//-->
-</script>
-
+<link href="http://www.mycoupons.com/cdn/css/CSS_coupon.css" rel="stylesheet" type="text/css">
+<link href="http://www.mycoupons.com/cdn/css/advertiser.css" type="text/css" rel="stylesheet">
+<script language="Javascript" src="http://www.mycoupons.com/cdn/javascript/webmonkey_functions.js"></script>
+<script language="Javascript" src="http://www.mycoupons.com/cdn/javascript/switchTabs.js"></script>
 </head>
-
 <body>
-
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 	<td height="69" width="432">
 		<!-- MY COUPONS LOGO -->
-		<a href="http://www.mycoupons.com/index.html"><img src="http://images.directtrack.com/mycoupons/images/MyCoupons_logosmall.gif" border="0"></a>
+		<a href="http://www.mycoupons.com/index.html"><img src="http://www.mycoupons.com/cdn/images/MyCoupons_logosmall.gif" border="0"></a>		
 		<!-- MY COUPONS LOGO -->
 	</td>
-	
 	<td align="right" valign="middle">
 		<!-- START GLOBAL LINKS -->
 		<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>			
-				<td width="140" height="16"><a href="http://www.mycoupons.com/members/login.php" onmouseover="MM_swapImage('buttonbar_account','','http://images.directtrack.com/mycoupons/images/buttonbar_account-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_account.gif" name="buttonbar_account" border="0" id="buttonbar_account"></a></td>
-				<td width="61" height="16">					
-					<div id="show_signin_image"><a href="https://mycoupons.com/signup/index.html" onmouseover="MM_swapImage('buttonbar_signup','','http://images.directtrack.com/mycoupons/images/buttonbar_signup-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_signup.gif" name="buttonbar_signup" border="0" id="buttonbar_signup"></a></div>
-					<script language="javascript">
-						img = '<a href="https://mycoupons.com/signup/index.html"  onMouseOver="'+"MM_swapImage('buttonbar_signup','','http://images.directtrack.com/mycoupons/images/buttonbar_signup-over.gif',1)"+'" onMouseOut="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_signup.gif" name="buttonbar_signup" border="0" id="buttonbar_signup"></a>';
-						document.getElementById("show_signin_image").innerHTML=img; 
-					</script>
-				</td>				
-				<td width="91" height="16"><a href="http://www.mycoupons.com/page_feedback.html" onmouseover="MM_swapImage('buttonbar_contact','','http://images.directtrack.com/mycoupons/images/buttonbar_contact-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_contact.gif" name="buttonbar_contact" border="0" id="buttonbar_contact"></a></td>
+			<tbody><tr>
+				<td>
+					<img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="10" height="5" alt="" border="0">
+				</td>
+			</tr>
+			<tr>
+				<td height="16"> <span id="show_signlogin_text"><a href="https://www.mycoupons.com/signup/index.html" class="globalNav">ACCOUNT SIGN UP</a> <span class="globalLine">&nbsp;|&nbsp;</span> <a href="http://www.mycoupons.com/login.html" class="globalNav">ACCOUNT LOGIN</a></span> <span class="globalLine">&nbsp;|&nbsp;</span> <a href="http://www.mycoupons.com/page_feedback.html" class="globalNav">CONTACT</a> <span class="globalLine">&nbsp;|&nbsp;</span> <a href="http://www.mycoupons.com/page_news.html" class="globalNav">NEWS</a> <span class="globalLine">&nbsp;|&nbsp;</span> <a href="http://www.mycoupons.com/page_help.html" class="globalNav">HELP</a></td>
+				<td width="10" rowspan="3"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="10" height="1" alt="" border="0"></td>
+			</tr>
+			<tr>
+				<td>
+					<table width="339" border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td>
+								<a href="https://www.mycoupons.com/signup/index.html"><img name="mc_isbut_frmb" src="http://www.mycoupons.com/cdn/images/mc_isbut_frmb-.gif" width="115" height="42" border="0"></a>
+							</td>
+							<td>
+								<img src="http://www.mycoupons.com/cdn/images/mc_isbut_line1.gif" width="10" height="42">
+							</td>
+							<td>
+								<a href="http://www.mycoupons.com/newsletter/"><img name="mc_isbut_nslt" src="http://www.mycoupons.com/cdn/images/mc_isbut_nslt-.gif" width="113" height="42" border="0"></a>
+							</td>
+							<td>
+								<img src="http://www.mycoupons.com/cdn/images/mc_isbut_line-2.gif" width="10" height="42">
+							</td>
+							<td>
+							<a href="javascript:bookMe()"><img src="http://www.mycoupons.com/cdn/images/mc_isbut_bokmrk.gif" width="91" height="42" border="0"></a>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
 			</tr>
 		</tbody></table>
 		<!-- END GLOBAL LINKS -->
@@ -119,16 +62,16 @@ function displayform()
 <table cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
   </tr><tr>
-		<td width="145" class="repeat"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="145" height="42" alt="" border="0"></td>
-		<td width="2" height="42"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_spaceone.gif" width="2" height="42" alt="" border="0"></td>
-		<td width="109" height="42"><a href="http://coupons.mycoupons.com/feature/" onmouseover="MM_swapImage('buttonbar_feature','','http://images.directtrack.com/mycoupons/images/buttonbar_feature-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_feature.gif" name="buttonbar_feature" border="0" id="buttonbar_feature"></a></td>
-		<td width="2" height="42"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_spaceone.gif" width="2" height="42" alt="" border="0"></td>
-		<td width="114" height="42"><a href="http://coupons.mycoupons.com/specialpromo/" onmouseover="MM_swapImage('buttonbar_specialpromo','','http://images.directtrack.com/mycoupons/images/buttonbar_specialpromo-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_specialpromo.gif" name="buttonbar_specialpromo" border="0" id="buttonbar_specialpromo"></a></td>
-		<td width="2" height="42"><img name="buttonbar_spacetwo" src="http://images.directtrack.com/mycoupons/images/buttonbar_spacetwo.gif" width="2" height="42" alt=""></td>
-		<td width="85" height="42"><a href="http://coupons.mycoupons.com/daily/" onmouseover="MM_swapImage('buttonbar_daily','','http://images.directtrack.com/mycoupons/images/buttonbar_daily-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_daily.gif" name="buttonbar_daily" border="0" id="buttonbar_daily"></a></td>
-		<td width="2" height="42"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_spacethree.gif" width="2" height="42" alt="" border="0"></td>
-		<td height="42"><a href="http://www.mycoupons.com/newsletter/" onmouseover="MM_swapImage('buttonbar_newsletter','','http://images.directtrack.com/mycoupons/images/buttonbar_newsletter-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_newsletter.gif" name="buttonbar_newsletter" border="0" id="buttonbar_newsletter"></a></td>
-  		<td width="2" height="42"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_spacethree.gif" width="2" height="42" alt="" border="0"></td>
+		<td width="145" class="repeat"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="145" height="42" alt="" border="0"></td>
+		<td width="2" height="42"><img src="http://www.mycoupons.com/cdn/images/buttonbar_spaceone.gif" width="2" height="42" alt="" border="0"></td>
+		<td width="109" height="42"><a href="http://www.mycoupons.com/feature/" onmouseover="MM_swapImage('buttonbar_feature','','http://www.mycoupons.com/cdn/images/buttonbar_feature-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.mycoupons.com/cdn/images/buttonbar_feature.gif" name="buttonbar_feature" border="0" id="buttonbar_feature"></a></td>
+		<td width="2" height="42"><img src="http://www.mycoupons.com/cdn/images/buttonbar_spaceone.gif" width="2" height="42" alt="" border="0"></td>
+		<td width="114" height="42"><a href="http://www.mycoupons.com/specialpromo/" onmouseover="MM_swapImage('buttonbar_specialpromo','','http://www.mycoupons.com/cdn/images/buttonbar_specialpromo-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.mycoupons.com/cdn/images/buttonbar_specialpromo.gif" name="buttonbar_specialpromo" border="0" id="buttonbar_specialpromo"></a></td>
+		<td width="2" height="42"><img name="buttonbar_spacetwo" src="http://www.mycoupons.com/cdn/images/buttonbar_spacetwo.gif" width="2" height="42" alt=""></td>
+		<td width="85" height="42"><a href="http://www.mycoupons.com/daily/" onmouseover="MM_swapImage('buttonbar_daily','','http://www.mycoupons.com/cdn/images/buttonbar_daily-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.mycoupons.com/cdn/images/buttonbar_daily.gif" name="buttonbar_daily" border="0" id="buttonbar_daily"></a></td>
+		<td width="2" height="42"><img src="http://www.mycoupons.com/cdn/images/buttonbar_spacethree.gif" width="2" height="42" alt="" border="0"></td>
+		<td height="42"><a href="http://www.mycoupons.com/newsletter/" onmouseover="MM_swapImage('buttonbar_newsletter','','http://www.mycoupons.com/cdn/images/buttonbar_newsletter-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.mycoupons.com/cdn/images/buttonbar_newsletter.gif" name="buttonbar_newsletter" border="0" id="buttonbar_newsletter"></a></td>
+  		<td width="2" height="42"><img src="http://www.mycoupons.com/cdn/images/buttonbar_spacethree.gif" width="2" height="42" alt="" border="0"></td>
 		<td width="100%" class="repeat">&nbsp;</td>
   </tr>
 </tbody></table>
@@ -136,82 +79,89 @@ function displayform()
 
 <table width="100%" border="0" cellpadding="1" cellspacing="0" align="center">
 	<tbody><tr bgcolor="#F5F5F5">
-		<td align="right"><a href="Javascript:void(0);" onclick="exp('table1','table1_div');"><div id="table1_div" style="display:inline;"><img src="http://images.directtrack.com/mycoupons/images/searchButtonClose.gif" width="119" height="20" border="0"></div></a></td>
+		<td align="right"><a href="Javascript:void(0);" onclick="exp('table1','table1_div');"><div id="table1_div" style="display:inline;"><img src="http://www.mycoupons.com/cdn/images/searchButtonClose.gif" width="119" height="20" border="0"></div></a></td>
 	</tr>
 </tbody></table>
 
 
 <table width="618" border="0" cellpadding="4" cellspacing="0" id="table1">
 	<tbody><tr>
-		<td rowspan="3"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" alt="#" width="1" height="1" border="0"></td>
+		<td rowspan="3"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" alt="#" width="1" height="1" border="0"></td>
 		<td width="334" colspan="3">
 		<!-- SEARCH COUPONS LOGO -->
-		<img src="http://images.directtrack.com/mycoupons/images/searchCouponsSmall.gif" alt="#" width="334" height="32" border="0">
+		<img src="http://www.mycoupons.com/cdn/images/searchCouponsSmall.gif" alt="#" width="334" height="32" border="0">
 		<!-- SEARCH COUPONS LOGO -->
 		</td>
-		<td width="77" rowspan="3"><img src="http://images.directtrack.com/mycoupons/images/searchDividLineSmall.gif" alt="#" width="77" height="70" border="0"></td>
+		<td width="77" rowspan="3"><img src="http://www.mycoupons.com/cdn/images/searchDividLineSmall.gif" alt="#" width="77" height="70" border="0"></td>
 		<td width="207" rowspan="3" align="left" valign="top">
 			
 			<!-- START SEARCH COUPONS BY -->
 			<table width="207" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td width="207" height="26" colspan="3"><img src="http://images.directtrack.com/mycoupons/images/searchCoupons_head.gif" width="207" height="26" alt="" border="0"></td>
+					<td width="207" height="26" colspan="3"><img src="http://www.mycoupons.com/cdn/images/searchCoupons_head.gif" width="207" height="26" alt="" border="0"></td>
+					<td rowspan="3">&nbsp;</td>
+					<td rowspan="3">&nbsp;<script language="JavaScript" src="http://www.mycoupons.com/banners.html?t=s"></script></td>
 				</tr>
 				<tr>
-					<td width="72" height="17"><a href="http://coupons.mycoupons.com/browse/" onmouseover="MM_swapImage('buttonbar_browse2','','http://images.directtrack.com/mycoupons/images/buttonbar_browse-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_browse.gif" name="buttonbar_browse" border="0" id="buttonbar_browse2"></a></td>
-					<td width="74" height="17"><a href="http://coupons.mycoupons.com/new/-/1" onmouseover="MM_swapImage('buttonbar_newest2','','http://images.directtrack.com/mycoupons/images/buttonbar_newest-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_newest.gif" name="buttonbar_newest" border="0" id="buttonbar_newest2"></a></td>
-					<td width="61" height="17"><a href="http://coupons.mycoupons.com/merchant/" onmouseover="MM_swapImage('buttonbar_merchant2','','http://images.directtrack.com/mycoupons/images/buttonbar_merchant-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_merchant.gif" name="buttonbar_merchant" border="0" id="buttonbar_merchant2"></a></td>
+					<td width="72" height="17"><a href="http://www.mycoupons.com/browse/" onmouseover="MM_swapImage('buttonbar_browse2','','http://www.mycoupons.com/cdn/images/buttonbar_browse-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.mycoupons.com/cdn/images/buttonbar_browse.gif" name="buttonbar_browse" border="0" id="buttonbar_browse2"></a></td>
+					<td width="74" height="17"><a href="http://www.mycoupons.com/new/-/1" onmouseover="MM_swapImage('buttonbar_newest2','','http://www.mycoupons.com/cdn/images/buttonbar_newest-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.mycoupons.com/cdn/images/buttonbar_newest.gif" name="buttonbar_newest" border="0" id="buttonbar_newest2"></a></td>
+					<td width="61" height="17"><a href="http://www.mycoupons.com/merchant/" onmouseover="MM_swapImage('buttonbar_merchant2','','http://www.mycoupons.com/cdn/images/buttonbar_merchant-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.mycoupons.com/cdn/images/buttonbar_merchant.gif" name="buttonbar_merchant" border="0" id="buttonbar_merchant2"></a></td>
 				</tr>
 				<tr>
-					<td width="72" height="25"><a href="http://coupons.mycoupons.com/hot/-/1" onmouseover="MM_swapImage('buttonbar_hot2','','http://images.directtrack.com/mycoupons/images/buttonbar_hot-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_hot.gif" name="buttonbar_hot" border="0" id="buttonbar_hot2"></a></td>
-					<td width="74" height="25"><a href="http://coupons.mycoupons.com/popular/-/1" onmouseover="MM_swapImage('buttonbar_popular2','','http://images.directtrack.com/mycoupons/images/buttonbar_popular-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_popular.gif" name="buttonbar_popular" border="0" id="buttonbar_popular2"></a>	</td>
-					<td width="61" height="25"><a href="http://coupons.mycoupons.com/brand/" onmouseover="MM_swapImage('buttonbar_brand2','','http://images.directtrack.com/mycoupons/images/buttonbar_brand-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://images.directtrack.com/mycoupons/images/buttonbar_brand.gif" name="buttonbar_brand" border="0" id="buttonbar_brand2"></a>	</td>				
+					<td width="72" height="25"><a href="http://www.mycoupons.com/hot/-/1" onmouseover="MM_swapImage('buttonbar_hot2','','http://www.mycoupons.com/cdn/images/buttonbar_hot-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.mycoupons.com/cdn/images/buttonbar_hot.gif" name="buttonbar_hot" border="0" id="buttonbar_hot2"></a></td>
+					<td width="74" height="25"><a href="http://www.mycoupons.com/popular/-/1" onmouseover="MM_swapImage('buttonbar_popular2','','http://www.mycoupons.com/cdn/images/buttonbar_popular-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.mycoupons.com/cdn/images/buttonbar_popular.gif" name="buttonbar_popular" border="0" id="buttonbar_popular2"></a>	</td>
+					<td width="61" height="25"><a href="http://www.mycoupons.com/brand/" onmouseover="MM_swapImage('buttonbar_brand2','','http://www.mycoupons.com/cdn/images/buttonbar_brand-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://www.mycoupons.com/cdn/images/buttonbar_brand.gif" name="buttonbar_brand" border="0" id="buttonbar_brand2"></a>	</td>				
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
 	<tr>
-		<form method="GET" action="/dosearch.html" name="search_form" onsubmit="return reload_page();"></form>                    
-		<td width="77" height="22"><img src="http://images.directtrack.com/mycoupons/images/keywords.gif" width="77" height="22" alt="" border="0"></td>
-		<td width="191" height="22"> <input class="textField" name="term" type="text" value="" size="25" maxlength="25">	
-		</td><td width="66" height="22"><input type="image" src="http://images.directtrack.com/mycoupons/images/finditButton.gif" name="Submit" value="FIND IT" border="0"></td>
+		<form method="GET" action="/dosearch.html" name="search_form"></form>                    
+		<td width="77" height="22"><img src="http://www.mycoupons.com/cdn/images/keywords.gif" width="77" height="22" alt="" border="0"></td>
+		<td width="191" height="22"> <input name="term" type="text" value="" size="25" maxlength="25">	
+		</td><td width="66" height="22"><input type="image" src="http://www.mycoupons.com/cdn/images/finditButton.gif" name="Submit" value="FIND IT" border="0"></td>
 						
 	</tr>
 	<tr>
-		<td colspan="3"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="1" height="5" alt="" border="0"></td>
+		<td colspan="3"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="1" height="5" alt="" border="0"></td>
 	</tr>
 </tbody></table>
 <script language="Javascript">
-<!--
-	displayform();
-	switchTabs();	
-	show_searchbox();
-//-->
+displayform();
+switchTabs();	
+show_searchbox();
+var x = document.URL;
+var y = x.split('/');
+if (y[3] == 'summary')
+{
+	var term = new String(y[4]);
+	document.search_form.term.value = term.replace(/_/gi," ");	
+}
 </script>
-  <!-- BEGIN MAIN CONTENT -->
+<!-- BEGIN MAIN CONTENT -->
 	
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td height="20" class="categorybackground" align="center" colspan="3"><img src="http://mycoupons.directhostnet.com/cdn/images/spacer.gif" width="1" height="20" alt="" border="0"></td>
+		<td height="20" class="categorybackground" align="center" colspan="3"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="1" height="20" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td height="1" colspan="3"><img src="http://mycoupons.directhostnet.com/cdn/images/spacer.gif" width="1" height="2" alt="" border="0"></td>
+		<td height="1" colspan="3"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="1" height="2" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td height="12" class="resultsBackground" align="center" colspan="3"><img src="http://mycoupons.directhostnet.com/cdn/images/spacer.gif" width="1" height="12" alt="" border="0"></td>
+		<td height="12" class="resultsBackground" align="center" colspan="3"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="1" height="12" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td height="10" colspan="3"><img src="http://mycoupons.directhostnet.com/cdn/images/spacer.gif" width="1" height="10" alt="" border="0"></td>
+		<td height="10" colspan="3"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="1" height="10" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td width="35"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="35" height="1" alt="" border="0"></td>
+		<td width="35"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="35" height="1" alt="" border="0"></td>
 		<td width="700" class="mcSmall">
 		
-			<p><img src="http://images.directtrack.com/mycoupons/images/mcHead_privacy.gif" width="372" height="50" border="0"></p>
+			<p><img src="http://www.mycoupons.com/cdn/images/mcHead_privacy.gif" width="372" height="50" border="0"></p>
 			
 			<p>
 			<b>How Data is Collected:</b>
-			<br>Signing up for the MyCoupons® service provides Direct Response Technologies, Inc with your name, email address, gender, and zip code. Our method of collection is through our register page (<a href="https://www.mycoupons.com/signup/" class="terms">https://mycoupons.com/signup/</a>). After a subscriber enters his/her name, email address, year of birth, gender, and zip code, data is transfered to our server and an account is setup.  For more information about the Terms of Use of MyCoupons®, please read the Terms of use page at:  <a href="" class="terms">http://www.mycoupons.com/page_terms.html</a>
+			<br>Signing up for the MyCoupons® service provides Direct Response Technologies, Inc with your name, email address, gender, and zip code. Our method of collection is through our register page (<a href="https://www.mycoupons.com/signup/" class="smallLink">https://mycoupons.com/signup/</a>). After a subscriber enters his/her name, email address, year of birth, gender, and zip code, data is transfered to our server and an account is setup.  For more information about the Terms of Use of MyCoupons®, please read the Terms of use page at:  <a href="page_terms.html" class="smallLink">http://www.mycoupons.com/page_terms.html</a>
 			</p>
 			
 			<p>
@@ -275,7 +225,7 @@ function displayform()
 			
 			<p>
 			412-921-6881<br>
-			<a href="mailto:office@directresponse.com" class="terms">office@directresponse.com</a>
+			<a href="mailto:office@directresponse.com" class="smallLink">office@directresponse.com</a>
 			</p>
 			
 			<p>
@@ -317,30 +267,57 @@ function displayform()
 			<td bgcolor="#FFFFFF">&nbsp;</td>
 		</tr>
 		<tr>
-			<td colspan="3"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="0" height="20" alt="" border="0"></td>
+			<td colspan="3"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="0" height="20" alt="" border="0"></td>
 		</tr>
 	</tbody></table>
 <table width="100%" border="0" cellpadding="0" cellspacing="0" align="left" bgcolor="ffffff">
 	<tbody><tr>
-		<td bgcolor="#ffffff"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="1" height="2" alt="" border="0"></td>
+		<td bgcolor="#ffffff"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="1" height="2" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td bgcolor="#a4d1dd"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="1" height="5" alt="" border="0"></td>
+		<td bgcolor="#a4d1dd"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="1" height="5" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td bgcolor="#ffffff"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
+		<td bgcolor="#ffffff"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
 	</tr>
 	<tr>
-		<td bgcolor="#72b2c4"><img src="http://images.directtrack.com/mycoupons/images/spacer.gif" width="1" height="15" alt="" border="0"></td>
+		<td bgcolor="#72b2c4"><img src="http://www.mycoupons.com/cdn/images/spacer.gif" width="1" height="15" alt="" border="0"></td>
 	</tr>
 	<tr>
 		<td height="58" align="center">
-			<a href="http://www.mycoupons.com/page_affiliates.html" class="footer">Affiliates</a>   <font class="footLine">|</font>   <a href="http://www.mycoupons.com/page_advertise.html" class="footer">Advertise</a>   <font class="footLine">|</font>   <a href="http://www.mycoupons.com/page_privacy.html" class="footer">Privacy</a>   <font class="footLine">|</font>    <a href="http://www.mycoupons.com/page_terms.html" class="footer">Terms of Use</a>   <font class="footLine">|</font>   <a href="http://www.mycoupons.com/page_faq.html" class="footer">FAQ</a>   <font class="footLine">|</font>   <a href="http://www.mycoupons.com/newsletter" class="footer">Newsletter</a>   <font class="footLine">|</font>   <a href="http://www.mycoupons.com/newsletter/unsubscribe.html" class="footer">Unsubscribe</a>   <font class="footLine">|</font> <a href="http://www.mycoupons.com/page_tella.html" class="footer">Tell-a-Friend</a>   <font class="footLine">|</font> <a href="http://www.mycoupons.com/boards/" class="footer">Shopping Boards</a>
+		
+			<a href="http://www.mycoupons.com/affiliate/" class="footer">Affiliates</a> <font class="footLine">|</font>   
+			<a href="http://www.mycoupons.com/advertiser/signup/" class="footer">Advertise</a> <font class="footLine">|</font>   
+			<a href="http://www.mycoupons.com/page_privacy.html" class="footer">Privacy</a> <font class="footLine">|</font>    
+			<a href="http://www.mycoupons.com/page_terms.html" class="footer">Terms of Use</a> <font class="footLine">|</font>   
+			<a href="http://www.mycoupons.com/page_faq.html" class="footer">FAQ</a> <font class="footLine">|</font>   
+			<a href="http://www.mycoupons.com/newsletter" class="footer">Newsletter</a> <font class="footLine">|</font>   
+			<a href="http://www.mycoupons.com/newsletter/unsubscribe.html" class="footer">Unsubscribe</a> <font class="footLine">|</font> 
+			<a href="http://www.mycoupons.com/page_tella.html" class="footer">Tell-a-Friend</a> <font class="footLine">|</font> 
+			<a href="http://www.mycoupons.com/boards/" class="footer">Shopping Boards</a> <font class="footLine">|</font> 
+			<a href="http://www.mycoupons.com/page_sitemap.html" class="footer">Sitemap</a>
+			
 			<br>
-			<font class="cr">COPYRIGHT 1994 - 2005 DIRECT RESPONSE TECHNOLOGIES, INC.</font> 
+			<a href="http://www.mycoupons.com/amazon-coupons-codes.html" class="footer">Amazon Coupons</a> <font class="footLine">|</font>   
+			<a href="http://www.mycoupons.com/grocery-coupons-online.html" class="footer">Online Grocery</a> <font class="footLine">|</font>   
+			<a href="http://www.mycoupons.com/coupon-codes.html" class="footer">Coupon Codes</a> <font class="footLine">|</font>    
+			<a href="http://www.mycoupons.com/grocery-coupon-printable.html" class="footer">Free Printable Offers</a> <font class="footLine">|</font>   
+			<a href="http://www.mycoupons.com/overstock-coupons.html" class="footer">Overstock Coupons</a> 
+			
+			
+			 <br><br>
+			<font class="cr">COPYRIGHT 1994 - 2005 MYCOUPONS.COM</font> 
 		</td>
 	</tr>
 </tbody></table>
-
+<!-- ***  CLICK TRACKING CODE 3.0 *** -->
+<script language="JavaScript" type="text/javascript" defer="1" src="http://keywordmax.com/tracking/show.php?id=527864349&amp;location=Homepage"></script>
+<noscript>
+<img src="http://keywordmax.com/tracking/log.php?id=527864349&loc=Homepage" border="0" width="1" height="1">
+</noscript>
+<!-- ^^^ CLICK TRACKING CODE 3.0 ^^^ -->
+<center>
+<font color="white">web534 Wed Dec 28 06:23:11 EST 2005</font>
+</center>
 
 </body></html>
