@@ -1,139 +1,131 @@
-> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2004-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040810084626id_/http%3A//niketown.nike.com/info/privacy.jhtml%3Fitem%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228140830id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp%3Fitem%3Dprivacy) for the most accurate reproduction.*
 
-# Niketown.com
+# Niketown.com : Customer Service : Privacy & Security
 
-Nike is committed to respecting the privacy rights of website visitors. The following policy describes how we collect, protect and use information we receive from website visitors. If you would like to review our policies specifically applicable to children, see "[Children's Online Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=DZGZQPSWEU0IOCQCGIUCFEYKAIZCSIV0?item=child)". 
+Nike's Online Privacy Policy (USA)
 
-NIKE USA, Inc. and NIKE Retail Services, Inc are responsible for this privacy policy. Please note, that when you enter any sub-sites accessible through nike.com, they may have different privacy policies specific to those sites. We encourage you to read the privacy policies of each NIKE site.
+Nike is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy, updated in March 2005, describes the information we collect and how we use it. By using this website, you consent to our privacy policy. If you would like to review our policy for children, see "[Children's Online Privacy Policy](https://web.archive.org/web/20051228140830id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp?item=child)". 
 
-What information do we collect?  
-How do we use your information?  
-How do we protect visitor information?  
-Do we use "cookies"?  
-Do we disclose the information we collect to outside parties?  
-How can you opt-out, remove, or modify information that you have provided to us?  
-Children's Online Privacy Policy
+For questions or concerns, please [email us](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php?p_cv=&p_pv=2.48&p_prods=40%2C48&p_cats=&prod_lvl1=40&prod_lvl2=48) or contact us at: 
 
-  
-What information do we collect?
-
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.   
-
-  * When ordering or registering, we may ask you for your name, date of birth, e-mail address, mailing address, daytime phone number, credit card information or other information. You may, however, visit our site anonymously or purchase without registering. 
-  
-
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. 
-  
-
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them. 
-  
-
-  * We also receive and store click-stream data and other information about visits to our websites which may be combined with personal information you have provided. This information is used to analyze and improve the website experience. For more information see the "Do we use 'cookies'?" section below.   
+**Nike**  
+Attn: Consumer Services/Privacy  
+One Bowerman Drive   
+Beaverton, OR, 97005   
+1.800.806.6453   
 
 
-back to top
+Collecting Information   
+Using Information   
+Sharing Information  
+Protecting Your Information  
+Cookies and Pixel Tags  
+Unsubscribing, Removing or Modifying Your Information  
+[Children's Online Privacy Policy](https://web.archive.org/web/20051228140830id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp?item=child)
 
-How do we use your information?
+**Collecting Information**
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:   
+Like many websites, we gather information about how visitors use our website. In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track your Internet domain address for trends and statistics, but you will remain anonymous unless you tell us who you are. For more information, see "Cookies and Pixel Tags" section below. 
 
+We request information from you (which may include name, address, telephone number, email address, gender and when necessary, credit card information) when you: 
 
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  
-
-  * To allow us to better service you in responding to your customer service requests. 
-  
-
-  * To quickly process your transactions.
-  
-
-  * To administer a contest, promotion, survey or other site feature.
-  
-
-  * If you have opted-in to receive Nike e-mail, we may send you periodic e-mails from Nike. If you would no longer like to receive Nike e-mail, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. 
-  
-
-  * If you have opted-in to receive direct mail, Nike may send you periodic direct mail (such as catalogs). If you would no longer like to receive direct mail, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below.
-  
-
-  * If you have purchased a product from Nike and have not previously registered on the site as of April 19th, 2004, we will automatically add you to our direct mail (including catalog) list. If you would like to opt-out of receiving direct mail, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below.
-  
-
-  * If you have opted-in to receive Nike SMS messages, we may send you periodic SMS messages from Nike. If you would no longer like to receive Nike SMS messages, please refer to the "How can you opt-out, remove or modify information you have provided us?" section below.  
+  * Register
+  * Purchase
+  * Request a catalog
+  * Request to receive communications
+  * Participate in a promotion or other website feature
 
 
-back to top
 
-How do we protect visitor information? 
+In order to better understand your preferences and better serve you, we may combine information you give us online with other information from Nike sources, transactions and communications. This may include data from Nike stores, direct mail, events, or online marketing. We may also combine that information with data that is publicly available and data that we receive from other reputable sources. This data may include postal address updates and demographic data . We collect information about gift recipients to fulfill the gift purchase, respond to customer service inquiries and for analysis purposes only. All data combined and stored with online data is protected by this privacy policy. 
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above. 
+back to top 
 
-back to top
+**Using Information**
 
-Do we use "cookies"? 
+We may use the information we collect to: 
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+  * Customize and/or personalize your communications and shopping experience 
+  * Better respond to your customer service inquiries 
+  * Communicate with you about your purchase, account information, or customer service needs 
+  * Communicate with you about our products and events, and for other promotional purposes 
+  * Improve our business 
+  * Administer contests, promotions, surveys or other website features 
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help Nike conduct and improve its business. Avenue A and Omniture are two such third-party service providers that Nike works with to help analyze and improve how visitors interact with our website and services. These companies use cookies to gather anonymous data about our visitors on Nike's behalf. They do not collect personally identifiable information like e-mail, credit card number, phone number, or name.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our customer service number (800) 806-6453.
 
-back to top
+If you have purchased a product from Nike and have not previously registered on the website as of April 19th, 2004, we will automatically add you to our direct mail (including catalog) list. 
 
-Do we disclose the information we collect to outside parties? 
+**Sharing Information**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information, except as described in this Privacy Policy. The term "outside parties" does not include NIKE, Inc. wholly-owned companies. It also does not include website hosting partners and other parties who assist us in operating our website, conducting Nike's business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+We do not sell or rent your information to any outside parties. For the purpose of operating our business, we may transfer information between Nike and our preferred service providers who use that information only to conduct Nike business. For example, they may handle Nike's credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management. We may also share your information to administer a website feature (e.g., music download or race registration) and in that case will notify you before you give us your information. We provide our preferred service providers with the information they need to perform their services and work with them to respect and protect your information. 
 
-However, non-personally identifiable visitor information may be provided to outside parties for marketing, advertising, or other uses.
+We may provide your information to NIKE Inc. wholly-owned companies and affiliates, which may be outside the U.S. We may provide aggregated, non-personally identifiable information to other companies for purposes such as reporting and marketing. 
 
-back to top
+On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes. 
 
-How can you opt-out, remove or modify information you have provided to us?
+**Protecting Your Information**
 
-Registration information and e-mail subscriptions  
-To modify or delete entirely the information you have provided during registration, including your e-mail subscriptions, please refer to the "My Account" section of our site. You can also send a request via e-mail by clicking [here](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php?p_prod_lvl1=40&p_prod_lvl2=64). Be sure to include your first and last name and account e-mail address in the message box.
+We use a variety of security measures, including sophisticated encryption and authentication tools to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All credit card information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above. Regardless of these efforts, no data transmission over the Internet can be guaranteed to be 100% secure. 
 
-Nike direct mail (including catalogs)  
-If you would like your name and address removed from Nike's direct mailing list, please submit an e-mail request by clicking [here](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php?p_prod_lvl1=40&p_prod_lvl2=64). Be sure to specify in the message box which list(s) you would like to be removed from and include your first name, last name, and address exactly as shown on the direct mail piece you have received.
+**Cookies and Pixel Tags**
 
-SMS messages  
-To opt-out of receiving Nike SMS messages, please refer to the instructions in the SMS messages you receive.
+A cookie is a small removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on our website and allow us to enhance and personalize your online surfing and shopping experience. 
 
-Communications in Progress/Sales and Service Information.  
-Please note, if you have opted-out to receive e-mail, direct mail, and/or SMS communications from Nike, due to production schedules you may receive communications already in production. Also, if you request your registration information be deleted or you opt-out of other communications, we may maintain information about an individual sales transaction or service inquiry for future service and record keeping purposes.
+For example, we use cookies to: 
 
-back to top
+  * Remember the items in your Shopping Basket 
+  * Recognize you when you return to our website 
+  * Enable you to use Express Checkout 
+  * Analyze visitor behavior 
 
-A special note to parents 
 
-We realize that many children will visit our site, and we therefore encourage children to consult with their parents before submitting any information to any website, including ours. We encourage parents to supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing their name, address, and other personal information online without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the [Direct Marketing Association](http://www.the-dma.org/consumers/consumerassistance.html) home page. 
 
-back to top
+You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our customer service number at 1.800.806.6453.   
 
-Third party links 
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any [feedback](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php?p_prod_lvl1=40&p_prod_lvl2=48) about these linked sites (including if a specific link does not work). 
+We also use pixel tags – tiny graphic images – to help us analyze your online behavior. Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us. 
 
-Changes to our policy 
+We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our website and your interaction with our communications, including advertising.   
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on April 19th, 2004. 
 
-Questions and feedback 
+**Unsubscribing, Removing or Modifying Your Information**
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all [feedback](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php?p_prod_lvl1=40&p_prod_lvl2=48) pertaining to privacy, or any other issue. 
+We want to communicate with you only if you want to hear from us. If you prefer not to receive information from Nike or would like to update or change your personal information or preferences, follow the instructions below. 
 
-Online Policy Only 
+**Registration Information, Email and Other Subscriptions**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.   
-Terms and Conditions 
+To modify or delete entirely the information you have provided during registration, please [click here](https://secure-niketown.nike.com/niketown/account/account_login.jsp) to login and update your profile. 
 
-Please also visit our [Terms and Conditions](https://web.archive.org/info/privacy.jhtml;jsessionid=DZGZQPSWEU0IOCQCGIUCFEYKAIZCSIV0?item=terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+To unsubscribe from an email, please follow the instructions in any email you receive. You can also send a request by [clicking here](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php?p_cv=&p_pv=2.412&p_prods=40%2C412&p_cats=&prod_lvl1=40&prod_lvl2=412). Be sure to include your first and last name and account email address in the "message" box. 
 
-Your consent 
+**SMS Messages**
 
-By using our site, you consent to our privacy policy.
+To unsubscribe from SMS messages, please follow the instructions in the SMS messages you receive. 
+
+**Direct Mail (including Catalogs)**
+
+If you would like your name and address removed from Nike's direct mailing list or if you would like to update your mailing information , you can phone us at 1.800.806.6453 or send a request by [clicking here](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php?p_cv=&p_pv=2.64&p_prods=40%2C64&p_cats=&prod_lvl1=40&prod_lvl2=64). Be sure to include your first and last name and mailing address in the "message" box. 
+
+**Communications in Progress/Sales and Service Information.**
+
+Please note, if you have unsubscribed from any Nike communications, due to production schedules, you may receive communications already in production. Also, if you request your registration information be deleted or if you unsubscribe from communications, we may maintain information about sales transactions or service inquiries for future service and record keeping purposes.   
+
+
+**Policy Changes**
+
+We may change our privacy policy from time to time. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. This policy was last modified on March 3, 2005. ****
+
+**Questions and Feedback**
+
+We welcome your questions, comments, and concerns about privacy. Please send us any and all [feedback](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php?p_cv=&p_pv=2.48&p_prods=40%2C48&p_cats=&prod_lvl1=40&prod_lvl2=48) pertaining to privacy, or any other issue. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions ](https://web.archive.org/web/20051228140830id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp?item=terms) section that explains other terms governing the use of our website.
 
 back to top
 
-[Children's Online Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=DZGZQPSWEU0IOCQCGIUCFEYKAIZCSIV0?item=child)  
+[Children's Online Privacy Policy](https://web.archive.org/web/20051228140830id_/http%3A//niketown.nike.com/niketown/info/privacy.jsp?item=child)
 
+[](https://web.archive.org/web/20051228140830id_/http%3A//niketown.nike.com/niketown/info/custserv.jsp)
