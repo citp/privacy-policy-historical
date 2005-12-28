@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcai.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404021055id_/http%3A//www.arcai.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcai.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228051051id_/http%3A//arcai.com/policy.html) for the most accurate reproduction.*
 
 # Arcai.com's email finder and NetCut Software
 
