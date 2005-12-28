@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totalvid.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611212600id_/http%3A//www.totalvid.com/guidePrivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalvid.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228143156id_/http%3A//totalvid.com/guidePrivacy.cfm) for the most accurate reproduction.*
 
-# TotalVid - Skate, Surf, Street Racing, Snowboarding, and Action Sports Videos - Download, DVD, V
+# Movie Downloads Online - Video Downloads and DVDs
 
 ### PRIVACY POLICY
 
@@ -14,4 +14,4 @@ If you authorize us to retain your credit card information in our database to fa
 
 Please note that TotalVid may contain links to other websites and occasionally other websites may be co-branded with the TotalVid name. Websites that are linked to TotalVid.com or carry the TotalVid brand may have privacy policies which differ from ours.
 
-If you have any questions regarding this Privacy Policy, please send us an email at privacy@totalvid.com.
+If you have any questions regarding this Privacy Policy, please send us an email at [privacy@totalvid.com](mailto:privacy@totalvid.com).
