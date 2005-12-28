@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306211055id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228052206id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
 
 # Privacy Statement for InternetDJ.com - InternetDJ.com
 
-  
-****
-
-InternetDJ is committed to providing quality online activities and information to fans. While we encourage the interactive nature of online media, we strive to ensure the online safety and privacy of our visitors.
+InternetDJ is committed to providing quality online activities and information to fans. While we encourage the interactive nature of online media, we strive to ensure the online safety and privacy of our visitors. 
 
 Information Collection Policies We may request personally identifiable information from visitors who choose to participate in certain activities as described below. Our information practices are described below. 
 
@@ -27,7 +24,7 @@ Electronic Postcards
 InternetDJ may give visitors the option to send "electronic postcards" to friends. We ask the visitor to submit the first name and e-mail addresses of their friends. InternetDJ uses this information only for the purpose of sending the postcards. The recipient's e-mail address is deleted periodically from our system. 
 
 Use of Information  
-At InternetDJ, we may share aggregate information about our visitors with both our affiliated businesses (e.g. Bordash Industries) and externally with third parties, such as advertisers and business partners. We may also share personal information about our visitors (e.g. email address) with our affiliated departments and businesses that may have their own disclosure practices. However, it is our policy to not disclose externally with third parties personal information collected on our site, except in the following instances: 
+At InternetDJ, we may share aggregate information about our visitors with both our affiliated businesses (e.g. Dashboard Music Group, LLC) and externally with third parties, such as advertisers and business partners. We may also share personal information about our visitors (e.g. email address) with our affiliated departments and businesses that may have their own disclosure practices. However, it is our policy to not disclose externally with third parties personal information collected on our site, except in the following instances: 
 
 Agents  
 The personal information provided to InternetDJ by visitors may be transferred, disclosed or shared with third parties who may be engaged by us specifically to handle and deliver certain activities (e.g., sweepstakes) and perform other technical and processing functions, such as sending e-mail, providing user services to our visitors, or otherwise operating our site. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
@@ -46,7 +43,7 @@ InternetDJ has taken steps to ensure that personally identifiable information co
 
 Questions/Concerns?  
 If you have any questions regarding InternetDJ's privacy policy, please contact us at:   
-Michael Bordash   
+InternetDJ.com   
 17 State Street  
 12th Floor  
 New York, New York 10004 
