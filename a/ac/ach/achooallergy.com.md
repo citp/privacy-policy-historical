@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528092234id_/http%3A//www.achooallergy.com/index.asp%3Fpageid%3D1072) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228101626id_/http%3A//www.achooallergy.com/index.asp%3Fcontent%3Dprivacy_policy%26pageid%3D1072) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|    
-  
----  
-  
-[](https://web.archive.org/requestcatalog.asp)  
-  
-|  Privacy PolicyAchooallergy.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Achooallergy.com, you are accepting the practices described in our Privacy Policy.
+Privacy PolicyAchooallergy.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Achooallergy.com, you are accepting the practices described in our Privacy Policy.
 
 **What Personal Information About Customers Does Achooallergy.com Gather?**
 
@@ -44,11 +38,3 @@ Achooallergy.com does not sell products for purchase by children. We sell childr
 **Conditions of Use, Notices, and Revisions**
 
 If you choose to visit Achooallergy.com, your visit and any dispute over privacy is subject to this Notice and our User Agreement, including limitations on damages, arbitration of disputes, and application of the law of the state of Georgia. If you have any concern about privacy at Achooallergy.com, please contact us with a thorough description, and we will try to resolve it. 
-
-|  | 
-
-[](https://web.archive.org/index.asp?pageid=1025)  
-
-
-  
-
