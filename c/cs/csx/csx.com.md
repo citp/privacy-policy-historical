@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307225518id_/http%3A//www.csx.com/index.cfm%3Ffuseaction%3Dcompany.privacypolic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228124735id_/http%3A//www.csx.com/%3Ffuseaction%3Dhome.privacy) for the most accurate reproduction.*
 
-# Welcome to CSX
+# Welcome to CSX.com - Privacy Policy
+
+Privacy Policy
 
 CSX Corporation is committed to Internet privacy and information security. In general, you can visit us on the World Wide Web without telling us who you are or revealing any information about yourself. Our web servers collect the IP addresses, not the e-mail addresses, of visitors. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site. 
 
@@ -14,24 +16,21 @@ We do not send unsolicited e-mail. After you provide us with personal informatio
 
 You may easily unsubscribe to future e-mailings by using any of the following methods:
 
-  * Via our web site, by visiting the [Unsubscribe Page](http://www.csx.com/?fuseaction=company.news).
+  * Via our web site, by visiting the [Unsubscribe Page](https://web.archive.org/web/20051228124735id_/http%3A//www.csx.com/%3Ffuseaction%3Dhome.privacy?fuseaction=media.news).
+
+
 
 CSX Corp.'s web site may contain links to other sites, such as government organizations and affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for other sites' content or privacy practices.
 
 CSX Corp. has certified to the United States Department of Commerce that, for personal data transferred from the European Union to the United States, it will apply the Safe Harbor Principles. The Safe Harbor Principles ensure that: 
 
-  * Notice is given about the purposes for which information is collected;  
-
-  * Choice is offered to individuals to decide whether personal information should be disclosed either to a third party or for a purpose other than that for which it was originally collected;  
-
-  * Onward transfer occurs only after CSX Corp. has determined that a third party receiving the information provides at least the same level of privacy protection as is required by the Safe Harbor Principles;  
-
-  * Security is provided to protect personal information from loss, misuse, unauthorized access, disclosure, alteration and destruction;  
-
-  * Data integrity is maintained by making certain that collected data is relevant for the purposes for which it is used, and that it is accurate, complete and current;  
-
+  * Notice is given about the purposes for which information is collected;
+  * Choice is offered to individuals to decide whether personal information should be disclosed either to a third party or for a purpose other than that for which it was originally collected;
+  * Onward transfer occurs only after CSX Corp. has determined that a third party receiving the information provides at least the same level of privacy protection as is required by the Safe Harbor Principles;
+  * Security is provided to protect personal information from loss, misuse, unauthorized access, disclosure, alteration and destruction;
+  * Data integrity is maintained by making certain that collected data is relevant for the purposes for which it is used, and that it is accurate, complete and current;
   * Access to their personal information is given to individuals so they may correct, amend, or delete information where it is inaccurate; and  
 
   * Enforcement of the Safe Harbor Principles is carried out.
 
-|  
+
