@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614071728id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228122724id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
 
 # Education Queensland
 
