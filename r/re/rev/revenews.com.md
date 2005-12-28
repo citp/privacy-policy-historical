@@ -1,22 +1,36 @@
-> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602193213id_/http%3A//www.revenews.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228145918id_/http%3A//revenews.com/privacy.html) for the most accurate reproduction.*
 
-# ReveNews.com - Privacy Statement
+# ReveNews Privacy Policy, Online Revenue News & Opinions Since 1998
 
   
-ReveNews.com recognizes the importance of protecting the privacy of all our subscribers. We created the following guidelines with a fundamental respect for our user's right to privacy.
 
-**_Confidentiality/Use of Information_**
 
-If you have chosen to receive one of our newsletters, we ask for an e-mail address you would like that email sent to. We only use your e-mail addresses to send ReveNews.com editions and special announcements. We do not sell or rent out your e-mail address to marketers.
+### ReveNews Privacy Policy
 
-All ReveNews.com customer-provided information will be kept strictly confidential and will not be shared with any outside party. We may periodically contact past advertisers via. phone, email, or postal mail with new information about ReveNews.com's products and services.
+Information Collection and Use   
+ReveNews is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
 
-ReveNews.com uses incoming and outgoing website traffic data to help diagnose problems with our server and to administer our website. We also use it to gather broad demographic information about our users in general. We may combine demographic information supplied by a user at registration time with site usage data to provide profiles, in aggregate form, about our users and their preferences as it relates to ReveNews.com.
+Cookies A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. If a user rejects the cookie, they may still use our site. 
 
-ReveNews.com occassionally uses cookies to better understand our user's experience on the site and does not share this information with any third party.
+Log Files  
+We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use and analysis. IP addresses are not linked to personally identifiable information. 
 
-ReveNews.com allows users to display their email address along with messages they post in the "Opinion" section. Users are not required to provide an email address to post, but if they do that address is posted to the public. ReveNews.com has no control over how other ReveNews.com users might choose to use this public information.
+Sharing  
+We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. Such information enables us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our audience. Because ReveNews derives its revenue primarily from advertising, providing such aggregated demographic data is essential to keeping our service free to users. 
 
-Users may unsubscribe at any time from a ReveNews.com newsletter by going to [[ **http://www.revenews.com/digest/edit.cgi**](http://www.revenews.com/digest/edit.cgi)]. If you would like to be removed from our past customer mailing list, please send an email to [**feedback@revenews.com**](mailto:feedback@revenews.com) and be sure to indicate your company name.
+Links  
+This web site contains links to other sites. Please be aware that ReveNews is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-If you have any questions about this privacy statement, ReveNews.com practices, or feel that your privacy has been compromised, please contact us at [**feedback@revenews.com**](mailto:feedback@revenews.com).
+Newsletter  
+If a user wishes to subscribe to our email newsletter, we ask for contact information such as name and email address. We may also ask optional demographic questions. This is not linked to any personal information that can identify any individual person. Such information, in aggregate, enables us to better tailor our content to readers' needs and helps our advertisers better understand the demographics of our audience. Users may have their email addresses removed from the opt-in newsletter subscription at any time by following the instructions printed in the email newsletters. 
+
+Security  
+This website takes precautions to protect our users' information. When users submit sensitive information via the website, their information is protected both online and off-line. 
+
+Notification of Changes  
+If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+
+Contact Us  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: feedback@revenews.com 
+
+Read ReveNews [Terms Of Use](https://web.archive.org/web/20051228145918id_/http%3A//revenews.com/terms.html). 
