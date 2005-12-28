@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comptechdoc.org privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308183743id_/http%3A//www.comptechdoc.org/members/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comptechdoc.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228151745id_/http%3A//comptechdoc.org/members/privacy.php) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -22,4 +22,4 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 ### Cookies
 
-To enhance your experience with this site, some of our web pages use \\\\\"cookies.\\\\\" Cookies are text files we place in your computer\\\\\'s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. Once you choose to furnish the site with personally identifiable information, this information is linked to the data stored in the cookie to make it easier for you to access your account. No information is collected on this site for marketing purposes or to attempt to track use of the internet outside this site. 
+To enhance your experience with this site, some of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. Once you choose to furnish the site with personally identifiable information, this information is linked to the data stored in the cookie to make it easier for you to access your account. No information is collected on this site for marketing purposes or to attempt to track use of the internet outside this site. 
