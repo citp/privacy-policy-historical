@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403182842id_/http%3A//www.boomerang.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228130536id_/http%3A//www.boomerang.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # A Self-Service System with Personalized Email Marketing Tools & Software | Boomerang ®
 
