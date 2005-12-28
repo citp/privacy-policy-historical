@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equine.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307180254id_/http%3A//www.equine.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equine.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228043712id_/http%3A//www.equine.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Equine.com - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Equine.com is the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Equine.com collects information from our users at several different points on our website. 
 
-Any and all Equine.com registered user or customer contact information, including but not limited to e-mail addresses, phone numbers, or mailing addresses provided on the Equine.com site, is only for use by persons or entities interested in buying the particular horse, product or service offered by the customer. Unless arranged through Equine.com as an approved and bonafide special promotion, Equine.com's registered users or its customers' contact information may not be used or provided by anyone in the sale, promotion or solicitation of their business, products or services. Any violation of this policy shall be considered theft of Equine.com's information. 
+Any and all Equine.com registered user or customer contact information, including but not limited to e-mail addresses, phone numbers, or mailing addresses provided on the Equine.com site, is only for use by persons or entities interested in buying the particular horse, product or service offered by the customer. Unless arranged through Equine.com as an approved and bonafide special promotion, Equine.com's registered users or its customers' contact information may not be used or provided by anyone in the sale, promotion or solicitation of their business, products or services. Any violation of this policy shall be considered theft of Equine.com's information. However, we may, from time to time, in our sole discretion, share, lease or sell some of your personally identifiable information, including your name, phone number, mailing address or e-mail address, to special advertisers identified by us. 
 
 **Registration**
 
@@ -62,7 +62,7 @@ If a user's personally identifiable information changes (such as your phone numb
 
 Users are given the opportunity to unsubscribe from our monthly newsletters and special offers email communications or they may send an email to subscribe@equine.com to have their email address removed from our database. Please note that by using our service and posting classified ads, Users will receive emails from parties interested in the horse, product or service that User is advertising. 
 
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. You may chose that we not share, lease or sell your personally identifiable information with special advertisers by sending an e-mail to listings@equine.com and making that request. 
 
 **Notification of Changes**
 
