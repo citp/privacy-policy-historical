@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the powertochange.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207075505id_/http%3A//www.powertochange.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powertochange.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228121321id_/http%3A//www.powertochange.com/about/privacy.html) for the most accurate reproduction.*
 
-# Power to Change - powertochange.com privacy policy
-
-      send page      Privacy Policy **Privacy Policy - Synopsis**
+# Privacy Policy - Synopsis
 
 Power to Change Online takes all possible measures to protect the personal information of its users. We store any personal data given to us as securely as possible, and NEVER sell, rent, give or otherwise provide that personal data (including e-mail address) to anyone outside of our organization.
 
@@ -67,7 +65,7 @@ Most browsers accept cookies, but you can alter your browser settings to disable
 
 Spam is, by generally accepted definition, unsolicited bulk e-mail sent -- usually for marketing purposes -- to people who either have no reasonable expectation of receiving it or have specifically requested it not be sent. We consider spam to be an invasion of privacy and will never send unsolicited e-mails of this type.
 
-Our electronic mailing policy is “opt-in”, so we will not send you any e-mails without your express permission or your reasonable expectation. Therefore, all of our electronic publications are sent only to those who have either expressly subscribed to them or have “opted-in” to receive further electronic mailings from us. 
+Our electronic mailing policy is “opt-in”, so we will not send you any e-mails without your express permission or your reasonable expectation. Therefore, all of our electronic publications are sent only to those who have either expressly subscribed to them or have “opted-in” to receive further electronic mailings from us.
 
 If, for some reason, we have your e-mail address without knowing whether your preference is to “opt-in” or “opt-out” of further mailings, we may send you an initial unsolicited e-mail asking whether you would prefer to “opt-in” to further mailings. We will always make it easy for you to “opt-out” of receiving further electronic mail from us.
 
@@ -94,7 +92,7 @@ For security reasons we will require verification of identity before taking any 
 If you do not want us to use the personal information gathered about you through various means to contact you, you may request that we restrict or entirely eliminate sending you any post or e-mail, other than what is required for legal reasons or operational necessity. You may inform us of this by:  
 • telephone at [1] 604-514-2000 Ext. 240;  
 • post at Box 300, Vancouver, B.C. Canada V6C 2X3;  
-• e-mail at privacy@truthmedia.com. 
+• e-mail at privacy@truthmedia.com.
 
   
 **How you can request more details about this privacy policy**
@@ -113,5 +111,3 @@ Although our web sites are primarily targeted at adult users, we may also choose
 **What you should know about the limitations of our Privacy Policy**
 
 You need to be aware that any personal data voluntarily disclosed by you on bulletin boards, in chat rooms, in e-mail notes or in any other public forum provided by our organization, could potentially be accessed and “harvested” by third parties and is therefore not subject to our privacy policy. In addition, external web sites linked to by any of our web sites may not adhere to our Privacy Policy, and you should refer to their Privacy Policy to understand the rules under which they operate.
-
- 
