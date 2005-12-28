@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the become.com privacy policy that was archived on 2005-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050413052256id_/http%3A//become.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the become.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228173805id_/http%3A//www.become.com/privacy.html) for the most accurate reproduction.*
 
 # Become: Privacy Policy
 
@@ -8,7 +8,7 @@ User Consent
 By using our website, you agree to the terms of this Privacy Policy. 
 
 Collection of Personal Information  
-We collect Personal Information that you submit to us voluntarily through our website. [If you register to become a member of Become's Beta program, you must provide your name, email address, password, and log-in ID.] If you apply for a job at Become, we will collect any information contained in the email message you send to us, plus any information contained in your resume. If you email us directly via an e-mail hyperlink to provide us feedback or to ask us a question regarding our site or our business, we will collect any information contained in such email, and we will treat any such information in accordance with this Privacy Policy. If you provide any such feedback to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Information. 
+We collect Personal Information that you submit to us voluntarily through our website. If you opt-in to receiving our newsletter, we will collect your email address. If you apply for a job at Become, we will collect any information contained in the email message you send to us, plus any information contained in your resume. If you email us directly via an e-mail hyperlink to provide us feedback or to ask us a question regarding our site or our business, we will collect any information contained in such email, and we will treat any such information in accordance with this Privacy Policy. If you provide any such feedback to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Information. 
 
 As you navigate our website, certain passive information will also be collected, including Internet Protocol addresses, cookies and navigational data. This type of information will be used in the aggregate for the purposes of gathering data to improve our website, and to improve the quality of your experience when interacting with our website. This information will not be linked with any Personal Information. 
 
@@ -21,6 +21,9 @@ We do not generally sell, trade, rent, or share your Personal Information with t
 Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, "affiliates"), we may in the future. We may share some or all of your Personal Information with these affiliates, in which case we will require our affiliates to honor this Privacy Policy. If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. 
 
 We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Become; or (b) protect and defend the rights or property of Become or users of our website.
+
+Your Choices Regarding Your Personal Information  
+You have the option of receiving communications from us. You may indicate consent to receipt of these communications by checking the boxes located on the Email Updates page. Should you or a friend or family member decide to stop receiving further communications from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the email you receive, or by going to the Email Updates page, located at http://www.become.com/email_updates.html. Despite your indicated email preferences, we may send you notices of any updates to our Terms of Service, Privacy Policy, or your account. 
 
 Regarding Children  
 We do not intentionally gather Personal Information about visitors who are under the age of 13 or any other age group.
@@ -38,5 +41,3 @@ Mountain View , CA 94043
 info@Become.com
 
 Privacy Policy Updates This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we collect, use, or disclose your Personal Information, we will post a notice on this page. If you object to any such changes, you must cease using our website. Continued use of our website following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
-
-Copyright 2005 Become, Inc.
