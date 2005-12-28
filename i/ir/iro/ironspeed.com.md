@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironspeed.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403152908id_/http%3A//www.ironspeed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironspeed.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228113457id_/http%3A//ironspeed.com/privacy) for the most accurate reproduction.*
 
 # Iron Speed
 
