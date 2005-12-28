@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausregistry.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615085932id_/http%3A//www.ausregistry.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausregistry.com.au privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228115148id_/http%3A//www.ausregistry.com.au/privacy.htm) for the most accurate reproduction.*
 
 # AusRegistry - Domain Name, Registrars, MyWebName, WHOIS, .com.au, .net.au, .id.au, .org.au, .asn.au, Australia, Aus Registry Group,
 
