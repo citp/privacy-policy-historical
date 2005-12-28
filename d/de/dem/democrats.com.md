@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403112609id_/http%3A//democrats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228122054id_/http%3A//democrats.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Democrats.com Blog
+# Privacy Policy | Democrats.com
 
 ## Privacy Policy
 
-Our e-mail lists are strictly permission-based. To get on our e-mail list, you must take the action of joining our community, [subscribing to our mailings](http://archive.democrats.com/popup.cfm), signing our petitions, or responding to an advertisement on the Internet. If someone adds your e-mail address to our list without your permission, we apologize.
+Our e-mail list is opt-in: to get on our e-mail list, you must take the action of [joining our community](http://www.democrats.com/user/register), [subscribing to our mailings](http://archive.democrats.com/popup.cfm), or [signing our petitions](http://democrats.com/organize). If someone adds your e-mail address to our list without your permission, we apologize. 
 
-You can unsubscribe at any time by following the instructions at the bottom of every mailing. We do not sell e-mail addresses to spammers, and no one can search our site for e-mail addresses unless you choose to post it in your Democrats.community messages or public profile, which we discourage.
+You can unsubscribe at any time by following the instructions at the bottom of every mailing. If the link does not work for any reason, [contact us](http://democrats.com/contact) and we will remove you promptly. 
 
-We collect Democrats.community membership information to screen membership requests and make sure our members are Democrats. You control this information through your membership account page. You can leave the community at any time. When you log in to the community, we place a session-only cookie so you can view private sections of the community that are only available to members.
+We do not sell e-mail addresses to spammers, and no one can search our site for e-mail addresses unless you choose to post it in your Democrats.community messages or public profile, which we discourage.
+
+We collect Democrats.community membership information to screen membership requests and make sure our members are Democrats. You control this information through your membership account page. You can leave the community at any time. When you log in to the community, we place a cookie so you can view private sections of the community that are only available to members.
 
 We encourage Democrats.community members to connect with each other. If you choose, you can publish as much personal information as you like in our Membership Directory, which is only viewable by other Democrats.community members.
 
@@ -24,4 +26,6 @@ If you change your e-mail address, please unsubscribe from the mailings you are 
 
 Finally, we use anonymous aggregate statistics to help us improve our site.
 
-Updated 2/8/05
+Updated 8/31/05
+
+p.s. Notice to postmasters: **Democrats.com does not spam so please do not block our email**. We use SPF to verify the authenticity of our email. If you have any questions about our policies, [contact us](http://democrats.com/contact) and we will reply promptly.
