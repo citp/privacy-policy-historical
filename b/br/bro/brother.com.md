@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brother.com privacy policy that was archived on 2005-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050619235446id_/http%3A//brother.com/copyright.html%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brother.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228125746id_/http%3A//www.brother.com/copyright.html%23policy) for the most accurate reproduction.*
 
 # Notes on Brother WWW Server
 
