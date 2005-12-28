@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ownagevideos.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407062321id_/http%3A//www.ownagevideos.com/page.php%3Fid%3D63) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownagevideos.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228110237id_/http%3A//www.ownagevideos.com/page.php%3Fid%3D63) for the most accurate reproduction.*
 
-# Ownage Videos - funny/extreme videos, games, flash games, flash videos,owned,celebs,college fun,cars - Privacy Policy
-
-[Legal](https://web.archive.org/web/20050407062321id_/http%3A//www.ownagevideos.com/list.php?c=legal&PHPSESSID=f6287ea6d515964022e567b25a172bce) > Privacy Policy 
+# OwnageVideos.com - Privacy Policy
 
 OwnageVideos.com Privacy Policy 
 
