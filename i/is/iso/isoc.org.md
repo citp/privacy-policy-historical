@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the isoc.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305061435id_/http%3A//www.isoc.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isoc.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228171806id_/http%3A//www.isoc.org/help/privacy) for the most accurate reproduction.*
 
 # ISOC Search/Site Map/Help: Privacy Statement
+
+  
+|  | 
 
 ### Privacy Statement:
 
@@ -11,7 +14,7 @@ Our postal address is:
 > 1775 Wiehle Ave., Suite 102  
 >  Reston, Virginia 20190 USA
 
-or
+or 
 
 > 4, rue des Falaises  
 >  CH-1205 Geneva  
@@ -73,7 +76,20 @@ If you have any questions regarding our privacy policy or you feel that this sit
 
 **CONSENT AND CHANGES TO THIS POLICY**
 
-Subject to the above provisions, by using our site, you consent to the collection and use of information by us in accordance with this policy. If we decide to change our privacy policy, we will post those changes on this page. 
+Subject to the above provisions, by using our site, you consent to the collection and use of information by us in accordance with this policy. If we decide to change our privacy policy, we will post those changes on this page. Any changes to this privacy statement will also be announced on the Internet Society home page at http://www.isoc.org/.
 
-Any changes to this privacy statement will also be announced on the Internet Society home page at http://www.isoc.org/.  
+| 
 
+  
+1775 Wiehle Ave., Suite 102, Reston, VA, USA 20190-5108  
+Tel: +1 703 326 9880 Fax: +1 703 326 9881 
+
+4, rue des Falaises, CH-1205, Geneva, Switzerland   
+Tel: +41 22 807 1444 Fax: +41 22 807 1445 
+
+This document <http://www.isoc.org/help/privacy/index.shtml>   
+was last updated Wednesday, 27-Jul-2005 18:06:05 EDT.   
+Copyright © 2005 Internet Society. All Rights Reserved. 
+
+Webmaster@ISOC.ORG  
+[Privacy Statement](https://web.archive.org/help/privacy/)
