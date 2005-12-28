@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snipercentral.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308164525id_/http%3A//www.snipercentral.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snipercentral.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228134923id_/http%3A//www.snipercentral.com/privacy.htm) for the most accurate reproduction.*
 
 # Sniper Central Privacy Policy
 
