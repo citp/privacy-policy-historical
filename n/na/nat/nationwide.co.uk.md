@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404103731id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/privacy.asp%3Fs%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228105507id_/http%3A//nationwide.co.uk/about_nationwide/membership_matters/privacy.asp) for the most accurate reproduction.*
 
 # About Nationwide - Membership Matters - Privacy
 
@@ -26,7 +26,7 @@ All e-mail sent to Nationwide will be monitored and checked to ensure our system
 
 _This privacy policy only covers the Nationwide branded web sites. Links within this site to external web sites are not covered by this policy. Please note that any changes that Nationwide makes to this policy will be communicated electronically on the home-page of this site and not by individual written communication._
 
-[](https://web.archive.org/banking/pc/personal_information.htm) [How Nationwide uses your information](https://web.archive.org/banking/pc/personal_information.htm).
+[](https://web.archive.org/web/20051228105507id_/http%3A//nationwide.co.uk/about_nationwide/membership_matters/your_info.asp) [How Nationwide uses your information.](https://web.archive.org/web/20051228105507id_/http%3A//nationwide.co.uk/about_nationwide/membership_matters/your_info.asp)
 
 **Cookies**
 
@@ -34,7 +34,7 @@ A cookie is a small piece of data sent by our computer to yours so that informat
 
 A cookie is stored by your web browser in a text file on your computer with the word 'cookie' in its name. Each time your web browser requests a page from our web server, the cookie's message is sent back. Only Nationwide's web server may read the contents of a cookie you accept from us.
 
-Nationwide use cookies in the following ways:
+Nationwide uses cookies in the following ways:
 
   * to store your Customer Number so that you don't have to type it in each time you sign on to the Internet Bank
 
