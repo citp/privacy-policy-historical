@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307093500id_/http%3A//my.countrywide.com/Privacy.aspx%3Flinkid%3DPCFT014) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228080524id_/http%3A//my.countrywide.com/Privacy.aspx%3Flinkid%3DPCFT014) for the most accurate reproduction.*
 
 # Countrywide Privacy
 
@@ -7,9 +7,10 @@
 |  |   
 | privacy and security  
 | internet security  
-| cookies, web beacons   
+| cookies, web beacons  
+| shared secrets  
 | identity theft   
-| [site tour](https://web.archive.org/web/20050307093500id_/http%3A//my.countrywide.com/site_tour.aspx)  
+| [site tour](https://web.archive.org/web/20051228080524id_/http%3A//my.countrywide.com/site_tour.aspx)  
 |  |  | Privacy and Security in The Countrywide family  
 ---|---  
 |  | Your Privacy  
@@ -65,7 +66,7 @@ To offer and recommend valuable products and services, we may share customer and
   * Insurance \- Countrywide Insurance Services and Balboa Life & Casualty* offer homeowners, life, auto, disability, home warranty and other insurance products. 
   * Loan Closing Services \- The LandSafe family of companies offers title and escrow services, title insurance, credit reporting, property appraisals and flood zone determinations. 
   * Investments \- Countrywide Investment Services offers financial planning, mutual funds, IRAs, Roth IRAs, IRA and 401(K) rollovers, stocks, bonds, and fixed and variable annuities. 
-  * Banking \- Countrywide Bank, a division of Treasury Bank, N.A., offers checking, savings, CDs, money market accounts, new home loans, home equity loans and lines of credit, and many refinancing options. 
+  * Banking \- Countrywide Bank, N.A. offers checking, savings, CDs, money market accounts, new home loans, home equity loans and lines of credit, and many refinancing options. 
   * New Products and Services \- We may expand to offer you new products and services by forming, acquiring or merging with a new company.
 
   
@@ -118,7 +119,6 @@ Please review the website privacy notices of the companies listed below for stat
 [Countrywide Home Loans](http://www.countrywide.com/global/privacy.asp?linkid=&SourceID=por)  
 [Countrywide Insurance Services](http://www.cwinsurance.com/About/privacy.aspx)  
 [Balboa Life & Casualty](http://www.balboainsurance.com/blcbi/privacypolicy.jsp)  
-[LandSafe family of companies](http://www.landsafe.com/landsafe/privacy/index.html)  
 [Countrywide Investments](http://www.countrywideinvestments.com/scontent.aspx?cmtag=Content-privacy_security)  
 [Countrywide Bank](http://www.countrywidebank.com/scontent.aspx?cmtag=Content-privacy_policy&from=17557)  
    
@@ -128,7 +128,7 @@ Some companies in the Countrywide family have different information sharing prac
 
 [ DirectNet Insurance](http://www.directnetinsurance.com/about/privacy.xml?FromSource=dni)  
 [Global Home Loans](http://www.globalhomeloans.co.uk/)  
-[ LandSafe Credit](http://www.countrywidecreditguard.com/privacy.jsp?login=&reporttype=&source=DEF00000)
+[ LandSafe Credit - Countrywide CreditGuard Division](http://www.countrywidecredit.com/Message.aspx?PageTypeID=Privacy&SiteVersionID=356&SiteID=100189&sc=635700)
 
 Countrywide websites may contain links to other companies not in the Countrywide family for your convenience and information. If you access those links, you will leave the Countrywide website. We encourage you to review the privacy policy of any company before submitting your personal information.  
   
@@ -186,6 +186,28 @@ For example, we include URLs in e-mail marketing materials sent directly to you 
 TruSecure is a registered trademark of TruSecure Corporation.  
   
    
+| shared secrets  
+|  | What are Shared Secrets? | Back to top  
+---|---  
+Shared secrets are the most common security method for accessing confidential information. A shared secret is something known to both the user and the holder of the confidential information. The most common shared secrets are a user ID and password. These shared secrets allow the user to log into the site of the holder of confidential information such as a financial institutions or online merchants. Shared secrets form an integral part of user authentication in today's online environment.   
+   
+Protecting Your Shared Secrets | Back to top  
+  
+Protecting your shared secrets ensures that information accessed via those shared secrets is protected. You should never record your shared secrets electronically such as in documents or spreadsheets. In the event of a compromise of your computer hard drive, your shared secrets can be compromised as well placing all the data protected by those shared secrets at banks and merchants at risk. Likewise you should never store credit card numbers, expiration dates, bank account number, social security numbers, driver’s license number or other personal identifying information electronically on your computer for the same reason.
+
+Your shared secrets should never be revealed in response to unsolicited e-mails. Criminals attempt to obtain individual’s personal identifying information and use that information illegally such as to open and/or use credit cards, obtain phone or utility accounts, obtain loans, work, open bank accounts and/or pass fraudulent checks using a technique called ("[phishing](http://www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm)"). Criminals may also attempt to obtain that information over the phone posing as a survey taker, telemarketer or other unsolicited caller ("[pretexting](http://www.ftc.gov/bcp/conline/pubs/credit/pretext.htm)").  
+  
+   
+Common Shared Secrets | Back to top  
+  
+To minimize the potential compromise of your shared secrets, you should avoid commonly used secrets such as names (yours, your spouse's name, your children's, parents), common terms that appear in the dictionary (brute force attacks to crack passwords often use dictionaries in an attempt to randomly match the password), exclusively numbers (numbers range from 0 to 9 for each character where letters range from a to z creating 26 potential variations or 52 if case sensitive). The best passwords are a combination of both letters and numbers where the letters do not spell words that could be found in a dictionary and the password is of sufficient length, 6 characters or preferably more, to make brute force attacks harder.
+
+We suggest you do not use shared secrets across multiple domains (e.g. websites). If you use the same logon and password while shopping or surfing online as you use for your bank, if one of the online merchant sites is compromised, your user ID and password could then be used to access your bank information. Not all website apply the same level of security to their database. The use of a single logon ID and password across multiple sites is only as secure at the least secure site.  
+  
+   
+What Do I Do If My Shared Secrets are Compromised? | Back to top  
+Immediately change your shared secrets with all sites on which you have used the same shared secrets. Follow the instructions What Should I Do if I Become a Victim of Identity Theft?  
+   
 | identity theft  
 |  | What is Identity Theft? | Back to top  
 ---|---  
@@ -205,7 +227,7 @@ Identity theft requires someone to gain access to your personal information. You
   * Guard your PINs. Never give out your Personal Identification Number (PIN). Memorize your PINs and never write them on your cards or carry them in your wallet. 
   * Report lost or stolen credit cards, checks or identification immediately.
   * Store your personal information securely. Keep it where it is not easily available in the event of a burglary or other unauthorized access. 
-  * Be cautious online. Make sure it is safe when you are asked to provide information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see [How Do I Know if Security is Operating?](https://web.archive.org/web/20050307093500id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014#about_internet_security)). 
+  * Be cautious online. Make sure it is safe when you are asked to provide information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see [How Do I Know if Security is Operating?](https://web.archive.org/web/20051228080524id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014#about_internet_security)). 
   * Check your credit reports. Review your credit report regularly to identify any inquiries or accounts that you are not aware of and did not apply for. 
   * Protect your mailbox. If your residential mailbox is not secure, don’t put outgoing mail in the box and promptly pick up incoming mail or obtain a secure postal mailbox. 
   * Safeguard your checks. Never print your personal information such as a Social Security Number or driver’s license number on your checks.
@@ -228,7 +250,7 @@ Identity Theft Resources | Back to top
 [US Postal Inspection Service](http://www.usps.gov/postalinspectors/idthft_ncpw.htm) | 1-800-372-8347 | [Identity Theft Laws (by state)](http://www.ncvc.org/policy/issues/identitytheft/statetable.html) |    
    
 What is Countrywide Doing to Assist in the Battle Against Identity Theft? | Back to top  
-Protecting the confidentiality and security of our customers’ personal information is a priority for Countrywide and its family of companies. You can find more information in our [ Privacy and Security Policy](https://web.archive.org/web/20050307093500id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014). We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Countrywide has put multiple safety measures in place to combat identity theft.  
+Protecting the confidentiality and security of our customers’ personal information is a priority for Countrywide and its family of companies. You can find more information in our [ Privacy and Security Policy](https://web.archive.org/web/20051228080524id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014). We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Countrywide has put multiple safety measures in place to combat identity theft.  
    
 | Training  
 ---  
@@ -238,7 +260,7 @@ Fraud Hotline
   | For many years, Countrywide has maintained a Fraud Hotline for consumers, employees and the public to report crimes, including identity theft. Fraud Hotline staff work with departments across the Countrywide family of companies to block credit reporting based on claims of identity theft, conduct investigations including reviews of the account or loan documentation, and, if identity theft is confirmed, notify the credit bureaus and correct credit reporting history on affected Countrywide relationships. The Fraud Hotline serves as a single point of contact for consumers to report identity theft complaints to Countrywide and we respond within 48 hours. You can reach the Fraud Hotline by any method described under the _Reporting Identity Theft on a Countrywide Relationship_ section below.  
    
 CreditGuard™  
-  | Countrywide also offers a variety of services to help customers protect themselves against identity theft including [ CreditGuard](http://www.countrywide.com/creditcenter?linkid=CREDG01). Offered through Countrywide’s LandSafe subsidiary, CreditGuard provides round-the-clock monitoring of your credit report and notification if any critical information changes.   
+  | Countrywide also offers a variety of services to help customers protect themselves against identity theft including [ CreditGuard](http://www.countrywidecredit.com/). Offered through Countrywide’s LandSafe subsidiary, CreditGuard provides round-the-clock monitoring of your credit report and notification if any critical information changes.   
    
 Education  
   | Consumer awareness is a critical component in reducing the incidence of identity theft. Countrywide provides consumer education and training on identity theft through featured articles in our quarterly newsletters, statement messaging and our websites.  
