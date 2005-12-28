@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306091816id_/http%3A//www.filemaker.com/company/legal/notice/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228044537id_/http%3A//www.filemaker.com/company/legal/notice/privacy.html) for the most accurate reproduction.*
 
-# FileMaker Inc.: FileMaker
+# FileMaker Inc. - FileMaker
 
 Protecting your privacy is important to FileMaker. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the FileMaker Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
 
@@ -32,7 +32,7 @@ FileMaker uses your personal information for several purposes including:
 
 ### When We Disclose Personal Information
 
-Because FileMaker is a global company, your personal information may be shared with other FileMaker business affiliates around the world. They will protect your personal information in accordance with the FileMaker Customer Privacy Policy. FileMaker may occasionally share your personal contact information with carefully selected companies, to keep you informed about related products and services. If you do not want to receive promotional information from FileMaker or other companies and wish to opt-out, visit the [FileMaker Communications Web Page](https://web.archive.org/web/20050306091816id_/http%3A//www.filemaker.com/company/opt_out.html).
+Because FileMaker is a global company, your personal information may be shared with other FileMaker business affiliates around the world. They will protect your personal information in accordance with the FileMaker Customer Privacy Policy. FileMaker may occasionally share your personal contact information with carefully selected companies, to keep you informed about related products and services. If you do not want to receive promotional information from FileMaker or other companies and wish to opt-out, visit the [FileMaker Communications Web Page](https://web.archive.org/web/20051228044537id_/http%3A//www.filemaker.com/company/opt_out.html).
 
 FileMaker works with other companies that help us provide FileMaker products and services to you, and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your products efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with FileMaker's policies.
 
@@ -46,9 +46,9 @@ We urge you to take every precaution to protect your personal data when you are 
 
 ### Access to Your Personal Information/Opt-Out Choices
 
-You have access to the information we have about you. To review and update your personal information, contact [FileMaker Customer Service](https://web.archive.org/web/20050306091816id_/http%3A//www.filemaker.com/company/contact.html#customerassistance).
+You have access to the information we have about you. To review and update your personal information, contact [FileMaker Customer Service](https://web.archive.org/company/contact#customerassistance).
 
-If you receive communications about FileMaker-related products and services and wish to opt-out, visit the FileMaker Communications Web Page at [http://www.filemaker.com/company/opt_out.html](https://web.archive.org/web/20050306091816id_/http%3A//www.filemaker.com/company/opt_out.html), send an e-mail to [remove@filemaker.com](mailto:remove@filemaker.com) or call our Customer Service department at toll-free (800) 325-2747.
+If you receive communications about FileMaker-related products and services and wish to opt-out, visit the FileMaker Communications Web Page at [http://www.filemaker.com/company/opt_out.html](https://web.archive.org/web/20051228044537id_/http%3A//www.filemaker.com/company/opt_out.html), send an e-mail to [remove@filemaker.com](mailto:remove@filemaker.com) or call our Customer Service department at toll-free (800) 325-2747.
 
 ### Collecting Other Personal Information
 
