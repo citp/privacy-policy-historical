@@ -1,110 +1,170 @@
-> *The following text is extracted and transformed from the paintshoppro.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203020644id_/http%3A//www.jasc.com/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paintshoppro.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228200007id_/http%3A//www.corel.com/servlet/Satellite%3Fpagename%3DCorel3/Section/Display%26sid%3D1047022946165%26gid%3D1047022956429%26cid%3D1047022956566) for the most accurate reproduction.*
 
-# Jasc Software Privacy Statement
+# About - Privacy
 
-Jasc Software Privacy Statement
+| 
 
-We respect your right to privacy. We will _never_ sell your name to a third party without your express consent. Period. 
+Privacy
 
-Because we feel your privacy is so important, we are providing this page to describe when and how we collect and use your information. 
+Corel recognizes that our customers value their right to privacy and want to be assured that any personal information that they provide to us will be used in accordance with their wishes. Corel is committed to ensuring that you are fully informed as to how your personal information will be used and that it will be kept secure. 
 
-* * *
+  1. What information do we collect?
+  2. Purposes for which we Use Information
+  3. Sharing of Information with Third Parties
+  4. Security
+  5. Cookies
+  6. Links
+  7. Chat Rooms and Newsgroups
+  8. Children
+  9. Access, Modification and Accuracy of Information
+  10. Retention and Storage of Information
+  11. Changes to Privacy Policy
+  12. Business Transfers
+  13. Acceptance of Terms
+  14. Contact us
 
-Collection of Personal Information 
+1\. What information do we collect?  
+Corel may collect personal information from you relating both to your identity and personal preferences as well as our products. Corel will endeavor only to collect such information as is necessary for the stated purpose for which we are collecting the information. For example if you purchase a Corel product, we will require your name and address so that we can send the product to you and your credit card details to obtain payment. Wherever possible Corel will provide you with clear information as to the type of information, we wish to collect and how we want to use it. You will be given a clear option to agree or not agree to such information being collected. If we require further information, we will clearly set out the information we wish to collect and the purposes for which we are collecting it.
 
-[Special Information For Members of the EU Community](https://web.archive.org/web/20031203020644id_/http%3A//www.jasc.com/privacy.asp#special)
+There are a number of different ways that we may collect personal information from you. At the time of collection we will set out clearly the information that we are collecting and the purposes for which we will use it.
 
-Opt-In Methods 
+**Communications from you**  
+You may email or write to us providing your name and contact details and any other personal information contained in your message.
 
-  1. **Evaluation Software**   
-On our Website, we ask for personal information from those who download and/or install our evaluation software. You are not required to provide personal information. 
+**Customer Support**  
+You may telephone or email us in respect of technical assistance you require in respect of our products or information that you would like to receive relating to our products.
 
+**E-mail/Direct mail campaigns**  
+From time to time we may contact you directly by mail, email or telephone informing you about upgrades, new products, promotions or special offers that you may be interested in.
 
+**Newsletters**  
+We may send out newsletters to our customers providing them with articles and information which we believe may be of interest to you.
 
-Methods Where We Need Information (Not Opt-In) 
+**Registration of Products**  
+Upon registration of a Corel product you will be asked to provide certain information so that we can record you as an owner of Corel product to help us in providing you with service and information. We require that you provide certain contact information but any other information is optional.
 
-  1. **Order Placement**   
-When you place an order online with us, we collect information about you, including your name, address and credit card information. This information is necessary in order for us to process and complete your order. 
-  2. **Product Registration**   
-Product registration information includes the product acquired as well as your name, address, and e-mail address and telephone number. Jasc has always reserved the right to limit free technical support to registered users. The only way to assure that you will be entitled to free technical support for a product in the future is to register with Jasc. 
+**Purchases**  
+If you wish to purchase Corel Products from our eStore TM or over the telephone we will require sufficient information to complete the purchase including your credit card details, your contact details and an address for shipping.
 
-_Product upgrade pricing and some special offers are only available to registered users._
+**Resumes**  
+Career opportunities within Corel may be posted on our website to allow you apply directly online and submit your resume.
 
-  3. **Beta Test Software**   
-Jasc may, at its discretion, require that all those who wish to use its pre-release software (beta) to provide Jasc with their name and e-mail address. Jasc may also choose to prevent beta versions of its software from installing or running if such information is not provided to us. 
+**Surveys**  
+From time to time we may conduct surveys in respect of our products and services. Participation is completely optional.
 
+**Aggregate Information**  
+Whenever you enter our website, our web server automatically collects and aggregates information in respect or your visit. This information includes URLs or domains of referring websites, browser type, operating system, the pages that you access and the date and time of your visit. In general this aggregate information will not identify you personally. If we do correlate such information to you, we will treat it in accordance with this policy.
 
+BACK TO TOP
 
-* * *
+  
+2\. Purposes for which we Use Information
 
-Anonymous Information Collection 
+Our objective is to inform you before or at the time of collection as to the information we are collecting and the purposes for which we wish to use such information. We will seek your clear consent to your information being used for the stated purposes and will only collect such information as is reasonably necessary to achieve those purposes. Corel will clearly inform you as to information that it requires to proceed with the stated purpose and information that is merely optional. If you choose not to provide required information Corel may not be able to comply with your request or provide certain services.
 
-  1. **Website and FTP site visits**   
-Jasc collects general usage information about visitors coming to our Web and FTP sites. **About Cookies**   
-Sometimes our Web and FTP servers collect this general information with the help of cookies. A cookie is a small file that a Website writes to your hard drive when you visit that site. Cookies cannot read information from your hard drive or read information from other cookies. _If you turn off cookies in your Web browser, you will still be able to access and browse the Jasc Web and FTP sites._
+**Product Registration**  
+Information you provide upon registration will be used to keep a record of your product and will assist in providing assistance if you contact our customer support service. We will also use this information to inform you of any upgrades, new products or promotions that may be of interest to you.
 
+**Product Purchases**  
+When you purchase products from our E store or directly from our Customer Services department will use your information to process payment and ship the product to you.
 
+**Information in respect of Corel Products**  
+It is important for us to receive feedback from our customers in respect of our products and any features they would like to see in future products. We will contact you to ask you about our products and also to inform you of upgrades, promotions and new products that you may be interested in.
 
-* * *
+**Internal Analysis**  
+We may use the information you provide us with for our own internal statistical and analytical purposes, to evaluate and profile customers including customer preferences and purchasing trends which we may use for marketing purposes and in respect of operations and development.
 
-Use of Personal Information 
+**Updating information**  
+We may contact you to ensure that the information we have in our records is still correct and to add additional information to complete your profile.
 
-Jasc may use personal information that it has collected to: 
+BACK TO TOP
 
-  * Provide you with notices of new information that may be of use or interest to you. This may include newsletters, tutorials, Website update notices, or notification on the availability of new products, product updates, maintenance releases, and beta versions of products. 
-  * Warn you of the impending termination of the trial period of evaluation versions of our software. 
-  * Register licensed copies of the product in your name. We do not keep credit card information as part of your product registration. 
-  * Determine at our discretion your eligibility to receive product support on evaluation versions of our software. 
-  * Survey you (and others) in an attempt to improve our Website, our products, or our business. 
-  * Notify you of third-party products that we believe might be of interest to you. Jasc will not share personal information with third parties without first obtaining your express consent. 
-  * Improve the quality of our Website. Jasc does not collect information about individual users without your knowledge. 
-  * Help us analyze general traffic patterns throughout our site. 
+  
+3\. Sharing of Information with Third Parties
 
+We may share the information that you have provided to us with subsidiaries and affiliated companies of Corel Corporation. Such affiliated companies will also comply with the terms of this policy.
 
+In an effort to offer our customers the maximum benefit of Corel's strategic and co-branding partnerships, we also undertake co-marketing agreements with third parties who offer similar products or services or who may collect your personal information, identifiable or non-identifiable, in order to provide certain online services to you. Corel may share profile information with its co-branding partners in order to better personalize the content, banners and promotions that you and other users will see on our sites. Advertising partners or other online services partners of Corel may use their own cookies.  
+As a registered Corel customer, you will have the option of receiving news and special offers from third parties. You will have the option of declining such communications when you provide us with you information or at any other time.
 
-* * *
+**Legal Disclaimer << />**br /> Although we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
-Further Information for Citizens of the European Union (EU) 
+BACK TO TOP
 
-The EU has adopted a privacy directive substantially regulating the privacy rights of citizens of the countries of the European Union. Jasc therefore provides Citizens of the IU the following information: 
+  
+4\. Security  
+We use commercially reasonable efforts to ensure that your information is stored and maintained in a secure environment. We have implemented procedures to ensure that your information is only made available to such designated staff as necessary to carry out the stated purposes that we have communicated to you.
 
-**Jasc is located in the United States. Any information that you provide to Jasc will be transferred out of the EU to the United States. By providing personal information to us, you are consenting to its storage and use as described herein. You may choose to opt-out of providing this information at any time, as described at the bottom of this privacy statement.**
+**Encryption**  
+Orders received by the Corel eStore, including credit card information is encrypted using Secure Sockets Layer (SSL) Protocol for browsers that support 128 bit encryption. This technology ensures that your information is secure as it is sent over the Internet to our server.
 
-You must provide us with your name, credit card number, expiration date, type, and billing address. You must also provide the address to which the product is to be shipped. If you do not provide the information, then we cannot accept nor fulfill the order. 
+**.Net Passport**  
+Our website and certain of our products permit you to sign in using the information contained in your .Net Passport profile. We will only have access to such information as you have authorized in your profile. Your password provides access to your information and you should take steps to ensure that you do not disclose your passport to any third parties.
 
-**Your credit card type, number and expiration date will be maintained by Jasc only for a period reasonably calculated to assure that Jasc has received payment for its product(s). This information is not maintained in our databases thereafter.**
+BACK TO TOP
 
-In addition, an e-mail address and a telephone number would assist us in contacting you should there be a problem with your order. 
+  
+5\. Cookies  
+We may make use of "cookies" on our website. A cookie is a small text file that can be placed and stored on your computer's hard disc when you visit a website for record keeping purposes. A cookie itself is not designed or intended to read any information from a user's computer (other than the contents of the cookie); rather, it is an identifier used by the Web site that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same server to identify the computer and subsequently to customize, monitor, or regulate the use of a site based on information stored on the host server. Therefore, cookies only identify the user's computer to the Web site which may correlate other information, including personally identifying information, with the cookie.
 
-Unless you direct to the contrary, any of the personal information you provide with your order will be maintained by Jasc in its product registration database. 
+We use cookies to allow us to automate access and the data entry functions of our website such as to correlate online ordering information for purchases you may make while at the website (if any), tailor our website to your preferences or interests, or customize promotions or marketing. In addition, cookies allow us to track use of our website to determine those areas which are useful or popular and those that are not thereby enabling us to improve and update our website effectively.
 
-**Product Registration**   
-Jasc's use of your personal information provided to us with a product registration is as disclosed above. 
+Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. If you are not sure how to do this or whether you have this option you should consult the documentation that accompanied your web browser. You should be aware that if you elect not to accept cookies, some parts of the website may not function properly or permit access.
 
-Unless you direct to the contrary, any of the personal information you provide with a product registration will be maintained by Jasc in its product registration database. 
+BACK TO TOP
 
-**Use of Information**   
-In addition to the general information provided above with respect to how Jasc will use your personal information, you should be aware of the following: 
+  
+6\. Links  
+We may offer links from our website to other websites which may be hosted by our co-branding partners or by unrelated companies which we think may be of interest to you. Such websites are not governed by this privacy policy and Corel makes no representation as to their practices for dealing with your personal information. We recommend that you check the privacy policy of any website at the beginning of your visit.
 
-Jasc will provide your personal information to certain of its technical support subcontractors in the EU. Jasc will attempt to provide the information to the technical support subcontractors Jasc estimates you might call to assure that, should you need technical support, you will be able to receive it. Jasc may provide your information to more than one such subcontractor. In many cases a technical support subcontractor and a distributor may be the same company. 
+BACK TO TOP
 
-Your information will only be transferred to authorized distributors or sub-contractors of Jasc Software, Inc., and only as necessary. Jasc will provide your personal information to its distributors located in the EU so that the distributors may notify you of upgrades, updates, and new products. 
+  
+7\. Chat Rooms and Newsgroups  
+Corel's website may have chat rooms, newsgroups, or other forums which permit individuals to interact online. Any information you transmit online in such forums will be made public and Corel cannot control nor is it responsible for the use any third parties may make of such information.
 
-Jasc may provide a location in the EU to which you may mail your product registration information. Such product registration address may be with a subcontractor of Jasc. At any time it is legally permissible to transfer that information to Jasc in the United States, Jasc will do so. Jasc may at anytime cause such subcontractor to transfer your personal information to Jasc or a subsidiary of Jasc located in the EU. 
+BACK TO TOP
 
-**Security of Information**   
-Jasc Software, Inc. will take reasonable precautions to protect your personal information from loss, mis-use, unauthorized access, disclosure, unauthorized alteration, destruction or other malfeasance, as dictated by any current or future agreements which may exist between the United States and the European Union. 
+  
+8\. Children  
+This site is a general audience site which is neither designed nor intended to collect personal information from children who are under the age of 13. In order to ensure compliance with the provisions of the Children's Online Privacy Protection Act children under the age of 13 should not provide any personal information to this site. We ask that parents supervise their children while online.
 
-* * *
+BACK TO TOP
 
-Review, Change, and Correction of Personal Information 
+  
+9\. Access, Modification and Accuracy of Information  
+We take reasonable steps to ensure that the information that we receive from you is accurate and kept up to date. You have the right to access your information to verify the information that we have collected in respect of you. You also have the right to request that your information be modified or deleted, including any changes to any consents that you may have given in respect of us contacting you relating to information that you receive from us. You may also ask at any time that your preferences as to the type of communications that you receive from us are modified in order to stop receiving them or to be added to our mailing list. We will endeavor to deal with all such requests for access and modifications in a timely manner. We will not be able to comply with requests in respect of information that we may have archived as part our business operations.
 
-At any time, you may review, change, correct, or remove any personal information including the permitted uses of your personal information and addition of your information to the "do not share" list by contacting Jasc at: 
+BACK TO TOP
 
-**Jasc Software, Inc.**   
-Attn: Customer Service Department   
-7905 Fuller Road   
-Eden Prairie, MN 55344   
-Phone: (952) 930-9800 
+  
+10\. Retention and Storage of Information  
+We will retain your information for a reasonable time to permit us to use it for the purposes that we have communicated to you. When information is no longer required, we will ensure that all such data is removed from our database.
 
-At any time, you may contact Jasc at the above address with inquiries or complaints regarding your data or the use thereof. Jasc is committed to responding to all such contacts in a prompt and responsible manner. 
+We may use the services of third party companies to physically collect and store your information on our behalf. Any such companies will have to comply with the terms of this policy.
+
+BACK TO TOP
+
+  
+11\. Changes to Privacy Policy  
+We may change the terms of this privacy policy from time to time in order to reflect our practices and provide greater protection for your information. Any change to this policy will be clearly displayed on this website. Any changes to this policy will not have retrospective effect. Information collected by us will be dealt within accordance with the provisions of our policy which were in effect at the time of collection.
+
+BACK TO TOP
+
+  
+12\. Business Transfers  
+The information that is collected by Corel is considered to be an asset. In the event that Corel, any affiliated company, division or portions of its assets are acquired by another company, such information may be one of the transferred assets. We will take reasonable steps to place a notification of such a transfer on our website.
+
+BACK TO TOP
+
+  
+13\. Acceptance of Terms  
+By using our services, accessing our website or purchasing our products you are consenting to the practices relating to information collection and use that are described in this policy.
+
+BACK TO TOP
+
+  
+14\. Contact us  
+Any requests for access to your information, modification of your information or questions in respect of this policy should be sent to the following email address [privacy@corel.com](mailto:privacy@corel.com).
+
+BACK TO TOP
