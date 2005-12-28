@@ -1,165 +1,191 @@
-> *The following text is extracted and transformed from the coppercolorado.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206225220id_/http%3A//www.coppercolorado.com/winter/etc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coppercolorado.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228105821id_/http%3A//intrawest.com/privacy/index.asp) for the most accurate reproduction.*
 
-# :: Copper Mountain Resort :: Winter 0405 ::
+# Intrawest - Privacy Policy
 
-| [](http://www.coppercolorado.com/print.php?season=winter&section=etc&page=privacy&title=&id3=)  
----|---  
-  
-* * *
+## INTRAWEST CORPORATION PRIVACY POLICY 
 
-  
-Copper Mountain is very concerned for your sense of privacy and security while on our site as well as with respect to how we care for your information. The following is our privacy pledge to you and deals with the following issues: 
+  * _Scope and Application_
+  * _Definitions_
+  * Intrawest's Ten Privacy Principles 
+    * _Principle 1 Accountability_
+    * _Principle 2 Identifying Purposes for Collection of Personal Information_
+    * _Principle 3 Consent_
+    * _Principle 4 Limiting Collection of Personal Information_
+    * _Principle 5 Limiting Use, Disclosure of Retention of Personal Information_
+    * _Principle 6 Accuracy_
+    * _Principle 7 Security Safeguards_
+    * _Principle 8 Openness_
+    * _Principle 9 Individual Access_
+    * _Principle 10 Handling Inquiries and Challenges_
 
-  1. [Security](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=b2ecfd5d7479608406ed3022b69625eb#security)
-  2. [Information Collection](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=b2ecfd5d7479608406ed3022b69625eb#collection)
-  3. [Cookies](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=b2ecfd5d7479608406ed3022b69625eb#cookies)
-  4. [Information Use](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=b2ecfd5d7479608406ed3022b69625eb#information)
-  5. [The benefits of Providing Information](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=b2ecfd5d7479608406ed3022b69625eb#benefits)
-  6. [Non-Use and Disclosure](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=b2ecfd5d7479608406ed3022b69625eb#nonuse)
-  7. [Changing Profile and Opting Out](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=b2ecfd5d7479608406ed3022b69625eb#changing)
-  8. [Contacting Customers ](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=b2ecfd5d7479608406ed3022b69625eb#contacting)
-  9. [Children's Privacy](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=b2ecfd5d7479608406ed3022b69625eb#children)
-  10. [Legal Liability](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=b2ecfd5d7479608406ed3022b69625eb#legal)
 
 
+**SCOPE AND APPLICATION**
 
-* * *
+This Privacy Policy contains ten principles that are observed by Intrawest regarding the collection, use and disclosure of personal information. Each principle must be read in conjunction with the accompanying commentary. The commentary in the Intrawest Privacy Policy has been tailored to reflect personal information issues specific to Intrawest. 
 
-  
-Security
+The scope and application of the Intrawest Privacy Policy are as follows: 
 
-Copper Mountain has gone to great lengths to ensure the security of your credit card and other booking information. The security measures we use include a firewall, encryption, and timed logouts.
+  * The Policy applies to personal information about Intrawest's customers and other individuals that is collected, used or disclosed by Intrawest. 
+  * The Policy does not apply to information about Intrawest's corporate customers; however, such information is protected by other Intrawest policies and practices and through contractual arrangements. 
+  * The Policy does not apply to information about Intrawest's employees; however, such information is protected by other Intrawest policies and practices. 
+  * This Policy is subject to change, and may be supplemented or modified by additional terms applicable between Intrawest and an individual. 
 
-The firewall is a combination of hardware and software that securely separates the Internet from our organization's internal web servers. They are designed to prevent unauthorized access to our web servers.
 
-Encryption is used whenever financial information, customer identification and passwords are transmitted. We use an encryption tool called Pretty Good Privacy (PGP). It scrambles your information into an unreadable format called cyphertext, so that even if a third party were to intercept the message, the data would be unreadable. When we receive your cyphertext, it is decrypted using a mathematical key, so that we can process it.
 
-Timed logouts have been set up in some areas of our site. Should you be called away from your computer and neglect to log off, you don't want someone else to sit down at your keyboard and access your secure session with us. Timed logout occurs after 5 minutes of inactivity. This means that if you're working on a booking and need to leave the computer, you should save your itinerary first so that you don't lose the data you've already entered.
+**DEFINITIONS**
 
-In addition to the technically driven security measures, we also follow internal privacy procedures. In most cases our employees will see personal information only in aggregate - for instance, they'll see the total number of rooms booked for a specific date, not the room you've booked. Employees see only those data they need to complete your booking.
+ **Collection** \- the act of gathering, acquiring, recording, or obtaining personal information.
 
-  
+ **Consent** \- voluntary agreement with the collection, use and disclosure of personal information for defined purposes. Consent can be either express, implied or deemed, and can be provided directly by the individual or by an authorized representative. Express consent can be given orally, electronically or in writing. Implied consent is consent that can reasonably be inferred from an individual's action or inaction. Deemed consent is consent that is deemed to be given pursuant to applicable legislation or other regulations.
 
+ **Disclosure** \- making personal information available to a third party.
 
-* * *
+ **Personal information** \- information about an identifiable individual, but does not include aggregated information that cannot be associated with a specific individual. Personal information also excludes certain information as is excluded pursuant to applicable legislation or other regulations, such as publicly available information or business contact information, as and when applicable.
 
-  
-Information Collection
+ **Intrawest** \- Intrawest Corporation, and its subsidiaries and certain designated affiliates, as they may exist from time to time, including Blackcomb Skiing Enterprises Limited Partnership; Whistler Mountain Resort Limited Partnership; Intrawest/Lodestar Limited Partnership; IW Resorts Limited Partnership; Mont Tremblant Resorts and Company, Limited Partnership; Copper Mountain, Inc.; Intrawest California Holdings, Inc.; Intrawest Golf Holdings, Inc.; Intrawest Resort Ownership Corporation; Intrawest Retail Group, Inc.; Intrawest Sandestin Company, L.L.C.; Intrawest/Winter Park Holdings Corporation; Mountain Creek Resort, Inc.; Mt. Tremblant Reservations Inc.; Playground Real Estate Inc.; Resort Reservations Network Inc.; Snowshoe Mountain, Inc.; Intrawest Golf Management (Canada) Ltd.; The Stratton Corporation; Blue Mountain Resorts Ltd.
 
-In a few areas on our Web site, we ask you to provide information that will enable us to enhance your site visit, process your order correctly, and if necessary, follow up with you before or after your visit. For instance, we want your e-mail address or phone number so that we can contact you if, due to unforeseen circumstances (flood, fire, storm, avalanche) we need to rebook you into another room.
+ **Third party** \- an individual or organization outside Intrawest.
 
-From time to time we may ask questions, or we may use data collected for order processing, to better understand our customers' preferences. This information allows us to improve our products and services, and to offer you specially tailored deals when appropriate. While some of this information is optional, other items (e.g., information required to process an order) are not.
+ **Use** \- the treatment, handling and management of personal information by and within an organization.
 
-We will request information from you when you: 
+ **Principle 1 - Accountability**
 
-  1. Register as a member on Copper Mountain's website. 
-  2. Plan a trip to Copper Mountain. 
-  3. Place an order with Copper Mountain. 
-  4. Provide feedback in an online survey. 
-  5. Participate in a sweepstakes or other promotional offer. 
-  6. Subscribe to a newsletter or a mailing list. 
+Intrawest is responsible for personal information under its control and shall designate one or more persons who are accountable for Intrawest's compliance with the following principles.
 
-In each of these instances, we may ask for any of the following types of information: name, e-mail address, phone number, address, customer and trip preference information, customer ID and password, as well as other similar personal information that is needed to register or subscribe you to services or offers. If you don't want to receive promotional material or special offers from us, we ask that you tell us this in the section on communications preferences (opt out by un-checking the appropriate boxes). Please note that in the case of newsletters or mailing lists, you will be able to "unsubscribe" to these mailings at any time. Furthermore, if you need to change your profile and/or preferences, due (for instance) to a change of address, you will be able to make the change at any time.  
+ **1.1** Intrawest shall designate one or more persons to be accountable for compliance with the Policy. The Chief Privacy Officer is entitled to delegate day-to-day responsibility for administration of this Privacy Policy and related privacy policies and practices to other employees.
 
+ **1.2** Intrawest shall make known, upon request, the title of the person or persons designated to oversee Intrawest's compliance with the Policy.
 
-* * *
+ **1.3** Intrawest is responsible for personal information in its possession or under its control. Intrawest shall use appropriate means to protect personal information while information is being processed by a third party on behalf of Intrawest (see Principle 7).
 
-  
-Cookies
+ **1.4** Intrawest shall implement policies and procedures to give effect to the Policy, including: 
 
-Depending on how you configure your browser, when you visit copper.intrawest.net (our online booking engine) a small file (a "cookie") is stored on your hard drive. Whenever you log onto copper.intrawest.net our server looks for your cookie, and that's how we recognize that you've visited the site before and don't need to re-enter your personal information. Your browser can be configured to reject cookies, but if you do this you'll have to re-enter your address and billing information each time you use our on-line booking pages.
+a) implementing procedures to protect personal information and to oversee Intrawest's compliance with the Intrawest Privacy Policy; 
+b) establishing procedures to receive and respond to inquiries or complaints; 
+c) training and communicating to staff about Intrawest's policies and practices; and 
+d) developing public information to explain Intrawest's policies and practices. 
 
-Copper Mountain does not allow companies with a banner on our site to automatically store a cookie on your browser when you visit our site. They can only store a cookie if you link through to their site.
 
-  
+**Principle 2 - Identifying Purposes for Collection of Personal Information**
 
+Intrawest shall identify and document the purposes for which personal information is collected at or before the time the personal information is collected or, when appropriate, at or before the time the personal information is used for a new purpose. 
 
-* * *
+**2.1** Intrawest collects personal information for the following purposes: 
 
-  
-Information Use
+a) to establish and maintain a responsible commercial relationship with customers; 
+b) for purposes identified to individuals or purposes obvious to individuals, in respect of particular collections of personal information; 
+c) to meet legal and regulatory requirements; 
+d) to understand needs and preferences of individuals; 
+e) to develop, enhance, market and/or provide products and services; 
+f) to manage and develop Intrawest's business and operations, including transfer of data among affiliated entities. 
 
-Different information will be used for different purposes. Some personal information is required to process your order. For instance. we need to know your correct age, height, weight, foot size, skill level and gender so that we can set up rental equipment before you arrive.
 
-We may also use personal account information to generate statistics and aggregate reports for internal use and for sharing with affiliates. These statistics and aggregate reports will not contain any personally identifiable information. Your identity is kept anonymous.
+**Further references to "identified purposes" mean the purposes identified in this Principle.**
 
-Aggregate information may be used to design programs and promotions that we think would be of interest to an identified group of customers. For example, if an analysis of purchase data shows that 30% of our guests are intermediate skiers who rent equipment, we may want to develop a special rental/lesson program for them to test new gear.
+ **2.2** Intrawest shall, as appropriate, specify orally, electronically or in writing the identified purposes to the individual at or before the time personal information is collected. Upon request, persons collecting personal information shall explain these identified purposes or refer the individual to a designated person within Intrawest who shall explain the purposes.
 
-In addition we may use the detailed profiles in order to target special offers and promotions more effectively. Knowing more about you allows us to personalize the delivery of site content to you (at this time personalized content delivery will be via email) should you wish to receive offers from us. If we decide to use information collected for any purposes other than those identified we will contact you for your agreement.
+ **Principle 3 - Consent**
 
-  
+The knowledge and consent of an individual are generally required for the collection, use or disclosure of personal information. In certain circumstances personal information can be collected, used or disclosed without the knowledge and consent of the individual, such as in the case of an emergency where the life, health or security of an individual is threatened.
 
+Intrawest may disclose personal information without knowledge or consent to a lawyer or other advisor representing Intrawest, to collect a debt, to comply with a subpoena, warrant or other court order, or as may be otherwise required or authorized by law.
 
-* * *
+ **3.1** In obtaining consent, Intrawest shall use reasonable efforts to ensure that an individual is advised of the identified purposes for which personal information will be used or disclosed. Purposes shall be stated in a manner that can be reasonably understood by the individual.
 
-  
-The Benefits of Providing Information
+ **3.2** Generally, Intrawest shall seek consent to use and disclose personal information at the same time it collects the information. However, Intrawest may seek consent to use and disclose personal information after it has been collected, but before it is used or disclosed for a new purpose.
 
-Knowing more about you allows us to personalize the types of information we send to you. This means that you will probably receive less mail from us (unless of course you tell us you want everything), and what you do receive will be meaningful and not filled with a whole lot of information that does not apply to you.
+ **3.3** Intrawest will require individuals to consent to the collection, use or disclosure of personal information as a condition of the supply of a product or service only if such collection, use or disclosure is reasonably required to fulfill the identified purposes.
 
-  
+ **3.4** In determining the appropriate form of consent, Intrawest shall take into account the sensitivity of the personal information and the reasonable expectations of the individual.
 
+ **3.5** Where consent is required for a particular use or disclosure, an individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. Individuals may contact Intrawest for more information regarding the implications of withdrawing consent.
 
-* * *
+ **Principle 4 - Limiting Collection of Personal Information**
 
-  
-Non-Use and Disclosure
+Intrawest shall limit the collection of personal information to that which is necessary for the purposes identified by Intrawest and as permitted by law. 
 
-We do not and will not sell or rent users information to any entity outside of Intrawest Corp.
+**4.1** Intrawest collects personal information primarily from the individual to whom the information relates.
 
-Please remember that anything posted on our message boards becomes public information and you should exercise caution about disclosing personal information on those pages.
+ **4.2** Intrawest may also collect personal information from other sources including credit bureaus or other third parties who represent that they have the right to disclose the information, or as otherwise permitted by law. 
 
-Copper Mountain and our parent company, Intrawest, reserve the right to cooperate with local, provincial, federal, and international officials in any investigation requiring either personal information (including any information provided on-line through copper.intrawest.net) or reports about lawful of unlawful user activity on this site.
+**Principle 5 - Limiting Use, Disclosure and Retention of Personal Information**
 
-Copper Mountain and Intrawest also reserve the right to disclose any information in an individual's account: 
+Intrawest shall not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Intrawest shall retain personal information only as long as necessary for the fulfillment of those purposes or as required or permitted by law. 
 
-  1. To satisfy any law, regulation, or government request. 
-  2. If such disclosure is necessary or appropriate to site operation. 
-  3. To protect the rights or property of copper.intrawest.net and its users, sponsors, providers, licensers, or merchants. 
+**5.1** Intrawest may disclose an individual's personal information to: 
 
-copper.intrawest.net also reserves the right to change this Privacy Policy at any time.  
+a) a person who in the reasonable judgment of Intrawest is seeking the information as an agent of the individual; 
+b) a company or individual employed by Intrawest to perform functions on its behalf, such as but not limited to research or data processing; 
+c) another company or individual for the development, enhancement, marketing or provision of any of Intrawest's products and services; 
+d) an agent used by Intrawest to evaluate the individual's creditworthiness or to collect the individual's account; 
+e) a credit reporting agency; 
+f) a public authority or agent of a public authority, if in the reasonable judgment of Intrawest, it appears that there is imminent danger to life or property which could be avoided or minimized by disclosure of the information; 
+g) another entity as part of a merger, a sale of assets or all or part of a business, or any other corporate change or re-organization; 
+h) a third party or parties, where the individual consents to such disclosure or disclosure is required or permitted by law. 
 
 
-* * *
+**5.2** Only Intrawest employees with a business need to know, or whose duties reasonably so require, are granted access to personal information about individuals.
 
-  
-Changing Profile and Opting Out
+ **5.3** Depending on the circumstances, where personal information has been used to make a decision about an individual, Intrawest shall retain, for a reasonable period of time, either the actual information or the rationale for making the decision. 
 
-Should you not want to receive promotional material from us we ask that you tell us in the section on communications preferences (opt out by un-checking the appropriate boxes).
+**5.4** Intrawest shall maintain reasonable and systematic controls, schedules and practices for information and records retention and destruction which apply to personal information that is no longer necessary or relevant for the identified purposes or required or permitted by law to be retained. Such information shall be destroyed, erased or made anonymous.
 
-We will also delete your name from the database upon your written request sent to us via email. When you register and your account is created, we will confirm your registration by sending an email to the address that you supplied to us. All future emails to your account will contain information on how to delete your name from our database. Please keep this email and follow the instructions exactly when requesting that your name be deleted from our database.
+ **5.5** Where appropriate, Intrawest may communicate updates of personal information to third parties.
 
-  
+ **Principle 6 - Accuracy**
 
+Intrawest shall take steps to ensure that personal information is as accurate, complete and up-to-date as is appropriate for its purposes. 
 
-* * *
+**6.1** Personal information used by Intrawest shall be sufficiently accurate, complete and up-to-date to minimize the possibility that inappropriate information may be used to make a decision about an individual.
 
-  
-Contacting Customers
+ **6.2** Intrawest shall update personal information about individuals as and when reasonably necessary to fulfill the identified purposes or as reasonably requested by the individual.
 
-Copper Mountain and Intrawest reserve the right to decide if they will contact customers should we be required to disclose any personal information (as outlined in non-use and disclosure).
+ **Principle 7 - Security Safeguards**
 
-  
+Intrawest shall protect personal information by security safeguards appropriate to the sensitivity of the information. 
 
+**7.1** Intrawest shall take appropriate and reasonable steps to protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction.
 
-* * *
+ **7.2** Intrawest shall take appropriate and reasonable steps to protect personal information disclosed to third parties, for example by contractual agreements stipulating the confidentiality of the information and the purposes for which it is to be used.
 
-  
-Children's Privacy
+ **Principle 8 - Openness**
 
-Copper Mountain and Intrawest do not knowingly solicit data from, or about, people under the age of 16 years for the purposes of selling directly to these individuals. Note: Copper Mountain and Intrawest assume that visitors to our site are adults. We do not require any visitor to provide date of birth at registration, though we do ask for an age or birth date when applicable for pricing purposes (for instance, children and seniors qualify for discounts on lift tickets). U.S. federal law prohibits discrimination in public accommodations based on age, so when we send out information on lodging bookings we are required to treat all site members equally, regardless of age. We will send real estate offers only to customers 21 years old and older.
+Intrawest shall make readily available to individuals specific information about its policies and practices relating to the management of personal information.
 
-  
+ **8.1** Copies of the Policy will be made available upon request.
 
+ **8.2** Intrawest shall make information about its policies and procedures easy to understand, including: 
 
-* * *
+a) the title and addresses of the person or persons accountable for Intrawest's compliance with the Policy and to whom inquiries or complaints can be forwarded; 
+b) the means of gaining access to personal information held by Intrawest; and 
+c) a description of the type of personal information held by Intrawest, including a general account of its use. 
 
-  
-Legal Liability
 
-Under no circumstances, including, but not limited to, negligence, shall Copper Mountain or Intrawest be liable for any direct, indirect, special, incidental or consequential damages, including, but not limited to, loss of data or profit, arising out of the use, or the inability to use, the materials on this site, even if Copper Mountain/ Intrawest or a Copper Mountain/ Intrawest authorized representative has been advised of the possibility of such damages.
+**Principle 9 - Individual Access**
 
-* * *
+Upon request, Intrawest shall inform an individual of the existence, use and disclosure of his or her personal information, at a minimal or no cost to the individual. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
 
-Call 866-841-2481 for more information  
+ **9.1** In certain situations, Intrawest may not be able to provide access to all the personal information that it holds about an individual. For example, Intrawest may not provide access to information if doing so would likely reveal personal information about a third party or could reasonably be expected to threaten the life or security of an individual. Also, Intrawest may not provide access to information if disclosure would reveal confidential commercial information, if the information is protected by solicitor-client privilege, if the information was generated in the course of a formal dispute resolution process, or if the information was collected in relation to the investigation of a breach of an agreement or a contravention of a law. If access to personal information cannot be provided, Intrawest shall, upon request, provide the reasons for denying access.
 
+ **9.2** In order to safeguard personal information, an individual may be required to provide sufficient identification information to permit Intrawest to authorize access to the individual's file. 
+
+**9.3** Individuals can seek access to their personal information by contacting a designated representative at Intrawest.
+
+ **9.4** Intrawest will endeavor to respond to all requests within 30 days or, in any event, as required or permitted by applicable law.
+
+ **Principle 10 - Handling Inquiries and Challenges**
+
+An individual shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for Intrawest's compliance with the Policy.
+
+ **10.1** Intrawest shall maintain procedures for addressing and responding to all inquiries or complaints from individuals about Intrawest's handling of personal information.
+
+ **10.2** Intrawest shall inform its customers about the existence of these procedures as well as the availability of complaint procedures.
+
+ **10.3** The person or persons accountable for compliance with this Policy may seek external advice where appropriate before providing a final response to individual complaints.   
+**  
+Contact:** Ross Meacher, corporate secretary and chief privacy officer
+
+[ _yourprivacy@intrawest.com_](mailto:yourprivacy@intrawest.com)
+
+[**Politique De Confidentialité**](https://web.archive.org/politique.htm)
