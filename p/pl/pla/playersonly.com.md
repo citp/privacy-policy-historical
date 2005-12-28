@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playersonly.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012002543id_/http%3A//playersonly.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playersonly.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228121636id_/http%3A//www.playersonly.com/misc/privacy.php) for the most accurate reproduction.*
 
-# Casino, Online Casino, Gambling, Sportsbook, Privacy Statement
+# PlayersOnly Sportsbook and Casino. Sexiest sportsbook on the planet
 
 [](https://web.archive.org/printable/privacy.html)
 
@@ -32,17 +32,6 @@ Our user database is stored on a remote offsite server, in a secured database. I
 
 Personal information is submitted using high security 128bit encryption. Any wagers or transactions being performed on the database are done using high security 128bit encryption. 
 
-**Children's Guidelines**  
-www.playersonly.com does:1\. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
-
-2\. NOT collect personally identifiable offline contact information without prior parental consent
-
-3\. NOT distribute to third parties any personally identifiable information with out prior parental consent
-
-4\. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
-
-5\. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
-
 **Choice/Opt-Out  
 **Players Only provides users the opportunity to opt-out of receiving communications from us.
 
@@ -60,8 +49,3 @@ This site gives users the following options for changing and modifying informati
 
 **Contacting the Web Site  
 **If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-Internet Opportunity Entertainment Ltd  
-St. Johns, Antigua, West Indies  
-[privacy@playersonly.com](mailto:privacy@playersonly.com)  
-1-800-388-0456
