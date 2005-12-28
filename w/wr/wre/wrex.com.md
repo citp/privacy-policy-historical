@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrex.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406003357id_/http%3A//www.wrex.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrex.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228234934id_/http%3A//www.wrex.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
