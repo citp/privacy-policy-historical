@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chariot.net.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615011535id_/http%3A//www.chariot.net.au/docs/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chariot.net.au privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228125231id_/http%3A//chariot.net.au/docs/privacy_policy.html) for the most accurate reproduction.*
 
 # Chariot Limited Privacy Policy
 
@@ -9,7 +9,7 @@ PRIVACY POLICY STATEMENT**
 
 At Chariot, we are committed to the protection of your personal information. Chariot's business is governed by the _Telecommunications Act of 1997_ , _Industry Codes of Practice_ and Chariot's own policies and procedures. This includes Chariot Internet Limited - Privacy Policy Statement, which have been designed to ensure that your personal information is protected. 
 
-Our Privacy Statement contains important information regarding your use of Chariot’s services. When you visit our web sites, you should read the information provided as it will affect your use of our services. 
+Our Privacy Statement contains important information regarding your use of Chariot�s services. When you visit our web sites, you should read the information provided as it will affect your use of our services. 
 
 Our Privacy Policy may be subject to change from time to time so we strongly encourage you to check our online Privacy Policy Statement regularly. 
 
@@ -21,7 +21,7 @@ When we refer to your personal information we mean information or an opinion inc
   
 **Who controls your Personal Information**
 
-Any personal information provided or to be gathered by us is controlled primarily by Chariot Internet Limited (ABN 31 088 377 860) of 214 Greenhill Road Eastwood 5063 in the State of South Australia as well as Chariot’s many trading branches nationally. 
+Any personal information provided or to be gathered by us is controlled primarily by Chariot Internet Limited (ABN 31 088 377 860) of 214 Greenhill Road Eastwood 5063 in the State of South Australia as well as Chariot�s many trading branches nationally. 
 
   
 **What Information do we collect and how do we use it**
@@ -89,7 +89,7 @@ When you visit our site to read or download information, we record the following
 
   * Your IP address;
   * The date and time you accessed our site;
-  * The previous page you visited before visiting our site (‘referrer’);
+  * The previous page you visited before visiting our site (�referrer�);
   * The pages you have accessed and the documents downloaded;
   * The version and type of browser you use;
   * The success/failure code; and
@@ -109,7 +109,7 @@ Please be aware that when you visit websites owned by third parties who have the
   
 **Cookies**
 
-Cookies are data stored on an individual’s computer hard drive for record keeping. Cookie identifies and recognises the computer (but not the person using the computer). The use of cookies is an industry standard and you will find most major websites use them. We do not use cookies, however by using our service, you may be subject to cookies being used by other web site owners/operators. We do not have access to or control over these cookies or any information they may collect from you. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to disable cookies or to warn you when cookies are being used. 
+Cookies are data stored on an individual�s computer hard drive for record keeping. Cookie identifies and recognises the computer (but not the person using the computer). The use of cookies is an industry standard and you will find most major websites use them. We do not use cookies, however by using our service, you may be subject to cookies being used by other web site owners/operators. We do not have access to or control over these cookies or any information they may collect from you. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to disable cookies or to warn you when cookies are being used. 
 
   
 **Disclosure of your Personal Information**
@@ -163,7 +163,7 @@ You can choose to modify or delete your personal information, unless it is manda
   
 **Minors**
 
-It is our policy that minors (persons under 18 years of age) must have their guardian’s consent/guidance before using our service. Any account minors may have with us will be in the guardian’s name. Whilst we will make every reasonable effort to ensure that children's privacy and other rights are not compromised, it is ultimately the responsibility of guardians to monitor their children's Internet usage. 
+It is our policy that minors (persons under 18 years of age) must have their guardian�s consent/guidance before using our service. Any account minors may have with us will be in the guardian�s name. Whilst we will make every reasonable effort to ensure that children's privacy and other rights are not compromised, it is ultimately the responsibility of guardians to monitor their children's Internet usage. 
 
   
 **Notification of changes to the Privacy Policy**
