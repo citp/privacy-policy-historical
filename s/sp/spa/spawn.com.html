@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spawn.com privacy policy that was archived on 2004-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603070639id_/http%3A//www.spawn.com/info/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spawn.com privacy policy that was archived on 2005-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228113039id_/http%3A//spawn.com/info/privacy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 <title id="PageTitle">SPAWN.COM &gt;&gt; INFO &gt;&gt; PRIVACY POLICY</title>
@@ -15,29 +15,48 @@ function randNum(x, y) {
 	return Math.floor(Math.random() * range) + x;
 }
 // -->
+
+    function KeyDownHandler(btn)
+    {
+        // process only the Enter key
+        if (event.keyCode == 13)
+        {
+            // cancel the default submit
+            event.returnValue=false;
+            event.cancel = true;
+            // submit the form by programmatically clicking the specified button
+            btn.click();
+        }
+    }
+
+    function searchValidation()
+    {
+    	if (formSearchInc.term.value == "")
+    	{
+    		formSearchInc.term.focus();
+    		return false;
+    	}
+    	else
+    	{
+    		formSearchInc.term.value = formSearchInc.term.value.replace("'", "");
+    		return true;
+    	}
+    }
+
 </script>
 <script language="JavaScript1.2" src="/menus.js"></script>
 <script language="JavaScript1.2" src="/fw_menu.js"></script>
 </head>
 
 <body leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0" marginheight="0" marginwidth="0" bgcolor="#FFFFFF" onload="MM_preloadImages(
-	'/images/interface/nav_button_home_off.gif',
 	'/images/interface/nav_button_home_on.gif',
-	'/images/interface/nav_button_news_off.gif',
 	'/images/interface/nav_button_news_on.gif',
-	'/images/interface/nav_button_community_off.gif',
 	'/images/interface/nav_button_community_on.gif',
-	'/images/interface/nav_button_features_off.gif',
 	'/images/interface/nav_button_features_on.gif',
-	'/images/interface/nav_button_toys_off.gif',
 	'/images/interface/nav_button_toys_on.gif',
-	'/images/interface/nav_button_comics_off.gif',
 	'/images/interface/nav_button_comics_on.gif',
-	'/images/interface/nav_button_entertainment_off.gif',
 	'/images/interface/nav_button_entertainment_on.gif',
-	'/images/interface/nav_button_info_off.gif',
 	'/images/interface/nav_button_info_on.gif',
-	'/images/interface/nav_button_store_off.gif',
 	'/images/interface/nav_button_store_on.gif'
 	)" text="#000000">
 <script language="JavaScript1.2">fwLoadMenus();</script>
@@ -61,7 +80,7 @@ function randNum(x, y) {
 			<td rowspan="2" width="120" bgcolor="#000000" valign="top">
 				<script language="JavaScript">
 				<!-- //
-				numImages = 10;
+				numImages = 15;
 
 				imageNum = randNum(1, numImages);
 				if (imageNum < 10) {
@@ -70,17 +89,26 @@ function randNum(x, y) {
 
 				document.write('<img src="/images/interface/menubar.image.' + imageNum + '.jpg" width="120" height="40">');
 				// -->
-				</script><img src="/images/interface/menubar.image.05.jpg" width="120" height="40"></td>
+				</script><img src="/images/interface/menubar.image.02.jpg" width="120" height="40"></td>
 			<td rowspan="2" width="5" bgcolor="#000000"><img src="/images/spacer.gif" width="5" height="31"></td>
 			<td width="213" bgcolor="#000000"><img src="/images/interface/spawn.com.logo.gif" width="213" height="31" alt="SPAWN.COM"></td>
 			<!-- Search Field -->
 			<td width="422" bgcolor="#000000" align="right" valign="middle">
 
-				<form name="search" method="get" action="/search/search.aspx" vspace="0" align="absmiddle">
+				<form name="formSearchInc" onsubmit="return searchValidation()" method="get" action="/search/searchresults.aspx" vspace="0" align="absmiddle">
 				<table border="0" cellpadding="0" cellspacing="0" height="14" align="right" valign="middle">
 				<tbody><tr height="14">
 					<td height="14" nowrap="true">
-						&nbsp;<img src="/images/interface/nav_button_search.gif" width="62" height="14" alt="Search" align="absmiddle"><input class="searchinput" type="text" name="query" size="10" maxlength="100" width="92" height="14" align="absmiddle" hspace="0" vspace="0"><input type="image" src="/images/interface/nav_button_go.gif" width="26" height="14" alt="Go" align="absmiddle" border="0" onclick="search.submit();"><img src="/images/spacer.gif" width="6" height="14" align="absmiddle"></td>
+						&nbsp;<img src="/images/interface/nav_button_search.gif" width="62" height="14" alt="Search" align="absmiddle">
+						<select name="type" width="92" height="14" class="navBar">
+							<option value="all" selected="">ALL
+							</option><option value="comics">COMICS
+							</option><option value="news">NEWS
+							</option><option value="toys">TOYS
+						</option></select>
+						<img src="/search/imgs/search_for.gif" width="35" height="14" alt="For" align="absmiddle">
+						<input class="navBar" type="text" name="term" size="10" maxlength="100" width="92" height="14" align="absmiddle" hspace="0" vspace="0">
+						<input type="image" src="/images/interface/nav_button_go.gif" width="26" height="14" alt="Go" align="absmiddle" border="0"><img src="/images/spacer.gif" width="6" height="14" align="absmiddle"></td>
 				</tr>
 				</tbody></table>
 				</form></td>
@@ -89,14 +117,14 @@ function randNum(x, y) {
 		<tr width="780" height="14">
 			<td width="15"><img src="/images/spacer.gif" width="15" height="14"></td>
 			<!-- Menu Headers -->
-			<td colspan="2" width="635"><a href="/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Home'); MM_swapImage('Home','','/images/interface/nav_button_home_on.gif',1); return document.MM_returnValue"><img name="home" src="/images/interface/nav_button_home_off.gif" width="50" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="/news/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('News'); window.FW_showMenu(window.fw_menu_0,-3,12,null,'news'); MM_swapImage('News','','/images/interface/nav_button_news_on.gif',1); return document.MM_returnValue"><img name="news" src="/images/interface/nav_button_news_off.gif" width="52" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="http://board.spawn.com/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Community'); window.FW_showMenu(window.fw_menu_1,-3,12,null,'community'); MM_swapImage('Community','','/images/interface/nav_button_community_on.gif',1); return document.MM_returnValue"><img name="community" src="/images/interface/nav_button_community_off.gif" width="91" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="/features/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Features'); window.FW_showMenu(window.fw_menu_2,-3,12,null,'features'); MM_swapImage('Features','','/images/interface/nav_button_features_on.gif',1); return document.MM_returnValue"><img name="features" src="/images/interface/nav_button_features_off.gif" width="85" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="/toys/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Toys'); window.FW_showMenu(window.fw_menu_3,-3,12,null,'toys'); MM_swapImage('Toys','','/images/interface/nav_button_toys_on.gif',1); return document.MM_returnValue"><img name="toys" src="/images/interface/nav_button_toys_off.gif" width="49" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="/comics/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Comics'); window.FW_showMenu(window.fw_menu_4,-3,12,null,'comics'); MM_swapImage('Comics','','/images/interface/nav_button_comics_on.gif',1); return document.MM_returnValue"><img name="comics" src="/images/interface/nav_button_comics_off.gif" width="63" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="/entertainment/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Entertainment'); window.FW_showMenu(window.fw_menu_5,-3,12,null,'entertainment'); MM_swapImage('Entertainment','','/images/interface/nav_button_entertainment_on.gif',1); return document.MM_returnValue"><img name="entertainment" src="/images/interface/nav_button_entertainment_off.gif" width="126" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="/info/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Info'); window.FW_showMenu(window.fw_menu_6,-3,12,null,'info'); MM_swapImage('Info','','/images/interface/nav_button_info_on.gif',1); return document.MM_returnValue"><img name="info" src="/images/interface/nav_button_info_off.gif" width="44" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="http://ecommerce.spawn.com/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Store'); window.FW_showMenu(window.fw_menu_7,-85,12,null,'store'); MM_swapImage('Store','','/images/interface/nav_button_store_on.gif',1); return document.MM_returnValue"><img name="store" src="/images/interface/nav_button_store_off.gif" width="59" height="14" border="0"></a></td>
+			<td colspan="2" width="635"><a href="/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Home'); MM_swapImage('home','','/images/interface/nav_button_home_on.gif',1); return document.MM_returnValue"><img name="home" src="/images/interface/nav_button_home_off.gif" width="50" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="/news/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('News'); window.FW_showMenu(window.fw_menu_0,-3,12,null,'news'); MM_swapImage('news','','/images/interface/nav_button_news_on.gif',1); return document.MM_returnValue"><img name="news" src="/images/interface/nav_button_news_off.gif" width="52" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="http://board.spawn.com/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Community'); window.FW_showMenu(window.fw_menu_1,-3,12,null,'community'); MM_swapImage('community','','/images/interface/nav_button_community_on.gif',1); return document.MM_returnValue"><img name="community" src="/images/interface/nav_button_community_off.gif" width="91" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="/features/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Features'); window.FW_showMenu(window.fw_menu_2,-3,12,null,'features'); MM_swapImage('features','','/images/interface/nav_button_features_on.gif',1); return document.MM_returnValue"><img name="features" src="/images/interface/nav_button_features_off.gif" width="85" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="/toys/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Toys'); window.FW_showMenu(window.fw_menu_3,-3,12,null,'toys'); MM_swapImage('toys','','/images/interface/nav_button_toys_on.gif',1); return document.MM_returnValue"><img name="toys" src="/images/interface/nav_button_toys_off.gif" width="49" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="/comics/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Comics'); window.FW_showMenu(window.fw_menu_4,-3,12,null,'comics'); MM_swapImage('comics','','/images/interface/nav_button_comics_on.gif',1); return document.MM_returnValue"><img name="comics" src="/images/interface/nav_button_comics_off.gif" width="63" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="/entertainment/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Entertainment'); window.FW_showMenu(window.fw_menu_5,-3,12,null,'entertainment'); MM_swapImage('entertainment','','/images/interface/nav_button_entertainment_on.gif',1); return document.MM_returnValue"><img name="entertainment" src="/images/interface/nav_button_entertainment_off.gif" width="126" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="/info/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Info'); window.FW_showMenu(window.fw_menu_6,-3,12,null,'info'); MM_swapImage('info','','/images/interface/nav_button_info_on.gif',1); return document.MM_returnValue"><img name="info" src="/images/interface/nav_button_info_off.gif" width="44" height="14" border="0"></a><img src="/images/interface/nav_button_divider.gif" width="1" height="14"><a href="http://ecommerce.spawn.com/" onmouseout="MM_swapImgRestore(); FW_startTimeout()" onmouseover="MM_displayStatusMsg('Store'); window.FW_showMenu(window.fw_menu_7,-85,12,null,'store'); MM_swapImage('store','','/images/interface/nav_button_store_on.gif',1); return document.MM_returnValue"><img name="store" src="/images/interface/nav_button_store_off.gif" width="59" height="14" border="0"></a></td>
 		</tr>
 
 		</tbody></table></td>
 		<!-- End Menubar -->
 </tr>
 
-<tr width="780" height="51">
+<tr width="780" height="15">
 	<td colspan="4" width="780" height="15"><img src="/images/spacer.gif" width="780" height="15"></td>
 </tr>
 
@@ -249,7 +277,7 @@ function randNum(x, y) {
 		<!-- Date -->
 		<tbody><tr>
 			<td width="10"><img src="/images/interface/nav_corner_ul.gif" width="10" height="20"></td>
-			<td width="130" bgcolor="#000000"><span class="menunavdate">&nbsp;<span id="lblDateTime">THU:JUN.3:2004</span></span></td>
+			<td width="130" bgcolor="#000000"><span class="menunavdate">&nbsp;<span id="lblDateTime">WED:DEC.28:2005</span></span></td>
 			<td width="10" bgcolor="#000000"><img src="/images/spacer.gif" width="10" height="20"></td>
 		</tr>
 
@@ -261,12 +289,12 @@ function randNum(x, y) {
 		<tr>
 			<td width="10" bgcolor="#000000" valign="top"><img src="/images/spacer.gif" width="10" height="1"></td>
 			<td width="130" bgcolor="#000000" valign="top">
-				<span id="lblMenuNews" class="a.sidebar"><img src="/images/spacer.gif" width="130" height="7"><br><a href="/news/news6.aspx?id=12379" class="navheadlines"><img src="/images/interface/bullet.white.gif" width="6" height="8" border="0"> NFL SERIES 9 ACTION FIGURES UNVEILED</a><br>
-<img src="/images/spacer.gif" width="130" height="7"><br><a href="/news/news6.aspx?id=12380" class="navheadlines"><img src="/images/interface/bullet.white.gif" width="6" height="8" border="0"> MONSTERS 3 ONLINE FIGURE FEATURE LIVE ON SPAWN.COM</a><br>
-<img src="/images/spacer.gif" width="130" height="7"><br><a href="/news/news6.aspx?id=12377" class="navheadlines"><img src="/images/interface/bullet.white.gif" width="6" height="8" border="0"> NEW COLLECTOR'S CLUB REBORN 2 FIGURE UNVEILED</a><br>
-<img src="/images/spacer.gif" width="130" height="7"><br><a href="/news/news2.aspx?id=12371" class="navheadlines"><img src="/images/interface/bullet.white.gif" width="6" height="8" border="0"> CONAN SERIES 1 ACTION FIGURE PHOTOS UNVEILED</a><br>
-<img src="/images/spacer.gif" width="130" height="7"><br><a href="/news/news1.aspx?id=12378" class="navheadlines"><img src="/images/interface/bullet.white.gif" width="6" height="8" border="0"> MCFARLANE/BONDS SIGN SPECIAL LICENSING DEAL</a><br>
-<img src="/images/spacer.gif" width="130" height="7"><br><a href="/news/news6.aspx?id=12373" class="navheadlines"><img src="/images/interface/bullet.white.gif" width="6" height="8" border="0"> WIN SIGNED HOOBASTANK BASS GUITAR</a><br>
+				<span id="lblMenuNews" class="a.sidebar"><img src="/images/spacer.gif" width="130" height="7"><br><a href="/news/news2.aspx?id=12755" class="navheadlines"><img src="/images/interface/bullet.white.gif" width="6" height="8" border="0"> ANNOUNCING NEW TOYS FOR 2006</a><br>
+<img src="/images/spacer.gif" width="130" height="7"><br><a href="/news/news6.aspx?id=12760" class="navheadlines"><img src="/images/interface/bullet.white.gif" width="6" height="8" border="0"> NEW RAVENS COVER: DERRICK MASON</a><br>
+<img src="/images/spacer.gif" width="130" height="7"><br><a href="/news/news2.aspx?id=12759" class="navheadlines"><img src="/images/interface/bullet.white.gif" width="6" height="8" border="0"> TODD McFARLANE'S BASEBALL RADIO BROADCAST RETURNS</a><br>
+<img src="/images/spacer.gif" width="130" height="7"><br><a href="/news/news6.aspx?id=12754" class="navheadlines"><img src="/images/interface/bullet.white.gif" width="6" height="8" border="0"> NAPOLEON DYNAMITE FEATURE GOES LIVE</a><br>
+<img src="/images/spacer.gif" width="130" height="7"><br><a href="/news/news3.aspx?id=12758" class="navheadlines"><img src="/images/interface/bullet.white.gif" width="6" height="8" border="0"> NAPOLEON DYNAMITE CONTEST WINNER</a><br>
+<img src="/images/spacer.gif" width="130" height="7"><br><a href="/news/news3.aspx?id=12757" class="navheadlines"><img src="/images/interface/bullet.white.gif" width="6" height="8" border="0"> ANIMATION UPDATE</a><br>
 </span><br></td>
 			<td width="10" bgcolor="#000000" valign="top"><img src="/images/spacer.gif" width="10" height="1"></td>
 		</tr>
@@ -300,15 +328,15 @@ function randNum(x, y) {
 		<tr>
 			<td colspan="3" width="150" bgcolor="#000000" align="center" valign="middle">
 				<img src="/images/spacer.gif" width="150" height="10"><br>
-				<a href="/toys/wheretobuy" target="_top"><img src="/images/interface/banner_site_wtb_02.jpg" border="0"></a><!--
-				<a href=""><img src="/images/interface/nav_banner_test01.jpg" width="120" height="60" border="0"></a>--><br>
+				<a href="/entertainment/spawnanimation/" target="_top"><img src="/images/interface/banner_spawnanimation_teaser_01.gif" alt="Spawn: Animation - Teaser Trailer" border="0"></a><br>
 				<img src="/images/spacer.gif" width="150" height="5"><br>
-				<a href="http://ecommerce.spawn.com/" target="_top"><img src="/images/interface/banner_club_exclusives_01.jpg" alt="Collectors Club / Spawn Store" border="0"></a><br>
+				<a href="/store/showroom" target="_top"><img src="/images/interface/banner_showroom_03.jpg" alt="McFarlane Toys Store &amp; Showroom" border="0"></a><br>
 				<img src="/images/spacer.gif" width="150" height="5"><br>
-				<a href="/news/events/mlbradio.aspx" target="_top"><img src="/images/interface/banner_mlbradio_03.jpg" alt="The Todd McFarlane Show on MLB Radio" border="0"></a><br>
-				<!-- <a id="MCCOL" href="http://www.spawn.com/collection/intro.html" target="_BLANK"><img src="/images/interface/banner_site_70HR_002.jpg" alt="McFarlane Collection" border="0" /></a><br> -->
+				<a href="/collection/intro.html" target="_top"><img src="/images/interface/banner_tmc_70_01.jpg" alt="The McFarlane Collection" border="0"></a><br>
 				<img src="/images/spacer.gif" width="150" height="5"><br>
-				<a href="/toys/series.aspx?division=toys&amp;category=horror&amp;series=barker3" target="_top"><img src="/images/interface/banner_trailer_barker3_01.jpg" alt="Clive Barker's The Infernal Parade - Online Trailer" border="0"></a><br>
+				<a href="http://ecommerce.spawn.com/" target="_top"><img src="/images/interface/banner_club_exclusives_02.jpg" alt="Collectors Club / Spawn Store" border="0"></a><br>
+				<img src="/images/spacer.gif" width="150" height="5"><br>
+				<a href="/news/events/ravensreport2005" target="_top"><img src="/images/interface/banner_ravensreport_01.jpg" alt="Ravens Report Commemorative Program Covers" border="0"></a><br>
 				<img src="/images/spacer.gif" width="150" height="10"></td>
 		</tr>
 
@@ -344,9 +372,9 @@ function randNum(x, y) {
 			<span class="navtext"><br>
 			<form name="frmPollQ" onsubmit="return SendPollResponse();" method="get" action="">
 
-			<span id="lblPollQuestion" name="lblPollQuestion">After seeing the feature, your favorite from Monsters 3 is:</span><br>
+			<span id="lblPollQuestion" name="lblPollQuestion">Which of the Ravens Report covers clinches first place?</span><br>
 			
-				<span id="lblPollResponses"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"><img src="/images/spacer.gif" height="5px" width="100%"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=1;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Jack the Ripper</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=2;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Vlad the Impaler</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=3;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Elizabeth Bathory</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=4;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Rasputin</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=5;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Billy the Kid</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=6;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Attila the Hun</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr></tbody></table></span>
+				<span id="lblPollResponses"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"><img src="/images/spacer.gif" height="5px" width="100%"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=1;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Ed Reed</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=2;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Samari Rolle, Chris McAllister, Deion Sanders, &amp; Dale Carter</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=3;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Jamal Lewis</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=4;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Todd Heap</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=5;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Terrell Suggs</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=6;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Jonathan Ogden</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=7;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Ray Lewis</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr><tr><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle; text-align:center"><input style="height:10px; width:10px; vertical-align:middle" type="radio" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=8;" value="">&nbsp;&nbsp;</td><td valign="middle" style="font-family:arial; font-size:7pt;color:black; vertical-align:middle">Derrick Mason</td></tr><tr><td colspan="2" valign="middle"><img src="/images/spacer.gif" width="100%" height="3px"></td></tr></tbody></table></span>
 <!--			<input type="radio" size="15" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=1;" value="sucks"><span class="navtext">Sucks</span><br>
 				<input type="radio" size="15" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=2;" value="rules"><span class="navtext">Rules</span><br>
 				<input type="radio" size="15" name="answer" onclick="javascript: window.document.frmPollQ.poll_value.value=3;" value="whocares"><span class="navtext">Who Cares?</span><br>
@@ -359,7 +387,7 @@ function randNum(x, y) {
 		<tr>
 			<td colspan="3" width="150" height="22">
 			<input type="hidden" id="poll_value" name="poll_value" value="">
-			<span id="txtPollID_value" name="txtPollId_value"><input type="hidden" value="136" name="txtPollID_value" id="txtPollID_value"></span>
+			<span id="txtPollID_value" name="txtPollId_value"><input type="hidden" value="216" name="txtPollID_value" id="txtPollID_value"></span>
 			<input type="image" src="/images/interface/nav_button_vote.gif" width="150" height="21" value="submit" alt="Vote" border="0">
 			</td>
 		</tr>
