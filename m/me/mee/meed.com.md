@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307095807id_/http%3A//www.meed.com/nav%3Fpage%3Dmeed.static.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228180026id_/http%3A//www.meed.com/nav%3Fpage%3Dmeed.static.privacy) for the most accurate reproduction.*
 
 # MEED - Middle East Business News & Information
 
-| **07 March 2005**   
+| **28 December 2005**   
 = Subscriber Access  
 ---  
  [Breaking News](https://web.archive.org/nav?page=meed.backgrounder.news "Click here for Breaking News")  
@@ -25,13 +25,14 @@
  [Last Word](https://web.archive.org/nav?page=meed.lastword "Click here for Last Word")  
   
  [MEED Conferences](https://web.archive.org/nav?page=meed.conflist "Click here for Conferences")   
- [Business Confidence Index](https://web.archive.org/nav?page=meed.business "Click here for Conferences")   
- [MEED Market Reports](http://www.marketreports.meed.com/ "Click here for Market Reports")   
- [Advertise](https://web.archive.org/nav?page=meed.static.advert "Click here for Advertise")   
+ [MEED Projects](http://www.meedprojects.com/ "Click here for MEED Projects")   
+ [International Construction Jobs](http://www.careersinconstruction.com/ "Click here for International Construction Jobs")   
+ [Business Confidence Index](https://web.archive.org/nav?page=meed.business "Click here for Business Confidence Index")   
  [Subscribe](https://web.archive.org/nav?page=meed.subscription "Click here to Subscribe")   
- [Contact Us](https://web.archive.org/nav?page=meed.static.contactus "Click here to Contact Us")   
  [Renew your subscription](https://web.archive.org/nav?page=meed.subscription.renewal "Click here to Renew your Subscription")   
- [Register](https://web.archive.org/nav?page=meed.registration.create "Click here to Register")  
+ [Register](https://web.archive.org/nav?page=meed.registration.create "Click here to Register")   
+ [Advertise](https://web.archive.org/nav?page=meed.static.advert "Click here to Advertise")   
+ [Contact Us](https://web.archive.org/nav?page=meed.static.contactus "Click here to Contact Us")  
 |   
   
 ---  
@@ -66,7 +67,7 @@ UK
 Click here for a map>>
 
 Tel: +44 (0)20 7505 8000  
-Email: [feedback@meed. com](mailto:Michelle.Tempest-Mitchell@ebi.emap.com?subject=MEED.com%20Query)
+Email: [feedback@meed. com](mailto:sheena.sudra@emap.com?subject=MEED.com%20Query)
 
 **General**
 
