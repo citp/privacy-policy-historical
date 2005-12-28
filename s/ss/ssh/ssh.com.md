@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the ssh.com privacy policy that was archived on 2005-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050512085358id_/http%3A//www.ssh.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssh.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228124404id_/http%3A//ssh.com/privacy_policy.html) for the most accurate reproduction.*
 
 # SSH
 
+  
+  
   
 The business of SSH Communications Security ("SSH") is security. For us security enables totally new ways of working together by bringing trust to communication. Trust is the ultimate key to fundamentally open and flexible interaction. We feel that protection of privacy is an inherent part of any policy aiming at creation of such trust.   
 Below you will find information explaining our policy regarding collection, use and protection of personal information supplied to us when visiting this web site ("Website"). 
@@ -41,7 +43,7 @@ SSH reserves the right to change this Privacy Policy at any time. Any accessing 
 If you have any questions or comments regarding this Privacy Policy, please do not hesitate to contact SSH at webmaster@ssh.com. 
 
 COPYRIGHT NOTICE   
-Copyright © 2003 SSH Communications Security Corp. All rights reserved. 
+Copyright © 2005 SSH Communications Security Corp. All rights reserved. 
 
   
   
