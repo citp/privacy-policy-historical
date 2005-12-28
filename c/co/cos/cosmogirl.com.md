@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cosmogirl.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406001756id_/http%3A//www.cosmogirl.com/aboutus/0%2C%2C7d23xc06%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmogirl.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228123324id_/http%3A//www.cosmogirl.com/aboutus/0%2C%2C7d23xc06%2C00.html) for the most accurate reproduction.*
 
-# Terms of Use and Privacy Policy
+# CosmoGIRL! Terms of Use and Privacy Policy
 
 This privacy policy applies to the web sites of Seventeen magazine, CosmoGirl! magazine and Teen magazine (collectively the "Magazines"). The Magazines are owned by Hearst Communications, Inc.("Hearst") This privacy policy describes how Hearst treats the personally identifiable information that is collected about you when you visit the web sites to which this policy is linked, and the information collected on the Magazines' behalf to the extent we use third-party service providers to host the web sites or collect information about site users. 
 
@@ -24,5 +24,5 @@ To subscribe to our newsletters, you must be over the age of thirteen, and we as
 
 You can opt out of the newsletters at any time by clicking on the links below:  
 [CosmoGIRL.com E-Zine](http://www.cosmogirl.com/magazine/ezine/spc/0,,621263_623954,00.html)  
-[CosmoGIRL.com Club 2024 Newsletter](http://www.cosmogirl.com/innergirl/2024/spc/0,,621260_624131,00.html)  
+[CosmoGIRL.com Club 2024 Newsletter](http://www.cosmogirl.com/getreal/2024/spc/0,,621260_624131,00.html)  
 [Seventeen.com Newsletter](http://www.seventeen.com/newsletter/spc/0,,631551_632784,00.html)
