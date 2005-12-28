@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527191920id_/http%3A//www.agl.com.au/AGLNew/At%2Byour%2Bservice/Privacy%2Bstatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228031041id_/http%3A//www.agl.com.au/AGLNew/At%2Byour%2Bservice/Privacy%2Bstatement.htm) for the most accurate reproduction.*
 
-# AGL - Privacy statement
+# AGL - Privacy Statement
 
   * Introduction
   * Customers
@@ -39,7 +39,7 @@ Examples of contractors and suppliers include the electricity or gas network com
 
 You may deal with businesses like AGL Energy Shops or AGL accredited service providers like electricians or plumbers. These businesses are independently owned and operated. If these businesses have access to any personal information from AGL, we require them to treat the information with confidentiality and to apply standards consistent with the National Privacy Principles. These businesses may deal with you and have access to your personal information independently of AGL. If you have any concerns regarding the treatment of your personal information by one of our retail or service affiliates please see Access and correction below for information on how to contact us.
 
-AGL aims to provide our customers with a full range of options to meet their energy related needs. We also may give our customers opportunities to receive special offers on other goods and services. If you want your name and contact details removed from our contact list you should contact us on **131 245** , or by email to [customer.enquiries@agl.com.au](mailto:customer.enquiries@agl.com.au), or by writing to AGL at Locked Bag 944, North Sydney NSW 2059.
+AGL aims to provide our customers with a full range of options to meet their energy related needs. We also may give our customers opportunities to receive special offers on other goods and services. If you want your name and contact details removed from our contact list you should contact us on **131 245** , or by email to [customer.enquiries@agl.com.au](mailto:customer.enquiries@agl.com.au), or by writing to AGL at Locked Bag 1837, St Leonards NSW 2065.
 
 If you have any queries on how we deal with your personal information or you want to inspect our records of your personal information see Access and correction below.
 
@@ -53,11 +53,11 @@ If in accordance with Australian tax laws, you choose to supply your Tax File Nu
 
 AGL is committed to keeping your personal information secure and confidential. We do use related companies, contractors, agents and suppliers to assist us in servicing you. These parties may require access to some of your personal information. In such cases AGL requires these parties to maintain confidentiality and not misuse information. AGL takes its obligation to protect your information seriously and we make every effort to deal only with ethical suppliers who share and demonstrate respect for your privacy. Examples of these parties include the printing and mail-house businesses that produce and distribute annual reports and dividend advices, your bank in respect of direct payments and our computer system support companies.
 
-Under Section 173 of Corporation's Act 2001, AGL must allow inspection of the Company's share register to any person who applies for it. This register sets out all shareholders' names, addresses and share holdings. We sometimes provide information from the share register to meet the requirements of a requesting party, such as the top 100 shareholders. AGL does not knowingly supply shareholder information for purposes other than information that is considered in the interest of the shareholder, the investor market, brokers, financial journals and market analysts. 
+Under Section 173 of Corporations Act 2001, AGL must allow inspection of the Company's share register to any person who applies for it. This register sets out all shareholders' names, addresses and share holdings. We sometimes provide information from the share register to meet the requirements of a requesting party, such as the top 100 shareholders. AGL does not knowingly supply shareholder information for purposes other than information that is considered in the interest of the shareholder, the investor market, brokers, financial journals and market analysts. 
 
 We may disclose your personal information to your stockbroker, accountant, a family member or other person who reasonably identifies themselves as authorised. We will generally seek some indication that the party contacting us is you or an authorised agent. If you cease to be a shareholder your records are kept securely by us.
 
-If you have any queries on how we deal with your personal information contact the AGL Share Registry on 02 9922 8259. If you want to review the personal information we have on you as a shareholder contact the contact us as described in Access and correction below.
+If you have any queries on how we deal with your personal information contact the AGL Share Registry on 02 9922 8259. If you want to review the personal information we have on you as a shareholder contact us as described in Access and correction below.
 
 | return to top |
 
@@ -89,7 +89,7 @@ We analyse our web site logs to understand what parts of our web site visitors u
 
 ### Newsletters and email subscriptions
 
-If you wish to subscribe to any of our newsletters, subscriptions or promotional communications, we ask for contact information such as name and email address. If you no longer wish to receive our newsletters, subscriptions or promotional communications, you may opt-out of receiving these communications at any time by replying to the email and replacing the subject line with the word UNSUBSCRIBE, or email us at [aglweb@agl.com.au](mailto:aglweb@agl.com.au). We also offer AGL Information Club members an opt-out mechanism.
+If you wish to subscribe to any of our newsletters, subscriptions or promotional communications, we ask for contact information such as name and email address. If you no longer wish to receive our newsletters, subscriptions or promotional communications, you may opt-out of receiving these communications at any time.
 
 | return to top |
 
@@ -116,8 +116,8 @@ Telephone **AGL** on **131 245**
 or
 
 contact the Privacy Officer  
-Locked Bag 944  
-North Sydney NSW 2059  
+Locked Bag 1837  
+St Leonards NSW 2065  
 Email: [customer.enquiries@agl.com.au](mailto:customer.enquiries@agl.com.au)
 
 If your enquiry is detailed or covers a number of areas of our business we may ask you to complete an Information Request Form which will assist us to fully respond to your enquiry. For your protection you will be asked to provide information that helps us confirm your identity.
