@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.mod.uk privacy policy that was archived on 2004-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041227193342id_/http%3A//www.mod.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.mod.uk privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228214526id_/http%3A//www.mod.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
