@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307074249id_/http%3A//www.magazines.com/ncom/mag/help/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228135940id_/http%3A//www.magazines.com/ncom/mag/help/privacypolicy.html) for the most accurate reproduction.*
 
 # Magazines.com -- Privacy Policy
 
@@ -25,9 +25,7 @@ Email address
 Phone number 
 
 **The Way We Use Information:**   
-We use the information you provide about yourself when placing an order to complete the order. It is necessary to furnish this information to the publisher in order to quickly fulfill your order, provide you with discounted subscription rates, and qualify you for free magazine subscription offers. We also use the information to provide you with information about magazine subscriptions and other products and services. We may also provide your information to other businesses which may sell other products and services. Because your information is shared with third parties, the information is governed by the privacy policies of the recipients of the information. **Magazines.com does not share email addresses with third parties.**
-
-Furthermore, by placing an order with Magazines.com or registering for the Magazines.com Instant Win Game Sweepstakes promotion, you are agreeing to receive promotional mailings and emails from us. Each email from us will contain opt-out information. If you choose to opt-out, then you will be removed from our email list and will receive no future emails from us. 
+We use the information you provide about yourself when placing an order to complete the order. It is necessary to furnish this information to the publisher in order to quickly fulfill your order, provide you with discounted subscription rates, and qualify you for free magazine subscription offers. Because your information is shared with the publisher, the information is governed by the privacy policies of the recipients of the information. We also use the information to provide you with information about magazine subscriptions and other products and services. **Magazines.com does not share email addresses with third parties.** This excludes free trade magazine subscriptions, as the publisher requires an email address. **Magazines.com does not provide your information to any other businesses (besides the publisher of the magazine to which you've subscribed).**
 
 **Cookies**   
 Although we use cookies for web site optimization reasons, we do not use cookies to collect any personal information (cookies are small files downloaded to your computer to record movements within web sites). 
@@ -42,7 +40,7 @@ When you place orders, we provide the use of a secure server. The secure server 
 We guarantee that every online transaction you make will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, We will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
 **How You Can Access Or Correct Your Information**   
-You can access all your personally identifiable information that we collect online and maintain by contacting us through our toll-free number at 1-800-929-2691. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+You can access all your personally identifiable information that we collect online and maintain by contacting us through our toll-free number at 1-800-MAGAZINES (1-800-624-2946). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
