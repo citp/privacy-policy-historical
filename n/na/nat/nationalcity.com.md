@@ -1,8 +1,30 @@
-> *The following text is extracted and transformed from the nationalcity.com privacy policy that was archived on 2005-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050603080117id_/http%3A//www.nationalcity.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcity.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228095156id_/http%3A//www.nationalcity.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Notice - About National City - National City Corporation
 
+|  | [](https://web.archive.org/personal/default.asp)  
+---  
+|   
+---  
 |  |   
+---  
+[ Careers](https://web.archive.org/about/careers/default.asp "Careers")  
+|  |   
+---  
+[ News](https://web.archive.org/about/news/default.asp "News")  
+|  |   
+---  
+[ Investor relations](https://web.archive.org/about/investorrelations/default.asp "Investor relations")  
+|  |   
+---  
+[ Community relations](https://web.archive.org/about/commurelations/default.asp "Community relations")  
+|  |   
+---  
+[ Diversity](https://web.archive.org/about/diversity/default.asp "Diversity")  
+|  |   
+---  
+[ Community reinvestment](https://web.archive.org/about/commureinvestment/default.asp "Community reinvestment")  
+|  |  |   
 ---  
 |   
 ---|---  
@@ -26,7 +48,7 @@ Information we disclose
 Fair Credit Reporting Act Disclosure | National City's Pledge  
 Effective date and changes  
 National City companies  
-[Privacy notice FAQs](https://web.archive.org/web/20050603080117id_/http%3A//about/privacyfaq.asp)  
+[Privacy notice FAQs](https://web.archive.org/web/20051228095156id_/http%3A//about/privacyfaq.asp)  
 ---|---  
    
 OPT-OUT: We will not share your nonpublic personal information with others as defined below. National City, on your behalf, has exercised your right to opt-out under 12 CFR Part 40, Privacy of Consumer Financial Information.  
@@ -93,14 +115,14 @@ Back to top
   
    
 National City companies  
-National City Bank, National City Bank of Kentucky, National City Insurance Agency of Kentucky, Inc., NatCity Investments, Inc., National City Bank of Pennsylvania, National City Insurance Agency of Pennsylvania, Inc., National City Bank of Southern Indiana, Sterling Private Investments, Inc., National City Bank of Indiana, National City Home Loan Services, Inc., First Franklin Financial Corporation, The Madison Bank & Trust Company, National City Bank of the Midwest, Allegiant Insurance Services, Allegiant Investment Counselors, Inc., Allegiant Investment Company, NatCity Insurance Services, Inc., National City Insurance Group, Inc., National City Investment Management Company®, National City Mortgage Co., National City Mortgage, Inc., Alliance Title Agency, LLC, New England Trust Company, N.A., National City Abstract, LLC, Access Financial Corp., Red Capital Markets, Inc., Capstone Realty Advisers, LLC, Provident Auto Leasing Company, Provident Auto Rental Company, LLC, NatCity Trust Company of Delaware
+National City Bank, National City Bank of Kentucky, National City Insurance Agency of Kentucky, Inc., NatCity Investments, Inc., National City Bank of Pennsylvania, National City Insurance Agency of Pennsylvania, Inc., National City Bank of Southern Indiana, Sterling Private Investments, Inc., National City Bank of Indiana, National City Home Loan Services, Inc., First Franklin Financial Corporation, National City Bank of the Midwest, Allegiant Insurance Services, Allegiant Investment Counselors, Inc., Allegiant Investment Company, National City Insurance Group, Inc., National City Mortgage Co., National City Mortgage, Inc., Alliance Title Agency, LLC, New England Trust Company, N.A., National City Abstract, LLC, Access Financial Corp., Red Capital Markets, Inc., Capstone Realty Advisers, LLC, Provident Auto Leasing Company, Provident Auto Rental Company, LLC, NatCity Trust Company of Delaware, Allegiant Asset Management Company, NationalLink, LP, NationalLink, LLC, NationalLink of Alabama, LLC
 
 Back to top   
   
    
 * Vermont Residents Only: In Vermont the information we disclose under joint marketing agreements must be limited to your name, contact information, and information about our own transactions and experiences with you. Your consent is required before we can share certain credit information about you with our affiliates. We are permitted to share information which is not a credit report under Vermont law without your consent, such as information related solely to our transactions and experiences with you. California Residents: We will not disclose or share information about California residents without first providing you with a California Privacy Notice and honoring your choice unless such sharing or disclosure is permitted by applicable law.  
    
-(rev 1/2005)  
+(rev 11/2005)  
 |  |   
 ---|---  
 |   
@@ -114,7 +136,15 @@ Back to top
 |   
 |  |  | Email fraud: Phishing scams |  |   
 |  |  | Learn how to avoid becoming a victim of bogus emails. |   
-|  |  | [Learn more ](https://web.archive.org/web/20050603080117id_/http%3A//www.nationalcity.com/personal/onlineservices/onlinebanking/FinancialIdentity/Default.asp) |   
+|  |  | [Learn more ](https://web.archive.org/web/20051228095156id_/http%3A//www.nationalcity.com/personal/onlineservices/onlinebanking/FinancialIdentity/Default.asp) |   
+|  |  |  |   
+|   
+|   
+---|---  
+|   
+|  |  | Telephone scams  |  |   
+|  |  | Don't become a victim of telemarketing scams. |   
+|  |  | [Learn more ](https://web.archive.org/shared/messages/jump.asp?url=http://www.ftc.gov/bcp/conline/pubs/tmarkg/target.htm) |   
 |  |  |  |   
 |   
 |   
@@ -124,7 +154,7 @@ Back to top
 |   
 | 
 
-[Privacy notice FAQs ](https://web.archive.org/web/20050603080117id_/http%3A//about/privacyfaq.asp)  
+[Privacy notice FAQs ](https://web.archive.org/web/20051228095156id_/http%3A//about/privacyfaq.asp)  
 Answers to frequently asked questions about National City's Privacy notice.  
   
   
@@ -135,9 +165,9 @@ Answers to frequently asked questions about National City's Privacy notice.
 |   
 | 
 
-[Identity theft FAQs ](https://web.archive.org/web/20050603080117id_/http%3A//about/identitytheftfaq.asp)
+[Identity theft FAQs ](https://web.archive.org/web/20051228095156id_/http%3A//about/identitytheftfaq.asp)
 
-[Identity Protect ](https://web.archive.org/web/20050603080117id_/http%3A//personal/onlineservices/identityprotect/default.asp)   
+[Identity Protect ](https://web.archive.org/web/20051228095156id_/http%3A//personal/onlineservices/identityprotect/default.asp)   
 Learn more about identity theft prevention and enroll in Identity Protect.  
   
 |   
@@ -145,7 +175,7 @@ Learn more about identity theft prevention and enroll in Identity Protect.
 | Downloads  
 |   
 |   
-|  You must have the free Adobe® Reader® installed to download and read our pricing schedules.
+|  You must have the free Adobe® Acrobat® Reader installed to download and read our privacy notice.
 
 [](http://www.adobe.com/products/acrobat/readstep2.html)
 
