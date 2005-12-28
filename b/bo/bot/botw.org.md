@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the botw.org privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205073004id_/http%3A//www.botw.org/helpcenter/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botw.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228095009id_/http%3A//botw.org/helpcenter/privacy.aspx) for the most accurate reproduction.*
 
 # Best of the Web - Privacy Policy
 
@@ -76,7 +76,7 @@ Instances in which BOTW Will Share Users' Personal Information:
 > 
 > CHOICE/OPT-OUT
 > 
-> Users who no longer wish to receive promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email.  
+> Users who no longer wish to receive promotional communications may opt-out of receiving these communications by replying to service@botw.org with "unsubscribe" in the subject line in the email.  
   
 Links  
 This Web site contains links to other sites. Please be aware that we, Best of the Web, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.  
