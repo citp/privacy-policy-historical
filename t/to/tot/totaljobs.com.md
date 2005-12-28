@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the totaljobs.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306045807id_/http%3A//www.totaljobs.com/general/privacy_policy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaljobs.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228150704id_/http%3A//www.totaljobs.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# totaljobs.com - privacy policy
+# Privacy policy
 
-  
 At totaljobs.com we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information you may give us while using the site. 
 
 You can remove any of the information that totaljobs.com stores about you, at any time, by logging in to your 'my totaljobs' account and clicking on 'close this account'. 
@@ -25,7 +24,7 @@ Totaljobs.com will also use the aggregate data to identify employment trends acr
 
 Some of our customers may be located in countries outside the European Economic Area. 
 
-When you ‘apply online’, we store some information about you in your ‘My totaljobs’ area, but it is protected by your password and may only be accessed by you. It does not form part of our totaljobs candidate database and cannot be searched or accessed by totaljobs customers. You can delete your ‘My totaljobs’ account at any time. Your CV can only be viewed by a totaljobs.com customer if you have consented to this within the profile section. 
+When you 'apply online', we store some information about you in your 'My totaljobs' area, but it is protected by your password and may only be accessed by you. It does not form part of our totaljobs candidate database and cannot be searched or accessed by totaljobs customers. You can delete your 'My totaljobs' account at any time. Your CV can only be viewed by a totaljobs.com customer if you have consented to this within the profile section. 
 
 If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed. Once your profile and CV are on our database we will contact you every six months using your most recent contact details to ask whether you want it to remain there. If we do not hear from you, your profile and CV will be removed from our database. 
 
@@ -41,9 +40,9 @@ You have the option to decline or accept these cookies, but if you decline you w
 
 **We strongly recommend you accept cookies.**
 
-       Decline Cookies 
+       Decline cookies 
 
-In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [Adtech](http://www.adtech.info/privacy_en.php) and [Bluestreak](http://www.bluestreak.com/). 
+In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [Adtech](http://www.adtech.info/privacy_en.php), [Bluestreak](http://www.bluestreak.com/) and [DoubleClick](http://www.doubleclick.com/us/about_doubleclick/privacy/). 
 
 **Statistical information**   
 We provide aggregate statistical information about site visitors and users to recruiters (such as the number of CVs on the database, or the number of visitors to the site) and for other lawful purposes. We provide this information to customers, advertisers, suppliers and other reputable third parties. This will not include any information that enables them to identify individuals. 
