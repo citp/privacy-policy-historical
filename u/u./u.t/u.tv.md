@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the u.tv privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410065359id_/http%3A//u.tv/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u.tv privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228013013id_/http%3A//u.tv/privacypolicy.asp) for the most accurate reproduction.*
 
 # ::: u.tv :::
 
-|   
+|   |  | [](http://u.tv/internet/tools) |  | [](http://webmail.u.tv/) |  | [](http://u.tv/sitemap.asp) |  | [](http://u.tv/contactus.asp) |  | [](http://u.tv/customise.asp) |  | [](http://u.tv/search)  
+---|---|---|---|---|---|---|---|---|---|---|---|---  
+  
+
+
+  
 |   |   
 UTV Internet (part of UTV plc) treats your privacy seriously. In general, we use the personal information that we collect from you to identify personal preferences and match your needs with relevant services and features on our website. NOTE This policy only applies to the UTV Internet website and not to the companies, individuals, organisations or other websites to which there are links.  | **1.** | **Consent**  
 ---|---  
@@ -28,4 +33,6 @@ UTV Internet (part of UTV plc) treats your privacy seriously. In general, we use
 |  If you have any questions or concerns about our use of your personal information you should email us at [support@u.tv](mailto:support@u.tv)  
 | 
 * We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please click here. <http://www.doubleclick.net/us/corporate/privacy>  
- 
+   
+  
+| 
