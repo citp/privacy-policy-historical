@@ -1,45 +1,66 @@
-> *The following text is extracted and transformed from the cboe.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331194801id_/http%3A//www.cboe.com/resources/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cboe.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228070641id_/http%3A//www.cboe.com/UserAdmin/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # CBOE - Privacy Statement
 
-[](https://web.archive.org/products)  
-[](https://web.archive.org/tools)  
-[](https://web.archive.org/education)  
-[](https://web.archive.org/institutional)  
-[](https://web.archive.org/exchange)  
-[](https://web.archive.org/resources)  
-|  |    
-[Navigating This Site](https://web.archive.org/resources/)  |  [Guest Register](https://web.archive.org/scripts/guestreg.asp)  |  [Search](https://web.archive.org/search/search.asp)  |  [Free Downloads](https://web.archive.org/resources/download.htm)  |  [Related Links](https://web.archive.org/scripts/links.asp)  |  [Characteristics and Risks of  Standardized Options](https://web.archive.org/resources/odd)  |  [Taxes & Investing](https://web.archive.org/resources/tax.htm)  |  [Broker Contacts](https://web.archive.org/resources/broker.htm)  |  [Quote Vendor Directory](https://web.archive.org/resources/opra.htm)  |  [Invest Wisely](https://web.archive.org/web/20010331194801id_/http%3A//www.cboe.com/resources/investwisely.htm)  |  Privacy Statement  |  [Copyright](https://web.archive.org/resources/copyrite.htm)   
-  
-  
-The Chicago Board Options Exchange (CBOE) has created this privacy statement in order to demonstrate our firm commitment to the privacy of the users of our web site. The following discloses our information gathering and dissemination practices for the cboe.com web site. 
+Chicago Board Options Exchange, Incorporated ("CBOE") has created this Privacy Statement and Policy in order to demonstrate our firm commitment to the privacy of the users of a CBOE World Wide Website ("Website"). By using or accessing the Website, you signify your acknowledgment and assent to the Privacy Statement and Policy set forth below: 
 
-  * Our voluntary site registration form requests user contact information such as name, mailing and e-mail addresses. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-  * Our online surveys ask visitors for demographic information such as zip code, age and income level. Additional demographic and profile data is also collected at our site. CBOE shares this information with advertisers only on an aggregate basis. Please refer to the privacy statements (accessible below) of the service providers to CBOE's website for their policies regarding use of information. 
+### Information Collection and Dissemination
 
-**Security**
+Except as otherwise provided in this Privacy Statement and Policy, the following discloses our information gathering and dissemination practices for the Website. 
 
-The cboe.com site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+In general, users can visit the Website anonymously without providing any personal information. There are, however, cases where users may be asked for personal information. For example, online surveys are occasionally conducted to better understand the needs and profiles of our Website users. Our online surveys typically ask users for demographic and profile information such as zip code, age, and income level. In addition, personal information is requested if you voluntarily register to receive additional information about CBOE or if you want to purchase a product directly from the Website. Our voluntary Website registration form requests user personal information such as name, mailing address and/or e-mail address. Registered Users have certain "opt-out" choices which are described in the choice/opt-out section below. CBOE shares information with advertisers on an aggregate basis, but users should refer to the privacy statements (accessible below) of the service providers to the Website for their policies regarding use of personal information. 
 
-**Supplementation Information**
+### Security
 
-The cboe.com site supplements the information that we provide with information that is received from third parties. 
+CBOE shall exercise reasonable precautions to safeguard and secure all information provided by users in connection with accessing this Website. The Website has security measures in place that help to protect against the loss, misuse and alteration of the information under our control. Although we take proper measures to safeguard against unauthorized disclosures of information and because such information can be accessed through the Internet, no assurances can be provided to users that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Statement and Policy. 
 
-**Choice/Opt-out**
+### Logged Files
 
-The cboe.com site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
+The Website logs IP addresses and browser types for administration purposes. Such logs will be reviewed in order to improve the materials and content available on the Website. 
 
-CBOE gives customers the following option for changing and modifying information previously provided, or for removing their information from our database so as to not receive future communications or to no longer receive our services: 
+### Policies for Children
 
-  
-Send mail to the following postal address: **400 S. LaSalle Street, Chicago, Il 60605**  
+CBOE does not knowingly collect or use any personal information from users under 13 years of age. No information should be submitted to this Website by guests under 13 years of age. 
 
+### Links to Third Party Websites and Framing
 
-**Service Providers**
+For the user?s convenience, cboe.com provides links to other external websites. The listing of a link by CBOE should not be construed as a sponsorship, endorsement or approval of such websites, their content, or as an indication of the value of any claims, recommendations or other information contained therein. It is strongly advised that a qualified investment professional be consulted prior to engaging in any transactions. Users should be aware that the CBOE has no control over any linked website and is not responsible for the contents or privacy practices of any linked website or any link on a linked website. CBOE urges our users to be aware when they exit the Website and to carefully read the privacy statements of each website that collects user identifiable information. The Website Privacy Statement and Policy is applicable only to information collected by the Website. 
 
-CBOE has selected the Sonar Network, a business unit of DoubleClick Inc., as an ad-serving/sales agent for the cboe.com site. Please review the Sonar Network Privacy Statement [here](http://www.sonar.com/content/privacy.htm) for information about the Sonar Network's data use policy and security measures as they relate to advertising. 
+CBOE prohibits the framing of any materials available through its Website, caching, or unauthorized hypertext links to the Website. CBOE reserves the right to disconnect or otherwise disable any unauthorized frames or hypertext links. 
 
-CBOE has selected Trader's Library to provide certain web services for online seminar registration, fulfillment, credit card transactions and other services.   
-  
-  
-Options involve risk and are not suitable for all investors. Prior to buying or selling an option, a person must receive a copy of [Characteristics and Risks of Standardized Options](https://web.archive.org/resources/odd/). Copies of this document are available from your broker or the Chicago Board Options Exchange, 400 S. LaSalle Street, Chicago, IL 60605\. The OCC Prospectus contains information on options issued by The Options Clearing Corporation. Copies of this document are available from The Options Clearing Corporation, 440 S. LaSalle Street, 24th Floor, Chicago, IL 60605 or the Chicago Board Options Exchange, 400 S. LaSalle Street, Chicago, IL 60605. The documents available discuss exchange-traded options issued by The Options Clearing Corporation and are intended for educational purposes. No statement in the documents should be construed as a recommendation to buy or sell a security or to provide investment advice. The inclusion of advertisements on CBOE's website should not be construed as an endorsement of any product, service, or website or as an indication of the value of any claims, recommendations, or other information contained therein. [Copyright](https://web.archive.org/resources/copyrite.htm)© 2001 Chicago Board Options Exchange, All Rights Reserved
+### Supplementation Information
+
+The Website supplements the information that we provide with information that is received from third parties. 
+
+### Notice of Changes
+
+CBOE reserves the right to change or update this Privacy Statement and Policy or the Terms and Conditions for use of the Website at any time. Accordingly, if such changes are made, we will disclose those changes on the Website so that users are aware of our policies concerning information collection, use, and disclosure. Any changes or updates will be effective immediately upon posting to the Website. 
+
+### Choice/Opt-Out
+
+The Website provides registered users the opportunity to opt-out of receiving communications from us at the point where we request information about the user. If you opt in, CBOE may (1) share the information with those organizations with which CBOE has a direct or indirect business relationship; (2) use the information for its own internal purposes, or (3) contact you for market-related research. 
+
+If you choose to update or delete personal information previously provided, CBOE will endeavor to correct, update or remove the personal information from our database. You can do this by contacting our User Support organization at the contact points specified below. 
+
+If you prefer not to receive traditional mail or other off-line promotions from CBOE or from organizations with which CBOE has a direct or indirect business relationship, please e-mail [remove@cboe.com](mailto:remove@cboe.com). Please include your full name and mailing address. 
+
+To remove yourself from any CBOE e-mail lists, please e-mail [remove@cboe.com](mailto:remove@cboe.com) or visit [http://www.cboe.com](https://web.archive.org/) and click E-mail Alerts from your personalized home page. Please note: if you are not already signed in to your MyCBOE service, you will need to do so using your user name and password. To unsubscribe by postal mail, please write to CBOE.com Internet Marketing, 400 S. LaSalle Street, Chicago, IL 60605. If you have any questions, please e-mail [help@cboe.com](https://web.archive.org/web/20051228070641id_/http%3A//www.cboe.com/UserAdmin/help@cboe.com). 
+
+### Special Cases
+
+CBOE reserves the right to disclose user information in special cases, when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury or interference with (either intentionally or unintentionally) our rights or property, other Website users, or anyone else that could be harmed by such activities. We may also disclose personal information without notice to you in response to a subpoena, or when requested from a United States government regulatory body or law enforcement agency, when we believe in good faith that the law requires it or to respond to any emergency situation. 
+
+### Services Providers
+
+CBOE has selected the Sonar Network, a business unit of DoubleClick, Inc., as an ad-serving/sales agent for the Website. Please review the [Sonar Network Privacy Statement](http://www.doubleclick.net/us/corporate/privacy/default.aspx) for information about the Sonar Network?s data use policy and security measures as they relate to advertising. 
+
+CBOE has selected Trader's Library to provide certain web services for online seminar registration, fulfillment, credit card transactions and other services. Please review the Trader?s Library Privacy Statement here for information about the Trader?s Library data use policy and security measures 
+
+### Contact Information
+
+Chicago Board Options Exchange  
+Attention: Internet Marketing  
+400 S. LaSalle Street  
+Chicago, IL 60605  
+Fax: 312-786-7367  
+E-mail: help@cboe.com 
