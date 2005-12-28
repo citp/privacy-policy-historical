@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403164050id_/http%3A//www.kidzworld.com/kidzworld/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228145022id_/http%3A//www.kidzworld.com/kidzworld/privacy.html) for the most accurate reproduction.*
 
 # Kidzworld | Kids Community | Online Entertainment | Safe Chat | Message Forums
 
-**Kidzworld Media** , has developed this policy statement to reflect our commitment to our users' privacy. The privacy of our members is most important so please read on. 
+**Kidzworld Media** ,. has developed this policy statement to reflect our commitment to our users' privacy. The privacy of our members is most important so please read on, as it will help you understand a little bit more about privacy. 
 
 We use IP addresses to help diagnose problems with our server (big computers) and to administer our web site. IP addresses are used to help identify our members (you) and to collect broad demographic information (like your age, gender, regional information and what you like to do). Do not submit information to **Kidzworld** or anyone, for that matter, if it makes you feel uncomfortable. 
 
@@ -14,11 +14,15 @@ Our site contains links to other sites. **Kidzworld** is not responsible for the
 
 Our site uses an order form for customers to request information, products and services. We collect visitor's unique identifiers (like their **Kidzworld** on-screen name). These unique identifiers are collected from visitors to the site to verify the user identity and for use as account numbers in our record-keeping system. 
 
-We also run sweepstakes at our site in which we ask visitors for contact information (like their e-mail address). This information is used strictly to contact entrants when necessary (like to let them know they have won). Contact information collected for contests is deleted once winners have been confirmed. You do not need to be a registered member to enter sweepstakes. 
+We also run contests at our site in which we ask visitors for contact information (like their e-mail address). This information is used strictly to contact entrants when necessary (like to let them know they have won). Contact information collected for contests is deleted once winners have been confirmed. You do not need to be a registered member to enter contests. 
+
+**E-cards**
+
+Kidzworld offers various e-cards for its members to send to family and friends. To send an e-card you need to provide your email, your name, the recipient's email and the recipient's name. All information gathered for an e-card is used strictly to send the e-card and is never stored or used again. ****
 
 **Chat Rooms**
 
-**Kidzworld** has chat rooms, message boards, discussion groups and forums available to its members. Please remember that any information that is disclosed in these areas becomes public domain information. You should **NOT** disclose any personal information. You should not enter any chat room, newsroom or forum on the Internet that requires you to disclose any personal information prior to entering. Your onscreen name is the only identity that you should have, and that is how people should know you on the Internet.
+**Kidzworld** has chat rooms, message boards, discussion groups and forums available to its members. Please remember that any information that is disclosed in these areas becomes public domain information. You should **NOT** disclose any personal information. You should not enter any chat room, newsroom or forum on the Internet that requires you to disclose any personal information prior to entering. Your onscreen name is the only identity that you should have, and that is how people should know you on the Internet. Kidzworld's chat room and message boards are monitored at all times by Kidzworld staff and anyone who tries to reveal, or ask for, personal information will be banned from both the chat and message boards for 24 hours. 
 
 **Security**
 
@@ -36,11 +40,11 @@ If you would like to remove your name and information from our members' list and
 
 **THIRD PARTY ADVERTISING**
 
-The ads appearing on this Web site are delivered to you by BURST! Media, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about BURST! Media, cookies, and how to "opt-out", please click here.
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal informa-tion), is used to serve ads to you on this site. For more infor-mation about DoubleClick, cookies, and how to "opt-out", please click here.
 
 **THIRD PARTY COOKIES**
 
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
 **Contacting Us**
 
