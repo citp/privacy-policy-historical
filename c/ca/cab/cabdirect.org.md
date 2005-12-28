@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabdirect.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403211416id_/http%3A//www.cabi-publishing.org/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabdirect.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228120609id_/http%3A//www.cabi-publishing.org/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # CABI Publishing - Privacy Policy
 
