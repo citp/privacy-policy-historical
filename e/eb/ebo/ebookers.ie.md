@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206033656id_/http%3A//www.ebookers.ie/helpandinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228140848id_/http%3A//www.ebookers.ie/helpandinfo/privacy.html) for the most accurate reproduction.*
 
 # ebookers.ie -- Privacy Statement
 
 Changes to our Privacy Statement    
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we would notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices to [webmaster.ie@ebookers.com](mailto:webmaster.ie@ebookers.com) . Please reference the privacy policy in your subject line. We will attempt to respond to all reasonable concerns or inquiries within two business days of receipt. 
+Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices to [info@ebookers.ie](mailto:info@ebookers.ie) . Please reference the privacy policy in your subject line. We will attempt to respond to all reasonable concerns or inquiries within two business days of receipt. 
 
 The following discloses our information gathering and dissemination practices for this website: www.ebookers.ie. 
 
@@ -31,12 +31,12 @@ We occasionally run competitions on our site. We may ask for personal informatio
 top ^
 
 Job Applications  
-There is a section of the website where you can [apply for a job](mailto:julie.anne@ebookers.ie) with ebookers.ie. We collect personal information such as name and address to contact applicants in relation to their job application. We also ask for optional demographic information, which we use for recruitment purposes only. We do not share any of the above mentioned information with anyone else. 
+There is a section of the website where you can [apply for a job](https://web.archive.org/web/20051228140848id_/http%3A//www.ebookers.ie/helpandinfo/info@ebookers.ie) with ebookers.ie. We collect personal information such as name and address to contact applicants in relation to their job application. We also ask for optional demographic information, which we use for recruitment purposes only. We do not share any of the above mentioned information with anyone else. 
 
 top ^
 
 Our Opt Out Policy  
-You can un-subscribe from our newsletter at any time by following the instructions at the bottom of the newsletter, or by sending an blank e-mail to ([irish_users-off@lists.ebookers.ie](mailto:irish_users-off@lists.ebookers.ie)) 
+You can un-subscribe from our newsletter at any time by following the instructions at the bottom of the newsletter, or by sending an blank e-mail to ([info@ebookers.ie](mailto:info@ebookers.ie)) 
 
 top ^
 
