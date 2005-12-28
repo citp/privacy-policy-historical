@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessweekly.co.uk privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308022111id_/http%3A//www.businessweekly.co.uk/media/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessweekly.co.uk privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228093355id_/http%3A//www.businessweekly.co.uk/media/privacy.asp) for the most accurate reproduction.*
 
 # Business Weekly - Privacy Statement
 
