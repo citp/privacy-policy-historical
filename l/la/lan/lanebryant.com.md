@@ -1,37 +1,37 @@
-> *The following text is extracted and transformed from the lanebryant.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanebryant.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp) for the most accurate reproduction.*
 
-# Lane Bryant – Lane Bryant - Fashionable plus-size apparel.
+# Lane Bryant – Fashionable plus-size apparel, sizes 14-28.
 
-|  | [VISITOR INFORMATION](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbVisit_info.asp)  
+|  | [VISITOR INFORMATION](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbVisit_info.asp)  
   
 ---  
 PRIVACY POLICY  
-[Information collected](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#info)  
-[Information use](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#useinfo)  
-[Information storage](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#storeinfo)  
-[Mailing lists](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#mail)  
-[Third-party disclosure](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#3rdparty)  
+[Information collected](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#info)  
+[Information use](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#useinfo)  
+[Information storage](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#storeinfo)  
+[Mailing lists](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#mail)  
+[Third-party disclosure](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#3rdparty)  
 [Information updates/  
-opt out](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#updinfo)  
-[Contests and research](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#contests)  
-[Bulletin board](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#bb)  
-[Child protection](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#child)  
-[Cookies](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#cookies)  
-[Links to other sites](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#links)  
+opt out](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#updinfo)  
+[Contests and research](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#contests)  
+[Bulletin board](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#bb)  
+[Child protection](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#child)  
+[Cookies](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#cookies)  
+[Links to other sites](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/priv_security.asp#links)  
   
-[CONTACT US](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbContact_us.asp)  
-[MY ACCOUNT](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbAccount.asp)  
-[ABOUT US](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbAbout_us.asp)  
-[PRESS ROOM](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbPress_room.asp?press=march2004)  
-[JOBS@LANEBRYANT](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/jobs.asp)  
-[SHOPPING INFORMATION](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbShopping_info.asp)  
+[CONTACT US](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbContact_us.asp)  
+[MY ACCOUNT](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbAccount.asp)  
+[ABOUT US](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbAbout_us.asp)  
+[PRESS ROOM](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbPress_room.asp?press=1)  
+[JOBS@LANEBRYANT](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/jobs.asp)  
+[SHOPPING INFORMATION](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbShopping_info.asp)  
 [FREQUENTLY ASKED  
-QUESTIONS](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbFAQ.asp)  
+QUESTIONS](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbFAQ.asp)  
   
-|  |  |  PRIVACY POLICY
+|  |  | PRIVACY POLICY
 
 _(last updated December 2003)_  
-This Web site (this "Site") is operated by Charming Shoppes Interactive, Inc. ("we" or "CSI"). We at CSI recognize that privacy is a major concern for our customers and investors (“customers”) and we respect their privacy. This Privacy Policy has been prepared to advise you how we will and will not disclose the information provided to us through this Site. If you have any questions about our Privacy Policy, [click here](https://web.archive.org/custsvc/lb/email_us.asp?category=sitefeedback) to contact CSI via e-mail, or write us at Charming Shoppes Interactive, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020. If elements of our Privacy Policy change, we will post the policy changes on our Site. This Privacy Policy applies solely to this Site. Web sites of certain affiliates of CSI, including Spirit of America National Bank (the issuer of the Fashion Bug Credit Card) and Alliance Data Systems (the issuer of the Lane Bryant Credit Card), have their own separate privacy policies as set forth on their individual Web sites. This Privacy Policy applies to all information obtained through this Site. Information obtained by us from other sources is not governed by this Privacy Policy.  
+This Web site (this "Site") is operated by Charming Shoppes Interactive, Inc. ("we" or "CSI"). We at CSI recognize that privacy is a major concern for our customers and investors (“customers”) and we respect their privacy. This Privacy Policy has been prepared to advise you how we will and will not disclose the information provided to us through this Site. If you have any questions about our Privacy Policy, [click here](https://lanebryant.charmingshoppes.com/custsvc/lb/email_us.asp?category=sitefeedback) to contact CSI via e-mail, or write us at Charming Shoppes Interactive, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020. If elements of our Privacy Policy change, we will post the policy changes on our Site. This Privacy Policy applies solely to this Site. Web sites of certain affiliates of CSI, including Spirit of America National Bank (the issuer of the Fashion Bug Credit Card) and Alliance Data Systems (the issuer of the Lane Bryant Credit Card), have their own separate privacy policies as set forth on their individual Web sites. This Privacy Policy applies to all information obtained through this Site. Information obtained by us from other sources is not governed by this Privacy Policy.  
 top
 
 What information do we collect?
@@ -55,7 +55,7 @@ top
 
 Mailing lists
 
-When you register with CSI or participate in a contest or promotion online through this Site you may choose to receive e-mails or postal mail from us regarding our company, corporate information, products, services, contests and promotions. From time to time, we may also send you e-mails to help us learn more about your online preferences. To find out how to remove yourself from our mailing list, [click here](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbFAQ.asp#mlist). Such removal shall not apply to e-mails or postal mail from us regarding subsequent contests or promotions you may choose to enter.  
+When you register with CSI or participate in a contest or promotion online through this Site you may choose to receive e-mails or postal mail from us regarding our company, corporate information, products, services, contests and promotions. From time to time, we may also send you e-mails to help us learn more about your online preferences. To find out how to remove yourself from our mailing list, [click here](https://web.archive.org/web/20051228043717id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/lbFAQ.asp#mlist). Such removal shall not apply to e-mails or postal mail from us regarding subsequent contests or promotions you may choose to enter.  
 top
 
 How do we disclose or share information with unrelated third parties?
@@ -74,7 +74,7 @@ top
 
 How do I update my personal information or opt out of third-party disclosure?
 
-You may update your registered information at any time. This includes your name, password, e-mail and postal address and research participant status. You may also manage your e-mail formats and opt out of future unaffiliated third-party disclosures of your information (such opt-out will not affect disclosures to affiliates or previously completed disclosures to third parties and will not affect disclosures to third parties in connection with subsequent contests or promotions you may choose to enter). To modify your information, [click here](https://lanebryant.charmingshoppes.com/Registration/update_registration.asp). If you need further assistance with the modification of your information or opting out of the sharing of information with unrelated third parties, [click here](https://web.archive.org/web/20040604161024id_/http%3A//lanebryant.charmingshoppes.com/custsvc/lb/email_us.asp?category=mailing) to send us an e-mail with your request. If at any time you would like us to update your personal information or remove you from our e-mail or postal mailing lists, feel free to contact us either by using the process set forth above or by writing to us at Charming Shoppes, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020.  
+You may update your registered information at any time. This includes your name, password, e-mail and postal address and research participant status. You may also manage your e-mail formats and opt out of future unaffiliated third-party disclosures of your information (such opt-out will not affect disclosures to affiliates or previously completed disclosures to third parties and will not affect disclosures to third parties in connection with subsequent contests or promotions you may choose to enter). To modify your information, [click here](https://lanebryant.charmingshoppes.com/Registration/update_registration.asp). If you need further assistance with the modification of your information or opting out of the sharing of information with unrelated third parties, [click here](https://lanebryant.charmingshoppes.com/custsvc/lb/email_us.asp?category=mailing) to send us an e-mail with your request. If at any time you would like us to update your personal information or remove you from our e-mail or postal mailing lists, feel free to contact us either by using the process set forth above or by writing to us at Charming Shoppes, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020.  
 top
 
 Contests, quizzes, sweepstakes and consumer research
