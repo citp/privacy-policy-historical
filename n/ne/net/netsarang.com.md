@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netsarang.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306203110id_/http%3A//www.netsarang.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsarang.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228140052id_/http%3A//www.netsarang.com/company/privacy.html) for the most accurate reproduction.*
 
-# NetSarang Computer, Inc.
+# NetSarang Computer, Inc. - PC X server, SSH, SFTP, LPD Softwares for Windows
 
 |  |   
 ---|---  
