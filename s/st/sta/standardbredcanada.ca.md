@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the standardbredcanada.ca privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208160332id_/http%3A//www.standardbredcanada.ca/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardbredcanada.ca privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228162104id_/http%3A//www.standardbredcanada.ca/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](http://www.standardbredcanada.ca/races/races.html)  
 [](http://www.standardbredcanada.ca/news/)  
 [](http://www.standardbredcanada.ca/trot/)  
-[  
-](http://www.standardbredcanada.ca/sales/)[  
-](http://www.standardbredcanada.ca/wtc2003/)[  
+[ ](http://www.standardbredcanada.ca/sales/)[  
 ](http://www.standardbredcanada.ca/services/)[  
 ](http://www.standardbredcanada.ca/obrien/)[  
 ](http://www.standardbredcanada.ca/classified/)[](http://www.standardbredcanada.ca/links/)  
@@ -60,8 +58,10 @@ Standardbred Canada is a non-profit organization and, in order to defray its cos
 It is, however, the policy of Standardbred Canada to preserve the confidentiality of personal information, except when disclosure of that information is reasonably necessary in the fulfillment of its mandate.
 
 Standardbred Canada often receives inquiries from members, and other interested parties, including commercial interests who wish to provide goods and services, for contact information about its members, including telephone numbers or addresses. When responding to such inquiries is not directly related to Standardbred Canada’s mandate, members are entitled to control the release of information and specific consent is required.  
-  
-  
-[](http://www.standardbredcanada.ca/cgi-bin/redirect.cgi/44859)
 
-|  | 
+
+**[Click here](https://web.archive.org/web/20051228162104id_/http%3A//index.html) to return to the Standardbred Canada home page.**
+
+  
+  
+[](http://www.standardbredcanada.ca/cgi-bin/redirect.cgi/37309) |  | 
