@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfam.org.uk privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624001601id_/http%3A//www.oxfam.org.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfam.org.uk privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228092837id_/http%3A//www.oxfam.org.uk/privacy.htm) for the most accurate reproduction.*
 
 # Oxfam
 
@@ -65,7 +65,7 @@ Oxfam GB does not sell or rent user information to anyone. From time to time, we
 
 **6\. What is Oxfam GB’s policy on allowing me to update, correct, or delete my personally identifiable information?**
 
-The accuracy of your individual identifying information is important to Oxfam GB. We are working on ways to make it easier for you to review and correct the information that Oxfam maintains about you. In the meantime, if you change email address or any of the other information we hold is inaccurate or out of date, please email us at webteam@oxfam.org.uk, or write to Supporter Services, Oxfam GB, 274 Banbury Road, Oxford, OX2 7DZ with the details.
+The accuracy of your individual identifying information is important to Oxfam GB. We are working on ways to make it easier for you to review and correct the information that Oxfam maintains about you. In the meantime, if you change email address or any of the other information we hold is inaccurate or out of date, please email us at changes@oxfam.org.uk, or write to Supporter Relations, Oxfam GB, Oxfam House, John Smith Drive, Oxford, OX4 2JY with the details.
 
 **7\. How does Oxfam GB protect my personal identifiable information?**
 
