@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the montgomeryschoolsmd.org privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205005704id_/http%3A//www.mcps.k12.md.us/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomeryschoolsmd.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228123504id_/http%3A//www.mcps.k12.md.us/privacy.shtm) for the most accurate reproduction.*
 
 # MCPS Privacy Policy
+
+REVISION NOTICE: The  Email section was updated July 22, 2005 reflecting our collection and storage of user email addresses for the Directory and Online Course Bulletin.
 
 The Montgomery County Public Schools (MCPS) Web site exists to inform the community about and to engage it in our joint mission to provide a quality education to all children. We use the site to publish as much information about MCPS as possible and to enhance two-way communication between the district and community. Your privacy is important to us. Please take a moment to become familiar with our privacy statement. 
 
   
-The Web site is hosted and managed by the MCPS Office of Global Access Technology in Rockville, Maryland. The site is comprised of many smaller sites representing schools and offices, many with their own webmasters. All but a few of these sites are hosted by MCPS. Those schools with their own hosting arrangements also must conform to this privacy policy. Principals and office administrators are responsible for content published to their sites. 
+The Web site is managed by the MCPS Web Services Team in the Department of Communications in Rockville, Maryland. The site is comprised of many smaller sites representing schools and offices, many with their own webmasters. All but a few of these sites are hosted by MCPS. Those schools with their own hosting arrangements also must conform to this privacy policy. Principals and office administrators are responsible for content published to their sites. 
 
   
 Like publishers of most Web sites, MCPS collects data from visitors to its site. The purpose of this data collection is to analyze how people navigate the site and then use that analysis to make changes that improve the user experience. This information is not used to track individual users or create user profiles. The data collection process does not enable MCPS to discern who individuals are, only that a computer with a specific number (IP) is accessing the Web server. Typical information gathered and analyzed by our statistical software includes: 
@@ -35,6 +37,9 @@ Many schools and offices use interactive tools on their Web sites to gather comm
 Many of these forms and surveys also include a blank space the visitor can use to send us any type of comment or information. Do not use this field to convey highly personal or sensitive information. 
 
   
+Two features of the MCPS web require users to submit a valid email address as a login. The [Staff Directory](http://coldfusion.mcps.k12.md.us/directory/)'s My Sticky List enables users to create their own list of phone numbers. This email address is used only to connect the user to her or his Sticky List. The [High School Course Bulletin web site](http://www.mcps.k12.md.us/curriculum/coursebulletin/) includes a My Worksheet feature that requires users to submit a valid email address as a login. This email address is only used to connect the user to her or his worksheet. The email addresses will not be shared with internal or external parties. They will not be used to send email messages to users. 
+
+  
 Information submitted by users to a specific school or office Web site is managed and archived by that office. If the occasion warrants, it may be shared with other appropriate staff. While MCPS does not share visitor information with or sell it to third parties, most information submitted to us is considered part of the public record and could be made available to others if requested under the Maryland Public Information Act. However, personally identifiable information about students, for example, is not considered public information. 
 
   
@@ -47,4 +52,4 @@ Our site does not directly solicit or collect information from children. If a ch
 Our site does not solicit personal, highly confidential information such as social security or credit card numbers and is not equipped to guarantee highly secure transactions at this time.
 
   
-As the site evolves, MCPS may update this privacy statement. We will note the change on our home page to alert you to the modifications. Please contact us at [webmaster@fc.mcps.k12.md.us](mailto:webmaster@fc.mcps.k12.md.us) if you have comments or questions. 
+As the site evolves, MCPS may update this privacy statement. We will note the change on our home page to alert you to the modifications. Please contact us at [webmaster@mcpsmd.org](mailto:webmaster@mcpsmd.org) if you have comments or questions. 
