@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the calendarlive.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406000735id_/http%3A//www.calendarlive.com/services/site/cl-privacy%2C0%2C1836093.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendarlive.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228030643id_/http%3A//www.calendarlive.com/services/site/cl-privacy%2C0%2C1836093.story) for the most accurate reproduction.*
 
 # calendarlive.com: Calendarlive.com Privacy Policy
 
-|  |    
+|   |    
+  
 
-
-Calendarlive.com Privacy Policy
 
 **Last Updated: July, 2003**
 
 Calendarlive.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by calendarlive.com online and does not impact information collected or used by calendarlive.com or its affiliates through other means.
 
+| ADVERTISEMENT  
+---  
+  
 **How we gather information from users**.
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also provide information when you participate in sweepstakes and contests, voting and polling activities, message boards and chat rooms and other interactive areas of our site.
@@ -66,4 +68,5 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
-|  | 
+If you want other stories on this topic, search the Archives at [latimes.com/archives](http://www.latimes.com/archives).  
+
