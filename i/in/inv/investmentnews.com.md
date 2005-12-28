@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the investmentnews.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407084513id_/http%3A//www.investmentnews.com/page.cms%3FpageId%3D39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentnews.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228134637id_/http%3A//www.investmentnews.com/page.cms%3FpageId%3D39) for the most accurate reproduction.*
 
-# InvestmentNews -- The Weekly Newspaper for Financial Advisers
+# Privacy Policy - InvestmentNews - The Weekly Newspaper for Financial Advisers
+
+[](https://web.archive.org/reg.cms)
 
 NEWS BEATS
 
