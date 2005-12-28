@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammondre.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404070245id_/http%3A//www.hammondre.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammondre.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228155211id_/http%3A//www.hammondre.com/Privacy) for the most accurate reproduction.*
 
 # Boston Real Estate - Hammond GMAC Real Estate
 
@@ -64,3 +64,5 @@ Telephone: 1-800-627-0128
 **Will GMAC Home Services Make Changes To This Privacy Statement?**
 
 This statement is effective June 28, 2004 and remains in effect until amended. GMAC Home Services reserves the right to amend this Privacy Statement or alter its privacy principles at its sole discretion without notice to you. Any alterations to this Privacy Statement or our privacy principles will be posted on our web site in a timely manner.
+
+Email sent using this web site's email forms is logged and reviewed.
