@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623123427id_/http%3A//pages.ebay.ca/help/community/png-priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228132536id_/http%3A//pages.ebay.ca/help/community/png-priv.html) for the most accurate reproduction.*
 
 # eBay Canada: Help : Policies and Guidelines : Privacy Policies
 
@@ -123,7 +123,7 @@ You are responsible for all actions take with your User ID and password, includi
 
 8\. Accessing, Reviewing and Changing Your Personal Information
 
-We offer you the ability to automatically review and change the personal information you submit to us by logging into the Site and entering the new information yourself. Generally, we will not modify your personal information based upon your request because it is very difficult to authenticate your account manually. You can change your User ID, email address, contact information, financial information, shipping information and user preferences by going to the preferences and setup section in [My eBay](http://cgi1.ebay.ca/aw-cgi/eBayISAPI.dll?MyEbayLogin). You must promptly update your information if it changes or is inaccurate. Once posted, you cannot change or remove any public postings made in our chat rooms or other message areas or the feedback area. 
+We offer you the ability to automatically review and change the personal information you submit to us by logging into the Site and entering the new information yourself. Generally, we will not modify your personal information based upon your request because it is very difficult to authenticate your account manually. You can change your User ID, email address, contact information, financial information, shipping information and user preferences by going to the preferences and setup section in [My eBay](http://my.ebay.ca/ws/eBayISAPI.dll?MyeBay). You must promptly update your information if it changes or is inaccurate. Once posted, you cannot change or remove any public postings made in our chat rooms or other message areas or the feedback area. 
 
 Upon your request, we will deactivate your account, contact information, billing information, shipping information and financial information from our active databases. To make this request, please use our webform located at <http://pages.ebay.ca/help/welcome/customer-support.html>. Such information will be deactivated as soon as reasonably possible based upon your account activity and in accordance with our deactivation policy and applicable law. 
 
