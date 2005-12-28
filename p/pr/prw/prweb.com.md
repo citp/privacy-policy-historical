@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prweb.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611001309id_/http%3A//prweb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prweb.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228044857id_/http%3A//prweb.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for the PR Web Newswire
 
@@ -31,6 +31,8 @@ Persons who supply us with their telephone numbers on-line may receive telephone
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+On occasion we may send you an email with an offering that is of general interest to the public relations community. We don't do this very often. Such offerings, when they occur, help us to continue providing this service.
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by or logging into their account..
 
