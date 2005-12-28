@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307234120id_/http%3A//www.scifi.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228160748id_/http%3A//www.scifi.com/terms/privacy.html) for the most accurate reproduction.*
 
-# SCIFI.COM | Terms
+# SCIFI.COM | Terms - Privacy Statement
 
 |  SCIFI.COM'S OVERALL PRIVACY STATEMENT Your privacy on the Internet is of utmost importance to us. Because we gather certain types of information about the users of SCIFI.COM, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices, and periodically reviews its practices for compliance to accepted Internet standards. This privacy statement discloses what information we gather, how we use it and how to correct or change it.
 
@@ -20,9 +20,9 @@ When you visit SCIFI.COM you can expect to be informed about:
 
   7. Correction/Update policy
 
-Questions regarding this statement should be directed to SCIFI.COM's Database Marketing Coordinator at [dbcoordinator@scifi.com](mailto:%20dbcoordinator@scifi.com). To return to SCIFI.COM, [click here](http://www.scifi.com/).
+Questions regarding this statement should be directed to SCIFI.COM's Database Marketing Coordinator at [feedback@www.scifi.com](mailto:feedback@www.scifi.com). To return to SCIFI.COM, [click here](http://www.scifi.com/).
 
-SCIFI.COM is operated by Universal Television Networks, part of [NBC/Universal](http://nbcuni.com/).
+SCIFI.COM is operated by [NBC/Universal Television](http://nbcuni.com/).
 
 * * *
 
@@ -75,19 +75,20 @@ SCIFI.COM Mobile, SMS and Wireless service is enabled by Upoc Networks. Any info
 THIRD-PARTY COLLECTION OF DATA Some of our sites may contain advertisements from third parties that collect information through cookies or other methods, or that link to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. BANKRUPTCY OR REORGANIZATION Not withstanding anything in this agreement, information collected under this policy may be transferred to a third party, successor in interest, or other entity in the event of a merger, acquisition, bankruptcy or similar reorganization. DELETION POLICY If you would no longer like to be contacted by this site, please go to our [members page](https://web.archive.org/members/) or send e-mail or postal mail stating that request and we will promptly remove you from our list: 
 
 **E-mail:**  
-[dbcoordinator@scifi.com](mailto:dbcoordinator@scifi.com)
+[feedback@www.scifi.com](mailto:feedback@www.scifi.com)
 
 **Postal Mail:**  
 Database Coordinator  
-NBC/Universal  
-1230 Avenue of the Americas  
-New York, NY 10020 USA
+NBC/Universal - SCIFI.COM  
+30 Rockefeller Plaza, 21st Fl.  
+New York, NY 10112  
+USA
 
-CORRECTION/UPDATE POLICY If you are currently a SCIFI.COM member and would like to correct or update your preferences, membership or profile information, please go to the [preferences page](https://web.archive.org/members/modpref.html), the [members page](https://web.archive.org/members/) or write to Database Coordinator, care of [dbcoordinator@scifi.com](mailto:dbcoordinator@scifi.com). 
+CORRECTION/UPDATE POLICY If you are currently a SCIFI.COM member and would like to correct or update your preferences, membership or profile information, please go to the [preferences page](https://web.archive.org/members/modpref.html), the [members page](https://web.archive.org/members/) or write to Database Coordinator, care of [feedback@www.scifi.com](mailto:feedback@www.scifi.com). 
 
 **Note:**  
 This Privacy Statement may be updated as SCIFI.COM introduces new products and services to its users.
 
-_This Privacy Statement was last revised on July 20, 2004._
+_This Privacy Statement was last revised on April 1, 2005._
 
 [Terms of Service](https://web.archive.org/terms/termsofservice.html) | 
