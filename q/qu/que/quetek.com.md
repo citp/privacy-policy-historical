@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404164120id_/http%3A//www.quetek.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228171355id_/http%3A//quetek.com/privacy.htm) for the most accurate reproduction.*
 
 # File recovery and data recovery software - QueTek Consulting Corporation
 
   
 **Privacy Policy - Protecting Your Billing Information**
 
-Protecting your private data is of utmost concern to us.  When you purchase our products with a credit card, the billing information is encrypted and securely forwarded to a highly respected online credit card processing agent. We do not retain such information on any of our computer equipment. Our agent is [Card Service International](http://www.cardservice.com/), an industry leader in credit card processing for Internet businesses.
+Protecting your private data is of utmost concern to us.  When you purchase our products with a credit card, the billing information is encrypted and securely forwarded to a highly respected online credit card processing agent. We do not retain the complete credit card number on any computer equipment. Our agent is [Card Service International](http://www.cardservice.com/), an industry leader in credit card processing for Internet businesses.
 
 **Protecting Your Personal Information**
 
