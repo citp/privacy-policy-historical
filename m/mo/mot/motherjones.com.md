@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418012352id_/http%3A//www.motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228125603id_/http%3A//www.motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -6,19 +6,25 @@
 
 * * *
 
-| 
+* * *
+
+[](http://motherjones.meetup.com/a/?PID=mu_motherjones)
+
+* * *
+
+* * *
 
 | 
 
-[](http://www.motherjones.com/news/feature/2004/11/10_403.html) [Justice DeLayed](http://www.motherjones.com/news/feature/2004/11/10_403.html)  
-**From the Archives**  
-Tom DeLay has spun one of Washington's most powerful fundraising networks. But now a series of state and federal investigations could unravel it all.   
+  
+| 
+
+[](http://www.motherjones.com/news/feature/2005/12/unembedded.html) [Unembedded](http://www.motherjones.com/news/feature/2005/12/unembedded.html)  
+An unflinching look at the human faces of war-ravaged Iraq   
   
 ---  
   
 \----Advertisements----  
-  
-|   
   
 \----Advertisements----  
   
