@@ -1,48 +1,50 @@
-> *The following text is extracted and transformed from the israel-music.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402025017id_/http%3A//www.israel-music.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israel-music.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228101043id_/http%3A//www.israel-music.com/privacy) for the most accurate reproduction.*
 
-# Israel-Music : Privacy Policy
+# Israel Music : Privacy Policy
 
-_**Israel-Music is committed to a secure and private shopping experience**_
+We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document.
 
-We will not sell or share your personal details with unrelated third parties, partners or affiliates, without explicitly asking for your consent in advance.
+This privacy statement applies to the website of:
 
-The type of information we will collect about you includes:
+Tamuz Records Ltd.  
+PO Box 198  
+Ra'anana 43102  
+Israel  
++972-9-7442861  
+[service@israel-music.com](mailto:service@israel-music.com)
 
-  
+Collecting information provides specific benefits to our website visitors:
 
-  1. Your name
-  
-
-  2. Address
-  
-
-  3. Email
-  
-
-  
-We use the personal information you give us for the following purposes:  
-
-
-  
+We use the personal information you give us for the following purposes:
 
   1. To contact you about the status of your order.
-  
-
   2. To efficiently process and dispatch your order to your delivery address.
-  
-
   3. To change and enhance the web site.
-  
-
   4. To occasionally email you with details of our products, special promotions, and enhancements. If you would prefer not to receive these mailings, you can always unsubscribe by clicking a link at the bottom of these messages.
-  
-
   5. To conduct anonymous and aggregate research into a) the way our web site is used and b) the purchasing patterns of our customers.
-  
 
   
-We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. Note that if you modify your browser to refuse cookies from Israel-Music, parts of the web site may not function as expected.
+We will not sell or share your personal details with unrelated third parties, partners or affiliates, without explicitly asking for your consent in advance.
 
-The personal information which we hold will be held securely in accordance with our internal security policy and the law.
+We collect information for the following purpose(s):
 
-If you have any questions about Israel-Music's privacy policy please email them to [service@israel-music.com](mailto:service@israel-music.com).
+  1. Completing or supporting an activity
+  2. Website and system administration
+  3. Research and development
+  4. Tailoring the website for its visitors
+  5. Research, analysis, reporting
+  6. Research, analysis, reporting
+  7. Build records of individual visitors
+  8. Contacting our visitors (except via telephone) for promotion of the site or products
+  9. Preserving social history as governed by existing law or policy
+
+
+
+Only ourselves has access to the information we collect.
+
+Of the information we do collect, we allow our visitors to access their contact information (such as email address or postal address).
+
+If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page.
+
+
+
