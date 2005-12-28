@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2005-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050512085356id_/http%3A//www.skyauction.com/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228125847id_/http%3A//www.skyauction.com/privacy.do) for the most accurate reproduction.*
 
 # SkyAuction.com Travel Auctions: Privacy Policy
 
