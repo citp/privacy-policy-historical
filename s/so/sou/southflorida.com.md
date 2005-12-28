@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the southflorida.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308170001id_/http%3A//www.sun-sentinel.com/about/site/sfe-privacypolicy.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southflorida.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228112100id_/http%3A//www.sun-sentinel.com/about/site/sfe-privacypolicy%2C0%2C6872368.story) for the most accurate reproduction.*
 
 # SouthFlorida.com Privacy Policy: South Florida Sun-Sentinel
+
+[](http://brt.trb.com/event.ng/Type=click&FlightID=486754&AdID=180164&Custom=lynnsflorist&TargetID=56275&Segments=52,66,164,246,528,579,582,598,779,812,1480,1599,1857,2166,2383,2533,4312,4709,5041,5140,7114,53208,53804,54126,55003,55017,55018,55223&Targets=2342,56875,169,511,11403,6133,3029,2813,56275,8387,55028&Values=34,46,51,63,77,83,84,90,100,110,132,287,289,294,301,328,331,356,392,591,998,1016,1093,1105,1136,1171,1212,1606,1617,1648,1816,1838,1887,1888,1917,1978,1986,2091,2281,2283,2384,2515,2625,2932,2971,3005,3047,3051,3055,3061,3088,3113,3117,3133,3153&RawValues=USERAGENTID%2Cia_archiver&Redirect=http://www.lynn.edu/index.php?src=gendocs&link=PM-Welcome)
+
+[](http://brt.trb.com/event.ng/Type=click&FlightID=486754&AdID=180164&Custom=lynnsflorist&TargetID=56275&Segments=52,66,164,246,528,579,582,598,779,812,1480,1599,1857,2166,2383,2533,4312,4709,5041,5140,7114,53208,53804,54126,55003,55017,55018,55223&Targets=2342,56875,169,511,11403,6133,3029,2813,56275,8387,55028&Values=34,46,51,63,77,83,84,90,100,110,132,287,289,294,301,328,331,356,392,591,998,1016,1093,1105,1136,1171,1212,1606,1617,1648,1816,1838,1887,1888,1917,1978,1986,2091,2281,2283,2384,2515,2625,2932,2971,3005,3047,3051,3055,3061,3088,3113,3117,3133,3153&RawValues=USERAGENTID%2Cia_archiver&Redirect=http://www.lynn.edu/index.php?src=gendocs&link=PM-Welcome)
+
+|  | |  |  |    
+**SouthFlorida.com Privacy Policy**
 
 _Last Updated: July 2003_
 
@@ -58,7 +65,21 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
-| **Subscribe today to the Sun-Sentinel**  
-and find out how to get one week extra!  
-[Click here](http://www.sun-sentinel.com/services/sfl-startsub,0,2480096.htmlstory) or call 1-877-READ-SUN.  
----|---
+[](http://www.sun-sentinel.com/services/sfl-startsub,0,2480096.htmlstory)  
+  
+---|---  
+  
+[](http://brt.trb.com/event.ng/Type=click&FlightID=515128&AdID=172487&Custom=homescape&TargetID=55027&Segments=82,85,165,246,582,673,692,755,793,1480,1600,1857,2167,3356,3391,3753,3907,4709,5041,6764,6787,52005,53208,53804,54126,54453,54962,55071,55223&Targets=168,3795,512,11403,4975,2287,2812,6698,55027,57646&Values=34,46,51,63,77,83,84,90,100,110,131,150,287,289,301,328,333,356,388,392,591,998,1016,1093,1105,1136,1171,1212,1606,1617,1648,1816,1838,1887,1888,1917,1978,1986,2091,2281,2283,2384,2515,2625,2932,2971,3005,3047,3051,3055,3061,3088,3113,3117,3133,3153&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2Fwww.sun-sentinel.com%2Fclassified%2Frealestate%2F)
+
+* * *
+
+[](http://brt.trb.com/event.ng/Type=click&FlightID=71209&AdID=126591&Custom=101ban&TargetID=6698&Segments=82,85,165,246,582,673,692,755,763,812,1480,1600,1857,2167,3356,3391,3753,3907,4709,5041,6764,6787,52006,53208,53804,54126,54454,54962,55071,55223&Targets=168,3795,512,11403,4972,2287,2812,6698,55027,57646&Values=34,46,51,63,77,83,84,90,100,110,131,150,287,289,301,328,334,356,388,392,591,998,1016,1093,1105,1136,1171,1212,1606,1617,1648,1816,1838,1887,1888,1917,1978,1986,2091,2281,2283,2384,2515,2625,2932,2971,3005,3047,3051,3055,3061,3088,3113,3117,3133,3153&RawValues=USERAGENTID%2Cia_archiver&Redirect=$CLICK_URL$)
+
+[](http://brt.trb.com/event.ng/Type=click&FlightID=71209&AdID=126591&Custom=101ban&TargetID=6698&Segments=82,85,165,246,582,673,692,755,763,812,1480,1600,1857,2167,3356,3391,3753,3907,4709,5041,6764,6787,52006,53208,53804,54126,54454,54962,55071,55223&Targets=168,3795,512,11403,4972,2287,2812,6698,55027,57646&Values=34,46,51,63,77,83,84,90,100,110,131,150,287,289,301,328,334,356,388,392,591,998,1016,1093,1105,1136,1171,1212,1606,1617,1648,1816,1838,1887,1888,1917,1978,1986,2091,2281,2283,2384,2515,2625,2932,2971,3005,3047,3051,3055,3061,3088,3113,3117,3133,3153&RawValues=USERAGENTID%2Cia_archiver&Redirect=$CLICK_URL$)
+
+* * *
+
+[](http://brt.trb.com/event.ng/Type=click&FlightID=511893&AdID=164193&Custom=shoplocal&TargetID=6698&Segments=82,85,165,246,582,673,692,699,755,812,1480,1600,1857,2167,3356,3391,3753,3907,4709,5041,6764,6787,53208,53804,53872,54126,54455,54962,55071,55223&Targets=168,3795,512,11403,3656,2287,2812,6698,55027,57646&Values=34,46,51,63,77,83,84,90,100,110,131,150,287,289,301,328,335,356,388,392,591,998,1016,1093,1105,1136,1171,1212,1606,1617,1648,1816,1838,1887,1888,1917,1978,1986,2091,2281,2283,2384,2515,2625,2932,2971,3005,3047,3051,3055,3061,3088,3113,3117,3133,3153&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2Fwww.shoplocal.com%2Fsun-sentinel%2Fnew_user_entry.aspx%3FCityStateZip%3D33301)  
+  
+|    
+
