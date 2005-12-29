@@ -1,128 +1,94 @@
-> *The following text is extracted and transformed from the infoworld.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305013841id_/http%3A//www.infoworld.com/about/abt_prv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoworld.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229125719id_/http%3A//www.infoworld.com/about/abt_prv.html) for the most accurate reproduction.*
 
 # InfoWorld: Privacy Policy
 
-  | Privacy Policy  
-    
-Below is the current policy regarding the usage of data collected by InfoWorld Media Group. We reevaluate this policy on an ongoing basis based on feedback from readers.  
-    
-**VISITOR DATA**   
   
-    
-For each visitor to our Web page, our Web server automatically records the consumer's domain name and IP address. We collect only the domain name of visitors to our web page, aggregate information on what pages consumers access or visit, and information volunteered by the consumer, such as survey information and/or site registrations. We do not collect e-mail addresses of unregistered visitors. Cookies may be used to collect information.  
-    
-The aggregated information we collect is used for the following purposes:  
-    
-1\. to improve the content of our Web pages  
-    
-2\. shared with advertisers and potential advertisers to help them assess InfoWorld's suitability for their ad campaigns  
-    
-3\. set by our audit bureau to verify our claims of traffic to the site  
-    
-In regards to cookies, InfoWorld's ad-serving partner, Double-Click, records cookies in cookie files only to prevent repetitious ad banner placements. If you do not want the frequency of ad exposure controlled, you can deny this feature by following instructions at:  
-    
-[http://www.doubleclick.net/us/corporate/privacy/opt-out.asp?asp_object_1=&](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp?asp_object_1=&).  
-    
-To read Doubleclick's entire privacy policy, go to:  
-    
-<http://www.doubleclick.net/us/corporate/privacy/>.  
-    
-NOTE: InfoWorld will not be participating in any program to identify visitors using DoubleClick's data base partner Abacus. To read more about the "Abacus Alliance" program go here:  
-    
-<http://www.doubleclick.net/us/corporate/privacy/>.  
-    
-**REGISTERED USERS DATA**  
-  
-    
-Registered users are asked to complete a questionnaire with identifying information and demographic information. The information we collect on registered users is used in the following ways:  
-    
-1\. to improve the content of our Web pages  
-    
-2\. used to notify users via e-mail newsletters about updates to our Web site  
-    
-3\. used by us for marketing InfoWorld products and services  
-    
-4\. used by our audit bureau to verify cumulative demographic statistics  
-    
-5\. if the user has given permission, names and addresses may be shared with other reputable organizations (including IDG sister companies) for marketing purposes  
-    
-6\. used by InfoWorld, IDG, and IDC for research surveys  
-    
-7\. used by Editorial for consultation with readers  
-    
-Telephone numbers of registered users will not be rented to outside firms for sales purposes. InfoWorld may use the telephone numbers for surveys or editorial consultation with users, and may allow outside firms to use them for surveys. IDG Sister publications may be allowed to use InfoWorld subscribers' phone numbers to promote free subscriptions.
+1\. InfoWorld Media Group ONLINE PRIVACY POLICY
 
-Currently, E-mail and postal mail addresses may be used by InfoWorld to promote InfoWorld and IDG products and services, surveys, and for editorial consultations with users. We may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers on behalf of InfoWorld, or select organizations whose offers we have screened. 
+The InfoWorld Web site and associated sites are maintained by
 
-We allow registered users to "opt out" of receiving e-mail and postal mail from outside firms and IDG sister companies at the time of registration. When the user has given permission, his e-mail address may be rented to outside firms for promotional purposes. Offers for which the names are rented are screened, and renters are required to target their offers carefully. All mailings are sent by InfoWorld and IDG, through our contracted e-mail delivery service. InfoWorld and IDG may transfer e-mail addresses to outside firms, but would do so ONLY for the purpose of complying with a recipient's request to no longer receive third party e-mail from selected advertisers. Users who later decide they want to change their preferences may write to us at :  
-   
-InfoWorld.com List Rentals  
-501 Second Street  
-San Francisco, CA 94107  
-   
-and request that their name be removed from the promotion list, or [click here](http://www.omeda.com/cgi-win/ifwd.cgi?contacts) to unsubscribe from mailing lists.  
-   
- **PRINT SUBSCRIBERS DATA**  
-  
-   
-Subscribers and applicants for InfoWorld Print subscriptions are asked to complete a questionnaire with identifying information and demographics. This data is used in the following ways:  
-   
-1\. to improve the content of InfoWorld  
-   
-2\. to notify subscribers about requalification and renewal  
-   
-3\. used by us for marketing InfoWorld products and services  
-   
-4\. used by our audit bureau to verify cumulative demographic statistics  
-   
-5\. used by InfoWorld, IDG, and IDC for research surveys  
-   
-6\. used by Editorial for consultation with readers  
-   
-Postal addresses will be used to promote InfoWorld and IDG products and services, and may be rented to selected outside firms for promotional purposes. Offers for which the names are rented are screened, and renters are required to target their offers carefully.  
-   
-Telephone numbers of InfoWorld Print subscribers are used by InfoWorld to collect requalification data and may be used by InfoWorld and it's advertisers for surveys. IDG Sister publications may be allowed to use InfoWorld subscribers' phone numbers to promote free subscriptions. No telephone sales are permitted.  
-   
-Fax numbers of InfoWorld Print subscribers are used by InfoWorld to collect requalification data and may be used for surveys. No fax numbers are rented to outside firms.
+InfoWorld Media Group  
+501 Second St  
+San Francisco, CA 94107 
 
-E-mail addresses of InfoWorld print subscriber are used to requalification purposes, and to promote InfoWorld and IDG products and services. When the user has given permission, his e-mail address may be rented to outside firms for promotional purposes. Offers for which the names are rented are screened, and renters are required to target their offers carefully. All mailings are sent by InfoWorld and IDG, through our contracted e-mail delivery service. InfoWorld and IDG may transfer e-mail addresses to outside firms, but would do so ONLY for the purpose of complying with a recipient's request to no longer receive third party e-mail from selected advertisers. 
+InfoWorld collects personally identifying information and data about individuals, their company, and the company's demographics "personally identifying information and data" including (i) when you provide information to InfoWorld, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, webcasts, White Papers, online seminars, conferences and other communications with InfoWorld (ii) when you register or sign up on the InfoWorld site or when you register for any other IDG Publishing Network products individually or through "auto register", your information will be known to InfoWorld and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to InfoWorld Below is the current policy regarding the usage of personally identifying information and data collected by InfoWorld. We reevaluate this policy on an ongoing basis based on feedback from readers. InfoWorld reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that are different from that stated at the time of collection, we will notify you by posting a notice on our website. 
 
-We may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers on behalf of InfoWorld, or select organizations whose offers we have screened.
+InfoWorld or one of our IDG affiliated companies, or third party partners may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information, except when such information has been supplied by a subscriber or registered user. 
 
-Subscribers or applicants who do not want their names used in any of the above ways may write to us at:  
-   
-InfoWorld List Rentals  
-501 Second Street  
-San Francisco, CA 94107  
-   
-and request that their name be removed from the promotion list, or [click here](http://www.omeda.com/cgi-win/ifwd.cgi?contacts) to unsubscribe from mailing lists.  
-   
- **IT CAREERS DATA**  
-  
-   
-If you registered for InfoJobs, it is now called [IT Careers](http://www.itcareers.com/) and is part of IT World, another IDG business unit.  
-   
- **INFOWORLD PARTNER SERVICES DATA**  
-   
-  
-   
-InfoWorld.com will from time to time partner with other companies to provide services to our subscribers and registered users that we feel may be valuable to them. Only in cases where you need to subscribe or register to use these services, InfoWorld.com will share your registration information with the partner company. We share this information to provide the service to you and for better customer service.  
-   
-If any of these services are discontinued, registered users and subscribers of the service on InfoWorld.com will be given the option to opt out of being contacted by the partner company.  
-   
- **INFOWORLD EVENTS AND CONFERENCES**  
-  
-   
-E-mail addresses, postal addresses, fax and phone numbers will be used for notification of information pertaining to the conferences you register for or express interest in.  
-   
-Postal addresses of attendees and registrants will be used to promote other InfoWorld and IDG products and services, and may be rented to selected outside firms for promotional purposes. When the attendee has given permission, his e-mail address may be shared with sponsors or rented to other firms for promotional purposes. Offers for which the names are rented are carefully reviewed, and renters are required to target their offers carefully. All mailings are sent by InfoWorld and IDG, through our contracted e-mail delivery service. InfoWorld and IDG may transfer e-mail addresses to outside firms, but would do so ONLY for the purpose of complying with a recipient's request to no longer receive third party e-mail from selected advertisers. Attendees andregistrants may remove their name from the promotional list for events by e-mailing us at: [eventprivacy@infoworld.com](mailto:eventprivacy@infoworld.com)  
-   
-Credit card information is gathered through a secure server.  
-   
- **COMMENTS**  
-   
-  
-   
-If you have any questions or comments about this privacy policy, please send e-mail to: [privacy@infoworld.com](mailto:privacy@infoworld.com)  
-   
+If you have registered with InfoWorld, the information in your "cookie" is used to provide a more personalized experience on our Web site. 
 
+For example, in our forums, a cookie allows us to show you which posted messages are new since your last log-in. You may change your forum registration profile information in our Community Service Center. 
+
+If you haven't registered with our site, we may place a cookie on your system to help provide a more personalized experience on InfoWorld.com. This cookie identifies you as a unique user by means of a tracking ID. However, if you have not registered on our site, we cannot link that user ID with personal identifying information and data about you such as your name or e-mail address. 
+
+Other cookies without personally identifying information and data are used to enable InfoWorld to manage the banner advertisements presented or personalized information to the user. 
+
+Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or, you can use third-party "anonymizer" services to mask information in your cookies, or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered by InfoWorld.com. 
+
+For more information about cookies, head to [Computerworld's Cookies QuickStudy](http://www.computerworld.com/securitytopics/security/story/0,10801,43428,00.html). 
+
+The aggregated information we collect is used for a number of purposes including the following:
+
+  1. to improve the content and design of the InfoWorld Web site 
+  2. to enable our audit bureau to verify our claims of traffic to the site 
+  3. to help advertisers, potential advertisers or marketers assess the suitability of the site for their ad campaigns 
+  4. as clear GIFs, also known as pixel tags, provided by our ad-serving company to help manage online advertising. These clear GIFs let our ad-serving company recognize a browser's cookie when a user visits our site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or e-mail address). For more information about our ad-serving company or for your choices about not having this anonymous information used, please visit www.doubleclick.net 
+  5. InfoWorld has contracted with DoubleClick to serve all advertising on www.infoworld.com, both on the Web site itself and through its e-mail newsletters. When DoubleClick is serving ads, it recognizes certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider and time zone. DoubleClick also uses cookies to note the general content of the sites that users visit over time in order to serve ads on this site and other sites. Any pages a user calls up on www.infoworld.com aren't connected with personally identifiable information collected either at www.infoworld.com or elsewhere. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit www.doubleclick.net/privacy_policy. We use web metric vendors to gather information to help us understand how users utilize our websites and other electronic products. 
+  6. We may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers, on behalf of InfoWorld, its sister IDG companies, or select organizations. 
+
+Postal addresses, and other personally identifying information and data will be used to promote InfoWorld and other IDG companies' products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.   
+Telephone numbers of InfoWorld print subscribers registered users are used by InfoWorld to collect re-qualification data and may be used by InfoWorld, IDG and other IDG companies, affiliates and it's advertisers for promotional purposes. InfoWorld may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully. 
+
+Fax numbers of InfoWorld print subscribers registered users are used by InfoWorld to collect re-qualification data and may be used for surveys for InfoWorld and third parties. Except as set forth in this policy no fax numbers are rented and/or licensed to outside firms. 
+
+E-mail addresses of InfoWorld print subscribers registered users are used for re-qualification purposes. These e-mail addresses may also be used to collect feedback by members of our editorial or research team, to promote InfoWorld and IDG products and services, and they may be rented to other firms and/or licensed for promotional purposes. When you provide your email address to us, you agree to receive email from InfoWorld and its sister IDG companies, and the IDG Network. We allow users to "opt-out" of receiving e-mail from outside firms, however, when e-mail information is collected and with each e-mail use of the user's address you can "opt-out" of receiving further e-mail from outside firms, InfoWorld, its sister IDG companies and the IDG Network . If a user does not choose to "opt-out" at the time the e-mail address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully. Users who later decide they want to change their preferences may do so at <http://www.omeda.com/cgi-win/ifwd.cgi?contacts>
+
+Personal identifying information submitted on portions of our site developed with outside third parties may be shared with those third parties, and the information will be governed by those parties' privacy policies as well as InfoWorld's. InfoWorld, nor any of its parent companies or any of its subsidiaries or affiliates do not bear any responsibility for any actions or policies of such third parties. 
+
+InfoWorld users should be aware that when they disclose personal identifying information (e.g., user name, address, company name, telephone number, demographic information, buying information, other data and E-mail address) in discussion forums, chat rooms or other areas that are publicly accessible by others, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. InfoWorld nor its parent company or any of its subsidiaries or affiliates are not responsible for any information that you provide in the above areas. In the event that the ownership of InfoWorld or any of its products are sold or transferred all lists and data which contain personally identifying information and data including, for example, user name, address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner. 
+
+2\. PRINT SUBSCRIBER AND "AUTO REGISTER" PRIVACY POLICY
+
+InfoWorld collects personally identifying information and data about individuals their company and the company's demographics ("personally identifying information and data") (i) when you provide information to InfoWorld, such as when you register or sign up for any of our products such as publications, subscriptions, RSS Feeds, web casts, White Papers, online seminars, conferences emails, contests, newsletters, memberships and other communications with InfoWorld. (ii) when you register or sign up on the InfoWorld site or when you register for any other IDG Publishing Network products individually or through "auto register", your information will be known to InfoWorld and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to InfoWorld.   
+Below is the current policy regarding the usage of personally identifying information and data collected by InfoWorld. We reevaluate this policy on an ongoing basis based on feedback from readers. InfoWorld reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that are different from that stated at the time of collection, we will notify you by posting a notice on our website. 
+
+Subscribers and applicants for InfoWorld Print subscriptions are asked to complete a questionnaire with personally identifying information and demographics. The data is used in a number of ways including the following:
+
+  1. to improve the content of InfoWorld 
+  2. to notify subscribers about re-qualification and renewal 
+  3. used by us for marketing InfoWorld products and services 
+  4. used by our audit bureau to verify cumulative demographic statistics 
+  5. used by InfoWorld, IDG, its subsidiaries and its affiliates and IDC for research surveys 
+  6. used by Editorial for consultation with readers
+
+Postal addresses, and other personally identifying information and data will be used to promote InfoWorld and IDG products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the names are rented and/or licensed for use and the users are required to target their offers carefully. 
+
+Telephone numbers of InfoWorld print subscribers are used by InfoWorld to collect re-qualification data and may be used by InfoWorld, IDG, its subsidiaries and affiliates, their advertisers for promotional purposes. InfoWorld may rent and/or license for use telephone numbers to selected outside firms for promotional purposes. Offers for which the telephone numbers are rented and/or licensed for use require users to target their offers carefully. 
+
+Fax numbers of InfoWorld print subscribers are used by InfoWorld to collect re-qualification data and may be used for surveys for InfoWorld, IDG and its affiliates and third parties. Except as set forth in this policy, no fax numbers are rented and/or licensed to outside firms. 
+
+E-mail addresses of InfoWorld print subscribers are used for re-qualification purposes. These e-mail addresses may also be used to collect feedback from subscribers by members of our editorial or research team, to promote InfoWorld and IDG products and services, and they may be rented and/or licensed to other firms for promotional purposes. When you provide your email address to us, you agree to receive email from InfoWorld, its sister IDG companies and the IDG Network. We allow users to "opt-out" of receiving e-mail from outside firms, however, when e-mail information is collected and with each e-mail use of the user's address you can "opt-out" of receiving further email from outside firms, InfoWorld and its sister IDG companies. If a user does not "opt-out" at the time the e-mail address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully. 
+
+In the event that the ownership of InfoWorld or any of its products are sold the all lists and data which contain personally identifying information and data including, for example, user name, address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner. 
+
+Print Subscribers or applicants who do not want their names used in any of the above ways may write and ask to be removed from the promotion list. Requests should be sent to:   
+InfoWorld  
+P.O. Box 3500  
+Northbrook, IL 60065-3500
+
+3\. IDG PUBLISHING NETWORK ONLINE REGISTRATION PRIVACY POLICY
+
+Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website. 
+
+**About the IDG Publishing Network**  
+The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including Bio-IT World, CIO, CSO, Darwin, InfoWorld, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes bio-itworld.com, cio.com, csoonline.com, InfoWorld.com, darwinmag.com, health-itworld.com, nwfusion.com, macworld.com, maccentral.com, pcworld.com and gamepro.com. A complete listing is available at www.idg.com. 
+
+To access restricted content on any IDG Publishing Network web site you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and to send you email. However, other forms of communication, including postal mail, may be directed to you pursuant to the site's specific privacy policy, as may be updated from time to time. 
+
+You can update or change the identifying information you provided during registration at any time by clicking the link to access your IDG Publishing Network profile. The profile can be accessed from any IDG Publishing Network site. You also at any time may request not to receive further email from the editor and publisher of an IDG Publishing Network site or from third parties they approve by updating your IDG Publishing Network profile on the given site. You can also "opt-out" of receiving further email by clicking the appropriate links that appear at the bottom of any email you receive. If you do not want to receive other types of communication, including as applicable, postal mail, from the editor and publisher of the site, please refer to the site's privacy policy for the procedure to follow. 
+
+The IDG Publishing Network is intended for individuals over the age of 13 years old. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under that age of 18 may conduct any transactions for the purposes or purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network. 
+
+If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to [IDGNetwork@idg.com](mailto:IDGNetwork@idg.com) or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109. 
+
+_Last updated: Thursday, October 27, 2005._
