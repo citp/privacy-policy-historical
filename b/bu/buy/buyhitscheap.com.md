@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyhitscheap.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202083043id_/http%3A//www.buyhitscheap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyhitscheap.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229065848id_/http%3A//buyhitscheap.com/privacy.php%3FSSID%3D233e5c034e9a41857b303cd73278d7ba) for the most accurate reproduction.*
 
 # BuyHitsCheap.com : Real Website Visitors, Guaranteed.
 
@@ -9,17 +9,17 @@
 
 Send up to one million real people directly to your website or online advertisement in one month. Watch your stats grow in real-time with our Client Control Panel!
 
-**[Learn More](https://web.archive.org/web/20040202083043id_/http%3A//www.buyhitscheap.com/traffic.php?PHPSESSID=0249bb3138360397755f0dd6a7223289)** **     [Order Now](https://web.archive.org/web/20040202083043id_/http%3A//www.buyhitscheap.com/order.php?PHPSESSID=0249bb3138360397755f0dd6a7223289)** ** Regional Traffic**
+**[Learn More](https://web.archive.org/web/20051229065848id_/http%3A//buyhitscheap.com/traffic.php?SSID=7b1fc0fd81c7e054dbcb5a6a79e12c41)** **     [Order Now](https://web.archive.org/web/20051229065848id_/http%3A//buyhitscheap.com/order.php?SSID=7b1fc0fd81c7e054dbcb5a6a79e12c41)** ** Regional Traffic**
 
 Need to market your website to a specific audience? We will deliver quality web traffic based on the country of web visitor that you choose. Choose from 4 Regional categories.
 
-**[Learn More](https://web.archive.org/web/20040202083043id_/http%3A//www.buyhitscheap.com/traffic_regional.php?PHPSESSID=0249bb3138360397755f0dd6a7223289)** **     [Order Now](https://web.archive.org/web/20040202083043id_/http%3A//www.buyhitscheap.com/order.php?PHPSESSID=0249bb3138360397755f0dd6a7223289)** **Questions & Answers**
+**[Learn More](https://web.archive.org/web/20051229065848id_/http%3A//buyhitscheap.com/traffic_regional.php?SSID=7b1fc0fd81c7e054dbcb5a6a79e12c41)** **     [Order Now](https://web.archive.org/web/20051229065848id_/http%3A//buyhitscheap.com/order.php?SSID=7b1fc0fd81c7e054dbcb5a6a79e12c41)** **Questions & Answers**
 
 Q. What is a "Unique Visitor"? 
 
 A. Unique visits are counted when someone views a web page for the first time. 
 
-**[Read More](https://web.archive.org/web/20040202083043id_/http%3A//www.buyhitscheap.com/faq.php?PHPSESSID=0249bb3138360397755f0dd6a7223289)** ****
+**[Read More](https://web.archive.org/web/20051229065848id_/http%3A//buyhitscheap.com/faq.php?SSID=7b1fc0fd81c7e054dbcb5a6a79e12c41)** ****
 
 | 
 
