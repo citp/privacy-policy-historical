@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303171008id_/http%3A//www.fredericks.com/services/help.asp%3F75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229225836id_/http%3A//www.fredericks.com/services/help.asp%3F75) for the most accurate reproduction.*
 
 # Frederick's of Hollywood - Help
 
@@ -114,7 +114,7 @@ Top
 
 The only way you will receive promotional emails from fredericks.com is if you have signed up as a member of our exclusive [Newsletter](https://web.archive.org/services/newsletter.asp). When you sign up for the newsletter, you will receive a weekly email giving you "member only" benefits such as product discounts, early order privileges for hot new merchandise and sneak peeks at fashions that reflect the newest trends in the intimate apparel industry. 
 
-You may update or correct information in your newsletter profile at any time (for example, if you change your e-mail address.) You also may unsubscribe from our mailing list by replying to any newsletter e-mail with a blank message. To update your information or to unsubscribe, go to the [Newsletter signup page](https://web.archive.org/services/newsletter.asp).   
+You may update or correct information in your newsletter profile at any time (for example, if you change your e-mail address.) You also may unsubscribe from our mailing list by replying to any newsletter e-mail with a blank message. To be unsubscribed from any list or prospecting list, go to the [Email Unsubscribe Page](https://web.archive.org/services/unsubscribe.asp).   
 Top  
 
 
