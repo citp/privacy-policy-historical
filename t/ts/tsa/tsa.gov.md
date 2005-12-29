@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsa.gov privacy policy that was archived on 2005-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050521083242id_/http%3A//www.tsa.gov/public/interapp/asset_summary/asset_summary_multi_image_with_table_0226.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsa.gov privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229090304id_/http%3A//www.tsa.gov/public/interapp/asset_summary/asset_summary_multi_image_with_table_0226.xml) for the most accurate reproduction.*
 
 # TSA | Transportation Security Administration | Privacy Policy
 
