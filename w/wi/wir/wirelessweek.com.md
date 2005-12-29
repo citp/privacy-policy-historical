@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wirelessweek.com privacy policy that was archived on 2005-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050315092648id_/http%3A//www.wirelessweek.com/index.asp%3Flayout%3Dinside_wireless%26industryid%3D1453%26industry%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessweek.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230001240id_/http%3A//www.wirelessweek.com/info/CA513927.html) for the most accurate reproduction.*
 
-# WirelessWeek.com
+# Privacy Policy - 3/30/2005 11:09:00 AM - Wireless Week - CA513927
 
 Last updated: July 17, 2002
 
@@ -49,10 +49,10 @@ General
 
 We use Personally Identifiable Information that we collect on this Site for the following purposes:
 
-  * To provide you with this Site and other products and services, such as electronic and print publications and newsletters. 
-  * To respond to your inquiries and contact you about changes regarding the Site. 
-  * To provide you with e-mail, fax and other notices (such as expiration and renewal notices) and inquiries regarding your account and the products or services that you are receiving, and for billing and collection purposes. 
-  * For any other purpose disclosed at the time the information is collected or to which you consent. 
+  * To provide you with this Site and other products and services, such as electronic and print publications and newsletters.
+  * To respond to your inquiries and contact you about changes regarding the Site.
+  * To provide you with e-mail, fax and other notices (such as expiration and renewal notices) and inquiries regarding your account and the products or services that you are receiving, and for billing and collection purposes.
+  * For any other purpose disclosed at the time the information is collected or to which you consent.
   * As otherwise specifically described in this Privacy Policy.
 
 
@@ -81,8 +81,8 @@ We also may disclose your information to third parties that wish to market produ
 
 The only other times we may disclose your Personally Identifiable Information collected on this Site are as follows:
 
-  * In the event of an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site, we may transfer some or all User information, including Personally Identifiable Information, to the successor company. 
-  * We will disclose your Personally Identifiable Information when we believe such disclosure is required by law or for the protection of persons or property. 
+  * In the event of an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site, we may transfer some or all User information, including Personally Identifiable Information, to the successor company.
+  * We will disclose your Personally Identifiable Information when we believe such disclosure is required by law or for the protection of persons or property.
   * We may disclose your Personally Identifiable Information with your consent, as well as when disclosure is necessary to accomplish the purpose for which you provide it. For example, when you request information from advertisers in the 'Reader Services' section of our publications, we will disclose your Personally Identifiable Information to the advertisers you specify.
 
 
