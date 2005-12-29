@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401234331id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229060446id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Discountcell.com
 
 ## About Us
 
-This is a privacy policy for Discountcell.com. Our homepage on the Web is located at [ http://www.discountcell.com](http://www.discountcell.com/). The full text of our privacy policy is available on the Web at [ http://www.discountcell.com/privacy.htm](http://www.discountcell.com/privacy.htm) This policy does not tell users where they can go to exercise their opt-in or opt-out options. 
+This is a privacy policy for Discountcell.com. Our homepage on the Web is located at [ http://www.discountcell.com](http://www.discountcell.com/). 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
     
@@ -19,7 +19,7 @@ You may contact us by e-mail at [ Info@discountcell.com](mailto:Info@discountcel
 
 ## Dispute Resolution and Privacy Seals
 
-We have no privacy seals or other assurance mechanisms. 
+We are a member of the Better Business Bureau and in good standing as well as allow customers to rate us through Bizrate.com. 
 
 ## Additional Information
 
@@ -48,7 +48,7 @@ This data will be used for the following purposes:
 
 
 
-This data will be used by ourselves and our agents. 
+This data will be used by ourselves and our agents (only those necessary to complete the order such as the shipping company). 
 
 The following explanation is provided for why this data is collected:
 
@@ -71,7 +71,7 @@ This data will be used for the following purposes:
 
 
 
-This data will be used by ourselves and our agents. 
+This data will be used by ourselves only. 
 
 The following explanation is provided for why this data is collected:
 
@@ -79,7 +79,7 @@ The following explanation is provided for why this data is collected:
 
 * * *
 
-### Group "Transaction info (required)"
+### Group "Transaction info (required if placing order)"
 
 We collect the following information: 
 
@@ -92,7 +92,7 @@ We collect the following information:
 
 This data will be used for the following purposes:
 
-  * Completion and support of the current activity.
+  * Completion and support of the order placed.
   * Research and development.
 
 
@@ -109,7 +109,7 @@ The following explanation is provided for why this data is collected:
 
 * * *
 
-### Group "Transaction info (optional)"
+### Group "Transaction info (optional as only necessary when placing order)"
 
 At the user's option, we will collect the following data: 
 
@@ -122,7 +122,7 @@ At the user's option, we will collect the following data:
 
 This data will be used for the following purposes:
 
-  * Contacting visitors for marketing of services or products.
+  * Completion and support of the order placed..
 
 
 
@@ -156,12 +156,12 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 The compact policy which corresponds to this policy is: 
     
     
-        CP="IDC CURa ADMa DEVa TAIa CONa OUR DELa BUS IND PHY ONL UNI PUR COM NAV DEM STA"
+        CP="IDC CURa ADMa AIa OUR DELa BUS UNI PUR COM NAV STA"
     
 
 The following table explains the meaning of each field in the compact policy. 
 
-**Field**|  **Meaning**  
+| **Field**|  **Meaning**  
 ---|---  
 `CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
 `IDC` |  Access is available to contact information.   
@@ -186,58 +186,3 @@ The following table explains the meaning of each field in the compact policy.
 The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
 
 * * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Unsatisfactory policy** : this compact policy is considered _unsatisfactory_ according to the rules defined by Internet Explorer 6. The behavior of Internet Explorer 6 regarding cookies set under this compact policy is as follows: 
-
-| **First-party usage**|  **Third-party usage**  
----|---|---  
-**Persistent Cookies** | 
-
-  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
-  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **downgraded** to a session cookie. 
-  * **Medium High:** No opt-out is provided, so the cookie will be **blocked**. 
-  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
-
-| 
-
-  * **Low:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **downgraded** to a session cookie. 
-  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **blocked**. 
-  * **Medium High:** Since opt-in is not required, the cookie will be **blocked**. 
-  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
-
-  
-**Session Cookies** | 
-
-  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
-  * **Medium:** Policy satisfactory at this level; cookies will be accepted. 
-  * **Medium High:** Policy satisfactory at this level; cookies will be accepted. 
-  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
-
-| 
-
-  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
-  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **blocked**. 
-  * **Medium High:** Since opt-in is not required, the cookie will be **blocked**. 
-  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
-
-  
-A policy which is considered unsatisfactory by Internet Explorer 6 contains certain categories of data which are used or shared in a particular manner. This policy is placed in the unsatisfactory category, because the following categories of data are associated with this policy's cookies: 
-
-  * Physical contact information is collected. 
-  * Online contact information is collected. 
-
-
-
-In addition, the data is used in the following manner, marking the policy as unsatisfactory: 
-
-  * The data is used for contacting the user. 
-
-
-
-Note that allowing an opt-out will make this policy acceptable under the Low and Medium settings, and under Medium High for first-party cookie usage. At the High setting, and at the Medium High setting for third-party cookies, all of these data uses must be opt-in for the policy to be considered satisfactory. 
