@@ -1,23 +1,8 @@
-> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610211308id_/http%3A//www.linkgrinder.com//privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229234746id_/http%3A//www.linkgrinder.com//privacy.cfm) for the most accurate reproduction.*
 
-# Gnutella Grinder - Free Engine for Fast Searching of Shared Files on the Gnutella Peer to Peer Network - Find what you want FAST! Gnutella, MP3, DIVX, Shareware, Music, Movies, Film, Search Engine,Links,Free Advertising,Free Links,Hot Links, banner, ad, Recreation Genres Documentation Employment Comics and Animation Graphics Pharmacy Genres Graphics Toys
-
-| 
+# LinkGrinder - Privacy Policy A searchable, browsable, archive of articles about everything under the sun. Articles, news, information,tutorials, how-to, instruction
 
 LinkGrinder is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time so please check back periodically. 
-
-**This policy will let you know:**
-
-    1\. What personally identifiable information is collected from you; 
-    2\. What cookies are and how they are used; 
-    3\. How your information is used; 
-    4\. Who is collecting your information; 
-    5\. With whom your information may be shared; 
-    6\. What choices are available to you regarding collection, use, and distribution of your information; 
-    7\. How you can access, update or delete your information; 
-    8\. How LinkGrinder treats your personal financial and health-related information; 
-    9\. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information; 
-    10\. What else you should know about your online privacy.
 
 **What personally identifiable information does LinkGrinder collect?**
 
