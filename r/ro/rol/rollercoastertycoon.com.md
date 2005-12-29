@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollercoastertycoon.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527040100id_/http%3A//atari.com/us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollercoastertycoon.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229061338id_/http%3A//atari.com/us/privacy_policy.php) for the most accurate reproduction.*
 
 # Atari - US - Privacy
 
