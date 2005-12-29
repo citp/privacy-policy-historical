@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404101801id_/http%3A//www.nhs.uk/england/privacyStatement.cmsx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229072124id_/http%3A//www.nhs.uk/england/privacyStatement.cmsx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,11 +16,11 @@ It does this by adding a cookie to your computer that stores these favourite lin
 
 A cookie is a small piece of data that a website transfers to the user's hard drive while they are visiting a particular website. It contains simple information about the user's identity but no personal information.
 
- **WebTrends Live cookies**
+ **WebTrends cookies**
 
-Usage of the nhs.uk website is monitored through WebTrends Live. A WebTrends cookie is placed on to the user's hard drive when they visit nhs.uk. The cookie does not collect personal identifiable information such as name, age, phone number, e-mail address etc. This cookie is not removed when the browser is closed. This is because it is used to measure the number of users that return to the nhs.uk website. It is WebTrends Live's policy to use cookies only to collect anonymous visitor information like IP address, browser type (such as Internet Explorer or Netscape), referring pages, pages visited and time spent on the website in order to monitor traffic on the nhs.uk website. 
+Usage of the nhs.uk website is monitored through WebTrends. A WebTrends cookie is placed on to the user's hard drive when they visit nhs.uk. The cookie does not collect personal identifiable information such as name, age, phone number, e-mail address etc. This cookie is not removed when the browser is closed. This is because it is used to measure the number of users that return to the nhs.uk website. It is WebTrends' policy to use cookies only to collect anonymous visitor information like IP address, browser type (such as Internet Explorer or Netscape), referring pages, pages visited and time spent on the website in order to monitor traffic on the nhs.uk website. 
 
-Refer to the WebTrends Live Privacy Policy to learn how they collect and use information. You can find [WebTrends Live's Privacy Policy](http://www.webtrendslive.com/privacy_policy.htm "WebTrends Live's Privacy Policy") here. 
+Refer to the WebTrends Privacy Policy to learn how they collect and use information. You can find [WebTrends Live's Privacy Policy](http://www.webtrends.com/AboutWebTrends/PrivacyPolicy.aspx?promo=TI_silopriv_FT "WebTrends Live's Privacy Policy") here. 
 
 **Notification of changes**
 
