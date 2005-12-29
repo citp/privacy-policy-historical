@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oldhouseweb.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507083156id_/http%3A//www.oldhouseweb.com/stories/Detailed/997.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldhouseweb.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229234911id_/http%3A//www.oldhouseweb.com/stories/Detailed/997.shtml) for the most accurate reproduction.*
 
-# Our privacy policy We strive to protect your personal privacy. Here are the policies we follow.
+# Our privacy policy - Oldhouseweb.com
 
 Thank you for visiting The Old House Web. Your privacy is important to us. We will endeavor to respect and protect it.
 
