@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306161907id_/http%3A//www.blessings.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229015042id_/http%3A//blessings.com/priv.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,7 +22,7 @@ All credit card transactions are processed using SSL with 128 bit encryption by 
 
 Privacy Statement
 
-We at Blessings Christian Marketplace will not give out phone numbers or emails to other organizations or individuals. On very rare occasions we may send you information from reputable Christian organizations, but we go to great lengths to ensure that this is always deemed to be in our customer's best interests. If you do not wish to receive these mailings you may request that your name be added to our Do Not Share list by emailing us at [Name](mailto:blessingscm@blessings.com).
+We at Blessings Christian Marketplace will not give out phone numbers or emails to other organizations or individuals. On very rare occasions we may send you information from reputable Christian organizations, but we go to great lengths to ensure that this is always deemed to be in our customer's best interests. If you do not wish to receive these mailings you may request that your name be added to our Do Not Share list by emailing us at [blessingscm@blessings.com](mailto:blessingscm@blessings.com).
 
 The information that Blessings Christian Marketplace maintains belongs to our customers. It is always available for viewing by the customer.
 
