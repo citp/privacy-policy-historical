@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402005033id_/http%3A//wirelessemporium.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229021851id_/http%3A//www.wirelessemporium.com/privacy.asp) for the most accurate reproduction.*
 
 # Cell phone accessories call in for discount on Faceplate Battery Hands-Free and Headsets by Wirelessemporium
 
