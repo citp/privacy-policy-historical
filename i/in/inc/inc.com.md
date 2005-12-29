@@ -1,6 +1,37 @@
-> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205213249id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229124137id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
 
-# Inc.com | Privacy Statement
+# Privacy Statement
+
+* * *
+
+[](http://www.inc.com/)
+
+### _The_ Resource for Growing Companies
+
+  * [home](http://www.inc.com/)
+  * [magazine](http://www.inc.com/magazine/)
+  * [articles by topic](http://www.inc.com/articles/)
+  * [how-to](http://www.inc.com/guides/)
+  * [tools](http://www.inc.com/tools/)
+  * [inc500](http://www.inc.com/inc500/)
+  * [events](http://www.inc.com/events/)
+  * [services](http://www.inc.com/services/)
+  * [blog](http://blog.inc.com/)
+
+
+
+#### Current Issue
+
+[](http://trax.inc.com/k/w/sub/cover)
+
+  * [**SUBSCRIBE NOW!** ›](http://trax.inc.com/k/w/sub/cover)
+  * [renew ›](http://trax.inc.com/k/w/sub/renew)
+  * [current issue ›](http://www.inc.com/magazine/)
+  * [contact us ›](http://www.inc.com/about/contact_us.html)
+
+
+
+* * *
 
 Inc.com is committed to maintaining the trust of our users. This statement explains how we collect information from you and what we do with that information.
 
@@ -14,8 +45,6 @@ When you sign up to receive an Inc.com newsletter, you will be asked for your E-
 
 Unless you opt out, we may use your registration information to send you promotional materials that we think may interest you.
 
-We do not provide or sell usernames, E-mail addresses, or registration information to any outside organization.
-
 ### Cookies
 
 Cookies are small text files that most Web sites, including Inc.com, place on your computer. Cookies help us identify your interests. They also prevent you from having to register repeatedly on Inc.com or from repeatedly seeing the same ads.
@@ -24,11 +53,11 @@ Cookies delivered to you through banner ads are collected by our advertisers. We
 
 ### Shared Information
 
-Except as described above or as expressly stated at the time you provide information to Inc.com, Inc.com does not provide individual information about you to others. We do, however, receive information on individual users from our partners, who have assured us that they will notify users of their sites that they do so. You should review the privacy policies of those partner sites to confirm the way in which they handle their users' information.
+You should review the privacy policies of our partner sites to confirm the way in which they handle their users' information.
 
 In those instances where our sharing of information is expressly noted at the time you provide it, we may provide that information to those partners specified in the notice. The use of this information by that partner will then be subject to the partner's privacy policies.
 
-Inc.com may share information gathered from its users, in aggregate form, with others such as advertisers or sponsors. No individual information is provided.
+Inc.com may share information gathered from its users, in aggregate form, with others such as advertisers or sponsors.
 
 ### General Considerations
 
@@ -38,14 +67,12 @@ There may be occasions on which Inc.com is required to provide information by or
 
 Internet-based commerce is dynamic and changing. We may revise our privacy policy in the future to adjust to such changes. We recommend that you check it frequently.
 
-If you have questions or comments on this Privacy Statement, please [contact us](https://web.archive.org/about/contact_us.html) .
+If you have questions or comments on this Privacy Statement, please [contact us](https://web.archive.org/about/contact_us.html).
 
 ### Advertisement
-
-### Subscribe to Inc.
 
 ### Featured Services
 
 ### Advertisement
 
-### Advertisement
+* * *
