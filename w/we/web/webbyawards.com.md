@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420012735id_/http%3A//www.webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Webby Awards
 
-[team](https://web.archive.org/web/20050420012735id_/http%3A//www.webbyawards.com/about/team.php)  
-[history](https://web.archive.org/web/20050420012735id_/http%3A//www.webbyawards.com/about/history.php)  
-[calendar](https://web.archive.org/web/20050420012735id_/http%3A//www.webbyawards.com/about/calendar.php)  
-[lectures](https://web.archive.org/web/20050420012735id_/http%3A//www.webbyawards.com/about/lectures.php)  
-[011](https://web.archive.org/web/20050420012735id_/http%3A//www.webbyawards.com/about/011.php)  
-[contact us](https://web.archive.org/web/20050420012735id_/http%3A//www.webbyawards.com/about/contact.php)
+[team](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/team.php)  
+[history](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/history.php)  
+[calendar](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/calendar.php)  
+[lectures](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/lectures.php)  
+[011](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/011.php)  
+[contact us](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/contact.php)
 
 Want to tell a friend about the Webby Awards? Click here.
 
@@ -48,13 +48,13 @@ When you submit a site(s), we need to know your name, email address, phone numbe
 When you sign up for The 011, we collect only an email address to deliver the requested information.  
   
 **Voting for The People's Voice Awards**  
-When you register to vote for The People's Voice Awards we collect a name and an email address to establish a unique identifier for each voter. This lets us provide maximum security against "ballot stuffing" and helps us notify voters with information pertaining to The People's Voice Awards. We will also use your email address to send you a reminder email to participate in the Webby Awards each year. If you do not wish to receive this reminder, you may email techsupport@webbyawards.com and ask to be taken off the mailing list. You will also have the opportunity to opt-in to receive occasional information from our partners. If you wish to stop receiving this information, you may unsubscribe from the link at the bottom of the email from our partner, or email techsupport@webbyawards.com and ask to be taken off the mailing list.  
+When you register to vote for The People's Voice Awards we collect a name and an email address to establish a unique identifier for each voter. This lets us provide maximum security against "ballot stuffing" and helps us notify voters with information pertaining to The People's Voice Awards. We will also use your email address to send you a reminder email to participate in the Webby Awards each year. If you do not wish to receive this reminder, you may email jcollins@webbyawards.com and ask to be taken off the mailing list. You will also have the opportunity to opt-in to receive occasional information from our partners. If you wish to stop receiving this information, you may unsubscribe from the link at the bottom of the email from our partner, or email jcollins@webbyawards.com and ask to be taken off the mailing list.  
   
 **Tell a Friend Notifications**  
 When you request a notification to be sent to your friend, we ask you for your name, email address and your friend's name and email address. We do not use this information for any other purpose than to send your friend notifications about the Webby Awards.  
   
 **Contests and Promotional Features**  
-When you enter a contest or other promotional feature, we may ask for your name, address, and email address so we can administer the contest and notify winners. In some cases we offer you the opportunity to receive information about new services, special offers and other news that you might find valuable. To receive such notifications you must opt-in to the distribution list. If at any time you choose to opt-out of receiving such notifications you may do so by sending your request to: [techsupport@webbyawards.com](mailto:techsupport@webbyawards.com).  
+When you enter a contest or other promotional feature, we may ask for your name, address, and email address so we can administer the contest and notify winners. In some cases we offer you the opportunity to receive information about new services, special offers and other news that you might find valuable. To receive such notifications you must opt-in to the distribution list. If at any time you choose to opt-out of receiving such notifications you may do so by sending your request to: [jcollins@webbyawards.com](mailto:jcollins@webbyawards.com).  
   
 **Technical Information**  
 We also collect the following technical information about you when you visit our Web site: modem speed, login id, password, the prior Web site you visited, the following Web site you visit, the time you spend browsing the site, the number of banner advertisements you click, keyword searches you conduct, your IP (Internet Protocol) address, your browser type, your operating system, your computer type, your Internet service provider and time stamps.  
@@ -62,7 +62,7 @@ We may use this personal information to improve our services to you and to custo
 
 How can you edit your personal information?
 
-You may change your personal information at any time by emailing techsupport@webbyawards.com and describing the changes you would like to make.
+You may change your personal information at any time by emailing jcollins@webbyawards.com and describing the changes you would like to make.
 
 How does The Webby Awards protect customer information?
 
@@ -75,7 +75,7 @@ A cookie - a small text file placed on a user's hard drive - is generated by a s
 People's Voice Voting
 
 **Reviews**  
-Please note that as part of the People's Voice Voting, users will be able to write reviews directly relating to the nominated websites only. To change any aspect of your review, or to report a review that you feel is inappropriate, please contact us at: [techsupport@webbyawards.com](mailto:techsupport@webbyawards.com).
+Please note that as part of the People's Voice Voting, users will be able to write reviews directly relating to the nominated websites only. To change any aspect of your review, or to report a review that you feel is inappropriate, please contact us at: [jcollins@webbyawards.com](mailto:jcollins@webbyawards.com).
 
 **Voting**  
 People's Voice Voting is open to all Internet users. To vote, you must register at least your email address and name. Once registration is complete, you will be sent a confirmation email with your login password. You are able to submit only one vote in each category.
@@ -84,11 +84,11 @@ People's Voice Voting is open to all Internet users. To vote, you must register 
 You are not able to change your vote in any category once you have submitted your vote.
 
 **Voting Confirmation**  
-To review and confirm your votes in People's Voice, please review the "Ballot Scorecard" page once you have registered. Please contact us at techsupport@webbyawards.com if you have any questions regarding your votes. 
+To review and confirm your votes in People's Voice, please review the "Ballot Scorecard" page once you have registered. Please contact us at jcollins@webbyawards.com if you have any questions regarding your votes. 
 
 Will the Webby Awards disclose the information it collects to outside parties?
 
-The Webby Awards does not sell or share your personal information to others. If you submit a site in our Call for Entries, we do allow our partners to provide you with news and special offers. However, we do not share your personal information with our partners and maintain control of your information at all times. If at any time you choose not to receive such notifications you may do so by sending your request to: techsupport@webbyawards.com or simply unsubscribe from the link at the bottom of the email. The Webby Awards may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
+The Webby Awards does not sell or share your personal information to others. If you submit a site in our Call for Entries, we do allow our partners to provide you with news and special offers. However, we do not share your personal information with our partners and maintain control of your information at all times. If at any time you choose not to receive such notifications you may do so by sending your request to: jcollins@webbyawards.com or simply unsubscribe from the link at the bottom of the email. The Webby Awards may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
 
 Your consent
 
