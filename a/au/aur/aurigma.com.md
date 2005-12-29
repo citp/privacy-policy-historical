@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the aurigma.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611072349id_/http%3A//www.aurigma.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurigma.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229133401id_/http%3A//aurigma.com/About/Privacy.aspx) for the most accurate reproduction.*
 
-# Aurigma - Privacy Statement
-
-| 
-
-#### Privacy Statement
+# Aurigma - Privacy Policy
 
 You take online privacy seriously, and so does Aurigma Inc./EveryThingCyber ("Aurigma/ETC"). It's our way of sustaining your trust in Aurigma/ETC as well as in our products and services.
 
-We can revise and update our privacy practices from time to time and we reserve the right to do so without any notice to you so you should visit this page occasionally to review our then-current privacy practices because they are binding on you. All updates will be published at this site. Your continued use of this site shall be considered your consent to any revised privacy practices.
+We can revise and update our privacy practices from time to time and we reserve the right to do so without any notice to you so you should visit this page occasionally to review our then-current privacy practices because they are binding on you. All updates will be published on this site. Your continued use of this site shall be considered your consent to any revised privacy practices.
 
 ##### Non-Personal Information
 
@@ -16,11 +12,11 @@ In general, you can visit our site on the World Wide Web without telling us who 
 
 ##### Personal Information
 
-Aurigma/ETC may ask you to register and provide information that personally identifies you, such as name, e-mail address, mailing address or phone number ("Personal Information"). This will occur for example before purchasing our software or some other cases. We use your Personal Information for three primary purposes: 
+Aurigma/ETC may ask you to register and provide information that personally identifies you, such as name, e-mail address, mailing address or phone number ("Personal Information"). This will occur for example before purchasing our software or in some other cases. We use your Personal Information for three primary purposes:
 
-  1. To enable you to find or gain access to information, software or services on our web site. 
-  2. To register your license and rights, if any, to technical support. 
-  3. To allow us to inform you of product updates and upgrades, special offers, new services and products, as well as updated information that may be made available to registered users. 
+  1. To enable you to find or gain access to information, software or services on our web site.
+  2. To register your license and rights, if any, to technical support.
+  3. To allow us to inform you of product updates and upgrades, special offers, new services and products, as well as updated information that may be made available to registered users.
 
 
 
@@ -34,8 +30,6 @@ If you don't want us to send you e-mail notifications regarding Aurigma/ETC's pr
 
 ##### What Information Do We Collect?
 
-The type of information we maintain on our secure Personal Information server falls into two categories. The first is general information about you such as name, phone, e-mail address, company name, etc. The second is product-specific information that enables us to customize information for you depending on which of our products or services you have purchased or registered. Our Technical Support Department also utilizes this information when you contact it.
+The type of information we maintain on our secure Personal Information server falls into two categories. The first is general information about you such as name, phone, e-mail address, company name, etc. The second is product-specific information that enables us to customize information for you depending on which of our products or services you have purchased or registered. Our Technical Support Department also utilizes this information when you contact us.
 
-Please feel free to contact us (to [info@aurigma.com](mailto:info@aurigma.com)) with any questions, comments, or problems that might arise.
-
-| 
+Please feel free to contact us (at [info@aurigma.com](mailto:info@aurigma.com)) with any questions, comments, or problems that might arise.
