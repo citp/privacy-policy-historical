@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2005-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050530011757id_/http%3A//www.aplus.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229082534id_/http%3A//www.aplus.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -43,4 +43,6 @@ San Diego, CA. 92121
 ---|---  
 _Note: Adobe Reader is required to view this file. If you do not have this plugin, please download Adobe Reader[ _here_](http://www.adobe.com/products/acrobat/readstep.html)._  
 |   
----
+---  
+  
+Web hosting. Domain hosting. Web design. Low prices. Best value. Aplus.Net has it all! We offer award-winning and affordable web hosting, dedicated server web hosting, web design, e-commerce hosting and other Internet presence solutions. Our cheap yet powerful Internet web hosting services make Aplus.Net the best web host for your web site. With any web hosting account Aplus.Net provides quality web services. So if you want affordable web hosts, cheap yet powerful servers, get your website hosted with Aplus.Net! 
