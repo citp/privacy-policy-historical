@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614070256id_/http%3A//www.casa.gov.au/tools/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229060819id_/http%3A//www.casa.gov.au/tools/privacy/index.htm) for the most accurate reproduction.*
 
 # CASA web site - Privacy statement
 
@@ -20,4 +20,4 @@ Civil Aviation Safety Authority
 GPO Box 2005  
 Canberra ACT 2601 
 
-or by email to [info@casa.gov.au](mailto:info@casa.gov.au)
+or by [web form](https://web.archive.org/corporat/feedback.htm)
