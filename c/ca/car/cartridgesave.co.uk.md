@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartridgesave.co.uk privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406012102id_/http%3A//www.cartridgesave.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartridgesave.co.uk privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229072447id_/http%3A//www.cartridgesave.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Cartridge SAVE -- Privacy Policy
 
