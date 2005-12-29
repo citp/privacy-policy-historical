@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2co.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410041819id_/https%3A//www2.2checkout.com/documentation/privacy_sep1_2004.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2co.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229030450id_/https%3A//www.2checkout.com/documentation/privacy_feb7_2005.htm) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
@@ -16,7 +16,7 @@ The amount, type, and use of information we collect depends on how you use this 
 
  “Non-Identifying Personal Information” includes information about you, including, without limitation, your Internet service provider, browser type, domain name, the Web Site that referred you to us, the web pages you request, the date and time of those requests, and entry and exit points.
 
-“Business Contact Information” includes the name, title, business address, telephone number, or e-mail address of an employee of an organization.  Business Contact Information is not Personal Information.
+“Business Contact Information” includes the name, title, business address, telephone number of an employee of an organization.  Business Contact Information is not Personal Information.
 
 “Aggregated Information” is any information about more than one individual where the individual identities are unknown and cannot be inferred from the information.  Aggregated Information is not Personal Information.
 
@@ -122,6 +122,6 @@ USA
 
 **Effective Date**
 
-This Privacy Statement is effective as of September 1st, 2004. 
+This Privacy Statement is effective as of February 7th, 2005. 
 
-_VERSION 1.0_
+_VERSION 1.1_
