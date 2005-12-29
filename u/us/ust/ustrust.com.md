@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustrust.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308184557id_/http%3A//www.ustrust.com/public/ustrust/global_pages/privacy.html%3Fcmsid%3DP-453212%26lvl1%3Dglobal_pages%26refid%3DP-420932) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustrust.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229132852id_/http%3A//www.ustrust.com/public/ustrust/global_pages/privacy.html%3Fcmsid%3DP-453212%26lvl1%3Dglobal_pages%26refid%3DP-420932) for the most accurate reproduction.*
 
 # Privacy
 
@@ -9,6 +9,7 @@ A Commitment to Your Privacy
 Identity Theft Prevention Program   
 How U. S. Trust Protects Your Identity   
 How You Can Protect Your Identity and Accounts  
+How to Protect Against Phishing  
 What To Do If  You Are A Victim of Identity Theft   
 Other Resources to Learn More about ID theft 
 
@@ -141,6 +142,46 @@ It's also important to protect your computer at home. Here are few best practice
 
 Again, the protection of your account and personal information is very important to U. S. Trust. 
 
+What is Phishing?   
+Phishing is the illegal attempt to mislead consumers into providing personal or financial information, including account numbers, passwords and Social Security numbers, via email or through fraudulent Web sites. 
+
+The most frequent phishing attacks occur through email disguised to appear as though it came from a reputable financial institution or company.   
+Most phishing attempts urge you to update or validate your account information, typically through a link in an email directing you to a fake Web site that appears to be legitimate. 
+
+How to spot a phishing attack   
+There are many phishing attacks active on the Internet. Here are a few of their lines and lures: 
+
+  * An email contains an “urgent” or “shocking” tone requesting your immediate action on an account-related matter. Phishers frequently succeed by getting consumers to act quickly without thinking. 
+  * An email is sent from a user falsely claiming to be a legitimate company with an attachment. An unsolicited email attachment more than likely contains a virus. Do not open it. 
+  * A pop-up window appears from a user falsely claiming to be a legitimate company’s Web site asking for personal information. 
+
+
+
+Protect your identity online 
+
+  * Do not provide your personal or financial information in response to an email request or after clicking on a link from an email. Legitimate companies do not ask for this type of information through an email communication, no matter how official the email may look. 
+  * Do not enter your personal information into a form within an email message or a pop-up. Email messages and pop-ups are not secure. It is never safe to enter your personal information in a form unless it is on a secure web site. 
+  * Do not open an email from a sender you do not recognize that contains an attachment. A legitimate financial institution would not deliver unsolicited attachments. Delete the email with the attachment immediately. 
+  * Check that you are interacting with a secure Web site. Before you submit personal or financial information on a Web site:   
+
+    * Look for the locked padlock or key icon at the bottom of your browser or 
+    * Make sure the web site address begins with https:// instead of http://. The "s" indicates that the site is secure.
+  
+The absence of either of these items will indicate that the site is not secure. If you are unsure of the validity of the email, contact the institution directly - - not via any links in the email.  
+
+  * Keep your browser software up-to-date with security updates.  
+To adequately protect your computer, make sure you have current anti-virus and firewall software installed to help protect your personal information.   
+
+  * Review your account statement carefully. Verify that all transactions are authorized and report any discrepancies immediately. 
+
+
+
+Learn more about phishing scams or identity theft   
+Additional information can be found a www.antiphishing.org or http://www.consumer.gov/idtheft/ 
+
+Need to report a phishing attack?   
+If you suspect you have received a fraudulent email from U.S. Trust, please contact the U.S. Trust Privacy Officer at 212-852-3838. 
+
 What To Do If You Are A Victim of Identity Theft   
 If you are a victim of identity theft, here are some recommended steps: 
 
@@ -149,7 +190,7 @@ If you are a victim of identity theft, here are some recommended steps:
 ---|---|---|---  
 Report Fraud| 800-525-6285| 888-397-3742| 800-680-7289  
 Order Credit Report| 800-525-6285| 888-397-3742| 800-916-8800  
-Web address|  [www.equifax.com](http://www.ustrust.com/redirect/?refid=P-629718&url=http://www.equifax.com/?) |  [www.experian.com](http://www.ustrust.com/redirect/?refid=P-629719&url=http://www.experian.com/?) |  [www.transunion.com](http://www.ustrust.com/redirect/?refid=P-629720&url=http://www.transunion.com/?)  
+Web address|  [www.equifax.com](http://www.ustrust.com/redirect/?refid=P-629718&refpid=P-453212&url=http://www.equifax.com/?) |  [www.experian.com](http://www.ustrust.com/redirect/?refid=P-629719&refpid=P-453212&url=http://www.experian.com/?) |  [www.transunion.com](http://www.ustrust.com/redirect/?refid=P-629720&refpid=P-453212&url=http://www.transunion.com/?)  
 Address| PO Box 740241  
 Atlanta, GA  
 30374-0241| PO Box 9530  
@@ -168,28 +209,29 @@ Fullerton, CA
 
   * **File a complaint with the Federal Trade Commission (FTC).** The FTC handles complaints from victims of identity theft, provides information to those victims, and refers complaints to appropriate entities, including the major credit-reporting agencies and law enforcement agencies.   
 
-  * **By phone:** **877-ID-THEFT**   
+  * **By phone:** **877-ID-THEFT**  
 
-  * **Online Complaint Form:**[www.consumer.gov/idtheft ](http://www.ustrust.com/redirect/?refid=P-629725&url=http://www.consumer.gov/idtheft?)
+  * **Online Complaint Form:**[www.consumer.gov/idtheft ](http://www.ustrust.com/redirect/?refid=P-629725&refpid=P-453212&url=http://www.consumer.gov/idtheft?)
 
 
 
 Other Resources to Learn More about Identity Theft:   
-Federal Trade Commission - IDTheft -- [www.ftc.gov/bcp/conline/pubs/credit/idtheft.htm](http://www.ustrust.com/redirect/?refid=P-629729&url=http://www.ftc.gov/bcp/conline/pubs/credit/idtheft.htm?)
+Federal Trade Commission - IDTheft -- [www.ftc.gov/bcp/conline/pubs/credit/idtheft.htm](http://www.ustrust.com/redirect/?refid=P-629729&refpid=P-453212&url=http://www.ftc.gov/bcp/conline/pubs/credit/idtheft.htm?)
 
 Federal Trade Commission - Phishing -- [www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm   
-](http://www.ustrust.com/redirect/?refid=P-629730&url=http://www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm%20?)  
-Identity Theft Resource center -- [www.privacyrights.org ](http://www.ustrust.com/redirect/?refid=P-629731&url=http://www.privacyrights.org%20?)
+](http://www.ustrust.com/redirect/?refid=P-629730&refpid=P-453212&url=http://www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm%20?)  
+Identity Theft Resource center -- [www.privacyrights.org ](http://www.ustrust.com/redirect/?refid=P-629731&refpid=P-453212&url=http://www.privacyrights.org%20?)
 
-Identity Theft Prevention and Survival -- [www.identitytheft.org ](http://www.ustrust.com/redirect/?refid=P-629733&url=http://www.identitytheft.org%20?)
+Identity Theft Prevention and Survival -- [www.identitytheft.org ](http://www.ustrust.com/redirect/?refid=P-629733&refpid=P-453212&url=http://www.identitytheft.org%20?)
 
-Social Security Administration -- [www.ssa.gov/oig/guidelin.htm](http://www.ustrust.com/redirect/?refid=P-629734&url=http://www.ssa.gov/oig/guidelin.htm?)
+Social Security Administration -- [www.ssa.gov/oig/guidelin.htm](http://www.ustrust.com/redirect/?refid=P-629734&refpid=P-453212&url=http://www.ssa.gov/oig/guidelin.htm?)
 
-Justice Department --[](http://www.ustrust.com/redirect/?refid=P-629739&url=http://%20www.usdoj.gov/criminal/fraud/idtheft.html%20?)[www.usdoj.gov/criminal/fraud/idtheft.html  
-](http://www.ustrust.com/redirect/?refid=P-629744&url=http://www.usdoj.gov/criminal/fraud/idtheft.html?)  
-Postal Inspection Service -- [www.usps.com/websites/depart/inspect](http://www.ustrust.com/redirect/?refid=P-629741&url=http://www.usps.com/websites/depart/inspect/?)
+Justice Department --[](http://www.ustrust.com/redirect/?refid=P-629739&refpid=P-453212&url=http://%20www.usdoj.gov/criminal/fraud/idtheft.html%20?)[www.usdoj.gov/criminal/fraud/idtheft.html  
+](http://www.ustrust.com/redirect/?refid=P-629744&refpid=P-453212&url=http://www.usdoj.gov/criminal/fraud/idtheft.html?)  
+Postal Inspection Service -- [www.usps.com/websites/depart/inspect](http://www.ustrust.com/redirect/?refid=P-629741&refpid=P-453212&url=http://www.usps.com/websites/depart/inspect/?)
 
 **Please note, these links are being provided as a service convenience. U. S. Trust is not affiliated with any of these organizations and cannot guarantee their accuracy, effectiveness and/or completeness.**
 
 Contact Us With Questions   
-If you have any questions or concerns, please contact your client relationship officer.
+If you have any questions or concerns, please contact your client  
+relationship officer.
