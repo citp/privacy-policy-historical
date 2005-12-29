@@ -1,97 +1,59 @@
-> *The following text is extracted and transformed from the htmart.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405182059id_/http%3A//www.shoppingart.com/AboutUs/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmart.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229110629id_/http%3A//www.htmart.com/pages.php%3Fpageid%3D5) for the most accurate reproduction.*
 
-# Shoppingart.com - Contemporary Art, Furniture and Stunning Acrylic Designs
+# Home Theater Mart :: Privacy Policy
 
-  
-|    
-|    
-  
-**TRUSTe License**[](http://www.truste.org/validate/6298)
+**HT MART Privacy Policy**
 
-This confirms that Shoppingart.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
+Our Commitment to Privacy:  
+HT MART is sensitive to Internet privacy issues and respects our customer's privacy! We value our relationship with you and we hold your personal information in the strictest confidence. 
 
-1\. What personally identifiable information of yours or third party personally identification is collected from you through the web site.
+This policy explains how HT MART treats information that we may gather about you while you visit the HT MART web site. The purpose of this policy is to inform the visitors to the HT MART web site about the different kinds of information we may collect and whether we disclose it to anyone. Please note that this policy applies only to our web site and not to any third-party web sites to which we may link. HT MART cannot be responsible for the content or the privacy policies employed by any other sites. 
 
-2\. The organization collecting the information.
+In general, you can visit the HT MART web site as an anonymous visitor without revealing any information about yourself. Our site servers automatically track certain usage information, but this information will not reveal your identity or be linked to you personally. 
 
-3\. How the information is used.
+The Type of Information We Collect:  
+There are times when we do need to gather personal information from our site customers, such as when you register to use our site or when you order merchandise from our web site. In those cases we may need to collect certain contact and billing information such as your name, billing address, email address, phone number, and credit card number. 
 
-4\. With whom the information may be shared.
+In addition, on some pages you can submit information about other people. For example, if you order a gift certificate, and want it sent directly to the recipient, you will need to supply the recipient's name, physical and/or email address, and phone number. The recipient information you provide will only be used to send the gift certificate. 
 
-5\. What choices are available to you regarding collection, use and distribution of the information. 
+How We Use the Information:  
+HT MART may use this personal contact information to fulfill your product purchases and service requests; provide you with order details; support services and to customize/personalize your shopping experience. We do not share this information with outside parties except to the extent necessary to complete the order. For example, this information may be disclosed to our staff and to third-parties involved in your online transaction including but not limited to order fulfillment, billing and shipping companies. 
 
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Shoppingart.com control.
+We use return email addresses to reply to the email inquires we receive. 
 
-7\. How you can correct any inaccuracies in the information. 
+Our site servers automatically track certain usage information such as the number of visitors, frequency of visitors, time of visits, pages visited and referring web sites, so as to improve our site through statistical analysis. 
 
-If you have questions or concerns regarding this statement, you should first contact our Customer Service Dept. by emailing [customerservice@shoppingart.com](mailto:customerservice@shoppingart.com) If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+What are cookies, and how are they used?  
+Cookies are small text files that serve as an identifier and are stored on your computer when you visit pages that record your preferences. HT MART uses cookies to create a more personalized shopping experience, such as to remember what you have in your shopping cart and to remember you when you return to our store. Cookies placed on your computer by HT MART will not harm your computer and they do not contain any personal or private information. You must allow your web browser to accept cookies to shop at HT MART. 
 
-* * *
+How can I Decide what kinds of Marketing Communications I will Receive?  
+HT MART may send you marketing communications that contain offers, promotions, contests and other content we think you might find of interest. You always have the option to opt-in or opt-out of receiving future marketing communications from HT MART. To opt-in or opt-out, please follow the directions on the bottom of a marketing email. 
 
-Shoppingart.com, Inc. ("Shoppingart.com") is committed to respecting the privacy rights of all users ("Users") of our web site (the "web site"). The following policy describes how Shoppingart.com seeks to assure its Users, as well as the parents of children visiting the web site, how it protects the information it receives from Users of this web site:
+Our Commitment to Security:  
+We use industry-standard 128-bit encrypted SSL (Secure Socket Layer) to protect your information. HT MART follows reasonable technical and management practices to provide for the integrity, safety, security and confidentiality of transactions and data stored on our servers. As an additional layer of customer security, we do not store customer's credit card numbers on the HT MART server. You can confirm you are on a secure checkout page by observing https:// in your web browser's URL address bar. The "s" after http:// stands for "secure". You can also verify that the browser's padlock icon should be locked or key icon should be unbroken along the bottom of your browser's window, while you are on checkout pages dealing with credit card information. 
 
-**What information does Shoppingart.com collect and how does Shoppingart.com use it?**
+Our Commitment to Children's Privacy:  
+Protecting the privacy of young children is important to HT MART. HT MART is a general audience site and we do not knowingly or intentionally collect personal information from children under 13 years of age. Our site is intended to be used by adult visitors who are looking for information, services, or to purchase merchandise. By registering with HT MART and purchasing products from HT MART, you represent that you are 18 years of age or older. If you are under the age of 18, you must ask your parent or legal guardian to facilitate the order. 
 
-  * When ordering products and/or registering on the web site, we need you to provide your name, e-mail address, mailing address, day phone number, and credit card information for purchases, as well as create a username and password. This allows us to keep a User profile so that we may customize preferences for each specific User, as well as provide a faster method for users to submit information to Shoppingart.com, and receive back either the information or products desired.
-  * When ordering products and/or registering for features available on this web site, we also allow Users the discretion whether or not to submit an evening phone number, fax number, date of birth, gender, income level, occupation, favorite sport, and other various marketing data, demographic information, and consumer preferences. This allows us to get to know our Users better and possibly tailor any specific features, promotions, or other notifications for you. 
-  * Users will also be given a choice when registering whether they would like to be on Shoppingart.com's mailing list, or whether they would prefer to opt-out and not receive such mailings from Shoppingart.com. Users will additionally be given the option whether or not to opt-out from receiving offers from our sponsors and other affiliated third parties. Users may opt-out of Shoppingart.com's Mailing List and Newsletter by clicking the "Unsubsribe" link at the bottom of each email sent to them from Shoppingart.com or by sending an email to [info@shoppingart.com](mailto:info@shoppingart.com). 
-  * When Users enter a contest, sweepstakes, or other promotional feature, Shoppingart.com may again ask for the User's name, address, e-mail address, username, password, and other various marketing data, demographic information, and consumer preferences so that they are able to better administer the contest and notify winners.
-  * We may also use the information we collect to occasionally notify Users about important functionality changes to the web site, new Shoppingart.com services, and special offers we think Users will find valuable. Users may elect not to opt-out of any information request or distribution by simply submitting such a request to Shoppingart.com at [info@shoppingart.com](mailto:info@shoppingart.com).
+How to Access and/or Modify Your Information:  
+You can access all of your personally identifiable user information that we collect by logging into your user account. Click Here to [Login to your User Account ](http://www.htmart.com/help.php?section=myaccount)and enter your username and password. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. 
 
-**How does Shoppingart.com protect visitor information?**
+Choosing a login Password at HT MART:  
+For increased security, please select a password that is 5-10 characters in length and contains a combination of letters and numbers. You are solely responsible for maintaining the confidentiality of your password and account information. You have the option to make a purchase from our web site without creating a user account and password. However, each time you return to our site to make a purchase, you will have to re-enter your personal information. 
 
-Shoppingart.com implements a variety of security measures to maintain the safety of User personal information. User personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. When Users place orders or access their personal information, we offer the use of a secure server. All sensitive/credit information supplied by Users is transmitted via Secure Socket Layer (SSL) technology and then encrypted into Shoppingart.com's databases to be only accessed as stated above.
+Disclosure to Privacy Policy Exceptions:  
+We may disclose your information if necessary to protect our legal rights. We may disclose your information if it relates to threatened or harmful conduct or HT MART has good faith reason to believe that such action is necessary to conform to the requirements of law, comply with government orders, court orders or other legal process. HT MART may disclose your information to protect and defend our property and/or rights, the users of this web site or the public at large. This includes exchanging information with third-party companies and organizations for fraud protection and credit risk protection. If HT MART should ever file for bankruptcy or merge with another company, we may sell and/or share the information you provide us to a third-party or with the company we merge with. 
 
-**Forums, Chatrooms and Messageboards.**
+How to Contact Us:  
+Should you have other questions or concerns about our Privacy Policy, please call us at 404-353-3412 or [Contact Us](http://www.htmart.com/help.php?section=contactus&mode=update) here. 
 
-However, when Shoppingart.com makes chat rooms, forums, message boards, individual web pages, and/or news groups available to its Users, please remember that any information that is disclosed in these areas becomes public information and Users should exercise caution when deciding to disclose any personal information.
+Your Consent to this Privacy Policy:  
+By using the HT MART web site, you agree to this Privacy Policy. If we decide to change our privacy policy, we will post those changes on this page. It is your responsibility to review our privacy policy and remain informed about any changes to it. 
 
-**Tell-A-Friend, Ecards and Wishlist.**
+This site and its contents, unless specifically noted, are copyright HT MART © 2005. Unauthorized use of site content is prohibited. All rights reserved. 
 
-If a user elects to use our referral service for informing a friend about our site, sending an Ecard to a friend or sending his Wishlist via Email we ask them for the friend's name and email address. Shoppingart.com will automatically send the friend a one-time email with the relevant information (Invitation, Ecard, Wishlist). Shoppingart.com stores this information for the sole purpose of sending this one-time email. The friend may contact Shoppingart.com to request the removal of this information from their database.
+Please visit the HT MART [Help Zone](http://www.htmart.com/help.php) with any other questions you may have regarding our policies. 
 
-**Does Shoppingart.com use "cookies"?**
+HT MART Privacy Policy last updated on November 09, 2005 
 
-Cookies are bits of electronic information that a web site can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. Cookies allow web site operators to better customize visits to the site to the visitor's individual preferences. The use of cookies is standard on the Internet and many major web sites use them. Although most web browsers automatically accept cookies, you can usually change your browser to prevent or notify you whenever you are sent a cookie. This gives you the chance to decide whether or not to accept it. Even without accepting a cookie, you can still access most of the features on the site. Shoppingart.com uses cookies so that they can help provide its visitors with a better experience on our site.
-
-**Does Shoppingart.com disclose the information it collects from its visitors to outside parties?**
-
-Shoppingart.com will not sell, trade, or otherwise transfer personally identifiable information that Users voluntarily provide through this web site without the prior consent of the User. However, such data, both in non-identifiable individual and aggregate forms, may be provided to other parties to deliver the User information he or she desires, as well as for marketing, advertising, or other uses in the future. 
-
-Any e-mail newsletters sent to Users will contain instructions on how to discontinue receipt of the newsletter. However, if a User at any time chooses to no longer receive such information and opt-out from any future mailings, they should simply reply to Shoppingart.com's removal instructions and request to be removed from any such list and/or mailings, or they may also send such a request to [info@shoppingart.com](mailto:info@shoppingart.com). 
-
-**Shoppingart.com's special note to parents**
-
-Shoppingart.com believes that it is ultimately the parents' responsibility to supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing their name, address, and other personal information online without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the [Direct Marketing Association home page](http://www.the-dma.org/).
-
-**How does a visitor opt-out, remove, or modify information they have provided to Shoppingart.com?**
-
-After gathering any User information, Shoppingart.com offers Users the opportunity to remove information they have provided to us from our database so as not to receive future communications, or to no longer interact with the web site until they later chose to. Shoppingart.com additionally offers Users the opportunity to update and modify any information they have previously provided by sending a request to view such information to [info@shoppingart.com](mailto:info@shoppingart.com), or by U.S. mail to Shoppingart.com Inc., Attn: Privacy Administrator, Elad Altstein. Users should submit any modifications and updates to the User information to the addresses listed in the preceding sentence.
-
-**Third party links**
-
-In an attempt to provide increased value to our Users, Shoppingart.com may choose various third party web sites to link to from, and frame within, its own site. However, even if the third party is affiliated with Shoppingart.com, Shoppingart.com has no control over these linked sites that each has separate privacy and data collection practices, independent of Shoppingart.com. Shoppingart.com has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, Shoppingart.com seeks to protect the integrity of its web site and the links placed upon it and therefore requests any feedback on not only its own site, but for sites it links to as well (including if a specific link does not work) to [info@shoppingart.com](mailto:info@shoppingart.com).
-
-**Your Consent**
-
-By using our web site, you consent to the collection and use of this information by Shoppingart.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
-
-**Feedback**
-
-Shoppingart.com welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue, at [info@shoppingart.com](mailto:info@shoppingart.com), or by U.S. mail to Shoppingart.com Inc., Attn: Privacy Administrator, Elad Altstein.
-
-**Terms and Conditions**
-
-Please also visit Shoppingart.com's [Terms and Conditions](https://web.archive.org/web/20010405182059id_/http%3A//www.shoppingart.com/AboutUs/termsandconditions.asp) establishing the use, disclaimers, and limitations of liability governing the use of the entire Shoppingart.com web site. 
-
-**Contact Information.**
-
-Shoppinart.com  
-8640 Tamarack Ave.  
-Sun Valley, CA 91352  
-Phone: 818.767.3368  
-Email: [info@shoppingart.com](mailto:info@shoppingart.com)
-
-  
-|    
-
+\--- Return to Top of Page ---  
