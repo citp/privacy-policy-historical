@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diynet.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406225637id_/http%3A//www.diynet.com/diy/about_us/article/0%2C2019%2CDIY_13703_2291323%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diynet.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229232433id_/http%3A//www.diynet.com/diy/about_us/article/0%2C2019%2CDIY_13703_2291323%2C00.html) for the most accurate reproduction.*
 
-# Do It Yourself: About Us
+# About Us : Privacy Policy : DIY Network
 
 At DIYnetwork.com, we are committed to protecting the online privacy of visitors to our websites. This Policy applies only to the websites and online services provided by DIYnetwork.com. This Policy does not cover any interaction you may have with DIY- Do It Yourself Network by telephone, postal mail, or other offline communications. The purpose of this Policy is to inform you about the types of information we gather about you when you visit our websites, how we may use that information, and how we disclose it to third parties.
 
