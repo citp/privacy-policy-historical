@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407172255id_/http%3A//www.coursework.info/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229214026id_/http%3A//www.coursework.info/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -17,7 +17,7 @@ Our privacy policy covers Coursework.Info and its Web site:
 ---|---  
 Address:  | 
 
-> Student Media Services Limited,  
+> Acumen Professional Intelligence Limited,  
 >  17 Badminton Road,  
 >  St Agnes,  
 >  Bristol,  
