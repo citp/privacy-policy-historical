@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morrisons.co.uk privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206081942id_/http%3A//www.morrisons.co.uk/23.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morrisons.co.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230005503id_/http%3A//www.morrisons.co.uk/23.asp) for the most accurate reproduction.*
 
 # Morrisons Supermarket - Privacy Policy
 
