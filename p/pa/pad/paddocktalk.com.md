@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2004-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040807170056id_/http%3A//www.paddocktalk.com/news/html/index.php%3Fmodule%3DStatic_Docs%26func%3Dview%26f%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229231936id_/http%3A//www.paddocktalk.com/news/html/index.php%3Fmodule%3DStatic_Docs%26func%3Dview%26f%3Dprivacy.htm) for the most accurate reproduction.*
 
-# PaddockTalk :: Two drivers, Two cars... Drop the flag... It's all good!
+# PaddockTalk :: Two drivers, Two cars... Drop the flag...It's all good!
 
 What is a Privacy Policy? 
 
