@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wfaa.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206224332id_/http%3A//www.wfaa.com/registration/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfaa.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229132924id_/http%3A//www.wfaa.com/registration/privacy) for the most accurate reproduction.*
 
-# WFAA.com | News for Dallas-Fort Worth, Texas | Privacy Policy
+# Dallas-Fort Worth, Texas | WFAA.com | Privacy Policy
 
 | 
 
@@ -114,8 +114,8 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/346224495/Position1/default/empty.gif/7a2f486a61563479312f384143767563?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/1718542120/Position1/default/empty.gif/7a2f4868374634793241454142396264?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/195191281/Position4/default/empty.gif/7a2f486a61563479312f384143767563?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/1348983391/Position4/default/empty.gif/7a2f4868374634793241454142396264?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/747891663/Position5/default/empty.gif/7a2f486a61563479312f384143767563?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wfaa.com/aboutus/716733909/Position5/default/empty.gif/7a2f4868374634793241454142396264?x)
