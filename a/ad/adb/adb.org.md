@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adb.org privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528011337id_/http%3A//www.adb.org/Help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adb.org privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229195113id_/http%3A//adb.org/Help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - ADB.org
 
@@ -17,13 +17,9 @@ The **Asian Development Bank** has created this privacy statement in order to de
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site.
 
-Our site's registration form requires users to give us contact information (like their name and email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications for registration. Demographic and profile data is also collected at our site. We use this data for other purposes.
+Our site's registration form requires users to give us contact information (like their name and email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications for registration. Demographic and profile data is also collected at our site. 
 
 This site contains links to other sites. **ADB.org** is not responsible for the privacy practices or the content of such Web sites.
-
-### Public Forums
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 ### Choice/Opt-Out
 
