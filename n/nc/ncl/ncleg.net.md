@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2005-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050621063936id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229214815id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
 
 # North Carolina General Assembly - Privacy Statement
 
@@ -8,8 +8,9 @@
  | [House](https://web.archive.org/House/House.html)|    
  | [Senate](https://web.archive.org/Senate/Senate.html)|    
  | [Committees](https://web.archive.org/CommitteeInfo/CommitteeInfo.html)|    
- | [Legislation](https://web.archive.org/Legislation/Legislation.html)|    
+ | [Legislation/Bills](https://web.archive.org/Legislation/Legislation.html)|    
  | [Representation](https://web.archive.org/GIS/Representation)|    
+ | [Legislative Library](https://web.archive.org/LegLibrary)|    
  | [NCGA Information](https://web.archive.org/NCGAInfo/NCGAInfo.html)|    
  | [Audio](https://web.archive.org/Audio/Audio.html)|    
  | [Citizen Guide](https://web.archive.org/CitizenGuide/CitizenGuide.html)|    
@@ -17,8 +18,6 @@
 Quick Links  
   
 [NCGA Job Vacancies](https://web.archive.org/NCGAInfo/Directories/Jobs.html)
-
-[Budget History](https://web.archive.org/legislation/budgethistory.html)
 
   * [NC Statutes](https://web.archive.org/gascripts/Statutes/Statutes.asp)
   * [Redistricting](https://web.archive.org/GIS/Redistricting/index.html)
@@ -34,7 +33,7 @@ Site Information
  | [Disclaimer](https://web.archive.org/Etc/Disclaimer.html)|    
  | [Privacy Statement](https://web.archive.org/Etc/Privacy.html)|    
  | [Policies](https://web.archive.org/Etc/Policies.html)|    
- | [Contact Web Support](https://web.archive.org/gascripts/Help/KnowledgeBase/viewItem.pl?nID=42)|    
+ | [Contact Us](https://web.archive.org/gascripts/Help/KnowledgeBase/viewItem.pl?nID=42)|    
   
 Privacy Statement
 
