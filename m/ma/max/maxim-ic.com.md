@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2004-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040711085814id_/http%3A//www.maxim-ic.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230000053id_/http%3A//www.maxim-ic.com/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Maxim/Dallas
 
-Maxim Integrated Products, Inc. and its wholly owned subsidiaries want you to know that your privacy is important to us. This Privacy Statement describes our privacy policy and how we collect and use personally identifiable information. Maxim/Dallas reserves the right to modify its privacy policy at any time.
+Maxim Integrated Products, Inc. and its wholly owned subsidiaries want you to know that your privacy is important to us. This Privacy Statement describes our privacy policy and how we collect and use personally identifiable information. 
+
+**Changes to Privacy Policy**
+
+Maxim/Dallas reserves the right to modify its privacy policy at any time. Customers and site visitors are notified via the following list of changes: 
+
+  * Policy effective: October 29, 2002 
+  * Revision: July 14, 2004: Added "Changes to Privacy Policy" section.
+
+
 
 **What Information Do We Collect?**
 
@@ -70,6 +79,6 @@ Most browsers accept cookies by default, but you can turn off cookies using your
 
 Microsoft Internet Explorer: [www.microsoft.com/info/cookies.htm](http://www.microsoft.com/info/cookies.htm)
 
-Netscape Navigator: [www.netscape.com/legal_notices/cookies.html](http://www.netscape.com/legal_notices/cookies.html). 
+Netscape Navigator: [www.netscape.com/legal_notices/cookies.html](http://www.netscape.com/legal_notices/cookies.html)
 
 If you turn cookies off, certain site features may no longer work or work differently. Please note that when you accept a cookie from our website, we do not gain access to your hard drive or personal information other than the information you have provided us. We do not provide cookie information to any third party. 
