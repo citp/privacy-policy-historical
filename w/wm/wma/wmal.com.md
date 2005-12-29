@@ -1,12 +1,76 @@
-> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403164455id_/http%3A//wmal.com/abcprivacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229062445id_/http%3A//wmal.com/abcprivacypolicy.asp) for the most accurate reproduction.*
 
 # 630 WMAL
 
-| 
+|   
+---  
+---  
+  
+Weekday Programs
 
+Weekend Programs
+
+Grandy and Andy  
+   Morning Show
+
+630 WMAL Presents:  
+The Mid-Morning Show
+
+Rush Limbaugh
+
+Sean Hannity
+
+Chris Core
+
+John Batchelor  
   
+---  
   
-Any person accessing this site agrees to the following:  
+News & Info
+
+ABC NEWS
+
+Traffic
+
+Weather
+
+Commuter Forecast
+
+The Wall Street Journal Report
+
+630 WMAL Sports  
+  
+---  
+  
+630 WMAL Events
+
+Arts and Entertainment
+
+630 WMAL Scrapbook 
+
+Community  
+  
+---  
+  
+630 WMAL History
+
+Contact Us
+
+FAQs
+
+Advertise on WMAL  
+  
+---  
+  
+Emergency Preparedness
+
+The Business Report by Womble Carlyle
+
+Doc On the Dial
+
+630 WMAL On Demand  
+  
+|  |  Any person accessing this site agrees to the following:  
   
 WMAL-AM PRIVACY POLICY  
   
@@ -74,8 +138,8 @@ By using this site, you signify your assent to the ABC Privacy Policy. If you do
   
 © ABC. All rights reserved.  
   
-
-
 [**Join our Loyal Listener Club Today!**](http://wmal.fimc.net/jointheclub.asp)  
-|   
----|---|---
+  
+---|---  
+  
+[](https://web.archive.org/advertiseon630wmal.asp)
