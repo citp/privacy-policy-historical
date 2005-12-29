@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2005-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050511185201id_/https%3A//www.cbn.com/giving/privacy_notice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229063058id_/http%3A//www.cbn.com/about/privacy_notice.asp) for the most accurate reproduction.*
 
-# CBN.com Christian Broadcasting Network
+# CBN.com Privacy Notice
 
-## CBN.com Privacy Notice
+  * [Mission & History](https://web.archive.org/about/)
+  * [Contact CBN](https://web.archive.org/contact/feedback.asp)
+  * [Job Opportunities](https://web.archive.org/about/jobs/)
+  * [Staff Bios](https://web.archive.org/about/bios/)
+  * [Copyright Info](https://web.archive.org/about/copyright/)
+  * [Privacy Notice](https://web.archive.org/about/privacy_notice.asp)
+  * [Link to CBN.com](https://web.archive.org/about/LinkToCBNDirections.asp)
+  * [Set Homepage](https://web.archive.org/about/make_cbn_your_homepage.asp)
+  * [Visit CBN](https://web.archive.org/about/visit/)
+
+|    
+
 
 CBN.com realizes you are concerned about how information you give us is used and shared. This notice describes our privacy policy. By visiting CBN.com, you are accepting the practices described in this Privacy Notice.
 
@@ -26,7 +37,8 @@ Information about our customers is an important part of our business, and we are
 
 **How Secure Is Information About Me?**
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. You can [view our security certificate here](https://digitalid.verisign.com/as2/1d9a1f5dbdde5afd22b0fe191ec7de64).
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.  
+
   * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer and don’t use the “Remember Me” option.
 
 
@@ -58,4 +70,21 @@ Examples of the information we collect and analyze include the Internet protocol
 **Information You Can Access**  
 Examples of information you can access easily at CBN.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password); payment settings (including credit card information); e-mail notification settings including Alerts and newsletters.
 
-The Christian Broadcasting Network, Inc. © 2005 
+  
+
+
+* * *
+
+**CBN IS HERE FOR YOU!  
+**Are you seeking answers in life? Are you hurting?  
+Are you facing a difficult situation? ****
+
+A caring friend will be there to pray with you in your time of need.
+
+| 
+
+[](https://web.archive.org/special/Narnia/)
+
+[](https://web.archive.org/dailylife/career/)  
+  
+---|---|---
