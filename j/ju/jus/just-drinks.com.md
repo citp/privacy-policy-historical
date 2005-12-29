@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209142709id_/http%3A//www.just-drinks.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229185042id_/http%3A//www.just-drinks.com/about/privacy.asp) for the most accurate reproduction.*
 
 # just-drinks.com: About Us
 
@@ -36,7 +36,7 @@ This site gives users the following options for removing their information from 
 
   1. Auto-opt-out mechanisms detailed at the base of all mailing list items 
   2. You can send email to [editor@just-drinks.com ](mailto:editor@just-drinks.com)
-  3. You can call the following telephone number: +44 (0)1527 573600 Intl or 011-800-1234-JUST (5878) Toll Free US/Canada.
+  3. You can call the following telephone number: +44 (0)1527 573600 Intl or 1-866-545-5878 Toll Free US.
 
 
 
