@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the adlandpro.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205063528id_/http%3A//www.adlandpro.com/Privacystmt.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlandpro.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229205230id_/http%3A//www.adlandpro.com/Privacystmt.aspx) for the most accurate reproduction.*
 
 # AdlandPro Privacy Policy
 
-| 
-
 AdlandPro.com Privacy Policy
 
-|  The privacy statement discloses the privacy practices for [AdlandPro.com](http://www.adlandpro.com/). 
+The privacy statement discloses the privacy practices for [AdlandPro.com](http://www.adlandpro.com/). 
 
-If you have questions or concerns regarding this statement, you should first [ contact  us](http://www.adlandpro.com/ContactUs.aspx). 
+If you have questions or concerns regarding this statement, you should first contact contact us. 
 
 AdlandPro.com agrees to abide by this Privacy Policy with respect to information gathered on web pages hosted by Adlandpro.com. Such information is being received by both AdlandPro.com and the Affiliate through which AdlandPro.com provides some of its services to you. 
 
@@ -45,10 +43,4 @@ For **Affiliate/End User** , you can access all your personally identifiable inf
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.  
   
 How to Contact Us  
-Should you have other questions or concerns about these privacy policies, please [contact](https://web.archive.org/web/20050205063528id_/http%3A//www.adlandpro.com/ContactUs.aspx) us. Content posted to public community areas is publicly available and AdlandPro.com reserves the right to remove any publicly posted content which is objectionable.  
-  
-| 
-
-Imagine a 400% increase in your Sale sand a reduced workload as well. (Of course you know what this would mean for YOUR business!) 
-
-| 
+Should you have other questions or concerns about these privacy policies, please [contact](https://web.archive.org/web/20051229205230id_/http%3A//www.adlandpro.com/ContactUs.aspx) us. Content posted to public community areas is publicly available and AdlandPro.com reserves the right to remove any publicly posted content which is objectionable.
