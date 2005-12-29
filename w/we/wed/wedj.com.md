@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207000756id_/http%3A//www.wedj.com/wedjcom.nsf/privacy.html%21OpenPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229200526id_/http%3A//www.wedj.com/wedjcom.nsf/privacy.html%21OpenPage) for the most accurate reproduction.*
 
 # WeDJ.com
 
@@ -34,7 +34,7 @@ This notice applies to all information collected or submitted on our website. We
 
 ### Site Vendors:
 
-Our service collects information from thousands of DJs, Photographers, and other wedding-related businesses throughout the Unites States and abroad. The information is used to create search results available to any person who visits the site. Vendor information is divided into two categories: public and private. 
+Our service collects information from thousands of DJs, Photographers, and other wedding-related businesses throughout the Unites States and abroad. We send emails to each site vendor when a visitor clicks on their website link. We only provide personal information when the visitor approves it. WeDJ.com also sends by email certain update information to our system, monthly statistics, and occassional items of interest within the vendor community. All email addresses are kept strictly confidential and we do not sell, lease, or provide this to any third party. Additionally, the information is used to create search results available to any person who visits the site. Vendor information is divided into two categories: public and private. 
 
   * Public Information: Available to any person who searches this site. Includes: company name, general location, phone number, email (provided as a link), web site (optional), and user-supplied company information text. 
   * Private Information: Used for account maintenance purposes; not available to the public. Contact name, full mailing address, actual email address, toll-free number (optional), general company statistics, and username/password.
