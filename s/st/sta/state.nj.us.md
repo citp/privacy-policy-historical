@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.nj.us privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617103457id_/http%3A//www.state.nj.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.nj.us privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229082257id_/http%3A//www.state.nj.us/privacy.html) for the most accurate reproduction.*
 
 # State of New Jersey | privacy notice
 
