@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enhance.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403201545id_/http%3A//enhance.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enhance.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229124308id_/http%3A//www.enhance.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Enhance Interactive - Privacy Policy
 
