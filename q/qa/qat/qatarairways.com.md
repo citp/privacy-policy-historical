@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qatarairways.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507072039id_/http%3A//www.qatarairways.com/0.99.0.0.1.0.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qatarairways.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229065649id_/http%3A//qatarairways.com/0.99.0.0.1.0.htm) for the most accurate reproduction.*
 
 # Qatar Airways | PRIVACY POLICY
 
@@ -12,38 +12,42 @@ PRIVACY POLICY
   |   |  | | |   
 ---|---|---  
 |  |   
-[Book Flights](https://web.archive.org/web/20050507072039id_/http%3A//www.qatarairways.com/96.0.0.1.0.0.htm)  
+[Book Flights](https://web.archive.org/web/20051229065649id_/http%3A//qatarairways.com/96.0.0.1.0.0.htm)  
 |   
 | |   
 |  |   
-[Plan](https://web.archive.org/web/20050507072039id_/http%3A//www.qatarairways.com/1.0.0.1.0.0.htm)  
+[Specials](https://web.archive.org/web/20051229065649id_/http%3A//qatarairways.com/901.0.0.1.0.0.htm)  
 |   
 | |   
 |  |   
-[InFlight](https://web.archive.org/web/20050507072039id_/http%3A//www.qatarairways.com/3.0.0.1.0.0.htm)  
+[Plan](https://web.archive.org/web/20051229065649id_/http%3A//qatarairways.com/1.0.0.1.0.0.htm)  
 |   
 | |   
 |  |   
-[Careers](https://web.archive.org/web/20050507072039id_/http%3A//www.qatarairways.com/13.0.0.1.0.0.htm)  
+[InFlight](https://web.archive.org/web/20051229065649id_/http%3A//qatarairways.com/3.0.0.1.0.0.htm)  
 |   
 | |   
 |  |   
-[Holidays](https://web.archive.org/web/20050507072039id_/http%3A//www.qatarairways.com/70.0.0.1.0.0.htm)  
+[Careers](https://web.archive.org/web/20051229065649id_/http%3A//qatarairways.com/13.0.0.1.0.0.htm)  
 |   
 | |   
 |  |   
-[Qatar](https://web.archive.org/web/20050507072039id_/http%3A//www.qatarairways.com/28.0.0.1.0.0.htm)  
+[Holidays](https://web.archive.org/web/20051229065649id_/http%3A//qatarairways.com/70.0.0.1.0.0.htm)  
 |   
 | |   
 |  |   
-[About Us](https://web.archive.org/web/20050507072039id_/http%3A//www.qatarairways.com/2.0.0.1.0.0.htm)  
+[Qatar](https://web.archive.org/web/20051229065649id_/http%3A//qatarairways.com/28.0.0.1.0.0.htm)  
 |   
 | |   
 |  |   
-[News](https://web.archive.org/web/20050507072039id_/http%3A//www.qatarairways.com/6.0.0.1.0.0.htm)  
+[About Us](https://web.archive.org/web/20051229065649id_/http%3A//qatarairways.com/2.0.0.1.0.0.htm)  
+|   
+| |   
+|  |   
+[News](https://web.archive.org/web/20051229065649id_/http%3A//qatarairways.com/6.0.0.1.0.0.htm)  
 |   
   
-[](https://web.archive.org/web/20050507072039id_/http%3A//www.qatarairways.com/index.php?id=104,99,1,0,1,0&id=0,99,0,0,1,0)  
+[](https://web.archive.org/web/20051229065649id_/http%3A//qatarairways.com/index.php?id=104,99,1,0,1,0&id=0,99,0,0,1,0)  
   
   |   |   
 General  
