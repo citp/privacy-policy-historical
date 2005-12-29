@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305230833id_/http%3A//www.brainmass.com/content/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229114107id_/http%3A//www.brainmass.com/content/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Homework Help from BrainMass
 
+|   |   
+---|---  
+  
 This document explains BrainMass Inc.’s (“BrainMass.com”) policies for the collection, use and disclosure of personal information.
 
 This policy forms part of, and should be read in conjunction with, our Terms and Conditions and Legal Disclaimer.
@@ -80,7 +83,7 @@ If you have questions about this privacy statement, the practices of this site o
 G. Goodwin  
 General Manager  
 BrainMass.com  
-17665 Leslie Street, #27  
+76 Prospect Street  
 Newmarket, ON, Canada  
-L3Y 3E3  
+L3Y 3T2  
 Email: [contact@brainmass.com](mailto:contact@brainmass.com)
