@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the williams-sonomainc.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624072306id_/http%3A//www.williams-sonomainc.com/pri/index.cfm%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williams-sonomainc.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229034743id_/http%3A//www.williams-sonomainc.com/pri/index.cfm%23pp) for the most accurate reproduction.*
 
 # Williams-Sonoma, Inc.
 
 |  | 
 
   
-Unless otherwise noted, all materials, including images, illustrations, designs, icons, photographs, video clips, and written and other materials that appear as part of this site (collectively, the “Contents”) are Williams–Sonoma, Inc.’s intellectual property and protected by copyright, trademark trade dress and/or other intellectual property laws. The Contents are owned, controlled or licensed by Williams–Sonoma, Inc. and its subsidiaries (collectively, “Williams–Sonoma, Inc.”). The site as a whole is protected by copyright and trade dress, all worldwide rights, titles and interests in and to which are owned by Williams–Sonoma, Inc. WILLIAMS–SONOMA, POTTERY BARN, POTTERY BARN KIDS, PBTEEN, CHAMBERS, HOLD EVERYTHING and WEST ELM are trademarks of Williams–Sonoma, Inc.
+Unless otherwise noted, all materials, including images, illustrations, designs, icons, photographs, video clips, and written and other materials that appear as part of this site (collectively, the “Contents”) are Williams–Sonoma, Inc.’s intellectual property and protected by copyright, trademark trade dress and/or other intellectual property laws. The Contents are owned, controlled or licensed by Williams–Sonoma, Inc. and its subsidiaries (collectively, “Williams–Sonoma, Inc.”). The site as a whole is protected by copyright and trade dress, all worldwide rights, titles and interests in and to which are owned by Williams–Sonoma, Inc. WILLIAMS–SONOMA, POTTERY BARN, POTTERY BARN KIDS, PBTEEN, WILLIAMS-SONOMA HOME, HOLD EVERYTHING and WEST ELM are trademarks of Williams–Sonoma, Inc.
 
 You may not download, copy, reproduce, publish, transmit, distribute, display, modify, create derivative works from, sell or participate in any sale of, or exploit in any way, in whole or in part, any of the Contents, the site, or any related software.
 
   
   
-We are part of "Williams–Sonoma, Inc. Brands" which includes Williams–Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Chambers and Hold Everything. Williams–Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of personally identifiable information you share with us (the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, address, telephone number, etc.). The purpose of this privacy policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our web sites, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information. This policy applies only to users accessing our web site from the United States.
+We are part of "Williams–Sonoma, Inc. Brands" which includes Williams–Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Williams-Sonoma Home and Hold Everything. Williams–Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of personally identifiable information you share with us (the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, address, telephone number, etc.). The purpose of this privacy policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our web sites, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information. This policy applies only to users accessing our web site from the United States.
 
 As a part of our commitment to your privacy, Williams–Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale or exchange with other marketers; (2) honor customers' requests not to share their information with other marketers; and (3) honor customers' requests not to receive mail, telephone or other solicitations from Williams–Sonoma, Inc. Brands.
 
@@ -36,6 +36,8 @@ Please note that sometimes these requests may take up to 6–8 weeks to be effec
 
 Please remember, if you delete certain information you may not be able to continue to purchase products or access other portions of our web site without entering additional information.
 
+You can request a description of the types of customer information we may share with others and a list of the entities with which we may have shared customer information in the preceding calendar year, by sending an email to us at [privacy@wsgc.com](mailto:privacy@wsgc.com).
+
  **Protecting Children**  
 Williams–Sonoma, Inc. Brands take special care to protect the safety and privacy of children. Our web sites are general audience sites. We do not permit anyone under the age of 13 to register with us. We also do not send email correspondence to anyone who tells us that they are under the age of 13 without their parent's consent.
 
@@ -53,7 +55,7 @@ We urge you to keep your password in a safe place and not to divulge it to anyon
 
  **Links to Third Party Sites**  
 Our web sites may contain links to web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any personal information on such site. **Policy Changes**  
-If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our web site. Those changes will go into effect on the date posted in the notice. The new policy will apply to all current and past users of our web site and will replace any prior policies that are inconsistent. This policy was posted in March 2003. **Your Feedback**  
+If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our web site. Those changes will go into effect on the date posted in the notice. The new policy will apply to all current and past users of our web site and will replace any prior policies that are inconsistent. This policy was posted in January 2005. **Your Feedback**  
 To help us improve our privacy policy and practice, please give us your feedback. You may email us or write to us at Williams–Sonoma Attn: Williams–Sonoma, Inc. Direct Marketing Dept, 3250 Van Ness Ave, San Francisco, CA 94109. **Maps and Directions**  
 The maps and directions provided on this web site are informational only. No representation is made or warranty given as to their content, road conditions or route usability or expeditiousness. User assumes all risk of use. MapQuest, Williams–Sonoma, Inc. and their suppliers assume no responsibility for any loss or delay resulting from such use.  
 |   
