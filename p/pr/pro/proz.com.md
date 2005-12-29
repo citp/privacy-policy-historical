@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205234538id_/http%3A//www.proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229153549id_/http%3A//www.proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Translation services, translation jobs, and freelance translators
 
 **ProZ.com Privacy Statement**
 
