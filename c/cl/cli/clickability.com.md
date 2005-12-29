@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405220944id_/http%3A//www.clickability.com/misc/317.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229230301id_/http%3A//www.clickability.com/misc/317.html) for the most accurate reproduction.*
 
 # Clickability -- web content management software-as-a-service
 
   
-**On deploying scalable interfaces for CMS's:**  
+|  | 
+
+On deploying scalable interfaces for CMS's:
+
 "Ask yourself: What happens to my job and the job of the editors and authors when the amount of content in the system increases two-fold? How about five-fold, or ten-fold, or fifty-fold?"
 
 [Interface Scalability](http://www.cmswatch.com/Features/TopicWatch/FeaturedTopic/?feature_id=92)
@@ -12,7 +15,14 @@ Jeff Freund
  _Clickability CTO_  
  _Featured in CMSWatch_
 
-|  | 
+|   
+---|---|---  
+  
+[](https://web.archive.org/contact/491.html)  
+[](https://web.archive.org/misc/1856477.html)  
+
+
+| 
 
 This statement discloses the privacy practices for this entire Web Site, [www.clickability.com](https://web.archive.org/).
 
@@ -31,6 +41,3 @@ Clickability employs industry standard physical and computer security practices 
 
 Please direct any questions about this privacy statement to   
 [privacy@clickability.com](mailto:privacy@clickability.com)
-
-|  |   
- 
