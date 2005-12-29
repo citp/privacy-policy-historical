@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the aclj.org privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011184342id_/http%3A//www.aclj.org/webpages/aclj_privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclj.org privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229205053id_/http%3A//www.aclj.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
-
-**  
-Privacy Statement**
+# ACLJ | American Center for Law & Justice
 
 By accessing or using the ACLJ Web Site, you agree to the terms of the ACLJ Web Site Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. The ACLJ Web Site reserves the right to change the Online Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the most current version of the Online Privacy Policy at the time of such use.
 
@@ -18,16 +15,12 @@ The ACLJ Web Site recognizes and appreciates the importance of responsible use o
 On occasion, the ACLJ Web Site may selectively provide certain information to other companies or organizations that have products or services that we think may be of interest to you. If you do not wish to receive email regarding third party products or services, please "opt out" by contacting us with your name, address + zip and phone number at the address below:
 
 ACLJ -"Third Party Opt Out"   
-P.O.Box 64429  
-Virginia Beach, VA 23467
+P.O.Box 90555  
+Washington, DC 20090-0555
 
-Please include your full name, address, zip and phone number when corresponding with us. 
-
-**  
+Please include your full name, address, zip and phone number when corresponding with us. **  
 Protection of Your Personal Information**  
-The personal information that you provide in connection with making a donation to the ACLJ using the ACLJ Web Site, classifies your data as Donor Registration Information. Donor Registration Information is protected in several ways. First, it resides on a secure server that only selected ACLJ Web Site personnel and its authorized users have access to via password. Second, the ACLJ Web Site encrypts your personal information and thereby prevents unauthorized parties from viewing it. Personal information that you provide when registering for a petition, or corresponding with the ACLJ, for example, also resides on a secure server and is only accessible via password, however it is not encrypted. 
-
-  
+The personal information that you provide in connection with making a donation to the ACLJ using the ACLJ Web Site, classifies your data as Donor Registration Information. Donor Registration Information is protected in several ways. First, it resides on a secure server that only selected ACLJ Web Site personnel and its authorized users have access to via password. Second, the ACLJ Web Site encrypts your personal information and thereby prevents unauthorized parties from viewing it. Personal information that you provide when registering for a petition, or corresponding with the ACLJ, for example, also resides on a secure server and is only accessible via password, however it is not encrypted.   
 ****
 
 **Use of Cookies**  
@@ -39,8 +32,8 @@ You have the right to access and correct your personal information at any time. 
 You may also access and correct your personal information and privacy preferences by writing or calling ACLJ Web Site at:
 
 **The ACLJ Web Site**  
-P.O.Box 64429  
-Virginia Beach, VA 23467  
+P.O.Box 90555  
+Washington, DC 20090-0555  
 (757) 226-2489  
 (757) 226-2836 (fax)
 
