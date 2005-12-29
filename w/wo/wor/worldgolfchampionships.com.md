@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the worldgolfchampionships.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405014202id_/http%3A//www.pgatour.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldgolfchampionships.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229130501id_/http%3A//www.pgatour.com/info/privacy) for the most accurate reproduction.*
 
-# PGATOUR.COM - Privacy Policy for PGATOUR.COM
+# PGATOUR.com - About Us
 
-  |  |  Privacy Policy for PGATOUR.COM |   |   
----|---|---  
-  
-**Effective Date: Oct. 7, 2004**
+|   |    
+PGATOUR.COM Privacy Policy   
+_Effective Date: Oct. 7, 2004_
 
 This privacy policy is applicable to the Website(s) located at the domains "PGATOUR.COM" and "GolfWeb.com", and other sites within the PGA TOUR network which may link to this privacy policy (collectively, the "Site") and are operated by SportsLine.com, Inc. pursuant to a strategic relationship with PGA TOUR LICENSED PROPERIES, INC. (SportsLine.com, Inc. and PGA TOUR LICENSED PROPERIES, INC. collectively "PGA TOUR Partners", "we", "our", or "us"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. Please read the following to learn more about our data collection policies and practices.
 
@@ -173,5 +172,9 @@ Fort Lauderdale, Florida 33309 **
 
 Return to Top
 
-   
-  |  |   |  [](http://www.titleist.com/) [](http://www.pgatour.com/tournaments/info/r)
+|   | 
+
+Head-to-Head Fantasy Golf  
+is now on PGATOUR.com  
+Play League Championship   
+[Sign up Now!](http://www.pgatour.com/fantasy/challenge?refcode=pga-s_golflc06_1)
