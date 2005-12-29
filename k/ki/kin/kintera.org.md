@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kintera.org privacy policy that was archived on 2005-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050505223145id_/http%3A//www.kintera.org/site/lookup.asp%3Fc%3D7dJBKPNxFqG%26b%3D303718) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kintera.org privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229043004id_/http%3A//www.kintera.org/site/lookup.asp%3Fc%3D7dJBKPNxFqG%26b%3D303718) for the most accurate reproduction.*
 
 # Privacy Policy - Kintera.org -- The Giving Communities
 
