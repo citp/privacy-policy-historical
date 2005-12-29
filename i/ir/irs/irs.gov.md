@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527024035id_/http%3A//www.irs.gov/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229041118id_/http%3A//www.irs.gov/privacy/index.html) for the most accurate reproduction.*
 
 # IRS Privacy Policy
 
 [Para ver esta página en español haga clic aquí](https://web.archive.org/privacy/article/0,,id=120920,00.html).
 
-**IRS Office of Privacy**  
+**IRS Office of Privacy**  
 **IRS Privacy Policy**  
 **Your Privacy Rights**  
 **Access to Privacy Impact Assessments  
@@ -18,7 +18,7 @@ Statistical Information**
 
 ### IRS Office of Privacy
 
-**_PLEASE NOTE the following:  _** Do not respond to unsolicited e-mails that claim to come from the IRS, or any e-mail from an unknown party asking you to submit personal, tax, or financial data.  The Internal Revenue Service does not use e-mail to request this type of information.
+**_PLEASE NOTE the following:_** Do not respond to unsolicited e-mails that claim to come from the IRS, or any e-mail from an unknown party asking you to submit personal, tax, or financial data.  The Internal Revenue Service does not use e-mail to request this type of information.
 
 The Internal Revenue Service's Privacy Office ensures that your personal information is protected whenever you visit the IRS website. If you have any questions or comments regarding the IRS's website privacy policy, please contact us at the address below.
 
@@ -42,7 +42,7 @@ We will not collect personal information about you just because you visit this I
 
 ### Your Privacy Rights
 
-The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the [Internal Revenue Code](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fget-cfr.cgi%3FTITLE%3D26%26PART%3D601%26SECTION%3D702%26TYPE%3DTEXT), the [Privacy Act of 1974](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fgetdoc.cgi%3Fdbname%3Dbrowse_usc%26docid%3DCite%3A%2B5USC552a), the [Freedom of Information Act](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fgetdoc.cgi%3Fdbname%3Dbrowse_usc%26docid%3DCite%3A%2B5USC552), the [Internal Revenue Restructuring and Reform Act of 1998](https://web.archive.org/individuals/article/0,,id=97702,00.html) and IRS policies and practices. For more information about these laws, visit the [IRS Electronic Freedom of Information Act Reading Room](https://web.archive.org/foia/article/0,,id=98716,00.html) .
+The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the [Internal Revenue Code](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fget-cfr.cgi%3FTITLE%3D26%26PART%3D601%26SECTION%3D702%26TYPE%3DTEXT), the [Privacy Act of 1974](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Fstraylight.law.cornell.edu%2Fuscode%2Fhtml%2Fuscode05%2Fusc_sec_05_00000552---a000-.html), the [Freedom of Information Act](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Fstraylight.law.cornell.edu%2Fuscode%2Fhtml%2Fuscode05%2Fusc_sec_05_00000552----000-.html), and IRS policies and practices. For more information about these laws, visit the [IRS Electronic Freedom of Information Act Reading Room](https://web.archive.org/foia/index.html).
 
 * * *
 
@@ -67,7 +67,7 @@ In order to improve service on our website, we automatically collect and maintai
   * The date and time (with time zone) that you access our website.
   * The type of browser and operating system used to access our website.
   * The Internet address of the website from which you linked directly to our website.
-  * The web pages on [www.irs.gov](https://web.archive.org/index.html) that you visit. This helps to determine which information on our site the public finds most useful and enables us to make it easier to access.
+  * The web pages on [](https://web.archive.org/index.html)[www.irs.gov](http://www.irs.gov/) that you visit. This helps to determine which information on our site the public finds most useful and enables us to make it easier to access.
   * Transmission Control Protocol/Internet Protocol (TCP/IP) packet data. This information is used to detect malicious activity on our website.
   * Session cookie ID. This helps us determine which sequences of pages users typically view. We use this information to make the site easier to use.
   * Other cookies used to validate voluntary customer survey results.  These are of limited duration and cannot be used to identify survey participants or track their page or web site visits.
