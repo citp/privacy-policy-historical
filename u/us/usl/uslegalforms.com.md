@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uslegalforms.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206060730id_/http%3A//www.uslegalforms.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uslegalforms.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229155824id_/http%3A//www.uslegalforms.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@
 
 * * *
 
-U.S. Legal Forms, Inc. (USLF), respects your privacy! Any and all information you provide will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to USLF will be held with the utmost care, and will not be used in ways that you have not consented to. If you have any questions, please let us know.
+U.S. Legal Forms™, Inc. (USLF), respects your privacy! Any and all information you provide will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to USLF will be held with the utmost care, and will not be used in ways that you have not consented to. If you have any questions, please let us know.
 
 > **Resale or disclosure of information to third parties:**   
 > USLF does not sell, rent, loan, trade, or lease any personal information collected at our site, including membership lists or email lists.
