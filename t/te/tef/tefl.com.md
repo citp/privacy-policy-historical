@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173847id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229030746id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
 
-# TEFL.com - The world's largest real-time database of English Language Teaching Jobs
+# Your Privacy - TEFL.com
 
 **PRIVACY POLICY**
 
@@ -39,5 +39,37 @@ United Kingdom
 
 Tel (UK) +44 (0)709 216 5424  
 Fax/Voicemail (UK) +44 (0)20 7691 7074  
-Fax/Voicemail (US) +1 212 898 0454   
 [Click here](http://www.tefl.com/home/contact.html) to send an e.mail
+
+| |   
+|  **City Cost Guide**  
+---  
+  
+[ **How much in...** ](http://www.tefl.com/home/col_survey.html)  
+Check your daily living costs Worldwide!  
+**81 cities in 56 countries**  
+  
+**Get the latest TEFL.com jobs direct to your desktop via our[RSS](http://www.tefl.com/syndicate/jobs.rdf?8f14724fd705c9a3be43cfeb85b0445a "RSS 1.0")feed **  
+[What's this?](https://web.archive.org/home/rss.html)
+
+[](http://www.tefl.com/jobprompt/)
+
+  
+**ELT Bookshop**  
+---  
+ **A Training Course for TEFL** by _Peter Hubbard_
+
+This is an excellent, comprehensive coverage of the methods of TESL/TEFL teaching! Perfect for anyone teaching TEFL but unable to attend a full training course. Also useful for teachers in the field.
+
+  
+Order from [UK](http://www.amazon.co.uk/exec/obidos/redirect?tag=teflprofession04%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=0194327108%2526tag=teflprofession04%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0194327108%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) | [US](http://www.amazon.com/exec/obidos/redirect?tag=teflprofession01%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0194327108%2526tag=teflprofession01%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0194327108%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) | [Canada](http://www.amazon.ca/exec/obidos/redirect?tag=teflcom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.ca/gp/redirect.html%253fASIN=0194327108%2526tag=teflcom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0194327108%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2)
+
+**The Phonology of English as an International Language: New Models, New Norms, New Goals (Oxford Applied Linguistics S.)** by _Jennifer Jenkins_
+
+Academically stimulating, pedagogically useful Dr. Jenkins adds to the Standard English and Core English debate with this very useful study of the pronunciation of English as international lingua franca. By taking what is actually comprehensible, rather than measuring pronunciation against often unattainable, so-called native speaker standards, Jenkins offers a way into establishing an international standard of English, not only in the area of phonology, but with immense possibilities for grammar and lexis.  
+On the practical side, Jenkins' work should at last liberate English language classrooms from the tyranny of RP and GA pronunciation and allow teachers to get on with the essential task of preparing learners for international communication.Linguists, applied linguists, EL teachers and teacher educators can all benefit enormously from this excellent work.
+
+  
+Order from [UK](http://www.amazon.co.uk/exec/obidos/redirect?tag=teflprofession04%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=0194421643%2526tag=teflprofession04%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0194421643%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) | [US](http://www.amazon.com/exec/obidos/redirect?tag=teflprofession01%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0194421643%2526tag=teflprofession01%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0194421643%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) | [Canada](http://www.amazon.ca/exec/obidos/redirect?tag=teflcom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.ca/gp/redirect.html%253fASIN=0194421643%2526tag=teflcom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0194421643%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) [Find more ELT books](http://www.tefl.com/home/booksearch.html?cat=ELT "click to search the TEFL.com Bookshop")  
+  
+
