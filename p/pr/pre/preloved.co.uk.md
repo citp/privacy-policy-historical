@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402015233id_/http%3A//www.preloved.co.uk/fuseaction-privacy.default/589c4985.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229220413id_/http%3A//www.preloved.co.uk/fuseaction-privacy.default/589c4985.html) for the most accurate reproduction.*
 
 # Preloved | Buy and Sell Online for Free in UK and Ireland
 
-It is clear from a number of comments received from customers, that privacy is an important issue when joining a site such as ours. Therefore, we have laid out a clear policy to demonstrate that we are actively taking steps to protect our customers' privacy. 
+We take your privacy very seriously and are keen to ensure that you do not receive any unwelcome messages or spam as a result of your joining Preloved. 
 
 **Most importantly:**
 
@@ -57,9 +57,7 @@ This web site contains links to other sites. Please be aware that Preloved Class
 Preloved is a trading name of Moo Ltd. Moo Ltd is registered under the Data Protection Act 1984, registration number PZ8708167. The company may be contacted at: 
 
 Moo Ltd   
-8 Capel Terrace   
-Southend on Sea   
-Essex   
-SS1 1EX 
+PO Box 2115   
+SS8 8WU 
 
 _Privacy statement last revised 10th August 2004_
