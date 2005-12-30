@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spamarrest.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403165238id_/http%3A//spamarrest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spamarrest.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230175227id_/http%3A//www.spamarrest.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # Spam Arrest - Privacy Policy
 
@@ -40,7 +40,6 @@ Spam Arrest is the sole owner of the information collected on this Site. Persona
   * to contact you about your use of the Site or about our products and services; 
   * to respond to your comments or requests; 
   * to maintain a record of the relationship between email addresses to provide the Spam blocking services; 
-  * to verify and re-verify of the identity of Senders; 
   * to request feedback and to enable us to develop and improve the Site and our products and services; 
   * for internal and Spam Arrest marketing/promotional purposes including newsletters; and 
   * for the specific purpose for which the information was provided and to otherwise provide the Spam blocking services described in the Spam Arrest Terms of Service Agreement. 
@@ -50,7 +49,9 @@ For example, we send new Customers and other users a welcoming email to verify p
 
 
 
-For Senders, in addition to the uses of personal information set forth above, Sender's information may also be sold (but not to third party direct marketers) or otherwise provided to Spam monitoring or compliance agencies or organizations (government and non-government including, without limitation ICANN). Sender's information will also be used to confirm your identity as a party authorized to send email to a particular Customer or Customers, to develop and maintain "scoring" information attributable to a particular Sender's email address, to track how many times you have sent emails to a Customer and to otherwise provide the Spam blocking services described in the Spam Arrest Terms of Services Agreement. 
+For Senders, your information will be used to confirm or re-confirm your identity as a party authorized to send email to a particular Customer or Customers, to develop and maintain "scoring" information attributable to a particular Sender's email address, and to provide the Spam blocking services described in the Spam Arrest Terms of Services Agreement. **Your email address will not be used for marketing purposes, sold or shared with third parties** , unless required by law. 
+
+For Spammers, your information may be sold or otherwise provided to Spam monitoring, compliance, government and non-government organizations. 
 
 Except as set forth herein, Spam Arrest will not disclose Customer email addresses, or the email addresses of Senders, to any third parties, including, but not limited to, direct marketers. 
 
