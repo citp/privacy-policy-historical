@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evworld.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405075535id_/http%3A//www.evworld.com/general.cfm%3Fsection%3Dadmin%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evworld.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230184559id_/http%3A//www.evworld.com/general.cfm%3Fsection%3Dadmin%26page%3Dprivacy) for the most accurate reproduction.*
 
 # EV World: The World of Electric, Plug-in Hybrid, Fuel Cell and Alternative Fuel Vehicles
 
