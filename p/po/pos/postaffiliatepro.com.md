@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the postaffiliatepro.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204042026id_/http%3A//www.qualityunit.com/%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postaffiliatepro.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230115211id_/http%3A//www.qualityunit.com/privacy-policy-quality-unit.html) for the most accurate reproduction.*
 
-# WebraDev - Professional/ Free Affiliate Script
+# QualityUnit - Affiliate Software | Web Data Extraction | Help Management
 
-Privacy Statement for Quality Unit
+[Home](http://www.qualityunit.com/) > Privacy Policy 
 
-About Us
+   Privacy Policy
 
 This is a privacy policy for Quality Unit. Our homepage on the Web is located at [ http://www.qualityunit.com](http://www.qualityunit.com/). 
 
 We invite you to contact us if you have questions about this policy. You may contact us by e-mail at [ support@qualityunit.com](mailto:support@qualityunit.com). 
 
-Additional Information
-
 This policy is valid until 1 jan, 2007 at 12:00:00 GMT+01:00. 
-
-Data Collection
 
 P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 4 data groups. The data practices of each group will be explained separately. 
 
@@ -127,8 +123,6 @@ The following explanation is provided for why this data is collected:
 
 * * *
 
-Cookies
-
 Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
 
 Our site makes use of cookies. Cookies are used for the following purposes: 
@@ -139,8 +133,6 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 
 
 * * *
-
-Compact Policy Summary
 
 The compact policy which corresponds to this policy is: 
     
@@ -175,8 +167,6 @@ The following table explains the meaning of each field in the compact policy.
 The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
 
 * * *
-
-Policy Evaluation
 
 Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
 
@@ -215,6 +205,7 @@ Microsoft Internet Explorer 6 will evaluate this policy's compact policy wheneve
   * **Medium High:** Since opt-in is not required, the cookie will be **blocked**. 
   * **High:** Since opt-in is not required, the cookie will be **blocked**. 
 
+  
   
 A policy which is considered unsatisfactory by Internet Explorer 6 contains certain categories of data which are used or shared in a particular manner. This policy is placed in the unsatisfactory category, because the following categories of data are associated with this policy's cookies: 
 
