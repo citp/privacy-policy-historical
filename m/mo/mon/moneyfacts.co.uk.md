@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyfacts.co.uk privacy policy that was archived on 2005-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050427080950id_/http%3A//www.moneyfacts.co.uk/terms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyfacts.co.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230084748id_/http%3A//www.moneyfacts.co.uk/terms.asp) for the most accurate reproduction.*
 
 # Moneyfacts - the UK's leading independent financial website
 
