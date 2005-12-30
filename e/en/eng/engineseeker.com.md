@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the engineseeker.com privacy policy that was archived on 2005-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050215032532id_/http%3A//engineseeker.com/engine_seeker_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineseeker.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230085958id_/http%3A//engineseeker.com/engine_seeker_privacy.htm) for the most accurate reproduction.*
 
-# EngineSeeker.com
-
-  
-
+# welcome to engineseeker.com
 
 Evisions Marketing Inc - EngineSeeker.com Site Privacy ( **SP** ) And Client User Policy's ( **CUP** ).
 
-  
 Evisions Marketing Inc. ("EVISIONS") has published this PRIVACY Policies page in an effort to enhance the use of the Internet by promoting responsible use and in an effort to provide a reliable, high-quality service to its customers. In regard, EVISIONS requires its customers and other third-party users (collectively, its "USERS") to utilize our services, websites and networks responsibly and in compliance with all applicable state laws (within Arizona) and the terms of our privacy page which applies to all active websites that EVISIONS currently owns and operates.
 
 **Information That We Collect And May Use**  
@@ -24,20 +20,16 @@ USERS have the right to OPT OUT by letting EVISIONS know that USER is not intere
 
 **Cookies**
 
-A cookie is a piece of data stored on the USERS hard drive containing information about the USER. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, a cookie simply terminates. For instance, by setting a cooking for EVISIONS, the user would not have to log in a password more than once, thereby saving time while on our site. If a USER rejects the cookie, they may still use our site however without cookies the USER may not have access to certain features on our site. Cookies can also enable EVISIONS to track and target the interests of our USERS to enhance the experience on our site. Some of EVISIONS business partners use cookies on EVISIONS websites (for example, advertisers or software usage). However, EVISIONS have no access to or control over these cookies.
+A cookie is a piece of data stored on the USERS hard drive containing information about the USER. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, a cookie simply terminates. For instance, by setting a cooking for EVISIONS, the user would not have to log in a password more than once, thereby saving time while on our site. If a USER rejects the cookie, they may still use our site however without cookies the USER may not have access to certain features on our site. Cookies can also enable EVISIONS to track and target the interests of our USERS to enhance the experience on our site.Some of EVISIONS business partners use cookies on EVISIONS websites (for example, advertisers or software usage). However, EVISIONS have no access to or control over these cookies.
 
 **Links**
 
 EVISIONS websites may contain links to other websites. Please be aware that EVISIONS is not responsible for the privacy practices of such other sites. We encourage our USERS to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by EVISIONS and all of EVISIONS owned and operated websites.
 
 **Legal**  
-EVISIONS and all owned and operated sites of EVISIONS uses our centrally located legal page. [Click Here](https://web.archive.org/web/20050215032532id_/http%3A//engineseeker.com/engine_seeker_legal.htm) for USER agreements.
+EVISIONS and all owned and operated sites of EVISIONS uses our centrally located legal page. [Click Here](http://www.engineseeker.com/engine_seeker_legal.htm) for USER agreements.
 
-  
 **Modifications**  
 EVISIONS reserves the right to modify this privacy page from time to time without notice in EVISIONS sole discretion. Such modifications shall be effective when posted.
 
 12/16/04 
-
-  
-
