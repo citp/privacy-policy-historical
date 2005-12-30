@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteuptime.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305050718id_/http%3A//www.siteuptime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteuptime.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230113135id_/http%3A//www.siteuptime.com/privacy.php) for the most accurate reproduction.*
 
 # SiteUptime - Free Website Monitoring Service
 
