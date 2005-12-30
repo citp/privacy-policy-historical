@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wilkinsrv.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205191716id_/http%3A//wilkinsrv.com/content.asp%3Fid%3D138%26uid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilkinsrv.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230212029id_/http%3A//www.wilkinsrv.com/content.asp%3Fid%3D138%26uid%3D) for the most accurate reproduction.*
 
-# Welcome to Wilkins RV
+# Welcome to Wilkins RV: Privacy Policy
 
 **_Privacy Policy_**
 
