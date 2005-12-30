@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525124354id_/http%3A//www.learndirect.co.uk/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230084153id_/http%3A//www.learndirect.co.uk/privacystatement) for the most accurate reproduction.*
 
 # learndirect - Privacy Statement
 
-By using this website you accept the terms of this privacy statement, the [copyright](http://www.learndirect.co.uk/copyright/) statement and the [terms and conditions](http://www.learndirect.co.uk/terms/) on this website.
+By using this website you accept the terms of this privacy statement, the [copyright](https://web.archive.org/copyright/) statement and the [terms and conditions](https://web.archive.org/terms/) on this website.
 
 ### Our commitment to privacy
 
@@ -55,6 +55,7 @@ When you register with us, you (or the person registering for you) must tell us 
   * your sex;
   * your date of birth;
   * your address;
+  * your employment status;
   * where you heard about us;
   * if you have done any learning in the last three years.
 
@@ -85,38 +86,42 @@ From time to time we may run competitions and promotions on the website. If you 
 
 ### Other information we collect
 
-If you require a free information pack, we ask you to provide us with the information on the "request more information" form on the website, including :
+If you require a free information pack, we ask you to provide us with the information on the "request more information" form on the website, including : 
 
-  * Title;
-  * Full name;
-  * Full address;
-  * An indication of courses in which you are interested;
-  * Whether you would like to know where your nearest **learndirect** centres are;
-  * Where you heard about us.
-
-
-
-You can also decide to give us your home and mobile telephone numbers and your email address but you only need to do this if you want us and/or our approved learning providers to contact you about **learndirect** developments and offers.
-
-If you are looking for information about learndirect in other countries, we ask you to provide an email address.
-
-If you do not register as a member but use one of our online tests to test your skills, we ask you to provide your full name. This information is not retained by us but is used only when sending you your test results.
-
-You may also provide personal data through :
-
-  * calls to our helplines;
-  * letters and e-mails;
-  * customer feedback forms;
-  * our messaging system; or
-  * any conference, chatroom, message board, web space or other learning or communications facility operated by us.
+  * Title; 
+  * Full name; 
+  * Full address; 
+  * An indication of courses in which you are interested; 
+  * Whether you would like to know where your nearest **learndirect** centres are; 
+  * Where you heard about us. 
 
 
 
-We may record calls to helplines for quality and training purposes only. We will store calls for about three months and we will keep them confidential. In general, if you contact us, we may keep a record of your query or complaint for a reasonable time in case you contact us again.
+You can also decide to give us your home and mobile telephone numbers and your email address but you only need to do this if you want us and/or our approved learning providers to contact you about **learndirect** developments and offers. 
+
+If you are looking for information about **learndirect** in other countries, we ask you to provide an email address. 
+
+If you do not register as a member but use one of our online tests to test your skills, we ask you to provide your full name. This information is not retained by us but is used only when sending you your test results. 
+
+You may also provide personal data through : 
+
+  * calls to our helplines; 
+  * letters and e-mails; 
+  * customer feedback forms; 
+  * our messaging system; or 
+  * any conference, chatroom, message board, *Paging, web space or other learning or communications facility operated by us. 
+
+
+
+*Please be aware that ‘Paging’ is where others using **learndirect** forums and chat can send a message direct to your computer whilst you are also in the **learndirect** forums and chat area. 
+
+We may record calls to helplines for quality and training purposes only. We will store calls for about three months and we will keep them confidential. In general, if you contact us, we may keep a record of your query or complaint for a reasonable time in case you contact us again. 
 
 ### Sensitive personal data
 
 When you register as a member or learner, you do not have to provide us with sensitive personal information. Where we invite you to provide such information, we will ask you to consent to our proposed uses of such data.
+
+At enrolment you may be asked for sensitive personal information. If you do not wish to provide this information you may select the "Not Known/Not Provided" option.
 
 You may also volunteer sensitive personal data to us or our approved learning providers, for example, when you submit a query or comment to us via the website or some other means of communication. If you do so, you explicitly consent to our using such information as described in this Privacy Statement. 
 
@@ -134,16 +139,16 @@ Sensitive personal data includes details of your :
 
 ### How we use the information we collect
 
-We use your personal information :
+We use your personal information : 
 
-  * to answer your queries or complaints;
-  * to deliver our membership services, for example on-line tools to test your skills, chat rooms and message boards;
-  * to support your learning;
-  * to provide course materials;
-  * to carry out administration;
-  * for general statistics and research;
-  * for obtaining any relevant professional advice;
-  * as may be required by law or in connection with legal proceedings (including where we intend to take legal proceedings), or as may be necessary to establish, exercise or defend our legal rights.
+  * to answer your queries or complaints; 
+  * to deliver our membership services, for example on-line tools to test your skills, chatrooms, message boards and Paging facilities; 
+  * to support your learning; 
+  * to provide course materials; 
+  * to carry out administration; 
+  * for general statistics and research; 
+  * for obtaining any relevant professional advice; 
+  * as may be required by law or in connection with legal proceedings (including where we intend to take legal proceedings), or as may be necessary to establish, exercise or defend our legal rights. 
 
 
 
@@ -173,7 +178,9 @@ We will never use your sensitive data for marketing purposes or to target you fo
 
 ### Funding
 
-We, and our approved learning providers, may use your personal data to process or to support any application you make for funding. For these purposes we, or our approved learning providers, will share the information you supply with the [Learning and Skills Council](http://www.lsc.gov.uk/) in England (who may in turn share it with the European Social Fund), or other government agencies that may provide funding for your course, including the [Department for Employment and Learning](http://www.delni.gov.uk/) in Northern Ireland and the [National Council for Education and Learning Wales](http://www.elwa.ac.uk/). We, or our approved learning providers, may also share it with the [Adult Learning Inspectorate](http://www.ali.gov.uk/) so that it can check our use of public monies. If you do not want us to use your personal data for these purposes, we will not be able to offer you the course at the reduced price.
+We, and our approved learning providers, may use your personal data to process or to support any application made for funding associated with your learning. For these purposes we, or our approved learning providers, will share the information you supply with the [Learning and Skills Council (LSC)](http://www.lsc.gov.uk/) in England. The LSC may in turn share it with the European Social Fund, or other government agencies that may provide funding for your course, including the [Department for Employment and Learning](http://www.delni.gov.uk/) in Northern Ireland and the [National Council for Education and Learning Wales](http://www.elwa.ac.uk/). We, or our approved learning providers, may also share it with the [Adult Learning Inspectorate](http://www.ali.gov.uk/) so that it can check our use of public monies. If you do not want us to use your personal data for these purposes, we will not be able to offer you the course at the reduced price.
+
+At the point this information is collected you will be asked to indicate if you do not wish to be contacted by the LSC or its partners in respect of courses, surveys and research. Please read the [LSC Data Protection Statement](https://web.archive.org/home/ilr/lscdpa/)
 
 We, or the government agency providing funding for your course, may use your personal data to investigate a suspected misuse of public monies or other fraudulent activity by any person relating to your learning activity. In doing so, we, or the government agency providing funding for your course, may disclose your information to other government agencies (e.g. the [Department for Work and Pensions](http://www.dwp.gov.uk/)) to establish whether there has been any duplication of funding for your course.
 
@@ -187,7 +194,7 @@ If you have not registered as a learner or member but are simply making an enqui
 
 ### Protecting your personal information
 
-As a registered data controller, we are required to take appropriate technical measures to protect your personal information including making a regular backup of our system and data. We have security measures in place to make sure any personal information we collect is secure. Your account is password protected and all information is on a secure server, which only a limited number of employees can access. If you think someone else knows your password, or is using it, tell us immediately and change your password using the "change my password" option under "your details" on your learner home page.
+As a registered data controller, we are required to take appropriate technical measures to protect your personal information including making a regular backup of our system and data. We have security measures in place to make sure any personal information we collect is secure. Your account is password protected and all information including your password is on a secure server, which only a limited number of employees and sub-contractors can access. All parties with access to your information are subject to confidentiality obligations. If you think someone else knows your password, or is using it, tell us immediately and change your password using the "change my password" option under "your details" on your learner home page.
 
 Even though we take appropriate technical steps to protect your security, you should remember that data transmission over the internet cannot always be guaranteed as 100% secure so you use the website at your own risk.
 
@@ -244,6 +251,6 @@ You have the right to ask for a copy of all the information we hold about you (w
 
 Our website contains links to other websites. We are not responsible for the privacy policies of other sites and we advise you to read the privacy statement of every website that collects personal information from you.
 
-### Last updated : 8th January 2005
+### Last updated : 20th December 2005
 
 Back to top
