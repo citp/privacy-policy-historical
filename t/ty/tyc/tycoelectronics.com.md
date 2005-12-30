@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tycoelectronics.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624014928id_/http%3A//www.tycoelectronics.com/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tycoelectronics.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230084120id_/http%3A//www.tycoelectronics.com/privacy.stm) for the most accurate reproduction.*
 
 # Welcome to Tyco Electronics - Privacy Statement
 
@@ -26,7 +26,7 @@ Tyco Electronics maintains strict physical, electronic, and administrative safeg
 You may review and update the information that you provide to Tyco Electronics through this Site by contacting us as described below. 
 
 **Contacting Us**  
-If you have any questions about this privacy policy, please use the Contact Us page. Tyco Electronics [welcomes your questions and suggestions](https://web.archive.org/web/20040624014928id_/http%3A//www.tycoelectronics.com/cust.stm) about this privacy policy. 
+If you have any questions about this privacy policy, please use the Contact Us page. Tyco Electronics [welcomes your questions and suggestions](https://web.archive.org/web/20051230084120id_/http%3A//www.tycoelectronics.com/cust.stm) about this privacy policy. 
 
 **Changes to this Policy**  
 Please check this privacy policy periodically to inform yourself of any changes. Although Tyco Electronics reserves the right to modify or supplement this privacy policy, Tyco Electronics will provide notice to you on this Site of any major changes for at least 30 days following the change. 
