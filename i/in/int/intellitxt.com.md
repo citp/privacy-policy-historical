@@ -1,12 +1,21 @@
-> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406065114id_/http%3A//intellitxt.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230075236id_/http%3A//intellitxt.com/site2005/privacy.html) for the most accurate reproduction.*
 
 # Vibrant Media
 
-Online Privacy Policy
+Vibrant Media Product Privacy Statement:  
+Vibrant Media is a Publisher-side Technology Company.   
+Publisher-side means that all of our solutions reside on the individual server of the websites we partner with.
 
+  * Vibrant Media’s technologies are not downloaded to a user’s desktop.
+  * Vibrant Media’s technologies do not upload personally identifiable information from a user’s desktop.
+  * Vibrant Media’s technologies do not collect or store any personally identifiable user information.
+
+
+
+Vibrant Media Corporate Website Privacy Statement (www.vibrantmedia.com):  
 Vibrant Media, Inc. (“Vibrant Media”) respects the privacy concerns of the users of its Website, www.vibrantmedia.com (the “Website”). Vibrant Media thus provides this privacy statement to explain what information is gathered during a visit to the Website and how such information may be used
 
-Use of Information: As a general policy no personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to the Website. However, certain non-personal information is recorded by the standard operation of Vibrant Media’s Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience.
+Use of Information: As a general policy no personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to the Website. However, certain non-personal information is recorded by the standard operation of Vibrant Media’s Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience. 
 
 The Website may request that you give us contact information such as your name, mailing and/or e-mail address; demographic information such as your age and gender; and personal preference information. Information submitted at the time of submission will be used by Vibrant Media only as necessary for our legitimate business interests, including without limitation the improvement of our products, services and the contents of the Website. Vibrant Media may also share such information with our business and promotional partners to further those interests. Personally identifiable information is never sold or leased to any third parties. Vibrant Media also discloses, for marketing purposes, the names of web publishers, advertising networks, advertising agencies and advertisers who have signed agreements with Vibrant Media, unless such parties have specifically requested in writing that Vibrant Media keep this information confidential. With your permission, we may also use your contact information to send you information about our company and products. You may always opt-out of receiving future mailings as provided below.
 
@@ -51,13 +60,13 @@ Contact Information for Questions, Comments and Complaints: If you have any ques
 
 Via mail:
 
-> Vibrant Media, Inc.  
->  2 Shaw Alley, 5th Floor   
->  San Francisco, CA 94105
+Vibrant Media, Inc.  
+2 Shaw Alley, 5th Floor   
+San Francisco, CA 94105
 
 Via email:
 
-> [info@vibrantmedia.com](mailto:info@vibrantmedia.com)
+[info@vibrantmedia.com](mailto:info@vibrantmedia.com)
 
 Information provided by you via general e-mail inquiries to Vibrant Media such as your e-mail address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties.
 
@@ -65,4 +74,4 @@ Security: Security for all personally identifiable information is extremely impo
 
 Your Acceptance of These Terms: By using the Website, you accept the policies and restrictions set forth in this Online Privacy Policy. If you do not agree to this policy, please do not use the Website. This Online Privacy Policy may be revised from time to time by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the then current Online Privacy Policy to which you are bound.
 
-Last updated March 30, 2004
+Last updated June 10th, 2005
