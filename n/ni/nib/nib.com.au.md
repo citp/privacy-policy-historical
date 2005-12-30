@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nib.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615200753id_/http%3A//www.nib.com.au/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nib.com.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231000450id_/http%3A//www.nib.com.au/about/privacy.asp) for the most accurate reproduction.*
 
 # NIB Health Funds - Private Health Cover - NIB Privacy Policy
 
@@ -87,7 +87,7 @@ NIB Privacy Policy
 
 About this document
 
-> NIB is committed to protecting your privacy and any personal information we collect from you. NIB has implemented measures to comply with its obligations under the Privacy Act 1988 (Cth). This document explains how we deal with your personal information.
+> NIB is committed to protecting your privacy and any personal information we collect from you. NIB has implemented measures to comply with its obligations under the Privacy Act 1988 (Cth). This document explains how NIB may use your personal information.
 
 Why does NIB collect my personal information? 
 
@@ -149,9 +149,7 @@ Will your personal information be given to anyone else?
 > 
 
 > 
-> NIB may also be required to disclose your personal information to other individuals on your NIB membership. At the time of joining NIB, the member (ie. the person applying for membership) authorises NIB to share information with other individuals on the NIB membership.
-> 
-> You can withdraw your consent to NIB disclosing your personal information by advising NIB in writing.
+> NIB may also be required to disclose your personal information to other individuals on your NIB membership. At the time of joining NIB, the member (ie. the person applying for membership) authorises NIB to share information with other individuals on the NIB membership. This means we may make the member aware of, for example, the details of all benefits and services claimed on the membership.
 > 
 > NIB will not disclose your personal information to anyone, other than as above, unless:
 > 
