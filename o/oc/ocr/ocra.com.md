@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ocra.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507014134id_/http%3A//www.ocra.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocra.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230120539id_/http%3A//www.ocra.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy & Use of this Website :: OCRA
 
 PRIVACY POLICY   
-Last Updated: 5th October 2004 
+Last Updated: 17th November 2005
 
 » Introduction  
 » Application of this Privacy Policy  
@@ -56,7 +56,7 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 ### Sites Covered by this Privacy Policy
 
   
-This Privacy Policy applies to all Members of OCRA Worldwide and domains owned by Members of OCRA Worldwide (the "OCRA Worldwide Websites"). 
+This Privacy Policy applies to www.ocra.com. 
 
 ### Links to Non-OCRA Worldwide Websites
 
@@ -128,4 +128,4 @@ Tower Street
 Ramsey, Isle of Man IM8 1JA  
 British Isles 
 
-[](https://www.truste.org/ivalidate.php?url=www.ocra.com)
+[](http://www.truste.org/ivalidate.php?url=www.ocra.com&sealid=101)
