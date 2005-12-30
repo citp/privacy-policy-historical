@@ -1,0 +1,25 @@
+> *The following text is extracted and transformed from the spark.net privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230133520id_/http%3A//www.spark.net/privacy.htm) for the most accurate reproduction.*
+
+# Spark Networks
+
+This statement explains how we may collect and use information about you through our website. If you have any questions about our privacy policies, want to exercise your right to see a copy of the information that we hold about you, or think that information we hold about you may need to be corrected, please click here to send an email to our [data privacy officer](mailto:legal@spark.net).
+
+As you would expect, we monitor visits to our website, principally so that we can make sure that it is easy to navigate, identify the areas that are of particular interest to visitors and generally improve the site and our services.
+
+The information that we collect in this process will not identify you as an individual. We do not seek to identify individual visitors unless they volunteer their contact details through one of the contact features on the site. In some circumstances, our records will identify organizations visiting our site and we may use that information in managing our relationships with those organizations - for example, in considering how to develop the services that we offer them.
+
+We use data collection devices such as "cookies" on certain pages of our website. "Cookies" are small files placed on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a "cookie". Cookies can also help us provide information which is targeted to your interests. Most cookies are "session cookies,” meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits.
+
+Various pages on our site invite you to submit your contact details and other information about yourself or your organization, or to send us emails which will, of course, also identify you.
+
+Voluntarily provided information is collected online if you elect to make an "Information Request" in our Investment Services section or request an "Online Press Kit" in our Press Room section. Whenever either of these requests is made, we will collect your name, email address, mailing address, company and phone number, as well as any specific comments or questions that you provide. We also offer general "contact us" features on this website, in which you will be asked to provide your name and email address. In addition, our website provides members of the press an opportunity to request additional information from our "Media Relations Contact," which requires requesting parties to provide their names and email addresses.
+
+If we propose to use your details to send you information to inform you of news related to Spark Networks plc, its financial and investor information which we believe may be of interest to you (other than information that you have specifically requested), we give you an opportunity to tell us that you do not wish to receive such information by checking a box - alternatively, you can let us know your preferences by sending an email to "[legal@spark.net](mailto:legal@spark.net)" or contacting our Investor Relations by telephone at 323 836 3000 or by mail at 8383 Wilshire Boulevard, Suite 800, Beverly Hills CA 90211. We will not use your information for purposes that are not clear when you provide your details, and will not disclose to third parties, except in very limited circumstances - for example, with your agreement or where we are legally obliged to do so.
+
+This website contains links to our various online personals websites which we own and operate. The linked sites, have different privacy policies than that of this website, and we recommend that before you provide any personal information, you review the privacy policy associated with the site where you will be submitting your information.
+
+This website may also contain links to other websites, which are operated by unrelated third parties. The websites to which we provide links may use cookies and may collect information about your browsing and Internet navigational history. The linked websites may also allow opportunities for you to voluntarily provide information. The linked sites, may have different privacy policies than that of this website. Therefore, before you provide any personal information, we recommend that you review the privacy policy associated with the webpage where you will be submitting your information.
+
+If you are visiting our site from a location outside of the U.S., your connection will be through and to servers located in the U.S. Information you provide will be maintained in web servers and internal systems located within the U.S. The laws on holding personal data in the U.S. may differ from other countries and may not always be equivalent to the level of protection that may be provided in your own country.
+
+| 
