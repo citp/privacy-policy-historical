@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stats.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403113208id_/http%3A//www.stats.com/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stats.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230034847id_/http%3A//www.stats.com/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# STATS, Inc.
+# STATS
 
-****STATS, Inc. ("STATS") is part of the News America Group, which has adopted a set of[Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. STATS has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. 
+****STATS ("STATS") is part of the News America Group, which has adopted a set of[Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. STATS has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. 
 
 From time to time STATS may revise this Privacy Policy to reflect changes in the law, technology or industry initiatives. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. 
 
@@ -56,7 +56,7 @@ You may contact STATS via e-mail at support@stats.com or via fax at (847) 470-91
 
 If you have any concerns or questions about the STATS Privacy Policy please feel free to contact us via e-mail at support@stats.com, via phone at (888) 450-2730, or via mail at: 
 
-**STATS, Inc.  
+**STATS  
 8130 Lehigh Ave.   
 Morton Grove, IL 60053   
 Attn: Customer Service **
