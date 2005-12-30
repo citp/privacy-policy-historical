@@ -1,92 +1,82 @@
-> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626083349id_/http%3A//www.ams.org/ams/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230024009id_/http%3A//www.ams.org/ams/privacy.html) for the most accurate reproduction.*
 
 # AMS Privacy Statement
 
-**The American Mathematical Society** (AMS) is committed to providing a secure private environment for its members and customers to communicate and carry out transactions online. This page summarizes our current information gathering and dissemination practices.  
+Personal Information  
+The AMS may collect personally identifiable information such as name, postal address, telephone number, e-mail address, institution affiliation, credit card number, checking account number, or date of birth through various activities of the Society. This personal information is collected and used by AMS staff for the purpose of facilitating a relationship or business transaction. 
+
+The AMS website resides behind a firewall and uses SSL (Secure Sockets Layer, the industry-standard security protocol used to communicate with browsers) to transmit personal information. Data is strongly encrypted during transmission to ensure that personal and payment information is secure. Industry-standard data encryption techniques are used to protect personal information on AMS computers. SSL-capable browsers typically have a symbol on the browser window to indicate when they are in a secure mode. In addition, the URL will begin with "https:" for all browsers.
+
+**E-mail**  
+The AMS does not sell or rent e-mail addresses to other organizations. Certain e-mail addresses may be published in both print and electronic AMS publications including the AMS website. The AMS may generate e-mail for the following types of communication: 
+
+  1. Notification e-mail to which the individual may subscribe and unsubscribe.
+  2. Transactional e-mail, which is the result of a business transaction initiated with the AMS.
+  3. Relationship e-mail, which is sent as an informational service because of a relationship with the AMS.
+  4. Commercial e-mail, which is sent to promote an AMS product or service (You may opt not to receive this type of e-mail).
+  5. Correspondence from AMS staff as a result of a communication initiated by a member or customer.
 
 
-### Email Privacy
 
-Your email address will be used only within the AMS. AMS-generated email includes three types of communications: 1) automatically-generated email services to which individuals may subscribe and easily unsubscribe (e.g. article posting and new title notifications), 2) periodic notifications provided as a service to members (e.g. dues renewal information) and/or to others in the mathematical community (e.g. subscription access information) and 3) correspondence with individuals.
+E-mail that has a provision for opt-out will include instructions on how to do so. All inquiries regarding subscription-based e-mails should be directed to the AMS Member and Customer Services Department (see AMS Contact Information below). 
 
-We do not sell or rent email addresses to anyone outside the AMS. 
+**Mailing Lists**  
+Postal mailing list’s, comprised of full name and postal address, may be sold to other organizations (e.g. professional societies and/or commercial publishers) for one-time promotional or informational use. Promotional or informational materials are subject to AMS approval prior to the rental. E-mail addresses are not included in mailing lists.
 
-###  You may "Opt-Out"/Choose to be removed from AMS emails:
+The AMS may occasionally send informational or promotional materials to members and customers. You may choose to exclude yourself from all, none, or only non-AMS mailings by contacting the Member and Customer Services Department (see AMS Contact Information).
 
-By email: [cust-serv@ams.org](mailto:cust-serv@ams.org). Or, if you have subscribed to a majordomo (automatically-generated) email notification service, instructions to “unsubscribe” are at the bottom of each message you receive.
+**Third-party Agents**  
+The AMS uses third-party agents for several business purposes, including credit card validation, hotel registration, and shipping. These agents are permitted to use your personal information only to provide the AMS with a specific service and not for any other purpose. Please contact the AMS Member and Customer Service Department (see AMS Contact Information) if you believe this policy has been violated.
 
-By mail: American Mathematical Society, Attn: Membership and Customer Services, 201 Charles Street, Providence, RI 02904, USA
+The AMS makes every effort to preserve your privacy, but we may need to disclose personal information when required by law. The AMS may also disclose personal information if it believes in good faith that such action is necessary.
 
-By telephone: 800-321-4267 (U.S. and Canada) or 401-455-4000 (worldwide) 
+Non-personal Information    
+Non-personal information is collected behind the scenes by the AMS web server and is used to compile general website usage statistics or facilitate access to restricted website services. Such information includes: 
 
-By fax: 401-331-3842 
+  * IP address of computer
+  * Browser-related information
+  * Locations visited on the website
+  * HTTP cookies
 
-### Security
 
-Security falls into two areas: data encryption during transmission and data processing.
 
-The AMS website uses SSL (Secure Sockets Layer, the industry-standard security protocol used to communicate with browsers). Data are strongly encrypted during transmission to ensure that personal and payment information are secure. SSL is used on the AMS Website where individuals register for meetings, purchase products, renew membership, join the AMS, make contributions, and/or subscribe to services. 
+**IP address**  
+IP address is used to verify access rights of licensed subscribers to AMS products that require license agreements, such as AMS Electronic Journals and MathSciNet. They also aid in the general administration of the website.
 
-Once your information is received at the AMS, procedures are in place to protect it from loss, misuse, or alteration. 
+**HTTP Cookies**  
+A HTTP Cookie is a piece of data that is stored by your browser in either your computer’s memory or on your computer’s hard drive. The AMS uses cookies to keep track of user session identity on the website, such as tracking items in a bookstore shopping cart or maintaining access to restricted website services via the AMS Web Account. Cookies are also used to track the effectiveness of various services provided on the AMS website. Browsers generally allow you to disable cookies. Services on the AMS website that require a login to an AMS web account require that cookies are enabled.
 
-###  Registration and Membership Renewal Forms
+**Public Forums**  
+Several public forums are hosted on the AMS website. The inherent public nature of these forums dictates that the AMS assumes no responsibility for protecting the information disclosed on them by users. Please exercise caution when disclosing personal information in public forums.
 
-Our site's registration and membership renewal forms require users to give us contact information (e.g. name and email address), method of payment, unique identifiers (such as AMS membership codes), and, sometimes, demographic information. We use contact information from the registration forms to contact you when necessary. The unique identifiers are used to verify the user's identity and to establish account numbers in our record system. Information regarding method of payment is collected for member enrollment and renewal, and to process orders for products and services.
+**External Links**  
+The only domain covered by the AMS privacy policy is ams.org. The AMS website may contain links to other sites, however, and the AMS is not responsible for the privacy practices or content of those external sites.
 
-Demographic information about individuals (ascertained from communications, transactions or surveys) is kept confidential and is used by the AMS only in compiling statistical information in the aggregate about and for the mathematical community. 
+How can you update your personal Information?
 
-###  **E-Commerce**
+You can make changes to personal information in several ways:
 
-The AMS Bookstore provides an order form for customers. We collect contact information (e.g. email address) and method of payment. Contact information from the order form is used to process orders and to send information about the organization, products, and services. User payment information that is collected is used to check the users' qualifications and to bill the user for products and services. 
+  * Contact AMS Customer Services (see contact information below).
+  * Through your AMS Web Account at https://www.ams.org/ams-web-account
+  * By updating your combined membership list (CML) information at <https://www.ams.org/cml-update>.
 
-###  **Use of Cookies**
 
-A cookie is a piece of data that is stored by your browser. The AMS uses cookies for two purposes: to keep track of your shopping cart and to maintain user session identity. 
 
-The cookie function on your browser may be disabled or the contents erased. Consult your browser help for instructions. Certain functions of the AMS website that require user identification depend on cookies being accepted by your browser. 
+You can contact AMS Customer Services in several ways:
 
-###  **Use of IP Addresses**
+  * By e-mail: cust-serv@ams.org
+  * By postal service:
 
-The AMS uses IP addresses for two purposes: to help diagnose problems with our server in order to best administer our website, and to verify access by a licensed subscriber (for publications that require license agreements, such as AMS journals and MathSciNet). 
 
-Aggregate data such as domain names (not email addresses) are collected to record the number of hits on a page and to compile usage statistics. 
 
-###  **How to tell if a Website is secure**
+> American Mathematical Society  
+>  Attn: Member and Customer Services   
+>  201 Charles St. Providence, RI 02904-2294 USA   
+> 
 
-SSL-capable browsers have a symbol on the browser window that indicates a secure mode: 
+  * By telephone: 800-321-4267 (US and Canada) or 401-455-4000 (worldwide) 
+  * By fax: 401-331-3842 
 
-  * Netscape 1.2, 2.0, and 3.0 have a complete key in the lower left when in a secure area; the key is broken in a normal area. 
-  * Netscape Communicator 4.0 has an closed lock in the lower left corner when in a secure area; they lock is open in a normal area. 
-  * Microsoft Internet Explorer has a closed lock in the lower right 
 
-In addition, the http: portion of the URL has the letter s added so it reads https: 
 
-### External Links
-
-The AMS website provides links to other sites as a service to the mathematical community. The AMS is not responsible for the privacy practices or the content of such websites. 
-
-### Public Forums
-
-The AMS provides the server for other mathematics-related organizations who on their websites manage or moderate some mathematics-related mail lists. Please remember that any information that you disclose on these "listservs" becomes public information and therefore you should exercise caution when deciding to disclose your personal information. 
-
-### Third Party Use
-
-The AMS collects names, mailing addresses, job title, and areas of mathematical interest from members, customers, and meeting attendees. This information may be rented in the form of a mailing list to third parties (professional societies, commercial publishers, for example) for one-time use. Promotional and informational materials are subject to approval by the AMS prior to rental of a mailing list. You may choose to not receive promotional mailings by contacting [cust-serv@ams.org](mailto:cust-serv@ams.org). Email addresses are never included in mailing lists. See Email Privacy for more information. 
-
-### Correct/Update
-
-You can change or modify information previously provided by contacting AMS Customer Services:
-
-By email: [cust-serv@ams.org](mailto:cust-serv@ams.org)
-
-By mail: American Mathematical Society, Attn: AMS Membership and Customer Services, 201 Charles Street, Providence, RI 02904, USA
-
-By telephone: 800-321-4267 (U.S. and Canada) or 401-455-4000 (worldwide)
-
-By fax: 401-331-3842 
-
-### Questions, Comments or Concerns?
-
-**Contact:** AMS Webmaster, American Mathematical Society, 201 Charles Street, Providence, RI 2904, USA. Telephone 800-321-4267 (U.S. and Canada) or 401-455-4000 (worldwide); Fax: 401-331-3842; Email: [webmaster@ams.org](mailto:webmaster@ams.org)
-
-The AMS Privacy Statement is subject to change. Any changes will be made to this page. (April 13, 2004). 
+The AMS Privacy Statement is subject to change and was last modified on July 8, 2005. 
