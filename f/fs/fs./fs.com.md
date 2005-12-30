@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the fs.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610183041id_/http%3A//fs.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230215426id_/http%3A//fs.com/Privacy.cfm) for the most accurate reproduction.*
 
-# Fourth Shift - Fourth Shift Privacy Statement
-
-|  Fourth Shift Privacy Statement
-
-In Brief:
+# Fourth Shift - Privacy Statement
 
 Our goal is to adhere to the highest standards of ethics and professionalism in all we do; a key component of this goal is to display respect for your privacy. This statement details our policies and practices relating to the use of any personally identifying information we collect from you. We collect only the personally identifiable information from you appropriate for a professional business relationship and to enable us to provide you with relevant information on our product and service solutions. We don't collect personally identifiable information without your knowledge, and we don't sell, rent, or in any way redistribute your personal information for purposes of solicitation to anyone outside of the SoftBrands organization or our direct business partners. 
-
-In Detail:
 
 **What information we collect**
 
@@ -40,7 +34,7 @@ Unwanted e-mail, commonly referred to as spam: almost everybody gets at least so
 
 **Making changes to your data**
 
-Subscribers to our Fourth Dimension newsletter or other interested individuals can make changes to the information we have collected from you by following the instructions in the footer of the newsletter or by sending an e-mail to webmaster@fs.com. Customers can edit and update the information we have on file for them by following the instructions in the My Company area of the Customer Home page. 
+Subscribers to our Fourth Dimension newsletter or other interested individuals can make changes to the information we have collected from you by following the instructions in the footer of the newsletter or by sending an e-mail to [webmaster@softbrands.com](mailto:webmaster@softbrands.com). Customers can edit and update the information we have on file for them by following the instructions in the My Company area of the Customer Home page. 
 
 **Web site links**
 
@@ -63,18 +57,8 @@ We may from time to time amend this Privacy Policy, without notice, to assure th
 
 **How to contact us**
 
-Please address any questions or comments on this Privacy Policy or related matters to [webmaster@fs.com](mailto:webmaster@fs.com). 
+Please address any questions or comments on this Privacy Policy or related matters to [webmaster@softbrands.com](mailto:webmaster@softbrands.com). 
 
 We'd like our Privacy Policy to serve as a model for the industry. For information on the free re-use of this policy, send an e-mail to our Webmaster. 
 
-|  |  |   
----  
-| 
-
-“Thanks for the VisiBar class. Since I have been back, I have written a couple of new functions and made changes to others. You did an excellent job teaching the class and I would recommend it to anyone using VisiBar. 
-
-I would also like to mention that everyone at SoftBrands made me feel comfortable. I was a little worried about the class and I wasn't sure if I would understand it. Now looking back on that, my worries were for nothing.”   
-_\- Gaylord Jones , Selee Corporation_
-
-|   
-[](https://web.archive.org/successes/caseStudies.cfm)
+ 
