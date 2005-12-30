@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bangalinet.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403163354id_/http%3A//www.bangalinet.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangalinet.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230011937id_/http%3A//www.bangalinet.com/privacystatement.htm) for the most accurate reproduction.*
 
-# Bangalinet Privacy Statement
+# Bengali Culture : Bengali Entertainment : Bengali Food : Privacy Statement
 
 Bangalinet has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.bangalinet.com.
 
@@ -38,7 +38,7 @@ This site gives users the following options for removing their information from 
 
   1. You can send email to [info@bangalinet.com](mailto:info@bangalinet.com)
   2. You can visit the following URL: [http://www.bangalinet.com](http://www.bangalinet.com/)
-  3. You can send mail to the following postal address: 2/195 Bijoygarh, Calcutta 32.
+  3. You can send mail to the following postal address: 77/2D Ibrahimpur Road, Calcutta 32.
   4. You can call the following telephone number: 91-33-4139977
 
 
@@ -49,7 +49,7 @@ This site gives users the following options for changing and modifying informati
 
   1. email [info@bangalinet.com](mailto:info@bangalinet.com)
   2. visit [http://www.bangalinet.com](http://www.bangalinet.com/)
-  3. send mail to the following postal address: 2/195 Bijoygarh, Calcutta 32.
+  3. send mail to the following postal address: 77/2D Ibrahimpur Road, Calcutta 32.
   4. call the following telephone number: 91-33-4139977
 
 
