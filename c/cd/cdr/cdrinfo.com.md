@@ -1,27 +1,8 @@
-> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602201508id_/http%3A//www.cdrinfo.com/Sections/Privacy/Home.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230194043id_/http%3A//cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
 
-# CDR-Info, The Recording Authority
+# Privacy Statement for CdrInfo.com
 
-**[Old News](https://web.archive.org/Sections/News/OlderNews.asp)  
-[Burner's Corner](https://web.archive.org/Sections/BurnersCorner/Home.asp)  
-[CD Copy ](https://web.archive.org/Sections/CdCopy/Home.asp)  
-[CD Covers](https://web.archive.org/Sections/CdCovers/Home.asp)  
-[Links](https://web.archive.org/Sections/Links/Home.asp)  
-[Jobs](https://web.archive.org/Sections/Jobs/Home.asp)   
-[About](https://web.archive.org/Sections/About/Home.asp) **   
-
-
-* * *
-
-* * *
-
-**[Web4Friends](http://www.web4friends.com/)   
-[ CD Covers](http://www.cdcovers.cc/)   
-[Clone.CD](http://clone.cd/phpBB/)   
-[ ](http://www.afterdawn.com/ "AfterDawn.com - DVD rippers, MP3 news, DivX codecs, software download and more")   
-[ ](http://www.cd-rw.org/ "cd-rw.org - The CD-R and MP3 knowledge base")   
-[ ](http://www.cdr-zone.com/ "CDR-Zone.COM")   
-** | 
+| 
 
 **Privacy Statement for CDRInfo.COM **
 
@@ -64,14 +45,18 @@ CdrInfo.com is poised into helping all our users preserve their own on-line priv
 
 In any case, CdrInfo.com preserves the right to review by itself any non-open source advertisement code (non-javascript or non-html banners such as "rich media" like flash, shockwave, java, activeX, etc). In case an advertiser chooses not to conform with this peer reviewed, open code practice, CdrInfo.com can, at any time, terminate any related campaign, at no further advertiser notice, at the sole expenses of the offending advertiser and without any single refund!
 
-| 
-
-[ ](https://web.archive.org/Sections/Articles/Specific.asp?ArticleHeadline=CeBIT+2004+Exhibition&index=0)
-
-_**  
-**_  
-None available  
-  
-[ ](https://web.archive.org/hardware/)  
-  
-
+|  |  [ **Octave  
+CD DVD Duplicators** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.octave.com%2f)  
+---  
+[ **Primera DVD / CD  
+Duplicators** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.primera.com%2f)  
+[ **DVD CD Duplicators  
+MF Digital** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.mfdigital.com%2f "MF Digital, industry leader of duplication solutions")  
+[ **CD DVD Duplication  
+ProAction Media** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.proactionmedia.com%2f "ProAction Media, CD and DVD Duplication")  
+[ **Microboards  
+Disc Copiers/Printers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.microboards.com%2f "CD and DVD Copiers and Printers")  
+[ **CD Duplicators  
+DVD Duplicators by Disc Makers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.discmakers.com%2fduplicators "CD Duplicators - DVD Duplicators by Disc Makers")  
+[ **RPA - CD & DVD  
+Duplication Equipment** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.riverproaudio.co.uk%2f "RPA - CD & DVD Duplication Equipment")
