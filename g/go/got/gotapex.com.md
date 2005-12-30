@@ -1,21 +1,109 @@
-> *The following text is extracted and transformed from the gotapex.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208034737id_/http%3A//www.realgn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotapex.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230233220id_/http%3A//www.gotapex.com/privacy.php) for the most accurate reproduction.*
 
-# The Real Gaming Network - Where "Real" Gamers Unite!
+# Deals, Coupon codes and Discount prices - GotApex?
 
-**RealGN's Privacy Policy:**
+[ ](http://onecall.com/LandingPage.aspx?lpID=80&PMNID=1319&BCPID=241)
 
-In an attempt to streamline and enhance your experience at RealGN, we as a network do not collect any information about you or your computer without your prior consent. During your stay at RealGN or any of its affiliate sites, we do provide you with ads to view and outside links to follow. We here at RealGN feel that your privacy is of utmost importance and that you should only have to give up personal information that you want to. There are 2 points at which we will collect information about you, and these 2 places are completely voluntary. The first place is our forums and web email sections. Information is only collected when a user registers in the forum or for a web mail address. Of course we do not want to force anything upon you, so the forum is completely usable by non-registered users. They do not have some of the added features that registered users get, but as of yet it is not necessary to register. The other place at which we collect information from you, is when you enter into a contest at the site. The information we collect is purely for the reason that if you win one of the contests, then we will use that information to send you the prize. Once again, the contest is optional, and we do have an option to opt out of sending information about yourself when you enter into the contest.
+| Email Login:  
+  
+---  
+Password:  
+  
+| New users  
+[ **sign up**](http://mail.gotapex.com/email/scripts/useragreement.pl)!  
+  
+  
 
- **Ad Policy:**
 
-With the ads that RealGN serves, we do not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, our ad provider does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by our ad provider is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. 
+**Search for the lowest prices:  **  
+  
+**for**    
+  
 
-**Third Party Advertising:**
 
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp)
+  
+  
+  
+  
+  
+[](http://service.bfast.com/bfast/click?bfmid=70780&sourceid=24803698&categoryid=gotapexholiday)   
+Privacy Policy
 
- **Third Party Cookies**
+**_Privacy Policy_**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+Got Apex?, Inc. respects and protects the privacy of the individuals which make use of Got Apex?, Inc. and it's services. All individually identifiable information about you will not be disclosed to any third party without seeking your permission or consent.
 
-\- The RealGN Team 
+**Third Party Advertising**  
+We use other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Web site in order to provide advertisements on this site about goods and services that may be of interest to you.
+
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+
+**Cookies**  
+As part of our offering for interactive and customizable services, Got Apex?, Inc. uses cookies to store information about you and your visit to Got Apex?, Inc. A cookie is a small amount of data collected by your browser and stored in your computer. Got Apex?, Inc. makes use of cookies to both provide our users better convenience for frequently used information such as login information for our forums or other services. Occasionally, Got Apex?, Inc. also uses the cookies to track geographical user information and surfing patterns to continuously improve our services.
+
+**Registration**  
+Got Apex?, Inc. requires no registration for access to main site services however certain services such as our forum will require you to register for an account. Registration requires you to provide certain contact details such as your email address and name as well as unique user identities such as your username or password for a particular service. Again, all information provided are protected by our dedication to user privacy and will not be released to any third party without your agreement or consent.
+
+**External Links**  
+Got Apex?, Inc. provides daily news updates as well as external links throughout our entire site. As Got Apex?, Inc. has no control over these sites, you should contact these sites directly to find out more about their privacy dedication and data collection methods.
+
+**Advertisers**  
+Got Apex?, Inc. uses external advertising companies to manage and display our advertisements around the site. Some of these ads may contain cookies which we have no control or access over. Companies which places advertising on our site may collect information about you if you perform certain actions such as view or click on their advertisements or content. As Got Apex?, Inc. does not control our partner ad provider companies, you should contact them directly. 
+
+**Information sharing**  
+Got Apex?, Inc. may share information about you with advertisers, business partners, sponsors and other third parties. However, we will only release aggregate information about our users and will not share personally identifiable information with any third party without your consent or permission. 
+
+**User agreement**  
+By using Got Apex?, Inc. and the rest of the services provided, you consent to the collection and use of your information as we have outlined in this policy. Got Apex?, Inc. may decide to change this policy from time to time to better improve our services to serve our users better.
+
+**Contact  
+**If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [leon@gotapex.com](mailto:leon@gotapex.com). We value the input of our readers and users and we try our best to make your visit at Got Apex?, Inc. enjoyable. 
+
+  
+| 
+
+|   
+---  
+| [DellSB - Dimension 9150 Desktop with 2.8Ghz Pentium 4 820 Dual Core, 512MB DDR2 SDRAM, 160GB S-ATA, DVD-Rom & CD-RW, 128MB ATI Radeon X300 SE for $729 after Rebate including 19" LCD Monitor!](https://web.archive.org/coupon-codes/30603.dhtml)  
+---  
+[DellHome - 30% Off for Dimension Desktops, 10% off XPS Desktops, and $300 to $750 Off Inspiron Notebooks Coupons!](https://web.archive.org/coupon-codes/30604.dhtml)  
+[Hot! DirectWineOnline - Got Apex? Exclusive! Buy 6 Bottles of Premium Wine for Only $59.88 and GET 6 Bottles FREE Plus a FREE Vintner`s Reserve Tabletop Opener (Value $139.95)!](https://web.archive.org/coupon-codes/30591.dhtml)  
+[Chase - PerfectCard Visa/Mastercard with 6% Rebate on ALL Gas Purchases at Any Station, Purchase Assurance, Extended Warranty Protection, Travel Insurance, No Annual Fee, and MORE!](https://web.archive.org/coupon-codes/30596.dhtml)  
+[Hot! OneCall - Onkyo 7.1 Channel XM-Radio Ready, Optional iPod Compatibility Home Theater Receiver for $375.99 plus Delivery!](https://web.archive.org/coupon-codes/30598.dhtml)  
+  
+  
+  
+  
+
+
+**web search**  
+---  
+**stocks**  
+  
+enter ticker symbol  
+**weather**  
+  
+enter zip code  
+  
+  
+  
+  
+  
+  
+
+
+**Meritline**  
+\- [Wireless ](http://www.myaffiliateprogram.com/u/meritlne/t.asp?id=1745&p=clink?meritline+AwUqxH+82wilan.html) 802.11b Lan as low as $19.99  
+\- [Great Azo ](http://www.myaffiliateprogram.com/u/meritlne/t.asp?id=1745&p=clink?meritline+AwUqxH+dvd-r-blank-media-1.html) 4x DVD-R as low as $0.19 Each!  
+\- [Ritek](http://www.myaffiliateprogram.com/u/meritlne/t.asp?id=1745&p=clink?meritline+AwUqxH+ritek-dvd-blank-media.html) 4x DVD+R as low as $0.42/ea, free shipping!   
+\- [High Quality](http://www.myaffiliateprogram.com/u/meritlne/t.asp?id=1745&p=clink?meritline+AwUqxH+52x-high-quality-cdr-cd-r-printing-logo2.html) CDR (CD-R) 52X 80Min/700MB Blank Media - $15.50/100 pack  
+**[MERITLINE](http://www.myaffiliateprogram.com/u/meritlne/t.asp?id=1745)**
+
+* * *
+
+[ ](http://www.theadstop.com/Traffic/affiliate.asp?ref=B85-77RP48K-H9DH9FC)   
+
+
+  
+
