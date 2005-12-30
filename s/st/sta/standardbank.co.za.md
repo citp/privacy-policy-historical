@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardbank.co.za privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404024121id_/http%3A//www.standardbank.co.za/SBIC/Frontdoor_02_01/0%2C2354%2C3447_74081_0%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardbank.co.za privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230090720id_/http%3A//www.standardbank.co.za/SBIC/Frontdoor_02_01/0%2C2354%2C3447_74081_0%2C00.html) for the most accurate reproduction.*
 
 # Standard Bank > Privacy and security statement
 
