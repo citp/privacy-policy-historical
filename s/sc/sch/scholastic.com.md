@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420011125id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230153448id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
 
 # Scholastic.com | Privacy Notice
 
