@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepensionservice.gov.uk privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404082718id_/http%3A//www.thepensionservice.gov.uk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepensionservice.gov.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230123902id_/http%3A//www.thepensionservice.gov.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # The Pension Service - Privacy Policy
 
@@ -20,10 +20,8 @@ We will not disclose information about you to anyone outside the Department for 
 
 Our website does not enable our visitors to communicate with other visitors or for them to post information to be accessed by others. The Department for Work and Pensions is the Data Controller for the purpose of the Data Protection Act. If you want to know more about the information we have about you, or the way we use it, you can ask at your social security office. 
 
-to top
-
-* * *
-
 The Pension Service is part of the Department for Work and Pensions. The Department was formed on 8 June 2001 from parts of the former Department of Social Security, and parts of the former Department for Education and Employment. 
 
-to top
+[Send this page to a friend](https://web.archive.org/resourcecentre/send-to-friend/home.asp)  |  to top
+
+* * *
