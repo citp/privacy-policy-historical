@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630152055id_/http%3A//www.fairfax.com.au/privacy.ac) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230204527id_/http%3A//www.fairfax.com.au/privacy.ac) for the most accurate reproduction.*
 
 # Fairfax Digital - Privacy Policy
 
-## Fairfax Digital Privacy Policy
+## Fairfax Digital Privacy Policy - last updated 24th August 2005
 
 This policy sets out how Fairfax Digital uses your personal information and explains:
 
@@ -23,20 +23,21 @@ This policy applies to all sites that form part of the network of Fairfax Digita
 
 Fairfax Digital is bound by the National Privacy Principles contained in the Commonwealth Privacy Act. However, Fairfax Digital is exempt from complying with the Privacy Act in relation to its journalism activities. Fairfax Digital has publicly committed to complying with the [Australian Press Council](http://www.presscouncil.org.au/) Privacy Standards for the use of personal information in the course of journalism.
 
-Fairfax Digital may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to Fairfax Digital's operations. All personal information held by Fairfax Digital will be governed by its most recent policy, posted on Fairfax Digital. 
+Fairfax Digital may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to Fairfax Digital's operations. Please visit this page periodically, to check for updates. All personal information held by Fairfax Digital will be governed by its most recent policy, posted on Fairfax Digital. 
 
 ## What kind of personal information Fairfax Digital collects and how it is collected
 
 Fairfax Digital collects personal information from a variety of sources, including from members of the public, advertisers, prospective employees, mailing lists, recruitment agencies, contractors and business partners. 
 
-In general, the personal information Fairfax Digital collects includes (but is not limited to) name, address, contact details, gender, occupation, in some cases membership of professional associations and, where relevant, financial information, including credit card information, banking details and income information. 
+In general, the personal information Fairfax Digital collects includes (but is not limited to) name, address, contact details, gender, occupation, in some cases membership of professional associations and, where relevant, financial information, including credit card information, banking details and income information.
 
 Personal Information you provide: We store the personal information you enter on Fairfax Digital or give to Fairfax Digital in other ways. We obtain most personal information through Fairfax Digital membership registration process and updates to membership details. You may provide information when you request or acquire a product or service from Fairfax Digital or its related companies, provide a product or service to Fairfax Digital, complete a survey or questionnaire, enter a competition, participate in forums or when you communicate with Fairfax Digital by e-mail, telephone or in writing (for example if you contact customer service or provide feedback). 
 
-Automatic collection: Cookies: We may use a feature of your browser called a cookie to assign your computer a 'User ID'. Cookies do not contain information by which Fairfax Digital can identify you. They identify your computer to our servers. You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies. Fairfax Digital may use information contained in cookies to make assumptions about the user of the computer and to provide users of that computer with focused advertising that Fairfax Digital believes may be of interest, based on that information. To disable your cookies, please refer to the help menu within your Internet browser.  
+Automatic collection: Cookies: We may use a feature of your browser called a cookie to assign your computer a 'User ID'. Cookies contain information by which Fairfax Digital can identify your computer to our servers. You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies. Fairfax Digital may use information contained in cookies to make assumptions about the user of the computer and to provide users of that computer with focused advertising that Fairfax Digital believes may be of interest, based on that information. In some cases a web page might contain more than one cookie, the information gathered from these different cookies are used to build statistical and demographical information which does not identify you personally to advertisers and other third parties for marketing, promotional purposes.
 
+To disable your cookies, please refer to the help menu within your Internet browser.
 
-Indirect collection: Fairfax Digital endeavours to collect personal information about an individual only from that individual. In some circumstances Fairfax Digital may obtain personal information from a third party. If you provide personal information about another person to Fairfax Digital, Fairfax Digital requires that you inform that person you have done so and provide them with a copy of this policy. 
+Indirect collection: Fairfax Digital endeavours to collect personal information about an individual only from that individual. In some circumstances Fairfax Digital may obtain personal information from a third party. If you provide personal information about another person to Fairfax Digital, Fairfax Digital requires that you inform that person you have done so and provide them with a copy of this policy.
 
 ## How Fairfax Digital uses the information you provide
 
