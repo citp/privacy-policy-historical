@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406021538id_/http%3A//www.searchbliss.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230225845id_/http%3A//www.searchbliss.com/privacy.htm) for the most accurate reproduction.*
 
 # SearchBliss Privacy Policies
 
-SearchBliss Privacy Policy
-
-This privacy statement was last updated on **01/22/05**. SearchBliss has created this privacy statement in order to disclose our information gathering practices for this Web site, [www.searchbliss.com](http://www.searchbliss.com/).
+This privacy statement was last updated on **09/28/05**. SearchBliss has created this privacy statement in order to disclose our information gathering practices for this Web site, [www.searchbliss.com](http://www.searchbliss.com/). 
 
 We respect and are committed to protecting your privacy. That is why we have created this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. These policies are only in effect for the Web pages operated by SearchBliss, and opt-in email lists owned by Microsoft bCentral, and operated by SearchBliss. 
 
@@ -23,7 +21,3 @@ SearchBliss utilizes Microsoft's bCentral Network for it's opt-in emailing list.
 **Links to other web sites**
 
 SearchBliss contains many hyperlinks and advertisements linking to other Web sites. SearchBliss is NOT responsible for the privacy practices and the content of such web sites or advertisers. We encourage you to check with those sites to determine their privacy policy. Please read our [linking agreement](http://www.searchbliss.com/advertising_agreement.htm) for any additional information. 
-
-* * *
-
-Copyright © 2001- 2020 SearchBliss, All Rights Reserve
