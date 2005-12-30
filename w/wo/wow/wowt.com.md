@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowt.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404070525id_/http%3A//www.wowt.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowt.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230120113id_/http%3A//www.wowt.com/unclassified/647.html) for the most accurate reproduction.*
 
 # WOWT | GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
@@ -139,4 +139,4 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
 
 This Privacy Policy was last updated on Dec. 20, 2004 and is effective immediately.
 
-Copyright © 2004 Gray Television Group, Inc. All rights reserved.
+Copyright © 2005 Gray Television Group, Inc. All rights reserved.
