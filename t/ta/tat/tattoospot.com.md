@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tattoospot.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403125134id_/http%3A//www.tattoospot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoospot.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230114531id_/http%3A//www.tattoospot.com/privacy.html) for the most accurate reproduction.*
 
 # TattooSpot.com Privacy Notice
 
 **Tattoo Spot Privacy Statement**
 
-**TattooSpot.com & it's parent Company Designs With Prestige LLC. (“DWP”) Online Privacy Policy   
+**TattooSpot.com & it's parent Company Tattoospot.com. (“DWP”) Online Privacy Policy   
 (Last updated January 1, 2004)**
 
 DWP has established this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users. 
