@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricerunner.co.uk privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206235104id_/http%3A//www.pricerunner.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricerunner.co.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230174857id_/http%3A//www.pricerunner.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# Pricerunner.com
+# PriceRunner.com
 
 **Pricerunner Privacy Commitment**
 
@@ -29,7 +29,7 @@ Pricerunner operates a free e-newsletter service – the Pricerunner Update - to
 
 It is recommended that you read the [Terms of Use](https://web.archive.org/Display.jsp?name=rules) if using the Pricerunner site. 
 
-If you have or intend to sign up it is recommended you read the [Membership Conditions](https://web.archive.org/Display.jsp?name=medlemsvillkor) and [Membership FAQ](https://web.archive.org/web/20050206235104id_/http%3A//www.pricerunner.co.uk/Display.jsp?name=faqmembers). 
+If you have or intend to sign up it is recommended you read the [Membership Conditions](https://web.archive.org/Display.jsp?name=medlemsvillkor) and [Membership FAQ](https://web.archive.org/web/20051230174857id_/http%3A//www.pricerunner.co.uk/Display.jsp?name=faqmembers). 
 
 **Contact Us**  
-If you would like to contact Pricerunner regarding privacy or any other matter please e-mail [infouk@pricerunner.com](mailto:infouk@pricerunner.com?subject=General%20Enquiry) or [click here](https://web.archive.org/web/20050206235104id_/http%3A//www.pricerunner.co.uk/Display.jsp?name=kontakt) for more contact details. 
+If you would like to contact Pricerunner regarding privacy or any other matter please e-mail [infouk@pricerunner.com](mailto:infouk@pricerunner.com?subject=General%20Enquiry) or [click here](https://web.archive.org/web/20051230174857id_/http%3A//www.pricerunner.co.uk/Display.jsp?name=kontakt) for more contact details. 
