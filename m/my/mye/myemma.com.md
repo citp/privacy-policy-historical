@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the myemma.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403172659id_/http%3A//www.myemma.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myemma.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230181151id_/http%3A//www.myemma.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to Emma® Email Marketing
-
-Emma goes beyond the Can-Spam law to prohibit the sending of unsolicited commercial emails to any lists that have been rented or purchased. Why? Because we've learned that lists obtained in that manner aren't worth the trouble and expense. We know that email works best when it appeals to an audience that's receptive to your message, and that begins with a true permission-based list. More questions about permission? Just ask us.
-
-|   | 
 
   
 Here at Emma, we're dedicated to protecting your privacy and the privacy of anyone on the receiving end of an Emma-delivered email. To that end, we have instituted certain policies – rules, you might call them – to help us make sure Emma remains a safe, trusted environment for email marketing and correspondence. 
@@ -38,7 +34,18 @@ We also collect certain aggregate information about our customers. We use this i
 
 Protecting your customer lists and data
 
-We do everything we can to make sure your customer lists, email content and response data remains private and confidential. Though we reserve the right to monitor your lists, content and response data from time to time to make sure they comply with our Terms of Use, we will never share, sell or rent your customer data to anyone for any reason. It makes us feel icky just thinking about it. When Emma sends emails to _you_
+We do everything we can to make sure your customer lists, email content and response data remains private and confidential. Though we reserve the right to monitor your lists, content and response data from time to time to make sure they comply with our Terms of Use, we will never share, sell or rent your customer data to anyone for any reason. It makes us feel icky just thinking about it.
+
+**Adhering to the Safe Harbor Data Privacy Principles**
+
+Emma adheres to the data privacy principles of the Safe Harbor program, designed to provide U.S. companies with guidance on how to provide adequate protection for personal data from Europe as required by the European Union's Directive on Data Protection. Emma is listed in the United States Department of Commerce's Safe Harbor directory of self-certifying companies, available [here](http://export.gov/safeharbor).
+
+Direct any Safe Harbor inquiries or requests to:
+
+Emma  
+1910 21st Avenue South  
+Nashville, TN 37212  
+[hi@myemma.com](mailto:hi@myemma.com) When Emma sends emails to _you_
 
 Just as we ask and expect you to respect the in-box of your customers, we will do our best to respect yours. The only emails you'll receive from us will be emails related to your account or your use of Emma. We might alert you to new features or site enhancements. We might check in to see how your last campaign went. Some of those emails may be directed to everyone, and some of them may be written just for you. In the future, we may also ask if you'd like to receive information from our partners. We do not have partners, and until we do, we will not ask.
 
