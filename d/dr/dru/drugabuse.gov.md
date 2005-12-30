@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2005-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050523021343id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230042813id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
 
 # NIDA - Privacy Notice
 
@@ -41,7 +41,7 @@ You do not have to give us personal information to visit our web sites.
 
 If you choose to provide us with additional information about yourself through an e-mail message, form, survey, etc., we will only maintain the information as long as needed to respond to your question or to fulfill the stated purpose of the communication.
 
-However, all communications addressed to Information@lists.nida.nih.gov or the Webmaster are maintained, as required by law, for historical purposes. These communications are archived on a monthly basis, but are also protected by the Privacy Act which restricts our use of them, yet permits certain disclosures. 
+However, all communications addressed to information@nida.nih.gov or the Webmaster are maintained, as required by law, for historical purposes. These communications are archived on a monthly basis, but are also protected by the Privacy Act which restricts our use of them, yet permits certain disclosures. 
 
 #### Disclosure:
 
@@ -59,7 +59,7 @@ Information originally collected in traditional paper systems can be submitted e
 
 #### Security:
 
-Information collected online in the form of server logs, form submissions or e-mail to Information@lists.nida.nih.gov are stored securely and have limited access by NIDA staff. Archival data is stored offline in a secured storage facility.
+Information collected online in the form of server logs, form submissions or e-mail to information@nida.nih.gov are stored securely and have limited access by NIDA staff. Archival data is stored offline in a secured storage facility.
 
 #### Cookies:
 
