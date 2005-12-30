@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the contractoruk.com privacy policy that was archived on 2005-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050208093834id_/http%3A//www.contractoruk.com/about/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractoruk.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230095943id_/http%3A//www.contractoruk.com/about/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement :: Contractor UK
 
-| Members |   
----|---  
-Subscribe to our news letter service to keep current with the latest news and information.  
-[Click here to join](http://lb.bcentral.com/ex/manage/subscriberprefs.aspx?customerid=47925).   
-  
-  
-Search |   
----|---  
-  
-|  |  |   
+|   
 ---|---  
   
 **1** Contractor UK is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK.
@@ -41,21 +32,5 @@ Previous Page
   
 |   
 ---|---  
-  
-|  |  Contractor UK Trivia |   
----|---  
-Our site was founded in 1998 - we've been online for over 6 years, longer than any other contractor site in the UK. 
-
-* * *
-
-We're the most visited contractor site in the UK, with over 40,000 **unique** site visitors each month. 
-
-* * *
-
-Our network as a whole serves well over 500,000 pages per month! 
-
-* * *
-
-Contractor UK is run by **contractors** , and is completely independent.   
   
 
