@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the pgroup.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403230649id_/http%3A//www.st.com/stonline/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgroup.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230230333id_/http%3A//www.st.com/stonline/legal/privacy.htm) for the most accurate reproduction.*
 
 # STMicroelectronics | Privacy Policy
 
 "At STMicroelectronics, our culture begins and ends with the Customer; service quality is our number one priority. On-line, our aim is to provide an environment where information is easily targeted, quickly accessed and efficiently retrieved. In line with usual e-business practices, STMicroelectronics does not request personal information from visitors prior to accessing any section of the Company's public web sites. Identifying information (name, address, etc.) is required only when web site visitors interact with STMicroelectronics or ask for a specific service or information".
 
  **Collection of information implicitly provided while accessing the ST.com web site**  
-By accessing our public web site, we will be able to collect the following information: 
+By accessing our public web site, we will be able to collect the following information used for statistical and/or marketing purposes: 
 
 \- Your IP address that is requesting a page  
 \- Region of the world you are requesting the page from  
 \- Your Browser type - Your operating system 
 
-STMicroelectronics may use this information for statistical and/or marketing purposes.
+We may also use third-party service providers to monitor traffic patterns to show how and when visitors use our site. These monitoring technologies may use cookies where authorized by STMicroelectronics. This information is used to improve site design and enhance the visitor experience. The information collected by these means is anonymous and does not personally identify the visitor. Note that browser Privacy Options may offer user control over the acceptance of both first and third party cookies.
 
 **Collection of information that you provide explicitly**  
 When you accept to submit a registration form you are asked to provide at least your name and e-mail address. Sometimes we may ask you to specify your centers of interest and the market segment in which you are working. We may also ask for details of the project (application) for which you are submitting a request.
@@ -36,4 +36,4 @@ E-mail communication can be avoided if you opt-out of receiving future marketing
 Because they are necessary to enable us to adequately provide our services, you cannot opt-out of receiving administrative communications related to your registration, such as in the case of a registration confirmation.
 
 Privacy Policy Changes  
-This policy was updated on June 20th 2003 
+This policy was updated on July 8th 2005 
