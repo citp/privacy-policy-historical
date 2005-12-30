@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wouldyouhitthis.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204185614id_/http%3A//wouldyouhitthis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wouldyouhitthis.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230220536id_/http%3A//wouldyouhitthis.com/privacy.php) for the most accurate reproduction.*
 
 # WouldYouHitThis? Privacy Policy
 
@@ -16,7 +16,7 @@ Our Site uses cookies to save your login information so you do not need to enter
 
 Advertisers:
 
-We may use information provided to us by users at the time of registration to deliver targeted advertisements.
+This site delivers advertisements to its users from its advertising partners, who may set cookies. These cookies allow our advertising partners to recognize your computer each time they display an advertisement to you and determine which advertisements are clicked. WouldYouHitThis.com does not have access or control of cookies placed by our advertising partners.
 
 Registration Forms:
 
