@@ -1,14 +1,38 @@
-> *The following text is extracted and transformed from the nubella.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404064215id_/http%3A//www.nubella.com/content/view/71/100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nubella.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230225314id_/http%3A//www.nubella.com/content/view/71/100) for the most accurate reproduction.*
 
 # Privacy Policy - Nubella
 
-|  |  [ ](http://www.nubella.com/tour.html)  
+|   
 ---  
-PLEASE NOTE:   
-Where this web site contains links to other web sites, Nubella LLC is not responsible for either the privacy practices or the content of those web sites.   
-All health related information presented on this site is intended only as general information and is not intended to replace the advice of your doctor or health-care provider.  
 |  | 
 
+[](http://www.nubella.com/component/option,com_artbanners/task,clk/id,7/)
+
+  
+  
+---  
+| 
+
+[](http://www.nubella.com/component/option,com_artbanners/task,clk/id,9/)  
+  
+---  
+  
+**Sign-up Now!**  
+FREE Newsletter & Digital Magazine to support your healthy lifestyle.   
+  
+Poverty & Poor Dental Health 
+
+Lower income and education levels are tied to poor dental health, according to a study based on data from more than 15,000 people living in North Carolina, Mississippi, Minnesota and Maryland. Researchers found that the lower a person's income and education level, the more likely that person would suffer from severe periodontitis, or advanced gum disease that can lead to tooth loss. 
+
+Source:  The American Journal of Public Health  
+More: [www.apha.org](http://www.apha.org/)  
+  
+| 
+
+  
+|  Friday, 18 June 2004   
+---  
+  
 **Nubella, LLC. Privacy Statement**
 
 Nubella, LLC. ('Nubella', 'So Dish magazine, 'us', 'we' or 'our') is committed to protecting your privacy. This Nubella Privacy Statement applies to all of Nubella's offerings, ranging from our Internet destination to our offline magazine. This Privacy Statement is effective upon acceptance in registration for new registering users, and is otherwise effective on March 30, 2004 for all users. If you have additional questions, you may send email to info@Nubella.com or call (972) 735-0828. 
@@ -29,32 +53,28 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 By using this site, you signify your agreement to the terms and conditions of this Nubella Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of Nubella's web sites following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please e-mail us at [info@nubella.net](mailto:info@nubella.net). 
 
-**
-
-|   
----|---  
-| 
-
-| 
-
-[ ](http://www.nubella.com/content/blogcategory/0/96/)
-
-The health benefits of garlic are well known. But cooking with garlic can present its own set of challenges. A recent ar... 
-
-A supplement called conjugated linoleic acid, or CLA, is getting a lot of attention from dieters, according to a recent... 
-
-Frank Perdue, best known as the executive-turned-pitchman for Perdue chicken Farms, died this week at the age of 84, acc... 
-
-Just in time for the release of the newest Star Wars movie, Mars, Inc., this week introduced a new version of M Ms that... 
-
-Dr. Leonard Pike, a researcher for the USDA, wants to grow a better carrot, according to a recent story on www.foodnavig... 
-
-Approximately 75 percent of processed foods in this country contain at least some genetically-modified (GM) ingredients,... 
-
-Beginning Friday, April 1, any child conceived on or after that date in Great Britain will be given the right to know th... 
-
-Although the federal government’s 2005 dietary guidelines recommend eating 3 or more servings of whole grains per day,... 
-
-A new study of raw-food vegans, or people who only eat food derived from plants that have not been cooked, shows they ha...   
+**  
   
----|---
+If heart disease and diabetes aren't bad enough, now comes another reason to watch your weight. According to a study jus... 
+
+**How Healthy Is Your World?**   The results are now in. Over 600 people from more than 20 countries took p... 
+
+January 9-15 is Folic Acid Awareness Week and the March of Dimes is reminding women capable of having a baby to add foli... 
+
+A diet with a high intake of beta carotene, vitamins C and E, and zinc is associated with a substantially reduced risk o... 
+
+Having a sibling with a history of cardiovascular disease carries the same or greater risk as having a parent with a his... 
+
+
+
+
+  
+  
+  
+|   
+---  
+  
+   **Nu-bell-a:** (new-bell-a) _noun_. Tool used for improving one's nutrition, meaning beautiful nutrition . A derivation of the word **NUTRITION** and the Italian translation for **BEAUTIFUL _(BELLA)_** ; when combined, literal translation: " **Beautiful Nutrition.** "   
+  
+Copyright 2002 - 2005 Nubella LLC. | All rights reserved.   
+
