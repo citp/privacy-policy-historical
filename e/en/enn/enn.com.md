@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405212012id_/http%3A//www.enn.com/about_enn_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230200914id_/http%3A//www.enn.com/about_enn_privacy_policy.html) for the most accurate reproduction.*
 
 # ENN: Environmental News Network [[ ENN Privacy Policy ]]
 
@@ -7,7 +7,7 @@
 
 Privacy Policy
 
-Read ENN.com in complete confidence that your privacy will be protected. If you have any questions or concerns, please do not hesitate to [contact us](https://web.archive.org/web/20050405212012id_/http%3A//www.enn.com/contactservice.html).
+Read ENN.com in complete confidence that your privacy will be protected. If you have any questions or concerns, please do not hesitate to [contact us](https://web.archive.org/web/20051230200914id_/http%3A//www.enn.com/contactservice.html).
 
 When a user subscribes to ENN's Daily E-mail Newsletter, personal information and e-mail address are used for subscriber maintenance only. At no point will this information be disclosed to a third party or be used by ENN for any other purpose. Email addresses are only used to distribute the daily email newsletter the users by their request. 
 
@@ -39,4 +39,6 @@ The information given to ENN.com, including, but not limited to, all posted info
 
 Links to other web sites are often used in ENN stories and pages to supply the user with additional information. Please be advised that the ENN privacy policy does not apply to those web sites and ENN is not responsible for information collected on those sites. Users are encouraged to view the privacy policy posted by that web site company. 
 
-If you have questions or concerns regarding this statement, please [contact us](https://web.archive.org/web/20050405212012id_/http%3A//www.enn.com/contactservice.html).
+If you have questions or concerns regarding this statement, please [contact us](https://web.archive.org/web/20051230200914id_/http%3A//www.enn.com/contactservice.html).
+
+* * *
