@@ -1,0 +1,584 @@
+<!--The following is the downloaded HTML source of the easynet.net privacy policy that was archived on 2005-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051230055408id_/http%3A//www.easynet.net/legal/privacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Easynet UK</title>
+<meta http-equiv="Keywords" content="firewall solution, business broadband, broadband for business, high speed internet, uk isp, web hosting, internet access, leased line, internet service provider, Easynet uk, isp uk, broadband internet, adsl provider, Easynet, isp, dsl, sdsl, shdsl, adsl, sme, vpn"><meta http-equiv="Content-Language" content="en">
+<meta name="description" content="Easynet is a leading pan-European Business Broadband provider, offering innovative, high-speed broadband access solutions to companies of all sizes. Easynet runs one of Europe’s most advanced IP networks providing a host services from scalable Internet access to security solutions,Virtual Private Networks, hosting and co-location services, Virtual Internet Provider capabilities and carrier services.">
+<link rel="stylesheet" type="text/css" href="/stylesheets/styles.css"><script language="JavaScript" src="/js/common.js"></script>
+<script language="JavaScript" src="/js/formhandler.js"></script>
+
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#ffffff" onload="preloadImages();">
+
+<table width="780" cellspacing="0" cellpadding="0" border="0" bgcolor="#942552">
+	<tbody><tr>
+		<td valign="top" width="181"><img src="/gr_misc/curve_tab.gif" width="181" height="18" border="0" align="top" alt=""></td>
+		<td align="right" width="599"><a href="/about/" class="gennav">About Easynet</a>&nbsp;&nbsp;<a href="/solutions/" class="gennav">Solutions</a>&nbsp;&nbsp;<a href="/pressoffice/" class="gennav">Press office</a>&nbsp;&nbsp;<a href="/support/" class="gennav">Support</a>&nbsp;&nbsp;<a href="http://www.Easynet.com/" target="_blank" class="gennav">Easynet group</a>&nbsp;&nbsp;<a href="/events/" class="gennav">Events</a>&nbsp;&nbsp;<a href="/contact/" class="gennav">Contact us</a>&nbsp;&nbsp;</td>
+	</tr>
+
+</tbody></table>
+
+
+
+
+
+<!-- BANNER INCLUDE -->
+<script language="JavaScript" type="text/javascript">
+
+<!--
+
+// BROWSER AND PLATFORM FLAGS 
+	var ie = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;		// true if we're on ie
+	var nn = (navigator.appName == "Netscape") ? true : false;		// true if we're on netscape
+	
+	var win = (navigator.appVersion.indexOf("Windows") != -1) ? true : false; // true if we're on windows
+	var mac = (navigator.appVersion.indexOf("Macintosh") != -1) ? true : false; // true if we're on a mac
+
+// END BROWSER DETECTION 
+
+// FLASH DETECTION 
+	
+	var requiredVersion = 4;			// version the user needs to view site (max is 7, min is 2)
+	
+	var flash2Installed = false;		// boolean. true if flash 2 is installed
+	var flash3Installed = false;		// boolean. true if flash 3 is installed
+	var flash4Installed = false;		// boolean. true if flash 4 is installed
+	var flash5Installed = false;		// boolean. true if flash 5 is installed
+	var flash6Installed = false;		// boolean. true if flash 6 is installed
+	var flash7Installed = false;		// boolean. true if flash 7 is installed
+	var maxVersion = 7;					// highest version we can actually detect
+	var actualVersion = 0;				// version the user really has
+	var right_version = false;		// boolean. true if it's safe to embed the flash movie in the page
+	
+	
+	// write vbscript detection if we're not on mac.
+	if(ie && win){ // don't write vbscript tags on anything but ie win
+		document.write('<SCR');
+		document.write('IPT LANGUAGE="VBScript"> \n');
+		document.write('on error resume next \n');
+		document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
+		document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
+		document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
+		document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');
+		document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');	
+		document.write('flash7Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))) \n');	
+		document.write('</SCR' + 'IPT> \n'); // break up end tag so it doesn't end our script
+	}
+	
+
+//call this at the end of the flash detect script
+	function detectFlash(){	
+	
+		if (navigator.plugins){								// does navigator.plugins exist?
+			if (navigator.plugins["Shockwave Flash 2.0"] 	// yes>> then is Flash 2 
+			|| navigator.plugins["Shockwave Flash"]){		// or flash 3+ installed?
+	
+				// set convenient references to flash 2 and the plugin description
+				var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+				var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
+				// a flash plugin-description looks like this: Shockwave Flash 4.0 r5
+				// so we can get the major version by grabbing the character before the period
+				// note that we don't bother with minor version detection. do that in your movie with $version
+				var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
+	
+				// we know the version, now set appropriate version flags
+				flash2Installed = flashVersion == 2;		
+				flash3Installed = flashVersion == 3;
+				flash4Installed = flashVersion == 4;
+				flash5Installed = flashVersion == 5;
+				flash6Installed = flashVersion == 6;
+				flash7Installed = flashVersion == 7;
+			}
+		}
+		
+	
+		for (var i = 2; i <= maxVersion; i++) {	// loop through all versions we're checking, and set actualVersion to highest detected version
+			if (eval("flash" + i + "Installed") == true) actualVersion = i;
+		}
+		
+	// uncomment next line to display flash version during testing
+		//alert("version detected: " + actualVersion);
+	
+	
+		if (actualVersion >= requiredVersion) { 		// user has a new enough version
+			right_version = true;						
+		} else {
+		    right_version = false;
+		}
+	}
+	
+	detectFlash();	// call our detector now that it's safely loaded.
+
+// END FLASH DETECTION 
+//-->
+
+</script><script language="JavaScript" type="text/javascript">
+
+	if(right_version) {
+		var movie_setup = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" '
+		+'codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" '
+		+ 'width="780" height="124" id="banner_main" alt="" '
+		+ ' >'
+		+ '<param name="movie" value="/flash/banner_124_sdsl.swf" /> '
+		+ '<param name="quality" value="high" /> '
+		+ '<param name="bgcolor" value="#ffffff" />'
+		+ '<embed src="/flash/banner_124_sdsl.swf" quality="high" width="780" height="156" '
+		+ 'swLiveConnect="true" name=movie type="application/x-shockwave-flash" '
+		+ 'pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" '
+		+ 'width="780" height="124">'
+		+ '</embed></object>';
+							
+		document.write(movie_setup);
+	} else {
+		var non_flash_content=''
+		+'<a href="http://www.easynet.com/llustream/"><img src="/flash/gifs/banner_124_sdsl.gif" width="780" height="124" border="0" alt="LLUStream - Revolutionising Wholesale Broadband" /></a>'
+		+''
+		
+		document.write(non_flash_content);	// insert non-flash content
+	}
+	//
+</script><a href="http://www.easynet.com/llustream/"><img src="/flash/gifs/banner_124_sdsl.gif" width="780" height="124" border="0" alt="LLUStream - Revolutionising Wholesale Broadband"></a>
+<!-- MAIN NAV--><table width="780" cellspacing="0" cellpadding="0" border="0" bgcolor="#942552">
+	<tbody><tr class="plum">
+	    <td width="156" valign="top"><a href="/broadband/"><img src="/gr_main_nav/main_1.gif" width="156" height="20" border="0" alt="Easynet Business Broadband" name="main_1" onmouseover="changeImages('main_1', '/gr_main_nav/main_1_over.gif'); return true;" onmouseout="changeImages('main_1', '/gr_main_nav/main_1.gif'); return true;"></a></td>
+
+	    <td width="156" valign="top"><a href="/corporate/"><img src="/gr_main_nav/main_2.gif" width="156" height="20" border="0" alt="Corporate network solutions" name="main_2" onmouseover="changeImages('main_2', '/gr_main_nav/main_2_over.gif'); return true;" onmouseout="changeImages('main_2', '/gr_main_nav/main_2.gif'); return true;"></a></td>
+
+	 	<td width="156" valign="top"><a href="/publicsector/"><img src="/gr_main_nav/main_3.gif" width="156" height="20" border="0" alt="Public Sector broadband" name="main_3" onmouseover="changeImages('main_3', '/gr_main_nav/main_3_over.gif'); return true;" onmouseout="changeImages('main_3', '/gr_main_nav/main_3.gif'); return true;"></a></td>
+
+		 	<td width="156" valign="top"><a href="/wholesale/"><img src="/gr_main_nav/main_5.gif" width="156" height="20" border="0" alt="Partner Portal" name="main_5" onmouseover="changeImages('main_5', '/gr_main_nav/main_5_over.gif'); return true;" onmouseout="changeImages('main_5', '/gr_main_nav/main_5.gif'); return true;"></a></td>
+
+	 	<td width="156" valign="top"><a href="/partners/"><img src="/gr_main_nav/main_4.gif" width="156" height="20" border="0" alt="Partner Portal" name="main_4" onmouseover="changeImages('main_4', '/gr_main_nav/main_4_over.gif'); return true;" onmouseout="changeImages('main_4', '/gr_main_nav/main_4.gif'); return true;"></a></td>
+	
+
+		
+	
+	
+	</tr>
+</tbody></table>
+<!-- CLOSE NAVIGATION -->
+
+
+<!-- END BANNER INCLUDE -->
+
+<img src="/gr_misc/1x1.GIF" width="780" height="40" border="0" alt="">
+
+<table width="780" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		
+		<td width="156" valign="TOP"><img src="/gr_misc/1x1.GIF" width="156" height="20" border="0" alt=""></td>
+		
+		<td width="20" valign="TOP"><img src="/gr_misc/1x1.GIF" width="20" height="20" border="0" alt=""></td>
+		<td width="448" valign="TOP">	<!-- COLUMN 3 -->
+			<table width="428" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td valign="top"><span class="blackboldlarge">Privacy Policy</span> 
+					<br> <br>
+					
+					
+					<p>This privacy policy explains how the data you input to this website (<a href="http://www.easynet.net">www.uk.easynet.net</a>) will be held and what it will be used for by Easynet Limited (“Easynet”).  
+					If you have any queries regarding use of your personal data please contact <a href="mailto:data.protection@uk.easynet.net" class="textlink">data.protection@uk.easynet.net</a>. This policy only applies to this website and does not apply to other websites which this website links to. These other websites may operate their own privacy policy which we recommend you read carefully. </p>
+
+					<p>We collect personal information from you through the use of product enquiry and registration forms when you sign up for our services and every time you e-mail us your details.  We process personal information collected in order to:
+					</p><ul>
+					<li>Provide you with information about our products and services</li>
+					<li>Conduct specific marketing campaigns</li>
+					<li>Assist us in meeting customer expectations in evolving new products</li>
+					</ul>
+					<p>We also collect information automatically about your visit to our site which we obtain from the use of cookies.  A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. On revisiting this website our server will recognise the cookie giving us information about your visit. This information includes demographic data and browsing patterns.  Any information of this kind is used in aggregate form only and none of the data includes any information that would enable you or any other individual to be identified.  We use information in aggregate form to:</p>
+
+					<ul>
+					<li>Monitor usage of the site</li>
+					<li>Review product demand and as an aid to future development</li>
+					<li>To access marketing profiles</li>
+					</ul>
+
+					<p>We will not disclose any personal information we keep about you to any third parties, except for other companies within the Easynet Group of companies and any suppliers we may engage to provide services that involve data processing on our behalf. We may need to disclose your data where required or permitted by law (for example to law enforcement authorities in relation to the investigation of a suspected criminal offence).
+
+					</p><p>Should Easynet’s privacy policy change we will inform you of the changes by posting changes onto this website so you may want to check back here periodically. Where the changes apply to the holding of or sharing of personal data, we will obtain your further permission to do this.
+
+					</p><p>By using this website you consent to the collection and use of your information as we have outlined in this policy.
+
+					</p><p>Easynet Limited, a company registered in England and Wales<br>
+					Company number: 2954343 <br>
+					Registered office address: 44-46 Whitfield Street, London W1T 2RJ<br>
+					© Easynet Limited 2005</p>
+
+					
+					
+					
+					
+				
+					<p><a href="javascript:this.history.go(-1)" class="textlink"><strong>Click here</strong></a> to return back.</p>
+					<br><br><br><br>
+					</td>					
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td><img src="/gr_misc/1x1.GIF" width="292" height="1" border="0" alt=""></td>
+					<td><img src="/gr_misc/1x1.GIF" width="20" height="1" border="0" alt=""></td>
+				</tr>
+			</tbody></table>						
+			<br><br><br>
+		</td>
+		<td width="156" valign="top" align="left"><!--
+<img src="/gr_misc/rightpanel_searchsite.gif" width="156" height="22" border="0" alt="">
+	<table cellspacing="0" cellpadding="0" border="0">
+		<tr>
+		<form method="post" action="/search/default.asp" name="frmSearch" >
+			<td width="126" valign="middle" align="left"><input type="text" name="txtCriteria" size="16" maxlength="12"></td>
+			<td width="30" valign="middle" align="right"><input name="imgSubmit" type="image" src="/gr_misc/arrow_inv_grey.gif" onmouseout="this.src='/gr_misc/arrow_inv_grey.gif'" onmouseover="this.src='/gr_misc/arrow_inv_plum.gif'"   height="16" border="0"></td>
+		</form>
+		</tr>
+	</table>-->
+
+<script language="JavaScript" type="text/javascript">
+<!--
+  function postIT() {
+   if (document.frmSearch.txtCriteria.value == "" ) {
+		alert("Please enter a search criteria.");
+		document.frmSearch.txtCriteria.focus();
+		return false;
+		}
+	return true;
+  }
+//-->
+</script>
+<!--
+<table cellspacing="0" cellpadding="0" border="0" width="156">
+		<tr><td><img src="/gr_misc/rightpanel_searchsite.gif" width="156" height="22" border="0" alt="" /></td></tr>
+		<tr><td bgcolor="#eeeeee"><br />
+		
+			<form method="post" action="/search/default.asp" name="frmSearch" onsubmit="javascript: return postIT();">
+		<table cellspacing="0" cellpadding="0" border="0" bgcolor="#eeeeee" width="156">
+			<tr>
+				<td width="10" valign="middle" align="left"><img src="/gr_misc/1x1.gif" width="10" height="8" border="0" alt="" /></td>
+				<td width="96" valign="middle" align="left"><input type="text" name="txtCriteria" size="14" maxlength="30" /></td>
+				<td valign="middle" align="center" width="50"><input name="imgSubmit" type="image" src="/gr_misc/arrow_inv_grey.gif" onmouseout="this.src='/gr_misc/arrow_inv_grey.gif'" onmouseover="this.src='/gr_misc/arrow_inv_plum.gif'" alt="" width="24" height="16" /></td>
+		
+			</tr>
+		</table>	</form>
+		</td></tr>
+</table>-->
+
+<img src="/gr_misc/1x1.GIF" width="156" height="8" border="0" alt=""><br>
+<img src="/gr_misc/1x1.GIF" width="156" height="8" border="0" alt=""><br>
+
+<table width="156" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr><td valign="top" width="10"><img src="/gr_misc/arrow_nav_footer.gif" width="10" height="10" border="0" alt=""></td>
+	<td valign="top" width="136"><a href="/broadband/broadband_checker.asp" class="utilities">Availability Checker</a></td>
+	<td valign="top" width="10"><img src="/gr_misc/1x1.gif" width="4" height="1" border="0" alt=""></td></tr>
+</tbody></table> 
+
+<img src="/gr_misc/1x1.GIF" width="156" height="8" border="0" alt=""><br>
+<script language="JavaScript">
+<!--//
+	
+function plainWindow() 
+
+{	
+
+	strURL = '/speeddemo/indexforweb.asp';
+	
+	plain_window =
+	
+	window.open(strURL,'plain','width=770,height=400,toolbars=no,scrollbars=no,location=no,left=200,top=220');
+	
+	}
+// -->
+
+</script>
+
+<table width="156" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="middle" width="10"><img src="/gr_misc/arrow_nav_footer.gif" width="10" height="10" border="0" alt=""></td>
+<td valign="middle" width="136"><a href="#" onclick="plainWindow();" class="utilities">Speed demo</a></td><td valign="top" width="10"><img src="/gr_misc/1x1.GIF" width="4" height="1" border="0" alt=""></td>
+</tr></tbody></table> 
+
+<table width="156" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="middle" width="10"><img src="/gr_misc/arrow_nav_footer.gif" width="10" height="10" border="0" alt=""></td>
+<td valign="middle" width="136"><a href="javascript: fnnull();" onclick="isdnWindow();" class="utilities">ISDN calculator</a></td><td valign="top" width="10"><img src="/gr_misc/1x1.GIF" width="4" height="1" border="0" alt=""></td>
+</tr></tbody></table> 
+
+
+<script language="JavaScript">
+<!--//
+
+function fnnull()
+	
+	{
+	}
+
+	
+function isdnWindow() 
+
+{	
+
+	strURL = '/solutions/savingscalculator.asp';
+	
+	plain_window =
+	
+	window.open(strURL,'isdncalculator','width=400,height=360,toolbars=no,scrollbars=auto,location=no,left=200,top=220');
+	
+	}
+// -->
+
+</script><table width="156" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="middle" width="10"><img src="/gr_misc/arrow_nav_footer.gif" width="10" height="10" border="0" alt=""></td>
+<td valign="middle" width="136"><a href="/enquiry/enquiry_btpreregister.asp" class="utilities">Pre register</a></td><td valign="top" width="10"><img src="/gr_misc/1x1.GIF" width="4" height="1" border="0" alt=""></td>
+</tr></tbody></table> 
+<img src="/gr_misc/1x1.GIF" width="156" height="5" border="0" alt=""><br>
+<img src="/gr_misc/line_156.gif" width="156" height="2" border="0" alt="" vspace="4&quot;">
+<img src="/gr_misc/1x1.GIF" width="156" height="1" border="0" alt=""><br>
+<table width="156" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="middle" width="10"><img src="/gr_misc/arrow_nav_footer.gif" width="10" height="10" border="0" alt=""></td>
+<td valign="middle" width="136"><a href="/pressoffice/pressoffice_casestudies.asp" class="utilities">Case studies</a></td><td valign="top" width="10"><img src="/gr_misc/1x1.GIF" width="4" height="1" border="0" alt=""></td>
+</tr></tbody></table> <table width="156" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+
+<td valign="middle" width="10"><img src="/gr_misc/arrow_nav_footer.gif" width="10" height="10" border="0" alt=""></td>
+<td valign="middle" width="136">
+<a href="/enquiry/enquiry_whitepapers.asp" class="utilities">White papers</a></td>
+<td valign="top" width="10"><img src="/gr_misc/1x1.GIF" width="4" height="1" border="0" alt=""></td>
+</tr></tbody></table> <table width="156" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="middle" width="10"><img src="/gr_misc/arrow_nav_footer.gif" width="10" height="10" border="0" alt=""></td>
+<td valign="middle" width="136"><a href="javascript:self.history.go(0)" onclick="networkWindow();" class="utilities">Network map</a></td><td valign="top" width="10"><img src="/gr_misc/1x1.GIF" width="4" height="1" border="0" alt=""></td>
+</tr></tbody></table> 
+
+
+
+
+
+<script language="JavaScript">
+<!--//
+	
+function networkWindow() 
+
+{	
+
+	strURL = '/network/';
+	
+	plain_window =
+	
+	window.open(strURL,'plain','width=550,height=390,toolbars=no,scrollbars=no,location=no,left=200,top=220');
+	
+	}
+// -->
+
+</script>
+
+<table width="156" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="middle" width="10"><img src="/gr_misc/arrow_nav_footer.gif" width="10" height="10" border="0" alt=""></td>
+<td valign="middle" width="136"><a href="/pressoffice/pressoffice_mplus.asp" class="utilities">MPlus Magazine</a></td><td valign="top" width="10"><img src="/gr_misc/1x1.GIF" width="4" height="1" border="0" alt=""></td>
+</tr></tbody></table>
+
+ <table width="156" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="middle" width="10"><img src="/gr_misc/arrow_nav_footer.gif" width="10" height="10" border="0" alt=""></td>
+<td valign="middle" width="136"><a href="/about/about_careers.asp" class="utilities">Careers</a></td><td valign="top" width="10"><img src="/gr_misc/1x1.GIF" width="4" height="1" border="0" alt=""></td>
+</tr></tbody></table> 
+<!-- include virtual="/includes/rightpanel_print.asp" -->
+<img src="/gr_misc/1x1.GIF" width="156" height="5" border="0" alt=""><br>
+<img src="/gr_misc/line_156.gif" width="156" height="2" border="0" alt="" vspace="4&quot;">
+
+<img src="/gr_misc/logo_olympic_156.gif" width="156" height="63" border="0" alt="" vspace="16">
+
+
+
+
+<!-- END RIGHT HAND PANEL -->
+
+</td>
+	</tr>
+</tbody></table>
+<!-- CLOSE 2NAV AND FEATURE BOXES -->
+
+<!-- CLOSE MAIN GRID -->
+
+
+<table width="780" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td rowspan="2" class="plum" width="75%" valign="middle">
+
+
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+<td><img src="/gr_misc/1x1.GIF" width="10" height="5" border="0" alt=""></td>
+<td><span class="gennav">© Easynet Limited 2005 - All rights reserved   &nbsp;&nbsp;</span></td>
+<td><a href="/legal/notice.asp" class="gennav">Legal Notice</a>   &nbsp;&nbsp;</td>
+<td><a href="/legal/acceptable.asp" class="gennav">Acceptable Use Policy</a>   &nbsp;&nbsp;</td>
+<td><a href="/legal/privacy.asp" class="gennav">Privacy Policy</a>   &nbsp;&nbsp;</td>
+</tr></tbody></table>
+
+</td>
+<td class="plum" width="30%"><img src="/gr_misc/1x1.gif" width="1" height="5" border="0" alt=""></td></tr>
+<tr><td bgcolor="white"><img src="/gr_misc/curve_footer.gif" width="65" height="14" border="0" alt=""></td></tr>
+
+</tbody></table>
+
+
+
+<table cellspacing="0" cellpadding="0" border="0" width="780">
+<tbody><tr>
+<td align="right"><a href="/"><img src="/gr_misc/logo_small.gif" width="26" height="32" border="0" alt=""></a></td></tr>
+
+</tbody></table>
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- © 1999-2004 NetIQ Corporation. All rights reserved. -->
+<!-- V7.0 -->
+<!-- $DateTime: 2003/10/28 16:26:23 $ -->
+<script language="Javascript"><!--
+gVersion="1.0";
+//-->
+</script>
+<script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script>
+<script language="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</script>
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
+<script language="JavaScript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+
+var gDomain="smartsource.uk.easynet.net";
+var gDcsId="dcs9u49wuvlero5hpgrovaclf_1y5t";
+
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var myDocumentElements;
+	if (document.all){
+		myDocumentElements=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		myDocumentElements=document.getElementsByTagName("meta");
+	}
+	if (typeof(myDocumentElements)!="undefined"){
+		for (var i=1;i<=myDocumentElements.length;i++){
+			myMeta=myDocumentElements.item(i-1);
+			if (myMeta.name){
+				if (myMeta.name.indexOf('WT.')==0){
+					WT[myMeta.name.substring(3)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCSext.')==0){
+					DCSext[myMeta.name.substring(7)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCS.')==0){
+					DCS[myMeta.name.substring(4)]=myMeta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+dcsVar();
+dcsMeta();
+dcsTag();
+//-->
+</script>
+
+<noscript>
+<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://smartsource.uk.easynet.net/dcs9u49wuvlero5hpgrovaclf_1y5t/njs.gif?dcsuri=/nojavascript&WT.js=No">
+</noscript>
+<!-- END OF SmartSource Data Collector  TAG -->
+<br><br><br><br>
+
+
+
+</body></html>
