@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614071639id_/http%3A//www.citizenship.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230230935id_/http%3A//www.citizenship.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Citizenship Website - Privacy Statement
 
@@ -74,6 +74,6 @@ You can find more information from the [Privacy Commissioner's website](http://w
 If at any time you believe we have not adhered to the principles referred to in this privacy statement or have any other comments on these principles, please contact: 
 
 DIMIA Privacy Officer  
-Email: [opfoi@immi.gov.au](mailto:opfoi@immi.gov.au)
+Email: [privacy@immi.gov.au](mailto:privacy@immi.gov.au)
 
 Please note the Privacy Officer will only respond to queries on privacy matters. Inquiries about other matters will not be answered. 
