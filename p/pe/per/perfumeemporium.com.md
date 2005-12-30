@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfumeemporium.com privacy policy that was archived on 2004-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040722102234id_/http%3A//www.perfumeemporium.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfumeemporium.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230054816id_/http%3A//www.perfumeemporium.com/privacy.cfm) for the most accurate reproduction.*
 
 # Perfume Emporium - Cheap prices for perfume, cologne, and skin care!
 
@@ -12,7 +12,7 @@ ORDER FORMS
 
 Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), and financial information (like their account or credit card numbers). 
 
-Contact information from the order forms is used to ship purchases and information about our company. The customer's contact information is also used to get in touch with the visitor when necessary. **_We never sell, rent, or give out customers personal information to third parties._**
+Contact information from the order forms is used to ship purchases and information about our company. The customer's contact information is also used to get in touch with the visitor when necessary. **_We never sell, rent, or give out customers personal or financial information to third parties without customers prior consent._**
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -22,7 +22,7 @@ SURVEYS
 
 Our online surveys ask visitors for contact information (like email address). 
 
-Contact information from the surveys is used to ship purchases and information about our company. The customer's contact information is also used to send promotional material to our customers, and to get in touch with the visitor when necessary. We never sell, rent, or give out customers personal information to third parties. 
+Contact information from the surveys is used to ship purchases and information about our company. The customer's contact information is also used to send promotional material to our customers, and to get in touch with the visitor when necessary. We never sell, rent, or give out customers personal or financial information to third parties without customers prior consent. 
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -34,8 +34,8 @@ CHOICE/OPT-OUT
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us. 
 
-You can send email to perfumes@perfumeemporium.com. Type **"REMOVE FROM LIST"** in subject heading. 
+You can send email to sales@perfumeemporium.com. Type **"REMOVE FROM LIST"** in subject heading. 
 
 CONTACTING THE WEB SITE
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: perfumes@perfumeemporium.com 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: sales@perfumeemporium.com 
