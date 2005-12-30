@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johndeeregifts.com privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423215214id_/http%3A//www.deere.com/en_US/deerecom/privacy_legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johndeeregifts.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230102802id_/http%3A//www.deere.com/en_US/deerecom/privacy_legal/privacypolicy.html) for the most accurate reproduction.*
 
 # John Deere - Privacy and Legal : John Deere
 
@@ -13,7 +13,7 @@ As required by applicable law:
 
   * You may request access to personal information you have submitted to John Deere.
   * You may request to update or remove your personal information. 
-  * You may request to be removed from our communication programs
+  * You may [request to be removed](https://web.archive.org/en_US/deerecom/privacy_legal/privacypolicy_optout_landing.html) from our communication programs
 
 
 
