@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exploratorium.edu privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325100402id_/http%3A//www.exploratorium.edu/about/priv_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploratorium.edu privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230181619id_/http%3A//www.exploratorium.edu/about/priv_policy.html) for the most accurate reproduction.*
 
 # Exploratorium: Privacy Policy
 
-|  |  |  [](https://web.archive.org/web/20050325100402id_/http%3A//www.exploratorium.edu/about/about_web.html)  
+|  |  |  [](https://web.archive.org/web/20051230181619id_/http%3A//www.exploratorium.edu/about/about_web.html)  
 ---|---  
   | 
 
@@ -37,7 +37,7 @@ If we become aware that a subscriber is under the age of thirteen (13) and has r
 **Use of Cookies**  
 ****  
   
-A cookie is a small data file stored on the user's hard drive which may contain information about the user. We use cookies but do not store personally identifiable information in your cookie. We currently use cookies only in connection with our online store and our bulletin boards. If you are a registered user, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you register with or order from us, we also use cookies to monitor and maintain information about your use of this Site.  
+A cookie is a small data file stored on the user's hard drive which may contain information about the user. We use cookies but do not store personally identifiable information in your cookie. We currently use cookies only in connection with our online store and our bulletin boards. We may also use cookies to help us generate our web site usage statistics. If you are a registered user, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you register with or order from us, we also use cookies to monitor and maintain information about your use of this Site.  
   
 **Security of Credit Card Information**  
 ****  
