@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402122438id_/http%3A//apmex.com/privacy.asp%3Forderid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230044225id_/http%3A//apmex.com/privacy.asp%3Forderid%3D0) for the most accurate reproduction.*
 
 # Our Commitment To You - APMEX.com
 
