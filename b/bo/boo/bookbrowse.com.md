@@ -1,52 +1,48 @@
-> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2000-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000419193321id_/http%3A//www.bookbrowse.com/main/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230080331id_/http%3A//www.bookbrowse.com/information/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Statement for BookBrowse
+# BookBrowse.com // A literary feast of exceptional books
 
-  
-**Privacy Statement for BookBrowse.com  **
+BookBrowse.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website. 
 
-BookBrowse.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: BookBrowse.com 
+**Personal Information**   
+BookBrowse.com does not collect any personal information about a visitor unless that visitor specifically provides us an email address, in order to receive the weekly magazine or enter a contest. 
 
-**Information Automatically Logged    
-**  
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information such as your likely country of origin.  This information may be shared with third parties such as advertisers.
+We do not sell, share or rent email addresses. 
 
-**Personal Information    
-**  
-BookBrowse.com does not use cookies to collect information.  
-The following lists instances where this web site collects information that personally identifies you or allows you to be personally contacted:
+The email addresses of those subscribing to the weekly magazine are added to the magazine mailing list stored in a secure location at our email host, Constant Contact. 
 
-**Entering a Book Draw  
-**Your email address is necessary in order to enter any book draw at BookBrowse.com - for the simple reason that without your email address we could not notify you if you won!  Once the book draw is closed and the winner chosen all email addresses are erased - unless you have chosen to subscribe to an ezine (see below).
+Email addresses collected when people enter BookBrowse giveaways, quizzes or take part in our annual consumer survey 'thank you giveaway', are deleted once the winners have been contacted. 
 
-**Subscribing to BookBrowse Updates:**   If you choose to subscribe to the weekly ezine of BookBrowse.com (by completing the subscribe form or checking the box on the book draw entry form) your email address will  be added to our mailing list.  However, we store no other personal information and absolutely guarantee that we will not make available any part of this mailing list to any third party.  We will also make reasonable efforts to protect this list from theft by hackers. 
+**Tell-A-Friend Tool**   
+Visitors often wish to tell a friend about a particular page at BookBrowse, or send themselves a reminder. For this reason, like many other websites, BookBrowse provides a convenient 'tell-a-friend' tool that allows you to send a personal message to a friend telling them about BookBrowse. 
 
-**Opting to have your name added to an external mailing list  
-**Sometimes, when entering a book draw, you will have the opportunity to subscribe to a related newsletter (for example an email newsletter about the author of the book that you are entering to win).  These email newsletters are provided by third parties and therefore  your email address will be made available to that third party, under the condition that the given third party use the information solely for the purpose stated and do not make the list available to any other third party.
+Email addresses are used only to send this one-time message, and are not stored or recorded by BookBrowse in anyway. 
 
-**Completing an Online Survey  
-**In an effort to improve BookBrowse.com, from time to time we run online surveys to collect demographic, usage and satisfaction data.   This maybe made available to third parties.   You can choose whether or not to complete the survey and whether or not to provide your email address.    
-All email addresses are collected and stored in a totally separate file from the stats (so data cannot be associated with any individual email addresses).  These email addresses are used for the sole purpose of choosing the winners (if prizes are offered), or when a reply has been requested - i.e. when a question has been asked by the person answering the survey questions.  Once the survey is complete these email addresses are deleted.
+It is possible that a misguided person might abuse this 'tell-a-friend' tool to send a message to somebody who is not their friend and who does not want to get email from them. This is an unlikely situation, but if you have received such an email, we apologize for it. 
 
-**External Links    
-**  
-This site contains links to other sites. BookBrowse.com is not responsible for the privacy practices or the content of such Web sites.   Links to external sites include but are not limited to banner and button advertising and text links, 
+**Information Automatically Logged**   
+We collect IP (internet protocol) addresses to help diagnose problems with our server and to administer our Web site. IP addresses are also used to gather broad demographic information such as the percentage of visitors by country. 
 
-**Third Parties  **
+Because IP addresses are usually shared by many people, BookBrowse (like the majority of websites) uses a 'cookie' in order to know how many individuals come to the site. When you visit us, BookBrowse's server sends a tiny file to your computer containing a sequence of numbers. This is stored on your hard disk in a special folder for cookies. 
 
-**Advertisers & Cookies   
-**  
-Sometimes we use an outside ad company to display ads on our site. These ads may contain cookies. While we do not use cookies in other parts of our web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+If you visit BookBrowse again, your computer will check its files to see if a cookie matches, and if so send this little file back to BookBrowse, so that you are recognized as a returning visitor. This helps us calculate how many people visit in total and when they visit, but it _does not_ give us any personal information about you at all. 
 
-**Other Third Parties**
+This is what the contents of a typical cookie file looks like:   
+CFID 212442 bookbrowse.com/   
+1536 3546759168 29693834
 
-This site includes a considerable amount of information provided by 3rd parties, including, but not limited to, advertising, excerpts, reviews, interviews, book summaries and text links.  As such, content at BookBrowse.com does not necessarily represent the views of the owners of BookBrowse.com and is not endorsed by BookBrowse.com. 
+If you're interested in knowing more about cookies we recommend [this site](http://computer.howstuffworks.com/cookie1.htm "howstuffworks.com"). 
 
-Similarly, BookBrowse.com provides links to a number of 3rd party sites - the views of which are not endorsed by BookBrowse.com.  
+**Information Provided by Third Parties**   
+BookBrowse contains a considerable amount of information provided by 3rd parties, including, but not limited to, advertising, excerpts, reviews, interviews, book summaries and text links. As such, content at BookBrowse.com does not necessarily represent the views of the owners of BookBrowse.com and is not endorsed by BookBrowse.com. 
 
-**Contacting BookBrowse.com**
+_Third Party Links_
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: **[contact@bookbrowse.com](mailto:contact@bookbrowse.com) **
+This site contains links to other sites, including but not limited to, banner advertising and text links. BookBrowse.com is not responsible for the privacy practices or the content of any third party sites, and a link to a third party site should not be seen as an endorsement by BookBrowse of that site. 
 
-[Copyright Notice  
-](https://web.archive.org/web/20000419193321id_/http%3A//www.bookbrowse.com/main/legal.html)[Rules for Entering Book Draws](https://web.archive.org/web/20000419193321id_/http%3A//www.bookbrowse.com/main/rules.html)
+_Advertising_
+
+From time to time we use third-party advertising companies to serve ads on our Web site. These companies use cookies to track your visits to this and other websites in order to provide advertisements that may be of interest to you. The information about you does not include personal details such as your name or address, it is simply a cookie (as explained in the previous section) that tracks general traffic movements. If you would like more information about this practice, or you would like to opt out from having your data collected by some advertising networks, please [click here](http://www.networkadvertising.org/optout_nonppii.asp "opt out of ads"). 
+
+**Contacting BookBrowse.com**   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/web/20051230080331id_/http%3A//www.bookbrowse.com/information/contactus "contact us"). 
