@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205200820id_/http%3A//www.mscsoftware.com/about/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230202026id_/http%3A//www.mscsoftware.com/about/legal/%23privacy) for the most accurate reproduction.*
 
 # About MSC.Software
 
@@ -15,7 +15,7 @@ Terms | Privacy | Trademark
 |  |    **Terms and Conditions of Use and Disclaimer**  
 ---|---  
   
-**Copyright © 2003 The MSC.Software Corporation-All Rights Reserved.**
+**Copyright © 2005 The MSC.Software Corporation-All Rights Reserved.**
 
 The web sites www.mscsoftware.com and www.engineering-e.com are intended for use by The MSC.Software Corporation's ("MSC") customers and other business partners.
 
