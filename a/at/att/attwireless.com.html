@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the attwireless.com privacy policy that was archived on 2005-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050530015941id_/http%3A//www.cingular.com/privacy/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the attwireless.com privacy policy that was archived on 2005-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051230113411id_/http%3A//www.cingular.com/privacy/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 	<title>Cingular Wireless</title>
@@ -86,7 +86,7 @@
 		}
 	-->
 	</script>
-	<!-- Vignette V7 Hybrid V6 Thu May 19 10:41:38 2005 -->
+	<!-- Vignette V7 Hybrid V6 Thu Dec 15 14:19:14 2005 -->
 
 
 
@@ -114,19 +114,20 @@ var lnav_third_array = new Array();
 
 <!--HEADER & GLOBAL NAVIGATION-->
 <div id="containerHeaderGlobalNav">
-	<!-- Vignette V7 Hybrid V6 Wed May 18 17:49:50 2005 -->
+	<!-- Vignette V7 Hybrid V6 Thu Dec 15 14:00:55 2005 -->
 
 
 
 
 
-	<script language="JavaScript">
+	<script type="text/javascript">
 	<!--
 	function MM_openBrWindow(theURL,winName,features) { //v2.0
 	  window.open(theURL,winName,features);
 	}
 	//-->
 	</script>
+
 	
 
 
@@ -137,43 +138,43 @@ var lnav_third_array = new Array();
 <div id="header">
 <div class="flash"><a href="/index"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/images/cing_logo_raisingthebar.gif" alt="Cingular Wireless"></a></div>
 	<div class="utilityNav">
-			<p><a href="/index">Home</a> | <a href="/about/company_overview">About Us</a> | <a href="/dilo">Español</a> | <a href="/customer_service/contact_us">Contact Us</a> | <a href="/buy/store_locator"> Find a Store</a> | <a href="/myaccount/login">Log In</a></p>
-					<script>
-						function clearSearch() {
-						  if(document.frmSearchHeader.searchAll.value == "Search") {
-						    document.frmSearchHeader.searchAll.value = "";
-						  }
-						}
-						function validateSearchHeader() {
-					  		if(document.frmSearchHeader.searchAll.value == "" || document.frmSearchHeader.searchAll.value == "Search") {
-					    		alert("Please enter valid search criteria.");
-								document.frmSearchHeader.searchAll.focus();
-								return false;
-					  		}
-					  	return true;
-						}
-					</script>
-		        <form name="frmSearchHeader" action="/search/searchResults" method="post" onsubmit="return validateSearchHeader()">
-		        <input type="hidden" name="searchNone">
-		        <input type="hidden" name="searchExact">
-				<input type="hidden" name="searchZip">
-		        <input type="hidden" name="flgCompany" value="1">
-		        <input type="hidden" name="flgProducts" value="1">
-		        <input type="hidden" name="flgGlossary" value="1">
-		        <input type="hidden" name="flgPagination" value="0">
-			<p style="padding-top:5px;">
-				</p><table align="right">
-					<tbody><tr>
-						<td valign="center">							
-							<input type="text" size="14" name="searchAll" value="Search" onfocus="clearSearch()">
-						</td>
-						<td valign="center">
-							<input type="image" src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/images/bt/bt_homeGo.gif" alt="Search" maxlength="200">
-						</td>
-					</tr>
-				</tbody></table>
+			<p><a href="/index">Home</a> | <a href="/about/company_overview">About Us</a> | <a href="/espanol">Español</a> | <a href="/customer_service/contact_us?WT.svl=1">Contact Us</a> | <a href="/buy/store_locator"> Find a Store</a> | <a href="https://www.cingular.com/myaccount/login?WT.svl=1">Log In</a></p>
+
+			<script type="text/javascript">
+				var DefaultValue = 'Search';
+				
+				function clearSearch() {
+				  if(document.frmSearchHeader.q.value == DefaultValue) {
+				    document.frmSearchHeader.q.value = '';
+				  }
+				}
+			
+				function validateSearchHeader() {
+			  		if ( document.frmSearchHeader.q.value == '' || document.frmSearchHeader.q.value.toLocaleLowerCase() == DefaultValue.toLocaleLowerCase() ) {
+			    		alert('Please enter at least one keyword in the Search box.');
+						document.frmSearchHeader.q.focus();
+						return false;
+			  		}
+			  	  return true;
+				}
+			</script>
+					
+			<div style="padding-top:5px;">
+		        
+		        <form name="frmSearchHeader" action="http://search.cingular.com/search" method="get" onsubmit="return validateSearchHeader()">
+					
+					<input type="hidden" name="site" id="site" value="default_collection">
+					<input type="hidden" name="client" id="client" value="cingular_frontend">
+					<input type="hidden" name="output" id="output" value="xml_no_dtd">
+					<input type="hidden" name="proxystylesheet" id="proxystylesheet" value="cingular_frontend">
+					<input type="hidden" name="proxycustom" id="proxycustom" value="%3CHOME/%3E">
+					<input type="hidden" name="numgm" id="numgm" value="5">
+					<input type="hidden" name="lr" id="lr" value="lang_en">
+					
+					<p style="margin: 0 12px 0 0; padding: 0; height: 30px; line-height: 30px; text-align: right;"><input style="vertical-align: middle;" type="text" size="14" name="q" id="q" value="Search" onfocus="if (this.value==DefaultValue) this.value='';" onblur="if (this.value=='') this.value=DefaultValue;"> <input style="vertical-align: middle;" type="image" src="/images/bt/bt_homeGo.gif" alt="Search"></p>
 				</form>
-			<p></p>
+			</div>
+			
 			<div style="clear:both;"></div>
 			<p style="padding-top:0px;"><a href="/sendamessage"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/tit_sendTextMessage.png" alt="Send Text Message"></a></p>
 	</div>
@@ -185,23 +186,24 @@ var lnav_third_array = new Array();
 
 		<div id="globalNavigation">
 		<ul>
-			<li class="shopCingular"><a href="/shop/shop_cingular" title="Shop Cingular" id="imgshopCingular" onmouseover="showMenu('shopCingular', this)" onmouseout="tryToClose()"><span>Shop Cingular</span></a></li><li class="myAccount"><a href="/myaccount" title="My Account" id="imgmyAccount" onmouseover="showMenu('myAccount', this)" onmouseout="tryToClose()"><span>My Account</span></a></li><li class="mediaServices"><a href="/media" title="Media &amp; Services" id="imgmediaServices" onmouseover="showMenu('mediaServices', this)" onmouseout="tryToClose()"><span>MEdia &amp; Services</span></a></li><li class="ratePlans"><a href="/b2b" title="Business Solutions" id="imgbusinessSolutions" onmouseover="showMenu('businessSolutions', this)" onmouseout="tryToClose()"><span>Business Solutions</span></a></li><li class="customerService"><a href="/customer_service/customer_service" title="Customer Service" id="imgcustomerService" onmouseover="showMenu('customerService', this)" onmouseout="tryToClose()"><span>Customer Service</span></a></li>
+			<li class="shopCingular"><a href="/shop/shop_cingular" title="Shop Cingular" id="imgshopCingular" onmouseover="showMenu('shopCingular', this)" onmouseout="tryToClose()"><span>Shop Cingular</span></a></li><li class="myAccount"><a href="https://www.cingular.com/myaccount" title="My Account" id="imgmyAccount" onmouseover="showMenu('myAccount', this)" onmouseout="tryToClose()"><span>My Account</span></a></li><li class="mediaServices"><a href="/media" title="Media &amp; Services" id="imgmediaServices" onmouseover="showMenu('mediaServices', this)" onmouseout="tryToClose()"><span>MEdia &amp; Services</span></a></li><li class="ratePlans"><a href="/b2b" title="Business Solutions" id="imgbusinessSolutions" onmouseover="showMenu('businessSolutions', this)" onmouseout="tryToClose()"><span>Business Solutions</span></a></li><li class="customerService"><a href="/customer_service/customer_service" title="Customer Service" id="imgcustomerService" onmouseover="showMenu('customerService', this)" onmouseout="tryToClose()"><span>Customer Service</span></a></li>
 		</ul>
 	</div>
 <div id="shopCingular" class="globalDropDown" style="width:146px;">
 		<h2>Shop Cingular</h2>
 			<ul>
-				<li><a href="/refresh/common/estore_zipcode?selinfo=Phones">Phones &amp; PDAs<img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/shim.gif" width="1" height="1" border="0"></a></li>
-				<li><a href="/refresh/common/estore_zipcode?selinfo=Rate+Plans">Rate Plans</a></li>
-				<li><a href="/refresh/common/estore_zipcode?selinfo=Accessories">Accessories</a></li>
-				<li><a href="/refresh/common/estore_zipcode?selinfo=PCccards">PC Cards</a></li>
-			</ul>
+				<li><a href="http://onlinestorez.cingular.com/cell-phone-service/cell-phones/cell-phones.jsp?CategoryId=2283000006&amp;source=INC230056">Phones &amp; PDAs<img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/shim.gif" width="1" height="1" border="0"></a></li>
+				<li><a href="http://onlinestorez.cingular.com/cell-phone-service/wireless-phone-plans/cell-phone-plans.jsp?source=INC230057">Rate Plans</a></li>
+				<li><a href="http://onlinestorez.cingular.com/cell-phone-service/accessories/index.jsp?source=INC230058">Accessories</a></li>
+				<li><a href="/media/ringtones_graphics">Ringtones</a></li>
+				<li><a href="http://onlinestorez.cingular.com/cell-phone-service/cell-phones/cell-phones.jsp?CategoryId=2283000008&amp;source=INC230059">PC Cards</a></li>
+</ul>
 	</div>
 
 	<div id="myAccount" class="globalDropDown" style="width:139px">
 		<h2>My Account</h2>
 			<ul>
-				<li><a href="/myaccount/login">Login - My Account<img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/shim.gif" width="1" height="1" border="0"></a></li>
+				<li><a href="https://www.cingular.com/myaccount/login?WT.svl=2">Login - My Account<img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/shim.gif" width="1" height="1" border="0"></a></li>
 				<li><a href="/myaccount/register">Register - My Account</a></li>
 				<li><a href="/myaccount/prepaid">Prepaid Accounts</a></li>
 			</ul>
@@ -210,10 +212,11 @@ var lnav_third_array = new Array();
 	<div id="mediaServices" class="globalDropDown" style="width:139px">
 		<h2>Media &amp; Services</h2>
 			<ul>
-				<li><a href="/media/ringtones_graphics">Ringtones &amp; Graphics<img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/shim.gif" width="1" height="1" border="0"></a></li>
+				<li><a href="/media/ringtones_graphics">Tones &amp; Graphics<img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/shim.gif" width="1" height="1" border="0"></a></li>
 				<li><a href="/media/multimedia_messaging">Multimedia Messaging</a></li>
 				<li><a href="/media/text_messaging">Text Messaging</a></li>
 				<li><a href="/media/instant_messaging">Instant Messaging</a></li>
+				<li><a href="/media/mobile_email">Mobile Email</a></li>
 				<li><a href="/media/games">Games</a></li>
 				<li><a href="/media/media_net">MEdia Net</a></li>
 				<li><a href="/media/cool_tools">Cool Tools</a></li>
@@ -222,11 +225,12 @@ var lnav_third_array = new Array();
 	</div>
 
 		<div id="businessSolutions" class="globalDropDown" style="width:139px">
-		<h2>Business Solutions</h2>
+		<h2>Business Solutions</h2> 
 			<ul>
 				<li><a href="/midtolarge/">Med/Large Business<img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/shim.gif" width="1" height="1" border="0"></a></li>
 				<li><a href="/government/">Government</a></li>
 				<li><a href="/sbusiness/">Small Business</a></li>
+				<li><a href="/college/">College/University</a></li>
 				<li><a href="/b2b/contact_us/">Contact - B2B Sales</a></li>
 			</ul>
 		</div>
@@ -243,7 +247,7 @@ var lnav_third_array = new Array();
 	</div>
 <div style="clear:both;"></div>
 
-<!-- Vignette V7 Hybrid V6 Sat May 21 09:22:19 2005 -->
+<!-- Vignette V7 Hybrid V6 Fri Sep 23 18:16:49 2005 -->
 <!--for support of attwireless.com redirects-->
 <style type="text/css">
 #popredirect {
@@ -300,30 +304,27 @@ width:375px;
 </style>
 
 
-<script language="JavaScript">
+<script type="text/javascript">
 <!--
 
 function sendOff()
 {
-//document.getElementById("popredirect").style.visibility="collapse";
-document.getElementById("popredirect").style.display="none";
+// document.getElementById('popredirect').style.visibility='collapse';
+document.getElementById('popredirect').style.display='none';
 }
 
-if(document.location.href.indexOf("awgenericpage") != -1) {
-  
-	document.write("<div id='popredirect'><div class='legacy'><img src='/cingular_zip/legacy_logo.gif'></div><form id='close'><input type='image' src='/refresh/images/bt_closeWindow.png' onClick='sendOff();return false;'></form>");
-	document.write("<br><span class='title'>This Page Has Moved to Cingular.com</span><div class='text'>Cingular and AT&amp;T Wireless have merged to create the largest wireless carrier in America.");
-	document.write("The Web page you are looking for is no longer available on the attwireless.com web site and per a transitional branding agreement with AT&amp;T, you will be automatically redirected to");
-	document.write("&nbsp;<a href='http://www.cingular.com'>http://www.cingular.com</a></div><div class='text'>In the future, please visit <a href='http://www.cingular.com'>http://www.cingular.com</a> to find the most up-to-date information on all of the combined company's products and services.</div></div>");
+if(document.location.href.indexOf('awgenericpage') != -1) {
+	document.write('<div id="popredirect"><div class="legacy"><img src="/cingular_zip/legacy_logo.gif"></div><form id="close"><input type="image" src="/refresh/images/bt_closeWindow.png" onClick="sendOff();return false;"></form>');
+	document.write('<br><span class="title">This Page Has Moved to Cingular.com</span><div class="text">Cingular and AT&amp;T Wireless have merged to create the largest wireless carrier in America. ');
+	document.write('The Web page you are looking for is no longer available on the attwireless.com web site and per a transitional branding agreement with AT&amp;T, you will be automatically redirected to');
+	document.write('&nbsp;<a href="http://www.cingular.com">http://www.cingular.com</a></div><div class="text">In the future, please visit <a href="http://www.cingular.com">http://www.cingular.com</a> to find the most up-to-date information on all of the combined company&apos;s products and services.</div></div>');
   	window.setTimeout('sendOff()', 10000);
-	
   }  
-  
-else if(document.location.href.indexOf("awspecificpage") != -1) {
-    document.write("<div id='popredirect'><div class='legacy'><img src='/cingular_zip/legacy_logo.gif'></div><form id='close'><input type='image' src='/refresh/images/bt_closeWindow.png' onClick='sendOff();return false;'></form>");
-	document.write("<br><span class='title'>This Page Has Moved to Cingular.com</span><div class='text'>Cingular and AT&amp;T Wireless have merged to create the largest wireless carrier in America."); 
-	document.write("Per a transitional branding agreement with AT&amp;T, select web pages that currently live on attwireless.com will automatically redirect you to the proper page on");
-	document.write("&nbsp;<a href='http://www.cingular.com'>http://www.cingular.com</a></div><div class='text'>In the future, please visit <a href='http://www.cingular.com'>http://www.cingular.com</a>  to find the most up-to-date information on all of the combined company's products and services.</div></div>");
+else if(document.location.href.indexOf('awspecificpage') != -1) {
+    document.write('<div id="popredirect"><div class="legacy"><img src="/cingular_zip/legacy_logo.gif"></div><form id="close"><input type="image" src="/refresh/images/bt_closeWindow.png" onClick="sendOff();return false;"></form>');
+	document.write('<br><span class="title">This Page Has Moved to Cingular.com</span><div class="text">Cingular and AT&amp;T Wireless have merged to create the largest wireless carrier in America. '); 
+	document.write('Per a transitional branding agreement with AT&amp;T, select web pages that currently live on attwireless.com will automatically redirect you to the proper page on');
+	document.write('&nbsp;<a href="http://www.cingular.com">http://www.cingular.com</a></div><div class="text">In the future, please visit <a href="http://www.cingular.com">http://www.cingular.com</a>  to find the most up-to-date information on all of the combined company&apos;s products and services.</div></div>');
 	window.setTimeout('sendOff()', 10000);
   } 
 
@@ -351,6 +352,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 //-->
 </script>
 
+
 </div>
 <!--END HEADER & DROPDOWN NAVIGATION-->
 
@@ -377,18 +379,18 @@ function Partythree_openBrWindow(theURL) { //v2.0
 		<div style="clear:both;"></div> 
 		<!--END PAGEHEADER-->
 		
-		<!--CONTENT-->
-		
-		<div style="width:445px;border:none;" class="cella">
+		<!--CONTENT Include-->
+		<!-- Vignette V7 Hybrid V6 Fri Dec 30 05:34:51 2005 -->
+<div style="width:445px;border:none;FONT: 11px Verdana, Arial, Helvetica, sans-serif; COLOR: #333333;">
 		
 					
 			Cingular Wireless uses e-mail, short text messages, telemarketing, and direct mail to 
 			inform you about products or services we think will interest you. If you do not wish 
-			to receive these types of communications, learn how you can <a href="#15">opt out</a>.		
-					
+			to receive these types of communications, learn how you can <a style="COLOR: #099999" href="#15">opt out</a>.		
+	
 			<div style="clear:both;height:10px;"></div>
 			
-			(Effective date: April 2005)
+			(Effective date: September 2, 2005)
 
 			<br><br>
 			
@@ -435,7 +437,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			products or services you request. This happens automatically when you interact with us, 
 			such as when you log into a service. Sometimes, Cingular Wireless buys commercially 
 			available marketing and sales information from third parties so we can better serve you.<br>
-			<a href="#1">Tell me more</a><br>
+			<a style="COLOR: #099999" href="#1">Tell me more</a><br>
 			<br>
 
 			<strong>Does Cingular Wireless Collect Information About Children Under the Age of 13?</strong><br>
@@ -443,7 +445,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			he or she is under the age of 13, we will ask a parent to confirm his/her consent
 			in advance of further collection, use or disclosure of personal information from
 			that child.<br>
-			<a href="#2">Tell me more</a><br>
+			<a style="COLOR: #099999" href="#2">Tell me more</a><br>
 			<br>
 
 			<strong>How Does Cingular Wireless Use Personal Information?</strong><br>
@@ -451,7 +453,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			transactions you have requested, and to anticipate and resolve problems with
 			your services. We may also use this information to create and inform you of products
 			or services from Cingular Wireless or others that may better meet your needs. <br>
-			<a href="#3">Tell me more</a> <br>
+			<a style="COLOR: #099999" href="#3">Tell me more</a> <br>
 			<br>
 			
 			<strong>When Does Cingular Wireless Disclose Personal Information?</strong><br>
@@ -461,7 +463,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			or when we otherwise
 			have your consent to do so. We also may disclose personal information to third
 			parties to protect the rights and property of the company or its subscribers. <br>
-			<a href="#4">Tell me more</a> <br>
+			<a style="COLOR: #099999" href="#4">Tell me more</a> <br>
 			<br>
 			
 			
@@ -469,14 +471,14 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			Under federal law, you have a right, and we have a duty, to protect the confidentiality
 			of information about your device usage, the services you buy from us, who you
 			call, and the location of your device on our network when you make a voice call. <br>
-			<a href="#5">Tell me more</a> <br>
+			<a style="COLOR: #099999" href="#5">Tell me more</a> <br>
 			<br>
 			
 			<strong>Does Cingular Wireless Use Cookies? </strong><br>
 			Yes. Cingular Wireless uses cookies for a variety of reasons, including improving
 			your shopping or browsing experience. In addition, cookies help us personalize
 			the site experience for you. <br>
-			<a href="#6">Tell me more</a> <br>
+			<a style="COLOR: #099999" href="#6">Tell me more</a> <br>
 			<br>
 			
 			<strong>Does Cingular Wireless Use Web Beacons?</strong><br>
@@ -484,16 +486,16 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			so that we can identify you and deliver you the services you request. However,
 			Cingular Wireless does not permit third parties to use Web beacons linked to
 			personal information on our site. <br>
-			<a href="#7">Tell me more</a> <br>
+			<a style="COLOR: #099999" href="#7">Tell me more</a> <br>
 			<br>
 			
-			<strong>Does Cingular Wireless Place Banner Ads on Other Web Sites?</strong><br>
+			<strong>Does Cingular Wireless Place Advertising on Other Web Sites?</strong><br>
 			Cingular Wireless currently uses third-party advertising companies to place our
 			ads on the Internet, and cookie and Web beacon technologies are used to measure
 			the effectiveness of those ads. You should know that the use of such cookies
 			is subject to the third parties' privacy policies, and not the policy of Cingular
 			Wireless.<br>
-			<a href="#8">Tell me more</a> <br> 
+			<a style="COLOR: #099999" href="#8">Tell me more</a> <br> 
 			<br>
 			
 			<strong>What About Presence, Location, and Tracking Information?</strong><br>
@@ -502,20 +504,20 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			the terms and conditions for the specific service offering explain how the location
 			information will be used. We also may provide your network location to emergency
 			service providers if you place a 911 call. <br>
-			<a href="#9">Tell me more</a> <br>
+			<a style="COLOR: #099999" href="#9">Tell me more</a> <br>
 			<br>
 			
 			<strong>Can I Choose Not to Receive Marketing Messages on My Wireless Device from Third Parties?</strong><br>
 			Cingular Wireless has implemented technology to reduce unsolicited bulk short
 			text messages but is unable to filter all marketing messages that you receive
 			on your wireless device from third parties.<br>
-			<a href="#10">Tell me more</a> <br>
+			<a style="COLOR: #099999" href="#10">Tell me more</a> <br>
 			<br>
 			
 			<strong>How Secure Is Information About Me? </strong><br>
 			We maintain a variety of physical, electronic, and procedural safeguards to guard
 			your personal information.<br>
-			<a href="#11">Tell me more</a> <br>
+			<a style="COLOR: #099999" href="#11">Tell me more</a> <br>
 			<br>
 			
 			<strong>What Can I Do to Protect My Personal Information?</strong><br>
@@ -523,27 +525,27 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			efforts to protect against unauthorized access to your wireless device and SIM card. 
 			Before discarding your device or trading it in, be sure you remove all your personal 
 			information from the device.  <br>
-			<a href="#16">Tell me more</a> <br>
+			<a style="COLOR: #099999" href="#16">Tell me more</a> <br>
 			<br>
 			
 			
 			<strong>How can I Review Personal Information in my Account for Accuracy?</strong><br>
 			You can review the accuracy of the personal information in your account online
 			(go to My Account on this Web site) or by contacting Customer Service at 1-866-CINGULAR.<br>
-			<a href="#12">Tell me more</a> <br>
+			<a style="COLOR: #099999" href="#12">Tell me more</a> <br>
 			<br>
 			
 			<strong>Will This Policy Be Updated?</strong><br>
 			Cingular Wireless expects to update this Policy periodically. You should refer
 			back to this page often for the latest information and the effective date of
 			any changes to the Policy. <br>
-			<a href="#13">Tell me more</a> <br>
+			<a style="COLOR: #099999" href="#13">Tell me more</a> <br>
 			<br>
 			
 			<strong>To Whom Should I Direct Privacy Questions or Concerns?</strong><br>
-			You have several ways to contact us about questions to this Policy and about
+			You have several ways to contact us about questions of this Policy and about
 			your services.<br>
-			<a href="#14">Tell me more</a> <br>
+			<a style="COLOR: #099999" href="#14">Tell me more</a> <br>
 			<br>
 			
 			<strong>CINGULAR WIRELESS PRIVACY POLICY </strong><br>
@@ -564,7 +566,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			or if changes in the law so require. <br>
 			<br>
 			
-			<a name="1"></a>
+			<a style="COLOR: #099999" name="1"></a>
 			<strong>Information Collected About You</strong><br>
 			We collect a variety of personal information about users of our products or services. 
 			Personal information is information that can be directly associated with a specific 
@@ -650,10 +652,10 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			have any questions about who is the liable party on your bill.<br>
 			<br>
 
-			<div style="text-align:right"><a href="#backtotop"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/bt_top.png" alt="Back to top"></a></div>
+			<div style="text-align:right"><a style="COLOR: #099999" href="#backtotop"><img src="/refresh/images/bt_top.png" alt="Back to top"></a></div>
 			<div style="clear:both;height:10px;"></div>
 						
-			<a name="2"></a>
+			<a style="COLOR: #099999" name="2"></a>
 			<strong>Children's Online Privacy Protection Act </strong><br>
 			If we make available offers and products online where a child informs us that
 			he or she is under the age of 13, we will ask a parent to confirm his/her consent
@@ -665,10 +667,10 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			such under this Policy.<br>
 			<br>
 			
-			<div style="text-align:right"><a href="#backtotop"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/bt_top.png" alt="Back to top"></a></div>
+			<div style="text-align:right"><a style="COLOR: #099999" href="#backtotop"><img src="/refresh/images/bt_top.png" alt="Back to top"></a></div>
 			<div style="clear:both;height:10px;"></div>
 			
-			<a name="3"></a>
+			<a style="COLOR: #099999" name="3"></a>
 			<strong>Use of Personal Information</strong><br>
 			<div class="textList">
 			<ul>
@@ -683,7 +685,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 				you of products or services from Cingular Wireless or others that better meet
 				your needs. <br>
 				<br>
-				<a name="15"></a>
+				<a style="COLOR: #099999" name="15"></a>
                 Cingular Wireless uses e-mail, short text messages, telemarketing, and direct
 				mail to inform you about products or services we think will interest you. You can 
 				modify your preferences on receiving these types of communications:
@@ -694,19 +696,18 @@ function Partythree_openBrWindow(theURL) { //v2.0
 				you were formerly an AT&amp;T Wireless customer and wish to
 				change your preferences on receiving these types of communications, you can 
 				complete an 
-				<a style="display:inline;" href="https://onlinestorez.cingular.com/privacy/consumer_opt.jsp" onclick="winOpen(this.href,'optOut',535,650,0,0,'status=0,resizable=0,scrollbars=1'); return false;" target="_blank">online form</a> to tell us your preferences.</li> 
-				<li class="secondLevel">
-				Other Cingular customers who wish
-				to change their preferences should call Customer Service at 1-866-CINGULAR.</li>
-				<li class="secondLevel">
+				<a style="COLOR: #099999" href="https://onlinestorez.cingular.com/privacy/consumer_opt.jsp">online form</a> to tell us your preferences.</li> 
+				
+			 <li class="secondLevel">Other Cingular customers who wish to change their preferences can
+				visit the "My Profile" page, if you manage your account online, or call Customer Service at 1-866-CINGULAR.
+				</li><li class="secondLevel">
 				If you are not a current customer of Cingular Wireless and wish to opt out 
 				of receiving marketing communications, you can complete an 
-				<a style="display:inline;" href="https://onlinestorez.cingular.com/privacy/non_consumer_opt.jsp" onclick="winOpen(this.href,'optOut',535,650,0,0,'status=0,resizable=0,scrollbars=1'); return false;" target="_blank">online
+				<a style="COLOR: #099999" href="https://onlinestorez.cingular.com/privacy/non_consumer_opt.jsp">online
 				form</a> to tell us your preferences.</li>
 				
 				
 				</ul>
-				
 				<br>
 				While you may choose not to receive marketing information from us, you will continue
 				to receive invoices, customer service-related notifications, and other similar
@@ -719,15 +720,15 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			</ul>
 			</div>
 
-			<div style="text-align:right"><a href="#backtotop"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/bt_top.png" alt="Back to top"></a></div>
+			<div style="text-align:right"><a style="COLOR: #099999" href="#backtotop"><img src="/refresh/images/bt_top.png" alt="Back to top"></a></div>
 			<div style="clear:both;height:10px;"></div>
 			
-			<a name="4"></a>
+			<a style="COLOR: #099999" name="4"></a>
 			<strong>Disclosure of Personal Information </strong><br>
 			Information about our customers is one of our most important business assets,
 			and therefore we strive to protect it and keep it confidential. We do not sell
 			personal information to third parties without your consent. When and what types
-			of information Cingular Wireless disclose depend on the service and in some
+			of information Cingular Wireless discloses depends on the service and in some
 			cases the choices you have made. <br>
 			<br>
 			Cingular Wireless will not disclose personal information other than in accordance
@@ -748,7 +749,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			For example, your consent to disclose personal information can be implied simply
 			by the nature of your request, such as when you ask us to deliver an e-mail or
 			short message to another person. Your return address is disclosed as part of
-			the service and your consent to do so implied by your use of the service. To
+			the service and your consent to do so is implied by your use of the service. To
 			determine how personal information may be disclosed as part of a particular service,
 			you should review the terms and conditions of use for that service. <br>
 			<br>
@@ -759,9 +760,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			on our behalf, Cingular Wireless does not allow them to use your information
 			for other purposes. For example, our vendors process and print your billing statement
 			on our behalf. They can only use the personal information we give them to produce
-			the billing statement. When we write off an account for non-payment, Cingular Wireless 
-			sometimes disclose personal information about the account to third parties such as credit bureaus. 
-			Credit bureaus may use the personal information to update their records. When we write off 
+			the billing statement.  When we write off 
 			an account for non-payment, Cingular Wireless 
 			sometimes discloses personal information about the account to third parties such as credit 
 			bureaus. Credit bureaus may use the personal information to update their records. 
@@ -797,7 +796,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			in the survey, any personal information so collected will be used for our internal
 			purposes. <br>
 			<br>
-			<a name="5"></a>
+			<a style="COLOR: #099999" name="5"></a>
 			Under federal law, you have a right, and we have a duty, to protect the confidentiality
 			of information about your telephone usage, the services you buy from us, who
 			you call, and the location of your device on our network when you make a voice
@@ -815,7 +814,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			
 			<strong>e-Wallet Services:</strong> Customers who use our e-Wallet services to purchase products
 			or services with their credit card, debit card, or have the charges placed on
-			their wireless bill, should review our <a href="/ewallet">e-Wallet Supplemental Privacy Notice</a>
+			their wireless bill, should review our <a style="COLOR: #099999" href="/ewallet">e-Wallet Supplemental Privacy Notice</a>
 			to learn about our policies and practices for the treatment of personal information
 			about you that is collected through your use of the e-Wallet services.<br>
 			<br>
@@ -840,10 +839,10 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			of records, to a governmental entity without delay. <br>
 			<br>
 			
-			<div style="text-align:right"><a href="#backtotop"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/bt_top.png" alt="Back to top"></a></div>
+			<div style="text-align:right"><a style="COLOR: #099999" href="#backtotop"><img src="/refresh/images/bt_top.png" alt="Back to top"></a></div>
 			<div style="clear:both;height:10px;"></div>
 			
-			<a name="6"></a>
+			<a style="COLOR: #099999" name="6"></a>
 
 			<strong>Cingular Wireless Use of Cookies </strong><br>
 			Cookies are small files placed on your computer's hard drive by a Web site when
@@ -878,10 +877,10 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			by a separate company and their individual privacy policies will govern information
 			they receive automatically from the cookie or information you voluntarily provide. <br>
 						
-			<div style="text-align:right"><a href="#backtotop"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/bt_top.png" alt="Back to top"></a></div>
+			<div style="text-align:right"><a style="COLOR: #099999" href="#backtotop"><img src="/refresh/images/bt_top.png" alt="Back to top"></a></div>
 			<div style="clear:both;height:10px;"></div>
 			
-			<a name="7"></a>
+			<a style="COLOR: #099999" name="7"></a>
 			
 			<strong>Cingular Wireless Use of Web Beacons </strong><br>
 			A Web beacon, also known as a Web bug, is a small, graphic image on a Web page,
@@ -904,32 +903,20 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			service and our online store and still be recognized as our customer. <br>
 			<br>
 			
-			<div style="text-align:right"><a href="#backtotop"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/bt_top.png" alt="Back to top"></a></div>
+			<div style="text-align:right"><a style="COLOR: #099999" href="#backtotop"><img src="/refresh/images/bt_top.png" alt="Back to top"></a></div>
 			<div style="clear:both;height:10px;"></div>
 			
-			<a name="8"></a>
+			<a style="COLOR: #099999" name="8"></a>
 			
-			<strong>Cingular Wireless Placement of Banner Ads on Other Web Sites </strong><br>
-			Cingular Wireless may use third-party advertising companies to place advertisements
-			about our products and services on other Web sites. The advertising companies
-			may use cookies and other technology such as Web beacons or tagging to measure
-			the effectiveness of our ads. To measure advertising effectiveness and offer
-			selective ad content, the advertising companies may use anonymous information
-			about your visits to our and other Web sites. But the advertising companies use
-			an anonymous number to identify you, NOT your name, address, phone number, e-mail
-			address, or anything that personally identifies you. The use of such cookies
-			is subject to the advertising company's privacy policy, not the Policy of Cingular
-			Wireless. If you would like more information about the advertising companies
-			we use, their privacy practices, or to learn your choices about not having this
-			non-personal information used to serve ads to you, see our 
-			<a href="javascript:;" onclick="window.open('/privacy/privacy_advertisers','','width=472,height=600');">Cingular Wireless
-			Advertising Companies</a>. <br>
+			<strong>Cingular Wireless Placement of Advertising on Other Web Sites</strong><br>Cingular Wireless may use third-party ad serving companies to place advertisements about our products and services on other Web sites. These companies may use cookies and other technology such as Web beacons or tagging to measure the effectiveness of our ads. To measure advertising effectiveness and offer selective ad content, the ad serving  companies may use anonymous information about your visits to our and other Web sites. But the ad serving companies use an anonymous number to identify you, NOT your name, address, phone number, e-mail address, or anything that personally identifies you. The use of such cookies is subject to the ad serving company's privacy policy, not the Policy of Cingular Wireless. If you would like more information about these companies we use, their privacy practices, or to learn your choices about not having this non-personal information used to serve ads to you, see our Cingular Wireless  
+			<a style="COLOR: #099999" href="javascript:;" onclick="window.open('/privacy/privacy_advertisers','','width=472,height=600');">Cingular Wireless
+			Ad Serving Companies</a>. <br>
 			<br>
 			
-			<div style="text-align:right"><a href="#backtotop"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/bt_top.png" alt="Back to top"></a></div>
+			<div style="text-align:right"><a style="COLOR: #099999" href="#backtotop"><img src="/refresh/images/bt_top.png" alt="Back to top"></a></div>
 			<div style="clear:both;height:10px;"></div>
 			
-			<a name="9"></a>
+			<a style="COLOR: #099999" name="9"></a>
 			
 			<strong>Presence, Location, and Tracking </strong><br>
 			To make wireless communications possible, the network knows the general location
@@ -963,10 +950,10 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			This service does not use the network location technology described in this section.<br>
 			<br>
 
-			<div style="text-align:right"><a href="#backtotop"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/bt_top.png" alt="Back to top"></a></div>
+			<div style="text-align:right"><a style="COLOR: #099999" href="#backtotop"><img src="/refresh/images/bt_top.png" alt="Back to top"></a></div>
 			<div style="clear:both;height:10px;"></div>
 			
-			<a name="10"></a>
+			<a style="COLOR: #099999" name="10"></a>
 			
 			<strong>Receipt of Marketing Messages on My Wireless Device from Third Parties </strong><br>
 			You should be aware that not all advertisements appearing on or delivered to
@@ -982,10 +969,10 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			You should report any such unsolicited calls to the Federal Communications Commission. <br>
 			<br>
 			
-			<div style="text-align:right"><a href="#backtotop"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/bt_top.png" alt="Back to top"></a></div>
+			<div style="text-align:right"><a style="COLOR: #099999" href="#backtotop"><img src="/refresh/images/bt_top.png" alt="Back to top"></a></div>
 			<div style="clear:both;height:10px;"></div>
 			
-			<a name="11"></a>
+			<a style="COLOR: #099999" name="11"></a>
 			
 			<strong>Network and Information Security </strong><br>
 			We maintain a variety of physical, electronic, and procedural safeguards to guard
@@ -1000,20 +987,15 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			site. You should be aware that Cingular Wireless has no control over the security
 			of other sites on the Internet you might visit, interact with, or from which
 			you buy products or services. <br>
-			<br>
-			An important part of protecting the security of personal information is your
-			own effort to protect against unauthorized access to your wireless device, SIM
-			card, user name, and password and to your computer. Also, be sure to sign off
-			when finished using a shared computer and always log out of any site after viewing
-			personal account information. <br>
+			
 			<br>
 			
-			<div style="text-align:right"><a href="#backtotop"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/bt_top.png" alt="Back to top"></a></div>
+			<div style="text-align:right"><a style="COLOR: #099999" href="#backtotop"><img src="/refresh/images/bt_top.png" alt="Back to top"></a></div>
 			<div style="clear:both;height:10px;"></div>
 			
 			
 			
-			<a name="16"></a>
+			<a style="COLOR: #099999" name="16"></a>
 			
 			<strong>What Can I Do to Protect My Personal Information?</strong><br>
 			An important part of ensuring the security of personal information is your own effort 
@@ -1025,16 +1007,14 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			deleting all personal information on the device itself. (This can be found in your 
 			owner's manual or on the manufacturers' Web site.) <br>
 			<br> 
-			In addition, use a password to prevent unauthorized access to your wireless device, 
-			if available. If you write down your password and user name, keep the information 
-			in a secure location.  Change your password periodically.  
+			In addition, use passwords to prevent unauthorized access to your wireless device, your wireless service account, and your voicemail. If you write down your passwords or user names, keep the information in a secure location. Do not give your password to someone else unless you intend them to have the same full access and ability to make changes to your account as you have. Change your passwords periodically.   
 <br>
 			<br>
 			
-			<div style="text-align:right"><a href="#backtotop"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/bt_top.png" alt="Back to top"></a></div>
+			<div style="text-align:right"><a style="COLOR: #099999" href="#backtotop"><img src="/refresh/images/bt_top.png" alt="Back to top"></a></div>
 			<div style="clear:both;height:10px;"></div>
 			
-			<a name="12"></a>
+			<a style="COLOR: #099999" name="12"></a>
 			
 			<strong>Accuracy of Personal Information in Your Account <br></strong>
 			You can review the accuracy of the personal information in your account records
@@ -1048,10 +1028,10 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			
 			<br>
 			
-			<div style="text-align:right"><a href="#backtotop"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/bt_top.png" alt="Back to top"></a></div>
+			<div style="text-align:right"><a style="COLOR: #099999" href="#backtotop"><img src="/refresh/images/bt_top.png" alt="Back to top"></a></div>
 			<div style="clear:both;height:10px;"></div>
 			
-			<a name="13"></a>
+			<a style="COLOR: #099999" name="13"></a>
 			
 			<strong>Updating this Policy </strong><br>
 			Cingular Wireless will revise or update this Policy as it deems appropriate,
@@ -1069,16 +1049,16 @@ function Partythree_openBrWindow(theURL) { //v2.0
 			
 			<br>
 			
-			<div style="text-align:right"><a href="#backtotop"><img src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/images/bt_top.png" alt="Back to top"></a></div>
+			<div style="text-align:right"><a style="COLOR: #099999" href="#backtotop"><img src="/refresh/images/bt_top.png" alt="Back to top"></a></div>
 			<div style="clear:both;height:10px;"></div>
 			
-			<a name="14"></a>
+			<a style="COLOR: #099999" name="14"></a>
 			
 			<strong>Contact Us</strong> <br>
 			Cingular Wireless is committed to the policies set forth in this Policy. <br>
 			<br>
 			If you have any questions, comments or concerns about this Policy, please contact
-			<a href="mailto:privacy@cingular.com">privacy@cingular.com</a>. <br>
+			<a style="COLOR: #099999" href="mailto:privacy@cingular.com">privacy@cingular.com</a>. <br>
 			<br>
 			If you have questions about your Cingular Wireless service, you can call a customer
 			service representative at 1-866-CINGULAR. <br>
@@ -1087,6 +1067,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 									
 		</div>
 		
+
 		<!--END CONTENT-->
 		<div style="clear:both;height:48px;font-size:0px;"></div>
 	</div>
@@ -1096,7 +1077,8 @@ function Partythree_openBrWindow(theURL) { //v2.0
 <!--END CONTAINER CONTENTS-->
 
 <!--FOOTER-->
-<!-- Vignette V7 Hybrid V6 Mon May 23 14:36:50 2005 -->
+<!-- Vignette V7 Hybrid V6 Tue Dec 06 17:48:27 2005 -->
+
 
 
 
@@ -1126,6 +1108,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 	}
 
 </script>
+<script type="text/javascript" src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/js/b2bcookie.js"></script>
 
 	
 
@@ -1142,7 +1125,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 </script>
 
 <!-- Begin NetConversions Code -->
-	<script language="javascript"> 
+	<script language="javascript" type="text/javascript"> 
 		<!-- 
 		client='Cingular'
 		path=location.protocol=='http:'||location.protocol=='file:'?'http://spd.netconversions.com/':'https://ssl1.speedera.net/anon.netconversions.r3h.net/'
@@ -1155,7 +1138,7 @@ function Partythree_openBrWindow(theURL) { //v2.0
 	<div id="containerFooter">
 	    <div id="footer">
 		<div class="footerTopLine"></div>
-			<p><a href="/other_cingular_sites">Other Cingular Sites</a> | <a href="/about/careers">Careers</a> | <a href="/sitemap/sitemap">Site Map</a> | <a href="/customer_service/contact_us">Contact Us</a> | <a href="/privacy/privacy_policy">Privacy Policy</a> | <a href="/legal">Terms of Use</a></p>
+			<p><a href="/other_cingular_sites">Other Cingular Sites</a> | <a href="/about/careers">Careers</a> | <a href="/sitemap/sitemap">Site Map</a> | <a href="/customer_service/contact_us?WT.svl=2">Contact Us</a> | <a href="/privacy/privacy_policy">Privacy Policy</a> | <a href="/legal">Terms of Use</a></p>
 	    </div>
 	    <div id="rightShadowFooter"></div>
 	    <div id="endPage"></div>
@@ -1163,34 +1146,50 @@ function Partythree_openBrWindow(theURL) { //v2.0
 	
 	<div style="clear:both"></div>
 	<div class="disclaimer" style="float:left">
-		<a href="/deals_sitemap" style="text-decoration: none;"><em>©2005, Cingular Wireless. All Rights Reserved.</em></a>
+		<em>©2005, Cingular Wireless. All Rights Reserved.</em>
 	</div>
 	
 <div style="clear:both;padding-top:20px"></div>
 
-<!-- SiteCatalyst code version: G.1.
-Copyright 1997-2003 Omniture, Inc. More info available at
-http://www.omniture.com --><script language="JavaScript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-var s_server=""
-var s_channel=""
-var s_pageType=""
-var s_prop1=""
-/* E-commerce Variables */
-var s_campaign=""
-var s_state=""
-var s_zip=""
-var s_events=""
-var s_products=""
-var s_purchaseID=""
-var s_eVar1=""
-/********* INSERT THE PATH TO YOUR CODE BELOW ************/
-//--></script>
 
 
-<script language="JavaScript" src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/js/s_code_remote.js"></script>
-<!-- End SiteCatalyst code version: G.1. -->
+<!-- Begin did-it.com Maestro tracking+ code. Generated on Thu, 22 Sep 2005 09:29:16 -0400-->
+<script type="text/javascript">
+function gh(u) {	// get hostname
+	if (!u) { return false; }
+	var r = new RegExp('http(s)?:\/\/([^\/]+)');
+	var res = r.exec(u);
+	if (res == null || res[2] == null) { return false; }
+	else { return res[2]; }
+}
+
+
+tid="432f2e8b8b2a8";
+ref = "";
+req = "";
+sref = new String(document.referrer);
+sref = gh(sref);
+sreq = new String(document.location);
+sreq = gh(sreq);
+if (sref.length && (sref != sreq)) {
+	if (document.referrer) 
+	        ref=escape(document.referrer); 
+	if (document.location) 
+	        req=escape(document.location); 
+	document.write('<img src=http://track.did-it.com/n?tid='+tid+'&ref='+ref+'&req='+req+' border="0" />');
+}
+</script>
+
+<noscript>
+	<img src="http://a111.g.akamai.net/f/111/2897/1h/track.did-it.com/n/432f2e8b8b2a8" border="0" height="1" width="1" />
+</noscript>
+<!-- End did-it.com tracking+ code -->
+
+<!-- Start WebTrends -->
+<script language="JavaScript" src="http://a111.g.akamai.net/f/111/2897/1h/www.cingular.com/refresh/js/dcs_tag.js"></script>
+<!-- End WebTrends -->
+
+
 
 
 
