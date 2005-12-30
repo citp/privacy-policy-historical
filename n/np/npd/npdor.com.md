@@ -1,135 +1,134 @@
-> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626031347id_/http%3A//www.npdor.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230025602id_/http%3A//npdor.com/English/privacy.asp) for the most accurate reproduction.*
 
-# NPDOR - Privacy Statement
+# NPD Online Research - Making your opinions count
 
-  |    
+  
+Updated: December 2005
 
+**December 2005 Revision Highlights** **Introduced “NPD’s Commitment to Your Privacy”**  
+Simple, straightforward answers to some of your most commonly asked questions about how NPD protects your privacy.
 
-NPD Online Research is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.npdor.com. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
+**Overall Language and Layout Improvement**  
+We have reorganized our privacy policy, simplified its language (explaining our policies in plain English rather than “lawyer-speak”) and made it easier to navigate.
 
-If users have questions or concerns regarding this statement, you should first contact Janet Hall, Research Director via mail at NPD Online Research, P.O. Box 9352 Uniondale, NY 11533 or via email at [janet_hall@npdor.com](mailto:janet_hall@npdor.com). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html)](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. However, please understand that the TRUSTe Privacy Program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
+**Privacy Policy Change Notification Update**  
+If we change the way we use your Personally Identifiable Information from what is listed in this policy, we will notify you, in advance, to the e-mail address on record.
 
-The NPD Group, Inc. ("NPD") is in the business of providing manufacturers and service providers with knowledge and information about their markets and consumers, and is one of the largest market research firms in the United States. NPD Online Research is a division of NPD that focuses on online research, enabling NPD to gather the valuable opinions of consumers worldwide. In addition, as a member of the Council of American Survey Research Organizations ("CASRO"), the professional trade association of survey research companies, NPD adheres to the mandated CASRO Code of Standards and Ethics for Survey Research. You may visit CASRO, and view the CASRO Code, at [www.casro.org](http://www.casro.org/). NPD has established the policies described in this privacy statement in order to demonstrate our firm commitment to protecting your privacy by using the information we collect from you through the NPD Online Research website in a reasonable and predictable manner. The following discloses our information gathering and dissemination practices for this website. By becoming a member of the NPD Online Research Panel, you are accepting these practices.
+**NPD’s Policy on Sharing Your Personally Identifiable Information**  
+NPD will not disclose your personally identifiable information to any third party unless you consent in advance, or for any of the following reasons:
 
-NPD may amend this privacy statement from time to time by posting an amended form of this statement on this website. We encourage you to review this privacy statement frequently to ensure that you stay apprised of any changes. For more information see our “Notification of Changes” section below.
+  1. to allow service providers (agents) retained by us to perform panel-related services on our behalf (e.g. sweepstakes fulfillment). These service providers receive this information on a strictly limited, confidential basis; they are required to keep the information confidential and to use it only for the purposes of providing the services that we have asked them to perform;
+  2. to comply with law, governmental requirement or legal process;
+  3. to protect our property and legal rights, including those of our partners and customers, when we believe that they are, or are at risk of, being misappropriated, interfered with, or injured; and
+  4. to facilitate co-sponsored surveys with strategic partners bound by this Privacy Policy.
 
-**
 
-Information Collection and Use
 
-** _
+**About NPD**
 
-Registration
+The NPD Group, Inc. and its corporate affiliates (“NPD”) provide consumer and retail information and insights for a wide range of industries. We have been a leader in market research for over 35 years. Our clients encompass over 1,400 businesses, including many Fortune 500 companies. NPD Online Research is the division of NPD that gathers the valuable opinions of consumers worldwide through online surveys.
 
-_
+**NPD's Commitment To Your Privacy**
 
-In order to become a Member, participate in surveys and access certain portions of this website, you must first complete our Member registration process. Our registration process requires you to give us contact information (e.g. email address) and demographic information (e.g.zip/postal code, birth date, or income level), and may also require that you provide us with information concerning other relevant topics (like how you became aware of NPD, and your computer type and Web usage). Your contact information is used to send you a welcoming email once you have registered, to notify you when there is a new survey available for you or to communicate Member news (for example, Sweepstakes Winners, birthday wishes). You may opt-out of receiving future mailings; see "Choice/Opt-Out" below. Demographic and other profile data is used only for statistical and classification purposes in aggregated or summary form and will NEVER be shared or sold on an individual basis. We do not knowingly collect personally identifiable information from users that are under the age of 13.
+NPD respects your privacy and protects your personally identifiable information: 
 
-_
+  * NPD will not share your e-mail address without your knowledge (as described in this policy).
+  * NPD does not 'spam'. The only e-mail communication you will receive from us as a result of your registration will be for legitimate business purposes associated with your panel membership.
+  * We do not collect your name and mailing address during our registration process. At a later date, we may ask for this information for the purposes of incentive fulfillment (e.g. mailing checks to sweepstakes winners) or for specific surveys in which mail may need to be sent (e.g. product tests). In these instances, providing your name and mailing address is always optional.
+  * Demographic data (e.g. household size, date of birth, income level) is collected to ensure that we send you surveys relevant to your lifestyle and interests. It is grouped together with other panelists’ data for statistical and classification purposes, and is not shared, sold or reviewed on an individual basis.
+  * Your individual survey responses are kept confidential by grouping them together with those of other panelists and using them only in summary form.
+  * Membership on our online panel is free and NPD will never ask you to buy anything. Your participation helps our clients develop and refine consumer products.
+  * Participation on our online panel is voluntary. If you choose to unsubscribe at any time, we will respect your decision unconditionally.
 
-Member Surveys
 
-_
 
-Our Members have the opportunity to participate in surveys on our website and through emails sent to them by NPD. These surveys collect a wide variety of information on a virtually unlimited range of current topics. Your participation in a survey is always voluntary, and you therefore have a choice as to whether or not to provide the requested information. You should be aware, however, that once you have submitted survey responses to NPD, those responses cannot be recalled or altered and will be aggregated or summarized with the data that we obtain from other Members. The information collected through NPD’s surveys is used only for statistical and classification purposes in aggregated or summary form and will NEVER be shared or sold on an individual basis. The information we collect is stored and processed in our processing facility, which is currently located in New York, U.S.A.
+In this privacy statement, we describe our privacy practices, including how we collect, protect and use your personally identifiable information. By becoming a Member of our panel, you accept these practices. 
 
-_
+**NPD and TRUSTe**
 
-Sweepstakes and Rewards
+The NPD Group is a certified licensee of the TRUSTe Privacy Seal Program. TRUSTe is an independent, nonprofit organization dedicated to enabling individuals and organizations to establish trusting relationships based on respect for personal identity and information in the evolving networked world. This privacy statement covers the site www.npdor.com. Because we want to further demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
 
-_
+If you have questions or concerns regarding this statement, you should first contact Janet Hall, Research Director, via mail at NPD Online Research, P.O. Box 9352 Uniondale, NY 11533 or via e-mail at [janet_hall@npdor.com](mailto:janet_hall@npdor.com). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison to resolve users’ concerns. However, please understand that the TRUSTe Privacy Program covers only information that is collected through this web site, and does not cover information that may be collected through software downloaded from this site. 
 
-From time to time NPD may offer you the opportunity to enter into a sweepstakes for a chance to win cash or gift prizes. By responding to a survey which includes a sweepstakes offer, or by mailing in a sweepstakes entry, you agree to let NPD share your contact information (e-mail address) with an independent third-party sweepstakes administrator. Your contact information is used by the administrator for the sole purpose of letting you know if you won a sweepstakes. To receive your prize, you will be required to submit to the administrator certain information (e.g. name and mailing address). This information is used for the sole purpose of mailing you your prize. When claiming prizes, winners also complete an online affidavit, which gives NPD permission to post winners names and state or country of residence, to let other NPDOR Members know they won.
+We may from time to time change our privacy practices, but will notify you directly if we materially change the way that we use your personally identifiable information. Please see _Notification of Changes_ below for more details. 
 
-On occasion NPD may offer you the opportunity to claim cash rewards for completed surveys. To receive your reward, you may be required to submit certain information to NPD (e.g. name and mailing address). This information will be shared with an independent third-party administrator for the sole purpose of mailing you your reward.
+**MEMBERSHIP**
 
-_
+ **Information Collected During Registration**
 
-Refer A Friend
+In order to become a Member, participate in surveys and access certain portions of the NPD Online Research web site, you must first complete our Member registration process. This requires you to select a user name and password and give us contact information (e.g. e-mail address) and demographic information (e.g. zip/postal code, date of birth, income level). You may also be required to provide information concerning other relevant topics (e.g. your computer type and information about your Web usage). NPD does not collect your name and mailing address during our registration process. The only time we request this information is for incentive fulfillment (e.g. in order to mail checks to sweepstakes winners) or for specific surveys in which mail may need to be sent to panelists (e.g. product tests). In these instances, providing name and mailing address is always optional. 
 
-_
+Your contact information is used to send you a welcome e-mail when you register, to notify you when there is a survey available, or for Member communications (for example, Sweepstakes Winners, birthday wishes or Member newsletters). 
 
-If a Member elects to use our referral service for informing friends about our website, we ask them to provide their name and the names and email addresses of the friends they would like to notify. Upon the Member’s submission of this information to NPD, NPD automatically sends an email to each of the friends from the Member. The friends’ names and contact information are not retained by NPD or used for any other reason.
+Demographic data is collected to ensure that we send you surveys relevant to your lifestyle and interests. It is used only for statistical and classification purposes in aggregated or summary form (grouped together with other panelists’ data) and is NOT shared or sold on an individual basis. 
 
-_
+We do not knowingly collect personally identifiable information from users who are under the age of 13. 
 
-Cookies
+At registration and in each communication with you thereafter, you may opt-out of receiving future surveys and mailings; see _How To Unsubscribe_ below. 
 
-_
+**Correcting/Updating Your Information**
 
-A cookie is a piece of information that some websites transfer to the computer that is browsing that website in order to improve the experience of the website user. This website uses browser cookies to maintain information about your use of the website. For example, the cookies record your personal preference for the language you wish to view the site in, to automatically log you into the site if you are a Member, and to monitor the "state" of your current web session on this site. Cookies also help us identify you without asking you to log in again on every page (or every time you return to the website), this in-turn makes your experience at our site smoother and more enjoyable. These cookies contain absolutely no personal and confidential information. A user of this website may reject or delete our cookie and still use the website, but their use of the site will be restricted. For example, the user will not be able to register as one of our members or participate in our surveys, and many areas of the site will not be accessible to them.
+We encourage our Members to keep their information as up-to-date as possible. To change your e-mail address, Member name, password, or make changes to the demographic and other profile information you provided during the registration process, please visit: http://www.npdor.com and log in. Once you log in, please visit ["Change My Info"](https://web.archive.org/web/20051230025602id_/http%3A//npdor.com/English/memberservices.asp). 
 
-_
+**Sharing Your Personally Identifiable Information**
 
-Log Files
+NPD aggregates (groups) the survey information it collects from all responding panelists and uses that aggregated information in its business. 
 
-_
+Personally identifiable information means any information that may be used to identify you, such as your name, phone number, e-mail address, or mailing address. NPD will not disclose your personally identifiable information to any third party unless you consent in advance, or for any of the following reasons: 
 
-Our server log, which records all transactions and the IP addresses that request them, is used to monitor traffic flow on the website in order to manage the website more effectively, analyze trends, track users’ movements and gather broad technographic information for aggregate use.
+  1. to allow service providers (agents) retained by us to perform panel-related services on our behalf (e.g. sweepstakes fulfillment). These service providers receive this information on a strictly limited, confidential basis; they are required to keep the information confidential and to use it only for the purposes of providing the services that we have asked them to perform;
+  2. to comply with law, governmental requirement or legal process;
+  3. to protect our property and legal rights, including those of our partners and customers, when we believe that they are, or are at risk of, being misappropriated, interfered with, or injured; and
+  4. to facilitate co-sponsored surveys with strategic partners bound by this Privacy Policy.
 
-**
 
-Sharing
 
-**
+In the event of the acquisition of NPD, or substantially all of its assets relating to NPD Online Research or its online survey business, the information we have collected from you will be among the acquired assets. Such information will remain subject to restrictions no less stringent than permitted under the Privacy Policy in effect at that time. 
 
-NPD aggregates the information it collects from its surveys and uses that aggregated information in its business, which includes sharing such aggregated information with its customers, affiliates, partners, and others. Because the information is aggregated, the data you provide to us is not personally identifiable to you.
+**Member Surveys**
 
-In some instances, we may conduct our business through, or with the assistance of or in cooperation with, one or more of our affiliates. This may require that we provide survey information and in some cases personally identifiable information (e.g.: email address) to the applicable NPD affiliate. In the event that we do so, however, we will take steps to ensure that the NPD affiliate handles the information in a manner aligned with the privacy principles described in this privacy statement
+NPD surveys collect a wide variety of information on a diverse range of current topics. Your participation in our surveys is always voluntary. However, once you have submitted survey responses to NPD, those responses cannot be recalled or altered. The information collected through NPD’s surveys is used only for statistical and classification purposes in aggregated or summary form and is NOT shared, sold or used on an individual basis. The information we collect is stored and processed in our data processing facility, which is currently located in New York, U.S.A. 
 
-We use an independent third party administrator to administer our sweepstakes. The only information that is shared with this administrator is the information that is required in order for the administrator to select and notify sweepstakes winners, and to provide them with their prizes (for example, your email address and language preference). These types of service providers are not allowed to use your personally identifiable information for their own purposes.
+**Sweepstakes and Rewards**
 
-In addition, in the event that someone buys or acquires NPD, or substantially all of its assets relating to NPD Online Research or its online survey business, the information we have collected from you will of course be one of the acquired assets. For more information see our “Notification of Changes” section below. We also reserve the right to disclose such information if we deem necessary to (i) defend, or to enforce the rights of NPD or its affiliates, partners or customers, and/or (ii) comply with the requirements of any law, regulation or judicial or governmental subpoena, warrant or other order, or the requests of a governmental or other legal or quasi-legal enforcement body.
+From time to time NPD may offer you the opportunity to enter into a sweepstakes, for a chance to win cash or gift prizes. By responding to a survey which includes a sweepstakes offer, or by mailing in a sweepstakes entry, you agree to let NPD share your contact information (e-mail address) with an independent third-party sweepstakes administrator. Your contact information is used by the administrator only to let you know if you have won a sweepstakes. To receive your prize, you will be required to submit certain information to the administrator (e.g. name and mailing address). This information is used only to mail your prize to you. When claiming prizes, winners also complete an online affidavit, which gives NPD permission to post winners’ names and state or country of residence. 
 
-**
+NPD may also from time to time offer you the opportunity to claim cash rewards or other incentives for completed surveys. To receive your reward, you may be required to submit certain information (e.g. name and mailing address) to an independent third-party administrator, so it may provide your reward to you. 
 
-Security
+**Refer A Friend**
 
-**
+If a Member elects to use our referral service for informing friends about NPD Online Research, we ask for the Member’s name and the names and e-mail addresses of the friends who the Member would like to notify. Our system uses this information to generate an e-mail from the Member to each of the friends; the information is not retained by NPD or used for any other reason. 
 
-NPD employs physical, electronic and managerial protections and procedures to help prevent unauthorized access to or disclosure or loss of the data NPD collects on the website and through its NPD Online Research surveys. The data is stored on secure servers, and only authorized employees of NPD have access to non-aggregated data. These employees work on password-protected computers and are subject to NPD’s confidentiality policies and procedures. If you have any questions concerning the steps taken by NPD to protect the security of the data you provide to us, you can contact us using the information provided below under "Contacting NPD." 
+**TECHNICAL PRIVACY AND SECURITY**
 
-**
+ **Cookies**
 
-Choice/Opt-Out
+A cookie is a piece of information that web sites commonly transfer to the computer that is browsing that web site in order to be able to improve the user’s experience. NPDOR.com uses browser cookies to maintain information about use of our web site. These cookies are primarily for our Members’ convenience – for example, they maintain information about the current survey session and record Members’ personal language preferences for viewing the site. They contain absolutely no personal or confidential information. Users of NPDOR.com may reject or delete our cookies and still use the web site, although in a restricted fashion. 
 
-**
+**Log Files**
 
-Registration on our site and participation in our online surveys is completely up to you. In addition, this site gives you the option at any time to remove your email address and other contact information from our mailing list so that you will no longer receive future surveys or communications from us, or be entered in future Member sweepstakes. To do so, please visit: http://www.npdor.com and go to Change My Info once you Log In.
+Our server log, which records all transactions and the IP addresses that request them, is used to monitor traffic flow on our web site in order to manage it more effectively and resolve technical problems related to the web site’s operation. Log file information is not linked to personally identifiable information. 
 
-**
+**Security Measures**
 
-Correct/Update
+NPD employs physical, electronic and managerial protections and procedures to help prevent unauthorized access to or disclosure or loss of the data NPD collects on the web site and through its NPD Online Research surveys. The data is stored on secure servers, and only specific, authorized employees of NPD have access to non-aggregated data. These employees work on password-protected computers and are subject to NPD’s confidentiality policies and procedures. If you have any questions concerning the steps taken by NPD to protect the security of the data you provide to us, please contact us. See Contacting NPD below. 
 
-**
+**HOW TO UNSUBSCRIBE**
 
-This site gives you the option of changing and modifying the contact, demographic and other information you previously provided to us during the registration process (with the exception of the user name chosen by you upon registration). To do so, please visit: http://www.npdor.com and log in. To change your email address or password, or make changes to your profile visit Change My Info.
+Registration on our site and participation in our online surveys is voluntary. You can elect to remove your e-mail address from our mailing list at any time. Once it has been removed, you will no longer receive surveys or communications from us, or be entered in, or be eligible for, future Member sweepstakes. To unsubscribe, please log in at: http://www.npdor.com and visit ["Change My Info"](https://web.archive.org/web/20051230025602id_/http%3A//npdor.com/English/memberservices.asp). On the ["Change My Info"](https://web.archive.org/web/20051230025602id_/http%3A//npdor.com/English/memberservices.asp) page, click on "Unsubscribe" and follow the instructions. Please keep in mind that it may take up to ten business days to complete this process. 
 
-**
+**NOTIFICATION OF CHANGES**
 
-Notification of Changes
+We reserve the right to modify this policy at any time, but rest assured, if the change involves how we disclose your personally identifiable information, we will notify you in advance, to your e-mail address on record. For any other material changes to our privacy policy, we will post a prominent notice on the NPD Online Research Home Page (http://www.npdor.com) for 30 days. If you decide to unsubscribe from our survey panel as a result of any changes to the privacy policy, we will respect your decision unconditionally. 
 
-**
+**CONTACTING NPD**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, a notice on the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
+If you have any questions about our privacy practices or this web site, you can contact: 
 
-If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
-
-**
-
-Contacting NPD
-
-**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
-
-Janet Hall   
-Research Director   
-NPD Online Research   
-P.O. Box 9352   
-Uniondale, NY 11553   
-USA   
-janet_hall@npdor.com   
-
-
-|  
+Janet Hall   
+Research Director   
+NPD Online Research   
+900 West Shore Road   
+Port Washington, NY 11050   
+USA   
+[janet_hall@npdor.com](mailto:janet_hall@npdor.com)
