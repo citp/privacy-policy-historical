@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justmommies.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403192421id_/http%3A//www.justmommies.com/tos.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmommies.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230064130id_/http%3A//www.justmommies.com/tos.shtml) for the most accurate reproduction.*
 
 # Terms of Service
 
@@ -7,37 +7,49 @@
 Our message boards are free for all registered users. You may read our boards without registering but in order to post or private message you must be registered. We would like our boards to be a safe place for people to post. We would like to avoid censorship, however, there are times when it will be necessary. Please read our guidelines for what is unacceptable. We reserve the right to remove any posts we believe are against our terms of service. 
 
 **Signature Guidelines:  **  
-Policy changes for August 1, 2004:  
-All signatures must be no more than 100 kbs in total. If you have several photos or files then it must total 100 kbs all together.
+Policy changes for August 2, 2005:   
+Justmommies has signature guidelines restricting signatures to 600x600 pixels. The reason this is set is because of load time on our pages. Huge signatures slow down the time pages load quite dramatically. We are requesting that signatures please stay within these guidelines. 
+
+Signature can contain any number of images, tickers, blinkies, etc. however, they must stay within 600 pixels x 600 pixels total size. 
 
 **Business Signatures** :   
 **All business links must be sponsored links.  **  
 
-**Text Link Sponsors:** If you would like a text link of your business in your signature there is a $10.00 fee for the year. Text links will be limited to fifty words of text. To pay for your text link please go to our advertising page. [ http://www.justmommies.com/advertise.shtml](http://www.justmommies.com/advertise.shtml)
+**Text Link Sponsors:** If you would like a text link of your business in your signature there is a $10.00 fee for the year. Text links will be limited to fifty words of text. To pay for your text link please go to our advertising page. [ http://www.justmommies.com/advertise2.shtml](http://www.justmommies.com/advertise.shtml)
 
-**Image Sponsors:** If you would like to have an advertisement in your signature, there is a $20.00 fee for the year. As an Image sponsor you can include a 125x125 pixel advertisement of your site in your signature or you can incorporate your business identity into your own personal signature. If you choose the personal signature option, you must have a signature and not just an ad. Please get approval before you post your new signature. To pay for your image ad please go to our advertising page [ http://www.justmommies.com/advertise.shtml ](http://www.justmommies.com/advertise.shtml%C2%A0)
+**Image Sponsors:** If you would like to have an advertisement in your signature, there is a $20.00 fee for the year. As an Image sponsor you can include a 125x125 pixel advertisement of your site in your signature or you can incorporate your business identity into your own personal signature. If you choose the personal signature option, you must have a signature and not just an ad. Please get approval before you post your new signature. To pay for your image ad please go to our advertising page [ http://www.justmommies.com/advertise2.shtml ](http://www.justmommies.com/advertise.shtml%C2%A0)
+
+**You must be at least 16 years old to register for our forums**
 
 **Users of our boards must not:**
 
-Use vulgar language, any derogatory racial or religious comments, or any content that is illegal.
+Use vulgar language, any derogatory racial or religious comments, or any content that is illegal. We do not allow profanity on our forums. This includes disguised profanity. For example, the word b**ch is considered the same as posting the actual word. Any posts containing profanity will be edited or removed.
 
-Post links to pornographic material.
+Post links to pornographic material. We do not allow pictures or links to pictures with nudity.
 
-Attack other members through posts on the board, email or private messages. We do not allow name calling, harassment or personal insults. You may express opposing view points but we want our members to feel safe from abuse. Please take the time to read your posts before you hit the post button and make sure that your posts are worded in a respectful nature. 
+Attack other members through posts on the board, email or private messages. We do not allow name calling, harassment or personal insults. You may express opposing view points but we want our members to feel safe from abuse. Please take the time to read your posts before you hit the post button and make sure that your posts are worded in a respectful nature. Posts that are not respectful, rude or insulting to other members will be removed.
 
-We do not allow any spamming on our boards. 
+Use our forums for recruiting members to other forums. This includes posts, emails, or pms saying "email me" or "instant message me" in the context of recruiting members to another forum. Justmommies is an open community. Members are welcome to post on other sites but we do not allow members to use Justmommies to poach members for another forum site. Users must not post links to competing forums. You may posts links to helpful articles or informational sites.
 
-Post links to competing forums. You may posts links to helpful articles or informational sites.
+Pot stir or post disruptive posts on the forums. Justmommies is a supportive community. We do not allow members to post disruptive posts on the forums. Any posts that are made simply to "stir the pot" or be disruptive will be removed.
 
-Post any solicitations for money, charitable causes, or other products including diapers, formula, coupons etc.
+Troll on our forums. We do not allow multiple accounts to be registered at Justmommies (without administrators permission). We do not allow impersonating another members identity, stealing photos from others, or fictitious posting.
+
+Post any spam, solicitations for money, charitable causes, or other products including diapers, formula, coupons etc.
+
+Post research or journalism surveys on our forums.
+
+Post copyrighted material.  If you have not personally written or created what is posted then do not post it.  You can post links to articles or information.
 
 Use private messages or email to send spam. Please forward any emails or private messages that contain spam to boards@justmommies.com
 
-When posting be aware that this is a public forum. Do not post personal information about yourself.
+When posting be aware that this is a public forum. Do not post personal information about yourself. If for some reason a member should choose to delete their account from Justmommies, we will not be responsible for removing any pictures, posts, or other personal information from the forums.
 
-We are not responsible for the content on our message boards. We are not liable for any advice given via our message boards.
+Post appropriate topics on our forums. We have a Heated Debates forum for controversial topics. Please post all debates on this forum. Controversial topics posted on other forums will be moved to the debate board or locked.
 
-Post copyrighted material.  If you have not personally written or created what is posted then do not post it.  You can post links to articles or information.
+Although we do moderate our forums, we are not liable for any advice given via our message boards.
+
+Justmommies reserves the right to suspend members accounts who repeatedly violate our terms of service. 
 
 **Copyright: **
 
@@ -57,7 +69,7 @@ Justmommies is dedicated to protecting your privacy.  You can visit our site wi
 
 Information collected on Justmommies:
 
-When you register to use the forums at Justmommies we collect your email address and member name.  We will use this to contact you periodically to announce site updates or if there is a violation of our terms of service.  You will also have the option to fill out a profile.  You can provide information such as your location, birthrate, instant messenger information or personal information about yourself.  Justmommies also collects standard information for gathering statistics about your IP address, the browser you are using, the operating system on your computer, the site referring you to Justmommies and the time you visited.
+When you register to use the forums at Justmommies we collect your email address and member name.  We will use this to contact you periodically to announce site updates or if there is a violation of our terms of service.  You will also have the option to fill out a profile.  You can provide information such as your location, birthdate, instant messenger information or personal information about yourself.  Justmommies also collects standard information for gathering statistics about your IP address, the browser you are using, the operating system on your computer, the site referring you to Justmommies and the time you visited.
 
 Use of cookies:
 
