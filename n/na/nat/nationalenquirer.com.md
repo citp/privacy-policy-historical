@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationalenquirer.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603035207id_/http%3A//www.nationalenquirer.com/neo/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalenquirer.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230121009id_/http%3A//www.nationalenquirer.com/privacy) for the most accurate reproduction.*
 
-# The National Enquirer: Privacy Policy
+# National Enquirer
 
-Privacy Policy 
+Privacy Policy
 
 Internet user privacy is of paramount importance to The National Enquirer and our partners. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding The National Enquirer's commitment to protect the privacy of users and to ensure the integrity of the Internet. 
 
