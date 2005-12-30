@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livejournal.com privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622043445id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livejournal.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230074733id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
 
 # LiveJournal.com Privacy Policy
 
@@ -98,12 +98,7 @@ If LiveJournal.com learns of a security systems breach we may attempt to notify 
 
 ## Contacting LiveJournal
 
-If you have a privacy concern regarding LiveJournal.com, or this policy, and if you cannot satisfactorily resolve it through the use of this web site, you should then write to us by email to [privacy@livejournal.com](mailto:privacy@livejournal.com). Alternatively, we can be reached by telephone at 415-344-0056 or our postal mail address:
-
-> LiveJournal.com  
-> 660 4th St. #347  
-> San Francisco, CA 94107  
-> Attention: Privacy Officer 
+If you have a privacy concern regarding LiveJournal.com, or this policy, and if you cannot satisfactorily resolve it through the use of this web site, you should then write to us by email to [privacy@livejournal.com](mailto:privacy@livejournal.com).
 
 In the event that we are still unable to resolve your concerns LiveJournal.com is committed to cooperating to achieve a proper resolution of your privacy concerns.
 
