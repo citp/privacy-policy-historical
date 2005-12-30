@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dime-co.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403152309id_/http%3A//www.dime-co.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dime-co.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230084811id_/http%3A//www.dime-co.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy @dime-co.com
 
