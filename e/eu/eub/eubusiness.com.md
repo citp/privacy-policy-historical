@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2005-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050608122946id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230025126id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
 
-# EUbusiness - Privacy
+# Privacy - EUbusiness
 
 | 
 
