@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the independenttraveler.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603015301id_/http%3A//www.independenttraveler.com/aboutus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independenttraveler.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230175514id_/http%3A//www.independenttraveler.com/aboutus/index.cfm%3FID%3D11) for the most accurate reproduction.*
 
-# Independent Traveler: About Us
+# The Independent Traveler: About Us
 
   
 The Internet contains a wealth of information and it may also contain personal details about you that you don't want everyone to know. When you go online, sites you visit may be gathering information about you without your knowledge. At The Independent Traveler we strive to assist our participants in protecting their privacy while using our web site. 
