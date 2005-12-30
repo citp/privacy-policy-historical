@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panoramastock.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204194349id_/http%3A//www.panoramastock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panoramastock.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230174457id_/http%3A//www.panoramastock.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Panorama Stock
 
