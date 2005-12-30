@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the icij.org privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308193553id_/http%3A//publicintegrity.org/about/about.aspx%3Fact%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icij.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230235258id_/http%3A//www.publicintegrity.org/about/about.aspx%3Fact%3Dpolicy) for the most accurate reproduction.*
 
-# The Center for Public Integrity
+# About Us - The Center for Public Integrity
 
-Terms of Use
+[](https://web.archive.org/about/about.aspx "About Us")
 
 This site is published by the Center for Public Integrity, a tax-exempt 501(c)(3) organization located at 910 17th Street NW, Washington, DC 20006. Contents of this site, including all site and section names, logos, other graphics, organized listings, presentation strategies, interface design and other design elements, are covered by trademarks, copyrights and other intellectual and trade property rights, held jointly or separately by the Center for Public Integrity. All rights are reserved. Contributing writers also may hold rights to some material. 
 
 Material on this site may not be copied, mirrored, cataloged, displayed simultaneously with another site in part or in whole, nor may any of its sub-programs be accessed from any page without the express written consent of the appropriate rights holder. Use of this site contractually obliges each user to these terms. News media may use portions of the content of this site and refer to its contents with appropriate credit given to the Center for Public Integrity. 
 
-Republication rights inquiries may be made to the Managing Editor of the Center for Public Integrity, Bill Allison, or to the Deputy Managing Editor, Teo Furtado. 
+Republication rights inquiries may be made to the Managing Editor of the Center for Public Integrity, Teo Furtado. 
 
 #### Privacy Policy
 
@@ -30,10 +30,10 @@ We use an outside shipping company to ship orders, and a credit card processing 
 This Web site contains links to other sites. Please be aware that the Center for Public Integrity is not responsible for the privacy practices of such other sites. We encourage those leaving our site to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 **Newsletter**   
-If a user wishes to subscribe to our newsletter, we ask for such contact information as name and e-mail address. 
+If a user wishes to subscribe to our newsletter, we ask for such contact information as e-mail address. 
 
 **Tell-A-Friend**   
-If a user elects to use our referral service for informing a friend about our site, we ask for that friend's name and e-mail address. The Center for Public Integrity will automatically send the friend a one-time e-mail inviting him or her to visit the site. The Center for Public Integrity stores this information for the sole purpose of sending this one-time e-mail. The friend may contact the Center for Public Integrity at www.publicintegrity.org to request the removal of this information from the database. 
+If a user elects to use our referral service for informing a friend about our site, we ask for that friend's e-mail address. The Center for Public Integrity will automatically send the friend a one-time e-mail inviting him or her to visit the site. The Center for Public Integrity stores this information for the sole purpose of sending this one-time e-mail. 
 
 **Security**   
 The Center for Public Integrity takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
@@ -55,7 +55,7 @@ Users who no longer wish to receive our newsletter may opt-out of receiving thes
 **Notification of Changes**   
 If we decide to change our privacy policy, we will post those changes on our Homepage so users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. When we do, we will also revise the "last updated" date at the bottom of the privacy statement. 
 
-_This document was last updated October 21, 2003_
+_This document was last updated July 26, 2005_
 
   
 
