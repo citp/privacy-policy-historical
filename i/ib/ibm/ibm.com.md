@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibm.com privacy policy that was archived on 2005-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050620075633id_/http%3A//www.ibm.com/privacy/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibm.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230134149id_/http%3A//www.ibm.com/privacy/us) for the most accurate reproduction.*
 
-# IBM Privacy - United States
+# IBM - United States
 
 |  | 
 
