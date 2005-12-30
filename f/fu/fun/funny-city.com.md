@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the funny-city.com privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614234243id_/http%3A//www.adtegrity.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-city.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230014607id_/http%3A//www.adtegrity.com/privacy.asp) for the most accurate reproduction.*
 
 # Adtegrity.com Internet Advertising Solutions - Privacy Policy
 
 |   
 ---  
-  |  |   |  **[_Home_](https://web.archive.org/web/20050614234243id_/http%3A//www.adtegrity.com/default.asp)**  >  Privacy Policy  
+  |  |   |  **[_Home_](https://web.archive.org/web/20051230014607id_/http%3A//www.adtegrity.com/default.asp)**  >  Privacy Policy  
 ---|---  
   
 |   | Privacy Policy  
