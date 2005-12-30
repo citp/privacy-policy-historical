@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximus.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307054135id_/http%3A//www.maximus.com/corporate/pages/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximus.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230160406id_/http%3A//www.maximus.com/corporate/pages/privacystatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
