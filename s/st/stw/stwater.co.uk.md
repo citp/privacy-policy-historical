@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308194649id_/http%3A//www.stwater.co.uk/server.php%3Fshow%3Dnav.5618) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230181732id_/http%3A//www.stwater.co.uk/server.php%3Fshow%3Dnav.5618) for the most accurate reproduction.*
 
 # privacy policy : Severn Trent Water
 
@@ -69,20 +69,16 @@ Please read the following privacy policy carefully before continuing to use this
 **14  Address for Correspondence  
 **14.1 If you wish to advise Us of any changes to the Personal Information you have previously provided or notify Us that you no longer wish Us to use your Personal Information for the purposes set out at paragraphs 3.4 and 3.5  above, please write to:
 
-Data Protection Compliance Officer  
-Severn Trent Water Limited  
-Minworth Depot  
-Park Lane  
-Minworth  
-Sutton Coldfield  
-B76 9BL
+The Company Data Protection Advisor  
+Severn Trent Water Ltd  
+2800 The Crescent  
+Birmingham Business Park  
+Birmingham  
+B37 7YL
 
 14.2 Alternatively, you can send an e-mail to [data.protection@severntrent.co.uk](mailto:data.protection@severntrent.co.uk).
 
-APPENDIX – Suggested form of words for use on data collection forms on websites
-
-  
-Suggested format for ‘opt out’ boxes  \- to appear each time data collection takes place. Note that a link to the full legal notice should always be available.
+APPENDIX – Example of opt in text to be used on data collection forms on [www.stwater.co.uk]()
 
   
 “We, Severn Trent Ltd, will securely retain any details you may choose to provide to us. Please see our Data Protection and Privacy Policy.
