@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainybetty.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403185940id_/http%3A//www.brainybetty.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainybetty.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230220605id_/http%3A//www.brainybetty.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for this site
 
@@ -8,9 +8,9 @@
 > 
 > **PRIVACY POLICY**
 > 
-> This privacy policy was last updated on  1/11/2005. 
+> This privacy policy was last updated on 8/22/2005. 
 > 
-> Brainy Betty, Inc.,  and its other web holdings Carolina Beach Vacations and Masala Mom (collectively referred to as ""we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using our respective web sites. This Privacy Policy describes how we treat personal information received about you when you visit the Brainy Betty, Inc. Web Sites. 
+> Brainy Betty, Inc.,  and its  other web holdings [Carolina Beach Vacation](http://www.carolinabeachvacation.com/), [GolfIndia.net](http://www.golfindia.net/) and [Masala Mom](http://www.masalamom.com/) (collectively referred to as ""we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using our respective web sites. This Privacy Policy describes how we treat personal information received about you when you visit the Brainy Betty, Inc. Web Sites. 
 > 
 > ****
 > 
