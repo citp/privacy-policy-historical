@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423073310id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230185335id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
 
 # Newsday.com: Newsday.com Privacy Policy
 
-[Subscribe Now](https://web.archive.org/subscribe/)  
-Get a $100 gift card and free premium web access!
+  
 
->PARTNERS
-
-|  |  About Newsday
-
-* * *
 
 ABOUT US
 
@@ -70,39 +64,5 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
-  
-|  |    
-|  | 
-
-[](https://web.archive.org/web/20050423004830id_/http://www.newsday.com/about/c)
-
-[ ](http://adserver.trb.com/event.ng/Type=click&FlightID=511757&AdID=164022&TargetID=785&Segments=85,165,249,530,673,692,755,1123,1425,1545,1553,1600,1608,1652,1929,2167,2254,2436,2571,2819,3356,3391,3539,3753,3907,4079,4294,4296,4339,4410,4415,4538,4709,4943,4948,5020,5041,5218,5382,5590,6039,6764,6787,7030,7391,7537,7978,50200,50586,50587,51257,52005,52014,52276,52529,52554,52564&Targets=5248,196,785,53233,50483,50958,53941,52971,1985,2812,3204,7686,8599,8356,8257,7872,6458,8005,6655,6654,8287,11347,12367,50358,50919,53051,53445,53919&Values=30,46,50,63,77,84,85,92,100,110,131,150,289,301,311,328,333,388,395,591,836,903,1017,1065,1066,1122,1263,1436,1654,1656,1664,1681,1724,1733,1745,1754,1758,1787,1816,1836,1840,1863,1870,1871,1872,1887,1888,1892,1917,1946,1977,1986,2061,2091,2192,2281,2284,2353,2365,2380,2384,2548,2748,2765&RawValues=USERAGENTID%2CMozilla/5.0%2520\(compatible%253B%2520archive.org_bot/1.3.0-200504200808%2520+http://crawler.archive.org\)&Redirect=http://www.switchboard.com/bin/cgidir.dll?MEM=1322&FUNC=FORMATSEARCH&c=&S=NY&L=Granite+Stoneworks&T=Long+Island&TYPE=Search+near+location)
-
-  
-  
----  
-  
-[](http://adserver.trb.com/event.ng/Type=click&FlightID=37008&AdID=64187&Custom=everydayHero&TargetID=6458&Segments=85,165,249,530,673,692,755,1123,1553,1585,1600,1608,1652,1929,2167,2254,2291,2436,2571,2819,3356,3391,3539,3753,3907,4079,4294,4297,4374,4709,4948,5020,5041,5299,5382,5590,6039,6764,6787,6926,7030,7391,7537,7978,50200,50586,51257,52006,52014,52276,52529,52554,52564&Targets=5248,196,785,53233,50483,50958,53941,52971,8073,1985,2812,3204,7686,52915,8599,8257,7872,6458,6581,8286,10571,11347,12367,50358,53051,53445,53919&Values=30,46,50,63,77,84,85,92,100,110,131,150,289,301,311,328,334,388,395,591,836,903,1017,1065,1066,1122,1263,1436,1654,1656,1664,1681,1724,1733,1745,1754,1758,1787,1816,1836,1840,1863,1870,1871,1872,1887,1888,1892,1917,1946,1977,1986,2061,2091,2192,2281,2284,2353,2365,2380,2384,2548,2748,2765&RawValues=USERAGENTID%2CMozilla/5.0%2520\(compatible%253B%2520archive.org_bot/1.3.0-200504200808%2520+http://crawler.archive.org\)&Redirect=http:%2F%2Fwww.newsday.com%2Fabout%2Fny-ehlifrnt111101.htmlstory)
-
-  
-  
-  
-  
-  
-  
-| 
-
-| **Local Search**  
----  
-  
-**Find It Fast**  
----  
-  
-  
-
-
-**Special Sections**  
----  
-  
   
 
