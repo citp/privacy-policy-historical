@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelligencecareers.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622065257id_/http%3A//www.intelligencecareers.com/_homeroom/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencecareers.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230115226id_/http%3A//www.intelligencecareers.com/_homeroom/privacy.cfm) for the most accurate reproduction.*
 
 # IntelligenceCareers.com
 
