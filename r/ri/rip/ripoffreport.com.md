@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2005-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050216010503id_/http%3A//www.ripoffreport.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230043430id_/http%3A//www.ripoffreport.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Rip-off Report.com - badbusinessbureau.com
 
@@ -34,4 +34,4 @@ Of the information we do collect, we do not provide our visitors with access to 
 If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page.   
   
 ---  
-Feel free to send us suggestions and comments to our [editorial staff.](mailto:EDitor@ripoffreport.com) |  | Technical questions can be addressed to our [webmaster.](mailto:webmaster@RipOffReport.com) |  | Best if viewed with Netscape 4, Internet Explorer 4, or AOL 4.0. Support for JavaScript is needed to submit and search for reports.  |  | Having trouble searching or filing a report? It may be a browser problem. See our [FAQ](https://web.archive.org/faq.asp#error) for help
+Feel free to send us suggestions and comments to our [editorial staff.](mailto:EDitor@ripoffreport.com) |  | Technical questions can be addressed to our [webmaster.](mailto:webmaster@RipOffReport.com) |  | Best if viewed with Netscape 4, Internet Explorer 4, or AOL 4.0. Support for JavaScript is needed to submit and search for reports.  |  | Having trouble searching or filing a report? It may be a browser problem. See our [FAQ](http://www.ripoffreport.com/faq.asp#error) for help
