@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2005-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050324032502id_/http%3A//www.igigi.com/page/100/CTGY/_priv_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230091219id_/http%3A//www.igigi.com/page/100/CTGY/_priv_policy) for the most accurate reproduction.*
 
 # Privacy Policy: Sexy Plus Size Clothing by IGIGI
 
-|    
-Privacy Policy   
-
-* * *  
-  
----  
-  
-This Web site (this "Site") is operated by Voluptuous Fashion Enterprises, Inc. ("we" or "VFE"). We at VFE recognize that privacy is a major concern for our customers and investors (“customers”) and we respect their privacy. This Privacy Policy has been prepared to advise you how we will and will not disclose the information provided to us through this Site. If you have any questions about our Privacy Policy, contact us at [Customer Service](http://www.igigi.com/page/100/CTGY/_contactus). If elements of our Privacy Policy change, we will post the policy changes on our Site. This Privacy Policy applies to all information obtained through this Site. Information obtained by us from other sources is not governed by this Privacy Policy.
+|  |  |   
+---|---|---  
+|  |      |  |  |  |  |  This Web site (this "Site") is operated by Voluptuous Fashion Enterprises, Inc. ("we" or "VFE"). We at VFE recognize that privacy is a major concern for our customers and investors (“customers”) and we respect their privacy. This Privacy Policy has been prepared to advise you how we will and will not disclose the information provided to us through this Site. If you have any questions about our Privacy Policy, contact us at [Customer Service](http://www.igigi.com/page/100/CTGY/_contactus). If elements of our Privacy Policy change, we will post the policy changes on our Site. This Privacy Policy applies to all information obtained through this Site. Information obtained by us from other sources is not governed by this Privacy Policy.
 
 [back to top](http://www.igigi.com/page/100/CTGY/_priv_policyhttp://www.igigi.com/page/100/CTGY/_priv_policy#top)  
   
+---  
 What information do we collect?  
 We collect information online when you register at the Site. This information includes your name, e-mail address, and mailing address, and may include your phone number. We also may ask you for your mailing preferences should you choose to join our mailing list and/or Preferred Client Club and if you would like to participate in consumer research. When we conduct sales from the Site, we will also collect information necessary to complete the sale and process your order such as shipping address, credit card numbers (and expiration dates) and related information.
 
@@ -67,4 +63,9 @@ The VFE Site may contain links to other sites that are not under our control. Th
 
 [back to top](http://www.igigi.com/page/100/CTGY/_priv_policy#top)
 
-_(last updated July 2004)_
+_(last updated March 2005)_  
+  
+|   
+|   
+|   
+|   |   |   | 
