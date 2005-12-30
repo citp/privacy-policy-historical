@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flir.com privacy policy that was archived on 2004-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040213153049id_/http%3A//www.flir.com/imaging/footer/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flir.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230124456id_/http%3A//www.flir.com/imaging/footer/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
-Information that FLIR Collects.  
+Information that FLIR Collects  
 FLIR collects information from all users of the FLIR Site, except as described below. What information we collect and how we use it, depends upon your activity on the FLIR Site. 
 
 Children’s Privacy Policy  
@@ -43,8 +43,8 @@ You may also use the contact information below if you have any questions or comm
   
 Webmaster  
 FLIR Systems, Inc.  
-16505 SW 72nd Avenue,  
-Portland, OR 97224  
+27700A SW Parkway Avenue  
+Wilsonville, OR 97070  
 [webmaster@flir.com](mailto:webmaster@flir.com)
 
 Notification of Changes FLIR may change this Privacy Policy Statement from time to time for any reason. When we make such changes, we will post notification of them on our main page. Your continued use of this site after notification of such changes have been posted shall constitute your assent to be bound by these changes. 
