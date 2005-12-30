@@ -1,89 +1,74 @@
-> *The following text is extracted and transformed from the diabetes.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305122027id_/http%3A//www.diabetes.org/privacy.jsp%3FWTLPromo%3DFOOTER_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetes.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230103608id_/http%3A//www.diabetes.org/privacy.jsp%3FWTLPromo%3DFOOTER_privacy) for the most accurate reproduction.*
 
 # Privacy Policy - American Diabetes Association
 
 * * *
 
-### Our Commitment To Privacy
+###  Our Commitment to Privacy 
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on the homepage and at every point where personally identifiable information may be requested.
+Your privacy is important to us. To protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. 
 
-### What information do we collect? How do we use it?
+### Collection and Use of Personal Information 
 
-When you request information about a product or service or register with one of our sites, we may need to know specific information about you in order to process your registration/requests and reply to your needs promptly. 
+When you request information, order a product or service, register using one of our forms, or contact us offline, we may need your specific information in order to process your registration/request and reply to your needs promptly. 
 
-Our site's forms may require you to give us contact information (like your name, e-mail and address) and demographic information (like your zip code or age). We may use the contact information from these registration and survey forms to send you information about other programs or events of the American Diabetes Association. You may opt-out of receiving future mailings. See the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor your experience at our sites and distribute content that we think you might be interested in. 
+We may ask you for contact information (such as your name, e-mail and address) and demographic information (such as your zip code or age). We also collect demographic and profile data at our site and in our databases. We use this data to tailor your experience at ADA and develop and distribute content that we think you might be interested in. 
 
-When you order products or services from the Web site, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. To learn more about our encryption policies, please review the section on "How does the American Diabetes Association protect customer information?" 
+In general, we use identifiable information to complete a transaction, as indicated below. In addition, we use any health-related data you provide to us to help us help you through our information, our programs and our services. Part of our mission is to improve the lives of all people affected by diabetes, and we do that by providing appropriate health information to you based upon information you personally provide. We maintain health-related data and do not provide your name and address to outside parties, except as described here. To learn more about our encryption policies, please review the section on "Protecting Personal Information." 
 
-This site links to other sites. The American Diabetes Association is not responsible for the privacy practices or the content of such Web sites. We will not pass your information along to the linked site; however, we cannot protect your information if you provide information to that site. 
+### **Links to Other Sites**
 
-We monitor customer traffic patterns and site usage to help us develop the design and layout of the American Diabetes Association sites. We may also use the information we collect to occasionally notify you about important changes to the Web sites, new services or features offered by the American Diabetes Association, and special offers and information we think you will find valuable. If you would rather not receive this information, please contact us through one of the channels identified in the choice/opt-out section. 
+This site links to other sites. The American Diabetes Association is not responsible for the privacy practices or the content of such Web sites. We will not pass your information along to the linked site; however, we cannot protect the information you provide to that site. 
 
-WebTrends Live is used to analyze traffic to this Web site.  WebTrends Live does not maintain individual profiles for visitors, nor does WebTrends Live collect data that might identify the individual visitor.  WebTrends Live only collects aggregate data. For more information about the WebTrends Live privacy policy, please [click here.](http://www.webtrendslive.com/wtl_system/privacy_policy.htm)
+### **Monitoring of Information**
 
-### How does the American Diabetes Association protect customer information?
+We monitor customer traffic patterns and site usage to help us develop the design and layout of the American Diabetes Association Web site. We may also use the information we collect to occasionally notify you about important changes to the Web sites, new services or features offered by the American Diabetes Association, and special offers and information we think you will find valuable. If you would rather not receive this information, please contact us through one of the channels identified in the choice/opt-out section. 
 
-When you place orders or access your account information, we use a secure server. This secure server software, SSL (Secure Sockets Layer) encrypts all information you input before it is sent to us. Furthermore, all of the customer transactional data we collect is protected against unauthorized access with the use of digital certificates. Digital certificates for the American Diabetes Association are issued by VeriSign, one of the most established signers of digital certificates. To learn more about our online security, simply click on the "Security" icon (it usually appears as a padlock) in your browser tool bar, at the bottom of your browser window. 
+WebTrends Live is used to analyze traffic to this Web site. WebTrends Live does not maintain individual profiles for visitors, nor does WebTrends Live collect data that might identify the individual visitor. WebTrends Live only collects aggregate data. Click here for more information about the [WebTrends Live privacy policy](https://ondemand.webtrends.com/privacypolicy.asp#PSFV).
 
-### What about "cookies?" 
+###  Protecting Personal Information 
+
+When you place orders or access your account information, we use a secure server. This secure server software, SSL (Secure Sockets Layer), encrypts all information you input before it is sent to us. Furthermore, all of the customer transactional data we collect is protected against unauthorized access with the use of digital certificates. Digital certificates for the American Diabetes Association are issued by VeriSign, one of the most established signers of digital certificates. 
+
+###  Use of “Cookies” 
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without accepting cookies, you can still use most of the features throughout the American Diabetes Association Web sites. 
 
-Our site may use cookies to keep track of your shopping cart and to make sure you don't see the same advertisement or content repeatedly. We use cookies to deliver information specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
+Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same advertisement or content repeatedly. We use cookies to deliver information specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
 
-### Will the American Diabetes Association disclose the information it collects to outside parties?
+###  ADA Policies Regarding Disclosure of Personal Information 
 
-  
+ADA, like many other non-profit organizations, occasionally makes available only our contributor names and postal addresses to companies, predominantly other non-profit organizations. In addition, member names are provided to a credit card vendor as part of our affinity program. Names of Tour de Cure® participants are provided to local bike shops. These practices help us reduce costs of reaching out to more individuals with diabetes-related information. The companies with which your name may be shared are carefully screened. Names/addresses are provided on a one-time basis; therefore, these companies will not have continued access to your name and address unless you respond to them directly, which you are free to do or not to do. 
 
+You can request that we do not share your information by emailing us at [privacy@diabetes.org](mailto:privacy@diabetes.org).  (If you use more than one email address , postal address or telephone number, please identify each one.)  
 
-The American Diabetes Association may sell, trade, or rent your personal information to others. We may do so with selected third parties (e.g., information collected in conjunction with online donations); you can request that we do not by emailing us at [privacy@diabetes.org](mailto:privacy@diabetes.org).  (If you use more than one email address, send this message from each email account you use.)  When you opt-in by giving us your email address, we may share this with other ADA offices in order to inform you about our events and programs.  Therefore, it may take more than one cycle to remove your name. The American Diabetes Association may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information. 
+The American Diabetes Association may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information. 
 
-### Our Commitment To Children's Privacy
+### Our Commitment to Children's Privacy 
 
-Protecting the privacy of the very young is especially important.  For that reason, we adhere to the 1998 Children's Online Privacy Protection Act (COPPA). (For more information, visit the Federal Trade Commission's COPPA site at <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/adults.htm>)  Whenever we collect or maintain information at our Web site from those we actually know are under 13, we obtain parental consent before any personally identifiable information is collected, used or disclosed.  We obtain parental consent before children are allowed to post or communicate directly with others.  We avoid collecting more information than necessary when offering children's games and activities. We also follow strict rules when sending email; and we provide parents reasonable access to information collected from their children, and the ability to correct or remove that information. 
-
-### Email Guidelines
+### Email Guidelines 
 
 ADA does not send unsolicited commercial email to individuals with whom they do not have consent/permission or a pre-existing or current business relationship. 
 
-ADA provides all email recipients with a clear, easy and effective method to unsubscribe to any and all online communications. ADA does not misrepresent the source of any message, does not falsify sender’s domain name or use a non-responsive IP address, and will not use false or misleading “Subject” lines.
+ADA provides all email recipients with a clear, easy and effective method to unsubscribe to any and all online communications. 
 
-ADA informs customers about what personal information is collected and how it will be used. ADA does not harvest email addresses with the intent to send bulk unsolicited commercial email without the consumer’s knowledge or consent. 
-
-### Choice/Opt-Out
-
-Our site provides users the opportunity to opt-out of receiving communications from the American Diabetes Association and third parties, if any, at the point where we request information about the visitor. 
-
-### Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided.  
-
-
-  1. You can send email to [privacy@diabetes.org](mailto:privacy@diabetes.org)
-  2. You can send mail to the following postal address:
-
-American Diabetes Association  
-1701 N. Beauregard Street  
-Alexandria, VA 22311  
-ATTN: Customer Service 
-
-
-
-
-### Tell us what you think
-
-The American Diabetes Association welcomes your questions and comments about privacy. Please send email to [privacy@diabetes.org](mailto:privacy@diabetes.org).
-
-### Contacting the Web site
+###  How to Correct or Update Information 
 
   
+Here are the options for changing and modifying information previously provided. 
 
+Email [privacy@diabetes.org](mailto:privacy@diabetes.org) or send a letter to: 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
 American Diabetes Association  
-1701 N. Beauregard Street  
-Alexandria, VA 22311  
-ATTN: Online Services
+1701 N. Beauregard Street   
+Alexandria , VA 22311   
+ATTN: Customer Service 
 
-Or, email us at [privacy@diabetes.org](mailto:privacy@diabetes.org)
+###  Tell us what you think 
+
+The American Diabetes Association welcomes your questions and comments about this privacy statement, about the practices of the ADA, and about your dealings with this Web site. Please send email to [privacy@diabetes.org](mailto:privacy@diabetes.org), or write to: 
+
+American Diabetes Association   
+1701 N. Beauregard Street   
+Alexandria, VA 22311   
+ATTN: Online Services 
