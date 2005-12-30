@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensolaris.org privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626074250id_/http%3A//www.sun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensolaris.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230135033id_/http%3A//www.sun.com/privacy) for the most accurate reproduction.*
 
 # Sun Microsystems - Sun Online Privacy Policy
 
