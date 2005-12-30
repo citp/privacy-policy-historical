@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2005-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050602020354id_/http%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230231517id_/http%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
 
 # Opentip Online Shopping Mall offers wholesale and retail at factory direct price
 
