@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games.com privacy policy that was archived on 2005-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050604000309id_/http%3A//www.atari.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230155947id_/http%3A//www.atari.com/us/privacy) for the most accurate reproduction.*
 
 # Atari - US - Privacy
 
