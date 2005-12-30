@@ -1,166 +1,147 @@
-> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405144732id_/http%3A//www.vtac.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230112824id_/http%3A//www.vtac.edu.au/general/privacy.html) for the most accurate reproduction.*
 
-# VTAC: Privacy Policy
+# VTAC:General:Privacy
 
-  [full version of VTAC Privacy Policy](https://web.archive.org/web/20040405144732id_/http%3A//www.vtac.edu.au/full_privacy.pdf) (15 pages 42KB)
+The institutions that participate in VTAC are committed to observing the VTAC Code of Privacy and Ethics. This code is designed to protect the rights of you, the applicant, institutions and the Victorian Tertiary Admissions Centre (VTAC).
 
-## Applicant Statement
+## What VTAC collects and why
 
-**As amended 13/10/2003**
+### All applicants
 
-### THE APPLICANT POLICY
+  1. The information we collect will include contact details, personal details, residential status, current or previous Year 12 and tertiary results. 
+  2. To assist institutions with enrolments and/or special programs VTAC will also collect information about languages spoken at home, place of birth and ethnicity. 
+  3. On behalf of institutions we ask that you indicate whether or not you have a disability. The choice to answer this question is optional and your response is not used as part of the selection process, but rather to ensure that you have adequate access to support services. 
+  4. Once you have applied we will endeavour to obtain any previous Australian Year 12 results or Australian university results directly from the respective state databases or university. 
+  5. With regard to university results, a Grade Point Average (GPA) is calculated: 
 
-At VTAC we believe an individual's right to keep their personal information private is highly important. We are committed to protecting and maintaining the privacy, accuracy and security of your personal and application information.
 
-### HOW AND WHAT INFORMATION WE COLLECT
+  * if you undertake university studies in Australia and 
+  * if VTAC has been able to access the results electronically via the Automated Results Transfer Scheme (ARTS) or if you have supplied detailed paper transcripts of results
 
-We will only collect information relevant to your application for a tertiary course or courses.
 
-The information we collect will include:
 
-  * Contact and personal details relevant to your application or the institution to which you are applying; residential status; current or previous Year 12 and tertiary results.
-  * To assist institutions with enrolments and/or special programs VTAC will also collect information about languages spoken at home, place of birth and ethnicity.
-  * Additionally and on behalf of institutions we ask that you indicate whether or not you have a disability. The choice to answer this question is option and your response is not used as part of the selection process, but rather to ensure that you have adequate access to support services.
+### Current Year 12 students 
 
+  * In order to establish and maintain the VTAC applicant file and VTAC CourseLink (web based course information and counselling program), we collect personal information from the Victorian Curriculum and Assessment Authority (VCAA) on:
+  * students undertaking one or more VCE units of study;
+  * International Baccalaureate (IB) students (undertaking the General Achievement Test); and 
+  * students undertaking one or more VCAL units of study
 
 
-While we will collect most of this information directly from you, we will endeavour to obtain any Australian Year 12 results or Australian University results directly from the university or respective database.
 
-When you speak to us about your application, we will minimise the opportunity for other people to overhear our discussion.
+## What information is used?
 
-### HOW WE USE YOUR INFORMATION
+We will limit use of your personal information to carrying out business which includes confirming the data contained within your application, confirming past and/or current results, distributing your application to the institutions and courses to which you have applied, notifying you of cancelled courses, change of preference and offers. 
 
-We will limit use of your personal information to:
+Using the results received from the VCAA, VTAC calculates an ENTER or notional ENTER for tertiary entrance for eligible VCE students and Victorian IB students.
 
-  * Carrying out our business which includes confirming the data contained within your application, confirming past and/or current results, distributing your application onto the institution and courses to which you have applied, notifying you of cancelled courses, change of preference and offers. 
-  * If you are a current VCE or Victorian IB Year 12 student your personal information and results will also be used to calculate an ENTER or Notional ENTER for tertiary entrance. 
-  * Once VTAC has obtained your Year 12 results, they will be stored on a national database. Access to this database is restricted to the Director or (nominee) of any state-based tertiary admission centre and only if you have initiated an application for a tertiary course.
+While current and previous Year 12 results are stored on a national database, this information can only be accessed, by the Director (or nominee) of any state-based tertiary admission centre if you initiate an application for tertiary study within that state. 
 
+The [Grade Point Average (GPA)](https://web.archive.org/web/20051230112824id_/http%3A//www.vtac.edu.au/nony12/gpa.html) will be used as stated under each published course or institutional selection mode. .
 
+## Who has access to your information?
 
-**Consideration of Chronic Circumstances**  
-If you are a current year 12 student and submit an Application for Consideration of Chronic Circumstances form, then only the Deputy Director, Selection and Applications (or their nominee) and course authorities associated with your final list of preferences will have access to this information.
+### All applicants
 
-**VTAC Pi Form**
+  * We distribute your personal information to institutions to which you have applied for the purpose of application and selection only. Institutions are not permitted to sell or trade your information without your express permission.
+  * We will not share, sell or trade your personal information to any institution to which you have not applied. 
+  * We may use your information to conduct research; however at no time is personal or sensitive data made available to any person or authority outside of VTAC without your permission.
+  * We do allow your information to be provided to other select organisations that perform certain functions or operations for us. We bind these companies to the same standard of care as we do ourselves so that they cannot provide this information to anyone else. 
+  * We enforce these requirements through contractual agreements. 
 
-  * If you are a Non-year 12 applicant and complete the VTAC Pi form, this form will be distributed to all courses for which you have applied.
-  * If you are a current year 12 student this form will only be circulated by VTAC to selection authorities of all courses which you have listed on your VTAC application.
 
 
+### Current Year 12 Students 
 
-**Grade Point Average**
+  * As the year progresses, VTAC will distribute your course preference data, ENTER and offer details to your school for the purposes of information i.e. student reports and counseling.
+  * We distribute your ENTER to the Victorian Curriculum and Assessment Authority to assist them in confirming the Premiers Awards. 
 
-A Grade Point Average (GPA) is calculated:
 
-  * If you have completed tertiary studies and 
-  * The course or institution to which you are currently applying to has a published policy on its use in selection.
-  * GPA information will not be verbally available either by telephone or in person at VTAC.
 
+## Rights and Responsibilities 
 
+### You have a right to:
 
-To obtain a copy of your GPA, you must complete the appropriate request form and pay the associated administrative fee. A GPA will not be calculated for you if your course or institution does not have a published policy on its use as part of selection.
+  * Express or change your preferences freely within the defined period (providing at least three working days have passed since you paid your processing fees) without any pressure from institutions.
+  * Consider any offer of a place made through VTAC without being contacted directly by any institution. Verbal offers should be ignored.
+  * Decide whether your offer will be published in metropolitan and regional newspapers.
+  * A refund of institutional fees, less an administrative fee, if you cancel an enrolment in the event of a more acceptable offer.
+  * Access most of the personal information we hold about you and request corrections. This right is subject to some exceptions. For example, information relating to existing or anticipated legal proceedings.
+  * Request information by telephoning, e-mailing or visiting the office of VTAC provided you can identify yourself as the applicant.
+  * Free verbal information, (some exclusions apply) however any formal documentation will incur an administrative fee. Before we act, we will advise you of the costs associated with any formal requests.
+  * Advise VTAC if you do not want your ENTER and Year 12 results stored on a National Database. Only after you have initiated an application to an institution participating in one of the state based systems, will your data be made available to the Director (or nominee) of the said admission centre. 
+  * Additionally, if you are a current year 12 student, you have the right to advise VTAC if you do not want your preference, offer and ENTER data forwarded to your school for the purpose of course information and counselling.
 
-A GPA will not be calculated for you if your course or institution does not have a published policy on its use as part of selection.
 
-### WHO WILL USE YOUR INFORMATION
 
-  * We distribute your personal information to institutions to which you have applied for the purpose of application and selection only.
-  * We will not share, sell or trade your personal information to any institution to which you have not applied.
-  * We may use your information to conduct research, however at no time will personal or sensitive data be made available to any person or authority outside of VTAC without your permission.
+### You must ensure that you:
 
+  1. Supply full and correct information as part of the application process. Institutions may withdraw your offer or cancel your enrolment if you fail in this regard.
+  2. Confirm that the information you have included on your application is correct and notify VTAC immediately of any errors.
+  3. Supply documentation, in the prescribed manner, in support of your application where instructed in the Guide or as part of the application process. Institutions may be unable to consider your application if you fail to follow these instructions.
+  4. Pay the required VTAC fees. 
 
 
-We do allow your information to be provided to other select organisations that perform certain functions or operations for us. We bind these companies to the same standard of care as we do ourselves so that they cannot provide this information to anyone else. 
 
-We enforce this requirement through contractual agreements.
+## Participating Institutions 
 
-### YOUR INFORMATION IS SECURE
+### Participating institutions have the right to: 
 
-  * We will use up-to-date techniques and processes that meet current industry standards to ensure that your personal information is kept secure and confidential.
-  * Only employees of the VTAC and those who perform services on our behalf, and are authorised to handle your information, will have access to your personal information.
-  * We will not retain any of your applicant information for any longer than it is required by us, except to fulfil our legal obligations.
-  * All documents submitted as part of an application are destroyed under the Public Record Office Standard:93/01 agreement.
-  * We will, with your help, keep your personal information of your current application accurate, complete and up to date.
+  1. Select applicants according to the course/institutionally based published selection and pre-selection criteria.
+  2. Withdraw an offer or cancel a later enrolment if an applicant has not declared full or correct information as part of the application process.
+  3. Deny enrolment where an applicant has not accepted their offer at the time and date contained in the offer letter.
 
 
 
-### YOU HAVE ACCESS TO YOUR INFORMATION
+### Obligations:
 
-  * You can access most of the personal information we hold about you and request corrections. This right is subject to some exceptions, for example, you may not obtain access to information relating to existing or anticipated legal proceedings.
-  * You can request access to your information by visiting the VTAC office, telephoning us on 1300 364 133 or by writing to us at 40 Park Street, South Melbourne. Verbal information is provided free of charge, however any formal documentation will incur an administrative fee. Before we act upon requests of this nature, we will tell you how much this service will cost.
+Institutions must adhere to the agreed rules and guidelines covering the operation of the selection system and dealing with applicants and applicant information. Those that affect current applications are:
 
+  1. All application requirements must be published in the VTAC Guide, website or conveyed to applicants prior to the selection period.
+  2. Preference level must not be used as a selection criterion ie. all applicants must be considered equally, irrespective of where courses are listed on their application. Institutions must not pressure applicants into changing their preferences or prevent them from being involved in a pre-selection requirement on the basis of preference level. 
+  3. All offers must be made through VTAC.
+  4. Institutions must NOT inform you of an offer before the scheduled date of release of offers.
+  5. Institutional contact with you before the first round of offers is prohibited except to advise you: 
 
 
-### WHAT TO DO IF YOU THINK WE'VE MADE AN ERROR
+  * of interview dates and times
+  * of your status regarding pre-selection requirements or for scholarship purposes
+  * of changes to the availability of courses
+  * for clarification about your details
+or the VTAC advisory letter process 
 
-VTAC is committed to the protection of your privacy, and our policies, processes and systems have been developed with this intent. However, sometimes human errors do occur. If you think we have not lived up to our commitment, we invite you to email us at enquiry@vtac.edu.au, phone us on 1300 364 133, or visit our office at 40 Park Street, South Melbourne 3205.
 
-  * If you wish to access your applicant data, please address all correspondence to the Deputy Director, Selection and Application Services. 
-  * To obtain a copy of the complete VTAC Privacy Policy or for any other queries relating to the privacy of your data address your request Privacy Officer, VTAC. 
+Institutions must ensure that your application details are not released to any course authorities, or other third parties, other than the preferred course(s) listed by you.
 
+## VTAC 
 
+### VTAC has the right to:
 
-Our objective is to respond to any complaint within our service standard of five working days. Where we have not met our commitment we will personally apologise and take all reasonable action to ensure that it does not happen again.
+  1. Take other appropriate action where VTAC fees have not been paid by the appropriate date.
+  2. Withhold data where VTAC fees have not been paid by the appropriate date.
+  3. Attempt to obtain results from previous tertiary and secondary study and supply these to the institution.
+  4. Withhold documentation from the institution where the documentation is deemed inappropriate, i.e. resumes, references, school reports and results (downloaded) from the Internet.
 
-VTAC is bound by the National Privacy Principles for the handling of personal information. (To find out about the National 
 
-Privacy Principles, contact the Office of the Federal Privacy Commissioner.)
 
-### THINGS YOU SHOULD KNOW
+### VTAC is obliged to:
 
-Information is current as at Wednesday 21 July 2003.
+  1. Provide its services impartially to all applicants and to all participating institutions without bias or favour.
+  2. Administer and uphold the agreed system rules and guidelines and to investigate any claimed breaches.
+  3. Ensure (together with institutions) that your application details are treated confidentially and supplied only to those course authorities for which application has been made, and only for the purpose of selection. 
 
-* * *
 
-## Website Statement
 
-VTAC understands that when accessing our website or interacting online, the privacy and confidentiality of your personal information is important to you. That's why we are committed to safeguarding the personal details you provide us.
+Please note that your application details will not be released to an outside party without your consent except where VTAC is required to by law. 
 
-The following explains what information we gather from you when you go to our website, how we use that information and how you can contact us for more information.
+### What to do if you think we've made an error 
 
-### The information we collect
+VTAC is committed to the protection of your privacy and our policies, processes and systems have been developed with this intent. Sometimes, however, human errors do occur. If you think we have not lived up to our commitment, we invite you to e-mail us, telephone us on 1300 364 133, or visit our office at 40 Park Street, South Melbourne VIC 3205.
 
-Each time you visit our home page, our web server collects the following types of information:
+To access your applicant data, please address all correspondence to the Deputy Director, Selection and Application Services, VTAC, 40 Park Street, South Melbourne VIC 3205.
 
-  * IP address 
-  * Date and time you accessed the website 
+To obtain a copy of the VTAC Privacy Policy or for any other queries relating to the privacy of your data address your request to the Privacy Officer, VTAC, 40 Park Street, South Melbourne VIC 3205.
 
+### The final word on refunds
 
-
-If you are a registered applicant and want to access any of the application services our web server will collect the following types of information:
-
-  * IP address 
-  * Date and time you accessed the website 
-  * VTAC application number 
-  * PIN used at the time of access 
-  * Number of times and activities you undertake as a registered user 
-
-
-
-### How we capture your information
-
-VTAC uses a technology called Common Gateway Interface (CGI) to capture any visit to our website. The CGI is an interface to the web server to convey your requests to the web server and then return the required information back to your browser.
-
-### How we use your information
-
-All information held at VTAC is used only to:
-
-  * assist VTAC address any applicant queries about their application, preferences and details 
-  * assist VTAC identify useful and less useful information 
-  * assist VTAC formulate its future internet service strategies and improve its services to the public 
-
-
-
-### Securing your information
-
-When your information is captured, your personal details, e.g. IP address, is passed through our secure server using encryption technology that scrambles the information to ensure it is protected over the internet.
-
-Stored information about you is further protected from unauthorised access through the use of multiple farewells, secure passwords and sign in processes.
-
-Stored information that may identify an individual may not be released to any bona fide authority, group or organisation without your express permission.
-
-**THIS INFORMATION IS KEPT FOR RECORD PURPOSES ONLY.**
-
-Accurate as at Monday 21 July 2003.
-
-  [full version of VTAC Privacy Policy](https://web.archive.org/web/20040405144732id_/http%3A//www.vtac.edu.au/full_privacy.pdf) (15 pages 42KB)
+Regardless of the success of your application, there are no refunds of either VTAC processing or STAT/DULSAT registration fees. 
