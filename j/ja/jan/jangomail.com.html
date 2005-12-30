@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jangomail.com privacy policy that was archived on 2005-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305045852id_/http%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jangomail.com privacy policy that was archived on 2005-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051230181954id_/http%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>JangoMail</title>
@@ -79,6 +79,11 @@ function preloadImages() {
 		if ((document.form83.username.value=='') && (document.demo.firstname.value=='')) {document.demo.firstname.focus();}
 	}
 	else
+	if ((document.location.href)=='http://www.jangomail.com/PasswordReminder.asp')
+	{
+		if ((document.form83.username.value=='') && (document.passwordreminder.username.value=='')) {document.passwordreminder.username.focus();}
+	}
+	else	
 	if ((document.location.href)=='https://www.jangomail.com/signup.asp')
 	{
 		if ((document.form83.username.value=='') && (document.signupform.firstname.value=='')) {document.signupform.firstname.focus();}
@@ -228,7 +233,7 @@ PASSWORD:</font></td>
 <tr> 
 <td>&nbsp;</td>
 <td> 
-<input type="submit" name="Submit" value="Sign In">
+<input type="submit" name="Submit" value="Sign In"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.jangomail.com/PasswordReminder.asp">?</a></font>
 </td>
 </tr>
 
@@ -554,7 +559,6 @@ TD.paginglocation
 <a class="bottomstuff" href="http://www.jangomail.com/antispam.asp">Anti-Spam Policy</a>
 | <a class="bottomstuff" href="http://www.jangomail.com/privacy.asp">Privacy Statement</a>
 | <a class="bottomstuff" href="http://www.jangomail.com/terms.asp">Terms of Use</a>
-| <a class="bottomstuff" href="http://www.jangomail.com/jobs.asp">Job Opening</a>
 
 <br><br>
 
