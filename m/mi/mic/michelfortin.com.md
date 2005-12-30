@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michelfortin.com privacy policy that was archived on 2005-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050613013251id_/http%3A//successdoctor.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michelfortin.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230024015id_/http%3A//successdoctor.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # The Success Doctor™'s Privacy Policy
 
@@ -24,7 +24,7 @@ Although highly unlikely, a confirmation request will be emailed to you before a
 
 
 
-If you received unsolicited commercial information about this website or its offerings from an unknown third party (i.e., "spam"), report the abuse to me immediately [using this confidential form](https://web.archive.org/web/20050613013251id_/http%3A//successdoctor.com/forms). Appropriate action will be taken.
+If you received unsolicited commercial information about this website or its offerings from an unknown third party (i.e., "spam"), report the abuse to me immediately [using this confidential form](https://web.archive.org/web/20051230024015id_/http%3A//successdoctor.com/forms "Copywriting articles, tips and how to by salesletter and website copywriter Michel Fortin"). Appropriate action will be taken.
 
 Also, not that this site uses several third parties to handle certain business services. Great care was taken in their selection. But if you have received unsolicited email as a result of using these services, please do not hesitate to report it immediately as well. They will be discontinued immediately.
 
@@ -34,7 +34,7 @@ Users are provided with the opportunity to easily opt-out of receiving future co
 
   * **Online:** Directly through **[the mailing list](http://theprofitpill.com/)** itself.
   * **Email:[removeme@successdoctor.com](mailto:removeme@successdoctor.com?subject=Remove%20Me%20Please "Email to remove your address from the mailing list!") **(use the correct email address at which you receive your mailings for proper removal)
-  * **Mail:** 1561 Demeter Street, Ottawa, Ontario K4A-4Y9 (Canada)
+  * **Mail:** 2729-D Innes Road, Ottawa, Ontario K1B-3J7 (Canada)
   * **Telephone:** 613-482-4828
   * **Facsimile:** 646-390-4196
 
@@ -45,7 +45,7 @@ Users are provided with the opportunity to easily opt-out of receiving future co
 
 I do not knowingly collect personal information from children under the age of 13. If I learn at any time that I have personal information on a child under the age of 13, I will delete that information from my systems and databases.
 
-_The Success Doctor_ encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer (you can also [check out the FTC's website](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) for more tips on protecting children's privacy online):
+_The Success Doctor_ encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer (you can also [check out the FTC's website](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html "Copywriting articles, tips and how to by salesletter and website copywriter Michel Fortin") for more tips on protecting children's privacy online):
 
 * Teach kids never to give personal information, unless supervised by a parent or adult guardian (includes name, address, phone, school, etc).
 * Know the sites your kids are visiting and which sites are appropriate.
@@ -53,16 +53,13 @@ _The Success Doctor_ encourages parents to go online with their kids. Here are a
 
 #### **Questions?**
 
-If you have any questions, comments or concerns about this privacy pledge or about the practices of this website, do not hesitate to **[contact me](https://web.archive.org/web/20050613013251id_/http%3A//successdoctor.com/forms/)** at any time, in complete confidence, or call me directly at (613) 482-4828. Finally, for more on privacy policies and guidelines, visit the _**[Online Privacy Alliance](http://www.privacyalliance.org/)**_.
-
-##### **If You Like What You Read...**
+If you have any questions, comments or concerns about this privacy pledge or about the practices of this website, do not hesitate to **[contact me](https://web.archive.org/web/20051230024015id_/http%3A//successdoctor.com/forms/index.htm "Copywriting articles, tips and how to by salesletter and website copywriter Michel Fortin")** at any time, in complete confidence, or call me directly at (613) 482-4828. Finally, for more on privacy policies and guidelines, visit the _**[Online Privacy Alliance](http://www.privacyalliance.org/ "Copywriting articles, tips and how to by salesletter and website copywriter Michel Fortin")**_.
 
 ### Subscribe to My Free Email Newsletter!
 
-##### Bonus! Subscribe to my _FREE_ monthly ezine, "The Profit Pill," and you'll instantly get a special gift with your subscription...
+Subscribe to my **_FREE_** monthly ezine, "The Profit Pill," and get copywriting tips and tools delivered to your inbox each month. 
 
-#### **A _FREE_ eBook ($19.95 Value)!**
+Simply enter your email address on the right and click the button.
 
-Join right now, and receive copywriting tips and tools delivered to your email inbox each month. An email will be sent to you asking you to confirm your subscription.
-
-Once you confirm your subscription, I'll send you your free gift — a copy of my book, _The 10 Commandments of Power Positioning_ , attached to your confirmation email (I'll include a link to read it online will be included, too.)
+|  |   
+---|---|---
