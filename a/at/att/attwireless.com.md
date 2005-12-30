@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the attwireless.com privacy policy that was archived on 2005-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050530015941id_/http%3A//www.cingular.com/privacy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attwireless.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230113411id_/http%3A//www.cingular.com/privacy/privacy_policy) for the most accurate reproduction.*
 
 # Cingular Wireless
 
 Cingular Wireless uses e-mail, short text messages, telemarketing, and direct mail to inform you about products or services we think will interest you. If you do not wish to receive these types of communications, learn how you can opt out. 
 
-(Effective date: April 2005) 
+(Effective date: September 2, 2005) 
 
 Cingular Wireless has a long-standing policy of protecting customer privacy.
 
@@ -47,7 +47,7 @@ Tell me more
 Yes. Cingular Wireless uses Web beacons, also known as Web bugs, on our sites so that we can identify you and deliver you the services you request. However, Cingular Wireless does not permit third parties to use Web beacons linked to personal information on our site.   
 Tell me more
 
-**Does Cingular Wireless Place Banner Ads on Other Web Sites?**  
+**Does Cingular Wireless Place Advertising on Other Web Sites?**  
 Cingular Wireless currently uses third-party advertising companies to place our ads on the Internet, and cookie and Web beacon technologies are used to measure the effectiveness of those ads. You should know that the use of such cookies is subject to the third parties' privacy policies, and not the policy of Cingular Wireless.  
 Tell me more
 
@@ -76,7 +76,7 @@ Cingular Wireless expects to update this Policy periodically. You should refer b
 Tell me more
 
 **To Whom Should I Direct Privacy Questions or Concerns?**  
-You have several ways to contact us about questions to this Policy and about your services.  
+You have several ways to contact us about questions of this Policy and about your services.  
 Tell me more
 
 **CINGULAR WIRELESS PRIVACY POLICY**  
@@ -115,7 +115,7 @@ If we make available offers and products online where a child informs us that he
 Cingular Wireless uses e-mail, short text messages, telemarketing, and direct mail to inform you about products or services we think will interest you. You can modify your preferences on receiving these types of communications: 
 
     * If you were formerly an AT&T Wireless customer and wish to change your preferences on receiving these types of communications, you can complete an [online form](https://onlinestorez.cingular.com/privacy/consumer_opt.jsp) to tell us your preferences.
-    * Other Cingular customers who wish to change their preferences should call Customer Service at 1-866-CINGULAR.
+    * Other Cingular customers who wish to change their preferences can visit the "My Profile" page, if you manage your account online, or call Customer Service at 1-866-CINGULAR. 
     * If you are not a current customer of Cingular Wireless and wish to opt out of receiving marketing communications, you can complete an [online form](https://onlinestorez.cingular.com/privacy/non_consumer_opt.jsp) to tell us your preferences.
   
 While you may choose not to receive marketing information from us, you will continue to receive invoices, customer service-related notifications, and other similar information from us electronically or otherwise. 
@@ -124,7 +124,7 @@ While you may choose not to receive marketing information from us, you will cont
 
 
 **Disclosure of Personal Information**  
-Information about our customers is one of our most important business assets, and therefore we strive to protect it and keep it confidential. We do not sell personal information to third parties without your consent. When and what types of information Cingular Wireless disclose depend on the service and in some cases the choices you have made. 
+Information about our customers is one of our most important business assets, and therefore we strive to protect it and keep it confidential. We do not sell personal information to third parties without your consent. When and what types of information Cingular Wireless discloses depends on the service and in some cases the choices you have made. 
 
 Cingular Wireless will not disclose personal information other than in accordance with this Policy. In general, that means that you must consent to the disclosure in advance. Depending on the service, we may obtain your consent in a number of ways, including: 
 
@@ -136,9 +136,9 @@ Cingular Wireless will not disclose personal information other than in accordanc
 
 
 
-For example, your consent to disclose personal information can be implied simply by the nature of your request, such as when you ask us to deliver an e-mail or short message to another person. Your return address is disclosed as part of the service and your consent to do so implied by your use of the service. To determine how personal information may be disclosed as part of a particular service, you should review the terms and conditions of use for that service. 
+For example, your consent to disclose personal information can be implied simply by the nature of your request, such as when you ask us to deliver an e-mail or short message to another person. Your return address is disclosed as part of the service and your consent to do so is implied by your use of the service. To determine how personal information may be disclosed as part of a particular service, you should review the terms and conditions of use for that service. 
 
-We share personal information with third parties as necessary to complete a transaction, perform a service on our behalf (such as enhancing our ability to serve you better), or perform a service that you have requested. When the third party acts solely on our behalf, Cingular Wireless does not allow them to use your information for other purposes. For example, our vendors process and print your billing statement on our behalf. They can only use the personal information we give them to produce the billing statement. When we write off an account for non-payment, Cingular Wireless sometimes disclose personal information about the account to third parties such as credit bureaus. Credit bureaus may use the personal information to update their records. When we write off an account for non-payment, Cingular Wireless sometimes discloses personal information about the account to third parties such as credit bureaus. Credit bureaus may use the personal information to update their records. Cingular Wireless does not currently disclose wireless numbers in directory assistance listings or published directories. If we do so in the future, you will be able to choose whether your number is listed. 
+We share personal information with third parties as necessary to complete a transaction, perform a service on our behalf (such as enhancing our ability to serve you better), or perform a service that you have requested. When the third party acts solely on our behalf, Cingular Wireless does not allow them to use your information for other purposes. For example, our vendors process and print your billing statement on our behalf. They can only use the personal information we give them to produce the billing statement. When we write off an account for non-payment, Cingular Wireless sometimes discloses personal information about the account to third parties such as credit bureaus. Credit bureaus may use the personal information to update their records. Cingular Wireless does not currently disclose wireless numbers in directory assistance listings or published directories. If we do so in the future, you will be able to choose whether your number is listed. 
 
 Aside from our services, however, you may also want to take advantage of services and products offered by other companies utilizing our wireless service. In those cases, you will be providing information to those companies, and information about you received by those third parties will be governed by their privacy policies, not this Policy. For example, if you are roaming on the network of another carrier, information about your usage and the numbers you dial will be available to the carrier providing the service. Also, as another example, if you purchase something using our mobile Internet service, you will be disclosing personal information directly to the company facilitating the transaction, a merchant bank and the merchant. Finally, if you bought your wireless device from a third party retailer or dealer, both they and Cingular Wireless will have personal information as a result of the transaction and your ongoing service with Cingular. Whenever third parties have a role in any such transaction, you should review their privacy policies as well. 
 
@@ -168,8 +168,8 @@ A Web beacon, also known as a Web bug, is a small, graphic image on a Web page, 
 
 Cingular Wireless does not place Web beacons that link to personal information on other sites, nor does it permit third parties, other than those working on our behalf, to place them on our site. Cingular Wireless does use Web beacons itself and may link a particular beacon to personal information. For example, we may use a beacon to ensure a user can flip between technical assistance, customer service and our online store and still be recognized as our customer. 
 
-**Cingular Wireless Placement of Banner Ads on Other Web Sites**  
-Cingular Wireless may use third-party advertising companies to place advertisements about our products and services on other Web sites. The advertising companies may use cookies and other technology such as Web beacons or tagging to measure the effectiveness of our ads. To measure advertising effectiveness and offer selective ad content, the advertising companies may use anonymous information about your visits to our and other Web sites. But the advertising companies use an anonymous number to identify you, NOT your name, address, phone number, e-mail address, or anything that personally identifies you. The use of such cookies is subject to the advertising company's privacy policy, not the Policy of Cingular Wireless. If you would like more information about the advertising companies we use, their privacy practices, or to learn your choices about not having this non-personal information used to serve ads to you, see our Cingular Wireless Advertising Companies. 
+**Cingular Wireless Placement of Advertising on Other Web Sites**  
+Cingular Wireless may use third-party ad serving companies to place advertisements about our products and services on other Web sites. These companies may use cookies and other technology such as Web beacons or tagging to measure the effectiveness of our ads. To measure advertising effectiveness and offer selective ad content, the ad serving companies may use anonymous information about your visits to our and other Web sites. But the ad serving companies use an anonymous number to identify you, NOT your name, address, phone number, e-mail address, or anything that personally identifies you. The use of such cookies is subject to the ad serving company's privacy policy, not the Policy of Cingular Wireless. If you would like more information about these companies we use, their privacy practices, or to learn your choices about not having this non-personal information used to serve ads to you, see our Cingular Wireless Cingular Wireless Ad Serving Companies. 
 
 **Presence, Location, and Tracking**  
 To make wireless communications possible, the network knows the general location of your phone or wireless device whenever it is turned on. Your wireless device sends out a periodic signal to the nearest radio tower/cell site so that the network will know where to route an incoming communication and how to properly bill for the service. This is necessary to make wireless communications possible. 
@@ -187,12 +187,10 @@ It is unlawful for any third party to make an unsolicited telemarketing call usi
 **Network and Information Security**  
 We maintain a variety of physical, electronic, and procedural safeguards to guard your personal information. For example, we use accepted tools and techniques to protect against unauthorized access to our systems. Also, we grant access to personal information about you to employees and contractors who need to know that information to provide products or services to you. In addition, we work to protect the security of your personal information when you are ordering new service via the Cingular Wireless Web site by using well-known Internet encryption technologies like Secure Sockets Layer (SSL). We also use encryption technologies to protect your account information when you are viewing your bill on our Web site. You should be aware that Cingular Wireless has no control over the security of other sites on the Internet you might visit, interact with, or from which you buy products or services. 
 
-An important part of protecting the security of personal information is your own effort to protect against unauthorized access to your wireless device, SIM card, user name, and password and to your computer. Also, be sure to sign off when finished using a shared computer and always log out of any site after viewing personal account information. 
-
 **What Can I Do to Protect My Personal Information?**  
 An important part of ensuring the security of personal information is your own effort to protect against unauthorized access to your wireless device and the personal information contained in it and on your SIM card. Most phones and wireless PDA-type devices store calling information both in the phone and on the SIM card. Therefore, before discarding your phone or PDA, trading it in or giving it away, be sure you remove and retain your SIM card and follow the manufacturer's instructions for deleting all personal information on the device itself. (This can be found in your owner's manual or on the manufacturers' Web site.) 
 
-In addition, use a password to prevent unauthorized access to your wireless device, if available. If you write down your password and user name, keep the information in a secure location. Change your password periodically. 
+In addition, use passwords to prevent unauthorized access to your wireless device, your wireless service account, and your voicemail. If you write down your passwords or user names, keep the information in a secure location. Do not give your password to someone else unless you intend them to have the same full access and ability to make changes to your account as you have. Change your passwords periodically. 
 
 **Accuracy of Personal Information in Your Account  
 ** You can review the accuracy of the personal information in your account records online (go to My Account on this Web site) or by contacting Customer Service at 1-866-CINGULAR. 
