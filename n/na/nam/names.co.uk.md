@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403184303id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230010806id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement :: Namesco Limited Domain Names, Hosting, Dedicated Server Solutions and Broadband
+# Privacy Statement :: Domain Names, Hosting, Dedicated Server Solutions and Broadband ADSL, Namesco Limited
 
   * [> Customer Login](https://web.archive.org/controlpanel.html)
+  * [Broadband](https://web.archive.org/adsl.html)
   * [Domain Names](https://web.archive.org/domains.html)
   * [Email Packages](https://web.archive.org/email.html)
   * [Web Hosting](https://web.archive.org/hosting.html)
   * [Dedicated Servers](https://web.archive.org/servers.html)
   * [Search Engine Submit](https://web.archive.org/search_engines.html)
   * [Web Development](https://web.archive.org/phase8.html)
-  * [Internet Access](https://web.archive.org/adsl.html)
   * [Help and Support](https://web.archive.org/support.html)
   * [Latest News](https://web.archive.org/news.html)
   * [About Us](https://web.archive.org/profile.html)
   * [Contact Us](https://web.archive.org/contact.html)
+  * [Work for Us](https://web.archive.org/working-for-namesco.html)
   * [Price List](https://web.archive.org/prices.html)
 
   
@@ -35,7 +36,7 @@ This web site agrees to notify you of:
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/web/20050403184303id_/http%3A//www.names.co.uk/contact.html)
+If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/web/20051230010806id_/http%3A//www.names.co.uk/contact.html)
 
 Information Collection and Use 
 
