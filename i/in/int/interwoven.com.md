@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the interwoven.com privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513235447id_/http%3A//interwoven.com/company/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interwoven.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230190847id_/http%3A//interwoven.com/company/privacy_statement.html) for the most accurate reproduction.*
 
 # Interwoven Corporate - Privacy Statement
 
+|  |   
+|  |  |   
+---|---|---  
+[](https://web.archive.org/index.html) |  |  |  |  |  |   
 |   
   
 ---  
@@ -17,4 +21,7 @@ Interwoven considers your privacy important. This policy explains our policies a
   6. **Cookies. We use "cookies".** A cookie is a small data file that a web site can transfer to a visitor's hard drive to keep records of the visits to such site. A cookie contains information such as your username and password that helps us recognize the pages you have visited and improve future visits, but the only personal information a cookie can contain is the information that you provide yourself. A cookie cannot read data off of your hard drive or read cookie files created by other sites. Information stored in cookies may be encrypted, however, we do not store your credit card number in cookies. If you prefer not to accept a cookie, you can set your web browser (Microsoft Internet Explorer or Netscape Navigator) to warn you before accepting cookies or you can refuse all cookies by turning them off in your web browser. Access to our secured web site(s) requires the use of per-session cookies in Microsoft Internet Explorer, which you must enable “only cookies that get sent back to the originating server.” 
   7. **General.** If you have questions regarding this privacy policy, please contact us at [legal_info@interwoven.com](mailto:legal_info@interwoven.com)
 
-[<< Back to Interwoven Corporate](https://web.archive.org/company/)
+[<< Back to Interwoven Corporate](https://web.archive.org/company/)  
+  
+---  
+® 2005 Interwoven, Inc., All Rights Reserved. | [Legal Notices](https://web.archive.org/company/copyright.html)  |  [Privacy Statement](https://web.archive.org/company/privacy_statement.html)  |  [Sitemap](https://web.archive.org/help/sitemap/)  |  [Contacts](https://web.archive.org/company/contact.html) | 
