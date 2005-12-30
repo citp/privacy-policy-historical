@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the csuci.edu privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626045526id_/http%3A//www.csuci.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csuci.edu privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230090748id_/http%3A//csuci.edu/privacy.htm) for the most accurate reproduction.*
 
 # CSUCI > Privacy Policy
 
-Your privacy is important to CSUCI. This statement discloses the information practices for CSUCI Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. 
+Your privacy is important to CSUCI. This statement discloses the information practices for CSUCI web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. 
 
-Personal Information   
+## Personal Information
+
 In general, you can visit CSUCI on the Web without telling us who you are and without revealing any information about yourself. There are times, however, when we or our partners may need information from you.
 
 You may choose to give us personal information, such as your name and address or e-mail ID that may be needed, for example, to register for a class, correspond with you, to process an order or to provide you with a subscription. It is our intent to let you know how we will use such information before we collect it from you on the Internet. If you tell us that you do not want us to use this information as a basis for further contact with you, we will respect your wishes.
 
-Information Security and Quality  
+## Information Security and Quality
+
 We intend to protect the quality and integrity of your personally identifiable information. We have implemented appropriate technical and organizational measures, such as using encryption for transmission of credit card numbers, to help us keep your information secure, accurate, current, and complete.
 
 We will make a sincere effort to respond in a timely manner to your requests to correct inaccuracies in your personal information. To correct inaccuracies in your personal information please return the message containing the inaccuracies to the sender with details of the correction requested.
