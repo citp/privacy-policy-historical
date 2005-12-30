@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the picturetrail.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402015124id_/http%3A//www.picturetrail.com/webpages/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturetrail.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230051357id_/http%3A//www.picturetrail.com/webpages/privacypolicy.shtml) for the most accurate reproduction.*
 
 # PictureTrail - Online Photo Albums - Share Photos, Photo Sharing, Digital Prints, Family Tree, Geneology Projects and Image Hosting
+
+Privacy Policy
+
+PictureTrail.com has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy.
+
+**Email Address Privacy :**  
+PictureTrail will not rent, sell or otherwise provide the email address of any PictureTrail member to any other company or entity unless the member specifically requests information from that company or entity. 
 
 **IP Address:**  
 When you register for an account, we record your IP address for diagnostic purposes, to administer our web site and to gather aggregate, anonymous demographic information.
