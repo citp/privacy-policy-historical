@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2005-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050322092803id_/http%3A//www.if.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230224551id_/http%3A//www.if.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Intelligent Finance - Privacy policy
 
@@ -51,10 +51,10 @@ Occasionally, we may contact you by letter, telephone, email or otherwise to inf
 
 **Head of Regulatory Risk,  
 Intelligent Finance,   
-8 Lochside Avenue,   
-Edinburgh Park,   
-South Gyle,   
-Edinburgh, EH12 9DJ**
+1 Baird Road,   
+Kirkton Campus,   
+Livingston,   
+West Lothian, EH54 7AZ**
 
 Remember that by opting out of receiving marketing information you'll not be told of any offers or new products and services which may benefit you. For example, you may not hear about a new savings or mortgage product that offers you a better rate or saves you money.
 
@@ -108,6 +108,8 @@ If you give us false or misleading information and we suspect fraud, we will rec
   * check your identity to prevent money laundering unless you provide us with other satisfactory proof of identity
 
 
+
+If you want to receive details of those fraud prevention agencies from whom we obtain and with whom we record information about you, contact us on **0845 609 4343**. You have a legal right to these details.
 
 If your relationship with us was 'introduced' by a third party, we will provide them with sufficient information about you to help with their accounting and administration. The introducer may, with your consent, use your details to contact you about his own products and services.
 
