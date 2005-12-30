@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huduser.org privacy policy that was archived on 2004-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041016032133id_/http%3A//www.hud.gov/assist/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huduser.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230033354id_/http%3A//www.hud.gov/assist/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy and Security Statement - HUD
 
@@ -10,7 +10,7 @@ HUD respects your right to privacy and will protect it when you visit our web si
 
 **E-mail**
 
-  1. When you send us e-mail we won't keep or share your e-mail address with anyone outside of HUD staff and its contractors. We'll only use your e-mail address to respond to your requests for information. 
+  1. When you send us e-mail we won't keep or share your e-mail address with anyone outside of HUD staff, its contractors, and other federal representatives necessary to respond to your question. We'll only use your e-mail address to respond to your requests for information. 
   2. If you sign up for one of our (e-)mailing lists, we'll only send you the kinds of information you've requested. We won't maintain your name on the list and won't share your e-mail address with anyone outside of HUD.
   3. If you use our feature "e-mail a friend," we will use your e-mail address only to let your friend know who sent the web address, so he or she can reply to you. 
 
