@@ -1,48 +1,23 @@
-> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2005-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050607084139id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230194836id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# San Diego Auditions, Child Modeling, Record Deals, baby modeling, modeling career, young teen model, teen modeling, child modeling, entertainment New York
+# Audition, Modeling Jobs, Actress, Talent Search, fitness model, female model, young model, entertainment book, black models
 
 |   
   
 ## Featured Talent  
   
 ---  
-[ ](http://brianplesha.starsearchcasting.com/)  
-Brian   
+[ ](http://vickiwolfrum.starsearchcasting.com/)  
+Jamie   
   
 Who is online  
 
 
   
-215 Guests   
-6 Members 
+419 Guests   
+32 Members 
 
-Total Members: 108,603
-
-## Success Stories  
-  
----  
-  
-Star Search Casting is the best online resource there is. I have had so many more job opportunities since I have joined.
-
- **Tim C. (Actor) North Carolina**
-
-[](http://www.starsearchcasting.com/testimonials.php#16)
-
-Finding extra work has been so easy on your website. I get to be in big time movies and I get paid for it. It’s so cool! I wish I knew about this before.
-
- **Alton C. (Extra) Nevada**
-
-[](http://www.starsearchcasting.com/testimonials.php#28)
-
-Star Search Casting has the best search features I’ve found. It makes scouting new talent a breeze. Thanks for the time saving features.
-
- **Eileen B. (Casting Director) New York**
-
-[](http://www.starsearchcasting.com/testimonials.php#31)  
-  
-  
-
+Total Members: 136,903
 
 **Star Search Casting, Inc.'s Privacy Policy**
 
@@ -57,17 +32,5 @@ Your privacy is important to us. To better protect your privacy we provide this 
 ## Stars on Star Search  
   
 ---  
-[ ](http://rogerschueller.starsearchcasting.com/)  
-Roger   
-  
-## [Did you know?](https://web.archive.org/php/did_you_know.php)  
-  
----  
-  
-* More Casting Directors use our site because our state-of-the-art talent search engine has the best search parameters, making it quick and easy to find exactly who they're looking for?
-* You can find Casting Directors, Agents, & Photographers in your area? Just click on the links at the bottom or right side of the page.
-* We submit your personal profile page to all of the major search engines.   
-  
-## Payment Options  
-  
----
+[ ](http://alexialei.starsearchcasting.com/)  
+Alexia 
