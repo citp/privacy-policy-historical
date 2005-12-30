@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615000815id_/http%3A//autobytel.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230013607id_/http%3A//www.autobytel.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **AUTOBYTEL CONSUMER PRIVACY AND SECURITY POLICY**
 
-**Date Last Revised: 05/03/2005**
+**Date Last Revised: 09/13/2005**
 
 Autobytel Inc. ("Autobytel") understands your concern with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our website, we assure you that we are committed to protecting your personal privacy. 
 
 [](https://web.archive.org/system/fnc_logjump.cfm/log/general/partner/truste/linkpage/privacyPolicy_ABTL_validate)
 
-Autobytel Inc. is a licensee of the TRUSTe Web Privacy Seal Program. This privacy and security policy discloses the privacy practices for http://www.autobytel.com. If you have questions or concerns regarding this policy, you should first contact our Consumer Privacy Advocate by e-mail at ABTPrivacy@autobytel.com or directly at: 888-422-8999, Ext. 8903. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+Autobytel Inc. is a licensee of the TRUSTe Web Privacy Seal Program. This privacy and security policy discloses the privacy practices for http://www.autobytel.com. If you have questions or concerns regarding this policy, you should first contact our Consumer Privacy Advocate by e-mail at ABTPrivacy@autobytel.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 **1\. Information Autobytel Collects**
 
@@ -40,9 +40,9 @@ Autobytel may track consumer interest in goods and services marketed to users wh
 
 **Purchase Request Information and Finance Information**
 
-Purchase Request Information is used to transmit to third parties requests for products or services and to contact consumers regarding vehicle purchases. Similarly, Finance Information is used to transmit to third parties requests for vehicle financing. Typically, in either case the information is transmitted to dealers, manufacturers, lenders or fulfillment entities, as applicable, who may be in a position to respond to your request. 
+Purchase Request Information is used to transmit to third parties requests for products or services and to contact consumers regarding vehicle purchases. Similarly, Finance Information is used to transmit to third parties requests for vehicle financing. Typically, in either case the information is transmitted to dealers, manufacturers, lenders or fulfillment entities, as applicable, who may be in a position to respond to your request. As part of the request process, we may verify the information you provide, or obtain omitted address or other contact information, from third parties. 
 
-Occasionally, in the case of Purchase Request Information or Finance Information, when Autobytel does not have a dealership available to assist you, we may forward your request information to a dealer at another automotive referral service. You will be notified that your information is being forwarded at the time you submit your purchase request. Any Purchase Request Information or Finance Information forwarded in this way becomes subject to the security and privacy policies that are posted on the websites of those referral services. 
+Occasionally, in the case of Purchase Request Information or Finance Information, when Autobytel does not have a dealership or lender available to assist you, we may forward your request information to a dealer or lender through another automotive referral service. Your submission of the request authorizes us to do this. Any Purchase Request Information or Finance Information forwarded in this way becomes subject to the security and privacy policies that are posted on the websites of those referral services. 
 
 Similarly, Purchase Request or Finance Information transmitted to a dealer, manufacturer, lender or fulfillment entity becomes the property of that dealer, manufacturer, lender or fulfillment entity, in addition to Autobytel. The information is used to process your purchase request or financing application and to provide you with information about goods and services. Any request to opt out of future dealer, lender, manufacturer or other third-party communications must be made directly to that third party. 
 
@@ -110,7 +110,7 @@ In the event Autobytel or its assets are acquired, such as through merger, acqui
 
 **9\. Questions or Concerns?**
 
-If you have any questions or concerns regarding privacy, security, opting-out of e-mail offers or understanding how your personal information is being used, please contact our Consumer Privacy Advocate at 888-422-8999, Ext. 8903 or e-mail at ABTPrivacy@autobytel.com. If you do not receive acknowledgment of your inquiry in a prompt fashion or within 10 days, or your inquiry has not been satisfactorily addressed, you may [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have any questions or concerns regarding privacy, security, opting-out of e-mail offers or understanding how your personal information is being used, please contact our Consumer Privacy Advocate at ABTPrivacy@autobytel.com. If you do not receive acknowledgment of your inquiry in a prompt fashion or within 10 days, or your inquiry has not been satisfactorily addressed, you may [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 For any other issues, please contact our customer service department at consumercare@autobytel.com. Our mailing address is: 18872 MacArthur Boulevard, Irvine, CA 92612-1400. 
 
