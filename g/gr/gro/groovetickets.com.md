@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovetickets.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303173148id_/http%3A//www.groovetickets.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovetickets.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230074516id_/http%3A//www.groovetickets.com/privacy.asp) for the most accurate reproduction.*
 
 # Groove Tickets: Purchase Your Club and Rave Tickets Online
 
