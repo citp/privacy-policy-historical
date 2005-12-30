@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcdistributing.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528130328id_/http%3A//www.abcdistributing.com/service/privacy.cfm%3Flp%3Dshop/index%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcdistributing.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230021836id_/http%3A//www.abcdistributing.com/service/privacy.cfm%3Flp%3Dshop/index%26) for the most accurate reproduction.*
 
 # Welcome to Online Shopping with abc!
 
@@ -27,7 +27,7 @@ If at any time you wish to be removed from our e-mail mailing list, please call 
 
 Return to top
 
-At this time, abc distributing, LLC does not collect credit card information from customers. This feature is in development and will be available to our customers at a later date.
+Yes. The security of your personal information is very important to us. In our efforts to protect your online transactions, we use a technology called Secure Sockets Layer (SSL). If your browser is capable of SSL (and most are), your personal information will be automatically encrypted, or encoded, before it is sent over the Internet. Also, we store your information behind a firewall and it is not available to unauthorized computers.
 
 Return to top
 
