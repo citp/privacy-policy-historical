@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308230945id_/http%3A//www.emersonecologics.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230215448id_/http%3A//emersonecologics.com/Privacy.asp) for the most accurate reproduction.*
 
 # Emerson Ecologics - Privacy Statement
 
