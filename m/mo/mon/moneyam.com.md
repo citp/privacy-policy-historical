@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyam.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526083801id_/http%3A//www.moneyam.com/tandc/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyam.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230081938id_/http%3A//moneyam.com/tandc/privacypolicy.php) for the most accurate reproduction.*
 
 # MoneyAM -
 
@@ -89,7 +89,3 @@ Our site contains links to and from our advertisers’, partners’ and affiliat
 The Act gives you various rights including the right to access information held about you. Your right to access can be exercised in accordance with the Act. 
 
 Questions about this privacy policy can be addressed to Michael Boydell at: MoneyAM Limited, Thames House, 18 Park Street, London, SE1 9ER, England. 
-
-  
-|  |  |  |   
----|---|---|---|---
