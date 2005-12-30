@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vnuemedia.com privacy policy that was archived on 2005-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050531225036id_/http%3A//www.vnuemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vnuemedia.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230091654id_/http%3A//www.vnuemedia.com/privacy.html) for the most accurate reproduction.*
 
 # VNU eMedia Inc.
 
