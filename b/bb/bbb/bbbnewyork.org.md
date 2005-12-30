@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbbnewyork.org privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205123918id_/http%3A//www.bbbnewyork.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbbnewyork.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231005408id_/http%3A//www.bbbnewyork.org/about/privacy.html) for the most accurate reproduction.*
 
 # Better Business Bureau: Privacy Policy
 
@@ -52,6 +52,6 @@ A cookie is a small amount of data that is sent to your browser from a Web serve
 
 ### Problems
 
-If you have a complaint about the BBB's compliance with this privacy policy, you may contact us at inquiry@newyork.bbb.org. If we are unable to resolve your complaint to your satisfaction, you may elect to proceed with the BBBOnLine's Privacy Policy Review Service by completing the complaint form at [www.bbbonline.org/consumer/complaint/](https://web.archive.org/web/20050205123918id_/http%3A//www.bbbnewyork.org/about/www.bbbonline.org/consumer/complaint/).
+If you have a complaint about the BBB's compliance with this privacy policy, you may contact us at inquiry@newyork.bbb.org. If we are unable to resolve your complaint to your satisfaction, you may elect to proceed with the BBBOnLine's Privacy Policy Review Service by completing the complaint form at [www.bbbonline.org/consumer/complaint/](https://web.archive.org/web/20051231005408id_/http%3A//www.bbbnewyork.org/about/www.bbbonline.org/consumer/complaint/).
 
 August 2, 2004
