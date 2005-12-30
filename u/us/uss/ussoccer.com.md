@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ussoccer.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208135555id_/http%3A//www.ussoccer.com/statements/content.sps%3FiType%3D4078%26icustompageid%3D6482) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussoccer.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230152111id_/http%3A//www.ussoccer.com/statements/content.sps%3FiType%3D4078%26icustompageid%3D6482) for the most accurate reproduction.*
 
 # ussoccer.com - Statements - Introduction
 
@@ -20,6 +20,7 @@ U.S. Soccer currently operates the following web sites to which this policy appl
 
   * [ussoccer.com](http://www.ussoccer.com/)
   * [ussoccerfan.com](http://www.ussoccerfan.com/)
+  * [ussoccer.info](http://www.ussoccer.info/)
 
 
 
