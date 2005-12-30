@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philanthropy.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002101036id_/http%3A//philanthropy.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philanthropy.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230093410id_/http%3A//www.philanthropy.com/about/privacy.htm) for the most accurate reproduction.*
 
 # The Chronicle of Philanthropy: Privacy statement
 
@@ -62,15 +62,15 @@ You can also send an e-mail message to [help@philanthropy.com](mailto:help@phila
 
 If you have any questions about this privacy statement, the practices of _The Chronicle_ or its on-line service, or any other aspects of this Web site, please contact:
 
-Philip W. Semas  
+Stacy Palmer  
 Editor, New Media  
 The Chronicle of Philanthropy  
 1255 23rd St., N.W.  
 Washington, D.C. 20037  
-[phil.semas@chronicle.com](mailto:phil.semas@chronicle.com)
+[stacy.palmer@philanthropy.com](mailto:stacy.palmer@philanthropy.com)
 
 Or see our complete information on [contacting _The Chronicle._](https://web.archive.org/about/email.htm)
 
 * * *
 
-[Copyright](https://web.archive.org/about/copyright.htm) © 2003 The Chronicle of Philanthropy
+[Copyright](https://web.archive.org/about/copyright.htm) © 2005 [The Chronicle of Philanthropy](https://web.archive.org/)
