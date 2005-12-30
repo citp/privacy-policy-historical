@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregon.gov privacy policy that was archived on 2005-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050524235909id_/http%3A//www.oregon.gov/DAS/IRMD/EGOV/termsconditions.shtml%23Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregon.gov privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230023330id_/http%3A//www.oregon.gov/DAS/IRMD/EGOV/termsconditions.shtml%23Privacy_Statement) for the most accurate reproduction.*
 
 # E-Government Privacy and Terms and Conditions
 
@@ -12,30 +12,24 @@ Information Collected When You Just Browse
 
   If you do nothing during your visit to this web site but browse or download information, we automatically collect and store the standard data collected by all web server software. That information is as follows:
 
-  1\. The Internet Protocol (IP) address and domain name used (but not the e-mail address). The IP address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet IP to respond to your browser request.  Example: 122.125.36.42;
+  1. The Internet Protocol (IP) address and domain name used (but not the e-mail address). The IP address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet IP to respond to your browser request.  Example: 122.125.36.42; 
+  2. The Domain domain name (DNS) assigned on the Internet to your IP Address (if there is one).  Example:   somename.com; 
+  3. The type of browser and operating system you used.  Example:  Mozilla/4.0 (compatible; MSIE 4.01; Windows NT; IE4WDUS-1998101501); 
+  4. The date and time you visited this site; 
+  5. The web pages or services you accessed at this site; and 
+  6. The web site you visited prior to coming to this web site. (Note: this is included so that summary analysis can be done on how visitors get to your site, i.e., from a search engine, from a link on another site, etc.) 
 
-  2\. The Domain domain name (DNS) assigned on the Internet to your IP Address (if there is one).  Example:   somename.com;
-
-  3.The type of browser and operating system you used.  Example:  Mozilla/4.0 (compatible; MSIE 4.01; Windows NT; IE4WDUS-1998101501);
-
-  4\. The date and time you visited this site;
-
-  5\. The web pages or services you accessed at this site; and
-
-  6\. The web site you visited prior to coming to this web site. (Note: this is included so that summary analysis can be done on how visitors get to your site, i.e., from a search engine, from a link on another site, etc.)
-
-  We do not track individual user navigation choices. We do, however, summarize the information listed above to determine:
-
-  * what organizations are our most frequent users (item 2 above) to better target our content for the audience. 
-  * what browsers are being used on our site to determine what techniques we can use to develop pages that will work with different browsers (item 3 above). 
-  * how often our pages are being used (item 5 above). 
-  * by the traffic from organization names such things as the search engines that are good at directing people to the site (item 6 above) 
+   
+We do not track individual user navigation choices. We do, however, summarize the information listed above to determine:  
 
 
+  * what organizations are our most frequent users (item 2 above) to better target our content for the audience.
+  * what browsers are being used on our site to determine what techniques we can use to develop pages that will work with different browsers (item 3 above).
+  * how often our pages are being used (item 5 above).
+  * by the traffic from organization names such things as the search engines that are good at directing people to the site (item 6 above)
 
 For site security purposes and to ensure that this service remains available to all users, this site may monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. If security monitoring reveals evidence of possible abuse or criminal activity, system personnel may provide the results of such monitoring to appropriate officials. Except for authorized law enforcement investigations no attempts are made to identify individual users or their usage habits. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the state law and federal statutes including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.
 
-  
 Public Disclosure
 
   All information collected at this site becomes a public record unless an exemption in law exists. ORS Chapter 192 contains the Oregon Public Records Law. and other program specific ORS's and OAR's.
