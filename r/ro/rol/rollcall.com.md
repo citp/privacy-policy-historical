@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rollcall.com privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422173311id_/http%3A//www.rollcall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollcall.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230012829id_/http%3A//rollcall.com/privacy) for the most accurate reproduction.*
 
-# Roll Call Newspaper Online || Privacy Policy
+# Privacy Policy
 
 Roll Call Incorporated is committed to protecting the privacy of rollcall.com and rcjobs.com subscribers. This statement outlines our privacy and data protection policy.  
 
@@ -52,7 +52,7 @@ Occasions will arise when customer information is passed outside Roll Call to ot
 
 Transfer of Personal Data Overseas
 
-Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing rollcall.com and communicating electronically with us you acknowledge and agree to our processing of personal data in this way.
+The Internet is a global environment. Using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis, **both within and outside the European Economic Area.** Therefore, by browsing the rollcall.com sites and communicating electronically with us you acknowledge and agree to our processing of personal data in this way. **By agreeing to our transfer of your data to third party organizations for them to send you details of products and services offered (as detailed above) you are deemed to provide your consent to any transfer of your data to organizations based outside the European Economic Area.**
 
 Updating Customer Details
 
