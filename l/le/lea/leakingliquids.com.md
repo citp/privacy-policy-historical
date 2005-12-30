@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leakingliquids.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525105405id_/http%3A//www.leakingliquids.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leakingliquids.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230013803id_/http%3A//www.leakingliquids.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
