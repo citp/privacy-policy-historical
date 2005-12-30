@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsoccer.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308132833id_/http%3A//worldsoccer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsoccer.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230180032id_/http%3A//www.worldsoccer.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - World Soccer - The leading authority on international football
 
@@ -27,8 +27,5 @@ All rights reserved.
 
 ### Advertisements
 
-[](http://www.soccer-books.co.uk/wsindex.html)   
-
-
-### Poll: Who will win the UEFA Champions League?  
+### Poll: Roman Abramovich's millions: Good for the game?  
 
