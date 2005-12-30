@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the guideline.gov privacy policy that was archived on 2004-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041112094134id_/http%3A//www.guideline.gov/about/about_cookie.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guideline.gov privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230042403id_/http%3A//www.guideline.gov/about/about_cookie.aspx) for the most accurate reproduction.*
 
 # NGC - About - Cookie Policy
 
-[About](https://web.archive.org/web/20041112094134id_/http%3A//www.guideline.gov/about/about.aspx) > Cookie Policy 
+[About](https://web.archive.org/web/20051230042403id_/http%3A//www.guideline.gov/about/about.aspx) > Cookie Policy 
 
 ## National Guideline Clearinghouse™ (NGC) Privacy Notice and Policy Statement on Cookies
 
 ### Information Automatically Collected and Stored
 
-When you visit any Web site, search content, read pages, browse or download information, certain information about your visit can be collected. The National Guideline Clearinghouse™ (NGC™), sponsored by the Agency for Healthcare Research and Quality (AHRQ), U.S. Department of Health and Human Services, automatically collects and temporarily stores the following information about your visit, but this information does not identify you personally: 
+When you visit any Web site, search content, read pages, browse or download information, certain information about your visit can be collected. The National Guideline Clearinghouse™ (NGC), sponsored by the Agency for Healthcare Research and Quality (AHRQ), U.S. Department of Health and Human Services, automatically collects and temporarily stores the following information about your visit, but this information does not identify you personally: 
 
   * The name of the domain you use to access the Internet (for example, aol.com, if you are using an America Online account, or stanford.edu, if you are connecting from Stanford University's domain).
   * The type of browser and operating system you use to access our site.
