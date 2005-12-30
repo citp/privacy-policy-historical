@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrblock.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405173224id_/http%3A//www.hrblock.com/universal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrblock.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230214028id_/http%3A//www.hrblock.com/universal/privacy_policy.html) for the most accurate reproduction.*
 
 # H&R Block Privacy Policy
 
