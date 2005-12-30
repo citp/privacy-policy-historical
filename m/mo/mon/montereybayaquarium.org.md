@@ -1,14 +1,37 @@
-> *The following text is extracted and transformed from the montereybayaquarium.org privacy policy that was archived on 2004-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040201205320id_/http%3A//montereybayaquarium.org/sg/sg_policies.asp%23children) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montereybayaquarium.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230112244id_/http%3A//www.montereybayaquarium.org/sg/sg_policies.asp%23children) for the most accurate reproduction.*
 
-# Monterey Bay Aquarium: Web Site Info - Privacy Policy
+# Monterey Bay Aquarium: Web Site Info/Help - Privacy Policy
 
-Learn About our Privacy Policy The Monterey Bay Aquarium is dedicated to protecting your privacy as you use our web site. Our policy is that no personal information will be collected about you unless you choose to provide it and that any personal information which you provide us will be safeguarded and not shared with others for any reason.
+|   
+[About Us Home](https://web.archive.org/aa/ "About Us Home")
 
-If during your visit to our site you only browse, read pages or download material, we can not collect any information that will identify you personally, or determine your e-mail address. Our Web server automatically recognizes the domain name and Internet Protocol (IP) address of each visitor to our site. An IP address is a code that identifies a particular computer on the Internet. Every computer or network that's connected to the Internet has an IP address. 
+[Aquarium Facts & History](https://web.archive.org/aa/aa_history/aa_faq.aspx "Aquarium Facts & History")
 
-Like most major sites, we collect and analyze that information to help us improve the site for our visitors. This helps us determine which pages you visit, how long you stay and the site you visited immediately beforehand. Your IP address is used to help identify your computer and your shopping cart and to gather broad demographic information. 
+[Pressroom](https://web.archive.org/aa/pressroom.asp "Pressroom")
 
-We provide forms and links in places throughout the site for you to send comments and ideas, to ask for more information and to report problems you may experience on our site. Even if you e- mail us through one of our response forms on the site, we cannot determine your e-mail address unless you include it in your response. With your permission, we may wish to post your comments on our site. We will not identify you personally, only by first name or initials, and certainly will not disclose your e-mail address.
+[Job Opportunities](https://web.archive.org/aa/aa_jobs/aa_jobs_staff.asp "Job Opportunities")
+
+[Volunteer Opportunities](https://web.archive.org/aa/aa_jobs/aa_jobs_volunteer.asp "Volunteer Opportunities")
+
+[Web Site Info/Help](https://web.archive.org/sg/sg_about.asp "Web Site Info/Help")
+
+  * [Site Map](https://web.archive.org/sg/sg_help.asp "Site Map")
+  * [Search](https://web.archive.org/cgi-bin/texis.exe/Webinator/searchMBA "Search")
+  * [Mailroom/Contact Us](https://web.archive.org/sg/sg_fb_mailroom.asp "Mailroom/Contact Us")
+  * [Video/Cam Help](https://web.archive.org/sg/sg_qt_help.asp "Video/Cam Help")
+  * [Browsers & Plugins](https://web.archive.org/sg/sg_gear.asp "Browsers & Plugins")
+  * [Terms of Use](https://web.archive.org/sg/sg_copyright.asp "Terms of Use")
+  * Privacy Policy
+
+  
+|  |  |   
+The Monterey Bay Aquarium is dedicated to protecting your privacy as you use our web site. Our policy is that no personal information will be collected about you unless you choose to provide it and that any personal information which you provide us will be safeguarded and not shared with others for any reason.
+
+If during your visit to our site you only browse, read pages or download material, we can not collect any information that will identify you personally, or determine your e-mail address. Our Web server automatically recognizes the domain name and Internet Protocol (IP) address of each visitor to our site. An IP address is a code that identifies a particular computer on the Internet. Every computer or network that's connected to the Internet has an IP address.
+
+Like most major sites, we collect and analyze that information to help us improve the site for our visitors. This helps us determine which pages you visit, how long you stay and the site you visited immediately beforehand. Your IP address is used to help identify your computer and your shopping cart and to gather broad demographic information.
+
+We provide forms and links in places throughout the site for you to send comments and ideas, to ask for more information and to report problems you may experience on our site. Even if you e-mail us through one of our response forms on the site, we cannot determine your e-mail address unless you include it in your response. With your permission, we may wish to post your comments on our site. We will not identify you personally, only by first name or initials, and certainly will not disclose your e-mail address.
 
 If you purchase goods through this site, you will be asked to provide personal and financial information so that we may process your order. Also, we use "cookies" (including one stored on your computer) to keep track of your shopping cart as you move through the store. Cookies are bits of information that allow our server to recognize your computer. We also use cookies to learn from your visits how you move through the site so that we may continue to improve your Monterey Bay Aquarium web site experience. We safeguard this information and do not share it with others for any reason.
 
@@ -20,22 +43,28 @@ This Monterey Bay Aquarium web site will contain interactive programs in which y
 
 Our site contains links to other sites. Please remember that our privacy policy does not apply to other sites and that we cannot be responsible for their privacy policies, if any. 
 
-We offer our visitors the option to have their personal information deleted from our database or to stop receiving communications from us. You may do this by sending us an e-mail at [equarist@mbayaq.org.](mailto:equarist@mbayaq.org)
+We offer our visitors the option to have their personal information deleted from our database or to stop receiving communications from us. You may do this by sending us an e-mail at [equarist@mbayaq.org](mailto:equarist@mbayaq.org "equarist@mbayaq.org"). 
 
-  
+#### Privacy of Children
+
 At the Monterey Bay Aquarium, we are especially concerned with protecting the privacy of children who visit our site. We fully support and are in compliance with the Children's Online Privacy Protection Act, even though it does not apply to non-profit organizations like ours.
 
 Please note the following:
 
-| | We collect personal information from children only to be able to furnish information regarding participation in programs like the Student Oceanography Club.  
----|---  
-| We do not ask children for other information, and we never share the information we collect with anyone outside of the Monterey Bay Aquarium.  
-| If you or your child is under age 13, the consent of a parent is required before we will collect or use any personal information.  
-| At any time, a parent may review the child's personal information, ask us to delete it, and refuse to allow any further collection or use of information from the child.  
-  
+  * We collect personal information from children only to be able to furnish information regarding participation in programs like the Student Oceanography Club.
+  * We do not ask children for other information, and we never share the information we collect with anyone outside of the Monterey Bay Aquarium.
+  * If you or your child is under age 13, the consent of a parent is required before we will collect or use any personal information.
+  * At any time, a parent may review the child's personal information, ask us to delete it, and refuse to allow any further collection or use of information from the child.
+
   
 You may consent to our collection of personal information from your child by sending us an e-mail identifying yourself and your child and authorizing us to collect personal information from the child. You can also reach us at Monterey Bay Aquarium, 886 Cannery Row, Monterey, California USA 93940, telephone: (831) 648-4800.
 
 Please remember that no one can guarantee the complete security of information transmitted over the Internet. Therefore, you should be careful about the personal information which you provide to us or any other site. Rest assured that we will do everything we can to safeguard your information.
 
 If you have any questions about this privacy policy or your dealings with this site, please contact us at equarist@mbayaq.org.
+
+  
+|   
+  
+Monterey Bay Aquarium, 886 Cannery Row, Monterey, CA 93940 Tel: (831) 648-4800  
+© 1999-2005, [Monterey Bay Aquarium Foundation](https://web.archive.org/sg/sg_copyright.asp "Monterey Bay Aquarium Foundation") | [Privacy Policy](https://web.archive.org/sg/sg_policies.asp "Privacy Policy") | [Site Map](https://web.archive.org/sg/sg_help.asp "Site Map") | [Home](https://web.archive.org/default.asp "Home")
