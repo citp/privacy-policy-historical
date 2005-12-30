@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samuelfrench.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205144303id_/http%3A//www.samuelfrench.com/store/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samuelfrench.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230123642id_/http%3A//www.samuelfrench.com/store/privacy.php) for the most accurate reproduction.*
 
-# Samuel French, Inc.
+# Samuel French, Inc. The House of Plays & Musical Plays for 175 Years
 
 Our Commitment To Privacy Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -47,4 +47,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 ###  How To Contact Us:
 
 Should you have other questions or concerns about these privacy policies, please call us at Hollywood: (323) 876-0570;  
-New York: (212) 204-8990 or send us an email at info@samuelfrench.com. 
+New York: (212) 206-8990 or send us an email at info@samuelfrench.com. 
