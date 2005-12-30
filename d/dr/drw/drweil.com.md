@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drweil.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305124652id_/http%3A//www.drweil.com/u/Page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drweil.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230104150id_/http%3A//www.drweil.com/u/Page/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 
 Weil Lifestyle, LLC, an Arizona limited liability company which owns and operates the www.DrWeil.com web site, cares about the privacy of each user of our web site. This confirms that Weil Lifestyle, LLC, is a licensee of the TRUSTe Privacy Program.  This privacy statement discloses the privacy practices for the www.DrWeil.com Web site.
 
-If you have any questions or concerns regarding this statement, you should first contact [webmaster@DrWeil.com.](mailto:webmaster@DrWeil.com) You can also contact us via regular mail at: Weil Lifestyle, LLC, 3104 East Camelback Road, #758, Phoenix, Arizona 85016. 
+If you have any questions or concerns regarding this statement, you should first contact [webmaster@DrWeil.com.](mailto:webmaster23@DrWeil.com) You can also contact us via regular mail at: Weil Lifestyle, LLC, 3104 East Camelback Road, #758, Phoenix, Arizona 85016. 
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
@@ -100,17 +100,17 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about the security of our web site, you can send an email to [ webmaster@DrWeil.com](mailto:webmaster@PolarisCustomPak.com)
+If you have any questions about the security of our web site, you can send an email to [ webmaster@DrWeil.com](mailto:webmaster23@PolarisCustomPak.com)
 
 We send all new members a welcoming email to verify their password and username.  Established members will occasionally receive information on products, services, special deals, and the e-bulletins.  Each user has the option to not receive these types of communications (see _Choice/Opt-Out_ below).
 
 Occasionally, it is necessary to send out service-related announcements.  For instance, if our service is temporarily suspended for maintenance, we might send you an email informing you of such service interruption.  Generally, users may not opt-out of receiving these service-related communications.  In addition, we communicate with our users on a regular basis to provide requested services and regarding issues relating to their account via email.
 
-If a user's personal information changes or if a user no longer desires our service, we will enable our users to correct, update or remove from our web site the personal data they provided to us.  Such changes can be made either through the member information page on our web site or by emailing our Webmaster at [ Webmaster@DrWeil.com](mailto:webmaster@drweil.com).
+If a user's personal information changes or if a user no longer desires our service, we will enable our users to correct, update or remove from our web site the personal data they provided to us.  Such changes can be made either through the member information page on our web site or by emailing our Webmaster at [ Webmaster@DrWeil.com](mailto:webmaster23@drweil.com).
 
 Our users are given the opportunity when registering with our web site to opt-out of having their information used for purposes not directly related to the provision of goods or services through our web site.  Our membership form has an opt-out mechanism so users purchasing a membership from us may elect to not have their email address added to our marketing and promotional address lists.
 
-Users who no longer wish to receive our e-bulletins or other marketing and promotional materials from us or our partners may opt-out of receiving these communications by replying to any such promotional email indicating your desire to no longer receive such emails or by emailing our Webmaster at [ Webmaster@DrWeil.com.](mailto:webmaster@DrWeil.com.%20)
+Users who no longer wish to receive our e-bulletins or other marketing and promotional materials from us or our partners may opt-out of receiving these communications by replying to any such promotional email indicating your desire to no longer receive such emails or by emailing our Webmaster at [ Webmaster@DrWeil.com.](mailto:webmaster23@DrWeil.com.%20)
 
 Users of our web site will be notified if, in connection with the use of a particular service on our web site, their information will be collected by any outside third-party.  At such time, the user can determine whether they wish to proceed with a service that will involve an outside party having access to their information. 
 
@@ -118,4 +118,4 @@ The www.DrWeil.com web site does not knowingly collect or use any personal infor
 
 Our privacy policy is subject to change.  In the event of any change, we will provide notice of such change on our web site.  If we want to use your personal information in a manner different from that stated to you at the time you provided such information to us, we will notify you of such change via email in addition to posting notification of such change on our web site.  At such time, you can determine whether you wish to allow us to use your information in this different manner.  If you have opted out of all communication with our web site or have deleted or deactivated your account with us, then you will not be contacted and your personal information will not be used. 
 
-**If you have any questions about this privacy policy or believe that the www.DrWeil.com web site is not abiding by our privacy policy, please contact our Webmaster by e-mail at[ Webmaster@drweil.com](mailto:webmaster@drweil.com).  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the "TRUSTe WatchDog Dispute Resolution Process" at [ http://truste.org/consumers/watchdog_complaint.php](http://truste.org/consumers/watchdog_complaint.php).  TRUSTe will serve as a liaison with the www.DrWeil.com web site to resolve your concerns.** This privacy policy was last updated January 11, 2005.
+**If you have any questions about this privacy policy or believe that the www.DrWeil.com web site is not abiding by our privacy policy, please contact our Webmaster by e-mail at[ Webmaster@drweil.com](mailto:webmaster23@drweil.com).  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the "TRUSTe WatchDog Dispute Resolution Process" at [ http://truste.org/consumers/watchdog_complaint.php](http://truste.org/consumers/watchdog_complaint.php).  TRUSTe will serve as a liaison with the www.DrWeil.com web site to resolve your concerns.** This privacy policy was last updated January 11, 2005.
