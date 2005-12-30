@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afajof.org privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527231013id_/http%3A//www.afajof.org/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afajof.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230194716id_/http%3A//www.afajof.org/site/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -12,7 +12,7 @@ Our postal address is:
 Oxford, OX4 2DQ  
 UK
 
-We can be reached via e-mail at [web_services@oxon.blackwellpublishing.com](mailto:web_services@oxon.blackwellpublishing.com) or you can reach us by telephone at +44 1865 776868 or fax at +44 1865 714591.
+We can be reached via e-mail at [webhelp@oxon.blackwellpublishing.com](mailto:webhelp@oxon.blackwellpublishing.com) or you can reach us by telephone at +44 1865 776868 or fax at +44 1865 714591.
 
 ## What information do we collect?
 
@@ -45,7 +45,9 @@ We do share statistical information with other organisations as part of our mark
 
 With respect to Ad Servers: we do not partner with or have special relationships with any ad server companies.
 
-Where there are links on our site to other sites, the content of those linked sites is not covered by this privacy policy. These other sites will have separate privacy and data collection practices. We do not have responsibility or liability for these independent policies.We may disclose information in special cases when we have reason to believe that disclosing this information is:
+Where there are links on our site to other sites, the content of those linked sites is not covered by this privacy policy. These other sites will have separate privacy and data collection practices. We do not have responsibility or liability for these independent policies.
+
+We may disclose information in special cases when we have reason to believe that disclosing this information is:
 
   * reasonably necessary to comply with the law
   * enforce or apply our terms of business
@@ -61,7 +63,7 @@ All the data we collect from you on our site is protected against unauthorised a
 
 You may edit the information we hold at any time by updating your account details when you log on.
 
-Your on-line information can be removed by emailing us at [web_services@oxon.blackwellpublishing.com](mailto:web_services@oxon.blackwellpublishing.com). Residual information will remain in our archive records.
+Your on-line information can be removed by emailing us at [webhelp@oxon.blackwellpublishing.com](mailto:webhelp@oxon.blackwellpublishing.com). Residual information will remain in our archive records.
 
 ## Your consent
 
