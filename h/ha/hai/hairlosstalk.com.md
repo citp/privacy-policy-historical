@@ -1,45 +1,6 @@
-> *The following text is extracted and transformed from the hairlosstalk.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217085356id_/http%3A//www.hairlosstalk.com/globaldocs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairlosstalk.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230115411id_/http%3A//www.hairlosstalk.com/globaldocs/privacy.htm) for the most accurate reproduction.*
 
 # HairlossTalk Privacy Policy
-
-  
-|   
----  
-|  |  |   
-|  |  |   
-  
-  
-  
-  
-  
----  
-|  | [Home](http://www.hairlosstalk.com/)  
-|   
-| [Start Researching »](http://www.hairlosstalk.com/research/)  
-| [What's New? »](http://www.hairlosstalk.com/newsletter/)  
-| [Product Reviews »](http://www.hairlosstalk.com/productreviews)  
-| [Discussion Forum](http://www.hairlosstalk.com/discussions/)  
-| [Photo Gallery](http://www.hairlosstalk.com/photogallery)  
-| [Video Webcasts!](http://hairlosstalk.healthology.com/focus_index.asp?f=hairloss)  
-| [Resource Library](http://www.hairlosstalk.com/resourcelibrary/)  
-| [Frequent Questions](http://www.hairlosstalk.com/faq/)  
-| [Online Chat »](http://www.hairlosstalk.com/onlinechat/)  
-| [Get your Products »](http://www.hairlosstalk.com/shop/catalog/default.php)  
-  
-  
-  
-  
----  
-|  | [Hair Loss in Men](http://www.hairlosstalk.com/research/men)  
-|   
-| [Hair Loss in Women](http://www.hairlosstalk.com/research/women/)  
-| [Cosmetic Options](http://www.hairlosstalk.com/cosmeticops/)  
-| [The Alopecia's](http://www.hairlosstalk.com/research/alopecias/)  
-| [Hair Replacement](http://www.hairlosstalk.com/hreplacement/)  
-| [Surgical Options](http://www.hairlosstalk.com/surgicalops/)  
-| [Product Center](http://www.hairlosstalk.com/shop/catalog/default.php)  
-  
-[](http://ad.doubleclick.net/jump/N733.hairlosstalk.com/B1283217.2;sz=120x600;ord=253753913096329570?)
 
 |  |  | **Hairloss Talk Privacy Policy**
 
@@ -48,6 +9,12 @@ HairlossTalk is committed to respecting and protecting your privacy. Should you 
 ---|---|---  
   
 Last updated: May 1, 2002
+
+Contacting us directly:
+
+HLT Group Inc.  
+PO Box 881712  
+San Diego, CA 92168
 
 First and foremost, it is important that you know that HairlossTalk has never, and will never give your email information to *any* third party whatsoever when filling out forms, joining our EMail notification lists, or any other similar communication. There are no exceptions to this. We are extremely adimant about this issue, and your privacy and security will always be 100% protected. 
 
@@ -82,7 +49,3 @@ Links to third party web sites on the site are provided solely as a convenience 
 HairlossTalk is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use strong security encryption when collecting or transferring sensitive data such as credit card information.
 
 HairlossTalk.com will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, HairlossTalk.com will notify you by placing prominent notice on the Web site.
-
-[Privacy Policy](http://www.hairlosstalk.com/globaldocs/privacy.htm) | [Advertising Policy](http://www.hairlosstalk.com/advertise/) | [Legal Disclaimer](http://www.hairlosstalk.com/globaldocs/legal.htm) | [Contact Us](http://www.hairlosstalk.com/contact/) | [Links](http://www.hairlosstalk.com/globaldocs/links.htm)  
-  
-Copyright © 1999-2002 HairlossTalk.com
