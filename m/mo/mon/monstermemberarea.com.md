@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstermemberarea.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207230451id_/http%3A//www.monstermemberarea.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstermemberarea.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230133321id_/http%3A//www.monstermemberarea.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -7,7 +7,7 @@ Privacy Policy Statement
 WebConexus Intermedia Limited, recognizes the importance of protecting the privacy of personal information about our customers. As such, this Privacy Policy applies to collection, use, storage and disclosure of information by WebConexus Intermedia Limited,
 
 Our postal address is:  
-WebConexus Intermedia Limited  
+Connexion Group Limited  
 2019 Edgely Road  
 Levittown, PA 19057  
 USA ****  
