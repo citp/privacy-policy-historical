@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423212210id_/http%3A//www.netiq.com/about_netIQ/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230075245id_/http%3A//www.netiq.com/about_netIQ/privacypolicy.asp) for the most accurate reproduction.*
 
 # NetIQ: Privacy Policy
 
@@ -10,23 +10,21 @@ NetIQ is committed to maintaining the trust and confidence of our customers and 
 
 Personal information means any information that may be used to identify you, such as, your name, title, phone number, email address, or mailing address.
 
-In general, you can browse our web site without giving us any personal information. We use our own product, [WebTrends 7 On Demand](https://web.archive.org/webtrends/products/webtrends/ondemand.asp), to analyze traffic to this web site in order to understand our customer's and visitor's needs and to continually improve our site for them. WebTrends 7 On Demand collects only anonymous, aggregate statistics. For example, we do not tie a specific visit to a specific IP address. For more information, see [Privacy Statement for Visitors to Sites Tracked by WebTrends 7 On Demand](https://ondemand.webtrends.com/privacypolicy.asp#PSFV).
+In general, you can browse our web site without giving us any personal information. We use [WebTrends 7 On Demand](http://www.webtrends.com/), to analyze traffic to this web site in order to understand our customer's and visitor's needs and to continually improve our site for them. WebTrends 7 On Demand collects only anonymous, aggregate statistics. For example, we do not tie a specific visit to a specific IP address. For more information, see [Privacy Statement for Visitors to Sites Tracked by WebTrends 7 On Demand](https://ondemand.webtrends.com/privacypolicy.asp#PSFV).
 
-If you want to subscribe to one of our newsletters, we ask you to simply provide your business email address. In that case, we use your email address only in connection with providing you the newsletter and for no other purpose.
+If you want to subscribe to one of our newsletters , we ask you to simply provide your business email address. In that case, we use your email address only in connection with providing you the newsletter and for no other purpose.
 
-Additional activities on our site require you to be registered — for example, to read a white paper, download a trial or register for an event. As part of the registration process, we ask you to create a myNetIQ account where we collect additional personal information. We use that information for several general purposes: to tell you about products, seminars and services if you so request; to fulfill your request; to contact you if we need to obtain or provide additional information; to verify the accuracy of our records; or to contact you regarding customer satisfaction surveys.
+Additional activities on our site require you to be registered - for example, to read a white paper, download a trial or register for an event. As part of the registration process, we ask you to create a myNetIQ account where we collect additional personal information. We use that information for several general purposes: to tell you about products, seminars and services if you so request; to fulfill your request; to contact you if we need to obtain or provide additional information; to verify the accuracy of our records; or to contact you regarding customer satisfaction surveys.
 
-Some activities require additional personal information besides your myNetIQ account. For example, to fulfill online orders for products, support, and training, we require you to enter credit card information, and you have the option to provide a separate shipping address.
+Some activities require additional personal information besides your myNetIQ account. For example, to fulfill online orders for products, support, and training, we require you to enter credit card information, and you have the option to provide a separate shipping address. 
 
 **Disclosure of Personal Information**
 
 In some instances we rely on our channel partners to fulfill product trials and information requests, and provide customers and prospective customers with information about NetIQ and its solutions. To do this, we may pass your information to them for that purpose only, and they are prohibited from using that information for any other purpose.
 
-NetIQ sometimes hires vendor companies to provide limited services on our behalf, including packaging, mailing and delivering items, sending postal mail, providing technical support, and processing event registrations. In addition, we may use third party information or technology in our products and disclose customer information to such third parties solely for the purposes of fulfillment, support, or audit by such third parties. NetIQ may also license/transfer or sell-off our technology to third parties, and in connection with such transitions, we may disclose customer data to the transferee.
+NetIQ sometimes hires vendor companies to provide limited services on our behalf, including packaging, mailing and delivering items, sending postal mail, providing technical support, and processing event registrations. In addition, we may use third party information or technology in our products and disclose customer information to such third parties solely for the purposes of fulfillment, support, or audit by such third parties. NetIQ may also license/transfer or sell-off our technology to third parties, and in connection with such transitions, we may disclose customer data to the transferee. Because NetIQ is a global company, your personal information may be shared with other NetIQ offices or subsidiaries in the U.S., Europe, and elsewhere. The data protection laws in these countries may be more or less extensive than laws in the country in which you are located. However, NetIQ and its offices and subsidiaries are governed by this Privacy Policy and will use your personal information only as set forth in this policy. At your request, we can provide you with data protection details of the countries relevant to you.
 
-Because NetIQ is a global company, your personal information may be shared with other NetIQ offices or subsidiaries in the U.S., Europe, and elsewhere. The data protection laws in these countries may be more or less extensive than laws in the country in which you are located. However, NetIQ and its offices and subsidiaries are governed by this Privacy Policy and will use your personal information only as set forth in this policy. At your request, we can provide you with data protection details of the countries relevant to you.
-
-By using our web site and providing us with your personal data, you consent to this transfer of your personal data.
+**By using our web site and providing us with your personal data, you consent to this transfer of your personal data.**
 
 NetIQ may also disclose your personal information if required to do so by law or in the good faith belief that such action is necessary in connection with a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of a business of NetIQ and/or its subsidiaries or to (1) conform to legal requirements or comply with legal process served on NetIQ or this web site; (2) protect and defend the rights or property of NetIQ and this web site; (3) enforce its agreements with you, or (4) act in urgent circumstances to protect personal safety or the public.
 
@@ -80,7 +78,7 @@ Please note that you cannot change the email address associated with your myNetI
 
 Accessing Your Personal Information
 
-You are entitled to access the personal information that we hold. Email your request to our Data Privacy Officer at [privacy@NetIQ.com](mailto:privacy@NetIQ.com). An administrative fee may be payable.
+You are entitled to access the personal information that we hold relating to you. Email your request to our Data Privacy Officer at [privacy@NetIQ.com](mailto:privacy@NetIQ.com). An administrative fee may be payable.
 
 **Your Consent**
 
@@ -88,4 +86,4 @@ By using our web site, you consent to the collection and use of the information 
 
 If you have any questions or concerns about our collection, use or disclosure of your personal information, please email our Data Privacy Officer at [privacy@NetIQ.com](mailto:privacy@NetIQ.com). For more information about this site or your visit, please email us at [webmaster@NetIQ.com](mailto:%20webmaster@NetIQ.com).
 
-This document was last updated September 20, 2004.
+This document was last updated April 29, 2005.
