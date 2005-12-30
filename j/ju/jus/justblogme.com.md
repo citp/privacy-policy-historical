@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justblogme.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207211715id_/http%3A//www.maddhattentertainment.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justblogme.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230092108id_/http%3A//www.maddhattentertainment.com/privacy.html) for the most accurate reproduction.*
 
 # MaDD HaTT Entertainments' privacy policy
 
