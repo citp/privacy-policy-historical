@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405233020id_/http%3A//www.mbna.com/direct/home_nav_foot_privacy_r.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230035312id_/http%3A//www.mbna.com/privacy.html) for the most accurate reproduction.*
 
-# MBNA.com - MBNA.com Privacy
+# MBNA.com - Privacy
 
-|   
+The privacy portion of our Web site is divided into two parts. The first part contains MBNA's privacy notice complying with the Gramm-Leach-Bliley Act and federal regulations governing the privacy of financial information applicable to individual consumers. The second part contains a description of our Internet privacy practices applicable to all Internet users.
 
-
-The privacy portion of our Web site is divided into two parts. The first part contains MBNA’s privacy notice complying with the Gramm-Leach-Bliley Act and federal regulations governing the privacy of financial information applicable to individual consumers. The second part contains a description of our Internet privacy practices applicable to all Internet users.
-
-MBNA is the world’s largest independent credit card issuer. Our financial products and services are endorsed by thousands of organizations and financial institutions. We back our financial products and services with top quality service. Collecting and sharing information about you helps us do this. This notice explains MBNA’s information collection and sharing practices and lets you choose whether MBNA may share certain information about you.
+**Important Information About Your Financial Privacy**  
+MBNA is the world's largest independent credit card issuer. Our financial products and services are endorsed by thousands of organizations and financial institutions. We back our financial products and services with top quality service. Collecting and sharing information about you helps us do this. This notice explains MBNA's information collection and sharing practices and lets you choose whether MBNA may share certain information about you.
 
 This notice describes the privacy practices of MBNA Corporation and all its affiliates, including:
 
@@ -19,7 +17,7 @@ This notice describes the privacy practices of MBNA Corporation and all its affi
 
 
 
-(We’ll refer to these collectively as “MBNA”), for financial products and services governed by the laws of the United States of America.
+(We'll refer to these collectively as "MBNA"), for financial products and services governed by the laws of the United States of America.
 
 **Our Security Procedures Protect Your Information**
 
@@ -38,7 +36,7 @@ Our practices and procedures meet federal standards. Further, we share only the 
 We collect information about you to conduct our business and deliver the top quality service you expect. Sources include:
 
   * Information we receive from you.
-  * Information we receive from third parties, such as consumer reporting agencies, to verify statements you’ve made to us, or regarding your employment, credit, or other relationships.
+  * Information we receive from third parties, such as consumer reporting agencies, to verify statements you've made to us, or regarding your employment, credit, or other relationships.
   * Information about your transactions with MBNA and with other companies.
 
 
@@ -54,11 +52,11 @@ We may share all the information we collect within MBNA. For example, we may sha
 
 
 
-You may tell us not to share credit eligibility information about you within MBNA, as explained below in the section captioned, “ ** _Information Sharing: It’s Your Choice._** ” Your choice will not affect the sharing of identification and transaction and experience information.
+You may tell us not to share credit eligibility information about you within MBNA, as explained below in the section captioned, _" **Information Sharing: It's Your Choice.** "_ Your choice will not affect the sharing of identification and transaction and experience information.
 
 **Information Shared Outside of MBNA**
 
-We may share all the information we collect with the following types of companies outside of MBNA:
+We may share all the information we collect with the following types of companies outside of MBNA: 
 
   * Financial service companies (like banks, insurance companies, securities broker-dealers, and organizations with which we have joint marketing agreements);
   * Non-financial companies (like retailers, direct marketers, communications companies, travel companies, and organizations endorsing MBNA);
@@ -69,7 +67,7 @@ We may share all the information we collect with the following types of companie
 
 We may also share all of the information we collect with companies outside of MBNA as permitted by law.
 
-You may tell us not to share information about you with companies outside of MBNA, as explained below in the section captioned, “ ** _Information Sharing: It’s Your Choice_**.” Your choice will not affect sharing with:
+You may tell us not to share information about you with companies outside of MBNA, as explained below in the section captioned, _" **Information Sharing: It's Your Choice.** "_ Your choice will not affect sharing with:
 
   * Companies performing marketing or other services for us;
   * Other financial institutions under joint marketing agreements;
@@ -79,12 +77,9 @@ You may tell us not to share information about you with companies outside of MBN
 
 
 
-**Information Sharing: It’s Your Choice**
+**Information Sharing: It's Your Choice**
 
 We respect your choices related to privacy. You may tell us not to share credit eligibility information within MBNA and not to share information with companies outside of MBNA as described above. **If you wish to opt out of such information sharing, please call our toll-free automated response line at 1-866-751-1255.** We will ask you to verify your identity and the specific accounts to which your opt out applies. Please have your account or reference numbers available when you call. For deposit accounts, please have your Social Security number or Taxpayer Identification number available when you call.
-
-  
-
 
 MBNA applies opt outs at the account level, not by individual Customer. When any person listed on an account opts out, we opt out the entire account. This includes co-applicants, joint account holders, and authorized users. MBNA follows these privacy practices if an account is closed or becomes inactive.
 
@@ -92,19 +87,20 @@ Your opt out remains effective until revoked in writing. Federal law requires us
 
 **Important Information for Vermont Customers**
 
-The information sharing practices described above are in accordance with Federal law. Vermont law places additional limits on sharing information about Vermont residents so long as they remain residents of Vermont. In accordance with Vermont law, MBNA will not share information we collect about Vermont residents to companies outside of MBNA except: 
+The information sharing practices described above are in accordance with Federal law. Vermont law places additional limits on sharing information about Vermont residents so long as they remain residents of Vermont. In accordance with Vermont law, MBNA will not share information we collect about Vermont residents to companies outside of MBNA except:
 
   * As permitted by law;
   * To companies that perform marketing or other services on our behalf;
   * Name, contact and transaction and experience information (such as your account balance and payment history) to other financial institutions with which we have joint marketing agreements; or
   * With the authorization or consent of the Vermont resident.
 
-  
+
+
 MBNA will not share credit eligibility information about Vermont residents within MBNA except with the authorization or consent of the Vermont resident.
 
 **Updates and Additional Information**
 
-This notice replaces any previous notices from MBNA about the privacy, security, and protection of information. For additional information regarding our Internet privacy practices, and to view the current version of this privacy notice, go to www.mbna.com/privacy.html. You may have other privacy protections under state laws. We may amend this privacy notice at any time. We will inform you of changes as required by law.
+This notice replaces any previous notices from MBNA about the privacy, security, and protection of information. For additional information regarding our Internet privacy practices, and to view the current version of this privacy notice, go to http://www.mbna.com/privacy.html. You may have other privacy protections under state laws. We may amend this privacy notice at any time. We will inform you of changes as required by law.
 
 **Tips to Protect Your Information**
 
@@ -117,26 +113,30 @@ MBNA works hard to keep your information secure. You can help by following these
   * Check account statements carefully to ensure all charges, checks, or withdrawals are authorized.
   * Guard your mail from theft. Do not leave bill payment envelopes in your mailbox with the flag up. Instead, deposit them in a post office collection box or at the local post office. Promptly remove incoming mail.
   * Order copies of your credit report from each of the three major credit bureaus once a year to ensure they are accurate.
-  * If you believe you are a victim of identity theft take immediate action and keep records of your conversations and correspondence. While the steps you must take will vary with your individual circumstances, three basic actions are appropriate in almost every case: 
+  * If you believe you are a victim of identity theft take immediate action and keep records of your conversations and correspondence. While the steps you must take will vary with your individual circumstances, four basic actions are appropriate in almost every case:
+    * Contact the fraud departments of each of the three major credit bureaus:
+      * Equifax(www.equifax.com): 1-888-766-0008 / P.O. Box 740241, Atlanta, GA 30374-0241
+      * Experian(www.experian.com): 1-888-397-3742 /P.O. Box 9532, Allen, Texas 75013
+      * Trans Union(www.transunion.com): 1-800-680-7289 / P.O. Box 6790, Fullerton, CA 92834
     * Contact the creditors for any accounts that have been tampered with or opened fraudulently.
-    * Contact the fraud departments of each of the three major credit bureaus: 
-      * Equifax: 1-800-525-6285 / P.O. Box 740241, Atlanta, GA 30374-0241
-      * Experian: 1-888-397-3742 /P.O. Box 9532, Allen, Texas 75013
-      * Trans Union: 1-800-680-7289 / P.O. Box 6790, Fullerton, CA 92834
     * File a report with your local police or the police in the community where the identity theft took place and get a copy of the police report.
+    * File a complaint with the FTC. Complaints can be filed by phone 1-877-IDTHEFT or through the FTC's identity theft Web site at www.consumer.gov/idtheft.
+  * For more tips from Your Credit Card Companies to help protect you from theft and fraud, call 1-800-337-0590 or go to www.yourcreditcardcompanies.com.
 
 
 
 Although many consumers appreciate the convenience and customer service of direct marketing:
 
   * If you prefer not to receive pre-approved offers of credit, you can opt out of such offers by calling 1-888-5-OPT OUT.
-  * If you want to remove your name from many national direct mail lists, send your name and address to:
+  * If you want to remove your name from many national direct mail lists, send your name and address to: 
 
 DMA Mail Preference Service  
 P.O. Box 643  
 Carmel, NY 10512
 
-  * If you want to reduce the number of telephone solicitations from many national marketers, send your name, address and telephone number to:
+
+
+  * If you want to reduce the number of telephone solicitations from many national marketers, send your name, address and telephone number to: 
 
 DMA Telephone Preference Service  
 P.O. Box 1559  
@@ -144,8 +144,6 @@ Carmel, NY 10512
 
 
 
-
-From “ID Theft: When Bad Things Happen to Your Good Name”, Federal Trade Commission, November 2003
 
 **Internet Privacy Practices**
 
@@ -155,21 +153,21 @@ The MBNA Web servers automatically recognize and record the domain name from whi
 
 **E-mail Addresses**
 
-If you supply us with your e-mail address, we may let you know by e-mail about special marketing offers for products and services that may be of interest to you. This may include, but is not limited to, online services, deposit products, travel offers, and business cards. When we collect your e-mail address, and with each special marketing offer e-mail message we send, we will provide you with the opportunity to tell us that you do not wish to receive special marketing offer messages from us in the future. However, MBNA reserves the right to service your account and communicate with you through e-mail about your account. This may include, but is not limited to, activating your accounts, account past due notices, rates available for cash and balance transfers, adding an authorized user, and the online banking service.
+If you supply us with your e-mail address, we may let you know by e-mail about special marketing offers for products and services that may be of interest to you. This may include, but is not limited to, rates available for cash and balance transfers, online services, deposit products, travel offers, business cards and mortgages. When we collect your e-mail address, and with each special marketing offer e-mail message we send, we will provide you with the opportunity to tell us that you do not wish to receive special marketing offer messages from us in the future. However, MBNA reserves the right to service your account and communicate with you through e-mail about your account to the extent permitted by law. This may include, but is not limited to, activating your accounts, account past due notices, adding an authorized user, and the online banking service. If you updated your Net Access profile to opt-out of e-mail marketing offers, it may take up to 45 days to process your request.
 
 **Internet Security**
 
-MBNA uses encryption technology to protect certain information sent over the Internet. SSL is an encryption technology known as “Secure Sockets Layer”. SSL encrypts transmissions between two parties and verifies the Web site server you are communicating with. An “s” after the “http” in a Web site’s address indicates that you are attached to a secure server using SSL technology. Additionally, if your browser is Microsoft Internet Explorer 3.0, Netscape Navigator 4.0, or a higher version of either, a picture of a lock or a key should appear in the lower right hand corner of the browser’s window.
+MBNA uses encryption technology to protect certain information sent over the Internet. SSL is an encryption technology known as "Secure Sockets Layer". SSL encrypts transmissions between two parties and verifies the Web site server you are communicating with. An "s" after the "http" in a Web site's address indicates that you are attached to a secure server using SSL technology. Additionally, if your browser is Microsoft Internet Explorer 3.0, Netscape Navigator 4.0, or a higher version of either, a picture of a lock or a key should appear in the lower right hand corner of the browser's window.
 
 **Use of Cookies**
 
-Some MBNA Web sites may use a feature of your Internet browser called a cookie. Cookies are files placed within your browser on your computer’s hard drive by a Web site server. MBNA Web sites may use cookies to facilitate your Internet sessions, to maintain security and to improve our Web sites. For example, MBNA uses cookies to verify your identity, remember your personal settings such as your offer preferences, and to monitor your use of MBNA Web sites to improve our services. If you choose not to enable cookies on your browser, you will not be able to use some of the services offered on MBNA’s Web sites.
+Some MBNA Web sites may use a feature of your Internet browser called a cookie. Cookies are files placed within your browser on your computer's hard drive by a Web site server. MBNA Web sites may use cookies to facilitate your Internet sessions, to maintain security and to improve our Web sites. For example, MBNA uses cookies to verify your identity, remember your personal settings such as your offer preferences, and to monitor your use of MBNA Web sites to improve our services. If you choose not to enable cookies on your browser, you will not be able to use some of the services offered on MBNA's Web sites.
 
 **Advertising Services**
 
-MBNA uses third party companies to serve ads on our Web site and other Web sites. These companies help MBNA execute, optimize, and measure the effectiveness of our online banner advertising programs. These companies use cookies and non-personally identifiable information (for example, information that does not include name, address, e-mail address or telephone number) about your visit to this and other Web sites to measure advertising effectiveness and to provide ads about goods and services that may interest you. If you would like to learn more about these practices, view the privacy notices of these third party companies, or opt out of their use of non-personally identifiable information, [ click here](https://web.archive.org/web/20050403154359id_/http://www.mbna.com/advertising_services.html).
+MBNA uses third party companies to serve ads on our Web site and other Web sites. These companies help MBNA execute, optimize, and measure the effectiveness of our online banner advertising programs. These companies use cookies and non-personally identifiable information (for example, information that does not include name, address, e-mail address or telephone number) about your visit to this and other Web sites to measure advertising effectiveness and to provide ads about goods and services that may interest you. If you would like to learn more about these practices, view the privacy notices of these third party companies, or opt out of their use of non-personally identifiable information, [click here](https://web.archive.org/web/20051230035312id_/http%3A//www.mbna.com/advertising_services.html).
 
-MBNA’s banner advertisements and online applications may contain small graphics with tags in them. These tags are not personally identifiable and work in conjunction with these cookies. These tags allow us to measure the effectiveness and response rates of our advertising.
+MBNA's banner advertisements and online applications may contain small graphics with tags in them. These tags are not personally identifiable and work in conjunction with these cookies. These tags allow us to measure the effectiveness and response rates of our advertising.
 
 **Children**
 
@@ -177,10 +175,6 @@ MBNA Web sites are not directed to children under age 13, and MBNA does not know
 
 **To Further Protect Your Privacy**
 
-While exploring the services offered through MBNA’s Web sites, please be aware that other online retailers, partners, third party Internet sites, and third party services accessible through MBNA’s Web sites, have separate privacy and data collection policies and practices, which are independent of and may be different from MBNA’s policies and practices. MBNA is not responsible or liable for these independent policies and practices and it is your responsibility to review them and decide whether or not they satisfactorily protect your rights.
+While exploring the services offered through MBNA's Web sites, please be aware that other online retailers, partners, third party Internet sites, and third party services accessible through MBNA's Web sites, have separate privacy and data collection policies and practices, which are independent of and may be different from MBNA's policies and practices. MBNA is not responsible or liable for these independent policies and practices and it is your responsibility to review them and decide whether or not they satisfactorily protect your rights.
 
-These Internet Privacy Practices were last updated September 16, 2004 and update and replace any previous Internet Privacy Practices from MBNA. We may amend these Internet Privacy Practices at any time, and when such a change is made we will post a revised version on this MBNA Web site. Changes will be effective when they are posted. It is your responsibility to review these Internet Privacy Practices from time to time to be aware of any such changes. Your continued use of this MBNA Web site indicates your agreement to any such changes.
-
-|  |   
-  
----|---|---|---
+These Internet Privacy Practices were last updated August 22, 2005 and update and replace any previous Internet Privacy Practices from MBNA. We may amend these Internet Privacy Practices at any time, and when such a change is made we will post a revised version on this MBNA Web site. Changes will be effective when they are posted. It is your responsibility to review these Internet Privacy Practices from time to time to be aware of any such changes. Your continued use of this MBNA Web site indicates your agreement to any such changes.
