@@ -1,30 +1,56 @@
-> *The following text is extracted and transformed from the csrwire.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305223146id_/http%3A//www.csrwire.com/page.cgi/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csrwire.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230180528id_/http%3A//csrwire.com/page.cgi/privacy.html) for the most accurate reproduction.*
 
-# CSRwire.com -- Corporate Social Responsibility Newswire -- Press Release Forms
+# CSRwire.com -- Corporate Social Responsibility Newswire
+
+|  | The leading source of corporate responsibility and sustainability, press releases, reports and news. 
+
+| 
+
+Keyword search:   
+  
+---  
+|   
+  
+Sector search:   
+  
+|   
+  
+Company search:   
+  
+|   
+  
+CSR issue search:   
+  
+|   
+  
+[](http://www.csrwire.com/signup.cgi)  
+---  
+[](http://www.csrwire.com/page.cgi/form-pr.html)  
+[](http://www.csrwire.com/page.cgi/distribution.html)  
+[](http://www.csrwire.com/page.cgi/partners.html)  
+[](http://www.csrwire.com/page.cgi/members.html)  
+[](http://www.csrwire.com/directory/)  
+[](http://www.sustainablebusiness.com/jobs/csrwire_jobs.cfm)  
+[](http://www.ethicalcorp.com/)  
+[](http://www.csrwire.com/page.cgi/about.html)  
+[](http://www.meadowbrooklane.com/)  
+  
+  | 
 
 **Privacy Statement for CSRwire.com**
 
-CSRwire.com has established a privacy statement in order to demonstrate our firm commitment to protecting your privacy. Like most sites, we gather information about our users and feel you should have the opportunity to understand the terms and conditions surrounding the acquisition and use of that information. 
+As a condition for using the CSRwire.com, web site, and any of the links to other web sites that it contains, you expressly accept, without limitation or modification, the following conditions, terms, and notices: 
 
-**Information gathered at our site**
-
-**Cookies:** Our site uses cookies for a number of purposes. Cookies are used to make sure you don't see the same ad repeatedly. Cookies are also used to save your password, which allows registered users to move in and out of password protected areas without having to re-enter your password each time. Users have to option to disable their cookies and still navigate our site, with the exception of password protected areas. We use your IP address to help diagnose problems with our server and to administer our web site. We do not link the IP address with any personal information collected at our site. 
-
-**Request Information Form:** These forms allow visitors to request information from selected companies or organizations. We collect the visitor's contact information (name, address, and email address). We use this information to send the requested information or prospectus. SRI World Group does not share the contact information with any third parties. 
-
-**Newsletter Registration Form:** This form allows visitors to subscribe to our free mutual fund newsletter. Subscribers must provide their contact information (name, address, email address), enter a username and password, tell us how they learned about our site, and may request Update Notifications. We use contact information to send subscribers a mutual funds kit, if requested. SRI World Group also provides this information to the sponsoring companies under the condition that the information can only be used by the company or its representatives and cannot be shared or sold with any third parties. SRI World Group is not responsible for the privacy practices of the sponsoring companies. Email addresses are used to send Update Notifications or Product/Service Announcements, if requested. We do not share email addresses with any third parties. 
-
-**Links**  
-This site contains links to other sites. SRI World Group is not responsible for the privacy practices or content of such web sites. 
-
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Passwords are encrypted in our database. 
-
-**Public Forums**  
-This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-**Correct/Update**  
-This site offers users the ability to correct or update information previously collected during registration. Users may change this information at any time and as often as necessary by visiting the updates page. 
-
-**Contacting us**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please email us at [support@csrwire.com](mailto:support@csrwire.com)
+> CSRwire.com has established a privacy statement in order to demonstrate our firm commitment to protecting your privacy. Like most sites, we gather information about our users and feel you should have the opportunity to understand the terms and conditions surrounding the acquisition and use of that information. 
+> 
+> **Information gathered at our site**
+> 
+> **Cookies:** Our site may use cookies for a number of purposes. Cookies are used to make sure you don't see the same ad repeatedly. Cookies are also used to save your password, which allows registered users to move in and out of password protected areas without having to re-enter your password each time. Users have to option to disable their cookies and still navigate our site, with the exception of password protected areas. We use your IP address to help diagnose problems with our server and to administer our web site. We do not link the IP address with any personal information collected at our site. 
+> 
+> **Forms:** Forms on CSRwire.com allow visitors to subscribe to our weekly News Alert, enter drawings, apply for membership or press release submission and billing privileges. Visitors may be asked to provide their contact information (name, address, email address), enter a username and password, provide billing information and tell us how they learned about our site. We use contact information to send subscribers the News Alert, if requested, create new member accounts and may also provides this information to the sponsoring companies under the condition that the information can only be used by the company or its representatives and cannot be shared or sold with any third parties. CSRwire, LLC is not responsible for the privacy practices of the sponsoring companies. CSRwire may use e-mail addresses to contact subscribers for information specific to CSRwire’s business. CSRwire does not share email addresses with any third parties. 
+> 
+> **Links:** This site contains links to other sites. CSRwire, LLC is not responsible for the privacy practices or content of such web sites. Security: This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Passwords are encrypted in our database. 
+> 
+> **Public Forums:** This site may make chat rooms or web logs available to its users. Please remember that any information that is disclosed in these areas becomes public information and caution should be exercised when disclosing personal information. 
+> 
+> **Contacting Us:** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please email us at [director@csrwire.com](mailto:director@csrwire.com)
