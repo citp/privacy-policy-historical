@@ -1,37 +1,26 @@
-> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616071419id_/http%3A//www.humanservices.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230114147id_/http%3A//www.humanservices.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Department of Human Services
 
-**Privacy note**
+When you look at this website, we keep a record of your visit and log the following information for statistical purposes - the user's server address, the date and time of visit to the site, the pages accessed and documents downloaded, the previous site visited, and the type of browser used. No attempt will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise its authority to inspect the Internet Service Provider's logs.
 
-The Department of Human Services provides the following privacy statement, in accordance with the Guidelines for Federal and ACT Government Web sites 
+This site uses cookies to remember options you have selected and displays those options again on next visit. These cookies do not store any personal information and do not allow us to track your usage of the site. You can use the site with cookies disabled.
 
-**Site visit data**
+We do not use any other means of tracking or identifying visitors to the site.
 
-Human Services does not use 'cookies' to collect data on its site. When visiting our site, our server notes the following information provided by your browser: 
+We will only record your email address if you send us a message or enter it into a form on our site. It will only be used for the purpose for which you have provided it. We will not use your email address for any other purpose, and will not disclose it, without your consent.
 
-  * the type of browser and operating system you are using 
-  * the address of the previous site you visited 
-  * your Internet Provider's server address 
-  * the date and time of your visit, and 
-  * what pages were accessed and documents downloaded 
+When you subscribe to a mailing list, we will only use your email address to send information on the topics you nominated. We will not use this information for any other purpose.
 
+You should be aware that information sent via the internet, especially if it is not encrypted, is not secure. You may wish to send secure information by other means, such as mail.
 
+For further information contact:
 
-This information is only used for statistical analysis or systems administration purposes to improve our online services. No attempt will be made to identify you or your browsing activities individually, except in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's logs. 
+**Marketing and Communication  
+Department of Human Services  
+** PO Box 3959  
+MANUKA ACT 2603  
+Fax: 02 6233 0289  
+Tel: 1300 55 44 79
 
-**Email management - collection of personal information**
-
-Human Services will only record your email address if you send us a message. Your email address will only be used for the purpose that you have provided it and will not be added to a mailing list. We will not use your email address for any other purpose and will not disclose it without your consent. 
-
-**Links to other sites**
-
-This site provides links to other related sites. Human Services is not responsible for the privacy practices or the content of such web sites. 
-
-Human Services does not warrant the security of any information supplied to Human Services through its web site. Further, Human Services does not warrant that any information supplied cannot be accessed by third parties outside of Human Services. 
-
-**Information accessibility**
-
-Human Services endeavours to make information available through its web site accessible to all users. If you are having difficulty accessing or reading information, please use the [Contact Us ](https://web.archive.org/web/20050616071419id_/http%3A//www.humanservices.gov.au/contact_us.htm) page to contact Human Services and we will attempt get the information to you in another form. 
-
-This content is valid until **22nd June, 2005**
+top
