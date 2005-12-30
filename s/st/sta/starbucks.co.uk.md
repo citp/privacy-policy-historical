@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the starbucks.co.uk privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308220946id_/http%3A//starbucks.co.uk/en-GB/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.co.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230143638id_/http%3A//starbucks.co.uk/en-GB/privacypolicy.htm) for the most accurate reproduction.*
 
 # privacypolicy
 
 Privacy Policy 
 
 (For **Terms of Use** [click here](http://starbucks.co.uk/en-GB/Terms+of+use.htm))
-
-**Last updated  November 2003**
 
 The Starbucks name and reputation were built on a foundation of trust. Therefore, this online privacy policy tells you about the information Starbucks collects through the services available on our web site, Starbucks.co.uk (the "Site"), how we use that information and how you can opt out of certain uses of information we may collect. By using our services and accessing our Site, you are consenting to the information collection and use practices described in this policy, as modified from time to time by us. If we decide to change our privacy policy, we will post a new policy on our Site and change the date at the top of the policy. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site for any updates or changes. Please see our Terms of Use for a more detailed legal explanation of our general online policies. 
 
