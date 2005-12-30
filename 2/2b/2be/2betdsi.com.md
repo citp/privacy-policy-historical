@@ -1,29 +1,19 @@
-> *The following text is extracted and transformed from the 2betdsi.com privacy policy that was archived on 2005-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050603082342id_/http%3A//www.2betdsi.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2betdsi.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230201929id_/http%3A//2betdsi.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Diamond Sportsbook Intl respects the privacy of visitors to our site.
+# None
 
-**Diamond Sportsbook Intl** respects the privacy of visitors to our site. Please read this Online Privacy Policy carefully so that you understand our privacy practices relating to information we gather through this Web site. 
+ Diamond Sportsbook Intl respects the privacy of visitors to our site. Please read this Online Privacy Policy carefully so that you understand our privacy practices relating to information we gather through this Web site. 
 
 **Protecting the Privacy of Children**  
 Diamond Sportsbook Intl does not market to children under the age of 18. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. If you're under 18, please don't visit DiamondSportsbook.com. 
 
 **The Information We Collect**  
-The information gathered by Diamondsportsbook.com generally falls into two categories: (1) information supplied by visitors to the site when they register or initiate transactions, and (2) tracking information gathered as visitors navigate through the Diamondsportsbook.com site. Third-party providers, whose sites are featured on and accessed via our site, may gather information as well. 
+The information gathered by Diamondsportsbook.com generally falls into two categories:   
+(1) information supplied by visitors to the site when they register or initiate transactions, and (2) tracking information gathered as visitors navigate through the Diamondsportsbook.com site. Third-party providers, whose sites are featured on and accessed via our site, may gather information as well. 
 
 The information you provide us during a visit to Diamondsportsbook.com helps us to improve the quality and utility of our site. The more information you share with us, the better we can serve your needs. 
 
 When you purchase services, we may request the following types of information: 
-
-  * Name 
-  * Shipping and/or billing address 
-  * Credit card number or account number 
-  * Phone or fax number 
-  * Email address 
-  * Date of birth 
-  * Social Security Number 
-  * Driver's license number 
-
-
 
 We may need this information to process your order. If we have trouble processing your order, the contact information you provide is used to get in touch with you. We also use this contact information to provide you with updates regarding your account and/or our service. 
 
@@ -42,7 +32,7 @@ To help us tailor our site to the needs and interests of our visitors, we keep t
 Our Web server automatically collects your IP address when you request pages from our server. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the Web pages you request) can be sent to you. We also collect information on the operating system you're running on your computer and the Web browser software you're using to access our site so we can optimize our site for the most popular operating systems and Web browsers. And, because we like to know how you found our site, we keep track of where you came from. 
 
 **Pop-up Surveys**  
->From time to time, we request information from users via pop-up surveys. Participation in these surveys is completely voluntary; if you don't want to provide the requested information, please don't respond to the survey. The information we gather through these surveys will be used to improve our site. 
+From time to time, we request information from users via pop-up surveys. Participation in these surveys is completely voluntary; if you don't want to provide the requested information, please don't respond to the survey. The information we gather through these surveys will be used to improve our site. 
 
 **Information Collected by Third Parties**  
 Of course, our site includes links to other Web sites, and provides access to products and services offered by third parties, whose privacy policies we don't control. When you access another Web site or purchase products or services or conduct other transactions through our Web site, use of any information you provide is governed by the privacy policy of the operator of the site you're visiting or the provider of such products or services. The provider's privacy practices may differ from ours. If you can't find the privacy policy of any of our provider partners via a link either from the site's page or from the pages on which the products or services are offered, you should contact the provider directly for more information. 
