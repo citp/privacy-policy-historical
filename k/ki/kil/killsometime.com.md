@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626000644id_/http%3A//www.killsometime.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230181735id_/http%3A//www.killsometime.com/Privacy.asp) for the most accurate reproduction.*
 
 # KillSomeTime.com - Privacy Statement
 
