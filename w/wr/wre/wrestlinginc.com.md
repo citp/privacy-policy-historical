@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404115723id_/http%3A//wrestlinginc.com/index.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230125914id_/http%3A//www.wrestlinginc.com/index.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - WrestlingInc.com
 
