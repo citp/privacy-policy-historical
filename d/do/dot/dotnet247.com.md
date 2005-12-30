@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotnet247.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611040856id_/http%3A//www.dotnet247.com/247reference/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnet247.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230095609id_/http%3A//www.dotnet247.com/247reference/privacy.aspx) for the most accurate reproduction.*
 
 # .NET 247
 
