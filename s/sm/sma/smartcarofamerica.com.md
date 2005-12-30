@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcarofamerica.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404012949id_/http%3A//www.smartcarofamerica.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcarofamerica.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230133449id_/http%3A//smartcarofamerica.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to Smart Car of America
 
@@ -6,10 +6,10 @@
 > Privacy Policy for SmartCar Of America.com**
 >> 
 >> **Privacy for Web Visitors.**  
->  One can visit our Web site with complete privacy. A Web site visitor can chose to provide customer-specific information by ordering a product or service, sending us e-mail or registering on a company Web site. Any information provided by a Web site visitor is held strictly confidential within the family of SmartCar Of America companies or its authorized agent and will not be sold to any other organization or business. 
+>  One can visit our Web site with complete privacy. A Web site visitor can chose to provide customer-specific information by ordering a product or service, sending us e-mail or registering on a company Web site. Any information provided by a Web site visitor is held strictly confidential within the family of SmartCar Of America companies or its authorized agent and will not be sold to any other organization or business.
 >> 
 >> **Privacy for Internet Service Subscribers.**  
->  SmartCar Of America's affiliated Internet companies and services - collect information from Internet subscribers or users as necessary to provide a better Internet experience. For example, Web servers automatically recognize an Internet user's domain name (such as .com, .edu, etc.), the Web page from which a visitor enters our site and how much time a visitor spends on a Web page. This information is used - to improve our Internet services and provide better useabilty to our customers. 
+>  SmartCar Of America's affiliated Internet companies and services - collect information from Internet subscribers or users as necessary to provide a better Internet experience. For example, Web servers automatically recognize an Internet user's domain name (such as .com, .edu, etc.), the Web page from which a visitor enters our site and how much time a visitor spends on a Web page. This information is used - to improve our Internet services and provide better useabilty to our customers.
 >> 
 >> **Types of Customer Information.**  
 >  On some Web pages users can order products, make requests or register to receive information. Such customer-specific information will be used to fulfill the specific request or purpose for which it was provided. In addition, such voluntarily provided information may be occasionally used to offer products and services that may be of interest. Internet users have a choice to "opt out" if they prefer not to receive this type of information.
