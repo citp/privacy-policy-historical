@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birdsandblooms.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418051138id_/http%3A//www.reimanpub.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdsandblooms.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230041759id_/http%3A//www.reimanpub.com/Revise/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# RP privacy policy
+# Reiman Publications Privacy Policy
 
 At Reiman Publications, we respect you and your choice to do business with us, both on-line and off. That’s why we’ve taken extra care to thoroughly explain what you can expect from us. The policy below applies to all Web sites owned and operated by Reiman Media Group, Inc. (collectively “Reiman Web sites”) unless otherwise indicated.
 
@@ -8,18 +8,15 @@ As a company, we strive to provide our customers with quality magazines, books a
 
 The following statement details our privacy policy in three parts:
 
-    
-
-• How and what information is collected 
-
-• How Reiman Publications uses customer information 
-
-• What customers can do to retain their privacy
-
-We urge you to carefully review this statement.  
+  * How and what information is collected
+  * How Reiman Publications uses customer information
+  * What customers can do to retain their privacy
 
 
-**Gathering information**
+
+We urge you to carefully review this statement.
+
+## Gathering information
 
 Every time you visit a Reiman Web site, our servers automatically recognize your ISP domain name, but not your e-mail address. This means our servers can identify “where” you’re from, but not “who” you are. We may compile aggregate statistics about Web site visitors, traffic patterns and related site information, but these statistics include no Personally Identifiable information.
 
@@ -27,10 +24,9 @@ Some functions and services offered through Reiman Web sites require that you pr
 
 On-line registration forms contain clearly identified checkboxes or buttons indicating that you may occasionally receive e-mail correspondence from Reiman Publications, our affiliates and partners or other third parties. If you do not wish to receive these e-mail messages, you can check the boxes or buttons that allow you to opt out. If you have already registered and wish to change your preferences or wish to correct information you provided to us, see the section below on Maintaining your personal privacy.
 
-**Important:** No Personally Identifiable information can be retrieved or captured by our Web site servers unless you volunteer it.  
+Important: No Personally Identifiable information can be retrieved or captured by our Web site servers unless you volunteer it.
 
-
-**Building a better business for you**
+## Building a better business for you
 
 The information we collect is used to improve the content of our Web sites, making it easier for you to enjoy your time on-line with us.
 
@@ -38,10 +34,9 @@ If you supply us with your postal address or e-mail address, you may receive per
 
 From time to time, your postal address or e-mail address may be made available to third parties. The categories of third parties we may share this information with include affiliates, partners, and any other reputable companies that we think may have a product or service you’d be interested in. However, you have the right to request that your name, postal address or e-mail address not be shared with any other business.
 
-It is our policy NOT to allow disclosure of your telephone number to outside individuals or companies for the sale of products not produced by Reiman Publications.  
+It is our policy NOT to allow disclosure of your telephone number to outside individuals or companies for the sale of products not produced by Reiman Publications.
 
-
-**Maintaining your personal privacy**
+## Maintaining your personal privacy
 
 If you do not wish to receive mailings or telephone calls from Reiman Publications, or if you wish to request that your name not be shared with other reputable companies, simply let us know by e-mailing subscriberservices@reimanpub.com or by calling toll-free, 1-800/344-6913.
 
@@ -57,12 +52,10 @@ If you registered to receive an e-mail newsletter or use an on-line bulletin boa
 
 Any questions regarding this privacy policy may be directed to Subscriber Services by mail at the above address, by calling 1-800/344-6913 or by e-mailing [subscriberservices@reimanpub.com](mailto:subscriberservices@reimanpub.com).
 
-If this policy is updated or changed, we will post a notice on the Reiman Publications home page ([www.reimanpub.com](http://www.reimanpub.com/)).   
+If this policy is updated or changed, we will post a notice on the Reiman Publications home page ([www.reimanpub.com](http://www.reimanpub.com/)).
 
-
-**About Your On-line Security...**
+## About Your On-line Security...
 
 Our servers use the best software available (Secure Sockets Layer protocol) for secure Internet transactions. When you place an on-line order, your information, such as a credit card number, is encrypted to prevent unauthorized access. This means that any information you send to Reiman Publications via the Internet is unreadable in transit. That makes ordering on-line through a secure connection one of the safest ways to shop!
 
-**This Privacy Policy was last updated on 7/29/04.**  
-
+This Privacy Policy was last updated on 7/29/04.
