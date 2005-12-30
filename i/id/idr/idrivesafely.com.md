@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204051213id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230180643id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
 
 # Defensive Driving Online Traffic School
 
@@ -28,7 +28,7 @@ We use IP addresses to analyze trends, administer the site, track customer's mov
 
 **Cookies**
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. For instance, by setting a cookie on our site, the user would not have to log in his or her driver's license, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. This will not limit the user from any portion of the site. For this purpose our persistent cookies are tied to personal information, but do not contain or expose your personal information to others. We accumulate and report anonymous, aggregate, statistical information on our web site usage to a third party vendor for website usage analysis, but this does not contain any personally identifiable information about you. 
+A cookie is a piece of data stored on the user's hard drive containing information about the user. For instance, by setting a cookie on our site, the user would not have to log in his or her driver's license, thereby saving time while on our site. In addition to our own cookies, some third party cookies may be set.  These cookies are for marketing and statistical analysis only, these third party data cookies do not contain any personal information.  If a user rejects any cookie, they may still use our site. This will not limit the user from any portion of the site. For this purpose our persistent cookies are tied to personal information, but do not contain or expose your personal information to others. We accumulate and report anonymous, aggregate, statistical information on our web site usage to a third party vendor for website usage analysis, but this does not contain any personally identifiable information about you. 
 
 **Security**
 
@@ -41,6 +41,14 @@ While we use SSL encryption to protect sensitive information online, we also do 
 **Special Notifications**
 
 I DRIVE SAFELY courses are designed to generate email notifications at certain intervals throughout the course. These emails are exclusively related to the products and services offered through **www.idrivesafely.com** , and may be in conjunction with services subscribed to by the customer. 
+
+**Information Requests**
+
+You have the option to receive a newsletter or special offers from I DRIVE SAFELY.  These are items related to I DRIVE SAFELY programs and products only.  By signing up, your email address is stored in our database so we may send you these items.  Each item sent by I DRIVE SAFELY will contain a link for unsubscribing, if you no longer wish to receive these items.
+
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  I DRIVE SAFELY stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  Your friend may contact us at **www.idrivesafely.com** to request that we remove this information from our database
+
+Any company wishing to do business with I DRIVE SAFELY has the options of requesting information.  The company may supply their information which is emailed to our sales department where we will contact the company further to offer programs and products specialized for their services.
 
 **Correcting/Updating Personal Information**
 
@@ -62,4 +70,4 @@ If, however, we are going to use users' personally identifiable information in a
 Solana Beach, CA 92075  
 858.724.0040
 
-"Privacy Policy effective July 7, 2004" 
+"Privacy Policy effective November 11, 2005" 
