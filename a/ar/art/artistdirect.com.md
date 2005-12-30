@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2005-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050217084058id_/http%3A//www.artistdirect.com/nad/misc/policy/0%2C%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230142410id_/http%3A//www.artistdirect.com/nad/misc/policy/0%2C%2C%2C00.html) for the most accurate reproduction.*
 
 # Free Music Download, MP3 Music, Music Chat, Music Video, Music CD, ARTISTdirect Network
 
@@ -41,6 +41,8 @@ We do not sell your personally identifiable information to third parties. Howeve
 We also may share your personally identifiable information with third parties who provide services to us in order to enhance the functionality available to you as part of the Sites. 
 
 We use the personal information we collect to communicate with you purchases, to deliver purchases, to notify you if you've won a prize for a contest that you've entered, or to be able to personalize a part of the site with the services and information you choose. If you choose to subscribe to our newsletter, we use your personal information to select and deliver messages to you. 
+
+We may use the personal information that you supply to us and work with other third party businesses to bring selected retail opportunities to our members via direct mail, email and telemarketing. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing. 
 
 ARTISTdirect uses aggregated information to sell and deliver advertising. We disclose aggregated information about our Site to third parties, including information regarding the effectiveness of our advertisers' advertisements. Some online activities necessarily lead to disclosure of your personally identifiable information to third parties, such as when you include your name and email address in an email to a third party or when you order merchandise in our Site's shopping areas. Remember, information you provide as part of your community Profile of preferences ([User Profiles](http://bbs.artistdirect.com/memberlist.php?s=)) is not confidential, and is accessible by the public. Similarly, any information you provide in chat rooms, message boards, or other public forums is not confidential and we may not remind you, so please keep this in mind if you're going to use these parts of our Site. Your choice to disclose personally identifiable information in such cases is up to you. 
 
@@ -103,5 +105,8 @@ _Customer Service
 ARTISTdirect, Inc.  
 10900 Wilshire Blvd., Suite 1400  
 Los Angeles, CA 90024  
-USA  
+USA
+
+revised as of 5/19/2005 
+
 _
