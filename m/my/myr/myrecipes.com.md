@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrecipes.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723195504id_/http%3A//www.myrecipes.com/products/shourplg.asp%3FHome%3Dfoot2.priv.HP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrecipes.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230191519id_/http%3A//www.myrecipes.com/products/shourplg.asp%3FHome%3Dfoot2.priv.HP) for the most accurate reproduction.*
 
 # Cooking.com - Pledge
 
@@ -17,17 +17,17 @@ Cooking.com respects your privacy. Our Internet site is meant to be a service to
 
 **Your personal information: what we collect and how we use it**
 
-*  **When you purchase products from a Cooking.com company** , we collect your name, address, telephone number, e-mail address and credit card information. First, we use this information to fulfill your order and to communicate with you about your order. In fulfilling your order, we share your personal information with outside parties to the extent necessary to fulfill your order. In addition,
+*  **When you enter personal information in to the Shopping Cart** , we collect your name, address, telephone number, e-mail address and credit card information. First, we use this information to fulfill your order and to communicate with you about your order. In fulfilling your order, we share your personal information with outside parties to the extent necessary to fulfill your order. In addition,
 
-**a. Your First Purchase from a Cooking.com company** \- We use the information you provide to: 
+**a. Your First Use of the Shopping Cart at Cooking.com** \- We use the information you provide to: 
 
-  * **automatically place you on our e-mail newsletter list** to receive e-mail newsletters with special offers and updates about products and services, unless you click the link to edit your subscription profile at the time your order is confirmed;
+  * **automatically place you on our e-mail list** to receive special offers and updates about products and services, unless you edit your subscription profile at the time your order is placed;
   * **automatically place you on our direct mail/catalog list** to receive from us direct mail and printed catalogs with special offers and updates about products and services; and
   * **make lists of our customers' names and postal addresses (but not e-mail addresses or phone numbers) available** to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you.
 
-**b. Your Subsequent Purchases from a Cooking.com company** \- If you have purchased a product from a Cooking.com company before, unless you click the link to edit your subscription profile at the time your order is confirmed, your subscription status will remain unchanged.
+**b. Your Subsequent Use of the Shopping Cart at Cooking.com** \- If you have purchased a product from a Cooking.com company before, unless you edit your subscription profile at the time your order is confirmed, your subscription status will remain unchanged.
 
-Whether you are making a first purchase or any subsequent purchase, if you later decide that you want to be removed from a list or do not want us to share your name and postal address information, simply follow the instructions in the section "Reviewing, Changing Your Information or Unsubscribing" below.
+Whether you are using the Shopping Cart for the first time or not, if you later decide that you want to be removed from a list or do not want us to share your name and postal address information, simply follow the instructions in the section "Reviewing, Changing Your Information or Unsubscribing" below.
 
 *  **When you send a gift** and want it sent directly to the recipient, you will need to submit the recipient's name and postal address. We use this information only to ship the product and confirm delivery. We do not share this information with outside parties except to the extent necessary to fulfill that order. Information you provide us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift.
 *  **When you request a catalog from a Cooking.com company** we collect your name and postal address. We use this information to send you the catalog and then automatically place you on our direct mail/catalog list to receive from us direct mail and printed catalogs with special offers and updates about products and services. If you later decide that you do not wish to receive printed catalogs or other direct mail pieces, simply: (i) follow the instructions on the order form in the catalog; or (ii) follow the instructions in the section below "Reviewing, Changing Your Information or Unsubscribing." You also have the ability to sign up for our e-mail newsletters at the time you sign up for the direct mail/catalog list. To see what information we collect when you sign up for the e-mail newsletters, and how we use that information, see the section below "When you subscribe to our e-mail newsletters."
@@ -39,26 +39,27 @@ Whether you are making a first purchase or any subsequent purchase, if you later
 *  **When you enter a sweepstakes** sponsored by Cooking.com, we may ask for any or all of the following information: your name, postal address, e-mail address and telephone number. Check the official rules or the actual sweepstakes for what information is requested for any individual sweepstakes. Unless the official rules for a particular sweepstakes provide otherwise, when you provide your e-mail address you will be signed up for Cooking.com Companies e-mail newsletters and, if you provide us with your postal address, you will be added to our direct mail/catalog list. You can unsubscribe from the e-mail newsletters and/or direct mail/catalog list at any time by following the instructions in the section below "Reviewing, Changing Your Information or Unsubscribing."
 *  **When you register at My Cooking.com** , we collect your name, address, telephone number and e-mail address. You can use My Cooking.com to update your account information, save addresses where you have sent products, track orders, create a personal wish list and save your favorite recipes. We also use the information you provide to:
 
-  * **automatically place you on our e-mail newsletter lists** to receive e-mails with special offers and updates about products and services; and
+  * **automatically place you on our e-mail lists** to receive special offers and updates about products and services; and
   * **automatically place you on our direct mail/ catalog list** to receive from us direct mail and printed catalogs with special offers and updates about products and services.
+  * **automatically** send you emails to collect feedback related to your purchases.
 
 If you want to be removed from a list, simply follow the instructions in the section "Reviewing, Changing Your Information or Unsubscribing" below.
-*  **When you create a wedding registry at Cooking.com** , we collect your name, your spouse’s name, your shipping address, telephone number, wedding date (month and year) and location (city and state), email address, and if you provide them, your spouse’s email address and a guest password.
+*  **When you create a wedding registry at Cooking.com** , we collect your name, your spouse’s name, your shipping address, telephone number, wedding date (month and year) and location (city and state), email address, and if you provide them, your spouse’s email address and a customer password.
 
-We use this information to maintain your wedding registry, help guests find it on our web site, and send you products purchased for you. We also use the information you provide to: 
+We use this information to maintain your wedding registry, help customers find it on our web site, and send you products purchased for you. We also use the information you provide to: 
 
   * Automatically place you on our e-mail newsletter lists to receive e-mails with special offers and updates about products and services; and
   * Automatically place you on our direct mail/catalog list to receive from us direct mail and printed catalogs with special offers and updates about products and services.
 
-You can unsubscribe from the e-mail newsletters and/or direct mail/catalog list at any time by following the instructions in the section below “Reviewing, Changing Your Information or Unsubscribing.” When you ask that we notify your guests of your registry, we collect your guests’ name and e-mail address. We use your guests' name and e-mail address only to send them the notification e-mail.
+You can unsubscribe from the e-mail newsletters and/or direct mail/catalog list at any time by following the instructions in the section below “Reviewing, Changing Your Information or Unsubscribing.” When you ask that we notify your customers of your registry, we collect your customers’ name and e-mail address. We use your customers' name and e-mail address only to send them the notification e-mail.
 
-When you create a registry, guests can see your names, wedding date (month and year), wedding location (city and state), the items you have registered for, and the quantities you have received. If you password-protect the guest view of your registry, guests initially see only your names, wedding date and location. They need a password (provided to them by you) to view the items you have registered for.
+When you create a registry, customers can see your names, wedding date (month and year), wedding location (city and state), the items you have registered for, and the quantities you have received. If you password-protect the customer view of your registry, customers initially see only your names, wedding date and location. They need a password (provided to them by you) to view the items you have registered for.
 
 *  **If you are part of a rewards or incentive program** such as American Airline's AAdvantage Program that gives you "points" or other incentives for purchasing product on our website, we will share your information with the operator of the rewards or incentive program in order to enable them to credit you with the purchase.
 
 **Information about customers and visitors shared with third parties**
 
-* As described in the section "When you purchase products from Cooking.com," if you have purchased products from us, in addition to being placed on our e-mail newsletter list and direct mail/catalog list, we may make your name and postal address available to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you. We only share with these pre-screened companies the individual names and postal address of customers who have actually purchased products from us (as opposed to those individuals who have provided information to us as part of some other registration or sign-up process). If you do not want us to share your name and postal address information, simply follow the instructions in the section below "Reviewing, Changing Your Information or Unsubscribing."
+* As described in the section "When you enter personal information into the Shopping Cart", in addition to being placed on our e-mail newsletter list and direct mail/catalog list, we may make your name and postal address available to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you. If you do not want us to share your name and postal address information, simply follow the instructions in the section below "Reviewing, Changing Your Information or Unsubscribing."
 * We also share information about our customers and visitors with trusted service providers who provide Cooking.com with specific services and/or administer activities offered on the Cooking.com site. (For example, we may provide customer information to companies that analyze our clickstream data in order to help us better design our site.)
 * We also may use non-identifying and aggregate information (as opposed to identifiable individual information) about our customers and/or visitors to better design our website and we may provide it to advertisers and other third parties.
   
@@ -77,8 +78,8 @@ At any time you can unsubscribe, correct or update your information or modify yo
 *  **To review, change or update information, as it pertains to our newsletters, you have several options:**
 
   * **On the Cooking.com Site**. Click on the "Help" button at the top of the home page then on the appropriate link under the "subscriptions" to change your information.
-  * **By e-mail.** Send an email request to [Guest Assistance](https://web.archive.org/guestassist/shcontus.asp).
-  * **By postal mail.** Please include your email address and mail your request to us at 2850 Ocean Park Blvd. Suite 310, Santa Monica, CA 90405: Attention: Guest Assistance.
+  * **By e-mail.** Send an email request to [Customer Service](https://web.archive.org/guestassist/shcontus.asp).
+  * **By postal mail.** Please include your email address and mail your request to us at 2850 Ocean Park Blvd. Suite 310, Santa Monica, CA 90405: Attention: Customer Service.
   * **By phone.** Call toll-free at (800) 663-8810 in the USA and Canada.
   
 (310) 450-3270 outside USA and Canada. 
@@ -86,8 +87,8 @@ At any time you can unsubscribe, correct or update your information or modify yo
 * **To review, change or update information as it pertains to our catalog or the sharing of your name and postal address with third parties who offer a product or service we think may be of interest to you, you have several options:**
 
   * **On the Cooking.com Site**. Click on the "Help" button at the top of the home page then on the appropriate link under the “subscriptions" to change your information.
-  * **By e-mail.** Send an email request to [Guest Assistance](https://web.archive.org/guestassist/shcontus.asp).
-  * **By postal mail.** Please follow [these instructions](https://web.archive.org/extras/mail_printout.htm) and mail your request to us at 2850 Ocean Park Blvd. Suite 310, Santa Monica, CA 90405: Attention: Guest Assistance.
+  * **By e-mail.** Send an email request to [Customer Service](https://web.archive.org/guestassist/shcontus.asp).
+  * **By postal mail.** Please follow [these instructions](https://web.archive.org/extras/mail_printout.htm) and mail your request to us at 2850 Ocean Park Blvd. Suite 310, Santa Monica, CA 90405: Attention: Customer Service.
   * **By phone.** Call toll-free at (800) 663-8810 in the USA and Canada.
   
 (310) 450-3270 outside USA and Canada. 
