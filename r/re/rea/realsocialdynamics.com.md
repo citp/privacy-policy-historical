@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realsocialdynamics.com privacy policy that was archived on 2005-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050510235325id_/http%3A//www.realsocialdynamics.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realsocialdynamics.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230072858id_/http%3A//www.realsocialdynamics.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Real Social Dynamics Privacy Policy
 
@@ -76,15 +76,15 @@ We will make every reasonable effort to respect your contact wishes. Please be a
   
 “Discover the Secrets to Attracting Women...”
 
-[ **Click HERE for Details on Seminars and Field Workshops.**](https://web.archive.org/web/20050510235325id_/http%3A//www.realsocialdynamics.com/seminars.asp) **
+[ **Click HERE for Details on Seminars Coaching at Superconferences.**](https://web.archive.org/web/20051230072858id_/http%3A//www.realsocialdynamics.com/seminars.asp) **
 
 \- AND - 
 
-[ Click HERE for 1-on-1 Coaching at an Individualized Bootcamp.](https://web.archive.org/web/20050510235325id_/http%3A//www.realsocialdynamics.com/bootcamps.asp)
+[ Click HERE for Details on Field Coaching at Bootcamps.](https://web.archive.org/web/20051230072858id_/http%3A//www.realsocialdynamics.com/bootcamps.asp)
 
 **
 
  **  
-****[.](https://web.archive.org/web/20050510235325id_/http%3A//www.realsocialdynamics.com/bootcamps.asp)**  
+****[.](https://web.archive.org/web/20051230072858id_/http%3A//www.realsocialdynamics.com/bootcamps.asp)**  
   
-[ TOP ](https://web.archive.org/web/20050510235325id_/http%3A//www.realsocialdynamics.com/privacy_policy.asp)
+[ TOP ](https://web.archive.org/web/20051230072858id_/http%3A//www.realsocialdynamics.com/privacy_policy.asp)
