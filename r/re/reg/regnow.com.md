@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628073814id_/http%3A//regnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230024451id_/http%3A//regnow.com/privacy.html) for the most accurate reproduction.*
 
-# RegNow.com - Shareware Registration Service - Ecommerce - Shopping Cart
+# RegNow.com - Sell Software Online - Electronic Software & Shareware Marketing & Distribution
 
 Privacy Policy 
 
