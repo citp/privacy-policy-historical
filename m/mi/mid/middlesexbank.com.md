@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the middlesexbank.com privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629084857id_/http%3A//www.middlesexbank.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the middlesexbank.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230035620id_/http%3A//middlesexbank.com/privacy.asp) for the most accurate reproduction.*
 
 # Middlesex Savings Bank
 
@@ -9,25 +9,19 @@ Consumer Privacy Policy Notice
 Internet Privacy Statement
 
 **Middlesex Savings Bank  
-Weathervane Insurance Agency, Inc.  
-Weathervane Investment Services, Inc.**  
-
+Weathervane Insurance Agency, Inc.**
 
 **About Our Privacy Policy**
 
-Protecting your privacy is important to Middlesex Savings Bank, to Weathervane Investment Services, Inc. and Weathervane Insurance Agency, Inc. (our affiliates). The confidentiality and protection of customer information is one of our most fundamental responsibilities and your trust is one of our most important assets. Thus, the safekeeping of customer information is a priority for Middlesex Savings Bank our affiliated companies and our employees. 
+Protecting your privacy is important to Middlesex Savings Bank and Weathervane Investment Services, Inc. (our affiliates). The confidentiality and protection of customer information is one of our most fundamental responsibilities and your trust is one of our most important assets. Thus, the safekeeping of customer information is a priority for Middlesex Savings Bank, our affiliated companies and our employees. 
 
 We want you to understand what information we collect and how we use it. In order to provide our customers with a broad range of financial products and services as effectively and conveniently as possible, we use technology to manage and maintain customer information. 
 
 The following policy serves as a standard for all Middlesex Savings Bank and its affiliated companies’ employees for the collection, use, retention, and security of nonpublic personal information. 
 
-We encourage you to read the following Consumer Privacy Policy Notice to fully understand our commitment to protecting your privacy. Customers of Middlesex Savings Bank can expect to receive a written copy of this policy annually. If you have any questions or concerns, please contact our Information Center at 1-877-463-6287. 
-
 * * *
 
 **Consumer Privacy Policy Notice**
-
-At Middlesex Savings Bank and our affiliated companies, we value and respect the trust placed in us by our customers. For this reason, we want you to know how we deal with customer information and privacy. 
 
 **Information We Collect:**
 
@@ -43,19 +37,19 @@ We collect personal and financial information about you from the following sourc
 
 **Disclosure of Information:**
 
-We do not disclose any nonpublic personal information about our customers or former customers to anyone, except as permitted by law. It is our policy not to reveal specific information about customer accounts or other personally identifiable data to unaffiliated third parties for their independent use. We may disclose all of the information we collect, as described above, to nonaffiliated third parties that perform administrative, processing and other account services, to companies that market financial products and services on our behalf, and as otherwise required or permitted by law. The Bank and its affiliated companies are permitted under law to share with each other information about our experiences or transactions with you or your account (such as your account balance and your payment history with us). 
+We do not disclose any nonpublic personal information about our customers or former customers to anyone, except as permitted by law. It is our policy not to reveal specific information about customer accounts or other personally identifiable data to unaffiliated third parties for their independent use. We may upon inquiry, disclose to the holder of a check, whether or not the relevant checking account contains sufficient available funds to pay such check.  We may disclose all of the information we collect, as described above, to nonaffiliated third parties that perform administrative, processing and other account services, to companies that market financial products and services on our behalf, and as otherwise required or permitted by law. The Bank and its affiliated companies are permitted under law to share with each other information about our experiences or transactions with you or your account (such as your account balance and your payment history with us). 
 
 We also may share additional information about you or your account (such as information we receive from you in applications and information from credit reporting agencies) with our affiliates. You may direct us not to disclose information between the Bank and our affiliates that does not relate solely to experiences or transactions with you or your account (such as application information and credit bureau information) by writing to us at P.O. Box 358, Natick, MA, 01760 or by calling us at 1-877-INFO CTR (1-877-463-6287). If you make such a request, it will apply to all of your consumer relationships within the Middlesex Savings Bank family of affiliated companies. 
 
 **You do not need to notify us more than once if you have multiple accounts, or if you have previously notified us.**
 
-If you have a joint account, a request by one party will apply to the entire account. Your request will be processed within four weeks of receipt. You may still receive offers with your account statements, when you visit or contact us in connection with the maintenance and servicing of your account. 
+If you have a joint account, a request by one party will apply to the entire account. Your request will be processed within four weeks of receipt. You may still receive offers with your account statements, or when you visit or contact us in connection with the maintenance and servicing of your account. 
 
 **Business Relationships With Third Parties:**
 
 When the Bank and our affiliates conduct business with vendors and suppliers, we require those vendors to maintain similar standards of conduct regarding the privacy of customer information that is provided to them. 
 
-**Protection and Confidentiality of Information:**
+**Prot ection and Confidentiality of Information:**
 
 Middlesex Savings Bank and our affiliated companies are committed to the security of your information. All of our operational and data processing systems are located in secure environments that protect your information from being accessed by unauthorized third parties. We maintain physical, electronic, and procedural safeguards that comply with regulatory standards to protect your information. 
 
@@ -65,7 +59,7 @@ We continually strive to maintain complete and accurate information about you an
 
 **Limitations on Employee Access:**
 
-Access to customer information is limited to employees with a business reason to know such information. Employees are educated on the importance of maintaining the confidentiality of customer information. All Bank and affiliate employees are responsible for maintaining the confidentiality of customer information. Any employee who violates these principles is subject to disciplinary action.>
+Access to customer information is limited to employees with a business reason to know such information. Employees are educated on the importance of maintaining the confidentiality of customer information. All Bank and affiliate employees are responsible for maintaining the confidentiality of customer information. Any employee who violates these principles is subject to disciplinary action. 
 
 **Inquiries:**
 
