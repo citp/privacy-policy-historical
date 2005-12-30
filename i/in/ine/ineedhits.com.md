@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625215108id_/http%3A//www.ineedhits.com/search-engine-help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230215928id_/http%3A//ineedhits.com/search-engine-help/privacy.aspx%3Ffrombnav) for the most accurate reproduction.*
 
-# Privacy
+# ineedhits Privacy Policy and Free Search Engine Submission Information
 
 | [](http://www.truste.org/ivalidate.php?url=www.ineedhits.com&sealid=101) | We at ineedhits.com [Ineedhits.com Pty Ltd] pride ourselves on attention to detail regarding our customers’ privacy. Please read the following to learn more about our Privacy Policy.  
 ---|---  
@@ -20,11 +20,11 @@ This privacy statement covers the site [www.ineedhits.com]. Because this Web sit
   7. How users can correct any inaccuracies in the information.
   8. What happens if our Privacy Policy changes?
 
-If users have questions or concerns regarding this statement, they should first contact our Customer Care by emailing to [query@ineedhits.com](mailto:query@ineedhits.com). If users do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://truste.org/consumers/watchdog_complaint.php) TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If users have questions or concerns regarding this statement, they should first contact our Customer Care by emailing to [query@ineedhits.com](mailto:query@ineedhits.com). If users do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [ TRUSTe Watchdog Dispute Resolution Process](http://truste.org/consumers/watchdog_complaint.php) TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
 **1. What personally identifiable information does ineedhits.com collect?**
 
-This Privacy Policy covers [http://www.ineedhits.com](http://www.ineedhits.com/) treatment of personally identifiable information that is collected by our company when a customer is visiting our site and using our services. This policy also covers ineedhits.com's treatment of any personally identifiable information that business partner’s share with our company and added to our Web site database. This policy does not apply to the practices of companies that ineedhits.com does not own or control, or to people that ineedhits.com does not employ or manage.
+This Privacy Policy covers [www.ineedhits.com](http://www.ineedhits.com/) treatment of personally identifiable information that is collected by our company when a customer is visiting our site and using our services. This policy also covers ineedhits.com's treatment of any personally identifiable information that business partner’s share with our company and added to our Web site database. This policy does not apply to the practices of companies that ineedhits.com does not own or control, or to people that ineedhits.com does not employ or manage.
 
 To place an order on our Web site, a user must first complete an order form. Whilst placing an order, a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have shown as an interest.
 
@@ -70,7 +70,7 @@ If you, the customer, indicate that you would like to receive our search engine 
 
 Top
 
-**6. What types of security procedures are in place to protect the loss, misuse or alteration of information under ineedhits.com control? ****SECURITY:**  
+**6. What types of security procedures are in place to protect the loss, misuse or alteration of information under ineedhits.com control? ** **SECURITY:**  
 Our Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, that information is protected both online and off-line.
 
 When our order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
