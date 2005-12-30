@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the crystald.com privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622034611id_/http%3A//www.eidosinteractive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystald.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230023305id_/http%3A//www.eidosinteractive.com/privacy.html) for the most accurate reproduction.*
 
 # EidosInteractive.com
 
-| [](https://web.archive.org/web/20050622034611id_/http%3A//www.eidosinteractive.com/whatsnew.html)  
+| [](https://web.archive.org/web/20051230023305id_/http%3A//www.eidosinteractive.com/whatsnew.html)  
 ---  
 |  |   
 | 
 
-[New Tomb Raider: Legend E3 Trailer. View it now!!](http://www.eidosinteractive.com/downloads/search.html?gmid=158)
+[Commandos Strike Force Website Launched!](http://www.commandosstrikeforce.com/)
 
-[Check out the new Imperial Glory Trailer](http://www.eidosinteractive.com/downloads/search.html?gmid=150)
+[Hitman: Blood Money Website Update! New Trailer!](http://www.hitmanbloodmoney.com/)
 
-[The new Tomb Raider: Legend website is live. Check it out now!!](http://www.tombraider.com/)
+[All New 25 To Life Website Update. Check it out!](http://www.25tolife.com/)
 
-[Check out some of the action in the new 25 to Life trailer…guns are blazing!!!](http://www.eidosinteractive.com/downloads/search.html?gmid=151)
+[The New Tomb Raider: Legend Website has Launched. View it now!](http://www.tombraider.com/)
 
-[Check out the new LEGO: Star Wars official launch trailer!](http://www.eidosinteractive.com/downloads/search.html?gmid=156)
+[Check out the Total Overdose Demo Now!](http://www.eidosinteractive.com/downloads/search.html?gmid=160)
 
 |   
 |  |   
@@ -32,7 +32,7 @@ click here
 |  |   
 | 
 
-[Go here](https://web.archive.org/web/20050622034611id_/http%3A//www.eidosinteractive.com/forums/index.html) to talk about the games! 
+[Go here](https://web.archive.org/web/20051230023305id_/http%3A//www.eidosinteractive.com/forums/index.html) to talk about the games! 
 
 |   
 |  |   
