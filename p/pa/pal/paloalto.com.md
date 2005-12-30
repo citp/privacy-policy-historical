@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the paloalto.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205071601id_/http%3A//www.paloalto.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paloalto.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230083900id_/http%3A//www.paloalto.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Palo Alto Software, Inc.
 
-  
-_Palo Alto Software Privacy Statement:_
+|  Palo Alto Software Privacy Statement:
 
-Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for paloalto.com, bplans.com, mplans.com, secureplan.com, and all other web sites owned and opperated by Palo Alto Software, Inc. TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:  
+Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for paloalto.com owned and opperated by Palo Alto Software, Inc. TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:  
 
 
 1\. What personally identifiable information of yours or a third party is collected through the website.  
@@ -17,9 +16,9 @@ Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy sta
 7\. How you can correct any inaccuracies in the information. 
 
 
-If you have questions or concerns regarding this statement, you should first contact the site coordinator by sending an email to pat@paloalto.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact the site coordinator by sending an email to chad@paloalto.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the website to resolve your concerns. 
 
-Palo Alto Software, Inc. collects personal information about our users only during the secure order process, the registration process for our business planning newsletter, the registration process for our affiliate program, or if you request other information sent to you. We collect name, email address, shipping address, credit card company, credit card number, expiration date, and credit card billing address. For the affiliate program, we additionally collect US Tax ID, banking information for funds transfer, company name, and information about your web site. This is all kept strictly confidential. For membership access areas, we require that you accept a cookie. This is only for functionality reasons, and your personal information is never shared with anyone else. These cookies are also only collected by our sites, there are no third party cookies that are placed on your computer. These cookies help keep track of your login information to speed up the login process, and in certain cases we store your preferences to help tailor our site content to your interests. In the case that you choose not to accept cookies or if your browser automatically does not accept cookies, the only part of our site that will not work for you is the membership registration process. Without cookies enabled, it is not possible to register for our planning tools. 
+Palo Alto Software, Inc. collects personal information about our users only during the secure order process, the registration process for our business planning newsletter, the registration process for our affiliate program, or if you request other information sent to you. We collect name, email address, shipping address, credit card company, credit card number, expiration date, and credit card billing address. For the affiliate program, we additionally collect US Tax ID, banking information for funds transfer, company name, and information about your web site. This is all kept strictly confidential. For membership access areas, we require that you accept a cookie. This is only for functionality reasons, and your personal information is never shared with anyone else. We use a third-party tracking service called HitBox that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate such as usage and volume statistics in order to customize our interface for improved usability. These cookies help keep track of your login information to speed up the login process, and in certain cases we store your preferences to help tailor our site content to your interests. In the case that you choose not to accept cookies or if your browser automatically does not accept cookies, the only part of our site that will not work for you is the membership registration process. Without cookies enabled, it is not possible to register for our planning tools. 
 
 Palo Alto Software, Inc. respects your right to privacy. We have a strict policy of not selling our customers' email addresses and are completely anti-Spam. Our online store is completely secure and VeriSign has authenticated us as a secure site. 
 
@@ -35,6 +34,8 @@ Palo Alto Software uses clear gif images on our site. These images are small cle
 Palo Alto Software will not disclose to any third party any information or data submitted by Users of this web site, without the User's prior permission, unless Palo Alto Software has a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process; or (b) protect and defend the rights or property of Palo Alto Software. 
 
 Palo Alto Software, Inc. has a Live Operator option available on our websites which allow you to talk one-on-one with a Palo Alto Software customer service representative. In order to initiate a chat, you must provide your name and email address which will be available to our representative for the duration of the live chat. Once the chat has been completed, we no longer have access to your name or email address. 
+
+Downloaded Software: The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. 
 
 You will be notified of any significant privacy statement updates or if we change the way we collect or use personally identifiable information through email, then wait for your consent. We have measures in place to protect your personally identifiable information. Our employees are made aware of these measures when they start working at Palo Alto Software, Inc. Any time there is a change in security measures, all employees are notified of the change. We are using SSL (Secure Socket Layer) encryption for your credit card transactions, and we are authorized by VeriSign. We do share your credit card information with a third party only for verification purposes. All customer information available to internal employees is only accessible on our internal company network. 
 
@@ -52,4 +53,13 @@ If you would like to modify, update or delete information that is collected thro
 
 Legal Disclaimer: We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website. 
 
-If you have questions, we can be reached by email at [customerservice@paloalto.com](mailto:customerservice@paloalto.com?subject=Help) or direct them to the Palo Alto Software, Inc. site coordinator at [pat@paloalto.com](mailto:pat@paloalto.com?subject=Help) . 
+If you have questions, we can be reached by email at [customerservice@paloalto.com](mailto:customerservice@paloalto.com?subject=Help) or direct them to the Palo Alto Software, Inc. site coordinator at [chad@paloalto.com](mailto:chad@paloalto.com?subject=Help) . 
+
+Effective Date: 12/28/05 
+
+Palo Alto Software  
+144 East 14th Avenue  
+Eugene, OR 97401  
+541-683-6162 
+
+| 
