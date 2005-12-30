@@ -1,98 +1,69 @@
-> *The following text is extracted and transformed from the flowcontrolnetwork.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204231638id_/http%3A//www.flowcontrolnetwork.com/policies/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowcontrolnetwork.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230114938id_/http%3A//www.gvmg.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Grandview Media Group, Inc.Website Privacy Policy
 
-**PRIVACY POLICY**
+Grandview Media Group, Inc.Website Privacy Policy
 
-**Overview**
+January 13, 2005
 
-This Privacy Policy describes the policies of Witter Publishing ("WP" or "we regarding the collection, use, disclosure and protection of the following types of information:
+ Contact Information: 
 
-\- Information obtained when you and other users ("you" or "Users") visit the www.flowcontrol.com web site and its network sites (the "Site").  
-\- Information obtained through e-mail communications with you related to the Site.
+GRANDVIEW MEDIA GROUP, INC.wants you to have a positive experience at this web site.  We want you to know that we respect the privacy and security of our users.  Our goal is to provide you with an experience that delivers the information and resources that are helpful to you.  In order to achieve this goal, we collect information from you.  We discuss our information collection practices below.
 
-This privacy policy does not apply to information that we may collect from you by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of all of the terms and conditions contained in this Privacy Policy and your consent to any action we take with respect to your information that is in compliance with this Privacy Policy.
+ This Privacy Policy sets forth the privacy practices in effect at the GRANDVIEW MEDIA GROUP, INC.website. If you do not agree to these terms, do not access this web site.
 
-We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.
+ What Information is Collected and How is it Used?
 
-If you do not agree to this Privacy Policy, as modified from time to time, please do not visit this Site.
+A. General Collection and Use of Personal Identifying Information
 
-**Information We Collect and How We Collect It**
+We will only collect and use personal identifying information (such as a first and last name, physical address including a street name, telephone number, e-mail address, etc.) when a user voluntarily provides it to us. In order to use some portions of our web site, or in order to undertake certain actions, a user must first complete a registration form or provide an e-mail address that will require disclosure of personal identifying information.  Such disclosure is strictly voluntary.  In order to contact us by e-mail, however, you must provide an e-mail address.
 
-**_General_**
+We will use the personal identifying information we collect for limited internal purposes that may include, but are not limited to, processing your transactions, establishing the identity of account holders, utilization for customer service, content processing, or content classification, and providing you with information concerning our services. We will retain this information. We also may use that personal identifying information to improve and customize our content.
 
-We require you to provide us with certain information about yourself when you register with this Site and when you request products and services. We also collect information from you when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site, such as moderated discussions and bulletin boards.  
-The information we collect may include information from which you may be personally identified ("Personally Identifiable Information"), such as name, postal address, telephone number, fax number and e-mail address, and also may include certain business information, such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.
+We reserve the right to disclose your personal identifying information, if we are required to do so by law, or in the good faith belief that disclosure of the information is reasonably necessary to comply with legal process, to respond to claims, or to protect or advance the rights, property, safety, or well-being of our company, our employees, customers, or the public.
 
-**_Automatic Data Collection_**
+B. Collection of Non-Personal Identifying Information
 
-When you visit this Site, we may collect the IP address of your computer. We also automatically record other information that identifies your computer to this Site and tracks your behavior on the Site. For example, we may record how many times you visit this Site and your navigation within the Site. We do not collect Personally Identifiable Information in this manner; however, if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
+We collect and use non-personal identifying information, including IP addresses and web server log files to track trends, administer the web site, track user movement, and gather demographic information. We use this non-personal identifying information in the aggregate, and to troubleshoot technical errors. We do not combine these types of non-personal identifying information with personal identifying information.
 
-Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer's hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message.
+Cookies and Web Service Log File Data
 
-Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include those described in the preceding paragraph. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties.
+We may place a "cookie" or other tracking or information gathering device used in the industry in the browser files of a user's computer. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies enable us to track and target the interests of our users to enhance the experience on our web site. We are able to access only the cookies that our sites set on your computer and we are only able to determine the type of computer operating system and browser that you are using. We collect information from cookies and other information gathering devices and log files in the aggregate. We do not link the information collected through cookies or other devices to personal information that users submit online while participating in our activities. Users can set their browsers or third party software to reject cookies. If a user rejects the cookie, the user may be unable to use portions of our web site. Some of the web sites we provide links to also may use cookies. We have no control over these linked web sites or access to or control over cookies or other technology used by linked web sites.
 
-**How We Use Your Information**
+ Usage Information Monitoring
 
-**_General_**
+In order to provide better system stability, we monitor sessions on our Web site. This is for the purpose of tracking and trouble shooting any technical problems that may arise when someone accesses our Web site. By monitoring the usage, we are better prepared to solve system problems faster. We do not disclose this information to any outside vendor.
 
-We use Personally Identifiable Information that we collect on this Site for the following purposes:
+C.  Security
 
-\- To provide you with this Site and other products and services, such as electronic and print publications and newsletters.  
-\- To respond to your inquiries and contact you about changes regarding the Site.  
-\- To provide you with e-mail, fax and other notices (such as expiration and renewal notices) and inquiries regarding your account and the products or services that you are receiving, and for billing and collection purposes.  
-\- For any other purpose disclosed at the time the information is collected or to which you consent.  
-\- As otherwise specifically described in this Privacy Policy.
+GRANDVIEW MEDIA GROUP, INC.has taken steps to ensure that personal identifying information collected in the future is secure, and we have limited the number of people who have access to the information, by electronic security systems and password protections that guard against unauthorized access. GRANDVIEW MEDIA GROUP, INC.may provide links to web sites outside of GRANDVIEW MEDIA GROUP, INC.. These web sites may not have the same privacy policies as GRANDVIEW MEDIA GROUP, INC.. GRANDVIEW MEDIA GROUP, INC.takes reasonable care in recommending these web sites but is not responsible for their content or privacy policies. We urge users to read the privacy statement of an outside web site when leaving our site and linking to an outside web site.
 
-We also may use your information to better understand the needs of our Users and to improve our Site. For example, we may use this information to determine what portions of the Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site.
+We use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.  We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of the Site.
+D. Use of Personal Information Collected
 
-**Newsletters and Offers**
+From time to time we may send users e-mail messages regarding information and news from Grandview Media Group, Inc.. If you do not want to receive e-mail from us in the future, please let us know by sending an e-mail at the above address, calling us at the above telephone number, or writing to us at the above address.
 
-We may use the information you provide us to send you e-mail, fax and other communications on behalf of WP or other WPdivisions. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other WP and WPservices. All of these communications will include instructions explaining how you can request that we not send you ("opt out" of) future communications of the same type.
+Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
-We also may use your information to send you e-mail, fax and other communications on behalf of unaffiliated third parties. When you register with and provide information to this Site you will be given an opportunity to opt out of our sending you offers on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Web Site at any time on the registration page of this Site or by sending an e-mail to flowcontrolonline@witterpublishing.com with the subject line "opt out - third party."
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-**Our Disclosure of Your Information**
+E.  How to Correct Information
 
-We will not disclose your information to anyone outside of WP or other WP divisions, except as described in this section.
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us by written request, phone or e-mail at the contact information stated above.
 
-We may disclose aggregated anonymous statistics about many Users to advertisers, content and service providers and other affiliated and unaffiliated companies.
+Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, including unique identifier information (e.g., customer number or password) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them.
 
-We sometimes engage third parties to perform services for us, including in connection with this Site, that require us to disclose Users' Personally Identifiable Information to them. If we make any such disclosure, we will require such parties to keep the information confidential and to use it only to perform the services.
+Users can access this information, and can have their personal identifying information corrected, by writing to us at the above address, sending us an e-mail or by calling us.
 
-We also may disclose your information to third parties that wish to market products or services that may be of interest to you. We will require these parties to keep any Personally Identifiable Information provided by us confidential and use it only to market and provide their products or services or with your approval. When you register with and provide information to this Site, you will be given an opportunity to opt out of our disclosing your Personally Identifiable Information as described in this paragraph. You may also opt out of such disclosures at any time on the registration page of this Site or by sending an e-mail to flowcontrolonline@witterpublishing.com with the subject line "do not disclose."
+ F.  Questions
 
-The only other times we may disclose your Personally Identifiable Information collected on this Site are as follows:
+ If you have any questions, comments, or concerns regarding the GRANDVIEW MEDIA GROUP, INC.privacy policy or practices, please send us an email, call us or write to us at the address listed above.
 
-\- In the event of an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving WP or this Site, we may transfer some or all User information, including Personally Identifiable Information, to the successor company.  
-\- We will disclose your Personally Identifiable Information when we believe such disclosure is required by law or for the protection of persons or property.  
-\- We may disclose your Personally Identifiable Information with your consent, as well as when disclosure is necessary to accomplish the purpose for which you provide it. For example, when you request information from advertisers in the "Reader Services" section of our publications, we will disclose your Personally Identifiable Information to the advertisers you specify.
+G.  Changes to Privacy Policy 
 
-**Security**
+We will notify you of changes to the GRANDVIEW MEDIA GROUP, INC.Website Privacy Policy by posting an updated policy on this page with a notification link to this page from the home page or by a "News Box." You agree that continued use of the web site is an acknowledgment and consent to any terms contained in the GRANDVIEW MEDIA GROUP, INC.Website Privacy Policy current at the time of use.
 
-We use reasonable security safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
+ H.  Effective Date
 
-**Right to Access and Change Information**
-
-You may view and update information that you previously submitted to this Site by visiting the registration page for this Site.
-
-**Opt-Out**
-
-This Privacy Policy describes certain opportunities you will have to opt out of our using or disclosing your Personally Identifiable Information.
-
-Typically, an opt out request will be specific to a particular service or product. For example, if you opt out of receiving third party offers from this Site, you may continue to receive third party offers from other WP web sites or publications not associated with this Site. Similarly, opting out of our disclosing Personally Identifiable Information collected on this Site will not apply to information collected on other WP web sites. We cannot guarantee that we will be able to accommodate opt out requests that apply to multiple web sites, products or services, but we will try to do so to the extent feasible. If you wish to opt out of the use or disclosure of Personally Identifiable Information collected by more than one WP web site, the best way of accomplishing this is to provide a separate opt out request for each web site, product or service.
-
-Any opt out request will only be effective after a reasonable period of time for processing.
-
-**Links**
-
-This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
-
-This Site is operated by:
-
-**Witter Publishing**  
-84 Park Avenue  
-Flemington, NJ 08822  
-E-Mail: flowcontrolonline@witterpublishing.com
+This policy was last updated on January 13, 2005.
