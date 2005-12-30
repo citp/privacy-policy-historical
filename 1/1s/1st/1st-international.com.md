@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527222659id_/http%3A//www.1st-international.com/singlesinformation/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230161020id_/http%3A//1st-international.com/singlesinformation/privacy.html) for the most accurate reproduction.*
 
 # 1st International Marriage Network. Protected quality dating services
 
@@ -25,11 +25,10 @@ If a user wishes to subscribe our newsletter, we ask for contact information suc
 If you have any questions about this privacy statement and the practices of its usage, please contact: 
 
 **1st International Marriage Network  
-2665 N. Atlantic Ave. 222  
-Daytona Beach, FL 32118  
+PO Box 8101  
+Romeoville, IL 60446  
 USA **
 
-**Toll free phone: 1-800-676-9149  
-Outside US call: 1-386-441-0321  
-Toll free fax: 1-800-211-8415  
-Outside US fax: 1-305-946-2479**
+**Toll free phone: 1-866-Y-SINGLE (1-866-974-6453)  
+Outside US call: (407) 792-4615  
+Outside US fax: (360) 525-0025**
