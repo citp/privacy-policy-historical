@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2005-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050612085026id_/http%3A//www.phillymag.com/content.php%3Fname%3Dprivacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230043126id_/http%3A//www.phillymag.com/index.cfm/fuseaction/content.page/nodeID/b74b2f19-22ea-4012-b6c6-5ff9287d4bf0) for the most accurate reproduction.*
 
-# www.phillymag.com Home Page
+# www.PhillyMag.com
 
 **PRIVACY POLICY**
 
@@ -58,5 +58,3 @@ We may post hyperlinks to the Web sites of third-party advertisers, service prov
 **Children's Online Privacy**
 
 Consistent with the Children's Online Privacy Protection Act ("COPPA"), this Site is not intended for use by anyone under the age of 13. _Philadelphia_ magazine does not knowingly collect personal information from children through this Site, or any of its Web sites. If you are a parent with concerns about children's privacy issues in conjunction with the use of this Site, please contact us at [rbertsche@plgt.com](mailto:rbertsche@plgt.com).
-
-_back to[Homepage](http://www.phillymag.com/)_
