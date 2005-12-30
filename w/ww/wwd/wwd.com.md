@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwd.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403215709id_/http%3A//wwd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwd.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230134642id_/http%3A//www.wwd.com/privacy) for the most accurate reproduction.*
 
 # WWD Privacy Policy
 
@@ -6,7 +6,7 @@ Last revised November 20, 2004
 
 Kids and parents click here!
 
-In addition to reviewing this privacy policy, please read our User Agreement. Your use of WWD.com constitutes agreement to its terms and conditions.
+In addition to reviewing this privacy policy, please read our [ User Agreement](http://www.wwd.com/termsofuse). Your use of WWD.com constitutes agreement to its terms and conditions. 
 
 WWD.com is produced by Fairchild Internet, Inc. This policy does not cover information collected on sites linked to from WWD.com.
 
@@ -55,4 +55,7 @@ If you have other concerns or questions about any aspect of this policy, you may
 Privacy Policy Coordinator  
 Fairchild Internet, Inc.  
 7 West 34th Street  
-New York, NY 10001 
+New York, NY 10001
+
+  
+
