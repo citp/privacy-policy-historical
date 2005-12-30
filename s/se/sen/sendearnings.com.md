@@ -1,43 +1,62 @@
-> *The following text is extracted and transformed from the sendearnings.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206040535id_/http%3A//www.sendearnings.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendearnings.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230115900id_/http%3A//www.sendearnings.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# Send Earnings.com
+# Get Paid To Read Emails
 
-SendEarnings will not be liable for lost profits, lost business opportunities, or any other indirect, special, punitive, incidental or consequential damages arising out of or related to this Agreement or SendEarnings program, even if SendEarnings has been advised of the possibility of such damages. SendEarnings does not operate within the jurisdiction of the United States and is thus not governed by its taxes, laws and agreements. Furthermore, SendEarnings aggregate liability arising under this Agreement will never exceed the amount of the total fees paid or payable to you under this Agreement. The provisions of these Terms and Conditions survive termination or expiration of the Agreement. 
+SendEarnings reserves the right to modify this Privacy Policy at any time. The date and time of the last update will always appear below, which serves as notice to our Users. 
 
-SendEarnings is not responsible for SPAM sent out by members promoting SendEarnings links. By signing up as a member or advertiser, you agree NOT to SPAM any SendEarnings links. Members caught spamming will be prosecuted both in civil and criminal court to the utmost extent of the law. 
+Last Updated: _September 05, 2005 6:33 p.m. CST_
 
-Information Collected: 
+ **I. INFORMATION COLLECTION**
 
-The following information is required to join SendEarnings: Name, Address, E-Mail Address, Username, and Password. Your name and address are required so that we can send payment to you. Your email address is required so that we are able to contact you. Username and password are required in order to provide you with restricted access to our Member's Section. 
+1\. **Information Collected**
 
-In addition, the following information is required in order to receive your Signup Bonus: Birth Date, Gender, Marital Status, Education Completed, Household Income, and Children in Household. This information is used to send you targeted Advertisements that we believe you will be most interested in. 
+All Users must provide the following information in order to join SendEarnings: name, mailing address, phone number, email address, username, and password. Users may be required to provide subsequent demographic information in order to receive Signup Bonus(es) and/or qualify for other promotions. Demographic information includes, but is not limited to: birth date, gender, marital status, education completed, household income, and number of children in household. 
 
-Use of Information: 
+2\. **Means of Collection**
 
-SendEarnings is committed to protecting your privacy in a manner that will allow you to use our services with confidence and comfort. The purpose of this Privacy Policy is to describe: 1) what information SendEarnings collects; 2) how we use it; 3) your control over the information you give us and; 4) how we protect your information from theft or unauthorized use. This Privacy Policy is subject to change from time to time, so please check back periodically. Use of the services offered at this site constitutes acceptance of the terms of this Policy. If you have a question about the Privacy Policy please send us an e-mail message at support@sendearnings.com. 
+Currently, the only way to join SendEarnings is through one of our signup forms. We do not acquire Users through purchase, co-registration, or any other means; however, we may do so at any time in the future. 
 
-The Information We Collect 
+**II. USE OF INFORMATION**
 
-Any information that you provide through the SendEarnings.com registration process or responses to offers made available to you through our site is completely voluntary. You always have a choice whether or not to disclose information requested in the survey, registration or offer form or to remain opted-in as a SendEarnings user. The information we collect includes contact and postal information (such as name, mailing address and telephone number), e-mail address and demographic information (such as age, interests and other information). SendEarnings does not collect sensitive data like credit card information or Social Security numbers. 
+1\. **Use of Information**
 
-We also think that you should be rewarded for the time it takes to fill out our survey. That's why we provide incentives. In part, that's also why we cannot accept information from those under the age of 18 years. Those under 18 cannot participate in sweepstakes and promotions offered by SendEarnings or the promotion sponsor. In addition, we do not knowingly collect, use or disseminate any personally identifiable information from children under the age of 13. If, however, we become aware that personally identifiable information regarding a child under the age of 13 has been collected, we will delete it from our records. We encourage parents and guardians to participate in and supervise the online activities of their children. 
+User information is used by SendEarnings in all of the following, but not limited to, ways: 
 
-How We Use It 
+**(a)** E-Mail Address is used to send paid email advertisements and important announcements about SendEarnings to User   
+**(b)** Mailing Address is used to send payments earned by User   
+**(c)** Demographic information is used to target advertisements to User   
+**(d)** Username and Password are used for User protection to restrict access to their account 
 
-Your information will be used to improve and personalize the offers SendEarnings sends to you and all our members. When you choose to receive additional information from SendEarnings, we add your e-mail address to our e-mail subscription list. SendEarnings may send you emails regarding marketing offers from other reputable organizations whose products and services we think you might find interesting. Contact, postal, e-mail address and demographic information may be shared with third party marketers. In addition, SendEarnings provides services for direct marketing applications including lookup and reference, data enhancement, suppression and validation. 
+2\. **Sharing of Information**
 
-The Controls You Have On The Information You Share 
+SendEarnings does not rent, sell, or share User information, except in the following circumstances: 
 
-If you do not want us to share contact, postal, e-mail address and demographic information with third party marketers, we can add your name to our "do-not-share" list. Please click to send us a request to be added to this list 
+**(a)** We are required to release User information in response to subpoenas, court orders, or other legal processes   
+**(b)** We are sold to or acquired by another company, in which case all User information would then belong to said company   
+**(c)** We share User information when co-registration boxes (explained below) are checked during the course of registration   
+**(d)** We suspect a User of committing fraud, in which case User information may be shared during the course of our investigation   
+**(e)** We provide User information to trusted partners in order to enhance the service provided to our Users 
 
-Co-Registration: 
+**III. CO-REGISTRATION**
 
-In most circumstances, our Signup Form will include several co-registration advertisements. If you check any of the boxes (thereby "co-registering" for that Advertiser's web site, product, or service), your Personal Information is given to that Advertiser. The information provided to the Advertiser includes: your Name, Address, E-Mail Address, and IP Address. SendEarnings may also acquire new members by pusuing coregistration leads through other websites. In such cases, members are provided with an unsubscribe link if they are not interested in joining. Please note that checking any of the co-registration boxes is completely optional. 
+1\. **Definition**
 
-Cookies: SendEarnings uses Cookies to track your Username and Password throughout our Web Site. We do this for several reasons including Security - Because your Username and Password are stored in a Cookie, they are not displayed in the URL, which prevents someone walking by your computer from seeing this information. Cookies are 100% safe! Cookies are not used to invade your privacy in any way - they are simply used to provide better service to you. 
+SendEarnings signup pages may contain co-registration checkboxes, where Users can choose to "co-register" for other Web Sites during their registration with SendEarnings by checking the checkbox next to the co-registration Offer. Users are not required to select any co-registration boxes to join SendEarnings; however, they may be required to do so in order to qualify for Signup Bonus(es) and/or other promotions. 
 
-Location: The SendEarnings website operates out of Sri Lanka. For our U.S. members, a U.S. forwarding address can be provided upon request via email to support@sendearnings.com. 
+2\. **Information Sharing**
 
-Please note that some Web Browser settings, as well as some software programs (such as Norton Internet Security and some Firewall Applications) may disable Cookies. You will not be able to use SendEarnings.com without Cookies enabled! 
+When a User co-registers for an Offer by checking the co-registration checkbox, any information they provide to SendEarnings may be shared with the Advertiser associated with the co-registration Offer. SendEarnings cannot control what Advertisers subsequently do with that information. 
 
-Minimum Required Age: In accordance with the Children's Online Privacy Protection Act, Members must be at least 13 years old to participate in our program.
+**IV. COOKIES**
+
+1\. **Referral and Affiliate Tracking**
+
+SendEarnings uses cookies in order to track new User registrations. This ensures Users are properly credited for referring other Users, as well as to track earnings for our Affiliates. 
+
+2\. **User Recognition**
+
+After a User has logged into the SendEarnings Member's Section, cookies are used to remember their Username and Password so they do not need to be entered during every visit to our Web Site. Users can logout of the Member's Section if they do not wish to have this information saved. 
+
+3\. **Cookies are Safe!**
+
+Cookies used by SendEarnings can only be seen by SendEarnings, and cannot in any way cause harm to your computer. Because we cannot properly track user actions without the use of Cookies (to ensure Users are credited for completing Offers, referring friends, etc), our Web Site will not function properly for Users who have Cookies disabled. 
