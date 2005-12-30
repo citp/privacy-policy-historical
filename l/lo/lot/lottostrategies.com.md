@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lottostrategies.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525101427id_/http%3A//www.lottostrategies.com/script/showpage/1001029/b/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottostrategies.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230185328id_/http%3A//www.lottostrategies.com/script/showpage/1001029/b/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LottoStrategies.com
 
-[**Click Here, Play and Get Up To $300 FREE!**](http://www.gamingclubpoker.com/a65486)  
-[**Limited Offer for a 1-Year LottoStrategies.com Membership for FREE**](http://www.lottostrategies.com/script/showpage/1001002/a/signup_part1.html)  
-LottoStrategies.com takes your privacy seriously. 
+  
+**[Get $25 Free - No Deposit!](http://www.jackpotcity.com/a86411)**  
+  LottoStrategies.com takes your privacy seriously. 
 
 There are several components to our strict Privacy Policy. Our adherence to these principles ensures that your confidentiality is protected. 
 
@@ -23,5 +23,10 @@ LottoStrategies.com has a message board available for visitors. Please keep in m
 The sensitive personal information in your LottoStrategies.com account, such as your password, is password protected for your privacy and security. In certain areas of the site, LottoStrategies.com uses industry-standard SSL encryption to protect data transmissions.    
 
 
-[**Click Here, Play and Get Up To $300 FREE!**](http://www.gamingclubpoker.com/a65486)   
+  
+
+
+**Purchase Lottery Tickets Online**
+
+  
  
