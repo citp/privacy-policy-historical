@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justrage.com privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310232815id_/http%3A//www.justrage.com/staticpages/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justrage.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230114154id_/http%3A//www.justrage.com/staticpages/index.php/privacy) for the most accurate reproduction.*
 
 # justrage.com - Privacy Policy
 
@@ -41,6 +41,3 @@ We are **NOT** liable for any damages caused by any of this website's content, r
 **Contacting Us**
 
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you may contact the following person: 
-
-  
-Last Updated Monday, February 07 2005 @ 09:34 AM CST [](http://www.justrage.com/staticpages/index.php/privacy/print)
