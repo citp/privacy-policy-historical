@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2005-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050426082556id_/http%3A//www.bjs.com/etc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230180504id_/http%3A//www.bjs.com/etc/privacy.shtml) for the most accurate reproduction.*
 
 # BJ's Wholesale Club > Privacy Policy
 
@@ -80,7 +80,7 @@ We want to communicate with you only if you want to hear from us. We give you th
 If you do not want to receive Promotional Material from us and you prefer that we not share information with our specialty business partners you can: 
 
   * [Modify your marketing preferences online](https://web.archive.org/member/login.start);
-  * Call our Member Care representatives at 1-800- BJS-CLUB Monday to Friday 9 A.M. - 5 P.M. except holidays; or
+  * Call our Member Care representatives at 1-800-BJS-CLUB any day from 7:00 A.M. - 11:00 P.M. EST; or
   * Write us at the following address: BJ's Wholesale Club, Inc., One Mercer Road, Natick, MA 01760, Attn: Member Care.
 
 
@@ -92,7 +92,7 @@ Please be advised that your opt-out election will apply to all forms of communic
 You may update, review or correct your account information, including your marketing preferences at any time by:
 
   * Accessing your online Profile via the "[Member Services](https://web.archive.org/member/)" link at the top of the BJ's Sites screen;
-  * Calling Member Care at 1-800-BJS-CLUB Monday to Friday 9 A.M. - 5 P.M. except holidays; or
+  * Calling Member Care at 1-800-BJS-CLUB any day from 7:00 A.M. - 11:00 P.M. EST; or
   * Writing us at the following address: BJ's Wholesale Club, Inc., One Mercer Road, Natick, MA 01760, Attn: Member Care.
 
 
