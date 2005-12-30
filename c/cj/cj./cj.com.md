@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cj.com privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629013349id_/http%3A//www.cj.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cj.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230165223id_/http%3A//www.cj.com/privacy.jsp) for the most accurate reproduction.*
 
 # Online marketing solutions: performance-based affiliate programs & search marketing
 
