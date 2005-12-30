@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocala4sale.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403120245id_/http%3A//ocala4sale.com/information/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocala4sale.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230203353id_/http%3A//ocala4sale.com/information/privacy.php) for the most accurate reproduction.*
 
 # Ocala4sale.com Privacy Policy
 
@@ -34,7 +34,7 @@
 > 1\. Create and use an email address that is not your primary address. Many sites offer free email -- Hotmail, Yahoo!, etc.  
 >  3\. Place in your ad only the things that you want to be public.  
 >  2\. Do not use an unlisted phone number.   
->  4\. Do not reply to messages offering more than the asking price. For more details, read [ http://ocala4sale.com/information/nigerian-scam.htm](http://ocala4sale.com/information/nigerian-scam.htm)
+>  4\. Do not reply to messages offering more than the asking price. For more details, read [ http://ocala4sale.com/information/nigerian-scam.php](http://ocala4sale.com/information/nigerian-scam.php)
 > 
 > **Cookies**  
 >  USA4SALE Networks sites may set and access cookies on your computer. We use cookies to estimate and report our total audience size and traffic and conduct research to improve our content and services.
