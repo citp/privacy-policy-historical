@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitzipper.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171001id_/http%3A//www.bitzipper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitzipper.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230013152id_/http%3A//www.bitzipper.com/privacy.html) for the most accurate reproduction.*
 
 # Bitberry Software Privacy Policy
 
