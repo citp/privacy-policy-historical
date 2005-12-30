@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defra.gov.uk privacy policy that was archived on 2005-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050301193155id_/http%3A//www.defra.gov.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defra.gov.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230120000id_/http%3A//www.defra.gov.uk/privacy.htm) for the most accurate reproduction.*
 
 # Defra, UK - Defra website: privacy statement
 
@@ -6,7 +6,7 @@ If you are a user with general public and anonymous access the Defra website doe
 
 We do not use cookies for collecting user information (except in relation to online advertising - see below) and we will not collect any information about you except that required for system administration of our web server.
 
-This privacy statement only covers the Defra website at http://www defra.gov.uk. This statement does not cover sub-domains (of the form http://subdomain.defra.gov.uk or http://www.subdomain.defra.gov.uk) - such addresses are typically used by web-based applications which may take different approaches to registration or logging of users - nor to links within this site to other websites (see [hyperlinks to third party websites](https://web.archive.org/web/20050301193155id_/http%3A//www.defra.gov.uk/terms.htm#linkfrom)).
+This privacy statement only covers the Defra website at http://www defra.gov.uk. This statement does not cover sub-domains (of the form http://subdomain.defra.gov.uk or http://www.subdomain.defra.gov.uk) - such addresses are typically used by web-based applications which may take different approaches to registration or logging of users - nor to links within this site to other websites (see [hyperlinks to third party websites](https://web.archive.org/web/20051230120000id_/http%3A//www.defra.gov.uk/terms.htm#linkfrom)).
 
 #### Online advertising
 
@@ -18,8 +18,8 @@ If this privacy policy changes in any way, we will place an updated version on t
 
 #### See also:
 
-  * [Help](https://web.archive.org/web/20050301193155id_/http%3A//www.defra.gov.uk/help.asp)
+  * [Help](https://web.archive.org/web/20051230120000id_/http%3A//www.defra.gov.uk/help.html)
 
-  * [Terms and conditions; copyright](https://web.archive.org/web/20050301193155id_/http%3A//www.defra.gov.uk/terms.htm)
+  * [Terms and conditions; copyright](https://web.archive.org/web/20051230120000id_/http%3A//www.defra.gov.uk/terms.htm)
 
 
