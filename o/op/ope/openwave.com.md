@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openwave.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403100208id_/http%3A//www.openwave.com/us/legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openwave.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230014501id_/http%3A//www.openwave.com/us/legal/privacy_policy.htm) for the most accurate reproduction.*
 
 # Openwave - Legal - Openwave Privacy Policy
 
