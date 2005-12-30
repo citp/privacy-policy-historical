@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418235807id_/http%3A//www.findlegalforms.com/xcart/customer/help.php%3Fsection%3Dbusiness%26XCARTSESSID%3D2883f8a9c02369b5ab4e24a9af523810) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230044853id_/http%3A//findlegalforms.com/xcart/customer/help.php%3Fsection%3Dbusiness%26XCARTSESSID%3D8321a63a2e7cdd6a3cee7910fa9bb688) for the most accurate reproduction.*
 
-# FindLegalForms.com - Power of Attorney Bill of Sale Auto and Vehicle Legal Forms - Help section
+# FindLegalForms.com - Legal Forms for all your needs including Leases, Power of Attorney, Bill of Sale, Wills, Deeds and more - Help section
 
-  |    
-|   |  [ FindLegalForms.com ](https://web.archive.org/web/20050418235807id_/http%3A//www.findlegalforms.com/xcart/customer/home.php?XCARTSESSID=b458a56273b03d8692464f4a5c2a8607) :: Help Zone :: 
+  |  |  | Form Categories  
+---|---  
+  
+  |  [ FindLegalForms.com ](https://web.archive.org/web/20051230044853id_/http%3A//findlegalforms.com/xcart/customer/home.php) :: Help Zone :: 
 
 |   Privacy statement  
 ---  
@@ -13,4 +15,4 @@
  
 
   |   
-  |   |   |  Copyright 2001-2004 [ FindLegalForms, Inc.](http://www.findlegalforms.com/) |   |  
+  |   |   |  Copyright 2001-2005 [ FindLegalForms, Inc.](http://www.findlegalforms.com/) |   |  
