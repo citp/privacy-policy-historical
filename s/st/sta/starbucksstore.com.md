@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406184628id_/http%3A//www.starbucksstore.com/products/shourplg.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230042355id_/http%3A//www.starbucksstore.com/products/shourplg.asp) for the most accurate reproduction.*
 
 # Prvacy Policy - StarbucksStore.com
 
@@ -9,11 +9,13 @@
 |   
 ---  
 |  Featured Items  
+[Gift Boxes](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0023&SubClassNo=0086)  
 [Black Apron](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&MaterialNo=8101)  
 [Exclusives™](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&MaterialNo=8101)  
 [Holiday/Seasonal](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&MaterialNo=8102)All Coffees  
-[Caffeinated](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&StyleNo=8101)  
-[Decaffeinated](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&StyleNo=8102)Origin  
+[Starbucks® Coffees](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&StyleNo=8101)  
+[Starbucks® Decaf](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&StyleNo=8102)  
+[Coffees](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&MaterialNo=8101)Origin  
 [Latin America](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&SubClassNo=8750)  
 [Africa Arabia](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&SubClassNo=8751)  
 [Asia Pacific](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&SubClassNo=8752)
@@ -30,7 +32,7 @@ Bean Preference
 |   
 About Our Coffees  
 [Coffee Origins](http://www.starbucksstore.com/products/origins.asp)  
-[The 4 Fundamentals](http://www.starbucksstore.com/products/sb_cf.asp)|   
+[The 4 Fundamentals](http://www.starbucksstore.com/products/sb_cf.asp) |   
   
   
   
@@ -92,7 +94,7 @@ If you want to be removed from a list, simply follow the instructions in the sec
 At any time you can unsubscribe, correct or update your information or modify your preferences pertaining to our newsletters, catalog and mailing list.
 
   * **To review, change or update information, as it pertains to our newsletters, you have several options:**
-    * **On the StarbucksStore.com Site.** Click on the "Help" button at thetop of the home page then on the appropriate link under the "subscriptions" to change your information.
+    * **On the StarbucksStore.com Site.** Click on the "Help" button at the top of the home page then on the appropriate link under the "subscriptions" to change your information.
     *  **By e-mail.** Send an email request to Customer Service.
     *  **By postal mail.** Please include your email address and mail your request to us at 2850 Ocean Park Blvd. Suite 310, Santa Monica, CA 90405: Attention: Customer Service.
     *  **By phone.** Call toll-free at (800) 571-7289 in the USA and Canada.  
