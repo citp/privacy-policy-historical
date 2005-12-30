@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurcreampies.com privacy policy that was archived on 2005-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050603081118id_/http%3A//www.nextdooramateur.com/customersupport.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurcreampies.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230090851id_/http%3A//www.nextdooramateur.com/customersupport.htm) for the most accurate reproduction.*
 
 # Next Door Amateur
 
