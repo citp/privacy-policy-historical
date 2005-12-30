@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the livejournal.com privacy policy that was archived on 2005-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050622043445id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livejournal.com privacy policy that was archived on 2005-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051230074733id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>LiveJournal.com Privacy Policy</title>
+
+
   <link rel="stylesheet" type="text/css" href="http://stat.livejournal.com/xc/basic.css">
   <link rel="stylesheet" type="text/css" href="http://stat.livejournal.com/xc/menu-normal.css">
 
@@ -16,6 +18,14 @@
   <link rel="contents" title="Site Map" href="/site/">
   <link rel="help" title="Technical Support" href="/support/">
   <script type="text/javascript" src="http://stat.livejournal.com/xc/layout.js"></script>
+  <script type="text/javascript">
+    var showNothing = function () { show(0) };
+    if (window.attachEvent)
+        window.attachEvent("onload", showNothing);
+    if (window.addEventListener)
+        window.addEventListener("load", showNothing, false);
+  </script>
+  
   
 <script type="text/javascript" src="http://www.livejournal.com/js/md5.js"></script>
 <script language="JavaScript" type="text/javascript">
@@ -29,7 +39,7 @@ function sendForm (formid, checkuser)
     if (! document.getElementById) return true;
     var loginform = document.getElementById(formid);
     if (! loginform) return true;
-    
+
     // Avoid accessing the password field if there is no username.
     // This works around Opera < 7 complaints when commenting.
     if (checkuser) {
@@ -360,13 +370,7 @@ document compliance with regulatory requirements.</li>
 
 <p>If you have a privacy concern regarding LiveJournal.com, or this
 policy, and if you cannot satisfactorily resolve it through the
-use of this web site, you should then write to us by email to <a href="mailto:privacy@livejournal.com">privacy@livejournal.com</a>.
-Alternatively, we can be reached by telephone at 415-344-0056 or our postal
-mail address:</p>
-
-<blockquote>
-LiveJournal.com<br>660 4th St. #347<br>San Francisco, CA 94107<br>Attention: Privacy Officer
-</blockquote>
+use of this web site, you should then write to us by email to <a href="mailto:privacy@livejournal.com">privacy@livejournal.com</a>.</p>
 
 <p>In the event that we are still unable to resolve your concerns
 LiveJournal.com is committed to cooperating to achieve a proper resolution
@@ -385,17 +389,20 @@ may require us to terminate our relationship with you.</p>
     <!-- /Content -->
 
   </div>
-  <div id="Logo" onclick="unshow();"><a href="/"><img src="http://stat.livejournal.com/xc/logocombined.gif" alt="LiveJournal" border="0"></a></div>
-  <div id="NotLoggedInDiv" style="position: absolute; left: auto; right: 50px; top: 15px; width: auto; height: 20px; text-align: right; color: #FFF; background-color: transparent; font: 14px Arial, Helvetica, sans-serif;"><i>Not <a href="/login.bml" onclick="return xcShowLoginDiv();">logged in</a>.</i><div style="font-size: 12px; margin-top: 0.2em"><i>(<a href="/create.bml">Create</a> account.)</i></div></div>  <div id="LoginBox" class="nopic" style="display:none"><form id="login" action="/login.bml" method="post">
+<div id="Logo" onclick="unshow();"><a href="/"><img src="http://stat.livejournal.com/xc/logocombined.gif" alt="LiveJournal" border="0"></a></div>  <div id="NotLoggedInDiv" style="position:absolute; left: auto; right: 50px; top: 15px; width: auto; height: 20px; text-align: right; color: #FFF; background-color: transparent; font: 14px Arial, Helvetica, sans-serif;"><i><a href="/login.bml" onclick="return xcShowLoginDiv();">Log in now</a>.</i><div style="font-size: 12px; margin-top: 0.4em"><i>(<a href="/create.bml">Create</a> account, or use <a href="/openid/">OpenID</a>)</i></div></div>  <div id="LoginBox" class="nopic" style="display:none"><form id="login" action="/login.bml" method="post">
   <input type="hidden" name="mode" value="login">
-  <input type="hidden" name="chal" id="login_chal" value="c0:1119412800:2085:300:E4JAg5zO7pjV5pkZ7oeU:3f1409479ebe6bb9787e82b4fcc2aad1">
+  <input type="hidden" name="chal" id="login_chal" value="c0:1135926000:2853:300:cqJblJDHyGVWjcJaciN0:ad0ec328e5512ecb62a75e60bc87a5f3">
   <input type="hidden" name="response" id="login_response" value="">
+<table><tbody><tr><td>
   <label for="xc_user">Username:</label> <input type="text" name="user" size="15" maxlength="15" tabindex="1" id="xc_user" value="" style="background: url(http://stat.livejournal.com/img/userinfo.gif) no-repeat; background-color: #fff; background-position: 0px 1px; padding-left: 18px; color: #00C; font-weight: bold;">
+</td><td colspan="2">
   <label for="xc_password">Password:</label> <input type="password" name="password" size="10" tabindex="2" id="xc_password">
-<input type="submit" onclick="return sendForm()" value="Login?" tabindex="3"></form></div>
+<input type="submit" onclick="return sendForm()" value="Login?" tabindex="4"></td></tr><tr><td style="font: 10px Arial, Helvetica, sans-serif;" valign="top"><a href="/lostinfo.bml" style="color: #FFF">forget your login?</a></td><td style="font: 10px Arial, Helvetica, sans-serif;" valign="top" colspan="2"><input type="checkbox" id="xc_remember" name="remember_me" style="height: 10px; width: 10px;" tabindex="3"><label for="xc_remember">remember me</label></td></tr></tbody></table></form></div>
   <form id="Search" action="/multisearch.bml" method="post">
     <label for="SearchTerm">Search:</label>    <input id="SearchTerm" type="text" name="q" size="15" value="">
-    <label for="SearchType">Category:</label> <select id="SearchType" name="type">      <option value="user" selected="selected">Username</option>
+    <label for="SearchType">	Category:</label> <select id="SearchType" name="type">      <option value="nav_and_user" selected="selected">Site &amp; Username</option>
+      <option value="nav">Site</option>
+      <option value="user">Username</option>
       <option value="email">E-mail</option>
       <option value="region">Region</option>
       <option value="int">Interest</option>
@@ -422,15 +429,14 @@ may require us to terminate our relationship with you.</p>
         <li><a href="/directory.bml">Region</a></li>
         <li><a href="/interests.bml">Interests</a></li>
         <li><a href="/directorysearch.bml">Advanced</a></li>
+        <li><a href="/schools/">Schools</a></li>
     </ul></li>
-    <li><a href="/support/" onmouseover="javascript:show(2)" onfocus="javascript:show(2)" id="Menu2">Help</a>
+    <li><a href="/shop/" onmouseover="javascript:show(2)" onfocus="javascript:show(2)" id="Menu2">Gift Shop</a>
       <ul class="NavSubMenuList">
-        <li><a href="/support/">Ask a Question</a></li>
-        <li><a href="/lostinfo.bml">Lost Password</a></li>
-        <li><a href="/support/faq.bml"><abbr title="Frequently Asked Questions">FAQ</abbr></a></li>
-        <li><a href="/site/">Site Map</a></li>
-        <li><a href="/manage/siteopts.bml">Browse Options</a></li>
-        <li><a href="/press/staff.bml">Contact&nbsp;Info</a></li>
+        <li><a href="/shop/index.bml?class=gifts">Gifts</a></li>
+        <li><a href="/shop/index.bml?class=merchandise">Merchandise</a></li>
+        <li><a href="/shop/index.bml?class=paidaccount">Paid Accounts</a></li>
+        <li><a href="/shop/index.bml?class=bonusfeatures">Add-Ons</a></li>
     </ul></li>
     <li><a href="/site/about.bml" onmouseover="javascript:show(3)" onfocus="javascript:show(3)" id="Menu3">About</a>
       <ul class="NavSubMenuList">
@@ -439,6 +445,15 @@ may require us to terminate our relationship with you.</p>
         <li><a href="/download/">Download</a></li>
         <li><a href="/news.bml">Site News</a></li>
         <li><a href="/paidaccounts/">Paid Accounts</a></li>
+    </ul></li>
+    <li><a href="/support/" onmouseover="javascript:show(4)" onfocus="javascript:show(4)" id="Menu4">Help</a>
+      <ul class="NavSubMenuList">
+        <li><a href="/support/">Ask a Question</a></li>
+        <li><a href="/lostinfo.bml">Lost Password</a></li>
+        <li><a href="/support/faq.bml"><abbr title="Frequently Asked Questions">FAQ</abbr></a></li>
+        <li><a href="/site/">Site Map</a></li>
+        <li><a href="/manage/siteopts.bml">Browse Options</a></li>
+        <li><a href="/press/staff.bml">Contact&nbsp;Info</a></li>
     </ul></li>
   </ul>
 
