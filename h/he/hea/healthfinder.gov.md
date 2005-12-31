@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404134310id_/http%3A//www.healthfinder.gov/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231225913id_/http%3A//www.healthfinder.gov/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # About healthfinder®: Privacy - healthfinder®
 
-##  [Home](https://web.archive.org/web/20050404134310id_/http%3A//www.healthfinder.gov/) > [About ](https://web.archive.org/web/20050404134310id_/http%3A//www.healthfinder.gov/aboutus/) [healthfinder®](https://web.archive.org/web/20050404134310id_/http%3A//www.healthfinder.gov/aboutus/) > Privacy Policy 
+##  [Home](https://web.archive.org/web/20051231225913id_/http%3A//www.healthfinder.gov/) > [About ](https://web.archive.org/web/20051231225913id_/http%3A//www.healthfinder.gov/aboutus/) [healthfinder®](https://web.archive.org/web/20051231225913id_/http%3A//www.healthfinder.gov/aboutus/) > Privacy Policy 
 
   
 healthfinder® is a free portal to reliable consumer health and human services information developed by the U.S. Department of Health and Human Services. When you visit our Web site, we do not collect any information about you unless you choose to provide that information to us (other than information automatically collected and stored in the Web server's logs—see below). As a portal Web site, healthfinder® links to other Web sites, and once a user leaves the healthfinder® site to visit a linked site, the privacy policy of that site applies. 
@@ -43,7 +43,7 @@ Information originally collected in traditional paper systems can be submitted e
 
 ### IHC Disclosure Statement
 
-healthfinder® also provides an [IHC disclosure statement](https://web.archive.org/web/20050404134310id_/http%3A//www.healthfinder.gov/aboutus/ihcdisclosure.asp) as recommended by the Science Panel on Interactive Communication and Health.
+healthfinder® also provides an [IHC disclosure statement](https://web.archive.org/web/20051231225913id_/http%3A//www.healthfinder.gov/aboutus/ihcdisclosure.asp) as recommended by the Science Panel on Interactive Communication and Health.
 
-You may also wish to review our [disclaimer](https://web.archive.org/web/20050404134310id_/http%3A//www.healthfinder.gov/aboutus/disclaimer.asp).   
+You may also wish to review our [disclaimer](https://web.archive.org/web/20051231225913id_/http%3A//www.healthfinder.gov/aboutus/disclaimer.asp).   
  
