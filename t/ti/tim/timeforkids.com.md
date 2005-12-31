@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeforkids.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404101527id_/http%3A//www.timeinc.net/legal/privacy/tfk_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeforkids.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231095214id_/http%3A//www.timeinc.net/legal/privacy/tfk_privacy.html) for the most accurate reproduction.*
 
 # Time for Kids | About Us
 
@@ -50,16 +50,18 @@ As mentioned in Section I, the only personally identifiable information we may c
 
 VII. Contact Us
 
-If you have any questions, comments or concerns regarding our privacy policy and/or practices, or if you would like to opt-out of marketing communications from us and our partners, please contact us at the following e-mail address: 
+If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please [click here](http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tfk?online=yes&dnp_source=E). 
 
-[privacy@timeforkids.com](mailto:privacy@timeforkids.com)
+Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please [click here](http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tfk?online=yes&dnp_source=E). 
 
-OR:
+If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact us at the following address: 
 
-TIME FOR KIDS CUSTOMER SERVICE   
-ATTENTION : CONSUMER AFFAIRS   
+TIME FOR KIDS CUSTOMER SERVICE  
+ATTENTION : CONSUMER AFFAIRS  
 3000 University Center Drive  
 Tampa, FL 33612-6408 
+
+OR go to our Customer Service site [here](https://secure.customersvc.com/servlet/Show?WESPAGE=tk/Transactions/myaccount.html). 
 
 VIII. A Final Note to Parents
 
