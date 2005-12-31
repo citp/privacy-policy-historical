@@ -1,55 +1,73 @@
-> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2005-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050424000750id_/http%3A//www.roomandboard.com/rnb/privacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231193822id_/http%3A//www.roomandboard.com/rnb/privacy.vm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Room & Board furniture and home furnishings for every room in your house
 
-Last updated: January 3, 2005 
+Room & Board, Inc. Corporate Consumer Privacy Policy
 
-Room & Board, Inc., which includes Room & Board and Retrospect, is committed to your privacy. Our Privacy Policy outlines our current information gathering and sharing practices. We encourage you to read it whenever you visit our sites as the information may change without notice due to site enhancements, changes in the law and changes in technology. Rest assured that we will not sell, share or rent information gathered through our sites in ways different from what is disclosed here. 
+Room & Board, Inc. is committed to respecting your private information and protecting it from misuse. Our Privacy Policy outlines our current policy on personally identifiable information concerning consumers, and covers the operations of our stores, our catalog and telephone sales, and within our Web site. We encourage you to read it whenever you visit our stores, catalogs or Web site, since we may change this policy from time to time due to enhancements to our systems or changes in the law. A copy of the current policy is always posted at <http://www.roomandboard.com/rnb/privacy.vm>. You may also obtain a copy of the current policy by contacting the office of the Privacy Officer shown at the end of this policy. 
 
-We adhere to the Direct Marketer's Association's "Privacy Promise to American Customers" and the Children’s Online Privacy Protection Act (COPPA). We will not knowingly collect information about children under the age of 13 without prior parental consent. By submitting personal information on our sites, you are representing to us that you are 18 years of age or older. 
+Basic Privacy Principals  
+The following " _Basic Privacy Principals_ " apply throughout our entire enterprise, whether we gather information through our stores, our catalog operations, or our Web site. 
 
-**Collecting and using your information**   
-_Anonymous, non-personally identifiable information_ such as your IP address, domain server, type of computer, type of web browser, and addresses of referring sites, also known as "traffic data," may be collected and used to diagnose problems with our server and administer our sites. We may also use "cookies" and "action tags" to collect information. Cookies and action tags allow us to compile statistics and other information about how you use our sites. We may use this data to analyze trends and improve the usability of our sites as well as to administer the sites and gather broad demographic statistics. We may also share non-personally identifiable data with third parties on an aggregate basis. 
+We consider certain information which we may learn or create while we engage in our business to be a consumer's " _personally identifiable information_." This includes any " _identity information_ " which directly identifies a person by name, address, telephone number, e-mail address, government-issued number such as a social security number, or financial account identifier such as a credit card number. Personally identifiable information also includes information which is directly associated with identity information, such as information about the identified person's purchases to the extent the information is directly associated with that person's identity information. 
 
-_Personally identifiable information_ such as your name, home address and e-mail address may be required if you wish to communicate with us via e-mail. This "contact information" may be used to respond to your e-mail or contact you regarding a related matter. Our sites also give you the option to create a "Wish List" of your favorite products. To create a Wish List, you may be required to provide contact information and select a user name and password. This information may be used to provide you with personal services such as product order history, scheduled delivery information and other relevant notices not available to users who choose not to create a Wish List. Submitting contact information and creating a Wish List are strictly voluntary and are not required to use our sites. 
+We do not consider all information that we may gather or create in operating our business to be personally identifiable information. Basically, if information is not identity information or directly associated with identity information, we do not consider it to be personally identifiable information. For example, a database of our customer's purchases in aggregate which does not identify the individual customers would not be personally identifiable information. 
 
-**Sharing your information**   
-Room & Board, Inc. may establish business relationships and share your contact information with select persons or entities whom we believe have privacy policies that are generally consistent with ours. These persons or entities may contact you about their products or services. You may opt out of sharing this information at any time; see the "Opting Out" section below. 
+Without your consent or as specified below, we will use your personally identifiable information which we learn through our interactions with you only for the purposes you would reasonably anticipate us doing. This includes use to contact you to answer your questions, to fulfill orders, to obtain billing or payment information, to follow-up on prior orders to ensure your satisfaction, and to contact you with additional information where you have permitted us to do so. 
 
-We reserve the right to provide personally identifiable information as required by law or legal process to protect and defend the rights of Room & Board, Inc., our sites and users of our sites; or in the event of a corporate sale, merger, reorganization, dissolution or similar event. In such cases, the disclosure of information will be as necessary to protect the personal safety of users of our sites or the public. 
+**We do not share, sell or trade your personally identifiable information with third parties.**   
+We may disclose some of your personally identifiable information to one or more of our own service providers that we may use to fulfill services for you, provided that we will reasonably assure that those service providers are obligated to maintain the confidentiality of your personally identifiable information and only use it for the purposes we hire them for. We may also disclose personally identifiable information to others if we are required to do so by law, to protect and defend the rights of Room & Board, Inc., or in the event of a corporate sale, merger, reorganization, dissolution or similar event.
 
-**Links to third party web sites**   
-Our sites may contain links to other Internet web sites that we think you may find of interest. Room & Board, Inc. is not responsible for the content of these sites, nor do we control, sponsor, endorse or approve them. 
+The security of your personally identifiable information is important to us. Although we cannot guarantee against loss, misuse, alteration, unauthorized disclosure or destruction of data, we use commercially reasonable security measures to protect you from such occurrences. If necessary in accordance with the law, we will disclose to you any known or reasonably suspected breach in security involving your personally identifiable information. 
 
-**Security**   
-The security of your personally identifiable information is important to us. We store your information on a secured server that is not accessible through the Internet. Although we cannot guarantee against loss, misuse, alteration, unauthorized disclosure or destruction of data, security measures are in place to protect you from such occurrences. If necessary, we will disclose to our users any breach in security involving personally identifiable information in accordance with the law. 
+This Privacy Policy is intended to comply with applicable United States laws and regulations, including the laws of particular states where our stores or customers are located. Our stores are located in the United States, all catalog orders are placed to our operators located in the United States, and our Web site is targeted only to residents of the United States. If you are not a resident of the United States, please note that our information gathering practices may not be compliant with your own country's laws and regulations, and you should not share your personally identifiable information with us unless you are willing and able to be subject to United States laws concerning such disclosures. 
+
+**Store and Catalog Operations**   
+In addition to the Basic Privacy Principles discussed above, the following policies apply specifically to our Stores and our Catalog operations. 
+
+Our stores and catalog operations are available to you to discuss our products and services with a Design Associate, and you may place your orders through one of our Design Associates in the stores, or place a catalog order via postal mail or via telephone. When we take your order, we will obtain additional personally identifiable information including your payment information. We will only use that personally identifiable information from your order for purposes concerning the fulfillment of your order. In doing so, your personally identifiable information from an order may be used or shared among our different offices, representatives or service providers such as the store, our catalog sales offices, our warehouses, our headquarters, the manufacturers of products you have purchased, the freight carriers used to deliver products to you, installers or designers we have engaged to assist with your order, or our credit card merchant banks or other bankers. We will share only that portion of your personally identifiable information with third parties that is reasonably required to fulfill your order, and those third parties will be contractually obligated to use the personally identifiable information only for order-fulfillment purposes. 
+
+We will comply with our credit card merchant bank's requirements for the use and storage of your credit card information, such as obligations concerning the security of your credit card numbers. 
+
+**Web Site**   
+In addition to the Basic Privacy Principals discussed above, the following policies apply specifically to our Web Site ( _www.roomandboard.com_ ). 
+
+Our Web site is not used to directly obtain your purchase orders, and is offered primarily as an information resource to assist you in learning about our products and services. We look forward to seeing you in our stores or hearing from you via regular mail or telephone if you wish to place an order. If you choose to provide personally identifiable information regarding a potential order through our Web site, or through any unsecured method such as e-mail, please be aware that we do not provide for secured communications over the Internet, specifically recommend that you do not send sensitive data such as payment information to us over the Internet, and that we are not responsible for the secure transmittal or storage of such information over the Internet if you choose to do so. We recommend that payment information be shared directly with one of our employees, either in person or through our Customer Service telephone line at 800.301.9720. 
+
+Our Web site gives you the option to create a personal account. To create an account, you will be asked to provide contact information and select a user name and password. This personally identifiable information may be used to provide you with personal services from us. You may also use the account to use our online _personalized features_. However, submitting contact information and creating an account are strictly voluntary and are not required to use our Web site. 
+
+Our Web site is not targeted to persons under the age of 13, and we will not knowingly collect personally identifiable information from persons under age 13 without prior parental consent. We will presume that all personally identifiable information collected by our Web site is from persons age 13 and over. 
+
+Anonymous, non-personally identifiable information such as your IP address, domain server, type of computer, type of web browser, and addresses of referring site, also known as traffic data, may be collected and used to diagnose problems with our server and administer our site. We may also use cookies and action tags to collect information. Cookies and action tags allow us to compile statistics and other information about how you use our site. We may use this data to analyze trends and improve the usability of our site as well as to administer the site and gather broad demographic statistics. We may also share such non-personally identifiable information with third parties on an aggregate basis. 
+
+Our site may contain links to other Internet web sites that we think you may find of interest. We are not responsible for the content of these sites, nor do we control, sponsor, endorse or approve them. Your use of those links is at your own risk. 
 
 **Opting out**   
-You may opt out of receiving communications from us at the point where we request information about you. 
+If you request to receive information from us, we will naturally presume that you have given us permission to communicate with you about that information, either by postal mail, e-mail or telephone. Further, if you are engaged in transactions with one of our associates, and choose to use email or telephone for communications about that transaction, we will presume again that you have given us permission to communicate with you about that transaction. 
 
-If you would prefer not to receive our catalogs, or if you are receiving extra copies that you do not need, e-mail us at [webmaster@roomandboard.com](mailto:webmaster@roomandboard.com) explaining that you would like to be removed from our catalog mailing list. Please include your name and address in the message. 
+Apart from the above, you may opt-out of receiving future commercial communications from us. You may first do so at the point where we request information about you. 
 
-If you would prefer not to receive our e-mail updates, please use the functionality located at the bottom of each e-mail or visit the following url: http://www.roomandboard.com/rnb/email_subunsub.vm. 
+If you would prefer not to receive our e-mail updates, please use the functionality located at the bottom of each e-mail or visit the following url:   
+http://www.roomandboard.com/rnb/info_email.vm 
 
-If you would not like us to share your contact information, please e-mail us at [shop@roomandboard.com](mailto:shop@roomandboard.com) explaining that you would like to be removed from this list. 
+If you would prefer not to receive our catalogs in the postal mail, or if you are receiving extra copies that you do not need, e-mail us explaining your preferences. Please include your name and postal mailing address in the message or we may not be able to fulfill your request. 
 
-You can also call 800.486.6554 to be removed from any of our lists. 
-
-When you make a purchase at Room & Board, we may need to contact you via phone or e-mail to address questions specific to your order even if you opted not to receive communications from us. 
+You can also call our Customer Service telephone line at 800.301.9720 to be removed from any of our lists, both email and postal mail. 
 
 **Correcting or updating your information**   
-Visit the following URL to correct, change or update your user information:   
+Visit the following URL to correct, change or update your personally identifiable information for the Web site account:   
 <http://www.roomandboard.com/rnb/shopperinfo.do>
 
-**Contacting a Design Associate**   
-To contact a Design Associate, call 800.486.6554. 
+**Privacy Officer**   
+Please direct any questions or comments regarding our Privacy Policy to the office of our Privacy Officer: 
 
-**Contacting our Webmaster**   
-Please direct any questions or comments regarding our privacy policy and web sites to our Webmaster: 
+_Dan Sendle_
 
-Graham Francois  
+, Privacy Officer  
 Room & Board, Inc.  
 4600 Olson Memorial Highway  
 Minneapolis, Minnesota 55422  
 phone: 763.588.7525  
-e-mail: [webmaster@roomandboard.com](mailto:webmaster@roomandboard.com%20)
+e-mail: [privacyofficer@roomandboard.com](mailto:privacyofficer@roomandboard.com)
+
+Last updated: October 11, 2005 
