@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verabradley.com privacy policy that was archived on 2004-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040724184427id_/http%3A//www.verabradley.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verabradley.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231042214id_/http%3A//www.verabradley.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -62,7 +62,7 @@ Vera Bradley's website may contain links to other sites, and we make every effor
 
 **How You Can Access Or Correct Your Information**
 
-Visitors may modify personal information stored by Vera Bradley by accessing the [Club Vera login page](https://web.archive.org/web/20040724184427id_/http%3A//www.verabradley.com/ClubVera/signIn_form.aspx?qs4=1). If you would like to remove your name from our records, please write us at:
+Visitors may modify personal information stored by Vera Bradley by accessing the [Club Vera login page](https://web.archive.org/web/20051231042214id_/http%3A//www.verabradley.com/ClubVera/signIn_form.aspx?qs4=1). If you would like to remove your name from our records, please write us at:
 
 Vera Bradley  
 Attention Web Manager  
