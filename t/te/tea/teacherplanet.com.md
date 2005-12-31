@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherplanet.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404191944id_/http%3A//www.theeducatorsnetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherplanet.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231120257id_/http%3A//www.theeducatorsnetwork.com/privacy.php) for the most accurate reproduction.*
 
 # The Educators Network: Where Teachers Come First
 
