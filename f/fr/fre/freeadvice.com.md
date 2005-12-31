@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2005-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050425075731id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231055242id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.*
 
 # FreeAdvice.com's Privacy Policy
 
@@ -62,11 +62,11 @@ This Web site is directed at adults, not children, and we do not seek to collect
 
 ### Choice/Opt-Out 
 
-Our site provides users the opportunity to opt-out of receiving communications from us and sites associated with us  at the point where we request information about the visitor. This site gives users various options for removing postings and other information, and to discontinue receive future communications from us. For example, the Forums have provisions for visitors to edit or remove postings they have made, and our Newsletters have linkages or return addresses for recipients to direct that they unsubscribe. For specifics concerning a matter impacting you, you can send email to [admin@adviceco.com](mailto:admin@adviceco.com) or by mail to the following postal address: _PO Box 1739, Mill Valley, CA 94942-1739_
+Our site provides users the opportunity to opt-out of receiving communications from us and sites associated with us at the point where we request information about the visitor. This site gives users various options for removing postings and other information, and to discontinue receive future communications from us. For example, the Forums have provisions for visitors to edit or remove postings they have made, and our Newsletters have linkages or return addresses for recipients to direct that they unsubscribe. For specifics concerning a matter impacting you, you can send email to [admin@adviceco.com](mailto:admin@adviceco.com) or by mail to the following postal address: _PO Box 1739, Mill Valley, CA 94942-1739_
 
 ### Revisions / Corrections / Updates 
 
-We reserve the right to change our privacy policy from time to time. If we do change our privacy policy in the future, we'll post the changes when they take effect. This site gives users options for changing and modifying information previously provided, often at the feature on which you registered. For specifics concerning a matter impacting you, you can send email to [admin@adviceco.com](mailto:admin@adviceco.com) or by mail to the following postal address: PO Box 1739, Mill Valley, CA 94942-1739 
+We reserve the right to change our privacy policy from time to time. If we do change our privacy policy in the future, we'll post the changes when they take effect. This site gives users options for changing and modifying information previously provided, often at the feature on which you registered. For specifics concerning a matter impacting you, you can send email to [admin@adviceco.com](mailto:admin@adviceco.com) or by mail to the following postal address: PO Box 1739, _Sausalito, CA 94966_
 
 ### Contacting the Web Site 
 
@@ -74,9 +74,12 @@ If you have any questions about this privacy statement, which is effective March
 
 _Mary Martin, Vice-President  
 FreeAdvice.com / Advice Company  
-150 Shoreline Highway, Bldg. E   
 PO Box 1739   
-Mill Valley, CA 94942-1739   
+Sausalito, CA 94966  
 [admin@adviceco.com ](mailto:admin@adviceco.com)_
 
- 
+|  | 
+
+**Find Legal Forms for Your State**  
+  
+---
