@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gallerycarre.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406013146id_/http%3A//www.gallerycarre.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gallerycarre.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231050138id_/http%3A//www.gallerycarre.com/en/privacy) for the most accurate reproduction.*
 
 # Gallery Carre -
 
