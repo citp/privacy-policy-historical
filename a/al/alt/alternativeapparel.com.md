@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2005-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050210101800id_/http%3A//www.alternativeapparel.com/default.aspx%3Fid%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231154136id_/http%3A//www.alternativeapparel.com/default.aspx%3Fid%3D21) for the most accurate reproduction.*
 
 # Alternative Apparel
 
