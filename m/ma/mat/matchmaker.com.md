@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matchmaker.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628004226id_/http%3A//info.lycos.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchmaker.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231040912id_/http%3A//info.lycos.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Lycos Privacy Policy
 
@@ -25,7 +25,7 @@ the information that is collected?
   6. How can you access or edit your information?
   7. What are the policies concerning advertising on the Lycos Network?
   8. What is the opt-out policy for the Lycos Network?
-  9. What are the Policies Concerning Lycos Circles?
+  9. What are the Policies Concerning Lycos Planet?
   10. What types of security procedures are in place to protect  
 against the loss, misuse or alteration of your information?
   11. How does the Lycos Network comply with the Children's Online Privacy Protection Act (COPPA)?
@@ -140,11 +140,7 @@ To remove your listing from Lycos White Pages, please send a request to Lycos Cu
 
 If you have a question about the Lycos opt-out process that is not answered here, please send an email to [privacy@lycos.com](mailto:privacy@lycos.com). 
 
-a. Registration Information. When you register to use Circles, you provide Lycos with an email address, name, and date of birth ("Circles Registration Information"). This information will be displayed next to your postings on Circles in accordance with the settings on your profile page. Initially, your profile page will have certain default settings. Unless you make the appropriate changes, certain of the Circles Registration Information will be displayed adjacent to your Lycos Circles postings, and certain of the Circles Registration Information will not. You may adjust the settings on your profile page at any time by clicking [here](http://circles.lycos.com/profile.php?a=editprofile). If you wish to edit your Circles Registration Information, please click [here](http://mayafe.lycos.com/memberedit.php?m_PR=54). 
-
-b. Posted Information. Any information that you post to a Circles page and any adjacent Circles Registration Information (collectively the "Posted Information") will be made available to the members of the Circle of which you are a member. Posted Information will also be made available to users who have been invited to join a Circle but who have not yet joined. Please follow the directions [here](http://circles.lycos.com/viewMyStuff.php) to remove any of your postings. 
-
-The Lycos Network has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. Lycos uses physical, electronic, and procedural safeguards to protect any personally identifiable data stored on its computers. Only authorized employees have access to the information you provide us. Any particularly sensitive information, such as a credit card number used to purchase premium services from Quote.com or Matchmaker.com, is encrypted prior to transmission. 
+When you register for Lycos Planet, you may submit profile information about yourself, such as name, username, gender, birthday, address, college attended, and employer. Most profile information is optional, except for required username and gender. You may also create a "buddy list," a list of members who can view your postings. You may designate who is entitled to view your profile information and buddy list. At your discretion, they may be displayed to any user of Lycos Planet, to anyone on your Lycos Planet buddy list, or to no one. If you wish to update your information or preferences, please click [here](http://planet.lycos.com/). Lycos Planet is also governed by the other terms and conditions of this Privacy Policy, so please review them carefully.  The Lycos Network has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. Lycos uses physical, electronic, and procedural safeguards to protect any personally identifiable data stored on its computers. Only authorized employees have access to the information you provide us. Any particularly sensitive information, such as a credit card number used to purchase premium services from Quote.com or Matchmaker.com, is encrypted prior to transmission. 
 
 While we cannot guarantee that loss, misuse or alteration to data will not occur, we take many precautions to prevent such unfortunate occurrences. 
 
@@ -232,4 +228,4 @@ If you do not receive acknowledgment of your inquiry or your inquiry has not bee
 
 The Lycos Network will update this policy from time to time so please check back periodically. When such changes occur, you will see the word "Updated" next to the Privacy Policy link on the front page of each site on the Lycos Network. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will prominently post such changes prior to implementing them. 
 
-Last updated January 24, 2005. 
+Last updated November 16, 2005. 
