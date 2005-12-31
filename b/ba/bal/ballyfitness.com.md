@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ballyfitness.com privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422021704id_/http%3A//www.ballyfitness.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballyfitness.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231191223id_/http%3A//ballyfitness.com/privacy.asp) for the most accurate reproduction.*
 
 # Bally Total Fitness | Privacy Policy
 
@@ -8,7 +8,7 @@
 |   
 **  Privacy Policy **  
 ---  
-|  **Canadian residents: Please click here to see the[Privacy Policy](https://web.archive.org/web/20050422021704id_/http%3A//www.ballyfitness.com/privacycanada.asp) applying to you.**  
+|  **Canadian residents: Please click here to see the[Privacy Policy](https://web.archive.org/web/20051231191223id_/http%3A//ballyfitness.com/privacycanada.asp) applying to you.**  
 ---  
   
 **Bally respects your privacy.**  
