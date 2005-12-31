@@ -1,47 +1,72 @@
-> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 1999-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991013102025id_/http%3A//truecredit.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231165341id_/http%3A//www.truecredit.com/policy/privacy.jsp%3Ffc_se%3DfooterTab) for the most accurate reproduction.*
 
-# Credit Report, Free Credit Management Tools
+# Online Personal Credit Reports & Credit Scores - TrueCredit
 
+|  |  | 
+
+|   
+---  
+|  | TrueCredit Privacy Statement  
+---  
+TrueCredit is firmly committed to respecting the consumer's right to privacy and has created this privacy statement to demonstrate our commitment.  
+Last updated September 22, 2004.  
   
+**The Information We Collect from You**  
+TrueCredit allows you to access your credit report and related information conveniently and affordably through our Web site. We collect your personal information only if you decide to purchase one of our products or services, participate in our affiliate program, subscribe to our newsletter, participate in one of our contests or surveys or transact other business with us. In order to process your transactions and provide you with quality customer service, we need your full name and current and/or billing address, your email address (so we can contact you) and, if you purchase one of our products or services, a valid credit card number, your Social Security number and certain other personal information, such as your date of birth, address information, employment information, and certain credit card and loan account information. We use personal information to authenticate the credit card number and to confirm that the person requesting your credit report really is you and not an impostor or other person improperly seeking to access your information. 
 
+**What Security Measures We Take**  
+TrueCredit takes precautions to secure your personal information. If and when we ask you to provide your personal information, we will do so through a Web page that uses the Secure Sockets Layer (SSL) protocol. This protocol provides security for your information by encrypting it as it travels from your computer to our computer. We then move all of the personal information that we collect or obtain about you, including your credit report, to a special computer for security purposes by means of a one-way transfer on our proprietary network. This special computer is not connected to the Internet, and TrueCredit has controls in place to limit access to and secure the data maintained therein. For more information about our security practices, please review our Security Policy at <http://www.truecredit.com/policy/security.jsp>
 
-The topic of privacy revolves around the type of information we gather about you and the purposes for which we use that information. TrueLink is firmly committed to respecting the consumer's right to privacy and has created this privacy statement in order to demonstrate our commitment. 
+**How We Use and Share Your Personal Information**  
+If you indicate to us that you are interested in receiving information regarding other products and services your name and e-mail address may be shared with a third party in order to present these offers to you. Personal information that is shared with these entities will be monitored in accordance with our security and confidentiality policies. If you prefer not to receive such information, you may indicate your preference by marking the appropriate box when you register, place an order or update your account information, and TrueCredit will not send you any promotional materials. 
 
-**TRUSTe Licensee**   
-TrueLink, Inc. is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for this web site. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information. 
+| 
 
-**Questions regarding this statement should be directed to:**   
-Customer Support  
-TrueLink  
-3026 South Higuera Street  
-San Luis Obispo, CA 93401  
-888-878-3546  
-[info@truelink.com](mailto:info@truelink.com)
-
-If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/watchdog.html). 
-
-                                            [](https://www.truste.org/validate/3271)
-
-To return to the web site, please use the "Back" button on your browser. 
-
-**The Collection of Information**
+**Emails**  
   
-You browse the TrueLink web site anonymously. We do track which pages of our site you visit and note the address of your server (as all web sites do automatically), but do not gather any information about you as an individual. The general information we gather enables us to serve you better by continually improving our site based on up-to-date use patterns. 
+---  
+  
+If you order a credit report that we make available to you on-line, as part of our normal services the report will be available for you to review online for a period of 30 days. As a service to you, we will send you three emails: a first email that is a receipt of your purchase, a second email notifying you that your 30 days will expire soon and a third email notifying you that your 30 days has expired. Some of our membership products (such as Credit Monitor) may include alert emails sent weekly and/or monthly. Such emails are part of the membership benefits and persons that become members do not have the option of not receiving such emails.   
+  
+**Ordering**  
+  
+When you order a credit report or other product or service, TrueCredit must share some of your personal information with third parties in order to process your transaction. For example, TrueCredit must share your name, address and social security number with one or more of the major credit reporting agencies in order to obtain your requested credit report, and must share your name, address and credit card account number with our credit card processing partner in order to process your payment. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.   
+  
+**Third Parties**  
+  
+If you indicated to us when you registered, placed an order or updated your account that you were interested in receiving information about products and services provided by TrueCredit, your name and email address may be shared with a third party in order to present these offers to you. These entities are only allowed to use shared information for the intended purpose only and will be monitored in accordance with our security and confidentiality policies. TrueCredit also may disclose your personal information to third parties in the good faith belief that such action is necessary in order to comply with, or be responsive to, legal process served on us (such as a subpoena), or if we believe such disclosure is necessary to protect and defend the rights, property or safety of TrueCredit, our users or others. In addition, we may disclose your personal information to consultants, agents and advisors, such as attorneys and accountants, in the good faith belief that such disclosure is within the scope of their professional duties to TrueCredit and with the understanding that such professionals will abide by our security and confidentiality policies.   
+  
+**The Collection of Anonymous Data**  
+In order to enhance the usefulness of our Web site and our products and services, TrueCredit will collect data about our customers' use of our Web site, in a manner that does not include any personally identifiable information. While you browse the TrueCredit Web site, we note which pages of our site you visit and note the IP address of your computer (as all Web sites do automatically), but we do not link that address information to your personal information. The general information we gather enables us to serve our customers better by continually enhancing our site based on up-to-date use patterns. 
 
-When you purchase one of our products online, we collect information necessary for authentication and billing. To process your order we need your full name and current address, your email address (in case we need to contact you due to a problem with your order), and a valid credit card. If you are signing up for the CreditMonitor, we need your email address, in order to notify you when your credit report is ready to view. For orders involving credit reports, we need your Social Security number, as we must have this information to obtain your credit report for you. We may ask for your date of birth, previous address, employment information, and/or account information so that we can verify your identity before delivering your credit report. 
+**Updating Your Personal Information and Email Preferences**  
+You can correct or update at any time the personal information that you provided and that we maintain on you by accessing the TrueCredit Web site and selecting "Account Preferences" from the Main Menu. You can also indicate your preference not to receive promotional email from this screen. TrueCredit is not responsible for and cannot amend the information in your credit report, which is produced by one or more credit reporting agencies. If you believe that some of the information in your credit report is inaccurate, you must contact the applicable credit reporting agency directly. Information on how to contact the credit reporting agency will be contained in the credit report that you receive if you purchase. In addition, Information about how to contact the three major credit reporting agencies is available under "Disputing Your Credit Information" on our Web site at <http://www.truecredit.com/help/handlingInaccuracies.jsp>. 
 
-All of this information is then moved to a secure computer by means of a one-way transfer on our proprietary network. TrueLink has been certified by the International Computer Security Association. So you can be confident that your credit card number and identifying information are safely and securely stored. 
+**TrueCredit Newsletter**  
+You may sign up for our free monthly newsletter in one of two ways. First, you may enter your email address in the " Free Newsletter" field on our homepage, or on an affiliate's page. Second, our newsletter will be emailed to you if you select the "Yes, I want to know about special offers from TrueCredit" opt-in box during the ordering process. If you entered your email address into a " Free Newsletter" field, you can opt-out of receiving the email by responding to the newsletter and asking to be unsubscribed, or calling our customer service department and asking to be taken off the list. If you signed up for our newsletter by selecting the special offers opt-in box during the ordering process, you may unsubscribe through the above two processes, or you may go to www.truecredit.com, log-in as a member, click on the "Account Preferences" link, and de-select the special offers opt-in box. 
 
-The information you provide us when you place an order is used to fulfill that order. If you become a member of one of our monitoring services you will receive the reports and notifications described in the product specifications. You will also receive emails notifying you when your reports are ready online. If you order a single report, you will receive only that report. 
+**Notification of Changes to this Privacy Statement**  
+TrueCredit may amend this Privacy Statement at any time, but will notify users in advance of any material change, by posting a notice of the change in a prominent position on the home page of the TrueCredit Web site. If the amendment would permit us to share your personal information with third parties in a manner materially different than described in this Privacy Statement, unless required by law or court order or in order to safeguard the operations of our site or our customers, you will be given an opportunity to inform us that you do not consent to such sharing of your personal information. 
 
-TrueLink knows how imperative it is that sensitive information about you remains confidential, and we do not release any sensitive information (such as credit card numbers) about our customers to any third party. 
+**Possible Acquisition**  
+  
+---  
+In the event of an acquisition of all or part of TrueCredit by another company, or in the event that TrueCredit were to sell or dispose of all or a part of the business, the acquirer would have access to the information maintained by the TrueCredit business, which could include your personal information, subject to applicable law. The acquirer's privacy policy might be different than TrueCredit's privacy policy, or the acquirer might choose to amend TrueCredit's privacy policy. You will be notified by email if, as a result of such acquisition, TrueCredit's privacy policy is materially changed or if the acquirer's privacy policy is materially different than TrueCredit's privacy policy. In connection with such notice, you will be given an opportunity to inform the acquirer that you do not consent to the use or disclosure by the acquirer of your personal information in accordance with such new or revised privacy policy.   
+  
+If you would like at any time to review our then-current Privacy Statement, please visit <http://www.truecredit.com/policy/privacy.jsp>. 
 
-To update your personal information with TrueLink, login to the web site and choose "User Information" from the Main Menu. 
+**The Use of Cookies**  
+TrueCredit uses "cookies," which are pieces of information that a Web site transfers to your computer's hard disk for record keeping purposes, to facilitate your access to our products and services. TrueCredit uses cookies in accordance with industry-standard protocols, and does not use cookies, either directly or in conjunction with other Web sites, to track your movement to Web sites other than TrueCredit. If you would like more information about cookies, you can visit <http://www.cookiecentral.com/n_cookie_faq.htm>. TrueCredit uses two different types of cookies. One type of cookie is used so that our site "recognizes" you each time you return using the same computer, and you do not have to re-enter all your personal information on each visit. You can set your Web browser to refuse to accept this cookie, or delete this type of cookie from your hard drive, and still access our products and services, as long as you re-enter information each time you visit. The second type of cookie is needed so that we can process each step of your transactions with us. If you refuse to accept this type of cookie, you will not be able to access our products and services. Most Web browsers automatically delete this type of cookie when you terminate your session.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:   
-Customer Support  
-TrueLink  
-3026 South Higuera Street  
-San Luis Obispo, CA 93401  
-888-878-3546  
-[info@truelink.com](mailto:info@truelink.com)
+We may use third-party advertising companies to serve ads on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/). 
+
+**Links to Other Web Sites**  
+Some pages on the TrueCredit Web site may contain links to other web sites. Please note that when you click on one of these links, you are moving to another Web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours. 
+
+**Tell-A-Friend**  
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. TrueCredit will automatically send the friend a one-time email inviting them to visit the site. TrueCredit does not store this information, it is used for the sole purpose of sending this one-time email. 
+
+**TrueCredit**  
+TrueCredit is a trade name of TrueLink, Inc., a Delaware corporation based in San Luis Obispo, California.   
+  
+|  | 
