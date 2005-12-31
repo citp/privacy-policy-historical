@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405094604id_/http%3A//www.fxsound.com/global/pages/legal/privacy.php%3Fvendor%3D0%26subvendor%3D0%26plus%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231170251id_/http%3A//www.fxsound.com/global/pages/legal/privacy.php%3Fvendor%3D0%26subvendor%3D0%26plus%3D0) for the most accurate reproduction.*
 
-# www.fxsound.com - FXSOUND Privacy Statement
-
-### FXSOUND Privacy Statement
+# FXsound.com - FXSOUND Privacy Statement
 
 Maintaining your Internet privacy is of great importance to FXSOUND and Power Technology. To demonstrate our firm commitment to safeguarding your privacy, we have created this overall privacy statement. Please read this privacy statement to understand how your personal information and other information at FXSOUND will be treated as you use our software and browse our Web site.
 
@@ -45,9 +43,10 @@ Our Web site may contain links to other Web sites, including through banner ads 
 **CONTACT FXSOUND**  
 If you have any questions about this privacy statement, the practices of this Web site, or your dealings with this site, please contact us.
 
-**Email:** [click here to send us email](http://www.fxsound.com/global/pages/forms/ptSupport.php?vendor=0&subvendor=0&plus=0)
+**Email:** [click here to send us email](http://www.fxsound.com/global/pages/forms/fxsoundSupport.php?vendor=0&subvendor=0&plus=0)
 
 **Mailing Address:**  
 Power Technology  
-100 North Hill Drive, Suite 24  
-Brisbane, CA 94005, USA
+100 N HILL DR STE 24  
+BRISBANE, CA 94005  
+U.S.A.
