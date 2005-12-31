@@ -1,108 +1,131 @@
-> *The following text is extracted and transformed from the truste.org privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625020041id_/http%3A//www.truste.org/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truste.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231051403id_/http%3A//truste.org/privacy_statement.php) for the most accurate reproduction.*
 
 # TRUSTe - Make Privacy Your Choice
 
-TRUSTe Privacy Statement
+TRUSTe Privacy Statement  
+Effective Date: July 7, 2005
 
-TRUSTe is revising its privacy statement as we finalize changes to our new Web site. Please watch this page for an updated privacy statement in coming weeks. 
+**Introduction**
 
-This privacy statement was last updated on 8/23/02. TRUSTe has created this privacy statement in order to disclose our information gathering and dissemination practices for this Web site, [www.truste.org](http://www.truste.org/). 
+Protecting personal information is a core TRUSTe value. This privacy statement describes how TRUSTe collects and uses the personal information you provide on our Web sites: [www.truste.org](http://www.truste.org/) and [www.truste.com](http://www.truste.com/). It also describes the choices available to you regarding TRUSTe’s use of your personal information and the steps you can take to access this information and to request that we correct or delete it. 
 
-TRUSTe abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon reading this privacy statement, you will know: 
+TRUSTe abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
-  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Web site. 
-  2. The organization collecting the information. 
-  3. How the information is used. 
-  4. With whom the information may be shared. 
-  5. What choices are available to you regarding collection, use and distribution of the information. 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under TRUSTe's control. 
-  7. How you can access and correct any inaccuracies in the information collected about you. 
+If you have questions about this privacy statement, please send them to us by email to [privacyquestions@truste.org](mailto:privacyquestions@truste.org) or write to us at the following address: 
 
+685 Market Street, Suite 270   
+San Francisco, CA 94105 
 
+If you have technical difficulty using either of our Web sites, please contact our Webmaster at [ trustewebmaster@truste.org](mailto:trustewebmaster@truste.org). 
 
-Questions regarding this statement should be directed to the TRUSTe site coordinator by sending an email message to [mbenoit@truste.org](mailto:mbenoit@truste.org) or writing to us at the following address: 
+To return to the TRUSTe home page, [click here](http://www.truste.org/). 
 
-685 Market Street, Suite 560  
-San Francisco, CA 94104 
+**For Consumers:**
 
-To return to the TRUSTe home page, please [click here](https://web.archive.org/). 
+_Watchdog Complaints_
 
-If you feel that TRUSTe has not complied with the policies outlined in this privacy statement please submit a Watchdog report at [http://www.truste.org/consumers/watchdog_complaint.php](https://web.archive.org/consumers/watchdog_complaint.php)
+We encourage you to use TRUSTe’s [Watchdog Dispute Resolution process](https://www.truste.org/consumers/compliance.php) to report and resolve privacy complaints you may have concerning TRUSTe Sealholders or to report misuse of TRUSTe trademarks. If you choose to file a [Watchdog complaint](https://www.truste.org/consumers/watchdog_complaint.php) about a TRUSTe Sealholder, we require that you provide your name, email address, city, state, country, postal code, name of the Web site, URL, and a description of the privacy issue you are reporting. Any additional personal information you provide on the [Watchdog Complaint Form](https://www.truste.org/consumers/watchdog_complaint.php) is optional; we will use the information you provide to investigate your complaint and to send you a Watchdog Customer Satisfaction Survey once your complaint is resolved. We encourage you to complete the survey; whether you do so or not is entirely up to you. 
 
-**TRUSTe's Privacy Statement**  
-TRUSTe is the sole owner of the information it gathers on its site. TRUSTe will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our Web site. 
+We will not share your name or email address with the TRUSTe Sealholder that is the subject of your privacy complaint, or anyone else outside TRUSTe, unless you give us explicit permission to do so. Please be aware, however, that if you do not permit us to share your name and email address, our ability to successfully resolve your complaint may be limited. 
 
-  * **How to Join**  
-We collect contact information such as name, mailing address, email address, phone number, and company information such as company name and Web site URL. This information is used to generate an invoice for you to print and submit with the rest of your application materials. 
-  * **Contact Us**  
-We use email links located on the "contact us" page and other areas of the site to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is only shared with third parties with your explicit permission.
-  * **Submitting a Watchdog Report**  
-TRUSTe created the Watchdog Dispute Resolution Mechanism to provide you with a mechanism for reporting and resolving privacy violations, misuse of the trustmark, or specific privacy concerns pertaining to a member Web site. We request your name, email address, name of the Web site, URL, and description of the privacy violation. This information is used to look into the alleged violation and bring it to a satisfactory resolution. Certain personally identifiable information like your name and email address may be shared with the member site, but only if you indicate that we have your explicit permission to do this by marking the appropriate boxes. If you do not give us your permission to share your personally identifiable information, then we will not share it with anyone outside of TRUSTe. However, in some cases, this may limit our ability to successfully resolve your complaint. Any contact information a user provides on the Watchdog page is optional and will not be used for any other purpose than to investigate and respond to your report. Aggregate information about Watchdogs is posted on TRUSTe's Web site on a monthly basis.
-  * **Lead Generation Survey**  
-Individuals may express interest in learning more about TRUSTe's product offerings through the Lead Generation Survey. TRUSTe will collect contact information such as name, company name, email address, and phone number. Demographic data such as job title, state, and products that you are interested in are also collected. This information will be used to follow up with you on your interests. We will contact you once regarding our products and subsequent contacts will be based upon the outcome of the initial contact (i.e. follow up to answer additional questions).
+_If you are a resident of a European Union Member State_ , and your Watchdog complaint concerns the _offline_ information practices of a TRUSTe EU Safe Harbor Program Sealholder, you have two other options for filing your complaint: you may fax your complaint to us at (415) 520-3420, or mail it to TRUSTe Watchdog Program, 685 Market Street Suite 270, San Francisco, CA 94105. We will use the personal information you provide in the manner described above for all Watchdog Complaints. 
 
-Some TRUSTe products are provided by TRUSTe and a Partner. This Partner may not use your information for any purpose other than to contact you about the product.
+We post information about Watchdog Complaints on our [“For Consumers” page](http://truste.com/consumers/index.php) on a monthly basis, but only in aggregated form (i.e., without identifying individual complainants). 
 
-TRUSTe will use the demographic data to learn more about the people and organizations that are interested in TRUSTe's products to better target our marketing efforts. We may share aggregated demographic with outside parties to showcase the level of interest in TRUSTe's products. No personal information will be shared.
+_Consumer Opinion Surveys_
 
-Individuals may also choose to opt-in to receive updates regarding new TRUSTe privacy products or TRUSTe's monthly newsletter. If you opted-in to receive product updates or the newsletter, TRUSTe will use your email address to send the requested emails. To unsubscribe from these emails, see the Unsubscribe section below.
+We occasionally conduct online consumer surveys to learn about your views on important privacy issues. We do not collect personally identifying information in these surveys. We use the survey data to improve our programs and services, and may publicize the results as a public service. 
 
-  * **Customer Satisfaction Survey**  
-Licensees upon completion of the certification or renewal process will be invited to participate in TRUSTe's Customer Satisfaction Survey. The survey asks you various questions with regards to your certification and on-going participation in TRUSTe programs. The answers you provide are anonymous unless you choose to provide us with your contact information. TRUSTe will use survey data to improve its product and service offerings.
+_Learn More_ about our Web site information practices in the “For all Visitors” section of this privacy statement. 
 
-Licensees may join the TRUSTe Member Advisory Panel by providing their email address to TRUSTe. The TRUSTe Member Advisory Panel is from time to time asked to provide input into new products and/or changes in the services. The email will only be used as part of the Member Advisory Panel. If you choose to no longer be a part of the panel or need to update your contact information, contact TRUSTe at [listserv@truste.org](mailto:listserv@truste.org) and indicate what you would no longer like to a part of the Member Advisory Panel.
+**For Businesses:**
 
-Licensees may provide contact information in order to help TRUSTe create case studies and testimonials on the effects of good privacy practices. TRUSTe will use this information to follow up with the Licensee on these issues. TRUSTe may share aggregated survey data with outside parties to showcase the level of customer satisfaction with TRUSTe's privacy products. No personal information will be shared.
+_Sign-Up for TRUSTe Programs and Services_
 
-  * **Newsroom**  
-In the Newsroom, individuals may subscribe to TRUSTe's monthly email newsletter, TRUSTe's Press Releases and/or, Watchdog Advisories that provide updates to the Web community about TRUSTe investigations throughout the year. Your email address is used to send you these emails. To unsubscribe from the monthly newsletter, press releases, or Watchdog advisories, see the Unsubscribe 
-  * **Logged Files and Cookies**  
-The TRUSTe Web site logs IP addresses and browser types for systems administration purposes. These logs will be analyzed to improve the value of the materials available on the website. A user's session will be tracked, but the user will be anonymous. We do not link IP addresses to any personally identifiable information.
+_If you apply to become a TRUSTe Web Seal Program Sealholder through our online[Certification Center](https://getcertified.truste.org/)_, we will use the personally identifying information you provide there (e.g., your name, address, email address and company information) to follow up with you about your application and to assist you in the certification process. If you use our “Invite Participants” function to provide us the name and email address of a colleague who will assist you in completing your application, we will use that information only for the purpose of sending your colleague a user name and password to access your application. 
 
-This Web site does not use cookies.
+_If your company is certified as a TRUSTe Web Seal Program Sealholder_ , we will use the information in your application to provide you ongoing TRUSTe support and to communicate regularly with you. From time to time we will also offer you the opportunity to receive information about privacy-related products or services offered by our third-party partners. We will not share your personally identifying information with these third parties, other than service providers, unless we have your explicit permission to do so. 
 
-**Third Party Service Providers**  
-TRUSTe contracts with a third party to assist us in managing certain functions on our Web site, such as sending out our newsletters. TRUSTe only provides third party service providers with the information necessary to carry out the service (i.e. only email addresses are provided to the party sending the newsletter on TRUSTe's behalf). Third party service providers are contractually prevented from using the information received from TRUSTe for any purpose other than those dictated by TRUSTe.
+We will use information submitted through our online [Certification Center](https://getcertified.truste.org/) to analyze the characteristics of our Sealholders, in order to improve our services to them. We will occasionally provide aggregated statistics about our Sealholders in reports made available to them, to third parties, or to the general public. These reports will not identify individual TRUSTe Sealholders. 
 
-**Links**  
-The TRUSTe Web site contains links to other Web sites. We encourage you to visit these Web sites to learn more about online privacy. Please note that these Web sites' privacy policies may differ from those of TRUSTe. We encourage you to read the privacy statement of any Web site you may visit.
+_If you wish to sign up for TRUSTe programs other than the Web Seal Program, or to simply obtain information about TRUSTe programs and services_ , click on our [“How to Sign Up” page](http://truste.com/businesses/how_to_sign_up.php) and then on [“Learn More”](http://www.truste.org/forms/learn_more.php). We will collect your name, email address, phone number, and additional company information. We use this information to contact you about your request, to assist you in the application process or to follow up with you about the programs and services in which you have expressed an interest. We will not share the information you provide with third parties, other than service providers, without your explicit permission. 
 
+You can ask us to delete the information you provided on our [“Learn More” page](http://www.truste.org/forms/learn_more.php) by emailing us at [escargot@truste.org](mailto:escargot@truste.org). 
 
+_If you use the form we provide to[“Generate an Invoice”](http://truste.com/businesses/forms.php)_ to mail to TRUSTe with your application materials, we will use the personal information you provide to process your application. The Invoice is a printable form for your convenience. We also store the information you provide in the Invoice on our servers for accounting purposes. 
 
+_Learn More_ about our Web Site information practices in the “For all Visitors” section of this privacy statement. 
 
-**How to Unsubscribe from TRUSTe Email Publications**
+_TRUSTe Sealholders_
 
-  * **Newsroom**  
-To unsubscribe from receiving the TRUSTe Newsletter, Press Releases, or Watchdog Advisories go to [http://www.truste.org/unsubscribe.php](https://web.archive.org/unsubscribe.php) and click on the publication you wish to unsubscribe from. Then click on the unsubscribe link to send an email to notify us of your unsubscribe request. Also, an unsubscribe link appears at the end of each email and when you click on it you will be automatically unsubscribed from the mailing. 
-  * **Lead Generation Survey**  
-To unsubscribe from receiving TRUSTe Product Updates send an email to [listserv@truste.org](mailto:listserv@truste.org). To unsubscribe from receiving the TRUSTe Newsletter follow the instructions outlined above. To unsubscribe from any of the above publications you may also send an email to [listserv@truste.org](mailto:listserv@truste.org) stating the name of the publication from which you wish to be unsubscribed.
+_If you are currently a member of a TRUSTe program_ , you can begin the process of renewing your TRUSTe seal by clicking on our [“How to Renew” page](http://truste.com/businesses/how_to_renew.php). If you provide information on our [“Learn More” page](http://www.truste.org/forms/learn_more.php), for example, because you are requesting information about additional TRUSTe programs, we will use the contact information you provide there to respond to your request. We will not share this information with third parties, other than service providers, without your explicit permission. 
 
-**How to Access and Update User Information**  
-Reasonable access to personally identifiable information will be provided within 30 days at no cost to the user. If access cannot be provided within that timeframe, TRUSTe will provide the user a date when the information will be provided. If for some reason access is denied, TRUSTe will provide an explanation as why access has been denied.
+If you are currently receiving the TRUSTe _Policy Flash_ , but no longer wish to receive it, follow the unsubscribe link at the bottom of the _Policy Flash_ email, or go to our [“Unsubscribe” page](http://truste.com/unsubscribe.php). 
 
-  * **Watchdog Dispute Resolution**  
-If you supplied us with your email within the Watchdog Dispute Resolution area of the site, please return to [http://www.truste.org/consumers/watchdog_complaint.php](https://web.archive.org/consumers/watchdog_complaint.php) and resubmit your email address, the name of the web site that was addressed in the original Watchdog document, and what information you would like updated. 
-  * **Newsroom**  
-If you need to update your email address, please contact TRUSTe at [listserv@truste.org](mailto:listserv@truste.org). Alternatively, you may unsubsribe from the publication using your old email address and re-subscribing using your new email address. 
-  * **Lead Generation Survey**  
-If you need to update your contact information, please contact TRUSTe at [listserv@truste.org](mailto:listserv@truste.org). 
+Occasionally we conduct customer satisfaction surveys so that our Sealholders can provide feedback on their experience in the TRUSTe certification process and their participation in our programs. Contact information requested in these surveys is optional. We use the survey responses to improve our programs and services to Sealholders. We also occasionally share this survey data with third parties, but only in aggregate form, i.e., without disclosing personal information or identifying individual Sealholders. 
 
+**For All Visitors to Our Sites**
 
-  * **Newsletters, Licensee Advisories, and Administrative Email**  
-Licensees' email address and/or mailing address is used to send TRUSTe's monthly newsletter, licensee advisories and other administrative notices regarding TRUSTe's seal programs. To unsubscribe from receiving the newsletter of the licensee advisories, see the Unsubscribe section below. Licensees will not be able to opt-out of receiving administrative notices. 
-  * **Unsubscribe and Update**  
-To unsubscribe from receiving the monthly newsletter or licensee advisories go to [http://www.truste.org/unsubscribe.php](https://web.archive.org/unsubscribe.php) and click on the unsubscribe link to send an email to notify us of your unsubscribe request. Also, an unsubscribe link appears at the end of each email and when you click on it you will be automatically unsubscribed from the mailing.
+_TRUSTe Newsletter_
 
-If you need to update your email address, please contact TRUSTe at [listserv@truste.org](mailto:listserv@truste.org). Licensees also may contact their Account Manager to update their contact information.
+If you sign up for the TRUSTe Newsletter on our [home page](http://www.truste.org/), we will collect your email address to fulfill your request. We will not share your email address with third parties other than a service provider that mails the TRUSTe Newsletter for us.   
+To unsubscribe, follow the unsubscribe link that appears at the end of each newsletter, click on the “unsubscribe” button on our [home page](http://www.truste.org/), or go to our [“Unsubscribe” page](http://truste.com/unsubscribe.php). 
 
+_TRUSTe Press Room_
 
+If you sign up for TRUSTe Press Releases on our [“Press Room”](http://www.truste.org/about/press_room.php), we will collect your email address to fulfill your request. We will not share your email address with third parties other than a service provider that mails the TRUSTe Press Releases for us.   
+To unsubscribe, follow the unsubscribe link that appears at the end of each Press Release, click the “unsubscribe” button on the Press Room page, or go to our [“Unsubscribe” page](http://truste.com/unsubscribe.php). 
 
+_If you wish to change your email address_ for purposes of receiving the TRUSTe Newsletter or Press Releases, you may unsubscribe and then re-subscribe with a new email address. 
 
-**Security**  
-Protecting your privacy and your information is a top priority at TRUSTe. We have taken careful measures to prevent the loss, misuse, and alteration of your information. Once we receive your information that was entered into our web site, it is stored behind a firewall. All TRUSTe employees are aware of our privacy and security policies. Your information is only accessible to those employees who need it in order to perform their jobs. 
+_Contact Us_
 
-**Notification of Changes**  
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection through this Web site, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already collected through our site, we will post a prominent notice on our web site notifying users of the change. 
+If you submit personal information, such as your email address, to us by following the “Contact Us” link located throughout our Sites, we will use that information to respond to your question or request for information. We will not share your information with third parties without your explicit permission. 
 
-**Privacy Policy Compliance**  
-If you feel that TRUSTe has not complied with the policies outlined in this privacy statement please submit a Watchdog report at [http://www.truste.org/consumers/watchdog_complaint.php](https://web.archive.org/consumers/watchdog_complaint.php). 
+You can also contact us by email at [privacyquestions@truste.org](mailto:privacyquestions@truste.org) or by writing us at the following address: 
+
+685 Market Street, Suite 270   
+San Francisco, CA 94105 
+
+_Cookies_
+
+A “cookie” is a small text file that a Web site can place on your computer's hard drive in order, for example, to collect information about your activities on the site or to make it easier to use certain site functions. The cookie transmits this information back to the Web site's computer. Many users do not know that "cookies" are being placed on their computers when they visit Web sites. If you want to know when this happens, or prevent it from happening, you can set your browser to warn you when a Web site attempts to place a "cookie" on your computer. 
+
+We use cookies on our Web sites in the following ways: 
+
+_When you complete a Watchdog Consumer Satisfaction Survey or respond to other surveys that TRUSTe posts from time to time_ , we use a cookie to make it easier for you to use the survey form, and to ensure that we do not receive duplicate survey responses from any one respondent. 
+
+_When you apply for certification as a TRUSTe Web Seal Program Sealholder_ in our [Certification Center](https://getcertified.truste.org/), we use a cookie to enable you to navigate easily through the application process. 
+
+We also use cookies to analyze how visitors, in the aggregate, use our Sites, in order to make our Sites as useful as possible for them. We do not use cookies to collect or store personally identifiable information. 
+
+_Information automatically collected by our Sites_
+
+Our servers automatically collect certain non-personally identifying information, such as your computer’s IP address, the type of browser in use, and pages viewed, when you visit our Sites. We use this information to understand how visitors navigate through our Sites, to enhance your experience while using our Sites, and to make the materials we post as valuable to visitors as possible. We do not link this information to personally identifiable information. 
+
+_Personal Information Sharing_
+
+We will share your personal information with third parties in the ways that are described above in this privacy statement. We will also share your personal information if we are required to do so by law, or if we believe that doing so is necessary in order to conform to the law, cooperate with law enforcement agencies, comply with legal process served on TRUSTe, or otherwise protect TRUSTe’s legal rights. From time to time we employ service providers to perform various functions involving personal information on our behalf. These service providers are prohibited from using this personal information for any other purpose. 
+
+_Access to your Personal Information_
+
+TRUSTe will provide you reasonable access to your personally identifiable information, at no cost to you, within 30 days of your access request. If we cannot provide access within the 30-day period, we will tell you when we will provide access. In the unlikely event that we cannot provide you access to this information, we will explain why we cannot do so. To request access to your personally identifying information, contact us by email at [privacyquestions@truste.org](mailto:privacyquestions@truste.org) or by writing us at the following address: 
+
+685 Market Street, Suite 270   
+San Francisco, CA 94105 
+
+_Security_
+
+Providing security for the personal information you submit via our Site is a top priority for TRUSTe. We use Secure Socket Layer (SSL) encryption for information you may provide on our [Watchdog Complaint Form](https://www.truste.org/consumers/watchdog_complaint.php) or in our [Certification Center](https://getcertified.truste.org/). Please be aware, however, that no transmission of information via the Internet can be entirely secure. You should, therefore, always use caution when submitting personal information online. We take commercially reasonable steps to provide security for your information once we receive it. 
+
+_Links to Other Web Sites_
+
+Our Sites include links to other Web sites whose privacy practices may differ from those of TRUSTe. If you submit personal information to any of those sites, your information is subject to their privacy statements. TRUSTe’s privacy statement does not apply to information you may submit to those sites. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+_Changes in this Privacy Statement_
+
+If we change this privacy statement in ways that affect the personally identifying information we have collected through our Sites, we will post those changes in this space and advise you of choices you may have as a result of those changes. We will also post a notice on our home page that this privacy statement has changed. 
+
+_Privacy Statement Compliance_
+
+If you feel that TRUSTe has not complied with this privacy statement, please use the [Watchdog Complaint Form](https://www.truste.org/consumers/watchdog_complaint.php) to submit your concerns to us. 
