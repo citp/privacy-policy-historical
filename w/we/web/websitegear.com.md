@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the websitegear.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306214038id_/http%3A//about.websitegear.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitegear.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231175402id_/http%3A//about.websitegear.com/privacy.asp) for the most accurate reproduction.*
 
 # WebsiteGear Privacy Policy
 
-* * *  
+|   
+---  
+[ ](http://www.websitegear.com/) |   
   
+* * *
+
 |  |   
 ---  
 |   
@@ -13,7 +17,7 @@ Privacy Policy
 
 #### Internet User Privacy :
 
-  * WebsiteGear.com shall not make use of your personal details without your permission, except where necessary to supply the services expressly requested by you.
+  * WebsiteGear, Inc. shall not make use of your personal details without your permission, except where necessary to supply the services expressly requested by you.
   * WebsiteGear.com does not sell, rent, loan, trade, or lease any personal information collected at our site, including membership forms or email addresses.
 
   
@@ -50,5 +54,5 @@ For safegaurding user's submitted information, they are not displayed if the use
 
 * * *
 
-Copyright © 2005 WebsiteGear. All rights reserved.   
+Copyright © 2003-2005 WebsiteGear Inc. All rights reserved.   
 [About](http://about.websitegear.com/) | [Advertise](http://ads.websitegear.com/) | [Submit Content](http://about.websitegear.com/submitcontent.asp) | [Privacy](http://about.websitegear.com/privacy.asp) | [Agreement](http://about.websitegear.com/memberpolicy.asp) | [Contact](http://www.websitegear.com/support/contact.asp)
