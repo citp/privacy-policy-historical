@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackspider.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630083739id_/http%3A//www.blackspider.com/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackspider.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231214745id_/http%3A//blackspider.com/policies/privacy_policy.html) for the most accurate reproduction.*
 
 # BlackSpider Technologies - Privacy Policy
 
