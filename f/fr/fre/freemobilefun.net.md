@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freemobilefun.net privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206210407id_/http%3A//www.freemobilefun.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemobilefun.net privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231190858id_/http%3A//www.freemobilefun.net/privacy) for the most accurate reproduction.*
 
-# Free cell phone wallpapers and screensavers!
+# Free cell phone and mobile wallpapers
 
 **Our Commitment To Privacy**
 
