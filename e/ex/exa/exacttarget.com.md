@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the exacttarget.com privacy policy that was archived on 2005-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050515022302id_/http%3A//email.exacttarget.com/company-privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exacttarget.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231182119id_/http%3A//email.exacttarget.com/company-privacy-policy.asp) for the most accurate reproduction.*
 
 # Company: Privacy Policy
 
 #### Privacy at ExactTarget
 
-ExactTarget is committed to protecting the privacy of our web site visitors and clients. We uphold the highest industry standards in online privacy and permission marketing. For more information on how ExactTarget enforces permission email marketing with our clients, please see our [Anti-spam policy](https://web.archive.org/web/20050515022302id_/http%3A//email.exacttarget.com/company-anti-spam-policy.asp).
+ExactTarget is committed to protecting the privacy of our web site visitors and clients. We uphold the highest industry standards in online privacy and permission marketing. For more information on how ExactTarget enforces permission email marketing with our clients, please see our [Anti-spam policy](https://web.archive.org/web/20051231182119id_/http%3A//email.exacttarget.com/company-anti-spam-policy.asp).
 
 #### Security and Privacy
 
@@ -119,8 +119,8 @@ Email: [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)
 **For further information, please contact us.**
 
 ExactTarget, Inc.  
-47 S. Meridian Street  
-Suite 400  
+20 North Meridian Street  
+Suite 200  
 Indianapolis, Indiana 46204  
 USA  
 Fax: (317) 396-1592
