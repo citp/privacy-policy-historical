@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the va.gov privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629040032id_/http%3A//www.va.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the va.gov privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231033542id_/http%3A//www.va.gov/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
 
 |   
 ---  
-[ **VA Home Page**](https://web.archive.org/web/20050629040032id_/http://www.va.gov/index.htm)  
-[ **Information Collected from E-mails & Web Forms**](https://web.archive.org/web/20050629040032id_/http://www.va.gov/privacy/email.htm)  
-[ **Information Collected for Statistical Purposes**](https://web.archive.org/web/20050629040032id_/http://www.va.gov/privacy/stats.htm)  
-[ **Security, Intrusion, & Detection**](https://web.archive.org/web/20050629040032id_/http://www.va.gov/privacy/security.htm)  
-[ **Privacy Act Systems of Records**](https://web.archive.org/web/20050629040032id_/http://www.va.gov/privacy/SystemsOfRecords.htm)  
+[ **VA Home Page**](https://web.archive.org/web/20051231033542id_/http://www.va.gov/index.htm)  
+[ **Information Collected from E-mails & Web Forms**](https://web.archive.org/web/20051231033542id_/http://www.va.gov/privacy/email.htm)  
+[ **Information Collected for Statistical Purposes**](https://web.archive.org/web/20051231033542id_/http://www.va.gov/privacy/stats.htm)  
+[ **Security, Intrusion, & Detection**](https://web.archive.org/web/20051231033542id_/http://www.va.gov/privacy/security.htm)  
+[ **Privacy Act Systems of Records**](https://web.archive.org/web/20051231033542id_/http://www.va.gov/privacy/SystemsOfRecords.htm)  
 [ **Privacy Act 1997 Issuances via GPO Access**](http://www.access.gpo.gov/su_docs/aces/1997_pa.html)  
-[ **VA's Use of Cookies**](https://web.archive.org/web/20050629040032id_/http://www.va.gov/privacy/cookies.htm)  
+[ **VA's Use of Cookies**](https://web.archive.org/web/20051231033542id_/http://www.va.gov/privacy/cookies.htm)  
   
-[ ](https://web.archive.org/web/20050629040032id_/http://www.va.gov/index.htm)  
+[ ](https://web.archive.org/web/20051231033542id_/http://www.va.gov/index.htm)  
   
   
 | 
@@ -28,11 +28,11 @@ The privacy of our customers has always been of utmost importance to the Departm
  
   * Personally identifying information you provide will be used only in connection with VA programs and services or for such other purposes as are described at the point of collection.  
  
-  * [Information is collected for statistical purposes](https://web.archive.org/web/20050629040032id_/http://www.va.gov/privacy/stats.htm) and VA sometimes performs analyses of user behavior in order to measure customer interest in the various areas of our site.  
+  * [Information is collected for statistical purposes](https://web.archive.org/web/20051231033542id_/http://www.va.gov/privacy/stats.htm) and VA sometimes performs analyses of user behavior in order to measure customer interest in the various areas of our site.  
  
   * We do not give, sell or transfer any personal information to a third party.  
  
-  * We may enable "[cookies](https://web.archive.org/web/20050629040032id_/http://www.va.gov/privacy/cookies.htm)." A "cookie" is a file placed on your personal computer's hard drive by a Web site that allows it to monitor your use of the site.  
+  * We may enable "[cookies](https://web.archive.org/web/20051231033542id_/http://www.va.gov/privacy/cookies.htm)." A "cookie" is a file placed on your personal computer's hard drive by a Web site that allows it to monitor your use of the site.  
  
 
 
