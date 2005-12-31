@@ -1,9 +1,22 @@
-> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305115154id_/http%3A//www.icsc.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231073438id_/http%3A//www.icsc.org/privacy.php) for the most accurate reproduction.*
 
 # ICSC Privacy Policy
 
-| 
-
+| [](https://web.archive.org/about/about.php)  
+---  
+[](https://web.archive.org/search/index.php)  
+[](https://web.archive.org/help/help.php)  
+[](https://web.archive.org/about/info_main.php)  
+[](https://web.archive.org/srch/about/presreport.php?region=)  
+[](https://web.archive.org/srch/about/icschist.php?region=)  
+[](https://web.archive.org/srch/about/trustees.html)  
+[](https://web.archive.org/srch/about/2005_06CombinedListing_wEuro.pdf)  
+[](https://web.archive.org/srch/about/16reasons.php?region=)  
+[](https://web.archive.org/cgi/contact)  
+[](https://web.archive.org/srch/about/services.php?region=)  
+[](https://web.archive.org/about/KioskWeb2.html)  
+[](https://web.archive.org/srch/about/ICSC_bylaws2004.pdf)  
+  
 Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. All capitalized terms not defined in this Privacy Policy shall have the meanings assigned to them in the Terms and Conditions for use of the Web Site, located at [http://www.icsc.org/terms.php](https://web.archive.org/terms.php?region=). 
 
 ## The Information We Collect
