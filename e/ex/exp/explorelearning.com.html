@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the explorelearning.com privacy policy that was archived on 2005-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050419052216id_/http%3A//www.explorelearning.com/index.cfm%3Fmethod%3DController.dspPrivacy%26CFID%3D1003843%26CFTOKEN%3D16307344) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the explorelearning.com privacy policy that was archived on 2005-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231220046id_/http%3A//www.explorelearning.com/index.cfm%3Fmethod%3DController.dspPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 
@@ -30,7 +30,9 @@
 		 @import url(View/Layout/sidebar.css);
     	 @import url(View/Layout/news.css);
     	 @import url(View/Layout/pcq.css);
+    	 @import url(View/Layout/aboutUs.css);
     	 @import url(View/Layout/misc.css);
+    	 @import url(View/Layout/helpCen.css);
 
 	-->
 	</style> 
@@ -54,7 +56,7 @@
 						</p>
 					</div>
 					<div class="navIcons">
-						<span class="roll"><a href="index.cfm?method=cUserSecure.dspTeacherhome" title="Go to your Homepage" accesskey="h" tabindex="6"><img src="View/Layout/Graphics/images/icons/iconHome.gif" alt="home icon" width="45" height="40"></a></span><span class="roll"><a href="index.cfm?method=cUserSecure.dspEditProfile" title="View and edit your user profile" accesskey="p" tabindex="7"><img src="View/Layout/Graphics/images/icons/iconProfile.gif" alt="profile icon" width="38" height="40"></a></span><span class="roll"><a href="http://explorelearning.blogs.com/blog/" onclick="window.open(this.href, this.target, 'scrollbars=yes,status=yes,resizable=yes,width=640,height=400,'); return false" title="The EL Weblog" accesskey="b" tabindex="8"><img src="View/Layout/Graphics/images/icons/iconBuzz.gif" alt="What's New" width="51" height="40"></a></span><span class="roll"><a href="index.cfm?method=cHelp.dspHelp" onclick="window.open(this.href, this.target, 'scrollbars=yes,resizable=yes,width=450,height=300,'); return false" title="Access the help files" accesskey="6" tabindex="9"><img src="View/Layout/Graphics/images/icons/iconHelp.gif" alt="Help icon" width="27" height="40"></a></span><span class="roll"><a href="index.cfm?method=cCorp.dspLearnMore" title="What makes ExploreLearning an excellent teaching and learning resource?" accesskey="l" tabindex="10"><img src="View/Layout/Graphics/images/icons/iconLearnMore.gif" alt="Learn More About ExploreLearning" width="41" height="40"></a></span> 
+						<span class="roll"><a href="index.cfm?method=cUserSecure.dspTeacherhome" title="Go to your Homepage" accesskey="h" tabindex="6"><img src="View/Layout/Graphics/images/icons/iconHome.gif" alt="home icon" width="45" height="40"></a></span><span class="roll"><a href="index.cfm?method=cUserSecure.dspEditProfile" title="View and edit your user profile" accesskey="p" tabindex="7"><img src="View/Layout/Graphics/images/icons/iconProfile.gif" alt="profile icon" width="38" height="40"></a></span><span class="roll"><a href="http://explorelearning.blogs.com/blog/" onclick="window.open(this.href, this.target, 'scrollbars=yes,status=yes,resizable=yes,width=640,height=400,'); return false" title="The EL Weblog" accesskey="b" tabindex="8"><img src="View/Layout/Graphics/images/icons/iconBuzz.gif" alt="What's New" width="51" height="40"></a></span><span class="roll"><a href="index.cfm?method=cHelp.dspHelp" title="Access the help files" accesskey="6" tabindex="9"><img src="View/Layout/Graphics/images/icons/iconHelp.gif" alt="Help icon" width="27" height="40"></a></span><span class="roll"><a href="index.cfm?method=cCorp.dspLearnMore" title="What makes ExploreLearning an excellent teaching and learning resource?" accesskey="l" tabindex="10"><img src="View/Layout/Graphics/images/icons/iconLearnMore.gif" alt="Learn More About ExploreLearning" width="41" height="40"></a></span> 
 					</div>
 				</div>
 <!-- ROW 2 browse, loging, purchase, enroll-->
@@ -69,7 +71,7 @@
 					</div>
 					<div class="enroll">
 						<p>
-							<a href="http://store.explorelearning.com" title="Buy at the ExploreLearning Store"> <strong> <span class="mira"> *</span>Purchase a Subscription</strong> </a> | <a href="index.cfm?method=cUser.dspInputClassCode"> Enroll in a Class </a> 
+							<span class="mira">*</span>Students  with a Class Code » <a href="index.cfm?method=cUser.dspInputClassCode"> Enroll in a Class Here</a> 
 						</p>
 					</div>
 				</div>
@@ -92,9 +94,9 @@
 					<div class="search">
 				<form method="get" action="index.cfm">
 					
-					<img src="View/Layout/Graphics/images/decos/searchGiz.gif" alt="Search Gizmos" width="72" height="5"><input type="hidden" name="method" value="cSearch.actDoSearch"> <input type="hidden" name="NewSearch" value="1"> 
+					<img src="View/Layout/Graphics/images/decos/search.gif" alt="Search Gizmos" width="36" height="5"><input type="hidden" name="method" value="cSearch.actDoSearch"> <input type="hidden" name="NewSearch" value="1"> 
 
-					<input name="uncompiledQuery" type="text" size="34"> <input type="submit" name="Submit" value="GO" style="font-size: xx-small;"> 
+					<input name="uncompiledQuery" type="text" size="40"> <input type="submit" name="Submit" value="GO" style="font-size: xx-small;"> 
 				</form>
 				</div>
 				</div>
@@ -158,14 +160,17 @@ if (stc != null) {
 		newTimeList += rid + "," + tr;
 	} 
 	
-	setCookie("zebratr",newTimeList,1);
+	setCookie("zebratr",newTimeList,"today");
 	deleteCookie("zebrast");
 }
 
 //-->
 </script>
 
- <h1>Privacy Policy</h1> 
+<!--start-indexing-->
+
+
+	<h1>Privacy Policy</h1> 
 	<div id="legal">
 	<p>We are committed to our users’ privacy.  This privacy policy covers the site http://www.explorelearning.com and contains the following information:
 	</p>
@@ -346,7 +351,8 @@ while(x=eval(x));}hiveware_enkoder();
 	<p>
 		If you think we have not followed our privacy policy in some way, please contact us at for resolution.
 	</p>
-	</div> 
+	</div>
+	<!--end-indexing--> 
 
 		
 		</div>
@@ -375,7 +381,7 @@ while(x=eval(x));}hiveware_enkoder();
 					B</span>log
 			</a>
 			| 
-			<a href="index.cfm?method=cHelp.dspHelp&amp;" onclick="window.open(this.href, this.target, 'scrollbars=yes,resizable=yes,width=450,height=300,'); return false" title="Access the help files" accesskey="6">
+			<a href="index.cfm?method=cHelp.dspHelp&amp;" title="Access the help files" accesskey="6">
 				Help (<span class="ak">6</span>)
 			</a>
 			| 
@@ -415,8 +421,8 @@ while(x=eval(x));}hiveware_enkoder();
 				Contact Us (<span class="ak">9</span>)
 			</a>
 			| 
-			<a href="index.cfm?method=Controller.dspPricingPackaging" title="See all the subscription options" accesskey="r">
-				View Subscription P<span class="ak">r</span>icing Info
+			<a href="index.cfm?method=Controller.dspPricingPackaging" title="Contact us for subscription pricing" accesskey="r">
+				 Pu<span class="ak">r</span>chasing Info
 			</a>
 			
 				| 
@@ -462,13 +468,16 @@ while(x=eval(x));}hiveware_enkoder();
 <!-- Copyright (c)2002 Site Meter -->
 <!--WEBBOT bot="HTMLMarkup" Endspan -->
 		</div>
+			
+		
 		<p>
 			<a href="#hdRow1" accesskey="7">
 				Page 
 				<span class="ak">
 					T</span>op
 			</a>
-	</p></div> 
+			</p>
+	</div> 
 </div>
 
 					
