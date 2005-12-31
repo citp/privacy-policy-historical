@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vgmusic.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306124931id_/http%3A//www.vgmusic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgmusic.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231072136id_/http%3A//vgmusic.com/privacy.php) for the most accurate reproduction.*
 
 # VGMusic.com - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 * * *
 
-The Videogame Music Archive has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses the information gathering practices for this Web site. If you have any questions about this policy, please send an e-mail to [webmaster@vgmusic.com](mailto:webmaster@vgmusic.com). 
+The Videogame Music Archive has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses the information gathering practices for this Web site. If you have any questions about this policy, please send an e-mail to [the webmasters](mailto:siteadmin@vgmusic.com). 
 
 IP addresses:  
 IP addresses are logged for statistical reasons by the webserver, and by the sites submission scripts. They are used to track down abuse of our sites services and are currently made available when a user submits a file. 
