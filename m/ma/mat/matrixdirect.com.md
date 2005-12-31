@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308161707id_/http%3A//www.matrixdirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231194006id_/http%3A//www.matrixdirect.com/privacy.html) for the most accurate reproduction.*
 
 # Matrix Direct privacy policy
 
-Protecting the privacy of information about our customers is important. This notice tells you how we treat information about our customers. 
+Protecting the privacy of information about our customers is important. This notice tells you how we treat information about our current and former customers. 
 
 We do not sell information about our customers. We maintain physical, electronic and procedural safeguards to protect it. Access to information about our customers is limited to people who need access to do their jobs. 
 
