@@ -1,324 +1,104 @@
-<!--The following is the downloaded HTML source of the leerburg.com privacy policy that was archived on 2005-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050401233427id_/http%3A//www.leerburg.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leerburg.com privacy policy that was archived on 2005-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231130238id_/http%3A//www.leerburg.com/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- #BeginTemplate "/Templates/generic.dwt" --><!-- DW6 --><head>
-<!-- #BeginEditable "doctitle" --> 
+<html><!-- InstanceBegin template="/Templates/leerburg.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- InstanceBeginEditable name="doctitle" -->
 <title>Privacy Statement</title>
-<link rel="stylesheet" href="Style%20Sheets/maintext.css" type="text/css">
-<link rel="stylesheet" href="Style%20Sheets/pageTitle.css" type="text/css">
-<link rel="stylesheet" href="Style%20Sheets/Blue16.css" type="text/css">
-<!-- #EndEditable -->
-
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="Author" content="Leerburg Video Productions, 2003">
-<!-- #BeginEditable "tags" -->
 <meta name="Keywords" content="Dog Training Videos, German Shepherd Puppies, Leerburg, Bernhard Flinks, Dog Fights, Puppy Training, German Shepherd, Search &amp; Rescue, domniant dogs, dog bites, KNPV, dog training, S&amp;R, Whelping Puppies, housebreaking puppies, aggressive dogs, training puppies, puppy biting, schutzhund, schutzhund training, Police K9 Training">
-
 <meta name="Description" content="Leerburg Kennel and Video has produced over 100 Dog Training Videos since 1980. Leerburg kennels has bred 300 litters of German Shepherds from imported working bloodlines since 1978. Our web site (3,500 pages) includes 230 training articles, a web discussion board with 3500 registered trainers and 25 extensive Q&amp;A sections on dog training and breeding.">
-<!-- #EndEditable -->
-<link href="leerburg.css" rel="stylesheet" type="text/css">
-
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-
-randImgObj.products = new Array("prod1.jpg", "prod2.jpg", "prod3.jpg", "prod4.jpg", "prod5.jpg");
-randImgObj.action1 = new Array("act1.jpg", "act2.jpg", "act3.jpg", "act4.jpg", "act5.jpg");
-randImgObj.action2 = new Array("act6.jpg", "act7.jpg", "act8.jpg", "act9.jpg", "act10.jpg");
-randImgObj.puppies = new Array("pup1.jpg", "pup2.jpg", "pup3.jpg", "pup4.jpg", "pup5.jpg");
-
-randImgObj.imagesPath = "sideBar/";
-
-
-Array.prototype.shuffle = function() {
-  var i, temp, i1, i2;
-  for (i=0; i<this.length; i++) {
-    i1 = Math.floor( Math.random() * this.length );
-    i2 = Math.floor( Math.random() * this.length );
-    temp = this[i1];
-    this[i1] = this[i2];
-    this[i2] = temp;
-  }
-}
-
-randImgObjs = []; // holds all random rotating image objects defined
-
-// constructor
-
-function randImgObj(s)
- {
-  this.speed=s; this.ctr=0; this.timer=0;
-  this.index = randImgObjs.length; randImgObjs[this.index] = this;
-  this.animString = "randImgObjs[" + this.index + "]";
- }
-
-randImgObj.prototype =
- {
-  addImages: function(ar) { // preloads images
-    this.imgObj.imgs = [];
-    for (var i=0; ar[i]; i++)
-    {
-      this.imgObj.imgs[i] = new Image();
-      this.imgObj.imgs[i].src = randImgObj.imagesPath + ar[i];
-    }
-  },
-
-  rotate: function()
- { // controls rotation
-    var ctr = Math.floor( Math.random() * this.imgObj.imgs.length );
-    if (ctr == this.ctr) ctr = (ctr > 0)? --ctr: ++ctr;
-    this.ctr = ctr;
-    if ( typeof this.imgObj.filters != "undefined" ) {
-   		this.imgObj.style.filter = 'blendTrans(duration=1)';
-      if (this.imgObj.filters.blendTrans) this.imgObj.filters.blendTrans.Apply();
-    }
-    this.imgObj.src = this.imgObj.imgs[this.ctr].src;
-    if ( typeof this.imgObj.filters != "undefined" && this.imgObj.filters.blendTrans )
-      this.imgObj.filters.blendTrans.Play();
-  }
-}
-
-// sets up rotation for all defined randImgObjs
-randImgObj.start = function()
-{
-  for (var i=0; i<randImgObjs.length; i++)
-    randImgObjs[i].timer = setInterval(randImgObjs[i].animString + ".rotate()", randImgObjs[i].speed);
-}
-
-randImgObj.setUpImg = function(imgAr, sp, w, h)
-{
-  var rotator, img, imgStr = "";
-  rotator = new randImgObj(sp);
-  randImgObjs[randImgObjs.length-1].imgAr = imgAr;
-  imgAr.shuffle();
-  img = imgAr[ Math.floor( Math.random() * imgAr.length ) ];
-  imgStr += '<img src="' + randImgObj.imagesPath + img + '" alt="" ';
-  imgStr += 'name="img' + (randImgObjs.length-1) + '" width="' + w + '" height="' + h + '">';
-  document.write(imgStr);
-}
-
-function initRandRotation()
- {
-  for (var i=0; randImgObjs[i]; i++) {
-    var rotator = randImgObjs[i];
-    rotator.imgObj = document.images["img" + i]; // get reference to the image object
-    rotator.addImages(rotator.imgAr);
-    rotator.rotate();
-  }
-  randImgObj.start();
-}
-
-//-->
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<link rel="stylesheet" type="text/css" href="/CSSstyles.css">
+<script src="rotate.js">
 </script>
-<link href="leerburg.css" rel="stylesheet" type="text/css">
-
 </head>
 
+<body bgcolor="#333366" onload="cycleAds()">
 
+<div id="banner">
 
-<body bgcolor="#FFFFFF" link="#333399" vlink="#333399" alink="#333399" ,="" onload="initRandRotation();MM_preloadImages('sideBar/QHorse1.gif')" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<div align="left"></div>
-<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="333366">
+<table width="800" height="155" border="0" cellspacing="0">
+<tbody><tr><td width="737" height="28" valign="middle">
+<table width="706" border="0" cellspacing="0" bgcolor="333366">
+
   <tbody><tr>
-    <td width="160" height="100" align="left" valign="top"><div align="left">
-	    <table width="75%" border="0" align="center" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td><p>&nbsp;</p>
-            <p>&nbsp;</p></td>
-          </tr>
-          <tr>
-            <td><a href="table.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Table','','/sideBar/table1.gif',1)"><img src="/sideBar/table.gif" alt="Table of Contents" name="Table" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="articles.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Training Articles','','/sideBar/articles1.gif',1)"><img src="sideBar/articles.gif" alt="Training Articles" name="Training Articles" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="vidolist.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Training Videos','','/sideBar/videos1.gif',1)"><img src="/sideBar/videos.gif" alt="Training Videos" name="Training Videos" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="nr.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('New Releases','','/sideBar/newRelease1.gif',1)"><img src="/sideBar/newRelease.gif" alt="New Releases" name="New Releases" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="dvd.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('DVD','','/sideBar/dvd1.gif',1)"><img src="/sideBar/dvd.gif" alt="DVD" name="DVD" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="vidolist.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('VHS','','/sideBar/vhs1.gif',1)"><img src="/sideBar/vhs.gif" alt="VHS" name="VHS" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="equip.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Training Equipment','','/sideBar/equip1.gif',1)"><img src="/sideBar/equip.gif" alt="Training Equipment" name="Training Equipment" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="books.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Dog Training Books','','/sideBar/books1.gif',1)"><img src="/sideBar/books.gif" alt="Dog Training Books" name="Dog Training Books" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="healthcare.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('K9 Healthcare','','/sideBar/health1.gif',1)"><img src="/sideBar/health.gif" alt="K9 Healthcare" name="K9 Healthcare" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="qa.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Q&amp;A','','/sideBar/qa1.gif',1)"><img src="/sideBar/qa.gif" alt="Q&amp;A" name="Q&amp;A" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="knl1.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Leerburg Kennel','','/sideBar/kennel1.gif',1)"><img src="/sideBar/kennel.gif" alt="Leerburg Kennel" name="Leerburg Kennel" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="litters.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Current Litters','','/sideBar/litters1.gif',1)"><img src="/sideBar/litters.gif" alt="Current Litters" name="Current Litters" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="litters1.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Testimonials','','/sideBar/test1.gif',1)"><img src="/sideBar/test.gif" alt="Testimonials" name="Testimonials" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="studlist.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Stud Dogs','','/sideBar/stud1.gif',1)"><img src="/sideBar/stud.gif" alt="Stud Dogs" name="Stud Dogs" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="adultdogs.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Adult Dogs for Sale','','/sideBar/adult1.gif',1)"><img src="/sideBar/adult.gif" alt="Adult Dogs for Sale" name="Adult Dogs for Sale" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="catalog.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Request a Catalog','','/sideBar/cata1.gif',1)"><img src="/sideBar/cata.gif" alt="Request a Catalog" name="Request a Catalog" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="http://www.leerburg.com/ubbthreads/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Discussion Board','','/sideBar/forum1.gif',1)"><img src="/sideBar/forum.gif" alt="Discussion Board" name="Discussion Board" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="order.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('How to Order','','/sideBar/order1.gif',1)"><img src="/sideBar/order.gif" alt="How to Order" name="How to Order" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="http://www.leerburg.com/cgi-bin/quikstore.cgi?page=quikstore.html&amp;store_type=html&amp;view_cart=yes" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('View Cart','','/sideBar/shopping1.gif',1)"><img src="/sideBar/shopping.gif" alt="View Cart" name="View Cart" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="order.htm#credit" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Foreign Orders','','/sideBar/foreign1.gif',1)"><img src="/sideBar/foreign.gif" alt="Foreign Orders" name="Foreign Orders" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="shiprate.htm#postage" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Shipping','','/sideBar/shipping1.gif',1)"><img src="/sideBar/shipping.gif" alt="Shipping" name="Shipping" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="contact.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Contacing Us','','/sideBar/us1.gif',1)"><img src="/sideBar/us.gif" alt="Contacing Us" name="Contacing Us" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="contact.htm#address" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Address','','/sideBar/address1.gif',1)"><img src="/sideBar/address.gif" alt="Address" name="Address" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="contact.htm#phone" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Phone','','/sideBar/phone1.gif',1)"><img src="/sideBar/phone.gif" alt="Phone" name="Phone" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="contact.htm#email" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('email','','/sideBar/email1.gif',0)"><img src="/sideBar/email.gif" alt="email" name="email" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="search.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Search Our Site','','/sideBar/site1.gif',1)"><img src="/sideBar/site.gif" alt="Search Our Site" name="Search Our Site" width="151" height="19" border="0"></a></td>
-          </tr>
-          <tr>
-            <td><a href="quarterhorses.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image29','','sideBar/QHorse1.gif',1)"><img src="sideBar/QHorse.gif" alt="Quarter Horses for Sale" name="Image29" width="151" height="19" border="0"></a></td>
-          </tr>
-        </tbody></table>
-        <p align="center">
-          <applet code="Fader.class" width="150" height="90" codebase="/Assets/Java%20Applets/Fader">
-            <param name="delay" value="40">
-            <param name="stop" value="3000">
-            <param name="bgColor" value="333366">
-            <param name="fgColor" value="FFFFFF">
-            <param name="HIGHLIGHT" value="333399">
-            <param name="fontSize" value="13">
-            <param name="fontStyle" value="1">
-            <param name="fontName" value="verdana">
-            <param name="text0" value="Policetraining.com">
-            <param name="text1" value="Links">
-            <param name="text2" value="Web Discussion Board">
-            <param name="text3" value="Puppies for Sale">
-            <param name="text4" value="Adult Dogs For Sale">
-            <param name="text5" value="Training Videos">
-            <param name="text6" value="Place an Order">
-            <param name="text7" value="Police K9 Info">
-            <param name="text8" value="New Leerburg Products">
-            <param name="url0" value="http://policetraining.com">
-            <param name="url1" value="http://leerburg.com/links.htm">
-            <param name="url2" value="http://www.leerburg.com/cgi-bin/UBB/ultimatebb.cgi">
-            <param name="url3" value="http://leerburg.com/litters.htm#pups">
-            <param name="url4" value="http://leerburg.com/adultdogs.htm">
-            <param name="url5" value="http://leerburg.com/vidolist.htm">
-            <param name="url6" value="http://leerburg.com/order.htm">
-            <param name="url7" value="http://leerburg.com/k9table.htm">
-            <param name="url8" value="http://leerburg.com/new.htm">
-            <param name="TARGET0" value="blank">
-            <param name="TARGET1" value="_parent">
-            <param name="TARGET2" value="blank">
-            <param name="TARGET3" value="_parent">
-            <param name="TARGET4" value="_parent">
-            <param name="TARGET5" value="_parent">
-            <param name="TARGET6" value="_parent">
-            <param name="TARGET7" value="_parent">
-            <param name="TARGET8" value="_parent">
-          </applet>
-        </p>
-    </div></td>
-    <td valign="top"><table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td height="37" valign="top"><font color="#FFFFFF" size="+3" face="Geneva, Arial, Helvetica, sans-serif"><img src="sideBar/title2.jpg" width="600" height="40"></font></td>
-      </tr>
-      <tr>
-        <td height="106" valign="bottom" background="sideBar/tableback.jpg">
-		<table width="600" border="0" align="left" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-          <tbody><tr>
-            <td valign="bottom">
-			<a href="http://www.leerburg.com/equip.htm">
-			<script language="JavaScript" type="text/JavaScript">
- randImgObj.setUpImg(randImgObj.products,8000,150,100);
-            </script><img src="https://web.archive.org/web/20050401233427id_/http%3A//www.leerburg.com/sideBar/prod3.jpg" alt="" name="img0" width="150" height="100">
-			</a>
+    <td width="704"><center><img src="/topbar/title.jpg" width="600" height="40"></center></td>
+  </tr>
+  <tr>
+    <td>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      	<tbody><tr>
+        	<td width="175"><div align="center"><a href="javascript:gotoAd()">
+<img name="adBanner" src="http://www.leerburg.com/includes/cj.gif" border="0" alt="Click here to visit these links"></a></div></td>
+        	<td width="175"><div align="center"><a href="javascript:gotoAd1()">
+<img name="adBanner1" src="http://www.leerburg.com/includes/pup1.gif" border="0" alt="Click here to visit these links"></a></div></td>
+        	<td width="175"><div align="center"><a href="javascript:gotoAd2()">
+<img name="adBanner2" src="http://www.leerburg.com/includes/toniball-1.gif" border="0" alt="Click here to visit these links"></a></div></td>
+        	<td width="175"><div align="center"><a href="javascript:gotoAd3()">
+<img name="adBanner3" src="http://www.leerburg.com/includes/domindog.gif" border="0" alt="Click here to visit these links"></a></div></td>
+      	</tr>
+    	</tbody></table>
+	</td>
+  </tr>
+  <tr>
+    <td bgcolor="#333366"><div align="justify">
+      <table width="100%" border="0" cellspacing="0">
+        <tbody><tr>
+          <td width="18%"><div align="center"><a class="large" href="dvd.htm">Training DVDs</a></div></td>
+          <td width="25%"><div align="center"><a class="large" href="equip.htm">Training Equipment</a></div></td>
+          <td width="21%"><div align="center"><a class="large" href="litters.htm">Leerburg
+                  Litters</a></div></td>
+          <td width="21%"><div align="center"><a class="large" href="ubbthreads/">Discussion
+                Forum</a></div></td>
+          <td width="15%"><div align="center"><a class="large" href="/cgi-bin/quikstore.cgi?page=quikstore.html&amp;store_type=html&amp;view_cart=yes">View
+                Cart</a></div></td>
+        </tr>
+      </tbody></table>
+      <a class="large" href="equip.htm"> </a>         </div>
+    </td></tr></tbody></table>
+	
 </td>
-			
-            <td valign="top">
-			<a href="http://www.leerburg.com/vidolist.htm">
-			<script language="JavaScript" type="text/JavaScript">
- randImgObj.setUpImg(randImgObj.action1,6000,150,100);
-            </script><img src="https://web.archive.org/web/20050401233427id_/http%3A//www.leerburg.com/sideBar/act3.jpg" alt="" name="img1" width="150" height="100">
-			</a>
-</td>
-			
-            <td valign="top">
-			<a href="http://www.leerburg.com/studlist.htm">
-			<script language="JavaScript" type="text/JavaScript">
- randImgObj.setUpImg(randImgObj.action2,10000,150,100);
-            </script><img src="https://web.archive.org/web/20050401233427id_/http%3A//www.leerburg.com/sideBar/act10.jpg" alt="" name="img2" width="150" height="100">
-			</a>
-</td>
-			
-            <td valign="top">
-			<a href="http://www.leerburg.com/litters.htm">
-			<script language="JavaScript" type="text/JavaScript">
- randImgObj.setUpImg(randImgObj.puppies,5000,150,100);
-            </script><img src="https://web.archive.org/web/20050401233427id_/http%3A//www.leerburg.com/sideBar/pup5.jpg" alt="" name="img3" width="150" height="100">
-			</a>
-</td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-      <tr>
-        <td valign="top" bgcolor="#FFFFFF"><table height="108" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-              <td width="28" height="45">&nbsp;</td>
-              <td width="572" valign="top">
-			  <!-- #BeginEditable "content" --> 
+<td width="59" height="26"><span class="mainwhitetext">Click on Pictures</span>
+</td></tr>
+</tbody></table>
+
+</div><div id="leftcontent">
+<pre><a class="big" href="/table.htm">Table of Contents</a>
+<a class="big" href="/articles.htm">
+Training Articles</a>
+  <a class="little" href="/qa.htm">Question &amp; Answers</a>
+  <a class="little" href="http://www.leerburg.com/ubbthreads">Discussion Forum</a>
+
+<a class="big" href="/vidolist.htm">Training Videos</a>
+  <a class="little" href="/nr.htm">New Releases</a>
+  <a class="little" href="/dvd.htm">DVD</a>
+  <a class="little" href="/vidolist.htm">VHS</a>
+
+<a class="big" href="/equip.htm">Training Equipment</a>
+<a class="big" href="/books.htm">Dog Training Books</a>
+<a class="big" href="/healthcare.htm">K9 Healthcare Products</a>
+<a class="big" href="/knl1.htm">
+Leerburg Kennel</a>
+  <a class="little" href="/litters.htm">Current Litters</a>
+  <a class="little" href="/litters1.htm">Customer Testimonials</a>
+  <a class="little" href="/studlist.htm">Stud Dogs</a>
+  <a class="little" href="/adultdogs.htm">Adult Dogs for Sale</a>
+
+<a class="big" href="/order.htm">How to Order</a>
+  <a class="little" href="/cgi-bin/quikstore.cgi?page=quikstore.html&amp;store_type=html&amp;view_cart=yes">View Shopping Cart</a>
+  <a class="little" href="/order.htm#credit">Foreign Orders</a>
+  <a class="little" href="/shiprate.htm#postage">Shipping Charges</a>
+
+<a class="big" href="/catalog.htm">Request a Catalog</a>
+<a class="big" href="/contact.htm">Contact Us</a>
+
+<a class="big" href="/search.htm">Search Our Site</a>
+<a class="big" href="/quarterhorses.htm">Our Horses</a>
+</pre>
+</div>
+<div id="centercontent"><!-- InstanceBeginEditable name="body" -->
 <table width="600" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr> 
     <td width="18" height="399"></td>
@@ -708,29 +488,15 @@ function initRandRotation()
       <b></b></td>
   </tr>
 </tbody></table>
-<!-- #EndEditable -->
-			  </td>
-              <td width="62">&nbsp;</td>
-            </tr>
-            <tr>
-              <td width="28">&nbsp;</td>
-              <td width="572"><div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.leerburg.com/cgi-bin/birdcast.pl"><br>
-              </a></font><font size="-4" face="Verdana, Arial, Helvetica, sans-serif">Copyright © 2005
-              Leerburg Enterprises<font size="-1">™</font>, Inc. All rights reserved.<br>
-              </font><font size="-4" face="Verdana, Arial, Helvetica, sans-serif"> By
-              accessing any information within Leerburg.com, you agree to abide
-              by the<br>
-              </font><font size="-4" face="Verdana, Arial, Helvetica, sans-serif"> Leerburg.com <a href="privacy.htm">Privacy
-              Policy</a> and <a href="termsofuse.htm">Terms of Use</a>. <br>
-              </font></div></td>
-              <td>&nbsp;</td>
-            </tr>
-          </tbody></table>
-          </td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
+<!-- InstanceEndEditable -->
+<center class="fineprint">
+Copyright 2005 Leerburg® Enterprises, Inc. All rights reserved.
+By accessing any information within Leerburg.com, you agree to abide by the
+Leerburg.com <a href="privacy.htm">Privacy Policy</a> and <a href="termsofuse.htm">Terms of Use.</a> 
+</center>
+</div>
 
-<!-- #EndTemplate -->
+
+
+<!-- InstanceEnd -->
 </body></html>
