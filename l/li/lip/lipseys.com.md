@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipseys.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604180011id_/http%3A//www.lipseys.com/home/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipseys.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231124256id_/http%3A//www.lipseys.com/home/policy.aspx) for the most accurate reproduction.*
 
 # LIPSEY’S, Inc. Privacy Policy
 
@@ -19,3 +19,5 @@ We work to protect the security of your information during transmission by using
 **_Conditions of Use, Notices, and Revisions_**
 
 Unless stated otherwise, our Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, and will not change our policies and practices to make them less protective of customer information collected in the past without prior notification to you. 
+
+Lipsey's utilizes DeepMetrix LiveStats to track our website statistics. You can view their privacy statement [here](http://www.deepmetrix.com/legal/privacy/products/).
