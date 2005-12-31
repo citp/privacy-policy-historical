@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the metromix.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204060909id_/http%3A//metromix.chicagotribune.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metromix.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231211751id_/http%3A//metromix.chicagotribune.com/go/services/privacy) for the most accurate reproduction.*
 
 # Services
 
    
 |  |  |  |    
-Privacy policy  
 Last Updated: July 2003  
+  
+
+
   
 
 
@@ -21,7 +23,7 @@ Like most Web sites, Metromix.com also collects information automatically and th
 
 We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on Metromix.com to communicate with you regarding our [ Terms of Service](https://web.archive.org/services/site/mmx-termsofservice.htmlstory) and privacy policy, products and services offered by Metromix.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on Metromix.com to communicate with you regarding our [ Terms of Service](http://metromix.chicagotribune.com/services/site/mmx-termsofservice,0,6369985.story) and privacy policy, products and services offered by Metromix.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
 
 Personally Identifiable Information collected by Metromix.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
 
@@ -64,4 +66,12 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
 |  |  |  |    
+|  [](http://adserver.trb.com/event.ng/Type=click&FlightID=481895&AdID=190184&Custom=costplus&TargetID=510&Segments=165,237,408,673,692,755,1600,1900,2167,3025,3391,3753,3772,3907,3909,4021,4709,6764,6787,52005,54438&Targets=52898,510,5419,53286,2812,5754&Values=34,46,51,63,77,81,90,93,100,110,131,287,291,321,328,333,356,388,433,448,591,998,1016,1093,1136,1171,1606,1617,1648,1837,1839,1887,1939,1978,1987,2281,2283,2353,2515,2794,2971,2975,3005,3051,3061,3088,3113,3117,3153&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2Fwww.worldmarket.com%2Fhome.jsp)
 
+[](http://adserver.trb.com/event.ng/Type=click&FlightID=491149&AdID=182109&Custom=harrisbank&TargetID=510&Segments=165,237,408,529,673,692,749,755,1600,1900,2167,3025,3391,3753,3772,3907,3909,4709,6764,6787,53872,54440&Targets=52898,510,9696,7278,5419,53286,2812,5754&Values=34,46,51,63,77,81,90,93,100,110,131,150,287,291,321,328,335,356,388,433,448,591,998,1016,1093,1136,1171,1606,1617,1648,1837,1839,1887,1939,1978,1987,2281,2283,2353,2515,2794,2971,2975,3005,3051,3061,3088,3113,3117,3153&RawValues=USERAGENTID%2Cia_archiver&Redirect=http://www4.harrisbank.com/spopup/0,4536,129778_7538839,00.html) [](http://adserver.trb.com/event.ng/Type=click&FlightID=491149&AdID=182109&Custom=harrisbank&TargetID=510&Segments=165,237,408,529,673,692,749,755,1600,1900,2167,3025,3391,3753,3772,3907,3909,4709,6764,6787,53872,54440&Targets=52898,510,9696,7278,5419,53286,2812,5754&Values=34,46,51,63,77,81,90,93,100,110,131,150,287,291,321,328,335,356,388,433,448,591,998,1016,1093,1136,1171,1606,1617,1648,1837,1839,1887,1939,1978,1987,2281,2283,2353,2515,2794,2971,2975,3005,3051,3061,3088,3113,3117,3153&RawValues=USERAGENTID%2Cia_archiver&Redirect=http://www4.harrisbank.com/spopup/0,4536,129778_7538839,00.html)
+
+* * *
+
+  
+[Advertising Information](http://metromix.chicagotribune.com/go/advertise)  
+---
