@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfish.co.uk privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405221803id_/http%3A//www.snapfish.co.uk/privacy/t_%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231194430id_/http%3A//www.snapfish.co.uk/privacy/t_%3D0) for the most accurate reproduction.*
 
 # Snapfish: Privacy Policy
 
@@ -23,7 +23,6 @@ In this Privacy Policy, you will find the answers to the following questions:
 Customer Information is requested whenever you choose to use Snapfish services. The type of Customer Information we request has to do specifically with the type of service you are using. For example: 
 
   * _When you want to upload digital pictures or view others' pictures on the Site,_ we will ask you to provide your first and last name, an email address and a password. 
-  * _When you want Snapfish to develop your film,_ we will also ask for a billing address, a shipping address, and a credit card number for the payment of developing, shipping and handling costs. 
   * _When you want to share your pictures with others ( **"Invitees"** ),_ we will ask for email addresses of friends and family you choose to share with. 
   * _When you complete a purchase from Snapfish,_ we will ask you to provide shipping and billing information so that we can fulfill your request. 
 
@@ -36,14 +35,14 @@ _Customer Communication:_ **We use Customer Information to communicate with you 
 
 _Customer Satisfaction:_ **We use Customer Information to make your Snapfish experience enjoyable.** For example, because we know who you are after you log in, we can present you with the right set of albums in your password-protected account. We also know where to email you to let you know your photos are ready for viewing online. Furthermore, if, for example, we know you have children in your household, we may be able to send you a promotional offer via email for discounted photo trading cards of your kids. 
 
-_Customer Convenience:_ **We use Customer Information to provide you with the convenience of easy access to the services you request.** When you choose to use the Snapfish Service for film developing and digitization, or for purchasing photo merchandise, we will ask for credit card information and for your mailing address, so we can send you a Snapfish Welcome Kit containing film mailers, in addition to your prints and negatives. In the case of film developing, we will automatically charge your credit card for developing, shipping and handling fees. For a merchandise purchase, we will ask for final confirmation before charging your credit card. We may also collect information during the shopping experience to make purchasing an easier and better experience for you. For example, if you give us permission to keep your billing information, you won't have to fill out the shipping and billing address each and every time you purchase. 
+_Customer Convenience:_ **We use Customer Information to provide you with the convenience of easy access to the services you request.** When you choose to use the Snapfish Service for digitization, or for purchasing photo merchandise, we will ask for credit card information and for your mailing address. For a merchandise purchase, we will ask for final confirmation before charging your credit card. We may also collect information during the shopping experience to make purchasing an easier and better experience for you. For example, if you give us permission to keep your billing information, you won't have to fill out the shipping and billing address each and every time you purchase. 
 
 Note that one reason we are able to offer you relevant promotions is that we reserve the right to use aggregated, anonymous data about our users as a group. For example, we might tell a prospective advertiser that 500,000 of our members are digital camera users, and then distribute an attractive offer exclusively to those users. Your Customer Information, however, will never be personally identifiable when aggregated for these purposes. 
 
 **With whom does Snapfish share Customer Information?**  
 Snapfish shares Customer Information with third party intermediaries (for example, credit card authorization companies, photo processing labs, merchandise distributors, vendors processing our outbound email communication, etc.) who help us run the Snapfish Service and Site. Your Customer Information is provided to these third parties solely for the purpose of providing you the services you request at the time that you request them. Third party intermediaries do not store, retain, access or otherwise use your Customer Information other than as necessary to provide you with the Snapfish service. 
 
-**Other than as described in the previous paragraphs, Snapfish will not sell, rent or otherwise share Customer Information with a third party without your knowledge and consent.** If you do not want your Customer Information shared at that time you will always have the option of telling us not to share it. For those purposes, "Snapfish" means SAC LLC and any successors to the assets or business of SAC LLC. 
+**Other than as described in the previous paragraphs, Snapfish will not sell, rent or otherwise share Customer Information with a third party without your knowledge and consent.** If you do not want your Customer Information shared at that time you will always have the option of telling us not to share it. For those purposes, "Snapfish" means Hewlett-Packard Limited and any successors to the assets or business of Hewlett-Packard Limited. 
 
 Advertisers on Snapfish do not have access to your individual account information. Advertisers simply give us an ad and tell us the type of audience they want to reach (for example, digital camera users). Snapfish then displays the ad only to users who meet those criteria. 
 
@@ -96,11 +95,12 @@ _Links from the Snapfish Site:_ If you click away from Snapfish to visit the sit
 
 _Notification of Change:_ If we are going to use your personally identifiable information in a manner that is materially different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice, we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-_Contacting Snapfish:_ If you have any questions about our Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at: 
+_Contacting Snapfish:_ If you have any questions about our Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at:
 
-Helen Vaid  
-Managing Director  
-Snapfish UK  
-020 7101 9170  
-[service@snapfish.co.uk](mailto:service@snapfish.co.uk)  
+Snapfish UK   
+88 Wood Street   
+London   
+EC2V 7QT
 
+0207 0153453   
+[service@snapfish.co.uk](mailto:service@snapfish.co.uk)
