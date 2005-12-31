@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418011204id_/http%3A//www.ehow.com/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231225651id_/http%3A//www.ehow.com/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -148,3 +148,6 @@ Regardless of later updates, we will never use the information you submit under 
 eHow may send you e-mail at any point we deem necessary or appropriate, provided you have not previosly "opted out" of receiving eHow information. 
 
 Back to Top
+
+  
+Last updated: May 25, 2005 
