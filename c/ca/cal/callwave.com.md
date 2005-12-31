@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the callwave.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306000007id_/http%3A//www.callwave.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callwave.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231033803id_/http%3A//www.callwave.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [About CallWave](https://web.archive.org/company/index.asp)  
 [Investor Relations](https://web.archive.org/company/disclaimer.asp)  
-[Press Room](https://web.archive.org/company/press.asp)   | 
+[Press Room](https://web.archive.org/company/press.asp)
+
+ **Award Winner!**  
+[](http://www.tmcnet.com/it/it_winners/it_winnersp1.htm)  
+[](http://investor.callwave.com/phoenix.zhtml?c=180005&p=irol-newsArticle&ID=715041)
+
+  | 
 
 Privacy Policy
 
-CallWave Privacy Statement
+CallWave, Inc. ("CallWave") has created this Privacy Statement (the "Statement") as part of its commitment to protecting its Members (the "Members") personal information from misuse when using CallWave Service(s), as defined in CallWave's Terms of Service for CallWave, Inc. (the "Terms of Service").
 
-CallWave, Inc. ("CallWave") has created this Privacy Statement (the "Statement") as part of its commitment to protecting its Members (the "Members") personal information from misuse when using CallWave Service(s), as defined in CallWave's [Terms of Service](https://web.archive.org/terms.asp) for CallWave, Inc. (the "Terms of Service").
-
-The following discloses the information gathering and dissemination practices for the CallWave website, found at [www.callwave.com](https://web.archive.org/), CallWave's business practices and its employees.
+The following discloses the information gathering and dissemination practices for the CallWave website, found at www.callwave.com, CallWave's business practices and its employees.
 
 This Privacy Statement contains specific information about the following:
 
@@ -48,14 +52,14 @@ CallWave may use cookies to deliver content specific to Member's interests, to s
     4. **Credit Card Information:**  
 CallWave may ask for credit card information so that it can fulfill Member's order, and so that it can provide this information only to the company or companies who process Member's credit card payment. CallWave will not share Member's credit card information with any third party other than those necessary to process payments.
     5. **Action Tags:**  
-CallWave may use third-party advertising companies to serve ads on its behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If Members would like more information about this practice and their choices, please go to <http://www.networkadvertising.org/optout_nonppii.asp>.
+CallWave may use third-party advertising companies to serve ads on its behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If Members would like more information about this practice and their choices, please go to http://www.networkadvertising.org/optout_nonppii.asp.
   
 
   3. **Communication**
 
 CallWave administers email and "pop-up" communications for the benefit of its Members. These communications may include the following: announcements about new products and/or advertisements from CallWave and its partners; answers to customer inquiries; changes in service and feature availability; changes to CallWave's Terms of Service; invitations to participate in questionnaires about the CallWave Service(s); and an optional newsletter containing special offers and/or tips on how to better use the service. There are instructions at the bottom of each email message on how to unsubscribe. Some notices are mandatory, such as service announcements. CallWave may utilize the services of a third-party to facilitate such mailings.
 
-If, at any time, Member wishes to stop receiving email messages from CallWave, Member must (1) terminate Member's CallWave account, as described in the CallWave Terms of Service, and (2) submit Member's name to CallWave's Email Opt Out page at [http://www.callwave.com/emailOptOut.asp](https://web.archive.org/emailOptOut.asp).
+If, at any time, Member wishes to stop receiving email messages from CallWave, Member must (1) terminate Member's CallWave account, as described in the CallWave Terms of Service, and (2) submit Member's name to CallWave's Email Opt Out page at http://www.callwave.com/emailOptOut.asp.
 
   4. **Partner Advertising**
 
@@ -81,7 +85,7 @@ CallWave may edit this Privacy Statement from time to time. If, at some point in
 
   9. **Contact Information**
 
-If Member has any questions about this Privacy Statement, Member can send an email to [privacy@callwave.com](mailto:privacy@callwave.com). For general questions about CallWave, please go to our Customer Service area on the web by clicking here.
+If Member has any questions about this Privacy Statement, Member can send an email to privacy@callwave.com. For general questions about CallWave, please go to our Customer Service area on the web by clicking here.
 
 CallWave, Inc.  
 P.O. Box 549  
