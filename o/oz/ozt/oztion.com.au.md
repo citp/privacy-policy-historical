@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oztion.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615125724id_/http%3A//www.oztion.com.au/gogso/public/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztion.com.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231214916id_/http%3A//www.oztion.com.au/gogso/public/privacy.htm) for the most accurate reproduction.*
 
-# OZtion - Privacy Policy
+# OZtion Privacy Policy
 
 OZtion has created this privacy statement in order to demonstrate our firm commitment to privacy. This document discloses our information gathering and usage practices. For additional information about OZtion, please review our User Agreement. 
 
