@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423015232id_/http%3A//www.tnr.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231200456id_/http%3A//www.tnr.com/privacy.mhtml) for the most accurate reproduction.*
 
-# The New Republic Online: Privacy Policy
+# Privacy Policy
 
 Privacy Policy
 
@@ -99,3 +99,5 @@ If, for any reason, you believe that TheNewRepublic.com has not adhered to its P
 By using this web site, you signify your assent to this policy statement regarding online privacy. If you do not agree to this Privacy Policy, please do not use our web site. Moreover, your continued use of this web site after we post changes to the Privacy Policy will mean that you accept those changes. If you have any questions about this Privacy Policy, the practices of this web site, or your interaction with TheNewRepublic.com, you may contact us at the email address posted above. 
 
 This Privacy Policy was last updated effective July 18, 2002. 
+
+|  [](http://www.tnr.com/pt/rightnav)
