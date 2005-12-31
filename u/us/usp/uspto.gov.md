@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403154256id_/http%3A//www.uspto.gov/web/doc/privact.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231012848id_/http%3A//www.uspto.gov/web/doc/privact.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Thank you for visiting the United States Patent and Trademark Office website and reviewing our privacy policy. Our privacy policy is simple: we collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
-Submitting personal information is **voluntary**. When you **voluntarily submit** information, it constitutes your **consent** to the use of the information for the **purpose(s)** **stated at the time of collection**. See the [Privacy Act of 1974 (P.L. 93-579)](https://web.archive.org/web/20050403154256id_/http%3A//www.uspto.gov/web/doc/privacyacttext.htm) for more information on your rights under the Privacy Act.
+Submitting personal information is **voluntary**. When you **voluntarily submit** information, it constitutes your **consent** to the use of the information for the **purpose(s)** **stated at the time of collection**. See the [Privacy Act of 1974 (P.L. 93-579)](https://web.archive.org/web/20051231012848id_/http%3A//www.uspto.gov/web/doc/privacyacttext.htm) for more information on your rights under the Privacy Act.
 
 For the protection of users of our Web sites, we have safeguards in place to identify and prevent unauthorized attempts to access or cause harm to information and systems. 
 
@@ -56,4 +56,19 @@ Here is how we handle information about your visit to our website:
 
 **Privacy Impact Assessments**
 
-> OMB Circular A-11, Exhibit 300 [Privacy Impact Assessments](https://web.archive.org/web/20050403154256id_/http%3A//www.uspto.gov/web/doc/privacy_pia.htm)
+> OMB Circular A-11, Exhibit 300 [Privacy Impact Assessments](https://web.archive.org/web/20051231012848id_/http%3A//www.uspto.gov/web/doc/privacy_pia.htm)
+
+| Protect Yourself Against Identity Theft! 
+
+**To Our USPTO Customers:**
+
+When filing documentation in support of applications or petitions, please take steps to protect all personal information. “Personal information” includes social security, credit card and banking account numbers. **This type of personal data is never required by the USPTO to support a petition or application.**
+
+To protect your privacy, we suggest that you delete such information from any documentation you send the office. Alternatively, you may request that the submissions be kept out of the public file, if appropriate. (See [MPEP Sections 724. 02 to 724.06](http://www.uspto.gov/web/offices/pac/mpep/documents/0700.htm).)
+
+Please remember that all patent application files are published and made available to the public 18 months from the filing date, unless a non-publication request is made in the application. Additionally, all patented application files will become available to the public upon the grant of the patent.
+
+If you have questions about what information may be published and how to remove the material from documents you plan to submit to the USPTO, please call the Inventors Assistance Center at   
+**1-800-786-9199**   
+or **571-272-1000**   
+**TTY:  571-272-9950**.
