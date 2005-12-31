@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405191418id_/http%3A//browncafe.com/statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231220215id_/http%3A//browncafe.com/statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
