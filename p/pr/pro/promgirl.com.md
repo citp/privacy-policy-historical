@@ -1,36 +1,22 @@
-> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2005-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050608005246id_/http%3A//www.promgirl.com/info/policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231040405id_/http%3A//www.promgirl.com/info/policies%23privacy) for the most accurate reproduction.*
 
 # Prom Dresses at PromGirl.com: Policies
 
-**Policies**
+If for any reason you are not completely satisfied with your purchase, you may return or exchange your merchandise within **5 days of receipt for a refund** , less shipping costs and restocking fees, based on the original form of payment.  Exchanges are subject to item availability.  Sale items and orders paid for by paypal or money order can be exchanged only. _Please Note:_ Any returns or exchanges postmarked after 5 days of your receipt date and/or missing a return authorization number will be returned to you at your shipping expense.  
 
-[ **Return and Exchange Policy**](http://www.promgirl.com/info/policies#Return)  
-[ **Telephone Orders**](http://www.promgirl.com/info/policies#Telephone)  
-[ **Fax Orders**](http://www.promgirl.com/info/policies#Fax)  
-[ **Money Orders**](http://www.promgirl.com/info/policies#MO)  
-[ **Delivery Times**](http://www.promgirl.com/info/policies#Delivery)  
-[ **Shipping**](http://www.promgirl.com/info/policies#Shipping)  
-[ **Payment Methods**](http://www.promgirl.com/info/policies#Payment)  
-[ **Security**](http://www.promgirl.com/info/policies#security)  
-[ **Privacy Policy**](http://www.promgirl.com/info/policies#Privacy)  
-[ **Cookies**](http://www.promgirl.com/info/policies#Cookies)  
+**Important note: There are no returns, exchanges or cancellations on special order merchandise.   Sale items may be exchanged for size only based on availability.  Stay up tape, lingerie, cosmetics, and visors will not be accepted for return.**
+
+The goods must be returned in original condition. We have 100% inspection on merchandise leaving the warehouse. Returns are inspected upon receipt. Items must not have been worn, washed, altered and have all originals tags attached. Items with snags, rips, make-up stains, odors (i.e. cigarette smoke) or other damages will result in the item being returned to you. _Please Note:_ If you do not accept the item being returned to you, we will charge you 50% of the value of the item, plus shipping charges, as a restocking fee.
+
+There is a 10% restocking fee for all single dress returns and exchanges.  Returns of two or more dresses have restocking fees as followed.
+
+two dresses - 20%  
+three dresses - 25%  
+four dresses - 30%  
+five or more dresses - 40%  
 
 
-**Return and Exchange policy**
-
-Prom Girl is committed to customer satisfaction. Should any item fail to meet your expectations you may call or email us for a Return or Exchange Authorization number. Dress styles that are noted as exchange only are available for exchange for another size of the same style depending on availability. **IMPORTANT NOTE: THERE ARE NO RETURNS, EXCHANGES OR CANCELLATIONS ON SPECIAL ORDER MERCHANDISE AND CLOSEOUT ITEMS.** Merchandise must be shipped at the customer's expense within 5 days of receipt of the purchase. Please note merchandise must be in its original shipping condition with all original tags and labels intact in order for a return to be approved. "Original condition" implies that the garment has not been worn, except to try on for fit and appearance. **No returns will be accepted without a return authorization number which must be written on the front of the package.**
-
-**Dresses** :  We will issue a refund (less shipping and rush order charges) immediately upon your return of the merchandise.  PLEASE NOTE: Custom and special orders will bot be accepted for return (this includes custom couture orders, dying, adding length, special orders, customized dresses, specialty items, close outs and adding size). 
-
-**Exchanges** :  Should an exchange only item not fit properly, please email us at [returns@promgirl.com.](mailto:returns@promgirl.com) with your order number for a exchange authorization number. Exchanges must be shipped at customer's expense within 5 days a receipt of the purchase. Items arriving without an authorization number or shipped past 5 days of receipt will be refused. Exchanged merchandise will be credited as a return (less shipping charges) upon return of merchandise and a new order must be placed for new items. Dress must be in original condition to be exchanged and to receive refund on original order. "Original condition" implies that the garment has not been worn (except to try on for fit and appearance) and tags are in tact and in place. 
-
-**Shoes** : There is a 20% restocking fee for all shoe returns.  Orders that are custom dyed will not be accepted for return.
-
-**Handbags** :  There is a 20% restocking fee for all handbag returns.  Orders that are custom dyed will not be accepted for return. 
-
-**Flower bracelets, shawls, flowers, tee shirts, and beaded straps** :  We will issue a refund (less shipping) immediately upon return of the merchandise. 
-
-**Close out Items, Special Orders, Custom couture, Message connextion bracelets, Specialty Items, Stay-up ribbon tape, Lingerie, Cosmetics, and visors will not be accepted for return.   **
+There is a 20% restocking fee for all non dress returns and exchanges. 
 
 For questions, please contact our customer care department at 1-888-THE PROM (843 7766) between 10 AM and 5 PM EST Mon-Fri or email us at [returns@promgirl.com.](mailto:returns@promgirl.com)
 
@@ -45,7 +31,7 @@ For customers not wishing to place their order online you may email your phone n
 
 **Fax orders**
 
-Customers may fax their order information by printing the [form linked here](http://promgirl.com/pdfs/fax_form.pdf) and faxing to 212-228-4986. We will enter your information and you will receive an email confirmation of your order. 
+Customers may fax their order information by printing the [form linked here](http://promgirl.com/pdfs/fax_form.pdf) and faxing to 302-449-1500. We will enter your information and you will receive an email confirmation of your order. 
 
 [\- top of page -](http://www.promgirl.com/info/policies#top)
 
@@ -53,19 +39,19 @@ Customers may fax their order information by printing the [form linked here](htt
 
 Customers using money orders must fill out this [form linked here](http://promgirl.com/pdfs/mo_form.pdf) and mail it with their money order. Before mailing the form, call us at 888-THE PROM for a final price quote and stock availability. Please mail all money orders to... 
 
-Kimberly Broomall  
-200 Park Ave. South   
-Suite 1308  
-New York, NY 10003   
+Promgirl   
+c/o Kimberly Broomall   
+7 Crenshaw Ct.   
+Middletown, DE 19709    
 
 
 [\- top of page -](http://www.promgirl.com/info/policies#top)
 
 **Delivery Times**
 
-We strive to get orders in transit within 72 hours of receipt on all stock merchandise (excluding weekends). You will receive email notification on all back ordered items. 
+All orders of in stock merchandise placed before 9 AM EST will be shipped the same business day*.  Orders placed after 9 AM EST will be shipped the following business day. 
 
-Our UPS 3 day shipping service is three business days from the ship date. Please allow 3-5 days for order processing. You will receive a confirmation of shipping which will include your UPS tracking number when your order has shipped. 
+* Business days are Monday through Friday (non holiday).
 
 Please allow 6 additional weeks for customized dresses, and 5 days for dying handbags and shoes.
 
@@ -73,7 +59,7 @@ Please allow 6 additional weeks for customized dresses, and 5 days for dying han
 
 **Shipping**
 
-We have 3 day shipping anywhere in the US. Shipping is calculated by weight and starts at $5.00 for accessories and $10.00 for dresses. There is no additional charge for the e-book download. Since we have made arrangements with different dress vendors, your dress may be shipped directly from the vendor, and you may receive more than one package on multiple orders.  Shipping to Canada is $25.00 for dresses and $15.00 for accessories.  Please allow 6 additional weeks for customized orders, and 5 additional days for dying handbags and shoes. 
+. 
 
 [\- top of page -](http://www.promgirl.com/info/policies#top)
 
@@ -83,9 +69,8 @@ We accept Visa, Mastercard, Discover, American Express, Money Order and Paypal. 
 
 Promgirl   
 c/o Kimberly Broomall   
-200 Park Ave. South   
-Suite 1308  
-New York, NY 10003 
+7 Crenshaw Ct.   
+Middletown, DE 19709 
 
 Please include your name, phone number, email address, shipping address, style number, size and color.
 
