@@ -1,71 +1,90 @@
-> *The following text is extracted and transformed from the netopia.com privacy policy that was archived on 2005-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050212065900id_/http%3A//www.netopia.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netopia.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231225853id_/http%3A//www.netopia.com/corp/privacy_plain.html) for the most accurate reproduction.*
 
 # Netopia - Directions to Netopia
 
-| 
-
-### Privacy Policy
+## Netopia's Privacy Policy
 
 Protecting your privacy is important to Netopia. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the Netopia Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we collect and use your personal information. 
 
 We are committed to protecting your personal privacy. Our core principles relating to privacy demonstrate that commitment: 
 
-  1. We do not give out your telephone number, credit card information or screen names. 
+  1. We do not give out your telephone number, credit card information or screen names.
   2. We may use information about the kinds of products you buy to make other marketing offers to you, unless you tell us not to. We do not give out your individual purchase information to any third party. 
   3. We restrict employee access to customer information in order to safeguard your personal information. 
-  4. We do not knowingly solicit personal information from children, send them requests for personal information, or distribute their personal information to third parties without parental consent. 
+  4. We do not knowingly solicit personal information from children or other minors (individuals under the age of 18), send them requests for personal information, or distribute their personal information to third parties without parental consent. 
 
-**Our companywide commitment to privacy**  
+
+
+### Our companywide commitment to privacy
+
 To make sure your personal information remains confidential, we communicate this privacy policy to every Netopia employee. 
 
-**Why we collect personal information**  
+### Why we collect personal information
+
 Netopia collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, software updates, special offers, and other information we think you'd like to hear about. From time to time, we may also use your personal information to contact you to participate in a market research survey, so that we can gauge customer satisfaction and develop better products. 
 
 (Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, a home, postal or other physical address, other contact information, title, birth date, gender, occupation, industry, personal interests, and other information when needed to provide a service or product that you requested.) 
 
-What information does Netopia receive and how does Netopia use it?  
-In general, you can visit www.netopia.com without telling us who you are or revealing any personal information about yourself. We track the products people buy and the Internet address of the domains from which people visit us to learn how our customers as a group purchase our products and use our Web site. We use this information in the aggregate so that we can improve the products and services Netopia provides you. We may also share this statistical information with our partners and other outside companies, but in doing so, we don't disclose individual names or personal navigational information. 
+### What information does Netopia receive and how does Netopia use it?
 
-**How we collect personal information**  
-We collect information about you in several ways. For example, we might ask for your contact information when you correspond with us, call us to make a purchase or request service, or participate in an online survey. In addition, when you register a new Netopia product, sign up for Netopia on-line services such as Netopia Parental Controls, or ask to be included in an email mailing list, we collect and store the information you provide in a secure database. 
+In general, you can visit www.netopia.com without telling us who you are or revealing any personal information about yourself. We track the products people buy and the Internet address of the domains from which people visit us to learn how our customers as a group purchase our products and use our Web site. We use non-personal information such as demographic data to analyze and develop our marketing strategy and to determine how you found out about us, your interests regarding our products and services, and how to improve our Web site based upon user data. We use this information in the aggregate so that we can improve the products and services Netopia provides you. We may also share this non-personal statistical information with our partners and other outside companies, but in doing so, we don't disclose individual names or personal navigational information. For example, we may collect the following information about our users, which will be used by ourselves and outside parties with which we may work from time to time: click-stream data, HTTP protocol elements, search terms, URI of requested resource, query-string portion of URI, request data, request time, other access log fields, user agent information, and navigation and click-stream data. This data will be used for the following purposes: completion and support of the current activity, Web site and system administration, and research and development. 
 
-We will always give you the opportunity to "opt out" of receiving direct marketing information. In some cases, we will provide you with the opportunity to "opt in". In this circumstance, we will require you affirmative action to indicate your consent before we use your information for any purpose other that the specific purpose for which it was submitted. 
+### How we collect personal information
 
-**When we disclose personal information**  
+We collect information about you in several ways. For example, we might ask for your contact information when you correspond with us, call us to make a purchase or request service, or participate in an online survey. In addition, when you register a new Netopia product, sign up for Netopia on-line services such as Netopia Parental Controls, or ask to be included in an email mailing list, we collect and store the information you provide in a secure database.
+
+We will always give you the opportunity to "opt out" of receiving direct marketing information. In some cases, we will provide you with the opportunity to "opt in". In this circumstance, we will require your affirmative action to indicate your consent before we use your information for any purpose other that the specific purpose for which it was submitted. 
+
+You have the right to correct your personal information and privacy preferences at any time. As applicable, you may view your personal information and privacy preferences either by logging on to your account by using your username and password or by contacting a Netopia support representative directly, and you may change your personal information and privacy preferences at any time. 
+
+### When we disclose personal information
+
 Netopia works with other companies that help us provide Netopia products and services to you, and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your products efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with Netopia policies. 
 
-Your personal information is never shared outside Netopia without your permission, except under conditions described in this policy. At times we may be required by law or legal process to disclose your personal information. We may also disclose information about you if we believe that disclosure is necessary for the public interest or to protect personal safety. 
+Your personal information is never shared outside Netopia without your permission, except under conditions described in this policy. At times we may be required by law or legal process to disclose your personal information. We may also disclose information about you if we believe in good faith that disclosure is necessary for the public interest, to conform to the requirements of law, or to protect personal safety. 
 
-**How we protect your personal information**  
+### How we protect your personal information
+
 We store all customer information in secure databases protected via a variety of access controls. The data is accessed only for the purposes stated in this privacy statement. 
 
-Netopia safeguards the security of the data you send us with physical, electronic, and managerial procedures. In certain areas of our Web Site including the Netopia store, Netopia uses industry-standard Secure Sockets Layer (SSL) encryption to enhance the security of data transmissions. This protects the confidentiality of your personal and credit card information while it is transmitted over the Internet. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser. 
+Netopia safeguards the security of the data you send us with physical, electronic, and managerial procedures. In certain areas of our Web sites including the Netopia store, Netopia uses industry-standard Secure Sockets Layer (SSL) encryption to enhance the security of data transmissions. This protects the confidentiality of your personal and credit card information while it is transmitted over the Internet. However, no security system is impenetrable. While we strive to protect your personal information, we cannot guarantee the security of either our database or the information you transmit to us, nor can we guarantee that information will not be intercepted while being transmitted to us over the Internet. We therefore urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser. 
 
-**Collecting other personal information**  
-When you browse Netopia Web site, you are able to do so anonymously. Generally, we don't collect personal information when you browse -- not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using. 
+### Collecting other personal information
 
-Like many Web sites, the Netopia Web site uses "cookie" technology. When you first connect to our site, the cookie identifies your browser with a unique, random number. The cookies we use do not reveal any personal information about you, except perhaps your first name so we can welcome you on your next visit. Cookies help us understand which parts of our web sites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our site so we can make the site even better. 
+When you browse Netopia Web site, you are able to do so anonymously. Generally, we don't collect personal information when you browse — not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using. 
 
-If you prefer not to receive cookies while browsing our Web site, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of Netopia's web site if you do so. In particular, you may be required to accept cookies in order to complete certain actions on our web site. You do not need to have cookies turned on, however, to use/navigate through many parts of our web site. 
+Our web server automatically collects some information about you when you request pages from our server, including your IP address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. We also collect IP addresses to analyze trends, administer the Web site, track user's movements, and gather broad demographic information for aggregate use. IP addresses are not linked to personal information, and this information does not identify you personally. 
 
-In some of our emails, we may use a "click-through URL." When you click one of these URLs, you pass through our web server before arriving at the web site that is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications. 
+Like many Web sites, the Netopia Web site uses "cookie" technology. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. When you first connect to our site, the cookie identifies your browser with a unique, random number. The cookies we use do not reveal any personal information about you, except perhaps your first name so we can welcome you on your next visit. Cookies help us understand which parts of our Web sites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our site so we can make the site even better. 
 
-**Children and privacy**  
-Netopia's web sites do not target and are not intended to attract children under the age of 13. Netopia does not knowingly solicit personal information from children, send them requests for personal information, or distribute their personal information to third parties without parental consent. 
+If you prefer not to receive cookies while browsing our Web site, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of Netopia's Web site if you do so. In particular, you may be required to accept cookies in order to complete certain actions on our Web site. You do not need to have cookies turned on, however, to use/navigate through many parts of our Web site. 
 
-**Third party sites**  
-Netopia's web sites may contain links to other sites. Netopia does not share your personal information with those web sites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. 
+In some of our emails, we may use a "click-through URL." When you click one of these URLs, you pass through our web server before arriving at the Web site that is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications. Please be aware that Netopia has no control or influence over the privacy practices of such other sites nor is Netopia responsible for the privacy practices or content of such sites. We encourage our users to be aware when they leave this site and to review the privacy policies of every site that collects personal information. 
 
-Our web site may contain links to web sites operated by other companies. Some of these third-party sites may be co-branded with a Netopia logo, even though they are not operated or maintained by Netopia. Although we choose our business partners carefully, Netopia is not responsible for the privacy practices of web sites operated by third parties that are linked to our site. Once you have left our web site, you should check the applicable privacy policy of the third party web site to determine how they will handle any information they collect from you. 
+### Children and privacy
 
-**Changes to this privacy policy**  
+Netopia's Web sites do not target and are not intended to attract children under the age of 13. Netopia does not knowingly solicit personal information from children or other minors (individuals under the age of 18), send them requests for personal information, or distribute their personal information to third parties without parental consent. 
+
+### Third party sites
+
+Netopia's Web sites may contain links to other sites. Netopia does not share your personal information with those Web sites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. 
+
+Our Web sites may contain links to Web sites operated by other companies. Some of these third-party sites may be co-branded with a Netopia logo, even though they are not operated or maintained by Netopia. Although we choose our business partners carefully, Netopia is not responsible for the privacy practices of web sites operated by third parties that are linked to our site. Once you have left our Web site, you should check the applicable privacy policy of the third party Web site to determine how they will handle any information they collect from you. 
+
+### Changes to this privacy policy
+
 If we are going to use your personal information differently from that stated at the time of collection, we will try to contact you via email using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner. 
 
-The Netopia Privacy Policy is subject to change at any time. If we make any changes in the way we use your personal information, we will make that information available by posting a notice on our web site. We encourage you to review the privacy policy regularly for any changes. 
+The Netopia Privacy Policy is subject to change at any time. If we make any changes in the way we use your personal information, we will make that information available by posting a notice on our Web site. We encourage you to review the privacy policy regularly for any changes. 
 
-**Questions or Suggestions**  
+### Questions or Suggestions
+
 Personal data privacy is a new and evolving area, and Netopia is evolving to meet these demands. Mistakes are possible, and miscommunication is possible. 
 
-If you have any comments or questions regarding our privacy policy or about our collection, use or disclosure of your personal information, please send an email to [privacy@netopia.com](mailto:privacy@netopia.com?subject=Privacy%20Policy%20Question). You also may send a letter to Privacy, Legal Department, Netopia, 6001 Shellmound Street, 4th Floor, Emeryville, CA 94608. We will respond to your inquiries in a prompt and professional manner. 
+If you have any comments or questions regarding our privacy policy or about our collection, use or disclosure of your personal information, please send an email to privacy@netopia.com. You also may send a letter to Privacy, Legal Department, Netopia, 6001 Shellmound Street, 4th Floor, Emeryville, CA 94608. We will respond to your inquiries in a prompt and professional manner. 
 
-| 
+### Effective Date
+
+This privacy policy is effective as of May 2004, as amended June 2005. 
+
+Copyright © 2003-2005 Netopia, Inc. All rights reserved.
