@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207053547id_/http%3A//www.personneltoday.com/StaticPages/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231111404id_/http%3A//www.personneltoday.com/StaticPages/Privacy.htm) for the most accurate reproduction.*
 
 # PersonnelToday.com - Privacy
 
@@ -62,4 +62,4 @@ We also rely on you to ensure that your CV and contact details are kept up-to-da
 A note about applying for jobs by email: Email messages may not be secure and may be intercepted by third parties. If you apply for a job by email containing confidential information about yourself, you agree that you do so at your own risk and will not hold Reed Business Information responsible for any loss that you suffer as a result.   
 
 
-[ Printer Friendly](https://web.archive.org/web/20050207053547id_/http%3A//www.personneltoday.com/StaticPages/privacy.htm?PrinterFriendly=true)
+[ Printer Friendly](https://web.archive.org/web/20051231111404id_/http%3A//www.personneltoday.com/StaticPages/privacy.htm?PrinterFriendly=true)
