@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ambg.com.my privacy policy that was archived on 2005-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050413033144id_/http%3A//www.ambg.com.my/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambg.com.my privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231214616id_/http%3A//www.ambg.com.my/privacypolicy.asp) for the most accurate reproduction.*
 
 # AmBank Group | Privacy
 
@@ -19,7 +19,7 @@ Contents of this Privacy Policy Statement:
 | Complaints   
    
 About this Privacy Policy Statement  
-This privacy policy statement applies to the AmBank Group's web site located at [www.ambg.com.my](http://www.ambg.com.my/) ("AmBank Group site"), owned and operated by AmBank Berhad (Company No:295576-U).
+This privacy policy statement applies to the AmBank Group's web site located at [www.ambg.com.my](http://www.ambg.com.my/) ("AmBank Group site"), owned and operated by AmBank (M) Berhad (8515-D).
 
 By using or accessing the AmBank Group site you shall be deemed to have accepted this Privacy Policy Statement ("this Statement"). If you do not accept this Statement, please immediately discontinue your access to the AmBank Group site. 
 
@@ -27,7 +27,7 @@ AmBank Group reserves the right to change the contents and/or services offered o
 
 In addition to this Statement, specific privacy provisions may apply to certain sections of the AmBank Group site. These specific privacy provisions must be read together with this Statement. In the event of any inconsistency between this Statement and the specific provisions, the specific provisions shall prevail.
 
-For the purposes herein, all words and expressions shall have the same meaning as in the [Terms of Use](https://web.archive.org/web/20050413033144id_/http%3A//www.ambg.com.my/terms.asp), except where otherwise expressly stated.  
+For the purposes herein, all words and expressions shall have the same meaning as in the [Terms of Use](https://web.archive.org/web/20051231214616id_/http%3A//www.ambg.com.my/terms.asp), except where otherwise expressly stated.  
   
    
 Collection of Personal Information  
