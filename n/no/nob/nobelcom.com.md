@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307181643id_/http%3A//www.nobelcom.com/nobelcom/jsp/misc/misc.jsp%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231165450id_/http%3A//www.nobelcom.com/nobelcom/jsp/misc/misc.jsp%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
-# Your Personal Info is SAFE with NobelCom
+# Prepaid Phone Cards from NobelCom.com for domestic and international use
 
 Thank you for visiting NobelCom.com, a [Nobel Ltd. Company](http://www.nobelglobe.com/). NobelCom.com is committed to honoring the privacy of our members and visitors. 
 
