@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corante.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210161332id_/http%3A//www.corante.com/about/pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corante.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231185928id_/http%3A//www.corante.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Corante: About Pages
+# Privacy Policy
 
 **Information Collection and Use**  
 Corante is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
@@ -31,5 +31,3 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 **Contact Us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at:  
 [info@corante.com](mailto:info@corante.com)
-
-Copyright 2002 Corante. All rights reserved. [Terms of use](https://web.archive.org/about/terms.shtml)
