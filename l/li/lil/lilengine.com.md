@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilengine.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525095750id_/http%3A//www.lilengine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilengine.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231160800id_/http%3A//lilengine.com/privacy.php) for the most accurate reproduction.*
 
 # Li'l Engine Privacy Policy
 
