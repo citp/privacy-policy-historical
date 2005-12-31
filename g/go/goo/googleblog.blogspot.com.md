@@ -1,67 +1,74 @@
-> *The following text is extracted and transformed from the googleblog.blogspot.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630023711id_/http%3A//www.google.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googleblog.blogspot.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231153534id_/http%3A//www.google.com/privacy.html) for the most accurate reproduction.*
 
 # Google Privacy Center: Privacy Policy
 
-**Google Privacy Policy**
+[Home](https://web.archive.org/)
 
-Version 07/01/2004
+[About Google](https://web.archive.org/about.html)
 
-At Google, we strive to develop innovative services to better serve our users. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use Google's services, as well as some of the steps we take to safeguard it.
+ **Privacy  Highlights**
 
-The following principles apply to the personally identifying information we ask for and that you provide. "Personally identifying information" is information that individually identifies you, such as your name, physical address or email address. You can find more details about the data we collect on particular services by clicking the links on the side of this page.
+[Privacy Policy](https://web.archive.org/web/20051231153534id_/http%3A//www.google.com/privacypolicy.html)
 
-**Data collection**
+[Privacy FAQ](https://web.archive.org/web/20051231153534id_/http%3A//www.google.com/privacy_faq.html)
 
-  * Google search, the Google Toolbar, Google News and some other services do not require any personally identifying information. 
-  * Google collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services. 
-  * Some of our services require you to register for an account. Google asks you for some personal information in order to create an account (typically your name, email address and a password for your account) and we will use that information to provide the service. For certain services, such as our advertising programs, we may request credit card or other payment information which we maintain in encrypted form on secure servers. 
-  * When we require personally identifying information, we will inform you about the types of information we collect and how we use it. We hope this will help you make an informed decision about sharing your personal information with us. 
+[Terms of Service](https://web.archive.org/web/20051231153534id_/http%3A//www.google.com/terms_of_service.html)
 
+More privacy info:  
+• [Desktop](http://desktop.google.com/privacypolicy.html)  
+• [Gmail](http://gmail.google.com/gmail/help/privacy.html)  
+• [Groups](http://groups-beta.google.com/googlegroups/privacy.html)  
+• [Orkut](http://www.orkut.com/privacy.aspx)  
+• [Personalized Homepage](http://www.google.com/help/privacy_fusionph.html)  
+• [Personalized Search](http://www.google.com/searchhistory/privacy.html)  
+• [Store](http://www.googlestore.com/privacy.asp)   
+• [Talk](http://www.google.com/talk/privacy.html)  
+• [Toolbar](http://toolbar.google.com/privacy.html)  
+• [Web Accelerator](http://webaccelerator.google.com/privacy.html)
 
+|  |   | 
 
-**Cookies**
+**Google Privacy Policy Highlights**
 
-  * Upon your first visit to Google, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. Google does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Google features or services may not function properly without cookies. 
+October 14, 2005
 
+At Google we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use Google's services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
 
+**Scope**
 
-**Information sharing**
+This notice offers highlights of the full [Google Privacy Policy](https://web.archive.org/web/20051231153534id_/http%3A//www.google.com/privacypolicy.html), which describes in detail the privacy practices that apply to Google's products, services and websites worldwide (collectively, Google's "services"). You can also get more information about the privacy practices for specific Google services in the navigation bar to the left of this notice. 
 
-  * We do not rent or sell your personally identifying information to other companies or individuals, unless we have your consent. We may share such information in any of the following limited circumstances: 
-    * We have your consent.
-    * We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
-    * We conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of Google, its users or the public. 
-  * If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent. 
-  * We may store and process personal information collected on our site in the United States or any other country in which Google Inc. or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country. 
-  * In the event of a transfer of ownership of Google Inc., such as acquisition by or merger with another company, we will provide notice before any personally identifying information is transferred and becomes subject to a different privacy policy. 
-  * We may share aggregated information with others. Examples of this include the number of users who searched for "Mars Rover" or how many users clicked on a particular advertisement. 
+**Personal information and other data we collect**
 
+  * Google collects [personal information](https://web.archive.org/web/20051231153534id_/http%3A//www.google.com/privacy_faq.html#personalinfo) when you register for a Google service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other Google services or third parties to provide a better user experience, including customizing content for you. 
+  * Google uses [cookies](https://web.archive.org/web/20051231153534id_/http%3A//www.google.com/privacy_faq.html#cookie) and other technologies to enhance your online experience and to learn about how you use Google services in order to improve the quality of our services. 
+  * Google's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request. 
+  * [Read more](https://web.archive.org/web/20051231153534id_/http%3A//www.google.com/privacypolicy.html#information) in the full privacy policy. 
 
+**Uses**
 
-**Information security**
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  * We may also use personal information for auditing, research and analysis to operate and improve Google technologies and services. 
+  * We may share [aggregated non-personal information](https://web.archive.org/web/20051231153534id_/http%3A//www.google.com/privacy_faq.html#aggregatedinfo) with third parties outside of Google. 
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  * Google processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. 
+  * [Read more](https://web.archive.org/web/20051231153534id_/http%3A//www.google.com/privacypolicy.html#information) in the full privacy policy. 
 
-  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
-  * We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services.
+**Your choices**
 
+  * We offer you choices when we ask for personal information, whenever reasonably possible. You can find more information about your choices in the privacy notices or FAQs for specific services. 
+  * You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. 
+  * We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. 
+  * [Read more](https://web.archive.org/web/20051231153534id_/http%3A//www.google.com/privacypolicy.html#infochoices) in the full privacy policy. 
 
+**More information**
 
-**Updating your information**
+For information about specific Google services, please check the relevant privacy notice in the navigation bar to the left. Google is a member of the [EU/US Safe Harbor Program](http://www.export.gov/safeharbor/). 
 
-  * We provide mechanisms for updating and correcting your personally identifying information for many of our services. For more information, please see the help pages for each service.
+For more information about our privacy practices, go to the [full privacy policy](https://web.archive.org/web/20051231153534id_/http%3A//www.google.com/privacypolicy.html). If you have additional questions, please [contact us](https://web.archive.org/support/bin/request.py?form_type=user&stage=fm&user_type=user&contact_type=remove_info&hl=en) any time. Or write to us at: 
 
-
-
-**Links**
-
-  * The sites displayed as search results or linked to by Google's services are developed by people over whom Google exercises no control. These other sites may place their own cookies on your computer, collect data or solicit personal information.
-  * Google may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of Google's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results. 
-
-
-
-**Changes to this Policy**
-
-Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. [Prior versions of this Privacy Policy](https://web.archive.org/web/20050630023711id_/http%3A//www.google.com/privacy_archive.html) will be kept in an archive for you to view.
-
-If you have any additional questions, please feel free to [contact us any time](http://www.google.com/support/bin/request.py?contact_type=user&hl=en).
-
-For more information about our practices regarding specific information or services that are not covered in this Privacy Policy, click on the links to the side of this page. 
+Privacy Matters  
+c/o Google Inc.  
+1600 Amphitheatre Parkway  
+Mountain View CA 94043 (USA) 
