@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the indiauncovered.com privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627001408id_/http%3A//www.silvercash.com/service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiauncovered.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231041956id_/http%3A//www.silvercash.com/service/privacy.mas) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
+**
+
 Privacy Policy Statement
+
+**
 
 This website (the "site") is licensed to CyberTrend Inc / Price Communications Inc.
 
 Our postal address is  
-**3880 Lemon St.  
-Riverside, CA 92501** We can be reached via e-mail at [privacy@silvercash.com](mailto:privacy@silvercash.com)
+3880 Lemon St. Suite 205  
+Riverside, California 92501 USA 
+
+We can be reached via e-mail at [privacy@silvercash.com](mailto:privacy@silvercash.com)
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this site. This is an adult site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this site.
 
