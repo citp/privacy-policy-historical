@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldpueblotraders.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618085530id_/http%3A//www.oldpueblotraders.com/pagebuilder/Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldpueblotraders.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231201151id_/http%3A//www.oldpueblotraders.com/pagebuilder/Security) for the most accurate reproduction.*
 
 # Old Pueblo Traders: Security Policy
 
@@ -79,4 +79,4 @@ A: | From time to time, our information practices may change. If we modify our p
 A: | To help us improve our privacy and security policies and practices, please give us your feedback. Also, if you have any questions about this policy, please contact us at Old Pueblo Traders®, Dept. ML, P.O. Box 27800, Tucson, Arizona 85726-7800. Or call us toll free at 1-800-362-8410. Or e-mail us at [privacyandsecurity@oldpueblotraders.com.](mailto:privacyandsecurity@oldpueblotraders.com)  
   
   
-© 2003, Arizona Mail Order Company, Inc. since 1946
+© 2005, Arizona Mail Order Company, Inc. since 1946
