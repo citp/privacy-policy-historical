@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the candidinfo.com privacy policy that was archived on 2005-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050321014745id_/http%3A//www.candidinfo.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candidinfo.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231162736id_/http%3A//candidinfo.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy of Candidinfo an Indian website - Your Information Powerhouse
 
 #### **Privacy Statement for www.candidinfo.com**
 
-**Candid Infosys** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.candidinfo.com.
+**Candidinfo** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.candidinfo.com.
 
 **Candidinfo** use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
 
