@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306012734id_/http%3A//www.rcwilley.com/privacy.soa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231162505id_/http%3A//www.rcwilley.com/privacy.soa) for the most accurate reproduction.*
 
-# R.C. Willey Home Furnishings. Retailer of quality furniture, electronics, appliances,flooring and mattresses for your home. Retail stores in Idaho, Utah and Nevada.
+# R.C. Willey Home Furnishings. One Place, So Many Possibilities!
 
 We at R.C. Willey hold the privacy of our visitors and customers in the highest regard. In the following sections, we hope to answer all of your questions regarding the information we collect, how we use that information, and the control you have over your information.
 
@@ -24,8 +24,3 @@ With regard to non-personally identifiable information, there are software progr
 
   
 If we have not sufficiently addressed your questions or you have additional questions, please contact us.
-
-  
-We provide this site on an "AS IS" and "AS AVAILABLE" basis and make no representations or warranties of any kind, express or implied, as to the content, materials, or products included on this site, or the operation of the site. Neither R.C. Willey, nor its directors, officers, employees, affiliates, consultants, or agents make any warranty as to the results that may be obtained from the use of this site, or as to the accuracy, reliability or currency of any information, content, service or merchandise provided.
-
-We reserve the right to change prices, terms, specifications, and warranties without notice. We endeavor to accurately describe every product offered for sale, however, mistakes can sometimes be made. Any typographical, photographic, or specification error in product description, pricing or offers is subject to correction or verification (including after an order has been submitted).
