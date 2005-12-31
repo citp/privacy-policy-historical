@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the frontlinesourcegroup.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405225504id_/http%3A//www.frtline.com/privacy%2520policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontlinesourcegroup.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231055924id_/http%3A//www.frontlinesourcegroup.com/privacy%2520policy.htm) for the most accurate reproduction.*
 
-# Frontline Source Group - Privacy Policy
+# Staffing Agency-Privacy Policy Dallas Texas-Frontline Source Group
+
+[ ](http://www.frontlinesourcegroup.com/)  Click to Return to the home page
+
+**Frontline Source Group , Inc.**
+
+**  Privacy Policy**
 
 Because we want to demonstrate our commitment to users' privacy, we have disclosed our information practices.
 
-If users have questions or concerns regarding this statement, they should contact Frontline Source Group, Inc. customer service at [Questions/Concerns](mailto:info@frtline.com?subject=Privacy%20Policy). 
+If users have questions or concerns regarding this statement, they should contact Frontline Source Group, Inc. customer service at [Questions/Concerns](http://www.frontlinesourcegroup.com/contact_info.htm).
+
+**Scope**
 
 This Privacy Policy covers frontline source group treatment of personally identifiable information that we collect when you are on frontline source group web site and when you use our services. This policy also covers our treatment of any personally identifiable information that our business partners or customers share with us.
 
@@ -42,8 +50,14 @@ frontline source group may amend this policy from time to time. If we make any s
 
 **Contact information**
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
+[ ](http://www.frontlinesourcegroup.com/)  Click to Return to the home page
 
-Email [Company Contact](mailto:info@frtline.com?subject=Privacy%20Policy)  
-Address 3102 Oak Lawn Avenue, Suite 700, Dallas, TX 75219  
-Web Address [www.frontlinesourcegroup.com](https://web.archive.org/web/20050405225504id_/http%3A//www.frtline.com/index.html)
+######  [ Employment Agencies Temporary](http://www.frontline.jobs/) [ Staffing](http://www.staffingtexas.net/) [ Temp](http://www.frontlinesourcegroup.com/texas.htm) [ Agency](http://www.frontlinesourcegroup.com/texas.htm) **[ Dallas ](http://www.dfwhr.com/)** \- [**Fort Worth**](http://www.ntxstaffing.com/) **[ Texas](http://www.nounemployment.com/)**
+
+[IT Technology Accounting Finance Staffing Agency Dallas Fort Worth Texas](http://www.frontlinesourcegroup.com/)
+
+**[Temporary Agency](http://www.frontlinesourcegroup.com/blog/blog.html) [Staffing Site Map](http://www.frontlinesourcegroup.com/sitemap.htm)**
+
+#### **[Staffing Temp Agencies](http://www.nounemployment.com/)** [**Dallas**](http://www.dfwhr.com/)\- [**Fort Worth**](http://www.ntxstaffing.com/) [**Texas**](http://www.staffingtexas.net/)
+
+**_[ The Dallas West End Historic District](http://www.dallaswestend.org/Directory.php)_**
