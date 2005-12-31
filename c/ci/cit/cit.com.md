@@ -1,44 +1,104 @@
-> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609155628id_/http%3A//www.cit.com/misc/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231200551id_/http%3A//www.cit.com/main/LegalPolicy/CITPrivacy.htm) for the most accurate reproduction.*
 
-# CIT Group Inc. - misc - Privacy Policy
+# CIT Group Inc. - Legal Policy - Privacy Policy
 
-WWW.CIT.COM - Privacy Policy  
-Last Updated: January 7, 2002
-
+**  
 PRIVACY POLICY  
-As a user of the Site, you ("you" or "user") are valued by The CIT Group Inc. is committed to protecting the personally identifiable information ("Personal Information") provided by and collected from you on the Site in connection with the functions, facilities and services offered on the Site.
+**  
+  
+[WWW.CIT.COM](http://www.cit.com/) \- Privacy Policy  
+Last Updated: September 27, 2004
 
-WHAT PERSONAL INFORMATION DOES The CIT Group Inc. COLLECT FROM SITE USERS?  
-We may gather Personal Information so that we can improve and personalize your experience with The CIT Group Inc. Personal Information that we collect falls into the following primary categories. We may receive and store the Personal Information that you enter at the Site, provide to use on an online form, or give to us in any other way. You can always choose not to provide some or all of the Personal Information we ask for, but this may prevent you from using some of our Site's features.
+ **1\. INTRODUCTION  
+**  
+CIT Group Inc. and its affiliates (collectively "CIT" or "we") will treat personal data that you provide through this website ("site") according to this privacy policy, which is consistent with our treatment of personal data that you provide offline to us or to our brokers and dealers.  By visiting our site, you agree to be bound by this policy.
 
-In addition to the preceding categories of Personal Information, The CIT Group Inc. also collects certain non-identifiable information (the "Non-Identifiable Information"). Whenever you interact with The CIT Group Inc., we receive and store certain types of Non-Identifiable Information. For example, we use "cookies" to obtain information when your web browser accesses this Site. A cookie is an alphanumeric identifier which we transfer to your computer via your Web browser and store on your computer's hard drive. The cookie file allows us to recognize your computer when you visit our Site. On most web browsers you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie, and how to turn cookies off. We recommend that you leave cookies turned on because they will enable you to take advantage of some of our Site's best features.
+ **2\. FOREIGN VISITORS**
 
-HOW DO WE USE YOUR PERSONAL INFORMATION AND OTHER NON-IDENTIFIABLE INFORMATION?  
-The CIT Group Inc. uses the Personal Information you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Information in connection with the reason for which it was provided For instance, if you contact us by e-mail, will we use the Personal Data your provide to answer your question or resolve your problem or if you contact us about a job listing, we may use your Personal Information to consider you for the position. The CIT Group Inc. also uses your Personal Information and other Non-Identifiable Information collected through the Site to help us improve the Content and functionality of the Site, to better understand our customers and markets, and to improve our products and services. The CIT Group Inc. may also use your Personal Information to contact you, electronically or otherwise, in the future to tell you about products or services we believe will be of interest to you or to make it easier for you to use our site. If we do so, each communication we send you will contain instructions permitting you to "opt-out" of receiving future communications.
+If you are visiting this site from outside the United States, please do not provide any personal data through this site or by e-mail, as this privacy policy may not comply with your local law.
 
-DOES The CIT Group Inc. SHARE THE INFORMATION IT RECEIVES?  
-We are not in the business of selling information about our users. We consider this information to be a vital part of our relationship with our customers and we treat it with great care and respect. There are, however, certain circumstances in which we may share your Personal Information with certain third parties, as set forth below.
+ **3\. CHILDREN**
 
-* Marketing: We may use any statements that you communicate on the site regarding The CIT Group Inc. or any or our products and services for advertising or marketing purposes.
-* Agents: The CIT Group Inc. like many companies may hire other companies to perform certain functions, such as mailing communications, sending e-mail and managing databases. When we employ another company to perform a function of this nature, we only provide them with the Personal Information they need to complete the task and we endeavor to prohibit them from using that Personal Information for any other purpose.
-* Business Transfers: As we develop our business, we might sell or buy businesses or assets. In transactions such as these, Personal Information may be one of the transferred business assets.
-* Protection of The CIT Group Inc. and Others: We may release account and other Personal information when we believe that such release is appropriate to comply with legal requirements; protect the rights, property or safety of our users, The CIT Group Inc. or others; or enforce our Terms of Use and other agreements. In addition, we may exchange information with other organizations for fraud protection and risk reduction.
-* Public Areas: Any submissions that you make to Public Areas will be public. The CIT Group Inc. does not control, and is not responsible for, the actions of other users of the Site with respect to any information you post in Public Areas. In addition, information that you submit to Public Areas may be collected and used by others to send you unsolicited messages and for other purposes.
+This website is not intended for visitors under 18 years of age. We do not knowingly solicit or collect personal data from or about children, nor do we knowingly market our products or services to children.
 
-HOW SECURE IS INFORMATION ABOUT ME?  
-The CIT Group Inc. uses reasonable measures to protect the Personal Information you provide to the Site from unauthorized access, deletion or alteration. However, the security of the Internet cannot be guaranteed. Accordingly, you should not provide any confidential information to this Site.
+ **4\. PERSONAL DATA WE COLLECT FROM VISITORS  
+**  
+Personal data identifies an individual, for example by name, address, telephone number, or e-mail address. We may collect the following types of data: (1) if you apply for a job, your name, address, references, and employment history; (2) if you apply for credit, your name, address, social security number, credit history, and financial information, directly or through one of our brokers or dealers; (3) if you use this site to check the status of your account, your name, account number, and other information, such as a password, to verify your identity; and (4) if you send us e-mail or request information, your name, email address, and any other personal data you supply in your message.
 
-ACCESS TO INFORMATION ABOUT YOU.  
-If you desire to review your own Personal information, to correct existing information, or to remove your information, please contact The CIT Group Inc. via email at [mailto:susan.jameson@cit.com](mailto:susan.jameson@cit.com). If you request removal of your Personal Information, you acknowledge that residual information may continue to reside in The CIT Group Inc.'s records and archives, but The CIT Group Inc. will not use that information for commercial purposes. The CIT Group Inc. reserves the right to maintain your personal information if The CIT Group Inc. has suspended, limited, or terminated your access to our Site for violating the [The CIT Group Inc. Terms of Use](https://web.archive.org/web/20030609155628id_/http%3A//www.cit.com/misc/legaldisc.html), which is hereby incorporated by reference.
+ **5.  OTHER DATA WE AUTOMATICALLY COLLECT  
+**  
+When you visit the site, CIT automatically collects certain non-personal data by various means, one of which is "cookies." A cookie is an alphanumeric string of text (a unique identifier) that our web-server stores in your computer by means of your web-browser. The cookie allows us to recognize your computer when you revisit our site. We can then improve your use of the site, for example by providing quick log-in, displaying only web pages that interest you, and saving you from retyping information in a form. Cookies also allow us to analyze aggregate traffic on the site, in order to streamline navigation and keep the content fresh for all visitors. You can configure your browser to reject cookies, but doing so may disable some of our site's features.  Cookies do not contain personal data, nor can they read or transmit any data on your computer's hard drive. They can, nonetheless, be combined with personal data that you knowingly provide, to create a profile. CIT does not use cookies in this manner without your express consent.
 
-WHAT CHOICES DO I HAVE?  
-As outlined in this Privacy Policy, you can always choose not to provide Personal Information, however, doing so may prevent you from accessing other valuable features at our Site.
+Regardless of cookies, all web-browsers transmit the IP address of the computer on which they are running (so that the web-server knows where to send the requested web page). We analyze IP addresses only in extraordinary circumstances to attempt to track hackers.
 
-LINKS TO THIRD PARTY SITES  
-You may be able to access Third Party Sites available through links from this Site. You understand and agree that your use of such Third Party Sites will be governed by the privacy policies of those sites and not by this Privacy Policy. The CIT Group Inc. shall not be responsible for the actions of any Third Party Site operators.
+ **6.   HOW WE USE THE DATA WE COLLECT**
 
-CHILDREN  
-The CIT Group Inc. does not knowingly collect Personal Information from children under the age of 13. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Information on this Site without their permission.
+We may use the data that you provide as follows: (1) if you apply for a job, to consider you for the position and to contact references; (2) if you apply for credit, to assess your credit-worthiness (including retrieving credit reports) and to approve or reject your application; (3) if you check the status of your account, to respond to your inquiry; (4) if you send us e-mail or request information, to reply to your request. We may also use the data that you provide to help us improve the content and function of this or other sites, to better understand our customers and markets, to improve our products and services, to enhance our marketing and promotional efforts, to improve product offerings, and to later contact you, electronically or otherwise, about products or services that we believe will interest you. If required by law, such communications will explain how to "opt out" of receiving future communications. You cannot opt out of receiving communications about your account, such as service announcements and administrative notices.
 
-TERMS OF USE, NOTICES, AND REVISIONS  
-If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use Agreement](https://web.archive.org/web/20030609155628id_/http%3A//www.cit.com/misc/legaldisc.html), including limitations on damages and application of the law of the State of New Jersey. If you have a concern about privacy at our Site, please send an email with a detailed description of your concern to [info@cit.com](mailto:info@cit.com) and we will try to resolve it. Our business and Site change constantly. The Terms of Use and this Privacy Policy may change also. Our use of Personal Information that we receive and store is subject to the Privacy Policy and Terms of Use in effect at the time of our use of such Personal Information. If we decide to change our Privacy Policy, we will post the revised Privacy Policy on this Site. This Privacy Policy has been updated on the date indicated above.
+ **7\. SHARING DATA  
+**  
+CIT may share data that you provide under the following circumstances:
+
+     **a.  Affiliates**
+
+          1.   We may share your name, address, and information about your transactions and experiences with us   
+                (such as your payment history or other facts about your account) with our affiliates. 
+
+          2.   We may also share other personal data that you provide with our affiliates in order to provide you with   
+                information about products or services that may interest you. 
+
+           **Option for our Consumer Customers:**  If you are a consumer (as opposed to commercial) customer of   
+           CIT, you may direct us not to share, except as permitted by law, personal data other than your name,   
+           address and information about your transactions and experiences with us with our affiliates by selecting   
+           that choice on the [attached form](https://web.archive.org/NR/rdonlyres/end5zbyuoqdh4aigsnwswnwsfxh36qxi6gdkamx7goxgmin4cud767jczzesketnfood4dqpykfel3z6csvvqhjx4pc/OptionConsumerCustomers.pdf) and submitting it to us.
+
+     **b. Agents and Service Providers** \- In order to establish, administer, and manage our customers' accounts,   
+          evaluate credit, provide customer service and benefits, process account transactions and account   
+          statements, conduct research and analysis, or process job applications, we may disclose personal data to   
+          companies that work with us to perform services or business operations on our behalf.  We may also share   
+          personal data with companies that perform marketing services on our behalf, or with other financial   
+          institutions (including insurance companies) with whom we have joint marketing agreements. 
+
+     **c. Third Parties (Disclosures Permitted or Required by Law)** \- In certain instances, we are permitted or   
+         even required to disclose your personal data to third parties.  Examples of this type of permitted disclosure   
+         are reporting information about your transactions with us to credit reporting agencies, responding to   
+         regulators or auditors, protecting against fraud, or providing information in connection with proposed or   
+         actual business transactions involving our companies or accounts.  We may also disclose your personal data  
+         to third parties when legally compelled to do so, or when we believe that such disclosure is appropriate to   
+         comply with the law, to enforce our terms of use, or to protect the rights, property, or safety of CIT, its   
+         employees, customers, visitors to the site, and others.  Please be aware that these disclosures are   
+         permitted by law without your consent.
+
+     **d. Business Transfers**   \- As we develop our business, we may sell or buy businesses or assets, or be   
+         involved in mergers or other corporate reorganization.  In transactions such as these, your personal data   
+         may be one of the transferred business assets.
+
+     **e. Other Third Parties (Optional Disclosures)** - We may also share, as permitted by law, your personal   
+         data with other third parties with whom we do not have joint marketing agreements, such as other financial   
+         service providers, insurance companies, or non-financial companies such as service organizations, retailers,  
+         travel services or direct marketers.  These companies may wish to provide you with information about   
+         products or services that may interest you.
+
+           **Option for our Consumer Customers:**   If you are a consumer (as opposed to commercial) customer of   
+          CIT, you may direct us not to share personal data with other third parties, except as permitted by law, by   
+          selecting that choice on the [attached form](https://web.archive.org/NR/rdonlyres/end5zbyuoqdh4aigsnwswnwsfxh36qxi6gdkamx7goxgmin4cud767jczzesketnfood4dqpykfel3z6csvvqhjx4pc/OptionConsumerCustomers.pdf) and submitting it to us at [US.Privacy@cit.com](mailto:US.Privacy@cit.com). 
+
+**8\. SECURITY**
+
+CIT uses reasonable measures to protect personal data from unauthorized access, deletion, or alteration. Any information you provide on a CIT form (such as a job or credit application) is encrypted.  Any personal information that CIT transmits to you at your request (such as your account balance) is encrypted.  E-mail communications are not encrypted.  Therefore you should not send any personal data by e-mail.  CIT will never send you e-mail requesting personal data. 
+
+**9\. PUBLIC AREAS  
+**  
+CIT does not control and is not responsible for other visitors' treatment of information that you post on public areas of the site. For example, such information may be collected and used by others for their own purposes, including sending you unsolicited e-mail.
+
+ **10\. YOUR ACCESS TO PERSONAL DATA**
+
+If you wish to review, correct, or remove personal data that you provided to CIT, please send e-mail to [US.Privacy@cit.com](mailto:US.Privacy@cit.com).
+
+ **11\. LINKS**
+
+This site may have hyperlinks to or pop-up windows from other websites. CIT is not responsible for their content or privacy practices. We urge you to review the privacy policy of any website that you visit.
+
+ **12\. NOTICES AND REVISIONS**
+
+CIT may revise this privacy policy from time to time. You should periodically check the revision date at the top of the webpage to learn of any revisions. Your use of the website at any time is deemed acceptance of the privacy policy then in effect. If you have questions about this privacy policy, please send e-mail to [US.Privacy@cit.com](mailto:US.Privacy@cit.com).
