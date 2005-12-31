@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game.net privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614014050id_/http%3A//shop.game.net/help/firsttime.aspx%23privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.net privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231094254id_/http%3A//shop.game.net/help/firsttime.aspx%23privacystatement) for the most accurate reproduction.*
 
 # GAME: First Time
 
@@ -19,7 +19,7 @@ We will give you the chance to refuse any marketing e-mail from us.
 We will never collect sensitive information about you without your explicit consent.  
 
 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by e-mailing us at [customerservices@game.net](mailto:customerservices@game.net)  
+The information we hold will be accurate and up to date. You can check the information that we hold about you by contacting our [customer services ](http://shop.game.net/help/CustService.aspx) department.  
 
 
 If you find any inaccuracies we will delete or correct them.  
@@ -37,7 +37,7 @@ We will share your details with companies directly involved in getting you the p
 We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.  
 
 
-If you have any questions/ comments about privacy, you should e-mail us at [customerservices@game.net](mailto:customerservices@game.net). If you contact us for details of existing information that we hold about you it is important that you quote your original e-mail address, as used at the time you first contacted us. We may be unable to trace your details without this.  
+If you have any questions/ comments about privacy, you should contact our [customer services](http://shop.game.net/help/CustService.aspx) department. If you contact us for details of existing information that we hold about you it is important that you quote your original e-mail address, as used at the time you first contacted us. We may be unable to trace your details without this.  
 
 
 ## SECURE SHOPPING
@@ -67,20 +67,19 @@ CONTACTING US
 | **METHOD** |  | **CONTACT DETAILS** |   
 ---|---|---|---|---  
 |  |  |  |   
-| **E-mail:** |  | General enquiries - [customerservices@game.net](mailto:CustomerServices@GAME.NET)  
+| **Online:** |  | [Support form](http://shop.game.net/help/CustService.aspx)  
 Returns - [returns@game.net](mailto:Returns@GAME.NET)  
 |   
 |  |  |  |   
-| **Fax:** |  | 01344 464 13 |   
+| **Fax:** |  | 01256 784136 |   
 |  |  |  |   
 | **Phone:** |  | 0870 750 2743 (*National Rate for UK callers) |   
 |  |  |  |   
 | **Post:** |  | GAME.NET  
 Freepost SCE4702  
-PO Box 3800  
-Bracknell  
-Berkshire  
-RG12 8HX  
+PO Box 6594  
+Basingstoke  
+RG21 6ZP  
 |   
   
 [Return to Help](http://shop.game.net/help/help.aspx)  
