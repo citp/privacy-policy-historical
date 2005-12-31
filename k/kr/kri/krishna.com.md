@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krishna.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305225716id_/http%3A//www.krishna.com/main.php%3Fid%3D389) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krishna.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231202157id_/http%3A//www.krishna.com/main.php%3Fid%3D389) for the most accurate reproduction.*
 
 # Krishna.com :: Privacy Policy
 
@@ -60,5 +60,3 @@ Alachua, FL 32616
 USA
 
 For additional information, please also read our [Terms and Conditions of Use](http://www.krishna.com/main.php?id=388) for using Krishna.com.
-
-[](http://donate.krishna.com/) [**Make a donation**](http://donate.krishna.com/), help keep this site on the web. This site is maintained by contributions from visitors like you. Special thanks this month go to **Venkataramana Janapati** , **Radio Communication Laboratory (Durgapur, West Bengal)** , **Andreas Harkiolakis** , **Karumanchi Rao** , **Blanche Marsden** , **Sonal Pathak** , **Abhijit Bhattacharjee** , and **Rani Srinivasan**. 
