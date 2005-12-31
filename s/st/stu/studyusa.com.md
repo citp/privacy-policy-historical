@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyusa.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305050833id_/http%3A//www.studyusa.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyusa.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231200946id_/http%3A//www.studyusa.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,6 +22,6 @@ Seattle, WA 98104
 
 * * *
 
-[Featured Programs](https://web.archive.org/toc.asp) | [Find a Program](https://web.archive.org/search.asp) | [Resource Guide](https://web.archive.org/articles.htm) | [Home](https://web.archive.org/default.asp)
+[Featured Programs](https://web.archive.org/toc.asp) | [Find a Program](https://web.archive.org/search.asp) | [Resource Guide](https://web.archive.org/English/articles.asp) | [Home](https://web.archive.org/default.asp)
 
 Copyright © 1995-2002 Study in the USA, Inc. All Rights Reserved. [Terms of Use](https://web.archive.org/terms.htm)/[Privacy](https://web.archive.org/privacy.htm).
