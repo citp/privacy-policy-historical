@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2005-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050320124524id_/http%3A//www.berkleemusic.com/about/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231054551id_/http%3A//www.berkleemusic.com/about/about/privacypolicy) for the most accurate reproduction.*
 
 # Berkleemusic - Privacy Policy
 
@@ -27,6 +27,10 @@ From time to time, Berklee may use and share Web site user's personal informatio
 We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability.
 
 Generally, Berklee only uses personal information collected from and about its users for the purpose for which it is submitted, unless we disclose other uses at the time we collect the information. If we do, you will have the opportunity to instruct us not to use your data in other ways (you can "opt-out" – see below). We may sometimes share personally identifiable information with our affiliates or business partners who might like to send you information about their products or services. If you do not want your information used in this manner, you may "opt-out." We sometimes offer Promotions in conjunction with a sponsor, and may share your information with these sponsors. We will identify the sponsor for you, and provide you with the opportunity to "opt-out." In the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Berklee's customer information may be transferred to Berklee's successor or assign, if permitted by and done in accordance with applicable law.
+
+## INFORMATION SHARING WITH NONAFFILIATED THIRD PARTIES
+
+Because Berkleemusic values all customer relationships, it will not disclose customers' nonpublic personal information to nonaffiliated third parties, except as described in this policy or as otherwise permitted by law. We DO NOT allow any email harvesting. If you feel you have been contacted in error by a party other than Berkleemusic, please contact customer service at service@berkleemusic.com.
 
 ## COOKIES AND IP ADDRESSES 
 
