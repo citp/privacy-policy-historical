@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elenasmodels.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406013039id_/http%3A//www.elenasmodels.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elenasmodels.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231124136id_/http%3A//www.elenasmodels.com/privacy.htm) for the most accurate reproduction.*
 
 # Elena's Models - beautiful russian girls. PRIVACY STATEMENT
 
@@ -10,15 +10,6 @@ Username|
 Password|   
 Remember me   
 [Forgot password?](https://web.archive.org/index.php?method=create_form&list=forgotpass)  
-  
-  
-
-
-Not a Member?  
----  
-  
-**Women and Men - JOIN NOW \- It's absolutely FREE!**  
-[Click here to add your profile](http://www.elenasmodels.com/index.php?list=emodelsuser&method=create_form)  
   
   
 
@@ -36,10 +27,20 @@ EVERY man must know that!
   
 
 
+Not a Member?  
+---  
+  
+**Women and Men - JOIN NOW \- It's absolutely FREE!**  
+[Click here to add your profile](http://www.elenasmodels.com/index.php?list=emodelsuser&method=create_form)  
+  
+  
+
+
 They made it happen!  
 ---  
   
-"Thank you so much for your service!" (John and Svetlana, USA) 
+"Thank you so much for your service!"  
+(John and Svetlana, USA)
 
 [ ](http://www.elenasmodels.com/testimonials.htm#story28)
 
@@ -48,6 +49,26 @@ They made it happen!
 "We were married in a castle in Wales!" (Mark and Zhenya, UK) 
 
 [ ](http://www.elenasmodels.com/testimonials.htm#story21)
+
+* * *
+
+"I am confident that my husband is the person that I want to spend the rest of my life with."   
+(Anna, USA) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story8)[  
+](http://www.elenasmodels.com/testimonials.htm#story8)
+
+* * *
+
+"Right from the beginning of our correspondence we knew we were true soulmates." (Rex and Svetlana, Netherlands) 
+
+[ ](http://www.elenasmodels.com/testimonials.htm#story38)
+
+* * *
+
+"Thanks so much!" (Darryl and Elena, Australia) 
+
+[ ](http://www.elenasmodels.com/testimonials.htm#story39)
 
 * * *
 
@@ -63,14 +84,6 @@ They made it happen!
 
 * * *
 
-"Thank you from the bottom of our hearts! With your help my wife and I found each other.Â Thank you so much! We will be saying this for the rest of our lives."   
-(Mark and Maria, USA) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story27)[  
-](http://www.elenasmodels.com/testimonials.htm#story27)
-
-* * *
-
 "Never in my life I was so happy. Every day for me is like a wonderful fairy-tale, I go to sleep and get up with the smile on my face. I recommend your agency to all my girlfriends!"   
 (Svetlana and Nick, England) 
 
@@ -79,15 +92,7 @@ They made it happen!
 
 * * *
 
-"I am confident that my husband is the person that I want to spend the rest of my life with."   
-(Anna, USA) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story8)[  
-](http://www.elenasmodels.com/testimonials.htm#story8)
-
-* * *
-
-"I am writing to thank you for helping me find the love of my life. We were married in Las Vegas, Nevada on December 15, 2004." (Ron and Elvira Hawkes,USA)
+"I am writing to thank you for helping me find the love of my life. We were married in Las Vegas!" (Ron and Elvira Hawkes,USA)
 
 [ ](http://www.elenasmodels.com/testimonials.htm#story25)
 
@@ -123,7 +128,7 @@ They made it happen!
 
 * * *
 
-"I would like to share my joy with you: with your help, I found my happiness. In September last year I placed my profile on your site and already in November I met Marshall in Moscow." (Mila and Marshall, USA) 
+"I would like to share my joy with you: with your help, I found my happiness." (Mila and Marshall, USA) 
 
 [](http://www.elenasmodels.com/testimonials.htm#story15)
 
@@ -144,16 +149,6 @@ Best Value
 Email **ALL** new girls of Elena's Models for **less than** **$8 a week!** [Details](http://www.elenasmodels.com/services/catalog.htm)
 
 [](http://www.elenasmodels.com/services/catalog.htm)  
-  
-  
-
-
-Today's HOT SPECIALS  
----  
-  
-Book your **Romance Tour** TODAY and get **FREE Platinum Membership! **[Details](http://www.elenasmodels.com/services/tours.htm)
-
-[](http://www.elenasmodels.com/services/index.htm)  
   
   
 
@@ -180,9 +175,19 @@ Special Search
 
   
   
+  
+
+
+New dating bestseller  
+---  
+  
+[](http://www.12simplerules.com/em/)  
+**NEW! ** **#1 Love & Romance bestseller**  
+Don't miss out - [**Click here**](http://www.12simplerules.com/em/)  
+  
 ## Privacy Policy
 
-Elena's Models recognize that your privacy is very important and that you have a right to control your personal information. We understand that providing personal information is an act of trust and we strive to protect your personal information and safeguard your privacy. 
+Elena's Models recognize that your privacy is very important and that you have a right to control your personal information. We understand that providing personal information is an act of trust and we strive to protect your personal information and safeguard your privacy.
 
 The following sections set out how we handle and protect your personal information:
 
@@ -191,6 +196,9 @@ The following sections set out how we handle and protect your personal informati
 Elena's Models is the sole owner of the information collected on this site. We will NEVER sell, rent, or share this information with any other party, unless it is required for the purposes of providing the service your requested. The users are not allowed to sell, share or in any other way distribute the personal contact information of other members of Elena's Models that they receive through Elena's Models. The contact information of the members of Elena's Models that is received through Elena's Models can only be used to initiate a personal contact with members of Elena's Models with the aim of starting a relationship with the intention of future marriage. No other use of the contact information is allowed. It is not allowed to obtain the contact information of Elena's Models members for any other purpose than starting a personal relationship with the intention of future marriage. 
 
 The information of members of Elena's Models cannot be used for the means of a media broadcast, unless otherwise is explicitly agreed in writing, and should be treated as private and confidential, including but not limited to photos of Elena's Models members, the personal ads of Elena's Models members, the success stories of Elena's Models members and any other information that the members of Elena's Models shared in confidence with Elena's Models or agreed on being published on Elena's Models website. The publication of such information on Elena's Models does not specify that this information is in the public domain, and should be treated as private and confidential. 
+
+Elena's Models will use the Member's email address to send newsletters with updates regarding the Elena's Models service. The Member may unsubscribe from the newsletter at any time through the corresponding link on the Home Page of their Member's account. An unsubscribe link appears at the end of each newsletter. Elena's Models may also send its Members offers regarding the products and services of its partners. Members may terminate their Membership with Elena's Models at any time, thus discontinuing any further communication from Elena's Models.  
+
 
 **Registration**
 
@@ -223,135 +231,135 @@ This web site contains links to other sites. Please be aware that Elena's Models
 
 * * *
 
-If you have any question about our privacy policy or the use of the information we collect from our users, please [ contact us](https://web.archive.org/web/20050406013039id_/http%3A//www.elenasmodels.com/contact.htm).
+If you have any question about our privacy policy or the use of the information we collect from our users, please [ contact us](https://web.archive.org/web/20051231124136id_/http%3A//www.elenasmodels.com/contact.htm).
 
 |  | 
 
 | This week NEW ladies  
 ---  
   
-| [](https://web.archive.org/index.php?ap=309038)  
+| [](https://web.archive.org/index.php?ap=246303)  
 ---  
-Oxana, 29  
+Galina, 34  
   
-[](https://web.archive.org/index.php?ap=215006)  
+[](https://web.archive.org/index.php?ap=102807)  
 ---  
-Vladykina, 39  
+Elena, 24  
   
-[](https://web.archive.org/index.php?ap=570833)  
+[](https://web.archive.org/index.php?ap=961311)  
 ---  
-Olga, 24  
+Aulya, 24  
   
-[](https://web.archive.org/index.php?ap=240284)  
+[](https://web.archive.org/index.php?ap=120903)  
 ---  
-Elena, 22  
+Tanya, 23  
   
-[](https://web.archive.org/index.php?ap=644980)  
+[](https://web.archive.org/index.php?ap=894243)  
 ---  
-Veronika, 28  
+Arina, 28  
   
 | Featured listings  
 ---  
   
-| [](https://web.archive.org/index.php?ap=16255)  
+| [](https://web.archive.org/index.php?ap=746408)  
 ---  
-Anna, 21  
+Julia, 20  
   
-[](https://web.archive.org/index.php?ap=16266)  
+[](https://web.archive.org/index.php?ap=10505)  
 ---  
-Anna, 21  
+Natalia, 29  
   
-[](https://web.archive.org/index.php?ap=12854)  
+[](https://web.archive.org/index.php?ap=387549)  
 ---  
-Yulia, 25  
+Vita, 25  
   
-[](https://web.archive.org/index.php?ap=12486)  
+[](https://web.archive.org/index.php?ap=275315)  
 ---  
-Elena, 37  
+Elena, 19  
   
-[](https://web.archive.org/index.php?ap=2358)  
+[](https://web.archive.org/index.php?ap=831628)  
 ---  
-Inna, 32  
+Victoria, 29  
   
 | Most popular girls  
 ---  
   
-| [](https://web.archive.org/index.php?ap=967396)  
+| [](https://web.archive.org/index.php?ap=376214)  
 ---  
-Veronika, 22  
+Elena, 29  
   
-[](https://web.archive.org/index.php?ap=17013)  
+[](https://web.archive.org/index.php?ap=12053)  
 ---  
-Natalia, 18  
+Svetlana, 35  
   
-[](https://web.archive.org/index.php?ap=403951)  
+[](https://web.archive.org/index.php?ap=114176)  
 ---  
-Natasha, 24  
+Elena, 27  
   
-[](https://web.archive.org/index.php?ap=647447)  
+[](https://web.archive.org/index.php?ap=672897)  
 ---  
-Nataliya, 22  
+Olya, 37  
   
-[](https://web.archive.org/index.php?ap=9586)  
+[](https://web.archive.org/index.php?ap=967396)  
 ---  
-Oksana, 23  
+Veronika, 23  
   
-[](https://web.archive.org/index.php?ap=15089)  
+[](https://web.archive.org/index.php?ap=284106)  
 ---  
-Anastasiya, 35  
+Nastya, 23  
   
-[](https://web.archive.org/index.php?ap=17032)  
+[](https://web.archive.org/index.php?ap=660703)  
 ---  
-Julia, 29  
+Olga, 26  
   
-[](https://web.archive.org/index.php?ap=787174)  
+[](https://web.archive.org/index.php?ap=707093)  
 ---  
-Yana, 34  
+Biliana, 29  
   
-[](https://web.archive.org/index.php?ap=14611)  
+[](https://web.archive.org/index.php?ap=11674)  
 ---  
-Tanya, 26  
+Nataliya, 36  
   
-[](https://web.archive.org/index.php?ap=10643)  
+[](https://web.archive.org/index.php?ap=298697)  
 ---  
-Lialia, 36  
+Tanya, 36  
   
-[](https://web.archive.org/index.php?ap=14114)  
+[](https://web.archive.org/index.php?ap=364775)  
 ---  
-Lialia, 36  
+Olga, 30  
   
-[](https://web.archive.org/index.php?ap=15834)  
+[](https://web.archive.org/index.php?ap=909085)  
 ---  
-Iryna, 25  
+Ekaterina, 26  
   
-[](https://web.archive.org/index.php?ap=16519)  
+[](https://web.archive.org/index.php?ap=278416)  
 ---  
-Alena, 20  
+Natalya, 24  
   
-[](https://web.archive.org/index.php?ap=16440)  
+[](https://web.archive.org/index.php?ap=974263)  
 ---  
-Galya, 20  
-  
-[](https://web.archive.org/index.php?ap=15360)  
----  
-Elena, 31  
-  
-[](https://web.archive.org/index.php?ap=470007)  
----  
-Olga, 24  
-  
-[](https://web.archive.org/index.php?ap=454248)  
----  
-Yulia, 21  
-  
-[](https://web.archive.org/index.php?ap=15531)  
----  
-Violetta, 24  
-  
-[](https://web.archive.org/index.php?ap=13677)  
----  
-Alena, 22  
+Nadya, 21  
   
 [](https://web.archive.org/index.php?ap=14265)  
 ---  
-Sveta, 37
+Sveta, 38  
+  
+[](https://web.archive.org/index.php?ap=698873)  
+---  
+Olesya, 27  
+  
+[](https://web.archive.org/index.php?ap=305228)  
+---  
+Maria, 25  
+  
+[](https://web.archive.org/index.php?ap=294396)  
+---  
+Juliana, 26  
+  
+[](https://web.archive.org/index.php?ap=141688)  
+---  
+Iryna, 29  
+  
+[](https://web.archive.org/index.php?ap=815531)  
+---  
+Natalya, 27
