@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delphiglass.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402015938id_/http%3A//www.delphiglass.com/index.cfm%3Fpage%3Dmain_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiglass.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231181838id_/http%3A//www.delphiglass.com/index.cfm%3Fpage%3Dmain_security) for the most accurate reproduction.*
 
 # Delphi - Security and Privacy Info
 
@@ -14,3 +14,5 @@ We may also use the information we collect to notify you about important functio
 
 **Tell us what you think**   
 DelphiGlass.com welcomes your questions and comments about privacy. Please send e-mail to [feedback@delphiglass.com](mailto:feedback@delphiglass.com)
+
+All trademarks not owned by Delphi Creativity Group that appear on this site are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Delphi Creativity Group.
