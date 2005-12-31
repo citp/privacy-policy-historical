@@ -1,55 +1,79 @@
-> *The following text is extracted and transformed from the diamond.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408215102id_/http%3A//diamond.com/aboutus.asp%3FSn%3D9920760%26Fn%3D_custser_privacy.htm%26lid%3D1HPFT3000397) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamond.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231193102id_/http%3A//diamond.com/custservice/privacy_policy.asp) for the most accurate reproduction.*
 
-# Diamond.com - About us
+# Diamond Engagement Rings, Diamonds, Jewelry and Watches at Diamond.com
 
-  |    
-Privacy Policy
+## Diamond.com Privacy Policy
 
-Your privacy is extremely important to us, so we have implemented very stringent guidelines to protect it. Diamond.com does not provide any third party with any individually identifiable information other than that which is necessary to complete your order. Specifically, Diamond.com gives your name, shipping address, phone number, and order information to our shipping carrier. Diamond.com also supplies your name, billing address, and credit card information to the credit card processor who bills your account. Diamond.com has strict guidelines requiring all third parties to keep any shared personal information confidential. 
+This privacy statement discloses the privacy practices for Diamond.com. We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us. 
 
-**How We Gather Information**  
-Diamond.com gathers information from users of the site in several ways:
+If you believe that Diamond.com is not abiding by our posted privacy policy, please contact us at 1-888-DIAMOND or email us at customerservice@diamond.com. 
 
-**_Membership_**  
-When you make a purchase on our site or enter a drawing or sweepstakes, you provide the following information to Diamond.com:
+**Information Collection and Use**  
+Diamond.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Diamond.com collects information from our users at several different points on our website. 
 
-  * Your name
-  * Your e-mail address
-  * Your billing and shipping address
-  * Your telephone number 
-  * The type of credit card you are using 
-  * Your credit card number and expiration date, or other form of payment
+**My Account**  
+When you make a purchase on our site, you will have the option to create an account. By creating an account, the system will remember your personal and purchase information and the checkout process on future purchases will be fast, easy and always completely [secure](https://web.archive.org/web/20051231193102id_/http%3A//diamond.com/custservice/secure_shopping.asp). At your option, your account can also store important dates such as birthdays or anniversaries and allow you to subscribe to receive promotional emails and announcements from us (see “Electronic Mailings” below).
 
-You choose your own member identification and password to use for all future visits to the site. You choose whether or not you would like to receive electronic mailings from Diamond.com (see “Electronic Mailings” below). You also have the option to store important dates, such as birthdays and anniversaries, about which Diamond.com will remind you. Diamond.com members can modify membership information at any time. The option is given under Account Info on our website. [Click here](https://web.archive.org/web/20010408215102id_/http%3A//diamond.com/win_diamond.asp?Sn=9920760) to become a member and enter our current sweepstakes. 
+Creating an account is also fast and easy: simply enter your personal information once and select your very own username and password. Then during checkout on your next purchase, just login and the system will take care of the rest. At all times, your personal information is accessible to you to review, edit, or update as necessary by clicking on the “My Account” link. 
 
-**_Surveys_**  
-From time to time, Diamond.com or a company selected by Diamond.com may offer you the opportunity to participate in customer satisfaction, site improvement and other business-related surveys. You may be asked to provide certain membership information to participate. All surveys are optional. 
+**Order**  
+We request information from the user on our order form when making a purchase. Here is where a user must provide their contact information, like name and shipping address, and financial information, like credit card number and expiration date. This information is used for billing purposes and to fill the customer's order. If we have difficulty processing an order, this contact information is used to communicate with the customer. 
 
-**_Contests_**  
-Diamond.com occasionally offers you the opportunity to participate in sweepstakes, product giveaways and the like. You will be asked to provide certain membership information to participate in a sweepstakes. Diamond.com or a company selected by Diamond.com administers the sweepstakes and contacts the winner. All sweepstakes are optional. 
+**Cookies**  
+A cookie is a piece of data stored on the user's hard drive containing information about the user. We use both session and persistent cookies. Usage of a cookie from our site is in no way linked to any personally identifiable information. Cookies enable us to track and target the interests of our users in the aggregate by analyzing popular areas and products to enhance future experiences on our site. 
 
-**How We Use the Information**  
-The ways in which we use the information you provide are as follows: 
+**Usage Tracking**  
+Diamond.com's database tracks the traffic throughout our site. This information is used to compile overall statistics and is not recorded at an individual level. This includes IP (internet protocol) addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and #of clicks to analyze trends, administer the site, track user's movement in the aggregate. The statistics help us decide which products and services best serve our members and guests. 
 
-**_Cookies_**  
-Put simply, a cookie is a small piece of information that web sites use to remember information about users. Diamond.com uses two types of cookies to recognize our members and remember shopping list items. Diamond.com uses transient cookies to provide continuity from page to page. Within a single visit, these cookies store information such as your shopping list to simplify checkout. They do not contain any personally identifying information. 
+**Aggregate Information**  
+Diamond.com uses aggregate information from demographic surveys, traffic patterns and IP addresses to customize our site. Aggregate information is occasionally shared with partners of Diamond.com to plan advertising or promotions. We do not share any personally identifiable information. 
 
-Diamond.com uses persistent cookies to identify members after their first visit. These cookies remain on the hard drive of a PC and allow a member to enter the site without having to log in on every visit. To access any secure areas such as your account information, you must still enter your password. You can choose to disable persistent cookies by deselecting that option under your browser preferences. When you disable persistent cookies, you can browse Diamond.com, but you cannot access your membership information or make purchases. Disabling cookies can also interrupt audio and cause breaks in navigation. When becoming a Diamond.com member, you can choose whether or not to accept the Diamond.com persistent cookie. Without the persistent cookie, a user can still shop at Diamond.com. 
+**Sharing**  
+Diamond.com gives you access to third party partners to provide you with certain services that are detailed below. Diamond.com will provide that third party with your transaction information and then that third party will collect additional information if needed to provide you with the requested service. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
 
-**_Usage Tracking_**  
-Diamond.com’s database tracks the traffic throughout our site. This information is used to compile overall statistics and is not recorded at an individual level. The statistics help us decide which products and services best serve our members and guests. 
+We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
 
-**_Aggregate Information_**  
-Diamond.com uses aggregate information from demographic surveys and traffic patterns to customize our site. State-of-the-art comparison technology allows us to use this information to make recommendations to members based on previous traffic patterns and purchases. Diamond.com uses information only on an aggregate level and does not track information about individuals. Aggregate information may be shared with partners of Diamond.com to plan advertising or promotions. We do not share any individual information. 
+**Links**  
+This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by Diamond.com. 
 
-**_Electronic Mailings_**  
-At any time, a member of Diamond.com may choose not to receive further electronic direct mail.
+**Catalog, Newsletters, Etc.**  
+If a user wishes to subscribe to our catalog, newsletter, membership kit (Diamond Education Kit) etc., we ask for contact information such as name, street address and email address to provide these communications. Because we respect our users' privacy, we provide a way to opt-out of these communications. Please see the choice and opt-out section below. 
 
-Member Account Information Members always have access to their accounts through the Diamond.com website. The 'Account Info' link on our home page allows members to access their individual accounts to review their order status and history. We keep this area of our site secure and provide access only with the use of a member-specific password. If we make changes to our privacy policy, we will make every effort to post updates on our website. 
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send you an email. Generally, users may not opt-out of these communications, though you can deactivate your account. However, these communications are not promotional in nature. 
 
-**_Permission To Use Your Content_**  
-By transmitting any suggestions, information, identification, material, or other content (collectively, 'content') to Diamond.com, you automatically grant Diamond.com the royalty-free, perpetual, irrevocable, non-exclusive right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, redistribute, transmit, perform and display such content (in whole or part) worldwide and/or to incorporate it in other works in any form, media, or technology now known or later developed for the full term of any rights that may exist in such content. Further, Diamond.com is free to use any ideas, concepts, know-how, techniques, and suggestions contained in any communications you send to this Site for any purpose whatsoever, including but not limited to creating, manufacturing, and marketing products and/or services using such information. 
+**Surveys & Sweepstakes**  
+From time to time, our site requests information from users via surveys or sweepstakes. Participation in these surveys or sweepstakes is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name, shipping address and email address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
-Further questions about our privacy policy can be e-mailed to 
+**Tell-A-Friend**  
+If a user elects to use our referral service for informing a friend about an item, we ask them for the friend's name and email address. Diamond.com will automatically send the friend a one-time email inviting them to visit the site. We do store the friend's email and they have an option to opt-out in the communication. 
 
-[info@Diamond.com](mailto:info@Diamond.com). 
+**Special request page**  
+Our customers can use the special request page to enquire about products that they cannot find on the website, such as, for example, special orders. Personal information is gathered during this process. 
+
+**Security**  
+Diamond.com takes every precaution to protect our users' information. When users submit sensitive information via our website, your information is protected both online and off-line. 
+
+When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - Secure Socket Layers (SSLs). While on a secure page, such as our order form, a lock icon appears on the bottom of your Web browser. When you are not on a secure page, no lock icon will appear. To learn more about SSL, click here. 
+
+While we use SSL encryption to protect sensitive information (like your credit card information) online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are fully informed about our security and privacy practices and updated as new policies are added or revised. They are regularly notified and/or reminded about the importance we place on privacy, and what they can do to ensure that our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment under restricted access. 
+
+If you have any questions about the security at our website, send us an  [Online Inquiry](https://web.archive.org/web/20051231193102id_/http%3A//diamond.com/customer_email.asp?mailID=11) for more info.
+
+**Supplementation of Information**  
+In order for Diamond.com to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from third party sources such as our affiliated websites. For example, in order for Diamond.com to enhance our ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our affiliated sites, ashford.com, DiamondDepot.com, WorldofWatches.com and 1-888-WATCHES.com. When a user makes a purchase from any of these companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences. 
+
+**Special Offers**  
+Established members will occasionally receive information on products, services, special offers and a newsletter. Out of respect for the privacy of our users, we present the option to not receive these types of communications. Please see our choice and opt-out below. 
+
+**Correcting/Updating/Deleting/Deactivating**  
+If a user's personally identifiable information changes (such as your zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate that user's personally identifiable information provided to us. This can be done by using the unsubscribe feature in our communication or by sending us an   
+[Online Inquiry](https://web.archive.org/web/20051231193102id_/http%3A//diamond.com/customer_email.asp?mailID=5). 
+
+**Choice/Opt-Out**  
+Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. 
+
+Users who no longer wish to receive promotional materials may opt-out of receiving these communications by using the unsubscribe feature in our email or by visiting www.diamond.com/unsub.asp. 
+
+When we update our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
+
+If, however, we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. However, if you have opted out of all communication with the site, or deleted/deactivated your account, then you will not be contacted, nor will your personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
