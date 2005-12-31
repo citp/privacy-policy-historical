@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403182333id_/http%3A//www.optionetics.com/legal.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231074515id_/http%3A//optionetics.com/legal.asp%23privacy) for the most accurate reproduction.*
 
 # Optionetics
 
@@ -6,7 +6,7 @@ Options involve risk. Prior to buying or selling an option, an investor must rec
 
 All examples are exclusive of commissions, interest and dividends. You should consult your tax consultant and read the Options Disclosure Document (ODD) prior to investing in options. You can obtain a copy of the ODD from Optionetics, or from the Options Clearing Corporation (1888-options), One North Wacker Drive, Suite 500, Chicago IL 60606.
 
-This Web Site is not designed or intended for United Kingdom based investors. 
+This Web Site is not designed or intended for Hong Kong, United Kingdom, Australian or New Zealand based investors. 
 
 The information and data contained in this website (Optionetics.com) was obtained from sources believed to be reliable, but accuracy is not guaranteed. Neither the information, nor any opinion expressed, constitutes a recommendation to purchase or sell a security, or to provide investment advice.
 
@@ -66,9 +66,9 @@ Please be aware that Optionetics.com sponsors, advertisers or Web sites that hav
 
 Kids under 13: Do not send any information about yourself to us--including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
 
-United Kingdom
+Hong Kong, United Kingdom, Australian and New Zealand
 
-This website and its contents are not directed at residents or citizens of the United Kingdom. As such, the contents of this Website have not been issued or approved by any person authorized to undertake regulated activities in the United Kingdom under the Financial Services and Markets Act 2000. Notwithstanding the above, any views expressed in this website are not to be taken as advice or a recommendation to buy or sell any investment. 
+This website and its contents are directed to US residents and citizens. They are not directed at residents or citizens of the Hong Kong, United Kingdom, Australia or New Zealand. As such, the contents of this Website have not been issued or approved by either the regulatory authorities of or any person authorized to undertake regulated activities in the Hong Kong, United Kingdom, Australia or New Zealand under, respectively, the Securities and Futures Ordinance, the Financial Services and Markets Act 2000, the Corporations Act 2001 or the Companies Act 1993\. Notwithstanding the above, any views expressed in this website are not to be taken as advice or a recommendation to buy or sell any investment and users must make their own decisions based on their own investigations and consultation with their financial adviser or other professional expert. 
 
 **How to Contact Us**
 
