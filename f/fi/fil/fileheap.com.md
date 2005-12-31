@@ -1,98 +1,93 @@
-> *The following text is extracted and transformed from the fileheap.com privacy policy that was archived on 2002-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020809200329id_/http%3A//www.fileheap.com/Company/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileheap.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231083909id_/http%3A//www.fileheap.com/privacy.html) for the most accurate reproduction.*
 
-# FileHeap! - Legal Info
+# FileHeap Privacy Policy
 
-|  | 
+  
 
-Privacy policy
 
-Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of FileHeap!'s network of sites and services, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
+[Home](http://www.fileheap.com/) / Privacy Policy
 
-**Information FileHeap! Gathers and Tracks  
-**
+Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
 
-FileHeap! gathers three types of information about users: data that users provide through optional, voluntary registrations and in certain contests and sweepstakes; FileHeap! gathers through aggregating tracking information derived mainly by tallying page views throughout our sites and click through on our newsletters. Such information enables us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our audience. Because FileHeap! derives its revenue mainly from advertising, providing such aggregated demographic data is essential to keeping our service free to users. The only situation in which FileHeap! divulges information about an individual user to a third party is with certain contests and sweepstakes--and then, only with the user's express consent.
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Zoog Media collects information from all end users of Zoog Media's Internet services (the "Services")—those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a monthly service fee to subscribe to the Service ("Members")—what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. Zoog Media requests that you read this Privacy Policy carefully.
 
-FileHeap! gathers user information in the following processes:
+Personal Information Zoog Media Collects and How It Is Used
 
-> **Optional Registration**
-> 
-> FileHeap! sites offer free, voluntary registration to users. By registering, users can enter FileHeap! without having to log on each time; they gain access to the polling area; and they can take advantage of personalization (the ability to select content according to a user-supplied profile).
-> 
-> During registration the user is required to supply a username, password, and email address, and must answer mandatory survey questions about age, gender, income, Internet connection, zip code, country, employment status, and other employment information.
-> 
-> During registration the user has the option of supplying a first name, last name, and password hint. In addition, the user can opt to subscribe to various FileHeap! electronic newsletters and to have his or her email address and/or URL appear in postings.
-> 
-> **Polling**
-> 
-> FileHeap! sites offer interactive polls to users so they can easily share their opinions with other users and see what the FileHeap! audience thinks about important issues. FileHeap! uses a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
-> 
-> **Electronic Newsletters**
-> 
-> FileHeap! offers a free electronic newsletter to users. FileHeap! gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list through the subscription management pages. Users can also subscribe to the newsletters at the time of registration.
-> 
-> FileHeap! delivers newsletters, marketing and product offerings via email to only registered recipients from our subscription center. The email tracking system recognizes the URL that was clicked, and records some information about you and your computer, such as the email address that you provided to us, the browser, operating system and IP address.
-> 
-> FileHeap! also uses the feature of your browser to set a "cookie" on your system. This allows us to measure and report the click through rate on e-mails delivered and them better determine future content.
-> 
-> While aggregate counts of click through behavior are provided to advertisers, an advertiser will never know that a specific user clicked their ad. FileHeap! does not target advertising against specific user information. FileHeap! will not provide specific user information to any third party company.
-> 
-> **Surveys**
-> 
-> Occasionally FileHeap! conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any of this information about specific individuals with any third party.
-> 
-> **Contests and Sweepstakes**
-> 
-> FileHeap! offers contests and sweepstakes in which we request certain personal information. At a minimum, the required information includes name and email address; in some cases, the user must answer mandatory survey questions about a range of other personal data. The information gathered in the entry form is used to verify the entrant's identity, to send the entrant an email notification that their entry has been received, and to contact winners and/or prize recipients. There are two situations in which FileHeap! will divulge this information to a third party--provided the user gives express consent:
->
->> 1\. A user may expressly choose to receive additional information from the contest sponsor, in which case the user's personally identifiable information is divulged to the advertiser.
->> 
->> 2\. Some of the contests may be hosted on the FileHeap! site but administered by the sponsor; in such cases, the information a user provides is passed on to the third party as long as that user gives express consent.
-> 
-> Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event. All contests and sweepstakes are conducted in full accordance with United States federal and state laws.
-> 
-> **Usage Tracking**
-> 
-> FileHeap! tracks user traffic patterns throughout all of our sites.
-> 
-> FileHeap! sometimes tracks and catalogs the search terms that users enters, but this tracking is never associated with individual users.
-> 
-> **Clear GIFs**
-> 
-> On occasion, FileHeap! uses clear GIFs to track user traffic patterns. FileHeap! does not aggregate or track personally identifiable information when using clear GIFs, only usage patterns.
-> 
-> **Cookies**
-> 
-> A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. FileHeap! uses cookies to track user traffic patterns (as described above), when you register as a FileHeap! member, and when you click an ad: 
-> 
-> Registration: when you register, FileHeap! uses a cookie to store a unique, random user ID. We do not store passwords or any personal information about you. We use this ID to identify you anonymously in our database and to track the pages you visit on our site. Cookies also enable you to enter FileHeap! sites as a member without having to log on each time, and to visit member-restricted areas of the sites. We encrypt the user ID for added security.
-> 
-> Ads: FileHeap!'s advertising system delivers a one-time cookie to better track ad impressions and click rates.
-> 
-> **Opt-in Email Newsletters**
-> 
-> FileHeap! offers free email newsletters to users in association with NetCreations PostMasterDirect, an independent company that creates targeted email newsletters to announce various products and services. When users subscribe to a FileHeap! newsletter, they are given the opportunity to opt in, or join, announcement lists administered by PostMasterDirect. If users choose to opt in for an announcement list, they will receive email newsletters from third parties via PostMasterDirect on topics selected by the users. Users may have their email addresses removed from the opt-in announcement lists at any time by following the instructions printed in the email newsletters.
-> 
-> **Third-Party Ad Servers**
-> 
-> Sometimes we use third-party advertising companies to serve ads on our sites. These third-party advertising companies employ cookie technology to measure ad effectiveness. To do so, these companies may use information about your visits to our sites and other Web sites. Unless you are otherwise notified, these advertising companies do not use names, addresses, email addresses, or telephone numbers, and they do not link any online actions or cookies to an identifiable person. Use of their cookies is subject to their own privacy policies. If you would like more information about the privacy policies of the third-party advertisers on FileHeap!'s sites, including information on how to opt out of their cookies, check their sites:
+**Introduction**
 
-**Use of the Information**
+Zoog Media collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
 
-FileHeap! uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
+**Registration**
 
-As stated above, FileHeap! uses information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, contests, message boards, and auctions. We send out newsletters to subscribers on a regular schedule (daily or weekly, depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. FileHeap! never shares newsletter mailing lists with any third parties, including advertisers or partners. When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. FileHeap! does not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered as one of many measures of what interests our users. But we don't track which terms a particular user enters. FileHeap! creates aggregrate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Data submitted through registration for opt-in email announcement newsletters are provided to PostMasterDirect so that it can deliver the announcements requested by users. This information is never shared with third parties, including the third parties that send announcements through PostMasterDirect. PostMasterDirect and FileHeap! may use aggregated data regarding users' responses to the opt-in email announcement newsletters program to improve the service and to provide information to the companies sending the opt-in email announcements and to other advertisers.
+Members are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances. However, in instances where Zoog Media and a partner jointly promote the Services, Zoog Media may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion. In this instance, personal information may not be used by the partner for any other purpose. Zoog Media may also generate nonidentifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and nonidentifying information to sell advertisements that appear on the Services.
 
-**Sharing of the Information**
+**Zoog Media Partners and Sponsors**   
 
-FileHeap! uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We do not share information about individual users with any third party, except in the case of some contests and sweepstakes--and then, only with a user's express consent. FileHeap! may make registration records and log files available on a confidential basis to third-party auditors and to select measurement and analysis firms.
 
-FileHeap! does not control the practices of our advertisers. If you have questions about how one of our advertisers uses information about you when you click their ad and go to their content, please contact them directly. (FileHeap! will divulge information only as necessary to comply with state and federal laws.)
+Some Zoog Media products and services are offered to Visitors and Members in conjunction with a non-affiliated partner. For example, we outsource the provision of stock quotes and operation of your stock portfolio (accessible through your **Personal Start Page** ) to a third-party vendor. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature. Additionally, many Zoog Media Members have cobranded **Personal Start Pages** that are cosponsored by nonaffiliated partners. Zoog Media will share nonidentifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the cobranded products or services offered.
 
-**Delete/Deactivate Policy**
+**Online Shopping**
 
-Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter.
+At some Web sites, you can purchase products and services or register to receive materials, such as a catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Zoog Media has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so.
 
-Currently, FileHeap! does not offer users a means by which to completely delete personal information established at the time of registration for FileHeap!.
+If you order products directly from Zoog Media, such as through the "Zoog Media Store," we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-|  | 
+**Online Advertisements**   
+
+
+Zoog Media displays our online advertisements. We share aggregated and nonidentifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. Additionally, in some instances, we use this aggregated and nonidentifying information to deliver tailored advertisements. For instance, an advertiser tells us the audience they want to reach (for example, males between 25 and 55 years of age) and provides us an advertisement tailored to the audience. Based upon the aggregated and nonidentifying information we have collected, we may then display the advertisement to the intended audience. Zoog Media does not share personal information about its Visitors or Members with these advertisers.
+
+**Responses to email Inquiries**
+
+When Visitors or Members send email inquiries to Zoog Media, the return email address is used to answer the email inquiry we receive. Zoog Media does not use the return email address for any other purpose and does not share the return email address with any third party.
+
+**Voluntary Customer Surveys**
+
+We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary.
+
+We take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other Zoog Media customers to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
+
+**Special Cases**
+
+It is Zoog Media's policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, Zoog Media may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our [Acceptable Use Policy](http://www.zoogmedia.com/legal/aupolicy.html) or other user policies; to operate the Services properly; or to protect Zoog Media and our Members.
+
+"Cookies" and How Zoog Media Uses Them
+
+A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Zoog Media may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. If you are a Member and have created your own **Personal Start Page** , we will use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit non-Zoog Media web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
+
+Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+
+Zoog Media's Commitment to Children's Privacy
+
+Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws.
+
+We have Web pages designed especially for our younger users. While we make every effort to ensure that these Web sites are fun and age-appropriate for our younger audience, we believe that there is no substitute for proper parental supervision. For further information about tips, tools, age-appropriate or kid-friendly Web sites and how to report online trouble, please visit [www.getnetwise.org](http://www.getnetwise.org/).
+
+Finally, Zoog Media recommends that children ask a parent for permission before sending personal information to Zoog Media, or to anyone else online.   
+
+
+Public Forums
+
+Please remember that any information you may disclose in our Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
+
+Zoog Media's Commitment to Data Security
+
+Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
+
+How to Access or Modify Your Information
+
+Zoog Media offers Members the opportunity to access or modify information provided during registration. To access or modify such information, visit [/membership.html](https://web.archive.org/membership.html) or contact our Customer Service Department at 1-920-830-0400.
+
+Where to Direct Questions About Zoog Media's Privacy Policy
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact:   
+  
+Zoog Media, LLC.  
+1006 W Summer St.  
+Appleton, WI 54914  
+[privacy@zoogmedia.com](mailto:privacy@zoogmedia.com)
+
+Revisions to This Policy
+
+Zoog Media reserves the right to revise, amend, or modify this policy, our [Internet Service Agreement](https://web.archive.org/service_agree.html) and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the [Internet Service Agreement](https://web.archive.org/service_agree.html).   
+
