@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the c-point.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206225840id_/http%3A//www.netmarketinginsider.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-point.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231233308id_/http%3A//www.netmarketinginsider.com/privacy.php) for the most accurate reproduction.*
 
 # Net Marketing Insider: Privacy Policy
 
 ### Privacy Policy
 
-[Net Marketing Insider](https://web.archive.org/web/20050206225840id_/http%3A//www.netmarketinginsider.com/index.php) and [Antechinus® Creative Software](http://www.c-point.com/) are owned and operated by C Point Pty Ltd, incorporated under Australian Company Number (ABN): 085 516 552, Australian Business Number (ABN): 48 085 516 552.  
+[Net Marketing Insider](https://web.archive.org/web/20051231233308id_/http%3A//www.netmarketinginsider.com/index.php) and [Antechinus® Creative Software](http://www.c-point.com/) are owned and operated by C Point Pty Ltd, incorporated under Australian Company Number (ABN): 085 516 552, Australian Business Number (ABN): 48 085 516 552.  
 Our postal address is:   
 71 Williamson Road  
 Para Hills 5096, Adelaide, Australia
