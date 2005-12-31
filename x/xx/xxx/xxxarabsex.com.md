@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxarabsex.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519001926id_/http%3A//xxxarabsex.com/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxarabsex.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231043553id_/http%3A//xxxarabsex.com/pp.htm) for the most accurate reproduction.*
 
 # Our Commitment To Privacy
 
