@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starware.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630011422id_/http%3A//www.starware.com/2.0.0.0/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starware.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231060556id_/http%3A//www.starware.com/2.0.0.0/privacy.html) for the most accurate reproduction.*
 
 # starware
 
@@ -77,11 +77,11 @@ Disabling
 Changes to this Policy
 
   * Please note this Privacy Policy may change in the future. Our current privacy policy will always be made available at this page. The policy version will be noted at the top of the page and previous versions will be made available to review upon request.
-  * If you have any additional questions, or would like to suggest improvements to this policy, please contact our privacy officer at chrisp @ searchrover.net.
+  * If you have any additional questions, or would like to suggest improvements to this policy, please contact our privacy officer at chrisp @ starware.net.
 
 
 
-To install our product, [Click Here](https://web.archive.org/web/20050630011422id_/http%3A//www.starware.com/2.0.0.0/download.php).
+To install our product, [Click Here](https://web.archive.org/web/20051231060556id_/http%3A//www.starware.com/2.0.0.0/download.php).
 
 If there are any terms in this policy you don't understand, visit [www.webopedia.com](http://www.webopedia.com/)
 
