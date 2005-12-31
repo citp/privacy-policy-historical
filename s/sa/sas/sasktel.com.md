@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sasktel.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308012731id_/http%3A//www.sasktel.com/customer_care/our_policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sasktel.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231161239id_/http%3A//www.sasktel.com/customer_care/our_policies/privacy.html) for the most accurate reproduction.*
 
 # SaskTel - Privacy
 
@@ -180,13 +180,13 @@ e-mail: [privacy.matters@sasktel.sk.ca ](mailto:privacy.matters@sasktel.sk.ca%20
 If this does not resolve your concern to your satisfaction, you may contact the Saskatchewan Information and Privacy by writing to:
 
 Saskatchewan Information and Privacy Commissioner   
-100 -- 1230 Blackfoot Drive   
+#503 - 1801 Hamilton St.   
 Regina , Saskatchewan   
-S4S 7G4
+S4P 4B4 
 
 Return to top
 
-**Last Modified:** July 2004
+**Last Modified:** November 2, 2005 
 
 More Information  
 ---  
