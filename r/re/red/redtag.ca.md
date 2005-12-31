@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtag.ca privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305045957id_/http%3A//www.redtag.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtag.ca privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231190724id_/http%3A//www.redtag.ca/privacy.html) for the most accurate reproduction.*
 
 # Red Tag Vacations - Shop, Compare and Pay Less
 
