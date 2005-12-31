@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorelearning.com privacy policy that was archived on 2005-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050419052216id_/http%3A//www.explorelearning.com/index.cfm%3Fmethod%3DController.dspPrivacy%26CFID%3D1003843%26CFTOKEN%3D16307344) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorelearning.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231220046id_/http%3A//www.explorelearning.com/index.cfm%3Fmethod%3DController.dspPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy | ExploreLearning
 
