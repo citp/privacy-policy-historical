@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squiz.net privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623234921id_/http%3A//www.squiz.net/%3Fp%3D461) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiz.net privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231220054id_/http%3A//www.squiz.net/privacy) for the most accurate reproduction.*
 
 # Squiz - Privacy
 
@@ -39,4 +39,4 @@ You have the right to seek access to the personal information held about you and
 
 This policy may change from time to time. You may access an up to date copy of Squiz's privacy policy from our website.
 
-If you have enquiries, wish to provide feedback about this policy or would no longer like to receive information on promotions or services from Squiz you may [contact us](https://web.archive.org/contact_us) or phone 61 2 9568 6866 or fax 61 2 9568 6733. 
+If you have enquiries, wish to provide feedback about this policy or would no longer like to receive information on promotions or services from Squiz you may [contact us](https://web.archive.org/?p=202) or phone 61 2 9568 6866 or fax 61 2 9568 6733. 
