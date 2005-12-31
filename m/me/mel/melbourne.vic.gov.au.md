@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616075107id_/http%3A//www.melbourne.vic.gov.au/info.cfm%3Fpg%3D665) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231164143id_/http%3A//www.melbourne.vic.gov.au/info.cfm%3Fpg%3D665) for the most accurate reproduction.*
 
-# City of Melbourne
+# City of Melbourne - Home - Privacy Statement
 
 **Information Privacy**
 
@@ -35,8 +35,9 @@ We will also ensure that your personal information is not disclosed to other ins
 Requests for access to documents containing personal information are managed under the Freedom of Information Act and should be addressed to:
 
 Governance Services Officer  
+Legal and Governance Branch  
 City of Melbourne  
-GPO Box 1603M  
+PO Box 1603  
 Melbourne 3001. 
 
 **Correction of Personal Information**
@@ -45,5 +46,7 @@ If you wish to alter any personal information you have supplied to Council whils
 
 Please contact the Council’s Privacy Officer on 9658 9173 if you have any other enquires concerning Councils privacy procedures.
 
-  [Council's Privacy Policy Statement](https://web.archive.org/rsrc/PDFs/Governance/PrivacyPolicyStatement.pdf)  
+[  Council's Privacy Policy Statement  (26kb)](https://web.archive.org/rsrc/PDFs/Governance/Privacy.pdf)
 
+[  Council's Privacy Policy Statement (74kb)  
+](https://web.archive.org/rsrc/PDFs/Governance/Privacy.rtf)
