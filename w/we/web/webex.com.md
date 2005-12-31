@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405225238id_/http%3A//www.webex.com/webex_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231163330id_/http%3A//www.webex.com/webex_privacy.html) for the most accurate reproduction.*
 
-# Privacy statement - WebEx
-
-Web Conferencing, Video Conferencing and Online Meeting Services
-
-[](https://web.archive.org/webexhome.html)
+# Privacy statement: WebEx
 
   
 WebEx respects your privacy. When using our sites, you may get information, access online products and services, communicate with us or link to other Web sites with which we do business. While doing that, you may give us information so that we can provide enhanced products or services to you and to personalize your experience on our website. This online privacy policy describes how we use and protect Individual Identifying Information that you share with us. "Individual Identifying Information" is information that enables us to identify you, such as your email address, name, title and mailing address. 
@@ -105,7 +101,7 @@ _Choices about Cookies_
 ---|---  
   |    
 _WebEx's Practices Regarding Cookies_  
-WebEx uses its own cookies for a number of purposes, including to: 
+WebEx uses cookies for a number of purposes, including to: 
 
   * Access your information when you "sign in," so that we can provide you with customized content. 
   * Keep track of preferences you specify while you are using WebEx's services. 
