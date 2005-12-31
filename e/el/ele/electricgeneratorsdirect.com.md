@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricgeneratorsdirect.com privacy policy that was archived on 2005-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050510080258id_/http%3A//www.electricgeneratorsdirect.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricgeneratorsdirect.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231174553id_/http%3A//www.electricgeneratorsdirect.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ Electric Generators Direct.com - Your Online Emergency Generator Superstore
 
@@ -32,10 +32,10 @@ In some cases, we may collect information about you that is not personally-ident
 Please refer to your browser instructions or help screen to learn more about these functions. We also collect an IP address from all visitors to our website. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our website, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are also not linked to personally identifiable information. 
 
 **5) Opting Out of Receiving Communications from Us**   
-Electric Generators Direct, Inc. may send you communications regarding its services, its websites or otherwise. Electric Generators Direct provides you the opportunity to opt-out of receiving such communications by indicating your desire to opt-out. If you would like to opt out of receiving communications from us please email us at [electric@electricgeneratorsdirect.com](mailto:electric@electricgeneratorsdirect.com). 
+Electric Generators Direct, Inc. may send you communications regarding its services, its websites or otherwise. Electric Generators Direct provides you the opportunity to opt-out of receiving such communications by indicating your desire to opt-out. If you would like to opt out of receiving communications from us please email us at [service@electricgeneratorsdirect.com](mailto:service@electricgeneratorsdirect.com). 
 
 **6) Correcting or Updating Information**   
-At any time, you can view, update and/or remove your account information. Upon your request, we will also remove any other personally identifying information we may retain from our databases. To make any such changes or requests, please email us at [electric@electricgeneratorsdirect.com](mailto:electric@electricgeneratorsdirect.com). Additional residual information may remain in our archives and records, but this information will not be used for any commercial purpose. We reserve the right to maintain information on users who have violated our Terms of Use or who have had their access to our website blocked. 
+At any time, you can view, update and/or remove your account information. Upon your request, we will also remove any other personally identifying information we may retain from our databases. To make any such changes or requests, please email us at [service@electricgeneratorsdirect.com](mailto:service@electricgeneratorsdirect.com). Additional residual information may remain in our archives and records, but this information will not be used for any commercial purpose. We reserve the right to maintain information on users who have violated our Terms of Use or who have had their access to our website blocked. 
 
 **7) Security:**   
 All information provided to Power Equipment Direct is transmitted using Thawte certified encryption. Thawte is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect your information by placing it on a secure portion of our website that is only accessible by certain qualified employees of Power Equipment Direct. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information. 
@@ -50,4 +50,4 @@ Power Equipment Direct, Inc.
 14136 Hunt Club Lane   
 Plainfield, IL 60544 
 
-You can also send an e-mail to [electric@electricgeneratorsdirect.com](mailto:electric@electricgeneratorsdirect.com). Thank you. 
+You can also send an e-mail to [service@electricgeneratorsdirect.com](mailto:service@electricgeneratorsdirect.com). Thank you. 
