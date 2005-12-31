@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incentaclick.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420001830id_/http%3A//www.incentaclick.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incentaclick.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231050319id_/http%3A//incentaclick.com/privacy.php) for the most accurate reproduction.*
 
 # Incent-a-Click
 
@@ -26,7 +26,7 @@ All Publishers who are approved by the **Incent A Click** Network must comply wi
 
 By using this site, including, without limitation, signing up for offers and/or continuing to receive information from **Incent A Click** , you agree to the **Incent A Click** Privacy Policy. We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the **Incent A Click** website. Please check this page periodically for changes. Your continued use of the **Incent A Click** website or acceptance of our emails following the posting of changes to these terms will mean that you accept these changes and agree to continue receiving emails from us. If you have any questions about this Privacy Policy, please contact us by at
 
-**Incent A Click Media Group LLC**  
+**Incent A Click Media Group**  
 Sunroad Corporate Centre  
 4445 Eastgate Mall, 2nd Floor  
 San Diego, 92121 USA   
