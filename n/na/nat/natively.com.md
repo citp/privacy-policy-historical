@@ -1,18 +1,9 @@
-> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231135753id_/http%3A//www.natively.com/Privacy.asp) for the most accurate reproduction.*
 
-# Natively.com - language solutions, translations, English learning
+# Natively - Dictionary and Translation Software, Award Winning Language learning tools
 
 |  |   
----  
-[](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/index.asp)  
-[](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/translator.asp)  
-       [Key Finder](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/keyFinder.asp)  
-       [Requirements](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/system.asp)  
-[](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/learning.asp)  
-       [English+](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/englishplus.asp)  
-       [English+ Kids](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/engp_kids.asp)  
-       [Requirements](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/system2.asp)  
-|  | PRIVACY POLICY  
+PRIVACY POLICY  
 ---  
 Privacy Protection Commitment by Natively.com  
 Natively.com is obliged to protect the privacy of its clients.  
@@ -46,7 +37,4 @@ Notifications Regarding Changes:
 In the event of a fundamental change in our privacy protection policy or in the manner we use your personal information, we will make sure to post a notification on our website 30 days earlier.  
   
 Contacting the Site:  
-You may address any question you may have regarding this document, the site policy or the way you use the site by contacting Natively.com, using the 'Contact' link.  
-| [](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/terms.asp) |  | [](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/privacy.asp) |  | [](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/faq.asp) |  | [](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/about.asp) |  | [](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/contact.asp)  
----|---|---|---|---|---|---|---|---  
-© Copyrights 2004 - 2005 Natively All rights reserved
+You may address any question you may have regarding this document, the site policy or the way you use the site by contacting Natively.com, using the 'Contact' link.
