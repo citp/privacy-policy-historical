@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuone.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404171105id_/http%3A//www.cuone.org/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuone.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231150155id_/http%3A//www.cuone.org/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
