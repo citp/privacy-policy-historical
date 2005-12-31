@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mitel.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403211118id_/http%3A//www.mitel.com/jsp/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mitel.com privacy policy that was archived on 2005-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231170231id_/http%3A//www.mitel.com/jsp/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -79,6 +79,10 @@ function getCountry() {
        		lang = 'nl';
        if (country == "Italy")
        		lang = 'it';
+       if ((country == "Germany")
+       		||(country == "Austria")
+			||(country == "Switzerland"))
+       		lang = 'de';
        if ((country == "Spain")
 			||(country == "Argentina")
 			||(country == "Bolivia")
@@ -91,6 +95,9 @@ function getCountry() {
 			||(country == "Costa Rica")
 			||(country == "El Salvador"))
        		lang = 'es';
+       if ((country == "Portugal")
+	        ||(country == "Brazil"))
+       		lang = 'pt';
        switch (lang) {
 	   case "fr":
 		    imageURL = 'fr_';
@@ -131,7 +138,27 @@ function getCountry() {
 			alttextsearch = "Cerca";
 			alttextcustexp = "Esperienze di clienti";
 			alttextpressrelease = "Comunicati stampa";
-	   break
+	   		break
+	   case "de":
+			imageURL = 'de_';
+			changeCountryText = "Anderes Land";
+			alttextlogin = "Anmelden";
+			alttextregister = "Registrieren";
+			alttextcontactus = "Kontakt";
+			alttextsearch = "Suchen";
+			alttextcustexp = "Erfahrungsberichte von Benutzern";
+			alttextpressrelease = "Pressemitteilungen";
+	   		break
+	   case "pt":
+			imageURL = 'pt_';
+			changeCountryText = "Alterar pa%EDs";
+			alttextlogin = "In%EDcio de sess%E3o";
+			alttextregister = "Registar";
+			alttextcontactus = "Contacte-nos";
+			alttextsearch = "Pesquisar";
+			alttextcustexp = "Experi%EAncias de clientes";
+			alttextpressrelease = "Comunicados para a imprensa";
+	   		break
 	   default:
 	   		imageURL = '';
 			changeCountryText = "Change Country";
@@ -140,7 +167,7 @@ function getCountry() {
 			alttextcontactus = "Contact&nbsp;Us";
 			alttextsearch = "Search";
 			alttextcustexp = "Customer Experiences";
-			alttextpressrelease = "Press Releases";
+			alttextpressrelease = "News Releases";
 	   }
        document.write(country);
 }
@@ -197,7 +224,7 @@ function open_CountryWindow(url) {
 <td valign="top" align="left">
 <table cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td align="left" valign="top" class="dark-gray-back"><a onmouseover="popUp('HM_Menu1',event);status='Company'; return true" onmouseout="popDown('HM_Menu1');status='';" href="/DocController?documentId=9439"><img src="/images/topnav_company.gif" alt="Company" width="71" height="26" border="0" name="company"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"><a onmouseover="popUp('HM_Menu2',event);status='Solutions'; return true" onmouseout="popDown('HM_Menu2');status='';" href="/DocController?documentId=9440"><img src="/images/topnav_solutions.gif" alt="Solutions" width="80" height="26" border="0" name="solutions"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"><a onmouseover="popUp('HM_Menu3',event);status='Products'; return true" onmouseout="popDown('HM_Menu3');status='';" href="/DocController?documentId=9441"><img src="/images/topnav_products.gif" alt="Products" width="75" height="26" border="0" name="products"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"><a onmouseover="popUp('HM_Menu4',event);status='Support'; return true" onmouseout="popDown('HM_Menu4');status='';" href="/DocController?documentId=9442"><img src="/images/topnav_support.gif" alt="Support" width="71" height="26" border="0" name="support"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"><a onmouseover="popUp('HM_Menu5',event);status='Media Center'; return true" onmouseout="popDown('HM_Menu5');status='';" href="/DocController?documentId=9443"><img src="/images/topnav_media_center.gif" alt="Media Center" width="97" height="26" border="0" name="media"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"><a onmouseover="popUp('HM_Menu6',event);status='Partners and Resellers'; return true" onmouseout="popDown('HM_Menu6');status='';" href="/DocController?documentId=9444"><img src="/images/topnav_partners.gif" alt="Partners and Resellers" width="93" height="26" border="0" name="partners"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"><a onmouseover="popUp('HM_Menu7',event);status='User Communities'; return true" onmouseout="popDown('HM_Menu7');status='';" href="/DocController?documentId=9445"><img src="/images/topnav_user.gif" alt="User Communities" width="105" height="26" border="0" name="user"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"></td>
+<td align="left" valign="top" class="dark-gray-back"><a onmouseover="popUp('HM_Menu1',event);status='Company'; return true" onmouseout="popDown('HM_Menu1');status='';" href="/DocController?documentId=9439"><img src="/images/topnav_company.gif" alt="Company" width="71" height="26" border="0" name="company"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"><a onmouseover="popUp('HM_Menu2',event);status='Solutions'; return true" onmouseout="popDown('HM_Menu2');status='';" href="/DocController?documentId=9440"><img src="/images/topnav_solutions.gif" alt="Solutions" width="80" height="26" border="0" name="solutions"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"><a onmouseover="popUp('HM_Menu3',event);status='Products'; return true" onmouseout="popDown('HM_Menu3');status='';" href="/DocController?documentId=9441"><img src="/images/topnav_products.gif" alt="Products" width="75" height="26" border="0" name="products"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"><a onmouseover="popUp('HM_Menu4',event);status='Support'; return true" onmouseout="popDown('HM_Menu4');status='';" href="/DocController?documentId=9442"><img src="/images/topnav_support.gif" alt="Support" width="71" height="26" border="0" name="support"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"><a onmouseover="popUp('HM_Menu5',event);status='Media Center and Analysts'; return true" onmouseout="popDown('HM_Menu5');status='';" href="/DocController?documentId=17425"><img src="/images/topnav_media_center_en.gif" alt="Media Center and Analysts" width="97" height="26" border="0" name="media"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"><a onmouseover="popUp('HM_Menu6',event);status='Partners and Resellers'; return true" onmouseout="popDown('HM_Menu6');status='';" href="/DocController?documentId=9444"><img src="/images/topnav_partners.gif" alt="Partners and Resellers" width="93" height="26" border="0" name="partners"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"><a onmouseover="popUp('HM_Menu7',event);status='User Communities'; return true" onmouseout="popDown('HM_Menu7');status='';" href="/DocController?documentId=9445"><img src="/images/topnav_user.gif" alt="User Communities" width="105" height="26" border="0" name="user"></a><img border="0" width="1" src="/images/spacer.gif" alt="" height="1"></td>
 </tr>
 </tbody></table>
 </td>
