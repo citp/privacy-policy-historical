@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futuresmag.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404190350id_/http%3A//www.futuresmag.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuresmag.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231015743id_/http%3A//www.futuresmag.com/privacy.html) for the most accurate reproduction.*
 
 # futuresmag.com: Privacy policy
 
