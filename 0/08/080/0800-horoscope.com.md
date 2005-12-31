@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205184650id_/http%3A//www.0800-horoscope.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231064939id_/http%3A//0800-horoscope.com/privacy.html) for the most accurate reproduction.*
 
 # 0800-horoscope - Privacy Statement
 
@@ -12,7 +12,7 @@
   \- [Daily](https://web.archive.org/daily.html)  
   \- [Weekly](https://web.archive.org/)  
   \- [Monthly](https://web.archive.org/monthly.html)  
-  \- [Year 2004](https://web.archive.org/year2004.html)  
+  \- [Tarot Reading](https://web.archive.org/tarot.html)  
   \- [14 Day Outlook](https://web.archive.org/previsions.html)  
   \- [PartnerScope](https://web.archive.org/partnerscope.html)  
   \- [Sun*Moon*Asc](https://web.archive.org/weeklycombi.html)  
@@ -67,7 +67,7 @@
 * * *  
   
 ---  
-[](http://www.easyscopes.net/redir/burstsurvey.html?Burst,welcome,ad1277f,1005)  
+[](http://www.easyscopes.net/redir/burstsurvey.html?Qhcode=ad1277f&Qhcat=2)  
    
   | 
 
