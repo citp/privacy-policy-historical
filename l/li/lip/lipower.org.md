@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipower.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306125234id_/http%3A//www.lipower.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipower.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231230324id_/http%3A//lipower.org/html/privacy.html) for the most accurate reproduction.*
 
 # LIPA: Privacy Policy
 
