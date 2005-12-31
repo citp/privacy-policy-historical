@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbc17.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305230334id_/http%3A//www.nbc17.com/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc17.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231094502id_/http%3A//www.nbc17.com/news/1176131/detail.html) for the most accurate reproduction.*
 
 # NBC 17 - News - Online Privacy Statement
 
