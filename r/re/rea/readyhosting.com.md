@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606033026id_/http%3A//www2.readyhosting.com/CustomerDisplayPrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231051424id_/http%3A//www.readyhosting.com/privacy-policy.cfm) for the most accurate reproduction.*
 
-# WebHosting, ReadyHosting.com, Your source for NT Webhosting, FrontPage, Unlimited Email
-
-**PRIVACY POLICY**
+# Web Hosting: Coldfusion MX, ASP.NET, and Reseller Web Hosting
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how ReadyHosting.com collects information from all end users of ReadyHosting.com's Internet and web hosting services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. ReadyHosting.com requests that you read this Privacy Policy carefully. 
 
@@ -24,6 +22,8 @@ We take the information we receive from individuals responding to our Customer S
 
 **Special Cases.** It is ReadyHosting.com's policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, ReadyHosting.com may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Service or other user policies; to operate the Services properly; or to protect ReadyHosting.com and our Members. 
 
+**Registration for Promotions:** From time to time, ReadyHosting.com may on its own, or in conjunction with other partners, offer certain promotions or giveaways which require registration. If you register for such a promotion or giveaway, ReadyHosting.com may use your registration/contact information to send notification to you of ReadyHosting.com services by e-mail and/or postal mail. ReadyHosting.com may also share your registration information with our clients, business partners or other third parties. As a result, our clients, business partners or third parties may also send you promotional material. ReadyHosting.com may also use your IP address internally and share it with third parties.
+
 **"Cookies" and How ReadyHosting.com Uses Them.** A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. ReadyHosting.com may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. If you are a Member, we will use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit non-ReadyHosting.com Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.   
 Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. 
 
@@ -44,5 +44,4 @@ Kenosha, WI 53142
 1-262-652-7640 (International)  
 1-262-652-7650 (fax)**
 
-Revisions to This Policy. ReadyHosting.com reserves the right to revise, amend, or modify this policy, our Terms of Service and our other policies and agreements at any time and in any manner.   
-
+**Revisions to This Policy.** ReadyHosting.com reserves the right to revise, amend, or modify this policy, our Terms of Service and our other policies and agreements at any time and in any manner.
