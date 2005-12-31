@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405185801id_/http%3A//www.clickatell.com/brochure/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231213900id_/http%3A//www.clickatell.com/brochure/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Clickatell Bulk SMS Gateway
 
@@ -45,6 +45,6 @@ If at any time you would like to change any information in your account, Login f
 **Limits on Our Abilities**  
 Although your privacy is very important to us, due to the existing legal and technical environment, we cannot ensure that your personally identifiable information will not be disclosed to third parties in ways not described in this policy. Additionally, we can (and you authorize us to) disclose any information about you to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate to address or resolve inquiries or problems. This will not be done for commercial purposes or gain from Clickatell as such.
 
-If you have further questions about our privacy policy or its implementation, please **[contact us.](http://support.clickatell.com/contact.php)**
+If you have further questions about our privacy policy or its implementation, please **[contact us.](http://www.clickatell.com/brochure/contact.php)**
 
 You acknowledge that acceptance of this privacy policy is a condition to your use of our services and you agree to be bound by all of its terms and conditions
