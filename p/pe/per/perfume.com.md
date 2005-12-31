@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfume.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305234853id_/http%3A//www.perfume.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfume.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231191909id_/http%3A//www.perfume.com/privacy.php) for the most accurate reproduction.*
 
 # Discount Perfume and Cologne - Buy Brand Name Perfumes Online
 
@@ -26,4 +26,4 @@ By using our Web site and submitting your information to the Perfume.com network
 Some sites within our network contain links to other sites. Perfume.com is not responsible for the privacy practices or the content of such Web sites. If you have a question about the privacy policy of those web sites, please visit them directly. 
 
 **Contacting us**  
-If you have any questions about our Privacy Policy, our site practices, or your personal experience dealing with this web site, you can [contact](http://www.perfume.com/catalog/contact_us.php) our office. 
+If you have any questions about our Privacy Policy, our site practices, or your personal experience dealing with this web site, you can [contact](http://www.perfume.com/contact_us.php) our office. 
