@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629002635id_/http%3A//www.battleon.com/aq-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231050230id_/http%3A//www.battleon.com/aq-privacy.asp) for the most accurate reproduction.*
 
 # Adventure Quest RPG - PBW
 
@@ -108,7 +108,7 @@ For Guardian Accounts, the receipt of payment is considered actual, verifiable c
    
 How can parents access, change or delete personally identifiable information about their kids?   
   
-Once again, we would like to assure you that we do not keep any information other than what is listed above. However, parents are welcome to contact us about any personally identifiable information about their child by emailing [Artix@BattleOn.com](mailto:artix@battleon.com) Parents can then request to purge either all or specific portions of that information by e-mailing [Artix@battleon.com](mailto:artix@battleon.com).   
+Once again, we would like to assure you that we do not keep any information other than what is listed above. However, parents are welcome to contact us about any personally identifiable information about their child by emailing aq.privacy@battleon.com. Parents can then request to purge either all or specific portions of that information by e-mailing aq.privacy@battleon.com.   
   
    
 Revision Information   
@@ -119,11 +119,14 @@ AdventureQuest reserves the right to change, modify, or revise this Privacy Poli
   
 Contacting AdventureQuest   
   
-If you need further assistance or have any additional questions or comments about our Privacy Policy, please e-mail us at [Helpzard@battleon.com](mailto:helpzard@battleon.com) or write to us: 
+If you need further assistance concerning our Privacy Policy or have any additional questions or comments about our Privacy Policy, please contact us at helpzard@battleon.com or write to us: 
 
 **Member Services**  
 Artix Entertainment, LLC  
 P.O. Box 2005  
 Land O' Lakes, FL 34639  
-(813) 774-8493   
+(813) 774-8493 
+
+Our office hours are Noon to 5pm EST Monday through Friday. It can take 3 business days to receive an email response from us because real people read each email. We do not have an automated email reponse system.  
+  
  
