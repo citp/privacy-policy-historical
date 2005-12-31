@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the terminix.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403195341id_/http%3A//www.terminix.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terminix.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231023533id_/http%3A//www.terminix.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Information | Terminix.com
+# Privacy Information
 
   
 When you request information about a product or service or register with one of our sites, we may need to know specific information about you. This enables us to process your registration/ requests and reply to your needs promptly.
