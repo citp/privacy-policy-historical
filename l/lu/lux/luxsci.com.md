@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305033154id_/http%3A//www.luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231225357id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Lux Scientiae: Privacy Policy
 
@@ -32,5 +32,5 @@ Lux Scientiae staff will not examine the content of your incoming or outgoing em
 
 **Client Testimonial**
 
-I wanted to take time to thank you for the exceptional email services you folks at LuxSci provide. I've been on the email scene since 1997, and since that time I've used countless free email accounts from companies such as Yahoo and Hotmail. Those free accounts worked in the beginning, but these days every SPAMMER and their brothers are targeting their users. Frankly I'm tired of having to weed through garbage when I check my email. Since I signed up with Luxsci back in the spring I haven't had a single piece of junk mail come through my mailbox. Between the SPAM filtering, white listing, black listing, and other tools that came with my account, nothing has gotten through that I didn't want. In addition to great email services, the support has been terrific as well. The few times I've needed assistance, I was very pleased with the response time. Thanks for providing such a great service!  
-\- Jeff Groendyke, Covington, KY
+The Internet and my web site have grown to become essential components of my business. The expertise and support that Lux Scientiae continually delivers is crucial to maintaining the worldwide contact I need to succeed. Lux Scientiae provides peace of mind!  
+\- Brian Skerry, [Brian Skerry Photography](http://www.brianskerry.com/)
