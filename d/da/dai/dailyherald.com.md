@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311092354id_/http%3A//www.dailyherald.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231123145id_/http%3A//www.dailyherald.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
-# Daily Herald: Suburban Chicago's Information Source
+# Daily Herald | Privacy Policy
 
-   
 **PRIVACY POLICY**  
-Last Updated on February 27, 2002 
+
 
 **GENERAL**
 
@@ -28,7 +27,7 @@ Most Internet browsers are initially set to accept cookies. If you prefer, you c
 
 _Information That is Not Covered by this Policy:_ This Privacy Policy only covers information collected at dailyherald.com, and does not cover any information collected by any other web site or offline by Paddock, its affiliates or any other company. 
 
-Through dailyherald.com, you will be able to access information, advertisements, web sites, features, contests, sweepstakes, etc. offered by other parties (e.g., Accuweather, MSNBC, DriveChicago). Such third party content and resources may be accessed through links to other web sites, pop-ups, frames within the dailyherald.com site, or other technological means. Paddock will always endeavor to identify the third party source of the content. Users should review the privacy policies of those third parties before providing personally identifiable information on a co-branded, affiliated, framed or linked site. Such third parties may send their own cookies to you, and may collect data and make uses of it that Paddock would not. We do not control these sites or uses, or bear any responsibility or liability for them. 
+Through dailyherald.com, you will be able to access information, advertisements, web sites, features, contests, sweepstakes, etc. offered by other parties (e.g., Accuweather, MSNBC). Such third party content and resources may be accessed through links to other web sites, pop-ups, frames within the dailyherald.com site, or other technological means. Paddock will always endeavor to identify the third party source of the content. Users should review the privacy policies of those third parties before providing personally identifiable information on a co-branded, affiliated, framed or linked site. Such third parties may send their own cookies to you, and may collect data and make uses of it that Paddock would not. We do not control these sites or uses, or bear any responsibility or liability for them. 
 
 Information that you choose to post on a message board, forum, or chat room is also not covered by this Privacy Policy, and is not considered a confidential communication. Please keep in mind that whenever you voluntarily disclose personal information in a public area online - for example, in a Letter to the Editor or as a Guest Book entry in our Legacy.com obituary resource- that information can be collected and used by both Paddock and others. Paddock is not responsible for the disclosure or use of your name, e-mail address or other submitted information under these circumstances. 
 
@@ -46,7 +45,7 @@ Please note that we may combine the information about you that we collect at dai
 
 _Disclosure of Information to Third Parties:_
 
-_Affiliates and Service Providers._ Paddock may share your information with our affiliated companies, including Reflejos Publications and DriveChicago.com. Paddock may also disclose your information to third parties providing services on our behalf, such as web hosting companies, fulfillment houses, market research firms and business consultants. These third parties will be authorized to access and use your information only to provide services to us or on our behalf. 
+_Affiliates and Service Providers._ Paddock may share your information with our affiliated companies, including Reflejos Publications. Paddock may also disclose your information to third parties providing services on our behalf, such as web hosting companies, fulfillment houses, market research firms and business consultants. These third parties will be authorized to access and use your information only to provide services to us or on our behalf. 
 
 _Unaffiliated Third Parties._ Paddock may share your personally identifiable information with third parties that want to bring to your attention products, services and content that might interest you. Paddock will not, however, disclose any of your personally identifiable information to any company other than our affiliates and service providers unless we first provide you notice of such potential disclosure. If you do not want your information to be shared, you can choose not to use that particular service or, if requested, decline to have your information disclosed. 
 
@@ -75,4 +74,4 @@ Paddock takes reasonable measures to protect the security of the information tra
 
 Paddock reserves the right to change this Privacy Policy at any time. It is your responsibility to review this policy from time to time to be familiar with changes. At the beginning of the policy, we will post the date on which it was last updated. You can e-mail us with any further questions at [webmaster@dailyherald.com](mailto:webmaster@dailyherald.com)
 
-© 2002 Paddock Publications, Inc. 
+© 2005 Paddock Publications, Inc. 
