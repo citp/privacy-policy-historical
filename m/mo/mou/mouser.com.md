@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308035458id_/http%3A//www.mouser.com/index.cfm%3Fhandler%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231074320id_/http%3A//www.mouser.com/index.cfm%3Fhandler%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Mouser Electronics - Electronic Component Distributor
-
-| 
 
 Mouser Electronics Statement of Internet Privacy
 
@@ -24,11 +22,13 @@ We may use your personal information for several purposes such as:
 
 
 
-We will disclose your information, without notice, if required to do so by law or in the good faith belief that such action is necessary to:
+We will disclose your information, without notice, only as follows:
 
-  1. Obey orders of the law or comply with legal process served on Mouser.
-  2. Protect and defend the rights or property of Mouser and its websites.
-  3. Act in urgent circumstances to protect Mouser's websites, its employees or the public.
+  1. To obey orders of the law or comply with legal process served on Mouser.
+  2. To protect and defend the rights or property of Mouser and its websites.
+  3. To act in urgent circumstances to protect Mouser's websites, its employees or the public.
+  4. When you have an open account with Mouser, credit and payment history is occasionally shared with credit reporting agencies.
+  5. When required to disclose “point of sale” information to a supplier for market research and payment of commission to the supplier’s sales force.
 
 
 
@@ -38,22 +38,9 @@ When you register with our website, Mouser **will not** share your personal info
 
 **Security of your Personal Information:**
 
-We strictly protect the security of your personal information and carefully protect your data from loss, misuse, disclosure, alteration, destruction or unauthorized access.  
-If you have any questions or comments concerning our privacy statement contact us at [webmaster@mouser.com](mailto:webmaster@mouser.com?subject=Privacy%20Policy).
+We strictly protect the security of your personal information and carefully protect your data from loss, misuse, disclosure, alteration, destruction or unauthorized access.
 
- **Revised April 10, 2003**
-
-| 
-
-* * *
-
-Copyright © 1996 - 2005 Mouser Electronics, Inc. 
-
-  
+If you have any questions or comments concerning our privacy statement contact us at [webmaster@mouser.com](mailto:webmaster@mouser.com?subject=Privacy%20Policy).  
 
 
-Mouser Electronics® | 1000 North Main Street | Mansfield, TX 76063-1514  
-[ Corporate Contact Information ](http://www.mouser.com/index.cfm?handler=contact)|[ Privacy Policy ](http://www.mouser.com/index.cfm?handler=privacypolicy)
-
-Mouser® and Mouser Electronics® are registered trademarks of Mouser Electronics, Inc.  
-Other products, logos and company names mentioned herein, are trademarks of their respective owners. 
+**Revised June 29th, 2005**
