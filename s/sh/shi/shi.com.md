@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shi.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305172937id_/http%3A//www.shi.com/Global/Content/About/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shi.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231194336id_/http%3A//shi.com/Global/Content/About/privacy.asp) for the most accurate reproduction.*
 
 # SHI.COM - About SHI
 
