@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changeip.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403210833id_/http%3A//www.changeip.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changeip.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231073749id_/http%3A//www.changeip.com/privacy.asp) for the most accurate reproduction.*
 
 # ChangeIP.com - Privacy Statement
 
