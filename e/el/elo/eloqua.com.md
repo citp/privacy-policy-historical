@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203011059id_/http%3A//www.eloqua.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231170243id_/http%3A//www.eloqua.com/privacy/privacy.asp) for the most accurate reproduction.*
 
-# Eloqua Corporation: Lead Generation and Digital Marketing Solutions
+# ELOQUA CORPORATION - Automating Demand Generation - Privacy
+
+  | 
 
 Eloqua believes strongly that every person has the right to privacy. When using our website, services and/or products, you may give us information. Eloqua asks for and maintains information on its visitors and customers to provide a better, more personal experience. It is our guarantee that Eloqua will never sell or trade any of the information accumulated through the course of business about web visitors, customers or other contacts.
 
@@ -32,10 +34,13 @@ Anonymity
 Eloqua allows each of its client sites to give visitors that require complete anonymity and privacy the option to not be engaged by the Eloqua system. Visitors will have the option of removing themselves from availability immediately upon entering the site by clicking on a privacy button, or when an agent requests a conversation they may opt not to accept. When engaged in an online chat session with an agent, the visitor may end the session at any time.
 
 Web Monitoring Opt-Out  
-Eloqua believes in permission-based marketing. If you don't want to be invited into a chat session, or if you don't want to be included in our website metrics, you can simply opt-out. [Click here](https://web.archive.org/web/20031203011059id_/http%3A//www.eloqua.com/privacy/optstatus.asp) to view your current opt-out status.
+Eloqua believes in permission-based marketing. If you don't want to be invited into a chat session, or if you don't want to be included in our website metrics, you can simply opt-out. [Click here](https://web.archive.org/web/20051231170243id_/http%3A//www.eloqua.com/privacy/optstatus.asp) to view your current opt-out status.
 
 Clients  
 Eloqua's products are developed for the use of, and distributed to, third party clients. Eloqua encourages its clients to adopt privacy policies similar to, or more stringent than, its own. Eloqua sells its products only to reputable and ethical clients. Eloqua Corporation cannot be held responsible if a client chooses unethical or immoral use of the information that the Eloqua products gather.
 
 Reservation of Rights   
 Eloqua Corporation reserves the right to change this privacy statement at any time with 30 days notice being posted to the Eloqua web site. If you have any questions about this privacy statement or the practices of this site, please contact the Eloqua Privacy Department directly at [privacy@eloqua.com.](mailto:privacy@eloqua.com.)
+
+  
+
