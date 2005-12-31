@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the textbookx.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630000206id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbookx.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231210203id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.*
 
 # Textbookx.com - Customer Service Center
 
 |   
 ---|---  
   
-[](http://www.truste.org/ivalidate.php?url=www.textbookx.com)
+[](http://www.truste.org/ivalidate.php?url=www.textbookx.com&sealid=101)
 
 Akademos.com, Inc is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for TextbookX.com. This privacy statement has an effective date of September 15, 2003. 
 
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we at Akademos.com wish to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. 
 
-**If you feel that this company is not abiding by its posted privacy policy, you should first email your comments to[us](https://web.archive.org/web/20050630000206id_/http%3A//www.textbookx.com/emailus.php?SID=d9d94ed1fa828913bf811e8855bf19b7). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with the Web site to resolve your concerns. **
+**If you feel that this company is not abiding by its posted privacy policy, you should first email your comments to[us](https://web.archive.org/web/20051231210203id_/http%3A//www.textbookx.com/emailus.php?SID=8faf9d6d7028f27d945a726170bf5fed). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with the Web site to resolve your concerns. **
 
 Here are some steps we have taken to ensure your privacy: 
 
@@ -30,6 +30,10 @@ It is not necessary to register in order to purchase products from this website.
 ## Order 
 
 We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+
+## Refer-A-Friend
+
+The TextbookX.com Refer-A-Friend program allows you to enter a friend's email address in order to send them a one-time email regarding a product that you specify. The email address of your friend is stored in our database for the purpose of sending this one-time email only. The email address is not used for any other purposes, nor will the friend be added to our list of registered email subscribers. If you or your friend have been sent an email through this program and wish to have your information removed from our database, click [contact us](https://web.archive.org/service/contact.php?SID=8faf9d6d7028f27d945a726170bf5fed) to make your request. 
 
 ## Cookies
 
@@ -67,7 +71,7 @@ This website takes every precaution to protect our users' information. When user
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
 
-If you have any questions about the security at our website, you can send an [e-mail.](https://web.archive.org/web/20050630000206id_/http%3A//www.textbookx.com/emailus.php?SID=d9d94ed1fa828913bf811e8855bf19b7)
+If you have any questions about the security at our website, you can send an [e-mail.](https://web.archive.org/web/20051231210203id_/http%3A//www.textbookx.com/emailus.php?SID=8faf9d6d7028f27d945a726170bf5fed)
 
 ## Administrative Type Emails
 
@@ -75,7 +79,7 @@ We also send the user administrative type email communications. Members are not 
 
 ## Correction/Updating Personal Information: 
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by clicking the "Your Account" link on any page on the website and making the desired changes, or by visiting Customer Service Center 
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by clicking the "Your Account" link on any page on the website and making the desired changes, or by visiting our Customer Service Center. 
 
 ## Choice/Opt-out 
 
@@ -87,7 +91,7 @@ We are a LinkShare Merchant and, through this network, we have many affiliates. 
 
 ##  Third Party Tracking
 
-We have contracted with Overture services, Inc. Overture and DealTime, Inc. to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, Overture and DealTime may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics on our Web site visitors. No personally identifiable data is collected by or transferred to Overture and Dealtime. For more information about how the information collected by Overture and DealTime is used, please see their privacy policies at <http://www.overture.com/d/USm/about/company/ccprivacypolicy.jhtml> and [http://www.dealtime.com/dealtime2000/Pages/About/1,2751,3593--1,00.html ](http://www.dealtime.com/dealtime2000/Pages/About/1,2751,3593--1,00.html)
+We have contracted with Overture services, Inc. Overture and DealTime, Inc. to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, Overture and DealTime may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics on our Web site visitors. No personally identifiable data is collected by or transferred to Overture and Dealtime. For more information about how the information collected by Overture and DealTime is used, please see their privacy policies at: <http://www.overture.com/d/USm/about/company/ccprivacypolicy.jhtml> and [http://www.dealtime.com/dealtime2000/Pages/About/1,2751,3593--1,00.html ](http://www.dealtime.com/dealtime2000/Pages/About/1,2751,3593--1,00.html)
 
 ## Notification of Changes 
 
