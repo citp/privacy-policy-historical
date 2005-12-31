@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404184758id_/http%3A//www.ihigh.com/0%2C1773%2C2_12_0_39558%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231071029id_/http%3A//www.ihigh.com/0%2C1773%2C2_12_0_39558%2C00.html) for the most accurate reproduction.*
 
 # iHigh.com -- The High School Internet Network
 
 | | |  **Privacy Statement for iHigh.com**  
 ****
 
-**»[About Us](https://web.archive.org/0,1773,2_12_0_36677,00.html)   » [Join/Contribute](https://web.archive.org/0,1773,2_12_0_39557,00.html)   » [iHigh Clients](https://web.archive.org/0,1773,2_12_0_38153,00.html)   » [iHigh.com Partners](https://web.archive.org/0,1773,2_12_0_36682,00.html)   » [Advertising and Marketing Programs](https://web.archive.org/0,1773,2_12_0_53573,00.html)   » [Privacy Statement for iHigh.com](https://web.archive.org/0,1773,2_12_0_39558,00.html)   » [Linkback](https://web.archive.org/0,1773,2_12_0_36684,00.html)   » [iHigh.com Staff Bios](https://web.archive.org/0,1773,2_12_0_36680,00.html)   » [iHigh Top 300 Schools](http://www.ihigh.com/hs_ranking.html)   » [Press Releases](https://web.archive.org/0,1773,1_13_0,00.html)   » [Contact](https://web.archive.org/national/static/contact/1,1947,,00.html)   **
+**»[About Us](https://web.archive.org/0,1773,2_12_0_36677,00.html)   » [iHigh.com Staff](https://web.archive.org/0,1773,2_12_0_36680,00.html)   » [iHigh.com Partners](https://web.archive.org/0,1773,2_12_0_36682,00.html)   » [Linkback](https://web.archive.org/0,1773,2_12_0_36684,00.html)   » [iHigh Clients](https://web.archive.org/0,1773,2_12_0_38153,00.html)   » [Join/Contribute](https://web.archive.org/0,1773,2_12_0_39557,00.html)   » [Privacy Statement for iHigh.com](https://web.archive.org/0,1773,2_12_0_39558,00.html)   » [Advertising and Marketing Programs](https://web.archive.org/0,1773,2_12_0_53573,00.html)   » [iHigh Top 300 Schools](http://www.ihigh.com/hs_ranking.html)   » [Press Releases](https://web.archive.org/0,1773,1_13_0,00.html)   » [Contact](https://web.archive.org/national/static/contact/1,1947,,00.html)   **
 
-**Jan 08, 2004** \- iHigh.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.ihigh.com](http://www.ihigh.com/). 
+**Sep 20, 2005** \- iHigh.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.ihigh.com](http://www.ihigh.com/). 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and to gather broad demographic information. If you set your browser to reject all cookies, you will still be able to access our site, but it will not be personalized and you may see the same banners repeated in several areas. 
 
@@ -57,7 +57,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. You may change your contact information (such as email, address, or phone number), or demographic information (such as school name, title, or student body size). 
 
-  1. Log on to [go.ihigh.com](https://web.archive.org/web/20050404184758id_/http%3A//www.ihigh.com/go.ihigh.com) and click on "Help." 
+  1. Log on to [go.ihigh.com](https://web.archive.org/web/20051231071029id_/http%3A//www.ihigh.com/go.ihigh.com) and click on "Help." 
 
 
 
@@ -67,7 +67,7 @@ In order to present content representing a wide range of interests and specializ
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Tim Campbell iHigh.com 350 East Main Street Lexington, KY 40507 [info@ihigh.com](mailto:info@ihigh.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Tim Campbell iHigh.com 325 West Main Street Lexington, KY 40507 [info@ihigh.com](mailto:info@ihigh.com)
 
   
 
