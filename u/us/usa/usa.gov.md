@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usa.gov privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405113014id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usa.gov privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231205931id_/http%3A//usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
 
 # FirstGov.gov: Privacy and Security
 
@@ -30,7 +30,7 @@ Per-session cookies serve technical purposes like providing seamless navigation 
 
 If You Send Us Personal Information
 
-If you choose to provide us with personal information – like filling out a Contact Us form with an e-mail address and zip code and submitting it to us through the website – we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give it to any private organizations. FirstGov.gov never collects information for commercial marketing.
+We do not collect personal information for any purpose other than to respond to you (for example, to respond to your questions or provide subscriptions you have chosen). If you choose to provide us with personal information — like filling out a Contact Us form with an e-mail address and zip code and submitting it to us through the website — we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. FirstGov.gov never collects information or creates individual profiles for commercial marketing.
 
 While you must provide an e-mail address and zip code for a localized response to any incoming questions or comments to FirstGov.gov, we recommend that you NOT include any other personal information, especially Social Security numbers. The Social Security Administration offers additional [guidance](https://web.archive.org/external/external.jsp?url=http://www.ssa.gov/pubs/10002.html#giving "guidance") on sharing your Social Security number.
 
