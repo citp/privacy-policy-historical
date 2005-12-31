@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchenginejournal.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207010657id_/http%3A//www.searchenginejournal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginejournal.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231194354id_/http%3A//www.searchenginejournal.com/privacy.php) for the most accurate reproduction.*
 
-# Search Engine News Journal
+# Search Engine Journal
 
 No information is sold or released to anyone about visitors to this site or customers of Search Engine Journal without prior consent. In other words, no information is released to anyone unless you give permission first. This includes e-mail registration to mailing lists, or information requests. A user does not have to supply any personal information unless they decide to complete an information request or at their own will in sending email to employees or departments at Search Engine Journal. 
 
