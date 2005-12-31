@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604135212id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231134843id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
 
 # Commerce Bank - Privacy Policy
 
   
 **Privacy & Security**  
-Commerce Bancorp, Inc., consists of a number of related companies called affiliates. These affiliated companies consist of the Commerce Banks, Commerce Capital Markets, Inc., Commerce Insurance Services, Inc., in the state of New York, Commerce National Insurance Brokerage Services, and Commerce National Insurance Brokerage Services/New York, Inc. In order to bring you the financial products and services you want and expect, information about current and former customers is shared among the Commerce-affiliated companies. 
+Commerce Bancorp, Inc., consists of a number of related companies called affiliates. These affiliated companies consist of the Commerce Banks, Commerce Capital Markets, Inc., Commerce Insurance Services, Inc., in the state of New York, insurance services are offered through Commerce Insurance Brokerage Services, and Commerce Insurance Brokerage Services/New York, Inc.; in Massachusetts, Commerce Insurance Brokerage Services. In order to bring you the financial products and services you want and expect, information about current and former customers is shared among the Commerce-affiliated companies. 
 
 This notice provides detail about the information we collect and disclose, and explains how we handle privacy as it relates to you and your accounts. 
 
@@ -12,7 +12,7 @@ This notice provides detail about the information we collect and disclose, and e
 We want you to know that your relationship with us is treated with the confidentiality that you expect and deserve. Trust, privacy and confidentiality are the guiding principles upon which Commerce's relationship with you is built. Because we are committed to servicing the needs of our customers, we will take all reasonable steps to protect the privacy of your relationship with us. 
 
 **Protecting Customer Information**  
-Access to your personal information is limited to those Commerce employees who need to know the information to provide products and services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to protect your non-public information. 
+Access to your personal information is limited to those Commerce team members who need to know the information to provide products and services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to protect your non-public information. 
 
 **What You Can Do To Protect Your Financial Information**  
 
@@ -58,7 +58,7 @@ If you terminate your relationship with us, we will adhere to the information po
 **Online Protection**  
 All of our Internet forms and pages with customer or other sensitive information are protected by data-encryption technology. Encryption is a procedure for turning plain text or other information into an unrecognizable pattern of data requiring a unique key to open or "decode" the formula. The unbroken key or closed lock on your screen indicates that the connection is secure. 
 
-Although we provide data encryption and other types of protection to maintain the security of our customers' information, there are certain security, corruption, transmission error and access-availability risks associated with using open networks such as the Internet. Should you decide at any time that you prefer not to use our online services, please [visit any branch](http://bank.commerceonline.com/information/branch_locations/index.cfm) or call us at 1-888-751-9000. 
+Although we provide data encryption and other types of protection to maintain the security of our customers' information, there are certain security, corruption, transmission error and access-availability risks associated with using open networks such as the Internet. Should you decide at any time that you prefer not to use our online services, please [visit any store](http://bank.commerceonline.com/information/branch_locations/index.cfm) or call us at 1-888-751-9000. 
 
 **How We Handle E-Mail**  
 Our website does not require you to disclose any personal identifying information. If, however, you choose to contact us via e-mail, please keep in mind that your e-mail address, and any other information your e-mail header shows about you, such as your name or organization, will be revealed to us in the e-mail. We pledge, however, that when you communicate with us via e-mail, we will use that information only to respond to the inquiry and provide accurate information to any questions. Your e-mail address will not be sold, nor will it be shared with others outside of Commerce unless we are compelled to do so by law. 
