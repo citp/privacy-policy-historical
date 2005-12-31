@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vegsource.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308030538id_/http%3A//www.vegsource.com/articles/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegsource.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231221158id_/http%3A//www.vegsource.com/articles/privacy.htm) for the most accurate reproduction.*
 
-# VegSource.com
+# VegSource Article
 
 In some cases, you may voluntarily provide personal information in response to a specific ad (this ad may ask you to fill out a survey or provide your zip code). If this does occur, VegSource may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, VegSource may combine this information with other users' information and review it in an aggregate form to understand the type of individuals who view a specific type of ad or visit a particular kind of website. 
 
