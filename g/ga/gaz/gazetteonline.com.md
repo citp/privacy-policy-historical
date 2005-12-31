@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gazetteonline.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207004218id_/http%3A//www.gazetteonline.com/services.aspx%3Fart_id%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazetteonline.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231042748id_/http%3A//www.gazetteonline.com/2005/02/17/home/privacypolicy.htm) for the most accurate reproduction.*
 
-# Cedar Rapids: Gazetteonline.com
+# GazetteOnline - GazetteOnline privacy policy
 
 **GazetteOnline Privacy Policy**
 
@@ -21,14 +21,14 @@ GazetteOnline makes chat rooms, forums, message boards, and/or news groups avail
 GazetteOnline provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.  
 GazetteOnline also gives users the following options for removing their information from our database to not receive future communications or to no longer receive our services.
 
-· Send e-mail to [gazette@gazettecommunications.com](mailto:gazette@gazettecommunications.com)
+· Send e-mail to [_kathy.alter@gazettecommunications.com_](mailto:kathy.alter@gazettecommunications.com)
 
-· Send your removal request, including name, address, e-mail address and telephone number to Dan Geiser, Gazette Communications, 500 3rd Ave.SE, Cedar Rapids, IA 52401.
+· Send your removal request, including name, address, e-mail address and telephone number to Kathy Alter, Gazette Communications, 500 3rd Ave.SE, Cedar Rapids, IA 52401.
 
 **Correct/Update**  
 GazetteOnline gives users the following options for changing and modifying information previously provided.
 
-· Send an email to [gazette@gazettecommunications.com](mailto:gazette@gazettecommunications.com)
+· Send an email to [_kathy.alter@gazettecommunications.com_](mailto:kathy.alter@gazettecommunications.com)
 
 **Changes to this Privacy Policy**  
 GazetteOnline may amend this policy from time to time. If we make substantial changes in the way we use your personal information, we will notify you by posting an announcement on our site.
@@ -40,5 +40,5 @@ Kathy Alter
 GazetteOnline Content Coordinator  
 500 3rd Ave. SE  
 Cedar Rapids, IA 52401  
-319-398-8264  
-[kathy.alter@gazettecommunications.com](mailto:kathy.alter@gazettecommunications.com)
+319-398-5859  
+[ _kathy.alter@gazettecommunications.com_](mailto:kathy.alter@gazettecommunications.com)
