@@ -1,9 +1,21 @@
-> *The following text is extracted and transformed from the appointmentquest.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407041315id_/http%3A//www.appointmentquest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointmentquest.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231121615id_/http%3A//www.appointmentquest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AppointmentQuest Online Scheduling Software
 
 #### AppointmentQuest Privacy Statement
 
+ | |  | [](http://www.truste.org/ivalidate.php?url=www.appointmentquest.com&sealid=101)AppointmentQuest is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because AppointmentQuest wants to demonstrate our commitment to your privacy, we have agreed to disclose our information privacy practices for compliance review by TRUSTe.
+
+The TRUSTe trustmark reflects our promise to tell you what personal information we collect; the types of companies we may share your information with; the choices available to you regarding the collection, use, and distribution of the information; the security procedures in place to protect the loss or misuse of information under our control; and how you can correct inaccuracies in the information.
+
+If you have any questions or concerns about AppointmentQuest's collection, use, or disclosure of your personal information, please email us at privacy@appointmentquest.com.
+
+If AppointmentQuest does not respond or your inquiry has not been addressed to your satisfaction, please visit the [TRUSTe website](http://www.truste.org/consumers/watchdog_complaint.php) for contact information. TRUSTe will then serve as a liaison with us to resolve your concerns.
+
+This certification applies to [www.appointmentquest.com](http://www.appointmentquest.com/).  
+  
+---|---|---|---  
+   
   
 AppointmentQuest is committed to protecting your privacy. Please take a moment to read the following policy to understand how your personal information will be treated as you make full use of our services. This policy may change from time to time so please check back periodically. The privacy statement discloses the privacy practices for [www.appointmentquest.com](http://www.appointmentquest.com/) web site. If you have questions or concerns regarding this statement, please contact us by e-mail at privacy@appointmentquest.com.
 
@@ -21,7 +33,7 @@ We request information from the user on our accounts enrollment and partner enro
 
  **Information Use**
 
-AppointmentQuest and AppointmentQuest service partners use your personal information to operate AppointmentQuest web site and to provide AppointmentQuest services you have requested. The information is also used to communicate with you regarding your AppointmentQuest accounts when such communication is essential to the operation of the service. We also use your e-mail address to respond to incoming service and support requests from you, to collect customer feedback, customer satisfaction surveys, and other informational mailings.
+AppointmentQuest and AppointmentQuest service partners use your personal information to operate AppointmentQuest web site and to provide AppointmentQuest services you have requested. The information is also used to communicate with you regarding your AppointmentQuest accounts when such communication is essential to the operation of the service. You may not opt-out from communications deemed essential to the operation of the service other than by terminating your services with AppointmentQuest. We also use your e-mail address to respond to incoming service and support requests from you, to collect customer feedback, and to perform customer satisfaction surveys. We do not use your e-mail address, postal address, or phone numbers for promotional comminucations.
 
 AppointmentQuest may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on AppointmentQuest; (b) protect and defend the rights or property of AppointmentQuest or the users of AppointmentQuest services; or, (c) act under exigent circumstances to protect the personal safety of users of AppointmentQuest services or the public.
 
@@ -85,6 +97,10 @@ From time-to-time AppointmentQuest requests information from users via surveys a
 
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and e-mail address. AppointmentQuest will send the friend a one-time e-mail inviting them to visit the site. AppointmentQuest does not store referral information after sending this one-time e-mail.
 
+ **Agents**
+
+AppointmentQuest uses a credit card processing company to bill you for services. Credit card transactions are processed by Verisign Inc., which has confidentiality of transactions covered by their privacy policy. Verisign performs secure encrypted credit card transactions for thousands of companies and has stringent security measures in place. Verisign does not retain, share, store or use personally identifiable information for any purposes other than processing credit card transactions.
+
  **Children**
 
 AppointmentQuest does not intend to collect any personally identifiable information from individuals under the age of 13. Children should always request permission from their parent or guardian prior to submitting their personal information online. If a child has provided AppointmentQuest with personally identifiable information, child's parent or guardian should contact us if they would like to request such information to be deleted from AppointmentQuest records. We will make all reasonable efforts to remove personally identifiable information of the child from AppointmentQuest files and databases.
@@ -99,8 +115,8 @@ If you have any questions or suggestions regarding this privacy policy, please c
 
 AppointmentQuest LLC  
 privacy@appointmentquest.com  
-P.O. Box 677  
-Broomfield, CO 80038-0667  
+3400 Industrial Lane Suite 3  
+Broomfield, CO 80020  
 [www.appointmentquest.com](http://www.appointmentquest.com/)
 
-Last updated April 25, 2003
+Last updated August 18, 2005 (08/18/2005)
