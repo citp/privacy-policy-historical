@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305130545id_/http%3A//www.lashowroom.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231020707id_/http%3A//www.lashowroom.com/privacy.htm) for the most accurate reproduction.*
 
 # LA Showroom - The Ultimate Online Fashion Marketplace
 
@@ -15,7 +15,7 @@ This privacy statement covers the site WWW.LASHOWROOM.COM. This policy statement
 7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under lashowroom.com's control.  
 8\. How users can correct any inaccuracies in the information.
 
-If users have questions or concerns regarding this statement, they should first contact us by phone at 213.627.0339 or by fax at 213.627.0369
+If users have questions or concerns regarding this statement, they should first contact us by phone at 213.627.0339 or by fax at 213.559.0665
 
 **Information Collection and Use**
 
@@ -108,8 +108,8 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Phone: 213.627.0339  
-Fax: 213.627.0369  
+Tel: 213.627.0339  
+Fax: 213.559.0665  
 Email: privacy@lashowroom.com  
 Postal Address: 110 E. 9th Street, #B1201, Los Angeles CA 90079, USA  
 Web site URL: www.lashowroom.com
