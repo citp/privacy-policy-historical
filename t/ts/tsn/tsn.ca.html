@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tsn.ca privacy policy that was archived on 2005-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050322093108id_/http%3A//www.tsn.ca/help/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tsn.ca privacy policy that was archived on 2005-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231083639id_/http%3A//tsn.ca/help/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><title>TSN.ca - Help  - Canada's Sports Leader</title>
 
@@ -14,6 +14,7 @@
 
 	<link rel="stylesheet" type="text/css" href="/css/global.css">
 
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://www.tsn.ca/datafiles/rss/Stories.xml">
 </head>
 <body bgcolor="FFFFFF" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" link="#000000" vlink="#000000">
 <table width="775" border="0" cellspacing="0" cellpadding="0">
@@ -50,17 +51,23 @@ document.write ("</style>");
 </script><style>.stitle{color: #FFFFFF; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; background-color: #BA2214;}.nav_sport_on{color: #FFFFFF; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; background-color: #BA2214;}</style>
 
 <div id="tsnbranding">
-<div id="ad"><script language="JavaScript1.2" type="text/javascript" ads="1">
+<div id="ad">
+<script language="JavaScript1.2" type="text/javascript" ads="1">
     var szone="help"; //  var for zone
     var smode=""; //  var for subsect stats etc
     var sloc="hub"; 
     var sadpg="help"; // var for zone
     var sarena="sports";
     var sMAXPOP="1";
-    </script><script language="JavaScript1.2" src="http://www.tsn.ca/js/ads/siteTSN728.js" ads="1"></script>
-	
+</script>	
 
-	<script language="JavaScript1.2" ads="1">placeRandom468x60Img()</script>
+<script language="JavaScript1.2" src="http://www.tsn.ca/js/ads/tandemunits.js" ads="1"></script>
+
+<!---ratio tool for 300x250 vs 120x600--->
+<script type="text/javascript">if(rNum<=6701){aWidth="300";boxAd=true;}else{aWidth="120";skyAd=true;};</script>
+
+
+        <script language="JavaScript1.2" ads="1">place728x90();</script> 
 </div>
 <div id="tsnlink"><a href="/">&nbsp;</a></div>
 </div>
@@ -78,9 +85,9 @@ document.write ("</style>");
 
 <script language="javascript">
 	if (getTSNCookie("user_id") != null) {
-		document.write ("HI " + getTSNCookie("first_name").toUpperCase().substr(0,15) + "&nbsp;");
+		document.write ("HI " + getTSNCookie("user_name").toUpperCase().substr(0,15) + "&nbsp;");
 	} else if (getTSNCookie("USER_ID") != null) {
-		document.write ("HI " + getTSNCookie("FIRST_NAME").toUpperCase().substr(0,15) + "&nbsp;");
+		document.write ("HI " + getTSNCookie("USER_NAME").toUpperCase().substr(0,15) + "&nbsp;");
 	 } else {
 		document.write ("&nbsp;");
 	}
@@ -110,9 +117,9 @@ document.write ("</style>");
 	<td class="logout">
 <script language="javascript">
 		if ((getTSNCookie("user_id") != null) || (getTSNCookie("USER_ID") != null)) {
-			document.write ('<a href="/login/logout.asp" class="logout">Logout</a> | <a href="javascript:openNewWindow(\'/myProfile/personal.asp\', \'myprofile\' , \'height=540,width=380,toolbar=no,scrollbars=yes,resizable=yes,left=30,top=0\')" class="logout">My Profile</a> | <a href="/help/" class="logout">Help</a></span>');
+			document.write ('<a href="/mytsn/logout.aspx" class="logout">Logout</a> | <a href="/mytsn/MyProfile/" class="logout">My Profile</a> | <a href="/help/" class="logout">Help</a></span>');
 		} else {
-			document.write ('<a href="javascript:openNewWindow(\'/login/login.asp\' , \'login\' , \'height=540,width=380,toolbar=no,scrollbars=yes,resizable=yes,left=30,top=0\')" class="logout">Login</a> | <a href="javascript:openNewWindow(\'/registration/registration.asp\', \'registration\' , \'height=540,width=380,toolbar=no,scrollbars=yes,resizable=yes,left=30,top=0\')" class="logout">Register</a> | <a href="/help/" class="logout">Help</a></span>');
+			document.write ('<a href="/mytsn/login.aspx" class="logout">Login</a> | <a href="/mytsn/NewUser/" class="logout">Register</a> | <a href="/help/" class="logout">Help</a></span>');
 // for when we want registration without popup		document.write ('<a href="javascript:openNewWindow(\'/login/login.asp\' , \'login\' , \'height=600,width=380,toolbar=no,scrollbars=yes,resizable=yes,left=30,top=0\')" class="logout">Login</a> | <a href="/registration/registration.asp" class="logout">Register</a> | <a href="/help/" class="logout">Help</a></span>');
 		}	
 </script>
@@ -182,20 +189,20 @@ function clearDefault(el) {
 	<td class="nav-sport"><select name="select" onchange="MM_jumpMenu('parent',this,0)" class="nav-sportdropdown">
 	<option value="nohref" selected="">NHL
 	</option><option value="/nhl/">NHL Home
-	</option><option value="/nhl/scores.asp">Scores
-	</option><option value="/nhl/standings.asp">Standings
-	</option><option value="/nhl/feature.asp?fid=424">Sched./Results
-	<!---<option value="/nhl/schedule_results.asp">Sched./Results--->
-	</option><option value="/nhl/player_list.asp">Players
-	</option><option value="/nhl/statistics.asp">Statistics
-	</option><option value="/nhl/injuries.asp">Injuries
-	</option><option value="/nhl/transactions.asp">Transactions
+	</option><option value="/nhl/scores/">Scores
+	</option><option value="/nhl/standings/">Standings
+	</option><option value="/nhl/schedule/">Sched./Results
+	</option><option value="/nhl/teams/players/">Players
+	</option><option value="/nhl/statistics/">Statistics
+	</option><option value="/nhl/injuries/">Injuries
+	</option><option value="/nhl/transactions/">Transactions
 	</option><option value="/nhl/trade_deadline/">TradeCentre
-	</option><option value="/nhl/your_call.asp">Your Call
+	</option><option value="/nhl/your_call/">Your Call
 	</option><option value="/nhl/ontsn/">NHL on TSN
+	</option><option value="http://b.fantasysportsnetwork.com/u/?caid=1663">Fantasy Game
+	</option><option value="http://b.fantasysportsnetwork.com/u/?caid=1662">Point Streak
+	</option><option value="http://www.poolexpert.com/affiliates_ref.asp?affid=135360">Office Pools
 	</option><option value="/nhl/playoffs/">Playoffs
-	</option><option value="http://b.fantasysportsnetwork.com/u/?caid=1502">TSN UHC Pool
-	</option><option value="http://b.fantasysportsnetwork.com/u/?caid=1503">Pool Manager		
 	</option><option value="nohref">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</option></select></td>
 	</tr>
@@ -206,7 +213,10 @@ function clearDefault(el) {
 	</option><option value="/nba/">NBA Home
 	</option><option value="/nba/scores.asp">Scores
 	</option><option value="/nba/standings.asp">Standings
-	</option><option value="/nba/schedule_results.asp">Sched./Results
+	</option><option value="/nba/feature.asp?fid=10428">Schedule
+<!--	
+	<option value="/nba/schedule_results.asp">Sched./Results
+-->
 	</option><option value="/nba/player_list.asp">Players
 	</option><option value="/nba/statistics.asp">Statistics
 	</option><option value="/nba/injuries.asp">Injuries
@@ -222,14 +232,13 @@ function clearDefault(el) {
 	<td class="nav-sport"><select name="select" onchange="MM_jumpMenu('parent',this,0)" class="nav-sportdropdown">
 	<option value="nohref" selected="">MLB
 	</option><option value="/mlb/">Home
-	</option><option value="/mlb/scores.asp">Scores
-	<!----<option value="/mlb/standings.asp">Standings---->
-	</option><option value="/mlb/stats.asp?slug=BC-BBM-STND-EXHSTAND-R">Ex. Standings
-	</option><option value="/mlb/schedule_results.asp">Sched./Results
-	</option><option value="/mlb/player_list.asp">Players
-	</option><option value="/mlb/statistics.asp">Statistics
-	</option><option value="/mlb/injuries.asp">Injuries
-	</option><option value="/mlb/transactions.asp">Transactions
+	</option><option value="/mlb/scores/">Scores
+	</option><option value="/mlb/standings/">Standings
+	</option><option value="/mlb/schedule/">Sched./Results
+	</option><option value="/mlb/teams/players/">Players
+	</option><option value="/mlb/statistics/">Statistics
+	</option><option value="/mlb/injuries/">Injuries
+	</option><option value="/mlb/transactions/">Transactions
 	</option><option value="/mlb/your_call.asp">Your Call
 	</option><option value="/mlb/feature.asp?fid=5485">MLB on TSN
 	</option><option value="/mlb/playoffs/">Playoffs
@@ -248,6 +257,8 @@ function clearDefault(el) {
 	</option><option value="/cfl/transactions.asp">Transactions
  	</option><option value="/cfl/your_call.asp">Your Call
 	</option><option value="/cfl/feature.asp?fid=508">CFL on TSN
+	</option><option value="http://b.fantasysportsnetwork.com/u/?caid=1655">Pick 10
+	</option><option value="http://b.fantasysportsnetwork.com/u/?caid=1656">Pick Winners
 	</option><option value="nohref">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</option></select></td>
 	</tr>	
@@ -280,6 +291,7 @@ function clearDefault(el) {
 	</option><option value="/golf/player_list.asp">Players
 	</option><option value="/golf/your_call.asp">Your Call
 	</option><option value="/golf/feature.asp?fid=6765">Golf on TSN
+	</option><option value="http://b.fantasysportsnetwork.com/u/?caid=1625">Fantasy Golf	
 	</option><option value="nohref">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</option></select></td>
 	</tr>
@@ -290,6 +302,9 @@ function clearDefault(el) {
 	</option><option value="/tennis/">Home
 	</option><option value="/tennis/your_call.asp">Your Call
 	</option><option value="/tennis/tv_schedule.asp?sport=TENNIS">Tennis on TSN
+	</option><option value="/tennis/australian_open/">Australian Open
+	</option><option value="/tennis/french_open/">French Open
+	</option><option value="/tennis/wimbledon/">Wimbledon
 	</option><option value="nohref">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</option></select></td>
 	</tr>
@@ -358,6 +373,7 @@ function clearDefault(el) {
 	</option><option value="/echl/stats.asp?slug=BC-HKE-STND-ECHLSTAND-R">ECHL
 	</option><option value="/world_jrs/">World Jrs.
 	</option><option value="/canadian_hockey/feature.asp?fid=9753">World Champ.
+	</option><option value="http://b.fantasysportsnetwork.com/u/?caid=1634">Fantasy Game
 	</option><option value="/world_cup_hockey/">World Cup
 	</option><option value="/wha/">WHA
 	</option><option value="nohref">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -415,7 +431,8 @@ function clearDefault(el) {
 	<select name="select11" onchange="MM_jumpMenu('parent',this,0)" class="nav-sportdropdown">
 	<option value="nohref" selected="">Fantasy
 	</option><option value="/fantasy_sports/main.asp">Home
-	</option><option value="http://b.fantasysportsnetwork.com/u/?caid=1611">Team Canada
+	</option><option value="http://b.fantasysportsnetwork.com/u/?caid=1625">Fantasy Golf
+	</option><option value="http://b.fantasysportsnetwork.com/u/?caid=1634">Fantasy Hockey
 	</option><option value="nohref">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</option></select></td>
 	</tr>
@@ -439,7 +456,7 @@ function clearDefault(el) {
 	</option><option value="/shows/feature.asp?fid=1804">The Reporters
 	</option><option value="/shows/tsn_profile/">TSN Profile
 	</option><option value="/wrestling/">WWE Raw
-	</option><option value="/xgames/">X Games
+	</option><option value="/shows/cfl_live/">CFL Live
 	</option><option value="/shows/citc/">Cable in Class
 	</option><option value="/broadcast/feature.asp?fid=7805">TSN HD
 	</option><option value="/20/">TSN 20
@@ -454,15 +471,13 @@ function clearDefault(el) {
 	<option value="nohref" selected="">More Shows
 	</option><option value="http://www.canadian-sportfishing.com/TV_Shows/SportFishingTV/update-upcoming-shows.asp">Cdn. Fishing
 	</option><option value="http://www.firefit.com/">Firefighter
-	</option><option value="http://www.gymrock.com/">Gym Rock
-	</option><option value="http://www.worldnaturalsports.com/">Fitness Page
 	</option><option value="http://www.worldofgolftv.com/">World of Golf
 	</option><option value="http://www.finsandskins.com/">Fins and Skins
 	</option><option value="http://www.motoringtv.com/">Motoring 2004
 	</option><option value="http://www.motorcycleexperience.ca/">M'cycle Exp.
-	</option><option value="http://www.scootergirlstv.com/">Scooter Girls
+	</option><option value="http://www.bowlcanada.ca">PINS Bowling
 	</option><option value="http://www.snowtraxtv.com/">Snow Trax
-	</option><option value="http://www.carsrally.ca/">Subaru Rally
+	</option><option value="/shows/feature.asp?fid=10345">Triathlon
 	</option><option value="nohref">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</option></select></td>
 	</tr>
@@ -474,17 +489,17 @@ function clearDefault(el) {
 	<option value="nohref" selected="">Columnists
 	</option><option value="/columnists/main.asp">Home
 	</option><option value="/columnists/james_duthie.asp">James Duthie
-<!---	<option value="/columnists/dave_hodge.asp">Dave Hodge
+<!--	<option value="/columnists/dave_hodge.asp">Dave Hodge
     <option value="/columnists/todd_lewis.asp">Todd Lewis
-	<option value="/columnists/pierre_mcguire.asp">Pierre McGuire	--->
+	<option value="/columnists/pierre_mcguire.asp">Pierre McGuire	-->
 	</option><option value="/columnists/bob_mckenzie.asp">Bob McKenzie
-<!--	<option value="/columnists/linda_moore.asp">Linda Moore--->
+<!--	<option value="/columnists/linda_moore.asp">Linda Moore -->
 	</option><option value="/columnists/jay_onrait.asp">Jay Onrait
 	</option><option value="/columnists/dan_pollard.asp">Dan Pollard
 	</option><option value="/columnists/chris_schultz.asp">Chris Schultz
-<!---    <option value="/columnists/digger_turnbull.asp">Digger Turnbull --->
+<!--    <option value="/columnists/digger_turnbull.asp">Digger Turnbull -->
 	</option><option value="/columnists/aj_walling.asp">AJ Walling
-	</option><option value="/columnists/bob_weeks.asp">Bob Weeks
+<!--	<option value="/columnists/bob_weeks.asp">Bob Weeks -->
     </option><option value="/columnists/debbi_wilkes.asp">Debbi Wilkes
 	</option><option value="nohref">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</option></select></td>
@@ -510,6 +525,8 @@ function clearDefault(el) {
 	<td class="nav-sport-off"><select name="select2" onchange="MM_jumpMenu('parent',this,0)" class="nav-sportdropdown">
 	<option value="nohref" selected="">Website
 	</option><option value="/website/">Home
+	</option><option value="/tsnmobile/">TSN Mobile
+	</option><option value="/rss/">RSS Feed
 	</option><option value="/newsletters/">Newsletters
 	</option><option value="http://works.workopolis.com/customers/bgm/gi/" target="new">Careers
 	</option><option value="/contests/">Contests
@@ -715,6 +732,10 @@ All Rights Reserved.
 		<td class="footerTextDk">&nbsp;|&nbsp;</td>
 		<td>&nbsp;<a href="/help/terms_and_conditions.asp" class="footerLinkDk">Terms &amp; Conditions</a>&nbsp;</td>
 		<td class="footerTextDk">&nbsp;|&nbsp;</td>
+		<td>&nbsp;<a href="/tsnmobile/" class="footerLinkDk">TSN Mobile</a>&nbsp;</td>
+		<td class="footerTextDk">&nbsp;|&nbsp;</td>
+		<td>&nbsp;<a href="/RSS/" class="footerLinkDk">RSS</a>&nbsp;</td>
+		<td class="footerTextDk">&nbsp;|&nbsp;</td>
 		<td>&nbsp;<a href="/mediakit/" class="footerLinkDk">Advertise</a>&nbsp;</td>
 		</tr>
 		</tbody></table>
@@ -728,7 +749,7 @@ All Rights Reserved.
 		<td class="footerTextDk">&nbsp;|&nbsp;</td>
 		<td class="footer">&nbsp;<a href="http://www.rds.ca" class="footerLinkDk">RDS</a>&nbsp;</td>
 		<td class="footerTextDk">&nbsp;|&nbsp;</td>
-		<td class="footer">&nbsp;<a href="/classic/main.asp" class="footerLinkDk">ESPN Classic Canada</a>&nbsp;</td>
+		<td class="footer">&nbsp;<a href="/classic/main.asp" class="footerLinkDk">ESPN Classic</a>&nbsp;</td>
 		<td class="footerTextDk">&nbsp;|&nbsp;</td>
 		<td class="footer">&nbsp;<a href="/oln/" class="footerLinkDk">Outdoor Life Network</a>&nbsp;</td>
 		<td class="footerTextDk">&nbsp;|&nbsp;</td>
@@ -776,29 +797,8 @@ All Rights Reserved.
 </tr>
 </tbody></table>
 
-<!---please do not remove - bbates - 03.15.05--->
 
-<script language="JavaScript">
-HondaRidgeline_transAdUnit=true;
-</script>
-
-<script language="JavaScript1.2">
-if (!BMWe90DHTML) {if (parent.BMWe90DHTML) {var BMWe90DHTML = parent.BMWe90DHTML;} else {var BMWe90DHTML=false;}}
-if (BMWe90DHTML) {
-	document.write('<scr'+'ipt language=\"javascript\" src=\"http://voken.eyereturn.com/?2237\"><\/scr'+'ipt>');
-	}
-</script>
-
-<script language="JavaScript">
-NissanXTerra_transAdUnit=true;
-</script>
-
-<script language="JavaScript1.2">
-if (!EdgeShavingGelDHTML) {if (parent.EdgeShavingGelDHTML) {var EdgeShavingGelDHTML = parent.EdgeShavingGelDHTML;} else {var EdgeShavingGelDHTML=false;}}
-if (EdgeShavingGelDHTML) {
-	document.write('<scr'+'ipt language=\"javascript\" src=\"http://voken.eyereturn.com/?2009\"><\/scr'+'ipt>');
-	}
-</script>
+<script type="text/javascript" language="javascript" src="/js/footer_ads.js"></script>
 
 
 </body></html>
