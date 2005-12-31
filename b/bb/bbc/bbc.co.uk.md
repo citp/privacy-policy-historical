@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626075931id_/http%3A//www.bbc.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231123607id_/http%3A//www.bbc.co.uk/privacy) for the most accurate reproduction.*
 
 # BBC - Privacy & Cookies Policy
 
@@ -24,7 +24,7 @@ This policy covers the BBC’s use of personal information that the BBC collects
 
 From time to time, you will be asked to submit personal information about yourself (e.g. name and email address) in order to receive or use services on our website. Such services include newsletters, competitions, live chats, message boards and bbc.co.uk membership.
 
-By entering your details in the fields requested, you enable the BBC and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. When using your personal informaiton the BBC will act in accordance with current legislation and aim to meet current Internet best practice.
+By entering your details in the fields requested, you enable the BBC and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. When using your personal information the BBC will act in accordance with current legislation and aim to meet current Internet best practice.
 
 ## 2. Visitor Information
 
@@ -32,7 +32,7 @@ During the course of any visit to bbc.co.uk, the pages you see, along with a sho
 
 Information supplied by cookies can help us to provide you with a better online user experience and assist us to analyse the profile of our visitors. For example: if on a previous visit you went to our education pages, we might find this out from your cookie and highlight educational information on your second and subsequent visits.
 
-Nielsen//Netratings, an independent measurement and research company, gathers non-personal information regarding the visitors to our website on our behalf using cookies, log file data and code which is embedded on our website. The BBC uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. If you wish to reject Nielsen//Netratings' cookie, you can use the process set out below in point 7. To Totally Opt-Out of Nielsen//Netratings collecting any data regarding your interaction on bbc.co.uk, use the Opt-Out in their Privacy and Cookie Policy at [http://www.netratings.com/privacy.jsp?section=leg_scs](https://web.archive.org/go/web/20050626075931id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.netratings.com/privacy.jsp?section=leg_scs).
+Nielsen//Netratings, an independent measurement and research company, gathers non-personal information regarding the visitors to our website on our behalf using cookies, log file data and code which is embedded on our website. The BBC uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. If you wish to reject Nielsen//Netratings' cookie, you can use the process set out below in point 7. To Totally Opt-Out of Nielsen//Netratings collecting any data regarding your interaction on bbc.co.uk, use the Opt-Out in their Privacy and Cookie Policy at [http://www.netratings.com/privacy.jsp?section=leg_scs](https://web.archive.org/go/web/20051231123607id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.netratings.com/privacy.jsp?section=leg_scs).
 
 ## 3. What is a cookie?
 
@@ -42,7 +42,7 @@ Many sites do this whenever a user visits their website in order to track online
 
 Cookies record information about your online preferences. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user user and accordingly you may not be able to take full advantage of all of the bbc.co.uk features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.
 
-If you have set your computer to reject cookies you can still browse bbc.co.uk anonymously until such time as you wish to register for bbc.co.uk services. For further information on cookies please visit [www.aboutcookies.org](https://web.archive.org/go/web/20050626075931id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.aboutcookies.org/).
+If you have set your computer to reject cookies you can still browse bbc.co.uk anonymously until such time as you wish to register for bbc.co.uk services. For further information on cookies please visit [www.aboutcookies.org](https://web.archive.org/go/web/20051231123607id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.aboutcookies.org/).
 
 ## 4. Use and storage of your personal information
 
@@ -162,13 +162,17 @@ BBC-UID cookie | A unique identifier given to each computer to allow log analysi
 BBCMediaselector cookie | Used to store your user preferences for Audio-Video content from bbc.co.uk - format (Real player or Windows Media player) and quality (narrowband or broadband).  
 BBCPostcoder cookie | Used to store your user preferences for geographic specific content on bbc.co.uk - allows pages to present information for your local area, primarily on the homepage, but also in other areas like bbc.co.uk/arts.  
 BBCWEACITY cookie | Used to store your user preferences for home city - allows the the weather site to present information for your local area.  
-BBCNewsAudience cookie | Used to store your user preferences for which version of the News site (domestic UK or International) you wish to view when visiting news.bbc.co.uk/.  
+BBCNewsAudience cookie | Used to store your user preferences for which edition (domestic UK or International) of the BBC homepage, Radio, TV and Weather homepages, News site and Sport site you wish to view when visiting www.bbc.co.uk.   
+BBCNewsAudcWght cookie  | Used to record the degree of certainty of the domestic UK or International edition preference ascribed to you. If you make an express preference (see above) then we can be certain of which edition of the domestic UK or International site to serve to you. If you do not express a preference we will make a guess of varying degrees of certainty as to which edition of the domestic UK or International site is most appropriate for you based on your IP.  
+BBCNewsAudcWghtUpd cookie  | Used to keep track of when your BBCNewsAudcWght cookie (if any) was last updated. This ensures that, where we have guessed which edition of the domestic UK or International site is most appropriate for you, we continue to review our assumptions.  
 SSO2-UID cookie | Used to allow you to be automatically signed in to a bbc.co.uk service which you have previously registered for.   
 BBC-H2-User cookie | Used for user authentication for the bbc.co.uk messageboard system.  
 rmRpDetectReal cookie | Used to store a preference to prevent 'You don't have Real player installed …' alerts coming up if you really don't want to install it and don't want to be pestered with requests to do so.  
 *votename* cookie | Some voting systems on bbc.co.uk may set a cookie to discourage voters voting more than once. In each case the cookie's name will reflect the vote in question.  
+Survey cookie - "j660072" | Used to ensure that once you have taken a BBC survey, or said that you don't want to be surveyed, that you are not offered the same survey again.  
+myway | Used to store your user preference for which colours to use (for example, high contrast colour scheme) on bbc.co.uk/accessibility.  
   
-We regularly monitor this website and will update this list of cookies when necessary.British Broadcasting Corporation © 2001-2004  
+We regularly monitor this website and will update this list of cookies when necessary.British Broadcasting Corporation © 2001-2005  
 Broadcasting House,  
 Portland Place,  
 London,  
