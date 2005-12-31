@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollingpoint.com privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623142257id_/http%3A//www.pollingpoint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollingpoint.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231194511id_/http%3A//pollingpoint.com/privacy.html) for the most accurate reproduction.*
 
 # PollingPoint | A Nationwide Network of Millions of People Inspiring Public Debate
 
