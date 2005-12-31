@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnitracs.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507023506id_/http%3A//www.qualcomm.com/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnitracs.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231063114id_/http%3A//www.qualcomm.com/main/privacy.html) for the most accurate reproduction.*
 
 # QUALCOMM
 
