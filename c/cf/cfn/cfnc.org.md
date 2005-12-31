@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403122821id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231224214id_/http%3A//cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CFNC - Privacy of Information
 
@@ -26,7 +26,7 @@ The Privacy Policy for each entity maintaining the College Foundation of North C
 
 College Foundation, Inc., (the "Foundation"), on its own behalf and on behalf of the entities for which the Foundation services education loans and administers education assistance programs, is committed to protecting the confidential nature of all "nonpublic personal information" that the Foundation collects from individuals, including borrowers and other student assistance program participants, in order to provide services to you. Such "nonpublic personal information" includes, but is not limited to, the following: 
 
-  * Information, such as your name, address, social security number, assets and income, which you provide on applications and other forms related to financial assistance for college; 
+  * Information, such as your name, address, Social Security Number, assets and income, which you provide on applications and other forms related to financial assistance for college; 
   * Information such as your credit history and credit scores which we may collect from consumer reporting agencies; and 
   * Information related to transactions with the Foundation such as your account balance and payment history. 
 
@@ -37,7 +37,7 @@ The Foundation may disclose this information as permitted or required by law or 
 
 However, we may disclose the information we collect, as described above, to other entities that perform marketing services on our behalf or with whom we have joint marketing agreements. Under these circumstances, we will require the entity, as a condition of its contract with the Foundation, to maintain the confidentiality of all nonpublic personal information and to use it only for the intended purpose. 
 
-The Foundation also maintains internal procedures to maximize the security of your nonpublic personal information. Access to your information is restricted to only those Foundation employees who need the information to open or service your account, and each of these employees is required to comply with the terms of our Privacy Policy. Physical, electronic, and procedural safeguards are in place to protect and prevent misuse of all nonpublic personal information. 
+The Foundation maintains internal procedures to maximize the security of your nonpublic personal information. Access to your information is restricted to only those Foundation employees who need the information to provide services to you, and each of these employees is required to comply with the terms of our Privacy Policy. The Foundation also maintains physical, electronic, and procedural safeguards that comply with federal regulations to protect and prevent misuse of your nonpublic personal information. 
 
 The Foundation will notify you of any changes to our Privacy Policy as required by law. Even if there are no changes, we will provide you with a copy of our policy each year that you have an account with the Foundation. If you end your relationship with the Foundation, our policies regarding your information will continue to apply. 
 
@@ -59,7 +59,6 @@ RBC Centura Bank
 First Bank  
 Four Oaks Bank & Trust  
 Lexington State Bank  
-Omni National Bank  
 Randolph Bank & Trust  
 United Community Bank  
 Bank of Stanly  
