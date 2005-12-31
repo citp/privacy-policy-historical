@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingrambook.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305174009id_/http%3A//www.ingrambook.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingrambook.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231211243id_/http%3A//www.ingrambook.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Other than disclosing the information described within this privacy policy, INGR
 
 #### Marketing
 
-We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes page visits, paths and purchases. By supplementing our records, this information helps us better serve our customers. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this web site analysis tool by [clicking here](http://optout.ingram.rpts.net/cgi-bin/rpts/optout.pl). INGRAM does not sell or rent any USER's personal and confidential business information to any third party.
+We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes page visits, paths and purchases. By supplementing our records, this information helps us better serve our customers. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this web site analysis tool by [clicking here](http://www.omniture.com/global/privacy#optout). INGRAM does not sell or rent any USER's personal and confidential business information to any third party.
 
 #### Cookies
 
