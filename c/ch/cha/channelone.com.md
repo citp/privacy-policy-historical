@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305225409id_/http%3A//www.channelone.com/common/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231165034id_/http%3A//www.channelone.com/common/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,4 +79,4 @@ Or you can fax us at (212) 745-0131, Att: Privacy Coordinator
 
 If you are a parent of a child under 13, you can, with proper identification, review the personal information we have about your child, request deletion, or refuse to allow further collection or use, by writing to our Privacy Coordinator at the above address. However, if you or your parent asks us to delete your information, we may have to ask you not to participate in our activities. 
 
-Updated September 3, 2002 
+Updated June 28, 2005 
