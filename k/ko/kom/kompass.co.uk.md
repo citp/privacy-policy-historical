@@ -1,33 +1,45 @@
-> *The following text is extracted and transformed from the kompass.co.uk privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308191835id_/http%3A//www.kompass.co.uk/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kompass.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231160848id_/http%3A//www.kompass.co.uk/info/privacy_policy.htm) for the most accurate reproduction.*
 
-# Kompass UK - The Business to Business Search Engine
+# Privacy Policy :: Kompass UK
 
-Privacy Policy
+This website is owned and operated by [Reed Business Information Ltd.](https://web.archive.org/info/hp_about_us.htm#RBI)
 
-Kompass.co.uk is owned and operated by Reed Business Information Ltd. Information we collect from users of the site will be stored by us on computers in the UK and may be used in the following ways:
+Information we collect from our customers and users of our websites may be used in the following ways.
 
-**Contact details**
+**Subscription Services**    
+Personal information provided as part of the registration process for any publication, product or service is used to manage your subscription and to enable us to provide a better service. 
 
-We will use your contact details (your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any services requested by you and also to tell you about important changes to the site and its functionality. These details will be used by us and by businesses within Reed Business Information Limited ('RBI') and its associated companies to provide you with information about other services and products. 
+  **Payment details**    
+Any information provided by you in connection with any transaction regarding your credit or debit card numbers, expiry date and billing or delivery address will be used by us to process the transaction. These details will be stored on a secure server and may be used by us to facilitate and personalise future transactions with you. If you do not wish us to store and use the information for future transactions, please contact us. 
 
-If you do not wish to be contacted for this purpose, please express your preferences to [kompass.mktg@reedinfo.co.uk](mailto:kompass.mktg@reedinfo.co.uk).
+  **Contact details**    
+We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality. 
 
-**To alter your details**
+Contact details **other than e-mail addresses** will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose. If you do not wish to be contacted for this purpose, you may register your preferences by clicking [here](mailto:kompass.mktg@reedinfo.co.uk).
 
-If your contact details change you can alter the details we hold by sending an e-mail to [kompass.mktg@reedinfo.co.uk](mailto:kompass.mktg@reedinfo.co.uk).
+We will not use or disclose your **e-mail address** for marketing purposes unless you have agreed that we may use or disclose it in this way. You may at any time opt-out of receiving further e-mails by registering your preference [here](mailto:kompass.mktg@reedinfo.co.uk).
 
-**Voluntary Information**
+**Voluntary Information**    
+We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve the relevant publication, product or service and may also be disclosed to other companies as specified in the relevant promotion. 
 
-We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve our website or online service. It may also be disclosed to other companies who may provide services of interest to you.
+**Statistical information    
+** Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information. 
 
-**'Cookies'**
+  **Security**    
+Your personal data will be held on a secure server. Our sites are equipped with the latest security devices/firewalls. 
 
-Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access our services or websites. We may use cookies to provide you with a convenient means of access, without needing your password. Also to protect the integrity of registered user names and passwords and to limit access to 'paid for' services. We will not disclose information obtained by the use of cookies to third parties.
+  **Access to Data  **  
+Under the Data Protection Act 1988. You have the right to be told what personal information we hold about you on our databases. You should write to us, attn Company Secretary at the following address: Quadrant House, The Quadrant, Sutton, Surrey SM2 5AS. UK stating your full name, your address and any of our publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request. 
 
-**Statistical information**
+**'Cookies'  
+**Cookies are small pieces of information placed by us on your computer which enable us to identify your computer when you access the web site and to provide you with a convenient means of access. The cookies we use also protect the integrity of registered user names and passwords and limit access to 'paid for' services. We also use cookies to collect aggregate statistical information about the use of the site. 
 
-Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.
+There is no personally identifiable information held on cookies. An example of a cookie is below. 
 
-**Access to Data**
+10.20.25.21- 2020212848.29592612::413EA8A33A38AC8CCE09CC624E8B4758 
 
-You have the right to be told what personal information we hold about you on our databases. You should write to the Company secretary, Reed Business Information Limted, Quadrant House, The Quadrant, Sutton, Surrey SM2 5AS stating your full name, your address and any publication or services from Reed Business Information Ltd to which you know you subscribe. A small administrative charge will be made for fulfilling this request.
+You have the option to decline cookies, but if you decline you may not be able to access all the functionality of the site. 
+
+**We strongly recommend you accept any cookies used by this site.**
+
+We will not disclose information obtained through the use of cookies to third parties. If you would like to know more about cookies, please go to [http://www.allaboutcookies.org ](http://www.allaboutcookies.org/). 
