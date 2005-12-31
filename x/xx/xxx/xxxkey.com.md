@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxkey.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306210141id_/http%3A//www.xxxkey.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxkey.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231090531id_/http%3A//www.xxxkey.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # XXXKey - Adult Entertainment Network
 
