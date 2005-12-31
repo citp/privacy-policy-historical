@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valueclickmedia.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410210812id_/http%3A//www.valueclickmedia.com/privacy_consumer.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueclickmedia.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231203429id_/http%3A//www.valueclickmedia.com/privacy_consumer.shtml) for the most accurate reproduction.*
 
 # ValueClick Media - Privacy
 
