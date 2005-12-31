@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403140021id_/http%3A//www.ubergizmo.com/15/archives/2004/08/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231211739id_/http%3A//www.ubergizmo.com/15/archives/2004/08/privacy.html) for the most accurate reproduction.*
 
-# privacy - UberGizmo - www.ubergizmo.com
+# privacy
 
-### privacy.
+### privacy
+
+Story posted on: August 01, 2004
 
 **UberGizmo.com Privacy Statement**  
 This statement covers the site www.ubergizmo.com ("UberGizmo"). Please read this statement carefully before using proceeding to access UberGizmo. Your use of UberGizmo indicates your agreement to abide by the Terms in effect.
@@ -38,21 +40,6 @@ Whenever UberGizmo changes our privacy policy, we will post those changes to thi
 If you have any questions or suggestions regarding our privacy policy, please contact us at contact@ubergizmo.com  
 
 
-( posted by Hubert ) - August 01, 2004
-
-Great deals on consumer electronics at [UberBargain.com](http://www.uberbargain.com/)
-
   
-**Most Recent Stories**  
-[back to www.ubergizmo.com](http://www.ubergizmo.com/)  
-• [ Google increases Gmail storage to 2GB](http://www.ubergizmo.com/15/archives/2005/04/google_increase.html)  
-• [ Apple iPoc PDA rumor : looks fake to me](http://www.ubergizmo.com/15/archives/2005/04/apple_pda_rumor.html)  
-• [ Pokemon Casewraps for Nintendo Consoles](http://www.ubergizmo.com/15/archives/2005/04/pokemon_casewra.html)  
-• [ Protector PT-E01 waterproof case for the Olympus E-300 SLR camera](http://www.ubergizmo.com/15/archives/2005/04/protector_pte01.html)  
-• [ Hello Kitty Crystal XBox Console](http://www.ubergizmo.com/15/archives/2005/04/hello_kitty_cry.html)  
-• [ Alienware Area-51m 7700 notebook](http://www.ubergizmo.com/15/archives/2005/04/alienware_area5.html)  
-• [ HDD NEO Joy'Box 2 GB MP3 player](http://www.ubergizmo.com/15/archives/2005/04/hdd_neo_joybox.html)  
+  
 
-
-|   
----|---
