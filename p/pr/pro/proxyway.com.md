@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404091120id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231081115id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
 
 # Anonymous surfing, Anonymous web surfing, Free anonymous surfing, Free anonymous web surfing, Surf Anonymous, Anonymous internet surfing, Anonymous Surfing web, Anonymous Proxy Surfing, Anonymous proxy web surfing, Anonymous surfing software, Anonymous proxy software, Anonymous software surfing web, Proxy server surfing, Anonymous software surfing web
 
-|  | [](http://www.proxyway.com/) |  | **  Local Time: Mon., April 4, 2005 4:11 AM**  
+|  | [](http://www.proxyway.com/) |  | **  Local Time: Sat., December 31, 2005 2:11 AM**  
 ---  
 Be safe. Be hidden.    
-**Your local time: 1/30/2020, 4:46:31 PM**  
+**Your local time: 1/30/2020, 4:46:32 PM**  
 |  |    
-|  |  [   Home](http://www.proxyway.com/)        [    Products](http://www.proxyway.com/www/products.html)        [   Downloads](http://www.proxyway.com/www/downloads/)        [   Purchase](http://www.proxyway.com/www/purchase/)        [   Support](http://www.proxyway.com/www/anonymous%20proxy%20surfing.html#anonymous%20proxy%20surfing)        |  |   |  |   
+|  |  [  Home](http://www.proxyway.com/)        [   Products](http://www.proxyway.com/www/products.html)        [  Downloads](http://www.proxyway.com/www/downloads/)        [  Purchase](http://www.proxyway.com/www/purchase/)        [  Support](http://www.proxyway.com/www/anonymous%20proxy%20surfing.html#anonymous%20proxy%20surfing)        [  Affiliates](http://www.proxyway.com/www/affiliate/affiliate-program.html)        [  Recommended](http://www.proxyway.com/www/recommended.html)        |  |   |  |   
 ---|---|---|---|---|---  
   
 |  |  |   |  |    
@@ -46,8 +46,8 @@ ProxyWay.com Privacy Policy may be changed from time to time. Please review the 
 Internet surfing and speeds up web surfing by eliminating Ad and popups ...  
    
 |   
-[](http://www.proxyway.com/www/privacy-test.html#privacy-check) |   
-|   |  | Do you want to know how private you are while surfing? Check your Internet privacy using our **[**Privacy Test!**](http://www.proxyway.com/www/privacy-test.html#privacy-check)** | [](http://www.proxyway.com/www/privacy-test.html#privacy-check)  
+[](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html#privacy-check) |   
+|   |  | Do you want to know how private you are while surfing? Check your Internet privacy using our **[**Privacy Test!**](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html#privacy-check)** | [](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html#privacy-check)  
 ---|---  
   
   
