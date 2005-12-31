@@ -1,482 +1,261 @@
-<!--The following is the downloaded HTML source of the kompass.co.uk privacy policy that was archived on 2005-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050308191835id_/http%3A//www.kompass.co.uk/info/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kompass.co.uk privacy policy that was archived on 2005-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231160848id_/http%3A//www.kompass.co.uk/info/privacy_policy.htm) for the most accurate reproduction.-->
 
-<html><head>
-
-<title>Kompass UK - The Business to Business Search Engine</title>
-<meta name="description" content="Kompass.co.uk contains all the information that UK purchasers and suppliers need to make informed business decisions. Covering all industry sectors, from manufacturers to distributors, Kompass can provide you with the information you need.">
-<meta name="keywords" content="kompass, kompas, kompasss, compass, product, engineering, manufacturers, exporters, uk, united kingdom, suppliers, companies, business, directory, database, information, info, overseas, find, buy">
-<meta name="robots" content="index,follow">
-<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
-<meta http-equiv="Content-Language" content="en">
-<script language="javascript" defer="">
-<!--
-
-//	Next 4 fuctions are for rollover on images
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-
-function UserOn() {
-	//
-	//alert(location.search);
-	var pos,pos1,pos2,mnstr,mnstr1;
-	pos=location.search.indexOf('_ZUserR');
-	pos1=location.search.indexOf('_ZUnitR');
-	//username
-	//alert(location.search);
-	if (pos > 0) {
-		if (pos1 >0) pos1=pos1-1;
-		mnstr=location.search.slice(pos+8,pos1);
-		//alert(mnstr);
-		document.SignIn.ma_member.value = mnstr;
-		document.cookie = "UserName=" + mnstr + "*";
-		
-		//credits
-		if (pos1 >0) {
-			pos2=location.search.indexOf('*',pos1);
-			mnstr1=location.search.slice(pos1+9);
-			//alert(mnstr1);
-			document.SignIn.ma_units.value = mnstr1;
-			document.cookie = "UserName=" + mnstr + "*"+ mnstr1;
-			}
-		}
-	else {
-		//do we have a cookie?
-		if (get_cookie("UserName") > "") {
-			//alert("Cookie monster: " + get_cookie("UserName") );
-			mnstr=get_cookie("UserName");
-			pos=mnstr.indexOf('*');
-			if (pos>0) {
-				document.SignIn.ma_member.value = mnstr.slice(0,pos);
-				document.SignIn.ma_units.value = mnstr.slice(pos+1);
-				}
-			}
-		}
-}
-
-function get_cookie(Name) {
-  var search = Name + "="
-  var returnvalue = "";
-  if (document.cookie.length > 0) {
-    offset = document.cookie.indexOf(search)
-    // if cookie exists
-    if (offset != -1) { 
-      offset += search.length
-      // set index of beginning of value
-      end = document.cookie.indexOf(";", offset);
-      // set index of end of cookie value
-      if (end == -1) end = document.cookie.length;
-      returnvalue=unescape(document.cookie.substring(offset, end))
-      }
-   }
-  return returnvalue;
-}
-
-//-->
-</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Privacy Policy :: Kompass UK</title>
+<link href="/stylesheet.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/javascript.js" type="text/javascript"></script>
+<script language="javascript" src="/config.js" type="text/javascript"></script>
+<script language="javascript" src="/control_panel.js" type="text/javascript"></script>
+<script language="javascript" src="/browser_detect.js" type="text/javascript"></script>
+<script language="javascript" src="/adjust_domain.js" type="text/javascript"></script>
 </head>
-<body bgcolor="#FFFFFF" text="#000000" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('/images/home2.gif','/images/contact2.gif','/images/sitemap2.gif','/images/RArrow2.gif');UserOn();">
-<script language="javascript" src="/kompass_intl_NS.js"></script>
-<link rel="stylesheet" href="/KUK2002NS.css" type="text/css">
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td width="536" height="65" valign="top"> 
-      <table width="536" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          <td width="111" valign="top" rowspan="2"><img border="0" src="/images/KLogoNS.gif" width="111" height="65" alt="Kompass UK"></td>
-          <td valign="top" height="43" colspan="2"> 
-            <table border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr> 
-                <td height="9" valign="top" colspan="4"><img src="/Images/Spacer.gif" width="422" height="2"></td>
+<body onload="selectTab('PS'); setUserData();">
+	<a href="/" target="_parent"><img src="/images/logo-other.gif" alt="Kompass" width="250" height="33" border="0"></a><br>
+	<div id="Header-Links">
+		<p>
+			<a href="/" target="_parent">HOME</a> |
+			<a href="/info/hp_about_us.htm" target="_parent">ABOUT US</a> |
+			<a href="/info/products.htm" target="_parent">OUR PRODUCTS</a> |
+			<a href="/frameset.asp?_URL=addmycompany" target="_parent">ADD/UPDATE MY COMPANY</a> |
+			<a href="/info/hp_contact_us.htm" target="_parent">CONTACT US</a> |
+			<a href="/info/hd_helpdesk.htm" target="_parent">HELP</a>
+		</p>
+	</div>
+	<hr id="headHr">
+	<img src="/images/searchby.gif" id="SearchBy-Other" width="700" height="17" alt="Search By">
+	
+	<div id="Tabs-Other">
+		<a href="javascript:selectTab('PS');" onmouseout="MM_swapImgRestore('PS')" onmouseover="MM_swapImage('PS','','/images/tab-ps-red.gif',1)"><img src="/images/tab-ps-grey.gif" id="PS" width="163" height="22" border="0" alt="Products &amp; Services"></a><img src="/images/spacer.gif" width="2" height="22" border="0" alt=""><a href="javascript:selectTab('CN');" onmouseout="MM_swapImgRestore('CN')" onmouseover="MM_swapImage('CN','','/images/tab-cn-red.gif',1)"><img src="/images/tab-cn-grey.gif" id="CN" width="133" height="22" border="0" alt="Company Name"></a><img src="/images/spacer.gif" width="2" height="22" border="0" alt=""><a href="javascript:selectTab('TN');" onmouseout="MM_swapImgRestore('TN')" onmouseover="MM_swapImage('TN','','/images/tab-tn-red.gif',1)"><img src="/images/tab-tn-grey.gif" alt="Trade Names" width="113" height="22" border="0" id="TN"></a><img src="/images/spacer.gif" width="2" height="22" border="0" alt=""><a href="javascript:selectTab('EN');" onmouseout="MM_swapImgRestore('EN')" onmouseover="MM_swapImage('EN','','/images/tab-en-red.gif',1)"><img src="/images/tab-en-grey.gif" alt="Executives" width="98" height="22" border="0" id="EN"></a><img src="/images/spacer.gif" width="2" height="22" border="0" alt=""><a href="/frameset.asp?_URL=advancedinfo" onmouseout="MM_swapImgRestore('AS')" onmouseover="MM_swapImage('AS','','/images/tab-as-red.gif',1)"><img src="/images/tab-as-grey.gif" alt="Advanced Search" width="144" height="22" border="0" id="AS"></a></div>
+	<div id="User">
+			<span id="ma_member_lbl"></span>
+			<span id="ma_member"></span>
+			<span id="ma_units_lbl"></span>
+			<span id="ma_units"></span><br>
+			<span>
+				<a href="/frameset.asp?_URL=loginform" id="ma_sign_in">Subscriber&nbsp;Login</a>
+			</span>
+	</div>
+	<div id="SearchPanel-Other">
+		<form name="SearchBox" id="SearchBox" action="/frameset.asp">
+			<input type="hidden" name="_Lang" value="en">
+			<input type="hidden" name="_Version" value="">
+			<input type="hidden" name="_KProv" value="GB010">
+			<input type="hidden" name="_Choix" value="PS">
+			<input type="hidden" name="_Region" value="">
+			<input type="hidden" name="_Locality" value="">
+			<input type="hidden" name="_URL" value="search">
+			<table width="420" border="0" cellpadding="0" cellspacing="0">
+			  <tbody><tr>
+				<td width="100%" height="18" align="left" valign="top">
+					<span id="SearchLabel">Products &amp; Services Search:</span>
+				</td>
+			  </tr>
+			  <tr>
+				<td height="28" align="left" valign="top">
+				  <input type="text" size="16" name="_Keyword">
+				  <select name="_Zone">
+						<option value="GB" selected="selected">United Kingdom</option>
+						<option value="WW">Worldwide</option>
+						<option value="-">---------------------</option>
+						<option value="Z1">Africa</option>
+						<option value="Z2">America</option>
+						<option value="Z3">Asia-Pacific</option>
+						<option value="Z4">Central Asia</option>
+						<option value="Z5">Central-Eastern Europe</option>
+						<option value="Z6">Middle East</option>
+						<option value="Z7">Western Europe </option>
+						<option value="-">---------------------</option>
+						<option value="DZ">Algeria </option>
+						<option value="AM">Armenia </option>
+						<option value="AU">Australia </option>
+						<option value="AT">Austria </option>
+						<option value="AZ">Azerbaijan </option>
+						<option value="BH">Bahrain </option>
+						<option value="BY">Belarus </option>
+						<option value="BE">Belgium </option>
+						<!--<option value="BA" >Bosnia and Herzegovina </option>-->
+						<option value="BG">Bulgaria </option>
+						<option value="CA">Canada </option>
+						<option value="CL">Chile </option>
+						<option value="CN">China </option>
+						<option value="HR">Croatia </option>
+						<!--<option value="CY" >Cyprus </option>-->
+						<option value="CZ">Czech Republic </option>
+						<option value="DK">Denmark </option>
+						<option value="EG">Egypt </option>
+						<option value="EE">Estonia </option>
+						<option value="FI">Finland </option>
+						<option value="FR">France </option>
+						<option value="DE">Germany </option>
+						<option value="GR">Greece </option>
+						<option value="HK">Hong Kong </option>
+						<option value="HU">Hungary </option>
+						<option value="IS">Iceland </option>
+						<option value="IN">India </option>
+						<option value="IR">Iran </option>
+						<option value="IE">Ireland </option>
+						<option value="IL">Israel </option>
+						<option value="IT">Italy </option>
+						<!--<option value="CI" >Ivory Coast </option>-->
+						<option value="KZ">Kazakhstan </option>
+						<option value="KR">Korea, Rep (S Korea) </option>
+						<option value="KG">Kyrgyzstan </option>
+						<option value="LV">Latvia </option>
+						<option value="LB">Lebanon </option>
+						<option value="LT">Lithuania </option>
+						<option value="LU">Luxembourg </option>
+						<option value="JP">Japan </option>
+						<option value="MY">Malaysia </option>
+						<option value="MT">Malta </option>
+						<option value="MU">Mauritius </option>
+						<option value="MX">Mexico </option>
+						<option value="MD">Moldova </option>
+						<option value="MC">Monaco </option>
+						<option value="MA">Morocco </option>
+						<option value="NL">Netherlands </option>
+						<option value="NZ">New Zealand </option>
+						<option value="NO">Norway </option>
+						<!--<option value="OM" >Oman </option>-->
+						<!--<option value="PH" >Philippines </option>-->
+						<option value="PL">Poland </option>
+						<option value="PT">Portugal </option>
+						<option value="RO">Romania </option>
+						<option value="RU">Russian Federation </option>
+						<option value="SM">San Marino</option>
+						<option value="SA">Saudi Arabia </option>
+						<option value="CS">Serbia and Montenegro</option>
+						<option value="SG">Singapore </option>
+						<option value="SK">Slovakia </option>
+						<option value="SI">Slovenia </option>
+						<option value="ZA">South Africa </option>
+						<option value="ES">Spain </option>
+						<option value="LK">Sri Lanka </option>
+						<option value="SE">Sweden </option>
+						<option value="CH">Switzerland </option>
+						<option value="TW">Taiwan </option>
+						<option value="TH">Thailand </option>
+						<option value="TN">Tunisia </option>
+						<option value="TR">Turkey </option>
+						<option value="UA">Ukraine </option>
+						<option value="AE">United Arab Emirates </option>
+						<option value="GB">United Kingdom</option>
+						<option value="US">United States </option>
+						<option value="UZ">Uzbekistan </option>
+						<option value="YU">Yugoslavia </option>
+			  	</select>
+				<input name="SearchBtn" type="button" id="SearchBtn" class="Btn-ps" value="Search" onclick="searchSubmit();" onmouseover="this.className='Btn-ps_Hover';" onmouseout="this.className='Btn-ps';">			
+				</td>
               </tr>
-              <tr> 
-                <td valign="middle" height="34" width="63"><a href="/info/index.htm" class="IconText" target="_parent"><img name="home" border="0" src="/images/home1.gif" width="17" height="17" alt="Home"> 
-                  Home</a></td>
-                <td valign="middle" width="92"><a href="/info/contact.htm" class="IconText" target="_parent"><img name="contact" border="0" src="/images/contact1.gif" width="17" height="17" alt="Contact Us"> 
-                  Contact Us</a></td>
-                <td valign="middle" width="77"><a href="/info/sitemap.htm" class="IconText" target="_parent"><img name="sitemap" border="0" src="/images/sitemap1.gif" width="17" height="17" alt="Site Map"> 
-                  Sitemap</a></td>
-                <td valign="middle" width="193"><a href="/directory/AtoZ.htm" class="IconText" target="_parent"><img name="AtoZ" border="0" src="/images/AtoZ1.gif" width="17" height="17" alt="New Member"> 
-                  A-Z</a>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td height="22" valign="top" width="424"> 
-            <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#666666">
-              <tbody><tr> 
-                <td width="98" height="22" valign="middle"><a href="/info/privacy.htm" class="TopBar">Privacy 
-            Policy</a></td>
-                <td width="83" valign="middle"><a href="/info/form/freelist.htm" class="TopBar" target="_parent">Free 
-                  Listing</a> </td>
-                <td width="69" valign="middle"><a href="/info/form/feedback.htm" class="TopBar" target="_parent">Feedback</a> 
-                </td>
-                <td width="176" valign="middle"><a href="/info/aboutus.htm" class="TopBar" target="_parent">About 
-                  Us</a> </td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td width="1"></td>
-        </tr>
-        <tr> 
-          <td height="4"></td>
-          <td valign="top" colspan="2"> 
-            <table width="100%" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr> 
-                <td width="425" height="4"></td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-    <td width="100%" valign="top"> 
-      <table width="100%" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          <td width="100%" height="43"></td>
-        </tr>
-        <tr> 
-          <td valign="top" height="22" bgcolor="#666666">&nbsp;</td>
-        </tr>
-      </tbody></table>
-    </td>
-    <td width="240" valign="top"> 
-      <table width="240" border="0" cellpadding="0" cellspacing="0">
-        <!--<FORM NAME="SignIn" METHOD="post" ACTION="http://portal.kompass.com/kinl/cgi-bin/KINL_SIGaction.cgi" target="_blank">
-			<INPUT TYPE="HIDDEN" NAME="_Action" VALUE="51_SIGNIN">
-			<INPUT TYPE="HIDDEN" NAME="_First" VALUE="0">
-			<INPUT TYPE="HIDDEN" NAME="_Version" VALUE="03365791015578835">
-			<INPUT TYPE="HIDDEN" NAME="_Prevact" VALUE="SIGNIN">
-			<INPUT TYPE="HIDDEN" NAME="_Userservice" VALUE="1">//-->
-          <tbody><tr> 
-            <td valign="top" height="15" width="230"> 
-              <!--<table width="100%" border="0" cellpadding="0" cellspacing="0">
-                <tr> 
-                  <td width="48" height="15"></td>
-                  <td width="79" valign="baseline" class="IconText">Username</td>
-                  <td width="103" valign="baseline" class="IconText">Password</td>
+			  <tr>
+				<td height="42" align="left" valign="top">
+					<span><a href="/frameset.asp?_URL=browse">Browse Categories</a></span>
+					<br>
+					<br>
+				</td>
                 </tr>
-              </table>//-->
-            </td>
-            <td width="10" rowspan="2" valign="top">&nbsp;</td>
-          </tr>
-          <tr> 
-            <td valign="top" height="28">
-              <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr> 
-                  <td width="45" height="28" valign="middle" class="IconText"><!--Sign 
-                    in: //--></td>
-                  <td width="82" valign="middle"> 
-                    <!--<input maxlength="30" name="_Username" class="InputBox" onSubmit="SignIn.submit();" size="6">//-->
-                  </td>
-                  <td width="82" valign="middle"> 
-                    <!--<input maxlength="30" name="_Passwd" class="InputBox" type="password" size="6">//-->
-                  </td>
-                  <td width="21" valign="middle" align="center"><!--<a href="/javascript: document.SignIn.submit();" class="SmallButton">Go</a>//--></td>
-                </tr>
-              </tbody></table>
-            </td>
-          </tr>
-          <tr> 
-            <td height="22" colspan="2" valign="middle" bgcolor="#666666"><img src="/images/KUKPortal.gif" width="240" height="13" alt="Kompass UK Portal"></td>
-          </tr>
-        <!--</form>//-->
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#F7F7F7">
-  <tbody><tr> 
-    <td width="328" valign="top" height="74"> 
-      <table width="340" border="0" cellpadding="2" cellspacing="0">
-        <form name="Formulaire" action="http://www.kompass.com/kinl/cgi-bin/KINL_PROaction.cgi" target="_blank" onsubmit="return verifSaisie(Formulaire)"></form>
-          <input type="HIDDEN" name="_Langrech" value="en">
-		  <input type="Hidden" name="_Lang" value="en">
-		  <input type="Hidden" name="_Action" value="10_FILTRE">
-		  <input type="Hidden" name="_Page" value="">
-		  <input type="Hidden" name="_Prevact" value="PRORECH">
-		  <input type="Hidden" name="_Secteur" value="SOC">
-		  <input type="Hidden" name="_Nbpage" value="1">
-		  <input type="Hidden" name="_Pgdebut" value="1">
-		  <input type="Hidden" name="_KProv" value="GB010">
-		  <tbody> 
-          <tr valign="middle"> 
-            <td height="23" width="362" valign="bottom"><span class="SearchText"><img src="/images/Spacer.gif" width="2" height="10"> 
-              </span><span class="SearchText">Search Word(s)<img src="/images/Spacer.gif" width="6" height="8"><img src="/images/Spacer.gif" width="2" height="10"></span><span class="SearchText">Search 
-              Type<img src="/images/Spacer.gif" width="45" height="8"><img src="/images/Spacer.gif" width="2" height="10"></span><span class="SearchText">Region</span></td>
-          </tr>
-          <tr valign="middle"> 
-            <td height="24" valign="top"><img src="/images/Spacer.gif" width="2" height="10"> 
-              <input type="text" name="_Keyword" id="_Keyword" class="InputBox">
-              <img src="/images/Spacer.gif" width="2" height="10"> 
-              <select name="_Choice" class="DropDown"> 
-                <!--<option value="ZZ">Search by:</option>//-->
-				<option value="Product">Products &amp; Services</option>
-				<option value="Company">Company Names</option>
-              </select>
-              <select name="_Zone" class="DropDown">
-                <option value="GB" selected=""> United Kingdom </option>
-                <option value="WW">Worldwide</option>
-                <option value="-">---------------------</option>
-                <option value="Z1"> Africa </option>
-                <option value="Z2"> America </option>
-                <option value="Z3"> Asia-Pacific </option>
-                <option value="Z4"> Central Asia </option>
-                <option value="Z5"> Central-Eastern Europe </option>
-                <option value="Z6"> Middle East </option>
-                <option value="Z7"> Western Europe </option>
-                <option value="-">---------------------</option>
-                <option value="DZ"> Algeria </option>
-                <option value="AM"> Armenia </option>
-                <option value="AU"> Australia </option>
-                <option value="AT"> Austria </option>
-                <option value="AZ"> Azerbaijan </option>
-                <option value="BH"> Bahrain </option>
-                <option value="BY"> Belarus </option>
-                <option value="BE"> Belgium </option>
-                <option value="BA"> Bosnia and Herzegovina </option>
-                <option value="BG"> Bulgaria </option>
-                <option value="CA"> Canada </option>
-                <option value="CL"> Chile </option>
-                <option value="CN"> China </option>
-                <option value="HR"> Croatia </option>
-                <option value="CY"> Cyprus </option>
-                <option value="CZ"> Czech Republic </option>
-                <option value="DK"> Denmark </option>
-                <option value="EG"> Egypt </option>
-                <option value="EE"> Estonia </option>
-                <option value="FI"> Finland </option>
-                <option value="FR"> France </option>
-                <option value="DE"> Germany </option>
-                <option value="GR"> Greece </option>
-                <option value="HK"> Hong Kong </option>
-                <option value="HU"> Hungary </option>
-                <option value="IS"> Iceland </option>
-                <option value="IN"> India </option>
-                <option value="IR"> Iran </option>
-                <option value="IE"> Ireland </option>
-                <option value="IL"> Israel </option>
-                <option value="IT"> Italy </option>
-                <option value="CI"> Ivory Coast </option>
-                <option value="KZ"> Kazakhstan </option>
-                <option value="KR"> Korea, Rep (S Korea) </option>
-                <option value="KG"> Kyrgyzstan </option>
-                <option value="LV"> Latvia </option>
-                <option value="LB"> Lebanon </option>
-                <option value="LT"> Lithuania </option>
-                <option value="LU"> Luxembourg </option>
-				<option value="JP"> Japan </option>
-                <option value="MY"> Malaysia </option>
-                <option value="MT"> Malta </option>
-                <option value="MU"> Mauritius </option>
-                <option value="MX"> Mexico </option>
-                <option value="MD"> Moldova </option>
-                <option value="MC"> Monaco </option>
-                <option value="MA"> Morocco </option>
-                <option value="NL"> Netherlands </option>
-                <option value="NZ"> New Zealand </option>
-                <option value="NO"> Norway </option>
-                <option value="OM"> Oman </option>
-                <option value="PH"> Philippines </option>
-                <option value="PL"> Poland </option>
-                <option value="PT"> Portugal </option>
-                <option value="RO"> Romania </option>
-                <option value="RU"> Russian Federation </option>
-                <option value="SA"> Saudi Arabia </option>
-                <option value="SG"> Singapore </option>
-                <option value="SK"> Slovakia </option>
-                <option value="SI"> Slovenia </option>
-                <option value="ZA"> South Africa </option>
-                <option value="ES"> Spain </option>
-                <option value="LK"> Sri Lanka </option>
-                <option value="SE"> Sweden </option>
-                <option value="CH"> Switzerland </option>
-                <option value="TW"> Taiwan </option>
-                <option value="TH"> Thailand </option>
-                <option value="TN"> Tunisia </option>
-                <option value="TR"> Turkey </option>
-                <option value="UA"> Ukraine </option>
-                <option value="AE"> United Arab Emirates </option>
-                <option value="US"> United States </option>
-                <option value="UZ"> Uzbekistan </option>
-                <option value="YU"> Yugoslavia </option>
-              </select>
-              </td></tr>
-          <tr valign="middle"> 
-            <td height="18" valign="top">
-			  <img src="/images/Spacer.gif" width="2" height="10"><a href="/searchframe.asp?_SearchURL=http://portal.kompass.com/kinl/cgi-bin/KINL_PROaction.cgi&amp;_Action=11_GRILLE&amp;_Page=advanced_1&amp;_Retour=RECH" class="IconText"><span class="SearchText"> 
-              </span>Multi-Region Search</a>&nbsp;|&nbsp;<a href="/searchframe.asp?_SearchURL=http://portal.kompass.com/kinl/cgi-bin/KINL_SOCaction.cgi&amp;_Action=15_ADV&amp;_Page=advanced_search&amp;_Zone=WW&amp;_Print=NO&amp;_Retour=RECH_ADV" class="IconText">Advanced Search</a>&nbsp;|&nbsp;<a href="/info/help.htm" class="IconText">Help 
-              </a><img src="/images/Spacer.gif" width="20" height="10" align="absmiddle"><!--<a href="javascript:document.Formulaire.submit();"><img src="/images/Search1.gif" border="0" name="GoSearch2" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('GoSearch2','','/images/Search2.gif',1)" align="absmiddle"></a>--><input type="submit" value="Search" style="color: red; font-size: 11px; border-width: 1px; border-color: black; padding: 2px;"></td>
-          </tr>
-          </tbody> 
-        
-      </table>
-    </td>
-    <td width="100%" valign="middle"> 
-      <div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0" width="440" height="60">
-          <param name="movie" value="/KConnects.swf">
-          <param name="quality" value="high">
-          <embed src="/KConnects.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="440" height="60">
-           
-        </object></div>
-    </td>
-  </tr>
-  <tr> 
-    <td colspan="2" height="1" valign="top"> 
-      <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#666666">
-        <tbody><tr> 
-          <td width="1019" height="1" bgcolor="#000000"><img src="/images/spacer.gif" height="1" width="20"></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
+		  </tbody></table>
+		</form>
+	</div>
 
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
-  <tbody><tr> 
-	<td width="150" valign="top" rowspan="2"> 
-      <table width="150" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          <td width="150" height="600" valign="top"> 
-            
-<table width="140" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-	<td width="140" valign="top" bgcolor="#666666"> 
-	  <table width="140" border="0" cellpadding="4" cellspacing="1">
-		<tbody><tr> 
-		  <td width="130" height="25" valign="middle" bgcolor="#F7F7F7"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Menu</b></font></td>
+<div class="body-pad">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#E7E7E7">
+		<tbody><tr>
+			<td width="210" valign="top">
+				<table width="210" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td width="100%" valign="top">
+							<ul class="Menu"><li><a class="MenuButton" href="/info/disclaimer.htm">Disclaimer</a></li><li><a class="MenuButton" href="/info/terms_conditions.htm">Terms &amp; Conditions</a></li><li><a class="MenuSelected" href="/info/privacy_policy.htm">Privacy Policy</a></li></ul><br><br><br>
+<p align="center">
+	<span id="MenuTelNo">0800 0185 882</span><br>
+	<img src="images/spacer.gif" alt="" width="3" height="4"><br>
+	<a href="mailto:sales@kompass.co.uk">sales@kompass.co.uk</a><br>
+	<img src="images/spacer.gif" alt="" width="3" height="10"><br>
+	<a href="/callme.asp" class="CallMeButton">Call Me</a><br><br>
+</p>
+
+
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+			<td width="100%" valign="top" bgcolor="#FFFFFF" id="MainBody">
+				<table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td width="100%" height="350" valign="top">
+							<link href="/content/content.css" rel="stylesheet" type="text/css">
+<div id="CrumbTrail">
+	&nbsp;
+</div>
+<hr>
+<div id="ContentTitle">
+	<h1><span class="Red">Privacy</span><span class="Black"> Policy</span></h1>
+</div>
+<div id="ContentMain">
+  <p>This website is owned and operated by <a href="/info/hp_about_us.htm#RBI">Reed Business Information Ltd.</a> </p>
+  <p>Information we collect from our customers and users of our websites may be used in the following ways.</p>
+  <p> <strong>Subscription Services</strong> &nbsp;<br>
+Personal information provided as part of the registration process for any publication, product or service is used to manage your subscription and to enable us to provide a better service.&nbsp;<br>
+&nbsp;<br>
+<strong>Payment details</strong> &nbsp;<br>
+Any information provided by you in connection with any transaction regarding your credit or debit card numbers, expiry date and billing or delivery address will be used by us to process the transaction. These details will be stored on a secure server and may be used by us to facilitate and personalise future transactions with you. If you do not wish us to store and use the information for future transactions, please contact us.&nbsp;<br>
+&nbsp;<br>
+<strong>Contact details</strong> &nbsp;<br>
+We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality. </p>
+  <p> Contact details <strong>other than e-mail addresses</strong> will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose. If you do not wish to be contacted for this purpose, you may register your preferences by clicking <a href="mailto:kompass.mktg@reedinfo.co.uk" target="_blank">here</a>.</p>
+  <p> We will not use or disclose your <strong>e-mail address </strong>for marketing purposes unless you have agreed that we may use or disclose it in this way. You may at any time opt-out of receiving further e-mails by registering your preference <a href="mailto:kompass.mktg@reedinfo.co.uk" target="_blank">here</a>.</p>
+  <p> <strong>Voluntary Information</strong> &nbsp;<br>
+  We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve the relevant publication, product or service and may also be disclosed to other companies as specified in the relevant promotion. </p>
+  <p><strong> Statistical information&nbsp;<br>
+    </strong> Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.&nbsp;<br>
+&nbsp;<br>
+  <strong>Security </strong>&nbsp;<br>
+  Your personal data will be held on a secure server. Our sites are equipped with the latest security devices/firewalls.&nbsp;<br>
+&nbsp;<br> 
+<strong>Access to Data &nbsp;</strong><br>
+  Under the Data Protection Act 1988. You have the right to be told what personal information we hold about you on our databases. You should write to us, attn Company Secretary at the following address: Quadrant House, The Quadrant, Sutton, Surrey SM2 5AS. UK stating your full name, your address and any of our publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request.  </p>
+  <p><strong>'Cookies' <br>
+  </strong>Cookies are small pieces of information placed by us on your computer which enable us to identify your computer when you access the web site and to provide you with a convenient means of access. The cookies we use also protect the integrity of registered user names and passwords and limit access to 'paid for' services. We also use cookies to collect aggregate statistical information about the use of the site. </p>
+  <p> There is no personally identifiable information held on cookies. An example of a cookie is below. </p>
+  <p> 10.20.25.21- 2020212848.29592612::413EA8A33A38AC8CCE09CC624E8B4758 </p>
+  <p>You have the option to decline cookies, but if you decline you may not be able to access all the functionality of the site. </p>
+  <p><strong> We strongly recommend you accept any cookies used by this site.</strong></p>
+  <p>  We will not disclose information obtained through the use of cookies to third parties. If you would like to know more about cookies, please go to <a href="http://www.allaboutcookies.org" target="_blank">http://www.allaboutcookies.org </a>. </p>
+  <p>&nbsp; </p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</div>
+
+							<br>
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
 		</tr>
-		<tr> 
-		  <td valign="top" bgcolor="#FFFFFF"> <a href="/info/advertising.htm" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0"></a><a href="/info/products.htm" class="MenuItem">Product 
-			Summary</a> <br>
-			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/helpdesk/techUpdates.htm" class="MenuItem">Helpdesk</a> 
-			<br>
-			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/helpdesk/faqs.htm" class="MenuItem">FAQ's</a> 
-			<br>
-			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/helpdesk/userguides.htm" class="MenuItem">User 
-			Guides</a> <br>
-			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/form/freelist.htm" class="MenuItem">Add 
-			my Company</a> <br>
-			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/advertising.htm" class="MenuItem">Advertise 
-			with Us</a> <br>
-			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/products/kshop.htm" class="MenuItem">Kompass 
-			Shop</a> <br>
-			<img src="/images/BArrow1.gif" width="16" height="7" border="0"><a href="/info/salesops.htm" class="MenuItem">Jobs in Kompass</a><br>
-			<a href="/info/klink.htm" border="0" class="MenuItem"><img src="/images/BArrow1.gif" width="16" height="7" border="0">Link 
-			to Kompass</a> <br>
-		  </td>
+	</tbody></table>
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#E7E7E7">
+		<tbody><tr>
+			<td width="100%" height="1" valign="top">
+			</td>
 		</tr>
-	  </tbody></table>
-	</td>
-  </tr>
-</tbody></table>
-          
+	</tbody></table>
+	<br>
+	<div align="right">
+	<img src="/images/rose.gif" alt="Kompass Rose" width="30" height="24" align="middle">		
+	<a href="/info/disclaimer.htm" target="_parent">Disclaimer</a>&nbsp;|&nbsp;
+	<a href="/info/terms_conditions.htm" target="_parent">Terms &amp; Conditions</a>&nbsp;|&nbsp;
+	<a href="/info/privacy_policy.htm" target="_parent">Privacy Policy</a>&nbsp;|&nbsp;
+	<a href="/info/hp_site_map.htm" target="_parent">Site Map</a>&nbsp;|&nbsp;
+	<a href="/directory/atoz.htm" target="_parent">A to Z</a>&nbsp;|&nbsp;
+	<a href="/info/hp_link_kompass.htm" target="_parent">Link to Us </a>
+	<br>
+	<br>
+	©&nbsp;Reed&nbsp;Business&nbsp;Information&nbsp;2005
+</div>
 
-            <br>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-    <td width="100%" height="588" valign="top"> 
-       <table width="100%" border="0" cellpadding="6" cellspacing="0">
-  <tbody><tr> 
-    <td height="23" width="100%" valign="top"> 
-      <p class="MainHeader">Privacy Policy</p>
-      <p class="MainText">Kompass.co.uk is owned and operated by Reed Business 
-        Information Ltd. Information we collect from users of the site will be 
-        stored by us on computers in the UK and may be used in the following ways:</p>
-      <p class="MainText"><b>Contact details</b></p>
-      <p class="MainText">We will use your contact details (your name, job title, 
-        telephone and fax number and your e-mail and postal addresses) to provide 
-        any services requested by you and also to tell you about important changes 
-        to the site and its functionality. These details will be used by us and 
-        by businesses within Reed Business Information Limited ('RBI') and its 
-        associated companies to provide you with information about other services 
-        and products. </p>
-      <p class="MainText">If you do not wish to be contacted for this purpose, 
-        please express your preferences to <a href="mailto:kompass.mktg@reedinfo.co.uk" class="MainTextLink">kompass.mktg@reedinfo.co.uk</a>.</p>
-      <p class="MainText"><b>To alter your details</b></p>
-      <p class="MainText">If your contact details change you can alter the details 
-        we hold by sending an e-mail to <a href="mailto:kompass.mktg@reedinfo.co.uk" class="MainTextLink">kompass.mktg@reedinfo.co.uk</a>.</p>
-      <p class="MainText"><b>Voluntary Information</b></p>
-      <p class="MainText">We may ask for further information about you as part 
-        of online surveys or if you enter any competition or other promotional 
-        feature. This information will be used to enable us to improve our website 
-        or online service. It may also be disclosed to other companies who may 
-        provide services of interest to you.</p>
-      <p class="MainText"><b>'Cookies'</b></p>
-      <p class="MainText">Cookies are small pieces of information stored by us 
-        on your computer which enable us to identify your computer when you access 
-        our services or websites. We may use cookies to provide you with a convenient 
-        means of access, without needing your password. Also to protect the integrity 
-        of registered user names and passwords and to limit access to 'paid for' 
-        services. We will not disclose information obtained by the use of cookies 
-        to third parties.</p>
-      <p class="MainText"><b>Statistical information</b></p>
-      <p class="MainText">Aggregate statistical information provided by us to 
-        our advertisers or others regarding sales or website usage will not include 
-        personally identifying information.</p>
-      <p class="MainText"><b>Access to Data</b></p>
-      <p class="MainText">You have the right to be told what personal information 
-        we hold about you on our databases. You should write to the Company secretary, 
-        Reed Business Information Limted, Quadrant House, The Quadrant, Sutton, 
-        Surrey SM2 5AS stating your full name, your address and any publication 
-        or services from Reed Business Information Ltd to which you know you subscribe. 
-        A small administrative charge will be made for fulfilling this request.</p>
-      <p>&nbsp;</p>
-    </td>
-  </tr>
-</tbody></table>
-
-    </td>
-  </tr>
-  <tr> 
-    <td height="2" valign="top"> 
-      <p><img src="/images/Spacer.gif" width="630" height="2"></p>
-      </td>
-  </tr>
-  <tr> 
-    <td height="19" colspan="2" valign="top"> 
-      <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#666666">
-<tbody><tr> 
-  <td width="639" valign="middle" height="22"> <a href="/info/disclaimer.htm" class="BottomBar">Disclaimer</a> <a href="/info/terms.htm" class="BottomBar">Terms 
-	and Conditions</a></td>
-    <td width="364" valign="middle" align="right" class="CopyRight">© 2004<a href="http://www.reedinfo.co.uk" class="CopyRight" align="right"> 
-	  Reed Business Information Ltd</a><img src="/images/Spacer.gif" width="6" height="4"></td>
-</tr>
-</tbody></table>
-    
-
-	</td>
-  </tr>
-  <tr> 
-    <td height="27"></td>
-    <td></td>
-  </tr>
-</tbody></table>
+	<br><br>
+</div>
 
 
 </body></html>
