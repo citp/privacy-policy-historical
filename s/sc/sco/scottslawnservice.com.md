@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottslawnservice.com privacy policy that was archived on 2005-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050123225604id_/http%3A//www.scottslawnservice.com/index.cfm%3Fevent%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottslawnservice.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231073153id_/http%3A//www.scottslawnservice.com/index.cfm%3Fevent%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Scotts LawnService - Privacy Policy
 
@@ -77,7 +77,7 @@ Scotts supports the individual's right to protect their privacy. Accordingly, pe
 
   * Accessing and modifying your personal information through the Scotts personal information manager application/tool.
   * Sending your updated information by email to [consumer.services@scotts.com](mailto:consumer.services@scotts.com).
-  * Using the [“Contact Scotts”](https://web.archive.org/web/20050123225604id_/http%3A//www.scottslawnservice.com/index.cfm?event=contactUs) form.
+  * Using the [“Contact Scotts”](https://web.archive.org/web/20051231073153id_/http%3A//www.scottslawnservice.com/index.cfm?event=contactUs) form.
   * Calling us toll-free at (800) 543-8873.
 
 
