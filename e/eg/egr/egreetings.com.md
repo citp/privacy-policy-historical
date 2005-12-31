@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305121016id_/http%3A//www.egreetings.com/warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231120013id_/http%3A//www.egreetings.com/warrants.pd) for the most accurate reproduction.*
 
 # Find out more about Egreetings.com!
 
@@ -9,8 +9,6 @@ AN AMERICANGREETINGS.COM COMPANY**
 **GENERAL MATTERS**  
 **Overview**  
 At the Egreetings.com Network ("Egreetings.com"), protecting our users' privacy and security is a top priority. For this reason, we have adopted the following policy to advise you of your choices regarding the use of your personal information online. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it. 
-
-[](https://www.truste.org/validate/12350)
 
 **Scope of Policy**  
 This Policy applies to Egreetings.com, a member of the AmericanGreetings.com ("AG") network of sites. It does not apply to other companies' or organizations' web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information. 
@@ -81,7 +79,7 @@ If you have provided us your consent, we will use the information we have collec
 Egreetings.com may also use information about you to target advertising while you are visiting our site. For example, we may serve ads from toy companies to users searching the Kids Birthday eCard pages. We may also use geographic or other information we have collected from you to make sure that the ads you see are for goods and services that are actually of interest to you or are available in your area. We may use cookie files to assure that you will not be served the same ads repeatedly. 
 
 **Information Sharing Between Affiliates**  
-Egreetings.com is part of the AmericanGreetings.com, Inc. family of companies. Its affiliates include AmericanGreetings.com, BluerMountain.com, BeatGreets.com, and SpecialSomeone.com. Egreetings.com reserves the right to share your personally identifiable information with those companies, including your e-mail, postal address, phone number, and purchase history. We may use that information to conduct joint promotions, offer you special premiums, and to share databases and equipment. We also reserve the right to share your personal information with other companies that AG may subsequently acquire. We will only share your credit card information among our affiliates if you expressly give us permission to do so. 
+Egreetings.com is part of the AmericanGreetings.com, Inc. family of companies. Its affiliates include AmericanGreetings.com, BlueMountain.com, BeatGreets.com, and SpecialSomeone.com. Egreetings.com reserves the right to share your personally identifiable information with those companies, including your e-mail, postal address, phone number, and purchase history. We may use that information to conduct joint promotions, offer you special premiums, and to share databases and equipment. We also reserve the right to share your personal information with other companies that AG may subsequently acquire. We will only share your credit card information among our affiliates if you expressly give us permission to do so. 
 
 **Order Fulfillment**  
 From time to time, you may be given the opportunity to order products and services directly on the Egreetings.com site, the Newsletters, or in other communications you may receive from Egreetings.com. These orders are typically fulfilled by Egreetings.com' Business Partners directly. To process your order, Egreetings.com may provide these Partners with your name, street address, e-mail address, phone number, and credit card information. Egreetings.com will limit the types of information shared to the minimum necessary to efficiently process your order. However, in accepting these offers, you become a customer of the Business Partner and therefore subject to its privacy policy. Egreetings.com will alert users whenever a Business Partner will be fulfilling an order for products or services ordered on our site. We encourage you to review these companies' privacy policies and only do business with those who adhere to personal information practices with which you are comfortable. 
