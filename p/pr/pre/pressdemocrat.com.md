@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the pressdemocrat.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207011934id_/http%3A//www.pressdemocrat.com/services/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressdemocrat.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231131525id_/http%3A//www.pressdemocrat.com/services/privacy.html) for the most accurate reproduction.*
 
 # Santa Rosa Press Democrat // Contact Us:
 
 ## User Information Privacy Policy
 
-This user information privacy policy describes how the Web sites maintained by pressdemocrat.com, sonomatraveler.com, monstercoupons.com, searchsonoma.com, and all sub-sections-collect and utilize users' personally identifiable information. It is our policy that a user controls:
+This user information privacy policy describes how the Web sites maintained by The Press Democrat -- including pressdemocrat.com, savorwinecountry.com. northbay.com, pdclipit.com, northbaycareerfair.com and all sub-sections -- collect and utilize users' personally identifiable information. It is our policy that a user controls: 
 
   * What personal identifiable information is collected.  
 
-  * What pressdemocrat.com sites can do with that information.
+  * What The Press Democrat's sites can do with that information.
 
 
 
-Pressdemocrat.com will not disclose a user's personally identifiable information to any third party without the user's express permission except where users sign up for certain services which will be subject to the opt-out provisions set forth below.
+The Press Democrat will not disclose a user's personally identifiable information to any third party without the user's express permission except where users sign up for certain services which will be subject to the opt-out provisions set forth below.
 
 **Information Not Collected:** A user can access our Web sites and utilize many of our services without providing any information at all. Nor do we follow a user's browsing path outside of our Web sites.
 
@@ -34,63 +34,50 @@ Finally, you should be aware that if you voluntarily disclose personally identif
 
 We occasionally gather individually identifiable information that you provide to us on a voluntary basis in connection with activities other than accessing our sites. This information is used only within the limits specified in this policy.
 
-**Optional sign ups:** If users wish to utilize certain services located on any of our sites, they must sign up. Services that require some form of sign up currently include:
-
-  * Participation in contests 
-  * On-line placement and management of classified advertisements on pressdemocrat.com 
-  * E-mail newsletters 
-  * Lucky the Adhunter Classified Searches 
-  * Access to monstercoupons.com (email only) 
-  * Email a friend feature 
-  * Surveys 
-  * Subscription sign-ups 
-
-
+**Optional sign ups** We occasionally gather individually identifiable information that you provide to us on a voluntary basis in connection with activities other than accessing our sites. This information is used only within the limits specified in this policy.
 
 The information collected when a user signs up for a service can include an e-mail address (which also functions as an account ID in some instances) name and other requested data. Any commercial transaction information is encrypted and retained in a database, independently of other Web site information. When signing up for a service, a user may also "opt out" of various e-mail notifications or offers (see Opt Out Procedures below.)
 
-**"Email a friend" service:** A user can electronically forward a news story to someone else by clicking the link on the side of the story. The user must provide a valid e-mail address for both the sender and the recipient in order to ensure that the service functions properly and to inform the recipient who sent the story. There is also an option to include a name which is only used for the e-mail salutation. None of this information is used for any other purpose.
+Services that require some form of sign up currently include:
 
-**Surveys:** Occasionally pressdemocrat.com conducts user surveys to better understand our user community. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. When we conduct surveys, we may ask for personally identifiable information such as name and specific address.
-
-**Contests and sweepstakes:** Pressdemocrat.com offers contests and sweepstakes in which we request certain personal information. At a minimum, the required information includes name and e-mail address; in some cases, the user must answer mandatory survey questions about a range of other personal data. The information gathered in the entry form may be used to verify the entrant's identity and to contact winners and/or prize recipients. pressdemocrat.com will divulge this information to:
-
+  * **"Email a friend" service:** A user can electronically forward a news story to someone else by clicking the link on the side of the story. The user must provide a valid e-mail address for both the sender and the recipient in order to ensure that the service functions properly and to inform the recipient who sent the story. There is also an option to include a name which is only used for the e-mail salutation. None of this information is used for any other purpose.
+  * **Email newsletters:** Pressdemocrat.com offers email newsletter services that require subscribers to supply, at a minimum, their name and email address. In some cases, the user must answer mandatory survey questions about a range of other personal data. The information gathered is used for internal analysis. Pressdemocrat.com will not divulge any individual information, but may share aggregated statistics.
+  * **AdHunter Classified Searches:** Pressdemocrat.com offers automated classified searches that will email you results based on parameters that you set up. At a minimum, the required information includes name and e-mail address, in some cases, the user must answer mandatory survey questions about a range of other personal data. This information is used for internal analysis. Pressdemocrat.com will not divulge any personal information but may share aggregated statistics.
+  * **Pressdemocrat.com forums:** Pressdemocrat.com offers an online forum for posting opinions about current events and other topics. You may view the forums without signing up, but to post you must supply, at a minimum, your full name and email address, and create a username or "handle" that will be associated with your forum posts. Information collected in the forums is used for internal analysis, and may be shared, but only in the aggregate.
+  * **Northbay.com Community Reporter:** The northbay.com site offers you the opportunity to contribute photos and bulletins about selected topics through the Community Reporter tool. At a minimum, the required information includes full name, email address, ZIP, birth year, and gender. The information is used for internal analysis; The Press Democrat will not divulge any personal information but may share aggregated statistics.
+  * **Northbay.com Calendar:** The northbay.com calendar offers you the opportunity to post events listings to The Pres Democrat's entertainment Web site. At a minimum, the required information includes your full name and phone number, as well as information pertaining to the event itself - its location, name, and type. The information is used solely so that we may contact you if we have questions about the information you submit, and is not otherwise collected, stored or analyzed.
+  * **TalkBack reader panel:** Our TalkBack reader panel enables participants to share their views on topical issues upon request from the Press Democrat newsroom. Participants receive occasional email requesting your input, and may on rare occasions be telephoned. Signup information will be used by our newsroom editors solely for selecting participants when sending out calls for participation; responses you provide in answer to requests for comments may be published in the newspaper and online along with your name and photo. Reader panel information may otherwise be shared, but only in the aggregate, with other departments at The Press Democrat. Information specific to the reader panel (such as political affiliation and race) will not be shared with partners or advertisers.
+  * **Online Placement of Classified Advertisements:** is done on a secure server and all information is encrypted. Your information will be used for billing purposes only.
+  * **Surveys:** Occasionally pressdemocrat.com conducts user surveys to better understand our user community. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. When we conduct surveys, we may ask for personally identifiable information such as name and specific address.
+  * **Contests and sweepstakes:** Pressdemocrat.com offers contests and sweepstakes in which we request certain personal information. At a minimum, the required information includes name and e-mail address; in some cases, the user must answer mandatory survey questions about a range of other personal data. The information gathered in the entry form may be used to verify the entrant's identity and to contact winners and/or prize recipients. pressdemocrat.com will divulge this information to: 
   * a contest sponsor, if a user expressly asks to receive additional information from the contest sponsor. 
   * the contest administrator, if not pressdemocrat.com, and if the user expressly consents.
+  * Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event.
 
+**Cookies:**
 
-
-Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event.
-
-**Online Placement of Classified Advertisements** is done on a secure server and all information is encrypted. Your information will be used for billing purposes only.
-
-**Lucky the AdHound Classified Searches** Pressdemocrat.com offers automated classified searches that will email you results based on parameters that you set up. At a minimum, the required information includes name and e-mail address, in some cases, the user must answer mandatory survey questions about a range of other personal data. This information is used for internal analysis. Pressdemocrat.com will not divulge any personal information but may share aggregated statistics.
-
-**Access to MonsterCoupons.com (e-mail only)** Pressdemocrat.com offers a monstercoupons.com as a website where users can download coupons and print them out to take to merchants. The required information to access the site is an email address which will be used to notify users of new releases of the coupon book or similar news of interest. Users may opt out of this function on the entry page of the website.
-
-**Subscription Sign-ups** Pressdemocrat.com offers email newsletter services which require subscribers to supply, at a minimum, their name and email address. In some cases, the user must answer mandatory survey questions about a range of other personal data. The information gathered is used for internal analysis. Pressdemocrat.com will not divulge any individual information, but may share aggregated statistics.
-
-**Cookies:** A cookie is a small data file that a Web site transfers to a user's hard drive when a user visits the Web site. A cookie file can contain information such as a user ID that the site uses to track the pages visited. The only personal information a cookie can contain is that which a user supplies. A cookie can't read data off a hard disk or read cookie files created by other sites. pressdemocrat.com does not use cookies to store passwords or any other personal information about a user.
+A cookie is a small data file that a Web site transfers to a user's hard drive when a user visits the Web site. A cookie file can contain information such as a user ID that the site uses to track the pages visited. The only personal information a cookie can contain is that which a user supplies. A cookie can't read data off a hard disk or read cookie files created by other sites. pressdemocrat.com does not use cookies to store passwords or any other personal information about a user.
 
 **Opt Out Procedures For E-mail:** If a user chooses to sign up for a pressdemocrat.com service, the user can choose not to receive communications from:   
 
 
-  * pressdemocrat.com- services such as e-mail newsletters announcing contests, new features and/or added value services 
-  * Third parties who offer a product or service that we think would be of value to the user.
-
-
+    * pressdemocrat.com- services such as e-mail newsletters announcing contests, new features and/or added value services 
+    * Third parties who offer a product or service that we think would be of value to the user.
 
 **Correcting And Updating:** pressdemocrat.com offers users the ability to change certain personal identifiable information (e-mail address, credit card information and mailing address) collected during the sign up process. Users who wish to change this information, or who have any questions about how our services work can contact us at [customersupport@pressdemo.com](mailto:customersupport@pressdemo.com) Please note, though, that our sites do not offer users the means to delete personal identifiable information associated with past use of the Web sites' services.
 
-**Policy Changes:** The foregoing policy is effective as of June 11, 2001. Technology on the internet is developing at a rapid pace and we need to maintain our flexibility in the online arena. If we need to change our policy in the future, we will post these changes as soon as they go into effect. Please check this page periodically for changes. Your continued use of the sites following the posting of changes to these terms will mean you accept these changes. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+**Policy Changes:** The foregoing policy is effective as of August 11, 2005. Technology on the internet is developing at a rapid pace and we need to maintain our flexibility in the online arena. If we need to change our policy in the future, we will post these changes as soon as they go into effect. Please check this page periodically for changes. Your continued use of the sites following the posting of changes to these terms will mean you accept these changes. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
 **How To Contact Us:** For any questions or comments regarding our information or security practices, you may contact us:  
 By E-mail: [customersupport@pressdemo.com](mailto:customersupport@pressdemo.com)  
 By Phone: 707-526-8507 (between 9:00am and 5:00pm weekdays, PST)  
 By Fax: 707-521-5234  
 By Mail: Pressdemocrat.com, 427 Mendocino Avenue,   
-Santa Rosa, CA 95405. Attention: Operations Manager
+Santa Rosa, CA 95405. Attention: Online Manager
 
-See pressdemocrat.com's Contact Us page for additional contact informatiion
+See pressdemocrat.com's [Contact Us page](http://www.pressdemocrat.com/services/feedback.html) for additional contact informatiion
 
-_Last modified June 11, 2001_
+_Last modified August 11, 2005_
+
+
+
