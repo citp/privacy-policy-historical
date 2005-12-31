@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujitsu-siemens.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420020102id_/http%3A//www.fujitsu-siemens.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujitsu-siemens.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231163523id_/http%3A//www.fujitsu-siemens.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy - Fujitsu Siemens Computers
 
