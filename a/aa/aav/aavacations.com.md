@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aavacations.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528092625id_/http%3A//www.aavacations.com/consumer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aavacations.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231190802id_/http%3A//aavacations.com/consumer/privacy.asp) for the most accurate reproduction.*
 
 # AAVacations.com
 
@@ -7,7 +7,7 @@
 ---  
 |  |   
 ---  
-| Privacy Information | | Saturday , May 28 , 2005    
+| Privacy Information | | Saturday , December 31 , 2005    
 ---|---|---  
   
   
