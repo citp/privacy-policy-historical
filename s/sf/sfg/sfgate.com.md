@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2005-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050421040730id_/http%3A//www.sfgate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231042208id_/http%3A//sfgate.com/pages/privacy) for the most accurate reproduction.*
 
 # SFGate: Privacy Policy
-
-  
-
 
 This privacy policy describes how Hearst Communications, Inc., publisher of The San Francisco Chronicle ("The Chronicle") treats the personally identifiable information that is collected about you by The Chronicle or third party hosting services when you visit the websites of The Chronicle to which this policy is linked, including sfgate.com, SFChronicle.com and SFChron.com. If you have any questions or concerns about these privacy guidelines, please send an e-mail to: [](mailto:privacy@sfgate.com)[privacy@sfgate.com](mailto:privacy@sfgate.com). 
 
@@ -22,20 +19,19 @@ We may also from time to time make our customer lists available for direct marke
 
 Please review this policy for changes from time to time, and contact us if you have any questions.
 
-This policy was last updated on February 3, 2005.
+This policy was last updated on May 17, 2005.
 
 **TOPICS THIS STATEMENT COVERS**  
 ---  
 IP Addresses  
 |  Feedback Forms  
-|  Contests |  Choice/Opt Out |  Subscriptions  
-  
+|  Contests |  Choice/Opt Out  
 Cookies |  Advertiser Submission Forms |  Classifieds |  Correct/Update  
 Registration |  Polls |  Third Party Advertising  
 and Content |  Contact  
 Order Forms |  Email to a Friend |  Public Forums |  Newsletters  
-Chronicle Extra Access |  Surveys  
-|  Security |  Illegal Activity  
+Surveys  
+|  Security |  Illegal Activity |  Subscriptions  
   
 **IP ADDRESSES:**  
 An IP address is a number assigned to the computer which is requesting a web page from our site. Usually it is not your personal computer, but a computer used by your internet service provider or company network. The Chronicle uses IP addresses to help diagnose problems with our server, to administer our Web site, and to report aggregate information. 
@@ -63,13 +59,17 @@ The Chronicle requires registration for these features on SFGate.com:
 
 
 * Email Alerts (classified ads meeting your search criteria, emailed to you) 
-* Chronicle Extra Access (advance ticket sales) 
+* Email Newsletters 
 * JobFair resume uploads 
 * We recommend but do not currently require registration to place a WebAd or OnSale ad. 
 
-The SFGate.com registration form requires users to provide an email address and requests other information, such as address, phone number and zip code. Contact information is only used if there is a problem with your SFGate.com account. Reasons we may need to contact you include changes to the site which require action on your part. We currently do not use this information to send marketing information to you, and any information reported to advertisers is on an aggregate, not an individual basis. 
+The SFGate.com registration form requires users to provide an email address, year of birth, gender and zip code, and requests other information, such as name, address and phone number. 
 
-You can change your personal information and password at any time by going to our [registration page](https://web.archive.org/registration/). You may opt-out of receiving future mailings, should we decide to do them; see the choice/opt-out section below. 
+When registering, users have the ability to opt-in to receiving information from SFGate affiliates and advertisers. Users can change this choice at any time by logging in to their account and checking/unchecking the correct box. 
+
+After registering, users may receive communications from SFGate.com regarding SFGate.com products, services, and programs. Users can change this choice at any time by logging in to their account and checking/unchecking the correct box. 
+
+Users can change preferences and password at any time by going to our [registration page](https://web.archive.org/registration/). You may opt-out of receiving future mailings, should we decide to do them; see the choice/opt-out section below. 
 
 **SUBSCRIPTIONS:**  
 
@@ -81,11 +81,7 @@ The Chronicle uses this information to provide you with the service you have req
 Your credit card information is transferred to The Chronicle by our hosting facility through the use of Secure Socket Layer (SSL) technology that is encrypted to prevent its unauthorized disclosure. 
 
 **NEWSLETTERS:**  
-Your email address is required when signing up for our online [newsletters.](https://web.archive.org/newsletters/) Your e-mail address will be used only for the purposes you specify at the time you sign up. 
-
-For our Food and Wine newsletter, you will need to enter your Chronicle account number and house number, or phone number and house number. This information is only used to verify your subscription. 
-
-If you are not currently a Chronicle subscriber you may subscribe to the newsletter using a credit card. To subscribe by either method, please go to [this page](https://www.subscriber-services.com/sfchron/main.asp?page=foodandwinesignup.asp). 
+Registration is required when signing up for our online [newsletters.](https://web.archive.org/newsletters/)
 
 **ORDER FORMS:**  
 Our web sites use order forms when customers purchase services from us. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to get in touch with the customer when necessary. Reasons we may contact you include problems with the payment transaction or credit processing. If you purchase a classified ad from The Chronicle, we may contact you regarding the content of the ad if it is missing information or has any questionable information. Financial information that is collected is used to bill the user for services. Contact information and financial information are kept private and is used for no other purpose than what is indicated above. However, we may share that information with third parties to the extent necessary to process and fulfill your order and to provide you with the product or service you have requested. 
@@ -101,18 +97,6 @@ Contact Info: In order to process your web-only ad, we require your name, addres
 Ad information: Any information that you include in the text of your ad will be seen by the public. SFGate has no control over how this information is used by readers of SFGate. For that reason, please think carefully about the type of personal information you include in the text of your ad. 
 
 Credit Card Info: Credit Card transactions for The Chronicle WebAd and OnSale ads are processed by Verisign. Neither SFGate nor Verisign retain your credit card information. Please see the [Verisign privacy policy](http://www.verisign.com/truste/index.html) for more information on how they handle privacy issues. 
-
-**CHRONICLE EXTRA ACCESS PROGRAM**: 
-
-The San Francisco Chronicle offers advanced ticket sales for selected shows to subscribers with 26 or 52 week billing cycles or who pay via EZPay. In order to purchase advance tickets, you must register with The Chronicle on SFGate.com. When you first log in to purchase tickets, you will be asked to enter your Subscription Account Number and Address Code. The Chronicle will then verify that you are eligible to purchase tickets by checking your account number and address code against our subscriber list. 
-
-If your information is validated, you will be taken to a screen with information on the tickets for sale and a special password you can use to purchase tickets. 
-
-When you click the "Purchase Tickets Now" button, you will be taken to a web page on Ticketmaster.com where you can purchase tickets. 
-
-**At this point you are no longer on the SFGate site. All information you provide, including credit card information, will be submitted to Ticketmaster. Please review the** **[Ticketmaster privacy policy](http://www.ticketmaster.com/h/privacy.html?pagefrom=hm_h_e1).**
-
-   Back to Top
 
 **FEEDBACK FORMS**:  
 The Chronicle features an online [feedback page](https://web.archive.org/feedback) to assist users in directing their feedback to the correct party. 
@@ -182,6 +166,9 @@ Third party web sites may appear in a new window, or they may appear in a frame.
 **Advariant:**  
 Advariant allows The Chronicle advertisers to create their own banner advertisements to run on The Chronicle web sites. For more information on this service, please see [this page](http://mm0.advariant.com/mm/index.jsp?affiliate=sfgate). For the Advariant privacy policy, please see [this page](http://mm0.advariant.com/mm/OutsidePrivacy.jsp;jsessionid=aaa4NQ3tT6rC5m?affiliate=amazingmedia&uid=notLoggedIn). 
 
+**AllBusiness:**  
+AllBusiness provides information for small businesses. They are featured on the SFGate [Business page](https://web.archive.org/business/). Please see their [privacy page](http://www.allbusiness.com/include/privacy.asp). 
+
 **Astrology 3D:**  
 Astrology 3D provides Horoscope information to our users. Their privacy policy can be found [here](http://astrology3d.com/sfgate/privacy.html). 
 
@@ -189,7 +176,7 @@ Astrology 3D provides Horoscope information to our users. Their privacy policy c
 Bank Rate Monitor provides financial information. Their privacy policy is located [here](http://www.bankrate.com/coinfo/privacy.asp).
 
 **CareerSite:**  
-CareerSite posts recruitment classifieds. Job Seekers can create resumes and cover letters and apply to jobs. Employers can place online-only jobs and review applicant resumes. View the CareerSite [Privacy Policy](http://www.careersite.com/perl/vrui/VRD/top/msgdb/ui.info.content.privacy?pid=empwiz). You can also view the [Candidate Terms and Conditions Agreement](http://www.careersite.com/perl/vaui/Info/top/msgdb/ui.info.terms?pid=empwiz)
+CareerSite (a.k.a. NowHiring.com) posts recruitment classifieds. Job Seekers can create resumes and cover letters and apply to jobs. Employers can place online-only jobs and review applicant resumes. View the CareerSite [Privacy Policy](http://www.nowhiring.com/employer/privacy.html). 
 
 **Chronicle Books:**  
 Chronicle Books, along with SFGate.com, was previously owned by the Chronicle Publishing Company, but is no longer owned by the San Francisco Chronicle. For more information, please go [here](https://www.chroniclebooks.com/help/).
@@ -214,6 +201,12 @@ Great schools offers information about schools. Some content is free and some re
 **KRON-TV:**  
 KRON-TV provides live views from different cameras in the Bay Area. Please see their [privacy policy](http://www.kron.com/global/story.asp?s=18990). 
 
+**Legacy:**  
+Legacy archives Chronicle Death Notices for 90 days. You may be asked for personally identifiable information if you choose to use certain Legacy features. Please see the Legacy [Frequently Asked Questions page](http://www.legacy.com/SFGate/LegacySubPage1.asp?Page=FAQ) which contains links to contact information and Terms and Conditions. Also, please see the Legacy [Privacy Policy](http://www.legacy.com/Legacy.asp?Page=PrivacyPolicy). 
+
+**MeeVee:**  
+MeeVee provides [TV listings](http://www.sfgate.com/tvradio/). Their privacy policy is here: [](http://sfgate.meevee.com/help/privacy_policy.aspx)[sfgate.meevee.com/help/privacy_policy.aspx](http://sfgate.meevee.com/help/privacy_policy.aspx)
+
 **MovieTickets.com:**  
 There are links from The Chronicle online movie listings that allow you to purchase movie tickets. No information you may provide on movietickets.com is provided to The Chronicle. Please see their [privacy policy](http://www.movietickets.com/privacy.asp). 
 
@@ -225,6 +218,9 @@ Pictopia is a service that will deliver prints of Chronicle photos to you. Pleas
 
 **Roundpoint:**  
 Roundpoint provides a service that allows users to download San Francisco Chronicle stories to handheld devices. More more information on this feature, please see [this page](https://web.archive.org/mobile/). For privacy information, please see the [Roundpoint privacy policy](http://www.roundpoint.com/subscriber/privacy.html). 
+
+**Salary.com:**  
+Salary.com provides employment information. You may be asked for personally identifiable information if you choose to use certain Salary.com features. Please see the Salary.com [Privacy Policy](http://sfgatejobs.salary.com/salarywizard/docs/salwizhtmls/privacy_policy.html). 
 
 **Spring Street Networks:**  
 Spring Street Networks is a relationship service. Their privacy policy is located [here](http://www.springstreetnetworks.com/tos/privacy.asp).
@@ -241,7 +237,7 @@ Travidia hosts the [PersonalShopper](http://personalshopper.sfgate.com/) service
    Back to Top
 
 **PUBLIC FORUMS:**  
-This site makes chat rooms, forums, message boards, and/or news groups available to our users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+This site makes chat rooms, forums, message boards, blogs and/or news groups available to our users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
 **Vent Boxes** :  
 Vent Boxes are forums that do not require registration. When posting, you will be asked to provide your name, hometown and email. Only your name is a required field, and you may use only your first name or an alias if you wish. 
