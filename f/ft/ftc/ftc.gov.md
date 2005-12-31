@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftc.gov privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629053824id_/http%3A//www.ftc.gov/ftc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftc.gov privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231073725id_/http%3A//ftc.gov/ftc/privacy.htm) for the most accurate reproduction.*
 
 # Federal Trade Commission Privacy Policy
 
@@ -34,7 +34,7 @@ If you choose to provide personally identifying information to us, we will use a
     * We may share your complaint with a variety of government agencies worldwide that enforce consumer protection, competition, and other laws.
     * We may share your complaint with certain private entities, including companies you may have complained about, to help address your complaint. If your complaint concerns identity theft or the accuracy of your credit report, we may share it with credit bureaus to help address your complaint or identity theft-related concern.
     * When you submit a complaint, you may be contacted by the FTC, other law enforcement agencies, or any of the private entities to which your complaint has been referred. 
-  * If you contact us by phone to be included in the **[National Do Not Call Registry](http://www.donotcall.gov/)** , we will collect your phone number and store it in the registry so that telemarketers and sellers covered by the FTC's rules can remove your phone number from their call lists. If you contact us via the Internet, we also collect your email address to confirm your registration request. We will store your email address in a secure manner, separate from your telephone number. We will not share your email address with telemarketers. Telemarketers are required to search the registry every three months and delete from their call lists phone numbers that are in the registry. Phone numbers in the registry may also be shared with law enforcement to assure compliance with federal and state law. 
+  * If you contact us by phone to be included in the **[National Do Not Call Registry](http://www.donotcall.gov/)** , we will collect your phone number and store it in the registry so that telemarketers and sellers covered by the FTC's rules can remove your phone number from their call lists. If you contact us via the Internet, we also collect your email address to confirm your registration request. We will store your email address in a secure manner, separate from your telephone number. We will not share your email address with telemarketers. Phone numbers in the registry may also be shared with law enforcement to assure compliance with federal and state law. 
   * In other circumstances, including requests from Congress, **[Freedom of Information Act](http://www.ftc.gov/foia/index.htm)** requests from private individuals or companies, during litigation, for routine agency uses subject to the **[Privacy Act](http://www.ftc.gov/foia/privacy_act.htm)**, or under our **[access and public record rules](http://frwebgate.access.gpo.gov/cgi-bin/get-cfr.cgi?TITLE=16&PART=4&SECTION=9&TYPE=TEXT)** , we may be required or authorized by law to disclose the information you provide.
 
 
@@ -72,7 +72,7 @@ If you choose to provide personally identifying information to us, we will use a
 
 
 
-**Last Updated** : Tuesday, April 19, 2005
+**Last Updated** : Tuesday, October 4, 2005
 
 * * *
 
